@@ -1,0 +1,11 @@
+# Site settings
+name: XiaomiFirmwareUpdater
+title: Xiaomi Firmware Updater
+description: ""
+baseurl: ""
+author: berkantkz
+repository: XiaomiFirmwareUpdater/xiaomifirmwareupdater.github.io
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
