@@ -34,7 +34,7 @@
 		lastPosition = currentPosition;
 	});
 	
-	$.get("https://github.com/XiaomiFirmwareUpdater/mi-firmware-updater/blob/weekly/supported.md", function(data) {
+	$.get("https://xiaomifirmwareupdater.github.io/supported", function(data) {
 		var supportedDevices = $("<body>").html(data).find("article").html();
 		$('#dialogWindow').append(supportedDevices);
 	}).done(function() {
