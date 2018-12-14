@@ -35,13 +35,17 @@
 	});
 	
 	$.get("https://xiaomifirmwareupdater.github.io/supported", function(data) {
-		var supportedDevices = $("<body>").html(data).find("article").html();
-		$('#dialogWindow').append(supportedDevices);
+		var supportedDevices = $("<body>").html(data).find("table").html();
+		$('#dialogWindow table').html(supportedDevices);
+		//console.log($($('#dialogWindow tbody')[0]));
 	}).done(function() {
-		$('#dialogWindow table tr').each(function(tag, item) {
-			item.children[4].remove();
+		$('#dialogWindow table tbody tr').each(function(tag, item) {
+			//console.log($(item)[0].children[4]);
+			$($(this)[0].children[4]).remove();
+			$($("#dialogWindow table thead th")[4]).remove();
 		});
 	});
+	
 	var token = "0dc63205e1481ea2480f46e1725b585c364b50a5";
 	
 	var stable_content = '';
