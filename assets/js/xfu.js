@@ -46,7 +46,7 @@
 		});
 	});
 	
-	var token = "0dc63205e1481ea2480f46e1725b585c364b50a5";
+	var token = "ed35c2a31e3a6d2fb88f59e62499953d0167b4de";
 	
 	var stable_content = '';
 	stable_content +='<tr>'
@@ -80,7 +80,7 @@
 		url: 'https://api.github.com/orgs/XiaomiFirmwareUpdater/repos?per_page=100',
 		data: { get_param: 'value' },
 		dataType: 'json',
-		headers: {"Authorization": "token 0dc63205e1481ea2480f46e1725b585c364b50a5"},
+		headers: {"Authorization": "token ed35c2a31e3a6d2fb88f59e62499953d0167b4de"},
 		success: function (response) {
 			
 			$.getJSON("https://raw.githubusercontent.com/XiaomiFirmwareUpdater/devices/master/devices.json", function(json) {
@@ -113,7 +113,7 @@
 						
 						allDevices.push(device);
 						
-						$.getJSON("https://api.github.com/repos/XiaomiFirmwareUpdater/firmware_xiaomi_" + device + "/releases?per_page=100&" + token, function(data) {
+						$.getJSON("https://api.github.com/repos/XiaomiFirmwareUpdater/firmware_xiaomi_" + device + "/releases?per_page=100&access_token=" + token, function(data) {
 							deviceCount = deviceCount + 1;
 							var i = data.length - 1;
 							
@@ -282,7 +282,7 @@
 		url: 'https://api.github.com/orgs/XiaomiFirmwareUpdater/repos?per_page=100&' + token,
 		data: { get_param: 'value' },
 		dataType: 'json',
-		headers: {"Authorization": "token 0dc63205e1481ea2480f46e1725b585c364b50a5"},
+		headers: {"Authorization": "token ed35c2a31e3a6d2fb88f59e62499953d0167b4de"},
 		success: function (response) {
 			
 			var urls = [];
@@ -306,7 +306,7 @@
 					device = value.html_url.replace("https://github.com/XiaomiFirmwareUpdater/","").replace("firmware_xiaomi_","");
 					
 					weeklyDevices.push(device);
-					$.getJSON("https://api.github.com/repos/XiaomiFirmwareUpdater/firmware_xiaomi_" + device + "/releases?per_page=100&" + token, function(data) {
+					$.getJSON("https://api.github.com/repos/XiaomiFirmwareUpdater/firmware_xiaomi_" + device + "/releases?per_page=100&access_token=" + token, function(data) {
 						
 						weeklyDeviceCount = weeklyDeviceCount + 1;
 						
@@ -526,7 +526,7 @@
 		$('#deviceInfoDialogContainer #device').text(model + " (" + codename + ")");
 		$('#deviceInfoDialogBuilds table tbody').html("");
 		
-		$.getJSON("https://api.github.com/repos/XiaomiFirmwareUpdater/firmware_xiaomi_" + codename + "/releases?per_page=100&" + token, function(response) {
+		$.getJSON("https://api.github.com/repos/XiaomiFirmwareUpdater/firmware_xiaomi_" + codename + "/releases?per_page=100&access_token=" + token, function(response) {
 			$.each(response, function(index, value) {
 				var stableBuilds = "", weeklyBuilds = "";
 				if (item.id == "dialogButtonStable" && value.tag_name.includes("stable")) {
