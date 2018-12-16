@@ -70,3 +70,4 @@
 | 352 | MIMAX3Global | Xiaomi Mi Max 3 Global | nitrogen | [Here](https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/latest) |
 | 353 | MI8Lite | Xiaomi Mi 8 Lite | platina | [Here](https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/latest) |
 | 355 | POCOF1Global | Xiaomi Poco F1 | beryllium | [Here](https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/latest) |
+| 356 | HMNote6ProGlobal | Redmi Note 6 Pro | tulip_global | [Here](https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/latest) |
