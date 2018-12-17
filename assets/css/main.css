@@ -2489,7 +2489,7 @@
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2em 0;
+		margin: 1em;
 		padding-left: 1em;
 	}
 
@@ -2523,7 +2523,7 @@
 
 			ul.icons li {
 				display: inline-block;
-				padding: 0 2.25em 0 2.25em;
+				padding: 1em;
 			}
 
 				ul.icons li:last-child {
@@ -2726,7 +2726,9 @@
 		}
 		
 		tr th:nth-child(1), td:nth-child(1) {
-			max-width: 31px !important;
+			min-width: 1%;
+			width: 2%;
+			max-width: 2%;
 			padding: 0 10px 0 10px !important;
 			text-align: right;
 		}
@@ -2764,6 +2766,24 @@
 			table.alt tfoot {
 				border-top: 0;
 			}
+		
+		tr:nth-child(2) > th:nth-child(3) {
+			width: 1%;
+			max-width: 1%;
+			min-width: 1%;
+		}
+		
+		tr:nth-child(2) > th:nth-child(2) {
+			min-width: 15%;
+			width: 20%;
+			max-width: 25%;
+		}
+		
+		td:nth-child(2) {
+			width: 20%;
+			min-width: 15%;
+			max-width: 25%;
+		}
 
 /* Button */
 
