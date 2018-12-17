@@ -555,6 +555,7 @@
 							<td>" + (global ? "Global" : "Chinese") + "</td>\
 							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : "<a href='" + dlUrl + "' target='_blank'>GitHub</a>") + "</td>\
 							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : ((miVer.split(".")[0] == "V10") | (miVer.split(".")[0] == "V9")) ? "<a href='https://sourceforge.net/projects/xiaomi-firmware-updater/files/Stable/" + miVer.split(".")[0] + "/" + codename + "/" + filename + "/download' target='_blank'>Sourceforge</a>" : "<a>N/A</a>") + "</td>\
+							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : ((miVer.split(".")[0] == "V10") | (miVer.split(".")[0] == "V9")) ? "<a href='https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/" + miVer.split(".")[0] + "/" + codename + "/" + filename + "' target='_blank'>OSDN</a>" : "<a>N/A</a>") + "</td>\
 						</tr>";
 					}
 					
@@ -574,6 +575,7 @@
 							<td>" + (global ? "Global" : "Chinese") + "</td>\
 							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : "<a href='" + dlUrl + "' target='_blank'>GitHub</a>") + "</td>\
 							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : ((miVer.split(".")[0] == "V10") | (miVer.split(".")[0] == "V9")) ? "<a href='https://sourceforge.net/projects/xiaomi-firmware-updater/files/Stable/" + miVer.split(".")[0] + "/" + codename + "/" + filename + "/download' target='_blank'>Sourceforge</a>" : "<a>N/A</a>") + "</td>\
+							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : ((miVer.split(".")[0] == "V10") | (miVer.split(".")[0] == "V9")) ? "<a href='https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/" + miVer.split(".")[0] + "/" + codename + "/" + filename + "' target='_blank'>OSDN</a>" : "<a>N/A</a>") + "</td>\
 						</tr>";						
 					}
 					
@@ -607,6 +609,7 @@
 							<td>" + (global ? "Global" : "Chinese") + "</td>\
 							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : "<a href='" + dlUrl + "' target='_blank'>GitHub</a>") + "</td>\
 							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : "<a href='https://sourceforge.net/projects/xiaomi-firmware-updater/files/Developer/" + (miVer) + "/" + codename + "/" + filename + "/download' target='_blank'>Sourceforge</a>") + "</td>\
+							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : "<a href='https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/" + (miVer) + "/" + codename + "/" + filename + "' target='_blank'>OSDN</a>") + "</td>\
 						</tr>";
 					} 
 					
@@ -626,6 +629,7 @@
 							<td>" + (global ? "Global" : "Chinese") + "</td>\
 							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : "<a href='" + dlUrl + "' target='_blank'>GitHub</a>") + "</td>\
 							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : "<a href='https://sourceforge.net/projects/xiaomi-firmware-updater/files/Developer/" + (miVer) + "/" + codename + "/" + filename + "/download' target='_blank'>Sourceforge</a>") + "</td>\
+							<td>" + (dlUrl == "N/A" ? "<a>N/A</a>" : "<a href='https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/" + (miVer) + "/" + codename + "/" + filename + "' target='_blank'>OSDN</a>") + "</td>\
 						</tr>";
 					}
 					
