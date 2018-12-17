@@ -56,7 +56,7 @@
 	stable_content += '<tr>'
 	stable_content += '<th>#</th>'
 	stable_content += '<th>Model</th>'
-	stable_content += '<th onclick="sortBy(this)">Codename</th>'
+	stable_content += '<th onclick="sortBy(this)">Codename <i class="fa fa-sort"></i></th>'
 	stable_content += '<th>MIUI Version</th>'
 	stable_content += '<th>Android</th>'
 	stable_content += '<th>Update Time</th>'
@@ -258,7 +258,7 @@
 	weekly_content += '<tr>'
 	weekly_content += '<th>#</th>'
 	weekly_content += '<th>Model</th>'
-	weekly_content += '<th onclick="sortBy(this)">Codename</th>'
+	weekly_content += '<th onclick="sortBy(this)">Codename <i class="fa fa-sort"></i></th>'
 	weekly_content += '<th>MIUI Version</th>'
 	weekly_content += '<th>Android</th>'
 	//weekly_content += '<th>Download URL</th>'
@@ -504,6 +504,12 @@
 	};
 	
 	function sortBy(item) {
+		//console.log($(item));
+		var currentI = $(item)[0].children[0].className;
+		var sortUp = ' <i class="fa fa-sort-up"></i></th>'
+		var sortDown = ' <i class="fa fa-sort-down"></i></th>'
+		$($(item)[0].children).remove();
+		currentI.includes("up") ? $(item).append(sortDown) : $(item).append(sortUp);
 		var table = $(item)[0].parentNode.parentElement.id;
 		if (table == "tbody_weekly") {
 			w3.sortHTML('#tbody_weekly','.item', 'td:nth-child(3)')
