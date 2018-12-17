@@ -1,10 +1,9 @@
-	var hash = window.location.hash;
-	if (hash == "") {
+	if (window.location.hash == "") {
 		window.location.hash = "stable"
 	}
 	
 	$(document).ready(function() {
-		(hash.split('#')[1] == "stable" ? tabs_stable() : tabs_weekly());
+		(window.location.hash.split('#')[1] == "stable" ? tabs_stable() : tabs_weekly());
 	});
 	
 	function tabs_stable() {
@@ -484,6 +483,7 @@
 	
 	// Handling tabs
 	function switchTab(item) {
+		var hash = window.location.hash;
 		if (item.id == 'tab_stable') {
 			hash.split('#')[2] != null ? window.location.href = "#stable" + "#" + hash.split('#')[2] : window.location.href = "#stable";
 			//window.location.href = "#stable";
