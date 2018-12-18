@@ -176,7 +176,7 @@
 									stable_content+='<td title="' + version_global +'">' + version_global + '</td>'
 									stable_content+='<td>' + android_global + '</td>'
 									//stable_content+='<td><a href="' + download_global + '" target="_blank">Here</a></td>'
-									stable_content+='<td>' + updateTime_global + '</td>'
+									stable_content+='<td class="dateHolder">' + updateTime_global + '</td>'
 								} else {
 									stable_content+='<td colspan="3" style="text-align: center; font-style: italic">No global build available for ' + device + '</td>'
 								}
@@ -185,7 +185,7 @@
 									stable_content+='<td title="' + version_china + '">' + version_china + '</td>'
 									stable_content+='<td>' + android_china + '</td>'
 									//stable_content+='<td><a href="' + download_china + '" target="_blank">Here</a></td>'
-									stable_content+='<td>' + updateTime_china + '</td>'
+									stable_content+='<td class="dateHolder">' + updateTime_china + '</td>'
 									stable_content+='<td onclick="showDeviceInfoDialog(this)" id="dialogButtonStable"><a>Links</a></td>'
 								} else {
 									stable_content+='<td colspan="3" style="text-align: center; font-style: italic">No Chinese build available for ' + device + '</td>'
@@ -381,7 +381,7 @@
 								weekly_content+='<td title="' + version_global +'">' + version_global + '</td>'
 								weekly_content+='<td>' + android_global + '</td>'
 								//weekly_content+='<td><a href="' + download_global + '" target="_blank">Here</a></td>'
-								weekly_content+='<td>' + updateTime_global + '</td>'
+								weekly_content+='<td class="dateHolder">' + updateTime_global + '</td>'
 							} else {
 								weekly_content+='<td colspan="3" style="text-align: center; font-style: italic">No global build available for ' + device + '</td>'
 							}
@@ -390,7 +390,7 @@
 								weekly_content+='<td title="' + version_china + '">' + version_china + '</td>'
 								weekly_content+='<td>' + android_china + '</td>'
 								//weekly_content+='<td><a href="' + download_china + '" target="_blank">Here</a></td>'
-								weekly_content+='<td>' + updateTime_china + '</td>'
+								weekly_content+='<td class="dateHolder">' + updateTime_china + '</td>'
 								weekly_content+='<td onclick="showDeviceInfoDialog(this)" id="dialogButtonWeekly"><a>Links</a></td>'
 							} else {
 								weekly_content+='<td colspan="3" style="text-align: center; font-style: italic">No Chinese build available for ' + device + '</td>'
