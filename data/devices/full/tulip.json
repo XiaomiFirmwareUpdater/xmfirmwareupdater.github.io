@@ -14,7 +14,7 @@
     "filename": "fw_tulip_miui_HMNote6ProGlobal_V9.6.10.0.OEKMIFD_890cad3132_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.23",
       "android": "8.1"
@@ -23,12 +23,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-26.11.2018/fw_tulip_miui_HMNote6ProGlobal_8.11.23_d300289160_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.23/tulip/fw_tulip_miui_HMNote6ProGlobal_8.11.23_d300289160_8.1.zip"
     },
     "filename": "fw_tulip_miui_HMNote6ProGlobal_8.11.23_d300289160_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.29",
       "android": "8.1"
@@ -37,7 +37,7 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-03.12.2018/fw_tulip_miui_HMNote6ProGlobal_8.11.29_dda629a601_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/tulip/fw_tulip_miui_HMNote6ProGlobal_8.11.29_dda629a601_8.1.zip"
     },
     "filename": "fw_tulip_miui_HMNote6ProGlobal_8.11.29_dda629a601_8.1.zip"
   },
@@ -70,7 +70,7 @@
     "filename": "fw_tulip_miui_HMNote6ProGlobal_V10.0.5.0.OEKMIFH_e35502cfc2_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.6",
       "android": "8.1"
@@ -79,12 +79,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-07.12.2018/fw_tulip_miui_HMNote6ProGlobal_8.12.6_bddb9ce8ea_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/tulip/fw_tulip_miui_HMNote6ProGlobal_8.12.6_bddb9ce8ea_8.1.zip"
     },
     "filename": "fw_tulip_miui_HMNote6ProGlobal_8.12.6_bddb9ce8ea_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.13",
       "android": "8.1"
@@ -93,12 +93,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-14.12.2018/fw_tulip_miui_HMNote6ProGlobal_8.12.13_a835ac6144_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/tulip/fw_tulip_miui_HMNote6ProGlobal_8.12.13_a835ac6144_8.1.zip"
     },
     "filename": "fw_tulip_miui_HMNote6ProGlobal_8.12.13_a835ac6144_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.20",
       "android": "8.1"
@@ -107,7 +107,7 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-21.12.2018/fw_tulip_miui_HMNote6ProGlobal_8.12.20_1560c3c73b_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/tulip/fw_tulip_miui_HMNote6ProGlobal_8.12.20_1560c3c73b_8.1.zip"
     },
     "filename": "fw_tulip_miui_HMNote6ProGlobal_8.12.20_1560c3c73b_8.1.zip"
   }

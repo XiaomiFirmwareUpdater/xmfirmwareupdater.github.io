@@ -70,7 +70,7 @@
     "filename": "fw_beryllium_miui_BERYLLIUMGlobal_V9.6.14.0.OEJMIFD_9f7f9e0fa4_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.1"
@@ -79,12 +79,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-13.09.2018/fw_beryllium_miui_POCOF1Global_8.9.13_30b2ad4f8d_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/beryllium/fw_beryllium_miui_POCOF1Global_8.9.13_30b2ad4f8d_8.1.zip"
     },
     "filename": "fw_beryllium_miui_POCOF1Global_8.9.13_30b2ad4f8d_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "8.1"
@@ -93,7 +93,7 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-20.09.2018/fw_beryllium_miui_POCOF1Global_8.9.20_28fda72fb4_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/beryllium/fw_beryllium_miui_POCOF1Global_8.9.20_28fda72fb4_8.1.zip"
     },
     "filename": "fw_beryllium_miui_POCOF1Global_8.9.20_28fda72fb4_8.1.zip"
   },
@@ -117,6 +117,20 @@
       "miui": "V9.6.22.0.OEJMIFD",
       "android": "8.1"
     },
+    "date": "2018-09-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-21.09.2018/fw_beryllium_miui_POCOF1Global_V9.6.22.0.OEJMIFD_8168225b64_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/beryllium/fw_beryllium_miui_POCOF1Global_V9.6.22.0.OEJMIFD_8168225b64_8.1.zip"
+    },
+    "filename": "fw_beryllium_miui_POCOF1Global_V9.6.22.0.OEJMIFD_8168225b64_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.22.0.OEJMIFD",
+      "android": "8.1"
+    },
     "date": "2018-09-25",
     "type": "Global",
     "downloads": {
@@ -126,7 +140,7 @@
     "filename": "fw_beryllium_miui_POCOF1Global_V9.6.22.0.OEJMIFD_8168225b64_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.11",
       "android": "8.1"
@@ -135,7 +149,7 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-11.10.2018/fw_beryllium_miui_POCOF1Global_8.10.11_6664676ae1_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/beryllium/fw_beryllium_miui_POCOF1Global_8.10.11_6664676ae1_8.1.zip"
     },
     "filename": "fw_beryllium_miui_POCOF1Global_8.10.11_6664676ae1_8.1.zip"
   },
@@ -168,7 +182,7 @@
     "filename": "fw_beryllium_miui_POCOF1Global_V9.6.25.0.OEJMIFD_3433a60ef4_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.18",
       "android": "8.1"
@@ -177,12 +191,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-19.10.2018/fw_beryllium_miui_POCOF1Global_8.10.18_7908edaf56_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/beryllium/fw_beryllium_miui_POCOF1Global_8.10.18_7908edaf56_8.1.zip"
     },
     "filename": "fw_beryllium_miui_POCOF1Global_8.10.18_7908edaf56_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.25",
       "android": "8.1"
@@ -191,12 +205,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-26.10.2018/fw_beryllium_miui_POCOF1Global_8.10.25_241c24c080_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/beryllium/fw_beryllium_miui_POCOF1Global_8.10.25_241c24c080_8.1.zip"
     },
     "filename": "fw_beryllium_miui_POCOF1Global_8.10.25_241c24c080_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.15",
       "android": "9.0"
@@ -205,7 +219,7 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-16.11.2018/fw_beryllium_miui_POCOF1Global_8.11.15_fd06777c5a_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/beryllium/fw_beryllium_miui_POCOF1Global_8.11.15_fd06777c5a_9.0.zip"
     },
     "filename": "fw_beryllium_miui_POCOF1Global_8.11.15_fd06777c5a_9.0.zip"
   },
@@ -238,7 +252,7 @@
     "filename": "fw_beryllium_miui_POCOF1Global_V10.0.6.0.OEJMIFH_c5f0857b02_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.29",
       "android": "9.0"
@@ -247,12 +261,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-03.12.2018/fw_beryllium_miui_POCOF1Global_8.11.29_14c6931f61_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/beryllium/fw_beryllium_miui_POCOF1Global_8.11.29_14c6931f61_9.0.zip"
     },
     "filename": "fw_beryllium_miui_POCOF1Global_8.11.29_14c6931f61_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.7",
       "android": "9.0"
@@ -261,12 +275,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-10.12.2018/fw_beryllium_miui_POCOF1Global_8.12.7_f61cf79364_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.7/beryllium/fw_beryllium_miui_POCOF1Global_8.12.7_f61cf79364_9.0.zip"
     },
     "filename": "fw_beryllium_miui_POCOF1Global_8.12.7_f61cf79364_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.13",
       "android": "9.0"
@@ -275,12 +289,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-14.12.2018/fw_beryllium_miui_POCOF1Global_8.12.13_652920093c_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/beryllium/fw_beryllium_miui_POCOF1Global_8.12.13_652920093c_9.0.zip"
     },
     "filename": "fw_beryllium_miui_POCOF1Global_8.12.13_652920093c_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.20",
       "android": "9.0"
@@ -289,8 +303,22 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-21.12.2018/fw_beryllium_miui_POCOF1Global_8.12.20_9463021df4_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/beryllium/fw_beryllium_miui_POCOF1Global_8.12.20_9463021df4_9.0.zip"
     },
     "filename": "fw_beryllium_miui_POCOF1Global_8.12.20_9463021df4_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.3.0.PEJMIFI",
+      "android": "9.0"
+    },
+    "date": "2018-12-22",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-22.12.2018/fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip"
+    },
+    "filename": "fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip"
   }
 ]

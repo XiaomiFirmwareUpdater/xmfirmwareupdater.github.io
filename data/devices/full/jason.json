@@ -58,6 +58,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "V9.5.8.0.NCHCNFA",
+      "android": "7.1"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/untagged-7bb995cee73472457e05/fw_jason_miui_MINote3_V9.5.8.0.NCHCNFA_982329e081_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.8.0.NCHCNFA/jason/fw_jason_miui_MINote3_V9.5.8.0.NCHCNFA_982329e081_7.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3_V9.5.8.0.NCHCNFA_982329e081_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "V9.5.3.0.NCHMIFA",
       "android": "7.1"
     },
@@ -68,6 +82,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.NCHMIFA/jason/fw_jason_miui_MINote3Global_V9.5.3.0.NCHMIFA_f75ae7e989_7.1.zip"
     },
     "filename": "fw_jason_miui_MINote3Global_V9.5.3.0.NCHMIFA_f75ae7e989_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.8.0.NCHCNFA",
+      "android": "7.1"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/untagged-302b9df0359fcb113b2c/fw_jason_miui_MINote3_V9.5.8.0.NCHCNFA_982329e081_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.8.0.NCHCNFA/jason/fw_jason_miui_MINote3_V9.5.8.0.NCHCNFA_982329e081_7.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3_V9.5.8.0.NCHCNFA_982329e081_7.1.zip"
   },
   {
     "branch": "weekly",
@@ -86,6 +114,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "V9.5.3.0.NCHMIFA",
+      "android": "7.1"
+    },
+    "date": "2018-05-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/untagged-32f3b6f87e3e3b3c5153/fw_jason_miui_MINote3Global_V9.5.3.0.NCHMIFA_f75ae7e989_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.NCHMIFA/jason/fw_jason_miui_MINote3Global_V9.5.3.0.NCHMIFA_f75ae7e989_7.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3Global_V9.5.3.0.NCHMIFA_f75ae7e989_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "V9.6.1.0.NCHCNFD",
       "android": "7.1"
     },
@@ -100,6 +142,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "V9.5.4.0.NCHMIFA",
+      "android": "7.1"
+    },
+    "date": "2018-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/untagged-dab32aca37c6ec9e76ee/fw_jason_miui_MINote3Global_V9.5.4.0.NCHMIFA_0a333fd7c0_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.NCHMIFA/jason/fw_jason_miui_MINote3Global_V9.5.4.0.NCHMIFA_0a333fd7c0_7.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3Global_V9.5.4.0.NCHMIFA_0a333fd7c0_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "V9.6.2.0.NCHMIFD",
       "android": "7.1"
     },
@@ -110,6 +166,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.NCHMIFD/jason/fw_jason_miui_MINote3Global_V9.6.2.0.NCHMIFD_1fc04033a7_7.1.zip"
     },
     "filename": "fw_jason_miui_MINote3Global_V9.6.2.0.NCHMIFD_1fc04033a7_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.1.0.NCHCNFD",
+      "android": "7.1"
+    },
+    "date": "2018-07-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/untagged-cd9cea56b79ce4f71e55/fw_jason_miui_MINote3_V9.6.1.0.NCHCNFD_7bba0c2b0c_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.NCHCNFD/jason/fw_jason_miui_MINote3_V9.6.1.0.NCHCNFD_7bba0c2b0c_7.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3_V9.6.1.0.NCHCNFD_7bba0c2b0c_7.1.zip"
   },
   {
     "branch": "weekly",
@@ -142,6 +212,20 @@
   {
     "branch": "stable",
     "versions": {
+      "miui": "V9.6.1.0.NCHCNFD",
+      "android": "7.1"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-20.07.2018/fw_jason_miui_MINote3_V9.6.1.0.NCHCNFD_7bba0c2b0c_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/jason/fw_jason_miui_MINote3_V9.6.1.0.NCHCNFD_7bba0c2b0c_7.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3_V9.6.1.0.NCHCNFD_7bba0c2b0c_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.7.26",
       "android": "8.1"
     },
@@ -149,12 +233,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-27.07.2018/fw_jason_miui_MINote3_8.7.26_655203d184_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/jason/fw_jason_miui_MINote3_8.7.26_655203d184_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.7.26_655203d184_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.3",
       "android": "8.1"
@@ -163,12 +247,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-06.08.2018/fw_jason_miui_MINote3_8.8.3_19f40c1332_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/jason/fw_jason_miui_MINote3_8.8.3_19f40c1332_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.8.3_19f40c1332_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.9",
       "android": "8.1"
@@ -177,12 +261,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-10.08.2018/fw_jason_miui_MINote3_8.8.9_ee739fd528_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/jason/fw_jason_miui_MINote3_8.8.9_ee739fd528_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.8.9_ee739fd528_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.16",
       "android": "8.1"
@@ -191,12 +275,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-17.08.2018/fw_jason_miui_MINote3_8.8.16_563db2cab6_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/jason/fw_jason_miui_MINote3_8.8.16_563db2cab6_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.8.16_563db2cab6_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.23",
       "android": "8.1"
@@ -205,12 +289,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-29.08.2018/fw_jason_miui_MINote3_8.8.23_620387a633_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/jason/fw_jason_miui_MINote3_8.8.23_620387a633_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.8.23_620387a633_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.30",
       "android": "8.1"
@@ -219,7 +303,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-31.08.2018/fw_jason_miui_MINote3_8.8.30_f09529d105_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/jason/fw_jason_miui_MINote3_8.8.30_f09529d105_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.8.30_f09529d105_8.1.zip"
   },
@@ -240,6 +324,20 @@
   {
     "branch": "stable",
     "versions": {
+      "miui": "V9.6.1.0.NCHCNFD",
+      "android": "7.1"
+    },
+    "date": "2018-09-04",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-04.09.2018/fw_jason_miui_MINote3_V9.6.1.0.NCHCNFD_7bba0c2b0c_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/jason/fw_jason_miui_MINote3_V9.6.1.0.NCHCNFD_7bba0c2b0c_7.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3_V9.6.1.0.NCHCNFD_7bba0c2b0c_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.9.6",
       "android": "8.1"
     },
@@ -247,12 +345,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-07.09.2018/fw_jason_miui_MINote3_8.9.6_ca75738ead_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/jason/fw_jason_miui_MINote3_8.9.6_ca75738ead_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.9.6_ca75738ead_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.1"
@@ -261,12 +359,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-18.09.2018/fw_jason_miui_MINote3_8.9.13_2f48c04101_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/jason/fw_jason_miui_MINote3_8.9.13_2f48c04101_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.9.13_2f48c04101_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "8.1"
@@ -275,12 +373,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-21.09.2018/fw_jason_miui_MINote3_8.9.20_14d25e6798_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/jason/fw_jason_miui_MINote3_8.9.20_14d25e6798_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.9.20_14d25e6798_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.1"
@@ -289,12 +387,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-25.09.2018/fw_jason_miui_MINote3_8.9.13_2f48c04101_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/jason/fw_jason_miui_MINote3_8.9.13_2f48c04101_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.9.13_2f48c04101_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "8.1"
@@ -303,12 +401,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-26.09.2018/fw_jason_miui_MINote3_8.9.20_14d25e6798_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/jason/fw_jason_miui_MINote3_8.9.20_14d25e6798_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.9.20_14d25e6798_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.1"
@@ -317,12 +415,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-30.09.2018/fw_jason_miui_MINote3_8.9.13_2f48c04101_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/jason/fw_jason_miui_MINote3_8.9.13_2f48c04101_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.9.13_2f48c04101_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.11",
       "android": "8.1"
@@ -331,12 +429,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-12.10.2018/fw_jason_miui_MINote3_8.10.11_59c51e287e_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/jason/fw_jason_miui_MINote3_8.10.11_59c51e287e_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.10.11_59c51e287e_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.18",
       "android": "8.1"
@@ -345,12 +443,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-19.10.2018/fw_jason_miui_MINote3_8.10.18_76c4eca08c_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/jason/fw_jason_miui_MINote3_8.10.18_76c4eca08c_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.10.18_76c4eca08c_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.25",
       "android": "7.1"
@@ -359,12 +457,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-26.10.2018/fw_jason_miui_MINote3Global_8.10.25_e44bc478c9_7.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/jason/fw_jason_miui_MINote3Global_8.10.25_e44bc478c9_7.1.zip"
     },
     "filename": "fw_jason_miui_MINote3Global_8.10.25_e44bc478c9_7.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "8.1"
+    },
+    "date": "2018-10-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-26.10.2018/fw_jason_miui_MINote3_8.10.25_76d33925ff_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/jason/fw_jason_miui_MINote3_8.10.25_76d33925ff_8.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3_8.10.25_76d33925ff_8.1.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.1",
       "android": "7.1"
@@ -373,12 +485,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-02.11.2018/fw_jason_miui_MINote3Global_8.11.1_b71c428c28_7.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/jason/fw_jason_miui_MINote3Global_8.11.1_b71c428c28_7.1.zip"
     },
     "filename": "fw_jason_miui_MINote3Global_8.11.1_b71c428c28_7.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.8",
       "android": "8.1"
@@ -387,12 +499,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-09.11.2018/fw_jason_miui_MINote3_8.11.8_1be57c1cfc_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/jason/fw_jason_miui_MINote3_8.11.8_1be57c1cfc_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.11.8_1be57c1cfc_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.15",
       "android": "8.1"
@@ -401,12 +513,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-16.11.2018/fw_jason_miui_MINote3_8.11.15_73df0a9c76_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/jason/fw_jason_miui_MINote3_8.11.15_73df0a9c76_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.11.15_73df0a9c76_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.15",
       "android": "8.1"
@@ -415,12 +527,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-18.11.2018/fw_jason_miui_MINote3Global_8.11.15_81e9f3d106_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/jason/fw_jason_miui_MINote3Global_8.11.15_81e9f3d106_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3Global_8.11.15_81e9f3d106_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.22",
       "android": "8.1"
@@ -429,12 +541,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-23.11.2018/fw_jason_miui_MINote3_8.11.22_42f8e7c92f_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/jason/fw_jason_miui_MINote3_8.11.22_42f8e7c92f_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.11.22_42f8e7c92f_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.22",
       "android": "8.1"
@@ -443,12 +555,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-26.11.2018/fw_jason_miui_MINote3Global_8.11.22_3b0216531f_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/jason/fw_jason_miui_MINote3Global_8.11.22_3b0216531f_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3Global_8.11.22_3b0216531f_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.29",
       "android": "8.1"
@@ -457,12 +569,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-30.11.2018/fw_jason_miui_MINote3_8.11.29_08f296adad_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/jason/fw_jason_miui_MINote3_8.11.29_08f296adad_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.11.29_08f296adad_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.6",
       "android": "8.1"
@@ -471,9 +583,23 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-07.12.2018/fw_jason_miui_MINote3_8.12.6_d2017bfe07_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/jason/fw_jason_miui_MINote3_8.12.6_d2017bfe07_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.12.6_d2017bfe07_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "8.1"
+    },
+    "date": "2018-12-07",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-07.12.2018/fw_jason_miui_MINote3Global_8.12.6_a352c5b60d_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/jason/fw_jason_miui_MINote3Global_8.12.6_a352c5b60d_8.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3Global_8.12.6_a352c5b60d_8.1.zip"
   },
   {
     "branch": "stable",
@@ -490,7 +616,7 @@
     "filename": "fw_jason_miui_MINote3Global_V10.1.2.0.NCHMIFI_8fb39986d4_7.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.13",
       "android": "8.1"
@@ -499,9 +625,23 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-14.12.2018/fw_jason_miui_MINote3Global_8.12.13_e7dcc15bb7_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/jason/fw_jason_miui_MINote3Global_8.12.13_e7dcc15bb7_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3Global_8.12.13_e7dcc15bb7_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "8.1"
+    },
+    "date": "2018-12-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-14.12.2018/fw_jason_miui_MINote3_8.12.13_d09f701484_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/jason/fw_jason_miui_MINote3_8.12.13_d09f701484_8.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3_8.12.13_d09f701484_8.1.zip"
   },
   {
     "branch": "stable",
@@ -518,7 +658,7 @@
     "filename": "fw_jason_miui_MINote3_V10.2.3.0.OCHCNFK_0b0fb42fee_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.20",
       "android": "8.1"
@@ -527,8 +667,22 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-21.12.2018/fw_jason_miui_MINote3_8.12.20_8449bc7132_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/jason/fw_jason_miui_MINote3_8.12.20_8449bc7132_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3_8.12.20_8449bc7132_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "8.1"
+    },
+    "date": "2018-12-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-21.12.2018/fw_jason_miui_MINote3Global_8.12.20_a4cd176b7b_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/jason/fw_jason_miui_MINote3Global_8.12.20_a4cd176b7b_8.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3Global_8.12.20_a4cd176b7b_8.1.zip"
   }
 ]

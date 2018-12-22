@@ -210,7 +210,7 @@
     "filename": "fw_aqua_miui_MI4s_V9.6.1.0.NAJCNFD_e68ba8f30c_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.7.26",
       "android": "7.0"
@@ -219,12 +219,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua/releases/download/weekly-27.07.2018/fw_aqua_miui_MI4s_8.7.26_fbf678b7c4_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/aqua/fw_aqua_miui_MI4s_8.7.26_fbf678b7c4_7.0.zip"
     },
     "filename": "fw_aqua_miui_MI4s_8.7.26_fbf678b7c4_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.3",
       "android": "7.0"
@@ -233,12 +233,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua/releases/download/weekly-06.08.2018/fw_aqua_miui_MI4s_8.8.3_acb23e7d4a_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/aqua/fw_aqua_miui_MI4s_8.8.3_acb23e7d4a_7.0.zip"
     },
     "filename": "fw_aqua_miui_MI4s_8.8.3_acb23e7d4a_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.9",
       "android": "7.0"
@@ -247,12 +247,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua/releases/download/weekly-10.08.2018/fw_aqua_miui_MI4s_8.8.9_7d8a3d9010_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/aqua/fw_aqua_miui_MI4s_8.8.9_7d8a3d9010_7.0.zip"
     },
     "filename": "fw_aqua_miui_MI4s_8.8.9_7d8a3d9010_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.16",
       "android": "7.0"
@@ -261,12 +261,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua/releases/download/weekly-17.08.2018/fw_aqua_miui_MI4s_8.8.16_f1abfda2d9_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/aqua/fw_aqua_miui_MI4s_8.8.16_f1abfda2d9_7.0.zip"
     },
     "filename": "fw_aqua_miui_MI4s_8.8.16_f1abfda2d9_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.23",
       "android": "7.0"
@@ -275,12 +275,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua/releases/download/weekly-24.08.2018/fw_aqua_miui_MI4s_8.8.23_e58e8ef911_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/aqua/fw_aqua_miui_MI4s_8.8.23_e58e8ef911_7.0.zip"
     },
     "filename": "fw_aqua_miui_MI4s_8.8.23_e58e8ef911_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.30",
       "android": "7.0"
@@ -289,12 +289,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua/releases/download/weekly-31.08.2018/fw_aqua_miui_MI4s_8.8.30_49080c1f54_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/aqua/fw_aqua_miui_MI4s_8.8.30_49080c1f54_7.0.zip"
     },
     "filename": "fw_aqua_miui_MI4s_8.8.30_49080c1f54_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.6",
       "android": "7.0"
@@ -303,12 +303,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua/releases/download/weekly-07.09.2018/fw_aqua_miui_MI4s_8.9.6_eaa6599aed_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/aqua/fw_aqua_miui_MI4s_8.9.6_eaa6599aed_7.0.zip"
     },
     "filename": "fw_aqua_miui_MI4s_8.9.6_eaa6599aed_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "7.0"
@@ -317,7 +317,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua/releases/download/weekly-14.09.2018/fw_aqua_miui_MI4s_8.9.13_3917a5914d_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/aqua/fw_aqua_miui_MI4s_8.9.13_3917a5914d_7.0.zip"
     },
     "filename": "fw_aqua_miui_MI4s_8.9.13_3917a5914d_7.0.zip"
   },

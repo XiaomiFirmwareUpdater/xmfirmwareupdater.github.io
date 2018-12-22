@@ -28,7 +28,7 @@
     "filename": "fw_perseus_miui_MIMIX3_V10.0.9.0.PEECNFH_fca9f42280_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.15",
       "android": "9.0"
@@ -37,7 +37,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-16.11.2018/fw_perseus_miui_MIMIX3_8.11.15_446352b4bb_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/perseus/fw_perseus_miui_MIMIX3_8.11.15_446352b4bb_9.0.zip"
     },
     "filename": "fw_perseus_miui_MIMIX3_8.11.15_446352b4bb_9.0.zip"
   },
@@ -56,7 +56,7 @@
     "filename": "fw_perseus_miui_MIMIX3_V10.0.11.0.PEECNFH_1ca3163dcb_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.23",
       "android": "9.0"
@@ -65,7 +65,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-26.11.2018/fw_perseus_miui_MIMIX3_8.11.23_97bbcb1c5a_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.23/perseus/fw_perseus_miui_MIMIX3_8.11.23_97bbcb1c5a_9.0.zip"
     },
     "filename": "fw_perseus_miui_MIMIX3_8.11.23_97bbcb1c5a_9.0.zip"
   },
@@ -84,7 +84,7 @@
     "filename": "fw_perseus_miui_MIMIX3_V10.0.12.0.PEECNFH_67c7b423eb_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.30",
       "android": "9.0"
@@ -93,12 +93,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-03.12.2018/fw_perseus_miui_MIMIX3_8.11.30_78ef7070ec_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.30/perseus/fw_perseus_miui_MIMIX3_8.11.30_78ef7070ec_9.0.zip"
     },
     "filename": "fw_perseus_miui_MIMIX3_8.11.30_78ef7070ec_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.7",
       "android": "9.0"
@@ -107,12 +107,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-10.12.2018/fw_perseus_miui_MIMIX3_8.12.7_213a9849ad_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.7/perseus/fw_perseus_miui_MIMIX3_8.12.7_213a9849ad_9.0.zip"
     },
     "filename": "fw_perseus_miui_MIMIX3_8.12.7_213a9849ad_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.13",
       "android": "9.0"
@@ -121,12 +121,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-14.12.2018/fw_perseus_miui_MIMIX3_8.12.13_5b6351d991_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/perseus/fw_perseus_miui_MIMIX3_8.12.13_5b6351d991_9.0.zip"
     },
     "filename": "fw_perseus_miui_MIMIX3_8.12.13_5b6351d991_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.20",
       "android": "9.0"
@@ -135,7 +135,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-21.12.2018/fw_perseus_miui_MIMIX3_8.12.20_f160ca90f6_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/perseus/fw_perseus_miui_MIMIX3_8.12.20_f160ca90f6_9.0.zip"
     },
     "filename": "fw_perseus_miui_MIMIX3_8.12.20_f160ca90f6_9.0.zip"
   },

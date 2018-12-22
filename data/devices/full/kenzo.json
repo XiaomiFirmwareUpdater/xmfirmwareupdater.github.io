@@ -16,6 +16,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "8.4.12",
+      "android": "6.0"
+    },
+    "date": "2018-04-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/untagged-26ab72d3012d11464361/fw_kenzo_miui_HMNote3Pro_8.4.12_ef8e5dd7b2_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/kenzo/fw_kenzo_miui_HMNote3Pro_8.4.12_ef8e5dd7b2_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.4.12_ef8e5dd7b2_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.4.19",
       "android": "6.0"
     },
@@ -26,6 +40,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.4.19_b1ecd1c3ca_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.4.19_b1ecd1c3ca_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.19",
+      "android": "6.0"
+    },
+    "date": "2018-04-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/untagged-076d403ce833f91509db/fw_kenzo_miui_HMNote3Pro_8.4.19_6893d24950_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/kenzo/fw_kenzo_miui_HMNote3Pro_8.4.19_6893d24950_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.4.19_6893d24950_6.0.zip"
   },
   {
     "branch": "weekly",
@@ -58,6 +86,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "V9.5.2.0.MHOCNFA",
+      "android": "6.0"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/untagged-5efb6680ff359538b845/fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MHOCNFA/kenzo/fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "V9.5.3.0.MHOMIFA",
       "android": "6.0"
     },
@@ -68,6 +110,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.MHOMIFA/kenzo/fw_kenzo_miui_HMNote3ProGlobal_V9.5.3.0.MHOMIFA_b80cfbef7d_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_V9.5.3.0.MHOMIFA_b80cfbef7d_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.1.0.MHOCNFD",
+      "android": "6.0"
+    },
+    "date": "2018-05-30",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/untagged-d10c0a2a4027bbf9c5f5/fw_kenzo_miui_HMNote3Pro_V9.6.1.0.MHOCNFD_b2465b44ce_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.MHOCNFD/kenzo/fw_kenzo_miui_HMNote3Pro_V9.6.1.0.MHOCNFD_b2465b44ce_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_V9.6.1.0.MHOCNFD_b2465b44ce_6.0.zip"
   },
   {
     "branch": "weekly",
@@ -86,6 +142,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "8.4.26",
+      "android": "6.0"
+    },
+    "date": "2018-06-22",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/untagged-1e0c8edcf37967f2e49b/fw_kenzo_miui_HMNote3Pro_8.4.26_3ee8faa8ce_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/kenzo/fw_kenzo_miui_HMNote3Pro_8.4.26_3ee8faa8ce_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.4.26_3ee8faa8ce_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "V9.5.3.0.MHOMIFA",
       "android": "6.0"
     },
@@ -96,6 +166,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.MHOMIFA/kenzo/fw_kenzo_miui_HMNote3ProGlobal_V9.5.3.0.MHOMIFA_b80cfbef7d_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_V9.5.3.0.MHOMIFA_b80cfbef7d_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.2.0.MHOCNFA",
+      "android": "6.0"
+    },
+    "date": "2018-06-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/untagged-ea66fda1fee196efd66c/fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MHOCNFA/kenzo/fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip"
   },
   {
     "branch": "weekly",
@@ -128,6 +212,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "8.4.28",
+      "android": "6.0"
+    },
+    "date": "2018-07-09",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/untagged-d753a54b1f444b4404a8/fw_kenzo_miui_HMNote3Pro_8.4.28_ea554f44f1_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/kenzo/fw_kenzo_miui_HMNote3Pro_8.4.28_ea554f44f1_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.4.28_ea554f44f1_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "V9.5.3.0.MHOMIFA",
       "android": "6.0"
     },
@@ -138,6 +236,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.MHOMIFA/kenzo/fw_kenzo_miui_HMNote3ProGlobal_V9.5.3.0.MHOMIFA_b80cfbef7d_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_V9.5.3.0.MHOMIFA_b80cfbef7d_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.2.0.MHOCNFA",
+      "android": "6.0"
+    },
+    "date": "2018-07-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/untagged-7a67c3cadf44569cc6ee/fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MHOCNFA/kenzo/fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip"
   },
   {
     "branch": "stable",
@@ -156,6 +268,20 @@
   {
     "branch": "stable",
     "versions": {
+      "miui": "V9.5.2.0.MHOCNFA",
+      "android": "6.0"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/stable-20.07.2018/fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/kenzo/fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_V9.5.2.0.MHOCNFA_3f96f51f6d_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
       "miui": "V9.6.3.0.MHOCNFD",
       "android": "6.0"
     },
@@ -168,7 +294,7 @@
     "filename": "fw_kenzo_miui_HMNote3Pro_V9.6.3.0.MHOCNFD_3187ed3dc1_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.2",
       "android": "6.0"
@@ -177,12 +303,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-03.08.2018/fw_kenzo_miui_HMNote3ProGlobal_8.8.2_e017c894ee_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.2/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.8.2_e017c894ee_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.8.2_e017c894ee_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.5.19",
       "android": "6.0"
@@ -191,12 +317,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-06.08.2018/fw_kenzo_miui_HMNote3ProGlobal_8.5.19_3aaad09919_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.19/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.5.19_3aaad09919_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.5.19_3aaad09919_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.3",
+      "android": "6.0"
+    },
+    "date": "2018-08-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-06.08.2018/fw_kenzo_miui_HMNote3Pro_8.8.3_4965d6b3c5_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/kenzo/fw_kenzo_miui_HMNote3Pro_8.8.3_4965d6b3c5_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.8.3_4965d6b3c5_6.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.9",
       "android": "6.0"
@@ -205,12 +345,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-10.08.2018/fw_kenzo_miui_HMNote3Pro_8.8.9_0fcdfdb599_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/kenzo/fw_kenzo_miui_HMNote3Pro_8.8.9_0fcdfdb599_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3Pro_8.8.9_0fcdfdb599_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.16",
       "android": "6.0"
@@ -219,12 +359,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-17.08.2018/fw_kenzo_miui_HMNote3ProGlobal_8.8.16_691f2b3797_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.8.16_691f2b3797_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.8.16_691f2b3797_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "6.0"
+    },
+    "date": "2018-08-17",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-17.08.2018/fw_kenzo_miui_HMNote3Pro_8.8.16_f94289f365_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/kenzo/fw_kenzo_miui_HMNote3Pro_8.8.16_f94289f365_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.8.16_f94289f365_6.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.23",
       "android": "6.0"
@@ -233,12 +387,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-24.08.2018/fw_kenzo_miui_HMNote3ProGlobal_8.8.23_1db12245a8_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.8.23_1db12245a8_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.8.23_1db12245a8_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "6.0"
+    },
+    "date": "2018-08-24",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-24.08.2018/fw_kenzo_miui_HMNote3Pro_8.8.23_0bf9d4cc28_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/kenzo/fw_kenzo_miui_HMNote3Pro_8.8.23_0bf9d4cc28_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.8.23_0bf9d4cc28_6.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.23",
       "android": "6.0"
@@ -247,12 +415,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-29.08.2018/fw_kenzo_miui_HMNote3ProGlobal_8.8.23_1db12245a8_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.8.23_1db12245a8_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.8.23_1db12245a8_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "6.0"
+    },
+    "date": "2018-08-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-29.08.2018/fw_kenzo_miui_HMNote3Pro_8.8.23_0bf9d4cc28_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/kenzo/fw_kenzo_miui_HMNote3Pro_8.8.23_0bf9d4cc28_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.8.23_0bf9d4cc28_6.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.30",
       "android": "6.0"
@@ -261,12 +443,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-30.08.2018/fw_kenzo_miui_HMNote3ProGlobal_8.8.30_6462450cce_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.8.30_6462450cce_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.8.30_6462450cce_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.23",
       "android": "6.0"
@@ -275,12 +457,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-31.08.2018/fw_kenzo_miui_HMNote3ProGlobal_8.8.23_1db12245a8_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.8.23_1db12245a8_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.8.23_1db12245a8_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.31",
       "android": "6.0"
@@ -289,7 +471,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-03.09.2018/fw_kenzo_miui_HMNote3Pro_8.8.31_d7ea924bfb_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.31/kenzo/fw_kenzo_miui_HMNote3Pro_8.8.31_d7ea924bfb_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3Pro_8.8.31_d7ea924bfb_6.0.zip"
   },
@@ -310,6 +492,20 @@
   {
     "branch": "stable",
     "versions": {
+      "miui": "V9.6.3.0.MHOCNFD",
+      "android": "6.0"
+    },
+    "date": "2018-09-04",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/stable-04.09.2018/fw_kenzo_miui_HMNote3Pro_V9.6.3.0.MHOCNFD_3187ed3dc1_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/kenzo/fw_kenzo_miui_HMNote3Pro_V9.6.3.0.MHOCNFD_3187ed3dc1_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_V9.6.3.0.MHOCNFD_3187ed3dc1_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.9.6",
       "android": "6.0"
     },
@@ -317,12 +513,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-06.09.2018/fw_kenzo_miui_HMNote3ProGlobal_8.9.6_7ac801b978_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.9.6_7ac801b978_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.9.6_7ac801b978_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.6",
       "android": "6.0"
@@ -331,12 +527,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-07.09.2018/fw_kenzo_miui_HMNote3Pro_8.9.6_47041abf20_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/kenzo/fw_kenzo_miui_HMNote3Pro_8.9.6_47041abf20_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3Pro_8.9.6_47041abf20_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "6.0"
@@ -345,12 +541,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-14.09.2018/fw_kenzo_miui_HMNote3Pro_8.9.13_7dd5ceac1d_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/kenzo/fw_kenzo_miui_HMNote3Pro_8.9.13_7dd5ceac1d_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3Pro_8.9.13_7dd5ceac1d_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "6.0"
@@ -359,12 +555,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-20.09.2018/fw_kenzo_miui_HMNote3ProGlobal_8.9.20_eaa5b9412d_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.9.20_eaa5b9412d_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.9.20_eaa5b9412d_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "6.0"
@@ -373,7 +569,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-21.09.2018/fw_kenzo_miui_HMNote3Pro_8.9.20_e576ec752c_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/kenzo/fw_kenzo_miui_HMNote3Pro_8.9.20_e576ec752c_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3Pro_8.9.20_e576ec752c_6.0.zip"
   },
@@ -392,7 +588,7 @@
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_V9.6.2.0.MHOMIFD_a5f151b949_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "6.0"
@@ -401,7 +597,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-25.09.2018/fw_kenzo_miui_HMNote3Pro_8.9.13_7dd5ceac1d_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/kenzo/fw_kenzo_miui_HMNote3Pro_8.9.13_7dd5ceac1d_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3Pro_8.9.13_7dd5ceac1d_6.0.zip"
   },
@@ -420,7 +616,7 @@
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_V9.5.6.0.MHOMIFA_be1fa69e63_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "6.0"
@@ -429,12 +625,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-26.09.2018/fw_kenzo_miui_HMNote3Pro_8.9.20_e576ec752c_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/kenzo/fw_kenzo_miui_HMNote3Pro_8.9.20_e576ec752c_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3Pro_8.9.20_e576ec752c_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.11",
       "android": "6.0"
@@ -443,9 +639,23 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-12.10.2018/fw_kenzo_miui_HMNote3ProGlobal_8.10.11_9c30b4df6a_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.10.11_9c30b4df6a_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.10.11_9c30b4df6a_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "6.0"
+    },
+    "date": "2018-10-12",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-12.10.2018/fw_kenzo_miui_HMNote3Pro_8.10.11_e8fb1ab496_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/kenzo/fw_kenzo_miui_HMNote3Pro_8.10.11_e8fb1ab496_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.10.11_e8fb1ab496_6.0.zip"
   },
   {
     "branch": "stable",
@@ -476,7 +686,7 @@
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_V9.5.6.0.MHOMIFA_be1fa69e63_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.18",
       "android": "6.0"
@@ -485,12 +695,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-19.10.2018/fw_kenzo_miui_HMNote3ProGlobal_8.10.18_03d2fbe51a_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.10.18_03d2fbe51a_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.10.18_03d2fbe51a_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.10.18",
+      "android": "6.0"
+    },
+    "date": "2018-10-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-19.10.2018/fw_kenzo_miui_HMNote3Pro_8.10.18_06f618985e_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/kenzo/fw_kenzo_miui_HMNote3Pro_8.10.18_06f618985e_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.10.18_06f618985e_6.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.25",
       "android": "6.0"
@@ -499,12 +723,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-26.10.2018/fw_kenzo_miui_HMNote3Pro_8.10.25_c4b7a35f02_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/kenzo/fw_kenzo_miui_HMNote3Pro_8.10.25_c4b7a35f02_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3Pro_8.10.25_c4b7a35f02_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.25",
       "android": "6.0"
@@ -513,12 +737,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-29.10.2018/fw_kenzo_miui_HMNote3ProGlobal_8.10.25_f59f97d5a4_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.10.25_f59f97d5a4_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.10.25_f59f97d5a4_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.1",
       "android": "6.0"
@@ -527,9 +751,23 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-02.11.2018/fw_kenzo_miui_HMNote3ProGlobal_8.11.1_96993a19cb_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.11.1_96993a19cb_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.11.1_96993a19cb_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.11.1",
+      "android": "6.0"
+    },
+    "date": "2018-11-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-02.11.2018/fw_kenzo_miui_HMNote3Pro_8.11.1_fad26791c4_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/kenzo/fw_kenzo_miui_HMNote3Pro_8.11.1_fad26791c4_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.11.1_fad26791c4_6.0.zip"
   },
   {
     "branch": "stable",
@@ -546,7 +784,7 @@
     "filename": "fw_kenzo_miui_HMNote3Pro_V10.1.1.0.MHOCNFI_0df3a04af4_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.8",
       "android": "6.0"
@@ -555,12 +793,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-09.11.2018/fw_kenzo_miui_HMNote3ProGlobal_8.11.8_ef0d35c33f_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.11.8_ef0d35c33f_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.11.8_ef0d35c33f_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.11.8",
+      "android": "6.0"
+    },
+    "date": "2018-11-09",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-09.11.2018/fw_kenzo_miui_HMNote3Pro_8.11.8_19bbd8fa67_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/kenzo/fw_kenzo_miui_HMNote3Pro_8.11.8_19bbd8fa67_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.11.8_19bbd8fa67_6.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.15",
       "android": "6.0"
@@ -569,12 +821,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-16.11.2018/fw_kenzo_miui_HMNote3ProGlobal_8.11.15_269ff75618_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.11.15_269ff75618_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.11.15_269ff75618_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "6.0"
+    },
+    "date": "2018-11-16",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-16.11.2018/fw_kenzo_miui_HMNote3Pro_8.11.15_f0374a922c_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/kenzo/fw_kenzo_miui_HMNote3Pro_8.11.15_f0374a922c_6.0.zip"
+    },
+    "filename": "fw_kenzo_miui_HMNote3Pro_8.11.15_f0374a922c_6.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.22",
       "android": "6.0"
@@ -583,12 +849,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-23.11.2018/fw_kenzo_miui_HMNote3Pro_8.11.22_38aac9b24f_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/kenzo/fw_kenzo_miui_HMNote3Pro_8.11.22_38aac9b24f_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3Pro_8.11.22_38aac9b24f_6.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.22",
       "android": "6.0"
@@ -597,7 +863,7 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-26.11.2018/fw_kenzo_miui_HMNote3ProGlobal_8.11.22_ec10ddebd0_6.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.11.22_ec10ddebd0_6.0.zip"
     },
     "filename": "fw_kenzo_miui_HMNote3ProGlobal_8.11.22_ec10ddebd0_6.0.zip"
   },

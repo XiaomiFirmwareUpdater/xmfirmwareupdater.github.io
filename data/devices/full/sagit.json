@@ -16,6 +16,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "8.4.19",
+      "android": "8.0"
+    },
+    "date": "2018-04-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-e5b6c34fa2a3cc7891a8/fw_sagit_miui_MI6_8.4.19_418406941a_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/sagit/fw_sagit_miui_MI6_8.4.19_418406941a_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.4.19_418406941a_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.4.26",
       "android": "8.0"
     },
@@ -44,6 +58,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "V9.5.7.0.OCACNFA",
+      "android": "8.0"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-21eacddddc56c6a7ebf2/fw_sagit_miui_MI6_V9.5.7.0.OCACNFA_f1ebbce258_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.7.0.OCACNFA/sagit/fw_sagit_miui_MI6_V9.5.7.0.OCACNFA_f1ebbce258_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_V9.5.7.0.OCACNFA_f1ebbce258_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "V9.5.6.0.OCAMIFA",
       "android": "8.0"
     },
@@ -54,6 +82,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.6.0.OCAMIFA/sagit/fw_sagit_miui_MI6Global_V9.5.6.0.OCAMIFA_58d018e649_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_V9.5.6.0.OCAMIFA_58d018e649_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.7.0.OCACNFA",
+      "android": "8.0"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-82d7af06e24c90bba0a2/fw_sagit_miui_MI6_V9.5.7.0.OCACNFA_f1ebbce258_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.7.0.OCACNFA/sagit/fw_sagit_miui_MI6_V9.5.7.0.OCACNFA_f1ebbce258_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_V9.5.7.0.OCACNFA_f1ebbce258_8.0.zip"
   },
   {
     "branch": "weekly",
@@ -72,6 +114,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "V9.5.8.0.OCACNFA",
+      "android": "8.0"
+    },
+    "date": "2018-05-30",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-f09449c4e94df9e75465/fw_sagit_miui_MI6_V9.5.8.0.OCACNFA_6996c0d8b1_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.8.0.OCACNFA/sagit/fw_sagit_miui_MI6_V9.5.8.0.OCACNFA_6996c0d8b1_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_V9.5.8.0.OCACNFA_6996c0d8b1_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.4.19",
       "android": "8.0"
     },
@@ -86,6 +142,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "8.6.14",
+      "android": "8.0"
+    },
+    "date": "2018-06-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-f5a58bb01cd702ec8bee/fw_sagit_miui_MI6_8.6.14_a43d986471_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.14/sagit/fw_sagit_miui_MI6_8.6.14_a43d986471_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.6.14_a43d986471_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.6.28",
       "android": "8.0"
     },
@@ -96,6 +166,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.28/sagit/fw_sagit_miui_MI6Global_8.6.28_d716aa1854_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.6.28_d716aa1854_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.8.0.OCAMIFA",
+      "android": "8.0"
+    },
+    "date": "2018-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-c64a2139f0e31cfdd9b4/fw_sagit_miui_MI6Global_V9.5.8.0.OCAMIFA_cd713db550_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.8.0.OCAMIFA/sagit/fw_sagit_miui_MI6Global_V9.5.8.0.OCAMIFA_cd713db550_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6Global_V9.5.8.0.OCAMIFA_cd713db550_8.0.zip"
   },
   {
     "branch": "weekly",
@@ -117,6 +201,20 @@
       "miui": "8.7.5",
       "android": "8.0"
     },
+    "date": "2018-07-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-16e1b656d6c9257a1bf3/fw_sagit_miui_MI6_8.7.5_0576bf75dd_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/sagit/fw_sagit_miui_MI6_8.7.5_0576bf75dd_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.7.5_0576bf75dd_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.5",
+      "android": "8.0"
+    },
     "date": "2018-07-09",
     "type": "Global",
     "downloads": {
@@ -124,6 +222,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/sagit/fw_sagit_miui_MI6Global_8.7.5_56c881e336_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.7.5_56c881e336_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.5",
+      "android": "8.0"
+    },
+    "date": "2018-07-09",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-e69c93f0304c793f14b8/fw_sagit_miui_MI6_8.7.5_0576bf75dd_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/sagit/fw_sagit_miui_MI6_8.7.5_0576bf75dd_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.7.5_0576bf75dd_8.0.zip"
   },
   {
     "branch": "weekly",
@@ -142,6 +254,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "V9.6.2.0.OCACNFD",
+      "android": "8.0"
+    },
+    "date": "2018-07-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-a2df0b3b3f13fbf97c05/fw_sagit_miui_MI6_V9.6.2.0.OCACNFD_ee6e074cee_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.OCACNFD/sagit/fw_sagit_miui_MI6_V9.6.2.0.OCACNFD_ee6e074cee_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_V9.6.2.0.OCACNFD_ee6e074cee_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.7.12",
       "android": "8.0"
     },
@@ -152,6 +278,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/sagit/fw_sagit_miui_MI6Global_8.7.12_764ec192e1_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.7.12_764ec192e1_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "8.0"
+    },
+    "date": "2018-07-13",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-4aa7705042c20d55d792/fw_sagit_miui_MI6_8.7.12_7fd01aa4f8_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/sagit/fw_sagit_miui_MI6_8.7.12_7fd01aa4f8_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.7.12_7fd01aa4f8_8.0.zip"
   },
   {
     "branch": "weekly",
@@ -198,6 +338,20 @@
   {
     "branch": "stable",
     "versions": {
+      "miui": "V9.6.2.0.OCACNFD",
+      "android": "8.0"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/stable-20.07.2018/fw_sagit_miui_MI6_V9.6.2.0.OCACNFD_ee6e074cee_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/sagit/fw_sagit_miui_MI6_V9.6.2.0.OCACNFD_ee6e074cee_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_V9.6.2.0.OCACNFD_ee6e074cee_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.7.26",
       "android": "8.0"
     },
@@ -205,12 +359,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-27.07.2018/fw_sagit_miui_MI6Global_8.7.26_58dc7cdfaf_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/sagit/fw_sagit_miui_MI6Global_8.7.26_58dc7cdfaf_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.7.26_58dc7cdfaf_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "8.0"
+    },
+    "date": "2018-07-27",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-27.07.2018/fw_sagit_miui_MI6_8.7.26_9c83cc832d_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/sagit/fw_sagit_miui_MI6_8.7.26_9c83cc832d_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.7.26_9c83cc832d_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.2",
       "android": "8.0"
@@ -219,12 +387,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-03.08.2018/fw_sagit_miui_MI6Global_8.8.2_b0f748375d_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.2/sagit/fw_sagit_miui_MI6Global_8.8.2_b0f748375d_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.8.2_b0f748375d_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.2",
+      "android": "8.0"
+    },
+    "date": "2018-08-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-03.08.2018/fw_sagit_miui_MI6_8.8.2_5b44a92e16_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.2/sagit/fw_sagit_miui_MI6_8.8.2_5b44a92e16_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.8.2_5b44a92e16_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.7.26",
       "android": "8.0"
@@ -233,7 +415,7 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-06.08.2018/fw_sagit_miui_MI6Global_8.7.26_58dc7cdfaf_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/sagit/fw_sagit_miui_MI6Global_8.7.26_58dc7cdfaf_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.7.26_58dc7cdfaf_8.0.zip"
   },
@@ -252,7 +434,7 @@
     "filename": "fw_sagit_miui_MI6_V9.6.3.0.OCACNFD_72b5cc63d6_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.9",
       "android": "8.0"
@@ -261,12 +443,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-10.08.2018/fw_sagit_miui_MI6_8.8.9_90988291c1_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/sagit/fw_sagit_miui_MI6_8.8.9_90988291c1_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.8.9_90988291c1_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.16",
       "android": "8.0"
@@ -275,12 +457,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-17.08.2018/fw_sagit_miui_MI6Global_8.8.16_ceaf796ba4_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/sagit/fw_sagit_miui_MI6Global_8.8.16_ceaf796ba4_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.8.16_ceaf796ba4_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "8.0"
+    },
+    "date": "2018-08-17",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-17.08.2018/fw_sagit_miui_MI6_8.8.16_bd320f58ae_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/sagit/fw_sagit_miui_MI6_8.8.16_bd320f58ae_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.8.16_bd320f58ae_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.23",
       "android": "8.0"
@@ -289,12 +485,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-24.08.2018/fw_sagit_miui_MI6Global_8.8.23_373c069849_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/sagit/fw_sagit_miui_MI6Global_8.8.23_373c069849_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.8.23_373c069849_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "8.0"
+    },
+    "date": "2018-08-24",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-24.08.2018/fw_sagit_miui_MI6_8.8.23_ac5f9997b0_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/sagit/fw_sagit_miui_MI6_8.8.23_ac5f9997b0_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.8.23_ac5f9997b0_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.23",
       "android": "8.0"
@@ -303,12 +513,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-29.08.2018/fw_sagit_miui_MI6Global_8.8.23_373c069849_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/sagit/fw_sagit_miui_MI6Global_8.8.23_373c069849_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.8.23_373c069849_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "8.0"
+    },
+    "date": "2018-08-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-29.08.2018/fw_sagit_miui_MI6_8.8.23_ac5f9997b0_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/sagit/fw_sagit_miui_MI6_8.8.23_ac5f9997b0_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.8.23_ac5f9997b0_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.30",
       "android": "8.0"
@@ -317,12 +541,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-30.08.2018/fw_sagit_miui_MI6Global_8.8.30_a468343ae7_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/sagit/fw_sagit_miui_MI6Global_8.8.30_a468343ae7_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.8.30_a468343ae7_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.30",
       "android": "8.0"
@@ -331,12 +555,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-eb0b4f88b9c2df6d136e/fw_sagit_miui_MI6_8.8.30_0bf88672e3_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/sagit/fw_sagit_miui_MI6_8.8.30_0bf88672e3_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.8.30_0bf88672e3_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.30",
       "android": "8.0"
@@ -345,12 +569,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-31.08.2018/fw_sagit_miui_MI6Global_8.8.30_a468343ae7_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/sagit/fw_sagit_miui_MI6Global_8.8.30_a468343ae7_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.8.30_a468343ae7_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "8.0"
+    },
+    "date": "2018-08-31",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-31.08.2018/fw_sagit_miui_MI6_8.8.30_0bf88672e3_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/sagit/fw_sagit_miui_MI6_8.8.30_0bf88672e3_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.8.30_0bf88672e3_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.30",
       "android": "8.0"
@@ -359,12 +597,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-dfa8704fe596924bb0b1/fw_sagit_miui_MI6Global_8.8.30_a468343ae7_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/sagit/fw_sagit_miui_MI6Global_8.8.30_a468343ae7_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.8.30_a468343ae7_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "8.0"
+    },
+    "date": "2018-08-31",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-dfa8704fe596924bb0b1/fw_sagit_miui_MI6_8.8.30_0bf88672e3_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/sagit/fw_sagit_miui_MI6_8.8.30_0bf88672e3_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.8.30_0bf88672e3_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.6",
       "android": "8.0"
@@ -373,12 +625,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-06.09.2018/fw_sagit_miui_MI6Global_8.9.6_79d0d1418a_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/sagit/fw_sagit_miui_MI6Global_8.9.6_79d0d1418a_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.9.6_79d0d1418a_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.6",
       "android": "8.0"
@@ -387,7 +639,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-07.09.2018/fw_sagit_miui_MI6_8.9.6_e1fb054a69_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/sagit/fw_sagit_miui_MI6_8.9.6_e1fb054a69_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.9.6_e1fb054a69_8.0.zip"
   },
@@ -406,7 +658,7 @@
     "filename": "fw_sagit_miui_MI6_V10.0.1.0.OCACNFH_36fb7a3e44_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.0"
@@ -415,12 +667,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-13.09.2018/fw_sagit_miui_MI6Global_8.9.13_9d7aa37e5a_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/sagit/fw_sagit_miui_MI6Global_8.9.13_9d7aa37e5a_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.9.13_9d7aa37e5a_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.0"
@@ -429,7 +681,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-14.09.2018/fw_sagit_miui_MI6_8.9.13_8fed5b6e95_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/sagit/fw_sagit_miui_MI6_8.9.13_8fed5b6e95_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.9.13_8fed5b6e95_8.0.zip"
   },
@@ -448,7 +700,7 @@
     "filename": "fw_sagit_miui_MI6Global_V10.0.1.0.OCAMIFH_1f4296c44e_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "8.0"
@@ -457,12 +709,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-20.09.2018/fw_sagit_miui_MI6Global_8.9.20_3fdd068bb1_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/sagit/fw_sagit_miui_MI6Global_8.9.20_3fdd068bb1_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.9.20_3fdd068bb1_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "8.0"
@@ -471,12 +723,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-21.09.2018/fw_sagit_miui_MI6_8.9.20_f30c5de58b_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/sagit/fw_sagit_miui_MI6_8.9.20_f30c5de58b_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.9.20_f30c5de58b_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.0"
@@ -485,12 +737,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-25.09.2018/fw_sagit_miui_MI6_8.9.13_8fed5b6e95_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/sagit/fw_sagit_miui_MI6_8.9.13_8fed5b6e95_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.9.13_8fed5b6e95_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "8.0"
@@ -499,12 +751,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-26.09.2018/fw_sagit_miui_MI6_8.9.20_f30c5de58b_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/sagit/fw_sagit_miui_MI6_8.9.20_f30c5de58b_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.9.20_f30c5de58b_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.11",
       "android": "8.0"
@@ -513,12 +765,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-11.10.2018/fw_sagit_miui_MI6Global_8.10.11_8fea2e6347_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/sagit/fw_sagit_miui_MI6Global_8.10.11_8fea2e6347_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.10.11_8fea2e6347_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.11",
       "android": "8.0"
@@ -527,12 +779,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-12.10.2018/fw_sagit_miui_MI6_8.10.11_ea9fedf3e1_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/sagit/fw_sagit_miui_MI6_8.10.11_ea9fedf3e1_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.10.11_ea9fedf3e1_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "8.0"
@@ -541,7 +793,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-15.10.2018/fw_sagit_miui_MI6_8.9.20_f30c5de58b_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/sagit/fw_sagit_miui_MI6_8.9.20_f30c5de58b_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.9.20_f30c5de58b_8.0.zip"
   },
@@ -560,7 +812,7 @@
     "filename": "fw_sagit_miui_MI6_V10.0.2.0.OCACNFH_278bcc8c58_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.18",
       "android": "8.0"
@@ -569,12 +821,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-19.10.2018/fw_sagit_miui_MI6_8.10.18_047b881683_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/sagit/fw_sagit_miui_MI6_8.10.18_047b881683_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.10.18_047b881683_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.25",
       "android": "8.0"
@@ -583,12 +835,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-26.10.2018/fw_sagit_miui_MI6Global_8.10.25_f1aefcfd6d_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/sagit/fw_sagit_miui_MI6Global_8.10.25_f1aefcfd6d_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.10.25_f1aefcfd6d_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "8.0"
+    },
+    "date": "2018-10-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-26.10.2018/fw_sagit_miui_MI6_8.10.25_d86503fb72_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/sagit/fw_sagit_miui_MI6_8.10.25_d86503fb72_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.10.25_d86503fb72_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.1",
       "android": "8.0"
@@ -597,12 +863,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-02.11.2018/fw_sagit_miui_MI6Global_8.11.1_353c05aa69_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/sagit/fw_sagit_miui_MI6Global_8.11.1_353c05aa69_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.11.1_353c05aa69_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.11.1",
+      "android": "8.0"
+    },
+    "date": "2018-11-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-02.11.2018/fw_sagit_miui_MI6_8.11.1_723c1e4a21_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/sagit/fw_sagit_miui_MI6_8.11.1_723c1e4a21_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.11.1_723c1e4a21_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.8",
       "android": "8.0"
@@ -611,12 +891,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-09.11.2018/fw_sagit_miui_MI6_8.11.8_524fe8fb26_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/sagit/fw_sagit_miui_MI6_8.11.8_524fe8fb26_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.11.8_524fe8fb26_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.15",
       "android": "8.0"
@@ -625,12 +905,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-16.11.2018/fw_sagit_miui_MI6Global_8.11.15_351ab3f2b0_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/sagit/fw_sagit_miui_MI6Global_8.11.15_351ab3f2b0_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.11.15_351ab3f2b0_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "8.0"
+    },
+    "date": "2018-11-16",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-16.11.2018/fw_sagit_miui_MI6_8.11.15_ddd214fbd9_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/sagit/fw_sagit_miui_MI6_8.11.15_ddd214fbd9_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.11.15_ddd214fbd9_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.22",
       "android": "8.0"
@@ -639,12 +933,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-23.11.2018/fw_sagit_miui_MI6_8.11.22_488193502d_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/sagit/fw_sagit_miui_MI6_8.11.22_488193502d_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_8.11.22_488193502d_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.22",
       "android": "8.0"
@@ -653,12 +947,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-26.11.2018/fw_sagit_miui_MI6Global_8.11.22_d58205b965_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/sagit/fw_sagit_miui_MI6Global_8.11.22_d58205b965_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.11.22_d58205b965_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.29",
       "android": "8.0"
@@ -667,12 +961,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-30.11.2018/fw_sagit_miui_MI6Global_8.11.29_b3c7cb34aa_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/sagit/fw_sagit_miui_MI6Global_8.11.29_b3c7cb34aa_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.11.29_b3c7cb34aa_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "8.0"
+    },
+    "date": "2018-11-30",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-30.11.2018/fw_sagit_miui_MI6_8.11.29_b41eecc4eb_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/sagit/fw_sagit_miui_MI6_8.11.29_b41eecc4eb_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.11.29_b41eecc4eb_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.6",
       "android": "8.0"
@@ -681,12 +989,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-07.12.2018/fw_sagit_miui_MI6Global_8.12.6_3b8790e6ab_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/sagit/fw_sagit_miui_MI6Global_8.12.6_3b8790e6ab_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.12.6_3b8790e6ab_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "8.0"
+    },
+    "date": "2018-12-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-07.12.2018/fw_sagit_miui_MI6_8.12.6_04cdf2d9dc_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/sagit/fw_sagit_miui_MI6_8.12.6_04cdf2d9dc_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.12.6_04cdf2d9dc_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.13",
       "android": "8.0"
@@ -695,12 +1017,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-14.12.2018/fw_sagit_miui_MI6Global_8.12.13_633b0019dc_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/sagit/fw_sagit_miui_MI6Global_8.12.13_633b0019dc_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.12.13_633b0019dc_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "8.0"
+    },
+    "date": "2018-12-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-14.12.2018/fw_sagit_miui_MI6_8.12.13_cda51bb6da_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/sagit/fw_sagit_miui_MI6_8.12.13_cda51bb6da_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.12.13_cda51bb6da_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.20",
       "android": "8.0"
@@ -709,8 +1045,22 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-21.12.2018/fw_sagit_miui_MI6Global_8.12.20_287974ff0d_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/sagit/fw_sagit_miui_MI6Global_8.12.20_287974ff0d_8.0.zip"
     },
     "filename": "fw_sagit_miui_MI6Global_8.12.20_287974ff0d_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "8.0"
+    },
+    "date": "2018-12-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-21.12.2018/fw_sagit_miui_MI6_8.12.20_7fb9d5aa9c_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/sagit/fw_sagit_miui_MI6_8.12.20_7fb9d5aa9c_8.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_8.12.20_7fb9d5aa9c_8.0.zip"
   }
 ]

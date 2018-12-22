@@ -42,7 +42,7 @@
     "filename": "fw_ursa_miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.24",
       "android": "8.1"
@@ -51,12 +51,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-07.09.2018/fw_ursa_miui_MI8Explorer_8.8.24_b738fe690f_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.24/ursa/fw_ursa_miui_MI8Explorer_8.8.24_b738fe690f_8.1.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.8.24_b738fe690f_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.8",
       "android": "8.1"
@@ -65,12 +65,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-10.09.2018/fw_ursa_miui_MI8Explorer_8.9.8_beef9b9f0b_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.8/ursa/fw_ursa_miui_MI8Explorer_8.9.8_beef9b9f0b_8.1.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.9.8_beef9b9f0b_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.1"
@@ -79,7 +79,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-18.09.2018/fw_ursa_miui_MI8Explorer_8.9.13_6729188de9_8.1.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/ursa/fw_ursa_miui_MI8Explorer_8.9.13_6729188de9_8.1.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.9.13_6729188de9_8.1.zip"
   },
@@ -98,7 +98,7 @@
     "filename": "fw_ursa_miui_MI8Explorer_V10.0.6.0.OEHCNFH_f915ad1ee9_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.12",
       "android": "9.0"
@@ -107,12 +107,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-13.10.2018/fw_ursa_miui_MI8Explorer_8.10.12_9701cb9d44_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.12/ursa/fw_ursa_miui_MI8Explorer_8.10.12_9701cb9d44_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.10.12_9701cb9d44_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.18",
       "android": "9.0"
@@ -121,12 +121,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-19.10.2018/fw_ursa_miui_MI8Explorer_8.10.18_947d541291_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/ursa/fw_ursa_miui_MI8Explorer_8.10.18_947d541291_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.10.18_947d541291_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.25",
       "android": "9.0"
@@ -135,7 +135,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-26.10.2018/fw_ursa_miui_MI8Explorer_8.10.25_b779ef9727_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/ursa/fw_ursa_miui_MI8Explorer_8.10.25_b779ef9727_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.10.25_b779ef9727_9.0.zip"
   },
@@ -154,7 +154,7 @@
     "filename": "fw_ursa_miui_MI8Explorer_V10.0.9.0.OEHCNFH_7ece5602ea_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.2",
       "android": "9.0"
@@ -163,12 +163,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-05.11.2018/fw_ursa_miui_MI8Explorer_8.11.2_831a4628f1_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.2/ursa/fw_ursa_miui_MI8Explorer_8.11.2_831a4628f1_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.11.2_831a4628f1_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.8",
       "android": "9.0"
@@ -177,12 +177,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-09.11.2018/fw_ursa_miui_MI8Explorer_8.11.8_04094856f7_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/ursa/fw_ursa_miui_MI8Explorer_8.11.8_04094856f7_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.11.8_04094856f7_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.15",
       "android": "9.0"
@@ -191,12 +191,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-16.11.2018/fw_ursa_miui_MI8Explorer_8.11.15_0395da1157_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/ursa/fw_ursa_miui_MI8Explorer_8.11.15_0395da1157_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.11.15_0395da1157_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.23",
       "android": "9.0"
@@ -205,7 +205,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-26.11.2018/fw_ursa_miui_MI8Explorer_8.11.23_0e28f9c566_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.23/ursa/fw_ursa_miui_MI8Explorer_8.11.23_0e28f9c566_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.11.23_0e28f9c566_9.0.zip"
   },
@@ -224,7 +224,7 @@
     "filename": "fw_ursa_miui_MI8Explorer_V10.0.12.0.OEHCNFH_e5e9071825_8.1.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.7",
       "android": "9.0"
@@ -233,12 +233,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-10.12.2018/fw_ursa_miui_MI8Explorer_8.12.7_a1a29dd208_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.7/ursa/fw_ursa_miui_MI8Explorer_8.12.7_a1a29dd208_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.12.7_a1a29dd208_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.13",
       "android": "9.0"
@@ -247,12 +247,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-14.12.2018/fw_ursa_miui_MI8Explorer_8.12.13_c6b9224a46_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/ursa/fw_ursa_miui_MI8Explorer_8.12.13_c6b9224a46_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.12.13_c6b9224a46_9.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.20",
       "android": "9.0"
@@ -261,7 +261,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-21.12.2018/fw_ursa_miui_MI8Explorer_8.12.20_7795e7c872_9.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/ursa/fw_ursa_miui_MI8Explorer_8.12.20_7795e7c872_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_8.12.20_7795e7c872_9.0.zip"
   }

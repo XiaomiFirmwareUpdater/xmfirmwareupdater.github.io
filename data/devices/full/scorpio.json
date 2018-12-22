@@ -16,6 +16,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "8.3.26",
+      "android": "7.0"
+    },
+    "date": "2018-04-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-6a8be378eaaef460b958/fw_scorpio_miui_MINote2_8.3.26_72505abb05_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.3.26/scorpio/fw_scorpio_miui_MINote2_8.3.26_72505abb05_7.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.3.26_72505abb05_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.4.19",
       "android": "8.0"
     },
@@ -26,6 +40,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/scorpio/fw_scorpio_miui_MINote2Global_8.4.19_da0d9426cf_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.4.19_da0d9426cf_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.3.26",
+      "android": "7.0"
+    },
+    "date": "2018-04-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-0bc94da68eece6421631/fw_scorpio_miui_MINote2_8.3.26_72505abb05_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.3.26/scorpio/fw_scorpio_miui_MINote2_8.3.26_72505abb05_7.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.3.26_72505abb05_7.0.zip"
   },
   {
     "branch": "weekly",
@@ -44,6 +72,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "V9.5.2.0.NADCNFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-fe5d975318350d208f76/fw_scorpio_miui_MINote2_V9.5.2.0.NADCNFA_ed7da9c862_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NADCNFA/scorpio/fw_scorpio_miui_MINote2_V9.5.2.0.NADCNFA_ed7da9c862_7.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_V9.5.2.0.NADCNFA_ed7da9c862_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "V9.5.2.0.NADMIFA",
       "android": "7.0"
     },
@@ -54,6 +96,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NADMIFA/scorpio/fw_scorpio_miui_MINote2Global_V9.5.2.0.NADMIFA_555c646de2_7.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_V9.5.2.0.NADMIFA_555c646de2_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.2.0.NADCNFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-dfdad5255aef7ac10eb3/fw_scorpio_miui_MINote2_V9.5.2.0.NADCNFA_ed7da9c862_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NADCNFA/scorpio/fw_scorpio_miui_MINote2_V9.5.2.0.NADCNFA_ed7da9c862_7.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_V9.5.2.0.NADCNFA_ed7da9c862_7.0.zip"
   },
   {
     "branch": "weekly",
@@ -114,6 +170,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "V9.5.2.0.NADCNFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-30",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-40d679c73a60e11d9962/fw_scorpio_miui_MINote2_V9.5.2.0.NADCNFA_ed7da9c862_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NADCNFA/scorpio/fw_scorpio_miui_MINote2_V9.5.2.0.NADCNFA_ed7da9c862_7.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_V9.5.2.0.NADCNFA_ed7da9c862_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.5.24",
       "android": "8.0"
     },
@@ -128,6 +198,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "8.6.14",
+      "android": "8.0"
+    },
+    "date": "2018-06-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-7c067bf686cc9fbf0685/fw_scorpio_miui_MINote2_8.6.14_0d42e8b8ca_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.14/scorpio/fw_scorpio_miui_MINote2_8.6.14_0d42e8b8ca_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.6.14_0d42e8b8ca_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.5.24",
       "android": "8.0"
     },
@@ -138,6 +222,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.24/scorpio/fw_scorpio_miui_MINote2Global_8.5.24_000dabd2f8_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.5.24_000dabd2f8_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.6.21",
+      "android": "8.0"
+    },
+    "date": "2018-06-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-3085ed07771424dbc34f/fw_scorpio_miui_MINote2_8.6.21_97acb2bfc5_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.21/scorpio/fw_scorpio_miui_MINote2_8.6.21_97acb2bfc5_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.6.21_97acb2bfc5_8.0.zip"
   },
   {
     "branch": "weekly",
@@ -159,6 +257,20 @@
       "miui": "8.7.5",
       "android": "8.0"
     },
+    "date": "2018-07-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-6362a5274f32a8490c7d/fw_scorpio_miui_MINote2_8.7.5_4c8afd9cef_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/scorpio/fw_scorpio_miui_MINote2_8.7.5_4c8afd9cef_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.7.5_4c8afd9cef_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.5",
+      "android": "8.0"
+    },
     "date": "2018-07-09",
     "type": "Global",
     "downloads": {
@@ -166,6 +278,20 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/scorpio/fw_scorpio_miui_MINote2Global_8.7.5_fa2bf3ec26_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.7.5_fa2bf3ec26_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.5",
+      "android": "8.0"
+    },
+    "date": "2018-07-09",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-0df71988eae3f1b9b317/fw_scorpio_miui_MINote2_8.7.5_4c8afd9cef_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/scorpio/fw_scorpio_miui_MINote2_8.7.5_4c8afd9cef_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.7.5_4c8afd9cef_8.0.zip"
   },
   {
     "branch": "weekly",
@@ -198,6 +324,20 @@
   {
     "branch": "weekly",
     "versions": {
+      "miui": "8.7.12",
+      "android": "8.0"
+    },
+    "date": "2018-07-13",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-990ec7f95462046ae1ba/fw_scorpio_miui_MINote2_8.7.12_20da79596d_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/scorpio/fw_scorpio_miui_MINote2_8.7.12_20da79596d_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.7.12_20da79596d_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "V9.6.1.0.OADMIFD",
       "android": "8.0"
     },
@@ -224,6 +364,20 @@
     "filename": "fw_scorpio_miui_MINote2Global_8.7.19_cef2e28304_8.0.zip"
   },
   {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "8.0"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-20.07.2018/fw_scorpio_miui_MINote2_8.7.19_820d13bfcc_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/scorpio/fw_scorpio_miui_MINote2_8.7.19_820d13bfcc_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.7.19_820d13bfcc_8.0.zip"
+  },
+  {
     "branch": "stable",
     "versions": {
       "miui": "V9.6.1.0.OADMIFD",
@@ -240,6 +394,20 @@
   {
     "branch": "stable",
     "versions": {
+      "miui": "V9.6.1.0.OADCNFD",
+      "android": "8.0"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/stable-20.07.2018/fw_scorpio_miui_MINote2_V9.6.1.0.OADCNFD_7f52ba5426_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/scorpio/fw_scorpio_miui_MINote2_V9.6.1.0.OADCNFD_7f52ba5426_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_V9.6.1.0.OADCNFD_7f52ba5426_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.7.26",
       "android": "8.0"
     },
@@ -247,12 +415,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-27.07.2018/fw_scorpio_miui_MINote2Global_8.7.26_2f3451f9a6_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/scorpio/fw_scorpio_miui_MINote2Global_8.7.26_2f3451f9a6_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.7.26_2f3451f9a6_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "8.0"
+    },
+    "date": "2018-07-27",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-27.07.2018/fw_scorpio_miui_MINote2_8.7.26_c982a1d01c_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/scorpio/fw_scorpio_miui_MINote2_8.7.26_c982a1d01c_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.7.26_c982a1d01c_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.2",
       "android": "8.0"
@@ -261,12 +443,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-03.08.2018/fw_scorpio_miui_MINote2Global_8.8.2_2360e6bfac_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.2/scorpio/fw_scorpio_miui_MINote2Global_8.8.2_2360e6bfac_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.8.2_2360e6bfac_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.7.26",
       "android": "8.0"
@@ -275,12 +457,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-06.08.2018/fw_scorpio_miui_MINote2Global_8.7.26_2f3451f9a6_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/scorpio/fw_scorpio_miui_MINote2Global_8.7.26_2f3451f9a6_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.7.26_2f3451f9a6_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.3",
+      "android": "8.0"
+    },
+    "date": "2018-08-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-06.08.2018/fw_scorpio_miui_MINote2_8.8.3_e18b681716_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/scorpio/fw_scorpio_miui_MINote2_8.8.3_e18b681716_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.8.3_e18b681716_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.9",
       "android": "8.0"
@@ -289,7 +485,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-10.08.2018/fw_scorpio_miui_MINote2_8.8.9_51452e675c_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/scorpio/fw_scorpio_miui_MINote2_8.8.9_51452e675c_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2_8.8.9_51452e675c_8.0.zip"
   },
@@ -308,7 +504,7 @@
     "filename": "fw_scorpio_miui_MINote2Global_V9.6.2.0.OADMIFD_214359ae14_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.16",
       "android": "8.0"
@@ -317,12 +513,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-17.08.2018/fw_scorpio_miui_MINote2Global_8.8.16_c54b222df0_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/scorpio/fw_scorpio_miui_MINote2Global_8.8.16_c54b222df0_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.8.16_c54b222df0_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "8.0"
+    },
+    "date": "2018-08-17",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-17.08.2018/fw_scorpio_miui_MINote2_8.8.16_94c380dad9_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/scorpio/fw_scorpio_miui_MINote2_8.8.16_94c380dad9_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.8.16_94c380dad9_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.23",
       "android": "8.0"
@@ -331,12 +541,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-24.08.2018/fw_scorpio_miui_MINote2Global_8.8.23_bdd9b3a8a2_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/scorpio/fw_scorpio_miui_MINote2Global_8.8.23_bdd9b3a8a2_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.8.23_bdd9b3a8a2_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "8.0"
+    },
+    "date": "2018-08-24",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-24.08.2018/fw_scorpio_miui_MINote2_8.8.23_4717bbd11d_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/scorpio/fw_scorpio_miui_MINote2_8.8.23_4717bbd11d_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.8.23_4717bbd11d_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.23",
       "android": "8.0"
@@ -345,12 +569,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-29.08.2018/fw_scorpio_miui_MINote2Global_8.8.23_bdd9b3a8a2_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/scorpio/fw_scorpio_miui_MINote2Global_8.8.23_bdd9b3a8a2_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.8.23_bdd9b3a8a2_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "8.0"
+    },
+    "date": "2018-08-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-29.08.2018/fw_scorpio_miui_MINote2_8.8.23_4717bbd11d_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/scorpio/fw_scorpio_miui_MINote2_8.8.23_4717bbd11d_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.8.23_4717bbd11d_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.30",
       "android": "8.0"
@@ -359,12 +597,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-30.08.2018/fw_scorpio_miui_MINote2Global_8.8.30_87b2b83b3e_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/scorpio/fw_scorpio_miui_MINote2Global_8.8.30_87b2b83b3e_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.8.30_87b2b83b3e_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.8.30",
       "android": "8.0"
@@ -373,7 +611,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/untagged-ac24cdf28fc921b98325/fw_scorpio_miui_MINote2_8.8.30_57f2cd1272_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/scorpio/fw_scorpio_miui_MINote2_8.8.30_57f2cd1272_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2_8.8.30_57f2cd1272_8.0.zip"
   },
@@ -394,6 +632,20 @@
   {
     "branch": "stable",
     "versions": {
+      "miui": "V9.6.1.0.OADCNFD",
+      "android": "8.0"
+    },
+    "date": "2018-09-04",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/stable-04.09.2018/fw_scorpio_miui_MINote2_V9.6.1.0.OADCNFD_7f52ba5426_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/scorpio/fw_scorpio_miui_MINote2_V9.6.1.0.OADCNFD_7f52ba5426_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_V9.6.1.0.OADCNFD_7f52ba5426_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
       "miui": "8.9.6",
       "android": "8.0"
     },
@@ -401,12 +653,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-06.09.2018/fw_scorpio_miui_MINote2Global_8.9.6_2bdf01398b_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/scorpio/fw_scorpio_miui_MINote2Global_8.9.6_2bdf01398b_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.9.6_2bdf01398b_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.6",
       "android": "8.0"
@@ -415,7 +667,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-07.09.2018/fw_scorpio_miui_MINote2_8.9.6_cb0ab184e7_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/scorpio/fw_scorpio_miui_MINote2_8.9.6_cb0ab184e7_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2_8.9.6_cb0ab184e7_8.0.zip"
   },
@@ -434,7 +686,7 @@
     "filename": "fw_scorpio_miui_MINote2_V10.0.1.0.OADCNFH_098ba4b1c7_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.0"
@@ -443,12 +695,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-13.09.2018/fw_scorpio_miui_MINote2Global_8.9.13_4cc99774f3_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/scorpio/fw_scorpio_miui_MINote2Global_8.9.13_4cc99774f3_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.9.13_4cc99774f3_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.0"
@@ -457,7 +709,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-14.09.2018/fw_scorpio_miui_MINote2_8.9.13_f0cfdf9c69_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/scorpio/fw_scorpio_miui_MINote2_8.9.13_f0cfdf9c69_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2_8.9.13_f0cfdf9c69_8.0.zip"
   },
@@ -476,7 +728,7 @@
     "filename": "fw_scorpio_miui_MINote2Global_V10.0.1.0.OADMIFH_436a66f6b3_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "8.0"
@@ -485,12 +737,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-20.09.2018/fw_scorpio_miui_MINote2Global_8.9.20_7eef10b90e_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/scorpio/fw_scorpio_miui_MINote2Global_8.9.20_7eef10b90e_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.9.20_7eef10b90e_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "8.0"
@@ -499,12 +751,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-21.09.2018/fw_scorpio_miui_MINote2_8.9.20_f8f2e7b8d9_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/scorpio/fw_scorpio_miui_MINote2_8.9.20_f8f2e7b8d9_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2_8.9.20_f8f2e7b8d9_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "8.0"
@@ -513,12 +765,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-25.09.2018/fw_scorpio_miui_MINote2_8.9.13_f0cfdf9c69_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/scorpio/fw_scorpio_miui_MINote2_8.9.13_f0cfdf9c69_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2_8.9.13_f0cfdf9c69_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "8.0"
@@ -527,12 +779,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-26.09.2018/fw_scorpio_miui_MINote2_8.9.20_f8f2e7b8d9_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/scorpio/fw_scorpio_miui_MINote2_8.9.20_f8f2e7b8d9_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2_8.9.20_f8f2e7b8d9_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.11",
       "android": "8.0"
@@ -541,12 +793,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-11.10.2018/fw_scorpio_miui_MINote2Global_8.10.11_de2723bb90_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/scorpio/fw_scorpio_miui_MINote2Global_8.10.11_de2723bb90_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.10.11_de2723bb90_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.11",
       "android": "8.0"
@@ -555,12 +807,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-12.10.2018/fw_scorpio_miui_MINote2_8.10.11_7dab118f90_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/scorpio/fw_scorpio_miui_MINote2_8.10.11_7dab118f90_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2_8.10.11_7dab118f90_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.18",
       "android": "8.0"
@@ -569,12 +821,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-19.10.2018/fw_scorpio_miui_MINote2Global_8.10.18_3d780da3f9_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/scorpio/fw_scorpio_miui_MINote2Global_8.10.18_3d780da3f9_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.10.18_3d780da3f9_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.10.18",
+      "android": "8.0"
+    },
+    "date": "2018-10-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-19.10.2018/fw_scorpio_miui_MINote2_8.10.18_25a8e3573d_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/scorpio/fw_scorpio_miui_MINote2_8.10.18_25a8e3573d_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.10.18_25a8e3573d_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.25",
       "android": "8.0"
@@ -583,12 +849,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-26.10.2018/fw_scorpio_miui_MINote2Global_8.10.25_8f1ab7d6ea_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/scorpio/fw_scorpio_miui_MINote2Global_8.10.25_8f1ab7d6ea_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.10.25_8f1ab7d6ea_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "8.0"
+    },
+    "date": "2018-10-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-26.10.2018/fw_scorpio_miui_MINote2_8.10.25_929b0a32d7_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/scorpio/fw_scorpio_miui_MINote2_8.10.25_929b0a32d7_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.10.25_929b0a32d7_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.1",
       "android": "8.0"
@@ -597,12 +877,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-02.11.2018/fw_scorpio_miui_MINote2Global_8.11.1_7cc11b7029_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/scorpio/fw_scorpio_miui_MINote2Global_8.11.1_7cc11b7029_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.11.1_7cc11b7029_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.11.1",
+      "android": "8.0"
+    },
+    "date": "2018-11-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-02.11.2018/fw_scorpio_miui_MINote2_8.11.1_f96024a076_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/scorpio/fw_scorpio_miui_MINote2_8.11.1_f96024a076_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.11.1_f96024a076_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.8",
       "android": "8.0"
@@ -611,12 +905,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-09.11.2018/fw_scorpio_miui_MINote2Global_8.11.8_36f5d0a836_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/scorpio/fw_scorpio_miui_MINote2Global_8.11.8_36f5d0a836_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.11.8_36f5d0a836_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.15",
       "android": "8.0"
@@ -625,12 +919,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-16.11.2018/fw_scorpio_miui_MINote2Global_8.11.15_cbb0d36800_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/scorpio/fw_scorpio_miui_MINote2Global_8.11.15_cbb0d36800_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.11.15_cbb0d36800_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "8.0"
+    },
+    "date": "2018-11-16",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-16.11.2018/fw_scorpio_miui_MINote2_8.11.15_d5a29d4ca2_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/scorpio/fw_scorpio_miui_MINote2_8.11.15_d5a29d4ca2_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.11.15_d5a29d4ca2_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.22",
       "android": "8.0"
@@ -639,12 +947,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-23.11.2018/fw_scorpio_miui_MINote2_8.11.22_bed1e2890b_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/scorpio/fw_scorpio_miui_MINote2_8.11.22_bed1e2890b_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2_8.11.22_bed1e2890b_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.22",
       "android": "8.0"
@@ -653,12 +961,12 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-26.11.2018/fw_scorpio_miui_MINote2Global_8.11.22_78677cc7e5_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/scorpio/fw_scorpio_miui_MINote2Global_8.11.22_78677cc7e5_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.11.22_78677cc7e5_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.29",
       "android": "8.0"
@@ -667,12 +975,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-30.11.2018/fw_scorpio_miui_MINote2Global_8.11.29_a2d3738dc0_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/scorpio/fw_scorpio_miui_MINote2Global_8.11.29_a2d3738dc0_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.11.29_a2d3738dc0_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "8.0"
+    },
+    "date": "2018-11-30",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-30.11.2018/fw_scorpio_miui_MINote2_8.11.29_2bf50a87b4_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/scorpio/fw_scorpio_miui_MINote2_8.11.29_2bf50a87b4_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.11.29_2bf50a87b4_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.6",
       "android": "8.0"
@@ -681,12 +1003,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-07.12.2018/fw_scorpio_miui_MINote2Global_8.12.6_0bf124d16a_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/scorpio/fw_scorpio_miui_MINote2Global_8.12.6_0bf124d16a_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.12.6_0bf124d16a_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "8.0"
+    },
+    "date": "2018-12-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-07.12.2018/fw_scorpio_miui_MINote2_8.12.6_37ac43cc39_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/scorpio/fw_scorpio_miui_MINote2_8.12.6_37ac43cc39_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.12.6_37ac43cc39_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.13",
       "android": "8.0"
@@ -695,12 +1031,26 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-14.12.2018/fw_scorpio_miui_MINote2Global_8.12.13_7a89548b46_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/scorpio/fw_scorpio_miui_MINote2Global_8.12.13_7a89548b46_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.12.13_7a89548b46_8.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "8.0"
+    },
+    "date": "2018-12-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-14.12.2018/fw_scorpio_miui_MINote2_8.12.13_800f5af3ca_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/scorpio/fw_scorpio_miui_MINote2_8.12.13_800f5af3ca_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.12.13_800f5af3ca_8.0.zip"
+  },
+  {
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.20",
       "android": "8.0"
@@ -709,8 +1059,22 @@
     "type": "Global",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-21.12.2018/fw_scorpio_miui_MINote2Global_8.12.20_45916b9af0_8.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/scorpio/fw_scorpio_miui_MINote2Global_8.12.20_45916b9af0_8.0.zip"
     },
     "filename": "fw_scorpio_miui_MINote2Global_8.12.20_45916b9af0_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "8.0"
+    },
+    "date": "2018-12-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/weekly-21.12.2018/fw_scorpio_miui_MINote2_8.12.20_59c7accf04_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/scorpio/fw_scorpio_miui_MINote2_8.12.20_59c7accf04_8.0.zip"
+    },
+    "filename": "fw_scorpio_miui_MINote2_8.12.20_59c7accf04_8.0.zip"
   }
 ]

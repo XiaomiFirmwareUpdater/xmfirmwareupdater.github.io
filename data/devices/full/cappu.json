@@ -36,6 +36,20 @@
     "date": "2018-04-27",
     "type": "China",
     "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/untagged-bee2249dac502bfec5b6/fw_cappu_miui_MIPAD3_8.4.26_4077386282_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/cappu/fw_cappu_miui_MIPAD3_8.4.26_4077386282_7.0.zip"
+    },
+    "filename": "fw_cappu_miui_MIPAD3_8.4.26_4077386282_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.26",
+      "android": "7.0"
+    },
+    "date": "2018-04-27",
+    "type": "China",
+    "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/untagged-f85a7b5227dd5ac098b5/fw_cappu_miui_MIPAD3_8.4.26_4077386282_7.0.zip",
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/cappu/fw_cappu_miui_MIPAD3_8.4.26_4077386282_7.0.zip"
     },
@@ -168,7 +182,7 @@
     "filename": "fw_cappu_miui_MIPAD3_V9.6.1.0.NCICNFD_f9841cfd6a_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "7.0"
@@ -177,12 +191,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-14.09.2018/fw_cappu_miui_MIPAD3_8.9.13_92aff75a18_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/cappu/fw_cappu_miui_MIPAD3_8.9.13_92aff75a18_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.9.13_92aff75a18_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.20",
       "android": "7.0"
@@ -191,12 +205,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-21.09.2018/fw_cappu_miui_MIPAD3_8.9.20_f6146d4e69_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/cappu/fw_cappu_miui_MIPAD3_8.9.20_f6146d4e69_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.9.20_f6146d4e69_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.9.13",
       "android": "7.0"
@@ -205,12 +219,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-25.09.2018/fw_cappu_miui_MIPAD3_8.9.13_92aff75a18_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/cappu/fw_cappu_miui_MIPAD3_8.9.13_92aff75a18_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.9.13_92aff75a18_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.11",
       "android": "7.0"
@@ -219,12 +233,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-12.10.2018/fw_cappu_miui_MIPAD3_8.10.11_77128926d2_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/cappu/fw_cappu_miui_MIPAD3_8.10.11_77128926d2_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.10.11_77128926d2_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.18",
       "android": "7.0"
@@ -233,12 +247,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-19.10.2018/fw_cappu_miui_MIPAD3_8.10.18_026c896d6e_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/cappu/fw_cappu_miui_MIPAD3_8.10.18_026c896d6e_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.10.18_026c896d6e_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.10.25",
       "android": "7.0"
@@ -247,12 +261,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-26.10.2018/fw_cappu_miui_MIPAD3_8.10.25_86d5c0f5ff_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/cappu/fw_cappu_miui_MIPAD3_8.10.25_86d5c0f5ff_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.10.25_86d5c0f5ff_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.1",
       "android": "7.0"
@@ -261,12 +275,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-02.11.2018/fw_cappu_miui_MIPAD3_8.11.1_a9b0fd205e_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/cappu/fw_cappu_miui_MIPAD3_8.11.1_a9b0fd205e_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.11.1_a9b0fd205e_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.8",
       "android": "7.0"
@@ -275,12 +289,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-09.11.2018/fw_cappu_miui_MIPAD3_8.11.8_b25715acc5_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/cappu/fw_cappu_miui_MIPAD3_8.11.8_b25715acc5_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.11.8_b25715acc5_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.15",
       "android": "7.0"
@@ -289,7 +303,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-16.11.2018/fw_cappu_miui_MIPAD3_8.11.15_f4229debfd_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/cappu/fw_cappu_miui_MIPAD3_8.11.15_f4229debfd_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.11.15_f4229debfd_7.0.zip"
   },
@@ -308,7 +322,7 @@
     "filename": "fw_cappu_miui_MIPAD3_V10.1.1.0.NCICNFI_5fbdc1ce15_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.22",
       "android": "7.0"
@@ -317,12 +331,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-23.11.2018/fw_cappu_miui_MIPAD3_8.11.22_3807cb3d83_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/cappu/fw_cappu_miui_MIPAD3_8.11.22_3807cb3d83_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.11.22_3807cb3d83_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.11.29",
       "android": "7.0"
@@ -331,12 +345,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-30.11.2018/fw_cappu_miui_MIPAD3_8.11.29_b2ffe9e291_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/cappu/fw_cappu_miui_MIPAD3_8.11.29_b2ffe9e291_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.11.29_b2ffe9e291_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.6",
       "android": "7.0"
@@ -345,12 +359,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-07.12.2018/fw_cappu_miui_MIPAD3_8.12.6_1a988a2fd3_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/cappu/fw_cappu_miui_MIPAD3_8.12.6_1a988a2fd3_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.12.6_1a988a2fd3_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.13",
       "android": "7.0"
@@ -359,12 +373,12 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-14.12.2018/fw_cappu_miui_MIPAD3_8.12.13_dce34861eb_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/cappu/fw_cappu_miui_MIPAD3_8.12.13_dce34861eb_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.12.13_dce34861eb_7.0.zip"
   },
   {
-    "branch": "stable",
+    "branch": "weekly",
     "versions": {
       "miui": "8.12.20",
       "android": "7.0"
@@ -373,7 +387,7 @@
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-21.12.2018/fw_cappu_miui_MIPAD3_8.12.20_4f5b0b37a6_7.0.zip",
-      "osdn": "N/A"
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/cappu/fw_cappu_miui_MIPAD3_8.12.20_4f5b0b37a6_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_8.12.20_4f5b0b37a6_7.0.zip"
   }
