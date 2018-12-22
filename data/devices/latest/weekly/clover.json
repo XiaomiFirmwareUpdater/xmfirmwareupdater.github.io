@@ -1,0 +1,19 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": ""
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "8.1",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_clover_miui_MIPAD4_8.12.20_37caedaed0_8.1.zip"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "9.0",
+      "miui": "V10.0.9.0.PDGMIFH"
+    },
+    "date": "2018-12-20",
+    "file": "fw_polaris_miui_MIMIX2SGlobal_V10.0.9.0.PDGMIFH_8d776de7d5_9.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "9.0",
+      "miui": "V10.0.7.0.PDGCNFH"
+    },
+    "date": "2018-12-10",
+    "file": "fw_polaris_miui_MIMIX2S_V10.0.7.0.PDGCNFH_76ee695826_9.0.zip"
+  }
+]

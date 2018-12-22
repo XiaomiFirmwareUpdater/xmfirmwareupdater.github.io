@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.0",
+      "miui": "V10.1.1.0.NBCMIFI"
+    },
+    "date": "2018-11-20",
+    "file": "fw_hydrogen_miui_MIMAXGlobal_V10.1.1.0.NBCMIFI_bf51db4e53_7.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.0",
+      "miui": "V10.1.1.0.NBCCNFI"
+    },
+    "date": "2018-11-07",
+    "file": "fw_hydrogen_miui_MIMAX_V10.1.1.0.NBCCNFI_d070885388_7.0.zip"
+  }
+]

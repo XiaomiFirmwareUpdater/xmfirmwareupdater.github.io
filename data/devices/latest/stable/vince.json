@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "8.1",
+      "miui": "V10.0.4.0.OEGMIFH"
+    },
+    "date": "2018-11-12",
+    "file": "fw_vince_miui_HM5PlusGlobal_V10.0.4.0.OEGMIFH_6ecc2f2148_8.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.1",
+      "miui": "V10.1.1.0.NEGCNFI"
+    },
+    "date": "2018-10-24",
+    "file": "fw_vince_miui_HM5Plus_V10.1.1.0.NEGCNFI_f89e05b532_7.1.zip"
+  }
+]

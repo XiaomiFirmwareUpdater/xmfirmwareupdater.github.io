@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": "",
+    "file": ""
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.0",
+      "miui": "V10.1.1.0.NCICNFI"
+    },
+    "date": "2018-11-19",
+    "file": "fw_cappu_miui_MIPAD3_V10.1.1.0.NCICNFI_5fbdc1ce15_7.0.zip"
+  }
+]

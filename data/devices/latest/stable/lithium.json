@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "8.0",
+      "miui": "V10.0.1.0.OAHMIFH"
+    },
+    "date": "2018-09-18",
+    "file": "fw_lithium_miui_MIMIXGlobal_V10.0.1.0.OAHMIFH_9bf07533e3_8.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "8.0",
+      "miui": "V10.0.1.0.OAHCNFH"
+    },
+    "date": "2018-09-10",
+    "file": "fw_lithium_miui_MIMIX_V10.0.1.0.OAHCNFH_55bf6b514b_8.0.zip"
+  }
+]

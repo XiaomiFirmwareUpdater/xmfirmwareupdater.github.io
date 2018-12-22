@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "5.1",
+      "miui": "V9.5.3.0.LAIMIFA"
+    },
+    "date": "2018-07-20",
+    "file": "fw__miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "5.1",
+      "miui": "V9.6.1.0.LAICNFD"
+    },
+    "date": "2018-09-06",
+    "file": "fw_ido_miui_HM3_V9.6.1.0.LAICNFD_0e8630d551_5.1.zip"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.1",
+      "miui": "V9.6.3.0.NDDMIFD"
+    },
+    "date": "2018-09-05",
+    "file": "fw_oxygen_miui_MIMAX2Global_V9.6.3.0.NDDMIFD_8d7c35b638_7.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.1",
+      "miui": "V10.1.1.0.NDDCNFI"
+    },
+    "date": "2018-10-17",
+    "file": "fw_oxygen_miui_MIMAX2_V10.1.1.0.NDDCNFI_f4a080359e_7.1.zip"
+  }
+]

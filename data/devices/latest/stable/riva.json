@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.1",
+      "miui": "V10.1.1.0.NCKMIFI"
+    },
+    "date": "2018-11-16",
+    "file": "fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.1",
+      "miui": "V10.1.1.0.NCKCNFI"
+    },
+    "date": "2018-11-07",
+    "file": "fw_riva_miui_HM5A_V10.1.1.0.NCKCNFI_2e5ec8a9df_7.1.zip"
+  }
+]

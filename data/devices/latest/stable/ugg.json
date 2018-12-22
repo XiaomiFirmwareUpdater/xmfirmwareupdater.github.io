@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.1",
+      "miui": "V9.6.2.0.NDKMIFD"
+    },
+    "date": "2018-09-18",
+    "file": "fw_ugg_miui_HMNote5AGlobal_V9.6.2.0.NDKMIFD_e88768956b_7.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.1",
+      "miui": "V10.1.1.0.NDKCNFI"
+    },
+    "date": "2018-10-16",
+    "file": "fw_ugg_miui_HMNote5A_V10.1.1.0.NDKCNFI_d03d59c1ec_7.1.zip"
+  }
+]

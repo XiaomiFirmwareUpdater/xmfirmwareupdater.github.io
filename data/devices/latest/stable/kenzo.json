@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "6.0",
+      "miui": "V10.1.1.0.MHOMIFI"
+    },
+    "date": "2018-12-20",
+    "file": "fw_kenzo_miui_HMNote3ProGlobal_V10.1.1.0.MHOMIFI_a5f84d1b80_6.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "6.0",
+      "miui": "V10.1.1.0.MHOCNFI"
+    },
+    "date": "2018-11-07",
+    "file": "fw_kenzo_miui_HMNote3Pro_V10.1.1.0.MHOCNFI_0df3a04af4_6.0.zip"
+  }
+]

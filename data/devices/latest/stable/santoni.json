@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.1",
+      "miui": "V10.1.1.0.NAMMIFI"
+    },
+    "date": "2018-12-04",
+    "file": "fw_santoni_miui_HM4XGlobal_V10.1.1.0.NAMMIFI_31186e0176_7.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.1",
+      "miui": "V10.1.1.0.NAMCNFI"
+    },
+    "date": "2018-11-07",
+    "file": "fw_santoni_miui_HM4X_V10.1.1.0.NAMCNFI_53f465b0f0_7.1.zip"
+  }
+]

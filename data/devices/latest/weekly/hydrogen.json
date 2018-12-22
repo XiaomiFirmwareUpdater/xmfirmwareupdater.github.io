@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.0",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_hydrogen_miui_MIMAXGlobal_8.12.20_27a62b5225_7.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.0",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_hydrogen_miui_MIMAX_8.12.20_6a8d9e38c6_7.0.zip"
+  }
+]

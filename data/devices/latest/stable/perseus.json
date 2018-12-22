@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "9.0",
+      "miui": "V10.0.11.0.PEEMIFH"
+    },
+    "date": "2018-12-21",
+    "file": "fw_perseus_miui_MIMIX3Global_V10.0.11.0.PEEMIFH_9761b07e78_9.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "9.0",
+      "miui": "V10.0.12.0.PEECNFH"
+    },
+    "date": "2018-12-03",
+    "file": "fw_perseus_miui_MIMIX3_V10.0.12.0.PEECNFH_67c7b423eb_9.0.zip"
+  }
+]

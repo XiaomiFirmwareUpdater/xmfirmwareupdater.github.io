@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "8.0",
+      "miui": "8.11.22"
+    },
+    "date": "2018-11-26",
+    "file": "fw_gemini_miui_MI5Global_8.11.22_c5d7ee6745_8.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "8.0",
+      "miui": "8.11.22"
+    },
+    "date": "2018-11-23",
+    "file": "fw_gemini_miui_MI5_8.11.22_f9ead04910_8.0.zip"
+  }
+]

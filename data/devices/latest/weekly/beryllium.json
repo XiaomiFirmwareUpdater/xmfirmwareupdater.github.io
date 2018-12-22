@@ -1,0 +1,19 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "9.0",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_beryllium_miui_POCOF1Global_8.12.20_9463021df4_9.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": ""
+    },
+    "date": "",
+    "file": ""
+  }
+]

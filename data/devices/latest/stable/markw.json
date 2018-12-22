@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": "",
+    "file": ""
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "6.0",
+      "miui": "V10.1.1.0.MBECNFI"
+    },
+    "date": "2018-11-07",
+    "file": "fw_markw_miui_HM4Pro_V10.1.1.0.MBECNFI_c452666c5c_6.0.zip"
+  }
+]

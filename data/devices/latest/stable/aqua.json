@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": "",
+    "file": ""
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.0",
+      "miui": "V10.1.1.0.NAJCNFI"
+    },
+    "date": "2018-11-07",
+    "file": "fw_aqua_miui_MI4s_V10.1.1.0.NAJCNFI_a6d5e5489a_7.0.zip"
+  }
+]

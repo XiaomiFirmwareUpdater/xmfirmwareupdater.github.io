@@ -1,0 +1,646 @@
+[
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.12",
+      "android": "7.0"
+    },
+    "date": "2018-04-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-ae4eddc928a9a4fb7d49/fw_hydrogen_miui_MIMAXGlobal_8.4.12_d2f66a63b1_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/hydrogen/fw_hydrogen_miui_MIMAXGlobal_8.4.12_d2f66a63b1_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.4.12_d2f66a63b1_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.19",
+      "android": "7.0"
+    },
+    "date": "2018-04-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-f1d201d5fa2181547126/fw_hydrogen_miui_MIMAXGlobal_8.4.19_fe256e07ce_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/hydrogen/fw_hydrogen_miui_MIMAXGlobal_8.4.19_fe256e07ce_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.4.19_fe256e07ce_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.26",
+      "android": "7.0"
+    },
+    "date": "2018-04-27",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-71d3813cbc5b0bc37b25/fw_hydrogen_miui_MIMAX_8.4.26_3ccfff9d19_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/hydrogen/fw_hydrogen_miui_MIMAX_8.4.26_3ccfff9d19_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.4.26_3ccfff9d19_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.2.0.NBCMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-e3ab2c6fe83e1aa52a08/fw_hydrogen_miui_MIMAXGlobal_V9.5.2.0.NBCMIFA_66a18ac56c_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBCMIFA/hydrogen/fw_hydrogen_miui_MIMAXGlobal_V9.5.2.0.NBCMIFA_66a18ac56c_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_V9.5.2.0.NBCMIFA_66a18ac56c_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.2.0.NBCMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-14f1f8d92c3e067239b3/fw_hydrogen_miui_MIMAXGlobal_V9.5.2.0.NBCMIFA_66a18ac56c_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBCMIFA/hydrogen/fw_hydrogen_miui_MIMAXGlobal_V9.5.2.0.NBCMIFA_66a18ac56c_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_V9.5.2.0.NBCMIFA_66a18ac56c_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.2.0.NBCMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-e6e4fe55a2a87807632b/fw_hydrogen_miui_MIMAXGlobal_V9.5.2.0.NBCMIFA_66a18ac56c_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBCMIFA/hydrogen/fw_hydrogen_miui_MIMAXGlobal_V9.5.2.0.NBCMIFA_66a18ac56c_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_V9.5.2.0.NBCMIFA_66a18ac56c_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.4.0.NBCMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-0cc99b1f3ca915b0bf69/fw_hydrogen_miui_MIMAXGlobal_V9.5.4.0.NBCMIFA_26db4b6ff9_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.NBCMIFA/hydrogen/fw_hydrogen_miui_MIMAXGlobal_V9.5.4.0.NBCMIFA_26db4b6ff9_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_V9.5.4.0.NBCMIFA_26db4b6ff9_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.0"
+    },
+    "date": "2018-07-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-42d7cc9d6d140f56b8a4/fw_hydrogen_miui_MIMAX_8.4.28_f4d46400f9_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/hydrogen/fw_hydrogen_miui_MIMAX_8.4.28_f4d46400f9_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.4.28_f4d46400f9_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.0"
+    },
+    "date": "2018-07-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-a61c30cc36f6e306e456/fw_hydrogen_miui_MIMAXGlobal_8.4.28_e35faa13d6_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/hydrogen/fw_hydrogen_miui_MIMAXGlobal_8.4.28_e35faa13d6_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.4.28_e35faa13d6_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.4.0.NBCMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-07-10",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-be6fe10997ad4adcca17/fw_hydrogen_miui_MIMAXGlobal_V9.5.4.0.NBCMIFA_26db4b6ff9_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.NBCMIFA/hydrogen/fw_hydrogen_miui_MIMAXGlobal_V9.5.4.0.NBCMIFA_26db4b6ff9_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_V9.5.4.0.NBCMIFA_26db4b6ff9_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "7.0"
+    },
+    "date": "2018-07-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/untagged-0452b9d86e09f6366074/fw_hydrogen_miui_MIMAXGlobal_8.7.12_5520e43f93_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/hydrogen/fw_hydrogen_miui_MIMAXGlobal_8.7.12_5520e43f93_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.7.12_5520e43f93_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "7.0"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-20.07.2018/fw_hydrogen_miui_MIMAXGlobal_8.7.19_4492aed32b_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/hydrogen/fw_hydrogen_miui_MIMAXGlobal_8.7.19_4492aed32b_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.7.19_4492aed32b_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.5.4.0.NBCMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/stable-20.07.2018/fw_hydrogen_miui_MIMAXGlobal_V9.5.4.0.NBCMIFA_26db4b6ff9_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/hydrogen/fw_hydrogen_miui_MIMAXGlobal_V9.5.4.0.NBCMIFA_26db4b6ff9_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_V9.5.4.0.NBCMIFA_26db4b6ff9_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.1.0.NBCCNFD",
+      "android": "7.0"
+    },
+    "date": "2018-07-23",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/stable-23.07.2018/fw_hydrogen_miui_MIMAX_V9.6.1.0.NBCCNFD_3dfd3ef561_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/hydrogen/fw_hydrogen_miui_MIMAX_V9.6.1.0.NBCCNFD_3dfd3ef561_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_V9.6.1.0.NBCCNFD_3dfd3ef561_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.0"
+    },
+    "date": "2018-07-27",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-27.07.2018/fw_hydrogen_miui_MIMAXGlobal_8.7.26_20edb8040e_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.7.26_20edb8040e_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.2",
+      "android": "7.0"
+    },
+    "date": "2018-08-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-03.08.2018/fw_hydrogen_miui_MIMAXGlobal_8.8.2_90ba428f15_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.8.2_90ba428f15_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.0"
+    },
+    "date": "2018-08-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-06.08.2018/fw_hydrogen_miui_MIMAXGlobal_8.7.26_20edb8040e_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.7.26_20edb8040e_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.9",
+      "android": "7.0"
+    },
+    "date": "2018-08-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-10.08.2018/fw_hydrogen_miui_MIMAX_8.8.9_98f00ffc4b_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.8.9_98f00ffc4b_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "7.0"
+    },
+    "date": "2018-08-17",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-17.08.2018/fw_hydrogen_miui_MIMAXGlobal_8.8.16_0d3331b229_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.8.16_0d3331b229_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "7.0"
+    },
+    "date": "2018-08-24",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-24.08.2018/fw_hydrogen_miui_MIMAXGlobal_8.8.23_ca6da46f48_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.8.23_ca6da46f48_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "7.0"
+    },
+    "date": "2018-08-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-30.08.2018/fw_hydrogen_miui_MIMAXGlobal_8.8.30_b14c47ae3d_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.8.30_b14c47ae3d_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "7.0"
+    },
+    "date": "2018-08-31",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-31.08.2018/fw_hydrogen_miui_MIMAX_8.8.30_5d77db432c_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.8.30_5d77db432c_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "7.0"
+    },
+    "date": "2018-09-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-06.09.2018/fw_hydrogen_miui_MIMAXGlobal_8.9.6_951cad098d_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.9.6_951cad098d_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "7.0"
+    },
+    "date": "2018-09-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-07.09.2018/fw_hydrogen_miui_MIMAX_8.9.6_f44dbe51d9_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.9.6_f44dbe51d9_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.0"
+    },
+    "date": "2018-09-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-13.09.2018/fw_hydrogen_miui_MIMAXGlobal_8.9.13_de5cf253f3_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.9.13_de5cf253f3_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.0"
+    },
+    "date": "2018-09-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-14.09.2018/fw_hydrogen_miui_MIMAX_8.9.13_9a4454f164_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.9.13_9a4454f164_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "7.0"
+    },
+    "date": "2018-09-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-20.09.2018/fw_hydrogen_miui_MIMAXGlobal_8.9.20_645f3098ad_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.9.20_645f3098ad_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "7.0"
+    },
+    "date": "2018-09-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-21.09.2018/fw_hydrogen_miui_MIMAX_8.9.20_7cb92e6863_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.9.20_7cb92e6863_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.2.0.NBCMIFD",
+      "android": "7.0"
+    },
+    "date": "2018-09-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/stable-21.09.2018/fw_hydrogen_miui_MIMAXGlobal_V9.6.2.0.NBCMIFD_de101a281a_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/hydrogen/fw_hydrogen_miui_MIMAXGlobal_V9.6.2.0.NBCMIFD_de101a281a_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_V9.6.2.0.NBCMIFD_de101a281a_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.0"
+    },
+    "date": "2018-09-25",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-25.09.2018/fw_hydrogen_miui_MIMAX_8.9.13_9a4454f164_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.9.13_9a4454f164_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "7.0"
+    },
+    "date": "2018-10-11",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-11.10.2018/fw_hydrogen_miui_MIMAXGlobal_8.10.11_cf0a36e53e_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.10.11_cf0a36e53e_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "7.0"
+    },
+    "date": "2018-10-12",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-12.10.2018/fw_hydrogen_miui_MIMAX_8.10.11_21ca295923_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.10.11_21ca295923_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.18",
+      "android": "7.0"
+    },
+    "date": "2018-10-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-19.10.2018/fw_hydrogen_miui_MIMAXGlobal_8.10.18_09fe260c19_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.10.18_09fe260c19_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "7.0"
+    },
+    "date": "2018-10-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-26.10.2018/fw_hydrogen_miui_MIMAXGlobal_8.10.25_b73cc713f6_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.10.25_b73cc713f6_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.1",
+      "android": "7.0"
+    },
+    "date": "2018-11-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-02.11.2018/fw_hydrogen_miui_MIMAXGlobal_8.11.1_644e513382_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.11.1_644e513382_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.2",
+      "android": "7.0"
+    },
+    "date": "2018-11-05",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-05.11.2018/fw_hydrogen_miui_MIMAX_8.11.2_5a932b80fa_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.11.2_5a932b80fa_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.NBCCNFI",
+      "android": "7.0"
+    },
+    "date": "2018-11-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/stable-07.11.2018/fw_hydrogen_miui_MIMAX_V10.1.1.0.NBCCNFI_d070885388_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/hydrogen/fw_hydrogen_miui_MIMAX_V10.1.1.0.NBCCNFI_d070885388_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_V10.1.1.0.NBCCNFI_d070885388_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.8",
+      "android": "7.0"
+    },
+    "date": "2018-11-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-09.11.2018/fw_hydrogen_miui_MIMAXGlobal_8.11.8_ee41dd4f63_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.11.8_ee41dd4f63_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "7.0"
+    },
+    "date": "2018-11-16",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-16.11.2018/fw_hydrogen_miui_MIMAXGlobal_8.11.15_3a8f1c1730_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.11.15_3a8f1c1730_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.NBCMIFI",
+      "android": "7.0"
+    },
+    "date": "2018-11-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/stable-20.11.2018/fw_hydrogen_miui_MIMAXGlobal_V10.1.1.0.NBCMIFI_bf51db4e53_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/hydrogen/fw_hydrogen_miui_MIMAXGlobal_V10.1.1.0.NBCMIFI_bf51db4e53_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_V10.1.1.0.NBCMIFI_bf51db4e53_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.22",
+      "android": "7.0"
+    },
+    "date": "2018-11-23",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-23.11.2018/fw_hydrogen_miui_MIMAX_8.11.22_8049394dab_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_8.11.22_8049394dab_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.22",
+      "android": "7.0"
+    },
+    "date": "2018-11-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-26.11.2018/fw_hydrogen_miui_MIMAXGlobal_8.11.22_12e2e2ae16_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.11.22_12e2e2ae16_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "7.0"
+    },
+    "date": "2018-11-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-30.11.2018/fw_hydrogen_miui_MIMAXGlobal_8.11.29_9531119a0c_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.11.29_9531119a0c_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "7.0"
+    },
+    "date": "2018-12-07",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-07.12.2018/fw_hydrogen_miui_MIMAXGlobal_8.12.6_b784d407ce_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.12.6_b784d407ce_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "7.0"
+    },
+    "date": "2018-12-14",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-14.12.2018/fw_hydrogen_miui_MIMAXGlobal_8.12.13_51df22f517_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.12.13_51df22f517_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "7.0"
+    },
+    "date": "2018-12-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-21.12.2018/fw_hydrogen_miui_MIMAXGlobal_8.12.20_27a62b5225_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_hydrogen_miui_MIMAXGlobal_8.12.20_27a62b5225_7.0.zip"
+  }
+]

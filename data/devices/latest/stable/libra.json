@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": "",
+    "file": ""
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.0",
+      "miui": "V10.1.1.0.NXKCNFI"
+    },
+    "date": "2018-11-07",
+    "file": "fw_libra_miui_MI4c_V10.1.1.0.NXKCNFI_13b9b312d0_7.0.zip"
+  }
+]

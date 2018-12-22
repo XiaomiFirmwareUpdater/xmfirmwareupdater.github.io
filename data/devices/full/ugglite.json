@@ -1,0 +1,590 @@
+[
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.12",
+      "android": "7.1"
+    },
+    "date": "2018-04-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-410fe08eedf50e5ff9ad/fw_ugglite_miui_HMNote5ALITEGlobal_8.4.12_c753c4de6f_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_8.4.12_c753c4de6f_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.4.12_c753c4de6f_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.19",
+      "android": "7.1"
+    },
+    "date": "2018-04-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-4fc8b9a4c071f405e6eb/fw_ugglite_miui_HMNote5ALITEGlobal_8.4.19_354454aa2d_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_8.4.19_354454aa2d_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.4.19_354454aa2d_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.2.5.0.NDFMIEK",
+      "android": "7.1"
+    },
+    "date": "2018-05-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-c28dd20bd0daf0fe93c5/fw_ugglite_miui_HMNote5ALITEGlobal_V9.2.5.0.NDFMIEK_bf8387bb9d_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.2.5.0.NDFMIEK/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_V9.2.5.0.NDFMIEK_bf8387bb9d_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_V9.2.5.0.NDFMIEK_bf8387bb9d_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.2.5.0.NDFMIEK",
+      "android": "7.1"
+    },
+    "date": "2018-05-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-c99b02bbe1830b156c6e/fw_ugglite_miui_HMNote5ALITEGlobal_V9.2.5.0.NDFMIEK_bf8387bb9d_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.2.5.0.NDFMIEK/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_V9.2.5.0.NDFMIEK_bf8387bb9d_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_V9.2.5.0.NDFMIEK_bf8387bb9d_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.5.0.NDFMIFA",
+      "android": "7.1"
+    },
+    "date": "2018-05-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-170f73285c2f5a9de21b/fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.5.0.NDFMIFA_9de82d528f_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NDFMIFA/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.5.0.NDFMIFA_9de82d528f_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.5.0.NDFMIFA_9de82d528f_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.1"
+    },
+    "date": "2018-06-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-44bc6eba3fa3268789b1/fw_ugglite_miui_HMNote5ALITE_8.4.28_9a855a19b9_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/ugglite/fw_ugglite_miui_HMNote5ALITE_8.4.28_9a855a19b9_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_8.4.28_9a855a19b9_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.9.0.NDFMIFA",
+      "android": "7.1"
+    },
+    "date": "2018-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-de1f5845358f6ef2a829/fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.9.0.NDFMIFA_b1f1fd5c56_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.9.0.NDFMIFA/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.9.0.NDFMIFA_b1f1fd5c56_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.9.0.NDFMIFA_b1f1fd5c56_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.1"
+    },
+    "date": "2018-07-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-e3c93c21a1511b9a991c/fw_ugglite_miui_HMNote5ALITE_8.4.28_9a855a19b9_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/ugglite/fw_ugglite_miui_HMNote5ALITE_8.4.28_9a855a19b9_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_8.4.28_9a855a19b9_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.1"
+    },
+    "date": "2018-07-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-d0c40020ba80ff6d93da/fw_ugglite_miui_HMNote5ALITEGlobal_8.4.28_a897109e49_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_8.4.28_a897109e49_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.4.28_a897109e49_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.9.0.NDFMIFA",
+      "android": "7.1"
+    },
+    "date": "2018-07-10",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-3ba05fb19f7d7ce4d654/fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.9.0.NDFMIFA_b1f1fd5c56_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.9.0.NDFMIFA/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.9.0.NDFMIFA_b1f1fd5c56_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.9.0.NDFMIFA_b1f1fd5c56_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "7.1"
+    },
+    "date": "2018-07-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-3a1fa2f02d21d3c18286/fw_ugglite_miui_HMNote5ALITEGlobal_8.7.12_ca34b7e4e6_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_8.7.12_ca34b7e4e6_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.7.12_ca34b7e4e6_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "7.1"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-20.07.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.7.19_b24d14e511_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_8.7.19_b24d14e511_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.7.19_b24d14e511_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.5.9.0.NDFMIFA",
+      "android": "7.1"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/stable-20.07.2018/fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.9.0.NDFMIFA_b1f1fd5c56_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.9.0.NDFMIFA_b1f1fd5c56_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_V9.5.9.0.NDFMIFA_b1f1fd5c56_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.1"
+    },
+    "date": "2018-07-27",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-27.07.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.7.26_8b5862bf11_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.7.26_8b5862bf11_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.2",
+      "android": "7.1"
+    },
+    "date": "2018-08-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-03.08.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.8.2_0c846c59ae_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.8.2_0c846c59ae_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.1"
+    },
+    "date": "2018-08-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-06.08.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.7.26_8b5862bf11_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.7.26_8b5862bf11_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.3.0.NDFCNFD",
+      "android": "7.1"
+    },
+    "date": "2018-08-15",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/stable-15.08.2018/fw_ugglite_miui_HMNote5ALITE_V9.6.3.0.NDFCNFD_b770072066_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ugglite/fw_ugglite_miui_HMNote5ALITE_V9.6.3.0.NDFCNFD_b770072066_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_V9.6.3.0.NDFCNFD_b770072066_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "7.1"
+    },
+    "date": "2018-08-17",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-17.08.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.8.16_6374013e21_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.8.16_6374013e21_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.2.0.NDFMIFD",
+      "android": "7.1"
+    },
+    "date": "2018-08-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/stable-20.08.2018/fw_ugglite_miui_HMNote5ALITEGlobal_V9.6.2.0.NDFMIFD_921c66dc76_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_V9.6.2.0.NDFMIFD_921c66dc76_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_V9.6.2.0.NDFMIFD_921c66dc76_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "7.1"
+    },
+    "date": "2018-08-24",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-24.08.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.8.23_b144015080_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.8.23_b144015080_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "7.1"
+    },
+    "date": "2018-08-29",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-29.08.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.8.23_b144015080_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.8.23_b144015080_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "7.1"
+    },
+    "date": "2018-08-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-30.08.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.8.30_5886596002_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.8.30_5886596002_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "7.1"
+    },
+    "date": "2018-08-31",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/untagged-ddd24a807f23c28ff53a/fw_ugglite_miui_HMNote5ALITE_8.8.30_cbddc7c6b0_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_8.8.30_cbddc7c6b0_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.2.0.NDFMIFD",
+      "android": "7.1"
+    },
+    "date": "2018-09-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/stable-03.09.2018/fw_ugglite_miui_HMNote5ALITEGlobal_V9.6.2.0.NDFMIFD_921c66dc76_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ugglite/fw_ugglite_miui_HMNote5ALITEGlobal_V9.6.2.0.NDFMIFD_921c66dc76_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_V9.6.2.0.NDFMIFD_921c66dc76_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "7.1"
+    },
+    "date": "2018-09-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-07.09.2018/fw_ugglite_miui_HMNote5ALITE_8.9.6_17e1522cc9_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_8.9.6_17e1522cc9_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.1"
+    },
+    "date": "2018-09-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-13.09.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.9.13_ec15d95185_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.9.13_ec15d95185_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.1"
+    },
+    "date": "2018-09-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-14.09.2018/fw_ugglite_miui_HMNote5ALITE_8.9.13_35a6144994_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_8.9.13_35a6144994_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "7.1"
+    },
+    "date": "2018-09-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-21.09.2018/fw_ugglite_miui_HMNote5ALITE_8.9.20_1078274d7f_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_8.9.20_1078274d7f_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.1"
+    },
+    "date": "2018-09-25",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-25.09.2018/fw_ugglite_miui_HMNote5ALITE_8.9.13_35a6144994_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_8.9.13_35a6144994_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "7.1"
+    },
+    "date": "2018-10-12",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-12.10.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.10.11_88ebbd21c7_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.10.11_88ebbd21c7_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.NDFCNFI",
+      "android": "7.1"
+    },
+    "date": "2018-10-16",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/stable-16.10.2018/fw_ugglite_miui_HMNote5ALITE_V10.1.1.0.NDFCNFI_96522095fe_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ugglite/fw_ugglite_miui_HMNote5ALITE_V10.1.1.0.NDFCNFI_96522095fe_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_V10.1.1.0.NDFCNFI_96522095fe_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.18",
+      "android": "7.1"
+    },
+    "date": "2018-10-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-19.10.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.10.18_e0636061b8_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.10.18_e0636061b8_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "7.1"
+    },
+    "date": "2018-10-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-26.10.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.10.25_411239360e_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.10.25_411239360e_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.2",
+      "android": "7.1"
+    },
+    "date": "2018-11-05",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-05.11.2018/fw_ugglite_miui_HMNote5ALITE_8.11.2_3f805df1db_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_8.11.2_3f805df1db_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.8",
+      "android": "7.1"
+    },
+    "date": "2018-11-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-09.11.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.11.8_a655fc4385_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.11.8_a655fc4385_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "7.1"
+    },
+    "date": "2018-11-16",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-16.11.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.11.15_77d589192f_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.11.15_77d589192f_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.22",
+      "android": "7.1"
+    },
+    "date": "2018-11-23",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-23.11.2018/fw_ugglite_miui_HMNote5ALITE_8.11.22_351ed8b257_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_8.11.22_351ed8b257_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.22",
+      "android": "7.1"
+    },
+    "date": "2018-11-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-26.11.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.11.22_91721346a2_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.11.22_91721346a2_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "7.1"
+    },
+    "date": "2018-11-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-30.11.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.11.29_e50d6adba5_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.11.29_e50d6adba5_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "7.1"
+    },
+    "date": "2018-12-07",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-07.12.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.12.6_808281ae07_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.12.6_808281ae07_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "7.1"
+    },
+    "date": "2018-12-14",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-14.12.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.12.13_6856a4f777_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.12.13_6856a4f777_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "7.1"
+    },
+    "date": "2018-12-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-21.12.2018/fw_ugglite_miui_HMNote5ALITEGlobal_8.12.20_4ac11c6d4c_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITEGlobal_8.12.20_4ac11c6d4c_7.1.zip"
+  }
+]

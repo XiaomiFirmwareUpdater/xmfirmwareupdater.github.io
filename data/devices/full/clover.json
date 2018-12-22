@@ -1,0 +1,380 @@
+[
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.6.0.ODJCNFD",
+      "android": "8.1"
+    },
+    "date": "2018-07-09",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/untagged-7ecfd31a0add4e8e97e0/fw_clover_miui_MIPAD4_V9.6.6.0.ODJCNFD_6a6c31a8a5_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.6.0.ODJCNFD/clover/fw_clover_miui_MIPAD4_V9.6.6.0.ODJCNFD_6a6c31a8a5_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_V9.6.6.0.ODJCNFD_6a6c31a8a5_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.5",
+      "android": "8.1"
+    },
+    "date": "2018-07-09",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/untagged-28041c461424870102ae/fw_clover_miui_MIPAD4_8.7.5_ca50169e40_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/clover/fw_clover_miui_MIPAD4_8.7.5_ca50169e40_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.7.5_ca50169e40_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.7.0.ODJCNFD",
+      "android": "8.1"
+    },
+    "date": "2018-07-18",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/untagged-ea6434e33116b9fd689d/fw_clover_miui_MIPAD4_V9.6.7.0.ODJCNFD_3b92e55baf_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.7.0.ODJCNFD/clover/fw_clover_miui_MIPAD4_V9.6.7.0.ODJCNFD_3b92e55baf_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_V9.6.7.0.ODJCNFD_3b92e55baf_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "8.1"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-20.07.2018/fw_clover_miui_MIPAD4_8.7.12_57b3e445de_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/clover/fw_clover_miui_MIPAD4_8.7.12_57b3e445de_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.7.12_57b3e445de_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.8.0.ODJCNFD",
+      "android": "8.1"
+    },
+    "date": "2018-07-31",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/stable-31.07.2018/fw_clover_miui_MIPAD4_V9.6.8.0.ODJCNFD_966147d92c_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/clover/fw_clover_miui_MIPAD4_V9.6.8.0.ODJCNFD_966147d92c_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_V9.6.8.0.ODJCNFD_966147d92c_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.2",
+      "android": "8.1"
+    },
+    "date": "2018-08-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-03.08.2018/fw_clover_miui_MIPAD4_8.8.2_8780093b56_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.8.2_8780093b56_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.23.0.ODJCNFD",
+      "android": "8.1"
+    },
+    "date": "2018-08-15",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/stable-15.08.2018/fw_clover_miui_MIPAD4_V9.6.23.0.ODJCNFD_4387d783a5_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/clover/fw_clover_miui_MIPAD4_V9.6.23.0.ODJCNFD_4387d783a5_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_V9.6.23.0.ODJCNFD_4387d783a5_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "8.1"
+    },
+    "date": "2018-08-17",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-17.08.2018/fw_clover_miui_MIPAD4_8.8.16_839a32b118_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.8.16_839a32b118_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "8.1"
+    },
+    "date": "2018-08-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-28.08.2018/fw_clover_miui_MIPAD4_8.8.23_976af2876a_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.8.23_976af2876a_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.26.0.ODJCNFD",
+      "android": "8.1"
+    },
+    "date": "2018-09-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/stable-03.09.2018/fw_clover_miui_MIPAD4_V9.6.26.0.ODJCNFD_ccb12222cb_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/clover/fw_clover_miui_MIPAD4_V9.6.26.0.ODJCNFD_ccb12222cb_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_V9.6.26.0.ODJCNFD_ccb12222cb_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "8.1"
+    },
+    "date": "2018-09-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-14.09.2018/fw_clover_miui_MIPAD4_8.9.13_fa8027953b_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.9.13_fa8027953b_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.27.0.ODJCNFD",
+      "android": "8.1"
+    },
+    "date": "2018-09-17",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/stable-17.09.2018/fw_clover_miui_MIPAD4_V9.6.27.0.ODJCNFD_dc3928f92d_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/clover/fw_clover_miui_MIPAD4_V9.6.27.0.ODJCNFD_dc3928f92d_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_V9.6.27.0.ODJCNFD_dc3928f92d_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "8.1"
+    },
+    "date": "2018-09-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-21.09.2018/fw_clover_miui_MIPAD4_8.9.20_ac9af560e8_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.9.20_ac9af560e8_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "8.1"
+    },
+    "date": "2018-09-25",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-25.09.2018/fw_clover_miui_MIPAD4_8.9.13_fa8027953b_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.9.13_fa8027953b_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "8.1"
+    },
+    "date": "2018-09-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-26.09.2018/fw_clover_miui_MIPAD4_8.9.20_ac9af560e8_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.9.20_ac9af560e8_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "8.1"
+    },
+    "date": "2018-10-12",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-12.10.2018/fw_clover_miui_MIPAD4_8.10.11_3c8faad629_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.10.11_3c8faad629_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.18",
+      "android": "8.1"
+    },
+    "date": "2018-10-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-19.10.2018/fw_clover_miui_MIPAD4_8.10.18_6d30242a84_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.10.18_6d30242a84_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "8.1"
+    },
+    "date": "2018-10-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-26.10.2018/fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.1",
+      "android": "8.1"
+    },
+    "date": "2018-11-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-02.11.2018/fw_clover_miui_MIPAD4_8.11.1_f9b66a8e4d_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.11.1_f9b66a8e4d_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.8",
+      "android": "8.1"
+    },
+    "date": "2018-11-09",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-09.11.2018/fw_clover_miui_MIPAD4_8.11.8_7fa1f424e3_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.11.8_7fa1f424e3_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "8.1"
+    },
+    "date": "2018-11-16",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-16.11.2018/fw_clover_miui_MIPAD4_8.11.15_1ad1091223_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.11.15_1ad1091223_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.ODJCNFI",
+      "android": "8.1"
+    },
+    "date": "2018-11-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/stable-19.11.2018/fw_clover_miui_MIPAD4_V10.1.1.0.ODJCNFI_326170d0d2_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/clover/fw_clover_miui_MIPAD4_V10.1.1.0.ODJCNFI_326170d0d2_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_V10.1.1.0.ODJCNFI_326170d0d2_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.23",
+      "android": "8.1"
+    },
+    "date": "2018-11-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-26.11.2018/fw_clover_miui_MIPAD4_8.11.23_6909d50b28_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.11.23_6909d50b28_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "8.1"
+    },
+    "date": "2018-12-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-03.12.2018/fw_clover_miui_MIPAD4_8.11.29_f0ad3e9f8c_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.11.29_f0ad3e9f8c_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "8.1"
+    },
+    "date": "2018-12-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-07.12.2018/fw_clover_miui_MIPAD4_8.12.6_41c5d0c5f4_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.12.6_41c5d0c5f4_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "8.1"
+    },
+    "date": "2018-12-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-14.12.2018/fw_clover_miui_MIPAD4_8.12.13_22d1cc8c12_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.12.13_22d1cc8c12_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "8.1"
+    },
+    "date": "2018-12-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-21.12.2018/fw_clover_miui_MIPAD4_8.12.20_37caedaed0_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_clover_miui_MIPAD4_8.12.20_37caedaed0_8.1.zip"
+  }
+]

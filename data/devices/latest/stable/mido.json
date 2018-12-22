@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.0",
+      "miui": "V10.1.1.0.NCFMIFI"
+    },
+    "date": "2018-11-21",
+    "file": "fw_mido_miui_HMNote4XGlobal_V10.1.1.0.NCFMIFI_707a693088_7.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.0",
+      "miui": "V10.1.1.0.NCFCNFI"
+    },
+    "date": "2018-11-07",
+    "file": "fw_mido_miui_HMNote4X_V10.1.1.0.NCFCNFI_f9c6b43a90_7.0.zip"
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.12",
+      "android": "7.0"
+    },
+    "date": "2018-04-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-bdce69d978363d377408/fw_capricorn_miui_MI5SGlobal_8.4.12_21ab11af0a_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/capricorn/fw_capricorn_miui_MI5SGlobal_8.4.12_21ab11af0a_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.4.12_21ab11af0a_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.19",
+      "android": "7.0"
+    },
+    "date": "2018-04-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-ded4cb45b24c4f714ba4/fw_capricorn_miui_MI5SGlobal_8.4.19_9df1fc910a_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/capricorn/fw_capricorn_miui_MI5SGlobal_8.4.19_9df1fc910a_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.4.19_9df1fc910a_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.26",
+      "android": "7.0"
+    },
+    "date": "2018-04-27",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-ba1798a38ba909aaffb2/fw_capricorn_miui_MI5S_8.4.26_46a8801852_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/capricorn/fw_capricorn_miui_MI5S_8.4.26_46a8801852_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5S_8.4.26_46a8801852_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.2.0.NAGMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-62fd3c0d80d12ffd9d46/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAGMIFA/capricorn/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.2.0.NAGMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-d3a8e061af984b1ba05a/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAGMIFA/capricorn/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.0"
+    },
+    "date": "2018-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-a5051a8c09c95b85aa1a/fw_capricorn_miui_MI5SGlobal_8.4.28_5e70d1eefb_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/capricorn/fw_capricorn_miui_MI5SGlobal_8.4.28_5e70d1eefb_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.4.28_5e70d1eefb_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.2.0.NAGMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-7fe57290be5a71c3ef50/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAGMIFA/capricorn/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.0"
+    },
+    "date": "2018-07-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-0e997f1e534e8d1ab0e9/fw_capricorn_miui_MI5S_8.4.28_c76fd66cea_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/capricorn/fw_capricorn_miui_MI5S_8.4.28_c76fd66cea_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5S_8.4.28_c76fd66cea_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.0"
+    },
+    "date": "2018-07-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-3e079a02c15dc1c6026b/fw_capricorn_miui_MI5SGlobal_8.4.28_5e70d1eefb_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/capricorn/fw_capricorn_miui_MI5SGlobal_8.4.28_5e70d1eefb_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.4.28_5e70d1eefb_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.1.0.NAGMIFD",
+      "android": "7.0"
+    },
+    "date": "2018-07-10",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-41066a4dcba26b65de6b/fw_capricorn_miui_MI5SGlobal_V9.6.1.0.NAGMIFD_cab885025e_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.NAGMIFD/capricorn/fw_capricorn_miui_MI5SGlobal_V9.6.1.0.NAGMIFD_cab885025e_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_V9.6.1.0.NAGMIFD_cab885025e_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "7.0"
+    },
+    "date": "2018-07-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-f0568983b95111e416e4/fw_capricorn_miui_MI5SGlobal_8.7.12_f9f0f22aad_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/capricorn/fw_capricorn_miui_MI5SGlobal_8.7.12_f9f0f22aad_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.7.12_f9f0f22aad_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "7.0"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-20.07.2018/fw_capricorn_miui_MI5SGlobal_8.7.19_11da5aea3a_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/capricorn/fw_capricorn_miui_MI5SGlobal_8.7.19_11da5aea3a_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.7.19_11da5aea3a_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.1.0.NAGMIFD",
+      "android": "7.0"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-20.07.2018/fw_capricorn_miui_MI5SGlobal_V9.6.1.0.NAGMIFD_cab885025e_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/capricorn/fw_capricorn_miui_MI5SGlobal_V9.6.1.0.NAGMIFD_cab885025e_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_V9.6.1.0.NAGMIFD_cab885025e_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.0"
+    },
+    "date": "2018-07-27",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-27.07.2018/fw_capricorn_miui_MI5SGlobal_8.7.26_71d9793970_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.7.26_71d9793970_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.2",
+      "android": "7.0"
+    },
+    "date": "2018-08-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-03.08.2018/fw_capricorn_miui_MI5SGlobal_8.8.2_7a208c96d5_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.8.2_7a208c96d5_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.0"
+    },
+    "date": "2018-08-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-06.08.2018/fw_capricorn_miui_MI5SGlobal_8.7.26_71d9793970_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.7.26_71d9793970_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.9",
+      "android": "7.0"
+    },
+    "date": "2018-08-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-10.08.2018/fw_capricorn_miui_MI5S_8.8.9_34fe9275b7_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5S_8.8.9_34fe9275b7_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "7.0"
+    },
+    "date": "2018-08-17",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-17.08.2018/fw_capricorn_miui_MI5SGlobal_8.8.16_d4a1f45c78_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.8.16_d4a1f45c78_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "7.0"
+    },
+    "date": "2018-08-24",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-24.08.2018/fw_capricorn_miui_MI5SGlobal_8.8.23_ff43f88c10_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.8.23_ff43f88c10_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "7.0"
+    },
+    "date": "2018-08-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-30.08.2018/fw_capricorn_miui_MI5SGlobal_8.8.30_b7c61f3a7e_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.8.30_b7c61f3a7e_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "7.0"
+    },
+    "date": "2018-08-31",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-31.08.2018/fw_capricorn_miui_MI5S_8.8.30_eef5001274_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5S_8.8.30_eef5001274_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.1.0.NAGMIFD",
+      "android": "7.0"
+    },
+    "date": "2018-09-04",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-04.09.2018/fw_capricorn_miui_MI5SGlobal_V9.6.1.0.NAGMIFD_cab885025e_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/capricorn/fw_capricorn_miui_MI5SGlobal_V9.6.1.0.NAGMIFD_cab885025e_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_V9.6.1.0.NAGMIFD_cab885025e_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "7.0"
+    },
+    "date": "2018-09-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-06.09.2018/fw_capricorn_miui_MI5SGlobal_8.9.6_d35dff8b0d_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.9.6_d35dff8b0d_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "7.0"
+    },
+    "date": "2018-09-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-07.09.2018/fw_capricorn_miui_MI5S_8.9.6_62faf1bb44_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5S_8.9.6_62faf1bb44_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.0"
+    },
+    "date": "2018-09-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-13.09.2018/fw_capricorn_miui_MI5SGlobal_8.9.13_bf37d1144b_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.9.13_bf37d1144b_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.0"
+    },
+    "date": "2018-09-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-14.09.2018/fw_capricorn_miui_MI5S_8.9.13_6fbcc17f3d_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5S_8.9.13_6fbcc17f3d_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "7.0"
+    },
+    "date": "2018-09-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-20.09.2018/fw_capricorn_miui_MI5SGlobal_8.9.20_f706950905_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.9.20_f706950905_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "7.0"
+    },
+    "date": "2018-10-11",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-11.10.2018/fw_capricorn_miui_MI5SGlobal_8.10.11_94bcfda4c1_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.10.11_94bcfda4c1_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.18",
+      "android": "7.0"
+    },
+    "date": "2018-10-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-19.10.2018/fw_capricorn_miui_MI5SGlobal_8.10.18_2ec97c0ce2_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.10.18_2ec97c0ce2_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "7.0"
+    },
+    "date": "2018-10-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-26.10.2018/fw_capricorn_miui_MI5SGlobal_8.10.25_69cbe52cde_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.10.25_69cbe52cde_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.NAGCNFI",
+      "android": "7.0"
+    },
+    "date": "2018-11-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-07.11.2018/fw_capricorn_miui_MI5S_V10.1.1.0.NAGCNFI_1e3c469f60_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/capricorn/fw_capricorn_miui_MI5S_V10.1.1.0.NAGCNFI_1e3c469f60_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5S_V10.1.1.0.NAGCNFI_1e3c469f60_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "8.0"
+    },
+    "date": "2018-11-16",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-16.11.2018/fw_capricorn_miui_MI5SGlobal_8.11.15_5c5145f64a_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.11.15_5c5145f64a_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.NAGMIFI",
+      "android": "7.0"
+    },
+    "date": "2018-11-16",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-16.11.2018/fw_capricorn_miui_MI5SGlobal_V10.1.1.0.NAGMIFI_691a2ec0ca_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/capricorn/fw_capricorn_miui_MI5SGlobal_V10.1.1.0.NAGMIFI_691a2ec0ca_7.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_V10.1.1.0.NAGMIFI_691a2ec0ca_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.23",
+      "android": "8.0"
+    },
+    "date": "2018-11-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-26.11.2018/fw_capricorn_miui_MI5S_8.11.23_a7be19e9bc_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5S_8.11.23_a7be19e9bc_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "8.0"
+    },
+    "date": "2018-12-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-03.12.2018/fw_capricorn_miui_MI5SGlobal_8.11.29_1ca60a61ff_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.11.29_1ca60a61ff_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "8.0"
+    },
+    "date": "2018-12-07",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-07.12.2018/fw_capricorn_miui_MI5SGlobal_8.12.6_9e672980c2_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.12.6_9e672980c2_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.2.0.OAGCNFI",
+      "android": "8.0"
+    },
+    "date": "2018-12-13",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-13.12.2018/fw_capricorn_miui_MI5S_V10.1.2.0.OAGCNFI_e15ec6ca83_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/capricorn/fw_capricorn_miui_MI5S_V10.1.2.0.OAGCNFI_e15ec6ca83_8.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5S_V10.1.2.0.OAGCNFI_e15ec6ca83_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "8.0"
+    },
+    "date": "2018-12-14",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-14.12.2018/fw_capricorn_miui_MI5SGlobal_8.12.13_e5558bd08a_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.12.13_e5558bd08a_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "8.0"
+    },
+    "date": "2018-12-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-21.12.2018/fw_capricorn_miui_MI5SGlobal_8.12.20_ff1da0e010_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_8.12.20_ff1da0e010_8.0.zip"
+  }
+]

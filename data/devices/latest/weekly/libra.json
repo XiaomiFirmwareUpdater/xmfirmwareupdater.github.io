@@ -1,0 +1,19 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": ""
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.0",
+      "miui": "8.9.13"
+    },
+    "date": "2018-09-14",
+    "file": "fw_libra_miui_MI4c_8.9.13_6a39e99f8c_7.0.zip"
+  }
+]

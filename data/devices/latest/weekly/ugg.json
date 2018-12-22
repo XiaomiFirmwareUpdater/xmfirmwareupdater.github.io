@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.1",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_ugg_miui_HMNote5AGlobal_8.12.20_ea4e1eb9e6_7.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.1",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_ugg_miui_HMNote5A_8.12.20_9071fcd8e5_7.1.zip"
+  }
+]

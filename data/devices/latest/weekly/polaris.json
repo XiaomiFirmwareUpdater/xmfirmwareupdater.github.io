@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "9.0",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_polaris_miui_MIMIX2SGlobal_8.12.20_62782bcf26_9.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "9.0",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_polaris_miui_MIMIX2S_8.12.20_fb5b1b05ab_9.0.zip"
+  }
+]

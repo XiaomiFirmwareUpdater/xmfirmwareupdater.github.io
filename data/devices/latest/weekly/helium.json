@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.0",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_helium_miui_MIMAX652Global_8.12.20_77226308ae_7.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.0",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_helium_miui_MIMAX652_8.12.20_007c5a3d64_7.0.zip"
+  }
+]

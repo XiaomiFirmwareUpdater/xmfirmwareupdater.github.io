@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "8.0",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_lithium_miui_MIMIXGlobal_8.12.20_0f51c821e4_8.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "8.0",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_lithium_miui_MIMIX_8.12.20_f879d75513_8.0.zip"
+  }
+]

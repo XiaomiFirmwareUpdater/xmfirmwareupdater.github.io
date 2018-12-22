@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.0",
+      "miui": "V10.1.1.0.NAGMIFI"
+    },
+    "date": "2018-11-16",
+    "file": "fw_capricorn_miui_MI5SGlobal_V10.1.1.0.NAGMIFI_691a2ec0ca_7.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "8.0",
+      "miui": "V10.1.2.0.OAGCNFI"
+    },
+    "date": "2018-12-13",
+    "file": "fw_capricorn_miui_MI5S_V10.1.2.0.OAGCNFI_e15ec6ca83_8.0.zip"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.6.18",
+      "android": "8.1"
+    },
+    "date": "2018-06-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/untagged-71c0c30c45da20e73ff7/fw_dipper_miui_MI8_8.6.18_2c1131c6c2_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.18/dipper/fw_dipper_miui_MI8_8.6.18_2c1131c6c2_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_8.6.18_2c1131c6c2_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.6.0.OEACNFA",
+      "android": "8.1"
+    },
+    "date": "2018-06-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/untagged-d8521a2803a0c8c970ff/fw_dipper_miui_DIPPER_V9.5.6.0.OEACNFA_3dcc4fd7c2_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.6.0.OEACNFA/dipper/fw_dipper_miui_DIPPER_V9.5.6.0.OEACNFA_3dcc4fd7c2_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_DIPPER_V9.5.6.0.OEACNFA_3dcc4fd7c2_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.6",
+      "android": "8.1"
+    },
+    "date": "2018-07-09",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/untagged-c62e8917b56a81a925f3/fw_dipper_miui_MI8_8.7.6_b71008f75e_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.6/dipper/fw_dipper_miui_MI8_8.7.6_b71008f75e_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_8.7.6_b71008f75e_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.11.0.OEACNFA",
+      "android": "8.1"
+    },
+    "date": "2018-07-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/untagged-d6e58ed4349d1cd3e5d4/fw_dipper_miui_MI8_V9.5.11.0.OEACNFA_4b37ec1ab5_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.11.0.OEACNFA/dipper/fw_dipper_miui_MI8_V9.5.11.0.OEACNFA_4b37ec1ab5_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_V9.5.11.0.OEACNFA_4b37ec1ab5_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "8.1"
+    },
+    "date": "2018-07-13",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/untagged-79efcb04973758026db4/fw_dipper_miui_MI8_8.7.12_57905f2986_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/dipper/fw_dipper_miui_MI8_8.7.12_57905f2986_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_8.7.12_57905f2986_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.13.0.OEAMIFA",
+      "android": "8.1"
+    },
+    "date": "2018-07-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/untagged-baf7feec56029047a505/fw_dipper_miui_MI8Global_V9.5.13.0.OEAMIFA_4c2c1a6215_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.13.0.OEAMIFA/dipper/fw_dipper_miui_MI8Global_V9.5.13.0.OEAMIFA_4c2c1a6215_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8Global_V9.5.13.0.OEAMIFA_4c2c1a6215_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "8.1"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-20.07.2018/fw_dipper_miui_MI8_8.7.19_bacb2c0a1d_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/dipper/fw_dipper_miui_MI8_8.7.19_bacb2c0a1d_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_8.7.19_bacb2c0a1d_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.5.13.0.OEAMIFA",
+      "android": "8.1"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-20.07.2018/fw_dipper_miui_MI8Global_V9.5.13.0.OEAMIFA_4c2c1a6215_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/dipper/fw_dipper_miui_MI8Global_V9.5.13.0.OEAMIFA_4c2c1a6215_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8Global_V9.5.13.0.OEAMIFA_4c2c1a6215_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "8.1"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/untagged-d82adf5c964b2a72da23/fw_dipper_miui_MI8_8.7.19_bacb2c0a1d_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8_8.7.19_bacb2c0a1d_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "8.1"
+    },
+    "date": "2018-07-27",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-27.07.2018/fw_dipper_miui_MI8_8.7.26_84a2aeb7fe_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8_8.7.26_84a2aeb7fe_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "8.1"
+    },
+    "date": "2018-08-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-03.08.2018/fw_dipper_miui_MI8_8.7.12_57905f2986_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8_8.7.12_57905f2986_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "8.1"
+    },
+    "date": "2018-08-17",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-17.08.2018/fw_dipper_miui_MI8_8.8.16_f581be4392_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8_8.8.16_f581be4392_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.1.0.OEAMIFD",
+      "android": "8.1"
+    },
+    "date": "2018-08-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-20.08.2018/fw_dipper_miui_MI8Global_V9.6.1.0.OEAMIFD_6cefb53cfe_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/dipper/fw_dipper_miui_MI8Global_V9.6.1.0.OEAMIFD_6cefb53cfe_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8Global_V9.6.1.0.OEAMIFD_6cefb53cfe_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.9",
+      "android": "8.1"
+    },
+    "date": "2018-08-24",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-24.08.2018/fw_dipper_miui_MI8_8.8.9_f4fd8f504c_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8_8.8.9_f4fd8f504c_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.24",
+      "android": "8.1"
+    },
+    "date": "2018-08-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-28.08.2018/fw_dipper_miui_MI8_8.8.24_6c72113282_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8_8.8.24_6c72113282_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "8.1"
+    },
+    "date": "2018-08-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-30.08.2018/fw_dipper_miui_MI8Global_8.8.30_1e559f40ab_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.8.30_1e559f40ab_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "8.1"
+    },
+    "date": "2018-08-31",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-31.08.2018/fw_dipper_miui_MI8_8.8.30_b10bcdf529_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8_8.8.30_b10bcdf529_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.24",
+      "android": "8.1"
+    },
+    "date": "2018-09-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-03.09.2018/fw_dipper_miui_MI8_8.8.24_6c72113282_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8_8.8.24_6c72113282_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.4.0.OEAMIFD",
+      "android": "8.1"
+    },
+    "date": "2018-09-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-03.09.2018/fw_dipper_miui_MI8Global_V9.6.4.0.OEAMIFD_c058900b27_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/dipper/fw_dipper_miui_MI8Global_V9.6.4.0.OEAMIFD_c058900b27_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8Global_V9.6.4.0.OEAMIFD_c058900b27_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "8.1"
+    },
+    "date": "2018-09-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-06.09.2018/fw_dipper_miui_MI8Global_8.9.6_bc86eb8d39_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.9.6_bc86eb8d39_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.31",
+      "android": "8.1"
+    },
+    "date": "2018-09-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-07.09.2018/fw_dipper_miui_MI8_8.8.31_b99e4f5263_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8_8.8.31_b99e4f5263_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "8.1"
+    },
+    "date": "2018-09-08",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-08.09.2018/fw_dipper_miui_MI8Global_8.8.30_1e559f40ab_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.8.30_1e559f40ab_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.7.0.OEAMIFD",
+      "android": "8.1"
+    },
+    "date": "2018-09-10",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-10.09.2018/fw_dipper_miui_MI8Global_V9.6.7.0.OEAMIFD_c22b65f465_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/dipper/fw_dipper_miui_MI8Global_V9.6.7.0.OEAMIFD_c22b65f465_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8Global_V9.6.7.0.OEAMIFD_c22b65f465_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.0.5.0.OEACNFH",
+      "android": "8.1"
+    },
+    "date": "2018-09-17",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-17.09.2018/fw_dipper_miui_MI8_V10.0.5.0.OEACNFH_5949bed8d4_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8_V10.0.5.0.OEACNFH_5949bed8d4_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_V10.0.5.0.OEACNFH_5949bed8d4_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.0.2.0.OEAMIFH",
+      "android": "8.1"
+    },
+    "date": "2018-09-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-19.09.2018/fw_dipper_miui_MI8Global_V10.0.2.0.OEAMIFH_f1b5f34c66_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8Global_V10.0.2.0.OEAMIFH_f1b5f34c66_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8Global_V10.0.2.0.OEAMIFH_f1b5f34c66_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.0.6.0.OEACNFH",
+      "android": "8.1"
+    },
+    "date": "2018-10-08",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-08.10.2018/fw_dipper_miui_MI8_V10.0.6.0.OEACNFH_de53c16966_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8_V10.0.6.0.OEACNFH_de53c16966_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_V10.0.6.0.OEACNFH_de53c16966_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "9.0"
+    },
+    "date": "2018-10-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-13.10.2018/fw_dipper_miui_MI8Global_8.10.11_711e9be91c_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.10.11_711e9be91c_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.18",
+      "android": "9.0"
+    },
+    "date": "2018-10-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-19.10.2018/fw_dipper_miui_MI8_8.10.18_1d69632c92_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8_8.10.18_1d69632c92_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "9.0"
+    },
+    "date": "2018-10-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-26.10.2018/fw_dipper_miui_MI8Global_8.10.25_f598ea6e8b_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.10.25_f598ea6e8b_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.0.8.0.OEACNFH",
+      "android": "8.1"
+    },
+    "date": "2018-10-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-29.10.2018/fw_dipper_miui_MI8_V10.0.8.0.OEACNFH_31fc6d9bc7_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8_V10.0.8.0.OEACNFH_31fc6d9bc7_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_V10.0.8.0.OEACNFH_31fc6d9bc7_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.2",
+      "android": "9.0"
+    },
+    "date": "2018-11-05",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-05.11.2018/fw_dipper_miui_MI8Global_8.11.2_b1f6a5b560_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.11.2_b1f6a5b560_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.0.9.0.OEACNFH",
+      "android": "8.1"
+    },
+    "date": "2018-11-05",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-05.11.2018/fw_dipper_miui_MI8_V10.0.9.0.OEACNFH_1c728d6493_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8_V10.0.9.0.OEACNFH_1c728d6493_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_V10.0.9.0.OEACNFH_1c728d6493_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.8",
+      "android": "9.0"
+    },
+    "date": "2018-11-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-09.11.2018/fw_dipper_miui_MI8Global_8.11.8_02b3c9c232_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.11.8_02b3c9c232_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "9.0"
+    },
+    "date": "2018-11-16",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-16.11.2018/fw_dipper_miui_MI8Global_8.11.15_308ad20336_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.11.15_308ad20336_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.0.11.0.OEACNFH",
+      "android": "8.1"
+    },
+    "date": "2018-11-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-20.11.2018/fw_dipper_miui_MI8_V10.0.11.0.OEACNFH_3dc219a708_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8_V10.0.11.0.OEACNFH_3dc219a708_8.1.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_V10.0.11.0.OEACNFH_3dc219a708_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.23",
+      "android": "9.0"
+    },
+    "date": "2018-11-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-26.11.2018/fw_dipper_miui_MI8Global_8.11.23_87f3f97f9b_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.11.23_87f3f97f9b_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "9.0"
+    },
+    "date": "2018-12-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-03.12.2018/fw_dipper_miui_MI8Global_8.11.29_83df0ba68f_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.11.29_83df0ba68f_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.7",
+      "android": "9.0"
+    },
+    "date": "2018-12-10",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-10.12.2018/fw_dipper_miui_MI8Global_8.12.7_c18aad4fc4_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.12.7_c18aad4fc4_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "9.0"
+    },
+    "date": "2018-12-14",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-14.12.2018/fw_dipper_miui_MI8Global_8.12.13_e9e83c01c3_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.12.13_e9e83c01c3_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "9.0"
+    },
+    "date": "2018-12-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-21.12.2018/fw_dipper_miui_MI8Global_8.12.20_c7a9af8587_9.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_dipper_miui_MI8Global_8.12.20_c7a9af8587_9.0.zip"
+  }
+]

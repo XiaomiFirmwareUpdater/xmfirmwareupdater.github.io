@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.1",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_ugglite_miui_HMNote5ALITEGlobal_8.12.20_4ac11c6d4c_7.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.1",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_ugglite_miui_HMNote5ALITE_8.12.20_26d07d7fc0_7.1.zip"
+  }
+]

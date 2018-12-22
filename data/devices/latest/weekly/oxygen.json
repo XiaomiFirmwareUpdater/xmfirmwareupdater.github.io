@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.1",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_oxygen_miui_MIMAX2Global_8.12.20_f14f26703f_7.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.1",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_oxygen_miui_MIMAX2_8.12.20_dbaf334560_7.1.zip"
+  }
+]

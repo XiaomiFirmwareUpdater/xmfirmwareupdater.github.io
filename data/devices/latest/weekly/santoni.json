@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.1",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_santoni_miui_HM4XGlobal_8.12.20_6f5214e6a7_7.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "7.1",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_santoni_miui_HM4X_8.12.20_0194b99521_7.1.zip"
+  }
+]

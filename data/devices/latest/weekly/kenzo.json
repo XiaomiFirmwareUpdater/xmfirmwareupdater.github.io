@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "6.0",
+      "miui": "8.11.22"
+    },
+    "date": "2018-11-26",
+    "file": "fw_kenzo_miui_HMNote3ProGlobal_8.11.22_ec10ddebd0_6.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "6.0",
+      "miui": "8.11.22"
+    },
+    "date": "2018-11-23",
+    "file": "fw_kenzo_miui_HMNote3Pro_8.11.22_38aac9b24f_6.0.zip"
+  }
+]

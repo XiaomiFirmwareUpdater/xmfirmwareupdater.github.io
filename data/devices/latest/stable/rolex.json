@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "7.1",
+      "miui": "V10.1.1.0.NCCMIFI"
+    },
+    "date": "2018-11-28",
+    "file": "fw_rolex_miui_HM4AGlobal_V10.1.1.0.NCCMIFI_bf43214d8e_7.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "6.0",
+      "miui": "V10.1.1.0.MCCCNFI"
+    },
+    "date": "2018-11-07",
+    "file": "fw_rolex_miui_HM4A_V10.1.1.0.MCCCNFI_1126084827_6.0.zip"
+  }
+]

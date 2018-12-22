@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "8.1",
+      "miui": "V10.0.2.0.OEAMIFH"
+    },
+    "date": "2018-09-19",
+    "file": "fw_dipper_miui_MI8Global_V10.0.2.0.OEAMIFH_f1b5f34c66_8.1.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "8.1",
+      "miui": "V10.0.11.0.OEACNFH"
+    },
+    "date": "2018-11-20",
+    "file": "fw_dipper_miui_MI8_V10.0.11.0.OEACNFH_3dc219a708_8.1.zip"
+  }
+]

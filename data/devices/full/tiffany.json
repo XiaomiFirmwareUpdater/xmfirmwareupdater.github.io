@@ -1,0 +1,450 @@
+[
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.12",
+      "android": "7.1"
+    },
+    "date": "2018-04-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-a048768baaa21ea4449b/fw_tiffany_miui_MI5X_8.4.12_0cf953ccc7_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/tiffany/fw_tiffany_miui_MI5X_8.4.12_0cf953ccc7_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.4.12_0cf953ccc7_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.19",
+      "android": "7.1"
+    },
+    "date": "2018-04-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-6d2846de4d2960f13cd7/fw_tiffany_miui_MI5X_8.4.19_97d083b82d_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/tiffany/fw_tiffany_miui_MI5X_8.4.19_97d083b82d_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.4.19_97d083b82d_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.26",
+      "android": "7.1"
+    },
+    "date": "2018-04-27",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-7a98b176f355bc7176ed/fw_tiffany_miui_MI5X_8.4.26_adeb132b38_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/tiffany/fw_tiffany_miui_MI5X_8.4.26_adeb132b38_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.4.26_adeb132b38_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.3.0.NDBCNFA",
+      "android": "7.1"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-6156b32d7f271335ac0f/fw_tiffany_miui_MI5X_V9.5.3.0.NDBCNFA_680660d4d8_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.NDBCNFA/tiffany/fw_tiffany_miui_MI5X_V9.5.3.0.NDBCNFA_680660d4d8_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_V9.5.3.0.NDBCNFA_680660d4d8_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.3.0.NDBCNFA",
+      "android": "7.1"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-e792effc41b5c88a0917/fw_tiffany_miui_MI5X_V9.5.3.0.NDBCNFA_680660d4d8_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.NDBCNFA/tiffany/fw_tiffany_miui_MI5X_V9.5.3.0.NDBCNFA_680660d4d8_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_V9.5.3.0.NDBCNFA_680660d4d8_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.3.0.NDBCNFA",
+      "android": "7.1"
+    },
+    "date": "2018-05-30",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-c40adc2f569028b5b048/fw_tiffany_miui_MI5X_V9.5.3.0.NDBCNFA_680660d4d8_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.NDBCNFA/tiffany/fw_tiffany_miui_MI5X_V9.5.3.0.NDBCNFA_680660d4d8_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_V9.5.3.0.NDBCNFA_680660d4d8_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.1"
+    },
+    "date": "2018-06-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-73163c1ded68f4c905dc/fw_tiffany_miui_MI5X_8.4.28_414a8a1576_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/tiffany/fw_tiffany_miui_MI5X_8.4.28_414a8a1576_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.4.28_414a8a1576_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.1.0.NDBCNFD",
+      "android": "7.1"
+    },
+    "date": "2018-06-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-8e7b8e01fa32756eb5d2/fw_tiffany_miui_MI5X_V9.6.1.0.NDBCNFD_97c7c136b8_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.NDBCNFD/tiffany/fw_tiffany_miui_MI5X_V9.6.1.0.NDBCNFD_97c7c136b8_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_V9.6.1.0.NDBCNFD_97c7c136b8_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.1"
+    },
+    "date": "2018-07-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-9a88e439c405b7b23ee7/fw_tiffany_miui_MI5X_8.4.28_414a8a1576_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/tiffany/fw_tiffany_miui_MI5X_8.4.28_414a8a1576_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.4.28_414a8a1576_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.1"
+    },
+    "date": "2018-07-09",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-7c2f1c0737ec2bb027f7/fw_tiffany_miui_MI5X_8.4.28_414a8a1576_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/tiffany/fw_tiffany_miui_MI5X_8.4.28_414a8a1576_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.4.28_414a8a1576_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.1.0.NDBCNFD",
+      "android": "7.1"
+    },
+    "date": "2018-07-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-9617695d90b5d350dcdd/fw_tiffany_miui_MI5X_V9.6.1.0.NDBCNFD_97c7c136b8_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.NDBCNFD/tiffany/fw_tiffany_miui_MI5X_V9.6.1.0.NDBCNFD_97c7c136b8_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_V9.6.1.0.NDBCNFD_97c7c136b8_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "7.1"
+    },
+    "date": "2018-07-13",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-f7c4b84247d2ce8e5138/fw_tiffany_miui_MI5X_8.7.12_285404c7c6_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/tiffany/fw_tiffany_miui_MI5X_8.7.12_285404c7c6_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.7.12_285404c7c6_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "7.1"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-20.07.2018/fw_tiffany_miui_MI5X_8.7.19_8d34618208_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/tiffany/fw_tiffany_miui_MI5X_8.7.19_8d34618208_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.7.19_8d34618208_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.1.0.NDBCNFD",
+      "android": "7.1"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/stable-20.07.2018/fw_tiffany_miui_MI5X_V9.6.1.0.NDBCNFD_97c7c136b8_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/tiffany/fw_tiffany_miui_MI5X_V9.6.1.0.NDBCNFD_97c7c136b8_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_V9.6.1.0.NDBCNFD_97c7c136b8_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.1"
+    },
+    "date": "2018-07-27",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-27.07.2018/fw_tiffany_miui_MI5X_8.7.26_ec3fb7e011_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.7.26_ec3fb7e011_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.3",
+      "android": "7.1"
+    },
+    "date": "2018-08-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-06.08.2018/fw_tiffany_miui_MI5X_8.8.3_fa1e696d1c_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.8.3_fa1e696d1c_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.9",
+      "android": "7.1"
+    },
+    "date": "2018-08-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-10.08.2018/fw_tiffany_miui_MI5X_8.8.9_fb16c99dbe_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.8.9_fb16c99dbe_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "7.1"
+    },
+    "date": "2018-08-17",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-17.08.2018/fw_tiffany_miui_MI5X_8.8.16_1f57dd5836_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.8.16_1f57dd5836_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "7.1"
+    },
+    "date": "2018-08-24",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-24.08.2018/fw_tiffany_miui_MI5X_8.8.23_77ee420077_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.8.23_77ee420077_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "7.1"
+    },
+    "date": "2018-08-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-29.08.2018/fw_tiffany_miui_MI5X_8.8.23_77ee420077_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.8.23_77ee420077_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "7.1"
+    },
+    "date": "2018-08-31",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/untagged-c7f8e518791147934b61/fw_tiffany_miui_MI5X_8.8.30_23af6a4e91_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.8.30_23af6a4e91_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.2.0.NDBCNFD",
+      "android": "7.1"
+    },
+    "date": "2018-09-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/stable-03.09.2018/fw_tiffany_miui_MI5X_V9.6.2.0.NDBCNFD_6af21d7903_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/tiffany/fw_tiffany_miui_MI5X_V9.6.2.0.NDBCNFD_6af21d7903_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_V9.6.2.0.NDBCNFD_6af21d7903_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "7.1"
+    },
+    "date": "2018-09-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-07.09.2018/fw_tiffany_miui_MI5X_8.9.6_088d80fd65_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.9.6_088d80fd65_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.1"
+    },
+    "date": "2018-09-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-14.09.2018/fw_tiffany_miui_MI5X_8.9.13_157dbad5a0_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.9.13_157dbad5a0_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "7.1"
+    },
+    "date": "2018-09-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-21.09.2018/fw_tiffany_miui_MI5X_8.9.20_faf5749e63_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.9.20_faf5749e63_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.1"
+    },
+    "date": "2018-09-25",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-25.09.2018/fw_tiffany_miui_MI5X_8.9.13_157dbad5a0_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.9.13_157dbad5a0_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.18",
+      "android": "7.1"
+    },
+    "date": "2018-10-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-19.10.2018/fw_tiffany_miui_MI5X_8.10.18_04e8618d5c_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.10.18_04e8618d5c_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "7.1"
+    },
+    "date": "2018-10-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-26.10.2018/fw_tiffany_miui_MI5X_8.10.25_451f72b46f_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.10.25_451f72b46f_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.2",
+      "android": "7.1"
+    },
+    "date": "2018-11-05",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-05.11.2018/fw_tiffany_miui_MI5X_8.11.2_f307a49bf7_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.11.2_f307a49bf7_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.3.0.NDBCNFI",
+      "android": "7.1"
+    },
+    "date": "2018-11-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/stable-19.11.2018/fw_tiffany_miui_MI5X_V10.1.3.0.NDBCNFI_26e7336b50_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/tiffany/fw_tiffany_miui_MI5X_V10.1.3.0.NDBCNFI_26e7336b50_7.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_V10.1.3.0.NDBCNFI_26e7336b50_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "8.1"
+    },
+    "date": "2018-12-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-14.12.2018/fw_tiffany_miui_MI5X_8.12.13_e6b871b333_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.12.13_e6b871b333_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "8.1"
+    },
+    "date": "2018-12-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-21.12.2018/fw_tiffany_miui_MI5X_8.12.20_97621b623c_8.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_tiffany_miui_MI5X_8.12.20_97621b623c_8.1.zip"
+  }
+]

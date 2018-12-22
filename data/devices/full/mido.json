@@ -1,0 +1,702 @@
+[
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.12",
+      "android": "7.0"
+    },
+    "date": "2018-04-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-84f23384ffad59f029bb/fw_mido_miui_HMNote4XGlobal_8.4.12_fd6e04f984_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/mido/fw_mido_miui_HMNote4XGlobal_8.4.12_fd6e04f984_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.4.12_fd6e04f984_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.19",
+      "android": "7.0"
+    },
+    "date": "2018-04-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-685c620bdc7cc7b67e4a/fw_mido_miui_HMNote4XGlobal_8.4.19_3f839ab7d7_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/mido/fw_mido_miui_HMNote4XGlobal_8.4.19_3f839ab7d7_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.4.19_3f839ab7d7_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.8.0.NCFMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-327c08d8b74649693ba2/fw_mido_miui_HMNote4XGlobal_V9.5.8.0.NCFMIFA_30495e599d_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.8.0.NCFMIFA/mido/fw_mido_miui_HMNote4XGlobal_V9.5.8.0.NCFMIFA_30495e599d_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_V9.5.8.0.NCFMIFA_30495e599d_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.8.0.NCFMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-40c7912c99ddfdd66b87/fw_mido_miui_HMNote4XGlobal_V9.5.8.0.NCFMIFA_30495e599d_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.8.0.NCFMIFA/mido/fw_mido_miui_HMNote4XGlobal_V9.5.8.0.NCFMIFA_30495e599d_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_V9.5.8.0.NCFMIFA_30495e599d_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.5.3",
+      "android": "7.0"
+    },
+    "date": "2018-05-04",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-5322f24116ba4941cee4/fw_mido_miui_HMNote4XGlobal_8.5.3_52f8422bdc_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.3/mido/fw_mido_miui_HMNote4XGlobal_8.5.3_52f8422bdc_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.5.3_52f8422bdc_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.5.10",
+      "android": "7.0"
+    },
+    "date": "2018-05-12",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-ff8d0a090b5e134fd22a/fw_mido_miui_HMNote4XGlobal_8.5.10_a3989abb27_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.10/mido/fw_mido_miui_HMNote4XGlobal_8.5.10_a3989abb27_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.5.10_a3989abb27_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.9.0.NCFMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-05-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-d8dce11fc2bd45c1627d/fw_mido_miui_HMNote4XGlobal_V9.5.9.0.NCFMIFA_b57067babe_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.9.0.NCFMIFA/mido/fw_mido_miui_HMNote4XGlobal_V9.5.9.0.NCFMIFA_b57067babe_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_V9.5.9.0.NCFMIFA_b57067babe_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.5.29",
+      "android": "7.0"
+    },
+    "date": "2018-06-22",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-d068a07f587651c19162/fw_mido_miui_HMNote4XGlobal_8.5.29_dff7701f62_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.29/mido/fw_mido_miui_HMNote4XGlobal_8.5.29_dff7701f62_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.5.29_dff7701f62_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.5.29",
+      "android": "7.0"
+    },
+    "date": "2018-06-29",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-c668485ef06f0ff281c4/fw_mido_miui_HMNote4XGlobal_8.5.29_dff7701f62_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.29/mido/fw_mido_miui_HMNote4XGlobal_8.5.29_dff7701f62_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.5.29_dff7701f62_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "7.0"
+    },
+    "date": "2018-07-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-25791d3ea48dece0a938/fw_mido_miui_HMNote4X_8.4.28_65febcda29_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/mido/fw_mido_miui_HMNote4X_8.4.28_65febcda29_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4X_8.4.28_65febcda29_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.5.29",
+      "android": "7.0"
+    },
+    "date": "2018-07-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-ef9f415cd10549f23814/fw_mido_miui_HMNote4XGlobal_8.5.29_dff7701f62_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.29/mido/fw_mido_miui_HMNote4XGlobal_8.5.29_dff7701f62_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.5.29_dff7701f62_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.11.0.NCFMIFA",
+      "android": "7.0"
+    },
+    "date": "2018-07-10",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-1f8c0e031bcdd1b9ad46/fw_mido_miui_HMNote4XGlobal_V9.5.11.0.NCFMIFA_4c9fde8cd6_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.11.0.NCFMIFA/mido/fw_mido_miui_HMNote4XGlobal_V9.5.11.0.NCFMIFA_4c9fde8cd6_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_V9.5.11.0.NCFMIFA_4c9fde8cd6_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "7.0"
+    },
+    "date": "2018-07-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-0f3ae01c87024c0db8f3/fw_mido_miui_HMNote4XGlobal_8.7.12_44631b1f8c_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/mido/fw_mido_miui_HMNote4XGlobal_8.7.12_44631b1f8c_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.7.12_44631b1f8c_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.1.0.NCFMIFD",
+      "android": "7.0"
+    },
+    "date": "2018-07-18",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/untagged-f8c2563a99f83f73607a/fw_mido_miui_HMNote4XGlobal_V9.6.1.0.NCFMIFD_2ffa61cdd6_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.NCFMIFD/mido/fw_mido_miui_HMNote4XGlobal_V9.6.1.0.NCFMIFD_2ffa61cdd6_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_V9.6.1.0.NCFMIFD_2ffa61cdd6_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "7.0"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-20.07.2018/fw_mido_miui_HMNote4XGlobal_8.7.19_8439d7a385_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/mido/fw_mido_miui_HMNote4XGlobal_8.7.19_8439d7a385_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.7.19_8439d7a385_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.1.0.NCFMIFD",
+      "android": "7.0"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-20.07.2018/fw_mido_miui_HMNote4XGlobal_V9.6.1.0.NCFMIFD_2ffa61cdd6_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/mido/fw_mido_miui_HMNote4XGlobal_V9.6.1.0.NCFMIFD_2ffa61cdd6_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_V9.6.1.0.NCFMIFD_2ffa61cdd6_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.0"
+    },
+    "date": "2018-07-27",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-27.07.2018/fw_mido_miui_HMNote4XGlobal_8.7.26_8e3b2d11b1_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.7.26_8e3b2d11b1_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.2.0.NCFMIFD",
+      "android": "7.0"
+    },
+    "date": "2018-08-01",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-01.08.2018/fw_mido_miui_HMNote4XGlobal_V9.6.2.0.NCFMIFD_88bb9b1f76_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/mido/fw_mido_miui_HMNote4XGlobal_V9.6.2.0.NCFMIFD_88bb9b1f76_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_V9.6.2.0.NCFMIFD_88bb9b1f76_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.2",
+      "android": "7.0"
+    },
+    "date": "2018-08-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-03.08.2018/fw_mido_miui_HMNote4XGlobal_8.8.2_fb499bc041_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.8.2_fb499bc041_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.0"
+    },
+    "date": "2018-08-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-06.08.2018/fw_mido_miui_HMNote4XGlobal_8.7.26_8e3b2d11b1_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.7.26_8e3b2d11b1_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.9",
+      "android": "7.0"
+    },
+    "date": "2018-08-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-10.08.2018/fw_mido_miui_HMNote4X_8.8.9_c84e30c26f_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4X_8.8.9_c84e30c26f_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.2.0.NCFCNFD",
+      "android": "7.0"
+    },
+    "date": "2018-08-16",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-16.08.2018/fw_mido_miui_HMNote4X_V9.6.2.0.NCFCNFD_3c8cd014c7_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/mido/fw_mido_miui_HMNote4X_V9.6.2.0.NCFCNFD_3c8cd014c7_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4X_V9.6.2.0.NCFCNFD_3c8cd014c7_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "7.0"
+    },
+    "date": "2018-08-17",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-17.08.2018/fw_mido_miui_HMNote4XGlobal_8.8.16_dcec6a611d_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.8.16_dcec6a611d_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "7.0"
+    },
+    "date": "2018-08-24",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-24.08.2018/fw_mido_miui_HMNote4XGlobal_8.8.23_53f9f174ea_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.8.23_53f9f174ea_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "7.0"
+    },
+    "date": "2018-08-29",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-29.08.2018/fw_mido_miui_HMNote4XGlobal_8.8.23_53f9f174ea_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.8.23_53f9f174ea_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "7.0"
+    },
+    "date": "2018-08-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-30.08.2018/fw_mido_miui_HMNote4XGlobal_8.8.30_0dc2937e91_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.8.30_0dc2937e91_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "7.0"
+    },
+    "date": "2018-08-31",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-31.08.2018/fw_mido_miui_HMNote4X_8.8.30_6fe6344fe4_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4X_8.8.30_6fe6344fe4_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "7.0"
+    },
+    "date": "2018-09-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-06.09.2018/fw_mido_miui_HMNote4XGlobal_8.9.6_0e17502d71_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.9.6_0e17502d71_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "7.0"
+    },
+    "date": "2018-09-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-07.09.2018/fw_mido_miui_HMNote4X_8.9.6_0b48413aea_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4X_8.9.6_0b48413aea_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.0"
+    },
+    "date": "2018-09-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-13.09.2018/fw_mido_miui_HMNote4XGlobal_8.9.13_9e60510590_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.9.13_9e60510590_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.0"
+    },
+    "date": "2018-09-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-14.09.2018/fw_mido_miui_HMNote4X_8.9.13_6267ce0c7f_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4X_8.9.13_6267ce0c7f_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "7.0"
+    },
+    "date": "2018-09-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-20.09.2018/fw_mido_miui_HMNote4XGlobal_8.9.20_42393f3033_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.9.20_42393f3033_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "7.0"
+    },
+    "date": "2018-09-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-21.09.2018/fw_mido_miui_HMNote4X_8.9.20_208c69e2fb_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4X_8.9.20_208c69e2fb_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.0"
+    },
+    "date": "2018-09-25",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-25.09.2018/fw_mido_miui_HMNote4X_8.9.13_6267ce0c7f_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4X_8.9.13_6267ce0c7f_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "7.0"
+    },
+    "date": "2018-10-12",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-12.10.2018/fw_mido_miui_HMNote4XGlobal_8.10.11_dc479885ac_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.10.11_dc479885ac_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.18",
+      "android": "7.0"
+    },
+    "date": "2018-10-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-19.10.2018/fw_mido_miui_HMNote4XGlobal_8.10.18_b026590e45_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.10.18_b026590e45_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.3.0.NCFMIFD",
+      "android": "7.0"
+    },
+    "date": "2018-10-24",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-24.10.2018/fw_mido_miui_HMNote4XGlobal_V9.6.3.0.NCFMIFD_875cb07751_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/mido/fw_mido_miui_HMNote4XGlobal_V9.6.3.0.NCFMIFD_875cb07751_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_V9.6.3.0.NCFMIFD_875cb07751_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "7.0"
+    },
+    "date": "2018-10-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-26.10.2018/fw_mido_miui_HMNote4XGlobal_8.10.25_2d2f9f3b2d_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.10.25_2d2f9f3b2d_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.1",
+      "android": "7.0"
+    },
+    "date": "2018-11-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-02.11.2018/fw_mido_miui_HMNote4XGlobal_8.11.1_36f1dfb34a_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.11.1_36f1dfb34a_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.2",
+      "android": "7.0"
+    },
+    "date": "2018-11-05",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-05.11.2018/fw_mido_miui_HMNote4X_8.11.2_5381b4d3e1_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4X_8.11.2_5381b4d3e1_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.NCFCNFI",
+      "android": "7.0"
+    },
+    "date": "2018-11-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-07.11.2018/fw_mido_miui_HMNote4X_V10.1.1.0.NCFCNFI_f9c6b43a90_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/mido/fw_mido_miui_HMNote4X_V10.1.1.0.NCFCNFI_f9c6b43a90_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4X_V10.1.1.0.NCFCNFI_f9c6b43a90_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.8",
+      "android": "7.0"
+    },
+    "date": "2018-11-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-09.11.2018/fw_mido_miui_HMNote4XGlobal_8.11.8_524273d20f_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.11.8_524273d20f_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "7.0"
+    },
+    "date": "2018-11-16",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-16.11.2018/fw_mido_miui_HMNote4XGlobal_8.11.15_57a8ca5789_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.11.15_57a8ca5789_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.NCFMIFI",
+      "android": "7.0"
+    },
+    "date": "2018-11-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-21.11.2018/fw_mido_miui_HMNote4XGlobal_V10.1.1.0.NCFMIFI_707a693088_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/mido/fw_mido_miui_HMNote4XGlobal_V10.1.1.0.NCFMIFI_707a693088_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_V10.1.1.0.NCFMIFI_707a693088_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.22",
+      "android": "7.0"
+    },
+    "date": "2018-11-23",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-23.11.2018/fw_mido_miui_HMNote4X_8.11.22_aeb1c6539a_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4X_8.11.22_aeb1c6539a_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.22",
+      "android": "7.0"
+    },
+    "date": "2018-11-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-26.11.2018/fw_mido_miui_HMNote4XGlobal_8.11.22_ea2ab97b4c_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.11.22_ea2ab97b4c_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "7.0"
+    },
+    "date": "2018-11-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-30.11.2018/fw_mido_miui_HMNote4XGlobal_8.11.29_bb61523ec4_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.11.29_bb61523ec4_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "7.0"
+    },
+    "date": "2018-12-07",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-07.12.2018/fw_mido_miui_HMNote4XGlobal_8.12.6_e05d63a6de_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.12.6_e05d63a6de_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "7.0"
+    },
+    "date": "2018-12-14",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-14.12.2018/fw_mido_miui_HMNote4XGlobal_8.12.13_d4917532aa_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.12.13_d4917532aa_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "7.0"
+    },
+    "date": "2018-12-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-21.12.2018/fw_mido_miui_HMNote4XGlobal_8.12.20_43a9a2079c_7.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_8.12.20_43a9a2079c_7.0.zip"
+  }
+]

@@ -1,0 +1,660 @@
+[
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.12",
+      "android": "6.0"
+    },
+    "date": "2018-04-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-c25f203fac81da96ce80/fw_land_miui_HM3SGlobal_8.4.12_bd445ad22b_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/land/fw_land_miui_HM3SGlobal_8.4.12_bd445ad22b_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.4.12_bd445ad22b_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.12",
+      "android": "6.0"
+    },
+    "date": "2018-04-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-69689da88a60613374e4/fw_land_miui_HM3SGlobal_8.4.12_bd445ad22b_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/land/fw_land_miui_HM3SGlobal_8.4.12_bd445ad22b_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.4.12_bd445ad22b_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.26",
+      "android": "6.0"
+    },
+    "date": "2018-04-27",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-c5afe15861a6e220472a/fw_land_miui_HM3S_8.4.26_cfbdd1ef01_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/land/fw_land_miui_HM3S_8.4.26_cfbdd1ef01_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3S_8.4.26_cfbdd1ef01_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.4.0.MALCNFA",
+      "android": "6.0"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-b5d138433c6258e9532c/fw_land_miui_HM3S_V9.5.4.0.MALCNFA_da22eb96dc_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.MALCNFA/land/fw_land_miui_HM3S_V9.5.4.0.MALCNFA_da22eb96dc_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3S_V9.5.4.0.MALCNFA_da22eb96dc_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.4.0.MALCNFA",
+      "android": "6.0"
+    },
+    "date": "2018-05-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-8c17f4518df09c7a872f/fw_land_miui_HM3S_V9.5.4.0.MALCNFA_da22eb96dc_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.MALCNFA/land/fw_land_miui_HM3S_V9.5.4.0.MALCNFA_da22eb96dc_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3S_V9.5.4.0.MALCNFA_da22eb96dc_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.5.0.MALMIFA",
+      "android": "6.0"
+    },
+    "date": "2018-05-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-3672c81bd70f3686c818/fw_land_miui_HM3SGlobal_V9.5.5.0.MALMIFA_26e029276a_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.MALMIFA/land/fw_land_miui_HM3SGlobal_V9.5.5.0.MALMIFA_26e029276a_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_V9.5.5.0.MALMIFA_26e029276a_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "6.0"
+    },
+    "date": "2018-06-22",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-5965f7073dea6dac21bd/fw_land_miui_HM3SGlobal_8.4.28_9c23208f14_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/land/fw_land_miui_HM3SGlobal_8.4.28_9c23208f14_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.4.28_9c23208f14_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.5.0.MALMIFA",
+      "android": "6.0"
+    },
+    "date": "2018-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-56588117663ff2cef1bd/fw_land_miui_HM3SGlobal_V9.5.5.0.MALMIFA_26e029276a_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.MALMIFA/land/fw_land_miui_HM3SGlobal_V9.5.5.0.MALMIFA_26e029276a_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_V9.5.5.0.MALMIFA_26e029276a_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "6.0"
+    },
+    "date": "2018-07-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-1ff0c52caad4c8255bbe/fw_land_miui_HM3S_8.4.28_0d6937596f_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/land/fw_land_miui_HM3S_8.4.28_0d6937596f_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3S_8.4.28_0d6937596f_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "6.0"
+    },
+    "date": "2018-07-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-afa30d34683766fa4dab/fw_land_miui_HM3SGlobal_8.4.28_9c23208f14_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/land/fw_land_miui_HM3SGlobal_8.4.28_9c23208f14_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.4.28_9c23208f14_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.8.0.MALMIFD",
+      "android": "6.0"
+    },
+    "date": "2018-07-10",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/untagged-68dec2ffdb786104efc4/fw_land_miui_HM3SGlobal_V9.5.8.0.MALMIFD_957ad2b881_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.8.0.MALMIFD/land/fw_land_miui_HM3SGlobal_V9.5.8.0.MALMIFD_957ad2b881_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_V9.5.8.0.MALMIFD_957ad2b881_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.5.8.0.MALMIFD",
+      "android": "6.0"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/stable-20.07.2018/fw_land_miui_HM3SGlobal_V9.5.8.0.MALMIFD_957ad2b881_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/land/fw_land_miui_HM3SGlobal_V9.5.8.0.MALMIFD_957ad2b881_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_V9.5.8.0.MALMIFD_957ad2b881_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.2.0.MALCNFD",
+      "android": "6.0"
+    },
+    "date": "2018-07-30",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/stable-30.07.2018/fw_land_miui_HM3S_V9.6.2.0.MALCNFD_f6cbef7214_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/land/fw_land_miui_HM3S_V9.6.2.0.MALCNFD_f6cbef7214_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3S_V9.6.2.0.MALCNFD_f6cbef7214_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.2",
+      "android": "6.0"
+    },
+    "date": "2018-08-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-03.08.2018/fw_land_miui_HM3SGlobal_8.8.2_38aff9ab6e_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.8.2_38aff9ab6e_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.4.28",
+      "android": "6.0"
+    },
+    "date": "2018-08-04",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-04.08.2018/fw_land_miui_HM3SGlobal_8.4.28_9c23208f14_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.4.28_9c23208f14_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.3",
+      "android": "6.0"
+    },
+    "date": "2018-08-06",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-06.08.2018/fw_land_miui_HM3S_8.8.3_1e41073588_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3S_8.8.3_1e41073588_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.9",
+      "android": "6.0"
+    },
+    "date": "2018-08-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-10.08.2018/fw_land_miui_HM3S_8.8.9_cf6f6f0f95_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3S_8.8.9_cf6f6f0f95_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "6.0"
+    },
+    "date": "2018-08-17",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-17.08.2018/fw_land_miui_HM3SGlobal_8.8.16_fa1342986d_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.8.16_fa1342986d_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.1.0.MALMIFD",
+      "android": "6.0"
+    },
+    "date": "2018-08-24",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/stable-24.08.2018/fw_land_miui_HM3SGlobal_V9.6.1.0.MALMIFD_f82364cf1c_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/land/fw_land_miui_HM3SGlobal_V9.6.1.0.MALMIFD_f82364cf1c_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_V9.6.1.0.MALMIFD_f82364cf1c_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "6.0"
+    },
+    "date": "2018-08-29",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-29.08.2018/fw_land_miui_HM3SGlobal_8.8.23_48dc9d7fe0_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.8.23_48dc9d7fe0_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "6.0"
+    },
+    "date": "2018-08-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-30.08.2018/fw_land_miui_HM3SGlobal_8.8.30_0050bb18be_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.8.30_0050bb18be_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "6.0"
+    },
+    "date": "2018-08-31",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-31.08.2018/fw_land_miui_HM3SGlobal_8.8.23_48dc9d7fe0_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.8.23_48dc9d7fe0_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.31",
+      "android": "6.0"
+    },
+    "date": "2018-09-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-03.09.2018/fw_land_miui_HM3S_8.8.31_8374daeeda_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3S_8.8.31_8374daeeda_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "6.0"
+    },
+    "date": "2018-09-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-06.09.2018/fw_land_miui_HM3SGlobal_8.9.6_e348f451e2_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.9.6_e348f451e2_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "6.0"
+    },
+    "date": "2018-09-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-07.09.2018/fw_land_miui_HM3S_8.9.6_5f346fbc9f_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3S_8.9.6_5f346fbc9f_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "6.0"
+    },
+    "date": "2018-09-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-13.09.2018/fw_land_miui_HM3SGlobal_8.9.13_5651d14981_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.9.13_5651d14981_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "6.0"
+    },
+    "date": "2018-09-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-14.09.2018/fw_land_miui_HM3S_8.9.13_5c020b3e70_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3S_8.9.13_5c020b3e70_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "6.0"
+    },
+    "date": "2018-09-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-20.09.2018/fw_land_miui_HM3SGlobal_8.9.20_b66b5e74f4_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.9.20_b66b5e74f4_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "6.0"
+    },
+    "date": "2018-09-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-21.09.2018/fw_land_miui_HM3S_8.9.20_ce63958fb4_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3S_8.9.20_ce63958fb4_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "6.0"
+    },
+    "date": "2018-09-25",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-25.09.2018/fw_land_miui_HM3S_8.9.13_5c020b3e70_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3S_8.9.13_5c020b3e70_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "6.0"
+    },
+    "date": "2018-09-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-26.09.2018/fw_land_miui_HM3S_8.9.20_ce63958fb4_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3S_8.9.20_ce63958fb4_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "6.0"
+    },
+    "date": "2018-10-12",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-12.10.2018/fw_land_miui_HM3SGlobal_8.10.11_5485ca01e9_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.10.11_5485ca01e9_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.18",
+      "android": "6.0"
+    },
+    "date": "2018-10-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-19.10.2018/fw_land_miui_HM3SGlobal_8.10.18_4815f2940c_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.10.18_4815f2940c_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "6.0"
+    },
+    "date": "2018-10-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-26.10.2018/fw_land_miui_HM3S_8.10.25_13799d606c_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3S_8.10.25_13799d606c_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "6.0"
+    },
+    "date": "2018-10-29",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-29.10.2018/fw_land_miui_HM3SGlobal_8.10.25_e16ff6a909_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.10.25_e16ff6a909_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.1",
+      "android": "6.0"
+    },
+    "date": "2018-11-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-02.11.2018/fw_land_miui_HM3SGlobal_8.11.1_7b33bba442_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.11.1_7b33bba442_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.8",
+      "android": "6.0"
+    },
+    "date": "2018-11-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-09.11.2018/fw_land_miui_HM3SGlobal_8.11.8_98402cea56_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.11.8_98402cea56_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.MALCNFI",
+      "android": "6.0"
+    },
+    "date": "2018-11-12",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/stable-12.11.2018/fw_land_miui_HM3S_V10.1.1.0.MALCNFI_5ca0d270e7_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/land/fw_land_miui_HM3S_V10.1.1.0.MALCNFI_5ca0d270e7_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3S_V10.1.1.0.MALCNFI_5ca0d270e7_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "6.0"
+    },
+    "date": "2018-11-16",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-16.11.2018/fw_land_miui_HM3SGlobal_8.11.15_36ce31556a_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.11.15_36ce31556a_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.22",
+      "android": "6.0"
+    },
+    "date": "2018-11-23",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-23.11.2018/fw_land_miui_HM3S_8.11.22_4d3cc9bef0_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3S_8.11.22_4d3cc9bef0_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.2.0.MALMIFD",
+      "android": "6.0"
+    },
+    "date": "2018-11-23",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/stable-23.11.2018/fw_land_miui_HM3SGlobal_V9.6.2.0.MALMIFD_747d60582f_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/land/fw_land_miui_HM3SGlobal_V9.6.2.0.MALMIFD_747d60582f_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_V9.6.2.0.MALMIFD_747d60582f_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.22",
+      "android": "6.0"
+    },
+    "date": "2018-11-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-26.11.2018/fw_land_miui_HM3SGlobal_8.11.22_62362a45b0_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.11.22_62362a45b0_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "6.0"
+    },
+    "date": "2018-11-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-30.11.2018/fw_land_miui_HM3SGlobal_8.11.29_12dce2a7a8_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.11.29_12dce2a7a8_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "6.0"
+    },
+    "date": "2018-12-07",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-07.12.2018/fw_land_miui_HM3SGlobal_8.12.6_773190756a_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.12.6_773190756a_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.MALMIFI",
+      "android": "6.0"
+    },
+    "date": "2018-12-11",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/stable-11.12.2018/fw_land_miui_HM3SGlobal_V10.1.1.0.MALMIFI_8c9c91a10c_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/land/fw_land_miui_HM3SGlobal_V10.1.1.0.MALMIFI_8c9c91a10c_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_V10.1.1.0.MALMIFI_8c9c91a10c_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "6.0"
+    },
+    "date": "2018-12-14",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-14.12.2018/fw_land_miui_HM3SGlobal_8.12.13_ae9244aaeb_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.12.13_ae9244aaeb_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "6.0"
+    },
+    "date": "2018-12-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-21.12.2018/fw_land_miui_HM3SGlobal_8.12.20_b7f9830b15_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_8.12.20_b7f9830b15_6.0.zip"
+  }
+]

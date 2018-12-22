@@ -1,0 +1,19 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": ""
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "8.1",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_wayne_miui_MI6X_8.12.20_2e0cc55431_8.1.zip"
+  }
+]

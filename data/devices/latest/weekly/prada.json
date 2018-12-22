@@ -1,0 +1,19 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": ""
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "6.0",
+      "miui": "8.12.20"
+    },
+    "date": "2018-12-21",
+    "file": "fw_prada_miui_HM4_8.12.20_44d22858f1_6.0.zip"
+  }
+]

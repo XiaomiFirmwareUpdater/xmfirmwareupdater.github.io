@@ -1,0 +1,590 @@
+[
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.12",
+      "android": "7.1"
+    },
+    "date": "2018-04-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-5146b5e3960882829077/fw_rolex_miui_HM4AGlobal_8.4.12_28fadc8944_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/rolex/fw_rolex_miui_HM4AGlobal_8.4.12_28fadc8944_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.4.12_28fadc8944_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.19",
+      "android": "7.1"
+    },
+    "date": "2018-04-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-ee0f0d53a9009012bb25/fw_rolex_miui_HM4AGlobal_8.4.19_e0e4df37af_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/rolex/fw_rolex_miui_HM4AGlobal_8.4.19_e0e4df37af_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.4.19_e0e4df37af_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.26",
+      "android": "6.0"
+    },
+    "date": "2018-04-27",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-36b7c5f0bfb8c53a1609/fw_rolex_miui_HM4A_8.4.26_90c8cb3250_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/rolex/fw_rolex_miui_HM4A_8.4.26_90c8cb3250_6.0.zip"
+    },
+    "filename": "fw_rolex_miui_HM4A_8.4.26_90c8cb3250_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.5.0.NCCMIFA",
+      "android": "7.1"
+    },
+    "date": "2018-05-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-d5dd34d4844319a149c6/fw_rolex_miui_HM4AGlobal_V9.5.5.0.NCCMIFA_a2e32f7025_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NCCMIFA/rolex/fw_rolex_miui_HM4AGlobal_V9.5.5.0.NCCMIFA_a2e32f7025_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V9.5.5.0.NCCMIFA_a2e32f7025_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.5.0.NCCMIFA",
+      "android": "7.1"
+    },
+    "date": "2018-05-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-1322743848592865704e/fw_rolex_miui_HM4AGlobal_V9.5.5.0.NCCMIFA_a2e32f7025_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NCCMIFA/rolex/fw_rolex_miui_HM4AGlobal_V9.5.5.0.NCCMIFA_a2e32f7025_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V9.5.5.0.NCCMIFA_a2e32f7025_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.5.19",
+      "android": "7.1"
+    },
+    "date": "2018-06-22",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-0862a0c3759c52d73aaa/fw_rolex_miui_HM4AGlobal_8.5.19_4e450ec76c_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.19/rolex/fw_rolex_miui_HM4AGlobal_8.5.19_4e450ec76c_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.5.19_4e450ec76c_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.6.0.NCCMIFA",
+      "android": "7.1"
+    },
+    "date": "2018-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-b495e1916978ece87fab/fw_rolex_miui_HM4AGlobal_V9.5.6.0.NCCMIFA_27d061370f_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.6.0.NCCMIFA/rolex/fw_rolex_miui_HM4AGlobal_V9.5.6.0.NCCMIFA_27d061370f_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V9.5.6.0.NCCMIFA_27d061370f_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.5.19",
+      "android": "7.1"
+    },
+    "date": "2018-07-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-01a8327deaa697e8ef36/fw_rolex_miui_HM4AGlobal_8.5.19_4e450ec76c_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.19/rolex/fw_rolex_miui_HM4AGlobal_8.5.19_4e450ec76c_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.5.19_4e450ec76c_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.6.0.NCCMIFA",
+      "android": "7.1"
+    },
+    "date": "2018-07-10",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-40470393bedb78dfa000/fw_rolex_miui_HM4AGlobal_V9.5.6.0.NCCMIFA_27d061370f_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.6.0.NCCMIFA/rolex/fw_rolex_miui_HM4AGlobal_V9.5.6.0.NCCMIFA_27d061370f_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V9.5.6.0.NCCMIFA_27d061370f_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "7.1"
+    },
+    "date": "2018-07-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-5d22adfda2db130a39e4/fw_rolex_miui_HM4AGlobal_8.7.12_c00b630dbd_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/rolex/fw_rolex_miui_HM4AGlobal_8.7.12_c00b630dbd_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.7.12_c00b630dbd_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.3.0.NCCMIFD",
+      "android": "7.1"
+    },
+    "date": "2018-07-18",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/untagged-b1ffba81e62f1e6d8202/fw_rolex_miui_HM4AGlobal_V9.6.3.0.NCCMIFD_9b0d880b39_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.3.0.NCCMIFD/rolex/fw_rolex_miui_HM4AGlobal_V9.6.3.0.NCCMIFD_9b0d880b39_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V9.6.3.0.NCCMIFD_9b0d880b39_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "7.1"
+    },
+    "date": "2018-07-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-19.07.2018/fw_rolex_miui_HM4AGlobal_8.7.19_b56c91dd6a_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/rolex/fw_rolex_miui_HM4AGlobal_8.7.19_b56c91dd6a_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.7.19_b56c91dd6a_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.3.0.NCCMIFD",
+      "android": "7.1"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/stable-20.07.2018/fw_rolex_miui_HM4AGlobal_V9.6.3.0.NCCMIFD_9b0d880b39_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/rolex/fw_rolex_miui_HM4AGlobal_V9.6.3.0.NCCMIFD_9b0d880b39_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V9.6.3.0.NCCMIFD_9b0d880b39_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.1"
+    },
+    "date": "2018-07-27",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-27.07.2018/fw_rolex_miui_HM4AGlobal_8.7.26_0d92e3dff3_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.7.26_0d92e3dff3_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.2",
+      "android": "7.1"
+    },
+    "date": "2018-08-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-03.08.2018/fw_rolex_miui_HM4AGlobal_8.8.2_b6221eaa83_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.8.2_b6221eaa83_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "7.1"
+    },
+    "date": "2018-08-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-06.08.2018/fw_rolex_miui_HM4AGlobal_8.7.26_0d92e3dff3_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.7.26_0d92e3dff3_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "7.1"
+    },
+    "date": "2018-08-17",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-17.08.2018/fw_rolex_miui_HM4AGlobal_8.8.16_a80c13fd79_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.8.16_a80c13fd79_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.4.0.NCCMIFD",
+      "android": "7.1"
+    },
+    "date": "2018-08-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/stable-21.08.2018/fw_rolex_miui_HM4AGlobal_V9.6.4.0.NCCMIFD_36a32f5780_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/rolex/fw_rolex_miui_HM4AGlobal_V9.6.4.0.NCCMIFD_36a32f5780_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V9.6.4.0.NCCMIFD_36a32f5780_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "7.1"
+    },
+    "date": "2018-08-24",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-24.08.2018/fw_rolex_miui_HM4AGlobal_8.8.23_f358c14da7_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.8.23_f358c14da7_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "7.1"
+    },
+    "date": "2018-08-29",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-29.08.2018/fw_rolex_miui_HM4AGlobal_8.8.23_f358c14da7_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.8.23_f358c14da7_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "7.1"
+    },
+    "date": "2018-08-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-30.08.2018/fw_rolex_miui_HM4AGlobal_8.8.30_e6e3522f8f_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.8.30_e6e3522f8f_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.3.0.NCCMIFD",
+      "android": "7.1"
+    },
+    "date": "2018-09-04",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/stable-04.09.2018/fw_rolex_miui_HM4AGlobal_V9.6.3.0.NCCMIFD_9b0d880b39_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/rolex/fw_rolex_miui_HM4AGlobal_V9.6.3.0.NCCMIFD_9b0d880b39_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V9.6.3.0.NCCMIFD_9b0d880b39_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.4.0.NCCMIFD",
+      "android": "7.1"
+    },
+    "date": "2018-09-05",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/stable-05.09.2018/fw_rolex_miui_HM4AGlobal_V9.6.4.0.NCCMIFD_36a32f5780_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/rolex/fw_rolex_miui_HM4AGlobal_V9.6.4.0.NCCMIFD_36a32f5780_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V9.6.4.0.NCCMIFD_36a32f5780_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "7.1"
+    },
+    "date": "2018-09-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-06.09.2018/fw_rolex_miui_HM4AGlobal_8.9.6_aed6366023_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.9.6_aed6366023_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.5.0.NCCMIFD",
+      "android": "7.1"
+    },
+    "date": "2018-09-07",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/stable-07.09.2018/fw_rolex_miui_HM4AGlobal_V9.6.5.0.NCCMIFD_743c002e7c_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/rolex/fw_rolex_miui_HM4AGlobal_V9.6.5.0.NCCMIFD_743c002e7c_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V9.6.5.0.NCCMIFD_743c002e7c_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.1.0.MCCCNFD",
+      "android": "6.0"
+    },
+    "date": "2018-09-08",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/stable-08.09.2018/fw_rolex_miui_HM4A_V9.6.1.0.MCCCNFD_4933a6fd69_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/rolex/fw_rolex_miui_HM4A_V9.6.1.0.MCCCNFD_4933a6fd69_6.0.zip"
+    },
+    "filename": "fw_rolex_miui_HM4A_V9.6.1.0.MCCCNFD_4933a6fd69_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "7.1"
+    },
+    "date": "2018-09-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-13.09.2018/fw_rolex_miui_HM4AGlobal_8.9.13_ca02d2f3a6_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.9.13_ca02d2f3a6_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "7.1"
+    },
+    "date": "2018-09-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-20.09.2018/fw_rolex_miui_HM4AGlobal_8.9.20_b521573e72_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.9.20_b521573e72_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "7.1"
+    },
+    "date": "2018-10-12",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-12.10.2018/fw_rolex_miui_HM4AGlobal_8.10.11_d0ec558d86_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.10.11_d0ec558d86_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.19",
+      "android": "7.1"
+    },
+    "date": "2018-10-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-19.10.2018/fw_rolex_miui_HM4AGlobal_8.10.19_0e98908358_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.10.19_0e98908358_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "7.1"
+    },
+    "date": "2018-10-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-26.10.2018/fw_rolex_miui_HM4AGlobal_8.10.25_d36c3e7df5_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.10.25_d36c3e7df5_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.1",
+      "android": "7.1"
+    },
+    "date": "2018-11-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-02.11.2018/fw_rolex_miui_HM4AGlobal_8.11.1_35bee6afae_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.11.1_35bee6afae_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.MCCCNFI",
+      "android": "6.0"
+    },
+    "date": "2018-11-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/stable-07.11.2018/fw_rolex_miui_HM4A_V10.1.1.0.MCCCNFI_1126084827_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/rolex/fw_rolex_miui_HM4A_V10.1.1.0.MCCCNFI_1126084827_6.0.zip"
+    },
+    "filename": "fw_rolex_miui_HM4A_V10.1.1.0.MCCCNFI_1126084827_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.8",
+      "android": "7.1"
+    },
+    "date": "2018-11-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-09.11.2018/fw_rolex_miui_HM4AGlobal_8.11.8_9815d6a5b5_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.11.8_9815d6a5b5_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "7.1"
+    },
+    "date": "2018-11-16",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-16.11.2018/fw_rolex_miui_HM4AGlobal_8.11.15_2417b40184_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.11.15_2417b40184_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.23",
+      "android": "7.1"
+    },
+    "date": "2018-11-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-26.11.2018/fw_rolex_miui_HM4AGlobal_8.11.23_c268703942_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.11.23_c268703942_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.1.0.NCCMIFI",
+      "android": "7.1"
+    },
+    "date": "2018-11-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/stable-28.11.2018/fw_rolex_miui_HM4AGlobal_V10.1.1.0.NCCMIFI_bf43214d8e_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/rolex/fw_rolex_miui_HM4AGlobal_V10.1.1.0.NCCMIFI_bf43214d8e_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_V10.1.1.0.NCCMIFI_bf43214d8e_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "7.1"
+    },
+    "date": "2018-12-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-03.12.2018/fw_rolex_miui_HM4AGlobal_8.11.29_c670260185_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.11.29_c670260185_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "7.1"
+    },
+    "date": "2018-12-07",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-07.12.2018/fw_rolex_miui_HM4AGlobal_8.12.6_e0730ba640_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.12.6_e0730ba640_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "6.0"
+    },
+    "date": "2018-12-12",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-12.12.2018/fw_rolex_miui_HM4A_8.12.6_5a236af7b5_6.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4A_8.12.6_5a236af7b5_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "7.1"
+    },
+    "date": "2018-12-14",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-14.12.2018/fw_rolex_miui_HM4AGlobal_8.12.13_52ab8b637e_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.12.13_52ab8b637e_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "7.1"
+    },
+    "date": "2018-12-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-21.12.2018/fw_rolex_miui_HM4AGlobal_8.12.20_9ce2aa7b3a_7.1.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_8.12.20_9ce2aa7b3a_7.1.zip"
+  }
+]

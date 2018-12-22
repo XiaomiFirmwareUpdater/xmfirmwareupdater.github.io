@@ -1,0 +1,660 @@
+[
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.12",
+      "android": "8.0"
+    },
+    "date": "2018-04-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-60df433cb7c6d40e3ed0/fw_chiron_miui_MIMIX2Global_8.4.12_69777449d9_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/chiron/fw_chiron_miui_MIMIX2Global_8.4.12_69777449d9_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.4.12_69777449d9_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.19",
+      "android": "8.0"
+    },
+    "date": "2018-04-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-fe581ba9d7149f2612f9/fw_chiron_miui_MIMIX2Global_8.4.19_fa49b22402_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/chiron/fw_chiron_miui_MIMIX2Global_8.4.19_fa49b22402_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.4.19_fa49b22402_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.26",
+      "android": "8.0"
+    },
+    "date": "2018-04-27",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-9adf906a4db3002d27c8/fw_chiron_miui_MIMIX2_8.4.26_a1ca195e4a_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/chiron/fw_chiron_miui_MIMIX2_8.4.26_a1ca195e4a_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.4.26_a1ca195e4a_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.6.0.ODEMIFA",
+      "android": "8.0"
+    },
+    "date": "2018-05-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-13bb316dd74b38caa955/fw_chiron_miui_MIMIX2Global_V9.5.6.0.ODEMIFA_7cd16f2cdd_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.6.0.ODEMIFA/chiron/fw_chiron_miui_MIMIX2Global_V9.5.6.0.ODEMIFA_7cd16f2cdd_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_V9.5.6.0.ODEMIFA_7cd16f2cdd_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.5.8.0.ODEMIFA",
+      "android": "8.0"
+    },
+    "date": "2018-05-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-fbf8b3030d0ecc960a25/fw_chiron_miui_MIMIX2Global_V9.5.8.0.ODEMIFA_697749dace_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.8.0.ODEMIFA/chiron/fw_chiron_miui_MIMIX2Global_V9.5.8.0.ODEMIFA_697749dace_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_V9.5.8.0.ODEMIFA_697749dace_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.19",
+      "android": "8.0"
+    },
+    "date": "2018-06-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-a9398c4a85ab3ab30985/fw_chiron_miui_MIMIX2Global_8.4.19_fa49b22402_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/chiron/fw_chiron_miui_MIMIX2Global_8.4.19_fa49b22402_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.4.19_fa49b22402_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.4.19",
+      "android": "8.0"
+    },
+    "date": "2018-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-c6070a7ccdb9b806e3c0/fw_chiron_miui_MIMIX2Global_8.4.19_fa49b22402_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/chiron/fw_chiron_miui_MIMIX2Global_8.4.19_fa49b22402_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.4.19_fa49b22402_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.1.0.ODEMIFD",
+      "android": "8.0"
+    },
+    "date": "2018-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-e27888fd046422725524/fw_chiron_miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.ODEMIFD/chiron/fw_chiron_miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.5",
+      "android": "8.0"
+    },
+    "date": "2018-07-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-a748caeeb2eb0e69d7ad/fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/chiron/fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.5",
+      "android": "8.0"
+    },
+    "date": "2018-07-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-bb9cc2be00d78a78034e/fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/chiron/fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "V9.6.1.0.ODEMIFD",
+      "android": "8.0"
+    },
+    "date": "2018-07-10",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-e4fafb784591dd511ffe/fw_chiron_miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.ODEMIFD/chiron/fw_chiron_miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.12",
+      "android": "8.0"
+    },
+    "date": "2018-07-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-2e2033079d4e458cc856/fw_chiron_miui_MIMIX2Global_8.7.12_d0dd2f45e6_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/chiron/fw_chiron_miui_MIMIX2Global_8.7.12_d0dd2f45e6_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.7.12_d0dd2f45e6_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "8.0"
+    },
+    "date": "2018-07-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-19.07.2018/fw_chiron_miui_MIMIX2Global_8.7.19_01fa0992fd_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/chiron/fw_chiron_miui_MIMIX2Global_8.7.19_01fa0992fd_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.7.19_01fa0992fd_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.7.19",
+      "android": "8.0"
+    },
+    "date": "2018-07-20",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-20.07.2018/fw_chiron_miui_MIMIX2_8.7.19_adbd124841_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/chiron/fw_chiron_miui_MIMIX2_8.7.19_adbd124841_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.7.19_adbd124841_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.1.0.ODEMIFD",
+      "android": "8.0"
+    },
+    "date": "2018-07-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/stable-20.07.2018/fw_chiron_miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/chiron/fw_chiron_miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "8.0"
+    },
+    "date": "2018-07-27",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-27.07.2018/fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.2",
+      "android": "8.0"
+    },
+    "date": "2018-08-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-03.08.2018/fw_chiron_miui_MIMIX2Global_8.8.2_3ef0d570ea_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.8.2_3ef0d570ea_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "8.0"
+    },
+    "date": "2018-08-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-06.08.2018/fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.7.26",
+      "android": "8.0"
+    },
+    "date": "2018-08-10",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-9d1899f3cc97c24debb3/fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.3.0.ODECNFD",
+      "android": "8.0"
+    },
+    "date": "2018-08-16",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/stable-16.08.2018/fw_chiron_miui_MIMIX2_V9.6.3.0.ODECNFD_39cd5a0eff_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/chiron/fw_chiron_miui_MIMIX2_V9.6.3.0.ODECNFD_39cd5a0eff_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_V9.6.3.0.ODECNFD_39cd5a0eff_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.16",
+      "android": "8.0"
+    },
+    "date": "2018-08-17",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-17.08.2018/fw_chiron_miui_MIMIX2Global_8.8.16_4d494aea8b_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.8.16_4d494aea8b_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.23",
+      "android": "8.0"
+    },
+    "date": "2018-08-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-28.08.2018/fw_chiron_miui_MIMIX2Global_8.8.23_002053e442_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.8.23_002053e442_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "8.0"
+    },
+    "date": "2018-08-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-30.08.2018/fw_chiron_miui_MIMIX2Global_8.8.30_efadaa2311_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.8.30_efadaa2311_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.8.30",
+      "android": "8.0"
+    },
+    "date": "2018-08-31",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-31.08.2018/fw_chiron_miui_MIMIX2_8.8.30_c2f55135da_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.8.30_c2f55135da_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "8.0"
+    },
+    "date": "2018-09-06",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-06.09.2018/fw_chiron_miui_MIMIX2Global_8.9.6_5ee84dc2bf_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.9.6_5ee84dc2bf_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.6",
+      "android": "8.0"
+    },
+    "date": "2018-09-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-07.09.2018/fw_chiron_miui_MIMIX2_8.9.6_ef0b9fb294_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.9.6_ef0b9fb294_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.0.1.0.ODECNFH",
+      "android": "8.0"
+    },
+    "date": "2018-09-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/stable-10.09.2018/fw_chiron_miui_MIMIX2_V10.0.1.0.ODECNFH_af4208759e_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/chiron/fw_chiron_miui_MIMIX2_V10.0.1.0.ODECNFH_af4208759e_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_V10.0.1.0.ODECNFH_af4208759e_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "8.0"
+    },
+    "date": "2018-09-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-13.09.2018/fw_chiron_miui_MIMIX2Global_8.9.13_0838a57532_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.9.13_0838a57532_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "8.0"
+    },
+    "date": "2018-09-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-14.09.2018/fw_chiron_miui_MIMIX2_8.9.13_bf1b547670_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.9.13_bf1b547670_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.0.2.0.ODEMIFH",
+      "android": "8.0"
+    },
+    "date": "2018-09-19",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/stable-19.09.2018/fw_chiron_miui_MIMIX2Global_V10.0.2.0.ODEMIFH_4766e733e7_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/chiron/fw_chiron_miui_MIMIX2Global_V10.0.2.0.ODEMIFH_4766e733e7_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_V10.0.2.0.ODEMIFH_4766e733e7_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "8.0"
+    },
+    "date": "2018-09-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-20.09.2018/fw_chiron_miui_MIMIX2Global_8.9.20_33fea793c0_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.9.20_33fea793c0_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "8.0"
+    },
+    "date": "2018-09-21",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-21.09.2018/fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.13",
+      "android": "8.0"
+    },
+    "date": "2018-09-25",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-25.09.2018/fw_chiron_miui_MIMIX2_8.9.13_bf1b547670_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.9.13_bf1b547670_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "8.0"
+    },
+    "date": "2018-09-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-26.09.2018/fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "8.0"
+    },
+    "date": "2018-10-11",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-11.10.2018/fw_chiron_miui_MIMIX2Global_8.10.11_edb9db17ad_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.10.11_edb9db17ad_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.11",
+      "android": "8.0"
+    },
+    "date": "2018-10-12",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-12.10.2018/fw_chiron_miui_MIMIX2_8.10.11_b5374cedb2_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.10.11_b5374cedb2_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.9.20",
+      "android": "8.0"
+    },
+    "date": "2018-10-13",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-13.10.2018/fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.10.25",
+      "android": "8.0"
+    },
+    "date": "2018-10-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-26.10.2018/fw_chiron_miui_MIMIX2Global_8.10.25_eef8554db5_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.10.25_eef8554db5_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.1",
+      "android": "8.0"
+    },
+    "date": "2018-11-02",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-02.11.2018/fw_chiron_miui_MIMIX2Global_8.11.1_1ca497fe70_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.11.1_1ca497fe70_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.8",
+      "android": "8.0"
+    },
+    "date": "2018-11-09",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-09.11.2018/fw_chiron_miui_MIMIX2Global_8.11.8_8cb13c45c0_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.11.8_8cb13c45c0_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.15",
+      "android": "8.0"
+    },
+    "date": "2018-11-16",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-16.11.2018/fw_chiron_miui_MIMIX2Global_8.11.15_2d2c91d281_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.11.15_2d2c91d281_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.22",
+      "android": "8.0"
+    },
+    "date": "2018-11-23",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-23.11.2018/fw_chiron_miui_MIMIX2_8.11.22_b4210b9316_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_8.11.22_b4210b9316_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.22",
+      "android": "8.0"
+    },
+    "date": "2018-11-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-26.11.2018/fw_chiron_miui_MIMIX2Global_8.11.22_8529902e92_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.11.22_8529902e92_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.11.29",
+      "android": "8.0"
+    },
+    "date": "2018-11-30",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-30.11.2018/fw_chiron_miui_MIMIX2Global_8.11.29_920b7795b5_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.11.29_920b7795b5_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.6",
+      "android": "8.0"
+    },
+    "date": "2018-12-07",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-07.12.2018/fw_chiron_miui_MIMIX2Global_8.12.6_a182ae4785_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.12.6_a182ae4785_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.13",
+      "android": "8.0"
+    },
+    "date": "2018-12-14",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-14.12.2018/fw_chiron_miui_MIMIX2Global_8.12.13_8f6a59c89b_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.12.13_8f6a59c89b_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "8.12.20",
+      "android": "8.0"
+    },
+    "date": "2018-12-21",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-21.12.2018/fw_chiron_miui_MIMIX2Global_8.12.20_50eb462431_8.0.zip",
+      "osdn": "N/A"
+    },
+    "filename": "fw_chiron_miui_MIMIX2Global_8.12.20_50eb462431_8.0.zip"
+  }
+]

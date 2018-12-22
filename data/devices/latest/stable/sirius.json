@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": "",
+    "file": ""
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "8.1",
+      "miui": "V10.0.1.0.OEBCNFH"
+    },
+    "date": "2018-10-06",
+    "file": "fw_sirius_miui_MI8SE_V10.0.1.0.OEBCNFH_2834ba9952_8.1.zip"
+  }
+]

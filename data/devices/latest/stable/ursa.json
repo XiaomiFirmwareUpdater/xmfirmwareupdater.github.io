@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": "",
+    "file": ""
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "8.1",
+      "miui": "V10.0.12.0.OEHCNFH"
+    },
+    "date": "2018-11-30",
+    "file": "fw_ursa_miui_MI8Explorer_V10.0.12.0.OEHCNFH_e5e9071825_8.1.zip"
+  }
+]

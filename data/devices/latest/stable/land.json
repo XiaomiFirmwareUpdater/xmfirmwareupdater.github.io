@@ -1,0 +1,20 @@
+[
+  {
+    "type": "global",
+    "versions": {
+      "android": "6.0",
+      "miui": "V10.1.1.0.MALMIFI"
+    },
+    "date": "2018-12-11",
+    "file": "fw_land_miui_HM3SGlobal_V10.1.1.0.MALMIFI_8c9c91a10c_6.0.zip"
+  },
+  {
+    "type": "china",
+    "versions": {
+      "android": "6.0",
+      "miui": "V10.1.1.0.MALCNFI"
+    },
+    "date": "2018-11-12",
+    "file": "fw_land_miui_HM3S_V10.1.1.0.MALCNFI_5ca0d270e7_6.0.zip"
+  }
+]
