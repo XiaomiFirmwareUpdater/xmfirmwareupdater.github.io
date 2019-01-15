@@ -1,5 +1,6 @@
 [
   {
+    "codename": "sirius",
     "type": "global",
     "versions": {
       "android": "",
@@ -9,12 +10,13 @@
     "file": ""
   },
   {
+    "codename": "sirius",
     "type": "china",
     "versions": {
       "android": "8.1",
-      "miui": "V10.0.1.0.OEBCNFH"
+      "miui": "V10.2.1.0.OEBCNFK"
     },
-    "date": "2018-10-06",
-    "file": "fw_sirius_miui_MI8SE_V10.0.1.0.OEBCNFH_2834ba9952_8.1.zip"
+    "date": "2018-12-24",
+    "file": "fw_sirius_miui_MI8SE_V10.2.1.0.OEBCNFK_3f8bb46915_8.1.zip"
   }
 ]

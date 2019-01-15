@@ -1,5 +1,6 @@
 [
   {
+    "codename": "scorpio",
     "type": "global",
     "versions": {
       "android": "8.0",
@@ -9,12 +10,13 @@
     "file": "fw_scorpio_miui_MINote2Global_V10.0.1.0.OADMIFH_436a66f6b3_8.0.zip"
   },
   {
+    "codename": "scorpio",
     "type": "china",
     "versions": {
       "android": "8.0",
-      "miui": "V10.0.1.0.OADCNFH"
+      "miui": "V10.2.1.0.OADCNFK"
     },
-    "date": "2018-09-10",
-    "file": "fw_scorpio_miui_MINote2_V10.0.1.0.OADCNFH_098ba4b1c7_8.0.zip"
+    "date": "2019-01-07",
+    "file": "fw_scorpio_miui_MINote2_V10.2.1.0.OADCNFK_cebfab5bf7_8.0.zip"
   }
 ]

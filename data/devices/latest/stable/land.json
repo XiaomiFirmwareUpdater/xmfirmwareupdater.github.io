@@ -1,5 +1,6 @@
 [
   {
+    "codename": "land",
     "type": "global",
     "versions": {
       "android": "6.0",
@@ -9,6 +10,7 @@
     "file": "fw_land_miui_HM3SGlobal_V10.1.1.0.MALMIFI_8c9c91a10c_6.0.zip"
   },
   {
+    "codename": "land",
     "type": "china",
     "versions": {
       "android": "6.0",

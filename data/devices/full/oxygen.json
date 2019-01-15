@@ -2,286 +2,6 @@
   {
     "branch": "weekly",
     "versions": {
-      "miui": "8.4.12",
-      "android": "7.1"
-    },
-    "date": "2018-04-19",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-f12f5fdaa1e39896c68f/fw_oxygen_miui_MIMAX2Global_8.4.12_06a39be3c8_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/oxygen/fw_oxygen_miui_MIMAX2Global_8.4.12_06a39be3c8_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2Global_8.4.12_06a39be3c8_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.12",
-      "android": "7.1"
-    },
-    "date": "2018-04-19",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-f12f5fdaa1e39896c68f/fw_oxygen_miui_MIMAX2_8.4.12_c3a3805186_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/oxygen/fw_oxygen_miui_MIMAX2_8.4.12_c3a3805186_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_8.4.12_c3a3805186_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.19",
-      "android": "7.1"
-    },
-    "date": "2018-04-20",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-f990640936feef9a41aa/fw_oxygen_miui_MIMAX2Global_8.4.19_90753089d3_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/oxygen/fw_oxygen_miui_MIMAX2Global_8.4.19_90753089d3_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2Global_8.4.19_90753089d3_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.19",
-      "android": "7.1"
-    },
-    "date": "2018-04-20",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-f990640936feef9a41aa/fw_oxygen_miui_MIMAX2_8.4.19_7271c19445_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/oxygen/fw_oxygen_miui_MIMAX2_8.4.19_7271c19445_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_8.4.19_7271c19445_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.26",
-      "android": "7.1"
-    },
-    "date": "2018-04-27",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-94f4986971af83f426d3/fw_oxygen_miui_MIMAX2_8.4.26_9b623f7ed0_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/oxygen/fw_oxygen_miui_MIMAX2_8.4.26_9b623f7ed0_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_8.4.26_9b623f7ed0_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.4.0.NDDMIFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-02",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-872f767f486e2331a756/fw_oxygen_miui_MIMAX2Global_V9.5.4.0.NDDMIFA_fecf400643_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.NDDMIFA/oxygen/fw_oxygen_miui_MIMAX2Global_V9.5.4.0.NDDMIFA_fecf400643_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2Global_V9.5.4.0.NDDMIFA_fecf400643_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.5.0.NDDCNFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-02",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-872f767f486e2331a756/fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NDDCNFA/oxygen/fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.4.0.NDDMIFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-02",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-0bd420e05e13ad3ab3cf/fw_oxygen_miui_MIMAX2Global_V9.5.4.0.NDDMIFA_fecf400643_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.NDDMIFA/oxygen/fw_oxygen_miui_MIMAX2Global_V9.5.4.0.NDDMIFA_fecf400643_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2Global_V9.5.4.0.NDDMIFA_fecf400643_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.5.0.NDDCNFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-02",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-0bd420e05e13ad3ab3cf/fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NDDCNFA/oxygen/fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.4.0.NDDMIFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-30",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-32a38ecc7c8b4eb4fdac/fw_oxygen_miui_MIMAX2Global_V9.5.4.0.NDDMIFA_fecf400643_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.NDDMIFA/oxygen/fw_oxygen_miui_MIMAX2Global_V9.5.4.0.NDDMIFA_fecf400643_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2Global_V9.5.4.0.NDDMIFA_fecf400643_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.5.0.NDDCNFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-30",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-32a38ecc7c8b4eb4fdac/fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NDDCNFA/oxygen/fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.5.0.NDDMIFA",
-      "android": "7.1"
-    },
-    "date": "2018-06-26",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-03503fd633a95b8f4e70/fw_oxygen_miui_MIMAX2Global_V9.5.5.0.NDDMIFA_6b83a511e4_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NDDMIFA/oxygen/fw_oxygen_miui_MIMAX2Global_V9.5.5.0.NDDMIFA_6b83a511e4_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2Global_V9.5.5.0.NDDMIFA_6b83a511e4_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.1"
-    },
-    "date": "2018-06-29",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-03503fd633a95b8f4e70/fw_oxygen_miui_MIMAX2_8.4.28_eda18c09d2_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/oxygen/fw_oxygen_miui_MIMAX2_8.4.28_eda18c09d2_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_8.4.28_eda18c09d2_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.1"
-    },
-    "date": "2018-07-06",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-66a639ba5589d9bc9e1a/fw_oxygen_miui_MIMAX2_8.4.28_eda18c09d2_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/oxygen/fw_oxygen_miui_MIMAX2_8.4.28_eda18c09d2_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_8.4.28_eda18c09d2_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.1"
-    },
-    "date": "2018-07-09",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-33377ce62060a231bb47/fw_oxygen_miui_MIMAX2Global_8.4.28_30bf5b0fcb_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/oxygen/fw_oxygen_miui_MIMAX2Global_8.4.28_30bf5b0fcb_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2Global_8.4.28_30bf5b0fcb_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.1"
-    },
-    "date": "2018-07-09",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-33377ce62060a231bb47/fw_oxygen_miui_MIMAX2_8.4.28_eda18c09d2_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/oxygen/fw_oxygen_miui_MIMAX2_8.4.28_eda18c09d2_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_8.4.28_eda18c09d2_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.5.0.NDDMIFA",
-      "android": "7.1"
-    },
-    "date": "2018-07-10",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-8c431be6c6b0f29e38f2/fw_oxygen_miui_MIMAX2Global_V9.5.5.0.NDDMIFA_6b83a511e4_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NDDMIFA/oxygen/fw_oxygen_miui_MIMAX2Global_V9.5.5.0.NDDMIFA_6b83a511e4_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2Global_V9.5.5.0.NDDMIFA_6b83a511e4_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.5.0.NDDCNFA",
-      "android": "7.1"
-    },
-    "date": "2018-07-10",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-8c431be6c6b0f29e38f2/fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NDDCNFA/oxygen/fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_V9.5.5.0.NDDCNFA_51fbf34826_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "7.1"
-    },
-    "date": "2018-07-13",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-9d43e4e90c4cd44343c2/fw_oxygen_miui_MIMAX2Global_8.7.12_fa7946c713_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/oxygen/fw_oxygen_miui_MIMAX2Global_8.7.12_fa7946c713_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2Global_8.7.12_fa7946c713_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "7.1"
-    },
-    "date": "2018-07-13",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-9d43e4e90c4cd44343c2/fw_oxygen_miui_MIMAX2_8.7.12_919284568c_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/oxygen/fw_oxygen_miui_MIMAX2_8.7.12_919284568c_7.1.zip"
-    },
-    "filename": "fw_oxygen_miui_MIMAX2_8.7.12_919284568c_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
       "miui": "8.7.19",
       "android": "7.1"
     },
@@ -978,5 +698,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/oxygen/fw_oxygen_miui_MIMAX2_8.12.20_dbaf334560_7.1.zip"
     },
     "filename": "fw_oxygen_miui_MIMAX2_8.12.20_dbaf334560_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "7.1"
+    },
+    "date": "2018-12-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-28.12.2018/fw_oxygen_miui_MIMAX2Global_8.12.27_60b3ef7f89_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/oxygen/fw_oxygen_miui_MIMAX2Global_8.12.27_60b3ef7f89_7.1.zip"
+    },
+    "filename": "fw_oxygen_miui_MIMAX2Global_8.12.27_60b3ef7f89_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "7.1"
+    },
+    "date": "2018-12-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-28.12.2018/fw_oxygen_miui_MIMAX2_8.12.27_67c2d0774a_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/oxygen/fw_oxygen_miui_MIMAX2_8.12.27_67c2d0774a_7.1.zip"
+    },
+    "filename": "fw_oxygen_miui_MIMAX2_8.12.27_67c2d0774a_7.1.zip"
   }
 ]

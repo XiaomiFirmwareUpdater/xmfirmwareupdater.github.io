@@ -2,286 +2,6 @@
   {
     "branch": "weekly",
     "versions": {
-      "miui": "V9.5.12.0.OEICNFA",
-      "android": "8.1"
-    },
-    "date": "2018-05-02",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-99e0ab3de09d7f17dcc3/fw_whyred_miui_HMNote5_V9.5.12.0.OEICNFA_52780e6b7c_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.12.0.OEICNFA/whyred/fw_whyred_miui_HMNote5_V9.5.12.0.OEICNFA_52780e6b7c_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_V9.5.12.0.OEICNFA_52780e6b7c_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.2.7.0.NEIMIEK",
-      "android": "7.1"
-    },
-    "date": "2018-05-02",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-99e0ab3de09d7f17dcc3/fw_whyred_miui_WHYREDGlobal_V9.2.7.0.NEIMIEK_b6ab1f7b5b_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.2.7.0.NEIMIEK/whyred/fw_whyred_miui_WHYREDGlobal_V9.2.7.0.NEIMIEK_b6ab1f7b5b_7.1.zip"
-    },
-    "filename": "fw_whyred_miui_WHYREDGlobal_V9.2.7.0.NEIMIEK_b6ab1f7b5b_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.6.0.OEIMIFA",
-      "android": "8.1"
-    },
-    "date": "2018-05-30",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-d9f1d030d99c3696a534/fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.6.0.OEIMIFA_3b50aa3537_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.6.0.OEIMIFA/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.6.0.OEIMIFA_3b50aa3537_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.6.0.OEIMIFA_3b50aa3537_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.14.0.OEICNFA",
-      "android": "8.1"
-    },
-    "date": "2018-05-30",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-d9f1d030d99c3696a534/fw_whyred_miui_HMNote5_V9.5.14.0.OEICNFA_9fed96d8fa_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.14.0.OEICNFA/whyred/fw_whyred_miui_HMNote5_V9.5.14.0.OEICNFA_9fed96d8fa_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_V9.5.14.0.OEICNFA_9fed96d8fa_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.5",
-      "android": "8.1"
-    },
-    "date": "2018-07-06",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-4c1b5617510ad750921d/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.5_066aab3bca_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.5_066aab3bca_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.5_066aab3bca_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.6.16",
-      "android": "8.1"
-    },
-    "date": "2018-06-19",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-4c1b5617510ad750921d/fw_whyred_miui_HMNote5_8.6.16_299806b871_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.16/whyred/fw_whyred_miui_HMNote5_8.6.16_299806b871_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_8.6.16_299806b871_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.13.0.OEIMIFA",
-      "android": "8.1"
-    },
-    "date": "2018-06-26",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-585916e91b33b677f37c/fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.13.0.OEIMIFA_9447b2a71f_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.13.0.OEIMIFA/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.13.0.OEIMIFA_9447b2a71f_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.13.0.OEIMIFA_9447b2a71f_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.16.0.OEICNFA",
-      "android": "8.1"
-    },
-    "date": "2018-06-26",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-585916e91b33b677f37c/fw_whyred_miui_HMNote5_V9.5.16.0.OEICNFA_d74d585a49_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.16.0.OEICNFA/whyred/fw_whyred_miui_HMNote5_V9.5.16.0.OEICNFA_d74d585a49_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_V9.5.16.0.OEICNFA_d74d585a49_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.14.0.OEIMIFA",
-      "android": "8.1"
-    },
-    "date": "2018-07-04",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-eccbc55f374779358332/fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.14.0.OEIMIFA_236e5090ac_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.14.0.OEIMIFA/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.14.0.OEIMIFA_236e5090ac_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.14.0.OEIMIFA_236e5090ac_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.16.0.OEICNFA",
-      "android": "8.1"
-    },
-    "date": "2018-07-04",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-eccbc55f374779358332/fw_whyred_miui_HMNote5_V9.5.16.0.OEICNFA_d74d585a49_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.16.0.OEICNFA/whyred/fw_whyred_miui_HMNote5_V9.5.16.0.OEICNFA_d74d585a49_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_V9.5.16.0.OEICNFA_d74d585a49_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.5",
-      "android": "8.1"
-    },
-    "date": "2018-07-09",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-79338eac2b6bba70e32b/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.5_066aab3bca_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.5_066aab3bca_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.5_066aab3bca_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.5",
-      "android": "8.1"
-    },
-    "date": "2018-07-09",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-79338eac2b6bba70e32b/fw_whyred_miui_HMNote5_8.7.5_3adb935c82_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/whyred/fw_whyred_miui_HMNote5_8.7.5_3adb935c82_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_8.7.5_3adb935c82_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.17.0.OEIMIFA",
-      "android": "8.1"
-    },
-    "date": "2018-07-10",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-67e101951371b7b7ef46/fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.17.0.OEIMIFA_35b0cda8a7_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.17.0.OEIMIFA/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.17.0.OEIMIFA_35b0cda8a7_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.17.0.OEIMIFA_35b0cda8a7_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.21.0.OEICNFA",
-      "android": "8.1"
-    },
-    "date": "2018-07-10",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-67e101951371b7b7ef46/fw_whyred_miui_HMNote5_V9.5.21.0.OEICNFA_5fbec543ba_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.21.0.OEICNFA/whyred/fw_whyred_miui_HMNote5_V9.5.21.0.OEICNFA_5fbec543ba_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_V9.5.21.0.OEICNFA_5fbec543ba_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "8.1"
-    },
-    "date": "2018-07-13",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-53ce1f51cdf79a68e516/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.12_61b1bc7ff7_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.12_61b1bc7ff7_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.12_61b1bc7ff7_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "8.1"
-    },
-    "date": "2018-07-13",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-53ce1f51cdf79a68e516/fw_whyred_miui_HMNote5_8.7.12_818474d37a_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/whyred/fw_whyred_miui_HMNote5_8.7.12_818474d37a_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_8.7.12_818474d37a_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.19.0.OEIMIFA",
-      "android": "8.1"
-    },
-    "date": "2018-07-18",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-aab7f516d13762051417/fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.19.0.OEIMIFA_b370a6bc7e_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.19.0.OEIMIFA/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.19.0.OEIMIFA_b370a6bc7e_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_V9.5.19.0.OEIMIFA_b370a6bc7e_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.22.0.OEICNFA",
-      "android": "8.1"
-    },
-    "date": "2018-07-18",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-aab7f516d13762051417/fw_whyred_miui_HMNote5_V9.5.22.0.OEICNFA_9b767a4ef1_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.22.0.OEICNFA/whyred/fw_whyred_miui_HMNote5_V9.5.22.0.OEICNFA_9b767a4ef1_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_V9.5.22.0.OEICNFA_9b767a4ef1_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "8.1"
-    },
-    "date": "2018-07-20",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-f976eab5d2117d9258bf/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.12_61b1bc7ff7_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.12_61b1bc7ff7_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.12_61b1bc7ff7_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "8.1"
-    },
-    "date": "2018-07-20",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/untagged-f976eab5d2117d9258bf/fw_whyred_miui_HMNote5_8.7.12_818474d37a_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/whyred/fw_whyred_miui_HMNote5_8.7.12_818474d37a_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_8.7.12_818474d37a_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
       "miui": "8.7.26",
       "android": "8.1"
     },
@@ -1090,5 +810,75 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/whyred/fw_whyred_miui_HMNote5_8.12.20_aa5610312c_8.1.zip"
     },
     "filename": "fw_whyred_miui_HMNote5_8.12.20_aa5610312c_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "8.1"
+    },
+    "date": "2018-12-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-28.12.2018/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.12.27_9d014dfd64_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.12.27_9d014dfd64_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_8.12.27_9d014dfd64_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "8.1"
+    },
+    "date": "2018-12-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-28.12.2018/fw_whyred_miui_HMNote5_8.12.27_e9a18e0359_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/whyred/fw_whyred_miui_HMNote5_8.12.27_e9a18e0359_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5_8.12.27_e9a18e0359_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.1",
+      "android": "8.1"
+    },
+    "date": "2019-01-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-03.01.2019/fw_whyred_miui_HMNote5_9.1.1_fdca3ab4af_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.1/whyred/fw_whyred_miui_HMNote5_9.1.1_fdca3ab4af_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5_9.1.1_fdca3ab4af_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.1.0.OEICNFK",
+      "android": "8.1"
+    },
+    "date": "2019-01-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-03.01.2019/fw_whyred_miui_HMNote5_V10.2.1.0.OEICNFK_79d4ee3eef_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/whyred/fw_whyred_miui_HMNote5_V10.2.1.0.OEICNFK_79d4ee3eef_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5_V10.2.1.0.OEICNFK_79d4ee3eef_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.1.0.OEIMIXM",
+      "android": "8.1"
+    },
+    "date": "2019-01-08",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-08.01.2019/fw_whyred_miui_HMNote5HMNote5ProGlobal_V10.2.1.0.OEIMIXM_5191f339c3_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_V10.2.1.0.OEIMIXM_5191f339c3_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_V10.2.1.0.OEIMIXM_5191f339c3_8.1.zip"
   }
 ]

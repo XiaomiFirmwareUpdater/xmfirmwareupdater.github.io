@@ -1,14 +1,16 @@
 [
   {
+    "codename": "beryllium",
     "type": "global",
     "versions": {
       "android": "9.0",
       "miui": "V10.1.3.0.PEJMIFI"
     },
-    "date": "2018-12-22",
+    "date": "2019-01-03",
     "file": "fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip"
   },
   {
+    "codename": "beryllium",
     "type": "china",
     "versions": {
       "android": ""

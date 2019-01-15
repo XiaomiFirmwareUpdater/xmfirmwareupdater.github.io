@@ -1,5 +1,6 @@
 [
   {
+    "codename": "chiron",
     "type": "global",
     "versions": {
       "android": "8.0",
@@ -9,12 +10,13 @@
     "file": "fw_chiron_miui_MIMIX2Global_V10.0.2.0.ODEMIFH_4766e733e7_8.0.zip"
   },
   {
+    "codename": "chiron",
     "type": "china",
     "versions": {
       "android": "8.0",
-      "miui": "V10.0.1.0.ODECNFH"
+      "miui": "V10.2.2.0.ODECNXM"
     },
-    "date": "2018-09-10",
-    "file": "fw_chiron_miui_MIMIX2_V10.0.1.0.ODECNFH_af4208759e_8.0.zip"
+    "date": "2019-01-10",
+    "file": "fw_chiron_miui_MIMIX2_V10.2.2.0.ODECNXM_50ba9c540c_8.0.zip"
   }
 ]

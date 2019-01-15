@@ -1,14 +1,16 @@
 [
   {
+    "codename": "tulip",
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "V10.0.5.0.OEKMIFH"
+      "miui": "V10.2.1.0.OEKMIXM"
     },
-    "date": "2018-12-07",
-    "file": "fw_tulip_miui_HMNote6ProGlobal_V10.0.5.0.OEKMIFH_e35502cfc2_8.1.zip"
+    "date": "2019-01-10",
+    "file": "fw_tulip_miui_HMNote6ProGlobal_V10.2.1.0.OEKMIXM_8f244ad2cd_8.1.zip"
   },
   {
+    "codename": "tulip",
     "type": "china",
     "versions": {
       "android": ""

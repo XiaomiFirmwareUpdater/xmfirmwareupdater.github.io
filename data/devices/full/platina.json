@@ -180,5 +180,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/platina/fw_platina_miui_MI8LiteGlobal_8.12.20_9877c0d9ea_8.1.zip"
     },
     "filename": "fw_platina_miui_MI8LiteGlobal_8.12.20_9877c0d9ea_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "8.1"
+    },
+    "date": "2018-12-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-28.12.2018/fw_platina_miui_MI8LiteGlobal_8.12.27_f6045e3f61_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/platina/fw_platina_miui_MI8LiteGlobal_8.12.27_f6045e3f61_8.1.zip"
+    },
+    "filename": "fw_platina_miui_MI8LiteGlobal_8.12.27_f6045e3f61_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.2.0.ODTCNXM",
+      "android": "8.1"
+    },
+    "date": "2019-01-07",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-07.01.2019/fw_platina_miui_MI8Lite_V10.2.2.0.ODTCNXM_83921cb497_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/platina/fw_platina_miui_MI8Lite_V10.2.2.0.ODTCNXM_83921cb497_8.1.zip"
+    },
+    "filename": "fw_platina_miui_MI8Lite_V10.2.2.0.ODTCNXM_83921cb497_8.1.zip"
   }
 ]

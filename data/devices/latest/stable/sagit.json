@@ -1,5 +1,6 @@
 [
   {
+    "codename": "sagit",
     "type": "global",
     "versions": {
       "android": "8.0",
@@ -9,12 +10,13 @@
     "file": "fw_sagit_miui_MI6Global_V10.0.1.0.OCAMIFH_1f4296c44e_8.0.zip"
   },
   {
+    "codename": "sagit",
     "type": "china",
     "versions": {
       "android": "8.0",
-      "miui": "V10.0.2.0.OCACNFH"
+      "miui": "V10.2.1.0.OCACNFK"
     },
-    "date": "2018-10-16",
-    "file": "fw_sagit_miui_MI6_V10.0.2.0.OCACNFH_278bcc8c58_8.0.zip"
+    "date": "2019-01-02",
+    "file": "fw_sagit_miui_MI6_V10.2.1.0.OCACNFK_92fc570616_8.0.zip"
   }
 ]

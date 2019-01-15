@@ -1,5 +1,6 @@
 [
   {
+    "codename": "tiffany",
     "type": "global",
     "versions": {
       "android": "",
@@ -9,12 +10,13 @@
     "file": ""
   },
   {
+    "codename": "tiffany",
     "type": "china",
     "versions": {
-      "android": "7.1",
-      "miui": "V10.1.3.0.NDBCNFI"
+      "android": "8.1",
+      "miui": "V10.2.2.0.ODBCNXM"
     },
-    "date": "2018-11-19",
-    "file": "fw_tiffany_miui_MI5X_V10.1.3.0.NDBCNFI_26e7336b50_7.1.zip"
+    "date": "2019-01-07",
+    "file": "fw_tiffany_miui_MI5X_V10.2.2.0.ODBCNXM_91139196ab_8.1.zip"
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "codename": "mido",
     "type": "global",
     "versions": {
       "android": "7.0",
@@ -9,6 +10,7 @@
     "file": "fw_mido_miui_HMNote4XGlobal_V10.1.1.0.NCFMIFI_707a693088_7.0.zip"
   },
   {
+    "codename": "mido",
     "type": "china",
     "versions": {
       "android": "7.0",

@@ -1,3 +1,9 @@
+---
+title: Supported devices
+layout: single
+permalink: /supported-devices/
+---
+
 | ID | MIUI Name | Device Name | Codename | Downloads |
 | --- | --- | --- | --- | --- |
 | 293 | MI4c | Xiaomi Mi 4c | libra | [Here](https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/latest) |

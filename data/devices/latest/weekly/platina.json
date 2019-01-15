@@ -1,14 +1,16 @@
 [
   {
+    "codename": "platina",
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_platina_miui_MI8LiteGlobal_8.12.20_9877c0d9ea_8.1.zip"
+    "date": "2018-12-28",
+    "file": "fw_platina_miui_MI8LiteGlobal_8.12.27_f6045e3f61_8.1.zip"
   },
   {
+    "codename": "platina",
     "type": "china",
     "versions": {
       "android": "8.1",

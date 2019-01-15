@@ -1,5 +1,6 @@
 [
   {
+    "codename": "dipper",
     "type": "global",
     "versions": {
       "android": "9.0",
@@ -9,6 +10,7 @@
     "file": "fw_dipper_miui_MI8Global_8.12.20_c7a9af8587_9.0.zip"
   },
   {
+    "codename": "dipper",
     "type": "china",
     "versions": {
       "android": "9.0",

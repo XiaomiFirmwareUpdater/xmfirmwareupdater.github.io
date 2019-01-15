@@ -1,5 +1,6 @@
 [
   {
+    "codename": "ugg",
     "type": "global",
     "versions": {
       "android": "7.1",
@@ -9,6 +10,7 @@
     "file": "fw_ugg_miui_HMNote5AGlobal_V9.6.2.0.NDKMIFD_e88768956b_7.1.zip"
   },
   {
+    "codename": "ugg",
     "type": "china",
     "versions": {
       "android": "7.1",

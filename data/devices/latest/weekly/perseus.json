@@ -1,5 +1,6 @@
 [
   {
+    "codename": "perseus",
     "type": "global",
     "versions": {
       "android": "",
@@ -8,12 +9,13 @@
     "date": ""
   },
   {
+    "codename": "perseus",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "8.12.20"
+      "miui": "9.1.2"
     },
-    "date": "2018-12-21",
-    "file": "fw_perseus_miui_MIMIX3_8.12.20_f160ca90f6_9.0.zip"
+    "date": "2019-01-03",
+    "file": "fw_perseus_miui_MIMIX3_9.1.2_d246aba5b4_9.0.zip"
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "codename": "clover",
     "type": "global",
     "versions": {
       "android": "",
@@ -9,6 +10,7 @@
     "file": ""
   },
   {
+    "codename": "clover",
     "type": "china",
     "versions": {
       "android": "8.1",

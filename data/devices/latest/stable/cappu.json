@@ -1,5 +1,6 @@
 [
   {
+    "codename": "cappu",
     "type": "global",
     "versions": {
       "android": "",
@@ -9,6 +10,7 @@
     "file": ""
   },
   {
+    "codename": "cappu",
     "type": "china",
     "versions": {
       "android": "7.0",

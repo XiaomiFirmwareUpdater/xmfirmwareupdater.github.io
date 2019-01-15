@@ -1,20 +1,22 @@
 [
   {
+    "codename": "rolex",
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_rolex_miui_HM4AGlobal_8.12.20_9ce2aa7b3a_7.1.zip"
+    "date": "2018-12-28",
+    "file": "fw_rolex_miui_HM4AGlobal_8.12.27_a750eb3948_7.1.zip"
   },
   {
+    "codename": "rolex",
     "type": "china",
     "versions": {
       "android": "6.0",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_rolex_miui_HM4A_8.12.20_344b00da40_6.0.zip"
+    "date": "2018-12-28",
+    "file": "fw_rolex_miui_HM4A_8.12.27_acea341487_6.0.zip"
   }
 ]

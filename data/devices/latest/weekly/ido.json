@@ -1,14 +1,16 @@
 [
   {
+    "codename": "ido",
     "type": "global",
     "versions": {
       "android": "5.1",
-      "miui": "V9.5.2.0.LAIMIFA"
+      "miui": "8.4.19"
     },
-    "date": "2018-07-10",
-    "file": "fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip"
+    "date": "2018-07-06",
+    "file": "fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip"
   },
   {
+    "codename": "ido",
     "type": "china",
     "versions": {
       "android": "5.1",

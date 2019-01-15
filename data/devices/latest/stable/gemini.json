@@ -1,5 +1,6 @@
 [
   {
+    "codename": "gemini",
     "type": "global",
     "versions": {
       "android": "8.0",
@@ -9,12 +10,13 @@
     "file": "fw_gemini_miui_MI5Global_V10.0.1.0.OAAMIFH_5d78eeb0ae_8.0.zip"
   },
   {
+    "codename": "gemini",
     "type": "china",
     "versions": {
       "android": "8.0",
-      "miui": "V10.0.1.0.OAACNFH"
+      "miui": "V10.2.1.0.OAACNXM"
     },
-    "date": "2018-09-10",
-    "file": "fw_gemini_miui_MI5_V10.0.1.0.OAACNFH_255e87d96e_8.0.zip"
+    "date": "2019-01-10",
+    "file": "fw_gemini_miui_MI5_V10.2.1.0.OAACNXM_b647d74428_8.0.zip"
   }
 ]

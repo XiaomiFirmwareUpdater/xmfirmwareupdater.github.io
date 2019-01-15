@@ -1,5 +1,6 @@
 [
   {
+    "codename": "nitrogen",
     "type": "global",
     "versions": {
       "android": "8.1",
@@ -9,12 +10,13 @@
     "file": "fw_nitrogen_miui_MIMAX3Global_8.12.13_ec4e24afd9_8.1.zip"
   },
   {
+    "codename": "nitrogen",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_nitrogen_miui_MIMAX3_8.12.20_8f1887c220_9.0.zip"
+    "date": "2018-12-28",
+    "file": "fw_nitrogen_miui_MIMAX3_8.12.27_f1e1988397_9.0.zip"
   }
 ]

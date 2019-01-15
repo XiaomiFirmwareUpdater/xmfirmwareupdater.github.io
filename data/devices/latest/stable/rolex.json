@@ -1,5 +1,6 @@
 [
   {
+    "codename": "rolex",
     "type": "global",
     "versions": {
       "android": "7.1",
@@ -9,6 +10,7 @@
     "file": "fw_rolex_miui_HM4AGlobal_V10.1.1.0.NCCMIFI_bf43214d8e_7.1.zip"
   },
   {
+    "codename": "rolex",
     "type": "china",
     "versions": {
       "android": "6.0",

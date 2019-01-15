@@ -1,5 +1,6 @@
 [
   {
+    "codename": "ursa",
     "type": "global",
     "versions": {
       "android": "",
@@ -9,12 +10,13 @@
     "file": ""
   },
   {
+    "codename": "ursa",
     "type": "china",
     "versions": {
-      "android": "8.1",
-      "miui": "V10.0.12.0.OEHCNFH"
+      "android": "9.0",
+      "miui": "V10.1.2.0.PEHCNFI"
     },
-    "date": "2018-11-30",
-    "file": "fw_ursa_miui_MI8Explorer_V10.0.12.0.OEHCNFH_e5e9071825_8.1.zip"
+    "date": "2019-01-03",
+    "file": "fw_ursa_miui_MI8Explorer_V10.1.2.0.PEHCNFI_077fc553fa_9.0.zip"
   }
 ]

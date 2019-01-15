@@ -1,5 +1,6 @@
 [
   {
+    "codename": "wayne",
     "type": "global",
     "versions": {
       "android": "",
@@ -8,12 +9,13 @@
     "date": ""
   },
   {
+    "codename": "wayne",
     "type": "china",
     "versions": {
       "android": "8.1",
-      "miui": "8.12.20"
+      "miui": "9.1.1"
     },
-    "date": "2018-12-21",
-    "file": "fw_wayne_miui_MI6X_8.12.20_2e0cc55431_8.1.zip"
+    "date": "2019-01-03",
+    "file": "fw_wayne_miui_MI6X_9.1.1_10fa21bcc7_8.1.zip"
   }
 ]

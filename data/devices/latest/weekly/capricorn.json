@@ -1,20 +1,22 @@
 [
   {
+    "codename": "capricorn",
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_capricorn_miui_MI5SGlobal_8.12.20_ff1da0e010_8.0.zip"
+    "date": "2018-12-28",
+    "file": "fw_capricorn_miui_MI5SGlobal_8.12.27_dd1b17891d_8.0.zip"
   },
   {
+    "codename": "capricorn",
     "type": "china",
     "versions": {
       "android": "8.0",
-      "miui": "8.12.20"
+      "miui": "9.1.1"
     },
-    "date": "2018-12-21",
-    "file": "fw_capricorn_miui_MI5S_8.12.20_b5dd9e3a3a_8.0.zip"
+    "date": "2019-01-03",
+    "file": "fw_capricorn_miui_MI5S_9.1.1_64245407b6_8.0.zip"
   }
 ]

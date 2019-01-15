@@ -2,286 +2,6 @@
   {
     "branch": "weekly",
     "versions": {
-      "miui": "8.4.12",
-      "android": "7.0"
-    },
-    "date": "2018-04-19",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-61e16194d57b1e57362b/fw_helium_miui_MIMAX652Global_8.4.12_8fd1b35840_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/helium/fw_helium_miui_MIMAX652Global_8.4.12_8fd1b35840_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652Global_8.4.12_8fd1b35840_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.12",
-      "android": "7.0"
-    },
-    "date": "2018-04-19",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-61e16194d57b1e57362b/fw_helium_miui_MIMAX652_8.4.12_32ba8980fe_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/helium/fw_helium_miui_MIMAX652_8.4.12_32ba8980fe_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_8.4.12_32ba8980fe_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.19",
-      "android": "7.0"
-    },
-    "date": "2018-04-20",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-84e13ff117e6a6487a6a/fw_helium_miui_MIMAX652Global_8.4.19_308f4f5971_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/helium/fw_helium_miui_MIMAX652Global_8.4.19_308f4f5971_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652Global_8.4.19_308f4f5971_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.19",
-      "android": "7.0"
-    },
-    "date": "2018-04-20",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-84e13ff117e6a6487a6a/fw_helium_miui_MIMAX652_8.4.19_bb7ea1787a_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/helium/fw_helium_miui_MIMAX652_8.4.19_bb7ea1787a_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_8.4.19_bb7ea1787a_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.26",
-      "android": "7.0"
-    },
-    "date": "2018-04-27",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-cd459dd847e7550e87b1/fw_helium_miui_MIMAX652_8.4.26_5251af0dd4_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/helium/fw_helium_miui_MIMAX652_8.4.26_5251af0dd4_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_8.4.26_5251af0dd4_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBDMIFA",
-      "android": "7.0"
-    },
-    "date": "2018-05-02",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-06657f123ea3433ad492/fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBDMIFA/helium/fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBDCNFA",
-      "android": "7.0"
-    },
-    "date": "2018-05-02",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-06657f123ea3433ad492/fw_helium_miui_MIMAX652_V9.5.2.0.NBDCNFA_1b70b385d2_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBDCNFA/helium/fw_helium_miui_MIMAX652_V9.5.2.0.NBDCNFA_1b70b385d2_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_V9.5.2.0.NBDCNFA_1b70b385d2_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBDMIFA",
-      "android": "7.0"
-    },
-    "date": "2018-05-02",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-51ae999836ec0aef90a4/fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBDMIFA/helium/fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBDCNFA",
-      "android": "7.0"
-    },
-    "date": "2018-05-02",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-51ae999836ec0aef90a4/fw_helium_miui_MIMAX652_V9.5.2.0.NBDCNFA_1b70b385d2_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBDCNFA/helium/fw_helium_miui_MIMAX652_V9.5.2.0.NBDCNFA_1b70b385d2_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_V9.5.2.0.NBDCNFA_1b70b385d2_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBDMIFA",
-      "android": "7.0"
-    },
-    "date": "2018-05-30",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-b6e477bb9d3cd30aa70b/fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBDMIFA/helium/fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBDCNFA",
-      "android": "7.0"
-    },
-    "date": "2018-05-30",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-b6e477bb9d3cd30aa70b/fw_helium_miui_MIMAX652_V9.5.2.0.NBDCNFA_1b70b385d2_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBDCNFA/helium/fw_helium_miui_MIMAX652_V9.5.2.0.NBDCNFA_1b70b385d2_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_V9.5.2.0.NBDCNFA_1b70b385d2_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBDMIFA",
-      "android": "7.0"
-    },
-    "date": "2018-06-26",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-ae24952a06383db5c46e/fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBDMIFA/helium/fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.0"
-    },
-    "date": "2018-06-29",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-ae24952a06383db5c46e/fw_helium_miui_MIMAX652_8.4.28_69352321b5_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/helium/fw_helium_miui_MIMAX652_8.4.28_69352321b5_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_8.4.28_69352321b5_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.0"
-    },
-    "date": "2018-07-06",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-6e68a3e32b80e96c32f3/fw_helium_miui_MIMAX652_8.4.28_69352321b5_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/helium/fw_helium_miui_MIMAX652_8.4.28_69352321b5_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_8.4.28_69352321b5_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.0"
-    },
-    "date": "2018-07-09",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-6eb8710afa6c48f947ed/fw_helium_miui_MIMAX652Global_8.4.28_d11aba58fd_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/helium/fw_helium_miui_MIMAX652Global_8.4.28_d11aba58fd_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652Global_8.4.28_d11aba58fd_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.0"
-    },
-    "date": "2018-07-09",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-6eb8710afa6c48f947ed/fw_helium_miui_MIMAX652_8.4.28_69352321b5_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/helium/fw_helium_miui_MIMAX652_8.4.28_69352321b5_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_8.4.28_69352321b5_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBDMIFA",
-      "android": "7.0"
-    },
-    "date": "2018-07-10",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-84314015a41403183dd9/fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBDMIFA/helium/fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652Global_V9.5.2.0.NBDMIFA_935ffa42ef_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.6.1.0.NBDCNFD",
-      "android": "7.0"
-    },
-    "date": "2018-07-10",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-84314015a41403183dd9/fw_helium_miui_MIMAX652_V9.6.1.0.NBDCNFD_66317c80a7_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.NBDCNFD/helium/fw_helium_miui_MIMAX652_V9.6.1.0.NBDCNFD_66317c80a7_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_V9.6.1.0.NBDCNFD_66317c80a7_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "7.0"
-    },
-    "date": "2018-07-13",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-d0b726b48568df06a5d3/fw_helium_miui_MIMAX652Global_8.7.12_5919a02af5_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/helium/fw_helium_miui_MIMAX652Global_8.7.12_5919a02af5_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652Global_8.7.12_5919a02af5_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "7.0"
-    },
-    "date": "2018-07-13",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/untagged-d0b726b48568df06a5d3/fw_helium_miui_MIMAX652_8.7.12_413d6609e6_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/helium/fw_helium_miui_MIMAX652_8.7.12_413d6609e6_7.0.zip"
-    },
-    "filename": "fw_helium_miui_MIMAX652_8.7.12_413d6609e6_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
       "miui": "8.7.19",
       "android": "7.0"
     },
@@ -964,5 +684,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/helium/fw_helium_miui_MIMAX652_8.12.20_007c5a3d64_7.0.zip"
     },
     "filename": "fw_helium_miui_MIMAX652_8.12.20_007c5a3d64_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "7.0"
+    },
+    "date": "2018-12-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/weekly-28.12.2018/fw_helium_miui_MIMAX652Global_8.12.27_2db90016a5_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/helium/fw_helium_miui_MIMAX652Global_8.12.27_2db90016a5_7.0.zip"
+    },
+    "filename": "fw_helium_miui_MIMAX652Global_8.12.27_2db90016a5_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "7.0"
+    },
+    "date": "2018-12-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/weekly-28.12.2018/fw_helium_miui_MIMAX652_8.12.27_7fe43fe25a_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/helium/fw_helium_miui_MIMAX652_8.12.27_7fe43fe25a_7.0.zip"
+    },
+    "filename": "fw_helium_miui_MIMAX652_8.12.27_7fe43fe25a_7.0.zip"
   }
 ]

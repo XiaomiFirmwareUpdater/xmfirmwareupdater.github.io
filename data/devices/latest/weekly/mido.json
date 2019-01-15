@@ -1,5 +1,6 @@
 [
   {
+    "codename": "mido",
     "type": "global",
     "versions": {
       "android": "7.0",
@@ -9,12 +10,13 @@
     "file": "fw_mido_miui_HMNote4XGlobal_8.12.20_43a9a2079c_7.0.zip"
   },
   {
+    "codename": "mido",
     "type": "china",
     "versions": {
       "android": "7.0",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_mido_miui_HMNote4X_8.12.20_c9f1a1f798_7.0.zip"
+    "date": "2018-12-28",
+    "file": "fw_mido_miui_HMNote4X_8.12.27_c75eb3160f_7.0.zip"
   }
 ]

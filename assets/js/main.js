@@ -64,6 +64,11 @@
 				});
 
 	// Header.
+	/**
+	*	We don't need these with current scripts.
+	*	#berkantkz
+	*/
+	/*
 		if (!browser.mobile
 		&&	$header.hasClass('alt')
 		&&	$banner.length > 0) {
@@ -80,5 +85,5 @@
 			});
 
 		}
-
+	*/
 })(jQuery);

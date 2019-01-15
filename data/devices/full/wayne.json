@@ -1,89 +1,5 @@
 [
   {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.7.0.ODCCNFA",
-      "android": "8.1"
-    },
-    "date": "2018-05-30",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/untagged-3da9b8a5f5d94abed04c/fw_wayne_miui_MI6X_V9.5.7.0.ODCCNFA_ece416caff_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.7.0.ODCCNFA/wayne/fw_wayne_miui_MI6X_V9.5.7.0.ODCCNFA_ece416caff_8.1.zip"
-    },
-    "filename": "fw_wayne_miui_MI6X_V9.5.7.0.ODCCNFA_ece416caff_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.6.22",
-      "android": "8.1"
-    },
-    "date": "2018-06-28",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/untagged-a88599f516fe90947ae9/fw_wayne_miui_MI6X_8.6.22_0987d98aca_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.22/wayne/fw_wayne_miui_MI6X_8.6.22_0987d98aca_8.1.zip"
-    },
-    "filename": "fw_wayne_miui_MI6X_8.6.22_0987d98aca_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.5",
-      "android": "8.1"
-    },
-    "date": "2018-07-06",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/untagged-a88599f516fe90947ae9/fw_wayne_miui_MI6X_8.7.5_088c3ccc8d_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/wayne/fw_wayne_miui_MI6X_8.7.5_088c3ccc8d_8.1.zip"
-    },
-    "filename": "fw_wayne_miui_MI6X_8.7.5_088c3ccc8d_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.5",
-      "android": "8.1"
-    },
-    "date": "2018-07-09",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/untagged-9124c86c7fea2d90d366/fw_wayne_miui_MI6X_8.7.5_088c3ccc8d_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/wayne/fw_wayne_miui_MI6X_8.7.5_088c3ccc8d_8.1.zip"
-    },
-    "filename": "fw_wayne_miui_MI6X_8.7.5_088c3ccc8d_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.14.0.ODCCNFA",
-      "android": "8.1"
-    },
-    "date": "2018-07-10",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/untagged-252b7122da55da94f0ff/fw_wayne_miui_MI6X_V9.5.14.0.ODCCNFA_b88c3f858d_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.14.0.ODCCNFA/wayne/fw_wayne_miui_MI6X_V9.5.14.0.ODCCNFA_b88c3f858d_8.1.zip"
-    },
-    "filename": "fw_wayne_miui_MI6X_V9.5.14.0.ODCCNFA_b88c3f858d_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "8.1"
-    },
-    "date": "2018-07-13",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/untagged-f8fd70f424ffd45f0aba/fw_wayne_miui_MI6X_8.7.12_179af1707a_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/wayne/fw_wayne_miui_MI6X_8.7.12_179af1707a_8.1.zip"
-    },
-    "filename": "fw_wayne_miui_MI6X_8.7.12_179af1707a_8.1.zip"
-  },
-  {
     "branch": "stable",
     "versions": {
       "miui": "V9.5.14.0.ODCCNFA",
@@ -432,5 +348,61 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/wayne/fw_wayne_miui_MI6X_8.12.20_2e0cc55431_8.1.zip"
     },
     "filename": "fw_wayne_miui_MI6X_8.12.20_2e0cc55431_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "8.1"
+    },
+    "date": "2018-12-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-28.12.2018/fw_wayne_miui_MI6X_8.12.27_c410104063_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/wayne/fw_wayne_miui_MI6X_8.12.27_c410104063_8.1.zip"
+    },
+    "filename": "fw_wayne_miui_MI6X_8.12.27_c410104063_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.1.0.ODCCNXM",
+      "android": "8.1"
+    },
+    "date": "2019-01-02",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/stable-02.01.2019/fw_wayne_miui_MI6X_V10.2.1.0.ODCCNXM_f5bf383a66_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/wayne/fw_wayne_miui_MI6X_V10.2.1.0.ODCCNXM_f5bf383a66_8.1.zip"
+    },
+    "filename": "fw_wayne_miui_MI6X_V10.2.1.0.ODCCNXM_f5bf383a66_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.1",
+      "android": "8.1"
+    },
+    "date": "2019-01-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-03.01.2019/fw_wayne_miui_MI6X_9.1.1_10fa21bcc7_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.1/wayne/fw_wayne_miui_MI6X_9.1.1_10fa21bcc7_8.1.zip"
+    },
+    "filename": "fw_wayne_miui_MI6X_9.1.1_10fa21bcc7_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.1.0.ODCCNXM",
+      "android": "8.1"
+    },
+    "date": "2019-01-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/stable-03.01.2019/fw_wayne_miui_MI6X_V10.2.1.0.ODCCNXM_f5bf383a66_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/wayne/fw_wayne_miui_MI6X_V10.2.1.0.ODCCNXM_f5bf383a66_8.1.zip"
+    },
+    "filename": "fw_wayne_miui_MI6X_V10.2.1.0.ODCCNXM_f5bf383a66_8.1.zip"
   }
 ]

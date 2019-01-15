@@ -2,286 +2,6 @@
   {
     "branch": "weekly",
     "versions": {
-      "miui": "8.4.12",
-      "android": "7.1"
-    },
-    "date": "2018-04-19",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-a694251e464f927f881e/fw_riva_miui_HM5AGlobal_8.4.12_8b10f1b1fb_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/riva/fw_riva_miui_HM5AGlobal_8.4.12_8b10f1b1fb_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5AGlobal_8.4.12_8b10f1b1fb_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.12",
-      "android": "7.1"
-    },
-    "date": "2018-04-19",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-a694251e464f927f881e/fw_riva_miui_HM5A_8.4.12_e38b9ea1fc_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/riva/fw_riva_miui_HM5A_8.4.12_e38b9ea1fc_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_8.4.12_e38b9ea1fc_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.19",
-      "android": "7.1"
-    },
-    "date": "2018-04-20",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-50412b22faeabfc62d12/fw_riva_miui_HM5AGlobal_8.4.19_3522281670_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/riva/fw_riva_miui_HM5AGlobal_8.4.19_3522281670_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5AGlobal_8.4.19_3522281670_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.19",
-      "android": "7.1"
-    },
-    "date": "2018-04-20",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-50412b22faeabfc62d12/fw_riva_miui_HM5A_8.4.19_3d234ded0d_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/riva/fw_riva_miui_HM5A_8.4.19_3d234ded0d_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_8.4.19_3d234ded0d_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.26",
-      "android": "7.1"
-    },
-    "date": "2018-04-27",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-24983a22069bb862c606/fw_riva_miui_HM5A_8.4.26_4fc311b086_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/riva/fw_riva_miui_HM5A_8.4.26_4fc311b086_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_8.4.26_4fc311b086_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.6.0.NCKMIFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-02",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-84961422f710992fece2/fw_riva_miui_HM5AGlobal_V9.5.6.0.NCKMIFA_d11c034a89_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.6.0.NCKMIFA/riva/fw_riva_miui_HM5AGlobal_V9.5.6.0.NCKMIFA_d11c034a89_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5AGlobal_V9.5.6.0.NCKMIFA_d11c034a89_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.3.0.NCKCNFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-02",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-84961422f710992fece2/fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.NCKCNFA/riva/fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.6.0.NCKMIFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-02",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-257ed958f5c9db8f9855/fw_riva_miui_HM5AGlobal_V9.5.6.0.NCKMIFA_d11c034a89_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.6.0.NCKMIFA/riva/fw_riva_miui_HM5AGlobal_V9.5.6.0.NCKMIFA_d11c034a89_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5AGlobal_V9.5.6.0.NCKMIFA_d11c034a89_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.3.0.NCKCNFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-02",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-257ed958f5c9db8f9855/fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.NCKCNFA/riva/fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.9.0.NCKMIFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-30",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-acf10e6c69005ed4674f/fw_riva_miui_HM5AGlobal_V9.5.9.0.NCKMIFA_d2d5c46ee4_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.9.0.NCKMIFA/riva/fw_riva_miui_HM5AGlobal_V9.5.9.0.NCKMIFA_d2d5c46ee4_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5AGlobal_V9.5.9.0.NCKMIFA_d2d5c46ee4_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.3.0.NCKCNFA",
-      "android": "7.1"
-    },
-    "date": "2018-05-30",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-acf10e6c69005ed4674f/fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.NCKCNFA/riva/fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.10.0.NCKMIFA",
-      "android": "7.1"
-    },
-    "date": "2018-06-26",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-b31ab39783319f8ad348/fw_riva_miui_HM5AGlobal_V9.5.10.0.NCKMIFA_54f363913c_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.10.0.NCKMIFA/riva/fw_riva_miui_HM5AGlobal_V9.5.10.0.NCKMIFA_54f363913c_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5AGlobal_V9.5.10.0.NCKMIFA_54f363913c_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.1"
-    },
-    "date": "2018-06-29",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-b31ab39783319f8ad348/fw_riva_miui_HM5A_8.4.28_5051eeae64_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/riva/fw_riva_miui_HM5A_8.4.28_5051eeae64_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_8.4.28_5051eeae64_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.1"
-    },
-    "date": "2018-07-06",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-9c33b7acee654f482fec/fw_riva_miui_HM5A_8.4.28_5051eeae64_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/riva/fw_riva_miui_HM5A_8.4.28_5051eeae64_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_8.4.28_5051eeae64_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.1"
-    },
-    "date": "2018-07-09",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-1ff72b77ff39dd571b67/fw_riva_miui_HM5AGlobal_8.4.28_455e2eb2b2_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/riva/fw_riva_miui_HM5AGlobal_8.4.28_455e2eb2b2_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5AGlobal_8.4.28_455e2eb2b2_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.1"
-    },
-    "date": "2018-07-09",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-1ff72b77ff39dd571b67/fw_riva_miui_HM5A_8.4.28_5051eeae64_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/riva/fw_riva_miui_HM5A_8.4.28_5051eeae64_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_8.4.28_5051eeae64_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.10.0.NCKMIFA",
-      "android": "7.1"
-    },
-    "date": "2018-07-10",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-a55767d1864d1cdc3e71/fw_riva_miui_HM5AGlobal_V9.5.10.0.NCKMIFA_54f363913c_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.10.0.NCKMIFA/riva/fw_riva_miui_HM5AGlobal_V9.5.10.0.NCKMIFA_54f363913c_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5AGlobal_V9.5.10.0.NCKMIFA_54f363913c_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.3.0.NCKCNFA",
-      "android": "7.1"
-    },
-    "date": "2018-07-10",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-a55767d1864d1cdc3e71/fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.NCKCNFA/riva/fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_V9.5.3.0.NCKCNFA_939c0c9c4d_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "7.1"
-    },
-    "date": "2018-07-13",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-d70485a8670901b46a4b/fw_riva_miui_HM5AGlobal_8.7.12_24e680fafb_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/riva/fw_riva_miui_HM5AGlobal_8.7.12_24e680fafb_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5AGlobal_8.7.12_24e680fafb_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "7.1"
-    },
-    "date": "2018-07-13",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-d70485a8670901b46a4b/fw_riva_miui_HM5A_8.7.12_a90d3fb7a6_7.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/riva/fw_riva_miui_HM5A_8.7.12_a90d3fb7a6_7.1.zip"
-    },
-    "filename": "fw_riva_miui_HM5A_8.7.12_a90d3fb7a6_7.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
       "miui": "8.7.19",
       "android": "7.1"
     },
@@ -866,5 +586,47 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/riva/fw_riva_miui_HM5A_8.12.20_3f7fbfaaad_8.1.zip"
     },
     "filename": "fw_riva_miui_HM5A_8.12.20_3f7fbfaaad_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "8.1"
+    },
+    "date": "2018-12-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-28.12.2018/fw_riva_miui_HM5AGlobal_8.12.27_88ba5f2cdf_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/riva/fw_riva_miui_HM5AGlobal_8.12.27_88ba5f2cdf_8.1.zip"
+    },
+    "filename": "fw_riva_miui_HM5AGlobal_8.12.27_88ba5f2cdf_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "8.1"
+    },
+    "date": "2018-12-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-28.12.2018/fw_riva_miui_HM5A_8.12.27_1e6cd98dbe_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/riva/fw_riva_miui_HM5A_8.12.27_1e6cd98dbe_8.1.zip"
+    },
+    "filename": "fw_riva_miui_HM5A_8.12.27_1e6cd98dbe_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.1",
+      "android": "8.1"
+    },
+    "date": "2019-01-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-03.01.2019/fw_riva_miui_HM5A_9.1.1_d58b6bb80a_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.1/riva/fw_riva_miui_HM5A_9.1.1_d58b6bb80a_8.1.zip"
+    },
+    "filename": "fw_riva_miui_HM5A_9.1.1_d58b6bb80a_8.1.zip"
   }
 ]

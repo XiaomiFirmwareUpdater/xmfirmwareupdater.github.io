@@ -1,5 +1,6 @@
 [
   {
+    "codename": "ido",
     "type": "global",
     "versions": {
       "android": "5.1",
@@ -9,6 +10,7 @@
     "file": "fw__miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip"
   },
   {
+    "codename": "ido",
     "type": "china",
     "versions": {
       "android": "5.1",

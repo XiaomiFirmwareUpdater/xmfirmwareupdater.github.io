@@ -1,5 +1,6 @@
 [
   {
+    "codename": "hydrogen",
     "type": "global",
     "versions": {
       "android": "7.0",
@@ -9,12 +10,13 @@
     "file": "fw_hydrogen_miui_MIMAXGlobal_V10.1.1.0.NBCMIFI_bf51db4e53_7.0.zip"
   },
   {
+    "codename": "hydrogen",
     "type": "china",
     "versions": {
       "android": "7.0",
-      "miui": "V10.1.1.0.NBCCNFI"
+      "miui": "V10.2.1.0.NBCCNFK"
     },
-    "date": "2018-11-07",
-    "file": "fw_hydrogen_miui_MIMAX_V10.1.1.0.NBCCNFI_d070885388_7.0.zip"
+    "date": "2019-01-07",
+    "file": "fw_hydrogen_miui_MIMAX_V10.2.1.0.NBCCNFK_b4079eaa58_7.0.zip"
   }
 ]

@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>{{page.title}} | by yshalsager</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+		<script src="assets/js/xfu.js"></script>
+		<script src="https://www.w3schools.com/lib/w3.js"></script>
+		
+		<!-- -->
+		<meta name="description" content="The ultimate script that provides firmware packages for most Xiaomi devices." />
+		<meta property="og:title" content="Xiaomi Firmware Updater" />
+		<meta property="og:description" content="The ultimate script that provides firmware packages for most Xiaomi devices." />
+		<meta property="og:image" content="/images/xfu.png" />
+		<link rel="shortcut icon" href="/images/xfu.png" type="image/x-icon" />
+		<meta name="keywords" content="Xiaomi,Xiaomi Firmware,XiaomiFirmwareUpdater,Xiaomi Firmware Updater,Firmware update,Xiaomi update,XDA,Xiaomi XDA,Firmware XDA,yshalsager, xfu" />
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130929141-1"></script>
+		<script>
+ 		 window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+		
+  		gtag('config', 'UA-130929141-1');
+		</script>
+
+	</head>
+	<body class="landing is-preload">
+		<div id="page-wrapper">
+	<div id="kz-snackbar" class="kz-snackbar">
+		<link rel="stylesheet" href="https://berkantkz.github.io/KzSnackbar/kz-snackbar.css" />
+		<script src="https://berkantkz.github.io/KzSnackbar/kz-snackbar.js"></script>
+		<p id="kz-content"></p>
+		<button id="kz-close" onclick="closeKzSnackbar()">x</button>
+	</div>
+
+			<!-- Header -->
+			{% include header.html %}
+
+			<!-- Banner -->
+				<section id="banner">
+					<img src="images/xfu.png">
+					<h2>Xiaomi Firmware Updater</h2>
+					<p>The easiest way to get flashable firmware zip files for Xiaomi devices</p>
+					<ul class="actions special">
+						<li><a href="https://forum.xda-developers.com/android/software-hacking/devices-xiaomi-firmware-updater-t3741446" class="button" target="_blank">XDA Forums thread</a></li>
+						<li><a href="https://osdn.net/projects/xiaomifirmwareupdater/" class="button" target="_blank">OSDN</a></li>
+					</ul>
+					<h5><i class="fa fa-angle-down"></i> Scroll down for firmware updates</h5>
+				</section>
+				
+				<div id="supportedDevicesDialogContainer">
+					<div id="supportedDevicesDialog">
+						<a style="/* float: right; position: absolute; left: 83%; top: 9%; */ margin-left: 93%; border: 0; cursor: pointer;" onclick="$('#supportedDevicesDialogContainer').css('display','none'); $('body').css('overflow','auto');">Close</a>
+						<div id="dialogWindow"><table></table></div>
+					</div>
+				</div>
+
+			<!-- Main -->
+				{{content}}
+
+			<!-- CTA -->
+				<section id="cta">
+
+					<h2>Follow the updates</h2>
+					<p>Watch your device's repo to get notified on each update. GitHub will send you an e-mail.</p>
+
+					<a href="https://github.com/XiaomiFirmwareUpdater" class="button">See all repositories on <i class="fa fa-github fa-lg"></i></a>
+
+				</section>
+
+			<!-- Footer -->
+				{% include footer.html %}
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/jquery.dropotron.min.js"></script>
+			<script src="/assets/js/jquery.scrollex.min.js"></script>
+			<script src="/assets/js/browser.min.js"></script>
+			<script src="/assets/js/breakpoints.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<script src="/assets/js/main.js"></script>
+
+	</body>
+</html>

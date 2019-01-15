@@ -1,5 +1,6 @@
 [
   {
+    "codename": "aqua",
     "type": "global",
     "versions": {
       "android": "",
@@ -9,6 +10,7 @@
     "file": ""
   },
   {
+    "codename": "aqua",
     "type": "china",
     "versions": {
       "android": "7.0",

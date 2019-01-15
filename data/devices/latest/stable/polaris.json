@@ -1,20 +1,22 @@
 [
   {
+    "codename": "polaris",
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "V10.0.9.0.PDGMIFH"
+      "miui": "V10.2.1.0.PDGMIXM"
     },
-    "date": "2018-12-20",
-    "file": "fw_polaris_miui_MIMIX2SGlobal_V10.0.9.0.PDGMIFH_8d776de7d5_9.0.zip"
+    "date": "2019-01-07",
+    "file": "fw_polaris_miui_MIMIX2SGlobal_V10.2.1.0.PDGMIXM_5aedcdcbf8_9.0.zip"
   },
   {
+    "codename": "polaris",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "V10.0.7.0.PDGCNFH"
+      "miui": "V10.2.1.0.PDGCNXM"
     },
-    "date": "2018-12-10",
-    "file": "fw_polaris_miui_MIMIX2S_V10.0.7.0.PDGCNFH_76ee695826_9.0.zip"
+    "date": "2019-01-03",
+    "file": "fw_polaris_miui_MIMIX2S_V10.2.1.0.PDGCNXM_4b7b94fe25_9.0.zip"
   }
 ]

@@ -1,20 +1,22 @@
 [
   {
+    "codename": "hydrogen",
     "type": "global",
     "versions": {
       "android": "7.0",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_hydrogen_miui_MIMAXGlobal_8.12.20_27a62b5225_7.0.zip"
+    "date": "2018-12-28",
+    "file": "fw_hydrogen_miui_MIMAXGlobal_8.12.27_c28ff95b04_7.0.zip"
   },
   {
+    "codename": "hydrogen",
     "type": "china",
     "versions": {
       "android": "7.0",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_hydrogen_miui_MIMAX_8.12.20_6a8d9e38c6_7.0.zip"
+    "date": "2018-12-28",
+    "file": "fw_hydrogen_miui_MIMAX_8.12.27_bec4d719ca_7.0.zip"
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "codename": "kenzo",
     "type": "global",
     "versions": {
       "android": "6.0",
@@ -9,6 +10,7 @@
     "file": "fw_kenzo_miui_HMNote3ProGlobal_8.11.22_ec10ddebd0_6.0.zip"
   },
   {
+    "codename": "kenzo",
     "type": "china",
     "versions": {
       "android": "6.0",

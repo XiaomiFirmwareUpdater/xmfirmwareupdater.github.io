@@ -2,286 +2,6 @@
   {
     "branch": "weekly",
     "versions": {
-      "miui": "8.4.12",
-      "android": "7.0"
-    },
-    "date": "2018-04-19",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-fdf977760ba8d236a115/fw_natrium_miui_MI5SPlusGlobal_8.4.12_c37b0290c2_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/natrium/fw_natrium_miui_MI5SPlusGlobal_8.4.12_c37b0290c2_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlusGlobal_8.4.12_c37b0290c2_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.12",
-      "android": "7.0"
-    },
-    "date": "2018-04-19",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-fdf977760ba8d236a115/fw_natrium_miui_MI5SPlus_8.4.12_58ca589163_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/natrium/fw_natrium_miui_MI5SPlus_8.4.12_58ca589163_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_8.4.12_58ca589163_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.19",
-      "android": "7.0"
-    },
-    "date": "2018-04-20",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-809b4b6efc84fdd3828f/fw_natrium_miui_MI5SPlusGlobal_8.4.19_769670a2c1_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/natrium/fw_natrium_miui_MI5SPlusGlobal_8.4.19_769670a2c1_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlusGlobal_8.4.19_769670a2c1_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.19",
-      "android": "7.0"
-    },
-    "date": "2018-04-20",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-809b4b6efc84fdd3828f/fw_natrium_miui_MI5SPlus_8.4.19_055f339e51_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/natrium/fw_natrium_miui_MI5SPlus_8.4.19_055f339e51_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_8.4.19_055f339e51_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.26",
-      "android": "7.0"
-    },
-    "date": "2018-04-27",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-f6921ee78aeee3531d33/fw_natrium_miui_MI5SPlus_8.4.26_eb96a93e7b_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/natrium/fw_natrium_miui_MI5SPlus_8.4.26_eb96a93e7b_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_8.4.26_eb96a93e7b_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBGMIFA",
-      "android": "7.0"
-    },
-    "date": "2018-05-02",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-3ba7558d22109a7eecf1/fw_natrium_miui_MI5SPlusGlobal_V9.5.2.0.NBGMIFA_354a7684b4_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBGMIFA/natrium/fw_natrium_miui_MI5SPlusGlobal_V9.5.2.0.NBGMIFA_354a7684b4_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlusGlobal_V9.5.2.0.NBGMIFA_354a7684b4_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBGCNFA",
-      "android": "7.0"
-    },
-    "date": "2018-05-02",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-3ba7558d22109a7eecf1/fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBGCNFA/natrium/fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBGMIFA",
-      "android": "7.0"
-    },
-    "date": "2018-05-30",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-8cbbd437c7f12fd23477/fw_natrium_miui_MI5SPlusGlobal_V9.5.2.0.NBGMIFA_354a7684b4_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBGMIFA/natrium/fw_natrium_miui_MI5SPlusGlobal_V9.5.2.0.NBGMIFA_354a7684b4_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlusGlobal_V9.5.2.0.NBGMIFA_354a7684b4_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.NBGCNFA",
-      "android": "7.0"
-    },
-    "date": "2018-05-30",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-8cbbd437c7f12fd23477/fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBGCNFA/natrium/fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.0"
-    },
-    "date": "2018-06-22",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-ec98a606f5dff227b445/fw_natrium_miui_MI5SPlusGlobal_8.4.28_5224beb0d4_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/natrium/fw_natrium_miui_MI5SPlusGlobal_8.4.28_5224beb0d4_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlusGlobal_8.4.28_5224beb0d4_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.26",
-      "android": "7.0"
-    },
-    "date": "2018-06-22",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-ec98a606f5dff227b445/fw_natrium_miui_MI5SPlus_8.4.26_eb96a93e7b_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/natrium/fw_natrium_miui_MI5SPlus_8.4.26_eb96a93e7b_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_8.4.26_eb96a93e7b_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.4.0.NBGMIFD",
-      "android": "7.0"
-    },
-    "date": "2018-06-26",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-d2173a161d70f19025aa/fw_natrium_miui_MI5SPlusGlobal_V9.5.4.0.NBGMIFD_053f8ffb39_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.NBGMIFD/natrium/fw_natrium_miui_MI5SPlusGlobal_V9.5.4.0.NBGMIFD_053f8ffb39_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlusGlobal_V9.5.4.0.NBGMIFD_053f8ffb39_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.0"
-    },
-    "date": "2018-06-29",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-d2173a161d70f19025aa/fw_natrium_miui_MI5SPlus_8.4.28_5976675c04_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/natrium/fw_natrium_miui_MI5SPlus_8.4.28_5976675c04_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_8.4.28_5976675c04_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.0"
-    },
-    "date": "2018-07-06",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-5b7f12535fa9f3107dbe/fw_natrium_miui_MI5SPlus_8.4.28_5976675c04_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/natrium/fw_natrium_miui_MI5SPlus_8.4.28_5976675c04_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_8.4.28_5976675c04_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.0"
-    },
-    "date": "2018-07-09",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-7fecb62f877f706f3e86/fw_natrium_miui_MI5SPlusGlobal_8.4.28_5224beb0d4_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/natrium/fw_natrium_miui_MI5SPlusGlobal_8.4.28_5224beb0d4_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlusGlobal_8.4.28_5224beb0d4_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "7.0"
-    },
-    "date": "2018-07-09",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-7fecb62f877f706f3e86/fw_natrium_miui_MI5SPlus_8.4.28_5976675c04_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/natrium/fw_natrium_miui_MI5SPlus_8.4.28_5976675c04_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_8.4.28_5976675c04_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.6.2.0.NBGMIFD",
-      "android": "7.0"
-    },
-    "date": "2018-07-10",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-5bcecb73c804431ec870/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.NBGMIFD/natrium/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.6.1.0.NBGCNFD",
-      "android": "7.0"
-    },
-    "date": "2018-07-10",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-5bcecb73c804431ec870/fw_natrium_miui_MI5SPlus_V9.6.1.0.NBGCNFD_87cb46832f_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.NBGCNFD/natrium/fw_natrium_miui_MI5SPlus_V9.6.1.0.NBGCNFD_87cb46832f_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_V9.6.1.0.NBGCNFD_87cb46832f_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "7.0"
-    },
-    "date": "2018-07-13",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-cf183f3fe292e1b42850/fw_natrium_miui_MI5SPlusGlobal_8.7.12_8546d2c1fd_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/natrium/fw_natrium_miui_MI5SPlusGlobal_8.7.12_8546d2c1fd_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlusGlobal_8.7.12_8546d2c1fd_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.7.12",
-      "android": "7.0"
-    },
-    "date": "2018-07-13",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-cf183f3fe292e1b42850/fw_natrium_miui_MI5SPlus_8.7.12_f44839c1d3_7.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/natrium/fw_natrium_miui_MI5SPlus_8.7.12_f44839c1d3_7.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlus_8.7.12_f44839c1d3_7.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
       "miui": "8.7.19",
       "android": "7.0"
     },
@@ -852,5 +572,47 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip"
     },
     "filename": "fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "8.0"
+    },
+    "date": "2018-12-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-28.12.2018/fw_natrium_miui_MI5SPlusGlobal_8.12.27_f8e5f33e05_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/natrium/fw_natrium_miui_MI5SPlusGlobal_8.12.27_f8e5f33e05_8.0.zip"
+    },
+    "filename": "fw_natrium_miui_MI5SPlusGlobal_8.12.27_f8e5f33e05_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "8.0"
+    },
+    "date": "2018-12-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-28.12.2018/fw_natrium_miui_MI5SPlus_8.12.27_0918560413_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/natrium/fw_natrium_miui_MI5SPlus_8.12.27_0918560413_8.0.zip"
+    },
+    "filename": "fw_natrium_miui_MI5SPlus_8.12.27_0918560413_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.1",
+      "android": "8.0"
+    },
+    "date": "2019-01-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-03.01.2019/fw_natrium_miui_MI5SPlus_9.1.1_c6634defc0_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.1/natrium/fw_natrium_miui_MI5SPlus_9.1.1_c6634defc0_8.0.zip"
+    },
+    "filename": "fw_natrium_miui_MI5SPlus_9.1.1_c6634defc0_8.0.zip"
   }
 ]

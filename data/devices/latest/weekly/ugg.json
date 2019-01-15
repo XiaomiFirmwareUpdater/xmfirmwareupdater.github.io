@@ -1,20 +1,22 @@
 [
   {
+    "codename": "ugg",
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_ugg_miui_HMNote5AGlobal_8.12.20_ea4e1eb9e6_7.1.zip"
+    "date": "2018-12-28",
+    "file": "fw_ugg_miui_HMNote5AGlobal_8.12.27_c7b69d1d75_7.1.zip"
   },
   {
+    "codename": "ugg",
     "type": "china",
     "versions": {
       "android": "7.1",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_ugg_miui_HMNote5A_8.12.20_9071fcd8e5_7.1.zip"
+    "date": "2018-12-28",
+    "file": "fw_ugg_miui_HMNote5A_8.12.27_42acd89116_7.1.zip"
   }
 ]

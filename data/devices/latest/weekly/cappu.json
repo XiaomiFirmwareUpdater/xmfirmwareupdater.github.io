@@ -1,5 +1,6 @@
 [
   {
+    "codename": "cappu",
     "type": "global",
     "versions": {
       "android": "",
@@ -8,12 +9,13 @@
     "date": ""
   },
   {
+    "codename": "cappu",
     "type": "china",
     "versions": {
       "android": "7.0",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_cappu_miui_MIPAD3_8.12.20_4f5b0b37a6_7.0.zip"
+    "date": "2018-12-28",
+    "file": "fw_cappu_miui_MIPAD3_8.12.27_88695a3c70_7.0.zip"
   }
 ]

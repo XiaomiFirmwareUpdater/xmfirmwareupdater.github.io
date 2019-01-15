@@ -72,20 +72,6 @@
   {
     "branch": "weekly",
     "versions": {
-      "miui": "8.8.9",
-      "android": "8.1"
-    },
-    "date": "2018-08-10",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/untagged-1b3ef74e52d8e3f35bfd/fw_nitrogen_miui_MIMAX3_8.8.9_26d5785ee1_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/nitrogen/fw_nitrogen_miui_MIMAX3_8.8.9_26d5785ee1_8.1.zip"
-    },
-    "filename": "fw_nitrogen_miui_MIMAX3_8.8.9_26d5785ee1_8.1.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
       "miui": "8.8.23",
       "android": "8.1"
     },
@@ -474,5 +460,47 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/nitrogen/fw_nitrogen_miui_MIMAX3_8.12.20_8f1887c220_9.0.zip"
     },
     "filename": "fw_nitrogen_miui_MIMAX3_8.12.20_8f1887c220_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "9.0"
+    },
+    "date": "2018-12-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-28.12.2018/fw_nitrogen_miui_MIMAX3_8.12.27_f1e1988397_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/nitrogen/fw_nitrogen_miui_MIMAX3_8.12.27_f1e1988397_9.0.zip"
+    },
+    "filename": "fw_nitrogen_miui_MIMAX3_8.12.27_f1e1988397_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.1.0.OEDMIFK",
+      "android": "8.1"
+    },
+    "date": "2018-12-29",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-29.12.2018/fw_nitrogen_miui_MIMAX3Global_V10.2.1.0.OEDMIFK_885d8903d6_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/nitrogen/fw_nitrogen_miui_MIMAX3Global_V10.2.1.0.OEDMIFK_885d8903d6_8.1.zip"
+    },
+    "filename": "fw_nitrogen_miui_MIMAX3Global_V10.2.1.0.OEDMIFK_885d8903d6_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.1.0.OEDCNXM",
+      "android": "8.1"
+    },
+    "date": "2019-01-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-03.01.2019/fw_nitrogen_miui_MIMAX3_V10.2.1.0.OEDCNXM_4f84ff82ea_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/nitrogen/fw_nitrogen_miui_MIMAX3_V10.2.1.0.OEDCNXM_4f84ff82ea_8.1.zip"
+    },
+    "filename": "fw_nitrogen_miui_MIMAX3_V10.2.1.0.OEDCNXM_4f84ff82ea_8.1.zip"
   }
 ]

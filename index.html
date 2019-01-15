@@ -1,248 +1,127 @@
-<!DOCTYPE HTML>
-<!--
-	Alpha by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Xiaomi Firmware Updater | by yshalsager</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<script src="https://code.jquery.com/jquery-1.11.3.js"></script>
-		<script src="assets/js/xfu.js"></script>
-		<script src="https://www.w3schools.com/lib/w3.js"></script>
-		
-		<!-- -->
-		<meta name="description" content="The ultimate script that provides firmware packages for most Xiaomi devices." />
-		<meta property="og:title" content="Xiaomi Firmware Updater" />
-		<meta property="og:description" content="The ultimate script that provides firmware packages for most Xiaomi devices." />
-		<meta property="og:image" content="images/xfu.png" />
-		<link rel="shortcut icon" href="images/xfu.png" type="image/x-icon" />
+---
+title: Xiaomi Firmware Updater
+layout: index
+permalink: /
+---
 
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130929141-1"></script>
-		<script>
- 		 window.dataLayer = window.dataLayer || [];
-  		function gtag(){dataLayer.push(arguments);}
-  		gtag('js', new Date());
-		
-  		gtag('config', 'UA-130929141-1');
-		</script>
-
-	</head>
-	<body class="landing is-preload">
-		<div id="page-wrapper">
-	<div id="kz-snackbar" class="kz-snackbar">
-		<link rel="stylesheet" href="https://berkantkz.github.io/KzSnackbar/kz-snackbar.css" />
-		<script src="https://berkantkz.github.io/KzSnackbar/kz-snackbar.js"></script>
-		<p id="kz-content"></p>
-		<button id="kz-close" onclick="closeKzSnackbar()">x</button>
+<section id="main" class="container">
+	<section class="box special">
+		<header class="major">
+			<h2>Introducing the ultimate script
+			<br/>
+			which provides firmware packages for every* Xiaomi device</h2>
+			<p>It's an automated script, running on Linux server every six hours, extracting firmware from MIUI official ROMs, both Global and China, and uploads it to multi servers*. Check your device below!</p>
+			<p><em>*MTK devices are not supported.</em></p>
+		</header>
+	</section>
+</section>
+	
+<section id="xfu_list" class="container large">	
+	<div id="xfu_tabs_container">
+		<div id="tab_stable" onclick="switchTab(this)">Stable builds</div>
+		<div id="tab_weekly" onclick="switchTab(this)">Weekly builds</div>
 	</div>
-
-			<!-- Header -->
-				<header id="header" class="alt">
-					<h1><a href="https://github.com/XiaomiFirmwareUpdater">Xiaomi Firmware Updater</a> by <a href="https://github.com/yshalsager">yshalsager</a></h1>
-					<!--
-					<nav id="nav">
-						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li>
-								<a href="#" class="icon fa-angle-down">Layouts</a>
-								<ul>
-									<li><a href="generic.html">Generic</a></li>
-									<li><a href="contact.html">Contact</a></li>
-									<li><a href="elements.html">Elements</a></li>
-									<li>
-										<a href="#">Submenu</a>
-										<ul>
-											<li><a href="#">Option One</a></li>
-											<li><a href="#">Option Two</a></li>
-											<li><a href="#">Option Three</a></li>
-											<li><a href="#">Option Four</a></li>
-										</ul>
-									</li>
-								</ul>
-							</li>
-						</ul>
-					</nav>
-					-->
-				</header>
-
-			<!-- Banner -->
-				<section id="banner">
-					<img src="images/xfu.png">
-					<h2>Xiaomi Firmware Updater</h2>
-					<p>The easiest way to get flashable firmware zip files for Xiaomi devices</p>
-					<ul class="actions special">
-						<li><a href="https://forum.xda-developers.com/android/software-hacking/devices-xiaomi-firmware-updater-t3741446" class="button" target="_blank">XDA Forums thread</a></li>
-						<li><a class="button" onclick="$('#supportedDevicesDialogContainer').css('display','block');">Supported devices</a></li>
-						<li><a href="https://sourceforge.net/projects/xiaomi-firmware-updater/" class="button" target="_blank">SourceForge</a></li>
-						<li><a href="https://osdn.net/projects/xiaomifirmwareupdater/" class="button" target="_blank">OSDN</a></li>
-					</ul>
-				</section>
-				
-				<div id="supportedDevicesDialogContainer">
-					<div id="supportedDevicesDialog">
-						<a style="/* float: right; position: absolute; left: 83%; top: 9%; */ margin-left: 93%; border: 0; cursor: pointer;" onclick="$('#supportedDevicesDialogContainer').css('display','none')">Close</a>
-						<div id="dialogWindow"><table></table></div>
-					</div>
-				</div>
-
-			<!-- Main -->
-				<section id="main" class="container">
-					<section class="box special">
-						<header class="major">
-							<h2>Introducing the ultimate script
-							<br/>
-							which provides firmware packages for every* Xiaomi device</h2>
-							<p>It's an automated script, running on linux server every six hours, extracting firmware from MIUI official ROMs, both Global and China, and uploads it to multi servers*. Check your device below!</p>
-							<p><em>*MTK devices are not supported.</em></p>
-						</header>
-					</section>
-				</section>
-					
-				<section id="xfu_list" class="container large">	
-					<div id="xfu_tabs_container">
-						<div id="tab_stable" onclick="switchTab(this)">Stable builds</div>
-						<div id="tab_weekly" onclick="switchTab(this)">Weekly builds</div>
-					</div>
-					<div id="deviceInfoDialogContainer">
-						<div id="deviceInfoDialog">
-							<a onclick="$('#deviceInfoDialogContainer').css('display','none'); $('body').css('overflow','auto');" style="align-self: flex-end;">Close</a>
-							<h2 id="device"></h2>
-							<h3></h3>
-							<div id="deviceInfoDialogBuilds">
-								<table>
-									<thead>
-										<tr>
-											<th style="width: 10em; text-align: left">MIUI</th>
-											<th style="width: 8em;">Android</th>
-											<th>Update time</th>
-											<th>Type</th>
-											<th>GitHub</th>
-											<th>SourceForge</th>
-											<th>OSDN</th>
-										</tr>
-									<thead>
-									<tbody>
-									</tbody>
-								</table>
-							</div>
-						</div>
-						<script>
-							$('#deviceInfoDialogContainer').click(function(click) {
-								if (click.toElement.id == "deviceInfoDialogContainer") {
-									$('#deviceInfoDialogContainer').css('display','none');
-									$('body').css("overflow","auto");
-								};
-							});
-						</script>
-					</div>
-					<section class="box special" id="section_stable">
-						<header class="major" id="header_stable">
-							<h2>Stable</h2>
-							<h3>Firmware extracted from MIUI stable ROMs.</h3>
-							<input id="searchForm_stable" onkeyup="search('stable')" placeholder="Type here either model or codename of your device. Matching results will be highlighted."/>
-							<div class="load-bar">
-								<div class="bar"></div>
-								<div class="bar"></div>
-								<div class="bar"></div>
-							 </div>
-							<div class="table_container">
-								<table id="table_stable">
-									<tbody id="tbody_stable">
-										<tr>
-										<th colspan="3" style="text-align: center">Device</th>
-										<th colspan="4" style="text-align: center">Latest Global</th>
-										<th colspan="4" style="text-align: center">Latest Chinese</th>
-										</tr>
-										<tr>
-										<th>#</th>
-										<th>Model</th>
-										<th onclick="sortBy(this)">Codename <i class="fa fa-sort"></i></th>
-										<th>MIUI Version</th>
-										<th>Android</th>
-										<th>Update Time</th>
-										<th>MIUI Version</th>
-										<th>Android</th>
-										<th>Update Time</th>
-										<th>Downloads</th>
-										</tr>
-									</tbody>
-								</table>
-							</div>
-						</header>
-						<header class="major" id="header_weekly">
-							<h2>Weekly</h2>
-							<h3>Firmware extracted from MIUI weekly ROMs.</h3>
-							<input id="searchForm_weekly" onkeyup="search('weekly')" placeholder="Type here either model or codename of your device. Matching results will be highlighted."/>		
-							<div class="load-bar">
-								<div class="bar"></div>
-								<div class="bar"></div>
-								<div class="bar"></div>
-							 </div>
-							<div class="table_container">		
-								<table id="table_weekly">
-									<tbody id="tbody_weekly">
-										<tr>
-										<th colspan="3" style="text-align: center">Device</th>
-										<th colspan="4" style="text-align: center">Latest Global</th>
-										<th colspan="4" style="text-align: center">Latest Chinese</th>
-										</tr>
-										<tr>
-										<th>#</th>
-										<th>Model</th>
-										<th onclick="sortBy(this)">Codename <i class="fa fa-sort"></i></th>
-										<th>MIUI Version</th>
-										<th>Android</th>
-										<th>Update Time</th>
-										<th>MIUI Version</th>
-										<th>Android</th>
-										<th>Update Time</th>
-										<th>Downloads</th>
-										</tr>
-									</tbody>
-								</table>							
-							</div>
-						</header>
-					</section>
-				</section>
-
-			<!-- CTA -->
-				<section id="cta">
-
-					<h2>Follow the updates</h2>
-					<p>Watch your device's repo to get notified on each update. GitHub will send you an e-mail.</p>
-
-					<a href="https://github.com/XiaomiFirmwareUpdater" class="button">See all repositories on <i class="fa fa-github fa-lg"></i></a>
-
-				</section>
-
-			<!-- Footer -->
-				<footer id="footer">
-					<ul class="note"><em>Visit this website on a desktop device for better experience.</em></ul>
-					<ul class="icons">
-						<li><a href="https://github.com/XiaomiFirmwareUpdater" class="icon fa-github"><span class="label">Github</span></a></li>
-						<li><a href="https://t.me/XiaomiFirmwareUpdater" class="icon fa-telegram"><span class="label">Telegram Channel</span></a></li>
-						<li><a href="https://t.me/XiaomiGeeks" class="icon fa-telegram"><span class="label">Telegram Group</span></a></li>
-					</ul>
-					<ul class="copyright">
-						<li>&copy; Xiaomi Firmware Updater. All rights reserved.</li><li>Website by <a href="https://github.com/berkantkz">berkantkz</a>, design by <a href="http://html5up.net">HTML5 UP</a></li>
-					</ul>
-				</footer>
-
+	<div id="deviceInfoDialogContainer">
+		<div id="deviceInfoDialog">
+			<a onclick="$('#deviceInfoDialogContainer').css('display','none'); $('body').css('overflow','auto');" style="align-self: flex-end;">Close</a>
+			<h2 id="device"></h2>
+			<h3></h3>
+			<div id="deviceInfoDialogBuilds">
+				<table>
+					<thead>
+						<tr>
+							<th style="width: 10em; text-align: left">MIUI</th>
+							<th style="width: 8em;">Android</th>
+							<th>Update time</th>
+							<th>Type</th>
+							<th>GitHub</th>
+							<th>OSDN</th>
+						</tr>
+					<thead>
+					<tbody>
+					</tbody>
+				</table>
+			</div>
 		</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+		<script>
+			$('#deviceInfoDialogContainer').click(function(click) {
+				if (click.toElement.id == "deviceInfoDialogContainer") {
+					$('#deviceInfoDialogContainer').css('display','none');
+					$('body').css("overflow","auto");
+				};
+			});
+		</script>
+	</div>
+	<section class="box special" id="section_stable">
+		<header class="major" id="header_stable">
+			<h2>Stable</h2>
+			<h3>Firmware extracted from MIUI stable ROMs.</h3>
+			<input id="searchForm_stable" onkeyup="search('stable')" placeholder="Type here either model or codename of your device. Matching results will be highlighted."/>
+			<div class="load-bar">
+				<div class="bar"></div>
+				<div class="bar"></div>
+				<div class="bar"></div>
+			 </div>
+			<div class="table_container">
+				<table id="table_stable">	
+					<thead>
+						<tr>
+							<th colspan="3" style="border-right: solid 1px #e5e5e5; text-align: center">Device</th>
+							<th colspan="3" style="border-right: solid 1px #e5e5e5; text-align: center">Latest Global</th>
+							<th colspan="3" style="text-align: center">Latest Chinese</th>
+							<th colspan="1"></th>
+						</tr>
+						<tr>
+							<th>#</th>
+							<th>Model</th>
+							<th onclick="sortBy(this)">Codename <i class="fa fa-sort"></i></th>
+							<th>MIUI Version</th>
+							<th>Android</th>
+							<th>Update Time</th>
+							<th>MIUI Version</th>
+							<th>Android</th>
+							<th>Update Time</th>
+							<th>Downloads</th>
+						</tr>
+					</thead>
+					<tbody id="tbody_stable"></tbody>
+				</table>
+			</div>
+		</header>
+		<header class="major" id="header_weekly">
+			<h2>Weekly</h2>
+			<h3>Firmware extracted from MIUI weekly ROMs.</h3>
+			<input id="searchForm_weekly" onkeyup="search('weekly')" placeholder="Type here either model or codename of your device. Matching results will be highlighted."/>		
+			<div class="load-bar">
+				<div class="bar"></div>
+				<div class="bar"></div>
+				<div class="bar"></div>
+			 </div>
+			<div class="table_container">		
+				<table id="table_weekly">
+					<thead>
+						<tr>
+							<th colspan="3" style="border-right: solid 1px #e5e5e5; text-align: center">Device</th>
+							<th colspan="3" style="border-right: solid 1px #e5e5e5; text-align: center">Latest Global</th>
+							<th colspan="3" style="text-align: center">Latest Chinese</th>
+							<th colspan="1"></th>
+						</tr>
+						<tr>
+							<th>#</th>
+							<th>Model</th>
+							<th onclick="sortBy(this)">Codename <i class="fa fa-sort"></i></th>
+							<th>MIUI Version</th>
+							<th>Android</th>
+							<th>Update Time</th>
+							<th>MIUI Version</th>
+							<th>Android</th>
+							<th>Update Time</th>
+							<th>Downloads</th>
+						</tr>
+					</thead>
+					<tbody id="tbody_weekly"></tbody>
+				</table>							
+			</div>
+		</header>
+	</section>
+</section>

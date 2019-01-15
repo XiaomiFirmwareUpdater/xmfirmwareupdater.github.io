@@ -1,5 +1,6 @@
 [
   {
+    "codename": "equuleus",
     "type": "global",
     "versions": {
       "android": "8.1",
@@ -9,12 +10,13 @@
     "file": "fw_equuleus_miui_MI8UDGlobal_V10.0.1.0.OECMIFH_901ac2221a_8.1.zip"
   },
   {
+    "codename": "equuleus",
     "type": "china",
     "versions": {
-      "android": "8.1",
-      "miui": "V10.0.2.0.OECCNFH"
+      "android": "9.0",
+      "miui": "V10.2.1.0.PECCNFK"
     },
-    "date": "2018-10-29",
-    "file": "fw_equuleus_miui_MI8UD_V10.0.2.0.OECCNFH_5bc83e88b8_8.1.zip"
+    "date": "2019-01-03",
+    "file": "fw_equuleus_miui_MI8UD_V10.2.1.0.PECCNFK_2b3cc85dac_9.0.zip"
   }
 ]

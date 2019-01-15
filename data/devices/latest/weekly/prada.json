@@ -1,5 +1,6 @@
 [
   {
+    "codename": "prada",
     "type": "global",
     "versions": {
       "android": "",
@@ -8,12 +9,13 @@
     "date": ""
   },
   {
+    "codename": "prada",
     "type": "china",
     "versions": {
       "android": "6.0",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_prada_miui_HM4_8.12.20_44d22858f1_6.0.zip"
+    "date": "2018-12-28",
+    "file": "fw_prada_miui_HM4_8.12.27_31960847c3_6.0.zip"
   }
 ]

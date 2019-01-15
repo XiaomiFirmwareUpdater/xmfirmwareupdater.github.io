@@ -1,5 +1,6 @@
 [
   {
+    "codename": "riva",
     "type": "global",
     "versions": {
       "android": "7.1",
@@ -9,6 +10,7 @@
     "file": "fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip"
   },
   {
+    "codename": "riva",
     "type": "china",
     "versions": {
       "android": "7.1",

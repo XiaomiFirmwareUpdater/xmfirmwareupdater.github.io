@@ -1,5 +1,6 @@
 [
   {
+    "codename": "vince",
     "type": "global",
     "versions": {
       "android": "8.1",
@@ -9,12 +10,13 @@
     "file": "fw_vince_miui_HM5PlusGlobal_8.11.15_dd40bfa136_8.1.zip"
   },
   {
+    "codename": "vince",
     "type": "china",
     "versions": {
       "android": "8.1",
-      "miui": "8.12.20"
+      "miui": "9.1.1"
     },
-    "date": "2018-12-21",
-    "file": "fw_vince_miui_HM5Plus_8.12.20_2f42719a27_8.1.zip"
+    "date": "2019-01-03",
+    "file": "fw_vince_miui_HM5Plus_9.1.1_7564fb21b6_8.1.zip"
   }
 ]

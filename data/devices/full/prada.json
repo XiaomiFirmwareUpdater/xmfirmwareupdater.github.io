@@ -1,187 +1,5 @@
 [
   {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.12",
-      "android": "6.0"
-    },
-    "date": "2018-04-19",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-3d0bb3560f0f3d586694/fw_prada_miui_HM4_8.4.12_2ff3e45a5f_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/prada/fw_prada_miui_HM4_8.4.12_2ff3e45a5f_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_8.4.12_2ff3e45a5f_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.19",
-      "android": "6.0"
-    },
-    "date": "2018-04-20",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-3af47f5fab89213c0a87/fw_prada_miui_HM4_8.4.19_1a31d351d8_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/prada/fw_prada_miui_HM4_8.4.19_1a31d351d8_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_8.4.19_1a31d351d8_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.26",
-      "android": "6.0"
-    },
-    "date": "2018-04-27",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-3af47f5fab89213c0a87/fw_prada_miui_HM4_8.4.26_cab750b963_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/prada/fw_prada_miui_HM4_8.4.26_cab750b963_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_8.4.26_cab750b963_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.26",
-      "android": "6.0"
-    },
-    "date": "2018-04-27",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-1ec1ca24c773039e628a/fw_prada_miui_HM4_8.4.26_cab750b963_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/prada/fw_prada_miui_HM4_8.4.26_cab750b963_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_8.4.26_cab750b963_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.MCECNFA",
-      "android": "6.0"
-    },
-    "date": "2018-05-02",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-1f45a581c0a978ee1bc4/fw_prada_miui_HM4_V9.5.2.0.MCECNFA_f3dc92f7cd_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MCECNFA/prada/fw_prada_miui_HM4_V9.5.2.0.MCECNFA_f3dc92f7cd_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_V9.5.2.0.MCECNFA_f3dc92f7cd_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.MCECNFA",
-      "android": "6.0"
-    },
-    "date": "2018-05-02",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-6ee8a3e3181ea21eb518/fw_prada_miui_HM4_V9.5.2.0.MCECNFA_f3dc92f7cd_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MCECNFA/prada/fw_prada_miui_HM4_V9.5.2.0.MCECNFA_f3dc92f7cd_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_V9.5.2.0.MCECNFA_f3dc92f7cd_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.2.0.MCECNFA",
-      "android": "6.0"
-    },
-    "date": "2018-05-30",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-5a4c0dea1aeea1ef57d8/fw_prada_miui_HM4_V9.5.2.0.MCECNFA_f3dc92f7cd_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MCECNFA/prada/fw_prada_miui_HM4_V9.5.2.0.MCECNFA_f3dc92f7cd_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_V9.5.2.0.MCECNFA_f3dc92f7cd_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.26",
-      "android": "6.0"
-    },
-    "date": "2018-06-22",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-f1fe558e31511a34f837/fw_prada_miui_HM4_8.4.26_cab750b963_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/prada/fw_prada_miui_HM4_8.4.26_cab750b963_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_8.4.26_cab750b963_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "6.0"
-    },
-    "date": "2018-06-29",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-bbefd4dfe322004fc956/fw_prada_miui_HM4_8.4.28_444ebd5960_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/prada/fw_prada_miui_HM4_8.4.28_444ebd5960_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_8.4.28_444ebd5960_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.6.2.0.MCECNFD",
-      "android": "6.0"
-    },
-    "date": "2018-06-26",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-bbefd4dfe322004fc956/fw_prada_miui_HM4_V9.6.2.0.MCECNFD_1369bc24ca_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.MCECNFD/prada/fw_prada_miui_HM4_V9.6.2.0.MCECNFD_1369bc24ca_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_V9.6.2.0.MCECNFD_1369bc24ca_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "6.0"
-    },
-    "date": "2018-07-06",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-65442719f043b9a40962/fw_prada_miui_HM4_8.4.28_444ebd5960_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/prada/fw_prada_miui_HM4_8.4.28_444ebd5960_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_8.4.28_444ebd5960_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.28",
-      "android": "6.0"
-    },
-    "date": "2018-07-09",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-01516c39a40d81b31ff2/fw_prada_miui_HM4_8.4.28_444ebd5960_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/prada/fw_prada_miui_HM4_8.4.28_444ebd5960_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_8.4.28_444ebd5960_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.6.2.0.MCECNFD",
-      "android": "6.0"
-    },
-    "date": "2018-07-10",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/untagged-ac5cd45b6fc27aa52025/fw_prada_miui_HM4_V9.6.2.0.MCECNFD_1369bc24ca_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.MCECNFD/prada/fw_prada_miui_HM4_V9.6.2.0.MCECNFD_1369bc24ca_6.0.zip"
-    },
-    "filename": "fw_prada_miui_HM4_V9.6.2.0.MCECNFD_1369bc24ca_6.0.zip"
-  },
-  {
     "branch": "stable",
     "versions": {
       "miui": "V9.6.2.0.MCECNFD",
@@ -530,5 +348,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/prada/fw_prada_miui_HM4_8.12.20_44d22858f1_6.0.zip"
     },
     "filename": "fw_prada_miui_HM4_8.12.20_44d22858f1_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "6.0"
+    },
+    "date": "2018-12-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/weekly-28.12.2018/fw_prada_miui_HM4_8.12.27_31960847c3_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/prada/fw_prada_miui_HM4_8.12.27_31960847c3_6.0.zip"
+    },
+    "filename": "fw_prada_miui_HM4_8.12.27_31960847c3_6.0.zip"
   }
 ]

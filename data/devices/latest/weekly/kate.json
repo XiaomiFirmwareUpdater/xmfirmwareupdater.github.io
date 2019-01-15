@@ -1,14 +1,16 @@
 [
   {
+    "codename": "kate",
     "type": "global",
     "versions": {
       "android": "6.0",
-      "miui": "8.12.20"
+      "miui": "8.12.27"
     },
-    "date": "2018-12-21",
-    "file": "fw_kate_miui_HMNote3ProtwGlobal_8.12.20_91a1fec189_6.0.zip"
+    "date": "2018-12-28",
+    "file": "fw_kate_miui_HMNote3ProtwGlobal_8.12.27_7ca5f371d0_6.0.zip"
   },
   {
+    "codename": "kate",
     "type": "china",
     "versions": {
       "android": ""

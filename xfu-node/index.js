@@ -97,7 +97,7 @@ $.ajax({
 
 					var i = releases.length - 1;
 					for (i; i >= 0; i--) {
-						if (releases[i].assets[0]) {
+						if (releases[i].assets[0] && !releases[i].assets[0].browser_download_url.includes("untagged")) {
 
 							branch = (releases[i].tag_name.includes("stable") ? "stable" : "weekly");
 
@@ -131,7 +131,7 @@ $.ajax({
 							});
 						};
 						
-						if (releases[i].assets[1]) {
+						if (releases[i].assets[1] && !releases[i].assets[1].browser_download_url.includes("untagged")) {
 
 							branch = (releases[i].tag_name.includes("stable") ? "stable" : "weekly");
 
@@ -208,7 +208,7 @@ $.ajax({
 					var branch;
 					var x = releases.length - 1;
 					for (x; x >= 0; x--) {
-						if (releases[x].assets[0]) {
+						if (releases[x].assets[0] && !releases[x].tag_name.includes("untagged")) {
 							latestStable.type = (releases[x].assets[0].name.includes("Global") ? "Global" : "China");
 							branch = (releases[x].tag_name.includes("stable") ? "stable" : "weekly");
 
@@ -241,7 +241,7 @@ $.ajax({
 							};
 						};
 
-						if (releases[x].assets[1]) {
+						if (releases[x].assets[1] && !releases[x].tag_name.includes("untagged")) {
 							branch = (releases[x].tag_name.includes("stable") ? "stable" : "weekly");
 							latestWeekly.branch = (releases[x].tag_name.includes("weekly") ? "weekly" : "stable");
 							if (branch == "stable") {
@@ -275,6 +275,7 @@ $.ajax({
 					};
 
 					latestStableBuilds.push({
+						codename : devices[index],
 						type: "global",
 						versions: {
 							android: latestStable.globalAndroidVersion,
@@ -285,6 +286,7 @@ $.ajax({
 					});
 
 					latestStableBuilds.push({
+						codename : devices[index],
 						type: "china",
 						versions: {
 							android: latestStable.chinaAndroidVersion,
@@ -299,6 +301,7 @@ $.ajax({
 					});
 
 					latestWeeklyBuilds.push({
+						codename : devices[index],
 						type: "global",
 						versions: {
 							android: latestWeekly.globalAndroidVersion,
@@ -309,6 +312,7 @@ $.ajax({
 					});
 
 					latestWeeklyBuilds.push({
+						codename : devices[index],
 						type: "china",
 						versions: {
 							android: latestWeekly.chinaAndroidVersion,

@@ -1,61 +1,5 @@
 [
   {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.12",
-      "android": "6.0"
-    },
-    "date": "2018-04-19",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/untagged-e766229ea8e8fe031cc7/fw_kate_miui_HMNote3ProtwGlobal_8.4.12_8de27013e5_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/kate/fw_kate_miui_HMNote3ProtwGlobal_8.4.12_8de27013e5_6.0.zip"
-    },
-    "filename": "fw_kate_miui_HMNote3ProtwGlobal_8.4.12_8de27013e5_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "8.4.19",
-      "android": "6.0"
-    },
-    "date": "2018-04-20",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/untagged-3395c8eff15153a2d9f5/fw_kate_miui_HMNote3ProtwGlobal_8.4.19_3b6e1e2d91_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/kate/fw_kate_miui_HMNote3ProtwGlobal_8.4.19_3b6e1e2d91_6.0.zip"
-    },
-    "filename": "fw_kate_miui_HMNote3ProtwGlobal_8.4.19_3b6e1e2d91_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.4.0.MHRMIFA",
-      "android": "6.0"
-    },
-    "date": "2018-05-02",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/untagged-e23a8acbf0007602446d/fw_kate_miui_HMNote3ProtwGlobal_V9.5.4.0.MHRMIFA_75f29362f6_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.MHRMIFA/kate/fw_kate_miui_HMNote3ProtwGlobal_V9.5.4.0.MHRMIFA_75f29362f6_6.0.zip"
-    },
-    "filename": "fw_kate_miui_HMNote3ProtwGlobal_V9.5.4.0.MHRMIFA_75f29362f6_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "V9.5.4.0.MHRMIFA",
-      "android": "6.0"
-    },
-    "date": "2018-05-30",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/untagged-b2360d57bc69c58ade38/fw_kate_miui_HMNote3ProtwGlobal_V9.5.4.0.MHRMIFA_75f29362f6_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.MHRMIFA/kate/fw_kate_miui_HMNote3ProtwGlobal_V9.5.4.0.MHRMIFA_75f29362f6_6.0.zip"
-    },
-    "filename": "fw_kate_miui_HMNote3ProtwGlobal_V9.5.4.0.MHRMIFA_75f29362f6_6.0.zip"
-  },
-  {
     "branch": "stable",
     "versions": {
       "miui": "V9.5.4.0.MHRMIFA",
@@ -390,5 +334,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/kate/fw_kate_miui_HMNote3ProtwGlobal_8.12.20_91a1fec189_6.0.zip"
     },
     "filename": "fw_kate_miui_HMNote3ProtwGlobal_8.12.20_91a1fec189_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "8.12.27",
+      "android": "6.0"
+    },
+    "date": "2018-12-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/weekly-28.12.2018/fw_kate_miui_HMNote3ProtwGlobal_8.12.27_7ca5f371d0_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/kate/fw_kate_miui_HMNote3ProtwGlobal_8.12.27_7ca5f371d0_6.0.zip"
+    },
+    "filename": "fw_kate_miui_HMNote3ProtwGlobal_8.12.27_7ca5f371d0_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V9.6.3.0.MHRMIFD",
+      "android": "6.0"
+    },
+    "date": "2019-01-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/stable-03.01.2019/fw_kate_miui_HMNote3ProtwGlobal_V9.6.3.0.MHRMIFD_4aed4c9137_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/kate/fw_kate_miui_HMNote3ProtwGlobal_V9.6.3.0.MHRMIFD_4aed4c9137_6.0.zip"
+    },
+    "filename": "fw_kate_miui_HMNote3ProtwGlobal_V9.6.3.0.MHRMIFD_4aed4c9137_6.0.zip"
   }
 ]

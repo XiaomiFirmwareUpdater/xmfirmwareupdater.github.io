@@ -1,5 +1,6 @@
 [
   {
+    "codename": "prada",
     "type": "global",
     "versions": {
       "android": "",
@@ -9,6 +10,7 @@
     "file": ""
   },
   {
+    "codename": "prada",
     "type": "china",
     "versions": {
       "android": "6.0",
