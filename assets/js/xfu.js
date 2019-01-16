@@ -276,19 +276,19 @@ $("document").ready(function () {
 	}
 };
 
-	function sortBy(item) {
+function sortBy(item) {
 	var currentI = $(item)[0].children[0].className;
 	var sortUp = ' <i class="fa fa-sort-up"></i></th>';
 	var sortDown = ' <i class="fa fa-sort-down"></i></th>';
 	$($(item)[0].children).remove();
 	currentI.includes("up") ? $(item).append(sortDown) : $(item).append(sortUp);
 	var table = $(item)[0].parentNode.parentNode.parentElement.id;
-	if (table == "tbody_weekly") {
+	if (table == "table_weekly") {
 		w3.sortHTML('#tbody_weekly', '.item', 'td:nth-child(3)');
 		$('#tbody_weekly .item').each(function (i) {
 			$($(this)[0].childNodes[1].childNodes[0]).text(i + 1);
 		});
-	} else {
+	} else if (table == "table_stable") {
 		w3.sortHTML('#tbody_stable', '.item', 'td:nth-child(3)');
 		$('#tbody_stable .item').each(function (i) {
 			$($(this)[0].childNodes[1].childNodes[0]).text(i + 1);
@@ -357,6 +357,11 @@ $("document").ready(function () {
 				$('#deviceInfoDialog h3').html("All available weekly builds: ");
 				$('#deviceInfoDialogBuilds table tbody').append(weeklyBuilds);
 			};
+			
+			$('#deviceInfoDialogBuilds table tbody').each(function(){
+				var list = $(this).children('tr');
+				$(this).html(list.get().reverse())
+			});
 		});
 	}).done(function () {
 		(isSnackbarLoaded ? closeKzSnackbar() : console.log("XFU: Unable to load kzSnackbar."));
