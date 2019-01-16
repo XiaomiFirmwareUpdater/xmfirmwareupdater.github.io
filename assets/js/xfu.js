@@ -357,15 +357,13 @@ function sortBy(item) {
 				$('#deviceInfoDialog h3').html("All available weekly builds: ");
 				$('#deviceInfoDialogBuilds table tbody').append(weeklyBuilds);
 			};
-			
-			$('#deviceInfoDialogBuilds table tbody').each(function(){
-				var list = $(this).children('tr');
-				$(this).html(list.get().reverse())
-			});
 		});
 	}).done(function () {
 		(isSnackbarLoaded ? closeKzSnackbar() : console.log("XFU: Unable to load kzSnackbar."));
 		$('#deviceInfoDialogContainer').css('display', 'block');
 		$('body').css("overflow", "hidden");
+			
+		var list = $('#deviceInfoDialogBuilds tbody tr').get().reverse();
+		$('#deviceInfoDialogBuilds tbody').html(list);
 	});
 }
