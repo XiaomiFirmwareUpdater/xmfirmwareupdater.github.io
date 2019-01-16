@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "6.0",
-      "miui": "8.12.27"
+      "miui": "9.1.10"
     },
-    "date": "2018-12-28",
-    "file": "fw_land_miui_HM3SGlobal_8.12.27_cf8294f03e_6.0.zip"
+    "date": "2019-01-12",
+    "file": "fw_land_miui_HM3SGlobal_9.1.10_6fac139131_6.0.zip"
   },
   {
     "codename": "land",
     "type": "china",
     "versions": {
       "android": "6.0",
-      "miui": "8.12.27"
+      "miui": "9.1.10"
     },
-    "date": "2018-12-28",
-    "file": "fw_land_miui_HM3S_8.12.27_be52059f84_6.0.zip"
+    "date": "2019-01-11",
+    "file": "fw_land_miui_HM3S_9.1.10_31c1331459_6.0.zip"
   }
 ]

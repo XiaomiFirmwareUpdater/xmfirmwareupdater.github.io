@@ -754,5 +754,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/santoni/fw_santoni_miui_HM4XGlobal_8.12.27_91c8917e11_7.1.zip"
     },
     "filename": "fw_santoni_miui_HM4XGlobal_8.12.27_91c8917e11_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.10",
+      "android": "7.1"
+    },
+    "date": "2019-01-11",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-11.01.2019/fw_santoni_miui_HM4X_9.1.10_9889c3a3b6_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/santoni/fw_santoni_miui_HM4X_9.1.10_9889c3a3b6_7.1.zip"
+    },
+    "filename": "fw_santoni_miui_HM4X_9.1.10_9889c3a3b6_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.10",
+      "android": "7.1"
+    },
+    "date": "2019-01-12",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-12.01.2019/fw_santoni_miui_HM4XGlobal_9.1.10_eff7c3d55e_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/santoni/fw_santoni_miui_HM4XGlobal_9.1.10_eff7c3d55e_7.1.zip"
+    },
+    "filename": "fw_santoni_miui_HM4XGlobal_9.1.10_eff7c3d55e_7.1.zip"
   }
 ]

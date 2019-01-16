@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "8.12.27"
+      "miui": "9.1.10"
     },
-    "date": "2018-12-28",
-    "file": "fw_ysl_miui_HMS2Global_8.12.27_5cf5047d1f_8.1.zip"
+    "date": "2019-01-12",
+    "file": "fw_ysl_miui_HMS2Global_9.1.10_48d017b63b_8.1.zip"
   },
   {
     "codename": "ysl",
     "type": "china",
     "versions": {
       "android": "8.1",
-      "miui": "8.12.27"
+      "miui": "9.1.10"
     },
-    "date": "2018-12-28",
-    "file": "fw_ysl_miui_HMS2_8.12.27_a0402ee08a_8.1.zip"
+    "date": "2019-01-11",
+    "file": "fw_ysl_miui_HMS2_9.1.10_4b2e4e844f_8.1.zip"
   }
 ]

@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "8.12.27"
+      "miui": "9.1.10"
     },
-    "date": "2018-12-28",
-    "file": "fw_scorpio_miui_MINote2Global_8.12.27_55b8229959_8.0.zip"
+    "date": "2019-01-12",
+    "file": "fw_scorpio_miui_MINote2Global_9.1.10_a4a8f6ddc8_8.0.zip"
   },
   {
     "codename": "scorpio",
     "type": "china",
     "versions": {
       "android": "8.0",
-      "miui": "8.12.27"
+      "miui": "9.1.10"
     },
-    "date": "2018-12-28",
-    "file": "fw_scorpio_miui_MINote2_8.12.27_5f4bea83a9_8.0.zip"
+    "date": "2019-01-11",
+    "file": "fw_scorpio_miui_MINote2_9.1.10_e8d11a48ce_8.0.zip"
   }
 ]

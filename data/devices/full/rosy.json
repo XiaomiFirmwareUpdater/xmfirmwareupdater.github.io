@@ -628,5 +628,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.1/rosy/fw_rosy_miui_HM5_9.1.1_4cbe7665eb_8.1.zip"
     },
     "filename": "fw_rosy_miui_HM5_9.1.1_4cbe7665eb_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.10",
+      "android": "8.1"
+    },
+    "date": "2019-01-14",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/weekly-14.01.2019/fw_rosy_miui_HM5Global_9.1.10_8ca604f7fc_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/rosy/fw_rosy_miui_HM5Global_9.1.10_8ca604f7fc_8.1.zip"
+    },
+    "filename": "fw_rosy_miui_HM5Global_9.1.10_8ca604f7fc_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.10",
+      "android": "8.1"
+    },
+    "date": "2019-01-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/weekly-14.01.2019/fw_rosy_miui_HM5_9.1.10_4adf84c5b9_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/rosy/fw_rosy_miui_HM5_9.1.10_4adf84c5b9_8.1.zip"
+    },
+    "filename": "fw_rosy_miui_HM5_9.1.10_4adf84c5b9_8.1.zip"
   }
 ]

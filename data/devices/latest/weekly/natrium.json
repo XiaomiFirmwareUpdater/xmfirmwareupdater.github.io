@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "8.12.27"
+      "miui": "9.1.10"
     },
-    "date": "2018-12-28",
-    "file": "fw_natrium_miui_MI5SPlusGlobal_8.12.27_f8e5f33e05_8.0.zip"
+    "date": "2019-01-12",
+    "file": "fw_natrium_miui_MI5SPlusGlobal_9.1.10_a8c05b86fa_8.0.zip"
   },
   {
     "codename": "natrium",
     "type": "china",
     "versions": {
       "android": "8.0",
-      "miui": "9.1.1"
+      "miui": "9.1.10"
     },
-    "date": "2019-01-03",
-    "file": "fw_natrium_miui_MI5SPlus_9.1.1_c6634defc0_8.0.zip"
+    "date": "2019-01-11",
+    "file": "fw_natrium_miui_MI5SPlus_9.1.10_a596f56b3e_8.0.zip"
   }
 ]

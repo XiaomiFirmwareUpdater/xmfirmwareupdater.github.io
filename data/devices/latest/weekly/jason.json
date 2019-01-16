@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "8.12.27"
+      "miui": "9.1.10"
     },
-    "date": "2018-12-28",
-    "file": "fw_jason_miui_MINote3Global_8.12.27_c0342343e8_8.1.zip"
+    "date": "2019-01-12",
+    "file": "fw_jason_miui_MINote3Global_9.1.10_bc4a6382c5_8.1.zip"
   },
   {
     "codename": "jason",
     "type": "china",
     "versions": {
       "android": "8.1",
-      "miui": "8.12.27"
+      "miui": "9.1.10"
     },
-    "date": "2018-12-28",
-    "file": "fw_jason_miui_MINote3_8.12.27_ba75754372_8.1.zip"
+    "date": "2019-01-11",
+    "file": "fw_jason_miui_MINote3_9.1.10_a8fbe9d481_8.1.zip"
   }
 ]
