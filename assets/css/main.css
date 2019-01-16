@@ -2740,7 +2740,7 @@
 			min-width: 1%;
 			width: 2%;
 			max-width: 2%;
-			padding: 0 10px 0 10px !important;
+			padding: 0 10px !important;
 			text-align: right;
 		}
 			
@@ -3565,7 +3565,16 @@
 			}
 
 			#header {
+				/* display: none;  // why tho? */
+			}
+			
+			#header h1 {
 				display: none;
+			}
+			
+			#header #home-icon {
+				display: block !important;
+				margin: 0.5em 0 0 1em;
 			}
 
 		/* Banner */
@@ -3598,7 +3607,6 @@
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				display: block;
-				height: 44px;
 				left: 0;
 				position: fixed;
 				top: 0;
@@ -3732,6 +3740,30 @@
 				-ms-transform: translateX(0);
 				transform: translateX(0);
 			}
+			
+			
+
+		#main {
+			padding: 4em 2em !important;
+		}
+
+			#main > header {
+				margin: 0 2em 1.5em 2em;
+			}
+
+				#main > header h2 {
+					font-size: 2em;
+				}
+
+				#main > header p {
+					font-size: 1em;
+					padding-bottom: 1em;
+				}
+
+		body.landing #main {
+			padding: 0;
+			margin-top: 0;
+		}
 
 	}
 
