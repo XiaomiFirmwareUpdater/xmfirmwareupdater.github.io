@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "V10.1.2.0.PEAMIFI"
+      "miui": "V10.2.1.0.PEAMIXM"
     },
-    "date": "2018-12-28",
-    "file": "fw_dipper_miui_MI8Global_V10.1.2.0.PEAMIFI_e42df0352a_9.0.zip"
+    "date": "2019-01-17",
+    "file": "fw_dipper_miui_MI8Global_V10.2.1.0.PEAMIXM_e61d872ac4_9.0.zip"
   },
   {
     "codename": "dipper",
