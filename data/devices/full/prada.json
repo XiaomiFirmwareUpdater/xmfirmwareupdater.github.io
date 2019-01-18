@@ -390,5 +390,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/prada/fw_prada_miui_HM4_V10.2.1.0.MCECNXM_89e047802c_6.0.zip"
     },
     "filename": "fw_prada_miui_HM4_V10.2.1.0.MCECNXM_89e047802c_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.17",
+      "android": "6.0"
+    },
+    "date": "2019-01-18",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/weekly-18.01.2019/fw_prada_miui_HM4_9.1.17_85b6dac074_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/prada/fw_prada_miui_HM4_9.1.17_85b6dac074_6.0.zip"
+    },
+    "filename": "fw_prada_miui_HM4_9.1.17_85b6dac074_6.0.zip"
   }
 ]

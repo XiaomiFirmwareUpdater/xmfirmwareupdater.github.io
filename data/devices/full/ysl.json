@@ -754,5 +754,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ysl/fw_ysl_miui_HMS2Global_V10.2.1.0.OEFMIXM_9664ff0747_8.1.zip"
     },
     "filename": "fw_ysl_miui_HMS2Global_V10.2.1.0.OEFMIXM_9664ff0747_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.17",
+      "android": "8.1"
+    },
+    "date": "2019-01-18",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/weekly-18.01.2019/fw_ysl_miui_HMS2_9.1.17_04420f268d_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/ysl/fw_ysl_miui_HMS2_9.1.17_04420f268d_8.1.zip"
+    },
+    "filename": "fw_ysl_miui_HMS2_9.1.17_04420f268d_8.1.zip"
   }
 ]
