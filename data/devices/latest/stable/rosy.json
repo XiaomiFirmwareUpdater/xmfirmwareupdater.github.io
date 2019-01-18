@@ -13,10 +13,10 @@
     "codename": "rosy",
     "type": "china",
     "versions": {
-      "android": "7.1",
-      "miui": "V10.1.1.0.NDACNFI"
+      "android": "8.1",
+      "miui": "V10.2.3.0.ODACNXM"
     },
-    "date": "2018-11-15",
-    "file": "fw_rosy_miui_HM5_V10.1.1.0.NDACNFI_2dc4ca6121_7.1.zip"
+    "date": "2019-01-18",
+    "file": "fw_rosy_miui_HM5_V10.2.3.0.ODACNXM_6978e36981_8.1.zip"
   }
 ]

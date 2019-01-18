@@ -152,5 +152,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/tulip/fw_tulip_miui_HMNote6ProGlobal_9.1.10_c3a041294a_8.1.zip"
     },
     "filename": "fw_tulip_miui_HMNote6ProGlobal_9.1.10_c3a041294a_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.17",
+      "android": "8.1"
+    },
+    "date": "2019-01-18",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-18.01.2019/fw_tulip_miui_HMNote6ProGlobal_9.1.17_717f77538e_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/tulip/fw_tulip_miui_HMNote6ProGlobal_9.1.17_717f77538e_8.1.zip"
+    },
+    "filename": "fw_tulip_miui_HMNote6ProGlobal_9.1.17_717f77538e_8.1.zip"
   }
 ]

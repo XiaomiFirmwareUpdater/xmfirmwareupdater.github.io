@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "9.1.10"
+      "miui": "9.1.17"
     },
-    "date": "2019-01-12",
-    "file": "fw_sagit_miui_MI6Global_9.1.10_0763871458_8.0.zip"
+    "date": "2019-01-18",
+    "file": "fw_sagit_miui_MI6Global_9.1.17_998e62f758_8.0.zip"
   },
   {
     "codename": "sagit",

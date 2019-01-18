@@ -628,5 +628,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/sakura/fw_sakura_miui_HM6Pro_9.1.10_3e84923be6_8.1.zip"
     },
     "filename": "fw_sakura_miui_HM6Pro_9.1.10_3e84923be6_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.17",
+      "android": "8.1"
+    },
+    "date": "2019-01-18",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/weekly-18.01.2019/fw_sakura-india_miui_HM6ProINGlobal_9.1.17_2bdfea871c_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/sakura/fw_sakura-india_miui_HM6ProINGlobal_9.1.17_2bdfea871c_8.1.zip"
+    },
+    "filename": "fw_sakura-india_miui_HM6ProINGlobal_9.1.17_2bdfea871c_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.17",
+      "android": "8.1"
+    },
+    "date": "2019-01-18",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/weekly-18.01.2019/fw_sakura_miui_HM6Pro_9.1.17_800a61b669_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/sakura/fw_sakura_miui_HM6Pro_9.1.17_800a61b669_8.1.zip"
+    },
+    "filename": "fw_sakura_miui_HM6Pro_9.1.17_800a61b669_8.1.zip"
   }
 ]
