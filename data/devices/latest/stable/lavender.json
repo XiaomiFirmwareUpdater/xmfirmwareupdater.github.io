@@ -1,0 +1,20 @@
+[
+  {
+    "codename": "lavender",
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": "",
+    "file": ""
+  },
+  {
+    "codename": "lavender",
+    "type": "china",
+    "versions": {
+      "android": ""
+    },
+    "date": ""
+  }
+]
