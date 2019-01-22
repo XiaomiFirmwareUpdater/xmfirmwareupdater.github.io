@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "V10.0.1.0.OADMIFH"
+      "miui": "V10.2.1.0.OADMIXM"
     },
-    "date": "2018-09-18",
-    "file": "fw_scorpio_miui_MINote2Global_V10.0.1.0.OADMIFH_436a66f6b3_8.0.zip"
+    "date": "2019-01-22",
+    "file": "fw_scorpio_miui_MINote2Global_V10.2.1.0.OADMIXM_168d567062_8.0.zip"
   },
   {
     "codename": "scorpio",

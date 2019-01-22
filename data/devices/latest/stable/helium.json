@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "7.0",
-      "miui": "V10.1.1.0.NBDMIFI"
+      "miui": "V10.2.1.0.NBDMIXM"
     },
-    "date": "2018-11-20",
-    "file": "fw_helium_miui_MIMAX652Global_V10.1.1.0.NBDMIFI_3cc591da6d_7.0.zip"
+    "date": "2019-01-22",
+    "file": "fw_helium_miui_MIMAX652Global_V10.2.1.0.NBDMIXM_baf5777418_7.0.zip"
   },
   {
     "codename": "helium",
