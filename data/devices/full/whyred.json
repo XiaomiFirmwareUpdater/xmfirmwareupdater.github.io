@@ -936,19 +936,5 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/whyred/fw_whyred_miui_HMNote5_9.1.17_7f0156ce31_8.1.zip"
     },
     "filename": "fw_whyred_miui_HMNote5_9.1.17_7f0156ce31_8.1.zip"
-  },
-  {
-    "branch": "stable",
-    "versions": {
-      "miui": "V10.0.2.0.OEICNFH",
-      "android": "8.1"
-    },
-    "date": "2019-01-23",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-23.01.2019/fw_whyred_miui_HMNote5_V10.0.2.0.OEICNFH_c9b9ece0c8_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/whyred/fw_whyred_miui_HMNote5_V10.0.2.0.OEICNFH_c9b9ece0c8_8.1.zip"
-    },
-    "filename": "fw_whyred_miui_HMNote5_V10.0.2.0.OEICNFH_c9b9ece0c8_8.1.zip"
   }
 ]
