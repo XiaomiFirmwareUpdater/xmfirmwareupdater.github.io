@@ -670,5 +670,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura-india_miui_HM6ProINGlobal_V10.2.4.0.ODMMIXM_fe921cb1af_8.1.zip"
     },
     "filename": "fw_sakura-india_miui_HM6ProINGlobal_V10.2.4.0.ODMMIXM_fe921cb1af_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.0.5.0.ODICNFH",
+      "android": "8.1"
+    },
+    "date": "2019-01-23",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-23.01.2019/fw_sakura_miui_HM6Pro_V10.0.5.0.ODICNFH_b5dae41dc0_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_miui_HM6Pro_V10.0.5.0.ODICNFH_b5dae41dc0_8.1.zip"
+    },
+    "filename": "fw_sakura_miui_HM6Pro_V10.0.5.0.ODICNFH_b5dae41dc0_8.1.zip"
   }
 ]
