@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "V10.1.1.0.NCCMIFI"
+      "miui": "V10.2.1.0.NCCMIXM"
     },
-    "date": "2018-11-28",
-    "file": "fw_rolex_miui_HM4AGlobal_V10.1.1.0.NCCMIFI_bf43214d8e_7.1.zip"
+    "date": "2019-01-23",
+    "file": "fw_rolex_miui_HM4AGlobal_V10.2.1.0.NCCMIXM_cec4b49727_7.1.zip"
   },
   {
     "codename": "rolex",
