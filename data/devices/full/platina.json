@@ -264,5 +264,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/platina/fw_platina_miui_MI8Lite_V10.2.3.0.ODTCNXM_7200bb8aa9_8.1.zip"
     },
     "filename": "fw_platina_miui_MI8Lite_V10.2.3.0.ODTCNXM_7200bb8aa9_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.2.0.ODTMIXM",
+      "android": "8.1"
+    },
+    "date": "2019-01-24",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-24.01.2019/fw_platina_miui_MI8LiteGlobal_V10.2.2.0.ODTMIXM_59b670ff20_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/platina/fw_platina_miui_MI8LiteGlobal_V10.2.2.0.ODTMIXM_59b670ff20_8.1.zip"
+    },
+    "filename": "fw_platina_miui_MI8LiteGlobal_V10.2.2.0.ODTMIXM_59b670ff20_8.1.zip"
   }
 ]
