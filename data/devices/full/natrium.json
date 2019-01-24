@@ -698,19 +698,5 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlusGlobal_V10.2.1.0.OBGMIXM_c55ec17cd9_8.0.zip"
     },
     "filename": "fw_natrium_miui_MI5SPlusGlobal_V10.2.1.0.OBGMIXM_c55ec17cd9_8.0.zip"
-  },
-  {
-    "branch": "stable",
-    "versions": {
-      "miui": "V10.2.1.0.OBGMIXM",
-      "android": "8.0"
-    },
-    "date": "2019-01-23",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-23.01.2019/fw_natrium_miui_MI5SPlusGlobal_V10.2.1.0.OBGMIXM_c55ec17cd9_8.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlusGlobal_V10.2.1.0.OBGMIXM_c55ec17cd9_8.0.zip"
-    },
-    "filename": "fw_natrium_miui_MI5SPlusGlobal_V10.2.1.0.OBGMIXM_c55ec17cd9_8.0.zip"
   }
 ]

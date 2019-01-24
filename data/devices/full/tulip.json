@@ -180,19 +180,5 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/tulip/fw_tulip_miui_HMNote6ProGlobal_V10.2.2.0.OEKMIXM_5af4a46864_8.1.zip"
     },
     "filename": "fw_tulip_miui_HMNote6ProGlobal_V10.2.2.0.OEKMIXM_5af4a46864_8.1.zip"
-  },
-  {
-    "branch": "stable",
-    "versions": {
-      "miui": "V10.2.2.0.OEKMIXM",
-      "android": "8.1"
-    },
-    "date": "2019-01-23",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-23.01.2019/fw_tulip_miui_HMNote6ProGlobal_V10.2.2.0.OEKMIXM_5af4a46864_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/tulip/fw_tulip_miui_HMNote6ProGlobal_V10.2.2.0.OEKMIXM_5af4a46864_8.1.zip"
-    },
-    "filename": "fw_tulip_miui_HMNote6ProGlobal_V10.2.2.0.OEKMIXM_5af4a46864_8.1.zip"
   }
 ]
