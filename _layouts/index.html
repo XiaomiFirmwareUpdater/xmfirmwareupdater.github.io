@@ -31,7 +31,27 @@
 		
   		gtag('config', 'UA-130929141-1');
 		</script>
-
+		<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+		<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+		<script>
+		window.addEventListener("load", function(){
+		window.cookieconsent.initialise({
+		  "palette": {
+			"popup": {
+			  "background": "#ff5722",
+			  "text": "#222222"
+			},
+			"button": {
+			  "background": "#ffffff",
+			  "text": "#222222"
+			}
+		  },
+		  "theme": "classic",
+		  "content": {
+			"href": "https://xiaomifirmwareupdater.com/privacy/"
+		  }
+		})});
+		</script>
 	</head>
 	<body class="landing is-preload">
 		<div id="page-wrapper">
