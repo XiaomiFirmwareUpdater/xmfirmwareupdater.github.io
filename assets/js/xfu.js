@@ -36,7 +36,7 @@ function tabs_weekly() {
 *	for temporarily or not.
 */
 /*
-$.get("https://xiaomifirmwareupdater.github.io/misc/supported", function (data) {
+$.get("https://xiaomifirmwareupdater.com/misc/supported", function (data) {
 	var supportedDevices = $("<body>").html(data).find("table").html();
 	$('#dialogWindow table').html(supportedDevices);
 	//console.log($($('#dialogWindow tbody')[0]));

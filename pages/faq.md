@@ -18,7 +18,7 @@ keywords: ""
 *	```A:``` No, MIUI ROMs contain the firmware-update package which I extract and provide here.
 
 * ```Q:``` What are the supported devices?
-* ```A:``` All Snapdragon devices including China-only devices. Check the full devices list [here](https://xiaomifirmwareupdater.github.io/)!
+* ```A:``` All Snapdragon devices including China-only devices. Check the full devices list [here](https://xiaomifirmwareupdater.com/)!
 
 * ```Q:``` Why there are no MTK devices?
 * ```A:```Because it doesn't have firmware-update package :p
