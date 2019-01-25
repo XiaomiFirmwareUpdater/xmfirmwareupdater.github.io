@@ -614,5 +614,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/gemini/fw_gemini_miui_MI5_V10.2.1.0.OAACNXM_b647d74428_8.0.zip"
     },
     "filename": "fw_gemini_miui_MI5_V10.2.1.0.OAACNXM_b647d74428_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.2.0.OAAMIXM",
+      "android": "8.0"
+    },
+    "date": "2019-01-25",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-25.01.2019/fw_gemini_miui_MI5Global_V10.2.2.0.OAAMIXM_d16c808eba_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/gemini/fw_gemini_miui_MI5Global_V10.2.2.0.OAAMIXM_d16c808eba_8.0.zip"
+    },
+    "filename": "fw_gemini_miui_MI5Global_V10.2.2.0.OAAMIXM_d16c808eba_8.0.zip"
   }
 ]

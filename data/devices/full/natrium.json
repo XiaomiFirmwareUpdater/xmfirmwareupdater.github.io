@@ -706,6 +706,20 @@
       "android": "8.0"
     },
     "date": "2019-01-25",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-25.01.2019/fw_natrium_miui_MI5SPlusGlobal_9.1.24_58c080179e_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/natrium/fw_natrium_miui_MI5SPlusGlobal_9.1.24_58c080179e_8.0.zip"
+    },
+    "filename": "fw_natrium_miui_MI5SPlusGlobal_9.1.24_58c080179e_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.24",
+      "android": "8.0"
+    },
+    "date": "2019-01-25",
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-25.01.2019/fw_natrium_miui_MI5SPlus_9.1.24_7cb43d4f0d_8.0.zip",

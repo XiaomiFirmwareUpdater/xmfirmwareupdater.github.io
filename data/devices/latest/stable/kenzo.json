@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "6.0",
-      "miui": "V10.1.1.0.MHOMIFI"
+      "miui": "V10.2.1.0.MHOMIXM"
     },
-    "date": "2018-12-20",
-    "file": "fw_kenzo_miui_HMNote3ProGlobal_V10.1.1.0.MHOMIFI_a5f84d1b80_6.0.zip"
+    "date": "2019-01-25",
+    "file": "fw_kenzo_miui_HMNote3ProGlobal_V10.2.1.0.MHOMIXM_36c0f5ded3_6.0.zip"
   },
   {
     "codename": "kenzo",

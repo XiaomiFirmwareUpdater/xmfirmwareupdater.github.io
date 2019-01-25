@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "9.1.17"
+      "miui": "9.1.24"
     },
-    "date": "2019-01-18",
-    "file": "fw_ysl_miui_HMS2Global_9.1.17_ac9ea9ca53_8.1.zip"
+    "date": "2019-01-25",
+    "file": "fw_ysl_miui_HMS2Global_9.1.24_b923808ed8_8.1.zip"
   },
   {
     "codename": "ysl",

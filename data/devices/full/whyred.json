@@ -950,5 +950,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/whyred/fw_whyred_miui_HMNote5_V10.2.2.0.OEICNXM_c0e48cfc8e_8.1.zip"
     },
     "filename": "fw_whyred_miui_HMNote5_V10.2.2.0.OEICNXM_c0e48cfc8e_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.24",
+      "android": "8.1"
+    },
+    "date": "2019-01-25",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-25.01.2019/fw_whyred_miui_HMNote5HMNote5ProGlobal_9.1.24_1fe6b4cd27_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_9.1.24_1fe6b4cd27_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_9.1.24_1fe6b4cd27_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.24",
+      "android": "8.1"
+    },
+    "date": "2019-01-25",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-25.01.2019/fw_whyred_miui_HMNote5_9.1.24_6e16ab7afc_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/whyred/fw_whyred_miui_HMNote5_9.1.24_6e16ab7afc_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5_9.1.24_6e16ab7afc_8.1.zip"
   }
 ]

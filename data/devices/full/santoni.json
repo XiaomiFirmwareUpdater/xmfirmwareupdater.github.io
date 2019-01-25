@@ -810,5 +810,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/santoni/fw_santoni_miui_HM4X_9.1.24_ff5bcd68e9_7.1.zip"
     },
     "filename": "fw_santoni_miui_HM4X_9.1.24_ff5bcd68e9_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.24",
+      "android": "7.1"
+    },
+    "date": "2019-01-25",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-25.01.2019/fw_santoni_miui_HM4XGlobal_9.1.24_793be787ce_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/santoni/fw_santoni_miui_HM4XGlobal_9.1.24_793be787ce_7.1.zip"
+    },
+    "filename": "fw_santoni_miui_HM4XGlobal_9.1.24_793be787ce_7.1.zip"
   }
 ]
