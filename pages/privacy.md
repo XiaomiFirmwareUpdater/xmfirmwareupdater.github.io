@@ -27,11 +27,6 @@ permalink: /privacy/
 <h2>Use of Data</h2>
 <p>Xiaomi Firmware Updater uses the collected data for various purposes:</p>    
 <ul>     <li>To provide and maintain the Service</li>         <li>To notify you about changes to our Service</li>             <li>To allow you to participate in interactive features of our Service when you choose to do so</li>                 <li>To provide customer care and support</li>                     <li>To provide analysis or valuable information so that we can improve the Service</li>                         <li>To monitor the usage of the Service</li>                             <li>To detect, prevent and address technical issues</li>                             </ul>
-<h2>Transfer Of Data</h2>
-<p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
-<p>If you are located outside Egypt and choose to provide information to us, please note that we transfer the data, including Personal Data, to Egypt and process it there.</p>
-<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-<p>Xiaomi Firmware Updater will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p> 
 <h2>Disclosure Of Data</h2> 
 <h3>Legal Requirements</h3>
 <p>Xiaomi Firmware Updater may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
@@ -47,9 +42,6 @@ permalink: /privacy/
 <h2>Links To Other Sites</h2>
 <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>  
-<h2>Children's Privacy</h2>
-<p>Our Service does not address anyone under the age of 18 ("Children").</p>
-<p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>  
 <h2>Changes To This Privacy Policy</h2>
 <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
 <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.</p>
