@@ -740,5 +740,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/ugglite/fw_ugglite_miui_HMNote5ALITE_9.1.17_45217a8efb_7.1.zip"
     },
     "filename": "fw_ugglite_miui_HMNote5ALITE_9.1.17_45217a8efb_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.24",
+      "android": "7.1"
+    },
+    "date": "2019-01-25",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-25.01.2019/fw_ugglite_miui_HMNote5ALITE_9.1.24_e58ddf79f5_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/ugglite/fw_ugglite_miui_HMNote5ALITE_9.1.24_e58ddf79f5_7.1.zip"
+    },
+    "filename": "fw_ugglite_miui_HMNote5ALITE_9.1.24_e58ddf79f5_7.1.zip"
   }
 ]

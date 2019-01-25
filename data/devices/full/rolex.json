@@ -544,5 +544,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/rolex/fw_rolex_miui_HM4AGlobal_V10.2.1.0.NCCMIXM_cec4b49727_7.1.zip"
     },
     "filename": "fw_rolex_miui_HM4AGlobal_V10.2.1.0.NCCMIXM_cec4b49727_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.1.24",
+      "android": "6.0"
+    },
+    "date": "2019-01-25",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-25.01.2019/fw_rolex_miui_HM4A_9.1.24_48dd325e8e_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/rolex/fw_rolex_miui_HM4A_9.1.24_48dd325e8e_6.0.zip"
+    },
+    "filename": "fw_rolex_miui_HM4A_9.1.24_48dd325e8e_6.0.zip"
   }
 ]
