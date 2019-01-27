@@ -3,7 +3,7 @@ title: Contact us!
 layout: single
 permalink: /contact-us/
 ---
-<h2 align="center">Contact us</h2>
+<h1 align="center">Contact us</h1>
 
 <hr>
 
