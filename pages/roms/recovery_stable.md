@@ -4,10 +4,6 @@ layout: single
 permalink: /roms/recovery/stable/
 ---
 
-<header>
-	<h2 style="text-align: center">Stable</h2>
-	<h3 style="text-align: center">Latest MIUI Stable recovery ROMs, Global and China.</h3>
-</header>
 <div class="stable_recovery">
 	<script>
 		$(function() {

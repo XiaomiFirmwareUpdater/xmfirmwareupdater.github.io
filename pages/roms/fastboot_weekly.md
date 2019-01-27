@@ -4,10 +4,6 @@ layout: single
 permalink: /roms/fastboot/weekly/
 ---
 
-<header>
-	<h2 style="text-align: center">Weekly</h2>
-	<h3 style="text-align: center">Latest MIUI Weekly Fastboot ROMs, Global and China.</h3>
-</header>
 <div class="weekly_fastboot">
 	<script>
 		$(function() {
