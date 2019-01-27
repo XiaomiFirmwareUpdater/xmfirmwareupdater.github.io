@@ -3,7 +3,7 @@ title: About
 layout: single
 permalink: /about/
 ---
-<h2 align="center">About Xiaomi Firmware Updater</h2>
+<h1 align="center">About Xiaomi Firmware Updater</h1>
 
 <hr>
 

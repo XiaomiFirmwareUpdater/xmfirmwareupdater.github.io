@@ -5,7 +5,7 @@ permalink: /team/
 avatar: true
 ---
 
-<h2 align="center">Xiaomi Firmware Updater Team Members</h2>
+<h1 align="center">Xiaomi Firmware Updater Team Members</h1>
 <hr>
 <div id="team">
 	<p style="padding-bottom:10px;"><img src="https://avatars1.githubusercontent.com/u/17043808?v=4" style="border-radius: 50%; margin-top:14px; margin-right:14px; width:75px; height:75px;" align="left"/> 
