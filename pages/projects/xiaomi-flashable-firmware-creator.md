@@ -4,7 +4,6 @@ layout: single
 permalink: /projects/xiaomi-flashable-firmware-creator/
 ---
 
-# Xiaomi Flashable Firmware Creator
 #### Do you want to create your own firmware files from MIUI ROMs without depending on Xiaomi Firmware Updater? Then you need the new script!
 
 [Xiaomi Flashable Firmware Creator](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/) is a python 3 script which generates flashable firmware-update packages, extracted from official (or non official) MIUI ROMS.
