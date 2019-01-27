@@ -1,3 +1,4 @@
 node_modules/
 # useless local jekyll output
 _site/
+Gemfile.lock
