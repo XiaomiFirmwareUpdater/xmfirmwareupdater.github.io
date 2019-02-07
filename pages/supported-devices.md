@@ -77,3 +77,4 @@ permalink: /supported-devices/
 | 353 | MI8Lite | Xiaomi Mi 8 Lite | platina | [Here](https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/latest) |
 | 355 | POCOF1Global | Xiaomi Poco F1 | beryllium | [Here](https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/latest) |
 | 356 | HMNote6ProGlobal | Redmi Note 6 Pro | tulip_global | [Here](https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/latest) |
+ | 356 | HMNote7| Redmi Note 7| lavender | [Here](https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender_releases/latest) | 
