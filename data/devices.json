@@ -96,6 +96,12 @@
 	  "global": "yes"
 	},
 	{
+	  "codename": "lavender",
+	  "name": "Redmi Note 7",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender",
+	  "global": "no"
+	},
+	{
 	  "codename": "libra",
 	  "name": "Mi 4C",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra",
@@ -263,10 +269,4 @@
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl",
 	  "global": "yes"
 	},
-	{
-	  "codename": "cereus",
-	  "name": "Redmi 6",
-	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus",
-	  "global": "yes"
-	}
 ]
