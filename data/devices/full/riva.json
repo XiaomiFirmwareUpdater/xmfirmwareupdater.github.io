@@ -726,5 +726,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/riva/fw_riva_miui_HM5A_9.1.24_efd097f9a4_8.1.zip"
     },
     "filename": "fw_riva_miui_HM5A_9.1.24_efd097f9a4_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.1.2.0.OCKMIFI",
+      "android": "8.1"
+    },
+    "date": "2019-02-12",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-12.02.2019/fw_riva_miui_HM5AGlobal_V10.1.2.0.OCKMIFI_423275627c_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/riva/fw_riva_miui_HM5AGlobal_V10.1.2.0.OCKMIFI_423275627c_8.1.zip"
+    },
+    "filename": "fw_riva_miui_HM5AGlobal_V10.1.2.0.OCKMIFI_423275627c_8.1.zip"
   }
 ]
