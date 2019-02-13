@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "7.0",
-      "miui": "V10.1.1.0.NCFMIFI"
+      "miui": "V10.2.3.0.NCFMIXM"
     },
-    "date": "2018-11-21",
-    "file": "fw_mido_miui_HMNote4XGlobal_V10.1.1.0.NCFMIFI_707a693088_7.0.zip"
+    "date": "2019-02-13",
+    "file": "fw_mido_miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip"
   },
   {
     "codename": "mido",

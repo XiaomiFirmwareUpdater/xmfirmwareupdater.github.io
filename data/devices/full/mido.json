@@ -782,5 +782,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/mido/fw_mido_miui_HMNote4X_9.1.24_9b7d3ec72c_7.0.zip"
     },
     "filename": "fw_mido_miui_HMNote4X_9.1.24_9b7d3ec72c_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.3.0.NCFMIXM",
+      "android": "7.0"
+    },
+    "date": "2019-02-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-13.02.2019/fw_mido_miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/mido/fw_mido_miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip"
   }
 ]
