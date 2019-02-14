@@ -27,6 +27,9 @@ $.ajax({
 	success: function (repo) {
 
 		console.log("**** Gathering information of all available repos");
+		fs.writeFile("./../data/repos.json", JSON.stringify(repo, null, 2), function (error) {
+			(error ? console.log(error) : console.log("*** Repos gathered and written to repos.json"));
+		});
 
 		$.each(repo, function (index, value) {
 			if (value.html_url.includes("firmware_xiaomi_")) {
