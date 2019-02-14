@@ -1,4 +1,4 @@
-node_modules/
+xfu-node/node_modules/
 # useless local jekyll output
 _site/
 Gemfile.lock
