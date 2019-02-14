@@ -1,12 +1,8 @@
 ---
-title: About
+title: About Xiaomi Firmware Updater
 layout: single
 permalink: /about/
 ---
-<h1 align="center">About Xiaomi Firmware Updater</h1>
-
-<hr>
-
 Xiaomi Firmware Updater is a project that started in January 2018, which aims to provide firmware packages for all Snapdragon Xiaomi devices, in order to allow custom ROM users to update their devices' firmware easily through custom recovery instead of having to flash full ROM every time they want to update.
 
 Using various Python and shell scripts, an automated process runs on Linux server every six hours, and extracts firmware from MIUI official ROMs, both Global and China, and uploads it to multi servers.

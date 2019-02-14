@@ -3,10 +3,6 @@ title: Contact us!
 layout: single
 permalink: /contact-us/
 ---
-<h1 align="center">Contact us</h1>
-
-<hr>
-
 Do you have any questions? or want to report something?
 
 Feel free to contact us using one of these methods:

@@ -1,11 +1,11 @@
 ---
-title: Our team
+title: Our team!
 layout: single
 permalink: /team/
 avatar: true
 ---
 
-<h1 align="center">Xiaomi Firmware Updater Team Members</h1>
+<h2 align="center">Xiaomi Firmware Updater Team Members</h2>
 <hr>
 <div id="team">
 	<p style="padding-bottom:10px;"><img src="https://avatars1.githubusercontent.com/u/17043808?v=4" style="border-radius: 50%; margin-top:14px; margin-right:14px; width:75px; height:75px;" align="left"/> 
@@ -19,7 +19,7 @@ avatar: true
 		<img src="/images/developer.png" style="width: 3%; padding-bottom:3px"> &thinsp; Website Developer<br>
 	</p>
 </div>
-<h2 align="center">Contributors</h2>
+<h3 align="center">Contributors</h3>
 <hr>
 <div id="contributors">
 	<p style="padding-bottom:15px;"><img src="https://avatars3.githubusercontent.com/u/36578133?s=460&v=4" style="border-radius: 50%; margin-top:14px; margin-right:14px; width:75px; height:75px;" align="left"/> 

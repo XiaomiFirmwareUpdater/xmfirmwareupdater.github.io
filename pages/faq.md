@@ -4,10 +4,6 @@ layout: single
 permalink: /faq/
 keywords: ""
 ---
-
-# Frequently Asked Questions:
----
-
 * ```Q:``` What is Firmware? Is it a full ROM or OTA package?
 * ```A:``` Firmware is not a ROM nor OTA Package, it's a set of low-level drivers which helps the operating system do whatever it wants to do. It includes various things like Modem, Bluetooth, Bootloader, DSP and etc.
 
