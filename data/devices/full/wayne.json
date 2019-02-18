@@ -460,5 +460,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/wayne/fw_wayne_miui_MI6X_9.1.24_1764fa1728_8.1.zip"
     },
     "filename": "fw_wayne_miui_MI6X_9.1.24_1764fa1728_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.2.0.ODCCNXM",
+      "android": "8.1"
+    },
+    "date": "2019-02-18",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/stable-18.02.2019/fw_wayne_miui_MI6X_V10.2.2.0.ODCCNXM_3e0311c050_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/wayne/fw_wayne_miui_MI6X_V10.2.2.0.ODCCNXM_3e0311c050_8.1.zip"
+    },
+    "filename": "fw_wayne_miui_MI6X_V10.2.2.0.ODCCNXM_3e0311c050_8.1.zip"
   }
 ]
