@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "9.1.24"
+      "miui": "9.2.15"
     },
-    "date": "2019-01-25",
-    "file": "fw_jason_miui_MINote3Global_9.1.24_fe1cd82db9_8.1.zip"
+    "date": "2019-02-18",
+    "file": "fw_jason_miui_MINote3Global_9.2.15_995a52959b_8.1.zip"
   },
   {
     "codename": "jason",

@@ -314,6 +314,20 @@
       "android": "9.0"
     },
     "date": "2019-02-18",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-18.02.2019/fw_equuleus_miui_MI8UDGlobal_9.2.15_16816afe60_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/equuleus/fw_equuleus_miui_MI8UDGlobal_9.2.15_16816afe60_9.0.zip"
+    },
+    "filename": "fw_equuleus_miui_MI8UDGlobal_9.2.15_16816afe60_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.15",
+      "android": "9.0"
+    },
+    "date": "2019-02-18",
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-18.02.2019/fw_equuleus_miui_MI8UD_9.2.15_1a700ed31a_9.0.zip",
