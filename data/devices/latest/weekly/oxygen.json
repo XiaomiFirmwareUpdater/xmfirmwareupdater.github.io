@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "9.1.24"
+      "miui": "9.2.15"
     },
-    "date": "2019-01-25",
-    "file": "fw_oxygen_miui_MIMAX2Global_9.1.24_b07fd571a7_7.1.zip"
+    "date": "2019-02-18",
+    "file": "fw_oxygen_miui_MIMAX2Global_9.2.15_9630fa6daa_7.1.zip"
   },
   {
     "codename": "oxygen",

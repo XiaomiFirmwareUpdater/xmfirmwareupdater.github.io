@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "9.1.24"
+      "miui": "9.2.15"
     },
-    "date": "2019-01-25",
-    "file": "fw_rolex_miui_HM4AGlobal_9.1.24_2fbb7eb91d_7.1.zip"
+    "date": "2019-02-18",
+    "file": "fw_rolex_miui_HM4AGlobal_9.2.15_b5369f478b_7.1.zip"
   },
   {
     "codename": "rolex",

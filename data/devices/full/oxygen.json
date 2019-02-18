@@ -832,6 +832,20 @@
       "android": "7.1"
     },
     "date": "2019-02-18",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-18.02.2019/fw_oxygen_miui_MIMAX2Global_9.2.15_9630fa6daa_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/oxygen/fw_oxygen_miui_MIMAX2Global_9.2.15_9630fa6daa_7.1.zip"
+    },
+    "filename": "fw_oxygen_miui_MIMAX2Global_9.2.15_9630fa6daa_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.15",
+      "android": "7.1"
+    },
+    "date": "2019-02-18",
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-18.02.2019/fw_oxygen_miui_MIMAX2_9.2.15_480583927d_7.1.zip",
