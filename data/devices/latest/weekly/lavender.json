@@ -12,9 +12,10 @@
     "codename": "lavender",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "9.0",
+      "miui": "9.2.14"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-02-18",
+    "file": "fw_lavender_miui_LAVENDER_9.2.14_7b61a04580_9.0.zip"
   }
 ]

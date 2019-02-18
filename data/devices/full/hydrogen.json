@@ -824,5 +824,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/hydrogen/fw_hydrogen_miui_MIMAX_9.1.24_bfbae02d30_7.0.zip"
     },
     "filename": "fw_hydrogen_miui_MIMAX_9.1.24_bfbae02d30_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.15",
+      "android": "7.0"
+    },
+    "date": "2019-02-18",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen/releases/download/weekly-18.02.2019/fw_hydrogen_miui_MIMAX_9.2.15_d892f1dffd_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/hydrogen/fw_hydrogen_miui_MIMAX_9.2.15_d892f1dffd_7.0.zip"
+    },
+    "filename": "fw_hydrogen_miui_MIMAX_9.2.15_d892f1dffd_7.0.zip"
   }
 ]
