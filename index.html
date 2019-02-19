@@ -26,6 +26,7 @@ permalink: /
 			<a onclick="$('#deviceInfoDialogContainer').css('display','none'); $('body').css('overflow','auto');" style="align-self: flex-end;">Close</a>
 			<h2 id="device"></h2>
 			<h3></h3>
+			<input type="hidden" name="IL_IN_ARTICLE">
 			<div id="deviceInfoDialogBuilds">
 				<table>
 					<thead>
@@ -62,6 +63,7 @@ permalink: /
 				<div class="bar"></div>
 				<div class="bar"></div>
 			 </div>
+			 <input type="hidden" name="IL_IN_ARTICLE">
 			<div class="table_container">
 				<table id="table_stable">	
 					<thead>
@@ -83,7 +85,6 @@ permalink: /
 							<th>Update Time</th>
 							<th>Downloads</th>
 						</tr>
-							<input type="hidden" name="IL_IN_ARTICLE">
 					</thead>
 					<tbody id="tbody_stable"></tbody>
 				</table>
@@ -98,7 +99,8 @@ permalink: /
 				<div class="bar"></div>
 				<div class="bar"></div>
 			 </div>
-			<div class="table_container">		
+			 <input type="hidden" name="IL_IN_ARTICLE">
+			<div class="table_container">
 				<table id="table_weekly">
 					<thead>
 						<tr>
@@ -119,7 +121,6 @@ permalink: /
 							<th>Update Time</th>
 							<th>Downloads</th>
 						</tr>
-							<input type="hidden" name="IL_IN_ARTICLE">
 					</thead>
 					<tbody id="tbody_weekly"></tbody>
 				</table>							
