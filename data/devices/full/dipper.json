@@ -796,5 +796,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/dipper/fw_dipper_miui_MI8_9.2.15_9498761b4d_9.0.zip"
     },
     "filename": "fw_dipper_miui_MI8_9.2.15_9498761b4d_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.21",
+      "android": "9.0"
+    },
+    "date": "2019-02-22",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-22.02.2019/fw_dipper_miui_MI8_9.2.21_b5dc29f7cb_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/dipper/fw_dipper_miui_MI8_9.2.21_b5dc29f7cb_9.0.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_9.2.21_b5dc29f7cb_9.0.zip"
   }
 ]

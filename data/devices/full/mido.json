@@ -810,5 +810,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/mido/fw_mido_miui_HMNote4X_9.2.15_1f24079e7b_7.0.zip"
     },
     "filename": "fw_mido_miui_HMNote4X_9.2.15_1f24079e7b_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.21",
+      "android": "7.0"
+    },
+    "date": "2019-02-22",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-22.02.2019/fw_mido_miui_HMNote4X_9.2.21_d7ec201909_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/mido/fw_mido_miui_HMNote4X_9.2.21_d7ec201909_7.0.zip"
+    },
+    "filename": "fw_mido_miui_HMNote4X_9.2.21_d7ec201909_7.0.zip"
   }
 ]

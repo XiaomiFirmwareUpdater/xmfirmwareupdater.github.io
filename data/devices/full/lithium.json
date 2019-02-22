@@ -894,5 +894,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/lithium/fw_lithium_miui_MIMIX_9.2.15_dd8709462c_8.0.zip"
     },
     "filename": "fw_lithium_miui_MIMIX_9.2.15_dd8709462c_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.21",
+      "android": "8.0"
+    },
+    "date": "2019-02-22",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-22.02.2019/fw_lithium_miui_MIMIX_9.2.21_9fcb2ace63_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/lithium/fw_lithium_miui_MIMIX_9.2.21_9fcb2ace63_8.0.zip"
+    },
+    "filename": "fw_lithium_miui_MIMIX_9.2.21_9fcb2ace63_8.0.zip"
   }
 ]

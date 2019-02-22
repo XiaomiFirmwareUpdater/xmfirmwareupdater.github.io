@@ -614,5 +614,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/rolex/fw_rolex_miui_HM4A_9.2.15_75e16694f3_6.0.zip"
     },
     "filename": "fw_rolex_miui_HM4A_9.2.15_75e16694f3_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.21",
+      "android": "6.0"
+    },
+    "date": "2019-02-22",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-22.02.2019/fw_rolex_miui_HM4A_9.2.21_b137925ac5_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/rolex/fw_rolex_miui_HM4A_9.2.21_b137925ac5_6.0.zip"
+    },
+    "filename": "fw_rolex_miui_HM4A_9.2.21_b137925ac5_6.0.zip"
   }
 ]

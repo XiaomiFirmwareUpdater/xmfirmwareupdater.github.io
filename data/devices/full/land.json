@@ -838,5 +838,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/land/fw_land_miui_HM3S_9.2.15_2e8f6beaff_6.0.zip"
     },
     "filename": "fw_land_miui_HM3S_9.2.15_2e8f6beaff_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.21",
+      "android": "6.0"
+    },
+    "date": "2019-02-22",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-22.02.2019/fw_land_miui_HM3S_9.2.21_a4836ada85_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/land/fw_land_miui_HM3S_9.2.21_a4836ada85_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3S_9.2.21_a4836ada85_6.0.zip"
   }
 ]
