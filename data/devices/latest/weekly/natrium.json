@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "9.2.15"
+      "miui": "9.2.21"
     },
-    "date": "2019-02-18",
-    "file": "fw_natrium_miui_MI5SPlusGlobal_9.2.15_8d9254e844_8.0.zip"
+    "date": "2019-02-22",
+    "file": "fw_natrium_miui_MI5SPlusGlobal_9.2.21_5aed2e53c4_8.0.zip"
   },
   {
     "codename": "natrium",

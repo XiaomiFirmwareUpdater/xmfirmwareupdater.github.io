@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "9.2.15"
+      "miui": "9.2.21"
     },
-    "date": "2019-02-18",
-    "file": "fw_whyred_miui_HMNote5HMNote5ProGlobal_9.2.15_381e41d41a_8.1.zip"
+    "date": "2019-02-22",
+    "file": "fw_whyred_miui_HMNote5HMNote5ProGlobal_9.2.21_346ceb12fa_8.1.zip"
   },
   {
     "codename": "whyred",

@@ -846,6 +846,20 @@
       "android": "8.1"
     },
     "date": "2019-02-22",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/weekly-22.02.2019/fw_ysl_miui_HMS2Global_9.2.21_e59114a0bd_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/ysl/fw_ysl_miui_HMS2Global_9.2.21_e59114a0bd_8.1.zip"
+    },
+    "filename": "fw_ysl_miui_HMS2Global_9.2.21_e59114a0bd_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.21",
+      "android": "8.1"
+    },
+    "date": "2019-02-22",
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/weekly-22.02.2019/fw_ysl_miui_HMS2_9.2.21_09d32e6ad3_8.1.zip",
