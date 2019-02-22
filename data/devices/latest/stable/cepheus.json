@@ -1,0 +1,20 @@
+[
+  {
+    "codename": "cepheus",
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": "",
+    "file": ""
+  },
+  {
+    "codename": "cepheus",
+    "type": "china",
+    "versions": {
+      "android": ""
+    },
+    "date": ""
+  }
+]
