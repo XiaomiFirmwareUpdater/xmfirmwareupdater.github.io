@@ -860,6 +860,20 @@
       "android": "7.0"
     },
     "date": "2019-02-22",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/weekly-22.02.2019/fw_helium_miui_MIMAX652Global_9.2.21_35878e21a0_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/helium/fw_helium_miui_MIMAX652Global_9.2.21_35878e21a0_7.0.zip"
+    },
+    "filename": "fw_helium_miui_MIMAX652Global_9.2.21_35878e21a0_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.21",
+      "android": "7.0"
+    },
+    "date": "2019-02-22",
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/weekly-22.02.2019/fw_helium_miui_MIMAX652_9.2.21_d8fa8fa665_7.0.zip",

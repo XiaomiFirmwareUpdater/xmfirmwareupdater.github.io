@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "7.0",
-      "miui": "9.2.15"
+      "miui": "9.2.21"
     },
-    "date": "2019-02-18",
-    "file": "fw_helium_miui_MIMAX652Global_9.2.15_931cba17b2_7.0.zip"
+    "date": "2019-02-22",
+    "file": "fw_helium_miui_MIMAX652Global_9.2.21_35878e21a0_7.0.zip"
   },
   {
     "codename": "helium",
