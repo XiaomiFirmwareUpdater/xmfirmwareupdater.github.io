@@ -24,6 +24,12 @@
 	  "global": "yes"
 	},
 	{
+	  "codename": "cepheus",
+	  "name": "Mi 9",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus",
+	  "global": "no"
+	},
+	{
 	  "codename": "chiron",
 	  "name": "Mi MIX 2",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron",
@@ -52,6 +58,12 @@
 	  "name": "Mi 5",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini",
 	  "global": "yes"
+	},
+	{
+	  "codename": "grus",
+	  "name": "Mi 9 SE",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus",
+	  "global": "no"
 	},
 	{
 	  "codename": "helium",
