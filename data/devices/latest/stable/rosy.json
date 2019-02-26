@@ -3,11 +3,11 @@
     "codename": "rosy",
     "type": "global",
     "versions": {
-      "android": "8.1",
-      "miui": "V10.1.3.0.ODAMIFI"
+      "android": "7.1",
+      "miui": "V10.1.2.0.NDAMIFI"
     },
-    "date": "2019-02-12",
-    "file": "fw_rosy_miui_HM5Global_V10.1.3.0.ODAMIFI_35d08afd5b_8.1.zip"
+    "date": "2019-02-26",
+    "file": "fw_rosy_miui_HM5Global_V10.1.2.0.NDAMIFI_6afa536b21_7.1.zip"
   },
   {
     "codename": "rosy",

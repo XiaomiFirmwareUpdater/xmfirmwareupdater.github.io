@@ -1,21 +1,22 @@
 [
   {
-    "codename": "lavender",
+    "codename": "grus",
     "type": "global",
     "versions": {
       "android": "",
       "miui": ""
     },
-    "date": ""
+    "date": "",
+    "file": ""
   },
   {
-    "codename": "lavender",
+    "codename": "grus",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "9.2.22"
+      "miui": "V10.2.3.0.PFBCNXM"
     },
     "date": "2019-02-26",
-    "file": "fw_lavender_miui_LAVENDER_9.2.22_dfa84aff81_9.0.zip"
+    "file": "fw_grus_miui_GRUS_V10.2.3.0.PFBCNXM_0b1a6eef2b_9.0.zip"
   }
 ]

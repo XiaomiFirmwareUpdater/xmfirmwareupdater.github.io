@@ -3,11 +3,11 @@
     "codename": "riva",
     "type": "global",
     "versions": {
-      "android": "8.1",
-      "miui": "V10.1.2.0.OCKMIFI"
+      "android": "7.1",
+      "miui": "V10.1.1.0.NCKMIFI"
     },
-    "date": "2019-02-12",
-    "file": "fw_riva_miui_HM5AGlobal_V10.1.2.0.OCKMIFI_423275627c_8.1.zip"
+    "date": "2019-02-26",
+    "file": "fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip"
   },
   {
     "codename": "riva",
