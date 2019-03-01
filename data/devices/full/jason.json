@@ -656,5 +656,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/jason/fw_jason_miui_MINote3Global_9.2.21_473bba0ca0_8.1.zip"
     },
     "filename": "fw_jason_miui_MINote3Global_9.2.21_473bba0ca0_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.28",
+      "android": "8.1"
+    },
+    "date": "2019-03-01",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-01.03.2019/fw_jason_miui_MINote3_9.2.28_7a99d8ff66_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.28/jason/fw_jason_miui_MINote3_9.2.28_7a99d8ff66_8.1.zip"
+    },
+    "filename": "fw_jason_miui_MINote3_9.2.28_7a99d8ff66_8.1.zip"
   }
 ]
