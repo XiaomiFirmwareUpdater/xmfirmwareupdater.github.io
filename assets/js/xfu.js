@@ -349,8 +349,7 @@ function sortBy(item) {
 				<td>" + androidVer + "</td>\
 				<td>" + updateTime + "</td>\
 				<td>" + type + "</td>\
-				<td><a href='" + dlOSDN + "' target='_blank'>OSDN</a></td>\
-				<td><a href='" + dlGit + "' target='_blank'>GitHub</a></td>\
+				<td><a href='" + dlOSDN + "' target='_blank'>Here</a></td>\
 				</tr>";
 
 				$('#deviceInfoDialog h3').html("All available weekly builds: ");
