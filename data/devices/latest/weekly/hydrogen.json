@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "7.0",
-      "miui": "9.2.21"
+      "miui": "9.2.28"
     },
-    "date": "2019-02-22",
-    "file": "fw_hydrogen_miui_MIMAXGlobal_9.2.21_b4d141323d_7.0.zip"
+    "date": "2019-03-01",
+    "file": "fw_hydrogen_miui_MIMAXGlobal_9.2.28_df1d437c37_7.0.zip"
   },
   {
     "codename": "hydrogen",
