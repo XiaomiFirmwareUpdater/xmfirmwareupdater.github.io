@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "9.2.21"
+      "miui": "9.2.28"
     },
-    "date": "2019-02-22",
-    "file": "fw_scorpio_miui_MINote2Global_9.2.21_01ad050d03_8.0.zip"
+    "date": "2019-03-01",
+    "file": "fw_scorpio_miui_MINote2Global_9.2.28_1ebf38d676_8.0.zip"
   },
   {
     "codename": "scorpio",
