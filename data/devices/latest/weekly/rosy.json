@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "9.2.21"
+      "miui": "9.3.1"
     },
-    "date": "2019-02-22",
-    "file": "fw_rosy_miui_HM5Global_9.2.21_870bb7fcae_8.1.zip"
+    "date": "2019-03-04",
+    "file": "fw_rosy_miui_HM5Global_9.3.1_6724aa139f_8.1.zip"
   },
   {
     "codename": "rosy",

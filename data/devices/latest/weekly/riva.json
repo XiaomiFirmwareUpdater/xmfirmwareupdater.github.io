@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "9.2.21"
+      "miui": "9.3.1"
     },
-    "date": "2019-02-22",
-    "file": "fw_riva_miui_HM5AGlobal_9.2.21_8e18062ebc_8.1.zip"
+    "date": "2019-03-04",
+    "file": "fw_riva_miui_HM5AGlobal_9.3.1_e0c2b36616_8.1.zip"
   },
   {
     "codename": "riva",

@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.2.21"
+      "miui": "9.3.1"
     },
-    "date": "2019-02-22",
-    "file": "fw_equuleus_miui_MI8UDGlobal_9.2.21_6cb64f6161_9.0.zip"
+    "date": "2019-03-04",
+    "file": "fw_equuleus_miui_MI8UDGlobal_9.3.1_e644d42213_9.0.zip"
   },
   {
     "codename": "equuleus",
