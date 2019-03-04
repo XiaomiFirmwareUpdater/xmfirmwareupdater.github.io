@@ -810,5 +810,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/rosy/fw_rosy_miui_HM5Global_V10.1.2.0.NDAMIFI_6afa536b21_7.1.zip"
     },
     "filename": "fw_rosy_miui_HM5Global_V10.1.2.0.NDAMIFI_6afa536b21_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.3.1",
+      "android": "8.1"
+    },
+    "date": "2019-03-04",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/weekly-04.03.2019/fw_rosy_miui_HM5_9.3.1_f53b30a9a8_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.1/rosy/fw_rosy_miui_HM5_9.3.1_f53b30a9a8_8.1.zip"
+    },
+    "filename": "fw_rosy_miui_HM5_9.3.1_f53b30a9a8_8.1.zip"
   }
 ]
