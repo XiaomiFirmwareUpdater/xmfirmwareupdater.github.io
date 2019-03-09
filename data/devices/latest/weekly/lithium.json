@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "9.2.28"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-01",
-    "file": "fw_lithium_miui_MIMIXGlobal_9.2.28_3199123fdc_8.0.zip"
+    "date": "2019-03-09",
+    "file": "fw_lithium_miui_MIMIXGlobal_9.3.7_68d72941f9_8.0.zip"
   },
   {
     "codename": "lithium",
     "type": "china",
     "versions": {
       "android": "8.0",
-      "miui": "9.2.28"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-01",
-    "file": "fw_lithium_miui_MIMIX_9.2.28_b5d8b8d501_8.0.zip"
+    "date": "2019-03-09",
+    "file": "fw_lithium_miui_MIMIX_9.3.7_deda125c27_8.0.zip"
   }
 ]

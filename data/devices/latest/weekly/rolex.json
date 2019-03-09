@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "9.2.28"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-01",
-    "file": "fw_rolex_miui_HM4AGlobal_9.2.28_90184b5360_7.1.zip"
+    "date": "2019-03-09",
+    "file": "fw_rolex_miui_HM4AGlobal_9.3.7_7fa34ce010_7.1.zip"
   },
   {
     "codename": "rolex",
     "type": "china",
     "versions": {
       "android": "6.0",
-      "miui": "9.2.28"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-01",
-    "file": "fw_rolex_miui_HM4A_9.2.28_33f7e6673e_6.0.zip"
+    "date": "2019-03-09",
+    "file": "fw_rolex_miui_HM4A_9.3.7_07f0315fda_6.0.zip"
   }
 ]
