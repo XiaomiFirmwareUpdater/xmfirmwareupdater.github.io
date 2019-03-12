@@ -656,5 +656,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/vince/fw_vince_miui_HM5Plus_9.3.7_a64a1daa4a_8.1.zip"
     },
     "filename": "fw_vince_miui_HM5Plus_9.3.7_a64a1daa4a_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.4.0.OEGCNXM",
+      "android": "8.1"
+    },
+    "date": "2019-03-12",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-12.03.2019/fw_vince_miui_HM5Plus_V10.2.4.0.OEGCNXM_c5fdb8aaa1_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5Plus_V10.2.4.0.OEGCNXM_c5fdb8aaa1_8.1.zip"
+    },
+    "filename": "fw_vince_miui_HM5Plus_V10.2.4.0.OEGCNXM_c5fdb8aaa1_8.1.zip"
   }
 ]
