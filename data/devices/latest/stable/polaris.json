@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "V10.2.1.0.PDGMIXM"
+      "miui": "V10.2.2.0.PDGMIXM"
     },
-    "date": "2019-01-07",
-    "file": "fw_polaris_miui_MIMIX2SGlobal_V10.2.1.0.PDGMIXM_5aedcdcbf8_9.0.zip"
+    "date": "2019-03-13",
+    "file": "fw_polaris_miui_MIMIX2SGlobal_V10.2.2.0.PDGMIXM_7bb6553bad_9.0.zip"
   },
   {
     "codename": "polaris",
