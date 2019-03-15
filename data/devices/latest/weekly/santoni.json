@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "9.3.7"
+      "miui": "9.3.14"
     },
-    "date": "2019-03-09",
-    "file": "fw_santoni_miui_HM4XGlobal_9.3.7_2a35bef51d_7.1.zip"
+    "date": "2019-03-15",
+    "file": "fw_santoni_miui_HM4XGlobal_9.3.14_e92ce5aae8_7.1.zip"
   },
   {
     "codename": "santoni",
     "type": "china",
     "versions": {
       "android": "7.1",
-      "miui": "9.3.7"
+      "miui": "9.3.14"
     },
-    "date": "2019-03-09",
-    "file": "fw_santoni_miui_HM4X_9.3.7_8c6162b2b5_7.1.zip"
+    "date": "2019-03-15",
+    "file": "fw_santoni_miui_HM4X_9.3.14_c6f1a53dbc_7.1.zip"
   }
 ]

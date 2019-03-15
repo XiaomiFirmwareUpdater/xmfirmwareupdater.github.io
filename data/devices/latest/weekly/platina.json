@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.3.7"
+      "miui": "9.3.14"
     },
-    "date": "2019-03-09",
-    "file": "fw_platina_miui_MI8LiteGlobal_9.3.7_11cd7e900f_9.0.zip"
+    "date": "2019-03-15",
+    "file": "fw_platina_miui_MI8LiteGlobal_9.3.14_8d3c1e1102_9.0.zip"
   },
   {
     "codename": "platina",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "9.3.7"
+      "miui": "9.3.14"
     },
-    "date": "2019-03-09",
-    "file": "fw_platina_miui_MI8Lite_9.3.7_5639427797_9.0.zip"
+    "date": "2019-03-15",
+    "file": "fw_platina_miui_MI8Lite_9.3.14_81059b8200_9.0.zip"
   }
 ]

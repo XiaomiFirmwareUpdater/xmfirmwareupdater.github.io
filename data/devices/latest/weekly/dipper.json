@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.3.11"
+      "miui": "9.3.14"
     },
-    "date": "2019-03-13",
-    "file": "fw_dipper_miui_MI8Global_9.3.11_d54b32a77f_9.0.zip"
+    "date": "2019-03-15",
+    "file": "fw_dipper_miui_MI8Global_9.3.14_bbe30d8307_9.0.zip"
   },
   {
     "codename": "dipper",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "9.3.11"
+      "miui": "9.3.14"
     },
-    "date": "2019-03-13",
-    "file": "fw_dipper_miui_MI8_9.3.11_6c773d860c_9.0.zip"
+    "date": "2019-03-15",
+    "file": "fw_dipper_miui_MI8_9.3.14_c0ec9ae0a8_9.0.zip"
   }
 ]

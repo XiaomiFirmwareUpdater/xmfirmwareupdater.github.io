@@ -1062,5 +1062,47 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/whyred/fw_whyred_miui_HMNote5_9.3.7_7cc17635b1_8.1.zip"
     },
     "filename": "fw_whyred_miui_HMNote5_9.3.7_7cc17635b1_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.21",
+      "android": "8.1"
+    },
+    "date": "2019-03-15",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-22.02.2019/fw_whyred_miui_HMNote5HMNote5ProGlobal_9.2.21_346ceb12fa_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_9.2.21_346ceb12fa_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_9.2.21_346ceb12fa_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.2.21",
+      "android": "8.1"
+    },
+    "date": "2019-03-15",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-22.02.2019/fw_whyred_miui_HMNote5_9.2.21_b82c569919_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/whyred/fw_whyred_miui_HMNote5_9.2.21_b82c569919_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5_9.2.21_b82c569919_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.3.14",
+      "android": "8.1"
+    },
+    "date": "2019-03-15",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-15.03.2019/fw_whyred_miui_HMNote5HMNote5ProGlobal_9.3.14_1c32e7eb80_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_9.3.14_1c32e7eb80_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_9.3.14_1c32e7eb80_8.1.zip"
   }
 ]
