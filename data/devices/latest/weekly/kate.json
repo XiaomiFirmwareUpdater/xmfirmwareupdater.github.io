@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "6.0",
-      "miui": "9.3.14"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-15",
-    "file": "fw_kate_miui_HMNote3ProtwGlobal_9.3.14_4cbf93ed5d_6.0.zip"
+    "date": "2019-03-09",
+    "file": "fw_kate_miui_HMNote3ProtwGlobal_9.3.7_2f00ba247a_6.0.zip"
   },
   {
     "codename": "kate",

@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "9.3.14"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-15",
-    "file": "fw_ugglite_miui_HMNote5ALITEGlobal_9.3.14_d11ab6d6d6_7.1.zip"
+    "date": "2019-03-09",
+    "file": "fw_ugglite_miui_HMNote5ALITEGlobal_9.3.7_0e47e6d92a_7.1.zip"
   },
   {
     "codename": "ugglite",
     "type": "china",
     "versions": {
       "android": "7.1",
-      "miui": "9.3.14"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-15",
-    "file": "fw_ugglite_miui_HMNote5ALITE_9.3.14_6b18399f4e_7.1.zip"
+    "date": "2019-03-09",
+    "file": "fw_ugglite_miui_HMNote5ALITE_9.3.7_9ca41f485f_7.1.zip"
   }
 ]

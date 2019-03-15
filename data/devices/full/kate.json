@@ -488,19 +488,5 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/kate/fw_kate_miui_HMNote3ProtwGlobal_9.3.7_2f00ba247a_6.0.zip"
     },
     "filename": "fw_kate_miui_HMNote3ProtwGlobal_9.3.7_2f00ba247a_6.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "9.3.14",
-      "android": "6.0"
-    },
-    "date": "2019-03-15",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/weekly-15.03.2019/fw_kate_miui_HMNote3ProtwGlobal_9.3.14_4cbf93ed5d_6.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/kate/fw_kate_miui_HMNote3ProtwGlobal_9.3.14_4cbf93ed5d_6.0.zip"
-    },
-    "filename": "fw_kate_miui_HMNote3ProtwGlobal_9.3.14_4cbf93ed5d_6.0.zip"
   }
 ]

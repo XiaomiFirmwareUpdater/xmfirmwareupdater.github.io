@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "9.3.14"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-15",
-    "file": "fw_sagit_miui_MI6Global_9.3.14_0a3949b26e_8.0.zip"
+    "date": "2019-03-09",
+    "file": "fw_sagit_miui_MI6Global_9.3.7_9a7ba1b882_8.0.zip"
   },
   {
     "codename": "sagit",
     "type": "china",
     "versions": {
       "android": "8.0",
-      "miui": "9.3.14"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-15",
-    "file": "fw_sagit_miui_MI6_9.3.14_450f6ffc19_8.0.zip"
+    "date": "2019-03-09",
+    "file": "fw_sagit_miui_MI6_9.3.7_79556aa425_8.0.zip"
   }
 ]

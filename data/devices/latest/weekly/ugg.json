@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "9.3.14"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-15",
-    "file": "fw_ugg_miui_HMNote5AGlobal_9.3.14_1849606ecf_7.1.zip"
+    "date": "2019-03-09",
+    "file": "fw_ugg_miui_HMNote5AGlobal_9.3.7_a772b02109_7.1.zip"
   },
   {
     "codename": "ugg",
     "type": "china",
     "versions": {
       "android": "7.1",
-      "miui": "9.3.14"
+      "miui": "9.3.7"
     },
-    "date": "2019-03-15",
-    "file": "fw_ugg_miui_HMNote5A_9.3.14_21f1384a05_7.1.zip"
+    "date": "2019-03-09",
+    "file": "fw_ugg_miui_HMNote5A_9.3.7_e1a3d7a924_7.1.zip"
   }
 ]

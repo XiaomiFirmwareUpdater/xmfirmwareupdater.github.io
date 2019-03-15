@@ -376,19 +376,5 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/ursa/fw_ursa_miui_MI8Explorer_9.3.7_de966a3fa2_9.0.zip"
     },
     "filename": "fw_ursa_miui_MI8Explorer_9.3.7_de966a3fa2_9.0.zip"
-  },
-  {
-    "branch": "weekly",
-    "versions": {
-      "miui": "9.3.14",
-      "android": "9.0"
-    },
-    "date": "2019-03-15",
-    "type": "China",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-15.03.2019/fw_ursa_miui_MI8Explorer_9.3.14_244b2a3db9_9.0.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/ursa/fw_ursa_miui_MI8Explorer_9.3.14_244b2a3db9_9.0.zip"
-    },
-    "filename": "fw_ursa_miui_MI8Explorer_9.3.14_244b2a3db9_9.0.zip"
   }
 ]
