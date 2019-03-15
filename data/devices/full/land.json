@@ -922,5 +922,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/land/fw_land_miui_HM3S_9.3.7_1a36229e64_6.0.zip"
     },
     "filename": "fw_land_miui_HM3S_9.3.7_1a36229e64_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.3.14",
+      "android": "6.0"
+    },
+    "date": "2019-03-15",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-15.03.2019/fw_land_miui_HM3S_9.3.14_f2411b480a_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/land/fw_land_miui_HM3S_9.3.14_f2411b480a_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3S_9.3.14_f2411b480a_6.0.zip"
   }
 ]

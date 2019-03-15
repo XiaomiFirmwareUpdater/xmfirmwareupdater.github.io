@@ -894,5 +894,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8Global_V10.2.3.0.PEAMIXM_baafb8a2ee_9.0.zip"
     },
     "filename": "fw_dipper_miui_MI8Global_V10.2.3.0.PEAMIXM_baafb8a2ee_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.3.14",
+      "android": "9.0"
+    },
+    "date": "2019-03-15",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-15.03.2019/fw_dipper_miui_MI8_9.3.14_c0ec9ae0a8_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/dipper/fw_dipper_miui_MI8_9.3.14_c0ec9ae0a8_9.0.zip"
+    },
+    "filename": "fw_dipper_miui_MI8_9.3.14_c0ec9ae0a8_9.0.zip"
   }
 ]
