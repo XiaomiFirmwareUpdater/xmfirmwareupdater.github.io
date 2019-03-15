@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "9.3.7"
+      "miui": "9.3.14"
     },
-    "date": "2019-03-09",
-    "file": "fw_rosy_miui_HM5Global_9.3.7_78764cae68_8.1.zip"
+    "date": "2019-03-15",
+    "file": "fw_rosy_miui_HM5Global_9.3.14_7e9851f374_8.1.zip"
   },
   {
     "codename": "rosy",
     "type": "china",
     "versions": {
       "android": "8.1",
-      "miui": "9.3.7"
+      "miui": "9.3.14"
     },
-    "date": "2019-03-09",
-    "file": "fw_rosy_miui_HM5_9.3.7_6d27dbba2c_8.1.zip"
+    "date": "2019-03-15",
+    "file": "fw_rosy_miui_HM5_9.3.14_e7dcb99792_8.1.zip"
   }
 ]
