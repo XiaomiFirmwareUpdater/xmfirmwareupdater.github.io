@@ -1,0 +1,20 @@
+[
+  {
+    "codename": "violet",
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": ""
+  },
+  {
+    "codename": "violet",
+    "type": "china",
+    "versions": {
+      "android": ""
+    },
+    "date": "",
+    "file": ""
+  }
+]
