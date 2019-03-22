@@ -978,5 +978,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/oxygen/fw_oxygen_miui_MIMAX2_9.3.14_34a20de791_7.1.zip"
     },
     "filename": "fw_oxygen_miui_MIMAX2_9.3.14_34a20de791_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.3.21",
+      "android": "7.1"
+    },
+    "date": "2019-03-22",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-22.03.2019/fw_oxygen_miui_MIMAX2_9.3.21_0fef6fe1f2_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/oxygen/fw_oxygen_miui_MIMAX2_9.3.21_0fef6fe1f2_7.1.zip"
+    },
+    "filename": "fw_oxygen_miui_MIMAX2_9.3.21_0fef6fe1f2_7.1.zip"
   }
 ]
