@@ -1118,5 +1118,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/whyred/fw_whyred_miui_HMNote5_9.3.14_18f2f2da2e_8.1.zip"
     },
     "filename": "fw_whyred_miui_HMNote5_9.3.14_18f2f2da2e_8.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.2.0.OEIMIXM",
+      "android": "8.1"
+    },
+    "date": "2019-03-22",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-22.03.2019/fw_whyred_miui_HMNote5HMNote5ProGlobal_V10.2.2.0.OEIMIXM_8be41b2243_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_V10.2.2.0.OEIMIXM_8be41b2243_8.1.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5HMNote5ProGlobal_V10.2.2.0.OEIMIXM_8be41b2243_8.1.zip"
   }
 ]

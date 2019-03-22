@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.3.14"
+      "miui": "9.3.21"
     },
-    "date": "2019-03-15",
-    "file": "fw_platina_miui_MI8LiteGlobal_9.3.14_8d3c1e1102_9.0.zip"
+    "date": "2019-03-22",
+    "file": "fw_platina_miui_MI8LiteGlobal_9.3.21_8706bf79da_9.0.zip"
   },
   {
     "codename": "platina",

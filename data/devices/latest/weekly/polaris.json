@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.2.21"
+      "miui": "9.3.21"
     },
-    "date": "2019-03-15",
-    "file": "fw_polaris_miui_MIMIX2SGlobal_9.2.21_a5e2135c0b_9.0.zip"
+    "date": "2019-03-22",
+    "file": "fw_polaris_miui_MIMIX2SGlobal_9.3.21_f23cd4f461_9.0.zip"
   },
   {
     "codename": "polaris",
