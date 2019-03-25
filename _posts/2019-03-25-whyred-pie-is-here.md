@@ -8,6 +8,8 @@ Surprisingly, the beta build released for both Global and China ROMs closed beta
 
 Because Xiaomi Note 5 (whyred) is a super popular device for custom ROMs users, I've made a special release of those closed beta Pie ROMs Firmware, non-arb Firmware, and Firmware-less ROMs.
 
+**Note**: These ROMSs and Firmwares can't be flashed from the official updater. You'll have to use a custom recovery in order to flash.
+
 Here're the download links:
 - Global Firmware: [Here](https://www.androidfilehost.com/?fid=1395089523397925480)
 - Global non-arb Firmware: [Here](https://www.androidfilehost.com/?fid=1395089523397925477)
