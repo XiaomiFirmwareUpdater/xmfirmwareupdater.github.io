@@ -1,6 +1,6 @@
 ---
 layout: single
-title: MIUI 10 Pie update for Xiaomi Note 5 (whyred) is here + Firmware!
+title: MIUI 10 Pie update for Xiaomi Note 5 (whyred) early builds leaked + Firmware
 ---
 After a long time of waiting for the new update, MIUI 10 Pie build 9.3.25 for Xiaomi Note 5 (whyred) was leaked today.
 
