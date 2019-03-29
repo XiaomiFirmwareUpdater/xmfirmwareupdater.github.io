@@ -502,5 +502,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/prada/fw_prada_miui_HM4_9.3.21_78bac3539d_6.0.zip"
     },
     "filename": "fw_prada_miui_HM4_9.3.21_78bac3539d_6.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.3.28",
+      "android": "6.0"
+    },
+    "date": "2019-03-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada/releases/download/weekly-29.03.2019/fw_prada_miui_HM4_9.3.28_9952a83160_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/prada/fw_prada_miui_HM4_9.3.28_9952a83160_6.0.zip"
+    },
+    "filename": "fw_prada_miui_HM4_9.3.28_9952a83160_6.0.zip"
   }
 ]

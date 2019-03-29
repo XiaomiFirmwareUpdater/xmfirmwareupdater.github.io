@@ -1006,5 +1006,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/chiron/fw_chiron_miui_MIMIX2_9.3.21_60ed4e8ded_8.0.zip"
     },
     "filename": "fw_chiron_miui_MIMIX2_9.3.21_60ed4e8ded_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.3.28",
+      "android": "8.0"
+    },
+    "date": "2019-03-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-29.03.2019/fw_chiron_miui_MIMIX2_9.3.28_ebd7901e5c_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/chiron/fw_chiron_miui_MIMIX2_9.3.28_ebd7901e5c_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_9.3.28_ebd7901e5c_8.0.zip"
   }
 ]
