@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "6.0",
-      "miui": "9.3.21"
+      "miui": "9.3.28"
     },
-    "date": "2019-03-22",
-    "file": "fw_land_miui_HM3SGlobal_9.3.21_0a4e92f56e_6.0.zip"
+    "date": "2019-03-29",
+    "file": "fw_land_miui_HM3SGlobal_9.3.28_aaf3cde076_6.0.zip"
   },
   {
     "codename": "land",

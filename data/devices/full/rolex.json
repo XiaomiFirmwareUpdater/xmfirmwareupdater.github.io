@@ -759,6 +759,20 @@
     "branch": "weekly",
     "versions": {
       "miui": "9.3.28",
+      "android": "7.1"
+    },
+    "date": "2019-03-29",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-29.03.2019/fw_rolex_miui_HM4AGlobal_9.3.28_50c20cf60a_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/rolex/fw_rolex_miui_HM4AGlobal_9.3.28_50c20cf60a_7.1.zip"
+    },
+    "filename": "fw_rolex_miui_HM4AGlobal_9.3.28_50c20cf60a_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.3.28",
       "android": "6.0"
     },
     "date": "2019-03-29",
