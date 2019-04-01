@@ -150,6 +150,12 @@
 	  "global": "yes"
 	},
 	{
+	  "codename": "onclite",
+	  "name": "Redmi 7",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc",
+	  "global": "yes"
+	},
+	{
 	  "codename": "oxygen",
 	  "name": "Mi Max 2",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen",
@@ -256,6 +262,12 @@
 	  "name": "Mi 8 EE",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa",
 	  "global": "no"
+	},
+	{
+	  "codename": "violet",
+	  "name": "Redmi Note 7 Pro",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet",
+	  "global": "yes"
 	},
 	{
 	  "codename": "vince",
