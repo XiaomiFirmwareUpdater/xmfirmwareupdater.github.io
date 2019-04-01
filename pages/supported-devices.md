@@ -83,3 +83,5 @@ permalink: /supported-devices/
 | 357 | CEPHEUS | Mi 9 | cepheus | [Here](https://xiaomifirmwareupdater.com/#stable#cepheus) |
 | 358 | GRUS | Mi 9 SE | grus | [Here](https://xiaomifirmwareupdater.com/#stable#grus) |
 | 361 | CEPHEUSEEAGlobal | Mi 9 Global EEA | cepheus | [Here](https://xiaomifirmwareupdater.com/#stable#cepheus) |
+| 348 | ONCLITE | Redmi 7 China | onc | [Here](https://xiaomifirmwareupdater.com/#stable#onc) |
+| 356 | VIOLET | Redmi Note 7 Pro | violet | [Here](https://xiaomifirmwareupdater.com/#stable#violet) |
