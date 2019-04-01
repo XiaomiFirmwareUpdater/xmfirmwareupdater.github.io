@@ -278,8 +278,8 @@ $("document").ready(function () {
 
 function sortBy(item) {
 	var currentI = $(item)[0].children[0].className;
-	var sortUp = ' <i class="fa fa-sort-up"></i></th>';
-	var sortDown = ' <i class="fa fa-sort-down"></i></th>';
+	var sortUp = ' <i class="fas fa-sort-up"></i></th>';
+	var sortDown = ' <i class="fas fa-sort-down"></i></th>';
 	$($(item)[0].children).remove();
 	currentI.includes("up") ? $(item).append(sortDown) : $(item).append(sortUp);
 	var table = $(item)[0].parentNode.parentNode.parentElement.id;
