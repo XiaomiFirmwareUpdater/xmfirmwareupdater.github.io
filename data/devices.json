@@ -150,7 +150,7 @@
 	  "global": "yes"
 	},
 	{
-	  "codename": "onclite",
+	  "codename": "onc",
 	  "name": "Redmi 7",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc",
 	  "global": "yes"
