@@ -3,18 +3,20 @@
     "codename": "violet",
     "type": "global",
     "versions": {
-      "android": "",
-      "miui": ""
+      "android": "9.0",
+      "miui": "V10.2.7.0.PFHINXM"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-04-01",
+    "file": "fw_violet_miui_VIOLETINGlobal_V10.2.7.0.PFHINXM_4c99677d51_9.0.zip"
   },
   {
     "codename": "violet",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "9.0",
+      "miui": "V10.2.5.0.PFHCNXM"
     },
-    "date": ""
+    "date": "2019-04-01",
+    "file": "fw_violet_miui_VIOLET_V10.2.5.0.PFHCNXM_6b8f26446b_9.0.zip"
   }
 ]

@@ -3,18 +3,20 @@
     "codename": "cepheus",
     "type": "global",
     "versions": {
-      "android": "",
-      "miui": ""
+      "android": "9.0",
+      "miui": "9.3.22"
     },
-    "date": ""
+    "date": "2019-04-01",
+    "file": "fw_cepheus_miui_CEPHEUSGlobal_9.3.22_3f1c865fa0_9.0.zip"
   },
   {
     "codename": "cepheus",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "9.0",
+      "miui": "9.3.22"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-04-01",
+    "file": "fw_cepheus_miui_CEPHEUS_9.3.22_c63654cc2f_9.0.zip"
   }
 ]
