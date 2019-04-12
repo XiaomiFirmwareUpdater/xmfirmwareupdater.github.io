@@ -1070,6 +1070,20 @@
       "android": "8.0"
     },
     "date": "2019-04-12",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-12.04.2019/fw_lithium_miui_MIMIXGlobal_9.4.11_c1ea4e56ec_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.11/lithium/fw_lithium_miui_MIMIXGlobal_9.4.11_c1ea4e56ec_8.0.zip"
+    },
+    "filename": "fw_lithium_miui_MIMIXGlobal_9.4.11_c1ea4e56ec_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.4.11",
+      "android": "8.0"
+    },
+    "date": "2019-04-12",
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-12.04.2019/fw_lithium_miui_MIMIX_9.4.11_a08b3d97c9_8.0.zip",

@@ -958,6 +958,20 @@
       "android": "8.0"
     },
     "date": "2019-04-12",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-12.04.2019/fw_capricorn_miui_MI5SGlobal_9.4.11_b3f16a03f9_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.11/capricorn/fw_capricorn_miui_MI5SGlobal_9.4.11_b3f16a03f9_8.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5SGlobal_9.4.11_b3f16a03f9_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.4.11",
+      "android": "8.0"
+    },
+    "date": "2019-04-12",
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-12.04.2019/fw_capricorn_miui_MI5S_9.4.11_94136ed602_8.0.zip",

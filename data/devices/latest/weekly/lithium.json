@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "9.3.28"
+      "miui": "9.4.11"
     },
-    "date": "2019-03-29",
-    "file": "fw_lithium_miui_MIMIXGlobal_9.3.28_2f5fa59a8b_8.0.zip"
+    "date": "2019-04-12",
+    "file": "fw_lithium_miui_MIMIXGlobal_9.4.11_c1ea4e56ec_8.0.zip"
   },
   {
     "codename": "lithium",
