@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "V10.2.7.0.PFGINXM"
+      "miui": "V10.2.11.0.PFGINXM"
     },
-    "date": "2019-04-01",
-    "file": "fw_lavender_miui_LAVENDERINGlobal_V10.2.7.0.PFGINXM_1b0374cd32_9.0.zip"
+    "date": "2019-04-13",
+    "file": "fw_lavender_miui_LAVENDERINGlobal_V10.2.11.0.PFGINXM_902c58efd1_9.0.zip"
   },
   {
     "codename": "lavender",
