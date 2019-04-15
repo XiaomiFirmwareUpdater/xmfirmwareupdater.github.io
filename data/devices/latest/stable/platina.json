@@ -13,10 +13,10 @@
     "codename": "platina",
     "type": "china",
     "versions": {
-      "android": "8.1",
-      "miui": "V10.2.3.0.ODTCNXM"
+      "android": "9.0",
+      "miui": "V10.2.3.0.PDTCNXM"
     },
-    "date": "2019-01-22",
-    "file": "fw_platina_miui_MI8Lite_V10.2.3.0.ODTCNXM_7200bb8aa9_8.1.zip"
+    "date": "2019-04-15",
+    "file": "fw_platina_miui_MI8Lite_V10.2.3.0.PDTCNXM_d6a7ddabb7_9.0.zip"
   }
 ]

@@ -3,11 +3,11 @@
     "codename": "tulip",
     "type": "global",
     "versions": {
-      "android": "8.1",
-      "miui": "V10.2.2.0.OEKMIXM"
+      "android": "9.0",
+      "miui": "9.4.12"
     },
-    "date": "2019-01-22",
-    "file": "fw_tulip_miui_HMNote6ProGlobal_V10.2.2.0.OEKMIXM_5af4a46864_8.1.zip"
+    "date": "2019-04-15",
+    "file": "fw_tulip_miui_HMNote6ProGlobal_9.4.12_8082110fa3_9.0.zip"
   },
   {
     "codename": "tulip",

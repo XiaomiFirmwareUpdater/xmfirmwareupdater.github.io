@@ -13,10 +13,10 @@
     "codename": "sakura",
     "type": "china",
     "versions": {
-      "android": "8.1",
-      "miui": "V10.0.5.0.ODICNFH"
+      "android": "9.0",
+      "miui": "V10.3.1.0.PDICNXM"
     },
-    "date": "2019-01-23",
-    "file": "fw_sakura_miui_HM6Pro_V10.0.5.0.ODICNFH_b5dae41dc0_8.1.zip"
+    "date": "2019-04-15",
+    "file": "fw_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip"
   }
 ]

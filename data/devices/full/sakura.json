@@ -838,5 +838,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/sakura/fw_sakura_miui_HM6Pro_9.3.28_69893e20a7_9.0.zip"
     },
     "filename": "fw_sakura_miui_HM6Pro_9.3.28_69893e20a7_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.1.0.PDICNXM",
+      "android": "9.0"
+    },
+    "date": "2019-04-15",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-15.04.2019/fw_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip"
+    },
+    "filename": "fw_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.4.12",
+      "android": "9.0"
+    },
+    "date": "2019-04-15",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/weekly-15.04.2019/fw_sakura_miui_HM6Pro_9.4.12_87356b0004_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.12/sakura/fw_sakura_miui_HM6Pro_9.4.12_87356b0004_9.0.zip"
+    },
+    "filename": "fw_sakura_miui_HM6Pro_9.4.12_87356b0004_9.0.zip"
   }
 ]
