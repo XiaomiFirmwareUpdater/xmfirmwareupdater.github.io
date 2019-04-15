@@ -16,6 +16,7 @@ const fs = require('fs');
 var token = process.env.ACCESS_TOKEN;
 var info = [];
 var devices = [];
+var repos = [];
 
 $.ajax({
 	type: 'GET',
@@ -26,16 +27,19 @@ $.ajax({
 	dataType: 'json',
 	success: function (repo) {
 
-		console.log("**** Gathering information of all available repos");
-		fs.writeFile("./../data/repos.json", JSON.stringify(repo, null, 2), function (error) {
-			(error ? console.log(error) : console.log("*** Repos gathered and written to repos.json"));
-		});
-
 		$.each(repo, function (index, value) {
 			if (value.html_url.includes("firmware_xiaomi_")) {
 				var device = value.html_url.replace("https://github.com/XiaomiFirmwareUpdater/", "").replace("firmware_xiaomi_", "");
 				devices.push(device);
+				repos.push({
+						name : value.name
+				});
 			}
+		});
+
+		console.log("**** Gathering information of all available repos");
+		fs.writeFile("./../data/repos.json", JSON.stringify(repos, null, 2), function (error) {
+			(error ? console.log(error) : console.log("*** Repos gathered and written to repos.json"));
 		});
 
 		console.log("*** Gathering information of each available device");
