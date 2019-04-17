@@ -810,5 +810,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.12/nitrogen/fw_nitrogen_miui_MIMAX3_9.4.12_0666fc50b9_9.0.zip"
     },
     "filename": "fw_nitrogen_miui_MIMAX3_9.4.12_0666fc50b9_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.1.0.PEDMIXM",
+      "android": "9.0"
+    },
+    "date": "2019-04-17",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-17.04.2019/fw_nitrogen_miui_MIMAX3Global_V10.3.1.0.PEDMIXM_d4ad519770_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/nitrogen/fw_nitrogen_miui_MIMAX3Global_V10.3.1.0.PEDMIXM_d4ad519770_9.0.zip"
+    },
+    "filename": "fw_nitrogen_miui_MIMAX3Global_V10.3.1.0.PEDMIXM_d4ad519770_9.0.zip"
   }
 ]
