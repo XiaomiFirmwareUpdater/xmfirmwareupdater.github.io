@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.4.12"
+      "miui": "9.4.18"
     },
-    "date": "2019-04-15",
-    "file": "fw_dipper_miui_MI8Global_9.4.12_bc98eb4197_9.0.zip"
+    "date": "2019-04-20",
+    "file": "fw_dipper_miui_MI8Global_9.4.18_5e54fb10cb_9.0.zip"
   },
   {
     "codename": "dipper",

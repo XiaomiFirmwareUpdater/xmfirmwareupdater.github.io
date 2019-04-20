@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.4.12"
+      "miui": "9.4.18"
     },
-    "date": "2019-04-15",
-    "file": "fw_tulip_miui_HMNote6ProGlobal_9.4.12_8082110fa3_9.0.zip"
+    "date": "2019-04-20",
+    "file": "fw_tulip_miui_HMNote6ProGlobal_9.4.18_ade32fc153_9.0.zip"
   },
   {
     "codename": "tulip",
