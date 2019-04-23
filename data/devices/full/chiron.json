@@ -1090,5 +1090,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/chiron/fw_chiron_miui_MIMIX2Global_9.4.18_516f71e655_8.0.zip"
     },
     "filename": "fw_chiron_miui_MIMIX2Global_9.4.18_516f71e655_8.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.1.0.ODECNXM",
+      "android": "8.0"
+    },
+    "date": "2019-04-23",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/stable-23.04.2019/fw_chiron_miui_MIMIX2_V10.3.1.0.ODECNXM_2fecb5a6ab_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/chiron/fw_chiron_miui_MIMIX2_V10.3.1.0.ODECNXM_2fecb5a6ab_8.0.zip"
+    },
+    "filename": "fw_chiron_miui_MIMIX2_V10.3.1.0.ODECNXM_2fecb5a6ab_8.0.zip"
   }
 ]
