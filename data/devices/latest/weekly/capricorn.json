@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "8.0",
-      "miui": "9.4.18"
+      "miui": "9.4.25"
     },
-    "date": "2019-04-20",
-    "file": "fw_capricorn_miui_MI5SGlobal_9.4.18_d02efc84d6_8.0.zip"
+    "date": "2019-04-26",
+    "file": "fw_capricorn_miui_MI5SGlobal_9.4.25_157e70d6ef_8.0.zip"
   },
   {
     "codename": "capricorn",

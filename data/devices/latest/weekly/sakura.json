@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.4.18"
+      "miui": "9.4.25"
     },
-    "date": "2019-04-20",
-    "file": "fw_sakura-india_miui_HM6ProINGlobal_9.4.18_4aa3618ad9_9.0.zip"
+    "date": "2019-04-26",
+    "file": "fw_sakura-india_miui_HM6ProINGlobal_9.4.25_45322f33c6_9.0.zip"
   },
   {
     "codename": "sakura",
