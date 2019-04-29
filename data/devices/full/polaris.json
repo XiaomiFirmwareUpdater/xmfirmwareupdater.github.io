@@ -1062,5 +1062,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/polaris/fw_polaris_miui_MIMIX2SGlobal_9.4.18_7d3190be67_9.0.zip"
     },
     "filename": "fw_polaris_miui_MIMIX2SGlobal_9.4.18_7d3190be67_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.4.26",
+      "android": "9.0"
+    },
+    "date": "2019-04-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-29.04.2019/fw_polaris_miui_MIMIX2S_9.4.26_b76deb92fa_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.26/polaris/fw_polaris_miui_MIMIX2S_9.4.26_b76deb92fa_9.0.zip"
+    },
+    "filename": "fw_polaris_miui_MIMIX2S_9.4.26_b76deb92fa_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.4.26",
+      "android": "9.0"
+    },
+    "date": "2019-04-29",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-29.04.2019/fw_polaris_miui_MIMIX2SGlobal_9.4.26_4f7169939f_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.26/polaris/fw_polaris_miui_MIMIX2SGlobal_9.4.26_4f7169939f_9.0.zip"
+    },
+    "filename": "fw_polaris_miui_MIMIX2SGlobal_9.4.26_4f7169939f_9.0.zip"
   }
 ]
