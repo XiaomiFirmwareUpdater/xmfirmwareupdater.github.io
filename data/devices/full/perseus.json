@@ -544,5 +544,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.26/perseus/fw_perseus_miui_MIMIX3_9.4.26_d338b33524_9.0.zip"
     },
     "filename": "fw_perseus_miui_MIMIX3_9.4.26_d338b33524_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.4.18",
+      "android": "9.0"
+    },
+    "date": "2019-05-05",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-05.05.2019/fw_perseus_miui_MIMIX3_9.4.18_1daa6c8c9e_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/perseus/fw_perseus_miui_MIMIX3_9.4.18_1daa6c8c9e_9.0.zip"
+    },
+    "filename": "fw_perseus_miui_MIMIX3_9.4.18_1daa6c8c9e_9.0.zip"
   }
 ]
