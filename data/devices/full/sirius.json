@@ -516,5 +516,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/sirius/fw_sirius_miui_MI8SE_9.4.25_ccbd80f295_9.0.zip"
     },
     "filename": "fw_sirius_miui_MI8SE_9.4.25_ccbd80f295_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.1.0.PEBCNXM",
+      "android": "9.0"
+    },
+    "date": "2019-05-05",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/stable-05.05.2019/fw_sirius_miui_MI8SE_V10.3.1.0.PEBCNXM_cf5b992dd3_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sirius/fw_sirius_miui_MI8SE_V10.3.1.0.PEBCNXM_cf5b992dd3_9.0.zip"
+    },
+    "filename": "fw_sirius_miui_MI8SE_V10.3.1.0.PEBCNXM_cf5b992dd3_9.0.zip"
   }
 ]
