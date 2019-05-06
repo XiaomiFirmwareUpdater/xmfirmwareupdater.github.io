@@ -266,20 +266,6 @@
     "filename": "fw_tulip_miui_HMNote6ProGlobal_9.3.28_3da411e250_9.0.zip"
   },
   {
-    "branch": "stable",
-    "versions": {
-      "miui": "9.4.12",
-      "android": "9.0"
-    },
-    "date": "2019-04-15",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-15.04.2019/fw_tulip_miui_HMNote6ProGlobal_9.4.12_8082110fa3_9.0.zip",
-      "osdn": "N/A"
-    },
-    "filename": "fw_tulip_miui_HMNote6ProGlobal_9.4.12_8082110fa3_9.0.zip"
-  },
-  {
     "branch": "weekly",
     "versions": {
       "miui": "9.4.12",
