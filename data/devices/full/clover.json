@@ -572,5 +572,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/clover/fw_clover_miui_MIPAD4_V10.2.1.0.ODJCNXM_304a7f24e3_8.1.zip"
     },
     "filename": "fw_clover_miui_MIPAD4_V10.2.1.0.ODJCNXM_304a7f24e3_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.5.9",
+      "android": "8.1"
+    },
+    "date": "2019-05-10",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-10.05.2019/fw_clover_miui_MIPAD4_9.5.9_72a10d56ca_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/clover/fw_clover_miui_MIPAD4_9.5.9_72a10d56ca_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_9.5.9_72a10d56ca_8.1.zip"
   }
 ]
