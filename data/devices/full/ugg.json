@@ -1132,5 +1132,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/ugg/fw_ugg_miui_HMNote5AGlobal_9.5.9_7a3486b0c2_7.1.zip"
     },
     "filename": "fw_ugg_miui_HMNote5AGlobal_9.5.9_7a3486b0c2_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.4.25",
+      "android": "7.1"
+    },
+    "date": "2019-05-13",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-13.05.2019/fw_ugg_miui_HMNote5AGlobal_9.4.25_22bc4f292f_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/ugg/fw_ugg_miui_HMNote5AGlobal_9.4.25_22bc4f292f_7.1.zip"
+    },
+    "filename": "fw_ugg_miui_HMNote5AGlobal_9.4.25_22bc4f292f_7.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.4.25",
+      "android": "7.1"
+    },
+    "date": "2019-05-13",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-13.05.2019/fw_ugg_miui_HMNote5A_9.4.25_3622dc16d8_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/ugg/fw_ugg_miui_HMNote5A_9.4.25_3622dc16d8_7.1.zip"
+    },
+    "filename": "fw_ugg_miui_HMNote5A_9.4.25_3622dc16d8_7.1.zip"
   }
 ]

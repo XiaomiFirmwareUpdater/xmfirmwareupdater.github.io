@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "7.0",
-      "miui": "V10.2.1.0.NBCMIXM"
+      "miui": "V10.2.2.0.NBCMIXM"
     },
-    "date": "2019-01-22",
-    "file": "fw_hydrogen_miui_MIMAXGlobal_V10.2.1.0.NBCMIXM_ad9da6d2de_7.0.zip"
+    "date": "2019-05-13",
+    "file": "fw_hydrogen_miui_MIMAXGlobal_V10.2.2.0.NBCMIXM_642ad81312_7.0.zip"
   },
   {
     "codename": "hydrogen",
     "type": "china",
     "versions": {
       "android": "7.0",
-      "miui": "V10.2.1.0.NBCCNFK"
+      "miui": "V10.2.2.0.NBCCNXM"
     },
-    "date": "2019-01-07",
-    "file": "fw_hydrogen_miui_MIMAX_V10.2.1.0.NBCCNFK_b4079eaa58_7.0.zip"
+    "date": "2019-05-13",
+    "file": "fw_hydrogen_miui_MIMAX_V10.2.2.0.NBCCNXM_b846ebc25a_7.0.zip"
   }
 ]
