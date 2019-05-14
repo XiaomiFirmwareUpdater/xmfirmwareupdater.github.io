@@ -922,5 +922,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/helium/fw_helium_miui_MIMAX652Global_V10.2.2.0.NBDMIXM_f02278dd7c_7.0.zip"
     },
     "filename": "fw_helium_miui_MIMAX652Global_V10.2.2.0.NBDMIXM_f02278dd7c_7.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.2.0.NBDCNXM",
+      "android": "7.0"
+    },
+    "date": "2019-05-14",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/stable-14.05.2019/fw_helium_miui_MIMAX652_V10.2.2.0.NBDCNXM_51a9672120_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/helium/fw_helium_miui_MIMAX652_V10.2.2.0.NBDCNXM_51a9672120_7.0.zip"
+    },
+    "filename": "fw_helium_miui_MIMAX652_V10.2.2.0.NBDCNXM_51a9672120_7.0.zip"
   }
 ]
