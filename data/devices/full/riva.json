@@ -1090,5 +1090,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/riva/fw_riva_miui_HM5A_9.5.9_9f4c7681bf_8.1.zip"
     },
     "filename": "fw_riva_miui_HM5A_9.5.9_9f4c7681bf_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.5.14",
+      "android": "8.1"
+    },
+    "date": "2019-05-15",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-15.05.2019/fw_riva_miui_HM5AGlobal_9.5.14_a37bc5aa66_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.14/riva/fw_riva_miui_HM5AGlobal_9.5.14_a37bc5aa66_8.1.zip"
+    },
+    "filename": "fw_riva_miui_HM5AGlobal_9.5.14_a37bc5aa66_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.5.14",
+      "android": "8.1"
+    },
+    "date": "2019-05-15",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-15.05.2019/fw_riva_miui_HM5A_9.5.14_2a79b3296e_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.14/riva/fw_riva_miui_HM5A_9.5.14_2a79b3296e_8.1.zip"
+    },
+    "filename": "fw_riva_miui_HM5A_9.5.14_2a79b3296e_8.1.zip"
   }
 ]

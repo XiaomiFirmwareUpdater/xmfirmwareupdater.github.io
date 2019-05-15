@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "8.1",
-      "miui": "9.5.9"
+      "miui": "9.5.14"
     },
-    "date": "2019-05-10",
-    "file": "fw_riva_miui_HM5AGlobal_9.5.9_7a51967218_8.1.zip"
+    "date": "2019-05-15",
+    "file": "fw_riva_miui_HM5AGlobal_9.5.14_a37bc5aa66_8.1.zip"
   },
   {
     "codename": "riva",
     "type": "china",
     "versions": {
       "android": "8.1",
-      "miui": "9.5.9"
+      "miui": "9.5.14"
     },
-    "date": "2019-05-10",
-    "file": "fw_riva_miui_HM5A_9.5.9_9f4c7681bf_8.1.zip"
+    "date": "2019-05-15",
+    "file": "fw_riva_miui_HM5A_9.5.14_2a79b3296e_8.1.zip"
   }
 ]
