@@ -12,9 +12,10 @@
     "codename": "violet",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "9.0",
+      "miui": "9.5.16"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-05-17",
+    "file": "fw_violet_miui_VIOLET_9.5.16_6eeb0dcfb8_9.0.zip"
   }
 ]
