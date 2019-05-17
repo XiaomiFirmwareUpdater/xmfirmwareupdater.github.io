@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.9"
+      "miui": "9.5.16"
     },
-    "date": "2019-05-10",
-    "file": "fw_cepheus_miui_CEPHEUSGlobal_9.5.9_2ae48083bf_9.0.zip"
+    "date": "2019-05-17",
+    "file": "fw_cepheus_miui_CEPHEUSGlobal_9.5.16_fa9c66200f_9.0.zip"
   },
   {
     "codename": "cepheus",
