@@ -908,5 +908,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/nitrogen/fw_nitrogen_miui_MIMAX3_9.5.9_c2cf21a1f8_9.0.zip"
     },
     "filename": "fw_nitrogen_miui_MIMAX3_9.5.9_c2cf21a1f8_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.5.16",
+      "android": "9.0"
+    },
+    "date": "2019-05-17",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-17.05.2019/fw_nitrogen_miui_MIMAX3_9.5.16_5b51b0bde9_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/nitrogen/fw_nitrogen_miui_MIMAX3_9.5.16_5b51b0bde9_9.0.zip"
+    },
+    "filename": "fw_nitrogen_miui_MIMAX3_9.5.16_5b51b0bde9_9.0.zip"
   }
 ]

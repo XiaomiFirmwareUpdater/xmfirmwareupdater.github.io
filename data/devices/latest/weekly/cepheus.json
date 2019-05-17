@@ -14,9 +14,9 @@
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.9"
+      "miui": "9.5.16"
     },
-    "date": "2019-05-10",
-    "file": "fw_cepheus_miui_CEPHEUS_9.5.9_c70d71d568_9.0.zip"
+    "date": "2019-05-17",
+    "file": "fw_cepheus_miui_CEPHEUS_9.5.16_52cdcb354a_9.0.zip"
   }
 ]
