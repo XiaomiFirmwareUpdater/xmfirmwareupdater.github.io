@@ -58,20 +58,6 @@
   {
     "branch": "stable",
     "versions": {
-      "miui": "V9.6.14.0.OEJMIFD",
-      "android": "8.1"
-    },
-    "date": "2018-09-21",
-    "type": "Global",
-    "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-21.09.2018/fw_beryllium_miui_BERYLLIUMGlobal_V9.6.14.0.OEJMIFD_9f7f9e0fa4_8.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/beryllium/fw_beryllium_miui_BERYLLIUMGlobal_V9.6.14.0.OEJMIFD_9f7f9e0fa4_8.1.zip"
-    },
-    "filename": "fw_beryllium_miui_BERYLLIUMGlobal_V9.6.14.0.OEJMIFD_9f7f9e0fa4_8.1.zip"
-  },
-  {
-    "branch": "stable",
-    "versions": {
       "miui": "V9.6.22.0.OEJMIFD",
       "android": "8.1"
     },
