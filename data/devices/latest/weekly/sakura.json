@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.9"
+      "miui": "9.5.16"
     },
-    "date": "2019-05-10",
-    "file": "fw_sakura-india_miui_HM6ProINGlobal_9.5.9_7b386e8cca_9.0.zip"
+    "date": "2019-05-17",
+    "file": "fw_sakura-india_miui_HM6ProINGlobal_9.5.16_d51677e915_9.0.zip"
   },
   {
     "codename": "sakura",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.9"
+      "miui": "9.5.16"
     },
-    "date": "2019-05-10",
-    "file": "fw_sakura_miui_HM6Pro_9.5.9_8d423fe112_9.0.zip"
+    "date": "2019-05-17",
+    "file": "fw_sakura_miui_HM6Pro_9.5.16_3cce4ebf66_9.0.zip"
   }
 ]

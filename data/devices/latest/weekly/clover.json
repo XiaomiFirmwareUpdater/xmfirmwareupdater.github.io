@@ -13,9 +13,9 @@
     "type": "china",
     "versions": {
       "android": "8.1",
-      "miui": "9.5.9"
+      "miui": "9.5.16"
     },
-    "date": "2019-05-10",
-    "file": "fw_clover_miui_MIPAD4_9.5.9_72a10d56ca_8.1.zip"
+    "date": "2019-05-17",
+    "file": "fw_clover_miui_MIPAD4_9.5.16_76cfaec40b_8.1.zip"
   }
 ]
