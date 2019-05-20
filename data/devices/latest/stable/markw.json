@@ -3,11 +3,11 @@
     "codename": "markw",
     "type": "global",
     "versions": {
-      "android": "",
-      "miui": ""
+      "android": "6.0",
+      "miui": "V10.2.2.0.MBEMIXM"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-05-20",
+    "file": "fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip"
   },
   {
     "codename": "markw",

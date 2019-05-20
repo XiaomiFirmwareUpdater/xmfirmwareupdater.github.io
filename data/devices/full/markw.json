@@ -432,5 +432,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/markw/fw_markw_miui_HM4Pro_9.3.28_cc2d21bcba_6.0.zip"
     },
     "filename": "fw_markw_miui_HM4Pro_9.3.28_cc2d21bcba_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.2.0.MBEMIXM",
+      "android": "6.0"
+    },
+    "date": "2019-05-20",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/stable-20.05.2019/fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/markw/fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip"
+    },
+    "filename": "fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip"
   }
 ]
