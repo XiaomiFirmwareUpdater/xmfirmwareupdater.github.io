@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.9"
+      "miui": "9.5.23"
     },
-    "date": "2019-05-10",
-    "file": "fw_nitrogen_miui_MIMAX3Global_9.5.9_6198b4136e_9.0.zip"
+    "date": "2019-05-24",
+    "file": "fw_nitrogen_miui_MIMAX3Global_9.5.23_2d7e7d3447_9.0.zip"
   },
   {
     "codename": "nitrogen",
