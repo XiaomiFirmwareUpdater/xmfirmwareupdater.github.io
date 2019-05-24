@@ -1146,5 +1146,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/sagit/fw_sagit_miui_MI6_9.5.16_683d50274b_9.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_9.5.16_683d50274b_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.5.23",
+      "android": "9.0"
+    },
+    "date": "2019-05-24",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-24.05.2019/fw_sagit_miui_MI6_9.5.23_170ad6a413_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/sagit/fw_sagit_miui_MI6_9.5.23_170ad6a413_9.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_9.5.23_170ad6a413_9.0.zip"
   }
 ]

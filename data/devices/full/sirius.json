@@ -558,5 +558,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/sirius/fw_sirius_miui_MI8SE_9.5.16_8a3f088578_9.0.zip"
     },
     "filename": "fw_sirius_miui_MI8SE_9.5.16_8a3f088578_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.5.23",
+      "android": "9.0"
+    },
+    "date": "2019-05-24",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-24.05.2019/fw_sirius_miui_MI8SE_9.5.23_4373786372_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/sirius/fw_sirius_miui_MI8SE_9.5.23_4373786372_9.0.zip"
+    },
+    "filename": "fw_sirius_miui_MI8SE_9.5.23_4373786372_9.0.zip"
   }
 ]
