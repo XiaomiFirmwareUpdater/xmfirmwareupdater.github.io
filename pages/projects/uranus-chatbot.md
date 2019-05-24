@@ -69,6 +69,12 @@ Available commands are:
     <td>/whatis cepheus</td>
   </tr>
   <tr>
+    <td>/specs</td>
+    <td>codename</td>
+    <td>gets this device specs from GSMArena</td>
+    <td>/specs riva</td>
+  </tr>
+  <tr>
     <td>/ota</td>
     <td>full_codename version android</td>
     <td>gets the increment OTA link of MIUI update</td>
