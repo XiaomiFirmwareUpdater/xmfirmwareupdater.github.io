@@ -13,10 +13,10 @@
     "codename": "wayne",
     "type": "china",
     "versions": {
-      "android": "8.1",
-      "miui": "V10.2.5.0.ODCCNXM"
+      "android": "9.0",
+      "miui": "V10.3.3.0.PDCCNXM"
     },
-    "date": "2019-04-23",
-    "file": "fw_wayne_miui_MI6X_V10.2.5.0.ODCCNXM_c8eb7d3dd2_8.1.zip"
+    "date": "2019-05-28",
+    "file": "fw_wayne_miui_MI6X_V10.3.3.0.PDCCNXM_5d7b6bcf29_9.0.zip"
   }
 ]
