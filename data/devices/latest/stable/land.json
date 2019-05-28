@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "6.0",
-      "miui": "V10.2.1.0.MALMIXM"
+      "miui": "V10.2.2.0.MALMIXM"
     },
-    "date": "2019-01-25",
-    "file": "fw_land_miui_HM3SGlobal_V10.2.1.0.MALMIXM_3cf9350233_6.0.zip"
+    "date": "2019-05-28",
+    "file": "fw_land_miui_HM3SGlobal_V10.2.2.0.MALMIXM_919500358f_6.0.zip"
   },
   {
     "codename": "land",

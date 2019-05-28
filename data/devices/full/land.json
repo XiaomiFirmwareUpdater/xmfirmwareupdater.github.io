@@ -1020,5 +1020,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/land/fw_land_miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip"
     },
     "filename": "fw_land_miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.2.0.MALMIXM",
+      "android": "6.0"
+    },
+    "date": "2019-05-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/stable-28.05.2019/fw_land_miui_HM3SGlobal_V10.2.2.0.MALMIXM_919500358f_6.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/land/fw_land_miui_HM3SGlobal_V10.2.2.0.MALMIXM_919500358f_6.0.zip"
+    },
+    "filename": "fw_land_miui_HM3SGlobal_V10.2.2.0.MALMIXM_919500358f_6.0.zip"
   }
 ]
