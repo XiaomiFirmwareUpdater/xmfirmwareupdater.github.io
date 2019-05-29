@@ -42,10 +42,16 @@
 	  "global": "no"
 	},
 	{
+	  "codename": "davinci",
+	  "name": "Redmi K20",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci",
+	  "global": "no"
+	},
+	{
 	  "codename": "dipper",
 	  "name": "Mi 8",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper",
-	  "global": "no"
+	  "global": "yes"
 	},
 	{
 	  "codename": "equuleus",
@@ -111,7 +117,7 @@
 	  "codename": "lavender",
 	  "name": "Redmi Note 7",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender",
-	  "global": "no"
+	  "global": "yes"
 	},
 	{
 	  "codename": "libra",
@@ -129,7 +135,7 @@
 	  "codename": "markw",
 	  "name": "Redmi 4 Prime",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw",
-	  "global": "no"
+	  "global": "yes"
 	},
 	{
 	  "codename": "mido",
@@ -183,6 +189,12 @@
 	  "codename": "prada",
 	  "name": "Redmi 4",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada",
+	  "global": "no"
+	},
+	{
+	  "codename": "raphael",
+	  "name": "Redmi K20 Pro",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael",
 	  "global": "no"
 	},
 	{
