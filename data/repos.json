@@ -145,5 +145,11 @@
   },
   {
     "name": "firmware_xiaomi_onc"
+  },
+  {
+    "name": "firmware_xiaomi_davinci"
+  },
+  {
+    "name": "firmware_xiaomi_raphael"
   }
 ]
