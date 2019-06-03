@@ -152,5 +152,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/violet/fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip"
     },
     "filename": "fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.7.0.PFHINXM",
+      "android": "9.0"
+    },
+    "date": "2019-06-03",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-03.06.2019/fw_violet_miui_VIOLETINGlobal_V10.3.7.0.PFHINXM_ce5c2d34d7_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLETINGlobal_V10.3.7.0.PFHINXM_ce5c2d34d7_9.0.zip"
+    },
+    "filename": "fw_violet_miui_VIOLETINGlobal_V10.3.7.0.PFHINXM_ce5c2d34d7_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.5.30",
+      "android": "9.0"
+    },
+    "date": "2019-06-03",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-03.06.2019/fw_violet_miui_VIOLET_9.5.30_902f53eaa3_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/violet/fw_violet_miui_VIOLET_9.5.30_902f53eaa3_9.0.zip"
+    },
+    "filename": "fw_violet_miui_VIOLET_9.5.30_902f53eaa3_9.0.zip"
   }
 ]
