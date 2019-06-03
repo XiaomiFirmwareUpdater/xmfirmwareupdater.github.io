@@ -13,8 +13,10 @@
     "codename": "raphael",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "9.0",
+      "miui": "V10.3.7.0.PFKCNXM"
     },
-    "date": ""
+    "date": "2019-06-03",
+    "file": "fw_raphael_miui_RAPHAEL_V10.3.7.0.PFKCNXM_8073fd7347_9.0.zip"
   }
 ]
