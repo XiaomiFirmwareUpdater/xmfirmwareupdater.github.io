@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.17"
+      "miui": "9.5.30"
     },
-    "date": "2019-06-03",
-    "file": "fw_perseus_miui_MIMIX3Global_9.5.17_55259d17cd_9.0.zip"
+    "date": "2019-06-04",
+    "file": "fw_perseus_miui_MIMIX3Global_9.5.30_c4ad17b25c_9.0.zip"
   },
   {
     "codename": "perseus",
