@@ -782,5 +782,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/platina/fw_platina_miui_MI8Lite_9.5.30_8de4f20d7a_9.0.zip"
     },
     "filename": "fw_platina_miui_MI8Lite_9.5.30_8de4f20d7a_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.2.0.PDTMIXM",
+      "android": "9.0"
+    },
+    "date": "2019-06-05",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-05.06.2019/fw_platina_miui_MI8LiteGlobal_V10.3.2.0.PDTMIXM_617c09d4b9_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/platina/fw_platina_miui_MI8LiteGlobal_V10.3.2.0.PDTMIXM_617c09d4b9_9.0.zip"
+    },
+    "filename": "fw_platina_miui_MI8LiteGlobal_V10.3.2.0.PDTMIXM_617c09d4b9_9.0.zip"
   }
 ]

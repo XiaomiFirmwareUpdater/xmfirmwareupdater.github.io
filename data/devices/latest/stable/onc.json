@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "V10.3.2.0.PFFINXM"
+      "miui": "V10.3.1.0.PFLMIXM"
     },
-    "date": "2019-05-23",
-    "file": "fw_onc_miui_ONCINGlobal_V10.3.2.0.PFFINXM_2e1cef855e_9.0.zip"
+    "date": "2019-06-05",
+    "file": "fw_onc_miui_ONCLITEGlobal_V10.3.1.0.PFLMIXM_74b410142d_9.0.zip"
   },
   {
     "codename": "onc",
