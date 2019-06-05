@@ -1244,5 +1244,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.4/dipper/fw_dipper_miui_MI8_9.6.4_022eca5512_9.0.zip"
     },
     "filename": "fw_dipper_miui_MI8_9.6.4_022eca5512_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.6.4",
+      "android": "9.0"
+    },
+    "date": "2019-06-05",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-06.06.2019/fw_dipper_miui_MI8Global_9.6.4_770fdbd307_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.4/dipper/fw_dipper_miui_MI8Global_9.6.4_770fdbd307_9.0.zip"
+    },
+    "filename": "fw_dipper_miui_MI8Global_9.6.4_770fdbd307_9.0.zip"
   }
 ]
