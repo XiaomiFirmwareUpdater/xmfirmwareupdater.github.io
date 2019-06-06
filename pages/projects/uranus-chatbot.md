@@ -57,6 +57,12 @@ Available commands are:
     <td>/firmware dipper</td>
   </tr>
   <tr>
+    <td>/vendor</td>
+    <td>codename</td>
+    <td>gets latest firmware+vendor for device, based on @MIUIVendorUpdater</td>
+    <td>/vendor davinci</td>
+  </tr>
+  <tr>
     <td>/models</td>
     <td>codename</td>
     <td>gets info about all available models of a device</td>
