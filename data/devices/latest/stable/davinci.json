@@ -3,11 +3,11 @@
     "codename": "davinci",
     "type": "global",
     "versions": {
-      "android": "",
-      "miui": ""
+      "android": "9.0",
+      "miui": "V10.3.5.0.PFJMIXM"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-06-06",
+    "file": "fw_davinci_miui_DAVINCIGlobal_V10.3.5.0.PFJMIXM_7d69a41fb1_9.0.zip"
   },
   {
     "codename": "davinci",
