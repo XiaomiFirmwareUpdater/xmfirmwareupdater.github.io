@@ -43,9 +43,9 @@
 	},
 	{
 	  "codename": "davinci",
-	  "name": "Redmi K20",
+	  "name": "Mi 9T/Redmi K20",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci",
-	  "global": "no"
+	  "global": "yes"
 	},
 	{
 	  "codename": "dipper",
@@ -157,7 +157,7 @@
 	},
 	{
 	  "codename": "onc",
-	  "name": "Redmi 7",
+	  "name": "Redmi 7/Y3",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc",
 	  "global": "yes"
 	},
@@ -295,7 +295,7 @@
 	},
 	{
 	  "codename": "whyred",
-	  "name": "Note 5 / Pro",
+	  "name": "Redmi Note 5/Pro",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred",
 	  "global": "yes"
 	},
