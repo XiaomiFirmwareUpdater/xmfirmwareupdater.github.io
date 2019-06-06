@@ -3,11 +3,11 @@
     "codename": "whyred",
     "type": "global",
     "versions": {
-      "android": "8.1",
-      "miui": "V10.3.1.0.OEIMIXM"
+      "android": "9.0",
+      "miui": "V10.3.1.0.PEIMIXM"
     },
-    "date": "2019-05-20",
-    "file": "fw_whyred_miui_HMNote5HMNote5ProGlobal_V10.3.1.0.OEIMIXM_a823482d8d_8.1.zip"
+    "date": "2019-06-06",
+    "file": "fw_whyred_miui_HMNote5Global_V10.3.1.0.PEIMIXM_d4d2c9f2aa_9.0.zip"
   },
   {
     "codename": "whyred",
