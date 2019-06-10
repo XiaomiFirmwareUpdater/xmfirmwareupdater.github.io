@@ -13,10 +13,10 @@
     "codename": "whyred",
     "type": "china",
     "versions": {
-      "android": "8.1",
-      "miui": "V10.3.4.0.OEICNXM"
+      "android": "9.0",
+      "miui": "V10.3.1.0.PEICNXM"
     },
-    "date": "2019-04-23",
-    "file": "fw_whyred_miui_HMNote5_V10.3.4.0.OEICNXM_835a714c63_8.1.zip"
+    "date": "2019-06-10",
+    "file": "fw_whyred_miui_HMNote5_V10.3.1.0.PEICNXM_38eb804e2b_9.0.zip"
   }
 ]
