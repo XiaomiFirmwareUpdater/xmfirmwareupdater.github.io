@@ -86,3 +86,7 @@ permalink: /supported-devices/
 | 348 | ONCLITE | Redmi 7 China | onc | [Here](https://xiaomifirmwareupdater.com/#stable#onc) |
 | --- | DAVINCI | Redmi K20 | davinci | [Here](https://xiaomifirmwareupdater.com/#stable#davinci) |
 | --- | RAPHAEL | Redmi K20 Pro | raphael | [Here](https://xiaomifirmwareupdater.com/#stable#raphael) |
+| --- | ONC | Redmi Y3 | onc | [Here](https://xiaomifirmwareupdater.com/#stable#onc) |
+| --- | GRUSGlobal | Mi 9 SE Global | grus | [Here](https://xiaomifirmwareupdater.com/#stable#grus) |
+| --- | DAVINCIGlobal | Mi 9T | davinci | [Here](https://xiaomifirmwareupdater.com/#stable#davinci) |
+| --- | ANDROMEDA | Mi MIX 3 5G | andromeda | [Here](https://xiaomifirmwareupdater.com/#stable#andromeda) |

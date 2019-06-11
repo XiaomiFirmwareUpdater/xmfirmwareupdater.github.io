@@ -1,5 +1,11 @@
 [
 	{
+	  "codename": "andromeda",
+	  "name": "Mi MIX 3 5G",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda",
+	  "global": "no"
+	},
+	{
 	  "codename": "aqua",
 	  "name": "Mi 4S",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua",
