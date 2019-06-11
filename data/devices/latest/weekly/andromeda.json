@@ -1,0 +1,20 @@
+[
+  {
+    "codename": "andromeda",
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": ""
+  },
+  {
+    "codename": "andromeda",
+    "type": "china",
+    "versions": {
+      "android": ""
+    },
+    "date": "",
+    "file": ""
+  }
+]

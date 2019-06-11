@@ -151,5 +151,8 @@
   },
   {
     "name": "firmware_xiaomi_raphael"
+  },
+  {
+    "name": "firmware_xiaomi_andromeda"
   }
 ]
