@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "V10.3.1.0.PEDMIXM"
+      "miui": "V10.3.2.0.PEDMIXM"
     },
-    "date": "2019-04-17",
-    "file": "fw_nitrogen_miui_MIMAX3Global_V10.3.1.0.PEDMIXM_d4ad519770_9.0.zip"
+    "date": "2019-06-12",
+    "file": "fw_nitrogen_miui_MIMAX3Global_V10.3.2.0.PEDMIXM_4afd841f89_9.0.zip"
   },
   {
     "codename": "nitrogen",
