@@ -63,6 +63,12 @@ Available commands are:
     <td>/vendor davinci</td>
   </tr>
   <tr>
+    <td>/eu</td>
+    <td>codename</td>
+    <td>gets latest Xiaomi EU ROMs downloads for device</td>
+    <td>/eu mido</td>
+  </tr>
+  <tr>
     <td>/models</td>
     <td>codename</td>
     <td>gets info about all available models of a device</td>
