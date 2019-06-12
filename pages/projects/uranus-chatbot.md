@@ -75,6 +75,12 @@ Available commands are:
     <td>/whatis cepheus</td>
   </tr>
   <tr>
+    <td>/codename</td>
+    <td>device name</td>
+    <td>tells you what is the codename of this device</td>
+    <td>/codename Redmi 6</td>
+  </tr>
+  <tr>
     <td>/specs</td>
     <td>codename</td>
     <td>gets this device specs from GSMArena</td>
