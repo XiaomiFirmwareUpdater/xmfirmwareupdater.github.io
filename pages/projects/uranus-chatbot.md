@@ -69,6 +69,12 @@ Available commands are:
     <td>/eu mido</td>
   </tr>
   <tr>
+    <td>/twrp</td>
+    <td>codename</td>
+    <td>gets latest TWRP download link for device</td>
+    <td>/twrp whyred</td>
+  </tr>
+  <tr>
     <td>/models</td>
     <td>codename</td>
     <td>gets info about all available models of a device</td>
@@ -103,6 +109,30 @@ Available commands are:
     <td>full_codename version android</td>
     <td>gets the changelog of a MIUI update</td>
     <td>/changelog whyred_global V10.3.1.0.OEIMIXM 8.1</td>
+  </tr>
+  <tr>
+    <td>/guides</td>
+    <td>-</td>
+    <td>Various useful guides for every Xiaomi user</td>
+    <td>/guides</td>
+  </tr>
+  <tr>
+    <td>/unlockbl</td>
+    <td>-</td>
+    <td>Unlocking bootloader help and tools</td>
+    <td>/unlockbl</td>
+  </tr>
+  <tr>
+    <td>/tools</td>
+    <td>-</td>
+    <td>Various useful tools for every Xiaomi user</td>
+    <td>/tools</td>
+  </tr>
+  <tr>
+    <td>/arb</td>
+    <td>-</td>
+    <td>Anti-Rollback Protection information</td>
+    <td>/arb</td>
   </tr>
 </table>
 
