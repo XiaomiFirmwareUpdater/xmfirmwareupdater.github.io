@@ -1238,6 +1238,20 @@
       "android": "9.0"
     },
     "date": "2019-06-14",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-14.06.2019/fw_sagit_miui_MI6Global_9.6.13_c3d8b73143_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/sagit/fw_sagit_miui_MI6Global_9.6.13_c3d8b73143_9.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6Global_9.6.13_c3d8b73143_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.6.13",
+      "android": "9.0"
+    },
+    "date": "2019-06-14",
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-14.06.2019/fw_sagit_miui_MI6_9.6.13_83becddc54_9.0.zip",

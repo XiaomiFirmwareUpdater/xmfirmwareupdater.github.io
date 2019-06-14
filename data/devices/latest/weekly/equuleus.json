@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.30"
+      "miui": "9.6.13"
     },
-    "date": "2019-05-31",
-    "file": "fw_equuleus_miui_MI8UDGlobal_9.5.30_899c25d962_9.0.zip"
+    "date": "2019-06-14",
+    "file": "fw_equuleus_miui_MI8UDGlobal_9.6.13_8eafa90158_9.0.zip"
   },
   {
     "codename": "equuleus",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.30"
+      "miui": "9.6.13"
     },
-    "date": "2019-05-31",
-    "file": "fw_equuleus_miui_MI8UD_9.5.30_8718c17931_9.0.zip"
+    "date": "2019-06-14",
+    "file": "fw_equuleus_miui_MI8UD_9.6.13_b055e4306a_9.0.zip"
   }
 ]
