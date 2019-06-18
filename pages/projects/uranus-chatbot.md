@@ -75,6 +75,18 @@ Available commands are:
     <td>/twrp whyred</td>
   </tr>
   <tr>
+    <td>/pb</td>
+    <td>codename</td>
+    <td>gets latest PitchBlack recovery download link for device</td>
+    <td>/pb mido</td>
+  </tr>
+  <tr>
+    <td>/of</td>
+    <td>codename</td>
+    <td>gets latest OrangeFox recovery download link for device</td>
+    <td>/of dipper</td>
+  </tr>
+  <tr>
     <td>/models</td>
     <td>codename</td>
     <td>gets info about all available models of a device</td>
