@@ -13,8 +13,10 @@
     "codename": "pine",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "9.0",
+      "miui": "V10.2.6.0.PCMCNXM"
     },
-    "date": ""
+    "date": "2019-06-18",
+    "file": "fw_pine_miui_PINE_V10.2.6.0.PCMCNXM_accd34296f_9.0.zip"
   }
 ]
