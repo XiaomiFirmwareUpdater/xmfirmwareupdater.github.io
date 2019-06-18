@@ -180,6 +180,12 @@
 	  "global": "yes"
 	},
 	{
+	  "codename": "pine",
+	  "name": "Redmi 7A",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine",
+	  "global": "no"
+	},
+	{
 	  "codename": "platina",
 	  "name": "Mi 8 Lite",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina",

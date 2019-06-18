@@ -84,9 +84,10 @@ permalink: /supported-devices/
 | 358 | GRUS | Mi 9 SE | grus | [Here](https://xiaomifirmwareupdater.com/#stable#grus) |
 | 361 | CEPHEUSEEAGlobal | Mi 9 Global EEA | cepheus | [Here](https://xiaomifirmwareupdater.com/#stable#cepheus) |
 | 348 | ONCLITE | Redmi 7 China | onc | [Here](https://xiaomifirmwareupdater.com/#stable#onc) |
-| --- | DAVINCI | Redmi K20 | davinci | [Here](https://xiaomifirmwareupdater.com/#stable#davinci) |
-| --- | RAPHAEL | Redmi K20 Pro | raphael | [Here](https://xiaomifirmwareupdater.com/#stable#raphael) |
-| --- | ONC | Redmi Y3 | onc | [Here](https://xiaomifirmwareupdater.com/#stable#onc) |
-| --- | GRUSGlobal | Mi 9 SE Global | grus | [Here](https://xiaomifirmwareupdater.com/#stable#grus) |
+| 360 | DAVINCI | Redmi K20 | davinci | [Here](https://xiaomifirmwareupdater.com/#stable#davinci) |
+| 360 | RAPHAEL | Redmi K20 Pro | raphael | [Here](https://xiaomifirmwareupdater.com/#stable#raphael) |
+| 367 | ONC | Redmi Y3 | onc | [Here](https://xiaomifirmwareupdater.com/#stable#onc) |
+| 361 | GRUSGlobal | Mi 9 SE Global | grus | [Here](https://xiaomifirmwareupdater.com/#stable#grus) |
 | --- | DAVINCIGlobal | Mi 9T | davinci | [Here](https://xiaomifirmwareupdater.com/#stable#davinci) |
 | --- | ANDROMEDA | Mi MIX 3 5G | andromeda | [Here](https://xiaomifirmwareupdater.com/#stable#andromeda) |
+| --- | PINE | Redmi 7A | pine | [Here](https://xiaomifirmwareupdater.com/#stable#pine) |
