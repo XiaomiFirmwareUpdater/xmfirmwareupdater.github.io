@@ -68,5 +68,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUSGlobal_V10.2.2.0.PFBMIXM_b4cc336f0d_9.0.zip"
     },
     "filename": "fw_grus_miui_GRUSGlobal_V10.2.2.0.PFBMIXM_b4cc336f0d_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.3.0.PFBCNXM",
+      "android": "9.0"
+    },
+    "date": "2019-06-18",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-18.06.2019/fw_grus_miui_GRUS_V10.3.3.0.PFBCNXM_3dcc2884fc_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUS_V10.3.3.0.PFBCNXM_3dcc2884fc_9.0.zip"
+    },
+    "filename": "fw_grus_miui_GRUS_V10.3.3.0.PFBCNXM_3dcc2884fc_9.0.zip"
   }
 ]
