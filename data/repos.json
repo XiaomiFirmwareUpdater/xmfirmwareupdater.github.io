@@ -154,5 +154,8 @@
   },
   {
     "name": "firmware_xiaomi_andromeda"
+  },
+  {
+    "name": "firmware_xiaomi_pine"
   }
 ]
