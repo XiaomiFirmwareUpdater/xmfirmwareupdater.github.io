@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.6.13"
+      "miui": "9.6.20"
     },
-    "date": "2019-06-14",
-    "file": "fw_whyred_miui_HMNote5Global_9.6.13_1e6a574d41_9.0.zip"
+    "date": "2019-06-22",
+    "file": "fw_whyred_miui_HMNote5Global_9.6.20_9d5e732488_9.0.zip"
   },
   {
     "codename": "whyred",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "9.6.13"
+      "miui": "9.6.20"
     },
-    "date": "2019-06-14",
-    "file": "fw_whyred_miui_HMNote5_9.6.13_1e7349f9b5_9.0.zip"
+    "date": "2019-06-22",
+    "file": "fw_whyred_miui_HMNote5_9.6.20_d3eb24cf22_9.0.zip"
   }
 ]

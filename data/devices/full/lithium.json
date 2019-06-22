@@ -1272,5 +1272,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/lithium/fw_lithium_miui_MIMIX_9.6.13_50dc036767_8.0.zip"
     },
     "filename": "fw_lithium_miui_MIMIX_9.6.13_50dc036767_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.6.20",
+      "android": "8.0"
+    },
+    "date": "2019-06-22",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-22.06.2019/fw_lithium_miui_MIMIXGlobal_9.6.20_f7a6a1c1e6_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/lithium/fw_lithium_miui_MIMIXGlobal_9.6.20_f7a6a1c1e6_8.0.zip"
+    },
+    "filename": "fw_lithium_miui_MIMIXGlobal_9.6.20_f7a6a1c1e6_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.6.20",
+      "android": "8.0"
+    },
+    "date": "2019-06-22",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-22.06.2019/fw_lithium_miui_MIMIX_9.6.20_4f59373a4a_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/lithium/fw_lithium_miui_MIMIX_9.6.20_4f59373a4a_8.0.zip"
+    },
+    "filename": "fw_lithium_miui_MIMIX_9.6.20_4f59373a4a_8.0.zip"
   }
 ]

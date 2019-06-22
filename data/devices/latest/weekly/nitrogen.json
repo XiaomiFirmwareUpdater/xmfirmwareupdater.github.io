@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.6.13"
+      "miui": "9.6.20"
     },
-    "date": "2019-06-14",
-    "file": "fw_nitrogen_miui_MIMAX3Global_9.6.13_d6aa54e9b1_9.0.zip"
+    "date": "2019-06-22",
+    "file": "fw_nitrogen_miui_MIMAX3Global_9.6.20_3766fcb2a4_9.0.zip"
   },
   {
     "codename": "nitrogen",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "9.6.13"
+      "miui": "9.6.20"
     },
-    "date": "2019-06-14",
-    "file": "fw_nitrogen_miui_MIMAX3_9.6.13_edf6193d4d_9.0.zip"
+    "date": "2019-06-22",
+    "file": "fw_nitrogen_miui_MIMAX3_9.6.20_c90eebe1d3_9.0.zip"
   }
 ]

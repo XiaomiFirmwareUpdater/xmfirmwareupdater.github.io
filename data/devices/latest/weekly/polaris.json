@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.17"
+      "miui": "9.6.20"
     },
-    "date": "2019-05-20",
-    "file": "fw_polaris_miui_MIMIX2SGlobal_9.5.17_d62a4156e3_9.0.zip"
+    "date": "2019-06-22",
+    "file": "fw_polaris_miui_MIMIX2SGlobal_9.6.20_ad8453dd1c_9.0.zip"
   },
   {
     "codename": "polaris",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "9.6.13"
+      "miui": "9.6.20"
     },
-    "date": "2019-06-18",
-    "file": "fw_polaris_miui_MIMIX2S_9.6.13_2c80a49eb2_9.0.zip"
+    "date": "2019-06-22",
+    "file": "fw_polaris_miui_MIMIX2S_9.6.20_6624c62593_9.0.zip"
   }
 ]

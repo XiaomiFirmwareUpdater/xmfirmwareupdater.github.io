@@ -208,5 +208,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/violet/fw_violet_miui_VIOLET_9.6.13_1e08cec4a6_9.0.zip"
     },
     "filename": "fw_violet_miui_VIOLET_9.6.13_1e08cec4a6_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.6.20",
+      "android": "9.0"
+    },
+    "date": "2019-06-22",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-22.06.2019/fw_violet_miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/violet/fw_violet_miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip"
+    },
+    "filename": "fw_violet_miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip"
   }
 ]

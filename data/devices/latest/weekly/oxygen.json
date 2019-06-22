@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "9.6.13"
+      "miui": "9.6.20"
     },
-    "date": "2019-06-14",
-    "file": "fw_oxygen_miui_MIMAX2Global_9.6.13_361a0f3d38_7.1.zip"
+    "date": "2019-06-22",
+    "file": "fw_oxygen_miui_MIMAX2Global_9.6.20_a0c9ec8427_7.1.zip"
   },
   {
     "codename": "oxygen",
     "type": "china",
     "versions": {
       "android": "7.1",
-      "miui": "9.6.13"
+      "miui": "9.6.20"
     },
-    "date": "2019-06-14",
-    "file": "fw_oxygen_miui_MIMAX2_9.6.13_15734717de_7.1.zip"
+    "date": "2019-06-22",
+    "file": "fw_oxygen_miui_MIMAX2_9.6.20_523bc71ceb_7.1.zip"
   }
 ]

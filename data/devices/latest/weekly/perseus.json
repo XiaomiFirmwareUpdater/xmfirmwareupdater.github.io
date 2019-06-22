@@ -4,19 +4,19 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.30"
+      "miui": "9.6.20"
     },
-    "date": "2019-06-04",
-    "file": "fw_perseus_miui_MIMIX3Global_9.5.30_c4ad17b25c_9.0.zip"
+    "date": "2019-06-22",
+    "file": "fw_perseus_miui_MIMIX3Global_9.6.20_40ac4c43d4_9.0.zip"
   },
   {
     "codename": "perseus",
     "type": "china",
     "versions": {
       "android": "9.0",
-      "miui": "9.5.30"
+      "miui": "9.6.20"
     },
-    "date": "2019-06-04",
-    "file": "fw_perseus_miui_MIMIX3_9.5.30_986b182855_9.0.zip"
+    "date": "2019-06-22",
+    "file": "fw_perseus_miui_MIMIX3_9.6.20_cef3b50038_9.0.zip"
   }
 ]
