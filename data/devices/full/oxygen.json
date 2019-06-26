@@ -1300,5 +1300,33 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/oxygen/fw_oxygen_miui_MIMAX2_9.6.20_523bc71ceb_7.1.zip"
     },
     "filename": "fw_oxygen_miui_MIMAX2_9.6.20_523bc71ceb_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.1.0.NDDMIXM",
+      "android": "7.1"
+    },
+    "date": "2019-06-26",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-26.06.2019/fw_oxygen_miui_MIMAX2Global_V10.3.1.0.NDDMIXM_bb9a580717_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/oxygen/fw_oxygen_miui_MIMAX2Global_V10.3.1.0.NDDMIXM_bb9a580717_7.1.zip"
+    },
+    "filename": "fw_oxygen_miui_MIMAX2Global_V10.3.1.0.NDDMIXM_bb9a580717_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.1.0.NDDCNXM",
+      "android": "7.1"
+    },
+    "date": "2019-06-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-26.06.2019/fw_oxygen_miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/oxygen/fw_oxygen_miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip"
+    },
+    "filename": "fw_oxygen_miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip"
   }
 ]
