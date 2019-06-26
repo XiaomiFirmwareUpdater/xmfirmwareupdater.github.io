@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "V10.3.4.0.PEJMIXM"
+      "miui": "V10.3.5.0.PEJMIXM"
     },
-    "date": "2019-04-10",
-    "file": "fw_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip"
+    "date": "2019-06-26",
+    "file": "fw_beryllium_miui_POCOF1Global_V10.3.5.0.PEJMIXM_720eb4ed35_9.0.zip"
   },
   {
     "codename": "beryllium",
