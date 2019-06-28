@@ -600,5 +600,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/tiffany/fw_tiffany_miui_MI5X_9.6.20_7d10aaf581_8.1.zip"
     },
     "filename": "fw_tiffany_miui_MI5X_9.6.20_7d10aaf581_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.6.27",
+      "android": "8.1"
+    },
+    "date": "2019-06-28",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-28.06.2019/fw_tiffany_miui_MI5X_9.6.27_0786a6e1fd_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/tiffany/fw_tiffany_miui_MI5X_9.6.27_0786a6e1fd_8.1.zip"
+    },
+    "filename": "fw_tiffany_miui_MI5X_9.6.27_0786a6e1fd_8.1.zip"
   }
 ]
