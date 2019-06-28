@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "9.6.20"
+      "miui": "9.6.27"
     },
-    "date": "2019-06-22",
-    "file": "fw_beryllium_miui_POCOF1Global_9.6.20_b7537712ad_9.0.zip"
+    "date": "2019-06-28",
+    "file": "fw_beryllium_miui_POCOF1Global_9.6.27_6673f8a455_9.0.zip"
   },
   {
     "codename": "beryllium",

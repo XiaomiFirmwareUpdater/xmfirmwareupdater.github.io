@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "7.1",
-      "miui": "9.6.20"
+      "miui": "9.6.27"
     },
-    "date": "2019-06-22",
-    "file": "fw_santoni_miui_HM4XGlobal_9.6.20_932cddd7a8_7.1.zip"
+    "date": "2019-06-28",
+    "file": "fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip"
   },
   {
     "codename": "santoni",

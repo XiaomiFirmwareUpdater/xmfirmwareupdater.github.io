@@ -1196,6 +1196,20 @@
       "android": "8.1"
     },
     "date": "2019-06-28",
+    "type": "Global",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/weekly-28.06.2019/fw_rosy_miui_HM5Global_9.6.27_6563908eef_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/rosy/fw_rosy_miui_HM5Global_9.6.27_6563908eef_8.1.zip"
+    },
+    "filename": "fw_rosy_miui_HM5Global_9.6.27_6563908eef_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.6.27",
+      "android": "8.1"
+    },
+    "date": "2019-06-28",
     "type": "China",
     "downloads": {
       "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/weekly-28.06.2019/fw_rosy_miui_HM5_9.6.27_5511093f3f_8.1.zip",
