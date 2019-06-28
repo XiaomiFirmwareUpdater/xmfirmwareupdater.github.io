@@ -13,10 +13,10 @@
     "codename": "jason",
     "type": "china",
     "versions": {
-      "android": "8.1",
-      "miui": "9.5.16"
+      "android": "9.0",
+      "miui": "9.6.27"
     },
-    "date": "2019-05-17",
-    "file": "fw_jason_miui_MINote3_9.5.16_37e37caaa1_8.1.zip"
+    "date": "2019-06-28",
+    "file": "fw_jason_miui_MINote3_9.6.27_cbd74a3e59_9.0.zip"
   }
 ]
