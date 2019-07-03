@@ -3,7 +3,7 @@
 	  "codename": "andromeda",
 	  "name": "Mi MIX 3 5G",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda",
-	  "global": "no"
+	  "global": "yes"
 	},
 	{
 	  "codename": "aqua",
@@ -51,6 +51,12 @@
 	  "codename": "davinci",
 	  "name": "Mi 9T/Redmi K20",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci",
+	  "global": "yes"
+	},
+	{
+	  "codename": "davinciin",
+	  "name": "Mi 9T India",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinciin",
 	  "global": "yes"
 	},
 	{
@@ -204,6 +210,12 @@
 	  "global": "no"
 	},
 	{
+	  "codename": "pyxis",
+	  "name": "Mi CC 9",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis",
+	  "global": "no"
+	},
+	{
 	  "codename": "raphael",
 	  "name": "Redmi K20 Pro",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael",
@@ -285,6 +297,12 @@
 	  "codename": "ursa",
 	  "name": "Mi 8 EE",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa",
+	  "global": "no"
+	},
+	{
+	  "codename": "vela",
+	  "name": "Mi CC 9 Meitu",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela",
 	  "global": "no"
 	},
 	{
