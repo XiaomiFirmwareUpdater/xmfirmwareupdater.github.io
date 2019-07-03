@@ -1,0 +1,22 @@
+[
+  {
+    "codename": "vela",
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": "",
+    "file": ""
+  },
+  {
+    "codename": "vela",
+    "type": "china",
+    "versions": {
+      "android": "9.0",
+      "miui": "V10.3.1.0.PFECNXM"
+    },
+    "date": "2019-07-03",
+    "file": "fw_vela_miui_VELA_V10.3.1.0.PFECNXM_215f256089_9.0.zip"
+  }
+]

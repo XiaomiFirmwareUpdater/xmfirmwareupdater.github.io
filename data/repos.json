@@ -157,5 +157,17 @@
   },
   {
     "name": "firmware_xiaomi_pine"
+  },
+  {
+    "name": "firmware_xiaomi_pyxis"
+  },
+  {
+    "name": "firmware_xiaomi_vela"
+  },
+  {
+    "name": "firmware_xiaomi_laurus"
+  },
+  {
+    "name": "firmware_xiaomi_davinciin"
   }
 ]
