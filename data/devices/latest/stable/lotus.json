@@ -3,18 +3,20 @@
     "codename": "lotus",
     "type": "global",
     "versions": {
-      "android": "",
-      "miui": ""
+      "android": "8.1",
+      "miui": "V10.2.5.0.OFIMIXM"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-07-05",
+    "file": "fw_lotus_miui_MIPLAYGlobal_V10.2.5.0.OFIMIXM_fcc94aedaa_8.1.zip"
   },
   {
     "codename": "lotus",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "8.1",
+      "miui": "V10.3.3.0.OFICNXM"
     },
-    "date": ""
+    "date": "2019-07-05",
+    "file": "fw_lotus_miui_MIPLAY_V10.3.3.0.OFICNXM_a3753aeffc_8.1.zip"
   }
 ]

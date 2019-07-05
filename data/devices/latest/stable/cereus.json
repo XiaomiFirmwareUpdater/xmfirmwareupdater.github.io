@@ -3,18 +3,20 @@
     "codename": "cereus",
     "type": "global",
     "versions": {
-      "android": "",
-      "miui": ""
+      "android": "8.1",
+      "miui": "V10.3.3.0.OCGMIXM"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-07-05",
+    "file": "fw_cereus_miui_HM6Global_V10.3.3.0.OCGMIXM_9d227cc73a_8.1.zip"
   },
   {
     "codename": "cereus",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "8.1",
+      "miui": "V10.3.4.0.OCGCNXM"
     },
-    "date": ""
+    "date": "2019-07-05",
+    "file": "fw_cereus_miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip"
   }
 ]

@@ -3,18 +3,20 @@
     "codename": "cactus",
     "type": "global",
     "versions": {
-      "android": "",
-      "miui": ""
+      "android": "8.1",
+      "miui": "V10.3.3.0.OCBMIXM"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-07-05",
+    "file": "fw_cactus_miui_HM6AGlobal_V10.3.3.0.OCBMIXM_5afbee38d0_8.1.zip"
   },
   {
     "codename": "cactus",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "8.1",
+      "miui": "V10.3.4.0.OCBCNXM"
     },
-    "date": ""
+    "date": "2019-07-05",
+    "file": "fw_cactus_miui_HM6A_V10.3.4.0.OCBCNXM_7a4230191a_8.1.zip"
   }
 ]
