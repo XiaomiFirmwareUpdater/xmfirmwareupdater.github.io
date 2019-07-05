@@ -13,8 +13,10 @@
     "codename": "laurus",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "9.0",
+      "miui": "V10.2.7.0.PFMCNXM"
     },
-    "date": ""
+    "date": "2019-07-05",
+    "file": "fw_laurus_miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip"
   }
 ]
