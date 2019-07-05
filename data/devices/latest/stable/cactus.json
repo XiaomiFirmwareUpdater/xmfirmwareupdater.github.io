@@ -1,0 +1,20 @@
+[
+  {
+    "codename": "cactus",
+    "type": "global",
+    "versions": {
+      "android": "",
+      "miui": ""
+    },
+    "date": "",
+    "file": ""
+  },
+  {
+    "codename": "cactus",
+    "type": "china",
+    "versions": {
+      "android": ""
+    },
+    "date": ""
+  }
+]

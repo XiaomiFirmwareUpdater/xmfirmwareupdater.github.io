@@ -12,9 +12,10 @@
     "codename": "grus",
     "type": "china",
     "versions": {
-      "android": ""
+      "android": "9.0",
+      "miui": "9.7.4"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-07-05",
+    "file": "fw_grus_miui_GRUS_9.7.4_7f921b35fa_9.0.zip"
   }
 ]

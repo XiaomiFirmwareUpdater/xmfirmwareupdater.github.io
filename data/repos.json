@@ -169,5 +169,14 @@
   },
   {
     "name": "firmware_xiaomi_davinciin"
+  },
+  {
+    "name": "firmware_xiaomi_cactus"
+  },
+  {
+    "name": "firmware_xiaomi_cereus"
+  },
+  {
+    "name": "firmware_xiaomi_lotus"
   }
 ]
