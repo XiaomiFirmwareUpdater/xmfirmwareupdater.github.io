@@ -18,6 +18,12 @@
 	  "global": "yes"
 	},
 	{
+	  "codename": "cactus",
+	  "name": "Redmi 6A",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus",
+	  "global": "yes"
+	},
+	{
 	  "codename": "cappu",
 	  "name": "Mi Pad 3",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu",
@@ -30,10 +36,16 @@
 	  "global": "yes"
 	},
 	{
+	  "codename": "cereus",
+	  "name": "Redmi 6",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus",
+	  "global": "yes"
+	},
+	{
 	  "codename": "cepheus",
 	  "name": "Mi 9",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus",
-	  "global": "no"
+	  "global": "yes"
 	},
 	{
 	  "codename": "chiron",
@@ -81,7 +93,7 @@
 	  "codename": "grus",
 	  "name": "Mi 9 SE",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus",
-	  "global": "no"
+	  "global": "yes"
 	},
 	{
 	  "codename": "helium",
@@ -132,10 +144,22 @@
 	  "global": "yes"
 	},
 	{
+	  "codename": "laurus",
+	  "name": "Mi CC 9e",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus",
+	  "global": "no"
+	},
+	{
 	  "codename": "libra",
 	  "name": "Mi 4C",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra",
 	  "global": "no"
+	},
+	{
+	  "codename": "lotus",
+	  "name": "Mi Play",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus",
+	  "global": "yes"
 	},
 	{
 	  "codename": "lithium",
@@ -207,7 +231,7 @@
 	  "codename": "prada",
 	  "name": "Redmi 4",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada",
-	  "global": "no"
+	  "global": "yes"
 	},
 	{
 	  "codename": "pyxis",
@@ -279,13 +303,13 @@
 	  "codename": "tulip",
 	  "name": "Redmi Note 6 Pro",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip",
-	  "global": "no"
+	  "global": "yes"
 	},
 	{
 	  "codename": "ugg",
 	  "name": "Redmi Note 5A Prime",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg",
-	  "global": "no"
+	  "global": "yes"
 	},
 	{
 	  "codename": "ugglite",
