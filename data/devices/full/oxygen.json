@@ -1370,5 +1370,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/oxygen/fw_oxygen_miui_MIMAX2_9.7.4_3fe8528c67_7.1.zip"
     },
     "filename": "fw_oxygen_miui_MIMAX2_9.7.4_3fe8528c67_7.1.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.1.0.NDDCNXM",
+      "android": "7.1"
+    },
+    "date": "2019-07-08",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-08.07.2019/fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/oxygen/fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip"
+    },
+    "filename": "fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip"
   }
 ]
