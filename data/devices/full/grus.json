@@ -124,5 +124,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/grus/fw_grus_miui_GRUS_9.7.4_7f921b35fa_9.0.zip"
     },
     "filename": "fw_grus_miui_GRUS_9.7.4_7f921b35fa_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.7.11",
+      "android": "9.0"
+    },
+    "date": "2019-07-12",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-13.07.2019/fw_grus_miui_GRUS_9.7.11_9855478e41_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/grus/fw_grus_miui_GRUS_9.7.11_9855478e41_9.0.zip"
+    },
+    "filename": "fw_grus_miui_GRUS_9.7.11_9855478e41_9.0.zip"
   }
 ]
