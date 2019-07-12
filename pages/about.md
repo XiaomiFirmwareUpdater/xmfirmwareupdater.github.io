@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Image](https://github.com/XiaomiFirmwareUpdater/xiaomifirmwareupdater.github.io/raw/master/images/xfu.png)
 
-Xiaomi Firmware Updater is a community project, started in January 2018, aims to provide firmware packages for all Snapdragon Xiaomi devices, in order to allow custom ROM users to update their devices' firmware easily through custom recovery instead of having to flash full ROM every time they want to update.
+Xiaomi Firmware Updater is a community project, started in January 2018, aims to provide firmware packages for all Xiaomi devices, in order to allow custom ROM users to update their devices' firmware easily through custom recovery instead of having to flash full ROM every time they want to update.
 
 Our project has been covered by some of the most popular tech websites and forums in the world, including [XDA](https://www.xda-developers.com/xiaomi-firmware-updater-tool-miui-roms/), [4PDA](https://4pda.ru/2018/01/31/349457/), [Android Community](https://androidcommunity.com/xiaomi-firmware-updater-provides-updated-firmware-for-most-xiaomi-devices-20180130/), [Piunika Web](https://piunikaweb.com/2019/01/16/xiaomi-user-waiting-for-updates-this-new-site-will-help/), [SourceForge](https://sourceforge.net/blog/projects-week-november-5-2018/), [GizChina](https://en.gizchina.it/2018/01/xiaomi-firmware-updater-help-custom-rom/), and many other websites.
 
