@@ -418,5 +418,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/lavender/fw_lavender_miui_LAVENDER_9.7.4_685147d37c_9.0.zip"
     },
     "filename": "fw_lavender_miui_LAVENDER_9.7.4_685147d37c_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.7.11",
+      "android": "9.0"
+    },
+    "date": "2019-07-12",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-12.07.2019/fw_lavender_miui_LAVENDER_9.7.11_c9963a318b_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/lavender/fw_lavender_miui_LAVENDER_9.7.11_c9963a318b_9.0.zip"
+    },
+    "filename": "fw_lavender_miui_LAVENDER_9.7.11_c9963a318b_9.0.zip"
   }
 ]
