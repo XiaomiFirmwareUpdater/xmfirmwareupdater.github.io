@@ -65,8 +65,7 @@ permalink: /miui/
                "<td style=\"text-align: left\">" + item.version + "</td>" +
                "<td style=\"text-align: left\">" + item.android + "</td>" +
                "<td style=\"text-align: left\">" + "<a href=" + item.download + ">Download</a>" + "</td>" +
-               "<td style=\"text-align: left\">" + item.size + "</td>" +
-               "<td style=\"text-align: left\">" + item.md5 + "</td>" + "</tr>"
+               "<td style=\"text-align: left\">" + item.size + "</td>" + "</tr>"
                $(info_tblRow).appendTo("#stable_fastboot tbody");
          });
       });
@@ -79,7 +78,6 @@ permalink: /miui/
          <th style="text-align: center">Android</th>
          <th style="text-align: center">Link</th>
          <th style="text-align: center">Size</th>
-         <th style="text-align: center">MD5</th>
       </thead>
       <tbody>
       </tbody>
@@ -137,8 +135,7 @@ permalink: /miui/
                "<td style=\"text-align: left\">" + item.version + "</td>" +
                "<td style=\"text-align: left\">" + item.android + "</td>" +
                "<td style=\"text-align: left\">" + "<a href=" + item.download + ">Download</a>" + "</td>" +
-               "<td style=\"text-align: left\">" + item.size + "</td>" +
-               "<td style=\"text-align: left\">" + item.md5 + "</td>" + "</tr>"
+               "<td style=\"text-align: left\">" + item.size + "</td>" + "</tr>"
                $(info_tblRow).appendTo("#weekly_fastboot tbody");
          });
       });
@@ -151,7 +148,6 @@ permalink: /miui/
          <th style="text-align: center">Android</th>
          <th style="text-align: center">Link</th>
          <th style="text-align: center">Size</th>
-         <th style="text-align: center">MD5</th>
       </thead>
       <tbody>
       </tbody>
