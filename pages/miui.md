@@ -4,7 +4,7 @@ layout: miui
 permalink: /miui/
 ---
 
-<p><b>Note: </b>All files listed here are from Xiaomi servers. It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
+<p><b>Note: </b>All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
 <!-- Tab links -->
 <div class="tab">
    <button class="tablinks" onclick="switchROM(event, 'stable_recovery')">Stable Recovery</button>
