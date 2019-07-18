@@ -3,11 +3,11 @@
     "codename": "raphaelin",
     "type": "global",
     "versions": {
-      "android": "",
-      "miui": ""
+      "android": "9.0",
+      "miui": "V10.3.3.0.PFKINXM"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-07-18",
+    "file": "fw_raphaelin_miui_RAPHAELININGlobal_V10.3.3.0.PFKINXM_a837ea77ac_9.0.zip"
   },
   {
     "codename": "raphaelin",
