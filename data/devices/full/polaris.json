@@ -1300,5 +1300,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/polaris/fw_polaris_miui_MIMIX2S_9.7.11_bdefd15298_9.0.zip"
     },
     "filename": "fw_polaris_miui_MIMIX2S_9.7.11_bdefd15298_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.7.18",
+      "android": "9.0"
+    },
+    "date": "2019-07-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-19.07.2019/fw_polaris_miui_MIMIX2S_9.7.18_53df4a89bc_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/polaris/fw_polaris_miui_MIMIX2S_9.7.18_53df4a89bc_9.0.zip"
+    },
+    "filename": "fw_polaris_miui_MIMIX2S_9.7.18_53df4a89bc_9.0.zip"
   }
 ]
