@@ -1272,5 +1272,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/natrium/fw_natrium_miui_MI5SPlus_9.7.11_64ac13bffc_8.0.zip"
     },
     "filename": "fw_natrium_miui_MI5SPlus_9.7.11_64ac13bffc_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.7.18",
+      "android": "8.0"
+    },
+    "date": "2019-07-19",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-19.07.2019/fw_natrium_miui_MI5SPlus_9.7.18_1638e0c867_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/natrium/fw_natrium_miui_MI5SPlus_9.7.18_1638e0c867_8.0.zip"
+    },
+    "filename": "fw_natrium_miui_MI5SPlus_9.7.18_1638e0c867_8.0.zip"
   }
 ]
