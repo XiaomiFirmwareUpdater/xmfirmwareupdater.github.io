@@ -124,5 +124,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/davinci/fw_davinci_miui_DAVINCI_V10.3.8.0.PFJCNXM_968e5a975a_9.0.zip"
     },
     "filename": "fw_davinci_miui_DAVINCI_V10.3.8.0.PFJCNXM_968e5a975a_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.12.0.PFJCNXM",
+      "android": "9.0"
+    },
+    "date": "2019-07-22",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-22.07.2019/fw_davinci_miui_DAVINCI_V10.3.12.0.PFJCNXM_54a3ff575a_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/davinci/fw_davinci_miui_DAVINCI_V10.3.12.0.PFJCNXM_54a3ff575a_9.0.zip"
+    },
+    "filename": "fw_davinci_miui_DAVINCI_V10.3.12.0.PFJCNXM_54a3ff575a_9.0.zip"
   }
 ]
