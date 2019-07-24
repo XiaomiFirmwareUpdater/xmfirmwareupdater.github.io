@@ -4,10 +4,10 @@
     "type": "global",
     "versions": {
       "android": "9.0",
-      "miui": "V10.3.3.0.PECMIXM"
+      "miui": "V10.3.4.0.PECMIXM"
     },
-    "date": "2019-05-21",
-    "file": "fw_equuleus_miui_MI8UDGlobal_V10.3.3.0.PECMIXM_cbd37dea1a_9.0.zip"
+    "date": "2019-07-24",
+    "file": "fw_equuleus_miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip"
   },
   {
     "codename": "equuleus",
