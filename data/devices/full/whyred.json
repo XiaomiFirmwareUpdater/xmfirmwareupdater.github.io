@@ -1538,5 +1538,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/whyred/fw_whyred_miui_HMNote5_9.7.18_9c82c9fd69_9.0.zip"
     },
     "filename": "fw_whyred_miui_HMNote5_9.7.18_9c82c9fd69_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.4.0.PEICNXM",
+      "android": "9.0"
+    },
+    "date": "2019-07-24",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-24.07.2019/fw_whyred_miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/whyred/fw_whyred_miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip"
+    },
+    "filename": "fw_whyred_miui_HMNote5_V10.3.4.0.PEICNXM_f9c9e6de7d_9.0.zip"
   }
 ]
