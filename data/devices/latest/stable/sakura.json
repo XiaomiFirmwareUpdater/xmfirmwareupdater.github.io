@@ -3,11 +3,11 @@
     "codename": "sakura",
     "type": "global",
     "versions": {
-      "android": "9.0",
-      "miui": "V10.3.2.0.PDMMIXM"
+      "android": "e632cbefd0",
+      "miui": "HM6ProINGlobal"
     },
-    "date": "2019-06-05",
-    "file": "fw_sakura-india_miui_HM6ProINGlobal_V10.3.2.0.PDMMIXM_6d5eb47ddb_9.0.zip"
+    "date": "2019-07-26",
+    "file": "fw_sakura_india_miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip"
   },
   {
     "codename": "sakura",
