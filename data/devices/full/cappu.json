@@ -586,5 +586,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/cappu/fw_cappu_miui_MIPAD3_9.7.18_1d33bb2224_7.0.zip"
     },
     "filename": "fw_cappu_miui_MIPAD3_9.7.18_1d33bb2224_7.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.7.25",
+      "android": "7.0"
+    },
+    "date": "2019-07-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu/releases/download/weekly-26.07.2019/fw_cappu_miui_MIPAD3_9.7.25_7c294961c9_7.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/cappu/fw_cappu_miui_MIPAD3_9.7.25_7c294961c9_7.0.zip"
+    },
+    "filename": "fw_cappu_miui_MIPAD3_9.7.25_7c294961c9_7.0.zip"
   }
 ]

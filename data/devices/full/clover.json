@@ -712,5 +712,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/clover/fw_clover_miui_MIPAD4_9.7.18_f6e6b8485c_8.1.zip"
     },
     "filename": "fw_clover_miui_MIPAD4_9.7.18_f6e6b8485c_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.7.25",
+      "android": "8.1"
+    },
+    "date": "2019-07-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-26.07.2019/fw_clover_miui_MIPAD4_9.7.25_1a9ec5f55e_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/clover/fw_clover_miui_MIPAD4_9.7.25_1a9ec5f55e_8.1.zip"
+    },
+    "filename": "fw_clover_miui_MIPAD4_9.7.25_1a9ec5f55e_8.1.zip"
   }
 ]

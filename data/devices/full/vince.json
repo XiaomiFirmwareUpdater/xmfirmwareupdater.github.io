@@ -908,5 +908,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/vince/fw_vince_miui_HM5Plus_9.7.18_0ceb63d205_8.1.zip"
     },
     "filename": "fw_vince_miui_HM5Plus_9.7.18_0ceb63d205_8.1.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.7.25",
+      "android": "8.1"
+    },
+    "date": "2019-07-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-26.07.2019/fw_vince_miui_HM5Plus_9.7.25_5bed550eb3_8.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/vince/fw_vince_miui_HM5Plus_9.7.25_5bed550eb3_8.1.zip"
+    },
+    "filename": "fw_vince_miui_HM5Plus_9.7.25_5bed550eb3_8.1.zip"
   }
 ]

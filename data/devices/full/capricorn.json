@@ -1300,5 +1300,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/capricorn/fw_capricorn_miui_MI5S_9.7.18_0835a4728b_8.0.zip"
     },
     "filename": "fw_capricorn_miui_MI5S_9.7.18_0835a4728b_8.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.7.25",
+      "android": "8.0"
+    },
+    "date": "2019-07-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-26.07.2019/fw_capricorn_miui_MI5S_9.7.25_385677d302_8.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/capricorn/fw_capricorn_miui_MI5S_9.7.25_385677d302_8.0.zip"
+    },
+    "filename": "fw_capricorn_miui_MI5S_9.7.25_385677d302_8.0.zip"
   }
 ]

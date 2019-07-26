@@ -68,5 +68,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/cereus/fw_cereus_miui_HM6_9.7.18_2161dfb6d5_9.0.zip"
     },
     "filename": "fw_cereus_miui_HM6_9.7.18_2161dfb6d5_9.0.zip"
+  },
+  {
+    "branch": "weekly",
+    "versions": {
+      "miui": "9.7.25",
+      "android": "9.0"
+    },
+    "date": "2019-07-26",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-26.07.2019/fw_cereus_miui_HM6_9.7.25_8af77769b5_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/cereus/fw_cereus_miui_HM6_9.7.25_8af77769b5_9.0.zip"
+    },
+    "filename": "fw_cereus_miui_HM6_9.7.25_8af77769b5_9.0.zip"
   }
 ]
