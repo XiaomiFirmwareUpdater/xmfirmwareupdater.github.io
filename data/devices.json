@@ -246,6 +246,12 @@
 	  "global": "no"
 	},
 	{
+	  "codename": "raphaelin",
+	  "name": "Redmi K20 Pro India",
+	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphaelin",
+	  "global": "yes"
+	},
+	{
 	  "codename": "riva",
 	  "name": "Redmi 5A",
 	  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva",

@@ -91,3 +91,4 @@ permalink: /supported-devices/
 | --- | DAVINCIGlobal | Mi 9T | davinci | [Here](https://xiaomifirmwareupdater.com/#stable#davinci) |
 | --- | ANDROMEDA | Mi MIX 3 5G | andromeda | [Here](https://xiaomifirmwareupdater.com/#stable#andromeda) |
 | --- | PINE | Redmi 7A | pine | [Here](https://xiaomifirmwareupdater.com/#stable#pine) |
+| --- | RAPHAELIN | Redmi K20 Pro India | raphael | [Here](https://xiaomifirmwareupdater.com/#stable#raphaelin) |
