@@ -43,3 +43,16 @@
  from {opacity: 0;}
  to {opacity: 1;}
 }
+
+table {
+ margin: auto;
+  border-collapse: collapse;
+  overflow-x: auto;
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+}
+
+div.dataTables_length {
+  margin-right: 1em;
+}
