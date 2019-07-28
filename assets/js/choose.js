@@ -16,12 +16,24 @@ $.getJSON("https://raw.githubusercontent.com/XiaomiFirmwareUpdater/xiaomifirmwar
 
 // Devices select2 box
 $(document).ready(function () {
-    $(".devices").select2({
+    $(".device").select2({
         data: devicesList
     })
 });
 
-// choicesParses
+// Parse URL
+function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+
+// Process to download page
 function choicesParses() {
     document.getElementById("DownloadForm").submit();
+    var vars = getUrlVars();
+    var site = window.location.origin;
+    window.location.href = site + "/" + vars.request + "/" + vars.device + "/" + vars.branch + "/" + vars.region;
 }
