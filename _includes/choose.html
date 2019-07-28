@@ -1,13 +1,7 @@
 <section id="chooser" class="box special">
-	<div style="display:inline-table;">
+	<div style="display: inline-block">
 		<form id="DownloadForm" name="DownloadForm">
-		<table id="choose_download" style="display: inline-block">
-			<thead>
-				<tr>
-					<th><span id="tplatform"><strong>Download</strong>:</span></th>
-				</tr>
-			</thead>
-			<tbody>
+		<table id="choose_download">
 				<tr>
 					<td>
 						<div class="col-4 col-12-narrower">
@@ -15,16 +9,12 @@
 							<label for="firmware">Firmware</label>
 						</div>
 					</td>
-				</tr>
-				<tr>
 					<td>
 						<div class="col-4 col-12-narrower">
 							<input type="radio" id="vendor" value="vendor" name="request">
 							<label for="vendor">Vendor</label>
 						</div>
 					</td>
-				</tr>
-				<tr>
 					<td>
 						<div class="col-4 col-12-narrower">
 							<input type="radio" id="rom" value="rom" name="request">
@@ -32,15 +22,6 @@
 						</div>
 					</td>
 				</tr>
-			</tbody>
-		</table>
-		<table id="choose_items" style="display: inline-block">
-			<thead>
-				<tr>
-					<th><span id="tplatform"><strong>Options</strong>:</span></th>
-				</tr>
-			</thead>
-			<tbody>
 				<tr>
 					<td>
 						<div class="col-4 col-12-narrower">
@@ -49,8 +30,6 @@
 							</select>
 						</div>
 					</td>
-				</tr>
-				<tr>
 					<td>
 						<div class="col-12">
 							<select name="region" id="region" class="select2">
@@ -63,8 +42,6 @@
 							</select>
 						</div>
 					</td>
-				</tr>
-				<tr>
 					<td>
 						<div class="col-12">
 							<select name="branch" id="branch" class="select2">
@@ -75,13 +52,13 @@
 						</div>
 					</td>
 				</tr>
-			</tbody>
 		</table>
+		<div class="col-12" style="display: inline-block">
+				<ul class="actions">
+					<li><input type="submit" onclick="choicesParses()" value="Submit" /></li>
+				</ul>
+			</div>
 		</form>
 	</div>
-	<div class="col-12">
-			<ul class="actions">
-				<li><input type="submit" onclick="choicesParses()" value="Submit" /></li>
-			</ul>
-		</div>
+
 </section>
