@@ -21,8 +21,23 @@ def load_devices():
             device = repo['name'].split('_')[-1]
             DEVICES.append(device)
     DEVICES.sort()
-    with open('../data/devices.json', 'w') as out:
+    with open('../data/codenames.json', 'w') as out:
         json.dump(DEVICES, out, indent=1)
+    """
+    # Generate devices.json
+    names = requests.get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
+                         'xiaomi_devices/names/names.json').json()
+    names_ = []
+    for i in DEVICES:
+        try:
+            names_.append({'codename': i,
+                           'name': names[i],
+                           'url': f'https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_{i}'})
+        except KeyError as e:
+            print(e)
+    with open('../data/devices.json', 'w') as out:
+        json.dump(names_, out, indent=1)
+    """
 
 
 def load_releases():
@@ -109,7 +124,7 @@ def load_releases():
 
 
 def main():
-    load_releases()
+    load_devices()
 
 
 if __name__ == '__main__':

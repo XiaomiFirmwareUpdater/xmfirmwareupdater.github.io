@@ -1,6 +1,6 @@
 // Load devices
 var devicesList = [];
-$.getJSON("https://raw.githubusercontent.com/XiaomiFirmwareUpdater/xiaomifirmwareupdater.github.io/master/data/devices.json", function (response) {
+$.getJSON("data/devices.json", function (response) {
     response.forEach(function (item) {
         name = item.name + ' (' + item.codename + ')',
             codename = item.codename,
