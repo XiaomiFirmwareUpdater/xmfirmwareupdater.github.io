@@ -3,6 +3,7 @@ title: Xiaomi Redmi Note 5 (whyred) Firmware Downloads
 layout: download
 permalink: /firmware/whyred/
 ---
+<div style="overflow-x:auto;">
 <table id="firmware" class="compact row-border" style="width:100%">
     <thead>
         <tr>
@@ -16,3 +17,4 @@ permalink: /firmware/whyred/
     </thead>
     <script>loadLatest('whyred')</script>
 </table>
+</div>
