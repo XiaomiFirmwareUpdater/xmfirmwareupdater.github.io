@@ -1,0 +1,44 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.18.0.PEMMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-05",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-05.07.2019/fw_andromeda_miui_ANDROMEDAGlobal_V10.3.18.0.PEMMIXM_716941ca82_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/andromeda/fw_andromeda_miui_ANDROMEDAGlobal_V10.3.18.0.PEMMIXM_716941ca82_9.0.zip"
+  },
+  "filename": "fw_andromeda_miui_ANDROMEDAGlobal_V10.3.18.0.PEMMIXM_716941ca82_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.17.0.PEMEUXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-03",
+  "region": "Europe",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-03.07.2019/fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.17.0.PEMEUXM_eec5fbffd8_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/andromeda/fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.17.0.PEMEUXM_eec5fbffd8_9.0.zip"
+  },
+  "filename": "fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.17.0.PEMEUXM_eec5fbffd8_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.16.0.PEMCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-11",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-11.06.2019/fw_andromeda_miui_ANDROMEDA_V10.3.16.0.PEMCNXM_7bb7cd51a5_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/andromeda/fw_andromeda_miui_ANDROMEDA_V10.3.16.0.PEMCNXM_7bb7cd51a5_9.0.zip"
+  },
+  "filename": "fw_andromeda_miui_ANDROMEDA_V10.3.16.0.PEMCNXM_7bb7cd51a5_9.0.zip"
+ }
+]

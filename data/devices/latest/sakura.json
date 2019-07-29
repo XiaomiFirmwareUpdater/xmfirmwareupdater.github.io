@@ -1,0 +1,58 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.4.0.ODMMIFD",
+   "android": "8.1"
+  },
+  "date": "2019-07-29",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-17.09.2018/fw_sakura_miui_SAKURAINDIAGlobal_V9.6.4.0.ODMMIFD_17657b6588_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/sakura/fw_sakura_miui_SAKURAINDIAGlobal_V9.6.4.0.ODMMIFD_17657b6588_8.1.zip"
+  },
+  "filename": "fw_sakura_miui_SAKURAINDIAGlobal_V9.6.4.0.ODMMIFD_17657b6588_8.1.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.1.0.PDICNXM",
+   "android": "9.0"
+  },
+  "date": "2019-04-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-15.04.2019/fw_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip"
+  },
+  "filename": "fw_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.25",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/weekly-26.07.2019/fw_sakura_miui_HM6Pro_9.7.25_d065ccc0b9_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/sakura/fw_sakura_miui_HM6Pro_9.7.25_d065ccc0b9_9.0.zip"
+  },
+  "filename": "fw_sakura_miui_HM6Pro_9.7.25_d065ccc0b9_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.3.0.PDMMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "India",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-26.07.2019/fw_sakura_india_miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_india_miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip"
+  },
+  "filename": "fw_sakura_india_miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip"
+ }
+]

@@ -1,0 +1,1024 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.2.0.OAAMIXM",
+   "android": "8.0"
+  },
+  "date": "2019-01-25",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-25.01.2019/fw_gemini_miui_MI5Global_V10.2.2.0.OAAMIXM_d16c808eba_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/gemini/fw_gemini_miui_MI5Global_V10.2.2.0.OAAMIXM_d16c808eba_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_V10.2.2.0.OAAMIXM_d16c808eba_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.1.0.OAACNXM",
+   "android": "8.0"
+  },
+  "date": "2019-01-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-10.01.2019/fw_gemini_miui_MI5_V10.2.1.0.OAACNXM_b647d74428_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/gemini/fw_gemini_miui_MI5_V10.2.1.0.OAACNXM_b647d74428_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_V10.2.1.0.OAACNXM_b647d74428_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.22",
+   "android": "8.0"
+  },
+  "date": "2018-11-26",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-26.11.2018/fw_gemini_miui_MI5Global_8.11.22_c5d7ee6745_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/gemini/fw_gemini_miui_MI5Global_8.11.22_c5d7ee6745_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.11.22_c5d7ee6745_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.22",
+   "android": "8.0"
+  },
+  "date": "2018-11-23",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-23.11.2018/fw_gemini_miui_MI5_8.11.22_f9ead04910_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/gemini/fw_gemini_miui_MI5_8.11.22_f9ead04910_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.11.22_f9ead04910_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.15",
+   "android": "8.0"
+  },
+  "date": "2018-11-16",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-16.11.2018/fw_gemini_miui_MI5Global_8.11.15_230fc57f0d_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/gemini/fw_gemini_miui_MI5Global_8.11.15_230fc57f0d_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.11.15_230fc57f0d_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.15",
+   "android": "8.0"
+  },
+  "date": "2018-11-16",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-16.11.2018/fw_gemini_miui_MI5_8.11.15_c2749501a3_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/gemini/fw_gemini_miui_MI5_8.11.15_c2749501a3_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.11.15_c2749501a3_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.1",
+   "android": "8.0"
+  },
+  "date": "2018-11-02",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-02.11.2018/fw_gemini_miui_MI5Global_8.11.1_8f7c03b3f1_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/gemini/fw_gemini_miui_MI5Global_8.11.1_8f7c03b3f1_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.11.1_8f7c03b3f1_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.1",
+   "android": "8.0"
+  },
+  "date": "2018-11-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-02.11.2018/fw_gemini_miui_MI5_8.11.1_56d8cca443_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/gemini/fw_gemini_miui_MI5_8.11.1_56d8cca443_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.11.1_56d8cca443_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.25",
+   "android": "8.0"
+  },
+  "date": "2018-10-26",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-26.10.2018/fw_gemini_miui_MI5Global_8.10.25_98c6f2684a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/gemini/fw_gemini_miui_MI5Global_8.10.25_98c6f2684a_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.10.25_98c6f2684a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.25",
+   "android": "8.0"
+  },
+  "date": "2018-10-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-26.10.2018/fw_gemini_miui_MI5_8.10.25_78edcdf56a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/gemini/fw_gemini_miui_MI5_8.10.25_78edcdf56a_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.10.25_78edcdf56a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.18",
+   "android": "8.0"
+  },
+  "date": "2018-10-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-19.10.2018/fw_gemini_miui_MI5Global_8.10.18_0a282af25d_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/gemini/fw_gemini_miui_MI5Global_8.10.18_0a282af25d_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.10.18_0a282af25d_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "8.0"
+  },
+  "date": "2018-10-13",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-13.10.2018/fw_gemini_miui_MI5_8.9.20_ef61d7e4db_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/gemini/fw_gemini_miui_MI5_8.9.20_ef61d7e4db_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.9.20_ef61d7e4db_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.11",
+   "android": "8.0"
+  },
+  "date": "2018-10-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-12.10.2018/fw_gemini_miui_MI5_8.10.11_fd9ea0228a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/gemini/fw_gemini_miui_MI5_8.10.11_fd9ea0228a_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.10.11_fd9ea0228a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.11",
+   "android": "8.0"
+  },
+  "date": "2018-10-11",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-11.10.2018/fw_gemini_miui_MI5Global_8.10.11_71ad0d6df4_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/gemini/fw_gemini_miui_MI5Global_8.10.11_71ad0d6df4_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.10.11_71ad0d6df4_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "8.0"
+  },
+  "date": "2018-09-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-26.09.2018/fw_gemini_miui_MI5_8.9.20_ef61d7e4db_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/gemini/fw_gemini_miui_MI5_8.9.20_ef61d7e4db_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.9.20_ef61d7e4db_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.13",
+   "android": "8.0"
+  },
+  "date": "2018-09-25",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-25.09.2018/fw_gemini_miui_MI5_8.9.13_df478ff485_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/gemini/fw_gemini_miui_MI5_8.9.13_df478ff485_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.9.13_df478ff485_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "8.0"
+  },
+  "date": "2018-09-21",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-21.09.2018/fw_gemini_miui_MI5_8.9.20_ef61d7e4db_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/gemini/fw_gemini_miui_MI5_8.9.20_ef61d7e4db_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.9.20_ef61d7e4db_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "8.0"
+  },
+  "date": "2018-09-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-20.09.2018/fw_gemini_miui_MI5Global_8.9.20_743b930763_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/gemini/fw_gemini_miui_MI5Global_8.9.20_743b930763_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.9.20_743b930763_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.0.1.0.OAAMIFH",
+   "android": "8.0"
+  },
+  "date": "2018-09-18",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-18.09.2018/fw_gemini_miui_MI5Global_V10.0.1.0.OAAMIFH_5d78eeb0ae_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/gemini/fw_gemini_miui_MI5Global_V10.0.1.0.OAAMIFH_5d78eeb0ae_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_V10.0.1.0.OAAMIFH_5d78eeb0ae_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.13",
+   "android": "8.0"
+  },
+  "date": "2018-09-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-14.09.2018/fw_gemini_miui_MI5_8.9.13_df478ff485_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/gemini/fw_gemini_miui_MI5_8.9.13_df478ff485_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.9.13_df478ff485_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.13",
+   "android": "8.0"
+  },
+  "date": "2018-09-13",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-13.09.2018/fw_gemini_miui_MI5Global_8.9.13_4495cf131f_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/gemini/fw_gemini_miui_MI5Global_8.9.13_4495cf131f_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.9.13_4495cf131f_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.0.1.0.OAACNFH",
+   "android": "8.0"
+  },
+  "date": "2018-09-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-10.09.2018/fw_gemini_miui_MI5_V10.0.1.0.OAACNFH_255e87d96e_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/gemini/fw_gemini_miui_MI5_V10.0.1.0.OAACNFH_255e87d96e_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_V10.0.1.0.OAACNFH_255e87d96e_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.2.0.OAAMIFD",
+   "android": "8.0"
+  },
+  "date": "2018-09-04",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-04.09.2018/fw_gemini_miui_MI5Global_V9.6.2.0.OAAMIFD_12d0c070e1_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/gemini/fw_gemini_miui_MI5Global_V9.6.2.0.OAAMIFD_12d0c070e1_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_V9.6.2.0.OAAMIFD_12d0c070e1_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.1.0.OAACNFD",
+   "android": "8.0"
+  },
+  "date": "2018-09-04",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-04.09.2018/fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/gemini/fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "8.8.30",
+   "android": "8.0"
+  },
+  "date": "2018-09-03",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-03.09.2018/fw_gemini_miui_MI5Global_8.8.30_b25e3e5389_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/8/gemini/fw_gemini_miui_MI5Global_8.8.30_b25e3e5389_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.8.30_b25e3e5389_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.2.0.OAAMIFD",
+   "android": "8.0"
+  },
+  "date": "2018-09-03",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-03.09.2018/fw_gemini_miui_MI5Global_V9.6.2.0.OAAMIFD_12d0c070e1_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/gemini/fw_gemini_miui_MI5Global_V9.6.2.0.OAAMIFD_12d0c070e1_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_V9.6.2.0.OAAMIFD_12d0c070e1_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "8.8.30",
+   "android": "8.0"
+  },
+  "date": "2018-09-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-03.09.2018/fw_gemini_miui_MI5_8.8.30_77104b7734_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/8/gemini/fw_gemini_miui_MI5_8.8.30_77104b7734_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.8.30_77104b7734_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.1.0.OAACNFD",
+   "android": "8.0"
+  },
+  "date": "2018-09-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-03.09.2018/fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/gemini/fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.30",
+   "android": "8.0"
+  },
+  "date": "2018-08-31",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-31.08.2018/fw_gemini_miui_MI5_8.8.30_77104b7734_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/gemini/fw_gemini_miui_MI5_8.8.30_77104b7734_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.8.30_77104b7734_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.30",
+   "android": "8.0"
+  },
+  "date": "2018-08-30",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-30.08.2018/fw_gemini_miui_MI5Global_8.8.30_b25e3e5389_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/gemini/fw_gemini_miui_MI5Global_8.8.30_b25e3e5389_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.8.30_b25e3e5389_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "8.0"
+  },
+  "date": "2018-08-28",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-28.08.2018/fw_gemini_miui_MI5Global_8.8.23_fb9092d043_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/gemini/fw_gemini_miui_MI5Global_8.8.23_fb9092d043_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.8.23_fb9092d043_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "8.0"
+  },
+  "date": "2018-08-28",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-28.08.2018/fw_gemini_miui_MI5_8.8.23_272fda6e70_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/gemini/fw_gemini_miui_MI5_8.8.23_272fda6e70_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.8.23_272fda6e70_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "8.0"
+  },
+  "date": "2018-08-24",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-24.08.2018/fw_gemini_miui_MI5Global_8.8.23_fb9092d043_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/gemini/fw_gemini_miui_MI5Global_8.8.23_fb9092d043_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.8.23_fb9092d043_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "8.0"
+  },
+  "date": "2018-08-24",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-24.08.2018/fw_gemini_miui_MI5_8.8.23_272fda6e70_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/gemini/fw_gemini_miui_MI5_8.8.23_272fda6e70_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.8.23_272fda6e70_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.16",
+   "android": "8.0"
+  },
+  "date": "2018-08-17",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-17.08.2018/fw_gemini_miui_MI5Global_8.8.16_202a7688d3_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/gemini/fw_gemini_miui_MI5Global_8.8.16_202a7688d3_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.8.16_202a7688d3_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.16",
+   "android": "8.0"
+  },
+  "date": "2018-08-17",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-17.08.2018/fw_gemini_miui_MI5_8.8.16_a40b7a1b8c_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/gemini/fw_gemini_miui_MI5_8.8.16_a40b7a1b8c_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.8.16_a40b7a1b8c_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.2.0.OAAMIFD",
+   "android": "8.0"
+  },
+  "date": "2018-08-16",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-16.08.2018/fw_gemini_miui_MI5Global_V9.6.2.0.OAAMIFD_12d0c070e1_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/gemini/fw_gemini_miui_MI5Global_V9.6.2.0.OAAMIFD_12d0c070e1_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_V9.6.2.0.OAAMIFD_12d0c070e1_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.9",
+   "android": "8.0"
+  },
+  "date": "2018-08-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-10.08.2018/fw_gemini_miui_MI5_8.8.9_f6776d1d10_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/gemini/fw_gemini_miui_MI5_8.8.9_f6776d1d10_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.8.9_f6776d1d10_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.26",
+   "android": "8.0"
+  },
+  "date": "2018-08-06",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-06.08.2018/fw_gemini_miui_MI5Global_8.7.26_8d551d902c_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/gemini/fw_gemini_miui_MI5Global_8.7.26_8d551d902c_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.7.26_8d551d902c_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.3",
+   "android": "8.0"
+  },
+  "date": "2018-08-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-06.08.2018/fw_gemini_miui_MI5_8.8.3_a43652917b_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/gemini/fw_gemini_miui_MI5_8.8.3_a43652917b_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.8.3_a43652917b_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.2",
+   "android": "8.0"
+  },
+  "date": "2018-08-03",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-03.08.2018/fw_gemini_miui_MI5Global_8.8.2_f4398c8e07_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.2/gemini/fw_gemini_miui_MI5Global_8.8.2_f4398c8e07_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.8.2_f4398c8e07_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.26",
+   "android": "8.0"
+  },
+  "date": "2018-07-27",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-27.07.2018/fw_gemini_miui_MI5Global_8.7.26_8d551d902c_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/gemini/fw_gemini_miui_MI5Global_8.7.26_8d551d902c_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.7.26_8d551d902c_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.26",
+   "android": "8.0"
+  },
+  "date": "2018-07-27",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-27.07.2018/fw_gemini_miui_MI5_8.7.26_0ef24b95c4_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/gemini/fw_gemini_miui_MI5_8.7.26_0ef24b95c4_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.7.26_0ef24b95c4_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.1.0.OAAMIFD",
+   "android": "8.0"
+  },
+  "date": "2018-07-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-20.07.2018/fw_gemini_miui_MI5Global_V9.6.1.0.OAAMIFD_e569ca4e32_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/gemini/fw_gemini_miui_MI5Global_V9.6.1.0.OAAMIFD_e569ca4e32_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_V9.6.1.0.OAAMIFD_e569ca4e32_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.1.0.OAACNFD",
+   "android": "8.0"
+  },
+  "date": "2018-07-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-20.07.2018/fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/gemini/fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.19",
+   "android": "8.0"
+  },
+  "date": "2018-07-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-20.07.2018/fw_gemini_miui_MI5_8.7.19_d0bd86893a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/gemini/fw_gemini_miui_MI5_8.7.19_d0bd86893a_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.7.19_d0bd86893a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.19",
+   "android": "8.0"
+  },
+  "date": "2018-07-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/weekly-19.07.2018/fw_gemini_miui_MI5Global_8.7.19_7a80214a95_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/gemini/fw_gemini_miui_MI5Global_8.7.19_7a80214a95_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.7.19_7a80214a95_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.6.1.0.OAAMIFD",
+   "android": "8.0"
+  },
+  "date": "2018-07-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-e50279b3aa299fec9b34/fw_gemini_miui_MI5Global_V9.6.1.0.OAAMIFD_e569ca4e32_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.OAAMIFD/gemini/fw_gemini_miui_MI5Global_V9.6.1.0.OAAMIFD_e569ca4e32_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_V9.6.1.0.OAAMIFD_e569ca4e32_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.12",
+   "android": "8.0"
+  },
+  "date": "2018-07-13",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-16cbd35a3b167e40d26d/fw_gemini_miui_MI5Global_8.7.12_553fb80b5a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/gemini/fw_gemini_miui_MI5Global_8.7.12_553fb80b5a_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.7.12_553fb80b5a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.12",
+   "android": "8.0"
+  },
+  "date": "2018-07-13",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-16cbd35a3b167e40d26d/fw_gemini_miui_MI5_8.7.12_42faa25bb8_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/gemini/fw_gemini_miui_MI5_8.7.12_42faa25bb8_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.7.12_42faa25bb8_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.6.1.0.OAACNFD",
+   "android": "8.0"
+  },
+  "date": "2018-07-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-3ac1794d92742b548fab/fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.OAACNFD/gemini/fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_V9.6.1.0.OAACNFD_996b4bcbff_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.5",
+   "android": "8.0"
+  },
+  "date": "2018-07-09",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-d373b58915a7a607934e/fw_gemini_miui_MI5Global_8.7.5_c06de5510d_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/gemini/fw_gemini_miui_MI5Global_8.7.5_c06de5510d_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.7.5_c06de5510d_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.5",
+   "android": "8.0"
+  },
+  "date": "2018-07-09",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-d373b58915a7a607934e/fw_gemini_miui_MI5_8.7.5_270f3d1e1e_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/gemini/fw_gemini_miui_MI5_8.7.5_270f3d1e1e_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.7.5_270f3d1e1e_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.5",
+   "android": "8.0"
+  },
+  "date": "2018-07-06",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-8a291826dd4ded304683/fw_gemini_miui_MI5Global_8.7.5_c06de5510d_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/gemini/fw_gemini_miui_MI5Global_8.7.5_c06de5510d_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.7.5_c06de5510d_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.5",
+   "android": "8.0"
+  },
+  "date": "2018-07-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-8a291826dd4ded304683/fw_gemini_miui_MI5_8.7.5_270f3d1e1e_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/gemini/fw_gemini_miui_MI5_8.7.5_270f3d1e1e_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.7.5_270f3d1e1e_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.5.24",
+   "android": "8.0"
+  },
+  "date": "2018-06-29",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-2a9e63aed80f4135f7a8/fw_gemini_miui_MI5Global_8.5.24_7c199334fd_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.24/gemini/fw_gemini_miui_MI5Global_8.5.24_7c199334fd_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.5.24_7c199334fd_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.6.21",
+   "android": "8.0"
+  },
+  "date": "2018-06-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-2a9e63aed80f4135f7a8/fw_gemini_miui_MI5_8.6.21_93cc14369a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.21/gemini/fw_gemini_miui_MI5_8.6.21_93cc14369a_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.6.21_93cc14369a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.5.24",
+   "android": "8.0"
+  },
+  "date": "2018-06-26",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-a585fad2219547745ba7/fw_gemini_miui_MI5Global_8.5.24_7c199334fd_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.24/gemini/fw_gemini_miui_MI5Global_8.5.24_7c199334fd_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.5.24_7c199334fd_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.6.21",
+   "android": "8.0"
+  },
+  "date": "2018-06-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-a585fad2219547745ba7/fw_gemini_miui_MI5_8.6.21_93cc14369a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.21/gemini/fw_gemini_miui_MI5_8.6.21_93cc14369a_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.6.21_93cc14369a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.5.24",
+   "android": "8.0"
+  },
+  "date": "2018-06-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-8e65f127897adbcd3f96/fw_gemini_miui_MI5Global_8.5.24_7c199334fd_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.24/gemini/fw_gemini_miui_MI5Global_8.5.24_7c199334fd_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.5.24_7c199334fd_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.6.14",
+   "android": "8.0"
+  },
+  "date": "2018-06-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-8e65f127897adbcd3f96/fw_gemini_miui_MI5_8.6.14_c0a92c5646_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.14/gemini/fw_gemini_miui_MI5_8.6.14_c0a92c5646_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.6.14_c0a92c5646_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.6.21",
+   "android": "8.0"
+  },
+  "date": "2018-06-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-8e65f127897adbcd3f96/fw_gemini_miui_MI5_8.6.21_93cc14369a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.21/gemini/fw_gemini_miui_MI5_8.6.21_93cc14369a_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.6.21_93cc14369a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NAAMIFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-30",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-4f2c90cd88b3814bd8b8/fw_gemini_miui_MI5Global_V9.5.2.0.NAAMIFA_be043880fb_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAAMIFA/gemini/fw_gemini_miui_MI5Global_V9.5.2.0.NAAMIFA_be043880fb_7.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_V9.5.2.0.NAAMIFA_be043880fb_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NAACNFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-30",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-4f2c90cd88b3814bd8b8/fw_gemini_miui_MI5_V9.5.2.0.NAACNFA_9b142afa7f_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAACNFA/gemini/fw_gemini_miui_MI5_V9.5.2.0.NAACNFA_9b142afa7f_7.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_V9.5.2.0.NAACNFA_9b142afa7f_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.5.17",
+   "android": "8.0"
+  },
+  "date": "2018-05-18",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-cb86d5807d4b7bf2feab/fw_gemini_miui_MI5_8.5.17_b9388ca9ef_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.17/gemini/fw_gemini_miui_MI5_8.5.17_b9388ca9ef_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.5.17_b9388ca9ef_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.5.10",
+   "android": "8.0"
+  },
+  "date": "2018-05-11",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-6d662ee3d6a6b4b43b16/fw_gemini_miui_MI5_8.5.10_7ebbec38f1_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.10/gemini/fw_gemini_miui_MI5_8.5.10_7ebbec38f1_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.5.10_7ebbec38f1_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.5.3",
+   "android": "8.0"
+  },
+  "date": "2018-05-04",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-fa9efdb5fde8255e47bd/fw_gemini_miui_MI5_8.5.3_8c2ddff0da_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.3/gemini/fw_gemini_miui_MI5_8.5.3_8c2ddff0da_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.5.3_8c2ddff0da_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NAAMIFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-02",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-a7b6b56c4d4d83d0d404/fw_gemini_miui_MI5Global_V9.5.2.0.NAAMIFA_be043880fb_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAAMIFA/gemini/fw_gemini_miui_MI5Global_V9.5.2.0.NAAMIFA_be043880fb_7.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_V9.5.2.0.NAAMIFA_be043880fb_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NAACNFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-a7b6b56c4d4d83d0d404/fw_gemini_miui_MI5_V9.5.2.0.NAACNFA_9b142afa7f_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAACNFA/gemini/fw_gemini_miui_MI5_V9.5.2.0.NAACNFA_9b142afa7f_7.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_V9.5.2.0.NAACNFA_9b142afa7f_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.19",
+   "android": "8.0"
+  },
+  "date": "2018-04-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-d6818781d3031ea0f661/fw_gemini_miui_MI5Global_8.4.19_85ec4557a8_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/gemini/fw_gemini_miui_MI5Global_8.4.19_85ec4557a8_8.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.4.19_85ec4557a8_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.3.26",
+   "android": "7.0"
+  },
+  "date": "2018-04-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-d6818781d3031ea0f661/fw_gemini_miui_MI5_8.3.26_461ebde20a_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.3.26/gemini/fw_gemini_miui_MI5_8.3.26_461ebde20a_7.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.3.26_461ebde20a_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.3.29",
+   "android": "7.0"
+  },
+  "date": "2018-04-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-d8947ce512bded891f31/fw_gemini_miui_MI5Global_8.3.29_2e09a00468_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.3.29/gemini/fw_gemini_miui_MI5Global_8.3.29_2e09a00468_7.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5Global_8.3.29_2e09a00468_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.3.26",
+   "android": "7.0"
+  },
+  "date": "2018-04-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/untagged-d8947ce512bded891f31/fw_gemini_miui_MI5_8.3.26_461ebde20a_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.3.26/gemini/fw_gemini_miui_MI5_8.3.26_461ebde20a_7.0.zip"
+  },
+  "filename": "fw_gemini_miui_MI5_8.3.26_461ebde20a_7.0.zip"
+ }
+]

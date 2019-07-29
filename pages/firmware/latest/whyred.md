@@ -1,10 +1,12 @@
 ---
-title: Xiaomi Redmi Note 5 (whyred) Downloads
+title: Redmi Note 5/5 Pro (whyred) Downloads
 layout: download
 permalink: /firmware/whyred/
 ---
+
 ## Latest Firmware
 #### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/whyred/)
+
 
 <div style="overflow-x:auto;">
 <table id="firmware" class="compact row-border" style="width:100%">

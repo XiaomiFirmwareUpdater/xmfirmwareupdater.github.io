@@ -1,0 +1,58 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.1.0.NAMMIXM",
+   "android": "7.1"
+  },
+  "date": "2019-05-01",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-01.05.2019/fw_santoni_miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/santoni/fw_santoni_miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip"
+  },
+  "filename": "fw_santoni_miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.1.0.NAMCNXM",
+   "android": "7.1"
+  },
+  "date": "2019-05-21",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-21.05.2019/fw_santoni_miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/santoni/fw_santoni_miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip"
+  },
+  "filename": "fw_santoni_miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.27",
+   "android": "7.1"
+  },
+  "date": "2019-06-28",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-28.06.2019/fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/santoni/fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip"
+  },
+  "filename": "fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.18",
+   "android": "7.1"
+  },
+  "date": "2019-07-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-19.07.2019/fw_santoni_miui_HM4X_9.7.18_2bf391cf64_7.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/santoni/fw_santoni_miui_HM4X_9.7.18_2bf391cf64_7.1.zip"
+  },
+  "filename": "fw_santoni_miui_HM4X_9.7.18_2bf391cf64_7.1.zip"
+ }
+]

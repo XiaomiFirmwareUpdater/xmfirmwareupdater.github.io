@@ -1,0 +1,506 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.5.0.PFGEUXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "Europe",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-26.07.2019/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.5.0.PFGEUXM_934d66eec9_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.5.0.PFGEUXM_934d66eec9_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDEREEAGlobal_V10.3.5.0.PFGEUXM_934d66eec9_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.6.0.PFGINXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "India",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-26.07.2019/fw_lavender_miui_LAVENDERINGlobal_V10.3.6.0.PFGINXM_7a59ebf942_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERINGlobal_V10.3.6.0.PFGINXM_7a59ebf942_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDERINGlobal_V10.3.6.0.PFGINXM_7a59ebf942_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.3.0.PFGCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-26.07.2019/fw_lavender_miui_LAVENDER_V10.3.3.0.PFGCNXM_cc98d908ca_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDER_V10.3.3.0.PFGCNXM_cc98d908ca_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_V10.3.3.0.PFGCNXM_cc98d908ca_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.25",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-26.07.2019/fw_lavender_miui_LAVENDER_9.7.25_a70f3c63fa_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/lavender/fw_lavender_miui_LAVENDER_9.7.25_a70f3c63fa_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.7.25_a70f3c63fa_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.18",
+   "android": "9.0"
+  },
+  "date": "2019-07-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-19.07.2019/fw_lavender_miui_LAVENDER_9.7.18_21da190f0d_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/lavender/fw_lavender_miui_LAVENDER_9.7.18_21da190f0d_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.7.18_21da190f0d_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.11",
+   "android": "9.0"
+  },
+  "date": "2019-07-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-12.07.2019/fw_lavender_miui_LAVENDER_9.7.11_c9963a318b_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/lavender/fw_lavender_miui_LAVENDER_9.7.11_c9963a318b_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.7.11_c9963a318b_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.4",
+   "android": "9.0"
+  },
+  "date": "2019-07-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-05.07.2019/fw_lavender_miui_LAVENDER_9.7.4_685147d37c_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/lavender/fw_lavender_miui_LAVENDER_9.7.4_685147d37c_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.7.4_685147d37c_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.27",
+   "android": "9.0"
+  },
+  "date": "2019-06-28",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-28.06.2019/fw_lavender_miui_LAVENDER_9.6.27_19f26c3bda_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/lavender/fw_lavender_miui_LAVENDER_9.6.27_19f26c3bda_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.6.27_19f26c3bda_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.4.0.PFGEUXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-27",
+  "region": "Europe",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-27.06.2019/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.4.0.PFGEUXM_c39033bf0f_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.4.0.PFGEUXM_c39033bf0f_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDEREEAGlobal_V10.3.4.0.PFGEUXM_c39033bf0f_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.6.0.PFGMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-24",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-24.06.2019/fw_lavender_miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDERGlobal_V10.3.6.0.PFGMIXM_8c74282d30_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.2.0.PFGEUXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-22",
+  "region": "Europe",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-22.06.2019/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.2.0.PFGEUXM_92977a674a_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.2.0.PFGEUXM_92977a674a_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDEREEAGlobal_V10.3.2.0.PFGEUXM_92977a674a_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.20",
+   "android": "9.0"
+  },
+  "date": "2019-06-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-22.06.2019/fw_lavender_miui_LAVENDER_9.6.20_a46d3fb014_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/lavender/fw_lavender_miui_LAVENDER_9.6.20_a46d3fb014_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.6.20_a46d3fb014_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.13",
+   "android": "9.0"
+  },
+  "date": "2019-06-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-14.06.2019/fw_lavender_miui_LAVENDER_9.6.13_0483d16524_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/lavender/fw_lavender_miui_LAVENDER_9.6.13_0483d16524_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.6.13_0483d16524_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.30",
+   "android": "9.0"
+  },
+  "date": "2019-06-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-03.06.2019/fw_lavender_miui_LAVENDER_9.5.30_1cc18b679b_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/lavender/fw_lavender_miui_LAVENDER_9.5.30_1cc18b679b_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.5.30_1cc18b679b_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.2.0.PFGCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-03.06.2019/fw_lavender_miui_LAVENDER_V10.3.2.0.PFGCNXM_7b8f383ce7_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDER_V10.3.2.0.PFGCNXM_7b8f383ce7_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_V10.3.2.0.PFGCNXM_7b8f383ce7_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.5.0.PFGINXM",
+   "android": "9.0"
+  },
+  "date": "2019-05-24",
+  "region": "India",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-24.05.2019/fw_lavender_miui_LAVENDERINGlobal_V10.3.5.0.PFGINXM_da89ac968b_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERINGlobal_V10.3.5.0.PFGINXM_da89ac968b_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDERINGlobal_V10.3.5.0.PFGINXM_da89ac968b_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.23",
+   "android": "9.0"
+  },
+  "date": "2019-05-24",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-24.05.2019/fw_lavender_miui_LAVENDER_9.5.23_c42e37f611_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/lavender/fw_lavender_miui_LAVENDER_9.5.23_c42e37f611_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.5.23_c42e37f611_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.16",
+   "android": "9.0"
+  },
+  "date": "2019-05-17",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-17.05.2019/fw_lavender_miui_LAVENDER_9.5.16_3be4e2ca2b_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/lavender/fw_lavender_miui_LAVENDER_9.5.16_3be4e2ca2b_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.5.16_3be4e2ca2b_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.9",
+   "android": "9.0"
+  },
+  "date": "2019-05-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-10.05.2019/fw_lavender_miui_LAVENDER_9.5.9_2a34bc3d99_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/lavender/fw_lavender_miui_LAVENDER_9.5.9_2a34bc3d99_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.5.9_2a34bc3d99_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.5.0.PFGMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-05-01",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-01.05.2019/fw_lavender_miui_LAVENDERGlobal_V10.3.5.0.PFGMIXM_a5cabeca22_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERGlobal_V10.3.5.0.PFGMIXM_a5cabeca22_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDERGlobal_V10.3.5.0.PFGMIXM_a5cabeca22_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.8.0.PFGMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-04-26",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-26.04.2019/fw_lavender_miui_LAVENDERGlobal_V10.2.8.0.PFGMIXM_1302dff043_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERGlobal_V10.2.8.0.PFGMIXM_1302dff043_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDERGlobal_V10.2.8.0.PFGMIXM_1302dff043_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.25",
+   "android": "9.0"
+  },
+  "date": "2019-04-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-26.04.2019/fw_lavender_miui_LAVENDER_9.4.25_13bb193f3f_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/lavender/fw_lavender_miui_LAVENDER_9.4.25_13bb193f3f_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.4.25_13bb193f3f_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.22",
+   "android": "9.0"
+  },
+  "date": "2019-04-23",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-23.04.2019/fw_lavender_miui_LAVENDER_9.4.22_e1dcc293fa_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.22/lavender/fw_lavender_miui_LAVENDER_9.4.22_e1dcc293fa_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.4.22_e1dcc293fa_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.12",
+   "android": "9.0"
+  },
+  "date": "2019-04-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-15.04.2019/fw_lavender_miui_LAVENDER_9.4.12_15edfad118_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.12/lavender/fw_lavender_miui_LAVENDER_9.4.12_15edfad118_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.4.12_15edfad118_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.11.0.PFGINXM",
+   "android": "9.0"
+  },
+  "date": "2019-04-13",
+  "region": "India",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-13.04.2019/fw_lavender_miui_LAVENDERINGlobal_V10.2.11.0.PFGINXM_902c58efd1_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERINGlobal_V10.2.11.0.PFGINXM_902c58efd1_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDERINGlobal_V10.2.11.0.PFGINXM_902c58efd1_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.1.0.PFGCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-04-11",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-11.04.2019/fw_lavender_miui_LAVENDER_V10.3.1.0.PFGCNXM_bf965f4564_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDER_V10.3.1.0.PFGCNXM_bf965f4564_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_V10.3.1.0.PFGCNXM_bf965f4564_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.7.0.PFGINXM",
+   "android": "9.0"
+  },
+  "date": "2019-04-01",
+  "region": "India",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-01.04.2019/fw_lavender_miui_LAVENDERINGlobal_V10.2.7.0.PFGINXM_1b0374cd32_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERINGlobal_V10.2.7.0.PFGINXM_1b0374cd32_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDERINGlobal_V10.2.7.0.PFGINXM_1b0374cd32_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.28",
+   "android": "9.0"
+  },
+  "date": "2019-03-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-29.03.2019/fw_lavender_miui_LAVENDER_9.3.28_82798d9bee_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/lavender/fw_lavender_miui_LAVENDER_9.3.28_82798d9bee_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.3.28_82798d9bee_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.13.0.PFGCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-03-25",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-25.03.2019/fw_lavender_miui_LAVENDER_V10.2.13.0.PFGCNXM_85f3f1b262_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDER_V10.2.13.0.PFGCNXM_85f3f1b262_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_V10.2.13.0.PFGCNXM_85f3f1b262_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.21",
+   "android": "9.0"
+  },
+  "date": "2019-03-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-22.03.2019/fw_lavender_miui_LAVENDER_9.3.21_651bc70319_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/lavender/fw_lavender_miui_LAVENDER_9.3.21_651bc70319_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.3.21_651bc70319_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.14",
+   "android": "9.0"
+  },
+  "date": "2019-03-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-15.03.2019/fw_lavender_miui_LAVENDER_9.3.14_e5d366174d_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/lavender/fw_lavender_miui_LAVENDER_9.3.14_e5d366174d_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.3.14_e5d366174d_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.7",
+   "android": "9.0"
+  },
+  "date": "2019-03-09",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-09.03.2019/fw_lavender_miui_LAVENDER_9.3.7_db20130373_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/lavender/fw_lavender_miui_LAVENDER_9.3.7_db20130373_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.3.7_db20130373_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.1",
+   "android": "9.0"
+  },
+  "date": "2019-03-04",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-04.03.2019/fw_lavender_miui_LAVENDER_9.3.1_13fa1e4821_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.1/lavender/fw_lavender_miui_LAVENDER_9.3.1_13fa1e4821_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.3.1_13fa1e4821_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.22",
+   "android": "9.0"
+  },
+  "date": "2019-02-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-26.02.2019/fw_lavender_miui_LAVENDER_9.2.22_dfa84aff81_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.22/lavender/fw_lavender_miui_LAVENDER_9.2.22_dfa84aff81_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.2.22_dfa84aff81_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.14",
+   "android": "9.0"
+  },
+  "date": "2019-02-18",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-18.02.2019/fw_lavender_miui_LAVENDER_9.2.14_7b61a04580_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.14/lavender/fw_lavender_miui_LAVENDER_9.2.14_7b61a04580_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_9.2.14_7b61a04580_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.8.0.PFGCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-02-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-07.02.2019/fw_lavender_miui_LAVENDER_V10.2.8.0.PFGCNXM_b5a787b17c_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDER_V10.2.8.0.PFGCNXM_b5a787b17c_9.0.zip"
+  },
+  "filename": "fw_lavender_miui_LAVENDER_V10.2.8.0.PFGCNXM_b5a787b17c_9.0.zip"
+ }
+]

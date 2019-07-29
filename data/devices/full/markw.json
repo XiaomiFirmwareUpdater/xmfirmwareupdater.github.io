@@ -1,0 +1,660 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.2.0.MBECNXM",
+   "android": "6.0"
+  },
+  "date": "2019-05-21",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/stable-21.05.2019/fw_markw_miui_HM4Pro_V10.2.2.0.MBECNXM_988d0d76c0_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/markw/fw_markw_miui_HM4Pro_V10.2.2.0.MBECNXM_988d0d76c0_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_V10.2.2.0.MBECNXM_988d0d76c0_6.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.2.0.MBEMIXM",
+   "android": "6.0"
+  },
+  "date": "2019-05-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/stable-20.05.2019/fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/markw/fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.28",
+   "android": "6.0"
+  },
+  "date": "2019-03-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-29.03.2019/fw_markw_miui_HM4Pro_9.3.28_cc2d21bcba_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/markw/fw_markw_miui_HM4Pro_9.3.28_cc2d21bcba_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_9.3.28_cc2d21bcba_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.21",
+   "android": "6.0"
+  },
+  "date": "2019-03-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-22.03.2019/fw_markw_miui_HM4Pro_9.3.21_80dfe97685_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/markw/fw_markw_miui_HM4Pro_9.3.21_80dfe97685_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_9.3.21_80dfe97685_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.24",
+   "android": "6.0"
+  },
+  "date": "2019-01-25",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-25.01.2019/fw_markw_miui_HM4Pro_9.1.24_8e5c4339fe_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/markw/fw_markw_miui_HM4Pro_9.1.24_8e5c4339fe_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_9.1.24_8e5c4339fe_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.17",
+   "android": "6.0"
+  },
+  "date": "2019-01-18",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-18.01.2019/fw_markw_miui_HM4Pro_9.1.17_4a31be5d88_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/markw/fw_markw_miui_HM4Pro_9.1.17_4a31be5d88_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_9.1.17_4a31be5d88_6.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.1.0.MBECNXM",
+   "android": "6.0"
+  },
+  "date": "2019-01-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/stable-15.01.2019/fw_markw_miui_HM4Pro_V10.2.1.0.MBECNXM_16bf004db9_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/markw/fw_markw_miui_HM4Pro_V10.2.1.0.MBECNXM_16bf004db9_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_V10.2.1.0.MBECNXM_16bf004db9_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.10",
+   "android": "6.0"
+  },
+  "date": "2019-01-11",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-11.01.2019/fw_markw_miui_HM4Pro_9.1.10_c32f5a2fc2_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/markw/fw_markw_miui_HM4Pro_9.1.10_c32f5a2fc2_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_9.1.10_c32f5a2fc2_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.27",
+   "android": "6.0"
+  },
+  "date": "2018-12-28",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-28.12.2018/fw_markw_miui_HM4Pro_8.12.27_2ae6e36d78_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/markw/fw_markw_miui_HM4Pro_8.12.27_2ae6e36d78_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.12.27_2ae6e36d78_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.20",
+   "android": "6.0"
+  },
+  "date": "2018-12-21",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-21.12.2018/fw_markw_miui_HM4Pro_8.12.20_ee4fb1bea5_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/markw/fw_markw_miui_HM4Pro_8.12.20_ee4fb1bea5_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.12.20_ee4fb1bea5_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.13",
+   "android": "6.0"
+  },
+  "date": "2018-12-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-14.12.2018/fw_markw_miui_HM4Pro_8.12.13_1bb987bb83_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/markw/fw_markw_miui_HM4Pro_8.12.13_1bb987bb83_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.12.13_1bb987bb83_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.6",
+   "android": "6.0"
+  },
+  "date": "2018-12-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-07.12.2018/fw_markw_miui_HM4Pro_8.12.6_f5bf3ad1af_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/markw/fw_markw_miui_HM4Pro_8.12.6_f5bf3ad1af_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.12.6_f5bf3ad1af_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.29",
+   "android": "6.0"
+  },
+  "date": "2018-11-30",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-30.11.2018/fw_markw_miui_HM4Pro_8.11.29_ff33015779_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/markw/fw_markw_miui_HM4Pro_8.11.29_ff33015779_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.11.29_ff33015779_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.22",
+   "android": "6.0"
+  },
+  "date": "2018-11-23",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-23.11.2018/fw_markw_miui_HM4Pro_8.11.22_c70771cad2_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/markw/fw_markw_miui_HM4Pro_8.11.22_c70771cad2_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.11.22_c70771cad2_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.15",
+   "android": "6.0"
+  },
+  "date": "2018-11-16",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-16.11.2018/fw_markw_miui_HM4Pro_8.11.15_e6a86a4865_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/markw/fw_markw_miui_HM4Pro_8.11.15_e6a86a4865_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.11.15_e6a86a4865_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.8",
+   "android": "6.0"
+  },
+  "date": "2018-11-09",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-09.11.2018/fw_markw_miui_HM4Pro_8.11.8_6fd6088757_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/markw/fw_markw_miui_HM4Pro_8.11.8_6fd6088757_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.11.8_6fd6088757_6.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.1.1.0.MBECNFI",
+   "android": "6.0"
+  },
+  "date": "2018-11-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/stable-07.11.2018/fw_markw_miui_HM4Pro_V10.1.1.0.MBECNFI_c452666c5c_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/markw/fw_markw_miui_HM4Pro_V10.1.1.0.MBECNFI_c452666c5c_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_V10.1.1.0.MBECNFI_c452666c5c_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.1",
+   "android": "6.0"
+  },
+  "date": "2018-11-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-02.11.2018/fw_markw_miui_HM4Pro_8.11.1_0de5d12124_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/markw/fw_markw_miui_HM4Pro_8.11.1_0de5d12124_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.11.1_0de5d12124_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.25",
+   "android": "6.0"
+  },
+  "date": "2018-10-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-26.10.2018/fw_markw_miui_HM4Pro_8.10.25_1319bd3d57_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/markw/fw_markw_miui_HM4Pro_8.10.25_1319bd3d57_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.10.25_1319bd3d57_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.18",
+   "android": "6.0"
+  },
+  "date": "2018-10-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-19.10.2018/fw_markw_miui_HM4Pro_8.10.18_26730274c4_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/markw/fw_markw_miui_HM4Pro_8.10.18_26730274c4_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.10.18_26730274c4_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.11",
+   "android": "6.0"
+  },
+  "date": "2018-10-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-12.10.2018/fw_markw_miui_HM4Pro_8.10.11_2d1a05b802_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/markw/fw_markw_miui_HM4Pro_8.10.11_2d1a05b802_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.10.11_2d1a05b802_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "6.0"
+  },
+  "date": "2018-09-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-26.09.2018/fw_markw_miui_HM4Pro_8.9.20_6bc9c69803_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/markw/fw_markw_miui_HM4Pro_8.9.20_6bc9c69803_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.9.20_6bc9c69803_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.13",
+   "android": "6.0"
+  },
+  "date": "2018-09-25",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-25.09.2018/fw_markw_miui_HM4Pro_8.9.13_424fed27cf_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/markw/fw_markw_miui_HM4Pro_8.9.13_424fed27cf_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.9.13_424fed27cf_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "6.0"
+  },
+  "date": "2018-09-21",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-21.09.2018/fw_markw_miui_HM4Pro_8.9.20_6bc9c69803_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/markw/fw_markw_miui_HM4Pro_8.9.20_6bc9c69803_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.9.20_6bc9c69803_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.13",
+   "android": "6.0"
+  },
+  "date": "2018-09-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-14.09.2018/fw_markw_miui_HM4Pro_8.9.13_424fed27cf_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/markw/fw_markw_miui_HM4Pro_8.9.13_424fed27cf_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.9.13_424fed27cf_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.6",
+   "android": "6.0"
+  },
+  "date": "2018-09-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-07.09.2018/fw_markw_miui_HM4Pro_8.9.6_8ab8e2c9b4_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/markw/fw_markw_miui_HM4Pro_8.9.6_8ab8e2c9b4_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.9.6_8ab8e2c9b4_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.31",
+   "android": "6.0"
+  },
+  "date": "2018-09-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-03.09.2018/fw_markw_miui_HM4Pro_8.8.31_9e280d1b3c_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.31/markw/fw_markw_miui_HM4Pro_8.8.31_9e280d1b3c_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.8.31_9e280d1b3c_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "6.0"
+  },
+  "date": "2018-08-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-29.08.2018/fw_markw_miui_HM4Pro_8.8.23_5d7507ebaf_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/markw/fw_markw_miui_HM4Pro_8.8.23_5d7507ebaf_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.8.23_5d7507ebaf_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "6.0"
+  },
+  "date": "2018-08-24",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-24.08.2018/fw_markw_miui_HM4Pro_8.8.23_5d7507ebaf_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/markw/fw_markw_miui_HM4Pro_8.8.23_5d7507ebaf_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.8.23_5d7507ebaf_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.16",
+   "android": "6.0"
+  },
+  "date": "2018-08-17",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-17.08.2018/fw_markw_miui_HM4Pro_8.8.16_78c59cb052_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/markw/fw_markw_miui_HM4Pro_8.8.16_78c59cb052_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.8.16_78c59cb052_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.9",
+   "android": "6.0"
+  },
+  "date": "2018-08-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-37ce4c6cc61d4a5a6675/fw_markw_miui_HM4Pro_8.8.9_9eca9a88f8_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/markw/fw_markw_miui_HM4Pro_8.8.9_9eca9a88f8_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.8.9_9eca9a88f8_6.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.2.0.MBECNFD",
+   "android": "6.0"
+  },
+  "date": "2018-08-09",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/stable-09.08.2018/fw_markw_miui_HM4Pro_V9.6.2.0.MBECNFD_0c2f7cde4e_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/markw/fw_markw_miui_HM4Pro_V9.6.2.0.MBECNFD_0c2f7cde4e_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_V9.6.2.0.MBECNFD_0c2f7cde4e_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.3",
+   "android": "6.0"
+  },
+  "date": "2018-08-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/weekly-06.08.2018/fw_markw_miui_HM4Pro_8.8.3_057e537067_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/markw/fw_markw_miui_HM4Pro_8.8.3_057e537067_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.8.3_057e537067_6.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.5.2.0.MBECNFA",
+   "android": "6.0"
+  },
+  "date": "2018-07-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/stable-20.07.2018/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/markw/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.MBECNFA",
+   "android": "6.0"
+  },
+  "date": "2018-07-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-3e9fe1335eb1c0e01ae8/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MBECNFA/markw/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.28",
+   "android": "6.0"
+  },
+  "date": "2018-07-09",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-2cf69697fe3d415cfeae/fw_markw_miui_HM4Pro_8.4.28_674dd06e2c_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/markw/fw_markw_miui_HM4Pro_8.4.28_674dd06e2c_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.4.28_674dd06e2c_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.28",
+   "android": "6.0"
+  },
+  "date": "2018-07-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-941d60ff3abc58c0cbe6/fw_markw_miui_HM4Pro_8.4.28_674dd06e2c_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/markw/fw_markw_miui_HM4Pro_8.4.28_674dd06e2c_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.4.28_674dd06e2c_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.MBECNFA",
+   "android": "6.0"
+  },
+  "date": "2018-06-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-8f124ff11c1bdfd0cfee/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MBECNFA/markw/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.26",
+   "android": "6.0"
+  },
+  "date": "2018-06-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-6b5ebf9de12be5cacce5/fw_markw_miui_HM4Pro_8.4.26_5c1a9048c9_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/markw/fw_markw_miui_HM4Pro_8.4.26_5c1a9048c9_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.4.26_5c1a9048c9_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.28",
+   "android": "6.0"
+  },
+  "date": "2018-06-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-6b5ebf9de12be5cacce5/fw_markw_miui_HM4Pro_8.4.28_674dd06e2c_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/markw/fw_markw_miui_HM4Pro_8.4.28_674dd06e2c_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.4.28_674dd06e2c_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.MBECNFA",
+   "android": "6.0"
+  },
+  "date": "2018-05-30",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-78504b77450bec28db45/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MBECNFA/markw/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.MBECNFA",
+   "android": "6.0"
+  },
+  "date": "2018-05-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-9eb284a269ec584bf178/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MBECNFA/markw/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.MBECNFA",
+   "android": "6.0"
+  },
+  "date": "2018-05-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-d4f6929a789b542972b3/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MBECNFA/markw/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.26",
+   "android": "6.0"
+  },
+  "date": "2018-04-27",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-07e8f4da0d89999abc27/fw_markw_miui_HM4Pro_8.4.26_5c1a9048c9_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/markw/fw_markw_miui_HM4Pro_8.4.26_5c1a9048c9_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.4.26_5c1a9048c9_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.19",
+   "android": "6.0"
+  },
+  "date": "2018-04-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-a76523649f1373dbdb1d/fw_markw_miui_HM4Pro_8.4.19_d6e45ba088_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/markw/fw_markw_miui_HM4Pro_8.4.19_d6e45ba088_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.4.19_d6e45ba088_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.26",
+   "android": "6.0"
+  },
+  "date": "2018-04-27",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-a76523649f1373dbdb1d/fw_markw_miui_HM4Pro_8.4.26_5c1a9048c9_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/markw/fw_markw_miui_HM4Pro_8.4.26_5c1a9048c9_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.4.26_5c1a9048c9_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.12",
+   "android": "6.0"
+  },
+  "date": "2018-04-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw/releases/download/untagged-ca73aa1a11f44309aebb/fw_markw_miui_HM4Pro_8.4.12_a5c6c3745d_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/markw/fw_markw_miui_HM4Pro_8.4.12_a5c6c3745d_6.0.zip"
+  },
+  "filename": "fw_markw_miui_HM4Pro_8.4.12_a5c6c3745d_6.0.zip"
+ }
+]

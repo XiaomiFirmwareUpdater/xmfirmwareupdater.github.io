@@ -1,0 +1,926 @@
+[
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.25",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-26.07.2019/fw_equuleus_miui_MI8UD_9.7.25_ab4a04408c_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/equuleus/fw_equuleus_miui_MI8UD_9.7.25_ab4a04408c_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.7.25_ab4a04408c_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.4.0.PECCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-25",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-25.07.2019/fw_equuleus_miui_MI8UD_V10.3.4.0.PECCNXM_aef3e722a2_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UD_V10.3.4.0.PECCNXM_aef3e722a2_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_V10.3.4.0.PECCNXM_aef3e722a2_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.4.0.PECMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-24",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-24.07.2019/fw_equuleus_miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_V10.3.4.0.PECMIXM_d747a3f050_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.18",
+   "android": "9.0"
+  },
+  "date": "2019-07-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-19.07.2019/fw_equuleus_miui_MI8UD_9.7.18_c9d5e5bc2a_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/equuleus/fw_equuleus_miui_MI8UD_9.7.18_c9d5e5bc2a_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.7.18_c9d5e5bc2a_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.11",
+   "android": "9.0"
+  },
+  "date": "2019-07-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-13.07.2019/fw_equuleus_miui_MI8UD_9.7.11_207a1cfac1_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/equuleus/fw_equuleus_miui_MI8UD_9.7.11_207a1cfac1_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.7.11_207a1cfac1_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.1.0.PECCNFK",
+   "android": "9.0"
+  },
+  "date": "2019-07-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-05.07.2019/fw_equuleus_miui_MI8UD_V10.2.1.0.PECCNFK_2b3cc85dac_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UD_V10.2.1.0.PECCNFK_2b3cc85dac_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_V10.2.1.0.PECCNFK_2b3cc85dac_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.4",
+   "android": "9.0"
+  },
+  "date": "2019-07-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-05.07.2019/fw_equuleus_miui_MI8UD_9.7.4_c15d2d7586_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/equuleus/fw_equuleus_miui_MI8UD_9.7.4_c15d2d7586_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.7.4_c15d2d7586_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.27",
+   "android": "9.0"
+  },
+  "date": "2019-06-28",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-28.06.2019/fw_equuleus_miui_MI8UDGlobal_9.6.27_0b930d500c_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/equuleus/fw_equuleus_miui_MI8UDGlobal_9.6.27_0b930d500c_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.6.27_0b930d500c_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.27",
+   "android": "9.0"
+  },
+  "date": "2019-06-28",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-28.06.2019/fw_equuleus_miui_MI8UD_9.6.27_dd916d8786_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/equuleus/fw_equuleus_miui_MI8UD_9.6.27_dd916d8786_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.6.27_dd916d8786_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.3.0.PECCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-26.06.2019/fw_equuleus_miui_MI8UD_V10.3.3.0.PECCNXM_e15fc692b0_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UD_V10.3.3.0.PECCNXM_e15fc692b0_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_V10.3.3.0.PECCNXM_e15fc692b0_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.20",
+   "android": "9.0"
+  },
+  "date": "2019-06-22",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-22.06.2019/fw_equuleus_miui_MI8UDGlobal_9.6.20_fed3153bd4_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/equuleus/fw_equuleus_miui_MI8UDGlobal_9.6.20_fed3153bd4_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.6.20_fed3153bd4_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.20",
+   "android": "9.0"
+  },
+  "date": "2019-06-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-22.06.2019/fw_equuleus_miui_MI8UD_9.6.20_83814ee7b5_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/equuleus/fw_equuleus_miui_MI8UD_9.6.20_83814ee7b5_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.6.20_83814ee7b5_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.13",
+   "android": "9.0"
+  },
+  "date": "2019-06-14",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-14.06.2019/fw_equuleus_miui_MI8UDGlobal_9.6.13_8eafa90158_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/equuleus/fw_equuleus_miui_MI8UDGlobal_9.6.13_8eafa90158_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.6.13_8eafa90158_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.13",
+   "android": "9.0"
+  },
+  "date": "2019-06-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-14.06.2019/fw_equuleus_miui_MI8UD_9.6.13_b055e4306a_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/equuleus/fw_equuleus_miui_MI8UD_9.6.13_b055e4306a_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.6.13_b055e4306a_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.30",
+   "android": "9.0"
+  },
+  "date": "2019-05-31",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-31.05.2019/fw_equuleus_miui_MI8UDGlobal_9.5.30_899c25d962_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/equuleus/fw_equuleus_miui_MI8UDGlobal_9.5.30_899c25d962_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.5.30_899c25d962_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.30",
+   "android": "9.0"
+  },
+  "date": "2019-05-31",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-31.05.2019/fw_equuleus_miui_MI8UD_9.5.30_8718c17931_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/equuleus/fw_equuleus_miui_MI8UD_9.5.30_8718c17931_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.5.30_8718c17931_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.3.0.PECMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-05-21",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-21.05.2019/fw_equuleus_miui_MI8UDGlobal_V10.3.3.0.PECMIXM_cbd37dea1a_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UDGlobal_V10.3.3.0.PECMIXM_cbd37dea1a_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_V10.3.3.0.PECMIXM_cbd37dea1a_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.17",
+   "android": "9.0"
+  },
+  "date": "2019-05-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-20.05.2019/fw_equuleus_miui_MI8UDGlobal_9.5.17_070103e011_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.17/equuleus/fw_equuleus_miui_MI8UDGlobal_9.5.17_070103e011_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.5.17_070103e011_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.17",
+   "android": "9.0"
+  },
+  "date": "2019-05-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-20.05.2019/fw_equuleus_miui_MI8UD_9.5.17_5372faae1b_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.17/equuleus/fw_equuleus_miui_MI8UD_9.5.17_5372faae1b_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.5.17_5372faae1b_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.9",
+   "android": "9.0"
+  },
+  "date": "2019-05-10",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-10.05.2019/fw_equuleus_miui_MI8UDGlobal_9.5.9_4a56b6f0f0_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/equuleus/fw_equuleus_miui_MI8UDGlobal_9.5.9_4a56b6f0f0_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.5.9_4a56b6f0f0_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.9",
+   "android": "9.0"
+  },
+  "date": "2019-05-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-10.05.2019/fw_equuleus_miui_MI8UD_9.5.9_b6d2a27972_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/equuleus/fw_equuleus_miui_MI8UD_9.5.9_b6d2a27972_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.5.9_b6d2a27972_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.18",
+   "android": "9.0"
+  },
+  "date": "2019-05-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-05.05.2019/fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/equuleus/fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.26",
+   "android": "9.0"
+  },
+  "date": "2019-04-29",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-29.04.2019/fw_equuleus_miui_MI8UDGlobal_9.4.26_ae4687849a_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.26/equuleus/fw_equuleus_miui_MI8UDGlobal_9.4.26_ae4687849a_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.4.26_ae4687849a_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.26",
+   "android": "9.0"
+  },
+  "date": "2019-04-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-29.04.2019/fw_equuleus_miui_MI8UD_9.4.26_0778ff89b7_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.26/equuleus/fw_equuleus_miui_MI8UD_9.4.26_0778ff89b7_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.4.26_0778ff89b7_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.18",
+   "android": "9.0"
+  },
+  "date": "2019-04-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-20.04.2019/fw_equuleus_miui_MI8UDGlobal_9.4.18_67ff6da452_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/equuleus/fw_equuleus_miui_MI8UDGlobal_9.4.18_67ff6da452_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.4.18_67ff6da452_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.18",
+   "android": "9.0"
+  },
+  "date": "2019-04-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-19.04.2019/fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/equuleus/fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.12",
+   "android": "9.0"
+  },
+  "date": "2019-04-15",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-15.04.2019/fw_equuleus_miui_MI8UDGlobal_9.4.12_821a183632_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.12/equuleus/fw_equuleus_miui_MI8UDGlobal_9.4.12_821a183632_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.4.12_821a183632_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.12",
+   "android": "9.0"
+  },
+  "date": "2019-04-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-15.04.2019/fw_equuleus_miui_MI8UD_9.4.12_9dfbf6d8de_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.12/equuleus/fw_equuleus_miui_MI8UD_9.4.12_9dfbf6d8de_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.4.12_9dfbf6d8de_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.28",
+   "android": "9.0"
+  },
+  "date": "2019-03-29",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-29.03.2019/fw_equuleus_miui_MI8UDGlobal_9.3.28_95e7c89a78_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/equuleus/fw_equuleus_miui_MI8UDGlobal_9.3.28_95e7c89a78_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.3.28_95e7c89a78_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.28",
+   "android": "9.0"
+  },
+  "date": "2019-03-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-29.03.2019/fw_equuleus_miui_MI8UD_9.3.28_a1b682b327_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/equuleus/fw_equuleus_miui_MI8UD_9.3.28_a1b682b327_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.3.28_a1b682b327_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.21",
+   "android": "9.0"
+  },
+  "date": "2019-03-22",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-22.03.2019/fw_equuleus_miui_MI8UDGlobal_9.3.21_c88327b3ef_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/equuleus/fw_equuleus_miui_MI8UDGlobal_9.3.21_c88327b3ef_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.3.21_c88327b3ef_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.21",
+   "android": "9.0"
+  },
+  "date": "2019-03-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-22.03.2019/fw_equuleus_miui_MI8UD_9.3.21_f996194f9f_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/equuleus/fw_equuleus_miui_MI8UD_9.3.21_f996194f9f_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.3.21_f996194f9f_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.14",
+   "android": "9.0"
+  },
+  "date": "2019-03-15",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-15.03.2019/fw_equuleus_miui_MI8UDGlobal_9.3.14_7ba65bf7db_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/equuleus/fw_equuleus_miui_MI8UDGlobal_9.3.14_7ba65bf7db_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.3.14_7ba65bf7db_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.14",
+   "android": "9.0"
+  },
+  "date": "2019-03-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-15.03.2019/fw_equuleus_miui_MI8UD_9.3.14_e75485d96a_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/equuleus/fw_equuleus_miui_MI8UD_9.3.14_e75485d96a_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.3.14_e75485d96a_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.2.0.PECMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-03-11",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-11.03.2019/fw_equuleus_miui_MI8UDGlobal_V10.2.2.0.PECMIXM_18c3c043ea_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UDGlobal_V10.2.2.0.PECMIXM_18c3c043ea_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_V10.2.2.0.PECMIXM_18c3c043ea_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.7",
+   "android": "9.0"
+  },
+  "date": "2019-03-11",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-11.03.2019/fw_equuleus_miui_MI8UDGlobal_9.3.7_291befc896_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/equuleus/fw_equuleus_miui_MI8UDGlobal_9.3.7_291befc896_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.3.7_291befc896_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.7",
+   "android": "9.0"
+  },
+  "date": "2019-03-11",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-11.03.2019/fw_equuleus_miui_MI8UD_9.3.7_75f0cef08d_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/equuleus/fw_equuleus_miui_MI8UD_9.3.7_75f0cef08d_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.3.7_75f0cef08d_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.1",
+   "android": "9.0"
+  },
+  "date": "2019-03-04",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-04.03.2019/fw_equuleus_miui_MI8UDGlobal_9.3.1_e644d42213_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.1/equuleus/fw_equuleus_miui_MI8UDGlobal_9.3.1_e644d42213_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.3.1_e644d42213_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.1",
+   "android": "9.0"
+  },
+  "date": "2019-03-04",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-04.03.2019/fw_equuleus_miui_MI8UD_9.3.1_f044d5da54_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.1/equuleus/fw_equuleus_miui_MI8UD_9.3.1_f044d5da54_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.3.1_f044d5da54_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.1.0.PECMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-02-26",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-26.02.2019/fw_equuleus_miui_MI8UDGlobal_V10.2.1.0.PECMIXM_cc6b41b8ee_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UDGlobal_V10.2.1.0.PECMIXM_cc6b41b8ee_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_V10.2.1.0.PECMIXM_cc6b41b8ee_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.21",
+   "android": "9.0"
+  },
+  "date": "2019-02-22",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-22.02.2019/fw_equuleus_miui_MI8UDGlobal_9.2.21_6cb64f6161_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/equuleus/fw_equuleus_miui_MI8UDGlobal_9.2.21_6cb64f6161_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.2.21_6cb64f6161_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.21",
+   "android": "9.0"
+  },
+  "date": "2019-02-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-22.02.2019/fw_equuleus_miui_MI8UD_9.2.21_2b87d6e332_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/equuleus/fw_equuleus_miui_MI8UD_9.2.21_2b87d6e332_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.2.21_2b87d6e332_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.15",
+   "android": "9.0"
+  },
+  "date": "2019-02-18",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-18.02.2019/fw_equuleus_miui_MI8UDGlobal_9.2.15_16816afe60_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/equuleus/fw_equuleus_miui_MI8UDGlobal_9.2.15_16816afe60_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.2.15_16816afe60_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.15",
+   "android": "9.0"
+  },
+  "date": "2019-02-18",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-18.02.2019/fw_equuleus_miui_MI8UD_9.2.15_1a700ed31a_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/equuleus/fw_equuleus_miui_MI8UD_9.2.15_1a700ed31a_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.2.15_1a700ed31a_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.24",
+   "android": "9.0"
+  },
+  "date": "2019-01-25",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-25.01.2019/fw_equuleus_miui_MI8UDGlobal_9.1.24_d85b82b3ca_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/equuleus/fw_equuleus_miui_MI8UDGlobal_9.1.24_d85b82b3ca_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.1.24_d85b82b3ca_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.24",
+   "android": "9.0"
+  },
+  "date": "2019-01-25",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-25.01.2019/fw_equuleus_miui_MI8UD_9.1.24_ad33756e49_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/equuleus/fw_equuleus_miui_MI8UD_9.1.24_ad33756e49_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.1.24_ad33756e49_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.17",
+   "android": "9.0"
+  },
+  "date": "2019-01-18",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-18.01.2019/fw_equuleus_miui_MI8UDGlobal_9.1.17_1a132ecc0d_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/equuleus/fw_equuleus_miui_MI8UDGlobal_9.1.17_1a132ecc0d_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.1.17_1a132ecc0d_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.17",
+   "android": "9.0"
+  },
+  "date": "2019-01-18",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-18.01.2019/fw_equuleus_miui_MI8UD_9.1.17_71fc614e07_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/equuleus/fw_equuleus_miui_MI8UD_9.1.17_71fc614e07_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.1.17_71fc614e07_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.10",
+   "android": "9.0"
+  },
+  "date": "2019-01-12",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-12.01.2019/fw_equuleus_miui_MI8UDGlobal_9.1.10_b1062e18de_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/equuleus/fw_equuleus_miui_MI8UDGlobal_9.1.10_b1062e18de_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_9.1.10_b1062e18de_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.10",
+   "android": "9.0"
+  },
+  "date": "2019-01-11",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-11.01.2019/fw_equuleus_miui_MI8UD_9.1.10_d6cb873c15_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/equuleus/fw_equuleus_miui_MI8UD_9.1.10_d6cb873c15_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.1.10_d6cb873c15_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.1.0.PECCNFK",
+   "android": "9.0"
+  },
+  "date": "2019-01-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-03.01.2019/fw_equuleus_miui_MI8UD_V10.2.1.0.PECCNFK_2b3cc85dac_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UD_V10.2.1.0.PECCNFK_2b3cc85dac_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_V10.2.1.0.PECCNFK_2b3cc85dac_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.1",
+   "android": "9.0"
+  },
+  "date": "2019-01-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-03.01.2019/fw_equuleus_miui_MI8UD_9.1.1_35f3768c71_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.1/equuleus/fw_equuleus_miui_MI8UD_9.1.1_35f3768c71_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_9.1.1_35f3768c71_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.27",
+   "android": "9.0"
+  },
+  "date": "2018-12-28",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-28.12.2018/fw_equuleus_miui_MI8UDGlobal_8.12.27_1923a28c5d_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/equuleus/fw_equuleus_miui_MI8UDGlobal_8.12.27_1923a28c5d_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_8.12.27_1923a28c5d_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.27",
+   "android": "9.0"
+  },
+  "date": "2018-12-28",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-28.12.2018/fw_equuleus_miui_MI8UD_8.12.27_d0979874b2_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/equuleus/fw_equuleus_miui_MI8UD_8.12.27_d0979874b2_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_8.12.27_d0979874b2_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.20",
+   "android": "9.0"
+  },
+  "date": "2018-12-23",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-23.12.2018/fw_equuleus_miui_MI8UDGlobal_8.12.20_3f7523c27f_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/equuleus/fw_equuleus_miui_MI8UDGlobal_8.12.20_3f7523c27f_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_8.12.20_3f7523c27f_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.20",
+   "android": "9.0"
+  },
+  "date": "2018-12-21",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-21.12.2018/fw_equuleus_miui_MI8UD_8.12.20_7f9ae47f39_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/equuleus/fw_equuleus_miui_MI8UD_8.12.20_7f9ae47f39_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_8.12.20_7f9ae47f39_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.13",
+   "android": "9.0"
+  },
+  "date": "2018-12-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-14.12.2018/fw_equuleus_miui_MI8UD_8.12.13_c3a41c70d7_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/equuleus/fw_equuleus_miui_MI8UD_8.12.13_c3a41c70d7_9.0.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_8.12.13_c3a41c70d7_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.6",
+   "android": "8.1"
+  },
+  "date": "2018-12-07",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-07.12.2018/fw_equuleus_miui_MI8UDGlobal_8.12.6_279335a737_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/equuleus/fw_equuleus_miui_MI8UDGlobal_8.12.6_279335a737_8.1.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_8.12.6_279335a737_8.1.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.29",
+   "android": "8.1"
+  },
+  "date": "2018-12-03",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-03.12.2018/fw_equuleus_miui_MI8UDGlobal_8.11.29_249fca6b5e_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/equuleus/fw_equuleus_miui_MI8UDGlobal_8.11.29_249fca6b5e_8.1.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_8.11.29_249fca6b5e_8.1.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.0.1.0.OECMIFH",
+   "android": "8.1"
+  },
+  "date": "2018-11-29",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-29.11.2018/fw_equuleus_miui_MI8UDGlobal_V10.0.1.0.OECMIFH_901ac2221a_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UDGlobal_V10.0.1.0.OECMIFH_901ac2221a_8.1.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_V10.0.1.0.OECMIFH_901ac2221a_8.1.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.23",
+   "android": "8.1"
+  },
+  "date": "2018-11-26",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-26.11.2018/fw_equuleus_miui_MI8UDGlobal_8.11.23_34e580ef7e_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.23/equuleus/fw_equuleus_miui_MI8UDGlobal_8.11.23_34e580ef7e_8.1.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_8.11.23_34e580ef7e_8.1.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.5.0.OECMIFD",
+   "android": "8.1"
+  },
+  "date": "2018-11-09",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-09.11.2018/fw_equuleus_miui_MI8UDGlobal_V9.6.5.0.OECMIFD_091b408404_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/equuleus/fw_equuleus_miui_MI8UDGlobal_V9.6.5.0.OECMIFD_091b408404_8.1.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UDGlobal_V9.6.5.0.OECMIFD_091b408404_8.1.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.0.2.0.OECCNFH",
+   "android": "8.1"
+  },
+  "date": "2018-10-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-29.10.2018/fw_equuleus_miui_MI8UD_V10.0.2.0.OECCNFH_5bc83e88b8_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UD_V10.0.2.0.OECCNFH_5bc83e88b8_8.1.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_V10.0.2.0.OECCNFH_5bc83e88b8_8.1.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.6.0.OECCNFD",
+   "android": "8.1"
+  },
+  "date": "2018-10-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-20.10.2018/fw_equuleus_miui_EQUULEUS_V9.6.6.0.OECCNFD_dbb5ea34ca_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/equuleus/fw_equuleus_miui_EQUULEUS_V9.6.6.0.OECCNFD_dbb5ea34ca_8.1.zip"
+  },
+  "filename": "fw_equuleus_miui_EQUULEUS_V9.6.6.0.OECCNFD_dbb5ea34ca_8.1.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.18",
+   "android": "8.1"
+  },
+  "date": "2018-10-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-20.10.2018/fw_equuleus_miui_MI8UD_8.10.18_a9b6bfaea7_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/equuleus/fw_equuleus_miui_MI8UD_8.10.18_a9b6bfaea7_8.1.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_8.10.18_a9b6bfaea7_8.1.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.18",
+   "android": "8.1"
+  },
+  "date": "2018-10-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-19.10.2018/fw_equuleus_miui_MI8UD_8.10.18_a9b6bfaea7_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/equuleus/fw_equuleus_miui_MI8UD_8.10.18_a9b6bfaea7_8.1.zip"
+  },
+  "filename": "fw_equuleus_miui_MI8UD_8.10.18_a9b6bfaea7_8.1.zip"
+ }
+]

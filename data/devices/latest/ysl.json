@@ -1,0 +1,58 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.1.0.OEFMIXM",
+   "android": "8.1"
+  },
+  "date": "2019-05-06",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/stable-06.05.2019/fw_ysl_miui_HMS2Global_V10.3.1.0.OEFMIXM_d4e3833b2b_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ysl/fw_ysl_miui_HMS2Global_V10.3.1.0.OEFMIXM_d4e3833b2b_8.1.zip"
+  },
+  "filename": "fw_ysl_miui_HMS2Global_V10.3.1.0.OEFMIXM_d4e3833b2b_8.1.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.4.0.OEFCNXM",
+   "android": "8.1"
+  },
+  "date": "2019-04-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/stable-15.04.2019/fw_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ysl/fw_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip"
+  },
+  "filename": "fw_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.28",
+   "android": "8.1"
+  },
+  "date": "2019-03-01",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/weekly-01.03.2019/fw_ysl_miui_HMS2Global_9.2.28_ee40a1ec1a_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.28/ysl/fw_ysl_miui_HMS2Global_9.2.28_ee40a1ec1a_8.1.zip"
+  },
+  "filename": "fw_ysl_miui_HMS2Global_9.2.28_ee40a1ec1a_8.1.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.28",
+   "android": "8.1"
+  },
+  "date": "2019-03-01",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/weekly-01.03.2019/fw_ysl_miui_HMS2_9.2.28_0138d72455_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.28/ysl/fw_ysl_miui_HMS2_9.2.28_0138d72455_8.1.zip"
+  },
+  "filename": "fw_ysl_miui_HMS2_9.2.28_0138d72455_8.1.zip"
+ }
+]

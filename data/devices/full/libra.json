@@ -1,0 +1,352 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.1.1.0.NXKCNFI",
+   "android": "7.0"
+  },
+  "date": "2018-11-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/stable-07.11.2018/fw_libra_miui_MI4c_V10.1.1.0.NXKCNFI_13b9b312d0_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/libra/fw_libra_miui_MI4c_V10.1.1.0.NXKCNFI_13b9b312d0_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_V10.1.1.0.NXKCNFI_13b9b312d0_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.13",
+   "android": "7.0"
+  },
+  "date": "2018-09-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-14.09.2018/fw_libra_miui_MI4c_8.9.13_6a39e99f8c_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/libra/fw_libra_miui_MI4c_8.9.13_6a39e99f8c_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.9.13_6a39e99f8c_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.6",
+   "android": "7.0"
+  },
+  "date": "2018-09-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-07.09.2018/fw_libra_miui_MI4c_8.9.6_1497823a57_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/libra/fw_libra_miui_MI4c_8.9.6_1497823a57_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.9.6_1497823a57_7.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.3.0.NXKCNFD",
+   "android": "7.0"
+  },
+  "date": "2018-09-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/stable-03.09.2018/fw_libra_miui_MI4c_V9.6.3.0.NXKCNFD_441bb74404_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/libra/fw_libra_miui_MI4c_V9.6.3.0.NXKCNFD_441bb74404_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_V9.6.3.0.NXKCNFD_441bb74404_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.30",
+   "android": "7.0"
+  },
+  "date": "2018-08-31",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-31.08.2018/fw_libra_miui_MI4c_8.8.30_0c7f613d90_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/libra/fw_libra_miui_MI4c_8.8.30_0c7f613d90_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.8.30_0c7f613d90_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "7.0"
+  },
+  "date": "2018-08-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-29.08.2018/fw_libra_miui_MI4c_8.8.23_e93764a162_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/libra/fw_libra_miui_MI4c_8.8.23_e93764a162_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.8.23_e93764a162_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.9",
+   "android": "7.0"
+  },
+  "date": "2018-08-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-10.08.2018/fw_libra_miui_MI4c_8.8.9_8292995cbf_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/libra/fw_libra_miui_MI4c_8.8.9_8292995cbf_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.8.9_8292995cbf_7.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.3.0.NXKCNFD",
+   "android": "7.0"
+  },
+  "date": "2018-08-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/stable-07.08.2018/fw_libra_miui_MI4c_V9.6.3.0.NXKCNFD_441bb74404_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/libra/fw_libra_miui_MI4c_V9.6.3.0.NXKCNFD_441bb74404_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_V9.6.3.0.NXKCNFD_441bb74404_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.3",
+   "android": "7.0"
+  },
+  "date": "2018-08-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-06.08.2018/fw_libra_miui_MI4c_8.8.3_3a7c203873_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/libra/fw_libra_miui_MI4c_8.8.3_3a7c203873_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.8.3_3a7c203873_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.26",
+   "android": "7.0"
+  },
+  "date": "2018-07-27",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-27.07.2018/fw_libra_miui_MI4c_8.7.26_f01ba1e182_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/libra/fw_libra_miui_MI4c_8.7.26_f01ba1e182_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.7.26_f01ba1e182_7.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.2.0.NXKCNFD",
+   "android": "7.0"
+  },
+  "date": "2018-07-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/stable-20.07.2018/fw_libra_miui_MI4c_V9.6.2.0.NXKCNFD_d6ad938e10_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/libra/fw_libra_miui_MI4c_V9.6.2.0.NXKCNFD_d6ad938e10_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_V9.6.2.0.NXKCNFD_d6ad938e10_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.19",
+   "android": "7.0"
+  },
+  "date": "2018-07-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-20.07.2018/fw_libra_miui_MI4c_8.7.19_3ce0f0b51d_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/libra/fw_libra_miui_MI4c_8.7.19_3ce0f0b51d_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.7.19_3ce0f0b51d_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.12",
+   "android": "7.0"
+  },
+  "date": "2018-07-13",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-31e2f0d0e636cb09d27a/fw_libra_miui_MI4c_8.7.12_1b98bcaf41_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/libra/fw_libra_miui_MI4c_8.7.12_1b98bcaf41_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.7.12_1b98bcaf41_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.6.2.0.NXKCNFD",
+   "android": "7.0"
+  },
+  "date": "2018-07-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-87360179cdc64146207f/fw_libra_miui_MI4c_V9.6.2.0.NXKCNFD_d6ad938e10_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.NXKCNFD/libra/fw_libra_miui_MI4c_V9.6.2.0.NXKCNFD_d6ad938e10_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_V9.6.2.0.NXKCNFD_d6ad938e10_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.28",
+   "android": "7.0"
+  },
+  "date": "2018-07-09",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-71ee64f8d8b3e99a60b1/fw_libra_miui_MI4c_8.4.28_cca810afe0_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/libra/fw_libra_miui_MI4c_8.4.28_cca810afe0_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.4.28_cca810afe0_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.28",
+   "android": "7.0"
+  },
+  "date": "2018-07-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-a6e7ed433d8698f9d29f/fw_libra_miui_MI4c_8.4.28_cca810afe0_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/libra/fw_libra_miui_MI4c_8.4.28_cca810afe0_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.4.28_cca810afe0_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.28",
+   "android": "7.0"
+  },
+  "date": "2018-06-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-4131ab2ffbd5b8f28eba/fw_libra_miui_MI4c_8.4.28_cca810afe0_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/libra/fw_libra_miui_MI4c_8.4.28_cca810afe0_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.4.28_cca810afe0_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.6.2.0.NXKCNFD",
+   "android": "7.0"
+  },
+  "date": "2018-06-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-4131ab2ffbd5b8f28eba/fw_libra_miui_MI4c_V9.6.2.0.NXKCNFD_d6ad938e10_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.NXKCNFD/libra/fw_libra_miui_MI4c_V9.6.2.0.NXKCNFD_d6ad938e10_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_V9.6.2.0.NXKCNFD_d6ad938e10_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NXKCNFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-30",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-7f2ceb6568a4f4a1ccc4/fw_libra_miui_MI4c_V9.5.2.0.NXKCNFA_81f363e363_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NXKCNFA/libra/fw_libra_miui_MI4c_V9.5.2.0.NXKCNFA_81f363e363_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_V9.5.2.0.NXKCNFA_81f363e363_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NXKCNFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-a91a1f3ce074231cfcb6/fw_libra_miui_MI4c_V9.5.2.0.NXKCNFA_81f363e363_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NXKCNFA/libra/fw_libra_miui_MI4c_V9.5.2.0.NXKCNFA_81f363e363_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_V9.5.2.0.NXKCNFA_81f363e363_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NXKCNFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-b076403eaa445840f537/fw_libra_miui_MI4c_V9.5.2.0.NXKCNFA_81f363e363_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NXKCNFA/libra/fw_libra_miui_MI4c_V9.5.2.0.NXKCNFA_81f363e363_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_V9.5.2.0.NXKCNFA_81f363e363_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.26",
+   "android": "7.0"
+  },
+  "date": "2018-04-27",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-d40de928de7e080232da/fw_libra_miui_MI4c_8.4.26_7d53f1583c_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/libra/fw_libra_miui_MI4c_8.4.26_7d53f1583c_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.4.26_7d53f1583c_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.19",
+   "android": "7.0"
+  },
+  "date": "2018-04-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-cc21dadfd939536aa1b1/fw_libra_miui_MI4c_8.4.19_7840af0fe3_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/libra/fw_libra_miui_MI4c_8.4.19_7840af0fe3_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.4.19_7840af0fe3_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.26",
+   "android": "7.0"
+  },
+  "date": "2018-04-27",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-cc21dadfd939536aa1b1/fw_libra_miui_MI4c_8.4.26_7d53f1583c_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/libra/fw_libra_miui_MI4c_8.4.26_7d53f1583c_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.4.26_7d53f1583c_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.12",
+   "android": "7.0"
+  },
+  "date": "2018-04-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-245d7ef835cd0d34c45e/fw_libra_miui_MI4c_8.4.12_531895fc2a_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/libra/fw_libra_miui_MI4c_8.4.12_531895fc2a_7.0.zip"
+  },
+  "filename": "fw_libra_miui_MI4c_8.4.12_531895fc2a_7.0.zip"
+ }
+]

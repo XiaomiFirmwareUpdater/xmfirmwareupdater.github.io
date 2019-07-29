@@ -1,0 +1,1710 @@
+[
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.25",
+   "android": "8.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-26.07.2019/fw_lithium_miui_MIMIX_9.7.25_2b8a7b5e45_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/lithium/fw_lithium_miui_MIMIX_9.7.25_2b8a7b5e45_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.7.25_2b8a7b5e45_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.18",
+   "android": "8.0"
+  },
+  "date": "2019-07-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-19.07.2019/fw_lithium_miui_MIMIX_9.7.18_1dbcaf7751_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/lithium/fw_lithium_miui_MIMIX_9.7.18_1dbcaf7751_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.7.18_1dbcaf7751_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.11",
+   "android": "8.0"
+  },
+  "date": "2019-07-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-12.07.2019/fw_lithium_miui_MIMIX_9.7.11_29e2f7f919_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/lithium/fw_lithium_miui_MIMIX_9.7.11_29e2f7f919_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.7.11_29e2f7f919_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.4",
+   "android": "8.0"
+  },
+  "date": "2019-07-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-05.07.2019/fw_lithium_miui_MIMIX_9.7.4_f12c90ccb6_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/lithium/fw_lithium_miui_MIMIX_9.7.4_f12c90ccb6_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.7.4_f12c90ccb6_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.27",
+   "android": "8.0"
+  },
+  "date": "2019-06-28",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-28.06.2019/fw_lithium_miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/lithium/fw_lithium_miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.27",
+   "android": "8.0"
+  },
+  "date": "2019-06-28",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-28.06.2019/fw_lithium_miui_MIMIX_9.6.27_d6b5a3446e_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/lithium/fw_lithium_miui_MIMIX_9.6.27_d6b5a3446e_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.6.27_d6b5a3446e_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.20",
+   "android": "8.0"
+  },
+  "date": "2019-06-22",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-22.06.2019/fw_lithium_miui_MIMIXGlobal_9.6.20_f7a6a1c1e6_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/lithium/fw_lithium_miui_MIMIXGlobal_9.6.20_f7a6a1c1e6_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.6.20_f7a6a1c1e6_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.20",
+   "android": "8.0"
+  },
+  "date": "2019-06-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-22.06.2019/fw_lithium_miui_MIMIX_9.6.20_4f59373a4a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/lithium/fw_lithium_miui_MIMIX_9.6.20_4f59373a4a_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.6.20_4f59373a4a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.13",
+   "android": "8.0"
+  },
+  "date": "2019-06-14",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-14.06.2019/fw_lithium_miui_MIMIXGlobal_9.6.13_40630823df_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/lithium/fw_lithium_miui_MIMIXGlobal_9.6.13_40630823df_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.6.13_40630823df_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.13",
+   "android": "8.0"
+  },
+  "date": "2019-06-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-14.06.2019/fw_lithium_miui_MIMIX_9.6.13_50dc036767_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/lithium/fw_lithium_miui_MIMIX_9.6.13_50dc036767_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.6.13_50dc036767_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.30",
+   "android": "8.0"
+  },
+  "date": "2019-05-31",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-31.05.2019/fw_lithium_miui_MIMIXGlobal_9.5.30_4f7d7ad49a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/lithium/fw_lithium_miui_MIMIXGlobal_9.5.30_4f7d7ad49a_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.5.30_4f7d7ad49a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.30",
+   "android": "8.0"
+  },
+  "date": "2019-05-31",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-31.05.2019/fw_lithium_miui_MIMIX_9.5.30_eabc42d3ee_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/lithium/fw_lithium_miui_MIMIX_9.5.30_eabc42d3ee_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.5.30_eabc42d3ee_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.23",
+   "android": "8.0"
+  },
+  "date": "2019-05-24",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-24.05.2019/fw_lithium_miui_MIMIXGlobal_9.5.23_c10c55dda1_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/lithium/fw_lithium_miui_MIMIXGlobal_9.5.23_c10c55dda1_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.5.23_c10c55dda1_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.23",
+   "android": "8.0"
+  },
+  "date": "2019-05-24",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-24.05.2019/fw_lithium_miui_MIMIX_9.5.23_f9abb66427_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/lithium/fw_lithium_miui_MIMIX_9.5.23_f9abb66427_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.5.23_f9abb66427_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.16",
+   "android": "8.0"
+  },
+  "date": "2019-05-17",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-17.05.2019/fw_lithium_miui_MIMIX_9.5.16_ac0057fa62_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/lithium/fw_lithium_miui_MIMIX_9.5.16_ac0057fa62_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.5.16_ac0057fa62_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.9",
+   "android": "8.0"
+  },
+  "date": "2019-05-10",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-10.05.2019/fw_lithium_miui_MIMIXGlobal_9.5.9_80362d635f_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/lithium/fw_lithium_miui_MIMIXGlobal_9.5.9_80362d635f_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.5.9_80362d635f_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.9",
+   "android": "8.0"
+  },
+  "date": "2019-05-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-10.05.2019/fw_lithium_miui_MIMIX_9.5.9_9e2b6d373c_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/lithium/fw_lithium_miui_MIMIX_9.5.9_9e2b6d373c_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.5.9_9e2b6d373c_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.25",
+   "android": "8.0"
+  },
+  "date": "2019-04-26",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-26.04.2019/fw_lithium_miui_MIMIXGlobal_9.4.25_354e1aa838_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/lithium/fw_lithium_miui_MIMIXGlobal_9.4.25_354e1aa838_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.4.25_354e1aa838_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.25",
+   "android": "8.0"
+  },
+  "date": "2019-04-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-26.04.2019/fw_lithium_miui_MIMIX_9.4.25_a978d0b59e_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/lithium/fw_lithium_miui_MIMIX_9.4.25_a978d0b59e_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.4.25_a978d0b59e_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.18",
+   "android": "8.0"
+  },
+  "date": "2019-04-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-20.04.2019/fw_lithium_miui_MIMIXGlobal_9.4.18_087756faf8_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/lithium/fw_lithium_miui_MIMIXGlobal_9.4.18_087756faf8_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.4.18_087756faf8_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.18",
+   "android": "8.0"
+  },
+  "date": "2019-04-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-19.04.2019/fw_lithium_miui_MIMIX_9.4.18_1c7dac385a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/lithium/fw_lithium_miui_MIMIX_9.4.18_1c7dac385a_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.4.18_1c7dac385a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.11",
+   "android": "8.0"
+  },
+  "date": "2019-04-12",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-12.04.2019/fw_lithium_miui_MIMIXGlobal_9.4.11_c1ea4e56ec_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.11/lithium/fw_lithium_miui_MIMIXGlobal_9.4.11_c1ea4e56ec_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.4.11_c1ea4e56ec_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.11",
+   "android": "8.0"
+  },
+  "date": "2019-04-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-12.04.2019/fw_lithium_miui_MIMIX_9.4.11_a08b3d97c9_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.11/lithium/fw_lithium_miui_MIMIX_9.4.11_a08b3d97c9_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.4.11_a08b3d97c9_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.28",
+   "android": "8.0"
+  },
+  "date": "2019-03-29",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-29.03.2019/fw_lithium_miui_MIMIXGlobal_9.3.28_2f5fa59a8b_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/lithium/fw_lithium_miui_MIMIXGlobal_9.3.28_2f5fa59a8b_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.3.28_2f5fa59a8b_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.28",
+   "android": "8.0"
+  },
+  "date": "2019-03-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-29.03.2019/fw_lithium_miui_MIMIX_9.3.28_d169d75507_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/lithium/fw_lithium_miui_MIMIX_9.3.28_d169d75507_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.3.28_d169d75507_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.21",
+   "android": "8.0"
+  },
+  "date": "2019-03-22",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-22.03.2019/fw_lithium_miui_MIMIXGlobal_9.3.21_19984f8108_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/lithium/fw_lithium_miui_MIMIXGlobal_9.3.21_19984f8108_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.3.21_19984f8108_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.21",
+   "android": "8.0"
+  },
+  "date": "2019-03-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-22.03.2019/fw_lithium_miui_MIMIX_9.3.21_506074b67c_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/lithium/fw_lithium_miui_MIMIX_9.3.21_506074b67c_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.3.21_506074b67c_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.14",
+   "android": "8.0"
+  },
+  "date": "2019-03-15",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-15.03.2019/fw_lithium_miui_MIMIXGlobal_9.3.14_2ccb2e1dd0_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/lithium/fw_lithium_miui_MIMIXGlobal_9.3.14_2ccb2e1dd0_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.3.14_2ccb2e1dd0_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.14",
+   "android": "8.0"
+  },
+  "date": "2019-03-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-15.03.2019/fw_lithium_miui_MIMIX_9.3.14_88f53f4904_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/lithium/fw_lithium_miui_MIMIX_9.3.14_88f53f4904_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.3.14_88f53f4904_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.7",
+   "android": "8.0"
+  },
+  "date": "2019-03-09",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-09.03.2019/fw_lithium_miui_MIMIXGlobal_9.3.7_68d72941f9_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/lithium/fw_lithium_miui_MIMIXGlobal_9.3.7_68d72941f9_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.3.7_68d72941f9_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.7",
+   "android": "8.0"
+  },
+  "date": "2019-03-09",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-09.03.2019/fw_lithium_miui_MIMIX_9.3.7_deda125c27_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/lithium/fw_lithium_miui_MIMIX_9.3.7_deda125c27_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.3.7_deda125c27_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.28",
+   "android": "8.0"
+  },
+  "date": "2019-03-01",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-01.03.2019/fw_lithium_miui_MIMIXGlobal_9.2.28_3199123fdc_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.28/lithium/fw_lithium_miui_MIMIXGlobal_9.2.28_3199123fdc_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.2.28_3199123fdc_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.28",
+   "android": "8.0"
+  },
+  "date": "2019-03-01",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-01.03.2019/fw_lithium_miui_MIMIX_9.2.28_b5d8b8d501_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.28/lithium/fw_lithium_miui_MIMIX_9.2.28_b5d8b8d501_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.2.28_b5d8b8d501_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.21",
+   "android": "8.0"
+  },
+  "date": "2019-02-22",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-22.02.2019/fw_lithium_miui_MIMIXGlobal_9.2.21_703299cccb_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/lithium/fw_lithium_miui_MIMIXGlobal_9.2.21_703299cccb_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.2.21_703299cccb_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.21",
+   "android": "8.0"
+  },
+  "date": "2019-02-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-22.02.2019/fw_lithium_miui_MIMIX_9.2.21_9fcb2ace63_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/lithium/fw_lithium_miui_MIMIX_9.2.21_9fcb2ace63_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.2.21_9fcb2ace63_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.15",
+   "android": "8.0"
+  },
+  "date": "2019-02-18",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-18.02.2019/fw_lithium_miui_MIMIXGlobal_9.2.15_529ee40cc0_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/lithium/fw_lithium_miui_MIMIXGlobal_9.2.15_529ee40cc0_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.2.15_529ee40cc0_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.2.15",
+   "android": "8.0"
+  },
+  "date": "2019-02-18",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-18.02.2019/fw_lithium_miui_MIMIX_9.2.15_dd8709462c_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/lithium/fw_lithium_miui_MIMIX_9.2.15_dd8709462c_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.2.15_dd8709462c_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.24",
+   "android": "8.0"
+  },
+  "date": "2019-01-25",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-25.01.2019/fw_lithium_miui_MIMIXGlobal_9.1.24_3b526a1eef_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/lithium/fw_lithium_miui_MIMIXGlobal_9.1.24_3b526a1eef_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.1.24_3b526a1eef_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.24",
+   "android": "8.0"
+  },
+  "date": "2019-01-25",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-25.01.2019/fw_lithium_miui_MIMIX_9.1.24_dd1932554f_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/lithium/fw_lithium_miui_MIMIX_9.1.24_dd1932554f_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.1.24_dd1932554f_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.1.0.OAHMIXM",
+   "android": "8.0"
+  },
+  "date": "2019-01-22",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-22.01.2019/fw_lithium_miui_MIMIXGlobal_V10.2.1.0.OAHMIXM_25679d5790_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lithium/fw_lithium_miui_MIMIXGlobal_V10.2.1.0.OAHMIXM_25679d5790_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_V10.2.1.0.OAHMIXM_25679d5790_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.17",
+   "android": "8.0"
+  },
+  "date": "2019-01-18",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-18.01.2019/fw_lithium_miui_MIMIXGlobal_9.1.17_d25bd0b93c_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/lithium/fw_lithium_miui_MIMIXGlobal_9.1.17_d25bd0b93c_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.1.17_d25bd0b93c_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.17",
+   "android": "8.0"
+  },
+  "date": "2019-01-18",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-18.01.2019/fw_lithium_miui_MIMIX_9.1.17_3ef673e746_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/lithium/fw_lithium_miui_MIMIX_9.1.17_3ef673e746_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.1.17_3ef673e746_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.10",
+   "android": "8.0"
+  },
+  "date": "2019-01-12",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-12.01.2019/fw_lithium_miui_MIMIXGlobal_9.1.10_12152766f9_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/lithium/fw_lithium_miui_MIMIXGlobal_9.1.10_12152766f9_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_9.1.10_12152766f9_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.1.10",
+   "android": "8.0"
+  },
+  "date": "2019-01-11",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-11.01.2019/fw_lithium_miui_MIMIX_9.1.10_bd82dd6bfa_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/lithium/fw_lithium_miui_MIMIX_9.1.10_bd82dd6bfa_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_9.1.10_bd82dd6bfa_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.1.0.OAHCNFK",
+   "android": "8.0"
+  },
+  "date": "2019-01-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-07.01.2019/fw_lithium_miui_MIMIX_V10.2.1.0.OAHCNFK_90b6156a40_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lithium/fw_lithium_miui_MIMIX_V10.2.1.0.OAHCNFK_90b6156a40_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_V10.2.1.0.OAHCNFK_90b6156a40_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.27",
+   "android": "8.0"
+  },
+  "date": "2018-12-28",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-28.12.2018/fw_lithium_miui_MIMIXGlobal_8.12.27_882ddcbce4_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/lithium/fw_lithium_miui_MIMIXGlobal_8.12.27_882ddcbce4_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.12.27_882ddcbce4_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.27",
+   "android": "8.0"
+  },
+  "date": "2018-12-28",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-28.12.2018/fw_lithium_miui_MIMIX_8.12.27_a0690eb7c3_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/lithium/fw_lithium_miui_MIMIX_8.12.27_a0690eb7c3_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.12.27_a0690eb7c3_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.20",
+   "android": "8.0"
+  },
+  "date": "2018-12-21",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-21.12.2018/fw_lithium_miui_MIMIXGlobal_8.12.20_0f51c821e4_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/lithium/fw_lithium_miui_MIMIXGlobal_8.12.20_0f51c821e4_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.12.20_0f51c821e4_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.20",
+   "android": "8.0"
+  },
+  "date": "2018-12-21",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-21.12.2018/fw_lithium_miui_MIMIX_8.12.20_f879d75513_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/lithium/fw_lithium_miui_MIMIX_8.12.20_f879d75513_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.12.20_f879d75513_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.13",
+   "android": "8.0"
+  },
+  "date": "2018-12-14",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-14.12.2018/fw_lithium_miui_MIMIXGlobal_8.12.13_f8a0f7f2cc_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/lithium/fw_lithium_miui_MIMIXGlobal_8.12.13_f8a0f7f2cc_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.12.13_f8a0f7f2cc_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.13",
+   "android": "8.0"
+  },
+  "date": "2018-12-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-14.12.2018/fw_lithium_miui_MIMIX_8.12.13_782a5ebeed_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/lithium/fw_lithium_miui_MIMIX_8.12.13_782a5ebeed_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.12.13_782a5ebeed_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.6",
+   "android": "8.0"
+  },
+  "date": "2018-12-07",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-07.12.2018/fw_lithium_miui_MIMIXGlobal_8.12.6_77d1a9b622_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/lithium/fw_lithium_miui_MIMIXGlobal_8.12.6_77d1a9b622_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.12.6_77d1a9b622_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.6",
+   "android": "8.0"
+  },
+  "date": "2018-12-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-07.12.2018/fw_lithium_miui_MIMIX_8.12.6_879d3f30fa_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/lithium/fw_lithium_miui_MIMIX_8.12.6_879d3f30fa_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.12.6_879d3f30fa_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.29",
+   "android": "8.0"
+  },
+  "date": "2018-11-30",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-30.11.2018/fw_lithium_miui_MIMIXGlobal_8.11.29_604bd556ea_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/lithium/fw_lithium_miui_MIMIXGlobal_8.11.29_604bd556ea_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.11.29_604bd556ea_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.29",
+   "android": "8.0"
+  },
+  "date": "2018-11-30",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-30.11.2018/fw_lithium_miui_MIMIX_8.11.29_e903d0d810_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/lithium/fw_lithium_miui_MIMIX_8.11.29_e903d0d810_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.11.29_e903d0d810_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.22",
+   "android": "8.0"
+  },
+  "date": "2018-11-26",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-26.11.2018/fw_lithium_miui_MIMIXGlobal_8.11.22_1879470bab_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/lithium/fw_lithium_miui_MIMIXGlobal_8.11.22_1879470bab_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.11.22_1879470bab_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.22",
+   "android": "8.0"
+  },
+  "date": "2018-11-23",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-23.11.2018/fw_lithium_miui_MIMIX_8.11.22_579a7887d4_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/lithium/fw_lithium_miui_MIMIX_8.11.22_579a7887d4_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.11.22_579a7887d4_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.15",
+   "android": "8.0"
+  },
+  "date": "2018-11-16",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-16.11.2018/fw_lithium_miui_MIMIXGlobal_8.11.15_e6aaf8cb32_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/lithium/fw_lithium_miui_MIMIXGlobal_8.11.15_e6aaf8cb32_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.11.15_e6aaf8cb32_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.15",
+   "android": "8.0"
+  },
+  "date": "2018-11-16",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-16.11.2018/fw_lithium_miui_MIMIX_8.11.15_9902ed46a4_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/lithium/fw_lithium_miui_MIMIX_8.11.15_9902ed46a4_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.11.15_9902ed46a4_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.8",
+   "android": "8.0"
+  },
+  "date": "2018-11-09",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-09.11.2018/fw_lithium_miui_MIMIXGlobal_8.11.8_817a0eeb36_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/lithium/fw_lithium_miui_MIMIXGlobal_8.11.8_817a0eeb36_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.11.8_817a0eeb36_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.1",
+   "android": "8.0"
+  },
+  "date": "2018-11-02",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-02.11.2018/fw_lithium_miui_MIMIXGlobal_8.11.1_4f40a8f767_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/lithium/fw_lithium_miui_MIMIXGlobal_8.11.1_4f40a8f767_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.11.1_4f40a8f767_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.11.1",
+   "android": "8.0"
+  },
+  "date": "2018-11-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-02.11.2018/fw_lithium_miui_MIMIX_8.11.1_842cd15b74_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/lithium/fw_lithium_miui_MIMIX_8.11.1_842cd15b74_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.11.1_842cd15b74_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.25",
+   "android": "8.0"
+  },
+  "date": "2018-10-26",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-26.10.2018/fw_lithium_miui_MIMIXGlobal_8.10.25_36da1292ca_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/lithium/fw_lithium_miui_MIMIXGlobal_8.10.25_36da1292ca_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.10.25_36da1292ca_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.25",
+   "android": "8.0"
+  },
+  "date": "2018-10-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-26.10.2018/fw_lithium_miui_MIMIX_8.10.25_c749a6e3ca_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/lithium/fw_lithium_miui_MIMIX_8.10.25_c749a6e3ca_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.10.25_c749a6e3ca_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.18",
+   "android": "8.0"
+  },
+  "date": "2018-10-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-19.10.2018/fw_lithium_miui_MIMIXGlobal_8.10.18_e90b4512bd_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/lithium/fw_lithium_miui_MIMIXGlobal_8.10.18_e90b4512bd_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.10.18_e90b4512bd_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.18",
+   "android": "8.0"
+  },
+  "date": "2018-10-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-19.10.2018/fw_lithium_miui_MIMIX_8.10.18_418d6f176a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/lithium/fw_lithium_miui_MIMIX_8.10.18_418d6f176a_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.10.18_418d6f176a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "8.0"
+  },
+  "date": "2018-10-15",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-15.10.2018/fw_lithium_miui_MIMIXGlobal_8.9.20_c7720e306f_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/lithium/fw_lithium_miui_MIMIXGlobal_8.9.20_c7720e306f_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.9.20_c7720e306f_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "8.0"
+  },
+  "date": "2018-10-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-15.10.2018/fw_lithium_miui_MIMIX_8.9.20_6be67003f8_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/lithium/fw_lithium_miui_MIMIX_8.9.20_6be67003f8_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.9.20_6be67003f8_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.11",
+   "android": "8.0"
+  },
+  "date": "2018-10-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-12.10.2018/fw_lithium_miui_MIMIX_8.10.11_9b43a41b03_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/lithium/fw_lithium_miui_MIMIX_8.10.11_9b43a41b03_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.10.11_9b43a41b03_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.10.11",
+   "android": "8.0"
+  },
+  "date": "2018-10-11",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-11.10.2018/fw_lithium_miui_MIMIXGlobal_8.10.11_6cc2074f50_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/lithium/fw_lithium_miui_MIMIXGlobal_8.10.11_6cc2074f50_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.10.11_6cc2074f50_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "8.0"
+  },
+  "date": "2018-09-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-26.09.2018/fw_lithium_miui_MIMIX_8.9.20_6be67003f8_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/lithium/fw_lithium_miui_MIMIX_8.9.20_6be67003f8_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.9.20_6be67003f8_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.13",
+   "android": "8.0"
+  },
+  "date": "2018-09-25",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-25.09.2018/fw_lithium_miui_MIMIX_8.9.13_2501eac0f5_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/lithium/fw_lithium_miui_MIMIX_8.9.13_2501eac0f5_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.9.13_2501eac0f5_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "8.0"
+  },
+  "date": "2018-09-21",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-21.09.2018/fw_lithium_miui_MIMIX_8.9.20_6be67003f8_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/lithium/fw_lithium_miui_MIMIX_8.9.20_6be67003f8_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.9.20_6be67003f8_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.20",
+   "android": "8.0"
+  },
+  "date": "2018-09-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-20.09.2018/fw_lithium_miui_MIMIXGlobal_8.9.20_c7720e306f_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/lithium/fw_lithium_miui_MIMIXGlobal_8.9.20_c7720e306f_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.9.20_c7720e306f_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.0.1.0.OAHMIFH",
+   "android": "8.0"
+  },
+  "date": "2018-09-18",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-18.09.2018/fw_lithium_miui_MIMIXGlobal_V10.0.1.0.OAHMIFH_9bf07533e3_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lithium/fw_lithium_miui_MIMIXGlobal_V10.0.1.0.OAHMIFH_9bf07533e3_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_V10.0.1.0.OAHMIFH_9bf07533e3_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.13",
+   "android": "8.0"
+  },
+  "date": "2018-09-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-14.09.2018/fw_lithium_miui_MIMIX_8.9.13_2501eac0f5_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/lithium/fw_lithium_miui_MIMIX_8.9.13_2501eac0f5_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.9.13_2501eac0f5_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.13",
+   "android": "8.0"
+  },
+  "date": "2018-09-13",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-13.09.2018/fw_lithium_miui_MIMIXGlobal_8.9.13_8d0c7f3ae3_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/lithium/fw_lithium_miui_MIMIXGlobal_8.9.13_8d0c7f3ae3_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.9.13_8d0c7f3ae3_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.0.1.0.OAHCNFH",
+   "android": "8.0"
+  },
+  "date": "2018-09-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-10.09.2018/fw_lithium_miui_MIMIX_V10.0.1.0.OAHCNFH_55bf6b514b_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lithium/fw_lithium_miui_MIMIX_V10.0.1.0.OAHCNFH_55bf6b514b_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_V10.0.1.0.OAHCNFH_55bf6b514b_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.6",
+   "android": "8.0"
+  },
+  "date": "2018-09-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-07.09.2018/fw_lithium_miui_MIMIX_8.9.6_8c1119dde6_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/lithium/fw_lithium_miui_MIMIX_8.9.6_8c1119dde6_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.9.6_8c1119dde6_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.9.6",
+   "android": "8.0"
+  },
+  "date": "2018-09-06",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-06.09.2018/fw_lithium_miui_MIMIXGlobal_8.9.6_b254176073_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/lithium/fw_lithium_miui_MIMIXGlobal_8.9.6_b254176073_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.9.6_b254176073_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.30",
+   "android": "8.0"
+  },
+  "date": "2018-08-31",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-31.08.2018/fw_lithium_miui_MIMIX_8.8.30_c26803ba2d_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/lithium/fw_lithium_miui_MIMIX_8.8.30_c26803ba2d_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.8.30_c26803ba2d_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.30",
+   "android": "8.0"
+  },
+  "date": "2018-08-30",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-30.08.2018/fw_lithium_miui_MIMIXGlobal_8.8.30_164344baa5_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/lithium/fw_lithium_miui_MIMIXGlobal_8.8.30_164344baa5_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.8.30_164344baa5_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "8.0"
+  },
+  "date": "2018-08-29",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-29.08.2018/fw_lithium_miui_MIMIXGlobal_8.8.23_0cef6af706_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/lithium/fw_lithium_miui_MIMIXGlobal_8.8.23_0cef6af706_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.8.23_0cef6af706_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "8.0"
+  },
+  "date": "2018-08-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-29.08.2018/fw_lithium_miui_MIMIX_8.8.23_93f09ed0a3_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/lithium/fw_lithium_miui_MIMIX_8.8.23_93f09ed0a3_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.8.23_93f09ed0a3_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "8.0"
+  },
+  "date": "2018-08-24",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-24.08.2018/fw_lithium_miui_MIMIXGlobal_8.8.23_0cef6af706_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/lithium/fw_lithium_miui_MIMIXGlobal_8.8.23_0cef6af706_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.8.23_0cef6af706_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.23",
+   "android": "8.0"
+  },
+  "date": "2018-08-24",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-24.08.2018/fw_lithium_miui_MIMIX_8.8.23_93f09ed0a3_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/lithium/fw_lithium_miui_MIMIX_8.8.23_93f09ed0a3_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.8.23_93f09ed0a3_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.16",
+   "android": "8.0"
+  },
+  "date": "2018-08-17",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-17.08.2018/fw_lithium_miui_MIMIXGlobal_8.8.16_65990ae491_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/lithium/fw_lithium_miui_MIMIXGlobal_8.8.16_65990ae491_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.8.16_65990ae491_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.16",
+   "android": "8.0"
+  },
+  "date": "2018-08-17",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-17.08.2018/fw_lithium_miui_MIMIX_8.8.16_57f972cbaa_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/lithium/fw_lithium_miui_MIMIX_8.8.16_57f972cbaa_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.8.16_57f972cbaa_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.2.0.OAHMIFD",
+   "android": "8.0"
+  },
+  "date": "2018-08-16",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-16.08.2018/fw_lithium_miui_MIMIXGlobal_V9.6.2.0.OAHMIFD_419d938029_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/lithium/fw_lithium_miui_MIMIXGlobal_V9.6.2.0.OAHMIFD_419d938029_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_V9.6.2.0.OAHMIFD_419d938029_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.9",
+   "android": "8.0"
+  },
+  "date": "2018-08-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-10.08.2018/fw_lithium_miui_MIMIX_8.8.9_ccf4344176_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/lithium/fw_lithium_miui_MIMIX_8.8.9_ccf4344176_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.8.9_ccf4344176_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.26",
+   "android": "8.0"
+  },
+  "date": "2018-08-06",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-06.08.2018/fw_lithium_miui_MIMIXGlobal_8.7.26_4da41ac482_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/lithium/fw_lithium_miui_MIMIXGlobal_8.7.26_4da41ac482_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.7.26_4da41ac482_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.3",
+   "android": "8.0"
+  },
+  "date": "2018-08-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-06.08.2018/fw_lithium_miui_MIMIX_8.8.3_134de3d89d_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/lithium/fw_lithium_miui_MIMIX_8.8.3_134de3d89d_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.8.3_134de3d89d_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.8.2",
+   "android": "8.0"
+  },
+  "date": "2018-08-03",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-03.08.2018/fw_lithium_miui_MIMIXGlobal_8.8.2_eb841a01d5_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.2/lithium/fw_lithium_miui_MIMIXGlobal_8.8.2_eb841a01d5_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.8.2_eb841a01d5_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.26",
+   "android": "8.0"
+  },
+  "date": "2018-07-27",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-27.07.2018/fw_lithium_miui_MIMIXGlobal_8.7.26_4da41ac482_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/lithium/fw_lithium_miui_MIMIXGlobal_8.7.26_4da41ac482_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.7.26_4da41ac482_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.26",
+   "android": "8.0"
+  },
+  "date": "2018-07-27",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-27.07.2018/fw_lithium_miui_MIMIX_8.7.26_00b88bc5e8_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/lithium/fw_lithium_miui_MIMIX_8.7.26_00b88bc5e8_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.7.26_00b88bc5e8_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.1.0.OAHMIFD",
+   "android": "8.0"
+  },
+  "date": "2018-07-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-20.07.2018/fw_lithium_miui_MIMIXGlobal_V9.6.1.0.OAHMIFD_283d157a31_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/lithium/fw_lithium_miui_MIMIXGlobal_V9.6.1.0.OAHMIFD_283d157a31_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_V9.6.1.0.OAHMIFD_283d157a31_8.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V9.6.1.0.OAHCNFD",
+   "android": "8.0"
+  },
+  "date": "2018-07-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-20.07.2018/fw_lithium_miui_MIMIX_V9.6.1.0.OAHCNFD_6d6f733fd0_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/lithium/fw_lithium_miui_MIMIX_V9.6.1.0.OAHCNFD_6d6f733fd0_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_V9.6.1.0.OAHCNFD_6d6f733fd0_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.19",
+   "android": "8.0"
+  },
+  "date": "2018-07-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-20.07.2018/fw_lithium_miui_MIMIX_8.7.19_353563fbd5_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/lithium/fw_lithium_miui_MIMIX_8.7.19_353563fbd5_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.7.19_353563fbd5_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.19",
+   "android": "8.0"
+  },
+  "date": "2018-07-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/weekly-19.07.2018/fw_lithium_miui_MIMIXGlobal_8.7.19_2ced6e5338_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/lithium/fw_lithium_miui_MIMIXGlobal_8.7.19_2ced6e5338_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.7.19_2ced6e5338_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.6.1.0.OAHMIFD",
+   "android": "8.0"
+  },
+  "date": "2018-07-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-33cde18ac733c3253935/fw_lithium_miui_MIMIXGlobal_V9.6.1.0.OAHMIFD_283d157a31_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.OAHMIFD/lithium/fw_lithium_miui_MIMIXGlobal_V9.6.1.0.OAHMIFD_283d157a31_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_V9.6.1.0.OAHMIFD_283d157a31_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.12",
+   "android": "8.0"
+  },
+  "date": "2018-07-13",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-a846490bc03b5581fbb9/fw_lithium_miui_MIMIXGlobal_8.7.12_fd70fd90f6_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/lithium/fw_lithium_miui_MIMIXGlobal_8.7.12_fd70fd90f6_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.7.12_fd70fd90f6_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.12",
+   "android": "8.0"
+  },
+  "date": "2018-07-13",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-a846490bc03b5581fbb9/fw_lithium_miui_MIMIX_8.7.12_67306d82a4_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/lithium/fw_lithium_miui_MIMIX_8.7.12_67306d82a4_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.7.12_67306d82a4_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.6.1.0.OAHCNFD",
+   "android": "8.0"
+  },
+  "date": "2018-07-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-257c8fe81250dacb0e44/fw_lithium_miui_MIMIX_V9.6.1.0.OAHCNFD_6d6f733fd0_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.OAHCNFD/lithium/fw_lithium_miui_MIMIX_V9.6.1.0.OAHCNFD_6d6f733fd0_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_V9.6.1.0.OAHCNFD_6d6f733fd0_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.5",
+   "android": "8.0"
+  },
+  "date": "2018-07-09",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-6bcc00e3f0642d212461/fw_lithium_miui_MIMIXGlobal_8.7.5_a77275a171_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/lithium/fw_lithium_miui_MIMIXGlobal_8.7.5_a77275a171_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.7.5_a77275a171_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.5",
+   "android": "8.0"
+  },
+  "date": "2018-07-09",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-6bcc00e3f0642d212461/fw_lithium_miui_MIMIX_8.7.5_8e3b5ca69d_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/lithium/fw_lithium_miui_MIMIX_8.7.5_8e3b5ca69d_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.7.5_8e3b5ca69d_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.5",
+   "android": "8.0"
+  },
+  "date": "2018-07-06",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-190ac80546a9569ed5db/fw_lithium_miui_MIMIXGlobal_8.7.5_a77275a171_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/lithium/fw_lithium_miui_MIMIXGlobal_8.7.5_a77275a171_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.7.5_a77275a171_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.7.5",
+   "android": "8.0"
+  },
+  "date": "2018-07-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-190ac80546a9569ed5db/fw_lithium_miui_MIMIX_8.7.5_8e3b5ca69d_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/lithium/fw_lithium_miui_MIMIX_8.7.5_8e3b5ca69d_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.7.5_8e3b5ca69d_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.5.24",
+   "android": "8.0"
+  },
+  "date": "2018-06-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-40ce03bd84c8062b2da7/fw_lithium_miui_MIMIXGlobal_8.5.24_a5d2a960cf_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.24/lithium/fw_lithium_miui_MIMIXGlobal_8.5.24_a5d2a960cf_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.5.24_a5d2a960cf_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.6.14",
+   "android": "8.0"
+  },
+  "date": "2018-06-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-40ce03bd84c8062b2da7/fw_lithium_miui_MIMIX_8.6.14_0e02efa1d0_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.14/lithium/fw_lithium_miui_MIMIX_8.6.14_0e02efa1d0_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.6.14_0e02efa1d0_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.6.21",
+   "android": "8.0"
+  },
+  "date": "2018-06-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-40ce03bd84c8062b2da7/fw_lithium_miui_MIMIX_8.6.21_daa4db7442_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.21/lithium/fw_lithium_miui_MIMIX_8.6.21_daa4db7442_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.6.21_daa4db7442_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NAHMIFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-30",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-9b36432825c81d35fc2a/fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAHMIFA/lithium/fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NAHCNFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-30",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-9b36432825c81d35fc2a/fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAHCNFA/lithium/fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.5.10",
+   "android": "8.0"
+  },
+  "date": "2018-05-11",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-3382d09c055c7bb676a0/fw_lithium_miui_MIMIX_8.5.10_a204ab382a_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.10/lithium/fw_lithium_miui_MIMIX_8.5.10_a204ab382a_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.5.10_a204ab382a_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.5.3",
+   "android": "8.0"
+  },
+  "date": "2018-05-04",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-0b6feb9722e5c78b8456/fw_lithium_miui_MIMIX_8.5.3_8f6a3bf2e9_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.5.3/lithium/fw_lithium_miui_MIMIX_8.5.3_8f6a3bf2e9_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.5.3_8f6a3bf2e9_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NAHMIFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-02",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-bc009ca93747b89dc46c/fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAHMIFA/lithium/fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NAHCNFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-bc009ca93747b89dc46c/fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAHCNFA/lithium/fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NAHMIFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-02",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-a7754d84840c77151202/fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAHMIFA/lithium/fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "V9.5.2.0.NAHCNFA",
+   "android": "7.0"
+  },
+  "date": "2018-05-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-a7754d84840c77151202/fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAHCNFA/lithium/fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.4.19",
+   "android": "8.0"
+  },
+  "date": "2018-04-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-788b9618d71eb14ee54f/fw_lithium_miui_MIMIXGlobal_8.4.19_0114578e8e_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/lithium/fw_lithium_miui_MIMIXGlobal_8.4.19_0114578e8e_8.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_8.4.19_0114578e8e_8.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.3.26",
+   "android": "7.0"
+  },
+  "date": "2018-04-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-788b9618d71eb14ee54f/fw_lithium_miui_MIMIX_8.3.26_6cbaf6abc9_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.3.26/lithium/fw_lithium_miui_MIMIX_8.3.26_6cbaf6abc9_7.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.3.26_6cbaf6abc9_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "7.5.25",
+   "android": "6.0"
+  },
+  "date": "2018-04-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-e6653f6554a6d5ab7a93/fw_lithium_miui_MIMIXGlobal_7.5.25_0cc67107a6_6.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/7.5.25/lithium/fw_lithium_miui_MIMIXGlobal_7.5.25_0cc67107a6_6.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIXGlobal_7.5.25_0cc67107a6_6.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.3.26",
+   "android": "7.0"
+  },
+  "date": "2018-04-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/untagged-e6653f6554a6d5ab7a93/fw_lithium_miui_MIMIX_8.3.26_6cbaf6abc9_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.3.26/lithium/fw_lithium_miui_MIMIX_8.3.26_6cbaf6abc9_7.0.zip"
+  },
+  "filename": "fw_lithium_miui_MIMIX_8.3.26_6cbaf6abc9_7.0.zip"
+ }
+]

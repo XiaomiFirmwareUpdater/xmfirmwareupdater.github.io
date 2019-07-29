@@ -1,0 +1,86 @@
+[
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.25",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-26.07.2019/fw_cereus_miui_HM6_9.7.25_8af77769b5_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/cereus/fw_cereus_miui_HM6_9.7.25_8af77769b5_9.0.zip"
+  },
+  "filename": "fw_cereus_miui_HM6_9.7.25_8af77769b5_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.18",
+   "android": "9.0"
+  },
+  "date": "2019-07-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-19.07.2019/fw_cereus_miui_HM6_9.7.18_2161dfb6d5_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/cereus/fw_cereus_miui_HM6_9.7.18_2161dfb6d5_9.0.zip"
+  },
+  "filename": "fw_cereus_miui_HM6_9.7.18_2161dfb6d5_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.11",
+   "android": "9.0"
+  },
+  "date": "2019-07-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-12.07.2019/fw_cereus_miui_HM6_9.7.11_f4f3d7fbea_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/cereus/fw_cereus_miui_HM6_9.7.11_f4f3d7fbea_9.0.zip"
+  },
+  "filename": "fw_cereus_miui_HM6_9.7.11_f4f3d7fbea_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.4",
+   "android": "9.0"
+  },
+  "date": "2019-07-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-05.07.2019/fw_cereus_miui_HM6_9.7.4_7cf4c0da89_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/cereus/fw_cereus_miui_HM6_9.7.4_7cf4c0da89_9.0.zip"
+  },
+  "filename": "fw_cereus_miui_HM6_9.7.4_7cf4c0da89_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.3.0.OCGMIXM",
+   "android": "8.1"
+  },
+  "date": "2019-07-05",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-05.07.2019/fw_cereus_miui_HM6Global_V10.3.3.0.OCGMIXM_9d227cc73a_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cereus/fw_cereus_miui_HM6Global_V10.3.3.0.OCGMIXM_9d227cc73a_8.1.zip"
+  },
+  "filename": "fw_cereus_miui_HM6Global_V10.3.3.0.OCGMIXM_9d227cc73a_8.1.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.4.0.OCGCNXM",
+   "android": "8.1"
+  },
+  "date": "2019-07-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-05.07.2019/fw_cereus_miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cereus/fw_cereus_miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip"
+  },
+  "filename": "fw_cereus_miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip"
+ }
+]

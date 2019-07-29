@@ -1,0 +1,156 @@
+[
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.25",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-26.07.2019/fw_grus_miui_GRUS_9.7.25_4a2173b82d_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/grus/fw_grus_miui_GRUS_9.7.25_4a2173b82d_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUS_9.7.25_4a2173b82d_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.11",
+   "android": "9.0"
+  },
+  "date": "2019-07-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-13.07.2019/fw_grus_miui_GRUS_9.7.11_9855478e41_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/grus/fw_grus_miui_GRUS_9.7.11_9855478e41_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUS_9.7.11_9855478e41_9.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.4",
+   "android": "9.0"
+  },
+  "date": "2019-07-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-05.07.2019/fw_grus_miui_GRUS_9.7.4_7f921b35fa_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/grus/fw_grus_miui_GRUS_9.7.4_7f921b35fa_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUS_9.7.4_7f921b35fa_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.9.0.PFBEUXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-24",
+  "region": "Europe",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-24.06.2019/fw_grus_miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUSEEAGlobal_V10.2.9.0.PFBEUXM_432d8a9116_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.1.0.PFBEUXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-22",
+  "region": "Europe",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-22.06.2019/fw_grus_miui_GRUSEEAGlobal_V10.3.1.0.PFBEUXM_3d43a95581_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUSEEAGlobal_V10.3.1.0.PFBEUXM_3d43a95581_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUSEEAGlobal_V10.3.1.0.PFBEUXM_3d43a95581_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.3.0.PFBCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-18",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-18.06.2019/fw_grus_miui_GRUS_V10.3.3.0.PFBCNXM_3dcc2884fc_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUS_V10.3.3.0.PFBCNXM_3dcc2884fc_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUS_V10.3.3.0.PFBCNXM_3dcc2884fc_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.2.0.PFBMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-11",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-11.06.2019/fw_grus_miui_GRUSGlobal_V10.2.2.0.PFBMIXM_b4cc336f0d_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUSGlobal_V10.2.2.0.PFBMIXM_b4cc336f0d_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUSGlobal_V10.2.2.0.PFBMIXM_b4cc336f0d_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.1.0.PFBCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-05-09",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-09.05.2019/fw_grus_miui_GRUS_V10.3.1.0.PFBCNXM_60d33fe1c3_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUS_V10.3.1.0.PFBCNXM_60d33fe1c3_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUS_V10.3.1.0.PFBCNXM_60d33fe1c3_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.11.0.PFBCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-04-23",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-23.04.2019/fw_grus_miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.5.0.PFBCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-03-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-12.03.2019/fw_grus_miui_GRUS_V10.2.5.0.PFBCNXM_a8508c5e9e_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUS_V10.2.5.0.PFBCNXM_a8508c5e9e_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUS_V10.2.5.0.PFBCNXM_a8508c5e9e_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.3.0.PFBCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-02-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-26.02.2019/fw_grus_miui_GRUS_V10.2.3.0.PFBCNXM_0b1a6eef2b_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUS_V10.2.3.0.PFBCNXM_0b1a6eef2b_9.0.zip"
+  },
+  "filename": "fw_grus_miui_GRUS_V10.2.3.0.PFBCNXM_0b1a6eef2b_9.0.zip"
+ }
+]

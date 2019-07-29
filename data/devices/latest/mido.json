@@ -1,0 +1,58 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.3.0.NCFMIXM",
+   "android": "7.0"
+  },
+  "date": "2019-02-13",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-13.02.2019/fw_mido_miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/mido/fw_mido_miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip"
+  },
+  "filename": "fw_mido_miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.2.0.NCFCNXM",
+   "android": "7.0"
+  },
+  "date": "2019-05-16",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-16.05.2019/fw_mido_miui_HMNote4X_V10.3.2.0.NCFCNXM_7feed0b40b_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/mido/fw_mido_miui_HMNote4X_V10.3.2.0.NCFCNXM_7feed0b40b_7.0.zip"
+  },
+  "filename": "fw_mido_miui_HMNote4X_V10.3.2.0.NCFCNXM_7feed0b40b_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "8.12.20",
+   "android": "7.0"
+  },
+  "date": "2018-12-21",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-21.12.2018/fw_mido_miui_HMNote4XGlobal_8.12.20_43a9a2079c_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/mido/fw_mido_miui_HMNote4XGlobal_8.12.20_43a9a2079c_7.0.zip"
+  },
+  "filename": "fw_mido_miui_HMNote4XGlobal_8.12.20_43a9a2079c_7.0.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.18",
+   "android": "7.0"
+  },
+  "date": "2019-07-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/weekly-19.07.2019/fw_mido_miui_HMNote4X_9.7.18_cd7e37cc5d_7.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/mido/fw_mido_miui_HMNote4X_9.7.18_cd7e37cc5d_7.0.zip"
+  },
+  "filename": "fw_mido_miui_HMNote4X_9.7.18_cd7e37cc5d_7.0.zip"
+ }
+]
