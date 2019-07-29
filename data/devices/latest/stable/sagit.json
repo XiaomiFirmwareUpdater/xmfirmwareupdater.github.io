@@ -13,10 +13,10 @@
     "codename": "sagit",
     "type": "china",
     "versions": {
-      "android": "8.0",
-      "miui": "V10.3.1.0.OCACNXM"
+      "android": "9.0",
+      "miui": "V10.4.2.0.PCACNXM"
     },
-    "date": "2019-06-04",
-    "file": "fw_sagit_miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip"
+    "date": "2019-07-29",
+    "file": "fw_sagit_miui_MI6_V10.4.2.0.PCACNXM_75a8bf4171_9.0.zip"
   }
 ]

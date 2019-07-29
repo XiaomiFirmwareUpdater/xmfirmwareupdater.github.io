@@ -1370,5 +1370,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/sagit/fw_sagit_miui_MI6_9.7.25_6febda42db_9.0.zip"
     },
     "filename": "fw_sagit_miui_MI6_9.7.25_6febda42db_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.4.2.0.PCACNXM",
+      "android": "9.0"
+    },
+    "date": "2019-07-29",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/stable-29.07.2019/fw_sagit_miui_MI6_V10.4.2.0.PCACNXM_75a8bf4171_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sagit/fw_sagit_miui_MI6_V10.4.2.0.PCACNXM_75a8bf4171_9.0.zip"
+    },
+    "filename": "fw_sagit_miui_MI6_V10.4.2.0.PCACNXM_75a8bf4171_9.0.zip"
   }
 ]
