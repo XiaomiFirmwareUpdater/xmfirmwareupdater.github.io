@@ -1,7 +1,7 @@
 // Load table data from JSON file
-function loadLatest(device) {
+function loadFirmwareDownloads(device, type) {
     $.when(
-        $.getJSON('/data/devices/latest/' + device + '.json', function (data) {
+        $.getJSON('/data/devices/'+ type +'/' + device + '.json', function (data) {
             var latest = data;
         })
     ).then(function (latest) {
@@ -9,7 +9,7 @@ function loadLatest(device) {
             $('#firmware').DataTable({
                 data: latest,
                 responsive: true,
-                "pageLength": 10,
+                "pageLength": 25,
                 "order": [[4, "desc"]],
                 columns: [
                     { data: 'branch' },
