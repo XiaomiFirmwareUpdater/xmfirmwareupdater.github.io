@@ -5,13 +5,13 @@
       "miui": "8.4.19",
       "android": "5.1"
     },
-    "date": "2018-07-06",
+    "date": "2019-07-29",
     "type": "Global",
     "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/weekly-28.08.2018/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/ido/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip"
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/weekly-28.08.2018/fw_ido_miui_HM3Global_8.4.19_85607774ae_5.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/ido/fw_ido_miui_HM3Global_8.4.19_85607774ae_5.1.zip"
     },
-    "filename": "fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip"
+    "filename": "fw_ido_miui_HM3Global_8.4.19_85607774ae_5.1.zip"
   },
   {
     "branch": "stable",
@@ -19,13 +19,13 @@
       "miui": "V9.5.3.0.LAIMIFA",
       "android": "5.1"
     },
-    "date": "2018-07-20",
+    "date": "2019-07-29",
     "type": "Global",
     "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/stable-20.07.2018/fw__miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ido/fw__miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip"
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/stable-20.07.2018/fw_ido_miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ido/fw_ido_miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip"
     },
-    "filename": "fw__miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip"
+    "filename": "fw_ido_miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip"
   },
   {
     "branch": "stable",
@@ -33,13 +33,13 @@
       "miui": "V9.5.2.0.LAICNFA",
       "android": "5.1"
     },
-    "date": "2018-07-20",
+    "date": "2019-07-29",
     "type": "China",
     "downloads": {
-      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/stable-20.07.2018/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip",
-      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ido/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip"
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/stable-20.07.2018/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ido/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip"
     },
-    "filename": "fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip"
+    "filename": "fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip"
   },
   {
     "branch": "stable",
