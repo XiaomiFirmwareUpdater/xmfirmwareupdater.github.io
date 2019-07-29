@@ -3,11 +3,11 @@
     "codename": "sagit",
     "type": "global",
     "versions": {
-      "android": "8.0",
-      "miui": "V10.3.4.0.OCAMIXM"
+      "android": "9.0",
+      "miui": "V10.4.1.0.PCAMIXM"
     },
-    "date": "2019-06-04",
-    "file": "fw_sagit_miui_MI6Global_V10.3.4.0.OCAMIXM_e1a4c9671c_8.0.zip"
+    "date": "2019-07-29",
+    "file": "fw_sagit_miui_MI6Global_V10.4.1.0.PCAMIXM_38edd1584c_9.0.zip"
   },
   {
     "codename": "sagit",
