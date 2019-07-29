@@ -1,64 +1,29 @@
 <section id="chooser" class="box special">
-	<div style="display: inline-block">
+	<div class="row">
 		<form id="DownloadForm" name="DownloadForm">
-		<table id="choose_download">
-				<tr>
-					<td>
-						<div class="col-4 col-12-narrower">
-							<input type="radio" id="firmware" value="firmware" name="request" checked>
-							<label for="firmware">Firmware</label>
-						</div>
-					</td>
-					<td>
-						<div class="col-4 col-12-narrower">
-							<input type="radio" id="vendor" value="vendor" name="request">
-							<label for="vendor">Vendor</label>
-						</div>
-					</td>
-					<td>
-						<div class="col-4 col-12-narrower">
-							<input type="radio" id="rom" value="rom" name="request">
-							<label for="rom">ROM</label>
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<div class="col-4 col-12-narrower">
-							<select name="device" id="device" class="device">
-								<option selected disabled>- Device -</option>
-							</select>
-						</div>
-					</td>
-					<td>
-						<div class="col-12">
-							<select name="region" id="region" class="select2">
-								<option selected disabled>- Region -</option>
-								<option value="china">China</option>
-								<option value="global">Global</option>
-								<option value="europe">Europe</option>
-								<option value="india">India</option>
-								<option value="russia">Russia</option>
-							</select>
-						</div>
-					</td>
-					<td>
-						<div class="col-12">
-							<select name="branch" id="branch" class="select2">
-								<option selected disabled>- Branch -</option>
-								<option value="stable">Stable</option>
-								<option value="weekly">Weekly</option>
-							</select>
-						</div>
-					</td>
-				</tr>
-		</table>
-		<div class="col-12" style="display: inline-block">
-				<ul class="actions">
-					<li><input type="submit" onclick="choicesParses()" value="Submit" /></li>
-				</ul>
+			<div class="row gtr-uniform gtr-50" style="display: inline-block">
+				<div class="col-12">
+					<select name="device" id="device" class="device">
+						<option selected disabled>- Device -</option>
+					</select>
+				</div>
+				<div class="col-12">
+					<input type="radio" id="firmware" value="firmware" name="request" checked>
+					<label for="firmware">Firmware</label>
+					<input type="radio" id="vendor" value="vendor" name="request">
+					<label for="vendor">Vendor</label>
+					<input type="radio" id="rom" value="miui" name="request">
+					<label for="rom">ROM</label>
+				</div>
+				<div class="col-12">
+					<ul class="actions" style="display: inline-block">
+						<li><input type="submit" onclick="return choicesParser()" value="Download" /></li>
+					</ul>
+				</div>
 			</div>
 		</form>
+		<div class="col-6 col-12-mobilep" style="display: inline-block">
+			<span class="image fit"><img src="images/pic04.jpg" alt="" /></span>
+		</div>
 	</div>
-
 </section>

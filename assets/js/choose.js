@@ -1,9 +1,3 @@
-
-// Select2 boxes in index
-$(document).ready(function () {
-    $('.select2').select2();
-});
-
 // Load devices
 var devicesList = [];
 $.getJSON("https://raw.githubusercontent.com/XiaomiFirmwareUpdater/xiaomifirmwareupdater.github.io/master/data/devices.json", function (response) {
@@ -21,19 +15,17 @@ $(document).ready(function () {
     })
 });
 
-// Parse URL
-function getUrlVars() {
-    var vars = {};
-    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
-        vars[key] = value;
-    });
-    return vars;
-}
 
 // Process to download page
-function choicesParses() {
-    document.getElementById("DownloadForm").submit();
-    var vars = getUrlVars();
-    var site = window.location.origin;
-    window.location.href = site + "/" + vars.request + "/" + vars.device + "/" + vars.branch + "/" + vars.region;
-}
+function choicesParser() {
+    var form = document.getElementById("DownloadForm").elements;
+    var request = form.request.value;
+    var device = form.device.value;
+    if (device != '- Device -') {        
+    window.location.href = window.location.origin + "/" + request + "/" + device;
+    }
+    else {
+        alert('You must select a device!');
+    };
+    return false;
+};
