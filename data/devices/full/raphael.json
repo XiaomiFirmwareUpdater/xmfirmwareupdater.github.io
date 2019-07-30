@@ -68,5 +68,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAEL_V10.3.15.0.PFKCNXM_d88e04e9b5_9.0.zip"
     },
     "filename": "fw_raphael_miui_RAPHAEL_V10.3.15.0.PFKCNXM_d88e04e9b5_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.3.16.0.PFKCNXM",
+      "android": "9.0"
+    },
+    "date": "2019-07-30",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-30.07.2019/fw_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip"
+    },
+    "filename": "fw_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip"
   }
 ]

@@ -12,5 +12,19 @@
       "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINE_V10.2.6.0.PCMCNXM_accd34296f_9.0.zip"
     },
     "filename": "fw_pine_miui_PINE_V10.2.6.0.PCMCNXM_accd34296f_9.0.zip"
+  },
+  {
+    "branch": "stable",
+    "versions": {
+      "miui": "V10.2.8.0.PCMCNXM",
+      "android": "9.0"
+    },
+    "date": "2019-07-30",
+    "type": "China",
+    "downloads": {
+      "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-30.07.2019/fw_pine_miui_PINE_V10.2.8.0.PCMCNXM_28ad8a5d9a_9.0.zip",
+      "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINE_V10.2.8.0.PCMCNXM_28ad8a5d9a_9.0.zip"
+    },
+    "filename": "fw_pine_miui_PINE_V10.2.8.0.PCMCNXM_28ad8a5d9a_9.0.zip"
   }
 ]
