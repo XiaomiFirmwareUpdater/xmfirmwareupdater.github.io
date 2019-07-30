@@ -147,7 +147,7 @@ title: $name ($codename) Downloads
 layout: download
 permalink: $link
 ---'''
-    table = '''<div class="table-responsive-md">
+    table = '''<div class="table-responsive-md" style="margin-top: 25px;">
 <table id="firmware" class="compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
@@ -195,8 +195,8 @@ def main():
     """
     XFU data generate script
     """
-    # load_devices()
-    # load_releases()
+    load_devices()
+    load_releases()
     generate_md()
 
 

@@ -8,7 +8,7 @@ permalink: /archive/firmware/libra/
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/libra/)
 
 
-<div class="table-responsive-md">
+<div class="table-responsive-md" style="margin-top: 25px;">
 <table id="firmware" class="compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
