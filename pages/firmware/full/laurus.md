@@ -1,6 +1,8 @@
 ---
 title: Mi CC 9e (laurus) Downloads
 layout: download
+name: Mi CC 9e
+codename: laurus
 permalink: /archive/firmware/laurus/
 ---
 

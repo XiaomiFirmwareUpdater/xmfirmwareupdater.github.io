@@ -1,6 +1,8 @@
 ---
 title: Mi Pad 3 (cappu) Downloads
 layout: download
+name: Mi Pad 3
+codename: cappu
 permalink: /firmware/cappu/
 ---
 

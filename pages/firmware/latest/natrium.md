@@ -1,6 +1,8 @@
 ---
 title: Mi 5s Plus (natrium) Downloads
 layout: download
+name: Mi 5s Plus
+codename: natrium
 permalink: /firmware/natrium/
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Mi MIX 3 5G (andromeda) Downloads
 layout: download
+name: Mi MIX 3 5G
+codename: andromeda
 permalink: /archive/firmware/andromeda/
 ---
 

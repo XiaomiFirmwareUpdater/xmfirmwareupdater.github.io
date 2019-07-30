@@ -1,6 +1,8 @@
 ---
 title: POCO F1 (beryllium) Downloads
 layout: download
+name: POCO F1
+codename: beryllium
 permalink: /firmware/beryllium/
 ---
 

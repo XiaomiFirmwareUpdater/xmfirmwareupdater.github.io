@@ -1,6 +1,8 @@
 ---
 title: Mi 8 Pro (equuleus) Downloads
 layout: download
+name: Mi 8 Pro
+codename: equuleus
 permalink: /firmware/equuleus/
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Mi MIX (lithium) Downloads
 layout: download
+name: Mi MIX
+codename: lithium
 permalink: /archive/firmware/lithium/
 ---
 

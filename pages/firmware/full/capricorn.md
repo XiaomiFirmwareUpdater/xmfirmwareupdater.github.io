@@ -1,6 +1,8 @@
 ---
 title: Mi 5s (capricorn) Downloads
 layout: download
+name: Mi 5s
+codename: capricorn
 permalink: /archive/firmware/capricorn/
 ---
 

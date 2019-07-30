@@ -1,6 +1,8 @@
 ---
 title: Redmi 6 (cereus) Downloads
 layout: download
+name: Redmi 6
+codename: cereus
 permalink: /archive/firmware/cereus/
 ---
 

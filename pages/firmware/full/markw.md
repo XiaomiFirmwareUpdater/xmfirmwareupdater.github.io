@@ -1,6 +1,8 @@
 ---
 title: Redmi 4 Prime (markw) Downloads
 layout: download
+name: Redmi 4 Prime
+codename: markw
 permalink: /archive/firmware/markw/
 ---
 

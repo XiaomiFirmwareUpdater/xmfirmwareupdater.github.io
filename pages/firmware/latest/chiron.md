@@ -1,6 +1,8 @@
 ---
 title: Mi MIX 2 (chiron) Downloads
 layout: download
+name: Mi MIX 2
+codename: chiron
 permalink: /firmware/chiron/
 ---
 

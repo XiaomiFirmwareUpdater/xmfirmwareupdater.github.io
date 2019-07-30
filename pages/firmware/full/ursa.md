@@ -1,6 +1,8 @@
 ---
 title: Mi 8 Explorer (ursa) Downloads
 layout: download
+name: Mi 8 Explorer
+codename: ursa
 permalink: /archive/firmware/ursa/
 ---
 

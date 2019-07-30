@@ -1,6 +1,8 @@
 ---
 title: Mi Max 3 (nitrogen) Downloads
 layout: download
+name: Mi Max 3
+codename: nitrogen
 permalink: /archive/firmware/nitrogen/
 ---
 

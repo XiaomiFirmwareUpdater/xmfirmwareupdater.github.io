@@ -1,6 +1,8 @@
 ---
 title: Redmi 3S (land) Downloads
 layout: download
+name: Redmi 3S
+codename: land
 permalink: /archive/firmware/land/
 ---
 

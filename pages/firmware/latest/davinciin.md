@@ -1,6 +1,8 @@
 ---
 title: Redmi K20 India (davinciin) Downloads
 layout: download
+name: Redmi K20 India
+codename: davinciin
 permalink: /firmware/davinciin/
 ---
 

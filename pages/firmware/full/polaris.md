@@ -1,6 +1,8 @@
 ---
 title: Mi MIX 2S (polaris) Downloads
 layout: download
+name: Mi MIX 2S
+codename: polaris
 permalink: /archive/firmware/polaris/
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Mi Pad 4 (Plus) (clover) Downloads
 layout: download
+name: Mi Pad 4 (Plus)
+codename: clover
 permalink: /archive/firmware/clover/
 ---
 

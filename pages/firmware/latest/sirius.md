@@ -1,6 +1,8 @@
 ---
 title: Mi 8 SE (sirius) Downloads
 layout: download
+name: Mi 8 SE
+codename: sirius
 permalink: /firmware/sirius/
 ---
 

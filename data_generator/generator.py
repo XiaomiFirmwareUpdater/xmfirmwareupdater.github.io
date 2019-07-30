@@ -145,6 +145,8 @@ def generate_md():
     header = '''---
 title: $name ($codename) Downloads
 layout: download
+name: $name
+codename: $codename
 permalink: $link
 ---'''
     table = '''<div class="table-responsive-md" id="table-wrapper">

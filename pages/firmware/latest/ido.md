@@ -1,6 +1,8 @@
 ---
 title: Redmi 3 (ido) Downloads
 layout: download
+name: Redmi 3
+codename: ido
 permalink: /firmware/ido/
 ---
 

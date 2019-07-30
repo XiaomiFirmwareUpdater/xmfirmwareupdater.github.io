@@ -1,6 +1,8 @@
 ---
 title: Redmi 5 Plus/Note 5 India (vince) Downloads
 layout: download
+name: Redmi 5 Plus/Note 5 India
+codename: vince
 permalink: /archive/firmware/vince/
 ---
 

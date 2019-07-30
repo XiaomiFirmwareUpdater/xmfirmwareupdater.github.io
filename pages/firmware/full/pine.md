@@ -1,6 +1,8 @@
 ---
 title: Redmi 7A (pine) Downloads
 layout: download
+name: Redmi 7A
+codename: pine
 permalink: /archive/firmware/pine/
 ---
 

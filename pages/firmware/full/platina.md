@@ -1,6 +1,8 @@
 ---
 title: Mi 8 Lite (platina) Downloads
 layout: download
+name: Mi 8 Lite
+codename: platina
 permalink: /archive/firmware/platina/
 ---
 

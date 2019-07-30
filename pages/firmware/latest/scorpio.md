@@ -1,6 +1,8 @@
 ---
 title: Mi Note 2 (scorpio) Downloads
 layout: download
+name: Mi Note 2
+codename: scorpio
 permalink: /firmware/scorpio/
 ---
 

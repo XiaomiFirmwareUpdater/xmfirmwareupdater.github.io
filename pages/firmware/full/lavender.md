@@ -1,6 +1,8 @@
 ---
 title: Redmi Note 7 (lavender) Downloads
 layout: download
+name: Redmi Note 7
+codename: lavender
 permalink: /archive/firmware/lavender/
 ---
 

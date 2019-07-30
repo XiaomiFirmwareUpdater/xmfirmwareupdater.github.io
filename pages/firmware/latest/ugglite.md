@@ -1,6 +1,8 @@
 ---
 title: Redmi Note 5A (ugglite) Downloads
 layout: download
+name: Redmi Note 5A
+codename: ugglite
 permalink: /firmware/ugglite/
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Mi Note 3 (jason) Downloads
 layout: download
+name: Mi Note 3
+codename: jason
 permalink: /archive/firmware/jason/
 ---
 

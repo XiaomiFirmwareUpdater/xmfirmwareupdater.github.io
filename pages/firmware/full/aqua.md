@@ -1,6 +1,8 @@
 ---
 title: Mi 4S (aqua) Downloads
 layout: download
+name: Mi 4S
+codename: aqua
 permalink: /archive/firmware/aqua/
 ---
 

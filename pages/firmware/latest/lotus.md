@@ -1,6 +1,8 @@
 ---
 title: Mi Play (lotus) Downloads
 layout: download
+name: Mi Play
+codename: lotus
 permalink: /firmware/lotus/
 ---
 

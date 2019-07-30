@@ -1,6 +1,8 @@
 ---
 title: Redmi Note 7 Pro (violet) Downloads
 layout: download
+name: Redmi Note 7 Pro
+codename: violet
 permalink: /archive/firmware/violet/
 ---
 

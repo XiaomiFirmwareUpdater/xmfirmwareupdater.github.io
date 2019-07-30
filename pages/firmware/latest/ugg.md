@@ -1,6 +1,8 @@
 ---
 title: Redmi Note 5A Prime (ugg) Downloads
 layout: download
+name: Redmi Note 5A Prime
+codename: ugg
 permalink: /firmware/ugg/
 ---
 

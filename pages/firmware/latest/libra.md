@@ -1,6 +1,8 @@
 ---
 title: Mi 4c (libra) Downloads
 layout: download
+name: Mi 4c
+codename: libra
 permalink: /firmware/libra/
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Redmi Note 5/5 Pro (whyred) Downloads
 layout: download
+name: Redmi Note 5/5 Pro
+codename: whyred
 permalink: /firmware/whyred/
 ---
 

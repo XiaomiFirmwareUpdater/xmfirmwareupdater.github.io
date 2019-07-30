@@ -1,6 +1,8 @@
 ---
 title: Redmi 4X (santoni) Downloads
 layout: download
+name: Redmi 4X
+codename: santoni
 permalink: /firmware/santoni/
 ---
 

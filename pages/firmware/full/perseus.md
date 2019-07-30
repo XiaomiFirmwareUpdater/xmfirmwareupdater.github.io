@@ -1,6 +1,8 @@
 ---
 title: Mi MIX 3 (perseus) Downloads
 layout: download
+name: Mi MIX 3
+codename: perseus
 permalink: /archive/firmware/perseus/
 ---
 

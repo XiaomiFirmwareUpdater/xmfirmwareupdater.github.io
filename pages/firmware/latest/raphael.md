@@ -1,6 +1,8 @@
 ---
 title: Redmi K20 Pro/Mi 9T Pro (raphael) Downloads
 layout: download
+name: Redmi K20 Pro/Mi 9T Pro
+codename: raphael
 permalink: /firmware/raphael/
 ---
 

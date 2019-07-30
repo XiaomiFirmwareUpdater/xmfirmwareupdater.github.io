@@ -1,6 +1,8 @@
 ---
 title: Mi 6X (wayne) Downloads
 layout: download
+name: Mi 6X
+codename: wayne
 permalink: /archive/firmware/wayne/
 ---
 

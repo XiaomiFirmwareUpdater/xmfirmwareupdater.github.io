@@ -1,6 +1,8 @@
 ---
 title: Redmi Note 3 SE (kate) Downloads
 layout: download
+name: Redmi Note 3 SE
+codename: kate
 permalink: /archive/firmware/kate/
 ---
 

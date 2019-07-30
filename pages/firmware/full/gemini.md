@@ -1,6 +1,8 @@
 ---
 title: MI 5 (gemini) Downloads
 layout: download
+name: MI 5
+codename: gemini
 permalink: /archive/firmware/gemini/
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Redmi Note 3 Pro (kenzo) Downloads
 layout: download
+name: Redmi Note 3 Pro
+codename: kenzo
 permalink: /archive/firmware/kenzo/
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Mi 9 SE (grus) Downloads
 layout: download
+name: Mi 9 SE
+codename: grus
 permalink: /archive/firmware/grus/
 ---
 

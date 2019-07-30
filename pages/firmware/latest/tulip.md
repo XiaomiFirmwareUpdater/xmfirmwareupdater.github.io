@@ -1,6 +1,8 @@
 ---
 title: Redmi Note 6 Pro (tulip) Downloads
 layout: download
+name: Redmi Note 6 Pro
+codename: tulip
 permalink: /firmware/tulip/
 ---
 

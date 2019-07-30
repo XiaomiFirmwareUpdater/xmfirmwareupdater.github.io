@@ -1,6 +1,8 @@
 ---
 title: Mi 5X (tiffany) Downloads
 layout: download
+name: Mi 5X
+codename: tiffany
 permalink: /archive/firmware/tiffany/
 ---
 

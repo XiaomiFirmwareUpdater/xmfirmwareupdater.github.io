@@ -1,6 +1,8 @@
 ---
 title: Mi 9 (cepheus) Downloads
 layout: download
+name: Mi 9
+codename: cepheus
 permalink: /firmware/cepheus/
 ---
 

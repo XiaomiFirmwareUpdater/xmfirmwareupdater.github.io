@@ -1,6 +1,8 @@
 ---
 title: Redmi 7/Y3 (onc) Downloads
 layout: download
+name: Redmi 7/Y3
+codename: onc
 permalink: /archive/firmware/onc/
 ---
 

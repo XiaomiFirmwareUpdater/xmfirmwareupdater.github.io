@@ -1,6 +1,8 @@
 ---
 title: Mi 8 (dipper) Downloads
 layout: download
+name: Mi 8
+codename: dipper
 permalink: /archive/firmware/dipper/
 ---
 

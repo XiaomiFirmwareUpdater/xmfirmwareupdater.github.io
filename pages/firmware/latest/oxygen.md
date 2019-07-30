@@ -1,6 +1,8 @@
 ---
 title: Mi Max 2 (oxygen) Downloads
 layout: download
+name: Mi Max 2
+codename: oxygen
 permalink: /firmware/oxygen/
 ---
 

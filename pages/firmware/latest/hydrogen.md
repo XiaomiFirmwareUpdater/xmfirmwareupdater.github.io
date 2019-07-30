@@ -1,6 +1,8 @@
 ---
 title: Mi Max (hydrogen) Downloads
 layout: download
+name: Mi Max
+codename: hydrogen
 permalink: /firmware/hydrogen/
 ---
 

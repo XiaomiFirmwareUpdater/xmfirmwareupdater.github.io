@@ -1,6 +1,8 @@
 ---
 title: Redmi 4 (prada) Downloads
 layout: download
+name: Redmi 4
+codename: prada
 permalink: /archive/firmware/prada/
 ---
 

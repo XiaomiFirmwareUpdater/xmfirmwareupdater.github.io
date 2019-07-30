@@ -1,6 +1,8 @@
 ---
 title: Redmi 5 (rosy) Downloads
 layout: download
+name: Redmi 5
+codename: rosy
 permalink: /archive/firmware/rosy/
 ---
 

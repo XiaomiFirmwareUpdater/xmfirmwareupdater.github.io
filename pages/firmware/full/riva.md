@@ -1,6 +1,8 @@
 ---
 title: Redmi 5A (riva) Downloads
 layout: download
+name: Redmi 5A
+codename: riva
 permalink: /archive/firmware/riva/
 ---
 

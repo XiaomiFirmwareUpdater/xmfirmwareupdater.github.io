@@ -1,6 +1,8 @@
 ---
 title: Redmi Note 4 (mido) Downloads
 layout: download
+name: Redmi Note 4
+codename: mido
 permalink: /archive/firmware/mido/
 ---
 

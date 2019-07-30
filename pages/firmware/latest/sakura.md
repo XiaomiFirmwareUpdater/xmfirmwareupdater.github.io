@@ -1,6 +1,8 @@
 ---
 title: Redmi 6 Pro (sakura) Downloads
 layout: download
+name: Redmi 6 Pro
+codename: sakura
 permalink: /firmware/sakura/
 ---
 

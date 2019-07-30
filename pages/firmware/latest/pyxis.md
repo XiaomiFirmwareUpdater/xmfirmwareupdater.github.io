@@ -1,6 +1,8 @@
 ---
 title: Mi CC 9 (pyxis) Downloads
 layout: download
+name: Mi CC 9
+codename: pyxis
 permalink: /firmware/pyxis/
 ---
 

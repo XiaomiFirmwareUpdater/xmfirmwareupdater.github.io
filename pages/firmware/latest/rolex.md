@@ -1,6 +1,8 @@
 ---
 title: Redmi 4A (rolex) Downloads
 layout: download
+name: Redmi 4A
+codename: rolex
 permalink: /firmware/rolex/
 ---
 

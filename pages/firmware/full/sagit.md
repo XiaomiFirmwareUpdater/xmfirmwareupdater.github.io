@@ -1,6 +1,8 @@
 ---
 title: Mi 6 (sagit) Downloads
 layout: download
+name: Mi 6
+codename: sagit
 permalink: /archive/firmware/sagit/
 ---
 

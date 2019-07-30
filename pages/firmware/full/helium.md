@@ -1,6 +1,8 @@
 ---
 title: Mi Max Prime (helium) Downloads
 layout: download
+name: Mi Max Prime
+codename: helium
 permalink: /archive/firmware/helium/
 ---
 

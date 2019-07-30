@@ -1,6 +1,8 @@
 ---
 title: Redmi K20 Pro India (raphaelin) Downloads
 layout: download
+name: Redmi K20 Pro India
+codename: raphaelin
 permalink: /archive/firmware/raphaelin/
 ---
 

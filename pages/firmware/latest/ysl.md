@@ -1,6 +1,8 @@
 ---
 title: Redmi S2/Y2 (ysl) Downloads
 layout: download
+name: Redmi S2/Y2
+codename: ysl
 permalink: /firmware/ysl/
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Redmi 6A (cactus) Downloads
 layout: download
+name: Redmi 6A
+codename: cactus
 permalink: /firmware/cactus/
 ---
 
