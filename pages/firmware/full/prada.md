@@ -8,7 +8,7 @@ permalink: /archive/firmware/prada/
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/prada/)
 
 
-<div class="table-responsive-md" style="margin-top: 25px;">
+<div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>

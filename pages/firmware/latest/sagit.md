@@ -8,7 +8,7 @@ permalink: /firmware/sagit/
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/sagit/)
 
 
-<div class="table-responsive-md" style="margin-top: 25px;">
+<div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
