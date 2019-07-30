@@ -1,27 +1,21 @@
 // Load devices
 var firmwareDevicesList = [];
 $.getJSON("data/firmware_devices.json", function (response) {
-    response.forEach(function (item) {
-        name = item.name + ' (' + item.codename + ')',
-            codename = item.codename,
-            firmwareDevicesList.push({ text: name, id: codename })
-    });
+    Object.entries(response).forEach(
+        ([codename, name]) => firmwareDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
+    );
 });
 var vendorDevicesList = [];
 $.getJSON("data/vendor_devices.json", function (response) {
-    response.forEach(function (item) {
-        name = item.name + ' (' + item.codename + ')',
-            codename = item.codename,
-            vendorDevicesList.push({ text: name, id: codename })
-    });
+    Object.entries(response).forEach(
+        ([codename, name]) => vendorDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
+    );
 });
 var miuiDevicesList = [];
 $.getJSON("data/miui_devices.json", function (response) {
-    response.forEach(function (item) {
-        name = item.name + ' (' + item.codename + ')',
-            codename = item.codename,
-            miuiDevicesList.push({ text: name, id: codename })
-    });
+    Object.entries(response).forEach(
+        ([codename, name]) => miuiDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
+    );
 });
 
 // Change device menu based on download type
@@ -33,7 +27,6 @@ function deviceMenu() {
         }
     };
     if (request == 'firmware') {
-        console.log(request);
         $('.device').empty();
         $(".device").select2({
             data: firmwareDevicesList,

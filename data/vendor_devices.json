@@ -1,32 +1,41 @@
-[
- {
-  "codename": "vela",
-  "name": "Mi CC9 Meitu Edition",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela"
- },
- {
-  "codename": "vince",
-  "name": "Redmi 5 Plus/Note 5 India",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince"
- },
- {
-  "codename": "violet",
-  "name": "Redmi Note 7 Pro",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet"
- },
- {
-  "codename": "wayne",
-  "name": "Mi 6X",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne"
- },
- {
-  "codename": "whyred",
-  "name": "Redmi Note 5/5 Pro",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred"
- },
- {
-  "codename": "ysl",
-  "name": "Redmi S2/Y2",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl"
- }
-]
+{
+ "dipper": "Mi 8",
+ "equuleus": "Mi 8 Pro",
+ "grus": "Mi 9 SE",
+ "jason": "Mi Note 3",
+ "laurus": "Mi CC 9e",
+ "lavender": "Redmi Note 7",
+ "lithium": "Mi MIX",
+ "lotus": "Mi Play",
+ "meri": "Mi 5C",
+ "mido": "Redmi Note 4",
+ "natrium": "Mi 5s Plus",
+ "nitrogen": "Mi Max 3",
+ "onc": "Redmi Y3",
+ "onclite": "Redmi 7",
+ "oxygen": "Mi Max 2",
+ "perseus": "Mi MIX 3",
+ "pine": "Redmi 7A",
+ "platina": "Mi 8 Lite",
+ "polaris": "Mi MIX 2S",
+ "pyxis": "Mi CC 9",
+ "raphael": "Redmi K20 Pro",
+ "raphaelin": "Redmi K20 Pro",
+ "riva": "Redmi 5A",
+ "rosy": "Redmi 5",
+ "sagit": "Mi 6",
+ "sakura": "Redmi 6 Pro",
+ "santoni": "Redmi 4X",
+ "scorpio": "Mi Note 2",
+ "sirius": "Mi 8 SE",
+ "tiffany": "Mi 5X",
+ "tulip": "Redmi Note 6 Pro",
+ "ursa": "Mi 8 Explorer",
+ "ugg": "Redmi Note 5A Prime",
+ "ugglite": "Redmi Note 5A (2GB)",
+ "vela": "Mi CC9 Meitu Edition",
+ "violet": "Redmi Note 7 Pro",
+ "vince": "Redmi 5 Plus",
+ "wayne": "Mi 6X",
+ "whyred": "Redmi Note 5"
+}

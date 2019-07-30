@@ -3,42 +3,54 @@
 
 from os import environ
 import json
-import requests
+from requests import get
 
 # Variables
 GIT_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
-ORG = requests.get(f'https://api.github.com/orgs/XiaomiFirmwareUpdater/'
-                   f'repos?per_page=200&access_token={GIT_TOKEN}').json()
-DEVICES = []
-with open('../data/devices.json', 'r') as json_file:
-    NAMES = json.load(json_file)
+ORG = get(f'https://api.github.com/orgs/XiaomiFirmwareUpdater/'
+          f'repos?per_page=200&access_token={GIT_TOKEN}').json()
+FW_CODENAMES = []
+FW_DEVICES = {}
+V_DEVICES = []
+M_CODENAMES = []
+M_DEVICES = {}
+NAMES = {}
 
 
-def load_devices():
+def load_names():
+    """
+    Load devices names
+    """
+    data = get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
+               'xiaomi_devices/names/names.json').json()
+    for codename, name in data.items():
+        name = name.replace(' China', '').replace(' EEA Global', '').replace(' India', '') \
+            .replace(' Russia', '').replace(' Global', '')
+        if '_' in codename:
+            check = codename.split('_')[0]
+            if check in data:
+                continue
+            else:
+                codename = check
+        NAMES.update({codename: name})
+    with open('../data/names.json', 'w') as out:
+        json.dump(NAMES, out, indent=1)
+
+
+def load_fw_devices():
     """
     Load devices codenames from GitHub org repos
     """
     for repo in ORG:
         if 'firmware_xiaomi_' in repo['name']:
             device = repo['name'].split('_')[-1]
-            DEVICES.append(device)
-    DEVICES.sort()
-    with open('../data/codenames.json', 'w') as out:
-        json.dump(DEVICES, out, indent=1)
-    # # Generate devices.json
-    # names = requests.get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-    #                      'xiaomi_devices/names/names.json').json()
-    # names_ = []
-    # for i in DEVICES:
-    #     try:
-    #         names_.append({'codename': i,
-    #                        'name': names[i],
-    #                        'url':
-    #                        f'https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_{i}'})
-    #     except KeyError as e:
-    #         print(e)
-    # with open('../data/devices.json', 'w') as out:
-    #     json.dump(names_, out, indent=1)
+            FW_CODENAMES.append(device)
+    FW_CODENAMES.sort()
+    with open('../data/firmware_codenames.json', 'w') as out:
+        json.dump(FW_CODENAMES, out, indent=1)
+    FW_DEVICES.update({codename: NAMES[codename] for codename in FW_CODENAMES})
+    with open('../data/firmware_devices.json', 'w') as out:
+        json.dump(FW_DEVICES, out, indent=1)
 
 
 def load_releases():
@@ -46,11 +58,11 @@ def load_releases():
     Check GitHub releases info for each device and write JSON files
     """
     all_latest = []
-    for device in DEVICES:
+    for device in FW_CODENAMES:
         info = []
         url = f'https://api.github.com/repos/XiaomiFirmwareUpdater/' \
             f'firmware_xiaomi_{device}/releases?per_page=200&access_token={GIT_TOKEN}'
-        data = requests.get(url).json()
+        data = get(url).json()
         # Generate all releases JSON
         for item in data:
             # if 'untagged' in item['tag_name']:
@@ -138,7 +150,7 @@ def load_releases():
         json.dump(all_latest, out, indent=1)
 
 
-def generate_md():
+def generate_fw_md():
     """
     Generate downloads markdown files
     """
@@ -172,7 +184,7 @@ permalink: $link
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/$codename/)
 '''
     for branch in ['latest', 'full']:
-        for item in NAMES:
+        for item in FW_DEVICES:
             codename = item['codename']
             name = item['name']
             link = ''
@@ -182,7 +194,7 @@ permalink: $link
                 link = f'/archive/firmware/{codename}/'
             markdown = ''
             markdown += header.replace('$codename', codename)\
-                .replace('$name', name).replace('$link', link) + '\n\n'
+                            .replace('$name', name).replace('$link', link) + '\n\n'
             if branch == 'latest':
                 markdown += latest.replace('$codename', codename) + '\n\n'
             elif branch == 'full':
@@ -193,13 +205,44 @@ permalink: $link
                 out.write(markdown)
 
 
+def load_miui_devices():
+    devices = get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
+                  'miui-updates-tracker/master/devices/sf.json').json()
+    for codename in devices:
+        if '_' in codename:
+            check = codename.split('_')[0]
+            if check in devices:
+                continue
+            else:
+                codename = check
+        M_CODENAMES.append(codename)
+    with open('../data/miui_codenames.json', 'w') as out:
+        json.dump(M_CODENAMES, out, indent=1)
+    eol = get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
+              'miui-updates-tracker/master/EOL/sf.json').json()
+    for codename in eol:
+        if '_' in codename:
+            check = codename.split('_')[0]
+            if check in eol:
+                continue
+            else:
+                codename = check
+        M_CODENAMES.append(codename)
+
+    M_DEVICES.update({codename: NAMES[codename] for codename in M_CODENAMES})
+    with open('../data/miui_devices.json', 'w') as out:
+        json.dump(M_DEVICES, out, indent=1)
+
+
 def main():
     """
     XFU data generate script
     """
-    load_devices()
-    load_releases()
-    generate_md()
+    load_names()
+    load_fw_devices()
+    # load_releases()
+    # generate_fw_md()
+    load_miui_devices()
 
 
 if __name__ == '__main__':

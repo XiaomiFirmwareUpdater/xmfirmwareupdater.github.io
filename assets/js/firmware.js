@@ -34,7 +34,7 @@ function loadFirmwareDownloads(device, type) {
 function loadLatest() {
     // Load devices
     var devicesList = [];
-    $.getJSON("/data/devices.json", function (response) {
+    $.getJSON("/data/firmware_devices.json", function (response) {
         response.forEach(function (item) {
             device_name = item.name,
                 device_codename = item.codename,

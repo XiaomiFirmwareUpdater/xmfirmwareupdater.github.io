@@ -1,307 +1,63 @@
-[
- {
-  "codename": "andromeda",
-  "name": "Mi MIX 3 5G",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda"
- },
- {
-  "codename": "aqua",
-  "name": "Mi 4S",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua"
- },
- {
-  "codename": "beryllium",
-  "name": "POCO F1",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium"
- },
- {
-  "codename": "cactus",
-  "name": "Redmi 6A",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus"
- },
- {
-  "codename": "cappu",
-  "name": "Mi Pad 3",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu"
- },
- {
-  "codename": "capricorn",
-  "name": "Mi 5s",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn"
- },
- {
-  "codename": "cepheus",
-  "name": "Mi 9",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus"
- },
- {
-  "codename": "cereus",
-  "name": "Redmi 6",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus"
- },
- {
-  "codename": "chiron",
-  "name": "Mi MIX 2",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron"
- },
- {
-  "codename": "clover",
-  "name": "Mi Pad 4 (Plus)",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover"
- },
- {
-  "codename": "davinci",
-  "name": "Redmi K20/Mi 9T",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci"
- },
- {
-  "codename": "davinciin",
-  "name": "Redmi K20 India",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinciin"
- },
- {
-  "codename": "dipper",
-  "name": "Mi 8",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper"
- },
- {
-  "codename": "equuleus",
-  "name": "Mi 8 Pro",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus"
- },
- {
-  "codename": "gemini",
-  "name": "MI 5",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini"
- },
- {
-  "codename": "grus",
-  "name": "Mi 9 SE",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus"
- },
- {
-  "codename": "helium",
-  "name": "Mi Max Prime",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium"
- },
- {
-  "codename": "hydrogen",
-  "name": "Mi Max",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_hydrogen"
- },
- {
-  "codename": "ido",
-  "name": "Redmi 3",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido"
- },
- {
-  "codename": "jason",
-  "name": "Mi Note 3",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason"
- },
- {
-  "codename": "kate",
-  "name": "Redmi Note 3 SE",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate"
- },
- {
-  "codename": "kenzo",
-  "name": "Redmi Note 3 Pro",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo"
- },
- {
-  "codename": "land",
-  "name": "Redmi 3S",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land"
- },
- {
-  "codename": "laurus",
-  "name": "Mi CC 9e",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus"
- },
- {
-  "codename": "lavender",
-  "name": "Redmi Note 7",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender"
- },
- {
-  "codename": "libra",
-  "name": "Mi 4c",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra"
- },
- {
-  "codename": "lithium",
-  "name": "Mi MIX",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium"
- },
- {
-  "codename": "lotus",
-  "name": "Mi Play",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus"
- },
- {
-  "codename": "markw",
-  "name": "Redmi 4 Prime",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_markw"
- },
- {
-  "codename": "mido",
-  "name": "Redmi Note 4",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido"
- },
- {
-  "codename": "natrium",
-  "name": "Mi 5s Plus",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium"
- },
- {
-  "codename": "nitrogen",
-  "name": "Mi Max 3",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen"
- },
- {
-  "codename": "onc",
-  "name": "Redmi 7/Y3",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc"
- },
- {
-  "codename": "oxygen",
-  "name": "Mi Max 2",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen"
- },
- {
-  "codename": "perseus",
-  "name": "Mi MIX 3",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus"
- },
- {
-  "codename": "pine",
-  "name": "Redmi 7A",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine"
- },
- {
-  "codename": "platina",
-  "name": "Mi 8 Lite",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina"
- },
- {
-  "codename": "polaris",
-  "name": "Mi MIX 2S",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris"
- },
- {
-  "codename": "prada",
-  "name": "Redmi 4",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_prada"
- },
- {
-  "codename": "pyxis",
-  "name": "Mi CC 9",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis"
- },
- {
-  "codename": "raphael",
-  "name": "Redmi K20 Pro/Mi 9T Pro",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael"
- },
- {
-  "codename": "raphaelin",
-  "name": "Redmi K20 Pro India",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphaelin"
- },
- {
-  "codename": "riva",
-  "name": "Redmi 5A",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva"
- },
- {
-  "codename": "rolex",
-  "name": "Redmi 4A",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex"
- },
- {
-  "codename": "rosy",
-  "name": "Redmi 5",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy"
- },
- {
-  "codename": "sagit",
-  "name": "Mi 6",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit"
- },
- {
-  "codename": "sakura",
-  "name": "Redmi 6 Pro",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura"
- },
- {
-  "codename": "santoni",
-  "name": "Redmi 4X",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni"
- },
- {
-  "codename": "scorpio",
-  "name": "Mi Note 2",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio"
- },
- {
-  "codename": "sirius",
-  "name": "Mi 8 SE",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius"
- },
- {
-  "codename": "tiffany",
-  "name": "Mi 5X",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany"
- },
- {
-  "codename": "tulip",
-  "name": "Redmi Note 6 Pro",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip"
- },
- {
-  "codename": "ugg",
-  "name": "Redmi Note 5A Prime",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg"
- },
- {
-  "codename": "ugglite",
-  "name": "Redmi Note 5A",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite"
- },
- {
-  "codename": "ursa",
-  "name": "Mi 8 Explorer",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa"
- },
- {
-  "codename": "vela",
-  "name": "Mi CC9 Meitu Edition",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela"
- },
- {
-  "codename": "vince",
-  "name": "Redmi 5 Plus/Note 5 India",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince"
- },
- {
-  "codename": "violet",
-  "name": "Redmi Note 7 Pro",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet"
- },
- {
-  "codename": "wayne",
-  "name": "Mi 6X",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne"
- },
- {
-  "codename": "whyred",
-  "name": "Redmi Note 5/5 Pro",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred"
- },
- {
-  "codename": "ysl",
-  "name": "Redmi S2/Y2",
-  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl"
- }
-]
+{
+ "andromeda": "Mi MIX 3 5G",
+ "aqua": "MI 4S",
+ "beryllium": "POCO F1",
+ "cactus": "Redmi 6A",
+ "cappu": "Mi Pad 3",
+ "capricorn": "Mi 5s",
+ "cepheus": "Mi 9",
+ "cereus": "Redmi 6",
+ "chiron": "Mi MIX 2",
+ "clover": "Mi Pad 4 (Plus)",
+ "davinci": "Redmi K20",
+ "davinciin": "Mi 9T",
+ "dipper": "Mi 8",
+ "equuleus": "Mi 8 Pro",
+ "gemini": "MI 5",
+ "grus": "Mi 9 SE",
+ "helium": "Mi Max Prime",
+ "hydrogen": "Mi Max",
+ "ido": "Redmi 3",
+ "jason": "Mi Note 3",
+ "kate": "Redmi Note 3",
+ "kenzo": "Redmi Note 3 Pro",
+ "land": "Redmi 3S",
+ "laurus": "Mi CC 9e",
+ "lavender": "Redmi Note 7",
+ "libra": "Mi 4c",
+ "lithium": "Mi MIX",
+ "lotus": "Mi Play",
+ "markw": "Redmi 4 Prime",
+ "mido": "Redmi Note 4",
+ "natrium": "Mi 5s Plus",
+ "nitrogen": "Mi Max 3",
+ "onc": "Redmi Y3",
+ "oxygen": "Mi Max 2",
+ "perseus": "Mi MIX 3",
+ "pine": "Redmi 7A",
+ "platina": "Mi 8 Lite",
+ "polaris": "Mi MIX 2S",
+ "prada": "Redmi 4",
+ "pyxis": "Mi CC 9",
+ "raphael": "Redmi K20 Pro",
+ "raphaelin": "Redmi K20 Pro",
+ "riva": "Redmi 5A",
+ "rolex": "Redmi 4A",
+ "rosy": "Redmi 5",
+ "sagit": "Mi 6",
+ "sakura": "Redmi 6 Pro",
+ "santoni": "Redmi 4X",
+ "scorpio": "Mi Note 2",
+ "sirius": "Mi 8 SE",
+ "tiffany": "Mi 5X",
+ "tulip": "Redmi Note 6 Pro",
+ "ugg": "Redmi Note 5A Prime",
+ "ugglite": "Redmi Note 5A (2GB)",
+ "ursa": "Mi 8 Explorer",
+ "vela": "Mi CC9 Meitu Edition",
+ "vince": "Redmi 5 Plus",
+ "violet": "Redmi Note 7 Pro",
+ "wayne": "Mi 6X",
+ "whyred": "Redmi Note 5",
+ "ysl": "Redmi S2"
+}
