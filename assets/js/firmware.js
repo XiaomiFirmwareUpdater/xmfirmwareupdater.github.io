@@ -61,7 +61,6 @@ function loadLatest() {
                             while (deviceCount--) {
                                 if (devicesList[deviceCount].codename === data.split("_")[1]) {
                                     var name = devicesList[deviceCount].name;
-                                    console.log(name);
                                     break;
                                 }
                             }

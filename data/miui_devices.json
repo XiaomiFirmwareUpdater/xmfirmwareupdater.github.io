@@ -1,0 +1,37 @@
+[
+ {
+  "codename": "cactus",
+  "name": "Redmi 6A",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus"
+ },
+ {
+  "codename": "cappu",
+  "name": "Mi Pad 3",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cappu"
+ },
+ {
+  "codename": "capricorn",
+  "name": "Mi 5s",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn"
+ },
+ {
+  "codename": "cepheus",
+  "name": "Mi 9",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus"
+ },
+ {
+  "codename": "cereus",
+  "name": "Redmi 6",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus"
+ },
+ {
+  "codename": "chiron",
+  "name": "Mi MIX 2",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron"
+ },
+ {
+  "codename": "clover",
+  "name": "Mi Pad 4 (Plus)",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover"
+ }
+]

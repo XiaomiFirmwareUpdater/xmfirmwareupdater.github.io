@@ -26,16 +26,17 @@
 					<div class="row gtr-uniform gtr-50" style="display: inline-block">
 						<div class="col-12">
 							<select name="device" id="device" class="device">
-								<option selected disabled>- Device -</option>
+								<option></option>
 							</select>
 						</div>
 						<div class="col-12">
-							<input type="radio" id="firmware" value="firmware" name="request" checked>
+							<input type="radio" id="firmware" value="firmware" name="request" onclick="deviceMenu()"
+								checked>
 							<label for="firmware">Firmware</label>
-							<input type="radio" id="vendor" value="vendor" name="request">
+							<input type="radio" id="vendor" value="vendor" name="request" onclick="deviceMenu()">
 							<label for="vendor">Vendor</label>
-							<input type="radio" id="rom" value="miui" name="request">
-							<label for="rom">ROM</label>
+							<input type="radio" id="miui" value="miui" name="request" onclick="deviceMenu()">
+							<label for="miui">ROM</label>
 						</div>
 						<div class="col-12">
 							<ul class="actions" style="display: inline-block">

@@ -1,0 +1,32 @@
+[
+ {
+  "codename": "vela",
+  "name": "Mi CC9 Meitu Edition",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela"
+ },
+ {
+  "codename": "vince",
+  "name": "Redmi 5 Plus/Note 5 India",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince"
+ },
+ {
+  "codename": "violet",
+  "name": "Redmi Note 7 Pro",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet"
+ },
+ {
+  "codename": "wayne",
+  "name": "Mi 6X",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne"
+ },
+ {
+  "codename": "whyred",
+  "name": "Redmi Note 5/5 Pro",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred"
+ },
+ {
+  "codename": "ysl",
+  "name": "Redmi S2/Y2",
+  "url": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl"
+ }
+]
