@@ -25,7 +25,7 @@ function choicesParser() {
     window.location.href = window.location.origin + "/" + request + "/" + device;
     }
     else {
-        alert('You must select a device!');
+        $('#NoDeviceError').modal('toggle');
     };
     return false;
 };

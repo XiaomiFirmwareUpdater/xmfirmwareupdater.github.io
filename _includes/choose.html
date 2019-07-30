@@ -1,29 +1,54 @@
 <section id="chooser" class="box special">
-	<div class="row">
-		<form id="DownloadForm" name="DownloadForm">
-			<div class="row gtr-uniform gtr-50" style="display: inline-block">
-				<div class="col-12">
-					<select name="device" id="device" class="device">
-						<option selected disabled>- Device -</option>
-					</select>
+	<!-- Modal -->
+	<div class="modal fade" id="NoDeviceError" tabindex="-1" role="dialog" aria-labelledby="NoDeviceError"
+		aria-hidden="true">
+		<div class="modal-dialog" role="document" style="margin-top: 5%">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="NoDeviceErrorModalLabel">No Device Selected</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
 				</div>
-				<div class="col-12">
-					<input type="radio" id="firmware" value="firmware" name="request" checked>
-					<label for="firmware">Firmware</label>
-					<input type="radio" id="vendor" value="vendor" name="request">
-					<label for="vendor">Vendor</label>
-					<input type="radio" id="rom" value="miui" name="request">
-					<label for="rom">ROM</label>
+				<div class="modal-body">
+					Seems you didn't select a device, please do!
 				</div>
-				<div class="col-12">
-					<ul class="actions" style="display: inline-block">
-						<li><input type="submit" onclick="return choicesParser()" value="Download" /></li>
-					</ul>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
 				</div>
 			</div>
-		</form>
-		<div class="col-6 col-12-mobilep" style="display: inline-block">
-			<span class="image fit"><img src="images/pic04.jpg" alt="" /></span>
 		</div>
 	</div>
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-md-auto">
+				<form id="DownloadForm" name="DownloadForm">
+					<div class="row gtr-uniform gtr-50" style="display: inline-block">
+						<div class="col-12">
+							<select name="device" id="device" class="device">
+								<option selected disabled>- Device -</option>
+							</select>
+						</div>
+						<div class="col-12">
+							<input type="radio" id="firmware" value="firmware" name="request" checked>
+							<label for="firmware">Firmware</label>
+							<input type="radio" id="vendor" value="vendor" name="request">
+							<label for="vendor">Vendor</label>
+							<input type="radio" id="rom" value="miui" name="request">
+							<label for="rom">ROM</label>
+						</div>
+						<div class="col-12">
+							<ul class="actions" style="display: inline-block">
+								<li> <button type="submit" class="btn btn-primary"
+										onclick="return choicesParser()">Submit</button>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</form>
+			</div>
+			<div class="col-sm">
+				<img src="images/pic04.jpg" class="img-fluid" alt="" />
+			</div>
+		</div>
 </section>
