@@ -10,6 +10,7 @@ function loadFirmwareDownloads(device, type) {
                 data: latest,
                 responsive: true,
                 "pageLength": 25,
+                "pagingType": "full_numbers",
                 "order": [[4, "desc"]],
                 columns: [
                     { data: 'branch' },
@@ -25,11 +26,6 @@ function loadFirmwareDownloads(device, type) {
                     }
                 ]
             });
-            $(".dataTables_length select").addClass("custom-select custom-select-sm");
-            $(".dataTables_filter input").addClass("form-control form-control-sm");
-            $(".dataTables_length select").css({'margin-right': '5px', 'margin-left': '5px'});
-            $(".dataTables_length label").css({'display': 'inline-flex'});
-            $(".dataTables_filter label").css({'display': 'inline-flex'});
         });
     });
 };
@@ -55,6 +51,7 @@ function loadLatest() {
                 data: latest,
                 responsive: true,
                 "pageLength": 100,
+                "pagingType": "full_numbers",
                 "order": [[6, "desc"]],
                 columns: [
                     {
@@ -91,11 +88,6 @@ function loadLatest() {
                     }
                 ]
             });
-            $(".dataTables_length select").addClass("custom-select custom-select-sm");
-            $(".dataTables_filter input").addClass("form-control form-control-sm");
-            $(".dataTables_length select").css({'margin-right': '5px', 'margin-left': '5px'});
-            $(".dataTables_length label").css({'display': 'inline-flex'});
-            $(".dataTables_filter label").css({'display': 'inline-flex'});
         });
     });
 };
