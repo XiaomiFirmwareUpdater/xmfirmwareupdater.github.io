@@ -1,3 +1,7 @@
 #table-wrapper {
     margin-top: 25px;
 } 
+
+tbody {
+    text-align: center;
+}
