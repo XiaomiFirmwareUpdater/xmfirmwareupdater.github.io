@@ -5,48 +5,51 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>{{page.title}} | {{site.name}}</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    	<!-- favicon -->
-    	<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
-		<link rel="stylesheet" href="/assets/css/main.css" />
-		<!-- Bootstrap -->
-		<link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
-	</head>
-	<body class="is-preload">
-		<div id="page-wrapper">
 
-			<!-- Header -->
-            {%include header.html%}
+<head>
+	<title>{{page.title}} | {{site.name}}</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<!-- favicon -->
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+	<link rel="stylesheet" href="/assets/css/main.css" />
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+</head>
 
-            <!-- Main -->
-            <section id="main" class="container">
-                    <header>
-                        <h2>{{page.title}}</h2>
-                        <p>{{page.description}}.</p>
-                    </header>
-                    <div class="box">
-            {{content}}
-                    </div>
-            </section>
+<body class="is-preload">
+	<div id="page-wrapper">
 
-			<!-- Footer -->
-            {%include footer.html%}
+		<!-- Header -->
+		{%include header.html%}
 
-		</div>
+		<!-- Main -->
+		<section id="main" class="container">
+			<header>
+				<h2>{{page.title}}</h2>
+				<p>{{page.description}}.</p>
+			</header>
+			<div class="box">
+				{{content}}
+			</div>
+		</section>
 
-		<!-- Scripts -->
-			<script src="/assets/js/jquery.min.js"></script>
-			<script src="/assets/js/jquery.dropotron.min.js"></script>
-			<script src="/assets/js/jquery.scrollex.min.js"></script>
-			<script src="/assets/js/browser.min.js"></script>
-			<script src="/assets/js/breakpoints.min.js"></script>
-			<script src="/assets/js/util.js"></script>
-			<script src="/assets/js/main.js"></script>
-			<!-- Bootstrap -->
-			<script src="/assets/js/popper.min.js"></script>
-			<script src="/assets/js/bootstrap.min.js"></script>
-	</body>
+		<!-- Footer -->
+		{%include footer.html%}
+
+	</div>
+
+	<!-- Scripts -->
+	<script src="/assets/js/jquery.min.js"></script>
+	<script src="/assets/js/jquery.dropotron.min.js"></script>
+	<script src="/assets/js/jquery.scrollex.min.js"></script>
+	<script src="/assets/js/browser.min.js"></script>
+	<script src="/assets/js/breakpoints.min.js"></script>
+	<script src="/assets/js/util.js"></script>
+	<script src="/assets/js/main.js"></script>
+	<!-- Bootstrap -->
+	<script src="/assets/js/popper.min.js"></script>
+	<script src="/assets/js/bootstrap.min.js"></script>
+</body>
+
 </html>
