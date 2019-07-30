@@ -147,9 +147,9 @@ title: $name ($codename) Downloads
 layout: download
 permalink: $link
 ---'''
-    table = '''<div style="overflow-x:auto;">
-<table id="firmware" class="compact row-border" style="width:100%">
-    <thead>
+    table = '''<div class="table-responsive-md">
+<table id="firmware" class="compact table table-striped table-hover table-sm">
+    <thead class="thead-dark">
         <tr>
             <th>Branch</th>
             <th>MIUI</th>
@@ -163,11 +163,11 @@ permalink: $link
 </table>
 </div>
 '''
-    latest = '''## Latest Firmware
-#### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/$codename/)
+    latest = '''### Latest Firmware
+##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/$codename/)
 '''
-    archive = '''## Firmware Archive
-#### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/$codename/)
+    archive = '''### Firmware Archive
+##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/$codename/)
 '''
     for branch in ['latest', 'full']:
         for item in NAMES:
@@ -195,8 +195,8 @@ def main():
     """
     XFU data generate script
     """
-    load_devices()
-    load_releases()
+    # load_devices()
+    # load_releases()
     generate_md()
 
 

@@ -4,11 +4,11 @@ layout: download
 permalink: /firmware/
 ---
 
-## Latest Firmware Downloads for all Xiaomi Devices
+### Latest Firmware Downloads for all Xiaomi Devices
 
-<div style="overflow-x:auto;">
-<table id="firmware" class="compact row-border" style="width:100%">
-    <thead>
+<div class="table-responsive-md">
+<table id="firmware" class="compact table table-striped table-hover table-sm">
+    <thead class="thead-dark">
         <tr>
             <th>Device</th>
             <th>Codename</th>

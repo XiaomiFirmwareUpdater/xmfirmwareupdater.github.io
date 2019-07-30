@@ -4,13 +4,13 @@ layout: download
 permalink: /archive/firmware/onc/
 ---
 
-## Firmware Archive
-#### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/onc/)
+### Firmware Archive
+##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/onc/)
 
 
-<div style="overflow-x:auto;">
-<table id="firmware" class="compact row-border" style="width:100%">
-    <thead>
+<div class="table-responsive-md">
+<table id="firmware" class="compact table table-striped table-hover table-sm">
+    <thead class="thead-dark">
         <tr>
             <th>Branch</th>
             <th>MIUI</th>

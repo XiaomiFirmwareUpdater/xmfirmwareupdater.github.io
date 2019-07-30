@@ -1066,16 +1066,16 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.2.8.0.PFMCNXM",
+   "miui": "V10.2.10.0.PFMCNXM",
    "android": "9.0"
   },
-  "date": "2019-07-09",
+  "date": "2019-07-30",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-09.07.2019/fw_laurus_miui_LAURUS_V10.2.8.0.PFMCNXM_60b0f2fe60_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/laurus/fw_laurus_miui_LAURUS_V10.2.8.0.PFMCNXM_60b0f2fe60_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-30.07.2019/fw_laurus_miui_LAURUS_V10.2.10.0.PFMCNXM_d26ff234f6_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/laurus/fw_laurus_miui_LAURUS_V10.2.10.0.PFMCNXM_d26ff234f6_9.0.zip"
   },
-  "filename": "fw_laurus_miui_LAURUS_V10.2.8.0.PFMCNXM_60b0f2fe60_9.0.zip"
+  "filename": "fw_laurus_miui_LAURUS_V10.2.10.0.PFMCNXM_d26ff234f6_9.0.zip"
  },
  {
   "branch": "stable",
@@ -1430,16 +1430,16 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.3.2.0.PEDMIXM",
+   "miui": "V10.3.3.0.PEDMIXM",
    "android": "9.0"
   },
-  "date": "2019-06-12",
+  "date": "2019-07-30",
   "region": "Global",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-12.06.2019/fw_nitrogen_miui_MIMAX3Global_V10.3.2.0.PEDMIXM_4afd841f89_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/nitrogen/fw_nitrogen_miui_MIMAX3Global_V10.3.2.0.PEDMIXM_4afd841f89_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-30.07.2019/fw_nitrogen_miui_MIMAX3Global_V10.3.3.0.PEDMIXM_856043a2e8_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/nitrogen/fw_nitrogen_miui_MIMAX3Global_V10.3.3.0.PEDMIXM_856043a2e8_9.0.zip"
   },
-  "filename": "fw_nitrogen_miui_MIMAX3Global_V10.3.2.0.PEDMIXM_4afd841f89_9.0.zip"
+  "filename": "fw_nitrogen_miui_MIMAX3Global_V10.3.3.0.PEDMIXM_856043a2e8_9.0.zip"
  },
  {
   "branch": "stable",
@@ -1654,30 +1654,30 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.2.6.0.PCMCNXM",
+   "miui": "V10.2.8.0.PCMCNXM",
    "android": "9.0"
   },
-  "date": "2019-06-18",
+  "date": "2019-07-30",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-18.06.2019/fw_pine_miui_PINE_V10.2.6.0.PCMCNXM_accd34296f_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINE_V10.2.6.0.PCMCNXM_accd34296f_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-30.07.2019/fw_pine_miui_PINE_V10.2.8.0.PCMCNXM_28ad8a5d9a_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINE_V10.2.8.0.PCMCNXM_28ad8a5d9a_9.0.zip"
   },
-  "filename": "fw_pine_miui_PINE_V10.2.6.0.PCMCNXM_accd34296f_9.0.zip"
+  "filename": "fw_pine_miui_PINE_V10.2.8.0.PCMCNXM_28ad8a5d9a_9.0.zip"
  },
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.3.2.0.PDTMIXM",
+   "miui": "V10.3.3.0.PDTMIXM",
    "android": "9.0"
   },
-  "date": "2019-06-05",
+  "date": "2019-07-30",
   "region": "Global",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-05.06.2019/fw_platina_miui_MI8LiteGlobal_V10.3.2.0.PDTMIXM_617c09d4b9_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/platina/fw_platina_miui_MI8LiteGlobal_V10.3.2.0.PDTMIXM_617c09d4b9_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-30.07.2019/fw_platina_miui_MI8LiteGlobal_V10.3.3.0.PDTMIXM_7682e9daab_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/platina/fw_platina_miui_MI8LiteGlobal_V10.3.3.0.PDTMIXM_7682e9daab_9.0.zip"
   },
-  "filename": "fw_platina_miui_MI8LiteGlobal_V10.3.2.0.PDTMIXM_617c09d4b9_9.0.zip"
+  "filename": "fw_platina_miui_MI8LiteGlobal_V10.3.3.0.PDTMIXM_7682e9daab_9.0.zip"
  },
  {
   "branch": "stable",
@@ -1822,16 +1822,16 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.3.15.0.PFKCNXM",
+   "miui": "V10.3.16.0.PFKCNXM",
    "android": "9.0"
   },
-  "date": "2019-07-16",
+  "date": "2019-07-30",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-16.07.2019/fw_raphael_miui_RAPHAEL_V10.3.15.0.PFKCNXM_d88e04e9b5_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAEL_V10.3.15.0.PFKCNXM_d88e04e9b5_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-30.07.2019/fw_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip"
   },
-  "filename": "fw_raphael_miui_RAPHAEL_V10.3.15.0.PFKCNXM_d88e04e9b5_9.0.zip"
+  "filename": "fw_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip"
  },
  {
   "branch": "stable",
@@ -1962,16 +1962,16 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.1.2.0.NDAMIFI",
-   "android": "7.1"
+   "miui": "V10.3.2.0.ODAMIXM",
+   "android": "8.1"
   },
-  "date": "2019-02-26",
+  "date": "2019-07-30",
   "region": "Global",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/stable-26.02.2019/fw_rosy_miui_HM5Global_V10.1.2.0.NDAMIFI_6afa536b21_7.1.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/rosy/fw_rosy_miui_HM5Global_V10.1.2.0.NDAMIFI_6afa536b21_7.1.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/stable-30.07.2019/fw_rosy_miui_HM5Global_V10.3.2.0.ODAMIXM_c9235681be_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/rosy/fw_rosy_miui_HM5Global_V10.3.2.0.ODAMIXM_c9235681be_8.1.zip"
   },
-  "filename": "fw_rosy_miui_HM5Global_V10.1.2.0.NDAMIFI_6afa536b21_7.1.zip"
+  "filename": "fw_rosy_miui_HM5Global_V10.3.2.0.ODAMIXM_c9235681be_8.1.zip"
  },
  {
   "branch": "stable",

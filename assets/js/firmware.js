@@ -25,6 +25,11 @@ function loadFirmwareDownloads(device, type) {
                     }
                 ]
             });
+            $(".dataTables_length select").addClass("custom-select custom-select-sm");
+            $(".dataTables_filter input").addClass("form-control form-control-sm");
+            $(".dataTables_length select").css({'margin-right': '5px', 'margin-left': '5px'});
+            $(".dataTables_length label").css({'display': 'inline-flex'});
+            $(".dataTables_filter label").css({'display': 'inline-flex'});
         });
     });
 };
@@ -86,6 +91,11 @@ function loadLatest() {
                     }
                 ]
             });
+            $(".dataTables_length select").addClass("custom-select custom-select-sm");
+            $(".dataTables_filter input").addClass("form-control form-control-sm");
+            $(".dataTables_length select").css({'margin-right': '5px', 'margin-left': '5px'});
+            $(".dataTables_length label").css({'display': 'inline-flex'});
+            $(".dataTables_filter label").css({'display': 'inline-flex'});
         });
     });
 };
