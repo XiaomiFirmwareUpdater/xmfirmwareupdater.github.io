@@ -1,18 +1,18 @@
 // Load devices
 var firmwareDevicesList = [];
-$.getJSON("data/firmware_devices.json", function (response) {
+$.getJSON("data/firmware_devices.json").done(function (response) {
     Object.entries(response).forEach(
         ([codename, name]) => firmwareDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
     );
 });
 var vendorDevicesList = [];
-$.getJSON("data/vendor_devices.json", function (response) {
+$.getJSON("data/vendor_devices.json").done(function (response) {
     Object.entries(response).forEach(
         ([codename, name]) => vendorDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
     );
 });
 var miuiDevicesList = [];
-$.getJSON("data/miui_devices.json", function (response) {
+$.getJSON("data/miui_devices.json").done(function (response) {
     Object.entries(response).forEach(
         ([codename, name]) => miuiDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
     );

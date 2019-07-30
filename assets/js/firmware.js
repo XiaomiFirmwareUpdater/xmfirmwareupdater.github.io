@@ -1,7 +1,7 @@
 // Load table data from JSON file
 function loadFirmwareDownloads(device, type) {
     $.when(
-        $.getJSON('/data/devices/' + type + '/' + device + '.json', function (data) {
+        $.getJSON('/data/devices/' + type + '/' + device + '.json').done(function (data) {
             var latest = data;
         })
     ).then(function (latest) {
@@ -33,15 +33,13 @@ function loadFirmwareDownloads(device, type) {
 function loadLatest() {
     // Load devices
     var devicesList = [];
-    $.getJSON("/data/firmware_devices.json", function (response) {
-        response.forEach(function (item) {
-            device_name = item.name,
-                device_codename = item.codename,
-                devicesList.push({ name: device_name, codename: device_codename })
-        });
+    $.getJSON("/data/firmware_devices.json").done(function (response) {
+        Object.entries(response).forEach(
+            ([device_codename, device_name]) => devicesList.push({ name: device_name, codename: device_codename })
+        );
     });
     $.when(
-        $.getJSON('/data/devices/latest.json', function (data) {
+        $.getJSON('/data/devices/latest.json').done(function (data) {
             var latest = data;
         })
     ).then(function (latest) {
@@ -94,28 +92,28 @@ function loadLatest() {
 function loadMiuiDownloads(device) {
     var downloads = [];
     var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/';
-    $.getJSON(url + 'stable_recovery/stable_recovery.json', function (data) {
+    $.getJSON(url + 'stable_recovery/stable_recovery.json').done(function (data) {
         data.forEach(function (item) {
             if (item.codename.includes(device)) {
                 downloads.push(item);
             }
         });
     }),
-        $.getJSON(url + 'stable_fastboot/stable_fastboot.json', function (data) {
+        $.getJSON(url + 'stable_fastboot/stable_fastboot.json').done(function (data) {
             data.forEach(function (item) {
                 if (item.codename.includes(device)) {
                     downloads.push(item);
                 }
             });
         }),
-        $.getJSON(url + 'weekly_recovery/weekly_recovery.json', function (data) {
+        $.getJSON(url + 'weekly_recovery/weekly_recovery.json').done(function (data) {
             data.forEach(function (item) {
                 if (item.codename.includes(device)) {
                     downloads.push(item);
                 }
             });
         }),
-        $.getJSON(url + 'weekly_fastboot/weekly_fastboot.json', function (data) {
+        $.getJSON(url + 'weekly_fastboot/weekly_fastboot.json').done(function (data) {
             data.forEach(function (item) {
                 if (item.codename.includes(device)) {
                     downloads.push(item);
