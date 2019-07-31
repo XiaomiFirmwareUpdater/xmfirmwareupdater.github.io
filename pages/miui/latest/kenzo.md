@@ -23,6 +23,6 @@ permalink: /miui/kenzo/
             <th>Size</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('kenzo')</script>
+    <script>loadMiuiDownloads('')</script>
 </table>
 </div>

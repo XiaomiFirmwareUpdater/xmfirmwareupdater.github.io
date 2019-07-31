@@ -92,84 +92,69 @@ function loadLatest() {
 function loadMiuiDownloads(device) {
     var downloads = [];
     var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/';
-    $.getJSON(url + 'stable_recovery/stable_recovery.json').done(function (data) {
-        data.forEach(function (item) {
-            if (item.codename.includes(device)) {
-                downloads.push(item);
-            }
-        });
-    }),
-        $.getJSON(url + 'stable_fastboot/stable_fastboot.json').done(function (data) {
-            data.forEach(function (item) {
-                if (item.codename.includes(device)) {
-                    downloads.push(item);
-                }
-            });
-        }),
-        $.getJSON(url + 'weekly_recovery/weekly_recovery.json').done(function (data) {
-            data.forEach(function (item) {
-                if (item.codename.includes(device)) {
-                    downloads.push(item);
-                }
-            });
-        }),
-        $.getJSON(url + 'weekly_fastboot/weekly_fastboot.json').done(function (data) {
-            data.forEach(function (item) {
-                if (item.codename.includes(device)) {
-                    downloads.push(item);
-                }
-            });
-        }),
-        $(document).ready(function () {
-            $('#firmware').DataTable({
-                data: downloads,
-                responsive: true,
-                "pageLength": 25,
-                "order": [[3, "desc"]],
-                columns: [
-                    { data: 'device' },
-                    /* {
-                    data: 'codename',
-                    "render": function (data) {
-                        return data.split("_")[0];
+    var lists = ['stable_recovery/stable_recovery.json', 'stable_fastboot/stable_fastboot.json',
+        'weekly_recovery/weekly_recovery.json', 'weekly_fastboot/weekly_fastboot.json',
+        'EOL/stable_recovery/stable_recovery.json', 'EOL/stable_fastboot/stable_fastboot.json',
+        'EOL/weekly_recovery/weekly_recovery.json', 'EOL/weekly_fastboot/weekly_fastboot.json'];
+    $.when(
+        lists.forEach(function (item) {
+            $.getJSON(url + item).done(function (data) {
+                data.forEach(function (item) {
+                    if (device != '') {
+                        if (item.codename.includes(device)) {
+                            downloads.push(item);
+                        }
                     }
-                    }, */
-                    {
-                        data: 'version',
-                        "render": function (data) {
-                            var type = ''
-                            if (data.includes('V')) {
-                                type = 'Stable'
+                    else {
+                        downloads.push(item);
+                    }
+                });
+            })
+        })).then(
+            $(document).ready(function () {
+                $('#firmware').DataTable({
+                    data: downloads,
+                    responsive: true,
+                    "pageLength": 25,
+                    "order": [[4, "desc"]],
+                    columns: [
+                        { data: 'device' },
+                        {
+                            data: 'version',
+                            "render": function (data) {
+                                var type = ''
+                                if (data.includes('V')) {
+                                    type = 'Stable'
+                                }
+                                else {
+                                    type = 'Weekly'
+                                }
+                                return type;
                             }
-                            else {
-                                type = 'Weekly'
+                        },
+                        {
+                            data: 'filename',
+                            "render": function (data) {
+                                var type = ''
+                                if (data.includes('.zip')) {
+                                    type = 'Recovery'
+                                }
+                                else {
+                                    type = 'Fastboot'
+                                }
+                                return type;
                             }
-                            return type;
-                        }
-                    },
-                    {
-                        data: 'filename',
-                        "render": function (data) {
-                            var type = ''
-                            if (data.includes('.zip')) {
-                                type = 'Recovery'
+                        },
+                        { data: 'version' },
+                        { data: 'android' },
+                        {
+                            data: 'download',
+                            "render": function (data) {
+                                return '<a href="' + data + '">Download</a>';
                             }
-                            else {
-                                type = 'Fastboot'
-                            }
-                            return type;
-                        }
-                    },
-                    { data: 'version' },
-                    { data: 'android' },
-                    {
-                        data: 'download',
-                        "render": function (data) {
-                            return '<a href="' + data + '">Download</a>';
-                        }
-                    },
-                    { data: 'size' }
-                ]
-            });
-        });
+                        },
+                        { data: 'size' }
+                    ]
+                });
+            }));
 };
