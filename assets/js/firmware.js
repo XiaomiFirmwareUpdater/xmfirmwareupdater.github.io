@@ -116,6 +116,7 @@ function loadMiuiDownloads(device) {
                     data: downloads,
                     responsive: true,
                     "pageLength": 25,
+                    "pagingType": "full_numbers",
                     "order": [[4, "desc"]],
                     columns: [
                         { data: 'device' },

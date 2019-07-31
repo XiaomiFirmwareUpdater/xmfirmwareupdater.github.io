@@ -152,15 +152,16 @@ def load_releases():
 
 def generate_fw_md():
     """
-    Generate downloads markdown files
+    Generate downloads markdown files for firmware pages
     """
     header = '''---
-title: $name ($codename) Downloads
+title: $name ($codename) Firmware Downloads
 layout: download
 name: $name
 codename: $codename
 permalink: $link
----'''
+---
+'''
     table = '''<div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
@@ -184,16 +185,14 @@ permalink: $link
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/$codename/)
 '''
     for branch in ['latest', 'full']:
-        for item in FW_DEVICES:
-            codename = item['codename']
-            name = item['name']
+        for codename, name in FW_DEVICES.items():
             link = ''
             if branch == 'latest':
                 link = f'/firmware/{codename}/'
             elif branch == 'full':
                 link = f'/archive/firmware/{codename}/'
             markdown = ''
-            markdown += header.replace('$codename', codename)\
+            markdown += header.replace('$codename', codename) \
                             .replace('$name', name).replace('$link', link) + '\n\n'
             if branch == 'latest':
                 markdown += latest.replace('$codename', codename) + '\n\n'
@@ -206,6 +205,9 @@ permalink: $link
 
 
 def load_miui_devices():
+    """
+    load miui devices
+    """
     devices = get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
                   'miui-updates-tracker/master/devices/sf.json').json()
     for codename in devices:
@@ -234,15 +236,78 @@ def load_miui_devices():
         json.dump(M_DEVICES, out, indent=1)
 
 
+def generate_miui_md():
+    """
+    Generate downloads markdown files for miui pages
+    """
+    header = '''---
+title: $name ($codename) MIUI Downloads
+layout: download
+name: $name
+codename: $codename
+permalink: $link
+---
+'''
+    table = '''<div class="table-responsive-md" id="table-wrapper">
+<table id="firmware" class="compact table table-striped table-hover table-sm">
+    <thead class="thead-dark">
+        <tr>
+            <th>Device</th>
+            <th>Branch</th>
+            <th>Type</th>
+            <th>MIUI</th>
+            <th>Android</th>
+            <th>Link</th>
+            <th>Size</th>
+        </tr>
+    </thead>
+    <script>$function('$codename')</script>
+</table>
+</div>
+'''
+    latest = '''### Latest MIUI Official ROMs
+##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/miui/$codename/)
+*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
+'''
+    archive = '''### MIUI Official ROMs Archive
+##### This page shows all available downloads. If you're looking for latest builds check [Here](/miui/$codename/)
+*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
+'''
+    for branch in ['latest', 'full']:
+        for codename, name in M_DEVICES.items():
+            link = ''
+            if branch == 'latest':
+                link = f'/miui/{codename}/'
+            elif branch == 'full':
+                link = f'/archive/miui/{codename}/'
+            markdown = ''
+            if branch == 'latest':
+                markdown += header.replace('$codename', codename) \
+                    .replace('$name', name).replace('$link', link)
+                markdown += latest.replace('$codename', codename) + '\n\n'
+                markdown += table.replace('$codename', codename).replace('$request', branch) \
+                            .replace('$function', 'loadMiuiDownloads') + '\n\n'
+            elif branch == 'full':
+                markdown += header.replace('$codename', codename) \
+                    .replace('$name', name).replace('$link', link)
+                markdown += archive.replace('$codename', codename) + '\n\n'
+                markdown += table.replace('$codename', codename).replace('$request', branch) \
+                            .replace('$function', 'loadMiuiDownloads') + '\n\n'
+
+            with open(f'../pages/miui/{branch}/{codename}.md', 'w') as out:
+                out.write(markdown)
+
+
 def main():
     """
     XFU data generate script
     """
     load_names()
     load_fw_devices()
-    # load_releases()
-    # generate_fw_md()
+    load_releases()
+    generate_fw_md()
     load_miui_devices()
+    generate_miui_md()
 
 
 if __name__ == '__main__':
