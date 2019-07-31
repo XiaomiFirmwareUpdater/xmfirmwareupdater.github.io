@@ -1,10 +1,11 @@
 ---
-title: Mi Pad 4 (Plus) (clover) Downloads
+title: Mi Pad 4 (Plus) (clover) Firmware Downloads
 layout: download
 name: Mi Pad 4 (Plus)
 codename: clover
 permalink: /firmware/clover/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/clover/)

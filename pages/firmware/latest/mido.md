@@ -1,10 +1,11 @@
 ---
-title: Redmi Note 4 (mido) Downloads
+title: Redmi Note 4 (mido) Firmware Downloads
 layout: download
 name: Redmi Note 4
 codename: mido
 permalink: /firmware/mido/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/mido/)

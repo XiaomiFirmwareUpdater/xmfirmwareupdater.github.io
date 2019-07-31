@@ -5,8 +5,8 @@ name: Redmi Note 3 Pro
 codename: kenzo
 permalink: /miui/kenzo/
 ---
-
 ### Latest MIUI Official ROMs
+##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/miui/kenzo/)
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 
 
@@ -23,6 +23,8 @@ permalink: /miui/kenzo/
             <th>Size</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('')</script>
+    <script>loadMiuiDownloads('kenzo')</script>
 </table>
 </div>
+
+

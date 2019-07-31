@@ -1,12 +1,12 @@
 ---
-title: Redmi Note 5/5 Pro (whyred) MIUI Downloads
+title: Redmi Note 5 (whyred) MIUI Downloads
 layout: download
-name: Redmi Note 5/5 Pro
+name: Redmi Note 5
 codename: whyred
 permalink: /miui/whyred/
 ---
-
 ### Latest MIUI Official ROMs
+##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/miui/whyred/)
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 
 
@@ -26,3 +26,5 @@ permalink: /miui/whyred/
     <script>loadMiuiDownloads('whyred')</script>
 </table>
 </div>
+
+

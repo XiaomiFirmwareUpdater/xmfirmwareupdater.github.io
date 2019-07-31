@@ -1,10 +1,11 @@
 ---
-title: Redmi 4 (prada) Downloads
+title: Redmi 4 (prada) Firmware Downloads
 layout: download
 name: Redmi 4
 codename: prada
 permalink: /archive/firmware/prada/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/prada/)

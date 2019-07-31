@@ -1,10 +1,11 @@
 ---
-title: Mi 5s Plus (natrium) Downloads
+title: Mi 5s Plus (natrium) Firmware Downloads
 layout: download
 name: Mi 5s Plus
 codename: natrium
 permalink: /firmware/natrium/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/natrium/)

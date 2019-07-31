@@ -1,10 +1,11 @@
 ---
-title: Redmi K20 Pro/Mi 9T Pro (raphael) Downloads
+title: Redmi K20 Pro (raphael) Firmware Downloads
 layout: download
-name: Redmi K20 Pro/Mi 9T Pro
+name: Redmi K20 Pro
 codename: raphael
 permalink: /archive/firmware/raphael/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/raphael/)

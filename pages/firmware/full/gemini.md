@@ -1,10 +1,11 @@
 ---
-title: MI 5 (gemini) Downloads
+title: MI 5 (gemini) Firmware Downloads
 layout: download
 name: MI 5
 codename: gemini
 permalink: /archive/firmware/gemini/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/gemini/)

@@ -1,10 +1,11 @@
 ---
-title: Mi 6X (wayne) Downloads
+title: Mi 6X (wayne) Firmware Downloads
 layout: download
 name: Mi 6X
 codename: wayne
 permalink: /firmware/wayne/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/wayne/)

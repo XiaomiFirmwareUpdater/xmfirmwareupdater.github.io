@@ -1,10 +1,11 @@
 ---
-title: Mi 9 SE (grus) Downloads
+title: Mi 9 SE (grus) Firmware Downloads
 layout: download
 name: Mi 9 SE
 codename: grus
 permalink: /archive/firmware/grus/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/grus/)

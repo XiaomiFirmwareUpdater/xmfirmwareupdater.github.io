@@ -1,10 +1,11 @@
 ---
-title: Redmi K20 India (davinciin) Downloads
+title: Mi 9T (davinciin) Firmware Downloads
 layout: download
-name: Redmi K20 India
+name: Mi 9T
 codename: davinciin
 permalink: /archive/firmware/davinciin/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/davinciin/)

@@ -1,10 +1,11 @@
 ---
-title: Mi Play (lotus) Downloads
+title: Mi Play (lotus) Firmware Downloads
 layout: download
 name: Mi Play
 codename: lotus
 permalink: /firmware/lotus/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/lotus/)

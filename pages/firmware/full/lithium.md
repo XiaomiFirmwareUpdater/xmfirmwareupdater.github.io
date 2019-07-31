@@ -1,10 +1,11 @@
 ---
-title: Mi MIX (lithium) Downloads
+title: Mi MIX (lithium) Firmware Downloads
 layout: download
 name: Mi MIX
 codename: lithium
 permalink: /archive/firmware/lithium/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/lithium/)

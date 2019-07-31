@@ -1,10 +1,11 @@
 ---
-title: Mi 5X (tiffany) Downloads
+title: Mi 5X (tiffany) Firmware Downloads
 layout: download
 name: Mi 5X
 codename: tiffany
 permalink: /firmware/tiffany/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/tiffany/)

@@ -1,10 +1,11 @@
 ---
-title: Mi 8 Pro (equuleus) Downloads
+title: Mi 8 Pro (equuleus) Firmware Downloads
 layout: download
 name: Mi 8 Pro
 codename: equuleus
 permalink: /firmware/equuleus/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/equuleus/)

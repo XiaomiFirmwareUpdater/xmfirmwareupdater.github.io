@@ -1,10 +1,11 @@
 ---
-title: Mi Max (hydrogen) Downloads
+title: Mi Max (hydrogen) Firmware Downloads
 layout: download
 name: Mi Max
 codename: hydrogen
 permalink: /firmware/hydrogen/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/hydrogen/)

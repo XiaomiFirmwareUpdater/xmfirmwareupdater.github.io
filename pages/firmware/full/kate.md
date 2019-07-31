@@ -1,10 +1,11 @@
 ---
-title: Redmi Note 3 SE (kate) Downloads
+title: Redmi Note 3 (kate) Firmware Downloads
 layout: download
-name: Redmi Note 3 SE
+name: Redmi Note 3
 codename: kate
 permalink: /archive/firmware/kate/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/kate/)

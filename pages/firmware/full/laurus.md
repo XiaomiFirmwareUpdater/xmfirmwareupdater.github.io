@@ -1,10 +1,11 @@
 ---
-title: Mi CC 9e (laurus) Downloads
+title: Mi CC 9e (laurus) Firmware Downloads
 layout: download
 name: Mi CC 9e
 codename: laurus
 permalink: /archive/firmware/laurus/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/laurus/)

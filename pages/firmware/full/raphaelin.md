@@ -1,10 +1,11 @@
 ---
-title: Redmi K20 Pro India (raphaelin) Downloads
+title: Redmi K20 Pro (raphaelin) Firmware Downloads
 layout: download
-name: Redmi K20 Pro India
+name: Redmi K20 Pro
 codename: raphaelin
 permalink: /archive/firmware/raphaelin/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/raphaelin/)

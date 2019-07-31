@@ -1,10 +1,11 @@
 ---
-title: Redmi 6A (cactus) Downloads
+title: Redmi 6A (cactus) Firmware Downloads
 layout: download
 name: Redmi 6A
 codename: cactus
 permalink: /archive/firmware/cactus/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/cactus/)

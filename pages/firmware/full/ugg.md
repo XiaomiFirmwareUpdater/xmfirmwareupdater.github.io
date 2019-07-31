@@ -1,10 +1,11 @@
 ---
-title: Redmi Note 5A Prime (ugg) Downloads
+title: Redmi Note 5A Prime (ugg) Firmware Downloads
 layout: download
 name: Redmi Note 5A Prime
 codename: ugg
 permalink: /archive/firmware/ugg/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/ugg/)

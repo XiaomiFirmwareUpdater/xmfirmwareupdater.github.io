@@ -1,10 +1,11 @@
 ---
-title: Mi Note 2 (scorpio) Downloads
+title: Mi Note 2 (scorpio) Firmware Downloads
 layout: download
 name: Mi Note 2
 codename: scorpio
 permalink: /firmware/scorpio/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/scorpio/)

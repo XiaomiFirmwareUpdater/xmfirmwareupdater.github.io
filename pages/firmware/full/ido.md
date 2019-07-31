@@ -1,10 +1,11 @@
 ---
-title: Redmi 3 (ido) Downloads
+title: Redmi 3 (ido) Firmware Downloads
 layout: download
 name: Redmi 3
 codename: ido
 permalink: /archive/firmware/ido/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/ido/)

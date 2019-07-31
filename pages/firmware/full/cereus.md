@@ -1,10 +1,11 @@
 ---
-title: Redmi 6 (cereus) Downloads
+title: Redmi 6 (cereus) Firmware Downloads
 layout: download
 name: Redmi 6
 codename: cereus
 permalink: /archive/firmware/cereus/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/cereus/)

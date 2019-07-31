@@ -1,10 +1,11 @@
 ---
-title: Redmi 4X (santoni) Downloads
+title: Redmi 4X (santoni) Firmware Downloads
 layout: download
 name: Redmi 4X
 codename: santoni
 permalink: /archive/firmware/santoni/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/santoni/)

@@ -1,10 +1,11 @@
 ---
-title: Redmi 7/Y3 (onc) Downloads
+title: Redmi Y3 (onc) Firmware Downloads
 layout: download
-name: Redmi 7/Y3
+name: Redmi Y3
 codename: onc
 permalink: /firmware/onc/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/onc/)

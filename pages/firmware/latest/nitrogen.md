@@ -1,10 +1,11 @@
 ---
-title: Mi Max 3 (nitrogen) Downloads
+title: Mi Max 3 (nitrogen) Firmware Downloads
 layout: download
 name: Mi Max 3
 codename: nitrogen
 permalink: /firmware/nitrogen/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/nitrogen/)

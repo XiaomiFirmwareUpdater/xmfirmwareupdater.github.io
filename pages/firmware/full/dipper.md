@@ -1,10 +1,11 @@
 ---
-title: Mi 8 (dipper) Downloads
+title: Mi 8 (dipper) Firmware Downloads
 layout: download
 name: Mi 8
 codename: dipper
 permalink: /archive/firmware/dipper/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/dipper/)

@@ -1,10 +1,11 @@
 ---
-title: Mi Note 3 (jason) Downloads
+title: Mi Note 3 (jason) Firmware Downloads
 layout: download
 name: Mi Note 3
 codename: jason
 permalink: /firmware/jason/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/jason/)

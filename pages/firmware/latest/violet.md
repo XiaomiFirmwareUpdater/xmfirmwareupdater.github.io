@@ -1,10 +1,11 @@
 ---
-title: Redmi Note 7 Pro (violet) Downloads
+title: Redmi Note 7 Pro (violet) Firmware Downloads
 layout: download
 name: Redmi Note 7 Pro
 codename: violet
 permalink: /firmware/violet/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/violet/)

@@ -1,10 +1,11 @@
 ---
-title: Mi CC9 Meitu Edition (vela) Downloads
+title: Mi CC9 Meitu Edition (vela) Firmware Downloads
 layout: download
 name: Mi CC9 Meitu Edition
 codename: vela
 permalink: /archive/firmware/vela/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/vela/)

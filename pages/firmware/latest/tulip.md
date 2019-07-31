@@ -1,10 +1,11 @@
 ---
-title: Redmi Note 6 Pro (tulip) Downloads
+title: Redmi Note 6 Pro (tulip) Firmware Downloads
 layout: download
 name: Redmi Note 6 Pro
 codename: tulip
 permalink: /firmware/tulip/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/tulip/)

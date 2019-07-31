@@ -1,10 +1,11 @@
 ---
-title: Mi MIX 3 5G (andromeda) Downloads
+title: Mi MIX 3 5G (andromeda) Firmware Downloads
 layout: download
 name: Mi MIX 3 5G
 codename: andromeda
 permalink: /firmware/andromeda/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/andromeda/)

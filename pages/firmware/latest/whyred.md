@@ -1,10 +1,11 @@
 ---
-title: Redmi Note 5/5 Pro (whyred) Downloads
+title: Redmi Note 5 (whyred) Firmware Downloads
 layout: download
-name: Redmi Note 5/5 Pro
+name: Redmi Note 5
 codename: whyred
 permalink: /firmware/whyred/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/whyred/)

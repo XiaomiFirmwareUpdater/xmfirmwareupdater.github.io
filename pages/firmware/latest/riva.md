@@ -1,10 +1,11 @@
 ---
-title: Redmi 5A (riva) Downloads
+title: Redmi 5A (riva) Firmware Downloads
 layout: download
 name: Redmi 5A
 codename: riva
 permalink: /firmware/riva/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/riva/)

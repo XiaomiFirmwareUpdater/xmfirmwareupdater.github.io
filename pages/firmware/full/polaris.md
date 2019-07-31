@@ -1,10 +1,11 @@
 ---
-title: Mi MIX 2S (polaris) Downloads
+title: Mi MIX 2S (polaris) Firmware Downloads
 layout: download
 name: Mi MIX 2S
 codename: polaris
 permalink: /archive/firmware/polaris/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/polaris/)

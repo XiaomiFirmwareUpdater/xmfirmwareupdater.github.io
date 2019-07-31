@@ -1,10 +1,11 @@
 ---
-title: Mi Max Prime (helium) Downloads
+title: Mi Max Prime (helium) Firmware Downloads
 layout: download
 name: Mi Max Prime
 codename: helium
 permalink: /archive/firmware/helium/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/helium/)

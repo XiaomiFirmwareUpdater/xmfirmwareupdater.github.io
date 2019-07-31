@@ -1,10 +1,11 @@
 ---
-title: Redmi Note 3 Pro (kenzo) Downloads
+title: Redmi Note 3 Pro (kenzo) Firmware Downloads
 layout: download
 name: Redmi Note 3 Pro
 codename: kenzo
 permalink: /firmware/kenzo/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/kenzo/)

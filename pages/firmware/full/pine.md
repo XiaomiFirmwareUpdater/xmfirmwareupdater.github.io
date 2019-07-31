@@ -1,10 +1,11 @@
 ---
-title: Redmi 7A (pine) Downloads
+title: Redmi 7A (pine) Firmware Downloads
 layout: download
 name: Redmi 7A
 codename: pine
 permalink: /archive/firmware/pine/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/pine/)

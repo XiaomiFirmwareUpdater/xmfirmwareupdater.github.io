@@ -1,10 +1,11 @@
 ---
-title: Mi 4S (aqua) Downloads
+title: MI 4S (aqua) Firmware Downloads
 layout: download
-name: Mi 4S
+name: MI 4S
 codename: aqua
 permalink: /firmware/aqua/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/aqua/)

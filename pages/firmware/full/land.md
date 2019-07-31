@@ -1,10 +1,11 @@
 ---
-title: Redmi 3S (land) Downloads
+title: Redmi 3S (land) Firmware Downloads
 layout: download
 name: Redmi 3S
 codename: land
 permalink: /archive/firmware/land/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/land/)

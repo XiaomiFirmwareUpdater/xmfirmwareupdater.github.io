@@ -1,10 +1,11 @@
 ---
-title: Mi Pad 3 (cappu) Downloads
+title: Mi Pad 3 (cappu) Firmware Downloads
 layout: download
 name: Mi Pad 3
 codename: cappu
 permalink: /firmware/cappu/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/cappu/)

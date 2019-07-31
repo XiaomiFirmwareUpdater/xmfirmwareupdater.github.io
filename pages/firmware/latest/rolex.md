@@ -1,10 +1,11 @@
 ---
-title: Redmi 4A (rolex) Downloads
+title: Redmi 4A (rolex) Firmware Downloads
 layout: download
 name: Redmi 4A
 codename: rolex
 permalink: /firmware/rolex/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/rolex/)

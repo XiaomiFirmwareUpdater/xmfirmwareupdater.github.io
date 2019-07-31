@@ -1,10 +1,11 @@
 ---
-title: Mi 8 Explorer (ursa) Downloads
+title: Mi 8 Explorer (ursa) Firmware Downloads
 layout: download
 name: Mi 8 Explorer
 codename: ursa
 permalink: /archive/firmware/ursa/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/ursa/)

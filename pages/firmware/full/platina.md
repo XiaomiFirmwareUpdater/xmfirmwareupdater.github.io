@@ -1,10 +1,11 @@
 ---
-title: Mi 8 Lite (platina) Downloads
+title: Mi 8 Lite (platina) Firmware Downloads
 layout: download
 name: Mi 8 Lite
 codename: platina
 permalink: /archive/firmware/platina/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/platina/)

@@ -1,10 +1,11 @@
 ---
-title: Mi 8 SE (sirius) Downloads
+title: Mi 8 SE (sirius) Firmware Downloads
 layout: download
 name: Mi 8 SE
 codename: sirius
 permalink: /firmware/sirius/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/sirius/)

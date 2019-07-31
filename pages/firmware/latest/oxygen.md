@@ -1,10 +1,11 @@
 ---
-title: Mi Max 2 (oxygen) Downloads
+title: Mi Max 2 (oxygen) Firmware Downloads
 layout: download
 name: Mi Max 2
 codename: oxygen
 permalink: /firmware/oxygen/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/oxygen/)

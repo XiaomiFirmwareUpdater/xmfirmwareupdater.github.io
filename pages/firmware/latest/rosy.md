@@ -1,10 +1,11 @@
 ---
-title: Redmi 5 (rosy) Downloads
+title: Redmi 5 (rosy) Firmware Downloads
 layout: download
 name: Redmi 5
 codename: rosy
 permalink: /firmware/rosy/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/rosy/)

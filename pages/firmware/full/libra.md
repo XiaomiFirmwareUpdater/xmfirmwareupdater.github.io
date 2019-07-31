@@ -1,10 +1,11 @@
 ---
-title: Mi 4c (libra) Downloads
+title: Mi 4c (libra) Firmware Downloads
 layout: download
 name: Mi 4c
 codename: libra
 permalink: /archive/firmware/libra/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/libra/)

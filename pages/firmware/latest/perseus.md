@@ -1,10 +1,11 @@
 ---
-title: Mi MIX 3 (perseus) Downloads
+title: Mi MIX 3 (perseus) Firmware Downloads
 layout: download
 name: Mi MIX 3
 codename: perseus
 permalink: /firmware/perseus/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/perseus/)

@@ -1,10 +1,11 @@
 ---
-title: POCO F1 (beryllium) Downloads
+title: POCO F1 (beryllium) Firmware Downloads
 layout: download
 name: POCO F1
 codename: beryllium
 permalink: /archive/firmware/beryllium/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/beryllium/)

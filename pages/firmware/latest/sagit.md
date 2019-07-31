@@ -1,10 +1,11 @@
 ---
-title: Mi 6 (sagit) Downloads
+title: Mi 6 (sagit) Firmware Downloads
 layout: download
 name: Mi 6
 codename: sagit
 permalink: /firmware/sagit/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/sagit/)

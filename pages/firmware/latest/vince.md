@@ -1,10 +1,11 @@
 ---
-title: Redmi 5 Plus/Note 5 India (vince) Downloads
+title: Redmi 5 Plus (vince) Firmware Downloads
 layout: download
-name: Redmi 5 Plus/Note 5 India
+name: Redmi 5 Plus
 codename: vince
 permalink: /firmware/vince/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/vince/)

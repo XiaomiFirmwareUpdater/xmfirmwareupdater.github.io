@@ -1,10 +1,11 @@
 ---
-title: Redmi Note 7 (lavender) Downloads
+title: Redmi Note 7 (lavender) Firmware Downloads
 layout: download
 name: Redmi Note 7
 codename: lavender
 permalink: /archive/firmware/lavender/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/lavender/)

@@ -1,10 +1,11 @@
 ---
-title: Mi 9 (cepheus) Downloads
+title: Mi 9 (cepheus) Firmware Downloads
 layout: download
 name: Mi 9
 codename: cepheus
 permalink: /archive/firmware/cepheus/
 ---
+
 
 ### Firmware Archive
 ##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/cepheus/)

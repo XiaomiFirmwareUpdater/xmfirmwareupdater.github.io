@@ -1,10 +1,11 @@
 ---
-title: Mi MIX 2 (chiron) Downloads
+title: Mi MIX 2 (chiron) Firmware Downloads
 layout: download
 name: Mi MIX 2
 codename: chiron
 permalink: /firmware/chiron/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/chiron/)

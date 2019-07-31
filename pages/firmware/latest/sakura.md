@@ -1,10 +1,11 @@
 ---
-title: Redmi 6 Pro (sakura) Downloads
+title: Redmi 6 Pro (sakura) Firmware Downloads
 layout: download
 name: Redmi 6 Pro
 codename: sakura
 permalink: /firmware/sakura/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/sakura/)

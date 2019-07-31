@@ -1,10 +1,11 @@
 ---
-title: Redmi Note 5A (ugglite) Downloads
+title: Redmi Note 5A (2GB) (ugglite) Firmware Downloads
 layout: download
-name: Redmi Note 5A
+name: Redmi Note 5A (2GB)
 codename: ugglite
 permalink: /firmware/ugglite/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/ugglite/)

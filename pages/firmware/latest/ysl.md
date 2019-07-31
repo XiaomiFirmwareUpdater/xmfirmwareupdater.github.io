@@ -1,10 +1,11 @@
 ---
-title: Redmi S2/Y2 (ysl) Downloads
+title: Redmi S2 (ysl) Firmware Downloads
 layout: download
-name: Redmi S2/Y2
+name: Redmi S2
 codename: ysl
 permalink: /firmware/ysl/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/ysl/)

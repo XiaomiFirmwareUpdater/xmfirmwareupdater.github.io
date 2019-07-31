@@ -1,10 +1,11 @@
 ---
-title: Mi CC 9 (pyxis) Downloads
+title: Mi CC 9 (pyxis) Firmware Downloads
 layout: download
 name: Mi CC 9
 codename: pyxis
 permalink: /firmware/pyxis/
 ---
+
 
 ### Latest Firmware
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/pyxis/)
