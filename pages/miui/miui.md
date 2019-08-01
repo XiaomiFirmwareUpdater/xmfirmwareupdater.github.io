@@ -9,7 +9,7 @@ permalink: /miui/
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 
 <div class="table-responsive-md" id="table-wrapper">
-<table id="firmware" class="compact table table-striped table-hover table-sm">
+<table id="miui" class="compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
             <th>Device</th>
@@ -21,6 +21,6 @@ permalink: /miui/
             <th>Size</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('')</script>
+    <script>loadLatestMiui()</script>
 </table>
 </div>

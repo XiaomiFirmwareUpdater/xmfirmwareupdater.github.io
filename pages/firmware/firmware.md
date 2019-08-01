@@ -20,6 +20,6 @@ permalink: /firmware/
             <th>Link</th>
         </tr>
     </thead>
-    <script>loadLatest()</script>
+    <script>loadLatestFirmware()</script>
 </table>
 </div>
