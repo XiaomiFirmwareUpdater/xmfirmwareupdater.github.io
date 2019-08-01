@@ -43,6 +43,7 @@ function loadLatestFirmware() {
                 $.ajax({
                     url: '/data/firmware_devices.json',
                     async: true,
+                    dataType: 'JSON'
                 }).done(function (data) {
                     json.forEach(function (item) {
                         item.name = data[item.filename.split('_')[1]];
@@ -307,7 +308,96 @@ function loadLatestMiui() {
     })
 };
 
-// Load miui stable archive for a device
+// Load miui stable archive
+function loadMiuiStable() {
+    $(document).ready(function () {
+        var downloads = [];
+        fetchData();
+
+        function fetchData() {
+            $.ajax({
+                url: '/data/miui_devices.json',
+                async: true,
+                dataType: 'JSON'
+            }).done(function (names) {
+                $.ajax({
+                    url: 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-stable-archive/master/miui.json',
+                    async: true,
+                    dataType: 'JSON'
+                }).done(function (data) {
+                    data.forEach(function (items) {
+                        Object.entries(items).forEach(function ([key, value]) {
+                            var device = key;
+                            var codename = key.split('_')[0];
+                            var name = names[codename];
+                            value.forEach(function (item) {
+                                if (typeof item == 'object') {
+                                    Object.entries(item).forEach(function ([key, value]) {
+                                        var version = key;
+                                        var filename = value.file;
+                                        var download = value.download
+                                        var android = filename.split('_').slice(-1).join().split('.zip')[0];
+                                        var region
+                                        if (device.includes('eea_global')) {
+                                            region = 'Europe';
+                                        }
+                                        else if (device.includes('in_global')) {
+                                            region = 'India';
+                                        }
+                                        else if (device.includes('ru_global')) {
+                                            region = 'Russsia';
+                                        }
+                                        else if (device.includes('global')) {
+                                            region = 'Global';
+                                        }
+                                        else {
+                                            region = 'China';
+                                        }
+                                        downloads.push({
+                                            'name': name, 'codename': codename, 'filename': filename,
+                                            'region': region, 'version': version, 'android': android,
+                                            'download': download
+                                        })
+                                    })
+                                }
+                            })
+                        }
+                        );
+                    })
+                    DrawTable(downloads);
+                })
+            })
+        }
+
+        function DrawTable(data) {
+            $('#miui').DataTable({
+                responsive: true,
+                "pageLength": 100,
+                "pagingType": "full_numbers",
+                "order": [[4, "desc"]],
+                data: data,
+                columns: [
+                    {
+                        data: 'name',
+                        defaultContent: 'Device'
+                    },
+                    { data: 'codename' },
+                    { data: 'version' },
+                    { data: 'region' },
+                    { data: 'android' },
+                    {
+                        data: 'download',
+                        "render": function (data) {
+                            return '<a href="' + data + '">Download</a>';
+                        }
+                    }
+                ]
+            });
+        }
+    });
+};
+
+// Load miui archive for a device
 function loadMiuiArchive(device) {
     $(document).ready(function () {
         $('#miui').DataTable({
@@ -412,7 +502,6 @@ function loadVendorDownloads(device, type) {
                             })
                         })
                     })
-                    console.log(downloads);
                     DrawTable(downloads);
                 })
             })
