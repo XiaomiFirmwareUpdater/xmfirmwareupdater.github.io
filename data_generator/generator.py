@@ -11,9 +11,10 @@ ORG = get(f'https://api.github.com/orgs/XiaomiFirmwareUpdater/'
           f'repos?per_page=200&access_token={GIT_TOKEN}').json()
 FW_CODENAMES = []
 FW_DEVICES = {}
-V_DEVICES = []
 M_CODENAMES = []
 M_DEVICES = {}
+V_DEVICES = {}
+
 NAMES = {}
 
 
@@ -179,10 +180,10 @@ permalink: $link
 </div>
 '''
     latest = '''### Latest Firmware
-##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/$codename/)
+##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/$codename/).
 '''
     archive = '''### Firmware Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/$codename/)
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/firmware/$codename/).
 '''
     for branch in ['latest', 'full']:
         for codename, name in FW_DEVICES.items():
@@ -193,11 +194,11 @@ permalink: $link
                 link = f'/archive/firmware/{codename}/'
             markdown = ''
             markdown += header.replace('$codename', codename) \
-                            .replace('$name', name).replace('$link', link) + '\n\n'
+                            .replace('$name', name).replace('$link', link) + '\n'
             if branch == 'latest':
-                markdown += latest.replace('$codename', codename) + '\n\n'
+                markdown += latest.replace('$codename', codename) + '\n'
             elif branch == 'full':
-                markdown += archive.replace('$codename', codename) + '\n\n'
+                markdown += archive.replace('$codename', codename) + '\n'
             markdown += table.replace('$codename', codename).replace('$request', branch)
 
             with open(f'../pages/firmware/{branch}/{codename}.md', 'w') as out:
@@ -273,11 +274,11 @@ permalink: $link
             <th>Updated</th>
             <th>Link</th>'''
     latest = '''### Latest MIUI Official ROMs
-##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/miui/$codename/)
+##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/miui/$codename/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 '''
     archive = '''### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/miui/$codename/)
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/miui/$codename/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 '''
     for branch in ['latest', 'full']:
@@ -287,20 +288,92 @@ permalink: $link
                 link = f'/miui/{codename}/'
                 markdown += header.replace('$codename', codename) \
                     .replace('$name', name).replace('$link', link)
-                markdown += latest.replace('$codename', codename) + '\n\n'
+                markdown += latest.replace('$codename', codename) + '\n'
                 markdown += table.replace('$codename', codename).replace('$request', branch) \
                                 .replace('$function', 'loadMiuiDownloads') \
-                                .replace('$rows', latest_rows) + '\n\n'
+                                .replace('$rows', latest_rows) + '\n'
             elif branch == 'full':
                 link = f'/archive/miui/{codename}/'
                 markdown += header.replace('$codename', codename) \
                     .replace('$name', name).replace('$link', link)
-                markdown += archive.replace('$codename', codename) + '\n\n'
+                markdown += archive.replace('$codename', codename) + '\n'
                 markdown += table.replace('$codename', codename).replace('$request', branch) \
                                 .replace('$function', 'loadMiuiArchive') \
-                                .replace('$rows', archive_rows) + '\n\n'
+                                .replace('$rows', archive_rows) + '\n'
 
             with open(f'../pages/miui/{branch}/{codename}.md', 'w') as out:
+                out.write(markdown)
+
+
+def load_vendor_devices():
+    """
+    Load mi-vendor-updater devices from GitHub repo
+    """
+    codenames = set()
+    data = get(f'https://api.github.com/repos/TryHardDood/mi-vendor-updater/'
+               f'releases?per_page=200&access_token={GIT_TOKEN}').json()
+    for release in data:
+        codenames.add(release['tag_name'].split('_')[0].split('-')[0])
+    codenames = list(codenames)
+    codenames.sort()
+    with open('../data/vendor_codenames.json', 'w') as out:
+        json.dump(codenames, out, indent=1)
+    V_DEVICES.update({codename: NAMES[codename] for codename in codenames})
+    with open('../data/vendor_devices.json', 'w') as out:
+        json.dump(V_DEVICES, out, indent=1)
+
+    header = '''---
+title: $name ($codename) Vendor Downloads
+layout: download
+name: $name
+codename: $codename
+permalink: $link
+---
+'''
+    table = '''<div class="table-responsive-md" id="table-wrapper">
+    <table id="vendor" class="compact table table-striped table-hover table-sm">
+        <thead class="thead-dark">
+            <tr>
+                <th>Device</th>
+                <th>Branch</th>
+                <th>MIUI</th>
+                <th>Region</th>
+                <th>Updated</th>
+                <th>Link</th>
+                <th>Size</th>
+            </tr>
+        </thead>
+        <script>loadVendorDownloads('$codename', '$request')</script>
+    </table>
+</div>
+'''
+    latest = '''### Latest Vendor flashable files
+##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/vendor/$codename/).
+'''
+    archive = '''### Vendor flashable files Archive
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/vendor/$codename/).
+'''
+    notice = "*Note*: All files listed here are made by " \
+             "[mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) " \
+             "open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater."
+    for branch in ['latest', 'full']:
+        for codename, name in V_DEVICES.items():
+            link = ''
+            if branch == 'latest':
+                link = f'/vendor/{codename}/'
+            elif branch == 'full':
+                link = f'/archive/vendor/{codename}/'
+            markdown = ''
+            markdown += header.replace('$codename', codename) \
+                              .replace('$name', name).replace('$link', link) + '\n'
+            if branch == 'latest':
+                markdown += latest.replace('$codename', codename) + '\n'
+            elif branch == 'full':
+                markdown += archive.replace('$codename', codename) + '\n'
+            markdown += notice + '\n\n'
+            markdown += table.replace('$codename', codename).replace('$request', branch)
+
+            with open(f'../pages/vendor/{branch}/{codename}.md', 'w') as out:
                 out.write(markdown)
 
 
@@ -314,6 +387,7 @@ def main():
     generate_fw_md()
     load_miui_devices()
     generate_miui_md()
+    load_vendor_devices()
 
 
 if __name__ == '__main__':
