@@ -6,10 +6,8 @@ codename: whyred
 permalink: /firmware/whyred/
 ---
 
-
 ### Latest Firmware
-##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/whyred/)
-
+##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/whyred/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">

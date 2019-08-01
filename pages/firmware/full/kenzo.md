@@ -6,10 +6,8 @@ codename: kenzo
 permalink: /archive/firmware/kenzo/
 ---
 
-
 ### Firmware Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/kenzo/)
-
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/firmware/kenzo/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">

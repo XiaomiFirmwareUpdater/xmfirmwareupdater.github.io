@@ -6,10 +6,8 @@ codename: rosy
 permalink: /archive/firmware/rosy/
 ---
 
-
 ### Firmware Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/rosy/)
-
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/firmware/rosy/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">

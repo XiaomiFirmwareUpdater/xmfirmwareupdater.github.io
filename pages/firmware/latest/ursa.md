@@ -6,10 +6,8 @@ codename: ursa
 permalink: /firmware/ursa/
 ---
 
-
 ### Latest Firmware
-##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/ursa/)
-
+##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/ursa/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">

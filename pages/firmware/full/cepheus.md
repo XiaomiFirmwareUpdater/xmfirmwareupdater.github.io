@@ -6,10 +6,8 @@ codename: cepheus
 permalink: /archive/firmware/cepheus/
 ---
 
-
 ### Firmware Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/cepheus/)
-
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/firmware/cepheus/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">

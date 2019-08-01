@@ -6,10 +6,8 @@ codename: raphaelin
 permalink: /firmware/raphaelin/
 ---
 
-
 ### Latest Firmware
-##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/raphaelin/)
-
+##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/raphaelin/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">

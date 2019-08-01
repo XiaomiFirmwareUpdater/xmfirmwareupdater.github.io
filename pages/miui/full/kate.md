@@ -6,9 +6,8 @@ codename: kate
 permalink: /archive/miui/kate/
 ---
 ### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/miui/kate/)
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/miui/kate/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
-
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="miui" class="compact table table-striped table-hover table-sm">
@@ -25,5 +24,4 @@ permalink: /archive/miui/kate/
     <script>loadMiuiArchive('kate')</script>
 </table>
 </div>
-
 

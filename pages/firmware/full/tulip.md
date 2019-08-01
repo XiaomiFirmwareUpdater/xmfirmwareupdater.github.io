@@ -6,10 +6,8 @@ codename: tulip
 permalink: /archive/firmware/tulip/
 ---
 
-
 ### Firmware Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/tulip/)
-
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/firmware/tulip/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">

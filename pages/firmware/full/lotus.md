@@ -6,10 +6,8 @@ codename: lotus
 permalink: /archive/firmware/lotus/
 ---
 
-
 ### Firmware Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/lotus/)
-
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/firmware/lotus/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">

@@ -6,9 +6,8 @@ codename: aries
 permalink: /archive/miui/aries/
 ---
 ### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/miui/aries/)
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/miui/aries/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
-
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="miui" class="compact table table-striped table-hover table-sm">
@@ -25,5 +24,4 @@ permalink: /archive/miui/aries/
     <script>loadMiuiArchive('aries')</script>
 </table>
 </div>
-
 

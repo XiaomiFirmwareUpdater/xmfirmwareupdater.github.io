@@ -6,9 +6,8 @@ codename: andromeda
 permalink: /archive/miui/andromeda/
 ---
 ### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/miui/andromeda/)
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/miui/andromeda/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
-
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="miui" class="compact table table-striped table-hover table-sm">
@@ -25,5 +24,4 @@ permalink: /archive/miui/andromeda/
     <script>loadMiuiArchive('andromeda')</script>
 </table>
 </div>
-
 

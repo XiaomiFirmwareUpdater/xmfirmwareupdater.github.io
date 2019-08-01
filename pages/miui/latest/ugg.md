@@ -6,9 +6,8 @@ codename: ugg
 permalink: /miui/ugg/
 ---
 ### Latest MIUI Official ROMs
-##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/miui/ugg/)
+##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/miui/ugg/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
-
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="miui" class="compact table table-striped table-hover table-sm">
@@ -26,5 +25,4 @@ permalink: /miui/ugg/
     <script>loadMiuiDownloads('ugg')</script>
 </table>
 </div>
-
 

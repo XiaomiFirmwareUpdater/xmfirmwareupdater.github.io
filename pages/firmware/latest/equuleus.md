@@ -6,10 +6,8 @@ codename: equuleus
 permalink: /firmware/equuleus/
 ---
 
-
 ### Latest Firmware
-##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/equuleus/)
-
+##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/equuleus/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">

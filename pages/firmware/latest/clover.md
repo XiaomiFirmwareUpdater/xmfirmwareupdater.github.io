@@ -6,10 +6,8 @@ codename: clover
 permalink: /firmware/clover/
 ---
 
-
 ### Latest Firmware
-##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/firmware/clover/)
-
+##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/clover/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">

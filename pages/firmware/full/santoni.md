@@ -6,10 +6,8 @@ codename: santoni
 permalink: /archive/firmware/santoni/
 ---
 
-
 ### Firmware Archive
-##### This page shows all available downloads. If you're looking for latest builds check [Here](/firmware/santoni/)
-
+##### This page shows all available downloads. If you're looking for latest releases check [Here](/firmware/santoni/).
 
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="compact table table-striped table-hover table-sm">
