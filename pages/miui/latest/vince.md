@@ -11,7 +11,7 @@ permalink: /miui/vince/
 
 
 <div class="table-responsive-md" id="table-wrapper">
-<table id="firmware" class="compact table table-striped table-hover table-sm">
+<table id="miui" class="compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
             <th>Device</th>

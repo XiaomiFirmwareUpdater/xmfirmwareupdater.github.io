@@ -11,19 +11,18 @@ permalink: /archive/miui/hermes/
 
 
 <div class="table-responsive-md" id="table-wrapper">
-<table id="firmware" class="compact table table-striped table-hover table-sm">
+<table id="miui" class="compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
-            <th>Device</th>
             <th>Branch</th>
-            <th>Type</th>
             <th>MIUI</th>
             <th>Android</th>
+            <th>Region</th>
+            <th>Updated</th>
             <th>Link</th>
-            <th>Size</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('hermes')</script>
+    <script>loadMiuiArchive('hermes')</script>
 </table>
 </div>
 

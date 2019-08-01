@@ -249,22 +249,29 @@ permalink: $link
 ---
 '''
     table = '''<div class="table-responsive-md" id="table-wrapper">
-<table id="firmware" class="compact table table-striped table-hover table-sm">
+<table id="miui" class="compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
-            <th>Device</th>
-            <th>Branch</th>
-            <th>Type</th>
-            <th>MIUI</th>
-            <th>Android</th>
-            <th>Link</th>
-            <th>Size</th>
+            $rows
         </tr>
     </thead>
     <script>$function('$codename')</script>
 </table>
 </div>
 '''
+    latest_rows = '''<th>Device</th>
+            <th>Branch</th>
+            <th>Type</th>
+            <th>MIUI</th>
+            <th>Android</th>
+            <th>Link</th>
+            <th>Size</th>'''
+    archive_rows = '''<th>Branch</th>
+            <th>MIUI</th>
+            <th>Android</th>
+            <th>Region</th>
+            <th>Updated</th>
+            <th>Link</th>'''
     latest = '''### Latest MIUI Official ROMs
 ##### This page shows latest downloads only. If you're looking for old builds check [the archive](/archive/miui/$codename/)
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
@@ -275,24 +282,23 @@ permalink: $link
 '''
     for branch in ['latest', 'full']:
         for codename, name in M_DEVICES.items():
-            link = ''
-            if branch == 'latest':
-                link = f'/miui/{codename}/'
-            elif branch == 'full':
-                link = f'/archive/miui/{codename}/'
             markdown = ''
             if branch == 'latest':
+                link = f'/miui/{codename}/'
                 markdown += header.replace('$codename', codename) \
                     .replace('$name', name).replace('$link', link)
                 markdown += latest.replace('$codename', codename) + '\n\n'
                 markdown += table.replace('$codename', codename).replace('$request', branch) \
-                            .replace('$function', 'loadMiuiDownloads') + '\n\n'
+                                .replace('$function', 'loadMiuiDownloads') \
+                                .replace('$rows', latest_rows) + '\n\n'
             elif branch == 'full':
+                link = f'/archive/miui/{codename}/'
                 markdown += header.replace('$codename', codename) \
                     .replace('$name', name).replace('$link', link)
                 markdown += archive.replace('$codename', codename) + '\n\n'
                 markdown += table.replace('$codename', codename).replace('$request', branch) \
-                            .replace('$function', 'loadMiuiDownloads') + '\n\n'
+                                .replace('$function', 'loadMiuiArchive') \
+                                .replace('$rows', archive_rows) + '\n\n'
 
             with open(f'../pages/miui/{branch}/{codename}.md', 'w') as out:
                 out.write(markdown)
