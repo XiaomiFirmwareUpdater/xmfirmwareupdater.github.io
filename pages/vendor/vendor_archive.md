@@ -10,6 +10,13 @@ permalink: /archive/vendor/
 
 *Note*: All files listed here are made by [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.
 
+<div class="alert alert-primary alert-dismissible fade show" role="alert">
+    Follow <a href="https://t.me/MIUIVendorUpdater" class="alert-link">MIUI Vendor Updater</a> on Telegram to get notified when a new update is out!
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+
 <div class="table-responsive-md" id="table-wrapper">
 <table id="vendor" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
     <thead class="thead-dark">

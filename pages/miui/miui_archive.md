@@ -7,20 +7,29 @@ permalink: /archive/miui/
 ### MIUI Official Stable ROMs Archive for all devices
 ##### This page shows all available downloads. If you're looking for the latest releases check [Here](/miui/).
 
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
+*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware
+Updater.
+
+<div class="alert alert-primary alert-dismissible fade show" role="alert">
+    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">MIUI Updates Tracker</a> on Telegram to get
+    notified when a new ROM is out!
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
 
 <div class="table-responsive-md" id="table-wrapper">
-<table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
-    <thead class="thead-dark">
-        <tr>
-            <th>Device</th>
-            <th>Codename</th>
-            <th>MIUI</th>
-            <th>Region</th>
-            <th>Android</th>
-            <th>Link</th>
-        </tr>
-    </thead>
-    <script>loadMiuiStable()</script>
-</table>
+    <table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
+        <thead class="thead-dark">
+            <tr>
+                <th>Device</th>
+                <th>Codename</th>
+                <th>MIUI</th>
+                <th>Region</th>
+                <th>Android</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <script>loadMiuiStable()</script>
+    </table>
 </div>
