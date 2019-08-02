@@ -185,6 +185,13 @@ permalink: $link
     archive = '''### Firmware Archive
 ##### This page shows all available downloads. If you're looking for the latest releases check [Here](/firmware/$codename/).
 '''
+    banner = '''<div class="alert alert-primary alert-dismissible fade show" role="alert">
+    Follow <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">Xiaomi Firmware Updater</a> on Telegram to get notified when a new update is out!
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>'''
+
     for branch in ['latest', 'full']:
         for codename, name in FW_DEVICES.items():
             link = ''
@@ -199,6 +206,7 @@ permalink: $link
                 markdown += latest.replace('$codename', codename) + '\n'
             elif branch == 'full':
                 markdown += archive.replace('$codename', codename) + '\n'
+            markdown += banner + '\n'
             markdown += table.replace('$codename', codename).replace('$request', branch)
 
             with open(f'../pages/firmware/{branch}/{codename}.md', 'w') as out:
@@ -282,6 +290,13 @@ permalink: $link
 ##### This page shows all available downloads. If you're looking for the latest releases check [Here](/miui/$codename/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 '''
+    banner = '''<div class="alert alert-primary alert-dismissible fade show" role="alert">
+    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">MIUI Updates Tracker</a> on Telegram to get notified when a new ROM is out!
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>'''
+
     for branch in ['latest', 'full']:
         for codename, name in M_DEVICES.items():
             markdown = ''
@@ -290,6 +305,7 @@ permalink: $link
                 markdown += header.replace('$codename', codename) \
                     .replace('$name', name).replace('$link', link)
                 markdown += latest.replace('$codename', codename) + '\n'
+                markdown += banner + '\n'
                 markdown += table.replace('$codename', codename).replace('$request', branch) \
                                 .replace('$function', 'loadMiuiDownloads') \
                                 .replace('$rows', latest_rows) + '\n'
@@ -298,6 +314,7 @@ permalink: $link
                 markdown += header.replace('$codename', codename) \
                     .replace('$name', name).replace('$link', link)
                 markdown += archive.replace('$codename', codename) + '\n'
+                markdown += banner + '\n'
                 markdown += table.replace('$codename', codename).replace('$request', branch) \
                                 .replace('$function', 'loadMiuiArchive') \
                                 .replace('$rows', archive_rows) + '\n'
@@ -357,6 +374,12 @@ permalink: $link
     notice = "*Note*: All files listed here are made by " \
              "[mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) " \
              "open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater."
+    banner = '''<div class="alert alert-primary alert-dismissible fade show" role="alert">
+    Follow <a href="https://t.me/MIUIVendorUpdater" class="alert-link">MIUI Vendor Updater</a> on Telegram to get notified when a new update is out!
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>'''
     for branch in ['latest', 'full']:
         for codename, name in V_DEVICES.items():
             link = ''
@@ -371,7 +394,8 @@ permalink: $link
                 markdown += latest.replace('$codename', codename) + '\n'
             elif branch == 'full':
                 markdown += archive.replace('$codename', codename) + '\n'
-            markdown += notice + '\n\n'
+            markdown += notice + '\n'
+            markdown += banner + '\n'
             markdown += table.replace('$codename', codename).replace('$request', branch)
 
             with open(f'../pages/vendor/{branch}/{codename}.md', 'w') as out:
