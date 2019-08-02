@@ -53,7 +53,7 @@ function loadFirmwareDownloads(device, type) {
                     data: 'downloads.osdn',
                     className: "all",
                     "render": function (data) {
-                        return '<a href="' + data + '">Download</a>';
+                        return '<a href="' + data + '" target="_blank">Download</a>';
                     }
                 },
                 { data: 'date', className: "min-mobile-l" }
@@ -118,7 +118,7 @@ function loadLatestFirmware() {
                         data: 'downloads.osdn',
                         className: "all",
                         "render": function (data) {
-                            return '<a href="' + data + '">Download</a>';
+                            return '<a href="' + data + '" target="_blank">Download</a>';
                         }
                     },
                     { data: 'date', className: "min-mobile-l" }
@@ -225,7 +225,7 @@ function loadMiuiDownloads(device) {
                         data: 'download',
                         className: "all",
                         "render": function (data) {
-                            return '<a href="' + data + '">Download</a>';
+                            return '<a href="' + data + '" target="_blank">Download</a>';
                         }
                     },
                     { data: 'size', className: "min-mobile-l" }
@@ -346,7 +346,7 @@ function loadLatestMiui() {
                         data: 'download',
                         className: "all",
                         "render": function (data) {
-                            return '<a href="' + data + '">Download</a>';
+                            return '<a href="' + data + '" target="_blank">Download</a>';
                         }
                     },
                     { data: 'size', className: "min-mobile-l" }
@@ -440,7 +440,7 @@ function loadMiuiStable() {
                         data: 'download',
                         className: "all",
                         "render": function (data) {
-                            return '<a href="' + data + '">Download</a>';
+                            return '<a href="' + data + '" target="_blank">Download</a>';
                         }
                     }
                 ]
@@ -588,7 +588,7 @@ function loadVendorDownloads(device, type) {
                         data: 'download',
                         className: "all",
                         "render": function (data) {
-                            return '<a href="' + data + '">Download</a>';
+                            return '<a href="' + data + '" target="_blank">Download</a>';
                         }
                     },
                     { data: 'size', className: "min-mobile-l" },
