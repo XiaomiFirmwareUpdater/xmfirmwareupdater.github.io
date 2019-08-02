@@ -15,7 +15,7 @@ function loadSupportedDevices(type) {
                 "dataSrc": function (json) {
                     var devicesList = [];
                     Object.entries(json).forEach(function ([codename, name]) {
-                        devicesList.push({'name': name, 'codename': codename});
+                        devicesList.push({ 'name': name, 'codename': codename });
                     })
                     return devicesList;
                 }
@@ -37,7 +37,7 @@ function loadFirmwareDownloads(device, type) {
                 details: false
             },
             "pageLength": 25,
-            "order": [[4, "desc"]],
+            "order": [[5, "desc"]],
             "ajax": {
                 "type": "GET",
                 "url": '/data/devices/' + type + '/' + device + '.json',
@@ -503,7 +503,13 @@ function loadVendorDownloads(device, type) {
                     json.forEach(function (release) {
                         if (release.tag_name.startsWith(device)) {
                             if (type == 'latest') {
-                                releases.push(release.assets.slice(-1));
+                                var reversed = release.assets.reverse();
+                                for (let i = 0; i < reversed.length; i++) {
+                                    if (reversed[i].name.match(/fw-vendor_[a-z]*(?:_[a-z]*)*?_(?:V(.*))?[0-9].*.zip/)) {
+                                        releases.push([reversed[i]]);
+                                        break;
+                                    }
+                                }
                             }
                             else if (type == 'full') {
                                 releases.push(release.assets);
@@ -567,7 +573,7 @@ function loadVendorDownloads(device, type) {
                 },
                 "pageLength": 25,
                 "pagingType": "full_numbers",
-                "order": [[4, "desc"]],
+                "order": [[6, "desc"]],
                 data: data,
                 columns: [
                     {

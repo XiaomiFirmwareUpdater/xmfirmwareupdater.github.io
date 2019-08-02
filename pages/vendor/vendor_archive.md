@@ -18,9 +18,9 @@ permalink: /archive/vendor/
             <th>Branch</th>
             <th>MIUI</th>
             <th>Region</th>
-            <th>Updated</th>
             <th>Link</th>
             <th>Size</th>
+            <th>Updated</th>
         </tr>
     </thead>
     <script>loadVendorDownloads('', 'full')</script>

@@ -16,8 +16,8 @@ permalink: /firmware/
             <th>MIUI</th>
             <th>Android</th>
             <th>Region</th>
-            <th>Updated</th>
             <th>Link</th>
+            <th>Updated</th>
         </tr>
     </thead>
     <script>loadLatestFirmware()</script>
