@@ -1,8 +1,41 @@
+// Load supported devices from JSON file
+function loadSupportedDevices(type) {
+    $(document).ready(function () {
+        $('#supported').DataTable({
+            fixedHeader: true,
+            responsive: {
+                details: false
+            },
+            "paging": false,
+            "order": [[1, "asc"]],
+            "ajax": {
+                "type": "GET",
+                "url": '/data/' + type + '_devices.json',
+                dataType: 'JSON',
+                "dataSrc": function (json) {
+                    var devicesList = [];
+                    Object.entries(json).forEach(function ([codename, name]) {
+                        devicesList.push({'name': name, 'codename': codename});
+                    })
+                    return devicesList;
+                }
+            },
+            columns: [
+                { data: 'name', className: "all" },
+                { data: 'codename', className: "all" }
+            ]
+        });
+    });
+};
+
 // Load table data from JSON file
 function loadFirmwareDownloads(device, type) {
     $(document).ready(function () {
         $('#firmware').DataTable({
             responsive: true,
+            responsive: {
+                details: false
+            },
             "pageLength": 25,
             "order": [[4, "desc"]],
             "ajax": {
@@ -12,17 +45,18 @@ function loadFirmwareDownloads(device, type) {
                 "dataSrc": ""
             },
             columns: [
-                { data: 'branch' },
-                { data: 'versions.miui' },
-                { data: 'versions.android' },
-                { data: 'region' },
-                { data: 'date' },
+                { data: 'branch', className: "min-mobile-l" },
+                { data: 'versions.miui', className: "all" },
+                { data: 'versions.android', className: "min-mobile-p" },
+                { data: 'region', className: "min-mobile-l" },
                 {
                     data: 'downloads.osdn',
+                    className: "all",
                     "render": function (data) {
                         return '<a href="' + data + '">Download</a>';
                     }
-                }
+                },
+                { data: 'date', className: "min-mobile-l" }
             ]
         });
     });
@@ -56,7 +90,9 @@ function loadLatestFirmware() {
 
         function DrawTable(data) {
             $('#firmware').DataTable({
-                responsive: true,
+                responsive: {
+                    details: false
+                },
                 "pageLength": 100,
                 "pagingType": "full_numbers",
                 "order": [[6, "desc"]],
@@ -64,25 +100,28 @@ function loadLatestFirmware() {
                 columns: [
                     {
                         data: 'name',
-                        defaultContent: 'Device'
+                        defaultContent: 'Device',
+                        className: "all"
                     },
                     {
                         data: 'filename',
+                        className: "min-tablet-p",
                         "render": function (data) {
                             return data.split("_")[1];
                         }
                     },
-                    { data: 'branch' },
-                    { data: 'versions.miui' },
-                    { data: 'versions.android' },
-                    { data: 'region' },
-                    { data: 'date' },
+                    { data: 'branch', className: "min-mobile-l" },
+                    { data: 'versions.miui', className: "all" },
+                    { data: 'versions.android', className: "min-mobile-p" },
+                    { data: 'region', className: "min-mobile-l" },
                     {
                         data: 'downloads.osdn',
+                        className: "all",
                         "render": function (data) {
                             return '<a href="' + data + '">Download</a>';
                         }
-                    }
+                    },
+                    { data: 'date', className: "min-mobile-l" }
                 ]
             });
         }
@@ -145,14 +184,16 @@ function loadMiuiDownloads(device) {
         function DrawTable(downloads) {
             $('#miui').DataTable({
                 data: downloads,
-                responsive: true,
+                responsive: {
+                    details: false
+                },
                 "pageLength": 25,
                 "pagingType": "full_numbers",
                 "order": [[4, "desc"]],
                 columns: [
-                    { data: 'device' },
+                    { data: 'device', className: "min-tablet-p" },
                     {
-                        data: 'version',
+                        data: 'version', className: "min-tablet-p",
                         "render": function (data) {
                             var type = ''
                             if (data.startsWith('V')) {
@@ -166,6 +207,7 @@ function loadMiuiDownloads(device) {
                     },
                     {
                         data: 'filename',
+                        className: "min-mobile-l",
                         "render": function (data) {
                             var type = ''
                             if (data.endsWith('.zip')) {
@@ -177,15 +219,16 @@ function loadMiuiDownloads(device) {
                             return type;
                         }
                     },
-                    { data: 'version' },
-                    { data: 'android' },
+                    { data: 'version', className: "all" },
+                    { data: 'android', className: "min-mobile-p" },
                     {
                         data: 'download',
+                        className: "all",
                         "render": function (data) {
                             return '<a href="' + data + '">Download</a>';
                         }
                     },
-                    { data: 'size' }
+                    { data: 'size', className: "min-mobile-l" }
                 ]
             });
         };
@@ -261,14 +304,17 @@ function loadLatestMiui() {
         function DrawTable(downloads) {
             $('#miui').DataTable({
                 data: downloads,
-                responsive: true,
-                "pageLength": 25,
+                responsive: {
+                    details: false
+                },
+                "pageLength": 100,
                 "pagingType": "full_numbers",
                 "order": [[4, "desc"]],
                 columns: [
-                    { data: 'device' },
+                    { data: 'device', className: "all" },
                     {
                         data: 'version',
+                        className: "min-tablet-p",
                         "render": function (data) {
                             var type = ''
                             if (data.startsWith('V')) {
@@ -282,6 +328,7 @@ function loadLatestMiui() {
                     },
                     {
                         data: 'filename',
+                        className: "min-mobile-l",
                         "render": function (data) {
                             var type = ''
                             if (data.endsWith('.zip')) {
@@ -293,15 +340,16 @@ function loadLatestMiui() {
                             return type;
                         }
                     },
-                    { data: 'version' },
-                    { data: 'android' },
+                    { data: 'version', className: "all" },
+                    { data: 'android', className: "min-mobile-p" },
                     {
                         data: 'download',
+                        className: "all",
                         "render": function (data) {
                             return '<a href="' + data + '">Download</a>';
                         }
                     },
-                    { data: 'size' }
+                    { data: 'size', className: "min-mobile-l" }
                 ]
             });
         };
@@ -371,7 +419,9 @@ function loadMiuiStable() {
 
         function DrawTable(data) {
             $('#miui').DataTable({
-                responsive: true,
+                responsive: {
+                    details: false
+                },
                 "pageLength": 100,
                 "pagingType": "full_numbers",
                 "order": [[4, "desc"]],
@@ -379,14 +429,16 @@ function loadMiuiStable() {
                 columns: [
                     {
                         data: 'name',
-                        defaultContent: 'Device'
+                        defaultContent: 'Device',
+                        className: "all"
                     },
-                    { data: 'codename' },
-                    { data: 'version' },
-                    { data: 'region' },
-                    { data: 'android' },
+                    { data: 'codename', className: "min-tablet-p" },
+                    { data: 'version', className: "all" },
+                    { data: 'region', className: "min-mobile-l" },
+                    { data: 'android', className: "min-mobile-p" },
                     {
                         data: 'download',
+                        className: "all",
                         "render": function (data) {
                             return '<a href="' + data + '">Download</a>';
                         }
@@ -401,8 +453,10 @@ function loadMiuiStable() {
 function loadMiuiArchive(device) {
     $(document).ready(function () {
         $('#miui').DataTable({
-            responsive: true,
-            "pageLength": 25,
+            responsive: {
+                details: false
+            },
+            "pageLength": 50,
             "order": [[4, "desc"]],
             "ajax": {
                 "type": "GET",
@@ -410,18 +464,18 @@ function loadMiuiArchive(device) {
                 "dataSrc": ""
             },
             columns: [
-                { data: 'branch' },
-                { data: 'versions.miui' },
-                { data: 'versions.android' },
-                { data: 'region' },
-                { data: 'date' },
+                { data: 'branch', className: "min-tablet-p" },
+                { data: 'versions.miui', className: "all" },
+                { data: 'versions.android', className: "min-mobile-p" },
+                { data: 'region', className: "min-mobile-l" },
                 {
-                    data: 'filename',
+                    data: 'filename', className: "all",
                     "render": function (data) {
                         var link = 'http://bigota.d.miui.com/' + data.split('_')[4] + '/' + data.match(/miui.*/)
                         return '<a href="' + link + '">Download</a>';
                     }
-                }
+                },
+                { data: 'date', className: "min-mobile-l" }
             ]
         });
     });
@@ -431,7 +485,6 @@ function loadMiuiArchive(device) {
 function loadVendorDownloads(device, type) {
     $(document).ready(function () {
         var downloads = [];
-        var names = [];
         fetchData();
 
         function fetchData() {
@@ -440,7 +493,7 @@ function loadVendorDownloads(device, type) {
                 url: '/data/vendor_devices.json',
                 async: true,
             }).done(function (names) {
-                names = names;
+                var names = names;
                 $.ajax({
                     url: 'https://api.github.com/repos/TryHardDood/mi-vendor-updater/releases?per_page=200',
                     async: true,
@@ -509,7 +562,9 @@ function loadVendorDownloads(device, type) {
 
         function DrawTable(data) {
             $('#vendor').DataTable({
-                responsive: true,
+                responsive: {
+                    details: false
+                },
                 "pageLength": 25,
                 "pagingType": "full_numbers",
                 "order": [[4, "desc"]],
@@ -517,19 +572,21 @@ function loadVendorDownloads(device, type) {
                 columns: [
                     {
                         data: 'name',
-                        defaultContent: 'Device'
+                        defaultContent: 'Device',
+                        className: "all"
                     },
-                    { data: 'branch' },
-                    { data: 'version' },
-                    { data: 'region' },
-                    { data: 'date' },
+                    { data: 'branch', className: "min-tablet-p" },
+                    { data: 'version', className: "all" },
+                    { data: 'region', className: "min-mobile-l" },
                     {
                         data: 'download',
+                        className: "all",
                         "render": function (data) {
                             return '<a href="' + data + '">Download</a>';
                         }
                     },
-                    { data: 'size' },
+                    { data: 'size', className: "min-mobile-l" },
+                    { data: 'date', className: "min-mobile-l" }
                 ]
             });
         }
