@@ -164,15 +164,15 @@ permalink: $link
 ---
 '''
     table = '''<div class="table-responsive-md" id="table-wrapper">
-<table id="firmware" class="compact table table-striped table-hover table-sm">
+<table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
             <th>Branch</th>
             <th>MIUI</th>
             <th>Android</th>
             <th>Region</th>
-            <th>Updated</th>
             <th>Link</th>
+            <th>Updated</th>
         </tr>
     </thead>
     <script>loadFirmwareDownloads('$codename', '$request')</script>
@@ -180,10 +180,10 @@ permalink: $link
 </div>
 '''
     latest = '''### Latest Firmware
-##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/$codename/).
+##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/$codename/).
 '''
     archive = '''### Firmware Archive
-##### This page shows all available downloads. If you're looking for latest releases check [Here](/firmware/$codename/).
+##### This page shows all available downloads. If you're looking for the latest releases check [Here](/firmware/$codename/).
 '''
     for branch in ['latest', 'full']:
         for codename, name in FW_DEVICES.items():
@@ -219,6 +219,8 @@ def load_miui_devices():
             else:
                 codename = check
         M_CODENAMES.append(codename)
+    for codename in ['tissot', 'jasmine', 'daisy']:
+        M_CODENAMES.append(codename)
     with open('../data/miui_codenames.json', 'w') as out:
         json.dump(M_CODENAMES, out, indent=1)
     eol = get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
@@ -231,7 +233,6 @@ def load_miui_devices():
             else:
                 codename = check
         M_CODENAMES.append(codename)
-
     M_DEVICES.update({codename: NAMES[codename] for codename in M_CODENAMES})
     with open('../data/miui_devices.json', 'w') as out:
         json.dump(M_DEVICES, out, indent=1)
@@ -250,7 +251,7 @@ permalink: $link
 ---
 '''
     table = '''<div class="table-responsive-md" id="table-wrapper">
-<table id="miui" class="compact table table-striped table-hover table-sm">
+<table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
             $rows
@@ -271,14 +272,14 @@ permalink: $link
             <th>MIUI</th>
             <th>Android</th>
             <th>Region</th>
-            <th>Updated</th>
-            <th>Link</th>'''
+            <th>Link</th>
+            <th>Updated</th>'''
     latest = '''### Latest MIUI Official ROMs
-##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/miui/$codename/).
+##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/$codename/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 '''
     archive = '''### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for latest releases check [Here](/miui/$codename/).
+##### This page shows all available downloads. If you're looking for the latest releases check [Here](/miui/$codename/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 '''
     for branch in ['latest', 'full']:
@@ -331,16 +332,16 @@ permalink: $link
 ---
 '''
     table = '''<div class="table-responsive-md" id="table-wrapper">
-    <table id="vendor" class="compact table table-striped table-hover table-sm">
+    <table id="vendor" class="display dt-responsive compact table table-striped table-hover table-sm">
         <thead class="thead-dark">
             <tr>
                 <th>Device</th>
                 <th>Branch</th>
                 <th>MIUI</th>
                 <th>Region</th>
-                <th>Updated</th>
                 <th>Link</th>
                 <th>Size</th>
+                <th>Updated</th>
             </tr>
         </thead>
         <script>loadVendorDownloads('$codename', '$request')</script>
@@ -348,10 +349,10 @@ permalink: $link
 </div>
 '''
     latest = '''### Latest Vendor flashable files
-##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/vendor/$codename/).
+##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/vendor/$codename/).
 '''
     archive = '''### Vendor flashable files Archive
-##### This page shows all available downloads. If you're looking for latest releases check [Here](/vendor/$codename/).
+##### This page shows all available downloads. If you're looking for the latest releases check [Here](/vendor/$codename/).
 '''
     notice = "*Note*: All files listed here are made by " \
              "[mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) " \
