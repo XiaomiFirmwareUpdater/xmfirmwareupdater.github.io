@@ -7,7 +7,7 @@ permalink: /firmware/
 ### Latest Firmware Downloads for all Xiaomi Devices
 
 <div class="table-responsive-md" style="margin-top: 25px;">
-<table id="firmware" class="compact table table-striped table-hover table-sm">
+<table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
             <th>Device</th>

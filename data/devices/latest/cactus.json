@@ -30,15 +30,15 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.7.25",
+   "miui": "9.8.1",
    "android": "9.0"
   },
-  "date": "2019-07-26",
+  "date": "2019-08-02",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-26.07.2019/fw_cactus_miui_HM6A_9.7.25_9cc163c903_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/cactus/fw_cactus_miui_HM6A_9.7.25_9cc163c903_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-02.08.2019/fw_cactus_miui_HM6A_9.8.1_1c6e496c8f_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/cactus/fw_cactus_miui_HM6A_9.8.1_1c6e496c8f_9.0.zip"
   },
-  "filename": "fw_cactus_miui_HM6A_9.7.25_9cc163c903_9.0.zip"
+  "filename": "fw_cactus_miui_HM6A_9.8.1_1c6e496c8f_9.0.zip"
  }
 ]

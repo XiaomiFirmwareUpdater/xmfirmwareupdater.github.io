@@ -6,11 +6,11 @@ codename: aqua
 permalink: /miui/aqua/
 ---
 ### Latest MIUI Official ROMs
-##### This page shows latest downloads only. If you're looking for old releases check [the archive](/archive/miui/aqua/).
+##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/aqua/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 
 <div class="table-responsive-md" id="table-wrapper">
-<table id="miui" class="compact table table-striped table-hover table-sm">
+<table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
             <th>Device</th>
