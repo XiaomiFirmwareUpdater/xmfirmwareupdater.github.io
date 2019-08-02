@@ -3,11 +3,11 @@
     "codename": "pine",
     "type": "global",
     "versions": {
-      "android": "",
-      "miui": ""
+      "android": "9.0",
+      "miui": "V10.2.4.0.PCMINXM"
     },
-    "date": "",
-    "file": ""
+    "date": "2019-08-02",
+    "file": "fw_pine_miui_PINEINGlobal_V10.2.4.0.PCMINXM_28d86be311_9.0.zip"
   },
   {
     "codename": "pine",
