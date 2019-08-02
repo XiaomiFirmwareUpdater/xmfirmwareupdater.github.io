@@ -1,5 +1,19 @@
 [
  {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.3.0.ODACNXM",
+   "android": "8.1"
+  },
+  "date": "2019-08-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/stable-02.08.2019/fw_rosy_miui_HM5_V10.3.3.0.ODACNXM_c9b69061c6_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/rosy/fw_rosy_miui_HM5_V10.3.3.0.ODACNXM_c9b69061c6_8.1.zip"
+  },
+  "filename": "fw_rosy_miui_HM5_V10.3.3.0.ODACNXM_c9b69061c6_8.1.zip"
+ },
+ {
   "branch": "weekly",
   "versions": {
    "miui": "9.8.1",

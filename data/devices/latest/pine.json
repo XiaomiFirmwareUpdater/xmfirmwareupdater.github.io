@@ -2,6 +2,20 @@
  {
   "branch": "stable",
   "versions": {
+   "miui": "V10.2.4.0.PCMMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-08-02",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-02.08.2019/fw_pine_miui_PINEGlobal_V10.2.4.0.PCMMIXM_80b9b819b4_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINEGlobal_V10.2.4.0.PCMMIXM_80b9b819b4_9.0.zip"
+  },
+  "filename": "fw_pine_miui_PINEGlobal_V10.2.4.0.PCMMIXM_80b9b819b4_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
    "miui": "V10.2.8.0.PCMCNXM",
    "android": "9.0"
   },
@@ -12,5 +26,19 @@
    "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINE_V10.2.8.0.PCMCNXM_28ad8a5d9a_9.0.zip"
   },
   "filename": "fw_pine_miui_PINE_V10.2.8.0.PCMCNXM_28ad8a5d9a_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.4.0.PCMINXM",
+   "android": "9.0"
+  },
+  "date": "2019-08-02",
+  "region": "India",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-02.08.2019/fw_pine_miui_PINEINGlobal_V10.2.4.0.PCMINXM_28d86be311_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINEINGlobal_V10.2.4.0.PCMINXM_28d86be311_9.0.zip"
+  },
+  "filename": "fw_pine_miui_PINEINGlobal_V10.2.4.0.PCMINXM_28d86be311_9.0.zip"
  }
 ]
