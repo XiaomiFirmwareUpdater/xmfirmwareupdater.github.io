@@ -27,7 +27,7 @@
 		<section id="main" class="container">
 			<header>
 				<h2>{{page.title}}</h2>
-				<p>{{page.description}}.</p>
+				{% if page.description %}<p>{{page.description}}.</p>{% endif %}
 			</header>
 			<div class="box">
 				{{content}}
