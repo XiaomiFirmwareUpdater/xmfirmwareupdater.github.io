@@ -6,7 +6,7 @@ codename: davinciin
 permalink: /firmware/davinciin/
 ---
 
-### Latest Firmware
+<h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss"><span class="label">RSS</span></a></span></h3>
 ##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/davinciin/).
 
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
