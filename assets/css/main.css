@@ -2252,7 +2252,7 @@
 	.box {
 		background: #fff;
 		border-radius: 6px;
-		box-shadow: 0 2px 0 0 #e5e5e5;
+		/* box-shadow: 0 2px 0 0 #e5e5e5; */
 		margin: 0 0 2em 0;
 		padding: 3em;
 	}
@@ -2422,7 +2422,7 @@
 			}
 
 			.icon.major.accent2 {
-				background: #e89980;
+				background: #e64a19;
 				color: #ffffff;
 			}
 
@@ -3304,8 +3304,8 @@
 /* CTA */
 
 	#cta {
-		background: #e89980;
-		color: #f9e6df;
+		background: #e64a19;
+		color: #f7f7f7;
 		padding: 3.5em 0 4em 0;
 		text-align: center;
 	}
