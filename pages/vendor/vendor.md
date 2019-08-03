@@ -16,7 +16,7 @@ permalink: /vendor/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-
+{%include ads.html%}
 <div class="table-responsive-md" id="table-wrapper">
 <table id="vendor" class="display dt-responsive nowrap compact table table-striped table-hover table-sm" style="width:100%">
     <thead class="thead-dark">

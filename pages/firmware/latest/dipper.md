@@ -15,6 +15,7 @@ permalink: /firmware/dipper/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
+{%include ads.html%}
 <div class="table-responsive-md" id="table-wrapper">
 <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
     <thead class="thead-dark">

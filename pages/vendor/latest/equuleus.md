@@ -16,6 +16,7 @@ permalink: /vendor/equuleus/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
+{%include ads.html%}
 <div class="table-responsive-md" id="table-wrapper">
     <table id="vendor" class="display dt-responsive compact table table-striped table-hover table-sm">
         <thead class="thead-dark">

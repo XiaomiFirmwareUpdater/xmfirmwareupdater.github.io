@@ -14,7 +14,7 @@ Check the downloads on the following pages: [Latest Releases](/vendor/) - [ROMs 
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-
+{%include ads.html%}
 <div class="table-responsive-md" style="margin-top: 25px;">
 <table id="supported" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
