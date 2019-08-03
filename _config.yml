@@ -1,3 +1,4 @@
 # Site settings
 name: Xiaomi Firmware Updater
 title: Xiaomi Firmware Updater
+permalink: /:categories/:title/

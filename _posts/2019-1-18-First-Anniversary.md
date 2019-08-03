@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Xiaomi Firmware Updater First Anniversay!
+categories: Updates
 ---
 
 Wow, I still can't believe that my project is one year old now!

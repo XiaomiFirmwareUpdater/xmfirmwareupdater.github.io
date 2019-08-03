@@ -1,6 +1,7 @@
 ---
 layout: single
 title: First Xiaomi Mi CC9, CC9e, and CC9 Meitu Edition official MIUI ROMs are available for download!
+categories: ROMs
 ---
 
 A new devices lineup by Xiaomi is here. Mi CC9, CC9e, and CC9 Meitu Edition have been released earlier this week.

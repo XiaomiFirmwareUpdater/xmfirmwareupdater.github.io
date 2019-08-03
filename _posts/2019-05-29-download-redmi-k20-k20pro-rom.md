@@ -1,6 +1,7 @@
 ---
 layout: single
 title: First Xiaomi Redmi K20 and K20 Pro official MIUI ROMs are available for download!
+categories: ROMs
 ---
 
 The new “flagship killer” by Redmi, K20 Pro and its 'lite' version have been released earlier this week.

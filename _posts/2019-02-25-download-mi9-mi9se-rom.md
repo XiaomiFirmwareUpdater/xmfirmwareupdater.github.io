@@ -1,6 +1,7 @@
 ---
 layout: single
 title: First Xiaomi Mi 9 and Mi 9 SE official MIUI ROMs are available for download!
+categories: ROMs
 ---
 
 The new flagship by Xiaomi, Mi 9 and its 'lite' version have been released earlier this week, and we saw a good move from Xiaomi by released the kernel source immediately after the launch event, but stock ROM took some time.

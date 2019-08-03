@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Moving to a new domain and more!
+categories: Updates
 ---
 
 Here's the first step of our 2019 plan, we finally moved to a new .com domain. Welcome to [Xiaomifirmwareupdater.com](https://xiaomifirmwareupdater.com)!

@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Blog Archive
 ---
 
 <section class="archive-post-list">
@@ -12,7 +13,7 @@ layout: single
     <ul>
         {% assign myDate = currentDate %}
         {% endif %}
-        <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
+        <li><a href="{{ post.url }}"><span>{{ post.date | date: "%-d %B, %Y" }}</span> - {{ post.title }}</a></li>
         {% if forloop.last %}</ul>{% endif %}
     {% endfor %}
 
