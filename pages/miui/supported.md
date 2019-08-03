@@ -9,6 +9,8 @@ Check the downloads on the following pages: [Latest ROMs](/miui/) - [ROMs Archiv
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
     Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">MIUI Updates Tracker</a> on Telegram to get
     notified when a new ROM is out!
+    <span class="badge badge-light"><a href="/projects/miui-updates-tracker/#rss" class="icon solid fa-rss"><span
+            class="label">RSS</span></a></span>
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
