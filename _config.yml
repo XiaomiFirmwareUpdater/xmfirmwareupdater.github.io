@@ -2,8 +2,17 @@
 name: Xiaomi Firmware Updater
 title: Xiaomi Firmware Updater
 description: The ultimate script that provides firmware packages for Xiaomi devices
+keywords: xiaomi, xiaomi firmware, xiaomi firmware updater, firmware updater, firmware download, firmware, firmware downloader, firmware update, xiaomi firmware download, xiaomi firmware update, Xiaomi update, XDA, Xiaomi XDA, Firmware XDA, yshalsager, xfu, redmi, mi, pocophone, poco
+
 permalink: /:categories/:title/
+repository: XiaomiFirmwareUpdater/xiaomifirmwareupdater.github.io
+author: yshalsager
+email: xiaomifirmwareupdater@gmail.com
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+members:
+  - berkantkz
+  - yshalsager
