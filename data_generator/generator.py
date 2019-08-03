@@ -3,6 +3,8 @@
 
 from os import environ
 import json
+import re
+import xml.etree.ElementTree as eT
 from requests import get
 
 # Variables
@@ -402,6 +404,33 @@ permalink: $link
                 out.write(markdown)
 
 
+def generate_rss():
+    """
+    generate site rss based on osdn
+    """
+    xml = get('https://osdn.net/projects/xiaomifirmwareupdater/storage/!rss').content.decode()
+    xml = re.sub(r'https:.*!rss',
+                 r'https://xiaomifirmwareupdater.com/releases.xml', xml)
+    root = eT.fromstring(xml)
+    description = root.find('./channel/description')
+    description.text = 'Xiaomi Firmware Updater latest releases'
+    link = root.find('./channel/link')
+    link.text = 'https://xiaomifirmwareupdater.com'
+    title = root.find('./channel/title')
+    title.text = 'Xiaomi Firmware Updater Releases'
+    for child in root.findall('./channel/item/title'):
+        txt = child.text
+        codename = txt.split('/')[-1].split('_')[1]
+        name = NAMES[codename]
+        version = txt.split('/')[-1].split('_')[4]
+        child.text = f'{name} ({codename}) - {version}'
+    for child in root.findall('./channel/item/link'):
+        codename = child.text.split('/')[-1].split('_')[1]
+        child.text = f'https://xiaomifirmwareupdater.com/firmware/{codename}'
+    with open('../releases.xml', 'w') as out:
+        out.write(eT.tostring(root).decode())
+
+
 def main():
     """
     XFU data generate script
@@ -413,6 +442,7 @@ def main():
     load_miui_devices()
     generate_miui_md()
     load_vendor_devices()
+    generate_rss()
 
 
 if __name__ == '__main__':
