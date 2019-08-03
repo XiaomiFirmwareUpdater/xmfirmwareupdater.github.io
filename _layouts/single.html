@@ -10,11 +10,13 @@
 	<title>{{page.title}} | {{site.name}}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<!-- favicon -->
-	<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+	{%include meta.html%}
+
 	<link rel="stylesheet" href="/assets/css/main.css" />
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+	{%include scripts.html%}
+
 </head>
 
 <body class="is-preload">

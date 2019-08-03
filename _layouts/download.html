@@ -10,8 +10,8 @@
 	<title>{{page.title}} | {{site.name}}</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<!-- favicon -->
-	<link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+    {%include meta.html%}
+
 	<link rel="stylesheet" href="/assets/css/main.css" />
 	<script src="/assets/js/jquery.min.js"></script>
 	<script src="/assets/js/jquery.dropotron.min.js"></script>
@@ -33,6 +33,8 @@
 	<link rel="stylesheet" type="text/css" href="/assets/css/responsive.bootstrap4.min.css" />
 	<script type="text/javascript" src="/assets/js/dataTables.responsive.min.js"></script>
 	<script type="text/javascript" src="/assets/js/responsive.bootstrap4.min.js"></script>
+	{%include scripts.html%}
+
 </head>
 
 <body class="is-preload">

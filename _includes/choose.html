@@ -20,36 +20,67 @@
 		</div>
 	</div>
 	<div class="container">
-		<div class="row align-items-center">
-			<div class="col-md-auto">
-				<form id="DownloadForm" name="DownloadForm">
-					<div class="row gtr-uniform gtr-50" style="display: inline-block">
-						<div class="col-12">
-							<select name="device" id="device" class="device">
-								<option></option>
-							</select>
+		<div class="card-group">
+			<div class="card">
+				<div class="card-body">
+					<span class="icon solid major fa-download accent2"></span>
+					<h3>Download latest firmware</h3>
+					<p>Select the download type first, then select your device from the drop down menu.
+						You can search devices by name and codename.
+					</p>
+					<br />
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- xfu-download -->
+					<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3257146945160733"
+						data-ad-slot="2588194266" data-ad-format="auto" data-full-width-responsive="true"></ins>
+					<script>
+						(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+					<form id="DownloadForm" name="DownloadForm">
+						<div class="row gtr-uniform gtr-50" style="display: inline-block">
+							<div class="col-12">
+								<select name="device" id="device" class="device">
+									<option></option>
+								</select>
+							</div>
+							<div class="col-12">
+								<input type="radio" id="firmware" value="firmware" name="request" onclick="deviceMenu()"
+									checked>
+								<label for="firmware">Firmware</label>
+								<input type="radio" id="vendor" value="vendor" name="request" onclick="deviceMenu()">
+								<label for="vendor">Vendor</label>
+								<input type="radio" id="miui" value="miui" name="request" onclick="deviceMenu()">
+								<label for="miui">ROM</label>
+							</div>
+							<div class="col-12">
+								<ul class="actions" style="display: inline-block">
+									<li> <button type="submit" class="btn btn-primary"
+											onclick="return choicesParser()">Download</button>
+									</li>
+								</ul>
+							</div>
 						</div>
-						<div class="col-12">
-							<input type="radio" id="firmware" value="firmware" name="request" onclick="deviceMenu()"
-								checked>
-							<label for="firmware">Firmware</label>
-							<input type="radio" id="vendor" value="vendor" name="request" onclick="deviceMenu()">
-							<label for="vendor">Vendor</label>
-							<input type="radio" id="miui" value="miui" name="request" onclick="deviceMenu()">
-							<label for="miui">ROM</label>
-						</div>
-						<div class="col-12">
-							<ul class="actions" style="display: inline-block">
-								<li> <button type="submit" class="btn btn-primary"
-										onclick="return choicesParser()">Submit</button>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</form>
-			</div>
-			<div class="col-sm">
-				<img src="images/pic04.jpg" class="img-fluid" alt="" />
+					</form>
+				</div>
 			</div>
 		</div>
+	</div>
+	<div class="container">
+		<div class="card-group">
+			<div class="card">
+				<div class="card-body">
+					{% assign blog = site.posts.first %}
+					<h5 class="card-title text-left">Latest Blog Post</h5>
+					<p class="card-text"><a href={{ blog.url }}><span>{{ blog.title }}</span></a></p>
+					<a href="/blog/" class="btn btn-secondary">Visit Blog</a>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-body">
+					<h5 class="card-title text-left">Latest Uploads</h5>
+					<ul class="list-unstyled text-left" id="releases"></ul>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
