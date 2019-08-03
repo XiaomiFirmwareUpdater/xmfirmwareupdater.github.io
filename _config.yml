@@ -1,4 +1,9 @@
 # Site settings
 name: Xiaomi Firmware Updater
 title: Xiaomi Firmware Updater
+description: The ultimate script that provides firmware packages for Xiaomi devices
 permalink: /:categories/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
