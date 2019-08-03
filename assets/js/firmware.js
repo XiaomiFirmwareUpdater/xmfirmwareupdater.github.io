@@ -22,7 +22,12 @@ function loadSupportedDevices(type) {
             },
             columns: [
                 { data: 'name', className: "all" },
-                { data: 'codename', className: "all" }
+                {
+                    data: 'codename', className: "all",
+                    "render": function (data) {
+                        return '<a href="/' + type + '/' + data + '">' + data + '</a>';
+                    }
+                }
             ]
         });
     });
