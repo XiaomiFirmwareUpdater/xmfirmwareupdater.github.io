@@ -195,6 +195,9 @@ function loadMiuiDownloads(device) {
                 "pageLength": 25,
                 "pagingType": "full_numbers",
                 "order": [[4, "desc"]],
+                columnDefs: [
+                    { type: 'file-size', targets: 6 }
+                ],
                 columns: [
                     { data: 'device', className: "min-tablet-p" },
                     {
@@ -233,7 +236,21 @@ function loadMiuiDownloads(device) {
                             return '<a href="' + data + '" target="_blank">Download</a>';
                         }
                     },
-                    { data: 'size', className: "min-mobile-l" }
+                    {
+                        data: 'size',
+                        className: "min-mobile-l",
+                        "render": function (data) {
+                            if (data.endsWith('G')) {
+                                return data.replace('G', ' GB');
+                            }
+                            else if (data.endsWith('M')) {
+                                return data.replace('M', ' MB');
+                            }
+                            else {
+                                return data;
+                            }
+                        }
+                    }
                 ]
             });
         };
@@ -315,6 +332,9 @@ function loadLatestMiui() {
                 "pageLength": 100,
                 "pagingType": "full_numbers",
                 "order": [[4, "desc"]],
+                columnDefs: [
+                    { type: 'file-size', targets: 6 }
+                ],
                 columns: [
                     { data: 'device', className: "all" },
                     {
@@ -354,7 +374,21 @@ function loadLatestMiui() {
                             return '<a href="' + data + '" target="_blank">Download</a>';
                         }
                     },
-                    { data: 'size', className: "min-mobile-l" }
+                    {
+                        data: 'size',
+                        className: "min-mobile-l",
+                        "render": function (data) {
+                            if (data.endsWith('G')) {
+                                return data.replace('G', ' GB');
+                            }
+                            else if (data.endsWith('M')) {
+                                return data.replace('M', ' MB');
+                            }
+                            else {
+                                return data;
+                            }
+                        }
+                    }
                 ]
             });
         };
@@ -580,6 +614,9 @@ function loadVendorDownloads(device, type) {
                 "pagingType": "full_numbers",
                 "order": [[6, "desc"]],
                 data: data,
+                columnDefs: [
+                    { type: 'file-size', targets: 5 }
+                ],
                 columns: [
                     {
                         data: 'name',
