@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 06 Aug 2019 02:25:37 +0900</pubDate>
+  <pubDate>Tue, 06 Aug 2019 13:04:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Play (lotus) - 9.8.1</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
+    <pubDate>Tue, 06 Aug 2019 13:04:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 7A (pine) - V10.2.3.0.PCMEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
@@ -100,11 +105,6 @@
     <title>Mi 6X (wayne) - 9.8.1</title>
     <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
     <pubDate>Fri, 02 Aug 2019 13:53:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 9.8.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 02 Aug 2019 13:53:31 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -1262,16 +1262,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.7.25",
+   "miui": "9.8.1",
    "android": "8.1"
   },
-  "date": "2019-07-26",
+  "date": "2019-08-06",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/weekly-26.07.2019/fw_lotus_miui_MIPLAY_9.7.25_7ad03c60f9_8.1.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/lotus/fw_lotus_miui_MIPLAY_9.7.25_7ad03c60f9_8.1.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/weekly-06.08.2019/fw_lotus_miui_MIPLAY_9.8.1_55960bb071_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/lotus/fw_lotus_miui_MIPLAY_9.8.1_55960bb071_8.1.zip"
   },
-  "filename": "fw_lotus_miui_MIPLAY_9.7.25_7ad03c60f9_8.1.zip"
+  "filename": "fw_lotus_miui_MIPLAY_9.8.1_55960bb071_8.1.zip"
  },
  {
   "branch": "stable",
