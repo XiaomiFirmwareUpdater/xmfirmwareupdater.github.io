@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 08 Aug 2019 19:03:30 +0900</pubDate>
+  <pubDate>Fri, 09 Aug 2019 01:07:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 3 5G (andromeda) - V10.3.19.0.PEMMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Fri, 09 Aug 2019 01:07:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 5G (andromeda) - V10.3.17.0.PEMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Fri, 09 Aug 2019 01:04:25 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 7A (pine) - V10.2.4.0.PCMEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
@@ -95,16 +105,6 @@
     <title>Mi MIX 3 (perseus) - 9.8.1</title>
     <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
     <pubDate>Sat, 03 Aug 2019 01:10:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Pad 4 (Plus) (clover) - 9.8.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/clover</link>
-    <pubDate>Sat, 03 Aug 2019 01:07:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 (cereus) - 9.8.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
-    <pubDate>Sat, 03 Aug 2019 01:05:18 +0900</pubDate>
   </item>
     </channel>
 </rss>
