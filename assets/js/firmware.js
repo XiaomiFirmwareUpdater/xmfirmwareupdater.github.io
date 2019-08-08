@@ -55,10 +55,13 @@ function loadFirmwareDownloads(device, type) {
                 { data: 'versions.android', className: "min-mobile-p" },
                 { data: 'region', className: "min-mobile-l" },
                 {
-                    data: 'downloads.osdn',
+                    data: {},
                     className: "all",
                     "render": function (data) {
-                        return '<a href="' + data + '" target="_blank">Download</a>';
+                        return "<form class='form-control-plaintext' style='padding: 0;'>"
+                            + "<a href='#' style='-webkit-appearance: inherit;' type='submit' onclick='redirect(\""
+                            + data.filename
+                            + "\"); return false;'>Download</a></form>";
                     }
                 },
                 { data: 'date', className: "min-mobile-l" }
@@ -120,10 +123,13 @@ function loadLatestFirmware() {
                     { data: 'versions.android', className: "min-mobile-p" },
                     { data: 'region', className: "min-mobile-l" },
                     {
-                        data: 'downloads.osdn',
+                        data: {},
                         className: "all",
                         "render": function (data) {
-                            return '<a href="' + data + '" target="_blank">Download</a>';
+                            return "<form class='form-control-plaintext' style='padding: 0;'>"
+                                + "<a href='#' style='-webkit-appearance: inherit;' type='submit' onclick='redirect(\""
+                                + data.filename
+                                + "\"); return false;'>Download</a></form>";
                         }
                     },
                     { data: 'date', className: "min-mobile-l" }
@@ -424,7 +430,7 @@ function loadMiuiStable() {
                                         var filename = value.file;
                                         var download = value.download
                                         var android = filename.split('_').slice(-1).join().split('.zip')[0];
-                                        var region
+                                        var region;
                                         if (device.includes('eea_global')) {
                                             region = 'Europe';
                                         }
@@ -640,6 +646,10 @@ function loadVendorDownloads(device, type) {
         }
     });
 };
+
+function redirect(filename) {
+    window.location.href = "/download?file=" + filename;
+}
 
 // human file size converter
 // https://stackoverflow.com/a/14919494
