@@ -33,7 +33,7 @@ function startDownload(download, filename) {
         }, 5000);
 }
 
-window.onload = function () {
+$(document).ready(function () {
     vars = getUrlVars();
     if ($.isEmptyObject(vars)) {
         window.location.href = window.location.origin + '#download';
@@ -75,4 +75,4 @@ window.onload = function () {
     $('#miui').text(version);
     $('#android').text(android);
     startDownload(download, filename);
-}
+});
