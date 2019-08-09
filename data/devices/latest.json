@@ -2,16 +2,16 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.3.18.0.PEMMIXM",
+   "miui": "V10.3.19.0.PEMMIXM",
    "android": "9.0"
   },
-  "date": "2019-07-05",
+  "date": "2019-08-09",
   "region": "Global",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-05.07.2019/fw_andromeda_miui_ANDROMEDAGlobal_V10.3.18.0.PEMMIXM_716941ca82_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/andromeda/fw_andromeda_miui_ANDROMEDAGlobal_V10.3.18.0.PEMMIXM_716941ca82_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-09.08.2019/fw_andromeda_miui_ANDROMEDAGlobal_V10.3.19.0.PEMMIXM_be9a3f277a_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/andromeda/fw_andromeda_miui_ANDROMEDAGlobal_V10.3.19.0.PEMMIXM_be9a3f277a_9.0.zip"
   },
-  "filename": "fw_andromeda_miui_ANDROMEDAGlobal_V10.3.18.0.PEMMIXM_716941ca82_9.0.zip"
+  "filename": "fw_andromeda_miui_ANDROMEDAGlobal_V10.3.19.0.PEMMIXM_be9a3f277a_9.0.zip"
  },
  {
   "branch": "stable",
@@ -26,20 +26,6 @@
    "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/andromeda/fw_andromeda_miui_ANDROMEDA_V10.3.17.0.PEMCNXM_81ee83fc00_9.0.zip"
   },
   "filename": "fw_andromeda_miui_ANDROMEDA_V10.3.17.0.PEMCNXM_81ee83fc00_9.0.zip"
- },
- {
-  "branch": "weekly",
-  "versions": {
-   "miui": "V10.3.19.0.PEMMIXM",
-   "android": "9.0"
-  },
-  "date": "2019-08-09",
-  "region": "Global",
-  "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/weekly-09.08.2019/fw_andromeda_miui_ANDROMEDAGlobal_V10.3.19.0.PEMMIXM_be9a3f277a_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V10.3.19.0.PEMMIXM/andromeda/fw_andromeda_miui_ANDROMEDAGlobal_V10.3.19.0.PEMMIXM_be9a3f277a_9.0.zip"
-  },
-  "filename": "fw_andromeda_miui_ANDROMEDAGlobal_V10.3.19.0.PEMMIXM_be9a3f277a_9.0.zip"
  },
  {
   "branch": "stable",
@@ -142,16 +128,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "9.0"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-02.08.2019/fw_cactus_miui_HM6A_9.8.1_1c6e496c8f_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/cactus/fw_cactus_miui_HM6A_9.8.1_1c6e496c8f_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-09.08.2019/fw_cactus_miui_HM6A_9.8.8_ed47ebe5b4_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/cactus/fw_cactus_miui_HM6A_9.8.8_ed47ebe5b4_9.0.zip"
   },
-  "filename": "fw_cactus_miui_HM6A_9.8.1_1c6e496c8f_9.0.zip"
+  "filename": "fw_cactus_miui_HM6A_9.8.8_ed47ebe5b4_9.0.zip"
  },
  {
   "branch": "stable",
@@ -226,16 +212,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "8.0"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-02.08.2019/fw_capricorn_miui_MI5S_9.8.1_bef12d298a_8.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/capricorn/fw_capricorn_miui_MI5S_9.8.1_bef12d298a_8.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-09.08.2019/fw_capricorn_miui_MI5S_9.8.8_d267aa841f_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/capricorn/fw_capricorn_miui_MI5S_9.8.8_d267aa841f_8.0.zip"
   },
-  "filename": "fw_capricorn_miui_MI5S_9.8.1_bef12d298a_8.0.zip"
+  "filename": "fw_capricorn_miui_MI5S_9.8.8_d267aa841f_8.0.zip"
  },
  {
   "branch": "stable",
@@ -338,16 +324,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "9.0"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-02.08.2019/fw_cereus_miui_HM6_9.8.1_98252cf3de_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/cereus/fw_cereus_miui_HM6_9.8.1_98252cf3de_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-09.08.2019/fw_cereus_miui_HM6_9.8.8_23b4f12c75_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/cereus/fw_cereus_miui_HM6_9.8.8_23b4f12c75_9.0.zip"
   },
-  "filename": "fw_cereus_miui_HM6_9.8.1_98252cf3de_9.0.zip"
+  "filename": "fw_cereus_miui_HM6_9.8.8_23b4f12c75_9.0.zip"
  },
  {
   "branch": "stable",
@@ -688,16 +674,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "9.0"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-02.08.2019/fw_grus_miui_GRUS_9.8.1_a4f5bee229_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/grus/fw_grus_miui_GRUS_9.8.1_a4f5bee229_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-09.08.2019/fw_grus_miui_GRUS_9.8.8_a45534dac4_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/grus/fw_grus_miui_GRUS_9.8.8_a45534dac4_9.0.zip"
   },
-  "filename": "fw_grus_miui_GRUS_9.8.1_a4f5bee229_9.0.zip"
+  "filename": "fw_grus_miui_GRUS_9.8.8_a45534dac4_9.0.zip"
  },
  {
   "branch": "stable",
@@ -926,16 +912,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "9.0"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-02.08.2019/fw_jason_miui_MINote3_9.8.1_b710be0d5d_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/jason/fw_jason_miui_MINote3_9.8.1_b710be0d5d_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-09.08.2019/fw_jason_miui_MINote3_9.8.8_14fbc253d5_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/jason/fw_jason_miui_MINote3_9.8.8_14fbc253d5_9.0.zip"
   },
-  "filename": "fw_jason_miui_MINote3_9.8.1_b710be0d5d_9.0.zip"
+  "filename": "fw_jason_miui_MINote3_9.8.8_14fbc253d5_9.0.zip"
  },
  {
   "branch": "stable",
@@ -1430,16 +1416,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "8.0"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-02.08.2019/fw_natrium_miui_MI5SPlus_9.8.1_a5acd1d105_8.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/natrium/fw_natrium_miui_MI5SPlus_9.8.1_a5acd1d105_8.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-09.08.2019/fw_natrium_miui_MI5SPlus_9.8.8_05c6ef0537_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/natrium/fw_natrium_miui_MI5SPlus_9.8.8_05c6ef0537_8.0.zip"
   },
-  "filename": "fw_natrium_miui_MI5SPlus_9.8.1_a5acd1d105_8.0.zip"
+  "filename": "fw_natrium_miui_MI5SPlus_9.8.8_05c6ef0537_8.0.zip"
  },
  {
   "branch": "stable",
@@ -1486,16 +1472,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "9.0"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-02.08.2019/fw_nitrogen_miui_MIMAX3_9.8.1_cabdfe3223_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/nitrogen/fw_nitrogen_miui_MIMAX3_9.8.1_cabdfe3223_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-09.08.2019/fw_nitrogen_miui_MIMAX3_9.8.8_869fd682d6_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/nitrogen/fw_nitrogen_miui_MIMAX3_9.8.8_869fd682d6_9.0.zip"
   },
-  "filename": "fw_nitrogen_miui_MIMAX3_9.8.1_cabdfe3223_9.0.zip"
+  "filename": "fw_nitrogen_miui_MIMAX3_9.8.8_869fd682d6_9.0.zip"
  },
  {
   "branch": "stable",
@@ -1948,16 +1934,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "8.1"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-02.08.2019/fw_riva_miui_HM5A_9.8.1_194c2adffe_8.1.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/riva/fw_riva_miui_HM5A_9.8.1_194c2adffe_8.1.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-09.08.2019/fw_riva_miui_HM5A_9.8.8_9999a0487c_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/riva/fw_riva_miui_HM5A_9.8.8_9999a0487c_8.1.zip"
   },
-  "filename": "fw_riva_miui_HM5A_9.8.1_194c2adffe_8.1.zip"
+  "filename": "fw_riva_miui_HM5A_9.8.8_9999a0487c_8.1.zip"
  },
  {
   "branch": "stable",
@@ -2060,16 +2046,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "8.1"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/weekly-02.08.2019/fw_rosy_miui_HM5_9.8.1_6b1bc3debf_8.1.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/rosy/fw_rosy_miui_HM5_9.8.1_6b1bc3debf_8.1.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/weekly-09.08.2019/fw_rosy_miui_HM5_9.8.8_20c76e66f4_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/rosy/fw_rosy_miui_HM5_9.8.8_20c76e66f4_8.1.zip"
   },
-  "filename": "fw_rosy_miui_HM5_9.8.1_6b1bc3debf_8.1.zip"
+  "filename": "fw_rosy_miui_HM5_9.8.8_20c76e66f4_8.1.zip"
  },
  {
   "branch": "stable",
@@ -2508,16 +2494,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.7.25",
+   "miui": "9.8.8",
    "android": "9.0"
   },
-  "date": "2019-08-05",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-05.08.2019/fw_ursa_miui_MI8Explorer_9.7.25_152c166bfd_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/ursa/fw_ursa_miui_MI8Explorer_9.7.25_152c166bfd_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-09.08.2019/fw_ursa_miui_MI8Explorer_9.8.8_873d0c91a8_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/ursa/fw_ursa_miui_MI8Explorer_9.8.8_873d0c91a8_9.0.zip"
   },
-  "filename": "fw_ursa_miui_MI8Explorer_9.7.25_152c166bfd_9.0.zip"
+  "filename": "fw_ursa_miui_MI8Explorer_9.8.8_873d0c91a8_9.0.zip"
  },
  {
   "branch": "stable",
@@ -2704,16 +2690,16 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "9.0"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-02.08.2019/fw_whyred_miui_HMNote5_9.8.1_dbf6ff1bee_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/whyred/fw_whyred_miui_HMNote5_9.8.1_dbf6ff1bee_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-09.08.2019/fw_whyred_miui_HMNote5_9.8.8_afbe798165_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/whyred/fw_whyred_miui_HMNote5_9.8.8_afbe798165_9.0.zip"
   },
-  "filename": "fw_whyred_miui_HMNote5_9.8.1_dbf6ff1bee_9.0.zip"
+  "filename": "fw_whyred_miui_HMNote5_9.8.8_afbe798165_9.0.zip"
  },
  {
   "branch": "stable",

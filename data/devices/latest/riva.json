@@ -44,15 +44,15 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.1",
+   "miui": "9.8.8",
    "android": "8.1"
   },
-  "date": "2019-08-02",
+  "date": "2019-08-09",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-02.08.2019/fw_riva_miui_HM5A_9.8.1_194c2adffe_8.1.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/riva/fw_riva_miui_HM5A_9.8.1_194c2adffe_8.1.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-09.08.2019/fw_riva_miui_HM5A_9.8.8_9999a0487c_8.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/riva/fw_riva_miui_HM5A_9.8.8_9999a0487c_8.1.zip"
   },
-  "filename": "fw_riva_miui_HM5A_9.8.1_194c2adffe_8.1.zip"
+  "filename": "fw_riva_miui_HM5A_9.8.8_9999a0487c_8.1.zip"
  }
 ]
