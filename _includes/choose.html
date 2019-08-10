@@ -23,7 +23,7 @@
 		<div class="card-group">
 			<div class="card" id="download">
 				<div class="card-body">
-					<span class="icon solid major fa-download accent2"></span>
+					<span class="icon solid major fa-download accent2" id="dl-icon"></span>
 					<h3>Download latest firmware</h3>
 					<p>Select the download type first, then select your device from the drop down menu.
 						You can search devices by name and codename.
@@ -66,8 +66,11 @@
 				<div class="card-body">
 					{% assign blog = site.posts.first %}
 					<h5 class="card-title text-left">Latest Blog Post</h5>
-					<p class="card-text"><a href={{ blog.url }}><span>{{ blog.title }}</span></a></p>
-					<a href="/blog/" class="btn btn-secondary">Visit Blog</a>
+					<div style=" display: flex; flex-direction: column; align-items: center;
+					justify-content: center; height: 85%; width: 100%;">
+						<p class="card-text"><a href={{ blog.url }}><span>{{ blog.title }}</span></a></p>
+						<a href="/blog/" class="btn btn-secondary">Visit Blog</a>
+					</div>
 				</div>
 			</div>
 			<div class="card">
