@@ -170,12 +170,12 @@ permalink: $link
 <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
-            <th>Branch</th>
-            <th>MIUI</th>
-            <th>Android</th>
-            <th>Region</th>
-            <th>Link</th>
-            <th>Updated</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="region">Region</th>
+            <th data-ref="link">Link</th>
+            <th data-ref="updated">Updated</th>
         </tr>
     </thead>
     <script>loadFirmwareDownloads('$codename', '$request')</script>
@@ -273,19 +273,19 @@ permalink: $link
 </table>
 </div>
 '''
-    latest_rows = '''<th>Device</th>
-            <th>Branch</th>
-            <th>Type</th>
-            <th>MIUI</th>
-            <th>Android</th>
-            <th>Link</th>
-            <th>Size</th>'''
-    archive_rows = '''<th>Branch</th>
-            <th>MIUI</th>
-            <th>Android</th>
-            <th>Region</th>
-            <th>Link</th>
-            <th>Updated</th>'''
+    latest_rows = '''<th data-ref="device">Device</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="link">Link</th>
+            <th data-ref="size">Size</th>'''
+    archive_rows = '''<th data-ref="branch">Branch</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="region">Region</th>
+            <th data-ref="link">Link</th>
+            <th data-ref="updated">Updated</th>'''
     latest = '''### Latest MIUI Official ROMs
 ##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/$codename/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
@@ -357,13 +357,13 @@ permalink: $link
     <table id="vendor" class="display dt-responsive compact table table-striped table-hover table-sm">
         <thead class="thead-dark">
             <tr>
-                <th>Device</th>
-                <th>Branch</th>
-                <th>MIUI</th>
-                <th>Region</th>
-                <th>Link</th>
-                <th>Size</th>
-                <th>Updated</th>
+                <th data-ref="device">Device</th>
+                <th data-ref="branch">Branch</th>
+                <th data-ref="miui">MIUI</th>
+                <th data-ref="region">Region</th>
+                <th data-ref="link">Link</th>
+                <th data-ref="size">Size</th>
+                <th data-ref="updated">Updated</th>
             </tr>
         </thead>
         <script>loadVendorDownloads('$codename', '$request')</script>

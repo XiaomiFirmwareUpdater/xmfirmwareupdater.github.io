@@ -20,12 +20,12 @@ permalink: /firmware/markw/
 <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
-            <th>Branch</th>
-            <th>MIUI</th>
-            <th>Android</th>
-            <th>Region</th>
-            <th>Link</th>
-            <th>Updated</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="region">Region</th>
+            <th data-ref="link">Link</th>
+            <th data-ref="updated">Updated</th>
         </tr>
     </thead>
     <script>loadFirmwareDownloads('markw', 'latest')</script>

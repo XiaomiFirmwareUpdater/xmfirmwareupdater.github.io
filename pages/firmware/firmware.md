@@ -19,14 +19,14 @@ permalink: /firmware/
     <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
         <thead class="thead-dark">
             <tr>
-                <th>Device</th>
-                <th>Codename</th>
-                <th>Branch</th>
-                <th>MIUI</th>
-                <th>Android</th>
-                <th>Region</th>
-                <th>Link</th>
-                <th>Updated</th>
+                <th data-ref="device">Device</th>
+                <th data-ref="codename">Codename</th>
+                <th data-ref="branch">Branch</th>
+                <th data-ref="miui">MIUI</th>
+                <th data-ref="android">Android</th>
+                <th data-ref="region">Region</th>
+                <th data-ref="link">Link</th>
+                <th data-ref="updated">Updated</th>
             </tr>
         </thead>
         <script>loadLatestFirmware()</script>

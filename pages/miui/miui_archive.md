@@ -22,12 +22,12 @@ Updater.
     <table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
         <thead class="thead-dark">
             <tr>
-                <th>Device</th>
-                <th>Codename</th>
-                <th>MIUI</th>
-                <th>Region</th>
-                <th>Android</th>
-                <th>Link</th>
+                <th data-ref="device">Device</th>
+                <th data-ref="codename">Codename</th>
+                <th data-ref="miui">MIUI</th>
+                <th data-ref="region">Region</th>
+                <th data-ref="android">Android</th>
+                <th data-ref="link">Link</th>
             </tr>
         </thead>
         <script>loadMiuiStable()</script>

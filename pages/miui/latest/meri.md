@@ -20,13 +20,13 @@ permalink: /miui/meri/
 <table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
-            <th>Device</th>
-            <th>Branch</th>
-            <th>Type</th>
-            <th>MIUI</th>
-            <th>Android</th>
-            <th>Link</th>
-            <th>Size</th>
+            <th data-ref="device">Device</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="link">Link</th>
+            <th data-ref="size">Size</th>
         </tr>
     </thead>
     <script>loadMiuiDownloads('meri')</script>

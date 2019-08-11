@@ -5,16 +5,16 @@
 		<div class="modal-dialog" role="document" style="margin-top: 5%">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h5 class="modal-title" id="NoDeviceErrorModalLabel">No Device Selected</h5>
+					<h5 class="modal-title" id="NoDeviceErrorModalLabel" data-ref="NoDeviceError">No Device Selected</h5>
 					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 						<span aria-hidden="true">&times;</span>
 					</button>
 				</div>
-				<div class="modal-body">
+				<div class="modal-body" data-ref="NoDeviceErrorMessage">
 					Seems you didn't select a device, please do!
 				</div>
 				<div class="modal-footer">
-					<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-secondary" data-dismiss="modal" data-ref="close">Close</button>
 				</div>
 			</div>
 		</div>
@@ -24,8 +24,8 @@
 			<div class="card" id="download">
 				<div class="card-body">
 					<span class="icon solid major fa-download accent2" id="dl-icon"></span>
-					<h3>Download latest firmware</h3>
-					<p>Select the download type first, then select your device from the drop down menu.
+					<h3 data-ref="DownloadLatestFirmware">Download latest firmware</h3>
+					<p data-ref="DownloadInstruction">Select the download type first, then select your device from the drop down menu.
 						You can search devices by name and codename.
 					</p>
 					<br />
@@ -41,16 +41,16 @@
 							<div class="col-12">
 								<input type="radio" id="firmware" value="firmware" name="request" onclick="deviceMenu()"
 									checked>
-								<label for="firmware">Firmware</label>
+								<label for="firmware" data-ref="firmware">Firmware</label>
 								<input type="radio" id="vendor" value="vendor" name="request" onclick="deviceMenu()">
-								<label for="vendor">Vendor</label>
+								<label for="vendor" data-ref="vendor">Vendor</label>
 								<input type="radio" id="miui" value="miui" name="request" onclick="deviceMenu()">
-								<label for="miui">ROM</label>
+								<label for="miui" data-ref="rom">ROM</label>
 							</div>
 							<div class="col-12">
 								<ul class="actions" style="display: inline-block">
 									<li> <button type="submit" class="btn btn-primary"
-											onclick="return choicesParser()">Download</button>
+											onclick="return choicesParser()" data-ref="download">Download</button>
 									</li>
 								</ul>
 							</div>
@@ -65,17 +65,17 @@
 			<div class="card">
 				<div class="card-body">
 					{% assign blog = site.posts.first %}
-					<h5 class="card-title text-left">Latest Blog Post</h5>
+					<h5 class="card-title text-left" data-ref="LatestPost">Latest Blog Post</h5>
 					<div style=" display: flex; flex-direction: column; align-items: center;
 					justify-content: center; height: 85%; width: 100%;">
 						<p class="card-text"><a href={{ blog.url }}><span>{{ blog.title }}</span></a></p>
-						<a href="/blog/" class="btn btn-secondary">Visit Blog</a>
+						<a href="/blog/" class="btn btn-secondary" data-ref="VisitBlog">Visit Blog</a>
 					</div>
 				</div>
 			</div>
 			<div class="card">
 				<div class="card-body">
-					<h5 class="card-title text-left">Latest Uploads</h5>
+					<h5 class="card-title text-left" data-ref="LatestUploads">Latest Uploads</h5>
 					<ul class="list-unstyled text-left" id="releases"></ul>
 				</div>
 			</div>

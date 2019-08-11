@@ -20,8 +20,8 @@ Check the downloads on the following pages: [Latest ROMs](/miui/) - [ROMs Archiv
     <table id="supported" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
         <thead class="thead-dark">
             <tr>
-                <th>Device</th>
-                <th>Codename</th>
+                <th data-ref="device">Device</th>
+                <th data-ref="codename">Codename</th>
             </tr>
         </thead>
         <script>loadSupportedDevices('miui')</script>
