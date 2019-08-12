@@ -16,3 +16,6 @@ plugins:
 members:
   - berkantkz
   - yshalsager
+
+exclude:
+    - data_generator/
