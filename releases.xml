@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 09 Aug 2019 19:27:55 +0900</pubDate>
+  <pubDate>Mon, 12 Aug 2019 13:03:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Pad 4 (Plus) (clover) - 9.8.8</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/clover</link>
+    <pubDate>Mon, 12 Aug 2019 13:03:19 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 5 (whyred) - 9.8.8</title>
     <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
@@ -100,11 +105,6 @@
     <title>Redmi S2 (ysl) - V10.3.3.0.PEFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ysl</link>
     <pubDate>Wed, 07 Aug 2019 19:04:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5A (2GB) (ugglite) - V10.3.2.0.NDFCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ugglite</link>
-    <pubDate>Wed, 07 Aug 2019 19:03:19 +0900</pubDate>
   </item>
     </channel>
 </rss>
