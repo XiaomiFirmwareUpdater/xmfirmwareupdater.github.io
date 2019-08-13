@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 13 Aug 2019 19:11:40 +0900</pubDate>
+  <pubDate>Wed, 14 Aug 2019 01:07:35 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 9 SE (grus) - V10.3.3.0.PFBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Wed, 14 Aug 2019 01:07:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - V10.3.4.0.PFBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Wed, 14 Aug 2019 01:05:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Pro (equuleus) - V10.3.5.0.PECMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
+    <pubDate>Wed, 14 Aug 2019 01:03:28 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 6 (cereus) - 9.8.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
@@ -90,21 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 9.8.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Tue, 13 Aug 2019 01:22:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 9.8.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Tue, 13 Aug 2019 01:22:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 (lavender) - 9.8.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Tue, 13 Aug 2019 01:20:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 3 (jason) - 9.8.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
-    <pubDate>Tue, 13 Aug 2019 01:17:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
