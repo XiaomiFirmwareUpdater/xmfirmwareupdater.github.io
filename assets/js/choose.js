@@ -1,22 +1,40 @@
 // Load devices
 var firmwareDevicesList = [];
-$.getJSON("data/firmware_devices.json").done(function (response) {
-    Object.entries(response).forEach(
-        ([codename, name]) => firmwareDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
-    );
-});
 var vendorDevicesList = [];
-$.getJSON("data/vendor_devices.json").done(function (response) {
-    Object.entries(response).forEach(
-        ([codename, name]) => vendorDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
-    );
-});
 var miuiDevicesList = [];
-$.getJSON("data/miui_devices.json").done(function (response) {
-    Object.entries(response).forEach(
-        ([codename, name]) => miuiDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
-    );
-});
+$(document).ready(function () {
+    $.when(
+        $.ajax({
+            url: '/data/firmware_devices.json',
+            async: true,
+            dataType: 'JSON'
+        }),
+        $.ajax({
+            url: '/data/vendor_devices.json',
+            async: true,
+            dataType: 'JSON'
+        }),
+        $.ajax({
+            url: '/data/miui_devices.json',
+            async: true,
+            dataType: 'JSON'
+        })
+    ).done(function (firmware_devices, vendor_devices, miui_devices) {
+        Object.entries(firmware_devices[0]).forEach(
+            ([codename, name]) => firmwareDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
+        );
+        Object.entries(vendor_devices[0]).forEach(
+            ([codename, name]) => vendorDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
+        );
+        Object.entries(miui_devices[0]).forEach(
+            ([codename, name]) => miuiDevicesList.push({ text: name + ' (' + codename + ')', id: codename })
+        );
+        $(".device").select2({
+            placeholder: "- Device -",
+            data: firmwareDevicesList,
+        })
+    })
+})
 
 // Change device menu based on download type
 function deviceMenu() {
@@ -45,16 +63,6 @@ function deviceMenu() {
         })
     }
 };
-
-
-// Devices select2 box
-$(document).ready(function () {
-    $(".device").select2({
-        placeholder: "- Device -",
-        data: firmwareDevicesList,
-    })
-});
-
 
 // Process to download page
 function choicesParser() {
