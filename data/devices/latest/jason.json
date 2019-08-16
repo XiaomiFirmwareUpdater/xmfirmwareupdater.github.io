@@ -44,15 +44,15 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.9",
+   "miui": "9.8.15",
    "android": "9.0"
   },
-  "date": "2019-08-12",
+  "date": "2019-08-16",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-12.08.2019/fw_jason_miui_MINote3_9.8.9_cbf6f9f67a_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.9/jason/fw_jason_miui_MINote3_9.8.9_cbf6f9f67a_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-16.08.2019/fw_jason_miui_MINote3_9.8.15_aa5104fcc8_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.15/jason/fw_jason_miui_MINote3_9.8.15_aa5104fcc8_9.0.zip"
   },
-  "filename": "fw_jason_miui_MINote3_9.8.9_cbf6f9f67a_9.0.zip"
+  "filename": "fw_jason_miui_MINote3_9.8.15_aa5104fcc8_9.0.zip"
  }
 ]
