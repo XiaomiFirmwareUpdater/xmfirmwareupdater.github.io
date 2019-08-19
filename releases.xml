@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 16 Aug 2019 19:44:06 +0900</pubDate>
+  <pubDate>Tue, 20 Aug 2019 01:05:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 5 (whyred) - V10.3.2.0.PEIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
+    <pubDate>Tue, 20 Aug 2019 01:05:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7 (lavender) - V10.3.7.0.PFGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Tue, 20 Aug 2019 01:03:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 4A (rolex) - V10.2.3.0.NCCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rolex</link>
+    <pubDate>Tue, 20 Aug 2019 01:03:04 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 5 (whyred) - 9.8.15</title>
     <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
@@ -90,21 +105,6 @@
     <title>Mi 6X (wayne) - 9.8.15</title>
     <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
     <pubDate>Fri, 16 Aug 2019 13:59:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 9.8.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 16 Aug 2019 13:58:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 5 Plus (vince) - 9.8.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vince</link>
-    <pubDate>Fri, 16 Aug 2019 13:55:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 5X (tiffany) - 9.8.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tiffany</link>
-    <pubDate>Fri, 16 Aug 2019 13:52:25 +0900</pubDate>
   </item>
     </channel>
 </rss>
