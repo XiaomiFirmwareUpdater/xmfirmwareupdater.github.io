@@ -30,15 +30,15 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.3.12.0.PFHINXM",
+   "miui": "V10.3.13.0.PFHINXM",
    "android": "9.0"
   },
-  "date": "2019-07-23",
+  "date": "2019-08-20",
   "region": "India",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-23.07.2019/fw_violet_miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-20.08.2019/fw_violet_miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip"
   },
-  "filename": "fw_violet_miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip"
+  "filename": "fw_violet_miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip"
  }
 ]
