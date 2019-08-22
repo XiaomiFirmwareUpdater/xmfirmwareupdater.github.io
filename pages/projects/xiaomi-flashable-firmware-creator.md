@@ -7,11 +7,33 @@ permalink: /projects/xiaomi-flashable-firmware-creator/
 
 #### Do you want to create your own firmware files from MIUI ROMs without depending on Xiaomi Firmware Updater? Then you need the new script!
 
-[Xiaomi Flashable Firmware Creator](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/) is a python 3 script which generates flashable firmware-update packages, extracted from official (or non official) MIUI ROMS.
+Xiaomi Flashable Firmware Creator is a tool that generates flashable firmware-update packages from official (or non official) MIUI ROMS.
 
-It supports creating untouched firmware, non-arb firmware, firmware + vendor flashable zip and firmware-less ROMs.
+It supports creating untouched firmware, non-arb firmware, firmware + vendor flashable zip, and firmware-less ROMs.
 
-### Usage:
+[![screenshot](https://raw.githubusercontent.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/py/screenshots/1.png)](https://xiaomifirmwareupdater.com/projects/xiaomi-flashable-firmware-creator/)
+
+### Features:
+- CLI and GUI version
+- Easy-to-use interface
+- Multilanguage support (more than 25 languages!). Thanks to our community members!
+
+#### Screenshots:
+[Here](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/tree/py/screenshots)
+
+### GUI Usage:
+- Clone or download [this repo](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py).
+- Make sure that you have Python3 installed on your device.
+- Install the required packages.
+```
+pip3 install -r requirements.txt
+```
+- Run the tool.
+```
+python3 main.py
+```
+
+### CLI Usage:
 
 - Creating normal (untouched) firmware:
 ```
@@ -30,7 +52,7 @@ python3 create_flashable_firmware.py -L [MIUI ZIP]
 python3 create_flashable_firmware.py -V [MIUI ZIP]
 ```
 
-### Guide:
+### CLI Guide:
 1- Download .exe for windows, or the one without extension for linux from [releases](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/releases), and download Miui Based ROM you want to edit.
 
 2- Put them in the same folder tool & .zip file.
