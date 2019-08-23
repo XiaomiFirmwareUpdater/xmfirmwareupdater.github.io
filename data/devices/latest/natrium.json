@@ -44,15 +44,15 @@
  {
   "branch": "weekly",
   "versions": {
-   "miui": "9.8.15",
+   "miui": "9.8.22",
    "android": "8.0"
   },
-  "date": "2019-08-16",
+  "date": "2019-08-23",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-16.08.2019/fw_natrium_miui_MI5SPlus_9.8.15_e206072de6_8.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.15/natrium/fw_natrium_miui_MI5SPlus_9.8.15_e206072de6_8.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-23.08.2019/fw_natrium_miui_MI5SPlus_9.8.22_f7ced6b654_8.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.22/natrium/fw_natrium_miui_MI5SPlus_9.8.22_f7ced6b654_8.0.zip"
   },
-  "filename": "fw_natrium_miui_MI5SPlus_9.8.15_e206072de6_8.0.zip"
+  "filename": "fw_natrium_miui_MI5SPlus_9.8.22_f7ced6b654_8.0.zip"
  }
 ]
