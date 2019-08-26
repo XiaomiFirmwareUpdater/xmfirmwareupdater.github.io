@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 24 Aug 2019 01:04:07 +0900</pubDate>
+  <pubDate>Mon, 26 Aug 2019 19:03:05 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 5 (whyred) - V10.3.5.0.PEICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
+    <pubDate>Mon, 26 Aug 2019 19:03:05 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 6A (cactus) - 9.8.22</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
@@ -100,11 +105,6 @@
     <title>Mi Max 2 (oxygen) - 9.8.22</title>
     <link>https://xiaomifirmwareupdater.com/firmware/oxygen</link>
     <pubDate>Fri, 23 Aug 2019 18:06:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 5s Plus (natrium) - 9.8.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/natrium</link>
-    <pubDate>Fri, 23 Aug 2019 18:04:33 +0900</pubDate>
   </item>
     </channel>
 </rss>
