@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 28 Aug 2019 19:08:17 +0900</pubDate>
+  <pubDate>Thu, 29 Aug 2019 19:06:53 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 6 (cereus) - V10.4.2.0.PCGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Thu, 29 Aug 2019 19:06:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - V10.2.33.0.PFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Thu, 29 Aug 2019 19:05:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6A (cactus) - V10.4.3.0.PCBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
+    <pubDate>Thu, 29 Aug 2019 19:03:01 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Play (lotus) - V10.3.3.0.OFIMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
@@ -90,21 +105,6 @@
     <title>Mi MIX 2S (polaris) - 9.8.22</title>
     <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
     <pubDate>Fri, 23 Aug 2019 19:11:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - 9.8.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Fri, 23 Aug 2019 19:09:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 9.8.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 23 Aug 2019 19:06:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 9.8.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 23 Aug 2019 19:06:12 +0900</pubDate>
   </item>
     </channel>
 </rss>

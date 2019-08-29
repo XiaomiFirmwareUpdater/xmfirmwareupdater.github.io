@@ -16,16 +16,16 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.3.4.0.OCGCNXM",
-   "android": "8.1"
+   "miui": "V10.4.2.0.PCGCNXM",
+   "android": "9.0"
   },
-  "date": "2019-07-05",
+  "date": "2019-08-29",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-05.07.2019/fw_cereus_miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cereus/fw_cereus_miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-29.08.2019/fw_cereus_miui_HM6_V10.4.2.0.PCGCNXM_2748275372_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cereus/fw_cereus_miui_HM6_V10.4.2.0.PCGCNXM_2748275372_9.0.zip"
   },
-  "filename": "fw_cereus_miui_HM6_V10.3.4.0.OCGCNXM_8fa6a1b713_8.1.zip"
+  "filename": "fw_cereus_miui_HM6_V10.4.2.0.PCGCNXM_2748275372_9.0.zip"
  },
  {
   "branch": "weekly",
