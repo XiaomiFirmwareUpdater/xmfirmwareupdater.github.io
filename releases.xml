@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 30 Aug 2019 01:05:36 +0900</pubDate>
+  <pubDate>Fri, 30 Aug 2019 05:29:10 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V10.4.4.0.PGGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Fri, 30 Aug 2019 05:29:10 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 Pro (raphaelin) - V10.3.5.0.PFKINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
@@ -100,11 +105,6 @@
     <title>Mi 6X (wayne) - 9.8.22</title>
     <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
     <pubDate>Fri, 23 Aug 2019 19:15:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 Pro (sakura) - 9.8.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
-    <pubDate>Fri, 23 Aug 2019 19:13:47 +0900</pubDate>
   </item>
     </channel>
 </rss>
