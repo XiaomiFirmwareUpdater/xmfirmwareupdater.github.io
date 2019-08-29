@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 29 Aug 2019 19:06:53 +0900</pubDate>
+  <pubDate>Fri, 30 Aug 2019 01:05:36 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20 Pro (raphaelin) - V10.3.5.0.PFKINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
+    <pubDate>Fri, 30 Aug 2019 01:05:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V10.3.4.0.PFLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 30 Aug 2019 01:03:21 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 6 (cereus) - V10.4.2.0.PCGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
@@ -95,16 +105,6 @@
     <title>Redmi 6 Pro (sakura) - 9.8.22</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
     <pubDate>Fri, 23 Aug 2019 19:13:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 Pro (sakura) - 9.8.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
-    <pubDate>Fri, 23 Aug 2019 19:13:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - 9.8.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Fri, 23 Aug 2019 19:11:16 +0900</pubDate>
   </item>
     </channel>
 </rss>
