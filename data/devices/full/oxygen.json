@@ -2,6 +2,20 @@
  {
   "branch": "weekly",
   "versions": {
+   "miui": "9.8.29",
+   "android": "7.1"
+  },
+  "date": "2019-09-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-02.09.2019/fw_oxygen_miui_MIMAX2_9.8.29_a0ca14d327_7.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.29/oxygen/fw_oxygen_miui_MIMAX2_9.8.29_a0ca14d327_7.1.zip"
+  },
+  "filename": "fw_oxygen_miui_MIMAX2_9.8.29_a0ca14d327_7.1.zip"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
    "miui": "9.8.22",
    "android": "7.1"
   },

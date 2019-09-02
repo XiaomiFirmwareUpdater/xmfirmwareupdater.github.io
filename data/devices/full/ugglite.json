@@ -1,5 +1,19 @@
 [
  {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.8.29",
+   "android": "7.1"
+  },
+  "date": "2019-09-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-02.09.2019/fw_ugglite_miui_HMNote5ALITE_9.8.29_aa358ff714_7.1.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.29/ugglite/fw_ugglite_miui_HMNote5ALITE_9.8.29_aa358ff714_7.1.zip"
+  },
+  "filename": "fw_ugglite_miui_HMNote5ALITE_9.8.29_aa358ff714_7.1.zip"
+ },
+ {
   "branch": "stable",
   "versions": {
    "miui": "V10.3.2.0.NDFCNXM",
