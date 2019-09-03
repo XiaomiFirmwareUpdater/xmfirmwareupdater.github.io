@@ -230,7 +230,7 @@ def load_miui_devices():
             else:
                 codename = check
         M_CODENAMES.append(codename)
-    for codename in ['tissot', 'jasmine', 'daisy']:
+    for codename in ['tissot', 'jasmine', 'daisy', 'tiare']:
         M_CODENAMES.append(codename)
     with open('../data/miui_codenames.json', 'w') as out:
         json.dump(M_CODENAMES, out, indent=1)
@@ -280,12 +280,13 @@ permalink: $link
             <th data-ref="android">Android</th>
             <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>'''
-    archive_rows = '''<th data-ref="branch">Branch</th>
-            <th data-ref="miui">MIUI</th>
-            <th data-ref="android">Android</th>
-            <th data-ref="region">Region</th>
-            <th data-ref="link">Link</th>
-            <th data-ref="updated">Updated</th>'''
+    archive_rows = '''<th data-ref="device">Device</th>
+                <th data-ref="branch">Branch</th>
+                <th data-ref="type">Type</th>
+                <th data-ref="region">Region</th>
+                <th data-ref="miui">MIUI</th>
+                <th data-ref="android">Android</th>
+                <th data-ref="link">Link</th>'''
     latest = '''### Latest MIUI Official ROMs
 ##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/$codename/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
