@@ -494,36 +494,150 @@ function loadMiuiStable() {
     });
 };
 
-// Load miui archive for a device
+// Load miui archive downloads for a device
 function loadMiuiArchive(device) {
     $(document).ready(function () {
-        $('#miui').DataTable({
-            responsive: {
-                details: false
-            },
-            "pageLength": 50,
-            "order": [[4, "desc"]],
-            "ajax": {
-                "type": "GET",
-                "url": '/data/devices/full/' + device + '.json',
-                "dataSrc": ""
-            },
-            columns: [
-                { data: 'branch', className: "min-tablet-p" },
-                { data: 'versions.miui', className: "all" },
-                { data: 'versions.android', className: "min-mobile-p" },
-                { data: 'region', className: "min-mobile-l" },
-                {
-                    data: 'filename', className: "all",
-                    "render": function (data) {
-                        var link = 'http://bigota.d.miui.com/' + data.split('_')[4] + '/' + data.match(/miui.*/)
-                        return '<a href="' + link + '">Download</a>';
+        var downloads = new Array();
+        var devices = new Array();
+        fetchData();
+        function updateDownloads(data) {
+            Object.entries(data).forEach(function (item) {
+                Object.entries(item[1]).forEach(function ([key, value]) {
+                    var full_codename = key;
+                    var codename = key.split('_')[0];
+                    var name = devices[codename];
+                    if (full_codename.startsWith(device)) {
+                        Object.entries(value).forEach(function ([rom, link]) {
+                            var version = rom;
+                            var download = link;
+                            var filename = download.split('/').slice(-1).join();
+                            if (filename.endsWith('.zip')) {
+                                var android = filename.split('_').slice(-1).join().split('.zip')[0];
+                            }
+                            else {
+                                var android = filename.match(/_[0-9].[0-9]_/)[0].split('_')[1];
+                            }
+                            var region;
+                            if (full_codename.includes('eea_global')) {
+                                region = 'Europe';
+                            }
+                            else if (full_codename.includes('in_global')) {
+                                region = 'India';
+                            }
+                            else if (full_codename.includes('ru_global')) {
+                                region = 'Russsia';
+                            }
+                            else if (full_codename.includes('global')) {
+                                region = 'Global';
+                            }
+                            else {
+                                region = 'China';
+                            }
+                            downloads.push({
+                                'name': name, 'codename': codename, 'filename': filename,
+                                'region': region, 'version': version, 'android': android,
+                                'download': download
+                            })
+                        })
                     }
+
+                })
+            });
+        }
+        function fetchData() {
+            var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/archive/';
+            $.when(
+                $.ajax({
+                    url: '/data/miui_devices.json',
+                    async: true,
+                    dataType: 'JSON'
+                }),
+                $.ajax({
+                    url: url + 'stable_recovery/stable_recovery.json',
+                    async: true,
+                    dataType: 'JSON'
+                }),
+                $.ajax({
+                    url: url + 'stable_fastboot/stable_fastboot.json',
+                    async: true,
+                    dataType: 'JSON'
+                }),
+                $.ajax({
+                    url: url + 'weekly_recovery/weekly_recovery.json',
+                    async: true,
+                    dataType: 'JSON'
+                }),
+                $.ajax({
+                    url: url + 'weekly_fastboot/weekly_fastboot.json',
+                    async: true,
+                    dataType: 'JSON'
+                })).done(function (names, stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot) {
+                    devices = names[0];
+                    updateDownloads(stable_recovery[0]);
+                    updateDownloads(stable_fastboot[0]);
+                    updateDownloads(weekly_recovery[0]);
+                    updateDownloads(weekly_fastboot[0]);
+                    DrawTable(downloads);
+                })
+        }
+
+        function DrawTable(downloads) {
+            $('#miui').DataTable({
+                data: downloads,
+                responsive: {
+                    details: false
                 },
-                { data: 'date', className: "min-mobile-l" }
-            ]
-        });
-    });
+                "pageLength": 100,
+                "pagingType": "full_numbers",
+                "order": [[5, "desc"]],
+                columns: [
+                    {
+                        data: 'name',
+                        defaultContent: 'Device',
+                        className: "all"
+                    },
+                    {
+                        data: 'version',
+                        className: "min-tablet-p",
+                        "render": function (data) {
+                            var type = ''
+                            if (data.startsWith('V')) {
+                                type = 'Stable'
+                            }
+                            else {
+                                type = 'Weekly'
+                            }
+                            return type;
+                        }
+                    },
+                    {
+                        data: 'filename',
+                        className: "min-mobile-l",
+                        "render": function (data) {
+                            var type = ''
+                            if (data.endsWith('.zip')) {
+                                type = 'Recovery'
+                            }
+                            else {
+                                type = 'Fastboot'
+                            }
+                            return type;
+                        }
+                    },
+                    { data: 'region', className: "min-mobile-l" },
+                    { data: 'version', className: "all" },
+                    { data: 'android', className: "min-mobile-p" },
+                    {
+                        data: 'download',
+                        className: "all",
+                        "render": function (data) {
+                            return '<a href="' + data + '" target="_blank">Download</a>';
+                        }
+                    }
+                ]
+            });
+        };
+    })
 };
 
 // Mi-Vendor-updater
