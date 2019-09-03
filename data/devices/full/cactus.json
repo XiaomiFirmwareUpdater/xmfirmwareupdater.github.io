@@ -2,6 +2,20 @@
  {
   "branch": "stable",
   "versions": {
+   "miui": "V10.4.4.0.PCBCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/stable-03.09.2019/fw_cactus_miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cactus/fw_cactus_miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip"
+  },
+  "filename": "fw_cactus_miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip"
+ },
+ {
+  "branch": "stable",
+  "versions": {
    "miui": "V10.4.3.0.PCBCNXM",
    "android": "9.0"
   },

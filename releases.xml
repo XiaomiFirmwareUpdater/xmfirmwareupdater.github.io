@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 03 Sep 2019 01:19:22 +0900</pubDate>
+  <pubDate>Tue, 03 Sep 2019 19:11:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 (pyxis) - V10.3.12.0.PFCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Tue, 03 Sep 2019 19:11:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2S (polaris) - V10.3.5.0.PDGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Tue, 03 Sep 2019 19:09:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - V10.3.6.0.PEACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Tue, 03 Sep 2019 19:07:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6A (cactus) - V10.4.4.0.PCBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
+    <pubDate>Tue, 03 Sep 2019 19:03:14 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 5A (2GB) (ugglite) - 9.8.29</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ugglite</link>
@@ -85,26 +105,6 @@
     <title>Mi 5X (tiffany) - 9.8.29</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tiffany</link>
     <pubDate>Fri, 30 Aug 2019 13:15:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 2 (scorpio) - 9.8.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/scorpio</link>
-    <pubDate>Fri, 30 Aug 2019 13:11:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 5 (rosy) - 9.8.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rosy</link>
-    <pubDate>Fri, 30 Aug 2019 13:09:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 5A (riva) - 9.8.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
-    <pubDate>Fri, 30 Aug 2019 13:08:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 5s Plus (natrium) - 9.8.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/natrium</link>
-    <pubDate>Fri, 30 Aug 2019 13:07:02 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -1,5 +1,19 @@
 [
  {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.6.0.PEACNXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-03.09.2019/fw_dipper_miui_MI8_V10.3.6.0.PEACNXM_e038f4ac7a_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8_V10.3.6.0.PEACNXM_e038f4ac7a_9.0.zip"
+  },
+  "filename": "fw_dipper_miui_MI8_V10.3.6.0.PEACNXM_e038f4ac7a_9.0.zip"
+ },
+ {
   "branch": "weekly",
   "versions": {
    "miui": "9.8.22",
