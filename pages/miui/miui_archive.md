@@ -23,13 +23,14 @@ Updater.
         <thead class="thead-dark">
             <tr>
                 <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="miui">MIUI</th>
+                <th data-ref="branch">Branch</th>
+                <th data-ref="type">Type</th>
                 <th data-ref="region">Region</th>
+                <th data-ref="miui">MIUI</th>
                 <th data-ref="android">Android</th>
                 <th data-ref="link">Link</th>
             </tr>
         </thead>
-        <script>loadMiuiStable()</script>
+        <script>loadMiuiArchive('')</script>
     </table>
 </div>

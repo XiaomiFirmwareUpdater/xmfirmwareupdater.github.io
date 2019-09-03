@@ -1,12 +1,12 @@
 ---
-title: Redmi K20 Pro (raphael) MIUI Downloads
+title: Redmi Go (tiare) MIUI Downloads
 layout: download
-name: Redmi K20 Pro
-codename: raphael
-permalink: /archive/miui/raphael/
+name: Redmi Go
+codename: tiare
+permalink: /miui/tiare/
 ---
-### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for the latest releases check [Here](/miui/raphael/).
+### Latest MIUI Official ROMs
+##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/tiare/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,15 +21,15 @@ permalink: /archive/miui/raphael/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="link">Link</th>
+            <th data-ref="size">Size</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('raphael')</script>
+    <script>loadMiuiDownloads('tiare')</script>
 </table>
 </div>
 
