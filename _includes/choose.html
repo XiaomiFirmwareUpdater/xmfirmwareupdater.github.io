@@ -24,7 +24,7 @@
 			<div class="card" id="download">
 				<div class="card-body">
 					<span class="icon solid major fa-download accent2" id="dl-icon"></span>
-					<h3 data-ref="DownloadLatestFirmware">Download latest firmware</h3>
+					<h3 data-ref="DownloadLatestFirmware">Download latest Firmware, ROM, or Vendor</h3>
 					<p data-ref="DownloadInstruction">Select the download type first, then select your device from the drop down menu.
 						You can search devices by name and codename.
 					</p>
@@ -33,7 +33,7 @@
 					<br />
 					<form id="DownloadForm" name="DownloadForm">
 						<div class="row gtr-uniform gtr-50" style="display: inline-block">
-							<div class="col-12">
+							<div class="col-12" style="margin-bottom: 5px">
 								<select name="device" id="device" class="device">
 									<option></option>
 								</select>
@@ -46,6 +46,12 @@
 								<label for="vendor" data-ref="vendor">Vendor</label>
 								<input type="radio" id="miui" value="miui" name="request" onclick="deviceMenu()">
 								<label for="miui" data-ref="rom">ROM</label>
+							</div>
+							<div class="col-12">
+								<input type="radio" id="latest" value="latest" name="type" checked>
+								<label for="latest" data-ref="latest">Latest</label>
+								<input type="radio" id="archive" value="archive" name="type" onclick="deviceMenu()">
+								<label for="archive" data-ref="archive">Archive</label>
 							</div>
 							<div class="col-12">
 								<ul class="actions" style="display: inline-block">

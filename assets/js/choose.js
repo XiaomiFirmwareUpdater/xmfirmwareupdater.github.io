@@ -68,9 +68,15 @@ function deviceMenu() {
 function choicesParser() {
     var form = document.getElementById("DownloadForm").elements;
     var request = form.request.value;
+    var type = form.type.value;
     var device = form.device.value;
     if (device != '') {
-        window.location.href = window.location.origin + "/" + request + "/" + device;
+        if (type == 'archive') {
+            window.location.href = window.location.origin + "/archive/" + request + "/" + device;
+        }
+        else {
+            window.location.href = window.location.origin + "/" + request + "/" + device;
+        }
     }
     else {
         $('#NoDeviceError').modal('toggle');
