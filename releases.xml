@@ -1,11 +1,66 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 04 Sep 2019 13:03:39 +0900</pubDate>
+  <pubDate>Thu, 05 Sep 2019 01:15:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 5 Plus (vince) - 9.9.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vince</link>
+    <pubDate>Thu, 05 Sep 2019 01:15:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 5 (rosy) - 9.9.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosy</link>
+    <pubDate>Thu, 05 Sep 2019 01:14:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Play (lotus) - 9.9.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
+    <pubDate>Thu, 05 Sep 2019 01:13:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 SE (sirius) - V10.3.2.0.PEBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
+    <pubDate>Thu, 05 Sep 2019 01:11:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Lite (platina) - V10.3.5.0.PDTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Thu, 05 Sep 2019 01:10:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Lite (platina) - V10.3.7.0.PDTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Thu, 05 Sep 2019 01:08:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V10.3.5.0.PEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Thu, 05 Sep 2019 01:07:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V10.3.5.0.PEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Thu, 05 Sep 2019 01:07:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V10.3.4.0.PEDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Thu, 05 Sep 2019 01:05:56 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V10.3.4.0.PEDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Thu, 05 Sep 2019 01:05:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - V10.3.6.0.PFBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Thu, 05 Sep 2019 01:04:09 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 (davinci) - V10.3.15.0.PFJCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
@@ -50,61 +105,6 @@
     <title>Redmi Note 5A Prime (ugg) - 9.8.29</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ugg</link>
     <pubDate>Tue, 03 Sep 2019 01:16:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 4X (santoni) - 9.8.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/santoni</link>
-    <pubDate>Tue, 03 Sep 2019 01:14:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 2 (oxygen) - 9.8.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/oxygen</link>
-    <pubDate>Tue, 03 Sep 2019 01:13:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 4 (mido) - 9.8.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mido</link>
-    <pubDate>Tue, 03 Sep 2019 01:11:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Pad 4 (Plus) (clover) - 9.8.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/clover</link>
-    <pubDate>Tue, 03 Sep 2019 01:09:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Pad 3 (cappu) - 9.8.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cappu</link>
-    <pubDate>Tue, 03 Sep 2019 01:08:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - V10.3.3.0.PEEMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Tue, 03 Sep 2019 01:06:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V10.4.6.0.PGGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Tue, 03 Sep 2019 01:03:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro (raphael) - V10.3.1.0.PFKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Mon, 02 Sep 2019 18:02:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro (raphael) - V10.3.1.0.PFKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Mon, 02 Sep 2019 18:00:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 (lavender) - V10.3.6.0.PFGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Sat, 31 Aug 2019 01:03:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - V10.3.3.0.PEECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Fri, 30 Aug 2019 19:07:03 +0900</pubDate>
   </item>
     </channel>
 </rss>
