@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 04 Sep 2019 02:26:13 +0900</pubDate>
+  <pubDate>Wed, 04 Sep 2019 13:03:39 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20 (davinci) - V10.3.15.0.PFJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Wed, 04 Sep 2019 13:03:39 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 6 Pro (tulip) - V10.3.6.0.PEKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tulip</link>
@@ -100,11 +105,6 @@
     <title>Mi MIX 3 (perseus) - V10.3.3.0.PEECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
     <pubDate>Fri, 30 Aug 2019 19:07:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - V10.3.5.0.PECCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Fri, 30 Aug 2019 19:05:04 +0900</pubDate>
   </item>
     </channel>
 </rss>
