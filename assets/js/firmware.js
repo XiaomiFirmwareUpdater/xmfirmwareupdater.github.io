@@ -438,7 +438,7 @@ function loadMiuiStable() {
                                             region = 'India';
                                         }
                                         else if (device.includes('ru_global')) {
-                                            region = 'Russsia';
+                                            region = 'Russia';
                                         }
                                         else if (device.includes('global')) {
                                             region = 'Global';
@@ -525,7 +525,7 @@ function loadMiuiArchive(device) {
                                 region = 'India';
                             }
                             else if (full_codename.includes('ru_global')) {
-                                region = 'Russsia';
+                                region = 'Russia';
                             }
                             else if (full_codename.includes('global')) {
                                 region = 'Global';
@@ -705,7 +705,7 @@ function loadVendorDownloads(device, type) {
                                 region = 'India';
                             }
                             else if (codename.includes('ru_global')) {
-                                region = 'Russsia';
+                                region = 'Russia';
                             }
                             else if (codename.includes('global')) {
                                 region = 'Global';
