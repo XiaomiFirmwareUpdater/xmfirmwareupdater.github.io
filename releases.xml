@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 07 Sep 2019 01:44:54 +0900</pubDate>
+  <pubDate>Mon, 09 Sep 2019 19:03:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 6 (cereus) - V10.4.3.0.PCGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Mon, 09 Sep 2019 19:03:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 5 (whyred) - 9.9.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
@@ -100,11 +105,6 @@
     <title>Mi 8 (dipper) - 9.9.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
     <pubDate>Sat, 07 Sep 2019 01:09:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2 (chiron) - 9.9.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
-    <pubDate>Sat, 07 Sep 2019 01:08:07 +0900</pubDate>
   </item>
     </channel>
 </rss>
