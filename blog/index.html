@@ -9,10 +9,13 @@ description: Project news, updates, and other stuff
   {% for post in site.posts %}
   <article class="post">
 
-    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    <h2>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <p style="font-size: 16px; margin-top: 0.2em;"><em style="color: #b3b3b3">Published on {{ post.date | date: '%B %d, %Y' }}</em></p>
+    </h2>
 
     <div class="entry">
-      {{ post.excerpt }}
+      <p>{{ post.excerpt }}</p>
     </div>
 
     <a href="{{ site.baseurl }}{{ post.url }}" class="read-more btn btn-outline-primary" data-ref="read-more">Read More</a>
