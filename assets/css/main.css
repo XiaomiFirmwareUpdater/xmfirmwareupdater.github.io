@@ -3897,3 +3897,16 @@
 			}
 
 	}
+
+	/* XFU */
+
+	/* Blog page */
+
+	.posts > article.post {
+		padding-top: 1.5em;
+	}
+
+	.posts > article.post:not(:last-child) {
+    border-bottom: 1px dashed #b3b3b3;
+    padding-bottom: 1.5em;
+	}
