@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 09 Sep 2019 19:03:03 +0900</pubDate>
+  <pubDate>Fri, 13 Sep 2019 19:03:41 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 9 (cepheus) - V10.2.35.0.PFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Fri, 13 Sep 2019 19:03:41 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 6 (cereus) - V10.4.3.0.PCGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
@@ -100,11 +105,6 @@
     <title>Mi 8 Pro (equuleus) - 9.9.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
     <pubDate>Sat, 07 Sep 2019 01:11:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 (dipper) - 9.9.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
-    <pubDate>Sat, 07 Sep 2019 01:09:59 +0900</pubDate>
   </item>
     </channel>
 </rss>

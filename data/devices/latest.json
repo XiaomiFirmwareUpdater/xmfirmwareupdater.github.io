@@ -254,16 +254,16 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.2.33.0.PFACNXM",
+   "miui": "V10.2.35.0.PFACNXM",
    "android": "9.0"
   },
-  "date": "2019-08-29",
+  "date": "2019-09-13",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-29.08.2019/fw_cepheus_miui_CEPHEUS_V10.2.33.0.PFACNXM_1177490638_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.33.0.PFACNXM_1177490638_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-13.09.2019/fw_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip"
   },
-  "filename": "fw_cepheus_miui_CEPHEUS_V10.2.33.0.PFACNXM_1177490638_9.0.zip"
+  "filename": "fw_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip"
  },
  {
   "branch": "weekly",
