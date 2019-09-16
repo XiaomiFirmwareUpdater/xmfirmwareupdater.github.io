@@ -296,16 +296,16 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.2.28.0.PFAEUXM",
+   "miui": "V10.2.30.0.PFAEUXM",
    "android": "9.0"
   },
-  "date": "2019-07-29",
+  "date": "2019-09-16",
   "region": "Europe",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-29.07.2019/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.28.0.PFAEUXM_ac05750e9a_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.28.0.PFAEUXM_ac05750e9a_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-16.09.2019/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip"
   },
-  "filename": "fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.28.0.PFAEUXM_ac05750e9a_9.0.zip"
+  "filename": "fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip"
  },
  {
   "branch": "stable",
@@ -1906,16 +1906,16 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.3.1.0.PFKEUXM",
+   "miui": "V10.3.3.0.PFKEUXM",
    "android": "9.0"
   },
-  "date": "2019-09-02",
+  "date": "2019-09-16",
   "region": "Europe",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-02.09.2019/fw_raphael_miui_RAPHAELEEAGlobal_V10.3.1.0.PFKEUXM_c82be5a2b9_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V10.3.1.0.PFKEUXM_c82be5a2b9_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-16.09.2019/fw_raphael_miui_RAPHAELEEAGlobal_V10.3.3.0.PFKEUXM_52bd3959c9_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V10.3.3.0.PFKEUXM_52bd3959c9_9.0.zip"
   },
-  "filename": "fw_raphael_miui_RAPHAELEEAGlobal_V10.3.1.0.PFKEUXM_c82be5a2b9_9.0.zip"
+  "filename": "fw_raphael_miui_RAPHAELEEAGlobal_V10.3.3.0.PFKEUXM_52bd3959c9_9.0.zip"
  },
  {
   "branch": "stable",
@@ -2550,16 +2550,16 @@
  {
   "branch": "stable",
   "versions": {
-   "miui": "V10.3.6.0.PFECNXM",
+   "miui": "V10.3.8.0.PFECNXM",
    "android": "9.0"
   },
-  "date": "2019-08-23",
+  "date": "2019-09-16",
   "region": "China",
   "downloads": {
-   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/stable-23.08.2019/fw_vela_miui_VELA_V10.3.6.0.PFECNXM_065667f1ba_9.0.zip",
-   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vela/fw_vela_miui_VELA_V10.3.6.0.PFECNXM_065667f1ba_9.0.zip"
+   "github": "https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/stable-16.09.2019/fw_vela_miui_VELA_V10.3.8.0.PFECNXM_08f1d10b63_9.0.zip",
+   "osdn": "https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vela/fw_vela_miui_VELA_V10.3.8.0.PFECNXM_08f1d10b63_9.0.zip"
   },
-  "filename": "fw_vela_miui_VELA_V10.3.6.0.PFECNXM_065667f1ba_9.0.zip"
+  "filename": "fw_vela_miui_VELA_V10.3.8.0.PFECNXM_08f1d10b63_9.0.zip"
  },
  {
   "branch": "stable",
