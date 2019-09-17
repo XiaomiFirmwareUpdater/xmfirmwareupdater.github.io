@@ -643,84 +643,61 @@ function loadMiuiArchive(device) {
 // Mi-Vendor-updater
 function loadVendorDownloads(device, type) {
     $(document).ready(function () {
-        var downloads = [];
+        $('#vendor').DataTable({
+            responsive: true,
+            responsive: {
+                details: false
+            },
+            "pageLength": 25,
+            "order": [[5, "desc"]],
+            "ajax": {
+                "type": "GET",
+                "url": '/data/vendor/' + type + '/' + device + '.json',
+                dataType: 'JSON',
+                "dataSrc": ""
+            },
+            columnDefs: [
+                { type: 'file-size', targets: 4 }
+            ],
+            columns: [
+                { data: 'branch', className: "min-mobile-l" },
+                { data: 'versions.miui', className: "all" },
+                { data: 'region', className: "min-mobile-l" },
+                {
+                    data: 'downloads',
+                    className: "all",
+                    "render": function (data) {
+                        return '<a href="' + data.github + '" target="_blank">GitHub</a> | <a href="' + data.sf + '" target="_blank">SF</a>';
+                    }
+                },
+                { data: 'size', className: "min-mobile-l" },
+                { data: 'date', className: "min-mobile-l" }
+            ]
+        });
+    });
+};
+
+function loadLatestVendor() {
+    $(document).ready(function () {
         fetchData();
 
         function fetchData() {
             var devicesList = new Array();
             $.ajax({
-                url: '/data/vendor_devices.json',
+                url: '/data/vendor/latest.json',
                 async: true,
-            }).done(function (names) {
-                var names = names;
+                dataType: 'JSON'
+            }).done(function (json) {
                 $.ajax({
-                    url: 'https://api.github.com/repos/TryHardDood/mi-vendor-updater/releases?per_page=200',
+                    url: '/data/vendor_devices.json',
                     async: true,
                     dataType: 'JSON'
-                }).done(function (json) {
-                    var releases = [];
-                    json.forEach(function (release) {
-                        if (release.tag_name.startsWith(device)) {
-                            if (type == 'latest') {
-                                var reversed = release.assets.reverse();
-                                for (let i = 0; i < reversed.length; i++) {
-                                    if (reversed[i].name.match(/fw-vendor_[a-z]*(?:_[a-z]*)*?_(?:V(.*))?[0-9].*.zip/)) {
-                                        releases.push([reversed[i]]);
-                                        break;
-                                    }
-                                }
-                            }
-                            else if (type == 'full') {
-                                releases.push(release.assets);
-                            }
-                        }
-                    })
-                    releases.forEach(function (release) {
-                        release.forEach(function (item) {
-                            var filename = item.name;
-                            var date = item.updated_at.slice(0, 10);
-                            var download = item.browser_download_url;
-                            var size = humanFileSize(item.size, true);
-                            var version = '';
-                            if (filename.includes('miui')) {
-                                version = filename.split('_')[4];
-                            }
-                            else {
-                                version = filename.split('_').slice(-1).join().split('.zip')[0];
-                            }
-                            var branch = '';
-                            if (version.startsWith('V')) {
-                                branch = 'Stable';
-                            }
-                            else {
-                                branch = 'Weekly';
-                            }
-                            var codename = download.split('/').slice(-2)[0].split('-')[0];
-                            var name = names[filename.split('_')[1]];
-                            var region = '';
-                            if (codename.includes('eea_global')) {
-                                region = 'Europe';
-                            }
-                            else if (codename.includes('in_global')) {
-                                region = 'India';
-                            }
-                            else if (codename.includes('ru_global')) {
-                                region = 'Russia';
-                            }
-                            else if (codename.includes('global')) {
-                                region = 'Global';
-                            }
-                            else {
-                                region = 'China';
-                            }
-                            downloads.push({
-                                'name': name, 'codename': codename, 'filename': filename,
-                                'branch': branch, 'region': region, 'version': version,
-                                'download': download, 'size': size, 'date': date
-                            })
-                        })
-                    })
-                    DrawTable(downloads);
+                }).done(function (data) {
+                    json.forEach(function (item) {
+                        item.name = data[item.filename.split('_')[1]];
+                        devicesList.push(item);
+                    });
+                    DrawTable(devicesList);
                 })
             })
         }
@@ -730,7 +707,7 @@ function loadVendorDownloads(device, type) {
                 responsive: {
                     details: false
                 },
-                "pageLength": 25,
+                "pageLength": 100,
                 "pagingType": "full_numbers",
                 "order": [[6, "desc"]],
                 data: data,
@@ -743,14 +720,14 @@ function loadVendorDownloads(device, type) {
                         defaultContent: 'Device',
                         className: "all"
                     },
-                    { data: 'branch', className: "min-tablet-p" },
-                    { data: 'version', className: "all" },
+                    { data: 'branch', className: "min-mobile-l" },
+                    { data: 'versions.miui', className: "all" },
                     { data: 'region', className: "min-mobile-l" },
                     {
-                        data: 'download',
+                        data: 'downloads',
                         className: "all",
                         "render": function (data) {
-                            return '<a href="' + data + '" target="_blank">Download</a>';
+                            return '<a href="' + data.github + '" target="_blank">GitHub</a> | <a href="' + data.sf + '" target="_blank">SF</a>';
                         }
                     },
                     { data: 'size', className: "min-mobile-l" },

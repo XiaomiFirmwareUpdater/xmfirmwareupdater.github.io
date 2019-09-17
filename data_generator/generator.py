@@ -5,12 +5,16 @@ from os import environ
 import json
 import re
 import xml.etree.ElementTree as eT
+import yaml
 from requests import get
+from humanize import naturalsize
 
 # Variables
 GIT_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
 ORG = get(f'https://api.github.com/orgs/XiaomiFirmwareUpdater/'
           f'repos?per_page=200&access_token={GIT_TOKEN}').json()
+VARIANTS = [['stable', 'Global'], ['stable', 'China'], ['weekly', 'Global'], ['weekly', 'China'],
+            ['stable', 'Europe'], ['stable', 'India'], ['stable', 'Russia']]
 FW_CODENAMES = []
 FW_DEVICES = {}
 M_CODENAMES = []
@@ -64,7 +68,7 @@ def load_releases():
     for device in FW_CODENAMES:
         info = []
         url = f'https://api.github.com/repos/XiaomiFirmwareUpdater/' \
-            f'firmware_xiaomi_{device}/releases?per_page=200&access_token={GIT_TOKEN}'
+              f'firmware_xiaomi_{device}/releases?per_page=200&access_token={GIT_TOKEN}'
         data = get(url).json()
         # Generate all releases JSON
         for item in data:
@@ -108,43 +112,18 @@ def load_releases():
                 info.append(release)
         with open(f'../data/devices/full/{device}.json', 'w') as out:
             json.dump(info, out, indent=1)
-        # Generate latest releases JSON
+        # Generate latest releases
         latest = []
-        try:
-            latest.append([i for i in info if i['branch'] == 'stable'
-                           and i['region'] == 'Global'][0])
-        except IndexError:
-            pass
-        try:
-            latest.append([i for i in info if i['branch'] == 'stable'
-                           and i['region'] == 'China'][0])
-        except IndexError:
-            pass
-        try:
-            latest.append([i for i in info if i['branch'] == 'weekly'
-                           and i['region'] == 'Global'][0])
-        except IndexError:
-            pass
-        try:
-            latest.append([i for i in info if i['branch'] == 'weekly'
-                           and i['region'] == 'China'][0])
-        except IndexError:
-            pass
-        try:
-            latest.append([i for i in info if i['branch'] == 'stable'
-                           and i['region'] == 'Europe'][0])
-        except IndexError:
-            pass
-        try:
-            latest.append([i for i in info if i['branch'] == 'stable'
-                           and i['region'] == 'India'][0])
-        except IndexError:
-            pass
-        try:
-            latest.append([i for i in info if i['branch'] == 'stable'
-                           and i['region'] == 'Russia'][0])
-        except IndexError:
-            pass
+
+        def filter_latest(branch_, region_):
+            try:
+                latest.append([i for i in info if i['branch'] == branch_
+                               and i['region'] == region_][0])
+            except IndexError:
+                pass
+
+        for i in VARIANTS:
+            filter_latest(i[0], i[1])
         with open(f'../data/devices/latest/{device}.json', 'w') as out:
             json.dump(latest, out, indent=1)
         for i in latest:
@@ -220,8 +199,8 @@ def load_miui_devices():
     """
     load miui devices
     """
-    devices = get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-                  'miui-updates-tracker/master/devices/sf.json').json()
+    devices = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
+                            'miui-updates-tracker/master/devices/sf.yml').content, Loader=yaml.CLoader)
     for codename in devices:
         if '_' in codename:
             check = codename.split('_')[0]
@@ -234,8 +213,8 @@ def load_miui_devices():
         M_CODENAMES.append(codename)
     with open('../data/miui_codenames.json', 'w') as out:
         json.dump(M_CODENAMES, out, indent=1)
-    eol = get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-              'miui-updates-tracker/master/EOL/sf.json').json()
+    eol = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
+                        'miui-updates-tracker/master/EOL/sf.yml').content, Loader=yaml.CLoader)
     for codename in eol:
         if '_' in codename:
             check = codename.split('_')[0]
@@ -341,10 +320,78 @@ def load_vendor_devices():
     codenames.sort()
     with open('../data/vendor_codenames.json', 'w') as out:
         json.dump(codenames, out, indent=1)
-    V_DEVICES.update({codename: NAMES[codename] for codename in codenames})
+    for codename in codenames:
+        try:
+            V_DEVICES.update({codename: NAMES[codename]})
+        except KeyError:
+            continue
     with open('../data/vendor_devices.json', 'w') as out:
         json.dump(V_DEVICES, out, indent=1)
+    all_latest = []
+    for codename in codenames:
+        releases = [i for i in data if i['tag_name'].split('_')[0].split('-')[0] == codename]
+        full = []
+        for item in releases:
+            tag_name = item['tag_name']
+            branch = 'stable' if 'stable' in tag_name else 'weekly'
+            for asset in item['assets']:
+                date = asset['updated_at'][:10]
+                filename = asset['name']
 
+                if "_miui_" not in filename:
+                    miui_version = filename.split('_')[-1].split('.zip')[0]
+                    android = "8.1" if miui_version.split('.')[-1].startswith('O') else "9.0"
+                else:
+                    miui_version = filename.split('_')[-3]
+                    android = filename.split('_')[-1].split('.zip')[0]
+                filesize = naturalsize(asset['size'])
+                download_url = asset['browser_download_url']
+                if 'eea_global' in tag_name:
+                    region = 'Europe'
+                elif 'in_global' in tag_name:
+                    region = 'India'
+                elif 'ru_global' in tag_name:
+                    region = 'Russia'
+                elif 'global' in tag_name:
+                    region = 'Global'
+                else:
+                    region = 'China'
+                sf = f"https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/" \
+                     f"{tag_name}/{filename}/download"
+                release = {'branch': branch,
+                           'versions': {
+                               'miui': miui_version,
+                               'android': android},
+                           'date': date,
+                           'region': region,
+                           'downloads': {
+                               'github': download_url,
+                               'sf': sf},
+                           'filename': filename,
+                           'size': filesize}
+                full.append(release)
+        with open(f'../data/vendor/full/{codename}.json', 'w') as out:
+            json.dump(full, out, indent=1)
+            # Generate latest releases JSON
+            latest = []
+
+            def filter_latest(branch_, region_):
+                try:
+                    info = [i for i in full if i['branch'] == branch_
+                            and i['region'] == region_]
+                    dates = sorted([i['date'] for i in info], reverse=True)
+                    latest.append([i for i in info if i['date'] == dates[0]][0])
+                except IndexError:
+                    pass
+
+            for i in VARIANTS:
+                filter_latest(i[0], i[1])
+        with open(f'../data/vendor/latest/{codename}.json', 'w') as out:
+            json.dump(latest, out, indent=1)
+        for i in latest:
+            all_latest.append(i)
+    with open('../data/vendor/latest.json', 'w') as out:
+        json.dump(all_latest, out, indent=1)
     header = '''---
 title: $name ($codename) Vendor Downloads
 layout: download
@@ -358,7 +405,6 @@ permalink: $link
     <table id="vendor" class="display dt-responsive compact table table-striped table-hover table-sm">
         <thead class="thead-dark">
             <tr>
-                <th data-ref="device">Device</th>
                 <th data-ref="branch">Branch</th>
                 <th data-ref="miui">MIUI</th>
                 <th data-ref="region">Region</th>
@@ -395,7 +441,7 @@ permalink: $link
                 link = f'/archive/vendor/{codename}/'
             markdown = ''
             markdown += header.replace('$codename', codename) \
-                              .replace('$name', name).replace('$link', link) + '\n'
+                            .replace('$name', name).replace('$link', link) + '\n'
             if branch == 'latest':
                 markdown += latest.replace('$codename', codename) + '\n'
             elif branch == 'full':
