@@ -1,0 +1,467 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.1.0.PECCNFK",
+   "android": "9.0"
+  },
+  "date": "2019-06-21",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-stable/fw-vendor_equuleus_V10.2.1.0.PECCNFK.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-stable/fw-vendor_equuleus_V10.2.1.0.PECCNFK.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_V10.2.1.0.PECCNFK.zip",
+  "size": "418.6 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.3.0.PECCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-stable/fw-vendor_equuleus_V10.3.3.0.PECCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-stable/fw-vendor_equuleus_V10.3.3.0.PECCNXM.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_V10.3.3.0.PECCNXM.zip",
+  "size": "471.3 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.4.0.PECCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-25",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-stable/fw-vendor_equuleus_V10.3.4.0.PECCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-stable/fw-vendor_equuleus_V10.3.4.0.PECCNXM.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_V10.3.4.0.PECCNXM.zip",
+  "size": "481.8 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.3.0.PECMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-05-21",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_global_V10.3.3.0.PECMIXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_global_V10.3.3.0.PECMIXM.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_global_V10.3.3.0.PECMIXM.zip",
+  "size": "471.7 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.4.0.PECMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-24",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_global_V10.3.4.0.PECMIXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_global_V10.3.4.0.PECMIXM.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_global_V10.3.4.0.PECMIXM.zip",
+  "size": "481.4 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.5.0.PECMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-08-13",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_global_V10.3.5.0.PECMIXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_global_V10.3.5.0.PECMIXM.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_global_V10.3.5.0.PECMIXM.zip",
+  "size": "491.9 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.26",
+   "android": "9.0"
+  },
+  "date": "2019-04-29",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_global_9.4.26.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_global_9.4.26.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_global_9.4.26.zip",
+  "size": "481.7 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.17",
+   "android": "9.0"
+  },
+  "date": "2019-05-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_global_9.5.17.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_global_9.5.17.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_global_9.5.17.zip",
+  "size": "480.5 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.30",
+   "android": "9.0"
+  },
+  "date": "2019-05-31",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_global_9.5.30.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_global_9.5.30.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_global_9.5.30.zip",
+  "size": "481.6 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.9",
+   "android": "9.0"
+  },
+  "date": "2019-05-10",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_global_9.5.9.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_global_9.5.9.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_global_9.5.9.zip",
+  "size": "482.0 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.13",
+   "android": "9.0"
+  },
+  "date": "2019-06-14",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_global_9.6.13.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_global_9.6.13.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_global_9.6.13.zip",
+  "size": "482.0 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.20",
+   "android": "9.0"
+  },
+  "date": "2019-06-22",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_global_9.6.20.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_global_9.6.20.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_global_9.6.20.zip",
+  "size": "493.2 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.27",
+   "android": "9.0"
+  },
+  "date": "2019-06-28",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_global_9.6.27.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_global_9.6.27.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_global_9.6.27.zip",
+  "size": "493.8 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.12",
+   "android": "9.0"
+  },
+  "date": "2019-04-15",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_miui_MI8UDGlobal_9.4.12_821a183632_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_miui_MI8UDGlobal_9.4.12_821a183632_9.0.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_miui_MI8UDGlobal_9.4.12_821a183632_9.0.zip",
+  "size": "471.4 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.18",
+   "android": "9.0"
+  },
+  "date": "2019-04-19",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_miui_MI8UDGlobal_9.4.18_67ff6da452_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_miui_MI8UDGlobal_9.4.18_67ff6da452_9.0.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_miui_MI8UDGlobal_9.4.18_67ff6da452_9.0.zip",
+  "size": "471.3 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.18",
+   "android": "9.0"
+  },
+  "date": "2019-05-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.4.18.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.4.18.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.4.18.zip",
+  "size": "470.4 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.26",
+   "android": "9.0"
+  },
+  "date": "2019-04-29",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.4.26.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.4.26.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.4.26.zip",
+  "size": "481.7 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.17",
+   "android": "9.0"
+  },
+  "date": "2019-05-20",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.5.17.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.5.17.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.5.17.zip",
+  "size": "482.0 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.30",
+   "android": "9.0"
+  },
+  "date": "2019-05-31",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.5.30.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.5.30.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.5.30.zip",
+  "size": "481.8 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.9",
+   "android": "9.0"
+  },
+  "date": "2019-05-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.5.9.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.5.9.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.5.9.zip",
+  "size": "480.4 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.13",
+   "android": "9.0"
+  },
+  "date": "2019-06-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.6.13.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.6.13.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.6.13.zip",
+  "size": "482.0 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.20",
+   "android": "9.0"
+  },
+  "date": "2019-06-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.6.20.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.6.20.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.6.20.zip",
+  "size": "482.0 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.11",
+   "android": "9.0"
+  },
+  "date": "2019-07-13",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.7.11.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.7.11.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.7.11.zip",
+  "size": "480.0 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.18",
+   "android": "9.0"
+  },
+  "date": "2019-07-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.7.18.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.7.18.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.7.18.zip",
+  "size": "480.5 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.25",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.7.25.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.7.25.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.7.25.zip",
+  "size": "557.4 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.4",
+   "android": "9.0"
+  },
+  "date": "2019-07-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.7.4.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.7.4.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.7.4.zip",
+  "size": "481.9 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.8.1",
+   "android": "9.0"
+  },
+  "date": "2019-08-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.8.1.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.8.1.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.8.1.zip",
+  "size": "578.2 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.8.9",
+   "android": "9.0"
+  },
+  "date": "2019-08-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_9.8.9.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_9.8.9.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_9.8.9.zip",
+  "size": "611.7 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.12",
+   "android": "9.0"
+  },
+  "date": "2019-04-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_miui_MI8UD_9.4.12_9dfbf6d8de_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_miui_MI8UD_9.4.12_9dfbf6d8de_9.0.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_miui_MI8UD_9.4.12_9dfbf6d8de_9.0.zip",
+  "size": "469.6 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.18",
+   "android": "9.0"
+  },
+  "date": "2019-04-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip",
+  "size": "470.4 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.9.3",
+   "android": "9.0"
+  },
+  "date": "2019-09-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_miui_MI8UD_9.9.3_03f07e3d60_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_miui_MI8UD_9.9.3_03f07e3d60_9.0.zip/download"
+  },
+  "filename": "fw-vendor_equuleus_miui_MI8UD_9.9.3_03f07e3d60_9.0.zip",
+  "size": "636.4 MB"
+ }
+]

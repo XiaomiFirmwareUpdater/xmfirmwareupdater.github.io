@@ -1,0 +1,32 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.2.0.OCHMIXM",
+   "android": "8.1"
+  },
+  "date": "2019-04-10",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/jason_global-stable/fw-vendor_jason_miui_MINote3Global_V10.3.2.0.OCHMIXM_b4bcd991fd_8.1.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/jason_global-stable/fw-vendor_jason_miui_MINote3Global_V10.3.2.0.OCHMIXM_b4bcd991fd_8.1.zip/download"
+  },
+  "filename": "fw-vendor_jason_miui_MINote3Global_V10.3.2.0.OCHMIXM_b4bcd991fd_8.1.zip",
+  "size": "78.1 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.28",
+   "android": "8.1"
+  },
+  "date": "2019-04-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/jason-weekly/fw-vendor_jason_miui_MINote3_9.3.28_451f3992da_8.1.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/jason-weekly/fw-vendor_jason_miui_MINote3_9.3.28_451f3992da_8.1.zip/download"
+  },
+  "filename": "fw-vendor_jason_miui_MINote3_9.3.28_451f3992da_8.1.zip",
+  "size": "78.1 MB"
+ }
+]

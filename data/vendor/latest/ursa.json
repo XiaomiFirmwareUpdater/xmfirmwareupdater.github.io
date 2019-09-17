@@ -1,0 +1,32 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.6.0.PEHCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-08-13",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_V10.3.6.0.PEHCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_V10.3.6.0.PEHCNXM.zip/download"
+  },
+  "filename": "fw-vendor_ursa_V10.3.6.0.PEHCNXM.zip",
+  "size": "594.9 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.9.3",
+   "android": "9.0"
+  },
+  "date": "2019-09-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-weekly/fw-vendor_ursa_miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-weekly/fw-vendor_ursa_miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip/download"
+  },
+  "filename": "fw-vendor_ursa_miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip",
+  "size": "643.6 MB"
+ }
+]

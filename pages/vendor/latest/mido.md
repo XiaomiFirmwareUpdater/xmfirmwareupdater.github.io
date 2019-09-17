@@ -21,7 +21,6 @@ permalink: /vendor/mido/
     <table id="vendor" class="display dt-responsive compact table table-striped table-hover table-sm">
         <thead class="thead-dark">
             <tr>
-                <th data-ref="device">Device</th>
                 <th data-ref="branch">Branch</th>
                 <th data-ref="miui">MIUI</th>
                 <th data-ref="region">Region</th>

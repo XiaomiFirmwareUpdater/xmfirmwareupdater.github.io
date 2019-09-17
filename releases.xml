@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 13 Sep 2019 19:03:41 +0900</pubDate>
+  <pubDate>Tue, 17 Sep 2019 01:07:48 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC9 Meitu Edition (vela) - V10.3.8.0.PFECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
+    <pubDate>Tue, 17 Sep 2019 01:07:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro (raphael) - V10.3.3.0.PFKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Tue, 17 Sep 2019 01:05:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - V10.2.30.0.PFAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Tue, 17 Sep 2019 01:03:55 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 9 (cepheus) - V10.2.35.0.PFACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 7 (lavender) - 9.9.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Sat, 07 Sep 2019 01:18:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 3 (jason) - 9.9.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
-    <pubDate>Sat, 07 Sep 2019 01:16:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 9.9.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Sat, 07 Sep 2019 01:14:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - 9.9.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Sat, 07 Sep 2019 01:11:51 +0900</pubDate>
   </item>
     </channel>
 </rss>

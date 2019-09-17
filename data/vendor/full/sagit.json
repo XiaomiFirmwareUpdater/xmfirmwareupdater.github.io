@@ -1,0 +1,17 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.1.0.OCACNXM",
+   "android": "8.0"
+  },
+  "date": "2019-04-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sagit-stable/fw-vendor_sagit_miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sagit-stable/fw-vendor_sagit_miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip/download"
+  },
+  "filename": "fw-vendor_sagit_miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip",
+  "size": "63.2 MB"
+ }
+]

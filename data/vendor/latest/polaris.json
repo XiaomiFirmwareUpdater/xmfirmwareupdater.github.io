@@ -1,0 +1,62 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.5.0.PDGMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-08-15",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-stable/fw-vendor_polaris_global_V10.3.5.0.PDGMIXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-stable/fw-vendor_polaris_global_V10.3.5.0.PDGMIXM.zip/download"
+  },
+  "filename": "fw-vendor_polaris_global_V10.3.5.0.PDGMIXM.zip",
+  "size": "474.5 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.5.0.PDGCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris-stable/fw-vendor_polaris_V10.3.5.0.PDGCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris-stable/fw-vendor_polaris_V10.3.5.0.PDGCNXM.zip/download"
+  },
+  "filename": "fw-vendor_polaris_V10.3.5.0.PDGCNXM.zip",
+  "size": "542.6 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.27",
+   "android": "9.0"
+  },
+  "date": "2019-06-29",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-weekly/fw-vendor_polaris_global_9.6.27.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-weekly/fw-vendor_polaris_global_9.6.27.zip/download"
+  },
+  "filename": "fw-vendor_polaris_global_9.6.27.zip",
+  "size": "477.7 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.9.3",
+   "android": "9.0"
+  },
+  "date": "2019-09-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris-weekly/fw-vendor_polaris_miui_MIMIX2S_9.9.3_f81fcc2242_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris-weekly/fw-vendor_polaris_miui_MIMIX2S_9.9.3_f81fcc2242_9.0.zip/download"
+  },
+  "filename": "fw-vendor_polaris_miui_MIMIX2S_9.9.3_f81fcc2242_9.0.zip",
+  "size": "620.1 MB"
+ }
+]

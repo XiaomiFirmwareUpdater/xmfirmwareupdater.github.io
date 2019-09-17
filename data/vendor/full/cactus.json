@@ -1,0 +1,152 @@
+[
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.11",
+   "android": "9.0"
+  },
+  "date": "2019-07-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-weekly/fw-vendor_cactus_9.7.11.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-weekly/fw-vendor_cactus_9.7.11.zip/download"
+  },
+  "filename": "fw-vendor_cactus_9.7.11.zip",
+  "size": "179.2 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.18",
+   "android": "9.0"
+  },
+  "date": "2019-07-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-weekly/fw-vendor_cactus_9.7.18.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-weekly/fw-vendor_cactus_9.7.18.zip/download"
+  },
+  "filename": "fw-vendor_cactus_9.7.18.zip",
+  "size": "178.6 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.25",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-weekly/fw-vendor_cactus_9.7.25.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-weekly/fw-vendor_cactus_9.7.25.zip/download"
+  },
+  "filename": "fw-vendor_cactus_9.7.25.zip",
+  "size": "256.8 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.8.1",
+   "android": "9.0"
+  },
+  "date": "2019-08-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-weekly/fw-vendor_cactus_9.8.1.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-weekly/fw-vendor_cactus_9.8.1.zip/download"
+  },
+  "filename": "fw-vendor_cactus_9.8.1.zip",
+  "size": "262.5 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.8.15",
+   "android": "9.0"
+  },
+  "date": "2019-08-16",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-weekly/fw-vendor_cactus_9.8.15.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-weekly/fw-vendor_cactus_9.8.15.zip/download"
+  },
+  "filename": "fw-vendor_cactus_9.8.15.zip",
+  "size": "262.5 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.8.8",
+   "android": "9.0"
+  },
+  "date": "2019-08-09",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-weekly/fw-vendor_cactus_9.8.8.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-weekly/fw-vendor_cactus_9.8.8.zip/download"
+  },
+  "filename": "fw-vendor_cactus_9.8.8.zip",
+  "size": "262.5 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.8.9",
+   "android": "9.0"
+  },
+  "date": "2019-08-13",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-weekly/fw-vendor_cactus_9.8.9.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-weekly/fw-vendor_cactus_9.8.9.zip/download"
+  },
+  "filename": "fw-vendor_cactus_9.8.9.zip",
+  "size": "262.5 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.4.0.OCBCNXM",
+   "android": "8.1"
+  },
+  "date": "2019-07-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-stable/fw-vendor_cactus_V10.3.4.0.OCBCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-stable/fw-vendor_cactus_V10.3.4.0.OCBCNXM.zip/download"
+  },
+  "filename": "fw-vendor_cactus_V10.3.4.0.OCBCNXM.zip",
+  "size": "212.5 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.4.3.0.PCBCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-08-30",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-stable/fw-vendor_cactus_V10.4.3.0.PCBCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-stable/fw-vendor_cactus_V10.4.3.0.PCBCNXM.zip/download"
+  },
+  "filename": "fw-vendor_cactus_V10.4.3.0.PCBCNXM.zip",
+  "size": "177.4 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.4.4.0.PCBCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-stable/fw-vendor_cactus_V10.4.4.0.PCBCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-stable/fw-vendor_cactus_V10.4.4.0.PCBCNXM.zip/download"
+  },
+  "filename": "fw-vendor_cactus_V10.4.4.0.PCBCNXM.zip",
+  "size": "177.5 MB"
+ }
+]

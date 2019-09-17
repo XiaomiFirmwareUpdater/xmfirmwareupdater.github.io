@@ -1,0 +1,62 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.35.0.PFACNXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-13",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip/download"
+  },
+  "filename": "fw-vendor_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip",
+  "size": "762.3 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.2",
+   "android": "9.0"
+  },
+  "date": "2019-04-05",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_global-weekly/fw-vendor_cepheus_miui_CEPHEUSGlobal_9.4.2_19357b30e9_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_global-weekly/fw-vendor_cepheus_miui_CEPHEUSGlobal_9.4.2_19357b30e9_9.0.zip/download"
+  },
+  "filename": "fw-vendor_cepheus_miui_CEPHEUSGlobal_9.4.2_19357b30e9_9.0.zip",
+  "size": "636.4 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.22",
+   "android": "9.0"
+  },
+  "date": "2019-07-24",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-weekly/fw-vendor_cepheus_9.7.22.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-weekly/fw-vendor_cepheus_9.7.22.zip/download"
+  },
+  "filename": "fw-vendor_cepheus_9.7.22.zip",
+  "size": "581.2 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.2.30.0.PFAEUXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-16",
+  "region": "Europe",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_eea_global-stable/fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_eea_global-stable/fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip/download"
+  },
+  "filename": "fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip",
+  "size": "681.6 MB"
+ }
+]

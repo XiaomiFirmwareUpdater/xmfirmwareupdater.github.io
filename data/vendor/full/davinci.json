@@ -1,0 +1,197 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.11.0.PFJMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-08-12",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_global_V10.3.11.0.PFJMIXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_global-stable/fw-vendor_davinci_global_V10.3.11.0.PFJMIXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_global_V10.3.11.0.PFJMIXM.zip",
+  "size": "701.7 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.5.0.PFJMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-06",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_global_V10.3.5.0.PFJMIXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_global-stable/fw-vendor_davinci_global_V10.3.5.0.PFJMIXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_global_V10.3.5.0.PFJMIXM.zip",
+  "size": "663.7 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.6.0.PFJMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-22",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_global_V10.3.6.0.PFJMIXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_global-stable/fw-vendor_davinci_global_V10.3.6.0.PFJMIXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_global_V10.3.6.0.PFJMIXM.zip",
+  "size": "655.1 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.7.0.PFJMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-27",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_global_V10.3.7.0.PFJMIXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_global-stable/fw-vendor_davinci_global_V10.3.7.0.PFJMIXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_global_V10.3.7.0.PFJMIXM.zip",
+  "size": "694.9 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.9.0.PFJMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-23",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_global_V10.3.9.0.PFJMIXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_global-stable/fw-vendor_davinci_global_V10.3.9.0.PFJMIXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_global_V10.3.9.0.PFJMIXM.zip",
+  "size": "706.9 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.11.0.PFJMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-07",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_global-stable/fw-vendor_davinci_miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip/download"
+  },
+  "filename": "fw-vendor_davinci_miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip",
+  "size": "701.7 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.15.0.PFJCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable/fw-vendor_davinci_miui_DAVINCI_V10.3.15.0.PFJCNXM_d8545c3ae5_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable/fw-vendor_davinci_miui_DAVINCI_V10.3.15.0.PFJCNXM_d8545c3ae5_9.0.zip/download"
+  },
+  "filename": "fw-vendor_davinci_miui_DAVINCI_V10.3.15.0.PFJCNXM_d8545c3ae5_9.0.zip",
+  "size": "780.6 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.12.0.PFJCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable/fw-vendor_davinci_V10.3.12.0.PFJCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable/fw-vendor_davinci_V10.3.12.0.PFJCNXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_V10.3.12.0.PFJCNXM.zip",
+  "size": "706.7 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.14.0.PFJCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-08-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable/fw-vendor_davinci_V10.3.14.0.PFJCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable/fw-vendor_davinci_V10.3.14.0.PFJCNXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_V10.3.14.0.PFJCNXM.zip",
+  "size": "702.8 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.6.0.PFJCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-05-30",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable/fw-vendor_davinci_V10.3.6.0.PFJCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable/fw-vendor_davinci_V10.3.6.0.PFJCNXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_V10.3.6.0.PFJCNXM.zip",
+  "size": "660.9 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.7.0.PFJCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-13",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable/fw-vendor_davinci_V10.3.7.0.PFJCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable/fw-vendor_davinci_V10.3.7.0.PFJCNXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_V10.3.7.0.PFJCNXM.zip",
+  "size": "655.8 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.8.0.PFJCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable/fw-vendor_davinci_V10.3.8.0.PFJCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable/fw-vendor_davinci_V10.3.8.0.PFJCNXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_V10.3.8.0.PFJCNXM.zip",
+  "size": "696.2 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.9.0.PFJCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-06-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable/fw-vendor_davinci_V10.3.9.0.PFJCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable/fw-vendor_davinci_V10.3.9.0.PFJCNXM.zip/download"
+  },
+  "filename": "fw-vendor_davinci_V10.3.9.0.PFJCNXM.zip",
+  "size": "697.3 MB"
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.1.0.PEBCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-05-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-stable/fw-vendor_sirius_V10.3.1.0.PEBCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-stable/fw-vendor_sirius_V10.3.1.0.PEBCNXM.zip/download"
+  },
+  "filename": "fw-vendor_sirius_V10.3.1.0.PEBCNXM.zip",
+  "size": "409.0 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.25",
+   "android": "9.0"
+  },
+  "date": "2019-04-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.4.25.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.4.25.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.4.25.zip",
+  "size": "420.2 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.16",
+   "android": "9.0"
+  },
+  "date": "2019-05-17",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.5.16.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.5.16.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.5.16.zip",
+  "size": "420.6 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.23",
+   "android": "9.0"
+  },
+  "date": "2019-05-24",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.5.23.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.5.23.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.5.23.zip",
+  "size": "420.7 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.30",
+   "android": "9.0"
+  },
+  "date": "2019-06-03",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.5.30.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.5.30.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.5.30.zip",
+  "size": "420.5 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.5.9",
+   "android": "9.0"
+  },
+  "date": "2019-05-10",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.5.9.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.5.9.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.5.9.zip",
+  "size": "420.3 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.13",
+   "android": "9.0"
+  },
+  "date": "2019-06-14",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.6.13.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.6.13.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.6.13.zip",
+  "size": "420.4 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.6.20",
+   "android": "9.0"
+  },
+  "date": "2019-06-23",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.6.20.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.6.20.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.6.20.zip",
+  "size": "420.5 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.11",
+   "android": "9.0"
+  },
+  "date": "2019-07-12",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.7.11.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.7.11.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.7.11.zip",
+  "size": "420.6 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.18",
+   "android": "9.0"
+  },
+  "date": "2019-07-19",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.7.18.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.7.18.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.7.18.zip",
+  "size": "420.6 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.25",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.7.25.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.7.25.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.7.25.zip",
+  "size": "497.5 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.7.4",
+   "android": "9.0"
+  },
+  "date": "2019-07-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.7.4.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.7.4.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.7.4.zip",
+  "size": "420.5 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.8.1",
+   "android": "9.0"
+  },
+  "date": "2019-08-02",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.8.1.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.8.1.zip/download"
+  },
+  "filename": "fw-vendor_sirius_9.8.1.zip",
+  "size": "510.6 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.12",
+   "android": "9.0"
+  },
+  "date": "2019-04-15",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.12_b6b53474a6_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.12_b6b53474a6_9.0.zip/download"
+  },
+  "filename": "fw-vendor_sirius_miui_MI8SE_9.4.12_b6b53474a6_9.0.zip",
+  "size": "409.9 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.4.19",
+   "android": "9.0"
+  },
+  "date": "2019-04-22",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip/download"
+  },
+  "filename": "fw-vendor_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip",
+  "size": "408.8 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.9.3",
+   "android": "9.0"
+  },
+  "date": "2019-09-06",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.9.3_a9d719f08b_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.9.3_a9d719f08b_9.0.zip/download"
+  },
+  "filename": "fw-vendor_sirius_miui_MI8SE_9.9.3_a9d719f08b_9.0.zip",
+  "size": "567.5 MB"
+ }
+]

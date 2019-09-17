@@ -5,8 +5,6 @@ permalink: /vendor/
 ---
 
 ### Latest Vendor flashable files for all Xiaomi treble-supported devices
-##### This page shows the latest downloads only. If you're looking for old builds check [the archive](/archive/vendor/).
-
 
 *Note*: All files listed here are made by [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.
 
@@ -30,6 +28,6 @@ permalink: /vendor/
             <th data-ref="updated">Updated</th>
         </tr>
     </thead>
-    <script>loadVendorDownloads('', 'latest')</script>
+    <script>loadLatestVendor()</script>
 </table>
 </div>

@@ -1,0 +1,17 @@
+[
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.3.7",
+   "android": "7.0"
+  },
+  "date": "2019-04-05",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/mido-weekly/fw-vendor_mido_miui_HMNote4X_9.3.7_5222e8e1fe_7.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/mido-weekly/fw-vendor_mido_miui_HMNote4X_9.3.7_5222e8e1fe_7.0.zip/download"
+  },
+  "filename": "fw-vendor_mido_miui_HMNote4X_9.3.7_5222e8e1fe_7.0.zip",
+  "size": "47.7 MB"
+ }
+]

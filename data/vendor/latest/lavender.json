@@ -1,0 +1,47 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.3.0.PFGCNXM",
+   "android": "9.0"
+  },
+  "date": "2019-07-26",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender-stable/fw-vendor_lavender_V10.3.3.0.PFGCNXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender-stable/fw-vendor_lavender_V10.3.3.0.PFGCNXM.zip/download"
+  },
+  "filename": "fw-vendor_lavender_V10.3.3.0.PFGCNXM.zip",
+  "size": "377.9 MB"
+ },
+ {
+  "branch": "weekly",
+  "versions": {
+   "miui": "9.9.3",
+   "android": "9.0"
+  },
+  "date": "2019-09-07",
+  "region": "China",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender-weekly/fw-vendor_lavender_miui_LAVENDER_9.9.3_5ca18e6120_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender-weekly/fw-vendor_lavender_miui_LAVENDER_9.9.3_5ca18e6120_9.0.zip/download"
+  },
+  "filename": "fw-vendor_lavender_miui_LAVENDER_9.9.3_5ca18e6120_9.0.zip",
+  "size": "519.4 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.7.0.PFGINXM",
+   "android": "9.0"
+  },
+  "date": "2019-08-19",
+  "region": "India",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_in_global-stable/fw-vendor_lavender_in_global_V10.3.7.0.PFGINXM.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_in_global-stable/fw-vendor_lavender_in_global_V10.3.7.0.PFGINXM.zip/download"
+  },
+  "filename": "fw-vendor_lavender_in_global_V10.3.7.0.PFGINXM.zip",
+  "size": "375.7 MB"
+ }
+]
