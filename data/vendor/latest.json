@@ -257,6 +257,21 @@
  {
   "branch": "stable",
   "versions": {
+   "miui": "V10.3.8.0.PFJINXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-17",
+  "region": "India",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinciin_in_global-stable/fw-vendor_davinciin_miui_DAVINCIININGlobal_V10.3.8.0.PFJINXM_207eaee662_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinciin_in_global-stable/fw-vendor_davinciin_miui_DAVINCIININGlobal_V10.3.8.0.PFJINXM_207eaee662_9.0.zip/download"
+  },
+  "filename": "fw-vendor_davinciin_miui_DAVINCIININGlobal_V10.3.8.0.PFJINXM_207eaee662_9.0.zip",
+  "size": "700.5 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
    "miui": "V10.3.4.0.PEAMIXM",
    "android": "9.0"
   },
@@ -838,6 +853,21 @@
   },
   "filename": "fw-vendor_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip",
   "size": "719.2 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.5.0.PFKINXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-17",
+  "region": "India",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip/download"
+  },
+  "filename": "fw-vendor_raphaelin_miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip",
+  "size": "718.6 MB"
  },
  {
   "branch": "stable",

@@ -1,0 +1,17 @@
+[
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.5.0.PFKINXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-17",
+  "region": "India",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip/download"
+  },
+  "filename": "fw-vendor_raphaelin_miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip",
+  "size": "718.6 MB"
+ }
+]
