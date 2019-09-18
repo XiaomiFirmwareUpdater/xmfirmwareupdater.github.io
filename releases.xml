@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 17 Sep 2019 01:07:48 +0900</pubDate>
+  <pubDate>Wed, 18 Sep 2019 19:03:22 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V10.4.8.0.PGGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Wed, 18 Sep 2019 19:03:22 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC9 Meitu Edition (vela) - V10.3.8.0.PFECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
@@ -100,11 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 9.9.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Sat, 07 Sep 2019 01:20:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 (lavender) - 9.9.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Sat, 07 Sep 2019 01:18:28 +0900</pubDate>
   </item>
     </channel>
 </rss>
