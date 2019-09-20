@@ -857,6 +857,21 @@
  {
   "branch": "stable",
   "versions": {
+   "miui": "V10.3.2.0.PFKMIXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-20",
+  "region": "Global",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_global-stable/fw-vendor_raphael_miui_RAPHAELGlobal_V10.3.2.0.PFKMIXM_55396ac730_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael_global-stable/fw-vendor_raphael_miui_RAPHAELGlobal_V10.3.2.0.PFKMIXM_55396ac730_9.0.zip/download"
+  },
+  "filename": "fw-vendor_raphael_miui_RAPHAELGlobal_V10.3.2.0.PFKMIXM_55396ac730_9.0.zip",
+  "size": "717.8 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
    "miui": "V10.3.16.0.PFKCNXM",
    "android": "9.0"
   },
@@ -868,6 +883,21 @@
   },
   "filename": "fw-vendor_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip",
   "size": "719.2 MB"
+ },
+ {
+  "branch": "stable",
+  "versions": {
+   "miui": "V10.3.2.0.PFKRUXM",
+   "android": "9.0"
+  },
+  "date": "2019-09-20",
+  "region": "Russia",
+  "downloads": {
+   "github": "https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_ru_global-stable/fw-vendor_raphael_miui_RAPHAELRUGlobal_V10.3.2.0.PFKRUXM_e5860ca9dd_9.0.zip",
+   "sf": "https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael_ru_global-stable/fw-vendor_raphael_miui_RAPHAELRUGlobal_V10.3.2.0.PFKRUXM_e5860ca9dd_9.0.zip/download"
+  },
+  "filename": "fw-vendor_raphael_miui_RAPHAELRUGlobal_V10.3.2.0.PFKRUXM_e5860ca9dd_9.0.zip",
+  "size": "712.4 MB"
  },
  {
   "branch": "stable",
