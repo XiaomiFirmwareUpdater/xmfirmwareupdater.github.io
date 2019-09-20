@@ -209,7 +209,7 @@ def load_miui_devices():
             else:
                 codename = check
         M_CODENAMES.append(codename)
-    for codename in ['tissot', 'jasmine', 'daisy', 'tiare']:
+    for codename in ['tissot', 'jasmine', 'daisy', 'tiare', 'laurel']:
         M_CODENAMES.append(codename)
     with open('../data/miui_codenames.json', 'w') as out:
         json.dump(M_CODENAMES, out, indent=1)
