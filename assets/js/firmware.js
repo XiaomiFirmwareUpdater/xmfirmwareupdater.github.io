@@ -164,24 +164,44 @@ function loadMiuiDownloads(device) {
                 }
                 $.when(
                     $.ajax({
-                        url: url + 'stable_recovery/stable_recovery.json',
+                        url: url + 'stable_recovery/stable_recovery.yml',
                         async: true,
-                        dataType: 'JSON'
+                        converters: {
+                            'text yaml': function(result) {
+                                return jsyaml.load(result);
+                            }
+                          },
+                        dataType: 'yaml'
                     }),
                     $.ajax({
-                        url: url + 'stable_fastboot/stable_fastboot.json',
+                        url: url + 'stable_fastboot/stable_fastboot.yml',
                         async: true,
-                        dataType: 'JSON'
+                        converters: {
+                            'text yaml': function(result) {
+                                return jsyaml.load(result);
+                            }
+                          },
+                        dataType: 'yaml'
                     }),
                     $.ajax({
-                        url: url + 'weekly_recovery/weekly_recovery.json',
+                        url: url + 'weekly_recovery/weekly_recovery.yml',
                         async: true,
-                        dataType: 'JSON'
+                        converters: {
+                            'text yaml': function(result) {
+                                return jsyaml.load(result);
+                            }
+                          },
+                        dataType: 'yaml'
                     }),
                     $.ajax({
-                        url: url + 'weekly_fastboot/weekly_fastboot.json',
+                        url: url + 'weekly_fastboot/weekly_fastboot.yml',
                         async: true,
-                        dataType: 'JSON'
+                        converters: {
+                            'text yaml': function(result) {
+                                return jsyaml.load(result);
+                            }
+                          },
+                        dataType: 'yaml'
                     })).done(function (stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot) {
                         updateDownloads(stable_recovery[0]);
                         updateDownloads(stable_fastboot[0]);
@@ -277,44 +297,84 @@ function loadLatestMiui() {
             var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/';
             $.when(
                 $.ajax({
-                    url: url + 'stable_recovery/stable_recovery.json',
+                    url: url + 'stable_recovery/stable_recovery.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
-                    url: url + 'stable_fastboot/stable_fastboot.json',
+                    url: url + 'stable_fastboot/stable_fastboot.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
-                    url: url + 'weekly_recovery/weekly_recovery.json',
+                    url: url + 'weekly_recovery/weekly_recovery.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
-                    url: url + 'weekly_fastboot/weekly_fastboot.json',
+                    url: url + 'weekly_fastboot/weekly_fastboot.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
-                    url: url + 'EOL/stable_recovery/stable_recovery.json',
+                    url: url + 'EOL/stable_recovery/stable_recovery.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
-                    url: url + 'EOL/stable_fastboot/stable_fastboot.json',
+                    url: url + 'EOL/stable_fastboot/stable_fastboot.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
-                    url: url + 'EOL/weekly_recovery/weekly_recovery.json',
+                    url: url + 'EOL/weekly_recovery/weekly_recovery.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
-                    url: url + 'EOL/weekly_fastboot/weekly_fastboot.json',
+                    url: url + 'EOL/weekly_fastboot/weekly_fastboot.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 })).done(function (stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot,
                     eol_stable_recovery, eol_stable_fastboot, eol_weekly_recovery, eol_weekly_fastboot) {
                     updateDownloads(stable_recovery[0]);
@@ -553,24 +613,44 @@ function loadMiuiArchive(device) {
                     dataType: 'JSON'
                 }),
                 $.ajax({
-                    url: url + 'stable_recovery/stable_recovery.json',
+                    url: url + 'stable_recovery/stable_recovery.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
-                    url: url + 'stable_fastboot/stable_fastboot.json',
+                    url: url + 'stable_fastboot/stable_fastboot.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
-                    url: url + 'weekly_recovery/weekly_recovery.json',
+                    url: url + 'weekly_recovery/weekly_recovery.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
-                    url: url + 'weekly_fastboot/weekly_fastboot.json',
+                    url: url + 'weekly_fastboot/weekly_fastboot.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function(result) {
+                            return jsyaml.load(result);
+                        }
+                      },
+                    dataType: 'yaml'
                 })).done(function (names, stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot) {
                     devices = names[0];
                     updateDownloads(stable_recovery[0]);
