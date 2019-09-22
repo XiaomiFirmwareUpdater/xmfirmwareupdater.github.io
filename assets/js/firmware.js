@@ -1,4 +1,4 @@
-// Load supported devices from JSON file
+// Load supported devices from YAML file
 function loadSupportedDevices(type) {
     $(document).ready(function () {
         $('#supported').DataTable({
@@ -10,11 +10,16 @@ function loadSupportedDevices(type) {
             "order": [[1, "asc"]],
             "ajax": {
                 "type": "GET",
-                "url": '/data/' + type + '_devices.json',
-                dataType: 'JSON',
-                "dataSrc": function (json) {
+                "url": '/data/' + type + '_devices.yml',
+                converters: {
+                    'text yaml': function (result) {
+                        return jsyaml.load(result);
+                    }
+                },
+                dataType: 'yaml',
+                "dataSrc": function (yml) {
                     var devicesList = [];
-                    Object.entries(json).forEach(function ([codename, name]) {
+                    Object.entries(yml).forEach(function ([codename, name]) {
                         devicesList.push({ 'name': name, 'codename': codename });
                     })
                     return devicesList;
@@ -33,7 +38,7 @@ function loadSupportedDevices(type) {
     });
 };
 
-// Load table data from JSON file
+// Load table data from YAML file
 function loadFirmwareDownloads(device, type) {
     $(document).ready(function () {
         $('#firmware').DataTable({
@@ -45,8 +50,13 @@ function loadFirmwareDownloads(device, type) {
             "order": [[5, "desc"]],
             "ajax": {
                 "type": "GET",
-                "url": '/data/devices/' + type + '/' + device + '.json',
-                dataType: 'JSON',
+                "url": '/data/devices/' + type + '/' + device + '.yml',
+                converters: {
+                    'text yaml': function (result) {
+                        return jsyaml.load(result);
+                    }
+                },
+                dataType: 'yaml',
                 "dataSrc": ""
             },
             columns: [
@@ -70,7 +80,7 @@ function loadFirmwareDownloads(device, type) {
     });
 };
 
-// Load latest firmware JSON file
+// Load latest firmware YAML file
 function loadLatestFirmware() {
     $(document).ready(function () {
         fetchData();
@@ -78,16 +88,26 @@ function loadLatestFirmware() {
         function fetchData() {
             var devicesList = new Array();
             $.ajax({
-                url: '/data/devices/latest.json',
+                url: '/data/devices/latest.yml',
                 async: true,
-                dataType: 'JSON'
-            }).done(function (json) {
+                converters: {
+                    'text yaml': function (result) {
+                        return jsyaml.load(result);
+                    }
+                },
+                dataType: 'yaml'
+            }).done(function (yml) {
                 $.ajax({
-                    url: '/data/firmware_devices.json',
+                    url: '/data/firmware_devices.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function (result) {
+                            return jsyaml.load(result);
+                        }
+                    },
+                    dataType: 'yaml'
                 }).done(function (data) {
-                    json.forEach(function (item) {
+                    yml.forEach(function (item) {
                         item.name = data[item.filename.split('_')[1]];
                         devicesList.push(item);
                     });
@@ -155,9 +175,14 @@ function loadMiuiDownloads(device) {
         function fetchData() {
             var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/';
             $.ajax({
-                url: '/data/miui_codenames.json',
+                url: '/data/miui_codenames.yml',
                 async: true,
-                dataType: 'JSON'
+                converters: {
+                    'text yaml': function (result) {
+                        return jsyaml.load(result);
+                    }
+                },
+                dataType: 'yaml'
             }).done(function (data) {
                 if (!(data.includes(device))) {
                     url = url + 'EOL/';
@@ -167,40 +192,40 @@ function loadMiuiDownloads(device) {
                         url: url + 'stable_recovery/stable_recovery.yml',
                         async: true,
                         converters: {
-                            'text yaml': function(result) {
+                            'text yaml': function (result) {
                                 return jsyaml.load(result);
                             }
-                          },
+                        },
                         dataType: 'yaml'
                     }),
                     $.ajax({
                         url: url + 'stable_fastboot/stable_fastboot.yml',
                         async: true,
                         converters: {
-                            'text yaml': function(result) {
+                            'text yaml': function (result) {
                                 return jsyaml.load(result);
                             }
-                          },
+                        },
                         dataType: 'yaml'
                     }),
                     $.ajax({
                         url: url + 'weekly_recovery/weekly_recovery.yml',
                         async: true,
                         converters: {
-                            'text yaml': function(result) {
+                            'text yaml': function (result) {
                                 return jsyaml.load(result);
                             }
-                          },
+                        },
                         dataType: 'yaml'
                     }),
                     $.ajax({
                         url: url + 'weekly_fastboot/weekly_fastboot.yml',
                         async: true,
                         converters: {
-                            'text yaml': function(result) {
+                            'text yaml': function (result) {
                                 return jsyaml.load(result);
                             }
-                          },
+                        },
                         dataType: 'yaml'
                     })).done(function (stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot) {
                         updateDownloads(stable_recovery[0]);
@@ -300,80 +325,80 @@ function loadLatestMiui() {
                     url: url + 'stable_recovery/stable_recovery.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'stable_fastboot/stable_fastboot.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'weekly_recovery/weekly_recovery.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'weekly_fastboot/weekly_fastboot.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'EOL/stable_recovery/stable_recovery.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'EOL/stable_fastboot/stable_fastboot.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'EOL/weekly_recovery/weekly_recovery.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'EOL/weekly_fastboot/weekly_fastboot.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 })).done(function (stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot,
                     eol_stable_recovery, eol_stable_fastboot, eol_weekly_recovery, eol_weekly_fastboot) {
@@ -466,12 +491,16 @@ function loadMiuiStable() {
     $(document).ready(function () {
         var downloads = [];
         fetchData();
-
         function fetchData() {
             $.ajax({
-                url: '/data/miui_devices.json',
+                url: '/data/miui_devices.yml',
                 async: true,
-                dataType: 'JSON'
+                converters: {
+                    'text yaml': function (result) {
+                        return jsyaml.load(result);
+                    }
+                },
+                dataType: 'yaml'
             }).done(function (names) {
                 $.ajax({
                     url: 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-stable-archive/master/miui.json',
@@ -608,48 +637,53 @@ function loadMiuiArchive(device) {
             var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/archive/';
             $.when(
                 $.ajax({
-                    url: '/data/miui_devices.json',
+                    url: '/data/miui_devices.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function (result) {
+                            return jsyaml.load(result);
+                        }
+                    },
+                    dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'stable_recovery/stable_recovery.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'stable_fastboot/stable_fastboot.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'weekly_recovery/weekly_recovery.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 }),
                 $.ajax({
                     url: url + 'weekly_fastboot/weekly_fastboot.yml',
                     async: true,
                     converters: {
-                        'text yaml': function(result) {
+                        'text yaml': function (result) {
                             return jsyaml.load(result);
                         }
-                      },
+                    },
                     dataType: 'yaml'
                 })).done(function (names, stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot) {
                     devices = names[0];
@@ -732,8 +766,13 @@ function loadVendorDownloads(device, type) {
             "order": [[5, "desc"]],
             "ajax": {
                 "type": "GET",
-                "url": '/data/vendor/' + type + '/' + device + '.json',
-                dataType: 'JSON',
+                "url": '/data/vendor/' + type + '/' + device + '.yml',
+                converters: {
+                    'text yaml': function (result) {
+                        return jsyaml.load(result);
+                    }
+                },
+                dataType: 'yaml',
                 "dataSrc": ""
             },
             columnDefs: [
@@ -764,16 +803,26 @@ function loadLatestVendor() {
         function fetchData() {
             var devicesList = new Array();
             $.ajax({
-                url: '/data/vendor/latest.json',
+                url: '/data/vendor/latest.yml',
                 async: true,
-                dataType: 'JSON'
-            }).done(function (json) {
+                converters: {
+                    'text yaml': function (result) {
+                        return jsyaml.load(result);
+                    }
+                },
+                dataType: 'yaml'
+            }).done(function (yml) {
                 $.ajax({
-                    url: '/data/vendor_devices.json',
+                    url: '/data/vendor_devices.yml',
                     async: true,
-                    dataType: 'JSON'
+                    converters: {
+                        'text yaml': function (result) {
+                            return jsyaml.load(result);
+                        }
+                    },
+                    dataType: 'yaml'
                 }).done(function (data) {
-                    json.forEach(function (item) {
+                    yml.forEach(function (item) {
                         item.name = data[item.filename.split('_')[1]];
                         devicesList.push(item);
                     });

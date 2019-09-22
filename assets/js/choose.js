@@ -5,19 +5,34 @@ var miuiDevicesList = [];
 $(document).ready(function () {
     $.when(
         $.ajax({
-            url: '/data/firmware_devices.json',
+            url: '/data/firmware_devices.yml',
             async: true,
-            dataType: 'JSON'
+            converters: {
+                'text yaml': function (result) {
+                    return jsyaml.load(result);
+                }
+            },
+            dataType: 'yaml'
         }),
         $.ajax({
-            url: '/data/vendor_devices.json',
+            url: '/data/vendor_devices.yml',
             async: true,
-            dataType: 'JSON'
+            converters: {
+                'text yaml': function (result) {
+                    return jsyaml.load(result);
+                }
+            },
+            dataType: 'yaml'
         }),
         $.ajax({
-            url: '/data/miui_devices.json',
+            url: '/data/miui_devices.yml',
             async: true,
-            dataType: 'JSON'
+            converters: {
+                'text yaml': function (result) {
+                    return jsyaml.load(result);
+                }
+            },
+            dataType: 'yaml'
         })
     ).done(function (firmware_devices, vendor_devices, miui_devices) {
         Object.entries(firmware_devices[0]).forEach(
