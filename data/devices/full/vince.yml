@@ -1,0 +1,870 @@
+- branch: weekly
+  date: '2019-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-04.09.2019/fw_vince_miui_HM5Plus_9.9.2_38e86b99ac_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.2/vince/fw_vince_miui_HM5Plus_9.9.2_38e86b99ac_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.9.2_38e86b99ac_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.9.2
+- branch: weekly
+  date: '2019-08-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-16.08.2019/fw_vince_miui_HM5Plus_9.8.15_9e0a1aad8e_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.15/vince/fw_vince_miui_HM5Plus_9.8.15_9e0a1aad8e_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.8.15_9e0a1aad8e_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.8.15
+- branch: weekly
+  date: '2019-08-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-02.08.2019/fw_vince_miui_HM5Plus_9.8.1_3a0c4b5cf9_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/vince/fw_vince_miui_HM5Plus_9.8.1_3a0c4b5cf9_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.8.1_3a0c4b5cf9_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.8.1
+- branch: weekly
+  date: '2019-07-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-26.07.2019/fw_vince_miui_HM5Plus_9.7.25_5bed550eb3_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/vince/fw_vince_miui_HM5Plus_9.7.25_5bed550eb3_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.7.25_5bed550eb3_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.7.25
+- branch: weekly
+  date: '2019-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-19.07.2019/fw_vince_miui_HM5Plus_9.7.18_0ceb63d205_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/vince/fw_vince_miui_HM5Plus_9.7.18_0ceb63d205_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.7.18_0ceb63d205_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.7.18
+- branch: stable
+  date: '2019-07-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-12.07.2019/fw_vince_miui_HM5PlusGlobal_V10.2.3.0.OEGMIXM_062f670d34_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5PlusGlobal_V10.2.3.0.OEGMIXM_062f670d34_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_V10.2.3.0.OEGMIXM_062f670d34_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: V10.2.3.0.OEGMIXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-28.06.2019/fw_vince_miui_HM5Plus_9.6.27_d3eaa3fad0_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/vince/fw_vince_miui_HM5Plus_9.6.27_d3eaa3fad0_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.6.27_d3eaa3fad0_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-22.06.2019/fw_vince_miui_HM5Plus_9.6.20_d9385a043c_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/vince/fw_vince_miui_HM5Plus_9.6.20_d9385a043c_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.6.20_d9385a043c_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.6.20
+- branch: weekly
+  date: '2019-06-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-14.06.2019/fw_vince_miui_HM5Plus_9.6.13_05a1595325_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/vince/fw_vince_miui_HM5Plus_9.6.13_05a1595325_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.6.13_05a1595325_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.6.13
+- branch: weekly
+  date: '2019-05-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-31.05.2019/fw_vince_miui_HM5Plus_9.5.30_14e52d7aaf_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/vince/fw_vince_miui_HM5Plus_9.5.30_14e52d7aaf_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.5.30_14e52d7aaf_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.5.30
+- branch: weekly
+  date: '2019-05-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-24.05.2019/fw_vince_miui_HM5Plus_9.5.23_0f12a44523_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/vince/fw_vince_miui_HM5Plus_9.5.23_0f12a44523_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.5.23_0f12a44523_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.5.23
+- branch: weekly
+  date: '2019-05-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-17.05.2019/fw_vince_miui_HM5Plus_9.5.16_9b47cd5c74_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/vince/fw_vince_miui_HM5Plus_9.5.16_9b47cd5c74_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.5.16_9b47cd5c74_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.5.16
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-10.05.2019/fw_vince_miui_HM5Plus_9.5.9_45942882c9_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/vince/fw_vince_miui_HM5Plus_9.5.9_45942882c9_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.5.9_45942882c9_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.5.9
+- branch: weekly
+  date: '2019-04-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-26.04.2019/fw_vince_miui_HM5Plus_9.4.25_fb55e655ab_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/vince/fw_vince_miui_HM5Plus_9.4.25_fb55e655ab_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.4.25_fb55e655ab_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.4.25
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-19.04.2019/fw_vince_miui_HM5Plus_9.4.18_193fa09f58_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/vince/fw_vince_miui_HM5Plus_9.4.18_193fa09f58_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.4.18_193fa09f58_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.4.18
+- branch: stable
+  date: '2019-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-16.04.2019/fw_vince_miui_HM5PlusGlobal_V10.2.1.0.OEGMIXM_c9cb5eb7bb_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5PlusGlobal_V10.2.1.0.OEGMIXM_c9cb5eb7bb_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_V10.2.1.0.OEGMIXM_c9cb5eb7bb_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: V10.2.1.0.OEGMIXM
+- branch: stable
+  date: '2019-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-16.04.2019/fw_vince_miui_HM5Plus_V10.3.1.0.OEGCNXM_77c45f96cc_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5Plus_V10.3.1.0.OEGCNXM_77c45f96cc_8.1.zip
+  filename: fw_vince_miui_HM5Plus_V10.3.1.0.OEGCNXM_77c45f96cc_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V10.3.1.0.OEGCNXM
+- branch: weekly
+  date: '2019-04-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-12.04.2019/fw_vince_miui_HM5Plus_9.4.11_25a2e2b0e9_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.11/vince/fw_vince_miui_HM5Plus_9.4.11_25a2e2b0e9_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.4.11_25a2e2b0e9_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.4.11
+- branch: weekly
+  date: '2019-03-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-29.03.2019/fw_vince_miui_HM5Plus_9.3.28_4c21e62777_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/vince/fw_vince_miui_HM5Plus_9.3.28_4c21e62777_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.3.28_4c21e62777_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.3.28
+- branch: weekly
+  date: '2019-03-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-22.03.2019/fw_vince_miui_HM5Plus_9.3.21_e5faf9b300_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/vince/fw_vince_miui_HM5Plus_9.3.21_e5faf9b300_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.3.21_e5faf9b300_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.3.21
+- branch: weekly
+  date: '2019-03-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-15.03.2019/fw_vince_miui_HM5Plus_9.3.14_88b89f2af4_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/vince/fw_vince_miui_HM5Plus_9.3.14_88b89f2af4_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.3.14_88b89f2af4_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.3.14
+- branch: stable
+  date: '2019-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-12.03.2019/fw_vince_miui_HM5Plus_V10.2.4.0.OEGCNXM_c5fdb8aaa1_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5Plus_V10.2.4.0.OEGCNXM_c5fdb8aaa1_8.1.zip
+  filename: fw_vince_miui_HM5Plus_V10.2.4.0.OEGCNXM_c5fdb8aaa1_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V10.2.4.0.OEGCNXM
+- branch: weekly
+  date: '2019-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-11.03.2019/fw_vince_miui_HM5Plus_9.3.7_a64a1daa4a_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/vince/fw_vince_miui_HM5Plus_9.3.7_a64a1daa4a_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.3.7_a64a1daa4a_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.3.7
+- branch: weekly
+  date: '2019-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-04.03.2019/fw_vince_miui_HM5Plus_9.3.1_431b0a164f_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.1/vince/fw_vince_miui_HM5Plus_9.3.1_431b0a164f_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.3.1_431b0a164f_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.3.1
+- branch: stable
+  date: '2019-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-26.02.2019/fw_vince_miui_HM5Plus_V10.2.2.0.OEGCNFK_22597e1e2e_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5Plus_V10.2.2.0.OEGCNFK_22597e1e2e_8.1.zip
+  filename: fw_vince_miui_HM5Plus_V10.2.2.0.OEGCNFK_22597e1e2e_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V10.2.2.0.OEGCNFK
+- branch: weekly
+  date: '2019-02-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-22.02.2019/fw_vince_miui_HM5Plus_9.2.21_d78bedbf44_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/vince/fw_vince_miui_HM5Plus_9.2.21_d78bedbf44_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.2.21_d78bedbf44_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.2.21
+- branch: weekly
+  date: '2019-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-18.02.2019/fw_vince_miui_HM5Plus_9.2.15_2f3ae26a2b_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/vince/fw_vince_miui_HM5Plus_9.2.15_2f3ae26a2b_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.2.15_2f3ae26a2b_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.2.15
+- branch: weekly
+  date: '2019-01-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-25.01.2019/fw_vince_miui_HM5Plus_9.1.24_ec750370c3_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/vince/fw_vince_miui_HM5Plus_9.1.24_ec750370c3_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.1.24_ec750370c3_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.1.24
+- branch: weekly
+  date: '2019-01-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-18.01.2019/fw_vince_miui_HM5Plus_9.1.17_ab861abe8f_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/vince/fw_vince_miui_HM5Plus_9.1.17_ab861abe8f_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.1.17_ab861abe8f_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.1.17
+- branch: weekly
+  date: '2019-01-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-11.01.2019/fw_vince_miui_HM5Plus_9.1.10_5c08d87997_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/vince/fw_vince_miui_HM5Plus_9.1.10_5c08d87997_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.1.10_5c08d87997_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.1.10
+- branch: weekly
+  date: '2019-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-03.01.2019/fw_vince_miui_HM5Plus_9.1.1_7564fb21b6_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.1/vince/fw_vince_miui_HM5Plus_9.1.1_7564fb21b6_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.1.1_7564fb21b6_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.1.1
+- branch: weekly
+  date: '2018-12-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-28.12.2018/fw_vince_miui_HM5Plus_8.12.27_461c0a7044_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/vince/fw_vince_miui_HM5Plus_8.12.27_461c0a7044_8.1.zip
+  filename: fw_vince_miui_HM5Plus_8.12.27_461c0a7044_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.12.27
+- branch: stable
+  date: '2018-12-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-25.12.2018/fw_vince_miui_HM5Plus_V10.2.2.0.OEGCNFK_22597e1e2e_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5Plus_V10.2.2.0.OEGCNFK_22597e1e2e_8.1.zip
+  filename: fw_vince_miui_HM5Plus_V10.2.2.0.OEGCNFK_22597e1e2e_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V10.2.2.0.OEGCNFK
+- branch: weekly
+  date: '2018-12-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-21.12.2018/fw_vince_miui_HM5Plus_8.12.20_2f42719a27_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/vince/fw_vince_miui_HM5Plus_8.12.20_2f42719a27_8.1.zip
+  filename: fw_vince_miui_HM5Plus_8.12.20_2f42719a27_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.12.20
+- branch: weekly
+  date: '2018-12-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-20.12.2018/fw_vince_miui_HM5Plus_8.12.13_b6cb2bba2b_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/vince/fw_vince_miui_HM5Plus_8.12.13_b6cb2bba2b_8.1.zip
+  filename: fw_vince_miui_HM5Plus_8.12.13_b6cb2bba2b_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.12.13
+- branch: weekly
+  date: '2018-11-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-16.11.2018/fw_vince_miui_HM5PlusGlobal_8.11.15_dd40bfa136_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/vince/fw_vince_miui_HM5PlusGlobal_8.11.15_dd40bfa136_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.11.15_dd40bfa136_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.11.15
+- branch: stable
+  date: '2018-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-12.11.2018/fw_vince_miui_HM5PlusGlobal_V10.0.4.0.OEGMIFH_6ecc2f2148_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5PlusGlobal_V10.0.4.0.OEGMIFH_6ecc2f2148_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_V10.0.4.0.OEGMIFH_6ecc2f2148_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: V10.0.4.0.OEGMIFH
+- branch: weekly
+  date: '2018-11-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-05.11.2018/fw_vince_miui_HM5Plus_8.11.2_f2bb489682_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.2/vince/fw_vince_miui_HM5Plus_8.11.2_f2bb489682_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.11.2_f2bb489682_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.11.2
+- branch: weekly
+  date: '2018-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-26.10.2018/fw_vince_miui_HM5PlusGlobal_8.10.25_968d897e87_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/vince/fw_vince_miui_HM5PlusGlobal_8.10.25_968d897e87_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.10.25_968d897e87_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.10.25
+- branch: weekly
+  date: '2018-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-26.10.2018/fw_vince_miui_HM5Plus_8.10.25_55b500ece7_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/vince/fw_vince_miui_HM5Plus_8.10.25_55b500ece7_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.10.25_55b500ece7_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.10.25
+- branch: stable
+  date: '2018-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-24.10.2018/fw_vince_miui_HM5Plus_V10.1.1.0.NEGCNFI_f89e05b532_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5Plus_V10.1.1.0.NEGCNFI_f89e05b532_7.1.zip
+  filename: fw_vince_miui_HM5Plus_V10.1.1.0.NEGCNFI_f89e05b532_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V10.1.1.0.NEGCNFI
+- branch: weekly
+  date: '2018-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-19.10.2018/fw_vince_miui_HM5PlusGlobal_8.10.18_0e1216aeed_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/vince/fw_vince_miui_HM5PlusGlobal_8.10.18_0e1216aeed_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.10.18_0e1216aeed_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.10.18
+- branch: weekly
+  date: '2018-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-19.10.2018/fw_vince_miui_HM5Plus_8.10.18_443e580d5d_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/vince/fw_vince_miui_HM5Plus_8.10.18_443e580d5d_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.10.18_443e580d5d_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.10.18
+- branch: weekly
+  date: '2018-10-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-12.10.2018/fw_vince_miui_HM5PlusGlobal_8.10.11_026f9d6eed_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/vince/fw_vince_miui_HM5PlusGlobal_8.10.11_026f9d6eed_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.10.11_026f9d6eed_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.10.11
+- branch: weekly
+  date: '2018-10-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-12.10.2018/fw_vince_miui_HM5Plus_8.10.11_87dd95bb99_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/vince/fw_vince_miui_HM5Plus_8.10.11_87dd95bb99_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.10.11_87dd95bb99_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.10.11
+- branch: weekly
+  date: '2018-09-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-25.09.2018/fw_vince_miui_HM5Plus_8.9.13_ba9d52cae5_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/vince/fw_vince_miui_HM5Plus_8.9.13_ba9d52cae5_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.9.13_ba9d52cae5_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.9.13
+- branch: weekly
+  date: '2018-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-21.09.2018/fw_vince_miui_HM5Plus_8.9.20_5dfb75137e_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/vince/fw_vince_miui_HM5Plus_8.9.20_5dfb75137e_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.9.20_5dfb75137e_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.9.20
+- branch: weekly
+  date: '2018-09-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-14.09.2018/fw_vince_miui_HM5Plus_8.9.13_ba9d52cae5_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/vince/fw_vince_miui_HM5Plus_8.9.13_ba9d52cae5_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.9.13_ba9d52cae5_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.9.13
+- branch: weekly
+  date: '2018-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-13.09.2018/fw_vince_miui_HM5PlusGlobal_8.9.13_ab3c322bf4_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/vince/fw_vince_miui_HM5PlusGlobal_8.9.13_ab3c322bf4_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.9.13_ab3c322bf4_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.9.13
+- branch: weekly
+  date: '2018-09-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-07.09.2018/fw_vince_miui_HM5PlusGlobal_8.8.30_9ef3cb54af_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/vince/fw_vince_miui_HM5PlusGlobal_8.8.30_9ef3cb54af_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.8.30_9ef3cb54af_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.8.30
+- branch: weekly
+  date: '2018-09-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-07.09.2018/fw_vince_miui_HM5Plus_8.9.6_872f93e2fa_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/vince/fw_vince_miui_HM5Plus_8.9.6_872f93e2fa_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.9.6_872f93e2fa_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.9.6
+- branch: weekly
+  date: '2018-09-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-06.09.2018/fw_vince_miui_HM5PlusGlobal_8.9.6_e0d3a5e7cd_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/vince/fw_vince_miui_HM5PlusGlobal_8.9.6_e0d3a5e7cd_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.9.6_e0d3a5e7cd_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.9.6
+- branch: weekly
+  date: '2018-08-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-377158a44b0a2bdd8f09/fw_vince_miui_HM5Plus_8.8.30_c8f5a51b8f_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/vince/fw_vince_miui_HM5Plus_8.8.30_c8f5a51b8f_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.8.30_c8f5a51b8f_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.8.30
+- branch: weekly
+  date: '2018-08-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-30.08.2018/fw_vince_miui_HM5PlusGlobal_8.8.30_9ef3cb54af_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/vince/fw_vince_miui_HM5PlusGlobal_8.8.30_9ef3cb54af_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.8.30_9ef3cb54af_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.8.30
+- branch: weekly
+  date: '2018-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-29.08.2018/fw_vince_miui_HM5PlusGlobal_8.8.16_99cc382985_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/vince/fw_vince_miui_HM5PlusGlobal_8.8.16_99cc382985_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.8.16_99cc382985_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.8.16
+- branch: weekly
+  date: '2018-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-29.08.2018/fw_vince_miui_HM5Plus_8.8.23_1055238595_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/vince/fw_vince_miui_HM5Plus_8.8.23_1055238595_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.8.23_1055238595_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.8.23
+- branch: weekly
+  date: '2018-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-24.08.2018/fw_vince_miui_HM5Plus_8.8.23_1055238595_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/vince/fw_vince_miui_HM5Plus_8.8.23_1055238595_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.8.23_1055238595_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.8.23
+- branch: weekly
+  date: '2018-08-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-17.08.2018/fw_vince_miui_HM5PlusGlobal_8.8.16_99cc382985_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/vince/fw_vince_miui_HM5PlusGlobal_8.8.16_99cc382985_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.8.16_99cc382985_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.8.16
+- branch: weekly
+  date: '2018-08-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-17.08.2018/fw_vince_miui_HM5Plus_8.8.16_4e4a929170_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/vince/fw_vince_miui_HM5Plus_8.8.16_4e4a929170_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.8.16_4e4a929170_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.8.16
+- branch: weekly
+  date: '2018-08-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-10.08.2018/fw_vince_miui_HM5Plus_8.8.9_017a75c543_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/vince/fw_vince_miui_HM5Plus_8.8.9_017a75c543_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.8.9_017a75c543_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.8.9
+- branch: stable
+  date: '2018-08-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-07.08.2018/fw_vince_miui_HM5Plus_V9.6.3.0.NEGCNFD_3bfdee2ed1_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/vince/fw_vince_miui_HM5Plus_V9.6.3.0.NEGCNFD_3bfdee2ed1_7.1.zip
+  filename: fw_vince_miui_HM5Plus_V9.6.3.0.NEGCNFD_3bfdee2ed1_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V9.6.3.0.NEGCNFD
+- branch: weekly
+  date: '2018-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-06.08.2018/fw_vince_miui_HM5PlusGlobal_8.7.26_908cc913b8_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/vince/fw_vince_miui_HM5PlusGlobal_8.7.26_908cc913b8_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.7.26_908cc913b8_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.7.26
+- branch: weekly
+  date: '2018-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-06.08.2018/fw_vince_miui_HM5Plus_8.8.3_18270ac6e9_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/vince/fw_vince_miui_HM5Plus_8.8.3_18270ac6e9_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.8.3_18270ac6e9_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.8.3
+- branch: stable
+  date: '2018-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-06.08.2018/fw_vince_miui_HM5PlusGlobal_V9.6.4.0.NEGMIFD_325e87c267_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/vince/fw_vince_miui_HM5PlusGlobal_V9.6.4.0.NEGMIFD_325e87c267_7.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_V9.6.4.0.NEGMIFD_325e87c267_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: V9.6.4.0.NEGMIFD
+- branch: weekly
+  date: '2018-08-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-03.08.2018/fw_vince_miui_HM5PlusGlobal_8.8.2_79b3ebcbf8_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.2/vince/fw_vince_miui_HM5PlusGlobal_8.8.2_79b3ebcbf8_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.8.2_79b3ebcbf8_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.8.2
+- branch: weekly
+  date: '2018-07-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-27.07.2018/fw_vince_miui_HM5PlusGlobal_8.7.26_908cc913b8_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/vince/fw_vince_miui_HM5PlusGlobal_8.7.26_908cc913b8_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.7.26_908cc913b8_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.7.26
+- branch: weekly
+  date: '2018-07-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-27.07.2018/fw_vince_miui_HM5Plus_8.7.26_db3b53a895_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/vince/fw_vince_miui_HM5Plus_8.7.26_db3b53a895_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.7.26_db3b53a895_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.7.26
+- branch: stable
+  date: '2018-07-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-20.07.2018/fw_vince_miui_HM5PlusGlobal_V9.6.2.0.NEGMIFD_215b4ae3f2_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/vince/fw_vince_miui_HM5PlusGlobal_V9.6.2.0.NEGMIFD_215b4ae3f2_7.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_V9.6.2.0.NEGMIFD_215b4ae3f2_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: V9.6.2.0.NEGMIFD
+- branch: stable
+  date: '2018-07-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-20.07.2018/fw_vince_miui_HM5Plus_V9.6.2.0.NEGCNFD_f7a431e56c_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/vince/fw_vince_miui_HM5Plus_V9.6.2.0.NEGCNFD_f7a431e56c_7.1.zip
+  filename: fw_vince_miui_HM5Plus_V9.6.2.0.NEGCNFD_f7a431e56c_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V9.6.2.0.NEGCNFD
+- branch: weekly
+  date: '2018-07-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-20.07.2018/fw_vince_miui_HM5Plus_8.7.19_f61cddaa57_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/vince/fw_vince_miui_HM5Plus_8.7.19_f61cddaa57_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.7.19_f61cddaa57_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.7.19
+- branch: weekly
+  date: '2018-07-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-f341600cf2bf89cb092b/fw_vince_miui_HM5Plus_8.7.12_bbbe464d19_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/vince/fw_vince_miui_HM5Plus_8.7.12_bbbe464d19_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.7.12_bbbe464d19_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.7.12
+- branch: weekly
+  date: '2018-07-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-fa8c77406941751e4e18/fw_vince_miui_HM5PlusGlobal_V9.6.2.0.NEGMIFD_215b4ae3f2_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.NEGMIFD/vince/fw_vince_miui_HM5PlusGlobal_V9.6.2.0.NEGMIFD_215b4ae3f2_7.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_V9.6.2.0.NEGMIFD_215b4ae3f2_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: V9.6.2.0.NEGMIFD
+- branch: weekly
+  date: '2018-07-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-fa8c77406941751e4e18/fw_vince_miui_HM5Plus_V9.6.2.0.NEGCNFD_f7a431e56c_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.NEGCNFD/vince/fw_vince_miui_HM5Plus_V9.6.2.0.NEGCNFD_f7a431e56c_7.1.zip
+  filename: fw_vince_miui_HM5Plus_V9.6.2.0.NEGCNFD_f7a431e56c_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V9.6.2.0.NEGCNFD
+- branch: weekly
+  date: '2018-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-6bfcf8bd61585a060f4e/fw_vince_miui_HM5PlusGlobal_8.4.24_6b42bb9d12_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.24/vince/fw_vince_miui_HM5PlusGlobal_8.4.24_6b42bb9d12_7.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.4.24_6b42bb9d12_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: 8.4.24
+- branch: weekly
+  date: '2018-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-6bfcf8bd61585a060f4e/fw_vince_miui_HM5Plus_8.4.28_30b55d797c_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/vince/fw_vince_miui_HM5Plus_8.4.28_30b55d797c_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.4.28_30b55d797c_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.4.28
+- branch: weekly
+  date: '2018-07-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-90a7169462d495700506/fw_vince_miui_HM5Plus_8.4.28_30b55d797c_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.28/vince/fw_vince_miui_HM5Plus_8.4.28_30b55d797c_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.4.28_30b55d797c_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.4.28
+- branch: weekly
+  date: '2018-06-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-4313d3b12edc2be253db/fw_vince_miui_HM5PlusGlobal_V9.6.2.0.NEGMIFD_215b4ae3f2_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.NEGMIFD/vince/fw_vince_miui_HM5PlusGlobal_V9.6.2.0.NEGMIFD_215b4ae3f2_7.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_V9.6.2.0.NEGMIFD_215b4ae3f2_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: V9.6.2.0.NEGMIFD
+- branch: weekly
+  date: '2018-06-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-4313d3b12edc2be253db/fw_vince_miui_HM5Plus_V9.6.1.0.NEGCNFD_79e7bc7094_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.1.0.NEGCNFD/vince/fw_vince_miui_HM5Plus_V9.6.1.0.NEGCNFD_79e7bc7094_7.1.zip
+  filename: fw_vince_miui_HM5Plus_V9.6.1.0.NEGCNFD_79e7bc7094_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V9.6.1.0.NEGCNFD
+- branch: weekly
+  date: '2018-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-6efb87b2a79174e51136/fw_vince_miui_HM5PlusGlobal_V9.5.9.0.NEGMIFA_aa37ebca33_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.9.0.NEGMIFA/vince/fw_vince_miui_HM5PlusGlobal_V9.5.9.0.NEGMIFA_aa37ebca33_7.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_V9.5.9.0.NEGMIFA_aa37ebca33_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: V9.5.9.0.NEGMIFA
+- branch: weekly
+  date: '2018-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-6efb87b2a79174e51136/fw_vince_miui_HM5Plus_V9.5.5.0.NEGCNFA_cc67c331b1_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NEGCNFA/vince/fw_vince_miui_HM5Plus_V9.5.5.0.NEGCNFA_cc67c331b1_7.1.zip
+  filename: fw_vince_miui_HM5Plus_V9.5.5.0.NEGCNFA_cc67c331b1_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V9.5.5.0.NEGCNFA
+- branch: weekly
+  date: '2018-05-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-4d6964701aed4418e4df/fw_vince_miui_HM5PlusGlobal_V9.5.4.0.NEGMIFA_f989035458_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.NEGMIFA/vince/fw_vince_miui_HM5PlusGlobal_V9.5.4.0.NEGMIFA_f989035458_7.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_V9.5.4.0.NEGMIFA_f989035458_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: V9.5.4.0.NEGMIFA
+- branch: weekly
+  date: '2018-05-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-4d6964701aed4418e4df/fw_vince_miui_HM5Plus_V9.5.4.0.NEGCNFA_95bfdc8361_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.NEGCNFA/vince/fw_vince_miui_HM5Plus_V9.5.4.0.NEGCNFA_95bfdc8361_7.1.zip
+  filename: fw_vince_miui_HM5Plus_V9.5.4.0.NEGCNFA_95bfdc8361_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V9.5.4.0.NEGCNFA
+- branch: weekly
+  date: '2018-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-87a12c45fd9cf6f65514/fw_vince_miui_HM5Plus_8.4.26_aecc00909c_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/vince/fw_vince_miui_HM5Plus_8.4.26_aecc00909c_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.4.26_aecc00909c_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.4.26
+- branch: weekly
+  date: '2018-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-b0a298f43f312077d487/fw_vince_miui_HM5PlusGlobal_8.4.19_ec7d1e2a5d_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/vince/fw_vince_miui_HM5PlusGlobal_8.4.19_ec7d1e2a5d_7.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.4.19_ec7d1e2a5d_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: 8.4.19
+- branch: weekly
+  date: '2018-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-b0a298f43f312077d487/fw_vince_miui_HM5Plus_8.4.19_a7ffec63eb_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/vince/fw_vince_miui_HM5Plus_8.4.19_a7ffec63eb_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.4.19_a7ffec63eb_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.4.19
+- branch: weekly
+  date: '2018-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-b45cff466fc171438a31/fw_vince_miui_HM5PlusGlobal_8.3.29_c79631bb41_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.3.29/vince/fw_vince_miui_HM5PlusGlobal_8.3.29_c79631bb41_7.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_8.3.29_c79631bb41_7.1.zip
+  region: Global
+  versions:
+    android: '7.1'
+    miui: 8.3.29
+- branch: weekly
+  date: '2018-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/untagged-b45cff466fc171438a31/fw_vince_miui_HM5Plus_8.4.12_560621d84a_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/vince/fw_vince_miui_HM5Plus_8.4.12_560621d84a_7.1.zip
+  filename: fw_vince_miui_HM5Plus_8.4.12_560621d84a_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: 8.4.12

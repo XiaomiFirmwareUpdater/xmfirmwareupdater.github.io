@@ -40,8 +40,8 @@ def load_names():
             else:
                 codename = check
         NAMES.update({codename: name})
-    with open('../data/names.json', 'w') as out:
-        json.dump(NAMES, out, indent=1)
+    with open('../data/names.yml', 'w') as out:
+        yaml.dump(NAMES, out, Dumper=yaml.CDumper)
 
 
 def load_fw_devices():
@@ -53,11 +53,11 @@ def load_fw_devices():
             device = repo['name'].split('_')[-1]
             FW_CODENAMES.append(device)
     FW_CODENAMES.sort()
-    with open('../data/firmware_codenames.json', 'w') as out:
-        json.dump(FW_CODENAMES, out, indent=1)
+    with open('../data/firmware_codenames.yml', 'w') as out:
+        yaml.dump(FW_CODENAMES, out, Dumper=yaml.CDumper)
     FW_DEVICES.update({codename: NAMES[codename] for codename in FW_CODENAMES})
-    with open('../data/firmware_devices.json', 'w') as out:
-        json.dump(FW_DEVICES, out, indent=1)
+    with open('../data/firmware_devices.yml', 'w') as out:
+        yaml.dump(FW_DEVICES, out, Dumper=yaml.CDumper)
 
 
 def load_releases():
@@ -70,7 +70,7 @@ def load_releases():
         url = f'https://api.github.com/repos/XiaomiFirmwareUpdater/' \
               f'firmware_xiaomi_{device}/releases?per_page=200&access_token={GIT_TOKEN}'
         data = get(url).json()
-        # Generate all releases JSON
+        # Generate all releases YAML
         for item in data:
             # if 'untagged' in item['tag_name']:
             #     continue
@@ -110,8 +110,8 @@ def load_releases():
                                'osdn': osdn},
                            'filename': filename}
                 info.append(release)
-        with open(f'../data/devices/full/{device}.json', 'w') as out:
-            json.dump(info, out, indent=1)
+        with open(f'../data/devices/full/{device}.yml', 'w') as out:
+            yaml.dump(info, out, Dumper=yaml.CDumper)
         # Generate latest releases
         latest = []
 
@@ -124,12 +124,12 @@ def load_releases():
 
         for i in VARIANTS:
             filter_latest(i[0], i[1])
-        with open(f'../data/devices/latest/{device}.json', 'w') as out:
-            json.dump(latest, out, indent=1)
+        with open(f'../data/devices/latest/{device}.yml', 'w') as out:
+            yaml.dump(latest, out, Dumper=yaml.CDumper)
         for i in latest:
             all_latest.append(i)
-    with open('../data/devices/latest.json', 'w') as out:
-        json.dump(all_latest, out, indent=1)
+    with open('../data/devices/latest.yml', 'w') as out:
+        yaml.dump(all_latest, out, Dumper=yaml.CDumper)
 
 
 def generate_fw_md():
@@ -211,8 +211,8 @@ def load_miui_devices():
         M_CODENAMES.append(codename)
     for codename in ['tissot', 'jasmine', 'daisy', 'tiare', 'laurel']:
         M_CODENAMES.append(codename)
-    with open('../data/miui_codenames.json', 'w') as out:
-        json.dump(M_CODENAMES, out, indent=1)
+    with open('../data/miui_codenames.yml', 'w') as out:
+        yaml.dump(M_CODENAMES, out, Dumper=yaml.CDumper)
     eol = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
                         'miui-updates-tracker/master/EOL/sf.yml').content, Loader=yaml.CLoader)
     for codename in eol:
@@ -224,8 +224,8 @@ def load_miui_devices():
                 codename = check
         M_CODENAMES.append(codename)
     M_DEVICES.update({codename: NAMES[codename] for codename in M_CODENAMES})
-    with open('../data/miui_devices.json', 'w') as out:
-        json.dump(M_DEVICES, out, indent=1)
+    with open('../data/miui_devices.yml', 'w') as out:
+        yaml.dump(M_DEVICES, out, Dumper=yaml.CDumper)
 
 
 def generate_miui_md():
@@ -318,15 +318,15 @@ def load_vendor_devices():
         codenames.add(release['tag_name'].split('_')[0].split('-')[0])
     codenames = list(codenames)
     codenames.sort()
-    with open('../data/vendor_codenames.json', 'w') as out:
-        json.dump(codenames, out, indent=1)
+    with open('../data/vendor_codenames.yml', 'w') as out:
+        yaml.dump(codenames, out, Dumper=yaml.CDumper)
     for codename in codenames:
         try:
             V_DEVICES.update({codename: NAMES[codename]})
         except KeyError:
             continue
-    with open('../data/vendor_devices.json', 'w') as out:
-        json.dump(V_DEVICES, out, indent=1)
+    with open('../data/vendor_devices.yml', 'w') as out:
+        yaml.dump(V_DEVICES, out, Dumper=yaml.CDumper)
     all_latest = []
     for codename in codenames:
         releases = [i for i in data if i['tag_name'].split('_')[0].split('-')[0] == codename]
@@ -370,9 +370,9 @@ def load_vendor_devices():
                            'filename': filename,
                            'size': filesize}
                 full.append(release)
-        with open(f'../data/vendor/full/{codename}.json', 'w') as out:
-            json.dump(full, out, indent=1)
-            # Generate latest releases JSON
+        with open(f'../data/vendor/full/{codename}.yml', 'w') as out:
+            yaml.dump(full, out, Dumper=yaml.CDumper)
+            # Generate latest releases YAML
             latest = []
 
             def filter_latest(branch_, region_):
@@ -386,12 +386,12 @@ def load_vendor_devices():
 
             for i in VARIANTS:
                 filter_latest(i[0], i[1])
-        with open(f'../data/vendor/latest/{codename}.json', 'w') as out:
-            json.dump(latest, out, indent=1)
+        with open(f'../data/vendor/latest/{codename}.yml', 'w') as out:
+            yaml.dump(latest, out, Dumper=yaml.CDumper)
         for i in latest:
             all_latest.append(i)
-    with open('../data/vendor/latest.json', 'w') as out:
-        json.dump(all_latest, out, indent=1)
+    with open('../data/vendor/latest.yml', 'w') as out:
+        yaml.dump(all_latest, out, Dumper=yaml.CDumper)
     header = '''---
 title: $name ($codename) Vendor Downloads
 layout: download

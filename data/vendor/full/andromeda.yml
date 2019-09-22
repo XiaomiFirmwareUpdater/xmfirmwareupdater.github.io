@@ -1,0 +1,44 @@
+- branch: stable
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda_global-stable/fw-vendor_andromeda_global_V10.3.18.0.PEMMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda_global-stable/fw-vendor_andromeda_global_V10.3.18.0.PEMMIXM.zip/download
+  filename: fw-vendor_andromeda_global_V10.3.18.0.PEMMIXM.zip
+  region: Global
+  size: 625.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.18.0.PEMMIXM
+- branch: stable
+  date: '2019-08-08'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda_global-stable/fw-vendor_andromeda_global_V10.3.19.0.PEMMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda_global-stable/fw-vendor_andromeda_global_V10.3.19.0.PEMMIXM.zip/download
+  filename: fw-vendor_andromeda_global_V10.3.19.0.PEMMIXM.zip
+  region: Global
+  size: 623.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.19.0.PEMMIXM
+- branch: stable
+  date: '2019-06-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda-stable/fw-vendor_andromeda_V10.3.16.0.PEMCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda-stable/fw-vendor_andromeda_V10.3.16.0.PEMCNXM.zip/download
+  filename: fw-vendor_andromeda_V10.3.16.0.PEMCNXM.zip
+  region: China
+  size: 616.8 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.16.0.PEMCNXM
+- branch: stable
+  date: '2019-08-08'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda-stable/fw-vendor_andromeda_V10.3.17.0.PEMCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda-stable/fw-vendor_andromeda_V10.3.17.0.PEMCNXM.zip/download
+  filename: fw-vendor_andromeda_V10.3.17.0.PEMCNXM.zip
+  region: China
+  size: 624.6 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.17.0.PEMCNXM

@@ -1,0 +1,11 @@
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cappu-weekly/fw-vendor_cappu_miui_MIPAD3_9.3.28_c45cc79b92_7.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cappu-weekly/fw-vendor_cappu_miui_MIPAD3_9.3.28_c45cc79b92_7.0.zip/download
+  filename: fw-vendor_cappu_miui_MIPAD3_9.3.28_c45cc79b92_7.0.zip
+  region: China
+  size: 5.6 MB
+  versions:
+    android: '7.0'
+    miui: 9.3.28

@@ -1,0 +1,22 @@
+- branch: stable
+  date: '2019-07-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-stable/fw-vendor_clover_V10.3.2.0.ODJCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-stable/fw-vendor_clover_V10.3.2.0.ODJCNXM.zip/download
+  filename: fw-vendor_clover_V10.3.2.0.ODJCNXM.zip
+  region: China
+  size: 294.4 MB
+  versions:
+    android: '8.1'
+    miui: V10.3.2.0.ODJCNXM
+- branch: weekly
+  date: '2019-09-02'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.8.29.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_9.8.29.zip/download
+  filename: fw-vendor_clover_9.8.29.zip
+  region: China
+  size: 318.7 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.29

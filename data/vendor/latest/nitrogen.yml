@@ -1,0 +1,44 @@
+- branch: stable
+  date: '2019-07-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_global-stable/fw-vendor_nitrogen_global_V10.3.3.0.PEDMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_global-stable/fw-vendor_nitrogen_global_V10.3.3.0.PEDMIXM.zip/download
+  filename: fw-vendor_nitrogen_global_V10.3.3.0.PEDMIXM.zip
+  region: Global
+  size: 408.4 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PEDMIXM
+- branch: stable
+  date: '2019-06-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen-stable/fw-vendor_nitrogen_V10.3.1.0.PEDCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen-stable/fw-vendor_nitrogen_V10.3.1.0.PEDCNXM.zip/download
+  filename: fw-vendor_nitrogen_V10.3.1.0.PEDCNXM.zip
+  region: China
+  size: 408.6 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PEDCNXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_global-weekly/fw-vendor_nitrogen_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_global-weekly/fw-vendor_nitrogen_global_9.6.27.zip/download
+  filename: fw-vendor_nitrogen_global_9.6.27.zip
+  region: Global
+  size: 432.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen-weekly/fw-vendor_nitrogen_miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen-weekly/fw-vendor_nitrogen_miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip/download
+  filename: fw-vendor_nitrogen_miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip
+  region: China
+  size: 586.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3

@@ -1,0 +1,11 @@
+- branch: stable
+  date: '2019-09-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tulip_global-stable/fw-vendor_tulip_global_V10.3.6.0.PEKMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tulip_global-stable/fw-vendor_tulip_global_V10.3.6.0.PEKMIXM.zip/download
+  filename: fw-vendor_tulip_global_V10.3.6.0.PEKMIXM.zip
+  region: Global
+  size: 354.4 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.6.0.PEKMIXM

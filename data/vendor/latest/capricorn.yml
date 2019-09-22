@@ -1,0 +1,22 @@
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/capricorn_global-weekly/fw-vendor_capricorn_miui_MI5SGlobal_9.3.28_f05204fe0d_8.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/capricorn_global-weekly/fw-vendor_capricorn_miui_MI5SGlobal_9.3.28_f05204fe0d_8.0.zip/download
+  filename: fw-vendor_capricorn_miui_MI5SGlobal_9.3.28_f05204fe0d_8.0.zip
+  region: Global
+  size: 56.1 MB
+  versions:
+    android: '8.0'
+    miui: 9.3.28
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/capricorn-weekly/fw-vendor_capricorn_miui_MI5S_9.3.28_f7a82da6fa_8.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/capricorn-weekly/fw-vendor_capricorn_miui_MI5S_9.3.28_f7a82da6fa_8.0.zip/download
+  filename: fw-vendor_capricorn_miui_MI5S_9.3.28_f7a82da6fa_8.0.zip
+  region: China
+  size: 56.1 MB
+  versions:
+    android: '8.0'
+    miui: 9.3.28

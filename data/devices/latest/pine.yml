@@ -1,0 +1,40 @@
+- branch: stable
+  date: '2019-08-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-23.08.2019/fw_pine_miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip
+  filename: fw_pine_miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.2.5.0.PCMMIXM
+- branch: stable
+  date: '2019-09-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-18.09.2019/fw_pine_miui_PINE_V10.2.10.0.PCMCNXM_1596600083_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINE_V10.2.10.0.PCMCNXM_1596600083_9.0.zip
+  filename: fw_pine_miui_PINE_V10.2.10.0.PCMCNXM_1596600083_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.10.0.PCMCNXM
+- branch: stable
+  date: '2019-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-13.08.2019/fw_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
+  filename: fw_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V10.2.5.0.PCMEUXM
+- branch: stable
+  date: '2019-08-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-23.08.2019/fw_pine_miui_PINEINGlobal_V10.2.7.0.PCMINXM_1344cd0915_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINEINGlobal_V10.2.7.0.PCMINXM_1344cd0915_9.0.zip
+  filename: fw_pine_miui_PINEINGlobal_V10.2.7.0.PCMINXM_1344cd0915_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V10.2.7.0.PCMINXM
