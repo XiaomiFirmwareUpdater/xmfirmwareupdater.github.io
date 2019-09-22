@@ -1,0 +1,11 @@
+- branch: stable
+  date: '2019-09-20'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.2.0.PCOCNXM_47241996dd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.2.0.PCOCNXM_47241996dd_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V10.3.2.0.PCOCNXM_47241996dd_9.0.zip
+  region: China
+  size: 328.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PCOCNXM

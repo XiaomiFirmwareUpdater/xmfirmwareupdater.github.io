@@ -1,0 +1,341 @@
+- branch: stable
+  date: '2019-06-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.2.0.PDMMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.2.0.PDMMIXM.zip/download
+  filename: fw-vendor_sakura_india_global_V10.3.2.0.PDMMIXM.zip
+  region: Global
+  size: 249.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PDMMIXM
+- branch: stable
+  date: '2019-07-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip/download
+  filename: fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip
+  region: Global
+  size: 249.4 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PDMMIXM
+- branch: weekly
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura-india_miui_HM6ProINGlobal_9.4.12_3007717542_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura-india_miui_HM6ProINGlobal_9.4.12_3007717542_9.0.zip/download
+  filename: fw-vendor_sakura-india_miui_HM6ProINGlobal_9.4.12_3007717542_9.0.zip
+  region: Global
+  size: 249.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura-india_miui_HM6ProINGlobal_9.4.18_4aa3618ad9_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura-india_miui_HM6ProINGlobal_9.4.18_4aa3618ad9_9.0.zip/download
+  filename: fw-vendor_sakura-india_miui_HM6ProINGlobal_9.4.18_4aa3618ad9_9.0.zip
+  region: Global
+  size: 249.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
+- branch: weekly
+  date: '2019-04-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.4.25.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.4.25.zip/download
+  filename: fw-vendor_sakura_india_global_9.4.25.zip
+  region: Global
+  size: 259.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.25
+- branch: weekly
+  date: '2019-05-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.5.16.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.5.16.zip/download
+  filename: fw-vendor_sakura_india_global_9.5.16.zip
+  region: Global
+  size: 259.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.16
+- branch: weekly
+  date: '2019-05-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.5.23.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.5.23.zip/download
+  filename: fw-vendor_sakura_india_global_9.5.23.zip
+  region: Global
+  size: 259.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.23
+- branch: weekly
+  date: '2019-06-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.5.30.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.5.30.zip/download
+  filename: fw-vendor_sakura_india_global_9.5.30.zip
+  region: Global
+  size: 259.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.30
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.5.9.zip/download
+  filename: fw-vendor_sakura_india_global_9.5.9.zip
+  region: Global
+  size: 259.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
+- branch: weekly
+  date: '2019-06-14'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.6.13.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.6.13.zip/download
+  filename: fw-vendor_sakura_india_global_9.6.13.zip
+  region: Global
+  size: 259.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.13
+- branch: weekly
+  date: '2019-06-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.6.20.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.6.20.zip/download
+  filename: fw-vendor_sakura_india_global_9.6.20.zip
+  region: Global
+  size: 259.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.20
+- branch: weekly
+  date: '2019-06-29'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.6.27.zip/download
+  filename: fw-vendor_sakura_india_global_9.6.27.zip
+  region: Global
+  size: 259.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-04-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.4.25.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.4.25.zip/download
+  filename: fw-vendor_sakura_9.4.25.zip
+  region: China
+  size: 265.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.25
+- branch: weekly
+  date: '2019-05-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.5.16.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.5.16.zip/download
+  filename: fw-vendor_sakura_9.5.16.zip
+  region: China
+  size: 265.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.16
+- branch: weekly
+  date: '2019-05-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.5.23.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.5.23.zip/download
+  filename: fw-vendor_sakura_9.5.23.zip
+  region: China
+  size: 265.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.23
+- branch: weekly
+  date: '2019-06-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.5.30.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.5.30.zip/download
+  filename: fw-vendor_sakura_9.5.30.zip
+  region: China
+  size: 265.3 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.30
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.5.9.zip/download
+  filename: fw-vendor_sakura_9.5.9.zip
+  region: China
+  size: 265.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
+- branch: weekly
+  date: '2019-06-14'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.6.13.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.6.13.zip/download
+  filename: fw-vendor_sakura_9.6.13.zip
+  region: China
+  size: 265.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.13
+- branch: weekly
+  date: '2019-06-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.6.20.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.6.20.zip/download
+  filename: fw-vendor_sakura_9.6.20.zip
+  region: China
+  size: 265.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.20
+- branch: weekly
+  date: '2019-07-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.7.11.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.7.11.zip/download
+  filename: fw-vendor_sakura_9.7.11.zip
+  region: China
+  size: 265.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.11
+- branch: weekly
+  date: '2019-07-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.7.18.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.7.18.zip/download
+  filename: fw-vendor_sakura_9.7.18.zip
+  region: China
+  size: 265.9 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.18
+- branch: weekly
+  date: '2019-07-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.7.25.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.7.25.zip/download
+  filename: fw-vendor_sakura_9.7.25.zip
+  region: China
+  size: 342.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.25
+- branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.7.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.7.4.zip/download
+  filename: fw-vendor_sakura_9.7.4.zip
+  region: China
+  size: 265.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.4
+- branch: weekly
+  date: '2019-08-02'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.8.1.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.8.1.zip/download
+  filename: fw-vendor_sakura_9.8.1.zip
+  region: China
+  size: 356.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.1
+- branch: weekly
+  date: '2019-08-16'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.8.15.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.8.15.zip/download
+  filename: fw-vendor_sakura_9.8.15.zip
+  region: China
+  size: 356.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.15
+- branch: weekly
+  date: '2019-08-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_9.8.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_9.8.9.zip/download
+  filename: fw-vendor_sakura_9.8.9.zip
+  region: China
+  size: 355.7 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.9
+- branch: weekly
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_miui_HM6Pro_9.4.12_87356b0004_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_miui_HM6Pro_9.4.12_87356b0004_9.0.zip/download
+  filename: fw-vendor_sakura_miui_HM6Pro_9.4.12_87356b0004_9.0.zip
+  region: China
+  size: 255.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_miui_HM6Pro_9.4.18_d60707ca1c_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_miui_HM6Pro_9.4.18_d60707ca1c_9.0.zip/download
+  filename: fw-vendor_sakura_miui_HM6Pro_9.4.18_d60707ca1c_9.0.zip
+  region: China
+  size: 255.3 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_miui_HM6Pro_9.9.3_1201e8f9ea_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_miui_HM6Pro_9.9.3_1201e8f9ea_9.0.zip/download
+  filename: fw-vendor_sakura_miui_HM6Pro_9.9.3_1201e8f9ea_9.0.zip
+  region: China
+  size: 356.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
+- branch: stable
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-stable/fw-vendor_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-stable/fw-vendor_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip/download
+  filename: fw-vendor_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip
+  region: China
+  size: 255.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PDICNXM
+- branch: stable
+  date: '2019-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-stable/fw-vendor_sakura_V10.3.4.0.PDICNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-stable/fw-vendor_sakura_V10.3.4.0.PDICNXM.zip/download
+  filename: fw-vendor_sakura_V10.3.4.0.PDICNXM.zip
+  region: China
+  size: 255.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.4.0.PDICNXM

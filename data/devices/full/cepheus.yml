@@ -1,0 +1,400 @@
+- branch: stable
+  date: '2019-09-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-16.09.2019/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.30.0.PFAEUXM_82c5904459_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V10.2.30.0.PFAEUXM
+- branch: stable
+  date: '2019-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-13.09.2019/fw_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.35.0.PFACNXM
+- branch: stable
+  date: '2019-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-29.08.2019/fw_cepheus_miui_CEPHEUS_V10.2.33.0.PFACNXM_1177490638_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.33.0.PFACNXM_1177490638_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V10.2.33.0.PFACNXM_1177490638_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.33.0.PFACNXM
+- branch: stable
+  date: '2019-07-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-29.07.2019/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.28.0.PFAEUXM_ac05750e9a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.28.0.PFAEUXM_ac05750e9a_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.28.0.PFAEUXM_ac05750e9a_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V10.2.28.0.PFAEUXM
+- branch: stable
+  date: '2019-07-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-29.07.2019/fw_cepheus_miui_CEPHEUSGlobal_V10.2.13.0.PFAMIXM_b529c3de07_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V10.2.13.0.PFAMIXM_b529c3de07_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_V10.2.13.0.PFAMIXM_b529c3de07_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.2.13.0.PFAMIXM
+- branch: weekly
+  date: '2019-07-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-24.07.2019/fw_cepheus_miui_CEPHEUS_9.7.22_e73316ebc9_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.22/cepheus/fw_cepheus_miui_CEPHEUS_9.7.22_e73316ebc9_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.7.22_e73316ebc9_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.7.22
+- branch: stable
+  date: '2019-07-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-18.07.2019/fw_cepheus_miui_CEPHEUS_V10.2.31.0.PFACNXM_89ce642dca_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.31.0.PFACNXM_89ce642dca_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V10.2.31.0.PFACNXM_89ce642dca_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.31.0.PFACNXM
+- branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-05.07.2019/fw_cepheus_miui_CEPHEUS_9.7.4_fc77c03cfa_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/cepheus/fw_cepheus_miui_CEPHEUS_9.7.4_fc77c03cfa_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.7.4_fc77c03cfa_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.7.4
+- branch: stable
+  date: '2019-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-01.07.2019/fw_cepheus_miui_CEPHEUS_V10.2.29.0.PFACNXM_f112af8389_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.29.0.PFACNXM_f112af8389_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V10.2.29.0.PFACNXM_f112af8389_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.29.0.PFACNXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-28.06.2019/fw_cepheus_miui_CEPHEUSGlobal_9.6.27_2b17a775d2_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/cepheus/fw_cepheus_miui_CEPHEUSGlobal_9.6.27_2b17a775d2_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_9.6.27_2b17a775d2_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-28.06.2019/fw_cepheus_miui_CEPHEUS_9.6.27_dee02ebc00_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/cepheus/fw_cepheus_miui_CEPHEUS_9.6.27_dee02ebc00_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.6.27_dee02ebc00_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: stable
+  date: '2019-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-22.06.2019/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.26.0.PFAEUXM_4f78480317_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.26.0.PFAEUXM_4f78480317_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.26.0.PFAEUXM_4f78480317_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V10.2.26.0.PFAEUXM
+- branch: weekly
+  date: '2019-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-22.06.2019/fw_cepheus_miui_CEPHEUSGlobal_9.6.20_b2682ddf03_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/cepheus/fw_cepheus_miui_CEPHEUSGlobal_9.6.20_b2682ddf03_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_9.6.20_b2682ddf03_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.6.20
+- branch: weekly
+  date: '2019-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-22.06.2019/fw_cepheus_miui_CEPHEUS_9.6.20_080e335e4f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/cepheus/fw_cepheus_miui_CEPHEUS_9.6.20_080e335e4f_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.6.20_080e335e4f_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.6.20
+- branch: weekly
+  date: '2019-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-19.06.2019/fw_cepheus_miui_CEPHEUS_9.6.17_d6d023ce17_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.17/cepheus/fw_cepheus_miui_CEPHEUS_9.6.17_d6d023ce17_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.6.17_d6d023ce17_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.6.17
+- branch: weekly
+  date: '2019-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-17.06.2019/fw_cepheus_miui_CEPHEUSGlobal_9.6.13_1085696856_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/cepheus/fw_cepheus_miui_CEPHEUSGlobal_9.6.13_1085696856_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_9.6.13_1085696856_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.6.13
+- branch: weekly
+  date: '2019-06-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-10.06.2019/fw_cepheus_miui_CEPHEUS_9.6.5_071181921f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.5/cepheus/fw_cepheus_miui_CEPHEUS_9.6.5_071181921f_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.6.5_071181921f_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.6.5
+- branch: weekly
+  date: '2019-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-03.06.2019/fw_cepheus_miui_CEPHEUSGlobal_9.5.30_4b49937bab_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/cepheus/fw_cepheus_miui_CEPHEUSGlobal_9.5.30_4b49937bab_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_9.5.30_4b49937bab_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.5.30
+- branch: weekly
+  date: '2019-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-03.06.2019/fw_cepheus_miui_CEPHEUS_9.5.30_3896044454_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/cepheus/fw_cepheus_miui_CEPHEUS_9.5.30_3896044454_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.5.30_3896044454_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.5.30
+- branch: weekly
+  date: '2019-05-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-17.05.2019/fw_cepheus_miui_CEPHEUSGlobal_9.5.16_fa9c66200f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/cepheus/fw_cepheus_miui_CEPHEUSGlobal_9.5.16_fa9c66200f_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_9.5.16_fa9c66200f_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.5.16
+- branch: weekly
+  date: '2019-05-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-17.05.2019/fw_cepheus_miui_CEPHEUS_9.5.16_52cdcb354a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/cepheus/fw_cepheus_miui_CEPHEUS_9.5.16_52cdcb354a_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.5.16_52cdcb354a_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.5.16
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-10.05.2019/fw_cepheus_miui_CEPHEUSGlobal_9.5.9_2ae48083bf_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/cepheus/fw_cepheus_miui_CEPHEUSGlobal_9.5.9_2ae48083bf_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_9.5.9_2ae48083bf_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.5.9
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-10.05.2019/fw_cepheus_miui_CEPHEUS_9.5.9_c70d71d568_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/cepheus/fw_cepheus_miui_CEPHEUS_9.5.9_c70d71d568_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.5.9_c70d71d568_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.5.9
+- branch: stable
+  date: '2019-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-08.05.2019/fw_cepheus_miui_CEPHEUS_V10.2.25.0.PFACNXM_b2fea621fa_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.25.0.PFACNXM_b2fea621fa_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V10.2.25.0.PFACNXM_b2fea621fa_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.25.0.PFACNXM
+- branch: weekly
+  date: '2019-05-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-01.05.2019/fw_cepheus_miui_CEPHEUSGlobal_9.4.26_257a731d05_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.26/cepheus/fw_cepheus_miui_CEPHEUSGlobal_9.4.26_257a731d05_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_9.4.26_257a731d05_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.4.26
+- branch: weekly
+  date: '2019-05-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-01.05.2019/fw_cepheus_miui_CEPHEUS_9.5.1_d102879458_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.1/cepheus/fw_cepheus_miui_CEPHEUS_9.5.1_d102879458_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.5.1_d102879458_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.5.1
+- branch: weekly
+  date: '2019-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-29.04.2019/fw_cepheus_miui_CEPHEUS_9.4.26_d22d37132a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.26/cepheus/fw_cepheus_miui_CEPHEUS_9.4.26_d22d37132a_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.4.26_d22d37132a_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.4.26
+- branch: stable
+  date: '2019-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-29.04.2019/fw_cepheus_miui_CEPHEUSGlobal_V10.2.9.0.PFAMIXM_45a4e7920a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V10.2.9.0.PFAMIXM_45a4e7920a_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_V10.2.9.0.PFAMIXM_45a4e7920a_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.2.9.0.PFAMIXM
+- branch: stable
+  date: '2019-04-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-26.04.2019/fw_cepheus_miui_CEPHEUSGlobal_V10.2.6.0.PFAMIXM_d7e98c65f0_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V10.2.6.0.PFAMIXM_d7e98c65f0_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_V10.2.6.0.PFAMIXM_d7e98c65f0_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.2.6.0.PFAMIXM
+- branch: weekly
+  date: '2019-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-20.04.2019/fw_cepheus_miui_CEPHEUSGlobal_9.4.18_f5dcef71c6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/cepheus/fw_cepheus_miui_CEPHEUSGlobal_9.4.18_f5dcef71c6_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_9.4.18_f5dcef71c6_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.4.18
+- branch: weekly
+  date: '2019-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-20.04.2019/fw_cepheus_miui_CEPHEUS_9.4.18_ac3d9462d7_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/cepheus/fw_cepheus_miui_CEPHEUS_9.4.18_ac3d9462d7_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.4.18_ac3d9462d7_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.4.18
+- branch: stable
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-19.04.2019/fw_cepheus_miui_CEPHEUS_V10.2.15.0.PFACNXM_72af81f349_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.15.0.PFACNXM_72af81f349_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V10.2.15.0.PFACNXM_72af81f349_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.15.0.PFACNXM
+- branch: stable
+  date: '2019-04-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-10.04.2019/fw_cepheus_miui_CEPHEUS_V10.2.16.0.PFACNXM_e185be6515_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.16.0.PFACNXM_e185be6515_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V10.2.16.0.PFACNXM_e185be6515_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.16.0.PFACNXM
+- branch: weekly
+  date: '2019-04-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-04.04.2019/fw_cepheus_miui_CEPHEUSGlobal_9.4.2_19357b30e9_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.2/cepheus/fw_cepheus_miui_CEPHEUSGlobal_9.4.2_19357b30e9_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_9.4.2_19357b30e9_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.4.2
+- branch: weekly
+  date: '2019-04-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-04.04.2019/fw_cepheus_miui_CEPHEUS_9.4.1_43c1f1d42d_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.1/cepheus/fw_cepheus_miui_CEPHEUS_9.4.1_43c1f1d42d_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.4.1_43c1f1d42d_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.4.1
+- branch: weekly
+  date: '2019-04-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-01.04.2019/fw_cepheus_miui_CEPHEUSGlobal_9.3.22_3f1c865fa0_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.22/cepheus/fw_cepheus_miui_CEPHEUSGlobal_9.3.22_3f1c865fa0_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_9.3.22_3f1c865fa0_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.3.22
+- branch: weekly
+  date: '2019-04-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-01.04.2019/fw_cepheus_miui_CEPHEUS_9.3.22_c63654cc2f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.22/cepheus/fw_cepheus_miui_CEPHEUS_9.3.22_c63654cc2f_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.3.22_c63654cc2f_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.3.22
+- branch: stable
+  date: '2019-03-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-14.03.2019/fw_cepheus_miui_CEPHEUS_V10.2.15.0.PFACNXM_72af81f349_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.15.0.PFACNXM_72af81f349_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V10.2.15.0.PFACNXM_72af81f349_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.15.0.PFACNXM
+- branch: stable
+  date: '2019-03-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-01.03.2019/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.12.0.PFAEUXM_57ad5f1d24_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.12.0.PFAEUXM_57ad5f1d24_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V10.2.12.0.PFAEUXM_57ad5f1d24_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V10.2.12.0.PFAEUXM
+- branch: stable
+  date: '2019-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-26.02.2019/fw_cepheus_miui_CEPHEUS_V10.2.11.0.PFACNXM_4f19972866_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cepheus/fw_cepheus_miui_CEPHEUS_V10.2.11.0.PFACNXM_4f19972866_9.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V10.2.11.0.PFACNXM_4f19972866_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.11.0.PFACNXM

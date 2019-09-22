@@ -1,0 +1,44 @@
+- branch: stable
+  date: '2019-05-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ysl_global-stable/fw-vendor_ysl_global_V10.3.1.0.OEFMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ysl_global-stable/fw-vendor_ysl_global_V10.3.1.0.OEFMIXM.zip/download
+  filename: fw-vendor_ysl_global_V10.3.1.0.OEFMIXM.zip
+  region: Global
+  size: 201.5 MB
+  versions:
+    android: '8.1'
+    miui: V10.3.1.0.OEFMIXM
+- branch: stable
+  date: '2019-08-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ysl_global-stable/fw-vendor_ysl_global_V10.3.3.0.PEFMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ysl_global-stable/fw-vendor_ysl_global_V10.3.3.0.PEFMIXM.zip/download
+  filename: fw-vendor_ysl_global_V10.3.3.0.PEFMIXM.zip
+  region: Global
+  size: 211.8 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PEFMIXM
+- branch: stable
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ysl-stable/fw-vendor_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ysl-stable/fw-vendor_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip/download
+  filename: fw-vendor_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip
+  region: China
+  size: 200.8 MB
+  versions:
+    android: '8.1'
+    miui: V10.3.4.0.OEFCNXM
+- branch: stable
+  date: '2019-08-13'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ysl-stable/fw-vendor_ysl_V10.3.4.0.PEFCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ysl-stable/fw-vendor_ysl_V10.3.4.0.PEFCNXM.zip/download
+  filename: fw-vendor_ysl_V10.3.4.0.PEFCNXM.zip
+  region: China
+  size: 211.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.4.0.PEFCNXM

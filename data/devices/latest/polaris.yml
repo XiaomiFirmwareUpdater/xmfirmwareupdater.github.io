@@ -1,0 +1,40 @@
+- branch: stable
+  date: '2019-08-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-15.08.2019/fw_polaris_miui_MIMIX2SGlobal_V10.3.5.0.PDGMIXM_640d089ad0_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/polaris/fw_polaris_miui_MIMIX2SGlobal_V10.3.5.0.PDGMIXM_640d089ad0_9.0.zip
+  filename: fw_polaris_miui_MIMIX2SGlobal_V10.3.5.0.PDGMIXM_640d089ad0_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PDGMIXM
+- branch: stable
+  date: '2019-09-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-03.09.2019/fw_polaris_miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/polaris/fw_polaris_miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PDGCNXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-28.06.2019/fw_polaris_miui_MIMIX2SGlobal_9.6.27_dfd19406a5_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/polaris/fw_polaris_miui_MIMIX2SGlobal_9.6.27_dfd19406a5_9.0.zip
+  filename: fw_polaris_miui_MIMIX2SGlobal_9.6.27_dfd19406a5_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-06.09.2019/fw_polaris_miui_MIMIX2S_9.9.3_f81fcc2242_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.3/polaris/fw_polaris_miui_MIMIX2S_9.9.3_f81fcc2242_9.0.zip
+  filename: fw_polaris_miui_MIMIX2S_9.9.3_f81fcc2242_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.9.3

@@ -1,0 +1,40 @@
+- branch: stable
+  date: '2019-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-04.09.2019/fw_nitrogen_miui_MIMAX3Global_V10.3.5.0.PEDMIXM_12e2d94c20_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/nitrogen/fw_nitrogen_miui_MIMAX3Global_V10.3.5.0.PEDMIXM_12e2d94c20_9.0.zip
+  filename: fw_nitrogen_miui_MIMAX3Global_V10.3.5.0.PEDMIXM_12e2d94c20_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PEDMIXM
+- branch: stable
+  date: '2019-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-04.09.2019/fw_nitrogen_miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/nitrogen/fw_nitrogen_miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.3.4.0.PEDCNXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-28.06.2019/fw_nitrogen_miui_MIMAX3Global_9.6.27_c5abf79466_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/nitrogen/fw_nitrogen_miui_MIMAX3Global_9.6.27_c5abf79466_9.0.zip
+  filename: fw_nitrogen_miui_MIMAX3Global_9.6.27_c5abf79466_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-06.09.2019/fw_nitrogen_miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.3/nitrogen/fw_nitrogen_miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.9.3

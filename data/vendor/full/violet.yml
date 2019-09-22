@@ -1,0 +1,308 @@
+- branch: weekly
+  date: '2019-05-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.5.16.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.5.16.zip/download
+  filename: fw-vendor_violet_9.5.16.zip
+  region: China
+  size: 435.0 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.16
+- branch: weekly
+  date: '2019-05-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.5.23.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.5.23.zip/download
+  filename: fw-vendor_violet_9.5.23.zip
+  region: China
+  size: 440.7 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.23
+- branch: weekly
+  date: '2019-06-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.5.30.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.5.30.zip/download
+  filename: fw-vendor_violet_9.5.30.zip
+  region: China
+  size: 441.0 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.30
+- branch: weekly
+  date: '2019-06-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.6.13.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.6.13.zip/download
+  filename: fw-vendor_violet_9.6.13.zip
+  region: China
+  size: 441.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.13
+- branch: weekly
+  date: '2019-06-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.6.20.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.6.20.zip/download
+  filename: fw-vendor_violet_9.6.20.zip
+  region: China
+  size: 441.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.20
+- branch: weekly
+  date: '2019-07-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.7.11.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.7.11.zip/download
+  filename: fw-vendor_violet_9.7.11.zip
+  region: China
+  size: 434.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.11
+- branch: weekly
+  date: '2019-07-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.7.18.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.7.18.zip/download
+  filename: fw-vendor_violet_9.7.18.zip
+  region: China
+  size: 435.3 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.18
+- branch: weekly
+  date: '2019-07-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.7.25.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.7.25.zip/download
+  filename: fw-vendor_violet_9.7.25.zip
+  region: China
+  size: 512.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.25
+- branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.7.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.7.4.zip/download
+  filename: fw-vendor_violet_9.7.4.zip
+  region: China
+  size: 435.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.4
+- branch: weekly
+  date: '2019-08-02'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.8.1.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.8.1.zip/download
+  filename: fw-vendor_violet_9.8.1.zip
+  region: China
+  size: 526.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.1
+- branch: weekly
+  date: '2019-08-16'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.8.15.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.8.15.zip/download
+  filename: fw-vendor_violet_9.8.15.zip
+  region: China
+  size: 527.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.15
+- branch: weekly
+  date: '2019-08-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.8.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.8.9.zip/download
+  filename: fw-vendor_violet_9.8.9.zip
+  region: China
+  size: 527.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.9
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
+  region: China
+  size: 526.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
+- branch: stable
+  date: '2019-05-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_in_global_V10.2.10.0.PFHINXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_in_global_V10.2.10.0.PFHINXM.zip/download
+  filename: fw-vendor_violet_in_global_V10.2.10.0.PFHINXM.zip
+  region: India
+  size: 420.9 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.10.0.PFHINXM
+- branch: stable
+  date: '2019-07-04'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_in_global_V10.3.10.0.PFHINXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_in_global_V10.3.10.0.PFHINXM.zip/download
+  filename: fw-vendor_violet_in_global_V10.3.10.0.PFHINXM.zip
+  region: India
+  size: 429.4 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.10.0.PFHINXM
+- branch: stable
+  date: '2019-07-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_in_global_V10.3.12.0.PFHINXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_in_global_V10.3.12.0.PFHINXM.zip/download
+  filename: fw-vendor_violet_in_global_V10.3.12.0.PFHINXM.zip
+  region: India
+  size: 429.8 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.12.0.PFHINXM
+- branch: stable
+  date: '2019-05-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_in_global_V10.3.5.0.PFHINXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_in_global_V10.3.5.0.PFHINXM.zip/download
+  filename: fw-vendor_violet_in_global_V10.3.5.0.PFHINXM.zip
+  region: India
+  size: 429.1 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PFHINXM
+- branch: stable
+  date: '2019-06-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_in_global_V10.3.7.0.PFHINXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_in_global_V10.3.7.0.PFHINXM.zip/download
+  filename: fw-vendor_violet_in_global_V10.3.7.0.PFHINXM.zip
+  region: India
+  size: 429.1 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.7.0.PFHINXM
+- branch: stable
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V10.2.7.0.PFHINXM_4c99677d51_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V10.2.7.0.PFHINXM_4c99677d51_9.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLETINGlobal_V10.2.7.0.PFHINXM_4c99677d51_9.0.zip
+  region: India
+  size: 413.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.7.0.PFHINXM
+- branch: stable
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V10.2.8.0.PFHINXM_997265e49a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V10.2.8.0.PFHINXM_997265e49a_9.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLETINGlobal_V10.2.8.0.PFHINXM_997265e49a_9.0.zip
+  region: India
+  size: 419.5 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.8.0.PFHINXM
+- branch: stable
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_miui_VIOLET_V10.2.5.0.PFHCNXM_6b8f26446b_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_miui_VIOLET_V10.2.5.0.PFHCNXM_6b8f26446b_9.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLET_V10.2.5.0.PFHCNXM_6b8f26446b_9.0.zip
+  region: China
+  size: 408.5 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.5.0.PFHCNXM
+- branch: stable
+  date: '2019-04-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_miui_VIOLET_V10.2.6.0.PFHCNXM_58a985074b_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_miui_VIOLET_V10.2.6.0.PFHCNXM_58a985074b_9.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLET_V10.2.6.0.PFHCNXM_58a985074b_9.0.zip
+  region: China
+  size: 415.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.6.0.PFHCNXM
+- branch: stable
+  date: '2019-05-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_V10.2.8.0.PFHCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_V10.2.8.0.PFHCNXM.zip/download
+  filename: fw-vendor_violet_V10.2.8.0.PFHCNXM.zip
+  region: China
+  size: 415.0 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.8.0.PFHCNXM
+- branch: stable
+  date: '2019-08-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_V10.3.10.0.PFHCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_V10.3.10.0.PFHCNXM.zip/download
+  filename: fw-vendor_violet_V10.3.10.0.PFHCNXM.zip
+  region: China
+  size: 424.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.10.0.PFHCNXM
+- branch: stable
+  date: '2019-05-20'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_V10.3.5.0.PFHCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_V10.3.5.0.PFHCNXM.zip/download
+  filename: fw-vendor_violet_V10.3.5.0.PFHCNXM.zip
+  region: China
+  size: 424.7 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PFHCNXM
+- branch: stable
+  date: '2019-06-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_V10.3.6.0.PFHCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_V10.3.6.0.PFHCNXM.zip/download
+  filename: fw-vendor_violet_V10.3.6.0.PFHCNXM.zip
+  region: China
+  size: 430.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.6.0.PFHCNXM
+- branch: stable
+  date: '2019-06-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_V10.3.8.0.PFHCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_V10.3.8.0.PFHCNXM.zip/download
+  filename: fw-vendor_violet_V10.3.8.0.PFHCNXM.zip
+  region: China
+  size: 425.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.8.0.PFHCNXM
+- branch: stable
+  date: '2019-07-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_V10.3.9.0.PFHCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_V10.3.9.0.PFHCNXM.zip/download
+  filename: fw-vendor_violet_V10.3.9.0.PFHCNXM.zip
+  region: China
+  size: 424.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.9.0.PFHCNXM
