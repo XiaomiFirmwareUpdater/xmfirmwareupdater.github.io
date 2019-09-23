@@ -1,0 +1,11 @@
+- branch: stable
+  date: '2019-09-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip
+  region: Global
+  size: 666.7 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PFCMIXM
