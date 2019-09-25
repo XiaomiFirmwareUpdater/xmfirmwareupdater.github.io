@@ -9,15 +9,15 @@
     android: '8.1'
     miui: V10.3.2.0.OCHMIXM
 - branch: stable
-  date: '2019-04-16'
+  date: '2019-09-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-16.04.2019/fw_jason_miui_MINote3_V10.3.1.0.OCHCNXM_4cac99ebc8_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/jason/fw_jason_miui_MINote3_V10.3.1.0.OCHCNXM_4cac99ebc8_8.1.zip
-  filename: fw_jason_miui_MINote3_V10.3.1.0.OCHCNXM_4cac99ebc8_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-25.09.2019/fw_jason_miui_MINote3_V10.4.2.0.PCHCNXM_14b856e369_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/jason/fw_jason_miui_MINote3_V10.4.2.0.PCHCNXM_14b856e369_9.0.zip
+  filename: fw_jason_miui_MINote3_V10.4.2.0.PCHCNXM_14b856e369_9.0.zip
   region: China
   versions:
-    android: '8.1'
-    miui: V10.3.1.0.OCHCNXM
+    android: '9.0'
+    miui: V10.4.2.0.PCHCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:

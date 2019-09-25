@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 23 Sep 2019 21:14:40 +0900</pubDate>
+  <pubDate>Wed, 25 Sep 2019 19:32:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 3 (jason) - V10.4.2.0.PCHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
+    <pubDate>Wed, 25 Sep 2019 19:32:01 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 (pyxis) - V10.3.1.0.PFCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
@@ -100,11 +105,6 @@
     <title>Mi MIX 3 (perseus) - 9.9.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
     <pubDate>Sat, 07 Sep 2019 01:23:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 9.9.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Sat, 07 Sep 2019 01:20:46 +0900</pubDate>
   </item>
     </channel>
 </rss>
