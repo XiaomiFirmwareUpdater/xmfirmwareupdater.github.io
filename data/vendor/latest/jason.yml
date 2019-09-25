@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2019-04-10'
+  date: '2019-09-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/jason_global-stable/fw-vendor_jason_miui_MINote3Global_V10.3.2.0.OCHMIXM_b4bcd991fd_8.1.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/jason_global-stable/fw-vendor_jason_miui_MINote3Global_V10.3.2.0.OCHMIXM_b4bcd991fd_8.1.zip/download
-  filename: fw-vendor_jason_miui_MINote3Global_V10.3.2.0.OCHMIXM_b4bcd991fd_8.1.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/jason_global-stable/fw-vendor_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/jason_global-stable/fw-vendor_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip/download
+  filename: fw-vendor_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip
   region: Global
-  size: 78.1 MB
+  size: 78.3 MB
   versions:
-    android: '8.1'
-    miui: V10.3.2.0.OCHMIXM
+    android: '9.0'
+    miui: V10.4.2.0.PCHMIXM
 - branch: weekly
   date: '2019-04-07'
   downloads:
