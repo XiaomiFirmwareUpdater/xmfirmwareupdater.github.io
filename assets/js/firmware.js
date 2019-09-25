@@ -536,57 +536,32 @@ function loadMiuiArchive(device) {
             });
         }
         function fetchData() {
-            var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/archive/';
+            var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/5db477539a696d8604d87047a37529bfb2df1769/archive/';
             $.when(
                 $.ajax({
-                    url: '/data/miui_devices.yml',
+                    url: 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/xiaomifirmwareupdater.github.io/8e46631fc25c811f90b81ff17a74b6ce393b8312/data/miui_devices.json',
                     async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
+                    dataType: 'JSON'
                 }),
                 $.ajax({
-                    url: url + 'stable_recovery/stable_recovery.yml',
+                    url: url + 'stable_recovery/stable_recovery.json',
                     async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
+                    dataType: 'JSON'
                 }),
                 $.ajax({
-                    url: url + 'stable_fastboot/stable_fastboot.yml',
+                    url: url + 'stable_fastboot/stable_fastboot.json',
                     async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
+                    dataType: 'JSON'
                 }),
                 $.ajax({
-                    url: url + 'weekly_recovery/weekly_recovery.yml',
+                    url: url + 'weekly_recovery/weekly_recovery.json',
                     async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
+                    dataType: 'JSON'
                 }),
                 $.ajax({
-                    url: url + 'weekly_fastboot/weekly_fastboot.yml',
+                    url: url + 'weekly_fastboot/weekly_fastboot.json',
                     async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
+                    dataType: 'JSON'
                 })).done(function (names, stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot) {
                     devices = names[0];
                     updateDownloads(stable_recovery[0]);
@@ -596,7 +571,6 @@ function loadMiuiArchive(device) {
                     DrawTable(downloads);
                 })
         }
-
         function DrawTable(downloads) {
             $('#miui').DataTable({
                 data: downloads,
