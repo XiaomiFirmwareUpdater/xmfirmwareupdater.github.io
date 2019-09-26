@@ -309,6 +309,16 @@
     android: '8.1'
     miui: 9.8.29
 - branch: stable
+  date: '2019-09-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-26.09.2019/fw_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/crux/fw_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
+  filename: fw_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.4.6.0.PFXCNXM
+- branch: stable
   date: '2019-08-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-12.08.2019/fw_davinci_miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip
@@ -468,6 +478,16 @@
   versions:
     android: '8.0'
     miui: 8.11.22
+- branch: stable
+  date: '2019-09-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-26.09.2019/fw_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ginkgo/fw_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip
+  filename: fw_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PCOMIXM
 - branch: stable
   date: '2019-09-20'
   downloads:
@@ -1369,15 +1389,15 @@
     android: '9.0'
     miui: V10.3.2.0.PFKMIXM
 - branch: stable
-  date: '2019-07-30'
+  date: '2019-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-30.07.2019/fw_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip
-  filename: fw_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-26.09.2019/fw_raphael_miui_RAPHAELS_V10.4.1.0.PFKCNXM_ff9fc7e2a8_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAELS_V10.4.1.0.PFKCNXM_ff9fc7e2a8_9.0.zip
+  filename: fw_raphael_miui_RAPHAELS_V10.4.1.0.PFKCNXM_ff9fc7e2a8_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.3.16.0.PFKCNXM
+    miui: V10.4.1.0.PFKCNXM
 - branch: stable
   date: '2019-09-02'
   downloads:

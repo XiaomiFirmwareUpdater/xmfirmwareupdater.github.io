@@ -175,6 +175,17 @@
     android: '9.0'
     miui: 9.8.29
 - branch: stable
+  date: '2019-09-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-stable/fw-vendor_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-stable/fw-vendor_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip/download
+  filename: fw-vendor_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
+  region: China
+  size: 828.1 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.6.0.PFXCNXM
+- branch: stable
   date: '2019-09-07'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_miui_DAVINCIGlobal_V10.3.11.0.PFJMIXM_a63c8d3d93_9.0.zip
@@ -295,6 +306,17 @@
   versions:
     android: '9.0'
     miui: 9.9.3
+- branch: stable
+  date: '2019-09-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip
+  region: Global
+  size: 339.9 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PCOMIXM
 - branch: stable
   date: '2019-09-20'
   downloads:
@@ -691,6 +713,17 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFKINXM
+- branch: stable
+  date: '2019-09-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphaels-stable/fw-vendor_raphael_miui_RAPHAELS_V10.4.1.0.PFKCNXM_ff9fc7e2a8_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphaels-stable/fw-vendor_raphael_miui_RAPHAELS_V10.4.1.0.PFKCNXM_ff9fc7e2a8_9.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAELS_V10.4.1.0.PFKCNXM_ff9fc7e2a8_9.0.zip
+  region: China
+  size: 798.8 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.1.0.PFKCNXM
 - branch: stable
   date: '2019-04-10'
   downloads:
