@@ -1,9 +1,9 @@
 - branch: stable
-  date: '2019-08-30'
+  date: '2019-09-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_global_V10.3.7.0.PEJMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_global_V10.3.7.0.PEJMIXM.zip/download
-  filename: fw-vendor_beryllium_global_V10.3.7.0.PEJMIXM.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip
   region: Global
   size: 469.7 MB
   versions:

@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2019-08-14'
+  date: '2019-09-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_global_V10.3.4.0.PEAMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_global_V10.3.4.0.PEAMIXM.zip/download
-  filename: fw-vendor_dipper_global_V10.3.4.0.PEAMIXM.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip
   region: Global
-  size: 491.0 MB
+  size: 479.8 MB
   versions:
     android: '9.0'
-    miui: V10.3.4.0.PEAMIXM
+    miui: V10.3.5.0.PEAMIXM
 - branch: stable
   date: '2019-09-03'
   downloads:

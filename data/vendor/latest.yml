@@ -32,11 +32,11 @@
     android: '9.0'
     miui: V10.4.8.0.PGGCNXM
 - branch: stable
-  date: '2019-08-30'
+  date: '2019-09-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_global_V10.3.7.0.PEJMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_global_V10.3.7.0.PEJMIXM.zip/download
-  filename: fw-vendor_beryllium_global_V10.3.7.0.PEJMIXM.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip
   region: Global
   size: 469.7 MB
   versions:
@@ -208,6 +208,17 @@
     android: '9.0'
     miui: V10.3.15.0.PFJCNXM
 - branch: stable
+  date: '2019-09-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip
+  region: Europe
+  size: 704.9 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.12.0.PFJEUXM
+- branch: stable
   date: '2019-09-17'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinciin_in_global-stable/fw-vendor_davinciin_miui_DAVINCIININGlobal_V10.3.8.0.PFJINXM_207eaee662_9.0.zip
@@ -219,16 +230,16 @@
     android: '9.0'
     miui: V10.3.8.0.PFJINXM
 - branch: stable
-  date: '2019-08-14'
+  date: '2019-09-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_global_V10.3.4.0.PEAMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_global_V10.3.4.0.PEAMIXM.zip/download
-  filename: fw-vendor_dipper_global_V10.3.4.0.PEAMIXM.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip
   region: Global
-  size: 491.0 MB
+  size: 479.8 MB
   versions:
     android: '9.0'
-    miui: V10.3.4.0.PEAMIXM
+    miui: V10.3.5.0.PEAMIXM
 - branch: stable
   date: '2019-09-03'
   downloads:
@@ -263,16 +274,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2019-08-13'
+  date: '2019-09-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_global_V10.3.5.0.PECMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_global_V10.3.5.0.PECMIXM.zip/download
-  filename: fw-vendor_equuleus_global_V10.3.5.0.PECMIXM.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V10.3.6.0.PECMIXM_f192219ab1_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V10.3.6.0.PECMIXM_f192219ab1_9.0.zip/download
+  filename: fw-vendor_equuleus_miui_MI8UDGlobal_V10.3.6.0.PECMIXM_f192219ab1_9.0.zip
   region: Global
-  size: 491.9 MB
+  size: 479.9 MB
   versions:
     android: '9.0'
-    miui: V10.3.5.0.PECMIXM
+    miui: V10.3.6.0.PECMIXM
 - branch: stable
   date: '2019-07-25'
   downloads:
@@ -329,16 +340,16 @@
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
 - branch: stable
-  date: '2019-08-13'
+  date: '2019-09-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_global_V10.3.3.0.PFBMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_global-stable/fw-vendor_grus_global_V10.3.3.0.PFBMIXM.zip/download
-  filename: fw-vendor_grus_global_V10.3.3.0.PFBMIXM.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V10.3.4.0.PFBMIXM_1af3c0ea1e_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V10.3.4.0.PFBMIXM_1af3c0ea1e_9.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSGlobal_V10.3.4.0.PFBMIXM_1af3c0ea1e_9.0.zip
   region: Global
-  size: 569.5 MB
+  size: 570.2 MB
   versions:
     android: '9.0'
-    miui: V10.3.3.0.PFBMIXM
+    miui: V10.3.4.0.PFBMIXM
 - branch: stable
   date: '2019-06-18'
   downloads:
@@ -361,6 +372,17 @@
   versions:
     android: '9.0'
     miui: 9.9.3
+- branch: stable
+  date: '2019-09-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_eea_global-stable/fw-vendor_grus_miui_GRUSEEAGlobal_V10.3.9.0.PFBEUXM_f1b6a0764f_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_eea_global-stable/fw-vendor_grus_miui_GRUSEEAGlobal_V10.3.9.0.PFBEUXM_f1b6a0764f_9.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSEEAGlobal_V10.3.9.0.PFBEUXM_f1b6a0764f_9.0.zip
+  region: Europe
+  size: 569.1 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.9.0.PFBEUXM
 - branch: weekly
   date: '2019-04-07'
   downloads:
@@ -615,16 +637,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2019-08-15'
+  date: '2019-09-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-stable/fw-vendor_polaris_global_V10.3.5.0.PDGMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-stable/fw-vendor_polaris_global_V10.3.5.0.PDGMIXM.zip/download
-  filename: fw-vendor_polaris_global_V10.3.5.0.PDGMIXM.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V10.3.6.0.PDGMIXM_28cf3c6a67_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V10.3.6.0.PDGMIXM_28cf3c6a67_9.0.zip/download
+  filename: fw-vendor_polaris_miui_MIMIX2SGlobal_V10.3.6.0.PDGMIXM_28cf3c6a67_9.0.zip
   region: Global
-  size: 474.5 MB
+  size: 463.2 MB
   versions:
     android: '9.0'
-    miui: V10.3.5.0.PDGMIXM
+    miui: V10.3.6.0.PDGMIXM
 - branch: stable
   date: '2019-09-03'
   downloads:
@@ -681,16 +703,16 @@
     android: '9.0'
     miui: V10.3.2.0.PFKMIXM
 - branch: stable
-  date: '2019-09-07'
+  date: '2019-09-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip/download
-  filename: fw-vendor_raphael_miui_RAPHAEL_V10.3.16.0.PFKCNXM_bd837a758b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V10.3.17.0.PFKCNXM_ccf13bbd55_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V10.3.17.0.PFKCNXM_ccf13bbd55_9.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAEL_V10.3.17.0.PFKCNXM_ccf13bbd55_9.0.zip
   region: China
-  size: 719.2 MB
+  size: 716.4 MB
   versions:
     android: '9.0'
-    miui: V10.3.16.0.PFKCNXM
+    miui: V10.3.17.0.PFKCNXM
 - branch: stable
   date: '2019-09-20'
   downloads:
