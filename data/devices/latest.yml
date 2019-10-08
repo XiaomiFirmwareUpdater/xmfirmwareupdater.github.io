@@ -49,15 +49,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2019-09-18'
+  date: '2019-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-18.09.2019/fw_begonia_miui_BEGONIA_V10.4.8.0.PGGCNXM_1bf09f2237_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begonia/fw_begonia_miui_BEGONIA_V10.4.8.0.PGGCNXM_1bf09f2237_9.0.zip
-  filename: fw_begonia_miui_BEGONIA_V10.4.8.0.PGGCNXM_1bf09f2237_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-08.10.2019/fw_begonia_miui_BEGONIA_V10.4.9.0.PGGCNXM_12ccf7dee9_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begonia/fw_begonia_miui_BEGONIA_V10.4.9.0.PGGCNXM_12ccf7dee9_9.0.zip
+  filename: fw_begonia_miui_BEGONIA_V10.4.9.0.PGGCNXM_12ccf7dee9_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.4.8.0.PGGCNXM
+    miui: V10.4.9.0.PGGCNXM
 - branch: stable
   date: '2019-08-27'
   downloads:
@@ -489,15 +489,15 @@
     android: '9.0'
     miui: V10.3.2.0.PCOMIXM
 - branch: stable
-  date: '2019-09-29'
+  date: '2019-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-29.09.2019/fw_ginkgo_miui_GINKGO_V10.3.5.0.PCOCNXM_f0623abc24_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ginkgo/fw_ginkgo_miui_GINKGO_V10.3.5.0.PCOCNXM_f0623abc24_9.0.zip
-  filename: fw_ginkgo_miui_GINKGO_V10.3.5.0.PCOCNXM_f0623abc24_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-08.10.2019/fw_ginkgo_miui_GINKGO_V10.3.6.0.PCOCNXM_36a8a15d18_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ginkgo/fw_ginkgo_miui_GINKGO_V10.3.6.0.PCOCNXM_36a8a15d18_9.0.zip
+  filename: fw_ginkgo_miui_GINKGO_V10.3.6.0.PCOCNXM_36a8a15d18_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.3.5.0.PCOCNXM
+    miui: V10.3.6.0.PCOCNXM
 - branch: stable
   date: '2019-09-27'
   downloads:

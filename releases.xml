@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 05 Oct 2019 02:32:18 +0900</pubDate>
+  <pubDate>Wed, 09 Oct 2019 01:07:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V10.3.6.0.PCOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Wed, 09 Oct 2019 01:07:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V10.4.9.0.PGGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Wed, 09 Oct 2019 01:06:33 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 (pyxis) - V10.3.6.0.PFCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
@@ -95,16 +105,6 @@
     <title>Redmi K20 Pro (raphael) - V10.3.2.0.PFKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Fri, 20 Sep 2019 19:03:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 7A (pine) - V10.2.10.0.PCMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
-    <pubDate>Thu, 19 Sep 2019 01:03:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V10.4.8.0.PGGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Wed, 18 Sep 2019 19:03:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
