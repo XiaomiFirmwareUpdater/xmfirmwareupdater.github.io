@@ -120,6 +120,17 @@
     android: '8.0'
     miui: 9.3.28
 - branch: stable
+  date: '2019-10-09'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_global-stable/fw-vendor_cepheus_miui_CEPHEUSGlobal_V10.2.14.0.PFAMIXM_f17b321377_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_global-stable/fw-vendor_cepheus_miui_CEPHEUSGlobal_V10.2.14.0.PFAMIXM_f17b321377_9.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUSGlobal_V10.2.14.0.PFAMIXM_f17b321377_9.0.zip
+  region: Global
+  size: 681.5 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.14.0.PFAMIXM
+- branch: stable
   date: '2019-09-13'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip
@@ -163,6 +174,17 @@
   versions:
     android: '9.0'
     miui: V10.2.30.0.PFAEUXM
+- branch: stable
+  date: '2019-10-09'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_ru_global-stable/fw-vendor_cepheus_miui_CEPHEUSRUGlobal_V10.2.9.0.PFARUXM_59dfb3a262_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_ru_global-stable/fw-vendor_cepheus_miui_CEPHEUSRUGlobal_V10.2.9.0.PFARUXM_59dfb3a262_9.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUSRUGlobal_V10.2.9.0.PFARUXM_59dfb3a262_9.0.zip
+  region: Russia
+  size: 682.6 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.9.0.PFARUXM
 - branch: stable
   date: '2019-07-15'
   downloads:

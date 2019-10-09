@@ -19,15 +19,15 @@
     android: '9.0'
     miui: V10.3.17.0.PEMCNXM
 - branch: stable
-  date: '2019-08-30'
+  date: '2019-10-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-30.08.2019/fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.19.0.PEMEUXM_595fd0a744_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/andromeda/fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.19.0.PEMEUXM_595fd0a744_9.0.zip
-  filename: fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.19.0.PEMEUXM_595fd0a744_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-09.10.2019/fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.20.0.PEMEUXM_36a6223a3d_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/andromeda/fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.20.0.PEMEUXM_36a6223a3d_9.0.zip
+  filename: fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.20.0.PEMEUXM_36a6223a3d_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V10.3.19.0.PEMEUXM
+    miui: V10.3.20.0.PEMEUXM
 - branch: stable
   date: '2018-11-07'
   downloads:
@@ -69,15 +69,15 @@
     android: '9.0'
     miui: V10.4.9.0.PGGCNXM
 - branch: stable
-  date: '2019-08-27'
+  date: '2019-10-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-27.08.2019/fw_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip
-  filename: fw_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-09.10.2019/fw_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
+  filename: fw_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V10.3.7.0.PEJMIXM
+    miui: V10.3.8.0.PEJMIXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -229,15 +229,15 @@
     android: '9.0'
     miui: V10.2.30.0.PFAEUXM
 - branch: stable
-  date: '2019-08-28'
+  date: '2019-10-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-28.08.2019/fw_cereus_miui_HM6Global_V10.3.6.0.OCGMIXM_85f41684de_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cereus/fw_cereus_miui_HM6Global_V10.3.6.0.OCGMIXM_85f41684de_8.1.zip
-  filename: fw_cereus_miui_HM6Global_V10.3.6.0.OCGMIXM_85f41684de_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-09.10.2019/fw_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cereus/fw_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
+  filename: fw_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
   region: Global
   versions:
-    android: '8.1'
-    miui: V10.3.6.0.OCGMIXM
+    android: '9.0'
+    miui: V10.4.4.0.PCGMIXM
 - branch: stable
   date: '2019-09-09'
   downloads:
