@@ -21,6 +21,17 @@
     android: '9.0'
     miui: V10.3.17.0.PEMCNXM
 - branch: stable
+  date: '2019-10-09'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda_eea_global-stable/fw-vendor_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.20.0.PEMEUXM_36a6223a3d_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda_eea_global-stable/fw-vendor_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.20.0.PEMEUXM_36a6223a3d_9.0.zip/download
+  filename: fw-vendor_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.20.0.PEMEUXM_36a6223a3d_9.0.zip
+  region: Europe
+  size: 623.0 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.20.0.PEMEUXM
+- branch: stable
   date: '2019-10-08'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V10.4.1.0.PGGMIXM_99e3e60541_9.0.zip
@@ -43,16 +54,16 @@
     android: '9.0'
     miui: V10.4.9.0.PGGCNXM
 - branch: stable
-  date: '2019-09-27'
+  date: '2019-10-09'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip/download
-  filename: fw-vendor_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
   region: Global
-  size: 469.7 MB
+  size: 458.3 MB
   versions:
     android: '9.0'
-    miui: V10.3.7.0.PEJMIXM
+    miui: V10.3.8.0.PEJMIXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -185,6 +196,17 @@
   versions:
     android: '9.0'
     miui: V10.2.9.0.PFARUXM
+- branch: stable
+  date: '2019-10-09'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip/download
+  filename: fw-vendor_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
+  region: Global
+  size: 182.1 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.4.0.PCGMIXM
 - branch: stable
   date: '2019-07-15'
   downloads:

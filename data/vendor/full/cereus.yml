@@ -1,0 +1,11 @@
+- branch: stable
+  date: '2019-10-09'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip/download
+  filename: fw-vendor_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
+  region: Global
+  size: 182.1 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.4.0.PCGMIXM
