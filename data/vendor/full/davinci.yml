@@ -10,6 +10,17 @@
     android: '9.0'
     miui: V10.3.12.0.PFJEUXM
 - branch: stable
+  date: '2019-10-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.15.0.PFJEUXM_b6738621e2_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.15.0.PFJEUXM_b6738621e2_9.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.15.0.PFJEUXM_b6738621e2_9.0.zip
+  region: Europe
+  size: 703.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.15.0.PFJEUXM
+- branch: stable
   date: '2019-08-12'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_global_V10.3.11.0.PFJMIXM.zip

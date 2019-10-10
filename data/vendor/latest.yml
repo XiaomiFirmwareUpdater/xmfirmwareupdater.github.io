@@ -263,16 +263,16 @@
     android: '9.0'
     miui: V10.3.15.0.PFJCNXM
 - branch: stable
-  date: '2019-09-27'
+  date: '2019-10-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.12.0.PFJEUXM_946a02f6df_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.15.0.PFJEUXM_b6738621e2_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.15.0.PFJEUXM_b6738621e2_9.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V10.3.15.0.PFJEUXM_b6738621e2_9.0.zip
   region: Europe
-  size: 704.9 MB
+  size: 703.3 MB
   versions:
     android: '9.0'
-    miui: V10.3.12.0.PFJEUXM
+    miui: V10.3.15.0.PFJEUXM
 - branch: stable
   date: '2019-09-17'
   downloads:
@@ -373,16 +373,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2019-09-26'
+  date: '2019-10-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip/download
-  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V10.3.2.0.PCOIDXM_f2b4961dd5_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V10.3.2.0.PCOIDXM_f2b4961dd5_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOIDGlobal_V10.3.2.0.PCOIDXM_f2b4961dd5_9.0.zip
   region: Global
-  size: 339.9 MB
+  size: 341.2 MB
   versions:
     android: '9.0'
-    miui: V10.3.2.0.PCOMIXM
+    miui: V10.3.2.0.PCOIDXM
 - branch: stable
   date: '2019-10-08'
   downloads:
@@ -526,17 +526,6 @@
   versions:
     android: '9.0'
     miui: 9.9.3
-- branch: stable
-  date: '2019-08-19'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_in_global-stable/fw-vendor_lavender_in_global_V10.3.7.0.PFGINXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_in_global-stable/fw-vendor_lavender_in_global_V10.3.7.0.PFGINXM.zip/download
-  filename: fw-vendor_lavender_in_global_V10.3.7.0.PFGINXM.zip
-  region: India
-  size: 375.7 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.7.0.PFGINXM
 - branch: weekly
   date: '2019-04-07'
   downloads:
