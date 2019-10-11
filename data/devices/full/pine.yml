@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2019-10-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-11.10.2019/fw_pine_miui_PINEINGlobal_V10.2.10.0.PCMINXM_5df89bb6dd_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINEINGlobal_V10.2.10.0.PCMINXM_5df89bb6dd_9.0.zip
+  filename: fw_pine_miui_PINEINGlobal_V10.2.10.0.PCMINXM_5df89bb6dd_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V10.2.10.0.PCMINXM
+- branch: stable
   date: '2019-09-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-18.09.2019/fw_pine_miui_PINE_V10.2.10.0.PCMCNXM_1596600083_9.0.zip
