@@ -513,6 +513,9 @@ function loadMiuiArchive(device) {
                             if (full_codename.includes('eea_global')) {
                                 region = 'Europe';
                             }
+                            else if (full_codename.includes('id_global')) {
+                                region = 'Indonesia';
+                            }
                             else if (full_codename.includes('in_global')) {
                                 region = 'India';
                             }
