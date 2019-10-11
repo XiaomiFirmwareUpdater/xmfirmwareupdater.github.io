@@ -395,6 +395,17 @@
     android: '9.0'
     miui: V10.3.6.0.PCOCNXM
 - branch: stable
+  date: '2019-10-11'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V10.3.1.0.PCOINXM_dbad603497_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V10.3.1.0.PCOINXM_dbad603497_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOINGlobal_V10.3.1.0.PCOINXM_dbad603497_9.0.zip
+  region: India
+  size: 341.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PCOINXM
+- branch: stable
   date: '2019-09-27'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V10.3.4.0.PFBMIXM_1af3c0ea1e_9.0.zip
@@ -592,17 +603,6 @@
   versions:
     android: '9.0'
     miui: 9.9.3
-- branch: stable
-  date: '2019-04-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable/fw-vendor_onc_miui_ONCLITE_V10.2.5.0.PFLCNXM_8db0d2c9de_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable/fw-vendor_onc_miui_ONCLITE_V10.2.5.0.PFLCNXM_8db0d2c9de_9.0.zip/download
-  filename: fw-vendor_onc_miui_ONCLITE_V10.2.5.0.PFLCNXM_8db0d2c9de_9.0.zip
-  region: China
-  size: 263.3 MB
-  versions:
-    android: '9.0'
-    miui: V10.2.5.0.PFLCNXM
 - branch: stable
   date: '2019-09-02'
   downloads:
