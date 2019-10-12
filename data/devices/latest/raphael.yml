@@ -19,12 +19,12 @@
     android: '9.0'
     miui: V10.3.17.0.PFKCNXM
 - branch: stable
-  date: '2019-09-27'
+  date: '2019-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-27.09.2019/fw_raphael_miui_RAPHAELEEAGlobal_V10.3.3.0.PFKEUXM_52bd3959c9_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V10.3.3.0.PFKEUXM_52bd3959c9_9.0.zip
-  filename: fw_raphael_miui_RAPHAELEEAGlobal_V10.3.3.0.PFKEUXM_52bd3959c9_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-12.10.2019/fw_raphael_miui_RAPHAELEEAGlobal_V10.3.4.0.PFKEUXM_964826982c_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V10.3.4.0.PFKEUXM_964826982c_9.0.zip
+  filename: fw_raphael_miui_RAPHAELEEAGlobal_V10.3.4.0.PFKEUXM_964826982c_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V10.3.3.0.PFKEUXM
+    miui: V10.3.4.0.PFKEUXM
