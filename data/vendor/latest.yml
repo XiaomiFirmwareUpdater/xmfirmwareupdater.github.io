@@ -802,6 +802,17 @@
     android: '9.0'
     miui: V10.3.17.0.PFKCNXM
 - branch: stable
+  date: '2019-10-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_eea_global-stable/fw-vendor_raphael_miui_RAPHAELEEAGlobal_V10.3.4.0.PFKEUXM_964826982c_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael_eea_global-stable/fw-vendor_raphael_miui_RAPHAELEEAGlobal_V10.3.4.0.PFKEUXM_964826982c_9.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAELEEAGlobal_V10.3.4.0.PFKEUXM_964826982c_9.0.zip
+  region: Europe
+  size: 717.5 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.4.0.PFKEUXM
+- branch: stable
   date: '2019-09-20'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_ru_global-stable/fw-vendor_raphael_miui_RAPHAELRUGlobal_V10.3.2.0.PFKRUXM_e5860ca9dd_9.0.zip
@@ -955,17 +966,6 @@
   versions:
     android: '8.1'
     miui: 9.3.28
-- branch: stable
-  date: '2019-08-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_V10.3.10.0.PFHCNXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_V10.3.10.0.PFHCNXM.zip/download
-  filename: fw-vendor_violet_V10.3.10.0.PFHCNXM.zip
-  region: China
-  size: 424.2 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.10.0.PFHCNXM
 - branch: weekly
   date: '2019-09-06'
   downloads:

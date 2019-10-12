@@ -1,14 +1,3 @@
-- branch: stable
-  date: '2019-08-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_V10.3.10.0.PFHCNXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_V10.3.10.0.PFHCNXM.zip/download
-  filename: fw-vendor_violet_V10.3.10.0.PFHCNXM.zip
-  region: China
-  size: 424.2 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.10.0.PFHCNXM
 - branch: weekly
   date: '2019-09-06'
   downloads:
