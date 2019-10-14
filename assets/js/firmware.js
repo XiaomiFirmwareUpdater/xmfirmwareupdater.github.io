@@ -167,7 +167,7 @@ function loadMiuiDownloads(device) {
         fetchData();
         function updateDownloads(data) {
             data.forEach(function (item) {
-                if (item.codename.startsWith(codename)) {
+                if (item.codename.split('_')[0] == codename) {
                     downloads.push(item);
                 }
             });
@@ -498,7 +498,7 @@ function loadMiuiArchive(device) {
                     var full_codename = key;
                     var codename = key.split('_')[0];
                     var name = devices[codename];
-                    if (full_codename.startsWith(device)) {
+                    if (codename == device) {
                         Object.entries(value).forEach(function ([rom, link]) {
                             var version = rom;
                             var download = link;
