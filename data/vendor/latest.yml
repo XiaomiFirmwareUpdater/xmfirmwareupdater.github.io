@@ -65,6 +65,17 @@
     android: '9.0'
     miui: V10.4.5.0.PGGEUXM
 - branch: stable
+  date: '2019-10-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_ru_global-stable/fw-vendor_begonia_miui_BEGONIARUGlobal_V10.4.2.0.PGGRUXM_b1d2707ade_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_ru_global-stable/fw-vendor_begonia_miui_BEGONIARUGlobal_V10.4.2.0.PGGRUXM_b1d2707ade_9.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIARUGlobal_V10.4.2.0.PGGRUXM_b1d2707ade_9.0.zip
+  region: Russia
+  size: 496.9 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.2.0.PGGRUXM
+- branch: stable
   date: '2019-10-09'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
@@ -295,28 +306,6 @@
   versions:
     android: '9.0'
     miui: V10.3.6.0.PEACNXM
-- branch: weekly
-  date: '2019-06-28'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_global_9.6.27.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_global_9.6.27.zip/download
-  filename: fw-vendor_dipper_global_9.6.27.zip
-  region: Global
-  size: 493.9 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
-- branch: weekly
-  date: '2019-09-07'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_miui_MI8_9.9.3_0fb85e6431_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_miui_MI8_9.9.3_0fb85e6431_9.0.zip/download
-  filename: fw-vendor_dipper_miui_MI8_9.9.3_0fb85e6431_9.0.zip
-  region: China
-  size: 639.9 MB
-  versions:
-    android: '9.0'
-    miui: 9.9.3
 - branch: stable
   date: '2019-09-27'
   downloads:
@@ -537,17 +526,6 @@
   versions:
     android: '8.0'
     miui: 9.3.28
-- branch: weekly
-  date: '2019-04-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/mido-weekly/fw-vendor_mido_miui_HMNote4X_9.3.7_5222e8e1fe_7.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/mido-weekly/fw-vendor_mido_miui_HMNote4X_9.3.7_5222e8e1fe_7.0.zip/download
-  filename: fw-vendor_mido_miui_HMNote4X_9.3.7_5222e8e1fe_7.0.zip
-  region: China
-  size: 47.7 MB
-  versions:
-    android: '7.0'
-    miui: 9.3.7
 - branch: stable
   date: '2019-07-30'
   downloads:
@@ -604,6 +582,17 @@
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
 - branch: stable
+  date: '2019-10-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.1.0.PCNINXM_58cd7dd6c9_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.1.0.PCNINXM_58cd7dd6c9_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVEINGlobal_V10.3.1.0.PCNINXM_58cd7dd6c9_9.0.zip
+  region: India
+  size: 362.4 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PCNINXM
+- branch: stable
   date: '2019-10-14'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V10.3.3.0.PCPCNXM_c018ab36fb_9.0.zip
@@ -614,6 +603,17 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PCPCNXM
+- branch: stable
+  date: '2019-10-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip
+  region: India
+  size: 237.1 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PCPINXM
 - branch: stable
   date: '2019-09-02'
   downloads:
