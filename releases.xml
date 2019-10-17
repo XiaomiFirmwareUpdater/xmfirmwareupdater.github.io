@@ -1,11 +1,51 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 17 Oct 2019 19:06:03 +0900</pubDate>
+  <pubDate>Fri, 18 Oct 2019 01:17:22 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 SE (sirius) - V11.0.3.0.PEBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
+    <pubDate>Fri, 18 Oct 2019 01:17:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2S (polaris) - V11.0.2.0.PDGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Fri, 18 Oct 2019 01:15:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Lite (platina) - V11.0.2.0.PDTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Fri, 18 Oct 2019 01:14:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.2.0.PEDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 18 Oct 2019 01:12:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.2.0.PEDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 18 Oct 2019 01:12:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - V11.0.3.0.PFBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 18 Oct 2019 01:10:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - V11.0.3.0.PEACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Fri, 18 Oct 2019 01:09:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V10.4.11.0.PGGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Fri, 18 Oct 2019 01:07:16 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 (davinci) - V11.0.3.0.PFJCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
@@ -65,46 +105,6 @@
     <title>Redmi 6 (cereus) - V10.4.4.0.PCGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
     <pubDate>Thu, 10 Oct 2019 01:17:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO F1 (beryllium) - V10.3.8.0.PEJMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/beryllium</link>
-    <pubDate>Thu, 10 Oct 2019 01:16:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 5G (andromeda) - V10.3.20.0.PEMEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
-    <pubDate>Thu, 10 Oct 2019 01:15:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - V10.2.14.0.PFAMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Wed, 09 Oct 2019 19:06:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V10.4.1.0.PGGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Wed, 09 Oct 2019 05:45:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V10.3.6.0.PCOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Wed, 09 Oct 2019 01:07:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V10.4.9.0.PGGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Wed, 09 Oct 2019 01:06:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 (pyxis) - V10.3.6.0.PFCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Sat, 05 Oct 2019 02:32:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 (pyxis) - V10.3.13.0.PFCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Mon, 30 Sep 2019 01:06:48 +0900</pubDate>
   </item>
     </channel>
 </rss>

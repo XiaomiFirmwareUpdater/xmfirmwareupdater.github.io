@@ -59,15 +59,15 @@
     android: '9.0'
     miui: V10.4.1.0.PGGMIXM
 - branch: stable
-  date: '2019-10-14'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-14.10.2019/fw_begonia_miui_BEGONIA_V10.4.10.0.PGGCNXM_c4a8c18678_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begonia/fw_begonia_miui_BEGONIA_V10.4.10.0.PGGCNXM_c4a8c18678_9.0.zip
-  filename: fw_begonia_miui_BEGONIA_V10.4.10.0.PGGCNXM_c4a8c18678_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-17.10.2019/fw_begonia_miui_BEGONIA_V10.4.11.0.PGGCNXM_e4e5689324_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begonia/fw_begonia_miui_BEGONIA_V10.4.11.0.PGGCNXM_e4e5689324_9.0.zip
+  filename: fw_begonia_miui_BEGONIA_V10.4.11.0.PGGCNXM_e4e5689324_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.4.10.0.PGGCNXM
+    miui: V10.4.11.0.PGGCNXM
 - branch: stable
   date: '2019-10-14'
   downloads:
@@ -389,15 +389,15 @@
     android: '9.0'
     miui: V10.3.5.0.PEAMIXM
 - branch: stable
-  date: '2019-09-03'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-03.09.2019/fw_dipper_miui_MI8_V10.3.6.0.PEACNXM_e038f4ac7a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8_V10.3.6.0.PEACNXM_e038f4ac7a_9.0.zip
-  filename: fw_dipper_miui_MI8_V10.3.6.0.PEACNXM_e038f4ac7a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-17.10.2019/fw_dipper_miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/dipper/fw_dipper_miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip
+  filename: fw_dipper_miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.3.6.0.PEACNXM
+    miui: V11.0.3.0.PEACNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -539,15 +539,15 @@
     android: '9.0'
     miui: V10.3.4.0.PFBMIXM
 - branch: stable
-  date: '2019-09-04'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-04.09.2019/fw_grus_miui_GRUS_V10.3.6.0.PFBCNXM_71316d435a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUS_V10.3.6.0.PFBCNXM_71316d435a_9.0.zip
-  filename: fw_grus_miui_GRUS_V10.3.6.0.PFBCNXM_71316d435a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-17.10.2019/fw_grus_miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip
+  filename: fw_grus_miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.3.6.0.PFBCNXM
+    miui: V11.0.3.0.PFBCNXM
 - branch: weekly
   date: '2019-09-06'
   downloads:
@@ -1099,15 +1099,15 @@
     android: '9.0'
     miui: V10.3.5.0.PEDMIXM
 - branch: stable
-  date: '2019-09-04'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-04.09.2019/fw_nitrogen_miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/nitrogen/fw_nitrogen_miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip
-  filename: fw_nitrogen_miui_MIMAX3_V10.3.4.0.PEDCNXM_ff71181061_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-17.10.2019/fw_nitrogen_miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/nitrogen/fw_nitrogen_miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.3.4.0.PEDCNXM
+    miui: V11.0.2.0.PEDCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1339,15 +1339,15 @@
     android: '9.0'
     miui: V10.3.5.0.PDTMIXM
 - branch: stable
-  date: '2019-09-04'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-04.09.2019/fw_platina_miui_MI8Lite_V10.3.7.0.PDTCNXM_334c92b05b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/platina/fw_platina_miui_MI8Lite_V10.3.7.0.PDTCNXM_334c92b05b_9.0.zip
-  filename: fw_platina_miui_MI8Lite_V10.3.7.0.PDTCNXM_334c92b05b_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-17.10.2019/fw_platina_miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/platina/fw_platina_miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip
+  filename: fw_platina_miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.3.7.0.PDTCNXM
+    miui: V11.0.2.0.PDTCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1379,15 +1379,15 @@
     android: '9.0'
     miui: V10.3.6.0.PDGMIXM
 - branch: stable
-  date: '2019-09-03'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-03.09.2019/fw_polaris_miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/polaris/fw_polaris_miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip
-  filename: fw_polaris_miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-17.10.2019/fw_polaris_miui_MIMIX2S_V11.0.2.0.PDGCNXM_3926e4c6ec_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/polaris/fw_polaris_miui_MIMIX2S_V11.0.2.0.PDGCNXM_3926e4c6ec_9.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V11.0.2.0.PDGCNXM_3926e4c6ec_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.3.5.0.PDGCNXM
+    miui: V11.0.2.0.PDGCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1779,15 +1779,15 @@
     android: '8.0'
     miui: 9.8.29
 - branch: stable
-  date: '2019-09-04'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/stable-04.09.2019/fw_sirius_miui_MI8SE_V10.3.2.0.PEBCNXM_7a3acfc714_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sirius/fw_sirius_miui_MI8SE_V10.3.2.0.PEBCNXM_7a3acfc714_9.0.zip
-  filename: fw_sirius_miui_MI8SE_V10.3.2.0.PEBCNXM_7a3acfc714_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/stable-17.10.2019/fw_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sirius/fw_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip
+  filename: fw_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.3.2.0.PEBCNXM
+    miui: V11.0.3.0.PEBCNXM
 - branch: weekly
   date: '2019-09-06'
   downloads:
