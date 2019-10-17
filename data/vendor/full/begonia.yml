@@ -54,6 +54,17 @@
     android: '9.0'
     miui: V10.4.10.0.PGGCNXM
 - branch: stable
+  date: '2019-10-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V10.4.11.0.PGGCNXM_e4e5689324_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V10.4.11.0.PGGCNXM_e4e5689324_9.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIA_V10.4.11.0.PGGCNXM_e4e5689324_9.0.zip
+  region: China
+  size: 383.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.11.0.PGGCNXM
+- branch: stable
   date: '2019-09-18'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V10.4.8.0.PGGCNXM_1bf09f2237_9.0.zip

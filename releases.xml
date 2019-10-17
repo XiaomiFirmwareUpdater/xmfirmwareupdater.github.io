@@ -1,110 +1,110 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 18 Oct 2019 01:17:22 +0900</pubDate>
+  <pubDate>Fri, 18 Oct 2019 03:17:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Mi 8 SE (sirius) - V11.0.3.0.PEBCNXM</title>
+    <title>Mi 5X (tiffany) - 9.10.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tiffany</link>
+    <pubDate>Fri, 18 Oct 2019 03:17:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 SE (sirius) - 9.10.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
-    <pubDate>Fri, 18 Oct 2019 01:17:22 +0900</pubDate>
+    <pubDate>Fri, 18 Oct 2019 03:16:07 +0900</pubDate>
   </item>
     <item>
-    <title>Mi MIX 2S (polaris) - V11.0.2.0.PDGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Fri, 18 Oct 2019 01:15:52 +0900</pubDate>
+    <title>Mi Note 2 (scorpio) - 9.10.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/scorpio</link>
+    <pubDate>Fri, 18 Oct 2019 03:14:40 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 8 Lite (platina) - V11.0.2.0.PDTCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Fri, 18 Oct 2019 01:14:10 +0900</pubDate>
+    <title>Redmi 4X (santoni) - 9.10.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/santoni</link>
+    <pubDate>Fri, 18 Oct 2019 03:13:19 +0900</pubDate>
   </item>
     <item>
-    <title>Mi Max 3 (nitrogen) - V11.0.2.0.PEDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 18 Oct 2019 01:12:42 +0900</pubDate>
+    <title>Redmi 6 Pro (sakura) - 9.10.17</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Fri, 18 Oct 2019 03:12:10 +0900</pubDate>
   </item>
     <item>
-    <title>Mi Max 3 (nitrogen) - V11.0.2.0.PEDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 18 Oct 2019 01:12:31 +0900</pubDate>
+    <title>Redmi 6 Pro (sakura) - 9.10.17</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Fri, 18 Oct 2019 03:12:00 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 9 SE (grus) - V11.0.3.0.PFBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Fri, 18 Oct 2019 01:10:51 +0900</pubDate>
+    <title>Mi 6 (sagit) - 9.10.17</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
+    <pubDate>Fri, 18 Oct 2019 03:10:28 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 8 (dipper) - V11.0.3.0.PEACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
-    <pubDate>Fri, 18 Oct 2019 01:09:02 +0900</pubDate>
+    <title>Redmi 5 (rosy) - 9.10.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosy</link>
+    <pubDate>Fri, 18 Oct 2019 03:03:27 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 8 Pro (begonia) - V10.4.11.0.PGGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 18 Oct 2019 01:07:16 +0900</pubDate>
+    <title>Redmi 5A (riva) - 9.10.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
+    <pubDate>Fri, 18 Oct 2019 02:57:54 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 (davinci) - V11.0.3.0.PFJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Thu, 17 Oct 2019 19:06:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V10.3.1.0.PCPINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Wed, 16 Oct 2019 01:35:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V10.3.1.0.PCNINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Wed, 16 Oct 2019 01:34:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V10.3.3.0.PCPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Tue, 15 Oct 2019 02:04:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V10.3.5.0.PCNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Tue, 15 Oct 2019 02:03:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V10.4.5.0.PGGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Mon, 14 Oct 2019 20:16:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V10.4.10.0.PGGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Mon, 14 Oct 2019 13:05:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro (raphael) - V10.3.4.0.PFKEUXM</title>
+    <title>Redmi K20 Pro (raphael) - 9.10.17</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Sat, 12 Oct 2019 19:05:56 +0900</pubDate>
+    <pubDate>Fri, 18 Oct 2019 02:56:44 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 7A (pine) - V10.2.10.0.PCMINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
-    <pubDate>Fri, 11 Oct 2019 19:09:27 +0900</pubDate>
+    <title>Mi MIX 2S (polaris) - 9.10.17</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Fri, 18 Oct 2019 02:46:12 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 8 (ginkgo) - V10.3.1.0.PCOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 11 Oct 2019 17:17:25 +0900</pubDate>
+    <title>Mi 8 Lite (platina) - 9.10.17</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Fri, 18 Oct 2019 02:44:25 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 (davinci) - V10.3.15.0.PFJEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Fri, 11 Oct 2019 01:05:49 +0900</pubDate>
+    <title>Mi MIX 3 (perseus) - 9.10.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Fri, 18 Oct 2019 02:42:46 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 6 (cereus) - V10.4.4.0.PCGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
-    <pubDate>Thu, 10 Oct 2019 01:17:55 +0900</pubDate>
+    <title>Mi Max 2 (oxygen) - 9.10.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/oxygen</link>
+    <pubDate>Fri, 18 Oct 2019 02:41:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - 9.10.17</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 18 Oct 2019 02:39:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - 9.10.17</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 18 Oct 2019 02:39:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 5s Plus (natrium) - 9.10.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/natrium</link>
+    <pubDate>Fri, 18 Oct 2019 02:37:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 4 (mido) - 9.9.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mido</link>
+    <pubDate>Fri, 18 Oct 2019 02:36:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Play (lotus) - 9.10.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
+    <pubDate>Fri, 18 Oct 2019 02:35:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX (lithium) - 9.10.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lithium</link>
+    <pubDate>Fri, 18 Oct 2019 02:26:55 +0900</pubDate>
   </item>
     </channel>
 </rss>

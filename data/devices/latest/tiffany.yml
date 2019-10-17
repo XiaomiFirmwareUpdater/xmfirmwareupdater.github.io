@@ -9,12 +9,12 @@
     android: '8.1'
     miui: V10.3.1.0.ODBCNXM
 - branch: weekly
-  date: '2019-08-30'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-30.08.2019/fw_tiffany_miui_MI5X_9.8.29_9c43b3cd13_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.29/tiffany/fw_tiffany_miui_MI5X_9.8.29_9c43b3cd13_8.1.zip
-  filename: fw_tiffany_miui_MI5X_9.8.29_9c43b3cd13_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tiffany/releases/download/weekly-17.10.2019/fw_tiffany_miui_MI5X_9.10.10_a8e7c48b8e_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/tiffany/fw_tiffany_miui_MI5X_9.10.10_a8e7c48b8e_8.1.zip
+  filename: fw_tiffany_miui_MI5X_9.10.10_a8e7c48b8e_8.1.zip
   region: China
   versions:
     android: '8.1'
-    miui: 9.8.29
+    miui: 9.10.10
