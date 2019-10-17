@@ -123,7 +123,7 @@ function loadLatestFirmware() {
                 },
                 "pageLength": 100,
                 "pagingType": "full_numbers",
-                "order": [[6, "desc"]],
+                "order": [[7, "desc"]],
                 data: data,
                 columns: [
                     {
