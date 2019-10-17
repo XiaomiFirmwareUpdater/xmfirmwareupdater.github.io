@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2019-10-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-17.10.2019/fw_violet_miui_VIOLET_9.10.17_2a4c9f21ee_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.17/violet/fw_violet_miui_VIOLET_9.10.17_2a4c9f21ee_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.10.17_2a4c9f21ee_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.10.17
+- branch: weekly
   date: '2019-09-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-06.09.2019/fw_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip

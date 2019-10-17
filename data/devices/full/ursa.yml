@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2019-10-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-17.10.2019/fw_ursa_miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.26/ursa/fw_ursa_miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
+  filename: fw_ursa_miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.9.26
+- branch: weekly
   date: '2019-09-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-06.09.2019/fw_ursa_miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip

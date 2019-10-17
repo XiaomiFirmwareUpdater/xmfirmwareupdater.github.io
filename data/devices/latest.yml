@@ -1899,15 +1899,15 @@
     android: '7.1'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-09-02'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-02.09.2019/fw_ugg_miui_HMNote5A_9.8.29_598a45ec9b_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.29/ugg/fw_ugg_miui_HMNote5A_9.8.29_598a45ec9b_7.1.zip
-  filename: fw_ugg_miui_HMNote5A_9.8.29_598a45ec9b_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-17.10.2019/fw_ugg_miui_HMNote5A_9.10.10_064266a851_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/ugg/fw_ugg_miui_HMNote5A_9.10.10_064266a851_7.1.zip
+  filename: fw_ugg_miui_HMNote5A_9.10.10_064266a851_7.1.zip
   region: China
   versions:
     android: '7.1'
-    miui: 9.8.29
+    miui: 9.10.10
 - branch: stable
   date: '2019-08-06'
   downloads:
@@ -1939,15 +1939,15 @@
     android: '7.1'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-09-02'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-02.09.2019/fw_ugglite_miui_HMNote5ALITE_9.8.29_aa358ff714_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.29/ugglite/fw_ugglite_miui_HMNote5ALITE_9.8.29_aa358ff714_7.1.zip
-  filename: fw_ugglite_miui_HMNote5ALITE_9.8.29_aa358ff714_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/weekly-17.10.2019/fw_ugglite_miui_HMNote5ALITE_9.10.10_59dbf39bc3_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/ugglite/fw_ugglite_miui_HMNote5ALITE_9.10.10_59dbf39bc3_7.1.zip
+  filename: fw_ugglite_miui_HMNote5ALITE_9.10.10_59dbf39bc3_7.1.zip
   region: China
   versions:
     android: '7.1'
-    miui: 9.8.29
+    miui: 9.10.10
 - branch: stable
   date: '2019-08-13'
   downloads:
@@ -1959,15 +1959,15 @@
     android: '9.0'
     miui: V10.3.6.0.PEHCNXM
 - branch: weekly
-  date: '2019-09-06'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-06.09.2019/fw_ursa_miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.3/ursa/fw_ursa_miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip
-  filename: fw_ursa_miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-17.10.2019/fw_ursa_miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.26/ursa/fw_ursa_miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
+  filename: fw_ursa_miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.9.3
+    miui: 9.9.26
 - branch: stable
   date: '2019-09-16'
   downloads:
@@ -2009,15 +2009,15 @@
     android: '8.1'
     miui: 8.11.15
 - branch: weekly
-  date: '2019-09-04'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-04.09.2019/fw_vince_miui_HM5Plus_9.9.2_38e86b99ac_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.2/vince/fw_vince_miui_HM5Plus_9.9.2_38e86b99ac_8.1.zip
-  filename: fw_vince_miui_HM5Plus_9.9.2_38e86b99ac_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/weekly-17.10.2019/fw_vince_miui_HM5Plus_9.10.10_a2ad5bd3b7_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/vince/fw_vince_miui_HM5Plus_9.10.10_a2ad5bd3b7_8.1.zip
+  filename: fw_vince_miui_HM5Plus_9.10.10_a2ad5bd3b7_8.1.zip
   region: China
   versions:
     android: '8.1'
-    miui: 9.9.2
+    miui: 9.10.10
 - branch: stable
   date: '2019-08-05'
   downloads:
@@ -2029,15 +2029,15 @@
     android: '9.0'
     miui: V10.3.10.0.PFHCNXM
 - branch: weekly
-  date: '2019-09-06'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-06.09.2019/fw_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.3/violet/fw_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-17.10.2019/fw_violet_miui_VIOLET_9.10.17_2a4c9f21ee_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.17/violet/fw_violet_miui_VIOLET_9.10.17_2a4c9f21ee_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.10.17_2a4c9f21ee_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.9.3
+    miui: 9.10.17
 - branch: stable
   date: '2019-08-20'
   downloads:
@@ -2059,15 +2059,15 @@
     android: '9.0'
     miui: V10.3.6.0.PDCCNXM
 - branch: weekly
-  date: '2019-09-06'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-06.09.2019/fw_wayne_miui_MI6X_9.9.3_3ad06bc283_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.3/wayne/fw_wayne_miui_MI6X_9.9.3_3ad06bc283_9.0.zip
-  filename: fw_wayne_miui_MI6X_9.9.3_3ad06bc283_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-17.10.2019/fw_wayne_miui_MI6X_9.10.17_dfcad8ca03_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.17/wayne/fw_wayne_miui_MI6X_9.10.17_dfcad8ca03_9.0.zip
+  filename: fw_wayne_miui_MI6X_9.10.17_dfcad8ca03_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.9.3
+    miui: 9.10.17
 - branch: stable
   date: '2019-08-19'
   downloads:
@@ -2099,15 +2099,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-09-06'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-06.09.2019/fw_whyred_miui_HMNote5_9.9.3_d6316ce86a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.3/whyred/fw_whyred_miui_HMNote5_9.9.3_d6316ce86a_9.0.zip
-  filename: fw_whyred_miui_HMNote5_9.9.3_d6316ce86a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-17.10.2019/fw_whyred_miui_HMNote5_9.10.17_9caa3d5a4d_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.17/whyred/fw_whyred_miui_HMNote5_9.10.17_9caa3d5a4d_9.0.zip
+  filename: fw_whyred_miui_HMNote5_9.10.17_9caa3d5a4d_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.9.3
+    miui: 9.10.17
 - branch: stable
   date: '2019-08-07'
   downloads:
