@@ -498,7 +498,7 @@ function loadMiuiArchive(device) {
                     var full_codename = key;
                     var codename = key.split('_')[0];
                     var name = devices[codename];
-                    if (codename == device) {
+                    if (codename == device || device == "") {
                         Object.entries(value).forEach(function ([rom, link]) {
                             var version = rom;
                             var download = link;
