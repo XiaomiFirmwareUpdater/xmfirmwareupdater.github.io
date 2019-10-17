@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2019-10-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-17.10.2019/fw_davinci_miui_DAVINCI_V11.0.3.0.PFJCNXM_104ec46429_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/davinci/fw_davinci_miui_DAVINCI_V11.0.3.0.PFJCNXM_104ec46429_9.0.zip
+  filename: fw_davinci_miui_DAVINCI_V11.0.3.0.PFJCNXM_104ec46429_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFJCNXM
+- branch: stable
   date: '2019-10-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-10.10.2019/fw_davinci_miui_DAVINCIEEAGlobal_V10.3.15.0.PFJEUXM_b6738621e2_9.0.zip
