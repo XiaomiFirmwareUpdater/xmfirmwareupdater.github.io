@@ -76,6 +76,17 @@
     android: '9.0'
     miui: V10.4.2.0.PGGRUXM
 - branch: stable
+  date: '2019-10-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V10.4.3.0.PGGINXM_b1c691aa29_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V10.4.3.0.PGGINXM_b1c691aa29_9.0.zip/download
+  filename: fw-vendor_begoniain_miui_BEGONIAININGlobal_V10.4.3.0.PGGINXM_b1c691aa29_9.0.zip
+  region: India
+  size: 453.9 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.3.0.PGGINXM
+- branch: stable
   date: '2019-10-09'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
@@ -86,17 +97,6 @@
   versions:
     android: '9.0'
     miui: V10.3.8.0.PEJMIXM
-- branch: weekly
-  date: '2019-06-28'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_global_9.6.27.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-weekly/fw-vendor_beryllium_global_9.6.27.zip/download
-  filename: fw-vendor_beryllium_global_9.6.27.zip
-  region: Global
-  size: 473.4 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
 - branch: stable
   date: '2019-09-03'
   downloads:
