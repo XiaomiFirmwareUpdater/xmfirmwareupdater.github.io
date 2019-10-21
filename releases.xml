@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 19 Oct 2019 00:17:31 +0900</pubDate>
+  <pubDate>Tue, 22 Oct 2019 01:09:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 6 Pro (sakura) - HM6ProINGlobal</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Tue, 22 Oct 2019 01:09:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - HM6ProINGlobal</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Tue, 22 Oct 2019 01:09:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8A (olivelite) - V10.3.4.0.PCPCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Tue, 22 Oct 2019 01:08:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8 (olive) - V10.3.6.0.PCNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
+    <pubDate>Tue, 22 Oct 2019 01:06:48 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC9 Meitu Edition (vela) - 9.10.17</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 5A Prime (ugg) - 9.10.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ugg</link>
     <pubDate>Fri, 18 Oct 2019 03:35:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 5X (tiffany) - 9.10.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tiffany</link>
-    <pubDate>Fri, 18 Oct 2019 03:17:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 SE (sirius) - 9.10.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
-    <pubDate>Fri, 18 Oct 2019 03:16:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 2 (scorpio) - 9.10.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/scorpio</link>
-    <pubDate>Fri, 18 Oct 2019 03:14:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 4X (santoni) - 9.10.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/santoni</link>
-    <pubDate>Fri, 18 Oct 2019 03:13:19 +0900</pubDate>
   </item>
     </channel>
 </rss>

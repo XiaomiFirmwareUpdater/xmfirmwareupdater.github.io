@@ -571,16 +571,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2019-10-14'
+  date: '2019-10-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.5.0.PCNCNXM_ad8b2dc76b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.5.0.PCNCNXM_ad8b2dc76b_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVE_V10.3.5.0.PCNCNXM_ad8b2dc76b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.6.0.PCNCNXM_b206164110_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.6.0.PCNCNXM_b206164110_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVE_V10.3.6.0.PCNCNXM_b206164110_9.0.zip
   region: China
-  size: 330.0 MB
+  size: 327.8 MB
   versions:
     android: '9.0'
-    miui: V10.3.5.0.PCNCNXM
+    miui: V10.3.6.0.PCNCNXM
 - branch: stable
   date: '2019-10-15'
   downloads:
@@ -593,16 +593,16 @@
     android: '9.0'
     miui: V10.3.1.0.PCNINXM
 - branch: stable
-  date: '2019-10-14'
+  date: '2019-10-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V10.3.3.0.PCPCNXM_c018ab36fb_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V10.3.3.0.PCPCNXM_c018ab36fb_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITE_V10.3.3.0.PCPCNXM_c018ab36fb_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip
   region: China
-  size: 226.8 MB
+  size: 250.2 MB
   versions:
     android: '9.0'
-    miui: V10.3.3.0.PCPCNXM
+    miui: V10.3.4.0.PCPCNXM
 - branch: stable
   date: '2019-10-15'
   downloads:
@@ -868,16 +868,16 @@
     android: '8.0'
     miui: V10.3.1.0.OCACNXM
 - branch: stable
-  date: '2019-07-26'
+  date: '2019-10-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip/download
-  filename: fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura-india_miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-stable/fw-vendor_sakura-india_miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip/download
+  filename: fw-vendor_sakura-india_miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip
   region: Global
-  size: 249.4 MB
+  size: 249.5 MB
   versions:
     android: '9.0'
-    miui: V10.3.3.0.PDMMIXM
+    miui: V10.3.8.0.PDMMIXM
 - branch: stable
   date: '2019-08-06'
   downloads:

@@ -20,3 +20,14 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
+- branch: stable
+  date: '2019-10-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.6.0.PCNCNXM_b206164110_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.6.0.PCNCNXM_b206164110_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVE_V10.3.6.0.PCNCNXM_b206164110_9.0.zip
+  region: China
+  size: 327.8 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.6.0.PCNCNXM
