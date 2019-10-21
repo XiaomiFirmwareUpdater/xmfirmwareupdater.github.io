@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 22 Oct 2019 01:09:37 +0900</pubDate>
+  <pubDate>Tue, 22 Oct 2019 01:53:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8 Pro (begoniain) - V10.4.3.0.PGGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
+    <pubDate>Tue, 22 Oct 2019 01:53:34 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 6 Pro (sakura) - HM6ProINGlobal</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 5A (2GB) (ugglite) - 9.10.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ugglite</link>
     <pubDate>Fri, 18 Oct 2019 03:36:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5A Prime (ugg) - 9.10.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ugg</link>
-    <pubDate>Fri, 18 Oct 2019 03:35:44 +0900</pubDate>
   </item>
     </channel>
 </rss>
