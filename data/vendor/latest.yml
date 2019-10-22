@@ -98,6 +98,17 @@
     android: '9.0'
     miui: V10.3.8.0.PEJMIXM
 - branch: stable
+  date: '2019-10-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip/download
+  filename: fw-vendor_cactus_miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip
+  region: Global
+  size: 177.4 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.4.0.PCBMIXM
+- branch: stable
   date: '2019-09-03'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-stable/fw-vendor_cactus_V10.4.4.0.PCBCNXM.zip
@@ -119,17 +130,6 @@
   versions:
     android: '9.0'
     miui: 9.8.15
-- branch: weekly
-  date: '2019-04-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cappu-weekly/fw-vendor_cappu_miui_MIPAD3_9.3.28_c45cc79b92_7.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cappu-weekly/fw-vendor_cappu_miui_MIPAD3_9.3.28_c45cc79b92_7.0.zip/download
-  filename: fw-vendor_cappu_miui_MIPAD3_9.3.28_c45cc79b92_7.0.zip
-  region: China
-  size: 5.6 MB
-  versions:
-    android: '7.0'
-    miui: 9.3.28
 - branch: weekly
   date: '2019-04-05'
   downloads:
