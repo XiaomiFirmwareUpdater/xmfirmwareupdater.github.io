@@ -10,13 +10,13 @@
     android: '9.0'
     miui: V10.3.6.0.PCNCNXM
 - branch: stable
-  date: '2019-10-15'
+  date: '2019-10-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.1.0.PCNINXM_58cd7dd6c9_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.1.0.PCNINXM_58cd7dd6c9_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVEINGlobal_V10.3.1.0.PCNINXM_58cd7dd6c9_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip
   region: India
-  size: 362.4 MB
+  size: 362.0 MB
   versions:
     android: '9.0'
-    miui: V10.3.1.0.PCNINXM
+    miui: V10.3.3.0.PCNINXM

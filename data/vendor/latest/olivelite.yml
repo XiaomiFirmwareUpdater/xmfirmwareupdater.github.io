@@ -10,13 +10,13 @@
     android: '9.0'
     miui: V10.3.4.0.PCPCNXM
 - branch: stable
-  date: '2019-10-15'
+  date: '2019-10-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITEINGlobal_V10.3.1.0.PCPINXM_cf5a4b94a3_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEINGlobal_V10.3.3.0.PCPINXM_d2ca3db3eb_9.0.zip
   region: India
-  size: 237.1 MB
+  size: 283.4 MB
   versions:
     android: '9.0'
-    miui: V10.3.1.0.PCPINXM
+    miui: V10.3.3.0.PCPINXM
