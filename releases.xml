@@ -1,11 +1,51 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 23 Oct 2019 01:05:41 +0900</pubDate>
+  <pubDate>Wed, 23 Oct 2019 20:14:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 9 (cepheus) - 9.8.22</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 23 Oct 2019 20:14:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 5 Plus (vince) - V10.3.2.0.OEGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vince</link>
+    <pubDate>Wed, 23 Oct 2019 20:12:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 5X (tiffany) - V10.3.2.0.ODBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tiffany</link>
+    <pubDate>Wed, 23 Oct 2019 20:11:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 7A (pine) - V11.0.2.0.PCMEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
+    <pubDate>Wed, 23 Oct 2019 20:10:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8A (olivelite) - V10.3.3.0.PCPINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Wed, 23 Oct 2019 20:09:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8 (olive) - V10.3.3.0.PCNINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
+    <pubDate>Wed, 23 Oct 2019 20:08:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9T (davinciin) - V11.0.2.0.PFJINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
+    <pubDate>Wed, 23 Oct 2019 20:06:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 (davinci) - V11.0.2.0.PFJEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Wed, 23 Oct 2019 20:02:22 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 6A (cactus) - V10.4.4.0.PCBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
@@ -65,46 +105,6 @@
     <title>Mi MIX 3 (perseus) - V11.0.3.0.PEECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
     <pubDate>Fri, 18 Oct 2019 19:10:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.1.0.PFLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Fri, 18 Oct 2019 19:08:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - V11.0.2.0.PECCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Fri, 18 Oct 2019 19:07:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5 (whyred) - 9.10.17</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Fri, 18 Oct 2019 03:50:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 9.10.17</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 18 Oct 2019 03:49:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 9.10.17</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 18 Oct 2019 03:49:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 9.10.17</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 18 Oct 2019 03:47:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 5 Plus (vince) - 9.10.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vince</link>
-    <pubDate>Fri, 18 Oct 2019 03:40:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Explorer (ursa) - 9.9.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Fri, 18 Oct 2019 03:39:17 +0900</pubDate>
   </item>
     </channel>
 </rss>
