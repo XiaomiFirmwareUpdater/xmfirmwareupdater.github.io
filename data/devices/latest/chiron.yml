@@ -9,15 +9,15 @@
     android: '8.0'
     miui: V10.3.5.0.ODEMIXM
 - branch: stable
-  date: '2019-04-23'
+  date: '2019-10-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/stable-23.04.2019/fw_chiron_miui_MIMIX2_V10.3.1.0.ODECNXM_2fecb5a6ab_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/chiron/fw_chiron_miui_MIMIX2_V10.3.1.0.ODECNXM_2fecb5a6ab_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_V10.3.1.0.ODECNXM_2fecb5a6ab_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/stable-24.10.2019/fw_chiron_miui_MIMIX2_V11.0.2.0.PDECNXM_8172246504_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/chiron/fw_chiron_miui_MIMIX2_V11.0.2.0.PDECNXM_8172246504_9.0.zip
+  filename: fw_chiron_miui_MIMIX2_V11.0.2.0.PDECNXM_8172246504_9.0.zip
   region: China
   versions:
-    android: '8.0'
-    miui: V10.3.1.0.ODECNXM
+    android: '9.0'
+    miui: V11.0.2.0.PDECNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
