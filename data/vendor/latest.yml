@@ -219,16 +219,16 @@
     android: '8.1'
     miui: V10.3.2.0.ODJCNXM
 - branch: stable
-  date: '2019-09-26'
+  date: '2019-10-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-stable/fw-vendor_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-stable/fw-vendor_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip/download
-  filename: fw-vendor_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-stable/fw-vendor_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-stable/fw-vendor_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip/download
+  filename: fw-vendor_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
   region: China
-  size: 828.1 MB
+  size: 826.7 MB
   versions:
     android: '9.0'
-    miui: V10.4.6.0.PFXCNXM
+    miui: V11.0.2.0.PFXCNXM
 - branch: stable
   date: '2019-09-07'
   downloads:
@@ -661,14 +661,14 @@
 - branch: stable
   date: '2019-10-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip/download
-  filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip/download
+  filename: fw-vendor_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
   region: Europe
-  size: 205.6 MB
+  size: 193.5 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PCMEUXM
+    miui: V10.2.5.0.PCMEUXM
 - branch: stable
   date: '2019-10-25'
   downloads:
@@ -769,16 +769,16 @@
     android: '9.0'
     miui: V10.3.1.0.PFCMIXM
 - branch: stable
-  date: '2019-09-29'
+  date: '2019-10-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-stable/fw-vendor_pyxis_miui_PYXIS_V10.3.13.0.PFCCNXM_99576fd3ca_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-stable/fw-vendor_pyxis_miui_PYXIS_V10.3.13.0.PFCCNXM_99576fd3ca_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXIS_V10.3.13.0.PFCCNXM_99576fd3ca_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-stable/fw-vendor_pyxis_miui_PYXIS_V11.3.1.0.PFCCNXM_afa99e1de4_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-stable/fw-vendor_pyxis_miui_PYXIS_V11.3.1.0.PFCCNXM_afa99e1de4_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXIS_V11.3.1.0.PFCCNXM_afa99e1de4_9.0.zip
   region: China
-  size: 590.7 MB
+  size: 658.5 MB
   versions:
     android: '9.0'
-    miui: V10.3.13.0.PFCCNXM
+    miui: V11.3.1.0.PFCCNXM
 - branch: stable
   date: '2019-10-04'
   downloads:
