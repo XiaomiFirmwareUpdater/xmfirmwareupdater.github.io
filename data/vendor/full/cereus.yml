@@ -1,3 +1,25 @@
+- branch: weekly
+  date: '2019-10-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cereus-weekly/fw-vendor_cereus_miui_HM6_9.9.3_da134d01c5_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cereus-weekly/fw-vendor_cereus_miui_HM6_9.9.3_da134d01c5_9.0.zip/download
+  filename: fw-vendor_cereus_miui_HM6_9.9.3_da134d01c5_9.0.zip
+  region: China
+  size: 291.3 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
+- branch: stable
+  date: '2019-10-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cereus-stable/fw-vendor_cereus_miui_HM6_V10.4.3.0.PCGCNXM_5149257674_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cereus-stable/fw-vendor_cereus_miui_HM6_V10.4.3.0.PCGCNXM_5149257674_9.0.zip/download
+  filename: fw-vendor_cereus_miui_HM6_V10.4.3.0.PCGCNXM_5149257674_9.0.zip
+  region: China
+  size: 185.0 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.3.0.PCGCNXM
 - branch: stable
   date: '2019-10-09'
   downloads:

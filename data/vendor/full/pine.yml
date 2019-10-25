@@ -1,0 +1,55 @@
+- branch: stable
+  date: '2019-10-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V10.2.4.0.PCMRUXM_4dd352431f_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V10.2.4.0.PCMRUXM_4dd352431f_9.0.zip/download
+  filename: fw-vendor_pine_miui_PINERUGlobal_V10.2.4.0.PCMRUXM_4dd352431f_9.0.zip
+  region: Russia
+  size: 198.9 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.4.0.PCMRUXM
+- branch: stable
+  date: '2019-10-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V10.2.10.0.PCMINXM_5df89bb6dd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V10.2.10.0.PCMINXM_5df89bb6dd_9.0.zip/download
+  filename: fw-vendor_pine_miui_PINEINGlobal_V10.2.10.0.PCMINXM_5df89bb6dd_9.0.zip
+  region: India
+  size: 198.9 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.10.0.PCMINXM
+- branch: stable
+  date: '2019-10-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip/download
+  filename: fw-vendor_pine_miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip
+  region: Global
+  size: 193.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.5.0.PCMMIXM
+- branch: stable
+  date: '2019-10-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip/download
+  filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip
+  region: Europe
+  size: 205.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PCMEUXM
+- branch: stable
+  date: '2019-10-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V10.2.14.0.PCMCNXM_fa762a99f7_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine-stable/fw-vendor_pine_miui_PINE_V10.2.14.0.PCMCNXM_fa762a99f7_9.0.zip/download
+  filename: fw-vendor_pine_miui_PINE_V10.2.14.0.PCMCNXM_fa762a99f7_9.0.zip
+  region: China
+  size: 198.9 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.14.0.PCMCNXM
