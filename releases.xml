@@ -1,11 +1,71 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 25 Oct 2019 22:47:25 +0900</pubDate>
+  <pubDate>Fri, 25 Oct 2019 23:53:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 5 (whyred) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
+    <pubDate>Fri, 25 Oct 2019 23:53:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 6X (wayne) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
+    <pubDate>Fri, 25 Oct 2019 23:51:41 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 6X (wayne) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
+    <pubDate>Fri, 25 Oct 2019 23:51:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Fri, 25 Oct 2019 23:49:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC9 Meitu Edition (vela) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
+    <pubDate>Fri, 25 Oct 2019 23:48:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Explorer (ursa) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
+    <pubDate>Fri, 25 Oct 2019 23:46:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 SE (sirius) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
+    <pubDate>Fri, 25 Oct 2019 23:45:00 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Fri, 25 Oct 2019 23:43:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Fri, 25 Oct 2019 23:43:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 6 (sagit) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
+    <pubDate>Fri, 25 Oct 2019 23:41:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro (raphael) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 25 Oct 2019 23:38:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9 (pyxis) - 9.10.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Fri, 25 Oct 2019 23:34:06 +0900</pubDate>
+  </item>
     <item>
     <title>Mi MIX 2S (polaris) - 9.10.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
@@ -45,66 +105,6 @@
     <title>Mi 9 SE (grus) - 9.10.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
     <pubDate>Fri, 25 Oct 2019 22:33:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Fri, 25 Oct 2019 22:28:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 (dipper) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
-    <pubDate>Fri, 25 Oct 2019 22:24:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 (davinci) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Fri, 25 Oct 2019 22:22:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 (cereus) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
-    <pubDate>Fri, 25 Oct 2019 22:18:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 25 Oct 2019 22:16:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6A (cactus) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
-    <pubDate>Fri, 25 Oct 2019 22:14:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 (davinci) - V10.3.15.0.PFJEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Fri, 25 Oct 2019 13:05:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V10.3.2.0.PCOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 25 Oct 2019 07:05:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6 (sagit) - V11.0.2.0.PCACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Fri, 25 Oct 2019 01:08:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2 (chiron) - V11.0.2.0.PDECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
-    <pubDate>Fri, 25 Oct 2019 01:06:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V10.3.5.0.PCOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Thu, 24 Oct 2019 13:10:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V10.3.8.0.PCOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Thu, 24 Oct 2019 13:09:21 +0900</pubDate>
   </item>
     </channel>
 </rss>

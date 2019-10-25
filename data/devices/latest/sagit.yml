@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-10-17'
+  date: '2019-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-17.10.2019/fw_sagit_miui_MI6_9.10.17_ef23ceba92_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.17/sagit/fw_sagit_miui_MI6_9.10.17_ef23ceba92_9.0.zip
-  filename: fw_sagit_miui_MI6_9.10.17_ef23ceba92_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-25.10.2019/fw_sagit_miui_MI6_9.10.24_f04fb7e426_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.24/sagit/fw_sagit_miui_MI6_9.10.24_f04fb7e426_9.0.zip
+  filename: fw_sagit_miui_MI6_9.10.24_f04fb7e426_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.10.17
+    miui: 9.10.24
