@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 25 Oct 2019 23:56:52 +0900</pubDate>
+  <pubDate>Sat, 26 Oct 2019 01:13:20 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 (pyxis) - V11.3.1.0.PFCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Sat, 26 Oct 2019 01:13:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 7A (pine) - V10.2.5.0.PCMEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
+    <pubDate>Sat, 26 Oct 2019 01:08:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - V11.0.2.0.PFXCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Sat, 26 Oct 2019 01:07:44 +0900</pubDate>
+  </item>
     <item>
     <title>Mi MIX 2S (polaris) - 9.10.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
@@ -90,21 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 9.10.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Fri, 25 Oct 2019 22:39:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 (lavender) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 25 Oct 2019 22:37:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 3 (jason) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
-    <pubDate>Fri, 25 Oct 2019 22:35:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Fri, 25 Oct 2019 22:33:23 +0900</pubDate>
   </item>
     </channel>
 </rss>

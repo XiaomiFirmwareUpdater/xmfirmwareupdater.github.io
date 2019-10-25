@@ -349,15 +349,15 @@
     android: '8.1'
     miui: 9.8.29
 - branch: stable
-  date: '2019-09-26'
+  date: '2019-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-26.09.2019/fw_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/crux/fw_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
-  filename: fw_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-25.10.2019/fw_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/crux/fw_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
+  filename: fw_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.4.6.0.PFXCNXM
+    miui: V11.0.2.0.PFXCNXM
 - branch: stable
   date: '2019-08-12'
   downloads:
@@ -1349,15 +1349,15 @@
     android: '9.0'
     miui: V10.2.10.0.PCMCNXM
 - branch: stable
-  date: '2019-10-23'
+  date: '2019-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-23.10.2019/fw_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip
-  filename: fw_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-25.10.2019/fw_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
+  filename: fw_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PCMEUXM
+    miui: V10.2.5.0.PCMEUXM
 - branch: stable
   date: '2019-10-11'
   downloads:
@@ -1479,15 +1479,15 @@
     android: '9.0'
     miui: V10.3.1.0.PFCMIXM
 - branch: stable
-  date: '2019-09-29'
+  date: '2019-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-29.09.2019/fw_pyxis_miui_PYXIS_V10.3.13.0.PFCCNXM_99576fd3ca_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pyxis/fw_pyxis_miui_PYXIS_V10.3.13.0.PFCCNXM_99576fd3ca_9.0.zip
-  filename: fw_pyxis_miui_PYXIS_V10.3.13.0.PFCCNXM_99576fd3ca_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-25.10.2019/fw_pyxis_miui_PYXIS_V11.3.1.0.PFCCNXM_afa99e1de4_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXIS_V11.3.1.0.PFCCNXM_afa99e1de4_9.0.zip
+  filename: fw_pyxis_miui_PYXIS_V11.3.1.0.PFCCNXM_afa99e1de4_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.3.13.0.PFCCNXM
+    miui: V11.3.1.0.PFCCNXM
 - branch: weekly
   date: '2019-10-25'
   downloads:
