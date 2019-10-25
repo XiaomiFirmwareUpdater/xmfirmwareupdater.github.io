@@ -19,12 +19,12 @@
     android: '9.0'
     miui: V10.4.3.0.PCGCNXM
 - branch: weekly
-  date: '2019-10-17'
+  date: '2019-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-17.10.2019/fw_cereus_miui_HM6_9.10.17_2be244ccad_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.17/cereus/fw_cereus_miui_HM6_9.10.17_2be244ccad_9.0.zip
-  filename: fw_cereus_miui_HM6_9.10.17_2be244ccad_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-25.10.2019/fw_cereus_miui_HM6_9.10.24_0bda1c6de8_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.24/cereus/fw_cereus_miui_HM6_9.10.24_0bda1c6de8_9.0.zip
+  filename: fw_cereus_miui_HM6_9.10.24_0bda1c6de8_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.10.17
+    miui: 9.10.24

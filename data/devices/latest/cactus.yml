@@ -19,12 +19,12 @@
     android: '9.0'
     miui: V10.4.4.0.PCBCNXM
 - branch: weekly
-  date: '2019-10-17'
+  date: '2019-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-17.10.2019/fw_cactus_miui_HM6A_9.10.17_615fb0054b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.17/cactus/fw_cactus_miui_HM6A_9.10.17_615fb0054b_9.0.zip
-  filename: fw_cactus_miui_HM6A_9.10.17_615fb0054b_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-25.10.2019/fw_cactus_miui_HM6A_9.10.24_eac89357b2_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.24/cactus/fw_cactus_miui_HM6A_9.10.24_eac89357b2_9.0.zip
+  filename: fw_cactus_miui_HM6A_9.10.24_eac89357b2_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.10.17
+    miui: 9.10.24
