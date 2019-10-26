@@ -19,15 +19,15 @@
     android: '9.0'
     miui: V11.0.1.0.PFLCNXM
 - branch: stable
-  date: '2019-08-16'
+  date: '2019-10-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-16.08.2019/fw_onc_miui_ONCLITEEEAGlobal_V10.3.4.0.PFLEUXM_e6aa0ea182_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/onc/fw_onc_miui_ONCLITEEEAGlobal_V10.3.4.0.PFLEUXM_e6aa0ea182_9.0.zip
-  filename: fw_onc_miui_ONCLITEEEAGlobal_V10.3.4.0.PFLEUXM_e6aa0ea182_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-26.10.2019/fw_onc_miui_ONCLITEEEAGlobal_V11.0.3.0.PFLEUXM_354f31965f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.3.0.PFLEUXM_354f31965f_9.0.zip
+  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.3.0.PFLEUXM_354f31965f_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V10.3.4.0.PFLEUXM
+    miui: V11.0.3.0.PFLEUXM
 - branch: stable
   date: '2019-08-12'
   downloads:

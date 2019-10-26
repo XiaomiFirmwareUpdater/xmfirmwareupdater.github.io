@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 26 Oct 2019 01:13:20 +0900</pubDate>
+  <pubDate>Sun, 27 Oct 2019 01:10:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.3.0.PFLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Sun, 27 Oct 2019 01:10:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7 (lavender) - V11.0.3.0.PFGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Sun, 27 Oct 2019 01:09:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9T (davinciin) - V10.3.8.0.PFJINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
+    <pubDate>Sun, 27 Oct 2019 01:07:34 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 (pyxis) - V11.3.1.0.PFCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
@@ -90,21 +105,6 @@
     <title>Mi 8 Lite (platina) - 9.10.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
     <pubDate>Fri, 25 Oct 2019 22:45:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Fri, 25 Oct 2019 22:43:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 25 Oct 2019 22:39:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 25 Oct 2019 22:39:09 +0900</pubDate>
   </item>
     </channel>
 </rss>
