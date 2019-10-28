@@ -142,16 +142,16 @@
     android: '9.0'
     miui: V10.2.14.0.PFAMIXM
 - branch: stable
-  date: '2019-09-13'
+  date: '2019-10-28'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip/download
-  filename: fw-vendor_cepheus_miui_CEPHEUS_V10.2.35.0.PFACNXM_9959298730_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V11.0.2.0.QFACNXM_eb6e5d0b57_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V11.0.2.0.QFACNXM_eb6e5d0b57_10.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUS_V11.0.2.0.QFACNXM_eb6e5d0b57_10.0.zip
   region: China
-  size: 762.3 MB
+  size: 775.0 MB
   versions:
-    android: '9.0'
-    miui: V10.2.35.0.PFACNXM
+    android: '10.0'
+    miui: V11.0.2.0.QFACNXM
 - branch: stable
   date: '2019-09-16'
   downloads:

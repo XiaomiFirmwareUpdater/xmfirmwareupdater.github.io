@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2019-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/stable-28.10.2019/fw_vela_miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vela/fw_vela_miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip
+  filename: fw_vela_miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.3.1.0.PFECNXM
 - branch: weekly
   date: '2019-10-25'
   downloads:

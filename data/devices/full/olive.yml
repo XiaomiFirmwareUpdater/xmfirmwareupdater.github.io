@@ -9,6 +9,16 @@
     android: '9.0'
     miui: V10.3.1.0.PCNINXM
 - branch: stable
+  date: '2019-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-28.10.2019/fw_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/olive/fw_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip
+  filename: fw_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PCNINXM
+- branch: stable
   date: '2019-10-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-23.10.2019/fw_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip
