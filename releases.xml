@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 28 Oct 2019 07:05:54 +0900</pubDate>
+  <pubDate>Mon, 28 Oct 2019 13:22:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V10.3.4.0.PFLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Mon, 28 Oct 2019 13:22:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9T (davinciin) - V11.0.2.0.PFJINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
+    <pubDate>Mon, 28 Oct 2019 13:21:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 (davinci) - V11.0.2.0.PFJEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Mon, 28 Oct 2019 13:07:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - V11.0.2.0.QFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Mon, 28 Oct 2019 13:06:10 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8 (olive) - V10.3.1.0.PCNINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
@@ -85,26 +105,6 @@
     <title>Redmi 6 Pro (sakura) - 9.10.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
     <pubDate>Fri, 25 Oct 2019 23:43:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 Pro (sakura) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
-    <pubDate>Fri, 25 Oct 2019 23:43:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6 (sagit) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Fri, 25 Oct 2019 23:41:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro (raphael) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 25 Oct 2019 23:38:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 (pyxis) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 25 Oct 2019 23:34:06 +0900</pubDate>
   </item>
     </channel>
 </rss>
