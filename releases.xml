@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 28 Oct 2019 19:15:38 +0900</pubDate>
+  <pubDate>Tue, 29 Oct 2019 01:05:49 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V10.3.3.0.PCOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Tue, 29 Oct 2019 01:05:49 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC9 Meitu Edition (vela) - V11.3.1.0.PFECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
@@ -100,11 +105,6 @@
     <title>Mi 6X (wayne) - 9.10.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
     <pubDate>Fri, 25 Oct 2019 23:51:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 9.10.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 25 Oct 2019 23:49:52 +0900</pubDate>
   </item>
     </channel>
 </rss>

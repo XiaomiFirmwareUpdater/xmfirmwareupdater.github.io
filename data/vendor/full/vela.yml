@@ -1,0 +1,11 @@
+- branch: stable
+  date: '2019-10-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vela-stable/fw-vendor_vela_miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vela-stable/fw-vendor_vela_miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip/download
+  filename: fw-vendor_vela_miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip
+  region: China
+  size: 608.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.3.1.0.PFECNXM
