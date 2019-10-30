@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 29 Oct 2019 19:07:29 +0900</pubDate>
+  <pubDate>Wed, 30 Oct 2019 19:06:57 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.3.0.PFLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Wed, 30 Oct 2019 19:06:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.3.0.PFFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Wed, 30 Oct 2019 19:05:43 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi S2 (ysl) - V11.0.1.0.PEFCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ysl</link>
@@ -77,11 +87,6 @@
     <pubDate>Mon, 28 Oct 2019 07:05:54 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Y3 (onc) - V11.0.3.0.PFLEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Sun, 27 Oct 2019 01:10:23 +0900</pubDate>
-  </item>
-    <item>
     <title>Redmi Note 7 (lavender) - V11.0.3.0.PFGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Sun, 27 Oct 2019 01:09:06 +0900</pubDate>
@@ -100,11 +105,6 @@
     <title>Redmi 7A (pine) - V10.2.5.0.PCMEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
     <pubDate>Sat, 26 Oct 2019 01:08:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - V11.0.2.0.PFXCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Sat, 26 Oct 2019 01:07:44 +0900</pubDate>
   </item>
     </channel>
 </rss>
