@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2019-10-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/stable-31.10.2019/fw_ugg_miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ugg/fw_ugg_miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip
+  filename: fw_ugg_miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V11.0.1.0.NDKCNXM
 - branch: weekly
   date: '2019-10-17'
   downloads:

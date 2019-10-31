@@ -909,25 +909,25 @@
     android: '9.0'
     miui: 9.10.24
 - branch: stable
-  date: '2019-08-30'
+  date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-30.08.2019/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip
-  filename: fw_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-31.10.2019/fw_lavender_miui_LAVENDEREEAGlobal_V11.0.3.0.PFGEUXM_6ef58da8bd_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V11.0.3.0.PFGEUXM_6ef58da8bd_9.0.zip
+  filename: fw_lavender_miui_LAVENDEREEAGlobal_V11.0.3.0.PFGEUXM_6ef58da8bd_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V10.3.6.0.PFGEUXM
+    miui: V11.0.3.0.PFGEUXM
 - branch: stable
   date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-31.10.2019/fw_lavender_miui_LAVENDERINGlobal_V11.0.5.0.PFGINXM_dcfffb7a50_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDERINGlobal_V11.0.5.0.PFGINXM_dcfffb7a50_9.0.zip
-  filename: fw_lavender_miui_LAVENDERINGlobal_V11.0.5.0.PFGINXM_dcfffb7a50_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-31.10.2019/fw_lavender_miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip
+  filename: fw_lavender_miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PFGINXM
+    miui: V10.3.7.0.PFGINXM
 - branch: stable
   date: '2018-11-07'
   downloads:
@@ -1349,15 +1349,15 @@
     android: '9.0'
     miui: V10.2.10.0.PCMCNXM
 - branch: stable
-  date: '2019-10-25'
+  date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-25.10.2019/fw_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/pine/fw_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
-  filename: fw_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-31.10.2019/fw_pine_miui_PINEEEAGlobal_V11.0.6.0.PCMEUXM_bcc90ca1df_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEEEAGlobal_V11.0.6.0.PCMEUXM_bcc90ca1df_9.0.zip
+  filename: fw_pine_miui_PINEEEAGlobal_V11.0.6.0.PCMEUXM_bcc90ca1df_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V10.2.5.0.PCMEUXM
+    miui: V11.0.6.0.PCMEUXM
 - branch: stable
   date: '2019-10-11'
   downloads:
@@ -1909,15 +1909,15 @@
     android: '7.1'
     miui: V10.3.1.0.NDKMIXM
 - branch: stable
-  date: '2019-08-05'
+  date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/stable-05.08.2019/fw_ugg_miui_HMNote5A_V10.3.2.0.NDKCNXM_f313d19937_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ugg/fw_ugg_miui_HMNote5A_V10.3.2.0.NDKCNXM_f313d19937_7.1.zip
-  filename: fw_ugg_miui_HMNote5A_V10.3.2.0.NDKCNXM_f313d19937_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/stable-31.10.2019/fw_ugg_miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ugg/fw_ugg_miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip
+  filename: fw_ugg_miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip
   region: China
   versions:
     android: '7.1'
-    miui: V10.3.2.0.NDKCNXM
+    miui: V11.0.1.0.NDKCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1949,15 +1949,15 @@
     android: '7.1'
     miui: V10.3.1.0.NDFMIXM
 - branch: stable
-  date: '2019-08-07'
+  date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/stable-07.08.2019/fw_ugglite_miui_HMNote5ALITE_V10.3.2.0.NDFCNXM_1db4fef31b_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ugglite/fw_ugglite_miui_HMNote5ALITE_V10.3.2.0.NDFCNXM_1db4fef31b_7.1.zip
-  filename: fw_ugglite_miui_HMNote5ALITE_V10.3.2.0.NDFCNXM_1db4fef31b_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugglite/releases/download/stable-31.10.2019/fw_ugglite_miui_HMNote5ALITE_V11.0.2.0.NDFCNXM_531a889895_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ugglite/fw_ugglite_miui_HMNote5ALITE_V11.0.2.0.NDFCNXM_531a889895_7.1.zip
+  filename: fw_ugglite_miui_HMNote5ALITE_V11.0.2.0.NDFCNXM_531a889895_7.1.zip
   region: China
   versions:
     android: '7.1'
-    miui: V10.3.2.0.NDFCNXM
+    miui: V11.0.2.0.NDFCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:

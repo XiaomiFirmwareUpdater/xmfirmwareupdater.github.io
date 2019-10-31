@@ -1,11 +1,11 @@
 - branch: stable
-  date: '2019-10-21'
+  date: '2019-10-31'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V10.4.3.0.PGGINXM_b1c691aa29_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V10.4.3.0.PGGINXM_b1c691aa29_9.0.zip/download
-  filename: fw-vendor_begoniain_miui_BEGONIAININGlobal_V10.4.3.0.PGGINXM_b1c691aa29_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V10.4.4.0.PGGINXM_43b68b836a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V10.4.4.0.PGGINXM_43b68b836a_9.0.zip/download
+  filename: fw-vendor_begoniain_miui_BEGONIAININGlobal_V10.4.4.0.PGGINXM_43b68b836a_9.0.zip
   region: India
-  size: 453.9 MB
+  size: 452.7 MB
   versions:
     android: '9.0'
-    miui: V10.4.3.0.PGGINXM
+    miui: V10.4.4.0.PGGINXM
