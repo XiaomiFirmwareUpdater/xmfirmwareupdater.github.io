@@ -49,9 +49,9 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2019-10-08'
+  date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-08.10.2019/fw_begonia_miui_BEGONIAGlobal_V10.4.1.0.PGGMIXM_99e3e60541_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-31.10.2019/fw_begonia_miui_BEGONIAGlobal_V10.4.1.0.PGGMIXM_99e3e60541_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begonia/fw_begonia_miui_BEGONIAGlobal_V10.4.1.0.PGGMIXM_99e3e60541_9.0.zip
   filename: fw_begonia_miui_BEGONIAGlobal_V10.4.1.0.PGGMIXM_99e3e60541_9.0.zip
   region: Global
@@ -89,15 +89,15 @@
     android: '9.0'
     miui: V10.4.5.0.PGGEUXM
 - branch: stable
-  date: '2019-10-21'
+  date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begoniain/releases/download/stable-21.10.2019/fw_begoniain_miui_BEGONIAININGlobal_V10.4.3.0.PGGINXM_b1c691aa29_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V10.4.3.0.PGGINXM_b1c691aa29_9.0.zip
-  filename: fw_begoniain_miui_BEGONIAININGlobal_V10.4.3.0.PGGINXM_b1c691aa29_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begoniain/releases/download/stable-31.10.2019/fw_begoniain_miui_BEGONIAININGlobal_V10.4.4.0.PGGINXM_43b68b836a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V10.4.4.0.PGGINXM_43b68b836a_9.0.zip
+  filename: fw_begoniain_miui_BEGONIAININGlobal_V10.4.4.0.PGGINXM_43b68b836a_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V10.4.3.0.PGGINXM
+    miui: V10.4.4.0.PGGINXM
 - branch: stable
   date: '2019-10-09'
   downloads:
@@ -719,15 +719,15 @@
     android: '5.1'
     miui: 8.4.26
 - branch: stable
-  date: '2019-09-26'
+  date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-26.09.2019/fw_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/jason/fw_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip
-  filename: fw_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-31.10.2019/fw_jason_miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/jason/fw_jason_miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip
+  filename: fw_jason_miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V10.4.2.0.PCHMIXM
+    miui: V11.0.3.0.PCHMIXM
 - branch: stable
   date: '2019-09-25'
   downloads:
@@ -919,15 +919,15 @@
     android: '9.0'
     miui: V10.3.6.0.PFGEUXM
 - branch: stable
-  date: '2019-08-19'
+  date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-19.08.2019/fw_lavender_miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip
-  filename: fw_lavender_miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-31.10.2019/fw_lavender_miui_LAVENDERINGlobal_V11.0.5.0.PFGINXM_dcfffb7a50_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDERINGlobal_V11.0.5.0.PFGINXM_dcfffb7a50_9.0.zip
+  filename: fw_lavender_miui_LAVENDERINGlobal_V11.0.5.0.PFGINXM_dcfffb7a50_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V10.3.7.0.PFGINXM
+    miui: V11.0.5.0.PFGINXM
 - branch: stable
   date: '2018-11-07'
   downloads:
@@ -1239,15 +1239,15 @@
     android: '9.0'
     miui: V11.0.3.0.PFLEUXM
 - branch: stable
-  date: '2019-10-30'
+  date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-30.10.2019/fw_onc_miui_ONCINGlobal_V11.0.3.0.PFFINXM_3f7e9317c3_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCINGlobal_V11.0.3.0.PFFINXM_3f7e9317c3_9.0.zip
-  filename: fw_onc_miui_ONCINGlobal_V11.0.3.0.PFFINXM_3f7e9317c3_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-31.10.2019/fw_onc_miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/onc/fw_onc_miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip
+  filename: fw_onc_miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PFFINXM
+    miui: V10.3.6.0.PFFINXM
 - branch: stable
   date: '2019-06-26'
   downloads:

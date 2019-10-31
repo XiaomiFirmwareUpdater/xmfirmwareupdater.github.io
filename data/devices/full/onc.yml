@@ -1,4 +1,24 @@
 - branch: stable
+  date: '2019-10-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-31.10.2019/fw_onc_miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/onc/fw_onc_miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip
+  filename: fw_onc_miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V10.3.6.0.PFFINXM
+- branch: stable
+  date: '2019-10-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-31.10.2019/fw_onc_miui_ONCLITEINGlobal_V10.3.6.0.PFLINXM_d17c10fe47_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/onc/fw_onc_miui_ONCLITEINGlobal_V10.3.6.0.PFLINXM_d17c10fe47_9.0.zip
+  filename: fw_onc_miui_ONCLITEINGlobal_V10.3.6.0.PFLINXM_d17c10fe47_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V10.3.6.0.PFLINXM
+- branch: stable
   date: '2019-10-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-30.10.2019/fw_onc_miui_ONCINGlobal_V11.0.3.0.PFFINXM_3f7e9317c3_9.0.zip

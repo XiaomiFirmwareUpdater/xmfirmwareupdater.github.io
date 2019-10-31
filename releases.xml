@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 31 Oct 2019 01:07:17 +0900</pubDate>
+  <pubDate>Thu, 31 Oct 2019 19:12:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V10.3.6.0.PFLINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Thu, 31 Oct 2019 19:12:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V10.3.6.0.PFFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Thu, 31 Oct 2019 19:11:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7 (lavender) - V11.0.5.0.PFGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Thu, 31 Oct 2019 19:09:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Note 3 (jason) - V11.0.3.0.PCHMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
+    <pubDate>Thu, 31 Oct 2019 19:08:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begoniain) - V10.4.4.0.PGGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
+    <pubDate>Thu, 31 Oct 2019 19:07:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V10.4.1.0.PGGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Thu, 31 Oct 2019 19:05:51 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.2.0.PFLINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -75,36 +105,6 @@
     <title>Redmi Y3 (onc) - V10.3.4.0.PFLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
     <pubDate>Mon, 28 Oct 2019 13:22:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9T (davinciin) - V11.0.2.0.PFJINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
-    <pubDate>Mon, 28 Oct 2019 13:21:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 (davinci) - V11.0.2.0.PFJEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Mon, 28 Oct 2019 13:07:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - V11.0.2.0.QFACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Mon, 28 Oct 2019 13:06:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V10.3.1.0.PCNINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Mon, 28 Oct 2019 07:05:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 (lavender) - V11.0.3.0.PFGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Sun, 27 Oct 2019 01:09:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9T (davinciin) - V10.3.8.0.PFJINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
-    <pubDate>Sun, 27 Oct 2019 01:07:34 +0900</pubDate>
   </item>
     </channel>
 </rss>
