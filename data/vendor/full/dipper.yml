@@ -1,4 +1,15 @@
 - branch: stable
+  date: '2019-11-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip
+  region: Russia
+  size: 566.4 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PEARUXM
+- branch: stable
   date: '2019-10-17'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip
