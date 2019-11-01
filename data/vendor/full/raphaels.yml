@@ -9,3 +9,14 @@
   versions:
     android: '9.0'
     miui: V10.4.1.0.PFKCNXM
+- branch: stable
+  date: '2019-11-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphaels-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphaels-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
+  region: China
+  size: 823.8 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QFKCNXM

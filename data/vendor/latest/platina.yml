@@ -31,17 +31,6 @@
   versions:
     android: '9.0'
     miui: 9.6.27
-- branch: weekly
-  date: '2019-09-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.9.3_cec06e7e18_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.9.3_cec06e7e18_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8Lite_9.9.3_cec06e7e18_9.0.zip
-  region: China
-  size: 586.6 MB
-  versions:
-    android: '9.0'
-    miui: 9.9.3
 - branch: stable
   date: '2019-10-29'
   downloads:
