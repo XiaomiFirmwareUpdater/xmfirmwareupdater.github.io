@@ -99,15 +99,15 @@
     android: '9.0'
     miui: V10.4.4.0.PGGINXM
 - branch: stable
-  date: '2019-10-09'
+  date: '2019-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-09.10.2019/fw_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
-  filename: fw_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-01.11.2019/fw_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/beryllium/fw_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
+  filename: fw_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V10.3.8.0.PEJMIXM
+    miui: V11.0.5.0.PEJMIXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -459,15 +459,15 @@
     android: '10.0'
     miui: 9.10.31
 - branch: stable
-  date: '2019-09-27'
+  date: '2019-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-27.09.2019/fw_equuleus_miui_MI8UDGlobal_V10.3.6.0.PECMIXM_f192219ab1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UDGlobal_V10.3.6.0.PECMIXM_f192219ab1_9.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_V10.3.6.0.PECMIXM_f192219ab1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-01.11.2019/fw_equuleus_miui_MI8UDGlobal_V11.0.5.0.PECMIXM_390eb435f5_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UDGlobal_V11.0.5.0.PECMIXM_390eb435f5_9.0.zip
+  filename: fw_equuleus_miui_MI8UDGlobal_V11.0.5.0.PECMIXM_390eb435f5_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V10.3.6.0.PECMIXM
+    miui: V11.0.5.0.PECMIXM
 - branch: stable
   date: '2019-10-18'
   downloads:
@@ -1299,15 +1299,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2019-09-02'
+  date: '2019-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/stable-02.09.2019/fw_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
-  filename: fw_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/stable-01.11.2019/fw_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
+  filename: fw_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V10.3.3.0.PEEMIXM
+    miui: V11.0.4.0.PEEMIXM
 - branch: stable
   date: '2019-10-18'
   downloads:
@@ -1529,9 +1529,9 @@
     android: '9.0'
     miui: V10.3.2.0.PFKMIXM
 - branch: stable
-  date: '2019-10-29'
+  date: '2019-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-29.10.2019/fw_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-01.11.2019/fw_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/raphael/fw_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
   filename: fw_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
   region: China
