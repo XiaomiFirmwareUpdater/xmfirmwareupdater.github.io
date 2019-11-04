@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2019-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-04.11.2019/fw_polaris_miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/polaris/fw_polaris_miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PDGCNXM
 - branch: weekly
   date: '2019-10-25'
   downloads:

@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2019-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-04.11.2019/fw_equuleus_miui_MI8UD_V11.0.3.0.PECCNXM_88e4eae066_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UD_V11.0.3.0.PECCNXM_88e4eae066_9.0.zip
+  filename: fw_equuleus_miui_MI8UD_V11.0.3.0.PECCNXM_88e4eae066_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PECCNXM
+- branch: stable
   date: '2019-11-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-01.11.2019/fw_equuleus_miui_MI8UDGlobal_V11.0.5.0.PECMIXM_390eb435f5_9.0.zip
