@@ -43,13 +43,13 @@
     android: '9.0'
     miui: V10.3.9.0.PFBEUXM
 - branch: stable
-  date: '2019-09-27'
+  date: '2019-11-04'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V10.3.5.0.PFBRUXM_0a726190e3_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V10.3.5.0.PFBRUXM_0a726190e3_9.0.zip/download
-  filename: fw-vendor_grus_miui_GRUSRUGlobal_V10.3.5.0.PFBRUXM_0a726190e3_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.4.0.PFBRUXM_1a85f12137_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.4.0.PFBRUXM_1a85f12137_9.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSRUGlobal_V11.0.4.0.PFBRUXM_1a85f12137_9.0.zip
   region: Russia
-  size: 570.3 MB
+  size: 604.3 MB
   versions:
     android: '9.0'
-    miui: V10.3.5.0.PFBRUXM
+    miui: V11.0.4.0.PFBRUXM
