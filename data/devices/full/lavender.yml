@@ -19,16 +19,6 @@
     android: '9.0'
     miui: 9.10.31
 - branch: stable
-  date: '2019-10-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-01.11.2019/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip
-  filename: fw_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip
-  region: Europe
-  versions:
-    android: '9.0'
-    miui: V10.3.6.0.PFGEUXM
-- branch: stable
   date: '2019-11-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-01.11.2019/fw_lavender_miui_LAVENDERGlobal_V11.0.3.0.PFGMIXM_45e3e548c2_9.0.zip
@@ -48,16 +38,6 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PFGEUXM
-- branch: stable
-  date: '2019-10-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-31.10.2019/fw_lavender_miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip
-  filename: fw_lavender_miui_LAVENDERINGlobal_V10.3.7.0.PFGINXM_11bd4d8286_9.0.zip
-  region: India
-  versions:
-    android: '9.0'
-    miui: V10.3.7.0.PFGINXM
 - branch: stable
   date: '2019-10-31'
   downloads:
