@@ -10,16 +10,16 @@
     android: '9.0'
     miui: V11.3.2.0.PFCMIXM
 - branch: stable
-  date: '2019-10-25'
+  date: '2019-11-04'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-stable/fw-vendor_pyxis_miui_PYXIS_V11.3.1.0.PFCCNXM_afa99e1de4_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-stable/fw-vendor_pyxis_miui_PYXIS_V11.3.1.0.PFCCNXM_afa99e1de4_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXIS_V11.3.1.0.PFCCNXM_afa99e1de4_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-stable/fw-vendor_pyxis_miui_PYXIS_V11.3.2.0.PFCCNXM_fafea063c1_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-stable/fw-vendor_pyxis_miui_PYXIS_V11.3.2.0.PFCCNXM_fafea063c1_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXIS_V11.3.2.0.PFCCNXM_fafea063c1_9.0.zip
   region: China
-  size: 658.5 MB
+  size: 660.0 MB
   versions:
     android: '9.0'
-    miui: V11.3.1.0.PFCCNXM
+    miui: V11.3.2.0.PFCCNXM
 - branch: stable
   date: '2019-10-28'
   downloads:
