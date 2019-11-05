@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 05 Nov 2019 02:36:54 +0900</pubDate>
+  <pubDate>Tue, 05 Nov 2019 19:30:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 2S (polaris) - V11.0.4.0.PDGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Tue, 05 Nov 2019 19:30:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - V11.0.4.0.PFBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Tue, 05 Nov 2019 19:19:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - V11.0.6.0.PEAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Tue, 05 Nov 2019 19:17:46 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 (pyxis) - V11.3.2.0.PFCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
@@ -90,21 +105,6 @@
     <title>Mi 8 Pro (equuleus) - V11.0.3.0.PECCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
     <pubDate>Mon, 04 Nov 2019 20:59:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 5G (andromeda) - V10.3.21.0.PEMEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
-    <pubDate>Mon, 04 Nov 2019 20:59:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5 (whyred) - V11.0.2.0.PEICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Mon, 04 Nov 2019 20:18:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.2.0.PFLINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Mon, 04 Nov 2019 19:45:14 +0900</pubDate>
   </item>
     </channel>
 </rss>
