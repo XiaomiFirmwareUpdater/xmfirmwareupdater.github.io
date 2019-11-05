@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2019-11-05'
+  date: '2019-09-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-05.11.2019/fw_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip
-  filename: fw_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-27.09.2019/fw_grus_miui_GRUSGlobal_V10.3.4.0.PFBMIXM_1af3c0ea1e_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUSGlobal_V10.3.4.0.PFBMIXM_1af3c0ea1e_9.0.zip
+  filename: fw_grus_miui_GRUSGlobal_V10.3.4.0.PFBMIXM_1af3c0ea1e_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFBMIXM
+    miui: V10.3.4.0.PFBMIXM
 - branch: stable
   date: '2019-10-17'
   downloads:

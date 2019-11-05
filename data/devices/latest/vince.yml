@@ -9,15 +9,15 @@
     android: '8.1'
     miui: V10.2.3.0.OEGMIXM
 - branch: stable
-  date: '2019-10-23'
+  date: '2019-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-23.10.2019/fw_vince_miui_HM5Plus_V10.3.2.0.OEGCNXM_156e7d5f6c_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5Plus_V10.3.2.0.OEGCNXM_156e7d5f6c_8.1.zip
-  filename: fw_vince_miui_HM5Plus_V10.3.2.0.OEGCNXM_156e7d5f6c_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-05.11.2019/fw_vince_miui_HM5Plus_V11.0.2.0.OEGCNXM_972a72bf51_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vince/fw_vince_miui_HM5Plus_V11.0.2.0.OEGCNXM_972a72bf51_8.1.zip
+  filename: fw_vince_miui_HM5Plus_V11.0.2.0.OEGCNXM_972a72bf51_8.1.zip
   region: China
   versions:
     android: '8.1'
-    miui: V10.3.2.0.OEGCNXM
+    miui: V11.0.2.0.OEGCNXM
 - branch: weekly
   date: '2018-11-16'
   downloads:

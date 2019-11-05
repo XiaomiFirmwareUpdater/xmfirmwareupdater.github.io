@@ -164,6 +164,17 @@
     android: '9.0'
     miui: V10.3.4.0.PFBMIXM
 - branch: stable
+  date: '2019-11-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip
+  region: Global
+  size: 606.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PFBMIXM
+- branch: stable
   date: '2019-04-23'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip
