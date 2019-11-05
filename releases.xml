@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 06 Nov 2019 01:22:57 +0900</pubDate>
+  <pubDate>Wed, 06 Nov 2019 02:04:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 5A (2GB) (ugglite) - V11.0.3.0.NDFMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ugglite</link>
+    <pubDate>Wed, 06 Nov 2019 02:04:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 5A Prime (ugg) - V11.0.2.0.NDKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ugg</link>
+    <pubDate>Wed, 06 Nov 2019 02:03:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro (raphael) - V11.0.3.0.QFKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Wed, 06 Nov 2019 02:02:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 (perseus) - V11.0.4.0.PEECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Wed, 06 Nov 2019 02:00:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - V11.0.4.0.PFBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Wed, 06 Nov 2019 01:58:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - V11.0.4.0.PEACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Wed, 06 Nov 2019 01:53:45 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 5 Plus (vince) - V11.0.2.0.OEGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vince</link>
@@ -25,11 +55,6 @@
     <title>Mi MIX 2S (polaris) - V11.0.4.0.PDGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
     <pubDate>Tue, 05 Nov 2019 19:30:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - V11.0.4.0.PFBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Tue, 05 Nov 2019 19:19:25 +0900</pubDate>
   </item>
     <item>
     <title>Mi 8 (dipper) - V11.0.6.0.PEAMIXM</title>
@@ -80,31 +105,6 @@
     <title>Mi 6 (sagit) - V11.0.3.0.PCAMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
     <pubDate>Tue, 05 Nov 2019 02:19:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 (davinci) - V11.0.1.0.PFJMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Tue, 05 Nov 2019 01:38:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - V11.0.2.0.PDCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Mon, 04 Nov 2019 21:01:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - V11.0.2.0.PDCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Mon, 04 Nov 2019 21:01:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - V11.0.4.0.PFHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Mon, 04 Nov 2019 21:01:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Explorer (ursa) - V11.0.3.0.PEHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Mon, 04 Nov 2019 21:00:54 +0900</pubDate>
   </item>
     </channel>
 </rss>

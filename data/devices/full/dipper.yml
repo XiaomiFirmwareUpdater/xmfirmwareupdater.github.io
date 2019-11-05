@@ -8,6 +8,16 @@
   versions:
     android: '9.0'
     miui: V11.0.6.0.PEAMIXM
+- branch: stable
+  date: '2019-11-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-05.11.2019/fw_dipper_miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/dipper/fw_dipper_miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip
+  filename: fw_dipper_miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PEACNXM
 - branch: weekly
   date: '2019-11-01'
   downloads:
