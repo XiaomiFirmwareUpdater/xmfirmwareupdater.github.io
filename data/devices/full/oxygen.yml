@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2019-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-06.11.2019/fw_oxygen_miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/oxygen/fw_oxygen_miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip
+  filename: fw_oxygen_miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V11.0.2.0.NDDCNXM
 - branch: weekly
   date: '2019-10-17'
   downloads:

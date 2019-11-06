@@ -739,15 +739,15 @@
     android: '9.0'
     miui: V11.0.3.0.PCHMIXM
 - branch: stable
-  date: '2019-09-25'
+  date: '2019-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-25.09.2019/fw_jason_miui_MINote3_V10.4.2.0.PCHCNXM_14b856e369_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/jason/fw_jason_miui_MINote3_V10.4.2.0.PCHCNXM_14b856e369_9.0.zip
-  filename: fw_jason_miui_MINote3_V10.4.2.0.PCHCNXM_14b856e369_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-06.11.2019/fw_jason_miui_MINote3_V11.0.2.0.PCHCNXM_a6755ad154_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/jason/fw_jason_miui_MINote3_V11.0.2.0.PCHCNXM_a6755ad154_9.0.zip
+  filename: fw_jason_miui_MINote3_V11.0.2.0.PCHCNXM_a6755ad154_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.4.2.0.PCHCNXM
+    miui: V11.0.2.0.PCHCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -869,15 +869,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2019-09-06'
+  date: '2019-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-06.09.2019/fw_laurus_miui_LAURUS_V10.2.13.0.PFMCNXM_5a9706d537_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/laurus/fw_laurus_miui_LAURUS_V10.2.13.0.PFMCNXM_5a9706d537_9.0.zip
-  filename: fw_laurus_miui_LAURUS_V10.2.13.0.PFMCNXM_5a9706d537_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-06.11.2019/fw_laurus_miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/laurus/fw_laurus_miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip
+  filename: fw_laurus_miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V10.2.13.0.PFMCNXM
+    miui: V11.0.2.0.PFMCNXM
 - branch: weekly
   date: '2019-10-18'
   downloads:
@@ -1309,15 +1309,15 @@
     android: '7.1'
     miui: V10.3.1.0.NDDMIXM
 - branch: stable
-  date: '2019-07-11'
+  date: '2019-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-11.07.2019/fw_oxygen_miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/oxygen/fw_oxygen_miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip
-  filename: fw_oxygen_miui_MIMAX2_V10.3.1.0.NDDCNXM_e4dbc2e566_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-06.11.2019/fw_oxygen_miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/oxygen/fw_oxygen_miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip
+  filename: fw_oxygen_miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip
   region: China
   versions:
     android: '7.1'
-    miui: V10.3.1.0.NDDCNXM
+    miui: V11.0.2.0.NDDCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1519,15 +1519,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2019-10-28'
+  date: '2019-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-28.10.2019/fw_pyxis_miui_PYXISGlobal_V11.3.2.0.PFCMIXM_330297fc95_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISGlobal_V11.3.2.0.PFCMIXM_330297fc95_9.0.zip
-  filename: fw_pyxis_miui_PYXISGlobal_V11.3.2.0.PFCMIXM_330297fc95_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-06.11.2019/fw_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
+  filename: fw_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.3.2.0.PFCMIXM
+    miui: V11.3.3.0.PFCMIXM
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -1549,15 +1549,15 @@
     android: '9.0'
     miui: 9.10.31
 - branch: stable
-  date: '2019-10-28'
+  date: '2019-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-28.10.2019/fw_pyxis_miui_PYXISEEAGlobal_V11.3.2.0.PFCEUXM_47e74213eb_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISEEAGlobal_V11.3.2.0.PFCEUXM_47e74213eb_9.0.zip
-  filename: fw_pyxis_miui_PYXISEEAGlobal_V11.3.2.0.PFCEUXM_47e74213eb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-06.11.2019/fw_pyxis_miui_PYXISEEAGlobal_V11.3.3.0.PFCEUXM_7c18ddc18e_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISEEAGlobal_V11.3.3.0.PFCEUXM_7c18ddc18e_9.0.zip
+  filename: fw_pyxis_miui_PYXISEEAGlobal_V11.3.3.0.PFCEUXM_7c18ddc18e_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V11.3.2.0.PFCEUXM
+    miui: V11.3.3.0.PFCEUXM
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -1849,25 +1849,25 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2019-01-22'
+  date: '2019-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/stable-22.01.2019/fw_scorpio_miui_MINote2Global_V10.2.1.0.OADMIXM_168d567062_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/scorpio/fw_scorpio_miui_MINote2Global_V10.2.1.0.OADMIXM_168d567062_8.0.zip
-  filename: fw_scorpio_miui_MINote2Global_V10.2.1.0.OADMIXM_168d567062_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/stable-06.11.2019/fw_scorpio_miui_MINote2Global_V11.0.2.0.OADMIXM_6353b7fa7e_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/scorpio/fw_scorpio_miui_MINote2Global_V11.0.2.0.OADMIXM_6353b7fa7e_8.0.zip
+  filename: fw_scorpio_miui_MINote2Global_V11.0.2.0.OADMIXM_6353b7fa7e_8.0.zip
   region: Global
   versions:
     android: '8.0'
-    miui: V10.2.1.0.OADMIXM
+    miui: V11.0.2.0.OADMIXM
 - branch: stable
-  date: '2019-07-05'
+  date: '2019-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/stable-05.07.2019/fw_scorpio_miui_MINote2_V10.2.1.0.OADCNFK_cebfab5bf7_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/scorpio/fw_scorpio_miui_MINote2_V10.2.1.0.OADCNFK_cebfab5bf7_8.0.zip
-  filename: fw_scorpio_miui_MINote2_V10.2.1.0.OADCNFK_cebfab5bf7_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_scorpio/releases/download/stable-06.11.2019/fw_scorpio_miui_MINote2_V11.0.2.0.OADCNXM_7224e431a4_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/scorpio/fw_scorpio_miui_MINote2_V11.0.2.0.OADCNXM_7224e431a4_8.0.zip
+  filename: fw_scorpio_miui_MINote2_V11.0.2.0.OADCNXM_7224e431a4_8.0.zip
   region: China
   versions:
     android: '8.0'
-    miui: V10.2.1.0.OADCNFK
+    miui: V11.0.2.0.OADCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
