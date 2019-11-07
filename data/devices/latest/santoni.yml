@@ -9,15 +9,15 @@
     android: '7.1'
     miui: V10.3.1.0.NAMMIXM
 - branch: stable
-  date: '2019-05-21'
+  date: '2019-11-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-21.05.2019/fw_santoni_miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/santoni/fw_santoni_miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip
-  filename: fw_santoni_miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-08.11.2019/fw_santoni_miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/santoni/fw_santoni_miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
+  filename: fw_santoni_miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
   region: China
   versions:
     android: '7.1'
-    miui: V10.3.1.0.NAMCNXM
+    miui: V11.0.1.0.NAMCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
