@@ -9,15 +9,15 @@
     android: '9.0'
     miui: V11.0.4.0.PFHCNXM
 - branch: weekly
-  date: '2019-11-01'
+  date: '2019-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-01.11.2019/fw_violet_miui_VIOLET_9.10.31_12cc4c527c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.31/violet/fw_violet_miui_VIOLET_9.10.31_12cc4c527c_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.10.31_12cc4c527c_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-08.11.2019/fw_violet_miui_VIOLET_9.11.7_d05fe890bd_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.7/violet/fw_violet_miui_VIOLET_9.11.7_d05fe890bd_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.11.7_d05fe890bd_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.10.31
+    miui: 9.11.7
 - branch: stable
   date: '2019-11-04'
   downloads:
