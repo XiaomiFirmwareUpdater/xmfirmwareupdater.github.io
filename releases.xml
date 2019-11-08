@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 08 Nov 2019 19:10:41 +0900</pubDate>
+  <pubDate>Sat, 09 Nov 2019 01:08:40 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 5s Plus (natrium) - V11.0.2.0.OBGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/natrium</link>
+    <pubDate>Sat, 09 Nov 2019 01:08:40 +0900</pubDate>
+  </item>
     <item>
     <title>Mi MIX (lithium) - V11.0.2.0.OAHMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lithium</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 7 (lavender) - 9.11.7</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Fri, 08 Nov 2019 17:01:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 3 (jason) - 9.11.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
-    <pubDate>Fri, 08 Nov 2019 16:59:31 +0900</pubDate>
   </item>
     </channel>
 </rss>
