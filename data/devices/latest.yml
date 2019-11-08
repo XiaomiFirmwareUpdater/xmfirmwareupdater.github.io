@@ -959,25 +959,25 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2019-01-22'
+  date: '2019-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-22.01.2019/fw_lithium_miui_MIMIXGlobal_V10.2.1.0.OAHMIXM_25679d5790_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lithium/fw_lithium_miui_MIMIXGlobal_V10.2.1.0.OAHMIXM_25679d5790_8.0.zip
-  filename: fw_lithium_miui_MIMIXGlobal_V10.2.1.0.OAHMIXM_25679d5790_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-08.11.2019/fw_lithium_miui_MIMIXGlobal_V11.0.2.0.OAHMIXM_6e058c6d8f_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lithium/fw_lithium_miui_MIMIXGlobal_V11.0.2.0.OAHMIXM_6e058c6d8f_8.0.zip
+  filename: fw_lithium_miui_MIMIXGlobal_V11.0.2.0.OAHMIXM_6e058c6d8f_8.0.zip
   region: Global
   versions:
     android: '8.0'
-    miui: V10.2.1.0.OAHMIXM
+    miui: V11.0.2.0.OAHMIXM
 - branch: stable
-  date: '2019-01-07'
+  date: '2019-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-07.01.2019/fw_lithium_miui_MIMIX_V10.2.1.0.OAHCNFK_90b6156a40_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lithium/fw_lithium_miui_MIMIX_V10.2.1.0.OAHCNFK_90b6156a40_8.0.zip
-  filename: fw_lithium_miui_MIMIX_V10.2.1.0.OAHCNFK_90b6156a40_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lithium/releases/download/stable-08.11.2019/fw_lithium_miui_MIMIX_V11.0.2.0.OAHCNXM_4b2fbb5687_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lithium/fw_lithium_miui_MIMIX_V11.0.2.0.OAHCNXM_4b2fbb5687_8.0.zip
+  filename: fw_lithium_miui_MIMIX_V11.0.2.0.OAHCNXM_4b2fbb5687_8.0.zip
   region: China
   versions:
     android: '8.0'
-    miui: V10.2.1.0.OAHCNFK
+    miui: V11.0.2.0.OAHCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
