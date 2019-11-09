@@ -87,6 +87,17 @@
     android: '9.0'
     miui: 9.8.9
 - branch: stable
+  date: '2019-11-09'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-stable/fw-vendor_cactus_miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-stable/fw-vendor_cactus_miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip/download
+  filename: fw-vendor_cactus_miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip
+  region: China
+  size: 177.5 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.4.0.PCBCNXM
+- branch: stable
   date: '2019-11-07'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-stable/fw-vendor_cactus_miui_HM6A_V11.0.4.0.PCBCNXM_8e0eba0f64_9.0.zip
