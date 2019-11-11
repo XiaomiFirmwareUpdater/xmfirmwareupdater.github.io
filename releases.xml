@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 11 Nov 2019 19:07:44 +0900</pubDate>
+  <pubDate>Tue, 12 Nov 2019 01:08:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Max 2 (oxygen) - V11.0.2.0.NDDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/oxygen</link>
+    <pubDate>Tue, 12 Nov 2019 01:08:04 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 5s (capricorn) - V11.0.2.0.OAGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/capricorn</link>
@@ -100,11 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 9.11.7</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Fri, 08 Nov 2019 17:04:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Play (lotus) - 9.11.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
-    <pubDate>Fri, 08 Nov 2019 17:02:49 +0900</pubDate>
   </item>
     </channel>
 </rss>
