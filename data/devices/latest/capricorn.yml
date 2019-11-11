@@ -9,15 +9,15 @@
     android: '8.0'
     miui: V10.2.3.0.OAGMIXM
 - branch: stable
-  date: '2019-07-05'
+  date: '2019-11-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-05.07.2019/fw_capricorn_miui_MI5S_V10.2.2.0.OAGCNXM_d332da1582_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/capricorn/fw_capricorn_miui_MI5S_V10.2.2.0.OAGCNXM_d332da1582_8.0.zip
-  filename: fw_capricorn_miui_MI5S_V10.2.2.0.OAGCNXM_d332da1582_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-11.11.2019/fw_capricorn_miui_MI5S_V11.0.2.0.OAGCNXM_6ce204eb2c_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/capricorn/fw_capricorn_miui_MI5S_V11.0.2.0.OAGCNXM_6ce204eb2c_8.0.zip
+  filename: fw_capricorn_miui_MI5S_V11.0.2.0.OAGCNXM_6ce204eb2c_8.0.zip
   region: China
   versions:
     android: '8.0'
-    miui: V10.2.2.0.OAGCNXM
+    miui: V11.0.2.0.OAGCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
