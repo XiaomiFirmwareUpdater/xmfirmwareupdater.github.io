@@ -32,16 +32,16 @@
     android: '9.0'
     miui: V10.3.21.0.PEMEUXM
 - branch: stable
-  date: '2019-10-29'
+  date: '2019-11-12'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V10.4.2.0.PGGMIXM_2c8481c740_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V10.4.2.0.PGGMIXM_2c8481c740_9.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIAGlobal_V10.4.2.0.PGGMIXM_2c8481c740_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_id_global-stable/fw-vendor_begonia_miui_BEGONIAIDGlobal_V11.0.1.0.PGGIDXM_bbe347ffd3_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_id_global-stable/fw-vendor_begonia_miui_BEGONIAIDGlobal_V11.0.1.0.PGGIDXM_bbe347ffd3_9.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIAIDGlobal_V11.0.1.0.PGGIDXM_bbe347ffd3_9.0.zip
   region: Global
-  size: 492.2 MB
+  size: 489.9 MB
   versions:
     android: '9.0'
-    miui: V10.4.2.0.PGGMIXM
+    miui: V11.0.1.0.PGGIDXM
 - branch: stable
   date: '2019-11-05'
   downloads:
@@ -87,16 +87,16 @@
     android: '9.0'
     miui: V10.4.4.0.PGGINXM
 - branch: stable
-  date: '2019-10-22'
+  date: '2019-11-12'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip/download
-  filename: fw-vendor_cactus_miui_HM6AGlobal_V10.4.4.0.PCBMIXM_7b8c7f6a23_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V11.0.4.0.PCBMIXM_2a407f4105_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V11.0.4.0.PCBMIXM_2a407f4105_9.0.zip/download
+  filename: fw-vendor_cactus_miui_HM6AGlobal_V11.0.4.0.PCBMIXM_2a407f4105_9.0.zip
   region: Global
-  size: 177.4 MB
+  size: 189.7 MB
   versions:
     android: '9.0'
-    miui: V10.4.4.0.PCBMIXM
+    miui: V11.0.4.0.PCBMIXM
 - branch: stable
   date: '2019-11-09'
   downloads:
@@ -857,16 +857,16 @@
     android: '9.0'
     miui: V10.3.3.0.PFKRUXM
 - branch: stable
-  date: '2019-09-17'
+  date: '2019-11-12'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip/download
-  filename: fw-vendor_raphaelin_miui_RAPHAELININGlobal_V10.3.5.0.PFKINXM_f924323a4b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0.zip/download
+  filename: fw-vendor_raphaelin_miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0.zip
   region: India
-  size: 718.6 MB
+  size: 711.3 MB
   versions:
-    android: '9.0'
-    miui: V10.3.5.0.PFKINXM
+    android: '10.0'
+    miui: V11.0.1.0.QFKINXM
 - branch: stable
   date: '2019-11-01'
   downloads:

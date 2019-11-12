@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2019-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-12.11.2019/fw_riva_miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/riva/fw_riva_miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip
+  filename: fw_riva_miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V11.0.2.0.OCKCNXM
 - branch: weekly
   date: '2019-10-17'
   downloads:

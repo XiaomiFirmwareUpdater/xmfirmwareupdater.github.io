@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 12 Nov 2019 19:09:02 +0900</pubDate>
+  <pubDate>Wed, 13 Nov 2019 01:11:10 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 5A (riva) - V11.0.2.0.OCKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
+    <pubDate>Wed, 13 Nov 2019 01:11:10 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 Pro (raphaelin) - V11.0.1.0.QFKINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
@@ -100,11 +105,6 @@
     <title>Mi 8 Lite (platina) - 9.11.7</title>
     <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
     <pubDate>Fri, 08 Nov 2019 17:08:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - 9.11.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Fri, 08 Nov 2019 17:06:43 +0900</pubDate>
   </item>
     </channel>
 </rss>
