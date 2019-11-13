@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 13 Nov 2019 01:11:10 +0900</pubDate>
+  <pubDate>Wed, 13 Nov 2019 19:08:52 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8A (olivelite) - V11.0.1.0.PCPINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Wed, 13 Nov 2019 19:08:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 (cereus) - V11.0.3.0.PCGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Wed, 13 Nov 2019 19:07:32 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 5A (riva) - V11.0.2.0.OCKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
@@ -95,16 +105,6 @@
     <title>Redmi K20 Pro (raphael) - 9.11.7</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Fri, 08 Nov 2019 17:12:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - 9.11.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Fri, 08 Nov 2019 17:10:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - 9.11.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Fri, 08 Nov 2019 17:08:25 +0900</pubDate>
   </item>
     </channel>
 </rss>
