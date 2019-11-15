@@ -1929,6 +1929,26 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-15.11.2019/fw_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
+  filename: fw_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFDCNXM
+- branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-15.11.2019/fw_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
+  filename: fw_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PFDEUXM
+- branch: stable
   date: '2019-09-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-03.09.2019/fw_tulip_miui_HMNote6ProGlobal_V10.3.6.0.PEKMIXM_554d91f8c7_9.0.zip
