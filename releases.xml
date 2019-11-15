@@ -1,11 +1,66 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 15 Nov 2019 23:04:41 +0900</pubDate>
+  <pubDate>Fri, 15 Nov 2019 23:56:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Fri, 15 Nov 2019 23:56:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 SE (sirius) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
+    <pubDate>Fri, 15 Nov 2019 23:54:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Fri, 15 Nov 2019 23:53:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Fri, 15 Nov 2019 23:53:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 6 (sagit) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
+    <pubDate>Fri, 15 Nov 2019 23:51:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Lite (platina) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Fri, 15 Nov 2019 23:49:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 (perseus) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Fri, 15 Nov 2019 23:47:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 15 Nov 2019 23:45:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 15 Nov 2019 23:45:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7 (lavender) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Fri, 15 Nov 2019 23:43:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Note 3 (jason) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
+    <pubDate>Fri, 15 Nov 2019 23:41:18 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 9 SE (grus) - 9.11.14</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
@@ -50,61 +105,6 @@
     <title>Mi 9 Pro 5G (crux) - V11.0.3.0.PFXCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
     <pubDate>Fri, 15 Nov 2019 19:08:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi S2 (ysl) - V11.0.2.0.PEFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ysl</link>
-    <pubDate>Fri, 15 Nov 2019 17:28:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5 (whyred) - V11.0.3.0.PEIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Fri, 15 Nov 2019 17:26:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 4 (mido) - V11.0.2.0.NCFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mido</link>
-    <pubDate>Fri, 15 Nov 2019 17:25:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 4 (mido) - V11.0.2.0.NCFCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mido</link>
-    <pubDate>Fri, 15 Nov 2019 17:24:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 Pro (sakura) - HM6ProINGlobal</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
-    <pubDate>Thu, 14 Nov 2019 19:08:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 Pro (sakura) - HM6ProINGlobal</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
-    <pubDate>Thu, 14 Nov 2019 19:07:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.1.0.PCPINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Wed, 13 Nov 2019 19:08:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 (cereus) - V11.0.3.0.PCGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
-    <pubDate>Wed, 13 Nov 2019 19:07:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 5A (riva) - V11.0.2.0.OCKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
-    <pubDate>Wed, 13 Nov 2019 01:11:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro (raphaelin) - V11.0.1.0.QFKINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
-    <pubDate>Tue, 12 Nov 2019 19:09:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6A (cactus) - V11.0.4.0.PCBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
-    <pubDate>Tue, 12 Nov 2019 19:07:12 +0900</pubDate>
   </item>
     </channel>
 </rss>
