@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-15.11.2019/fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/crux/fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
+  filename: fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFXCNXM
 - branch: weekly
   date: '2019-11-08'
   downloads:

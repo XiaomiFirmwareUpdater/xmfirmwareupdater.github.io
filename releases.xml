@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 15 Nov 2019 17:28:02 +0900</pubDate>
+  <pubDate>Fri, 15 Nov 2019 19:12:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 4X (santoni) - V11.0.2.0.NAMMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/santoni</link>
+    <pubDate>Fri, 15 Nov 2019 19:12:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 5A (riva) - V11.0.2.0.OCKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
+    <pubDate>Fri, 15 Nov 2019 19:10:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.2.0.PFLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 15 Nov 2019 19:09:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - V11.0.3.0.PFXCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Fri, 15 Nov 2019 19:08:18 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi S2 (ysl) - V11.0.2.0.PEFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ysl</link>
@@ -85,26 +105,6 @@
     <title>Mi MIX (lithium) - V11.0.2.0.OAHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lithium</link>
     <pubDate>Fri, 08 Nov 2019 19:08:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5 (whyred) - 9.11.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Fri, 08 Nov 2019 17:51:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 9.11.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 08 Nov 2019 17:49:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 9.11.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 08 Nov 2019 17:48:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Explorer (ursa) - 9.11.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Fri, 08 Nov 2019 17:46:28 +0900</pubDate>
   </item>
     </channel>
 </rss>

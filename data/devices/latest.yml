@@ -349,15 +349,15 @@
     android: '8.1'
     miui: 9.8.29
 - branch: stable
-  date: '2019-10-25'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-25.10.2019/fw_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/crux/fw_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
-  filename: fw_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-15.11.2019/fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/crux/fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
+  filename: fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PFXCNXM
+    miui: V11.0.3.0.PFXCNXM
 - branch: weekly
   date: '2019-11-08'
   downloads:
@@ -1259,15 +1259,15 @@
     android: '9.0'
     miui: V11.0.1.0.PCPINXM
 - branch: stable
-  date: '2019-11-06'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-07.11.2019/fw_onc_miui_ONCLITEGlobal_V10.3.4.0.PFLMIXM_e6df2a1dc1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/onc/fw_onc_miui_ONCLITEGlobal_V10.3.4.0.PFLMIXM_e6df2a1dc1_9.0.zip
-  filename: fw_onc_miui_ONCLITEGlobal_V10.3.4.0.PFLMIXM_e6df2a1dc1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-15.11.2019/fw_onc_miui_ONCLITEGlobal_V11.0.2.0.PFLMIXM_a43848d5f6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEGlobal_V11.0.2.0.PFLMIXM_a43848d5f6_9.0.zip
+  filename: fw_onc_miui_ONCLITEGlobal_V11.0.2.0.PFLMIXM_a43848d5f6_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V10.3.4.0.PFLMIXM
+    miui: V11.0.2.0.PFLMIXM
 - branch: stable
   date: '2019-10-18'
   downloads:
@@ -1609,15 +1609,15 @@
     android: '10.0'
     miui: V11.0.1.0.QFKINXM
 - branch: stable
-  date: '2019-07-24'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-24.07.2019/fw_riva_miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/riva/fw_riva_miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip
-  filename: fw_riva_miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-15.11.2019/fw_riva_miui_HM5AGlobal_V11.0.2.0.OCKMIXM_b247c0c04e_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/riva/fw_riva_miui_HM5AGlobal_V11.0.2.0.OCKMIXM_b247c0c04e_8.1.zip
+  filename: fw_riva_miui_HM5AGlobal_V11.0.2.0.OCKMIXM_b247c0c04e_8.1.zip
   region: Global
   versions:
     android: '8.1'
-    miui: V10.3.2.0.OCKMIXM
+    miui: V11.0.2.0.OCKMIXM
 - branch: stable
   date: '2019-11-12'
   downloads:
@@ -1809,15 +1809,15 @@
     android: '9.0'
     miui: V11.0.3.0.PDMMIXM
 - branch: stable
-  date: '2019-05-01'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-01.05.2019/fw_santoni_miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/santoni/fw_santoni_miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip
-  filename: fw_santoni_miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-15.11.2019/fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/santoni/fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip
+  filename: fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip
   region: Global
   versions:
     android: '7.1'
-    miui: V10.3.1.0.NAMMIXM
+    miui: V11.0.2.0.NAMMIXM
 - branch: stable
   date: '2019-11-07'
   downloads:
