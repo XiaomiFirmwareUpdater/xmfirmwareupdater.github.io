@@ -28,20 +28,21 @@ def load_names():
     """
     Load devices names
     """
-    data = get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-               'xiaomi_devices/names/names.json').json()
-    for codename, name in data.items():
-        name = name.replace(' China', '').replace(' EEA Global', '').replace(' India', '') \
-            .replace(' Russia', '').replace(' Global', '')
-        if '_' in codename:
-            check = codename.split('_')[0]
-            if check in data:
-                continue
-            else:
-                codename = check
-        NAMES.update({codename: name})
+    data = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
+                         'miui-updates-tracker/master/devices/names.yml').text, Loader=yaml.CLoader)
+    for codename, info in data.items():
+        name = info[0].replace(' China', '').replace(' EEA', '').replace(' India', '') \
+            .replace(' Russia', '').replace(' Global', '').replace(' Indonesia', '')
+        if '/' in name:
+            name = name.split('/')[1].strip()
+        codename = codename.split('_')[0]
+        try:
+            if NAMES[codename] and name not in NAMES[codename]:
+                NAMES.update({codename: f"{NAMES[codename]}/{name}"})
+        except KeyError:
+            NAMES.update({codename: name})
     with open('../data/names.yml', 'w') as out:
-        yaml.dump(NAMES, out, Dumper=yaml.CDumper)
+        yaml.dump(NAMES, out, allow_unicode=True, Dumper=yaml.CDumper)
 
 
 def load_fw_devices():
@@ -471,6 +472,8 @@ def generate_rss():
     for child in root.findall('./channel/item/title'):
         txt = child.text
         codename = txt.split('/')[-1].split('_')[1]
+        if '-' in codename:
+            codename = codename.replace('-', '_').split('_')[0]
         name = NAMES[codename]
         version = txt.split('/')[-1].split('_')[4]
         child.text = f'{name} ({codename}) - {version}'
