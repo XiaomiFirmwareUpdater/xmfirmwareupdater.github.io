@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-15.11.2019/fw_grus_miui_GRUS_9.11.14_df74ea5740_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.14/grus/fw_grus_miui_GRUS_9.11.14_df74ea5740_10.0.zip
+  filename: fw_grus_miui_GRUS_9.11.14_df74ea5740_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 9.11.14
+- branch: weekly
   date: '2019-11-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-08.11.2019/fw_grus_miui_GRUS_9.11.7_795858c4cd_10.0.zip

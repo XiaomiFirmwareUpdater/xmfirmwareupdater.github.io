@@ -32,13 +32,13 @@
     android: '9.0'
     miui: V10.4.5.0.PGGEUXM
 - branch: stable
-  date: '2019-11-04'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_ru_global-stable/fw-vendor_begonia_miui_BEGONIARUGlobal_V10.4.3.0.PGGRUXM_97cfbb1273_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_ru_global-stable/fw-vendor_begonia_miui_BEGONIARUGlobal_V10.4.3.0.PGGRUXM_97cfbb1273_9.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIARUGlobal_V10.4.3.0.PGGRUXM_97cfbb1273_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_ru_global-stable/fw-vendor_begonia_miui_BEGONIARUGlobal_V11.0.1.0.PGGRUXM_4e5c49a767_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_ru_global-stable/fw-vendor_begonia_miui_BEGONIARUGlobal_V11.0.1.0.PGGRUXM_4e5c49a767_9.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIARUGlobal_V11.0.1.0.PGGRUXM_4e5c49a767_9.0.zip
   region: Russia
-  size: 491.5 MB
+  size: 489.9 MB
   versions:
     android: '9.0'
-    miui: V10.4.3.0.PGGRUXM
+    miui: V11.0.1.0.PGGRUXM

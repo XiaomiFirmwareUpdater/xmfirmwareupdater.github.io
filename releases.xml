@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 15 Nov 2019 19:12:23 +0900</pubDate>
+  <pubDate>Fri, 15 Nov 2019 23:04:41 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 9 SE (grus) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 15 Nov 2019 23:04:41 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Fri, 15 Nov 2019 23:02:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2 (chiron) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
+    <pubDate>Fri, 15 Nov 2019 23:00:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 (cereus) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Fri, 15 Nov 2019 22:57:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6A (cactus) - 9.11.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
+    <pubDate>Fri, 15 Nov 2019 22:55:14 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 4X (santoni) - V11.0.2.0.NAMMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/santoni</link>
@@ -80,31 +105,6 @@
     <title>Redmi 6A (cactus) - V11.0.4.0.PCBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
     <pubDate>Tue, 12 Nov 2019 19:07:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 2 (oxygen) - V11.0.2.0.NDDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/oxygen</link>
-    <pubDate>Tue, 12 Nov 2019 01:08:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 5s (capricorn) - V11.0.2.0.OAGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/capricorn</link>
-    <pubDate>Mon, 11 Nov 2019 19:07:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 5s Plus (natrium) - V11.0.2.0.OBGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/natrium</link>
-    <pubDate>Sat, 09 Nov 2019 01:08:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX (lithium) - V11.0.2.0.OAHMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lithium</link>
-    <pubDate>Fri, 08 Nov 2019 19:10:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX (lithium) - V11.0.2.0.OAHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lithium</link>
-    <pubDate>Fri, 08 Nov 2019 19:08:06 +0900</pubDate>
   </item>
     </channel>
 </rss>

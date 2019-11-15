@@ -65,16 +65,16 @@
     android: '9.0'
     miui: V10.4.5.0.PGGEUXM
 - branch: stable
-  date: '2019-11-04'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_ru_global-stable/fw-vendor_begonia_miui_BEGONIARUGlobal_V10.4.3.0.PGGRUXM_97cfbb1273_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_ru_global-stable/fw-vendor_begonia_miui_BEGONIARUGlobal_V10.4.3.0.PGGRUXM_97cfbb1273_9.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIARUGlobal_V10.4.3.0.PGGRUXM_97cfbb1273_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_ru_global-stable/fw-vendor_begonia_miui_BEGONIARUGlobal_V11.0.1.0.PGGRUXM_4e5c49a767_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_ru_global-stable/fw-vendor_begonia_miui_BEGONIARUGlobal_V11.0.1.0.PGGRUXM_4e5c49a767_9.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIARUGlobal_V11.0.1.0.PGGRUXM_4e5c49a767_9.0.zip
   region: Russia
-  size: 491.5 MB
+  size: 489.9 MB
   versions:
     android: '9.0'
-    miui: V10.4.3.0.PGGRUXM
+    miui: V11.0.1.0.PGGRUXM
 - branch: stable
   date: '2019-10-31'
   downloads:
@@ -208,16 +208,16 @@
     android: '8.1'
     miui: V10.3.2.0.ODJCNXM
 - branch: stable
-  date: '2019-10-25'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-stable/fw-vendor_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-stable/fw-vendor_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip/download
-  filename: fw-vendor_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-stable/fw-vendor_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-stable/fw-vendor_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip/download
+  filename: fw-vendor_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
   region: China
-  size: 826.7 MB
+  size: 823.7 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PFXCNXM
+    miui: V11.0.3.0.PFXCNXM
 - branch: stable
   date: '2019-11-04'
   downloads:
