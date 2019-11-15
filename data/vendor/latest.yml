@@ -317,17 +317,6 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PECCNXM
-- branch: weekly
-  date: '2019-06-28'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_global_9.6.27.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_global_9.6.27.zip/download
-  filename: fw-vendor_equuleus_global_9.6.27.zip
-  region: Global
-  size: 493.8 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
 - branch: stable
   date: '2019-11-01'
   downloads:
@@ -351,16 +340,16 @@
     android: '9.0'
     miui: V10.3.5.0.PCOMIXM
 - branch: stable
-  date: '2019-10-24'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.8.0.PCOCNXM_378cda9a0b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.8.0.PCOCNXM_378cda9a0b_9.0.zip/download
-  filename: fw-vendor_ginkgo_miui_GINKGO_V10.3.8.0.PCOCNXM_378cda9a0b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.2.0.PCOCNXM_4f887a3f3e_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.2.0.PCOCNXM_4f887a3f3e_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V11.0.2.0.PCOCNXM_4f887a3f3e_9.0.zip
   region: China
-  size: 328.6 MB
+  size: 348.7 MB
   versions:
     android: '9.0'
-    miui: V10.3.8.0.PCOCNXM
+    miui: V11.0.2.0.PCOCNXM
 - branch: stable
   date: '2019-10-28'
   downloads:
@@ -900,17 +889,6 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PDMMIXM
-- branch: stable
-  date: '2019-10-31'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-stable/fw-vendor_sakura_miui_HM6Pro_V10.3.4.0.PDICNXM_dbb5b8a730_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-stable/fw-vendor_sakura_miui_HM6Pro_V10.3.4.0.PDICNXM_dbb5b8a730_9.0.zip/download
-  filename: fw-vendor_sakura_miui_HM6Pro_V10.3.4.0.PDICNXM_dbb5b8a730_9.0.zip
-  region: China
-  size: 255.2 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.4.0.PDICNXM
 - branch: weekly
   date: '2019-06-29'
   downloads:
@@ -944,6 +922,28 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PEBCNXM
+- branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
+  region: China
+  size: 947.9 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFDCNXM
+- branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_eea_global-stable/fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_eea_global-stable/fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
+  region: Europe
+  size: 899.7 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PFDEUXM
 - branch: stable
   date: '2019-09-03'
   downloads:

@@ -9,17 +9,6 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PDMMIXM
-- branch: stable
-  date: '2019-10-31'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-stable/fw-vendor_sakura_miui_HM6Pro_V10.3.4.0.PDICNXM_dbb5b8a730_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-stable/fw-vendor_sakura_miui_HM6Pro_V10.3.4.0.PDICNXM_dbb5b8a730_9.0.zip/download
-  filename: fw-vendor_sakura_miui_HM6Pro_V10.3.4.0.PDICNXM_dbb5b8a730_9.0.zip
-  region: China
-  size: 255.2 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.4.0.PDICNXM
 - branch: weekly
   date: '2019-06-29'
   downloads:
