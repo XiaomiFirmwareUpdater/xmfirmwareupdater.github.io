@@ -1,7 +1,7 @@
 ---
-title: Redmi K20 (davinci) Firmware Downloads
+title: Redmi K20/Mi 9T (davinci) Firmware Downloads
 layout: download
-name: Redmi K20
+name: Redmi K20/Mi 9T
 codename: davinci
 permalink: /firmware/davinci/
 ---

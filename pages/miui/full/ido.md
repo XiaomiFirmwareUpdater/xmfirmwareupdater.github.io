@@ -1,7 +1,7 @@
 ---
-title: Redmi 3 (ido) MIUI Downloads
+title: Redmi 3/3 Pro (ido) MIUI Downloads
 layout: download
-name: Redmi 3
+name: Redmi 3/3 Pro
 codename: ido
 permalink: /archive/miui/ido/
 ---

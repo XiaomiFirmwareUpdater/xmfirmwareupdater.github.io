@@ -1,7 +1,7 @@
 ---
-title: Redmi Note (lcsh92) MIUI Downloads
+title: Redmi Note 3G/Redmi Note 1 TD (lcsh92) MIUI Downloads
 layout: download
-name: Redmi Note
+name: Redmi Note 3G/Redmi Note 1 TD
 codename: lcsh92
 permalink: /miui/lcsh92/
 ---

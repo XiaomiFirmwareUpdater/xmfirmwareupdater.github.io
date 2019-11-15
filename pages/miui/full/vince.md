@@ -1,7 +1,7 @@
 ---
-title: Redmi 5 Plus (vince) MIUI Downloads
+title: Redmi 5 Plus/Note 5 (vince) MIUI Downloads
 layout: download
-name: Redmi 5 Plus
+name: Redmi 5 Plus/Note 5
 codename: vince
 permalink: /archive/miui/vince/
 ---

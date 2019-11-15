@@ -1,7 +1,7 @@
 ---
-title: Redmi K20 Pro (raphael) Vendor Downloads
+title: Redmi K20 Pro/Mi 9T Pro (raphael) Vendor Downloads
 layout: download
-name: Redmi K20 Pro
+name: Redmi K20 Pro/Mi 9T Pro
 codename: raphael
 permalink: /vendor/raphael/
 ---

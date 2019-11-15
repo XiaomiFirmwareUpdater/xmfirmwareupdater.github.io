@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 3 (kate) MIUI Downloads
+title: Redmi Note 3 SE (kate) MIUI Downloads
 layout: download
-name: Redmi Note 3
+name: Redmi Note 3 SE
 codename: kate
 permalink: /archive/miui/kate/
 ---

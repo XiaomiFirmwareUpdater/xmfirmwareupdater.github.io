@@ -1,7 +1,7 @@
 ---
-title: Redmi 5 Plus (vince) Firmware Downloads
+title: Redmi 5 Plus/Note 5 (vince) Firmware Downloads
 layout: download
-name: Redmi 5 Plus
+name: Redmi 5 Plus/Note 5
 codename: vince
 permalink: /archive/firmware/vince/
 ---

@@ -1,7 +1,7 @@
 ---
-title: Mi Note (virgo) MIUI Downloads
+title: Mi Note/Mi Note LTE CT (virgo) MIUI Downloads
 layout: download
-name: Mi Note
+name: Mi Note/Mi Note LTE CT
 codename: virgo
 permalink: /archive/miui/virgo/
 ---

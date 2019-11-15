@@ -1,7 +1,7 @@
 ---
-title: POCO F1 (beryllium) Firmware Downloads
+title: POCOPHONE F1 (beryllium) Firmware Downloads
 layout: download
-name: POCO F1
+name: POCOPHONE F1
 codename: beryllium
 permalink: /archive/firmware/beryllium/
 ---

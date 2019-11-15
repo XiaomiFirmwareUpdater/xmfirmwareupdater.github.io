@@ -1,7 +1,7 @@
 ---
-title: Mi CC 9 Pro (tucana) MIUI Downloads
+title: Mi CC 9 Pro/Mi Note 10 (tucana) MIUI Downloads
 layout: download
-name: Mi CC 9 Pro
+name: Mi CC 9 Pro/Mi Note 10
 codename: tucana
 permalink: /archive/miui/tucana/
 ---

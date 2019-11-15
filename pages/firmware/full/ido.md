@@ -1,7 +1,7 @@
 ---
-title: Redmi 3 (ido) Firmware Downloads
+title: Redmi 3/3 Pro (ido) Firmware Downloads
 layout: download
-name: Redmi 3
+name: Redmi 3/3 Pro
 codename: ido
 permalink: /archive/firmware/ido/
 ---

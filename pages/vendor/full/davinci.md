@@ -1,7 +1,7 @@
 ---
-title: Redmi K20 (davinci) Vendor Downloads
+title: Redmi K20/Mi 9T (davinci) Vendor Downloads
 layout: download
-name: Redmi K20
+name: Redmi K20/Mi 9T
 codename: davinci
 permalink: /archive/vendor/davinci/
 ---

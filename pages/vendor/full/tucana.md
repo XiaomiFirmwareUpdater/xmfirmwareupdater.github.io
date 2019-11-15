@@ -1,13 +1,13 @@
 ---
-title: Redmi S2/Y2 (ysl) Vendor Downloads
+title: Mi CC 9 Pro/Mi Note 10 (tucana) Vendor Downloads
 layout: download
-name: Redmi S2/Y2
-codename: ysl
-permalink: /archive/vendor/ysl/
+name: Mi CC 9 Pro/Mi Note 10
+codename: tucana
+permalink: /archive/vendor/tucana/
 ---
 
 ### Vendor flashable files Archive
-##### This page shows all available downloads. If you're looking for the latest releases check [Here](/vendor/ysl/).
+##### This page shows all available downloads. If you're looking for the latest releases check [Here](/vendor/tucana/).
 
 *Note*: All files listed here are made by [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -29,6 +29,6 @@ permalink: /archive/vendor/ysl/
                 <th data-ref="updated">Updated</th>
             </tr>
         </thead>
-        <script>loadVendorDownloads('ysl', 'full')</script>
+        <script>loadVendorDownloads('tucana', 'full')</script>
     </table>
 </div>

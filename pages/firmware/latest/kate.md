@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 3 (kate) Firmware Downloads
+title: Redmi Note 3 SE (kate) Firmware Downloads
 layout: download
-name: Redmi Note 3
+name: Redmi Note 3 SE
 codename: kate
 permalink: /firmware/kate/
 ---

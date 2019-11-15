@@ -1,7 +1,7 @@
 ---
-title: Redmi S2 (ysl) MIUI Downloads
+title: Redmi S2/Y2 (ysl) MIUI Downloads
 layout: download
-name: Redmi S2
+name: Redmi S2/Y2
 codename: ysl
 permalink: /miui/ysl/
 ---
