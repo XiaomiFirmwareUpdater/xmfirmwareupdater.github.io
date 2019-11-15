@@ -1059,25 +1059,25 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2019-02-13'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-13.02.2019/fw_mido_miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/mido/fw_mido_miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip
-  filename: fw_mido_miui_HMNote4XGlobal_V10.2.3.0.NCFMIXM_e1a82195b6_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-15.11.2019/fw_mido_miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/mido/fw_mido_miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip
+  filename: fw_mido_miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip
   region: Global
   versions:
     android: '7.0'
-    miui: V10.2.3.0.NCFMIXM
+    miui: V11.0.2.0.NCFMIXM
 - branch: stable
-  date: '2019-05-16'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-16.05.2019/fw_mido_miui_HMNote4X_V10.3.2.0.NCFCNXM_7feed0b40b_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/mido/fw_mido_miui_HMNote4X_V10.3.2.0.NCFCNXM_7feed0b40b_7.0.zip
-  filename: fw_mido_miui_HMNote4X_V10.3.2.0.NCFCNXM_7feed0b40b_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-15.11.2019/fw_mido_miui_HMNote4X_V11.0.2.0.NCFCNXM_8e61b3fb88_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/mido/fw_mido_miui_HMNote4X_V11.0.2.0.NCFCNXM_8e61b3fb88_7.0.zip
+  filename: fw_mido_miui_HMNote4X_V11.0.2.0.NCFCNXM_8e61b3fb88_7.0.zip
   region: China
   versions:
     android: '7.0'
-    miui: V10.3.2.0.NCFCNXM
+    miui: V11.0.2.0.NCFCNXM
 - branch: weekly
   date: '2018-12-21'
   downloads:
@@ -1801,9 +1801,9 @@
 - branch: stable
   date: '2019-11-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-14.11.2019/fw_sakura_india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura_india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
-  filename: fw_sakura_india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-14.11.2019/fw_sakura-india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura-india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
+  filename: fw_sakura-india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
   region: India
   versions:
     android: '9.0'
@@ -2159,15 +2159,15 @@
     android: '9.0'
     miui: 9.11.7
 - branch: stable
-  date: '2019-08-19'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-19.08.2019/fw_whyred_miui_HMNote5Global_V10.3.2.0.PEIMIXM_7d750f3322_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/whyred/fw_whyred_miui_HMNote5Global_V10.3.2.0.PEIMIXM_7d750f3322_9.0.zip
-  filename: fw_whyred_miui_HMNote5Global_V10.3.2.0.PEIMIXM_7d750f3322_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-15.11.2019/fw_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/whyred/fw_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
+  filename: fw_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V10.3.2.0.PEIMIXM
+    miui: V11.0.3.0.PEIMIXM
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -2199,15 +2199,15 @@
     android: '9.0'
     miui: 9.11.7
 - branch: stable
-  date: '2019-08-07'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/stable-07.08.2019/fw_ysl_miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ysl/fw_ysl_miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip
-  filename: fw_ysl_miui_HMS2Global_V10.3.3.0.PEFMIXM_340dd43b5c_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/stable-15.11.2019/fw_ysl_miui_HMS2Global_V11.0.2.0.PEFMIXM_9b41feaa9c_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ysl/fw_ysl_miui_HMS2Global_V11.0.2.0.PEFMIXM_9b41feaa9c_9.0.zip
+  filename: fw_ysl_miui_HMS2Global_V11.0.2.0.PEFMIXM_9b41feaa9c_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V10.3.3.0.PEFMIXM
+    miui: V11.0.2.0.PEFMIXM
 - branch: stable
   date: '2019-10-29'
   downloads:

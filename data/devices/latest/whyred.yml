@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2019-08-19'
+  date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-19.08.2019/fw_whyred_miui_HMNote5Global_V10.3.2.0.PEIMIXM_7d750f3322_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/whyred/fw_whyred_miui_HMNote5Global_V10.3.2.0.PEIMIXM_7d750f3322_9.0.zip
-  filename: fw_whyred_miui_HMNote5Global_V10.3.2.0.PEIMIXM_7d750f3322_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-15.11.2019/fw_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/whyred/fw_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
+  filename: fw_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V10.3.2.0.PEIMIXM
+    miui: V11.0.3.0.PEIMIXM
 - branch: stable
   date: '2019-11-04'
   downloads:

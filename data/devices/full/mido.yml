@@ -1,3 +1,23 @@
+- branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-15.11.2019/fw_mido_miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/mido/fw_mido_miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip
+  filename: fw_mido_miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip
+  region: Global
+  versions:
+    android: '7.0'
+    miui: V11.0.2.0.NCFMIXM
+- branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-15.11.2019/fw_mido_miui_HMNote4X_V11.0.2.0.NCFCNXM_8e61b3fb88_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/mido/fw_mido_miui_HMNote4X_V11.0.2.0.NCFCNXM_8e61b3fb88_7.0.zip
+  filename: fw_mido_miui_HMNote4X_V11.0.2.0.NCFCNXM_8e61b3fb88_7.0.zip
+  region: China
+  versions:
+    android: '7.0'
+    miui: V11.0.2.0.NCFCNXM
 - branch: weekly
   date: '2019-10-17'
   downloads:
