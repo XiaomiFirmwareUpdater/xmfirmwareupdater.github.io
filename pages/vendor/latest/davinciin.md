@@ -1,7 +1,7 @@
 ---
-title: Mi 9T (davinciin) Vendor Downloads
+title: Redmi K20 (davinciin) Vendor Downloads
 layout: download
-name: Mi 9T
+name: Redmi K20
 codename: davinciin
 permalink: /vendor/davinciin/
 ---

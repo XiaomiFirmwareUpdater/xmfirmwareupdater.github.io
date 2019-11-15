@@ -1,7 +1,7 @@
 ---
-title: Mi 9T (davinciin) MIUI Downloads
+title: Redmi K20 (davinciin) MIUI Downloads
 layout: download
-name: Mi 9T
+name: Redmi K20
 codename: davinciin
 permalink: /miui/davinciin/
 ---

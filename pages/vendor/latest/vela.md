@@ -1,7 +1,7 @@
 ---
-title: Mi CC9 Meitu Edition (vela) Vendor Downloads
+title: Mi CC 9 Meitu Edition (vela) Vendor Downloads
 layout: download
-name: Mi CC9 Meitu Edition
+name: Mi CC 9 Meitu Edition
 codename: vela
 permalink: /vendor/vela/
 ---

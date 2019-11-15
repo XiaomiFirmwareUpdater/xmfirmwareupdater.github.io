@@ -1,7 +1,7 @@
 ---
-title: Mi CC9 Meitu Edition (vela) MIUI Downloads
+title: Mi CC 9 Meitu Edition (vela) MIUI Downloads
 layout: download
-name: Mi CC9 Meitu Edition
+name: Mi CC 9 Meitu Edition
 codename: vela
 permalink: /miui/vela/
 ---

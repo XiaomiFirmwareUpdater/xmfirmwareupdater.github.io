@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 7 (lavender) MIUI Downloads
+title: Redmi Note 7/7S (lavender) MIUI Downloads
 layout: download
-name: Redmi Note 7
+name: Redmi Note 7/7S
 codename: lavender
 permalink: /miui/lavender/
 ---
