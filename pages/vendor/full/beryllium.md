@@ -1,7 +1,7 @@
 ---
-title: POCO F1 (beryllium) Vendor Downloads
+title: POCOPHONE F1 (beryllium) Vendor Downloads
 layout: download
-name: POCO F1
+name: POCOPHONE F1
 codename: beryllium
 permalink: /archive/vendor/beryllium/
 ---

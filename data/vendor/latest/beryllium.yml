@@ -1,11 +1,11 @@
 - branch: stable
-  date: '2019-10-09'
+  date: '2019-11-20'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip/download
-  filename: fw-vendor_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
-  region: Global
-  size: 458.3 MB
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_ru_global-stable/fw-vendor_beryllium_miui_POCOF1RUGlobal_V11.0.1.0.PEJRUXM_875d335936_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_ru_global-stable/fw-vendor_beryllium_miui_POCOF1RUGlobal_V11.0.1.0.PEJRUXM_875d335936_9.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1RUGlobal_V11.0.1.0.PEJRUXM_875d335936_9.0.zip
+  region: Russia
+  size: 539.6 MB
   versions:
     android: '9.0'
-    miui: V10.3.8.0.PEJMIXM
+    miui: V11.0.1.0.PEJRUXM
