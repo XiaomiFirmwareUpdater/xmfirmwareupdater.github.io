@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 19 Nov 2019 19:09:13 +0900</pubDate>
+  <pubDate>Thu, 21 Nov 2019 19:09:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 6 Pro (tulip) - V11.0.1.0.PEKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tulip</link>
+    <pubDate>Thu, 21 Nov 2019 19:09:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - V11.0.4.0.PFGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Thu, 21 Nov 2019 19:07:44 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8 (olive) - V11.0.2.0.PCNINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
@@ -95,16 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 9.11.14</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Fri, 15 Nov 2019 23:45:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 9.11.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 15 Nov 2019 23:45:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 9.11.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 15 Nov 2019 23:43:18 +0900</pubDate>
   </item>
     </channel>
 </rss>
