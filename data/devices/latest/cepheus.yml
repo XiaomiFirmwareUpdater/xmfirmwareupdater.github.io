@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2019-11-04'
+  date: '2019-11-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-04.11.2019/fw_cepheus_miui_CEPHEUSGlobal_V11.0.2.0.QFAMIXM_38f824197c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V11.0.2.0.QFAMIXM_38f824197c_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUSGlobal_V11.0.2.0.QFAMIXM_38f824197c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-21.11.2019/fw_cepheus_miui_CEPHEUSGlobal_V11.0.3.0.QFAMIXM_f321a89ed9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V11.0.3.0.QFAMIXM_f321a89ed9_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_V11.0.3.0.QFAMIXM_f321a89ed9_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFAMIXM
+    miui: V11.0.3.0.QFAMIXM
 - branch: stable
   date: '2019-10-28'
   downloads:
@@ -39,12 +39,12 @@
     android: '10.0'
     miui: 9.11.7
 - branch: stable
-  date: '2019-11-04'
+  date: '2019-11-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-04.11.2019/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.5.0.QFAEUXM_b75c33b811_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.5.0.QFAEUXM_b75c33b811_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.5.0.QFAEUXM_b75c33b811_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-21.11.2019/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.6.0.QFAEUXM_1647340073_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.6.0.QFAEUXM_1647340073_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.6.0.QFAEUXM_1647340073_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QFAEUXM
+    miui: V11.0.6.0.QFAEUXM

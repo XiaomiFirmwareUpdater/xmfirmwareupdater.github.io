@@ -89,15 +89,15 @@
     android: '9.0'
     miui: V11.0.1.0.PGGEUXM
 - branch: stable
-  date: '2019-10-31'
+  date: '2019-11-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begoniain/releases/download/stable-31.10.2019/fw_begoniain_miui_BEGONIAININGlobal_V10.4.4.0.PGGINXM_43b68b836a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V10.4.4.0.PGGINXM_43b68b836a_9.0.zip
-  filename: fw_begoniain_miui_BEGONIAININGlobal_V10.4.4.0.PGGINXM_43b68b836a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begoniain/releases/download/stable-21.11.2019/fw_begoniain_miui_BEGONIAININGlobal_V11.0.1.0.PGGINXM_ef453fb0eb_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V11.0.1.0.PGGINXM_ef453fb0eb_9.0.zip
+  filename: fw_begoniain_miui_BEGONIAININGlobal_V11.0.1.0.PGGINXM_ef453fb0eb_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V10.4.4.0.PGGINXM
+    miui: V11.0.1.0.PGGINXM
 - branch: stable
   date: '2019-11-01'
   downloads:
@@ -209,15 +209,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2019-11-04'
+  date: '2019-11-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-04.11.2019/fw_cepheus_miui_CEPHEUSGlobal_V11.0.2.0.QFAMIXM_38f824197c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V11.0.2.0.QFAMIXM_38f824197c_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUSGlobal_V11.0.2.0.QFAMIXM_38f824197c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-21.11.2019/fw_cepheus_miui_CEPHEUSGlobal_V11.0.3.0.QFAMIXM_f321a89ed9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V11.0.3.0.QFAMIXM_f321a89ed9_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_V11.0.3.0.QFAMIXM_f321a89ed9_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFAMIXM
+    miui: V11.0.3.0.QFAMIXM
 - branch: stable
   date: '2019-10-28'
   downloads:
@@ -249,15 +249,15 @@
     android: '10.0'
     miui: 9.11.7
 - branch: stable
-  date: '2019-11-04'
+  date: '2019-11-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-04.11.2019/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.5.0.QFAEUXM_b75c33b811_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.5.0.QFAEUXM_b75c33b811_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.5.0.QFAEUXM_b75c33b811_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-21.11.2019/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.6.0.QFAEUXM_1647340073_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.6.0.QFAEUXM_1647340073_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.6.0.QFAEUXM_1647340073_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QFAEUXM
+    miui: V11.0.6.0.QFAEUXM
 - branch: stable
   date: '2019-10-09'
   downloads:
@@ -1559,15 +1559,15 @@
     android: '9.0'
     miui: V11.3.3.0.PFCEUXM
 - branch: stable
-  date: '2019-11-04'
+  date: '2019-11-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-04.11.2019/fw_raphael_miui_RAPHAELGlobal_V10.3.3.0.PFKMIXM_67fb825970_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/raphael/fw_raphael_miui_RAPHAELGlobal_V10.3.3.0.PFKMIXM_67fb825970_9.0.zip
-  filename: fw_raphael_miui_RAPHAELGlobal_V10.3.3.0.PFKMIXM_67fb825970_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-21.11.2019/fw_raphael_miui_RAPHAELGlobal_V11.0.1.0.QFKMIXM_7b25321468_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/raphael/fw_raphael_miui_RAPHAELGlobal_V11.0.1.0.QFKMIXM_7b25321468_10.0.zip
+  filename: fw_raphael_miui_RAPHAELGlobal_V11.0.1.0.QFKMIXM_7b25321468_10.0.zip
   region: Global
   versions:
-    android: '9.0'
-    miui: V10.3.3.0.PFKMIXM
+    android: '10.0'
+    miui: V11.0.1.0.QFKMIXM
 - branch: stable
   date: '2019-11-05'
   downloads:
