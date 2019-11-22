@@ -507,7 +507,7 @@ function loadMiuiArchive(device) {
                                 var android = filename.split('_').slice(-1).join().split('.zip')[0];
                             }
                             else {
-                                var android = filename.match(/_[0-9].[0-9]_/)[0].split('_')[1];
+                                var android = filename.match(/_[0-9]+\.[0-9]_/)[0].split('_')[1];
                             }
                             var region;
                             if (full_codename.includes('eea_global')) {
