@@ -20,17 +20,6 @@
   versions:
     android: '9.0'
     miui: V11.0.2.0.PEDCNXM
-- branch: weekly
-  date: '2019-06-28'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_global-weekly/fw-vendor_nitrogen_global_9.6.27.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_global-weekly/fw-vendor_nitrogen_global_9.6.27.zip/download
-  filename: fw-vendor_nitrogen_global_9.6.27.zip
-  region: Global
-  size: 432.8 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
 - branch: stable
   date: '2019-10-29'
   downloads:

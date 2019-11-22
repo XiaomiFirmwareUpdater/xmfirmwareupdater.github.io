@@ -493,17 +493,6 @@
   versions:
     android: '9.0'
     miui: V11.0.2.0.PEDCNXM
-- branch: weekly
-  date: '2019-06-28'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_global-weekly/fw-vendor_nitrogen_global_9.6.27.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_global-weekly/fw-vendor_nitrogen_global_9.6.27.zip/download
-  filename: fw-vendor_nitrogen_global_9.6.27.zip
-  region: Global
-  size: 432.8 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
 - branch: stable
   date: '2019-10-29'
   downloads:
@@ -1065,6 +1054,17 @@
   versions:
     android: '9.0'
     miui: V11.0.1.0.PEIRUXM
+- branch: stable
+  date: '2019-11-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V10.3.5.0.PCXEUXM_e2b2a958aa_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V10.3.5.0.PCXEUXM_e2b2a958aa_9.0.zip/download
+  filename: fw-vendor_willow_miui_WILLOWEEAGlobal_V10.3.5.0.PCXEUXM_e2b2a958aa_9.0.zip
+  region: Europe
+  size: 385.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PCXEUXM
 - branch: stable
   date: '2019-08-07'
   downloads:
