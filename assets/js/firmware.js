@@ -615,6 +615,7 @@ function loadMiuiArchive(device) {
                         defaultContent: 'Device',
                         className: "all"
                     },
+                    { data: 'codename', className: "min-mobile-l" },
                     {
                         data: 'version',
                         className: "min-tablet-p",
