@@ -1,11 +1,86 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 22 Nov 2019 22:10:31 +0900</pubDate>
+  <pubDate>Sat, 23 Nov 2019 00:21:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 5/Note 5 Pro (whyred) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
+    <pubDate>Sat, 23 Nov 2019 00:21:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 6X (wayne) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
+    <pubDate>Sat, 23 Nov 2019 00:19:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 6X (wayne) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
+    <pubDate>Sat, 23 Nov 2019 00:19:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Sat, 23 Nov 2019 00:17:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Explorer (ursa) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
+    <pubDate>Sat, 23 Nov 2019 00:15:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 SE (sirius) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
+    <pubDate>Sat, 23 Nov 2019 00:13:16 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Sat, 23 Nov 2019 00:09:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Sat, 23 Nov 2019 00:09:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 6 (sagit) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
+    <pubDate>Sat, 23 Nov 2019 00:05:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 22 Nov 2019 23:48:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2S (polaris) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Fri, 22 Nov 2019 23:42:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 (perseus) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Fri, 22 Nov 2019 23:36:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Fri, 22 Nov 2019 23:02:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Note 3 (jason) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
+    <pubDate>Fri, 22 Nov 2019 23:01:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 9.11.21</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 22 Nov 2019 22:59:06 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 Pro (equuleus) - 9.11.21</title>
     <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
@@ -30,81 +105,6 @@
     <title>Redmi 6 (cereus) - 9.11.21</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
     <pubDate>Fri, 22 Nov 2019 22:03:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 9.11.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 22 Nov 2019 22:01:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6A (cactus) - 9.11.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
-    <pubDate>Fri, 22 Nov 2019 22:00:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 5G (andromeda) - V10.3.18.0.PEMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
-    <pubDate>Fri, 22 Nov 2019 19:06:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 5G (andromeda) - V10.3.20.0.PEMMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
-    <pubDate>Fri, 22 Nov 2019 13:07:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8T (willow) - V10.3.5.0.PCXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
-    <pubDate>Fri, 22 Nov 2019 04:10:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.1.0.QFKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 22 Nov 2019 01:14:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - V11.0.3.0.QFAMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 22 Nov 2019 01:12:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - V11.0.6.0.QFAEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 22 Nov 2019 01:10:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begoniain) - V11.0.1.0.PGGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
-    <pubDate>Fri, 22 Nov 2019 01:08:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 6 Pro (tulip) - V11.0.1.0.PEKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tulip</link>
-    <pubDate>Thu, 21 Nov 2019 19:09:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - V11.0.4.0.PFGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Thu, 21 Nov 2019 19:07:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.2.0.PCNINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Tue, 19 Nov 2019 19:09:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.2.0.PCNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Tue, 19 Nov 2019 19:07:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - V11.0.6.0.PFGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Tue, 19 Nov 2019 01:13:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - V11.0.4.0.PFGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Tue, 19 Nov 2019 01:11:16 +0900</pubDate>
   </item>
     </channel>
 </rss>
