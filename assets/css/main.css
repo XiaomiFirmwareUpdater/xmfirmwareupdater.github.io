@@ -3910,3 +3910,8 @@
     border-bottom: 1px dashed #b3b3b3;
     padding-bottom: 1.5em;
 	}
+	
+	#cta .btn-group[aria-label="Telegram"] > a {
+		margin: 0 10px;
+		border-radius: 6px;
+	}
