@@ -1,0 +1,11 @@
+- branch: stable
+  date: '2019-11-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V10.3.5.0.PCXEUXM_e2b2a958aa_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V10.3.5.0.PCXEUXM_e2b2a958aa_9.0.zip/download
+  filename: fw-vendor_willow_miui_WILLOWEEAGlobal_V10.3.5.0.PCXEUXM_e2b2a958aa_9.0.zip
+  region: Europe
+  size: 385.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PCXEUXM

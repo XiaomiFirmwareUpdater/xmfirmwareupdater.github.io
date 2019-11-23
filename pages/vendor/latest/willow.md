@@ -1,13 +1,13 @@
 ---
-title: POCOPHONE F1 (beryllium) Vendor Downloads
+title: Redmi Note 8T (willow) Vendor Downloads
 layout: download
-name: POCOPHONE F1
-codename: beryllium
-permalink: /archive/vendor/beryllium/
+name: Redmi Note 8T
+codename: willow
+permalink: /vendor/willow/
 ---
 
-### Vendor flashable files Archive
-##### This page shows all available downloads. If you're looking for the latest releases check [Here](/vendor/beryllium/).
+### Latest Vendor flashable files
+##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/vendor/willow/).
 
 *Note*: All files listed here are made by [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -29,6 +29,6 @@ permalink: /archive/vendor/beryllium/
                 <th data-ref="updated">Updated</th>
             </tr>
         </thead>
-        <script>loadVendorDownloads('beryllium', 'full')</script>
+        <script>loadVendorDownloads('willow', 'latest')</script>
     </table>
 </div>
