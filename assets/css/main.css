@@ -3933,3 +3933,8 @@
 	.box {
 		margin: 0 !important;
 	}
+	
+	#header.alt {
+		background: rgba(0, 0, 0, 0.2);
+		box-shadow: 0px 10px 24px 10px rgba(0, 0, 0, 0.21);
+    }
