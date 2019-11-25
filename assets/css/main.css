@@ -3929,3 +3929,7 @@
 	#footer .copyright[data-ref='sponsorship'] > * {
 		margin: 0 5px;
 	}
+	
+	.box {
+		margin: 0 !important;
+	}
