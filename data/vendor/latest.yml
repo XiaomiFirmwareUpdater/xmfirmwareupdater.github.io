@@ -252,16 +252,16 @@
     android: '9.0'
     miui: V11.0.3.0.PFJCNXM
 - branch: stable
-  date: '2019-10-23'
+  date: '2019-11-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.2.0.PFJEUXM_e32b086df3_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.2.0.PFJEUXM_e32b086df3_9.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.2.0.PFJEUXM_e32b086df3_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.3.0.PFJEUXM_222331be17_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.3.0.PFJEUXM_222331be17_9.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.3.0.PFJEUXM_222331be17_9.0.zip
   region: Europe
-  size: 716.3 MB
+  size: 712.7 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PFJEUXM
+    miui: V11.0.3.0.PFJEUXM
 - branch: stable
   date: '2019-10-23'
   downloads:
@@ -340,16 +340,16 @@
     android: '9.0'
     miui: V11.0.5.0.PECRUXM
 - branch: stable
-  date: '2019-10-24'
+  date: '2019-11-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip/download
-  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip
   region: Global
   size: 340.1 MB
   versions:
     android: '9.0'
-    miui: V10.3.5.0.PCOMIXM
+    miui: V11.0.3.0.PCOMIXM
 - branch: stable
   date: '2019-11-22'
   downloads:
@@ -516,6 +516,17 @@
     android: '9.0'
     miui: V11.0.2.0.PCNCNXM
 - branch: stable
+  date: '2019-11-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip
+  region: Europe
+  size: 362.3 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PCNEUXM
+- branch: stable
   date: '2019-11-19'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.2.0.PCNINXM_07bb0694d7_9.0.zip
@@ -527,27 +538,27 @@
     android: '9.0'
     miui: V11.0.2.0.PCNINXM
 - branch: stable
-  date: '2019-10-21'
+  date: '2019-11-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.3.0.PCPCNXM_06c5321fdf_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.3.0.PCPCNXM_06c5321fdf_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITE_V11.0.3.0.PCPCNXM_06c5321fdf_9.0.zip
   region: China
-  size: 250.2 MB
+  size: 270.2 MB
   versions:
     android: '9.0'
-    miui: V10.3.4.0.PCPCNXM
+    miui: V11.0.3.0.PCPCNXM
 - branch: stable
-  date: '2019-11-08'
+  date: '2019-11-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip
   region: India
-  size: 260.9 MB
+  size: 261.1 MB
   versions:
     android: '9.0'
-    miui: V11.0.1.0.PCPINXM
+    miui: V11.0.3.0.PCPINXM
 - branch: stable
   date: '2019-10-31'
   downloads:
@@ -625,17 +636,6 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PEECNXM
-- branch: weekly
-  date: '2019-06-28'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-weekly/fw-vendor_perseus_global_9.6.27.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-weekly/fw-vendor_perseus_global_9.6.27.zip/download
-  filename: fw-vendor_perseus_global_9.6.27.zip
-  region: Global
-  size: 531.6 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
 - branch: stable
   date: '2019-11-04'
   downloads:

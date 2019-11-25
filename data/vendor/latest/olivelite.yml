@@ -1,22 +1,22 @@
 - branch: stable
-  date: '2019-10-21'
+  date: '2019-11-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITE_V10.3.4.0.PCPCNXM_2c294ae816_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.3.0.PCPCNXM_06c5321fdf_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.3.0.PCPCNXM_06c5321fdf_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITE_V11.0.3.0.PCPCNXM_06c5321fdf_9.0.zip
   region: China
-  size: 250.2 MB
+  size: 270.2 MB
   versions:
     android: '9.0'
-    miui: V10.3.4.0.PCPCNXM
+    miui: V11.0.3.0.PCPCNXM
 - branch: stable
-  date: '2019-11-08'
+  date: '2019-11-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.3.0.PCPINXM_8a514b6ebe_9.0.zip
   region: India
-  size: 260.9 MB
+  size: 261.1 MB
   versions:
     android: '9.0'
-    miui: V11.0.1.0.PCPINXM
+    miui: V11.0.3.0.PCPINXM
