@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2019-11-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-25.11.2019/fw_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
+  filename: fw_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PFDCNXM
+- branch: stable
   date: '2019-11-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-15.11.2019/fw_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip

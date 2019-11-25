@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2019-11-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-25.11.2019/fw_olive_miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip
+  filename: fw_olive_miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PCNEUXM
+- branch: stable
   date: '2019-11-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-19.11.2019/fw_olive_miui_OLIVEINGlobal_V11.0.2.0.PCNINXM_07bb0694d7_9.0.zip
