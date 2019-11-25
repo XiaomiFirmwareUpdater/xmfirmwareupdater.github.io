@@ -3915,3 +3915,13 @@
 		margin: 0 10px;
 		border-radius: 6px;
 	}
+	
+	#footer .copyright[data-ref='sponsorship'] {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	
+	#footer .copyright[data-ref='sponsorship'] > * {
+		margin: 0 5px;
+	}
