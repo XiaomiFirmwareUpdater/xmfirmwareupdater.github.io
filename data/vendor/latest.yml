@@ -43,16 +43,16 @@
     android: '9.0'
     miui: V11.0.1.0.PGGMIXM
 - branch: stable
-  date: '2019-11-05'
+  date: '2019-11-26'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V11.0.1.0.PGGCNXM_675d7b8a9e_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V11.0.1.0.PGGCNXM_675d7b8a9e_9.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIA_V11.0.1.0.PGGCNXM_675d7b8a9e_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip
   region: China
   size: 403.5 MB
   versions:
     android: '9.0'
-    miui: V11.0.1.0.PGGCNXM
+    miui: V11.0.2.0.PGGCNXM
 - branch: stable
   date: '2019-11-18'
   downloads:
@@ -802,16 +802,16 @@
     android: '10.0'
     miui: V11.0.1.0.QFKMIXM
 - branch: stable
-  date: '2019-10-29'
+  date: '2019-11-26'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip/download
-  filename: fw-vendor_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.4.0.QFKCNXM_0c612efa47_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.4.0.QFKCNXM_0c612efa47_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAEL_V11.0.4.0.QFKCNXM_0c612efa47_10.0.zip
   region: China
-  size: 823.8 MB
+  size: 821.1 MB
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFKCNXM
+    miui: V11.0.4.0.QFKCNXM
 - branch: stable
   date: '2019-11-05'
   downloads:
