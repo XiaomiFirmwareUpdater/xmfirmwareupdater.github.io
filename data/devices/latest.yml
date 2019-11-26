@@ -59,15 +59,15 @@
     android: '9.0'
     miui: V11.0.1.0.PGGMIXM
 - branch: stable
-  date: '2019-11-05'
+  date: '2019-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-05.11.2019/fw_begonia_miui_BEGONIA_V11.0.1.0.PGGCNXM_675d7b8a9e_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIA_V11.0.1.0.PGGCNXM_675d7b8a9e_9.0.zip
-  filename: fw_begonia_miui_BEGONIA_V11.0.1.0.PGGCNXM_675d7b8a9e_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-26.11.2019/fw_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip
+  filename: fw_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V11.0.1.0.PGGCNXM
+    miui: V11.0.2.0.PGGCNXM
 - branch: weekly
   date: '2019-11-23'
   downloads:
@@ -1269,15 +1269,15 @@
     android: '9.0'
     miui: V11.0.2.0.PFLMIXM
 - branch: stable
-  date: '2019-11-25'
+  date: '2019-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-25.11.2019/fw_onc_miui_ONCLITE_V11.0.1.0.PFLCNXM_1a5e0de887_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITE_V11.0.1.0.PFLCNXM_1a5e0de887_9.0.zip
-  filename: fw_onc_miui_ONCLITE_V11.0.1.0.PFLCNXM_1a5e0de887_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-26.11.2019/fw_onc_miui_ONCLITE_V11.0.2.0.PFLCNXM_63411240e8_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITE_V11.0.2.0.PFLCNXM_63411240e8_9.0.zip
+  filename: fw_onc_miui_ONCLITE_V11.0.2.0.PFLCNXM_63411240e8_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V11.0.1.0.PFLCNXM
+    miui: V11.0.2.0.PFLCNXM
 - branch: stable
   date: '2019-10-30'
   downloads:
@@ -1569,15 +1569,15 @@
     android: '10.0'
     miui: V11.0.1.0.QFKMIXM
 - branch: stable
-  date: '2019-11-05'
+  date: '2019-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-05.11.2019/fw_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/raphael/fw_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
-  filename: fw_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-26.11.2019/fw_raphael_miui_RAPHAEL_V11.0.4.0.QFKCNXM_0c612efa47_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/raphael/fw_raphael_miui_RAPHAEL_V11.0.4.0.QFKCNXM_0c612efa47_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_V11.0.4.0.QFKCNXM_0c612efa47_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFKCNXM
+    miui: V11.0.4.0.QFKCNXM
 - branch: weekly
   date: '2019-11-22'
   downloads:
@@ -2089,15 +2089,15 @@
     android: '9.0'
     miui: 9.10.31
 - branch: stable
-  date: '2019-07-12'
+  date: '2019-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-12.07.2019/fw_vince_miui_HM5PlusGlobal_V10.2.3.0.OEGMIXM_062f670d34_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/vince/fw_vince_miui_HM5PlusGlobal_V10.2.3.0.OEGMIXM_062f670d34_8.1.zip
-  filename: fw_vince_miui_HM5PlusGlobal_V10.2.3.0.OEGMIXM_062f670d34_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vince/releases/download/stable-26.11.2019/fw_vince_miui_HM5PlusGlobal_V11.0.2.0.OEGMIXM_f74369de0c_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vince/fw_vince_miui_HM5PlusGlobal_V11.0.2.0.OEGMIXM_f74369de0c_8.1.zip
+  filename: fw_vince_miui_HM5PlusGlobal_V11.0.2.0.OEGMIXM_f74369de0c_8.1.zip
   region: Global
   versions:
     android: '8.1'
-    miui: V10.2.3.0.OEGMIXM
+    miui: V11.0.2.0.OEGMIXM
 - branch: stable
   date: '2019-11-05'
   downloads:

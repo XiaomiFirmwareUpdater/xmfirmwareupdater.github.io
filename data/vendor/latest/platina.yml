@@ -9,17 +9,6 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PDTMIXM
-- branch: weekly
-  date: '2019-06-29'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_global_9.6.27.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_global_9.6.27.zip/download
-  filename: fw-vendor_platina_global_9.6.27.zip
-  region: Global
-  size: 431.6 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
 - branch: stable
   date: '2019-10-29'
   downloads:
