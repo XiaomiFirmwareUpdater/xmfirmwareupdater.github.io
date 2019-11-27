@@ -263,16 +263,16 @@
     android: '9.0'
     miui: V11.0.3.0.PFJEUXM
 - branch: stable
-  date: '2019-10-23'
+  date: '2019-11-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinciin_in_global-stable/fw-vendor_davinciin_miui_DAVINCIININGlobal_V11.0.2.0.PFJINXM_45b2a8ac93_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinciin_in_global-stable/fw-vendor_davinciin_miui_DAVINCIININGlobal_V11.0.2.0.PFJINXM_45b2a8ac93_9.0.zip/download
-  filename: fw-vendor_davinciin_miui_DAVINCIININGlobal_V11.0.2.0.PFJINXM_45b2a8ac93_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinciin_in_global-stable/fw-vendor_davinciin_miui_DAVINCIININGlobal_V11.0.3.0.PFJINXM_ef8c64eb0f_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinciin_in_global-stable/fw-vendor_davinciin_miui_DAVINCIININGlobal_V11.0.3.0.PFJINXM_ef8c64eb0f_9.0.zip/download
+  filename: fw-vendor_davinciin_miui_DAVINCIININGlobal_V11.0.3.0.PFJINXM_ef8c64eb0f_9.0.zip
   region: India
-  size: 714.5 MB
+  size: 711.9 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PFJINXM
+    miui: V11.0.3.0.PFJINXM
 - branch: stable
   date: '2019-11-05'
   downloads:
