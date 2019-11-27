@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 28 Nov 2019 01:08:00 +0900</pubDate>
+  <pubDate>Thu, 28 Nov 2019 07:07:50 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.1.0.PFLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Thu, 28 Nov 2019 07:07:50 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 (ginkgo) - V11.0.1.0.PCOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
@@ -70,11 +75,6 @@
     <title>Redmi 8A (olivelite) - V11.0.1.0.PCPMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
     <pubDate>Tue, 26 Nov 2019 13:07:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.1.0.PFLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Tue, 26 Nov 2019 01:07:51 +0900</pubDate>
   </item>
     <item>
     <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.4.0.PFDCNXM</title>

@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2019-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-28.11.2019/fw_onc_miui_ONCLITE_V11.0.1.0.PFLCNXM_1a5e0de887_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITE_V11.0.1.0.PFLCNXM_1a5e0de887_9.0.zip
+  filename: fw_onc_miui_ONCLITE_V11.0.1.0.PFLCNXM_1a5e0de887_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PFLCNXM
+- branch: stable
   date: '2019-11-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-26.11.2019/fw_onc_miui_ONCLITE_V11.0.2.0.PFLCNXM_63411240e8_9.0.zip
