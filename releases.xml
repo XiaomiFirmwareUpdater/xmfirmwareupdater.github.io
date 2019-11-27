@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 27 Nov 2019 03:27:01 +0900</pubDate>
+  <pubDate>Wed, 27 Nov 2019 19:13:50 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 5 Plus/Note 5 (vince) - V11.0.3.0.OEGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vince</link>
+    <pubDate>Wed, 27 Nov 2019 19:13:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 5X (tiffany) - V11.0.3.0.ODBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tiffany</link>
+    <pubDate>Wed, 27 Nov 2019 19:12:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - V11.0.4.0.PDICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Wed, 27 Nov 2019 19:11:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - V11.0.4.0.PDICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Wed, 27 Nov 2019 19:11:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - V11.0.4.0.PFGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Wed, 27 Nov 2019 19:09:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 (davinciin) - V11.0.3.0.PFJINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
+    <pubDate>Wed, 27 Nov 2019 19:08:04 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.3.0.PFDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -75,36 +105,6 @@
     <title>Mi 9 (cepheus) - V11.0.4.0.QFACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
     <pubDate>Mon, 25 Nov 2019 19:07:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 9.11.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Sat, 23 Nov 2019 21:09:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V11.0.3.0.PCOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Sat, 23 Nov 2019 01:08:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5/Note 5 Pro (whyred) - 9.11.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Sat, 23 Nov 2019 00:21:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 9.11.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Sat, 23 Nov 2019 00:19:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 9.11.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Sat, 23 Nov 2019 00:19:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 9.11.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Sat, 23 Nov 2019 00:17:53 +0900</pubDate>
   </item>
     </channel>
 </rss>
