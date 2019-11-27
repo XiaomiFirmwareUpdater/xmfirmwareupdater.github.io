@@ -340,16 +340,16 @@
     android: '9.0'
     miui: V11.0.5.0.PECRUXM
 - branch: stable
-  date: '2019-11-25'
+  date: '2019-11-26'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip/download
-  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.1.0.PCOIDXM_a819859678_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.1.0.PCOIDXM_a819859678_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.1.0.PCOIDXM_a819859678_9.0.zip
   region: Global
-  size: 340.1 MB
+  size: 339.4 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PCOMIXM
+    miui: V11.0.1.0.PCOIDXM
 - branch: stable
   date: '2019-11-22'
   downloads:
@@ -735,17 +735,6 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PDGMIXM
-- branch: weekly
-  date: '2019-06-29'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-weekly/fw-vendor_polaris_global_9.6.27.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-weekly/fw-vendor_polaris_global_9.6.27.zip/download
-  filename: fw-vendor_polaris_global_9.6.27.zip
-  region: Global
-  size: 477.7 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
 - branch: stable
   date: '2019-11-06'
   downloads:
@@ -889,17 +878,6 @@
   versions:
     android: '9.0'
     miui: 9.6.27
-- branch: weekly
-  date: '2019-09-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_miui_HM6Pro_9.9.3_1201e8f9ea_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_miui_HM6Pro_9.9.3_1201e8f9ea_9.0.zip/download
-  filename: fw-vendor_sakura_miui_HM6Pro_9.9.3_1201e8f9ea_9.0.zip
-  region: China
-  size: 356.1 MB
-  versions:
-    android: '9.0'
-    miui: 9.9.3
 - branch: stable
   date: '2019-10-17'
   downloads:
@@ -911,6 +889,17 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PEBCNXM
+- branch: stable
+  date: '2019-11-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_global-stable/fw-vendor_tucana_miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_global-stable/fw-vendor_tucana_miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip
+  region: Global
+  size: 900.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFDMIXM
 - branch: stable
   date: '2019-11-25'
   downloads:
@@ -933,6 +922,17 @@
   versions:
     android: '9.0'
     miui: V11.0.5.0.PFDEUXM
+- branch: stable
+  date: '2019-11-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_ru_global-stable/fw-vendor_tucana_miui_TUCANARUGlobal_V11.0.3.0.PFDRUXM_cd59013df3_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_ru_global-stable/fw-vendor_tucana_miui_TUCANARUGlobal_V11.0.3.0.PFDRUXM_cd59013df3_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANARUGlobal_V11.0.3.0.PFDRUXM_cd59013df3_9.0.zip
+  region: Russia
+  size: 900.7 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFDRUXM
 - branch: stable
   date: '2019-11-21'
   downloads:
