@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 28 Nov 2019 07:07:50 +0900</pubDate>
+  <pubDate>Fri, 29 Nov 2019 01:10:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.3.4.0.PFCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Fri, 29 Nov 2019 01:10:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.6.0.PEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 29 Nov 2019 01:08:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.6.0.PEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 29 Nov 2019 01:08:12 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.1.0.PFLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -90,21 +105,6 @@
     <title>Redmi 8A (olivelite) - V11.0.3.0.PCPCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
     <pubDate>Mon, 25 Nov 2019 19:14:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.1.0.PCNEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Mon, 25 Nov 2019 19:12:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V11.0.3.0.PCOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Mon, 25 Nov 2019 19:11:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - V11.0.3.0.PFJEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Mon, 25 Nov 2019 19:09:33 +0900</pubDate>
   </item>
     </channel>
 </rss>
