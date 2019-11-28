@@ -472,16 +472,16 @@
     android: '9.0'
     miui: V11.0.4.0.PFGRUXM
 - branch: stable
-  date: '2019-07-30'
+  date: '2019-11-28'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_global-stable/fw-vendor_nitrogen_global_V10.3.3.0.PEDMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_global-stable/fw-vendor_nitrogen_global_V10.3.3.0.PEDMIXM.zip/download
-  filename: fw-vendor_nitrogen_global_V10.3.3.0.PEDMIXM.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_global-stable/fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.6.0.PEDMIXM_26b9783b2a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_global-stable/fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.6.0.PEDMIXM_26b9783b2a_9.0.zip/download
+  filename: fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.6.0.PEDMIXM_26b9783b2a_9.0.zip
   region: Global
-  size: 408.4 MB
+  size: 418.8 MB
   versions:
     android: '9.0'
-    miui: V10.3.3.0.PEDMIXM
+    miui: V11.0.6.0.PEDMIXM
 - branch: stable
   date: '2019-10-17'
   downloads:
@@ -537,6 +537,17 @@
   versions:
     android: '9.0'
     miui: V11.0.2.0.PCNINXM
+- branch: stable
+  date: '2019-11-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.PCNRUXM_f773af47c6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.PCNRUXM_f773af47c6_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.PCNRUXM_f773af47c6_9.0.zip
+  region: Russia
+  size: 361.9 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PCNRUXM
 - branch: stable
   date: '2019-11-26'
   downloads:
@@ -758,16 +769,16 @@
     android: '9.0'
     miui: V11.3.2.0.PFCCNXM
 - branch: stable
-  date: '2019-11-06'
+  date: '2019-11-28'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.3.0.PFCEUXM_7c18ddc18e_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.3.0.PFCEUXM_7c18ddc18e_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.3.0.PFCEUXM_7c18ddc18e_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.4.0.PFCEUXM_bd857626ef_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.4.0.PFCEUXM_bd857626ef_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.4.0.PFCEUXM_bd857626ef_9.0.zip
   region: Europe
-  size: 702.3 MB
+  size: 699.6 MB
   versions:
     android: '9.0'
-    miui: V11.3.3.0.PFCEUXM
+    miui: V11.3.4.0.PFCEUXM
 - branch: stable
   date: '2019-10-28'
   downloads:
@@ -867,17 +878,6 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PDMMIXM
-- branch: weekly
-  date: '2019-06-29'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.6.27.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.6.27.zip/download
-  filename: fw-vendor_sakura_india_global_9.6.27.zip
-  region: Global
-  size: 259.4 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
 - branch: stable
   date: '2019-10-17'
   downloads:
