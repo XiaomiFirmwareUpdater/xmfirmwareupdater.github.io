@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-11-22'
+  date: '2019-11-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-22.11.2019/fw_perseus_miui_MIMIX3_9.11.21_9cdc500675_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.21/perseus/fw_perseus_miui_MIMIX3_9.11.21_9cdc500675_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_9.11.21_9cdc500675_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-29.11.2019/fw_perseus_miui_MIMIX3_9.11.28_2b841085cc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/perseus/fw_perseus_miui_MIMIX3_9.11.28_2b841085cc_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_9.11.28_2b841085cc_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.11.21
+    miui: 9.11.28
