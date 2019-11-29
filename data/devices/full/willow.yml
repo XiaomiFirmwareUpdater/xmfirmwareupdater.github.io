@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2019-11-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-29.11.2019/fw_willow_miui_WILLOWGlobal_V10.3.1.0.PCXMIXM_9dc29fc488_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/willow/fw_willow_miui_WILLOWGlobal_V10.3.1.0.PCXMIXM_9dc29fc488_9.0.zip
+  filename: fw_willow_miui_WILLOWGlobal_V10.3.1.0.PCXMIXM_9dc29fc488_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PCXMIXM
+- branch: stable
   date: '2019-11-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-21.11.2019/fw_willow_miui_WILLOWEEAGlobal_V10.3.5.0.PCXEUXM_e2b2a958aa_9.0.zip
