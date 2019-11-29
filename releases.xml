@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 29 Nov 2019 18:36:40 +0900</pubDate>
+  <pubDate>Fri, 29 Nov 2019 19:09:54 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.9.0.PFDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Fri, 29 Nov 2019 19:09:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.2.0.PFLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 29 Nov 2019 19:07:57 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Note 3 (jason) - 9.11.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
@@ -95,16 +105,6 @@
     <title>Redmi 6 Pro (sakura) - V11.0.4.0.PDICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
     <pubDate>Wed, 27 Nov 2019 19:11:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - V11.0.4.0.PFGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Wed, 27 Nov 2019 19:09:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 (davinciin) - V11.0.3.0.PFJINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
-    <pubDate>Wed, 27 Nov 2019 19:08:04 +0900</pubDate>
   </item>
     </channel>
 </rss>
