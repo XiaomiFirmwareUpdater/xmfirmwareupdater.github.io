@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 29 Nov 2019 18:22:11 +0900</pubDate>
+  <pubDate>Fri, 29 Nov 2019 18:36:40 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 3 (jason) - 9.11.28</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
+    <pubDate>Fri, 29 Nov 2019 18:36:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 9.11.28</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 29 Nov 2019 18:35:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Pro (equuleus) - 9.11.28</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
+    <pubDate>Fri, 29 Nov 2019 18:33:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - 9.11.28</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Fri, 29 Nov 2019 18:28:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - 9.11.28</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 29 Nov 2019 18:25:24 +0900</pubDate>
+  </item>
     <item>
     <title>Mi MIX 2 (chiron) - 9.11.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
@@ -80,31 +105,6 @@
     <title>Redmi K20 (davinciin) - V11.0.3.0.PFJINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
     <pubDate>Wed, 27 Nov 2019 19:08:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.3.0.PFDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Wed, 27 Nov 2019 03:27:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 5 Plus/Note 5 (vince) - V11.0.2.0.OEGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vince</link>
-    <pubDate>Tue, 26 Nov 2019 19:12:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.4.0.QFKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 26 Nov 2019 19:10:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.2.0.PFLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Tue, 26 Nov 2019 19:09:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V11.0.2.0.PGGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Tue, 26 Nov 2019 19:07:42 +0900</pubDate>
   </item>
     </channel>
 </rss>
