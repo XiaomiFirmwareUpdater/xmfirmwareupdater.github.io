@@ -582,6 +582,17 @@
     android: '9.0'
     miui: V11.0.3.0.PCPINXM
 - branch: stable
+  date: '2019-11-29'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_ru_global-stable/fw-vendor_olivelite_miui_OLIVELITERUGlobal_V11.0.1.0.PCPRUXM_9b91941fa6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_ru_global-stable/fw-vendor_olivelite_miui_OLIVELITERUGlobal_V11.0.1.0.PCPRUXM_9b91941fa6_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITERUGlobal_V11.0.1.0.PCPRUXM_9b91941fa6_9.0.zip
+  region: Russia
+  size: 261.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PCPRUXM
+- branch: stable
   date: '2019-10-31'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onc_in_global-stable/fw-vendor_onc_miui_ONCINGlobal_V10.3.6.0.PFFINXM_6fda095cff_9.0.zip
@@ -912,16 +923,16 @@
     android: '9.0'
     miui: V11.0.4.0.PFDCNXM
 - branch: stable
-  date: '2019-11-15'
+  date: '2019-11-29'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_eea_global-stable/fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_eea_global-stable/fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_eea_global-stable/fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.0.9.0.PFDEUXM_63b5cb970d_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_eea_global-stable/fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.0.9.0.PFDEUXM_63b5cb970d_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.0.9.0.PFDEUXM_63b5cb970d_9.0.zip
   region: Europe
-  size: 899.7 MB
+  size: 900.3 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PFDEUXM
+    miui: V11.0.9.0.PFDEUXM
 - branch: stable
   date: '2019-11-27'
   downloads:
@@ -988,17 +999,6 @@
   versions:
     android: '9.0'
     miui: V10.3.6.0.PDCCNXM
-- branch: weekly
-  date: '2019-09-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.9.3_3ad06bc283_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.9.3_3ad06bc283_9.0.zip/download
-  filename: fw-vendor_wayne_miui_MI6X_9.9.3_3ad06bc283_9.0.zip
-  region: China
-  size: 471.1 MB
-  versions:
-    android: '9.0'
-    miui: 9.9.3
 - branch: stable
   date: '2019-11-15'
   downloads:
