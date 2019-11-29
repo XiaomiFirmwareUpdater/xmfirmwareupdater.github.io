@@ -261,6 +261,7 @@ permalink: $link
             <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>'''
     archive_rows = '''<th data-ref="device">Device</th>
+                <th data-ref="codename">Codename</th>
                 <th data-ref="branch">Branch</th>
                 <th data-ref="type">Type</th>
                 <th data-ref="region">Region</th>

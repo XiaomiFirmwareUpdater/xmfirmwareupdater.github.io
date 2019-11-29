@@ -21,6 +21,7 @@ permalink: /archive/miui/davinci/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
+                <th data-ref="codename">Codename</th>
                 <th data-ref="branch">Branch</th>
                 <th data-ref="type">Type</th>
                 <th data-ref="region">Region</th>

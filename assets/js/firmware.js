@@ -608,7 +608,7 @@ function loadMiuiArchive(device) {
                 },
                 "pageLength": 100,
                 "pagingType": "full_numbers",
-                "order": [[5, "desc"]],
+                "order": [[6, "desc"]],
                 columns: [
                     {
                         data: 'name',
