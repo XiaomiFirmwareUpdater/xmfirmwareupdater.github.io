@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2019-11-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-29.11.2019/fw_cactus_miui_HM6A_9.11.28_f481f1675b_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/cactus/fw_cactus_miui_HM6A_9.11.28_f481f1675b_9.0.zip
+  filename: fw_cactus_miui_HM6A_9.11.28_f481f1675b_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.11.28
+- branch: weekly
   date: '2019-11-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-22.11.2019/fw_cactus_miui_HM6A_9.11.21_326e85e425_9.0.zip

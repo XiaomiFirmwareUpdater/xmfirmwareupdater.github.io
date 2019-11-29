@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 29 Nov 2019 01:10:07 +0900</pubDate>
+  <pubDate>Fri, 29 Nov 2019 18:22:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 2 (chiron) - 9.11.28</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
+    <pubDate>Fri, 29 Nov 2019 18:22:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 (cereus) - 9.11.28</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Fri, 29 Nov 2019 18:20:41 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - 9.11.28</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Fri, 29 Nov 2019 18:19:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6A (cactus) - 9.11.28</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
+    <pubDate>Fri, 29 Nov 2019 18:15:10 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.3.4.0.PFCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 8 Pro (begonia) - V11.0.2.0.PGGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
     <pubDate>Tue, 26 Nov 2019 19:07:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.1.0.PCPMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Tue, 26 Nov 2019 13:07:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.4.0.PFDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Mon, 25 Nov 2019 19:21:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.3.0.PCPINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Mon, 25 Nov 2019 19:15:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.3.0.PCPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Mon, 25 Nov 2019 19:14:04 +0900</pubDate>
   </item>
     </channel>
 </rss>
