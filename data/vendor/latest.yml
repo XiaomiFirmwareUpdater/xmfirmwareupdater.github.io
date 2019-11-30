@@ -1022,17 +1022,6 @@
     android: '9.0'
     miui: V10.3.5.0.PEICNXM
 - branch: weekly
-  date: '2019-06-29'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-weekly/fw-vendor_whyred_global_9.6.27.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-weekly/fw-vendor_whyred_global_9.6.27.zip/download
-  filename: fw-vendor_whyred_global_9.6.27.zip
-  region: Global
-  size: 346.6 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
-- branch: weekly
   date: '2019-09-06'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred-weekly/fw-vendor_whyred_miui_HMNote5_9.9.3_d6316ce86a_9.0.zip
@@ -1054,6 +1043,17 @@
   versions:
     android: '9.0'
     miui: V11.0.1.0.PEIRUXM
+- branch: stable
+  date: '2019-11-29'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_global-stable/fw-vendor_willow_miui_WILLOWGlobal_V10.3.1.0.PCXMIXM_9dc29fc488_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_global-stable/fw-vendor_willow_miui_WILLOWGlobal_V10.3.1.0.PCXMIXM_9dc29fc488_9.0.zip/download
+  filename: fw-vendor_willow_miui_WILLOWGlobal_V10.3.1.0.PCXMIXM_9dc29fc488_9.0.zip
+  region: Global
+  size: 385.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PCXMIXM
 - branch: stable
   date: '2019-11-21'
   downloads:
