@@ -19,15 +19,15 @@
     android: '9.0'
     miui: V11.0.3.0.PCPCNXM
 - branch: stable
-  date: '2019-11-05'
+  date: '2019-12-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-05.11.2019/fw_olivelite_miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V10.3.3.0.PCPEUXM_af97ad4db3_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-02.12.2019/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip
+  filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V10.3.3.0.PCPEUXM
+    miui: V11.0.1.0.PCPEUXM
 - branch: stable
   date: '2019-11-25'
   downloads:
