@@ -494,16 +494,16 @@
     android: '9.0'
     miui: V11.0.2.0.PEDCNXM
 - branch: stable
-  date: '2019-10-29'
+  date: '2019-12-02'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_ru_global-stable/fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.5.0.PEDRUXM_db2e65379c_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_ru_global-stable/fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.5.0.PEDRUXM_db2e65379c_9.0.zip/download
-  filename: fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.5.0.PEDRUXM_db2e65379c_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_ru_global-stable/fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.6.0.PEDRUXM_3bd2da6a1c_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_ru_global-stable/fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.6.0.PEDRUXM_3bd2da6a1c_9.0.zip/download
+  filename: fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.6.0.PEDRUXM_3bd2da6a1c_9.0.zip
   region: Russia
   size: 419.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PEDRUXM
+    miui: V11.0.6.0.PEDRUXM
 - branch: stable
   date: '2019-11-19'
   downloads:
@@ -570,6 +570,17 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PCPCNXM
+- branch: stable
+  date: '2019-12-02'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_eea_global-stable/fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_eea_global-stable/fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip
+  region: Europe
+  size: 261.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PCPEUXM
 - branch: stable
   date: '2019-11-25'
   downloads:
@@ -658,17 +669,6 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PEEMIXM
-- branch: stable
-  date: '2019-11-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip/download
-  filename: fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
-  region: China
-  size: 656.2 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.4.0.PEECNXM
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -901,16 +901,16 @@
     android: '9.0'
     miui: V11.0.3.0.PEBCNXM
 - branch: stable
-  date: '2019-11-27'
+  date: '2019-12-02'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_global-stable/fw-vendor_tucana_miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_global-stable/fw-vendor_tucana_miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_global-stable/fw-vendor_tucana_miui_TUCANAGlobal_V11.0.5.0.PFDMIXM_40dcdd8711_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_global-stable/fw-vendor_tucana_miui_TUCANAGlobal_V11.0.5.0.PFDMIXM_40dcdd8711_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANAGlobal_V11.0.5.0.PFDMIXM_40dcdd8711_9.0.zip
   region: Global
-  size: 900.6 MB
+  size: 903.4 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PFDMIXM
+    miui: V11.0.5.0.PFDMIXM
 - branch: stable
   date: '2019-11-25'
   downloads:
