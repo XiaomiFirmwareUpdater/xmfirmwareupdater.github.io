@@ -10,16 +10,16 @@
     android: '9.0'
     miui: V11.0.4.0.PCMMIXM
 - branch: stable
-  date: '2019-11-04'
+  date: '2019-12-04'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine-stable/fw-vendor_pine_miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip/download
-  filename: fw-vendor_pine_miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine-stable/fw-vendor_pine_miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip/download
+  filename: fw-vendor_pine_miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip
   region: China
-  size: 241.0 MB
+  size: 241.1 MB
   versions:
     android: '9.0'
-    miui: V11.0.1.0.PCMCNXM
+    miui: V11.0.2.0.PCMCNXM
 - branch: stable
   date: '2019-10-31'
   downloads:
