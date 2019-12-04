@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 04 Dec 2019 01:08:01 +0900</pubDate>
+  <pubDate>Wed, 04 Dec 2019 13:09:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.5.0.PFDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Wed, 04 Dec 2019 13:09:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.3.3.0.PFCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Wed, 04 Dec 2019 13:07:42 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8 (olive) - V11.0.3.0.PCNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
@@ -95,16 +105,6 @@
     <title>Mi MIX 3 (perseus) - 9.11.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
     <pubDate>Fri, 29 Nov 2019 19:47:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 9.11.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 29 Nov 2019 19:46:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.9.0.PFDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 29 Nov 2019 19:09:54 +0900</pubDate>
   </item>
     </channel>
 </rss>
