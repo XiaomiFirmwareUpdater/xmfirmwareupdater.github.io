@@ -32,16 +32,16 @@
     android: '9.0'
     miui: V10.3.21.0.PEMEUXM
 - branch: stable
-  date: '2019-11-18'
+  date: '2019-12-05'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.1.0.PGGMIXM_f057ff19fc_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.1.0.PGGMIXM_f057ff19fc_9.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.1.0.PGGMIXM_f057ff19fc_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.2.0.PGGMIXM_35889b30ce_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.2.0.PGGMIXM_35889b30ce_9.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.2.0.PGGMIXM_35889b30ce_9.0.zip
   region: Global
-  size: 489.9 MB
+  size: 490.5 MB
   versions:
     android: '9.0'
-    miui: V11.0.1.0.PGGMIXM
+    miui: V11.0.2.0.PGGMIXM
 - branch: stable
   date: '2019-11-26'
   downloads:
@@ -472,16 +472,16 @@
     android: '9.0'
     miui: V11.0.4.0.PFGRUXM
 - branch: stable
-  date: '2019-10-17'
+  date: '2019-12-05'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen-stable/fw-vendor_nitrogen_miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen-stable/fw-vendor_nitrogen_miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip/download
-  filename: fw-vendor_nitrogen_miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen-stable/fw-vendor_nitrogen_miui_MIMAX3_V11.0.3.0.PEDCNXM_457d3fe0a7_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen-stable/fw-vendor_nitrogen_miui_MIMAX3_V11.0.3.0.PEDCNXM_457d3fe0a7_9.0.zip/download
+  filename: fw-vendor_nitrogen_miui_MIMAX3_V11.0.3.0.PEDCNXM_457d3fe0a7_9.0.zip
   region: China
-  size: 453.1 MB
+  size: 451.8 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PEDCNXM
+    miui: V11.0.3.0.PEDCNXM
 - branch: stable
   date: '2019-12-02'
   downloads:
@@ -747,16 +747,16 @@
     android: '9.0'
     miui: V11.0.4.0.PDGMIXM
 - branch: stable
-  date: '2019-11-06'
+  date: '2019-12-05'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
   region: Global
-  size: 702.7 MB
+  size: 697.0 MB
   versions:
     android: '9.0'
-    miui: V11.3.3.0.PFCMIXM
+    miui: V11.3.4.0.PFCMIXM
 - branch: stable
   date: '2019-12-04'
   downloads:

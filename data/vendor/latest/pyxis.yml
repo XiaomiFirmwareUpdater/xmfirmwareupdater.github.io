@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2019-11-06'
+  date: '2019-12-05'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
   region: Global
-  size: 702.7 MB
+  size: 697.0 MB
   versions:
     android: '9.0'
-    miui: V11.3.3.0.PFCMIXM
+    miui: V11.3.4.0.PFCMIXM
 - branch: stable
   date: '2019-12-04'
   downloads:
