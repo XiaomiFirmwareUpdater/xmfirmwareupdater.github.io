@@ -49,15 +49,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2019-11-18'
+  date: '2019-12-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-18.11.2019/fw_begonia_miui_BEGONIAGlobal_V11.0.1.0.PGGMIXM_f057ff19fc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIAGlobal_V11.0.1.0.PGGMIXM_f057ff19fc_9.0.zip
-  filename: fw_begonia_miui_BEGONIAGlobal_V11.0.1.0.PGGMIXM_f057ff19fc_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-05.12.2019/fw_begonia_miui_BEGONIAGlobal_V11.0.2.0.PGGMIXM_35889b30ce_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIAGlobal_V11.0.2.0.PGGMIXM_35889b30ce_9.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V11.0.2.0.PGGMIXM_35889b30ce_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.1.0.PGGMIXM
+    miui: V11.0.2.0.PGGMIXM
 - branch: stable
   date: '2019-11-26'
   downloads:
@@ -1149,15 +1149,15 @@
     android: '9.0'
     miui: V11.0.6.0.PEDMIXM
 - branch: stable
-  date: '2019-10-17'
+  date: '2019-12-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-17.10.2019/fw_nitrogen_miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/nitrogen/fw_nitrogen_miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip
-  filename: fw_nitrogen_miui_MIMAX3_V11.0.2.0.PEDCNXM_a3394bcd85_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-05.12.2019/fw_nitrogen_miui_MIMAX3_V11.0.3.0.PEDCNXM_457d3fe0a7_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/nitrogen/fw_nitrogen_miui_MIMAX3_V11.0.3.0.PEDCNXM_457d3fe0a7_9.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_V11.0.3.0.PEDCNXM_457d3fe0a7_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PEDCNXM
+    miui: V11.0.3.0.PEDCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1519,15 +1519,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2019-11-06'
+  date: '2019-12-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-06.11.2019/fw_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
-  filename: fw_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-05.12.2019/fw_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
+  filename: fw_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.3.3.0.PFCMIXM
+    miui: V11.3.4.0.PFCMIXM
 - branch: stable
   date: '2019-12-04'
   downloads:

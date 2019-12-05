@@ -32,6 +32,17 @@
     android: '9.0'
     miui: V11.0.2.0.PDCCNXM
 - branch: stable
+  date: '2019-12-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip/download
+  filename: fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip
+  region: China
+  size: 391.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PDCCNXM
+- branch: stable
   date: '2019-05-28'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_V10.3.3.0.PDCCNXM.zip

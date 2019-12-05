@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2019-11-06'
+  date: '2019-12-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-06.11.2019/fw_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
-  filename: fw_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-05.12.2019/fw_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
+  filename: fw_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.3.3.0.PFCMIXM
+    miui: V11.3.4.0.PFCMIXM
 - branch: stable
   date: '2019-12-04'
   downloads:
