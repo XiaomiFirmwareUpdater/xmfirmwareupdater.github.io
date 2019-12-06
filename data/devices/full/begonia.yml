@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2019-12-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-06.12.2019/fw_begonia_miui_BEGONIA_9.12.5_dda9c5a8f7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/begonia/fw_begonia_miui_BEGONIA_9.12.5_dda9c5a8f7_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_9.12.5_dda9c5a8f7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 9.12.5
 - branch: stable
   date: '2019-12-05'
   downloads:
