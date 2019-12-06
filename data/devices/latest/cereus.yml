@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2019-10-09'
+  date: '2019-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-09.10.2019/fw_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/cereus/fw_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
-  filename: fw_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-06.12.2019/fw_cereus_miui_HM6Global_V11.0.1.0.PCGMIXM_14119a2019_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cereus/fw_cereus_miui_HM6Global_V11.0.1.0.PCGMIXM_14119a2019_9.0.zip
+  filename: fw_cereus_miui_HM6Global_V11.0.1.0.PCGMIXM_14119a2019_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V10.4.4.0.PCGMIXM
+    miui: V11.0.1.0.PCGMIXM
 - branch: stable
   date: '2019-11-13'
   downloads:
