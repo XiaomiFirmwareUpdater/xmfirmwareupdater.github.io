@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2019-12-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-06.12.2019/fw_sagit_miui_MI6_9.12.5_3f6308c64f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/sagit/fw_sagit_miui_MI6_9.12.5_3f6308c64f_9.0.zip
+  filename: fw_sagit_miui_MI6_9.12.5_3f6308c64f_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.12.5
+- branch: weekly
   date: '2019-11-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-29.11.2019/fw_sagit_miui_MI6_9.11.28_608547ac74_9.0.zip

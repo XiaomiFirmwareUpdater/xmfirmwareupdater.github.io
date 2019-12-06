@@ -1369,15 +1369,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-11-29'
+  date: '2019-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-29.11.2019/fw_perseus_miui_MIMIX3_9.11.28_2b841085cc_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/perseus/fw_perseus_miui_MIMIX3_9.11.28_2b841085cc_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_9.11.28_2b841085cc_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-06.12.2019/fw_perseus_miui_MIMIX3_9.12.5_7b29768458_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/perseus/fw_perseus_miui_MIMIX3_9.12.5_7b29768458_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_9.12.5_7b29768458_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.11.28
+    miui: 9.12.5
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -1449,15 +1449,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-11-15'
+  date: '2019-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-15.11.2019/fw_platina_miui_MI8Lite_9.11.14_00a1ef5c5e_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.14/platina/fw_platina_miui_MI8Lite_9.11.14_00a1ef5c5e_9.0.zip
-  filename: fw_platina_miui_MI8Lite_9.11.14_00a1ef5c5e_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-06.12.2019/fw_platina_miui_MI8Lite_9.12.5_06dc5aca02_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/platina/fw_platina_miui_MI8Lite_9.12.5_06dc5aca02_10.0.zip
+  filename: fw_platina_miui_MI8Lite_9.12.5_06dc5aca02_10.0.zip
   region: China
   versions:
-    android: '9.0'
-    miui: 9.11.14
+    android: '10.0'
+    miui: 9.12.5
 - branch: stable
   date: '2019-11-05'
   downloads:
@@ -1489,15 +1489,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-11-29'
+  date: '2019-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-29.11.2019/fw_polaris_miui_MIMIX2S_9.11.28_71bdffe72d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/polaris/fw_polaris_miui_MIMIX2S_9.11.28_71bdffe72d_10.0.zip
-  filename: fw_polaris_miui_MIMIX2S_9.11.28_71bdffe72d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-06.12.2019/fw_polaris_miui_MIMIX2S_9.12.5_a0f048efa3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/polaris/fw_polaris_miui_MIMIX2S_9.12.5_a0f048efa3_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_9.12.5_a0f048efa3_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.11.28
+    miui: 9.12.5
 - branch: stable
   date: '2019-05-21'
   downloads:
@@ -1579,15 +1579,15 @@
     android: '10.0'
     miui: V11.0.4.0.QFKCNXM
 - branch: weekly
-  date: '2019-11-29'
+  date: '2019-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-29.11.2019/fw_raphael_miui_RAPHAEL_9.11.28_5d759ed7bf_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/raphael/fw_raphael_miui_RAPHAEL_9.11.28_5d759ed7bf_10.0.zip
-  filename: fw_raphael_miui_RAPHAEL_9.11.28_5d759ed7bf_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-06.12.2019/fw_raphael_miui_RAPHAEL_9.12.5_befb7ee69e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/raphael/fw_raphael_miui_RAPHAEL_9.12.5_befb7ee69e_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_9.12.5_befb7ee69e_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.11.28
+    miui: 9.12.5
 - branch: stable
   date: '2019-11-05'
   downloads:
@@ -1759,15 +1759,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-11-29'
+  date: '2019-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-29.11.2019/fw_sagit_miui_MI6_9.11.28_608547ac74_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/sagit/fw_sagit_miui_MI6_9.11.28_608547ac74_9.0.zip
-  filename: fw_sagit_miui_MI6_9.11.28_608547ac74_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-06.12.2019/fw_sagit_miui_MI6_9.12.5_3f6308c64f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/sagit/fw_sagit_miui_MI6_9.12.5_3f6308c64f_9.0.zip
+  filename: fw_sagit_miui_MI6_9.12.5_3f6308c64f_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.11.28
+    miui: 9.12.5
 - branch: stable
   date: '2019-07-29'
   downloads:
