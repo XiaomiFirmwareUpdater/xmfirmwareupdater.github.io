@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 06 Dec 2019 13:10:28 +0900</pubDate>
+  <pubDate>Fri, 06 Dec 2019 16:18:39 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 (dipper) - 9.12.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Fri, 06 Dec 2019 16:18:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - 9.12.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 06 Dec 2019 16:16:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2 (chiron) - 9.12.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
+    <pubDate>Fri, 06 Dec 2019 16:15:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 (cereus) - 9.12.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Fri, 06 Dec 2019 16:13:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - 9.12.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Fri, 06 Dec 2019 16:12:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6A (cactus) - 9.12.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
+    <pubDate>Fri, 06 Dec 2019 16:09:16 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Meitu Edition (vela) - V11.3.2.0.PFECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
@@ -75,36 +105,6 @@
     <title>Redmi 8 (olive) - V11.0.3.0.PCNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
     <pubDate>Wed, 04 Dec 2019 01:08:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.5.0.PFDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Mon, 02 Dec 2019 19:09:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.1.0.PCPEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Mon, 02 Dec 2019 19:07:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Play (lotus) - V11.0.3.0.OFICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
-    <pubDate>Mon, 02 Dec 2019 13:07:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8T (willow) - V10.3.1.0.PCXMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
-    <pubDate>Sat, 30 Nov 2019 02:43:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5/Note 5 Pro (whyred) - 9.11.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Fri, 29 Nov 2019 20:13:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 9.11.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 29 Nov 2019 20:12:31 +0900</pubDate>
   </item>
     </channel>
 </rss>

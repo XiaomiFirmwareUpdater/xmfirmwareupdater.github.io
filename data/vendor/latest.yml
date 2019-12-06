@@ -164,16 +164,16 @@
     android: '10.0'
     miui: V11.0.3.0.QFARUXM
 - branch: stable
-  date: '2019-10-09'
+  date: '2019-12-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip/download
-  filename: fw-vendor_cereus_miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V11.0.1.0.PCGMIXM_14119a2019_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V11.0.1.0.PCGMIXM_14119a2019_9.0.zip/download
+  filename: fw-vendor_cereus_miui_HM6Global_V11.0.1.0.PCGMIXM_14119a2019_9.0.zip
   region: Global
-  size: 182.1 MB
+  size: 197.3 MB
   versions:
     android: '9.0'
-    miui: V10.4.4.0.PCGMIXM
+    miui: V11.0.1.0.PCGMIXM
 - branch: stable
   date: '2019-11-13'
   downloads:
@@ -494,6 +494,17 @@
     android: '9.0'
     miui: V11.0.6.0.PEDRUXM
 - branch: stable
+  date: '2019-12-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip
+  region: Global
+  size: 362.3 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PCNMIXM
+- branch: stable
   date: '2019-12-03'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.3.0.PCNCNXM_5070d510b2_9.0.zip
@@ -713,17 +724,6 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PCMRUXM
-- branch: stable
-  date: '2019-11-07'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V10.3.5.0.PDTMIXM_afba6c987e_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V10.3.5.0.PDTMIXM_afba6c987e_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8LiteGlobal_V10.3.5.0.PDTMIXM_afba6c987e_9.0.zip
-  region: Global
-  size: 405.6 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.5.0.PDTMIXM
 - branch: stable
   date: '2019-10-29'
   downloads:
@@ -956,16 +956,16 @@
     android: '9.0'
     miui: V11.0.3.0.PEHCNXM
 - branch: stable
-  date: '2019-10-28'
+  date: '2019-12-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vela-stable/fw-vendor_vela_miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vela-stable/fw-vendor_vela_miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip/download
-  filename: fw-vendor_vela_miui_VELA_V11.3.1.0.PFECNXM_51cd61f80d_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vela-stable/fw-vendor_vela_miui_VELA_V11.3.2.0.PFECNXM_da8cff8fc2_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vela-stable/fw-vendor_vela_miui_VELA_V11.3.2.0.PFECNXM_da8cff8fc2_9.0.zip/download
+  filename: fw-vendor_vela_miui_VELA_V11.3.2.0.PFECNXM_da8cff8fc2_9.0.zip
   region: China
-  size: 608.0 MB
+  size: 607.0 MB
   versions:
     android: '9.0'
-    miui: V11.3.1.0.PFECNXM
+    miui: V11.3.2.0.PFECNXM
 - branch: weekly
   date: '2019-09-06'
   downloads:

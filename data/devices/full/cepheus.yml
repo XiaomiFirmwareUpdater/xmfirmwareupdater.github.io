@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2019-12-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-06.12.2019/fw_cepheus_miui_CEPHEUS_9.12.5_1b5aaad765_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/cepheus/fw_cepheus_miui_CEPHEUS_9.12.5_1b5aaad765_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.12.5_1b5aaad765_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 9.12.5
+- branch: weekly
   date: '2019-11-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-29.11.2019/fw_cepheus_miui_CEPHEUS_9.11.28_e21db5f7b8_10.0.zip
