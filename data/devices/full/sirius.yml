@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2019-12-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-06.12.2019/fw_sirius_miui_MI8SE_9.12.5_6a597d28d0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/sirius/fw_sirius_miui_MI8SE_9.12.5_6a597d28d0_10.0.zip
+  filename: fw_sirius_miui_MI8SE_9.12.5_6a597d28d0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 9.12.5
+- branch: weekly
   date: '2019-11-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-22.11.2019/fw_sirius_miui_MI8SE_9.11.21_f33d769c44_10.0.zip
