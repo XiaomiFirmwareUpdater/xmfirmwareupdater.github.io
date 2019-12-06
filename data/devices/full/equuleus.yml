@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2019-12-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-06.12.2019/fw_equuleus_miui_MI8UD_9.12.5_ab67c07583_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/equuleus/fw_equuleus_miui_MI8UD_9.12.5_ab67c07583_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_9.12.5_ab67c07583_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 9.12.5
+- branch: weekly
   date: '2019-11-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-29.11.2019/fw_equuleus_miui_MI8UD_9.11.28_26bca97082_10.0.zip
