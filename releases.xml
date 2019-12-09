@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 07 Dec 2019 04:11:09 +0900</pubDate>
+  <pubDate>Tue, 10 Dec 2019 01:22:35 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8A (olivelite) - V11.0.4.0.PCPCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Tue, 10 Dec 2019 01:22:35 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Meitu Edition (vela) - 9.12.5</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
@@ -100,11 +105,6 @@
     <title>Mi MIX 3 (perseus) - 9.12.5</title>
     <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
     <pubDate>Fri, 06 Dec 2019 16:36:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 9.12.5</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 06 Dec 2019 16:32:47 +0900</pubDate>
   </item>
     </channel>
 </rss>
