@@ -10,16 +10,16 @@
     android: '9.0'
     miui: V11.0.1.0.PCNMIXM
 - branch: stable
-  date: '2019-12-03'
+  date: '2019-12-12'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.3.0.PCNCNXM_5070d510b2_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.3.0.PCNCNXM_5070d510b2_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVE_V11.0.3.0.PCNCNXM_5070d510b2_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.4.0.PCNCNXM_95d27448ca_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.4.0.PCNCNXM_95d27448ca_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVE_V11.0.4.0.PCNCNXM_95d27448ca_9.0.zip
   region: China
-  size: 347.7 MB
+  size: 349.7 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PCNCNXM
+    miui: V11.0.4.0.PCNCNXM
 - branch: stable
   date: '2019-11-25'
   downloads:
