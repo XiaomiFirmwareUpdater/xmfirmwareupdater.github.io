@@ -1969,15 +1969,15 @@
     android: '9.0'
     miui: V11.0.5.0.PFDCNXM
 - branch: weekly
-  date: '2019-12-06'
+  date: '2019-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-06.12.2019/fw_tucana_miui_TUCANA_9.12.5_2b70682ce5_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/tucana/fw_tucana_miui_TUCANA_9.12.5_2b70682ce5_9.0.zip
-  filename: fw_tucana_miui_TUCANA_9.12.5_2b70682ce5_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-13.12.2019/fw_tucana_miui_TUCANA_9.12.12_28f0aeefca_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/tucana/fw_tucana_miui_TUCANA_9.12.12_28f0aeefca_9.0.zip
+  filename: fw_tucana_miui_TUCANA_9.12.12_28f0aeefca_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.5
+    miui: 9.12.12
 - branch: stable
   date: '2019-12-04'
   downloads:
@@ -2099,15 +2099,15 @@
     android: '9.0'
     miui: V11.0.3.0.PEHCNXM
 - branch: weekly
-  date: '2019-12-06'
+  date: '2019-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-06.12.2019/fw_ursa_miui_MI8Explorer_9.12.5_0e6c3faec8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/ursa/fw_ursa_miui_MI8Explorer_9.12.5_0e6c3faec8_10.0.zip
-  filename: fw_ursa_miui_MI8Explorer_9.12.5_0e6c3faec8_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-13.12.2019/fw_ursa_miui_MI8Explorer_9.12.12_6ded2fff1f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/ursa/fw_ursa_miui_MI8Explorer_9.12.12_6ded2fff1f_10.0.zip
+  filename: fw_ursa_miui_MI8Explorer_9.12.12_6ded2fff1f_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.5
+    miui: 9.12.12
 - branch: stable
   date: '2019-12-06'
   downloads:
@@ -2179,15 +2179,15 @@
     android: '9.0'
     miui: V11.0.4.0.PFHCNXM
 - branch: weekly
-  date: '2019-12-06'
+  date: '2019-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-06.12.2019/fw_violet_miui_VIOLET_9.12.5_d8493cb7eb_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/violet/fw_violet_miui_VIOLET_9.12.5_d8493cb7eb_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.12.5_d8493cb7eb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-13.12.2019/fw_violet_miui_VIOLET_9.12.12_7b3b79a7e1_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/violet/fw_violet_miui_VIOLET_9.12.12_7b3b79a7e1_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.12.12_7b3b79a7e1_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.5
+    miui: 9.12.12
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -2209,15 +2209,15 @@
     android: '9.0'
     miui: V11.0.3.0.PDCCNXM
 - branch: weekly
-  date: '2019-12-06'
+  date: '2019-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-06.12.2019/fw_wayne_miui_MI6X_9.12.5_a796e932d6_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/wayne/fw_wayne_miui_MI6X_9.12.5_a796e932d6_9.0.zip
-  filename: fw_wayne_miui_MI6X_9.12.5_a796e932d6_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-13.12.2019/fw_wayne_miui_MI6X_9.12.12_1b11aea690_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/wayne/fw_wayne_miui_MI6X_9.12.12_1b11aea690_9.0.zip
+  filename: fw_wayne_miui_MI6X_9.12.12_1b11aea690_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.5
+    miui: 9.12.12
 - branch: stable
   date: '2019-11-15'
   downloads:
@@ -2249,15 +2249,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-06'
+  date: '2019-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-06.12.2019/fw_whyred_miui_HMNote5_9.12.5_6e33453956_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/whyred/fw_whyred_miui_HMNote5_9.12.5_6e33453956_9.0.zip
-  filename: fw_whyred_miui_HMNote5_9.12.5_6e33453956_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-13.12.2019/fw_whyred_miui_HMNote5_9.12.12_a4e4a30bb0_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/whyred/fw_whyred_miui_HMNote5_9.12.12_a4e4a30bb0_9.0.zip
+  filename: fw_whyred_miui_HMNote5_9.12.12_a4e4a30bb0_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.5
+    miui: 9.12.12
 - branch: stable
   date: '2019-11-29'
   downloads:
