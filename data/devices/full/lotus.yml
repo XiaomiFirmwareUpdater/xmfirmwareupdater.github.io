@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2019-12-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/weekly-13.12.2019/fw_lotus_miui_MIPLAY_9.12.12_94a7ceb510_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/lotus/fw_lotus_miui_MIPLAY_9.12.12_94a7ceb510_8.1.zip
+  filename: fw_lotus_miui_MIPLAY_9.12.12_94a7ceb510_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 9.12.12
 - branch: stable
   date: '2019-12-02'
   downloads:
