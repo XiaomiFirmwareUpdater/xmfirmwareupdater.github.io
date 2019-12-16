@@ -1,4 +1,15 @@
 - branch: stable
+  date: '2019-12-16'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.2.0.PCNIDXM_b58b338434_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.2.0.PCNIDXM_b58b338434_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.2.0.PCNIDXM_b58b338434_9.0.zip
+  region: Global
+  size: 362.2 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PCNIDXM
+- branch: stable
   date: '2019-12-06'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip

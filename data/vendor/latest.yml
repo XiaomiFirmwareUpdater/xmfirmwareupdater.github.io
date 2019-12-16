@@ -208,17 +208,6 @@
     android: '9.0'
     miui: V11.0.3.0.PDEMIXM
 - branch: stable
-  date: '2019-07-15'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-stable/fw-vendor_clover_V10.3.2.0.ODJCNXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-stable/fw-vendor_clover_V10.3.2.0.ODJCNXM.zip/download
-  filename: fw-vendor_clover_V10.3.2.0.ODJCNXM.zip
-  region: China
-  size: 294.4 MB
-  versions:
-    android: '8.1'
-    miui: V10.3.2.0.ODJCNXM
-- branch: stable
   date: '2019-11-15'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-stable/fw-vendor_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
@@ -494,16 +483,16 @@
     android: '9.0'
     miui: V11.0.6.0.PEDRUXM
 - branch: stable
-  date: '2019-12-06'
+  date: '2019-12-16'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.2.0.PCNIDXM_b58b338434_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.2.0.PCNIDXM_b58b338434_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.2.0.PCNIDXM_b58b338434_9.0.zip
   region: Global
-  size: 362.3 MB
+  size: 362.2 MB
   versions:
     android: '9.0'
-    miui: V11.0.1.0.PCNMIXM
+    miui: V11.0.2.0.PCNIDXM
 - branch: stable
   date: '2019-12-12'
   downloads:
@@ -549,16 +538,16 @@
     android: '9.0'
     miui: V11.0.1.0.PCNRUXM
 - branch: stable
-  date: '2019-12-12'
+  date: '2019-12-16'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_global-stable/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.2.0.PCPMIXM_c370c7e26e_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_global-stable/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.2.0.PCPMIXM_c370c7e26e_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.2.0.PCPMIXM_c370c7e26e_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_id_global-stable/fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.1.0.PCPIDXM_12a42e9ef4_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_id_global-stable/fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.1.0.PCPIDXM_12a42e9ef4_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.1.0.PCPIDXM_12a42e9ef4_9.0.zip
   region: Global
-  size: 262.3 MB
+  size: 261.1 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PCPMIXM
+    miui: V11.0.1.0.PCPIDXM
 - branch: stable
   date: '2019-12-09'
   downloads:
@@ -988,17 +977,6 @@
   versions:
     android: '9.0'
     miui: 9.9.3
-- branch: stable
-  date: '2019-12-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip/download
-  filename: fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip
-  region: China
-  size: 391.6 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PDCCNXM
 - branch: stable
   date: '2019-11-15'
   downloads:
