@@ -32,27 +32,27 @@
     android: '9.0'
     miui: V10.3.21.0.PEMEUXM
 - branch: stable
-  date: '2019-12-05'
+  date: '2019-12-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.2.0.PGGMIXM_35889b30ce_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.2.0.PGGMIXM_35889b30ce_9.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.2.0.PGGMIXM_35889b30ce_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_id_global-stable/fw-vendor_begonia_miui_BEGONIAIDGlobal_V11.0.2.0.PGGIDXM_56ff332bed_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_id_global-stable/fw-vendor_begonia_miui_BEGONIAIDGlobal_V11.0.2.0.PGGIDXM_56ff332bed_9.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIAIDGlobal_V11.0.2.0.PGGIDXM_56ff332bed_9.0.zip
   region: Global
-  size: 490.5 MB
+  size: 488.9 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PGGMIXM
+    miui: V11.0.2.0.PGGIDXM
 - branch: stable
-  date: '2019-11-26'
+  date: '2019-12-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V11.0.3.0.PGGCNXM_aa85e9faaf_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V11.0.3.0.PGGCNXM_aa85e9faaf_9.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIA_V11.0.3.0.PGGCNXM_aa85e9faaf_9.0.zip
   region: China
-  size: 403.5 MB
+  size: 406.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PGGCNXM
+    miui: V11.0.3.0.PGGCNXM
 - branch: stable
   date: '2019-12-04'
   downloads:
