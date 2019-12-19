@@ -274,16 +274,16 @@
     android: '9.0'
     miui: V11.0.6.0.PEAMIXM
 - branch: stable
-  date: '2019-11-05'
+  date: '2019-12-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip/download
-  filename: fw-vendor_dipper_miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.5.0.QEACNXM_55a4a9dc84_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.5.0.QEACNXM_55a4a9dc84_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_V11.0.5.0.QEACNXM_55a4a9dc84_10.0.zip
   region: China
-  size: 627.5 MB
+  size: 582.2 MB
   versions:
-    android: '9.0'
-    miui: V11.0.4.0.PEACNXM
+    android: '10.0'
+    miui: V11.0.5.0.QEACNXM
 - branch: stable
   date: '2019-11-02'
   downloads:
@@ -835,16 +835,16 @@
     android: '9.0'
     miui: V10.3.3.0.PFKRUXM
 - branch: stable
-  date: '2019-11-12'
+  date: '2019-12-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0.zip/download
-  filename: fw-vendor_raphaelin_miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V11.0.3.0.QFKINXM_845b36b440_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V11.0.3.0.QFKINXM_845b36b440_10.0.zip/download
+  filename: fw-vendor_raphaelin_miui_RAPHAELININGlobal_V11.0.3.0.QFKINXM_845b36b440_10.0.zip
   region: India
-  size: 711.3 MB
+  size: 704.1 MB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QFKINXM
+    miui: V11.0.3.0.QFKINXM
 - branch: stable
   date: '2019-11-01'
   downloads:

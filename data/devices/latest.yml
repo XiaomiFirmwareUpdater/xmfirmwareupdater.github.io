@@ -59,15 +59,15 @@
     android: '9.0'
     miui: V11.0.2.0.PGGMIXM
 - branch: stable
-  date: '2019-11-26'
+  date: '2019-12-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-26.11.2019/fw_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip
-  filename: fw_begonia_miui_BEGONIA_V11.0.2.0.PGGCNXM_7a4e709b1a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-19.12.2019/fw_begonia_miui_BEGONIA_V11.0.3.0.PGGCNXM_aa85e9faaf_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIA_V11.0.3.0.PGGCNXM_aa85e9faaf_9.0.zip
+  filename: fw_begonia_miui_BEGONIA_V11.0.3.0.PGGCNXM_aa85e9faaf_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PGGCNXM
+    miui: V11.0.3.0.PGGCNXM
 - branch: weekly
   date: '2019-12-13'
   downloads:
