@@ -21,16 +21,16 @@
     android: '9.0'
     miui: V11.0.2.0.PCMCNXM
 - branch: stable
-  date: '2019-10-31'
+  date: '2019-12-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.6.0.PCMEUXM_bcc90ca1df_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.6.0.PCMEUXM_bcc90ca1df_9.0.zip/download
-  filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.6.0.PCMEUXM_bcc90ca1df_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.13.0.PCMEUXM_6d2ee04dd4_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.13.0.PCMEUXM_6d2ee04dd4_9.0.zip/download
+  filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.13.0.PCMEUXM_6d2ee04dd4_9.0.zip
   region: Europe
-  size: 211.2 MB
+  size: 209.8 MB
   versions:
     android: '9.0'
-    miui: V11.0.6.0.PCMEUXM
+    miui: V11.0.13.0.PCMEUXM
 - branch: stable
   date: '2019-10-25'
   downloads:
