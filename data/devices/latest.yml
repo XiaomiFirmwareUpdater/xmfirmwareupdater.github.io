@@ -69,15 +69,15 @@
     android: '9.0'
     miui: V11.0.3.0.PGGCNXM
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-13.12.2019/fw_begonia_miui_BEGONIA_9.12.12_aead676402_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/begonia/fw_begonia_miui_BEGONIA_9.12.12_aead676402_10.0.zip
-  filename: fw_begonia_miui_BEGONIA_9.12.12_aead676402_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-20.12.2019/fw_begonia_miui_BEGONIA_9.12.19_7770e4f23a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/begonia/fw_begonia_miui_BEGONIA_9.12.19_7770e4f23a_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_9.12.19_7770e4f23a_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-12-04'
   downloads:
@@ -139,15 +139,15 @@
     android: '9.0'
     miui: V11.0.4.0.PCBCNXM
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-13.12.2019/fw_cactus_miui_HM6A_9.12.12_2a58a21d35_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/cactus/fw_cactus_miui_HM6A_9.12.12_2a58a21d35_9.0.zip
-  filename: fw_cactus_miui_HM6A_9.12.12_2a58a21d35_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-20.12.2019/fw_cactus_miui_HM6A_9.12.19_b36e8fff03_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/cactus/fw_cactus_miui_HM6A_9.12.19_b36e8fff03_9.0.zip
+  filename: fw_cactus_miui_HM6A_9.12.19_b36e8fff03_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-01-14'
   downloads:
@@ -239,15 +239,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-13.12.2019/fw_cepheus_miui_CEPHEUS_9.12.12_49183381d9_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/cepheus/fw_cepheus_miui_CEPHEUS_9.12.12_49183381d9_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_9.12.12_49183381d9_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-20.12.2019/fw_cepheus_miui_CEPHEUS_9.12.19_282af25461_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/cepheus/fw_cepheus_miui_CEPHEUS_9.12.19_282af25461_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_9.12.19_282af25461_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-11-21'
   downloads:
@@ -279,15 +279,15 @@
     android: '9.0'
     miui: V11.0.3.0.PCGCNXM
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-13.12.2019/fw_cereus_miui_HM6_9.12.12_ef1d92a625_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/cereus/fw_cereus_miui_HM6_9.12.12_ef1d92a625_9.0.zip
-  filename: fw_cereus_miui_HM6_9.12.12_ef1d92a625_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-20.12.2019/fw_cereus_miui_HM6_9.12.19_8ca2fad92d_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/cereus/fw_cereus_miui_HM6_9.12.19_8ca2fad92d_9.0.zip
+  filename: fw_cereus_miui_HM6_9.12.19_8ca2fad92d_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -319,15 +319,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-13.12.2019/fw_chiron_miui_MIMIX2_9.12.12_701db34c6e_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/chiron/fw_chiron_miui_MIMIX2_9.12.12_701db34c6e_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.12.12_701db34c6e_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-20.12.2019/fw_chiron_miui_MIMIX2_9.12.19_c410af960f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/chiron/fw_chiron_miui_MIMIX2_9.12.19_c410af960f_9.0.zip
+  filename: fw_chiron_miui_MIMIX2_9.12.19_c410af960f_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-07-15'
   downloads:
@@ -359,15 +359,15 @@
     android: '9.0'
     miui: V11.0.3.0.PFXCNXM
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-13.12.2019/fw_crux_miui_CRUX_9.12.12_7e059f22dc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/crux/fw_crux_miui_CRUX_9.12.12_7e059f22dc_9.0.zip
-  filename: fw_crux_miui_CRUX_9.12.12_7e059f22dc_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-20.12.2019/fw_crux_miui_CRUX_9.12.19_369cb91c4a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/crux/fw_crux_miui_CRUX_9.12.19_369cb91c4a_9.0.zip
+  filename: fw_crux_miui_CRUX_9.12.19_369cb91c4a_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-11-04'
   downloads:
