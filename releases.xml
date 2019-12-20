@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 20 Dec 2019 23:46:58 +0900</pubDate>
+  <pubDate>Fri, 20 Dec 2019 23:57:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 2S (polaris) - 9.12.19</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Fri, 20 Dec 2019 23:57:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 9.12.19</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Fri, 20 Dec 2019 23:55:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Lite (platina) - 9.12.19</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Fri, 20 Dec 2019 23:53:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 (perseus) - 9.12.19</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Fri, 20 Dec 2019 23:51:41 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Max 3 (nitrogen) - 9.12.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
@@ -85,26 +105,6 @@
     <title>Redmi K20 Pro (raphaelin) - V11.0.3.0.QFKINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
     <pubDate>Thu, 19 Dec 2019 19:08:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 (dipper) - V11.0.5.0.QEACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
-    <pubDate>Thu, 19 Dec 2019 19:06:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 7A (pine) - V11.0.13.0.PCMEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
-    <pubDate>Thu, 19 Dec 2019 13:06:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - V11.0.2.0.QFJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Wed, 18 Dec 2019 15:51:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5/Note 5 Pro (whyred) - 9.12.12</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Fri, 13 Dec 2019 20:23:05 +0900</pubDate>
   </item>
     </channel>
 </rss>
