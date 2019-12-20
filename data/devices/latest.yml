@@ -449,15 +449,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-13.12.2019/fw_dipper_miui_MI8_9.12.12_59e33a7e9b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/dipper/fw_dipper_miui_MI8_9.12.12_59e33a7e9b_10.0.zip
-  filename: fw_dipper_miui_MI8_9.12.12_59e33a7e9b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-20.12.2019/fw_dipper_miui_MI8_9.12.19_39e5aa4932_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/dipper/fw_dipper_miui_MI8_9.12.19_39e5aa4932_10.0.zip
+  filename: fw_dipper_miui_MI8_9.12.19_39e5aa4932_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-11-01'
   downloads:
@@ -489,15 +489,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-13.12.2019/fw_equuleus_miui_MI8UD_9.12.12_23ff979926_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/equuleus/fw_equuleus_miui_MI8UD_9.12.12_23ff979926_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.12.12_23ff979926_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-20.12.2019/fw_equuleus_miui_MI8UD_9.12.19_399500e797_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/equuleus/fw_equuleus_miui_MI8UD_9.12.19_399500e797_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_9.12.19_399500e797_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-01-25'
   downloads:
@@ -599,15 +599,15 @@
     android: '9.0'
     miui: V11.0.5.0.PFBCNXM
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-13.12.2019/fw_grus_miui_GRUS_9.12.12_6fa2c80ef9_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/grus/fw_grus_miui_GRUS_9.12.12_6fa2c80ef9_10.0.zip
-  filename: fw_grus_miui_GRUS_9.12.12_6fa2c80ef9_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-20.12.2019/fw_grus_miui_GRUS_9.12.19_801b60bb4b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/grus/fw_grus_miui_GRUS_9.12.19_801b60bb4b_10.0.zip
+  filename: fw_grus_miui_GRUS_9.12.19_801b60bb4b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -769,15 +769,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-13.12.2019/fw_jason_miui_MINote3_9.12.12_abb0c31ac1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/jason/fw_jason_miui_MINote3_9.12.12_abb0c31ac1_9.0.zip
-  filename: fw_jason_miui_MINote3_9.12.12_abb0c31ac1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-20.12.2019/fw_jason_miui_MINote3_9.12.19_eff159cb45_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/jason/fw_jason_miui_MINote3_9.12.19_eff159cb45_9.0.zip
+  filename: fw_jason_miui_MINote3_9.12.19_eff159cb45_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-01-24'
   downloads:
@@ -889,15 +889,15 @@
     android: '9.0'
     miui: V11.0.2.0.PFMCNXM
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-13.12.2019/fw_laurus_miui_LAURUS_9.12.12_d1b8db24ce_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/laurus/fw_laurus_miui_LAURUS_9.12.12_d1b8db24ce_9.0.zip
-  filename: fw_laurus_miui_LAURUS_9.12.12_d1b8db24ce_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-20.12.2019/fw_laurus_miui_LAURUS_9.12.19_e2eb497c25_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/laurus/fw_laurus_miui_LAURUS_9.12.19_e2eb497c25_9.0.zip
+  filename: fw_laurus_miui_LAURUS_9.12.19_e2eb497c25_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-11-18'
   downloads:
@@ -1029,15 +1029,15 @@
     android: '8.1'
     miui: V11.0.3.0.OFICNXM
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/weekly-13.12.2019/fw_lotus_miui_MIPLAY_9.12.12_94a7ceb510_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/lotus/fw_lotus_miui_MIPLAY_9.12.12_94a7ceb510_8.1.zip
-  filename: fw_lotus_miui_MIPLAY_9.12.12_94a7ceb510_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/weekly-20.12.2019/fw_lotus_miui_MIPLAY_9.12.19_266eb7e9d9_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/lotus/fw_lotus_miui_MIPLAY_9.12.19_266eb7e9d9_8.1.zip
+  filename: fw_lotus_miui_MIPLAY_9.12.19_266eb7e9d9_8.1.zip
   region: China
   versions:
     android: '8.1'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-05-20'
   downloads:
@@ -1179,15 +1179,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-13'
+  date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-13.12.2019/fw_nitrogen_miui_MIMAX3_9.12.12_5a0fd616ef_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/nitrogen/fw_nitrogen_miui_MIMAX3_9.12.12_5a0fd616ef_10.0.zip
-  filename: fw_nitrogen_miui_MIMAX3_9.12.12_5a0fd616ef_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-20.12.2019/fw_nitrogen_miui_MIMAX3_9.12.19_e0464f1e5b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/nitrogen/fw_nitrogen_miui_MIMAX3_9.12.19_e0464f1e5b_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_9.12.19_e0464f1e5b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.12
+    miui: 9.12.19
 - branch: stable
   date: '2019-12-06'
   downloads:
