@@ -1,15 +1,30 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 20 Dec 2019 23:57:06 +0900</pubDate>
+  <pubDate>Sat, 21 Dec 2019 00:10:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Mi 6 (sagit) - 9.12.19</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
+    <pubDate>Sat, 21 Dec 2019 00:10:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 9.12.19</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Sat, 21 Dec 2019 00:09:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 9.12.19</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Sat, 21 Dec 2019 00:07:09 +0900</pubDate>
+  </item>
+    <item>
     <title>Mi MIX 2S (polaris) - 9.12.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Fri, 20 Dec 2019 23:57:06 +0900</pubDate>
+    <pubDate>Sat, 21 Dec 2019 00:04:32 +0900</pubDate>
   </item>
     <item>
     <title>Redmi K30 4G (phoenix) - 9.12.19</title>
@@ -90,21 +105,6 @@
     <title>Redmi 6A (cactus) - 9.12.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
     <pubDate>Fri, 20 Dec 2019 23:24:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 9.12.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 20 Dec 2019 23:22:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V11.0.3.0.PGGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 20 Dec 2019 01:06:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro (raphaelin) - V11.0.3.0.QFKINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
-    <pubDate>Thu, 19 Dec 2019 19:08:11 +0900</pubDate>
   </item>
     </channel>
 </rss>
