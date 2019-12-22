@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2019-11-21'
+  date: '2019-12-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begoniain/releases/download/stable-21.11.2019/fw_begoniain_miui_BEGONIAININGlobal_V11.0.1.0.PGGINXM_ef453fb0eb_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V11.0.1.0.PGGINXM_ef453fb0eb_9.0.zip
-  filename: fw_begoniain_miui_BEGONIAININGlobal_V11.0.1.0.PGGINXM_ef453fb0eb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begoniain/releases/download/stable-22.12.2019/fw_begoniain_miui_BEGONIAININGlobal_V11.0.3.0.PGGINXM_9171f2067c_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V11.0.3.0.PGGINXM_9171f2067c_9.0.zip
+  filename: fw_begoniain_miui_BEGONIAININGlobal_V11.0.3.0.PGGINXM_9171f2067c_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.1.0.PGGINXM
+    miui: V11.0.3.0.PGGINXM
