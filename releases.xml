@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 23 Dec 2019 02:20:22 +0900</pubDate>
+  <pubDate>Mon, 23 Dec 2019 13:06:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 Lite (platina) - V11.0.4.0.PDTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Mon, 23 Dec 2019 13:06:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 Pro (begoniain) - V11.0.3.0.PGGINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
@@ -100,11 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 9.12.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Fri, 20 Dec 2019 23:46:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Play (lotus) - 9.12.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
-    <pubDate>Fri, 20 Dec 2019 23:45:08 +0900</pubDate>
   </item>
     </channel>
 </rss>
