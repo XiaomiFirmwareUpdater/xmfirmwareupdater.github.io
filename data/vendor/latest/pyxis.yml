@@ -21,16 +21,16 @@
     android: '9.0'
     miui: V11.3.3.0.PFCCNXM
 - branch: stable
-  date: '2019-11-28'
+  date: '2019-12-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.4.0.PFCEUXM_bd857626ef_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.4.0.PFCEUXM_bd857626ef_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.4.0.PFCEUXM_bd857626ef_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.5.0.PFCEUXM_7809748c0a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.5.0.PFCEUXM_7809748c0a_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.5.0.PFCEUXM_7809748c0a_9.0.zip
   region: Europe
-  size: 699.6 MB
+  size: 699.5 MB
   versions:
     android: '9.0'
-    miui: V11.3.4.0.PFCEUXM
+    miui: V11.3.5.0.PFCEUXM
 - branch: stable
   date: '2019-12-05'
   downloads:

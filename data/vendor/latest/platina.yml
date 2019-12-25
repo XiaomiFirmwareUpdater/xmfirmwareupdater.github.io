@@ -1,11 +1,11 @@
 - branch: stable
-  date: '2019-10-29'
+  date: '2019-12-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.5.0.PDTRUXM_7cf5452571_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.5.0.PDTRUXM_7cf5452571_9.0.zip/download
-  filename: fw-vendor_platina_miui_PLATINARUGlobal_V11.0.5.0.PDTRUXM_7cf5452571_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.6.0.PDTRUXM_211fbe544d_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.6.0.PDTRUXM_211fbe544d_9.0.zip/download
+  filename: fw-vendor_platina_miui_PLATINARUGlobal_V11.0.6.0.PDTRUXM_211fbe544d_9.0.zip
   region: Russia
   size: 418.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PDTRUXM
+    miui: V11.0.6.0.PDTRUXM
