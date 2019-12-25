@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 25 Dec 2019 19:09:53 +0900</pubDate>
+  <pubDate>Thu, 26 Dec 2019 01:07:50 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 5A (riva) - V11.0.6.0.OCKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
+    <pubDate>Thu, 26 Dec 2019 01:07:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Lite (platina) - V11.0.7.0.PDTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Thu, 26 Dec 2019 01:06:34 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.11.0.PFDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -95,16 +105,6 @@
     <title>Mi CC 9 Meitu Edition (vela) - 9.12.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
     <pubDate>Sat, 21 Dec 2019 00:21:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Explorer (ursa) - 9.12.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Sat, 21 Dec 2019 00:19:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10 (tucana) - 9.12.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Sat, 21 Dec 2019 00:17:56 +0900</pubDate>
   </item>
     </channel>
 </rss>

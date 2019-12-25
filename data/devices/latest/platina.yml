@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2019-11-07'
+  date: '2019-12-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-07.11.2019/fw_platina_miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/platina/fw_platina_miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip
-  filename: fw_platina_miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-25.12.2019/fw_platina_miui_MI8LiteGlobal_V11.0.7.0.PDTMIXM_69cdf0fb10_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/platina/fw_platina_miui_MI8LiteGlobal_V11.0.7.0.PDTMIXM_69cdf0fb10_9.0.zip
+  filename: fw_platina_miui_MI8LiteGlobal_V11.0.7.0.PDTMIXM_69cdf0fb10_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PDTMIXM
+    miui: V11.0.7.0.PDTMIXM
 - branch: stable
   date: '2019-12-23'
   downloads:
