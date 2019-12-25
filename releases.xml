@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 24 Dec 2019 01:17:59 +0900</pubDate>
+  <pubDate>Wed, 25 Dec 2019 14:06:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.3.5.0.PFCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Wed, 25 Dec 2019 14:06:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9e (laurus) - V11.0.3.0.PFMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
+    <pubDate>Wed, 25 Dec 2019 14:04:53 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8T (willow) - V11.0.2.0.PCXEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
@@ -95,16 +105,6 @@
     <title>Redmi 6 Pro (sakura) - 9.12.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
     <pubDate>Sat, 21 Dec 2019 00:13:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6 (sagit) - 9.12.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Sat, 21 Dec 2019 00:10:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 9.12.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Sat, 21 Dec 2019 00:09:03 +0900</pubDate>
   </item>
     </channel>
 </rss>
