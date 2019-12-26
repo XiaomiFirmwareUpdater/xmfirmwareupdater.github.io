@@ -79,15 +79,15 @@
     android: '10.0'
     miui: 9.12.19
 - branch: stable
-  date: '2019-12-04'
+  date: '2019-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-04.12.2019/fw_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.PGGEUXM_8c3bb53634_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.PGGEUXM_8c3bb53634_9.0.zip
-  filename: fw_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.PGGEUXM_8c3bb53634_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-26.12.2019/fw_begonia_miui_BEGONIAEEAGlobal_V11.0.3.0.PGGEUXM_d7349241eb_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V11.0.3.0.PGGEUXM_d7349241eb_9.0.zip
+  filename: fw_begonia_miui_BEGONIAEEAGlobal_V11.0.3.0.PGGEUXM_d7349241eb_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PGGEUXM
+    miui: V11.0.3.0.PGGEUXM
 - branch: stable
   date: '2019-12-22'
   downloads:
@@ -1009,15 +1009,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2019-11-06'
+  date: '2019-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-06.11.2019/fw_lotus_miui_MIPLAYGlobal_V11.0.1.0.OFIMIXM_7ca29041b1_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAYGlobal_V11.0.1.0.OFIMIXM_7ca29041b1_8.1.zip
-  filename: fw_lotus_miui_MIPLAYGlobal_V11.0.1.0.OFIMIXM_7ca29041b1_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-26.12.2019/fw_lotus_miui_MIPLAYGlobal_V11.0.2.0.OFIMIXM_f6af3d5b6b_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAYGlobal_V11.0.2.0.OFIMIXM_f6af3d5b6b_8.1.zip
+  filename: fw_lotus_miui_MIPLAYGlobal_V11.0.2.0.OFIMIXM_f6af3d5b6b_8.1.zip
   region: Global
   versions:
     android: '8.1'
-    miui: V11.0.1.0.OFIMIXM
+    miui: V11.0.2.0.OFIMIXM
 - branch: stable
   date: '2019-12-02'
   downloads:
@@ -2199,15 +2199,15 @@
     android: '9.0'
     miui: 9.12.12
 - branch: stable
-  date: '2019-11-04'
+  date: '2019-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-04.11.2019/fw_violet_miui_VIOLETINGlobal_V11.0.5.0.PFHINXM_04632f47d3_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.5.0.PFHINXM_04632f47d3_9.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V11.0.5.0.PFHINXM_04632f47d3_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-26.12.2019/fw_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PFHINXM
+    miui: V11.0.6.0.PFHINXM
 - branch: stable
   date: '2019-12-05'
   downloads:
