@@ -21,16 +21,16 @@
     android: '9.0'
     miui: V11.0.3.0.PGGCNXM
 - branch: stable
-  date: '2019-12-04'
+  date: '2019-12-26'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_eea_global-stable/fw-vendor_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.PGGEUXM_8c3bb53634_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_eea_global-stable/fw-vendor_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.PGGEUXM_8c3bb53634_9.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.PGGEUXM_8c3bb53634_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_eea_global-stable/fw-vendor_begonia_miui_BEGONIAEEAGlobal_V11.0.3.0.PGGEUXM_d7349241eb_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_eea_global-stable/fw-vendor_begonia_miui_BEGONIAEEAGlobal_V11.0.3.0.PGGEUXM_d7349241eb_9.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIAEEAGlobal_V11.0.3.0.PGGEUXM_d7349241eb_9.0.zip
   region: Europe
-  size: 489.8 MB
+  size: 488.9 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PGGEUXM
+    miui: V11.0.3.0.PGGEUXM
 - branch: stable
   date: '2019-12-18'
   downloads:
