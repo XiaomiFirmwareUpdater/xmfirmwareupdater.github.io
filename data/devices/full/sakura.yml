@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2019-12-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-27.12.2019/fw_sakura-india_miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura-india_miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip
+  filename: fw_sakura-india_miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PDMMIXM
 - branch: weekly
   date: '2019-12-27'
   downloads:
