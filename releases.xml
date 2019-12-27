@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 27 Dec 2019 21:53:33 +0900</pubDate>
+  <pubDate>Sat, 28 Dec 2019 00:22:39 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 9.12.27</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Sat, 28 Dec 2019 00:22:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - 9.12.27</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Sat, 28 Dec 2019 00:19:43 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 5/Note 5 Pro (whyred) - 9.12.26</title>
     <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
@@ -95,16 +105,6 @@
     <title>Mi Play (lotus) - 9.12.26</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
     <pubDate>Fri, 27 Dec 2019 21:02:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 9.12.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Fri, 27 Dec 2019 21:00:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 3 (jason) - 9.12.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
-    <pubDate>Fri, 27 Dec 2019 20:54:02 +0900</pubDate>
   </item>
     </channel>
 </rss>
