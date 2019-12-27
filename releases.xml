@@ -1,15 +1,30 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 27 Dec 2019 21:04:10 +0900</pubDate>
+  <pubDate>Fri, 27 Dec 2019 21:19:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Mi 8 Lite (platina) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Fri, 27 Dec 2019 21:19:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 (perseus) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Fri, 27 Dec 2019 21:17:38 +0900</pubDate>
+  </item>
+    <item>
     <title>Mi Max 3 (nitrogen) - 9.12.26</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 27 Dec 2019 21:04:10 +0900</pubDate>
+    <pubDate>Fri, 27 Dec 2019 21:15:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 27 Dec 2019 21:15:39 +0900</pubDate>
   </item>
     <item>
     <title>Mi Play (lotus) - 9.12.26</title>
@@ -90,21 +105,6 @@
     <title>Redmi Note 8 Pro (begonia) - V11.0.3.0.PGGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
     <pubDate>Thu, 26 Dec 2019 19:06:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - V11.0.9.0.QGHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Thu, 26 Dec 2019 13:06:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 5A (riva) - V11.0.6.0.OCKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
-    <pubDate>Thu, 26 Dec 2019 01:07:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - V11.0.7.0.PDTMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Thu, 26 Dec 2019 01:06:34 +0900</pubDate>
   </item>
     </channel>
 </rss>

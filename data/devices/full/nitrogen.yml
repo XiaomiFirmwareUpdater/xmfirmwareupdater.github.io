@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2019-12-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-27.12.2019/fw_nitrogen_miui_MIMAX3_9.12.26_72dac7c8cd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/nitrogen/fw_nitrogen_miui_MIMAX3_9.12.26_72dac7c8cd_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_9.12.26_72dac7c8cd_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 9.12.26
+- branch: weekly
   date: '2019-12-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-20.12.2019/fw_nitrogen_miui_MIMAX3_9.12.19_e0464f1e5b_10.0.zip
