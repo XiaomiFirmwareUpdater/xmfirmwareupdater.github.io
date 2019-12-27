@@ -1,11 +1,11 @@
 - branch: stable
-  date: '2019-11-08'
+  date: '2019-12-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura-india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-stable/fw-vendor_sakura-india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip/download
-  filename: fw-vendor_sakura-india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura-india_miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-stable/fw-vendor_sakura-india_miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip/download
+  filename: fw-vendor_sakura-india_miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip
   region: Global
-  size: 336.5 MB
+  size: 331.1 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PDMMIXM
+    miui: V11.0.5.0.PDMMIXM
