@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 27 Dec 2019 20:54:02 +0900</pubDate>
+  <pubDate>Fri, 27 Dec 2019 21:04:10 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Max 3 (nitrogen) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 27 Dec 2019 21:04:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Play (lotus) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
+    <pubDate>Fri, 27 Dec 2019 21:02:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9e (laurus) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
+    <pubDate>Fri, 27 Dec 2019 21:00:45 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Note 3 (jason) - 9.12.26</title>
     <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
@@ -90,21 +105,6 @@
     <title>Mi 8 Lite (platina) - V11.0.7.0.PDTMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
     <pubDate>Thu, 26 Dec 2019 01:06:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.11.0.PFDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Wed, 25 Dec 2019 19:09:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 5 (rosy) - V11.0.4.0.ODACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rosy</link>
-    <pubDate>Wed, 25 Dec 2019 19:07:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.3.0.PCNMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Wed, 25 Dec 2019 19:06:44 +0900</pubDate>
   </item>
     </channel>
 </rss>

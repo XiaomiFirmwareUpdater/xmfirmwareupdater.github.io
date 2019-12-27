@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2019-12-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-27.12.2019/fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/laurus/fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
+  filename: fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.12.26
 - branch: stable
   date: '2019-12-25'
   downloads:

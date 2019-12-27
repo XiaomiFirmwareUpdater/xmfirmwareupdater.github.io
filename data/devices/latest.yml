@@ -889,15 +889,15 @@
     android: '9.0'
     miui: V11.0.3.0.PFMCNXM
 - branch: weekly
-  date: '2019-12-20'
+  date: '2019-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-20.12.2019/fw_laurus_miui_LAURUS_9.12.19_e2eb497c25_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/laurus/fw_laurus_miui_LAURUS_9.12.19_e2eb497c25_9.0.zip
-  filename: fw_laurus_miui_LAURUS_9.12.19_e2eb497c25_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-27.12.2019/fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/laurus/fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
+  filename: fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.19
+    miui: 9.12.26
 - branch: stable
   date: '2019-11-18'
   downloads:
@@ -1029,15 +1029,15 @@
     android: '8.1'
     miui: V11.0.3.0.OFICNXM
 - branch: weekly
-  date: '2019-12-20'
+  date: '2019-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/weekly-20.12.2019/fw_lotus_miui_MIPLAY_9.12.19_266eb7e9d9_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/lotus/fw_lotus_miui_MIPLAY_9.12.19_266eb7e9d9_8.1.zip
-  filename: fw_lotus_miui_MIPLAY_9.12.19_266eb7e9d9_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/weekly-27.12.2019/fw_lotus_miui_MIPLAY_9.12.26_6f3c6c6543_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/lotus/fw_lotus_miui_MIPLAY_9.12.26_6f3c6c6543_8.1.zip
+  filename: fw_lotus_miui_MIPLAY_9.12.26_6f3c6c6543_8.1.zip
   region: China
   versions:
     android: '8.1'
-    miui: 9.12.19
+    miui: 9.12.26
 - branch: stable
   date: '2019-05-20'
   downloads:
@@ -1187,7 +1187,7 @@
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.19
+    miui: 9.12.26
 - branch: stable
   date: '2019-12-25'
   downloads:
