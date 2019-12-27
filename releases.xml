@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 27 Dec 2019 20:43:33 +0900</pubDate>
+  <pubDate>Fri, 27 Dec 2019 20:54:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 3 (jason) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
+    <pubDate>Fri, 27 Dec 2019 20:54:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 27 Dec 2019 20:52:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Fri, 27 Dec 2019 20:50:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Pro (equuleus) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
+    <pubDate>Fri, 27 Dec 2019 20:48:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Fri, 27 Dec 2019 20:46:49 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20/Mi 9T (davinci) - 9.12.26</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
@@ -80,31 +105,6 @@
     <title>Redmi 8 (olive) - V11.0.3.0.PCNMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
     <pubDate>Wed, 25 Dec 2019 19:06:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.3.5.0.PFCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Wed, 25 Dec 2019 14:06:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - V11.0.3.0.PFMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Wed, 25 Dec 2019 14:04:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8T (willow) - V11.0.2.0.PCXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
-    <pubDate>Tue, 24 Dec 2019 01:17:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.5.0.QFKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 24 Dec 2019 01:16:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 7A (pine) - V11.0.5.0.PCMMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
-    <pubDate>Tue, 24 Dec 2019 01:13:59 +0900</pubDate>
   </item>
     </channel>
 </rss>
