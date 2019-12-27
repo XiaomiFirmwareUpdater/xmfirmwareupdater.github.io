@@ -43,6 +43,17 @@
     android: '9.0'
     miui: V11.0.1.0.PCPRUXM
 - branch: stable
+  date: '2019-12-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_ru_global-stable/fw-vendor_olivelite_miui_OLIVELITERUGlobal_V11.0.2.0.PCPRUXM_6cba7998a9_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_ru_global-stable/fw-vendor_olivelite_miui_OLIVELITERUGlobal_V11.0.2.0.PCPRUXM_6cba7998a9_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITERUGlobal_V11.0.2.0.PCPRUXM_6cba7998a9_9.0.zip
+  region: Russia
+  size: 262.5 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PCPRUXM
+- branch: stable
   date: '2019-11-26'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_global-stable/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.PCPMIXM_163c56b0b8_9.0.zip
