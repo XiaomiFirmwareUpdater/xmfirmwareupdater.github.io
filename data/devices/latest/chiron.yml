@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-20'
+  date: '2019-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-20.12.2019/fw_chiron_miui_MIMIX2_9.12.19_c410af960f_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/chiron/fw_chiron_miui_MIMIX2_9.12.19_c410af960f_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.12.19_c410af960f_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-27.12.2019/fw_chiron_miui_MIMIX2_9.12.26_064ba1b6bb_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/chiron/fw_chiron_miui_MIMIX2_9.12.26_064ba1b6bb_9.0.zip
+  filename: fw_chiron_miui_MIMIX2_9.12.26_064ba1b6bb_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.19
+    miui: 9.12.26

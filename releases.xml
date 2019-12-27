@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 27 Dec 2019 07:06:15 +0900</pubDate>
+  <pubDate>Fri, 27 Dec 2019 20:43:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 27 Dec 2019 20:43:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2 (chiron) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
+    <pubDate>Fri, 27 Dec 2019 20:41:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 (cereus) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Fri, 27 Dec 2019 20:40:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6A (cactus) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
+    <pubDate>Fri, 27 Dec 2019 20:38:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - 9.12.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Fri, 27 Dec 2019 20:37:10 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.4.0.PFLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -80,31 +105,6 @@
     <title>Redmi 7A (pine) - V11.0.5.0.PCMMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
     <pubDate>Tue, 24 Dec 2019 01:13:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.2.0.PCPEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Tue, 24 Dec 2019 01:12:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.2.0.PCNEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Tue, 24 Dec 2019 01:09:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - V11.0.5.0.QFACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Tue, 24 Dec 2019 01:08:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6A (cactus) - V10.3.8.0.OCBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
-    <pubDate>Tue, 24 Dec 2019 01:06:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - V11.0.4.0.PDTCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Mon, 23 Dec 2019 13:06:03 +0900</pubDate>
   </item>
     </channel>
 </rss>
