@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2019-12-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-27.12.2019/fw_whyred_miui_HMNote5_9.12.26_2589493d71_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/whyred/fw_whyred_miui_HMNote5_9.12.26_2589493d71_9.0.zip
+  filename: fw_whyred_miui_HMNote5_9.12.26_2589493d71_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.12.26
+- branch: weekly
   date: '2019-12-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-20.12.2019/fw_whyred_miui_HMNote5_9.12.19_d6395618ed_9.0.zip
@@ -1298,23 +1308,3 @@
   versions:
     android: '8.1'
     miui: 8.8.2
-- branch: weekly
-  date: '2018-07-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-27.07.2018/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.26_d7fb438aef_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.26_d7fb438aef_8.1.zip
-  filename: fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.26_d7fb438aef_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: 8.7.26
-- branch: weekly
-  date: '2018-07-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-27.07.2018/fw_whyred_miui_HMNote5_8.7.26_7dcaf44611_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/whyred/fw_whyred_miui_HMNote5_8.7.26_7dcaf44611_8.1.zip
-  filename: fw_whyred_miui_HMNote5_8.7.26_7dcaf44611_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.7.26
