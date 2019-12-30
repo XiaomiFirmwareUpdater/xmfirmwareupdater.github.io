@@ -739,25 +739,25 @@
     android: '5.1'
     miui: 8.4.26
 - branch: stable
-  date: '2019-10-31'
+  date: '2019-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-31.10.2019/fw_jason_miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/jason/fw_jason_miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip
-  filename: fw_jason_miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-30.12.2019/fw_jason_miui_MINote3Global_V11.0.4.0.PCHMIXM_04f5e77d0b_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/jason/fw_jason_miui_MINote3Global_V11.0.4.0.PCHMIXM_04f5e77d0b_9.0.zip
+  filename: fw_jason_miui_MINote3Global_V11.0.4.0.PCHMIXM_04f5e77d0b_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PCHMIXM
+    miui: V11.0.4.0.PCHMIXM
 - branch: stable
-  date: '2019-11-06'
+  date: '2019-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-06.11.2019/fw_jason_miui_MINote3_V11.0.2.0.PCHCNXM_a6755ad154_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/jason/fw_jason_miui_MINote3_V11.0.2.0.PCHCNXM_a6755ad154_9.0.zip
-  filename: fw_jason_miui_MINote3_V11.0.2.0.PCHCNXM_a6755ad154_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-30.12.2019/fw_jason_miui_MINote3_V11.0.3.0.PCHCNXM_60dcc350c6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/jason/fw_jason_miui_MINote3_V11.0.3.0.PCHCNXM_60dcc350c6_9.0.zip
+  filename: fw_jason_miui_MINote3_V11.0.3.0.PCHCNXM_60dcc350c6_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PCHCNXM
+    miui: V11.0.3.0.PCHCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1359,15 +1359,15 @@
     android: '9.0'
     miui: V11.0.4.0.PEEMIXM
 - branch: stable
-  date: '2019-11-05'
+  date: '2019-12-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/stable-05.11.2019/fw_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/stable-30.12.2019/fw_perseus_miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip
   region: China
   versions:
-    android: '9.0'
-    miui: V11.0.4.0.PEECNXM
+    android: '10.0'
+    miui: V11.0.1.0.QEECNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
