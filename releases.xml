@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 31 Dec 2019 13:05:56 +0900</pubDate>
+  <pubDate>Tue, 31 Dec 2019 19:06:10 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 6 Pro (tulip) - V11.0.2.0.PEKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tulip</link>
+    <pubDate>Tue, 31 Dec 2019 19:06:10 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.3.0.PFLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -100,11 +105,6 @@
     <title>Mi 6 (sagit) - 9.12.26</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
     <pubDate>Fri, 27 Dec 2019 21:28:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 9.12.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 27 Dec 2019 21:26:57 +0900</pubDate>
   </item>
     </channel>
 </rss>
