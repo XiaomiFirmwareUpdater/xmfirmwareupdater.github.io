@@ -250,7 +250,7 @@ function loadMiuiDownloads(device) {
                     { type: 'file-size', targets: 6 }
                 ],
                 columns: [
-                    { data: 'device', className: "min-tablet-p" },
+                    { data: 'device', className: "all" },
                     {
                         data: 'version', className: "min-tablet-p",
                         "render": function (data) {
