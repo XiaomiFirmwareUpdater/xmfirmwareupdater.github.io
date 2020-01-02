@@ -66,6 +66,7 @@ def load_releases():
     Check GitHub releases info for each device and write JSON files
     """
     all_latest = []
+    archive = []
     for device in FW_CODENAMES:
         info = []
         url = f'https://api.github.com/repos/XiaomiFirmwareUpdater/' \
@@ -111,6 +112,8 @@ def load_releases():
                                'osdn': osdn},
                            'filename': filename}
                 info.append(release)
+        for i in info:
+            archive.append(i)
         with open(f'../data/devices/full/{device}.yml', 'w') as out:
             yaml.dump(info, out, Dumper=yaml.CDumper)
         # Generate latest releases
@@ -131,6 +134,8 @@ def load_releases():
             all_latest.append(i)
     with open('../data/devices/latest.yml', 'w') as out:
         yaml.dump(all_latest, out, Dumper=yaml.CDumper)
+    with open('../data/devices/full.yml', 'w') as out:
+        yaml.dump(archive, out, Dumper=yaml.CDumper)
 
 
 def generate_fw_md():

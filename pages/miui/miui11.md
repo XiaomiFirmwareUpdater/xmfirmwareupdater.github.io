@@ -1,14 +1,17 @@
 ---
-title: MIUI ROM Latest Downloads
+title: MIUI 11 China Beta ROM Latest Downloads
 layout: download
-permalink: /miui/
+permalink: /miui11/
 ---
+<script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.20/sorting/date-eu.js"></script>
+<script type="text/javascript" src="/assets/js/miui11.js"></script>
+### Latest MIUI Official 11 China Beta ROMs for Xiaomi devices
+##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/).
 
-### Latest MIUI Official ROMs for all devices
-##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/) and if you're looking for MIUI 11 China Beta releases check [Here](/miui11/).
-
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware
+*Note 1*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware
 Updater.
+
+*Note 2*: All ROMs links listed here are collected via various sources on the internet since MIUI official website is no longer providing Beta ROMs links. You need custom recovery to flash these files, do it on your own risk.
 
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
     Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">MIUI Updates Tracker</a> on Telegram to get notified when a new ROM is out!
@@ -24,14 +27,13 @@ Updater.
         <thead class="thead-dark">
             <tr>
                 <th data-ref="device">Device</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
+                <th data-ref="codename">Codename</th>
                 <th data-ref="miui">MIUI</th>
                 <th data-ref="android">Android</th>
                 <th data-ref="link">Link</th>
-                <th data-ref="size">Size</th>
+                <th data-ref="date">Updated</th>
             </tr>
         </thead>
-        <script>loadLatestMiui()</script>
+        <script>loadMiuiChinaBeta()</script>
     </table>
 </div>
