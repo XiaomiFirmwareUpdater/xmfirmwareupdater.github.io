@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-01-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/weekly-02.01.2020/fw_sakura_miui_HM6Pro_20.1.2_c86b162ce5_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/sakura/fw_sakura_miui_HM6Pro_20.1.2_c86b162ce5_9.0.zip
+  filename: fw_sakura_miui_HM6Pro_20.1.2_c86b162ce5_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.1.2
 - branch: stable
   date: '2019-12-27'
   downloads:
