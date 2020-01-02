@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 02 Jan 2020 19:05:55 +0900</pubDate>
+  <pubDate>Fri, 03 Jan 2020 01:52:51 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 9 SE (grus) - 20.1.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 03 Jan 2020 01:52:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - 20.1.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Fri, 03 Jan 2020 01:50:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2 (chiron) - 20.1.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
+    <pubDate>Fri, 03 Jan 2020 01:49:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 (cereus) - 20.1.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Fri, 03 Jan 2020 01:47:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6A (cactus) - 20.1.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
+    <pubDate>Fri, 03 Jan 2020 01:46:25 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 7A (pine) - V11.0.2.0.PCMINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
@@ -80,31 +105,6 @@
     <title>Mi 6X (wayne) - 9.12.26</title>
     <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
     <pubDate>Fri, 27 Dec 2019 21:52:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 9.12.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 27 Dec 2019 21:51:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 9.12.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Fri, 27 Dec 2019 21:50:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Explorer (ursa) - 9.12.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Fri, 27 Dec 2019 21:48:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10 (tucana) - 9.12.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 27 Dec 2019 21:46:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 SE (sirius) - 9.12.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
-    <pubDate>Fri, 27 Dec 2019 21:34:28 +0900</pubDate>
   </item>
     </channel>
 </rss>

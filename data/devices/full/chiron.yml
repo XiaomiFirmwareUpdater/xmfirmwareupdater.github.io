@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-01-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-02.01.2020/fw_chiron_miui_MIMIX2_20.1.2_7289e6be23_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/chiron/fw_chiron_miui_MIMIX2_20.1.2_7289e6be23_9.0.zip
+  filename: fw_chiron_miui_MIMIX2_20.1.2_7289e6be23_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.1.2
+- branch: weekly
   date: '2019-12-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-27.12.2019/fw_chiron_miui_MIMIX2_9.12.26_064ba1b6bb_9.0.zip
