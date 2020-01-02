@@ -769,15 +769,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-27'
+  date: '2020-01-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-27.12.2019/fw_jason_miui_MINote3_9.12.26_42f08f8de1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/jason/fw_jason_miui_MINote3_9.12.26_42f08f8de1_9.0.zip
-  filename: fw_jason_miui_MINote3_9.12.26_42f08f8de1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-02.01.2020/fw_jason_miui_MINote3_20.1.2_9ac263f7b5_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/jason/fw_jason_miui_MINote3_20.1.2_9ac263f7b5_9.0.zip
+  filename: fw_jason_miui_MINote3_20.1.2_9ac263f7b5_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.26
+    miui: 20.1.2
 - branch: stable
   date: '2019-01-24'
   downloads:
@@ -889,15 +889,15 @@
     android: '9.0'
     miui: V11.0.3.0.PFMCNXM
 - branch: weekly
-  date: '2019-12-27'
+  date: '2020-01-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-27.12.2019/fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/laurus/fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
-  filename: fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-02.01.2020/fw_laurus_miui_LAURUS_20.1.2_808ced1875_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/laurus/fw_laurus_miui_LAURUS_20.1.2_808ced1875_9.0.zip
+  filename: fw_laurus_miui_LAURUS_20.1.2_808ced1875_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.26
+    miui: 20.1.2
 - branch: stable
   date: '2019-11-18'
   downloads:
@@ -1179,15 +1179,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-27'
+  date: '2020-01-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-27.12.2019/fw_nitrogen_miui_MIMAX3_9.12.26_72dac7c8cd_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/nitrogen/fw_nitrogen_miui_MIMAX3_9.12.26_72dac7c8cd_10.0.zip
-  filename: fw_nitrogen_miui_MIMAX3_9.12.26_72dac7c8cd_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-02.01.2020/fw_nitrogen_miui_MIMAX3_20.1.2_8bf48db4e2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/nitrogen/fw_nitrogen_miui_MIMAX3_20.1.2_8bf48db4e2_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_20.1.2_8bf48db4e2_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.26
+    miui: 20.1.2
 - branch: stable
   date: '2019-12-25'
   downloads:
@@ -1479,15 +1479,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-27'
+  date: '2020-01-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-27.12.2019/fw_platina_miui_MI8Lite_9.12.26_dbdd3c50ca_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/platina/fw_platina_miui_MI8Lite_9.12.26_dbdd3c50ca_10.0.zip
-  filename: fw_platina_miui_MI8Lite_9.12.26_dbdd3c50ca_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-02.01.2020/fw_platina_miui_MI8Lite_20.1.2_5495256d04_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/platina/fw_platina_miui_MI8Lite_20.1.2_5495256d04_10.0.zip
+  filename: fw_platina_miui_MI8Lite_20.1.2_5495256d04_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.26
+    miui: 20.1.2
 - branch: stable
   date: '2019-11-05'
   downloads:
@@ -1789,15 +1789,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-12-27'
+  date: '2020-01-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-27.12.2019/fw_sagit_miui_MI6_9.12.26_7838349441_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/sagit/fw_sagit_miui_MI6_9.12.26_7838349441_9.0.zip
-  filename: fw_sagit_miui_MI6_9.12.26_7838349441_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-02.01.2020/fw_sagit_miui_MI6_20.1.2_fdfe429126_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/sagit/fw_sagit_miui_MI6_20.1.2_fdfe429126_9.0.zip
+  filename: fw_sagit_miui_MI6_20.1.2_fdfe429126_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.26
+    miui: 20.1.2
 - branch: stable
   date: '2019-07-29'
   downloads:
