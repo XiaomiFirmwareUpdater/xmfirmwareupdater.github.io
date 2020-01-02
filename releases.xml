@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 02 Jan 2020 13:07:52 +0900</pubDate>
+  <pubDate>Thu, 02 Jan 2020 19:05:55 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 7A (pine) - V11.0.2.0.PCMINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
+    <pubDate>Thu, 02 Jan 2020 19:05:55 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro/Mi Note 10 (tucana) - V11.0.12.0.PFDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -100,11 +105,6 @@
     <title>Mi 8 SE (sirius) - 9.12.26</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
     <pubDate>Fri, 27 Dec 2019 21:34:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 Pro (sakura) - 9.12.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
-    <pubDate>Fri, 27 Dec 2019 21:30:07 +0900</pubDate>
   </item>
     </channel>
 </rss>
