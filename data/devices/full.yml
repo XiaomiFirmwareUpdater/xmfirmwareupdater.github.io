@@ -21721,6 +21721,16 @@
 - branch: stable
   date: '2020-01-03'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-04.01.2020/fw_onc_miui_ONCLITEINGlobal_V11.0.2.0.PFLINXM_a0c099b95b_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEINGlobal_V11.0.2.0.PFLINXM_a0c099b95b_9.0.zip
+  filename: fw_onc_miui_ONCLITEINGlobal_V11.0.2.0.PFLINXM_a0c099b95b_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PFLINXM
+- branch: stable
+  date: '2020-01-03'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-03.01.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
   filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
