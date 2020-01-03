@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 03 Jan 2020 19:02:19 +0900</pubDate>
+  <pubDate>Fri, 03 Jan 2020 19:07:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.4.0.PFLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 03 Jan 2020 19:07:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V11.0.4.0.PCOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Fri, 03 Jan 2020 19:06:19 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.1.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
@@ -95,16 +105,6 @@
     <title>Mi CC 9e (laurus) - 20.1.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
     <pubDate>Fri, 03 Jan 2020 02:01:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 3 (jason) - 20.1.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
-    <pubDate>Fri, 03 Jan 2020 01:59:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 20.1.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Fri, 03 Jan 2020 01:52:51 +0900</pubDate>
   </item>
     </channel>
 </rss>

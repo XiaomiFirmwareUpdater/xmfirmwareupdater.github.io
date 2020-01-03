@@ -9458,6 +9458,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2020-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-03.01.2020/fw_ginkgo_miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip
+  filename: fw_ginkgo_miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCOCNXM
 - branch: weekly
   date: '2020-01-02'
   downloads:
@@ -21678,6 +21688,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PCPCNXM
+- branch: stable
+  date: '2020-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-03.01.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
+  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PFLEUXM
 - branch: stable
   date: '2020-01-02'
   downloads:
