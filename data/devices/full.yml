@@ -6559,6 +6559,16 @@
     android: '9.0'
     miui: V10.3.3.0.PFJINXM
 - branch: weekly
+  date: '2020-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-03.01.2020/fw_dipper_miui_MI8_20.1.2_77cc0b0084_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/dipper/fw_dipper_miui_MI8_20.1.2_77cc0b0084_10.0.zip
+  filename: fw_dipper_miui_MI8_20.1.2_77cc0b0084_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.2
+- branch: weekly
   date: '2019-12-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-27.12.2019/fw_dipper_miui_MI8_9.12.26_b0b397dce2_10.0.zip
@@ -7839,15 +7849,15 @@
     android: '8.1'
     miui: 8.7.12
 - branch: weekly
-  date: '2018-07-10'
+  date: '2020-01-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/untagged-d6e58ed4349d1cd3e5d4/fw_dipper_miui_MI8_V9.5.11.0.OEACNFA_4b37ec1ab5_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.11.0.OEACNFA/dipper/fw_dipper_miui_MI8_V9.5.11.0.OEACNFA_4b37ec1ab5_8.1.zip
-  filename: fw_dipper_miui_MI8_V9.5.11.0.OEACNFA_4b37ec1ab5_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-03.01.2020/fw_equuleus_miui_MI8UD_20.1.2_e26992e4e2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/equuleus/fw_equuleus_miui_MI8UD_20.1.2_e26992e4e2_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_20.1.2_e26992e4e2_10.0.zip
   region: China
   versions:
-    android: '8.1'
-    miui: V9.5.11.0.OEACNFA
+    android: '10.0'
+    miui: 20.1.2
 - branch: weekly
   date: '2019-12-27'
   downloads:
@@ -23308,6 +23318,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-03.01.2020/fw_perseus_miui_MIMIX3_20.1.2_61427a0516_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/perseus/fw_perseus_miui_MIMIX3_20.1.2_61427a0516_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.1.2_61427a0516_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.2
 - branch: stable
   date: '2019-12-30'
   downloads:
@@ -25288,6 +25308,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: weekly
+  date: '2020-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-03.01.2020/fw_polaris_miui_MIMIX2S_20.1.2_0956dfbc82_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/polaris/fw_polaris_miui_MIMIX2S_20.1.2_0956dfbc82_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.1.2_0956dfbc82_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.2
 - branch: weekly
   date: '2019-12-27'
   downloads:
@@ -27368,6 +27398,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: weekly
+  date: '2020-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-03.01.2020/fw_raphael_miui_RAPHAEL_20.1.2_1a951fd6e2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/raphael/fw_raphael_miui_RAPHAEL_20.1.2_1a951fd6e2_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.1.2_1a951fd6e2_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.2
 - branch: weekly
   date: '2019-12-27'
   downloads:
@@ -40498,6 +40538,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-03.01.2020/fw_ursa_miui_MI8Explorer_20.1.2_8558f0115c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/ursa/fw_ursa_miui_MI8Explorer_20.1.2_8558f0115c_10.0.zip
+  filename: fw_ursa_miui_MI8Explorer_20.1.2_8558f0115c_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.2
 - branch: weekly
   date: '2019-12-27'
   downloads:
