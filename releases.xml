@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 03 Jan 2020 20:13:53 +0900</pubDate>
+  <pubDate>Sat, 04 Jan 2020 01:08:50 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8T (willow) - V11.0.3.0.PCXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
+    <pubDate>Sat, 04 Jan 2020 01:08:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.3.0.PFLINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Sat, 04 Jan 2020 01:06:35 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20/Mi 9T (davinci) - 20.1.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
@@ -95,16 +105,6 @@
     <title>Mi 8 Lite (platina) - 20.1.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
     <pubDate>Fri, 03 Jan 2020 02:05:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.1.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 03 Jan 2020 02:03:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.1.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 03 Jan 2020 02:03:17 +0900</pubDate>
   </item>
     </channel>
 </rss>
