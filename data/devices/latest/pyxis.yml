@@ -19,15 +19,15 @@
     android: '9.0'
     miui: V11.3.3.0.PFCCNXM
 - branch: weekly
-  date: '2019-12-27'
+  date: '2020-01-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-27.12.2019/fw_pyxis_miui_PYXIS_9.12.26_cab38c2ed4_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/pyxis/fw_pyxis_miui_PYXIS_9.12.26_cab38c2ed4_10.0.zip
-  filename: fw_pyxis_miui_PYXIS_9.12.26_cab38c2ed4_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-03.01.2020/fw_pyxis_miui_PYXIS_20.1.2_0f1d993080_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/pyxis/fw_pyxis_miui_PYXIS_20.1.2_0f1d993080_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.1.2_0f1d993080_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.26
+    miui: 20.1.2
 - branch: stable
   date: '2019-12-25'
   downloads:
