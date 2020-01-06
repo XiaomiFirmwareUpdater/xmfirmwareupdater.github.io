@@ -362,16 +362,16 @@
     android: '9.0'
     miui: V11.0.2.0.PCOINXM
 - branch: stable
-  date: '2019-11-05'
+  date: '2020-01-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip/download
-  filename: fw-vendor_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip
   region: Global
-  size: 606.0 MB
+  size: 602.7 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFBMIXM
+    miui: V11.0.6.0.PFBMIXM
 - branch: stable
   date: '2019-11-07'
   downloads:
@@ -395,27 +395,27 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2019-11-04'
+  date: '2020-01-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_eea_global-stable/fw-vendor_grus_miui_GRUSEEAGlobal_V11.0.4.0.PFBEUXM_d4f398c886_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_eea_global-stable/fw-vendor_grus_miui_GRUSEEAGlobal_V11.0.4.0.PFBEUXM_d4f398c886_9.0.zip/download
-  filename: fw-vendor_grus_miui_GRUSEEAGlobal_V11.0.4.0.PFBEUXM_d4f398c886_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_eea_global-stable/fw-vendor_grus_miui_GRUSEEAGlobal_V11.0.6.0.PFBEUXM_6e5dea41d3_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_eea_global-stable/fw-vendor_grus_miui_GRUSEEAGlobal_V11.0.6.0.PFBEUXM_6e5dea41d3_9.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSEEAGlobal_V11.0.6.0.PFBEUXM_6e5dea41d3_9.0.zip
   region: Europe
-  size: 604.8 MB
+  size: 604.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFBEUXM
+    miui: V11.0.6.0.PFBEUXM
 - branch: stable
-  date: '2019-11-04'
+  date: '2020-01-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.4.0.PFBRUXM_1a85f12137_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.4.0.PFBRUXM_1a85f12137_9.0.zip/download
-  filename: fw-vendor_grus_miui_GRUSRUGlobal_V11.0.4.0.PFBRUXM_1a85f12137_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.6.0.PFBRUXM_55e0819503_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.6.0.PFBRUXM_55e0819503_9.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSRUGlobal_V11.0.6.0.PFBRUXM_55e0819503_9.0.zip
   region: Russia
-  size: 604.3 MB
+  size: 605.3 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFBRUXM
+    miui: V11.0.6.0.PFBRUXM
 - branch: stable
   date: '2019-11-06'
   downloads:
