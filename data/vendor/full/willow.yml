@@ -10,6 +10,17 @@
     android: '9.0'
     miui: V10.3.2.0.PCXRUXM
 - branch: stable
+  date: '2020-01-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.1.0.PCXRUXM_9a16b32bf8_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.1.0.PCXRUXM_9a16b32bf8_9.0.zip/download
+  filename: fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.1.0.PCXRUXM_9a16b32bf8_9.0.zip
+  region: Russia
+  size: 385.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PCXRUXM
+- branch: stable
   date: '2019-11-29'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_global-stable/fw-vendor_willow_miui_WILLOWGlobal_V10.3.1.0.PCXMIXM_9dc29fc488_9.0.zip
@@ -20,6 +31,17 @@
   versions:
     android: '9.0'
     miui: V10.3.1.0.PCXMIXM
+- branch: stable
+  date: '2020-01-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_global-stable/fw-vendor_willow_miui_WILLOWGlobal_V11.0.1.0.PCXMIXM_fcb1169902_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_global-stable/fw-vendor_willow_miui_WILLOWGlobal_V11.0.1.0.PCXMIXM_fcb1169902_9.0.zip/download
+  filename: fw-vendor_willow_miui_WILLOWGlobal_V11.0.1.0.PCXMIXM_fcb1169902_9.0.zip
+  region: Global
+  size: 383.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PCXMIXM
 - branch: stable
   date: '2019-11-21'
   downloads:
