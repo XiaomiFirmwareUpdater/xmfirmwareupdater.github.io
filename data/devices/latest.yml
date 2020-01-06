@@ -579,15 +579,15 @@
     android: '9.0'
     miui: V11.0.2.0.PCOINXM
 - branch: stable
-  date: '2019-11-05'
+  date: '2020-01-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-05.11.2019/fw_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip
-  filename: fw_grus_miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-06.01.2020/fw_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip
+  filename: fw_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFBMIXM
+    miui: V11.0.6.0.PFBMIXM
 - branch: stable
   date: '2019-11-07'
   downloads:
@@ -609,15 +609,15 @@
     android: '10.0'
     miui: 20.1.2
 - branch: stable
-  date: '2019-11-04'
+  date: '2020-01-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-04.11.2019/fw_grus_miui_GRUSEEAGlobal_V11.0.4.0.PFBEUXM_d4f398c886_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUSEEAGlobal_V11.0.4.0.PFBEUXM_d4f398c886_9.0.zip
-  filename: fw_grus_miui_GRUSEEAGlobal_V11.0.4.0.PFBEUXM_d4f398c886_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-06.01.2020/fw_grus_miui_GRUSEEAGlobal_V11.0.6.0.PFBEUXM_6e5dea41d3_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUSEEAGlobal_V11.0.6.0.PFBEUXM_6e5dea41d3_9.0.zip
+  filename: fw_grus_miui_GRUSEEAGlobal_V11.0.6.0.PFBEUXM_6e5dea41d3_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFBEUXM
+    miui: V11.0.6.0.PFBEUXM
 - branch: stable
   date: '2019-05-13'
   downloads:
