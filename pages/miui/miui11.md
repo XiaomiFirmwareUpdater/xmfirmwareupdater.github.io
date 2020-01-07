@@ -3,7 +3,6 @@ title: MIUI 11 China Beta ROM Latest Downloads
 layout: download
 permalink: /miui11/
 ---
-<script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.20/sorting/date-eu.js"></script>
 <script type="text/javascript" src="/assets/js/miui11.js"></script>
 ### Latest MIUI Official 11 China Beta ROMs for Xiaomi devices
 ##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/).
