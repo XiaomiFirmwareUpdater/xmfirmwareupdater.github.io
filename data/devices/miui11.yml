@@ -1472,37 +1472,37 @@
   codename: tucana
   date: '2020-01-02'
   download: https://bigota.d.miui.com/20.1.2/tucana_miui_TUCANA_20.1.2_4215e10bd9_9.0.zip
-  name: Mi CC 9 Pro/Mi Note 10
+  name: Mi CC 9 Pro
   version: 20.1.2
 - android: '9.0'
   codename: tucana
   date: '2019-12-27'
   download: https://bigota.d.miui.com/9.12.26/tucana_miui_TUCANA_9.12.26_ad368678c9_9.0.zip
-  name: Mi CC 9 Pro/Mi Note 10
+  name: Mi CC 9 Pro
   version: 9.12.26
 - android: '9.0'
   codename: tucana
   date: '2019-12-20'
   download: https://bigota.d.miui.com/9.12.19/tucana_miui_TUCANA_9.12.19_c6bf901cf0_9.0.zip
-  name: Mi CC 9 Pro/Mi Note 10
+  name: Mi CC 9 Pro
   version: 9.12.19
 - android: '9.0'
   codename: tucana
   date: '2019-12-13'
   download: https://bigota.d.miui.com/9.12.12/tucana_miui_TUCANA_9.12.12_28f0aeefca_9.0.zip
-  name: Mi CC 9 Pro/Mi Note 10
+  name: Mi CC 9 Pro
   version: 9.12.12
 - android: '9.0'
   codename: tucana
   date: '2019-12-06'
   download: https://bigota.d.miui.com/9.12.5/tucana_miui_TUCANA_9.12.5_2b70682ce5_9.0.zip
-  name: Mi CC 9 Pro/Mi Note 10
+  name: Mi CC 9 Pro
   version: 9.12.5
 - android: '9.0'
   codename: tucana
   date: '2019-11-29'
   download: https://bigota.d.miui.com/9.11.28/tucana_miui_TUCANA_9.11.28_457de5a45f_9.0.zip
-  name: Mi CC 9 Pro/Mi Note 10
+  name: Mi CC 9 Pro
   version: 9.11.28
 - android: '7.1'
   codename: ugg

@@ -1,7 +1,7 @@
 ---
-title: Mi CC 9 Pro/Mi Note 10 (tucana) Vendor Downloads
+title: Mi CC 9 Pro (tucana) Vendor Downloads
 layout: download
-name: Mi CC 9 Pro/Mi Note 10
+name: Mi CC 9 Pro
 codename: tucana
 permalink: /archive/vendor/tucana/
 ---
