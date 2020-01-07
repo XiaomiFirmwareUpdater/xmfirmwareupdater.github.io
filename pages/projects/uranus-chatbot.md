@@ -46,7 +46,7 @@ Available commands are:
     <td>/latest sagit</td>
   </tr>
   <tr>
-    <td>/list</td>
+    <td>/archive</td>
     <td>codename</td>
     <td>gets all official available recovery MIUI ROMs for device</td>
     <td>/list mido</td>
