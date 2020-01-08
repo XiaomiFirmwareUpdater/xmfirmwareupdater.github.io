@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 08 Jan 2020 13:05:44 +0900</pubDate>
+  <pubDate>Wed, 08 Jan 2020 19:06:48 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.2.0.PFLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Wed, 08 Jan 2020 19:06:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 (cereus) - V11.0.2.0.PCGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Wed, 08 Jan 2020 19:05:28 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.3.0.PFLMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -95,16 +105,6 @@
     <title>Mi 8 Pro (equuleus) - 20.1.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
     <pubDate>Fri, 03 Jan 2020 19:00:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - 20.1.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Fri, 03 Jan 2020 18:58:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - 20.1.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Fri, 03 Jan 2020 18:56:40 +0900</pubDate>
   </item>
     </channel>
 </rss>

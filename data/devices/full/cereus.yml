@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2020-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-08.01.2020/fw_cereus_miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cereus/fw_cereus_miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip
+  filename: fw_cereus_miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PCGMIXM
 - branch: weekly
   date: '2020-01-02'
   downloads:
