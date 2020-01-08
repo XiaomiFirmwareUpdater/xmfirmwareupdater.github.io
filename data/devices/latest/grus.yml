@@ -9,15 +9,15 @@
     android: '9.0'
     miui: V11.0.6.0.PFBMIXM
 - branch: stable
-  date: '2019-11-07'
+  date: '2020-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-07.11.2019/fw_grus_miui_GRUS_V11.0.5.0.PFBCNXM_41b4612800_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUS_V11.0.5.0.PFBCNXM_41b4612800_9.0.zip
-  filename: fw_grus_miui_GRUS_V11.0.5.0.PFBCNXM_41b4612800_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-08.01.2020/fw_grus_miui_GRUS_V11.0.1.0.QFBCNXM_c79c87d07d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUS_V11.0.1.0.QFBCNXM_c79c87d07d_10.0.zip
+  filename: fw_grus_miui_GRUS_V11.0.1.0.QFBCNXM_c79c87d07d_10.0.zip
   region: China
   versions:
-    android: '9.0'
-    miui: V11.0.5.0.PFBCNXM
+    android: '10.0'
+    miui: V11.0.1.0.QFBCNXM
 - branch: weekly
   date: '2020-01-02'
   downloads:

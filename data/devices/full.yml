@@ -348,6 +348,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-08.01.2020/fw_begonia_miui_BEGONIA_V11.0.1.0.QGGCNXM_6ea29705c9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIA_V11.0.1.0.QGGCNXM_6ea29705c9_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_V11.0.1.0.QGGCNXM_6ea29705c9_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QGGCNXM
 - branch: weekly
   date: '2020-01-03'
   downloads:
@@ -9658,6 +9668,16 @@
   versions:
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
+- branch: stable
+  date: '2020-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-08.01.2020/fw_grus_miui_GRUS_V11.0.1.0.QFBCNXM_c79c87d07d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUS_V11.0.1.0.QFBCNXM_c79c87d07d_10.0.zip
+  filename: fw_grus_miui_GRUS_V11.0.1.0.QFBCNXM_c79c87d07d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QFBCNXM
 - branch: stable
   date: '2020-01-06'
   downloads:
@@ -36318,6 +36338,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2020-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/stable-08.01.2020/fw_sirius_miui_MI8SE_V11.0.1.0.QEBCNXM_d519421d9f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sirius/fw_sirius_miui_MI8SE_V11.0.1.0.QEBCNXM_d519421d9f_10.0.zip
+  filename: fw_sirius_miui_MI8SE_V11.0.1.0.QEBCNXM_d519421d9f_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QEBCNXM
 - branch: weekly
   date: '2020-01-02'
   downloads:
