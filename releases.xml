@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 10 Jan 2020 04:46:51 +0900</pubDate>
+  <pubDate>Fri, 10 Jan 2020 05:12:50 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Redmi Note 8 Pro (begonia) - 20.1.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 10 Jan 2020 04:46:51 +0900</pubDate>
+    <pubDate>Fri, 10 Jan 2020 05:12:50 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.3.0.PFLMIXM</title>
