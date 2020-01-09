@@ -69,15 +69,15 @@
     android: '10.0'
     miui: V11.0.1.0.QGGCNXM
 - branch: weekly
-  date: '2020-01-03'
+  date: '2020-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-03.01.2020/fw_begonia_miui_BEGONIA_20.1.2_783b8d334d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/begonia/fw_begonia_miui_BEGONIA_20.1.2_783b8d334d_10.0.zip
-  filename: fw_begonia_miui_BEGONIA_20.1.2_783b8d334d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-09.01.2020/fw_begonia_miui_BEGONIA_20.1.9_e25805a1f5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/begonia/fw_begonia_miui_BEGONIA_20.1.9_e25805a1f5_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_20.1.9_e25805a1f5_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.2
+    miui: 20.1.9
 - branch: stable
   date: '2019-12-26'
   downloads:
