@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 10 Jan 2020 05:12:50 +0900</pubDate>
+  <pubDate>Fri, 10 Jan 2020 05:22:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 2 (chiron) - 20.1.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
+    <pubDate>Fri, 10 Jan 2020 05:22:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 (cereus) - 20.1.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Fri, 10 Jan 2020 05:20:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - 20.1.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Fri, 10 Jan 2020 05:19:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6A (cactus) - 20.1.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
+    <pubDate>Fri, 10 Jan 2020 05:17:04 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 Pro (begonia) - 20.1.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 8 Pro (begonia) - 20.1.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
     <pubDate>Sat, 04 Jan 2020 02:49:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.1.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Sat, 04 Jan 2020 02:43:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Play (lotus) - 20.1.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
-    <pubDate>Sat, 04 Jan 2020 02:41:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8T (willow) - V11.0.3.0.PCXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
-    <pubDate>Sat, 04 Jan 2020 01:08:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 20.1.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Fri, 03 Jan 2020 20:13:53 +0900</pubDate>
   </item>
     </channel>
 </rss>
