@@ -1,15 +1,25 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 10 Jan 2020 06:14:07 +0900</pubDate>
+  <pubDate>Fri, 10 Jan 2020 06:26:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Mi 6 (sagit) - 20.1.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
+    <pubDate>Fri, 10 Jan 2020 06:26:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.1.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 10 Jan 2020 06:24:30 +0900</pubDate>
+  </item>
+    <item>
     <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.1.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 10 Jan 2020 06:14:07 +0900</pubDate>
+    <pubDate>Fri, 10 Jan 2020 06:22:11 +0900</pubDate>
   </item>
     <item>
     <title>Mi MIX 2S (polaris) - 20.1.9</title>
@@ -95,16 +105,6 @@
     <title>Redmi 6 (cereus) - 20.1.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
     <pubDate>Fri, 10 Jan 2020 05:20:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.1.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 10 Jan 2020 05:19:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6A (cactus) - 20.1.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
-    <pubDate>Fri, 10 Jan 2020 05:17:04 +0900</pubDate>
   </item>
     </channel>
 </rss>
