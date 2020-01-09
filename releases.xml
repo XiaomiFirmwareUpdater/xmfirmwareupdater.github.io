@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 09 Jan 2020 01:10:04 +0900</pubDate>
+  <pubDate>Thu, 09 Jan 2020 19:05:47 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.3.0.PFLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Thu, 09 Jan 2020 19:05:47 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 SE (sirius) - V11.0.1.0.QEBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
@@ -30,11 +35,6 @@
     <title>Redmi 6 (cereus) - V11.0.2.0.PCGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
     <pubDate>Wed, 08 Jan 2020 19:05:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.3.0.PFLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Wed, 08 Jan 2020 13:05:44 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 8 Pro (begoniain) - V11.0.4.0.PGGINXM</title>
