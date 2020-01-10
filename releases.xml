@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 10 Jan 2020 19:12:07 +0900</pubDate>
+  <pubDate>Sat, 11 Jan 2020 01:10:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.4.0.QFKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Sat, 11 Jan 2020 01:10:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - V11.0.4.0.QFAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Sat, 11 Jan 2020 01:08:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - V11.0.7.0.QFAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Sat, 11 Jan 2020 01:06:54 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi S2/Y2 (ysl) - V11.0.2.0.PEFCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ysl</link>
@@ -90,21 +105,6 @@
     <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.1.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
     <pubDate>Fri, 10 Jan 2020 06:22:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - 20.1.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Fri, 10 Jan 2020 06:12:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 20.1.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 10 Jan 2020 06:10:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - 20.1.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Fri, 10 Jan 2020 06:08:15 +0900</pubDate>
   </item>
     </channel>
 </rss>
