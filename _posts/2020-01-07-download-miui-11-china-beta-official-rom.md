@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Announcing a new download page for MIUI 11 China Beta
-categories: roms
+categories: ROMs
 ---
 
 Many of you know already that global beta is no longer available, and China beta is still released but Xiaomi is no longer providing download links on their official website.
