@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 14 Jan 2020 01:06:29 +0900</pubDate>
+  <pubDate>Tue, 14 Jan 2020 19:06:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,12 @@
     <item>
     <title>Redmi 8 (olive) - V11.0.4.0.PCNINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Tue, 14 Jan 2020 01:06:29 +0900</pubDate>
+    <pubDate>Tue, 14 Jan 2020 19:06:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6A (cactus) - V11.0.5.0.PCBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
+    <pubDate>Tue, 14 Jan 2020 19:05:51 +0900</pubDate>
   </item>
     <item>
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.4.0.QFKEUXM</title>
@@ -100,11 +105,6 @@
     <title>Mi 6 (sagit) - 20.1.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
     <pubDate>Fri, 10 Jan 2020 06:26:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.1.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 10 Jan 2020 06:24:30 +0900</pubDate>
   </item>
     </channel>
 </rss>

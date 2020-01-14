@@ -1138,6 +1138,16 @@
   versions:
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
+- branch: stable
+  date: '2020-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/stable-14.01.2020/fw_cactus_miui_HM6AGlobal_V11.0.5.0.PCBMIXM_8e3d701303_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cactus/fw_cactus_miui_HM6AGlobal_V11.0.5.0.PCBMIXM_8e3d701303_9.0.zip
+  filename: fw_cactus_miui_HM6AGlobal_V11.0.5.0.PCBMIXM_8e3d701303_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PCBMIXM
 - branch: weekly
   date: '2020-01-09'
   downloads:
@@ -21688,6 +21698,16 @@
   versions:
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
+- branch: stable
+  date: '2020-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-14.01.2020/fw_olive_miui_OLIVEINGlobal_V11.0.4.0.PCNINXM_74cf92ae69_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVEINGlobal_V11.0.4.0.PCNINXM_74cf92ae69_9.0.zip
+  filename: fw_olive_miui_OLIVEINGlobal_V11.0.4.0.PCNINXM_74cf92ae69_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCNINXM
 - branch: stable
   date: '2020-01-13'
   downloads:
