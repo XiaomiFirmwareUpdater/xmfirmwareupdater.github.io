@@ -9,3 +9,14 @@
   versions:
     android: '10.0'
     miui: V11.0.3.0.QGICNXM
+- branch: stable
+  date: '2020-01-16'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso-stable/fw-vendor_picasso_miui_PICASSO_V11.0.7.0.QGICNXM_5706d31794_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso-stable/fw-vendor_picasso_miui_PICASSO_V11.0.7.0.QGICNXM_5706d31794_10.0.zip/download
+  filename: fw-vendor_picasso_miui_PICASSO_V11.0.7.0.QGICNXM_5706d31794_10.0.zip
+  region: China
+  size: 1.0 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.7.0.QGICNXM
