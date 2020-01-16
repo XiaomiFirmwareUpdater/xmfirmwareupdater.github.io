@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 16 Jan 2020 02:52:46 +0900</pubDate>
+  <pubDate>Thu, 16 Jan 2020 19:08:26 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 5G (picasso) - V11.0.7.0.QGICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Thu, 16 Jan 2020 19:08:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.7.0.PEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Thu, 16 Jan 2020 19:06:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2S (polaris) - V11.0.1.0.QDGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Thu, 16 Jan 2020 19:06:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.7.0.PEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Thu, 16 Jan 2020 19:06:11 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 5G (picasso) - V11.0.3.0.QGICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
@@ -85,26 +105,6 @@
     <title>Redmi Y3 (onc) - V11.0.2.0.PFLMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
     <pubDate>Fri, 10 Jan 2020 13:07:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V11.0.4.0.PCOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 10 Jan 2020 13:06:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5/Note 5 Pro (whyred) - 20.1.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Fri, 10 Jan 2020 06:48:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 20.1.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 10 Jan 2020 06:46:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 20.1.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 10 Jan 2020 06:46:25 +0900</pubDate>
   </item>
     </channel>
 </rss>

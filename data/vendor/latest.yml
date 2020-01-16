@@ -670,6 +670,17 @@
     android: '10.0'
     miui: V11.0.9.0.QGHCNXM
 - branch: stable
+  date: '2020-01-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso-stable/fw-vendor_picasso_miui_PICASSO_V11.0.3.0.QGICNXM_9dc5e5a16b_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso-stable/fw-vendor_picasso_miui_PICASSO_V11.0.3.0.QGICNXM_9dc5e5a16b_10.0.zip/download
+  filename: fw-vendor_picasso_miui_PICASSO_V11.0.3.0.QGICNXM_9dc5e5a16b_10.0.zip
+  region: China
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QGICNXM
+- branch: stable
   date: '2019-12-23'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.5.0.PCMMIXM_d87548dd5a_9.0.zip
@@ -988,17 +999,6 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PEIMIXM
-- branch: stable
-  date: '2019-11-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred-stable/fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred-stable/fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip/download
-  filename: fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip
-  region: China
-  size: 328.6 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.5.0.PEICNXM
 - branch: stable
   date: '2019-11-07'
   downloads:

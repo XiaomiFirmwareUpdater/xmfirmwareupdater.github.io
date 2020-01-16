@@ -10,17 +10,6 @@
     android: '9.0'
     miui: V11.0.3.0.PEIMIXM
 - branch: stable
-  date: '2019-11-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred-stable/fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred-stable/fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip/download
-  filename: fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip
-  region: China
-  size: 328.6 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.5.0.PEICNXM
-- branch: stable
   date: '2019-11-07'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_ru_global-stable/fw-vendor_whyred_miui_HMNote5RUGlobal_V11.0.1.0.PEIRUXM_d5db2891d8_9.0.zip

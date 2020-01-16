@@ -20628,6 +20628,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-01-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-16.01.2020/fw_nitrogen_miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/nitrogen/fw_nitrogen_miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip
+  filename: fw_nitrogen_miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.7.0.PEDMIXM
 - branch: weekly
   date: '2020-01-09'
   downloads:
@@ -24649,6 +24659,16 @@
     android: '10.0'
     miui: V11.0.5.0.QGHCNXM
 - branch: stable
+  date: '2020-01-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-16.01.2020/fw_picasso_miui_PICASSO_V11.0.7.0.QGICNXM_5706d31794_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.0.7.0.QGICNXM_5706d31794_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.0.7.0.QGICNXM_5706d31794_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.7.0.QGICNXM
+- branch: stable
   date: '2020-01-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-15.01.2020/fw_picasso_miui_PICASSO_V11.0.3.0.QGICNXM_9dc5e5a16b_10.0.zip
@@ -25798,6 +25818,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: stable
+  date: '2020-01-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-16.01.2020/fw_polaris_miui_MIMIX2S_V11.0.1.0.QDGCNXM_fa95fc866d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/polaris/fw_polaris_miui_MIMIX2S_V11.0.1.0.QDGCNXM_fa95fc866d_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V11.0.1.0.QDGCNXM_fa95fc866d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QDGCNXM
 - branch: weekly
   date: '2020-01-09'
   downloads:
