@@ -69,15 +69,15 @@
     android: '10.0'
     miui: V11.0.1.0.QGGCNXM
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-09.01.2020/fw_begonia_miui_BEGONIA_20.1.9_e25805a1f5_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/begonia/fw_begonia_miui_BEGONIA_20.1.9_e25805a1f5_10.0.zip
-  filename: fw_begonia_miui_BEGONIA_20.1.9_e25805a1f5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-17.01.2020/fw_begonia_miui_BEGONIA_20.1.16_b0c1d700fc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/begonia/fw_begonia_miui_BEGONIA_20.1.16_b0c1d700fc_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_20.1.16_b0c1d700fc_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2019-12-26'
   downloads:
@@ -239,15 +239,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-09.01.2020/fw_cepheus_miui_CEPHEUS_20.1.9_a7da97bfaa_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/cepheus/fw_cepheus_miui_CEPHEUS_20.1.9_a7da97bfaa_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_20.1.9_a7da97bfaa_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-17.01.2020/fw_cepheus_miui_CEPHEUS_20.1.16_7c2d72fbd5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/cepheus/fw_cepheus_miui_CEPHEUS_20.1.16_7c2d72fbd5_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.1.16_7c2d72fbd5_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2020-01-10'
   downloads:
@@ -319,15 +319,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-09.01.2020/fw_chiron_miui_MIMIX2_20.1.9_f7e5694dbd_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/chiron/fw_chiron_miui_MIMIX2_20.1.9_f7e5694dbd_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.1.9_f7e5694dbd_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-17.01.2020/fw_chiron_miui_MIMIX2_20.1.16_989bfafa58_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/chiron/fw_chiron_miui_MIMIX2_20.1.16_989bfafa58_9.0.zip
+  filename: fw_chiron_miui_MIMIX2_20.1.16_989bfafa58_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2019-07-15'
   downloads:
@@ -359,15 +359,15 @@
     android: '9.0'
     miui: V11.0.3.0.PFXCNXM
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-09.01.2020/fw_crux_miui_CRUX_20.1.9_6e0b727269_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/crux/fw_crux_miui_CRUX_20.1.9_6e0b727269_10.0.zip
-  filename: fw_crux_miui_CRUX_20.1.9_6e0b727269_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-17.01.2020/fw_crux_miui_CRUX_20.1.16_e18e82ea01_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/crux/fw_crux_miui_CRUX_20.1.16_e18e82ea01_10.0.zip
+  filename: fw_crux_miui_CRUX_20.1.16_e18e82ea01_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2019-11-04'
   downloads:

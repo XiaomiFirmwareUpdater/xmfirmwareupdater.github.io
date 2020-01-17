@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 17 Jan 2020 01:06:21 +0900</pubDate>
+  <pubDate>Fri, 17 Jan 2020 15:39:29 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Fri, 17 Jan 2020 15:39:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2 (chiron) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
+    <pubDate>Fri, 17 Jan 2020 15:37:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Fri, 17 Jan 2020 15:35:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Fri, 17 Jan 2020 15:33:44 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8 (olive) - V11.0.4.0.PCNMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
@@ -85,26 +105,6 @@
     <title>Mi 9 (cepheus) - V11.0.7.0.QFAEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
     <pubDate>Sat, 11 Jan 2020 01:06:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi S2/Y2 (ysl) - V11.0.2.0.PEFCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ysl</link>
-    <pubDate>Fri, 10 Jan 2020 19:12:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.3.0.PFLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Fri, 10 Jan 2020 19:10:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - V11.0.1.0.QECCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Fri, 10 Jan 2020 19:09:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 (dipper) - V11.0.6.0.QEACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
-    <pubDate>Fri, 10 Jan 2020 19:06:17 +0900</pubDate>
   </item>
     </channel>
 </rss>
