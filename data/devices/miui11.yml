@@ -1002,6 +1002,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: nitrogen
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_MIMAX3_20.1.16_ae1fd5199b_10.0.zip
+  name: Mi Max 3
+  version: 20.1.16
+- android: '10.0'
+  codename: nitrogen
   date: '2020-01-09'
   download: https://bigota.d.miui.com/20.1.9/miui_MIMAX3_20.1.9_b5f304f3cf_10.0.zip
   name: Mi Max 3
@@ -1072,6 +1078,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_MIMAX2_9.10.10_049afb8889_7.1.zip
   name: Mi Max 2
   version: 9.10.10
+- android: '10.0'
+  codename: perseus
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_MIMIX3_20.1.16_7597b522e8_10.0.zip
+  name: Mi MIX 3
+  version: 20.1.16
 - android: '10.0'
   codename: perseus
   date: '2020-01-09'
@@ -1152,6 +1164,12 @@
   version: 9.10.16
 - android: '10.0'
   codename: phoenix
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_PHOENIX_20.1.16_46d37d72db_10.0.zip
+  name: Redmi K30 4G
+  version: 20.1.16
+- android: '10.0'
+  codename: phoenix
   date: '2020-01-09'
   download: https://bigota.d.miui.com/20.1.9/miui_PHOENIX_20.1.9_85947a0171_10.0.zip
   name: Redmi K30 4G
@@ -1168,6 +1186,12 @@
   download: https://bigota.d.miui.com/9.12.19/miui_PHOENIX_9.12.19_71d8b8c82b_10.0.zip
   name: Redmi K30 4G
   version: 9.12.19
+- android: '10.0'
+  codename: platina
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_MI8Lite_20.1.16_e08f975a74_10.0.zip
+  name: Mi 8 Lite
+  version: 20.1.16
 - android: '10.0'
   codename: platina
   date: '2020-01-09'

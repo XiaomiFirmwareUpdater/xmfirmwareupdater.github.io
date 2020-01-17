@@ -1179,15 +1179,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-09.01.2020/fw_nitrogen_miui_MIMAX3_20.1.9_b5f304f3cf_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/nitrogen/fw_nitrogen_miui_MIMAX3_20.1.9_b5f304f3cf_10.0.zip
-  filename: fw_nitrogen_miui_MIMAX3_20.1.9_b5f304f3cf_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-17.01.2020/fw_nitrogen_miui_MIMAX3_20.1.16_ae1fd5199b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/nitrogen/fw_nitrogen_miui_MIMAX3_20.1.16_ae1fd5199b_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_20.1.16_ae1fd5199b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2020-01-16'
   downloads:
@@ -1379,15 +1379,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-09.01.2020/fw_perseus_miui_MIMIX3_20.1.9_a66e04cc83_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/perseus/fw_perseus_miui_MIMIX3_20.1.9_a66e04cc83_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_20.1.9_a66e04cc83_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-17.01.2020/fw_perseus_miui_MIMIX3_20.1.16_7597b522e8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/perseus/fw_perseus_miui_MIMIX3_20.1.16_7597b522e8_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.1.16_7597b522e8_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2019-12-26'
   downloads:
@@ -1399,15 +1399,15 @@
     android: '10.0'
     miui: V11.0.9.0.QGHCNXM
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-09.01.2020/fw_phoenix_miui_PHOENIX_20.1.9_85947a0171_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/phoenix/fw_phoenix_miui_PHOENIX_20.1.9_85947a0171_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.1.9_85947a0171_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-17.01.2020/fw_phoenix_miui_PHOENIX_20.1.16_46d37d72db_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/phoenix/fw_phoenix_miui_PHOENIX_20.1.16_46d37d72db_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.1.16_46d37d72db_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2020-01-16'
   downloads:
@@ -1489,15 +1489,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-09.01.2020/fw_platina_miui_MI8Lite_20.1.9_6305b2ae20_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/platina/fw_platina_miui_MI8Lite_20.1.9_6305b2ae20_10.0.zip
-  filename: fw_platina_miui_MI8Lite_20.1.9_6305b2ae20_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-17.01.2020/fw_platina_miui_MI8Lite_20.1.16_e08f975a74_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/platina/fw_platina_miui_MI8Lite_20.1.16_e08f975a74_10.0.zip
+  filename: fw_platina_miui_MI8Lite_20.1.16_e08f975a74_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2019-11-05'
   downloads:
