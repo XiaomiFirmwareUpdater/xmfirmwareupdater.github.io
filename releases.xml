@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 17 Jan 2020 16:36:06 +0900</pubDate>
+  <pubDate>Fri, 17 Jan 2020 17:02:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 6 (sagit) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
+    <pubDate>Fri, 17 Jan 2020 17:02:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 17 Jan 2020 17:01:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Fri, 17 Jan 2020 16:59:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2S (polaris) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Fri, 17 Jan 2020 16:57:00 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 4G (phoenix) - 20.1.16</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
@@ -85,26 +105,6 @@
     <title>Mi 9 (cepheus) - 20.1.16</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
     <pubDate>Fri, 17 Jan 2020 15:35:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 20.1.16</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 17 Jan 2020 15:33:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.4.0.PCNMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Fri, 17 Jan 2020 01:06:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G (picasso) - V11.0.7.0.QGICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Thu, 16 Jan 2020 19:08:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - V11.0.7.0.PEDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Thu, 16 Jan 2020 19:06:31 +0900</pubDate>
   </item>
     </channel>
 </rss>

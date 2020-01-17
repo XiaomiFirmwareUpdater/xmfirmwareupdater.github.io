@@ -25978,6 +25978,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: weekly
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-17.01.2020/fw_polaris_miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/polaris/fw_polaris_miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.16
 - branch: stable
   date: '2020-01-16'
   downloads:
@@ -27859,6 +27869,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-17.01.2020/fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/pyxis/fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.16
+- branch: weekly
   date: '2020-01-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-09.01.2020/fw_pyxis_miui_PYXIS_20.1.9_211c7e7e97_10.0.zip
@@ -28108,6 +28128,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: weekly
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-17.01.2020/fw_raphael_miui_RAPHAEL_20.1.16_47b08edc1b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/raphael/fw_raphael_miui_RAPHAEL_20.1.16_47b08edc1b_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.1.16_47b08edc1b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.16
 - branch: stable
   date: '2020-01-10'
   downloads:
@@ -31779,6 +31809,16 @@
     android: '7.1'
     miui: 8.3.29
 - branch: weekly
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-17.01.2020/fw_sagit_miui_MI6_20.1.16_e08de085ec_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/sagit/fw_sagit_miui_MI6_20.1.16_e08de085ec_9.0.zip
+  filename: fw_sagit_miui_MI6_20.1.16_e08de085ec_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.1.16
+- branch: weekly
   date: '2020-01-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-09.01.2020/fw_sagit_miui_MI6_20.1.9_478bfa515a_9.0.zip
@@ -33212,36 +33252,6 @@
   date: '2018-04-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-8c35cf2341bfac52ddca/fw_sagit_miui_MI6_8.4.26_5357868bf1_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/sagit/fw_sagit_miui_MI6_8.4.26_5357868bf1_8.0.zip
-  filename: fw_sagit_miui_MI6_8.4.26_5357868bf1_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.4.26
-- branch: weekly
-  date: '2018-04-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-e5b6c34fa2a3cc7891a8/fw_sagit_miui_MI6Global_8.4.19_49003fef39_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/sagit/fw_sagit_miui_MI6Global_8.4.19_49003fef39_8.0.zip
-  filename: fw_sagit_miui_MI6Global_8.4.19_49003fef39_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.4.19
-- branch: weekly
-  date: '2018-04-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-e5b6c34fa2a3cc7891a8/fw_sagit_miui_MI6_8.4.19_418406941a_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/sagit/fw_sagit_miui_MI6_8.4.19_418406941a_8.0.zip
-  filename: fw_sagit_miui_MI6_8.4.19_418406941a_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.4.19
-- branch: weekly
-  date: '2018-04-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-e5b6c34fa2a3cc7891a8/fw_sagit_miui_MI6_8.4.26_5357868bf1_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/sagit/fw_sagit_miui_MI6_8.4.26_5357868bf1_8.0.zip
   filename: fw_sagit_miui_MI6_8.4.26_5357868bf1_8.0.zip
   region: China

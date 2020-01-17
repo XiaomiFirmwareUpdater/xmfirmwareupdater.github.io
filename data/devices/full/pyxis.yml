@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-17.01.2020/fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/pyxis/fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.16
+- branch: weekly
   date: '2020-01-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-09.01.2020/fw_pyxis_miui_PYXIS_20.1.9_211c7e7e97_10.0.zip

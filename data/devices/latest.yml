@@ -1529,15 +1529,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-09.01.2020/fw_polaris_miui_MIMIX2S_20.1.9_f78846848c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/polaris/fw_polaris_miui_MIMIX2S_20.1.9_f78846848c_10.0.zip
-  filename: fw_polaris_miui_MIMIX2S_20.1.9_f78846848c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-17.01.2020/fw_polaris_miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/polaris/fw_polaris_miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2019-05-21'
   downloads:
@@ -1579,15 +1579,15 @@
     android: '9.0'
     miui: V11.3.3.0.PFCCNXM
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-09.01.2020/fw_pyxis_miui_PYXIS_20.1.9_211c7e7e97_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/pyxis/fw_pyxis_miui_PYXIS_20.1.9_211c7e7e97_10.0.zip
-  filename: fw_pyxis_miui_PYXIS_20.1.9_211c7e7e97_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-17.01.2020/fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/pyxis/fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2019-12-25'
   downloads:
@@ -1619,15 +1619,15 @@
     android: '10.0'
     miui: V11.0.5.0.QFKCNXM
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-09.01.2020/fw_raphael_miui_RAPHAEL_20.1.9_4cb253c5d2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/raphael/fw_raphael_miui_RAPHAEL_20.1.9_4cb253c5d2_10.0.zip
-  filename: fw_raphael_miui_RAPHAEL_20.1.9_4cb253c5d2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-17.01.2020/fw_raphael_miui_RAPHAEL_20.1.16_47b08edc1b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/raphael/fw_raphael_miui_RAPHAEL_20.1.16_47b08edc1b_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.1.16_47b08edc1b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2020-01-10'
   downloads:
@@ -1799,15 +1799,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-09.01.2020/fw_sagit_miui_MI6_20.1.9_478bfa515a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/sagit/fw_sagit_miui_MI6_20.1.9_478bfa515a_9.0.zip
-  filename: fw_sagit_miui_MI6_20.1.9_478bfa515a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-17.01.2020/fw_sagit_miui_MI6_20.1.16_e08de085ec_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/sagit/fw_sagit_miui_MI6_20.1.16_e08de085ec_9.0.zip
+  filename: fw_sagit_miui_MI6_20.1.16_e08de085ec_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 20.1.9
+    miui: 20.1.16
 - branch: stable
   date: '2019-07-29'
   downloads:

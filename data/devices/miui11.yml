@@ -1260,6 +1260,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: polaris
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
+  name: Mi MIX 2S
+  version: 20.1.16
+- android: '10.0'
+  codename: polaris
   date: '2020-01-09'
   download: https://bigota.d.miui.com/20.1.9/miui_MIMIX2S_20.1.9_f78846848c_10.0.zip
   name: Mi MIX 2S
@@ -1326,6 +1332,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: pyxis
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.1.16
+- android: '10.0'
+  codename: pyxis
   date: '2020-01-09'
   download: https://bigota.d.miui.com/20.1.9/miui_PYXIS_20.1.9_211c7e7e97_10.0.zip
   name: Mi CC 9/Mi 9 Lite
@@ -1378,6 +1390,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_PYXIS_9.10.17_b91ea52a15_9.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 9.10.17
+- android: '10.0'
+  codename: raphael
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_RAPHAEL_20.1.16_47b08edc1b_10.0.zip
+  name: Redmi K20 Pro/Mi 9T Pro
+  version: 20.1.16
 - android: '10.0'
   codename: raphael
   date: '2020-01-09'
@@ -1462,6 +1480,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_HM5_9.10.10_7acc7a29d1_8.1.zip
   name: Redmi 5
   version: 9.10.10
+- android: '9.0'
+  codename: sagit
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_MI6_20.1.16_e08de085ec_9.0.zip
+  name: Mi 6
+  version: 20.1.16
 - android: '9.0'
   codename: sagit
   date: '2020-01-09'
