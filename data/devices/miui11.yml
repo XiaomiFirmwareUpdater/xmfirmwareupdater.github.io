@@ -408,6 +408,12 @@
   version: 9.10.31
 - android: '10.0'
   codename: davinci
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_DAVINCI_20.1.16_d66bc45879_10.0.zip
+  name: Redmi K20/Mi 9T
+  version: 20.1.16
+- android: '10.0'
+  codename: davinci
   date: '2020-01-09'
   download: https://bigota.d.miui.com/20.1.9/miui_DAVINCI_20.1.9_c0df195b92_10.0.zip
   name: Redmi K20/Mi 9T
@@ -466,6 +472,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_DAVINCI_9.10.17_22e64b63fe_10.0.zip
   name: Redmi K20/Mi 9T
   version: 9.10.17
+- android: '10.0'
+  codename: dipper
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_MI8_20.1.16_9426ed2616_10.0.zip
+  name: Mi 8
+  version: 20.1.16
 - android: '10.0'
   codename: dipper
   date: '2020-01-09'
@@ -546,6 +558,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: equuleus
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_MI8UD_20.1.16_c055366796_10.0.zip
+  name: Mi 8 Pro
+  version: 20.1.16
+- android: '10.0'
+  codename: equuleus
   date: '2020-01-09'
   download: https://bigota.d.miui.com/20.1.9/miui_MI8UD_20.1.9_8df2f6fa89_10.0.zip
   name: Mi 8 Pro
@@ -616,6 +634,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_MI8UD_9.10.17_9ce281aeed_10.0.zip
   name: Mi 8 Pro
   version: 9.10.17
+- android: '9.0'
+  codename: ginkgo
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_GINKGO_20.1.16_1b7294bdbb_9.0.zip
+  name: Redmi Note 8
+  version: 20.1.16
 - android: '9.0'
   codename: ginkgo
   date: '2020-01-09'
