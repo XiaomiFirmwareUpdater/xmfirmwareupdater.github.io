@@ -516,16 +516,16 @@
     android: '9.0'
     miui: V11.0.2.0.PCNEUXM
 - branch: stable
-  date: '2020-01-13'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.4.0.PCNINXM_74cf92ae69_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.4.0.PCNINXM_74cf92ae69_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.4.0.PCNINXM_74cf92ae69_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.5.0.PCNINXM_c29bfe148e_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.5.0.PCNINXM_c29bfe148e_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.5.0.PCNINXM_c29bfe148e_9.0.zip
   region: India
-  size: 369.1 MB
+  size: 368.8 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PCNINXM
+    miui: V11.0.5.0.PCNINXM
 - branch: stable
   date: '2019-12-26'
   downloads:
@@ -934,16 +934,16 @@
     android: '9.0'
     miui: V11.0.12.0.PFDEUXM
 - branch: stable
-  date: '2019-11-27'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_ru_global-stable/fw-vendor_tucana_miui_TUCANARUGlobal_V11.0.3.0.PFDRUXM_cd59013df3_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_ru_global-stable/fw-vendor_tucana_miui_TUCANARUGlobal_V11.0.3.0.PFDRUXM_cd59013df3_9.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANARUGlobal_V11.0.3.0.PFDRUXM_cd59013df3_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_ru_global-stable/fw-vendor_tucana_miui_TUCANARUGlobal_V11.0.6.0.PFDRUXM_f5b4a667c1_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_ru_global-stable/fw-vendor_tucana_miui_TUCANARUGlobal_V11.0.6.0.PFDRUXM_f5b4a667c1_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANARUGlobal_V11.0.6.0.PFDRUXM_f5b4a667c1_9.0.zip
   region: Russia
-  size: 900.7 MB
+  size: 910.6 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PFDRUXM
+    miui: V11.0.6.0.PFDRUXM
 - branch: stable
   date: '2019-12-31'
   downloads:
