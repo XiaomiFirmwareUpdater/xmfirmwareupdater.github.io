@@ -36929,6 +36929,16 @@
     android: '7.0'
     miui: 8.3.26
 - branch: weekly
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-17.01.2020/fw_sirius_miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/sirius/fw_sirius_miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip
+  filename: fw_sirius_miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.16
+- branch: weekly
   date: '2020-01-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-09.01.2020/fw_sirius_miui_MI8SE_20.1.9_87dde6f09d_10.0.zip
@@ -41339,6 +41349,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-17.01.2020/fw_ursa_miui_MI8Explorer_20.1.16_3231ca6229_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/ursa/fw_ursa_miui_MI8Explorer_20.1.16_3231ca6229_10.0.zip
+  filename: fw_ursa_miui_MI8Explorer_20.1.16_3231ca6229_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.16
+- branch: weekly
   date: '2020-01-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-09.01.2020/fw_ursa_miui_MI8Explorer_20.1.9_2fd1c4db45_10.0.zip
@@ -43539,6 +43559,16 @@
     android: '9.0'
     miui: V10.2.5.0.PFHCNXM
 - branch: weekly
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-17.01.2020/fw_wayne_miui_MI6X_20.1.16_17a4a7b7e2_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/wayne/fw_wayne_miui_MI6X_20.1.16_17a4a7b7e2_9.0.zip
+  filename: fw_wayne_miui_MI6X_20.1.16_17a4a7b7e2_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.1.16
+- branch: weekly
   date: '2020-01-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-09.01.2020/fw_wayne_miui_MI6X_20.1.9_fb65eb2b00_9.0.zip
@@ -44388,6 +44418,16 @@
   versions:
     android: '8.1'
     miui: V9.5.7.0.ODCCNFA
+- branch: weekly
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-17.01.2020/fw_whyred_miui_HMNote5_20.1.16_0c91f722ae_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/whyred/fw_whyred_miui_HMNote5_20.1.16_0c91f722ae_9.0.zip
+  filename: fw_whyred_miui_HMNote5_20.1.16_0c91f722ae_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.1.16
 - branch: weekly
   date: '2020-01-09'
   downloads:
@@ -45668,26 +45708,6 @@
   versions:
     android: '8.1'
     miui: 8.8.9
-- branch: weekly
-  date: '2018-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-06.08.2018/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.26_d7fb438aef_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/whyred/fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.26_d7fb438aef_8.1.zip
-  filename: fw_whyred_miui_HMNote5HMNote5ProGlobal_8.7.26_d7fb438aef_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: 8.7.26
-- branch: weekly
-  date: '2018-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-06.08.2018/fw_whyred_miui_HMNote5_8.8.3_4fcc8d3b79_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/whyred/fw_whyred_miui_HMNote5_8.8.3_4fcc8d3b79_8.1.zip
-  filename: fw_whyred_miui_HMNote5_8.8.3_4fcc8d3b79_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.8.3
 - branch: stable
   date: '2020-01-06'
   downloads:

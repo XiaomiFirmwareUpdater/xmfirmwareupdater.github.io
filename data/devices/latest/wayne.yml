@@ -9,12 +9,12 @@
     android: '9.0'
     miui: V11.0.3.0.PDCCNXM
 - branch: weekly
-  date: '2020-01-09'
+  date: '2020-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-09.01.2020/fw_wayne_miui_MI6X_20.1.9_fb65eb2b00_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/wayne/fw_wayne_miui_MI6X_20.1.9_fb65eb2b00_9.0.zip
-  filename: fw_wayne_miui_MI6X_20.1.9_fb65eb2b00_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-17.01.2020/fw_wayne_miui_MI6X_20.1.16_17a4a7b7e2_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/wayne/fw_wayne_miui_MI6X_20.1.16_17a4a7b7e2_9.0.zip
+  filename: fw_wayne_miui_MI6X_20.1.16_17a4a7b7e2_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 20.1.9
+    miui: 20.1.16
