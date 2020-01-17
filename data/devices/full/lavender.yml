@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-17.01.2020/fw_lavender_miui_LAVENDER_20.1.16_d8ee8441c7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/lavender/fw_lavender_miui_LAVENDER_20.1.16_d8ee8441c7_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_20.1.16_d8ee8441c7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.16
+- branch: weekly
   date: '2020-01-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-09.01.2020/fw_lavender_miui_LAVENDER_20.1.9_c2586b57f6_10.0.zip

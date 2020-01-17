@@ -666,6 +666,12 @@
   version: 9.12.12
 - android: '10.0'
   codename: grus
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_GRUS_20.1.16_eb5fe1d5a0_10.0.zip
+  name: Mi 9 SE
+  version: 20.1.16
+- android: '10.0'
+  codename: grus
   date: '2020-01-09'
   download: https://bigota.d.miui.com/20.1.9/miui_GRUS_20.1.9_5649488887_10.0.zip
   name: Mi 9 SE
@@ -742,6 +748,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_GRUS_9.10.17_009316e931_10.0.zip
   name: Mi 9 SE
   version: 9.10.17
+- android: '9.0'
+  codename: jason
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_MINote3_20.1.16_2cc7a65edc_9.0.zip
+  name: Mi Note 3
+  version: 20.1.16
 - android: '9.0'
   codename: jason
   date: '2020-01-09'
@@ -822,6 +834,12 @@
   version: 9.10.17
 - android: '9.0'
   codename: laurus
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_LAURUS_20.1.16_77850857d0_9.0.zip
+  name: Mi CC 9e
+  version: 20.1.16
+- android: '9.0'
+  codename: laurus
   date: '2020-01-09'
   download: https://bigota.d.miui.com/20.1.9/miui_LAURUS_20.1.9_e75bbb2df8_9.0.zip
   name: Mi CC 9e
@@ -862,6 +880,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_LAURUS_9.10.17_6c4b9bf0a8_9.0.zip
   name: Mi CC 9e
   version: 9.10.17
+- android: '10.0'
+  codename: lavender
+  date: '2020-01-17'
+  download: https://bigota.d.miui.com/20.1.16/miui_LAVENDER_20.1.16_d8ee8441c7_10.0.zip
+  name: Redmi Note 7/7S
+  version: 20.1.16
 - android: '10.0'
   codename: lavender
   date: '2020-01-09'

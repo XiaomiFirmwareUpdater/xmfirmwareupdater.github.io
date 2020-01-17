@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 17 Jan 2020 15:55:29 +0900</pubDate>
+  <pubDate>Fri, 17 Jan 2020 16:13:13 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9e (laurus) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
+    <pubDate>Fri, 17 Jan 2020 16:13:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Fri, 17 Jan 2020 16:11:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Note 3 (jason) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
+    <pubDate>Fri, 17 Jan 2020 16:09:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 20.1.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 17 Jan 2020 16:08:06 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 (ginkgo) - 20.1.16</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
@@ -85,26 +105,6 @@
     <title>Redmi 8 (olive) - V11.0.7.0.PCNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
     <pubDate>Thu, 16 Jan 2020 01:08:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V11.0.6.0.PGGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Thu, 16 Jan 2020 01:06:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - V11.0.8.0.PDTMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Wed, 15 Jan 2020 19:06:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.5.0.PCPINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Wed, 15 Jan 2020 01:06:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.4.0.PCNINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Tue, 14 Jan 2020 19:06:01 +0900</pubDate>
   </item>
     </channel>
 </rss>
