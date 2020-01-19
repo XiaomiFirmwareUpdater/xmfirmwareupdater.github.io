@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 18 Jan 2020 19:05:47 +0900</pubDate>
+  <pubDate>Sun, 19 Jan 2020 19:09:10 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 5 (rosy) - V11.0.2.0.ODAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosy</link>
+    <pubDate>Sun, 19 Jan 2020 19:09:10 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.3.0.PFLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - 20.1.16</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Fri, 17 Jan 2020 16:11:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 3 (jason) - 20.1.16</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
-    <pubDate>Fri, 17 Jan 2020 16:09:43 +0900</pubDate>
   </item>
     </channel>
 </rss>

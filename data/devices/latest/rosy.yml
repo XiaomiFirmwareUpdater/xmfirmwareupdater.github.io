@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2019-11-06'
+  date: '2020-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/stable-06.11.2019/fw_rosy_miui_HM5Global_V11.0.1.0.ODAMIXM_54e03286b9_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/rosy/fw_rosy_miui_HM5Global_V11.0.1.0.ODAMIXM_54e03286b9_8.1.zip
-  filename: fw_rosy_miui_HM5Global_V11.0.1.0.ODAMIXM_54e03286b9_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rosy/releases/download/stable-19.01.2020/fw_rosy_miui_HM5Global_V11.0.2.0.ODAMIXM_25c20fae94_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/rosy/fw_rosy_miui_HM5Global_V11.0.2.0.ODAMIXM_25c20fae94_8.1.zip
+  filename: fw_rosy_miui_HM5Global_V11.0.2.0.ODAMIXM_25c20fae94_8.1.zip
   region: Global
   versions:
     android: '8.1'
-    miui: V11.0.1.0.ODAMIXM
+    miui: V11.0.2.0.ODAMIXM
 - branch: stable
   date: '2019-12-25'
   downloads:
