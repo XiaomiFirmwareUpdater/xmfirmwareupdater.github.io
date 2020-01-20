@@ -6378,6 +6378,16 @@
   versions:
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
+- branch: stable
+  date: '2020-01-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-20.01.2020/fw_davinci_miui_DAVINCIGlobal_V11.0.4.0.QFJMIXM_f1cc1d4a69_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/davinci/fw_davinci_miui_DAVINCIGlobal_V11.0.4.0.QFJMIXM_f1cc1d4a69_10.0.zip
+  filename: fw_davinci_miui_DAVINCIGlobal_V11.0.4.0.QFJMIXM_f1cc1d4a69_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QFJMIXM
 - branch: weekly
   date: '2020-01-17'
   downloads:
@@ -27918,6 +27928,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-01-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-20.01.2020/fw_pyxis_miui_PYXIS_V11.3.4.0.PFCCNXM_697726d4e2_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXIS_V11.3.4.0.PFCCNXM_697726d4e2_9.0.zip
+  filename: fw_pyxis_miui_PYXIS_V11.3.4.0.PFCCNXM_697726d4e2_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.3.4.0.PFCCNXM
 - branch: weekly
   date: '2020-01-17'
   downloads:
@@ -42138,6 +42158,16 @@
   versions:
     android: '8.1'
     miui: 8.8.30
+- branch: stable
+  date: '2020-01-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/stable-20.01.2020/fw_vela_miui_VELA_V11.3.3.0.PFECNXM_562be16b81_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vela/fw_vela_miui_VELA_V11.3.3.0.PFECNXM_562be16b81_9.0.zip
+  filename: fw_vela_miui_VELA_V11.3.3.0.PFECNXM_562be16b81_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.3.3.0.PFECNXM
 - branch: weekly
   date: '2019-12-27'
   downloads:
