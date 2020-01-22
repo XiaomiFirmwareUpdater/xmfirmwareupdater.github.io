@@ -21859,6 +21859,16 @@
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
 - branch: stable
+  date: '2020-01-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-22.01.2020/fw_olive_miui_OLIVEGlobal_V11.0.6.0.PCNMIXM_e905bad490_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVEGlobal_V11.0.6.0.PCNMIXM_e905bad490_9.0.zip
+  filename: fw_olive_miui_OLIVEGlobal_V11.0.6.0.PCNMIXM_e905bad490_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PCNMIXM
+- branch: stable
   date: '2020-01-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-17.01.2020/fw_olive_miui_OLIVEINGlobal_V11.0.5.0.PCNINXM_c29bfe148e_9.0.zip
@@ -22038,6 +22048,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
+- branch: stable
+  date: '2020-01-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-22.01.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.4.0.PCPMIXM_dcbb289272_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.4.0.PCPMIXM_dcbb289272_9.0.zip
+  filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.4.0.PCPMIXM_dcbb289272_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCPMIXM
 - branch: stable
   date: '2020-01-15'
   downloads:
