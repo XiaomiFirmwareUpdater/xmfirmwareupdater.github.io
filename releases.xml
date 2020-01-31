@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 22 Jan 2020 19:06:54 +0900</pubDate>
+  <pubDate>Fri, 31 Jan 2020 19:07:35 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 2S (polaris) - V11.0.3.0.QDGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Fri, 31 Jan 2020 19:07:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCOPHONE F1 (beryllium) - V11.0.4.0.QEJMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/beryllium</link>
+    <pubDate>Fri, 31 Jan 2020 19:05:52 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8A (olivelite) - V11.0.4.0.PCPMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
@@ -95,16 +105,6 @@
     <title>Mi 6 (sagit) - 20.1.16</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
     <pubDate>Fri, 17 Jan 2020 17:02:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.1.16</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 17 Jan 2020 17:01:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.1.16</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 17 Jan 2020 16:59:04 +0900</pubDate>
   </item>
     </channel>
 </rss>

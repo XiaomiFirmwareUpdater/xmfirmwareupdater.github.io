@@ -99,15 +99,15 @@
     android: '9.0'
     miui: V11.0.4.0.PGGINXM
 - branch: stable
-  date: '2019-11-01'
+  date: '2020-01-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-01.11.2019/fw_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/beryllium/fw_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
-  filename: fw_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-31.01.2020/fw_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/beryllium/fw_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip
+  filename: fw_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip
   region: Global
   versions:
-    android: '9.0'
-    miui: V11.0.5.0.PEJMIXM
+    android: '10.0'
+    miui: V11.0.4.0.QEJMIXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1509,15 +1509,15 @@
     android: '10.0'
     miui: 20.1.16
 - branch: stable
-  date: '2019-11-05'
+  date: '2020-01-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-05.11.2019/fw_polaris_miui_MIMIX2SGlobal_V11.0.4.0.PDGMIXM_a8d3e1096f_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/polaris/fw_polaris_miui_MIMIX2SGlobal_V11.0.4.0.PDGMIXM_a8d3e1096f_9.0.zip
-  filename: fw_polaris_miui_MIMIX2SGlobal_V11.0.4.0.PDGMIXM_a8d3e1096f_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-31.01.2020/fw_polaris_miui_MIMIX2SGlobal_V11.0.3.0.QDGMIXM_f076a2ced4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/polaris/fw_polaris_miui_MIMIX2SGlobal_V11.0.3.0.QDGMIXM_f076a2ced4_10.0.zip
+  filename: fw_polaris_miui_MIMIX2SGlobal_V11.0.3.0.QDGMIXM_f076a2ced4_10.0.zip
   region: Global
   versions:
-    android: '9.0'
-    miui: V11.0.4.0.PDGMIXM
+    android: '10.0'
+    miui: V11.0.3.0.QDGMIXM
 - branch: stable
   date: '2020-01-16'
   downloads:
