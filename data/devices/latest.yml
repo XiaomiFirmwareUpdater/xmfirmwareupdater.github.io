@@ -1389,15 +1389,15 @@
     android: '10.0'
     miui: 20.1.16
 - branch: stable
-  date: '2019-12-26'
+  date: '2020-02-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/stable-26.12.2019/fw_phoenix_miui_PHOENIX_V11.0.9.0.QGHCNXM_d33005d5de_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenix/fw_phoenix_miui_PHOENIX_V11.0.9.0.QGHCNXM_d33005d5de_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V11.0.9.0.QGHCNXM_d33005d5de_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/stable-03.02.2020/fw_phoenix_miui_PHOENIX_V11.0.10.0.QGHCNXM_2e488a8637_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenix/fw_phoenix_miui_PHOENIX_V11.0.10.0.QGHCNXM_2e488a8637_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V11.0.10.0.QGHCNXM_2e488a8637_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.9.0.QGHCNXM
+    miui: V11.0.10.0.QGHCNXM
 - branch: weekly
   date: '2020-01-17'
   downloads:
