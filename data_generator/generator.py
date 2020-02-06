@@ -2,7 +2,7 @@
 """XiaomiFirmwareUpdater website data generator"""
 
 from os import environ
-import json
+# import json
 import re
 import xml.etree.ElementTree as eT
 import yaml
@@ -121,8 +121,8 @@ def load_releases():
 
         def filter_latest(branch_, region_):
             try:
-                latest.append([i for i in info if i['branch'] == branch_
-                               and i['region'] == region_][0])
+                latest.append([j for j in info if j['branch'] == branch_
+                               and j['region'] == region_][0])
             except IndexError:
                 pass
 
@@ -339,8 +339,14 @@ def load_vendor_devices():
     Load mi-vendor-updater devices from GitHub repo
     """
     codenames = set()
-    data = get(f'https://api.github.com/repos/TryHardDood/mi-vendor-updater/'
-               f'releases?per_page=200&access_token={GIT_TOKEN}').json()
+    repo = f'https://api.github.com/repos/TryHardDood/mi-vendor-updater/releases' \
+           f'?per_page=200&access_token={GIT_TOKEN}&page='
+    data = []
+    for i in range(1, 3):  # parse 2 pages of releases
+        for item in get(f"{repo}{i}").json():
+            data.append(item)
+    # with open('vendor.json', 'w') as json_file:
+    #     json.dump(data, json_file, indent=4)
     for release in data:
         codenames.add(release['tag_name'].split('_')[0].split('-')[0])
     codenames = list(codenames)
@@ -404,10 +410,10 @@ def load_vendor_devices():
 
             def filter_latest(branch_, region_):
                 try:
-                    info = [i for i in full if i['branch'] == branch_
-                            and i['region'] == region_]
-                    dates = sorted([i['date'] for i in info], reverse=True)
-                    latest.append([i for i in info if i['date'] == dates[0]][0])
+                    info = [j for j in full if j['branch'] == branch_
+                            and j['region'] == region_]
+                    dates = sorted([j['date'] for j in info], reverse=True)
+                    latest.append([j for j in info if j['date'] == dates[0]][0])
                 except IndexError:
                     pass
 
