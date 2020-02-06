@@ -130,3 +130,47 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PFLMIXM
+- branch: stable
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable/fw-vendor_onc_miui_ONCLITE_V10.2.5.0.PFLCNXM_8db0d2c9de_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable/fw-vendor_onc_miui_ONCLITE_V10.2.5.0.PFLCNXM_8db0d2c9de_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITE_V10.2.5.0.PFLCNXM_8db0d2c9de_9.0.zip
+  region: China
+  size: 263.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.5.0.PFLCNXM
+- branch: stable
+  date: '2019-10-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.1.0.PFLCNXM_1a5e0de887_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.1.0.PFLCNXM_1a5e0de887_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITE_V11.0.1.0.PFLCNXM_1a5e0de887_9.0.zip
+  region: China
+  size: 284.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PFLCNXM
+- branch: stable
+  date: '2019-11-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.2.0.PFLCNXM_63411240e8_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.2.0.PFLCNXM_63411240e8_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITE_V11.0.2.0.PFLCNXM_63411240e8_9.0.zip
+  region: China
+  size: 290.7 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PFLCNXM
+- branch: stable
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip
+  region: China
+  size: 290.8 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFLCNXM

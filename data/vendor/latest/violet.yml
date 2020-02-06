@@ -1,3 +1,14 @@
+- branch: stable
+  date: '2019-11-04'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_miui_VIOLET_V11.0.4.0.PFHCNXM_64c00b1368_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_miui_VIOLET_V11.0.4.0.PFHCNXM_64c00b1368_9.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLET_V11.0.4.0.PFHCNXM_64c00b1368_9.0.zip
+  region: China
+  size: 438.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PFHCNXM
 - branch: weekly
   date: '2019-09-06'
   downloads:
@@ -9,3 +20,14 @@
   versions:
     android: '9.0'
     miui: 9.9.3
+- branch: stable
+  date: '2019-12-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
+  region: India
+  size: 440.3 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PFHINXM

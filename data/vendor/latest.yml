@@ -87,6 +87,28 @@
     android: '9.0'
     miui: V11.0.4.0.PGGINXM
 - branch: stable
+  date: '2019-11-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
+  region: Global
+  size: 546.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PEJMIXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-weekly/fw-vendor_beryllium_global_9.6.27.zip/download
+  filename: fw-vendor_beryllium_global_9.6.27.zip
+  region: Global
+  size: 473.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: stable
   date: '2019-11-20'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_ru_global-stable/fw-vendor_beryllium_miui_POCOF1RUGlobal_V11.0.1.0.PEJRUXM_875d335936_9.0.zip
@@ -130,6 +152,39 @@
   versions:
     android: '9.0'
     miui: 9.8.15
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cappu-weekly/fw-vendor_cappu_miui_MIPAD3_9.3.28_c45cc79b92_7.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cappu-weekly/fw-vendor_cappu_miui_MIPAD3_9.3.28_c45cc79b92_7.0.zip/download
+  filename: fw-vendor_cappu_miui_MIPAD3_9.3.28_c45cc79b92_7.0.zip
+  region: China
+  size: 5.6 MB
+  versions:
+    android: '7.0'
+    miui: 9.3.28
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/capricorn_global-weekly/fw-vendor_capricorn_miui_MI5SGlobal_9.3.28_f05204fe0d_8.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/capricorn_global-weekly/fw-vendor_capricorn_miui_MI5SGlobal_9.3.28_f05204fe0d_8.0.zip/download
+  filename: fw-vendor_capricorn_miui_MI5SGlobal_9.3.28_f05204fe0d_8.0.zip
+  region: Global
+  size: 56.1 MB
+  versions:
+    android: '8.0'
+    miui: 9.3.28
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/capricorn-weekly/fw-vendor_capricorn_miui_MI5S_9.3.28_f7a82da6fa_8.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/capricorn-weekly/fw-vendor_capricorn_miui_MI5S_9.3.28_f7a82da6fa_8.0.zip/download
+  filename: fw-vendor_capricorn_miui_MI5S_9.3.28_f7a82da6fa_8.0.zip
+  region: China
+  size: 56.1 MB
+  versions:
+    android: '8.0'
+    miui: 9.3.28
 - branch: stable
   date: '2020-01-10'
   downloads:
@@ -141,6 +196,39 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QFAMIXM
+- branch: stable
+  date: '2019-12-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V11.0.5.0.QFACNXM_035a571448_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V11.0.5.0.QFACNXM_035a571448_10.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUS_V11.0.5.0.QFACNXM_035a571448_10.0.zip
+  region: China
+  size: 771.9 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QFACNXM
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_global-weekly/fw-vendor_cepheus_miui_CEPHEUSGlobal_9.4.2_19357b30e9_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_global-weekly/fw-vendor_cepheus_miui_CEPHEUSGlobal_9.4.2_19357b30e9_9.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUSGlobal_9.4.2_19357b30e9_9.0.zip
+  region: Global
+  size: 636.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.2
+- branch: weekly
+  date: '2019-10-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-weekly/fw-vendor_cepheus_miui_CEPHEUS_9.8.22_aa27670572_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-weekly/fw-vendor_cepheus_miui_CEPHEUS_9.8.22_aa27670572_10.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUS_9.8.22_aa27670572_10.0.zip
+  region: China
+  size: 775.2 MB
+  versions:
+    android: '10.0'
+    miui: 9.8.22
 - branch: stable
   date: '2020-01-10'
   downloads:
@@ -207,6 +295,28 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PDEMIXM
+- branch: stable
+  date: '2019-07-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-stable/fw-vendor_clover_V10.3.2.0.ODJCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-stable/fw-vendor_clover_V10.3.2.0.ODJCNXM.zip/download
+  filename: fw-vendor_clover_V10.3.2.0.ODJCNXM.zip
+  region: China
+  size: 294.4 MB
+  versions:
+    android: '8.1'
+    miui: V10.3.2.0.ODJCNXM
+- branch: weekly
+  date: '2019-09-02'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.8.29.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_9.8.29.zip/download
+  filename: fw-vendor_clover_9.8.29.zip
+  region: China
+  size: 318.7 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.29
 - branch: stable
   date: '2019-11-15'
   downloads:
@@ -284,6 +394,28 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QEACNXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_global_9.6.27.zip/download
+  filename: fw-vendor_dipper_global_9.6.27.zip
+  region: Global
+  size: 493.9 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_miui_MI8_9.9.3_0fb85e6431_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_miui_MI8_9.9.3_0fb85e6431_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_9.9.3_0fb85e6431_9.0.zip
+  region: China
+  size: 639.9 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
 - branch: stable
   date: '2019-11-02'
   downloads:
@@ -317,6 +449,28 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PECCNXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-weekly/fw-vendor_equuleus_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-weekly/fw-vendor_equuleus_global_9.6.27.zip/download
+  filename: fw-vendor_equuleus_global_9.6.27.zip
+  region: Global
+  size: 493.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-weekly/fw-vendor_equuleus_miui_MI8UD_9.9.3_03f07e3d60_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-weekly/fw-vendor_equuleus_miui_MI8UD_9.9.3_03f07e3d60_9.0.zip/download
+  filename: fw-vendor_equuleus_miui_MI8UD_9.9.3_03f07e3d60_9.0.zip
+  region: China
+  size: 636.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
 - branch: stable
   date: '2019-11-01'
   downloads:
@@ -416,6 +570,50 @@
   versions:
     android: '9.0'
     miui: V11.0.6.0.PFBRUXM
+- branch: weekly
+  date: '2019-04-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/hydrogen_global-weekly/fw-vendor_hydrogen_miui_MIMAXGlobal_9.2.28_df1d437c37_7.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/hydrogen_global-weekly/fw-vendor_hydrogen_miui_MIMAXGlobal_9.2.28_df1d437c37_7.0.zip/download
+  filename: fw-vendor_hydrogen_miui_MIMAXGlobal_9.2.28_df1d437c37_7.0.zip
+  region: Global
+  size: 49.9 MB
+  versions:
+    android: '7.0'
+    miui: 9.2.28
+- branch: weekly
+  date: '2019-04-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/hydrogen-weekly/fw-vendor_hydrogen_miui_MIMAX_9.2.28_af1c778ee6_7.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/hydrogen-weekly/fw-vendor_hydrogen_miui_MIMAX_9.2.28_af1c778ee6_7.0.zip/download
+  filename: fw-vendor_hydrogen_miui_MIMAX_9.2.28_af1c778ee6_7.0.zip
+  region: China
+  size: 49.9 MB
+  versions:
+    android: '7.0'
+    miui: 9.2.28
+- branch: stable
+  date: '2019-09-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/jason_global-stable/fw-vendor_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/jason_global-stable/fw-vendor_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip/download
+  filename: fw-vendor_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip
+  region: Global
+  size: 78.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.4.2.0.PCHMIXM
+- branch: weekly
+  date: '2019-04-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/jason-weekly/fw-vendor_jason_miui_MINote3_9.3.28_451f3992da_8.1.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/jason-weekly/fw-vendor_jason_miui_MINote3_9.3.28_451f3992da_8.1.zip/download
+  filename: fw-vendor_jason_miui_MINote3_9.3.28_451f3992da_8.1.zip
+  region: China
+  size: 78.1 MB
+  versions:
+    android: '8.1'
+    miui: 9.3.28
 - branch: stable
   date: '2019-11-06'
   downloads:
@@ -439,6 +637,28 @@
     android: '9.0'
     miui: V10.3.10.0.PFGMIXM
 - branch: stable
+  date: '2019-11-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender-stable/fw-vendor_lavender_miui_LAVENDER_V11.0.4.0.PFGCNXM_80ef43dc45_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender-stable/fw-vendor_lavender_miui_LAVENDER_V11.0.4.0.PFGCNXM_80ef43dc45_9.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDER_V11.0.4.0.PFGCNXM_80ef43dc45_9.0.zip
+  region: China
+  size: 438.5 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PFGCNXM
+- branch: weekly
+  date: '2019-09-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender-weekly/fw-vendor_lavender_miui_LAVENDER_9.9.3_5ca18e6120_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender-weekly/fw-vendor_lavender_miui_LAVENDER_9.9.3_5ca18e6120_9.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDER_9.9.3_5ca18e6120_9.0.zip
+  region: China
+  size: 519.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
+- branch: stable
   date: '2019-11-20'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.4.0.PFGEUXM_09de63aa49_9.0.zip
@@ -452,6 +672,17 @@
 - branch: stable
   date: '2019-11-18'
   downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_in_global-stable/fw-vendor_lavender_miui_LAVENDERINGlobal_V11.0.6.0.PFGINXM_66ab0238a7_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_in_global-stable/fw-vendor_lavender_miui_LAVENDERINGlobal_V11.0.6.0.PFGINXM_66ab0238a7_9.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDERINGlobal_V11.0.6.0.PFGINXM_66ab0238a7_9.0.zip
+  region: India
+  size: 407.2 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PFGINXM
+- branch: stable
+  date: '2019-11-18'
+  downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_ru_global-stable/fw-vendor_lavender_miui_LAVENDERRUGlobal_V11.0.4.0.PFGRUXM_1cd225882c_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_ru_global-stable/fw-vendor_lavender_miui_LAVENDERRUGlobal_V11.0.4.0.PFGRUXM_1cd225882c_9.0.zip/download
   filename: fw-vendor_lavender_miui_LAVENDERRUGlobal_V11.0.4.0.PFGRUXM_1cd225882c_9.0.zip
@@ -460,6 +691,39 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PFGRUXM
+- branch: weekly
+  date: '2019-04-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lithium-weekly/fw-vendor_lithium_miui_MIMIX_9.3.28_d169d75507_8.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lithium-weekly/fw-vendor_lithium_miui_MIMIX_9.3.28_d169d75507_8.0.zip/download
+  filename: fw-vendor_lithium_miui_MIMIX_9.3.28_d169d75507_8.0.zip
+  region: China
+  size: 56.1 MB
+  versions:
+    android: '8.0'
+    miui: 9.3.28
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/mido-weekly/fw-vendor_mido_miui_HMNote4X_9.3.7_5222e8e1fe_7.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/mido-weekly/fw-vendor_mido_miui_HMNote4X_9.3.7_5222e8e1fe_7.0.zip/download
+  filename: fw-vendor_mido_miui_HMNote4X_9.3.7_5222e8e1fe_7.0.zip
+  region: China
+  size: 47.7 MB
+  versions:
+    android: '7.0'
+    miui: 9.3.7
+- branch: stable
+  date: '2020-01-16'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_global-stable/fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_global-stable/fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip/download
+  filename: fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip
+  region: Global
+  size: 419.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.7.0.PEDMIXM
 - branch: stable
   date: '2019-12-05'
   downloads:
@@ -471,6 +735,28 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PEDCNXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_global-weekly/fw-vendor_nitrogen_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_global-weekly/fw-vendor_nitrogen_global_9.6.27.zip/download
+  filename: fw-vendor_nitrogen_global_9.6.27.zip
+  region: Global
+  size: 432.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen-weekly/fw-vendor_nitrogen_miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen-weekly/fw-vendor_nitrogen_miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip/download
+  filename: fw-vendor_nitrogen_miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip
+  region: China
+  size: 586.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
 - branch: stable
   date: '2020-01-15'
   downloads:
@@ -615,6 +901,17 @@
     android: '9.0'
     miui: V11.0.3.0.PFLMIXM
 - branch: stable
+  date: '2020-01-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip
+  region: China
+  size: 290.8 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFLCNXM
+- branch: stable
   date: '2019-12-26'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_eea_global-stable/fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
@@ -658,6 +955,39 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PEEMIXM
+- branch: stable
+  date: '2019-11-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
+  region: China
+  size: 656.2 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PEECNXM
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-weekly/fw-vendor_perseus_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-weekly/fw-vendor_perseus_global_9.6.27.zip/download
+  filename: fw-vendor_perseus_global_9.6.27.zip
+  region: Global
+  size: 531.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_miui_MIMIX3_9.9.3_a9dbc91c30_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_miui_MIMIX3_9.9.3_a9dbc91c30_9.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3_9.9.3_a9dbc91c30_9.0.zip
+  region: China
+  size: 591.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
 - branch: stable
   date: '2020-02-03'
   downloads:
@@ -736,6 +1066,50 @@
     android: '9.0'
     miui: V11.0.4.0.PCMRUXM
 - branch: stable
+  date: '2020-01-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V11.0.8.0.PDTMIXM_bb4de77c17_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V11.0.8.0.PDTMIXM_bb4de77c17_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8LiteGlobal_V11.0.8.0.PDTMIXM_bb4de77c17_9.0.zip
+  region: Global
+  size: 418.4 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.8.0.PDTMIXM
+- branch: stable
+  date: '2019-12-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip
+  region: China
+  size: 482.2 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PDTCNXM
+- branch: weekly
+  date: '2019-06-29'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_global_9.6.27.zip/download
+  filename: fw-vendor_platina_global_9.6.27.zip
+  region: Global
+  size: 431.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.9.3_cec06e7e18_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.9.3_cec06e7e18_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8Lite_9.9.3_cec06e7e18_9.0.zip
+  region: China
+  size: 586.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
+- branch: stable
   date: '2020-01-14'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.7.0.PDTRUXM_10c8bdaeca_9.0.zip
@@ -757,6 +1131,39 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PDGMIXM
+- branch: stable
+  date: '2019-11-04'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris-stable/fw-vendor_polaris_miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris-stable/fw-vendor_polaris_miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip/download
+  filename: fw-vendor_polaris_miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip
+  region: China
+  size: 611.3 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PDGCNXM
+- branch: weekly
+  date: '2019-06-29'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-weekly/fw-vendor_polaris_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-weekly/fw-vendor_polaris_global_9.6.27.zip/download
+  filename: fw-vendor_polaris_global_9.6.27.zip
+  region: Global
+  size: 477.7 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris-weekly/fw-vendor_polaris_miui_MIMIX2S_9.9.3_f81fcc2242_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris-weekly/fw-vendor_polaris_miui_MIMIX2S_9.9.3_f81fcc2242_9.0.zip/download
+  filename: fw-vendor_polaris_miui_MIMIX2S_9.9.3_f81fcc2242_9.0.zip
+  region: China
+  size: 620.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
 - branch: stable
   date: '2019-12-05'
   downloads:
@@ -879,6 +1286,17 @@
     android: '9.0'
     miui: V11.0.3.0.PCAMIXM
 - branch: stable
+  date: '2019-04-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sagit-stable/fw-vendor_sagit_miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sagit-stable/fw-vendor_sagit_miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip/download
+  filename: fw-vendor_sagit_miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip
+  region: China
+  size: 63.2 MB
+  versions:
+    android: '8.0'
+    miui: V10.3.1.0.OCACNXM
+- branch: stable
   date: '2019-12-27'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura-india_miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip
@@ -890,6 +1308,39 @@
     android: '9.0'
     miui: V11.0.5.0.PDMMIXM
 - branch: stable
+  date: '2019-11-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-stable/fw-vendor_sakura_miui_HM6Pro_V11.0.4.0.PDICNXM_45526f173b_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-stable/fw-vendor_sakura_miui_HM6Pro_V11.0.4.0.PDICNXM_45526f173b_9.0.zip/download
+  filename: fw-vendor_sakura_miui_HM6Pro_V11.0.4.0.PDICNXM_45526f173b_9.0.zip
+  region: China
+  size: 266.4 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PDICNXM
+- branch: weekly
+  date: '2019-06-29'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-weekly/fw-vendor_sakura_india_global_9.6.27.zip/download
+  filename: fw-vendor_sakura_india_global_9.6.27.zip
+  region: Global
+  size: 259.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-weekly/fw-vendor_sakura_miui_HM6Pro_9.9.3_1201e8f9ea_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-weekly/fw-vendor_sakura_miui_HM6Pro_9.9.3_1201e8f9ea_9.0.zip/download
+  filename: fw-vendor_sakura_miui_HM6Pro_9.9.3_1201e8f9ea_9.0.zip
+  region: China
+  size: 356.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
+- branch: stable
   date: '2019-10-17'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-stable/fw-vendor_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip
@@ -900,6 +1351,17 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PEBCNXM
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.9.3_a9d719f08b_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.9.3_a9d719f08b_9.0.zip/download
+  filename: fw-vendor_sirius_miui_MI8SE_9.9.3_a9d719f08b_9.0.zip
+  region: China
+  size: 567.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
 - branch: stable
   date: '2020-01-13'
   downloads:
@@ -966,6 +1428,17 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PEHCNXM
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-weekly/fw-vendor_ursa_miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-weekly/fw-vendor_ursa_miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip/download
+  filename: fw-vendor_ursa_miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip
+  region: China
+  size: 643.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
 - branch: stable
   date: '2020-01-20'
   downloads:
@@ -978,6 +1451,28 @@
     android: '9.0'
     miui: V11.3.3.0.PFECNXM
 - branch: weekly
+  date: '2019-04-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vince-weekly/fw-vendor_vince_miui_HM5Plus_9.3.28_4c21e62777_8.1.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vince-weekly/fw-vendor_vince_miui_HM5Plus_9.3.28_4c21e62777_8.1.zip/download
+  filename: fw-vendor_vince_miui_HM5Plus_9.3.28_4c21e62777_8.1.zip
+  region: China
+  size: 52.1 MB
+  versions:
+    android: '8.1'
+    miui: 9.3.28
+- branch: stable
+  date: '2019-11-04'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-stable/fw-vendor_violet_miui_VIOLET_V11.0.4.0.PFHCNXM_64c00b1368_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-stable/fw-vendor_violet_miui_VIOLET_V11.0.4.0.PFHCNXM_64c00b1368_9.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLET_V11.0.4.0.PFHCNXM_64c00b1368_9.0.zip
+  region: China
+  size: 438.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PFHCNXM
+- branch: weekly
   date: '2019-09-06'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
@@ -985,6 +1480,39 @@
   filename: fw-vendor_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
   region: China
   size: 526.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
+- branch: stable
+  date: '2019-12-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
+  region: India
+  size: 440.3 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PFHINXM
+- branch: stable
+  date: '2019-12-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip/download
+  filename: fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip
+  region: China
+  size: 391.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PDCCNXM
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.9.3_3ad06bc283_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.9.3_3ad06bc283_9.0.zip/download
+  filename: fw-vendor_wayne_miui_MI6X_9.9.3_3ad06bc283_9.0.zip
+  region: China
+  size: 471.1 MB
   versions:
     android: '9.0'
     miui: 9.9.3
@@ -999,6 +1527,39 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PEIMIXM
+- branch: stable
+  date: '2019-11-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred-stable/fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred-stable/fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip/download
+  filename: fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip
+  region: China
+  size: 328.6 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PEICNXM
+- branch: weekly
+  date: '2019-06-29'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-weekly/fw-vendor_whyred_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-weekly/fw-vendor_whyred_global_9.6.27.zip/download
+  filename: fw-vendor_whyred_global_9.6.27.zip
+  region: Global
+  size: 346.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred-weekly/fw-vendor_whyred_miui_HMNote5_9.9.3_d6316ce86a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred-weekly/fw-vendor_whyred_miui_HMNote5_9.9.3_d6316ce86a_9.0.zip/download
+  filename: fw-vendor_whyred_miui_HMNote5_9.9.3_d6316ce86a_9.0.zip
+  region: China
+  size: 445.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3
 - branch: stable
   date: '2019-11-07'
   downloads:
@@ -1054,3 +1615,14 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PEFMIXM
+- branch: stable
+  date: '2019-08-13'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ysl-stable/fw-vendor_ysl_V10.3.4.0.PEFCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ysl-stable/fw-vendor_ysl_V10.3.4.0.PEFCNXM.zip/download
+  filename: fw-vendor_ysl_V10.3.4.0.PEFCNXM.zip
+  region: China
+  size: 211.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.4.0.PEFCNXM
