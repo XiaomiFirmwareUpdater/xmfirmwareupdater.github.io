@@ -87,16 +87,16 @@
     android: '9.0'
     miui: V11.0.4.0.PGGINXM
 - branch: stable
-  date: '2019-11-01'
+  date: '2020-02-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip/download
-  filename: fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip
   region: Global
-  size: 546.1 MB
+  size: 523.9 MB
   versions:
-    android: '9.0'
-    miui: V11.0.5.0.PEJMIXM
+    android: '10.0'
+    miui: V11.0.4.0.QEJMIXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -439,16 +439,16 @@
     android: '9.0'
     miui: V11.0.5.0.PECMIXM
 - branch: stable
-  date: '2019-11-04'
+  date: '2020-02-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-stable/fw-vendor_equuleus_miui_MI8UD_V11.0.3.0.PECCNXM_88e4eae066_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-stable/fw-vendor_equuleus_miui_MI8UD_V11.0.3.0.PECCNXM_88e4eae066_9.0.zip/download
-  filename: fw-vendor_equuleus_miui_MI8UD_V11.0.3.0.PECCNXM_88e4eae066_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-stable/fw-vendor_equuleus_miui_MI8UD_V11.0.1.0.QECCNXM_b1c2953aed_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus-stable/fw-vendor_equuleus_miui_MI8UD_V11.0.1.0.QECCNXM_b1c2953aed_10.0.zip/download
+  filename: fw-vendor_equuleus_miui_MI8UD_V11.0.1.0.QECCNXM_b1c2953aed_10.0.zip
   region: China
-  size: 625.8 MB
+  size: 576.0 MB
   versions:
-    android: '9.0'
-    miui: V11.0.3.0.PECCNXM
+    android: '10.0'
+    miui: V11.0.1.0.QECCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -956,16 +956,16 @@
     android: '9.0'
     miui: V10.3.3.0.PEEMIXM
 - branch: stable
-  date: '2019-11-05'
+  date: '2020-02-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip/download
-  filename: fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip
   region: China
-  size: 656.2 MB
+  size: 570.8 MB
   versions:
-    android: '9.0'
-    miui: V11.0.4.0.PEECNXM
+    android: '10.0'
+    miui: V11.0.1.0.QEECNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1121,27 +1121,27 @@
     android: '9.0'
     miui: V11.0.7.0.PDTRUXM
 - branch: stable
-  date: '2019-11-05'
+  date: '2020-02-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.4.0.PDGMIXM_a8d3e1096f_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.4.0.PDGMIXM_a8d3e1096f_9.0.zip/download
-  filename: fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.4.0.PDGMIXM_a8d3e1096f_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.3.0.QDGMIXM_f076a2ced4_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.3.0.QDGMIXM_f076a2ced4_10.0.zip/download
+  filename: fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.3.0.QDGMIXM_f076a2ced4_10.0.zip
   region: Global
-  size: 548.8 MB
+  size: 525.4 MB
   versions:
-    android: '9.0'
-    miui: V11.0.4.0.PDGMIXM
+    android: '10.0'
+    miui: V11.0.3.0.QDGMIXM
 - branch: stable
-  date: '2019-11-04'
+  date: '2020-02-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris-stable/fw-vendor_polaris_miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris-stable/fw-vendor_polaris_miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip/download
-  filename: fw-vendor_polaris_miui_MIMIX2S_V11.0.3.0.PDGCNXM_fb0c7228bf_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris-stable/fw-vendor_polaris_miui_MIMIX2S_V11.0.1.0.QDGCNXM_fa95fc866d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris-stable/fw-vendor_polaris_miui_MIMIX2S_V11.0.1.0.QDGCNXM_fa95fc866d_10.0.zip/download
+  filename: fw-vendor_polaris_miui_MIMIX2S_V11.0.1.0.QDGCNXM_fa95fc866d_10.0.zip
   region: China
-  size: 611.3 MB
+  size: 559.8 MB
   versions:
-    android: '9.0'
-    miui: V11.0.3.0.PDGCNXM
+    android: '10.0'
+    miui: V11.0.1.0.QDGCNXM
 - branch: weekly
   date: '2019-06-29'
   downloads:
@@ -1418,16 +1418,16 @@
     android: '9.0'
     miui: V11.0.2.0.PEKMIXM
 - branch: stable
-  date: '2019-11-04'
+  date: '2020-02-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip/download
-  filename: fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip/download
+  filename: fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip
   region: China
-  size: 638.7 MB
+  size: 645.6 MB
   versions:
-    android: '9.0'
-    miui: V11.0.3.0.PEHCNXM
+    android: '10.0'
+    miui: V11.0.2.0.QEHCNXM
 - branch: weekly
   date: '2019-09-06'
   downloads:
