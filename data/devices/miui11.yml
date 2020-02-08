@@ -702,6 +702,12 @@
   version: 9.12.12
 - android: '10.0'
   codename: grus
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_GRUS_20.1.21_7f6b7d517f_10.0.zip
+  name: Mi 9 SE
+  version: 20.1.21
+- android: '10.0'
+  codename: grus
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_GRUS_20.1.16_eb5fe1d5a0_10.0.zip
   name: Mi 9 SE
@@ -918,6 +924,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: lavender
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_LAVENDER_20.1.21_8d0fa7adbc_10.0.zip
+  name: Redmi Note 7/7S
+  version: 20.1.21
+- android: '10.0'
+  codename: lavender
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_LAVENDER_20.1.16_d8ee8441c7_10.0.zip
   name: Redmi Note 7/7S
@@ -1038,6 +1050,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: nitrogen
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_MIMAX3_20.1.21_5451c4d7b1_10.0.zip
+  name: Mi Max 3
+  version: 20.1.21
+- android: '10.0'
+  codename: nitrogen
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_MIMAX3_20.1.16_ae1fd5199b_10.0.zip
   name: Mi Max 3
@@ -1114,6 +1132,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_MIMAX2_9.10.10_049afb8889_7.1.zip
   name: Mi Max 2
   version: 9.10.10
+- android: '10.0'
+  codename: perseus
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_MIMIX3_20.1.21_d012ce453f_10.0.zip
+  name: Mi MIX 3
+  version: 20.1.21
 - android: '10.0'
   codename: perseus
   date: '2020-01-17'
@@ -1200,6 +1224,12 @@
   version: 9.10.16
 - android: '10.0'
   codename: phoenix
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_PHOENIX_20.1.21_724ef91eca_10.0.zip
+  name: Redmi K30 4G
+  version: 20.1.21
+- android: '10.0'
+  codename: phoenix
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_PHOENIX_20.1.16_46d37d72db_10.0.zip
   name: Redmi K30 4G
@@ -1228,6 +1258,12 @@
   download: https://bigota.d.miui.com/20.1.16/miui_PICASSO_20.1.16_68dfe1adb0_10.0.zip
   name: Redmi K30 5G
   version: 20.1.16
+- android: '10.0'
+  codename: platina
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_MI8Lite_20.1.21_0c5d8593c9_10.0.zip
+  name: Mi 8 Lite
+  version: 20.1.21
 - android: '10.0'
   codename: platina
   date: '2020-01-17'
