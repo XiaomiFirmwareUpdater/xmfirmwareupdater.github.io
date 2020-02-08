@@ -1,5 +1,11 @@
 - android: '10.0'
   codename: begonia
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_BEGONIA_20.1.21_e4041a86c8_10.0.zip
+  name: Redmi Note 8 Pro
+  version: 20.1.21
+- android: '10.0'
+  codename: begonia
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_BEGONIA_20.1.16_b0c1d700fc_10.0.zip
   name: Redmi Note 8 Pro
@@ -136,6 +142,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_MI5S_9.10.10_de79f43db0_8.0.zip
   name: Mi 5s
   version: 9.10.10
+- android: '10.0'
+  codename: cepheus
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_CEPHEUS_20.1.21_c7a369a447_10.0.zip
+  name: Mi 9
+  version: 20.1.21
 - android: '10.0'
   codename: cepheus
   date: '2020-01-17'
@@ -372,6 +384,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: crux
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_CRUX_20.1.21_2f6da1fd94_10.0.zip
+  name: Mi 9 Pro 5G
+  version: 20.1.21
+- android: '10.0'
+  codename: crux
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_CRUX_20.1.16_e18e82ea01_10.0.zip
   name: Mi 9 Pro 5G
@@ -406,6 +424,12 @@
   download: https://bigota.d.miui.com/9.10.31/miui_CRUX_9.10.31_d722ee79c4_9.0.zip
   name: Mi 9 Pro 5G
   version: 9.10.31
+- android: '10.0'
+  codename: davinci
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_DAVINCI_20.1.21_0059de114f_10.0.zip
+  name: Redmi K20/Mi 9T
+  version: 20.1.21
 - android: '10.0'
   codename: davinci
   date: '2020-01-17'
@@ -472,6 +496,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_DAVINCI_9.10.17_22e64b63fe_10.0.zip
   name: Redmi K20/Mi 9T
   version: 9.10.17
+- android: '10.0'
+  codename: dipper
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_MI8_20.1.21_ff0af3480c_10.0.zip
+  name: Mi 8
+  version: 20.1.21
 - android: '10.0'
   codename: dipper
   date: '2020-01-17'
@@ -556,6 +586,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_MI8_9.10.17_16e9425d77_10.0.zip
   name: Mi 8
   version: 9.10.17
+- android: '10.0'
+  codename: equuleus
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_MI8UD_20.1.21_6d22c372d8_10.0.zip
+  name: Mi 8 Pro
+  version: 20.1.21
 - android: '10.0'
   codename: equuleus
   date: '2020-01-17'
