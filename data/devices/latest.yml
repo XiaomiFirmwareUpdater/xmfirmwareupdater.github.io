@@ -1539,15 +1539,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-01-17'
+  date: '2020-02-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-17.01.2020/fw_polaris_miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/polaris/fw_polaris_miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
-  filename: fw_polaris_miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-08.02.2020/fw_polaris_miui_MIMIX2S_20.1.21_ffd0b8d1b8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/polaris/fw_polaris_miui_MIMIX2S_20.1.21_ffd0b8d1b8_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.1.21_ffd0b8d1b8_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.16
+    miui: 20.1.21
 - branch: stable
   date: '2019-05-21'
   downloads:
@@ -1589,15 +1589,15 @@
     android: '9.0'
     miui: V11.3.4.0.PFCCNXM
 - branch: weekly
-  date: '2020-01-17'
+  date: '2020-02-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-17.01.2020/fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/pyxis/fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
-  filename: fw_pyxis_miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-08.02.2020/fw_pyxis_miui_PYXIS_20.1.21_c911a13d7b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/pyxis/fw_pyxis_miui_PYXIS_20.1.21_c911a13d7b_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.1.21_c911a13d7b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.16
+    miui: 20.1.21
 - branch: stable
   date: '2019-12-25'
   downloads:
@@ -1629,15 +1629,15 @@
     android: '10.0'
     miui: V11.0.5.0.QFKCNXM
 - branch: weekly
-  date: '2020-01-17'
+  date: '2020-02-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-17.01.2020/fw_raphael_miui_RAPHAEL_20.1.16_47b08edc1b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/raphael/fw_raphael_miui_RAPHAEL_20.1.16_47b08edc1b_10.0.zip
-  filename: fw_raphael_miui_RAPHAEL_20.1.16_47b08edc1b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-08.02.2020/fw_raphael_miui_RAPHAEL_20.1.21_6191725aa6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/raphael/fw_raphael_miui_RAPHAEL_20.1.21_6191725aa6_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.1.21_6191725aa6_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.16
+    miui: 20.1.21
 - branch: stable
   date: '2020-01-10'
   downloads:
@@ -1949,15 +1949,15 @@
     android: '10.0'
     miui: V11.0.1.0.QEBCNXM
 - branch: weekly
-  date: '2020-01-17'
+  date: '2020-02-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-17.01.2020/fw_sirius_miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/sirius/fw_sirius_miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip
-  filename: fw_sirius_miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-08.02.2020/fw_sirius_miui_MI8SE_20.1.21_09cce369bf_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/sirius/fw_sirius_miui_MI8SE_20.1.21_09cce369bf_10.0.zip
+  filename: fw_sirius_miui_MI8SE_20.1.21_09cce369bf_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.16
+    miui: 20.1.21
 - branch: stable
   date: '2019-11-27'
   downloads:
@@ -2129,15 +2129,15 @@
     android: '9.0'
     miui: V11.0.3.0.PEHCNXM
 - branch: weekly
-  date: '2020-01-17'
+  date: '2020-02-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-17.01.2020/fw_ursa_miui_MI8Explorer_20.1.16_3231ca6229_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/ursa/fw_ursa_miui_MI8Explorer_20.1.16_3231ca6229_10.0.zip
-  filename: fw_ursa_miui_MI8Explorer_20.1.16_3231ca6229_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-08.02.2020/fw_ursa_miui_MI8Explorer_20.1.21_d931e6ab0a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/ursa/fw_ursa_miui_MI8Explorer_20.1.21_d931e6ab0a_10.0.zip
+  filename: fw_ursa_miui_MI8Explorer_20.1.21_d931e6ab0a_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.16
+    miui: 20.1.21
 - branch: stable
   date: '2020-01-20'
   downloads:
@@ -2149,15 +2149,15 @@
     android: '9.0'
     miui: V11.3.3.0.PFECNXM
 - branch: weekly
-  date: '2019-12-27'
+  date: '2020-02-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-27.12.2019/fw_vela_miui_VELA_9.12.26_1f9694a0d5_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/vela/fw_vela_miui_VELA_9.12.26_1f9694a0d5_10.0.zip
-  filename: fw_vela_miui_VELA_9.12.26_1f9694a0d5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-08.02.2020/fw_vela_miui_VELA_20.1.21_b5b6a454fc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/vela/fw_vela_miui_VELA_20.1.21_b5b6a454fc_10.0.zip
+  filename: fw_vela_miui_VELA_20.1.21_b5b6a454fc_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.26
+    miui: 20.1.21
 - branch: stable
   date: '2019-11-26'
   downloads:

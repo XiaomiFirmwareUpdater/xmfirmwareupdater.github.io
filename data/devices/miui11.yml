@@ -1338,6 +1338,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: polaris
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_MIMIX2S_20.1.21_ffd0b8d1b8_10.0.zip
+  name: Mi MIX 2S
+  version: 20.1.21
+- android: '10.0'
+  codename: polaris
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_MIMIX2S_20.1.16_22b50df6b0_10.0.zip
   name: Mi MIX 2S
@@ -1410,6 +1416,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: pyxis
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_PYXIS_20.1.21_c911a13d7b_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.1.21
+- android: '10.0'
+  codename: pyxis
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_PYXIS_20.1.16_a3f7c80c2d_10.0.zip
   name: Mi CC 9/Mi 9 Lite
@@ -1468,6 +1480,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_PYXIS_9.10.17_b91ea52a15_9.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 9.10.17
+- android: '10.0'
+  codename: raphael
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_RAPHAEL_20.1.21_6191725aa6_10.0.zip
+  name: Redmi K20 Pro/Mi 9T Pro
+  version: 20.1.21
 - android: '10.0'
   codename: raphael
   date: '2020-01-17'
@@ -1734,6 +1752,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: sirius
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_MI8SE_20.1.21_09cce369bf_10.0.zip
+  name: Mi 8 SE
+  version: 20.1.21
+- android: '10.0'
+  codename: sirius
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_MI8SE_20.1.16_1f09c9e99b_10.0.zip
   name: Mi 8 SE
@@ -1872,6 +1896,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: ursa
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_MI8Explorer_20.1.21_d931e6ab0a_10.0.zip
+  name: Mi 8 Explorer
+  version: 20.1.21
+- android: '10.0'
+  codename: ursa
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_MI8Explorer_20.1.16_3231ca6229_10.0.zip
   name: Mi 8 Explorer
@@ -1942,6 +1972,12 @@
   download: https://bigota.d.miui.com/9.9.26/miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
   name: Mi 8 Explorer
   version: 9.9.26
+- android: '10.0'
+  codename: vela
+  date: '2020-02-08'
+  download: https://bigota.d.miui.com/20.1.21/miui_VELA_20.1.21_b5b6a454fc_10.0.zip
+  name: Mi CC 9 Meitu Edition
+  version: 20.1.21
 - android: '10.0'
   codename: vela
   date: '2019-12-27'
