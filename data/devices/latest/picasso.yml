@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-01-16'
+  date: '2020-02-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-16.01.2020/fw_picasso_miui_PICASSO_V11.0.7.0.QGICNXM_5706d31794_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.0.7.0.QGICNXM_5706d31794_10.0.zip
-  filename: fw_picasso_miui_PICASSO_V11.0.7.0.QGICNXM_5706d31794_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-10.02.2020/fw_picasso_miui_PICASSO_V11.0.9.0.QGICNXM_02768d0fa6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.0.9.0.QGICNXM_02768d0fa6_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.0.9.0.QGICNXM_02768d0fa6_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.7.0.QGICNXM
+    miui: V11.0.9.0.QGICNXM
 - branch: weekly
   date: '2020-01-20'
   downloads:
