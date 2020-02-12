@@ -1409,6 +1409,16 @@
     android: '10.0'
     miui: 20.1.21
 - branch: stable
+  date: '2020-02-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenixin/releases/download/stable-12.02.2020/fw_phoenixin_miui_PHOENIXININGlobal_V11.0.4.0.QGHINXM_fad80cd58f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenixin/fw_phoenixin_miui_PHOENIXININGlobal_V11.0.4.0.QGHINXM_fad80cd58f_10.0.zip
+  filename: fw_phoenixin_miui_PHOENIXININGlobal_V11.0.4.0.QGHINXM_fad80cd58f_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QGHINXM
+- branch: stable
   date: '2020-02-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-10.02.2020/fw_picasso_miui_PICASSO_V11.0.9.0.QGICNXM_02768d0fa6_10.0.zip
