@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2020-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-13.02.2020/fw_dipper_miui_MI8Global_V11.0.3.0.QEAMIXM_785bed5822_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/dipper/fw_dipper_miui_MI8Global_V11.0.3.0.QEAMIXM_785bed5822_10.0.zip
+  filename: fw_dipper_miui_MI8Global_V11.0.3.0.QEAMIXM_785bed5822_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QEAMIXM
 - branch: weekly
   date: '2020-02-08'
   downloads:
@@ -1268,13 +1278,3 @@
   versions:
     android: '8.1'
     miui: 8.7.26
-- branch: weekly
-  date: '2018-07-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/untagged-d82adf5c964b2a72da23/fw_dipper_miui_MI8_8.7.19_bacb2c0a1d_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/dipper/fw_dipper_miui_MI8_8.7.19_bacb2c0a1d_8.1.zip
-  filename: fw_dipper_miui_MI8_8.7.19_bacb2c0a1d_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.7.19
