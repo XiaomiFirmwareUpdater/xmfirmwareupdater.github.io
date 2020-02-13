@@ -10,9 +10,9 @@ from requests import get
 from humanize import naturalsize
 
 # Variables
-GIT_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
+HEADER = {'Authorization': f'token {environ["GIT_OAUTH_TOKEN_XFU"]}'}
 ORG = get(f'https://api.github.com/orgs/XiaomiFirmwareUpdater/'
-          f'repos?per_page=200&access_token={GIT_TOKEN}').json()
+          f'repos?per_page=100', headers=HEADER).json()
 VARIANTS = [['stable', 'Global'], ['stable', 'China'], ['weekly', 'Global'], ['weekly', 'China'],
             ['stable', 'Europe'], ['stable', 'India'], ['stable', 'Russia']]
 FW_CODENAMES = []
@@ -70,8 +70,13 @@ def load_releases():
     for device in FW_CODENAMES:
         info = []
         url = f'https://api.github.com/repos/XiaomiFirmwareUpdater/' \
-              f'firmware_xiaomi_{device}/releases?per_page=200&access_token={GIT_TOKEN}'
-        data = get(url).json()
+              f'firmware_xiaomi_{device}/releases?per_page=100'
+        page = get(url, headers=HEADER)
+        data = page.json()
+        if page.links:
+            for i in range(2, len(page.links) + 1):
+                for j in get(f"{url}&page={i}", headers=HEADER).json():
+                    data.append(j)
         # Generate all releases YAML
         for item in data:
             # if 'untagged' in item['tag_name']:
@@ -339,12 +344,14 @@ def load_vendor_devices():
     Load mi-vendor-updater devices from GitHub repo
     """
     codenames = set()
-    repo = f'https://api.github.com/repos/TryHardDood/mi-vendor-updater/releases' \
-           f'?per_page=200&access_token={GIT_TOKEN}&page='
-    data = []
-    for i in range(1, 3):  # parse 2 pages of releases
-        for item in get(f"{repo}{i}").json():
-            data.append(item)
+    url = f'https://api.github.com/repos/TryHardDood/mi-vendor-updater/releases' \
+          f'?per_page=100'
+    page = get(url, headers=HEADER)
+    data = page.json()
+    if page.links:
+        for i in range(2, len(page.links) + 1):
+            for j in get(f"{url}&page={i}", headers=HEADER).json():
+                data.append(j)
     # with open('vendor.json', 'w') as json_file:
     #     json.dump(data, json_file, indent=4)
     for release in data:
