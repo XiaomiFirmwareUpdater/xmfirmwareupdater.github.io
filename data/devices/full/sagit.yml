@@ -1448,3 +1448,33 @@
   versions:
     android: '8.0'
     miui: 8.4.26
+- branch: weekly
+  date: '2018-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-e5b6c34fa2a3cc7891a8/fw_sagit_miui_MI6Global_8.4.19_49003fef39_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/sagit/fw_sagit_miui_MI6Global_8.4.19_49003fef39_8.0.zip
+  filename: fw_sagit_miui_MI6Global_8.4.19_49003fef39_8.0.zip
+  region: Global
+  versions:
+    android: '8.0'
+    miui: 8.4.19
+- branch: weekly
+  date: '2018-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-e5b6c34fa2a3cc7891a8/fw_sagit_miui_MI6_8.4.19_418406941a_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/sagit/fw_sagit_miui_MI6_8.4.19_418406941a_8.0.zip
+  filename: fw_sagit_miui_MI6_8.4.19_418406941a_8.0.zip
+  region: China
+  versions:
+    android: '8.0'
+    miui: 8.4.19
+- branch: weekly
+  date: '2018-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/untagged-e5b6c34fa2a3cc7891a8/fw_sagit_miui_MI6_8.4.26_5357868bf1_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/sagit/fw_sagit_miui_MI6_8.4.26_5357868bf1_8.0.zip
+  filename: fw_sagit_miui_MI6_8.4.26_5357868bf1_8.0.zip
+  region: China
+  versions:
+    android: '8.0'
+    miui: 8.4.26
