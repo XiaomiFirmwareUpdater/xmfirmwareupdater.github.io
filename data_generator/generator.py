@@ -230,30 +230,22 @@ def load_miui_devices():
     """
     load miui devices
     """
-    devices = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
+    stable = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
                             'miui-updates-tracker/master/devices/sf.yml').content, Loader=yaml.CLoader)
+    eol = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
+                        'miui-updates-tracker/master/EOL/sf.yml').content, Loader=yaml.CLoader)
+    devices = [*stable, *eol]
     for codename in devices:
         if '_' in codename:
-            check = codename.split('_')[0]
-            if check in devices:
-                continue
-            else:
-                codename = check
-        M_CODENAMES.append(codename)
+            codename = codename.split('_')[0]
+        if codename in M_CODENAMES:
+            continue
+        else:
+            M_CODENAMES.append(codename)
     for codename in ['tissot', 'jasmine', 'daisy', 'tiare', 'laurel']:
         M_CODENAMES.append(codename)
     with open('../data/miui_codenames.yml', 'w') as out:
-        yaml.dump(M_CODENAMES, out, Dumper=yaml.CDumper)
-    eol = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-                        'miui-updates-tracker/master/EOL/sf.yml').content, Loader=yaml.CLoader)
-    for codename in eol:
-        if '_' in codename:
-            check = codename.split('_')[0]
-            if check in eol:
-                continue
-            else:
-                codename = check
-        M_CODENAMES.append(codename)
+        yaml.dump(sorted(M_CODENAMES), out, Dumper=yaml.CDumper)
     M_DEVICES.update({codename: NAMES[codename] for codename in M_CODENAMES})
     with open('../data/miui_devices.yml', 'w') as out:
         yaml.dump(M_DEVICES, out, Dumper=yaml.CDumper)
