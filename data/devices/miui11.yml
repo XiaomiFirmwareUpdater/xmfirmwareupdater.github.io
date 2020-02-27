@@ -407,6 +407,18 @@
   name: Mi MIX 2
   version: 9.10.17
 - android: '10.0'
+  codename: cmi
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_CMI_20.2.27_d4ca1abc0d_10.0.zip
+  name: Mi 10 Pro
+  version: 20.2.27
+- android: '10.0'
+  codename: crux
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_CRUX_20.2.27_f60023d3cf_10.0.zip
+  name: Mi 9 Pro 5G
+  version: 20.2.27
+- android: '10.0'
   codename: crux
   date: '2020-02-08'
   download: https://bigota.d.miui.com/20.1.21/miui_CRUX_20.1.21_2f6da1fd94_10.0.zip
@@ -448,6 +460,12 @@
   download: https://bigota.d.miui.com/9.10.31/miui_CRUX_9.10.31_d722ee79c4_9.0.zip
   name: Mi 9 Pro 5G
   version: 9.10.31
+- android: '10.0'
+  codename: davinci
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_DAVINCI_20.2.27_3033f66a20_10.0.zip
+  name: Redmi K20/Mi 9T
+  version: 20.2.27
 - android: '10.0'
   codename: davinci
   date: '2020-02-08'
@@ -520,6 +538,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_DAVINCI_9.10.17_22e64b63fe_10.0.zip
   name: Redmi K20/Mi 9T
   version: 9.10.17
+- android: '10.0'
+  codename: dipper
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_MI8_20.2.27_c1f9e18628_10.0.zip
+  name: Mi 8
+  version: 20.2.27
 - android: '10.0'
   codename: dipper
   date: '2020-02-20'
