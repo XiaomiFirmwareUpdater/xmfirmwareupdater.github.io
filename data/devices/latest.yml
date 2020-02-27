@@ -1659,15 +1659,15 @@
     android: '10.0'
     miui: V11.0.5.0.QFKCNXM
 - branch: weekly
-  date: '2020-02-20'
+  date: '2020-02-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-20.02.2020/fw_raphael_miui_RAPHAEL_20.2.20_52d62c3d1a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.20/raphael/fw_raphael_miui_RAPHAEL_20.2.20_52d62c3d1a_10.0.zip
-  filename: fw_raphael_miui_RAPHAEL_20.2.20_52d62c3d1a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-27.02.2020/fw_raphael_miui_RAPHAEL_20.2.27_90065ee5e2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/raphael/fw_raphael_miui_RAPHAEL_20.2.27_90065ee5e2_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.2.27_90065ee5e2_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.2.20
+    miui: 20.2.27
 - branch: stable
   date: '2020-01-10'
   downloads:
@@ -1839,15 +1839,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-02-20'
+  date: '2020-02-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-20.02.2020/fw_sagit_miui_MI6_20.2.20_0bbc2517ef_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.20/sagit/fw_sagit_miui_MI6_20.2.20_0bbc2517ef_9.0.zip
-  filename: fw_sagit_miui_MI6_20.2.20_0bbc2517ef_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-27.02.2020/fw_sagit_miui_MI6_20.2.27_581048ade9_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/sagit/fw_sagit_miui_MI6_20.2.27_581048ade9_9.0.zip
+  filename: fw_sagit_miui_MI6_20.2.27_581048ade9_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 20.2.20
+    miui: 20.2.27
 - branch: stable
   date: '2019-07-29'
   downloads:
@@ -1979,15 +1979,15 @@
     android: '10.0'
     miui: V11.0.2.0.QEBCNXM
 - branch: weekly
-  date: '2020-02-08'
+  date: '2020-02-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-08.02.2020/fw_sirius_miui_MI8SE_20.1.21_09cce369bf_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/sirius/fw_sirius_miui_MI8SE_20.1.21_09cce369bf_10.0.zip
-  filename: fw_sirius_miui_MI8SE_20.1.21_09cce369bf_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-27.02.2020/fw_sirius_miui_MI8SE_20.2.27_4be3529921_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/sirius/fw_sirius_miui_MI8SE_20.2.27_4be3529921_10.0.zip
+  filename: fw_sirius_miui_MI8SE_20.2.27_4be3529921_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.21
+    miui: 20.2.27
 - branch: stable
   date: '2019-11-27'
   downloads:
@@ -2029,15 +2029,15 @@
     android: '9.0'
     miui: V11.0.7.0.PFDCNXM
 - branch: weekly
-  date: '2020-02-20'
+  date: '2020-02-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-20.02.2020/fw_tucana_miui_TUCANA_20.2.20_04b5734e87_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.20/tucana/fw_tucana_miui_TUCANA_20.2.20_04b5734e87_10.0.zip
-  filename: fw_tucana_miui_TUCANA_20.2.20_04b5734e87_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-27.02.2020/fw_tucana_miui_TUCANA_20.2.27_a366102598_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/tucana/fw_tucana_miui_TUCANA_20.2.27_a366102598_10.0.zip
+  filename: fw_tucana_miui_TUCANA_20.2.27_a366102598_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.2.20
+    miui: 20.2.27
 - branch: stable
   date: '2020-01-19'
   downloads:
