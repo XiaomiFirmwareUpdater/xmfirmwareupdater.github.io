@@ -1,17 +1,6 @@
 - branch: stable
   date: '2019-11-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V10.3.10.0.PFGMIXM_730eb0aa6e_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V10.3.10.0.PFGMIXM_730eb0aa6e_9.0.zip/download
-  filename: fw-vendor_lavender_miui_LAVENDERGlobal_V10.3.10.0.PFGMIXM_730eb0aa6e_9.0.zip
-  region: Global
-  size: 375.7 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.10.0.PFGMIXM
-- branch: stable
-  date: '2019-11-01'
-  downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V11.0.3.0.PFGMIXM_45e3e548c2_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V11.0.3.0.PFGMIXM_45e3e548c2_9.0.zip/download
   filename: fw-vendor_lavender_miui_LAVENDERGlobal_V11.0.3.0.PFGMIXM_45e3e548c2_9.0.zip
@@ -20,6 +9,17 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PFGMIXM
+- branch: stable
+  date: '2019-11-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V10.3.10.0.PFGMIXM_730eb0aa6e_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V10.3.10.0.PFGMIXM_730eb0aa6e_9.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDERGlobal_V10.3.10.0.PFGMIXM_730eb0aa6e_9.0.zip
+  region: Global
+  size: 375.7 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.10.0.PFGMIXM
 - branch: stable
   date: '2020-02-21'
   downloads:
@@ -34,17 +34,6 @@
 - branch: stable
   date: '2019-10-31'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip/download
-  filename: fw-vendor_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip
-  region: Europe
-  size: 375.7 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.6.0.PFGEUXM
-- branch: stable
-  date: '2019-10-31'
-  downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.3.0.PFGEUXM_6ef58da8bd_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.3.0.PFGEUXM_6ef58da8bd_9.0.zip/download
   filename: fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.3.0.PFGEUXM_6ef58da8bd_9.0.zip
@@ -53,6 +42,17 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PFGEUXM
+- branch: stable
+  date: '2019-10-31'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDEREEAGlobal_V10.3.6.0.PFGEUXM_22704fdf84_9.0.zip
+  region: Europe
+  size: 375.7 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.6.0.PFGEUXM
 - branch: stable
   date: '2019-11-20'
   downloads:
@@ -65,17 +65,6 @@
     android: '9.0'
     miui: V11.0.4.0.PFGEUXM
 - branch: stable
-  date: '2019-11-02'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_ru_global-stable/fw-vendor_lavender_miui_LAVENDERRUGlobal_V10.3.5.0.PFGRUXM_a3def11a76_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_ru_global-stable/fw-vendor_lavender_miui_LAVENDERRUGlobal_V10.3.5.0.PFGRUXM_a3def11a76_9.0.zip/download
-  filename: fw-vendor_lavender_miui_LAVENDERRUGlobal_V10.3.5.0.PFGRUXM_a3def11a76_9.0.zip
-  region: Russia
-  size: 375.7 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.5.0.PFGRUXM
-- branch: stable
   date: '2019-10-31'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_ru_global-stable/fw-vendor_lavender_miui_LAVENDERRUGlobal_V11.0.3.0.PFGRUXM_b78a171739_9.0.zip
@@ -86,6 +75,17 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PFGRUXM
+- branch: stable
+  date: '2019-11-02'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_ru_global-stable/fw-vendor_lavender_miui_LAVENDERRUGlobal_V10.3.5.0.PFGRUXM_a3def11a76_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_ru_global-stable/fw-vendor_lavender_miui_LAVENDERRUGlobal_V10.3.5.0.PFGRUXM_a3def11a76_9.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDERRUGlobal_V10.3.5.0.PFGRUXM_a3def11a76_9.0.zip
+  region: Russia
+  size: 375.7 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PFGRUXM
 - branch: stable
   date: '2019-11-18'
   downloads:

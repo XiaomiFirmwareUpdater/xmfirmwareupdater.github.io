@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V11.0.10.0.QJBCNXM
 - branch: weekly
-  date: '2020-02-20'
+  date: '2020-02-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-20.02.2020/fw_umi_miui_UMI_20.2.20_f5b8e97ffc_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.20/umi/fw_umi_miui_UMI_20.2.20_f5b8e97ffc_10.0.zip
-  filename: fw_umi_miui_UMI_20.2.20_f5b8e97ffc_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-27.02.2020/fw_umi_miui_UMI_20.2.27_dec62e64bb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/umi/fw_umi_miui_UMI_20.2.27_dec62e64bb_10.0.zip
+  filename: fw_umi_miui_UMI_20.2.27_dec62e64bb_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.2.20
+    miui: 20.2.27

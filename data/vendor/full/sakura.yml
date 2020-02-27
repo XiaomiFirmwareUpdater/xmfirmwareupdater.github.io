@@ -1,4 +1,26 @@
 - branch: stable
+  date: '2019-06-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.2.0.PDMMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.2.0.PDMMIXM.zip/download
+  filename: fw-vendor_sakura_india_global_V10.3.2.0.PDMMIXM.zip
+  region: Global
+  size: 249.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PDMMIXM
+- branch: stable
+  date: '2019-07-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip/download
+  filename: fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip
+  region: Global
+  size: 249.4 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PDMMIXM
+- branch: stable
   date: '2019-10-21'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura-india_miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip
@@ -31,28 +53,6 @@
   versions:
     android: '9.0'
     miui: V11.0.5.0.PDMMIXM
-- branch: stable
-  date: '2019-06-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.2.0.PDMMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.2.0.PDMMIXM.zip/download
-  filename: fw-vendor_sakura_india_global_V10.3.2.0.PDMMIXM.zip
-  region: Global
-  size: 249.2 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.2.0.PDMMIXM
-- branch: stable
-  date: '2019-07-26'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura_india_global-stable/fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip/download
-  filename: fw-vendor_sakura_india_global_V10.3.3.0.PDMMIXM.zip
-  region: Global
-  size: 249.4 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.3.0.PDMMIXM
 - branch: weekly
   date: '2019-04-15'
   downloads:

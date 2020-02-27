@@ -54,6 +54,17 @@
     android: '9.0'
     miui: 9.6.20
 - branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.7.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.7.4.zip/download
+  filename: fw-vendor_violet_9.7.4.zip
+  region: China
+  size: 435.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.4
+- branch: weekly
   date: '2019-07-12'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.7.11.zip
@@ -87,17 +98,6 @@
     android: '9.0'
     miui: 9.7.25
 - branch: weekly
-  date: '2019-07-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.7.4.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.7.4.zip/download
-  filename: fw-vendor_violet_9.7.4.zip
-  region: China
-  size: 435.6 MB
-  versions:
-    android: '9.0'
-    miui: 9.7.4
-- branch: weekly
   date: '2019-08-02'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.8.1.zip
@@ -109,17 +109,6 @@
     android: '9.0'
     miui: 9.8.1
 - branch: weekly
-  date: '2019-08-16'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.8.15.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.8.15.zip/download
-  filename: fw-vendor_violet_9.8.15.zip
-  region: China
-  size: 527.2 MB
-  versions:
-    android: '9.0'
-    miui: 9.8.15
-- branch: weekly
   date: '2019-08-12'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.8.9.zip
@@ -130,6 +119,17 @@
   versions:
     android: '9.0'
     miui: 9.8.9
+- branch: weekly
+  date: '2019-08-16'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet-weekly/fw-vendor_violet_9.8.15.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet-weekly/fw-vendor_violet_9.8.15.zip/download
+  filename: fw-vendor_violet_9.8.15.zip
+  region: China
+  size: 527.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.15
 - branch: weekly
   date: '2019-09-06'
   downloads:

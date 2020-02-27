@@ -1,36 +1,14 @@
 - branch: stable
-  date: '2019-10-18'
+  date: '2019-06-26'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip/download
-  filename: fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_V10.3.4.0.PEHCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_V10.3.4.0.PEHCNXM.zip/download
+  filename: fw-vendor_ursa_V10.3.4.0.PEHCNXM.zip
   region: China
-  size: 641.1 MB
+  size: 507.6 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PEHCNXM
-- branch: stable
-  date: '2020-02-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip/download
-  filename: fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip
-  region: China
-  size: 645.6 MB
-  versions:
-    android: '10.0'
-    miui: V11.0.2.0.QEHCNXM
-- branch: stable
-  date: '2019-11-04'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip/download
-  filename: fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip
-  region: China
-  size: 638.7 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PEHCNXM
+    miui: V10.3.4.0.PEHCNXM
 - branch: stable
   date: '2019-07-05'
   downloads:
@@ -42,17 +20,6 @@
   versions:
     android: '9.0'
     miui: V10.2.1.0.PEHCNXM
-- branch: stable
-  date: '2019-06-26'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_V10.3.4.0.PEHCNXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_V10.3.4.0.PEHCNXM.zip/download
-  filename: fw-vendor_ursa_V10.3.4.0.PEHCNXM.zip
-  region: China
-  size: 507.6 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.4.0.PEHCNXM
 - branch: stable
   date: '2019-07-29'
   downloads:
@@ -75,6 +42,39 @@
   versions:
     android: '9.0'
     miui: V10.3.6.0.PEHCNXM
+- branch: stable
+  date: '2019-10-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip/download
+  filename: fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip
+  region: China
+  size: 641.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PEHCNXM
+- branch: stable
+  date: '2019-11-04'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip/download
+  filename: fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip
+  region: China
+  size: 638.7 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PEHCNXM
+- branch: stable
+  date: '2020-02-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip/download
+  filename: fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip
+  region: China
+  size: 645.6 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QEHCNXM
 - branch: weekly
   date: '2019-04-26'
   downloads:

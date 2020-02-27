@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 28 Feb 2020 02:45:26 +0900</pubDate>
+  <pubDate>Fri, 28 Feb 2020 03:00:09 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - 20.2.27</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 28 Feb 2020 03:00:09 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro (tucana) - 20.2.27</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -100,11 +105,6 @@
     <title>Mi 10 (umi) - V11.0.10.0.QJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
     <pubDate>Fri, 28 Feb 2020 01:10:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.3.9.0.PFCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 28 Feb 2020 01:08:33 +0900</pubDate>
   </item>
     </channel>
 </rss>
