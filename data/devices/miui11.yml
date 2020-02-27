@@ -954,6 +954,12 @@
   version: 9.10.17
 - android: '9.0'
   codename: laurus
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_LAURUS_20.2.27_2a65f4f4cc_9.0.zip
+  name: Mi CC 9e
+  version: 20.2.27
+- android: '9.0'
+  codename: laurus
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_LAURUS_20.1.16_77850857d0_9.0.zip
   name: Mi CC 9e
@@ -1000,6 +1006,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_LAURUS_9.10.17_6c4b9bf0a8_9.0.zip
   name: Mi CC 9e
   version: 9.10.17
+- android: '10.0'
+  codename: lavender
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_LAVENDER_20.2.27_5bfdd2fe34_10.0.zip
+  name: Redmi Note 7/7S
+  version: 20.2.27
 - android: '10.0'
   codename: lavender
   date: '2020-02-08'
@@ -1128,6 +1140,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: nitrogen
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_MIMAX3_20.2.27_f4b7696b64_10.0.zip
+  name: Mi Max 3
+  version: 20.2.27
+- android: '10.0'
+  codename: nitrogen
   date: '2020-02-08'
   download: https://bigota.d.miui.com/20.1.21/miui_MIMAX3_20.1.21_5451c4d7b1_10.0.zip
   name: Mi Max 3
@@ -1210,6 +1228,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_MIMAX2_9.10.10_049afb8889_7.1.zip
   name: Mi Max 2
   version: 9.10.10
+- android: '10.0'
+  codename: perseus
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_MIMIX3_20.2.27_8989ccf3a9_10.0.zip
+  name: Mi MIX 3
+  version: 20.2.27
 - android: '10.0'
   codename: perseus
   date: '2020-02-08'
