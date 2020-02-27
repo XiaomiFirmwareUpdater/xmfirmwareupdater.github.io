@@ -2094,6 +2094,12 @@
   version: 20.2.20
 - android: '10.0'
   codename: ursa
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_MI8Explorer_20.2.27_bea75f7dcf_10.0.zip
+  name: Mi 8 Explorer
+  version: 20.2.27
+- android: '10.0'
+  codename: ursa
   date: '2020-02-08'
   download: https://bigota.d.miui.com/20.1.21/miui_MI8Explorer_20.1.21_d931e6ab0a_10.0.zip
   name: Mi 8 Explorer
@@ -2170,6 +2176,12 @@
   download: https://bigota.d.miui.com/9.9.26/miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
   name: Mi 8 Explorer
   version: 9.9.26
+- android: '10.0'
+  codename: vela
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_VELA_20.2.27_2f31abc56c_10.0.zip
+  name: Mi CC 9 Meitu Edition
+  version: 20.2.27
 - android: '10.0'
   codename: vela
   date: '2020-02-08'
@@ -2274,6 +2286,12 @@
   version: 9.10.17
 - android: '9.0'
   codename: wayne
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_MI6X_20.2.27_b198355b47_9.0.zip
+  name: Mi 6X
+  version: 20.2.27
+- android: '9.0'
+  codename: wayne
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_MI6X_20.1.16_17a4a7b7e2_9.0.zip
   name: Mi 6X
@@ -2350,6 +2368,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_MI6X_9.10.17_dfcad8ca03_9.0.zip
   name: Mi 6X
   version: 9.10.17
+- android: '9.0'
+  codename: whyred
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_HMNote5_20.2.27_fa42771ce5_9.0.zip
+  name: Redmi Note 5/Note 5 Pro
+  version: 20.2.27
 - android: '9.0'
   codename: whyred
   date: '2020-01-17'
