@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 28 Feb 2020 01:03:09 +0900</pubDate>
+  <pubDate>Fri, 28 Feb 2020 01:10:58 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V11.0.10.0.QJBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 28 Feb 2020 01:10:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.3.9.0.PFCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Fri, 28 Feb 2020 01:08:33 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 (dipper) - 20.2.27</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
@@ -95,16 +105,6 @@
     <title>Redmi 7A (pine) - V11.0.6.0.PCMMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
     <pubDate>Mon, 24 Feb 2020 19:09:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 7A (pine) - V11.0.14.0.PCMEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
-    <pubDate>Mon, 24 Feb 2020 19:08:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V11.0.5.0.PCOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Mon, 24 Feb 2020 13:06:27 +0900</pubDate>
   </item>
     </channel>
 </rss>

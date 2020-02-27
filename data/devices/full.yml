@@ -28578,6 +28578,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-27.02.2020/fw_pyxis_miui_PYXISEEAGlobal_V11.3.9.0.PFCEUXM_43fc5033d6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISEEAGlobal_V11.3.9.0.PFCEUXM_43fc5033d6_9.0.zip
+  filename: fw_pyxis_miui_PYXISEEAGlobal_V11.3.9.0.PFCEUXM_43fc5033d6_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V11.3.9.0.PFCEUXM
 - branch: weekly
   date: '2020-02-08'
   downloads:
@@ -42188,6 +42198,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-27.02.2020/fw_umi_miui_UMI_V11.0.10.0.QJBCNXM_5ceecaedad_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/umi/fw_umi_miui_UMI_V11.0.10.0.QJBCNXM_5ceecaedad_10.0.zip
+  filename: fw_umi_miui_UMI_V11.0.10.0.QJBCNXM_5ceecaedad_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.10.0.QJBCNXM
 - branch: stable
   date: '2020-02-23'
   downloads:
