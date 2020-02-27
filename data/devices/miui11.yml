@@ -642,6 +642,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: equuleus
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_MI8UD_20.2.27_e359b9135c_10.0.zip
+  name: Mi 8 Pro
+  version: 20.2.27
+- android: '10.0'
+  codename: equuleus
   date: '2020-02-08'
   download: https://bigota.d.miui.com/20.1.21/miui_MI8UD_20.1.21_6d22c372d8_10.0.zip
   name: Mi 8 Pro
@@ -726,6 +732,12 @@
   version: 9.10.17
 - android: '9.0'
   codename: ginkgo
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_GINKGO_20.2.27_1c30fddd73_9.0.zip
+  name: Redmi Note 8
+  version: 20.2.27
+- android: '9.0'
+  codename: ginkgo
   date: '2020-01-17'
   download: https://bigota.d.miui.com/20.1.16/miui_GINKGO_20.1.16_1b7294bdbb_9.0.zip
   name: Redmi Note 8
@@ -754,6 +766,12 @@
   download: https://bigota.d.miui.com/9.12.12/miui_GINKGO_9.12.12_b085b46872_9.0.zip
   name: Redmi Note 8
   version: 9.12.12
+- android: '10.0'
+  codename: grus
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_GRUS_20.2.27_ac93e25c4a_10.0.zip
+  name: Mi 9 SE
+  version: 20.2.27
 - android: '10.0'
   codename: grus
   date: '2020-02-08'
@@ -844,6 +862,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_GRUS_9.10.17_009316e931_10.0.zip
   name: Mi 9 SE
   version: 9.10.17
+- android: '9.0'
+  codename: jason
+  date: '2020-02-27'
+  download: https://bigota.d.miui.com/20.2.27/miui_MINote3_20.2.27_a01a3d6a6f_9.0.zip
+  name: Mi Note 3
+  version: 20.2.27
 - android: '9.0'
   codename: jason
   date: '2020-01-17'
