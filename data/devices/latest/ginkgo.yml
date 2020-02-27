@@ -9,15 +9,15 @@
     android: '9.0'
     miui: V11.0.6.0.PCOMIXM
 - branch: stable
-  date: '2020-01-03'
+  date: '2020-02-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-03.01.2020/fw_ginkgo_miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip
-  filename: fw_ginkgo_miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-24.02.2020/fw_ginkgo_miui_GINKGO_V11.0.5.0.PCOCNXM_01cc753a51_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGO_V11.0.5.0.PCOCNXM_01cc753a51_9.0.zip
+  filename: fw_ginkgo_miui_GINKGO_V11.0.5.0.PCOCNXM_01cc753a51_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PCOCNXM
+    miui: V11.0.5.0.PCOCNXM
 - branch: weekly
   date: '2020-01-17'
   downloads:
@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 20.1.16
 - branch: stable
-  date: '2019-12-06'
+  date: '2020-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-06.12.2019/fw_ginkgo_miui_GINKGOINGlobal_V11.0.2.0.PCOINXM_ebb16356fb_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V11.0.2.0.PCOINXM_ebb16356fb_9.0.zip
-  filename: fw_ginkgo_miui_GINKGOINGlobal_V11.0.2.0.PCOINXM_ebb16356fb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-26.02.2020/fw_ginkgo_miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip
+  filename: fw_ginkgo_miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PCOINXM
+    miui: V11.0.3.0.PCOINXM
