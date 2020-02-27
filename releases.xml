@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 27 Feb 2020 19:07:20 +0900</pubDate>
+  <pubDate>Thu, 27 Feb 2020 20:58:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V11.0.3.0.PCOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Thu, 27 Feb 2020 20:58:02 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20/Mi 9T (davinci) - V11.0.4.0.QFJCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
@@ -20,11 +25,6 @@
     <title>Redmi Note 8T (willow) - V11.0.5.0.PCXEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
     <pubDate>Thu, 27 Feb 2020 01:25:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V11.0.3.0.PCOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Thu, 27 Feb 2020 01:22:25 +0900</pubDate>
   </item>
     <item>
     <title>Mi 8 SE (sirius) - V11.0.2.0.QEBCNXM</title>

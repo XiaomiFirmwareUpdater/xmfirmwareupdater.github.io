@@ -6469,16 +6469,6 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
-  date: '2020-02-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-27.02.2020/fw_davinci_miui_DAVINCI_V11.0.4.0.QFJCNXM_1bc454c300_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/davinci/fw_davinci_miui_DAVINCI_V11.0.4.0.QFJCNXM_1bc454c300_10.0.zip
-  filename: fw_davinci_miui_DAVINCI_V11.0.4.0.QFJCNXM_1bc454c300_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.4.0.QFJCNXM
-- branch: stable
   date: '2020-02-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-24.02.2020/fw_davinci_miui_DAVINCI_V11.0.4.0.QFJCNXM_1bc454c300_10.0.zip
@@ -9959,25 +9949,15 @@
     android: '7.0'
     miui: 8.3.26
 - branch: stable
-  date: '2020-02-26'
+  date: '2020-02-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-26.02.2020/fw_ginkgo_miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-27.02.2020/fw_ginkgo_miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip
   filename: fw_ginkgo_miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip
   region: India
   versions:
     android: '9.0'
     miui: V11.0.3.0.PCOINXM
-- branch: stable
-  date: '2020-02-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-24.02.2020/fw_ginkgo_miui_GINKGO_V11.0.5.0.PCOCNXM_01cc753a51_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGO_V11.0.5.0.PCOCNXM_01cc753a51_9.0.zip
-  filename: fw_ginkgo_miui_GINKGO_V11.0.5.0.PCOCNXM_01cc753a51_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.5.0.PCOCNXM
 - branch: stable
   date: '2020-02-21'
   downloads:
@@ -12638,16 +12618,6 @@
   versions:
     android: '5.1'
     miui: 8.4.12
-- branch: stable
-  date: '2020-02-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-27.02.2020/fw_jason_miui_MINote3_V11.0.4.0.PCHCNXM_fb1a28dfe0_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/jason/fw_jason_miui_MINote3_V11.0.4.0.PCHCNXM_fb1a28dfe0_9.0.zip
-  filename: fw_jason_miui_MINote3_V11.0.4.0.PCHCNXM_fb1a28dfe0_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.4.0.PCHCNXM
 - branch: stable
   date: '2020-02-25'
   downloads:
@@ -25268,16 +25238,6 @@
   versions:
     android: '9.0'
     miui: 8.10.25
-- branch: stable
-  date: '2020-02-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/stable-22.02.2020/fw_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenix/fw_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.13.0.QGHCNXM
 - branch: weekly
   date: '2020-02-20'
   downloads:
@@ -25448,26 +25408,6 @@
   versions:
     android: '10.0'
     miui: V11.0.3.0.QGICNXM
-- branch: stable
-  date: '2020-02-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-24.02.2020/fw_pine_miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip
-  filename: fw_pine_miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip
-  region: Europe
-  versions:
-    android: '9.0'
-    miui: V11.0.14.0.PCMEUXM
-- branch: stable
-  date: '2020-02-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-24.02.2020/fw_pine_miui_PINEGlobal_V11.0.6.0.PCMMIXM_3dbb87d63c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEGlobal_V11.0.6.0.PCMMIXM_3dbb87d63c_9.0.zip
-  filename: fw_pine_miui_PINEGlobal_V11.0.6.0.PCMMIXM_3dbb87d63c_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V11.0.6.0.PCMMIXM
 - branch: stable
   date: '2020-02-21'
   downloads:
@@ -42179,16 +42119,6 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
-  date: '2020-02-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-25.02.2020/fw_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/umi/fw_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
-  filename: fw_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.9.0.QJBCNXM
-- branch: stable
   date: '2020-02-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-24.02.2020/fw_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
@@ -46918,16 +46848,6 @@
   versions:
     android: '7.1'
     miui: V9.2.7.0.NEIMIEK
-- branch: stable
-  date: '2020-02-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-26.02.2020/fw_willow_miui_WILLOWEEAGlobal_V11.0.5.0.PCXEUXM_96688d238d_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/willow/fw_willow_miui_WILLOWEEAGlobal_V11.0.5.0.PCXEUXM_96688d238d_9.0.zip
-  filename: fw_willow_miui_WILLOWEEAGlobal_V11.0.5.0.PCXEUXM_96688d238d_9.0.zip
-  region: Europe
-  versions:
-    android: '9.0'
-    miui: V11.0.5.0.PCXEUXM
 - branch: stable
   date: '2020-02-25'
   downloads:

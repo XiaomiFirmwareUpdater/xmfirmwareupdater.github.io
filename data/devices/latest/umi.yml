@@ -1,7 +1,7 @@
 - branch: stable
-  date: '2020-02-25'
+  date: '2020-02-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-25.02.2020/fw_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-24.02.2020/fw_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/umi/fw_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
   filename: fw_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
   region: China
