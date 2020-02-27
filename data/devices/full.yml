@@ -25509,6 +25509,16 @@
     android: '10.0'
     miui: V11.0.4.0.QGHINXM
 - branch: weekly
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-27.02.2020/fw_picasso_miui_PICASSO_20.2.27_4361b07006_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/picasso/fw_picasso_miui_PICASSO_20.2.27_4361b07006_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.2.27_4361b07006_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.2.27
+- branch: weekly
   date: '2020-02-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-20.02.2020/fw_picasso_miui_PICASSO_20.2.20_61906f4ab7_10.0.zip
@@ -25798,6 +25808,16 @@
   versions:
     android: '9.0'
     miui: V10.2.6.0.PCMCNXM
+- branch: weekly
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-27.02.2020/fw_platina_miui_MI8Lite_20.2.27_26001ef0c1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/platina/fw_platina_miui_MI8Lite_20.2.27_26001ef0c1_10.0.zip
+  filename: fw_platina_miui_MI8Lite_20.2.27_26001ef0c1_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.2.27
 - branch: weekly
   date: '2020-02-08'
   downloads:
@@ -26748,6 +26768,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: weekly
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-27.02.2020/fw_polaris_miui_MIMIX2S_20.2.27_26582850c0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/polaris/fw_polaris_miui_MIMIX2S_20.2.27_26582850c0_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.2.27_26582850c0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.2.27
 - branch: weekly
   date: '2020-02-20'
   downloads:
@@ -28668,6 +28698,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-27.02.2020/fw_pyxis_miui_PYXIS_20.2.27_a902b4bb87_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/pyxis/fw_pyxis_miui_PYXIS_20.2.27_a902b4bb87_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.2.27_a902b4bb87_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.2.27
 - branch: stable
   date: '2020-02-27'
   downloads:

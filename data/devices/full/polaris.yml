@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-27.02.2020/fw_polaris_miui_MIMIX2S_20.2.27_26582850c0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/polaris/fw_polaris_miui_MIMIX2S_20.2.27_26582850c0_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.2.27_26582850c0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.2.27
+- branch: weekly
   date: '2020-02-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-20.02.2020/fw_polaris_miui_MIMIX2S_20.2.20_294c1a4358_10.0.zip
