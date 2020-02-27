@@ -359,6 +359,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/untagged-ec01e0685368c7250135/fw_begonia_miui_BEGONIA_20.2.27_f4b34052ef_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/begonia/fw_begonia_miui_BEGONIA_20.2.27_f4b34052ef_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_20.2.27_f4b34052ef_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.2.27
+- branch: weekly
   date: '2020-02-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-08.02.2020/fw_begonia_miui_BEGONIA_20.1.21_e4041a86c8_10.0.zip
@@ -3339,6 +3349,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-27.02.2020/fw_cepheus_miui_CEPHEUS_20.2.27_909b7817f4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/cepheus/fw_cepheus_miui_CEPHEUS_20.2.27_909b7817f4_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.2.27_909b7817f4_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.2.27
+- branch: weekly
   date: '2020-02-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-20.02.2020/fw_cepheus_miui_CEPHEUS_20.2.20_64bfa695eb_10.0.zip
@@ -4298,6 +4318,16 @@
   versions:
     android: '8.1'
     miui: V10.3.4.0.OCGCNXM
+- branch: weekly
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-27.02.2020/fw_chiron_miui_MIMIX2_20.2.27_24a45296b1_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/chiron/fw_chiron_miui_MIMIX2_20.2.27_24a45296b1_9.0.zip
+  filename: fw_chiron_miui_MIMIX2_20.2.27_24a45296b1_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.2.27
 - branch: weekly
   date: '2020-01-17'
   downloads:
