@@ -358,6 +358,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-03-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-03.03.2020/fw_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.QGGEUXM_a13b9653ba_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.QGGEUXM_a13b9653ba_10.0.zip
+  filename: fw_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.QGGEUXM_a13b9653ba_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QGGEUXM
 - branch: weekly
   date: '2020-02-27'
   downloads:
@@ -8378,6 +8388,16 @@
   versions:
     android: '8.1'
     miui: 8.6.28
+- branch: stable
+  date: '2020-03-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-03.03.2020/fw_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
+  filename: fw_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QECMIXM
 - branch: weekly
   date: '2020-02-27'
   downloads:
@@ -16068,6 +16088,16 @@
   versions:
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
+- branch: stable
+  date: '2020-03-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-03.03.2020/fw_lavender_miui_LAVENDER_V11.0.6.0.PFGCNXM_c557b4eb01_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDER_V11.0.6.0.PFGCNXM_c557b4eb01_9.0.zip
+  filename: fw_lavender_miui_LAVENDER_V11.0.6.0.PFGCNXM_c557b4eb01_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PFGCNXM
 - branch: weekly
   date: '2020-02-27'
   downloads:
