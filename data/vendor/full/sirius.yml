@@ -1,15 +1,4 @@
 - branch: stable
-  date: '2019-10-17'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-stable/fw-vendor_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-stable/fw-vendor_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip/download
-  filename: fw-vendor_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip
-  region: China
-  size: 476.5 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PEBCNXM
-- branch: stable
   date: '2019-05-05'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-stable/fw-vendor_sirius_V10.3.1.0.PEBCNXM.zip
@@ -20,6 +9,39 @@
   versions:
     android: '9.0'
     miui: V10.3.1.0.PEBCNXM
+- branch: stable
+  date: '2019-10-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-stable/fw-vendor_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-stable/fw-vendor_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip/download
+  filename: fw-vendor_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip
+  region: China
+  size: 476.5 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PEBCNXM
+- branch: weekly
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.12_b6b53474a6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.12_b6b53474a6_9.0.zip/download
+  filename: fw-vendor_sirius_miui_MI8SE_9.4.12_b6b53474a6_9.0.zip
+  region: China
+  size: 409.9 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip/download
+  filename: fw-vendor_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip
+  region: China
+  size: 408.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.19
 - branch: weekly
   date: '2019-04-26'
   downloads:
@@ -31,6 +53,17 @@
   versions:
     android: '9.0'
     miui: 9.4.25
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.5.9.zip/download
+  filename: fw-vendor_sirius_9.5.9.zip
+  region: China
+  size: 420.3 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
 - branch: weekly
   date: '2019-05-17'
   downloads:
@@ -65,17 +98,6 @@
     android: '9.0'
     miui: 9.5.30
 - branch: weekly
-  date: '2019-05-10'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.5.9.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.5.9.zip/download
-  filename: fw-vendor_sirius_9.5.9.zip
-  region: China
-  size: 420.3 MB
-  versions:
-    android: '9.0'
-    miui: 9.5.9
-- branch: weekly
   date: '2019-06-14'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.6.13.zip
@@ -97,6 +119,17 @@
   versions:
     android: '9.0'
     miui: 9.6.20
+- branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.7.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.7.4.zip/download
+  filename: fw-vendor_sirius_9.7.4.zip
+  region: China
+  size: 420.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.4
 - branch: weekly
   date: '2019-07-12'
   downloads:
@@ -131,17 +164,6 @@
     android: '9.0'
     miui: 9.7.25
 - branch: weekly
-  date: '2019-07-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.7.4.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_9.7.4.zip/download
-  filename: fw-vendor_sirius_9.7.4.zip
-  region: China
-  size: 420.5 MB
-  versions:
-    android: '9.0'
-    miui: 9.7.4
-- branch: weekly
   date: '2019-08-02'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_9.8.1.zip
@@ -152,28 +174,6 @@
   versions:
     android: '9.0'
     miui: 9.8.1
-- branch: weekly
-  date: '2019-04-15'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.12_b6b53474a6_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.12_b6b53474a6_9.0.zip/download
-  filename: fw-vendor_sirius_miui_MI8SE_9.4.12_b6b53474a6_9.0.zip
-  region: China
-  size: 409.9 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.12
-- branch: weekly
-  date: '2019-04-22'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-weekly/fw-vendor_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip/download
-  filename: fw-vendor_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip
-  region: China
-  size: 408.8 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.19
 - branch: weekly
   date: '2019-09-06'
   downloads:

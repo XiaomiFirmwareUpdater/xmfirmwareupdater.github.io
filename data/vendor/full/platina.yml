@@ -32,6 +32,17 @@
     android: '9.0'
     miui: V11.0.7.0.PDTRUXM
 - branch: stable
+  date: '2019-04-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V10.3.1.0.PDTMIXM_8f2efd3fd2_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V10.3.1.0.PDTMIXM_8f2efd3fd2_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8LiteGlobal_V10.3.1.0.PDTMIXM_8f2efd3fd2_9.0.zip
+  region: Global
+  size: 408.4 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PDTMIXM
+- branch: stable
   date: '2019-06-05'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-stable/fw-vendor_platina_global_V10.3.2.0.PDTMIXM.zip
@@ -54,16 +65,16 @@
     android: '9.0'
     miui: V10.3.3.0.PDTMIXM
 - branch: stable
-  date: '2019-04-18'
+  date: '2019-11-07'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V10.3.1.0.PDTMIXM_8f2efd3fd2_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V10.3.1.0.PDTMIXM_8f2efd3fd2_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8LiteGlobal_V10.3.1.0.PDTMIXM_8f2efd3fd2_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip
   region: Global
-  size: 408.4 MB
+  size: 418.0 MB
   versions:
     android: '9.0'
-    miui: V10.3.1.0.PDTMIXM
+    miui: V11.0.5.0.PDTMIXM
 - branch: stable
   date: '2019-11-07'
   downloads:
@@ -75,17 +86,6 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PDTMIXM
-- branch: stable
-  date: '2019-11-07'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip
-  region: Global
-  size: 418.0 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.5.0.PDTMIXM
 - branch: stable
   date: '2019-12-23'
   downloads:
@@ -109,11 +109,22 @@
     android: '9.0'
     miui: V11.0.8.0.PDTMIXM
 - branch: weekly
-  date: '2019-04-28'
+  date: '2019-04-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_global_9.4.18.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_global_9.4.18.zip/download
-  filename: fw-vendor_platina_global_9.4.18.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_miui_MI8LiteGlobal_9.4.12_477e479a01_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_miui_MI8LiteGlobal_9.4.12_477e479a01_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8LiteGlobal_9.4.12_477e479a01_9.0.zip
+  region: Global
+  size: 422.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_miui_MI8LiteGlobal_9.4.18_ceefa95ced_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_miui_MI8LiteGlobal_9.4.18_ceefa95ced_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8LiteGlobal_9.4.18_ceefa95ced_9.0.zip
   region: Global
   size: 422.2 MB
   versions:
@@ -130,6 +141,28 @@
   versions:
     android: '9.0'
     miui: 9.4.25
+- branch: weekly
+  date: '2019-04-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_global_9.4.18.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_global_9.4.18.zip/download
+  filename: fw-vendor_platina_global_9.4.18.zip
+  region: Global
+  size: 422.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_global_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_global_9.5.9.zip/download
+  filename: fw-vendor_platina_global_9.5.9.zip
+  region: Global
+  size: 432.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
 - branch: weekly
   date: '2019-05-17'
   downloads:
@@ -164,17 +197,6 @@
     android: '9.0'
     miui: 9.5.30
 - branch: weekly
-  date: '2019-05-10'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_global_9.5.9.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_global_9.5.9.zip/download
-  filename: fw-vendor_platina_global_9.5.9.zip
-  region: Global
-  size: 432.6 MB
-  versions:
-    android: '9.0'
-    miui: 9.5.9
-- branch: weekly
   date: '2019-06-14'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_global_9.6.13.zip
@@ -207,28 +229,6 @@
   versions:
     android: '9.0'
     miui: 9.6.27
-- branch: weekly
-  date: '2019-04-15'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_miui_MI8LiteGlobal_9.4.12_477e479a01_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_miui_MI8LiteGlobal_9.4.12_477e479a01_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8LiteGlobal_9.4.12_477e479a01_9.0.zip
-  region: Global
-  size: 422.1 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.12
-- branch: weekly
-  date: '2019-04-19'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_miui_MI8LiteGlobal_9.4.18_ceefa95ced_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_miui_MI8LiteGlobal_9.4.18_ceefa95ced_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8LiteGlobal_9.4.18_ceefa95ced_9.0.zip
-  region: Global
-  size: 422.2 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.18
 - branch: stable
   date: '2019-04-15'
   downloads:
@@ -240,28 +240,6 @@
   versions:
     android: '9.0'
     miui: V10.2.3.0.PDTCNXM
-- branch: stable
-  date: '2019-10-17'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip
-  region: China
-  size: 474.8 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.2.0.PDTCNXM
-- branch: stable
-  date: '2019-12-23'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip
-  region: China
-  size: 482.2 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.4.0.PDTCNXM
 - branch: stable
   date: '2019-05-08'
   downloads:
@@ -295,6 +273,50 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PDTCNXM
+- branch: stable
+  date: '2019-10-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8Lite_V11.0.2.0.PDTCNXM_3106234dfc_9.0.zip
+  region: China
+  size: 474.8 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PDTCNXM
+- branch: stable
+  date: '2019-12-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip
+  region: China
+  size: 482.2 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PDTCNXM
+- branch: weekly
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.4.12_3a1fcc936b_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.4.12_3a1fcc936b_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8Lite_9.4.12_3a1fcc936b_9.0.zip
+  region: China
+  size: 422.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.4.18_2f199f08b4_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.4.18_2f199f08b4_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8Lite_9.4.18_2f199f08b4_9.0.zip
+  region: China
+  size: 421.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
 - branch: weekly
   date: '2019-04-26'
   downloads:
@@ -306,6 +328,17 @@
   versions:
     android: '9.0'
     miui: 9.4.25
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_9.5.9.zip/download
+  filename: fw-vendor_platina_9.5.9.zip
+  region: China
+  size: 431.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
 - branch: weekly
   date: '2019-05-17'
   downloads:
@@ -340,17 +373,6 @@
     android: '9.0'
     miui: 9.5.30
 - branch: weekly
-  date: '2019-05-10'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_9.5.9.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_9.5.9.zip/download
-  filename: fw-vendor_platina_9.5.9.zip
-  region: China
-  size: 431.5 MB
-  versions:
-    android: '9.0'
-    miui: 9.5.9
-- branch: weekly
   date: '2019-06-14'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_9.6.13.zip
@@ -372,6 +394,17 @@
   versions:
     android: '9.0'
     miui: 9.6.20
+- branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_9.7.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_9.7.4.zip/download
+  filename: fw-vendor_platina_9.7.4.zip
+  region: China
+  size: 432.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.4
 - branch: weekly
   date: '2019-07-12'
   downloads:
@@ -406,17 +439,6 @@
     android: '9.0'
     miui: 9.7.25
 - branch: weekly
-  date: '2019-07-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_9.7.4.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_9.7.4.zip/download
-  filename: fw-vendor_platina_9.7.4.zip
-  region: China
-  size: 432.5 MB
-  versions:
-    android: '9.0'
-    miui: 9.7.4
-- branch: weekly
   date: '2019-08-02'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_9.8.1.zip
@@ -427,17 +449,6 @@
   versions:
     android: '9.0'
     miui: 9.8.1
-- branch: weekly
-  date: '2019-08-16'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_9.8.15.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_9.8.15.zip/download
-  filename: fw-vendor_platina_9.8.15.zip
-  region: China
-  size: 563.0 MB
-  versions:
-    android: '9.0'
-    miui: 9.8.15
 - branch: weekly
   date: '2019-08-12'
   downloads:
@@ -450,27 +461,16 @@
     android: '9.0'
     miui: 9.8.9
 - branch: weekly
-  date: '2019-04-15'
+  date: '2019-08-16'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.4.12_3a1fcc936b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.4.12_3a1fcc936b_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8Lite_9.4.12_3a1fcc936b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_9.8.15.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_9.8.15.zip/download
+  filename: fw-vendor_platina_9.8.15.zip
   region: China
-  size: 422.2 MB
+  size: 563.0 MB
   versions:
     android: '9.0'
-    miui: 9.4.12
-- branch: weekly
-  date: '2019-04-19'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.4.18_2f199f08b4_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.4.18_2f199f08b4_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8Lite_9.4.18_2f199f08b4_9.0.zip
-  region: China
-  size: 421.4 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.18
+    miui: 9.8.15
 - branch: weekly
   date: '2019-09-06'
   downloads:

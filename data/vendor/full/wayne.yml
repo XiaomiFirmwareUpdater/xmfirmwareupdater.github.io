@@ -10,39 +10,6 @@
     android: '8.1'
     miui: V10.2.5.0.ODCCNXM
 - branch: stable
-  date: '2019-11-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V10.3.6.0.PDCCNXM_3a07c1cad3_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-stable/fw-vendor_wayne_miui_MI6X_V10.3.6.0.PDCCNXM_3a07c1cad3_9.0.zip/download
-  filename: fw-vendor_wayne_miui_MI6X_V10.3.6.0.PDCCNXM_3a07c1cad3_9.0.zip
-  region: China
-  size: 367.9 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.6.0.PDCCNXM
-- branch: stable
-  date: '2019-11-04'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.2.0.PDCCNXM_bfe718d74d_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.2.0.PDCCNXM_bfe718d74d_9.0.zip/download
-  filename: fw-vendor_wayne_miui_MI6X_V11.0.2.0.PDCCNXM_bfe718d74d_9.0.zip
-  region: China
-  size: 391.5 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.2.0.PDCCNXM
-- branch: stable
-  date: '2019-12-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip/download
-  filename: fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip
-  region: China
-  size: 391.6 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PDCCNXM
-- branch: stable
   date: '2019-05-28'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_V10.3.3.0.PDCCNXM.zip
@@ -75,6 +42,72 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PDCCNXM
+- branch: stable
+  date: '2019-11-04'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.2.0.PDCCNXM_bfe718d74d_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.2.0.PDCCNXM_bfe718d74d_9.0.zip/download
+  filename: fw-vendor_wayne_miui_MI6X_V11.0.2.0.PDCCNXM_bfe718d74d_9.0.zip
+  region: China
+  size: 391.5 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PDCCNXM
+- branch: stable
+  date: '2019-11-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V10.3.6.0.PDCCNXM_3a07c1cad3_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-stable/fw-vendor_wayne_miui_MI6X_V10.3.6.0.PDCCNXM_3a07c1cad3_9.0.zip/download
+  filename: fw-vendor_wayne_miui_MI6X_V10.3.6.0.PDCCNXM_3a07c1cad3_9.0.zip
+  region: China
+  size: 367.9 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.6.0.PDCCNXM
+- branch: stable
+  date: '2019-12-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip/download
+  filename: fw-vendor_wayne_miui_MI6X_V11.0.3.0.PDCCNXM_9ec1316afd_9.0.zip
+  region: China
+  size: 391.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PDCCNXM
+- branch: stable
+  date: '2020-03-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.5.0.PDCCNXM_4b7613f7bc_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-stable/fw-vendor_wayne_miui_MI6X_V11.0.5.0.PDCCNXM_4b7613f7bc_9.0.zip/download
+  filename: fw-vendor_wayne_miui_MI6X_V11.0.5.0.PDCCNXM_4b7613f7bc_9.0.zip
+  region: China
+  size: 398.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PDCCNXM
+- branch: weekly
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.4.12_668632ed21_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.4.12_668632ed21_9.0.zip/download
+  filename: fw-vendor_wayne_miui_MI6X_9.4.12_668632ed21_9.0.zip
+  region: China
+  size: 370.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.4.18_e42faee5ef_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.4.18_e42faee5ef_9.0.zip/download
+  filename: fw-vendor_wayne_miui_MI6X_9.4.18_e42faee5ef_9.0.zip
+  region: China
+  size: 370.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
 - branch: weekly
   date: '2019-04-26'
   downloads:
@@ -86,6 +119,17 @@
   versions:
     android: '9.0'
     miui: 9.4.25
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-weekly/fw-vendor_wayne_9.5.9.zip/download
+  filename: fw-vendor_wayne_9.5.9.zip
+  region: China
+  size: 380.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
 - branch: weekly
   date: '2019-05-17'
   downloads:
@@ -120,17 +164,6 @@
     android: '9.0'
     miui: 9.5.30
 - branch: weekly
-  date: '2019-05-10'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_9.5.9.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-weekly/fw-vendor_wayne_9.5.9.zip/download
-  filename: fw-vendor_wayne_9.5.9.zip
-  region: China
-  size: 380.8 MB
-  versions:
-    android: '9.0'
-    miui: 9.5.9
-- branch: weekly
   date: '2019-06-15'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_9.6.13.zip
@@ -152,6 +185,17 @@
   versions:
     android: '9.0'
     miui: 9.6.20
+- branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_9.7.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-weekly/fw-vendor_wayne_9.7.4.zip/download
+  filename: fw-vendor_wayne_9.7.4.zip
+  region: China
+  size: 380.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.4
 - branch: weekly
   date: '2019-07-12'
   downloads:
@@ -186,17 +230,6 @@
     android: '9.0'
     miui: 9.7.25
 - branch: weekly
-  date: '2019-07-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_9.7.4.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-weekly/fw-vendor_wayne_9.7.4.zip/download
-  filename: fw-vendor_wayne_9.7.4.zip
-  region: China
-  size: 380.8 MB
-  versions:
-    android: '9.0'
-    miui: 9.7.4
-- branch: weekly
   date: '2019-08-02'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_9.8.1.zip
@@ -218,28 +251,6 @@
   versions:
     android: '9.0'
     miui: 9.8.9
-- branch: weekly
-  date: '2019-04-15'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.4.12_668632ed21_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.4.12_668632ed21_9.0.zip/download
-  filename: fw-vendor_wayne_miui_MI6X_9.4.12_668632ed21_9.0.zip
-  region: China
-  size: 370.4 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.12
-- branch: weekly
-  date: '2019-04-22'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.4.18_e42faee5ef_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/wayne-weekly/fw-vendor_wayne_miui_MI6X_9.4.18_e42faee5ef_9.0.zip/download
-  filename: fw-vendor_wayne_miui_MI6X_9.4.18_e42faee5ef_9.0.zip
-  region: China
-  size: 370.4 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.18
 - branch: weekly
   date: '2019-09-06'
   downloads:
