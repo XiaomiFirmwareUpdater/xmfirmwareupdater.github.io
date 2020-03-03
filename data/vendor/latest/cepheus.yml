@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-01-10'
+  date: '2020-03-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_global-stable/fw-vendor_cepheus_miui_CEPHEUSGlobal_V11.0.4.0.QFAMIXM_5e4cc092fa_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_global-stable/fw-vendor_cepheus_miui_CEPHEUSGlobal_V11.0.4.0.QFAMIXM_5e4cc092fa_10.0.zip/download
-  filename: fw-vendor_cepheus_miui_CEPHEUSGlobal_V11.0.4.0.QFAMIXM_5e4cc092fa_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_global-stable/fw-vendor_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_global-stable/fw-vendor_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
   region: Global
-  size: 777.8 MB
+  size: 778.9 MB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QFAMIXM
+    miui: V11.0.5.0.QFAMIXM
 - branch: stable
   date: '2019-12-23'
   downloads:
@@ -43,16 +43,16 @@
     android: '10.0'
     miui: 9.8.22
 - branch: stable
-  date: '2020-01-10'
+  date: '2020-03-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_eea_global-stable/fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V11.0.7.0.QFAEUXM_c540795d64_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_eea_global-stable/fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V11.0.7.0.QFAEUXM_c540795d64_10.0.zip/download
-  filename: fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V11.0.7.0.QFAEUXM_c540795d64_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_eea_global-stable/fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_eea_global-stable/fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
   region: Europe
-  size: 777.7 MB
+  size: 779.0 MB
   versions:
     android: '10.0'
-    miui: V11.0.7.0.QFAEUXM
+    miui: V11.0.8.0.QFAEUXM
 - branch: stable
   date: '2019-11-12'
   downloads:
