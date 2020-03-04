@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 04 Mar 2020 13:06:00 +0900</pubDate>
+  <pubDate>Thu, 05 Mar 2020 01:08:47 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8A (olivelite) - V11.0.8.0.PCPCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Thu, 05 Mar 2020 01:08:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8 (olive) - V11.0.8.0.PCNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
+    <pubDate>Thu, 05 Mar 2020 01:07:11 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 (davinciin) - V11.0.2.0.QFJINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
@@ -95,16 +105,6 @@
     <title>Mi 10 (umi) - 20.2.27</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
     <pubDate>Fri, 28 Feb 2020 03:00:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro (tucana) - 20.2.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 28 Feb 2020 02:45:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 SE (sirius) - 20.2.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
-    <pubDate>Fri, 28 Feb 2020 02:43:17 +0900</pubDate>
   </item>
     </channel>
 </rss>
