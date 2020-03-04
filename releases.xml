@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 04 Mar 2020 07:12:02 +0900</pubDate>
+  <pubDate>Wed, 04 Mar 2020 13:06:00 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20 (davinciin) - V11.0.2.0.QFJINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
+    <pubDate>Wed, 04 Mar 2020 13:06:00 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.3.0.QFKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
@@ -100,11 +105,6 @@
     <title>Mi 8 SE (sirius) - 20.2.27</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
     <pubDate>Fri, 28 Feb 2020 02:43:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6 (sagit) - 20.2.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Fri, 28 Feb 2020 02:41:20 +0900</pubDate>
   </item>
     </channel>
 </rss>
