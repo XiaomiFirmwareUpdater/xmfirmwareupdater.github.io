@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 06 Mar 2020 04:10:24 +0900</pubDate>
+  <pubDate>Fri, 06 Mar 2020 05:39:30 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 Pro (equuleus) - 20.3.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
+    <pubDate>Fri, 06 Mar 2020 05:39:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - 20.3.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Fri, 06 Mar 2020 05:30:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - 20.3.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 06 Mar 2020 05:01:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - 20.3.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Fri, 06 Mar 2020 04:16:21 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Pro (cmi) - 20.3.5</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - V11.0.6.0.PFGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Tue, 03 Mar 2020 20:15:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - V11.0.3.0.QECMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Tue, 03 Mar 2020 20:13:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V11.0.2.0.QGGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Tue, 03 Mar 2020 20:12:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5/Note 5 Pro (whyred) - 20.2.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Fri, 28 Feb 2020 04:21:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 20.2.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 28 Feb 2020 03:34:40 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -6489,6 +6489,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
 - branch: weekly
+  date: '2020-03-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-05.03.2020/fw_crux_miui_CRUX_20.3.5_ad6f1c4d26_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/crux/fw_crux_miui_CRUX_20.3.5_ad6f1c4d26_10.0.zip
+  filename: fw_crux_miui_CRUX_20.3.5_ad6f1c4d26_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
+- branch: weekly
   date: '2020-02-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-27.02.2020/fw_crux_miui_CRUX_20.2.27_f60023d3cf_10.0.zip
@@ -6598,6 +6608,16 @@
   versions:
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
+- branch: weekly
+  date: '2020-03-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-05.03.2020/fw_davinci_miui_DAVINCI_20.3.5_ffb0b0656d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/davinci/fw_davinci_miui_DAVINCI_20.3.5_ffb0b0656d_10.0.zip
+  filename: fw_davinci_miui_DAVINCI_20.3.5_ffb0b0656d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
 - branch: weekly
   date: '2020-02-27'
   downloads:
@@ -7048,6 +7068,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PFJINXM
+- branch: weekly
+  date: '2020-03-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-05.03.2020/fw_dipper_miui_MI8_20.3.5_54cd132916_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/dipper/fw_dipper_miui_MI8_20.3.5_54cd132916_10.0.zip
+  filename: fw_dipper_miui_MI8_20.3.5_54cd132916_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
 - branch: weekly
   date: '2020-02-27'
   downloads:
@@ -8458,6 +8488,16 @@
   versions:
     android: '8.1'
     miui: 8.6.28
+- branch: weekly
+  date: '2020-03-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-05.03.2020/fw_equuleus_miui_MI8UD_20.3.5_33470ce327_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/equuleus/fw_equuleus_miui_MI8UD_20.3.5_33470ce327_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_20.3.5_33470ce327_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
 - branch: stable
   date: '2020-03-03'
   downloads:
