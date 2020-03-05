@@ -1,5 +1,11 @@
 - android: '10.0'
   codename: begonia
+  date: '2020-03-05'
+  download: https://bigota.d.miui.com/20.3.5/miui_BEGONIA_20.3.5_46fa2b3693_10.0.zip
+  name: Redmi Note 8 Pro
+  version: 20.3.5
+- android: '10.0'
+  codename: begonia
   date: '2020-02-27'
   download: https://bigota.d.miui.com/20.2.27/miui_BEGONIA_20.2.27_f4b34052ef_10.0.zip
   name: Redmi Note 8 Pro
@@ -148,6 +154,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_MI5S_9.10.10_de79f43db0_8.0.zip
   name: Mi 5s
   version: 9.10.10
+- android: '10.0'
+  codename: cepheus
+  date: '2020-03-05'
+  download: https://bigota.d.miui.com/20.3.5/miui_CEPHEUS_20.3.5_b541c3093a_10.0.zip
+  name: Mi 9
+  version: 20.3.5
 - android: '10.0'
   codename: cepheus
   date: '2020-02-27'
@@ -324,6 +336,12 @@
   version: 9.10.17
 - android: '9.0'
   codename: chiron
+  date: '2020-03-05'
+  download: https://bigota.d.miui.com/20.3.5/miui_MIMIX2_20.3.5_c0d564c66e_9.0.zip
+  name: Mi MIX 2
+  version: 20.3.5
+- android: '9.0'
+  codename: chiron
   date: '2020-02-27'
   download: https://bigota.d.miui.com/20.2.27/miui_MIMIX2_20.2.27_24a45296b1_9.0.zip
   name: Mi MIX 2
@@ -406,6 +424,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_MIMIX2_9.10.17_83da7d1c11_9.0.zip
   name: Mi MIX 2
   version: 9.10.17
+- android: '10.0'
+  codename: cmi
+  date: '2020-03-05'
+  download: https://bigota.d.miui.com/20.3.5/miui_CMI_20.3.5_ce04b4f9ba_10.0.zip
+  name: Mi 10 Pro
+  version: 20.3.5
 - android: '10.0'
   codename: cmi
   date: '2020-02-27'

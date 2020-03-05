@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-03-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-05.03.2020/fw_cepheus_miui_CEPHEUS_20.3.5_b541c3093a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/cepheus/fw_cepheus_miui_CEPHEUS_20.3.5_b541c3093a_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.3.5_b541c3093a_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
 - branch: stable
   date: '2020-03-03'
   downloads:
