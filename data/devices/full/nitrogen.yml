@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-06.03.2020/fw_nitrogen_miui_MIMAX3_20.3.5_438f93806b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/nitrogen/fw_nitrogen_miui_MIMAX3_20.3.5_438f93806b_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_20.3.5_438f93806b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
+- branch: weekly
   date: '2020-02-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-27.02.2020/fw_nitrogen_miui_MIMAX3_20.2.27_f4b7696b64_10.0.zip

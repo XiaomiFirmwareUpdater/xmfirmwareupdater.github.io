@@ -909,15 +909,15 @@
     android: '9.0'
     miui: V11.0.4.0.PFMCNXM
 - branch: weekly
-  date: '2020-02-27'
+  date: '2020-03-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-27.02.2020/fw_laurus_miui_LAURUS_20.2.27_2a65f4f4cc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/laurus/fw_laurus_miui_LAURUS_20.2.27_2a65f4f4cc_9.0.zip
-  filename: fw_laurus_miui_LAURUS_20.2.27_2a65f4f4cc_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-06.03.2020/fw_laurus_miui_LAURUS_20.3.5_531a704ec9_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/laurus/fw_laurus_miui_LAURUS_20.3.5_531a704ec9_9.0.zip
+  filename: fw_laurus_miui_LAURUS_20.3.5_531a704ec9_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 20.2.27
+    miui: 20.3.5
 - branch: stable
   date: '2020-02-13'
   downloads:
@@ -1199,15 +1199,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-02-27'
+  date: '2020-03-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-27.02.2020/fw_nitrogen_miui_MIMAX3_20.2.27_f4b7696b64_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/nitrogen/fw_nitrogen_miui_MIMAX3_20.2.27_f4b7696b64_10.0.zip
-  filename: fw_nitrogen_miui_MIMAX3_20.2.27_f4b7696b64_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-06.03.2020/fw_nitrogen_miui_MIMAX3_20.3.5_438f93806b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/nitrogen/fw_nitrogen_miui_MIMAX3_20.3.5_438f93806b_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_20.3.5_438f93806b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.2.27
+    miui: 20.3.5
 - branch: stable
   date: '2020-02-25'
   downloads:
