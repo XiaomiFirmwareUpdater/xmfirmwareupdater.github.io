@@ -19,15 +19,15 @@
     android: '9.0'
     miui: V11.0.6.0.PFGCNXM
 - branch: weekly
-  date: '2020-02-27'
+  date: '2020-03-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-27.02.2020/fw_lavender_miui_LAVENDER_20.2.27_5bfdd2fe34_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/lavender/fw_lavender_miui_LAVENDER_20.2.27_5bfdd2fe34_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.2.27_5bfdd2fe34_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-06.03.2020/fw_lavender_miui_LAVENDER_20.3.5_fdf30a6d9b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/lavender/fw_lavender_miui_LAVENDER_20.3.5_fdf30a6d9b_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_20.3.5_fdf30a6d9b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.2.27
+    miui: 20.3.5
 - branch: stable
   date: '2019-11-21'
   downloads:
