@@ -44618,6 +44618,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-06.03.2020/fw_violet_miui_VIOLET_20.3.5_5225b86870_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/violet/fw_violet_miui_VIOLET_20.3.5_5225b86870_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.3.5_5225b86870_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
 - branch: stable
   date: '2019-12-26'
   downloads:
@@ -45068,6 +45078,16 @@
   versions:
     android: '9.0'
     miui: V10.2.5.0.PFHCNXM
+- branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-06.03.2020/fw_wayne_miui_MI6X_20.3.5_906f58ce08_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/wayne/fw_wayne_miui_MI6X_20.3.5_906f58ce08_9.0.zip
+  filename: fw_wayne_miui_MI6X_20.3.5_906f58ce08_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.5
 - branch: stable
   date: '2020-03-03'
   downloads:
@@ -45948,6 +45968,16 @@
   versions:
     android: '8.1'
     miui: V9.5.7.0.ODCCNFA
+- branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-06.03.2020/fw_whyred_miui_HMNote5_20.3.5_2683fb23ae_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/whyred/fw_whyred_miui_HMNote5_20.3.5_2683fb23ae_9.0.zip
+  filename: fw_whyred_miui_HMNote5_20.3.5_2683fb23ae_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.5
 - branch: weekly
   date: '2020-02-27'
   downloads:
