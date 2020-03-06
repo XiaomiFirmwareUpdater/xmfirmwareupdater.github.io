@@ -822,6 +822,12 @@
   version: 9.12.12
 - android: '10.0'
   codename: grus
+  date: '2020-03-06'
+  download: https://bigota.d.miui.com/20.3.5/miui_GRUS_20.3.5_1c16355a5c_10.0.zip
+  name: Mi 9 SE
+  version: 20.3.5
+- android: '10.0'
+  codename: grus
   date: '2020-02-27'
   download: https://bigota.d.miui.com/20.2.27/miui_GRUS_20.2.27_ac93e25c4a_10.0.zip
   name: Mi 9 SE

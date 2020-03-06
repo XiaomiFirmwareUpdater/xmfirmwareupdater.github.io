@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 06 Mar 2020 16:57:45 +0900</pubDate>
+  <pubDate>Fri, 06 Mar 2020 17:01:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 9 SE (grus) - 20.3.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 06 Mar 2020 17:01:33 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 (ginkgo) - 20.3.5</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
@@ -100,11 +105,6 @@
     <title>Mi CC 9 Meitu Edition (vela) - V11.0.1.0.QFECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
     <pubDate>Tue, 03 Mar 2020 20:34:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.0.1.0.QFCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Tue, 03 Mar 2020 20:32:38 +0900</pubDate>
   </item>
     </channel>
 </rss>
