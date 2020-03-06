@@ -19,15 +19,15 @@
     android: '10.0'
     miui: V11.0.5.0.QFKCNXM
 - branch: weekly
-  date: '2020-02-27'
+  date: '2020-03-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-27.02.2020/fw_raphael_miui_RAPHAEL_20.2.27_90065ee5e2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/raphael/fw_raphael_miui_RAPHAEL_20.2.27_90065ee5e2_10.0.zip
-  filename: fw_raphael_miui_RAPHAEL_20.2.27_90065ee5e2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-06.03.2020/fw_raphael_miui_RAPHAEL_20.3.5_1a3420dfe0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/raphael/fw_raphael_miui_RAPHAEL_20.3.5_1a3420dfe0_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.3.5_1a3420dfe0_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.2.27
+    miui: 20.3.5
 - branch: stable
   date: '2020-03-03'
   downloads:

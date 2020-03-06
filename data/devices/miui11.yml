@@ -1662,6 +1662,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: pyxis
+  date: '2020-03-06'
+  download: https://bigota.d.miui.com/20.3.5/miui_PYXIS_20.3.5_b58b304d01_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.3.5
+- android: '10.0'
+  codename: pyxis
   date: '2020-02-27'
   download: https://bigota.d.miui.com/20.2.27/miui_PYXIS_20.2.27_a902b4bb87_10.0.zip
   name: Mi CC 9/Mi 9 Lite
@@ -1732,6 +1738,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_PYXIS_9.10.17_b91ea52a15_9.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 9.10.17
+- android: '10.0'
+  codename: raphael
+  date: '2020-03-06'
+  download: https://bigota.d.miui.com/20.3.5/miui_RAPHAEL_20.3.5_1a3420dfe0_10.0.zip
+  name: Redmi K20 Pro/Mi 9T Pro
+  version: 20.3.5
 - android: '10.0'
   codename: raphael
   date: '2020-02-27'
@@ -2026,6 +2038,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_MINote2_9.10.10_d84e44a760_8.0.zip
   name: Mi Note 2
   version: 9.10.10
+- android: '10.0'
+  codename: sirius
+  date: '2020-03-06'
+  download: https://bigota.d.miui.com/20.3.5/miui_MI8SE_20.3.5_c819c23f8f_10.0.zip
+  name: Mi 8 SE
+  version: 20.3.5
 - android: '10.0'
   codename: sirius
   date: '2020-02-27'

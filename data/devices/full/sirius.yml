@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-06.03.2020/fw_sirius_miui_MI8SE_20.3.5_c819c23f8f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/sirius/fw_sirius_miui_MI8SE_20.3.5_c819c23f8f_10.0.zip
+  filename: fw_sirius_miui_MI8SE_20.3.5_c819c23f8f_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
+- branch: weekly
   date: '2020-02-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-27.02.2020/fw_sirius_miui_MI8SE_20.2.27_4be3529921_10.0.zip
