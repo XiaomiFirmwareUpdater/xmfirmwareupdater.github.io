@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 06 Mar 2020 18:14:58 +0900</pubDate>
+  <pubDate>Fri, 06 Mar 2020 19:09:36 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 3 (perseus) - V11.0.3.0.QEEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Fri, 06 Mar 2020 19:09:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - V11.0.12.0.QJACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 06 Mar 2020 19:07:42 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 5/Note 5 Pro (whyred) - 20.3.5</title>
     <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
@@ -95,16 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 20.3.5</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Fri, 06 Mar 2020 17:16:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 20.3.5</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Fri, 06 Mar 2020 17:14:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 20.3.5</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 06 Mar 2020 17:11:46 +0900</pubDate>
   </item>
     </channel>
 </rss>
