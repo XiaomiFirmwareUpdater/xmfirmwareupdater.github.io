@@ -24749,6 +24749,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-06.03.2020/fw_perseus_miui_MIMIX3_20.3.5_36488a0401_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/perseus/fw_perseus_miui_MIMIX3_20.3.5_36488a0401_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.3.5_36488a0401_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
+- branch: weekly
   date: '2020-02-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-27.02.2020/fw_perseus_miui_MIMIX3_20.2.27_8989ccf3a9_10.0.zip
@@ -25729,6 +25739,16 @@
     android: '10.0'
     miui: V11.0.4.0.QGHINXM
 - branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-06.03.2020/fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/picasso/fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
+- branch: weekly
   date: '2020-02-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-27.02.2020/fw_picasso_miui_PICASSO_20.2.27_4361b07006_10.0.zip
@@ -26028,6 +26048,16 @@
   versions:
     android: '9.0'
     miui: V10.2.6.0.PCMCNXM
+- branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-06.03.2020/fw_platina_miui_MI8Lite_20.3.5_e9b0a649f2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/platina/fw_platina_miui_MI8Lite_20.3.5_e9b0a649f2_10.0.zip
+  filename: fw_platina_miui_MI8Lite_20.3.5_e9b0a649f2_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
 - branch: weekly
   date: '2020-02-27'
   downloads:
