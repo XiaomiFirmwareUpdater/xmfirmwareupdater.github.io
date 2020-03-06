@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 06 Mar 2020 17:24:57 +0900</pubDate>
+  <pubDate>Fri, 06 Mar 2020 17:30:09 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 20.3.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Fri, 06 Mar 2020 17:30:09 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 Lite (platina) - 20.3.5</title>
     <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
@@ -100,11 +105,6 @@
     <title>Redmi 8A (olivelite) - V11.0.8.0.PCPCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
     <pubDate>Thu, 05 Mar 2020 01:08:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.8.0.PCNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Thu, 05 Mar 2020 01:07:11 +0900</pubDate>
   </item>
     </channel>
 </rss>

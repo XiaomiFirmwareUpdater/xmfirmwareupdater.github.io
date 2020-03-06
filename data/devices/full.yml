@@ -25629,6 +25629,16 @@
     android: '9.0'
     miui: 8.10.25
 - branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-06.03.2020/fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/phoenix/fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
+- branch: weekly
   date: '2020-02-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-20.02.2020/fw_phoenix_miui_PHOENIX_20.2.20_210f81bb20_10.0.zip
