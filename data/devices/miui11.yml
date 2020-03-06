@@ -780,6 +780,12 @@
   version: 9.10.17
 - android: '9.0'
   codename: ginkgo
+  date: '2020-03-06'
+  download: https://bigota.d.miui.com/20.3.5/miui_GINKGO_20.3.5_bb2dcc1530_9.0.zip
+  name: Redmi Note 8
+  version: 20.3.5
+- android: '9.0'
+  codename: ginkgo
   date: '2020-02-27'
   download: https://bigota.d.miui.com/20.2.27/miui_GINKGO_20.2.27_1c30fddd73_9.0.zip
   name: Redmi Note 8
