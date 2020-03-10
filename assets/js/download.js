@@ -1,4 +1,4 @@
-function getUrlVars() {
+async function getUrlVars() {
     // https://html-online.com/articles/get-url-parameters-javascript/
     var vars = {};
     var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
@@ -7,21 +7,42 @@ function getUrlVars() {
     return vars;
 }
 
-function generate_link(filename, branch, version, codename) {
+async function generate_link(filename, branch, version, codename) {
     var link = 'https://osdn.net/frs/redir.php?m=auto&f=/storage/g/x/xi/xiaomifirmwareupdater/';
     if (branch == 'Stable') {
         link += 'Stable/';
         link += version.split('.')[0] + '/';
     }
     else if (branch == 'Weekly') {
-        link += 'Developer/';
-        link += version + '/';
+        if (version.startsWith('8.')) {
+            await $.ajax({
+                url: '/data/devices/full/' + codename + '.yml',
+                async: true,
+                converters: {
+                    'text yaml': function (result) {
+                        return jsyaml.load(result);
+                    }
+                },
+                dataType: 'yaml'
+            }).done(function (data) {
+                for (let i = 0; i < data.length; i++) {
+                    if (data[i].filename == filename) {
+                        link = data[i].downloads.github;
+                        break;
+                    }
+                }
+            })
+            return link
+        } else {
+            link += 'Developer/';
+            link += version + '/';
+        }
     }
     link += codename + '/' + filename;
     return link
 }
 
-function startDownload(download, filename) {
+async function startDownload(download, filename) {
     setTimeout(
         function () {
             link = document.createElement("a");
@@ -33,8 +54,9 @@ function startDownload(download, filename) {
         }, 5000);
 }
 
-$(document).ready(function () {
-    vars = getUrlVars();
+
+$(document).ready(async function () {
+    vars = await getUrlVars();
     if ($.isEmptyObject(vars)) {
         window.location.href = window.location.origin + '#download';
     }
@@ -58,6 +80,9 @@ $(document).ready(function () {
     else if (device.includes('INGlobal')) {
         region = 'India';
     }
+    else if (device.includes('IDGlobal')) {
+        region = 'Indonesia';
+    }
     else if (device.includes('RUGlobal')) {
         region = 'Russsia';
     }
@@ -67,12 +92,12 @@ $(document).ready(function () {
     else {
         region = 'China';
     }
-    var download = generate_link(filename, branch, version, codename);
+    var download = await generate_link(filename, branch, version, codename);
     $('#device').text(device);
     $('#codename').text(codename);
     $('#branch').text(branch);
     $('#region').text(region);
     $('#miui').text(version);
     $('#android').text(android);
-    startDownload(download, filename);
+    await startDownload(download, filename);
 });

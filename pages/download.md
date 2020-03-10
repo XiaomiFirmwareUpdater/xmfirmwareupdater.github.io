@@ -4,7 +4,7 @@ layout: single
 permalink: /download/
 ---
 
-<script src="/assets/js/download.js"></script>
+<script async type="text/javascript" src="/assets/js/download.js"></script>
 
 <h1 id="downloadPageTitle" data-ref="DownloadWillStart">Download will start immediately for <span id="codename"></span></h1>
 <br>
