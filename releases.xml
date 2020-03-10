@@ -54,11 +54,6 @@
     <item>
     <title>Mi Max 3 (nitrogen) - V11.0.2.0.QEDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Mon, 09 Mar 2020 19:07:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - V11.0.2.0.QEDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Mon, 09 Mar 2020 19:07:40 +0900</pubDate>
   </item>
     <item>
@@ -105,6 +100,11 @@
     <title>Mi 10 (umi) - 20.3.5</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
     <pubDate>Fri, 06 Mar 2020 17:59:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9 Pro (tucana) - 20.3.5</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Fri, 06 Mar 2020 17:56:30 +0900</pubDate>
   </item>
     </channel>
 </rss>
