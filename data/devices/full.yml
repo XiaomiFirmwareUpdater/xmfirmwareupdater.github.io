@@ -6429,6 +6429,16 @@
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
 - branch: stable
+  date: '2020-03-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/stable-10.03.2020/fw_cmi_miui_CMI_V11.0.13.0.QJACNXM_d847c78f59_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cmi/fw_cmi_miui_CMI_V11.0.13.0.QJACNXM_d847c78f59_10.0.zip
+  filename: fw_cmi_miui_CMI_V11.0.13.0.QJACNXM_d847c78f59_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.13.0.QJACNXM
+- branch: stable
   date: '2020-03-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/stable-06.03.2020/fw_cmi_miui_CMI_V11.0.12.0.QJACNXM_f39baa63df_10.0.zip
@@ -18478,6 +18488,26 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2020-03-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-10.03.2020/fw_lotus_miui_MIPLAYGlobal_V11.0.3.0.OFIMIXM_8213c08e29_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAYGlobal_V11.0.3.0.OFIMIXM_8213c08e29_8.1.zip
+  filename: fw_lotus_miui_MIPLAYGlobal_V11.0.3.0.OFIMIXM_8213c08e29_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: V11.0.3.0.OFIMIXM
+- branch: stable
+  date: '2020-03-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-10.03.2020/fw_lotus_miui_MIPLAY_V11.0.5.0.OFICNXM_1460636b15_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAY_V11.0.5.0.OFICNXM_1460636b15_8.1.zip
+  filename: fw_lotus_miui_MIPLAY_V11.0.5.0.OFICNXM_1460636b15_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V11.0.5.0.OFICNXM
 - branch: weekly
   date: '2020-01-03'
   downloads:
@@ -22559,6 +22589,16 @@
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
 - branch: stable
+  date: '2020-03-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-10.03.2020/fw_olive_miui_OLIVEINGlobal_V11.0.8.0.PCNINXM_089d77e4b6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVEINGlobal_V11.0.8.0.PCNINXM_089d77e4b6_9.0.zip
+  filename: fw_olive_miui_OLIVEINGlobal_V11.0.8.0.PCNINXM_089d77e4b6_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.8.0.PCNINXM
+- branch: stable
   date: '2020-03-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-04.03.2020/fw_olive_miui_OLIVE_V11.0.8.0.PCNCNXM_2ab6e7a99d_9.0.zip
@@ -25868,6 +25908,16 @@
   versions:
     android: '10.0'
     miui: V11.0.3.0.QGICNXM
+- branch: stable
+  date: '2020-03-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-10.03.2020/fw_pine_miui_PINEINGlobal_V11.0.4.0.PCMINXM_0ea04d4f45_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEINGlobal_V11.0.4.0.PCMINXM_0ea04d4f45_9.0.zip
+  filename: fw_pine_miui_PINEINGlobal_V11.0.4.0.PCMINXM_0ea04d4f45_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCMINXM
 - branch: stable
   date: '2020-02-21'
   downloads:
@@ -39748,6 +39798,26 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-03-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-10.03.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.0.16.0.PFDEUXM_9ac25e9dc7_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.0.16.0.PFDEUXM_9ac25e9dc7_9.0.zip
+  filename: fw_tucana_miui_TUCANAEEAGlobal_V11.0.16.0.PFDEUXM_9ac25e9dc7_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V11.0.16.0.PFDEUXM
+- branch: stable
+  date: '2020-03-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-10.03.2020/fw_tucana_miui_TUCANAGlobal_V11.0.8.0.PFDMIXM_85ed799ef6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAGlobal_V11.0.8.0.PFDMIXM_85ed799ef6_9.0.zip
+  filename: fw_tucana_miui_TUCANAGlobal_V11.0.8.0.PFDMIXM_85ed799ef6_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.8.0.PFDMIXM
 - branch: weekly
   date: '2020-03-06'
   downloads:

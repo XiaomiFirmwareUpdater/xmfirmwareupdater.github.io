@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2019-10-17'
+  date: '2020-03-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-stable/fw-vendor_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-stable/fw-vendor_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip/download
-  filename: fw-vendor_sirius_miui_MI8SE_V11.0.3.0.PEBCNXM_095039e56a_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sirius-stable/fw-vendor_sirius_miui_MI8SE_V11.0.2.0.QEBCNXM_3363abf171_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sirius-stable/fw-vendor_sirius_miui_MI8SE_V11.0.2.0.QEBCNXM_3363abf171_10.0.zip/download
+  filename: fw-vendor_sirius_miui_MI8SE_V11.0.2.0.QEBCNXM_3363abf171_10.0.zip
   region: China
-  size: 476.5 MB
+  size: 587.8 MB
   versions:
-    android: '9.0'
-    miui: V11.0.3.0.PEBCNXM
+    android: '10.0'
+    miui: V11.0.2.0.QEBCNXM
 - branch: weekly
   date: '2019-09-06'
   downloads:

@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2019-12-26'
+  date: '2020-03-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-26.12.2019/fw_lotus_miui_MIPLAYGlobal_V11.0.2.0.OFIMIXM_f6af3d5b6b_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAYGlobal_V11.0.2.0.OFIMIXM_f6af3d5b6b_8.1.zip
-  filename: fw_lotus_miui_MIPLAYGlobal_V11.0.2.0.OFIMIXM_f6af3d5b6b_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-10.03.2020/fw_lotus_miui_MIPLAYGlobal_V11.0.3.0.OFIMIXM_8213c08e29_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAYGlobal_V11.0.3.0.OFIMIXM_8213c08e29_8.1.zip
+  filename: fw_lotus_miui_MIPLAYGlobal_V11.0.3.0.OFIMIXM_8213c08e29_8.1.zip
   region: Global
   versions:
     android: '8.1'
-    miui: V11.0.2.0.OFIMIXM
+    miui: V11.0.3.0.OFIMIXM
 - branch: stable
-  date: '2019-12-02'
+  date: '2020-03-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-02.12.2019/fw_lotus_miui_MIPLAY_V11.0.3.0.OFICNXM_8bbf9b0c3c_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAY_V11.0.3.0.OFICNXM_8bbf9b0c3c_8.1.zip
-  filename: fw_lotus_miui_MIPLAY_V11.0.3.0.OFICNXM_8bbf9b0c3c_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-10.03.2020/fw_lotus_miui_MIPLAY_V11.0.5.0.OFICNXM_1460636b15_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAY_V11.0.5.0.OFICNXM_1460636b15_8.1.zip
+  filename: fw_lotus_miui_MIPLAY_V11.0.5.0.OFICNXM_1460636b15_8.1.zip
   region: China
   versions:
     android: '8.1'
-    miui: V11.0.3.0.OFICNXM
+    miui: V11.0.5.0.OFICNXM
 - branch: weekly
   date: '2020-01-03'
   downloads:

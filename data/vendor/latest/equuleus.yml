@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2019-11-01'
+  date: '2020-03-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.5.0.PECMIXM_390eb435f5_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.5.0.PECMIXM_390eb435f5_9.0.zip/download
-  filename: fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.5.0.PECMIXM_390eb435f5_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip/download
+  filename: fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
   region: Global
-  size: 566.9 MB
+  size: 541.6 MB
   versions:
-    android: '9.0'
-    miui: V11.0.5.0.PECMIXM
+    android: '10.0'
+    miui: V11.0.3.0.QECMIXM
 - branch: stable
   date: '2020-02-06'
   downloads:
@@ -43,13 +43,13 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2019-11-01'
+  date: '2020-03-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_ru_global-stable/fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.5.0.PECRUXM_c086847eaf_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_ru_global-stable/fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.5.0.PECRUXM_c086847eaf_9.0.zip/download
-  filename: fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.5.0.PECRUXM_c086847eaf_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_ru_global-stable/fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.1.0.QECRUXM_f993b94108_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_ru_global-stable/fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.1.0.QECRUXM_f993b94108_10.0.zip/download
+  filename: fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.1.0.QECRUXM_f993b94108_10.0.zip
   region: Russia
-  size: 566.9 MB
+  size: 541.6 MB
   versions:
-    android: '9.0'
-    miui: V11.0.5.0.PECRUXM
+    android: '10.0'
+    miui: V11.0.1.0.QECRUXM
