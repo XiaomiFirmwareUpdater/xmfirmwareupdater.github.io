@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2020-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-11.03.2020/fw_violet_miui_VIOLET_V11.0.8.0.PFHCNXM_3b7c27c482_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLET_V11.0.8.0.PFHCNXM_3b7c27c482_9.0.zip
+  filename: fw_violet_miui_VIOLET_V11.0.8.0.PFHCNXM_3b7c27c482_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.8.0.PFHCNXM
 - branch: weekly
   date: '2020-03-06'
   downloads:

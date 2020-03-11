@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-02-06'
+  date: '2020-03-11'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip/download
-  filename: fw-vendor_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.6.0.QEJMIXM_e45c83a2db_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.6.0.QEJMIXM_e45c83a2db_10.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_V11.0.6.0.QEJMIXM_e45c83a2db_10.0.zip
   region: Global
-  size: 523.9 MB
+  size: 527.5 MB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QEJMIXM
+    miui: V11.0.6.0.QEJMIXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
