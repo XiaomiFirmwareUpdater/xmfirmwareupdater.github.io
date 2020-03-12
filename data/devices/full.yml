@@ -29799,6 +29799,16 @@
     android: '9.0'
     miui: V10.3.7.0.PFKCNXM
 - branch: stable
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphaelin/releases/download/stable-12.03.2020/fw_raphaelin_miui_RAPHAELININGlobal_V11.0.4.0.QFKINXM_d27b7514d7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/raphaelin/fw_raphaelin_miui_RAPHAELININGlobal_V11.0.4.0.QFKINXM_d27b7514d7_10.0.zip
+  filename: fw_raphaelin_miui_RAPHAELININGlobal_V11.0.4.0.QFKINXM_d27b7514d7_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QFKINXM
+- branch: stable
   date: '2019-12-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphaelin/releases/download/stable-19.12.2019/fw_raphaelin_miui_RAPHAELININGlobal_V11.0.3.0.QFKINXM_845b36b440_10.0.zip
@@ -44758,6 +44768,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-12.03.2020/fw_violet_miui_VIOLETINGlobal_V11.0.8.0.PFHINXM_957aa9b840_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.8.0.PFHINXM_957aa9b840_9.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V11.0.8.0.PFHINXM_957aa9b840_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.8.0.PFHINXM
 - branch: stable
   date: '2020-03-11'
   downloads:
