@@ -726,6 +726,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: equuleus
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_MI8UD_20.3.12_4f26acce5b_10.0.zip
+  name: Mi 8 Pro
+  version: 20.3.12
+- android: '10.0'
+  codename: equuleus
   date: '2020-03-05'
   download: https://bigota.d.miui.com/20.3.5/miui_MI8UD_20.3.5_33470ce327_10.0.zip
   name: Mi 8 Pro
@@ -822,6 +828,12 @@
   version: 9.10.17
 - android: '9.0'
   codename: ginkgo
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_GINKGO_20.3.12_b68a15e0c2_9.0.zip
+  name: Redmi Note 8
+  version: 20.3.12
+- android: '9.0'
+  codename: ginkgo
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_GINKGO_20.3.5_bb2dcc1530_9.0.zip
   name: Redmi Note 8
@@ -862,6 +874,12 @@
   download: https://bigota.d.miui.com/9.12.12/miui_GINKGO_9.12.12_b085b46872_9.0.zip
   name: Redmi Note 8
   version: 9.12.12
+- android: '10.0'
+  codename: grus
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_GRUS_20.3.12_793066b41a_10.0.zip
+  name: Mi 9 SE
+  version: 20.3.12
 - android: '10.0'
   codename: grus
   date: '2020-03-06'
@@ -966,6 +984,12 @@
   version: 9.10.17
 - android: '9.0'
   codename: jason
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_MINote3_20.3.12_4623c4169d_9.0.zip
+  name: Mi Note 3
+  version: 20.3.12
+- android: '9.0'
+  codename: jason
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_MINote3_20.3.5_f7bea4dd50_9.0.zip
   name: Mi Note 3
@@ -1062,6 +1086,12 @@
   version: 9.10.17
 - android: '9.0'
   codename: laurus
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_LAURUS_20.3.12_7be48f80d8_9.0.zip
+  name: Mi CC 9e
+  version: 20.3.12
+- android: '9.0'
+  codename: laurus
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_LAURUS_20.3.5_531a704ec9_9.0.zip
   name: Mi CC 9e
@@ -1120,6 +1150,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_LAURUS_9.10.17_6c4b9bf0a8_9.0.zip
   name: Mi CC 9e
   version: 9.10.17
+- android: '10.0'
+  codename: lavender
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_LAVENDER_20.3.12_41d3259a62_10.0.zip
+  name: Redmi Note 7/7S
+  version: 20.3.12
 - android: '10.0'
   codename: lavender
   date: '2020-03-06'

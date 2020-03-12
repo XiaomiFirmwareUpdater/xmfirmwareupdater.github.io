@@ -8589,6 +8589,16 @@
     android: '8.1'
     miui: 8.6.28
 - branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-12.03.2020/fw_equuleus_miui_MI8UD_20.3.12_4f26acce5b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/equuleus/fw_equuleus_miui_MI8UD_20.3.12_4f26acce5b_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_20.3.12_4f26acce5b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.12
+- branch: weekly
   date: '2020-03-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-05.03.2020/fw_equuleus_miui_MI8UD_20.3.5_33470ce327_10.0.zip
@@ -10269,6 +10279,16 @@
     android: '7.0'
     miui: 8.3.26
 - branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/weekly-12.03.2020/fw_ginkgo_miui_GINKGO_20.3.12_b68a15e0c2_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/ginkgo/fw_ginkgo_miui_GINKGO_20.3.12_b68a15e0c2_9.0.zip
+  filename: fw_ginkgo_miui_GINKGO_20.3.12_b68a15e0c2_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.12
+- branch: weekly
   date: '2020-03-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/weekly-06.03.2020/fw_ginkgo_miui_GINKGO_20.3.5_bb2dcc1530_9.0.zip
@@ -10508,6 +10528,16 @@
   versions:
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
+- branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-12.03.2020/fw_grus_miui_GRUS_20.3.12_793066b41a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/grus/fw_grus_miui_GRUS_20.3.12_793066b41a_10.0.zip
+  filename: fw_grus_miui_GRUS_20.3.12_793066b41a_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.12
 - branch: weekly
   date: '2020-03-06'
   downloads:
@@ -12978,6 +13008,16 @@
   versions:
     android: '5.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-12.03.2020/fw_jason_miui_MINote3_20.3.12_4623c4169d_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/jason/fw_jason_miui_MINote3_20.3.12_4623c4169d_9.0.zip
+  filename: fw_jason_miui_MINote3_20.3.12_4623c4169d_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.12
 - branch: weekly
   date: '2020-03-06'
   downloads:
@@ -16169,6 +16209,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-12.03.2020/fw_laurus_miui_LAURUS_20.3.12_7be48f80d8_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/laurus/fw_laurus_miui_LAURUS_20.3.12_7be48f80d8_9.0.zip
+  filename: fw_laurus_miui_LAURUS_20.3.12_7be48f80d8_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.12
+- branch: weekly
   date: '2020-03-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-06.03.2020/fw_laurus_miui_LAURUS_20.3.5_531a704ec9_9.0.zip
@@ -16338,6 +16388,16 @@
   versions:
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
+- branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-12.03.2020/fw_lavender_miui_LAVENDER_20.3.12_41d3259a62_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/lavender/fw_lavender_miui_LAVENDER_20.3.12_41d3259a62_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_20.3.12_41d3259a62_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.12
 - branch: weekly
   date: '2020-03-06'
   downloads:

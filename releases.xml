@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 13 Mar 2020 02:17:19 +0900</pubDate>
+  <pubDate>Fri, 13 Mar 2020 02:35:50 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9e (laurus) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
+    <pubDate>Fri, 13 Mar 2020 02:35:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Fri, 13 Mar 2020 02:34:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Note 3 (jason) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
+    <pubDate>Fri, 13 Mar 2020 02:23:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 13 Mar 2020 02:22:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Fri, 13 Mar 2020 02:21:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Pro (equuleus) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
+    <pubDate>Fri, 13 Mar 2020 02:20:11 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 (dipper) - 20.3.12</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
@@ -75,36 +105,6 @@
     <title>Mi MIX 2 (chiron) - V11.0.5.0.PDECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
     <pubDate>Wed, 11 Mar 2020 19:09:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 7A (pine) - V11.0.5.0.PCMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
-    <pubDate>Wed, 11 Mar 2020 13:06:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro (tucana) - V11.0.8.0.PFDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Wed, 11 Mar 2020 01:47:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro (tucana) - V11.0.16.0.PFDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Wed, 11 Mar 2020 01:40:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 7A (pine) - V11.0.4.0.PCMINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
-    <pubDate>Wed, 11 Mar 2020 01:32:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.8.0.PCNINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Wed, 11 Mar 2020 01:13:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Play (lotus) - V11.0.3.0.OFIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
-    <pubDate>Wed, 11 Mar 2020 01:11:40 +0900</pubDate>
   </item>
     </channel>
 </rss>
