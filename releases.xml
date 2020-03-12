@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 13 Mar 2020 00:42:27 +0900</pubDate>
+  <pubDate>Fri, 13 Mar 2020 01:20:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi S2/Y2 (ysl) - V11.0.3.0.PEFCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ysl</link>
+    <pubDate>Fri, 13 Mar 2020 01:20:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Lite (platina) - V11.0.1.0.QDTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Fri, 13 Mar 2020 01:07:33 +0900</pubDate>
+  </item>
     <item>
     <title>Mi MIX 2 (chiron) - 20.3.12</title>
     <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
@@ -95,16 +105,6 @@
     <title>Mi MIX 3 (perseus) - V11.0.2.0.QEECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
     <pubDate>Mon, 09 Mar 2020 19:09:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - V11.0.2.0.QEDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Mon, 09 Mar 2020 19:07:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - V11.0.3.0.QEEMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Fri, 06 Mar 2020 19:09:36 +0900</pubDate>
   </item>
     </channel>
 </rss>
