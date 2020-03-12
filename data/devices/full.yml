@@ -6468,6 +6468,16 @@
   versions:
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
+- branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-12.03.2020/fw_cmi_miui_CMI_20.3.12_81361ac41c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/cmi/fw_cmi_miui_CMI_20.3.12_81361ac41c_10.0.zip
+  filename: fw_cmi_miui_CMI_20.3.12_81361ac41c_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.12
 - branch: stable
   date: '2020-03-10'
   downloads:
@@ -6548,6 +6558,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
+- branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-12.03.2020/fw_crux_miui_CRUX_20.3.12_c8815e5bda_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/crux/fw_crux_miui_CRUX_20.3.12_c8815e5bda_10.0.zip
+  filename: fw_crux_miui_CRUX_20.3.12_c8815e5bda_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.12
 - branch: weekly
   date: '2020-03-05'
   downloads:
@@ -6668,6 +6688,16 @@
   versions:
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
+- branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-12.03.2020/fw_davinci_miui_DAVINCI_20.3.12_5761e651e9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/davinci/fw_davinci_miui_DAVINCI_20.3.12_5761e651e9_10.0.zip
+  filename: fw_davinci_miui_DAVINCI_20.3.12_5761e651e9_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.12
 - branch: weekly
   date: '2020-03-05'
   downloads:
@@ -7128,6 +7158,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PFJINXM
+- branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-12.03.2020/fw_dipper_miui_MI8_20.3.12_1d462e58be_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/dipper/fw_dipper_miui_MI8_20.3.12_1d462e58be_10.0.zip
+  filename: fw_dipper_miui_MI8_20.3.12_1d462e58be_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.12
 - branch: weekly
   date: '2020-03-05'
   downloads:

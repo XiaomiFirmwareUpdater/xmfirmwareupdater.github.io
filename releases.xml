@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 13 Mar 2020 01:20:34 +0900</pubDate>
+  <pubDate>Fri, 13 Mar 2020 02:17:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 (dipper) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Fri, 13 Mar 2020 02:17:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 13 Mar 2020 02:14:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Fri, 13 Mar 2020 02:12:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 13 Mar 2020 01:47:46 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi S2/Y2 (ysl) - V11.0.3.0.PEFCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ysl</link>
@@ -85,26 +105,6 @@
     <title>Mi Play (lotus) - V11.0.3.0.OFIMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
     <pubDate>Wed, 11 Mar 2020 01:11:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Play (lotus) - V11.0.5.0.OFICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
-    <pubDate>Wed, 11 Mar 2020 01:10:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V11.0.13.0.QJACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Wed, 11 Mar 2020 01:07:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V11.0.15.0.QJBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Mon, 09 Mar 2020 19:19:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - V11.0.2.0.QEECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Mon, 09 Mar 2020 19:09:37 +0900</pubDate>
   </item>
     </channel>
 </rss>

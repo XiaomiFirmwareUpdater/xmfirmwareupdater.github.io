@@ -359,15 +359,15 @@
     android: '10.0'
     miui: V11.0.13.0.QJACNXM
 - branch: weekly
-  date: '2020-03-05'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-05.03.2020/fw_cmi_miui_CMI_20.3.5_ce04b4f9ba_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/cmi/fw_cmi_miui_CMI_20.3.5_ce04b4f9ba_10.0.zip
-  filename: fw_cmi_miui_CMI_20.3.5_ce04b4f9ba_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-12.03.2020/fw_cmi_miui_CMI_20.3.12_81361ac41c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/cmi/fw_cmi_miui_CMI_20.3.12_81361ac41c_10.0.zip
+  filename: fw_cmi_miui_CMI_20.3.12_81361ac41c_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.5
+    miui: 20.3.12
 - branch: stable
   date: '2019-11-15'
   downloads:
@@ -379,15 +379,15 @@
     android: '9.0'
     miui: V11.0.3.0.PFXCNXM
 - branch: weekly
-  date: '2020-03-05'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-05.03.2020/fw_crux_miui_CRUX_20.3.5_ad6f1c4d26_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/crux/fw_crux_miui_CRUX_20.3.5_ad6f1c4d26_10.0.zip
-  filename: fw_crux_miui_CRUX_20.3.5_ad6f1c4d26_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-12.03.2020/fw_crux_miui_CRUX_20.3.12_c8815e5bda_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/crux/fw_crux_miui_CRUX_20.3.12_c8815e5bda_10.0.zip
+  filename: fw_crux_miui_CRUX_20.3.12_c8815e5bda_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.5
+    miui: 20.3.12
 - branch: stable
   date: '2020-01-20'
   downloads:
@@ -409,15 +409,15 @@
     android: '10.0'
     miui: V11.0.4.0.QFJCNXM
 - branch: weekly
-  date: '2020-03-05'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-05.03.2020/fw_davinci_miui_DAVINCI_20.3.5_ffb0b0656d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/davinci/fw_davinci_miui_DAVINCI_20.3.5_ffb0b0656d_10.0.zip
-  filename: fw_davinci_miui_DAVINCI_20.3.5_ffb0b0656d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-12.03.2020/fw_davinci_miui_DAVINCI_20.3.12_5761e651e9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/davinci/fw_davinci_miui_DAVINCI_20.3.12_5761e651e9_10.0.zip
+  filename: fw_davinci_miui_DAVINCI_20.3.12_5761e651e9_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.5
+    miui: 20.3.12
 - branch: stable
   date: '2020-02-13'
   downloads:
@@ -469,15 +469,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-03-05'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-05.03.2020/fw_dipper_miui_MI8_20.3.5_54cd132916_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/dipper/fw_dipper_miui_MI8_20.3.5_54cd132916_10.0.zip
-  filename: fw_dipper_miui_MI8_20.3.5_54cd132916_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-12.03.2020/fw_dipper_miui_MI8_20.3.12_1d462e58be_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/dipper/fw_dipper_miui_MI8_20.3.12_1d462e58be_10.0.zip
+  filename: fw_dipper_miui_MI8_20.3.12_1d462e58be_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.5
+    miui: 20.3.12
 - branch: stable
   date: '2020-03-03'
   downloads:
