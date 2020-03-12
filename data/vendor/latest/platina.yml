@@ -10,16 +10,16 @@
     android: '9.0'
     miui: V11.0.8.0.PDTMIXM
 - branch: stable
-  date: '2019-12-23'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip/download
-  filename: fw-vendor_platina_miui_MI8Lite_V11.0.4.0.PDTCNXM_5595027d43_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.1.0.QDTCNXM_58d94853ad_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.1.0.QDTCNXM_58d94853ad_10.0.zip/download
+  filename: fw-vendor_platina_miui_MI8Lite_V11.0.1.0.QDTCNXM_58d94853ad_10.0.zip
   region: China
-  size: 482.2 MB
+  size: 548.2 MB
   versions:
-    android: '9.0'
-    miui: V11.0.4.0.PDTCNXM
+    android: '10.0'
+    miui: V11.0.1.0.QDTCNXM
 - branch: weekly
   date: '2019-06-29'
   downloads:

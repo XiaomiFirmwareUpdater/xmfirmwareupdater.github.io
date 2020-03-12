@@ -1,11 +1,46 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 13 Mar 2020 02:35:50 +0900</pubDate>
+  <pubDate>Fri, 13 Mar 2020 02:49:55 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 2S (polaris) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Fri, 13 Mar 2020 02:49:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Fri, 13 Mar 2020 02:48:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Lite (platina) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Fri, 13 Mar 2020 02:42:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G (picasso) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 13 Mar 2020 02:41:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 (perseus) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Fri, 13 Mar 2020 02:40:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 13 Mar 2020 02:39:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - 20.3.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 13 Mar 2020 02:39:26 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9e (laurus) - 20.3.12</title>
     <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
@@ -70,41 +105,6 @@
     <title>Mi MIX 2 (chiron) - 20.3.12</title>
     <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
     <pubDate>Fri, 13 Mar 2020 00:42:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.3.12</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 13 Mar 2020 00:18:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 20.3.12</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 13 Mar 2020 00:16:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro (tucana) - V11.0.7.0.PFDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Thu, 12 Mar 2020 19:07:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - V11.0.8.0.PFHINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Thu, 12 Mar 2020 13:08:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro (raphaelin) - V11.0.4.0.QFKINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
-    <pubDate>Thu, 12 Mar 2020 13:06:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - V11.0.8.0.PFHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Thu, 12 Mar 2020 01:07:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2 (chiron) - V11.0.5.0.PDECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
-    <pubDate>Wed, 11 Mar 2020 19:09:34 +0900</pubDate>
   </item>
     </channel>
 </rss>

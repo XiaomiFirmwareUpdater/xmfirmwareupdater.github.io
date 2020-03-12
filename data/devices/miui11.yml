@@ -1296,6 +1296,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: nitrogen
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_MIMAX3_20.3.12_d615a99c74_10.0.zip
+  name: Mi Max 3
+  version: 20.3.12
+- android: '10.0'
+  codename: nitrogen
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_MIMAX3_20.3.5_438f93806b_10.0.zip
   name: Mi Max 3
@@ -1390,6 +1396,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_MIMAX2_9.10.10_049afb8889_7.1.zip
   name: Mi Max 2
   version: 9.10.10
+- android: '10.0'
+  codename: perseus
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_MIMIX3_20.3.12_7b4e95ba6d_10.0.zip
+  name: Mi MIX 3
+  version: 20.3.12
 - android: '10.0'
   codename: perseus
   date: '2020-03-06'
@@ -1494,6 +1506,12 @@
   version: 9.10.16
 - android: '10.0'
   codename: phoenix
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip
+  name: Redmi K30 4G
+  version: 20.3.12
+- android: '10.0'
+  codename: phoenix
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
   name: Redmi K30 4G
@@ -1536,6 +1554,12 @@
   version: 9.12.19
 - android: '10.0'
   codename: picasso
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_PICASSO_20.3.12_56f04be6ff_10.0.zip
+  name: Redmi K30 5G
+  version: 20.3.12
+- android: '10.0'
+  codename: picasso
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
   name: Redmi K30 5G
@@ -1558,6 +1582,12 @@
   download: https://bigota.d.miui.com/20.1.16/miui_PICASSO_20.1.16_68dfe1adb0_10.0.zip
   name: Redmi K30 5G
   version: 20.1.16
+- android: '10.0'
+  codename: platina
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_MI8Lite_20.3.12_70ec4ae34a_10.0.zip
+  name: Mi 8 Lite
+  version: 20.3.12
 - android: '10.0'
   codename: platina
   date: '2020-03-06'
@@ -1648,6 +1678,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_MI8Lite_9.10.17_e18ec42046_9.0.zip
   name: Mi 8 Lite
   version: 9.10.17
+- android: '10.0'
+  codename: polaris
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_MIMIX2S_20.3.12_76326a3e53_10.0.zip
+  name: Mi MIX 2S
+  version: 20.3.12
 - android: '10.0'
   codename: polaris
   date: '2020-02-27'

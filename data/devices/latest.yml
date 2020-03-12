@@ -1199,15 +1199,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-03-06'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-06.03.2020/fw_nitrogen_miui_MIMAX3_20.3.5_438f93806b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/nitrogen/fw_nitrogen_miui_MIMAX3_20.3.5_438f93806b_10.0.zip
-  filename: fw_nitrogen_miui_MIMAX3_20.3.5_438f93806b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-12.03.2020/fw_nitrogen_miui_MIMAX3_20.3.12_d615a99c74_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/nitrogen/fw_nitrogen_miui_MIMAX3_20.3.12_d615a99c74_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_20.3.12_d615a99c74_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.5
+    miui: 20.3.12
 - branch: stable
   date: '2020-02-25'
   downloads:
@@ -1399,15 +1399,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-03-06'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-06.03.2020/fw_perseus_miui_MIMIX3_20.3.5_36488a0401_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/perseus/fw_perseus_miui_MIMIX3_20.3.5_36488a0401_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_20.3.5_36488a0401_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-12.03.2020/fw_perseus_miui_MIMIX3_20.3.12_7b4e95ba6d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/perseus/fw_perseus_miui_MIMIX3_20.3.12_7b4e95ba6d_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.3.12_7b4e95ba6d_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.5
+    miui: 20.3.12
 - branch: stable
   date: '2020-02-20'
   downloads:
@@ -1419,15 +1419,15 @@
     android: '10.0'
     miui: V11.0.13.0.QGHCNXM
 - branch: weekly
-  date: '2020-03-06'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-06.03.2020/fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/phoenix/fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-12.03.2020/fw_phoenix_miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/phoenix/fw_phoenix_miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.5
+    miui: 20.3.12
 - branch: stable
   date: '2020-02-12'
   downloads:
@@ -1449,15 +1449,15 @@
     android: '10.0'
     miui: V11.0.11.0.QGICNXM
 - branch: weekly
-  date: '2020-03-06'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-06.03.2020/fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/picasso/fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-12.03.2020/fw_picasso_miui_PICASSO_20.3.12_56f04be6ff_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/picasso/fw_picasso_miui_PICASSO_20.3.12_56f04be6ff_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.3.12_56f04be6ff_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.5
+    miui: 20.3.12
 - branch: stable
   date: '2020-02-21'
   downloads:
@@ -1529,15 +1529,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-03-06'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-06.03.2020/fw_platina_miui_MI8Lite_20.3.5_e9b0a649f2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/platina/fw_platina_miui_MI8Lite_20.3.5_e9b0a649f2_10.0.zip
-  filename: fw_platina_miui_MI8Lite_20.3.5_e9b0a649f2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-12.03.2020/fw_platina_miui_MI8Lite_20.3.12_70ec4ae34a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/platina/fw_platina_miui_MI8Lite_20.3.12_70ec4ae34a_10.0.zip
+  filename: fw_platina_miui_MI8Lite_20.3.12_70ec4ae34a_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.5
+    miui: 20.3.12
 - branch: stable
   date: '2020-01-31'
   downloads:
@@ -1569,15 +1569,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-02-27'
+  date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-27.02.2020/fw_polaris_miui_MIMIX2S_20.2.27_26582850c0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/polaris/fw_polaris_miui_MIMIX2S_20.2.27_26582850c0_10.0.zip
-  filename: fw_polaris_miui_MIMIX2S_20.2.27_26582850c0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-12.03.2020/fw_polaris_miui_MIMIX2S_20.3.12_76326a3e53_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/polaris/fw_polaris_miui_MIMIX2S_20.3.12_76326a3e53_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.3.12_76326a3e53_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.2.27
+    miui: 20.3.12
 - branch: stable
   date: '2019-05-21'
   downloads:
