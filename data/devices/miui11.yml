@@ -1776,6 +1776,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: pyxis
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_PYXIS_20.3.12_282b270e73_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.3.12
+- android: '10.0'
+  codename: pyxis
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_PYXIS_20.3.5_b58b304d01_10.0.zip
   name: Mi CC 9/Mi 9 Lite
@@ -1852,6 +1858,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_PYXIS_9.10.17_b91ea52a15_9.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 9.10.17
+- android: '10.0'
+  codename: raphael
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_RAPHAEL_20.3.12_b8e5e1628d_10.0.zip
+  name: Redmi K20 Pro/Mi 9T Pro
+  version: 20.3.12
 - android: '10.0'
   codename: raphael
   date: '2020-03-06'
@@ -1966,6 +1978,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_HM5_9.10.10_7acc7a29d1_8.1.zip
   name: Redmi 5
   version: 9.10.10
+- android: '9.0'
+  codename: sagit
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_MI6_20.3.12_f5c13f92e7_9.0.zip
+  name: Mi 6
+  version: 20.3.12
 - android: '9.0'
   codename: sagit
   date: '2020-03-06'
@@ -2160,6 +2178,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: sirius
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_MI8SE_20.3.12_68801a8645_10.0.zip
+  name: Mi 8 SE
+  version: 20.3.12
+- android: '10.0'
+  codename: sirius
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_MI8SE_20.3.5_c819c23f8f_10.0.zip
   name: Mi 8 SE
@@ -2262,6 +2286,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: tucana
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_TUCANA_20.3.12_a0a2cbfb89_10.0.zip
+  name: Mi CC 9 Pro
+  version: 20.3.12
+- android: '10.0'
+  codename: tucana
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_TUCANA_20.3.5_e1206d6621_10.0.zip
   name: Mi CC 9 Pro
@@ -2334,6 +2364,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: umi
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_UMI_20.3.12_14c7e49cb6_10.0.zip
+  name: Mi 10
+  version: 20.3.12
+- android: '10.0'
+  codename: umi
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_UMI_20.3.5_94c3c8d749_10.0.zip
   name: Mi 10
@@ -2350,6 +2386,12 @@
   download: https://bigota.d.miui.com/20.2.20/miui_UMI_20.2.20_f5b8e97ffc_10.0.zip
   name: Mi 10
   version: 20.2.20
+- android: '10.0'
+  codename: ursa
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_MI8Explorer_20.3.12_81db7b5307_10.0.zip
+  name: Mi 8 Explorer
+  version: 20.3.12
 - android: '10.0'
   codename: ursa
   date: '2020-03-06'
@@ -2442,6 +2484,12 @@
   version: 9.9.26
 - android: '10.0'
   codename: vela
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_VELA_20.3.12_98be463f78_10.0.zip
+  name: Mi CC 9 Meitu Edition
+  version: 20.3.12
+- android: '10.0'
+  codename: vela
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_VELA_20.3.5_390d27314a_10.0.zip
   name: Mi CC 9 Meitu Edition
@@ -2502,6 +2550,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: violet
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_VIOLET_20.3.12_5949f150d4_10.0.zip
+  name: Redmi Note 7 Pro
+  version: 20.3.12
+- android: '10.0'
+  codename: violet
   date: '2020-03-06'
   download: https://bigota.d.miui.com/20.3.5/miui_VIOLET_20.3.5_5225b86870_10.0.zip
   name: Redmi Note 7 Pro
@@ -2560,6 +2614,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_VIOLET_9.10.17_2a4c9f21ee_9.0.zip
   name: Redmi Note 7 Pro
   version: 9.10.17
+- android: '9.0'
+  codename: wayne
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_MI6X_20.3.12_bf9d760387_9.0.zip
+  name: Mi 6X
+  version: 20.3.12
 - android: '9.0'
   codename: wayne
   date: '2020-03-06'
@@ -2650,6 +2710,12 @@
   download: https://bigota.d.miui.com/9.10.17/miui_MI6X_9.10.17_dfcad8ca03_9.0.zip
   name: Mi 6X
   version: 9.10.17
+- android: '9.0'
+  codename: whyred
+  date: '2020-03-12'
+  download: https://bigota.d.miui.com/20.3.12/miui_HMNote5_20.3.12_892f2f7468_9.0.zip
+  name: Redmi Note 5/Note 5 Pro
+  version: 20.3.12
 - android: '9.0'
   codename: whyred
   date: '2020-03-06'

@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-12.03.2020/fw_sagit_miui_MI6_20.3.12_f5c13f92e7_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/sagit/fw_sagit_miui_MI6_20.3.12_f5c13f92e7_9.0.zip
+  filename: fw_sagit_miui_MI6_20.3.12_f5c13f92e7_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.12
+- branch: weekly
   date: '2020-03-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-06.03.2020/fw_sagit_miui_MI6_20.3.5_c75f657b0e_9.0.zip
