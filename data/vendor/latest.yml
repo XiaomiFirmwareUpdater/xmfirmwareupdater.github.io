@@ -890,6 +890,17 @@
     android: '9.0'
     miui: V11.0.3.0.PCPRUXM
 - branch: stable
+  date: '2020-03-13'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivewood_in_global-stable/fw-vendor_olivewood_miui_OLIVEWOODINGlobal_V11.0.5.0.PCQINXM_75fa1626b1_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivewood_in_global-stable/fw-vendor_olivewood_miui_OLIVEWOODINGlobal_V11.0.5.0.PCQINXM_75fa1626b1_9.0.zip/download
+  filename: fw-vendor_olivewood_miui_OLIVEWOODINGlobal_V11.0.5.0.PCQINXM_75fa1626b1_9.0.zip
+  region: India
+  size: 263.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PCQINXM
+- branch: stable
   date: '2019-12-30'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onc_in_global-stable/fw-vendor_onc_miui_ONCINGlobal_V11.0.4.0.PFFINXM_b09929c3d1_9.0.zip
