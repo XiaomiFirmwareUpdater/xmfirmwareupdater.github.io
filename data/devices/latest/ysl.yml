@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-01-07'
+  date: '2020-03-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/stable-07.01.2020/fw_ysl_miui_HMS2Global_V11.0.3.0.PEFMIXM_dbf5914514_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ysl/fw_ysl_miui_HMS2Global_V11.0.3.0.PEFMIXM_dbf5914514_9.0.zip
-  filename: fw_ysl_miui_HMS2Global_V11.0.3.0.PEFMIXM_dbf5914514_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/stable-16.03.2020/fw_ysl_miui_HMS2Global_V11.0.5.0.PEFMIXM_2eea38f36c_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ysl/fw_ysl_miui_HMS2Global_V11.0.5.0.PEFMIXM_2eea38f36c_9.0.zip
+  filename: fw_ysl_miui_HMS2Global_V11.0.5.0.PEFMIXM_2eea38f36c_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PEFMIXM
+    miui: V11.0.5.0.PEFMIXM
 - branch: stable
   date: '2020-03-12'
   downloads:

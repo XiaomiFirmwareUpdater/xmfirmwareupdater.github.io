@@ -40379,6 +40379,16 @@
     android: '9.0'
     miui: V11.0.3.0.PFDCNXM
 - branch: stable
+  date: '2020-03-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-16.03.2020/fw_tulip_miui_HMNote6ProGlobal_V11.0.3.0.PEKMIXM_7abd79f8db_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tulip/fw_tulip_miui_HMNote6ProGlobal_V11.0.3.0.PEKMIXM_7abd79f8db_9.0.zip
+  filename: fw_tulip_miui_HMNote6ProGlobal_V11.0.3.0.PEKMIXM_7abd79f8db_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PEKMIXM
+- branch: stable
   date: '2019-12-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-31.12.2019/fw_tulip_miui_HMNote6ProGlobal_V11.0.2.0.PEKMIXM_e20a92d7ec_9.0.zip
@@ -48188,6 +48198,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PCXEUXM
+- branch: stable
+  date: '2020-03-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ysl/releases/download/stable-16.03.2020/fw_ysl_miui_HMS2Global_V11.0.5.0.PEFMIXM_2eea38f36c_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ysl/fw_ysl_miui_HMS2Global_V11.0.5.0.PEFMIXM_2eea38f36c_9.0.zip
+  filename: fw_ysl_miui_HMS2Global_V11.0.5.0.PEFMIXM_2eea38f36c_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PEFMIXM
 - branch: stable
   date: '2020-03-12'
   downloads:
