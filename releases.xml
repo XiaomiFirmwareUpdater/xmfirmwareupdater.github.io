@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 16 Mar 2020 19:16:05 +0900</pubDate>
+  <pubDate>Tue, 17 Mar 2020 06:22:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V11.0.17.0.QJBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Tue, 17 Mar 2020 06:22:17 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi S2/Y2 (ysl) - V11.0.5.0.PEFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ysl</link>
@@ -100,11 +105,6 @@
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.3.12</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Fri, 13 Mar 2020 02:53:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.3.12</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 13 Mar 2020 02:52:55 +0900</pubDate>
   </item>
     </channel>
 </rss>
