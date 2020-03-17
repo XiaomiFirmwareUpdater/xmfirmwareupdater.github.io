@@ -31,3 +31,14 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QFJEUXM
+- branch: stable
+  date: '2020-03-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V11.0.3.0.QFJRUXM_01634861e7_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V11.0.3.0.QFJRUXM_01634861e7_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIRUGlobal_V11.0.3.0.QFJRUXM_01634861e7_10.0.zip
+  region: Russia
+  size: 742.6 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFJRUXM
