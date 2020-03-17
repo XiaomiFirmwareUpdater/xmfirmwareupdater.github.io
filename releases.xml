@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 17 Mar 2020 06:22:17 +0900</pubDate>
+  <pubDate>Tue, 17 Mar 2020 17:11:26 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 5G (picasso) - V11.1.15.0.QGICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Tue, 17 Mar 2020 17:11:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - V11.0.9.0.PFGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Tue, 17 Mar 2020 16:59:39 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V11.0.17.0.QJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -95,16 +105,6 @@
     <title>Mi 8 SE (sirius) - 20.3.12</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
     <pubDate>Fri, 13 Mar 2020 02:57:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6 (sagit) - 20.3.12</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Fri, 13 Mar 2020 02:54:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.3.12</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 13 Mar 2020 02:53:52 +0900</pubDate>
   </item>
     </channel>
 </rss>

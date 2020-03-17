@@ -16398,6 +16398,16 @@
   versions:
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
+- branch: stable
+  date: '2020-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-17.03.2020/fw_lavender_miui_LAVENDERINGlobal_V11.0.9.0.PFGINXM_6d31ea97dc_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDERINGlobal_V11.0.9.0.PFGINXM_6d31ea97dc_9.0.zip
+  filename: fw_lavender_miui_LAVENDERINGlobal_V11.0.9.0.PFGINXM_6d31ea97dc_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.9.0.PFGINXM
 - branch: weekly
   date: '2020-03-12'
   downloads:
@@ -26038,6 +26048,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QGHINXM
+- branch: stable
+  date: '2020-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-17.03.2020/fw_picasso_miui_PICASSO_V11.1.15.0.QGICNXM_d19323c8e5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.15.0.QGICNXM_d19323c8e5_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.1.15.0.QGICNXM_d19323c8e5_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.1.15.0.QGICNXM
 - branch: weekly
   date: '2020-03-12'
   downloads:
