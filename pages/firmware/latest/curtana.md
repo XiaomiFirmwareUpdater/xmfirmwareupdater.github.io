@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 9 Pro (curtana) Firmware Downloads
+title: Redmi Note 9S/Redmi Note 9 Pro (curtana) Firmware Downloads
 layout: download
-name: Redmi Note 9 Pro
+name: Redmi Note 9S/Redmi Note 9 Pro
 codename: curtana
 permalink: /firmware/curtana/
 ---

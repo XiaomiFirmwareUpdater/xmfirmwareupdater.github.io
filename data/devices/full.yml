@@ -6709,6 +6709,16 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-19.03.2020/fw_curtana_miui_CURTANAGlobal_V11.0.1.0.QJWMIXM_1bb6139eee_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAGlobal_V11.0.1.0.QJWMIXM_1bb6139eee_10.0.zip
+  filename: fw_curtana_miui_CURTANAGlobal_V11.0.1.0.QJWMIXM_1bb6139eee_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJWMIXM
+- branch: stable
   date: '2020-03-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-14.03.2020/fw_curtana_miui_CURTANAINGlobal_V11.0.4.0.QJWINXM_5c420fbe36_10.0.zip
