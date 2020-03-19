@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-01-06'
+  date: '2020-03-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip/download
-  filename: fw-vendor_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip
   region: Global
-  size: 602.7 MB
+  size: 715.5 MB
   versions:
-    android: '9.0'
-    miui: V11.0.6.0.PFBMIXM
+    android: '10.0'
+    miui: V11.0.2.0.QFBMIXM
 - branch: stable
   date: '2020-03-10'
   downloads:
@@ -43,13 +43,13 @@
     android: '9.0'
     miui: V11.0.6.0.PFBEUXM
 - branch: stable
-  date: '2020-01-06'
+  date: '2020-03-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.6.0.PFBRUXM_55e0819503_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.6.0.PFBRUXM_55e0819503_9.0.zip/download
-  filename: fw-vendor_grus_miui_GRUSRUGlobal_V11.0.6.0.PFBRUXM_55e0819503_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.2.0.QFBRUXM_1a319a61d1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.2.0.QFBRUXM_1a319a61d1_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSRUGlobal_V11.0.2.0.QFBRUXM_1a319a61d1_10.0.zip
   region: Russia
-  size: 605.3 MB
+  size: 715.6 MB
   versions:
-    android: '9.0'
-    miui: V11.0.6.0.PFBRUXM
+    android: '10.0'
+    miui: V11.0.2.0.QFBRUXM

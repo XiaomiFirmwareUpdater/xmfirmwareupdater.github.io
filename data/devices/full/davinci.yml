@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-19.03.2020/fw_davinci_miui_DAVINCI_20.3.19_5c17da20f5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/davinci/fw_davinci_miui_DAVINCI_20.3.19_5c17da20f5_10.0.zip
+  filename: fw_davinci_miui_DAVINCI_20.3.19_5c17da20f5_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.19
+- branch: weekly
   date: '2020-03-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-12.03.2020/fw_davinci_miui_DAVINCI_20.3.12_5761e651e9_10.0.zip

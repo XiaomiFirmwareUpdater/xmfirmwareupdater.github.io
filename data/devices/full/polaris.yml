@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-19.03.2020/fw_polaris_miui_MIMIX2S_20.3.19_a5fa66df88_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/polaris/fw_polaris_miui_MIMIX2S_20.3.19_a5fa66df88_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.3.19_a5fa66df88_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.19
+- branch: weekly
   date: '2020-03-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-12.03.2020/fw_polaris_miui_MIMIX2S_20.3.12_76326a3e53_10.0.zip
@@ -1401,16 +1411,6 @@
 - branch: weekly
   date: '2018-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/untagged-7ffa6285eef7aa45152c/fw_polaris_miui_MIMIX2S_V9.5.15.0.ODGCNFA_1aee0db942_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.15.0.ODGCNFA/polaris/fw_polaris_miui_MIMIX2S_V9.5.15.0.ODGCNFA_1aee0db942_8.0.zip
-  filename: fw_polaris_miui_MIMIX2S_V9.5.15.0.ODGCNFA_1aee0db942_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: V9.5.15.0.ODGCNFA
-- branch: weekly
-  date: '2018-05-30'
-  downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/untagged-7ffa6285eef7aa45152c/fw_polaris_miui_MIMIX2SGlobal_V9.5.4.0.ODGMIFA_702fd64fce_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.ODGMIFA/polaris/fw_polaris_miui_MIMIX2SGlobal_V9.5.4.0.ODGMIFA_702fd64fce_8.0.zip
   filename: fw_polaris_miui_MIMIX2SGlobal_V9.5.4.0.ODGMIFA_702fd64fce_8.0.zip
@@ -1418,6 +1418,16 @@
   versions:
     android: '8.0'
     miui: V9.5.4.0.ODGMIFA
+- branch: weekly
+  date: '2018-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/untagged-7ffa6285eef7aa45152c/fw_polaris_miui_MIMIX2S_V9.5.15.0.ODGCNFA_1aee0db942_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.15.0.ODGCNFA/polaris/fw_polaris_miui_MIMIX2S_V9.5.15.0.ODGCNFA_1aee0db942_8.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V9.5.15.0.ODGCNFA_1aee0db942_8.0.zip
+  region: China
+  versions:
+    android: '8.0'
+    miui: V9.5.15.0.ODGCNFA
 - branch: weekly
   date: '2018-05-02'
   downloads:

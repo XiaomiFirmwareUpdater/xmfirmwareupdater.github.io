@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-03-12'
+  date: '2020-03-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-12.03.2020/fw_whyred_miui_HMNote5_20.3.12_892f2f7468_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/whyred/fw_whyred_miui_HMNote5_20.3.12_892f2f7468_9.0.zip
-  filename: fw_whyred_miui_HMNote5_20.3.12_892f2f7468_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-19.03.2020/fw_whyred_miui_HMNote5_20.3.19_0c7fcb1d40_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/whyred/fw_whyred_miui_HMNote5_20.3.19_0c7fcb1d40_9.0.zip
+  filename: fw_whyred_miui_HMNote5_20.3.19_0c7fcb1d40_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 20.3.12
+    miui: 20.3.19

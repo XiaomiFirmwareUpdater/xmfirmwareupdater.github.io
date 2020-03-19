@@ -120,16 +120,16 @@
     android: '10.0'
     miui: V11.0.1.0.QEJRUXM
 - branch: stable
-  date: '2020-01-14'
+  date: '2020-03-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V11.0.5.0.PCBMIXM_8e3d701303_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V11.0.5.0.PCBMIXM_8e3d701303_9.0.zip/download
-  filename: fw-vendor_cactus_miui_HM6AGlobal_V11.0.5.0.PCBMIXM_8e3d701303_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V11.0.7.0.PCBMIXM_755e2b7216_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V11.0.7.0.PCBMIXM_755e2b7216_9.0.zip/download
+  filename: fw-vendor_cactus_miui_HM6AGlobal_V11.0.7.0.PCBMIXM_755e2b7216_9.0.zip
   region: Global
-  size: 189.7 MB
+  size: 190.9 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PCBMIXM
+    miui: V11.0.7.0.PCBMIXM
 - branch: stable
   date: '2019-11-09'
   downloads:
@@ -340,6 +340,17 @@
     android: '9.0'
     miui: V11.0.3.0.PFXCNXM
 - branch: stable
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_global-stable/fw-vendor_curtana_miui_CURTANAGlobal_V11.0.1.0.QJWMIXM_1bb6139eee_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_global-stable/fw-vendor_curtana_miui_CURTANAGlobal_V11.0.1.0.QJWMIXM_1bb6139eee_10.0.zip/download
+  filename: fw-vendor_curtana_miui_CURTANAGlobal_V11.0.1.0.QJWMIXM_1bb6139eee_10.0.zip
+  region: Global
+  size: 1.2 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJWMIXM
+- branch: stable
   date: '2020-03-14'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.4.0.QJWINXM_5c420fbe36_10.0.zip
@@ -384,16 +395,16 @@
     android: '10.0'
     miui: V11.0.4.0.QFJEUXM
 - branch: stable
-  date: '2020-03-17'
+  date: '2020-03-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V11.0.3.0.QFJRUXM_01634861e7_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V11.0.3.0.QFJRUXM_01634861e7_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCIRUGlobal_V11.0.3.0.QFJRUXM_01634861e7_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V10.3.10.0.PFJRUXM_0d0ae5a119_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V10.3.10.0.PFJRUXM_0d0ae5a119_9.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIRUGlobal_V10.3.10.0.PFJRUXM_0d0ae5a119_9.0.zip
   region: Russia
-  size: 742.6 MB
+  size: 702.9 MB
   versions:
-    android: '10.0'
-    miui: V11.0.3.0.QFJRUXM
+    android: '9.0'
+    miui: V10.3.10.0.PFJRUXM
 - branch: stable
   date: '2020-03-10'
   downloads:
@@ -549,16 +560,16 @@
     android: '9.0'
     miui: V11.0.3.0.PCOINXM
 - branch: stable
-  date: '2020-01-06'
+  date: '2020-03-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip/download
-  filename: fw-vendor_grus_miui_GRUSGlobal_V11.0.6.0.PFBMIXM_df3fdf69d6_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip
   region: Global
-  size: 602.7 MB
+  size: 715.5 MB
   versions:
-    android: '9.0'
-    miui: V11.0.6.0.PFBMIXM
+    android: '10.0'
+    miui: V11.0.2.0.QFBMIXM
 - branch: stable
   date: '2020-03-10'
   downloads:
@@ -593,16 +604,16 @@
     android: '9.0'
     miui: V11.0.6.0.PFBEUXM
 - branch: stable
-  date: '2020-01-06'
+  date: '2020-03-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.6.0.PFBRUXM_55e0819503_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.6.0.PFBRUXM_55e0819503_9.0.zip/download
-  filename: fw-vendor_grus_miui_GRUSRUGlobal_V11.0.6.0.PFBRUXM_55e0819503_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.2.0.QFBRUXM_1a319a61d1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.2.0.QFBRUXM_1a319a61d1_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSRUGlobal_V11.0.2.0.QFBRUXM_1a319a61d1_10.0.zip
   region: Russia
-  size: 605.3 MB
+  size: 715.6 MB
   versions:
-    android: '9.0'
-    miui: V11.0.6.0.PFBRUXM
+    android: '10.0'
+    miui: V11.0.2.0.QFBRUXM
 - branch: weekly
   date: '2019-04-07'
   downloads:
@@ -1242,16 +1253,16 @@
     android: '10.0'
     miui: V11.0.1.0.QFCCNXM
 - branch: stable
-  date: '2020-02-27'
+  date: '2020-03-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.9.0.PFCEUXM_43fc5033d6_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.9.0.PFCEUXM_43fc5033d6_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.3.9.0.PFCEUXM_43fc5033d6_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip
   region: Europe
-  size: 698.1 MB
+  size: 769.4 MB
   versions:
-    android: '9.0'
-    miui: V11.3.9.0.PFCEUXM
+    android: '10.0'
+    miui: V11.0.1.0.QFCEUXM
 - branch: stable
   date: '2020-03-17'
   downloads:
@@ -1275,16 +1286,16 @@
     android: '10.0'
     miui: V11.0.3.0.QFKMIXM
 - branch: stable
-  date: '2019-12-23'
+  date: '2020-03-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.5.0.QFKCNXM_63e2e08c69_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.5.0.QFKCNXM_63e2e08c69_10.0.zip/download
-  filename: fw-vendor_raphael_miui_RAPHAEL_V11.0.5.0.QFKCNXM_63e2e08c69_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip
   region: China
-  size: 814.7 MB
+  size: 826.9 MB
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QFKCNXM
+    miui: V11.0.7.0.QFKCNXM
 - branch: stable
   date: '2020-03-03'
   downloads:
