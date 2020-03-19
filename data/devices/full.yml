@@ -6519,6 +6519,16 @@
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
 - branch: weekly
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-19.03.2020/fw_cmi_miui_CMI_20.3.19_7bb354ce01_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/cmi/fw_cmi_miui_CMI_20.3.19_7bb354ce01_10.0.zip
+  filename: fw_cmi_miui_CMI_20.3.19_7bb354ce01_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.19
+- branch: weekly
   date: '2020-03-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-12.03.2020/fw_cmi_miui_CMI_20.3.12_81361ac41c_10.0.zip
