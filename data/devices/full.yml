@@ -359,6 +359,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-19.03.2020/fw_begonia_miui_BEGONIA_20.3.19_0a1b060458_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/begonia/fw_begonia_miui_BEGONIA_20.3.19_0a1b060458_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_20.3.19_0a1b060458_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.19
+- branch: weekly
   date: '2020-03-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-12.03.2020/fw_begonia_miui_BEGONIA_20.3.12_5dc8e9b037_10.0.zip
@@ -3388,6 +3398,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-19.03.2020/fw_cepheus_miui_CEPHEUS_20.3.19_076edb3bae_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/cepheus/fw_cepheus_miui_CEPHEUS_20.3.19_076edb3bae_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.3.19_076edb3bae_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.19
 - branch: stable
   date: '2020-03-19'
   downloads:
@@ -4408,6 +4428,16 @@
   versions:
     android: '8.1'
     miui: V10.3.4.0.OCGCNXM
+- branch: weekly
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-19.03.2020/fw_chiron_miui_MIMIX2_20.3.19_5d71c8aece_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/chiron/fw_chiron_miui_MIMIX2_20.3.19_5d71c8aece_9.0.zip
+  filename: fw_chiron_miui_MIMIX2_20.3.19_5d71c8aece_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.19
 - branch: weekly
   date: '2020-03-12'
   downloads:
