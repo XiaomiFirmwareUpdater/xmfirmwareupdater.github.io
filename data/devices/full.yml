@@ -1229,6 +1229,16 @@
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
 - branch: stable
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/stable-19.03.2020/fw_cactus_miui_HM6AGlobal_V11.0.7.0.PCBMIXM_755e2b7216_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cactus/fw_cactus_miui_HM6AGlobal_V11.0.7.0.PCBMIXM_755e2b7216_9.0.zip
+  filename: fw_cactus_miui_HM6AGlobal_V11.0.7.0.PCBMIXM_755e2b7216_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.7.0.PCBMIXM
+- branch: stable
   date: '2020-01-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/stable-14.01.2020/fw_cactus_miui_HM6AGlobal_V11.0.5.0.PCBMIXM_8e3d701303_9.0.zip
@@ -29368,6 +29378,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-19.03.2020/fw_pyxis_miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip
+  filename: fw_pyxis_miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QFCEUXM
 - branch: stable
   date: '2020-03-17'
   downloads:
