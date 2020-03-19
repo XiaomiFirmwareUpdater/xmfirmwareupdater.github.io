@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-19.03.2020/fw_dipper_miui_MI8_20.3.19_983a830d92_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/dipper/fw_dipper_miui_MI8_20.3.19_983a830d92_10.0.zip
+  filename: fw_dipper_miui_MI8_20.3.19_983a830d92_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.19
+- branch: weekly
   date: '2020-03-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-12.03.2020/fw_dipper_miui_MI8_20.3.12_1d462e58be_10.0.zip
