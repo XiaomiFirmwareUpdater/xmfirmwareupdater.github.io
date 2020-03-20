@@ -749,6 +749,16 @@
     android: '9.0'
     miui: V10.4.3.0.PGGINXM
 - branch: stable
+  date: '2020-03-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-20.03.2020/fw_beryllium_miui_POCOF1Global_V11.0.6.0.QEJMIXM_e45c83a2db_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/beryllium/fw_beryllium_miui_POCOF1Global_V11.0.6.0.QEJMIXM_e45c83a2db_10.0.zip
+  filename: fw_beryllium_miui_POCOF1Global_V11.0.6.0.QEJMIXM_e45c83a2db_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.6.0.QEJMIXM
+- branch: stable
   date: '2020-01-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-31.01.2020/fw_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip
@@ -10668,6 +10678,16 @@
   versions:
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
+- branch: stable
+  date: '2020-03-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-20.03.2020/fw_grus_miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip
+  filename: fw_grus_miui_GRUSGlobal_V11.0.2.0.QFBMIXM_5e899dbcec_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QFBMIXM
 - branch: weekly
   date: '2020-03-19'
   downloads:
