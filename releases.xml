@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 20 Mar 2020 17:52:43 +0900</pubDate>
+  <pubDate>Fri, 20 Mar 2020 19:54:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 Lite (platina) - V11.0.1.0.QDTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Fri, 20 Mar 2020 19:54:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.5.0.PFLINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 20 Mar 2020 19:53:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.1.0.QEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 20 Mar 2020 19:52:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.1.0.QEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 20 Mar 2020 19:52:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2 (chiron) - V11.0.6.0.PDEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
+    <pubDate>Fri, 20 Mar 2020 19:51:17 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 Explorer (ursa) - V11.0.2.0.QEHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
@@ -80,31 +105,6 @@
     <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.3.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
     <pubDate>Fri, 20 Mar 2020 03:11:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Fri, 20 Mar 2020 03:10:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 20 Mar 2020 03:10:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Explorer (ursa) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Fri, 20 Mar 2020 03:09:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Fri, 20 Mar 2020 03:09:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6 (sagit) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Fri, 20 Mar 2020 03:09:06 +0900</pubDate>
   </item>
     </channel>
 </rss>
