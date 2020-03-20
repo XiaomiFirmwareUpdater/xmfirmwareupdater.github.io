@@ -1,11 +1,46 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 20 Mar 2020 17:00:12 +0900</pubDate>
+  <pubDate>Fri, 20 Mar 2020 17:52:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 Explorer (ursa) - V11.0.2.0.QEHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
+    <pubDate>Fri, 20 Mar 2020 17:52:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.2.0.QFKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 20 Mar 2020 17:51:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.3.0.PFLINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 20 Mar 2020 17:50:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.3.0.PFLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 20 Mar 2020 17:49:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.4.0.PFLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 20 Mar 2020 17:48:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.3.0.PFLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 20 Mar 2020 17:48:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Note 3 (jason) - V11.0.5.0.PCHMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
+    <pubDate>Fri, 20 Mar 2020 17:47:37 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 9 SE (grus) - V11.0.2.0.QFBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
@@ -70,41 +105,6 @@
     <title>Mi 6 (sagit) - 20.3.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
     <pubDate>Fri, 20 Mar 2020 03:09:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 20 Mar 2020 03:08:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Fri, 20 Mar 2020 03:08:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 20 Mar 2020 03:08:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 20 Mar 2020 03:07:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Fri, 20 Mar 2020 03:07:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 3 (jason) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
-    <pubDate>Fri, 20 Mar 2020 03:07:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5/Note 5 Pro (whyred) - 20.3.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Fri, 20 Mar 2020 03:06:43 +0900</pubDate>
   </item>
     </channel>
 </rss>
