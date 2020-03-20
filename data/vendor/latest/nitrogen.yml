@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-01-16'
+  date: '2020-03-20'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_global-stable/fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_global-stable/fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip/download
-  filename: fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.7.0.PEDMIXM_8dce524ff9_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_global-stable/fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_global-stable/fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip/download
+  filename: fw-vendor_nitrogen_miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip
   region: Global
-  size: 419.1 MB
+  size: 493.2 MB
   versions:
-    android: '9.0'
-    miui: V11.0.7.0.PEDMIXM
+    android: '10.0'
+    miui: V11.0.1.0.QEDMIXM
 - branch: stable
   date: '2020-03-10'
   downloads:
