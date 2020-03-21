@@ -26329,6 +26329,16 @@
     android: '10.0'
     miui: V11.0.4.0.QGHINXM
 - branch: weekly
+  date: '2020-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-21.03.2020/fw_picasso_miui_PICASSO_20.3.20_33a1bd8aa3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.20/picasso/fw_picasso_miui_PICASSO_20.3.20_33a1bd8aa3_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.3.20_33a1bd8aa3_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.20
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-19.03.2020/fw_picasso_miui_PICASSO_20.3.19_c9395adf4b_10.0.zip
@@ -27698,6 +27708,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: weekly
+  date: '2020-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-21.03.2020/fw_polaris_miui_MIMIX2S_20.3.20_e2b1e0ab3f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.20/polaris/fw_polaris_miui_MIMIX2S_20.3.20_e2b1e0ab3f_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.3.20_e2b1e0ab3f_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.20
 - branch: weekly
   date: '2020-03-19'
   downloads:
