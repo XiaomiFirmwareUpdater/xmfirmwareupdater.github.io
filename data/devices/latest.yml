@@ -1839,15 +1839,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2019-11-04'
+  date: '2020-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/stable-04.11.2019/fw_sagit_miui_MI6Global_V11.0.3.0.PCAMIXM_bb4e6209e3_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sagit/fw_sagit_miui_MI6Global_V11.0.3.0.PCAMIXM_bb4e6209e3_9.0.zip
-  filename: fw_sagit_miui_MI6Global_V11.0.3.0.PCAMIXM_bb4e6209e3_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/stable-23.03.2020/fw_sagit_miui_MI6Global_V11.0.6.0.PCAMIXM_47fd8ee4ef_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sagit/fw_sagit_miui_MI6Global_V11.0.6.0.PCAMIXM_47fd8ee4ef_9.0.zip
+  filename: fw_sagit_miui_MI6Global_V11.0.6.0.PCAMIXM_47fd8ee4ef_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PCAMIXM
+    miui: V11.0.6.0.PCAMIXM
 - branch: stable
   date: '2020-03-17'
   downloads:
@@ -1889,15 +1889,15 @@
     android: '8.1'
     miui: V9.6.4.0.ODMMIFD
 - branch: stable
-  date: '2019-11-27'
+  date: '2020-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-27.11.2019/fw_sakura_miui_HM6Pro_V11.0.4.0.PDICNXM_45526f173b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura_miui_HM6Pro_V11.0.4.0.PDICNXM_45526f173b_9.0.zip
-  filename: fw_sakura_miui_HM6Pro_V11.0.4.0.PDICNXM_45526f173b_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-23.03.2020/fw_sakura_miui_HM6Pro_V11.0.5.0.PDICNXM_da59c46ff1_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura_miui_HM6Pro_V11.0.5.0.PDICNXM_da59c46ff1_9.0.zip
+  filename: fw_sakura_miui_HM6Pro_V11.0.5.0.PDICNXM_da59c46ff1_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PDICNXM
+    miui: V11.0.5.0.PDICNXM
 - branch: weekly
   date: '2020-01-09'
   downloads:
