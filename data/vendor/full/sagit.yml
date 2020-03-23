@@ -10,6 +10,17 @@
     android: '9.0'
     miui: V11.0.3.0.PCAMIXM
 - branch: stable
+  date: '2020-03-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sagit_global-stable/fw-vendor_sagit_miui_MI6Global_V11.0.6.0.PCAMIXM_47fd8ee4ef_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sagit_global-stable/fw-vendor_sagit_miui_MI6Global_V11.0.6.0.PCAMIXM_47fd8ee4ef_9.0.zip/download
+  filename: fw-vendor_sagit_miui_MI6Global_V11.0.6.0.PCAMIXM_47fd8ee4ef_9.0.zip
+  region: Global
+  size: 59.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PCAMIXM
+- branch: stable
   date: '2019-04-10'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sagit-stable/fw-vendor_sagit_miui_MI6_V10.3.1.0.OCACNXM_daadd2e637_8.0.zip
