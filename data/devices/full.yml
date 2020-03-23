@@ -23491,6 +23491,16 @@
 - branch: stable
   date: '2020-03-23'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-23.03.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
+  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PFLEUXM
+- branch: stable
+  date: '2020-03-23'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-23.03.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
   filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
@@ -26348,6 +26358,16 @@
   versions:
     android: '10.0'
     miui: V11.0.5.0.QGHCNXM
+- branch: stable
+  date: '2020-03-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenixin/releases/download/stable-23.03.2020/fw_phoenixin_miui_PHOENIXININGlobal_V11.0.6.0.QGHINXM_fd36edfe19_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenixin/fw_phoenixin_miui_PHOENIXININGlobal_V11.0.6.0.QGHINXM_fd36edfe19_10.0.zip
+  filename: fw_phoenixin_miui_PHOENIXININGlobal_V11.0.6.0.QGHINXM_fd36edfe19_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.6.0.QGHINXM
 - branch: stable
   date: '2020-02-12'
   downloads:

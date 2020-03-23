@@ -131,16 +131,16 @@
     android: '9.0'
     miui: V11.0.7.0.PCBMIXM
 - branch: stable
-  date: '2019-11-09'
+  date: '2020-03-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-stable/fw-vendor_cactus_miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-stable/fw-vendor_cactus_miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip/download
-  filename: fw-vendor_cactus_miui_HM6A_V10.4.4.0.PCBCNXM_bc994c3619_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus-stable/fw-vendor_cactus_miui_HM6A_V11.0.5.0.PCBCNXM_fb305209d9_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus-stable/fw-vendor_cactus_miui_HM6A_V11.0.5.0.PCBCNXM_fb305209d9_9.0.zip/download
+  filename: fw-vendor_cactus_miui_HM6A_V11.0.5.0.PCBCNXM_fb305209d9_9.0.zip
   region: China
-  size: 177.5 MB
+  size: 234.2 MB
   versions:
     android: '9.0'
-    miui: V10.4.4.0.PCBCNXM
+    miui: V11.0.5.0.PCBCNXM
 - branch: weekly
   date: '2019-08-16'
   downloads:
@@ -967,16 +967,16 @@
     android: '9.0'
     miui: V11.0.3.0.PFLCNXM
 - branch: stable
-  date: '2019-12-26'
+  date: '2020-03-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_eea_global-stable/fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_eea_global-stable/fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip/download
-  filename: fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_eea_global-stable/fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_eea_global-stable/fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
   region: Europe
-  size: 283.6 MB
+  size: 284.2 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFLEUXM
+    miui: V11.0.6.0.PFLEUXM
 - branch: stable
   date: '2020-03-17'
   downloads:
