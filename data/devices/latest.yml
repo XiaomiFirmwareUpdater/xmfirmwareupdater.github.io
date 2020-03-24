@@ -969,15 +969,15 @@
     android: '10.0'
     miui: 20.3.19
 - branch: stable
-  date: '2019-11-21'
+  date: '2020-03-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-21.11.2019/fw_lavender_miui_LAVENDEREEAGlobal_V11.0.4.0.PFGEUXM_09de63aa49_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V11.0.4.0.PFGEUXM_09de63aa49_9.0.zip
-  filename: fw_lavender_miui_LAVENDEREEAGlobal_V11.0.4.0.PFGEUXM_09de63aa49_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-24.03.2020/fw_lavender_miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip
+  filename: fw_lavender_miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFGEUXM
+    miui: V11.0.7.0.PFGEUXM
 - branch: stable
   date: '2020-03-17'
   downloads:
@@ -1319,15 +1319,15 @@
     android: '9.0'
     miui: V11.0.5.0.PCQINXM
 - branch: stable
-  date: '2020-01-10'
+  date: '2020-03-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-10.01.2020/fw_onc_miui_ONCLITEGlobal_V11.0.2.0.PFLMIXM_a43848d5f6_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEGlobal_V11.0.2.0.PFLMIXM_a43848d5f6_9.0.zip
-  filename: fw_onc_miui_ONCLITEGlobal_V11.0.2.0.PFLMIXM_a43848d5f6_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-24.03.2020/fw_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
+  filename: fw_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PFLMIXM
+    miui: V11.0.5.0.PFLMIXM
 - branch: stable
   date: '2020-01-18'
   downloads:
@@ -1339,15 +1339,15 @@
     android: '9.0'
     miui: V11.0.2.0.PFLCNXM
 - branch: stable
-  date: '2020-03-23'
+  date: '2020-03-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-23.03.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
-  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.4.0.PFLEUXM_d5c627ba2a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-24.03.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
+  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFLEUXM
+    miui: V11.0.6.0.PFLEUXM
 - branch: stable
   date: '2020-03-20'
   downloads:
@@ -2379,15 +2379,15 @@
     android: '9.0'
     miui: V11.0.2.0.PCXMIXM
 - branch: stable
-  date: '2020-02-25'
+  date: '2020-03-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-25.02.2020/fw_willow_miui_WILLOWEEAGlobal_V11.0.5.0.PCXEUXM_96688d238d_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/willow/fw_willow_miui_WILLOWEEAGlobal_V11.0.5.0.PCXEUXM_96688d238d_9.0.zip
-  filename: fw_willow_miui_WILLOWEEAGlobal_V11.0.5.0.PCXEUXM_96688d238d_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-24.03.2020/fw_willow_miui_WILLOWEEAGlobal_V11.0.7.0.PCXEUXM_bcf2efc09e_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/willow/fw_willow_miui_WILLOWEEAGlobal_V11.0.7.0.PCXEUXM_bcf2efc09e_9.0.zip
+  filename: fw_willow_miui_WILLOWEEAGlobal_V11.0.7.0.PCXEUXM_bcf2efc09e_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PCXEUXM
+    miui: V11.0.7.0.PCXEUXM
 - branch: stable
   date: '2020-03-16'
   downloads:

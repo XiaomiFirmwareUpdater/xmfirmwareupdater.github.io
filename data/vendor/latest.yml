@@ -703,16 +703,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2019-11-20'
+  date: '2020-03-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.4.0.PFGEUXM_09de63aa49_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.4.0.PFGEUXM_09de63aa49_9.0.zip/download
-  filename: fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.4.0.PFGEUXM_09de63aa49_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip
   region: Europe
-  size: 407.3 MB
+  size: 407.5 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFGEUXM
+    miui: V11.0.7.0.PFGEUXM
 - branch: stable
   date: '2020-03-17'
   downloads:
@@ -945,16 +945,16 @@
     android: '9.0'
     miui: V11.0.4.0.PFFINXM
 - branch: stable
-  date: '2020-01-08'
+  date: '2020-03-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.3.0.PFLMIXM_b8059d3956_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.3.0.PFLMIXM_b8059d3956_9.0.zip/download
-  filename: fw-vendor_onc_miui_ONCLITEGlobal_V11.0.3.0.PFLMIXM_b8059d3956_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
   region: Global
-  size: 283.5 MB
+  size: 284.2 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PFLMIXM
+    miui: V11.0.5.0.PFLMIXM
 - branch: stable
   date: '2020-01-17'
   downloads:
@@ -1660,16 +1660,16 @@
     android: '9.0'
     miui: V11.0.2.0.PCXMIXM
 - branch: stable
-  date: '2020-02-25'
+  date: '2020-03-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.5.0.PCXEUXM_96688d238d_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.5.0.PCXEUXM_96688d238d_9.0.zip/download
-  filename: fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.5.0.PCXEUXM_96688d238d_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.7.0.PCXEUXM_bcf2efc09e_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.7.0.PCXEUXM_bcf2efc09e_9.0.zip/download
+  filename: fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.7.0.PCXEUXM_bcf2efc09e_9.0.zip
   region: Europe
-  size: 383.8 MB
+  size: 386.4 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PCXEUXM
+    miui: V11.0.7.0.PCXEUXM
 - branch: stable
   date: '2020-02-28'
   downloads:

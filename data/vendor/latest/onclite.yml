@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-01-08'
+  date: '2020-03-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.3.0.PFLMIXM_b8059d3956_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.3.0.PFLMIXM_b8059d3956_9.0.zip/download
-  filename: fw-vendor_onc_miui_ONCLITEGlobal_V11.0.3.0.PFLMIXM_b8059d3956_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
   region: Global
-  size: 283.5 MB
+  size: 284.2 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PFLMIXM
+    miui: V11.0.5.0.PFLMIXM
 - branch: stable
   date: '2020-01-17'
   downloads:
