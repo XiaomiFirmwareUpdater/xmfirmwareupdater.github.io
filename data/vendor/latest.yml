@@ -835,16 +835,16 @@
     android: '9.0'
     miui: V11.0.8.0.PCNCNXM
 - branch: stable
-  date: '2020-02-25'
+  date: '2020-03-26'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.4.0.PCNEUXM_81aaeb0b7b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.4.0.PCNEUXM_81aaeb0b7b_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.4.0.PCNEUXM_81aaeb0b7b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip
   region: Europe
-  size: 368.1 MB
+  size: 370.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PCNEUXM
+    miui: V11.0.6.0.PCNEUXM
 - branch: stable
   date: '2020-03-10'
   downloads:
