@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-26.03.2020/fw_willow_miui_WILLOWEEAGlobal_V11.0.6.0.PCXEUXM_6562ed09a3_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/willow/fw_willow_miui_WILLOWEEAGlobal_V11.0.6.0.PCXEUXM_6562ed09a3_9.0.zip
+  filename: fw_willow_miui_WILLOWEEAGlobal_V11.0.6.0.PCXEUXM_6562ed09a3_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PCXEUXM
+- branch: stable
   date: '2020-03-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-25.03.2020/fw_willow_miui_WILLOWGlobal_V11.0.3.0.PCXMIXM_5f1d980a44_9.0.zip
