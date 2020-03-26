@@ -1284,6 +1284,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: lavender
+  date: '2020-03-26'
+  download: https://bigota.d.miui.com/20.3.26/miui_LAVENDER_20.3.26_eae10f6555_10.0.zip
+  name: Redmi Note 7/7S
+  version: 20.3.26
+- android: '10.0'
+  codename: lavender
   date: '2020-03-19'
   download: https://bigota.d.miui.com/20.3.19/miui_LAVENDER_20.3.19_f2d66b95ae_10.0.zip
   name: Redmi Note 7/7S
@@ -2548,6 +2554,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_MI5X_9.10.10_a8e7c48b8e_8.1.zip
   name: Mi 5X
   version: 9.10.10
+- android: '10.0'
+  codename: tucana
+  date: '2020-03-26'
+  download: https://bigota.d.miui.com/20.3.26/miui_TUCANA_20.3.26_e2623b7ebb_10.0.zip
+  name: Mi CC 9 Pro
+  version: 20.3.26
 - android: '10.0'
   codename: tucana
   date: '2020-03-19'

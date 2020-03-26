@@ -16738,6 +16738,16 @@
   versions:
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-26.03.2020/fw_lavender_miui_LAVENDER_20.3.26_eae10f6555_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/lavender/fw_lavender_miui_LAVENDER_20.3.26_eae10f6555_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_20.3.26_eae10f6555_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: stable
   date: '2020-03-24'
   downloads:
@@ -40908,6 +40918,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-26.03.2020/fw_tucana_miui_TUCANA_20.3.26_e2623b7ebb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/tucana/fw_tucana_miui_TUCANA_20.3.26_e2623b7ebb_10.0.zip
+  filename: fw_tucana_miui_TUCANA_20.3.26_e2623b7ebb_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-19'
   downloads:
