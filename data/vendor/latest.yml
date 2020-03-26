@@ -527,16 +527,16 @@
     android: '10.0'
     miui: V11.0.1.0.QECRUXM
 - branch: stable
-  date: '2020-03-17'
+  date: '2020-03-26'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.7.0.PCOMIXM_8b2a9f5dbe_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.7.0.PCOMIXM_8b2a9f5dbe_9.0.zip/download
-  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.7.0.PCOMIXM_8b2a9f5dbe_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip
   region: Global
   size: 342.9 MB
   versions:
     android: '9.0'
-    miui: V11.0.7.0.PCOMIXM
+    miui: V11.0.8.0.PCOMIXM
 - branch: stable
   date: '2020-03-18'
   downloads:

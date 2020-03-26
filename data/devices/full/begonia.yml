@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-26.03.2020/fw_begonia_miui_BEGONIA_20.3.26_c47abf6dde_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/begonia/fw_begonia_miui_BEGONIA_20.3.26_c47abf6dde_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_20.3.26_c47abf6dde_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-19.03.2020/fw_begonia_miui_BEGONIA_20.3.19_0a1b060458_10.0.zip

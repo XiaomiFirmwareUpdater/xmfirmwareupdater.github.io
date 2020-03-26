@@ -359,6 +359,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-26.03.2020/fw_begonia_miui_BEGONIA_20.3.26_c47abf6dde_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/begonia/fw_begonia_miui_BEGONIA_20.3.26_c47abf6dde_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_20.3.26_c47abf6dde_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-19.03.2020/fw_begonia_miui_BEGONIA_20.3.19_0a1b060458_10.0.zip
@@ -3419,6 +3429,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-26.03.2020/fw_cepheus_miui_CEPHEUS_20.3.26_395d2c266f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/cepheus/fw_cepheus_miui_CEPHEUS_20.3.26_395d2c266f_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.3.26_395d2c266f_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-19.03.2020/fw_cepheus_miui_CEPHEUS_20.3.19_076edb3bae_10.0.zip
@@ -4448,6 +4468,16 @@
   versions:
     android: '8.1'
     miui: V10.3.4.0.OCGCNXM
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-26.03.2020/fw_chiron_miui_MIMIX2_20.3.26_e4902f8afc_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/chiron/fw_chiron_miui_MIMIX2_20.3.26_e4902f8afc_9.0.zip
+  filename: fw_chiron_miui_MIMIX2_20.3.26_e4902f8afc_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.26
 - branch: stable
   date: '2020-03-20'
   downloads:
@@ -6649,6 +6679,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
 - branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-26.03.2020/fw_crux_miui_CRUX_20.3.26_c0c51edef1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/crux/fw_crux_miui_CRUX_20.3.26_c0c51edef1_10.0.zip
+  filename: fw_crux_miui_CRUX_20.3.26_c0c51edef1_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-19.03.2020/fw_crux_miui_CRUX_20.3.19_c903eb34bf_10.0.zip
@@ -6808,6 +6848,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJWINXM
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-26.03.2020/fw_davinci_miui_DAVINCI_20.3.26_a8c36fd72a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/davinci/fw_davinci_miui_DAVINCI_20.3.26_a8c36fd72a_10.0.zip
+  filename: fw_davinci_miui_DAVINCI_20.3.26_a8c36fd72a_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-19'
   downloads:
@@ -7288,6 +7338,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PFJINXM
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-26.03.2020/fw_dipper_miui_MI8_20.3.26_15d4703a68_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/dipper/fw_dipper_miui_MI8_20.3.26_15d4703a68_10.0.zip
+  filename: fw_dipper_miui_MI8_20.3.26_15d4703a68_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-19'
   downloads:
@@ -8728,6 +8788,16 @@
   versions:
     android: '8.1'
     miui: 8.6.28
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-26.03.2020/fw_equuleus_miui_MI8UD_20.3.26_ca326ae393_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/equuleus/fw_equuleus_miui_MI8UD_20.3.26_ca326ae393_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_20.3.26_ca326ae393_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-19'
   downloads:
@@ -10428,6 +10498,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/weekly-26.03.2020/fw_ginkgo_miui_GINKGO_20.3.26_45c815e2bf_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/ginkgo/fw_ginkgo_miui_GINKGO_20.3.26_45c815e2bf_9.0.zip
+  filename: fw_ginkgo_miui_GINKGO_20.3.26_45c815e2bf_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.26
 - branch: stable
   date: '2020-03-26'
   downloads:
@@ -13228,6 +13308,16 @@
   versions:
     android: '5.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-26.03.2020/fw_jason_miui_MINote3_20.3.26_962dc502f4_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/jason/fw_jason_miui_MINote3_20.3.26_962dc502f4_9.0.zip
+  filename: fw_jason_miui_MINote3_20.3.26_962dc502f4_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.26
 - branch: stable
   date: '2020-03-20'
   downloads:
@@ -16448,6 +16538,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-26.03.2020/fw_laurus_miui_LAURUS_20.3.26_251c110ea6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/laurus/fw_laurus_miui_LAURUS_20.3.26_251c110ea6_9.0.zip
+  filename: fw_laurus_miui_LAURUS_20.3.26_251c110ea6_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-19'
   downloads:
@@ -21868,6 +21968,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-26.03.2020/fw_nitrogen_miui_MIMAX3_20.3.26_819dbc8379_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/nitrogen/fw_nitrogen_miui_MIMAX3_20.3.26_819dbc8379_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_20.3.26_819dbc8379_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: stable
   date: '2020-03-20'
   downloads:
@@ -25409,6 +25519,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-26.03.2020/fw_perseus_miui_MIMIX3_20.3.26_1a4cf601da_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/perseus/fw_perseus_miui_MIMIX3_20.3.26_1a4cf601da_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.3.26_1a4cf601da_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-19.03.2020/fw_perseus_miui_MIMIX3_20.3.19_70f89b5754_10.0.zip
@@ -26329,6 +26449,16 @@
     android: '9.0'
     miui: 8.10.25
 - branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-26.03.2020/fw_phoenix_miui_PHOENIX_20.3.26_435eaaa7de_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/phoenix/fw_phoenix_miui_PHOENIX_20.3.26_435eaaa7de_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.3.26_435eaaa7de_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-19.03.2020/fw_phoenix_miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip
@@ -26478,6 +26608,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QGHINXM
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-26.03.2020/fw_picasso_miui_PICASSO_20.3.26_d4fdbad600_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/picasso/fw_picasso_miui_PICASSO_20.3.26_d4fdbad600_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.3.26_d4fdbad600_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-21'
   downloads:
@@ -26848,6 +26988,16 @@
   versions:
     android: '9.0'
     miui: V10.2.6.0.PCMCNXM
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-26.03.2020/fw_platina_miui_MI8Lite_20.3.26_053dcfdb5d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/platina/fw_platina_miui_MI8Lite_20.3.26_053dcfdb5d_10.0.zip
+  filename: fw_platina_miui_MI8Lite_20.3.26_053dcfdb5d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: stable
   date: '2020-03-20'
   downloads:
@@ -29819,6 +29969,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-26.03.2020/fw_pyxis_miui_PYXIS_20.3.26_857cc8af87_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/pyxis/fw_pyxis_miui_PYXIS_20.3.26_857cc8af87_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.3.26_857cc8af87_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-19.03.2020/fw_pyxis_miui_PYXIS_20.3.19_6ec6e95f41_10.0.zip
@@ -30178,6 +30338,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-26.03.2020/fw_raphael_miui_RAPHAEL_20.3.26_da35e7da9b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/raphael/fw_raphael_miui_RAPHAEL_20.3.26_da35e7da9b_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.3.26_da35e7da9b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-19'
   downloads:
@@ -33958,6 +34128,16 @@
   versions:
     android: '7.1'
     miui: 8.3.29
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sagit/releases/download/weekly-26.03.2020/fw_sagit_miui_MI6_20.3.26_c8081cf18a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/sagit/fw_sagit_miui_MI6_20.3.26_c8081cf18a_9.0.zip
+  filename: fw_sagit_miui_MI6_20.3.26_c8081cf18a_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.26
 - branch: stable
   date: '2020-03-23'
   downloads:
@@ -39199,6 +39379,16 @@
     android: '7.0'
     miui: 8.3.26
 - branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-26.03.2020/fw_sirius_miui_MI8SE_20.3.26_335c159428_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/sirius/fw_sirius_miui_MI8SE_20.3.26_335c159428_10.0.zip
+  filename: fw_sirius_miui_MI8SE_20.3.26_335c159428_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-19.03.2020/fw_sirius_miui_MI8SE_20.3.19_73d8cc98c5_10.0.zip
@@ -43888,6 +44078,16 @@
   versions:
     android: '10.0'
     miui: V11.0.5.0.QJBCNXM
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-26.03.2020/fw_ursa_miui_MI8Explorer_20.3.26_22ea00a9a2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/ursa/fw_ursa_miui_MI8Explorer_20.3.26_22ea00a9a2_10.0.zip
+  filename: fw_ursa_miui_MI8Explorer_20.3.26_22ea00a9a2_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: stable
   date: '2020-03-20'
   downloads:
@@ -44668,6 +44868,16 @@
   versions:
     android: '8.1'
     miui: 8.8.30
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-26.03.2020/fw_vela_miui_VELA_20.3.26_3812d14502_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/vela/fw_vela_miui_VELA_20.3.26_3812d14502_10.0.zip
+  filename: fw_vela_miui_VELA_20.3.26_3812d14502_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-19'
   downloads:
@@ -45779,6 +45989,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-26.03.2020/fw_violet_miui_VIOLET_20.3.26_3a91bbe202_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/violet/fw_violet_miui_VIOLET_20.3.26_3a91bbe202_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.3.26_3a91bbe202_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-19.03.2020/fw_violet_miui_VIOLET_20.3.19_2d772673b8_10.0.zip
@@ -46278,6 +46498,16 @@
   versions:
     android: '9.0'
     miui: V10.2.5.0.PFHCNXM
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/weekly-26.03.2020/fw_wayne_miui_MI6X_20.3.26_6ea5d3b973_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/wayne/fw_wayne_miui_MI6X_20.3.26_6ea5d3b973_9.0.zip
+  filename: fw_wayne_miui_MI6X_20.3.26_6ea5d3b973_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-19'
   downloads:
@@ -47188,6 +47418,16 @@
   versions:
     android: '8.1'
     miui: V9.5.7.0.ODCCNFA
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/weekly-26.03.2020/fw_whyred_miui_HMNote5_20.3.26_667fc78b08_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/whyred/fw_whyred_miui_HMNote5_20.3.26_667fc78b08_9.0.zip
+  filename: fw_whyred_miui_HMNote5_20.3.26_667fc78b08_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-19'
   downloads:
