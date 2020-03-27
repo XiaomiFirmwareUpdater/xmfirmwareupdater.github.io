@@ -681,16 +681,16 @@
     android: '9.0'
     miui: V11.0.5.0.PFGMIXM
 - branch: stable
-  date: '2019-11-27'
+  date: '2020-03-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender-stable/fw-vendor_lavender_miui_LAVENDER_V11.0.4.0.PFGCNXM_80ef43dc45_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender-stable/fw-vendor_lavender_miui_LAVENDER_V11.0.4.0.PFGCNXM_80ef43dc45_9.0.zip/download
-  filename: fw-vendor_lavender_miui_LAVENDER_V11.0.4.0.PFGCNXM_80ef43dc45_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender-stable/fw-vendor_lavender_miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender-stable/fw-vendor_lavender_miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
   region: China
-  size: 438.5 MB
+  size: 439.2 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFGCNXM
+    miui: V11.0.7.0.PFGCNXM
 - branch: weekly
   date: '2019-09-07'
   downloads:
@@ -879,16 +879,16 @@
     android: '9.0'
     miui: V11.0.5.0.PCPMIXM
 - branch: stable
-  date: '2020-03-04'
+  date: '2020-03-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.8.0.PCPCNXM_f17650128e_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.8.0.PCPCNXM_f17650128e_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITE_V11.0.8.0.PCPCNXM_f17650128e_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
   region: China
-  size: 284.2 MB
+  size: 367.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.8.0.PCPCNXM
+    miui: V11.0.9.0.PCPCNXM
 - branch: stable
   date: '2020-02-21'
   downloads:
@@ -1671,16 +1671,16 @@
     android: '9.0'
     miui: V11.0.7.0.PCXEUXM
 - branch: stable
-  date: '2020-02-28'
+  date: '2020-03-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.2.0.PCXRUXM_480782e91b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.2.0.PCXRUXM_480782e91b_9.0.zip/download
-  filename: fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.2.0.PCXRUXM_480782e91b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.3.0.PCXRUXM_f2b49cae2e_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.3.0.PCXRUXM_f2b49cae2e_9.0.zip/download
+  filename: fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.3.0.PCXRUXM_f2b49cae2e_9.0.zip
   region: Russia
-  size: 383.8 MB
+  size: 386.4 MB
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PCXRUXM
+    miui: V11.0.3.0.PCXRUXM
 - branch: stable
   date: '2019-08-07'
   downloads:
