@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 27 Mar 2020 03:02:59 +0900</pubDate>
+  <pubDate>Fri, 27 Mar 2020 16:55:39 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - 20.3.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 27 Mar 2020 16:55:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2S (polaris) - 20.3.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Fri, 27 Mar 2020 16:55:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - 20.3.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 27 Mar 2020 16:54:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 20.3.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 27 Mar 2020 16:54:07 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 (ginkgo) - V11.0.4.0.PCOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
@@ -85,26 +105,6 @@
     <title>Mi 9 (cepheus) - 20.3.26</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
     <pubDate>Thu, 26 Mar 2020 21:23:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 20.3.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Thu, 26 Mar 2020 21:22:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 20.3.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Thu, 26 Mar 2020 21:22:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.3.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Thu, 26 Mar 2020 21:22:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.3.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Thu, 26 Mar 2020 21:22:03 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -6579,6 +6579,16 @@
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
 - branch: weekly
+  date: '2020-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-27.03.2020/fw_cmi_miui_CMI_20.3.26_17012be77b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/cmi/fw_cmi_miui_CMI_20.3.26_17012be77b_10.0.zip
+  filename: fw_cmi_miui_CMI_20.3.26_17012be77b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-19.03.2020/fw_cmi_miui_CMI_20.3.19_7bb354ce01_10.0.zip
@@ -10808,6 +10818,16 @@
   versions:
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
+- branch: weekly
+  date: '2020-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-27.03.2020/fw_grus_miui_GRUS_20.3.26_176a1ef3cd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/grus/fw_grus_miui_GRUS_20.3.26_176a1ef3cd_10.0.zip
+  filename: fw_grus_miui_GRUS_20.3.26_176a1ef3cd_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: stable
   date: '2020-03-25'
   downloads:
@@ -28029,6 +28049,16 @@
     android: '8.1'
     miui: 8.10.18
 - branch: weekly
+  date: '2020-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-27.03.2020/fw_polaris_miui_MIMIX2S_20.3.26_76a5fed9ab_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/polaris/fw_polaris_miui_MIMIX2S_20.3.26_76a5fed9ab_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.3.26_76a5fed9ab_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2020-03-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-21.03.2020/fw_polaris_miui_MIMIX2S_20.3.20_e2b1e0ab3f_10.0.zip
@@ -29389,15 +29419,15 @@
     android: '8.0'
     miui: 8.7.6
 - branch: weekly
-  date: '2018-06-26'
+  date: '2018-07-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/untagged-14c37f008e2aeb44053c/fw_polaris_miui_MIMIX2S_V9.5.18.0.ODGCNFA_3fbb62b6e1_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.18.0.ODGCNFA/polaris/fw_polaris_miui_MIMIX2S_V9.5.18.0.ODGCNFA_3fbb62b6e1_8.0.zip
-  filename: fw_polaris_miui_MIMIX2S_V9.5.18.0.ODGCNFA_3fbb62b6e1_8.0.zip
-  region: China
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/untagged-14c37f008e2aeb44053c/fw_polaris_miui_MIMIX2SGlobal_8.7.5_218f13c904_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/polaris/fw_polaris_miui_MIMIX2SGlobal_8.7.5_218f13c904_8.0.zip
+  filename: fw_polaris_miui_MIMIX2SGlobal_8.7.5_218f13c904_8.0.zip
+  region: Global
   versions:
     android: '8.0'
-    miui: V9.5.18.0.ODGCNFA
+    miui: 8.7.5
 - branch: weekly
   date: '2018-06-26'
   downloads:
@@ -29411,16 +29441,6 @@
 - branch: weekly
   date: '2018-07-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/untagged-14c37f008e2aeb44053c/fw_polaris_miui_MIMIX2SGlobal_8.7.5_218f13c904_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/polaris/fw_polaris_miui_MIMIX2SGlobal_8.7.5_218f13c904_8.0.zip
-  filename: fw_polaris_miui_MIMIX2SGlobal_8.7.5_218f13c904_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.7.5
-- branch: weekly
-  date: '2018-07-06'
-  downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/untagged-14c37f008e2aeb44053c/fw_polaris_miui_MIMIX2S_8.6.28_1a87f6824a_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.28/polaris/fw_polaris_miui_MIMIX2S_8.6.28_1a87f6824a_8.0.zip
   filename: fw_polaris_miui_MIMIX2S_8.6.28_1a87f6824a_8.0.zip
@@ -29428,6 +29448,16 @@
   versions:
     android: '8.0'
     miui: 8.6.28
+- branch: weekly
+  date: '2018-06-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/untagged-14c37f008e2aeb44053c/fw_polaris_miui_MIMIX2S_V9.5.18.0.ODGCNFA_3fbb62b6e1_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.18.0.ODGCNFA/polaris/fw_polaris_miui_MIMIX2S_V9.5.18.0.ODGCNFA_3fbb62b6e1_8.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V9.5.18.0.ODGCNFA_3fbb62b6e1_8.0.zip
+  region: China
+  versions:
+    android: '8.0'
+    miui: V9.5.18.0.ODGCNFA
 - branch: weekly
   date: '2018-06-19'
   downloads:
@@ -43998,6 +44028,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-27.03.2020/fw_umi_miui_UMI_20.3.26_35d388f3fb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/umi/fw_umi_miui_UMI_20.3.26_35d388f3fb_10.0.zip
+  filename: fw_umi_miui_UMI_20.3.26_35d388f3fb_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
 - branch: weekly
   date: '2020-03-19'
   downloads:
