@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-01-15'
+  date: '2020-03-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.6.0.PGGMIXM_41b14febb2_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.6.0.PGGMIXM_41b14febb2_9.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.6.0.PGGMIXM_41b14febb2_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.1.0.QGGMIXM_44690b4daa_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.1.0.QGGMIXM_44690b4daa_10.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.1.0.QGGMIXM_44690b4daa_10.0.zip
   region: Global
-  size: 490.3 MB
+  size: 499.5 MB
   versions:
-    android: '9.0'
-    miui: V11.0.6.0.PGGMIXM
+    android: '10.0'
+    miui: V11.0.1.0.QGGMIXM
 - branch: stable
   date: '2019-12-19'
   downloads:
