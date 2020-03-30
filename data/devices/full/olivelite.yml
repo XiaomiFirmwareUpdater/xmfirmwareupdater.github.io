@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-30.03.2020/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
+  filename: fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.9.0.PCPCNXM
+- branch: stable
   date: '2020-03-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-04.03.2020/fw_olivelite_miui_OLIVELITE_V11.0.8.0.PCPCNXM_f17650128e_9.0.zip

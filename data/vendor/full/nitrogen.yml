@@ -32,6 +32,17 @@
     android: '9.0'
     miui: V11.0.7.0.PEDRUXM
 - branch: stable
+  date: '2020-03-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_ru_global-stable/fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.1.0.QEDRUXM_cb4b693722_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_ru_global-stable/fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.1.0.QEDRUXM_cb4b693722_10.0.zip/download
+  filename: fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.1.0.QEDRUXM_cb4b693722_10.0.zip
+  region: Russia
+  size: 493.5 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QEDRUXM
+- branch: stable
   date: '2019-06-22'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen-stable/fw-vendor_nitrogen_V10.3.2.0.PEDCNXM.zip

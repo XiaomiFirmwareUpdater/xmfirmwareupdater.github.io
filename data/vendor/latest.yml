@@ -747,16 +747,16 @@
     android: '8.0'
     miui: 9.3.28
 - branch: stable
-  date: '2020-03-27'
+  date: '2020-03-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-stable/fw-vendor_lmi_miui_LMI_V11.0.10.0.QJKCNXM_c578a1da51_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-stable/fw-vendor_lmi_miui_LMI_V11.0.10.0.QJKCNXM_c578a1da51_10.0.zip/download
-  filename: fw-vendor_lmi_miui_LMI_V11.0.10.0.QJKCNXM_c578a1da51_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-stable/fw-vendor_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-stable/fw-vendor_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
   region: China
   size: 1.3 GB
   versions:
     android: '10.0'
-    miui: V11.0.10.0.QJKCNXM
+    miui: V11.0.12.0.QJKCNXM
 - branch: weekly
   date: '2019-04-05'
   downloads:
@@ -813,16 +813,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-01-15'
+  date: '2020-03-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_ru_global-stable/fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.7.0.PEDRUXM_c7617d66a3_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_ru_global-stable/fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.7.0.PEDRUXM_c7617d66a3_9.0.zip/download
-  filename: fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.7.0.PEDRUXM_c7617d66a3_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/nitrogen_ru_global-stable/fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.1.0.QEDRUXM_cb4b693722_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/nitrogen_ru_global-stable/fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.1.0.QEDRUXM_cb4b693722_10.0.zip/download
+  filename: fw-vendor_nitrogen_miui_NITROGENRUGlobal_V11.0.1.0.QEDRUXM_cb4b693722_10.0.zip
   region: Russia
-  size: 419.1 MB
+  size: 493.5 MB
   versions:
-    android: '9.0'
-    miui: V11.0.7.0.PEDRUXM
+    android: '10.0'
+    miui: V11.0.1.0.QEDRUXM
 - branch: stable
   date: '2020-03-27'
   downloads:
@@ -868,16 +868,16 @@
     android: '9.0'
     miui: V11.0.8.0.PCNINXM
 - branch: stable
-  date: '2020-02-25'
+  date: '2020-03-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.4.0.PCNRUXM_0ce96ab8ea_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.4.0.PCNRUXM_0ce96ab8ea_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.4.0.PCNRUXM_0ce96ab8ea_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip
   region: Russia
-  size: 368.2 MB
+  size: 370.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PCNRUXM
+    miui: V11.0.5.0.PCNRUXM
 - branch: stable
   date: '2020-02-21'
   downloads:
@@ -1055,16 +1055,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-02-21'
+  date: '2020-03-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip/download
-  filename: fw-vendor_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V11.0.14.0.QGHCNXM_a9310deb3b_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V11.0.14.0.QGHCNXM_a9310deb3b_10.0.zip/download
+  filename: fw-vendor_phoenix_miui_PHOENIX_V11.0.14.0.QGHCNXM_a9310deb3b_10.0.zip
   region: China
-  size: 899.9 MB
+  size: 896.3 MB
   versions:
     android: '10.0'
-    miui: V11.0.13.0.QGHCNXM
+    miui: V11.0.14.0.QGHCNXM
 - branch: stable
   date: '2020-03-23'
   downloads:
@@ -1187,16 +1187,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-01-14'
+  date: '2020-03-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.7.0.PDTRUXM_10c8bdaeca_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.7.0.PDTRUXM_10c8bdaeca_9.0.zip/download
-  filename: fw-vendor_platina_miui_PLATINARUGlobal_V11.0.7.0.PDTRUXM_10c8bdaeca_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.1.0.QDTRUXM_11ad3a942e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.1.0.QDTRUXM_11ad3a942e_10.0.zip/download
+  filename: fw-vendor_platina_miui_PLATINARUGlobal_V11.0.1.0.QDTRUXM_11ad3a942e_10.0.zip
   region: Russia
-  size: 418.4 MB
+  size: 492.8 MB
   versions:
-    android: '9.0'
-    miui: V11.0.7.0.PDTRUXM
+    android: '10.0'
+    miui: V11.0.1.0.QDTRUXM
 - branch: stable
   date: '2020-02-06'
   downloads:
@@ -1495,16 +1495,16 @@
     android: '9.0'
     miui: V11.0.3.0.PEKMIXM
 - branch: stable
-  date: '2020-03-16'
+  date: '2020-03-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.17.0.QJBCNXM_e09ff49f53_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.17.0.QJBCNXM_e09ff49f53_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMI_V11.0.17.0.QJBCNXM_e09ff49f53_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
   region: China
   size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.17.0.QJBCNXM
+    miui: V11.0.20.0.QJBCNXM
 - branch: stable
   date: '2020-02-06'
   downloads:
