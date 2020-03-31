@@ -8818,6 +8818,16 @@
   versions:
     android: '8.1'
     miui: 8.6.28
+- branch: stable
+  date: '2020-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-31.03.2020/fw_equuleus_miui_MI8UD_V11.0.2.0.QECCNXM_e52b417323_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UD_V11.0.2.0.QECCNXM_e52b417323_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_V11.0.2.0.QECCNXM_e52b417323_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QECCNXM
 - branch: weekly
   date: '2020-03-26'
   downloads:
@@ -16788,6 +16798,16 @@
   versions:
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
+- branch: stable
+  date: '2020-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-31.03.2020/fw_lavender_miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
+  filename: fw_lavender_miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.7.0.PFGCNXM
 - branch: weekly
   date: '2020-03-26'
   downloads:
@@ -28128,6 +28148,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: stable
+  date: '2020-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-31.03.2020/fw_polaris_miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/polaris/fw_polaris_miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip
+  filename: fw_polaris_miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QDGMIXM
 - branch: weekly
   date: '2020-03-27'
   downloads:
