@@ -6588,6 +6588,16 @@
   versions:
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
+- branch: stable
+  date: '2020-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/stable-31.03.2020/fw_cmi_miui_CMI_V11.0.16.0.QJACNXM_82359987a2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cmi/fw_cmi_miui_CMI_V11.0.16.0.QJACNXM_82359987a2_10.0.zip
+  filename: fw_cmi_miui_CMI_V11.0.16.0.QJACNXM_82359987a2_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.16.0.QJACNXM
 - branch: weekly
   date: '2020-03-27'
   downloads:
@@ -23478,6 +23488,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
+- branch: stable
+  date: '2020-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-31.03.2020/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
+  filename: fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.9.0.PCPCNXM
 - branch: stable
   date: '2020-03-30'
   downloads:
