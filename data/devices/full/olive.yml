@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-04-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-01.04.2020/fw_olive_miui_OLIVEINGlobal_V11.0.10.0.PCNINXM_30c0530d4e_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVEINGlobal_V11.0.10.0.PCNINXM_30c0530d4e_9.0.zip
+  filename: fw_olive_miui_OLIVEINGlobal_V11.0.10.0.PCNINXM_30c0530d4e_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.10.0.PCNINXM
+- branch: stable
   date: '2020-03-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-28.03.2020/fw_olive_miui_OLIVEGlobal_V11.0.10.0.PCNMIXM_3daae20692_9.0.zip
