@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 02 Apr 2020 03:37:38 +0900</pubDate>
+  <pubDate>Thu, 02 Apr 2020 19:48:00 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8 (olive) - V11.0.10.0.PCNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
+    <pubDate>Thu, 02 Apr 2020 19:48:00 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8 (olive) - V11.0.10.0.PCNINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 8 (ginkgo) - V11.0.4.0.PCOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
     <pubDate>Fri, 27 Mar 2020 03:02:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 20.3.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Thu, 26 Mar 2020 21:58:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
