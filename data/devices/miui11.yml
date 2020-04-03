@@ -480,6 +480,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: cmi
+  date: '2020-04-03'
+  download: https://bigota.d.miui.com/20.3.28/miui_CMI_20.3.28_0614aede0e_10.0.zip
+  name: Mi 10 Pro
+  version: 20.3.28
+- android: '10.0'
+  codename: cmi
   date: '2020-03-27'
   download: https://bigota.d.miui.com/20.3.26/miui_CMI_20.3.26_17012be77b_10.0.zip
   name: Mi 10 Pro
@@ -2112,6 +2118,12 @@
   version: 9.10.17
 - android: '10.0'
   codename: raphael
+  date: '2020-04-03'
+  download: https://bigota.d.miui.com/20.3.27/miui_RAPHAEL_20.3.27_ed490e12bd_10.0.zip
+  name: Redmi K20 Pro/Mi 9T Pro
+  version: 20.3.27
+- android: '10.0'
+  codename: raphael
   date: '2020-03-26'
   download: https://bigota.d.miui.com/20.3.26/miui_RAPHAEL_20.3.26_da35e7da9b_10.0.zip
   name: Redmi K20 Pro/Mi 9T Pro
@@ -2664,6 +2676,12 @@
   version: 9.10.10
 - android: '10.0'
   codename: umi
+  date: '2020-04-03'
+  download: https://bigota.d.miui.com/20.3.28/miui_UMI_20.3.28_78ccc2b2e2_10.0.zip
+  name: Mi 10
+  version: 20.3.28
+- android: '10.0'
+  codename: umi
   date: '2020-03-27'
   download: https://bigota.d.miui.com/20.3.26/miui_UMI_20.3.26_35d388f3fb_10.0.zip
   name: Mi 10
@@ -2884,6 +2902,12 @@
   download: https://bigota.d.miui.com/9.10.10/miui_HM5Plus_9.10.10_a2ad5bd3b7_8.1.zip
   name: Redmi 5 Plus/Note 5
   version: 9.10.10
+- android: '10.0'
+  codename: violet
+  date: '2020-04-03'
+  download: https://bigota.d.miui.com/20.4.1/miui_VIOLET_20.4.1_4fc2477b49_10.0.zip
+  name: Redmi Note 7 Pro
+  version: 20.4.1
 - android: '10.0'
   codename: violet
   date: '2020-03-26'

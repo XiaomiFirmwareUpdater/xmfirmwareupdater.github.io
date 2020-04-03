@@ -359,15 +359,15 @@
     android: '10.0'
     miui: V11.0.16.0.QJACNXM
 - branch: weekly
-  date: '2020-03-27'
+  date: '2020-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-27.03.2020/fw_cmi_miui_CMI_20.3.26_17012be77b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/cmi/fw_cmi_miui_CMI_20.3.26_17012be77b_10.0.zip
-  filename: fw_cmi_miui_CMI_20.3.26_17012be77b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-03.04.2020/fw_cmi_miui_CMI_20.3.28_0614aede0e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.28/cmi/fw_cmi_miui_CMI_20.3.28_0614aede0e_10.0.zip
+  filename: fw_cmi_miui_CMI_20.3.28_0614aede0e_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.26
+    miui: 20.3.28
 - branch: stable
   date: '2019-11-15'
   downloads:
@@ -1699,15 +1699,15 @@
     android: '10.0'
     miui: V11.0.5.0.QFKCNXM
 - branch: weekly
-  date: '2020-03-26'
+  date: '2020-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-26.03.2020/fw_raphael_miui_RAPHAEL_20.3.26_da35e7da9b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/raphael/fw_raphael_miui_RAPHAEL_20.3.26_da35e7da9b_10.0.zip
-  filename: fw_raphael_miui_RAPHAEL_20.3.26_da35e7da9b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-03.04.2020/fw_raphael_miui_RAPHAEL_20.3.27_ed490e12bd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.27/raphael/fw_raphael_miui_RAPHAEL_20.3.27_ed490e12bd_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.3.27_ed490e12bd_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.26
+    miui: 20.3.27
 - branch: stable
   date: '2020-03-03'
   downloads:
@@ -2199,15 +2199,15 @@
     android: '10.0'
     miui: V11.0.20.0.QJBCNXM
 - branch: weekly
-  date: '2020-03-27'
+  date: '2020-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-27.03.2020/fw_umi_miui_UMI_20.3.26_35d388f3fb_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/umi/fw_umi_miui_UMI_20.3.26_35d388f3fb_10.0.zip
-  filename: fw_umi_miui_UMI_20.3.26_35d388f3fb_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-03.04.2020/fw_umi_miui_UMI_20.3.28_78ccc2b2e2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.28/umi/fw_umi_miui_UMI_20.3.28_78ccc2b2e2_10.0.zip
+  filename: fw_umi_miui_UMI_20.3.28_78ccc2b2e2_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.26
+    miui: 20.3.28
 - branch: stable
   date: '2020-03-20'
   downloads:
@@ -2299,15 +2299,15 @@
     android: '9.0'
     miui: V11.0.8.0.PFHCNXM
 - branch: weekly
-  date: '2020-03-26'
+  date: '2020-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-26.03.2020/fw_violet_miui_VIOLET_20.3.26_3a91bbe202_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/violet/fw_violet_miui_VIOLET_20.3.26_3a91bbe202_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.3.26_3a91bbe202_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-03.04.2020/fw_violet_miui_VIOLET_20.4.1_4fc2477b49_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.1/violet/fw_violet_miui_VIOLET_20.4.1_4fc2477b49_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.4.1_4fc2477b49_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.26
+    miui: 20.4.1
 - branch: stable
   date: '2020-03-12'
   downloads:
