@@ -351,16 +351,16 @@
     android: '10.0'
     miui: V11.0.1.0.QJWMIXM
 - branch: stable
-  date: '2020-03-14'
+  date: '2020-04-07'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.4.0.QJWINXM_5c420fbe36_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.4.0.QJWINXM_5c420fbe36_10.0.zip/download
-  filename: fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.4.0.QJWINXM_5c420fbe36_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip/download
+  filename: fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip
   region: India
   size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QJWINXM
+    miui: V11.0.5.0.QJWINXM
 - branch: stable
   date: '2020-01-20'
   downloads:
@@ -879,16 +879,16 @@
     android: '9.0'
     miui: V11.0.5.0.PCNRUXM
 - branch: stable
-  date: '2020-02-21'
+  date: '2020-04-07'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_global-stable/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.5.0.PCPMIXM_b47db7319d_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_global-stable/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.5.0.PCPMIXM_b47db7319d_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.5.0.PCPMIXM_b47db7319d_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_global-stable/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_global-stable/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip
   region: Global
-  size: 267.4 MB
+  size: 269.2 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PCPMIXM
+    miui: V11.0.6.0.PCPMIXM
 - branch: stable
   date: '2020-03-27'
   downloads:
@@ -934,16 +934,16 @@
     android: '9.0'
     miui: V11.0.3.0.PCPRUXM
 - branch: stable
-  date: '2020-03-13'
+  date: '2020-04-07'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivewood_in_global-stable/fw-vendor_olivewood_miui_OLIVEWOODINGlobal_V11.0.5.0.PCQINXM_75fa1626b1_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivewood_in_global-stable/fw-vendor_olivewood_miui_OLIVEWOODINGlobal_V11.0.5.0.PCQINXM_75fa1626b1_9.0.zip/download
-  filename: fw-vendor_olivewood_miui_OLIVEWOODINGlobal_V11.0.5.0.PCQINXM_75fa1626b1_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivewood_in_global-stable/fw-vendor_olivewood_miui_OLIVEWOODINGlobal_V11.0.6.0.PCQINXM_5c063425f3_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivewood_in_global-stable/fw-vendor_olivewood_miui_OLIVEWOODINGlobal_V11.0.6.0.PCQINXM_5c063425f3_9.0.zip/download
+  filename: fw-vendor_olivewood_miui_OLIVEWOODINGlobal_V11.0.6.0.PCQINXM_5c063425f3_9.0.zip
   region: India
-  size: 263.0 MB
+  size: 263.1 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PCQINXM
+    miui: V11.0.6.0.PCQINXM
 - branch: stable
   date: '2019-12-30'
   downloads:
@@ -1308,16 +1308,16 @@
     android: '10.0'
     miui: V11.0.3.0.QFKMIXM
 - branch: stable
-  date: '2020-03-19'
+  date: '2020-04-07'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip/download
-  filename: fw-vendor_raphael_miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.8.0.QFKCNXM_687a01bd2f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.8.0.QFKCNXM_687a01bd2f_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAEL_V11.0.8.0.QFKCNXM_687a01bd2f_10.0.zip
   region: China
-  size: 826.9 MB
+  size: 827.0 MB
   versions:
     android: '10.0'
-    miui: V11.0.7.0.QFKCNXM
+    miui: V11.0.8.0.QFKCNXM
 - branch: stable
   date: '2020-03-03'
   downloads:
