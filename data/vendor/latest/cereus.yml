@@ -10,16 +10,16 @@
     android: '9.0'
     miui: V11.0.2.0.PCGMIXM
 - branch: stable
-  date: '2019-11-13'
+  date: '2020-04-07'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cereus-stable/fw-vendor_cereus_miui_HM6_V11.0.3.0.PCGCNXM_6b13efe095_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cereus-stable/fw-vendor_cereus_miui_HM6_V11.0.3.0.PCGCNXM_6b13efe095_9.0.zip/download
-  filename: fw-vendor_cereus_miui_HM6_V11.0.3.0.PCGCNXM_6b13efe095_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cereus-stable/fw-vendor_cereus_miui_HM6_V11.0.4.0.PCGCNXM_8ab510b0e5_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cereus-stable/fw-vendor_cereus_miui_HM6_V11.0.4.0.PCGCNXM_8ab510b0e5_9.0.zip/download
+  filename: fw-vendor_cereus_miui_HM6_V11.0.4.0.PCGCNXM_8ab510b0e5_9.0.zip
   region: China
-  size: 244.8 MB
+  size: 247.6 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PCGCNXM
+    miui: V11.0.4.0.PCGCNXM
 - branch: weekly
   date: '2019-10-25'
   downloads:

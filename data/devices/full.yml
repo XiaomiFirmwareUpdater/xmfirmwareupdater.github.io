@@ -6879,6 +6879,16 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
+  date: '2020-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-07.04.2020/fw_curtana_miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip
+  filename: fw_curtana_miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QJWINXM
+- branch: stable
   date: '2020-03-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-19.03.2020/fw_curtana_miui_CURTANAGlobal_V11.0.1.0.QJWMIXM_1bb6139eee_10.0.zip
@@ -23549,6 +23559,16 @@
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
 - branch: stable
+  date: '2020-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-07.04.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip
+  filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PCPMIXM
+- branch: stable
   date: '2020-03-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-31.03.2020/fw_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
@@ -23778,6 +23798,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PCPCNXM
+- branch: stable
+  date: '2020-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-07.04.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.6.0.PCQINXM_5c063425f3_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.6.0.PCQINXM_5c063425f3_9.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.6.0.PCQINXM_5c063425f3_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PCQINXM
 - branch: stable
   date: '2020-03-13'
   downloads:

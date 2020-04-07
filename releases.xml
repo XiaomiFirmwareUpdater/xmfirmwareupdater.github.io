@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 07 Apr 2020 13:05:20 +0900</pubDate>
+  <pubDate>Tue, 07 Apr 2020 19:08:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8A Dual (olivewood) - V11.0.6.0.PCQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivewood</link>
+    <pubDate>Tue, 07 Apr 2020 19:08:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8A (olivelite) - V11.0.6.0.PCPMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Tue, 07 Apr 2020 19:05:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V11.0.5.0.QJWINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Tue, 07 Apr 2020 19:04:40 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.8.0.QFKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
@@ -90,21 +105,6 @@
     <title>Mi 10 (umi) - V11.0.20.0.QJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
     <pubDate>Mon, 30 Mar 2020 19:05:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.10.0.PCNMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Sat, 28 Mar 2020 19:04:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V11.0.1.0.QGGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Sat, 28 Mar 2020 02:45:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro (lmi) - V11.0.10.0.QJKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 27 Mar 2020 23:26:47 +0900</pubDate>
   </item>
     </channel>
 </rss>
