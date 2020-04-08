@@ -1049,15 +1049,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-03-30'
+  date: '2020-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-30.03.2020/fw_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
-  filename: fw_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-08.04.2020/fw_lmi_miui_LMI_V11.0.14.0.QJKCNXM_1c69737182_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.14.0.QJKCNXM_1c69737182_10.0.zip
+  filename: fw_lmi_miui_LMI_V11.0.14.0.QJKCNXM_1c69737182_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.12.0.QJKCNXM
+    miui: V11.0.14.0.QJKCNXM
 - branch: stable
   date: '2020-03-10'
   downloads:
@@ -1689,15 +1689,15 @@
     android: '10.0'
     miui: V11.0.3.0.QFKMIXM
 - branch: stable
-  date: '2020-04-07'
+  date: '2020-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-07.04.2020/fw_raphael_miui_RAPHAEL_V11.0.8.0.QFKCNXM_687a01bd2f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/raphael/fw_raphael_miui_RAPHAEL_V11.0.8.0.QFKCNXM_687a01bd2f_10.0.zip
-  filename: fw_raphael_miui_RAPHAEL_V11.0.8.0.QFKCNXM_687a01bd2f_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-08.04.2020/fw_raphael_miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/raphael/fw_raphael_miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_V11.0.7.0.QFKCNXM_4a6b851d43_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.8.0.QFKCNXM
+    miui: V11.0.7.0.QFKCNXM
 - branch: weekly
   date: '2020-04-03'
   downloads:
