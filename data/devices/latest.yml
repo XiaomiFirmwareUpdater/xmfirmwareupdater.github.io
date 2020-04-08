@@ -259,15 +259,15 @@
     android: '10.0'
     miui: V11.0.8.0.QFAEUXM
 - branch: stable
-  date: '2020-01-08'
+  date: '2020-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-08.01.2020/fw_cereus_miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cereus/fw_cereus_miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip
-  filename: fw_cereus_miui_HM6Global_V11.0.2.0.PCGMIXM_aa8d648fcd_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-08.04.2020/fw_cereus_miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cereus/fw_cereus_miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip
+  filename: fw_cereus_miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.2.0.PCGMIXM
+    miui: V11.0.3.0.PCGMIXM
 - branch: stable
   date: '2020-04-01'
   downloads:
@@ -1309,15 +1309,15 @@
     android: '9.0'
     miui: V11.0.3.0.PCPEUXM
 - branch: stable
-  date: '2020-02-21'
+  date: '2020-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-21.02.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.7.0.PCPINXM_05e152505e_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.7.0.PCPINXM_05e152505e_9.0.zip
-  filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.7.0.PCPINXM_05e152505e_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-08.04.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip
+  filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.8.0.PCPINXM_82dd75bbf7_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.7.0.PCPINXM
+    miui: V11.0.8.0.PCPINXM
 - branch: stable
   date: '2020-04-07'
   downloads:
@@ -1479,15 +1479,15 @@
     android: '10.0'
     miui: V11.0.6.0.QGHINXM
 - branch: stable
-  date: '2020-03-31'
+  date: '2020-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-31.03.2020/fw_picasso_miui_PICASSO_V11.1.18.0.QGICNXM_d7565408e1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.18.0.QGICNXM_d7565408e1_10.0.zip
-  filename: fw_picasso_miui_PICASSO_V11.1.18.0.QGICNXM_d7565408e1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-08.04.2020/fw_picasso_miui_PICASSO_V11.1.19.0.QGICNXM_55921e2c61_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.19.0.QGICNXM_55921e2c61_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.1.19.0.QGICNXM_55921e2c61_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.1.18.0.QGICNXM
+    miui: V11.1.19.0.QGICNXM
 - branch: weekly
   date: '2020-03-26'
   downloads:

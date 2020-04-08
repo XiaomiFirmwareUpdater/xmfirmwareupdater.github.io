@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 08 Apr 2020 19:06:05 +0900</pubDate>
+  <pubDate>Thu, 09 Apr 2020 01:08:55 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 5G (picasso) - V11.1.19.0.QGICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Thu, 09 Apr 2020 01:08:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8A (olivelite) - V11.0.8.0.PCPINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Thu, 09 Apr 2020 01:07:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 (cereus) - V11.0.3.0.PCGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Thu, 09 Apr 2020 01:05:37 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.7.0.QFKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
@@ -90,21 +105,6 @@
     <title>Mi 8 Pro (equuleus) - V11.0.2.0.QECCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
     <pubDate>Tue, 31 Mar 2020 19:05:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - V11.0.14.0.QGHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Tue, 31 Mar 2020 16:44:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.9.0.PCPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Tue, 31 Mar 2020 13:05:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V11.0.16.0.QJACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Tue, 31 Mar 2020 13:05:23 +0900</pubDate>
   </item>
     </channel>
 </rss>
