@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 10 Apr 2020 13:04:45 +0900</pubDate>
+  <pubDate>Fri, 10 Apr 2020 21:17:56 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V11.0.9.0.QJBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 10 Apr 2020 21:17:56 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - V11.0.7.0.QJAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 10 Apr 2020 21:16:40 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 7A (pine) - V11.0.18.0.PCMEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
@@ -95,16 +105,6 @@
     <title>Redmi 8 (olive) - V11.0.10.0.PCNINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
     <pubDate>Thu, 02 Apr 2020 03:37:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 (cereus) - V11.0.4.0.PCGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
-    <pubDate>Thu, 02 Apr 2020 03:37:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G (picasso) - V11.1.18.0.QGICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Wed, 01 Apr 2020 01:07:57 +0900</pubDate>
   </item>
     </channel>
 </rss>
