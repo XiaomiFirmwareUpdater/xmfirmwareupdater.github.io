@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-02-06'
+  date: '2020-04-13'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip/download
-  filename: fw-vendor_ursa_miui_MI8Explorer_V11.0.2.0.QEHCNXM_39fcb8e8f6_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.QEHCNXM_ed3a873415_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ursa-stable/fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.QEHCNXM_ed3a873415_10.0.zip/download
+  filename: fw-vendor_ursa_miui_MI8Explorer_V11.0.3.0.QEHCNXM_ed3a873415_10.0.zip
   region: China
-  size: 645.6 MB
+  size: 648.5 MB
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QEHCNXM
+    miui: V11.0.3.0.QEHCNXM
 - branch: weekly
   date: '2019-09-06'
   downloads:
