@@ -3,7 +3,7 @@ title: Contact us!
 layout: single
 permalink: /contact-us/
 ---
-Do you have any questions? or want to report something?
+Do you have any questions or want to report something?
 
 Feel free to contact us using one of these methods:
 
