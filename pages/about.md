@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 ---
 
-![Image](https://github.com/XiaomiFirmwareUpdater/xiaomifirmwareupdater.github.io/raw/master/images/xfu.png)
+<img src="https://github.com/XiaomiFirmwareUpdater/xiaomifirmwareupdater.github.io/raw/master/images/xfu.png" style="float: left; padding: 15px;"/>
 
 Xiaomi Firmware Updater is a community project, started in January 2018, aims to provide firmware packages for all Xiaomi devices, in order to allow custom ROM users to update their devices' firmware easily through custom recovery instead of having to flash full ROM every time they want to update.
 
