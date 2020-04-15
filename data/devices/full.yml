@@ -3438,6 +3438,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-04-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-15.04.2020/fw_cepheus_miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.9.0.QFACNXM
 - branch: weekly
   date: '2020-03-26'
   downloads:
@@ -7358,6 +7368,16 @@
   versions:
     android: '9.0'
     miui: V10.3.6.0.PFJCNXM
+- branch: stable
+  date: '2020-04-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinciin/releases/download/stable-15.04.2020/fw_davinciin_miui_DAVINCIININGlobal_V11.0.3.0.QFJINXM_8fbd476b70_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/davinciin/fw_davinciin_miui_DAVINCIININGlobal_V11.0.3.0.QFJINXM_8fbd476b70_10.0.zip
+  filename: fw_davinciin_miui_DAVINCIININGlobal_V11.0.3.0.QFJINXM_8fbd476b70_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFJINXM
 - branch: stable
   date: '2020-03-04'
   downloads:
