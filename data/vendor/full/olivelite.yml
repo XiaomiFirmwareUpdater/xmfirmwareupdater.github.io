@@ -21,6 +21,17 @@
     android: '9.0'
     miui: V11.0.2.0.PCPIDXM
 - branch: stable
+  date: '2020-04-16'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_id_global-stable/fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.4.0.PCPIDXM_459bc765da_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_id_global-stable/fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.4.0.PCPIDXM_459bc765da_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.4.0.PCPIDXM_459bc765da_9.0.zip
+  region: Global
+  size: 269.3 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCPIDXM
+- branch: stable
   date: '2019-12-02'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_eea_global-stable/fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.PCPEUXM_9f67b5d89a_9.0.zip
