@@ -1,0 +1,11 @@
+- branch: stable
+  date: '2020-04-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/excalibur_in_global-stable/fw-vendor_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/excalibur_in_global-stable/fw-vendor_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip/download
+  filename: fw-vendor_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip
+  region: India
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJXINXM
