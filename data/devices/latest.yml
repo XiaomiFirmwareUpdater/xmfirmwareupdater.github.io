@@ -549,6 +549,16 @@
     android: '10.0'
     miui: 20.3.26
 - branch: stable
+  date: '2020-04-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-17.04.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip
+  filename: fw_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJXINXM
+- branch: stable
   date: '2019-01-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gemini/releases/download/stable-25.01.2019/fw_gemini_miui_MI5Global_V10.2.2.0.OAAMIXM_d16c808eba_8.0.zip
