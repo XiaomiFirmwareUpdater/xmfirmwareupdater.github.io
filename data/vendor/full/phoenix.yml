@@ -53,3 +53,14 @@
   versions:
     android: '10.0'
     miui: V11.0.14.0.QGHCNXM
+- branch: stable
+  date: '2020-04-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip/download
+  filename: fw-vendor_phoenix_miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip
+  region: China
+  size: 896.9 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.15.0.QGHCNXM
