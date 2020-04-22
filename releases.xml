@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 22 Apr 2020 13:05:00 +0900</pubDate>
+  <pubDate>Wed, 22 Apr 2020 19:05:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V11.0.6.0.QFJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Wed, 22 Apr 2020 19:05:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V11.0.3.0.QJWMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
@@ -100,11 +105,6 @@
     <title>POCOPHONE X2 (phoenixin) - V11.0.7.0.QGHINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenixin</link>
     <pubDate>Sat, 11 Apr 2020 01:06:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V11.0.9.0.QJBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Fri, 10 Apr 2020 21:17:56 +0900</pubDate>
   </item>
     </channel>
 </rss>
