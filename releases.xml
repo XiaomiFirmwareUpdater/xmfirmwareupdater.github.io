@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 22 Apr 2020 19:05:03 +0900</pubDate>
+  <pubDate>Fri, 24 Apr 2020 01:09:00 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 (dipper) - V11.0.4.0.QEAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Fri, 24 Apr 2020 01:09:00 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V11.0.5.0.QFJEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 24 Apr 2020 01:07:01 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20/Mi 9T (davinci) - V11.0.6.0.QFJCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
@@ -95,16 +105,6 @@
     <title>Mi 8 Explorer (ursa) - V11.0.3.0.QEHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
     <pubDate>Mon, 13 Apr 2020 13:06:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - V11.0.3.0.QDGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Mon, 13 Apr 2020 13:06:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCOPHONE X2 (phoenixin) - V11.0.7.0.QGHINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenixin</link>
-    <pubDate>Sat, 11 Apr 2020 01:06:47 +0900</pubDate>
   </item>
     </channel>
 </rss>
