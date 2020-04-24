@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 24 Apr 2020 01:09:00 +0900</pubDate>
+  <pubDate>Fri, 24 Apr 2020 19:05:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 (dipper) - V11.0.7.0.QEACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Fri, 24 Apr 2020 19:05:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V11.0.6.0.QJWMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Fri, 24 Apr 2020 19:04:40 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 (dipper) - V11.0.4.0.QEAMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
@@ -95,16 +105,6 @@
     <title>Redmi 7A (pine) - V11.0.6.0.PCMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
     <pubDate>Mon, 13 Apr 2020 19:06:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.4.0.PCPEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Mon, 13 Apr 2020 19:05:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Explorer (ursa) - V11.0.3.0.QEHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Mon, 13 Apr 2020 13:06:56 +0900</pubDate>
   </item>
     </channel>
 </rss>
