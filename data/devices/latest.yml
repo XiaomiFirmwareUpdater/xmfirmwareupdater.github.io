@@ -1679,15 +1679,15 @@
     android: '10.0'
     miui: V11.0.1.0.QFCMIXM
 - branch: stable
-  date: '2020-03-03'
+  date: '2020-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-03.03.2020/fw_pyxis_miui_PYXIS_V11.0.1.0.QFCCNXM_ed59cac77c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXIS_V11.0.1.0.QFCCNXM_ed59cac77c_10.0.zip
-  filename: fw_pyxis_miui_PYXIS_V11.0.1.0.QFCCNXM_ed59cac77c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-26.04.2020/fw_pyxis_miui_PYXIS_V11.0.3.0.QFCCNXM_d85476eb34_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXIS_V11.0.3.0.QFCCNXM_d85476eb34_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_V11.0.3.0.QFCCNXM_d85476eb34_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QFCCNXM
+    miui: V11.0.3.0.QFCCNXM
 - branch: weekly
   date: '2020-03-26'
   downloads:
@@ -2269,15 +2269,15 @@
     android: '10.0'
     miui: 20.3.26
 - branch: stable
-  date: '2020-03-03'
+  date: '2020-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/stable-03.03.2020/fw_vela_miui_VELA_V11.0.1.0.QFECNXM_d543acf17d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vela/fw_vela_miui_VELA_V11.0.1.0.QFECNXM_d543acf17d_10.0.zip
-  filename: fw_vela_miui_VELA_V11.0.1.0.QFECNXM_d543acf17d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/stable-26.04.2020/fw_vela_miui_VELA_V11.0.3.0.QFECNXM_c32f9a0b0b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vela/fw_vela_miui_VELA_V11.0.3.0.QFECNXM_c32f9a0b0b_10.0.zip
+  filename: fw_vela_miui_VELA_V11.0.3.0.QFECNXM_c32f9a0b0b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QFECNXM
+    miui: V11.0.3.0.QFECNXM
 - branch: weekly
   date: '2020-03-26'
   downloads:
