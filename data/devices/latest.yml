@@ -209,15 +209,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-03-03'
+  date: '2020-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-04.03.2020/fw_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-26.04.2020/fw_cepheus_miui_CEPHEUSGlobal_V11.0.6.0.QFAMIXM_9b7f8b2137_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V11.0.6.0.QFAMIXM_9b7f8b2137_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_V11.0.6.0.QFAMIXM_9b7f8b2137_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QFAMIXM
+    miui: V11.0.6.0.QFAMIXM
 - branch: stable
   date: '2020-04-15'
   downloads:
@@ -249,15 +249,15 @@
     android: '10.0'
     miui: 20.3.26
 - branch: stable
-  date: '2020-03-03'
+  date: '2020-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-04.03.2020/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-26.04.2020/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.9.0.QFAEUXM_6f1cf64460_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.9.0.QFAEUXM_6f1cf64460_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.9.0.QFAEUXM_6f1cf64460_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.8.0.QFAEUXM
+    miui: V11.0.9.0.QFAEUXM
 - branch: stable
   date: '2020-04-08'
   downloads:
@@ -1079,15 +1079,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-04-08'
+  date: '2020-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-08.04.2020/fw_lmi_miui_LMI_V11.0.14.0.QJKCNXM_1c69737182_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.14.0.QJKCNXM_1c69737182_10.0.zip
-  filename: fw_lmi_miui_LMI_V11.0.14.0.QJKCNXM_1c69737182_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-26.04.2020/fw_lmi_miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip
+  filename: fw_lmi_miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.14.0.QJKCNXM
+    miui: V11.0.16.0.QJKCNXM
 - branch: stable
   date: '2020-03-10'
   downloads:
