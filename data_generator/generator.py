@@ -156,6 +156,8 @@ def load_releases():
                 name = FW_DEVICES[codename]
                 filename = '_'.join(filename.split('_')[2:])
                 version = update["versions"]["miui"]
+                if version in ['20.3.28', '20.4.1']:
+                    continue
                 download = "https://bigota.d.miui.com/" + version + "/" + filename
                 miui12.append({'name': name, 'codename': codename, 'date': date,
                                'version': version, 'android': update['versions']['android'], 'download': download})
