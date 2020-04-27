@@ -1,5 +1,5 @@
-// Load latest miui 11 china beta downloads
-function loadMiuiChinaBeta() {
+// Load latest miui china beta downloads
+function loadMiuiChinaBeta(miui_version) {
     $(document).ready(function () {
         $('#miui').DataTable({
             responsive: true,
@@ -10,7 +10,7 @@ function loadMiuiChinaBeta() {
             "order": [[5, "desc"]],
             "ajax": {
                 "type": "GET",
-                "url": '/data/devices/miui11.yml',
+                "url": '/data/devices/' + miui_version + '.yml',
                 converters: {
                     'text yaml': function (result) {
                         return jsyaml.load(result);

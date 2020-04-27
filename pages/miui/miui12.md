@@ -1,10 +1,10 @@
 ---
-title: MIUI 11 China Beta ROM Latest Downloads
+title: MIUI 12 China Beta ROM Latest Downloads
 layout: download
-permalink: /miui11/
+permalink: /miui12/
 ---
 <script type="text/javascript" src="/assets/js/miui_beta.js"></script>
-### Latest MIUI Official 11 China Beta ROMs for Xiaomi devices
+### Latest MIUI Official 12 China Beta ROMs for Xiaomi devices
 ##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/).
 
 *Note 1*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware
@@ -33,6 +33,6 @@ Updater.
                 <th data-ref="date">Updated</th>
             </tr>
         </thead>
-        <script>loadMiuiChinaBeta('miui11')</script>
+        <script>loadMiuiChinaBeta('miui12')</script>
     </table>
 </div>
