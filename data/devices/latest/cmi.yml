@@ -9,15 +9,15 @@
     android: '10.0'
     miui: V11.0.16.0.QJACNXM
 - branch: weekly
-  date: '2020-04-03'
+  date: '2020-04-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-03.04.2020/fw_cmi_miui_CMI_20.3.28_0614aede0e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.28/cmi/fw_cmi_miui_CMI_20.3.28_0614aede0e_10.0.zip
-  filename: fw_cmi_miui_CMI_20.3.28_0614aede0e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-27.04.2020/fw_cmi_miui_CMI_20.4.27_b415ab6c37_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/cmi/fw_cmi_miui_CMI_20.4.27_b415ab6c37_10.0.zip
+  filename: fw_cmi_miui_CMI_20.4.27_b415ab6c37_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.28
+    miui: 20.4.27
 - branch: stable
   date: '2020-04-10'
   downloads:

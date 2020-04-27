@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-27.04.2020/fw_cepheus_miui_CEPHEUS_20.4.27_2b15191b0e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/cepheus/fw_cepheus_miui_CEPHEUS_20.4.27_2b15191b0e_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.4.27_2b15191b0e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.4.27
 - branch: stable
   date: '2020-04-26'
   downloads:
