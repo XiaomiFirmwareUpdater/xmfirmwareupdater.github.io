@@ -1,13 +1,3 @@
-- branch: stable
-  date: '2020-04-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-28.04.2020/fw_equuleus_miui_MI8UD_20.4.27_a7821ab655_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/20/equuleus/fw_equuleus_miui_MI8UD_20.4.27_a7821ab655_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.4.27_a7821ab655_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.4.27
 - branch: weekly
   date: '2020-04-27'
   downloads:
