@@ -519,15 +519,15 @@
     android: '10.0'
     miui: 20.3.26
 - branch: stable
-  date: '2020-03-03'
+  date: '2020-04-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-03.03.2020/fw_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-27.04.2020/fw_equuleus_miui_MI8UDGlobal_V11.0.5.0.QECMIXM_80436ccbc4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UDGlobal_V11.0.5.0.QECMIXM_80436ccbc4_10.0.zip
+  filename: fw_equuleus_miui_MI8UDGlobal_V11.0.5.0.QECMIXM_80436ccbc4_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QECMIXM
+    miui: V11.0.5.0.QECMIXM
 - branch: stable
   date: '2020-03-31'
   downloads:
@@ -2219,15 +2219,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2020-03-30'
+  date: '2020-04-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-30.03.2020/fw_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/umi/fw_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
-  filename: fw_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-27.04.2020/fw_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/umi/fw_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
+  filename: fw_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.20.0.QJBCNXM
+    miui: V11.0.24.0.QJBCNXM
 - branch: weekly
   date: '2020-04-03'
   downloads:
