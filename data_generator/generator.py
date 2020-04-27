@@ -142,25 +142,25 @@ def load_releases():
     with open('../data/devices/full.yml', 'w') as out:
         yaml.dump(archive, out, Dumper=yaml.CDumper)
 
-    # MIUI 11 China Beta
-    miui11 = []
+    # MIUI 12 China Beta
+    miui12 = []
     with open("../data/devices/full.yml", "r") as o:
         archive = yaml.load(o, Loader=yaml.CLoader)
     for update in archive:
         if update["branch"] == "weekly":
             date = update["date"]
             date_array = date.split('-')
-            if int(date_array[0]) == 2019 and int(date_array[1]) >= 10 or int(date_array[0]) >= 2020:
+            if int(date_array[0]) == 2020 and int(date_array[1]) >= 4:
                 filename = update["filename"]
                 codename = filename.split('_')[1]
                 name = FW_DEVICES[codename]
                 filename = '_'.join(filename.split('_')[2:])
                 version = update["versions"]["miui"]
                 download = "https://bigota.d.miui.com/" + version + "/" + filename
-                miui11.append({'name': name, 'codename': codename, 'date': date,
+                miui12.append({'name': name, 'codename': codename, 'date': date,
                                'version': version, 'android': update['versions']['android'], 'download': download})
-    with open('../data/devices/miui11.yml', 'w') as out:
-        yaml.dump(miui11, out, Dumper=yaml.CDumper)
+    with open('../data/devices/miui12.yml', 'w') as out:
+        yaml.dump(miui12, out, Dumper=yaml.CDumper)
 
 
 def generate_fw_md():
