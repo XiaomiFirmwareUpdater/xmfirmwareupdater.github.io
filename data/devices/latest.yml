@@ -1091,7 +1091,7 @@
 - branch: weekly
   date: '2020-04-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/weekly-29.04.2020/fw_lmi_miui_LMI_20.4.27_361bff838d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/weekly-27.04.2020/fw_lmi_miui_LMI_20.4.27_361bff838d_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/lmi/fw_lmi_miui_LMI_20.4.27_361bff838d_10.0.zip
   filename: fw_lmi_miui_LMI_20.4.27_361bff838d_10.0.zip
   region: China
