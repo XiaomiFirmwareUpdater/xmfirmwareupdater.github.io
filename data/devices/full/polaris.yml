@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-04-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-30.04.2020/fw_polaris_miui_MIMIX2S_20.4.30_2db521ba0e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/polaris/fw_polaris_miui_MIMIX2S_20.4.30_2db521ba0e_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.4.30_2db521ba0e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.4.30
+- branch: weekly
   date: '2020-04-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-27.04.2020/fw_polaris_miui_MIMIX2S_20.4.27_11b1226b4c_10.0.zip
@@ -1331,20 +1341,20 @@
 - branch: weekly
   date: '2018-07-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-20.07.2018/fw_polaris_miui_MIMIX2S_8.7.19_38ad694ba7_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/polaris/fw_polaris_miui_MIMIX2S_8.7.19_38ad694ba7_8.0.zip
-  filename: fw_polaris_miui_MIMIX2S_8.7.19_38ad694ba7_8.0.zip
-  region: China
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-20.07.2018/fw_polaris_miui_MIMIX2SGlobal_8.7.19_7ee8454444_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/polaris/fw_polaris_miui_MIMIX2SGlobal_8.7.19_7ee8454444_8.0.zip
+  filename: fw_polaris_miui_MIMIX2SGlobal_8.7.19_7ee8454444_8.0.zip
+  region: Global
   versions:
     android: '8.0'
     miui: 8.7.19
 - branch: weekly
   date: '2018-07-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-20.07.2018/fw_polaris_miui_MIMIX2SGlobal_8.7.19_7ee8454444_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/polaris/fw_polaris_miui_MIMIX2SGlobal_8.7.19_7ee8454444_8.0.zip
-  filename: fw_polaris_miui_MIMIX2SGlobal_8.7.19_7ee8454444_8.0.zip
-  region: Global
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-20.07.2018/fw_polaris_miui_MIMIX2S_8.7.19_38ad694ba7_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.19/polaris/fw_polaris_miui_MIMIX2S_8.7.19_38ad694ba7_8.0.zip
+  filename: fw_polaris_miui_MIMIX2S_8.7.19_38ad694ba7_8.0.zip
+  region: China
   versions:
     android: '8.0'
     miui: 8.7.19
