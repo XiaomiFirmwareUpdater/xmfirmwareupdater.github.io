@@ -362,16 +362,16 @@
     android: '10.0'
     miui: V11.0.6.0.QJWMIXM
 - branch: stable
-  date: '2020-04-18'
+  date: '2020-04-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_eea_global-stable/fw-vendor_curtana_miui_CURTANAEEAGlobal_V11.0.1.0.QJWEUXM_473d5b5a93_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_eea_global-stable/fw-vendor_curtana_miui_CURTANAEEAGlobal_V11.0.1.0.QJWEUXM_473d5b5a93_10.0.zip/download
-  filename: fw-vendor_curtana_miui_CURTANAEEAGlobal_V11.0.1.0.QJWEUXM_473d5b5a93_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_eea_global-stable/fw-vendor_curtana_miui_CURTANAEEAGlobal_V11.0.2.0.QJWEUXM_f0132e3bd8_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_eea_global-stable/fw-vendor_curtana_miui_CURTANAEEAGlobal_V11.0.2.0.QJWEUXM_f0132e3bd8_10.0.zip/download
+  filename: fw-vendor_curtana_miui_CURTANAEEAGlobal_V11.0.2.0.QJWEUXM_f0132e3bd8_10.0.zip
   region: Europe
   size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QJWEUXM
+    miui: V11.0.2.0.QJWEUXM
 - branch: stable
   date: '2020-04-07'
   downloads:
@@ -703,6 +703,28 @@
     android: '8.1'
     miui: 9.3.28
 - branch: stable
+  date: '2020-04-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_eea_global-stable/fw-vendor_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_eea_global-stable/fw-vendor_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip/download
+  filename: fw-vendor_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
+  region: Europe
+  size: 1.2 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJZEUXM
+- branch: stable
+  date: '2020-04-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip/download
+  filename: fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip
+  region: Russia
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJZRUXM
+- branch: stable
   date: '2020-02-21'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip
@@ -1011,16 +1033,16 @@
     android: '9.0'
     miui: V11.0.5.0.PFLMIXM
 - branch: stable
-  date: '2020-01-17'
+  date: '2020-04-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip/download
-  filename: fw-vendor_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.4.0.PFLCNXM_474e34ca08_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.4.0.PFLCNXM_474e34ca08_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITE_V11.0.4.0.PFLCNXM_474e34ca08_9.0.zip
   region: China
-  size: 290.8 MB
+  size: 291.4 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PFLCNXM
+    miui: V11.0.4.0.PFLCNXM
 - branch: stable
   date: '2020-03-23'
   downloads:
