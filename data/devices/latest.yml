@@ -849,6 +849,16 @@
     android: '9.0'
     miui: 20.4.27
 - branch: stable
+  date: '2020-04-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_joyeuse/releases/download/stable-30.04.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJZEUXM
+- branch: stable
   date: '2019-01-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/stable-24.01.2019/fw_kate_miui_HMNote3ProtwGlobal_V10.2.1.0.MHRMIXM_ffb51fb6dc_6.0.zip
