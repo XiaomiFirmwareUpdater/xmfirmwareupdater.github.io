@@ -359,15 +359,15 @@
     android: '10.0'
     miui: V11.0.17.0.QJACNXM
 - branch: weekly
-  date: '2020-04-27'
+  date: '2020-05-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-27.04.2020/fw_cmi_miui_CMI_20.4.27_b415ab6c37_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/cmi/fw_cmi_miui_CMI_20.4.27_b415ab6c37_10.0.zip
-  filename: fw_cmi_miui_CMI_20.4.27_b415ab6c37_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-01.05.2020/fw_cmi_miui_CMI_20.4.30_fa276fb9d5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/cmi/fw_cmi_miui_CMI_20.4.30_fa276fb9d5_10.0.zip
+  filename: fw_cmi_miui_CMI_20.4.30_fa276fb9d5_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.4.27
+    miui: 20.4.30
 - branch: stable
   date: '2020-04-10'
   downloads:
@@ -389,15 +389,15 @@
     android: '9.0'
     miui: V11.0.3.0.PFXCNXM
 - branch: weekly
-  date: '2020-04-27'
+  date: '2020-05-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-27.04.2020/fw_crux_miui_CRUX_20.4.27_301d2c2aef_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/crux/fw_crux_miui_CRUX_20.4.27_301d2c2aef_10.0.zip
-  filename: fw_crux_miui_CRUX_20.4.27_301d2c2aef_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-01.05.2020/fw_crux_miui_CRUX_20.4.30_c971341013_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/crux/fw_crux_miui_CRUX_20.4.30_c971341013_10.0.zip
+  filename: fw_crux_miui_CRUX_20.4.30_c971341013_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.4.27
+    miui: 20.4.30
 - branch: stable
   date: '2020-04-30'
   downloads:
@@ -449,15 +449,15 @@
     android: '10.0'
     miui: V11.0.6.0.QFJCNXM
 - branch: weekly
-  date: '2020-04-27'
+  date: '2020-05-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-27.04.2020/fw_davinci_miui_DAVINCI_20.4.27_ad457695ab_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/davinci/fw_davinci_miui_DAVINCI_20.4.27_ad457695ab_10.0.zip
-  filename: fw_davinci_miui_DAVINCI_20.4.27_ad457695ab_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-01.05.2020/fw_davinci_miui_DAVINCI_20.4.30_3e4538d35b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/davinci/fw_davinci_miui_DAVINCI_20.4.30_3e4538d35b_10.0.zip
+  filename: fw_davinci_miui_DAVINCI_20.4.30_3e4538d35b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.4.27
+    miui: 20.4.30
 - branch: stable
   date: '2020-04-23'
   downloads:
@@ -549,15 +549,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-04-27'
+  date: '2020-05-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-27.04.2020/fw_equuleus_miui_MI8UD_20.4.27_a7821ab655_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/equuleus/fw_equuleus_miui_MI8UD_20.4.27_a7821ab655_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.4.27_a7821ab655_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-01.05.2020/fw_equuleus_miui_MI8UD_20.4.30_fbe520da99_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/equuleus/fw_equuleus_miui_MI8UD_20.4.30_fbe520da99_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_20.4.30_fbe520da99_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.4.27
+    miui: 20.4.30
 - branch: stable
   date: '2020-04-17'
   downloads:
@@ -669,15 +669,15 @@
     android: '10.0'
     miui: V11.0.2.0.QFBCNXM
 - branch: weekly
-  date: '2020-04-27'
+  date: '2020-05-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-27.04.2020/fw_grus_miui_GRUS_20.4.27_ab6a1191ff_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/grus/fw_grus_miui_GRUS_20.4.27_ab6a1191ff_10.0.zip
-  filename: fw_grus_miui_GRUS_20.4.27_ab6a1191ff_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-01.05.2020/fw_grus_miui_GRUS_20.4.30_0050fb930a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/grus/fw_grus_miui_GRUS_20.4.30_0050fb930a_10.0.zip
+  filename: fw_grus_miui_GRUS_20.4.30_0050fb930a_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.4.27
+    miui: 20.4.30
 - branch: stable
   date: '2020-03-25'
   downloads:
@@ -839,15 +839,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-04-27'
+  date: '2020-05-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-27.04.2020/fw_jason_miui_MINote3_20.4.27_850c3bed1a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/jason/fw_jason_miui_MINote3_20.4.27_850c3bed1a_9.0.zip
-  filename: fw_jason_miui_MINote3_20.4.27_850c3bed1a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-01.05.2020/fw_jason_miui_MINote3_20.4.30_98d04680d3_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/jason/fw_jason_miui_MINote3_20.4.30_98d04680d3_9.0.zip
+  filename: fw_jason_miui_MINote3_20.4.30_98d04680d3_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 20.4.27
+    miui: 20.4.30
 - branch: stable
   date: '2020-04-30'
   downloads:
@@ -2249,15 +2249,15 @@
     android: '10.0'
     miui: V11.0.24.0.QJBCNXM
 - branch: weekly
-  date: '2020-04-27'
+  date: '2020-05-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-27.04.2020/fw_umi_miui_UMI_20.4.27_bceaa2c9de_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/umi/fw_umi_miui_UMI_20.4.27_bceaa2c9de_10.0.zip
-  filename: fw_umi_miui_UMI_20.4.27_bceaa2c9de_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-01.05.2020/fw_umi_miui_UMI_20.4.30_b6eda37630_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/umi/fw_umi_miui_UMI_20.4.30_b6eda37630_10.0.zip
+  filename: fw_umi_miui_UMI_20.4.30_b6eda37630_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.4.27
+    miui: 20.4.30
 - branch: stable
   date: '2020-04-10'
   downloads:

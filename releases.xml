@@ -1,11 +1,46 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 01 May 2020 19:18:01 +0900</pubDate>
+  <pubDate>Fri, 01 May 2020 22:19:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 Pro (cmi) - 20.4.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 01 May 2020 22:19:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - 20.4.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 01 May 2020 22:19:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - 20.4.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Fri, 01 May 2020 22:18:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - 20.4.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 01 May 2020 22:18:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Pro (equuleus) - 20.4.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
+    <pubDate>Fri, 01 May 2020 22:17:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 20.4.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 01 May 2020 22:17:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Note 3 (jason) - 20.4.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
+    <pubDate>Fri, 01 May 2020 22:16:58 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.3.0.PFLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -70,41 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 20.4.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Fri, 01 May 2020 00:35:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 01 May 2020 00:34:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6 (sagit) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Fri, 01 May 2020 00:34:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Explorer (ursa) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Fri, 01 May 2020 00:34:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 (dipper) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
-    <pubDate>Fri, 01 May 2020 00:33:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 01 May 2020 00:33:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 01 May 2020 00:33:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2 (chiron) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
-    <pubDate>Fri, 01 May 2020 00:32:45 +0900</pubDate>
   </item>
     </channel>
 </rss>
