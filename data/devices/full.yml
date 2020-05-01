@@ -27408,6 +27408,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QGHINXM
+- branch: stable
+  date: '2020-05-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-01.05.2020/fw_picasso_miui_PICASSO_V11.1.23.0.QGICNXM_136c15dbd7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.23.0.QGICNXM_136c15dbd7_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.1.23.0.QGICNXM_136c15dbd7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.1.23.0.QGICNXM
 - branch: weekly
   date: '2020-04-30'
   downloads:
