@@ -10189,6 +10189,16 @@
     android: '8.1'
     miui: 8.10.18
 - branch: stable
+  date: '2020-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-06.05.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.2.0.QJXINXM_bf0e807a47_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.2.0.QJXINXM_bf0e807a47_10.0.zip
+  filename: fw_excalibur_miui_EXCALIBURINGlobal_V11.0.2.0.QJXINXM_bf0e807a47_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJXINXM
+- branch: stable
   date: '2020-04-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-17.04.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip
@@ -11238,6 +11248,26 @@
   versions:
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
+- branch: stable
+  date: '2020-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-06.05.2020/fw_grus_miui_GRUSEEAGlobal_V11.0.5.0.QFBEUXM_fc63e85941_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUSEEAGlobal_V11.0.5.0.QFBEUXM_fc63e85941_10.0.zip
+  filename: fw_grus_miui_GRUSEEAGlobal_V11.0.5.0.QFBEUXM_fc63e85941_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QFBEUXM
+- branch: stable
+  date: '2020-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-06.05.2020/fw_grus_miui_GRUSGlobal_V11.0.3.0.QFBMIXM_630056affc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUSGlobal_V11.0.3.0.QFBMIXM_630056affc_10.0.zip
+  filename: fw_grus_miui_GRUSGlobal_V11.0.3.0.QFBMIXM_630056affc_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFBMIXM
 - branch: weekly
   date: '2020-05-01'
   downloads:
@@ -24349,6 +24379,16 @@
     android: '9.0'
     miui: V11.0.4.0.PCQINXM
 - branch: stable
+  date: '2020-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-06.05.2020/fw_onc_miui_ONCLITE_V11.0.4.0.PFLCNXM_474e34ca08_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITE_V11.0.4.0.PFLCNXM_474e34ca08_9.0.zip
+  filename: fw_onc_miui_ONCLITE_V11.0.4.0.PFLCNXM_474e34ca08_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PFLCNXM
+- branch: stable
   date: '2020-05-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-01.05.2020/fw_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip
@@ -30928,6 +30968,26 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-06.05.2020/fw_pyxis_miui_PYXISEEAGlobal_V11.0.2.0.QFCEUXM_6779692a34_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISEEAGlobal_V11.0.2.0.QFCEUXM_6779692a34_10.0.zip
+  filename: fw_pyxis_miui_PYXISEEAGlobal_V11.0.2.0.QFCEUXM_6779692a34_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QFCEUXM
+- branch: stable
+  date: '2020-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-06.05.2020/fw_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip
+  filename: fw_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QFCMIXM
 - branch: weekly
   date: '2020-04-30'
   downloads:

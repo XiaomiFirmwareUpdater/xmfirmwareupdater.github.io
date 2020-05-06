@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 02 May 2020 01:05:48 +0900</pubDate>
+  <pubDate>Wed, 06 May 2020 23:28:58 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.0.2.0.QFCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Wed, 06 May 2020 23:28:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.0.2.0.QFCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Wed, 06 May 2020 23:25:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.4.0.PFLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Wed, 06 May 2020 23:24:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - V11.0.3.0.QFBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Wed, 06 May 2020 23:23:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - V11.0.5.0.QFBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Wed, 06 May 2020 23:00:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro Max (excalibur) - V11.0.2.0.QJXINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/excalibur</link>
+    <pubDate>Wed, 06 May 2020 22:56:44 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 5G (picasso) - V11.1.23.0.QGICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
@@ -75,36 +105,6 @@
     <title>Mi 8 Lite (platina) - 20.4.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
     <pubDate>Fri, 01 May 2020 00:37:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 01 May 2020 00:37:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 01 May 2020 00:37:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5/Note 5 Pro (whyred) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Fri, 01 May 2020 00:36:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 01 May 2020 00:36:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Fri, 01 May 2020 00:36:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 SE (sirius) - 20.4.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
-    <pubDate>Fri, 01 May 2020 00:35:40 +0900</pubDate>
   </item>
     </channel>
 </rss>
