@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-03-17'
+  date: '2020-05-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip
   region: Global
-  size: 769.4 MB
+  size: 762.7 MB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QFCMIXM
+    miui: V11.0.2.0.QFCMIXM
 - branch: stable
   date: '2020-04-26'
   downloads:
@@ -21,24 +21,24 @@
     android: '10.0'
     miui: V11.0.3.0.QFCCNXM
 - branch: stable
-  date: '2020-03-19'
+  date: '2020-05-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.1.0.QFCEUXM_ff6e40b4b4_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.2.0.QFCEUXM_6779692a34_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.2.0.QFCEUXM_6779692a34_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.2.0.QFCEUXM_6779692a34_10.0.zip
   region: Europe
-  size: 769.4 MB
+  size: 762.7 MB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QFCEUXM
+    miui: V11.0.2.0.QFCEUXM
 - branch: stable
-  date: '2020-03-17'
+  date: '2020-05-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_ru_global-stable/fw-vendor_pyxis_miui_PYXISRUGlobal_V11.0.1.0.QFCRUXM_a8e12d669d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_ru_global-stable/fw-vendor_pyxis_miui_PYXISRUGlobal_V11.0.1.0.QFCRUXM_a8e12d669d_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISRUGlobal_V11.0.1.0.QFCRUXM_a8e12d669d_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_ru_global-stable/fw-vendor_pyxis_miui_PYXISRUGlobal_V11.0.2.0.QFCRUXM_736774dab3_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_ru_global-stable/fw-vendor_pyxis_miui_PYXISRUGlobal_V11.0.2.0.QFCRUXM_736774dab3_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISRUGlobal_V11.0.2.0.QFCRUXM_736774dab3_10.0.zip
   region: Russia
-  size: 769.4 MB
+  size: 762.7 MB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QFCRUXM
+    miui: V11.0.2.0.QFCRUXM

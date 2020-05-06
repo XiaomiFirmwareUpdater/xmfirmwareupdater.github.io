@@ -43,6 +43,17 @@
     android: '10.0'
     miui: V11.0.2.0.QFBRUXM
 - branch: stable
+  date: '2020-05-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.3.0.QFBRUXM_421bf0a226_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.3.0.QFBRUXM_421bf0a226_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSRUGlobal_V11.0.3.0.QFBRUXM_421bf0a226_10.0.zip
+  region: Russia
+  size: 708.8 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFBRUXM
+- branch: stable
   date: '2019-09-27'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_eea_global-stable/fw-vendor_grus_miui_GRUSEEAGlobal_V10.3.9.0.PFBEUXM_f1b6a0764f_9.0.zip
@@ -86,6 +97,17 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QFBEUXM
+- branch: stable
+  date: '2020-05-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_eea_global-stable/fw-vendor_grus_miui_GRUSEEAGlobal_V11.0.5.0.QFBEUXM_fc63e85941_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_eea_global-stable/fw-vendor_grus_miui_GRUSEEAGlobal_V11.0.5.0.QFBEUXM_fc63e85941_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSEEAGlobal_V11.0.5.0.QFBEUXM_fc63e85941_10.0.zip
+  region: Europe
+  size: 708.9 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QFBEUXM
 - branch: weekly
   date: '2019-07-05'
   downloads:
@@ -240,6 +262,17 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QFBMIXM
+- branch: stable
+  date: '2020-05-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.3.0.QFBMIXM_630056affc_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_global-stable/fw-vendor_grus_miui_GRUSGlobal_V11.0.3.0.QFBMIXM_630056affc_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSGlobal_V11.0.3.0.QFBMIXM_630056affc_10.0.zip
+  region: Global
+  size: 708.8 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFBMIXM
 - branch: stable
   date: '2019-04-23'
   downloads:
