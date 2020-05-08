@@ -7049,6 +7049,16 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
+  date: '2020-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-08.05.2020/fw_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip
+  filename: fw_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.6.0.QJWINXM
+- branch: stable
   date: '2020-04-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-01.05.2020/fw_curtana_miui_CURTANAGlobal_V11.0.7.0.QJWMIXM_4d20de1fb0_10.0.zip
@@ -11258,6 +11268,16 @@
   versions:
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
+- branch: stable
+  date: '2020-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-08.05.2020/fw_grus_miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip
+  filename: fw_grus_miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFBCNXM
 - branch: stable
   date: '2020-05-06'
   downloads:
@@ -24388,6 +24408,16 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PCQINXM
+- branch: stable
+  date: '2020-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-08.05.2020/fw_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip
+  filename: fw_onc_miui_ONCLITE_V11.0.3.0.PFLCNXM_be53496fc6_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFLCNXM
 - branch: stable
   date: '2020-05-06'
   downloads:
