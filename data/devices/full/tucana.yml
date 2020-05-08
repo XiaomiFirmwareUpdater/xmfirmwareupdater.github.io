@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-08.05.2020/fw_tucana_miui_TUCANA_20.5.7_1f3284af14_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/tucana/fw_tucana_miui_TUCANA_20.5.7_1f3284af14_10.0.zip
+  filename: fw_tucana_miui_TUCANA_20.5.7_1f3284af14_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.7
 - branch: stable
   date: '2020-05-07'
   downloads:
