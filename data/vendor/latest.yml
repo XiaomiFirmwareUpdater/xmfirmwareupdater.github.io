@@ -373,16 +373,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJWEUXM
 - branch: stable
-  date: '2020-04-07'
+  date: '2020-05-08'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip/download
-  filename: fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.5.0.QJWINXM_f467c85a0e_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip/download
+  filename: fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip
   region: India
   size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QJWINXM
+    miui: V11.0.6.0.QJWINXM
 - branch: stable
   date: '2020-05-06'
   downloads:
@@ -615,16 +615,16 @@
     android: '10.0'
     miui: V11.0.3.0.QFBMIXM
 - branch: stable
-  date: '2020-03-10'
+  date: '2020-05-08'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.2.0.QFBCNXM_40ad667ea3_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.2.0.QFBCNXM_40ad667ea3_10.0.zip/download
-  filename: fw-vendor_grus_miui_GRUS_V11.0.2.0.QFBCNXM_40ad667ea3_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip
   region: China
-  size: 748.2 MB
+  size: 743.5 MB
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFBCNXM
+    miui: V11.0.3.0.QFBCNXM
 - branch: weekly
   date: '2019-09-07'
   downloads:
