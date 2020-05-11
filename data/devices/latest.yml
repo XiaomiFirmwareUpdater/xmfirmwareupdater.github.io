@@ -1169,6 +1169,16 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
+  date: '2020-05-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-11.05.2020/fw_merlin_miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/merlin/fw_merlin_miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip
+  filename: fw_merlin_miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJOEUXM
+- branch: stable
   date: '2019-11-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_mido/releases/download/stable-15.11.2019/fw_mido_miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip
@@ -2308,6 +2318,16 @@
   versions:
     android: '10.0'
     miui: 20.5.7
+- branch: stable
+  date: '2020-05-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-11.05.2020/fw_vangogh_miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vangogh/fw_vangogh_miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip
+  filename: fw_vangogh_miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.6.0.QJVCNXM
 - branch: stable
   date: '2020-04-26'
   downloads:
