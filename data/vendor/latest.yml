@@ -835,6 +835,17 @@
     android: '10.0'
     miui: V11.0.16.0.QJKCNXM
 - branch: stable
+  date: '2020-05-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi_eea_global-stable/fw-vendor_lmi_miui_LMIEEAGlobal_V11.0.6.0.QJKEUXM_c20779f7ec_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi_eea_global-stable/fw-vendor_lmi_miui_LMIEEAGlobal_V11.0.6.0.QJKEUXM_c20779f7ec_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMIEEAGlobal_V11.0.6.0.QJKEUXM_c20779f7ec_10.0.zip
+  region: Europe
+  size: 1.5 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.6.0.QJKEUXM
+- branch: stable
   date: '2020-05-11'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_eea_global-stable/fw-vendor_merlin_miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip
@@ -1737,16 +1748,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-03-12'
+  date: '2020-05-12'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V11.0.8.0.PFHINXM_957aa9b840_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V11.0.8.0.PFHINXM_957aa9b840_9.0.zip/download
-  filename: fw-vendor_violet_miui_VIOLETINGlobal_V11.0.8.0.PFHINXM_957aa9b840_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V11.0.9.0.PFHINXM_29e11cc884_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V11.0.9.0.PFHINXM_29e11cc884_9.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLETINGlobal_V11.0.9.0.PFHINXM_29e11cc884_9.0.zip
   region: India
-  size: 440.7 MB
+  size: 441.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.8.0.PFHINXM
+    miui: V11.0.9.0.PFHINXM
 - branch: stable
   date: '2020-03-03'
   downloads:
