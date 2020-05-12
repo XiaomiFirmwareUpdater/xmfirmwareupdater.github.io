@@ -1,7 +1,7 @@
 ---
-title: POCOPHONE X2 (phoenixin) Firmware Downloads
+title: POCO X2 (phoenixin) Firmware Downloads
 layout: download
-name: POCOPHONE X2
+name: POCO X2
 codename: phoenixin
 permalink: /firmware/phoenixin/
 ---

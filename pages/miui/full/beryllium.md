@@ -1,7 +1,7 @@
 ---
-title: POCOPHONE F1 (beryllium) MIUI Downloads
+title: POCO F1 (beryllium) MIUI Downloads
 layout: download
-name: POCOPHONE F1
+name: POCO F1
 codename: beryllium
 permalink: /archive/miui/beryllium/
 ---

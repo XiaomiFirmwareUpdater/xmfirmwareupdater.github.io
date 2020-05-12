@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 11 May 2020 21:25:02 +0900</pubDate>
+  <pubDate>Tue, 12 May 2020 21:41:44 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V11.0.2.0.QJBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Tue, 12 May 2020 21:41:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V11.0.6.0.QJKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Tue, 12 May 2020 21:40:32 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Lite Zoom (vangogh) - V11.0.6.0.QJVCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
@@ -95,16 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 20.5.7</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Fri, 08 May 2020 23:55:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - 20.5.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Fri, 08 May 2020 23:54:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - 20.5.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Fri, 08 May 2020 23:54:03 +0900</pubDate>
   </item>
     </channel>
 </rss>

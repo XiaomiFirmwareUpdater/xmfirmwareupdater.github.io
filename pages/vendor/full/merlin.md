@@ -1,13 +1,13 @@
 ---
-title: POCO X2 (phoenixin) Vendor Downloads
+title: Redmi Note 9 (merlin) Vendor Downloads
 layout: download
-name: POCO X2
-codename: phoenixin
-permalink: /vendor/phoenixin/
+name: Redmi Note 9
+codename: merlin
+permalink: /archive/vendor/merlin/
 ---
 
-### Latest Vendor flashable files
-##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/vendor/phoenixin/).
+### Vendor flashable files Archive
+##### This page shows all available downloads. If you're looking for the latest releases check [Here](/vendor/merlin/).
 
 *Note*: All files listed here are made by [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -29,6 +29,6 @@ permalink: /vendor/phoenixin/
                 <th data-ref="updated">Updated</th>
             </tr>
         </thead>
-        <script>loadVendorDownloads('phoenixin', 'latest')</script>
+        <script>loadVendorDownloads('merlin', 'full')</script>
     </table>
 </div>

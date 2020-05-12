@@ -549,16 +549,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-03-10'
+  date: '2020-05-11'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_ru_global-stable/fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.1.0.QECRUXM_f993b94108_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_ru_global-stable/fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.1.0.QECRUXM_f993b94108_10.0.zip/download
-  filename: fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.1.0.QECRUXM_f993b94108_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_ru_global-stable/fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.3.0.QECRUXM_7e66d5c027_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_ru_global-stable/fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.3.0.QECRUXM_7e66d5c027_10.0.zip/download
+  filename: fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.3.0.QECRUXM_7e66d5c027_10.0.zip
   region: Russia
-  size: 541.6 MB
+  size: 603.6 MB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QECRUXM
+    miui: V11.0.3.0.QECRUXM
 - branch: stable
   date: '2020-05-06'
   downloads:
@@ -834,6 +834,17 @@
   versions:
     android: '10.0'
     miui: V11.0.16.0.QJKCNXM
+- branch: stable
+  date: '2020-05-11'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_eea_global-stable/fw-vendor_merlin_miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_eea_global-stable/fw-vendor_merlin_miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip/download
+  filename: fw-vendor_merlin_miui_MERLINEEAGlobal_V11.0.2.0.QJOEUXM_c8807a26b1_10.0.zip
+  region: Europe
+  size: 862.6 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJOEUXM
 - branch: weekly
   date: '2019-04-05'
   downloads:
@@ -1209,16 +1220,16 @@
     android: '9.0'
     miui: V11.0.4.0.PCMINXM
 - branch: stable
-  date: '2020-02-27'
+  date: '2020-05-11'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.5.0.PCMRUXM_07aa46c769_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.5.0.PCMRUXM_07aa46c769_9.0.zip/download
-  filename: fw-vendor_pine_miui_PINERUGlobal_V11.0.5.0.PCMRUXM_07aa46c769_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.6.0.PCMRUXM_0fdf5242bc_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.6.0.PCMRUXM_0fdf5242bc_9.0.zip/download
+  filename: fw-vendor_pine_miui_PINERUGlobal_V11.0.6.0.PCMRUXM_0fdf5242bc_9.0.zip
   region: Russia
-  size: 209.0 MB
+  size: 210.5 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PCMRUXM
+    miui: V11.0.6.0.PCMRUXM
 - branch: stable
   date: '2020-03-20'
   downloads:
@@ -1572,16 +1583,16 @@
     android: '10.0'
     miui: V11.1.1.0.QFDMIXM
 - branch: stable
-  date: '2020-04-30'
+  date: '2020-05-11'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
   region: China
-  size: 988.6 MB
+  size: 986.2 MB
   versions:
     android: '10.0'
-    miui: V11.1.1.0.QFDCNXM
+    miui: V11.1.2.0.QFDCNXM
 - branch: stable
   date: '2020-04-21'
   downloads:
@@ -1615,6 +1626,17 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PEKMIXM
+- branch: stable
+  date: '2020-05-11'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip
+  region: Global
+  size: 1.4 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJBMIXM
 - branch: stable
   date: '2020-04-27'
   downloads:
@@ -1659,6 +1681,17 @@
   versions:
     android: '9.0'
     miui: 9.9.3
+- branch: stable
+  date: '2020-05-11'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip/download
+  filename: fw-vendor_vangogh_miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip
+  region: China
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.6.0.QJVCNXM
 - branch: stable
   date: '2020-04-26'
   downloads:

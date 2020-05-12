@@ -1,7 +1,7 @@
 ---
-title: Redmi K30 Pro (lmi) Vendor Downloads
+title: Redmi K30 Pro/POCO F2 Pro (lmi) Vendor Downloads
 layout: download
-name: Redmi K30 Pro
+name: Redmi K30 Pro/POCO F2 Pro
 codename: lmi
 permalink: /archive/vendor/lmi/
 ---

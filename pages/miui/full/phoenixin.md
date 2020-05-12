@@ -1,7 +1,7 @@
 ---
-title: POCOPHONE X2 (phoenixin) MIUI Downloads
+title: POCO X2 (phoenixin) MIUI Downloads
 layout: download
-name: POCOPHONE X2
+name: POCO X2
 codename: phoenixin
 permalink: /archive/miui/phoenixin/
 ---

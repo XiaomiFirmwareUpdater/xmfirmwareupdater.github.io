@@ -1,13 +1,13 @@
 ---
-title: POCO X2 (phoenixin) Vendor Downloads
+title: Mi 10 Lite Zoom (vangogh) Vendor Downloads
 layout: download
-name: POCO X2
-codename: phoenixin
-permalink: /vendor/phoenixin/
+name: Mi 10 Lite Zoom
+codename: vangogh
+permalink: /vendor/vangogh/
 ---
 
 ### Latest Vendor flashable files
-##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/vendor/phoenixin/).
+##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/vendor/vangogh/).
 
 *Note*: All files listed here are made by [mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -29,6 +29,6 @@ permalink: /vendor/phoenixin/
                 <th data-ref="updated">Updated</th>
             </tr>
         </thead>
-        <script>loadVendorDownloads('phoenixin', 'latest')</script>
+        <script>loadVendorDownloads('vangogh', 'latest')</script>
     </table>
 </div>

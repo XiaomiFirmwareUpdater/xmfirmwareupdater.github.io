@@ -1,7 +1,7 @@
 ---
-title: POCOPHONE X2 (phoenixin) Vendor Downloads
+title: POCO X2 (phoenixin) Vendor Downloads
 layout: download
-name: POCOPHONE X2
+name: POCO X2
 codename: phoenixin
 permalink: /archive/vendor/phoenixin/
 ---

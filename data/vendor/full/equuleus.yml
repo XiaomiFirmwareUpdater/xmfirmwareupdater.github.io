@@ -21,6 +21,17 @@
     android: '10.0'
     miui: V11.0.1.0.QECRUXM
 - branch: stable
+  date: '2020-05-11'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_ru_global-stable/fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.3.0.QECRUXM_7e66d5c027_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_ru_global-stable/fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.3.0.QECRUXM_7e66d5c027_10.0.zip/download
+  filename: fw-vendor_equuleus_miui_MI8ProRUGlobal_V11.0.3.0.QECRUXM_7e66d5c027_10.0.zip
+  region: Russia
+  size: 603.6 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QECRUXM
+- branch: stable
   date: '2019-06-21'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus-stable/fw-vendor_equuleus_V10.2.1.0.PECCNFK.zip
