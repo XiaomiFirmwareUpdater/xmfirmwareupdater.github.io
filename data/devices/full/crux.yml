@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-14.05.2020/fw_crux_miui_CRUX_20.5.14_f5900c1bc0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/crux/fw_crux_miui_CRUX_20.5.14_f5900c1bc0_10.0.zip
+  filename: fw_crux_miui_CRUX_20.5.14_f5900c1bc0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
+- branch: weekly
   date: '2020-05-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-08.05.2020/fw_crux_miui_CRUX_20.5.7_1012636e0a_10.0.zip
