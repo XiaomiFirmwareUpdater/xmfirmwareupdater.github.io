@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 12 May 2020 21:41:44 +0900</pubDate>
+  <pubDate>Thu, 14 May 2020 22:46:55 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 5G (picasso) - V11.1.25.0.QGICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Thu, 14 May 2020 22:46:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.9.0.PFFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Thu, 14 May 2020 22:45:54 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V11.0.2.0.QJBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 8 Pro (begonia) - 20.5.7</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
     <pubDate>Fri, 08 May 2020 23:55:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.5.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 08 May 2020 23:55:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.5.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 08 May 2020 23:55:08 +0900</pubDate>
   </item>
     </channel>
 </rss>
