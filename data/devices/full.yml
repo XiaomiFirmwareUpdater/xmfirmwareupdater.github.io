@@ -809,6 +809,16 @@
     android: '9.0'
     miui: V10.4.3.0.PGGINXM
 - branch: stable
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-15.05.2020/fw_beryllium_miui_POCOF1Global_V11.0.8.0.QEJMIXM_146861c001_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/beryllium/fw_beryllium_miui_POCOF1Global_V11.0.8.0.QEJMIXM_146861c001_10.0.zip
+  filename: fw_beryllium_miui_POCOF1Global_V11.0.8.0.QEJMIXM_146861c001_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.8.0.QEJMIXM
+- branch: stable
   date: '2020-03-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-20.03.2020/fw_beryllium_miui_POCOF1Global_V11.0.6.0.QEJMIXM_e45c83a2db_10.0.zip
@@ -22868,6 +22878,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-15.05.2020/fw_nitrogen_miui_MIMAX3_V11.0.4.0.QEDCNXM_b94849c58a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/nitrogen/fw_nitrogen_miui_MIMAX3_V11.0.4.0.QEDCNXM_b94849c58a_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_V11.0.4.0.QEDCNXM_b94849c58a_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QEDCNXM
 - branch: weekly
   date: '2020-05-14'
   downloads:
@@ -37309,6 +37329,16 @@
     android: '8.0'
     miui: 8.4.26
 - branch: stable
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-15.05.2020/fw_sakura-india_miui_HM6ProINGlobal_V11.0.7.0.PDMMIXM_245cc0a57f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura-india_miui_HM6ProINGlobal_V11.0.7.0.PDMMIXM_245cc0a57f_9.0.zip
+  filename: fw_sakura-india_miui_HM6ProINGlobal_V11.0.7.0.PDMMIXM_245cc0a57f_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.7.0.PDMMIXM
+- branch: stable
   date: '2020-03-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-23.03.2020/fw_sakura_miui_HM6Pro_V11.0.5.0.PDICNXM_da59c46ff1_9.0.zip
@@ -48538,6 +48568,16 @@
   versions:
     android: '9.0'
     miui: V10.2.5.0.PFHCNXM
+- branch: stable
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/stable-15.05.2020/fw_wayne_miui_MI6X_V11.0.6.0.PDCCNXM_f049df201b_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/wayne/fw_wayne_miui_MI6X_V11.0.6.0.PDCCNXM_f049df201b_9.0.zip
+  filename: fw_wayne_miui_MI6X_V11.0.6.0.PDCCNXM_f049df201b_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PDCCNXM
 - branch: weekly
   date: '2020-05-14'
   downloads:

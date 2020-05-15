@@ -1,11 +1,46 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 15 May 2020 21:54:30 +0900</pubDate>
+  <pubDate>Fri, 15 May 2020 22:35:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 6X (wayne) - V11.0.6.0.PDCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
+    <pubDate>Fri, 15 May 2020 22:35:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 6X (wayne) - V11.0.6.0.PDCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
+    <pubDate>Fri, 15 May 2020 22:35:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - V11.0.7.0.PDMMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura-india</link>
+    <pubDate>Fri, 15 May 2020 22:34:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - V11.0.7.0.PDMMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura-india</link>
+    <pubDate>Fri, 15 May 2020 22:34:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.4.0.QEDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 15 May 2020 22:33:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.4.0.QEDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Fri, 15 May 2020 22:33:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO F1 (beryllium) - V11.0.8.0.QEJMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/beryllium</link>
+    <pubDate>Fri, 15 May 2020 22:32:25 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.5.14</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
@@ -70,41 +105,6 @@
     <title>Mi CC 9 Meitu Edition (vela) - 20.5.14</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
     <pubDate>Fri, 15 May 2020 03:24:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Fri, 15 May 2020 03:24:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 15 May 2020 03:24:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 15 May 2020 03:24:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 SE (sirius) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
-    <pubDate>Fri, 15 May 2020 03:23:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Thu, 14 May 2020 23:54:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Thu, 14 May 2020 23:54:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6 (sagit) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Thu, 14 May 2020 23:53:41 +0900</pubDate>
   </item>
     </channel>
 </rss>
