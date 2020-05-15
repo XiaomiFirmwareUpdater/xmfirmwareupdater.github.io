@@ -612,6 +612,12 @@
   version: 20.4.27
 - android: '10.0'
   codename: violet
+  date: '2020-05-15'
+  download: https://bigota.d.miui.com/20.5.14/miui_VIOLET_20.5.14_57132ab172_10.0.zip
+  name: Redmi Note 7 Pro
+  version: 20.5.14
+- android: '10.0'
+  codename: violet
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_VIOLET_20.5.7_657b3a5873_10.0.zip
   name: Redmi Note 7 Pro
