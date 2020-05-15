@@ -3479,6 +3479,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-15.05.2020/fw_cepheus_miui_CEPHEUS_20.5.14_1a3473c8c2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/cepheus/fw_cepheus_miui_CEPHEUS_20.5.14_1a3473c8c2_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.5.14_1a3473c8c2_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
+- branch: weekly
   date: '2020-05-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-08.05.2020/fw_cepheus_miui_CEPHEUS_20.5.7_b315bee3a9_10.0.zip
@@ -6749,6 +6759,16 @@
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
 - branch: weekly
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-15.05.2020/fw_cmi_miui_CMI_20.5.14_25db53a65b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/cmi/fw_cmi_miui_CMI_20.5.14_25db53a65b_10.0.zip
+  filename: fw_cmi_miui_CMI_20.5.14_25db53a65b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
+- branch: weekly
   date: '2020-05-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-08.05.2020/fw_cmi_miui_CMI_20.5.7_fc0b456e4b_10.0.zip
@@ -7228,6 +7248,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJWINXM
+- branch: weekly
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-15.05.2020/fw_davinci_miui_DAVINCI_20.5.14_dbb7d25c61_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/davinci/fw_davinci_miui_DAVINCI_20.5.14_dbb7d25c61_10.0.zip
+  filename: fw_davinci_miui_DAVINCI_20.5.14_dbb7d25c61_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
 - branch: weekly
   date: '2020-05-08'
   downloads:
@@ -11398,6 +11428,16 @@
   versions:
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
+- branch: weekly
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-15.05.2020/fw_grus_miui_GRUS_20.5.14_91fd47f8ba_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/grus/fw_grus_miui_GRUS_20.5.14_91fd47f8ba_10.0.zip
+  filename: fw_grus_miui_GRUS_20.5.14_91fd47f8ba_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
 - branch: weekly
   date: '2020-05-08'
   downloads:
@@ -29319,6 +29359,16 @@
     android: '8.1'
     miui: 8.10.18
 - branch: weekly
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-15.05.2020/fw_polaris_miui_MIMIX2S_20.5.14_0c4b98f0b0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/polaris/fw_polaris_miui_MIMIX2S_20.5.14_0c4b98f0b0_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.5.14_0c4b98f0b0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
+- branch: weekly
   date: '2020-05-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-08.05.2020/fw_polaris_miui_MIMIX2S_20.5.7_d3bcdb1bd0_10.0.zip
@@ -31339,6 +31389,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-15.05.2020/fw_pyxis_miui_PYXIS_20.5.14_1c2be8f66f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/pyxis/fw_pyxis_miui_PYXIS_20.5.14_1c2be8f66f_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.5.14_1c2be8f66f_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
+- branch: weekly
   date: '2020-05-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-08.05.2020/fw_pyxis_miui_PYXIS_20.5.7_3324c10e52_10.0.zip
@@ -31768,6 +31828,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: weekly
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-15.05.2020/fw_raphael_miui_RAPHAEL_20.5.14_7a873b3030_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/raphael/fw_raphael_miui_RAPHAEL_20.5.14_7a873b3030_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.5.14_7a873b3030_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
 - branch: weekly
   date: '2020-05-08'
   downloads:
@@ -45678,6 +45748,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-15.05.2020/fw_umi_miui_UMI_20.5.14_cdb4567c54_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/umi/fw_umi_miui_UMI_20.5.14_cdb4567c54_10.0.zip
+  filename: fw_umi_miui_UMI_20.5.14_cdb4567c54_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
 - branch: stable
   date: '2020-05-12'
   downloads:
@@ -45888,6 +45968,16 @@
   versions:
     android: '10.0'
     miui: V11.0.5.0.QJBCNXM
+- branch: weekly
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-15.05.2020/fw_ursa_miui_MI8Explorer_20.5.14_9a8f8432c5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/ursa/fw_ursa_miui_MI8Explorer_20.5.14_9a8f8432c5_10.0.zip
+  filename: fw_ursa_miui_MI8Explorer_20.5.14_9a8f8432c5_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
 - branch: weekly
   date: '2020-05-08'
   downloads:
