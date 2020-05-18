@@ -1,4 +1,15 @@
 - branch: stable
+  date: '2020-05-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip
+  region: India
+  size: 1.4 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJBINXM
+- branch: stable
   date: '2020-05-11'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip
