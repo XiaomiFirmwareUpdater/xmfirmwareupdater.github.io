@@ -379,15 +379,15 @@
     android: '10.0'
     miui: V11.0.10.0.QJAEUXM
 - branch: stable
-  date: '2019-11-15'
+  date: '2020-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-15.11.2019/fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/crux/fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
-  filename: fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-18.05.2020/fw_crux_miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/crux/fw_crux_miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
+  filename: fw_crux_miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
   region: China
   versions:
-    android: '9.0'
-    miui: V11.0.3.0.PFXCNXM
+    android: '10.0'
+    miui: V11.0.6.0.QFXCNXM
 - branch: weekly
   date: '2020-05-14'
   downloads:
@@ -399,15 +399,15 @@
     android: '10.0'
     miui: 20.5.14
 - branch: stable
-  date: '2020-04-30'
+  date: '2020-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-01.05.2020/fw_curtana_miui_CURTANAGlobal_V11.0.7.0.QJWMIXM_4d20de1fb0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAGlobal_V11.0.7.0.QJWMIXM_4d20de1fb0_10.0.zip
-  filename: fw_curtana_miui_CURTANAGlobal_V11.0.7.0.QJWMIXM_4d20de1fb0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-18.05.2020/fw_curtana_miui_CURTANAGlobal_V11.0.8.0.QJWMIXM_28d7aa1aff_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAGlobal_V11.0.8.0.QJWMIXM_28d7aa1aff_10.0.zip
+  filename: fw_curtana_miui_CURTANAGlobal_V11.0.8.0.QJWMIXM_28d7aa1aff_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.7.0.QJWMIXM
+    miui: V11.0.8.0.QJWMIXM
 - branch: stable
   date: '2020-04-30'
   downloads:
@@ -489,15 +489,15 @@
     android: '10.0'
     miui: V11.0.4.0.QEAMIXM
 - branch: stable
-  date: '2020-04-24'
+  date: '2020-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-24.04.2020/fw_dipper_miui_MI8_V11.0.7.0.QEACNXM_b75c98cff0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/dipper/fw_dipper_miui_MI8_V11.0.7.0.QEACNXM_b75c98cff0_10.0.zip
-  filename: fw_dipper_miui_MI8_V11.0.7.0.QEACNXM_b75c98cff0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-18.05.2020/fw_dipper_miui_MI8_V11.0.8.0.QEACNXM_b6e3f68a98_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/dipper/fw_dipper_miui_MI8_V11.0.8.0.QEACNXM_b6e3f68a98_10.0.zip
+  filename: fw_dipper_miui_MI8_V11.0.8.0.QEACNXM_b6e3f68a98_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.7.0.QEACNXM
+    miui: V11.0.8.0.QEACNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -979,15 +979,15 @@
     android: '9.0'
     miui: 20.3.26
 - branch: stable
-  date: '2020-02-13'
+  date: '2020-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-13.02.2020/fw_lavender_miui_LAVENDERGlobal_V11.0.5.0.PFGMIXM_dbe0179bf8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDERGlobal_V11.0.5.0.PFGMIXM_dbe0179bf8_9.0.zip
-  filename: fw_lavender_miui_LAVENDERGlobal_V11.0.5.0.PFGMIXM_dbe0179bf8_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-18.05.2020/fw_lavender_miui_LAVENDERGlobal_V11.0.6.0.PFGMIXM_48d41b4dee_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDERGlobal_V11.0.6.0.PFGMIXM_48d41b4dee_9.0.zip
+  filename: fw_lavender_miui_LAVENDERGlobal_V11.0.6.0.PFGMIXM_48d41b4dee_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PFGMIXM
+    miui: V11.0.6.0.PFGMIXM
 - branch: stable
   date: '2020-03-31'
   downloads:
@@ -1269,15 +1269,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-03-20'
+  date: '2020-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-20.03.2020/fw_nitrogen_miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/nitrogen/fw_nitrogen_miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip
-  filename: fw_nitrogen_miui_MIMAX3Global_V11.0.1.0.QEDMIXM_7b489a7719_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-18.05.2020/fw_nitrogen_miui_MIMAX3Global_V11.0.2.0.QEDMIXM_4eb86f33af_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/nitrogen/fw_nitrogen_miui_MIMAX3Global_V11.0.2.0.QEDMIXM_4eb86f33af_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3Global_V11.0.2.0.QEDMIXM_4eb86f33af_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QEDMIXM
+    miui: V11.0.2.0.QEDMIXM
 - branch: stable
   date: '2020-05-15'
   downloads:
@@ -1389,15 +1389,15 @@
     android: '9.0'
     miui: V11.0.8.0.PCPINXM
 - branch: stable
-  date: '2020-04-07'
+  date: '2020-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-07.04.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.6.0.PCQINXM_5c063425f3_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.6.0.PCQINXM_5c063425f3_9.0.zip
-  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.6.0.PCQINXM_5c063425f3_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-18.05.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.7.0.PCQINXM_facc7a4121_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.7.0.PCQINXM_facc7a4121_9.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.7.0.PCQINXM_facc7a4121_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.6.0.PCQINXM
+    miui: V11.0.7.0.PCQINXM
 - branch: stable
   date: '2020-03-26'
   downloads:
@@ -2429,15 +2429,15 @@
     android: '10.0'
     miui: 20.5.14
 - branch: stable
-  date: '2020-03-12'
+  date: '2020-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-12.03.2020/fw_violet_miui_VIOLETINGlobal_V11.0.8.0.PFHINXM_957aa9b840_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.8.0.PFHINXM_957aa9b840_9.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V11.0.8.0.PFHINXM_957aa9b840_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-18.05.2020/fw_violet_miui_VIOLETINGlobal_V11.0.9.0.PFHINXM_29e11cc884_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.9.0.PFHINXM_29e11cc884_9.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V11.0.9.0.PFHINXM_29e11cc884_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.8.0.PFHINXM
+    miui: V11.0.9.0.PFHINXM
 - branch: stable
   date: '2020-05-15'
   downloads:

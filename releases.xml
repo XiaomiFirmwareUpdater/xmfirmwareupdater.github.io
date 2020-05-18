@@ -1,11 +1,51 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 18 May 2020 01:05:51 +0900</pubDate>
+  <pubDate>Mon, 18 May 2020 21:48:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - V11.0.9.0.PFHINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Mon, 18 May 2020 21:48:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8A Dual (olivewood) - V11.0.7.0.PCQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivewood</link>
+    <pubDate>Mon, 18 May 2020 21:47:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.2.0.QEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Mon, 18 May 2020 21:46:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V11.0.2.0.QEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Mon, 18 May 2020 21:46:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - V11.0.6.0.PFGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Mon, 18 May 2020 21:45:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - V11.0.8.0.QEACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Mon, 18 May 2020 21:44:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V11.0.8.0.QJWMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Mon, 18 May 2020 21:43:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - V11.0.6.0.QFXCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Mon, 18 May 2020 21:42:58 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 7A (pine) - V11.0.5.0.PCMINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
@@ -65,46 +105,6 @@
     <title>Mi MIX 2S (polaris) - 20.5.14</title>
     <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
     <pubDate>Fri, 15 May 2020 21:54:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Fri, 15 May 2020 21:53:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Fri, 15 May 2020 21:53:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Fri, 15 May 2020 21:52:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 15 May 2020 21:52:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 15 May 2020 21:51:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Explorer (ursa) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Fri, 15 May 2020 21:51:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Fri, 15 May 2020 21:50:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - 20.5.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Fri, 15 May 2020 03:25:51 +0900</pubDate>
   </item>
     </channel>
 </rss>
