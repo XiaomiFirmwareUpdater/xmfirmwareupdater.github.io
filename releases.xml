@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 20 May 2020 07:05:50 +0900</pubDate>
+  <pubDate>Wed, 20 May 2020 19:06:25 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 Lite (platina) - V11.0.2.0.QDTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Wed, 20 May 2020 19:06:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 (perseus) - V11.0.4.0.QEEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Wed, 20 May 2020 19:05:25 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 Lite (platina) - V11.0.2.0.QDTMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
@@ -95,16 +105,6 @@
     <title>Mi 6X (wayne) - V11.0.6.0.PDCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
     <pubDate>Fri, 15 May 2020 22:35:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - V11.0.6.0.PDCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 15 May 2020 22:35:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 Pro (sakura) - V11.0.7.0.PDMMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura-india</link>
-    <pubDate>Fri, 15 May 2020 22:34:30 +0900</pubDate>
   </item>
     </channel>
 </rss>
