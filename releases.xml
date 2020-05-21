@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 22 May 2020 00:28:49 +0900</pubDate>
+  <pubDate>Fri, 22 May 2020 01:07:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro (tucana) - V11.1.1.0.QFDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Fri, 22 May 2020 01:07:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V11.0.19.0.QJKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Fri, 22 May 2020 01:06:01 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Note 3 (jason) - 20.5.21</title>
     <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
@@ -95,16 +105,6 @@
     <title>Redmi K30 4G (phoenix) - 20.5.21</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
     <pubDate>Thu, 21 May 2020 21:02:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2 (chiron) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
-    <pubDate>Thu, 21 May 2020 21:02:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 SE (sirius) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
-    <pubDate>Thu, 21 May 2020 21:01:41 +0900</pubDate>
   </item>
     </channel>
 </rss>
