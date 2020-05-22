@@ -1693,16 +1693,16 @@
     android: '10.0'
     miui: V11.0.24.0.QJBCNXM
 - branch: stable
-  date: '2020-05-07'
+  date: '2020-05-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.12.0.QJBEUXM_88a2514f92_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.12.0.QJBEUXM_88a2514f92_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMIEEAGlobal_V11.0.12.0.QJBEUXM_88a2514f92_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.13.0.QJBEUXM_0e125eeae0_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.13.0.QJBEUXM_0e125eeae0_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIEEAGlobal_V11.0.13.0.QJBEUXM_0e125eeae0_10.0.zip
   region: Europe
   size: 1.4 GB
   versions:
     android: '10.0'
-    miui: V11.0.12.0.QJBEUXM
+    miui: V11.0.13.0.QJBEUXM
 - branch: stable
   date: '2020-05-18'
   downloads:
