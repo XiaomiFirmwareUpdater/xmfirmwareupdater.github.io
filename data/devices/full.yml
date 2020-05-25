@@ -26858,6 +26858,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-05-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/stable-25.05.2020/fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QEECNXM
 - branch: weekly
   date: '2020-05-21'
   downloads:
