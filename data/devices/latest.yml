@@ -49,15 +49,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2020-03-27'
+  date: '2020-05-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-27.03.2020/fw_begonia_miui_BEGONIAGlobal_V11.0.1.0.QGGMIXM_44690b4daa_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIAGlobal_V11.0.1.0.QGGMIXM_44690b4daa_10.0.zip
-  filename: fw_begonia_miui_BEGONIAGlobal_V11.0.1.0.QGGMIXM_44690b4daa_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-25.05.2020/fw_begonia_miui_BEGONIAGlobal_V11.0.4.0.QGGMIXM_94d91b5c62_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIAGlobal_V11.0.4.0.QGGMIXM_94d91b5c62_10.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V11.0.4.0.QGGMIXM_94d91b5c62_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QGGMIXM
+    miui: V11.0.4.0.QGGMIXM
 - branch: stable
   date: '2020-01-08'
   downloads:
@@ -79,15 +79,15 @@
     android: '10.0'
     miui: 20.5.21
 - branch: stable
-  date: '2020-03-03'
+  date: '2020-05-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-03.03.2020/fw_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.QGGEUXM_a13b9653ba_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.QGGEUXM_a13b9653ba_10.0.zip
-  filename: fw_begonia_miui_BEGONIAEEAGlobal_V11.0.2.0.QGGEUXM_a13b9653ba_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-25.05.2020/fw_begonia_miui_BEGONIAEEAGlobal_V11.0.3.0.QGGEUXM_c0509355af_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V11.0.3.0.QGGEUXM_c0509355af_10.0.zip
+  filename: fw_begonia_miui_BEGONIAEEAGlobal_V11.0.3.0.QGGEUXM_c0509355af_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QGGEUXM
+    miui: V11.0.3.0.QGGEUXM
 - branch: stable
   date: '2020-01-07'
   downloads:
@@ -1319,15 +1319,15 @@
     android: '9.0'
     miui: V11.0.10.0.PCNMIXM
 - branch: stable
-  date: '2020-04-02'
+  date: '2020-05-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-02.04.2020/fw_olive_miui_OLIVE_V11.0.10.0.PCNCNXM_63d1000ad5_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVE_V11.0.10.0.PCNCNXM_63d1000ad5_9.0.zip
-  filename: fw_olive_miui_OLIVE_V11.0.10.0.PCNCNXM_63d1000ad5_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-25.05.2020/fw_olive_miui_OLIVE_V11.0.11.0.PCNCNXM_34af5a82a4_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVE_V11.0.11.0.PCNCNXM_34af5a82a4_9.0.zip
+  filename: fw_olive_miui_OLIVE_V11.0.11.0.PCNCNXM_34af5a82a4_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V11.0.10.0.PCNCNXM
+    miui: V11.0.11.0.PCNCNXM
 - branch: stable
   date: '2020-04-09'
   downloads:

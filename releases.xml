@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 25 May 2020 19:05:38 +0900</pubDate>
+  <pubDate>Tue, 26 May 2020 01:07:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8 (olive) - V11.0.11.0.PCNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
+    <pubDate>Tue, 26 May 2020 01:07:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V11.0.4.0.QGGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Tue, 26 May 2020 01:06:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V11.0.3.0.QGGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Tue, 26 May 2020 01:05:48 +0900</pubDate>
+  </item>
     <item>
     <title>Mi MIX 3 (perseus) - V11.0.3.0.QEECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
@@ -90,21 +105,6 @@
     <title>Mi MIX 2S (polaris) - 20.5.21</title>
     <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
     <pubDate>Thu, 21 May 2020 21:04:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Thu, 21 May 2020 21:04:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Thu, 21 May 2020 21:03:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Thu, 21 May 2020 21:03:29 +0900</pubDate>
   </item>
     </channel>
 </rss>
