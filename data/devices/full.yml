@@ -6828,6 +6828,16 @@
   versions:
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
+- branch: stable
+  date: '2020-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/stable-26.05.2020/fw_cmi_miui_CMI_V11.0.18.0.QJACNXM_ba9c7cce1b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cmi/fw_cmi_miui_CMI_V11.0.18.0.QJACNXM_ba9c7cce1b_10.0.zip
+  filename: fw_cmi_miui_CMI_V11.0.18.0.QJACNXM_ba9c7cce1b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.18.0.QJACNXM
 - branch: weekly
   date: '2020-05-21'
   downloads:
@@ -28099,6 +28109,16 @@
     android: '10.0'
     miui: V11.0.5.0.QGHCNXM
 - branch: stable
+  date: '2020-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenixin/releases/download/stable-26.05.2020/fw_phoenixin_miui_PHOENIXININGlobal_V11.0.10.0.QGHINXM_fc2056aad8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenixin/fw_phoenixin_miui_PHOENIXININGlobal_V11.0.10.0.QGHINXM_fc2056aad8_10.0.zip
+  filename: fw_phoenixin_miui_PHOENIXININGlobal_V11.0.10.0.QGHINXM_fc2056aad8_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.10.0.QGHINXM
+- branch: stable
   date: '2020-04-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenixin/releases/download/stable-10.04.2020/fw_phoenixin_miui_PHOENIXININGlobal_V11.0.7.0.QGHINXM_9c232b802a_10.0.zip
@@ -32228,6 +32248,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: stable
+  date: '2020-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-26.05.2020/fw_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/raphael/fw_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QFKCNXM
 - branch: weekly
   date: '2020-05-21'
   downloads:
@@ -43038,6 +43068,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: stable
+  date: '2020-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-26.05.2020/fw_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
+  filename: fw_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.1.2.0.QFDCNXM
 - branch: stable
   date: '2020-05-21'
   downloads:

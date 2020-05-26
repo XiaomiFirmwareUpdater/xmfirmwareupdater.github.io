@@ -1,11 +1,51 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 26 May 2020 01:07:19 +0900</pubDate>
+  <pubDate>Wed, 27 May 2020 06:26:08 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro (tucana) - V11.1.2.0.QFDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Wed, 27 May 2020 06:26:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.2.0.QFKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Wed, 27 May 2020 06:25:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO X2 (phoenixin) - V11.0.10.0.QGHINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenixin</link>
+    <pubDate>Wed, 27 May 2020 06:24:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.6.0.PFLINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Wed, 27 May 2020 06:22:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.5.0.PFLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Wed, 27 May 2020 06:21:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.6.0.PFLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Wed, 27 May 2020 06:21:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.4.0.PFLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Wed, 27 May 2020 06:20:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - V11.0.18.0.QJACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Wed, 27 May 2020 06:19:17 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8 (olive) - V11.0.11.0.PCNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
@@ -65,46 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 20.5.21</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Thu, 21 May 2020 21:08:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6 (sagit) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Thu, 21 May 2020 21:07:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Thu, 21 May 2020 21:07:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro (tucana) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Thu, 21 May 2020 21:06:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Thu, 21 May 2020 21:06:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Thu, 21 May 2020 21:05:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Thu, 21 May 2020 21:05:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Thu, 21 May 2020 21:04:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Thu, 21 May 2020 21:04:37 +0900</pubDate>
   </item>
     </channel>
 </rss>
