@@ -1,12 +1,12 @@
 ---
-title: Redmi 10X 4G/Redmi Note 9 (merlin) MIUI Downloads
+title: Redmi 10X Pro (bomb) MIUI Downloads
 layout: download
-name: Redmi 10X 4G/Redmi Note 9
-codename: merlin
-permalink: /archive/miui/merlin/
+name: Redmi 10X Pro
+codename: bomb
+permalink: /miui/bomb/
 ---
-### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for the latest releases check [Here](/miui/merlin/).
+### Latest MIUI Official ROMs
+##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/bomb/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,16 +21,15 @@ permalink: /archive/miui/merlin/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="link">Link</th>
+            <th data-ref="size">Size</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('merlin')</script>
+    <script>loadMiuiDownloads('bomb')</script>
 </table>
 </div>
 

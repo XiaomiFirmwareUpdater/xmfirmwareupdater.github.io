@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 9 (merlin) Vendor Downloads
+title: Redmi 10X 4G/Redmi Note 9 (merlin) Vendor Downloads
 layout: download
-name: Redmi Note 9
+name: Redmi 10X 4G/Redmi Note 9
 codename: merlin
 permalink: /archive/vendor/merlin/
 ---

@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 9 (merlin) MIUI Downloads
+title: Redmi 10X 4G/Redmi Note 9 (merlin) MIUI Downloads
 layout: download
-name: Redmi Note 9
+name: Redmi 10X 4G/Redmi Note 9
 codename: merlin
 permalink: /miui/merlin/
 ---

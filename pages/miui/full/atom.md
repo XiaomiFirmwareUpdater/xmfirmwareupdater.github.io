@@ -1,12 +1,12 @@
 ---
-title: Redmi 10X 4G/Redmi Note 9 (merlin) MIUI Downloads
+title: Redmi 10X 5G (atom) MIUI Downloads
 layout: download
-name: Redmi 10X 4G/Redmi Note 9
-codename: merlin
-permalink: /archive/miui/merlin/
+name: Redmi 10X 5G
+codename: atom
+permalink: /archive/miui/atom/
 ---
 ### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for the latest releases check [Here](/miui/merlin/).
+##### This page shows all available downloads. If you're looking for the latest releases check [Here](/miui/atom/).
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
 
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -30,7 +30,7 @@ permalink: /archive/miui/merlin/
                 <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('merlin')</script>
+    <script>loadMiuiArchive('atom')</script>
 </table>
 </div>
 

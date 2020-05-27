@@ -1,13 +1,13 @@
 ---
-title: Redmi 10X 4G/Redmi Note 9 (merlin) Firmware Downloads
+title: Redmi 10X 5G (atom) Firmware Downloads
 layout: download
-name: Redmi 10X 4G/Redmi Note 9
-codename: merlin
-permalink: /firmware/merlin/
+name: Redmi 10X 5G
+codename: atom
+permalink: /firmware/atom/
 ---
 
 <h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss"><span class="label">RSS</span></a></span></h3>
-##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/merlin/).
+##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/atom/).
 
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
     Follow <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">Xiaomi Firmware Updater</a> on Telegram to get notified when a new update is out!
@@ -28,6 +28,6 @@ permalink: /firmware/merlin/
             <th data-ref="updated">Updated</th>
         </tr>
     </thead>
-    <script>loadFirmwareDownloads('merlin', 'latest')</script>
+    <script>loadFirmwareDownloads('atom', 'latest')</script>
 </table>
 </div>

@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 27 May 2020 06:26:08 +0900</pubDate>
+  <pubDate>Wed, 27 May 2020 22:52:40 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V11.0.1.0.QJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Wed, 27 May 2020 22:52:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V11.0.2.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Wed, 27 May 2020 22:51:40 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro (tucana) - V11.1.2.0.QFDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -95,16 +105,6 @@
     <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.5.21</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
     <pubDate>Thu, 21 May 2020 21:08:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Thu, 21 May 2020 21:08:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Thu, 21 May 2020 21:08:05 +0900</pubDate>
   </item>
     </channel>
 </rss>

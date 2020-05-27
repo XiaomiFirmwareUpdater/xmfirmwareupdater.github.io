@@ -49,6 +49,16 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
+  date: '2020-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/stable-27.05.2020/fw_atom_miui_ATOM_V11.0.2.0.QJHCNXM_325eaff557_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/atom/fw_atom_miui_ATOM_V11.0.2.0.QJHCNXM_325eaff557_10.0.zip
+  filename: fw_atom_miui_ATOM_V11.0.2.0.QJHCNXM_325eaff557_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJHCNXM
+- branch: stable
   date: '2020-05-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-25.05.2020/fw_begonia_miui_BEGONIAGlobal_V11.0.4.0.QGGMIXM_94d91b5c62_10.0.zip
