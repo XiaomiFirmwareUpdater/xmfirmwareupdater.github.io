@@ -32,6 +32,17 @@
     android: '9.0'
     miui: V10.3.23.0.PEMEUXM
 - branch: stable
+  date: '2020-05-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/atom-stable/fw-vendor_atom_miui_ATOM_V11.0.2.0.QJHCNXM_325eaff557_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/atom-stable/fw-vendor_atom_miui_ATOM_V11.0.2.0.QJHCNXM_325eaff557_10.0.zip/download
+  filename: fw-vendor_atom_miui_ATOM_V11.0.2.0.QJHCNXM_325eaff557_10.0.zip
+  region: China
+  size: 639.8 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJHCNXM
+- branch: stable
   date: '2020-05-25'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.4.0.QGGMIXM_94d91b5c62_10.0.zip
@@ -119,6 +130,17 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QEJRUXM
+- branch: stable
+  date: '2020-05-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/bomb-stable/fw-vendor_bomb_miui_BOMB_V11.0.1.0.QJLCNXM_833c58c19a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/bomb-stable/fw-vendor_bomb_miui_BOMB_V11.0.1.0.QJLCNXM_833c58c19a_10.0.zip/download
+  filename: fw-vendor_bomb_miui_BOMB_V11.0.1.0.QJLCNXM_833c58c19a_10.0.zip
+  region: China
+  size: 642.5 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJLCNXM
 - branch: stable
   date: '2020-05-16'
   downloads:
@@ -395,16 +417,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJWEUXM
 - branch: stable
-  date: '2020-05-08'
+  date: '2020-05-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip/download
-  filename: fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.7.0.QJWINXM_517aa431ab_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_in_global-stable/fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.7.0.QJWINXM_517aa431ab_10.0.zip/download
+  filename: fw-vendor_curtana_miui_CURTANAINGlobal_V11.0.7.0.QJWINXM_517aa431ab_10.0.zip
   region: India
   size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QJWINXM
+    miui: V11.0.7.0.QJWINXM
 - branch: stable
   date: '2020-05-06'
   downloads:
@@ -747,16 +769,16 @@
     android: '10.0'
     miui: V11.0.1.0.QJZEUXM
 - branch: stable
-  date: '2020-04-30'
+  date: '2020-05-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip/download
-  filename: fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.2.0.QJZRUXM_46f8d51604_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.2.0.QJZRUXM_46f8d51604_10.0.zip/download
+  filename: fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.2.0.QJZRUXM_46f8d51604_10.0.zip
   region: Russia
-  size: 1.1 GB
+  size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QJZRUXM
+    miui: V11.0.2.0.QJZRUXM
 - branch: stable
   date: '2020-02-21'
   downloads:
@@ -1682,16 +1704,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJBMIXM
 - branch: stable
-  date: '2020-04-27'
+  date: '2020-05-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip
   region: China
   size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.24.0.QJBCNXM
+    miui: V11.0.25.0.QJBCNXM
 - branch: stable
   date: '2020-05-22'
   downloads:
