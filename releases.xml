@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 27 May 2020 22:52:40 +0900</pubDate>
+  <pubDate>Wed, 27 May 2020 23:10:50 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V11.0.25.0.QJBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Wed, 27 May 2020 23:10:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V11.0.7.0.QJWINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Wed, 27 May 2020 23:08:13 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X Pro (bomb) - V11.0.1.0.QJLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
@@ -95,16 +105,6 @@
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V11.0.19.0.QJKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
     <pubDate>Fri, 22 May 2020 01:06:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 3 (jason) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
-    <pubDate>Fri, 22 May 2020 00:28:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.5.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Thu, 21 May 2020 21:08:33 +0900</pubDate>
   </item>
     </channel>
 </rss>

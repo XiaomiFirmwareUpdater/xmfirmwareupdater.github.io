@@ -429,15 +429,15 @@
     android: '10.0'
     miui: V11.0.2.0.QJWEUXM
 - branch: stable
-  date: '2020-05-08'
+  date: '2020-05-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-08.05.2020/fw_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip
-  filename: fw_curtana_miui_CURTANAINGlobal_V11.0.6.0.QJWINXM_6e72d0304f_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-27.05.2020/fw_curtana_miui_CURTANAINGlobal_V11.0.7.0.QJWINXM_517aa431ab_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAINGlobal_V11.0.7.0.QJWINXM_517aa431ab_10.0.zip
+  filename: fw_curtana_miui_CURTANAINGlobal_V11.0.7.0.QJWINXM_517aa431ab_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QJWINXM
+    miui: V11.0.7.0.QJWINXM
 - branch: stable
   date: '2020-04-20'
   downloads:
@@ -2299,15 +2299,15 @@
     android: '10.0'
     miui: V11.0.2.0.QJBMIXM
 - branch: stable
-  date: '2020-04-27'
+  date: '2020-05-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-27.04.2020/fw_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/umi/fw_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
-  filename: fw_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-27.05.2020/fw_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/umi/fw_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip
+  filename: fw_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.24.0.QJBCNXM
+    miui: V11.0.25.0.QJBCNXM
 - branch: weekly
   date: '2020-05-21'
   downloads:
