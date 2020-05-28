@@ -41358,6 +41358,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2020-05-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/stable-28.05.2020/fw_sirius_miui_MI8SE_V11.0.3.0.QEBCNXM_fd6c55042a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sirius/fw_sirius_miui_MI8SE_V11.0.3.0.QEBCNXM_fd6c55042a_10.0.zip
+  filename: fw_sirius_miui_MI8SE_V11.0.3.0.QEBCNXM_fd6c55042a_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QEBCNXM
 - branch: weekly
   date: '2020-05-21'
   downloads:

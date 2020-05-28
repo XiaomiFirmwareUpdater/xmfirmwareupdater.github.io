@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 27 May 2020 23:10:50 +0900</pubDate>
+  <pubDate>Thu, 28 May 2020 19:05:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 SE (sirius) - V11.0.3.0.QEBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
+    <pubDate>Thu, 28 May 2020 19:05:46 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V11.0.25.0.QJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -100,11 +105,6 @@
     <title>Mi CC 9 Pro (tucana) - V11.1.1.0.QFDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Fri, 22 May 2020 01:07:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V11.0.19.0.QJKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 22 May 2020 01:06:01 +0900</pubDate>
   </item>
     </channel>
 </rss>
