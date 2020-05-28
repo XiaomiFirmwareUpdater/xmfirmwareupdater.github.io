@@ -43,13 +43,13 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-03-30'
+  date: '2020-05-28'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.1.0.QDTRUXM_11ad3a942e_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.1.0.QDTRUXM_11ad3a942e_10.0.zip/download
-  filename: fw-vendor_platina_miui_PLATINARUGlobal_V11.0.1.0.QDTRUXM_11ad3a942e_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.2.0.QDTRUXM_e0ca8e1010_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_ru_global-stable/fw-vendor_platina_miui_PLATINARUGlobal_V11.0.2.0.QDTRUXM_e0ca8e1010_10.0.zip/download
+  filename: fw-vendor_platina_miui_PLATINARUGlobal_V11.0.2.0.QDTRUXM_e0ca8e1010_10.0.zip
   region: Russia
-  size: 492.8 MB
+  size: 541.1 MB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QDTRUXM
+    miui: V11.0.2.0.QDTRUXM
