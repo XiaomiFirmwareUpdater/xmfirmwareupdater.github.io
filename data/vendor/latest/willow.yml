@@ -10,16 +10,16 @@
     android: '9.0'
     miui: V11.0.4.0.PCXMIXM
 - branch: stable
-  date: '2020-03-24'
+  date: '2020-05-29'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.7.0.PCXEUXM_bcf2efc09e_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.7.0.PCXEUXM_bcf2efc09e_9.0.zip/download
-  filename: fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.7.0.PCXEUXM_bcf2efc09e_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.9.0.PCXEUXM_9d774ae5d2_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.9.0.PCXEUXM_9d774ae5d2_9.0.zip/download
+  filename: fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.9.0.PCXEUXM_9d774ae5d2_9.0.zip
   region: Europe
-  size: 386.4 MB
+  size: 386.7 MB
   versions:
     android: '9.0'
-    miui: V11.0.7.0.PCXEUXM
+    miui: V11.0.9.0.PCXEUXM
 - branch: stable
   date: '2020-03-27'
   downloads:
