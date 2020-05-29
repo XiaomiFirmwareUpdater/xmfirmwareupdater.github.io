@@ -11368,6 +11368,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2020-05-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-29.05.2020/fw_ginkgo_miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip
+  filename: fw_ginkgo_miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PCOINXM
 - branch: weekly
   date: '2020-03-26'
   downloads:
@@ -52048,6 +52058,16 @@
   versions:
     android: '7.1'
     miui: V9.2.7.0.NEIMIEK
+- branch: stable
+  date: '2020-05-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-29.05.2020/fw_willow_miui_WILLOWGlobal_V11.0.4.0.PCXMIXM_83916e7361_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/willow/fw_willow_miui_WILLOWGlobal_V11.0.4.0.PCXMIXM_83916e7361_9.0.zip
+  filename: fw_willow_miui_WILLOWGlobal_V11.0.4.0.PCXMIXM_83916e7361_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCXMIXM
 - branch: stable
   date: '2020-03-26'
   downloads:

@@ -649,15 +649,15 @@
     android: '9.0'
     miui: 20.3.26
 - branch: stable
-  date: '2020-03-26'
+  date: '2020-05-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-26.03.2020/fw_ginkgo_miui_GINKGOINGlobal_V11.0.4.0.PCOINXM_f7ab0c6402_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V11.0.4.0.PCOINXM_f7ab0c6402_9.0.zip
-  filename: fw_ginkgo_miui_GINKGOINGlobal_V11.0.4.0.PCOINXM_f7ab0c6402_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-29.05.2020/fw_ginkgo_miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip
+  filename: fw_ginkgo_miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PCOINXM
+    miui: V11.0.5.0.PCOINXM
 - branch: stable
   date: '2020-05-06'
   downloads:
@@ -2549,15 +2549,15 @@
     android: '9.0'
     miui: 20.5.28
 - branch: stable
-  date: '2020-03-25'
+  date: '2020-05-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-25.03.2020/fw_willow_miui_WILLOWGlobal_V11.0.3.0.PCXMIXM_5f1d980a44_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/willow/fw_willow_miui_WILLOWGlobal_V11.0.3.0.PCXMIXM_5f1d980a44_9.0.zip
-  filename: fw_willow_miui_WILLOWGlobal_V11.0.3.0.PCXMIXM_5f1d980a44_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-29.05.2020/fw_willow_miui_WILLOWGlobal_V11.0.4.0.PCXMIXM_83916e7361_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/willow/fw_willow_miui_WILLOWGlobal_V11.0.4.0.PCXMIXM_83916e7361_9.0.zip
+  filename: fw_willow_miui_WILLOWGlobal_V11.0.4.0.PCXMIXM_83916e7361_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PCXMIXM
+    miui: V11.0.4.0.PCXMIXM
 - branch: stable
   date: '2020-03-26'
   downloads:

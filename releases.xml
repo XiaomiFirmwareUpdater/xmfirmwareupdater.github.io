@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 28 May 2020 23:27:38 +0900</pubDate>
+  <pubDate>Fri, 29 May 2020 19:41:29 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8T (willow) - V11.0.4.0.PCXMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
+    <pubDate>Fri, 29 May 2020 19:41:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V11.0.5.0.PCOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Fri, 29 May 2020 19:39:53 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.0.4.0.QFCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
@@ -95,16 +105,6 @@
     <title>Mi 8 SE (sirius) - 20.5.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
     <pubDate>Thu, 28 May 2020 22:20:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - 20.5.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Thu, 28 May 2020 22:19:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 20.5.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Thu, 28 May 2020 22:19:38 +0900</pubDate>
   </item>
     </channel>
 </rss>
