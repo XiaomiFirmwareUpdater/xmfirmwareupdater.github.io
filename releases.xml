@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 30 May 2020 07:05:34 +0900</pubDate>
+  <pubDate>Sat, 30 May 2020 19:19:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.3.0.QJOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Sat, 30 May 2020 19:19:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V11.0.3.0.QGGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Sat, 30 May 2020 19:17:35 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8T (willow) - V11.0.9.0.PCXEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - 20.5.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Thu, 28 May 2020 22:21:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - 20.5.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Thu, 28 May 2020 22:21:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 20.5.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Thu, 28 May 2020 22:20:41 +0900</pubDate>
   </item>
     </channel>
 </rss>
