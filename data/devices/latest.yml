@@ -1349,15 +1349,15 @@
     android: '10.0'
     miui: 20.5.28
 - branch: stable
-  date: '2020-03-28'
+  date: '2020-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-28.03.2020/fw_olive_miui_OLIVEGlobal_V11.0.10.0.PCNMIXM_3daae20692_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVEGlobal_V11.0.10.0.PCNMIXM_3daae20692_9.0.zip
-  filename: fw_olive_miui_OLIVEGlobal_V11.0.10.0.PCNMIXM_3daae20692_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-01.06.2020/fw_olive_miui_OLIVEGlobal_V11.0.11.0.PCNMIXM_4a0ca7fcbd_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVEGlobal_V11.0.11.0.PCNMIXM_4a0ca7fcbd_9.0.zip
+  filename: fw_olive_miui_OLIVEGlobal_V11.0.11.0.PCNMIXM_4a0ca7fcbd_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.10.0.PCNMIXM
+    miui: V11.0.11.0.PCNMIXM
 - branch: stable
   date: '2020-05-25'
   downloads:
@@ -1369,15 +1369,15 @@
     android: '9.0'
     miui: V11.0.11.0.PCNCNXM
 - branch: stable
-  date: '2020-04-09'
+  date: '2020-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-09.04.2020/fw_olive_miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip
-  filename: fw_olive_miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-01.06.2020/fw_olive_miui_OLIVEEEAGlobal_V11.0.7.0.PCNEUXM_305316f209_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVEEEAGlobal_V11.0.7.0.PCNEUXM_305316f209_9.0.zip
+  filename: fw_olive_miui_OLIVEEEAGlobal_V11.0.7.0.PCNEUXM_305316f209_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V11.0.6.0.PCNEUXM
+    miui: V11.0.7.0.PCNEUXM
 - branch: stable
   date: '2020-05-20'
   downloads:
