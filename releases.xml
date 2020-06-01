@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 01 Jun 2020 13:53:27 +0900</pubDate>
+  <pubDate>Mon, 01 Jun 2020 19:34:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Meitu Edition (vela) - V11.0.4.0.QFECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
+    <pubDate>Mon, 01 Jun 2020 19:34:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro (raphaelin) - V11.0.6.0.QFKINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
+    <pubDate>Mon, 01 Jun 2020 19:32:17 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V11.0.3.0.QJWEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
@@ -95,16 +105,6 @@
     <title>Mi MIX 3 (perseus) - 20.5.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
     <pubDate>Thu, 28 May 2020 22:22:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - 20.5.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Thu, 28 May 2020 22:22:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 20.5.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Thu, 28 May 2020 22:21:51 +0900</pubDate>
   </item>
     </channel>
 </rss>
