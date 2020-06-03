@@ -758,16 +758,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJZMIXM
 - branch: stable
-  date: '2020-04-30'
+  date: '2020-06-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_eea_global-stable/fw-vendor_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_eea_global-stable/fw-vendor_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip/download
-  filename: fw-vendor_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_eea_global-stable/fw-vendor_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.3.0.QJZEUXM_9b277e341a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_eea_global-stable/fw-vendor_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.3.0.QJZEUXM_9b277e341a_10.0.zip/download
+  filename: fw-vendor_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.3.0.QJZEUXM_9b277e341a_10.0.zip
   region: Europe
   size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QJZEUXM
+    miui: V11.0.3.0.QJZEUXM
 - branch: stable
   date: '2020-05-27'
   downloads:
@@ -934,6 +934,17 @@
     android: '10.0'
     miui: V11.0.3.0.QJOEUXM
 - branch: stable
+  date: '2020-06-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_global-stable/fw-vendor_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_global-stable/fw-vendor_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip/download
+  filename: fw-vendor_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip
+  region: India
+  size: 863.5 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJOMIXM
+- branch: stable
   date: '2020-06-02'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_ru_global-stable/fw-vendor_merlin_miui_MERLINRUGlobal_V11.0.2.0.QJORUXM_6c08d30bb1_10.0.zip
@@ -1077,16 +1088,16 @@
     android: '9.0'
     miui: V11.0.4.0.PCPIDXM
 - branch: stable
-  date: '2020-03-27'
+  date: '2020-06-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITE_V11.0.9.0.PCPCNXM_00d4ebbcad_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
   region: China
-  size: 367.0 MB
+  size: 369.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.9.0.PCPCNXM
+    miui: V11.0.10.0.PCPCNXM
 - branch: stable
   date: '2020-04-13'
   downloads:
@@ -1385,16 +1396,16 @@
     android: '10.0'
     miui: V11.0.2.0.QDTRUXM
 - branch: stable
-  date: '2020-03-31'
+  date: '2020-06-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip/download
-  filename: fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.5.0.QDGMIXM_42f0653956_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.5.0.QDGMIXM_42f0653956_10.0.zip/download
+  filename: fw-vendor_polaris_miui_MIMIX2SGlobal_V11.0.5.0.QDGMIXM_42f0653956_10.0.zip
   region: Global
-  size: 572.4 MB
+  size: 577.1 MB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QDGMIXM
+    miui: V11.0.5.0.QDGMIXM
 - branch: stable
   date: '2020-04-13'
   downloads:
