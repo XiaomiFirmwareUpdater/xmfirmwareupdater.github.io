@@ -15599,6 +15599,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2020-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_joyeuse/releases/download/stable-03.06.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.3.0.QJZEUXM_9b277e341a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.3.0.QJZEUXM_9b277e341a_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.3.0.QJZEUXM_9b277e341a_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QJZEUXM
+- branch: stable
   date: '2020-05-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_joyeuse/releases/download/stable-28.05.2020/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.2.0.QJZMIXM_30d464cb24_10.0.zip
@@ -24899,6 +24909,16 @@
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
 - branch: stable
+  date: '2020-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-03.06.2020/fw_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
+  filename: fw_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.10.0.PCPCNXM
+- branch: stable
   date: '2020-04-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-13.04.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.4.0.PCPEUXM_5e4a8de985_9.0.zip
@@ -29938,6 +29958,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: stable
+  date: '2020-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-03.06.2020/fw_polaris_miui_MIMIX2SGlobal_V11.0.5.0.QDGMIXM_42f0653956_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/polaris/fw_polaris_miui_MIMIX2SGlobal_V11.0.5.0.QDGMIXM_42f0653956_10.0.zip
+  filename: fw_polaris_miui_MIMIX2SGlobal_V11.0.5.0.QDGMIXM_42f0653956_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QDGMIXM
 - branch: weekly
   date: '2020-05-28'
   downloads:
