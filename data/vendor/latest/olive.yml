@@ -43,13 +43,13 @@
     android: '9.0'
     miui: V11.0.11.0.PCNINXM
 - branch: stable
-  date: '2020-03-30'
+  date: '2020-06-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.6.0.PCNRUXM_e2d5724c21_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.6.0.PCNRUXM_e2d5724c21_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.6.0.PCNRUXM_e2d5724c21_9.0.zip
   region: Russia
-  size: 370.0 MB
+  size: 371.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PCNRUXM
+    miui: V11.0.6.0.PCNRUXM

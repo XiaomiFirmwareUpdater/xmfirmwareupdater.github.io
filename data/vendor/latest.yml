@@ -285,16 +285,16 @@
     android: '10.0'
     miui: V11.0.5.0.QFARUXM
 - branch: stable
-  date: '2020-04-08'
+  date: '2020-06-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip/download
-  filename: fw-vendor_cereus_miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V11.0.4.0.PCGMIXM_68887320d7_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cereus_global-stable/fw-vendor_cereus_miui_HM6Global_V11.0.4.0.PCGMIXM_68887320d7_9.0.zip/download
+  filename: fw-vendor_cereus_miui_HM6Global_V11.0.4.0.PCGMIXM_68887320d7_9.0.zip
   region: Global
-  size: 198.6 MB
+  size: 197.6 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PCGMIXM
+    miui: V11.0.4.0.PCGMIXM
 - branch: stable
   date: '2020-04-07'
   downloads:
@@ -1066,16 +1066,16 @@
     android: '9.0'
     miui: V11.0.11.0.PCNINXM
 - branch: stable
-  date: '2020-03-30'
+  date: '2020-06-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.6.0.PCNRUXM_e2d5724c21_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.6.0.PCNRUXM_e2d5724c21_9.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.6.0.PCNRUXM_e2d5724c21_9.0.zip
   region: Russia
-  size: 370.0 MB
+  size: 371.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PCNRUXM
+    miui: V11.0.6.0.PCNRUXM
 - branch: stable
   date: '2020-04-16'
   downloads:
@@ -1803,16 +1803,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-05-23'
+  date: '2020-06-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip/download
-  filename: fw-vendor_vangogh_miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip/download
+  filename: fw-vendor_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
   region: China
   size: 1.1 GB
   versions:
     android: '10.0'
-    miui: V11.0.9.0.QJVCNXM
+    miui: V11.0.10.0.QJVCNXM
 - branch: stable
   date: '2020-06-01'
   downloads:

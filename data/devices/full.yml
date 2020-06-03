@@ -4379,6 +4379,16 @@
     android: '9.0'
     miui: V10.2.11.0.PFACNXM
 - branch: stable
+  date: '2020-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-03.06.2020/fw_cereus_miui_HM6Global_V11.0.4.0.PCGMIXM_68887320d7_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cereus/fw_cereus_miui_HM6Global_V11.0.4.0.PCGMIXM_68887320d7_9.0.zip
+  filename: fw_cereus_miui_HM6Global_V11.0.4.0.PCGMIXM_68887320d7_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCGMIXM
+- branch: stable
   date: '2020-04-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-08.04.2020/fw_cereus_miui_HM6Global_V11.0.3.0.PCGMIXM_44aaa9135d_9.0.zip
@@ -47678,6 +47688,16 @@
   versions:
     android: '8.1'
     miui: 8.8.30
+- branch: stable
+  date: '2020-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-03.06.2020/fw_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vangogh/fw_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
+  filename: fw_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.10.0.QJVCNXM
 - branch: weekly
   date: '2020-05-28'
   downloads:
