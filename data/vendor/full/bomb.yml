@@ -9,3 +9,14 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QJLCNXM
+- branch: stable
+  date: '2020-06-04'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/bomb-stable/fw-vendor_bomb_miui_BOMB_V11.0.2.0.QJLCNXM_82eed40fe8_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/bomb-stable/fw-vendor_bomb_miui_BOMB_V11.0.2.0.QJLCNXM_82eed40fe8_10.0.zip/download
+  filename: fw-vendor_bomb_miui_BOMB_V11.0.2.0.QJLCNXM_82eed40fe8_10.0.zip
+  region: China
+  size: 644.3 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJLCNXM
