@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-06-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-04.06.2020/fw_polaris_miui_MIMIX2S_20.6.4_cc8d36bd27_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/polaris/fw_polaris_miui_MIMIX2S_20.6.4_cc8d36bd27_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.6.4_cc8d36bd27_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.4
 - branch: stable
   date: '2020-06-03'
   downloads:
@@ -1291,16 +1301,6 @@
 - branch: weekly
   date: '2018-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-06.08.2018/fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/polaris/fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
-  filename: fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.8.3
-- branch: weekly
-  date: '2018-08-06'
-  downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-06.08.2018/fw_polaris_miui_MIMIX2SGlobal_8.7.26_1d0918001a_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/polaris/fw_polaris_miui_MIMIX2SGlobal_8.7.26_1d0918001a_8.0.zip
   filename: fw_polaris_miui_MIMIX2SGlobal_8.7.26_1d0918001a_8.0.zip
@@ -1308,6 +1308,16 @@
   versions:
     android: '8.0'
     miui: 8.7.26
+- branch: weekly
+  date: '2018-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-06.08.2018/fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/polaris/fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
+  filename: fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
+  region: China
+  versions:
+    android: '8.0'
+    miui: 8.8.3
 - branch: stable
   date: '2018-08-06'
   downloads:
