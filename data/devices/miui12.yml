@@ -156,6 +156,12 @@
   version: 20.4.27
 - android: '10.0'
   codename: crux
+  date: '2020-06-05'
+  download: https://bigota.d.miui.com/20.6.4/miui_CRUX_20.6.4_ef61367521_10.0.zip
+  name: Mi 9 Pro 5G
+  version: 20.6.4
+- android: '10.0'
+  codename: crux
   date: '2020-05-28'
   download: https://bigota.d.miui.com/20.5.28/miui_CRUX_20.5.28_74e2d1d3e9_10.0.zip
   name: Mi 9 Pro 5G
