@@ -359,6 +359,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
+  date: '2020-06-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/stable-06.06.2020/fw_atom_miui_ATOM_V11.0.5.0.QJHCNXM_bdd86d17fc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/atom/fw_atom_miui_ATOM_V11.0.5.0.QJHCNXM_bdd86d17fc_10.0.zip
+  filename: fw_atom_miui_ATOM_V11.0.5.0.QJHCNXM_bdd86d17fc_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QJHCNXM
+- branch: stable
   date: '2020-06-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/stable-03.06.2020/fw_atom_miui_ATOM_V11.0.4.0.QJHCNXM_bc01da67a9_10.0.zip
