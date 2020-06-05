@@ -1,11 +1,46 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 05 Jun 2020 01:50:30 +0900</pubDate>
+  <pubDate>Fri, 05 Jun 2020 19:53:28 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 5G (picasso) - 20.6.4</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 05 Jun 2020 19:53:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 20.6.4</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Fri, 05 Jun 2020 19:53:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - 20.6.4</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 05 Jun 2020 19:52:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.6.4</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Fri, 05 Jun 2020 19:52:16 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9 Pro (tucana) - 20.6.4</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Fri, 05 Jun 2020 19:51:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.6.4</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 05 Jun 2020 19:51:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - 20.6.4</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Fri, 05 Jun 2020 19:51:04 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 (dipper) - 20.6.4</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
@@ -70,41 +105,6 @@
     <title>Mi Note 3 (jason) - 20.6.4</title>
     <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
     <pubDate>Fri, 05 Jun 2020 01:46:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 05 Jun 2020 01:46:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Fri, 05 Jun 2020 01:45:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Fri, 05 Jun 2020 01:45:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Fri, 05 Jun 2020 01:44:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 05 Jun 2020 01:44:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Fri, 05 Jun 2020 01:44:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 6X (wayne) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
-    <pubDate>Fri, 05 Jun 2020 01:43:52 +0900</pubDate>
   </item>
     </channel>
 </rss>

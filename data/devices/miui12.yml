@@ -42,6 +42,12 @@
   version: 20.4.27
 - android: '10.0'
   codename: cepheus
+  date: '2020-06-05'
+  download: https://bigota.d.miui.com/20.6.4/miui_CEPHEUS_20.6.4_fa016515dc_10.0.zip
+  name: Mi 9
+  version: 20.6.4
+- android: '10.0'
+  codename: cepheus
   date: '2020-05-28'
   download: https://bigota.d.miui.com/20.5.28/miui_CEPHEUS_20.5.28_13fad6e814_10.0.zip
   name: Mi 9
@@ -184,6 +190,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_CRUX_20.4.27_301d2c2aef_10.0.zip
   name: Mi 9 Pro 5G
   version: 20.4.27
+- android: '10.0'
+  codename: davinci
+  date: '2020-06-05'
+  download: https://bigota.d.miui.com/20.6.4/miui_DAVINCI_20.6.4_c13e693cd1_10.0.zip
+  name: Redmi K20/Mi 9T
+  version: 20.6.4
 - android: '10.0'
   codename: davinci
   date: '2020-05-28'
@@ -528,6 +540,12 @@
   version: 20.4.27
 - android: '10.0'
   codename: phoenix
+  date: '2020-06-05'
+  download: https://bigota.d.miui.com/20.6.4/miui_PHOENIX_20.6.4_9612d32a97_10.0.zip
+  name: Redmi K30 4G
+  version: 20.6.4
+- android: '10.0'
+  codename: phoenix
   date: '2020-05-28'
   download: https://bigota.d.miui.com/20.5.28/miui_PHOENIX_20.5.28_ef1f0d470e_10.0.zip
   name: Redmi K30 4G
@@ -562,6 +580,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_PHOENIX_20.4.27_bce2a50650_10.0.zip
   name: Redmi K30 4G
   version: 20.4.27
+- android: '10.0'
+  codename: picasso
+  date: '2020-06-05'
+  download: https://bigota.d.miui.com/20.6.4/miui_PICASSO_20.6.4_254677e6a9_10.0.zip
+  name: Redmi K30 5G
+  version: 20.6.4
 - android: '10.0'
   codename: picasso
   date: '2020-05-28'
@@ -684,6 +708,12 @@
   version: 20.4.27
 - android: '10.0'
   codename: pyxis
+  date: '2020-06-05'
+  download: https://bigota.d.miui.com/20.6.4/miui_PYXIS_20.6.4_f50b41e042_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.6.4
+- android: '10.0'
+  codename: pyxis
   date: '2020-05-28'
   download: https://bigota.d.miui.com/20.5.28/miui_PYXIS_20.5.28_5653d0e1fb_10.0.zip
   name: Mi CC 9/Mi 9 Lite
@@ -718,6 +748,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_PYXIS_20.4.27_a8055982b0_10.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 20.4.27
+- android: '10.0'
+  codename: raphael
+  date: '2020-06-05'
+  download: https://bigota.d.miui.com/20.6.4/miui_RAPHAEL_20.6.4_1e271032ae_10.0.zip
+  name: Redmi K20 Pro/Mi 9T Pro
+  version: 20.6.4
 - android: '10.0'
   codename: raphael
   date: '2020-05-28'
@@ -844,6 +880,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_MI8SE_20.4.27_6e60fb3b66_10.0.zip
   name: Mi 8 SE
   version: 20.4.27
+- android: '10.0'
+  codename: tucana
+  date: '2020-06-05'
+  download: https://bigota.d.miui.com/20.6.4/miui_TUCANA_20.6.4_199d05fae0_10.0.zip
+  name: Mi CC 9 Pro
+  version: 20.6.4
 - android: '10.0'
   codename: tucana
   date: '2020-05-28'

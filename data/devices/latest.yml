@@ -249,15 +249,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-05-28'
+  date: '2020-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-28.05.2020/fw_cepheus_miui_CEPHEUS_20.5.28_13fad6e814_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/cepheus/fw_cepheus_miui_CEPHEUS_20.5.28_13fad6e814_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_20.5.28_13fad6e814_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-05.06.2020/fw_cepheus_miui_CEPHEUS_20.6.4_fa016515dc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/cepheus/fw_cepheus_miui_CEPHEUS_20.6.4_fa016515dc_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.6.4_fa016515dc_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.5.28
+    miui: 20.6.4
 - branch: stable
   date: '2020-04-26'
   downloads:
@@ -459,15 +459,15 @@
     android: '10.0'
     miui: V11.0.6.0.QFJCNXM
 - branch: weekly
-  date: '2020-05-28'
+  date: '2020-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-28.05.2020/fw_davinci_miui_DAVINCI_20.5.28_98164b3466_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/davinci/fw_davinci_miui_DAVINCI_20.5.28_98164b3466_10.0.zip
-  filename: fw_davinci_miui_DAVINCI_20.5.28_98164b3466_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-05.06.2020/fw_davinci_miui_DAVINCI_20.6.4_c13e693cd1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/davinci/fw_davinci_miui_DAVINCI_20.6.4_c13e693cd1_10.0.zip
+  filename: fw_davinci_miui_DAVINCI_20.6.4_c13e693cd1_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.5.28
+    miui: 20.6.4
 - branch: stable
   date: '2020-04-23'
   downloads:
@@ -1579,15 +1579,15 @@
     android: '10.0'
     miui: V11.0.15.0.QGHCNXM
 - branch: weekly
-  date: '2020-05-28'
+  date: '2020-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-28.05.2020/fw_phoenix_miui_PHOENIX_20.5.28_ef1f0d470e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/phoenix/fw_phoenix_miui_PHOENIX_20.5.28_ef1f0d470e_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.5.28_ef1f0d470e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-05.06.2020/fw_phoenix_miui_PHOENIX_20.6.4_9612d32a97_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/phoenix/fw_phoenix_miui_PHOENIX_20.6.4_9612d32a97_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.6.4_9612d32a97_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.5.28
+    miui: 20.6.4
 - branch: stable
   date: '2020-05-26'
   downloads:
@@ -1609,15 +1609,15 @@
     android: '10.0'
     miui: V11.1.25.0.QGICNXM
 - branch: weekly
-  date: '2020-05-28'
+  date: '2020-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-28.05.2020/fw_picasso_miui_PICASSO_20.5.28_1a3b6da8f3_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/picasso/fw_picasso_miui_PICASSO_20.5.28_1a3b6da8f3_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.5.28_1a3b6da8f3_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-05.06.2020/fw_picasso_miui_PICASSO_20.6.4_254677e6a9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/picasso/fw_picasso_miui_PICASSO_20.6.4_254677e6a9_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.6.4_254677e6a9_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.5.28
+    miui: 20.6.4
 - branch: stable
   date: '2020-04-14'
   downloads:
@@ -1779,15 +1779,15 @@
     android: '10.0'
     miui: V11.0.4.0.QFCCNXM
 - branch: weekly
-  date: '2020-05-28'
+  date: '2020-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-28.05.2020/fw_pyxis_miui_PYXIS_20.5.28_5653d0e1fb_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/pyxis/fw_pyxis_miui_PYXIS_20.5.28_5653d0e1fb_10.0.zip
-  filename: fw_pyxis_miui_PYXIS_20.5.28_5653d0e1fb_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-05.06.2020/fw_pyxis_miui_PYXIS_20.6.4_f50b41e042_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/pyxis/fw_pyxis_miui_PYXIS_20.6.4_f50b41e042_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.6.4_f50b41e042_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.5.28
+    miui: 20.6.4
 - branch: stable
   date: '2020-05-06'
   downloads:
@@ -1819,15 +1819,15 @@
     android: '10.0'
     miui: V11.0.7.0.QFKCNXM
 - branch: weekly
-  date: '2020-05-28'
+  date: '2020-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-28.05.2020/fw_raphael_miui_RAPHAEL_20.5.28_79236bd656_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/raphael/fw_raphael_miui_RAPHAEL_20.5.28_79236bd656_10.0.zip
-  filename: fw_raphael_miui_RAPHAEL_20.5.28_79236bd656_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-05.06.2020/fw_raphael_miui_RAPHAEL_20.6.4_1e271032ae_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/raphael/fw_raphael_miui_RAPHAEL_20.6.4_1e271032ae_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.6.4_1e271032ae_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.5.28
+    miui: 20.6.4
 - branch: stable
   date: '2020-04-27'
   downloads:
@@ -2209,15 +2209,15 @@
     android: '10.0'
     miui: V11.1.2.0.QFDCNXM
 - branch: weekly
-  date: '2020-05-28'
+  date: '2020-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-28.05.2020/fw_tucana_miui_TUCANA_20.5.28_001e2dab4d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/tucana/fw_tucana_miui_TUCANA_20.5.28_001e2dab4d_10.0.zip
-  filename: fw_tucana_miui_TUCANA_20.5.28_001e2dab4d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-05.06.2020/fw_tucana_miui_TUCANA_20.6.4_199d05fae0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/tucana/fw_tucana_miui_TUCANA_20.6.4_199d05fae0_10.0.zip
+  filename: fw_tucana_miui_TUCANA_20.6.4_199d05fae0_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.5.28
+    miui: 20.6.4
 - branch: stable
   date: '2020-05-21'
   downloads:
