@@ -25049,6 +25049,16 @@
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
 - branch: stable
+  date: '2020-06-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-08.06.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.9.0.PCPINXM_57e21d78ca_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.9.0.PCPINXM_57e21d78ca_9.0.zip
+  filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.9.0.PCPINXM_57e21d78ca_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.9.0.PCPINXM
+- branch: stable
   date: '2020-06-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-03.06.2020/fw_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip

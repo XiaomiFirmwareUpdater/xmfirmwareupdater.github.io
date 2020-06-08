@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 06 Jun 2020 07:07:38 +0900</pubDate>
+  <pubDate>Mon, 08 Jun 2020 19:06:05 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8A (olivelite) - V11.0.9.0.PCPINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Mon, 08 Jun 2020 19:06:05 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X Pro (bomb) - V11.0.3.0.QJLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
@@ -100,11 +105,6 @@
     <title>Mi 9 SE (grus) - 20.6.4</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
     <pubDate>Fri, 05 Jun 2020 01:48:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Fri, 05 Jun 2020 01:47:41 +0900</pubDate>
   </item>
     </channel>
 </rss>
