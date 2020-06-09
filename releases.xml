@@ -1,15 +1,25 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 09 Jun 2020 01:06:39 +0900</pubDate>
+  <pubDate>Tue, 09 Jun 2020 13:07:31 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi Note 7 Pro (violet) - V11.0.1.0.QFHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Tue, 09 Jun 2020 13:07:31 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi Note 8 (ginkgo) - V11.0.9.0.PCOMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Tue, 09 Jun 2020 01:06:39 +0900</pubDate>
+    <pubDate>Tue, 09 Jun 2020 13:06:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8A (olivelite) - V11.0.7.0.PCPMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Tue, 09 Jun 2020 13:06:19 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 8A (olivelite) - V11.0.9.0.PCPINXM</title>
@@ -95,16 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 20.6.4</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Fri, 05 Jun 2020 01:49:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Fri, 05 Jun 2020 01:48:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2 (chiron) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
-    <pubDate>Fri, 05 Jun 2020 01:48:20 +0900</pubDate>
   </item>
     </channel>
 </rss>
