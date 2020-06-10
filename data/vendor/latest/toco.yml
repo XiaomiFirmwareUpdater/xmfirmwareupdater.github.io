@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-05-08'
+  date: '2020-06-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V11.0.1.0.QFNMIXM_eb09b80c56_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V11.0.1.0.QFNMIXM_eb09b80c56_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOGlobal_V11.0.1.0.QFNMIXM_eb09b80c56_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V11.0.2.0.QFNMIXM_3a630c5c7f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V11.0.2.0.QFNMIXM_3a630c5c7f_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOGlobal_V11.0.2.0.QFNMIXM_3a630c5c7f_10.0.zip
   region: Global
   size: 1.1 GB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QFNMIXM
+    miui: V11.0.2.0.QFNMIXM
 - branch: stable
   date: '2020-06-05'
   downloads:
