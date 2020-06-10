@@ -43599,6 +43599,16 @@
     android: '10.0'
     miui: V11.0.2.0.QFNMIXM
 - branch: stable
+  date: '2020-06-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-10.06.2020/fw_toco_miui_TOCOGlobal_V11.0.4.0.QFNMIXM_945ef675a7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOGlobal_V11.0.4.0.QFNMIXM_945ef675a7_10.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V11.0.4.0.QFNMIXM_945ef675a7_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QFNMIXM
+- branch: stable
   date: '2020-06-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-05.06.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip

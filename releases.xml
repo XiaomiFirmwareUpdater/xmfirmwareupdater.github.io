@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 10 Jun 2020 19:06:29 +0900</pubDate>
+  <pubDate>Thu, 11 Jun 2020 01:05:56 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 10 Lite (toco) - V11.0.4.0.QFNMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
+    <pubDate>Thu, 11 Jun 2020 01:05:56 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Note 10 Lite (toco) - V11.0.2.0.QFNMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
@@ -100,11 +105,6 @@
     <title>Mi 8 Explorer (ursa) - 20.6.4</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
     <pubDate>Fri, 05 Jun 2020 01:50:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 20.6.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 05 Jun 2020 01:49:38 +0900</pubDate>
   </item>
     </channel>
 </rss>
