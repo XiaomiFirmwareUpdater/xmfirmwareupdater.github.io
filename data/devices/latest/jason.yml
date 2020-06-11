@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-06-04'
+  date: '2020-06-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-04.06.2020/fw_jason_miui_MINote3_20.6.4_15967106a8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/jason/fw_jason_miui_MINote3_20.6.4_15967106a8_9.0.zip
-  filename: fw_jason_miui_MINote3_20.6.4_15967106a8_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/weekly-11.06.2020/fw_jason_miui_MINote3_20.6.11_39e0c4f9df_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/jason/fw_jason_miui_MINote3_20.6.11_39e0c4f9df_9.0.zip
+  filename: fw_jason_miui_MINote3_20.6.11_39e0c4f9df_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 20.6.4
+    miui: 20.6.11

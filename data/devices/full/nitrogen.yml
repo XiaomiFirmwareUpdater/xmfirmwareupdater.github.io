@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-11.06.2020/fw_nitrogen_miui_MIMAX3_20.6.11_0ee690a1ff_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/nitrogen/fw_nitrogen_miui_MIMAX3_20.6.11_0ee690a1ff_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_20.6.11_0ee690a1ff_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.11
+- branch: weekly
   date: '2020-06-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-04.06.2020/fw_nitrogen_miui_MIMAX3_20.6.4_1fb894d44f_10.0.zip

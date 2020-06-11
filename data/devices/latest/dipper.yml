@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-06-04'
+  date: '2020-06-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-04.06.2020/fw_dipper_miui_MI8_20.6.4_248dbd666c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/dipper/fw_dipper_miui_MI8_20.6.4_248dbd666c_10.0.zip
-  filename: fw_dipper_miui_MI8_20.6.4_248dbd666c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-11.06.2020/fw_dipper_miui_MI8_20.6.11_846d1b539f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/dipper/fw_dipper_miui_MI8_20.6.11_846d1b539f_10.0.zip
+  filename: fw_dipper_miui_MI8_20.6.11_846d1b539f_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.6.4
+    miui: 20.6.11

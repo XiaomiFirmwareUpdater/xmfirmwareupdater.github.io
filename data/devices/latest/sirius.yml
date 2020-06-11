@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V11.0.3.0.QEBCNXM
 - branch: weekly
-  date: '2020-06-04'
+  date: '2020-06-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-04.06.2020/fw_sirius_miui_MI8SE_20.6.4_584225a342_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/sirius/fw_sirius_miui_MI8SE_20.6.4_584225a342_10.0.zip
-  filename: fw_sirius_miui_MI8SE_20.6.4_584225a342_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-11.06.2020/fw_sirius_miui_MI8SE_20.6.11_18a6efc57b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/sirius/fw_sirius_miui_MI8SE_20.6.11_18a6efc57b_10.0.zip
+  filename: fw_sirius_miui_MI8SE_20.6.11_18a6efc57b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.6.4
+    miui: 20.6.11

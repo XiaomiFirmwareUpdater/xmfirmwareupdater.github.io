@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-11.06.2020/fw_polaris_miui_MIMIX2S_20.6.11_20bf91cb8e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/polaris/fw_polaris_miui_MIMIX2S_20.6.11_20bf91cb8e_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.6.11_20bf91cb8e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.11
+- branch: weekly
   date: '2020-06-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-04.06.2020/fw_polaris_miui_MIMIX2S_20.6.4_cc8d36bd27_10.0.zip
@@ -1281,16 +1291,6 @@
 - branch: weekly
   date: '2018-08-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-17.08.2018/fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/polaris/fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
-  filename: fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.8.3
-- branch: weekly
-  date: '2018-08-17'
-  downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-17.08.2018/fw_polaris_miui_MIMIX2SGlobal_8.8.4_0299f6e84c_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.4/polaris/fw_polaris_miui_MIMIX2SGlobal_8.8.4_0299f6e84c_8.0.zip
   filename: fw_polaris_miui_MIMIX2SGlobal_8.8.4_0299f6e84c_8.0.zip
@@ -1298,6 +1298,16 @@
   versions:
     android: '8.0'
     miui: 8.8.4
+- branch: weekly
+  date: '2018-08-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/weekly-17.08.2018/fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/polaris/fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
+  filename: fw_polaris_miui_MIMIX2S_8.8.3_325f54c085_8.0.zip
+  region: China
+  versions:
+    android: '8.0'
+    miui: 8.8.3
 - branch: weekly
   date: '2018-08-06'
   downloads:
