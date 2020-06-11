@@ -46879,6 +46879,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2020-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-11.06.2020/fw_umi_miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/umi/fw_umi_miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.14.0.QJBEUXM
+- branch: stable
   date: '2020-05-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-27.05.2020/fw_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip
