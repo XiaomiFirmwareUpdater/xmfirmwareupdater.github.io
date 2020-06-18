@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-06-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/weekly-18.06.2020/fw_ginkgo_miui_GINKGO_20.6.17_50f25d9985_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.17/ginkgo/fw_ginkgo_miui_GINKGO_20.6.17_50f25d9985_10.0.zip
+  filename: fw_ginkgo_miui_GINKGO_20.6.17_50f25d9985_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.17
 - branch: stable
   date: '2020-06-09'
   downloads:
