@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-06-11'
+  date: '2020-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-11.06.2020/fw_platina_miui_MI8Lite_20.6.11_bd26d176ce_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/platina/fw_platina_miui_MI8Lite_20.6.11_bd26d176ce_10.0.zip
-  filename: fw_platina_miui_MI8Lite_20.6.11_bd26d176ce_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-18.06.2020/fw_platina_miui_MI8Lite_20.6.18_e7a82afa4f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/platina/fw_platina_miui_MI8Lite_20.6.18_e7a82afa4f_10.0.zip
+  filename: fw_platina_miui_MI8Lite_20.6.18_e7a82afa4f_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.6.11
+    miui: 20.6.18
