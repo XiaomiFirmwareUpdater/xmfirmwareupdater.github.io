@@ -9,12 +9,12 @@
     android: '9.0'
     miui: V11.0.4.0.PFMCNXM
 - branch: weekly
-  date: '2020-06-12'
+  date: '2020-06-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-12.06.2020/fw_laurus_miui_LAURUS_20.6.11_36a9cdc42a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/laurus/fw_laurus_miui_LAURUS_20.6.11_36a9cdc42a_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.6.11_36a9cdc42a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-19.06.2020/fw_laurus_miui_LAURUS_20.6.18_147b7b693f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/laurus/fw_laurus_miui_LAURUS_20.6.18_147b7b693f_10.0.zip
+  filename: fw_laurus_miui_LAURUS_20.6.18_147b7b693f_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.6.11
+    miui: 20.6.18

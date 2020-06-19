@@ -522,6 +522,12 @@
   version: 20.4.27
 - android: '10.0'
   codename: laurus
+  date: '2020-06-19'
+  download: https://bigota.d.miui.com/20.6.18/miui_LAURUS_20.6.18_147b7b693f_10.0.zip
+  name: Mi CC 9e
+  version: 20.6.18
+- android: '10.0'
+  codename: laurus
   date: '2020-06-12'
   download: https://bigota.d.miui.com/20.6.11/miui_LAURUS_20.6.11_36a9cdc42a_10.0.zip
   name: Mi CC 9e
