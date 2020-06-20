@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 19 Jun 2020 19:07:21 +0900</pubDate>
+  <pubDate>Sat, 20 Jun 2020 13:05:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.6.0.PFLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Sat, 20 Jun 2020 13:05:43 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V12.0.1.0.QJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -100,11 +105,6 @@
     <title>Mi 6 (sagit) - 20.6.18</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
     <pubDate>Thu, 18 Jun 2020 21:52:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 20.6.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Thu, 18 Jun 2020 21:52:30 +0900</pubDate>
   </item>
     </channel>
 </rss>
