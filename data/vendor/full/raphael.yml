@@ -164,6 +164,17 @@
     android: '10.0'
     miui: V11.0.4.0.QFKMIXM
 - branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_global-stable/fw-vendor_raphael_miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael_global-stable/fw-vendor_raphael_miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip
+  region: Global
+  size: 829.0 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFKMIXM
+- branch: stable
   date: '2019-06-03'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_V10.3.7.0.PFKCNXM.zip
@@ -306,3 +317,14 @@
   versions:
     android: '10.0'
     miui: V11.0.8.0.QFKCNXM
+- branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V12.0.2.0.QFKCNXM_21d95d47d1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V12.0.2.0.QFKCNXM_21d95d47d1_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAEL_V12.0.2.0.QFKCNXM_21d95d47d1_10.0.zip
+  region: China
+  size: 792.6 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFKCNXM

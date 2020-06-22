@@ -43,16 +43,16 @@
     android: '10.0'
     miui: V11.0.5.0.QJHCNXM
 - branch: stable
-  date: '2020-05-25'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.4.0.QGGMIXM_94d91b5c62_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.4.0.QGGMIXM_94d91b5c62_10.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.4.0.QGGMIXM_94d91b5c62_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip
   region: Global
-  size: 506.4 MB
+  size: 502.3 MB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QGGMIXM
+    miui: V11.0.5.0.QGGMIXM
 - branch: stable
   date: '2020-05-30'
   downloads:
@@ -230,16 +230,16 @@
     android: '10.0'
     miui: V11.0.6.0.QFAMIXM
 - branch: stable
-  date: '2020-04-15'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip/download
-  filename: fw-vendor_cepheus_miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip
   region: China
-  size: 777.3 MB
+  size: 735.9 MB
   versions:
     android: '10.0'
-    miui: V11.0.9.0.QFACNXM
+    miui: V12.0.2.0.QFACNXM
 - branch: weekly
   date: '2019-04-05'
   downloads:
@@ -263,16 +263,16 @@
     android: '10.0'
     miui: 9.8.22
 - branch: stable
-  date: '2020-04-26'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_eea_global-stable/fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V11.0.9.0.QFAEUXM_6f1cf64460_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_eea_global-stable/fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V11.0.9.0.QFAEUXM_6f1cf64460_10.0.zip/download
-  filename: fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V11.0.9.0.QFAEUXM_6f1cf64460_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus_eea_global-stable/fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V12.0.1.0.QFAEUXM_4d28c84f58_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus_eea_global-stable/fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V12.0.1.0.QFAEUXM_4d28c84f58_10.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUSEEAGlobal_V12.0.1.0.QFAEUXM_4d28c84f58_10.0.zip
   region: Europe
-  size: 778.8 MB
+  size: 810.2 MB
   versions:
     android: '10.0'
-    miui: V11.0.9.0.QFAEUXM
+    miui: V12.0.1.0.QFAEUXM
 - branch: stable
   date: '2020-05-25'
   downloads:
@@ -395,27 +395,27 @@
     android: '10.0'
     miui: V11.0.11.0.QJAEUXM
 - branch: stable
-  date: '2020-05-18'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-stable/fw-vendor_crux_miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-stable/fw-vendor_crux_miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip/download
-  filename: fw-vendor_crux_miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-stable/fw-vendor_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-stable/fw-vendor_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip/download
+  filename: fw-vendor_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
   region: China
-  size: 796.3 MB
+  size: 796.0 MB
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QFXCNXM
+    miui: V12.0.2.0.QFXCNXM
 - branch: stable
-  date: '2020-05-18'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_global-stable/fw-vendor_curtana_miui_CURTANAGlobal_V11.0.8.0.QJWMIXM_28d7aa1aff_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_global-stable/fw-vendor_curtana_miui_CURTANAGlobal_V11.0.8.0.QJWMIXM_28d7aa1aff_10.0.zip/download
-  filename: fw-vendor_curtana_miui_CURTANAGlobal_V11.0.8.0.QJWMIXM_28d7aa1aff_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_global-stable/fw-vendor_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_global-stable/fw-vendor_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip/download
+  filename: fw-vendor_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip
   region: Global
   size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.8.0.QJWMIXM
+    miui: V11.0.9.0.QJWMIXM
 - branch: stable
   date: '2020-06-01'
   downloads:
@@ -1528,27 +1528,27 @@
     android: '10.0'
     miui: V11.0.2.0.QFCRUXM
 - branch: stable
-  date: '2020-04-27'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_global-stable/fw-vendor_raphael_miui_RAPHAELGlobal_V11.0.4.0.QFKMIXM_5423a69913_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael_global-stable/fw-vendor_raphael_miui_RAPHAELGlobal_V11.0.4.0.QFKMIXM_5423a69913_10.0.zip/download
-  filename: fw-vendor_raphael_miui_RAPHAELGlobal_V11.0.4.0.QFKMIXM_5423a69913_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_global-stable/fw-vendor_raphael_miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael_global-stable/fw-vendor_raphael_miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip
   region: Global
-  size: 798.8 MB
+  size: 829.0 MB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QFKMIXM
+    miui: V12.0.1.0.QFKMIXM
 - branch: stable
-  date: '2020-04-07'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.8.0.QFKCNXM_687a01bd2f_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.8.0.QFKCNXM_687a01bd2f_10.0.zip/download
-  filename: fw-vendor_raphael_miui_RAPHAEL_V11.0.8.0.QFKCNXM_687a01bd2f_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V12.0.2.0.QFKCNXM_21d95d47d1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-stable/fw-vendor_raphael_miui_RAPHAEL_V12.0.2.0.QFKCNXM_21d95d47d1_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAEL_V12.0.2.0.QFKCNXM_21d95d47d1_10.0.zip
   region: China
-  size: 827.0 MB
+  size: 792.6 MB
   versions:
     android: '10.0'
-    miui: V11.0.8.0.QFKCNXM
+    miui: V12.0.2.0.QFKCNXM
 - branch: stable
   date: '2020-04-27'
   downloads:
