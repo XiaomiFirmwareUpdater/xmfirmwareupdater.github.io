@@ -626,16 +626,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJXINXM
 - branch: stable
-  date: '2020-06-08'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.9.0.PCOMIXM_59d042a821_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.9.0.PCOMIXM_59d042a821_9.0.zip/download
-  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.9.0.PCOMIXM_59d042a821_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.5.0.PCOIDXM_7bea099035_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.5.0.PCOIDXM_7bea099035_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.5.0.PCOIDXM_7bea099035_9.0.zip
   region: Global
-  size: 343.1 MB
+  size: 343.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.9.0.PCOMIXM
+    miui: V11.0.5.0.PCOIDXM
 - branch: stable
   date: '2020-03-18'
   downloads:
@@ -802,16 +802,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJCEUXM
 - branch: stable
-  date: '2020-02-21'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip/download
-  filename: fw-vendor_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.6.0.PFMCNXM_3234ede2d4_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.6.0.PFMCNXM_3234ede2d4_9.0.zip/download
+  filename: fw-vendor_laurus_miui_LAURUS_V11.0.6.0.PFMCNXM_3234ede2d4_9.0.zip
   region: China
-  size: 387.3 MB
+  size: 387.6 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PFMCNXM
+    miui: V11.0.6.0.PFMCNXM
 - branch: stable
   date: '2020-05-18'
   downloads:
@@ -956,16 +956,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJOEUXM
 - branch: stable
-  date: '2020-06-03'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_global-stable/fw-vendor_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_global-stable/fw-vendor_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip/download
-  filename: fw-vendor_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_global-stable/fw-vendor_merlin_miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_global-stable/fw-vendor_merlin_miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip/download
+  filename: fw-vendor_merlin_miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip
   region: India
-  size: 863.5 MB
+  size: 867.9 MB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QJOMIXM
+    miui: V11.0.5.0.QJOMIXM
 - branch: stable
   date: '2020-06-02'
   downloads:
@@ -1187,16 +1187,16 @@
     android: '9.0'
     miui: V11.0.9.0.PFFINXM
 - branch: stable
-  date: '2020-03-24'
+  date: '2020-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip/download
-  filename: fw-vendor_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.6.0.PFLMIXM_120f06416a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_global-stable/fw-vendor_onc_miui_ONCLITEGlobal_V11.0.6.0.PFLMIXM_120f06416a_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITEGlobal_V11.0.6.0.PFLMIXM_120f06416a_9.0.zip
   region: Global
-  size: 284.2 MB
+  size: 284.1 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PFLMIXM
+    miui: V11.0.6.0.PFLMIXM
 - branch: stable
   date: '2020-04-30'
   downloads:

@@ -388,6 +388,16 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QJHCNXM
+- branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-22.06.2020/fw_begonia_miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QGGMIXM
 - branch: weekly
   date: '2020-06-18'
   downloads:
@@ -3608,6 +3618,26 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-22.06.2020/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.1.0.QFAEUXM_4d28c84f58_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.1.0.QFAEUXM_4d28c84f58_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.1.0.QFAEUXM_4d28c84f58_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFAEUXM
+- branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-22.06.2020/fw_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFACNXM
 - branch: weekly
   date: '2020-06-18'
   downloads:
@@ -7248,6 +7278,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
+- branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-22.06.2020/fw_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/crux/fw_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
+  filename: fw_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFXCNXM
 - branch: weekly
   date: '2020-06-18'
   downloads:
@@ -7498,6 +7538,16 @@
   versions:
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
+- branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-22.06.2020/fw_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip
+  filename: fw_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.9.0.QJWMIXM
 - branch: stable
   date: '2020-06-01'
   downloads:
@@ -33308,6 +33358,26 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-22.06.2020/fw_raphael_miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip
+  filename: fw_raphael_miui_RAPHAELGlobal_V12.0.1.0.QFKMIXM_3909d01bab_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFKMIXM
+- branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-22.06.2020/fw_raphael_miui_RAPHAEL_V12.0.2.0.QFKCNXM_21d95d47d1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAEL_V12.0.2.0.QFKCNXM_21d95d47d1_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_V12.0.2.0.QFKCNXM_21d95d47d1_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFKCNXM
 - branch: weekly
   date: '2020-06-18'
   downloads:
