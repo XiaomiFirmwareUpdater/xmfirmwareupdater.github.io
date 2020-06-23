@@ -1019,15 +1019,15 @@
     android: '9.0'
     miui: V11.0.6.0.PFGMIXM
 - branch: stable
-  date: '2020-03-31'
+  date: '2020-06-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-31.03.2020/fw_lavender_miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-23.06.2020/fw_lavender_miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip
   region: China
   versions:
-    android: '9.0'
-    miui: V11.0.7.0.PFGCNXM
+    android: '10.0'
+    miui: V11.0.2.0.QFGCNXM
 - branch: weekly
   date: '2020-06-18'
   downloads:
@@ -1459,15 +1459,15 @@
     android: '9.0'
     miui: V11.0.7.0.PCQINXM
 - branch: stable
-  date: '2020-06-22'
+  date: '2020-06-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-22.06.2020/fw_onc_miui_ONCLITEGlobal_V11.0.6.0.PFLMIXM_120f06416a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEGlobal_V11.0.6.0.PFLMIXM_120f06416a_9.0.zip
-  filename: fw_onc_miui_ONCLITEGlobal_V11.0.6.0.PFLMIXM_120f06416a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-23.06.2020/fw_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
+  filename: fw_onc_miui_ONCLITEGlobal_V11.0.5.0.PFLMIXM_5b227455ad_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.6.0.PFLMIXM
+    miui: V11.0.5.0.PFLMIXM
 - branch: stable
   date: '2020-05-06'
   downloads:
@@ -1479,15 +1479,15 @@
     android: '9.0'
     miui: V11.0.4.0.PFLCNXM
 - branch: stable
-  date: '2020-06-22'
+  date: '2020-06-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-22.06.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.7.0.PFLEUXM_2e899cc11b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.7.0.PFLEUXM_2e899cc11b_9.0.zip
-  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.7.0.PFLEUXM_2e899cc11b_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-23.06.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
+  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.6.0.PFLEUXM_47b6ee7afb_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V11.0.7.0.PFLEUXM
+    miui: V11.0.6.0.PFLEUXM
 - branch: stable
   date: '2020-05-14'
   downloads:
