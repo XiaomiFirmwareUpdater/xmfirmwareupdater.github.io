@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 23 Jun 2020 19:06:53 +0900</pubDate>
+  <pubDate>Wed, 24 Jun 2020 13:08:14 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 6 Pro (sakura) - V11.0.6.0.PDICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Wed, 24 Jun 2020 13:08:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - V11.0.6.0.PDICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Wed, 24 Jun 2020 13:08:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.4.0.PFLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Wed, 24 Jun 2020 13:06:54 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.1.0.QFLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -90,21 +105,6 @@
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.6.0.QJOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
     <pubDate>Mon, 22 Jun 2020 13:07:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G (picasso) - 20.6.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Sat, 20 Jun 2020 21:28:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V12.0.1.0.QJBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Fri, 19 Jun 2020 19:07:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 7A (pine) - V11.0.1.0.QCMEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
-    <pubDate>Fri, 19 Jun 2020 19:05:50 +0900</pubDate>
   </item>
     </channel>
 </rss>
