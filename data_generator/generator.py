@@ -457,9 +457,11 @@ permalink: $link
     archive = '''### Vendor flashable files Archive
 ##### This page shows all available downloads. If you're looking for the latest releases check [Here](/vendor/$codename/).
 '''
-    notice = "*Note*: All files listed here are made by " \
+    notice = "*Note 1*: All files listed here are made by " \
              "[mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) " \
-             "open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater."
+             "open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.\n\n" \
+             "*Note 2*: Newer vendor packages include boot img, it'll overwrite existing boot img when you install it," \
+             "so, you'll need to reflash Magisk and any custom kernel if you're using it."
     banner = '''<div class="alert alert-primary alert-dismissible fade show" role="alert">
     Follow <a href="https://t.me/MIUIVendorUpdater" class="alert-link">MIUI Vendor Updater</a> on Telegram to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
