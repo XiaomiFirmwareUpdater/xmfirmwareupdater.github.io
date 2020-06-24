@@ -1,7 +1,7 @@
 ---
-title: Redmi K30 5G (picasso) MIUI Downloads
+title: Redmi K30 5G/Redmi K30i 5G (picasso) MIUI Downloads
 layout: download
-name: Redmi K30 5G
+name: Redmi K30 5G/Redmi K30i 5G
 codename: picasso
 permalink: /archive/miui/picasso/
 ---

@@ -764,55 +764,55 @@
   codename: picasso
   date: '2020-06-20'
   download: https://bigota.d.miui.com/20.6.18/miui_PICASSO_20.6.18_6b7935ec4c_10.0.zip
-  name: Redmi K30 5G
+  name: Redmi K30 5G/Redmi K30i 5G
   version: 20.6.18
 - android: '10.0'
   codename: picasso
   date: '2020-06-11'
   download: https://bigota.d.miui.com/20.6.11/miui_PICASSO_20.6.11_186a6727de_10.0.zip
-  name: Redmi K30 5G
+  name: Redmi K30 5G/Redmi K30i 5G
   version: 20.6.11
 - android: '10.0'
   codename: picasso
   date: '2020-06-05'
   download: https://bigota.d.miui.com/20.6.4/miui_PICASSO_20.6.4_254677e6a9_10.0.zip
-  name: Redmi K30 5G
+  name: Redmi K30 5G/Redmi K30i 5G
   version: 20.6.4
 - android: '10.0'
   codename: picasso
   date: '2020-05-28'
   download: https://bigota.d.miui.com/20.5.28/miui_PICASSO_20.5.28_1a3b6da8f3_10.0.zip
-  name: Redmi K30 5G
+  name: Redmi K30 5G/Redmi K30i 5G
   version: 20.5.28
 - android: '10.0'
   codename: picasso
   date: '2020-05-21'
   download: https://bigota.d.miui.com/20.5.21/miui_PICASSO_20.5.21_ef9dd37553_10.0.zip
-  name: Redmi K30 5G
+  name: Redmi K30 5G/Redmi K30i 5G
   version: 20.5.21
 - android: '10.0'
   codename: picasso
   date: '2020-05-14'
   download: https://bigota.d.miui.com/20.5.14/miui_PICASSO_20.5.14_8c33286ef0_10.0.zip
-  name: Redmi K30 5G
+  name: Redmi K30 5G/Redmi K30i 5G
   version: 20.5.14
 - android: '10.0'
   codename: picasso
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_PICASSO_20.5.7_f507bed7ab_10.0.zip
-  name: Redmi K30 5G
+  name: Redmi K30 5G/Redmi K30i 5G
   version: 20.5.7
 - android: '10.0'
   codename: picasso
   date: '2020-04-30'
   download: https://bigota.d.miui.com/20.4.30/miui_PICASSO_20.4.30_9e99f3bc13_10.0.zip
-  name: Redmi K30 5G
+  name: Redmi K30 5G/Redmi K30i 5G
   version: 20.4.30
 - android: '10.0'
   codename: picasso
   date: '2020-04-27'
   download: https://bigota.d.miui.com/20.4.27/miui_PICASSO_20.4.27_e8d40f3110_10.0.zip
-  name: Redmi K30 5G
+  name: Redmi K30 5G/Redmi K30i 5G
   version: 20.4.27
 - android: '10.0'
   codename: platina

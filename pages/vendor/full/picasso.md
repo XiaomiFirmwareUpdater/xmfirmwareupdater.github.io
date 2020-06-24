@@ -1,7 +1,7 @@
 ---
-title: Redmi K30 5G (picasso) Vendor Downloads
+title: Redmi K30 5G/Redmi K30i 5G (picasso) Vendor Downloads
 layout: download
-name: Redmi K30 5G
+name: Redmi K30 5G/Redmi K30i 5G
 codename: picasso
 permalink: /archive/vendor/picasso/
 ---
