@@ -98,6 +98,17 @@
     android: '10.0'
     miui: V11.0.5.0.QFJEUXM
 - branch: stable
+  date: '2020-06-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.6.0.QFJEUXM_79a4386920_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.6.0.QFJEUXM_79a4386920_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.6.0.QFJEUXM_79a4386920_10.0.zip
+  region: Europe
+  size: 755.4 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.6.0.QFJEUXM
+- branch: stable
   date: '2019-06-06'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_global_V10.3.5.0.PFJMIXM.zip

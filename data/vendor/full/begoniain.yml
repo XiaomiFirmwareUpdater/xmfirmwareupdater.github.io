@@ -53,3 +53,14 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PGGINXM
+- branch: stable
+  date: '2020-06-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V11.0.4.0.QGGINXM_ef1df483f3_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V11.0.4.0.QGGINXM_ef1df483f3_10.0.zip/download
+  filename: fw-vendor_begoniain_miui_BEGONIAININGlobal_V11.0.4.0.QGGINXM_ef1df483f3_10.0.zip
+  region: India
+  size: 511.8 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QGGINXM

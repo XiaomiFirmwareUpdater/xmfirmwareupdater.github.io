@@ -1,11 +1,11 @@
 - branch: stable
-  date: '2020-06-03'
+  date: '2020-06-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip/download
-  filename: fw-vendor_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip/download
+  filename: fw-vendor_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip
   region: China
-  size: 1.1 GB
+  size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.10.0.QJVCNXM
+    miui: V12.0.3.0.QJVCNXM

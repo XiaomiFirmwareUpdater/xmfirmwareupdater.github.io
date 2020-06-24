@@ -87,16 +87,16 @@
     android: '10.0'
     miui: V11.0.3.0.QGGRUXM
 - branch: stable
-  date: '2020-01-07'
+  date: '2020-06-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V11.0.4.0.PGGINXM_8f956c6413_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V11.0.4.0.PGGINXM_8f956c6413_9.0.zip/download
-  filename: fw-vendor_begoniain_miui_BEGONIAININGlobal_V11.0.4.0.PGGINXM_8f956c6413_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V11.0.4.0.QGGINXM_ef1df483f3_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V11.0.4.0.QGGINXM_ef1df483f3_10.0.zip/download
+  filename: fw-vendor_begoniain_miui_BEGONIAININGlobal_V11.0.4.0.QGGINXM_ef1df483f3_10.0.zip
   region: India
-  size: 452.6 MB
+  size: 511.8 MB
   versions:
-    android: '9.0'
-    miui: V11.0.4.0.PGGINXM
+    android: '10.0'
+    miui: V11.0.4.0.QGGINXM
 - branch: stable
   date: '2020-05-15'
   downloads:
@@ -472,16 +472,16 @@
     android: '10.0'
     miui: V11.0.6.0.QFJCNXM
 - branch: stable
-  date: '2020-04-17'
+  date: '2020-06-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.5.0.QFJEUXM_8944bb7369_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.5.0.QFJEUXM_8944bb7369_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.5.0.QFJEUXM_8944bb7369_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.6.0.QFJEUXM_79a4386920_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.6.0.QFJEUXM_79a4386920_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.6.0.QFJEUXM_79a4386920_10.0.zip
   region: Europe
-  size: 741.8 MB
+  size: 755.4 MB
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QFJEUXM
+    miui: V11.0.6.0.QFJEUXM
 - branch: stable
   date: '2020-05-18'
   downloads:
@@ -989,16 +989,16 @@
     android: '7.0'
     miui: 9.3.7
 - branch: stable
-  date: '2020-06-18'
+  date: '2020-06-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/monet_eea_global-stable/fw-vendor_monet_miui_MONETEEAGlobal_V11.0.10.0.QJIEUXM_bdadc92ecc_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/monet_eea_global-stable/fw-vendor_monet_miui_MONETEEAGlobal_V11.0.10.0.QJIEUXM_bdadc92ecc_10.0.zip/download
-  filename: fw-vendor_monet_miui_MONETEEAGlobal_V11.0.10.0.QJIEUXM_bdadc92ecc_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/monet_eea_global-stable/fw-vendor_monet_miui_MONETEEAGlobal_V11.0.11.0.QJIEUXM_fd46cb282f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/monet_eea_global-stable/fw-vendor_monet_miui_MONETEEAGlobal_V11.0.11.0.QJIEUXM_fd46cb282f_10.0.zip/download
+  filename: fw-vendor_monet_miui_MONETEEAGlobal_V11.0.11.0.QJIEUXM_fd46cb282f_10.0.zip
   region: Europe
   size: 1.5 GB
   versions:
     android: '10.0'
-    miui: V11.0.10.0.QJIEUXM
+    miui: V11.0.11.0.QJIEUXM
 - branch: stable
   date: '2020-05-18'
   downloads:
@@ -1308,16 +1308,16 @@
     android: '10.0'
     miui: V11.0.10.0.QGHINXM
 - branch: stable
-  date: '2020-06-16'
+  date: '2020-06-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso-stable/fw-vendor_picasso_miui_PICASSO_V12.0.1.0.QGICNXM_7efba8714d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso-stable/fw-vendor_picasso_miui_PICASSO_V12.0.1.0.QGICNXM_7efba8714d_10.0.zip/download
-  filename: fw-vendor_picasso_miui_PICASSO_V12.0.1.0.QGICNXM_7efba8714d_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso-stable/fw-vendor_picasso_miui_PICASSO_V12.0.2.0.QGICNXM_b5234a4fce_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso-stable/fw-vendor_picasso_miui_PICASSO_V12.0.2.0.QGICNXM_b5234a4fce_10.0.zip/download
+  filename: fw-vendor_picasso_miui_PICASSO_V12.0.2.0.QGICNXM_b5234a4fce_10.0.zip
   region: China
   size: 1.1 GB
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QGICNXM
+    miui: V12.0.2.0.QGICNXM
 - branch: stable
   date: '2020-04-14'
   downloads:
@@ -1847,16 +1847,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-06-03'
+  date: '2020-06-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip/download
-  filename: fw-vendor_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-stable/fw-vendor_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip/download
+  filename: fw-vendor_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip
   region: China
-  size: 1.1 GB
+  size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.10.0.QJVCNXM
+    miui: V12.0.3.0.QJVCNXM
 - branch: stable
   date: '2020-06-01'
   downloads:
