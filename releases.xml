@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 24 Jun 2020 13:08:14 +0900</pubDate>
+  <pubDate>Wed, 24 Jun 2020 19:13:49 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 Lite Zoom (vangogh) - V12.0.3.0.QJVCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
+    <pubDate>Wed, 24 Jun 2020 19:13:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G (picasso) - V12.0.2.0.QGICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Wed, 24 Jun 2020 19:12:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Lite (monet) - V11.0.11.0.QJIEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
+    <pubDate>Wed, 24 Jun 2020 19:10:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V11.0.6.0.QFJEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Wed, 24 Jun 2020 19:08:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begoniain) - V11.0.4.0.QGGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
+    <pubDate>Wed, 24 Jun 2020 19:06:57 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 6 Pro (sakura) - V11.0.6.0.PDICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
@@ -80,31 +105,6 @@
     <title>Redmi Note 8 Pro (begonia) - V11.0.5.0.QGGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
     <pubDate>Tue, 23 Jun 2020 00:25:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.6.0.PFLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Mon, 22 Jun 2020 19:08:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.7.0.PFLEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Mon, 22 Jun 2020 19:06:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.5.0.QJOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Mon, 22 Jun 2020 19:06:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - V11.0.6.0.PFMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Mon, 22 Jun 2020 19:05:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.6.0.QJOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Mon, 22 Jun 2020 13:07:19 +0900</pubDate>
   </item>
     </channel>
 </rss>
