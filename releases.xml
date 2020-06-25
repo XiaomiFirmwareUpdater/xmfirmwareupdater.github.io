@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 25 Jun 2020 02:01:38 +0900</pubDate>
+  <pubDate>Fri, 26 Jun 2020 01:08:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 4G (phoenix) - V12.0.3.0.QGHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Fri, 26 Jun 2020 01:08:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V12.0.3.0.QFJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 26 Jun 2020 01:06:46 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V11.1.27.0.QGICMXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
@@ -95,16 +105,6 @@
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.0.1.0.QFKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Tue, 23 Jun 2020 00:35:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.0.2.0.QFKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 23 Jun 2020 00:34:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V11.0.9.0.QJWMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
-    <pubDate>Tue, 23 Jun 2020 00:33:01 +0900</pubDate>
   </item>
     </channel>
 </rss>
