@@ -1,11 +1,11 @@
 - branch: stable
-  date: '2020-06-18'
+  date: '2020-06-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V12.0.2.0.QGHCNXM_9bbf5efa90_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V12.0.2.0.QGHCNXM_9bbf5efa90_10.0.zip/download
-  filename: fw-vendor_phoenix_miui_PHOENIX_V12.0.2.0.QGHCNXM_9bbf5efa90_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip/download
+  filename: fw-vendor_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip
   region: China
-  size: 903.8 MB
+  size: 919.2 MB
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QGHCNXM
+    miui: V12.0.3.0.QGHCNXM
