@@ -11,8 +11,6 @@ from humanize import naturalsize
 
 # Variables
 HEADER = {'Authorization': f'token {environ["GIT_OAUTH_TOKEN_XFU"]}'}
-ORG = get(f'https://api.github.com/orgs/XiaomiFirmwareUpdater/'
-          f'repos?per_page=100', headers=HEADER).json()
 VARIANTS = [['stable', 'Global'], ['stable', 'China'], ['weekly', 'Global'], ['weekly', 'China'],
             ['stable', 'Europe'], ['stable', 'India'], ['stable', 'Russia']]
 FW_CODENAMES = []
@@ -22,6 +20,19 @@ M_DEVICES = {}
 V_DEVICES = {}
 
 NAMES = {}
+
+
+def get_data_from_github(url):
+    page = get(url, headers=HEADER)
+    data = page.json()
+    if page.links:
+        for i in range(2, len(page.links) + 1):
+            for j in get(f"{url}&page={i}", headers=HEADER).json():
+                data.append(j)
+    return data
+
+
+ORG = get_data_from_github('https://api.github.com/orgs/XiaomiFirmwareUpdater/repos?per_page=100')
 
 
 def load_names():
@@ -71,12 +82,7 @@ def load_releases():
         info = []
         url = f'https://api.github.com/repos/XiaomiFirmwareUpdater/' \
               f'firmware_xiaomi_{device}/releases?per_page=100'
-        page = get(url, headers=HEADER)
-        data = page.json()
-        if page.links:
-            for i in range(2, len(page.links) + 1):
-                for j in get(f"{url}&page={i}", headers=HEADER).json():
-                    data.append(j)
+        data = get_data_from_github(url)
         # Generate all releases YAML
         for item in data:
             # if 'untagged' in item['tag_name']:
@@ -233,7 +239,7 @@ def load_miui_devices():
     load miui devices
     """
     stable = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-                            'miui-updates-tracker/master/devices/sf.yml').content, Loader=yaml.CLoader)
+                           'miui-updates-tracker/master/devices/sf.yml').content, Loader=yaml.CLoader)
     eol = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
                         'miui-updates-tracker/master/EOL/sf.yml').content, Loader=yaml.CLoader)
     devices = [*stable, *eol]
@@ -340,12 +346,7 @@ def load_vendor_devices():
     codenames = set()
     url = f'https://api.github.com/repos/TryHardDood/mi-vendor-updater/releases' \
           f'?per_page=100'
-    page = get(url, headers=HEADER)
-    data = page.json()
-    if page.links:
-        for i in range(2, len(page.links) + 1):
-            for j in get(f"{url}&page={i}", headers=HEADER).json():
-                data.append(j)
+    data = get_data_from_github(url)
     # with open('vendor.json', 'w') as json_file:
     #     json.dump(data, json_file, indent=4)
     for release in data:
