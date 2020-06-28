@@ -1839,15 +1839,15 @@
     android: '10.0'
     miui: 20.6.18
 - branch: stable
-  date: '2020-05-06'
+  date: '2020-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-06.05.2020/fw_pyxis_miui_PYXISEEAGlobal_V11.0.2.0.QFCEUXM_6779692a34_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISEEAGlobal_V11.0.2.0.QFCEUXM_6779692a34_10.0.zip
-  filename: fw_pyxis_miui_PYXISEEAGlobal_V11.0.2.0.QFCEUXM_6779692a34_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-28.06.2020/fw_pyxis_miui_PYXISEEAGlobal_V11.0.3.0.QFCEUXM_d5ccaacaf9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pyxis/fw_pyxis_miui_PYXISEEAGlobal_V11.0.3.0.QFCEUXM_d5ccaacaf9_10.0.zip
+  filename: fw_pyxis_miui_PYXISEEAGlobal_V11.0.3.0.QFCEUXM_d5ccaacaf9_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFCEUXM
+    miui: V11.0.3.0.QFCEUXM
 - branch: stable
   date: '2020-06-22'
   downloads:

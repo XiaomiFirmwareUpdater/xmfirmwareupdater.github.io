@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 28 Jun 2020 19:06:55 +0900</pubDate>
+  <pubDate>Mon, 29 Jun 2020 01:07:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - V11.0.3.0.QFCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Mon, 29 Jun 2020 01:07:17 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 9 SE (grus) - V11.0.4.0.QFBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 8 (ginkgo) - V11.0.7.0.PCOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
     <pubDate>Tue, 23 Jun 2020 19:05:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.5.0.PFLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Tue, 23 Jun 2020 13:07:14 +0900</pubDate>
   </item>
     </channel>
 </rss>
