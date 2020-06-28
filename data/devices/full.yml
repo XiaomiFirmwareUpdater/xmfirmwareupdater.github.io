@@ -8299,6 +8299,16 @@
     android: '9.0'
     miui: V10.3.6.0.PFJCNXM
 - branch: stable
+  date: '2020-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinciin/releases/download/stable-28.06.2020/fw_davinciin_miui_DAVINCIININGlobal_V12.0.1.0.QFJINXM_b305175c05_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinciin/fw_davinciin_miui_DAVINCIININGlobal_V12.0.1.0.QFJINXM_b305175c05_10.0.zip
+  filename: fw_davinciin_miui_DAVINCIININGlobal_V12.0.1.0.QFJINXM_b305175c05_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFJINXM
+- branch: stable
   date: '2020-06-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinciin/releases/download/stable-24.06.2020/fw_davinciin_miui_DAVINCIININGlobal_V11.0.4.0.QFJINXM_d9782639d5_10.0.zip
