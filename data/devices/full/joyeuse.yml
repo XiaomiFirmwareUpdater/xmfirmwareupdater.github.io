@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-06-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_joyeuse/releases/download/stable-29.06.2020/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.4.0.QJZMIXM_febbe528cb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.4.0.QJZMIXM_febbe528cb_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V11.0.4.0.QJZMIXM_febbe528cb_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJZMIXM
+- branch: stable
   date: '2020-06-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_joyeuse/releases/download/stable-03.06.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.3.0.QJZEUXM_9b277e341a_10.0.zip

@@ -21,16 +21,16 @@
     android: '10.0'
     miui: V12.0.2.0.QFKCNXM
 - branch: stable
-  date: '2020-04-27'
+  date: '2020-06-29'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_eea_global-stable/fw-vendor_raphael_miui_RAPHAELEEAGlobal_V11.0.6.0.QFKEUXM_9448b1a115_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael_eea_global-stable/fw-vendor_raphael_miui_RAPHAELEEAGlobal_V11.0.6.0.QFKEUXM_9448b1a115_10.0.zip/download
-  filename: fw-vendor_raphael_miui_RAPHAELEEAGlobal_V11.0.6.0.QFKEUXM_9448b1a115_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_eea_global-stable/fw-vendor_raphael_miui_RAPHAELEEAGlobal_V12.0.1.0.QFKEUXM_68e06ebeaa_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael_eea_global-stable/fw-vendor_raphael_miui_RAPHAELEEAGlobal_V12.0.1.0.QFKEUXM_68e06ebeaa_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAELEEAGlobal_V12.0.1.0.QFKEUXM_68e06ebeaa_10.0.zip
   region: Europe
-  size: 798.5 MB
+  size: 842.9 MB
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QFKEUXM
+    miui: V12.0.1.0.QFKEUXM
 - branch: stable
   date: '2020-05-25'
   downloads:
