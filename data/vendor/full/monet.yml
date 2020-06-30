@@ -1,4 +1,15 @@
 - branch: stable
+  date: '2020-06-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/monet_global-stable/fw-vendor_monet_miui_MONETGlobal_V11.0.4.0.QJIMIXM_7e9d77c86e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/monet_global-stable/fw-vendor_monet_miui_MONETGlobal_V11.0.4.0.QJIMIXM_7e9d77c86e_10.0.zip/download
+  filename: fw-vendor_monet_miui_MONETGlobal_V11.0.4.0.QJIMIXM_7e9d77c86e_10.0.zip
+  region: Global
+  size: 1.5 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJIMIXM
+- branch: stable
   date: '2020-06-18'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/monet_eea_global-stable/fw-vendor_monet_miui_MONETEEAGlobal_V11.0.10.0.QJIEUXM_bdadc92ecc_10.0.zip
