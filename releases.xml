@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 30 Jun 2020 13:06:13 +0900</pubDate>
+  <pubDate>Tue, 30 Jun 2020 19:58:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 Lite (monet) - V11.0.4.0.QJIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
+    <pubDate>Tue, 30 Jun 2020 19:58:24 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 7A (pine) - V11.0.1.0.QCMINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
@@ -100,11 +105,6 @@
     <title>Mi 10 Lite (monet) - V11.0.11.0.QJIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
     <pubDate>Wed, 24 Jun 2020 19:10:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - V11.0.6.0.QFJEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Wed, 24 Jun 2020 19:08:51 +0900</pubDate>
   </item>
     </channel>
 </rss>
