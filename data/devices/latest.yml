@@ -49,9 +49,9 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2020-06-29'
+  date: '2020-06-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/stable-29.06.2020/fw_atom_miui_ATOM_V11.0.6.0.QJHCNXM_820f9092c3_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/stable-30.06.2020/fw_atom_miui_ATOM_V11.0.6.0.QJHCNXM_820f9092c3_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/atom/fw_atom_miui_ATOM_V11.0.6.0.QJHCNXM_820f9092c3_10.0.zip
   filename: fw_atom_miui_ATOM_V11.0.6.0.QJHCNXM_820f9092c3_10.0.zip
   region: China
@@ -1249,15 +1249,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2020-06-22'
+  date: '2020-06-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-22.06.2020/fw_merlin_miui_MERLIN_V11.0.6.0.QJOCNXM_f6e2aeb1e9_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/merlin/fw_merlin_miui_MERLIN_V11.0.6.0.QJOCNXM_f6e2aeb1e9_10.0.zip
-  filename: fw_merlin_miui_MERLIN_V11.0.6.0.QJOCNXM_f6e2aeb1e9_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-30.06.2020/fw_merlin_miui_MERLIN_V12.0.1.0.QJOCNXM_86c4c0b217_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLIN_V12.0.1.0.QJOCNXM_86c4c0b217_10.0.zip
+  filename: fw_merlin_miui_MERLIN_V12.0.1.0.QJOCNXM_86c4c0b217_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QJOCNXM
+    miui: V12.0.1.0.QJOCNXM
 - branch: stable
   date: '2020-06-09'
   downloads:
@@ -1699,15 +1699,15 @@
     android: '10.0'
     miui: V11.0.1.0.QCMEUXM
 - branch: stable
-  date: '2020-05-17'
+  date: '2020-06-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-17.05.2020/fw_pine_miui_PINEINGlobal_V11.0.5.0.PCMINXM_201721b994_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEINGlobal_V11.0.5.0.PCMINXM_201721b994_9.0.zip
-  filename: fw_pine_miui_PINEINGlobal_V11.0.5.0.PCMINXM_201721b994_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-30.06.2020/fw_pine_miui_PINEINGlobal_V11.0.1.0.QCMINXM_bd739880d3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEINGlobal_V11.0.1.0.QCMINXM_bd739880d3_10.0.zip
+  filename: fw_pine_miui_PINEINGlobal_V11.0.1.0.QCMINXM_bd739880d3_10.0.zip
   region: India
   versions:
-    android: '9.0'
-    miui: V11.0.5.0.PCMINXM
+    android: '10.0'
+    miui: V11.0.1.0.QCMINXM
 - branch: stable
   date: '2020-05-19'
   downloads:
