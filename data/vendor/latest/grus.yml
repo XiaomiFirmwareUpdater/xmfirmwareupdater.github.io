@@ -43,13 +43,13 @@
     android: '10.0'
     miui: V11.0.6.0.QFBEUXM
 - branch: stable
-  date: '2020-05-06'
+  date: '2020-07-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.3.0.QFBRUXM_421bf0a226_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.3.0.QFBRUXM_421bf0a226_10.0.zip/download
-  filename: fw-vendor_grus_miui_GRUSRUGlobal_V11.0.3.0.QFBRUXM_421bf0a226_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.4.0.QFBRUXM_08e68c43df_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus_ru_global-stable/fw-vendor_grus_miui_GRUSRUGlobal_V11.0.4.0.QFBRUXM_08e68c43df_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUSRUGlobal_V11.0.4.0.QFBRUXM_08e68c43df_10.0.zip
   region: Russia
-  size: 708.8 MB
+  size: 721.5 MB
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QFBRUXM
+    miui: V11.0.4.0.QFBRUXM

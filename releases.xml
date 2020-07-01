@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 01 Jul 2020 01:06:44 +0900</pubDate>
+  <pubDate>Wed, 01 Jul 2020 19:06:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.5.0.QJOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Wed, 01 Jul 2020 19:06:43 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X Pro (bomb) - V11.0.5.0.QJLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
@@ -100,11 +105,6 @@
     <title>Mi 10 Lite Zoom (vangogh) - V12.0.3.0.QJVCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
     <pubDate>Wed, 24 Jun 2020 19:13:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.0.2.0.QGICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Wed, 24 Jun 2020 19:12:19 +0900</pubDate>
   </item>
     </channel>
 </rss>
