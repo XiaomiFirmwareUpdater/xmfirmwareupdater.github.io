@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 01 Jul 2020 19:06:43 +0900</pubDate>
+  <pubDate>Thu, 02 Jul 2020 19:08:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20 Pro (raphaelin) - V12.0.1.0.QFKINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
+    <pubDate>Thu, 02 Jul 2020 19:08:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 7A (pine) - V11.0.2.0.QCMEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
+    <pubDate>Thu, 02 Jul 2020 19:07:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9 (lancelot) - V11.0.3.0.QJCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Thu, 02 Jul 2020 19:06:24 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.5.0.QJOEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
@@ -90,21 +105,6 @@
     <title>Redmi Y3 (onc) - V11.0.7.0.PFLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
     <pubDate>Thu, 25 Jun 2020 01:08:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 (davinciin) - V11.0.4.0.QFJINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
-    <pubDate>Thu, 25 Jun 2020 01:08:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - V11.0.6.0.QFJMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Thu, 25 Jun 2020 01:06:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - V12.0.3.0.QJVCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Wed, 24 Jun 2020 19:13:49 +0900</pubDate>
   </item>
     </channel>
 </rss>
