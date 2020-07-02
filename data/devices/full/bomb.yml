@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_bomb/releases/download/weekly-02.07.2020/fw_bomb_miui_BOMB_20.7.2_d88f6f93cb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.2/bomb/fw_bomb_miui_BOMB_20.7.2_d88f6f93cb_10.0.zip
+  filename: fw_bomb_miui_BOMB_20.7.2_d88f6f93cb_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.2
 - branch: stable
   date: '2020-06-30'
   downloads:
