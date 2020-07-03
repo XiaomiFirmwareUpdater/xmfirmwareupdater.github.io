@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-04-14'
+  date: '2020-07-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.7.0.PCMMIXM_49c637f1c9_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.7.0.PCMMIXM_49c637f1c9_9.0.zip/download
-  filename: fw-vendor_pine_miui_PINEGlobal_V11.0.7.0.PCMMIXM_49c637f1c9_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.2.0.QCMMIXM_998decafa1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.2.0.QCMMIXM_998decafa1_10.0.zip/download
+  filename: fw-vendor_pine_miui_PINEGlobal_V11.0.2.0.QCMMIXM_998decafa1_10.0.zip
   region: Global
-  size: 210.5 MB
+  size: 335.8 MB
   versions:
-    android: '9.0'
-    miui: V11.0.7.0.PCMMIXM
+    android: '10.0'
+    miui: V11.0.2.0.QCMMIXM
 - branch: stable
   date: '2020-06-04'
   downloads:
