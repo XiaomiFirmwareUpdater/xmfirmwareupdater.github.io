@@ -8429,6 +8429,16 @@
     android: '9.0'
     miui: V10.3.6.0.PFJCNXM
 - branch: stable
+  date: '2020-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinciin/releases/download/stable-03.07.2020/fw_davinciin_miui_DAVINCIININGlobal_V12.0.2.0.QFJINXM_160038cad3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinciin/fw_davinciin_miui_DAVINCIININGlobal_V12.0.2.0.QFJINXM_160038cad3_10.0.zip
+  filename: fw_davinciin_miui_DAVINCIININGlobal_V12.0.2.0.QFJINXM_160038cad3_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFJINXM
+- branch: stable
   date: '2020-06-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinciin/releases/download/stable-28.06.2020/fw_davinciin_miui_DAVINCIININGlobal_V12.0.1.0.QFJINXM_b305175c05_10.0.zip
@@ -29859,6 +29869,16 @@
     android: '10.0'
     miui: V11.0.3.0.QGICNXM
 - branch: stable
+  date: '2020-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-03.07.2020/fw_pine_miui_PINEGlobal_V11.0.2.0.QCMMIXM_998decafa1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEGlobal_V11.0.2.0.QCMMIXM_998decafa1_10.0.zip
+  filename: fw_pine_miui_PINEGlobal_V11.0.2.0.QCMMIXM_998decafa1_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QCMMIXM
+- branch: stable
   date: '2020-07-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-02.07.2020/fw_pine_miui_PINEEEAGlobal_V11.0.2.0.QCMEUXM_b65ea4b83b_10.0.zip
@@ -44998,6 +45018,26 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: stable
+  date: '2020-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-03.07.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.1.2.0.QFDEUXM_782cb61971_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.1.2.0.QFDEUXM_782cb61971_10.0.zip
+  filename: fw_tucana_miui_TUCANAEEAGlobal_V11.1.2.0.QFDEUXM_782cb61971_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.1.2.0.QFDEUXM
+- branch: stable
+  date: '2020-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-03.07.2020/fw_tucana_miui_TUCANAGlobal_V11.1.3.0.QFDMIXM_92fc5246c5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAGlobal_V11.1.3.0.QFDMIXM_92fc5246c5_10.0.zip
+  filename: fw_tucana_miui_TUCANAGlobal_V11.1.3.0.QFDMIXM_92fc5246c5_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.1.3.0.QFDMIXM
 - branch: weekly
   date: '2020-07-02'
   downloads:
