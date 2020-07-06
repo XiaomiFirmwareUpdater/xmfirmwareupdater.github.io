@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 06 Jul 2020 19:06:12 +0900</pubDate>
+  <pubDate>Tue, 07 Jul 2020 04:39:00 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9 (lancelot) - V11.0.4.0.QJCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Tue, 07 Jul 2020 04:39:00 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9 (lancelot) - V11.0.3.0.QJCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
@@ -100,11 +105,6 @@
     <title>Mi 9 SE (grus) - 20.7.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
     <pubDate>Fri, 03 Jul 2020 01:38:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.7.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 03 Jul 2020 01:38:18 +0900</pubDate>
   </item>
     </channel>
 </rss>
