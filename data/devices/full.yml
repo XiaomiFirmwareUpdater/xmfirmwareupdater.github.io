@@ -17419,6 +17419,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2020-07-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-07.07.2020/fw_lancelot_miui_LANCELOT_V11.0.2.0.QJCCNXM_8f3a1ce339_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOT_V11.0.2.0.QJCCNXM_8f3a1ce339_10.0.zip
+  filename: fw_lancelot_miui_LANCELOT_V11.0.2.0.QJCCNXM_8f3a1ce339_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJCCNXM
+- branch: stable
   date: '2020-07-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-06.07.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.4.0.QJCMIXM_aeff7a8f3a_10.0.zip
@@ -29588,6 +29598,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QGHINXM
+- branch: stable
+  date: '2020-07-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-07.07.2020/fw_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QGICMXM
 - branch: weekly
   date: '2020-07-02'
   downloads:
