@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 07 Jul 2020 19:09:08 +0900</pubDate>
+  <pubDate>Fri, 10 Jul 2020 01:09:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8A Dual (olivewood) - V11.0.8.0.PCQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivewood</link>
+    <pubDate>Fri, 10 Jul 2020 01:09:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - V11.0.2.0.QFGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Fri, 10 Jul 2020 01:08:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9 (lancelot) - V11.0.4.0.QJCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Fri, 10 Jul 2020 01:07:16 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.0.3.0.QGICMXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - 20.7.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Fri, 03 Jul 2020 01:40:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro (tucana) - 20.7.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 03 Jul 2020 01:40:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 20.7.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 03 Jul 2020 01:39:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.7.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 03 Jul 2020 01:39:34 +0900</pubDate>
   </item>
     </channel>
 </rss>

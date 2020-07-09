@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-09.07.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.8.0.PCQINXM_e279ce1ff8_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.8.0.PCQINXM_e279ce1ff8_9.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.8.0.PCQINXM_e279ce1ff8_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.8.0.PCQINXM
+- branch: stable
   date: '2020-05-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-18.05.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.7.0.PCQINXM_facc7a4121_9.0.zip

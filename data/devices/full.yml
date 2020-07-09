@@ -17419,6 +17419,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-09.07.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.4.0.QJCEUXM_ba81fce5be_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.4.0.QJCEUXM_ba81fce5be_10.0.zip
+  filename: fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.4.0.QJCEUXM_ba81fce5be_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJCEUXM
+- branch: stable
   date: '2020-07-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-07.07.2020/fw_lancelot_miui_LANCELOT_V11.0.2.0.QJCCNXM_8f3a1ce339_10.0.zip
@@ -18658,6 +18668,16 @@
   versions:
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
+- branch: stable
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-09.07.2020/fw_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
+  filename: fw_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QFGINXM
 - branch: weekly
   date: '2020-07-02'
   downloads:
@@ -26248,6 +26268,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PCPCNXM
+- branch: stable
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-09.07.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.8.0.PCQINXM_e279ce1ff8_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.8.0.PCQINXM_e279ce1ff8_9.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.8.0.PCQINXM_e279ce1ff8_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.8.0.PCQINXM
 - branch: stable
   date: '2020-05-18'
   downloads:
