@@ -359,6 +359,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/weekly-09.07.2020/fw_atom_miui_ATOM_20.7.9_86c3e5ce78_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/atom/fw_atom_miui_ATOM_20.7.9_86c3e5ce78_10.0.zip
+  filename: fw_atom_miui_ATOM_20.7.9_86c3e5ce78_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
+- branch: weekly
   date: '2020-07-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/weekly-02.07.2020/fw_atom_miui_ATOM_20.7.2_5e87aefb53_10.0.zip
@@ -418,6 +428,16 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QJHCNXM
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-09.07.2020/fw_begonia_miui_BEGONIA_20.7.9_f7b4b4b1ba_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/begonia/fw_begonia_miui_BEGONIA_20.7.9_f7b4b4b1ba_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_20.7.9_f7b4b4b1ba_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: weekly
   date: '2020-07-02'
   downloads:
@@ -1488,6 +1508,16 @@
   versions:
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_bomb/releases/download/weekly-09.07.2020/fw_bomb_miui_BOMB_20.7.9_3019275f46_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/bomb/fw_bomb_miui_BOMB_20.7.9_3019275f46_10.0.zip
+  filename: fw_bomb_miui_BOMB_20.7.9_3019275f46_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: weekly
   date: '2020-07-02'
   downloads:
@@ -3718,6 +3748,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-09.07.2020/fw_cepheus_miui_CEPHEUS_20.7.9_6e08778a25_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/cepheus/fw_cepheus_miui_CEPHEUS_20.7.9_6e08778a25_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.7.9_6e08778a25_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: stable
   date: '2020-07-03'
   downloads:
@@ -7139,6 +7179,16 @@
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
 - branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-09.07.2020/fw_cmi_miui_CMI_20.7.8_704fa306bc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.8/cmi/fw_cmi_miui_CMI_20.7.8_704fa306bc_11.0.zip
+  filename: fw_cmi_miui_CMI_20.7.8_704fa306bc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.7.8
+- branch: weekly
   date: '2020-07-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-02.07.2020/fw_cmi_miui_CMI_20.7.2_2fda531b0b_11.0.zip
@@ -7428,6 +7478,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-09.07.2020/fw_crux_miui_CRUX_20.7.9_d66b52404d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/crux/fw_crux_miui_CRUX_20.7.9_d66b52404d_10.0.zip
+  filename: fw_crux_miui_CRUX_20.7.9_d66b52404d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: weekly
   date: '2020-07-02'
   downloads:
@@ -8528,6 +8588,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PFJINXM
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/weekly-09.07.2020/fw_dipper_miui_MI8_20.7.9_57655f4e7c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/dipper/fw_dipper_miui_MI8_20.7.9_57655f4e7c_10.0.zip
+  filename: fw_dipper_miui_MI8_20.7.9_57655f4e7c_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: weekly
   date: '2020-07-02'
   downloads:
@@ -10108,6 +10178,16 @@
   versions:
     android: '8.1'
     miui: 8.6.28
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-09.07.2020/fw_equuleus_miui_MI8UD_20.7.9_089f790d48_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/equuleus/fw_equuleus_miui_MI8UD_20.7.9_089f790d48_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_20.7.9_089f790d48_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: weekly
   date: '2020-07-02'
   downloads:
@@ -11959,6 +12039,16 @@
     android: '7.0'
     miui: 8.3.26
 - branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/weekly-09.07.2020/fw_ginkgo_miui_GINKGO_20.7.9_9fd9ff6ac6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/ginkgo/fw_ginkgo_miui_GINKGO_20.7.9_9fd9ff6ac6_10.0.zip
+  filename: fw_ginkgo_miui_GINKGO_20.7.9_9fd9ff6ac6_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
+- branch: weekly
   date: '2020-07-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/weekly-03.07.2020/fw_ginkgo_miui_GINKGO_20.7.3_811db3924e_10.0.zip
@@ -12328,6 +12418,16 @@
   versions:
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-09.07.2020/fw_grus_miui_GRUS_20.7.9_1439da9adf_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/grus/fw_grus_miui_GRUS_20.7.9_1439da9adf_10.0.zip
+  filename: fw_grus_miui_GRUS_20.7.9_1439da9adf_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: weekly
   date: '2020-07-02'
   downloads:
@@ -18429,6 +18529,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-09.07.2020/fw_laurus_miui_LAURUS_20.7.9_5587b2a85c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/laurus/fw_laurus_miui_LAURUS_20.7.9_5587b2a85c_10.0.zip
+  filename: fw_laurus_miui_LAURUS_20.7.9_5587b2a85c_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
+- branch: weekly
   date: '2020-07-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-02.07.2020/fw_laurus_miui_LAURUS_20.7.2_b77a444079_10.0.zip
@@ -18668,6 +18778,16 @@
   versions:
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-09.07.2020/fw_lavender_miui_LAVENDER_20.7.9_a0a9be02dc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/lavender/fw_lavender_miui_LAVENDER_20.7.9_a0a9be02dc_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_20.7.9_a0a9be02dc_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: stable
   date: '2020-07-09'
   downloads:
@@ -21068,6 +21188,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/weekly-09.07.2020/fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/lmi/fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
+  filename: fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: weekly
   date: '2020-07-02'
   downloads:
@@ -24318,6 +24448,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/weekly-09.07.2020/fw_nitrogen_miui_MIMAX3_20.7.9_ea6fd82848_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/nitrogen/fw_nitrogen_miui_MIMAX3_20.7.9_ea6fd82848_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_20.7.9_ea6fd82848_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: weekly
   date: '2020-07-02'
   downloads:
@@ -34048,6 +34188,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-09.07.2020/fw_raphael_miui_RAPHAEL_20.7.9_1de3184e00_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/raphael/fw_raphael_miui_RAPHAEL_20.7.9_1de3184e00_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.7.9_1de3184e00_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: stable
   date: '2020-07-03'
   downloads:
