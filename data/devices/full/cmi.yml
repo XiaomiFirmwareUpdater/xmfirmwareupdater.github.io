@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2020-07-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/stable-10.07.2020/fw_cmi_miui_CMI_20.7.8_704fa306bc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/20/cmi/fw_cmi_miui_CMI_20.7.8_704fa306bc_11.0.zip
+  filename: fw_cmi_miui_CMI_20.7.8_704fa306bc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.7.8
 - branch: weekly
   date: '2020-07-09'
   downloads:

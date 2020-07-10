@@ -9,15 +9,15 @@
     android: '10.0'
     miui: V11.0.4.0.QEEMIXM
 - branch: stable
-  date: '2020-05-25'
+  date: '2020-07-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/stable-25.05.2020/fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/stable-10.07.2020/fw_perseus_miui_MIMIX3_20.7.9_dac0b02ce0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/20/perseus/fw_perseus_miui_MIMIX3_20.7.9_dac0b02ce0_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.7.9_dac0b02ce0_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QEECNXM
+    miui: 20.7.9
 - branch: weekly
   date: '2019-06-28'
   downloads:
