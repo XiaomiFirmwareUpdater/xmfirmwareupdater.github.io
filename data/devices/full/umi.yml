@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-07-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-10.07.2020/fw_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/umi/fw_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
+  filename: fw_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.7.9
 - branch: stable
   date: '2020-07-10'
   downloads:
