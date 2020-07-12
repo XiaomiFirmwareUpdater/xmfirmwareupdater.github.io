@@ -204,6 +204,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: cmi
+  date: '2020-07-12'
+  download: https://bigota.d.miui.com/20.7.9/miui_CMI_20.7.9_dd0d870e59_11.0.zip
+  name: Mi 10 Pro
+  version: 20.7.9
+- android: '11.0'
+  codename: cmi
   date: '2020-07-09'
   download: https://bigota.d.miui.com/20.7.8/miui_CMI_20.7.8_704fa306bc_11.0.zip
   name: Mi 10 Pro
