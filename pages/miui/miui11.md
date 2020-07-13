@@ -22,6 +22,7 @@ Updater.
 </div>
 {%include ads.html%}
 <div class="table-responsive-md" id="table-wrapper">
+    {%include ad.html%}
     <table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
         <thead class="thead-dark">
             <tr>

@@ -494,6 +494,10 @@
 				}
 
 		@media screen and (max-width: 1680px) {
+            
+            .img-responsive {
+                min-width: 80%;
+            }
 
 			.row {
 				display: flex;
@@ -739,7 +743,9 @@
 		}
 
 		@media screen and (max-width: 1280px) {
-
+            .img-responsive {
+                min-width: 80%;
+            }
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -984,7 +990,9 @@
 		}
 
 		@media screen and (max-width: 980px) {
-
+            .img-responsive {
+                min-width: 70%;
+            }
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1475,6 +1483,10 @@
 
 		@media screen and (max-width: 736px) {
 
+            .img-responsive {
+                min-width: 70%;
+            }
+            
 			.row {
 				display: flex;
 				flex-wrap: wrap;

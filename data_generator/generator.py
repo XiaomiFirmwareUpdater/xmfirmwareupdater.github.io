@@ -185,6 +185,7 @@ permalink: $link
 '''
     table = '''{%include ads.html%}
 <div class="table-responsive-md" id="table-wrapper">
+{%include ad.html%}
 <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
@@ -273,6 +274,7 @@ permalink: $link
 '''
     table = '''{%include ads.html%}
 <div class="table-responsive-md" id="table-wrapper">
+{%include ad.html%}
 <table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
     <thead class="thead-dark">
         <tr>
@@ -436,6 +438,7 @@ permalink: $link
 ---
 '''
     table = '''{%include ads.html%}
+    {%include ad.html%}
 <div class="table-responsive-md" id="table-wrapper">
     <table id="vendor" class="display dt-responsive compact table table-striped table-hover table-sm">
         <thead class="thead-dark">
