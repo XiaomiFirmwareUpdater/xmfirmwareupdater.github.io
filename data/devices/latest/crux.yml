@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-07-10'
+  date: '2020-07-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-10.07.2020/fw_crux_miui_CRUX_20.7.9_d66b52404d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/20/crux/fw_crux_miui_CRUX_20.7.9_d66b52404d_10.0.zip
-  filename: fw_crux_miui_CRUX_20.7.9_d66b52404d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-14.07.2020/fw_crux_miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/crux/fw_crux_miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip
+  filename: fw_crux_miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.9
+    miui: V12.0.1.0.QFXCNXM
 - branch: weekly
   date: '2020-07-09'
   downloads:

@@ -439,6 +439,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJHCNXM
 - branch: stable
+  date: '2020-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-14.07.2020/fw_begonia_miui_BEGONIAGlobal_V12.0.0.4.QGGMIXM_d02578ff0f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.0.0.4.QGGMIXM_d02578ff0f_10.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V12.0.0.4.QGGMIXM_d02578ff0f_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.0.4.QGGMIXM
+- branch: stable
   date: '2020-07-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-10.07.2020/fw_begonia_miui_BEGONIA_20.7.9_f7b4b4b1ba_10.0.zip
@@ -7538,6 +7548,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
+- branch: stable
+  date: '2020-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-14.07.2020/fw_crux_miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/crux/fw_crux_miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip
+  filename: fw_crux_miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFXCNXM
 - branch: stable
   date: '2020-07-10'
   downloads:
@@ -17639,6 +17659,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2020-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-14.07.2020/fw_lancelot_miui_LANCELOT_V11.0.4.0.QJCCNXM_89fd8abc76_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOT_V11.0.4.0.QJCCNXM_89fd8abc76_10.0.zip
+  filename: fw_lancelot_miui_LANCELOT_V11.0.4.0.QJCCNXM_89fd8abc76_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJCCNXM
+- branch: stable
   date: '2020-07-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-09.07.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.4.0.QJCEUXM_ba81fce5be_10.0.zip
@@ -26619,6 +26649,16 @@
     android: '9.0'
     miui: V11.0.4.0.PCQINXM
 - branch: stable
+  date: '2020-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-14.07.2020/fw_onc_miui_ONCLITE_V11.0.1.0.QFLCNXM_d1f5f47261_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITE_V11.0.1.0.QFLCNXM_d1f5f47261_10.0.zip
+  filename: fw_onc_miui_ONCLITE_V11.0.1.0.QFLCNXM_d1f5f47261_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QFLCNXM
+- branch: stable
   date: '2020-07-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-05.07.2020/fw_onc_miui_ONCLITEGlobal_V11.0.6.0.PFLMIXM_120f06416a_9.0.zip
@@ -34458,6 +34498,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: stable
+  date: '2020-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-14.07.2020/fw_raphael_miui_RAPHAEL_V12.0.1.0.QFKCNXM_c0ebd2f309_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAEL_V12.0.1.0.QFKCNXM_c0ebd2f309_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_V12.0.1.0.QFKCNXM_c0ebd2f309_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFKCNXM
 - branch: stable
   date: '2020-07-10'
   downloads:
@@ -45469,6 +45519,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2020-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-14.07.2020/fw_toco_miui_TOCOGlobal_V11.0.7.0.QFNMIXM_7e55d4b09a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOGlobal_V11.0.7.0.QFNMIXM_7e55d4b09a_10.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V11.0.7.0.QFNMIXM_7e55d4b09a_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.7.0.QFNMIXM
+- branch: stable
   date: '2020-07-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-03.07.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
@@ -54878,6 +54938,16 @@
   versions:
     android: '7.1'
     miui: V9.2.7.0.NEIMIEK
+- branch: stable
+  date: '2020-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-14.07.2020/fw_willow_miui_WILLOWEEAGlobal_V11.0.10.0.PCXEUXM_5f51a2ddaf_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/willow/fw_willow_miui_WILLOWEEAGlobal_V11.0.10.0.PCXEUXM_5f51a2ddaf_9.0.zip
+  filename: fw_willow_miui_WILLOWEEAGlobal_V11.0.10.0.PCXEUXM_5f51a2ddaf_9.0.zip
+  region: Europe
+  versions:
+    android: '9.0'
+    miui: V11.0.10.0.PCXEUXM
 - branch: stable
   date: '2020-05-29'
   downloads:
