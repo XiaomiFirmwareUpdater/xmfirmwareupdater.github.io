@@ -1189,15 +1189,15 @@
     android: '10.0'
     miui: V11.0.2.0.QJKMIXM
 - branch: stable
-  date: '2020-07-10'
+  date: '2020-07-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-10.07.2020/fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/20/lmi/fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
-  filename: fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-14.07.2020/fw_lmi_miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip
+  filename: fw_lmi_miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.9
+    miui: V12.0.2.0.QJKCNXM
 - branch: weekly
   date: '2020-07-09'
   downloads:
@@ -1209,15 +1209,15 @@
     android: '10.0'
     miui: 20.7.9
 - branch: stable
-  date: '2020-05-12'
+  date: '2020-07-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-12.05.2020/fw_lmi_miui_LMIEEAGlobal_V11.0.6.0.QJKEUXM_c20779f7ec_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMIEEAGlobal_V11.0.6.0.QJKEUXM_c20779f7ec_10.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V11.0.6.0.QJKEUXM_c20779f7ec_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-14.07.2020/fw_lmi_miui_LMIEEAGlobal_V12.0.1.0.QJKEUXM_b4672d12eb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.0.1.0.QJKEUXM_b4672d12eb_10.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.0.1.0.QJKEUXM_b4672d12eb_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QJKEUXM
+    miui: V12.0.1.0.QJKEUXM
 - branch: stable
   date: '2020-06-18'
   downloads:

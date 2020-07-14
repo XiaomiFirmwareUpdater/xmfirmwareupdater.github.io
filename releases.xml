@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 14 Jul 2020 22:26:17 +0900</pubDate>
+  <pubDate>Wed, 15 Jul 2020 05:33:32 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.0.1.0.QJKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Wed, 15 Jul 2020 05:33:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.0.2.0.QJKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Wed, 15 Jul 2020 05:32:11 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8T (willow) - V11.0.10.0.PCXEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - 20.7.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Fri, 10 Jul 2020 13:10:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 (dipper) - 20.7.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
-    <pubDate>Fri, 10 Jul 2020 13:10:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.7.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 10 Jul 2020 13:10:30 +0900</pubDate>
   </item>
     </channel>
 </rss>
