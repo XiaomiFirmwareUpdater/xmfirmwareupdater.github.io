@@ -26,11 +26,18 @@ permalink: /miui/latte/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('latte')</script>
+    <tbody>
+    <tr><td>MiPad 2 China</td><td>Stable</td><td>Fastboot</td><td>V9.6.2.0.LACCNFD</td><td>5.1</td><td>1.2 GB</td><td>2018-09-07</td><td><a href="/miui/latte/stable/V9.6.2.0.LACCNFD/">Download</a></td></tr>
+<tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V9.6.2.0.LACCNFD</td><td>5.1</td><td>902.5 MB</td><td>2018-09-07</td><td><a href="/miui/latte/stable/V9.6.2.0.LACCNFD/">Download</a></td></tr>
+<tr><td>MiPad 2 China</td><td>Weekly</td><td>Fastboot</td><td>8.4.26</td><td>5.1</td><td>1.1 GB</td><td>2018-09-07</td><td><a href="/miui/latte/weekly/8.4.26/">Download</a></td></tr>
+<tr><td>MiPad 2 China</td><td>Weekly</td><td>Recovery</td><td>8.4.26</td><td>5.1</td><td>890.9 MB</td><td>2018-09-07</td><td><a href="/miui/latte/weekly/8.4.26/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

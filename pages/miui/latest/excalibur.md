@@ -26,11 +26,16 @@ permalink: /miui/excalibur/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('excalibur')</script>
+    <tbody>
+    <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QJXINXM</td><td>10.0</td><td>3.2 GB</td><td>2020-04-29</td><td><a href="/miui/excalibur/stable/V11.0.2.0.QJXINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJXINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-14</td><td><a href="/miui/excalibur/stable/V11.0.4.0.QJXINXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

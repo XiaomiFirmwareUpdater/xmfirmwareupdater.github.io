@@ -26,11 +26,22 @@ permalink: /miui/armani/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('armani')</script>
+    <tbody>
+    <tr><td>Redmi 1S China</td><td>Stable</td><td>Fastboot</td><td>V9.2.4.0.KHCCNEK</td><td>4.4</td><td>908.1 MB</td><td>2018-09-07</td><td><a href="/miui/armani/stable/V9.2.4.0.KHCCNEK/">Download</a></td></tr>
+<tr><td>Redmi 1S China</td><td>Stable</td><td>Recovery</td><td>V9.2.4.0.KHCCNEK</td><td>4.4</td><td>505.7 MB</td><td>2018-09-07</td><td><a href="/miui/armani/stable/V9.2.4.0.KHCCNEK/">Download</a></td></tr>
+<tr><td>Redmi 1S China</td><td>Weekly</td><td>Fastboot</td><td>7.11.16</td><td>4.4</td><td>931.1 MB</td><td>2017-11-16</td><td><a href="/miui/armani/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Redmi 1S China</td><td>Weekly</td><td>Recovery</td><td>7.11.16</td><td>4.4</td><td>508.1 MB</td><td>2018-09-07</td><td><a href="/miui/armani/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Redmi 1S Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.3.0.KHCMIEK</td><td>4.4</td><td>922.7 MB</td><td>2018-09-07</td><td><a href="/miui/armani/stable/V9.2.3.0.KHCMIEK/">Download</a></td></tr>
+<tr><td>Redmi 1S Global</td><td>Weekly</td><td>Fastboot</td><td>7.1.19</td><td>4.4</td><td>1.0 GB</td><td>2017-11-19</td><td><a href="/miui/armani/weekly/7.1.19/">Download</a></td></tr>
+<tr><td>Redmi 1S Global</td><td>Weekly</td><td>Recovery</td><td>7.1.19</td><td>4.4</td><td>872.9 MB</td><td>2018-09-09</td><td><a href="/miui/armani/weekly/7.1.19/">Download</a></td></tr>
+<tr><td>Redmi 1S Global</td><td>Stable</td><td>Recovery</td><td>V7.5.1.0.KHCMIDE</td><td>4.4</td><td>705.5 MB</td><td>2018-08-03</td><td><a href="/miui/armani/stable/V7.5.1.0.KHCMIDE/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

@@ -26,11 +26,22 @@ permalink: /miui/chiron/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('chiron')</script>
+    <tbody>
+    <tr><td>Mi MIX 2 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PDECNXM</td><td>9.0</td><td>2.5 GB</td><td>2020-03-03</td><td><a href="/miui/chiron/stable/V11.0.5.0.PDECNXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2 China</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PDECNXM</td><td>9.0</td><td>1.9 GB</td><td>2020-03-10</td><td><a href="/miui/chiron/stable/V11.0.5.0.PDECNXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2 China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.5 GB</td><td>2019-09-04</td><td><a href="/miui/chiron/weekly/9.9.3/">Download</a></td></tr>
+<tr><td>Mi MIX 2 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.2 GB</td><td>2020-06-18</td><td><a href="/miui/chiron/weekly/20.6.18/">Download</a></td></tr>
+<tr><td>Mi MIX 2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PDEMIXM</td><td>9.0</td><td>2.3 GB</td><td>2020-03-08</td><td><a href="/miui/chiron/stable/V11.0.6.0.PDEMIXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PDEMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-03-20</td><td><a href="/miui/chiron/stable/V11.0.6.0.PDEMIXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.3 GB</td><td>2019-06-28</td><td><a href="/miui/chiron/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>Mi MIX 2 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>1.9 GB</td><td>2019-06-28</td><td><a href="/miui/chiron/weekly/9.6.27/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

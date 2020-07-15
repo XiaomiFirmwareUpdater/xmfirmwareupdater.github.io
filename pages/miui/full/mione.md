@@ -22,16 +22,27 @@ permalink: /archive/miui/mione/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('mione')</script>
+    <tbody>
+    <tr><td>MI 1S China</td><td>Stable</td><td>Fastboot</td><td>JMACNBL18.0</td><td>4.1</td><td>280.0 MB</td><td>2015-04-12</td><td><a href="/miui/mione/stable/JMACNBL18.0/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Stable</td><td>Recovery</td><td>JMACNBL18.0</td><td>4.1</td><td>197.2 MB</td><td>2015-04-12</td><td><a href="/miui/mione/stable/JMACNBL18.0/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Weekly</td><td>Recovery</td><td>4.11.21</td><td>4.1</td><td>187.1 MB</td><td>2015-02-26</td><td><a href="/miui/mione/weekly/4.11.21/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Weekly</td><td>Recovery</td><td>4.11.7</td><td>4.1</td><td>186.9 MB</td><td>2015-01-29</td><td><a href="/miui/mione/weekly/4.11.7/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Weekly</td><td>Recovery</td><td>4.11.28</td><td>4.1</td><td>187.2 MB</td><td>2015-01-13</td><td><a href="/miui/mione/weekly/4.11.28/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Weekly</td><td>Recovery</td><td>4.11.14</td><td>4.1</td><td>187.1 MB</td><td>2015-01-11</td><td><a href="/miui/mione/weekly/4.11.14/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Weekly</td><td>Recovery</td><td>4.12.5</td><td>4.1</td><td>197.3 MB</td><td>2014-12-05</td><td><a href="/miui/mione/weekly/4.12.5/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Weekly</td><td>Fastboot</td><td>4.12.5</td><td>4.1</td><td>280.0 MB</td><td>2014-12-05</td><td><a href="/miui/mione/weekly/4.12.5/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Weekly</td><td>Recovery</td><td>4.10.31</td><td>4.1</td><td>186.6 MB</td><td>2014-11-05</td><td><a href="/miui/mione/weekly/4.10.31/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

@@ -26,11 +26,22 @@ permalink: /miui/nikel/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('nikel')</script>
+    <tbody>
+    <tr><td>Redmi Note 4 MTK China</td><td>Stable</td><td>Fastboot</td><td>V10.2.2.0.MBFCNXM</td><td>6.0</td><td>1.9 GB</td><td>2019-05-22</td><td><a href="/miui/nikel/stable/V10.2.2.0.MBFCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK China</td><td>Stable</td><td>Recovery</td><td>V10.2.2.0.MBFCNXM</td><td>6.0</td><td>1.6 GB</td><td>2019-05-22</td><td><a href="/miui/nikel/stable/V10.2.2.0.MBFCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Fastboot</td><td>9.3.21</td><td>6.0</td><td>1.8 GB</td><td>2019-03-22</td><td><a href="/miui/nikel/weekly/9.3.21/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Recovery</td><td>9.3.21</td><td>6.0</td><td>1.6 GB</td><td>2019-03-22</td><td><a href="/miui/nikel/weekly/9.3.21/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Fastboot</td><td>9.3.21</td><td>6.0</td><td>1.7 GB</td><td>2019-03-22</td><td><a href="/miui/nikel/weekly/9.3.21/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK Global</td><td>Stable</td><td>Fastboot</td><td>V10.2.1.0.MBFMIXM</td><td>6.0</td><td>1.7 GB</td><td>2019-02-15</td><td><a href="/miui/nikel/stable/V10.2.1.0.MBFMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK Global</td><td>Stable</td><td>Recovery</td><td>V10.2.1.0.MBFMIXM</td><td>6.0</td><td>1.5 GB</td><td>2019-02-15</td><td><a href="/miui/nikel/stable/V10.2.1.0.MBFMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Recovery</td><td>9.3.28</td><td>6.0</td><td>1.4 GB</td><td>2019-03-29</td><td><a href="/miui/nikel/weekly/9.3.28/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

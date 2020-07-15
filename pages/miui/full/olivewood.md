@@ -22,16 +22,26 @@ permalink: /archive/miui/olivewood/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('olivewood')</script>
+    <tbody>
+    <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.PCQINXM</td><td>9.0</td><td>1.9 GB</td><td>2020-07-09</td><td><a href="/miui/olivewood/stable/V11.0.8.0.PCQINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.PCQINXM</td><td>9.0</td><td>1.9 GB</td><td>2020-05-18</td><td><a href="/miui/olivewood/stable/V11.0.7.0.PCQINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.PCQINXM</td><td>9.0</td><td>2.6 GB</td><td>2020-05-15</td><td><a href="/miui/olivewood/stable/V11.0.7.0.PCQINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PCQINXM</td><td>9.0</td><td>1.8 GB</td><td>2020-04-07</td><td><a href="/miui/olivewood/stable/V11.0.6.0.PCQINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PCQINXM</td><td>9.0</td><td>2.6 GB</td><td>2020-03-30</td><td><a href="/miui/olivewood/stable/V11.0.6.0.PCQINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCQINXM</td><td>9.0</td><td>1.8 GB</td><td>2020-02-29</td><td><a href="/miui/olivewood/stable/V11.0.5.0.PCQINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PCQINXM</td><td>9.0</td><td>2.6 GB</td><td>2020-02-26</td><td><a href="/miui/olivewood/stable/V11.0.5.0.PCQINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.PCQINXM</td><td>9.0</td><td>1.8 GB</td><td>2020-02-27</td><td><a href="/miui/olivewood/stable/V11.0.4.0.PCQINXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

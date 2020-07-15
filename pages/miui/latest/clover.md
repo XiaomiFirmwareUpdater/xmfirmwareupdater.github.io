@@ -26,11 +26,18 @@ permalink: /miui/clover/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('clover')</script>
+    <tbody>
+    <tr><td>Mi Pad 4 (Plus) China</td><td>Stable</td><td>Fastboot</td><td>V10.3.1.0.ODJCNXM</td><td>8.1</td><td>1.6 GB</td><td>2019-04-22</td><td><a href="/miui/clover/stable/V10.3.1.0.ODJCNXM/">Download</a></td></tr>
+<tr><td>Mi Pad 4 (Plus) China</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.ODJCNXM</td><td>8.1</td><td>1.3 GB</td><td>2019-04-22</td><td><a href="/miui/clover/stable/V10.3.1.0.ODJCNXM/">Download</a></td></tr>
+<tr><td>Mi Pad 4 (Plus) China</td><td>Weekly</td><td>Fastboot</td><td>9.8.29</td><td>8.1</td><td>1.7 GB</td><td>2019-08-29</td><td><a href="/miui/clover/weekly/9.8.29/">Download</a></td></tr>
+<tr><td>Mi Pad 4 (Plus) China</td><td>Weekly</td><td>Recovery</td><td>9.8.29</td><td>8.1</td><td>1.5 GB</td><td>2019-08-29</td><td><a href="/miui/clover/weekly/9.8.29/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

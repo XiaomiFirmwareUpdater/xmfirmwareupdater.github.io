@@ -26,11 +26,18 @@ permalink: /miui/hennessy/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('hennessy')</script>
+    <tbody>
+    <tr><td>Redmi Note 3 (MTK) China</td><td>Stable</td><td>Fastboot</td><td>V9.6.1.0.LHNCNFD</td><td>5.0</td><td>3.0 GB</td><td>2018-09-07</td><td><a href="/miui/hennessy/stable/V9.6.1.0.LHNCNFD/">Download</a></td></tr>
+<tr><td>Redmi Note 3 (MTK) China</td><td>Stable</td><td>Recovery</td><td>V9.6.1.0.LHNCNFD</td><td>5.0</td><td>1.1 GB</td><td>2018-09-07</td><td><a href="/miui/hennessy/stable/V9.6.1.0.LHNCNFD/">Download</a></td></tr>
+<tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Fastboot</td><td>8.4.26</td><td>5.0</td><td>3.1 GB</td><td>2018-09-07</td><td><a href="/miui/hennessy/weekly/8.4.26/">Download</a></td></tr>
+<tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>8.4.26</td><td>5.0</td><td>1.1 GB</td><td>2018-09-07</td><td><a href="/miui/hennessy/weekly/8.4.26/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

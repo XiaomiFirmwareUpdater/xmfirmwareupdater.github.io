@@ -26,11 +26,22 @@ permalink: /miui/natrium/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('natrium')</script>
+    <tbody>
+    <tr><td>Mi 5s Plus China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.OBGCNXM</td><td>8.0</td><td>2.3 GB</td><td>2019-11-08</td><td><a href="/miui/natrium/stable/V11.0.2.0.OBGCNXM/">Download</a></td></tr>
+<tr><td>Mi 5s Plus China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.OBGCNXM</td><td>8.0</td><td>1.9 GB</td><td>2019-11-08</td><td><a href="/miui/natrium/stable/V11.0.2.0.OBGCNXM/">Download</a></td></tr>
+<tr><td>Mi 5s Plus China</td><td>Weekly</td><td>Fastboot</td><td>9.8.29</td><td>8.0</td><td>2.1 GB</td><td>2019-08-29</td><td><a href="/miui/natrium/weekly/9.8.29/">Download</a></td></tr>
+<tr><td>Mi 5s Plus China</td><td>Weekly</td><td>Recovery</td><td>9.10.10</td><td>8.0</td><td>1.8 GB</td><td>2019-10-10</td><td><a href="/miui/natrium/weekly/9.10.10/">Download</a></td></tr>
+<tr><td>Mi 5s Plus Global</td><td>Stable</td><td>Fastboot</td><td>V10.2.4.0.OBGMIXM</td><td>8.0</td><td>1.9 GB</td><td>2019-05-13</td><td><a href="/miui/natrium/stable/V10.2.4.0.OBGMIXM/">Download</a></td></tr>
+<tr><td>Mi 5s Plus Global</td><td>Stable</td><td>Recovery</td><td>V10.2.4.0.OBGMIXM</td><td>8.0</td><td>1.7 GB</td><td>2019-05-13</td><td><a href="/miui/natrium/stable/V10.2.4.0.OBGMIXM/">Download</a></td></tr>
+<tr><td>Mi 5s Plus Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>8.0</td><td>1.9 GB</td><td>2019-06-28</td><td><a href="/miui/natrium/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>Mi 5s Plus Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>8.0</td><td>1.8 GB</td><td>2019-06-28</td><td><a href="/miui/natrium/weekly/9.6.27/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

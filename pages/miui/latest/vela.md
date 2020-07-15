@@ -26,11 +26,17 @@ permalink: /miui/vela/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('vela')</script>
+    <tbody>
+    <tr><td>Mi CC 9 Meitu Edition China</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QFECNXM</td><td>10.0</td><td>3.6 GB</td><td>2020-05-17</td><td><a href="/miui/vela/stable/V11.0.4.0.QFECNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 Meitu Edition China</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QFECNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-05-28</td><td><a href="/miui/vela/stable/V11.0.4.0.QFECNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>20.7.8</td><td>10.0</td><td>2.5 GB</td><td>2020-07-08</td><td><a href="/miui/vela/weekly/20.7.8/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

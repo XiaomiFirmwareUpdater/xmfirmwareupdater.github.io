@@ -26,11 +26,23 @@ permalink: /miui/ginkgo/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('ginkgo')</script>
+    <tbody>
+    <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.PCOCNXM</td><td>9.0</td><td>3.0 GB</td><td>2020-06-12</td><td><a href="/miui/ginkgo/stable/V11.0.7.0.PCOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 China</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.PCOCNXM</td><td>9.0</td><td>2.2 GB</td><td>2020-06-23</td><td><a href="/miui/ginkgo/stable/V11.0.7.0.PCOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>20.7.3</td><td>10.0</td><td>2.5 GB</td><td>2020-07-03</td><td><a href="/miui/ginkgo/weekly/20.7.3/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.PCOMIXM</td><td>9.0</td><td>3.7 GB</td><td>2020-06-01</td><td><a href="/miui/ginkgo/stable/V11.0.9.0.PCOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.9.0.PCOMIXM</td><td>9.0</td><td>2.1 GB</td><td>2020-06-08</td><td><a href="/miui/ginkgo/stable/V11.0.9.0.PCOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PCOIDXM</td><td>9.0</td><td>3.6 GB</td><td>2020-06-12</td><td><a href="/miui/ginkgo/stable/V11.0.5.0.PCOIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Indonesia</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCOIDXM</td><td>9.0</td><td>2.1 GB</td><td>2020-06-22</td><td><a href="/miui/ginkgo/stable/V11.0.5.0.PCOIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PCOINXM</td><td>9.0</td><td>2.9 GB</td><td>2020-05-22</td><td><a href="/miui/ginkgo/stable/V11.0.5.0.PCOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 India</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCOINXM</td><td>9.0</td><td>2.1 GB</td><td>2020-05-29</td><td><a href="/miui/ginkgo/stable/V11.0.5.0.PCOINXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

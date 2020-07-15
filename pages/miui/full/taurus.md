@@ -22,16 +22,27 @@ permalink: /archive/miui/taurus/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('taurus')</script>
+    <tbody>
+    <tr><td>Mi 2A China</td><td>Stable</td><td>Fastboot</td><td>JLB54.0</td><td>4.1</td><td>470.8 MB</td><td>2015-04-12</td><td><a href="/miui/taurus/stable/JLB54.0/">Download</a></td></tr>
+<tr><td>Mi 2A China</td><td>Stable</td><td>Recovery</td><td>JLB54.0</td><td>4.1</td><td>349.9 MB</td><td>2015-04-12</td><td><a href="/miui/taurus/stable/JLB54.0/">Download</a></td></tr>
+<tr><td>Mi 2A China</td><td>Weekly</td><td>Recovery</td><td>4.11.21</td><td>4.1</td><td>322.0 MB</td><td>2015-02-26</td><td><a href="/miui/taurus/weekly/4.11.21/">Download</a></td></tr>
+<tr><td>Mi 2A China</td><td>Weekly</td><td>Recovery</td><td>4.11.7</td><td>4.1</td><td>321.7 MB</td><td>2015-01-29</td><td><a href="/miui/taurus/weekly/4.11.7/">Download</a></td></tr>
+<tr><td>Mi 2A China</td><td>Weekly</td><td>Recovery</td><td>4.11.28</td><td>4.1</td><td>322.1 MB</td><td>2015-01-13</td><td><a href="/miui/taurus/weekly/4.11.28/">Download</a></td></tr>
+<tr><td>Mi 2A China</td><td>Weekly</td><td>Recovery</td><td>4.11.14</td><td>4.1</td><td>322.0 MB</td><td>2015-01-11</td><td><a href="/miui/taurus/weekly/4.11.14/">Download</a></td></tr>
+<tr><td>Mi 2A China</td><td>Weekly</td><td>Fastboot</td><td>4.12.5</td><td>4.1</td><td>469.8 MB</td><td>2014-12-05</td><td><a href="/miui/taurus/weekly/4.12.5/">Download</a></td></tr>
+<tr><td>Mi 2A China</td><td>Weekly</td><td>Recovery</td><td>4.12.5</td><td>4.1</td><td>348.5 MB</td><td>2014-12-04</td><td><a href="/miui/taurus/weekly/4.12.5/">Download</a></td></tr>
+<tr><td>Mi 2A China</td><td>Weekly</td><td>Recovery</td><td>4.10.31</td><td>4.1</td><td>321.6 MB</td><td>2014-11-02</td><td><a href="/miui/taurus/weekly/4.10.31/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

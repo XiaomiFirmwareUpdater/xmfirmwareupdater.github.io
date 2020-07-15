@@ -26,11 +26,18 @@ permalink: /miui/wayne/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('wayne')</script>
+    <tbody>
+    <tr><td>Mi 6X China</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PDCCNXM</td><td>9.0</td><td>2.4 GB</td><td>2020-05-09</td><td><a href="/miui/wayne/stable/V11.0.6.0.PDCCNXM/">Download</a></td></tr>
+<tr><td>Mi 6X China</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PDCCNXM</td><td>9.0</td><td>2.0 GB</td><td>2020-05-15</td><td><a href="/miui/wayne/stable/V11.0.6.0.PDCCNXM/">Download</a></td></tr>
+<tr><td>Mi 6X China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.8 GB</td><td>2019-09-04</td><td><a href="/miui/wayne/weekly/9.9.3/">Download</a></td></tr>
+<tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.0 GB</td><td>2020-06-18</td><td><a href="/miui/wayne/weekly/20.6.18/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

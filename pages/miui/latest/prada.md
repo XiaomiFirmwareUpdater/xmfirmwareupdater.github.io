@@ -26,11 +26,22 @@ permalink: /miui/prada/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('prada')</script>
+    <tbody>
+    <tr><td>Redmi 4 China</td><td>Stable</td><td>Fastboot</td><td>V10.2.2.0.MCECNXM</td><td>6.0</td><td>1.8 GB</td><td>2019-05-21</td><td><a href="/miui/prada/stable/V10.2.2.0.MCECNXM/">Download</a></td></tr>
+<tr><td>Redmi 4 China</td><td>Stable</td><td>Recovery</td><td>V10.2.2.0.MCECNXM</td><td>6.0</td><td>1.6 GB</td><td>2019-05-21</td><td><a href="/miui/prada/stable/V10.2.2.0.MCECNXM/">Download</a></td></tr>
+<tr><td>Redmi 4 China</td><td>Weekly</td><td>Fastboot</td><td>9.3.28</td><td>6.0</td><td>1.8 GB</td><td>2019-03-29</td><td><a href="/miui/prada/weekly/9.3.28/">Download</a></td></tr>
+<tr><td>Redmi 4 China</td><td>Weekly</td><td>Recovery</td><td>9.3.28</td><td>6.0</td><td>1.6 GB</td><td>2019-03-29</td><td><a href="/miui/prada/weekly/9.3.28/">Download</a></td></tr>
+<tr><td>Redmi 4 Global</td><td>Stable</td><td>Fastboot</td><td>V10.2.2.0.MCEMIXM</td><td>6.0</td><td>1.7 GB</td><td>2019-05-21</td><td><a href="/miui/prada/stable/V10.2.2.0.MCEMIXM/">Download</a></td></tr>
+<tr><td>Redmi 4 Global</td><td>Stable</td><td>Recovery</td><td>V10.2.2.0.MCEMIXM</td><td>6.0</td><td>1.6 GB</td><td>2019-05-21</td><td><a href="/miui/prada/stable/V10.2.2.0.MCEMIXM/">Download</a></td></tr>
+<tr><td>Redmi 4 Global</td><td>Weekly</td><td>Fastboot</td><td>7.9.15</td><td>6.0</td><td>1.8 GB</td><td>2017-09-15</td><td><a href="/miui/prada/weekly/7.9.15/">Download</a></td></tr>
+<tr><td>Redmi 4 Global</td><td>Weekly</td><td>Recovery</td><td>7.9.15</td><td>6.0</td><td>1.5 GB</td><td>2017-09-14</td><td><a href="/miui/prada/weekly/7.9.15/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

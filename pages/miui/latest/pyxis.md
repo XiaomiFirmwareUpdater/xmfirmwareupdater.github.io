@@ -26,11 +26,23 @@ permalink: /miui/pyxis/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('pyxis')</script>
+    <tbody>
+    <tr><td>Mi CC 9 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QFCCNXM</td><td>10.0</td><td>3.5 GB</td><td>2020-05-17</td><td><a href="/miui/pyxis/stable/V11.0.4.0.QFCCNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 China</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QFCCNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-05-27</td><td><a href="/miui/pyxis/stable/V11.0.4.0.QFCCNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>20.7.8</td><td>10.0</td><td>2.5 GB</td><td>2020-07-08</td><td><a href="/miui/pyxis/weekly/20.7.8/">Download</a></td></tr>
+<tr><td>Mi 9 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QFCEUXM</td><td>10.0</td><td>3.3 GB</td><td>2020-06-10</td><td><a href="/miui/pyxis/stable/V11.0.3.0.QFCEUXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QFCEUXM</td><td>10.0</td><td>2.4 GB</td><td>2020-06-28</td><td><a href="/miui/pyxis/stable/V11.0.3.0.QFCEUXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QFCMIXM</td><td>10.0</td><td>3.2 GB</td><td>2020-06-10</td><td><a href="/miui/pyxis/stable/V11.0.3.0.QFCMIXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QFCMIXM</td><td>10.0</td><td>2.4 GB</td><td>2020-06-18</td><td><a href="/miui/pyxis/stable/V11.0.3.0.QFCMIXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QFCRUXM</td><td>10.0</td><td>3.3 GB</td><td>2020-06-10</td><td><a href="/miui/pyxis/stable/V11.0.3.0.QFCRUXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QFCRUXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-01</td><td><a href="/miui/pyxis/stable/V11.0.3.0.QFCRUXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

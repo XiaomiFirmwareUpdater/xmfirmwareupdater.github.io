@@ -26,11 +26,26 @@ permalink: /miui/lavender/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('lavender')</script>
+    <tbody>
+    <tr><td>Redmi Note 7 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QFGCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-06-11</td><td><a href="/miui/lavender/stable/V11.0.2.0.QFGCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 7 China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QFGCNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-06-18</td><td><a href="/miui/lavender/stable/V11.0.2.0.QFGCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.9 GB</td><td>2019-09-04</td><td><a href="/miui/lavender/weekly/9.9.3/">Download</a></td></tr>
+<tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>20.7.8</td><td>10.0</td><td>2.4 GB</td><td>2020-07-08</td><td><a href="/miui/lavender/weekly/20.7.8/">Download</a></td></tr>
+<tr><td>Redmi Note 7 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.PFGEUXM</td><td>9.0</td><td>2.9 GB</td><td>2020-05-15</td><td><a href="/miui/lavender/stable/V11.0.8.0.PFGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 7 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.PFGEUXM</td><td>9.0</td><td>2.0 GB</td><td>2020-05-19</td><td><a href="/miui/lavender/stable/V11.0.8.0.PFGEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 7 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PFGMIXM</td><td>9.0</td><td>2.9 GB</td><td>2020-05-14</td><td><a href="/miui/lavender/stable/V11.0.6.0.PFGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 7 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PFGMIXM</td><td>9.0</td><td>2.0 GB</td><td>2020-05-18</td><td><a href="/miui/lavender/stable/V11.0.6.0.PFGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 7/7S India</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.PFGINXM</td><td>9.0</td><td>2.6 GB</td><td>2020-03-10</td><td><a href="/miui/lavender/stable/V11.0.9.0.PFGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 7/7S India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QFGINXM</td><td>10.0</td><td>2.1 GB</td><td>2020-07-09</td><td><a href="/miui/lavender/stable/V11.0.2.0.QFGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 7 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.PFGRUXM</td><td>9.0</td><td>2.9 GB</td><td>2020-05-14</td><td><a href="/miui/lavender/stable/V11.0.9.0.PFGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 7 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.9.0.PFGRUXM</td><td>9.0</td><td>2.0 GB</td><td>2020-05-19</td><td><a href="/miui/lavender/stable/V11.0.9.0.PFGRUXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

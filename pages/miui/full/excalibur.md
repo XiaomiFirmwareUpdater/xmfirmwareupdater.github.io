@@ -22,16 +22,23 @@ permalink: /archive/miui/excalibur/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('excalibur')</script>
+    <tbody>
+    <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJXINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-14</td><td><a href="/miui/excalibur/stable/V11.0.4.0.QJXINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJXINXM</td><td>10.0</td><td>2.3 GB</td><td>2020-05-06</td><td><a href="/miui/excalibur/stable/V11.0.2.0.QJXINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QJXINXM</td><td>10.0</td><td>3.2 GB</td><td>2020-04-29</td><td><a href="/miui/excalibur/stable/V11.0.2.0.QJXINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QJXINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-04-17</td><td><a href="/miui/excalibur/stable/V11.0.1.0.QJXINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QJXINXM</td><td>10.0</td><td>3.3 GB</td><td>2020-03-17</td><td><a href="/miui/excalibur/stable/V11.0.1.0.QJXINXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

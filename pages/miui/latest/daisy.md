@@ -26,11 +26,16 @@ permalink: /miui/daisy/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('daisy')</script>
+    <tbody>
+    <tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.QDLMIXM</td><td>10.0</td><td>1.5 GB</td><td>2020-06-17</td><td><a href="/miui/daisy/stable/V11.0.7.0.QDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QDLMIXM</td><td>10.0</td><td>1.2 GB</td><td>2020-06-23</td><td><a href="/miui/daisy/stable/V11.0.7.0.QDLMIXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

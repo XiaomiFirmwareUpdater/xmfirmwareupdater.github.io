@@ -26,11 +26,22 @@ permalink: /miui/helium/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('helium')</script>
+    <tbody>
+    <tr><td>Mi Max Prime China</td><td>Stable</td><td>Fastboot</td><td>V10.2.2.0.NBDCNXM</td><td>7.0</td><td>1.8 GB</td><td>2019-05-14</td><td><a href="/miui/helium/stable/V10.2.2.0.NBDCNXM/">Download</a></td></tr>
+<tr><td>Mi Max Prime China</td><td>Weekly</td><td>Fastboot</td><td>9.2.28</td><td>7.0</td><td>1.8 GB</td><td>2019-03-01</td><td><a href="/miui/helium/weekly/9.2.28/">Download</a></td></tr>
+<tr><td>Mi Max Prime China</td><td>Weekly</td><td>Recovery</td><td>9.2.28</td><td>7.0</td><td>1.5 GB</td><td>2019-03-01</td><td><a href="/miui/helium/weekly/9.2.28/">Download</a></td></tr>
+<tr><td>Mi Max Prime Global</td><td>Weekly</td><td>Fastboot</td><td>9.2.28</td><td>7.0</td><td>1.8 GB</td><td>2019-03-01</td><td><a href="/miui/helium/weekly/9.2.28/">Download</a></td></tr>
+<tr><td>Mi Max Prime Global</td><td>Weekly</td><td>Recovery</td><td>9.2.28</td><td>7.0</td><td>1.5 GB</td><td>2019-03-01</td><td><a href="/miui/helium/weekly/9.2.28/">Download</a></td></tr>
+<tr><td>Mi Max Prime China</td><td>Stable</td><td>Recovery</td><td>V10.3.2.0.NBDCNXM</td><td>7.0</td><td>1.5 GB</td><td>2019-06-18</td><td><a href="/miui/helium/stable/V10.3.2.0.NBDCNXM/">Download</a></td></tr>
+<tr><td>Mi Max Prime Global</td><td>Stable</td><td>Fastboot</td><td>V10.2.2.0.NBDMIXM</td><td>7.0</td><td>1.7 GB</td><td>2019-05-13</td><td><a href="/miui/helium/stable/V10.2.2.0.NBDMIXM/">Download</a></td></tr>
+<tr><td>Mi Max Prime Global</td><td>Stable</td><td>Recovery</td><td>V10.2.2.0.NBDMIXM</td><td>7.0</td><td>1.6 GB</td><td>2019-05-13</td><td><a href="/miui/helium/stable/V10.2.2.0.NBDMIXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

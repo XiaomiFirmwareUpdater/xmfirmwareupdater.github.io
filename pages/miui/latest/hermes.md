@@ -26,11 +26,22 @@ permalink: /miui/hermes/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('hermes')</script>
+    <tbody>
+    <tr><td>Redmi Note 2 China</td><td>Stable</td><td>Fastboot</td><td>V9.6.1.0.LHMCNFD</td><td>5.0</td><td>1.5 GB</td><td>2018-09-07</td><td><a href="/miui/hermes/stable/V9.6.1.0.LHMCNFD/">Download</a></td></tr>
+<tr><td>Redmi Note 2 China</td><td>Stable</td><td>Recovery</td><td>V9.6.1.0.LHMCNFD</td><td>5.0</td><td>1.1 GB</td><td>2018-09-07</td><td><a href="/miui/hermes/stable/V9.6.1.0.LHMCNFD/">Download</a></td></tr>
+<tr><td>Redmi Note 2 China</td><td>Weekly</td><td>Fastboot</td><td>8.4.26</td><td>5.0</td><td>1.5 GB</td><td>2018-09-07</td><td><a href="/miui/hermes/weekly/8.4.26/">Download</a></td></tr>
+<tr><td>Redmi Note 2 China</td><td>Weekly</td><td>Recovery</td><td>8.4.26</td><td>5.0</td><td>1.1 GB</td><td>2018-09-07</td><td><a href="/miui/hermes/weekly/8.4.26/">Download</a></td></tr>
+<tr><td>Redmi Note 2 Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.3.0.LHMMIFD</td><td>5.0</td><td>1.4 GB</td><td>2018-09-07</td><td><a href="/miui/hermes/stable/V9.6.3.0.LHMMIFD/">Download</a></td></tr>
+<tr><td>Redmi Note 2 Global</td><td>Stable</td><td>Recovery</td><td>V9.6.3.0.LHMMIFD</td><td>5.0</td><td>1.1 GB</td><td>2018-09-07</td><td><a href="/miui/hermes/stable/V9.6.3.0.LHMMIFD/">Download</a></td></tr>
+<tr><td>Redmi Note 2 Global</td><td>Weekly</td><td>Fastboot</td><td>8.4.19</td><td>5.0</td><td>1.5 GB</td><td>2018-09-09</td><td><a href="/miui/hermes/weekly/8.4.19/">Download</a></td></tr>
+<tr><td>Redmi Note 2 Global</td><td>Weekly</td><td>Recovery</td><td>8.4.19</td><td>5.0</td><td>1.1 GB</td><td>2018-09-09</td><td><a href="/miui/hermes/weekly/8.4.19/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

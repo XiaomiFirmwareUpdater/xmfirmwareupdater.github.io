@@ -26,11 +26,16 @@ permalink: /miui/jasmine/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('jasmine')</script>
+    <tbody>
+    <tr><td>Mi A2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.11.0.QDIMIXM</td><td>10.0</td><td>1.7 GB</td><td>2020-06-10</td><td><a href="/miui/jasmine/stable/V11.0.11.0.QDIMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.11.0.QDIMIXM</td><td>10.0</td><td>1.4 GB</td><td>2020-06-18</td><td><a href="/miui/jasmine/stable/V11.0.11.0.QDIMIXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

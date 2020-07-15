@@ -26,11 +26,18 @@ permalink: /miui/cappu/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('cappu')</script>
+    <tbody>
+    <tr><td>Mi Pad 3 China</td><td>Stable</td><td>Fastboot</td><td>V10.2.1.0.NCICNXM</td><td>7.0</td><td>1.2 GB</td><td>2019-01-14</td><td><a href="/miui/cappu/stable/V10.2.1.0.NCICNXM/">Download</a></td></tr>
+<tr><td>Mi Pad 3 China</td><td>Stable</td><td>Recovery</td><td>V10.2.1.0.NCICNXM</td><td>7.0</td><td>1.2 GB</td><td>2019-01-14</td><td><a href="/miui/cappu/stable/V10.2.1.0.NCICNXM/">Download</a></td></tr>
+<tr><td>Mi Pad 3 China</td><td>Weekly</td><td>Fastboot</td><td>9.8.29</td><td>7.0</td><td>1.2 GB</td><td>2019-08-29</td><td><a href="/miui/cappu/weekly/9.8.29/">Download</a></td></tr>
+<tr><td>Mi Pad 3 China</td><td>Weekly</td><td>Recovery</td><td>9.8.29</td><td>7.0</td><td>1.2 GB</td><td>2019-08-30</td><td><a href="/miui/cappu/weekly/9.8.29/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

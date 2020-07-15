@@ -22,16 +22,33 @@ permalink: /archive/miui/lancelot/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('lancelot')</script>
+    <tbody>
+    <tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJCCNXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-13</td><td><a href="/miui/lancelot/stable/V11.0.4.0.QJCCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJCEUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-09</td><td><a href="/miui/lancelot/stable/V11.0.4.0.QJCEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QJCEUXM</td><td>10.0</td><td>3.5 GB</td><td>2020-07-02</td><td><a href="/miui/lancelot/stable/V11.0.4.0.QJCEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QJCCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-07-06</td><td><a href="/miui/lancelot/stable/V11.0.3.0.QJCCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QJCCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-01</td><td><a href="/miui/lancelot/stable/V11.0.3.0.QJCCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QJCEUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-02</td><td><a href="/miui/lancelot/stable/V11.0.3.0.QJCEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QJCEUXM</td><td>10.0</td><td>3.5 GB</td><td>2020-06-14</td><td><a href="/miui/lancelot/stable/V11.0.3.0.QJCEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJCMIXM</td><td>10.0</td><td>1.9 GB</td><td>2020-07-02</td><td><a href="/miui/lancelot/stable/V11.0.4.0.QJCMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QJCMIXM</td><td>10.0</td><td>3.5 GB</td><td>2020-06-18</td><td><a href="/miui/lancelot/stable/V11.0.4.0.QJCMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJCCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-07-02</td><td><a href="/miui/lancelot/stable/V11.0.2.0.QJCCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QJCCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-06-14</td><td><a href="/miui/lancelot/stable/V11.0.2.0.QJCCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QJCCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-06-24</td><td><a href="/miui/lancelot/stable/V11.0.1.0.QJCCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QJCCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-06-11</td><td><a href="/miui/lancelot/stable/V11.0.1.0.QJCCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJCEUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-06-16</td><td><a href="/miui/lancelot/stable/V11.0.2.0.QJCEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QJCEUXM</td><td>10.0</td><td>3.5 GB</td><td>2020-05-22</td><td><a href="/miui/lancelot/stable/V11.0.2.0.QJCEUXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

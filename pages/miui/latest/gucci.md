@@ -26,11 +26,22 @@ permalink: /miui/gucci/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('gucci')</script>
+    <tbody>
+    <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Fastboot</td><td>V9.2.2.0.KHKCNEK</td><td>4.4</td><td>995.1 MB</td><td>2018-09-07</td><td><a href="/miui/gucci/stable/V9.2.2.0.KHKCNEK/">Download</a></td></tr>
+<tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V9.2.2.0.KHKCNEK</td><td>4.4</td><td>587.3 MB</td><td>2018-09-07</td><td><a href="/miui/gucci/stable/V9.2.2.0.KHKCNEK/">Download</a></td></tr>
+<tr><td>Redmi Note 1S 4G China</td><td>Weekly</td><td>Fastboot</td><td>7.11.16</td><td>4.4</td><td>1.0 GB</td><td>2018-09-07</td><td><a href="/miui/gucci/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Redmi Note 1S 4G China</td><td>Weekly</td><td>Recovery</td><td>7.11.16</td><td>4.4</td><td>588.5 MB</td><td>2018-09-07</td><td><a href="/miui/gucci/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Redmi Note 1S 4G Global</td><td>Weekly</td><td>Fastboot</td><td>7.11.16</td><td>4.4</td><td>994.1 MB</td><td>2018-09-07</td><td><a href="/miui/gucci/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Redmi Note 1S 4G Global</td><td>Weekly</td><td>Recovery</td><td>7.11.16</td><td>4.4</td><td>606.8 MB</td><td>2018-09-07</td><td><a href="/miui/gucci/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Redmi Note 1S 4G Global</td><td>Stable</td><td>Fastboot</td><td>V8.5.2.0.KHKMIED</td><td>4.4</td><td>1.2 GB</td><td>2018-09-07</td><td><a href="/miui/gucci/stable/V8.5.2.0.KHKMIED/">Download</a></td></tr>
+<tr><td>Redmi Note 1S 4G Global</td><td>Stable</td><td>Recovery</td><td>V8.5.2.0.KHKMIED</td><td>4.4</td><td>950.4 MB</td><td>2018-09-07</td><td><a href="/miui/gucci/stable/V8.5.2.0.KHKMIED/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

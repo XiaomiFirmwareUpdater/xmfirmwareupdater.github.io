@@ -26,11 +26,18 @@ permalink: /miui/leo/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('leo')</script>
+    <tbody>
+    <tr><td>Mi Note Pro China</td><td>Stable</td><td>Fastboot</td><td>V9.2.3.0.NXHCNEK</td><td>7.0</td><td>1.6 GB</td><td>2018-09-07</td><td><a href="/miui/leo/stable/V9.2.3.0.NXHCNEK/">Download</a></td></tr>
+<tr><td>Mi Note Pro China</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.NXHCNEK</td><td>7.0</td><td>922.3 MB</td><td>2018-09-07</td><td><a href="/miui/leo/stable/V9.2.3.0.NXHCNEK/">Download</a></td></tr>
+<tr><td>Mi Note Pro China</td><td>Weekly</td><td>Fastboot</td><td>7.11.16</td><td>7.0</td><td>1.6 GB</td><td>2018-10-14</td><td><a href="/miui/leo/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Mi Note Pro China</td><td>Weekly</td><td>Recovery</td><td>7.11.16</td><td>7.0</td><td>922.9 MB</td><td>2018-10-14</td><td><a href="/miui/leo/weekly/7.11.16/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

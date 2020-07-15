@@ -26,11 +26,22 @@ permalink: /miui/santoni/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('santoni')</script>
+    <tbody>
+    <tr><td>Redmi 4X China</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.NAMCNXM</td><td>7.1</td><td>1.9 GB</td><td>2019-11-12</td><td><a href="/miui/santoni/stable/V11.0.1.0.NAMCNXM/">Download</a></td></tr>
+<tr><td>Redmi 4X China</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.NAMCNXM</td><td>7.1</td><td>1.7 GB</td><td>2019-11-12</td><td><a href="/miui/santoni/stable/V11.0.1.0.NAMCNXM/">Download</a></td></tr>
+<tr><td>Redmi 4X China</td><td>Weekly</td><td>Fastboot</td><td>9.8.29</td><td>7.1</td><td>2.0 GB</td><td>2019-08-29</td><td><a href="/miui/santoni/weekly/9.8.29/">Download</a></td></tr>
+<tr><td>Redmi 4X China</td><td>Weekly</td><td>Recovery</td><td>9.10.10</td><td>7.1</td><td>1.6 GB</td><td>2019-10-10</td><td><a href="/miui/santoni/weekly/9.10.10/">Download</a></td></tr>
+<tr><td>Redmi 4X Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.NAMMIXM</td><td>7.1</td><td>1.9 GB</td><td>2019-11-21</td><td><a href="/miui/santoni/stable/V11.0.2.0.NAMMIXM/">Download</a></td></tr>
+<tr><td>Redmi 4X Global</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.NAMMIXM</td><td>7.1</td><td>1.8 GB</td><td>2019-11-21</td><td><a href="/miui/santoni/stable/V11.0.2.0.NAMMIXM/">Download</a></td></tr>
+<tr><td>Redmi 4X Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>7.1</td><td>1.8 GB</td><td>2019-06-28</td><td><a href="/miui/santoni/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>Redmi 4X Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>7.1</td><td>1.7 GB</td><td>2019-06-28</td><td><a href="/miui/santoni/weekly/9.6.27/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

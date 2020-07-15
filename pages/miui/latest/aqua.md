@@ -26,11 +26,18 @@ permalink: /miui/aqua/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('aqua')</script>
+    <tbody>
+    <tr><td>MI 4S China</td><td>Stable</td><td>Fastboot</td><td>V10.1.1.0.NAJCNFI</td><td>7.0</td><td>1.4 GB</td><td>2018-11-08</td><td><a href="/miui/aqua/stable/V10.1.1.0.NAJCNFI/">Download</a></td></tr>
+<tr><td>MI 4S China</td><td>Stable</td><td>Recovery</td><td>V10.1.1.0.NAJCNFI</td><td>7.0</td><td>1.2 GB</td><td>2018-11-08</td><td><a href="/miui/aqua/stable/V10.1.1.0.NAJCNFI/">Download</a></td></tr>
+<tr><td>MI 4S China</td><td>Weekly</td><td>Fastboot</td><td>8.9.13</td><td>7.0</td><td>1.4 GB</td><td>2018-09-13</td><td><a href="/miui/aqua/weekly/8.9.13/">Download</a></td></tr>
+<tr><td>MI 4S China</td><td>Weekly</td><td>Recovery</td><td>8.9.13</td><td>7.0</td><td>1.2 GB</td><td>2018-10-14</td><td><a href="/miui/aqua/weekly/8.9.13/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

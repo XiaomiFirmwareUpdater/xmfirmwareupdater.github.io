@@ -26,11 +26,17 @@ permalink: /miui/bomb/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('bomb')</script>
+    <tbody>
+    <tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QJLCNXM</td><td>10.0</td><td>3.5 GB</td><td>2020-06-28</td><td><a href="/miui/bomb/stable/V11.0.5.0.QJLCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QJLCNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-06-30</td><td><a href="/miui/bomb/stable/V11.0.5.0.QJLCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.8</td><td>10.0</td><td>2.7 GB</td><td>2020-07-08</td><td><a href="/miui/bomb/weekly/20.7.8/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

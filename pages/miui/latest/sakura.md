@@ -26,11 +26,22 @@ permalink: /miui/sakura/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('sakura')</script>
+    <tbody>
+    <tr><td>Redmi 6 Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PDICNXM</td><td>9.0</td><td>2.3 GB</td><td>2020-06-15</td><td><a href="/miui/sakura/stable/V11.0.6.0.PDICNXM/">Download</a></td></tr>
+<tr><td>Redmi 6 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PDICNXM</td><td>9.0</td><td>1.9 GB</td><td>2020-06-22</td><td><a href="/miui/sakura/stable/V11.0.6.0.PDICNXM/">Download</a></td></tr>
+<tr><td>Redmi 6 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.4 GB</td><td>2019-09-04</td><td><a href="/miui/sakura/weekly/9.9.3/">Download</a></td></tr>
+<tr><td>Redmi 6 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.1.9</td><td>9.0</td><td>1.9 GB</td><td>2020-01-09</td><td><a href="/miui/sakura/weekly/20.1.9/">Download</a></td></tr>
+<tr><td>Redmi 6 Pro India</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.PDMMIXM</td><td>9.0</td><td>2.2 GB</td><td>2020-05-08</td><td><a href="/miui/sakura/stable/V11.0.7.0.PDMMIXM/">Download</a></td></tr>
+<tr><td>Redmi 6 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.PDMMIXM</td><td>9.0</td><td>1.8 GB</td><td>2020-05-15</td><td><a href="/miui/sakura/stable/V11.0.7.0.PDMMIXM/">Download</a></td></tr>
+<tr><td>Redmi 6 Pro India</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.4 GB</td><td>2019-06-28</td><td><a href="/miui/sakura/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>Redmi 6 Pro India</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>1.9 GB</td><td>2019-06-28</td><td><a href="/miui/sakura/weekly/9.6.27/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

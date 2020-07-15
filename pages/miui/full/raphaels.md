@@ -22,16 +22,21 @@ permalink: /archive/miui/raphaels/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('raphaels')</script>
+    <tbody>
+    <tr><td>Redmi K20 Pro Premium Edition China</td><td>Stable</td><td>Recovery</td><td>V10.4.2.0.PFKCNXM</td><td>9.0</td><td>2.6 GB</td><td>2019-09-29</td><td><a href="/miui/raphaels/stable/V10.4.2.0.PFKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro Premium Edition China</td><td>Stable</td><td>Recovery</td><td>V10.4.1.0.PFKCNXM</td><td>9.0</td><td>2.6 GB</td><td>2019-09-20</td><td><a href="/miui/raphaels/stable/V10.4.1.0.PFKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro Premium Edition China</td><td>Stable</td><td>Fastboot</td><td>V10.4.1.0.PFKCNXM</td><td>9.0</td><td>3.4 GB</td><td>2019-08-27</td><td><a href="/miui/raphaels/stable/V10.4.1.0.PFKCNXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

@@ -26,11 +26,18 @@ permalink: /miui/libra/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('libra')</script>
+    <tbody>
+    <tr><td>Mi 4c China</td><td>Stable</td><td>Fastboot</td><td>V10.1.1.0.NXKCNFI</td><td>7.0</td><td>1.4 GB</td><td>2018-10-30</td><td><a href="/miui/libra/stable/V10.1.1.0.NXKCNFI/">Download</a></td></tr>
+<tr><td>Mi 4c China</td><td>Stable</td><td>Recovery</td><td>V10.1.1.0.NXKCNFI</td><td>7.0</td><td>1.2 GB</td><td>2018-10-30</td><td><a href="/miui/libra/stable/V10.1.1.0.NXKCNFI/">Download</a></td></tr>
+<tr><td>Mi 4c China</td><td>Weekly</td><td>Fastboot</td><td>8.9.13</td><td>7.0</td><td>1.4 GB</td><td>2018-10-14</td><td><a href="/miui/libra/weekly/8.9.13/">Download</a></td></tr>
+<tr><td>Mi 4c China</td><td>Weekly</td><td>Recovery</td><td>8.9.13</td><td>7.0</td><td>1.2 GB</td><td>2018-10-14</td><td><a href="/miui/libra/weekly/8.9.13/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

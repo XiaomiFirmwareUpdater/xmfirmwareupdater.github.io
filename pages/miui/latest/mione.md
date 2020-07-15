@@ -26,11 +26,18 @@ permalink: /miui/mione/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('mione')</script>
+    <tbody>
+    <tr><td>MI 1S China</td><td>Stable</td><td>Fastboot</td><td>JMACNBL18.0</td><td>4.1</td><td>280.0 MB</td><td>2015-04-12</td><td><a href="/miui/mione/stable/JMACNBL18.0/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Stable</td><td>Recovery</td><td>JMACNBL18.0</td><td>4.1</td><td>197.2 MB</td><td>2015-04-12</td><td><a href="/miui/mione/stable/JMACNBL18.0/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Weekly</td><td>Fastboot</td><td>4.12.5</td><td>4.1</td><td>280.0 MB</td><td>2014-12-05</td><td><a href="/miui/mione/weekly/4.12.5/">Download</a></td></tr>
+<tr><td>MI 1S China</td><td>Weekly</td><td>Recovery</td><td>4.11.21</td><td>4.1</td><td>187.1 MB</td><td>2015-02-26</td><td><a href="/miui/mione/weekly/4.11.21/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

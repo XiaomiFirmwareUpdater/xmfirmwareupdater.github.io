@@ -22,16 +22,23 @@ permalink: /archive/miui/monet/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('monet')</script>
+    <tbody>
+    <tr><td>Mi 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJIMIXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-29</td><td><a href="/miui/monet/stable/V11.0.4.0.QJIMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QJIMIXM</td><td>10.0</td><td>4.2 GB</td><td>2020-06-19</td><td><a href="/miui/monet/stable/V11.0.4.0.QJIMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.11.0.QJIEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-24</td><td><a href="/miui/monet/stable/V11.0.11.0.QJIEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.11.0.QJIEUXM</td><td>10.0</td><td>4.3 GB</td><td>2020-06-12</td><td><a href="/miui/monet/stable/V11.0.11.0.QJIEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.QJIEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-18</td><td><a href="/miui/monet/stable/V11.0.10.0.QJIEUXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

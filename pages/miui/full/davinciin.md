@@ -22,16 +22,35 @@ permalink: /archive/miui/davinciin/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('davinciin')</script>
+    <tbody>
+    <tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFJINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-03</td><td><a href="/miui/davinciin/stable/V12.0.2.0.QFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFJINXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-01</td><td><a href="/miui/davinciin/stable/V12.0.2.0.QFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QFJINXM</td><td>10.0</td><td>2.3 GB</td><td>2020-06-24</td><td><a href="/miui/davinciin/stable/V11.0.4.0.QFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QFJINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-06-24</td><td><a href="/miui/davinciin/stable/V12.0.1.0.QFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QFJINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-04-13</td><td><a href="/miui/davinciin/stable/V11.0.3.0.QFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QFJINXM</td><td>10.0</td><td>2.8 GB</td><td>2020-04-06</td><td><a href="/miui/davinciin/stable/V11.0.3.0.QFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QFJINXM</td><td>10.0</td><td>2.3 GB</td><td>2020-02-20</td><td><a href="/miui/davinciin/stable/V11.0.2.0.QFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QFJINXM</td><td>10.0</td><td>2.9 GB</td><td>2020-02-13</td><td><a href="/miui/davinciin/stable/V11.0.2.0.QFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QFJINXM</td><td>10.0</td><td>2.3 GB</td><td>2020-01-02</td><td><a href="/miui/davinciin/stable/V11.0.1.0.QFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PFJINXM</td><td>9.0</td><td>2.4 GB</td><td>2019-11-27</td><td><a href="/miui/davinciin/stable/V11.0.3.0.PFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PFJINXM</td><td>9.0</td><td>2.4 GB</td><td>2019-10-18</td><td><a href="/miui/davinciin/stable/V11.0.2.0.PFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V10.3.8.0.PFJINXM</td><td>9.0</td><td>2.3 GB</td><td>2019-08-23</td><td><a href="/miui/davinciin/stable/V10.3.8.0.PFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Fastboot</td><td>V10.3.8.0.PFJINXM</td><td>9.0</td><td>2.9 GB</td><td>2019-08-16</td><td><a href="/miui/davinciin/stable/V10.3.8.0.PFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V10.3.6.0.PFJINXM</td><td>9.0</td><td>2.3 GB</td><td>2019-07-18</td><td><a href="/miui/davinciin/stable/V10.3.6.0.PFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Fastboot</td><td>V10.3.6.0.PFJINXM</td><td>9.0</td><td>2.8 GB</td><td>2019-07-12</td><td><a href="/miui/davinciin/stable/V10.3.6.0.PFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PFJINXM</td><td>9.0</td><td>2.3 GB</td><td>2019-06-26</td><td><a href="/miui/davinciin/stable/V10.3.3.0.PFJINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 India</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PFJINXM</td><td>9.0</td><td>2.8 GB</td><td>2019-06-21</td><td><a href="/miui/davinciin/stable/V10.3.3.0.PFJINXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

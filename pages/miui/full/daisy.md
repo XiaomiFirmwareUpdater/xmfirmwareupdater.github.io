@@ -22,16 +22,52 @@ permalink: /archive/miui/daisy/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('daisy')</script>
+    <tbody>
+    <tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QDLMIXM</td><td>10.0</td><td>1.2 GB</td><td>2020-06-23</td><td><a href="/miui/daisy/stable/V11.0.7.0.QDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.QDLMIXM</td><td>10.0</td><td>1.5 GB</td><td>2020-06-17</td><td><a href="/miui/daisy/stable/V11.0.7.0.QDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QDLMIXM</td><td>10.0</td><td>1.2 GB</td><td>2020-05-26</td><td><a href="/miui/daisy/stable/V11.0.5.0.QDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QDLMIXM</td><td>10.0</td><td>1.2 GB</td><td>2020-04-14</td><td><a href="/miui/daisy/stable/V11.0.4.0.QDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.20.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2020-04-03</td><td><a href="/miui/daisy/stable/V10.0.20.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QDLMIXM</td><td>10.0</td><td>1.1 GB</td><td>2020-03-09</td><td><a href="/miui/daisy/stable/V11.0.2.0.QDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.18.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2020-01-17</td><td><a href="/miui/daisy/stable/V10.0.18.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.17.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-12-13</td><td><a href="/miui/daisy/stable/V10.0.17.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.16.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-11-13</td><td><a href="/miui/daisy/stable/V10.0.16.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.15.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-10-18</td><td><a href="/miui/daisy/stable/V10.0.15.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.14.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-10-15</td><td><a href="/miui/daisy/stable/V10.0.14.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.13.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-08-20</td><td><a href="/miui/daisy/stable/V10.0.13.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.13.0.PDLMIXM</td><td>9.0</td><td>1.7 GB</td><td>2019-08-13</td><td><a href="/miui/daisy/stable/V10.0.13.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.10.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-06-19</td><td><a href="/miui/daisy/stable/V10.0.10.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.10.0.PDLMIXM</td><td>9.0</td><td>1.7 GB</td><td>2019-06-13</td><td><a href="/miui/daisy/stable/V10.0.10.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.9.0.PDLMIXM</td><td>9.0</td><td>1.7 GB</td><td>2019-05-31</td><td><a href="/miui/daisy/stable/V10.0.9.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.9.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-05-20</td><td><a href="/miui/daisy/stable/V10.0.9.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.3.0.PDLMIXM</td><td>9.0</td><td>1.7 GB</td><td>2019-05-04</td><td><a href="/miui/daisy/stable/V10.0.3.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.3.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-01-18</td><td><a href="/miui/daisy/stable/V10.0.3.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.8.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-04-26</td><td><a href="/miui/daisy/stable/V10.0.8.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.7.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-03-28</td><td><a href="/miui/daisy/stable/V10.0.7.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.7.0.PDLMIXM</td><td>9.0</td><td>1.7 GB</td><td>2019-03-18</td><td><a href="/miui/daisy/stable/V10.0.7.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.4.0.PDLMIXM</td><td>9.0</td><td>1.1 GB</td><td>2019-02-19</td><td><a href="/miui/daisy/stable/V10.0.4.0.PDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V10.0.2.0.PDLMIFJ</td><td>9.0</td><td>1.1 GB</td><td>2019-01-02</td><td><a href="/miui/daisy/stable/V10.0.2.0.PDLMIFJ/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.2.0.PDLMIFJ</td><td>9.0</td><td>1.7 GB</td><td>2018-12-21</td><td><a href="/miui/daisy/stable/V10.0.2.0.PDLMIFJ/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V9.6.11.0.ODLMIFF</td><td>8.1</td><td>1.0 GB</td><td>2018-11-28</td><td><a href="/miui/daisy/stable/V9.6.11.0.ODLMIFF/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.11.0.ODLMIFF</td><td>8.1</td><td>1.7 GB</td><td>2018-11-12</td><td><a href="/miui/daisy/stable/V9.6.11.0.ODLMIFF/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V9.6.10.0.ODLMIFF</td><td>8.1</td><td>1.0 GB</td><td>2018-11-08</td><td><a href="/miui/daisy/stable/V9.6.10.0.ODLMIFF/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.10.0.ODLMIFF</td><td>8.1</td><td>1.7 GB</td><td>2018-10-30</td><td><a href="/miui/daisy/stable/V9.6.10.0.ODLMIFF/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V9.6.9.0.ODLMIFF</td><td>8.1</td><td>1.0 GB</td><td>2018-10-17</td><td><a href="/miui/daisy/stable/V9.6.9.0.ODLMIFF/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.9.0.ODLMIFF</td><td>8.1</td><td>1.7 GB</td><td>2018-10-10</td><td><a href="/miui/daisy/stable/V9.6.9.0.ODLMIFF/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V9.6.6.0.ODLMIFF</td><td>8.1</td><td>1.2 GB</td><td>2018-08-24</td><td><a href="/miui/daisy/stable/V9.6.6.0.ODLMIFF/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.6.0.ODLMIFF</td><td>8.1</td><td>1.6 GB</td><td>2018-08-16</td><td><a href="/miui/daisy/stable/V9.6.6.0.ODLMIFF/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.4.0.ODLMIFF</td><td>8.1</td><td>1.6 GB</td><td>2018-07-24</td><td><a href="/miui/daisy/stable/V9.6.4.0.ODLMIFF/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

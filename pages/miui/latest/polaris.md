@@ -26,11 +26,24 @@ permalink: /miui/polaris/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('polaris')</script>
+    <tbody>
+    <tr><td>Mi MIX 2S China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QDGCNXM</td><td>10.0</td><td>2.7 GB</td><td>2020-03-24</td><td><a href="/miui/polaris/stable/V11.0.3.0.QDGCNXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2S China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QDGCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-04-09</td><td><a href="/miui/polaris/stable/V11.0.3.0.QDGCNXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2S China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.8 GB</td><td>2019-09-04</td><td><a href="/miui/polaris/weekly/9.9.3/">Download</a></td></tr>
+<tr><td>Mi MIX 2S China</td><td>Weekly</td><td>Recovery</td><td>20.7.8</td><td>10.0</td><td>2.3 GB</td><td>2020-07-08</td><td><a href="/miui/polaris/weekly/20.7.8/">Download</a></td></tr>
+<tr><td>Mi MIX 2S Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QDGMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-05-28</td><td><a href="/miui/polaris/stable/V11.0.5.0.QDGMIXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2S Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QDGMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-06-03</td><td><a href="/miui/polaris/stable/V11.0.5.0.QDGMIXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2S Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.7 GB</td><td>2019-06-28</td><td><a href="/miui/polaris/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>Mi MIX 2S Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>2.0 GB</td><td>2019-06-28</td><td><a href="/miui/polaris/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>Mi MIX 2S Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QDGRUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-05-27</td><td><a href="/miui/polaris/stable/V11.0.2.0.QDGRUXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2S Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QDGRUXM</td><td>10.0</td><td>2.1 GB</td><td>2020-06-04</td><td><a href="/miui/polaris/stable/V11.0.2.0.QDGRUXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

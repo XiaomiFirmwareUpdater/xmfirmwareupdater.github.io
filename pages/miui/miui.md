@@ -5,7 +5,7 @@ permalink: /miui/
 ---
 
 ### Latest MIUI Official ROMs for all devices
-##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/) and if you're looking for MIUI 11 China Beta releases check [Here](/miui11/).
+##### This page shows the latest downloads only. If you're looking for MIUI 12 China Beta releases check [Here](/miui12/).
 
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware
 Updater.
@@ -29,8 +29,9 @@ Updater.
                 <th data-ref="type">Type</th>
                 <th data-ref="miui">MIUI</th>
                 <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
                 <th data-ref="size">Size</th>
+                <th data-ref="date">Date</th>
+                <th data-ref="link">Link</th>
             </tr>
         </thead>
         <script>loadLatestMiui()</script>

@@ -22,16 +22,30 @@ permalink: /archive/miui/begoniain/
     <thead class="thead-dark">
         <tr>
             <th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>
+            <th data-ref="branch">Branch</th>
+            <th data-ref="type">Type</th>
+            <th data-ref="miui">MIUI</th>
+            <th data-ref="android">Android</th>
+            <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiArchive('begoniain')</script>
+    <tbody>
+    <tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QGGINXM</td><td>10.0</td><td>2.1 GB</td><td>2020-06-21</td><td><a href="/miui/begoniain/stable/V11.0.4.0.QGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QGGINXM</td><td>10.0</td><td>3.1 GB</td><td>2020-06-16</td><td><a href="/miui/begoniain/stable/V11.0.4.0.QGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QGGINXM</td><td>10.0</td><td>2.1 GB</td><td>2020-05-28</td><td><a href="/miui/begoniain/stable/V11.0.3.0.QGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QGGINXM</td><td>10.0</td><td>2.1 GB</td><td>2020-03-13</td><td><a href="/miui/begoniain/stable/V11.0.2.0.QGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.PGGINXM</td><td>9.0</td><td>2.0 GB</td><td>2020-01-06</td><td><a href="/miui/begoniain/stable/V11.0.4.0.PGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.PGGINXM</td><td>9.0</td><td>2.9 GB</td><td>2019-12-27</td><td><a href="/miui/begoniain/stable/V11.0.4.0.PGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PGGINXM</td><td>9.0</td><td>2.0 GB</td><td>2019-12-13</td><td><a href="/miui/begoniain/stable/V11.0.3.0.PGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PGGINXM</td><td>9.0</td><td>2.9 GB</td><td>2019-12-10</td><td><a href="/miui/begoniain/stable/V11.0.3.0.PGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PGGINXM</td><td>9.0</td><td>2.0 GB</td><td>2019-11-14</td><td><a href="/miui/begoniain/stable/V11.0.1.0.PGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Recovery</td><td>V10.4.4.0.PGGINXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-29</td><td><a href="/miui/begoniain/stable/V10.4.4.0.PGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Recovery</td><td>V10.4.3.0.PGGINXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-18</td><td><a href="/miui/begoniain/stable/V10.4.3.0.PGGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Fastboot</td><td>V10.4.3.0.PGGINXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-16</td><td><a href="/miui/begoniain/stable/V10.4.3.0.PGGINXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

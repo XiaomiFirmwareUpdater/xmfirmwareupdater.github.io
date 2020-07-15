@@ -26,11 +26,22 @@ permalink: /miui/kenzo/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('kenzo')</script>
+    <tbody>
+    <tr><td>Redmi Note 3 Pro China</td><td>Stable</td><td>Fastboot</td><td>V10.2.1.0.MHOCNXM</td><td>6.0</td><td>1.8 GB</td><td>2019-01-16</td><td><a href="/miui/kenzo/stable/V10.2.1.0.MHOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 3 Pro China</td><td>Stable</td><td>Recovery</td><td>V10.2.1.0.MHOCNXM</td><td>6.0</td><td>1.5 GB</td><td>2019-01-16</td><td><a href="/miui/kenzo/stable/V10.2.1.0.MHOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 3 Pro China</td><td>Weekly</td><td>Fastboot</td><td>8.11.22</td><td>6.0</td><td>1.8 GB</td><td>2018-11-23</td><td><a href="/miui/kenzo/weekly/8.11.22/">Download</a></td></tr>
+<tr><td>Redmi Note 3 Pro China</td><td>Weekly</td><td>Recovery</td><td>8.11.22</td><td>6.0</td><td>1.4 GB</td><td>2018-11-23</td><td><a href="/miui/kenzo/weekly/8.11.22/">Download</a></td></tr>
+<tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>8.11.22</td><td>6.0</td><td>1.6 GB</td><td>2018-11-23</td><td><a href="/miui/kenzo/weekly/8.11.22/">Download</a></td></tr>
+<tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>8.11.22</td><td>6.0</td><td>1.5 GB</td><td>2018-11-23</td><td><a href="/miui/kenzo/weekly/8.11.22/">Download</a></td></tr>
+<tr><td>Redmi Note 3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V10.2.1.0.MHOMIXM</td><td>6.0</td><td>1.5 GB</td><td>2019-01-25</td><td><a href="/miui/kenzo/stable/V10.2.1.0.MHOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V10.2.1.0.MHOMIXM</td><td>6.0</td><td>1.3 GB</td><td>2019-01-25</td><td><a href="/miui/kenzo/stable/V10.2.1.0.MHOMIXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

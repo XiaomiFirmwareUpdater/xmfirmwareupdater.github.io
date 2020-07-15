@@ -26,11 +26,22 @@ permalink: /miui/ido/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('ido')</script>
+    <tbody>
+    <tr><td>Redmi 3 China</td><td>Stable</td><td>Fastboot</td><td>V9.6.1.0.LAICNFD</td><td>5.1</td><td>1.4 GB</td><td>2018-09-08</td><td><a href="/miui/ido/stable/V9.6.1.0.LAICNFD/">Download</a></td></tr>
+<tr><td>Redmi 3 China</td><td>Stable</td><td>Recovery</td><td>V9.6.1.0.LAICNFD</td><td>5.1</td><td>1.2 GB</td><td>2018-09-08</td><td><a href="/miui/ido/stable/V9.6.1.0.LAICNFD/">Download</a></td></tr>
+<tr><td>Redmi 3 China</td><td>Weekly</td><td>Fastboot</td><td>8.4.26</td><td>5.1</td><td>1.5 GB</td><td>2018-10-14</td><td><a href="/miui/ido/weekly/8.4.26/">Download</a></td></tr>
+<tr><td>Redmi 3 China</td><td>Weekly</td><td>Recovery</td><td>8.4.26</td><td>5.1</td><td>1.2 GB</td><td>2018-10-14</td><td><a href="/miui/ido/weekly/8.4.26/">Download</a></td></tr>
+<tr><td>Redmi 3/3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.2.0.LAIMIFD</td><td>5.1</td><td>1.3 GB</td><td>2018-09-08</td><td><a href="/miui/ido/stable/V9.6.2.0.LAIMIFD/">Download</a></td></tr>
+<tr><td>Redmi 3/3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V9.6.2.0.LAIMIFD</td><td>5.1</td><td>1.0 GB</td><td>2018-09-08</td><td><a href="/miui/ido/stable/V9.6.2.0.LAIMIFD/">Download</a></td></tr>
+<tr><td>Redmi 3/3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>8.4.19</td><td>5.1</td><td>1.3 GB</td><td>2018-04-19</td><td><a href="/miui/ido/weekly/8.4.19/">Download</a></td></tr>
+<tr><td>Redmi 3/3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>8.4.19</td><td>5.1</td><td>1.0 GB</td><td>2018-04-19</td><td><a href="/miui/ido/weekly/8.4.19/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

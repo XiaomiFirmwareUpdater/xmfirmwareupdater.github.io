@@ -26,11 +26,18 @@ permalink: /miui/kate/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('kate')</script>
+    <tbody>
+    <tr><td>Redmi Note 3 SE Global</td><td>Stable</td><td>Fastboot</td><td>V10.2.1.0.MHRMIXM</td><td>6.0</td><td>1.8 GB</td><td>2019-01-25</td><td><a href="/miui/kate/stable/V10.2.1.0.MHRMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 3 SE Global</td><td>Stable</td><td>Recovery</td><td>V10.2.1.0.MHRMIXM</td><td>6.0</td><td>1.6 GB</td><td>2019-01-25</td><td><a href="/miui/kate/stable/V10.2.1.0.MHRMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Fastboot</td><td>9.3.28</td><td>6.0</td><td>1.5 GB</td><td>2019-03-29</td><td><a href="/miui/kate/weekly/9.3.28/">Download</a></td></tr>
+<tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Recovery</td><td>9.3.28</td><td>6.0</td><td>1.2 GB</td><td>2019-03-29</td><td><a href="/miui/kate/weekly/9.3.28/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

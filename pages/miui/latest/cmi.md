@@ -26,11 +26,21 @@ permalink: /miui/cmi/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('cmi')</script>
+    <tbody>
+    <tr><td>Mi 10 Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJACNXM</td><td>10.0</td><td>4.4 GB</td><td>2020-06-04</td><td><a href="/miui/cmi/stable/V12.0.1.0.QJACNXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJACNXM</td><td>10.0</td><td>3.4 GB</td><td>2020-06-11</td><td><a href="/miui/cmi/stable/V12.0.1.0.QJACNXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.2</td><td>11.0</td><td>3.7 GB</td><td>2020-07-02</td><td><a href="/miui/cmi/weekly/20.7.2/">Download</a></td></tr>
+<tr><td>Mi 10 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.12.0.QJAEUXM</td><td>10.0</td><td>4.3 GB</td><td>2020-06-12</td><td><a href="/miui/cmi/stable/V11.0.12.0.QJAEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.12.0.QJAEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-24</td><td><a href="/miui/cmi/stable/V11.0.12.0.QJAEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QJAMIXM</td><td>10.0</td><td>4.2 GB</td><td>2020-05-27</td><td><a href="/miui/cmi/stable/V11.0.4.0.QJAMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJAMIXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-12</td><td><a href="/miui/cmi/stable/V11.0.4.0.QJAMIXM/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

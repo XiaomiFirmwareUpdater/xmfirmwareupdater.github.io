@@ -26,11 +26,30 @@ permalink: /miui/cancro/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('cancro')</script>
+    <tbody>
+    <tr><td>MI 3 / Mi 4 China</td><td>Stable</td><td>Fastboot</td><td>V10.1.1.0.MXDCNFI</td><td>6.0</td><td>1.3 GB</td><td>2018-11-07</td><td><a href="/miui/cancro/stable/V10.1.1.0.MXDCNFI/">Download</a></td></tr>
+<tr><td>MI 3 / Mi 4 China</td><td>Stable</td><td>Recovery</td><td>V10.1.1.0.MXDCNFI</td><td>6.0</td><td>791.2 MB</td><td>2018-11-07</td><td><a href="/miui/cancro/stable/V10.1.1.0.MXDCNFI/">Download</a></td></tr>
+<tr><td>MI 3 / Mi 4 China</td><td>Weekly</td><td>Fastboot</td><td>8.9.13</td><td>6.0</td><td>1.4 GB</td><td>2018-10-14</td><td><a href="/miui/cancro/weekly/8.9.13/">Download</a></td></tr>
+<tr><td>MI 3 / Mi 4 China</td><td>Weekly</td><td>Recovery</td><td>8.9.13</td><td>6.0</td><td>855.1 MB</td><td>2018-10-14</td><td><a href="/miui/cancro/weekly/8.9.13/">Download</a></td></tr>
+<tr><td>MI 4 LTE CT China</td><td>Weekly</td><td>Fastboot</td><td>8.9.13</td><td>6.0</td><td>1.3 GB</td><td>2018-10-14</td><td><a href="/miui/cancro/weekly/8.9.13/">Download</a></td></tr>
+<tr><td>MI 4 LTE CT China</td><td>Weekly</td><td>Recovery</td><td>8.9.13</td><td>6.0</td><td>783.5 MB</td><td>2018-10-14</td><td><a href="/miui/cancro/weekly/8.9.13/">Download</a></td></tr>
+<tr><td>MI 3 / Mi 4 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.7.0.MXDMIFA</td><td>6.0</td><td>1.3 GB</td><td>2018-08-30</td><td><a href="/miui/cancro/stable/V9.5.7.0.MXDMIFA/">Download</a></td></tr>
+<tr><td>MI 3 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.7.0.MXDMIFA</td><td>6.0</td><td>1.3 GB</td><td>2018-08-30</td><td><a href="/miui/cancro/stable/V9.5.7.0.MXDMIFA/">Download</a></td></tr>
+<tr><td>MI 3 / Mi 4 Global</td><td>Stable</td><td>Recovery</td><td>V9.5.7.0.MXDMIFA</td><td>6.0</td><td>850.6 MB</td><td>2018-08-30</td><td><a href="/miui/cancro/stable/V9.5.7.0.MXDMIFA/">Download</a></td></tr>
+<tr><td>MI 3 Global</td><td>Stable</td><td>Recovery</td><td>V9.5.7.0.MXDMIFA</td><td>6.0</td><td>850.6 MB</td><td>2018-08-30</td><td><a href="/miui/cancro/stable/V9.5.7.0.MXDMIFA/">Download</a></td></tr>
+<tr><td>MI 3 / Mi 4 Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>6.0</td><td>1.3 GB</td><td>2018-10-14</td><td><a href="/miui/cancro/weekly/8.3.1/">Download</a></td></tr>
+<tr><td>MI 3 Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>6.0</td><td>1.3 GB</td><td>2018-10-14</td><td><a href="/miui/cancro/weekly/8.3.1/">Download</a></td></tr>
+<tr><td>MI 3 / Mi 4 Global</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>6.0</td><td>855.8 MB</td><td>2018-10-14</td><td><a href="/miui/cancro/weekly/8.3.1/">Download</a></td></tr>
+<tr><td>MI 3 Global</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>6.0</td><td>855.8 MB</td><td>2018-10-14</td><td><a href="/miui/cancro/weekly/8.3.1/">Download</a></td></tr>
+<tr><td>MI 4 LTE CT China</td><td>Stable</td><td>Fastboot</td><td>V10.1.1.0.MXGCNFI</td><td>6.0</td><td>1.3 GB</td><td>2018-01-10</td><td><a href="/miui/cancro/stable/V10.1.1.0.MXGCNFI/">Download</a></td></tr>
+<tr><td>MI 4 LTE CT China</td><td>Stable</td><td>Recovery</td><td>V10.1.1.0.MXGCNFI</td><td>6.0</td><td>783.2 MB</td><td>2018-10-10</td><td><a href="/miui/cancro/stable/V10.1.1.0.MXGCNFI/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

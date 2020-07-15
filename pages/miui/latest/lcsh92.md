@@ -26,11 +26,24 @@ permalink: /miui/lcsh92/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('lcsh92')</script>
+    <tbody>
+    <tr><td>Redmi Note 3G China</td><td>Stable</td><td>Fastboot</td><td>V9.2.2.0.KHDCNEK</td><td>4.4</td><td>926.9 MB</td><td>2018-01-02</td><td><a href="/miui/lcsh92/stable/V9.2.2.0.KHDCNEK/">Download</a></td></tr>
+<tr><td>Redmi Note 3G China</td><td>Stable</td><td>Recovery</td><td>V7.5.1.0.KHDCNDE</td><td>4.4</td><td>517.8 MB</td><td>2018-08-03</td><td><a href="/miui/lcsh92/stable/V7.5.1.0.KHDCNDE/">Download</a></td></tr>
+<tr><td>Redmi Note 3G China</td><td>Weekly</td><td>Recovery</td><td>7.11.16</td><td>4.4</td><td>497.7 MB</td><td>2017-11-15</td><td><a href="/miui/lcsh92/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Redmi Note 1 TD China</td><td>Weekly</td><td>Recovery</td><td>7.11.16</td><td>4.4</td><td>496.2 MB</td><td>2017-11-15</td><td><a href="/miui/lcsh92/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Redmi Note 3G Global</td><td>Stable</td><td>Fastboot</td><td>V7.2.3.0.KHDMIDA</td><td>4.4</td><td>875.3 MB</td><td>2016-01-29</td><td><a href="/miui/lcsh92/stable/V7.2.3.0.KHDMIDA/">Download</a></td></tr>
+<tr><td>Redmi Note 3G Global</td><td>Weekly</td><td>Fastboot</td><td>6.10.13</td><td>4.4</td><td>1.0 GB</td><td>2016-08-05</td><td><a href="/miui/lcsh92/weekly/6.10.13/">Download</a></td></tr>
+<tr><td>Redmi Note 3G Global</td><td>Stable</td><td>Recovery</td><td>V7.5.2.0.KHDMIDE</td><td>4.4</td><td>722.7 MB</td><td>2018-08-03</td><td><a href="/miui/lcsh92/stable/V7.5.2.0.KHDMIDE/">Download</a></td></tr>
+<tr><td>Redmi Note 3G Global</td><td>Weekly</td><td>Recovery</td><td>6.10.20</td><td>4.4</td><td>794.2 MB</td><td>2016-10-19</td><td><a href="/miui/lcsh92/weekly/6.10.20/">Download</a></td></tr>
+<tr><td>Redmi Note 1 TD China</td><td>Stable</td><td>Fastboot</td><td>V9.2.2.0.KHECNEK</td><td>4.4</td><td>924.8 MB</td><td>2018-01-02</td><td><a href="/miui/lcsh92/stable/V9.2.2.0.KHECNEK/">Download</a></td></tr>
+<tr><td>Redmi Note 1 TD China</td><td>Stable</td><td>Recovery</td><td>V7.5.1.0.KHECNDE</td><td>4.4</td><td>516.3 MB</td><td>2018-08-03</td><td><a href="/miui/lcsh92/stable/V7.5.1.0.KHECNDE/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

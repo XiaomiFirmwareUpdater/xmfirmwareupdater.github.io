@@ -26,11 +26,22 @@ permalink: /miui/dior/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('dior')</script>
+    <tbody>
+    <tr><td>Redmi Note 4G China</td><td>Stable</td><td>Fastboot</td><td>V9.2.4.0.KHICNEK</td><td>4.4</td><td>923.8 MB</td><td>2018-09-07</td><td><a href="/miui/dior/stable/V9.2.4.0.KHICNEK/">Download</a></td></tr>
+<tr><td>Redmi Note 4G China</td><td>Stable</td><td>Recovery</td><td>V9.2.4.0.KHICNEK</td><td>4.4</td><td>515.2 MB</td><td>2018-09-07</td><td><a href="/miui/dior/stable/V9.2.4.0.KHICNEK/">Download</a></td></tr>
+<tr><td>Redmi Note 4G China</td><td>Weekly</td><td>Fastboot</td><td>7.11.16</td><td>4.4</td><td>947.9 MB</td><td>2018-09-07</td><td><a href="/miui/dior/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Redmi Note 4G China</td><td>Weekly</td><td>Recovery</td><td>7.11.16</td><td>4.4</td><td>517.5 MB</td><td>2018-09-07</td><td><a href="/miui/dior/weekly/7.11.16/">Download</a></td></tr>
+<tr><td>Redmi Note 4G Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.3.0.KHIMIEK</td><td>4.4</td><td>931.1 MB</td><td>2018-09-07</td><td><a href="/miui/dior/stable/V9.2.3.0.KHIMIEK/">Download</a></td></tr>
+<tr><td>Redmi Note 4G Global</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.KHIMIEK</td><td>4.4</td><td>537.2 MB</td><td>2018-09-07</td><td><a href="/miui/dior/stable/V9.2.3.0.KHIMIEK/">Download</a></td></tr>
+<tr><td>Redmi Note 4G Global</td><td>Weekly</td><td>Fastboot</td><td>7.9.22</td><td>4.4</td><td>922.7 MB</td><td>2018-09-09</td><td><a href="/miui/dior/weekly/7.9.22/">Download</a></td></tr>
+<tr><td>Redmi Note 4G Global</td><td>Weekly</td><td>Recovery</td><td>7.9.22</td><td>4.4</td><td>532.7 MB</td><td>2018-09-09</td><td><a href="/miui/dior/weekly/7.9.22/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-

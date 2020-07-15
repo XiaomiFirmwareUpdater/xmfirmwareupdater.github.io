@@ -26,11 +26,22 @@ permalink: /miui/scorpio/
             <th data-ref="type">Type</th>
             <th data-ref="miui">MIUI</th>
             <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
             <th data-ref="size">Size</th>
+            <th data-ref="size">Date</th>
+            <th data-ref="link">Link</th>
         </tr>
     </thead>
-    <script>loadMiuiDownloads('scorpio')</script>
+    <tbody>
+    <tr><td>Mi Note 2 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.OADCNXM</td><td>8.0</td><td>2.1 GB</td><td>2019-12-04</td><td><a href="/miui/scorpio/stable/V11.0.2.0.OADCNXM/">Download</a></td></tr>
+<tr><td>Mi Note 2 China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.OADCNXM</td><td>8.0</td><td>2.0 GB</td><td>2019-12-04</td><td><a href="/miui/scorpio/stable/V11.0.2.0.OADCNXM/">Download</a></td></tr>
+<tr><td>Mi Note 2 China</td><td>Weekly</td><td>Fastboot</td><td>9.8.29</td><td>8.0</td><td>2.1 GB</td><td>2019-08-29</td><td><a href="/miui/scorpio/weekly/9.8.29/">Download</a></td></tr>
+<tr><td>Mi Note 2 China</td><td>Weekly</td><td>Recovery</td><td>9.10.10</td><td>8.0</td><td>1.8 GB</td><td>2019-10-10</td><td><a href="/miui/scorpio/weekly/9.10.10/">Download</a></td></tr>
+<tr><td>Mi Note 2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.OADMIXM</td><td>8.0</td><td>1.8 GB</td><td>2019-11-13</td><td><a href="/miui/scorpio/stable/V11.0.2.0.OADMIXM/">Download</a></td></tr>
+<tr><td>Mi Note 2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.OADMIXM</td><td>8.0</td><td>1.7 GB</td><td>2019-11-13</td><td><a href="/miui/scorpio/stable/V11.0.2.0.OADMIXM/">Download</a></td></tr>
+<tr><td>Mi Note 2 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>8.0</td><td>1.8 GB</td><td>2019-06-28</td><td><a href="/miui/scorpio/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>Mi Note 2 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>8.0</td><td>1.7 GB</td><td>2019-06-28</td><td><a href="/miui/scorpio/weekly/9.6.27/">Download</a></td></tr>
+
+    </tbody>
+    <script>loadMiuiDownloads()</script>
 </table>
 </div>
-
