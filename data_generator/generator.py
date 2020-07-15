@@ -554,13 +554,13 @@ def main():
     XFU data generate script
     """
     load_names()
-    # load_fw_devices()
-    # load_releases()
-    # generate_fw_md()
+    load_fw_devices()
+    load_releases()
+    generate_fw_md()
     load_miui_devices()
     generate_miui_md()
-    # load_vendor_devices()
-    # generate_rss()
+    load_vendor_devices()
+    generate_rss()
 
 
 if __name__ == '__main__':
