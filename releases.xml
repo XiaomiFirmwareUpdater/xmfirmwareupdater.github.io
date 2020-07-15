@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 15 Jul 2020 05:33:32 +0900</pubDate>
+  <pubDate>Wed, 15 Jul 2020 21:42:47 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9/Redmi Note 9 Turkey (merlin) - V11.0.2.0.QJOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Wed, 15 Jul 2020 21:42:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M2 Pro (gram) - V11.0.2.0.QJPINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gram</link>
+    <pubDate>Wed, 15 Jul 2020 21:41:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.0.1.0.QJKEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 7 Pro (violet) - 20.7.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
     <pubDate>Fri, 10 Jul 2020 13:11:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.7.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 10 Jul 2020 13:11:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 20.7.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 10 Jul 2020 13:10:59 +0900</pubDate>
   </item>
     </channel>
 </rss>

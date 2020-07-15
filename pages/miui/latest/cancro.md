@@ -1,7 +1,7 @@
 ---
-title: Mi 4/MI 4 LTE CT (cancro) MIUI Downloads
+title: Mi 4/MI 3/MI 4 LTE CT (cancro) MIUI Downloads
 layout: download
-name: Mi 4/MI 4 LTE CT
+name: Mi 4/MI 3/MI 4 LTE CT
 codename: cancro
 permalink: /miui/cancro/
 ---

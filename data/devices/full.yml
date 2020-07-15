@@ -12549,6 +12549,16 @@
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
 - branch: stable
+  date: '2020-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gram/releases/download/stable-15.07.2020/fw_gram_miui_GRAMINGlobal_V11.0.2.0.QJPINXM_76bdf5c25c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/gram/fw_gram_miui_GRAMINGlobal_V11.0.2.0.QJPINXM_76bdf5c25c_10.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V11.0.2.0.QJPINXM_76bdf5c25c_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJPINXM
+- branch: stable
   date: '2020-07-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-10.07.2020/fw_grus_miui_GRUS_20.7.9_1439da9adf_10.0.zip
@@ -22278,6 +22288,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-15.07.2020/fw_merlin_miui_MERLININGlobal_V11.0.2.0.QJOINXM_9d17b34add_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/merlin/fw_merlin_miui_MERLININGlobal_V11.0.2.0.QJOINXM_9d17b34add_10.0.zip
+  filename: fw_merlin_miui_MERLININGlobal_V11.0.2.0.QJOINXM_9d17b34add_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJOINXM
 - branch: stable
   date: '2020-07-01'
   downloads:
