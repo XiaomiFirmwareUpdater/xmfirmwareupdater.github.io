@@ -84,7 +84,10 @@ $(document).ready(async function () {
         region = 'Indonesia';
     }
     else if (device.includes('RUGlobal')) {
-        region = 'Russsia';
+        region = 'Russia';
+    }
+    else if (device.includes('TRGlobal')) {
+        region = 'Turkey';
     }
     else if (device.includes('Global')) {
         region = 'Global';

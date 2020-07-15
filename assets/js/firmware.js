@@ -160,504 +160,71 @@ function loadLatestFirmware() {
 };
 
 // Load miui latest downloads for a device
-function loadMiuiDownloads(device) {
+function loadMiuiDownloads() {
     $(document).ready(function () {
-        var downloads = new Array();
-        var codename = device;
-        fetchData();
-        function updateDownloads(data) {
-            data.forEach(function (item) {
-                if (item.codename.split('_')[0] == codename) {
-                    downloads.push(item);
-                }
-            });
-        }
-        function fetchData() {
-            var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/';
-            $.ajax({
-                url: '/data/miui_codenames.yml',
-                async: true,
-                converters: {
-                    'text yaml': function (result) {
-                        return jsyaml.load(result);
-                    }
-                },
-                dataType: 'yaml'
-            }).done(function (data) {
-                if (!(data.includes(device))) {
-                    url = url + 'EOL/';
-                }
-                $.when(
-                    $.ajax({
-                        url: url + 'stable_recovery/stable_recovery.yml',
-                        async: true,
-                        converters: {
-                            'text yaml': function (result) {
-                                return jsyaml.load(result);
-                            }
-                        },
-                        dataType: 'yaml'
-                    }),
-                    $.ajax({
-                        url: url + 'stable_fastboot/stable_fastboot.yml',
-                        async: true,
-                        converters: {
-                            'text yaml': function (result) {
-                                return jsyaml.load(result);
-                            }
-                        },
-                        dataType: 'yaml'
-                    }),
-                    $.ajax({
-                        url: url + 'weekly_recovery/weekly_recovery.yml',
-                        async: true,
-                        converters: {
-                            'text yaml': function (result) {
-                                return jsyaml.load(result);
-                            }
-                        },
-                        dataType: 'yaml'
-                    }),
-                    $.ajax({
-                        url: url + 'weekly_fastboot/weekly_fastboot.yml',
-                        async: true,
-                        converters: {
-                            'text yaml': function (result) {
-                                return jsyaml.load(result);
-                            }
-                        },
-                        dataType: 'yaml'
-                    })).done(function (stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot) {
-                        updateDownloads(stable_recovery[0]);
-                        updateDownloads(stable_fastboot[0]);
-                        updateDownloads(weekly_recovery[0]);
-                        updateDownloads(weekly_fastboot[0]);
-                        DrawTable(downloads);
-                    })
-            })
-        }
-
-        function DrawTable(downloads) {
-            $('#miui').DataTable({
-                data: downloads,
-                responsive: {
-                    details: false
-                },
-                "pageLength": 25,
-                "pagingType": "full_numbers",
-                "order": [[4, "desc"]],
-                columnDefs: [
-                    { type: 'file-size', targets: 6 }
-                ],
-                columns: [
-                    { data: 'device', className: "all" },
-                    {
-                        data: 'version', className: "min-tablet-p",
-                        "render": function (data) {
-                            var type = ''
-                            if (data.startsWith('V')) {
-                                type = 'Stable'
-                            }
-                            else {
-                                type = 'Weekly'
-                            }
-                            return type;
-                        }
-                    },
-                    {
-                        data: 'filename',
-                        className: "min-mobile-l",
-                        "render": function (data) {
-                            var type = ''
-                            if (data.endsWith('.zip')) {
-                                type = 'Recovery'
-                            }
-                            else {
-                                type = 'Fastboot'
-                            }
-                            return type;
-                        }
-                    },
-                    { data: 'version', className: "all" },
-                    { data: 'android', className: "min-mobile-p" },
-                    {
-                        data: 'download',
-                        className: "all",
-                        "render": function (data) {
-                            return '<a href="' + data + '" target="_blank">Download</a>';
-                        }
-                    },
-                    {
-                        data: 'size',
-                        className: "min-mobile-l",
-                        "render": function (data) {
-                            if (data.endsWith('G')) {
-                                return data.replace('G', ' GB');
-                            }
-                            else if (data.endsWith('M')) {
-                                return data.replace('M', ' MB');
-                            }
-                            else {
-                                return data;
-                            }
-                        }
-                    }
-                ]
-            });
-        };
+        $('#miui').DataTable({
+            responsive: {
+                details: false
+            },
+            "pageLength": 25,
+            "pagingType": "full_numbers",
+            "order": [[6, "desc"]],
+            columnDefs: [{ type: 'file-size', targets: 5 }],
+            columns: [
+                { data: 'device', className: "all" },
+                { data: 'branch', className: "min-tablet-p" },
+                { data: 'type', className: "min-mobile-l" },
+                { data: 'version', className: "all" },
+                { data: 'android', className: "min-mobile-p" },
+                { data: 'size', className: "min-mobile-l" },
+                { data: 'date', className: "min-mobile-l" },
+                { data: 'download', className: "all" }
+            ]
+        });
     })
 };
 
 // Load miui latest downloads for a device
 function loadLatestMiui() {
     $(document).ready(function () {
-        var downloads = new Array();
-        fetchData();
-        function updateDownloads(data) {
-            data.forEach(function (item) {
-                downloads.push(item);
-            });
-        }
-        function fetchData() {
-            var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/';
-            $.when(
-                $.ajax({
-                    url: url + 'stable_recovery/stable_recovery.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'stable_fastboot/stable_fastboot.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'weekly_recovery/weekly_recovery.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'weekly_fastboot/weekly_fastboot.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'EOL/stable_recovery/stable_recovery.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'EOL/stable_fastboot/stable_fastboot.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'EOL/weekly_recovery/weekly_recovery.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'EOL/weekly_fastboot/weekly_fastboot.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                })).done(function (stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot,
-                    eol_stable_recovery, eol_stable_fastboot, eol_weekly_recovery, eol_weekly_fastboot) {
-                    updateDownloads(stable_recovery[0]);
-                    updateDownloads(stable_fastboot[0]);
-                    updateDownloads(weekly_recovery[0]);
-                    updateDownloads(weekly_fastboot[0]);
-                    updateDownloads(eol_stable_recovery[0]);
-                    updateDownloads(eol_stable_fastboot[0]);
-                    updateDownloads(eol_weekly_recovery[0]);
-                    updateDownloads(eol_weekly_fastboot[0]);
-                    DrawTable(downloads);
-                })
-        }
-
-        function DrawTable(downloads) {
-            $('#miui').DataTable({
-                data: downloads,
-                responsive: {
-                    details: false
+        $('#miui').DataTable({
+            responsive: true,
+            responsive: {
+                details: false
+            },
+            "pageLength": 100,
+            "pagingType": "full_numbers",
+            "order": [[6, "desc"]],
+            "ajax": {
+                "type": "GET",
+                "url": 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/V3/data/latest.yml',
+                converters: {
+                    'text yaml': function (result) {
+                        let schema = jsyaml.Schema.create(jsyaml.CORE_SCHEMA, []);
+                        return jsyaml.safeLoad(result, { schema: schema });
+                    }
                 },
-                "pageLength": 100,
-                "pagingType": "full_numbers",
-                "order": [[4, "desc"]],
-                columnDefs: [
-                    { type: 'file-size', targets: 6 }
-                ],
-                columns: [
-                    { data: 'device', className: "all" },
-                    {
-                        data: 'version',
-                        className: "min-tablet-p",
-                        "render": function (data) {
-                            var type = ''
-                            if (data.startsWith('V')) {
-                                type = 'Stable'
-                            }
-                            else {
-                                type = 'Weekly'
-                            }
-                            return type;
-                        }
-                    },
-                    {
-                        data: 'filename',
-                        className: "min-mobile-l",
-                        "render": function (data) {
-                            var type = ''
-                            if (data.endsWith('.zip')) {
-                                type = 'Recovery'
-                            }
-                            else {
-                                type = 'Fastboot'
-                            }
-                            return type;
-                        }
-                    },
-                    { data: 'version', className: "all" },
-                    { data: 'android', className: "min-mobile-p" },
-                    {
-                        data: 'download',
-                        className: "all",
-                        "render": function (data) {
-                            return '<a href="' + data + '" target="_blank">Download</a>';
-                        }
-                    },
-                    {
-                        data: 'size',
-                        className: "min-mobile-l",
-                        "render": function (data) {
-                            if (data.endsWith('G')) {
-                                return data.replace('G', ' GB');
-                            }
-                            else if (data.endsWith('M')) {
-                                return data.replace('M', ' MB');
-                            }
-                            else {
-                                return data;
-                            }
-                        }
+                dataType: 'yaml',
+                "dataSrc": ""
+            },
+            columns: [
+                { data: 'name', className: "all" },
+                { data: 'branch', className: "min-tablet-p" },
+                { data: 'method', className: "min-mobile-l" },
+                { data: 'version', className: "all" },
+                { data: 'android', className: "min-mobile-p" },
+                { data: 'size', className: "min-mobile-l" },
+                { data: 'date', className: "min-mobile-l" },
+                {
+                    data: {},
+                    className: "all",
+                    "render": function (data) {
+                        return '<a href="/miui/' + data.codename.split('_')[0] + '/' + data.branch.toLowerCase() + '/' + data.version + '/">Download</a>';
                     }
-                ]
-            });
-        };
-    })
-};
-
-// Load miui archive downloads for a device
-function loadMiuiArchive(device) {
-    $(document).ready(function () {
-        var downloads = new Array();
-        var devices = new Array();
-        fetchData();
-        function updateDownloads(data) {
-            Object.entries(data).forEach(function (item) {
-                Object.entries(item[1]).forEach(function ([key, value]) {
-                    var full_codename = key;
-                    var codename = key.split('_')[0];
-                    var name = devices[codename];
-                    if (codename == device || device == "") {
-                        Object.entries(value).forEach(function ([rom, link]) {
-                            var version = rom;
-                            var download = link;
-                            var filename = download.split('/').slice(-1).join();
-                            if (filename.endsWith('.zip')) {
-                                var android = filename.split('_').slice(-1).join().split('.zip')[0];
-                            }
-                            else {
-                                var android = filename.match(/_[0-9]+\.[0-9]_/)[0].split('_')[1];
-                            }
-                            var region;
-                            if (full_codename.includes('eea_global')) {
-                                region = 'Europe';
-                            }
-                            else if (full_codename.includes('id_global')) {
-                                region = 'Indonesia';
-                            }
-                            else if (full_codename.includes('in_global')) {
-                                region = 'India';
-                            }
-                            else if (full_codename.includes('ru_global')) {
-                                region = 'Russia';
-                            }
-                            else if (full_codename.includes('global')) {
-                                region = 'Global';
-                            }
-                            else {
-                                region = 'China';
-                            }
-                            downloads.push({
-                                'name': name, 'codename': codename, 'filename': filename,
-                                'region': region, 'version': version, 'android': android,
-                                'download': download
-                            })
-                        })
-                    }
-                })
-            });
-        }
-        function fetchData() {
-            var url = 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/archive/';
-            $.when(
-                $.ajax({
-                    url: '/data/miui_devices.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'stable_recovery/stable_recovery.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'stable_fastboot/stable_fastboot.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'weekly_recovery/weekly_recovery.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                }),
-                $.ajax({
-                    url: url + 'weekly_fastboot/weekly_fastboot.yml',
-                    async: true,
-                    converters: {
-                        'text yaml': function (result) {
-                            return jsyaml.load(result);
-                        }
-                    },
-                    dataType: 'yaml'
-                })).done(function (names, stable_recovery, stable_fastboot, weekly_recovery, weekly_fastboot) {
-                    devices = names[0];
-                    updateDownloads(stable_recovery[0]);
-                    updateDownloads(stable_fastboot[0]);
-                    updateDownloads(weekly_recovery[0]);
-                    updateDownloads(weekly_fastboot[0]);
-                    DrawTable(downloads);
-                })
-        }
-
-        function DrawTable(downloads) {
-            $('#miui').DataTable({
-                data: downloads,
-                responsive: {
-                    details: false
-                },
-                "pageLength": 100,
-                "pagingType": "full_numbers",
-                "order": [[6, "desc"]],
-                columns: [
-                    {
-                        data: 'name',
-                        defaultContent: 'Device',
-                        className: "all"
-                    },
-                    { data: 'codename', className: "min-mobile-l" },
-                    {
-                        data: 'version',
-                        className: "min-tablet-p",
-                        "render": function (data) {
-                            var type = ''
-                            if (data.startsWith('V')) {
-                                type = 'Stable'
-                            }
-                            else {
-                                type = 'Weekly'
-                            }
-                            return type;
-                        }
-                    },
-                    {
-                        data: 'filename',
-                        className: "min-mobile-l",
-                        "render": function (data) {
-                            var type = ''
-                            if (data.endsWith('.zip')) {
-                                type = 'Recovery'
-                            }
-                            else {
-                                type = 'Fastboot'
-                            }
-                            return type;
-                        }
-                    },
-                    { data: 'region', className: "min-mobile-l" },
-                    { data: 'version', className: "all" },
-                    { data: 'android', className: "min-mobile-p" },
-                    {
-                        data: 'download',
-                        className: "all",
-                        "render": function (data) {
-                            return '<a href="' + data + '" target="_blank">Download</a>';
-                        }
-                    }
-                ]
-            });
-        };
-    })
+                }
+            ]
+        });
+    });
 };
 
 // Mi-Vendor-updater

@@ -5,11 +5,17 @@ from os import environ
 # import json
 import re
 import xml.etree.ElementTree as eT
+from pathlib import Path
+from string import Template
+
 import yaml
 from requests import get
 from humanize import naturalsize
 
 # Variables
+from database import close_db
+from database.database import get_device_latest, get_device_roms, get_incremental
+
 HEADER = {'Authorization': f'token {environ["GIT_OAUTH_TOKEN_XFU"]}'}
 VARIANTS = [['stable', 'Global'], ['stable', 'China'], ['weekly', 'Global'], ['weekly', 'China'],
             ['stable', 'Europe'], ['stable', 'India'], ['stable', 'Russia']]
@@ -20,6 +26,11 @@ M_DEVICES = {}
 V_DEVICES = {}
 
 NAMES = {}
+
+with open("update_page.template", 'r') as file:
+    miui_update_page_template = Template(file.read())
+with open("update.template", 'r') as file:
+    miui_update_template = Template(file.read())
 
 
 def get_data_from_github(url):
@@ -40,10 +51,9 @@ def load_names():
     Load devices names
     """
     data = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-                         'miui-updates-tracker/master/devices/names.yml').text, Loader=yaml.CLoader)
+                         'miui-updates-tracker/V3/data/devices.yml').text, Loader=yaml.CLoader)
     for codename, info in data.items():
-        name = info[0].replace(' China', '').replace(' EEA', '').replace(' India', '') \
-            .replace(' Russia', '').replace(' Global', '').replace(' Indonesia', '')
+        name = ' '.join(info[0].split(' ')[:-1])
         if '/' in name:
             name = name.split('/')[1].strip()
         codename = codename.split('_')[0]
@@ -239,20 +249,16 @@ def load_miui_devices():
     """
     load miui devices
     """
-    stable = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-                           'miui-updates-tracker/master/devices/sf.yml').content, Loader=yaml.CLoader)
-    eol = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-                        'miui-updates-tracker/master/EOL/sf.yml').content, Loader=yaml.CLoader)
-    devices = [*stable, *eol]
-    for codename in devices:
+    latest = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
+                           'miui-updates-tracker/V3/data/latest.yml').content, Loader=yaml.CLoader)
+    for item in latest:
+        codename = item['codename']
         if '_' in codename:
             codename = codename.split('_')[0]
         if codename in M_CODENAMES:
             continue
         else:
             M_CODENAMES.append(codename)
-    for codename in ['tissot', 'jasmine', 'daisy', 'tiare', 'laurel']:
-        M_CODENAMES.append(codename)
     with open('../data/miui_codenames.yml', 'w') as out:
         yaml.dump(sorted(M_CODENAMES), out, Dumper=yaml.CDumper)
     M_DEVICES.update({codename: NAMES[codename] for codename in M_CODENAMES})
@@ -260,83 +266,101 @@ def load_miui_devices():
         yaml.dump(M_DEVICES, out, Dumper=yaml.CDumper)
 
 
+def generate_miui_latest_table(item):
+    return f'<tr><td>{item.name}</td>' \
+           f'<td>{item.branch}</td>' \
+           f'<td>{item.method}</td>' \
+           f'<td>{item.version}</td>' \
+           f'<td>{item.android}</td>' \
+           f'<td>{naturalsize(item.size)}</td>' \
+           f'<td>{item.date}</td>' \
+           f'<td><a href="/miui/{item.codename.split("_")[0]}/{item.branch.lower()}/{item.version}/">' \
+           f'Download</a></td></tr>\n'
+
+
+def generate_update_info(update, idx):
+    codename = update.codename.split("_")[0]
+    page = miui_update_template
+    page = page.safe_substitute(device=update.name)
+    page = Template(page).safe_substitute(codename=codename)
+    page = Template(page).safe_substitute(version=update.version)
+    page = Template(page).safe_substitute(branch=update.branch)
+    page = Template(page).safe_substitute(type=update.method)
+    page = Template(page).safe_substitute(size=naturalsize(update.size))
+    page = Template(page).safe_substitute(date=update.date)
+    page = Template(page).safe_substitute(filename=update.link.split('/')[-1])
+    page = Template(page).safe_substitute(md5=update.md5 if update.md5 else "Unknown")
+    page = Template(page).safe_substitute(link=update.link)
+    if update.method == "Recovery":
+        incremental = get_incremental(update.version)
+        if incremental:
+            button = f'<button type="button" id="incremental_download" class="btn btn-warning" ' \
+                     f'onclick="window.open(\'{incremental.link}\', \'_blank\');">' \
+                     f'<i class="fa fa-download"></i> Incremental Update</button>'
+            page = Template(page).safe_substitute(incremental=button)
+        else:
+            page = Template(page).safe_substitute(incremental='')
+    else:
+        page = Template(page).safe_substitute(incremental='')
+    page = Template(page).safe_substitute(changelog='<br>'.join(update.changelog.splitlines()))
+    page = page.replace('$idx', str(idx)).replace('$codename', codename)
+    return page
+
+
+def generate_versions_pages(updates):
+    versions = {}
+    for update in updates:
+        if update.version in versions.keys():
+            device_version = versions[update.version]
+            device_version.append(update)
+            versions.update({update.version: device_version})
+        else:
+            versions.update({update.version: [update]})
+    codename = updates[0].codename.split("_")[0]
+    table = ""
+    for version, updates in versions.items():
+        page = miui_update_page_template
+        page = page.safe_substitute(codename=codename)
+        page = Template(page).safe_substitute(device=updates[0].name)
+        page = Template(page).safe_substitute(version=version)
+        page = Template(page).safe_substitute(branch_lower=updates[0].branch.lower())
+        page = Template(page).safe_substitute(branch=updates[0].branch)
+        updates_info = ""
+        for idx, update in enumerate(updates):
+            table += generate_miui_latest_table(update)
+            if Path(f'../pages/miui/updates/{codename}/{version}.md').exists():
+                continue
+            updates_info += generate_update_info(update, idx + 1)
+        page = Template(page).safe_substitute(updates=updates_info)
+        files_dir = Path(f'../pages/miui/updates/{codename}')
+        if not files_dir.exists():
+            files_dir.mkdir(parents=True)
+        with open(f'../pages/miui/updates/{codename}/{version}.md', 'w') as out:
+            out.write(page)
+    return table
+
+
 def generate_miui_md():
     """
     Generate downloads markdown files for miui pages
     """
-    header = '''---
-title: $name ($codename) MIUI Downloads
-layout: download
-name: $name
-codename: $codename
-permalink: $link
----
-'''
-    table = '''{%include ads.html%}
-<div class="table-responsive-md" id="table-wrapper">
-{%include ad.html%}
-<table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
-    <thead class="thead-dark">
-        <tr>
-            $rows
-        </tr>
-    </thead>
-    <script>$function('$codename')</script>
-</table>
-</div>
-'''
-    latest_rows = '''<th data-ref="device">Device</th>
-            <th data-ref="branch">Branch</th>
-            <th data-ref="type">Type</th>
-            <th data-ref="miui">MIUI</th>
-            <th data-ref="android">Android</th>
-            <th data-ref="link">Link</th>
-            <th data-ref="size">Size</th>'''
-    archive_rows = '''<th data-ref="device">Device</th>
-                <th data-ref="codename">Codename</th>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="type">Type</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="android">Android</th>
-                <th data-ref="link">Link</th>'''
-    latest = '''### Latest MIUI Official ROMs
-##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/miui/$codename/).
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
-'''
-    archive = '''### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for the latest releases check [Here](/miui/$codename/).
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
-'''
-    banner = '''<div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">MIUI Updates Tracker</a> on Telegram to get notified when a new ROM is out!
-    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-        <span aria-hidden="true">&times;</span>
-    </button>
-</div>'''
-
-    for branch in ['latest', 'full']:
+    for branch, filename in {'latest': 'miui_latest.template', 'full': 'miui_archive.template'}.items():
+        with open(filename, 'r') as f:
+            template = Template(f.read())
         for codename, name in M_DEVICES.items():
-            markdown = ''
+            markdown = template
+            markdown = markdown.safe_substitute(codename=codename)
+            markdown = Template(markdown).safe_substitute(name=name)
             if branch == 'latest':
+                table_content = generate_versions_pages(get_device_latest(codename))
                 link = f'/miui/{codename}/'
-                markdown += header.replace('$codename', codename) \
-                    .replace('$name', name).replace('$link', link)
-                markdown += latest.replace('$codename', codename) + '\n'
-                markdown += banner + '\n'
-                markdown += table.replace('$codename', codename).replace('$request', branch) \
-                                .replace('$function', 'loadMiuiDownloads') \
-                                .replace('$rows', latest_rows) + '\n'
-            elif branch == 'full':
+                markdown = Template(markdown).safe_substitute(rows=table_content)
+            else:
+                table_content = generate_versions_pages(get_device_roms(codename))
                 link = f'/archive/miui/{codename}/'
-                markdown += header.replace('$codename', codename) \
-                    .replace('$name', name).replace('$link', link)
-                markdown += archive.replace('$codename', codename) + '\n'
-                markdown += banner + '\n'
-                markdown += table.replace('$codename', codename).replace('$request', branch) \
-                                .replace('$function', 'loadMiuiArchive') \
-                                .replace('$rows', archive_rows) + '\n'
+                markdown = Template(markdown).safe_substitute(rows=table_content)
 
+            markdown = Template(markdown).safe_substitute(link=link)
             with open(f'../pages/miui/{branch}/{codename}.md', 'w') as out:
                 out.write(markdown)
 
@@ -389,6 +413,8 @@ def load_vendor_devices():
                     region = 'India'
                 elif 'ru_global' in tag_name:
                     region = 'Russia'
+                elif 'tr_global' in tag_name:
+                    region = 'Turkey'
                 elif 'global' in tag_name:
                     region = 'Global'
                 else:
@@ -528,14 +554,15 @@ def main():
     XFU data generate script
     """
     load_names()
-    load_fw_devices()
-    load_releases()
-    generate_fw_md()
+    # load_fw_devices()
+    # load_releases()
+    # generate_fw_md()
     load_miui_devices()
     generate_miui_md()
-    load_vendor_devices()
-    generate_rss()
+    # load_vendor_devices()
+    # generate_rss()
 
 
 if __name__ == '__main__':
     main()
+    close_db()
