@@ -250,7 +250,7 @@ def load_miui_devices():
     load miui devices
     """
     latest = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-                           'miui-updates-tracker/V3/data/latest.yml').content, Loader=yaml.CLoader)
+                           'miui-updates-tracker/master/data/latest.yml').content, Loader=yaml.CLoader)
     for item in latest:
         codename = item['codename']
         if '_' in codename:
