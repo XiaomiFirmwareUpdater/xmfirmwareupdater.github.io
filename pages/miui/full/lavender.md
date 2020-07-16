@@ -32,7 +32,8 @@ permalink: /archive/miui/lavender/
         </tr>
     </thead>
     <tbody>
-    <tr><td>Redmi Note 7/7S India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QFGINXM</td><td>10.0</td><td>2.1 GB</td><td>2020-07-09</td><td><a href="/miui/lavender/stable/V11.0.2.0.QFGINXM/">Download</a></td></tr>
+    <tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>10.0</td><td>2.4 GB</td><td>2020-07-09</td><td><a href="/miui/lavender/weekly/20.7.9/">Download</a></td></tr>
+<tr><td>Redmi Note 7/7S India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QFGINXM</td><td>10.0</td><td>2.1 GB</td><td>2020-07-09</td><td><a href="/miui/lavender/stable/V11.0.2.0.QFGINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>20.7.2</td><td>10.0</td><td>2.4 GB</td><td>2020-07-02</td><td><a href="/miui/lavender/weekly/20.7.2/">Download</a></td></tr>
 <tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>10.0</td><td>2.4 GB</td><td>2020-06-18</td><td><a href="/miui/lavender/weekly/20.6.18/">Download</a></td></tr>
 <tr><td>Redmi Note 7 China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QFGCNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-06-18</td><td><a href="/miui/lavender/stable/V11.0.2.0.QFGCNXM/">Download</a></td></tr>
