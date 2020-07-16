@@ -1419,15 +1419,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-05-18'
+  date: '2020-07-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-18.05.2020/fw_nitrogen_miui_MIMAX3Global_V11.0.2.0.QEDMIXM_4eb86f33af_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/nitrogen/fw_nitrogen_miui_MIMAX3Global_V11.0.2.0.QEDMIXM_4eb86f33af_10.0.zip
-  filename: fw_nitrogen_miui_MIMAX3Global_V11.0.2.0.QEDMIXM_4eb86f33af_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-16.07.2020/fw_nitrogen_miui_MIMAX3Global_V11.0.4.0.QEDMIXM_993bda31a3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/nitrogen/fw_nitrogen_miui_MIMAX3Global_V11.0.4.0.QEDMIXM_993bda31a3_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3Global_V11.0.4.0.QEDMIXM_993bda31a3_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QEDMIXM
+    miui: V11.0.4.0.QEDMIXM
 - branch: stable
   date: '2020-05-15'
   downloads:
@@ -1759,15 +1759,15 @@
     android: '10.0'
     miui: V11.0.1.0.QCMINXM
 - branch: stable
-  date: '2020-05-19'
+  date: '2020-07-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-20.05.2020/fw_platina_miui_MI8LiteGlobal_V11.0.2.0.QDTMIXM_5574e03233_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/platina/fw_platina_miui_MI8LiteGlobal_V11.0.2.0.QDTMIXM_5574e03233_10.0.zip
-  filename: fw_platina_miui_MI8LiteGlobal_V11.0.2.0.QDTMIXM_5574e03233_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-16.07.2020/fw_platina_miui_MI8LiteGlobal_V11.0.3.0.QDTMIXM_7353dba0ab_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/platina/fw_platina_miui_MI8LiteGlobal_V11.0.3.0.QDTMIXM_7353dba0ab_10.0.zip
+  filename: fw_platina_miui_MI8LiteGlobal_V11.0.3.0.QDTMIXM_7353dba0ab_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QDTMIXM
+    miui: V11.0.3.0.QDTMIXM
 - branch: stable
   date: '2020-05-20'
   downloads:
