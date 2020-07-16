@@ -11409,6 +11409,16 @@
     android: '8.1'
     miui: 8.10.18
 - branch: stable
+  date: '2020-07-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-16.07.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.4.0.QJXINXM_26aadb1521_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.4.0.QJXINXM_26aadb1521_10.0.zip
+  filename: fw_excalibur_miui_EXCALIBURINGlobal_V11.0.4.0.QJXINXM_26aadb1521_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJXINXM
+- branch: stable
   date: '2020-05-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-06.05.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.2.0.QJXINXM_bf0e807a47_10.0.zip
@@ -12548,6 +12558,16 @@
   versions:
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
+- branch: stable
+  date: '2020-07-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gram/releases/download/stable-16.07.2020/fw_gram_miui_GRAMINGlobal_V11.0.3.0.QJPINXM_4d59565c02_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/gram/fw_gram_miui_GRAMINGlobal_V11.0.3.0.QJPINXM_4d59565c02_10.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V11.0.3.0.QJPINXM_4d59565c02_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QJPINXM
 - branch: stable
   date: '2020-07-15'
   downloads:
