@@ -51,7 +51,7 @@ def load_names():
     Load devices names
     """
     data = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
-                         'miui-updates-tracker/V3/data/devices.yml').text, Loader=yaml.CLoader)
+                         'miui-updates-tracker/master/data/devices.yml').text, Loader=yaml.CLoader)
     for codename, info in data.items():
         name = ' '.join(info[0].split(' ')[:-1])
         if '/' in name:
