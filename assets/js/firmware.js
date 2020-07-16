@@ -197,7 +197,7 @@ function loadLatestMiui() {
             "order": [[6, "desc"]],
             "ajax": {
                 "type": "GET",
-                "url": 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/V3/data/latest.yml',
+                "url": 'https://raw.githubusercontent.com/XiaomiFirmwareUpdater/miui-updates-tracker/master/data/latest.yml',
                 converters: {
                     'text yaml': function (result) {
                         let schema = jsyaml.Schema.create(jsyaml.CORE_SCHEMA, []);
