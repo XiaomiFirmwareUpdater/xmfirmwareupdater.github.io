@@ -32,8 +32,7 @@ permalink: /archive/miui/tucana/
         </tr>
     </thead>
     <tbody>
-    <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.8</td><td>10.0</td><td>3.1 GB</td><td>2020-07-08</td><td><a href="/miui/tucana/weekly/20.7.8/">Download</a></td></tr>
-<tr><td>Mi Note 10/Pro EEA</td><td>Stable</td><td>Recovery</td><td>V11.1.2.0.QFDEUXM</td><td>10.0</td><td>2.8 GB</td><td>2020-07-03</td><td><a href="/miui/tucana/stable/V11.1.2.0.QFDEUXM/">Download</a></td></tr>
+    <tr><td>Mi Note 10/Pro EEA</td><td>Stable</td><td>Recovery</td><td>V11.1.2.0.QFDEUXM</td><td>10.0</td><td>2.8 GB</td><td>2020-07-03</td><td><a href="/miui/tucana/stable/V11.1.2.0.QFDEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10/Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V11.1.2.0.QFDEUXM</td><td>10.0</td><td>4.8 GB</td><td>2020-06-28</td><td><a href="/miui/tucana/stable/V11.1.2.0.QFDEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10/Pro Russia</td><td>Stable</td><td>Recovery</td><td>V11.1.2.0.QFDRUXM</td><td>10.0</td><td>2.8 GB</td><td>2020-07-03</td><td><a href="/miui/tucana/stable/V11.1.2.0.QFDRUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10/Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V11.1.2.0.QFDRUXM</td><td>10.0</td><td>4.6 GB</td><td>2020-06-28</td><td><a href="/miui/tucana/stable/V11.1.2.0.QFDRUXM/">Download</a></td></tr>

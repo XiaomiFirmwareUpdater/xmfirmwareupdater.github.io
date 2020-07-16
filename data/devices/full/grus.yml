@@ -1,13 +1,3 @@
-- branch: stable
-  date: '2020-07-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-10.07.2020/fw_grus_miui_GRUS_20.7.9_1439da9adf_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/20/grus/fw_grus_miui_GRUS_20.7.9_1439da9adf_10.0.zip
-  filename: fw_grus_miui_GRUS_20.7.9_1439da9adf_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.9
 - branch: weekly
   date: '2020-07-09'
   downloads:
