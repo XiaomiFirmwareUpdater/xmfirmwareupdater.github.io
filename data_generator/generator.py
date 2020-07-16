@@ -326,17 +326,20 @@ def generate_versions_pages(updates):
         page = Template(page).safe_substitute(branch_lower=updates[0].branch.lower())
         page = Template(page).safe_substitute(branch=updates[0].branch)
         updates_info = ""
+        exists = False
         for idx, update in enumerate(updates):
             table += generate_miui_latest_table(update)
             if Path(f'../pages/miui/updates/{codename}/{version}.md').exists():
-                continue
-            updates_info += generate_update_info(update, idx + 1)
-        page = Template(page).safe_substitute(updates=updates_info)
-        files_dir = Path(f'../pages/miui/updates/{codename}')
-        if not files_dir.exists():
-            files_dir.mkdir(parents=True)
-        with open(f'../pages/miui/updates/{codename}/{version}.md', 'w') as out:
-            out.write(page)
+                exists = True
+            else:
+                updates_info += generate_update_info(update, idx + 1)
+        if not exists:
+            page = Template(page).safe_substitute(updates=updates_info)
+            files_dir = Path(f'../pages/miui/updates/{codename}')
+            if not files_dir.exists():
+                files_dir.mkdir(parents=True)
+            with open(f'../pages/miui/updates/{codename}/{version}.md', 'w') as out:
+                out.write(page)
     return table
 
 
