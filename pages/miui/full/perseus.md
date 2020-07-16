@@ -32,7 +32,9 @@ permalink: /archive/miui/perseus/
         </tr>
     </thead>
     <tbody>
-    <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>20.7.8</td><td>10.0</td><td>2.5 GB</td><td>2020-07-08</td><td><a href="/miui/perseus/weekly/20.7.8/">Download</a></td></tr>
+    <tr><td>Mi MIX 3 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QEEMIXM</td><td>10.0</td><td>2.3 GB</td><td>2020-07-16</td><td><a href="/miui/perseus/stable/V11.0.5.0.QEEMIXM/">Download</a></td></tr>
+<tr><td>Mi MIX 3 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QEERUXM</td><td>10.0</td><td>2.3 GB</td><td>2020-07-16</td><td><a href="/miui/perseus/stable/V11.0.4.0.QEERUXM/">Download</a></td></tr>
+<tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>20.7.8</td><td>10.0</td><td>2.5 GB</td><td>2020-07-08</td><td><a href="/miui/perseus/weekly/20.7.8/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>20.7.2</td><td>10.0</td><td>2.5 GB</td><td>2020-07-02</td><td><a href="/miui/perseus/weekly/20.7.2/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>10.0</td><td>2.5 GB</td><td>2020-06-18</td><td><a href="/miui/perseus/weekly/20.6.18/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.17</td><td>10.0</td><td>2.5 GB</td><td>2020-06-17</td><td><a href="/miui/perseus/weekly/20.6.17/">Download</a></td></tr>
@@ -80,11 +82,11 @@ permalink: /archive/miui/perseus/
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>9.10.24</td><td>10.0</td><td>2.5 GB</td><td>2019-10-24</td><td><a href="/miui/perseus/weekly/9.10.24/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>9.10.17</td><td>10.0</td><td>2.5 GB</td><td>2019-10-17</td><td><a href="/miui/perseus/weekly/9.10.17/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>9.10.16</td><td>10.0</td><td>2.5 GB</td><td>2019-10-16</td><td><a href="/miui/perseus/weekly/9.10.16/">Download</a></td></tr>
+<tr><td>Mi MIX 3 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.PEEMIXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-01</td><td><a href="/miui/perseus/stable/V11.0.4.0.PEEMIXM/">Download</a></td></tr>
+<tr><td>Mi MIX 3 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.PEEMIXM</td><td>9.0</td><td>3.0 GB</td><td>2019-10-21</td><td><a href="/miui/perseus/stable/V11.0.4.0.PEEMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PEECNXM</td><td>9.0</td><td>2.5 GB</td><td>2019-10-15</td><td><a href="/miui/perseus/stable/V11.0.3.0.PEECNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PEECNXM</td><td>9.0</td><td>3.3 GB</td><td>2019-09-25</td><td><a href="/miui/perseus/stable/V11.0.3.0.PEECNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>9.10.10</td><td>10.0</td><td>2.5 GB</td><td>2019-10-10</td><td><a href="/miui/perseus/weekly/9.10.10/">Download</a></td></tr>
-<tr><td>Mi MIX 3 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.PEEMIXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-01</td><td><a href="/miui/perseus/stable/V11.0.4.0.PEEMIXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.PEEMIXM</td><td>9.0</td><td>3.0 GB</td><td>2019-10-21</td><td><a href="/miui/perseus/stable/V11.0.4.0.PEEMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>9.9.26</td><td>9.0</td><td>2.4 GB</td><td>2019-09-26</td><td><a href="/miui/perseus/weekly/9.9.26/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>9.9.3</td><td>9.0</td><td>2.4 GB</td><td>2019-09-04</td><td><a href="/miui/perseus/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>3.2 GB</td><td>2019-09-04</td><td><a href="/miui/perseus/weekly/9.9.3/">Download</a></td></tr>
