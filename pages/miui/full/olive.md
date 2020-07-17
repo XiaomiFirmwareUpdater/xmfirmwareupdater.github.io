@@ -33,6 +33,7 @@ permalink: /archive/miui/olive/
     </thead>
     <tbody>
     <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.PCQINXM</td><td>9.0</td><td>1.9 GB</td><td>2020-07-09</td><td><a href="/miui/olivewood/stable/V11.0.8.0.PCQINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.PCQINXM</td><td>9.0</td><td>2.5 GB</td><td>2020-07-03</td><td><a href="/miui/olivewood/stable/V11.0.8.0.PCQINXM/">Download</a></td></tr>
 <tr><td>Redmi 8 China</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QCNCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-06-29</td><td><a href="/miui/olive/stable/V11.0.1.0.QCNCNXM/">Download</a></td></tr>
 <tr><td>Redmi 8 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QCNCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-06-23</td><td><a href="/miui/olive/stable/V11.0.1.0.QCNCNXM/">Download</a></td></tr>
 <tr><td>Redmi 8 India</td><td>Stable</td><td>Recovery</td><td>V11.0.12.0.PCNINXM</td><td>9.0</td><td>2.1 GB</td><td>2020-06-15</td><td><a href="/miui/olive/stable/V11.0.12.0.PCNINXM/">Download</a></td></tr>

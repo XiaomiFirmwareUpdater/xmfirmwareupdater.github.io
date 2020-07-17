@@ -32,7 +32,7 @@ permalink: /miui/olivewood/
         </tr>
     </thead>
     <tbody>
-    <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.PCQINXM</td><td>9.0</td><td>2.6 GB</td><td>2020-05-15</td><td><a href="/miui/olivewood/stable/V11.0.7.0.PCQINXM/">Download</a></td></tr>
+    <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.PCQINXM</td><td>9.0</td><td>2.5 GB</td><td>2020-07-03</td><td><a href="/miui/olivewood/stable/V11.0.8.0.PCQINXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.PCQINXM</td><td>9.0</td><td>1.9 GB</td><td>2020-07-09</td><td><a href="/miui/olivewood/stable/V11.0.8.0.PCQINXM/">Download</a></td></tr>
 
     </tbody>
