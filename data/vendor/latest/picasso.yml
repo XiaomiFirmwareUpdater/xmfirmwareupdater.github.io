@@ -9,3 +9,14 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QGICMXM
+- branch: weekly
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso-weekly/fw-vendor_picasso_miui_PICASSO_20.7.16_cad8bdd324_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso-weekly/fw-vendor_picasso_miui_PICASSO_20.7.16_cad8bdd324_10.0.zip/download
+  filename: fw-vendor_picasso_miui_PICASSO_20.7.16_cad8bdd324_10.0.zip
+  region: China
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: 20.7.16

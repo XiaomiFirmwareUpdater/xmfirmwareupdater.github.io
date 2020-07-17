@@ -1,3 +1,14 @@
+- branch: weekly
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-weekly/fw-vendor_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-weekly/fw-vendor_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
+  region: China
+  size: 1.5 GB
+  versions:
+    android: '10.0'
+    miui: 20.7.9
 - branch: stable
   date: '2020-05-28'
   downloads:
@@ -20,6 +31,17 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJKEUXM
+- branch: stable
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi_eea_global-stable/fw-vendor_lmi_miui_LMIEEAGlobal_V12.0.1.0.QJKEUXM_b4672d12eb_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi_eea_global-stable/fw-vendor_lmi_miui_LMIEEAGlobal_V12.0.1.0.QJKEUXM_b4672d12eb_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMIEEAGlobal_V12.0.1.0.QJKEUXM_b4672d12eb_10.0.zip
+  region: Europe
+  size: 1.6 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJKEUXM
 - branch: stable
   date: '2020-03-27'
   downloads:
@@ -86,3 +108,14 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QJKCNXM
+- branch: stable
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-stable/fw-vendor_lmi_miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-stable/fw-vendor_lmi_miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip
+  region: China
+  size: 1.3 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJKCNXM

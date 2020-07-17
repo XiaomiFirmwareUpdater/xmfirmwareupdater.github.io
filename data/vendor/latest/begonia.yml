@@ -1,25 +1,25 @@
 - branch: stable
-  date: '2020-06-22'
+  date: '2020-07-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIAGlobal_V11.0.5.0.QGGMIXM_7594842c66_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V12.0.0.4.QGGMIXM_d02578ff0f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_global-stable/fw-vendor_begonia_miui_BEGONIAGlobal_V12.0.0.4.QGGMIXM_d02578ff0f_10.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIAGlobal_V12.0.0.4.QGGMIXM_d02578ff0f_10.0.zip
   region: Global
-  size: 502.3 MB
+  size: 481.3 MB
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QGGMIXM
-- branch: stable
-  date: '2020-05-30'
+    miui: V12.0.0.4.QGGMIXM
+- branch: weekly
+  date: '2020-07-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V11.0.3.0.QGGCNXM_b656ebe642_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V11.0.3.0.QGGCNXM_b656ebe642_10.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIA_V11.0.3.0.QGGCNXM_b656ebe642_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-weekly/fw-vendor_begonia_miui_BEGONIA_20.7.16_5e2944581b_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-weekly/fw-vendor_begonia_miui_BEGONIA_20.7.16_5e2944581b_10.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIA_20.7.16_5e2944581b_10.0.zip
   region: China
-  size: 494.0 MB
+  size: 539.1 MB
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QGGCNXM
+    miui: 20.7.16
 - branch: stable
   date: '2020-05-25'
   downloads:
