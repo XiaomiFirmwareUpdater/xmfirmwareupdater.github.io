@@ -62,7 +62,7 @@ def load_names():
                 NAMES.update({codename: f"{NAMES[codename]}/{name}"})
         except KeyError:
             NAMES.update({codename: name})
-    with open('../data/names.yml', 'w') as out:
+    with open('../data/names.yml', 'w', encoding='utf-8') as out:
         yaml.dump(NAMES, out, allow_unicode=True, Dumper=yaml.CDumper)
 
 
@@ -75,10 +75,10 @@ def load_fw_devices():
             device = repo['name'].split('_')[-1]
             FW_CODENAMES.append(device)
     FW_CODENAMES.sort()
-    with open('../data/firmware_codenames.yml', 'w') as out:
+    with open('../data/firmware_codenames.yml', 'w', encoding='utf-8') as out:
         yaml.dump(FW_CODENAMES, out, Dumper=yaml.CDumper)
     FW_DEVICES.update({codename: NAMES[codename] for codename in FW_CODENAMES})
-    with open('../data/firmware_devices.yml', 'w') as out:
+    with open('../data/firmware_devices.yml', 'w', encoding='utf-8') as out:
         yaml.dump(FW_DEVICES, out, Dumper=yaml.CDumper)
 
 
@@ -135,7 +135,7 @@ def load_releases():
                 info.append(release)
         for i in info:
             archive.append(i)
-        with open(f'../data/devices/full/{device}.yml', 'w') as out:
+        with open(f'../data/devices/full/{device}.yml', 'w', encoding='utf-8') as out:
             yaml.dump(info, out, Dumper=yaml.CDumper)
         # Generate latest releases
         latest = []
@@ -149,13 +149,13 @@ def load_releases():
 
         for i in VARIANTS:
             filter_latest(i[0], i[1])
-        with open(f'../data/devices/latest/{device}.yml', 'w') as out:
+        with open(f'../data/devices/latest/{device}.yml', 'w', encoding='utf-8') as out:
             yaml.dump(latest, out, Dumper=yaml.CDumper)
         for i in latest:
             all_latest.append(i)
-    with open('../data/devices/latest.yml', 'w') as out:
+    with open('../data/devices/latest.yml', 'w', encoding='utf-8') as out:
         yaml.dump(all_latest, out, Dumper=yaml.CDumper)
-    with open('../data/devices/full.yml', 'w') as out:
+    with open('../data/devices/full.yml', 'w', encoding='utf-8') as out:
         yaml.dump(archive, out, Dumper=yaml.CDumper)
 
     # MIUI 12 China Beta
@@ -177,7 +177,7 @@ def load_releases():
                 download = "https://bigota.d.miui.com/" + version + "/" + filename
                 miui12.append({'name': name, 'codename': codename, 'date': date,
                                'version': version, 'android': update['versions']['android'], 'download': download})
-    with open('../data/devices/miui12.yml', 'w') as out:
+    with open('../data/devices/miui12.yml', 'w', encoding='utf-8') as out:
         yaml.dump(miui12, out, Dumper=yaml.CDumper)
 
 
@@ -241,7 +241,7 @@ permalink: $link
             markdown += banner + '\n'
             markdown += table.replace('$codename', codename).replace('$request', branch)
 
-            with open(f'../pages/firmware/{branch}/{codename}.md', 'w') as out:
+            with open(f'../pages/firmware/{branch}/{codename}.md', 'w', encoding='utf-8') as out:
                 out.write(markdown)
 
 
@@ -259,10 +259,10 @@ def load_miui_devices():
             continue
         else:
             M_CODENAMES.append(codename)
-    with open('../data/miui_codenames.yml', 'w') as out:
+    with open('../data/miui_codenames.yml', 'w', encoding='utf-8') as out:
         yaml.dump(sorted(M_CODENAMES), out, Dumper=yaml.CDumper)
     M_DEVICES.update({codename: NAMES[codename] for codename in M_CODENAMES})
-    with open('../data/miui_devices.yml', 'w') as out:
+    with open('../data/miui_devices.yml', 'w', encoding='utf-8') as out:
         yaml.dump(M_DEVICES, out, Dumper=yaml.CDumper)
 
 
@@ -316,6 +316,8 @@ def generate_versions_pages(updates):
             versions.update({update.version: device_version})
         else:
             versions.update({update.version: [update]})
+    if not versions:
+        return
     codename = updates[0].codename.split("_")[0]
     table = ""
     for version, updates in versions.items():
@@ -333,7 +335,7 @@ def generate_versions_pages(updates):
         files_dir = Path(f'../pages/miui/updates/{codename}')
         if not files_dir.exists():
             files_dir.mkdir(parents=True)
-        with open(f'../pages/miui/updates/{codename}/{version}.md', 'w') as out:
+        with open(f'../pages/miui/updates/{codename}/{version}.md', 'w', encoding='utf-8') as out:
             out.write(page)
     return table
 
@@ -359,7 +361,7 @@ def generate_miui_md():
                 markdown = Template(markdown).safe_substitute(rows=table_content)
 
             markdown = Template(markdown).safe_substitute(link=link)
-            with open(f'../pages/miui/{branch}/{codename}.md', 'w') as out:
+            with open(f'../pages/miui/{branch}/{codename}.md', 'w', encoding='utf-8') as out:
                 out.write(markdown)
 
 
@@ -381,20 +383,20 @@ def load_vendor_devices():
     url = f'https://api.github.com/repos/TryHardDood/mi-vendor-updater/releases' \
           f'?per_page=100'
     data = get_data_from_github(url)
-    # with open('vendor.json', 'w') as json_file:
+    # with open('vendor.json', 'w', encoding='utf-8') as json_file:
     #     json.dump(data, json_file, indent=4)
     for release in data:
         codenames.add(release['tag_name'].split('_')[0].split('-')[0])
     codenames = list(codenames)
     codenames.sort()
-    with open('../data/vendor_codenames.yml', 'w') as out:
+    with open('../data/vendor_codenames.yml', 'w', encoding='utf-8') as out:
         yaml.dump(codenames, out, Dumper=yaml.CDumper)
     for codename in codenames:
         try:
             V_DEVICES.update({codename: NAMES[codename]})
         except KeyError:
             continue
-    with open('../data/vendor_devices.yml', 'w') as out:
+    with open('../data/vendor_devices.yml', 'w', encoding='utf-8') as out:
         yaml.dump(V_DEVICES, out, Dumper=yaml.CDumper)
     all_latest = []
     for codename in codenames:
@@ -443,17 +445,17 @@ def load_vendor_devices():
                 full.append(release)
         if not full:
             continue
-        with open(f'../data/vendor/full/{codename}.yml', 'w') as out:
+        with open(f'../data/vendor/full/{codename}.yml', 'w', encoding='utf-8') as out:
             yaml.dump(full, out, Dumper=yaml.CDumper)
             # Generate latest releases YAML
             latest = []
             for i in VARIANTS:
                 filter_latest(i[0], i[1])
-        with open(f'../data/vendor/latest/{codename}.yml', 'w') as out:
+        with open(f'../data/vendor/latest/{codename}.yml', 'w', encoding='utf-8') as out:
             yaml.dump(latest, out, Dumper=yaml.CDumper)
         for i in latest:
             all_latest.append(i)
-    with open('../data/vendor/latest.yml', 'w') as out:
+    with open('../data/vendor/latest.yml', 'w', encoding='utf-8') as out:
         yaml.dump(all_latest, out, Dumper=yaml.CDumper)
     header = '''---
 title: $name ($codename) Vendor Downloads
@@ -516,7 +518,7 @@ permalink: $link
             markdown += banner + '\n'
             markdown += table.replace('$codename', codename).replace('$request', branch)
 
-            with open(f'../pages/vendor/{branch}/{codename}.md', 'w') as out:
+            with open(f'../pages/vendor/{branch}/{codename}.md', 'w', encoding='utf-8') as out:
                 out.write(markdown)
 
 
@@ -545,7 +547,7 @@ def generate_rss():
     for child in root.findall('./channel/item/link'):
         codename = child.text.split('/')[-1].split('_')[1]
         child.text = f'https://xiaomifirmwareupdater.com/firmware/{codename}'
-    with open('../releases.xml', 'w') as out:
+    with open('../releases.xml', 'w', encoding='utf-8') as out:
         out.write(eT.tostring(root).decode())
 
 
