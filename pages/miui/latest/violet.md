@@ -32,9 +32,9 @@ permalink: /miui/violet/
         </tr>
     </thead>
     <tbody>
-    <tr><td>Redmi Note 7 Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.PFHCNXM</td><td>9.0</td><td>2.9 GB</td><td>2020-03-03</td><td><a href="/miui/violet/stable/V11.0.8.0.PFHCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.8 GB</td><td>2019-09-04</td><td><a href="/miui/violet/weekly/9.9.3/">Download</a></td></tr>
+    <tr><td>Redmi Note 7 Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QFHCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-06-03</td><td><a href="/miui/violet/stable/V11.0.1.0.QFHCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QFHCNXM</td><td>10.0</td><td>2.2 GB</td><td>2020-06-09</td><td><a href="/miui/violet/stable/V11.0.1.0.QFHCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.8 GB</td><td>2019-09-04</td><td><a href="/miui/violet/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>2.2 GB</td><td>2020-07-16</td><td><a href="/miui/violet/weekly/20.7.16/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro India</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.PFHINXM</td><td>9.0</td><td>2.6 GB</td><td>2020-05-07</td><td><a href="/miui/violet/stable/V11.0.9.0.PFHINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.9.0.PFHINXM</td><td>9.0</td><td>2.1 GB</td><td>2020-05-12</td><td><a href="/miui/violet/stable/V11.0.9.0.PFHINXM/">Download</a></td></tr>
