@@ -1,0 +1,11 @@
+- branch: stable
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/gram_in_global-stable/fw-vendor_gram_miui_GRAMINGlobal_V11.0.3.0.QJPINXM_4d59565c02_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/gram_in_global-stable/fw-vendor_gram_miui_GRAMINGlobal_V11.0.3.0.QJPINXM_4d59565c02_10.0.zip/download
+  filename: fw-vendor_gram_miui_GRAMINGlobal_V11.0.3.0.QJPINXM_4d59565c02_10.0.zip
+  region: India
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QJPINXM

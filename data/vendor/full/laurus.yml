@@ -9,3 +9,47 @@
   versions:
     android: '10.0'
     miui: 20.7.16
+- branch: stable
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-stable/fw-vendor_laurus_miui_LAURUS_V10.2.13.0.PFMCNXM_5a9706d537_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/laurus-stable/fw-vendor_laurus_miui_LAURUS_V10.2.13.0.PFMCNXM_5a9706d537_9.0.zip/download
+  filename: fw-vendor_laurus_miui_LAURUS_V10.2.13.0.PFMCNXM_5a9706d537_9.0.zip
+  region: China
+  size: 354.8 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.13.0.PFMCNXM
+- branch: stable
+  date: '2019-11-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip/download
+  filename: fw-vendor_laurus_miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip
+  region: China
+  size: 380.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PFMCNXM
+- branch: stable
+  date: '2020-02-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip/download
+  filename: fw-vendor_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip
+  region: China
+  size: 387.3 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PFMCNXM
+- branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.6.0.PFMCNXM_3234ede2d4_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/laurus-stable/fw-vendor_laurus_miui_LAURUS_V11.0.6.0.PFMCNXM_3234ede2d4_9.0.zip/download
+  filename: fw-vendor_laurus_miui_LAURUS_V11.0.6.0.PFMCNXM_3234ede2d4_9.0.zip
+  region: China
+  size: 387.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PFMCNXM

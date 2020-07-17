@@ -1,4 +1,26 @@
 - branch: stable
+  date: '2019-11-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda_global-stable/fw-vendor_andromeda_miui_ANDROMEDAGlobal_V10.3.20.0.PEMMIXM_6aa4a1ed13_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda_global-stable/fw-vendor_andromeda_miui_ANDROMEDAGlobal_V10.3.20.0.PEMMIXM_6aa4a1ed13_9.0.zip/download
+  filename: fw-vendor_andromeda_miui_ANDROMEDAGlobal_V10.3.20.0.PEMMIXM_6aa4a1ed13_9.0.zip
+  region: Global
+  size: 622.8 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.20.0.PEMMIXM
+- branch: stable
+  date: '2019-11-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda-stable/fw-vendor_andromeda_miui_ANDROMEDA_V10.3.18.0.PEMCNXM_ce7a4aefa2_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda-stable/fw-vendor_andromeda_miui_ANDROMEDA_V10.3.18.0.PEMCNXM_ce7a4aefa2_9.0.zip/download
+  filename: fw-vendor_andromeda_miui_ANDROMEDA_V10.3.18.0.PEMCNXM_ce7a4aefa2_9.0.zip
+  region: China
+  size: 625.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.18.0.PEMCNXM
+- branch: stable
   date: '2020-02-03'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda_eea_global-stable/fw-vendor_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.23.0.PEMEUXM_450081beda_9.0.zip
