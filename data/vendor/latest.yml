@@ -373,16 +373,16 @@
     android: '10.0'
     miui: V11.0.11.0.QJAEUXM
 - branch: stable
-  date: '2020-06-22'
+  date: '2020-07-20'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-stable/fw-vendor_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-stable/fw-vendor_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip/download
-  filename: fw-vendor_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-stable/fw-vendor_crux_miui_CRUX_V12.0.3.0.QFXCNXM_5ece229616_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-stable/fw-vendor_crux_miui_CRUX_V12.0.3.0.QFXCNXM_5ece229616_10.0.zip/download
+  filename: fw-vendor_crux_miui_CRUX_V12.0.3.0.QFXCNXM_5ece229616_10.0.zip
   region: China
-  size: 796.0 MB
+  size: 797.4 MB
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QFXCNXM
+    miui: V12.0.3.0.QFXCNXM
 - branch: weekly
   date: '2020-07-17'
   downloads:
@@ -483,16 +483,16 @@
     android: '10.0'
     miui: V11.0.6.0.QFJEUXM
 - branch: stable
-  date: '2020-05-18'
+  date: '2020-07-20'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V11.0.5.0.QFJRUXM_6de5eff5c7_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V11.0.5.0.QFJRUXM_6de5eff5c7_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCIRUGlobal_V11.0.5.0.QFJRUXM_6de5eff5c7_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V12.0.1.0.QFJRUXM_5707976485_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V12.0.1.0.QFJRUXM_5707976485_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIRUGlobal_V12.0.1.0.QFJRUXM_5707976485_10.0.zip
   region: Russia
-  size: 741.7 MB
+  size: 786.4 MB
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QFJRUXM
+    miui: V12.0.1.0.QFJRUXM
 - branch: stable
   date: '2020-07-03'
   downloads:
