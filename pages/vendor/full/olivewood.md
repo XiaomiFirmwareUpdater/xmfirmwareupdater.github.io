@@ -1,7 +1,7 @@
 ---
-title: Redmi 8A Dual (olivewood) Vendor Downloads
+title: Redmi 8A Pro/Redmi 8A Dual (olivewood) Vendor Downloads
 layout: download
-name: Redmi 8A Dual
+name: Redmi 8A Pro/Redmi 8A Dual
 codename: olivewood
 permalink: /archive/vendor/olivewood/
 ---

@@ -1,7 +1,7 @@
 ---
-title: Redmi 8A Dual (olivewood) MIUI Downloads
+title: Redmi 8A Pro/Redmi 8A Dual (olivewood) MIUI Downloads
 layout: download
-name: Redmi 8A Dual
+name: Redmi 8A Pro/Redmi 8A Dual
 codename: olivewood
 permalink: /miui/olivewood/
 ---
@@ -32,7 +32,9 @@ permalink: /miui/olivewood/
         </tr>
     </thead>
     <tbody>
-    <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.PCQINXM</td><td>9.0</td><td>2.5 GB</td><td>2020-07-03</td><td><a href="/miui/olivewood/stable/V11.0.8.0.PCQINXM/">Download</a></td></tr>
+    <tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.PCQIDXM</td><td>9.0</td><td>2.9 GB</td><td>2020-06-11</td><td><a href="/miui/olivewood/stable/V11.0.4.0.PCQIDXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.PCQIDXM</td><td>9.0</td><td>1.8 GB</td><td>2020-06-19</td><td><a href="/miui/olivewood/stable/V11.0.4.0.PCQIDXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.PCQINXM</td><td>9.0</td><td>2.5 GB</td><td>2020-07-03</td><td><a href="/miui/olivewood/stable/V11.0.8.0.PCQINXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.PCQINXM</td><td>9.0</td><td>1.9 GB</td><td>2020-07-09</td><td><a href="/miui/olivewood/stable/V11.0.8.0.PCQINXM/">Download</a></td></tr>
 
     </tbody>
