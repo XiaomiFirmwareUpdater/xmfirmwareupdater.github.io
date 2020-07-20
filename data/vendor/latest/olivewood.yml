@@ -1,4 +1,15 @@
 - branch: stable
+  date: '2020-07-20'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivewood_id_global-stable/fw-vendor_olivewood_miui_OLIVEWOODIDGlobal_V11.0.4.0.PCQIDXM_45b4527e41_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivewood_id_global-stable/fw-vendor_olivewood_miui_OLIVEWOODIDGlobal_V11.0.4.0.PCQIDXM_45b4527e41_9.0.zip/download
+  filename: fw-vendor_olivewood_miui_OLIVEWOODIDGlobal_V11.0.4.0.PCQIDXM_45b4527e41_9.0.zip
+  region: Global
+  size: 276.3 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCQIDXM
+- branch: stable
   date: '2020-07-09'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivewood_in_global-stable/fw-vendor_olivewood_miui_OLIVEWOODINGlobal_V11.0.8.0.PCQINXM_e279ce1ff8_9.0.zip
