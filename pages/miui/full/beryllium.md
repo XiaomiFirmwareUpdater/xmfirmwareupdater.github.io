@@ -32,7 +32,8 @@ permalink: /archive/miui/beryllium/
         </tr>
     </thead>
     <tbody>
-    <tr><td>POCO F1 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.9.0.QEJMIXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-15</td><td><a href="/miui/beryllium/stable/V11.0.9.0.QEJMIXM/">Download</a></td></tr>
+    <tr><td>POCO F1 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QEJRUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-21</td><td><a href="/miui/beryllium/stable/V11.0.4.0.QEJRUXM/">Download</a></td></tr>
+<tr><td>POCO F1 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.9.0.QEJMIXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-15</td><td><a href="/miui/beryllium/stable/V11.0.9.0.QEJMIXM/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.QEJMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-05-15</td><td><a href="/miui/beryllium/stable/V11.0.8.0.QEJMIXM/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.QEJMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-05-08</td><td><a href="/miui/beryllium/stable/V11.0.8.0.QEJMIXM/">Download</a></td></tr>
 <tr><td>POCO F1 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QEJRUXM</td><td>10.0</td><td>2.1 GB</td><td>2020-04-30</td><td><a href="/miui/beryllium/stable/V11.0.2.0.QEJRUXM/">Download</a></td></tr>
@@ -51,10 +52,10 @@ permalink: /archive/miui/beryllium/
 <tr><td>POCO F1 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.7.0.PEJMIXM</td><td>9.0</td><td>2.6 GB</td><td>2019-08-09</td><td><a href="/miui/beryllium/stable/V10.3.7.0.PEJMIXM/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.6.0.PEJMIXM</td><td>9.0</td><td>1.9 GB</td><td>2019-07-23</td><td><a href="/miui/beryllium/stable/V10.3.6.0.PEJMIXM/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.6.0.PEJMIXM</td><td>9.0</td><td>2.6 GB</td><td>2019-07-17</td><td><a href="/miui/beryllium/stable/V10.3.6.0.PEJMIXM/">Download</a></td></tr>
-<tr><td>POCO F1 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.8 GB</td><td>2019-06-28</td><td><a href="/miui/beryllium/weekly/9.6.27/">Download</a></td></tr>
-<tr><td>POCO F1 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>2.0 GB</td><td>2019-06-28</td><td><a href="/miui/beryllium/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PEJMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-28</td><td><a href="/miui/beryllium/stable/V11.0.5.0.PEJMIXM/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PEJMIXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-22</td><td><a href="/miui/beryllium/stable/V11.0.5.0.PEJMIXM/">Download</a></td></tr>
+<tr><td>POCO F1 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.8 GB</td><td>2019-06-28</td><td><a href="/miui/beryllium/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>POCO F1 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>2.0 GB</td><td>2019-06-28</td><td><a href="/miui/beryllium/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.20</td><td>9.0</td><td>2.7 GB</td><td>2019-06-21</td><td><a href="/miui/beryllium/weekly/9.6.20/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.20</td><td>9.0</td><td>1.9 GB</td><td>2019-06-20</td><td><a href="/miui/beryllium/weekly/9.6.20/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.5.0.PEJMIXM</td><td>9.0</td><td>1.9 GB</td><td>2019-06-15</td><td><a href="/miui/beryllium/stable/V10.3.5.0.PEJMIXM/">Download</a></td></tr>
