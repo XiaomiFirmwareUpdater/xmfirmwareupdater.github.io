@@ -131,16 +131,16 @@
     android: '10.0'
     miui: V11.0.9.0.QEJMIXM
 - branch: stable
-  date: '2020-04-30'
+  date: '2020-07-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_ru_global-stable/fw-vendor_beryllium_miui_POCOF1RUGlobal_V11.0.2.0.QEJRUXM_0e66ed3a0e_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_ru_global-stable/fw-vendor_beryllium_miui_POCOF1RUGlobal_V11.0.2.0.QEJRUXM_0e66ed3a0e_10.0.zip/download
-  filename: fw-vendor_beryllium_miui_POCOF1RUGlobal_V11.0.2.0.QEJRUXM_0e66ed3a0e_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_ru_global-stable/fw-vendor_beryllium_miui_POCOF1RUGlobal_V11.0.4.0.QEJRUXM_17a9455ab2_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_ru_global-stable/fw-vendor_beryllium_miui_POCOF1RUGlobal_V11.0.4.0.QEJRUXM_17a9455ab2_10.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1RUGlobal_V11.0.4.0.QEJRUXM_17a9455ab2_10.0.zip
   region: Russia
-  size: 581.1 MB
+  size: 597.0 MB
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QEJRUXM
+    miui: V11.0.4.0.QEJRUXM
 - branch: stable
   date: '2020-06-30'
   downloads:
@@ -218,17 +218,6 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QFAMIXM
-- branch: stable
-  date: '2020-06-22'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip/download
-  filename: fw-vendor_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip
-  region: China
-  size: 735.9 MB
-  versions:
-    android: '10.0'
-    miui: V12.0.2.0.QFACNXM
 - branch: stable
   date: '2020-06-22'
   downloads:
@@ -472,16 +461,16 @@
     android: '10.0'
     miui: 20.7.16
 - branch: stable
-  date: '2020-06-24'
+  date: '2020-07-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.6.0.QFJEUXM_79a4386920_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.6.0.QFJEUXM_79a4386920_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V11.0.6.0.QFJEUXM_79a4386920_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V12.0.2.0.QFJEUXM_0bb88ea943_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_eea_global-stable/fw-vendor_davinci_miui_DAVINCIEEAGlobal_V12.0.2.0.QFJEUXM_0bb88ea943_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIEEAGlobal_V12.0.2.0.QFJEUXM_0bb88ea943_10.0.zip
   region: Europe
-  size: 755.4 MB
+  size: 786.2 MB
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QFJEUXM
+    miui: V12.0.2.0.QFJEUXM
 - branch: stable
   date: '2020-07-20'
   downloads:
@@ -538,16 +527,16 @@
     android: '10.0'
     miui: V11.0.4.0.QEARUXM
 - branch: stable
-  date: '2020-04-27'
+  date: '2020-07-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.5.0.QECMIXM_80436ccbc4_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.5.0.QECMIXM_80436ccbc4_10.0.zip/download
-  filename: fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.5.0.QECMIXM_80436ccbc4_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.7.0.QECMIXM_4c4949cc93_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.7.0.QECMIXM_4c4949cc93_10.0.zip/download
+  filename: fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.7.0.QECMIXM_4c4949cc93_10.0.zip
   region: Global
-  size: 595.5 MB
+  size: 620.7 MB
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QECMIXM
+    miui: V11.0.7.0.QECMIXM
 - branch: stable
   date: '2020-03-31'
   downloads:
@@ -923,16 +912,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJOIDXM
 - branch: stable
-  date: '2020-06-22'
+  date: '2020-07-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin-stable/fw-vendor_merlin_miui_MERLIN_V11.0.6.0.QJOCNXM_f6e2aeb1e9_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin-stable/fw-vendor_merlin_miui_MERLIN_V11.0.6.0.QJOCNXM_f6e2aeb1e9_10.0.zip/download
-  filename: fw-vendor_merlin_miui_MERLIN_V11.0.6.0.QJOCNXM_f6e2aeb1e9_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin-stable/fw-vendor_merlin_miui_MERLIN_V12.0.3.0.QJOCNXM_6910d6bc51_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin-stable/fw-vendor_merlin_miui_MERLIN_V12.0.3.0.QJOCNXM_6910d6bc51_10.0.zip/download
+  filename: fw-vendor_merlin_miui_MERLIN_V12.0.3.0.QJOCNXM_6910d6bc51_10.0.zip
   region: China
-  size: 540.5 MB
+  size: 542.9 MB
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QJOCNXM
+    miui: V12.0.3.0.QJOCNXM
 - branch: stable
   date: '2020-07-01'
   downloads:
@@ -1814,16 +1803,16 @@
     android: '9.0'
     miui: 9.6.27
 - branch: stable
-  date: '2020-07-17'
+  date: '2020-07-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip
   region: Global
-  size: 1.4 GB
+  size: 1.5 GB
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QJBIDXM
+    miui: V12.0.1.0.QJBMIXM
 - branch: stable
   date: '2020-07-10'
   downloads:
