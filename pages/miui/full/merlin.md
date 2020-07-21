@@ -32,7 +32,9 @@ permalink: /archive/miui/merlin/
         </tr>
     </thead>
     <tbody>
-    <tr><td>Redmi Note 9 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QJORUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-09</td><td><a href="/miui/merlin/stable/V11.0.3.0.QJORUXM/">Download</a></td></tr>
+    <tr><td>Redmi Note 9 India</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QJOINXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-21</td><td><a href="/miui/merlin/stable/V11.0.3.0.QJOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QJOINXM</td><td>10.0</td><td>2.8 GB</td><td>2020-07-03</td><td><a href="/miui/merlin/stable/V11.0.3.0.QJOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QJORUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-09</td><td><a href="/miui/merlin/stable/V11.0.3.0.QJORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QJORUXM</td><td>10.0</td><td>3.5 GB</td><td>2020-07-03</td><td><a href="/miui/merlin/stable/V11.0.3.0.QJORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJOINXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-07</td><td><a href="/miui/merlin/stable/V11.0.2.0.QJOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QJOINXM</td><td>10.0</td><td>2.9 GB</td><td>2020-06-24</td><td><a href="/miui/merlin/stable/V11.0.2.0.QJOINXM/">Download</a></td></tr>
