@@ -9,7 +9,7 @@ from pathlib import Path
 from string import Template
 
 import yaml
-from requests import get
+from requests import get, head
 from humanize import naturalsize
 
 # Variables
@@ -34,12 +34,15 @@ with open("update.template", 'r') as file:
 
 
 def get_data_from_github(url):
-    page = get(url, headers=HEADER)
-    data = page.json()
-    if page.links:
-        for i in range(2, len(page.links) + 1):
+    data = []
+    last = head(url, headers=HEADER).links.get('last')
+    if last:
+        last = last.get('url').split('=')[-1]
+        for i in range(1, int(last) + 1):
             for j in get(f"{url}&page={i}", headers=HEADER).json():
                 data.append(j)
+    else:
+        data = get(url, headers=HEADER).json()
     return data
 
 
