@@ -1,11 +1,11 @@
 - branch: weekly
   date: '2020-07-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lithium_global-weekly/fw-vendor_lithium_miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lithium_global-weekly/fw-vendor_lithium_miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip/download
-  filename: fw-vendor_lithium_miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip
-  region: Global
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lithium-weekly/fw-vendor_lithium_miui_MIMIX_9.10.10_205eb6e663_8.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lithium-weekly/fw-vendor_lithium_miui_MIMIX_9.10.10_205eb6e663_8.0.zip/download
+  filename: fw-vendor_lithium_miui_MIMIX_9.10.10_205eb6e663_8.0.zip
+  region: China
   size: 72.9 MB
   versions:
     android: '8.0'
-    miui: 9.6.27
+    miui: 9.10.10
