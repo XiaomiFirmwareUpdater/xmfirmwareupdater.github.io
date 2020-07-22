@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 21 Jul 2020 23:26:46 +0900</pubDate>
+  <pubDate>Wed, 22 Jul 2020 20:51:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - V11.0.10.0.PFHINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Wed, 22 Jul 2020 20:51:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro (joyeuse) - V11.0.4.0.QJZEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
+    <pubDate>Wed, 22 Jul 2020 20:50:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V11.0.4.0.QJWEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Wed, 22 Jul 2020 20:48:16 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V12.0.2.0.QJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Wed, 22 Jul 2020 20:46:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V12.0.2.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Wed, 22 Jul 2020 20:44:15 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V12.0.1.0.QJBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -80,31 +105,6 @@
     <title>Mi Max 3 (nitrogen) - 20.7.16</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Fri, 17 Jul 2020 01:17:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.7.16</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 17 Jul 2020 01:17:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 20.7.16</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 17 Jul 2020 01:17:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 20.7.16</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 17 Jul 2020 01:16:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - 20.7.16</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 17 Jul 2020 01:16:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - 20.7.16</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Fri, 17 Jul 2020 01:16:19 +0900</pubDate>
   </item>
     </channel>
 </rss>
