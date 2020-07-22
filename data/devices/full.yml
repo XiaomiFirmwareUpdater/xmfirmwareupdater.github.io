@@ -358,6 +358,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/stable-22.07.2020/fw_atom_miui_ATOM_V12.0.2.0.QJHCNXM_152f966e38_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/atom/fw_atom_miui_ATOM_V12.0.2.0.QJHCNXM_152f966e38_10.0.zip
+  filename: fw_atom_miui_ATOM_V12.0.2.0.QJHCNXM_152f966e38_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJHCNXM
 - branch: weekly
   date: '2020-07-16'
   downloads:
@@ -1538,6 +1548,16 @@
   versions:
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
+- branch: stable
+  date: '2020-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_bomb/releases/download/stable-22.07.2020/fw_bomb_miui_BOMB_V12.0.2.0.QJLCNXM_bc62150baa_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/bomb/fw_bomb_miui_BOMB_V12.0.2.0.QJLCNXM_bc62150baa_10.0.zip
+  filename: fw_bomb_miui_BOMB_V12.0.2.0.QJLCNXM_bc62150baa_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJLCNXM
 - branch: weekly
   date: '2020-07-16'
   downloads:
@@ -7848,6 +7868,16 @@
   versions:
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
+- branch: stable
+  date: '2020-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-22.07.2020/fw_curtana_miui_CURTANAEEAGlobal_V11.0.4.0.QJWEUXM_991b603f36_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAEEAGlobal_V11.0.4.0.QJWEUXM_991b603f36_10.0.zip
+  filename: fw_curtana_miui_CURTANAEEAGlobal_V11.0.4.0.QJWEUXM_991b603f36_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJWEUXM
 - branch: stable
   date: '2020-07-10'
   downloads:
@@ -16608,6 +16638,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_joyeuse/releases/download/stable-22.07.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.4.0.QJZEUXM_fd5baa5f96_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.4.0.QJZEUXM_fd5baa5f96_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.4.0.QJZEUXM_fd5baa5f96_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJZEUXM
 - branch: stable
   date: '2020-06-29'
   downloads:
@@ -51698,6 +51738,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-22.07.2020/fw_violet_miui_VIOLETINGlobal_V11.0.10.0.PFHINXM_907964be70_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.10.0.PFHINXM_907964be70_9.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V11.0.10.0.PFHINXM_907964be70_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.10.0.PFHINXM
 - branch: weekly
   date: '2020-07-16'
   downloads:
