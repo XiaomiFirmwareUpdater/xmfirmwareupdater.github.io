@@ -449,6 +449,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJHCNXM
 - branch: stable
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-23.07.2020/fw_begonia_miui_BEGONIAGlobal_V12.0.2.0.QGGMIXM_d7ccad5950_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.0.2.0.QGGMIXM_d7ccad5950_10.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V12.0.2.0.QGGMIXM_d7ccad5950_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QGGMIXM
+- branch: stable
   date: '2020-07-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-22.07.2020/fw_begonia_miui_BEGONIA_V12.0.2.0.QGGCNXM_972f66522c_10.0.zip
@@ -7268,6 +7278,16 @@
   versions:
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
+- branch: stable
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/stable-23.07.2020/fw_cmi_miui_CMIGlobal_V12.0.1.0.QJAMIXM_867725d306_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIGlobal_V12.0.1.0.QJAMIXM_867725d306_10.0.zip
+  filename: fw_cmi_miui_CMIGlobal_V12.0.1.0.QJAMIXM_867725d306_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJAMIXM
 - branch: weekly
   date: '2020-07-12'
   downloads:
@@ -30558,6 +30578,16 @@
   versions:
     android: '10.0'
     miui: V11.0.3.0.QGICNXM
+- branch: stable
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-23.07.2020/fw_pine_miui_PINEGlobal_V11.0.3.0.QCMMIXM_49023d184c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEGlobal_V11.0.3.0.QCMMIXM_49023d184c_10.0.zip
+  filename: fw_pine_miui_PINEGlobal_V11.0.3.0.QCMMIXM_49023d184c_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QCMMIXM
 - branch: stable
   date: '2020-07-03'
   downloads:

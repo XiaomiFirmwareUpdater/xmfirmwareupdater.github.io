@@ -32,7 +32,8 @@ permalink: /archive/miui/picasso/
         </tr>
     </thead>
     <tbody>
-    <tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>3.3 GB</td><td>2020-07-16</td><td><a href="/miui/picasso/weekly/20.7.16/">Download</a></td></tr>
+    <tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>3.3 GB</td><td>2020-07-23</td><td><a href="/miui/picasso/weekly/20.7.23/">Download</a></td></tr>
+<tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>3.3 GB</td><td>2020-07-16</td><td><a href="/miui/picasso/weekly/20.7.16/">Download</a></td></tr>
 <tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>10.0</td><td>3.3 GB</td><td>2020-07-09</td><td><a href="/miui/picasso/weekly/20.7.9/">Download</a></td></tr>
 <tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.2</td><td>10.0</td><td>3.3 GB</td><td>2020-07-02</td><td><a href="/miui/picasso/weekly/20.7.2/">Download</a></td></tr>
 <tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>10.0</td><td>3.3 GB</td><td>2020-06-18</td><td><a href="/miui/picasso/weekly/20.6.18/">Download</a></td></tr>
