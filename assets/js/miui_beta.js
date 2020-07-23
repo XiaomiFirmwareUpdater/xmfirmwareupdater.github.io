@@ -29,10 +29,10 @@ function loadMiuiChinaBeta(miui_version) {
                 { data: 'version', className: "all" },
                 { data: 'android', className: "min-mobile-l" },
                 {
-                    data: 'download',
+                    data: {},
                     className: "all",
                     "render": function (data) {
-                        return '<a href="' + data + '" target="_blank">Download</a>';
+                        return '<a href="/miui/' + data.codename.split('_')[0] + '/weekly/' + data.version + '/">Download</a>';
                     }
                 },
                 { data: 'date', className: "min-mobile-l" }
