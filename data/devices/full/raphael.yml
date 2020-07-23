@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-23.07.2020/fw_raphael_miui_RAPHAEL_20.7.23_08c0abd6dc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/raphael/fw_raphael_miui_RAPHAEL_20.7.23_08c0abd6dc_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.7.23_08c0abd6dc_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.23
+- branch: weekly
   date: '2020-07-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-16.07.2020/fw_raphael_miui_RAPHAEL_20.7.16_efa0dd683c_10.0.zip

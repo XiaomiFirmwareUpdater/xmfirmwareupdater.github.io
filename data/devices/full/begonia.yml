@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-23.07.2020/fw_begonia_miui_BEGONIA_20.7.23_3e524d26a8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/begonia/fw_begonia_miui_BEGONIA_20.7.23_3e524d26a8_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_20.7.23_3e524d26a8_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.23
 - branch: stable
   date: '2020-07-23'
   downloads:

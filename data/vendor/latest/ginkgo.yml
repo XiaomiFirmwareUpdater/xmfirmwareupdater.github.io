@@ -21,16 +21,16 @@
     android: '9.0'
     miui: V11.0.7.0.PCOCNXM
 - branch: weekly
-  date: '2020-07-17'
+  date: '2020-07-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-weekly/fw-vendor_ginkgo_miui_GINKGO_20.7.16_7ea298f3e5_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-weekly/fw-vendor_ginkgo_miui_GINKGO_20.7.16_7ea298f3e5_10.0.zip/download
-  filename: fw-vendor_ginkgo_miui_GINKGO_20.7.16_7ea298f3e5_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-weekly/fw-vendor_ginkgo_miui_GINKGO_20.7.23_e2b7abec30_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-weekly/fw-vendor_ginkgo_miui_GINKGO_20.7.23_e2b7abec30_10.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_20.7.23_e2b7abec30_10.0.zip
   region: China
-  size: 527.3 MB
+  size: 519.0 MB
   versions:
     android: '10.0'
-    miui: 20.7.16
+    miui: 20.7.23
 - branch: stable
   date: '2020-05-29'
   downloads:

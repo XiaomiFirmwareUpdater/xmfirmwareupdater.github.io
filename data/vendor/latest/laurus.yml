@@ -10,13 +10,13 @@
     android: '9.0'
     miui: V11.0.6.0.PFMCNXM
 - branch: weekly
-  date: '2020-07-17'
+  date: '2020-07-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-weekly/fw-vendor_laurus_miui_LAURUS_20.7.16_0a87cb696b_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/laurus-weekly/fw-vendor_laurus_miui_LAURUS_20.7.16_0a87cb696b_10.0.zip/download
-  filename: fw-vendor_laurus_miui_LAURUS_20.7.16_0a87cb696b_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-weekly/fw-vendor_laurus_miui_LAURUS_20.7.23_6638e64832_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/laurus-weekly/fw-vendor_laurus_miui_LAURUS_20.7.23_6638e64832_10.0.zip/download
+  filename: fw-vendor_laurus_miui_LAURUS_20.7.23_6638e64832_10.0.zip
   region: China
-  size: 524.8 MB
+  size: 515.7 MB
   versions:
     android: '10.0'
-    miui: 20.7.16
+    miui: 20.7.23

@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-06-16'
+  date: '2020-07-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi_global-stable/fw-vendor_cmi_miui_CMIGlobal_V11.0.4.0.QJAMIXM_b7a1628522_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi_global-stable/fw-vendor_cmi_miui_CMIGlobal_V11.0.4.0.QJAMIXM_b7a1628522_10.0.zip/download
-  filename: fw-vendor_cmi_miui_CMIGlobal_V11.0.4.0.QJAMIXM_b7a1628522_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi_global-stable/fw-vendor_cmi_miui_CMIGlobal_V12.0.1.0.QJAMIXM_867725d306_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi_global-stable/fw-vendor_cmi_miui_CMIGlobal_V12.0.1.0.QJAMIXM_867725d306_10.0.zip/download
+  filename: fw-vendor_cmi_miui_CMIGlobal_V12.0.1.0.QJAMIXM_867725d306_10.0.zip
   region: Global
-  size: 1.4 GB
+  size: 1.5 GB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QJAMIXM
+    miui: V12.0.1.0.QJAMIXM
 - branch: stable
   date: '2020-06-29'
   downloads:

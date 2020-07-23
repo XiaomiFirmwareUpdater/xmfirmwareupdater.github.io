@@ -9,6 +9,17 @@
   versions:
     android: '10.0'
     miui: 20.7.16
+- branch: weekly
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-weekly/fw-vendor_raphael_miui_RAPHAEL_20.7.23_08c0abd6dc_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-weekly/fw-vendor_raphael_miui_RAPHAEL_20.7.23_08c0abd6dc_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAEL_20.7.23_08c0abd6dc_10.0.zip
+  region: China
+  size: 815.0 MB
+  versions:
+    android: '10.0'
+    miui: 20.7.23
 - branch: stable
   date: '2019-10-12'
   downloads:
