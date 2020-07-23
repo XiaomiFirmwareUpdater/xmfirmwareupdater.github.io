@@ -263,16 +263,16 @@
     android: '10.0'
     miui: V12.0.1.0.QFAMIXM
 - branch: stable
-  date: '2020-06-22'
+  date: '2020-07-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip/download
-  filename: fw-vendor_cepheus_miui_CEPHEUS_V12.0.2.0.QFACNXM_f50d818cba_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.3.0.QFACNXM_20f96e9c93_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.3.0.QFACNXM_20f96e9c93_10.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUS_V12.0.3.0.QFACNXM_20f96e9c93_10.0.zip
   region: China
-  size: 735.9 MB
+  size: 738.0 MB
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QFACNXM
+    miui: V12.0.3.0.QFACNXM
 - branch: weekly
   date: '2020-07-17'
   downloads:
@@ -472,16 +472,16 @@
     android: '10.0'
     miui: 20.7.16
 - branch: stable
-  date: '2020-06-22'
+  date: '2020-07-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_global-stable/fw-vendor_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_global-stable/fw-vendor_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip/download
-  filename: fw-vendor_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/curtana_global-stable/fw-vendor_curtana_miui_CURTANAGlobal_V11.0.10.0.QJWMIXM_00d1fc3521_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/curtana_global-stable/fw-vendor_curtana_miui_CURTANAGlobal_V11.0.10.0.QJWMIXM_00d1fc3521_10.0.zip/download
+  filename: fw-vendor_curtana_miui_CURTANAGlobal_V11.0.10.0.QJWMIXM_00d1fc3521_10.0.zip
   region: Global
   size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.9.0.QJWMIXM
+    miui: V11.0.10.0.QJWMIXM
 - branch: stable
   date: '2020-07-22'
   downloads:
