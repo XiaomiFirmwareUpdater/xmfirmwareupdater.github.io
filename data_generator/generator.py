@@ -188,62 +188,17 @@ def generate_fw_md():
     """
     Generate downloads markdown files for firmware pages
     """
-    header = '''---
-title: $name ($codename) Firmware Downloads
-layout: download
-name: $name
-codename: $codename
-permalink: $link
----
-'''
-    table = '''{%include ads.html%}
-<div class="table-responsive-md" id="table-wrapper">
-{%include ad.html%}
-<table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
-    <thead class="thead-dark">
-        <tr>
-            <th data-ref="branch">Branch</th>
-            <th data-ref="miui">MIUI</th>
-            <th data-ref="android">Android</th>
-            <th data-ref="region">Region</th>
-            <th data-ref="link">Link</th>
-            <th data-ref="updated">Updated</th>
-        </tr>
-    </thead>
-    <script>loadFirmwareDownloads('$codename', '$request')</script>
-</table>
-</div>
-'''
-    latest = '''<h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss"><span class="label">RSS</span></a></span></h3>
-##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/firmware/$codename/).
-'''
-    archive = '''### Firmware Archive
-##### This page shows all available downloads. If you're looking for the latest releases check [Here](/firmware/$codename/).
-'''
-    banner = '''<div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow <a href="https://t.me/XiaomiFirmwareUpdater" class="alert-link">Xiaomi Firmware Updater</a> on Telegram to get notified when a new update is out!
-    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-        <span aria-hidden="true">&times;</span>
-    </button>
-</div>'''
-
-    for branch in ['latest', 'full']:
+    for branch, filename in {'latest': 'firmware_latest.template', 'full': 'firmware_archive.template'}.items():
+        with open(filename, 'r') as f:
+            template = Template(f.read())
         for codename, name in FW_DEVICES.items():
-            link = ''
+            markdown = template
+            markdown = markdown.safe_substitute(codename=codename, name=name, request=branch)
             if branch == 'latest':
                 link = f'/firmware/{codename}/'
-            elif branch == 'full':
+            else:
                 link = f'/archive/firmware/{codename}/'
-            markdown = ''
-            markdown += header.replace('$codename', codename) \
-                            .replace('$name', name).replace('$link', link) + '\n'
-            if branch == 'latest':
-                markdown += latest.replace('$codename', codename) + '\n'
-            elif branch == 'full':
-                markdown += archive.replace('$codename', codename) + '\n'
-            markdown += banner + '\n'
-            markdown += table.replace('$codename', codename).replace('$request', branch)
-
+            markdown = Template(markdown).safe_substitute(link=link)
             with open(f'../pages/firmware/{branch}/{codename}.md', 'w', encoding='utf-8') as out:
                 out.write(markdown)
 
@@ -352,8 +307,7 @@ def generate_miui_md():
             template = Template(f.read())
         for codename, name in M_DEVICES.items():
             markdown = template
-            markdown = markdown.safe_substitute(codename=codename)
-            markdown = Template(markdown).safe_substitute(name=name)
+            markdown = markdown.safe_substitute(codename=codename, name=name)
             if branch == 'latest':
                 table_content = generate_versions_pages(get_device_latest(codename))
                 link = f'/miui/{codename}/'
@@ -460,67 +414,17 @@ def load_vendor_devices():
             all_latest.append(i)
     with open('../data/vendor/latest.yml', 'w', encoding='utf-8') as out:
         yaml.dump(all_latest, out, Dumper=yaml.CDumper)
-    header = '''---
-title: $name ($codename) Vendor Downloads
-layout: download
-name: $name
-codename: $codename
-permalink: $link
----
-'''
-    table = '''{%include ads.html%}
-    {%include ad.html%}
-<div class="table-responsive-md" id="table-wrapper">
-    <table id="vendor" class="display dt-responsive compact table table-striped table-hover table-sm">
-        <thead class="thead-dark">
-            <tr>
-                <th data-ref="branch">Branch</th>
-                <th data-ref="miui">MIUI</th>
-                <th data-ref="region">Region</th>
-                <th data-ref="link">Link</th>
-                <th data-ref="size">Size</th>
-                <th data-ref="updated">Updated</th>
-            </tr>
-        </thead>
-        <script>loadVendorDownloads('$codename', '$request')</script>
-    </table>
-</div>
-'''
-    latest = '''### Latest Vendor flashable files
-##### This page shows the latest downloads only. If you're looking for old releases check [the archive](/archive/vendor/$codename/).
-'''
-    archive = '''### Vendor flashable files Archive
-##### This page shows all available downloads. If you're looking for the latest releases check [Here](/vendor/$codename/).
-'''
-    notice = "*Note 1*: All files listed here are made by " \
-             "[mi-vendor-updater](https://github.com/TryHardDood/mi-vendor-updater) " \
-             "open-source project. It's not owned, modified or edited by Xiaomi Firmware Updater.\n\n" \
-             "*Note 2*: Newer vendor packages include boot img, it'll overwrite existing boot img when you install it," \
-             "so, you'll need to reflash Magisk and any custom kernel if you're using it."
-    banner = '''<div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow <a href="https://t.me/MIUIVendorUpdater" class="alert-link">MIUI Vendor Updater</a> on Telegram to get notified when a new update is out!
-    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-        <span aria-hidden="true">&times;</span>
-    </button>
-</div>'''
-    for branch in ['latest', 'full']:
+    for branch, filename in {'latest': 'vendor_latest.template', 'full': 'vendor_archive.template'}.items():
+        with open(filename, 'r') as f:
+            template = Template(f.read())
         for codename, name in V_DEVICES.items():
-            link = ''
+            markdown = template
+            markdown = markdown.safe_substitute(codename=codename, name=name, request=branch)
             if branch == 'latest':
                 link = f'/vendor/{codename}/'
-            elif branch == 'full':
+            else:
                 link = f'/archive/vendor/{codename}/'
-            markdown = ''
-            markdown += header.replace('$codename', codename) \
-                            .replace('$name', name).replace('$link', link) + '\n'
-            if branch == 'latest':
-                markdown += latest.replace('$codename', codename) + '\n'
-            elif branch == 'full':
-                markdown += archive.replace('$codename', codename) + '\n'
-            markdown += notice + '\n'
-            markdown += banner + '\n'
-            markdown += table.replace('$codename', codename).replace('$request', branch)
-
+            markdown = Template(markdown).safe_substitute(link=link)
             with open(f'../pages/vendor/{branch}/{codename}.md', 'w', encoding='utf-8') as out:
                 out.write(markdown)
 

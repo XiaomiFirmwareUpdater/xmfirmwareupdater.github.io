@@ -1,4 +1,6 @@
-        <div class="card card-body">
+    <div class="card-group">
+        <div class="col-8 card card-body">
+            {%include pix_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
                     <h5><b>Device: </b>$device</h5>
@@ -41,3 +43,7 @@
                 </li>
             </ul>
         </div>
+        <div class="col-4 card card-body">
+            {%include ads_box.html%}
+        </div>
+    </div>

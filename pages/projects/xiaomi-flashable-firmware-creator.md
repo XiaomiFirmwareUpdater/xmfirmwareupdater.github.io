@@ -18,7 +18,10 @@ It supports creating untouched firmware, non-arb firmware, firmware + vendor fla
 - Easy-to-use interface
 - Multilanguage support (more than 25 languages!). Thanks to our community members!
 
+{%include pix_ad_320x50_1.html%}
+
 #### Screenshots:
+
 [Here](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/tree/py/screenshots)
 
 ### GUI Usage:
@@ -52,7 +55,10 @@ python3 create_flashable_firmware.py -L [MIUI ZIP]
 python3 create_flashable_firmware.py -V [MIUI ZIP]
 ```
 
+{%include pix_ad_320x50_1.html%}
+
 ### CLI Guide:
+
 1- Download .exe for windows, or the one without extension for linux from [releases](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/releases), and download Miui Based ROM you want to edit.
 
 2- Put them in the same folder tool & .zip file.

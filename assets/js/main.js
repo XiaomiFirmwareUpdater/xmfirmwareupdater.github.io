@@ -88,3 +88,11 @@
 $(document.links).filter(function() {
     return this.hostname != window.location.hostname;
 }).attr('target', '_blank')
+
+function scrollToDownload() {
+    if ($('#download').length != 0) {
+        $("html, body").animate({
+            scrollTop: $('#download').offset().top
+        }, 1000);
+    }
+}

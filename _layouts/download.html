@@ -49,12 +49,15 @@
 		</header>
 
 		<!-- Main -->
-		<section id="main" class="container">
+		<section id="main">
 			<header>
 				<h2>{{page.title}}</h2>
+				{% if page.date %}<p style="font-size: 16px; margin-top: 0.2em;"><em style="color: #b3b3b3">Published on
+						{{ page.date | date: '%B %d, %Y' }}</em></p>{% endif %}
+				{% if page.description %}<p>{{page.description}}.</p>{% endif %}
 			</header>
 			<div class="dropdown-divider"></div>
-			<div class="box">
+			<div class="container-fluid">
 				{{content}}
 			</div>
 		</section>
