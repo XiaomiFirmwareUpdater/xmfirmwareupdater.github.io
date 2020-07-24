@@ -5,34 +5,55 @@ name: Redmi Note 3G/Redmi Note 1 TD
 codename: lcsh92
 permalink: /archive/miui/lcsh92/
 ---
-### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for the latest releases check [Here](/miui/lcsh92/).
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
-
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">Home</a></li>
+        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/lcsh92/">Redmi Note 3G/Redmi Note 1 TD</a></li>
+    </ol>
+</nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">MIUI Updates Tracker</a> on Telegram to get notified when a new ROM is out!
+    Follow MIUI Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
+     or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ads.html%}
-<div class="table-responsive-md" id="table-wrapper">
 {%include ad.html%}
-<table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
-    <thead class="thead-dark">
-        <tr>
-            <th data-ref="device">Device</th>
-            <th data-ref="branch">Branch</th>
-            <th data-ref="type">Type</th>
-            <th data-ref="miui">MIUI</th>
-            <th data-ref="android">Android</th>
-            <th data-ref="size">Size</th>
-            <th data-ref="size">Date</th>
-            <th data-ref="link">Link</th>
-        </tr>
-    </thead>
-    <tbody>
-    <tr><td>Redmi Note 3G China</td><td>Stable</td><td>Recovery</td><td>V7.5.1.0.KHDCNDE</td><td>4.4</td><td>517.8 MB</td><td>2018-08-03</td><td><a href="/miui/lcsh92/stable/V7.5.1.0.KHDCNDE/">Download</a></td></tr>
+
+### MIUI Official ROMs Archive
+*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Note</h5>
+    <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/miui/lcsh92/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/lcsh92/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/lcsh92/" class="card-link">Vendor Downloads</a>
+  </div>
+</div>
+{%include ads.html%}
+<div class="row justify-content-center">
+    <div class="col-10">
+        <div class="table-responsive-md" style="margin-top: 25px;">
+            {%include pix_ad_320x50_1.html%}
+            <table id="miui" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
+                <thead class="thead-dark">
+                    <tr>
+                        <th data-ref="device">Device</th>
+                        <th data-ref="branch">Branch</th>
+                        <th data-ref="type">Type</th>
+                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="android">Android</th>
+                        <th data-ref="size">Size</th>
+                        <th data-ref="size">Date</th>
+                        <th data-ref="link">Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <tr><td>Redmi Note 3G China</td><td>Stable</td><td>Recovery</td><td>V7.5.1.0.KHDCNDE</td><td>4.4</td><td>517.8 MB</td><td>2018-08-03</td><td><a href="/miui/lcsh92/stable/V7.5.1.0.KHDCNDE/">Download</a></td></tr>
 <tr><td>Redmi Note 1 TD China</td><td>Stable</td><td>Recovery</td><td>V7.5.1.0.KHECNDE</td><td>4.4</td><td>516.3 MB</td><td>2018-08-03</td><td><a href="/miui/lcsh92/stable/V7.5.1.0.KHECNDE/">Download</a></td></tr>
 <tr><td>Redmi Note 3G Global</td><td>Stable</td><td>Recovery</td><td>V7.5.2.0.KHDMIDE</td><td>4.4</td><td>722.7 MB</td><td>2018-08-03</td><td><a href="/miui/lcsh92/stable/V7.5.2.0.KHDMIDE/">Download</a></td></tr>
 <tr><td>Redmi Note 3G China</td><td>Stable</td><td>Fastboot</td><td>V9.2.2.0.KHDCNEK</td><td>4.4</td><td>926.9 MB</td><td>2018-01-02</td><td><a href="/miui/lcsh92/stable/V9.2.2.0.KHDCNEK/">Download</a></td></tr>
@@ -91,7 +112,10 @@ permalink: /archive/miui/lcsh92/
 <tr><td>Redmi Note 3G Global</td><td>Stable</td><td>Recovery</td><td>V6.6.2.0.KHDMICF</td><td>4.4</td><td>727.8 MB</td><td>2015-10-10</td><td><a href="/miui/lcsh92/stable/V6.6.2.0.KHDMICF/">Download</a></td></tr>
 <tr><td>Redmi Note 3G Global</td><td>Weekly</td><td>Recovery</td><td>5.8.28</td><td>4.4</td><td>684.8 MB</td><td>2015-09-13</td><td><a href="/miui/lcsh92/weekly/5.8.28/">Download</a></td></tr>
 
-    </tbody>
-    <script>loadMiuiDownloads()</script>
-</table>
+                </tbody>
+                <script>loadMiuiDownloads()</script>
+            </table>
+        </div>
+    </div>
+    {%include pix_ad_160x600_1.html%}
 </div>

@@ -5,34 +5,55 @@ name: Mi Note 3
 codename: jason
 permalink: /archive/miui/jason/
 ---
-### MIUI Official ROMs Archive
-##### This page shows all available downloads. If you're looking for the latest releases check [Here](/miui/jason/).
-*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware Updater.
-
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">Home</a></li>
+        <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/jason/">Mi Note 3</a></li>
+    </ol>
+</nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
-    Follow <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">MIUI Updates Tracker</a> on Telegram to get notified when a new ROM is out!
+    Follow MIUI Updates Tracker on <a href="https://t.me/MIUIUpdatesTracker" class="alert-link">Telegram</a>
+     or <a href="https://twitter.com/MiFwUpdater" class="alert-link">Twitter</a> to get notified when a new update is out!
     <button type="button" class="close" data-dismiss="alert" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ads.html%}
-<div class="table-responsive-md" id="table-wrapper">
 {%include ad.html%}
-<table id="miui" class="display dt-responsive compact table table-striped table-hover table-sm">
-    <thead class="thead-dark">
-        <tr>
-            <th data-ref="device">Device</th>
-            <th data-ref="branch">Branch</th>
-            <th data-ref="type">Type</th>
-            <th data-ref="miui">MIUI</th>
-            <th data-ref="android">Android</th>
-            <th data-ref="size">Size</th>
-            <th data-ref="size">Date</th>
-            <th data-ref="link">Link</th>
-        </tr>
-    </thead>
-    <tbody>
-    <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.2 GB</td><td>2020-06-18</td><td><a href="/miui/jason/weekly/20.6.18/">Download</a></td></tr>
+
+### MIUI Official ROMs Archive
+*Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Note</h5>
+    <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/miui/jason/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/jason/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/jason/" class="card-link">Vendor Downloads</a>
+  </div>
+</div>
+{%include ads.html%}
+<div class="row justify-content-center">
+    <div class="col-10">
+        <div class="table-responsive-md" style="margin-top: 25px;">
+            {%include pix_ad_320x50_1.html%}
+            <table id="miui" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
+                <thead class="thead-dark">
+                    <tr>
+                        <th data-ref="device">Device</th>
+                        <th data-ref="branch">Branch</th>
+                        <th data-ref="type">Type</th>
+                        <th data-ref="miui">MIUI</th>
+                        <th data-ref="android">Android</th>
+                        <th data-ref="size">Size</th>
+                        <th data-ref="size">Date</th>
+                        <th data-ref="link">Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.2 GB</td><td>2020-06-18</td><td><a href="/miui/jason/weekly/20.6.18/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.17</td><td>9.0</td><td>2.2 GB</td><td>2020-06-17</td><td><a href="/miui/jason/weekly/20.6.17/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.11</td><td>9.0</td><td>2.2 GB</td><td>2020-06-11</td><td><a href="/miui/jason/weekly/20.6.11/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.4</td><td>9.0</td><td>2.2 GB</td><td>2020-06-04</td><td><a href="/miui/jason/weekly/20.6.4/">Download</a></td></tr>
@@ -346,7 +367,10 @@ permalink: /archive/miui/jason/
 <tr><td>Mi Note 3 China</td><td>Stable</td><td>Recovery</td><td>V8.5.3.0.NCHCNED</td><td>7.1</td><td>1.4 GB</td><td>2017-07-31</td><td><a href="/miui/jason/stable/V8.5.3.0.NCHCNED/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Stable</td><td>Recovery</td><td>V8.5.1.0.NCHCNED</td><td>7.1</td><td>1.4 GB</td><td>2017-07-24</td><td><a href="/miui/jason/stable/V8.5.1.0.NCHCNED/">Download</a></td></tr>
 
-    </tbody>
-    <script>loadMiuiDownloads()</script>
-</table>
+                </tbody>
+                <script>loadMiuiDownloads()</script>
+            </table>
+        </div>
+    </div>
+    {%include pix_ad_160x600_1.html%}
 </div>
