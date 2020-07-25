@@ -967,27 +967,27 @@
     android: '10.0'
     miui: 20.7.23
 - branch: stable
-  date: '2020-05-18'
+  date: '2020-07-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V11.0.6.0.PFGMIXM_48d41b4dee_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V11.0.6.0.PFGMIXM_48d41b4dee_9.0.zip/download
-  filename: fw-vendor_lavender_miui_LAVENDERGlobal_V11.0.6.0.PFGMIXM_48d41b4dee_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V11.0.1.0.QFGMIXM_62e6d87225_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V11.0.1.0.QFGMIXM_62e6d87225_10.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDERGlobal_V11.0.1.0.QFGMIXM_62e6d87225_10.0.zip
   region: Global
-  size: 408.2 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.6.0.PFGMIXM
-- branch: stable
-  date: '2020-06-23'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender-stable/fw-vendor_lavender_miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender-stable/fw-vendor_lavender_miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip/download
-  filename: fw-vendor_lavender_miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip
-  region: China
-  size: 520.4 MB
+  size: 506.7 MB
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFGCNXM
+    miui: V11.0.1.0.QFGMIXM
+- branch: stable
+  date: '2020-07-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender-stable/fw-vendor_lavender_miui_LAVENDER_V12.0.1.0.QFGCNXM_b44f121fca_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender-stable/fw-vendor_lavender_miui_LAVENDER_V12.0.1.0.QFGCNXM_b44f121fca_10.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDER_V12.0.1.0.QFGCNXM_b44f121fca_10.0.zip
+  region: China
+  size: 524.8 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFGCNXM
 - branch: weekly
   date: '2019-09-07'
   downloads:
@@ -1044,16 +1044,16 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-05-28'
+  date: '2020-07-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi_global-stable/fw-vendor_lmi_miui_LMIGlobal_V11.0.2.0.QJKMIXM_11263d45f3_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi_global-stable/fw-vendor_lmi_miui_LMIGlobal_V11.0.2.0.QJKMIXM_11263d45f3_10.0.zip/download
-  filename: fw-vendor_lmi_miui_LMIGlobal_V11.0.2.0.QJKMIXM_11263d45f3_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi_global-stable/fw-vendor_lmi_miui_LMIGlobal_V12.0.1.0.QJKMIXM_e14d3cd304_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi_global-stable/fw-vendor_lmi_miui_LMIGlobal_V12.0.1.0.QJKMIXM_e14d3cd304_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMIGlobal_V12.0.1.0.QJKMIXM_e14d3cd304_10.0.zip
   region: Global
-  size: 1.5 GB
+  size: 1.6 GB
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QJKMIXM
+    miui: V12.0.1.0.QJKMIXM
 - branch: stable
   date: '2020-07-17'
   downloads:
@@ -1087,6 +1087,17 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QJKEUXM
+- branch: stable
+  date: '2020-07-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi_ru_global-stable/fw-vendor_lmi_miui_LMIRUGlobal_V12.0.1.0.QJKRUXM_2eac603097_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi_ru_global-stable/fw-vendor_lmi_miui_LMIRUGlobal_V12.0.1.0.QJKRUXM_2eac603097_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMIRUGlobal_V12.0.1.0.QJKRUXM_2eac603097_10.0.zip
+  region: Russia
+  size: 1.5 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJKRUXM
 - branch: stable
   date: '2020-06-12'
   downloads:
