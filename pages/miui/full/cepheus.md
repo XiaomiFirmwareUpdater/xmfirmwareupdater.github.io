@@ -124,9 +124,9 @@ permalink: /archive/miui/cepheus/
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>9.11.7</td><td>10.0</td><td>2.6 GB</td><td>2019-11-07</td><td><a href="/miui/cepheus/weekly/9.11.7/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QFAMIXM</td><td>10.0</td><td>2.4 GB</td><td>2019-11-04</td><td><a href="/miui/cepheus/stable/V11.0.2.0.QFAMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QFAMIXM</td><td>10.0</td><td>3.8 GB</td><td>2019-11-02</td><td><a href="/miui/cepheus/stable/V11.0.2.0.QFAMIXM/">Download</a></td></tr>
+<tr><td>Mi 9 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QFACNXM</td><td>10.0</td><td>2.6 GB</td><td>2019-11-05</td><td><a href="/miui/cepheus/stable/V11.0.3.0.QFACNXM/">Download</a></td></tr>
 <tr><td>Mi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QFAEUXM</td><td>10.0</td><td>2.4 GB</td><td>2019-11-04</td><td><a href="/miui/cepheus/stable/V11.0.5.0.QFAEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QFAEUXM</td><td>10.0</td><td>3.8 GB</td><td>2019-11-01</td><td><a href="/miui/cepheus/stable/V11.0.5.0.QFAEUXM/">Download</a></td></tr>
-<tr><td>Mi 9 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QFACNXM</td><td>10.0</td><td>2.6 GB</td><td>2019-11-05</td><td><a href="/miui/cepheus/stable/V11.0.3.0.QFACNXM/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>9.10.31</td><td>10.0</td><td>2.6 GB</td><td>2019-10-31</td><td><a href="/miui/cepheus/weekly/9.10.31/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QFAMIXM</td><td>10.0</td><td>2.4 GB</td><td>2019-10-29</td><td><a href="/miui/cepheus/stable/V11.0.1.0.QFAMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>9.10.24</td><td>10.0</td><td>2.6 GB</td><td>2019-10-24</td><td><a href="/miui/cepheus/weekly/9.10.24/">Download</a></td></tr>
