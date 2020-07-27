@@ -923,16 +923,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJCMIXM
 - branch: stable
-  date: '2020-07-17'
+  date: '2020-07-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lancelot-stable/fw-vendor_lancelot_miui_LANCELOT_V11.0.4.0.QJCCNXM_89fd8abc76_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lancelot-stable/fw-vendor_lancelot_miui_LANCELOT_V11.0.4.0.QJCCNXM_89fd8abc76_10.0.zip/download
-  filename: fw-vendor_lancelot_miui_LANCELOT_V11.0.4.0.QJCCNXM_89fd8abc76_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lancelot-stable/fw-vendor_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lancelot-stable/fw-vendor_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip/download
+  filename: fw-vendor_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip
   region: China
-  size: 523.4 MB
+  size: 515.1 MB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QJCCNXM
+    miui: V12.0.1.0.QJCCNXM
 - branch: stable
   date: '2020-07-09'
   downloads:
@@ -1308,16 +1308,16 @@
     android: '9.0'
     miui: V11.0.5.0.PCPIDXM
 - branch: stable
-  date: '2020-06-03'
+  date: '2020-07-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITE_V11.0.10.0.PCPCNXM_9cc63fbd89_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.2.0.QCPCNXM_2a36b8852d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.2.0.QCPCNXM_2a36b8852d_10.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITE_V11.0.2.0.QCPCNXM_2a36b8852d_10.0.zip
   region: China
-  size: 369.0 MB
+  size: 373.8 MB
   versions:
-    android: '9.0'
-    miui: V11.0.10.0.PCPCNXM
+    android: '10.0'
+    miui: V11.0.2.0.QCPCNXM
 - branch: stable
   date: '2020-06-12'
   downloads:
@@ -1814,16 +1814,16 @@
     android: '10.0'
     miui: V12.0.1.0.QFKEUXM
 - branch: stable
-  date: '2020-05-25'
+  date: '2020-07-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_ru_global-stable/fw-vendor_raphael_miui_RAPHAELRUGlobal_V11.0.3.0.QFKRUXM_8f12ad5b84_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael_ru_global-stable/fw-vendor_raphael_miui_RAPHAELRUGlobal_V11.0.3.0.QFKRUXM_8f12ad5b84_10.0.zip/download
-  filename: fw-vendor_raphael_miui_RAPHAELRUGlobal_V11.0.3.0.QFKRUXM_8f12ad5b84_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael_ru_global-stable/fw-vendor_raphael_miui_RAPHAELRUGlobal_V12.0.1.0.QFKRUXM_c51c3f5308_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael_ru_global-stable/fw-vendor_raphael_miui_RAPHAELRUGlobal_V12.0.1.0.QFKRUXM_c51c3f5308_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAELRUGlobal_V12.0.1.0.QFKRUXM_c51c3f5308_10.0.zip
   region: Russia
-  size: 802.3 MB
+  size: 841.6 MB
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QFKRUXM
+    miui: V12.0.1.0.QFKRUXM
 - branch: stable
   date: '2020-07-20'
   downloads:
