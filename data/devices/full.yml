@@ -46029,6 +46029,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2020-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-28.07.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.11.0.QFNEUXM
+- branch: stable
   date: '2020-07-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-27.07.2020/fw_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
@@ -49458,6 +49468,26 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-28.07.2020/fw_umi_miui_UMIEEAGlobal_V12.0.1.0.QJBEUXM_e8362fdb86_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.0.1.0.QJBEUXM_e8362fdb86_10.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.0.1.0.QJBEUXM_e8362fdb86_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJBEUXM
+- branch: stable
+  date: '2020-07-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-28.07.2020/fw_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+  filename: fw_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QJBCNXM
 - branch: stable
   date: '2020-07-21'
   downloads:

@@ -2279,15 +2279,15 @@
     android: '10.0'
     miui: V11.0.6.0.QFNMIXM
 - branch: stable
-  date: '2020-07-03'
+  date: '2020-07-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-03.07.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-28.07.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.10.0.QFNEUXM
+    miui: V11.0.11.0.QFNEUXM
 - branch: stable
   date: '2020-07-03'
   downloads:
@@ -2439,15 +2439,15 @@
     android: '10.0'
     miui: V12.0.1.0.QJBMIXM
 - branch: stable
-  date: '2020-06-19'
+  date: '2020-07-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-19.06.2020/fw_umi_miui_UMI_V12.0.1.0.QJBCNXM_89345e68d7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMI_V12.0.1.0.QJBCNXM_89345e68d7_10.0.zip
-  filename: fw_umi_miui_UMI_V12.0.1.0.QJBCNXM_89345e68d7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-28.07.2020/fw_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+  filename: fw_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QJBCNXM
+    miui: V12.0.7.0.QJBCNXM
 - branch: weekly
   date: '2020-07-10'
   downloads:
@@ -2459,15 +2459,15 @@
     android: '11.0'
     miui: 20.7.9
 - branch: stable
-  date: '2020-06-11'
+  date: '2020-07-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-11.06.2020/fw_umi_miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/umi/fw_umi_miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip
-  filename: fw_umi_miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-28.07.2020/fw_umi_miui_UMIEEAGlobal_V12.0.1.0.QJBEUXM_e8362fdb86_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.0.1.0.QJBEUXM_e8362fdb86_10.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.0.1.0.QJBEUXM_e8362fdb86_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.14.0.QJBEUXM
+    miui: V12.0.1.0.QJBEUXM
 - branch: stable
   date: '2020-07-03'
   downloads:
