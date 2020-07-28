@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-06-24'
+  date: '2020-07-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-24.06.2020/fw_davinci_miui_DAVINCIGlobal_V11.0.6.0.QFJMIXM_1bfefed6db_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/davinci/fw_davinci_miui_DAVINCIGlobal_V11.0.6.0.QFJMIXM_1bfefed6db_10.0.zip
-  filename: fw_davinci_miui_DAVINCIGlobal_V11.0.6.0.QFJMIXM_1bfefed6db_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-28.07.2020/fw_davinci_miui_DAVINCIGlobal_V12.0.2.0.QFJMIXM_eca715bb58_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinci/fw_davinci_miui_DAVINCIGlobal_V12.0.2.0.QFJMIXM_eca715bb58_10.0.zip
+  filename: fw_davinci_miui_DAVINCIGlobal_V12.0.2.0.QFJMIXM_eca715bb58_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QFJMIXM
+    miui: V12.0.2.0.QFJMIXM
 - branch: stable
   date: '2020-06-25'
   downloads:

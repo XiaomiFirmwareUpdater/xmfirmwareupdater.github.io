@@ -263,6 +263,17 @@
     android: '10.0'
     miui: V11.0.6.0.QFJMIXM
 - branch: stable
+  date: '2020-07-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_miui_DAVINCIGlobal_V12.0.2.0.QFJMIXM_eca715bb58_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_global-stable/fw-vendor_davinci_miui_DAVINCIGlobal_V12.0.2.0.QFJMIXM_eca715bb58_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIGlobal_V12.0.2.0.QFJMIXM_eca715bb58_10.0.zip
+  region: Global
+  size: 786.3 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFJMIXM
+- branch: stable
   date: '2019-05-30'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable/fw-vendor_davinci_V10.3.6.0.PFJCNXM.zip
