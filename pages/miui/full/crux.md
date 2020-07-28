@@ -56,6 +56,7 @@ permalink: /archive/miui/crux/
                 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>3.0 GB</td><td>2020-07-23</td><td><a href="/miui/crux/weekly/20.7.23/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>3.0 GB</td><td>2020-07-16</td><td><a href="/miui/crux/weekly/20.7.16/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QFXCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-16</td><td><a href="/miui/crux/stable/V12.0.3.0.QFXCNXM/">Download</a></td></tr>
+<tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QFXCNXM</td><td>10.0</td><td>3.9 GB</td><td>2020-07-10</td><td><a href="/miui/crux/stable/V12.0.3.0.QFXCNXM/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>10.0</td><td>3.0 GB</td><td>2020-07-09</td><td><a href="/miui/crux/weekly/20.7.9/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.2</td><td>10.0</td><td>3.0 GB</td><td>2020-07-02</td><td><a href="/miui/crux/weekly/20.7.2/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>10.0</td><td>3.0 GB</td><td>2020-06-18</td><td><a href="/miui/crux/weekly/20.6.18/">Download</a></td></tr>
@@ -84,10 +85,10 @@ permalink: /archive/miui/crux/
 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>9.12.12</td><td>9.0</td><td>2.7 GB</td><td>2019-12-12</td><td><a href="/miui/crux/weekly/9.12.12/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PFXCNXM</td><td>9.0</td><td>2.6 GB</td><td>2019-11-14</td><td><a href="/miui/crux/stable/V11.0.3.0.PFXCNXM/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PFXCNXM</td><td>9.0</td><td>3.7 GB</td><td>2019-10-29</td><td><a href="/miui/crux/stable/V11.0.3.0.PFXCNXM/">Download</a></td></tr>
-<tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>9.11.7</td><td>9.0</td><td>2.6 GB</td><td>2019-11-07</td><td><a href="/miui/crux/weekly/9.11.7/">Download</a></td></tr>
-<tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>9.10.31</td><td>9.0</td><td>2.6 GB</td><td>2019-10-31</td><td><a href="/miui/crux/weekly/9.10.31/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFXCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-06-22</td><td><a href="/miui/crux/stable/V12.0.2.0.QFXCNXM/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFXCNXM</td><td>10.0</td><td>4.0 GB</td><td>2020-06-17</td><td><a href="/miui/crux/stable/V12.0.2.0.QFXCNXM/">Download</a></td></tr>
+<tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>9.11.7</td><td>9.0</td><td>2.6 GB</td><td>2019-11-07</td><td><a href="/miui/crux/weekly/9.11.7/">Download</a></td></tr>
+<tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>9.10.31</td><td>9.0</td><td>2.6 GB</td><td>2019-10-31</td><td><a href="/miui/crux/weekly/9.10.31/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PFXCNXM</td><td>9.0</td><td>2.6 GB</td><td>2019-10-25</td><td><a href="/miui/crux/stable/V11.0.2.0.PFXCNXM/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.PFXCNXM</td><td>9.0</td><td>3.7 GB</td><td>2019-10-22</td><td><a href="/miui/crux/stable/V11.0.2.0.PFXCNXM/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>9.10.24</td><td>9.0</td><td>2.6 GB</td><td>2019-10-24</td><td><a href="/miui/crux/weekly/9.10.24/">Download</a></td></tr>
