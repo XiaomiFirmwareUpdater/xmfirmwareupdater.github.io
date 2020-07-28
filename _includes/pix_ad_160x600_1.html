@@ -1,5 +1,13 @@
-<div class="col-2 d-none d-xl-block">
+<div id="pix_ad_160x600_1" class="col-2 d-none d-xl-block">
 	<div id="pf-24329x160x600x4150x_ADSLOT1" clickTrack="%%CLICK_URL_ESC%%"></div>
-	<script type="text/javascript" slotId="24329x160x600x4150x_ADSLOT1" async
-		src="https://served-by.pixfuture.com/www/delivery/ads.js"></script>
+	<script type="text/javascript">
+		if (screen && screen.width > 1024) {
+			var script = document.createElement('script');
+			script.src = '//served-by.pixfuture.com/www/delivery/headerbid.js'
+			script.setAttribute("slotId", "24329x160x600x4150x_ADSLOT1");
+			script.setAttribute("refreshInterval", 30);
+			script.setAttribute("refreshTime", 5);
+			document.getElementById("pf-24329x160x600x4150x_ADSLOT1").appendChild(script);
+		}
+	</script>
 </div>
