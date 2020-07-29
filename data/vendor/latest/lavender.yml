@@ -32,16 +32,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-05-19'
+  date: '2020-07-29'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.8.0.PFGEUXM_83816dbc07_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.8.0.PFGEUXM_83816dbc07_9.0.zip/download
-  filename: fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.8.0.PFGEUXM_83816dbc07_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip
   region: Europe
-  size: 408.2 MB
+  size: 506.7 MB
   versions:
-    android: '9.0'
-    miui: V11.0.8.0.PFGEUXM
+    android: '10.0'
+    miui: V11.0.1.0.QFGEUXM
 - branch: stable
   date: '2020-07-09'
   downloads:
