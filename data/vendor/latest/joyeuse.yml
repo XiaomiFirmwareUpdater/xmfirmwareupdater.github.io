@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-07-22'
+  date: '2020-07-29'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_id_global-stable/fw-vendor_joyeuse_miui_JOYEUSEIDGlobal_V11.0.3.0.QJZIDXM_e5c9822122_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_id_global-stable/fw-vendor_joyeuse_miui_JOYEUSEIDGlobal_V11.0.3.0.QJZIDXM_e5c9822122_10.0.zip/download
-  filename: fw-vendor_joyeuse_miui_JOYEUSEIDGlobal_V11.0.3.0.QJZIDXM_e5c9822122_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_global-stable/fw-vendor_joyeuse_miui_JOYEUSEGlobal_V11.0.5.0.QJZMIXM_b60ccd234e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_global-stable/fw-vendor_joyeuse_miui_JOYEUSEGlobal_V11.0.5.0.QJZMIXM_b60ccd234e_10.0.zip/download
+  filename: fw-vendor_joyeuse_miui_JOYEUSEGlobal_V11.0.5.0.QJZMIXM_b60ccd234e_10.0.zip
   region: Global
-  size: 1.1 GB
+  size: 1.2 GB
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QJZIDXM
+    miui: V11.0.5.0.QJZMIXM
 - branch: stable
   date: '2020-07-22'
   downloads:
