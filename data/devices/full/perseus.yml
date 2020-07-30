@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-30.07.2020/fw_perseus_miui_MIMIX3_20.7.30_b0165c48f7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/perseus/fw_perseus_miui_MIMIX3_20.7.30_b0165c48f7_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.7.30_b0165c48f7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.30
+- branch: weekly
   date: '2020-07-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/weekly-23.07.2020/fw_perseus_miui_MIMIX3_20.7.23_2c6d364772_10.0.zip

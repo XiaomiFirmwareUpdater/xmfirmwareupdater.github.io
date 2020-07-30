@@ -55,7 +55,7 @@ permalink: /miui/atom/
                 <tbody>
                 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.QJHCNXM</td><td>10.0</td><td>3.5 GB</td><td>2020-06-24</td><td><a href="/miui/atom/stable/V11.0.6.0.QJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.QJHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-06-29</td><td><a href="/miui/atom/stable/V11.0.6.0.QJHCNXM/">Download</a></td></tr>
-<tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>2.7 GB</td><td>2020-07-23</td><td><a href="/miui/atom/weekly/20.7.23/">Download</a></td></tr>
+<tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.7 GB</td><td>2020-07-30</td><td><a href="/miui/atom/weekly/20.7.30/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
