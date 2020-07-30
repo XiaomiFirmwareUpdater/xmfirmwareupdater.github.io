@@ -10,13 +10,13 @@
     android: '10.0'
     miui: V12.0.2.0.QJHCNXM
 - branch: weekly
-  date: '2020-07-23'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/atom-weekly/fw-vendor_atom_miui_ATOM_20.7.23_c11c5e9920_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/atom-weekly/fw-vendor_atom_miui_ATOM_20.7.23_c11c5e9920_10.0.zip/download
-  filename: fw-vendor_atom_miui_ATOM_20.7.23_c11c5e9920_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/atom-weekly/fw-vendor_atom_miui_ATOM_20.7.30_0bcc1347b5_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/atom-weekly/fw-vendor_atom_miui_ATOM_20.7.30_0bcc1347b5_10.0.zip/download
+  filename: fw-vendor_atom_miui_ATOM_20.7.30_0bcc1347b5_10.0.zip
   region: China
-  size: 671.7 MB
+  size: 676.5 MB
   versions:
     android: '10.0'
-    miui: 20.7.23
+    miui: 20.7.30

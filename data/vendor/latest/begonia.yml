@@ -21,16 +21,16 @@
     android: '10.0'
     miui: V12.0.2.0.QGGCNXM
 - branch: weekly
-  date: '2020-07-23'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-weekly/fw-vendor_begonia_miui_BEGONIA_20.7.23_3e524d26a8_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-weekly/fw-vendor_begonia_miui_BEGONIA_20.7.23_3e524d26a8_10.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIA_20.7.23_3e524d26a8_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-weekly/fw-vendor_begonia_miui_BEGONIA_20.7.30_5dded1da36_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-weekly/fw-vendor_begonia_miui_BEGONIA_20.7.30_5dded1da36_10.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIA_20.7.30_5dded1da36_10.0.zip
   region: China
-  size: 529.5 MB
+  size: 532.5 MB
   versions:
     android: '10.0'
-    miui: 20.7.23
+    miui: 20.7.30
 - branch: stable
   date: '2020-05-25'
   downloads:
