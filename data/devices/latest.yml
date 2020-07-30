@@ -1679,15 +1679,15 @@
     android: '10.0'
     miui: V12.0.3.0.QGHCNXM
 - branch: weekly
-  date: '2020-07-23'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-23.07.2020/fw_phoenix_miui_PHOENIX_20.7.23_ac9cbef09f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/phoenix/fw_phoenix_miui_PHOENIX_20.7.23_ac9cbef09f_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.7.23_ac9cbef09f_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-30.07.2020/fw_phoenix_miui_PHOENIX_20.7.30_895e554160_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/phoenix/fw_phoenix_miui_PHOENIX_20.7.30_895e554160_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.7.30_895e554160_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.23
+    miui: 20.7.30
 - branch: stable
   date: '2020-05-26'
   downloads:
@@ -1789,15 +1789,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-07-23'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-23.07.2020/fw_platina_miui_MI8Lite_20.7.23_a1270fe1ab_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/platina/fw_platina_miui_MI8Lite_20.7.23_a1270fe1ab_10.0.zip
-  filename: fw_platina_miui_MI8Lite_20.7.23_a1270fe1ab_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/weekly-30.07.2020/fw_platina_miui_MI8Lite_20.7.30_2c5439a595_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/platina/fw_platina_miui_MI8Lite_20.7.30_2c5439a595_10.0.zip
+  filename: fw_platina_miui_MI8Lite_20.7.30_2c5439a595_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.23
+    miui: 20.7.30
 - branch: stable
   date: '2020-06-03'
   downloads:
@@ -1879,15 +1879,15 @@
     android: '10.0'
     miui: V11.0.4.0.QFCCNXM
 - branch: weekly
-  date: '2020-07-23'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-23.07.2020/fw_pyxis_miui_PYXIS_20.7.23_5191280d5d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/pyxis/fw_pyxis_miui_PYXIS_20.7.23_5191280d5d_10.0.zip
-  filename: fw_pyxis_miui_PYXIS_20.7.23_5191280d5d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-30.07.2020/fw_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/pyxis/fw_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.23
+    miui: 20.7.30
 - branch: stable
   date: '2020-06-28'
   downloads:
@@ -1919,15 +1919,15 @@
     android: '10.0'
     miui: V12.0.3.0.QFKCNXM
 - branch: weekly
-  date: '2020-07-23'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-23.07.2020/fw_raphael_miui_RAPHAEL_20.7.23_08c0abd6dc_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/raphael/fw_raphael_miui_RAPHAEL_20.7.23_08c0abd6dc_10.0.zip
-  filename: fw_raphael_miui_RAPHAEL_20.7.23_08c0abd6dc_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-30.07.2020/fw_raphael_miui_RAPHAEL_20.7.30_2061f26e97_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/raphael/fw_raphael_miui_RAPHAEL_20.7.30_2061f26e97_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.7.30_2061f26e97_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.23
+    miui: 20.7.30
 - branch: stable
   date: '2020-07-03'
   downloads:
@@ -2239,15 +2239,15 @@
     android: '10.0'
     miui: V11.0.3.0.QEBCNXM
 - branch: weekly
-  date: '2020-07-23'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-23.07.2020/fw_sirius_miui_MI8SE_20.7.23_77814f9618_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/sirius/fw_sirius_miui_MI8SE_20.7.23_77814f9618_10.0.zip
-  filename: fw_sirius_miui_MI8SE_20.7.23_77814f9618_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/weekly-30.07.2020/fw_sirius_miui_MI8SE_20.7.30_546ff86058_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/sirius/fw_sirius_miui_MI8SE_20.7.30_546ff86058_10.0.zip
+  filename: fw_sirius_miui_MI8SE_20.7.30_546ff86058_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.23
+    miui: 20.7.30
 - branch: stable
   date: '2019-11-27'
   downloads:
@@ -2309,15 +2309,15 @@
     android: '10.0'
     miui: V12.0.1.0.QFDCNXM
 - branch: weekly
-  date: '2020-07-23'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-23.07.2020/fw_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/tucana/fw_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
-  filename: fw_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-30.07.2020/fw_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/tucana/fw_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
+  filename: fw_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.23
+    miui: 20.7.30
 - branch: stable
   date: '2020-07-03'
   downloads:
@@ -2449,15 +2449,15 @@
     android: '10.0'
     miui: V12.0.7.0.QJBCNXM
 - branch: weekly
-  date: '2020-07-10'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-10.07.2020/fw_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/umi/fw_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
-  filename: fw_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-30.07.2020/fw_umi_miui_UMI_20.7.30_f737ddb6dd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/umi/fw_umi_miui_UMI_20.7.30_f737ddb6dd_11.0.zip
+  filename: fw_umi_miui_UMI_20.7.30_f737ddb6dd_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 20.7.9
+    miui: 20.7.30
 - branch: stable
   date: '2020-07-28'
   downloads:
@@ -2509,15 +2509,15 @@
     android: '10.0'
     miui: V12.0.4.0.QJVCNXM
 - branch: weekly
-  date: '2020-07-23'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-23.07.2020/fw_vangogh_miui_VANGOGH_20.7.23_38107522a8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/vangogh/fw_vangogh_miui_VANGOGH_20.7.23_38107522a8_10.0.zip
-  filename: fw_vangogh_miui_VANGOGH_20.7.23_38107522a8_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-30.07.2020/fw_vangogh_miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/vangogh/fw_vangogh_miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip
+  filename: fw_vangogh_miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.23
+    miui: 20.7.30
 - branch: stable
   date: '2020-06-01'
   downloads:
@@ -2529,15 +2529,15 @@
     android: '10.0'
     miui: V11.0.4.0.QFECNXM
 - branch: weekly
-  date: '2020-07-23'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-23.07.2020/fw_vela_miui_VELA_20.7.23_cafac20348_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/vela/fw_vela_miui_VELA_20.7.23_cafac20348_10.0.zip
-  filename: fw_vela_miui_VELA_20.7.23_cafac20348_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-30.07.2020/fw_vela_miui_VELA_20.7.30_e6aa8dcbc0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/vela/fw_vela_miui_VELA_20.7.30_e6aa8dcbc0_10.0.zip
+  filename: fw_vela_miui_VELA_20.7.30_e6aa8dcbc0_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.23
+    miui: 20.7.30
 - branch: stable
   date: '2019-11-26'
   downloads:
@@ -2589,15 +2589,15 @@
     android: '10.0'
     miui: V11.0.1.0.QFHCNXM
 - branch: weekly
-  date: '2020-07-16'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-16.07.2020/fw_violet_miui_VIOLET_20.7.16_167f1c5676_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/violet/fw_violet_miui_VIOLET_20.7.16_167f1c5676_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.7.16_167f1c5676_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-30.07.2020/fw_violet_miui_VIOLET_20.7.30_27463950d1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/violet/fw_violet_miui_VIOLET_20.7.30_27463950d1_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.7.30_27463950d1_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.16
+    miui: 20.7.30
 - branch: stable
   date: '2020-07-22'
   downloads:

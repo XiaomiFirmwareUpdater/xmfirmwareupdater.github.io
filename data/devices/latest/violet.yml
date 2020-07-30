@@ -9,15 +9,15 @@
     android: '10.0'
     miui: V11.0.1.0.QFHCNXM
 - branch: weekly
-  date: '2020-07-16'
+  date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-16.07.2020/fw_violet_miui_VIOLET_20.7.16_167f1c5676_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/violet/fw_violet_miui_VIOLET_20.7.16_167f1c5676_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.7.16_167f1c5676_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-30.07.2020/fw_violet_miui_VIOLET_20.7.30_27463950d1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/violet/fw_violet_miui_VIOLET_20.7.30_27463950d1_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.7.30_27463950d1_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.7.16
+    miui: 20.7.30
 - branch: stable
   date: '2020-07-22'
   downloads:

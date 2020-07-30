@@ -1,11 +1,61 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 30 Jul 2020 20:30:46 +0900</pubDate>
+  <pubDate>Thu, 30 Jul 2020 21:00:32 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 20.7.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Thu, 30 Jul 2020 21:00:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Lite Zoom (vangogh) - 20.7.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
+    <pubDate>Thu, 30 Jul 2020 21:00:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - 20.7.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Thu, 30 Jul 2020 20:59:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 SE (sirius) - 20.7.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
+    <pubDate>Thu, 30 Jul 2020 20:59:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9 Pro (tucana) - 20.7.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Thu, 30 Jul 2020 20:58:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9 Meitu Edition (vela) - 20.7.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
+    <pubDate>Thu, 30 Jul 2020 20:58:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.7.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Thu, 30 Jul 2020 20:58:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - 20.7.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Thu, 30 Jul 2020 20:57:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.7.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Thu, 30 Jul 2020 20:57:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Lite (platina) - 20.7.30</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Thu, 30 Jul 2020 20:57:05 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 (dipper) - 20.7.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
@@ -55,56 +105,6 @@
     <title>Redmi K20/Mi 9T (davinci) - 20.7.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
     <pubDate>Thu, 30 Jul 2020 20:27:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Thu, 30 Jul 2020 20:27:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 30 Jul 2020 20:26:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Thu, 30 Jul 2020 20:26:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Thu, 30 Jul 2020 20:26:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Thu, 30 Jul 2020 20:25:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Thu, 30 Jul 2020 20:25:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Thu, 30 Jul 2020 20:24:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Thu, 30 Jul 2020 20:24:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V12.0.3.0.QJACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Thu, 30 Jul 2020 19:11:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V11.0.5.0.QJZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Thu, 30 Jul 2020 01:10:02 +0900</pubDate>
   </item>
     </channel>
 </rss>
