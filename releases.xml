@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 30 Jul 2020 21:00:32 +0900</pubDate>
+  <pubDate>Thu, 30 Jul 2020 21:26:58 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.2.0.QFLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Thu, 30 Jul 2020 21:26:58 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 4G (phoenix) - 20.7.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
@@ -100,11 +105,6 @@
     <title>Redmi 10X Pro (bomb) - 20.7.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
     <pubDate>Thu, 30 Jul 2020 20:27:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Thu, 30 Jul 2020 20:27:40 +0900</pubDate>
   </item>
     </channel>
 </rss>
