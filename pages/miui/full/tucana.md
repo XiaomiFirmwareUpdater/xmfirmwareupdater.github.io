@@ -56,6 +56,7 @@ permalink: /archive/miui/tucana/
                 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>3.1 GB</td><td>2020-07-30</td><td><a href="/miui/tucana/weekly/20.7.30/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>3.1 GB</td><td>2020-07-23</td><td><a href="/miui/tucana/weekly/20.7.23/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QFDCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-07-21</td><td><a href="/miui/tucana/stable/V12.0.1.0.QFDCNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QFDCNXM</td><td>10.0</td><td>3.9 GB</td><td>2020-07-15</td><td><a href="/miui/tucana/stable/V12.0.1.0.QFDCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>3.1 GB</td><td>2020-07-16</td><td><a href="/miui/tucana/weekly/20.7.16/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>10.0</td><td>3.1 GB</td><td>2020-07-09</td><td><a href="/miui/tucana/weekly/20.7.9/">Download</a></td></tr>
 <tr><td>Mi Note 10/Pro EEA</td><td>Stable</td><td>Recovery</td><td>V11.1.2.0.QFDEUXM</td><td>10.0</td><td>2.8 GB</td><td>2020-07-03</td><td><a href="/miui/tucana/stable/V11.1.2.0.QFDEUXM/">Download</a></td></tr>
