@@ -604,16 +604,16 @@
     android: '10.0'
     miui: V11.0.5.0.QEAMIXM
 - branch: stable
-  date: '2020-05-18'
+  date: '2020-07-31'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.8.0.QEACNXM_b6e3f68a98_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.8.0.QEACNXM_b6e3f68a98_10.0.zip/download
-  filename: fw-vendor_dipper_miui_MI8_V11.0.8.0.QEACNXM_b6e3f68a98_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
   region: China
-  size: 586.7 MB
+  size: 565.6 MB
   versions:
     android: '10.0'
-    miui: V11.0.8.0.QEACNXM
+    miui: V12.0.1.0.QEACNXM
 - branch: weekly
   date: '2020-07-17'
   downloads:
@@ -1055,16 +1055,16 @@
     android: '10.0'
     miui: V12.0.1.0.QJKIDXM
 - branch: stable
-  date: '2020-07-17'
+  date: '2020-07-31'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-stable/fw-vendor_lmi_miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-stable/fw-vendor_lmi_miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip/download
-  filename: fw-vendor_lmi_miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-stable/fw-vendor_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-stable/fw-vendor_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
   region: China
-  size: 1.3 GB
+  size: 1.4 GB
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QJKCNXM
+    miui: V12.0.5.0.QJKCNXM
 - branch: weekly
   date: '2020-07-17'
   downloads:
