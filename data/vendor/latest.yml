@@ -527,16 +527,16 @@
     android: '10.0'
     miui: V12.0.3.0.QCDMIXM
 - branch: stable
-  date: '2020-07-28'
+  date: '2020-08-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_miui_DAVINCIGlobal_V12.0.2.0.QFJMIXM_eca715bb58_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_global-stable/fw-vendor_davinci_miui_DAVINCIGlobal_V12.0.2.0.QFJMIXM_eca715bb58_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCIGlobal_V12.0.2.0.QFJMIXM_eca715bb58_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_global-stable/fw-vendor_davinci_miui_DAVINCIGlobal_V12.0.3.0.QFJMIXM_ed720ed0a6_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci_global-stable/fw-vendor_davinci_miui_DAVINCIGlobal_V12.0.3.0.QFJMIXM_ed720ed0a6_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCIGlobal_V12.0.3.0.QFJMIXM_ed720ed0a6_10.0.zip
   region: Global
-  size: 786.3 MB
+  size: 787.8 MB
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QFJMIXM
+    miui: V12.0.3.0.QFJMIXM
 - branch: stable
   date: '2020-06-25'
   downloads:
@@ -1528,16 +1528,16 @@
     android: '10.0'
     miui: V11.0.11.0.QGHINXM
 - branch: stable
-  date: '2020-07-07'
+  date: '2020-08-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso_48m-stable/fw-vendor_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso_48m-stable/fw-vendor_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip/download
-  filename: fw-vendor_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso-stable/fw-vendor_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso-stable/fw-vendor_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip/download
+  filename: fw-vendor_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
   region: China
   size: 1.1 GB
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QGICMXM
+    miui: V12.0.5.0.QGICNXM
 - branch: weekly
   date: '2020-07-30'
   downloads:
