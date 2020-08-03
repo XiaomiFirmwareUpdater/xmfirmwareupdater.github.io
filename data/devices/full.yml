@@ -8198,6 +8198,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJWINXM
+- branch: stable
+  date: '2020-08-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-03.08.2020/fw_davinci_miui_DAVINCIGlobal_V12.0.3.0.QFJMIXM_ed720ed0a6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinci/fw_davinci_miui_DAVINCIGlobal_V12.0.3.0.QFJMIXM_ed720ed0a6_10.0.zip
+  filename: fw_davinci_miui_DAVINCIGlobal_V12.0.3.0.QFJMIXM_ed720ed0a6_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QFJMIXM
 - branch: weekly
   date: '2020-07-30'
   downloads:
@@ -30578,6 +30588,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QGHINXM
+- branch: stable
+  date: '2020-08-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-03.08.2020/fw_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QGICNXM
 - branch: weekly
   date: '2020-07-30'
   downloads:
