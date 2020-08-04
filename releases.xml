@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 04 Aug 2020 21:29:43 +0900</pubDate>
+  <pubDate>Wed, 05 Aug 2020 01:45:51 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9A (dandelion) - V12.0.3.0.QCDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Wed, 05 Aug 2020 01:45:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A (dandelion) - V12.0.4.0.QCDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Wed, 05 Aug 2020 01:45:16 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 4G (phoenix) - V12.0.4.0.QGHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
@@ -95,16 +105,6 @@
     <title>Mi CC 9 Meitu Edition (vela) - 20.7.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
     <pubDate>Thu, 30 Jul 2020 20:58:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Thu, 30 Jul 2020 20:58:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Thu, 30 Jul 2020 20:57:50 +0900</pubDate>
   </item>
     </channel>
 </rss>
