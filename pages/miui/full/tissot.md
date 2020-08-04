@@ -87,7 +87,7 @@ permalink: /archive/miui/tissot/
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Recovery</td><td>V9.6.4.0.ODHMIFE</td><td>8.0</td><td>1.2 GB</td><td>2018-07-31</td><td><a href="/miui/tissot/stable/V9.6.4.0.ODHMIFE/">Download</a></td></tr>
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.4.0.ODHMIFE</td><td>8.0</td><td>1.6 GB</td><td>2018-07-12</td><td><a href="/miui/tissot/stable/V9.6.4.0.ODHMIFE/">Download</a></td></tr>
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.11.0.ODHMIFA</td><td>8.0</td><td>1.5 GB</td><td>2018-05-04</td><td><a href="/miui/tissot/stable/V9.5.11.0.ODHMIFA/">Download</a></td></tr>
-<tr><td>Mi A1 Global</td><td>Stable</td><td>Fastboot</td><td>V.9.5.10.0.ODHMIFA</td><td>8.0</td><td>1.5 GB</td><td>2018-04-05</td><td><a href="/miui/tissot/stable/V.9.5.10.0.ODHMIFA/">Download</a></td></tr>
+<tr><td>Mi A1 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.10.0.ODHMIFA</td><td>8.0</td><td>1.5 GB</td><td>2018-04-05</td><td><a href="/miui/tissot/stable/V9.5.10.0.ODHMIFA/">Download</a></td></tr>
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.9.0.ODHMIFA</td><td>8.0</td><td>1.5 GB</td><td>2018-03-16</td><td><a href="/miui/tissot/stable/V9.5.9.0.ODHMIFA/">Download</a></td></tr>
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.4.0.ODHMIFA</td><td>8.0</td><td>1.5 GB</td><td>2018-02-26</td><td><a href="/miui/tissot/stable/V9.5.4.0.ODHMIFA/">Download</a></td></tr>
 

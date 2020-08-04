@@ -79,7 +79,7 @@ permalink: /archive/miui/dipper/
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QEAMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-04-13</td><td><a href="/miui/dipper/stable/V11.0.4.0.QEAMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QEACNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-04-02</td><td><a href="/miui/dipper/stable/V11.0.7.0.QEACNXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.QEACNXM</td><td>10.0</td><td>2.7 GB</td><td>2020-03-10</td><td><a href="/miui/dipper/stable/V11.0.7.0.QEACNXM/">Download</a></td></tr>
-<tr><td>Mi 8 China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QEACNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-07-29</td><td><a href="/miui/dipper/stable/V12.0.1.0.QEACNXM/">Download</a></td></tr>
+<tr><td>Mi 8 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QEACNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-07-29</td><td><a href="/miui/dipper/stable beta/V12.0.1.0.QEACNXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.3.26</td><td>10.0</td><td>2.3 GB</td><td>2020-03-26</td><td><a href="/miui/dipper/weekly/20.3.26/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.3.19</td><td>10.0</td><td>2.3 GB</td><td>2020-03-19</td><td><a href="/miui/dipper/weekly/20.3.19/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.3.12</td><td>10.0</td><td>2.3 GB</td><td>2020-03-12</td><td><a href="/miui/dipper/weekly/20.3.12/">Download</a></td></tr>

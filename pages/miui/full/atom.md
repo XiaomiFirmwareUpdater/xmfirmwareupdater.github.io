@@ -53,7 +53,7 @@ permalink: /archive/miui/atom/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJHCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-08-04</td><td><a href="/miui/atom/stable/V12.0.4.0.QJHCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 10X 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QJHCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-08-04</td><td><a href="/miui/atom/stable beta/V12.0.4.0.QJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.7 GB</td><td>2020-07-30</td><td><a href="/miui/atom/weekly/20.7.30/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>2.7 GB</td><td>2020-07-23</td><td><a href="/miui/atom/weekly/20.7.23/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>2.7 GB</td><td>2020-07-16</td><td><a href="/miui/atom/weekly/20.7.16/">Download</a></td></tr>
