@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 04 Aug 2020 19:11:27 +0900</pubDate>
+  <pubDate>Tue, 04 Aug 2020 21:29:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 4G (phoenix) - V12.0.4.0.QGHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Tue, 04 Aug 2020 21:29:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8A (olivelite) - V11.0.1.0.QCPMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Tue, 04 Aug 2020 21:28:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8 (olive) - V11.0.2.0.QCNMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
+    <pubDate>Tue, 04 Aug 2020 21:26:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V12.0.4.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Tue, 04 Aug 2020 21:25:22 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Pro (cmi) - V12.0.1.0.QJAEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 7 Pro (violet) - 20.7.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
     <pubDate>Thu, 30 Jul 2020 20:57:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Thu, 30 Jul 2020 20:57:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Thu, 30 Jul 2020 20:57:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 (dipper) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
-    <pubDate>Thu, 30 Jul 2020 20:30:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Thu, 30 Jul 2020 20:30:13 +0900</pubDate>
   </item>
     </channel>
 </rss>

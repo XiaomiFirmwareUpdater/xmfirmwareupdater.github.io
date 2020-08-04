@@ -53,11 +53,11 @@ permalink: /miui/phoenix/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QGHCNXM</td><td>10.0</td><td>3.9 GB</td><td>2020-06-20</td><td><a href="/miui/phoenix/stable/V12.0.3.0.QGHCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Fastboot</td><td>V11.0.15.0.QGHCNXM</td><td>10.0</td><td>3.7 GB</td><td>2020-04-16</td><td><a href="/miui/phoenix/stable/V11.0.15.0.QGHCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 4G China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QGHCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-03</td><td><a href="/miui/phoenix/stable/V12.0.4.0.QGHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>3.0 GB</td><td>2020-07-30</td><td><a href="/miui/phoenix/weekly/20.7.30/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.11.0.QGHINXM</td><td>10.0</td><td>3.2 GB</td><td>2020-07-05</td><td><a href="/miui/phoenixin/stable/V11.0.11.0.QGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V11.0.11.0.QGHINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-09</td><td><a href="/miui/phoenixin/stable/V11.0.11.0.QGHINXM/">Download</a></td></tr>
-<tr><td>Redmi K30 4G China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QGHCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-06-16</td><td><a href="/miui/phoenix/stable/V12.0.2.0.QGHCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
