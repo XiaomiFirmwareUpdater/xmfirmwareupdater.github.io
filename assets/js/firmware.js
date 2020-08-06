@@ -172,7 +172,7 @@ function loadMiuiDownloads() {
             columnDefs: [{ type: 'file-size', targets: 5 }],
             columns: [
                 { data: 'device', className: "all" },
-                { data: 'branch', className: "min-tablet-p" },
+                { data: 'branch', className: "min-mobile-l" },
                 { data: 'type', className: "min-mobile-l" },
                 { data: 'version', className: "all" },
                 { data: 'android', className: "min-mobile-p" },
