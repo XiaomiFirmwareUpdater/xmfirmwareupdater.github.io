@@ -53,7 +53,8 @@ permalink: /archive/miui/ysl/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PEFMIXM</td><td>9.0</td><td>1.6 GB</td><td>2020-03-16</td><td><a href="/miui/ysl/stable/V11.0.5.0.PEFMIXM/">Download</a></td></tr>
+                <tr><td>Redmi S2 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.PEFCNXM</td><td>9.0</td><td>2.0 GB</td><td>2020-08-05</td><td><a href="/miui/ysl/stable beta/V12.0.4.0.PEFCNXM/">Download</a></td></tr>
+<tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PEFMIXM</td><td>9.0</td><td>1.6 GB</td><td>2020-03-16</td><td><a href="/miui/ysl/stable/V11.0.5.0.PEFMIXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PEFMIXM</td><td>9.0</td><td>2.0 GB</td><td>2020-03-06</td><td><a href="/miui/ysl/stable/V11.0.5.0.PEFMIXM/">Download</a></td></tr>
 <tr><td>Redmi S2 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PEFCNXM</td><td>9.0</td><td>1.8 GB</td><td>2020-03-11</td><td><a href="/miui/ysl/stable/V11.0.3.0.PEFCNXM/">Download</a></td></tr>
 <tr><td>Redmi S2 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PEFCNXM</td><td>9.0</td><td>2.3 GB</td><td>2020-03-04</td><td><a href="/miui/ysl/stable/V11.0.3.0.PEFCNXM/">Download</a></td></tr>
@@ -66,22 +67,22 @@ permalink: /archive/miui/ysl/
 <tr><td>Redmi S2 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PEFRUXM</td><td>9.0</td><td>1.6 GB</td><td>2019-11-07</td><td><a href="/miui/ysl/stable/V11.0.1.0.PEFRUXM/">Download</a></td></tr>
 <tr><td>Redmi S2 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PEFRUXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-22</td><td><a href="/miui/ysl/stable/V11.0.1.0.PEFRUXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PEFMIXM</td><td>9.0</td><td>1.6 GB</td><td>2019-11-01</td><td><a href="/miui/ysl/stable/V11.0.1.0.PEFMIXM/">Download</a></td></tr>
+<tr><td>Redmi S2 China</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PEFCNXM</td><td>9.0</td><td>1.8 GB</td><td>2019-10-25</td><td><a href="/miui/ysl/stable/V11.0.1.0.PEFCNXM/">Download</a></td></tr>
+<tr><td>Redmi S2 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PEFCNXM</td><td>9.0</td><td>2.2 GB</td><td>2019-10-21</td><td><a href="/miui/ysl/stable/V11.0.1.0.PEFCNXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.5.0.PEFMIXM</td><td>9.0</td><td>1.5 GB</td><td>2019-09-16</td><td><a href="/miui/ysl/stable/V10.3.5.0.PEFMIXM/">Download</a></td></tr>
 <tr><td>Redmi S2 Russia</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.PEFRUXM</td><td>9.0</td><td>1.5 GB</td><td>2019-08-23</td><td><a href="/miui/ysl/stable/V10.3.1.0.PEFRUXM/">Download</a></td></tr>
 <tr><td>Redmi S2 Russia</td><td>Stable</td><td>Fastboot</td><td>V10.3.1.0.PEFRUXM</td><td>9.0</td><td>1.9 GB</td><td>2019-08-15</td><td><a href="/miui/ysl/stable/V10.3.1.0.PEFRUXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.4.0.PEFMIXM</td><td>9.0</td><td>1.5 GB</td><td>2019-08-15</td><td><a href="/miui/ysl/stable/V10.3.4.0.PEFMIXM/">Download</a></td></tr>
-<tr><td>Redmi S2 China</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PEFCNXM</td><td>9.0</td><td>1.8 GB</td><td>2019-10-25</td><td><a href="/miui/ysl/stable/V11.0.1.0.PEFCNXM/">Download</a></td></tr>
-<tr><td>Redmi S2 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PEFCNXM</td><td>9.0</td><td>2.2 GB</td><td>2019-10-21</td><td><a href="/miui/ysl/stable/V11.0.1.0.PEFCNXM/">Download</a></td></tr>
 <tr><td>Redmi S2 China</td><td>Stable</td><td>Recovery</td><td>V10.3.4.0.PEFCNXM</td><td>9.0</td><td>1.6 GB</td><td>2019-08-07</td><td><a href="/miui/ysl/stable/V10.3.4.0.PEFCNXM/">Download</a></td></tr>
 <tr><td>Redmi S2 China</td><td>Stable</td><td>Fastboot</td><td>V10.3.4.0.PEFCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-08-02</td><td><a href="/miui/ysl/stable/V10.3.4.0.PEFCNXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PEFMIXM</td><td>9.0</td><td>1.5 GB</td><td>2019-08-05</td><td><a href="/miui/ysl/stable/V10.3.3.0.PEFMIXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PEFMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-08-03</td><td><a href="/miui/ysl/stable/V10.3.3.0.PEFMIXM/">Download</a></td></tr>
 <tr><td>Redmi S2 China</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PEFCNXM</td><td>9.0</td><td>1.6 GB</td><td>2019-07-11</td><td><a href="/miui/ysl/stable/V10.3.3.0.PEFCNXM/">Download</a></td></tr>
 <tr><td>Redmi S2 China</td><td>Stable</td><td>Recovery</td><td>V10.3.2.0.PEFCNXM</td><td>9.0</td><td>1.6 GB</td><td>2019-05-30</td><td><a href="/miui/ysl/stable/V10.3.2.0.PEFCNXM/">Download</a></td></tr>
-<tr><td>Redmi S2 China</td><td>Stable</td><td>Recovery</td><td>V10.3.4.0.OEFCNXM</td><td>8.1</td><td>1.4 GB</td><td>2019-04-15</td><td><a href="/miui/ysl/stable/V10.3.4.0.OEFCNXM/">Download</a></td></tr>
-<tr><td>Redmi S2 China</td><td>Stable</td><td>Fastboot</td><td>V10.3.4.0.OEFCNXM</td><td>8.1</td><td>1.9 GB</td><td>2019-04-07</td><td><a href="/miui/ysl/stable/V10.3.4.0.OEFCNXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.OEFMIXM</td><td>8.1</td><td>1.3 GB</td><td>2019-05-06</td><td><a href="/miui/ysl/stable/V10.3.1.0.OEFMIXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.1.0.OEFMIXM</td><td>8.1</td><td>1.9 GB</td><td>2019-05-06</td><td><a href="/miui/ysl/stable/V10.3.1.0.OEFMIXM/">Download</a></td></tr>
+<tr><td>Redmi S2 China</td><td>Stable</td><td>Recovery</td><td>V10.3.4.0.OEFCNXM</td><td>8.1</td><td>1.4 GB</td><td>2019-04-15</td><td><a href="/miui/ysl/stable/V10.3.4.0.OEFCNXM/">Download</a></td></tr>
+<tr><td>Redmi S2 China</td><td>Stable</td><td>Fastboot</td><td>V10.3.4.0.OEFCNXM</td><td>8.1</td><td>1.9 GB</td><td>2019-04-07</td><td><a href="/miui/ysl/stable/V10.3.4.0.OEFCNXM/">Download</a></td></tr>
 <tr><td>Redmi S2 Russia</td><td>Stable</td><td>Recovery</td><td>V10.2.2.0.OEFRUXM</td><td>8.1</td><td>1.3 GB</td><td>2019-04-12</td><td><a href="/miui/ysl/stable/V10.2.2.0.OEFRUXM/">Download</a></td></tr>
 <tr><td>Redmi S2 Russia</td><td>Stable</td><td>Fastboot</td><td>V10.2.2.0.OEFRUXM</td><td>8.1</td><td>1.8 GB</td><td>2019-04-08</td><td><a href="/miui/ysl/stable/V10.2.2.0.OEFRUXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Recovery</td><td>V10.2.2.0.OEFMIXM</td><td>8.1</td><td>1.3 GB</td><td>2019-03-25</td><td><a href="/miui/ysl/stable/V10.2.2.0.OEFMIXM/">Download</a></td></tr>

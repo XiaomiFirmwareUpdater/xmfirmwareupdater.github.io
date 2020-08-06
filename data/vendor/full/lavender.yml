@@ -1,4 +1,15 @@
 - branch: stable
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable-beta/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_eea_global-stable-beta/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip
+  region: Europe
+  size: 506.7 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QFGEUXM
+- branch: stable
   date: '2019-11-01'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_global-stable/fw-vendor_lavender_miui_LAVENDERGlobal_V11.0.3.0.PFGMIXM_45e3e548c2_9.0.zip

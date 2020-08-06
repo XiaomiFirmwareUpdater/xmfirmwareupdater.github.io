@@ -32,27 +32,27 @@
     android: '9.0'
     miui: V10.3.23.0.PEMEUXM
 - branch: stable
-  date: '2020-07-22'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/atom-stable/fw-vendor_atom_miui_ATOM_V12.0.2.0.QJHCNXM_152f966e38_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/atom-stable/fw-vendor_atom_miui_ATOM_V12.0.2.0.QJHCNXM_152f966e38_10.0.zip/download
-  filename: fw-vendor_atom_miui_ATOM_V12.0.2.0.QJHCNXM_152f966e38_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/atom-stable-beta/fw-vendor_atom_miui_ATOM_V12.0.4.0.QJHCNXM_0e379e0861_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/atom-stable-beta/fw-vendor_atom_miui_ATOM_V12.0.4.0.QJHCNXM_0e379e0861_10.0.zip/download
+  filename: fw-vendor_atom_miui_ATOM_V12.0.4.0.QJHCNXM_0e379e0861_10.0.zip
   region: China
-  size: 640.4 MB
+  size: 640.3 MB
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QJHCNXM
+    miui: V12.0.4.0.QJHCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/atom-weekly/fw-vendor_atom_miui_ATOM_20.7.30_0bcc1347b5_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/atom-weekly/fw-vendor_atom_miui_ATOM_20.7.30_0bcc1347b5_10.0.zip/download
-  filename: fw-vendor_atom_miui_ATOM_20.7.30_0bcc1347b5_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/atom-weekly/fw-vendor_atom_miui_ATOM_20.8.6_f2b0c3267a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/atom-weekly/fw-vendor_atom_miui_ATOM_20.8.6_f2b0c3267a_10.0.zip/download
+  filename: fw-vendor_atom_miui_ATOM_20.8.6_f2b0c3267a_10.0.zip
   region: China
-  size: 676.5 MB
+  size: 677.8 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-07-23'
   downloads:
@@ -76,16 +76,16 @@
     android: '10.0'
     miui: V12.0.2.0.QGGCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-weekly/fw-vendor_begonia_miui_BEGONIA_20.7.30_5dded1da36_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-weekly/fw-vendor_begonia_miui_BEGONIA_20.7.30_5dded1da36_10.0.zip/download
-  filename: fw-vendor_begonia_miui_BEGONIA_20.7.30_5dded1da36_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-weekly/fw-vendor_begonia_miui_BEGONIA_20.8.6_83f8f6a290_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia-weekly/fw-vendor_begonia_miui_BEGONIA_20.8.6_83f8f6a290_10.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIA_20.8.6_83f8f6a290_10.0.zip
   region: China
-  size: 532.5 MB
+  size: 532.4 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-05-25'
   downloads:
@@ -164,16 +164,16 @@
     android: '10.0'
     miui: V12.0.2.0.QJLCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/bomb-weekly/fw-vendor_bomb_miui_BOMB_20.7.30_c50f4b9e59_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/bomb-weekly/fw-vendor_bomb_miui_BOMB_20.7.30_c50f4b9e59_10.0.zip/download
-  filename: fw-vendor_bomb_miui_BOMB_20.7.30_c50f4b9e59_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/bomb-weekly/fw-vendor_bomb_miui_BOMB_20.8.6_72da83ea86_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/bomb-weekly/fw-vendor_bomb_miui_BOMB_20.8.6_72da83ea86_10.0.zip/download
+  filename: fw-vendor_bomb_miui_BOMB_20.8.6_72da83ea86_10.0.zip
   region: China
-  size: 678.9 MB
+  size: 681.9 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-05-16'
   downloads:
@@ -417,10 +417,10 @@
     android: '10.0'
     miui: V12.0.1.0.QJAMIXM
 - branch: stable
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi-stable/fw-vendor_cmi_miui_CMI_V12.0.3.0.QJACNXM_8f0c63a864_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi-stable/fw-vendor_cmi_miui_CMI_V12.0.3.0.QJACNXM_8f0c63a864_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi-stable-beta/fw-vendor_cmi_miui_CMI_V12.0.3.0.QJACNXM_8f0c63a864_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi-stable-beta/fw-vendor_cmi_miui_CMI_V12.0.3.0.QJACNXM_8f0c63a864_10.0.zip/download
   filename: fw-vendor_cmi_miui_CMI_V12.0.3.0.QJACNXM_8f0c63a864_10.0.zip
   region: China
   size: 1.3 GB
@@ -428,21 +428,21 @@
     android: '10.0'
     miui: V12.0.3.0.QJACNXM
 - branch: weekly
-  date: '2020-07-17'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi-weekly/fw-vendor_cmi_miui_CMI_20.7.8_704fa306bc_11.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi-weekly/fw-vendor_cmi_miui_CMI_20.7.8_704fa306bc_11.0.zip/download
-  filename: fw-vendor_cmi_miui_CMI_20.7.8_704fa306bc_11.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi-weekly/fw-vendor_cmi_miui_CMI_20.8.6_efa0d2607d_11.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi-weekly/fw-vendor_cmi_miui_CMI_20.8.6_efa0d2607d_11.0.zip/download
+  filename: fw-vendor_cmi_miui_CMI_20.8.6_efa0d2607d_11.0.zip
   region: China
   size: 1.3 GB
   versions:
     android: '11.0'
-    miui: 20.7.8
+    miui: 20.8.6
 - branch: stable
-  date: '2020-08-04'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi_eea_global-stable/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi_eea_global-stable/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi_eea_global-stable-beta/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi_eea_global-stable-beta/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip/download
   filename: fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip
   region: Europe
   size: 1.5 GB
@@ -461,16 +461,16 @@
     android: '10.0'
     miui: V12.0.3.0.QFXCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-weekly/fw-vendor_crux_miui_CRUX_20.7.30_155b52d40a_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-weekly/fw-vendor_crux_miui_CRUX_20.7.30_155b52d40a_10.0.zip/download
-  filename: fw-vendor_crux_miui_CRUX_20.7.30_155b52d40a_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/crux-weekly/fw-vendor_crux_miui_CRUX_20.8.6_984babef4f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/crux-weekly/fw-vendor_crux_miui_CRUX_20.8.6_984babef4f_10.0.zip/download
+  filename: fw-vendor_crux_miui_CRUX_20.8.6_984babef4f_10.0.zip
   region: China
-  size: 811.4 MB
+  size: 811.8 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-07-23'
   downloads:
@@ -549,27 +549,27 @@
     android: '10.0'
     miui: V12.0.3.0.QFJMIXM
 - branch: stable
-  date: '2020-06-25'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable/fw-vendor_davinci_miui_DAVINCI_V12.0.3.0.QFJCNXM_518c08987f_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable/fw-vendor_davinci_miui_DAVINCI_V12.0.3.0.QFJCNXM_518c08987f_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCI_V12.0.3.0.QFJCNXM_518c08987f_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable-beta/fw-vendor_davinci_miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable-beta/fw-vendor_davinci_miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip
   region: China
-  size: 714.6 MB
+  size: 702.4 MB
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QFJCNXM
+    miui: V12.0.4.0.QFJCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.8.6_283e5ffbf1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.8.6_283e5ffbf1_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCI_20.8.6_283e5ffbf1_10.0.zip
   region: China
-  size: 709.0 MB
+  size: 709.1 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-07-21'
   downloads:
@@ -615,10 +615,10 @@
     android: '10.0'
     miui: V11.0.5.0.QEAMIXM
 - branch: stable
-  date: '2020-07-31'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable-beta/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable-beta/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip/download
   filename: fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
   region: China
   size: 565.6 MB
@@ -659,16 +659,16 @@
     android: '10.0'
     miui: V11.0.4.0.QEARUXM
 - branch: stable
-  date: '2020-07-21'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.7.0.QECMIXM_4c4949cc93_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.7.0.QECMIXM_4c4949cc93_10.0.zip/download
-  filename: fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.7.0.QECMIXM_4c4949cc93_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable-beta/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.9.0.QECMIXM_35695bfee7_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable-beta/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.9.0.QECMIXM_35695bfee7_10.0.zip/download
+  filename: fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.9.0.QECMIXM_35695bfee7_10.0.zip
   region: Global
   size: 620.7 MB
   versions:
     android: '10.0'
-    miui: V11.0.7.0.QECMIXM
+    miui: V11.0.9.0.QECMIXM
 - branch: stable
   date: '2020-03-31'
   downloads:
@@ -747,16 +747,16 @@
     android: '9.0'
     miui: V11.0.7.0.PCOCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-weekly/fw-vendor_ginkgo_miui_GINKGO_20.7.30_d9e6345a7d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-weekly/fw-vendor_ginkgo_miui_GINKGO_20.7.30_d9e6345a7d_10.0.zip/download
-  filename: fw-vendor_ginkgo_miui_GINKGO_20.7.30_d9e6345a7d_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-weekly/fw-vendor_ginkgo_miui_GINKGO_20.8.6_c3712e4946_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-weekly/fw-vendor_ginkgo_miui_GINKGO_20.8.6_c3712e4946_10.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_20.8.6_c3712e4946_10.0.zip
   region: China
-  size: 518.7 MB
+  size: 519.1 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-05-29'
   downloads:
@@ -934,10 +934,10 @@
     android: '10.0'
     miui: V11.0.3.0.QJCIDXM
 - branch: stable
-  date: '2020-07-27'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lancelot-stable/fw-vendor_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lancelot-stable/fw-vendor_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lancelot-stable-beta/fw-vendor_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lancelot-stable-beta/fw-vendor_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip/download
   filename: fw-vendor_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip
   region: China
   size: 515.1 MB
@@ -978,16 +978,16 @@
     android: '9.0'
     miui: V11.0.6.0.PFMCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-weekly/fw-vendor_laurus_miui_LAURUS_20.7.30_d42b9e4188_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/laurus-weekly/fw-vendor_laurus_miui_LAURUS_20.7.30_d42b9e4188_10.0.zip/download
-  filename: fw-vendor_laurus_miui_LAURUS_20.7.30_d42b9e4188_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/laurus-weekly/fw-vendor_laurus_miui_LAURUS_20.8.6_5e2a30c340_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/laurus-weekly/fw-vendor_laurus_miui_LAURUS_20.8.6_5e2a30c340_10.0.zip/download
+  filename: fw-vendor_laurus_miui_LAURUS_20.8.6_5e2a30c340_10.0.zip
   region: China
   size: 516.4 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-07-24'
   downloads:
@@ -1022,10 +1022,10 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-07-29'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_eea_global-stable/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_eea_global-stable-beta/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_eea_global-stable-beta/fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip/download
   filename: fw-vendor_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip
   region: Europe
   size: 506.7 MB
@@ -1066,21 +1066,21 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-07-26'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi_id_global-stable/fw-vendor_lmi_miui_LMIIDGlobal_V12.0.1.0.QJKIDXM_8e789398ef_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi_id_global-stable/fw-vendor_lmi_miui_LMIIDGlobal_V12.0.1.0.QJKIDXM_8e789398ef_10.0.zip/download
-  filename: fw-vendor_lmi_miui_LMIIDGlobal_V12.0.1.0.QJKIDXM_8e789398ef_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi_id_global-stable-beta/fw-vendor_lmi_miui_LMIIDGlobal_V12.0.2.0.QJKIDXM_bca3f74c1d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi_id_global-stable-beta/fw-vendor_lmi_miui_LMIIDGlobal_V12.0.2.0.QJKIDXM_bca3f74c1d_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMIIDGlobal_V12.0.2.0.QJKIDXM_bca3f74c1d_10.0.zip
   region: Global
   size: 1.5 GB
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QJKIDXM
+    miui: V12.0.2.0.QJKIDXM
 - branch: stable
-  date: '2020-07-31'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-stable/fw-vendor_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-stable/fw-vendor_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-stable-beta/fw-vendor_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-stable-beta/fw-vendor_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip/download
   filename: fw-vendor_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
   region: China
   size: 1.4 GB
@@ -1088,16 +1088,16 @@
     android: '10.0'
     miui: V12.0.5.0.QJKCNXM
 - branch: weekly
-  date: '2020-07-17'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-weekly/fw-vendor_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-weekly/fw-vendor_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip/download
-  filename: fw-vendor_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-weekly/fw-vendor_lmi_miui_LMI_20.8.6_128cd6e279_11.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-weekly/fw-vendor_lmi_miui_LMI_20.8.6_128cd6e279_11.0.zip/download
+  filename: fw-vendor_lmi_miui_LMI_20.8.6_128cd6e279_11.0.zip
   region: China
-  size: 1.5 GB
+  size: 1.3 GB
   versions:
-    android: '10.0'
-    miui: 20.7.9
+    android: '11.0'
+    miui: 20.8.6
 - branch: stable
   date: '2020-07-17'
   downloads:
@@ -1143,10 +1143,10 @@
     android: '10.0'
     miui: V12.0.4.0.QJOCNXM
 - branch: stable
-  date: '2020-08-04'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_eea_global-stable/fw-vendor_merlin_miui_MERLINEEAGlobal_V12.0.1.0.QJOEUXM_2d4c4ea52d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_eea_global-stable/fw-vendor_merlin_miui_MERLINEEAGlobal_V12.0.1.0.QJOEUXM_2d4c4ea52d_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_eea_global-stable-beta/fw-vendor_merlin_miui_MERLINEEAGlobal_V12.0.1.0.QJOEUXM_2d4c4ea52d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_eea_global-stable-beta/fw-vendor_merlin_miui_MERLINEEAGlobal_V12.0.1.0.QJOEUXM_2d4c4ea52d_10.0.zip/download
   filename: fw-vendor_merlin_miui_MERLINEEAGlobal_V12.0.1.0.QJOEUXM_2d4c4ea52d_10.0.zip
   region: Europe
   size: 841.7 MB
@@ -1154,10 +1154,10 @@
     android: '10.0'
     miui: V12.0.1.0.QJOEUXM
 - branch: stable
-  date: '2020-07-29'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_global-stable/fw-vendor_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_global-stable/fw-vendor_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_global-stable-beta/fw-vendor_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_global-stable-beta/fw-vendor_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip/download
   filename: fw-vendor_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
   region: India
   size: 840.8 MB
@@ -1264,16 +1264,16 @@
     android: '10.0'
     miui: V11.0.2.0.QEDRUXM
 - branch: stable
-  date: '2020-06-12'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.7.0.PCNIDXM_33bde5c02c_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.7.0.PCNIDXM_33bde5c02c_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.7.0.PCNIDXM_33bde5c02c_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable-beta/fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable-beta/fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip
   region: Global
-  size: 371.0 MB
+  size: 465.3 MB
   versions:
-    android: '9.0'
-    miui: V11.0.7.0.PCNIDXM
+    android: '10.0'
+    miui: V11.0.2.0.QCNMIXM
 - branch: stable
   date: '2020-05-25'
   downloads:
@@ -1319,16 +1319,16 @@
     android: '9.0'
     miui: V11.0.6.0.PCNRUXM
 - branch: stable
-  date: '2020-06-15'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_id_global-stable/fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.5.0.PCPIDXM_4da7671886_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_id_global-stable/fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.5.0.PCPIDXM_4da7671886_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.5.0.PCPIDXM_4da7671886_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_global-stable-beta/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.QCPMIXM_0d091c0c4e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_global-stable-beta/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.QCPMIXM_0d091c0c4e_10.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.QCPMIXM_0d091c0c4e_10.0.zip
   region: Global
-  size: 269.9 MB
+  size: 336.0 MB
   versions:
-    android: '9.0'
-    miui: V11.0.5.0.PCPIDXM
+    android: '10.0'
+    miui: V11.0.1.0.QCPMIXM
 - branch: stable
   date: '2020-07-27'
   downloads:
@@ -1418,10 +1418,10 @@
     android: '9.0'
     miui: V11.0.6.0.PFLMIXM
 - branch: stable
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable-beta/fw-vendor_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable-beta/fw-vendor_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip/download
   filename: fw-vendor_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip
   region: China
   size: 408.5 MB
@@ -1517,27 +1517,27 @@
     android: '10.0'
     miui: V11.0.4.0.QEERUXM
 - branch: stable
-  date: '2020-06-25'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/phoenix-stable/fw-vendor_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip/download
-  filename: fw-vendor_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/phoenix-stable-beta/fw-vendor_phoenix_miui_PHOENIX_V12.0.4.0.QGHCNXM_62e7532646_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/phoenix-stable-beta/fw-vendor_phoenix_miui_PHOENIX_V12.0.4.0.QGHCNXM_62e7532646_10.0.zip/download
+  filename: fw-vendor_phoenix_miui_PHOENIX_V12.0.4.0.QGHCNXM_62e7532646_10.0.zip
   region: China
-  size: 919.2 MB
+  size: 905.9 MB
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QGHCNXM
+    miui: V12.0.4.0.QGHCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/phoenix-weekly/fw-vendor_phoenix_miui_PHOENIX_20.7.30_895e554160_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/phoenix-weekly/fw-vendor_phoenix_miui_PHOENIX_20.7.30_895e554160_10.0.zip/download
-  filename: fw-vendor_phoenix_miui_PHOENIX_20.7.30_895e554160_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/phoenix-weekly/fw-vendor_phoenix_miui_PHOENIX_20.8.6_ea4fe51dbc_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/phoenix-weekly/fw-vendor_phoenix_miui_PHOENIX_20.8.6_ea4fe51dbc_10.0.zip/download
+  filename: fw-vendor_phoenix_miui_PHOENIX_20.8.6_ea4fe51dbc_10.0.zip
   region: China
-  size: 936.3 MB
+  size: 938.1 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-07-09'
   downloads:
@@ -1561,16 +1561,16 @@
     android: '10.0'
     miui: V12.0.5.0.QGICNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso-weekly/fw-vendor_picasso_miui_PICASSO_20.7.30_713251a876_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso-weekly/fw-vendor_picasso_miui_PICASSO_20.7.30_713251a876_10.0.zip/download
-  filename: fw-vendor_picasso_miui_PICASSO_20.7.30_713251a876_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso-weekly/fw-vendor_picasso_miui_PICASSO_20.8.6_8acfc1991f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso-weekly/fw-vendor_picasso_miui_PICASSO_20.8.6_8acfc1991f_10.0.zip/download
+  filename: fw-vendor_picasso_miui_PICASSO_20.8.6_8acfc1991f_10.0.zip
   region: China
   size: 1.1 GB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-07-23'
   downloads:
@@ -1759,16 +1759,16 @@
     android: '10.0'
     miui: V11.0.4.0.QFCCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip
   region: China
-  size: 764.0 MB
+  size: 764.2 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-06-28'
   downloads:
@@ -1814,16 +1814,16 @@
     android: '10.0'
     miui: V12.0.3.0.QFKCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-weekly/fw-vendor_raphael_miui_RAPHAEL_20.7.30_2061f26e97_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-weekly/fw-vendor_raphael_miui_RAPHAEL_20.7.30_2061f26e97_10.0.zip/download
-  filename: fw-vendor_raphael_miui_RAPHAEL_20.7.30_2061f26e97_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphael-weekly/fw-vendor_raphael_miui_RAPHAEL_20.8.6_7d156d1b46_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphael-weekly/fw-vendor_raphael_miui_RAPHAEL_20.8.6_7d156d1b46_10.0.zip/download
+  filename: fw-vendor_raphael_miui_RAPHAEL_20.8.6_7d156d1b46_10.0.zip
   region: China
-  size: 817.5 MB
+  size: 817.6 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-06-29'
   downloads:
@@ -1913,16 +1913,16 @@
     android: '9.0'
     miui: V11.0.7.0.PDMMIXM
 - branch: stable
-  date: '2020-06-24'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-stable/fw-vendor_sakura_miui_HM6Pro_V11.0.6.0.PDICNXM_56ec501e98_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-stable/fw-vendor_sakura_miui_HM6Pro_V11.0.6.0.PDICNXM_56ec501e98_9.0.zip/download
-  filename: fw-vendor_sakura_miui_HM6Pro_V11.0.6.0.PDICNXM_56ec501e98_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/sakura-stable-beta/fw-vendor_sakura_miui_HM6Pro_V12.0.1.0.PDICNXM_81d8bc0ad2_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/sakura-stable-beta/fw-vendor_sakura_miui_HM6Pro_V12.0.1.0.PDICNXM_81d8bc0ad2_9.0.zip/download
+  filename: fw-vendor_sakura_miui_HM6Pro_V12.0.1.0.PDICNXM_81d8bc0ad2_9.0.zip
   region: China
-  size: 288.0 MB
+  size: 291.0 MB
   versions:
     android: '9.0'
-    miui: V11.0.6.0.PDICNXM
+    miui: V12.0.1.0.PDICNXM
 - branch: weekly
   date: '2020-07-17'
   downloads:
@@ -1968,21 +1968,21 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-07-25'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V11.0.8.0.QFNMIXM_016df139ef_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V11.0.8.0.QFNMIXM_016df139ef_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOGlobal_V11.0.8.0.QFNMIXM_016df139ef_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_global-stable-beta/fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_global-stable-beta/fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
   region: Global
   size: 1.1 GB
   versions:
     android: '10.0'
-    miui: V11.0.8.0.QFNMIXM
+    miui: V11.0.6.0.QFNMIXM
 - branch: stable
-  date: '2020-07-28'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable-beta/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable-beta/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip/download
   filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
   region: Europe
   size: 1.2 GB
@@ -2023,16 +2023,16 @@
     android: '10.0'
     miui: V12.0.1.0.QFDCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.8.6_c200e0df8a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.8.6_c200e0df8a_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_20.8.6_c200e0df8a_10.0.zip
   region: China
   size: 1.0 GB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-07-03'
   downloads:
@@ -2089,10 +2089,10 @@
     android: '10.0'
     miui: V12.0.1.0.QJBMIXM
 - branch: stable
-  date: '2020-07-28'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
   region: China
   size: 1.3 GB
@@ -2100,16 +2100,16 @@
     android: '10.0'
     miui: V12.0.7.0.QJBCNXM
 - branch: weekly
-  date: '2020-07-17'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip/download
-  filename: fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip/download
+  filename: fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip
   region: China
   size: 1.3 GB
   versions:
     android: '11.0'
-    miui: 20.7.9
+    miui: 20.8.6
 - branch: stable
   date: '2020-07-28'
   downloads:
@@ -2133,16 +2133,16 @@
     android: '10.0'
     miui: V11.0.7.0.QJBINXM
 - branch: stable
-  date: '2020-06-08'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_ru_global-stable-beta/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_ru_global-stable-beta/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
   region: Russia
-  size: 1.4 GB
+  size: 1.5 GB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QJBRUXM
+    miui: V12.0.1.0.QJBRUXM
 - branch: stable
   date: '2020-04-13'
   downloads:
@@ -2177,16 +2177,16 @@
     android: '10.0'
     miui: V12.0.4.0.QJVCNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-weekly/fw-vendor_vangogh_miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-weekly/fw-vendor_vangogh_miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip/download
-  filename: fw-vendor_vangogh_miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-weekly/fw-vendor_vangogh_miui_VANGOGH_20.8.6_51d3e9c7dc_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-weekly/fw-vendor_vangogh_miui_VANGOGH_20.8.6_51d3e9c7dc_10.0.zip/download
+  filename: fw-vendor_vangogh_miui_VANGOGH_20.8.6_51d3e9c7dc_10.0.zip
   region: China
   size: 1.2 GB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: stable
   date: '2020-06-01'
   downloads:
@@ -2199,16 +2199,16 @@
     android: '10.0'
     miui: V11.0.4.0.QFECNXM
 - branch: weekly
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vela-weekly/fw-vendor_vela_miui_VELA_20.7.30_e6aa8dcbc0_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vela-weekly/fw-vendor_vela_miui_VELA_20.7.30_e6aa8dcbc0_10.0.zip/download
-  filename: fw-vendor_vela_miui_VELA_20.7.30_e6aa8dcbc0_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vela-weekly/fw-vendor_vela_miui_VELA_20.8.6_b4ed3bfc49_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vela-weekly/fw-vendor_vela_miui_VELA_20.8.6_b4ed3bfc49_10.0.zip/download
+  filename: fw-vendor_vela_miui_VELA_20.8.6_b4ed3bfc49_10.0.zip
   region: China
-  size: 699.2 MB
+  size: 699.4 MB
   versions:
     android: '10.0'
-    miui: 20.7.30
+    miui: 20.8.6
 - branch: weekly
   date: '2019-04-07'
   downloads:

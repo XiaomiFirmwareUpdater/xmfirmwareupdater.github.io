@@ -10,10 +10,10 @@
     android: '9.0'
     miui: V11.0.6.0.PFLMIXM
 - branch: stable
-  date: '2020-07-30'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable/fw-vendor_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip/download
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite-stable-beta/fw-vendor_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite-stable-beta/fw-vendor_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip/download
   filename: fw-vendor_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip
   region: China
   size: 408.5 MB

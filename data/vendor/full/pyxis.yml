@@ -31,6 +31,17 @@
   versions:
     android: '10.0'
     miui: 20.7.30
+- branch: weekly
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip
+  region: China
+  size: 764.2 MB
+  versions:
+    android: '10.0'
+    miui: 20.8.6
 - branch: stable
   date: '2019-10-04'
   downloads:
