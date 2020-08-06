@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-06.08.2020/fw_vela_miui_VELA_20.8.6_b4ed3bfc49_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.6/vela/fw_vela_miui_VELA_20.8.6_b4ed3bfc49_10.0.zip
+  filename: fw_vela_miui_VELA_20.8.6_b4ed3bfc49_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.8.6
+- branch: weekly
   date: '2020-07-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-30.07.2020/fw_vela_miui_VELA_20.7.30_e6aa8dcbc0_10.0.zip

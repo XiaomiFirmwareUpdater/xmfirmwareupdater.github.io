@@ -56,7 +56,7 @@ permalink: /miui/lavender/
                 <tr><td>Redmi Note 7 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QFGCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-06-11</td><td><a href="/miui/lavender/stable/V11.0.2.0.QFGCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.9 GB</td><td>2019-09-04</td><td><a href="/miui/lavender/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Redmi Note 7 China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QFGCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-07-21</td><td><a href="/miui/lavender/stable/V12.0.1.0.QFGCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.4 GB</td><td>2020-07-30</td><td><a href="/miui/lavender/weekly/20.7.30/">Download</a></td></tr>
+<tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>10.0</td><td>2.4 GB</td><td>2020-08-06</td><td><a href="/miui/lavender/weekly/20.8.6/">Download</a></td></tr>
 <tr><td>Redmi Note 7 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.PFGEUXM</td><td>9.0</td><td>2.9 GB</td><td>2020-05-15</td><td><a href="/miui/lavender/stable/V11.0.8.0.PFGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.PFGEUXM</td><td>9.0</td><td>2.0 GB</td><td>2020-05-19</td><td><a href="/miui/lavender/stable/V11.0.8.0.PFGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.1.0.QFGEUXM</td><td>10.0</td><td>2.1 GB</td><td>2020-07-29</td><td><a href="/miui/lavender/stable beta/V11.0.1.0.QFGEUXM/">Download</a></td></tr>

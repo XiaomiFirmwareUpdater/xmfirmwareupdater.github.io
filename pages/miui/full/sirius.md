@@ -53,7 +53,8 @@ permalink: /archive/miui/sirius/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.2 GB</td><td>2020-07-30</td><td><a href="/miui/sirius/weekly/20.7.30/">Download</a></td></tr>
+                <tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>10.0</td><td>2.2 GB</td><td>2020-08-06</td><td><a href="/miui/sirius/weekly/20.8.6/">Download</a></td></tr>
+<tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.2 GB</td><td>2020-07-30</td><td><a href="/miui/sirius/weekly/20.7.30/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>2.2 GB</td><td>2020-07-23</td><td><a href="/miui/sirius/weekly/20.7.23/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>2.2 GB</td><td>2020-07-16</td><td><a href="/miui/sirius/weekly/20.7.16/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>10.0</td><td>2.2 GB</td><td>2020-07-09</td><td><a href="/miui/sirius/weekly/20.7.9/">Download</a></td></tr>
@@ -73,8 +74,8 @@ permalink: /archive/miui/sirius/
 <tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.3.19</td><td>10.0</td><td>2.2 GB</td><td>2020-03-19</td><td><a href="/miui/sirius/weekly/20.3.19/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.3.12</td><td>10.0</td><td>2.2 GB</td><td>2020-03-12</td><td><a href="/miui/sirius/weekly/20.3.12/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.3.5</td><td>10.0</td><td>2.2 GB</td><td>2020-03-05</td><td><a href="/miui/sirius/weekly/20.3.5/">Download</a></td></tr>
-<tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.2.27</td><td>10.0</td><td>2.2 GB</td><td>2020-02-27</td><td><a href="/miui/sirius/weekly/20.2.27/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.5.7</td><td>10.0</td><td>2.1 GB</td><td>2020-05-07</td><td><a href="/miui/sirius/weekly/20.5.7/">Download</a></td></tr>
+<tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.2.27</td><td>10.0</td><td>2.2 GB</td><td>2020-02-27</td><td><a href="/miui/sirius/weekly/20.2.27/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QEBCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-02-24</td><td><a href="/miui/sirius/stable/V11.0.2.0.QEBCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QEBCNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-02-19</td><td><a href="/miui/sirius/stable/V11.0.2.0.QEBCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Weekly</td><td>Recovery</td><td>20.1.21</td><td>10.0</td><td>2.1 GB</td><td>2020-01-21</td><td><a href="/miui/sirius/weekly/20.1.21/">Download</a></td></tr>

@@ -55,7 +55,7 @@ permalink: /miui/laurus/
                 <tbody>
                 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PFMCNXM</td><td>9.0</td><td>3.2 GB</td><td>2020-06-12</td><td><a href="/miui/laurus/stable/V11.0.6.0.PFMCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PFMCNXM</td><td>9.0</td><td>2.2 GB</td><td>2020-06-22</td><td><a href="/miui/laurus/stable/V11.0.6.0.PFMCNXM/">Download</a></td></tr>
-<tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.5 GB</td><td>2020-07-30</td><td><a href="/miui/laurus/weekly/20.7.30/">Download</a></td></tr>
+<tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>10.0</td><td>2.5 GB</td><td>2020-08-06</td><td><a href="/miui/laurus/weekly/20.8.6/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

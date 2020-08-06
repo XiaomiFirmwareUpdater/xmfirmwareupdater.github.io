@@ -53,7 +53,8 @@ permalink: /archive/miui/cepheus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.7 GB</td><td>2020-07-30</td><td><a href="/miui/cepheus/weekly/20.7.30/">Download</a></td></tr>
+                <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>10.0</td><td>2.7 GB</td><td>2020-08-06</td><td><a href="/miui/cepheus/weekly/20.8.6/">Download</a></td></tr>
+<tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.7 GB</td><td>2020-07-30</td><td><a href="/miui/cepheus/weekly/20.7.30/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>2.7 GB</td><td>2020-07-23</td><td><a href="/miui/cepheus/weekly/20.7.23/">Download</a></td></tr>
 <tr><td>Mi 9 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QFARUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-23</td><td><a href="/miui/cepheus/stable/V12.0.1.0.QFARUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QFARUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-07-17</td><td><a href="/miui/cepheus/stable/V12.0.1.0.QFARUXM/">Download</a></td></tr>
@@ -68,9 +69,9 @@ permalink: /archive/miui/cepheus/
 <tr><td>Mi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QFAEUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-06-13</td><td><a href="/miui/cepheus/stable/V12.0.1.0.QFAEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>10.0</td><td>2.7 GB</td><td>2020-06-18</td><td><a href="/miui/cepheus/weekly/20.6.18/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.6.17</td><td>10.0</td><td>2.7 GB</td><td>2020-06-17</td><td><a href="/miui/cepheus/weekly/20.6.17/">Download</a></td></tr>
-<tr><td>Mi 9 China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QFACNXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-15</td><td><a href="/miui/cepheus/stable/V12.0.1.0.QFACNXM/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFACNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-06-22</td><td><a href="/miui/cepheus/stable/V12.0.2.0.QFACNXM/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFACNXM</td><td>10.0</td><td>3.9 GB</td><td>2020-06-17</td><td><a href="/miui/cepheus/stable/V12.0.2.0.QFACNXM/">Download</a></td></tr>
+<tr><td>Mi 9 China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QFACNXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-15</td><td><a href="/miui/cepheus/stable/V12.0.1.0.QFACNXM/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.6.4</td><td>10.0</td><td>2.7 GB</td><td>2020-06-05</td><td><a href="/miui/cepheus/weekly/20.6.4/">Download</a></td></tr>
 <tr><td>Mi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.0.9.QFAEUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-06-02</td><td><a href="/miui/cepheus/stable/V12.0.0.9.QFAEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.5.28</td><td>10.0</td><td>2.7 GB</td><td>2020-05-28</td><td><a href="/miui/cepheus/weekly/20.5.28/">Download</a></td></tr>

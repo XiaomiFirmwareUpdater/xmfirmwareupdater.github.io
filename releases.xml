@@ -1,110 +1,110 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 06 Aug 2020 21:26:12 +0900</pubDate>
+  <pubDate>Thu, 06 Aug 2020 22:29:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Redmi 6 Pro (sakura) - V12.0.1.0.PDICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
-    <pubDate>Thu, 06 Aug 2020 21:26:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 Pro (sakura) - V12.0.1.0.PDICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
-    <pubDate>Thu, 06 Aug 2020 21:26:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - V11.0.9.0.QECMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Thu, 06 Aug 2020 21:24:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - V12.0.4.0.QFJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Thu, 06 Aug 2020 21:22:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A (dandelion) - V12.0.3.0.QCDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Wed, 05 Aug 2020 01:45:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A (dandelion) - V12.0.4.0.QCDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Wed, 05 Aug 2020 01:45:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - V12.0.4.0.QGHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Tue, 04 Aug 2020 21:29:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.1.0.QCPMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Tue, 04 Aug 2020 21:28:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.2.0.QCNMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Tue, 04 Aug 2020 21:26:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V12.0.4.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Tue, 04 Aug 2020 21:25:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V12.0.1.0.QJAEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Tue, 04 Aug 2020 19:11:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.1.0.QJOEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Tue, 04 Aug 2020 13:09:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.0.5.0.QGICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Mon, 03 Aug 2020 19:18:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - V12.0.3.0.QFJMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Mon, 03 Aug 2020 19:16:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.0.5.0.QJKCNXM</title>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.8.6</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 31 Jul 2020 19:15:15 +0900</pubDate>
+    <pubDate>Thu, 06 Aug 2020 22:29:04 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 8 (dipper) - V12.0.1.0.QEACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
-    <pubDate>Fri, 31 Jul 2020 19:13:58 +0900</pubDate>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Thu, 06 Aug 2020 22:20:54 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.4.0.QJOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Fri, 31 Jul 2020 13:11:27 +0900</pubDate>
+    <title>Mi CC 9 Meitu Edition (vela) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
+    <pubDate>Thu, 06 Aug 2020 22:20:32 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Y3 (onc) - V11.0.2.0.QFLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Thu, 30 Jul 2020 21:26:58 +0900</pubDate>
+    <title>Mi MIX 3 (perseus) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Thu, 06 Aug 2020 22:20:10 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30 4G (phoenix) - 20.7.30</title>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Thu, 06 Aug 2020 22:19:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Lite (platina) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
+    <pubDate>Thu, 06 Aug 2020 22:19:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 20.8.6</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Thu, 30 Jul 2020 21:00:32 +0900</pubDate>
+    <pubDate>Thu, 06 Aug 2020 22:19:02 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 10 Lite Zoom (vangogh) - 20.7.30</title>
+    <title>Mi CC 9 Pro (tucana) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Thu, 06 Aug 2020 22:18:41 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Lite Zoom (vangogh) - 20.8.6</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Thu, 30 Jul 2020 21:00:08 +0900</pubDate>
+    <pubDate>Thu, 06 Aug 2020 22:18:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9e (laurus) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
+    <pubDate>Thu, 06 Aug 2020 22:17:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Thu, 06 Aug 2020 22:17:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Thu, 06 Aug 2020 22:17:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Thu, 06 Aug 2020 22:17:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Thu, 06 Aug 2020 22:16:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 SE (sirius) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
+    <pubDate>Thu, 06 Aug 2020 22:16:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Thu, 06 Aug 2020 21:56:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Thu, 06 Aug 2020 21:55:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Thu, 06 Aug 2020 21:55:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Thu, 06 Aug 2020 21:55:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - 20.8.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Thu, 06 Aug 2020 21:54:46 +0900</pubDate>
   </item>
     </channel>
 </rss>
