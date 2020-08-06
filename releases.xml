@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 05 Aug 2020 01:45:51 +0900</pubDate>
+  <pubDate>Thu, 06 Aug 2020 21:26:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 6 Pro (sakura) - V12.0.1.0.PDICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Thu, 06 Aug 2020 21:26:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6 Pro (sakura) - V12.0.1.0.PDICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
+    <pubDate>Thu, 06 Aug 2020 21:26:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Pro (equuleus) - V11.0.9.0.QECMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
+    <pubDate>Thu, 06 Aug 2020 21:24:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V12.0.4.0.QFJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Thu, 06 Aug 2020 21:22:52 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A (dandelion) - V12.0.3.0.QCDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -85,26 +105,6 @@
     <title>Mi 10 Lite Zoom (vangogh) - 20.7.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
     <pubDate>Thu, 30 Jul 2020 21:00:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Thu, 30 Jul 2020 20:59:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 SE (sirius) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
-    <pubDate>Thu, 30 Jul 2020 20:59:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro (tucana) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Thu, 30 Jul 2020 20:58:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 20.7.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Thu, 30 Jul 2020 20:58:32 +0900</pubDate>
   </item>
     </channel>
 </rss>
