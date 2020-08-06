@@ -53,7 +53,8 @@ permalink: /archive/miui/equuleus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.3 GB</td><td>2020-07-30</td><td><a href="/miui/equuleus/weekly/20.7.30/">Download</a></td></tr>
+                <tr><td>Mi 8 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.9.0.QECMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-08-06</td><td><a href="/miui/equuleus/stable beta/V11.0.9.0.QECMIXM/">Download</a></td></tr>
+<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.3 GB</td><td>2020-07-30</td><td><a href="/miui/equuleus/weekly/20.7.30/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>2.3 GB</td><td>2020-07-23</td><td><a href="/miui/equuleus/weekly/20.7.23/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QECMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-07-21</td><td><a href="/miui/equuleus/stable/V11.0.7.0.QECMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>2.3 GB</td><td>2020-07-16</td><td><a href="/miui/equuleus/weekly/20.7.16/">Download</a></td></tr>
@@ -109,21 +110,21 @@ permalink: /archive/miui/equuleus/
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>9.9.26</td><td>9.0</td><td>2.2 GB</td><td>2019-09-26</td><td><a href="/miui/equuleus/weekly/9.9.26/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Recovery</td><td>V10.3.6.0.PECMIXM</td><td>9.0</td><td>1.9 GB</td><td>2019-09-23</td><td><a href="/miui/equuleus/stable/V10.3.6.0.PECMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.6.0.PECMIXM</td><td>9.0</td><td>2.6 GB</td><td>2019-09-11</td><td><a href="/miui/equuleus/stable/V10.3.6.0.PECMIXM/">Download</a></td></tr>
-<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>3.0 GB</td><td>2019-09-04</td><td><a href="/miui/equuleus/weekly/9.9.3/">Download</a></td></tr>
-<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>9.9.3</td><td>9.0</td><td>2.2 GB</td><td>2019-09-04</td><td><a href="/miui/equuleus/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PECMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-11-01</td><td><a href="/miui/equuleus/stable/V11.0.5.0.PECMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PECMIXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-21</td><td><a href="/miui/equuleus/stable/V11.0.5.0.PECMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PECRUXM</td><td>9.0</td><td>2.0 GB</td><td>2019-11-01</td><td><a href="/miui/equuleus/stable/V11.0.5.0.PECRUXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PECRUXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-22</td><td><a href="/miui/equuleus/stable/V11.0.5.0.PECRUXM/">Download</a></td></tr>
+<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>3.0 GB</td><td>2019-09-04</td><td><a href="/miui/equuleus/weekly/9.9.3/">Download</a></td></tr>
+<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>9.9.3</td><td>9.0</td><td>2.2 GB</td><td>2019-09-04</td><td><a href="/miui/equuleus/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>9.8.29</td><td>9.0</td><td>2.2 GB</td><td>2019-08-30</td><td><a href="/miui/equuleus/weekly/9.8.29/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Recovery</td><td>V10.3.5.0.PECCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-08-27</td><td><a href="/miui/equuleus/stable/V10.3.5.0.PECCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Fastboot</td><td>V10.3.5.0.PECCNXM</td><td>9.0</td><td>2.8 GB</td><td>2019-08-17</td><td><a href="/miui/equuleus/stable/V10.3.5.0.PECCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.8.22</td><td>9.0</td><td>3.0 GB</td><td>2019-08-22</td><td><a href="/miui/equuleus/weekly/9.8.22/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>9.8.22</td><td>9.0</td><td>2.2 GB</td><td>2019-08-22</td><td><a href="/miui/equuleus/weekly/9.8.22/">Download</a></td></tr>
-<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>9.8.15</td><td>9.0</td><td>2.2 GB</td><td>2019-08-15</td><td><a href="/miui/equuleus/weekly/9.8.15/">Download</a></td></tr>
-<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.8.15</td><td>9.0</td><td>3.0 GB</td><td>2019-08-15</td><td><a href="/miui/equuleus/weekly/9.8.15/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PECCNXM</td><td>9.0</td><td>2.3 GB</td><td>2019-10-16</td><td><a href="/miui/equuleus/stable/V11.0.2.0.PECCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.PECCNXM</td><td>9.0</td><td>3.0 GB</td><td>2019-09-20</td><td><a href="/miui/equuleus/stable/V11.0.2.0.PECCNXM/">Download</a></td></tr>
+<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>9.8.15</td><td>9.0</td><td>2.2 GB</td><td>2019-08-15</td><td><a href="/miui/equuleus/weekly/9.8.15/">Download</a></td></tr>
+<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.8.15</td><td>9.0</td><td>3.0 GB</td><td>2019-08-15</td><td><a href="/miui/equuleus/weekly/9.8.15/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>9.8.9</td><td>9.0</td><td>2.2 GB</td><td>2019-08-10</td><td><a href="/miui/equuleus/weekly/9.8.9/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.8.9</td><td>9.0</td><td>3.0 GB</td><td>2019-08-09</td><td><a href="/miui/equuleus/weekly/9.8.9/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>9.8.8</td><td>9.0</td><td>2.2 GB</td><td>2019-08-08</td><td><a href="/miui/equuleus/weekly/9.8.8/">Download</a></td></tr>
@@ -256,9 +257,9 @@ permalink: /archive/miui/equuleus/
 <tr><td>Mi 8 Pro Global</td><td>Weekly</td><td>Recovery</td><td>8.11.23</td><td>8.1</td><td>2.1 GB</td><td>2018-11-26</td><td><a href="/miui/equuleus/weekly/8.11.23/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>8.11.23</td><td>8.1</td><td>2.5 GB</td><td>2018-11-26</td><td><a href="/miui/equuleus/weekly/8.11.23/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>8.11.23</td><td>9.0</td><td>2.1 GB</td><td>2018-11-23</td><td><a href="/miui/equuleus/weekly/8.11.23/">Download</a></td></tr>
-<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>8.11.15</td><td>9.0</td><td>2.1 GB</td><td>2018-11-15</td><td><a href="/miui/equuleus/weekly/8.11.15/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Recovery</td><td>V10.0.1.0.OECMIFH</td><td>8.1</td><td>1.8 GB</td><td>2018-11-29</td><td><a href="/miui/equuleus/stable/V10.0.1.0.OECMIFH/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.1.0.OECMIFH</td><td>8.1</td><td>2.4 GB</td><td>2018-11-29</td><td><a href="/miui/equuleus/stable/V10.0.1.0.OECMIFH/">Download</a></td></tr>
+<tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>8.11.15</td><td>9.0</td><td>2.1 GB</td><td>2018-11-15</td><td><a href="/miui/equuleus/weekly/8.11.15/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Recovery</td><td>V9.6.3.0.OECMIFD</td><td>8.1</td><td>1.7 GB</td><td>2018-11-09</td><td><a href="/miui/equuleus/stable/V9.6.3.0.OECMIFD/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Recovery</td><td>V9.6.5.0.OECMIFD</td><td>8.1</td><td>1.7 GB</td><td>2018-11-09</td><td><a href="/miui/equuleus/stable/V9.6.5.0.OECMIFD/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.5.0.OECMIFD</td><td>8.1</td><td>2.5 GB</td><td>2018-11-09</td><td><a href="/miui/equuleus/stable/V9.6.5.0.OECMIFD/">Download</a></td></tr>
@@ -277,7 +278,6 @@ permalink: /archive/miui/equuleus/
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>8.10.10</td><td>8.1</td><td>2.1 GB</td><td>2018-10-10</td><td><a href="/miui/equuleus/weekly/8.10.10/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Recovery</td><td>V9.6.6.0.OECCNFD</td><td>8.1</td><td>2.0 GB</td><td>2018-10-04</td><td><a href="/miui/equuleus/stable/V9.6.6.0.OECCNFD/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Fastboot</td><td>V9.6.6.0.OECCNFD</td><td>8.1</td><td>3.0 GB</td><td>2018-10-04</td><td><a href="/miui/equuleus/stable/V9.6.6.0.OECCNFD/">Download</a></td></tr>
-<tr><td>Mi 8 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.9.0.QECMIXM</td><td>10.0</td><td>2.1 GB</td><td>None</td><td><a href="/miui/equuleus/stable beta/V11.0.9.0.QECMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

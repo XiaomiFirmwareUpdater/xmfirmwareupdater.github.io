@@ -67,6 +67,7 @@ permalink: /miui/umi/
 <tr><td>Mi 10 India</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QJBINXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-29</td><td><a href="/miui/umi/stable/V11.0.7.0.QJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QJBRUXM</td><td>10.0</td><td>4.4 GB</td><td>2020-05-09</td><td><a href="/miui/umi/stable/V11.0.1.0.QJBRUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QJBRUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-05</td><td><a href="/miui/umi/stable/V11.0.1.0.QJBRUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QJBRUXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-06</td><td><a href="/miui/umi/stable beta/V12.0.1.0.QJBRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
