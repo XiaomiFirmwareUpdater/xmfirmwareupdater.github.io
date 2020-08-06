@@ -61,6 +61,8 @@ permalink: /miui/curtana/
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.QJWINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-10</td><td><a href="/miui/curtana/stable/V11.0.8.0.QJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QJWRUXM</td><td>10.0</td><td>4.0 GB</td><td>2020-06-23</td><td><a href="/miui/curtana/stable/V11.0.3.0.QJWRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QJWRUXM</td><td>10.0</td><td>2.3 GB</td><td>2020-06-29</td><td><a href="/miui/curtana/stable/V11.0.3.0.QJWRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Turkey</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.QJWTRXM</td><td>10.0</td><td>3.7 GB</td><td>2020-06-19</td><td><a href="/miui/curtana/stable/V11.0.6.0.QJWTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Turkey</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.QJWTRXM</td><td>10.0</td><td>2.4 GB</td><td>2020-06-24</td><td><a href="/miui/curtana/stable/V11.0.6.0.QJWTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

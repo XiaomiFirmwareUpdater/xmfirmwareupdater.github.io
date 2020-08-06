@@ -274,6 +274,17 @@
     android: '10.0'
     miui: V11.0.1.0.QCMEUXM
 - branch: stable
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.3.0.QCMEUXM_e76a5adf68_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.3.0.QCMEUXM_e76a5adf68_10.0.zip/download
+  filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.3.0.QCMEUXM_e76a5adf68_10.0.zip
+  region: Europe
+  size: 335.8 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QCMEUXM
+- branch: stable
   date: '2019-10-25'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V10.2.14.0.PCMCNXM_fa762a99f7_9.0.zip
