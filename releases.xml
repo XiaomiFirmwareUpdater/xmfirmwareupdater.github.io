@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 07 Aug 2020 02:48:56 +0900</pubDate>
+  <pubDate>Fri, 07 Aug 2020 20:24:36 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X2 (phoenixin) - V12.0.1.0.QGHINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenixin</link>
+    <pubDate>Fri, 07 Aug 2020 20:24:36 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7 Pro (violet) - 20.8.6</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
@@ -100,11 +105,6 @@
     <title>Mi 8 SE (sirius) - 20.8.6</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
     <pubDate>Thu, 06 Aug 2020 22:16:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.8.6</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Thu, 06 Aug 2020 21:56:15 +0900</pubDate>
   </item>
     </channel>
 </rss>
