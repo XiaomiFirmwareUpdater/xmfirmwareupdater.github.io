@@ -53,7 +53,8 @@ permalink: /miui/dandelion/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9A EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCDEUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-08-04</td><td><a href="/miui/dandelion/stable/V12.0.4.0.QCDEUXM/">Download</a></td></tr>
+                <tr><td>Redmi 9A EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QCDEUXM</td><td>10.0</td><td>3.3 GB</td><td>2020-07-25</td><td><a href="/miui/dandelion/stable/V12.0.4.0.QCDEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9A EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCDEUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-08-04</td><td><a href="/miui/dandelion/stable/V12.0.4.0.QCDEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9A Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCDMIXM</td><td>10.0</td><td>3.1 GB</td><td>2020-07-14</td><td><a href="/miui/dandelion/stable/V12.0.3.0.QCDMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9A Global</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCDMIXM</td><td>10.0</td><td>1.6 GB</td><td>2020-07-21</td><td><a href="/miui/dandelion/stable/V12.0.3.0.QCDMIXM/">Download</a></td></tr>
 

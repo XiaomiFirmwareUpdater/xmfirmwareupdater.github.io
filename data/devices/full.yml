@@ -31618,6 +31618,16 @@
   versions:
     android: '9.0'
     miui: V10.2.6.0.PCMCNXM
+- branch: stable
+  date: '2020-08-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-10.08.2020/fw_platina_miui_MI8Lite_V12.0.1.0.QDTCNXM_48ff034b1e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/platina/fw_platina_miui_MI8Lite_V12.0.1.0.QDTCNXM_48ff034b1e_10.0.zip
+  filename: fw_platina_miui_MI8Lite_V12.0.1.0.QDTCNXM_48ff034b1e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QDTCNXM
 - branch: weekly
   date: '2020-08-06'
   downloads:
