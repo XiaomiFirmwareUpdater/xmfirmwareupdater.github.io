@@ -489,6 +489,16 @@
     android: '10.0'
     miui: V12.0.3.0.QCDMIXM
 - branch: stable
+  date: '2020-08-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-10.08.2020/fw_dandelion_miui_DANDELION_V12.0.1.0.QCDCNXM_4892f0b916_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.0.1.0.QCDCNXM_4892f0b916_10.0.zip
+  filename: fw_dandelion_miui_DANDELION_V12.0.1.0.QCDCNXM_4892f0b916_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QCDCNXM
+- branch: stable
   date: '2020-08-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-04.08.2020/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.4.0.QCDEUXM_36c80895b8_10.0.zip

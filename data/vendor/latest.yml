@@ -1616,16 +1616,16 @@
     android: '10.0'
     miui: V11.0.1.0.QCMINXM
 - branch: stable
-  date: '2020-07-17'
+  date: '2020-08-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.1.0.QCMRUXM_7f31992ad2_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.1.0.QCMRUXM_7f31992ad2_10.0.zip/download
-  filename: fw-vendor_pine_miui_PINERUGlobal_V11.0.1.0.QCMRUXM_7f31992ad2_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.2.0.QCMRUXM_1d1daac568_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.2.0.QCMRUXM_1d1daac568_10.0.zip/download
+  filename: fw-vendor_pine_miui_PINERUGlobal_V11.0.2.0.QCMRUXM_1d1daac568_10.0.zip
   region: Russia
   size: 335.8 MB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QCMRUXM
+    miui: V11.0.2.0.QCMRUXM
 - branch: stable
   date: '2020-07-17'
   downloads:
@@ -1638,16 +1638,16 @@
     android: '10.0'
     miui: V11.0.3.0.QDTMIXM
 - branch: stable
-  date: '2020-05-20'
+  date: '2020-08-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.2.0.QDTCNXM_4a11ed64fc_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-stable/fw-vendor_platina_miui_MI8Lite_V11.0.2.0.QDTCNXM_4a11ed64fc_10.0.zip/download
-  filename: fw-vendor_platina_miui_MI8Lite_V11.0.2.0.QDTCNXM_4a11ed64fc_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-stable/fw-vendor_platina_miui_MI8Lite_V12.0.1.0.QDTCNXM_48ff034b1e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina-stable/fw-vendor_platina_miui_MI8Lite_V12.0.1.0.QDTCNXM_48ff034b1e_10.0.zip/download
+  filename: fw-vendor_platina_miui_MI8Lite_V12.0.1.0.QDTCNXM_48ff034b1e_10.0.zip
   region: China
-  size: 551.1 MB
+  size: 517.9 MB
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QDTCNXM
+    miui: V12.0.1.0.QDTCNXM
 - branch: weekly
   date: '2020-07-17'
   downloads:
