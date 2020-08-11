@@ -1165,16 +1165,16 @@
     android: '10.0'
     miui: V12.0.1.0.QJOEUXM
 - branch: stable
-  date: '2020-08-06'
+  date: '2020-08-11'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_global-stable-beta/fw-vendor_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_global-stable-beta/fw-vendor_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip/download
-  filename: fw-vendor_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_in_global-stable/fw-vendor_merlin_miui_MERLININGlobal_V11.0.5.0.QJOINXM_9fee28c47f_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_in_global-stable/fw-vendor_merlin_miui_MERLININGlobal_V11.0.5.0.QJOINXM_9fee28c47f_10.0.zip/download
+  filename: fw-vendor_merlin_miui_MERLININGlobal_V11.0.5.0.QJOINXM_9fee28c47f_10.0.zip
   region: India
-  size: 840.8 MB
+  size: 816.7 MB
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QJOMIXM
+    miui: V11.0.5.0.QJOINXM
 - branch: stable
   date: '2020-07-09'
   downloads:
