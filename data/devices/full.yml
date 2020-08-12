@@ -29408,6 +29408,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-08-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_perseus/releases/download/stable-12.08.2020/fw_perseus_miui_MIMIX3_V12.0.1.0.QEECNXM_43a3df6a90_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/perseus/fw_perseus_miui_MIMIX3_V12.0.1.0.QEECNXM_43a3df6a90_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_V12.0.1.0.QEECNXM_43a3df6a90_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QEECNXM
 - branch: weekly
   date: '2020-08-06'
   downloads:
@@ -32858,6 +32868,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: stable
+  date: '2020-08-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-12.08.2020/fw_polaris_miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/polaris/fw_polaris_miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QDGCNXM
 - branch: weekly
   date: '2020-07-09'
   downloads:

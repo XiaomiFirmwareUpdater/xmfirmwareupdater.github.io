@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 11 Aug 2020 19:16:53 +0900</pubDate>
+  <pubDate>Wed, 12 Aug 2020 20:22:32 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 2S (polaris) - V12.0.1.0.QDGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
+    <pubDate>Wed, 12 Aug 2020 20:22:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 (perseus) - V12.0.1.0.QEECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Wed, 12 Aug 2020 20:21:21 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.5.0.QJOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
@@ -95,16 +105,6 @@
     <title>Mi 10 Lite Zoom (vangogh) - 20.8.6</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
     <pubDate>Thu, 06 Aug 2020 22:18:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 20.8.6</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Thu, 06 Aug 2020 22:17:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.8.6</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Thu, 06 Aug 2020 22:17:35 +0900</pubDate>
   </item>
     </channel>
 </rss>
