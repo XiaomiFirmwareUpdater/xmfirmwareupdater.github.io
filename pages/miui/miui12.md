@@ -18,7 +18,6 @@ permalink: /miui12/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
 
 ### Latest MIUI 12 Official China Beta ROMs for Xiaomi devices
 

@@ -17,7 +17,6 @@ permalink: /miui/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
 
 ### Latest MIUI Official ROMs for all Xiaomi devices
 

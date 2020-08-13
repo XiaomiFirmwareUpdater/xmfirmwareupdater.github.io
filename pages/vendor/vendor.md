@@ -16,7 +16,6 @@ permalink: /vendor/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
 
 ### Latest Vendor flashable files for all Xiaomi treble-supported devices
 

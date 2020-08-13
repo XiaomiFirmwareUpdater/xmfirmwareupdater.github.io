@@ -20,7 +20,7 @@ permalink: /miui/tissot/stable/V.9.5.10.0.ODHMIFA/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
+
 <div class="col-12 mx-auto">
     <h3 class="title bg-light p-2 rounded">MIUI V.9.5.10.0.ODHMIFA Stable Official Update for Mi A1 Global (tissot)</h3>
     <h5>This page shows the V.9.5.10.0.ODHMIFA update only. If you're looking for other updates check
