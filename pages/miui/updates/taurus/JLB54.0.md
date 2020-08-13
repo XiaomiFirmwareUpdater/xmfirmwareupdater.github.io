@@ -20,7 +20,6 @@ permalink: /miui/taurus/stable/JLB54.0/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
 <div class="col-12 mx-auto">
     <h3 class="title bg-light p-2 rounded">MIUI JLB54.0 Stable Official Update for Mi 2A China (taurus)</h3>
     <h5>This page shows the JLB54.0 update only. If you're looking for other updates check

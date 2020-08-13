@@ -19,7 +19,6 @@ permalink: /firmware/davinci/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
 <h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss">
 <span class="label">RSS</span></a></span></h3>
 <div class="card">

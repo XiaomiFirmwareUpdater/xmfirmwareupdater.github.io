@@ -19,7 +19,6 @@ permalink: /archive/miui/kate/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
 
 ### MIUI Official ROMs Archive
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.

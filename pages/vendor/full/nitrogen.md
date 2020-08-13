@@ -18,7 +18,6 @@ permalink: /archive/vendor/nitrogen/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
 ### Vendor flashable files Archive
 <div class="card">
   <div class="card-body">

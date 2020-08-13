@@ -20,7 +20,6 @@ permalink: /miui/mione/stable/JMACNBL18.0/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
 <div class="col-12 mx-auto">
     <h3 class="title bg-light p-2 rounded">MIUI JMACNBL18.0 Stable Official Update for MI 1S China (mione)</h3>
     <h5>This page shows the JMACNBL18.0 update only. If you're looking for other updates check

@@ -18,7 +18,6 @@ permalink: /vendor/onclite/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
 ### Latest Vendor flashable files
 <div class="card">
   <div class="card-body">

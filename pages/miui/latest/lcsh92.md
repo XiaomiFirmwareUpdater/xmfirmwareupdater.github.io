@@ -19,7 +19,6 @@ permalink: /miui/lcsh92/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-{%include ad.html%}
 
 ### Latest MIUI Official ROMs
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
