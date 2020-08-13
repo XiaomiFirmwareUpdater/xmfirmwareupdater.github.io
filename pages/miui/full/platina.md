@@ -53,7 +53,8 @@ permalink: /archive/miui/platina/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>10.0</td><td>2.3 GB</td><td>2020-08-06</td><td><a href="/miui/platina/weekly/20.8.6/">Download</a></td></tr>
+                <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.8.13</td><td>10.0</td><td>2.3 GB</td><td>2020-08-13</td><td><a href="/miui/platina/weekly/20.8.13/">Download</a></td></tr>
+<tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>10.0</td><td>2.3 GB</td><td>2020-08-06</td><td><a href="/miui/platina/weekly/20.8.6/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QDTCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-07-31</td><td><a href="/miui/platina/stable beta/V12.0.1.0.QDTCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.3 GB</td><td>2020-07-30</td><td><a href="/miui/platina/weekly/20.7.30/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>2.3 GB</td><td>2020-07-23</td><td><a href="/miui/platina/weekly/20.7.23/">Download</a></td></tr>
