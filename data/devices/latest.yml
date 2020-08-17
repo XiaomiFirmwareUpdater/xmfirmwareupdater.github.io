@@ -1479,15 +1479,15 @@
     android: '10.0'
     miui: V11.0.4.0.QEDMIXM
 - branch: stable
-  date: '2020-05-15'
+  date: '2020-08-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-15.05.2020/fw_nitrogen_miui_MIMAX3_V11.0.4.0.QEDCNXM_b94849c58a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/nitrogen/fw_nitrogen_miui_MIMAX3_V11.0.4.0.QEDCNXM_b94849c58a_10.0.zip
-  filename: fw_nitrogen_miui_MIMAX3_V11.0.4.0.QEDCNXM_b94849c58a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_nitrogen/releases/download/stable-17.08.2020/fw_nitrogen_miui_MIMAX3_V12.0.1.0.QEDCNXM_79de8df6ea_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nitrogen/fw_nitrogen_miui_MIMAX3_V12.0.1.0.QEDCNXM_79de8df6ea_10.0.zip
+  filename: fw_nitrogen_miui_MIMAX3_V12.0.1.0.QEDCNXM_79de8df6ea_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QEDCNXM
+    miui: V12.0.1.0.QEDCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:

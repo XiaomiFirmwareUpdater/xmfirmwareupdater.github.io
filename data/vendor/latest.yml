@@ -2122,16 +2122,16 @@
     android: '10.0'
     miui: V12.0.1.0.QJBMIXM
 - branch: stable
-  date: '2020-08-06'
+  date: '2020-08-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.0.8.0.QJBCNXM_b169aa4a87_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V12.0.8.0.QJBCNXM_b169aa4a87_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMI_V12.0.8.0.QJBCNXM_b169aa4a87_10.0.zip
   region: China
   size: 1.3 GB
   versions:
     android: '10.0'
-    miui: V12.0.7.0.QJBCNXM
+    miui: V12.0.8.0.QJBCNXM
 - branch: weekly
   date: '2020-08-06'
   downloads:

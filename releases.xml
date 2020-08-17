@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 17 Aug 2020 13:14:05 +0900</pubDate>
+  <pubDate>Mon, 17 Aug 2020 19:20:31 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V12.0.1.0.QEDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Mon, 17 Aug 2020 19:20:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V12.0.1.0.QEDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Mon, 17 Aug 2020 19:20:19 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V12.0.8.0.QJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -95,16 +105,6 @@
     <title>Mi MIX 2S (polaris) - 20.8.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
     <pubDate>Thu, 13 Aug 2020 22:23:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 20.8.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Thu, 13 Aug 2020 22:22:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - 20.8.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Thu, 13 Aug 2020 22:22:30 +0900</pubDate>
   </item>
     </channel>
 </rss>
