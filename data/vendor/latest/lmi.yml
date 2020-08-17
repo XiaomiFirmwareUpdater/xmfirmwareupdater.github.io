@@ -43,13 +43,13 @@
     android: '10.0'
     miui: V12.0.2.0.QJKEUXM
 - branch: stable
-  date: '2020-07-24'
+  date: '2020-08-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi_ru_global-stable/fw-vendor_lmi_miui_LMIRUGlobal_V12.0.1.0.QJKRUXM_2eac603097_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi_ru_global-stable/fw-vendor_lmi_miui_LMIRUGlobal_V12.0.1.0.QJKRUXM_2eac603097_10.0.zip/download
-  filename: fw-vendor_lmi_miui_LMIRUGlobal_V12.0.1.0.QJKRUXM_2eac603097_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi_ru_global-stable/fw-vendor_lmi_miui_LMIRUGlobal_V12.0.3.0.QJKRUXM_d735384238_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi_ru_global-stable/fw-vendor_lmi_miui_LMIRUGlobal_V12.0.3.0.QJKRUXM_d735384238_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMIRUGlobal_V12.0.3.0.QJKRUXM_d735384238_10.0.zip
   region: Russia
   size: 1.5 GB
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QJKRUXM
+    miui: V12.0.3.0.QJKRUXM
