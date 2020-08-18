@@ -21,16 +21,16 @@
     android: '9.0'
     miui: V10.3.18.0.PEMCNXM
 - branch: stable
-  date: '2020-02-03'
+  date: '2020-08-18'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda_eea_global-stable/fw-vendor_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.23.0.PEMEUXM_450081beda_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda_eea_global-stable/fw-vendor_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.23.0.PEMEUXM_450081beda_9.0.zip/download
-  filename: fw-vendor_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.23.0.PEMEUXM_450081beda_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda_eea_global-stable/fw-vendor_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.25.0.PEMEUXM_51ac1169c6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda_eea_global-stable/fw-vendor_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.25.0.PEMEUXM_51ac1169c6_9.0.zip/download
+  filename: fw-vendor_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.25.0.PEMEUXM_51ac1169c6_9.0.zip
   region: Europe
-  size: 625.4 MB
+  size: 637.7 MB
   versions:
     android: '9.0'
-    miui: V10.3.23.0.PEMEUXM
+    miui: V10.3.25.0.PEMEUXM
 - branch: stable
   date: '2020-08-06'
   downloads:
@@ -439,16 +439,16 @@
     android: '10.0'
     miui: V12.0.1.0.QJAMIXM
 - branch: stable
-  date: '2020-08-06'
+  date: '2020-08-18'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi-stable-beta/fw-vendor_cmi_miui_CMI_V12.0.3.0.QJACNXM_8f0c63a864_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi-stable-beta/fw-vendor_cmi_miui_CMI_V12.0.3.0.QJACNXM_8f0c63a864_10.0.zip/download
-  filename: fw-vendor_cmi_miui_CMI_V12.0.3.0.QJACNXM_8f0c63a864_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi-stable/fw-vendor_cmi_miui_CMI_V12.0.4.0.QJACNXM_2f1e138934_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi-stable/fw-vendor_cmi_miui_CMI_V12.0.4.0.QJACNXM_2f1e138934_10.0.zip/download
+  filename: fw-vendor_cmi_miui_CMI_V12.0.4.0.QJACNXM_2f1e138934_10.0.zip
   region: China
   size: 1.3 GB
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QJACNXM
+    miui: V12.0.4.0.QJACNXM
 - branch: weekly
   date: '2020-08-06'
   downloads:
@@ -2111,16 +2111,16 @@
     android: '9.0'
     miui: 9.6.27
 - branch: stable
-  date: '2020-07-21'
+  date: '2020-08-18'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip
   region: Global
-  size: 1.5 GB
+  size: 1.4 GB
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QJBMIXM
+    miui: V12.0.1.0.QJBIDXM
 - branch: stable
   date: '2020-08-17'
   downloads:

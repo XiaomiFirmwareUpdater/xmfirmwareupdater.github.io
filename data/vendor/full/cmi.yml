@@ -229,3 +229,14 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QJACNXM
+- branch: stable
+  date: '2020-08-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi-stable/fw-vendor_cmi_miui_CMI_V12.0.4.0.QJACNXM_2f1e138934_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi-stable/fw-vendor_cmi_miui_CMI_V12.0.4.0.QJACNXM_2f1e138934_10.0.zip/download
+  filename: fw-vendor_cmi_miui_CMI_V12.0.4.0.QJACNXM_2f1e138934_10.0.zip
+  region: China
+  size: 1.3 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QJACNXM
