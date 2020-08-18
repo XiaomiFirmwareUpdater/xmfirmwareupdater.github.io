@@ -54,8 +54,8 @@ permalink: /miui/andromeda/
                 <tbody>
                 <tr><td>Mi MIX 3 5G China</td><td>Stable</td><td>Fastboot</td><td>V10.3.17.0.PEMCNXM</td><td>9.0</td><td>2.4 GB</td><td>2019-08-01</td><td><a href="/miui/andromeda/stable/V10.3.17.0.PEMCNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 5G China</td><td>Stable</td><td>Recovery</td><td>V10.3.18.0.PEMCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-22</td><td><a href="/miui/andromeda/stable/V10.3.18.0.PEMCNXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V10.3.23.0.PEMEUXM</td><td>9.0</td><td>2.7 GB</td><td>2020-01-13</td><td><a href="/miui/andromeda/stable/V10.3.23.0.PEMEUXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G EEA</td><td>Stable</td><td>Recovery</td><td>V10.3.23.0.PEMEUXM</td><td>9.0</td><td>2.1 GB</td><td>2020-02-03</td><td><a href="/miui/andromeda/stable/V10.3.23.0.PEMEUXM/">Download</a></td></tr>
+<tr><td>Mi MIX 3 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V10.3.25.0.PEMEUXM</td><td>9.0</td><td>2.5 GB</td><td>2020-08-01</td><td><a href="/miui/andromeda/stable/V10.3.25.0.PEMEUXM/">Download</a></td></tr>
+<tr><td>Mi MIX 3 5G EEA</td><td>Stable</td><td>Recovery</td><td>V10.3.25.0.PEMEUXM</td><td>9.0</td><td>2.1 GB</td><td>2020-08-10</td><td><a href="/miui/andromeda/stable/V10.3.25.0.PEMEUXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 5G Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.19.0.PEMMIXM</td><td>9.0</td><td>2.6 GB</td><td>2019-08-01</td><td><a href="/miui/andromeda/stable/V10.3.19.0.PEMMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 5G Global</td><td>Stable</td><td>Recovery</td><td>V10.3.20.0.PEMMIXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-22</td><td><a href="/miui/andromeda/stable/V10.3.20.0.PEMMIXM/">Download</a></td></tr>
 
