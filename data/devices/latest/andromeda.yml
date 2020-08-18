@@ -19,12 +19,12 @@
     android: '9.0'
     miui: V10.3.18.0.PEMCNXM
 - branch: stable
-  date: '2020-02-03'
+  date: '2020-08-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-03.02.2020/fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.23.0.PEMEUXM_450081beda_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/andromeda/fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.23.0.PEMEUXM_450081beda_9.0.zip
-  filename: fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.23.0.PEMEUXM_450081beda_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-18.08.2020/fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.25.0.PEMEUXM_51ac1169c6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/andromeda/fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.25.0.PEMEUXM_51ac1169c6_9.0.zip
+  filename: fw_andromeda_miui_ANDROMEDAEEAGlobal_V10.3.25.0.PEMEUXM_51ac1169c6_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V10.3.23.0.PEMEUXM
+    miui: V10.3.25.0.PEMEUXM
