@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 19 Aug 2020 19:07:16 +0900</pubDate>
+  <pubDate>Thu, 20 Aug 2020 01:17:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 Lite Zoom (vangogh) - V12.0.5.0.QJVCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
+    <pubDate>Thu, 20 Aug 2020 01:17:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A (dandelion) - V12.0.2.0.QCDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Thu, 20 Aug 2020 01:16:14 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro (tucana) - V12.0.1.0.QFDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -95,16 +105,6 @@
     <title>Mi 9 SE (grus) - V11.0.9.0.QFBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
     <pubDate>Fri, 14 Aug 2020 07:09:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 20.8.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Thu, 13 Aug 2020 22:57:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 20.8.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Thu, 13 Aug 2020 22:25:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
