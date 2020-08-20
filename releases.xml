@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 20 Aug 2020 19:19:16 +0900</pubDate>
+  <pubDate>Fri, 21 Aug 2020 01:15:00 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.0.3.0.QJKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Fri, 21 Aug 2020 01:15:00 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8 (olive) - V11.0.1.0.QCNEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
@@ -100,11 +105,6 @@
     <title>Mi 9 Pro 5G (crux) - 20.8.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
     <pubDate>Fri, 14 Aug 2020 20:45:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.8.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 14 Aug 2020 20:44:38 +0900</pubDate>
   </item>
     </channel>
 </rss>
