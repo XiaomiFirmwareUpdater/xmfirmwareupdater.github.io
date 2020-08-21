@@ -29,15 +29,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-08-14'
+  date: '2020-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-14.08.2020/fw_cepheus_miui_CEPHEUS_20.8.13_4e6f0a9604_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.13/cepheus/fw_cepheus_miui_CEPHEUS_20.8.13_4e6f0a9604_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_20.8.13_4e6f0a9604_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-21.08.2020/fw_cepheus_miui_CEPHEUS_20.8.20_8c97c4d999_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.20/cepheus/fw_cepheus_miui_CEPHEUS_20.8.20_8c97c4d999_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.8.20_8c97c4d999_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.8.13
+    miui: 20.8.20
 - branch: stable
   date: '2020-06-22'
   downloads:
