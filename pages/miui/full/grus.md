@@ -52,7 +52,8 @@ permalink: /archive/miui/grus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>20.8.13</td><td>10.0</td><td>2.7 GB</td><td>2020-08-13</td><td><a href="/miui/grus/weekly/20.8.13/">Download</a></td></tr>
+                <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>10.0</td><td>2.7 GB</td><td>2020-08-20</td><td><a href="/miui/grus/weekly/20.8.20/">Download</a></td></tr>
+<tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>20.8.13</td><td>10.0</td><td>2.7 GB</td><td>2020-08-13</td><td><a href="/miui/grus/weekly/20.8.13/">Download</a></td></tr>
 <tr><td>Mi 9 SE EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.9.0.QFBEUXM</td><td>10.0</td><td>2.4 GB</td><td>2020-08-11</td><td><a href="/miui/grus/stable/V11.0.9.0.QFBEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.QFBEUXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-02</td><td><a href="/miui/grus/stable/V11.0.9.0.QFBEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>10.0</td><td>2.6 GB</td><td>2020-08-06</td><td><a href="/miui/grus/weekly/20.8.6/">Download</a></td></tr>

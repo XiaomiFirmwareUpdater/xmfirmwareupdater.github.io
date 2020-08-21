@@ -329,6 +329,17 @@
     android: '10.0'
     miui: V11.0.2.0.QGGIDXM
 - branch: stable
+  date: '2020-08-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia_id_global-stable/fw-vendor_begonia_miui_BEGONIAIDGlobal_V12.0.1.0.QGGIDXM_d0e8262216_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begonia_id_global-stable/fw-vendor_begonia_miui_BEGONIAIDGlobal_V12.0.1.0.QGGIDXM_d0e8262216_10.0.zip/download
+  filename: fw-vendor_begonia_miui_BEGONIAIDGlobal_V12.0.1.0.QGGIDXM_d0e8262216_10.0.zip
+  region: Global
+  size: 481.5 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QGGIDXM
+- branch: stable
   date: '2019-09-18'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begonia-stable/fw-vendor_begonia_miui_BEGONIA_V10.4.8.0.PGGCNXM_1bf09f2237_9.0.zip

@@ -52,7 +52,8 @@ permalink: /archive/miui/platina/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.8.13</td><td>10.0</td><td>2.3 GB</td><td>2020-08-13</td><td><a href="/miui/platina/weekly/20.8.13/">Download</a></td></tr>
+                <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>10.0</td><td>2.3 GB</td><td>2020-08-20</td><td><a href="/miui/platina/weekly/20.8.20/">Download</a></td></tr>
+<tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.8.13</td><td>10.0</td><td>2.3 GB</td><td>2020-08-13</td><td><a href="/miui/platina/weekly/20.8.13/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>10.0</td><td>2.3 GB</td><td>2020-08-06</td><td><a href="/miui/platina/weekly/20.8.6/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QDTCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-07-31</td><td><a href="/miui/platina/stable/V12.0.1.0.QDTCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QDTCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-23</td><td><a href="/miui/platina/stable/V12.0.1.0.QDTCNXM/">Download</a></td></tr>
@@ -93,9 +94,9 @@ permalink: /archive/miui/platina/
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.1.16</td><td>10.0</td><td>2.3 GB</td><td>2020-01-16</td><td><a href="/miui/platina/weekly/20.1.16/">Download</a></td></tr>
 <tr><td>Mi 8 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.PDTRUXM</td><td>9.0</td><td>1.9 GB</td><td>2020-01-13</td><td><a href="/miui/platina/stable/V11.0.7.0.PDTRUXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.PDTRUXM</td><td>9.0</td><td>2.8 GB</td><td>2020-01-07</td><td><a href="/miui/platina/stable/V11.0.7.0.PDTRUXM/">Download</a></td></tr>
+<tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.5.7</td><td>10.0</td><td>2.2 GB</td><td>2020-05-07</td><td><a href="/miui/platina/weekly/20.5.7/">Download</a></td></tr>
 <tr><td>Mi 8 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.PDTMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-01-13</td><td><a href="/miui/platina/stable/V11.0.8.0.PDTMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.PDTMIXM</td><td>9.0</td><td>2.8 GB</td><td>2020-01-06</td><td><a href="/miui/platina/stable/V11.0.8.0.PDTMIXM/">Download</a></td></tr>
-<tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.5.7</td><td>10.0</td><td>2.2 GB</td><td>2020-05-07</td><td><a href="/miui/platina/weekly/20.5.7/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.1.9</td><td>10.0</td><td>2.3 GB</td><td>2020-01-09</td><td><a href="/miui/platina/weekly/20.1.9/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.1.2</td><td>10.0</td><td>2.3 GB</td><td>2020-01-02</td><td><a href="/miui/platina/weekly/20.1.2/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>9.12.26</td><td>10.0</td><td>2.3 GB</td><td>2019-12-26</td><td><a href="/miui/platina/weekly/9.12.26/">Download</a></td></tr>
@@ -117,10 +118,10 @@ permalink: /archive/miui/platina/
 <tr><td>Mi 8 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PDTMIXM</td><td>9.0</td><td>2.8 GB</td><td>2019-10-22</td><td><a href="/miui/platina/stable/V11.0.5.0.PDTMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>9.10.10</td><td>9.0</td><td>2.2 GB</td><td>2019-10-10</td><td><a href="/miui/platina/weekly/9.10.10/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>9.9.26</td><td>9.0</td><td>2.2 GB</td><td>2019-09-26</td><td><a href="/miui/platina/weekly/9.9.26/">Download</a></td></tr>
-<tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>9.9.3</td><td>9.0</td><td>2.2 GB</td><td>2019-09-04</td><td><a href="/miui/platina/weekly/9.9.3/">Download</a></td></tr>
-<tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.8 GB</td><td>2019-09-04</td><td><a href="/miui/platina/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>9.10.24</td><td>9.0</td><td>2.2 GB</td><td>2019-10-24</td><td><a href="/miui/platina/weekly/9.10.24/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>9.10.17</td><td>9.0</td><td>2.2 GB</td><td>2019-10-17</td><td><a href="/miui/platina/weekly/9.10.17/">Download</a></td></tr>
+<tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>9.9.3</td><td>9.0</td><td>2.2 GB</td><td>2019-09-04</td><td><a href="/miui/platina/weekly/9.9.3/">Download</a></td></tr>
+<tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.8 GB</td><td>2019-09-04</td><td><a href="/miui/platina/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>9.8.29</td><td>9.0</td><td>2.2 GB</td><td>2019-08-30</td><td><a href="/miui/platina/weekly/9.8.29/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Stable</td><td>Recovery</td><td>V10.3.7.0.PDTCNXM</td><td>9.0</td><td>2.0 GB</td><td>2019-08-29</td><td><a href="/miui/platina/stable/V10.3.7.0.PDTCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Stable</td><td>Fastboot</td><td>V10.3.7.0.PDTCNXM</td><td>9.0</td><td>2.6 GB</td><td>2019-08-20</td><td><a href="/miui/platina/stable/V10.3.7.0.PDTCNXM/">Download</a></td></tr>
