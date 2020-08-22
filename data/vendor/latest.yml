@@ -1341,16 +1341,16 @@
     android: '10.0'
     miui: V11.0.1.0.QCNEUXM
 - branch: stable
-  date: '2020-06-15'
+  date: '2020-08-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.12.0.PCNINXM_d95fbe011d_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.12.0.PCNINXM_d95fbe011d_9.0.zip/download
-  filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.12.0.PCNINXM_d95fbe011d_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.QCNINXM_81da910914_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.QCNINXM_81da910914_10.0.zip/download
+  filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.QCNINXM_81da910914_10.0.zip
   region: India
-  size: 370.9 MB
+  size: 465.2 MB
   versions:
-    android: '9.0'
-    miui: V11.0.12.0.PCNINXM
+    android: '10.0'
+    miui: V11.0.1.0.QCNINXM
 - branch: stable
   date: '2020-06-03'
   downloads:
@@ -1385,16 +1385,16 @@
     android: '10.0'
     miui: V11.0.2.0.QCPCNXM
 - branch: stable
-  date: '2020-06-12'
+  date: '2020-08-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_eea_global-stable/fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.5.0.PCPEUXM_c186a95b6e_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_eea_global-stable/fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.5.0.PCPEUXM_c186a95b6e_9.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.5.0.PCPEUXM_c186a95b6e_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_eea_global-stable/fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_eea_global-stable/fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip
   region: Europe
-  size: 270.2 MB
+  size: 336.0 MB
   versions:
-    android: '9.0'
-    miui: V11.0.5.0.PCPEUXM
+    android: '10.0'
+    miui: V11.0.1.0.QCPEUXM
 - branch: stable
   date: '2020-06-08'
   downloads:
