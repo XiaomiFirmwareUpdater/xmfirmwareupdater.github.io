@@ -52,8 +52,8 @@ permalink: /miui/tissot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi A1 Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.23.0.PDHMIXM</td><td>9.0</td><td>1.7 GB</td><td>2020-07-07</td><td><a href="/miui/tissot/stable/V10.0.23.0.PDHMIXM/">Download</a></td></tr>
-<tr><td>Mi A1 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.23.0.PDHMIXM</td><td>9.0</td><td>1.2 GB</td><td>2020-07-15</td><td><a href="/miui/tissot/stable/V10.0.23.0.PDHMIXM/">Download</a></td></tr>
+                <tr><td>Mi A1 Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.24.0.PDHMIXM</td><td>9.0</td><td>1.7 GB</td><td>2020-08-10</td><td><a href="/miui/tissot/stable/V10.0.24.0.PDHMIXM/">Download</a></td></tr>
+<tr><td>Mi A1 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.24.0.PDHMIXM</td><td>9.0</td><td>1.2 GB</td><td>2020-08-23</td><td><a href="/miui/tissot/stable/V10.0.24.0.PDHMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
