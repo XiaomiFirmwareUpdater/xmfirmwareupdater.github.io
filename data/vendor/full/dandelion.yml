@@ -10,6 +10,17 @@
     android: '10.0'
     miui: V12.0.1.0.QCDRUXM
 - branch: stable
+  date: '2020-08-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dandelion_ru_global-stable/fw-vendor_dandelion_miui_DANDELIONRUGlobal_V12.0.3.0.QCDRUXM_e0aee2f749_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dandelion_ru_global-stable/fw-vendor_dandelion_miui_DANDELIONRUGlobal_V12.0.3.0.QCDRUXM_e0aee2f749_10.0.zip/download
+  filename: fw-vendor_dandelion_miui_DANDELIONRUGlobal_V12.0.3.0.QCDRUXM_e0aee2f749_10.0.zip
+  region: Russia
+  size: 646.8 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCDRUXM
+- branch: stable
   date: '2020-08-20'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dandelion_id_global-stable/fw-vendor_dandelion_miui_DANDELIONIDGlobal_V12.0.1.0.QCDIDXM_460f6e01de_10.0.zip
