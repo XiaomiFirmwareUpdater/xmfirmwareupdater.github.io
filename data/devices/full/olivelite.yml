@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-24.08.2020/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.QCPINXM_b9898ff52b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.QCPINXM_b9898ff52b_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.QCPINXM_b9898ff52b_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QCPINXM
+- branch: stable
   date: '2020-08-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-22.08.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip
