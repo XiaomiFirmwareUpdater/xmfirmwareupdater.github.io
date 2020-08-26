@@ -21,6 +21,17 @@
     android: '10.0'
     miui: V11.0.2.0.QDGRUXM
 - branch: stable
+  date: '2020-08-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_ru_global-stable/fw-vendor_polaris_miui_MIMIX2SRUGlobal_V12.0.1.0.QDGRUXM_eda63933a4_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_ru_global-stable/fw-vendor_polaris_miui_MIMIX2SRUGlobal_V12.0.1.0.QDGRUXM_eda63933a4_10.0.zip/download
+  filename: fw-vendor_polaris_miui_MIMIX2SRUGlobal_V12.0.1.0.QDGRUXM_eda63933a4_10.0.zip
+  region: Russia
+  size: 617.0 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QDGRUXM
+- branch: stable
   date: '2019-06-19'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-stable/fw-vendor_polaris_global_V10.3.3.0.PDGMIXM.zip
