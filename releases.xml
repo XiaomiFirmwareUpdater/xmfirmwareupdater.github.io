@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 27 Aug 2020 07:07:10 +0900</pubDate>
+  <pubDate>Thu, 27 Aug 2020 19:06:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.2.0.QJOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Thu, 27 Aug 2020 19:06:38 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9 (lancelot) - V11.0.7.0.QJCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
@@ -100,11 +105,6 @@
     <title>Mi 8 (dipper) - 20.8.20</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
     <pubDate>Fri, 21 Aug 2020 18:35:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - 20.8.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Fri, 21 Aug 2020 18:35:17 +0900</pubDate>
   </item>
     </channel>
 </rss>
