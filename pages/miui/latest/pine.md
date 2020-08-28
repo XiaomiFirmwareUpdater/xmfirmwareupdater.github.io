@@ -58,8 +58,8 @@ permalink: /miui/pine/
 <tr><td>Redmi 7A EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QCMEUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-08-03</td><td><a href="/miui/pine/stable/V11.0.3.0.QCMEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QCMMIXM</td><td>10.0</td><td>3.1 GB</td><td>2020-07-17</td><td><a href="/miui/pine/stable/V11.0.3.0.QCMMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Global</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QCMMIXM</td><td>10.0</td><td>1.7 GB</td><td>2020-07-23</td><td><a href="/miui/pine/stable/V11.0.3.0.QCMMIXM/">Download</a></td></tr>
-<tr><td>Redmi 7A India</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QCMINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-06-16</td><td><a href="/miui/pine/stable/V11.0.1.0.QCMINXM/">Download</a></td></tr>
-<tr><td>Redmi 7A India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QCMINXM</td><td>10.0</td><td>1.7 GB</td><td>2020-06-30</td><td><a href="/miui/pine/stable/V11.0.1.0.QCMINXM/">Download</a></td></tr>
+<tr><td>Redmi 7A India</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QCMINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-08-18</td><td><a href="/miui/pine/stable/V11.0.2.0.QCMINXM/">Download</a></td></tr>
+<tr><td>Redmi 7A India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QCMINXM</td><td>10.0</td><td>1.7 GB</td><td>2020-08-21</td><td><a href="/miui/pine/stable/V11.0.2.0.QCMINXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QCMRUXM</td><td>10.0</td><td>3.1 GB</td><td>2020-07-28</td><td><a href="/miui/pine/stable/V11.0.2.0.QCMRUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QCMRUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-08-03</td><td><a href="/miui/pine/stable/V11.0.2.0.QCMRUXM/">Download</a></td></tr>
 
