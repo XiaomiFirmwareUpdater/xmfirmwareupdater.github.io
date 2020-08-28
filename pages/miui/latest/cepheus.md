@@ -55,9 +55,9 @@ permalink: /miui/cepheus/
                 <tr><td>Mi 9 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QFACNXM</td><td>10.0</td><td>3.8 GB</td><td>2020-07-10</td><td><a href="/miui/cepheus/stable/V12.0.3.0.QFACNXM/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QFACNXM</td><td>10.0</td><td>2.7 GB</td><td>2020-07-16</td><td><a href="/miui/cepheus/stable/V12.0.3.0.QFACNXM/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Fastboot</td><td>9.7.22</td><td>9.0</td><td>3.7 GB</td><td>2019-07-23</td><td><a href="/miui/cepheus/weekly/9.7.22/">Download</a></td></tr>
-<tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>10.0</td><td>2.7 GB</td><td>2020-08-20</td><td><a href="/miui/cepheus/weekly/20.8.20/">Download</a></td></tr>
+<tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.8.27</td><td>10.0</td><td>2.7 GB</td><td>2020-08-27</td><td><a href="/miui/cepheus/weekly/20.8.27/">Download</a></td></tr>
 <tr><td>Mi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QFAEUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-06-13</td><td><a href="/miui/cepheus/stable/V12.0.1.0.QFAEUXM/">Download</a></td></tr>
-<tr><td>Mi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QFAEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-22</td><td><a href="/miui/cepheus/stable/V12.0.1.0.QFAEUXM/">Download</a></td></tr>
+<tr><td>Mi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.0.9.QFAEUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-06-02</td><td><a href="/miui/cepheus/stable/V12.0.0.9.QFAEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.QFAMIXM</td><td>10.0</td><td>3.6 GB</td><td>2020-04-20</td><td><a href="/miui/cepheus/stable/V11.0.6.0.QFAMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>3.3 GB</td><td>2019-06-28</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>2.5 GB</td><td>2019-06-28</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>

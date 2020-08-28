@@ -52,7 +52,8 @@ permalink: /archive/miui/davinci/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>10.0</td><td>2.6 GB</td><td>2020-08-20</td><td><a href="/miui/davinci/weekly/20.8.20/">Download</a></td></tr>
+                <tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>20.8.27</td><td>10.0</td><td>2.6 GB</td><td>2020-08-27</td><td><a href="/miui/davinci/weekly/20.8.27/">Download</a></td></tr>
+<tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>10.0</td><td>2.6 GB</td><td>2020-08-20</td><td><a href="/miui/davinci/weekly/20.8.20/">Download</a></td></tr>
 <tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>20.8.13</td><td>10.0</td><td>2.6 GB</td><td>2020-08-13</td><td><a href="/miui/davinci/weekly/20.8.13/">Download</a></td></tr>
 <tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>10.0</td><td>2.6 GB</td><td>2020-08-06</td><td><a href="/miui/davinci/weekly/20.8.6/">Download</a></td></tr>
 <tr><td>Redmi K20 China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QFJCNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-08-04</td><td><a href="/miui/davinci/stable/V12.0.4.0.QFJCNXM/">Download</a></td></tr>

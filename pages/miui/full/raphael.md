@@ -52,7 +52,8 @@ permalink: /archive/miui/raphael/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>10.0</td><td>2.7 GB</td><td>2020-08-20</td><td><a href="/miui/raphael/weekly/20.8.20/">Download</a></td></tr>
+                <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.27</td><td>10.0</td><td>2.7 GB</td><td>2020-08-27</td><td><a href="/miui/raphael/weekly/20.8.27/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>10.0</td><td>2.7 GB</td><td>2020-08-20</td><td><a href="/miui/raphael/weekly/20.8.20/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.13</td><td>10.0</td><td>2.7 GB</td><td>2020-08-14</td><td><a href="/miui/raphael/weekly/20.8.13/">Download</a></td></tr>
 <tr><td>Mi 9T Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFKMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-08-12</td><td><a href="/miui/raphael/stable/V12.0.2.0.QFKMIXM/">Download</a></td></tr>
 <tr><td>Mi 9T Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFKMIXM</td><td>10.0</td><td>3.0 GB</td><td>2020-07-31</td><td><a href="/miui/raphael/stable/V12.0.2.0.QFKMIXM/">Download</a></td></tr>
