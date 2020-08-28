@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-08-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-28.08.2020/fw_cmi_miui_CMI_20.8.28_227937e6ae_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.28/cmi/fw_cmi_miui_CMI_20.8.28_227937e6ae_11.0.zip
+  filename: fw_cmi_miui_CMI_20.8.28_227937e6ae_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.8.28
+- branch: weekly
   date: '2020-08-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-21.08.2020/fw_cmi_miui_CMI_20.8.20_2d9ecf13b9_11.0.zip
