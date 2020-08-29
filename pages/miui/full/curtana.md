@@ -52,7 +52,9 @@ permalink: /archive/miui/curtana/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9S Global</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.QJWMIXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-22</td><td><a href="/miui/curtana/stable/V11.0.10.0.QJWMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9S Global</td><td>Stable</td><td>Recovery</td><td>V11.0.11.0.QJWMIXM</td><td>10.0</td><td>2.4 GB</td><td>2020-08-21</td><td><a href="/miui/curtana/stable/V11.0.11.0.QJWMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.11.0.QJWMIXM</td><td>10.0</td><td>3.9 GB</td><td>2020-08-11</td><td><a href="/miui/curtana/stable/V11.0.11.0.QJWMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Global</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.QJWMIXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-22</td><td><a href="/miui/curtana/stable/V11.0.10.0.QJWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.10.0.QJWMIXM</td><td>10.0</td><td>4.0 GB</td><td>2020-07-15</td><td><a href="/miui/curtana/stable/V11.0.10.0.QJWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJWEUXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-22</td><td><a href="/miui/curtana/stable/V11.0.4.0.QJWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QJWEUXM</td><td>10.0</td><td>4.1 GB</td><td>2020-07-15</td><td><a href="/miui/curtana/stable/V11.0.4.0.QJWEUXM/">Download</a></td></tr>
