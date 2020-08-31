@@ -43,13 +43,13 @@
     android: '9.0'
     miui: V11.0.6.0.PFLINXM
 - branch: stable
-  date: '2020-06-12'
+  date: '2020-08-31'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_ru_global-stable/fw-vendor_onc_miui_ONCLITERUGlobal_V11.0.6.0.PFLRUXM_74bbaa3ea7_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_ru_global-stable/fw-vendor_onc_miui_ONCLITERUGlobal_V11.0.6.0.PFLRUXM_74bbaa3ea7_9.0.zip/download
-  filename: fw-vendor_onc_miui_ONCLITERUGlobal_V11.0.6.0.PFLRUXM_74bbaa3ea7_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_ru_global-stable/fw-vendor_onc_miui_ONCLITERUGlobal_V11.0.8.0.PFLRUXM_2ff47cf192_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_ru_global-stable/fw-vendor_onc_miui_ONCLITERUGlobal_V11.0.8.0.PFLRUXM_2ff47cf192_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITERUGlobal_V11.0.8.0.PFLRUXM_2ff47cf192_9.0.zip
   region: Russia
-  size: 284.0 MB
+  size: 295.5 MB
   versions:
     android: '9.0'
-    miui: V11.0.6.0.PFLRUXM
+    miui: V11.0.8.0.PFLRUXM
