@@ -61,8 +61,8 @@ permalink: /miui/onclite/
 <tr><td>Redmi 7 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PFLMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-06-22</td><td><a href="/miui/onclite/stable/V11.0.6.0.PFLMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PFLINXM</td><td>9.0</td><td>2.4 GB</td><td>2020-04-30</td><td><a href="/miui/onclite/stable/V11.0.6.0.PFLINXM/">Download</a></td></tr>
 <tr><td>Redmi 7 India</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PFLINXM</td><td>9.0</td><td>1.9 GB</td><td>2020-05-08</td><td><a href="/miui/onclite/stable/V11.0.6.0.PFLINXM/">Download</a></td></tr>
-<tr><td>Redmi 7 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PFLRUXM</td><td>9.0</td><td>2.5 GB</td><td>2020-06-09</td><td><a href="/miui/onclite/stable/V11.0.6.0.PFLRUXM/">Download</a></td></tr>
-<tr><td>Redmi 7 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PFLRUXM</td><td>9.0</td><td>1.9 GB</td><td>2020-06-12</td><td><a href="/miui/onclite/stable/V11.0.6.0.PFLRUXM/">Download</a></td></tr>
+<tr><td>Redmi 7 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.PFLRUXM</td><td>9.0</td><td>2.5 GB</td><td>2020-08-21</td><td><a href="/miui/onclite/stable/V11.0.8.0.PFLRUXM/">Download</a></td></tr>
+<tr><td>Redmi 7 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.PFLRUXM</td><td>9.0</td><td>1.9 GB</td><td>2020-08-24</td><td><a href="/miui/onclite/stable/V11.0.8.0.PFLRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
