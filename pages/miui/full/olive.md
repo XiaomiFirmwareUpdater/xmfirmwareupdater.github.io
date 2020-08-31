@@ -54,6 +54,8 @@ permalink: /archive/miui/olive/
                 <tbody>
                 <tr><td>Redmi 8A Indonesia</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QCPIDXM</td><td>10.0</td><td>1.7 GB</td><td>2020-08-19</td><td><a href="/miui/olivelite/stable/V11.0.1.0.QCPIDXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Indonesia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QCPIDXM</td><td>10.0</td><td>3.2 GB</td><td>2020-08-12</td><td><a href="/miui/olivelite/stable/V11.0.1.0.QCPIDXM/">Download</a></td></tr>
+<tr><td>Redmi 8 Indonesia</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QCNIDXM</td><td>10.0</td><td>2.0 GB</td><td>2020-08-19</td><td><a href="/miui/olive/stable/V11.0.1.0.QCNIDXM/">Download</a></td></tr>
+<tr><td>Redmi 8 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QCNIDXM</td><td>10.0</td><td>3.5 GB</td><td>2020-08-12</td><td><a href="/miui/olive/stable/V11.0.1.0.QCNIDXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QCPRUXM</td><td>10.0</td><td>1.8 GB</td><td>2020-08-18</td><td><a href="/miui/olivelite/stable/V11.0.1.0.QCPRUXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QCPRUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-08-11</td><td><a href="/miui/olivelite/stable/V11.0.1.0.QCPRUXM/">Download</a></td></tr>
 <tr><td>Redmi 8A India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QCPINXM</td><td>10.0</td><td>1.7 GB</td><td>2020-08-17</td><td><a href="/miui/olivelite/stable/V11.0.1.0.QCPINXM/">Download</a></td></tr>
@@ -226,10 +228,10 @@ permalink: /archive/miui/olive/
 <tr><td>Redmi 8A Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PCPMIXM</td><td>9.0</td><td>2.9 GB</td><td>2019-10-19</td><td><a href="/miui/olivelite/stable/V10.3.3.0.PCPMIXM/">Download</a></td></tr>
 <tr><td>Redmi 8 EEA</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.PCNEUXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-22</td><td><a href="/miui/olive/stable/V10.3.1.0.PCNEUXM/">Download</a></td></tr>
 <tr><td>Redmi 8A EEA</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.PCPEUXM</td><td>9.0</td><td>1.7 GB</td><td>2019-10-22</td><td><a href="/miui/olivelite/stable/V10.3.1.0.PCPEUXM/">Download</a></td></tr>
-<tr><td>Redmi 8 India</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PCNINXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-22</td><td><a href="/miui/olive/stable/V10.3.3.0.PCNINXM/">Download</a></td></tr>
-<tr><td>Redmi 8 India</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PCNINXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-16</td><td><a href="/miui/olive/stable/V10.3.3.0.PCNINXM/">Download</a></td></tr>
 <tr><td>Redmi 8 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PCNEUXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-25</td><td><a href="/miui/olive/stable/V11.0.1.0.PCNEUXM/">Download</a></td></tr>
 <tr><td>Redmi 8 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PCNEUXM</td><td>9.0</td><td>3.4 GB</td><td>2019-11-20</td><td><a href="/miui/olive/stable/V11.0.1.0.PCNEUXM/">Download</a></td></tr>
+<tr><td>Redmi 8 India</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PCNINXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-22</td><td><a href="/miui/olive/stable/V10.3.3.0.PCNINXM/">Download</a></td></tr>
+<tr><td>Redmi 8 India</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PCNINXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-16</td><td><a href="/miui/olive/stable/V10.3.3.0.PCNINXM/">Download</a></td></tr>
 <tr><td>Redmi 8 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PCNMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-22</td><td><a href="/miui/olive/stable/V10.3.3.0.PCNMIXM/">Download</a></td></tr>
 <tr><td>Redmi 8A India</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PCPINXM</td><td>9.0</td><td>1.7 GB</td><td>2019-10-22</td><td><a href="/miui/olivelite/stable/V10.3.3.0.PCPINXM/">Download</a></td></tr>
 <tr><td>Redmi 8A India</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PCPINXM</td><td>9.0</td><td>2.4 GB</td><td>2019-10-16</td><td><a href="/miui/olivelite/stable/V10.3.3.0.PCPINXM/">Download</a></td></tr>
