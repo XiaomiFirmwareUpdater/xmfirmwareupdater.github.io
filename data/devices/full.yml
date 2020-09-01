@@ -33778,6 +33778,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: stable
+  date: '2020-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-02.09.2020/fw_polaris_miui_MIMIX2SGlobal_V12.0.1.0.QDGMIXM_1f5f076ae3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/polaris/fw_polaris_miui_MIMIX2SGlobal_V12.0.1.0.QDGMIXM_1f5f076ae3_10.0.zip
+  filename: fw_polaris_miui_MIMIX2SGlobal_V12.0.1.0.QDGMIXM_1f5f076ae3_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QDGMIXM
 - branch: weekly
   date: '2020-08-28'
   downloads:
@@ -54148,6 +54158,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-02.09.2020/fw_violet_miui_VIOLETINGlobal_V11.0.2.0.QFHINXM_73c0bc5751_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.2.0.QFHINXM_73c0bc5751_10.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V11.0.2.0.QFHINXM_73c0bc5751_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QFHINXM
 - branch: weekly
   date: '2020-08-28'
   downloads:
