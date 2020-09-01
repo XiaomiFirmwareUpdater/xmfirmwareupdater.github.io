@@ -43,6 +43,17 @@
     android: '10.0'
     miui: V11.0.3.0.QJOTRXM
 - branch: stable
+  date: '2020-09-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_tr_global-stable/fw-vendor_merlin_miui_MERLINTRGlobal_V12.0.1.0.QJOTRXM_1e6c8331e1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_tr_global-stable/fw-vendor_merlin_miui_MERLINTRGlobal_V12.0.1.0.QJOTRXM_1e6c8331e1_10.0.zip/download
+  filename: fw-vendor_merlin_miui_MERLINTRGlobal_V12.0.1.0.QJOTRXM_1e6c8331e1_10.0.zip
+  region: Turkey
+  size: 810.2 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJOTRXM
+- branch: stable
   date: '2020-07-17'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_in_global-stable/fw-vendor_merlin_miui_MERLININGlobal_V11.0.2.0.QJOINXM_9d17b34add_10.0.zip
