@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 7 Pro (violet) MIUI Downloads
+title: Redmi 9C (angelica) MIUI Downloads
 layout: download
-name: Redmi Note 7 Pro
-codename: violet
-permalink: /miui/violet/
+name: Redmi 9C
+codename: angelica
+permalink: /archive/miui/angelica/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/violet/">Redmi Note 7 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/angelica/">Redmi 9C</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /miui/violet/
     </button>
 </div>
 
-### Latest MIUI Official ROMs
+### MIUI Official ROMs Archive
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/violet/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/violet/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/violet/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/miui/angelica/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/angelica/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/angelica/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,12 +52,8 @@ permalink: /miui/violet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 7 Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFHCNXM</td><td>10.0</td><td>3.2 GB</td><td>2020-07-31</td><td><a href="/miui/violet/stable/V12.0.2.0.QFHCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 7 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-08-05</td><td><a href="/miui/violet/stable/V12.0.2.0.QFHCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.8 GB</td><td>2019-09-04</td><td><a href="/miui/violet/weekly/9.9.3/">Download</a></td></tr>
-<tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.27</td><td>10.0</td><td>2.2 GB</td><td>2020-08-27</td><td><a href="/miui/violet/weekly/20.8.27/">Download</a></td></tr>
-<tr><td>Redmi Note 7 Pro India</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QFHINXM</td><td>10.0</td><td>2.7 GB</td><td>2020-07-31</td><td><a href="/miui/violet/stable/V11.0.2.0.QFHINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 7 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QFHINXM</td><td>10.0</td><td>2.1 GB</td><td>2020-08-10</td><td><a href="/miui/violet/stable/V11.0.2.0.QFHINXM/">Download</a></td></tr>
+                <tr><td>Redmi 9C Global</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCRMIXM</td><td>10.0</td><td>1.6 GB</td><td>2020-09-01</td><td><a href="/miui/angelica/stable/V12.0.4.0.QCRMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCREUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-09-01</td><td><a href="/miui/angelica/stable/V12.0.3.0.QCREUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

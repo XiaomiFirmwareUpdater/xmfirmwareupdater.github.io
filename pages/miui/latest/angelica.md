@@ -1,15 +1,15 @@
 ---
-title: Mi Note 3 (jason) MIUI Downloads
+title: Redmi 9C (angelica) MIUI Downloads
 layout: download
-name: Mi Note 3
-codename: jason
-permalink: /miui/jason/
+name: Redmi 9C
+codename: angelica
+permalink: /miui/angelica/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/jason/">Mi Note 3</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/angelica/">Redmi 9C</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/jason/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/jason/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/jason/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/jason/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/angelica/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/angelica/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/angelica/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,14 +52,8 @@ permalink: /miui/jason/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi Note 3 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.PCHCNXM</td><td>9.0</td><td>2.9 GB</td><td>2020-07-31</td><td><a href="/miui/jason/stable/V12.0.1.0.PCHCNXM/">Download</a></td></tr>
-<tr><td>Mi Note 3 China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.PCHCNXM</td><td>9.0</td><td>2.3 GB</td><td>2020-08-20</td><td><a href="/miui/jason/stable/V12.0.1.0.PCHCNXM/">Download</a></td></tr>
-<tr><td>Mi Note 3 China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.6 GB</td><td>2019-09-04</td><td><a href="/miui/jason/weekly/9.9.3/">Download</a></td></tr>
-<tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.2 GB</td><td>2020-06-18</td><td><a href="/miui/jason/weekly/20.6.18/">Download</a></td></tr>
-<tr><td>Mi Note 3 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PCHMIXM</td><td>9.0</td><td>2.3 GB</td><td>2020-02-17</td><td><a href="/miui/jason/stable/V11.0.5.0.PCHMIXM/">Download</a></td></tr>
-<tr><td>Mi Note 3 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCHMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-02-26</td><td><a href="/miui/jason/stable/V11.0.5.0.PCHMIXM/">Download</a></td></tr>
-<tr><td>Mi Note 3 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.3 GB</td><td>2019-06-28</td><td><a href="/miui/jason/weekly/9.6.27/">Download</a></td></tr>
-<tr><td>Mi Note 3 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>1.9 GB</td><td>2019-06-28</td><td><a href="/miui/jason/weekly/9.6.27/">Download</a></td></tr>
+                <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCREUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-09-01</td><td><a href="/miui/angelica/stable/V12.0.3.0.QCREUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C Global</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCRMIXM</td><td>10.0</td><td>1.6 GB</td><td>2020-09-01</td><td><a href="/miui/angelica/stable/V12.0.4.0.QCRMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -52,7 +52,8 @@ permalink: /archive/miui/jason/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi Note 3 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.PCHCNXM</td><td>9.0</td><td>2.3 GB</td><td>2020-08-20</td><td><a href="/miui/jason/stable beta/V12.0.1.0.PCHCNXM/">Download</a></td></tr>
+                <tr><td>Mi Note 3 China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.PCHCNXM</td><td>9.0</td><td>2.3 GB</td><td>2020-08-20</td><td><a href="/miui/jason/stable/V12.0.1.0.PCHCNXM/">Download</a></td></tr>
+<tr><td>Mi Note 3 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.PCHCNXM</td><td>9.0</td><td>2.9 GB</td><td>2020-07-31</td><td><a href="/miui/jason/stable/V12.0.1.0.PCHCNXM/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.2 GB</td><td>2020-06-18</td><td><a href="/miui/jason/weekly/20.6.18/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.17</td><td>9.0</td><td>2.2 GB</td><td>2020-06-17</td><td><a href="/miui/jason/weekly/20.6.17/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>20.6.11</td><td>9.0</td><td>2.2 GB</td><td>2020-06-11</td><td><a href="/miui/jason/weekly/20.6.11/">Download</a></td></tr>
@@ -83,12 +84,7 @@ permalink: /archive/miui/jason/
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.12.19</td><td>9.0</td><td>1.9 GB</td><td>2019-12-19</td><td><a href="/miui/jason/weekly/9.12.19/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.12.12</td><td>9.0</td><td>1.9 GB</td><td>2019-12-12</td><td><a href="/miui/jason/weekly/9.12.12/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.12.5</td><td>9.0</td><td>1.9 GB</td><td>2019-12-05</td><td><a href="/miui/jason/weekly/9.12.5/">Download</a></td></tr>
-<tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.11.28</td><td>9.0</td><td>1.9 GB</td><td>2019-11-28</td><td><a href="/miui/jason/weekly/9.11.28/">Download</a></td></tr>
-<tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.11.21</td><td>9.0</td><td>1.9 GB</td><td>2019-11-21</td><td><a href="/miui/jason/weekly/9.11.21/">Download</a></td></tr>
-<tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.11.14</td><td>9.0</td><td>1.9 GB</td><td>2019-11-14</td><td><a href="/miui/jason/weekly/9.11.14/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.11.7</td><td>9.0</td><td>1.9 GB</td><td>2019-11-07</td><td><a href="/miui/jason/weekly/9.11.7/">Download</a></td></tr>
-<tr><td>Mi Note 3 China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PCHCNXM</td><td>9.0</td><td>1.9 GB</td><td>2019-10-31</td><td><a href="/miui/jason/stable/V11.0.2.0.PCHCNXM/">Download</a></td></tr>
-<tr><td>Mi Note 3 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.PCHCNXM</td><td>9.0</td><td>2.6 GB</td><td>2019-10-24</td><td><a href="/miui/jason/stable/V11.0.2.0.PCHCNXM/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.10.31</td><td>9.0</td><td>1.9 GB</td><td>2019-10-31</td><td><a href="/miui/jason/weekly/9.10.31/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.10.24</td><td>9.0</td><td>1.9 GB</td><td>2019-10-24</td><td><a href="/miui/jason/weekly/9.10.24/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.10.17</td><td>9.0</td><td>1.9 GB</td><td>2019-10-17</td><td><a href="/miui/jason/weekly/9.10.17/">Download</a></td></tr>
@@ -97,6 +93,11 @@ permalink: /archive/miui/jason/
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.9.26</td><td>9.0</td><td>1.9 GB</td><td>2019-09-26</td><td><a href="/miui/jason/weekly/9.9.26/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Stable</td><td>Recovery</td><td>V10.4.2.0.PCHCNXM</td><td>9.0</td><td>1.8 GB</td><td>2019-09-12</td><td><a href="/miui/jason/stable/V10.4.2.0.PCHCNXM/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Stable</td><td>Fastboot</td><td>V10.4.2.0.PCHCNXM</td><td>9.0</td><td>2.5 GB</td><td>2019-09-06</td><td><a href="/miui/jason/stable/V10.4.2.0.PCHCNXM/">Download</a></td></tr>
+<tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.11.28</td><td>9.0</td><td>1.9 GB</td><td>2019-11-28</td><td><a href="/miui/jason/weekly/9.11.28/">Download</a></td></tr>
+<tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.11.21</td><td>9.0</td><td>1.9 GB</td><td>2019-11-21</td><td><a href="/miui/jason/weekly/9.11.21/">Download</a></td></tr>
+<tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>9.11.14</td><td>9.0</td><td>1.9 GB</td><td>2019-11-14</td><td><a href="/miui/jason/weekly/9.11.14/">Download</a></td></tr>
+<tr><td>Mi Note 3 China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PCHCNXM</td><td>9.0</td><td>1.9 GB</td><td>2019-10-31</td><td><a href="/miui/jason/stable/V11.0.2.0.PCHCNXM/">Download</a></td></tr>
+<tr><td>Mi Note 3 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.PCHCNXM</td><td>9.0</td><td>2.6 GB</td><td>2019-10-24</td><td><a href="/miui/jason/stable/V11.0.2.0.PCHCNXM/">Download</a></td></tr>
 <tr><td>Mi Note 3 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PCHMIXM</td><td>9.0</td><td>1.8 GB</td><td>2019-10-31</td><td><a href="/miui/jason/stable/V11.0.3.0.PCHMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 3 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PCHMIXM</td><td>9.0</td><td>2.2 GB</td><td>2019-10-24</td><td><a href="/miui/jason/stable/V11.0.3.0.PCHMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 3 Global</td><td>Stable</td><td>Recovery</td><td>V10.4.2.0.PCHMIXM</td><td>9.0</td><td>1.8 GB</td><td>2019-09-12</td><td><a href="/miui/jason/stable/V10.4.2.0.PCHMIXM/">Download</a></td></tr>
@@ -307,8 +308,6 @@ permalink: /archive/miui/jason/
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>8.3.8</td><td>7.1</td><td>1.6 GB</td><td>2018-03-08</td><td><a href="/miui/jason/weekly/8.3.8/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>7.1</td><td>2.6 GB</td><td>2018-03-01</td><td><a href="/miui/jason/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>7.1</td><td>1.6 GB</td><td>2018-02-28</td><td><a href="/miui/jason/weekly/8.3.1/">Download</a></td></tr>
-<tr><td>Mi Note 3 China</td><td>Stable</td><td>Fastboot</td><td>V9.5.3.0.NCHCNFA</td><td>7.1</td><td>2.6 GB</td><td>2018-02-28</td><td><a href="/miui/jason/stable/V9.5.3.0.NCHCNFA/">Download</a></td></tr>
-<tr><td>Mi Note 3 China</td><td>Stable</td><td>Recovery</td><td>V9.5.3.0.NCHCNFA</td><td>7.1</td><td>1.6 GB</td><td>2018-02-28</td><td><a href="/miui/jason/stable/V9.5.3.0.NCHCNFA/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>7.1</td><td>2.6 GB</td><td>2018-02-01</td><td><a href="/miui/jason/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>8.2.1</td><td>7.1</td><td>1.6 GB</td><td>2018-01-31</td><td><a href="/miui/jason/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Fastboot</td><td>8.1.25</td><td>7.1</td><td>2.6 GB</td><td>2018-01-25</td><td><a href="/miui/jason/weekly/8.1.25/">Download</a></td></tr>
@@ -319,6 +318,8 @@ permalink: /archive/miui/jason/
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>8.1.18</td><td>7.1</td><td>1.6 GB</td><td>2018-01-17</td><td><a href="/miui/jason/weekly/8.1.18/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Fastboot</td><td>8.1.11</td><td>7.1</td><td>2.5 GB</td><td>2018-01-11</td><td><a href="/miui/jason/weekly/8.1.11/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>8.1.11</td><td>7.1</td><td>1.6 GB</td><td>2018-01-10</td><td><a href="/miui/jason/weekly/8.1.11/">Download</a></td></tr>
+<tr><td>Mi Note 3 China</td><td>Stable</td><td>Fastboot</td><td>V9.5.3.0.NCHCNFA</td><td>7.1</td><td>2.6 GB</td><td>2018-02-28</td><td><a href="/miui/jason/stable/V9.5.3.0.NCHCNFA/">Download</a></td></tr>
+<tr><td>Mi Note 3 China</td><td>Stable</td><td>Recovery</td><td>V9.5.3.0.NCHCNFA</td><td>7.1</td><td>1.6 GB</td><td>2018-02-28</td><td><a href="/miui/jason/stable/V9.5.3.0.NCHCNFA/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Fastboot</td><td>8.1.4</td><td>7.1</td><td>2.5 GB</td><td>2018-01-04</td><td><a href="/miui/jason/weekly/8.1.4/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Recovery</td><td>8.1.4</td><td>7.1</td><td>1.6 GB</td><td>2018-01-03</td><td><a href="/miui/jason/weekly/8.1.4/">Download</a></td></tr>
 <tr><td>Mi Note 3 China</td><td>Weekly</td><td>Fastboot</td><td>7.12.28</td><td>7.1</td><td>2.5 GB</td><td>2017-12-28</td><td><a href="/miui/jason/weekly/7.12.28/">Download</a></td></tr>

@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 01 Sep 2020 19:12:36 +0900</pubDate>
+  <pubDate>Wed, 02 Sep 2020 01:29:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.4.0.QCRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Wed, 02 Sep 2020 01:29:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.3.0.QCREUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Wed, 02 Sep 2020 01:28:14 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 Pro (equuleus) - V12.0.2.0.QECCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
@@ -95,16 +105,6 @@
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.8.27</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Fri, 28 Aug 2020 21:42:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro (tucana) - 20.8.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 28 Aug 2020 21:42:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - 20.8.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Fri, 28 Aug 2020 21:41:56 +0900</pubDate>
   </item>
     </channel>
 </rss>
