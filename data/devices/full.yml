@@ -28379,6 +28379,16 @@
     android: '9.0'
     miui: V11.0.4.0.PCQINXM
 - branch: stable
+  date: '2020-09-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-02.09.2020/fw_onc_miui_ONCINGlobal_V11.0.10.0.PFFINXM_0acb7904ba_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCINGlobal_V11.0.10.0.PFFINXM_0acb7904ba_9.0.zip
+  filename: fw_onc_miui_ONCINGlobal_V11.0.10.0.PFFINXM_0acb7904ba_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.10.0.PFFINXM
+- branch: stable
   date: '2020-07-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-30.07.2020/fw_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip
