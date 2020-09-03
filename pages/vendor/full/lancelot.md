@@ -1,7 +1,7 @@
 ---
-title: Redmi 9 (lancelot) Vendor Downloads
+title: Redmi 9/Redmi 9 Prime (lancelot) Vendor Downloads
 layout: download
-name: Redmi 9
+name: Redmi 9/Redmi 9 Prime
 codename: lancelot
 permalink: /archive/vendor/lancelot/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/vendor/lancelot/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/vendor/">Vendor</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/vendor/lancelot/">Redmi 9</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/vendor/lancelot/">Redmi 9/Redmi 9 Prime</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

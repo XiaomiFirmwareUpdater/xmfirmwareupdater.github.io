@@ -1,7 +1,7 @@
 ---
-title: Redmi 9 (lancelot) MIUI Downloads
+title: Redmi 9/Redmi 9 Prime (lancelot) MIUI Downloads
 layout: download
-name: Redmi 9
+name: Redmi 9/Redmi 9 Prime
 codename: lancelot
 permalink: /archive/miui/lancelot/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/lancelot/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/lancelot/">Redmi 9</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/lancelot/">Redmi 9/Redmi 9 Prime</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -52,7 +52,9 @@ permalink: /archive/miui/lancelot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QJCCNXM</td><td>10.0</td><td>2.0 GB</td><td>2020-08-26</td><td><a href="/miui/lancelot/stable/V11.0.7.0.QJCCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 9 Prime India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJCINXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-03</td><td><a href="/miui/lancelot/stable/V11.0.2.0.QJCINXM/">Download</a></td></tr>
+<tr><td>Redmi 9 Prime India</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QJCINXM</td><td>10.0</td><td>2.8 GB</td><td>2020-07-19</td><td><a href="/miui/lancelot/stable/V11.0.2.0.QJCINXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QJCCNXM</td><td>10.0</td><td>2.0 GB</td><td>2020-08-26</td><td><a href="/miui/lancelot/stable/V11.0.7.0.QJCCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.QJCCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-20</td><td><a href="/miui/lancelot/stable/V11.0.7.0.QJCCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9 China</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.QJCCNXM</td><td>10.0</td><td>2.0 GB</td><td>2020-08-14</td><td><a href="/miui/lancelot/stable beta/V11.0.5.0.QJCCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.QJCMIXM</td><td>10.0</td><td>1.9 GB</td><td>2020-08-13</td><td><a href="/miui/lancelot/stable beta/V11.0.5.0.QJCMIXM/">Download</a></td></tr>
