@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 02 Sep 2020 19:12:52 +0900</pubDate>
+  <pubDate>Thu, 03 Sep 2020 13:11:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Play (lotus) - V11.0.8.0.OFIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
+    <pubDate>Thu, 03 Sep 2020 13:11:01 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.10.0.PFFINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -100,11 +105,6 @@
     <title>Mi MIX 2S (polaris) - 20.8.27</title>
     <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
     <pubDate>Fri, 28 Aug 2020 21:44:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Explorer (ursa) - 20.8.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Fri, 28 Aug 2020 21:43:48 +0900</pubDate>
   </item>
     </channel>
 </rss>
