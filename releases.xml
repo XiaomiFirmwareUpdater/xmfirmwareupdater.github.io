@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 03 Sep 2020 13:11:01 +0900</pubDate>
+  <pubDate>Thu, 03 Sep 2020 21:49:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro (tucana) - V12.0.2.0.QFDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Thu, 03 Sep 2020 21:49:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.0.3.0.QFCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Thu, 03 Sep 2020 21:46:47 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Play (lotus) - V11.0.8.0.OFIMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
@@ -95,16 +105,6 @@
     <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.8.27</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
     <pubDate>Fri, 28 Aug 2020 21:44:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 20.8.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 28 Aug 2020 21:44:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 2S (polaris) - 20.8.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/polaris</link>
-    <pubDate>Fri, 28 Aug 2020 21:44:16 +0900</pubDate>
   </item>
     </channel>
 </rss>
