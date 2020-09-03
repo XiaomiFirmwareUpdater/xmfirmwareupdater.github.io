@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 03 Sep 2020 21:49:04 +0900</pubDate>
+  <pubDate>Fri, 04 Sep 2020 01:12:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8T (willow) - V11.0.5.0.PCXMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
+    <pubDate>Fri, 04 Sep 2020 01:12:24 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro (tucana) - V12.0.2.0.QFDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -100,11 +105,6 @@
     <title>Mi 10 Ultra (cas) - V12.0.8.0.QJJCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
     <pubDate>Sat, 29 Aug 2020 01:14:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.8.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 28 Aug 2020 21:44:58 +0900</pubDate>
   </item>
     </channel>
 </rss>
