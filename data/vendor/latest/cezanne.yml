@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-08-12'
+  date: '2020-09-04'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cezanne-stable/fw-vendor_cezanne_miui_CEZANNE_V12.0.8.0.QJNCNXM_1ae9faa171_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cezanne-stable/fw-vendor_cezanne_miui_CEZANNE_V12.0.8.0.QJNCNXM_1ae9faa171_10.0.zip/download
-  filename: fw-vendor_cezanne_miui_CEZANNE_V12.0.8.0.QJNCNXM_1ae9faa171_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cezanne-stable/fw-vendor_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cezanne-stable/fw-vendor_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip/download
+  filename: fw-vendor_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip
   region: China
-  size: 891.6 MB
+  size: 892.7 MB
   versions:
     android: '10.0'
-    miui: V12.0.8.0.QJNCNXM
+    miui: V12.0.11.0.QJNCNXM
 - branch: weekly
   date: '2020-09-03'
   downloads:

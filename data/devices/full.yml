@@ -4158,6 +4158,16 @@
   versions:
     android: '10.0'
     miui: V12.0.6.0.QJJCNXM
+- branch: stable
+  date: '2020-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-04.09.2020/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.2.0.QFAEUXM_44dcb66933_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.2.0.QFAEUXM_44dcb66933_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.2.0.QFAEUXM_44dcb66933_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFAEUXM
 - branch: weekly
   date: '2020-09-03'
   downloads:
@@ -25118,6 +25128,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-04.09.2020/fw_monet_miui_MONETEEAGlobal_V12.0.2.0.QJIEUXM_12bc504f22_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.0.2.0.QJIEUXM_12bc504f22_10.0.zip
+  filename: fw_monet_miui_MONETEEAGlobal_V12.0.2.0.QJIEUXM_12bc504f22_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJIEUXM
 - branch: stable
   date: '2020-07-20'
   downloads:
@@ -51558,6 +51578,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-09-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-04.09.2020/fw_umi_miui_UMIEEAGlobal_V12.0.2.0.QJBEUXM_a20927d2db_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.0.2.0.QJBEUXM_a20927d2db_10.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.0.2.0.QJBEUXM_a20927d2db_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJBEUXM
 - branch: weekly
   date: '2020-08-28'
   downloads:
