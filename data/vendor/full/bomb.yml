@@ -42,6 +42,17 @@
   versions:
     android: '10.0'
     miui: 20.8.6
+- branch: weekly
+  date: '2020-09-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/bomb-weekly/fw-vendor_bomb_miui_BOMB_20.9.3_954ae4c170_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/bomb-weekly/fw-vendor_bomb_miui_BOMB_20.9.3_954ae4c170_10.0.zip/download
+  filename: fw-vendor_bomb_miui_BOMB_20.9.3_954ae4c170_10.0.zip
+  region: China
+  size: 670.9 MB
+  versions:
+    android: '10.0'
+    miui: 20.9.3
 - branch: stable
   date: '2020-05-27'
   downloads:
