@@ -52,7 +52,8 @@ permalink: /archive/miui/dipper/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>10.0</td><td>2.3 GB</td><td>2020-09-03</td><td><a href="/miui/dipper/weekly/20.9.3/">Download</a></td></tr>
+                <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.9.4</td><td>10.0</td><td>2.3 GB</td><td>2020-09-04</td><td><a href="/miui/dipper/weekly/20.9.4/">Download</a></td></tr>
+<tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>10.0</td><td>2.3 GB</td><td>2020-09-03</td><td><a href="/miui/dipper/weekly/20.9.3/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.8.27</td><td>10.0</td><td>2.3 GB</td><td>2020-08-27</td><td><a href="/miui/dipper/weekly/20.8.27/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>10.0</td><td>2.3 GB</td><td>2020-08-20</td><td><a href="/miui/dipper/weekly/20.8.20/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.8.13</td><td>10.0</td><td>2.3 GB</td><td>2020-08-13</td><td><a href="/miui/dipper/weekly/20.8.13/">Download</a></td></tr>

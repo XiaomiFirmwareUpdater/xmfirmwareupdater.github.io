@@ -52,7 +52,8 @@ permalink: /archive/miui/cmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.28</td><td>11.0</td><td>3.8 GB</td><td>2020-08-28</td><td><a href="/miui/cmi/weekly/20.8.28/">Download</a></td></tr>
+                <tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>11.0</td><td>3.8 GB</td><td>2020-09-04</td><td><a href="/miui/cmi/weekly/20.9.3/">Download</a></td></tr>
+<tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.28</td><td>11.0</td><td>3.8 GB</td><td>2020-08-28</td><td><a href="/miui/cmi/weekly/20.8.28/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>11.0</td><td>3.8 GB</td><td>2020-08-21</td><td><a href="/miui/cmi/weekly/20.8.20/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.13</td><td>11.0</td><td>3.8 GB</td><td>2020-08-13</td><td><a href="/miui/cmi/weekly/20.8.13/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJACNXM</td><td>10.0</td><td>3.7 GB</td><td>2020-08-13</td><td><a href="/miui/cmi/stable/V12.0.4.0.QJACNXM/">Download</a></td></tr>
