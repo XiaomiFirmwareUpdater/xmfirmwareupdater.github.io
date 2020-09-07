@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 05 Sep 2020 18:53:55 +0900</pubDate>
+  <pubDate>Mon, 07 Sep 2020 19:22:09 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro (tucana) - V12.0.1.0.QFDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Mon, 07 Sep 2020 19:22:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 5G (andromeda) - V12.0.1.0.PEMEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Mon, 07 Sep 2020 19:19:51 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 8 SE (sirius) - 20.9.4</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
@@ -95,16 +105,6 @@
     <title>Mi CC 9 Pro (tucana) - 20.9.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Fri, 04 Sep 2020 03:58:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.9.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 04 Sep 2020 03:58:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - 20.9.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Fri, 04 Sep 2020 03:58:01 +0900</pubDate>
   </item>
     </channel>
 </rss>
