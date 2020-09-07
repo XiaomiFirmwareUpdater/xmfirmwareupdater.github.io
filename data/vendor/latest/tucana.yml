@@ -32,16 +32,16 @@
     android: '10.0'
     miui: 20.9.3
 - branch: stable
-  date: '2020-07-03'
+  date: '2020-09-07'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_eea_global-stable/fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.1.2.0.QFDEUXM_782cb61971_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_eea_global-stable/fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.1.2.0.QFDEUXM_782cb61971_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANAEEAGlobal_V11.1.2.0.QFDEUXM_782cb61971_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_eea_global-stable/fw-vendor_tucana_miui_TUCANAEEAGlobal_V12.0.1.0.QFDEUXM_5985ff5318_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_eea_global-stable/fw-vendor_tucana_miui_TUCANAEEAGlobal_V12.0.1.0.QFDEUXM_5985ff5318_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANAEEAGlobal_V12.0.1.0.QFDEUXM_5985ff5318_10.0.zip
   region: Europe
-  size: 1.0 GB
+  size: 981.8 MB
   versions:
     android: '10.0'
-    miui: V11.1.2.0.QFDEUXM
+    miui: V12.0.1.0.QFDEUXM
 - branch: stable
   date: '2020-05-26'
   downloads:
