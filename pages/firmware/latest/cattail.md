@@ -1,15 +1,15 @@
 ---
-title: Redmi 9A/9AT (dandelion) Firmware Downloads
+title: Redmi 9 (cattail) Firmware Downloads
 layout: download
-name: Redmi 9A/9AT
-codename: dandelion
-permalink: /firmware/dandelion/
+name: Redmi 9
+codename: cattail
+permalink: /firmware/cattail/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/dandelion/">Redmi 9A/9AT</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/cattail/">Redmi 9</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -27,9 +27,9 @@ permalink: /firmware/dandelion/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest firmware downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/firmware/dandelion/" class="card-link">Firmware Archive</a>
-    <a href="/miui/dandelion/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/dandelion/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/firmware/cattail/" class="card-link">Firmware Archive</a>
+    <a href="/miui/cattail/" class="card-link">MIUI Downloads</a>
+    <a href="/vendor/cattail/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ permalink: /firmware/dandelion/
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('dandelion', 'latest')</script>
+                <script>loadFirmwareDownloads('cattail', 'latest')</script>
             </table>
         </div>
     </div>

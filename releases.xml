@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 08 Sep 2020 07:06:51 +0900</pubDate>
+  <pubDate>Tue, 08 Sep 2020 18:21:53 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9 (cattail) - V12.0.1.0.QCTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
+    <pubDate>Tue, 08 Sep 2020 18:21:53 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8A (olivelite) - V11.0.3.0.QCPCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
@@ -100,11 +105,6 @@
     <title>Mi MIX 3 (perseus) - V12.0.1.0.QEEMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
     <pubDate>Fri, 04 Sep 2020 19:15:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - V12.0.11.0.QJNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Fri, 04 Sep 2020 19:13:04 +0900</pubDate>
   </item>
     </channel>
 </rss>
