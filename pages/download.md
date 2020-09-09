@@ -12,7 +12,7 @@ permalink: /download/
 <div class="card card-group">
 	<div class="card-body">
 		<h4 data-ref="DownloadDetails">Download details:</h4>
-		{%include pix_ad_320x50_1.html%}
+		{%include vli_ad_320x50_1.html%}
 		<ul>
 			<li><b data-ref="d-device">Device:</b> <span id="device"></span></li>
 			<li><b data-ref="d-branch">Branch:</b> <span id="branch"></span></li>

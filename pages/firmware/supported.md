@@ -28,7 +28,7 @@ Check the downloads on the following page: [Latest Firmware](/firmware/).
 <div class="row justify-content-center">
     <div class="col-10">
         <div class="table-responsive-md" style="margin-top: 25px;">
-            {%include pix_ad_320x50_1.html%}
+            {%include vli_ad_320x50_1.html%}
             <table id="supported" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
@@ -40,5 +40,5 @@ Check the downloads on the following page: [Latest Firmware](/firmware/).
             </table>
         </div>
     </div>
-    {%include pix_ad_160x600_1.html%}
+    {%include vli_ad_160x600_1.html%}
 </div>

@@ -3951,14 +3951,3 @@
 		box-shadow: 0px 10px 24px 10px rgba(0, 0, 0, 0.21);
     }
 
-@media only screen and (min-width: 1025px) {
-    #pix_ad_320x50_1 {
-    display:none;
-    }
-}
-
-@media only screen and (max-width: 1024px) {
-    #pix_ad_160x600_1 {
-    display:none;
-    }
-}

@@ -18,7 +18,7 @@ It supports creating untouched firmware, non-arb firmware, firmware + vendor fla
 - Easy-to-use interface
 - Multilanguage support (more than 25 languages!). Thanks to our community members!
 
-{%include pix_ad_320x50_1.html%}
+{%include vli_ad_320x50_1.html%}
 
 #### Screenshots:
 
@@ -55,7 +55,7 @@ python3 create_flashable_firmware.py -L [MIUI ZIP]
 python3 create_flashable_firmware.py -V [MIUI ZIP]
 ```
 
-{%include pix_ad_320x50_1.html%}
+{%include vli_ad_320x50_1.html%}
 
 ### CLI Guide:
 

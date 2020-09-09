@@ -37,7 +37,7 @@ permalink: /archive/miui/pisces/
 <div class="row justify-content-center">
     <div class="col-10">
         <div class="table-responsive-md" style="margin-top: 25px;">
-            {%include pix_ad_320x50_1.html%}
+            {%include vli_ad_320x50_1.html%}
             <table id="miui" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
@@ -85,5 +85,5 @@ permalink: /archive/miui/pisces/
             </table>
         </div>
     </div>
-    {%include pix_ad_160x600_1.html%}
+    {%include vli_ad_160x600_1.html%}
 </div>

@@ -36,7 +36,7 @@ permalink: /firmware/kenzo/
 {%include ads.html%}
 <div class="row justify-content-center">
     <div class="col-10">
-        {%include pix_ad_320x50_1.html%}
+        {%include vli_ad_320x50_1.html%}
         <div class="table-responsive-md" style="margin-top: 25px;">
             <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
@@ -53,5 +53,5 @@ permalink: /firmware/kenzo/
             </table>
         </div>
     </div>
-    {%include pix_ad_160x600_1.html%}
+    {%include vli_ad_160x600_1.html%}
 </div>

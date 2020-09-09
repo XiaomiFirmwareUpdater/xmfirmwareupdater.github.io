@@ -42,6 +42,6 @@ permalink: /miui/$codename/$branch_lower/$version/
         <div class="col-10" id="downloads">
             $updates
         </div>
-        {%include pix_ad_160x600_1.html%}
+        {%include vli_ad_160x600_1.html%}
     </div>
 </div>

@@ -1,5 +1,5 @@
         <div class="card card-body">
-            {%include pix_ad_320x50_1.html%}
+            {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
                     <h5><b>Device: </b>$device</h5>
