@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 11 Sep 2020 03:24:19 +0900</pubDate>
+  <pubDate>Fri, 11 Sep 2020 03:37:27 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.7.0.PFLINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 11 Sep 2020 03:37:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.10.0.PFLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Fri, 11 Sep 2020 03:36:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Lite (monet) - V12.0.1.0.QJIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
+    <pubDate>Fri, 11 Sep 2020 03:34:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 2 (chiron) - V12.0.1.0.PDECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chiron</link>
+    <pubDate>Fri, 11 Sep 2020 03:33:14 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 20.9.8</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
@@ -85,26 +105,6 @@
     <title>Redmi K30 4G (phoenix) - 20.9.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
     <pubDate>Fri, 11 Sep 2020 02:46:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.9.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 11 Sep 2020 02:45:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 20.9.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 11 Sep 2020 02:45:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9 (cattail) - V12.0.1.0.QCTINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
-    <pubDate>Tue, 08 Sep 2020 18:21:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V11.0.3.0.QCPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Tue, 08 Sep 2020 07:06:51 +0900</pubDate>
   </item>
     </channel>
 </rss>
