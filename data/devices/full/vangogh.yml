@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-09-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-10.09.2020/fw_vangogh_miui_VANGOGH_20.9.8_10dabb2f03_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.8/vangogh/fw_vangogh_miui_VANGOGH_20.9.8_10dabb2f03_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_20.9.8_10dabb2f03_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.9.8
 - branch: stable
   date: '2020-08-19'
   downloads:

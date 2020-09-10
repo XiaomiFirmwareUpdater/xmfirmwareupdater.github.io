@@ -52,7 +52,8 @@ permalink: /archive/miui/pyxis/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>10.0</td><td>2.6 GB</td><td>2020-09-03</td><td><a href="/miui/pyxis/weekly/20.9.3/">Download</a></td></tr>
+                <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>20.9.10</td><td>10.0</td><td>2.6 GB</td><td>2020-09-10</td><td><a href="/miui/pyxis/weekly/20.9.10/">Download</a></td></tr>
+<tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>10.0</td><td>2.6 GB</td><td>2020-09-03</td><td><a href="/miui/pyxis/weekly/20.9.3/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QFCMIXM</td><td>10.0</td><td>2.6 GB</td><td>2020-08-29</td><td><a href="/miui/pyxis/stable/V12.0.3.0.QFCMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QFCMIXM</td><td>10.0</td><td>3.1 GB</td><td>2020-08-19</td><td><a href="/miui/pyxis/stable/V12.0.3.0.QFCMIXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>20.8.27</td><td>10.0</td><td>2.5 GB</td><td>2020-08-27</td><td><a href="/miui/pyxis/weekly/20.8.27/">Download</a></td></tr>
