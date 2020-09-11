@@ -516,16 +516,16 @@
     android: '11.0'
     miui: 20.9.3
 - branch: stable
-  date: '2020-08-06'
+  date: '2020-09-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi_eea_global-stable-beta/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi_eea_global-stable-beta/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip/download
-  filename: fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi_eea_global-stable/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.2.0.QJAEUXM_6310c179de_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi_eea_global-stable/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.2.0.QJAEUXM_6310c179de_10.0.zip/download
+  filename: fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.2.0.QJAEUXM_6310c179de_10.0.zip
   region: Europe
   size: 1.5 GB
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QJAEUXM
+    miui: V12.0.2.0.QJAEUXM
 - branch: stable
   date: '2020-07-20'
   downloads:
@@ -1297,16 +1297,16 @@
     android: '7.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-06-30'
+  date: '2020-09-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/monet_global-stable/fw-vendor_monet_miui_MONETGlobal_V11.0.4.0.QJIMIXM_7e9d77c86e_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/monet_global-stable/fw-vendor_monet_miui_MONETGlobal_V11.0.4.0.QJIMIXM_7e9d77c86e_10.0.zip/download
-  filename: fw-vendor_monet_miui_MONETGlobal_V11.0.4.0.QJIMIXM_7e9d77c86e_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/monet_global-stable/fw-vendor_monet_miui_MONETGlobal_V12.0.1.0.QJIMIXM_be919da9b6_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/monet_global-stable/fw-vendor_monet_miui_MONETGlobal_V12.0.1.0.QJIMIXM_be919da9b6_10.0.zip/download
+  filename: fw-vendor_monet_miui_MONETGlobal_V12.0.1.0.QJIMIXM_be919da9b6_10.0.zip
   region: Global
   size: 1.5 GB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QJIMIXM
+    miui: V12.0.1.0.QJIMIXM
 - branch: stable
   date: '2020-09-04'
   downloads:
@@ -1539,27 +1539,27 @@
     android: '10.0'
     miui: V11.0.2.0.QFLCNXM
 - branch: stable
-  date: '2020-06-18'
+  date: '2020-09-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_eea_global-stable/fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.7.0.PFLEUXM_2e899cc11b_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_eea_global-stable/fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.7.0.PFLEUXM_2e899cc11b_9.0.zip/download
-  filename: fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.7.0.PFLEUXM_2e899cc11b_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_eea_global-stable/fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.10.0.PFLEUXM_1bc7606f67_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_eea_global-stable/fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.10.0.PFLEUXM_1bc7606f67_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITEEEAGlobal_V11.0.10.0.PFLEUXM_1bc7606f67_9.0.zip
   region: Europe
-  size: 284.0 MB
+  size: 295.5 MB
   versions:
     android: '9.0'
-    miui: V11.0.7.0.PFLEUXM
+    miui: V11.0.10.0.PFLEUXM
 - branch: stable
-  date: '2020-05-08'
+  date: '2020-09-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_in_global-stable/fw-vendor_onc_miui_ONCLITEINGlobal_V11.0.6.0.PFLINXM_7a113b065f_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_in_global-stable/fw-vendor_onc_miui_ONCLITEINGlobal_V11.0.6.0.PFLINXM_7a113b065f_9.0.zip/download
-  filename: fw-vendor_onc_miui_ONCLITEINGlobal_V11.0.6.0.PFLINXM_7a113b065f_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/onclite_in_global-stable/fw-vendor_onc_miui_ONCLITEINGlobal_V11.0.7.0.PFLINXM_70658eb09d_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/onclite_in_global-stable/fw-vendor_onc_miui_ONCLITEINGlobal_V11.0.7.0.PFLINXM_70658eb09d_9.0.zip/download
+  filename: fw-vendor_onc_miui_ONCLITEINGlobal_V11.0.7.0.PFLINXM_70658eb09d_9.0.zip
   region: India
-  size: 284.1 MB
+  size: 295.6 MB
   versions:
     android: '9.0'
-    miui: V11.0.6.0.PFLINXM
+    miui: V11.0.7.0.PFLINXM
 - branch: stable
   date: '2020-08-31'
   downloads:

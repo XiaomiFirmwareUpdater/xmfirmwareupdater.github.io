@@ -32,13 +32,13 @@
     android: '11.0'
     miui: 20.9.3
 - branch: stable
-  date: '2020-08-06'
+  date: '2020-09-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi_eea_global-stable-beta/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi_eea_global-stable-beta/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip/download
-  filename: fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi_eea_global-stable/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.2.0.QJAEUXM_6310c179de_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi_eea_global-stable/fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.2.0.QJAEUXM_6310c179de_10.0.zip/download
+  filename: fw-vendor_cmi_miui_CMIEEAGlobal_V12.0.2.0.QJAEUXM_6310c179de_10.0.zip
   region: Europe
   size: 1.5 GB
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QJAEUXM
+    miui: V12.0.2.0.QJAEUXM

@@ -52,8 +52,8 @@ permalink: /miui/jasmine/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi A2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.12.0.QDIMIXM</td><td>10.0</td><td>1.7 GB</td><td>2020-07-24</td><td><a href="/miui/jasmine/stable/V11.0.12.0.QDIMIXM/">Download</a></td></tr>
-<tr><td>Mi A2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.12.0.QDIMIXM</td><td>10.0</td><td>1.4 GB</td><td>2020-07-29</td><td><a href="/miui/jasmine/stable/V11.0.12.0.QDIMIXM/">Download</a></td></tr>
+                <tr><td>Mi A2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.13.0.QDIMIXM</td><td>10.0</td><td>1.7 GB</td><td>2020-08-19</td><td><a href="/miui/jasmine/stable/V11.0.13.0.QDIMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.13.0.QDIMIXM</td><td>10.0</td><td>1.4 GB</td><td>2020-08-23</td><td><a href="/miui/jasmine/stable/V11.0.13.0.QDIMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
