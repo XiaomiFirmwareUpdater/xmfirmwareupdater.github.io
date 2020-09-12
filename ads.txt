@@ -407,4 +407,11 @@ interdogmedia.com, 6925, DIRECT
 apacdex.com, 6925, DIRECT 
 h12ukltd.com, 6925, DIRECT
 pubmatic.com, 159929, RESELLER, 5d62403b186f2ace
+ssp.ynxs.io, 185, DIRECT
+spotxchange.com, 85519, RESELLER, 7842df1d2fe2db34
+spotx.tv, 85519, RESELLER, 7842df1d2fe2db34
+indexexchange.com, 192922, RESELLER, 50b1c356f2c5c8fc
+amxrtb.com, 105199361, DIRECT
+appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 #VLI END
