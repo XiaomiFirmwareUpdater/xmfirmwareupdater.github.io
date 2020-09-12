@@ -8799,6 +8799,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJWINXM
 - branch: stable
+  date: '2020-09-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-12.09.2020/fw_dandelion_miui_DANDELIONINGlobal_V12.0.3.0.QCDINXM_6e50a7f857_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.3.0.QCDINXM_6e50a7f857_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.3.0.QCDINXM_6e50a7f857_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCDINXM
+- branch: stable
   date: '2020-09-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-01.09.2020/fw_dandelion_miui_DANDELIONGlobal_V12.0.5.0.QCDMIXM_7d5800d303_10.0.zip
@@ -28738,6 +28748,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PCPCNXM
+- branch: stable
+  date: '2020-09-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-12.09.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QCQINXM
 - branch: stable
   date: '2020-07-09'
   downloads:

@@ -579,6 +579,16 @@
     android: '10.0'
     miui: V12.0.6.0.QCDEUXM
 - branch: stable
+  date: '2020-09-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-12.09.2020/fw_dandelion_miui_DANDELIONINGlobal_V12.0.3.0.QCDINXM_6e50a7f857_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.3.0.QCDINXM_6e50a7f857_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.3.0.QCDINXM_6e50a7f857_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCDINXM
+- branch: stable
   date: '2020-08-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-03.08.2020/fw_davinci_miui_DAVINCIGlobal_V12.0.3.0.QFJMIXM_ed720ed0a6_10.0.zip
@@ -1649,15 +1659,15 @@
     android: '10.0'
     miui: V11.0.1.0.QCPINXM
 - branch: stable
-  date: '2020-07-09'
+  date: '2020-09-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-09.07.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.8.0.PCQINXM_e279ce1ff8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.8.0.PCQINXM_e279ce1ff8_9.0.zip
-  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.8.0.PCQINXM_e279ce1ff8_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-12.09.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
   region: India
   versions:
-    android: '9.0'
-    miui: V11.0.8.0.PCQINXM
+    android: '10.0'
+    miui: V11.0.1.0.QCQINXM
 - branch: stable
   date: '2020-06-22'
   downloads:
