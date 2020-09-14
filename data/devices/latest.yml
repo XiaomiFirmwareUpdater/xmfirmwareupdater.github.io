@@ -89,15 +89,15 @@
     android: '10.0'
     miui: 20.9.10
 - branch: stable
-  date: '2020-07-23'
+  date: '2020-09-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-23.07.2020/fw_begonia_miui_BEGONIAGlobal_V12.0.2.0.QGGMIXM_d7ccad5950_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.0.2.0.QGGMIXM_d7ccad5950_10.0.zip
-  filename: fw_begonia_miui_BEGONIAGlobal_V12.0.2.0.QGGMIXM_d7ccad5950_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-14.09.2020/fw_begonia_miui_BEGONIAGlobal_V12.0.3.0.QGGMIXM_4bd96ae3c3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.0.3.0.QGGMIXM_4bd96ae3c3_10.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V12.0.3.0.QGGMIXM_4bd96ae3c3_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QGGMIXM
+    miui: V12.0.3.0.QGGMIXM
 - branch: stable
   date: '2020-07-22'
   downloads:
@@ -2399,15 +2399,15 @@
     android: '10.0'
     miui: V11.0.6.0.QFNMIXM
 - branch: stable
-  date: '2020-07-28'
+  date: '2020-09-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-28.07.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-14.09.2020/fw_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.11.0.QFNEUXM
+    miui: V12.0.1.0.QFNEUXM
 - branch: stable
   date: '2020-09-03'
   downloads:
