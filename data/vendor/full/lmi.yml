@@ -262,3 +262,14 @@
   versions:
     android: '10.0'
     miui: V12.0.8.0.QJKCNXM
+- branch: stable
+  date: '2020-09-14'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lmi-stable/fw-vendor_lmi_miui_LMI_V12.0.9.0.QJKCNXM_c7272d59e5_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lmi-stable/fw-vendor_lmi_miui_LMI_V12.0.9.0.QJKCNXM_c7272d59e5_10.0.zip/download
+  filename: fw-vendor_lmi_miui_LMI_V12.0.9.0.QJKCNXM_c7272d59e5_10.0.zip
+  region: China
+  size: 1.4 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.9.0.QJKCNXM

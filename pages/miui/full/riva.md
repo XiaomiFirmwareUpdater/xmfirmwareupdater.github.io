@@ -52,8 +52,8 @@ permalink: /archive/miui/riva/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 5A China</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.OCKCNXM</td><td>8.1</td><td>1.6 GB</td><td>2019-12-25</td><td><a href="/miui/riva/stable/V11.0.6.0.OCKCNXM/">Download</a></td></tr>
-<tr><td>Redmi 5A China</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.OCKCNXM</td><td>8.1</td><td>2.2 GB</td><td>2019-12-23</td><td><a href="/miui/riva/stable/V11.0.6.0.OCKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 5A China</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.OCKCNXM</td><td>8.1</td><td>2.2 GB</td><td>2019-12-23</td><td><a href="/miui/riva/stable/V11.0.6.0.OCKCNXM/">Download</a></td></tr>
+<tr><td>Redmi 5A China</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.OCKCNXM</td><td>8.1</td><td>1.6 GB</td><td>None</td><td><a href="/miui/riva/stable/V11.0.6.0.OCKCNXM/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.OCKCNXM</td><td>8.1</td><td>1.6 GB</td><td>2019-11-12</td><td><a href="/miui/riva/stable/V11.0.2.0.OCKCNXM/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.OCKCNXM</td><td>8.1</td><td>2.2 GB</td><td>2019-11-06</td><td><a href="/miui/riva/stable/V11.0.2.0.OCKCNXM/">Download</a></td></tr>
 <tr><td>Redmi 5A Global</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.OCKMIXM</td><td>8.1</td><td>1.5 GB</td><td>2019-11-12</td><td><a href="/miui/riva/stable/V11.0.2.0.OCKMIXM/">Download</a></td></tr>
