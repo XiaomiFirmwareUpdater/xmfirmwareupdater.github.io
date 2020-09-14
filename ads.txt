@@ -414,4 +414,6 @@ indexexchange.com, 192922, RESELLER, 50b1c356f2c5c8fc
 amxrtb.com, 105199361, DIRECT
 appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
+velismedia.com, 3459, DIRECT
+specto.tv, 3459, DIRECT
 #VLI END
