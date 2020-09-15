@@ -52,10 +52,9 @@ permalink: /miui/chiron/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi MIX 2 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PDECNXM</td><td>9.0</td><td>2.5 GB</td><td>2020-03-03</td><td><a href="/miui/chiron/stable/V11.0.5.0.PDECNXM/">Download</a></td></tr>
-<tr><td>Mi MIX 2 China</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PDECNXM</td><td>9.0</td><td>1.9 GB</td><td>2020-03-10</td><td><a href="/miui/chiron/stable/V11.0.5.0.PDECNXM/">Download</a></td></tr>
+                <tr><td>Mi MIX 2 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.PDECNXM</td><td>9.0</td><td>2.8 GB</td><td>2020-07-31</td><td><a href="/miui/chiron/stable/V12.0.1.0.PDECNXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2 China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.PDECNXM</td><td>9.0</td><td>2.1 GB</td><td>2020-09-07</td><td><a href="/miui/chiron/stable/V12.0.1.0.PDECNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2 China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.5 GB</td><td>2019-09-04</td><td><a href="/miui/chiron/weekly/9.9.3/">Download</a></td></tr>
-<tr><td>Mi MIX 2 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.PDECNXM</td><td>9.0</td><td>2.1 GB</td><td>2020-09-07</td><td><a href="/miui/chiron/stable beta/V12.0.1.0.PDECNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.2 GB</td><td>2020-06-18</td><td><a href="/miui/chiron/weekly/20.6.18/">Download</a></td></tr>
 <tr><td>Mi MIX 2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PDEMIXM</td><td>9.0</td><td>2.3 GB</td><td>2020-03-08</td><td><a href="/miui/chiron/stable/V11.0.6.0.PDEMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PDEMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-03-20</td><td><a href="/miui/chiron/stable/V11.0.6.0.PDEMIXM/">Download</a></td></tr>

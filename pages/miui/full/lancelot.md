@@ -52,7 +52,9 @@ permalink: /archive/miui/lancelot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9 Prime India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJCINXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-03</td><td><a href="/miui/lancelot/stable/V11.0.2.0.QJCINXM/">Download</a></td></tr>
+                <tr><td>Redmi 9 Prime India</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJCINXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-08</td><td><a href="/miui/lancelot/stable/V11.0.4.0.QJCINXM/">Download</a></td></tr>
+<tr><td>Redmi 9 Prime India</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QJCINXM</td><td>10.0</td><td>2.7 GB</td><td>2020-09-01</td><td><a href="/miui/lancelot/stable/V11.0.4.0.QJCINXM/">Download</a></td></tr>
+<tr><td>Redmi 9 Prime India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJCINXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-03</td><td><a href="/miui/lancelot/stable/V11.0.2.0.QJCINXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Prime India</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QJCINXM</td><td>10.0</td><td>2.8 GB</td><td>2020-07-19</td><td><a href="/miui/lancelot/stable/V11.0.2.0.QJCINXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QJCEUXM</td><td>10.0</td><td>1.9 GB</td><td>2020-08-31</td><td><a href="/miui/lancelot/stable/V11.0.7.0.QJCEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.QJCEUXM</td><td>10.0</td><td>3.6 GB</td><td>2020-08-21</td><td><a href="/miui/lancelot/stable/V11.0.7.0.QJCEUXM/">Download</a></td></tr>
