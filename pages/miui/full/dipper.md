@@ -63,9 +63,9 @@ permalink: /archive/miui/dipper/
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QEAMIXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-16</td><td><a href="/miui/dipper/stable/V11.0.5.0.QEAMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QEAMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-06</td><td><a href="/miui/dipper/stable/V11.0.5.0.QEAMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>2.3 GB</td><td>2020-07-16</td><td><a href="/miui/dipper/weekly/20.7.16/">Download</a></td></tr>
-<tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>10.0</td><td>2.3 GB</td><td>2020-07-09</td><td><a href="/miui/dipper/weekly/20.7.9/">Download</a></td></tr>
+<tr><td>Mi 8 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QEARUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-14</td><td><a href="/miui/dipper/stable/V11.0.4.0.QEARUXM/">Download</a></td></tr>
 <tr><td>Mi 8 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QEARUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-03</td><td><a href="/miui/dipper/stable/V11.0.4.0.QEARUXM/">Download</a></td></tr>
-<tr><td>Mi 8 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QEARUXM</td><td>10.0</td><td>2.0 GB</td><td>None</td><td><a href="/miui/dipper/stable/V11.0.4.0.QEARUXM/">Download</a></td></tr>
+<tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>10.0</td><td>2.3 GB</td><td>2020-07-09</td><td><a href="/miui/dipper/weekly/20.7.9/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.7.2</td><td>10.0</td><td>2.3 GB</td><td>2020-07-02</td><td><a href="/miui/dipper/weekly/20.7.2/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>10.0</td><td>2.3 GB</td><td>2020-06-18</td><td><a href="/miui/dipper/weekly/20.6.18/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.6.17</td><td>10.0</td><td>2.3 GB</td><td>2020-06-17</td><td><a href="/miui/dipper/weekly/20.6.17/">Download</a></td></tr>
