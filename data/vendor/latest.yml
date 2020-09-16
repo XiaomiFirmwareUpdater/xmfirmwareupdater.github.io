@@ -604,16 +604,16 @@
     android: '10.0'
     miui: V12.0.2.0.QCDIDXM
 - branch: stable
-  date: '2020-08-19'
+  date: '2020-09-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dandelion-stable/fw-vendor_dandelion_miui_DANDELION_V12.0.2.0.QCDCNXM_a3a42bcd16_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dandelion-stable/fw-vendor_dandelion_miui_DANDELION_V12.0.2.0.QCDCNXM_a3a42bcd16_10.0.zip/download
-  filename: fw-vendor_dandelion_miui_DANDELION_V12.0.2.0.QCDCNXM_a3a42bcd16_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dandelion-stable/fw-vendor_dandelion_miui_DANDELION_V12.0.3.0.QCDCNXM_e9e05c99a8_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dandelion-stable/fw-vendor_dandelion_miui_DANDELION_V12.0.3.0.QCDCNXM_e9e05c99a8_10.0.zip/download
+  filename: fw-vendor_dandelion_miui_DANDELION_V12.0.3.0.QCDCNXM_e9e05c99a8_10.0.zip
   region: China
-  size: 442.5 MB
+  size: 445.1 MB
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QCDCNXM
+    miui: V12.0.3.0.QCDCNXM
 - branch: stable
   date: '2020-08-04'
   downloads:
@@ -1066,16 +1066,16 @@
     android: '10.0'
     miui: V11.0.7.0.QJCEUXM
 - branch: stable
-  date: '2020-09-03'
+  date: '2020-09-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lancelot_in_global-stable/fw-vendor_lancelot_miui_LANCELOTINGlobal_V11.0.2.0.QJCINXM_9efa072612_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lancelot_in_global-stable/fw-vendor_lancelot_miui_LANCELOTINGlobal_V11.0.2.0.QJCINXM_9efa072612_10.0.zip/download
-  filename: fw-vendor_lancelot_miui_LANCELOTINGlobal_V11.0.2.0.QJCINXM_9efa072612_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lancelot_in_global-stable/fw-vendor_lancelot_miui_LANCELOTINGlobal_V11.0.4.0.QJCINXM_7c06f672bb_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lancelot_in_global-stable/fw-vendor_lancelot_miui_LANCELOTINGlobal_V11.0.4.0.QJCINXM_7c06f672bb_10.0.zip/download
+  filename: fw-vendor_lancelot_miui_LANCELOTINGlobal_V11.0.4.0.QJCINXM_7c06f672bb_10.0.zip
   region: India
-  size: 788.3 MB
+  size: 769.9 MB
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QJCINXM
+    miui: V11.0.4.0.QJCINXM
 - branch: stable
   date: '2020-08-04'
   downloads:
@@ -2089,16 +2089,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-08-06'
+  date: '2020-09-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_global-stable-beta/fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_global-stable-beta/fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
   region: Global
   size: 1.1 GB
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QFNMIXM
+    miui: V12.0.2.0.QFNMIXM
 - branch: stable
   date: '2020-09-14'
   downloads:
