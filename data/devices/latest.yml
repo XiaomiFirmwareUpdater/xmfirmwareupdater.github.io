@@ -559,15 +559,15 @@
     android: '10.0'
     miui: V12.0.5.0.QCDMIXM
 - branch: stable
-  date: '2020-09-16'
+  date: '2020-08-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-16.09.2020/fw_dandelion_miui_DANDELION_V12.0.3.0.QCDCNXM_e9e05c99a8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.0.3.0.QCDCNXM_e9e05c99a8_10.0.zip
-  filename: fw_dandelion_miui_DANDELION_V12.0.3.0.QCDCNXM_e9e05c99a8_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-19.08.2020/fw_dandelion_miui_DANDELION_V12.0.2.0.QCDCNXM_a3a42bcd16_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.0.2.0.QCDCNXM_a3a42bcd16_10.0.zip
+  filename: fw_dandelion_miui_DANDELION_V12.0.2.0.QCDCNXM_a3a42bcd16_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QCDCNXM
+    miui: V12.0.2.0.QCDCNXM
 - branch: stable
   date: '2020-08-24'
   downloads:
@@ -1129,15 +1129,15 @@
     android: '10.0'
     miui: V11.0.5.0.QJCEUXM
 - branch: stable
-  date: '2020-09-03'
+  date: '2020-09-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-03.09.2020/fw_lancelot_miui_LANCELOTINGlobal_V11.0.2.0.QJCINXM_9efa072612_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V11.0.2.0.QJCINXM_9efa072612_10.0.zip
-  filename: fw_lancelot_miui_LANCELOTINGlobal_V11.0.2.0.QJCINXM_9efa072612_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-16.09.2020/fw_lancelot_miui_LANCELOTINGlobal_V11.0.4.0.QJCINXM_7c06f672bb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V11.0.4.0.QJCINXM_7c06f672bb_10.0.zip
+  filename: fw_lancelot_miui_LANCELOTINGlobal_V11.0.4.0.QJCINXM_7c06f672bb_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QJCINXM
+    miui: V11.0.4.0.QJCINXM
 - branch: stable
   date: '2019-05-28'
   downloads:
@@ -2749,15 +2749,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2019-11-15'
+  date: '2020-09-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-15.11.2019/fw_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/whyred/fw_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
-  filename: fw_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-16.09.2020/fw_whyred_miui_HMNote5Global_V11.0.2.0.PEIMIXM_9b6a8cd0a6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/whyred/fw_whyred_miui_HMNote5Global_V11.0.2.0.PEIMIXM_9b6a8cd0a6_9.0.zip
+  filename: fw_whyred_miui_HMNote5Global_V11.0.2.0.PEIMIXM_9b6a8cd0a6_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PEIMIXM
+    miui: V11.0.2.0.PEIMIXM
 - branch: stable
   date: '2019-11-04'
   downloads:
