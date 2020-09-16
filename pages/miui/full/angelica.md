@@ -52,7 +52,11 @@ permalink: /archive/miui/angelica/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9C Global</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCRMIXM</td><td>10.0</td><td>1.6 GB</td><td>2020-09-01</td><td><a href="/miui/angelica/stable/V12.0.4.0.QCRMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 9C NFC EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCSEUXM</td><td>10.0</td><td>1.6 GB</td><td>2020-09-07</td><td><a href="/miui/angelican/stable/V12.0.3.0.QCSEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCSEUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-08-27</td><td><a href="/miui/angelican/stable/V12.0.3.0.QCSEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCSRUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-09-01</td><td><a href="/miui/angelican/stable/V12.0.3.0.QCSRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCSRUXM</td><td>10.0</td><td>3.3 GB</td><td>2020-08-27</td><td><a href="/miui/angelican/stable/V12.0.3.0.QCSRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C Global</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCRMIXM</td><td>10.0</td><td>1.6 GB</td><td>2020-09-01</td><td><a href="/miui/angelica/stable/V12.0.4.0.QCRMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QCRMIXM</td><td>10.0</td><td>3.2 GB</td><td>2020-08-25</td><td><a href="/miui/angelica/stable/V12.0.4.0.QCRMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCREUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-09-01</td><td><a href="/miui/angelica/stable/V12.0.3.0.QCREUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCREUXM</td><td>10.0</td><td>3.3 GB</td><td>2020-08-25</td><td><a href="/miui/angelica/stable/V12.0.3.0.QCREUXM/">Download</a></td></tr>

@@ -1,15 +1,15 @@
 ---
-title: Redmi K30 Ultra (cezanne) MIUI Downloads
+title: Redmi 9C NFC (angelican) MIUI Downloads
 layout: download
-name: Redmi K30 Ultra
-codename: cezanne
-permalink: /miui/cezanne/
+name: Redmi 9C NFC
+codename: angelican
+permalink: /archive/miui/angelican/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cezanne/">Redmi K30 Ultra</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/angelican/">Redmi 9C NFC</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /miui/cezanne/
     </button>
 </div>
 
-### Latest MIUI Official ROMs
+### MIUI Official ROMs Archive
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/cezanne/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/cezanne/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/cezanne/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/miui/angelican/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/angelican/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/angelican/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,9 +52,10 @@ permalink: /miui/cezanne/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V12.0.11.0.QJNCNXM</td><td>10.0</td><td>4.1 GB</td><td>2020-08-31</td><td><a href="/miui/cezanne/stable/V12.0.11.0.QJNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.0.11.0.QJNCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-09-04</td><td><a href="/miui/cezanne/stable/V12.0.11.0.QJNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>10.0</td><td>3.1 GB</td><td>2020-09-03</td><td><a href="/miui/cezanne/weekly/20.9.3/">Download</a></td></tr>
+                <tr><td>Redmi 9C NFC EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCSEUXM</td><td>10.0</td><td>1.6 GB</td><td>2020-09-07</td><td><a href="/miui/angelican/stable/V12.0.3.0.QCSEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCSEUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-08-27</td><td><a href="/miui/angelican/stable/V12.0.3.0.QCSEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCSRUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-09-01</td><td><a href="/miui/angelican/stable/V12.0.3.0.QCSRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCSRUXM</td><td>10.0</td><td>3.3 GB</td><td>2020-08-27</td><td><a href="/miui/angelican/stable/V12.0.3.0.QCSRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
