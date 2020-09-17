@@ -77,7 +77,7 @@ permalink: /miui/olive/
 <tr><td>Redmi 8A India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QCPINXM</td><td>10.0</td><td>1.7 GB</td><td>2020-08-17</td><td><a href="/miui/olivelite/stable/V11.0.1.0.QCPINXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QCPRUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-08-11</td><td><a href="/miui/olivelite/stable/V11.0.1.0.QCPRUXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QCPRUXM</td><td>10.0</td><td>1.8 GB</td><td>2020-08-18</td><td><a href="/miui/olivelite/stable/V11.0.1.0.QCPRUXM/">Download</a></td></tr>
-<tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.PCQIDXM</td><td>9.0</td><td>2.9 GB</td><td>2020-06-11</td><td><a href="/miui/olivewood/stable/V11.0.4.0.PCQIDXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QCQIDXM</td><td>10.0</td><td>3.0 GB</td><td>2020-09-01</td><td><a href="/miui/olivewood/stable/V11.0.1.0.QCQIDXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.PCQIDXM</td><td>9.0</td><td>1.8 GB</td><td>2020-06-19</td><td><a href="/miui/olivewood/stable/V11.0.4.0.PCQIDXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QCQINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-08-26</td><td><a href="/miui/olivewood/stable/V11.0.1.0.QCQINXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QCQINXM</td><td>10.0</td><td>1.7 GB</td><td>2020-09-01</td><td><a href="/miui/olivewood/stable/V11.0.1.0.QCQINXM/">Download</a></td></tr>
