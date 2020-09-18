@@ -63,6 +63,7 @@ permalink: /miui/tucana/
 <tr><td>Mi Note 10/Pro Russia</td><td>Stable</td><td>Recovery</td><td>V11.1.2.0.QFDRUXM</td><td>10.0</td><td>2.8 GB</td><td>2020-07-03</td><td><a href="/miui/tucana/stable/V11.1.2.0.QFDRUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10/Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QFDEUXM</td><td>10.0</td><td>4.7 GB</td><td>2020-08-19</td><td><a href="/miui/tucana/stable/V12.0.1.0.QFDEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10/Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QFDEUXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-24</td><td><a href="/miui/tucana/stable/V12.0.1.0.QFDEUXM/">Download</a></td></tr>
+<tr><td>Mi Note 10/Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QFDRUXM</td><td>10.0</td><td>2.9 GB</td><td>2020-09-16</td><td><a href="/miui/tucana/stable beta/V12.0.2.0.QFDRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

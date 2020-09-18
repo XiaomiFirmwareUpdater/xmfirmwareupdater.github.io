@@ -9,3 +9,14 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QCTINXM
+- branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cattail_in_global-stable/fw-vendor_cattail_miui_CATTAILINGlobal_V12.0.2.0.QCTINXM_4cab0e6287_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cattail_in_global-stable/fw-vendor_cattail_miui_CATTAILINGlobal_V12.0.2.0.QCTINXM_4cab0e6287_10.0.zip/download
+  filename: fw-vendor_cattail_miui_CATTAILINGlobal_V12.0.2.0.QCTINXM_4cab0e6287_10.0.zip
+  region: India
+  size: 634.5 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCTINXM

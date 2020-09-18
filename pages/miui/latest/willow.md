@@ -58,6 +58,7 @@ permalink: /miui/willow/
 <tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCXMIXM</td><td>9.0</td><td>2.0 GB</td><td>2020-08-28</td><td><a href="/miui/willow/stable/V11.0.5.0.PCXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.PCXRUXM</td><td>9.0</td><td>3.5 GB</td><td>2020-06-12</td><td><a href="/miui/willow/stable/V11.0.4.0.PCXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.PCXRUXM</td><td>9.0</td><td>2.0 GB</td><td>2020-06-19</td><td><a href="/miui/willow/stable/V11.0.4.0.PCXRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8T Russia</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.PCXRUXM</td><td>9.0</td><td>2.0 GB</td><td>2020-09-12</td><td><a href="/miui/willow/stable beta/V11.0.5.0.PCXRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -1,4 +1,15 @@
 - branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/angelica_id_global-stable/fw-vendor_angelica_miui_ANGELICAIDGlobal_V12.0.1.0.QCRIDXM_8779a9afd1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/angelica_id_global-stable/fw-vendor_angelica_miui_ANGELICAIDGlobal_V12.0.1.0.QCRIDXM_8779a9afd1_10.0.zip/download
+  filename: fw-vendor_angelica_miui_ANGELICAIDGlobal_V12.0.1.0.QCRIDXM_8779a9afd1_10.0.zip
+  region: Global
+  size: 621.0 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QCRIDXM
+- branch: stable
   date: '2020-09-01'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/angelica_eea_global-stable/fw-vendor_angelica_miui_ANGELICAEEAGlobal_V12.0.3.0.QCREUXM_f1b540faf3_10.0.zip
