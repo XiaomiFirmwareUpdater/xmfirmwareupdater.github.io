@@ -1913,16 +1913,16 @@
     android: '10.0'
     miui: 20.9.3
 - branch: stable
-  date: '2020-06-28'
+  date: '2020-09-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.3.0.QFCEUXM_d5ccaacaf9_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.3.0.QFCEUXM_d5ccaacaf9_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISEEAGlobal_V11.0.3.0.QFCEUXM_d5ccaacaf9_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V12.0.3.0.QFCEUXM_77eb12bf7d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_eea_global-stable/fw-vendor_pyxis_miui_PYXISEEAGlobal_V12.0.3.0.QFCEUXM_77eb12bf7d_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISEEAGlobal_V12.0.3.0.QFCEUXM_77eb12bf7d_10.0.zip
   region: Europe
-  size: 775.4 MB
+  size: 836.8 MB
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QFCEUXM
+    miui: V12.0.3.0.QFCEUXM
 - branch: stable
   date: '2020-07-01'
   downloads:
@@ -2088,6 +2088,17 @@
   versions:
     android: '9.0'
     miui: 9.9.3
+- branch: stable
+  date: '2020-09-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/shiva_in_global-stable/fw-vendor_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/shiva_in_global-stable/fw-vendor_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip/download
+  filename: fw-vendor_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+  region: India
+  size: 765.6 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJRINXM
 - branch: stable
   date: '2020-05-28'
   downloads:

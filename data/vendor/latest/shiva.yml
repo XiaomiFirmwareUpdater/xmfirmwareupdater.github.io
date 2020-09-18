@@ -1,0 +1,11 @@
+- branch: stable
+  date: '2020-09-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/shiva_in_global-stable/fw-vendor_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/shiva_in_global-stable/fw-vendor_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip/download
+  filename: fw-vendor_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+  region: India
+  size: 765.6 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJRINXM
