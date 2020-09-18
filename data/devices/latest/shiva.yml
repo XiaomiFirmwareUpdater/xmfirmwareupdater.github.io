@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-18.09.2020/fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/shiva/fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+  filename: fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJRINXM

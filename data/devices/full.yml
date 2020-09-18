@@ -46878,6 +46878,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-18.09.2020/fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/shiva/fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+  filename: fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJRINXM
 - branch: weekly
   date: '2020-09-05'
   downloads:
@@ -47928,6 +47938,36 @@
   versions:
     android: '8.1'
     miui: 8.6.18
+- branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-18.09.2020/fw_surya_miui_SURYAEEAGlobal_V12.0.2.0.QJGEUXM_c68aede605_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.0.2.0.QJGEUXM_c68aede605_10.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V12.0.2.0.QJGEUXM_c68aede605_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJGEUXM
+- branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-18.09.2020/fw_surya_miui_SURYAGlobal_V12.0.2.0.QJGMIXM_c8f2531a02_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.0.2.0.QJGMIXM_c8f2531a02_10.0.zip
+  filename: fw_surya_miui_SURYAGlobal_V12.0.2.0.QJGMIXM_c8f2531a02_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJGMIXM
+- branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-18.09.2020/fw_surya_miui_SURYAINGlobal_V12.0.2.0.QJGINXM_3bc33f7f7b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAINGlobal_V12.0.2.0.QJGINXM_3bc33f7f7b_10.0.zip
+  filename: fw_surya_miui_SURYAINGlobal_V12.0.2.0.QJGINXM_3bc33f7f7b_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJGINXM
 - branch: stable
   date: '2019-11-27'
   downloads:

@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 18 Sep 2020 03:03:29 +0900</pubDate>
+  <pubDate>Fri, 18 Sep 2020 20:25:10 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X3 NFC (surya) - V12.0.2.0.QJGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Fri, 18 Sep 2020 20:25:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO X3 NFC (surya) - V12.0.2.0.QJGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Fri, 18 Sep 2020 20:24:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO X3 NFC (surya) - V12.0.2.0.QJGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Fri, 18 Sep 2020 20:23:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M2 (shiva) - V11.0.4.0.QJRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
+    <pubDate>Fri, 18 Sep 2020 20:22:19 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - 20.9.17</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -85,26 +105,6 @@
     <title>Redmi K30 Ultra (cezanne) - 20.9.17</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
     <pubDate>Fri, 18 Sep 2020 02:57:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.9.17</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 18 Sep 2020 02:57:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 20.9.17</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 18 Sep 2020 02:57:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.9.17</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 18 Sep 2020 02:56:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Ultra (cas) - 20.9.17</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
-    <pubDate>Fri, 18 Sep 2020 02:56:10 +0900</pubDate>
   </item>
     </channel>
 </rss>
