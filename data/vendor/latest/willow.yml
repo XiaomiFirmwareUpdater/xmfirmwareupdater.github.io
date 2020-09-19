@@ -21,13 +21,13 @@
     android: '9.0'
     miui: V11.0.11.0.PCXEUXM
 - branch: stable
-  date: '2020-06-19'
+  date: '2020-09-18'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.4.0.PCXRUXM_76e3010904_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.4.0.PCXRUXM_76e3010904_9.0.zip/download
-  filename: fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.4.0.PCXRUXM_76e3010904_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.5.0.PCXRUXM_5cd2d649e7_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.5.0.PCXRUXM_5cd2d649e7_9.0.zip/download
+  filename: fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.5.0.PCXRUXM_5cd2d649e7_9.0.zip
   region: Russia
-  size: 384.1 MB
+  size: 401.1 MB
   versions:
     android: '9.0'
-    miui: V11.0.4.0.PCXRUXM
+    miui: V11.0.5.0.PCXRUXM

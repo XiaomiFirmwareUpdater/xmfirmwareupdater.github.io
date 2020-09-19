@@ -328,3 +328,14 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QJOEUXM
+- branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/merlin_eea_global-stable/fw-vendor_merlin_miui_MERLINEEAGlobal_V12.0.3.0.QJOEUXM_74dd6bb502_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/merlin_eea_global-stable/fw-vendor_merlin_miui_MERLINEEAGlobal_V12.0.3.0.QJOEUXM_74dd6bb502_10.0.zip/download
+  filename: fw-vendor_merlin_miui_MERLINEEAGlobal_V12.0.3.0.QJOEUXM_74dd6bb502_10.0.zip
+  region: Europe
+  size: 858.3 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJOEUXM

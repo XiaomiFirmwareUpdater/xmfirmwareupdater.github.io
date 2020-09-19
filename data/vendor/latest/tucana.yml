@@ -43,13 +43,13 @@
     android: '10.0'
     miui: V12.0.1.0.QFDEUXM
 - branch: stable
-  date: '2020-05-26'
+  date: '2020-09-18'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_ru_global-stable/fw-vendor_tucana_miui_TUCANARUGlobal_V11.1.1.0.QFDRUXM_28759082b1_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_ru_global-stable/fw-vendor_tucana_miui_TUCANARUGlobal_V11.1.1.0.QFDRUXM_28759082b1_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANARUGlobal_V11.1.1.0.QFDRUXM_28759082b1_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_ru_global-stable/fw-vendor_tucana_miui_TUCANARUGlobal_V12.0.2.0.QFDRUXM_f5500b36c2_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_ru_global-stable/fw-vendor_tucana_miui_TUCANARUGlobal_V12.0.2.0.QFDRUXM_f5500b36c2_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANARUGlobal_V12.0.2.0.QFDRUXM_f5500b36c2_10.0.zip
   region: Russia
-  size: 1.0 GB
+  size: 979.3 MB
   versions:
     android: '10.0'
-    miui: V11.1.1.0.QFDRUXM
+    miui: V12.0.2.0.QFDRUXM

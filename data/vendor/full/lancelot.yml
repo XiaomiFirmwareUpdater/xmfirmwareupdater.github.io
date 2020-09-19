@@ -43,6 +43,17 @@
     android: '10.0'
     miui: V11.0.3.0.QJCIDXM
 - branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lancelot_id_global-stable/fw-vendor_lancelot_miui_LANCELOTIDGlobal_V11.0.6.0.QJCIDXM_20725269fc_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lancelot_id_global-stable/fw-vendor_lancelot_miui_LANCELOTIDGlobal_V11.0.6.0.QJCIDXM_20725269fc_10.0.zip/download
+  filename: fw-vendor_lancelot_miui_LANCELOTIDGlobal_V11.0.6.0.QJCIDXM_20725269fc_10.0.zip
+  region: Global
+  size: 785.9 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.6.0.QJCIDXM
+- branch: stable
   date: '2020-08-04'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lancelot_ru_global-stable/fw-vendor_lancelot_miui_LANCELOTRUGlobal_V11.0.5.0.QJCRUXM_a835536aa9_10.0.zip
