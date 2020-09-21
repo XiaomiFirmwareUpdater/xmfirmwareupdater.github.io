@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 22 Sep 2020 02:09:59 +0900</pubDate>
+  <pubDate>Tue, 22 Sep 2020 07:16:52 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.4.0.QJOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Tue, 22 Sep 2020 07:16:52 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Lite Zoom (vangogh) - V12.0.6.0.QJVCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
@@ -100,11 +105,6 @@
     <title>POCO X3 NFC (surya) - V12.0.2.0.QJGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
     <pubDate>Fri, 18 Sep 2020 20:23:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M2 (shiva) - V11.0.4.0.QJRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
-    <pubDate>Fri, 18 Sep 2020 20:22:19 +0900</pubDate>
   </item>
     </channel>
 </rss>
