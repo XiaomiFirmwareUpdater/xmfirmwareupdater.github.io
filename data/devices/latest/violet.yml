@@ -19,12 +19,12 @@
     android: '10.0'
     miui: 20.9.17
 - branch: stable
-  date: '2020-09-01'
+  date: '2020-09-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-02.09.2020/fw_violet_miui_VIOLETINGlobal_V11.0.2.0.QFHINXM_73c0bc5751_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.2.0.QFHINXM_73c0bc5751_10.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V11.0.2.0.QFHINXM_73c0bc5751_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/stable-21.09.2020/fw_violet_miui_VIOLETINGlobal_V12.0.1.0.QFHINXM_634e909327_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLETINGlobal_V12.0.1.0.QFHINXM_634e909327_10.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V12.0.1.0.QFHINXM_634e909327_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFHINXM
+    miui: V12.0.1.0.QFHINXM
