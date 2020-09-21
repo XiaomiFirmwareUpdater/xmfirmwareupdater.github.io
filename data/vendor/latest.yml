@@ -1649,16 +1649,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-07-17'
+  date: '2020-09-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_ru_global-stable/fw-vendor_perseus_miui_MIMIX3RUGlobal_V11.0.4.0.QEERUXM_e8f6f0855f_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_ru_global-stable/fw-vendor_perseus_miui_MIMIX3RUGlobal_V11.0.4.0.QEERUXM_e8f6f0855f_10.0.zip/download
-  filename: fw-vendor_perseus_miui_MIMIX3RUGlobal_V11.0.4.0.QEERUXM_e8f6f0855f_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_ru_global-stable/fw-vendor_perseus_miui_MIMIX3RUGlobal_V12.0.2.0.QEERUXM_19f2f8b678_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_ru_global-stable/fw-vendor_perseus_miui_MIMIX3RUGlobal_V12.0.2.0.QEERUXM_19f2f8b678_10.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3RUGlobal_V12.0.2.0.QEERUXM_19f2f8b678_10.0.zip
   region: Russia
-  size: 562.3 MB
+  size: 602.3 MB
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QEERUXM
+    miui: V12.0.2.0.QEERUXM
 - branch: stable
   date: '2020-08-06'
   downloads:
@@ -1770,16 +1770,16 @@
     android: '10.0'
     miui: V11.0.2.0.QCMRUXM
 - branch: stable
-  date: '2020-07-17'
+  date: '2020-09-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V11.0.3.0.QDTMIXM_7353dba0ab_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V11.0.3.0.QDTMIXM_7353dba0ab_10.0.zip/download
-  filename: fw-vendor_platina_miui_MI8LiteGlobal_V11.0.3.0.QDTMIXM_7353dba0ab_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V12.0.3.0.QDTMIXM_ac83b9d20c_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-stable/fw-vendor_platina_miui_MI8LiteGlobal_V12.0.3.0.QDTMIXM_ac83b9d20c_10.0.zip/download
+  filename: fw-vendor_platina_miui_MI8LiteGlobal_V12.0.3.0.QDTMIXM_ac83b9d20c_10.0.zip
   region: Global
-  size: 512.6 MB
+  size: 653.3 MB
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QDTMIXM
+    miui: V12.0.3.0.QDTMIXM
 - branch: stable
   date: '2020-08-10'
   downloads:
@@ -2441,16 +2441,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2020-09-01'
+  date: '2020-09-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V11.0.2.0.QFHINXM_73c0bc5751_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V11.0.2.0.QFHINXM_73c0bc5751_10.0.zip/download
-  filename: fw-vendor_violet_miui_VIOLETINGlobal_V11.0.2.0.QFHINXM_73c0bc5751_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V12.0.1.0.QFHINXM_634e909327_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/violet_in_global-stable/fw-vendor_violet_miui_VIOLETINGlobal_V12.0.1.0.QFHINXM_634e909327_10.0.zip/download
+  filename: fw-vendor_violet_miui_VIOLETINGlobal_V12.0.1.0.QFHINXM_634e909327_10.0.zip
   region: India
-  size: 569.2 MB
+  size: 557.9 MB
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFHINXM
+    miui: V12.0.1.0.QFHINXM
 - branch: stable
   date: '2020-05-15'
   downloads:

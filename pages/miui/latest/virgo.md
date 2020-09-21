@@ -62,8 +62,8 @@ permalink: /miui/virgo/
 <tr><td>Mi Note Global</td><td>Stable</td><td>Recovery</td><td>V9.5.1.0.MXEMIFA</td><td>6.0</td><td>861.3 MB</td><td>2018-09-07</td><td><a href="/miui/virgo/stable/V9.5.1.0.MXEMIFA/">Download</a></td></tr>
 <tr><td>Mi Note LTE CT China</td><td>Stable</td><td>Fastboot</td><td>V7.1.4.0.KXJCNCK</td><td>4.4</td><td>1.0 GB</td><td>2016-01-05</td><td><a href="/miui/virgo/stable/V7.1.4.0.KXJCNCK/">Download</a></td></tr>
 <tr><td>Mi Note LTE CT China</td><td>Weekly</td><td>Fastboot</td><td>5.12.4</td><td>4.4</td><td>1.2 GB</td><td>2015-11-26</td><td><a href="/miui/virgo/weekly/5.12.4/">Download</a></td></tr>
-<tr><td>Mi Note LTE CT China</td><td>Weekly</td><td>Recovery</td><td>5.12.4</td><td>4.4</td><td>578.1 MB</td><td>2015-12-04</td><td><a href="/miui/virgo/weekly/5.12.4/">Download</a></td></tr>
 <tr><td>Mi Note LTE CT China</td><td>Stable</td><td>Recovery</td><td>V6.6.4.0.KXJCNCF</td><td>4.4</td><td>454.6 MB</td><td>2016-08-23</td><td><a href="/miui/virgo/stable/V6.6.4.0.KXJCNCF/">Download</a></td></tr>
+<tr><td>Mi Note LTE CT China</td><td>Weekly</td><td>Recovery</td><td>5.12.17</td><td>4.4</td><td>548.8 MB</td><td>2015-12-24</td><td><a href="/miui/virgo/weekly/5.12.17/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

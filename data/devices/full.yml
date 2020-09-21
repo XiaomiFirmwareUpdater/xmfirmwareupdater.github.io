@@ -139,6 +139,26 @@
     android: '9.0'
     miui: V10.3.16.0.PEMCNXM
 - branch: stable
+  date: '2020-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelica/releases/download/stable-21.09.2020/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.4.0.QCREUXM_5a491c241c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.4.0.QCREUXM_5a491c241c_10.0.zip
+  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.4.0.QCREUXM_5a491c241c_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QCREUXM
+- branch: stable
+  date: '2020-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelica/releases/download/stable-21.09.2020/fw_angelica_miui_ANGELICAGlobal_V12.0.5.0.QCRMIXM_8ae1eb3010_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAGlobal_V12.0.5.0.QCRMIXM_8ae1eb3010_10.0.zip
+  filename: fw_angelica_miui_ANGELICAGlobal_V12.0.5.0.QCRMIXM_8ae1eb3010_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QCRMIXM
+- branch: stable
   date: '2020-09-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelica/releases/download/stable-01.09.2020/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.3.0.QCREUXM_f1b540faf3_10.0.zip
@@ -16889,6 +16909,16 @@
     android: '5.1'
     miui: 8.4.12
 - branch: stable
+  date: '2020-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-21.09.2020/fw_jason_miui_MINote3Global_V12.0.1.0.PCHMIXM_198a40ef06_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/jason/fw_jason_miui_MINote3Global_V12.0.1.0.PCHMIXM_198a40ef06_9.0.zip
+  filename: fw_jason_miui_MINote3Global_V12.0.1.0.PCHMIXM_198a40ef06_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V12.0.1.0.PCHMIXM
+- branch: stable
   date: '2020-08-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/stable-28.08.2020/fw_jason_miui_MINote3_V12.0.1.0.PCHCNXM_b412afcc14_9.0.zip
@@ -18111,16 +18141,6 @@
 - branch: weekly
   date: '2018-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/untagged-32f3b6f87e3e3b3c5153/fw_jason_miui_MINote3_V9.5.10.0.NCHCNFA_88d78905c3_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.10.0.NCHCNFA/jason/fw_jason_miui_MINote3_V9.5.10.0.NCHCNFA_88d78905c3_7.1.zip
-  filename: fw_jason_miui_MINote3_V9.5.10.0.NCHCNFA_88d78905c3_7.1.zip
-  region: China
-  versions:
-    android: '7.1'
-    miui: V9.5.10.0.NCHCNFA
-- branch: weekly
-  date: '2018-05-30'
-  downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/untagged-32f3b6f87e3e3b3c5153/fw_jason_miui_MINote3Global_V9.5.3.0.NCHMIFA_f75ae7e989_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.3.0.NCHMIFA/jason/fw_jason_miui_MINote3Global_V9.5.3.0.NCHMIFA_f75ae7e989_7.1.zip
   filename: fw_jason_miui_MINote3Global_V9.5.3.0.NCHMIFA_f75ae7e989_7.1.zip
@@ -18128,6 +18148,16 @@
   versions:
     android: '7.1'
     miui: V9.5.3.0.NCHMIFA
+- branch: weekly
+  date: '2018-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jason/releases/download/untagged-32f3b6f87e3e3b3c5153/fw_jason_miui_MINote3_V9.5.10.0.NCHCNFA_88d78905c3_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.10.0.NCHCNFA/jason/fw_jason_miui_MINote3_V9.5.10.0.NCHCNFA_88d78905c3_7.1.zip
+  filename: fw_jason_miui_MINote3_V9.5.10.0.NCHCNFA_88d78905c3_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V9.5.10.0.NCHCNFA
 - branch: weekly
   date: '2018-05-02'
   downloads:
@@ -38219,6 +38249,16 @@
     android: '9.0'
     miui: V10.3.7.0.PFKCNXM
 - branch: stable
+  date: '2020-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphaelin/releases/download/stable-21.09.2020/fw_raphaelin_miui_RAPHAELININGlobal_V12.0.3.0.QFKINXM_4e6f0df52d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphaelin/fw_raphaelin_miui_RAPHAELININGlobal_V12.0.3.0.QFKINXM_4e6f0df52d_10.0.zip
+  filename: fw_raphaelin_miui_RAPHAELININGlobal_V12.0.3.0.QFKINXM_4e6f0df52d_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QFKINXM
+- branch: stable
   date: '2020-07-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphaelin/releases/download/stable-20.07.2020/fw_raphaelin_miui_RAPHAELININGlobal_V12.0.2.0.QFKINXM_f009b4b446_10.0.zip
@@ -52318,6 +52358,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-21.09.2020/fw_umi_miui_UMIEEAGlobal_V12.0.3.0.QJBEUXM_57f0eea342_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.0.3.0.QJBEUXM_57f0eea342_10.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.0.3.0.QJBEUXM_57f0eea342_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJBEUXM
 - branch: weekly
   date: '2020-09-17'
   downloads:
@@ -53778,6 +53828,16 @@
   versions:
     android: '8.1'
     miui: 8.8.30
+- branch: stable
+  date: '2020-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-21.09.2020/fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
+  filename: fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QJVCNXM
 - branch: weekly
   date: '2020-09-17'
   downloads:

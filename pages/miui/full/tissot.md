@@ -68,7 +68,6 @@ permalink: /archive/miui/tissot/
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.14.0.PDHMIXM</td><td>9.0</td><td>1.2 GB</td><td>2019-10-18</td><td><a href="/miui/tissot/stable/V10.0.14.0.PDHMIXM/">Download</a></td></tr>
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.13.0.PDHMIXM</td><td>9.0</td><td>1.2 GB</td><td>2019-10-15</td><td><a href="/miui/tissot/stable/V10.0.13.0.PDHMIXM/">Download</a></td></tr>
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.12.0.PDHMIXM</td><td>9.0</td><td>1.2 GB</td><td>2019-08-16</td><td><a href="/miui/tissot/stable/V10.0.12.0.PDHMIXM/">Download</a></td></tr>
-<tr><td>Mi A1 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.12.0.PDHMIXM</td><td>9.0</td><td>70.4 MB</td><td>2019-08-16</td><td><a href="/miui/tissot/stable/V10.0.12.0.PDHMIXM/">Download</a></td></tr>
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.12.0.PDHMIXM</td><td>9.0</td><td>1.7 GB</td><td>2019-08-12</td><td><a href="/miui/tissot/stable/V10.0.12.0.PDHMIXM/">Download</a></td></tr>
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.11.0.PDHMIXM</td><td>9.0</td><td>1.2 GB</td><td>2019-07-17</td><td><a href="/miui/tissot/stable/V10.0.11.0.PDHMIXM/">Download</a></td></tr>
 <tr><td>Mi A1 Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.11.0.PDHMIXM</td><td>9.0</td><td>1.7 GB</td><td>2019-07-11</td><td><a href="/miui/tissot/stable/V10.0.11.0.PDHMIXM/">Download</a></td></tr>

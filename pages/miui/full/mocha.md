@@ -59,10 +59,8 @@ permalink: /archive/miui/mocha/
 <tr><td>MiPad 1 China</td><td>Weekly</td><td>Fastboot</td><td>7.11.16</td><td>4.4</td><td>579.9 MB</td><td>2018-09-07</td><td><a href="/miui/mocha/weekly/7.11.16/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Fastboot</td><td>V9.2.4.0.KXFCNEK</td><td>4.4</td><td>577.8 MB</td><td>2018-09-07</td><td><a href="/miui/mocha/stable/V9.2.4.0.KXFCNEK/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V9.2.4.0.KXFCNEK</td><td>4.4</td><td>418.4 MB</td><td>2018-09-07</td><td><a href="/miui/mocha/stable/V9.2.4.0.KXFCNEK/">Download</a></td></tr>
-<tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V9.2.4.0.KXFCNEK</td><td>4.4</td><td>13.9 MB</td><td>2018-04-05</td><td><a href="/miui/mocha/stable/V9.2.4.0.KXFCNEK/">Download</a></td></tr>
 <tr><td>MiPad 1 Global</td><td>Stable</td><td>Fastboot</td><td>V7.5.2.0.KXFMIDE</td><td>4.4</td><td>645.9 MB</td><td>2018-09-07</td><td><a href="/miui/mocha/stable/V7.5.2.0.KXFMIDE/">Download</a></td></tr>
 <tr><td>MiPad 1 Global</td><td>Stable</td><td>Recovery</td><td>V7.5.2.0.KXFMIDE</td><td>4.4</td><td>609.2 MB</td><td>2018-09-07</td><td><a href="/miui/mocha/stable/V7.5.2.0.KXFMIDE/">Download</a></td></tr>
-<tr><td>MiPad 1 Global</td><td>Stable</td><td>Recovery</td><td>V7.5.2.0.KXFMIDE</td><td>4.4</td><td>59.5 MB</td><td>2018-08-03</td><td><a href="/miui/mocha/stable/V7.5.2.0.KXFMIDE/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V7.5.1.0.KXFCNDE</td><td>4.4</td><td>378.7 MB</td><td>2018-08-03</td><td><a href="/miui/mocha/stable/V7.5.1.0.KXFCNDE/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Fastboot</td><td>V9.2.3.0.KXFCNEK</td><td>4.4</td><td>577.6 MB</td><td>2017-12-29</td><td><a href="/miui/mocha/stable/V9.2.3.0.KXFCNEK/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.KXFCNEK</td><td>4.4</td><td>399.1 MB</td><td>2017-12-28</td><td><a href="/miui/mocha/stable/V9.2.3.0.KXFCNEK/">Download</a></td></tr>
@@ -76,9 +74,9 @@ permalink: /archive/miui/mocha/
 <tr><td>MiPad 1 China</td><td>Weekly</td><td>Recovery</td><td>7.9.7</td><td>4.4</td><td>395.5 MB</td><td>2017-09-07</td><td><a href="/miui/mocha/weekly/7.9.7/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Weekly</td><td>Fastboot</td><td>7.2.16</td><td>4.4</td><td>549.3 MB</td><td>2017-02-16</td><td><a href="/miui/mocha/weekly/7.2.16/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Weekly</td><td>Recovery</td><td>7.2.16</td><td>4.4</td><td>443.6 MB</td><td>2017-02-15</td><td><a href="/miui/mocha/weekly/7.2.16/">Download</a></td></tr>
+<tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V8.2.2.0.KXFCNDL</td><td>4.4</td><td>434.9 MB</td><td>2017-02-14</td><td><a href="/miui/mocha/stable/V8.2.2.0.KXFCNDL/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V8.5.1.0.KXFCNED</td><td>4.4</td><td>463.8 MB</td><td>2017-09-07</td><td><a href="/miui/mocha/stable/V8.5.1.0.KXFCNED/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Fastboot</td><td>V8.5.1.0.KXFCNED</td><td>4.4</td><td>570.2 MB</td><td>2017-09-07</td><td><a href="/miui/mocha/stable/V8.5.1.0.KXFCNED/">Download</a></td></tr>
-<tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V8.2.2.0.KXFCNDL</td><td>4.4</td><td>434.9 MB</td><td>2017-02-14</td><td><a href="/miui/mocha/stable/V8.2.2.0.KXFCNDL/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Weekly</td><td>Fastboot</td><td>7.2.9</td><td>4.4</td><td>545.6 MB</td><td>2017-02-09</td><td><a href="/miui/mocha/weekly/7.2.9/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Weekly</td><td>Recovery</td><td>7.2.9</td><td>4.4</td><td>439.9 MB</td><td>2017-02-08</td><td><a href="/miui/mocha/weekly/7.2.9/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Weekly</td><td>Fastboot</td><td>7.1.20</td><td>4.4</td><td>543.5 MB</td><td>2017-01-20</td><td><a href="/miui/mocha/weekly/7.1.20/">Download</a></td></tr>
@@ -134,7 +132,6 @@ permalink: /archive/miui/mocha/
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Fastboot</td><td>V6.6.2.0.KXFCNCF</td><td>4.4</td><td>426.9 MB</td><td>2015-06-26</td><td><a href="/miui/mocha/stable/V6.6.2.0.KXFCNCF/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V6.6.4.0.KXFCNCF</td><td>4.4</td><td>308.7 MB</td><td>2016-08-23</td><td><a href="/miui/mocha/stable/V6.6.4.0.KXFCNCF/">Download</a></td></tr>
 <tr><td>MiPad 1 Global</td><td>Weekly</td><td>Recovery</td><td>6.5.27</td><td>4.4</td><td>582.9 MB</td><td>2016-05-27</td><td><a href="/miui/mocha/weekly/6.5.27/">Download</a></td></tr>
-<tr><td>MiPad 1 Global</td><td>Weekly</td><td>Recovery</td><td>6.5.27</td><td>4.4</td><td>42.0 MB</td><td>2016-05-27</td><td><a href="/miui/mocha/weekly/6.5.27/">Download</a></td></tr>
 <tr><td>MiPad 1 Global</td><td>Stable</td><td>Recovery</td><td>V7.3.1.0.KXFMIDD</td><td>4.4</td><td>581.5 MB</td><td>2016-04-26</td><td><a href="/miui/mocha/stable/V7.3.1.0.KXFMIDD/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V7.3.1.0.KXFCNDD</td><td>4.4</td><td>341.3 MB</td><td>2016-04-18</td><td><a href="/miui/mocha/stable/V7.3.1.0.KXFCNDD/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Fastboot</td><td>V7.3.1.0.KXFCNDD</td><td>4.4</td><td>480.7 MB</td><td>2016-03-22</td><td><a href="/miui/mocha/stable/V7.3.1.0.KXFCNDD/">Download</a></td></tr>

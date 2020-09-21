@@ -10,6 +10,17 @@
     android: '10.0'
     miui: V11.0.4.0.QEERUXM
 - branch: stable
+  date: '2020-09-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_ru_global-stable/fw-vendor_perseus_miui_MIMIX3RUGlobal_V12.0.2.0.QEERUXM_19f2f8b678_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_ru_global-stable/fw-vendor_perseus_miui_MIMIX3RUGlobal_V12.0.2.0.QEERUXM_19f2f8b678_10.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3RUGlobal_V12.0.2.0.QEERUXM_19f2f8b678_10.0.zip
+  region: Russia
+  size: 602.3 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QEERUXM
+- branch: stable
   date: '2019-04-24'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-stable/fw-vendor_perseus_global_V10.3.1.0.PEEMIXM.zip
