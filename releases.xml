@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 23 Sep 2020 01:36:40 +0900</pubDate>
+  <pubDate>Wed, 23 Sep 2020 07:07:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 6 (cereus) - V11.0.5.0.PCGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Wed, 23 Sep 2020 07:07:17 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.5.0.PFLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 8 (ginkgo) - V11.0.10.0.PCOMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
     <pubDate>Sat, 19 Sep 2020 03:33:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.0.1.0.QJWINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
-    <pubDate>Sat, 19 Sep 2020 03:32:14 +0900</pubDate>
   </item>
     </channel>
 </rss>

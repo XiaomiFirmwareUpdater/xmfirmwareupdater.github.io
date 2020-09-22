@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2019-11-22'
+  date: '2020-09-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda_global-stable/fw-vendor_andromeda_miui_ANDROMEDAGlobal_V10.3.20.0.PEMMIXM_6aa4a1ed13_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda_global-stable/fw-vendor_andromeda_miui_ANDROMEDAGlobal_V10.3.20.0.PEMMIXM_6aa4a1ed13_9.0.zip/download
-  filename: fw-vendor_andromeda_miui_ANDROMEDAGlobal_V10.3.20.0.PEMMIXM_6aa4a1ed13_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/andromeda_global-stable/fw-vendor_andromeda_miui_ANDROMEDAGlobal_V12.0.1.0.PEMMIXM_da5d4dcb7c_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/andromeda_global-stable/fw-vendor_andromeda_miui_ANDROMEDAGlobal_V12.0.1.0.PEMMIXM_da5d4dcb7c_9.0.zip/download
+  filename: fw-vendor_andromeda_miui_ANDROMEDAGlobal_V12.0.1.0.PEMMIXM_da5d4dcb7c_9.0.zip
   region: Global
-  size: 622.8 MB
+  size: 820.3 MB
   versions:
     android: '9.0'
-    miui: V10.3.20.0.PEMMIXM
+    miui: V12.0.1.0.PEMMIXM
 - branch: stable
   date: '2019-11-22'
   downloads:
@@ -219,16 +219,16 @@
     android: '10.0'
     miui: 20.9.3
 - branch: stable
-  date: '2020-05-16'
+  date: '2020-09-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V11.0.8.0.PCBMIXM_2ced58d25e_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V11.0.8.0.PCBMIXM_2ced58d25e_9.0.zip/download
-  filename: fw-vendor_cactus_miui_HM6AGlobal_V11.0.8.0.PCBMIXM_2ced58d25e_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V11.0.9.0.PCBMIXM_ad95ef825f_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cactus_global-stable/fw-vendor_cactus_miui_HM6AGlobal_V11.0.9.0.PCBMIXM_ad95ef825f_9.0.zip/download
+  filename: fw-vendor_cactus_miui_HM6AGlobal_V11.0.9.0.PCBMIXM_ad95ef825f_9.0.zip
   region: Global
-  size: 191.1 MB
+  size: 200.1 MB
   versions:
     android: '9.0'
-    miui: V11.0.8.0.PCBMIXM
+    miui: V11.0.9.0.PCBMIXM
 - branch: stable
   date: '2020-03-23'
   downloads:
@@ -439,16 +439,16 @@
     android: '9.0'
     miui: V11.0.5.0.PCGRUXM
 - branch: stable
-  date: '2020-09-04'
+  date: '2020-09-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cezanne-stable/fw-vendor_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cezanne-stable/fw-vendor_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip/download
-  filename: fw-vendor_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cezanne-stable/fw-vendor_cezanne_miui_CEZANNE_V12.0.12.0.QJNCNXM_1bf8ac7397_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cezanne-stable/fw-vendor_cezanne_miui_CEZANNE_V12.0.12.0.QJNCNXM_1bf8ac7397_10.0.zip/download
+  filename: fw-vendor_cezanne_miui_CEZANNE_V12.0.12.0.QJNCNXM_1bf8ac7397_10.0.zip
   region: China
-  size: 892.7 MB
+  size: 895.8 MB
   versions:
     android: '10.0'
-    miui: V12.0.11.0.QJNCNXM
+    miui: V12.0.12.0.QJNCNXM
 - branch: weekly
   date: '2020-09-03'
   downloads:

@@ -310,6 +310,7 @@ permalink: /archive/miui/cereus/
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>8.6.28</td><td>8.1</td><td>1.8 GB</td><td>2018-06-28</td><td><a href="/miui/cereus/weekly/8.6.28/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Recovery</td><td>8.6.21</td><td>8.1</td><td>1.8 GB</td><td>2018-06-21</td><td><a href="/miui/cereus/weekly/8.6.21/">Download</a></td></tr>
 <tr><td>Redmi 6 China</td><td>Weekly</td><td>Fastboot</td><td>8.6.21</td><td>8.1</td><td>2.2 GB</td><td>2018-06-21</td><td><a href="/miui/cereus/weekly/8.6.21/">Download</a></td></tr>
+<tr><td>Redmi 6 Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.PCGMIXM</td><td>9.0</td><td>1.5 GB</td><td>None</td><td><a href="/miui/cereus/stable beta/V11.0.5.0.PCGMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
