@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 22 Sep 2020 07:16:52 +0900</pubDate>
+  <pubDate>Wed, 23 Sep 2020 01:36:40 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.5.0.PFLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Wed, 23 Sep 2020 01:36:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Ultra (cezanne) - V12.0.12.0.QJNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
+    <pubDate>Wed, 23 Sep 2020 01:35:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 6A (cactus) - V11.0.9.0.PCBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
+    <pubDate>Wed, 23 Sep 2020 01:32:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 5G (andromeda) - V12.0.1.0.PEMMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Wed, 23 Sep 2020 01:30:33 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.4.0.QJOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.0.1.0.QJWINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
     <pubDate>Sat, 19 Sep 2020 03:32:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V12.0.6.0.QJACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Sat, 19 Sep 2020 03:31:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 NFC (surya) - V12.0.2.0.QJGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Fri, 18 Sep 2020 20:25:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 NFC (surya) - V12.0.2.0.QJGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Fri, 18 Sep 2020 20:24:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 NFC (surya) - V12.0.2.0.QJGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Fri, 18 Sep 2020 20:23:09 +0900</pubDate>
   </item>
     </channel>
 </rss>
