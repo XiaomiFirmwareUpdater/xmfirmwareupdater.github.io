@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-09-03'
+  date: '2020-09-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_global-stable/fw-vendor_tucana_miui_TUCANAGlobal_V12.0.2.0.QFDMIXM_039bbe8a99_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_global-stable/fw-vendor_tucana_miui_TUCANAGlobal_V12.0.2.0.QFDMIXM_039bbe8a99_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANAGlobal_V12.0.2.0.QFDMIXM_039bbe8a99_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_id_global-stable/fw-vendor_tucana_miui_TUCANAIDGlobal_V12.0.2.0.QFDIDXM_3f5daf06f7_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_id_global-stable/fw-vendor_tucana_miui_TUCANAIDGlobal_V12.0.2.0.QFDIDXM_3f5daf06f7_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANAIDGlobal_V12.0.2.0.QFDIDXM_3f5daf06f7_10.0.zip
   region: Global
-  size: 981.8 MB
+  size: 979.2 MB
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QFDMIXM
+    miui: V12.0.2.0.QFDIDXM
 - branch: stable
   date: '2020-07-23'
   downloads:

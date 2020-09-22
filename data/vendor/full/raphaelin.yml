@@ -75,3 +75,14 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QFKINXM
+- branch: stable
+  date: '2020-09-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V12.0.3.0.QFKINXM_4e6f0df52d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphaelin_in_global-stable/fw-vendor_raphaelin_miui_RAPHAELININGlobal_V12.0.3.0.QFKINXM_4e6f0df52d_10.0.zip/download
+  filename: fw-vendor_raphaelin_miui_RAPHAELININGlobal_V12.0.3.0.QFKINXM_4e6f0df52d_10.0.zip
+  region: India
+  size: 697.8 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QFKINXM
