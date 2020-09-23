@@ -169,6 +169,7 @@ permalink: /archive/miui/pyxis/
 <tr><td>Mi CC 9 China</td><td>Stable</td><td>Recovery</td><td>V10.3.5.0.PFCCNXM</td><td>9.0</td><td>2.3 GB</td><td>2019-07-03</td><td><a href="/miui/pyxis/stable/V10.3.5.0.PFCCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 China</td><td>Stable</td><td>Fastboot</td><td>V10.3.5.0.PFCCNXM</td><td>9.0</td><td>3.0 GB</td><td>2019-06-21</td><td><a href="/miui/pyxis/stable/V10.3.5.0.PFCCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 China</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PFCCNXM</td><td>9.0</td><td>2.3 GB</td><td>2019-07-03</td><td><a href="/miui/pyxis/stable/V10.3.3.0.PFCCNXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QFCRUXM</td><td>10.0</td><td>2.6 GB</td><td>None</td><td><a href="/miui/pyxis/stable beta/V12.0.3.0.QFCRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
