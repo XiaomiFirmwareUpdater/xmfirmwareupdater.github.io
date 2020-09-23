@@ -153,16 +153,16 @@
     android: '10.0'
     miui: V12.0.3.0.QGGRUXM
 - branch: stable
-  date: '2020-08-21'
+  date: '2020-09-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V12.0.1.0.QGGINXM_b8a9942c99_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V12.0.1.0.QGGINXM_b8a9942c99_10.0.zip/download
-  filename: fw-vendor_begoniain_miui_BEGONIAININGlobal_V12.0.1.0.QGGINXM_b8a9942c99_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V12.0.2.0.QGGINXM_6d7b066360_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/begoniain_in_global-stable/fw-vendor_begoniain_miui_BEGONIAININGlobal_V12.0.2.0.QGGINXM_6d7b066360_10.0.zip/download
+  filename: fw-vendor_begoniain_miui_BEGONIAININGlobal_V12.0.2.0.QGGINXM_6d7b066360_10.0.zip
   region: India
-  size: 478.8 MB
+  size: 483.2 MB
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QGGINXM
+    miui: V12.0.2.0.QGGINXM
 - branch: stable
   date: '2020-07-17'
   downloads:
@@ -1176,16 +1176,16 @@
     android: '10.0'
     miui: V11.0.1.0.QFGEUXM
 - branch: stable
-  date: '2020-07-09'
+  date: '2020-09-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_in_global-stable/fw-vendor_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_in_global-stable/fw-vendor_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip/download
-  filename: fw-vendor_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender_in_global-stable/fw-vendor_lavender_miui_LAVENDERINGlobal_V11.0.4.0.QFGINXM_550be4f366_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender_in_global-stable/fw-vendor_lavender_miui_LAVENDERINGlobal_V11.0.4.0.QFGINXM_550be4f366_10.0.zip/download
+  filename: fw-vendor_lavender_miui_LAVENDERINGlobal_V11.0.4.0.QFGINXM_550be4f366_10.0.zip
   region: India
   size: 506.7 MB
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFGINXM
+    miui: V11.0.4.0.QFGINXM
 - branch: stable
   date: '2020-08-20'
   downloads:
@@ -1924,16 +1924,16 @@
     android: '10.0'
     miui: V12.0.3.0.QFCEUXM
 - branch: stable
-  date: '2020-07-01'
+  date: '2020-09-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_ru_global-stable/fw-vendor_pyxis_miui_PYXISRUGlobal_V11.0.3.0.QFCRUXM_c18fb43082_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_ru_global-stable/fw-vendor_pyxis_miui_PYXISRUGlobal_V11.0.3.0.QFCRUXM_c18fb43082_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISRUGlobal_V11.0.3.0.QFCRUXM_c18fb43082_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_ru_global-stable/fw-vendor_pyxis_miui_PYXISRUGlobal_V12.0.3.0.QFCRUXM_3d07421783_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_ru_global-stable/fw-vendor_pyxis_miui_PYXISRUGlobal_V12.0.3.0.QFCRUXM_3d07421783_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISRUGlobal_V12.0.3.0.QFCRUXM_3d07421783_10.0.zip
   region: Russia
-  size: 775.4 MB
+  size: 836.7 MB
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QFCRUXM
+    miui: V12.0.3.0.QFCRUXM
 - branch: stable
   date: '2020-08-18'
   downloads:
@@ -2254,16 +2254,16 @@
     android: '10.0'
     miui: V12.0.2.0.QFDRUXM
 - branch: stable
-  date: '2020-08-24'
+  date: '2020-09-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tulip_global-stable/fw-vendor_tulip_miui_HMNote6ProGlobal_V11.0.5.0.PEKMIXM_49b9874b65_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tulip_global-stable/fw-vendor_tulip_miui_HMNote6ProGlobal_V11.0.5.0.PEKMIXM_49b9874b65_9.0.zip/download
-  filename: fw-vendor_tulip_miui_HMNote6ProGlobal_V11.0.5.0.PEKMIXM_49b9874b65_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tulip_global-stable/fw-vendor_tulip_miui_HMNote6ProGlobal_V11.0.6.0.PEKMIXM_d3abd03ac2_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tulip_global-stable/fw-vendor_tulip_miui_HMNote6ProGlobal_V11.0.6.0.PEKMIXM_d3abd03ac2_9.0.zip/download
+  filename: fw-vendor_tulip_miui_HMNote6ProGlobal_V11.0.6.0.PEKMIXM_d3abd03ac2_9.0.zip
   region: Global
-  size: 460.9 MB
+  size: 458.2 MB
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PEKMIXM
+    miui: V11.0.6.0.PEKMIXM
 - branch: weekly
   date: '2020-07-17'
   downloads:
@@ -2474,16 +2474,16 @@
     android: '9.0'
     miui: 9.9.3
 - branch: stable
-  date: '2019-11-15'
+  date: '2020-09-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-stable/fw-vendor_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-stable/fw-vendor_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip/download
-  filename: fw-vendor_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-stable/fw-vendor_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-stable/fw-vendor_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip/download
+  filename: fw-vendor_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
   region: Global
-  size: 416.0 MB
+  size: 430.9 MB
   versions:
     android: '9.0'
-    miui: V11.0.3.0.PEIMIXM
+    miui: V11.0.5.0.PEIMIXM
 - branch: stable
   date: '2019-11-05'
   downloads:
