@@ -39,12 +39,12 @@
     android: '10.0'
     miui: V11.0.1.0.QFGEUXM
 - branch: stable
-  date: '2020-07-09'
+  date: '2020-09-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-09.07.2020/fw_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
-  filename: fw_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-23.09.2020/fw_lavender_miui_LAVENDERINGlobal_V11.0.4.0.QFGINXM_550be4f366_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDERINGlobal_V11.0.4.0.QFGINXM_550be4f366_10.0.zip
+  filename: fw_lavender_miui_LAVENDERINGlobal_V11.0.4.0.QFGINXM_550be4f366_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QFGINXM
+    miui: V11.0.4.0.QFGINXM

@@ -20868,6 +20868,16 @@
   versions:
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
+- branch: stable
+  date: '2020-09-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-23.09.2020/fw_lavender_miui_LAVENDERINGlobal_V11.0.4.0.QFGINXM_550be4f366_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDERINGlobal_V11.0.4.0.QFGINXM_550be4f366_10.0.zip
+  filename: fw_lavender_miui_LAVENDERINGlobal_V11.0.4.0.QFGINXM_550be4f366_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QFGINXM
 - branch: weekly
   date: '2020-09-17'
   downloads:
@@ -49609,6 +49619,16 @@
     android: '9.0'
     miui: V11.0.3.0.PFDCNXM
 - branch: stable
+  date: '2020-09-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-23.09.2020/fw_tulip_miui_HMNote6ProGlobal_V11.0.6.0.PEKMIXM_d3abd03ac2_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tulip/fw_tulip_miui_HMNote6ProGlobal_V11.0.6.0.PEKMIXM_d3abd03ac2_9.0.zip
+  filename: fw_tulip_miui_HMNote6ProGlobal_V11.0.6.0.PEKMIXM_d3abd03ac2_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PEKMIXM
+- branch: stable
   date: '2020-08-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-24.08.2020/fw_tulip_miui_HMNote6ProGlobal_V11.0.5.0.PEKMIXM_49b9874b65_9.0.zip
@@ -57218,6 +57238,16 @@
   versions:
     android: '8.1'
     miui: V9.5.7.0.ODCCNFA
+- branch: stable
+  date: '2020-09-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-23.09.2020/fw_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/whyred/fw_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
+  filename: fw_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PEIMIXM
 - branch: stable
   date: '2020-09-16'
   downloads:
