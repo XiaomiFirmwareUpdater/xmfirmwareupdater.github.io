@@ -52,7 +52,8 @@ permalink: /archive/miui/lmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.9.17</td><td>11.0</td><td>3.5 GB</td><td>2020-09-17</td><td><a href="/miui/lmi/weekly/20.9.17/">Download</a></td></tr>
+                <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.9.24</td><td>11.0</td><td>3.5 GB</td><td>2020-09-24</td><td><a href="/miui/lmi/weekly/20.9.24/">Download</a></td></tr>
+<tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.9.17</td><td>11.0</td><td>3.5 GB</td><td>2020-09-17</td><td><a href="/miui/lmi/weekly/20.9.17/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.9.0.QJKCNXM</td><td>10.0</td><td>3.4 GB</td><td>2020-09-11</td><td><a href="/miui/lmi/stable beta/V12.0.9.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>11.0</td><td>3.5 GB</td><td>2020-09-04</td><td><a href="/miui/lmi/weekly/20.9.3/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>11.0</td><td>3.5 GB</td><td>2020-08-20</td><td><a href="/miui/lmi/weekly/20.8.20/">Download</a></td></tr>

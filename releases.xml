@@ -1,110 +1,110 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 24 Sep 2020 20:20:52 +0900</pubDate>
+  <pubDate>Fri, 25 Sep 2020 04:12:09 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Mi 10 Pro (cmi) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 25 Sep 2020 04:12:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Ultra (cas) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
+    <pubDate>Fri, 25 Sep 2020 04:11:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Fri, 25 Sep 2020 04:11:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9e (laurus) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
+    <pubDate>Fri, 25 Sep 2020 04:10:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Fri, 25 Sep 2020 04:10:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Fri, 25 Sep 2020 04:09:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Fri, 25 Sep 2020 04:09:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Lite Zoom (vangogh) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
+    <pubDate>Fri, 25 Sep 2020 04:09:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 25 Sep 2020 04:08:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Fri, 25 Sep 2020 04:08:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 25 Sep 2020 04:07:56 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Fri, 25 Sep 2020 04:07:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9 Meitu Edition (vela) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
+    <pubDate>Fri, 25 Sep 2020 04:07:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Fri, 25 Sep 2020 04:06:41 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 25 Sep 2020 04:06:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Ultra (cezanne) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
+    <pubDate>Fri, 25 Sep 2020 04:05:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Fri, 25 Sep 2020 04:05:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Fri, 25 Sep 2020 04:05:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 20.9.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 25 Sep 2020 04:04:57 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi 9C NFC (angelican) - V12.0.2.0.QCSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
     <pubDate>Thu, 24 Sep 2020 20:20:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 SE (sirius) - V12.0.2.0.QEBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sirius</link>
-    <pubDate>Thu, 24 Sep 2020 20:15:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V11.0.2.0.QCNEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Thu, 24 Sep 2020 20:14:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.4.0.QJOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Thu, 24 Sep 2020 20:12:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begoniain) - V12.0.2.0.QGGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
-    <pubDate>Wed, 23 Sep 2020 20:02:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 5/Note 5 Pro (whyred) - V11.0.5.0.PEIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/whyred</link>
-    <pubDate>Wed, 23 Sep 2020 19:47:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 6 Pro (tulip) - V11.0.6.0.PEKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tulip</link>
-    <pubDate>Wed, 23 Sep 2020 19:46:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - V11.0.4.0.QFGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Wed, 23 Sep 2020 19:44:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 (cereus) - V11.0.5.0.PCGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
-    <pubDate>Wed, 23 Sep 2020 07:07:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.5.0.PFLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Wed, 23 Sep 2020 01:36:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - V12.0.12.0.QJNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Wed, 23 Sep 2020 01:35:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6A (cactus) - V11.0.9.0.PCBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cactus</link>
-    <pubDate>Wed, 23 Sep 2020 01:32:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 5G (andromeda) - V12.0.1.0.PEMMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
-    <pubDate>Wed, 23 Sep 2020 01:30:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.4.0.QJOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Tue, 22 Sep 2020 07:16:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - V12.0.6.0.QJVCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Tue, 22 Sep 2020 02:09:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V12.0.3.0.QJBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Tue, 22 Sep 2020 02:08:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro (raphaelin) - V12.0.3.0.QFKINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
-    <pubDate>Tue, 22 Sep 2020 02:06:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 3 (jason) - V12.0.1.0.PCHMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jason</link>
-    <pubDate>Tue, 22 Sep 2020 02:05:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.5.0.QCRMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Tue, 22 Sep 2020 02:03:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.4.0.QCREUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Tue, 22 Sep 2020 02:01:21 +0900</pubDate>
   </item>
     </channel>
 </rss>

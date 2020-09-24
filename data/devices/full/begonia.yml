@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-24.09.2020/fw_begonia_miui_BEGONIA_20.9.24_939a40bb01_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/begonia/fw_begonia_miui_BEGONIA_20.9.24_939a40bb01_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_20.9.24_939a40bb01_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.9.24
+- branch: weekly
   date: '2020-09-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-17.09.2020/fw_begonia_miui_BEGONIA_20.9.17_c8cda40c33_10.0.zip
