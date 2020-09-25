@@ -1464,6 +1464,12 @@
   version: 20.6.11
 - android: '10.0'
   codename: lavender
+  date: '2020-09-25'
+  download: https://bigota.d.miui.com/20.9.24/miui_LAVENDER_20.9.24_594eaecdd3_10.0.zip
+  name: Redmi Note 7/7S
+  version: 20.9.24
+- android: '10.0'
+  codename: lavender
   date: '2020-09-17'
   download: https://bigota.d.miui.com/20.9.17/miui_LAVENDER_20.9.17_c0567a17a1_10.0.zip
   name: Redmi Note 7/7S
