@@ -285,6 +285,7 @@ permalink: /archive/miui/equuleus/
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>8.10.10</td><td>8.1</td><td>2.1 GB</td><td>2018-10-10</td><td><a href="/miui/equuleus/weekly/8.10.10/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Recovery</td><td>V9.6.6.0.OECCNFD</td><td>8.1</td><td>2.0 GB</td><td>2018-10-04</td><td><a href="/miui/equuleus/stable/V9.6.6.0.OECCNFD/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Fastboot</td><td>V9.6.6.0.OECCNFD</td><td>8.1</td><td>3.0 GB</td><td>2018-10-04</td><td><a href="/miui/equuleus/stable/V9.6.6.0.OECCNFD/">Download</a></td></tr>
+<tr><td>Mi 8 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.11.0.QECMIXM</td><td>10.0</td><td>2.1 GB</td><td>None</td><td><a href="/miui/equuleus/stable beta/V11.0.11.0.QECMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -52,7 +52,8 @@ permalink: /archive/miui/lancelot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.QJCEUXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-19</td><td><a href="/miui/lancelot/stable/V11.0.8.0.QJCEUXM/">Download</a></td></tr>
+                <tr><td>Redmi 9 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.7.0.QJCRUXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-25</td><td><a href="/miui/lancelot/stable beta/V11.0.7.0.QJCRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.QJCEUXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-19</td><td><a href="/miui/lancelot/stable/V11.0.8.0.QJCEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.QJCEUXM</td><td>10.0</td><td>3.5 GB</td><td>2020-09-16</td><td><a href="/miui/lancelot/stable/V11.0.8.0.QJCEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Indonesia</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.QJCIDXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-18</td><td><a href="/miui/lancelot/stable/V11.0.6.0.QJCIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.QJCIDXM</td><td>10.0</td><td>5.0 kB</td><td>2020-09-10</td><td><a href="/miui/lancelot/stable/V11.0.6.0.QJCIDXM/">Download</a></td></tr>
