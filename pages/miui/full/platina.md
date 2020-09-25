@@ -52,7 +52,7 @@ permalink: /archive/miui/platina/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QDTMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-09-21</td><td><a href="/miui/platina/stable beta/V12.0.3.0.QDTMIXM/">Download</a></td></tr>
+                <tr><td>Mi 8 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QDTMIXM</td><td>10.0</td><td>2.0 GB</td><td>2020-09-21</td><td><a href="/miui/platina/stable beta/V12.0.3.0.QDTMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QDTRUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-09-12</td><td><a href="/miui/platina/stable/V12.0.1.0.QDTRUXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QDTRUXM</td><td>10.0</td><td>2.6 GB</td><td>2020-09-04</td><td><a href="/miui/platina/stable/V12.0.1.0.QDTRUXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Weekly</td><td>Recovery</td><td>20.9.4</td><td>10.0</td><td>2.3 GB</td><td>2020-09-04</td><td><a href="/miui/platina/weekly/20.9.4/">Download</a></td></tr>

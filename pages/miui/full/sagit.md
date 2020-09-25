@@ -64,7 +64,7 @@ permalink: /archive/miui/sagit/
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Recovery</td><td>20.4.27</td><td>9.0</td><td>2.0 GB</td><td>2020-04-27</td><td><a href="/miui/sagit/weekly/20.4.27/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PCAMIXM</td><td>9.0</td><td>1.8 GB</td><td>2020-03-23</td><td><a href="/miui/sagit/stable/V11.0.6.0.PCAMIXM/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PCAMIXM</td><td>9.0</td><td>2.2 GB</td><td>2020-03-08</td><td><a href="/miui/sagit/stable/V11.0.6.0.PCAMIXM/">Download</a></td></tr>
-<tr><td>Mi 6 China</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCACNXM</td><td>9.0</td><td>1.9 GB</td><td>2020-03-10</td><td><a href="/miui/sagit/stable/V11.0.5.0.PCACNXM/">Download</a></td></tr>
+<tr><td>Mi 6 China</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCACNXM</td><td>9.0</td><td>1.8 GB</td><td>2020-03-10</td><td><a href="/miui/sagit/stable/V11.0.5.0.PCACNXM/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PCACNXM</td><td>9.0</td><td>2.5 GB</td><td>2020-03-05</td><td><a href="/miui/sagit/stable/V11.0.5.0.PCACNXM/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Recovery</td><td>20.3.26</td><td>9.0</td><td>2.0 GB</td><td>2020-03-26</td><td><a href="/miui/sagit/weekly/20.3.26/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Recovery</td><td>20.3.19</td><td>9.0</td><td>2.0 GB</td><td>2020-03-19</td><td><a href="/miui/sagit/weekly/20.3.19/">Download</a></td></tr>
