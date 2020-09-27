@@ -62,6 +62,7 @@ permalink: /miui/lmi/
 <tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QJKMIXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-17</td><td><a href="/miui/lmi/stable/V12.0.3.0.QJKMIXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJKIDXM</td><td>10.0</td><td>4.7 GB</td><td>2020-07-30</td><td><a href="/miui/lmi/stable/V12.0.2.0.QJKIDXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJKIDXM</td><td>10.0</td><td>3.0 GB</td><td>2020-08-06</td><td><a href="/miui/lmi/stable/V12.0.2.0.QJKIDXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QJKIDXM</td><td>10.0</td><td>3.0 GB</td><td>2020-09-27</td><td><a href="/miui/lmi/stable beta/V12.0.4.0.QJKIDXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QJKRUXM</td><td>10.0</td><td>4.6 GB</td><td>2020-08-08</td><td><a href="/miui/lmi/stable/V12.0.3.0.QJKRUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QJKRUXM</td><td>10.0</td><td>3.0 GB</td><td>2020-08-17</td><td><a href="/miui/lmi/stable/V12.0.3.0.QJKRUXM/">Download</a></td></tr>
 
