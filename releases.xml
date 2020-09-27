@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 26 Sep 2020 01:17:46 +0900</pubDate>
+  <pubDate>Sun, 27 Sep 2020 13:08:32 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.4.0.QJCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Sun, 27 Sep 2020 13:08:32 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8 (olive) - V11.0.3.0.QCNMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 Ultra (cezanne) - 20.9.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
     <pubDate>Fri, 25 Sep 2020 04:05:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - 20.9.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 25 Sep 2020 04:05:35 +0900</pubDate>
   </item>
     </channel>
 </rss>
