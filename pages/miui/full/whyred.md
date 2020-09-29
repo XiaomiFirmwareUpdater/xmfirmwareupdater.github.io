@@ -52,7 +52,8 @@ permalink: /archive/miui/whyred/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.PEIMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-09-23</td><td><a href="/miui/whyred/stable beta/V11.0.5.0.PEIMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PEIMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-09-23</td><td><a href="/miui/whyred/stable/V11.0.5.0.PEIMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PEIMIXM</td><td>9.0</td><td>2.4 GB</td><td>2020-09-17</td><td><a href="/miui/whyred/stable/V11.0.5.0.PEIMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.0 GB</td><td>2020-06-18</td><td><a href="/miui/whyred/weekly/20.6.18/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>20.6.17</td><td>9.0</td><td>2.0 GB</td><td>2020-06-17</td><td><a href="/miui/whyred/weekly/20.6.17/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>20.5.7</td><td>9.0</td><td>2.0 GB</td><td>2020-05-07</td><td><a href="/miui/whyred/weekly/20.5.7/">Download</a></td></tr>
@@ -63,10 +64,10 @@ permalink: /archive/miui/whyred/
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.10.24</td><td>9.0</td><td>2.0 GB</td><td>2019-10-24</td><td><a href="/miui/whyred/weekly/9.10.24/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.10.17</td><td>9.0</td><td>2.0 GB</td><td>2019-10-17</td><td><a href="/miui/whyred/weekly/9.10.17/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.10.16</td><td>9.0</td><td>2.0 GB</td><td>2019-10-16</td><td><a href="/miui/whyred/weekly/9.10.16/">Download</a></td></tr>
-<tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.10.10</td><td>9.0</td><td>2.0 GB</td><td>2019-10-10</td><td><a href="/miui/whyred/weekly/9.10.10/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>20.6.11</td><td>9.0</td><td>2.0 GB</td><td>2020-06-11</td><td><a href="/miui/whyred/weekly/20.6.11/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>20.6.4</td><td>9.0</td><td>2.0 GB</td><td>2020-06-04</td><td><a href="/miui/whyred/weekly/20.6.4/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>20.5.28</td><td>9.0</td><td>2.0 GB</td><td>2020-05-28</td><td><a href="/miui/whyred/weekly/20.5.28/">Download</a></td></tr>
+<tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.10.10</td><td>9.0</td><td>2.0 GB</td><td>2019-10-10</td><td><a href="/miui/whyred/weekly/9.10.10/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.9.26</td><td>9.0</td><td>2.0 GB</td><td>2019-09-26</td><td><a href="/miui/whyred/weekly/9.9.26/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.9.3</td><td>9.0</td><td>2.0 GB</td><td>2019-09-05</td><td><a href="/miui/whyred/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.5 GB</td><td>2019-09-04</td><td><a href="/miui/whyred/weekly/9.9.3/">Download</a></td></tr>
@@ -103,14 +104,14 @@ permalink: /archive/miui/whyred/
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.7.18</td><td>9.0</td><td>2.0 GB</td><td>2019-07-18</td><td><a href="/miui/whyred/weekly/9.7.18/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Fastboot</td><td>9.7.11</td><td>9.0</td><td>2.4 GB</td><td>2019-07-11</td><td><a href="/miui/whyred/weekly/9.7.11/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.7.11</td><td>9.0</td><td>2.0 GB</td><td>2019-07-11</td><td><a href="/miui/whyred/weekly/9.7.11/">Download</a></td></tr>
-<tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Fastboot</td><td>9.7.4</td><td>9.0</td><td>2.4 GB</td><td>2019-07-04</td><td><a href="/miui/whyred/weekly/9.7.4/">Download</a></td></tr>
-<tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.7.4</td><td>9.0</td><td>2.0 GB</td><td>2019-07-04</td><td><a href="/miui/whyred/weekly/9.7.4/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>20.1.2</td><td>9.0</td><td>2.0 GB</td><td>2020-01-02</td><td><a href="/miui/whyred/weekly/20.1.2/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.12.26</td><td>9.0</td><td>2.0 GB</td><td>2019-12-26</td><td><a href="/miui/whyred/weekly/9.12.26/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.12.19</td><td>9.0</td><td>1.9 GB</td><td>2019-12-19</td><td><a href="/miui/whyred/weekly/9.12.19/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.12.5</td><td>9.0</td><td>1.9 GB</td><td>2019-12-05</td><td><a href="/miui/whyred/weekly/9.12.5/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.11.28</td><td>9.0</td><td>1.9 GB</td><td>2019-11-28</td><td><a href="/miui/whyred/weekly/9.11.28/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.11.21</td><td>9.0</td><td>1.9 GB</td><td>2019-11-21</td><td><a href="/miui/whyred/weekly/9.11.21/">Download</a></td></tr>
+<tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Fastboot</td><td>9.7.4</td><td>9.0</td><td>2.4 GB</td><td>2019-07-04</td><td><a href="/miui/whyred/weekly/9.7.4/">Download</a></td></tr>
+<tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>9.7.4</td><td>9.0</td><td>2.0 GB</td><td>2019-07-04</td><td><a href="/miui/whyred/weekly/9.7.4/">Download</a></td></tr>
 <tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>1.9 GB</td><td>2019-06-28</td><td><a href="/miui/whyred/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.5 GB</td><td>2019-06-28</td><td><a href="/miui/whyred/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.4 GB</td><td>2019-06-27</td><td><a href="/miui/whyred/weekly/9.6.27/">Download</a></td></tr>

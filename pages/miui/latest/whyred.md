@@ -56,11 +56,10 @@ permalink: /miui/whyred/
 <tr><td>Redmi Note 5 China</td><td>Stable</td><td>Recovery</td><td>V10.3.5.0.PEICNXM</td><td>9.0</td><td>1.8 GB</td><td>2019-08-22</td><td><a href="/miui/whyred/stable/V10.3.5.0.PEICNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.5 GB</td><td>2019-09-04</td><td><a href="/miui/whyred/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.0 GB</td><td>2020-06-18</td><td><a href="/miui/whyred/weekly/20.6.18/">Download</a></td></tr>
-<tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PEIMIXM</td><td>9.0</td><td>2.4 GB</td><td>2019-11-08</td><td><a href="/miui/whyred/stable/V11.0.3.0.PEIMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PEIMIXM</td><td>9.0</td><td>2.4 GB</td><td>2020-09-17</td><td><a href="/miui/whyred/stable/V11.0.5.0.PEIMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PEIMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-09-23</td><td><a href="/miui/whyred/stable/V11.0.5.0.PEIMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.5 GB</td><td>2019-06-28</td><td><a href="/miui/whyred/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>1.9 GB</td><td>2019-06-28</td><td><a href="/miui/whyred/weekly/9.6.27/">Download</a></td></tr>
-<tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PEIMIXM</td><td>9.0</td><td>1.8 GB</td><td>2019-10-30</td><td><a href="/miui/whyred/stable/V11.0.2.0.PEIMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.PEIMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-09-23</td><td><a href="/miui/whyred/stable beta/V11.0.5.0.PEIMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 5 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PEIRUXM</td><td>9.0</td><td>2.4 GB</td><td>2019-10-23</td><td><a href="/miui/whyred/stable/V11.0.1.0.PEIRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 5 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PEIRUXM</td><td>9.0</td><td>1.8 GB</td><td>2019-10-30</td><td><a href="/miui/whyred/stable/V11.0.1.0.PEIRUXM/">Download</a></td></tr>
 

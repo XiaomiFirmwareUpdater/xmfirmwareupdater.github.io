@@ -12979,6 +12979,16 @@
     android: '8.1'
     miui: 8.10.18
 - branch: stable
+  date: '2020-09-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-29.09.2020/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.1.0.QJXINXM_40cbf00495_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.1.0.QJXINXM_40cbf00495_10.0.zip
+  filename: fw_excalibur_miui_EXCALIBURINGlobal_V12.0.1.0.QJXINXM_40cbf00495_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJXINXM
+- branch: stable
   date: '2020-07-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-16.07.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.4.0.QJXINXM_26aadb1521_10.0.zip
@@ -14248,6 +14258,16 @@
   versions:
     android: '9.0'
     miui: V10.3.2.0.PCOCNXM
+- branch: stable
+  date: '2020-09-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gram/releases/download/stable-29.09.2020/fw_gram_miui_GRAMINGlobal_V12.0.1.0.QJPINXM_be860b8c30_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gram/fw_gram_miui_GRAMINGlobal_V12.0.1.0.QJPINXM_be860b8c30_10.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V12.0.1.0.QJPINXM_be860b8c30_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJPINXM
 - branch: stable
   date: '2020-07-16'
   downloads:
@@ -23608,6 +23628,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2020-09-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-29.09.2020/fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QJKMIXM
 - branch: weekly
   date: '2020-09-24'
   downloads:
@@ -29418,6 +29448,16 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PCQINXM
+- branch: stable
+  date: '2020-09-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-29.09.2020/fw_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip
+  filename: fw_onc_miui_ONCLITE_V11.0.2.0.QFLCNXM_0f7eda3bc4_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QFLCNXM
 - branch: stable
   date: '2020-09-22'
   downloads:
