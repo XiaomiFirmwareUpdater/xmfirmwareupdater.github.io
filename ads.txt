@@ -422,4 +422,21 @@ interdogmedia.com, 8603, DIRECT
 apacdex.com, 8603, DIRECT
 h12ukltd.com, 8603, DIRECT
 appnexus.com, 11711, DIRECT, f5ab79cb980f11d1
+brighmountainmedia.com, 571, DIRECT
+appnexus.com, 9914, DIRECT, f5ab79cb980f11d1
+pubmatic.com, 159527, RESELLER, 5d62403b186f2ace
+supply.colossusssp.com, 238, RESELLER, 6c5b49d96ec1b458
+appnexus.com,10490,RESELLER, f5ab79cb980f11d1
+contextweb.com,562060,RESELLER, 89ff185a4c4e857c
+rhythmone.com,2147483647,RESELLER, a670c89d4a324e47
+video.unrulymedia.com,2147483647,RESELLER, a670c89d4a324e47
+onetag.com, 5d6a997724888d0, DIRECT
+improvedigital.com, 1420, RESELLER
+meitu.com, 339, RESELLER
+pubmatic.com, 157654, RESELLER, 5d62403b186f2ace
+adcolony.com, f858ba060bce51ad, RESELLER, 1ad675c9de6b5176
+openx.com, 540899687, RESELLER, 6a698e2ec38604c6
+cmcm.com, 127, RESELLER
+appnexus.com, 9538, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 159803, RESELLER, 5d62403b186f2ace
 #VLI END
