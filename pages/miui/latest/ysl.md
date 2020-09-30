@@ -60,6 +60,7 @@ permalink: /miui/ysl/
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PEFMIXM</td><td>9.0</td><td>2.0 GB</td><td>2020-03-06</td><td><a href="/miui/ysl/stable/V11.0.5.0.PEFMIXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PEFMIXM</td><td>9.0</td><td>1.6 GB</td><td>2020-03-16</td><td><a href="/miui/ysl/stable/V11.0.5.0.PEFMIXM/">Download</a></td></tr>
 <tr><td>Redmi S2/Y2 Global</td><td>Weekly</td><td>Fastboot</td><td>9.2.21</td><td>8.1</td><td>1.9 GB</td><td>2019-02-22</td><td><a href="/miui/ysl/weekly/9.2.21/">Download</a></td></tr>
+<tr><td>Redmi S2/Y2 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.PEFMIXM</td><td>9.0</td><td>1.7 GB</td><td>2020-09-29</td><td><a href="/miui/ysl/stable beta/V12.0.2.0.PEFMIXM/">Download</a></td></tr>
 <tr><td>Redmi S2 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PEFRUXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-22</td><td><a href="/miui/ysl/stable/V11.0.1.0.PEFRUXM/">Download</a></td></tr>
 <tr><td>Redmi S2 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PEFRUXM</td><td>9.0</td><td>1.6 GB</td><td>2019-11-07</td><td><a href="/miui/ysl/stable/V11.0.1.0.PEFRUXM/">Download</a></td></tr>
 
