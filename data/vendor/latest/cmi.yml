@@ -1,25 +1,25 @@
 - branch: stable
-  date: '2020-07-23'
+  date: '2020-10-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi_global-stable/fw-vendor_cmi_miui_CMIGlobal_V12.0.1.0.QJAMIXM_867725d306_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi_global-stable/fw-vendor_cmi_miui_CMIGlobal_V12.0.1.0.QJAMIXM_867725d306_10.0.zip/download
-  filename: fw-vendor_cmi_miui_CMIGlobal_V12.0.1.0.QJAMIXM_867725d306_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi_global-stable/fw-vendor_cmi_miui_CMIGlobal_V12.1.2.0.RJAMIXM_ef34b27a92_11.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi_global-stable/fw-vendor_cmi_miui_CMIGlobal_V12.1.2.0.RJAMIXM_ef34b27a92_11.0.zip/download
+  filename: fw-vendor_cmi_miui_CMIGlobal_V12.1.2.0.RJAMIXM_ef34b27a92_11.0.zip
   region: Global
   size: 1.5 GB
   versions:
-    android: '10.0'
-    miui: V12.0.1.0.QJAMIXM
+    android: '11.0'
+    miui: V12.1.2.0.RJAMIXM
 - branch: stable
-  date: '2020-09-18'
+  date: '2020-10-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi-stable/fw-vendor_cmi_miui_CMI_V12.0.6.0.QJACNXM_d09e1ad387_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi-stable/fw-vendor_cmi_miui_CMI_V12.0.6.0.QJACNXM_d09e1ad387_10.0.zip/download
-  filename: fw-vendor_cmi_miui_CMI_V12.0.6.0.QJACNXM_d09e1ad387_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cmi-stable/fw-vendor_cmi_miui_CMI_V12.1.3.0.RJACNXM_c1ef0028e8_11.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cmi-stable/fw-vendor_cmi_miui_CMI_V12.1.3.0.RJACNXM_c1ef0028e8_11.0.zip/download
+  filename: fw-vendor_cmi_miui_CMI_V12.1.3.0.RJACNXM_c1ef0028e8_11.0.zip
   region: China
   size: 1.3 GB
   versions:
-    android: '10.0'
-    miui: V12.0.6.0.QJACNXM
+    android: '11.0'
+    miui: V12.1.3.0.RJACNXM
 - branch: weekly
   date: '2020-09-05'
   downloads:

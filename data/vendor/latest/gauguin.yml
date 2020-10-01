@@ -1,0 +1,11 @@
+- branch: stable
+  date: '2020-10-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/gauguin_eea_global-stable/fw-vendor_gauguin_miui_GAUGUINEEAGlobal_V12.0.1.0.QJSEUXM_218d1735fb_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/gauguin_eea_global-stable/fw-vendor_gauguin_miui_GAUGUINEEAGlobal_V12.0.1.0.QJSEUXM_218d1735fb_10.0.zip/download
+  filename: fw-vendor_gauguin_miui_GAUGUINEEAGlobal_V12.0.1.0.QJSEUXM_218d1735fb_10.0.zip
+  region: Europe
+  size: 1.3 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJSEUXM
