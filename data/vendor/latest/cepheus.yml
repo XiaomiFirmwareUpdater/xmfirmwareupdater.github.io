@@ -10,16 +10,16 @@
     android: '10.0'
     miui: V12.0.2.0.QFAMIXM
 - branch: stable
-  date: '2020-07-23'
+  date: '2020-10-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.3.0.QFACNXM_20f96e9c93_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.3.0.QFACNXM_20f96e9c93_10.0.zip/download
-  filename: fw-vendor_cepheus_miui_CEPHEUS_V12.0.3.0.QFACNXM_20f96e9c93_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.4.0.QFACNXM_7a7f45fb4a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/cepheus-stable/fw-vendor_cepheus_miui_CEPHEUS_V12.0.4.0.QFACNXM_7a7f45fb4a_10.0.zip/download
+  filename: fw-vendor_cepheus_miui_CEPHEUS_V12.0.4.0.QFACNXM_7a7f45fb4a_10.0.zip
   region: China
-  size: 738.0 MB
+  size: 729.2 MB
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QFACNXM
+    miui: V12.0.4.0.QFACNXM
 - branch: weekly
   date: '2020-07-17'
   downloads:

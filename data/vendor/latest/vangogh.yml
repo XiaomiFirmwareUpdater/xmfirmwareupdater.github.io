@@ -10,13 +10,13 @@
     android: '10.0'
     miui: V12.0.6.0.QJVCNXM
 - branch: weekly
-  date: '2020-09-18'
+  date: '2020-10-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-weekly/fw-vendor_vangogh_miui_VANGOGH_20.9.17_f6fd714aa4_11.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-weekly/fw-vendor_vangogh_miui_VANGOGH_20.9.17_f6fd714aa4_11.0.zip/download
-  filename: fw-vendor_vangogh_miui_VANGOGH_20.9.17_f6fd714aa4_11.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/vangogh-weekly/fw-vendor_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/vangogh-weekly/fw-vendor_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip/download
+  filename: fw-vendor_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
   region: China
   size: 1.2 GB
   versions:
     android: '11.0'
-    miui: 20.9.17
+    miui: 20.9.24

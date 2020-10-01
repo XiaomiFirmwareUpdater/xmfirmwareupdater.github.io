@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-08-06'
+  date: '2020-10-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable-beta/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.9.0.QECMIXM_35695bfee7_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable-beta/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.9.0.QECMIXM_35695bfee7_10.0.zip/download
-  filename: fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.9.0.QECMIXM_35695bfee7_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.11.0.QECMIXM_adaa87fb7d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/equuleus_global-stable/fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.11.0.QECMIXM_adaa87fb7d_10.0.zip/download
+  filename: fw-vendor_equuleus_miui_MI8UDGlobal_V11.0.11.0.QECMIXM_adaa87fb7d_10.0.zip
   region: Global
   size: 620.7 MB
   versions:
     android: '10.0'
-    miui: V11.0.9.0.QECMIXM
+    miui: V11.0.11.0.QECMIXM
 - branch: stable
   date: '2020-09-01'
   downloads:
