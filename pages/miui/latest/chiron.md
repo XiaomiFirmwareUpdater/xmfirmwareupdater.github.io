@@ -60,6 +60,7 @@ permalink: /miui/chiron/
 <tr><td>Mi MIX 2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PDEMIXM</td><td>9.0</td><td>1.8 GB</td><td>2020-03-20</td><td><a href="/miui/chiron/stable/V11.0.6.0.PDEMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.3 GB</td><td>2019-06-28</td><td><a href="/miui/chiron/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Mi MIX 2 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>1.9 GB</td><td>2019-06-28</td><td><a href="/miui/chiron/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>Mi MIX 2 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.PDEMIXM</td><td>9.0</td><td>2.0 GB</td><td>2020-10-10</td><td><a href="/miui/chiron/stable beta/V12.0.1.0.PDEMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
