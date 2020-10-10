@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 10 Oct 2020 13:10:02 +0900</pubDate>
+  <pubDate>Sun, 11 Oct 2020 01:13:29 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - V12.0.3.0.QFHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Sun, 11 Oct 2020 01:13:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO X3 NFC (surya) - V12.0.3.0.QJGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Sun, 11 Oct 2020 01:12:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - V12.0.2.0.QEACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Sun, 11 Oct 2020 01:09:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/9AT (dandelion) - V12.0.6.0.QCDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Sun, 11 Oct 2020 01:08:10 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V12.0.3.0.QJGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -85,26 +105,6 @@
     <title>Mi 9 (cepheus) - V12.0.4.0.QFACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
     <pubDate>Wed, 30 Sep 2020 07:09:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro Max (excalibur) - V12.0.1.0.QJXINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/excalibur</link>
-    <pubDate>Wed, 30 Sep 2020 01:14:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V11.0.2.0.QFLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Wed, 30 Sep 2020 00:46:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.0.4.0.QJKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Wed, 30 Sep 2020 00:45:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M2 Pro (gram) - V12.0.1.0.QJPINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gram</link>
-    <pubDate>Wed, 30 Sep 2020 00:44:00 +0900</pubDate>
   </item>
     </channel>
 </rss>
