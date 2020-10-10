@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-10-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-10.10.2020/fw_surya_miui_SURYAGlobal_V12.0.3.0.QJGMIXM_e2c7ace186_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.0.3.0.QJGMIXM_e2c7ace186_10.0.zip
+  filename: fw_surya_miui_SURYAGlobal_V12.0.3.0.QJGMIXM_e2c7ace186_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJGMIXM
+- branch: stable
   date: '2020-09-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-18.09.2020/fw_surya_miui_SURYAEEAGlobal_V12.0.2.0.QJGEUXM_c68aede605_10.0.zip

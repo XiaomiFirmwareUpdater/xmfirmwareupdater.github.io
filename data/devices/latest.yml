@@ -159,15 +159,15 @@
     android: '10.0'
     miui: V12.0.2.0.QGGINXM
 - branch: stable
-  date: '2020-08-11'
+  date: '2020-10-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-11.08.2020/fw_beryllium_miui_POCOF1Global_V11.0.9.0.QEJMIXM_5536c538da_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/beryllium/fw_beryllium_miui_POCOF1Global_V11.0.9.0.QEJMIXM_5536c538da_10.0.zip
-  filename: fw_beryllium_miui_POCOF1Global_V11.0.9.0.QEJMIXM_5536c538da_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-10.10.2020/fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/beryllium/fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+  filename: fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.9.0.QEJMIXM
+    miui: V12.0.2.0.QEJMIXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -2409,15 +2409,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2020-09-18'
+  date: '2020-10-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-18.09.2020/fw_surya_miui_SURYAGlobal_V12.0.2.0.QJGMIXM_c8f2531a02_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.0.2.0.QJGMIXM_c8f2531a02_10.0.zip
-  filename: fw_surya_miui_SURYAGlobal_V12.0.2.0.QJGMIXM_c8f2531a02_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-10.10.2020/fw_surya_miui_SURYAGlobal_V12.0.3.0.QJGMIXM_e2c7ace186_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.0.3.0.QJGMIXM_e2c7ace186_10.0.zip
+  filename: fw_surya_miui_SURYAGlobal_V12.0.3.0.QJGMIXM_e2c7ace186_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QJGMIXM
+    miui: V12.0.3.0.QJGMIXM
 - branch: stable
   date: '2020-09-18'
   downloads:
