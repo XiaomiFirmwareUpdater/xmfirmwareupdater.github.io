@@ -56,11 +56,11 @@ permalink: /miui/equuleus/
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>3.0 GB</td><td>2019-09-04</td><td><a href="/miui/equuleus/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QECCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-03-31</td><td><a href="/miui/equuleus/stable/V11.0.2.0.QECCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.9.4</td><td>10.0</td><td>2.3 GB</td><td>2020-09-04</td><td><a href="/miui/equuleus/weekly/20.9.4/">Download</a></td></tr>
-<tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QECMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-04-23</td><td><a href="/miui/equuleus/stable/V11.0.5.0.QECMIXM/">Download</a></td></tr>
+<tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.11.0.QECMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-09-22</td><td><a href="/miui/equuleus/stable/V11.0.11.0.QECMIXM/">Download</a></td></tr>
+<tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Recovery</td><td>V11.0.11.0.QECMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-09-25</td><td><a href="/miui/equuleus/stable/V11.0.11.0.QECMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.7 GB</td><td>2019-06-28</td><td><a href="/miui/equuleus/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>2.1 GB</td><td>2019-06-28</td><td><a href="/miui/equuleus/weekly/9.6.27/">Download</a></td></tr>
-<tr><td>Mi 8 Pro Global</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QECMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-07-21</td><td><a href="/miui/equuleus/stable/V11.0.7.0.QECMIXM/">Download</a></td></tr>
-<tr><td>Mi 8 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.11.0.QECMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-09-25</td><td><a href="/miui/equuleus/stable beta/V11.0.11.0.QECMIXM/">Download</a></td></tr>
+<tr><td>Mi 8 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.9.0.QECMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-08-06</td><td><a href="/miui/equuleus/stable beta/V11.0.9.0.QECMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QECRUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-05</td><td><a href="/miui/equuleus/stable/V11.0.4.0.QECRUXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QECRUXM</td><td>10.0</td><td>2.1 GB</td><td>2020-07-15</td><td><a href="/miui/equuleus/stable/V11.0.4.0.QECRUXM/">Download</a></td></tr>
 
