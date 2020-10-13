@@ -19,6 +19,7 @@ from database.database import get_device_latest, get_device_roms, get_incrementa
 HEADER = {'Authorization': f'token {environ["GIT_OAUTH_TOKEN_XFU"]}'}
 VARIANTS = [['stable', 'Global'], ['stable', 'China'], ['weekly', 'Global'], ['weekly', 'China'],
             ['stable', 'Europe'], ['stable', 'India'], ['stable', 'Russia']]
+REGIONS = ['China', 'Singapore', 'Global', 'EEA', 'India', 'Indonesia', 'Russia', 'Turkey']
 FW_CODENAMES = []
 FW_DEVICES = {}
 M_CODENAMES = []
@@ -56,15 +57,18 @@ def load_names():
     data = yaml.load(get('https://raw.githubusercontent.com/XiaomiFirmwareUpdater/'
                          'miui-updates-tracker/master/data/devices.yml').text, Loader=yaml.CLoader)
     for codename, info in data.items():
-        name = ' '.join(info[0].split(' ')[:-1])
-        if '/' in name:
-            name = name.split('/')[1].strip()
+        name = info[0]
+        for region in REGIONS:
+            if region in name:
+                name = name.replace(region, '').strip()
+        names = [i.strip() for i in name.split('/')] if '/' in name else [name]
         codename = codename.split('_')[0]
-        try:
-            if NAMES[codename] and name not in NAMES[codename]:
-                NAMES.update({codename: f"{NAMES[codename]}/{name}"})
-        except KeyError:
-            NAMES.update({codename: name})
+        for name in names:
+            if NAMES.get(codename):
+                if name not in NAMES[codename]:
+                    NAMES.update({codename: f"{NAMES[codename]}/{name}"})
+            else:
+                NAMES.update({codename: name})
     with open('../data/names.yml', 'w', encoding='utf-8') as out:
         yaml.dump(NAMES, out, allow_unicode=True, Dumper=yaml.CDumper)
 
