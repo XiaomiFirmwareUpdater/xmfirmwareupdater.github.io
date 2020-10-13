@@ -7,6 +7,10 @@
 
     gtag('config', 'UA-130929141-1');
 </script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle = window.adsbygoogle || []).pauseAdRequests = 1;</script>
+
 <link rel="stylesheet" type="text/css"
     href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
@@ -22,14 +26,58 @@
                 "text": "#222222"
             }
         },
+        "type": "opt-out",
         "theme": "classic",
         "content": {
             "message": "This website uses cookies to ensure the best experience while using it.  You may see ads that are less relevant to you. These ads use cookies, but not for personalization. Learn more about how we use cookies.",
             "href": "https://xiaomifirmwareupdater.com/privacy/"
-        }
+        },
+        onStatusChange: function (status) {
+            if (this.hasConsented()) {
+                console.log("hasConsented");
+                (adsbygoogle = window.adsbygoogle || []).pauseAdRequests = 0;
+                (adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds = 0;
+            }
+            else {
+                console.log("didn't Consented");
+                (adsbygoogle = window.adsbygoogle || []).pauseAdRequests = 0;
+                (adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds = 1;
+            }
+        },
     });
 </script>
-<script data-ad-client="ca-pub-3257146945160733" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    function getCookie(cname) {
+        var name = cname + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+    var cookies_status = getCookie('cookieconsent_status');
+    if (cookies_status) {
+        if (cookies_status == 'allow' || cookies_status == 'dismiss') {
+            (adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds = 0;
+        }
+        else {
+            (adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds = 1;
+        }
+        (adsbygoogle = window.adsbygoogle || []).pauseAdRequests = 0;
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3257146945160733",
+            enable_page_level_ads: true
+        });
+    }
+
+</script>
 <script type="text/javascript" charset="utf-8">
     // Place this code snippet near the footer of your page before the close of the /body tag
     // LEGAL NOTICE: The content of this website and all associated program code are protected under the Digital Millennium Copyright Act. Intentionally circumventing this code may constitute a violation of the DMCA.
