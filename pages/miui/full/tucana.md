@@ -1,7 +1,7 @@
 ---
-title: Mi CC 9 Pro/Note 10 Pro (tucana) MIUI Downloads
+title: Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) MIUI Downloads
 layout: download
-name: Mi CC 9 Pro/Note 10 Pro
+name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
 codename: tucana
 permalink: /archive/miui/tucana/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/tucana/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/tucana/">Mi CC 9 Pro/Note 10 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/tucana/">Mi CC 9 Pro/Mi Note 10/Note 10 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

@@ -1,7 +1,7 @@
 ---
-title: 10T Pro (apollo) Firmware Downloads
+title: Mi 10T/Mi 10T Pro (apollo) Firmware Downloads
 layout: download
-name: 10T Pro
+name: Mi 10T/Mi 10T Pro
 codename: apollo
 permalink: /archive/firmware/apollo/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/apollo/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/apollo/">10T Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/apollo/">Mi 10T/Mi 10T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

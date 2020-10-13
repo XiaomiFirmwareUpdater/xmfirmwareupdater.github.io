@@ -1,7 +1,7 @@
 ---
-title: Mi CC 9 Pro/Note 10 Pro (tucana) Firmware Downloads
+title: Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) Firmware Downloads
 layout: download
-name: Mi CC 9 Pro/Note 10 Pro
+name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
 codename: tucana
 permalink: /firmware/tucana/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/tucana/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/tucana/">Mi CC 9 Pro/Note 10 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/tucana/">Mi CC 9 Pro/Mi Note 10/Note 10 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

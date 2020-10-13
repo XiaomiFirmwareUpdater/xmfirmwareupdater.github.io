@@ -1,7 +1,7 @@
 ---
-title: Mi 4/MI 3/MI 4 LTE CT (cancro) MIUI Downloads
+title: MI 3/Mi 4/MI 4 LTE CT (cancro) MIUI Downloads
 layout: download
-name: Mi 4/MI 3/MI 4 LTE CT
+name: MI 3/Mi 4/MI 4 LTE CT
 codename: cancro
 permalink: /archive/miui/cancro/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/cancro/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cancro/">Mi 4/MI 3/MI 4 LTE CT</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cancro/">MI 3/Mi 4/MI 4 LTE CT</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
