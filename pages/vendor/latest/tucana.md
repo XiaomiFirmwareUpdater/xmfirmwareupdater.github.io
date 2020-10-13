@@ -1,7 +1,7 @@
 ---
-title: Mi CC 9 Pro (tucana) Vendor Downloads
+title: Mi CC 9 Pro/Note 10 Pro (tucana) Vendor Downloads
 layout: download
-name: Mi CC 9 Pro
+name: Mi CC 9 Pro/Note 10 Pro
 codename: tucana
 permalink: /vendor/tucana/
 ---
@@ -9,7 +9,7 @@ permalink: /vendor/tucana/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/vendor/">Vendor</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/vendor/tucana/">Mi CC 9 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/vendor/tucana/">Mi CC 9 Pro/Note 10 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

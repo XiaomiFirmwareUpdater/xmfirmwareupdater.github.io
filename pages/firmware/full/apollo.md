@@ -1,15 +1,15 @@
 ---
-title: Mi CC 9 Pro/Note 10 Pro (tucana) Firmware Downloads
+title: 10T Pro (apollo) Firmware Downloads
 layout: download
-name: Mi CC 9 Pro/Note 10 Pro
-codename: tucana
-permalink: /firmware/tucana/
+name: 10T Pro
+codename: apollo
+permalink: /archive/firmware/apollo/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/tucana/">Mi CC 9 Pro/Note 10 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/apollo/">10T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -19,25 +19,24 @@ permalink: /firmware/tucana/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-<h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss">
-<span class="label">RSS</span></a></span></h3>
+### Firmware Archive
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest firmware downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/firmware/tucana/" class="card-link">Firmware Archive</a>
-    <a href="/miui/tucana/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/tucana/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases or other downloads check:</p>
+    <a href="/firmware/apollo/" class="card-link">Latest Firmware</a>
+    <a href="/miui/apollo/" class="card-link">MIUI Downloads</a>
+    <a href="/vendor/apollo/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
 {%include ads.html%}
 <div class="row justify-content-center">
     <div class="col-10">
-        {%include vli_ad_320x50_1.html%}
         <div class="table-responsive-md" style="margin-top: 25px;">
+            {%include vli_ad_320x50_1.html%}
             <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
@@ -49,7 +48,7 @@ permalink: /firmware/tucana/
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('tucana', 'latest')</script>
+                <script>loadFirmwareDownloads('apollo', 'full')</script>
             </table>
         </div>
     </div>
