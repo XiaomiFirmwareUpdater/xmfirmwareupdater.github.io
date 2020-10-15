@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 15 Oct 2020 07:08:07 +0900</pubDate>
+  <pubDate>Fri, 16 Oct 2020 01:14:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10T/Mi 10T Pro (apollo) - V12.0.6.0.QJDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Fri, 16 Oct 2020 01:14:45 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V12.0.3.0.QJBINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -100,11 +105,6 @@
     <title>Mi 10 (umi) - V12.1.5.0.RJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
     <pubDate>Thu, 01 Oct 2020 20:20:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.1.3.0.RJKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Thu, 01 Oct 2020 20:19:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
