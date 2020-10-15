@@ -9199,6 +9199,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJWINXM
 - branch: stable
+  date: '2020-10-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-15.10.2020/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.7.0.QCDEUXM_3017c14ffc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.7.0.QCDEUXM_3017c14ffc_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.7.0.QCDEUXM_3017c14ffc_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QCDEUXM
+- branch: stable
   date: '2020-10-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-10.10.2020/fw_dandelion_miui_DANDELIONGlobal_V12.0.6.0.QCDMIXM_d60f424ace_10.0.zip
@@ -32698,6 +32708,16 @@
   versions:
     android: '9.0'
     miui: 8.10.25
+- branch: stable
+  date: '2020-10-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/stable-15.10.2020/fw_phoenix_miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QGHCNXM
 - branch: weekly
   date: '2020-09-17'
   downloads:
