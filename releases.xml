@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 16 Oct 2020 03:08:33 +0900</pubDate>
+  <pubDate>Sat, 17 Oct 2020 07:09:57 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V12.0.1.0.QEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Sat, 17 Oct 2020 07:09:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Max 3 (nitrogen) - V12.0.1.0.QEDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
+    <pubDate>Sat, 17 Oct 2020 07:09:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V12.0.5.0.QFJMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Sat, 17 Oct 2020 07:07:52 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.10.15</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
@@ -90,21 +105,6 @@
     <title>Mi 10 Ultra (cas) - 20.10.15</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
     <pubDate>Fri, 16 Oct 2020 02:50:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 20.10.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Fri, 16 Oct 2020 02:50:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 20.10.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 16 Oct 2020 02:50:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 20.10.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 16 Oct 2020 02:49:42 +0900</pubDate>
   </item>
     </channel>
 </rss>
