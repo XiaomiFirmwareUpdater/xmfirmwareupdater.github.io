@@ -1,5 +1,5 @@
 ---
-title: Xiaomi Flashable Firmware Creator
+title: Xiaomi Flashable Firmware Creator V2
 description: A tool for automating creating flashable firmware zip files
 layout: single
 permalink: /projects/xiaomi-flashable-firmware-creator/
@@ -9,55 +9,59 @@ permalink: /projects/xiaomi-flashable-firmware-creator/
 
 Xiaomi Flashable Firmware Creator is a tool that generates flashable firmware-update packages from official (or non official) MIUI ROMS.
 
-It supports creating untouched firmware, non-arb firmware, firmware + vendor flashable zip, and firmware-less ROMs.
+It supports creating untouched firmware, non-arb firmware, firmware + vendor flashable zip, and firmware-less ROMs from any supported local or remote miui zip. You just need to give the tool a local file path or a direct link to the miui zip and it'll do the job for you!
 
 [![screenshot](https://raw.githubusercontent.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/py/screenshots/1.png)](https://xiaomifirmwareupdater.com/projects/xiaomi-flashable-firmware-creator/)
 
 ### Features:
-- CLI and GUI version
-- Easy-to-use interface
-- Multilanguage support (more than 25 languages!). Thanks to our community members!
+- CLI and GUI versions.
+- Easy-to-use interface.
+- Supports local and remote zip files.
+- Multi-language support (more than 25 languages!). Thanks to our community members!
 
 {%include vli_ad_320x50_1.html%}
 
 #### Screenshots:
 
-[Here](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/tree/py/screenshots)
+[Here](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator-gui/tree/master/screenshots)
 
 ### GUI Usage:
-- Clone or download [this repo](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py).
-- Make sure that you have Python3 installed on your device.
-- Install the required packages.
+- Make sure that you have Python3.6 or newer installed on your device, then install the tool with:
 ```
-pip3 install -r requirements.txt
+pip3 install xiaomi_flashable_firmware_creator_gui
 ```
 - Run the tool.
 ```
-python3 main.py
+xiaomi-flashable-firmware-creator-gui
 ```
 
 ### CLI Usage:
+- Make sure that you have Python3.6 or newer installed on your device, then install the tool with:
+```
+pip3 install xiaomi_flashable_firmware_creator
+```
+#### Usage Examples
 
 - Creating normal (untouched) firmware:
 ```
-python3 create_flashable_firmware.py -F [MIUI ZIP]
+xiaomi_flashable_firmware_creator -F [MIUI ZIP]
 ```
 - Creating non-arb firmware (without anti-rollback):
 ```
-python3 create_flashable_firmware.py -N [MIUI ZIP]
+xiaomi_flashable_firmware_creator -N [MIUI ZIP]
 ```
 - Creating firmware-less ROM (stock untouched ROM with just firmware removed):
 ```
-python3 create_flashable_firmware.py -L [MIUI ZIP]
+xiaomi_flashable_firmware_creator -L [MIUI ZIP]
 ```
 - Creating firmware + vendor flashable zip:
 ```
-python3 create_flashable_firmware.py -V [MIUI ZIP]
+xiaomi_flashable_firmware_creator -V [MIUI ZIP]
 ```
 
 {%include vli_ad_320x50_1.html%}
 
-### CLI Guide:
+### CLI Guide (Version 1 only) [OLD]:
 
 1- Download .exe for windows, or the one without extension for linux from [releases](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/releases), and download Miui Based ROM you want to edit.
 
