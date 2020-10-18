@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 17 Oct 2020 20:50:56 +0900</pubDate>
+  <pubDate>Mon, 19 Oct 2020 01:17:50 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.0.5.0.QFKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Mon, 19 Oct 2020 01:17:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - V12.0.5.0.QFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Mon, 19 Oct 2020 01:16:57 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.2.0.QFLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - 20.10.15</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Fri, 16 Oct 2020 02:51:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 20.10.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Fri, 16 Oct 2020 02:51:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 20.10.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 16 Oct 2020 02:51:12 +0900</pubDate>
   </item>
     </channel>
 </rss>
