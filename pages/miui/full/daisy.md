@@ -52,7 +52,9 @@ permalink: /archive/miui/daisy/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.11.0.QDLMIXM</td><td>10.0</td><td>1.2 GB</td><td>2020-09-16</td><td><a href="/miui/daisy/stable/V11.0.11.0.QDLMIXM/">Download</a></td></tr>
+                <tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.12.0.QDLMIXM</td><td>10.0</td><td>1.2 GB</td><td>2020-10-19</td><td><a href="/miui/daisy/stable/V11.0.12.0.QDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.12.0.QDLMIXM</td><td>10.0</td><td>1.5 GB</td><td>2020-10-12</td><td><a href="/miui/daisy/stable/V11.0.12.0.QDLMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.11.0.QDLMIXM</td><td>10.0</td><td>1.2 GB</td><td>2020-09-16</td><td><a href="/miui/daisy/stable/V11.0.11.0.QDLMIXM/">Download</a></td></tr>
 <tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.11.0.QDLMIXM</td><td>10.0</td><td>1.5 GB</td><td>2020-09-10</td><td><a href="/miui/daisy/stable/V11.0.11.0.QDLMIXM/">Download</a></td></tr>
 <tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.QDLMIXM</td><td>10.0</td><td>1.2 GB</td><td>2020-08-18</td><td><a href="/miui/daisy/stable/V11.0.10.0.QDLMIXM/">Download</a></td></tr>
 <tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.10.0.QDLMIXM</td><td>10.0</td><td>1.5 GB</td><td>2020-08-11</td><td><a href="/miui/daisy/stable/V11.0.10.0.QDLMIXM/">Download</a></td></tr>

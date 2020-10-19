@@ -52,7 +52,9 @@ permalink: /archive/miui/apollo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJDEUXM</td><td>10.0</td><td>3.0 GB</td><td>2020-10-15</td><td><a href="/miui/apollo/stable/V12.0.6.0.QJDEUXM/">Download</a></td></tr>
+                <tr><td>Mi 10T / Mi 10T Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJDINXM</td><td>10.0</td><td>2.9 GB</td><td>2020-10-19</td><td><a href="/miui/apollo/stable/V12.0.2.0.QJDINXM/">Download</a></td></tr>
+<tr><td>Mi 10T / Mi 10T Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJDINXM</td><td>10.0</td><td>3.7 GB</td><td>2020-09-26</td><td><a href="/miui/apollo/stable/V12.0.2.0.QJDINXM/">Download</a></td></tr>
+<tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJDEUXM</td><td>10.0</td><td>3.0 GB</td><td>2020-10-15</td><td><a href="/miui/apollo/stable/V12.0.6.0.QJDEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJDEUXM</td><td>10.0</td><td>4.4 GB</td><td>2020-09-26</td><td><a href="/miui/apollo/stable/V12.0.6.0.QJDEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJDEUXM</td><td>10.0</td><td>3.0 GB</td><td>2020-10-12</td><td><a href="/miui/apollo/stable/V12.0.5.0.QJDEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJDEUXM</td><td>10.0</td><td>4.4 GB</td><td>2020-09-22</td><td><a href="/miui/apollo/stable/V12.0.5.0.QJDEUXM/">Download</a></td></tr>
