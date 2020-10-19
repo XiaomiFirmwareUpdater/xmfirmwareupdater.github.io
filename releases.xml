@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 19 Oct 2020 13:07:58 +0900</pubDate>
+  <pubDate>Tue, 20 Oct 2020 02:23:13 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X2 (phoenixin) - V12.0.2.0.QGHINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenixin</link>
+    <pubDate>Tue, 20 Oct 2020 02:23:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 (davinciin) - V12.0.5.0.QFJINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinciin</link>
+    <pubDate>Tue, 20 Oct 2020 02:22:26 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Ultra (cas) - V12.0.13.0.QJJCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
@@ -95,16 +105,6 @@
     <title>Mi 9 SE (grus) - 20.10.15</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
     <pubDate>Fri, 16 Oct 2020 02:52:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - 20.10.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Fri, 16 Oct 2020 02:52:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - 20.10.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 16 Oct 2020 02:52:08 +0900</pubDate>
   </item>
     </channel>
 </rss>
