@@ -79,6 +79,16 @@
     android: '10.0'
     miui: V12.0.6.0.QJDEUXM
 - branch: stable
+  date: '2020-10-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-20.10.2020/fw_apollo_miui_APOLLOINGlobal_V12.0.2.0.QJDINXM_d3c698e6d6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOINGlobal_V12.0.2.0.QJDINXM_d3c698e6d6_10.0.zip
+  filename: fw_apollo_miui_APOLLOINGlobal_V12.0.2.0.QJDINXM_d3c698e6d6_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJDINXM
+- branch: stable
   date: '2018-11-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_aqua/releases/download/stable-07.11.2018/fw_aqua_miui_MI4s_V10.1.1.0.NAJCNFI_a6d5e5489a_7.0.zip
@@ -1269,15 +1279,15 @@
     android: '10.0'
     miui: 20.10.15
 - branch: stable
-  date: '2020-07-29'
+  date: '2020-10-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-29.07.2020/fw_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip
-  filename: fw_lavender_miui_LAVENDEREEAGlobal_V11.0.1.0.QFGEUXM_fc2ac50c80_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-20.10.2020/fw_lavender_miui_LAVENDEREEAGlobal_V12.0.2.0.QFGEUXM_d20d8676c8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V12.0.2.0.QFGEUXM_d20d8676c8_10.0.zip
+  filename: fw_lavender_miui_LAVENDEREEAGlobal_V12.0.2.0.QFGEUXM_d20d8676c8_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QFGEUXM
+    miui: V12.0.2.0.QFGEUXM
 - branch: stable
   date: '2020-10-01'
   downloads:
