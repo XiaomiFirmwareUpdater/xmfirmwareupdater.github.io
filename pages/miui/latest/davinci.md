@@ -55,7 +55,7 @@ permalink: /miui/davinci/
                 <tr><td>Redmi K20 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QFJCNXM</td><td>10.0</td><td>3.5 GB</td><td>2020-07-27</td><td><a href="/miui/davinci/stable/V12.0.4.0.QFJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K20 China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QFJCNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-08-04</td><td><a href="/miui/davinci/stable/V12.0.4.0.QFJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K20 China</td><td>Weekly</td><td>Fastboot</td><td>9.6.20</td><td>9.0</td><td>2.9 GB</td><td>2019-06-20</td><td><a href="/miui/davinci/weekly/9.6.20/">Download</a></td></tr>
-<tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>20.9.17</td><td>10.0</td><td>2.6 GB</td><td>2020-09-17</td><td><a href="/miui/davinci/weekly/20.9.17/">Download</a></td></tr>
+<tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>20.10.22</td><td>11.0</td><td>2.6 GB</td><td>2020-10-22</td><td><a href="/miui/davinci/weekly/20.10.22/">Download</a></td></tr>
 <tr><td>Mi 9T EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFJEUXM</td><td>10.0</td><td>3.1 GB</td><td>2020-07-12</td><td><a href="/miui/davinci/stable/V12.0.2.0.QFJEUXM/">Download</a></td></tr>
 <tr><td>Mi 9T EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFJEUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-21</td><td><a href="/miui/davinci/stable/V12.0.2.0.QFJEUXM/">Download</a></td></tr>
 <tr><td>Mi 9T Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFJMIXM</td><td>10.0</td><td>3.1 GB</td><td>2020-07-12</td><td><a href="/miui/davinci/stable/V12.0.2.0.QFJMIXM/">Download</a></td></tr>

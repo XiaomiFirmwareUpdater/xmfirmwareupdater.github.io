@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-22.10.2020/fw_phoenix_miui_PHOENIX_20.10.22_6de2eb2815_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/phoenix/fw_phoenix_miui_PHOENIX_20.10.22_6de2eb2815_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.10.22_6de2eb2815_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.10.22
 - branch: stable
   date: '2020-10-15'
   downloads:

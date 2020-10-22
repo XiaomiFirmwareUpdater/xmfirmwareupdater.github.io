@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V12.0.6.0.QJVCNXM
 - branch: weekly
-  date: '2020-10-15'
+  date: '2020-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-15.10.2020/fw_vangogh_miui_VANGOGH_20.10.15_ef36bae207_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/vangogh/fw_vangogh_miui_VANGOGH_20.10.15_ef36bae207_11.0.zip
-  filename: fw_vangogh_miui_VANGOGH_20.10.15_ef36bae207_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-22.10.2020/fw_vangogh_miui_VANGOGH_20.10.22_b9ad06b0f3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/vangogh/fw_vangogh_miui_VANGOGH_20.10.22_b9ad06b0f3_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_20.10.22_b9ad06b0f3_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 20.10.15
+    miui: 20.10.22

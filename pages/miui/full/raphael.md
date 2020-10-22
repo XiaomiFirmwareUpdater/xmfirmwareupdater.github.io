@@ -52,7 +52,8 @@ permalink: /archive/miui/raphael/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K20 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QFKCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-10-18</td><td><a href="/miui/raphael/stable beta/V12.0.5.0.QFKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.10.22</td><td>10.0</td><td>2.7 GB</td><td>2020-10-22</td><td><a href="/miui/raphael/weekly/20.10.22/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QFKCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-10-18</td><td><a href="/miui/raphael/stable beta/V12.0.5.0.QFKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.10.15</td><td>10.0</td><td>2.7 GB</td><td>2020-10-15</td><td><a href="/miui/raphael/weekly/20.10.15/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QFKCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-09-29</td><td><a href="/miui/raphael/stable/V12.0.4.0.QFKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QFKCNXM</td><td>10.0</td><td>3.7 GB</td><td>2020-09-21</td><td><a href="/miui/raphael/stable/V12.0.4.0.QFKCNXM/">Download</a></td></tr>
