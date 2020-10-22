@@ -52,7 +52,8 @@ permalink: /archive/miui/olive/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 8 China</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.2.0.QCNCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-10-21</td><td><a href="/miui/olive/stable beta/V11.0.2.0.QCNCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 8A EEA</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.3.0.QCPEUXM</td><td>10.0</td><td>1.8 GB</td><td>2020-10-22</td><td><a href="/miui/olivelite/stable beta/V11.0.3.0.QCPEUXM/">Download</a></td></tr>
+<tr><td>Redmi 8 China</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.2.0.QCNCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-10-21</td><td><a href="/miui/olive/stable beta/V11.0.2.0.QCNCNXM/">Download</a></td></tr>
 <tr><td>Redmi 8 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.3.0.QCNEUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-10-21</td><td><a href="/miui/olive/stable beta/V11.0.3.0.QCNEUXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Global</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QCPMIXM</td><td>10.0</td><td>1.8 GB</td><td>2020-10-09</td><td><a href="/miui/olivelite/stable/V11.0.2.0.QCPMIXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QCPMIXM</td><td>10.0</td><td>3.2 GB</td><td>2020-09-25</td><td><a href="/miui/olivelite/stable/V11.0.2.0.QCPMIXM/">Download</a></td></tr>
@@ -248,14 +249,14 @@ permalink: /archive/miui/olive/
 <tr><td>Redmi 8A Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PCPMIXM</td><td>9.0</td><td>2.9 GB</td><td>2019-10-19</td><td><a href="/miui/olivelite/stable/V10.3.3.0.PCPMIXM/">Download</a></td></tr>
 <tr><td>Redmi 8 EEA</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.PCNEUXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-22</td><td><a href="/miui/olive/stable/V10.3.1.0.PCNEUXM/">Download</a></td></tr>
 <tr><td>Redmi 8A EEA</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.PCPEUXM</td><td>9.0</td><td>1.7 GB</td><td>2019-10-22</td><td><a href="/miui/olivelite/stable/V10.3.1.0.PCPEUXM/">Download</a></td></tr>
+<tr><td>Redmi 8 India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PCNINXM</td><td>9.0</td><td>2.0 GB</td><td>2019-11-08</td><td><a href="/miui/olive/stable/V11.0.1.0.PCNINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PCPINXM</td><td>9.0</td><td>1.8 GB</td><td>2019-11-08</td><td><a href="/miui/olivelite/stable/V11.0.1.0.PCPINXM/">Download</a></td></tr>
+<tr><td>Redmi 8A India</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PCPINXM</td><td>9.0</td><td>2.5 GB</td><td>2019-11-05</td><td><a href="/miui/olivelite/stable/V11.0.1.0.PCPINXM/">Download</a></td></tr>
 <tr><td>Redmi 8 India</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PCNINXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-22</td><td><a href="/miui/olive/stable/V10.3.3.0.PCNINXM/">Download</a></td></tr>
 <tr><td>Redmi 8 India</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PCNINXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-16</td><td><a href="/miui/olive/stable/V10.3.3.0.PCNINXM/">Download</a></td></tr>
 <tr><td>Redmi 8 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PCNMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-10-22</td><td><a href="/miui/olive/stable/V10.3.3.0.PCNMIXM/">Download</a></td></tr>
 <tr><td>Redmi 8A India</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PCPINXM</td><td>9.0</td><td>1.7 GB</td><td>2019-10-22</td><td><a href="/miui/olivelite/stable/V10.3.3.0.PCPINXM/">Download</a></td></tr>
 <tr><td>Redmi 8A India</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PCPINXM</td><td>9.0</td><td>2.4 GB</td><td>2019-10-16</td><td><a href="/miui/olivelite/stable/V10.3.3.0.PCPINXM/">Download</a></td></tr>
-<tr><td>Redmi 8 India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PCNINXM</td><td>9.0</td><td>2.0 GB</td><td>2019-11-08</td><td><a href="/miui/olive/stable/V11.0.1.0.PCNINXM/">Download</a></td></tr>
-<tr><td>Redmi 8A India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PCPINXM</td><td>9.0</td><td>1.8 GB</td><td>2019-11-08</td><td><a href="/miui/olivelite/stable/V11.0.1.0.PCPINXM/">Download</a></td></tr>
-<tr><td>Redmi 8A India</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PCPINXM</td><td>9.0</td><td>2.5 GB</td><td>2019-11-05</td><td><a href="/miui/olivelite/stable/V11.0.1.0.PCPINXM/">Download</a></td></tr>
 <tr><td>Redmi 8 China</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PCNCNXM</td><td>9.0</td><td>1.9 GB</td><td>2019-10-21</td><td><a href="/miui/olive/stable/V10.3.3.0.PCNCNXM/">Download</a></td></tr>
 <tr><td>Redmi 8 China</td><td>Stable</td><td>Recovery</td><td>V10.3.6.0.PCNCNXM</td><td>9.0</td><td>1.9 GB</td><td>2019-10-16</td><td><a href="/miui/olive/stable/V10.3.6.0.PCNCNXM/">Download</a></td></tr>
 <tr><td>Redmi 8 China</td><td>Stable</td><td>Fastboot</td><td>V10.3.6.0.PCNCNXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-10</td><td><a href="/miui/olive/stable/V10.3.6.0.PCNCNXM/">Download</a></td></tr>

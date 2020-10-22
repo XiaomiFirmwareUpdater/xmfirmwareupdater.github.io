@@ -21048,6 +21048,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-22.10.2020/fw_laurus_miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurus/fw_laurus_miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
+  filename: fw_laurus_miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QFMCNXM
 - branch: weekly
   date: '2020-10-15'
   downloads:
@@ -24328,6 +24338,16 @@
   versions:
     android: '10.0'
     miui: V11.0.10.0.QJKCNXM
+- branch: stable
+  date: '2020-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-22.10.2020/fw_lotus_miui_MIPLAYGlobal_V11.0.9.0.OFIMIXM_ddbe04ab54_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAYGlobal_V11.0.9.0.OFIMIXM_ddbe04ab54_8.1.zip
+  filename: fw_lotus_miui_MIPLAYGlobal_V11.0.9.0.OFIMIXM_ddbe04ab54_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: V11.0.9.0.OFIMIXM
 - branch: stable
   date: '2020-09-03'
   downloads:
@@ -29468,6 +29488,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
+- branch: stable
+  date: '2020-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-22.10.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.QCPEUXM_b920fc1425_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.QCPEUXM_b920fc1425_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.QCPEUXM_b920fc1425_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QCPEUXM
 - branch: stable
   date: '2020-10-09'
   downloads:
@@ -59998,6 +60028,16 @@
   versions:
     android: '7.1'
     miui: V9.2.7.0.NEIMIEK
+- branch: stable
+  date: '2020-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-22.10.2020/fw_willow_miui_WILLOWGlobal_V12.0.1.0.QCXMIXM_4ecc3a420f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.0.1.0.QCXMIXM_4ecc3a420f_10.0.zip
+  filename: fw_willow_miui_WILLOWGlobal_V12.0.1.0.QCXMIXM_4ecc3a420f_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QCXMIXM
 - branch: stable
   date: '2020-09-03'
   downloads:

@@ -19,15 +19,15 @@
     android: '10.0'
     miui: V11.0.3.0.QCPCNXM
 - branch: stable
-  date: '2020-08-22'
+  date: '2020-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-22.08.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip
-  filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.1.0.QCPEUXM_dcfade9de8_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-22.10.2020/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.QCPEUXM_b920fc1425_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.QCPEUXM_b920fc1425_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEEEAGlobal_V11.0.3.0.QCPEUXM_b920fc1425_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QCPEUXM
+    miui: V11.0.3.0.QCPEUXM
 - branch: stable
   date: '2020-08-24'
   downloads:

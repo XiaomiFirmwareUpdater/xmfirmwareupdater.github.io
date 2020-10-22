@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 22 Oct 2020 07:07:18 +0900</pubDate>
+  <pubDate>Fri, 23 Oct 2020 01:11:41 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8T (willow) - V12.0.1.0.QCXMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
+    <pubDate>Fri, 23 Oct 2020 01:11:41 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8A (olivelite) - V11.0.3.0.QCPEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Fri, 23 Oct 2020 01:10:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Play (lotus) - V11.0.9.0.OFIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
+    <pubDate>Fri, 23 Oct 2020 01:10:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9e (laurus) - V12.0.3.0.QFMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
+    <pubDate>Fri, 23 Oct 2020 01:09:54 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 Ultra (cezanne) - V12.0.13.0.QJNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
@@ -85,26 +105,6 @@
     <title>Mi Max 3 (nitrogen) - V12.0.1.0.QEDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
     <pubDate>Sat, 17 Oct 2020 07:09:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - V12.0.5.0.QFJMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Sat, 17 Oct 2020 07:07:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.10.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 16 Oct 2020 03:08:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - 20.10.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Fri, 16 Oct 2020 03:07:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - 20.10.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Fri, 16 Oct 2020 03:03:54 +0900</pubDate>
   </item>
     </channel>
 </rss>
