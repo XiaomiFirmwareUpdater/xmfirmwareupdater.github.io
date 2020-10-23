@@ -576,6 +576,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: cmi
+  date: '2020-10-23'
+  download: https://bigota.d.miui.com/20.10.22/miui_CMI_20.10.22_bcbf6b0596_11.0.zip
+  name: Mi 10 Pro
+  version: 20.10.22
+- android: '11.0'
+  codename: cmi
   date: '2020-10-15'
   download: https://bigota.d.miui.com/20.10.15/miui_CMI_20.10.15_a799efaea3_11.0.zip
   name: Mi 10 Pro
@@ -1708,6 +1714,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_LAVENDER_20.4.27_d292fbcada_10.0.zip
   name: Redmi Note 7/7S
   version: 20.4.27
+- android: '11.0'
+  codename: lmi
+  date: '2020-10-23'
+  download: https://bigota.d.miui.com/20.10.22/miui_LMI_20.10.22_af8ae0219c_11.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: 20.10.22
 - android: '11.0'
   codename: lmi
   date: '2020-10-15'
@@ -3112,6 +3124,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_TUCANA_20.4.27_abeb5b26f5_10.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 20.4.27
+- android: '11.0'
+  codename: umi
+  date: '2020-10-23'
+  download: https://bigota.d.miui.com/20.10.22/miui_UMI_20.10.22_3277415dda_11.0.zip
+  name: Mi 10
+  version: 20.10.22
 - android: '11.0'
   codename: umi
   date: '2020-10-15'

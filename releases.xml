@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 23 Oct 2020 02:40:40 +0900</pubDate>
+  <pubDate>Fri, 23 Oct 2020 20:44:15 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V12.0.3.0.QFJEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 23 Oct 2020 20:44:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - 20.10.22</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 23 Oct 2020 20:32:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.10.22</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Fri, 23 Oct 2020 20:31:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - 20.10.22</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 23 Oct 2020 20:29:51 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7 Pro (violet) - 20.10.22</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
@@ -85,26 +105,6 @@
     <title>Redmi K30 Ultra (cezanne) - 20.10.22</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
     <pubDate>Fri, 23 Oct 2020 02:20:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.10.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 23 Oct 2020 02:19:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - 20.10.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 23 Oct 2020 02:18:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 20.10.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 23 Oct 2020 02:18:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - 20.10.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Fri, 23 Oct 2020 02:17:32 +0900</pubDate>
   </item>
     </channel>
 </rss>
