@@ -54,7 +54,7 @@ permalink: /miui/angelicain/
                 <tbody>
                 <tr><td>POCO C3 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QCRINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-08-12</td><td><a href="/miui/angelicain/stable/V12.0.1.0.QCRINXM/">Download</a></td></tr>
 <tr><td>POCO C3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>None</td><td><a href="/miui/angelicain/stable/V12.0.1.0.QCRINXM/">Download</a></td></tr>
-<tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>None</td><td><a href="/miui/angelicain/stable beta/V12.0.2.0.QCRINXM/">Download</a></td></tr>
+<tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-10-20</td><td><a href="/miui/angelicain/stable beta/V12.0.2.0.QCRINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -14118,6 +14118,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2020-10-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-23.10.2020/fw_ginkgo_miui_GINKGO_V11.0.8.0.PCOCNXM_40bbde64f6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGO_V11.0.8.0.PCOCNXM_40bbde64f6_9.0.zip
+  filename: fw_ginkgo_miui_GINKGO_V11.0.8.0.PCOCNXM_40bbde64f6_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.8.0.PCOCNXM
 - branch: weekly
   date: '2020-10-22'
   downloads:
