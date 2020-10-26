@@ -52,9 +52,7 @@ permalink: /archive/miui/angelica/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-10-20</td><td><a href="/miui/angelicain/stable/V12.0.1.0.QCRINXM/">Download</a></td></tr>
-<tr><td>POCO C3 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QCRINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-08-12</td><td><a href="/miui/angelicain/stable/V12.0.1.0.QCRINXM/">Download</a></td></tr>
-<tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-10-20</td><td><a href="/miui/angelicain/stable beta/V12.0.2.0.QCRINXM/">Download</a></td></tr>
+                <tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-10-20</td><td><a href="/miui/angelicain/stable beta/V12.0.2.0.QCRINXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCSMIXM</td><td>10.0</td><td>1.6 GB</td><td>2020-09-24</td><td><a href="/miui/angelican/stable/V12.0.2.0.QCSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCSMIXM</td><td>10.0</td><td>3.2 GB</td><td>2020-08-25</td><td><a href="/miui/angelican/stable/V12.0.2.0.QCSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCREUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-09-21</td><td><a href="/miui/angelica/stable/V12.0.4.0.QCREUXM/">Download</a></td></tr>
@@ -73,6 +71,8 @@ permalink: /archive/miui/angelica/
 <tr><td>Redmi 9C Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QCRMIXM</td><td>10.0</td><td>3.2 GB</td><td>2020-08-25</td><td><a href="/miui/angelica/stable/V12.0.4.0.QCRMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCREUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-09-01</td><td><a href="/miui/angelica/stable/V12.0.3.0.QCREUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCREUXM</td><td>10.0</td><td>3.3 GB</td><td>2020-08-25</td><td><a href="/miui/angelica/stable/V12.0.3.0.QCREUXM/">Download</a></td></tr>
+<tr><td>POCO C3 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QCRINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-08-12</td><td><a href="/miui/angelicain/stable/V12.0.1.0.QCRINXM/">Download</a></td></tr>
+<tr><td>POCO C3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>None</td><td><a href="/miui/angelicain/stable/V12.0.1.0.QCRINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

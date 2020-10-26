@@ -1,7 +1,7 @@
 ---
-title: Mi 10T/Mi 10T Pro (apollo) Vendor Downloads
+title: Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) Vendor Downloads
 layout: download
-name: Mi 10T/Mi 10T Pro
+name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
 codename: apollo
 permalink: /archive/vendor/apollo/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/vendor/apollo/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/vendor/">Vendor</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/vendor/apollo/">Mi 10T/Mi 10T Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/vendor/apollo/">Redmi K30S Ultra/Mi 10T/Mi 10T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
