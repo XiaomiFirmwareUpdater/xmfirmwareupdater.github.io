@@ -69,6 +69,16 @@
     android: '10.0'
     miui: V12.0.3.0.QCSEUXM
 - branch: stable
+  date: '2020-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-26.10.2020/fw_apollo_miui_APOLLO_V12.0.3.0.QJDCNXM_5761a67d85_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLO_V12.0.3.0.QJDCNXM_5761a67d85_10.0.zip
+  filename: fw_apollo_miui_APOLLO_V12.0.3.0.QJDCNXM_5761a67d85_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJDCNXM
+- branch: stable
   date: '2020-10-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-15.10.2020/fw_apollo_miui_APOLLOEEAGlobal_V12.0.6.0.QJDEUXM_13a98019c8_10.0.zip
@@ -1149,15 +1159,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2020-09-17'
+  date: '2020-10-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-17.09.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.5.0.QJCMIXM_672b562f4a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTGlobal_V11.0.5.0.QJCMIXM_672b562f4a_10.0.zip
-  filename: fw_lancelot_miui_LANCELOTGlobal_V11.0.5.0.QJCMIXM_672b562f4a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-26.10.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.8.0.QJCMIXM_a7aead523b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTGlobal_V11.0.8.0.QJCMIXM_a7aead523b_10.0.zip
+  filename: fw_lancelot_miui_LANCELOTGlobal_V11.0.8.0.QJCMIXM_a7aead523b_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.5.0.QJCMIXM
+    miui: V11.0.8.0.QJCMIXM
 - branch: stable
   date: '2020-09-27'
   downloads:
@@ -2479,15 +2489,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2020-07-27'
+  date: '2020-10-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-27.07.2020/fw_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
-  filename: fw_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-26.10.2020/fw_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QFNMIXM
+    miui: V12.0.2.0.QFNMIXM
 - branch: stable
   date: '2020-09-14'
   downloads:
