@@ -52,13 +52,13 @@ permalink: /miui/beryllium/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F1 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.QEJMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-06</td><td><a href="/miui/beryllium/stable/V11.0.9.0.QEJMIXM/">Download</a></td></tr>
-<tr><td>POCO F1 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.9.0.QEJMIXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-15</td><td><a href="/miui/beryllium/stable/V11.0.9.0.QEJMIXM/">Download</a></td></tr>
+                <tr><td>POCO F1 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QEJMIXM</td><td>10.0</td><td>2.6 GB</td><td>2020-09-25</td><td><a href="/miui/beryllium/stable/V12.0.2.0.QEJMIXM/">Download</a></td></tr>
+<tr><td>POCO F1 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QEJMIXM</td><td>10.0</td><td>2.0 GB</td><td>2020-10-09</td><td><a href="/miui/beryllium/stable/V12.0.2.0.QEJMIXM/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.8 GB</td><td>2019-06-28</td><td><a href="/miui/beryllium/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>2.0 GB</td><td>2019-06-28</td><td><a href="/miui/beryllium/weekly/9.6.27/">Download</a></td></tr>
-<tr><td>POCO F1 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QEJMIXM</td><td>10.0</td><td>2.0 GB</td><td>2020-10-09</td><td><a href="/miui/beryllium/stable beta/V12.0.2.0.QEJMIXM/">Download</a></td></tr>
-<tr><td>POCO F1 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QEJRUXM</td><td>10.0</td><td>2.6 GB</td><td>2020-09-07</td><td><a href="/miui/beryllium/stable/V12.0.2.0.QEJRUXM/">Download</a></td></tr>
-<tr><td>POCO F1 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QEJRUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-09-14</td><td><a href="/miui/beryllium/stable/V12.0.2.0.QEJRUXM/">Download</a></td></tr>
+<tr><td>POCO F1 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QEJMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-09-09</td><td><a href="/miui/beryllium/stable beta/V12.0.1.0.QEJMIXM/">Download</a></td></tr>
+<tr><td>POCO F1 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QEJRUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-13</td><td><a href="/miui/beryllium/stable/V11.0.4.0.QEJRUXM/">Download</a></td></tr>
+<tr><td>POCO F1 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QEJRUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-21</td><td><a href="/miui/beryllium/stable/V11.0.4.0.QEJRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
