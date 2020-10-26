@@ -439,4 +439,6 @@ openx.com, 540899687, RESELLER, 6a698e2ec38604c6
 cmcm.com, 127, RESELLER
 appnexus.com, 9538, RESELLER, f5ab79cb980f11d1
 pubmatic.com, 159803, RESELLER, 5d62403b186f2ace
+google.com, pub-9035087792692775, DIRECT, f08c47fec0942fa0
+google.com, pub-9035087792692775, RESELLER, f08c47fec0942fa0
 #VLI END
