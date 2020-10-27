@@ -441,4 +441,12 @@ appnexus.com, 9538, RESELLER, f5ab79cb980f11d1
 pubmatic.com, 159803, RESELLER, 5d62403b186f2ace
 google.com, pub-9035087792692775, DIRECT, f08c47fec0942fa0
 google.com, pub-9035087792692775, RESELLER, f08c47fec0942fa0
+adingo.jp, 24321, DIRECT
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+appnexus.com, 7044, RESELLER, f5ab79cb980f11d1
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+webeyemob.com, 70080, RESELLER
+admixer.net, 3bc509b2-6568-4bd8-a997-9859ba0c9118, RESELLER
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 #VLI END
