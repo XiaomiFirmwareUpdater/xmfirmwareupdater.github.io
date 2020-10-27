@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 27 Oct 2020 04:49:03 +0900</pubDate>
+  <pubDate>Wed, 28 Oct 2020 01:08:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.0.2.0.QFDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Wed, 28 Oct 2020 01:08:04 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V11.0.8.0.QJCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
@@ -100,11 +105,6 @@
     <title>Mi 10 Lite Zoom (vangogh) - 20.10.22</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
     <pubDate>Fri, 23 Oct 2020 02:39:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 20.10.22</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 23 Oct 2020 02:30:11 +0900</pubDate>
   </item>
     </channel>
 </rss>
