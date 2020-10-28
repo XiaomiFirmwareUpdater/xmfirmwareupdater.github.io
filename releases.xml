@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 28 Oct 2020 16:54:32 +0900</pubDate>
+  <pubDate>Thu, 29 Oct 2020 01:15:55 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 Pro (cmi) - V12.0.5.0.QJAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Thu, 29 Oct 2020 01:15:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.10.0.QJDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Thu, 29 Oct 2020 01:14:43 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 (ginkgo) - V12.0.1.0.QCOMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
@@ -95,16 +105,6 @@
     <title>Mi 10 Pro (cmi) - V12.0.5.0.QJAMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
     <pubDate>Tue, 27 Oct 2020 01:22:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO F1 (beryllium) - V12.0.1.0.QEJMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/beryllium</link>
-    <pubDate>Tue, 27 Oct 2020 01:21:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.0.1.0.QJWEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
-    <pubDate>Sat, 24 Oct 2020 01:22:57 +0900</pubDate>
   </item>
     </channel>
 </rss>
