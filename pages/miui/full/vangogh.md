@@ -52,7 +52,8 @@ permalink: /archive/miui/vangogh/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>20.10.22</td><td>11.0</td><td>3.7 GB</td><td>2020-10-22</td><td><a href="/miui/vangogh/weekly/20.10.22/">Download</a></td></tr>
+                <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>20.10.29</td><td>11.0</td><td>3.7 GB</td><td>2020-10-29</td><td><a href="/miui/vangogh/weekly/20.10.29/">Download</a></td></tr>
+<tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>20.10.22</td><td>11.0</td><td>3.7 GB</td><td>2020-10-22</td><td><a href="/miui/vangogh/weekly/20.10.22/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>20.10.15</td><td>11.0</td><td>3.6 GB</td><td>2020-10-15</td><td><a href="/miui/vangogh/weekly/20.10.15/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>20.9.24</td><td>11.0</td><td>3.6 GB</td><td>2020-09-24</td><td><a href="/miui/vangogh/weekly/20.9.24/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJVCNXM</td><td>10.0</td><td>3.3 GB</td><td>2020-09-18</td><td><a href="/miui/vangogh/stable/V12.0.6.0.QJVCNXM/">Download</a></td></tr>
