@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cattail/releases/download/stable-29.10.2020/fw_cattail_miui_CATTAILINGlobal_V12.0.2.0.QCTINXM_4cab0e6287_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.0.2.0.QCTINXM_4cab0e6287_10.0.zip
+  filename: fw_cattail_miui_CATTAILINGlobal_V12.0.2.0.QCTINXM_4cab0e6287_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCTINXM
+- branch: stable
   date: '2020-09-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cattail/releases/download/stable-08.09.2020/fw_cattail_miui_CATTAILINGlobal_V12.0.1.0.QCTINXM_b9eab18015_10.0.zip

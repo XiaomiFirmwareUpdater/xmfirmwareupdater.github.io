@@ -1529,6 +1529,16 @@
     android: '9.0'
     miui: V10.4.3.0.PGGINXM
 - branch: stable
+  date: '2020-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-29.10.2020/fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/beryllium/fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+  filename: fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QEJMIXM
+- branch: stable
   date: '2020-10-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-26.10.2020/fw_beryllium_miui_POCOF1Global_V12.0.1.0.QEJMIXM_93e6428303_10.0.zip
@@ -4568,6 +4578,16 @@
   versions:
     android: '10.0'
     miui: V12.0.6.0.QJJCNXM
+- branch: stable
+  date: '2020-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cattail/releases/download/stable-29.10.2020/fw_cattail_miui_CATTAILINGlobal_V12.0.2.0.QCTINXM_4cab0e6287_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.0.2.0.QCTINXM_4cab0e6287_10.0.zip
+  filename: fw_cattail_miui_CATTAILINGlobal_V12.0.2.0.QCTINXM_4cab0e6287_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCTINXM
 - branch: stable
   date: '2020-09-08'
   downloads:
@@ -30228,6 +30248,16 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PCQINXM
+- branch: stable
+  date: '2020-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-29.10.2020/fw_onc_miui_ONCLITE_V11.0.5.0.PFLCNXM_2aee4cee08_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITE_V11.0.5.0.PFLCNXM_2aee4cee08_9.0.zip
+  filename: fw_onc_miui_ONCLITE_V11.0.5.0.PFLCNXM_2aee4cee08_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PFLCNXM
 - branch: stable
   date: '2020-09-29'
   downloads:

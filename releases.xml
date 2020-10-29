@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 29 Oct 2020 13:07:15 +0900</pubDate>
+  <pubDate>Thu, 29 Oct 2020 15:38:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.5.0.PFLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Thu, 29 Oct 2020 15:38:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9 (cattail) - V12.0.2.0.QCTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
+    <pubDate>Thu, 29 Oct 2020 15:38:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO F1 (beryllium) - V12.0.2.0.QEJMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/beryllium</link>
+    <pubDate>Thu, 29 Oct 2020 15:37:42 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7/7S (lavender) - V12.0.2.0.QFGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
@@ -90,21 +105,6 @@
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.0.3.0.QFKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Tue, 27 Oct 2020 01:26:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.0.3.0.QFKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 27 Oct 2020 01:25:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.0.4.0.QFCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Tue, 27 Oct 2020 01:24:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.0.7.0.QGICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Tue, 27 Oct 2020 01:23:50 +0900</pubDate>
   </item>
     </channel>
 </rss>

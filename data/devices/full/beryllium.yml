@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-29.10.2020/fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/beryllium/fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+  filename: fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QEJMIXM
+- branch: stable
   date: '2020-10-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-26.10.2020/fw_beryllium_miui_POCOF1Global_V12.0.1.0.QEJMIXM_93e6428303_10.0.zip
