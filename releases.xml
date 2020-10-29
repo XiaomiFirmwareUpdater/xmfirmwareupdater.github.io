@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 29 Oct 2020 01:15:55 +0900</pubDate>
+  <pubDate>Thu, 29 Oct 2020 13:07:15 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - V12.0.2.0.QFGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Thu, 29 Oct 2020 13:07:15 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Pro (cmi) - V12.0.5.0.QJAEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.0.7.0.QGICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Tue, 27 Oct 2020 01:23:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V12.0.5.0.QJAMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Tue, 27 Oct 2020 01:22:10 +0900</pubDate>
   </item>
     </channel>
 </rss>
