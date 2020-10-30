@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 30 Oct 2020 04:03:55 +0900</pubDate>
+  <pubDate>Sat, 31 Oct 2020 04:39:56 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X3 NFC (surya) - V12.0.4.0.QJGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Sat, 31 Oct 2020 04:39:56 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO X3 NFC (surya) - V12.0.4.0.QJGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Sat, 31 Oct 2020 04:38:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - V12.0.1.0.QFGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Sat, 31 Oct 2020 04:34:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/9AT (dandelion) - V12.0.4.0.QCDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Sat, 31 Oct 2020 04:29:00 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C3 (angelicain) - V12.0.2.0.QCRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
+    <pubDate>Sat, 31 Oct 2020 04:20:45 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Lite Zoom (vangogh) - 20.10.29</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
@@ -80,31 +105,6 @@
     <title>Redmi Note 8 (ginkgo) - 20.10.29</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
     <pubDate>Fri, 30 Oct 2020 03:35:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - 20.10.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Fri, 30 Oct 2020 03:34:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - 20.10.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Fri, 30 Oct 2020 03:33:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - 20.10.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Fri, 30 Oct 2020 03:32:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.10.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 30 Oct 2020 03:31:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - 20.10.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 30 Oct 2020 03:30:36 +0900</pubDate>
   </item>
     </channel>
 </rss>

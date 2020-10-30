@@ -199,6 +199,16 @@
     android: '10.0'
     miui: V12.0.4.0.QCRMIXM
 - branch: stable
+  date: '2020-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelicain/releases/download/stable-30.10.2020/fw_angelicain_miui_ANGELICAININGlobal_V12.0.2.0.QCRINXM_5f28a491aa_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.2.0.QCRINXM_5f28a491aa_10.0.zip
+  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.2.0.QCRINXM_5f28a491aa_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCRINXM
+- branch: stable
   date: '2020-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelican/releases/download/stable-24.09.2020/fw_angelican_miui_ANGELICANGlobal_V12.0.2.0.QCSMIXM_de995da929_10.0.zip
@@ -9568,6 +9578,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJWINXM
+- branch: stable
+  date: '2020-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-30.10.2020/fw_dandelion_miui_DANDELION_V12.0.4.0.QCDCNXM_af2dd16f15_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.0.4.0.QCDCNXM_af2dd16f15_10.0.zip
+  filename: fw_dandelion_miui_DANDELION_V12.0.4.0.QCDCNXM_af2dd16f15_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QCDCNXM
 - branch: stable
   date: '2020-10-27'
   downloads:
@@ -21798,6 +21818,16 @@
   versions:
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
+- branch: stable
+  date: '2020-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-30.10.2020/fw_lavender_miui_LAVENDERGlobal_V12.0.1.0.QFGMIXM_c3fa7eb012_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lavender/fw_lavender_miui_LAVENDERGlobal_V12.0.1.0.QFGMIXM_c3fa7eb012_10.0.zip
+  filename: fw_lavender_miui_LAVENDERGlobal_V12.0.1.0.QFGMIXM_c3fa7eb012_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFGMIXM
 - branch: weekly
   date: '2020-10-29'
   downloads:
@@ -49628,6 +49658,26 @@
   versions:
     android: '8.1'
     miui: 8.6.18
+- branch: stable
+  date: '2020-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-30.10.2020/fw_surya_miui_SURYAEEAGlobal_V12.0.4.0.QJGEUXM_6898c27142_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.0.4.0.QJGEUXM_6898c27142_10.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V12.0.4.0.QJGEUXM_6898c27142_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QJGEUXM
+- branch: stable
+  date: '2020-10-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-30.10.2020/fw_surya_miui_SURYAGlobal_V12.0.4.0.QJGMIXM_642635657e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.0.4.0.QJGMIXM_642635657e_10.0.zip
+  filename: fw_surya_miui_SURYAGlobal_V12.0.4.0.QJGMIXM_642635657e_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QJGMIXM
 - branch: stable
   date: '2020-10-10'
   downloads:
