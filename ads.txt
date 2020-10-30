@@ -449,4 +449,8 @@ webeyemob.com, 70080, RESELLER
 admixer.net, 3bc509b2-6568-4bd8-a997-9859ba0c9118, RESELLER
 pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
+gumgum.com, 13395, DIRECT, ffdef49475d318a9
+33across.com, 0013300001r0t9mAAA, RESELLER, bbea06d9c4d2853c
+aps.amazon.com, 2840f06c-5d89-4853-a03e-3bfa567dd33c, RESELLER
+outbrain.com, 00254374f0c468f3b2732db17fd42cb6e5, RESELLER
 #VLI END
