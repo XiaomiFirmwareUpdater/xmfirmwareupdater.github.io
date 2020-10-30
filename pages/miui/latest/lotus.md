@@ -58,9 +58,8 @@ permalink: /miui/lotus/
 <tr><td>Mi Play China</td><td>Weekly</td><td>Recovery</td><td>20.1.2</td><td>8.1</td><td>2.1 GB</td><td>2020-01-02</td><td><a href="/miui/lotus/weekly/20.1.2/">Download</a></td></tr>
 <tr><td>Mi Play Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.OFIMIXM</td><td>8.1</td><td>2.1 GB</td><td>2020-10-17</td><td><a href="/miui/lotus/stable/V11.0.9.0.OFIMIXM/">Download</a></td></tr>
 <tr><td>Mi Play Global</td><td>Stable</td><td>Recovery</td><td>V11.0.9.0.OFIMIXM</td><td>8.1</td><td>1.7 GB</td><td>2020-10-22</td><td><a href="/miui/lotus/stable/V11.0.9.0.OFIMIXM/">Download</a></td></tr>
-<tr><td>Mi Play Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.OFIRUXM</td><td>8.1</td><td>2.1 GB</td><td>2020-08-18</td><td><a href="/miui/lotus/stable/V11.0.9.0.OFIRUXM/">Download</a></td></tr>
-<tr><td>Mi Play Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.9.0.OFIRUXM</td><td>8.1</td><td>1.7 GB</td><td>2020-08-21</td><td><a href="/miui/lotus/stable/V11.0.9.0.OFIRUXM/">Download</a></td></tr>
-<tr><td>Mi Play Russia</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.10.0.OFIRUXM</td><td>8.1</td><td>1.7 GB</td><td>2020-10-21</td><td><a href="/miui/lotus/stable beta/V11.0.10.0.OFIRUXM/">Download</a></td></tr>
+<tr><td>Mi Play Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.10.0.OFIRUXM</td><td>8.1</td><td>2.1 GB</td><td>2020-10-17</td><td><a href="/miui/lotus/stable/V11.0.10.0.OFIRUXM/">Download</a></td></tr>
+<tr><td>Mi Play Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.OFIRUXM</td><td>8.1</td><td>1.7 GB</td><td>2020-10-21</td><td><a href="/miui/lotus/stable/V11.0.10.0.OFIRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
