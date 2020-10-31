@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-10-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-31.10.2020/fw_violet_miui_VIOLET_20.10.30_b005a89340_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.30/violet/fw_violet_miui_VIOLET_20.10.30_b005a89340_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.10.30_b005a89340_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.10.30
+- branch: weekly
   date: '2020-10-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-29.10.2020/fw_violet_miui_VIOLET_20.10.29_b8af5559d9_10.0.zip
