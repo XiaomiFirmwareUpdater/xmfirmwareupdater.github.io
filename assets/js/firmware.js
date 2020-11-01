@@ -69,9 +69,9 @@ function loadFirmwareDownloads(device, type) {
                     className: "all",
                     "render": function (data) {
                         return "<form class='form-control-plaintext' style='padding: 0;'>"
-                            + "<a href='#' style='-webkit-appearance: inherit;' type='submit' onclick='redirect(\""
-                            + data.filename
-                            + "\"); return false;'>Download</a></form>";
+                            + "<a href='#' style='-webkit-appearance: inherit;' type='submit' onclick='redirect_to_update(\"/firmware/"
+                            + data.filename.split('_')[1] + "/" + data.branch
+                            + "/" + data.versions.miui + "/\"); return false;'>Download</a></form>";
                     }
                 },
                 { data: 'date', className: "min-mobile-l" }
@@ -147,9 +147,9 @@ function loadLatestFirmware() {
                         className: "all",
                         "render": function (data) {
                             return "<form class='form-control-plaintext' style='padding: 0;'>"
-                                + "<a href='#' style='-webkit-appearance: inherit;' type='submit' onclick='redirect(\""
-                                + data.filename
-                                + "\"); return false;'>Download</a></form>";
+                                + "<a href='#' style='-webkit-appearance: inherit;' type='submit' onclick='redirect_to_update(\"/firmware/"
+                                + data.filename.split('_')[1] + "/" + data.branch
+                                + "/" + data.versions.miui + "/\"); return false;'>Download</a></form>";
                         }
                     },
                     { data: 'date', className: "min-mobile-l" }
@@ -342,6 +342,10 @@ function loadLatestVendor() {
 
 function redirect(filename) {
     window.location.href = "/download?file=" + filename;
+}
+
+function redirect_to_update(url) {
+    window.location.href = url;
 }
 
 // human file size converter

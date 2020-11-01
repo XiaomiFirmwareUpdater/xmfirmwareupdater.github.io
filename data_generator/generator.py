@@ -15,6 +15,7 @@ from humanize import naturalsize
 # Variables
 from database import close_db
 from database.database import get_device_latest, get_device_roms, get_incremental
+from database.firmware import get_all_updates
 
 HEADER = {'Authorization': f'token {environ["GIT_OAUTH_TOKEN_XFU"]}'}
 VARIANTS = [['stable', 'Global'], ['stable', 'China'], ['weekly', 'Global'], ['weekly', 'China'],
@@ -30,6 +31,8 @@ NAMES = {}
 
 with open("update_page.template", 'r') as file:
     miui_update_page_template = Template(file.read())
+with open("firmware_update_page.template", 'r') as file:
+    firmware_update_page_template = Template(file.read())
 with open("update.template", 'r') as file:
     miui_update_template = Template(file.read())
 
@@ -205,6 +208,24 @@ def generate_fw_md():
             markdown = Template(markdown).safe_substitute(link=link)
             with open(f'../pages/firmware/{branch}/{codename}.md', 'w', encoding='utf-8') as out:
                 out.write(markdown)
+
+
+def generate_fw_updates_md():
+    updates = get_all_updates()
+    for update in updates:
+        template = firmware_update_page_template
+        codename = update.codename.split("_")[0]
+        markdown = template.safe_substitute(
+            device=update.name, codename=codename, version=update.version,
+            branch=update.branch, branch_lower=update.branch.lower(),
+            date=update.date, size=naturalsize(update.size),
+            filename=update.filename, md5=update.md5 if update.md5 else "Unknown",
+        )
+        files_dir = Path(f'../pages/firmware/updates/{codename}')
+        if not files_dir.exists():
+            files_dir.mkdir(parents=True)
+        with open(f'../pages/firmware/updates/{codename}/{update.version}.md', 'w', encoding='utf-8') as out:
+            out.write(markdown)
 
 
 def load_miui_devices():
@@ -470,6 +491,7 @@ def main():
     load_fw_devices()
     load_releases()
     generate_fw_md()
+    generate_fw_updates_md()
     load_miui_devices()
     generate_miui_md()
     load_vendor_devices()
