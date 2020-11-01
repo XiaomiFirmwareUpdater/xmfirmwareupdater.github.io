@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 01 Nov 2020 03:16:06 +0900</pubDate>
+  <pubDate>Mon, 02 Nov 2020 01:07:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.6.0.QJOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Mon, 02 Nov 2020 01:07:42 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7 Pro (violet) - 20.10.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
@@ -100,11 +105,6 @@
     <title>Mi 9 (cepheus) - 20.10.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
     <pubDate>Sun, 01 Nov 2020 02:24:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - 20.10.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Sun, 01 Nov 2020 02:18:49 +0900</pubDate>
   </item>
     </channel>
 </rss>
