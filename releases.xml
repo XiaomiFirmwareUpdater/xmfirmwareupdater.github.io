@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 03 Nov 2020 01:25:44 +0900</pubDate>
+  <pubDate>Tue, 03 Nov 2020 19:08:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 10 Lite (toco) - V12.0.3.0.QFNMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
+    <pubDate>Tue, 03 Nov 2020 19:08:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.6.0.QJDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Tue, 03 Nov 2020 19:07:45 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V12.0.5.0.QJGINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -95,16 +105,6 @@
     <title>Redmi K20/Mi 9T (davinci) - 20.10.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
     <pubDate>Sun, 01 Nov 2020 02:28:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - 20.10.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Sun, 01 Nov 2020 02:27:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - 20.10.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Sun, 01 Nov 2020 02:26:09 +0900</pubDate>
   </item>
     </channel>
 </rss>

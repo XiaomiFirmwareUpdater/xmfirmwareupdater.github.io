@@ -52,9 +52,8 @@ permalink: /miui/monet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJIEUXM</td><td>10.0</td><td>4.4 GB</td><td>2020-08-18</td><td><a href="/miui/monet/stable/V12.0.2.0.QJIEUXM/">Download</a></td></tr>
-<tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJIEUXM</td><td>10.0</td><td>2.8 GB</td><td>2020-08-31</td><td><a href="/miui/monet/stable/V12.0.2.0.QJIEUXM/">Download</a></td></tr>
-<tr><td>Mi 10 Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QJIEUXM</td><td>10.0</td><td>2.8 GB</td><td>2020-10-27</td><td><a href="/miui/monet/stable beta/V12.0.3.0.QJIEUXM/">Download</a></td></tr>
+                <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QJIEUXM</td><td>10.0</td><td>4.4 GB</td><td>2020-10-17</td><td><a href="/miui/monet/stable/V12.0.3.0.QJIEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QJIEUXM</td><td>10.0</td><td>2.8 GB</td><td>2020-10-27</td><td><a href="/miui/monet/stable/V12.0.3.0.QJIEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJIMIXM</td><td>10.0</td><td>4.4 GB</td><td>2020-10-17</td><td><a href="/miui/monet/stable/V12.0.2.0.QJIMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJIMIXM</td><td>10.0</td><td>2.8 GB</td><td>2020-10-27</td><td><a href="/miui/monet/stable/V12.0.2.0.QJIMIXM/">Download</a></td></tr>
 
