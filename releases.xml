@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 04 Nov 2020 01:16:02 +0900</pubDate>
+  <pubDate>Wed, 04 Nov 2020 01:29:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9A/9AT (dandelion) - V12.0.8.0.QCDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Wed, 04 Nov 2020 01:29:38 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Note 10 Lite (toco) - V12.0.2.0.QFNEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
@@ -100,11 +105,6 @@
     <title>Mi CC 9e (laurus) - 20.10.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
     <pubDate>Sun, 01 Nov 2020 02:31:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 20.10.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Sun, 01 Nov 2020 02:30:21 +0900</pubDate>
   </item>
     </channel>
 </rss>
