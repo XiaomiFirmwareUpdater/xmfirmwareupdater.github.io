@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V12.0.3.0.QFNMIXM
 - branch: stable
-  date: '2020-09-14'
+  date: '2020-11-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-14.09.2020/fw_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-03.11.2020/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QFNEUXM
+    miui: V12.0.2.0.QFNEUXM

@@ -52,7 +52,8 @@ permalink: /archive/miui/cattail/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9 India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCTINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-09-13</td><td><a href="/miui/cattail/stable/V12.0.2.0.QCTINXM/">Download</a></td></tr>
+                <tr><td>Redmi 9 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QCTINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-11-03</td><td><a href="/miui/cattail/stable beta/V12.0.3.0.QCTINXM/">Download</a></td></tr>
+<tr><td>Redmi 9 India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCTINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-09-13</td><td><a href="/miui/cattail/stable/V12.0.2.0.QCTINXM/">Download</a></td></tr>
 <tr><td>Redmi 9 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCTINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-09-09</td><td><a href="/miui/cattail/stable/V12.0.2.0.QCTINXM/">Download</a></td></tr>
 <tr><td>Redmi 9 India</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QCTINXM</td><td>10.0</td><td>1.7 GB</td><td>2020-09-08</td><td><a href="/miui/cattail/stable/V12.0.1.0.QCTINXM/">Download</a></td></tr>
 <tr><td>Redmi 9 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QCTINXM</td><td>10.0</td><td>2.6 GB</td><td>2020-07-31</td><td><a href="/miui/cattail/stable/V12.0.1.0.QCTINXM/">Download</a></td></tr>

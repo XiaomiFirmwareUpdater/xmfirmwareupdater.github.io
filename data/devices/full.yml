@@ -199,6 +199,16 @@
     android: '10.0'
     miui: V12.0.4.0.QCRMIXM
 - branch: stable
+  date: '2020-11-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelicain/releases/download/stable-03.11.2020/fw_angelicain_miui_ANGELICAININGlobal_V12.0.3.0.QCRINXM_af313c2641_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.3.0.QCRINXM_af313c2641_10.0.zip
+  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.3.0.QCRINXM_af313c2641_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCRINXM
+- branch: stable
   date: '2020-10-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelicain/releases/download/stable-30.10.2020/fw_angelicain_miui_ANGELICAININGlobal_V12.0.2.0.QCRINXM_5f28a491aa_10.0.zip
@@ -4648,6 +4658,16 @@
   versions:
     android: '10.0'
     miui: V12.0.6.0.QJJCNXM
+- branch: stable
+  date: '2020-11-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cattail/releases/download/stable-03.11.2020/fw_cattail_miui_CATTAILINGlobal_V12.0.3.0.QCTINXM_7b2bb11bfe_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.0.3.0.QCTINXM_7b2bb11bfe_10.0.zip
+  filename: fw_cattail_miui_CATTAILINGlobal_V12.0.3.0.QCTINXM_7b2bb11bfe_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCTINXM
 - branch: stable
   date: '2020-10-29'
   downloads:
@@ -50638,6 +50658,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-11-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-03.11.2020/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFNEUXM
 - branch: stable
   date: '2020-11-03'
   downloads:

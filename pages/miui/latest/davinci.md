@@ -60,9 +60,8 @@ permalink: /miui/davinci/
 <tr><td>Mi 9T EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QFJEUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-10-23</td><td><a href="/miui/davinci/stable/V12.0.3.0.QFJEUXM/">Download</a></td></tr>
 <tr><td>Mi 9T Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QFJMIXM</td><td>10.0</td><td>3.1 GB</td><td>2020-10-10</td><td><a href="/miui/davinci/stable/V12.0.5.0.QFJMIXM/">Download</a></td></tr>
 <tr><td>Mi 9T Global</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QFJMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-10-16</td><td><a href="/miui/davinci/stable/V12.0.5.0.QFJMIXM/">Download</a></td></tr>
-<tr><td>Mi 9T Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QFJRUXM</td><td>10.0</td><td>3.1 GB</td><td>2020-07-12</td><td><a href="/miui/davinci/stable/V12.0.1.0.QFJRUXM/">Download</a></td></tr>
-<tr><td>Mi 9T Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QFJRUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-20</td><td><a href="/miui/davinci/stable/V12.0.1.0.QFJRUXM/">Download</a></td></tr>
-<tr><td>Mi 9T Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QFJRUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-10-23</td><td><a href="/miui/davinci/stable beta/V12.0.2.0.QFJRUXM/">Download</a></td></tr>
+<tr><td>Mi 9T Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFJRUXM</td><td>10.0</td><td>3.1 GB</td><td>2020-10-18</td><td><a href="/miui/davinci/stable/V12.0.2.0.QFJRUXM/">Download</a></td></tr>
+<tr><td>Mi 9T Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFJRUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-10-23</td><td><a href="/miui/davinci/stable/V12.0.2.0.QFJRUXM/">Download</a></td></tr>
 <tr><td>Redmi K20 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QFJINXM</td><td>10.0</td><td>2.8 GB</td><td>2020-10-10</td><td><a href="/miui/davinciin/stable/V12.0.5.0.QFJINXM/">Download</a></td></tr>
 <tr><td>Redmi K20 India</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QFJINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-10-19</td><td><a href="/miui/davinciin/stable/V12.0.5.0.QFJINXM/">Download</a></td></tr>
 
