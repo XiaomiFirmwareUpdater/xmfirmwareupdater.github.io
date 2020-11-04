@@ -69,15 +69,15 @@
     android: '10.0'
     miui: V12.0.2.0.QCSMIXM
 - branch: stable
-  date: '2020-09-16'
+  date: '2020-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelican/releases/download/stable-16.09.2020/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.3.0.QCSEUXM_371a4fc443_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.3.0.QCSEUXM_371a4fc443_10.0.zip
-  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.3.0.QCSEUXM_371a4fc443_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelican/releases/download/stable-04.11.2020/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.4.0.QCSEUXM_e61c5bb519_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.4.0.QCSEUXM_e61c5bb519_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.4.0.QCSEUXM_e61c5bb519_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QCSEUXM
+    miui: V12.0.4.0.QCSEUXM
 - branch: stable
   date: '2020-11-03'
   downloads:
@@ -2529,15 +2529,15 @@
     android: '10.0'
     miui: V12.0.2.0.QFNEUXM
 - branch: stable
-  date: '2020-09-03'
+  date: '2020-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-03.09.2020/fw_tucana_miui_TUCANAGlobal_V12.0.2.0.QFDMIXM_039bbe8a99_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.0.2.0.QFDMIXM_039bbe8a99_10.0.zip
-  filename: fw_tucana_miui_TUCANAGlobal_V12.0.2.0.QFDMIXM_039bbe8a99_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-04.11.2020/fw_tucana_miui_TUCANAGlobal_V12.0.3.0.QFDMIXM_919439d60e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.0.3.0.QFDMIXM_919439d60e_10.0.zip
+  filename: fw_tucana_miui_TUCANAGlobal_V12.0.3.0.QFDMIXM_919439d60e_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QFDMIXM
+    miui: V12.0.3.0.QFDMIXM
 - branch: stable
   date: '2020-10-27'
   downloads:
@@ -2919,15 +2919,15 @@
     android: '10.0'
     miui: V12.0.1.0.QCXMIXM
 - branch: stable
-  date: '2020-08-31'
+  date: '2020-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-31.08.2020/fw_willow_miui_WILLOWEEAGlobal_V11.0.11.0.PCXEUXM_c26cf7d238_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/willow/fw_willow_miui_WILLOWEEAGlobal_V11.0.11.0.PCXEUXM_c26cf7d238_9.0.zip
-  filename: fw_willow_miui_WILLOWEEAGlobal_V11.0.11.0.PCXEUXM_c26cf7d238_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-04.11.2020/fw_willow_miui_WILLOWEEAGlobal_V12.0.1.0.QCXEUXM_87056480ce_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWEEAGlobal_V12.0.1.0.QCXEUXM_87056480ce_10.0.zip
+  filename: fw_willow_miui_WILLOWEEAGlobal_V12.0.1.0.QCXEUXM_87056480ce_10.0.zip
   region: Europe
   versions:
-    android: '9.0'
-    miui: V11.0.11.0.PCXEUXM
+    android: '10.0'
+    miui: V12.0.1.0.QCXEUXM
 - branch: stable
   date: '2020-09-30'
   downloads:
