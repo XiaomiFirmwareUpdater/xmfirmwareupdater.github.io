@@ -54,7 +54,7 @@ permalink: /miui/vela/
                 <tbody>
                 <tr><td>Mi CC 9 Meitu Edition China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFECNXM</td><td>10.0</td><td>3.6 GB</td><td>2020-08-16</td><td><a href="/miui/vela/stable/V12.0.2.0.QFECNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 Meitu Edition China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFECNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-08-28</td><td><a href="/miui/vela/stable/V12.0.2.0.QFECNXM/">Download</a></td></tr>
-<tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>20.10.30</td><td>10.0</td><td>2.5 GB</td><td>2020-10-30</td><td><a href="/miui/vela/weekly/20.10.30/">Download</a></td></tr>
+<tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>20.11.5</td><td>10.0</td><td>2.5 GB</td><td>2020-11-05</td><td><a href="/miui/vela/weekly/20.11.5/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
