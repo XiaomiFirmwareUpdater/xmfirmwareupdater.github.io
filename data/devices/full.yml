@@ -19449,6 +19449,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2020-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_joyeuse/releases/download/stable-09.11.2020/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.1.0.QJZMIXM_c98b027c0f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.1.0.QJZMIXM_c98b027c0f_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.0.1.0.QJZMIXM_c98b027c0f_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJZMIXM
+- branch: stable
   date: '2020-09-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_joyeuse/releases/download/stable-28.09.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.6.0.QJZEUXM_c4b7c35845_10.0.zip
