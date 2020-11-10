@@ -14598,6 +14598,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2020-11-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-10.11.2020/fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.QCOINXM_4c43ebdc8f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.QCOINXM_4c43ebdc8f_10.0.zip
+  filename: fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.QCOINXM_4c43ebdc8f_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QCOINXM
 - branch: weekly
   date: '2020-11-06'
   downloads:
@@ -36588,6 +36598,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: stable
+  date: '2020-11-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-10.11.2020/fw_polaris_miui_MIMIX2S_V12.0.2.0.QDGCNXM_28b4fe793d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/polaris/fw_polaris_miui_MIMIX2S_V12.0.2.0.QDGCNXM_28b4fe793d_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V12.0.2.0.QDGCNXM_28b4fe793d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QDGCNXM
 - branch: weekly
   date: '2020-09-05'
   downloads:

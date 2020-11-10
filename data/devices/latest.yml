@@ -879,15 +879,15 @@
     android: '10.0'
     miui: 20.11.5
 - branch: stable
-  date: '2020-09-18'
+  date: '2020-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-18.09.2020/fw_ginkgo_miui_GINKGOINGlobal_V11.0.6.0.PCOINXM_db45b8a97a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V11.0.6.0.PCOINXM_db45b8a97a_9.0.zip
-  filename: fw_ginkgo_miui_GINKGOINGlobal_V11.0.6.0.PCOINXM_db45b8a97a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-10.11.2020/fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.QCOINXM_4c43ebdc8f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.QCOINXM_4c43ebdc8f_10.0.zip
+  filename: fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.QCOINXM_4c43ebdc8f_10.0.zip
   region: India
   versions:
-    android: '9.0'
-    miui: V11.0.6.0.PCOINXM
+    android: '10.0'
+    miui: V12.0.1.0.QCOINXM
 - branch: stable
   date: '2020-09-29'
   downloads:
@@ -2009,15 +2009,15 @@
     android: '10.0'
     miui: V12.0.1.0.QDGMIXM
 - branch: stable
-  date: '2020-08-12'
+  date: '2020-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-12.08.2020/fw_polaris_miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/polaris/fw_polaris_miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip
-  filename: fw_polaris_miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-10.11.2020/fw_polaris_miui_MIMIX2S_V12.0.2.0.QDGCNXM_28b4fe793d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/polaris/fw_polaris_miui_MIMIX2S_V12.0.2.0.QDGCNXM_28b4fe793d_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V12.0.2.0.QDGCNXM_28b4fe793d_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QDGCNXM
+    miui: V12.0.2.0.QDGCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:

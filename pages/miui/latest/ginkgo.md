@@ -61,6 +61,7 @@ permalink: /miui/ginkgo/
 <tr><td>Redmi Note 8 Indonesia</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.PCOIDXM</td><td>9.0</td><td>2.1 GB</td><td>2020-10-21</td><td><a href="/miui/ginkgo/stable/V11.0.7.0.PCOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PCOINXM</td><td>9.0</td><td>2.8 GB</td><td>2020-09-08</td><td><a href="/miui/ginkgo/stable/V11.0.6.0.PCOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 India</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PCOINXM</td><td>9.0</td><td>2.0 GB</td><td>2020-09-15</td><td><a href="/miui/ginkgo/stable/V11.0.6.0.PCOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QCOINXM</td><td>10.0</td><td>2.1 GB</td><td>2020-11-10</td><td><a href="/miui/ginkgo/stable beta/V12.0.1.0.QCOINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
