@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 10 Nov 2020 02:47:21 +0900</pubDate>
+  <pubDate>Tue, 10 Nov 2020 19:16:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V12.0.6.0.QFJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Tue, 10 Nov 2020 19:16:42 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 Pro (joyeuse) - V12.0.1.0.QJZMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
@@ -100,11 +105,6 @@
     <title>Mi 9 SE (grus) - 20.11.5</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
     <pubDate>Fri, 06 Nov 2020 20:23:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 20.11.5</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 06 Nov 2020 20:23:05 +0900</pubDate>
   </item>
     </channel>
 </rss>
