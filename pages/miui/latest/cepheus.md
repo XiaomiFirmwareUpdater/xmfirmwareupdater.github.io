@@ -58,10 +58,12 @@ permalink: /miui/cepheus/
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>20.11.5</td><td>10.0</td><td>2.8 GB</td><td>2020-11-05</td><td><a href="/miui/cepheus/weekly/20.11.5/">Download</a></td></tr>
 <tr><td>Mi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFAEUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-08-20</td><td><a href="/miui/cepheus/stable/V12.0.2.0.QFAEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFAEUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-08-28</td><td><a href="/miui/cepheus/stable/V12.0.2.0.QFAEUXM/">Download</a></td></tr>
+<tr><td>Mi 9 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QFAEUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-11-11</td><td><a href="/miui/cepheus/stable beta/V12.0.3.0.QFAEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFAMIXM</td><td>10.0</td><td>3.2 GB</td><td>2020-08-20</td><td><a href="/miui/cepheus/stable/V12.0.2.0.QFAMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFAMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-08-26</td><td><a href="/miui/cepheus/stable/V12.0.2.0.QFAMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>3.3 GB</td><td>2019-06-28</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>2.5 GB</td><td>2019-06-28</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>Mi 9 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QFAMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-11-11</td><td><a href="/miui/cepheus/stable beta/V12.0.3.0.QFAMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFARUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-09-07</td><td><a href="/miui/cepheus/stable/V12.0.2.0.QFARUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFARUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-09-23</td><td><a href="/miui/cepheus/stable/V12.0.2.0.QFARUXM/">Download</a></td></tr>
 
