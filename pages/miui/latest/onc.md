@@ -61,6 +61,7 @@ permalink: /miui/onc/
 <tr><td>Redmi 7 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.PFLEUXM</td><td>9.0</td><td>1.9 GB</td><td>2020-09-04</td><td><a href="/miui/onclite/stable/V11.0.10.0.PFLEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PFLMIXM</td><td>9.0</td><td>2.5 GB</td><td>2020-06-15</td><td><a href="/miui/onclite/stable/V11.0.6.0.PFLMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PFLMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-06-22</td><td><a href="/miui/onclite/stable/V11.0.6.0.PFLMIXM/">Download</a></td></tr>
+<tr><td>Redmi 7 Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.7.0.PFLMIXM</td><td>9.0</td><td>1.8 GB</td><td>2020-11-11</td><td><a href="/miui/onclite/stable beta/V11.0.7.0.PFLMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.PFLINXM</td><td>9.0</td><td>2.2 GB</td><td>2020-08-27</td><td><a href="/miui/onclite/stable/V11.0.7.0.PFLINXM/">Download</a></td></tr>
 <tr><td>Redmi 7 India</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.PFLINXM</td><td>9.0</td><td>1.8 GB</td><td>2020-09-02</td><td><a href="/miui/onclite/stable/V11.0.7.0.PFLINXM/">Download</a></td></tr>
 <tr><td>Redmi 7 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.PFLRUXM</td><td>9.0</td><td>2.5 GB</td><td>2020-08-21</td><td><a href="/miui/onclite/stable/V11.0.8.0.PFLRUXM/">Download</a></td></tr>
