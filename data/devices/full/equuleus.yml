@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-12.11.2020/fw_equuleus_miui_MI8UDGlobal_V12.0.1.0.QECMIXM_7c80eadccc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/equuleus/fw_equuleus_miui_MI8UDGlobal_V12.0.1.0.QECMIXM_7c80eadccc_10.0.zip
+  filename: fw_equuleus_miui_MI8UDGlobal_V12.0.1.0.QECMIXM_7c80eadccc_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QECMIXM
+- branch: stable
   date: '2020-09-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-25.09.2020/fw_equuleus_miui_MI8UDGlobal_V11.0.11.0.QECMIXM_adaa87fb7d_10.0.zip
