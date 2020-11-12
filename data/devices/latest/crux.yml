@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V12.0.4.0.QFXCNXM
 - branch: weekly
-  date: '2020-11-06'
+  date: '2020-11-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-06.11.2020/fw_crux_miui_CRUX_20.11.5_b689f7ee72_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/crux/fw_crux_miui_CRUX_20.11.5_b689f7ee72_10.0.zip
-  filename: fw_crux_miui_CRUX_20.11.5_b689f7ee72_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-12.11.2020/fw_crux_miui_CRUX_20.11.11_0224ecf446_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.11/crux/fw_crux_miui_CRUX_20.11.11_0224ecf446_10.0.zip
+  filename: fw_crux_miui_CRUX_20.11.11_0224ecf446_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.11.5
+    miui: 20.11.11
