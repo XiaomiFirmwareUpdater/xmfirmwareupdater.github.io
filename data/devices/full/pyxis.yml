@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-12.11.2020/fw_pyxis_miui_PYXIS_20.11.11_e5fa9bc289_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.11/pyxis/fw_pyxis_miui_PYXIS_20.11.11_e5fa9bc289_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.11.11_e5fa9bc289_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.11
 - branch: stable
   date: '2020-11-09'
   downloads:

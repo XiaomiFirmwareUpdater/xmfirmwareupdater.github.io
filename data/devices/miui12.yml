@@ -1986,6 +1986,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: lmi
+  date: '2020-11-12'
+  download: https://bigota.d.miui.com/20.11.12/miui_LMI_20.11.12_5fa06dd7fc_11.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: 20.11.12
+- android: '11.0'
+  codename: lmi
   date: '2020-11-06'
   download: https://bigota.d.miui.com/20.11.5/miui_LMI_20.11.5_73f2b5952d_11.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
@@ -2340,6 +2346,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: phoenix
+  date: '2020-11-12'
+  download: https://bigota.d.miui.com/20.11.12/miui_PHOENIX_20.11.12_b8e54a27fc_11.0.zip
+  name: Redmi K30 4G
+  version: 20.11.12
+- android: '11.0'
+  codename: phoenix
   date: '2020-11-06'
   download: https://bigota.d.miui.com/20.11.5/miui_PHOENIX_20.11.5_3f8a2fe17d_11.0.zip
   name: Redmi K30 4G
@@ -2488,6 +2500,18 @@
   download: https://bigota.d.miui.com/20.4.27/miui_PHOENIX_20.4.27_bce2a50650_10.0.zip
   name: Redmi K30 4G
   version: 20.4.27
+- android: '11.0'
+  codename: picasso
+  date: '2020-11-12'
+  download: https://bigota.d.miui.com/20.11.12/miui_PICASSO48M_20.11.12_f1aab38f7e_11.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: 20.11.12
+- android: '11.0'
+  codename: picasso
+  date: '2020-11-12'
+  download: https://bigota.d.miui.com/20.11.12/miui_PICASSO_20.11.12_1f20772379_11.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: 20.11.12
 - android: '11.0'
   codename: picasso
   date: '2020-11-06'
@@ -2868,6 +2892,12 @@
   version: 20.4.27
 - android: '10.0'
   codename: pyxis
+  date: '2020-11-12'
+  download: https://bigota.d.miui.com/20.11.11/miui_PYXIS_20.11.11_e5fa9bc289_10.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 20.11.11
+- android: '10.0'
+  codename: pyxis
   date: '2020-11-06'
   download: https://bigota.d.miui.com/20.11.5/miui_PYXIS_20.11.5_921acf53d4_10.0.zip
   name: Mi CC 9/Mi 9 Lite
@@ -3022,6 +3052,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_PYXIS_20.4.27_a8055982b0_10.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 20.4.27
+- android: '10.0'
+  codename: raphael
+  date: '2020-11-12'
+  download: https://bigota.d.miui.com/20.11.11/miui_RAPHAEL_20.11.11_776ffd504b_10.0.zip
+  name: Redmi K20 Pro/Mi 9T Pro
+  version: 20.11.11
 - android: '10.0'
   codename: raphael
   date: '2020-11-06'
@@ -3378,6 +3414,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: tucana
+  date: '2020-11-12'
+  download: https://bigota.d.miui.com/20.11.12/miui_TUCANA_20.11.12_11e1c8a560_11.0.zip
+  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
+  version: 20.11.12
+- android: '11.0'
+  codename: tucana
   date: '2020-10-31'
   download: https://bigota.d.miui.com/20.10.30/miui_TUCANA_20.10.30_9815a63413_11.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
@@ -3526,6 +3568,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_TUCANA_20.4.27_abeb5b26f5_10.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 20.4.27
+- android: '11.0'
+  codename: umi
+  date: '2020-11-12'
+  download: https://bigota.d.miui.com/20.11.12/miui_UMI_20.11.12_d9fe80c997_11.0.zip
+  name: Mi 10
+  version: 20.11.12
 - android: '11.0'
   codename: umi
   date: '2020-11-06'
@@ -3762,6 +3810,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: vangogh
+  date: '2020-11-12'
+  download: https://bigota.d.miui.com/20.11.12/miui_VANGOGH_20.11.12_789eed53f8_11.0.zip
+  name: Mi 10 Lite Zoom
+  version: 20.11.12
+- android: '11.0'
+  codename: vangogh
   date: '2020-11-06'
   download: https://bigota.d.miui.com/20.11.5/miui_VANGOGH_20.11.5_c0c3275dce_11.0.zip
   name: Mi 10 Lite Zoom
@@ -3862,6 +3916,12 @@
   download: https://bigota.d.miui.com/20.5.28/miui_VANGOGH_20.5.28_a9be7baead_10.0.zip
   name: Mi 10 Lite Zoom
   version: 20.5.28
+- android: '10.0'
+  codename: vela
+  date: '2020-11-12'
+  download: https://bigota.d.miui.com/20.11.11/miui_VELA_20.11.11_3b45380420_10.0.zip
+  name: Mi CC 9 Meitu Edition
+  version: 20.11.11
 - android: '10.0'
   codename: vela
   date: '2020-11-06'

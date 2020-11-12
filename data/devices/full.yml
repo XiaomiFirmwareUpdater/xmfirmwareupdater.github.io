@@ -24969,6 +24969,16 @@
     android: '7.0'
     miui: 8.3.26
 - branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/weekly-12.11.2020/fw_lmi_miui_LMI_20.11.12_5fa06dd7fc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/lmi/fw_lmi_miui_LMI_20.11.12_5fa06dd7fc_11.0.zip
+  filename: fw_lmi_miui_LMI_20.11.12_5fa06dd7fc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
+- branch: weekly
   date: '2020-11-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/weekly-06.11.2020/fw_lmi_miui_LMI_20.11.5_73f2b5952d_11.0.zip
@@ -34049,6 +34059,16 @@
     android: '9.0'
     miui: 8.10.25
 - branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-12.11.2020/fw_phoenix_miui_PHOENIX_20.11.12_b8e54a27fc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/phoenix/fw_phoenix_miui_PHOENIX_20.11.12_b8e54a27fc_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.11.12_b8e54a27fc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
+- branch: weekly
   date: '2020-11-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-06.11.2020/fw_phoenix_miui_PHOENIX_20.11.5_3f8a2fe17d_11.0.zip
@@ -34558,6 +34578,26 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QGHINXM
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-12.11.2020/fw_picasso_miui_PICASSO48M_20.11.12_f1aab38f7e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/picasso/fw_picasso_miui_PICASSO48M_20.11.12_f1aab38f7e_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_20.11.12_f1aab38f7e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-12.11.2020/fw_picasso_miui_PICASSO_20.11.12_1f20772379_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/picasso/fw_picasso_miui_PICASSO_20.11.12_1f20772379_11.0.zip
+  filename: fw_picasso_miui_PICASSO_20.11.12_1f20772379_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
 - branch: weekly
   date: '2020-11-06'
   downloads:
@@ -38948,6 +38988,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-12.11.2020/fw_pyxis_miui_PYXIS_20.11.11_e5fa9bc289_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.11/pyxis/fw_pyxis_miui_PYXIS_20.11.11_e5fa9bc289_10.0.zip
+  filename: fw_pyxis_miui_PYXIS_20.11.11_e5fa9bc289_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.11
 - branch: stable
   date: '2020-11-09'
   downloads:
@@ -39688,6 +39738,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-12.11.2020/fw_raphael_miui_RAPHAEL_20.11.11_776ffd504b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.11/raphael/fw_raphael_miui_RAPHAEL_20.11.11_776ffd504b_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.11.11_776ffd504b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.11
 - branch: weekly
   date: '2020-11-06'
   downloads:
@@ -51318,6 +51378,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-12.11.2020/fw_tucana_miui_TUCANA_20.11.12_11e1c8a560_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/tucana/fw_tucana_miui_TUCANA_20.11.12_11e1c8a560_11.0.zip
+  filename: fw_tucana_miui_TUCANA_20.11.12_11e1c8a560_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
 - branch: stable
   date: '2020-11-12'
   downloads:
@@ -54838,6 +54908,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-12.11.2020/fw_umi_miui_UMI_20.11.12_d9fe80c997_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/umi/fw_umi_miui_UMI_20.11.12_d9fe80c997_11.0.zip
+  filename: fw_umi_miui_UMI_20.11.12_d9fe80c997_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
 - branch: stable
   date: '2020-11-08'
   downloads:
@@ -56419,6 +56499,16 @@
     android: '8.1'
     miui: 8.8.30
 - branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-12.11.2020/fw_vangogh_miui_VANGOGH_20.11.12_789eed53f8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/vangogh/fw_vangogh_miui_VANGOGH_20.11.12_789eed53f8_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_20.11.12_789eed53f8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
+- branch: weekly
   date: '2020-11-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-06.11.2020/fw_vangogh_miui_VANGOGH_20.11.5_c0c3275dce_11.0.zip
@@ -56658,6 +56748,16 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJVCNXM
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-12.11.2020/fw_vela_miui_VELA_20.11.11_3b45380420_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.11/vela/fw_vela_miui_VELA_20.11.11_3b45380420_10.0.zip
+  filename: fw_vela_miui_VELA_20.11.11_3b45380420_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.11
 - branch: weekly
   date: '2020-11-06'
   downloads:

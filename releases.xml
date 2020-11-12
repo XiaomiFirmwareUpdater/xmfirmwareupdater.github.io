@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 13 Nov 2020 01:49:48 +0900</pubDate>
+  <pubDate>Fri, 13 Nov 2020 01:55:25 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Meitu Edition (vela) - 20.11.11</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
+    <pubDate>Fri, 13 Nov 2020 01:55:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Lite Zoom (vangogh) - 20.11.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
+    <pubDate>Fri, 13 Nov 2020 01:54:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - 20.11.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 13 Nov 2020 01:53:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 20.11.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Fri, 13 Nov 2020 01:52:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.11.11</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 13 Nov 2020 01:51:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.11.11</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Fri, 13 Nov 2020 01:50:33 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 20.11.12</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
@@ -75,36 +105,6 @@
     <title>Redmi Note 8 Pro (begonia) - 20.11.11</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
     <pubDate>Fri, 13 Nov 2020 01:25:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 20.11.11</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Fri, 13 Nov 2020 01:24:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.0.2.0.QFDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Thu, 12 Nov 2020 19:09:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 Pro (sakura) - HM6ProINGlobal</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
-    <pubDate>Thu, 12 Nov 2020 19:08:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 6 Pro (sakura) - HM6ProINGlobal</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sakura</link>
-    <pubDate>Thu, 12 Nov 2020 19:08:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V11.0.6.0.QJCINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Thu, 12 Nov 2020 19:07:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - V12.0.1.0.QECMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Thu, 12 Nov 2020 19:07:09 +0900</pubDate>
   </item>
     </channel>
 </rss>
