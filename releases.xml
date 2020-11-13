@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 13 Nov 2020 19:12:20 +0900</pubDate>
+  <pubDate>Sat, 14 Nov 2020 01:08:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro (joyeuse) - V12.0.1.0.QJZEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
+    <pubDate>Sat, 14 Nov 2020 01:08:46 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 Pro (begonia) - V12.0.4.0.QGGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
@@ -100,11 +105,6 @@
     <title>Mi 9 (cepheus) - 20.11.11</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
     <pubDate>Fri, 13 Nov 2020 01:30:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Ultra (cas) - 20.11.12</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
-    <pubDate>Fri, 13 Nov 2020 01:26:33 +0900</pubDate>
   </item>
     </channel>
 </rss>
