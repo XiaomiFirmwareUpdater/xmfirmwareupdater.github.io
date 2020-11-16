@@ -52,7 +52,7 @@ permalink: /archive/miui/polaris/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi MIX 2S China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QDGCNXM</td><td>10.0</td><td>2.2 GB</td><td>2020-11-10</td><td><a href="/miui/polaris/stable beta/V12.0.2.0.QDGCNXM/">Download</a></td></tr>
+                <tr><td>Mi MIX 2S China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QDGCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-11-10</td><td><a href="/miui/polaris/stable beta/V12.0.2.0.QDGCNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2S China</td><td>Weekly</td><td>Recovery</td><td>20.9.4</td><td>10.0</td><td>2.3 GB</td><td>2020-09-04</td><td><a href="/miui/polaris/weekly/20.9.4/">Download</a></td></tr>
 <tr><td>Mi MIX 2S China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>10.0</td><td>2.3 GB</td><td>2020-09-03</td><td><a href="/miui/polaris/weekly/20.9.3/">Download</a></td></tr>
 <tr><td>Mi MIX 2S China</td><td>Weekly</td><td>Recovery</td><td>20.8.27</td><td>10.0</td><td>2.3 GB</td><td>2020-08-27</td><td><a href="/miui/polaris/weekly/20.8.27/">Download</a></td></tr>
