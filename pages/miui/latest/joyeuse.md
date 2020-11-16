@@ -52,9 +52,9 @@ permalink: /miui/joyeuse/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QJZEUXM</td><td>10.0</td><td>4.0 GB</td><td>2020-07-15</td><td><a href="/miui/joyeuse/stable/V11.0.4.0.QJZEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJZEUXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-22</td><td><a href="/miui/joyeuse/stable/V11.0.4.0.QJZEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QJZEUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-11-13</td><td><a href="/miui/joyeuse/stable beta/V12.0.1.0.QJZEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJZEUXM</td><td>10.0</td><td>4.3 GB</td><td>2020-11-10</td><td><a href="/miui/joyeuse/stable/V12.0.1.0.QJZEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJZEUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-11-13</td><td><a href="/miui/joyeuse/stable/V12.0.1.0.QJZEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.6.0.QJZEUXM</td><td>10.0</td><td>2.4 GB</td><td>2020-09-28</td><td><a href="/miui/joyeuse/stable beta/V11.0.6.0.QJZEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJZMIXM</td><td>10.0</td><td>4.2 GB</td><td>2020-11-07</td><td><a href="/miui/joyeuse/stable/V12.0.1.0.QJZMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJZMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-11-09</td><td><a href="/miui/joyeuse/stable/V12.0.1.0.QJZMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJZIDXM</td><td>10.0</td><td>4.0 GB</td><td>2020-10-22</td><td><a href="/miui/joyeuse/stable/V12.0.2.0.QJZIDXM/">Download</a></td></tr>
