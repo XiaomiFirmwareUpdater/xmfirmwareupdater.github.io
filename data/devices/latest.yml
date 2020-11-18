@@ -169,15 +169,15 @@
     android: '10.0'
     miui: 20.11.5
 - branch: stable
-  date: '2020-09-14'
+  date: '2020-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-14.09.2020/fw_begonia_miui_BEGONIAGlobal_V12.0.3.0.QGGMIXM_4bd96ae3c3_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.0.3.0.QGGMIXM_4bd96ae3c3_10.0.zip
-  filename: fw_begonia_miui_BEGONIAGlobal_V12.0.3.0.QGGMIXM_4bd96ae3c3_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-18.11.2020/fw_begonia_miui_BEGONIAGlobal_V12.0.5.0.QGGMIXM_81830ce93c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.0.5.0.QGGMIXM_81830ce93c_10.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V12.0.5.0.QGGMIXM_81830ce93c_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QGGMIXM
+    miui: V12.0.5.0.QGGMIXM
 - branch: stable
   date: '2020-11-13'
   downloads:
@@ -619,15 +619,15 @@
     android: '10.0'
     miui: V12.0.2.0.QJWEUXM
 - branch: stable
-  date: '2020-09-18'
+  date: '2020-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-18.09.2020/fw_curtana_miui_CURTANAINGlobal_V12.0.1.0.QJWINXM_3429e721e1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAINGlobal_V12.0.1.0.QJWINXM_3429e721e1_10.0.zip
-  filename: fw_curtana_miui_CURTANAINGlobal_V12.0.1.0.QJWINXM_3429e721e1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-18.11.2020/fw_curtana_miui_CURTANAINGlobal_V12.0.1.0.RJWINXM_3ad7d510e0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAINGlobal_V12.0.1.0.RJWINXM_3ad7d510e0_11.0.zip
+  filename: fw_curtana_miui_CURTANAINGlobal_V12.0.1.0.RJWINXM_3ad7d510e0_11.0.zip
   region: India
   versions:
-    android: '10.0'
-    miui: V12.0.1.0.QJWINXM
+    android: '11.0'
+    miui: V12.0.1.0.RJWINXM
 - branch: stable
   date: '2020-11-04'
   downloads:
@@ -2439,15 +2439,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-09-18'
+  date: '2020-11-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-18.09.2020/fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/shiva/fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
-  filename: fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-18.11.2020/fw_shiva_miui_SHIVAINGlobal_V11.0.5.0.QJRINXM_1d82d950c2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/shiva/fw_shiva_miui_SHIVAINGlobal_V11.0.5.0.QJRINXM_1d82d950c2_10.0.zip
+  filename: fw_shiva_miui_SHIVAINGlobal_V11.0.5.0.QJRINXM_1d82d950c2_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QJRINXM
+    miui: V11.0.5.0.QJRINXM
 - branch: stable
   date: '2020-09-24'
   downloads:

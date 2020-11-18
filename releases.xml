@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 18 Nov 2020 01:14:10 +0900</pubDate>
+  <pubDate>Wed, 18 Nov 2020 19:10:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO M2 (shiva) - V11.0.5.0.QJRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
+    <pubDate>Wed, 18 Nov 2020 19:10:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.0.1.0.RJWINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Wed, 18 Nov 2020 19:09:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V12.0.5.0.QGGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Wed, 18 Nov 2020 19:08:41 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.3.0.QJDINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - 20.11.11</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Fri, 13 Nov 2020 01:39:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 20.11.11</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Fri, 13 Nov 2020 01:39:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 20.11.11</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Fri, 13 Nov 2020 01:38:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 20.11.11</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 13 Nov 2020 01:34:56 +0900</pubDate>
   </item>
     </channel>
 </rss>
