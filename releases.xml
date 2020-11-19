@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 18 Nov 2020 19:10:02 +0900</pubDate>
+  <pubDate>Thu, 19 Nov 2020 19:18:16 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - V12.0.1.0.QFGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Thu, 19 Nov 2020 19:18:16 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M2 (shiva) - V11.0.5.0.QJRINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 20.11.12</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
     <pubDate>Fri, 13 Nov 2020 01:47:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 20.11.11</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 13 Nov 2020 01:39:45 +0900</pubDate>
   </item>
     </channel>
 </rss>
