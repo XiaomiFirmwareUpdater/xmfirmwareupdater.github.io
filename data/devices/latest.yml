@@ -89,15 +89,15 @@
     android: '10.0'
     miui: V12.0.7.0.QJDMIXM
 - branch: stable
-  date: '2020-10-26'
+  date: '2020-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-26.10.2020/fw_apollo_miui_APOLLO_V12.0.3.0.QJDCNXM_5761a67d85_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLO_V12.0.3.0.QJDCNXM_5761a67d85_10.0.zip
-  filename: fw_apollo_miui_APOLLO_V12.0.3.0.QJDCNXM_5761a67d85_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-19.11.2020/fw_apollo_miui_APOLLO_V12.0.5.0.QJDCNXM_977162f3e6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLO_V12.0.5.0.QJDCNXM_977162f3e6_10.0.zip
+  filename: fw_apollo_miui_APOLLO_V12.0.5.0.QJDCNXM_977162f3e6_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QJDCNXM
+    miui: V12.0.5.0.QJDCNXM
 - branch: weekly
   date: '2020-11-19'
   downloads:
@@ -1779,15 +1779,15 @@
     android: '10.0'
     miui: V11.0.3.0.QFLCNXM
 - branch: stable
-  date: '2020-09-10'
+  date: '2020-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-10.09.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.10.0.PFLEUXM_1bc7606f67_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.10.0.PFLEUXM_1bc7606f67_9.0.zip
-  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.10.0.PFLEUXM_1bc7606f67_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-19.11.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.11.0.PFLEUXM_9e8cf04c77_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.11.0.PFLEUXM_9e8cf04c77_9.0.zip
+  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.11.0.PFLEUXM_9e8cf04c77_9.0.zip
   region: Europe
   versions:
     android: '9.0'
-    miui: V11.0.10.0.PFLEUXM
+    miui: V11.0.11.0.PFLEUXM
 - branch: stable
   date: '2020-09-10'
   downloads:
