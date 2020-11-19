@@ -53,7 +53,7 @@ permalink: /miui/pyxis/
                 </thead>
                 <tbody>
                 <tr><td>Mi CC 9 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QFCCNXM</td><td>10.0</td><td>3.5 GB</td><td>2020-05-17</td><td><a href="/miui/pyxis/stable/V11.0.4.0.QFCCNXM/">Download</a></td></tr>
-<tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>20.11.11</td><td>10.0</td><td>2.5 GB</td><td>2020-11-12</td><td><a href="/miui/pyxis/weekly/20.11.11/">Download</a></td></tr>
+<tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>20.11.18</td><td>10.0</td><td>2.5 GB</td><td>2020-11-19</td><td><a href="/miui/pyxis/weekly/20.11.18/">Download</a></td></tr>
 <tr><td>Mi 9 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QFCEUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-09-10</td><td><a href="/miui/pyxis/stable/V12.0.4.0.QFCEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QFCEUXM</td><td>10.0</td><td>2.6 GB</td><td>2020-11-09</td><td><a href="/miui/pyxis/stable/V12.0.4.0.QFCEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QFCMIXM</td><td>10.0</td><td>3.1 GB</td><td>2020-09-10</td><td><a href="/miui/pyxis/stable/V12.0.4.0.QFCMIXM/">Download</a></td></tr>

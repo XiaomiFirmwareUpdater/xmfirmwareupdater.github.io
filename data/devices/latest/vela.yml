@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V12.0.2.0.QFECNXM
 - branch: weekly
-  date: '2020-11-12'
+  date: '2020-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-12.11.2020/fw_vela_miui_VELA_20.11.11_3b45380420_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.11/vela/fw_vela_miui_VELA_20.11.11_3b45380420_10.0.zip
-  filename: fw_vela_miui_VELA_20.11.11_3b45380420_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-19.11.2020/fw_vela_miui_VELA_20.11.18_d3a04cd89a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/vela/fw_vela_miui_VELA_20.11.18_d3a04cd89a_10.0.zip
+  filename: fw_vela_miui_VELA_20.11.18_d3a04cd89a_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.11.11
+    miui: 20.11.18

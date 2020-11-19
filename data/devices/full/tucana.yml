@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2020-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-19.11.2020/fw_tucana_miui_TUCANA_20.11.18_f43f6b7822_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/tucana/fw_tucana_miui_TUCANA_20.11.18_f43f6b7822_11.0.zip
+  filename: fw_tucana_miui_TUCANA_20.11.18_f43f6b7822_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.18
+- branch: weekly
   date: '2020-11-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-12.11.2020/fw_tucana_miui_TUCANA_20.11.12_11e1c8a560_11.0.zip
