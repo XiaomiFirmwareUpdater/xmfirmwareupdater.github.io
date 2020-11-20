@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 20 Nov 2020 01:22:19 +0900</pubDate>
+  <pubDate>Fri, 20 Nov 2020 19:18:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 3 (perseus) - V12.0.2.0.QEEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Fri, 20 Nov 2020 19:18:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.2.1.0.RJKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Fri, 20 Nov 2020 19:17:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - V12.2.1.0.RJACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 20 Nov 2020 19:16:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.6.0.QCRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Fri, 20 Nov 2020 19:15:23 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V11.0.11.0.PFLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -85,26 +105,6 @@
     <title>Mi 9 SE (grus) - 20.11.18</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
     <pubDate>Thu, 19 Nov 2020 20:39:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 20.11.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Thu, 19 Nov 2020 20:35:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 20.11.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Thu, 19 Nov 2020 20:35:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - 20.11.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Thu, 19 Nov 2020 20:34:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - 20.11.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Thu, 19 Nov 2020 20:33:05 +0900</pubDate>
   </item>
     </channel>
 </rss>
