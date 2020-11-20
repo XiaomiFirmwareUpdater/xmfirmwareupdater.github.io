@@ -54,7 +54,8 @@ permalink: /archive/miui/onclite/
                 <tbody>
                 <tr><td>Redmi 7 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.9.0.PFLRUXM</td><td>9.0</td><td>1.8 GB</td><td>2020-11-19</td><td><a href="/miui/onclite/stable beta/V11.0.9.0.PFLRUXM/">Download</a></td></tr>
 <tr><td>Redmi 7 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.11.0.PFLEUXM</td><td>9.0</td><td>1.8 GB</td><td>2020-11-19</td><td><a href="/miui/onclite/stable beta/V11.0.11.0.PFLEUXM/">Download</a></td></tr>
-<tr><td>Redmi 7 China</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.3.0.QFLCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-11-14</td><td><a href="/miui/onclite/stable beta/V11.0.3.0.QFLCNXM/">Download</a></td></tr>
+<tr><td>Redmi 7 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QFLCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-11-14</td><td><a href="/miui/onclite/stable/V11.0.3.0.QFLCNXM/">Download</a></td></tr>
+<tr><td>Redmi 7 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QFLCNXM</td><td>10.0</td><td>2.8 GB</td><td>2020-11-10</td><td><a href="/miui/onclite/stable/V11.0.3.0.QFLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.PFLMIXM</td><td>9.0</td><td>1.8 GB</td><td>2020-11-11</td><td><a href="/miui/onclite/stable/V11.0.7.0.PFLMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.PFLMIXM</td><td>9.0</td><td>2.4 GB</td><td>2020-10-14</td><td><a href="/miui/onclite/stable/V11.0.7.0.PFLMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7 China</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PFLCNXM</td><td>9.0</td><td>1.9 GB</td><td>2020-09-22</td><td><a href="/miui/onclite/stable/V11.0.5.0.PFLCNXM/">Download</a></td></tr>
@@ -112,13 +113,13 @@ permalink: /archive/miui/onclite/
 <tr><td>Redmi 7 China</td><td>Stable</td><td>Fastboot</td><td>V10.3.5.0.PFLCNXM</td><td>9.0</td><td>2.3 GB</td><td>2019-08-19</td><td><a href="/miui/onclite/stable/V10.3.5.0.PFLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7 China</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PFLCNXM</td><td>9.0</td><td>1.9 GB</td><td>2019-10-09</td><td><a href="/miui/onclite/stable/V11.0.1.0.PFLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PFLCNXM</td><td>9.0</td><td>2.5 GB</td><td>2019-09-23</td><td><a href="/miui/onclite/stable/V11.0.1.0.PFLCNXM/">Download</a></td></tr>
-<tr><td>Redmi 7 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.4.0.PFLMIXM</td><td>9.0</td><td>1.7 GB</td><td>2019-08-26</td><td><a href="/miui/onclite/stable/V10.3.4.0.PFLMIXM/">Download</a></td></tr>
-<tr><td>Redmi 7 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.4.0.PFLMIXM</td><td>9.0</td><td>2.8 GB</td><td>2019-08-22</td><td><a href="/miui/onclite/stable/V10.3.4.0.PFLMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7 EEA</td><td>Stable</td><td>Recovery</td><td>V10.3.4.0.PFLEUXM</td><td>9.0</td><td>1.7 GB</td><td>2019-08-13</td><td><a href="/miui/onclite/stable/V10.3.4.0.PFLEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7 EEA</td><td>Stable</td><td>Fastboot</td><td>V10.3.4.0.PFLEUXM</td><td>9.0</td><td>2.8 GB</td><td>2019-08-05</td><td><a href="/miui/onclite/stable/V10.3.4.0.PFLEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7 India</td><td>Stable</td><td>Recovery</td><td>V10.3.6.0.PFLINXM</td><td>9.0</td><td>1.7 GB</td><td>2019-08-09</td><td><a href="/miui/onclite/stable/V10.3.6.0.PFLINXM/">Download</a></td></tr>
 <tr><td>Redmi 7 India</td><td>Stable</td><td>Fastboot</td><td>V10.3.6.0.PFLINXM</td><td>9.0</td><td>2.3 GB</td><td>2019-08-01</td><td><a href="/miui/onclite/stable/V10.3.6.0.PFLINXM/">Download</a></td></tr>
 <tr><td>Redmi 7 China</td><td>Stable</td><td>Recovery</td><td>V10.3.4.0.PFLCNXM</td><td>9.0</td><td>1.7 GB</td><td>2019-08-06</td><td><a href="/miui/onclite/stable/V10.3.4.0.PFLCNXM/">Download</a></td></tr>
+<tr><td>Redmi 7 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.4.0.PFLMIXM</td><td>9.0</td><td>1.7 GB</td><td>2019-08-26</td><td><a href="/miui/onclite/stable/V10.3.4.0.PFLMIXM/">Download</a></td></tr>
+<tr><td>Redmi 7 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.4.0.PFLMIXM</td><td>9.0</td><td>2.8 GB</td><td>2019-08-22</td><td><a href="/miui/onclite/stable/V10.3.4.0.PFLMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7 China</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PFLCNXM</td><td>9.0</td><td>1.8 GB</td><td>2019-07-23</td><td><a href="/miui/onclite/stable/V10.3.3.0.PFLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.2.0.PFLMIXM</td><td>9.0</td><td>1.7 GB</td><td>2019-07-22</td><td><a href="/miui/onclite/stable/V10.3.2.0.PFLMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7 India</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PFLINXM</td><td>9.0</td><td>1.7 GB</td><td>2019-07-10</td><td><a href="/miui/onclite/stable/V10.3.3.0.PFLINXM/">Download</a></td></tr>
