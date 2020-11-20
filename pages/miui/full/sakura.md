@@ -52,7 +52,8 @@ permalink: /archive/miui/sakura/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 6 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.PDMMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-11-12</td><td><a href="/miui/sakura/stable beta/V12.0.4.0.PDMMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 6 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.PDMMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-11-12</td><td><a href="/miui/sakura/stable/V12.0.4.0.PDMMIXM/">Download</a></td></tr>
+<tr><td>Redmi 6 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.PDMMIXM</td><td>9.0</td><td>2.4 GB</td><td>2020-11-04</td><td><a href="/miui/sakura/stable/V12.0.4.0.PDMMIXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.PDMMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-08-20</td><td><a href="/miui/sakura/stable/V12.0.2.0.PDMMIXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.PDMMIXM</td><td>9.0</td><td>2.3 GB</td><td>2020-08-14</td><td><a href="/miui/sakura/stable/V12.0.2.0.PDMMIXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PDICNXM</td><td>9.0</td><td>1.9 GB</td><td>2020-06-22</td><td><a href="/miui/sakura/stable/V11.0.6.0.PDICNXM/">Download</a></td></tr>
