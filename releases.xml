@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 21 Nov 2020 01:13:53 +0900</pubDate>
+  <pubDate>Sun, 22 Nov 2020 01:08:47 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.1.1.0.RGICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Sun, 22 Nov 2020 01:08:47 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.5.0.QJOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - 20.11.18</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Thu, 19 Nov 2020 20:41:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 20.11.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Thu, 19 Nov 2020 20:40:30 +0900</pubDate>
   </item>
     </channel>
 </rss>
