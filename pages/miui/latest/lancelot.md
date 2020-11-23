@@ -58,8 +58,8 @@ permalink: /miui/lancelot/
 <tr><td>Redmi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.QJCEUXM</td><td>10.0</td><td>3.5 GB</td><td>2020-09-16</td><td><a href="/miui/lancelot/stable/V11.0.8.0.QJCEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.QJCEUXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-19</td><td><a href="/miui/lancelot/stable/V11.0.8.0.QJCEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.QJCEUXM</td><td>10.0</td><td>1.9 GB</td><td>2020-08-13</td><td><a href="/miui/lancelot/stable beta/V11.0.5.0.QJCEUXM/">Download</a></td></tr>
-<tr><td>Redmi 9 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.QJCMIXM</td><td>10.0</td><td>3.4 GB</td><td>2020-09-05</td><td><a href="/miui/lancelot/stable/V11.0.8.0.QJCMIXM/">Download</a></td></tr>
-<tr><td>Redmi 9 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.QJCMIXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-12</td><td><a href="/miui/lancelot/stable/V11.0.8.0.QJCMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.QJCMIXM</td><td>10.0</td><td>3.7 GB</td><td>2020-11-13</td><td><a href="/miui/lancelot/stable/V11.0.9.0.QJCMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.9.0.QJCMIXM</td><td>10.0</td><td>1.9 GB</td><td>2020-11-20</td><td><a href="/miui/lancelot/stable/V11.0.9.0.QJCMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.QJCMIXM</td><td>10.0</td><td>1.9 GB</td><td>2020-08-13</td><td><a href="/miui/lancelot/stable beta/V11.0.5.0.QJCMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.QJCIDXM</td><td>10.0</td><td>3.5 GB</td><td>2020-09-25</td><td><a href="/miui/lancelot/stable/V11.0.6.0.QJCIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Indonesia</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.QJCIDXM</td><td>10.0</td><td>1.9 GB</td><td>2020-09-18</td><td><a href="/miui/lancelot/stable/V11.0.6.0.QJCIDXM/">Download</a></td></tr>
