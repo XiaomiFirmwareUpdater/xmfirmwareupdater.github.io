@@ -11099,6 +11099,16 @@
     android: '9.0'
     miui: V10.3.3.0.PFJINXM
 - branch: stable
+  date: '2020-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-23.11.2020/fw_dipper_miui_MI8Global_V12.0.2.0.QEAMIXM_4e38c51916_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dipper/fw_dipper_miui_MI8Global_V12.0.2.0.QEAMIXM_4e38c51916_10.0.zip
+  filename: fw_dipper_miui_MI8Global_V12.0.2.0.QEAMIXM_4e38c51916_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QEAMIXM
+- branch: stable
   date: '2020-11-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dipper/releases/download/stable-05.11.2020/fw_dipper_miui_MI8_V12.0.3.0.QEACNXM_56da60431d_10.0.zip
@@ -14868,6 +14878,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2020-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-23.11.2020/fw_ginkgo_miui_GINKGO_V12.0.3.0.QCOCNXM_e41fdaaac9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGO_V12.0.3.0.QCOCNXM_e41fdaaac9_10.0.zip
+  filename: fw_ginkgo_miui_GINKGO_V12.0.3.0.QCOCNXM_e41fdaaac9_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QCOCNXM
 - branch: weekly
   date: '2020-11-19'
   downloads:
@@ -31238,6 +31258,16 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PCQINXM
+- branch: stable
+  date: '2020-11-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-23.11.2020/fw_onc_miui_ONCINGlobal_V11.0.12.0.PFFINXM_3905c69fd7_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCINGlobal_V11.0.12.0.PFFINXM_3905c69fd7_9.0.zip
+  filename: fw_onc_miui_ONCINGlobal_V11.0.12.0.PFFINXM_3905c69fd7_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.12.0.PFFINXM
 - branch: stable
   date: '2020-11-19'
   downloads:

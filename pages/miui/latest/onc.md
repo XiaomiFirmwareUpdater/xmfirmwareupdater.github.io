@@ -54,6 +54,7 @@ permalink: /miui/onc/
                 <tbody>
                 <tr><td>Redmi Y3 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.10.0.PFFINXM</td><td>9.0</td><td>2.2 GB</td><td>2020-08-23</td><td><a href="/miui/onc/stable/V11.0.10.0.PFFINXM/">Download</a></td></tr>
 <tr><td>Redmi Y3 India</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.PFFINXM</td><td>9.0</td><td>1.8 GB</td><td>2020-08-26</td><td><a href="/miui/onc/stable/V11.0.10.0.PFFINXM/">Download</a></td></tr>
+<tr><td>Redmi Y3 India</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.12.0.PFFINXM</td><td>9.0</td><td>1.8 GB</td><td>2020-11-23</td><td><a href="/miui/onc/stable beta/V11.0.12.0.PFFINXM/">Download</a></td></tr>
 <tr><td>Redmi 7 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QFLCNXM</td><td>10.0</td><td>2.8 GB</td><td>2020-11-10</td><td><a href="/miui/onclite/stable/V11.0.3.0.QFLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QFLCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-11-14</td><td><a href="/miui/onclite/stable/V11.0.3.0.QFLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7 China</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.2.0.QFLCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-07-30</td><td><a href="/miui/onclite/stable beta/V11.0.2.0.QFLCNXM/">Download</a></td></tr>

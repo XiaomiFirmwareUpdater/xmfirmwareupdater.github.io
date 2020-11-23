@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 23 Nov 2020 19:17:17 +0900</pubDate>
+  <pubDate>Tue, 24 Nov 2020 01:17:44 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.12.0.PFFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Tue, 24 Nov 2020 01:17:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V12.0.3.0.QCOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Tue, 24 Nov 2020 01:17:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 (dipper) - V12.0.2.0.QEAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Tue, 24 Nov 2020 01:16:24 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V12.2.1.0.RJBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -90,21 +105,6 @@
     <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.11.18</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
     <pubDate>Thu, 19 Nov 2020 20:55:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 20.11.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Thu, 19 Nov 2020 20:55:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 20.11.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Thu, 19 Nov 2020 20:54:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 20.11.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Thu, 19 Nov 2020 20:49:12 +0900</pubDate>
   </item>
     </channel>
 </rss>
