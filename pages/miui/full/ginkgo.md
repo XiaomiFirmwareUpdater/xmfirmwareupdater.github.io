@@ -53,6 +53,7 @@ permalink: /archive/miui/ginkgo/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 8 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCOMIXM</td><td>10.0</td><td>2.3 GB</td><td>2020-11-24</td><td><a href="/miui/ginkgo/stable beta/V12.0.2.0.QCOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QCOIDXM</td><td>10.0</td><td>2.3 GB</td><td>2020-11-24</td><td><a href="/miui/ginkgo/stable beta/V12.0.1.0.QCOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QCOCNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-11-23</td><td><a href="/miui/ginkgo/stable beta/V12.0.3.0.QCOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>20.11.18</td><td>10.0</td><td>2.6 GB</td><td>2020-11-19</td><td><a href="/miui/ginkgo/weekly/20.11.18/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>20.11.11</td><td>10.0</td><td>2.6 GB</td><td>2020-11-12</td><td><a href="/miui/ginkgo/weekly/20.11.11/">Download</a></td></tr>
@@ -79,9 +80,9 @@ permalink: /archive/miui/ginkgo/
 <tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.10.0.PCOMIXM</td><td>9.0</td><td>3.6 GB</td><td>2020-09-12</td><td><a href="/miui/ginkgo/stable/V11.0.10.0.PCOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 India</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PCOINXM</td><td>9.0</td><td>2.0 GB</td><td>2020-09-15</td><td><a href="/miui/ginkgo/stable/V11.0.6.0.PCOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PCOINXM</td><td>9.0</td><td>2.8 GB</td><td>2020-09-08</td><td><a href="/miui/ginkgo/stable/V11.0.6.0.PCOINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>20.9.10</td><td>10.0</td><td>2.5 GB</td><td>2020-09-10</td><td><a href="/miui/ginkgo/weekly/20.9.10/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCOCNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-09-30</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.QCOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCOCNXM</td><td>10.0</td><td>3.5 GB</td><td>2020-09-26</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.QCOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>20.9.10</td><td>10.0</td><td>2.5 GB</td><td>2020-09-10</td><td><a href="/miui/ginkgo/weekly/20.9.10/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>10.0</td><td>2.5 GB</td><td>2020-09-03</td><td><a href="/miui/ginkgo/weekly/20.9.3/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>20.8.27</td><td>10.0</td><td>2.5 GB</td><td>2020-08-27</td><td><a href="/miui/ginkgo/weekly/20.8.27/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>10.0</td><td>2.6 GB</td><td>2020-08-20</td><td><a href="/miui/ginkgo/weekly/20.8.20/">Download</a></td></tr>
