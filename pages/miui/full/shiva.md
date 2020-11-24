@@ -52,7 +52,8 @@ permalink: /archive/miui/shiva/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M2 India</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.QJRINXM</td><td>10.0</td><td>1.8 GB</td><td>2020-11-18</td><td><a href="/miui/shiva/stable beta/V11.0.5.0.QJRINXM/">Download</a></td></tr>
+                <tr><td>POCO M2 India</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QJRINXM</td><td>10.0</td><td>1.8 GB</td><td>2020-11-18</td><td><a href="/miui/shiva/stable/V11.0.5.0.QJRINXM/">Download</a></td></tr>
+<tr><td>POCO M2 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QJRINXM</td><td>10.0</td><td>2.7 GB</td><td>2020-11-09</td><td><a href="/miui/shiva/stable/V11.0.5.0.QJRINXM/">Download</a></td></tr>
 <tr><td>POCO M2 India</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJRINXM</td><td>10.0</td><td>1.8 GB</td><td>2020-09-17</td><td><a href="/miui/shiva/stable/V11.0.4.0.QJRINXM/">Download</a></td></tr>
 <tr><td>POCO M2 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QJRINXM</td><td>10.0</td><td>2.7 GB</td><td>2020-09-10</td><td><a href="/miui/shiva/stable/V11.0.4.0.QJRINXM/">Download</a></td></tr>
 
