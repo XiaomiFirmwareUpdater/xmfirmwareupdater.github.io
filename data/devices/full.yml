@@ -278,6 +278,16 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QCSEUXM
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/weekly-26.11.2020/fw_apollo_miui_APOLLO_20.11.25_4c857e3384_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/apollo/fw_apollo_miui_APOLLO_20.11.25_4c857e3384_10.0.zip
+  filename: fw_apollo_miui_APOLLO_20.11.25_4c857e3384_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.25
 - branch: stable
   date: '2020-11-19'
   downloads:
@@ -639,6 +649,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/weekly-26.11.2020/fw_atom_miui_ATOM_20.11.25_6115d1f156_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/atom/fw_atom_miui_ATOM_20.11.25_6115d1f156_11.0.zip
+  filename: fw_atom_miui_ATOM_20.11.25_6115d1f156_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.25
+- branch: weekly
   date: '2020-11-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/weekly-06.11.2020/fw_atom_miui_ATOM_20.11.5_d5863b14f6_10.0.zip
@@ -898,6 +918,16 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QJHCNXM
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-26.11.2020/fw_begonia_miui_BEGONIA_20.11.25_d881bb58ef_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/begonia/fw_begonia_miui_BEGONIA_20.11.25_d881bb58ef_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_20.11.25_d881bb58ef_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.25
 - branch: weekly
   date: '2020-11-19'
   downloads:
@@ -2288,6 +2318,16 @@
   versions:
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_bomb/releases/download/weekly-26.11.2020/fw_bomb_miui_BOMB_20.11.25_b805591854_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/bomb/fw_bomb_miui_BOMB_20.11.25_b805591854_11.0.zip
+  filename: fw_bomb_miui_BOMB_20.11.25_b805591854_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.25
 - branch: weekly
   date: '2020-11-06'
   downloads:
@@ -4719,6 +4759,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-26.11.2020/fw_cas_miui_CAS_20.11.25_514c293b07_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/cas/fw_cas_miui_CAS_20.11.25_514c293b07_11.0.zip
+  filename: fw_cas_miui_CAS_20.11.25_514c293b07_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.25
+- branch: weekly
   date: '2020-11-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-19.11.2020/fw_cas_miui_CAS_20.11.18_a2f557f556_11.0.zip
@@ -4878,6 +4928,16 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QCTINXM
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-26.11.2020/fw_cepheus_miui_CEPHEUS_20.11.25_df63614210_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/cepheus/fw_cepheus_miui_CEPHEUS_20.11.25_df63614210_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_20.11.25_df63614210_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.25
 - branch: weekly
   date: '2020-11-19'
   downloads:
@@ -6368,6 +6428,16 @@
   versions:
     android: '8.1'
     miui: V10.3.4.0.OCGCNXM
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cezanne/releases/download/weekly-26.11.2020/fw_cezanne_miui_CEZANNE_20.11.26_f3f5e3f50c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.26/cezanne/fw_cezanne_miui_CEZANNE_20.11.26_f3f5e3f50c_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.11.26_f3f5e3f50c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.26
 - branch: weekly
   date: '2020-11-06'
   downloads:
@@ -8718,6 +8788,16 @@
   versions:
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/weekly-26.11.2020/fw_cmi_miui_CMI_20.11.25_513a962196_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/cmi/fw_cmi_miui_CMI_20.11.25_513a962196_11.0.zip
+  filename: fw_cmi_miui_CMI_20.11.25_513a962196_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.25
 - branch: stable
   date: '2020-11-20'
   downloads:
@@ -9298,6 +9378,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-26.11.2020/fw_crux_miui_CRUX_20.11.25_6e47c9a303_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/crux/fw_crux_miui_CRUX_20.11.25_6e47c9a303_10.0.zip
+  filename: fw_crux_miui_CRUX_20.11.25_6e47c9a303_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.25
 - branch: weekly
   date: '2020-11-19'
   downloads:
@@ -10188,6 +10278,16 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QCDMIXM
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/weekly-26.11.2020/fw_davinci_miui_DAVINCI_20.11.25_924e578325_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/davinci/fw_davinci_miui_DAVINCI_20.11.25_924e578325_11.0.zip
+  filename: fw_davinci_miui_DAVINCI_20.11.25_924e578325_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.25
 - branch: weekly
   date: '2020-11-19'
   downloads:
@@ -14888,6 +14988,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/weekly-26.11.2020/fw_ginkgo_miui_GINKGO_20.11.25_c78c2a8d95_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/ginkgo/fw_ginkgo_miui_GINKGO_20.11.25_c78c2a8d95_10.0.zip
+  filename: fw_ginkgo_miui_GINKGO_20.11.25_c78c2a8d95_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.25
 - branch: stable
   date: '2020-11-25'
   downloads:
@@ -15578,6 +15688,16 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QJPINXM
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-26.11.2020/fw_grus_miui_GRUS_20.11.25_566917d67b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/grus/fw_grus_miui_GRUS_20.11.25_566917d67b_10.0.zip
+  filename: fw_grus_miui_GRUS_20.11.25_566917d67b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.25
 - branch: weekly
   date: '2020-11-19'
   downloads:

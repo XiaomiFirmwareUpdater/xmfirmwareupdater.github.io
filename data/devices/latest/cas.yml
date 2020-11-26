@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V12.0.13.0.QJJCNXM
 - branch: weekly
-  date: '2020-11-19'
+  date: '2020-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-19.11.2020/fw_cas_miui_CAS_20.11.18_a2f557f556_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/cas/fw_cas_miui_CAS_20.11.18_a2f557f556_11.0.zip
-  filename: fw_cas_miui_CAS_20.11.18_a2f557f556_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-26.11.2020/fw_cas_miui_CAS_20.11.25_514c293b07_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/cas/fw_cas_miui_CAS_20.11.25_514c293b07_11.0.zip
+  filename: fw_cas_miui_CAS_20.11.25_514c293b07_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 20.11.18
+    miui: 20.11.25
