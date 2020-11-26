@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 26 Nov 2020 01:17:07 +0900</pubDate>
+  <pubDate>Thu, 26 Nov 2020 19:19:47 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.1.0.QJCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Thu, 26 Nov 2020 19:19:47 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/9AT (dandelion) - V12.0.5.0.QCDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 7 Pro (violet) - 20.11.18</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
     <pubDate>Thu, 19 Nov 2020 21:02:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 20.11.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Thu, 19 Nov 2020 21:01:33 +0900</pubDate>
   </item>
     </channel>
 </rss>

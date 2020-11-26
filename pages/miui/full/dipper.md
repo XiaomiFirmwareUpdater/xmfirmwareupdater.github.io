@@ -52,7 +52,8 @@ permalink: /archive/miui/dipper/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QEAMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-11-23</td><td><a href="/miui/dipper/stable beta/V12.0.2.0.QEAMIXM/">Download</a></td></tr>
+                <tr><td>Mi 8 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QEAMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-11-23</td><td><a href="/miui/dipper/stable/V12.0.2.0.QEAMIXM/">Download</a></td></tr>
+<tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QEAMIXM</td><td>10.0</td><td>5.0 kB</td><td>2020-11-13</td><td><a href="/miui/dipper/stable/V12.0.2.0.QEAMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QEARUXM</td><td>10.0</td><td>2.1 GB</td><td>2020-11-17</td><td><a href="/miui/dipper/stable/V12.0.1.0.QEARUXM/">Download</a></td></tr>
 <tr><td>Mi 8 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QEARUXM</td><td>10.0</td><td>2.6 GB</td><td>2020-11-08</td><td><a href="/miui/dipper/stable/V12.0.1.0.QEARUXM/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QEAMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-11-02</td><td><a href="/miui/dipper/stable/V12.0.1.0.QEAMIXM/">Download</a></td></tr>
@@ -71,11 +72,11 @@ permalink: /archive/miui/dipper/
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>2.3 GB</td><td>2020-07-23</td><td><a href="/miui/dipper/weekly/20.7.23/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QEAMIXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-16</td><td><a href="/miui/dipper/stable/V11.0.5.0.QEAMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QEAMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-06</td><td><a href="/miui/dipper/stable/V11.0.5.0.QEAMIXM/">Download</a></td></tr>
+<tr><td>Mi 8 China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QEACNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-07-29</td><td><a href="/miui/dipper/stable/V12.0.1.0.QEACNXM/">Download</a></td></tr>
+<tr><td>Mi 8 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QEACNXM</td><td>10.0</td><td>2.8 GB</td><td>2020-07-17</td><td><a href="/miui/dipper/stable/V12.0.1.0.QEACNXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>2.3 GB</td><td>2020-07-16</td><td><a href="/miui/dipper/weekly/20.7.16/">Download</a></td></tr>
 <tr><td>Mi 8 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QEARUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-07-14</td><td><a href="/miui/dipper/stable/V11.0.4.0.QEARUXM/">Download</a></td></tr>
 <tr><td>Mi 8 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QEARUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-03</td><td><a href="/miui/dipper/stable/V11.0.4.0.QEARUXM/">Download</a></td></tr>
-<tr><td>Mi 8 China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QEACNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-07-29</td><td><a href="/miui/dipper/stable/V12.0.1.0.QEACNXM/">Download</a></td></tr>
-<tr><td>Mi 8 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QEACNXM</td><td>10.0</td><td>2.8 GB</td><td>2020-07-17</td><td><a href="/miui/dipper/stable/V12.0.1.0.QEACNXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>10.0</td><td>2.3 GB</td><td>2020-07-09</td><td><a href="/miui/dipper/weekly/20.7.9/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.7.2</td><td>10.0</td><td>2.3 GB</td><td>2020-07-02</td><td><a href="/miui/dipper/weekly/20.7.2/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>10.0</td><td>2.3 GB</td><td>2020-06-18</td><td><a href="/miui/dipper/weekly/20.6.18/">Download</a></td></tr>
@@ -122,13 +123,11 @@ permalink: /archive/miui/dipper/
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.11.21</td><td>10.0</td><td>2.2 GB</td><td>2019-11-21</td><td><a href="/miui/dipper/weekly/9.11.21/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.11.14</td><td>10.0</td><td>2.2 GB</td><td>2019-11-14</td><td><a href="/miui/dipper/weekly/9.11.14/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.11.7</td><td>10.0</td><td>2.2 GB</td><td>2019-11-07</td><td><a href="/miui/dipper/weekly/9.11.7/">Download</a></td></tr>
-<tr><td>Mi 8 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PEAMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-11-01</td><td><a href="/miui/dipper/stable/V11.0.6.0.PEAMIXM/">Download</a></td></tr>
-<tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PEAMIXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-22</td><td><a href="/miui/dipper/stable/V11.0.6.0.PEAMIXM/">Download</a></td></tr>
-<tr><td>Mi 8 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PEARUXM</td><td>9.0</td><td>2.0 GB</td><td>2019-11-01</td><td><a href="/miui/dipper/stable/V11.0.6.0.PEARUXM/">Download</a></td></tr>
-<tr><td>Mi 8 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PEARUXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-22</td><td><a href="/miui/dipper/stable/V11.0.6.0.PEARUXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.PEACNXM</td><td>9.0</td><td>2.4 GB</td><td>2019-11-01</td><td><a href="/miui/dipper/stable/V11.0.4.0.PEACNXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.PEACNXM</td><td>9.0</td><td>3.0 GB</td><td>2019-10-24</td><td><a href="/miui/dipper/stable/V11.0.4.0.PEACNXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.10.31</td><td>10.0</td><td>2.2 GB</td><td>2019-10-31</td><td><a href="/miui/dipper/weekly/9.10.31/">Download</a></td></tr>
+<tr><td>Mi 8 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PEAMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-11-01</td><td><a href="/miui/dipper/stable/V11.0.6.0.PEAMIXM/">Download</a></td></tr>
+<tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PEAMIXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-22</td><td><a href="/miui/dipper/stable/V11.0.6.0.PEAMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.10.24</td><td>10.0</td><td>2.2 GB</td><td>2019-10-24</td><td><a href="/miui/dipper/weekly/9.10.24/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.10.17</td><td>10.0</td><td>2.2 GB</td><td>2019-10-17</td><td><a href="/miui/dipper/weekly/9.10.17/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.10.10</td><td>10.0</td><td>2.2 GB</td><td>2019-10-10</td><td><a href="/miui/dipper/weekly/9.10.10/">Download</a></td></tr>
@@ -136,16 +135,18 @@ permalink: /archive/miui/dipper/
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.5.0.PEAMIXM</td><td>9.0</td><td>2.6 GB</td><td>2019-09-12</td><td><a href="/miui/dipper/stable/V10.3.5.0.PEAMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>3.0 GB</td><td>2019-09-04</td><td><a href="/miui/dipper/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.9.3</td><td>9.0</td><td>2.4 GB</td><td>2019-09-04</td><td><a href="/miui/dipper/weekly/9.9.3/">Download</a></td></tr>
+<tr><td>Mi 8 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PEARUXM</td><td>9.0</td><td>2.0 GB</td><td>2019-11-01</td><td><a href="/miui/dipper/stable/V11.0.6.0.PEARUXM/">Download</a></td></tr>
+<tr><td>Mi 8 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PEARUXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-22</td><td><a href="/miui/dipper/stable/V11.0.6.0.PEARUXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Stable</td><td>Recovery</td><td>V10.3.6.0.PEACNXM</td><td>9.0</td><td>2.2 GB</td><td>2019-08-30</td><td><a href="/miui/dipper/stable/V10.3.6.0.PEACNXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Stable</td><td>Fastboot</td><td>V10.3.6.0.PEACNXM</td><td>9.0</td><td>2.8 GB</td><td>2019-08-27</td><td><a href="/miui/dipper/stable/V10.3.6.0.PEACNXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.8.29</td><td>9.0</td><td>2.4 GB</td><td>2019-08-30</td><td><a href="/miui/dipper/weekly/9.8.29/">Download</a></td></tr>
-<tr><td>Mi 8 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PEACNXM</td><td>9.0</td><td>2.4 GB</td><td>2019-10-09</td><td><a href="/miui/dipper/stable/V11.0.3.0.PEACNXM/">Download</a></td></tr>
-<tr><td>Mi 8 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PEACNXM</td><td>9.0</td><td>3.0 GB</td><td>2019-09-29</td><td><a href="/miui/dipper/stable/V11.0.3.0.PEACNXM/">Download</a></td></tr>
-<tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.9.27</td><td>9.0</td><td>2.2 GB</td><td>2019-09-28</td><td><a href="/miui/dipper/weekly/9.9.27/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Fastboot</td><td>9.8.22</td><td>9.0</td><td>3.0 GB</td><td>2019-08-22</td><td><a href="/miui/dipper/weekly/9.8.22/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.8.22</td><td>9.0</td><td>2.4 GB</td><td>2019-08-22</td><td><a href="/miui/dipper/weekly/9.8.22/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.8.15</td><td>9.0</td><td>2.4 GB</td><td>2019-08-15</td><td><a href="/miui/dipper/weekly/9.8.15/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Fastboot</td><td>9.8.15</td><td>9.0</td><td>3.0 GB</td><td>2019-08-15</td><td><a href="/miui/dipper/weekly/9.8.15/">Download</a></td></tr>
+<tr><td>Mi 8 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PEACNXM</td><td>9.0</td><td>2.4 GB</td><td>2019-10-09</td><td><a href="/miui/dipper/stable/V11.0.3.0.PEACNXM/">Download</a></td></tr>
+<tr><td>Mi 8 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PEACNXM</td><td>9.0</td><td>3.0 GB</td><td>2019-09-29</td><td><a href="/miui/dipper/stable/V11.0.3.0.PEACNXM/">Download</a></td></tr>
+<tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.9.27</td><td>9.0</td><td>2.2 GB</td><td>2019-09-28</td><td><a href="/miui/dipper/weekly/9.9.27/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Stable</td><td>Recovery</td><td>V10.3.5.0.PEACNXM</td><td>9.0</td><td>2.2 GB</td><td>2019-08-12</td><td><a href="/miui/dipper/stable/V10.3.5.0.PEACNXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Stable</td><td>Fastboot</td><td>V10.3.5.0.PEACNXM</td><td>9.0</td><td>2.8 GB</td><td>2019-08-02</td><td><a href="/miui/dipper/stable/V10.3.5.0.PEACNXM/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.8.9</td><td>9.0</td><td>2.4 GB</td><td>2019-08-10</td><td><a href="/miui/dipper/weekly/9.8.9/">Download</a></td></tr>
@@ -195,10 +196,10 @@ permalink: /archive/miui/dipper/
 <tr><td>Mi 8 Global</td><td>Weekly</td><td>Recovery</td><td>9.5.17</td><td>9.0</td><td>2.4 GB</td><td>2019-05-20</td><td><a href="/miui/dipper/weekly/9.5.17/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Fastboot</td><td>9.5.17</td><td>9.0</td><td>3.0 GB</td><td>2019-05-20</td><td><a href="/miui/dipper/weekly/9.5.17/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Weekly</td><td>Fastboot</td><td>9.5.17</td><td>9.0</td><td>3.0 GB</td><td>2019-05-20</td><td><a href="/miui/dipper/weekly/9.5.17/">Download</a></td></tr>
-<tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.5.16</td><td>9.0</td><td>2.3 GB</td><td>2019-05-16</td><td><a href="/miui/dipper/weekly/9.5.16/">Download</a></td></tr>
-<tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.5.14</td><td>9.0</td><td>2.3 GB</td><td>2019-05-14</td><td><a href="/miui/dipper/weekly/9.5.14/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.2.0.PEAMIXM</td><td>9.0</td><td>1.9 GB</td><td>2019-05-23</td><td><a href="/miui/dipper/stable/V10.3.2.0.PEAMIXM/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.2.0.PEAMIXM</td><td>9.0</td><td>2.6 GB</td><td>2019-05-23</td><td><a href="/miui/dipper/stable/V10.3.2.0.PEAMIXM/">Download</a></td></tr>
+<tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.5.16</td><td>9.0</td><td>2.3 GB</td><td>2019-05-16</td><td><a href="/miui/dipper/weekly/9.5.16/">Download</a></td></tr>
+<tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.5.14</td><td>9.0</td><td>2.3 GB</td><td>2019-05-14</td><td><a href="/miui/dipper/weekly/9.5.14/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Weekly</td><td>Fastboot</td><td>9.5.9</td><td>9.0</td><td>3.0 GB</td><td>2019-05-10</td><td><a href="/miui/dipper/weekly/9.5.9/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>9.5.9</td><td>9.0</td><td>2.4 GB</td><td>2019-05-10</td><td><a href="/miui/dipper/weekly/9.5.9/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Fastboot</td><td>9.5.9</td><td>9.0</td><td>3.0 GB</td><td>2019-05-10</td><td><a href="/miui/dipper/weekly/9.5.9/">Download</a></td></tr>
@@ -346,12 +347,12 @@ permalink: /archive/miui/dipper/
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.7.0.OEAMIFD</td><td>8.1</td><td>2.6 GB</td><td>2018-09-17</td><td><a href="/miui/dipper/stable/V9.6.7.0.OEAMIFD/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Stable</td><td>Recovery</td><td>V9.6.7.0.OEAMIFD</td><td>8.1</td><td>1.7 GB</td><td>2018-09-07</td><td><a href="/miui/dipper/stable/V9.6.7.0.OEAMIFD/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Weekly</td><td>Recovery</td><td>8.9.11</td><td>9.0</td><td>1.7 GB</td><td>2018-09-11</td><td><a href="/miui/dipper/weekly/8.9.11/">Download</a></td></tr>
+<tr><td>Mi 8 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.2.0.OEAMIFH</td><td>8.1</td><td>1.7 GB</td><td>2018-09-19</td><td><a href="/miui/dipper/stable/V10.0.2.0.OEAMIFH/">Download</a></td></tr>
+<tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.2.0.OEAMIFH</td><td>8.1</td><td>2.6 GB</td><td>2018-09-19</td><td><a href="/miui/dipper/stable/V10.0.2.0.OEAMIFH/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Weekly</td><td>Recovery</td><td>8.9.7</td><td>8.1</td><td>1.7 GB</td><td>2018-09-10</td><td><a href="/miui/dipper/weekly/8.9.7/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Weekly</td><td>Fastboot</td><td>8.9.7</td><td>8.1</td><td>2.6 GB</td><td>2018-09-10</td><td><a href="/miui/dipper/weekly/8.9.7/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>8.8.31</td><td>8.1</td><td>2.3 GB</td><td>2018-09-07</td><td><a href="/miui/dipper/weekly/8.8.31/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Fastboot</td><td>8.8.31</td><td>8.1</td><td>3.1 GB</td><td>2018-09-07</td><td><a href="/miui/dipper/weekly/8.8.31/">Download</a></td></tr>
-<tr><td>Mi 8 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.2.0.OEAMIFH</td><td>8.1</td><td>1.7 GB</td><td>2018-09-19</td><td><a href="/miui/dipper/stable/V10.0.2.0.OEAMIFH/">Download</a></td></tr>
-<tr><td>Mi 8 Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.2.0.OEAMIFH</td><td>8.1</td><td>2.6 GB</td><td>2018-09-19</td><td><a href="/miui/dipper/stable/V10.0.2.0.OEAMIFH/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Weekly</td><td>Fastboot</td><td>8.9.6</td><td>8.1</td><td>2.6 GB</td><td>2018-09-06</td><td><a href="/miui/dipper/weekly/8.9.6/">Download</a></td></tr>
 <tr><td>Mi 8 Global</td><td>Weekly</td><td>Recovery</td><td>8.9.6</td><td>8.1</td><td>1.7 GB</td><td>2018-09-06</td><td><a href="/miui/dipper/weekly/8.9.6/">Download</a></td></tr>
 <tr><td>Mi 8 China</td><td>Weekly</td><td>Recovery</td><td>8.9.6</td><td>9.0</td><td>2.2 GB</td><td>2018-09-06</td><td><a href="/miui/dipper/weekly/8.9.6/">Download</a></td></tr>
