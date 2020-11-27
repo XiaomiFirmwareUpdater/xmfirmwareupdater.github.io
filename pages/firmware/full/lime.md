@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 9 Pro 5G/Mi 10T Lite (gauguin) Firmware Downloads
+title: Redmi Note 9 4G/Redmi 9T (lime) Firmware Downloads
 layout: download
-name: Redmi Note 9 Pro 5G/Mi 10T Lite
-codename: gauguin
-permalink: /firmware/gauguin/
+name: Redmi Note 9 4G/Redmi 9T
+codename: lime
+permalink: /archive/firmware/lime/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/gauguin/">Redmi Note 9 Pro 5G/Mi 10T Lite</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/lime/">Redmi Note 9 4G/Redmi 9T</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -19,25 +19,24 @@ permalink: /firmware/gauguin/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-<h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss">
-<span class="label">RSS</span></a></span></h3>
+### Firmware Archive
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest firmware downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/firmware/gauguin/" class="card-link">Firmware Archive</a>
-    <a href="/miui/gauguin/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/gauguin/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases or other downloads check:</p>
+    <a href="/firmware/lime/" class="card-link">Latest Firmware</a>
+    <a href="/miui/lime/" class="card-link">MIUI Downloads</a>
+    <a href="/vendor/lime/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
 {%include ads.html%}
 <div class="row justify-content-center">
     <div class="col-10">
-        {%include vli_ad_320x50_1.html%}
         <div class="table-responsive-md" style="margin-top: 25px;">
+            {%include vli_ad_320x50_1.html%}
             <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
@@ -49,7 +48,7 @@ permalink: /firmware/gauguin/
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('gauguin', 'latest')</script>
+                <script>loadFirmwareDownloads('lime', 'full')</script>
             </table>
         </div>
     </div>

@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 9 Pro 5G/Mi 10T Lite (gauguin) MIUI Downloads
+title: Redmi Note 9 4G/Redmi 9T (lime) MIUI Downloads
 layout: download
-name: Redmi Note 9 Pro 5G/Mi 10T Lite
-codename: gauguin
-permalink: /archive/miui/gauguin/
+name: Redmi Note 9 4G/Redmi 9T
+codename: lime
+permalink: /archive/miui/lime/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/gauguin/">Redmi Note 9 Pro 5G/Mi 10T Lite</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/lime/">Redmi Note 9 4G/Redmi 9T</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/miui/gauguin/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/miui/gauguin/" class="card-link">Latest MIUI</a>
-    <a href="/firmware/gauguin/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/gauguin/" class="card-link">Vendor Downloads</a>
+    <a href="/miui/lime/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/lime/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/lime/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,14 +52,10 @@ permalink: /archive/miui/gauguin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJSMIXM</td><td>10.0</td><td>2.6 GB</td><td>2020-11-27</td><td><a href="/miui/gauguin/stable/V12.0.5.0.QJSMIXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJSMIXM</td><td>10.0</td><td>4.5 GB</td><td>2020-11-13</td><td><a href="/miui/gauguin/stable/V12.0.5.0.QJSMIXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJSMIXM</td><td>10.0</td><td>4.3 GB</td><td>2020-10-29</td><td><a href="/miui/gauguin/stable/V12.0.1.0.QJSMIXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJSMIXM</td><td>10.0</td><td>2.6 GB</td><td>None</td><td><a href="/miui/gauguin/stable/V12.0.1.0.QJSMIXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJSEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-10-21</td><td><a href="/miui/gauguin/stable/V12.0.2.0.QJSEUXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJSEUXM</td><td>10.0</td><td>4.3 GB</td><td>2020-10-01</td><td><a href="/miui/gauguin/stable/V12.0.2.0.QJSEUXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJSEUXM</td><td>10.0</td><td>2.6 GB</td><td>2020-10-01</td><td><a href="/miui/gauguin/stable/V12.0.1.0.QJSEUXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJSEUXM</td><td>10.0</td><td>4.3 GB</td><td>2020-09-19</td><td><a href="/miui/gauguin/stable/V12.0.1.0.QJSEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QJQCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-11-27</td><td><a href="/miui/lime/stable beta/V12.0.1.0.QJQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QJQCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-11-27</td><td><a href="/miui/lime/stable beta/V12.0.3.0.QJQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 4G China</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJQCNXM</td><td>10.0</td><td>2.7 GB</td><td>2020-11-27</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 4G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJQCNXM</td><td>10.0</td><td>3.6 GB</td><td>2020-11-21</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

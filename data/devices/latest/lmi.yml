@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-09-29'
+  date: '2020-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-29.09.2020/fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-27.11.2020/fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V12.0.4.0.QJKMIXM
+    android: '11.0'
+    miui: V12.2.1.0.RJKMIXM
 - branch: stable
   date: '2020-11-20'
   downloads:

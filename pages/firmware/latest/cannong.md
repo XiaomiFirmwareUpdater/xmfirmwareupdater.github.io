@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 9 Pro 5G/Mi 10T Lite (gauguin) Firmware Downloads
+title: Redmi Note 9T (cannong) Firmware Downloads
 layout: download
-name: Redmi Note 9 Pro 5G/Mi 10T Lite
-codename: gauguin
-permalink: /firmware/gauguin/
+name: Redmi Note 9T
+codename: cannong
+permalink: /firmware/cannong/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/gauguin/">Redmi Note 9 Pro 5G/Mi 10T Lite</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/cannong/">Redmi Note 9T</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -27,9 +27,9 @@ permalink: /firmware/gauguin/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest firmware downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/firmware/gauguin/" class="card-link">Firmware Archive</a>
-    <a href="/miui/gauguin/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/gauguin/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/firmware/cannong/" class="card-link">Firmware Archive</a>
+    <a href="/miui/cannong/" class="card-link">MIUI Downloads</a>
+    <a href="/vendor/cannong/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ permalink: /firmware/gauguin/
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('gauguin', 'latest')</script>
+                <script>loadFirmwareDownloads('cannong', 'latest')</script>
             </table>
         </div>
     </div>

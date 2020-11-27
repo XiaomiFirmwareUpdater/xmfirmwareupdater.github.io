@@ -1,7 +1,7 @@
 ---
-title: Mi 10T Lite (gauguin) Vendor Downloads
+title: Redmi Note 9 Pro 5G/Mi 10T Lite (gauguin) Vendor Downloads
 layout: download
-name: Mi 10T Lite
+name: Redmi Note 9 Pro 5G/Mi 10T Lite
 codename: gauguin
 permalink: /archive/vendor/gauguin/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/vendor/gauguin/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/vendor/">Vendor</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/vendor/gauguin/">Mi 10T Lite</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/vendor/gauguin/">Redmi Note 9 Pro 5G/Mi 10T Lite</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
