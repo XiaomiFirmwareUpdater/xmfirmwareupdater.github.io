@@ -6428,6 +6428,16 @@
   versions:
     android: '8.1'
     miui: V10.3.4.0.OCGCNXM
+- branch: stable
+  date: '2020-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cezanne/releases/download/stable-27.11.2020/fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.16.0.QJNCNXM
 - branch: weekly
   date: '2020-11-26'
   downloads:
@@ -14238,6 +14248,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QJXINXM
+- branch: stable
+  date: '2020-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-27.11.2020/fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.QJSMIXM_16a6aaa02d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.QJSMIXM_16a6aaa02d_10.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.QJSMIXM_16a6aaa02d_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QJSMIXM
 - branch: stable
   date: '2020-11-05'
   downloads:

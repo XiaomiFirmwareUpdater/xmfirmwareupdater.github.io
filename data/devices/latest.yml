@@ -459,15 +459,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2020-10-21'
+  date: '2020-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cezanne/releases/download/stable-22.10.2020/fw_cezanne_miui_CEZANNE_V12.0.13.0.QJNCNXM_3560855173_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.13.0.QJNCNXM_3560855173_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.0.13.0.QJNCNXM_3560855173_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cezanne/releases/download/stable-27.11.2020/fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.13.0.QJNCNXM
+    miui: V12.0.16.0.QJNCNXM
 - branch: weekly
   date: '2020-11-26'
   downloads:
@@ -818,6 +818,16 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QJSEUXM
+- branch: stable
+  date: '2020-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-27.11.2020/fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.QJSMIXM_16a6aaa02d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.QJSMIXM_16a6aaa02d_10.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.QJSMIXM_16a6aaa02d_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QJSMIXM
 - branch: stable
   date: '2019-01-25'
   downloads:

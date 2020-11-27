@@ -52,8 +52,8 @@ permalink: /archive/miui/gauguin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJSMIXM</td><td>10.0</td><td>4.5 GB</td><td>2020-11-13</td><td><a href="/miui/gauguin/stable/V12.0.5.0.QJSMIXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJSMIXM</td><td>10.0</td><td>2.6 GB</td><td>None</td><td><a href="/miui/gauguin/stable/V12.0.5.0.QJSMIXM/">Download</a></td></tr>
+                <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJSMIXM</td><td>10.0</td><td>2.6 GB</td><td>2020-11-27</td><td><a href="/miui/gauguin/stable/V12.0.5.0.QJSMIXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJSMIXM</td><td>10.0</td><td>4.5 GB</td><td>2020-11-13</td><td><a href="/miui/gauguin/stable/V12.0.5.0.QJSMIXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJSMIXM</td><td>10.0</td><td>4.3 GB</td><td>2020-10-29</td><td><a href="/miui/gauguin/stable/V12.0.1.0.QJSMIXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJSMIXM</td><td>10.0</td><td>2.6 GB</td><td>None</td><td><a href="/miui/gauguin/stable/V12.0.1.0.QJSMIXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJSEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-10-21</td><td><a href="/miui/gauguin/stable/V12.0.2.0.QJSEUXM/">Download</a></td></tr>

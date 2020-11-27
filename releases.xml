@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 27 Nov 2020 01:49:20 +0900</pubDate>
+  <pubDate>Fri, 27 Nov 2020 19:14:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10T Lite (gauguin) - V12.0.5.0.QJSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Fri, 27 Nov 2020 19:14:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Ultra (cezanne) - V12.0.16.0.QJNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
+    <pubDate>Fri, 27 Nov 2020 19:13:55 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7 Pro (violet) - 20.11.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
@@ -95,16 +105,6 @@
     <title>Mi 10 Pro (cmi) - 20.11.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
     <pubDate>Fri, 27 Nov 2020 01:29:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - 20.11.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Fri, 27 Nov 2020 01:28:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.11.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 27 Nov 2020 01:27:24 +0900</pubDate>
   </item>
     </channel>
 </rss>
