@@ -54,7 +54,7 @@ permalink: /miui/lime/
                 <tbody>
                 <tr><td>Redmi Note 9 4G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJQCNXM</td><td>10.0</td><td>3.6 GB</td><td>2020-11-21</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJQCNXM</td><td>10.0</td><td>2.7 GB</td><td>2020-11-27</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QJQCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-11-27</td><td><a href="/miui/lime/stable beta/V12.0.1.0.QJQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QJQCNXM</td><td>10.0</td><td>2.7 GB</td><td>2020-11-27</td><td><a href="/miui/lime/stable beta/V12.0.1.0.QJQCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
