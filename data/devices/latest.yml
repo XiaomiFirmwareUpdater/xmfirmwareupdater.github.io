@@ -649,15 +649,15 @@
     android: '11.0'
     miui: V12.0.1.0.RJWINXM
 - branch: stable
-  date: '2020-11-04'
+  date: '2020-11-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-05.11.2020/fw_dandelion_miui_DANDELIONGlobal_V12.0.7.0.QCDMIXM_f1449809a6_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONGlobal_V12.0.7.0.QCDMIXM_f1449809a6_10.0.zip
-  filename: fw_dandelion_miui_DANDELIONGlobal_V12.0.7.0.QCDMIXM_f1449809a6_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-28.11.2020/fw_dandelion_miui_DANDELIONGlobal_V12.0.8.0.QCDMIXM_bb97177f3b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONGlobal_V12.0.8.0.QCDMIXM_bb97177f3b_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONGlobal_V12.0.8.0.QCDMIXM_bb97177f3b_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.7.0.QCDMIXM
+    miui: V12.0.8.0.QCDMIXM
 - branch: stable
   date: '2020-11-25'
   downloads:
@@ -1789,15 +1789,15 @@
     android: '10.0'
     miui: V11.0.2.0.QCPINXM
 - branch: stable
-  date: '2020-09-12'
+  date: '2020-11-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-12.09.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
-  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-28.11.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.3.0.QCQINXM_ae2ec6a050_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.3.0.QCQINXM_ae2ec6a050_10.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.3.0.QCQINXM_ae2ec6a050_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QCQINXM
+    miui: V11.0.3.0.QCQINXM
 - branch: stable
   date: '2020-11-11'
   downloads:

@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2020-09-12'
+  date: '2020-11-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-12.09.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
-  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.1.0.QCQINXM_4dbc00b40a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-28.11.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.3.0.QCQINXM_ae2ec6a050_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.3.0.QCQINXM_ae2ec6a050_10.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.3.0.QCQINXM_ae2ec6a050_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QCQINXM
+    miui: V11.0.3.0.QCQINXM
