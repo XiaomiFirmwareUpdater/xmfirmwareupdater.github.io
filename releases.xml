@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 29 Nov 2020 01:09:16 +0900</pubDate>
+  <pubDate>Sun, 29 Nov 2020 19:09:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO M3 (citrus) - V12.0.4.0.QJFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Sun, 29 Nov 2020 19:09:38 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8A Pro/Redmi 8A Dual (olivewood) - V11.0.3.0.QCQINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olivewood</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 20.11.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Fri, 27 Nov 2020 01:40:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 20.11.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 27 Nov 2020 01:40:00 +0900</pubDate>
   </item>
     </channel>
 </rss>
