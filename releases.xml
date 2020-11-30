@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 30 Nov 2020 19:25:56 +0900</pubDate>
+  <pubDate>Tue, 01 Dec 2020 04:13:05 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.4.0.QJOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Tue, 01 Dec 2020 04:13:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite (gauguin) - V12.0.2.0.QJSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Tue, 01 Dec 2020 04:12:29 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.1.0.QJQINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
@@ -95,16 +105,6 @@
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.11.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Fri, 27 Nov 2020 01:44:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.11.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 27 Nov 2020 01:43:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 20.11.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 27 Nov 2020 01:42:34 +0900</pubDate>
   </item>
     </channel>
 </rss>
