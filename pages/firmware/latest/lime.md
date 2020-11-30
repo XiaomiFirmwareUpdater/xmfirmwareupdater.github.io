@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 9 4G/Redmi 9T (lime) Firmware Downloads
+title: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) Firmware Downloads
 layout: download
-name: Redmi Note 9 4G/Redmi 9T
+name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
 codename: lime
 permalink: /firmware/lime/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/lime/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/lime/">Redmi Note 9 4G/Redmi 9T</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/lime/">Redmi Note 9 4G/Redmi 9T/Redmi 9 Power</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
