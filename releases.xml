@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 01 Dec 2020 19:08:03 +0900</pubDate>
+  <pubDate>Wed, 02 Dec 2020 01:22:39 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - V12.0.4.0.QFHINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Wed, 02 Dec 2020 01:22:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite (gauguin) - V12.0.6.0.QJSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Wed, 02 Dec 2020 01:21:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/9AT (dandelion) - V12.0.9.0.QCDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Wed, 02 Dec 2020 01:17:27 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 Pro (begoniain) - V12.0.3.0.QGGINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
@@ -90,21 +105,6 @@
     <title>Mi CC 9 Meitu Edition (vela) - 20.11.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
     <pubDate>Fri, 27 Nov 2020 01:48:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - 20.11.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Fri, 27 Nov 2020 01:47:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - 20.11.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Fri, 27 Nov 2020 01:46:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 20.11.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 27 Nov 2020 01:45:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
