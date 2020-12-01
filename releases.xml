@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 01 Dec 2020 04:13:05 +0900</pubDate>
+  <pubDate>Tue, 01 Dec 2020 19:08:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8 Pro (begoniain) - V12.0.3.0.QGGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
+    <pubDate>Tue, 01 Dec 2020 19:08:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.4.0.QJOEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
@@ -100,11 +105,6 @@
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 20.11.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Fri, 27 Nov 2020 01:45:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.11.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 27 Nov 2020 01:44:31 +0900</pubDate>
   </item>
     </channel>
 </rss>
