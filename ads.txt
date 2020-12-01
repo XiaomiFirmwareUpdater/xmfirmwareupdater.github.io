@@ -460,4 +460,45 @@ pubmatic.com,160006,RESELLER,5d62403b186f2ace
 pubmatic.com,160096,RESELLER,5d62403b186f2ace
 appnexus.com, 12290, RESELLER, f5ab79cb980f11d1
 google.com, pub-9217158075934613, RESELLER, f08c47fec0942fa0
+pubmatic.com, 157940, DIRECT, 5d62403b186f2ace
+ad-generation.jp,12474,RESELLER,7f4ea9029ac04e53
+indexexchange.com, 183635, RESELLER, 50b1c356f2c5c8fc
+lijit.com, 305268, DIRECT, fafdf38b16bf6b2b
+lijit.com, 305268-eb, DIRECT, fafdf38b16bf6b2b
+sovrn.com, 305268, DIRECT, fafdf38b16bf6b2b
+brightmountainmedia.com, 2686155, DIRECT
+gumgum.com,13883,RESELLER,ffdef49475d318a9
+sonobi.com, c0562c5814, RESELLER, d1a215d9eb5aee9e
+admatic.com.tr, adm-pub-185375301865, RESELLER
+improvedigital.com, 912, RESELLER
+pubmatic.com, 159078, RESELLER, 5d62403b186f2ace
+adform.com, 2600, RESELLER
+stroeer.com, 17938, RESELLER
+districtm.io, 101809, DIRECT, 3fd707be9c4527c3
+sharethrough.com, cc26d15a, DIRECT, d53b998a7bd4ecd2
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+google.com, pub-7789141453595900, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1623, RESELLER
+indexexchange.com, 193369, DIRECT, 50b1c356f2c5c8fc
+districtm.io, 102007, DIRECT, 3fd707be9c4527c3
+onetag.com, 5c6fd6ae57c0f50, RESELLER
+aniview.com, 5e53bc9128a061527579a829, RESELLER, 78b21b97965ec3f8
+appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
+advertising.com, 23089, RESELLER
+conversantmedia.com, 100195, RESELLER, 03113cd04947736d
+synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
+gumgum.com, 14137, RESELLER, ffdef49475d318a9
+openx.com, 540862677, RESELLER, 6a698e2ec38604c6
+emxdgt.com, 1527, RESELLER, 1e1d41537f7cad7f
+improvedigital.com, 1581, RESELLER
+sonobi.com, 844f617a46, RESELLER, d1a215d9eb5aee9e
+freewheel.tv, 1077921, RESELLER
+freewheel.tv, 1077937, RESELLER
+freewheel.tv, 1159297, RESELLER
+freewheel.tv, 1159313, RESELLER
+spotxchange.com, 241914, RESELLER, 7842df1d2fe2db34
+spotx.tv, 241914, RESELLER, 7842df1d2fe2db34
+rhythmone.com, 731822025,DIRECT,a670c89d4a324e47
+video.unrulymedia.com, 731822025, DIRECT
+advertising.com, 28464, RESELLER
 #VLI END
