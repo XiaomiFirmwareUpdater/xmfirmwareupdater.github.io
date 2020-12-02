@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2020-12-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannon/releases/download/stable-02.12.2020/fw_cannon_miui_CANNON_V12.0.3.0.QJECNXM_1fd3c53c91_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.0.3.0.QJECNXM_1fd3c53c91_10.0.zip
+  filename: fw_cannon_miui_CANNON_V12.0.3.0.QJECNXM_1fd3c53c91_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJECNXM
