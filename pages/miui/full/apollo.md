@@ -52,7 +52,8 @@ permalink: /archive/miui/apollo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30S Ultra China</td><td>Weekly</td><td>Recovery</td><td>20.11.25</td><td>10.0</td><td>3.7 GB</td><td>2020-11-26</td><td><a href="/miui/apollo/weekly/20.11.25/">Download</a></td></tr>
+                <tr><td>Redmi K30S Ultra China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>10.0</td><td>3.7 GB</td><td>2020-12-03</td><td><a href="/miui/apollo/weekly/20.12.2/">Download</a></td></tr>
+<tr><td>Redmi K30S Ultra China</td><td>Weekly</td><td>Recovery</td><td>20.11.25</td><td>10.0</td><td>3.7 GB</td><td>2020-11-26</td><td><a href="/miui/apollo/weekly/20.11.25/">Download</a></td></tr>
 <tr><td>Redmi K30S Ultra China</td><td>Weekly</td><td>Recovery</td><td>20.11.18</td><td>10.0</td><td>3.7 GB</td><td>2020-11-19</td><td><a href="/miui/apollo/weekly/20.11.18/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJDMIXM</td><td>10.0</td><td>2.9 GB</td><td>2020-11-17</td><td><a href="/miui/apollo/stable/V12.0.7.0.QJDMIXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QJDMIXM</td><td>10.0</td><td>4.5 GB</td><td>2020-11-11</td><td><a href="/miui/apollo/stable/V12.0.7.0.QJDMIXM/">Download</a></td></tr>

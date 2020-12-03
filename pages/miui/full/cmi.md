@@ -52,7 +52,8 @@ permalink: /archive/miui/cmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.2.1.0.RJAMIXM</td><td>11.0</td><td>3.0 GB</td><td>2020-11-27</td><td><a href="/miui/cmi/stable/V12.2.1.0.RJAMIXM/">Download</a></td></tr>
+                <tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>11.0</td><td>4.1 GB</td><td>2020-12-03</td><td><a href="/miui/cmi/weekly/20.12.2/">Download</a></td></tr>
+<tr><td>Mi 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.2.1.0.RJAMIXM</td><td>11.0</td><td>3.0 GB</td><td>2020-11-27</td><td><a href="/miui/cmi/stable/V12.2.1.0.RJAMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.2.1.0.RJAMIXM</td><td>11.0</td><td>4.8 GB</td><td>2020-11-16</td><td><a href="/miui/cmi/stable/V12.2.1.0.RJAMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.11.25</td><td>11.0</td><td>4.0 GB</td><td>2020-11-26</td><td><a href="/miui/cmi/weekly/20.11.25/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.1.0.RJACNXM</td><td>11.0</td><td>3.8 GB</td><td>2020-11-20</td><td><a href="/miui/cmi/stable beta/V12.2.1.0.RJACNXM/">Download</a></td></tr>

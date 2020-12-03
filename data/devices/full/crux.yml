@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-03.12.2020/fw_crux_miui_CRUX_20.12.2_1bbcf63de4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/crux/fw_crux_miui_CRUX_20.12.2_1bbcf63de4_10.0.zip
+  filename: fw_crux_miui_CRUX_20.12.2_1bbcf63de4_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.12.2
 - branch: stable
   date: '2020-12-02'
   downloads:
