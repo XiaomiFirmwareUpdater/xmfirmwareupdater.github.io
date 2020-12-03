@@ -10209,6 +10209,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJWINXM
 - branch: stable
+  date: '2020-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-03.12.2020/fw_dandelion_miui_DANDELIONINGlobal_V12.0.7.0.QCDINXM_cc0a5a3da2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.7.0.QCDINXM_cc0a5a3da2_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.7.0.QCDINXM_cc0a5a3da2_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QCDINXM
+- branch: stable
   date: '2020-12-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-01.12.2020/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.9.0.QCDEUXM_1d37d66a22_10.0.zip
@@ -14349,6 +14359,16 @@
     android: '10.0'
     miui: V11.0.1.0.QJXINXM
 - branch: stable
+  date: '2020-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-03.12.2020/fw_gauguin_miui_GAUGUINGlobal_V12.0.6.0.QJSMIXM_594ea5b80e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.6.0.QJSMIXM_594ea5b80e_10.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.6.0.QJSMIXM_594ea5b80e_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QJSMIXM
+- branch: stable
   date: '2020-12-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-01.12.2020/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.6.0.QJSEUXM_bf9db82ca6_10.0.zip
@@ -15828,6 +15848,16 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QJPINXM
+- branch: stable
+  date: '2020-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-03.12.2020/fw_grus_miui_GRUS_V12.0.3.0.QFBCNXM_262c628432_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/grus/fw_grus_miui_GRUS_V12.0.3.0.QFBCNXM_262c628432_10.0.zip
+  filename: fw_grus_miui_GRUS_V12.0.3.0.QFBCNXM_262c628432_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QFBCNXM
 - branch: weekly
   date: '2020-11-26'
   downloads:
