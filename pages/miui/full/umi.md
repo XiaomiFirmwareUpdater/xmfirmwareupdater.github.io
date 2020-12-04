@@ -52,7 +52,8 @@ permalink: /archive/miui/umi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>11.0</td><td>4.1 GB</td><td>2020-12-03</td><td><a href="/miui/umi/weekly/20.12.2/">Download</a></td></tr>
+                <tr><td>Mi 10 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.2.0.RJBINXM</td><td>11.0</td><td>3.0 GB</td><td>2020-12-04</td><td><a href="/miui/umi/stable beta/V12.2.2.0.RJBINXM/">Download</a></td></tr>
+<tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>11.0</td><td>4.1 GB</td><td>2020-12-03</td><td><a href="/miui/umi/weekly/20.12.2/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.1.0.RJBEUXM</td><td>11.0</td><td>3.1 GB</td><td>2020-12-03</td><td><a href="/miui/umi/stable beta/V12.2.1.0.RJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.11.25</td><td>11.0</td><td>4.0 GB</td><td>2020-11-26</td><td><a href="/miui/umi/weekly/20.11.25/">Download</a></td></tr>
 <tr><td>Mi 10 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.1.0.RJBMIXM</td><td>11.0</td><td>3.0 GB</td><td>2020-11-23</td><td><a href="/miui/umi/stable beta/V12.2.1.0.RJBMIXM/">Download</a></td></tr>
@@ -89,17 +90,17 @@ permalink: /archive/miui/umi/
 <tr><td>Mi 10 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJBIDXM</td><td>10.0</td><td>4.7 GB</td><td>2020-07-31</td><td><a href="/miui/umi/stable/V12.0.1.0.QJBIDXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.QJBCNXM</td><td>10.0</td><td>3.7 GB</td><td>2020-08-10</td><td><a href="/miui/umi/stable/V12.0.8.0.QJBCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.QJBCNXM</td><td>10.0</td><td>4.7 GB</td><td>2020-08-06</td><td><a href="/miui/umi/stable/V12.0.8.0.QJBCNXM/">Download</a></td></tr>
-<tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>11.0</td><td>3.7 GB</td><td>2020-08-06</td><td><a href="/miui/umi/weekly/20.8.6/">Download</a></td></tr>
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJBRUXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-06</td><td><a href="/miui/umi/stable/V12.0.1.0.QJBRUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJBRUXM</td><td>10.0</td><td>4.6 GB</td><td>2020-07-28</td><td><a href="/miui/umi/stable/V12.0.1.0.QJBRUXM/">Download</a></td></tr>
+<tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>11.0</td><td>3.7 GB</td><td>2020-08-06</td><td><a href="/miui/umi/weekly/20.8.6/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>11.0</td><td>3.7 GB</td><td>2020-07-30</td><td><a href="/miui/umi/weekly/20.7.30/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.7.0.QJBCNXM</td><td>10.0</td><td>3.7 GB</td><td>2020-07-27</td><td><a href="/miui/umi/stable beta/V12.0.7.0.QJBCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Indonesia</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QJBIDXM</td><td>10.0</td><td>2.7 GB</td><td>2020-07-17</td><td><a href="/miui/umi/stable/V11.0.5.0.QJBIDXM/">Download</a></td></tr>
 <tr><td>Mi 10 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QJBIDXM</td><td>10.0</td><td>4.5 GB</td><td>2020-06-13</td><td><a href="/miui/umi/stable/V11.0.5.0.QJBIDXM/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.18.0.QJBEUXM</td><td>10.0</td><td>4.4 GB</td><td>2020-07-15</td><td><a href="/miui/umi/stable/V11.0.18.0.QJBEUXM/">Download</a></td></tr>
-<tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>11.0</td><td>3.7 GB</td><td>2020-07-10</td><td><a href="/miui/umi/weekly/20.7.9/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJBEUXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-28</td><td><a href="/miui/umi/stable/V12.0.1.0.QJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJBEUXM</td><td>10.0</td><td>4.6 GB</td><td>2020-07-21</td><td><a href="/miui/umi/stable/V12.0.1.0.QJBEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>11.0</td><td>3.7 GB</td><td>2020-07-10</td><td><a href="/miui/umi/weekly/20.7.9/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJBCNXM</td><td>10.0</td><td>3.4 GB</td><td>2020-07-10</td><td><a href="/miui/umi/stable/V12.0.4.0.QJBCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QJBCNXM</td><td>10.0</td><td>4.5 GB</td><td>2020-07-01</td><td><a href="/miui/umi/stable/V12.0.4.0.QJBCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.7.3</td><td>11.0</td><td>3.7 GB</td><td>2020-07-03</td><td><a href="/miui/umi/weekly/20.7.3/">Download</a></td></tr>
@@ -107,9 +108,9 @@ permalink: /archive/miui/umi/
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.15.0.QJBEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-24</td><td><a href="/miui/umi/stable/V11.0.15.0.QJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.15.0.QJBEUXM</td><td>10.0</td><td>4.4 GB</td><td>2020-06-12</td><td><a href="/miui/umi/stable/V11.0.15.0.QJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>10.0</td><td>3.7 GB</td><td>2020-06-18</td><td><a href="/miui/umi/weekly/20.6.18/">Download</a></td></tr>
-<tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.6.17</td><td>10.0</td><td>3.7 GB</td><td>2020-06-17</td><td><a href="/miui/umi/weekly/20.6.17/">Download</a></td></tr>
 <tr><td>Mi 10 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJBMIXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-21</td><td><a href="/miui/umi/stable/V12.0.1.0.QJBMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJBMIXM</td><td>10.0</td><td>4.5 GB</td><td>2020-07-09</td><td><a href="/miui/umi/stable/V12.0.1.0.QJBMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>20.6.17</td><td>10.0</td><td>3.7 GB</td><td>2020-06-17</td><td><a href="/miui/umi/weekly/20.6.17/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QJBINXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-12</td><td><a href="/miui/umi/stable/V11.0.5.0.QJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QJBINXM</td><td>10.0</td><td>3.6 GB</td><td>2020-05-16</td><td><a href="/miui/umi/stable/V11.0.5.0.QJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QJBINXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-29</td><td><a href="/miui/umi/stable/V11.0.7.0.QJBINXM/">Download</a></td></tr>

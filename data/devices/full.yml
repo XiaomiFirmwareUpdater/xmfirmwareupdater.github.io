@@ -28229,6 +28229,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
+  date: '2020-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-04.12.2020/fw_monet_miui_MONETGlobal_V12.1.1.0.RJIMIXM_ca34271367_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.1.1.0.RJIMIXM_ca34271367_11.0.zip
+  filename: fw_monet_miui_MONETGlobal_V12.1.1.0.RJIMIXM_ca34271367_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.1.1.0.RJIMIXM
+- branch: stable
   date: '2020-10-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-28.10.2020/fw_monet_miui_MONETEEAGlobal_V12.0.3.0.QJIEUXM_31a34bf096_10.0.zip
@@ -56008,6 +56018,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2020-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-04.12.2020/fw_umi_miui_UMIINGlobal_V12.2.2.0.RJBINXM_6a4ae69df6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIINGlobal_V12.2.2.0.RJBINXM_6a4ae69df6_11.0.zip
+  filename: fw_umi_miui_UMIINGlobal_V12.2.2.0.RJBINXM_6a4ae69df6_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.2.2.0.RJBINXM
 - branch: stable
   date: '2020-12-03'
   downloads:
