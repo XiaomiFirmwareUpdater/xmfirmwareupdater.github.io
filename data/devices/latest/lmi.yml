@@ -29,12 +29,12 @@
     android: '11.0'
     miui: 20.12.2
 - branch: stable
-  date: '2020-10-09'
+  date: '2020-12-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-09.10.2020/fw_lmi_miui_LMIEEAGlobal_V12.0.3.0.QJKEUXM_a9ead2b623_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.0.3.0.QJKEUXM_a9ead2b623_10.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.0.3.0.QJKEUXM_a9ead2b623_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-07.12.2020/fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
   region: Europe
   versions:
-    android: '10.0'
-    miui: V12.0.3.0.QJKEUXM
+    android: '11.0'
+    miui: V12.2.1.0.RJKEUXM

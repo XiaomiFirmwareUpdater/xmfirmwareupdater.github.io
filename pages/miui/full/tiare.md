@@ -52,7 +52,9 @@ permalink: /archive/miui/tiare/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Go India</td><td>Stable</td><td>Recovery</td><td>V10.2.17.0.OCLINXM</td><td>8.1</td><td>812.6 MB</td><td>2020-09-24</td><td><a href="/miui/tiare/stable/V10.2.17.0.OCLINXM/">Download</a></td></tr>
+                <tr><td>Redmi Go Global</td><td>Stable</td><td>Recovery</td><td>V10.2.22.0.OCLMIXM</td><td>8.1</td><td>807.4 MB</td><td>2020-12-07</td><td><a href="/miui/tiare/stable/V10.2.22.0.OCLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Go Global</td><td>Stable</td><td>Fastboot</td><td>V10.2.22.0.OCLMIXM</td><td>8.1</td><td>891.4 MB</td><td>2020-11-30</td><td><a href="/miui/tiare/stable/V10.2.22.0.OCLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Go India</td><td>Stable</td><td>Recovery</td><td>V10.2.17.0.OCLINXM</td><td>8.1</td><td>812.6 MB</td><td>2020-09-24</td><td><a href="/miui/tiare/stable/V10.2.17.0.OCLINXM/">Download</a></td></tr>
 <tr><td>Redmi Go India</td><td>Stable</td><td>Fastboot</td><td>V10.2.17.0.OCLINXM</td><td>8.1</td><td>896.7 MB</td><td>2020-09-17</td><td><a href="/miui/tiare/stable/V10.2.17.0.OCLINXM/">Download</a></td></tr>
 <tr><td>Redmi Go Global</td><td>Stable</td><td>Recovery</td><td>V10.2.20.0.OCLMIXM</td><td>8.1</td><td>812.6 MB</td><td>2020-09-24</td><td><a href="/miui/tiare/stable/V10.2.20.0.OCLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Go Global</td><td>Stable</td><td>Fastboot</td><td>V10.2.20.0.OCLMIXM</td><td>8.1</td><td>897.3 MB</td><td>2020-09-17</td><td><a href="/miui/tiare/stable/V10.2.20.0.OCLMIXM/">Download</a></td></tr>
