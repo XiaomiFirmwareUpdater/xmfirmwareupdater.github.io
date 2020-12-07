@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 07 Dec 2020 19:21:08 +0900</pubDate>
+  <pubDate>Tue, 08 Dec 2020 01:15:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.6.0.QJQCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Tue, 08 Dec 2020 01:15:43 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.2.1.0.RJKEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - 20.12.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Thu, 03 Dec 2020 23:28:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 20.12.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Thu, 03 Dec 2020 23:27:45 +0900</pubDate>
   </item>
     </channel>
 </rss>
