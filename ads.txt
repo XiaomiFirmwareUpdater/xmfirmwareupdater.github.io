@@ -501,4 +501,20 @@ spotx.tv, 241914, RESELLER, 7842df1d2fe2db34
 rhythmone.com, 731822025,DIRECT,a670c89d4a324e47
 video.unrulymedia.com, 731822025, DIRECT
 advertising.com, 28464, RESELLER
+sonobi.com, 8efb591506, DIRECT, d1a215d9eb5aee9e
+adtelligent.com, 315983, DIRECT
+smartadserver.com, 1994, RESELLER
+adform.com, 1762, RESELLER
+smartyads.com, 16, RESELLER
+conversantmedia.com, 100066, RESELLER, 03113cd04947736d
+improvedigital.com, 1628, RESELLER
+openx.com, 541177116, RESELLER, 6a698e2ec38604c6
+onetag.com, 59a18369e249bfb, RESELLER
+33across.com, 0010b00002T3JniAAF, DIRECT, bbea06d9c4d2853c
+sovrn.com, 310770, DIRECT, fafdf38b16bf6b2b
+lijit.com, 310770, DIRECT, fafdf38b16bf6b2b
+gumgum.com, 13579, DIRECT, ffdef49475d318a9
+e-planning.net, 835fbafe26d231b1, DIRECT, c1ba615865ed87b2
+rubiconproject.com, 13510, RESELLER, 0bfd66d529a55807
+richaudience.com, 25BiP9IMgN, RESELLER
 #VLI END
