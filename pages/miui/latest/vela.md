@@ -52,9 +52,9 @@ permalink: /miui/vela/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi CC 9 Meitu Edition China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFECNXM</td><td>10.0</td><td>3.6 GB</td><td>2020-08-16</td><td><a href="/miui/vela/stable/V12.0.2.0.QFECNXM/">Download</a></td></tr>
-<tr><td>Mi CC 9 Meitu Edition China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFECNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-08-28</td><td><a href="/miui/vela/stable/V12.0.2.0.QFECNXM/">Download</a></td></tr>
-<tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>10.0</td><td>2.6 GB</td><td>2020-12-03</td><td><a href="/miui/vela/weekly/20.12.2/">Download</a></td></tr>
+                <tr><td>Mi CC 9 Meitu Edition China</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QFECNXM</td><td>10.0</td><td>3.6 GB</td><td>2020-05-17</td><td><a href="/miui/vela/stable/V11.0.4.0.QFECNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 Meitu Edition China</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QFECNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-05-28</td><td><a href="/miui/vela/stable/V11.0.4.0.QFECNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>20.12.9</td><td>10.0</td><td>2.6 GB</td><td>2020-12-10</td><td><a href="/miui/vela/weekly/20.12.9/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

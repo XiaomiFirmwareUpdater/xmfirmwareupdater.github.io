@@ -55,10 +55,10 @@ permalink: /miui/picasso/
                 <tr><td>Redmi K30 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QGICNXM</td><td>10.0</td><td>4.3 GB</td><td>2020-10-20</td><td><a href="/miui/picasso/stable/V12.0.7.0.QGICNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QGICNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-10-23</td><td><a href="/miui/picasso/stable/V12.0.7.0.QGICNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.1.0.RGICNXM</td><td>11.0</td><td>3.3 GB</td><td>2020-11-21</td><td><a href="/miui/picasso/stable beta/V12.1.1.0.RGICNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>11.0</td><td>3.6 GB</td><td>2020-12-03</td><td><a href="/miui/picasso/weekly/20.12.2/">Download</a></td></tr>
-<tr><td>Redmi K30i 5G China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>11.0</td><td>3.6 GB</td><td>2020-12-03</td><td><a href="/miui/picasso/weekly/20.12.2/">Download</a></td></tr>
-<tr><td>Redmi K30i 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QGICMXM</td><td>10.0</td><td>4.3 GB</td><td>2020-07-02</td><td><a href="/miui/picasso/stable/V12.0.3.0.QGICMXM/">Download</a></td></tr>
-<tr><td>Redmi K30i 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QGICMXM</td><td>10.0</td><td>3.1 GB</td><td>2020-07-07</td><td><a href="/miui/picasso/stable/V12.0.3.0.QGICMXM/">Download</a></td></tr>
+<tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>20.12.10</td><td>11.0</td><td>3.7 GB</td><td>2020-12-10</td><td><a href="/miui/picasso/weekly/20.12.10/">Download</a></td></tr>
+<tr><td>Redmi K30i 5G China</td><td>Weekly</td><td>Recovery</td><td>20.12.10</td><td>11.0</td><td>3.7 GB</td><td>2020-12-10</td><td><a href="/miui/picasso/weekly/20.12.10/">Download</a></td></tr>
+<tr><td>Redmi K30i 5G China</td><td>Stable</td><td>Fastboot</td><td>V11.1.27.0.QGICMXM</td><td>10.0</td><td>4.0 GB</td><td>2020-05-22</td><td><a href="/miui/picasso/stable/V11.1.27.0.QGICMXM/">Download</a></td></tr>
+<tr><td>Redmi K30i 5G China</td><td>Stable</td><td>Recovery</td><td>V11.1.27.0.QGICMXM</td><td>10.0</td><td>2.9 GB</td><td>2020-05-29</td><td><a href="/miui/picasso/stable/V11.1.27.0.QGICMXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -52,7 +52,8 @@ permalink: /archive/miui/raphael/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>10.0</td><td>2.8 GB</td><td>2020-12-03</td><td><a href="/miui/raphael/weekly/20.12.2/">Download</a></td></tr>
+                <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.12.9</td><td>10.0</td><td>2.8 GB</td><td>2020-12-10</td><td><a href="/miui/raphael/weekly/20.12.9/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>10.0</td><td>2.8 GB</td><td>2020-12-03</td><td><a href="/miui/raphael/weekly/20.12.2/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.11.25</td><td>10.0</td><td>2.8 GB</td><td>2020-11-26</td><td><a href="/miui/raphael/weekly/20.11.25/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.11.18</td><td>10.0</td><td>2.8 GB</td><td>2020-11-19</td><td><a href="/miui/raphael/weekly/20.11.18/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.11.11</td><td>10.0</td><td>2.8 GB</td><td>2020-11-12</td><td><a href="/miui/raphael/weekly/20.11.11/">Download</a></td></tr>

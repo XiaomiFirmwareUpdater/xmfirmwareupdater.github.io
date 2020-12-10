@@ -52,7 +52,8 @@ permalink: /archive/miui/phoenix/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>11.0</td><td>3.2 GB</td><td>2020-12-03</td><td><a href="/miui/phoenix/weekly/20.12.2/">Download</a></td></tr>
+                <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.12.10</td><td>11.0</td><td>3.3 GB</td><td>2020-12-10</td><td><a href="/miui/phoenix/weekly/20.12.10/">Download</a></td></tr>
+<tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>11.0</td><td>3.2 GB</td><td>2020-12-03</td><td><a href="/miui/phoenix/weekly/20.12.2/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.11.25</td><td>11.0</td><td>3.2 GB</td><td>2020-11-26</td><td><a href="/miui/phoenix/weekly/20.11.25/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.11.18</td><td>11.0</td><td>3.2 GB</td><td>2020-11-19</td><td><a href="/miui/phoenix/weekly/20.11.18/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.11.12</td><td>11.0</td><td>3.1 GB</td><td>2020-11-12</td><td><a href="/miui/phoenix/weekly/20.11.12/">Download</a></td></tr>

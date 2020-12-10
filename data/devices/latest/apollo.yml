@@ -19,15 +19,15 @@
     android: '10.0'
     miui: V12.0.6.0.QJDCNXM
 - branch: weekly
-  date: '2020-12-03'
+  date: '2020-12-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/weekly-03.12.2020/fw_apollo_miui_APOLLO_20.12.2_1a36404c6c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/apollo/fw_apollo_miui_APOLLO_20.12.2_1a36404c6c_10.0.zip
-  filename: fw_apollo_miui_APOLLO_20.12.2_1a36404c6c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/weekly-10.12.2020/fw_apollo_miui_APOLLO_20.12.9_7ec30be920_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.9/apollo/fw_apollo_miui_APOLLO_20.12.9_7ec30be920_10.0.zip
+  filename: fw_apollo_miui_APOLLO_20.12.9_7ec30be920_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.12.2
+    miui: 20.12.9
 - branch: stable
   date: '2020-12-08'
   downloads:

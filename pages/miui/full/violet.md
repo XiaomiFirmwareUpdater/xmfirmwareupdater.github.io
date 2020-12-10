@@ -52,7 +52,8 @@ permalink: /archive/miui/violet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>10.0</td><td>2.3 GB</td><td>2020-12-03</td><td><a href="/miui/violet/weekly/20.12.2/">Download</a></td></tr>
+                <tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.12.9</td><td>10.0</td><td>2.3 GB</td><td>2020-12-10</td><td><a href="/miui/violet/weekly/20.12.9/">Download</a></td></tr>
+<tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.12.2</td><td>10.0</td><td>2.3 GB</td><td>2020-12-03</td><td><a href="/miui/violet/weekly/20.12.2/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QFHINXM</td><td>10.0</td><td>2.3 GB</td><td>2020-12-01</td><td><a href="/miui/violet/stable/V12.0.4.0.QFHINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QFHINXM</td><td>10.0</td><td>2.7 GB</td><td>2020-11-28</td><td><a href="/miui/violet/stable/V12.0.4.0.QFHINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.11.25</td><td>10.0</td><td>2.3 GB</td><td>2020-11-26</td><td><a href="/miui/violet/weekly/20.11.25/">Download</a></td></tr>
