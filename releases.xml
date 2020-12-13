@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 12 Dec 2020 07:08:29 +0900</pubDate>
+  <pubDate>Sun, 13 Dec 2020 19:14:32 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X3 NFC (surya) - V12.0.6.0.QJGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Sun, 13 Dec 2020 19:14:32 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 7A (pine) - V11.0.5.0.QCMMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 8 (ginkgo) - 20.12.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
     <pubDate>Fri, 11 Dec 2020 00:40:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 20.12.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Fri, 11 Dec 2020 00:39:18 +0900</pubDate>
   </item>
     </channel>
 </rss>

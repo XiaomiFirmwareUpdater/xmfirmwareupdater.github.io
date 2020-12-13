@@ -51859,6 +51859,16 @@
     android: '8.1'
     miui: 8.6.18
 - branch: stable
+  date: '2020-12-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-13.12.2020/fw_surya_miui_SURYAGlobal_V12.0.6.0.QJGMIXM_50419afd46_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.0.6.0.QJGMIXM_50419afd46_10.0.zip
+  filename: fw_surya_miui_SURYAGlobal_V12.0.6.0.QJGMIXM_50419afd46_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QJGMIXM
+- branch: stable
   date: '2020-11-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-02.11.2020/fw_surya_miui_SURYAINGlobal_V12.0.5.0.QJGINXM_d1f8a7fbcb_10.0.zip
