@@ -1018,6 +1018,16 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QJHCNXM
+- branch: stable
+  date: '2020-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-18.12.2020/fw_begonia_miui_BEGONIAEEAGlobal_V12.0.3.0.QGGEUXM_b8772f9b12_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V12.0.3.0.QGGEUXM_b8772f9b12_10.0.zip
+  filename: fw_begonia_miui_BEGONIAEEAGlobal_V12.0.3.0.QGGEUXM_b8772f9b12_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QGGEUXM
 - branch: weekly
   date: '2020-12-10'
   downloads:
@@ -27289,6 +27299,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2020-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-18.12.2020/fw_merlin_miui_MERLINEEAGlobal_V12.0.5.0.QJOEUXM_d605e6fe32_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINEEAGlobal_V12.0.5.0.QJOEUXM_d605e6fe32_10.0.zip
+  filename: fw_merlin_miui_MERLINEEAGlobal_V12.0.5.0.QJOEUXM_d605e6fe32_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QJOEUXM
+- branch: stable
   date: '2020-11-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-30.11.2020/fw_merlin_miui_MERLINEEAGlobal_V12.0.4.0.QJOEUXM_71e6083767_10.0.zip
@@ -41178,6 +41198,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: stable
+  date: '2020-12-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-18.12.2020/fw_raphael_miui_RAPHAEL_V12.0.6.0.QFKCNXM_c6d3a0b658_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAEL_V12.0.6.0.QFKCNXM_c6d3a0b658_10.0.zip
+  filename: fw_raphael_miui_RAPHAEL_V12.0.6.0.QFKCNXM_c6d3a0b658_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QFKCNXM
 - branch: weekly
   date: '2020-12-10'
   downloads:
