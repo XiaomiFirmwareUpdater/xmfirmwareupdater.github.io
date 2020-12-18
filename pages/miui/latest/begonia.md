@@ -63,7 +63,7 @@ permalink: /miui/begonia/
 <tr><td>Redmi Note 8 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QGGIDXM</td><td>10.0</td><td>2.1 GB</td><td>2020-12-01</td><td><a href="/miui/begonia/stable/V12.0.3.0.QGGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QGGRUXM</td><td>10.0</td><td>3.7 GB</td><td>2020-10-22</td><td><a href="/miui/begonia/stable/V12.0.5.0.QGGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QGGRUXM</td><td>10.0</td><td>2.1 GB</td><td>2020-10-23</td><td><a href="/miui/begonia/stable/V12.0.5.0.QGGRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QGGRUXM</td><td>10.0</td><td>2.1 GB</td><td>2020-08-28</td><td><a href="/miui/begonia/stable beta/V12.0.3.0.QGGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.0.QGGRUXM</td><td>10.0</td><td>2.3 GB</td><td>2020-12-18</td><td><a href="/miui/begonia/stable beta/V12.0.6.0.QGGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QGGINXM</td><td>10.0</td><td>3.1 GB</td><td>2020-11-23</td><td><a href="/miui/begoniain/stable/V12.0.3.0.QGGINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QGGINXM</td><td>10.0</td><td>2.1 GB</td><td>2020-12-01</td><td><a href="/miui/begoniain/stable/V12.0.3.0.QGGINXM/">Download</a></td></tr>
 

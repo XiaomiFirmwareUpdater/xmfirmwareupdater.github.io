@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-12-05'
+  date: '2020-12-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-06.12.2020/fw_gauguin_miui_GAUGUIN_V12.0.6.0.QJSCNXM_f61ed25a57_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUIN_V12.0.6.0.QJSCNXM_f61ed25a57_10.0.zip
-  filename: fw_gauguin_miui_GAUGUIN_V12.0.6.0.QJSCNXM_f61ed25a57_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-18.12.2020/fw_gauguin_miui_GAUGUIN_V12.0.7.0.QJSCNXM_e2dd0cb625_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUIN_V12.0.7.0.QJSCNXM_e2dd0cb625_10.0.zip
+  filename: fw_gauguin_miui_GAUGUIN_V12.0.7.0.QJSCNXM_e2dd0cb625_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.6.0.QJSCNXM
+    miui: V12.0.7.0.QJSCNXM
 - branch: stable
   date: '2020-12-01'
   downloads:

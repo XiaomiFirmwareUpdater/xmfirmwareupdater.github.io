@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 17 Dec 2020 07:10:09 +0900</pubDate>
+  <pubDate>Fri, 18 Dec 2020 19:08:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite (gauguin) - V12.0.7.0.QJSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Fri, 18 Dec 2020 19:08:43 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 Pro Max (excalibur) - V12.0.2.0.QJXINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/excalibur</link>
@@ -100,11 +105,6 @@
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 20.12.9</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Fri, 11 Dec 2020 00:52:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 20.12.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 11 Dec 2020 00:51:42 +0900</pubDate>
   </item>
     </channel>
 </rss>
