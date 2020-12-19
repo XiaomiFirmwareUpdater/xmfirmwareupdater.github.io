@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2020-05-15'
+  date: '2020-11-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-15.05.2020/fw_sakura-india_miui_HM6ProINGlobal_V11.0.7.0.PDMMIXM_245cc0a57f_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura-india_miui_HM6ProINGlobal_V11.0.7.0.PDMMIXM_245cc0a57f_9.0.zip
-  filename: fw_sakura-india_miui_HM6ProINGlobal_V11.0.7.0.PDMMIXM_245cc0a57f_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-12.11.2020/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sakura/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
+  filename: fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.7.0.PDMMIXM
+    miui: V12.0.4.0.PDMMIXM

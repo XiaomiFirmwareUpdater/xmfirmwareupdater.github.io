@@ -3742,18 +3742,6 @@
   download: https://bigota.d.miui.com/20.4.27/miui_MI6_20.4.27_12ed897867_9.0.zip
   name: Mi 6
   version: 20.4.27
-- android: '9.0'
-  codename: sakura
-  date: '2020-11-12'
-  download: https://bigota.d.miui.com/V12.0.4.0.PDMMIXM/india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-  name: Redmi 6 Pro
-  version: V12.0.4.0.PDMMIXM
-- android: '9.0'
-  codename: sakura
-  date: '2020-11-12'
-  download: https://bigota.d.miui.com/V12.0.4.0.PDMMIXM/india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-  name: Redmi 6 Pro
-  version: V12.0.4.0.PDMMIXM
 - android: '10.0'
   codename: sirius
   date: '2020-09-05'

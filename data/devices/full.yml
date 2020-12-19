@@ -10279,6 +10279,16 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
+  date: '2020-12-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-19.12.2020/fw_curtana_miui_CURTANAINGlobal_V12.0.2.0.QJWINXM_533770a027_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAINGlobal_V12.0.2.0.QJWINXM_533770a027_10.0.zip
+  filename: fw_curtana_miui_CURTANAINGlobal_V12.0.2.0.QJWINXM_533770a027_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJWINXM
+- branch: stable
   date: '2020-11-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-18.11.2020/fw_curtana_miui_CURTANAINGlobal_V12.0.1.0.RJWINXM_3ad7d510e0_11.0.zip
@@ -24758,6 +24768,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2020-12-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lime/releases/download/stable-19.12.2020/fw_lime_miui_LIMEGlobal_V12.0.1.0.QJQMIXM_7311f53d9e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.0.1.0.QJQMIXM_7311f53d9e_10.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V12.0.1.0.QJQMIXM_7311f53d9e_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJQMIXM
 - branch: stable
   date: '2020-12-08'
   downloads:
@@ -47158,21 +47178,21 @@
   versions:
     android: '8.0'
     miui: 8.4.26
-- branch: weekly
+- branch: stable
   date: '2020-11-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/weekly-12.11.2020/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V12.0.4.0.PDMMIXM/sakura/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-12.11.2020/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sakura/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
   filename: fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
   region: India
   versions:
     android: '9.0'
     miui: V12.0.4.0.PDMMIXM
-- branch: weekly
+- branch: stable
   date: '2020-11-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/weekly-12.11.2020/fw_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V12.0.4.0.PDMMIXM/sakura/fw_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-12.11.2020/fw_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sakura/fw_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
   filename: fw_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
   region: India
   versions:
