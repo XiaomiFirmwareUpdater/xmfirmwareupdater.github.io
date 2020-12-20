@@ -1769,15 +1769,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2020-09-25'
+  date: '2020-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-25.09.2020/fw_olive_miui_OLIVEGlobal_V11.0.3.0.QCNMIXM_8fb6dd469e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVEGlobal_V11.0.3.0.QCNMIXM_8fb6dd469e_10.0.zip
-  filename: fw_olive_miui_OLIVEGlobal_V11.0.3.0.QCNMIXM_8fb6dd469e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-20.12.2020/fw_olive_miui_OLIVEGlobal_V12.0.1.0.QCNMIXM_ff1f4ba5e5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEGlobal_V12.0.1.0.QCNMIXM_ff1f4ba5e5_10.0.zip
+  filename: fw_olive_miui_OLIVEGlobal_V12.0.1.0.QCNMIXM_ff1f4ba5e5_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QCNMIXM
+    miui: V12.0.1.0.QCNMIXM
 - branch: stable
   date: '2020-10-21'
   downloads:
@@ -1809,15 +1809,15 @@
     android: '10.0'
     miui: V11.0.2.0.QCNINXM
 - branch: stable
-  date: '2020-10-09'
+  date: '2020-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-09.10.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.2.0.QCPMIXM_8b2e928a61_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.2.0.QCPMIXM_8b2e928a61_10.0.zip
-  filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.2.0.QCPMIXM_8b2e928a61_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-20.12.2020/fw_olivelite_miui_OLIVELITEGlobal_V11.0.3.0.QCPMIXM_e615013e25_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V11.0.3.0.QCPMIXM_e615013e25_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEGlobal_V11.0.3.0.QCPMIXM_e615013e25_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QCPMIXM
+    miui: V11.0.3.0.QCPMIXM
 - branch: stable
   date: '2020-09-07'
   downloads:
@@ -2049,15 +2049,15 @@
     android: '10.0'
     miui: V11.0.2.0.QCMCNXM
 - branch: stable
-  date: '2020-09-18'
+  date: '2020-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-18.09.2020/fw_pine_miui_PINEEEAGlobal_V11.0.4.0.QCMEUXM_812603f988_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEEEAGlobal_V11.0.4.0.QCMEUXM_812603f988_10.0.zip
-  filename: fw_pine_miui_PINEEEAGlobal_V11.0.4.0.QCMEUXM_812603f988_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-20.12.2020/fw_pine_miui_PINEEEAGlobal_V11.0.5.0.QCMEUXM_bacc5550e3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/pine/fw_pine_miui_PINEEEAGlobal_V11.0.5.0.QCMEUXM_bacc5550e3_10.0.zip
+  filename: fw_pine_miui_PINEEEAGlobal_V11.0.5.0.QCMEUXM_bacc5550e3_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QCMEUXM
+    miui: V11.0.5.0.QCMEUXM
 - branch: stable
   date: '2020-10-21'
   downloads:
@@ -2849,15 +2849,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2020-09-21'
+  date: '2020-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-21.09.2020/fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
-  filename: fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-20.12.2020/fw_vangogh_miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V12.0.6.0.QJVCNXM
+    android: '11.0'
+    miui: V12.1.3.0.RJVCNXM
 - branch: weekly
   date: '2020-12-10'
   downloads:

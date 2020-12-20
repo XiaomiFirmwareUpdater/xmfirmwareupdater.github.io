@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-09-21'
+  date: '2020-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-21.09.2020/fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
-  filename: fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-20.12.2020/fw_vangogh_miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V12.0.6.0.QJVCNXM
+    android: '11.0'
+    miui: V12.1.3.0.RJVCNXM
 - branch: weekly
   date: '2020-12-10'
   downloads:
