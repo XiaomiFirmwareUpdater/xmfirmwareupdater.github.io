@@ -969,25 +969,25 @@
     android: '10.0'
     miui: V12.0.1.0.QCOINXM
 - branch: stable
-  date: '2020-09-29'
+  date: '2020-12-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gram/releases/download/stable-29.09.2020/fw_gram_miui_GRAMINGlobal_V12.0.1.0.QJPINXM_be860b8c30_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gram/fw_gram_miui_GRAMINGlobal_V12.0.1.0.QJPINXM_be860b8c30_10.0.zip
-  filename: fw_gram_miui_GRAMINGlobal_V12.0.1.0.QJPINXM_be860b8c30_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gram/releases/download/stable-21.12.2020/fw_gram_miui_GRAMINGlobal_V12.0.2.0.QJPINXM_93ec969397_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gram/fw_gram_miui_GRAMINGlobal_V12.0.2.0.QJPINXM_93ec969397_10.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V12.0.2.0.QJPINXM_93ec969397_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QJPINXM
+    miui: V12.0.2.0.QJPINXM
 - branch: stable
-  date: '2020-10-13'
+  date: '2020-12-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-13.10.2020/fw_grus_miui_GRUSGlobal_V12.0.2.0.QFBMIXM_c855a1dd7e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/grus/fw_grus_miui_GRUSGlobal_V12.0.2.0.QFBMIXM_c855a1dd7e_10.0.zip
-  filename: fw_grus_miui_GRUSGlobal_V12.0.2.0.QFBMIXM_c855a1dd7e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-21.12.2020/fw_grus_miui_GRUSGlobal_V12.0.3.0.QFBMIXM_6296b46b35_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/grus/fw_grus_miui_GRUSGlobal_V12.0.3.0.QFBMIXM_6296b46b35_10.0.zip
+  filename: fw_grus_miui_GRUSGlobal_V12.0.3.0.QFBMIXM_6296b46b35_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QFBMIXM
+    miui: V12.0.3.0.QFBMIXM
 - branch: stable
   date: '2020-12-03'
   downloads:
@@ -2169,15 +2169,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2020-10-26'
+  date: '2020-12-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-26.10.2020/fw_pyxis_miui_PYXISGlobal_V12.0.4.0.QFCMIXM_84588d8a42_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISGlobal_V12.0.4.0.QFCMIXM_84588d8a42_10.0.zip
-  filename: fw_pyxis_miui_PYXISGlobal_V12.0.4.0.QFCMIXM_84588d8a42_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-21.12.2020/fw_pyxis_miui_PYXISGlobal_V12.0.5.0.QFCMIXM_73995f47b7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISGlobal_V12.0.5.0.QFCMIXM_73995f47b7_10.0.zip
+  filename: fw_pyxis_miui_PYXISGlobal_V12.0.5.0.QFCMIXM_73995f47b7_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.4.0.QFCMIXM
+    miui: V12.0.5.0.QFCMIXM
 - branch: stable
   date: '2020-08-24'
   downloads:

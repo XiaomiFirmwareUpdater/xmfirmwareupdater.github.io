@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2020-09-29'
+  date: '2020-12-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gram/releases/download/stable-29.09.2020/fw_gram_miui_GRAMINGlobal_V12.0.1.0.QJPINXM_be860b8c30_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gram/fw_gram_miui_GRAMINGlobal_V12.0.1.0.QJPINXM_be860b8c30_10.0.zip
-  filename: fw_gram_miui_GRAMINGlobal_V12.0.1.0.QJPINXM_be860b8c30_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gram/releases/download/stable-21.12.2020/fw_gram_miui_GRAMINGlobal_V12.0.2.0.QJPINXM_93ec969397_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gram/fw_gram_miui_GRAMINGlobal_V12.0.2.0.QJPINXM_93ec969397_10.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V12.0.2.0.QJPINXM_93ec969397_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QJPINXM
+    miui: V12.0.2.0.QJPINXM
