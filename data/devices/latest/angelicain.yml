@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2020-11-03'
+  date: '2020-12-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelicain/releases/download/stable-03.11.2020/fw_angelicain_miui_ANGELICAININGlobal_V12.0.3.0.QCRINXM_af313c2641_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.3.0.QCRINXM_af313c2641_10.0.zip
-  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.3.0.QCRINXM_af313c2641_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelicain/releases/download/stable-25.12.2020/fw_angelicain_miui_ANGELICAININGlobal_V12.0.5.0.QCRINXM_58e4e891b6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.5.0.QCRINXM_58e4e891b6_10.0.zip
+  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.5.0.QCRINXM_58e4e891b6_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QCRINXM
+    miui: V12.0.5.0.QCRINXM

@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 25 Dec 2020 19:08:14 +0900</pubDate>
+  <pubDate>Sat, 26 Dec 2020 01:23:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.2.3.0.RJKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Sat, 26 Dec 2020 01:23:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.2.3.0.RJKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Sat, 26 Dec 2020 01:21:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Pro (equuleus) - V12.0.4.0.QECCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
+    <pubDate>Sat, 26 Dec 2020 01:20:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/9AT (dandelion) - V12.0.8.0.QCDINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Sat, 26 Dec 2020 01:19:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C3 (angelicain) - V12.0.5.0.QCRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
+    <pubDate>Sat, 26 Dec 2020 01:19:00 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Lite (monet) - V12.1.2.0.RJIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
@@ -80,31 +105,6 @@
     <title>Redmi Y3 (onc) - V11.0.1.0.QFLMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
     <pubDate>Tue, 22 Dec 2020 20:52:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - V12.0.2.0.QFGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Tue, 22 Dec 2020 20:51:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.0.5.0.QFCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Tue, 22 Dec 2020 01:16:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - V12.0.3.0.QFBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Tue, 22 Dec 2020 01:15:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M2 Pro (gram) - V12.0.2.0.QJPINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gram</link>
-    <pubDate>Tue, 22 Dec 2020 01:14:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - V12.1.3.0.RJVCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Sun, 20 Dec 2020 19:10:42 +0900</pubDate>
   </item>
     </channel>
 </rss>

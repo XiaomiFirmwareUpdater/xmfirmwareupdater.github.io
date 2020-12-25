@@ -49,15 +49,15 @@
     android: '10.0'
     miui: V12.0.5.0.QCREUXM
 - branch: stable
-  date: '2020-11-03'
+  date: '2020-12-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelicain/releases/download/stable-03.11.2020/fw_angelicain_miui_ANGELICAININGlobal_V12.0.3.0.QCRINXM_af313c2641_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.3.0.QCRINXM_af313c2641_10.0.zip
-  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.3.0.QCRINXM_af313c2641_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelicain/releases/download/stable-25.12.2020/fw_angelicain_miui_ANGELICAININGlobal_V12.0.5.0.QCRINXM_58e4e891b6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.5.0.QCRINXM_58e4e891b6_10.0.zip
+  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.5.0.QCRINXM_58e4e891b6_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QCRINXM
+    miui: V12.0.5.0.QCRINXM
 - branch: stable
   date: '2020-11-05'
   downloads:
@@ -699,15 +699,15 @@
     android: '10.0'
     miui: V12.0.9.0.QCDEUXM
 - branch: stable
-  date: '2020-12-03'
+  date: '2020-12-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-03.12.2020/fw_dandelion_miui_DANDELIONINGlobal_V12.0.7.0.QCDINXM_cc0a5a3da2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.7.0.QCDINXM_cc0a5a3da2_10.0.zip
-  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.7.0.QCDINXM_cc0a5a3da2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-25.12.2020/fw_dandelion_miui_DANDELIONINGlobal_V12.0.8.0.QCDINXM_8ba30677e0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.8.0.QCDINXM_8ba30677e0_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.8.0.QCDINXM_8ba30677e0_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.7.0.QCDINXM
+    miui: V12.0.8.0.QCDINXM
 - branch: stable
   date: '2020-10-16'
   downloads:
@@ -809,15 +809,15 @@
     android: '10.0'
     miui: V12.0.1.0.QECMIXM
 - branch: stable
-  date: '2020-12-15'
+  date: '2020-12-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-15.12.2020/fw_equuleus_miui_MI8UD_V12.0.3.0.QECCNXM_f2bbbdce7b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/equuleus/fw_equuleus_miui_MI8UD_V12.0.3.0.QECCNXM_f2bbbdce7b_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_V12.0.3.0.QECCNXM_f2bbbdce7b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-25.12.2020/fw_equuleus_miui_MI8UD_V12.0.4.0.QECCNXM_f875c0d75f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/equuleus/fw_equuleus_miui_MI8UD_V12.0.4.0.QECCNXM_f875c0d75f_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_V12.0.4.0.QECCNXM_f875c0d75f_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QECCNXM
+    miui: V12.0.4.0.QECCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1499,15 +1499,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-11-27'
+  date: '2020-12-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-27.11.2020/fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-25.12.2020/fw_lmi_miui_LMIGlobal_V12.2.3.0.RJKMIXM_747f5d1381_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.3.0.RJKMIXM_747f5d1381_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.2.3.0.RJKMIXM_747f5d1381_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.2.1.0.RJKMIXM
+    miui: V12.2.3.0.RJKMIXM
 - branch: stable
   date: '2020-11-20'
   downloads:
@@ -1529,15 +1529,15 @@
     android: '11.0'
     miui: 20.12.10
 - branch: stable
-  date: '2020-12-07'
+  date: '2020-12-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-07.12.2020/fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-25.12.2020/fw_lmi_miui_LMIEEAGlobal_V12.2.3.0.RJKEUXM_d42ecbfe01_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.3.0.RJKEUXM_d42ecbfe01_11.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.3.0.RJKEUXM_d42ecbfe01_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.2.1.0.RJKEUXM
+    miui: V12.2.3.0.RJKEUXM
 - branch: stable
   date: '2020-10-22'
   downloads:
