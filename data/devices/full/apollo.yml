@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-12-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-28.12.2020/fw_apollo_miui_APOLLOGlobal_V12.0.9.0.QJDMIXM_5afb52eebd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOGlobal_V12.0.9.0.QJDMIXM_5afb52eebd_10.0.zip
+  filename: fw_apollo_miui_APOLLOGlobal_V12.0.9.0.QJDMIXM_5afb52eebd_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.9.0.QJDMIXM
+- branch: stable
   date: '2020-12-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-24.12.2020/fw_apollo_miui_APOLLOEEAGlobal_V12.0.14.0.QJDEUXM_8c5a32a072_10.0.zip

@@ -52,7 +52,7 @@ permalink: /archive/miui/equuleus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QECCNXM</td><td>10.0</td><td>2.2 GB</td><td>2020-12-25</td><td><a href="/miui/equuleus/stable beta/V12.0.4.0.QECCNXM/">Download</a></td></tr>
+                <tr><td>Mi 8 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QECCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-12-25</td><td><a href="/miui/equuleus/stable beta/V12.0.4.0.QECCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QECCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-12-14</td><td><a href="/miui/equuleus/stable/V12.0.3.0.QECCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QECCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-12-04</td><td><a href="/miui/equuleus/stable/V12.0.3.0.QECCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QECRUXM</td><td>10.0</td><td>2.1 GB</td><td>2020-11-17</td><td><a href="/miui/equuleus/stable/V12.0.1.0.QECRUXM/">Download</a></td></tr>

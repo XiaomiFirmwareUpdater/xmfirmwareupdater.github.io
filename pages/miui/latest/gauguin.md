@@ -52,9 +52,9 @@ permalink: /miui/gauguin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJSCNXM</td><td>10.0</td><td>4.1 GB</td><td>2020-12-01</td><td><a href="/miui/gauguin/stable/V12.0.6.0.QJSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJSCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-12-05</td><td><a href="/miui/gauguin/stable/V12.0.6.0.QJSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.7.0.QJSCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-12-17</td><td><a href="/miui/gauguin/stable beta/V12.0.7.0.QJSCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QJSCNXM</td><td>10.0</td><td>4.0 GB</td><td>2020-12-12</td><td><a href="/miui/gauguin/stable/V12.0.7.0.QJSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJSCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-12-17</td><td><a href="/miui/gauguin/stable/V12.0.7.0.QJSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QJSCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-11-30</td><td><a href="/miui/gauguin/stable beta/V12.0.2.0.QJSCNXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJSEUXM</td><td>10.0</td><td>4.6 GB</td><td>2020-11-17</td><td><a href="/miui/gauguin/stable/V12.0.6.0.QJSEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJSEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-12-01</td><td><a href="/miui/gauguin/stable/V12.0.6.0.QJSEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QJSEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-11-16</td><td><a href="/miui/gauguin/stable beta/V12.0.5.0.QJSEUXM/">Download</a></td></tr>
