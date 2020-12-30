@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 30 Dec 2020 01:14:05 +0900</pubDate>
+  <pubDate>Wed, 30 Dec 2020 19:21:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO M2 (shiva) - V12.0.1.0.QJRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
+    <pubDate>Wed, 30 Dec 2020 19:21:23 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 5G (cannon) - V12.0.5.0.QJECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
@@ -100,11 +105,6 @@
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.7.0.QJOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
     <pubDate>Fri, 25 Dec 2020 02:18:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.3.0.QJQINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Fri, 25 Dec 2020 02:17:47 +0900</pubDate>
   </item>
     </channel>
 </rss>
