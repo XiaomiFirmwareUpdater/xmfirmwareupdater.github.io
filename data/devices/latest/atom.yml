@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V12.0.6.0.QJHCNXM
 - branch: weekly
-  date: '2020-12-10'
+  date: '2020-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/weekly-10.12.2020/fw_atom_miui_ATOM_20.12.9_be62219fef_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.9/atom/fw_atom_miui_ATOM_20.12.9_be62219fef_11.0.zip
-  filename: fw_atom_miui_ATOM_20.12.9_be62219fef_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/weekly-31.12.2020/fw_atom_miui_ATOM_20.12.28_a9c89730d2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.28/atom/fw_atom_miui_ATOM_20.12.28_a9c89730d2_11.0.zip
+  filename: fw_atom_miui_ATOM_20.12.28_a9c89730d2_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 20.12.9
+    miui: 20.12.28
