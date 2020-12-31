@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2020-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/stable-31.12.2020/fw_cmi_miui_CMI_V12.2.2.0.RJACNXM_07a38c8116_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMI_V12.2.2.0.RJACNXM_07a38c8116_11.0.zip
+  filename: fw_cmi_miui_CMI_V12.2.2.0.RJACNXM_07a38c8116_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.2.2.0.RJACNXM
 - branch: weekly
   date: '2020-12-10'
   downloads:

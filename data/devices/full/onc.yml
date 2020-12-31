@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2020-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-31.12.2020/fw_onc_miui_ONCLITEINGlobal_V11.0.3.0.QFLINXM_e71619dbfd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEINGlobal_V11.0.3.0.QFLINXM_e71619dbfd_10.0.zip
+  filename: fw_onc_miui_ONCLITEINGlobal_V11.0.3.0.QFLINXM_e71619dbfd_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFLINXM
+- branch: stable
   date: '2020-12-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-22.12.2020/fw_onc_miui_ONCLITEGlobal_V11.0.1.0.QFLMIXM_85a121d838_10.0.zip
