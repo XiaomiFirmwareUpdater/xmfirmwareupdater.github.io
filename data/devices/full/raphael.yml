@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2020-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-31.12.2020/fw_raphael_miui_RAPHAEL_20.12.28_5b16e56dc3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.28/raphael/fw_raphael_miui_RAPHAEL_20.12.28_5b16e56dc3_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_20.12.28_5b16e56dc3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.12.28
 - branch: stable
   date: '2020-12-18'
   downloads:
