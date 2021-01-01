@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 01 Jan 2021 05:42:20 +0900</pubDate>
+  <pubDate>Sat, 02 Jan 2021 07:09:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 4G (phoenix) - V12.1.3.0.RGHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Sat, 02 Jan 2021 07:09:12 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7 Pro (violet) - 20.12.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
@@ -100,11 +105,6 @@
     <title>Redmi 10X Pro (bomb) - 20.12.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
     <pubDate>Fri, 01 Jan 2021 05:17:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - 20.12.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Fri, 01 Jan 2021 05:16:21 +0900</pubDate>
   </item>
     </channel>
 </rss>
