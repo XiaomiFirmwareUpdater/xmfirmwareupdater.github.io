@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 04 Jan 2021 13:25:54 +0900</pubDate>
+  <pubDate>Mon, 04 Jan 2021 19:21:40 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi MIX 3 (perseus) - V12.0.3.0.QEECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Mon, 04 Jan 2021 19:21:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.10.0.QJDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Mon, 04 Jan 2021 19:20:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.16.0.QJDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Mon, 04 Jan 2021 19:18:50 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.10.0.QJQCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
@@ -90,21 +105,6 @@
     <title>Redmi K30 Ultra (cezanne) - 20.12.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
     <pubDate>Fri, 01 Jan 2021 05:21:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 20.12.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 01 Jan 2021 05:20:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Ultra (cas) - 20.12.29</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
-    <pubDate>Fri, 01 Jan 2021 05:18:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 5G (cannon) - 20.12.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
-    <pubDate>Fri, 01 Jan 2021 05:17:36 +0900</pubDate>
   </item>
     </channel>
 </rss>

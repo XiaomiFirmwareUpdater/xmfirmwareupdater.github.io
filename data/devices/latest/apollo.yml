@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-12-28'
+  date: '2021-01-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-28.12.2020/fw_apollo_miui_APOLLOGlobal_V12.0.9.0.QJDMIXM_5afb52eebd_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOGlobal_V12.0.9.0.QJDMIXM_5afb52eebd_10.0.zip
-  filename: fw_apollo_miui_APOLLOGlobal_V12.0.9.0.QJDMIXM_5afb52eebd_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-04.01.2021/fw_apollo_miui_APOLLOGlobal_V12.0.10.0.QJDMIXM_a56b86d8e2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOGlobal_V12.0.10.0.QJDMIXM_a56b86d8e2_10.0.zip
+  filename: fw_apollo_miui_APOLLOGlobal_V12.0.10.0.QJDMIXM_a56b86d8e2_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.9.0.QJDMIXM
+    miui: V12.0.10.0.QJDMIXM
 - branch: stable
   date: '2020-12-14'
   downloads:
@@ -29,15 +29,15 @@
     android: '11.0'
     miui: 20.12.29
 - branch: stable
-  date: '2020-12-24'
+  date: '2021-01-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-24.12.2020/fw_apollo_miui_APOLLOEEAGlobal_V12.0.14.0.QJDEUXM_8c5a32a072_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOEEAGlobal_V12.0.14.0.QJDEUXM_8c5a32a072_10.0.zip
-  filename: fw_apollo_miui_APOLLOEEAGlobal_V12.0.14.0.QJDEUXM_8c5a32a072_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-04.01.2021/fw_apollo_miui_APOLLOEEAGlobal_V12.0.16.0.QJDEUXM_33239c009f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOEEAGlobal_V12.0.16.0.QJDEUXM_33239c009f_10.0.zip
+  filename: fw_apollo_miui_APOLLOEEAGlobal_V12.0.16.0.QJDEUXM_33239c009f_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.14.0.QJDEUXM
+    miui: V12.0.16.0.QJDEUXM
 - branch: stable
   date: '2020-12-15'
   downloads:

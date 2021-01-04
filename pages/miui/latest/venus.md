@@ -52,7 +52,8 @@ permalink: /miui/venus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.12.0.RKBCNXM</td><td>11.0</td><td>3.9 GB</td><td>2020-12-31</td><td><a href="/miui/venus/stable beta/V12.0.12.0.RKBCNXM/">Download</a></td></tr>
+                <tr><td>Mi 11 China</td><td>Stable Beta</td><td>Fastboot</td><td>V12.0.12.0.RKBCNXM</td><td>11.0</td><td>5.2 GB</td><td>2020-12-30</td><td><a href="/miui/venus/stable beta/V12.0.12.0.RKBCNXM/">Download</a></td></tr>
+<tr><td>Mi 11 China</td><td>Stable</td><td>Recovery</td><td>V12.0.12.0.RKBCNXM</td><td>11.0</td><td>3.9 GB</td><td>2020-12-31</td><td><a href="/miui/venus/stable/V12.0.12.0.RKBCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
