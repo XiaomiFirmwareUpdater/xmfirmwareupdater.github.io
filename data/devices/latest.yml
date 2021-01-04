@@ -59,15 +59,15 @@
     android: '10.0'
     miui: V12.0.5.0.QCRINXM
 - branch: stable
-  date: '2020-11-05'
+  date: '2021-01-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelican/releases/download/stable-05.11.2020/fw_angelican_miui_ANGELICANGlobal_V12.0.3.0.QCSMIXM_a35644ae9e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.3.0.QCSMIXM_a35644ae9e_10.0.zip
-  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.3.0.QCSMIXM_a35644ae9e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelican/releases/download/stable-04.01.2021/fw_angelican_miui_ANGELICANGlobal_V12.0.5.0.QCSMIXM_fead754795_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.0.5.0.QCSMIXM_fead754795_10.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.0.5.0.QCSMIXM_fead754795_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QCSMIXM
+    miui: V12.0.5.0.QCSMIXM
 - branch: stable
   date: '2020-11-04'
   downloads:
@@ -929,15 +929,15 @@
     android: '8.0'
     miui: 8.11.22
 - branch: stable
-  date: '2020-11-25'
+  date: '2021-01-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-25.11.2020/fw_ginkgo_miui_GINKGOGlobal_V11.0.12.0.PCOMIXM_912960e1fc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ginkgo/fw_ginkgo_miui_GINKGOGlobal_V11.0.12.0.PCOMIXM_912960e1fc_9.0.zip
-  filename: fw_ginkgo_miui_GINKGOGlobal_V11.0.12.0.PCOMIXM_912960e1fc_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-04.01.2021/fw_ginkgo_miui_GINKGOGlobal_V12.0.3.0.QCOMIXM_265dab17e2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOGlobal_V12.0.3.0.QCOMIXM_265dab17e2_10.0.zip
+  filename: fw_ginkgo_miui_GINKGOGlobal_V12.0.3.0.QCOMIXM_265dab17e2_10.0.zip
   region: Global
   versions:
-    android: '9.0'
-    miui: V11.0.12.0.PCOMIXM
+    android: '10.0'
+    miui: V12.0.3.0.QCOMIXM
 - branch: stable
   date: '2020-11-23'
   downloads:
@@ -2659,15 +2659,15 @@
     android: '10.0'
     miui: V12.0.3.0.QFDMIXM
 - branch: stable
-  date: '2020-10-27'
+  date: '2021-01-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-27.10.2020/fw_tucana_miui_TUCANA_V12.0.2.0.QFDCNXM_88649617b1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANA_V12.0.2.0.QFDCNXM_88649617b1_10.0.zip
-  filename: fw_tucana_miui_TUCANA_V12.0.2.0.QFDCNXM_88649617b1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-04.01.2021/fw_tucana_miui_TUCANA_V12.1.3.0.RFDCNXM_2a2aeb8727_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANA_V12.1.3.0.RFDCNXM_2a2aeb8727_11.0.zip
+  filename: fw_tucana_miui_TUCANA_V12.1.3.0.RFDCNXM_2a2aeb8727_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V12.0.2.0.QFDCNXM
+    android: '11.0'
+    miui: V12.1.3.0.RFDCNXM
 - branch: weekly
   date: '2020-12-31'
   downloads:
@@ -2989,15 +2989,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2020-09-23'
+  date: '2021-01-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-23.09.2020/fw_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/whyred/fw_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
-  filename: fw_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_whyred/releases/download/stable-04.01.2021/fw_whyred_miui_HMNote5Global_V12.0.2.0.PEIMIXM_e714180088_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/whyred/fw_whyred_miui_HMNote5Global_V12.0.2.0.PEIMIXM_e714180088_9.0.zip
+  filename: fw_whyred_miui_HMNote5Global_V12.0.2.0.PEIMIXM_e714180088_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V11.0.5.0.PEIMIXM
+    miui: V12.0.2.0.PEIMIXM
 - branch: stable
   date: '2019-11-04'
   downloads:

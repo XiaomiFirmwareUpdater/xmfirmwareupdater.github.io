@@ -52,7 +52,8 @@ permalink: /archive/miui/angelica/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-12-25</td><td><a href="/miui/angelicain/stable/V12.0.5.0.QCRINXM/">Download</a></td></tr>
+                <tr><td>Redmi 9C NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QCSMIXM</td><td>10.0</td><td>1.6 GB</td><td>2021-01-04</td><td><a href="/miui/angelican/stable beta/V12.0.5.0.QCSMIXM/">Download</a></td></tr>
+<tr><td>POCO C3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-12-25</td><td><a href="/miui/angelicain/stable/V12.0.5.0.QCRINXM/">Download</a></td></tr>
 <tr><td>POCO C3 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QCRINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-12-21</td><td><a href="/miui/angelicain/stable/V12.0.5.0.QCRINXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCRTRXM</td><td>10.0</td><td>1.7 GB</td><td>2020-11-30</td><td><a href="/miui/angelica/stable/V12.0.4.0.QCRTRXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QCRTRXM</td><td>10.0</td><td>3.0 GB</td><td>2020-11-20</td><td><a href="/miui/angelica/stable/V12.0.4.0.QCRTRXM/">Download</a></td></tr>
