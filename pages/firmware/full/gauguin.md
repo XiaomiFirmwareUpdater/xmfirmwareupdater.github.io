@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 9 Pro 5G/Mi 10T Lite (gauguin) Firmware Downloads
+title: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) Firmware Downloads
 layout: download
-name: Redmi Note 9 Pro 5G/Mi 10T Lite
+name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
 codename: gauguin
 permalink: /archive/firmware/gauguin/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/gauguin/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/gauguin/">Redmi Note 9 Pro 5G/Mi 10T Lite</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/gauguin/">Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
