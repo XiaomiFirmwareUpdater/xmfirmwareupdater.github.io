@@ -52,9 +52,8 @@ permalink: /miui/cannon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QJECNXM</td><td>10.0</td><td>3.6 GB</td><td>2020-11-18</td><td><a href="/miui/cannon/stable/V12.0.3.0.QJECNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QJECNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-12-02</td><td><a href="/miui/cannon/stable/V12.0.3.0.QJECNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QJECNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-12-29</td><td><a href="/miui/cannon/stable beta/V12.0.5.0.QJECNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJECNXM</td><td>10.0</td><td>3.6 GB</td><td>2020-12-24</td><td><a href="/miui/cannon/stable/V12.0.5.0.QJECNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJECNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-12-29</td><td><a href="/miui/cannon/stable/V12.0.5.0.QJECNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>20.12.28</td><td>11.0</td><td>2.8 GB</td><td>2020-12-29</td><td><a href="/miui/cannon/weekly/20.12.28/">Download</a></td></tr>
 
                 </tbody>

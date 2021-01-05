@@ -52,7 +52,9 @@ permalink: /archive/miui/gauguin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJSCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-12-17</td><td><a href="/miui/gauguin/stable/V12.0.7.0.QJSCNXM/">Download</a></td></tr>
+                <tr><td>Mi 10T Lite India</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QJSINXM</td><td>10.0</td><td>2.6 GB</td><td>2021-01-05</td><td><a href="/miui/gauguin/stable/V12.0.3.0.QJSINXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite India</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QJSINXM</td><td>10.0</td><td>3.6 GB</td><td>2020-11-26</td><td><a href="/miui/gauguin/stable/V12.0.3.0.QJSINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJSCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-12-17</td><td><a href="/miui/gauguin/stable/V12.0.7.0.QJSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QJSCNXM</td><td>10.0</td><td>4.0 GB</td><td>2020-12-12</td><td><a href="/miui/gauguin/stable/V12.0.7.0.QJSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJSCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-12-05</td><td><a href="/miui/gauguin/stable/V12.0.6.0.QJSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJSCNXM</td><td>10.0</td><td>4.1 GB</td><td>2020-12-01</td><td><a href="/miui/gauguin/stable/V12.0.6.0.QJSCNXM/">Download</a></td></tr>
