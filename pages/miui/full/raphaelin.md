@@ -52,7 +52,8 @@ permalink: /archive/miui/raphaelin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K20 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QFKINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-12-26</td><td><a href="/miui/raphaelin/stable beta/V12.0.4.0.QFKINXM/">Download</a></td></tr>
+                <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QFKINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-12-26</td><td><a href="/miui/raphaelin/stable/V12.0.4.0.QFKINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QFKINXM</td><td>10.0</td><td>3.0 GB</td><td>2020-12-21</td><td><a href="/miui/raphaelin/stable/V12.0.4.0.QFKINXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QFKINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-09-21</td><td><a href="/miui/raphaelin/stable/V12.0.3.0.QFKINXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QFKINXM</td><td>10.0</td><td>2.9 GB</td><td>2020-09-07</td><td><a href="/miui/raphaelin/stable/V12.0.3.0.QFKINXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFKINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-07-17</td><td><a href="/miui/raphaelin/stable/V12.0.2.0.QFKINXM/">Download</a></td></tr>
@@ -69,10 +70,10 @@ permalink: /archive/miui/raphaelin/
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V10.4.7.0.QFKINXM</td><td>10.0</td><td>2.3 GB</td><td>2019-09-03</td><td><a href="/miui/raphaelin/stable/V10.4.7.0.QFKINXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V10.3.5.0.PFKINXM</td><td>9.0</td><td>2.3 GB</td><td>2019-08-23</td><td><a href="/miui/raphaelin/stable/V10.3.5.0.PFKINXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V10.3.5.0.PFKINXM</td><td>9.0</td><td>2.9 GB</td><td>2019-08-16</td><td><a href="/miui/raphaelin/stable/V10.3.5.0.PFKINXM/">Download</a></td></tr>
-<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PFKINXM</td><td>9.0</td><td>2.3 GB</td><td>2019-07-17</td><td><a href="/miui/raphaelin/stable/V10.3.3.0.PFKINXM/">Download</a></td></tr>
-<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PFKINXM</td><td>9.0</td><td>2.9 GB</td><td>2019-07-11</td><td><a href="/miui/raphaelin/stable/V10.3.3.0.PFKINXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QFKINXM</td><td>10.0</td><td>2.4 GB</td><td>2019-10-29</td><td><a href="/miui/raphaelin/stable/V11.0.1.0.QFKINXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QFKINXM</td><td>10.0</td><td>3.1 GB</td><td>2019-10-22</td><td><a href="/miui/raphaelin/stable/V11.0.1.0.QFKINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PFKINXM</td><td>9.0</td><td>2.3 GB</td><td>2019-07-17</td><td><a href="/miui/raphaelin/stable/V10.3.3.0.PFKINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PFKINXM</td><td>9.0</td><td>2.9 GB</td><td>2019-07-11</td><td><a href="/miui/raphaelin/stable/V10.3.3.0.PFKINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

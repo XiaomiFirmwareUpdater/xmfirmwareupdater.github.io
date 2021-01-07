@@ -60,6 +60,8 @@ permalink: /miui/lime/
 <tr><td>Redmi 9 Power India</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QJQINXM</td><td>10.0</td><td>3.3 GB</td><td>2020-12-28</td><td><a href="/miui/lime/stable/V12.0.4.0.QJQINXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Power India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJQINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-12-31</td><td><a href="/miui/lime/stable/V12.0.4.0.QJQINXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Power India</td><td>Stable Beta</td><td>Fastboot</td><td>V12.0.2.0.QJQINXM</td><td>10.0</td><td>3.3 GB</td><td>2020-12-03</td><td><a href="/miui/lime/stable beta/V12.0.2.0.QJQINXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJQTWXM</td><td>10.0</td><td>3.5 GB</td><td>2020-12-22</td><td><a href="/miui/lime/stable/V12.0.1.0.QJQTWXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJQTWXM</td><td>10.0</td><td>2.5 GB</td><td>2021-01-07</td><td><a href="/miui/lime/stable/V12.0.1.0.QJQTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

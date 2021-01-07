@@ -60,6 +60,7 @@ permalink: /miui/angelican/
 <tr><td>Redmi 9C NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QCSMIXM</td><td>10.0</td><td>1.6 GB</td><td>2021-01-04</td><td><a href="/miui/angelican/stable beta/V12.0.5.0.QCSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QCSRUXM</td><td>10.0</td><td>3.3 GB</td><td>2020-10-28</td><td><a href="/miui/angelican/stable/V12.0.4.0.QCSRUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCSRUXM</td><td>10.0</td><td>1.7 GB</td><td>2020-10-30</td><td><a href="/miui/angelican/stable/V12.0.4.0.QCSRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QCSRUXM</td><td>10.0</td><td>1.7 GB</td><td>2021-01-07</td><td><a href="/miui/angelican/stable beta/V12.0.5.0.QCSRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
