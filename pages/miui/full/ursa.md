@@ -52,7 +52,7 @@ permalink: /archive/miui/ursa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 Explorer China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QEHCNXM</td><td>10.0</td><td>2.3 GB</td><td>2021-01-04</td><td><a href="/miui/ursa/stable beta/V12.0.4.0.QEHCNXM/">Download</a></td></tr>
+                <tr><td>Mi 8 Explorer China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QEHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2021-01-04</td><td><a href="/miui/ursa/stable beta/V12.0.4.0.QEHCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.9.4</td><td>10.0</td><td>2.4 GB</td><td>2020-09-04</td><td><a href="/miui/ursa/weekly/20.9.4/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>10.0</td><td>2.4 GB</td><td>2020-09-03</td><td><a href="/miui/ursa/weekly/20.9.3/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.8.27</td><td>10.0</td><td>2.4 GB</td><td>2020-08-27</td><td><a href="/miui/ursa/weekly/20.8.27/">Download</a></td></tr>
