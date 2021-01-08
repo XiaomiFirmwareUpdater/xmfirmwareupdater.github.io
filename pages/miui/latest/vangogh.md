@@ -54,7 +54,7 @@ permalink: /miui/vangogh/
                 <tbody>
                 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Fastboot</td><td>V12.1.3.0.RJVCNXM</td><td>11.0</td><td>4.8 GB</td><td>2020-12-16</td><td><a href="/miui/vangogh/stable/V12.1.3.0.RJVCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Recovery</td><td>V12.1.3.0.RJVCNXM</td><td>11.0</td><td>3.7 GB</td><td>2020-12-20</td><td><a href="/miui/vangogh/stable/V12.1.3.0.RJVCNXM/">Download</a></td></tr>
-<tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>20.12.28</td><td>11.0</td><td>3.8 GB</td><td>2020-12-29</td><td><a href="/miui/vangogh/weekly/20.12.28/">Download</a></td></tr>
+<tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.1.6</td><td>11.0</td><td>3.7 GB</td><td>2021-01-08</td><td><a href="/miui/vangogh/weekly/21.1.6/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

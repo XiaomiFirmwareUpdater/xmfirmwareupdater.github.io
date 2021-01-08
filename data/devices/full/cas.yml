@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-08.01.2021/fw_cas_miui_CAS_21.1.6_0d5c2541f2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/cas/fw_cas_miui_CAS_21.1.6_0d5c2541f2_11.0.zip
+  filename: fw_cas_miui_CAS_21.1.6_0d5c2541f2_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.6
+- branch: weekly
   date: '2020-12-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-31.12.2020/fw_cas_miui_CAS_20.12.29_8056ae8a17_11.0.zip
