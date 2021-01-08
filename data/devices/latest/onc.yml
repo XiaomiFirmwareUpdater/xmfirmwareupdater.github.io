@@ -19,15 +19,15 @@
     android: '10.0'
     miui: V11.0.3.0.QFLCNXM
 - branch: stable
-  date: '2020-11-19'
+  date: '2021-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-19.11.2020/fw_onc_miui_ONCLITEEEAGlobal_V11.0.11.0.PFLEUXM_9e8cf04c77_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.11.0.PFLEUXM_9e8cf04c77_9.0.zip
-  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.11.0.PFLEUXM_9e8cf04c77_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-08.01.2021/fw_onc_miui_ONCLITEEEAGlobal_V11.0.1.0.QFLEUXM_cf2d0dca2e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEEEAGlobal_V11.0.1.0.QFLEUXM_cf2d0dca2e_10.0.zip
+  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.1.0.QFLEUXM_cf2d0dca2e_10.0.zip
   region: Europe
   versions:
-    android: '9.0'
-    miui: V11.0.11.0.PFLEUXM
+    android: '10.0'
+    miui: V11.0.1.0.QFLEUXM
 - branch: stable
   date: '2020-12-31'
   downloads:
