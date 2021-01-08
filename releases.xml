@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 08 Jan 2021 23:20:39 +0900</pubDate>
+  <pubDate>Sat, 09 Jan 2021 01:08:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - 21.1.6</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Sat, 09 Jan 2021 01:08:07 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7 Pro (violet) - 21.1.6</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
@@ -60,11 +65,6 @@
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.1.6</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
     <pubDate>Fri, 08 Jan 2021 22:17:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 21.1.6</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 08 Jan 2021 22:15:54 +0900</pubDate>
   </item>
     <item>
     <title>Mi CC 9e (laurus) - 21.1.6</title>
