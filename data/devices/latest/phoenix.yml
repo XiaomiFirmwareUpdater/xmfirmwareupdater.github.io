@@ -9,12 +9,12 @@
     android: '11.0'
     miui: V12.1.3.0.RGHCNXM
 - branch: weekly
-  date: '2020-12-31'
+  date: '2021-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-31.12.2020/fw_phoenix_miui_PHOENIX_20.12.28_7903bf9d11_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.28/phoenix/fw_phoenix_miui_PHOENIX_20.12.28_7903bf9d11_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.12.28_7903bf9d11_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-08.01.2021/fw_phoenix_miui_PHOENIX_21.1.6_8ddd56c84d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/phoenix/fw_phoenix_miui_PHOENIX_21.1.6_8ddd56c84d_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.1.6_8ddd56c84d_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 20.12.28
+    miui: 21.1.6
