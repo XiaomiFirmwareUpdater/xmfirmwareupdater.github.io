@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 12 Jan 2021 07:09:56 +0900</pubDate>
+  <pubDate>Tue, 12 Jan 2021 19:17:14 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.1.0.QJCINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Tue, 12 Jan 2021 19:17:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 5G (cannon) - V12.0.6.0.QJECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
+    <pubDate>Tue, 12 Jan 2021 19:15:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO F1 (beryllium) - V12.0.3.0.QEJMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/beryllium</link>
+    <pubDate>Tue, 12 Jan 2021 19:14:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V12.0.7.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Tue, 12 Jan 2021 19:10:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.10.0.QJDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Tue, 12 Jan 2021 19:09:39 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/9AT (dandelion) - V12.0.10.0.QCDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -80,31 +105,6 @@
     <title>Redmi 7A (pine) - V12.0.1.0.QCMINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
     <pubDate>Sat, 09 Jan 2021 01:16:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V12.0.1.0.QCNEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Sat, 09 Jan 2021 01:15:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V12.0.1.0.QCPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Sat, 09 Jan 2021 01:14:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 21.1.6</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Sat, 09 Jan 2021 01:08:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 21.1.6</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 08 Jan 2021 23:20:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 21.1.6</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Fri, 08 Jan 2021 22:33:37 +0900</pubDate>
   </item>
     </channel>
 </rss>

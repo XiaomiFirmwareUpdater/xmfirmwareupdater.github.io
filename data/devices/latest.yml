@@ -89,15 +89,15 @@
     android: '10.0'
     miui: V12.0.10.0.QJDMIXM
 - branch: stable
-  date: '2021-01-05'
+  date: '2021-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-05.01.2021/fw_apollo_miui_APOLLO_V12.0.8.0.QJDCNXM_3bf2c5061c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLO_V12.0.8.0.QJDCNXM_3bf2c5061c_10.0.zip
-  filename: fw_apollo_miui_APOLLO_V12.0.8.0.QJDCNXM_3bf2c5061c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-12.01.2021/fw_apollo_miui_APOLLO_V12.0.10.0.QJDCNXM_7b1e9f67ab_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLO_V12.0.10.0.QJDCNXM_7b1e9f67ab_10.0.zip
+  filename: fw_apollo_miui_APOLLO_V12.0.10.0.QJDCNXM_7b1e9f67ab_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.8.0.QJDCNXM
+    miui: V12.0.10.0.QJDCNXM
 - branch: weekly
   date: '2021-01-08'
   downloads:
@@ -149,15 +149,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2020-12-24'
+  date: '2021-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/stable-24.12.2020/fw_atom_miui_ATOM_V12.0.6.0.QJHCNXM_13ed449c76_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/atom/fw_atom_miui_ATOM_V12.0.6.0.QJHCNXM_13ed449c76_10.0.zip
-  filename: fw_atom_miui_ATOM_V12.0.6.0.QJHCNXM_13ed449c76_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/stable-12.01.2021/fw_atom_miui_ATOM_V12.0.7.0.QJHCNXM_11c07fa96d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/atom/fw_atom_miui_ATOM_V12.0.7.0.QJHCNXM_11c07fa96d_10.0.zip
+  filename: fw_atom_miui_ATOM_V12.0.7.0.QJHCNXM_11c07fa96d_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.6.0.QJHCNXM
+    miui: V12.0.7.0.QJHCNXM
 - branch: weekly
   date: '2021-01-08'
   downloads:
@@ -219,15 +219,15 @@
     android: '10.0'
     miui: V12.0.3.0.QGGINXM
 - branch: stable
-  date: '2020-10-29'
+  date: '2021-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-29.10.2020/fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/beryllium/fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
-  filename: fw_beryllium_miui_POCOF1Global_V12.0.2.0.QEJMIXM_ce099a7067_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-12.01.2021/fw_beryllium_miui_POCOF1Global_V12.0.3.0.QEJMIXM_cf3fccffce_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/beryllium/fw_beryllium_miui_POCOF1Global_V12.0.3.0.QEJMIXM_cf3fccffce_10.0.zip
+  filename: fw_beryllium_miui_POCOF1Global_V12.0.3.0.QEJMIXM_cf3fccffce_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QEJMIXM
+    miui: V12.0.3.0.QEJMIXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -289,15 +289,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2020-12-29'
+  date: '2021-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannon/releases/download/stable-29.12.2020/fw_cannon_miui_CANNON_V12.0.5.0.QJECNXM_f7f281427e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.0.5.0.QJECNXM_f7f281427e_10.0.zip
-  filename: fw_cannon_miui_CANNON_V12.0.5.0.QJECNXM_f7f281427e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannon/releases/download/stable-12.01.2021/fw_cannon_miui_CANNON_V12.0.6.0.QJECNXM_1e4df76006_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.0.6.0.QJECNXM_1e4df76006_10.0.zip
+  filename: fw_cannon_miui_CANNON_V12.0.6.0.QJECNXM_1e4df76006_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.5.0.QJECNXM
+    miui: V12.0.6.0.QJECNXM
 - branch: weekly
   date: '2021-01-08'
   downloads:
@@ -1319,15 +1319,15 @@
     android: '10.0'
     miui: V11.0.9.0.QJCEUXM
 - branch: stable
-  date: '2020-11-12'
+  date: '2021-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-12.11.2020/fw_lancelot_miui_LANCELOTINGlobal_V11.0.6.0.QJCINXM_7ef64c03a3_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V11.0.6.0.QJCINXM_7ef64c03a3_10.0.zip
-  filename: fw_lancelot_miui_LANCELOTINGlobal_V11.0.6.0.QJCINXM_7ef64c03a3_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-12.01.2021/fw_lancelot_miui_LANCELOTINGlobal_V12.0.1.0.QJCINXM_ce2e31daa1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V12.0.1.0.QJCINXM_ce2e31daa1_10.0.zip
+  filename: fw_lancelot_miui_LANCELOTINGlobal_V12.0.1.0.QJCINXM_ce2e31daa1_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V11.0.6.0.QJCINXM
+    miui: V12.0.1.0.QJCINXM
 - branch: stable
   date: '2019-05-28'
   downloads:
