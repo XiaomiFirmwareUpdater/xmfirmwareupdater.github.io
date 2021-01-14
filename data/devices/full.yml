@@ -25439,6 +25439,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lime/releases/download/stable-14.01.2021/fw_lime_miui_LIMEGlobal_V12.0.4.0.QJQMIXM_d92a967c40_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.0.4.0.QJQMIXM_d92a967c40_10.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V12.0.4.0.QJQMIXM_d92a967c40_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QJQMIXM
+- branch: stable
   date: '2021-01-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lime/releases/download/stable-11.01.2021/fw_lime_miui_LIMEGlobal_V12.0.3.0.QJQMIXM_a91dde7f3d_10.0.zip
@@ -27338,6 +27348,16 @@
   versions:
     android: '10.0'
     miui: V11.0.10.0.QJKCNXM
+- branch: stable
+  date: '2021-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-14.01.2021/fw_lotus_miui_MIPLAYGlobal_V11.0.10.0.OFIMIXM_1600406463_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAYGlobal_V11.0.10.0.OFIMIXM_1600406463_8.1.zip
+  filename: fw_lotus_miui_MIPLAYGlobal_V11.0.10.0.OFIMIXM_1600406463_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: V11.0.10.0.OFIMIXM
 - branch: stable
   date: '2020-11-26'
   downloads:
@@ -57719,6 +57739,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2021-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-14.01.2021/fw_umi_miui_UMIEEAGlobal_V12.2.4.0.RJBEUXM_aaf2514a67_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.2.4.0.RJBEUXM_aaf2514a67_11.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.2.4.0.RJBEUXM_aaf2514a67_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.2.4.0.RJBEUXM
+- branch: stable
   date: '2021-01-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-13.01.2021/fw_umi_miui_UMI_V12.2.8.0.RJBCNXM_fca023dc29_11.0.zip
@@ -60328,6 +60358,16 @@
   versions:
     android: '9.0'
     miui: V10.3.1.0.PFECNXM
+- branch: stable
+  date: '2021-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_venus/releases/download/stable-14.01.2021/fw_venus_miui_VENUS_V12.0.16.0.RKBCNXM_84865bd2a8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUS_V12.0.16.0.RKBCNXM_84865bd2a8_11.0.zip
+  filename: fw_venus_miui_VENUS_V12.0.16.0.RKBCNXM_84865bd2a8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.16.0.RKBCNXM
 - branch: stable
   date: '2021-01-10'
   downloads:

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-10-22'
+  date: '2021-01-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-22.10.2020/fw_lotus_miui_MIPLAYGlobal_V11.0.9.0.OFIMIXM_ddbe04ab54_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAYGlobal_V11.0.9.0.OFIMIXM_ddbe04ab54_8.1.zip
-  filename: fw_lotus_miui_MIPLAYGlobal_V11.0.9.0.OFIMIXM_ddbe04ab54_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lotus/releases/download/stable-14.01.2021/fw_lotus_miui_MIPLAYGlobal_V11.0.10.0.OFIMIXM_1600406463_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lotus/fw_lotus_miui_MIPLAYGlobal_V11.0.10.0.OFIMIXM_1600406463_8.1.zip
+  filename: fw_lotus_miui_MIPLAYGlobal_V11.0.10.0.OFIMIXM_1600406463_8.1.zip
   region: Global
   versions:
     android: '8.1'
-    miui: V11.0.9.0.OFIMIXM
+    miui: V11.0.10.0.OFIMIXM
 - branch: stable
   date: '2020-11-26'
   downloads:

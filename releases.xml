@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 14 Jan 2021 19:15:45 +0900</pubDate>
+  <pubDate>Fri, 15 Jan 2021 03:43:20 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 (venus) - V12.0.16.0.RKBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 15 Jan 2021 03:43:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - V12.2.4.0.RJBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 15 Jan 2021 01:27:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Play (lotus) - V11.0.10.0.OFIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lotus</link>
+    <pubDate>Fri, 15 Jan 2021 01:25:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.4.0.QJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Fri, 15 Jan 2021 01:24:59 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 6X (wayne) - V12.0.1.0.PDCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
@@ -85,26 +105,6 @@
     <title>Mi 10 Lite Zoom (vangogh) - V12.1.4.0.RJVCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
     <pubDate>Sun, 10 Jan 2021 19:15:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - 21.1.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Sun, 10 Jan 2021 04:40:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi A2 (jasmine) - V11.0.19.0.QDIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jasmine</link>
-    <pubDate>Sun, 10 Jan 2021 04:36:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi A3 (laurel) - V11.0.10.0.QFQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
-    <pubDate>Sun, 10 Jan 2021 04:36:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V12.0.12.0.RKBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Sun, 10 Jan 2021 04:35:50 +0900</pubDate>
   </item>
     </channel>
 </rss>
