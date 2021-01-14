@@ -52,7 +52,8 @@ permalink: /archive/miui/wayne/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.0 GB</td><td>2020-06-18</td><td><a href="/miui/wayne/weekly/20.6.18/">Download</a></td></tr>
+                <tr><td>Mi 6X China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.PDCCNXM</td><td>9.0</td><td>2.0 GB</td><td>2021-01-14</td><td><a href="/miui/wayne/stable beta/V12.0.1.0.PDCCNXM/">Download</a></td></tr>
+<tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.0 GB</td><td>2020-06-18</td><td><a href="/miui/wayne/weekly/20.6.18/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.6.17</td><td>9.0</td><td>2.0 GB</td><td>2020-06-17</td><td><a href="/miui/wayne/weekly/20.6.17/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.6.11</td><td>9.0</td><td>2.0 GB</td><td>2020-06-11</td><td><a href="/miui/wayne/weekly/20.6.11/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.6.4</td><td>9.0</td><td>2.0 GB</td><td>2020-06-04</td><td><a href="/miui/wayne/weekly/20.6.4/">Download</a></td></tr>
@@ -72,20 +73,20 @@ permalink: /archive/miui/wayne/
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.3.12</td><td>9.0</td><td>2.1 GB</td><td>2020-03-12</td><td><a href="/miui/wayne/weekly/20.3.12/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.2.27</td><td>9.0</td><td>2.0 GB</td><td>2020-02-27</td><td><a href="/miui/wayne/weekly/20.2.27/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.1.16</td><td>9.0</td><td>2.0 GB</td><td>2020-01-16</td><td><a href="/miui/wayne/weekly/20.1.16/">Download</a></td></tr>
-<tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.1.9</td><td>9.0</td><td>2.0 GB</td><td>2020-01-09</td><td><a href="/miui/wayne/weekly/20.1.9/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.12.12</td><td>9.0</td><td>2.0 GB</td><td>2019-12-12</td><td><a href="/miui/wayne/weekly/9.12.12/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.12.5</td><td>9.0</td><td>2.0 GB</td><td>2019-12-05</td><td><a href="/miui/wayne/weekly/9.12.5/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.11.28</td><td>9.0</td><td>2.0 GB</td><td>2019-11-28</td><td><a href="/miui/wayne/weekly/9.11.28/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.11.21</td><td>9.0</td><td>2.0 GB</td><td>2019-11-21</td><td><a href="/miui/wayne/weekly/9.11.21/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.11.14</td><td>9.0</td><td>2.0 GB</td><td>2019-11-14</td><td><a href="/miui/wayne/weekly/9.11.14/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.11.7</td><td>9.0</td><td>2.1 GB</td><td>2019-11-07</td><td><a href="/miui/wayne/weekly/9.11.7/">Download</a></td></tr>
+<tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.10.31</td><td>9.0</td><td>2.1 GB</td><td>2019-10-31</td><td><a href="/miui/wayne/weekly/9.10.31/">Download</a></td></tr>
+<tr><td>Mi 6X China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PDCCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-10-30</td><td><a href="/miui/wayne/stable/V11.0.2.0.PDCCNXM/">Download</a></td></tr>
+<tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.1.9</td><td>9.0</td><td>2.0 GB</td><td>2020-01-09</td><td><a href="/miui/wayne/weekly/20.1.9/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.1.2</td><td>9.0</td><td>2.0 GB</td><td>2020-01-02</td><td><a href="/miui/wayne/weekly/20.1.2/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.12.26</td><td>9.0</td><td>2.0 GB</td><td>2019-12-26</td><td><a href="/miui/wayne/weekly/9.12.26/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.12.19</td><td>9.0</td><td>2.0 GB</td><td>2019-12-19</td><td><a href="/miui/wayne/weekly/9.12.19/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PDCCNXM</td><td>9.0</td><td>2.0 GB</td><td>2019-12-03</td><td><a href="/miui/wayne/stable/V11.0.3.0.PDCCNXM/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PDCCNXM</td><td>9.0</td><td>2.4 GB</td><td>2019-11-27</td><td><a href="/miui/wayne/stable/V11.0.3.0.PDCCNXM/">Download</a></td></tr>
-<tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.10.31</td><td>9.0</td><td>2.1 GB</td><td>2019-10-31</td><td><a href="/miui/wayne/weekly/9.10.31/">Download</a></td></tr>
-<tr><td>Mi 6X China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PDCCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-10-30</td><td><a href="/miui/wayne/stable/V11.0.2.0.PDCCNXM/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.10.24</td><td>9.0</td><td>2.1 GB</td><td>2019-10-24</td><td><a href="/miui/wayne/weekly/9.10.24/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.10.17</td><td>9.0</td><td>2.1 GB</td><td>2019-10-17</td><td><a href="/miui/wayne/weekly/9.10.17/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>9.10.16</td><td>9.0</td><td>2.1 GB</td><td>2019-10-16</td><td><a href="/miui/wayne/weekly/9.10.16/">Download</a></td></tr>
