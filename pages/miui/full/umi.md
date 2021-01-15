@@ -53,6 +53,7 @@ permalink: /archive/miui/umi/
                 </thead>
                 <tbody>
                 <tr><td>Mi 10 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.4.0.RJBEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-01-14</td><td><a href="/miui/umi/stable beta/V12.2.4.0.RJBEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>21.1.13</td><td>11.0</td><td>4.2 GB</td><td>2021-01-14</td><td><a href="/miui/umi/weekly/21.1.13/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.8.0.RJBCNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-01-12</td><td><a href="/miui/umi/stable beta/V12.2.8.0.RJBCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.5.0.RJBINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-01-09</td><td><a href="/miui/umi/stable beta/V12.2.5.0.RJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>21.1.6</td><td>11.0</td><td>4.1 GB</td><td>2021-01-06</td><td><a href="/miui/umi/weekly/21.1.6/">Download</a></td></tr>
