@@ -53,7 +53,8 @@ permalink: /archive/miui/onclite/
                 </thead>
                 <tbody>
                 <tr><td>Redmi 7 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.1.0.QFLRUXM</td><td>10.0</td><td>2.0 GB</td><td>2021-01-14</td><td><a href="/miui/onclite/stable beta/V11.0.1.0.QFLRUXM/">Download</a></td></tr>
-<tr><td>Redmi 7 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.1.0.QFLEUXM</td><td>10.0</td><td>2.0 GB</td><td>2021-01-08</td><td><a href="/miui/onclite/stable beta/V11.0.1.0.QFLEUXM/">Download</a></td></tr>
+<tr><td>Redmi 7 EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QFLEUXM</td><td>10.0</td><td>2.0 GB</td><td>2021-01-08</td><td><a href="/miui/onclite/stable/V11.0.1.0.QFLEUXM/">Download</a></td></tr>
+<tr><td>Redmi 7 EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QFLEUXM</td><td>10.0</td><td>2.6 GB</td><td>2020-12-31</td><td><a href="/miui/onclite/stable/V11.0.1.0.QFLEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7 India</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QFLINXM</td><td>10.0</td><td>1.9 GB</td><td>2020-12-31</td><td><a href="/miui/onclite/stable/V11.0.3.0.QFLINXM/">Download</a></td></tr>
 <tr><td>Redmi 7 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QFLINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-12-24</td><td><a href="/miui/onclite/stable/V11.0.3.0.QFLINXM/">Download</a></td></tr>
 <tr><td>Redmi 7 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QFLMIXM</td><td>10.0</td><td>2.0 GB</td><td>2020-12-22</td><td><a href="/miui/onclite/stable/V11.0.1.0.QFLMIXM/">Download</a></td></tr>

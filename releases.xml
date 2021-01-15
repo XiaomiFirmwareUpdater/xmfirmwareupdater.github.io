@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 15 Jan 2021 23:38:36 +0900</pubDate>
+  <pubDate>Sat, 16 Jan 2021 00:20:55 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Sat, 16 Jan 2021 00:20:55 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7 Pro (violet) - 21.1.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
@@ -45,11 +50,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.1.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Fri, 15 Jan 2021 23:25:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.1.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 15 Jan 2021 23:23:34 +0900</pubDate>
   </item>
     <item>
     <title>Redmi K30 4G (phoenix) - 21.1.14</title>
