@@ -52,8 +52,10 @@ permalink: /archive/miui/gauguin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10T Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.7.0.QJSMIXM</td><td>10.0</td><td>2.6 GB</td><td>2021-01-08</td><td><a href="/miui/gauguin/stable beta/V12.0.7.0.QJSMIXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.8.0.QJSEUXM</td><td>10.0</td><td>2.7 GB</td><td>2021-01-07</td><td><a href="/miui/gauguin/stable beta/V12.0.8.0.QJSEUXM/">Download</a></td></tr>
+                <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJSMIXM</td><td>10.0</td><td>2.6 GB</td><td>2021-01-08</td><td><a href="/miui/gauguin/stable/V12.0.7.0.QJSMIXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QJSMIXM</td><td>10.0</td><td>4.6 GB</td><td>2020-12-24</td><td><a href="/miui/gauguin/stable/V12.0.7.0.QJSMIXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.QJSEUXM</td><td>10.0</td><td>2.7 GB</td><td>2021-01-07</td><td><a href="/miui/gauguin/stable/V12.0.8.0.QJSEUXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.QJSEUXM</td><td>10.0</td><td>4.7 GB</td><td>2020-12-22</td><td><a href="/miui/gauguin/stable/V12.0.8.0.QJSEUXM/">Download</a></td></tr>
 <tr><td>Mi 10i India</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QJSINXM</td><td>10.0</td><td>2.6 GB</td><td>2021-01-05</td><td><a href="/miui/gauguin/stable/V12.0.3.0.QJSINXM/">Download</a></td></tr>
 <tr><td>Mi 10i India</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QJSINXM</td><td>10.0</td><td>3.6 GB</td><td>2020-11-26</td><td><a href="/miui/gauguin/stable/V12.0.3.0.QJSINXM/">Download</a></td></tr>
 <tr><td>Mi 10i India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QJSINXM</td><td>10.0</td><td>2.6 GB</td><td>2021-01-05</td><td><a href="/miui/gauguin/stable beta/V12.0.4.0.QJSINXM/">Download</a></td></tr>
