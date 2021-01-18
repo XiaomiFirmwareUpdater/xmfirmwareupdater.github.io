@@ -52,11 +52,10 @@ permalink: /miui/tulip/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PEKMIXM</td><td>9.0</td><td>2.5 GB</td><td>2020-09-17</td><td><a href="/miui/tulip/stable/V11.0.6.0.PEKMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 6 Pro Global</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PEKMIXM</td><td>9.0</td><td>1.9 GB</td><td>2020-09-23</td><td><a href="/miui/tulip/stable/V11.0.6.0.PEKMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.PEKMIXM</td><td>9.0</td><td>2.6 GB</td><td>2020-12-29</td><td><a href="/miui/tulip/stable/V12.0.1.0.PEKMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 6 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.PEKMIXM</td><td>9.0</td><td>2.0 GB</td><td>2021-01-06</td><td><a href="/miui/tulip/stable/V12.0.1.0.PEKMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 6 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>2.9 GB</td><td>2019-06-28</td><td><a href="/miui/tulip/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Redmi Note 6 Pro Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>1.9 GB</td><td>2019-06-28</td><td><a href="/miui/tulip/weekly/9.6.27/">Download</a></td></tr>
-<tr><td>Redmi Note 6 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.PEKMIXM</td><td>9.0</td><td>2.0 GB</td><td>2021-01-06</td><td><a href="/miui/tulip/stable beta/V12.0.1.0.PEKMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 6 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V10.2.1.0.OEKRUXM</td><td>8.1</td><td>2.6 GB</td><td>2019-03-04</td><td><a href="/miui/tulip/stable/V10.2.1.0.OEKRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V10.2.1.0.OEKRUXM</td><td>8.1</td><td>1.8 GB</td><td>2019-03-11</td><td><a href="/miui/tulip/stable/V10.2.1.0.OEKRUXM/">Download</a></td></tr>
 
