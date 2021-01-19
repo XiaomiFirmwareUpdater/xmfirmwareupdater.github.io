@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 17 Jan 2021 19:11:25 +0900</pubDate>
+  <pubDate>Tue, 19 Jan 2021 19:29:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.5.0.QJQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Tue, 19 Jan 2021 19:29:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.0.3.0.RJWINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Tue, 19 Jan 2021 19:26:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M3 (citrus) - V12.0.3.0.QJFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Tue, 19 Jan 2021 19:21:21 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7 Pro (violet) - V12.0.5.0.QFHINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - 21.1.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Fri, 15 Jan 2021 23:12:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 21.1.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Fri, 15 Jan 2021 23:11:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 21.1.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Fri, 15 Jan 2021 23:07:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 21.1.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 15 Jan 2021 23:06:24 +0900</pubDate>
   </item>
     </channel>
 </rss>
