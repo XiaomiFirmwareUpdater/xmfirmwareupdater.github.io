@@ -55,8 +55,8 @@ permalink: /miui/ginkgo/
                 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCOCNXM</td><td>10.0</td><td>3.4 GB</td><td>2020-11-17</td><td><a href="/miui/ginkgo/stable/V12.0.3.0.QCOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCOCNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-11-23</td><td><a href="/miui/ginkgo/stable/V12.0.3.0.QCOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.1.13</td><td>11.0</td><td>2.7 GB</td><td>2021-01-14</td><td><a href="/miui/ginkgo/weekly/21.1.13/">Download</a></td></tr>
-<tr><td>Redmi Note 8 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCOEUXM</td><td>10.0</td><td>4.2 GB</td><td>2020-12-04</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.QCOEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCOEUXM</td><td>10.0</td><td>2.3 GB</td><td>2020-12-14</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.QCOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCOEUXM</td><td>10.0</td><td>4.2 GB</td><td>2020-12-30</td><td><a href="/miui/ginkgo/stable/V12.0.3.0.QCOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCOEUXM</td><td>10.0</td><td>2.3 GB</td><td>2021-01-11</td><td><a href="/miui/ginkgo/stable/V12.0.3.0.QCOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCOMIXM</td><td>10.0</td><td>4.1 GB</td><td>2020-12-26</td><td><a href="/miui/ginkgo/stable/V12.0.3.0.QCOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCOMIXM</td><td>10.0</td><td>2.3 GB</td><td>2021-01-04</td><td><a href="/miui/ginkgo/stable/V12.0.3.0.QCOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCOMIXM</td><td>10.0</td><td>2.3 GB</td><td>2020-11-24</td><td><a href="/miui/ginkgo/stable beta/V12.0.2.0.QCOMIXM/">Download</a></td></tr>
