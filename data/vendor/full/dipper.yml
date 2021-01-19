@@ -9,3 +9,608 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QEACNXM
+- branch: stable
+  date: '2019-11-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip
+  region: Russia
+  size: 566.4 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PEARUXM
+- branch: stable
+  date: '2019-11-02'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V10.1.3.0.PEARUXM_3ca23f9cdd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V10.1.3.0.PEARUXM_3ca23f9cdd_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8RUGlobal_V10.1.3.0.PEARUXM_3ca23f9cdd_9.0.zip
+  region: Russia
+  size: 419.6 MB
+  versions:
+    android: '9.0'
+    miui: V10.1.3.0.PEARUXM
+- branch: stable
+  date: '2020-03-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.2.0.QEARUXM_7e7f29c515_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.2.0.QEARUXM_7e7f29c515_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8RUGlobal_V11.0.2.0.QEARUXM_7e7f29c515_10.0.zip
+  region: Russia
+  size: 549.4 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QEARUXM
+- branch: stable
+  date: '2020-05-20'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.3.0.QEARUXM_29d5c6ad28_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.3.0.QEARUXM_29d5c6ad28_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8RUGlobal_V11.0.3.0.QEARUXM_29d5c6ad28_10.0.zip
+  region: Russia
+  size: 605.0 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QEARUXM
+- branch: stable
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.4.0.QEARUXM_848a06b879_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.4.0.QEARUXM_848a06b879_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8RUGlobal_V11.0.4.0.QEARUXM_848a06b879_10.0.zip
+  region: Russia
+  size: 625.4 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QEARUXM
+- branch: stable
+  date: '2019-05-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_V10.3.3.0.PEACNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_V10.3.3.0.PEACNXM.zip/download
+  filename: fw-vendor_dipper_V10.3.3.0.PEACNXM.zip
+  region: China
+  size: 471.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PEACNXM
+- branch: stable
+  date: '2019-07-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_V10.3.4.0.PEACNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_V10.3.4.0.PEACNXM.zip/download
+  filename: fw-vendor_dipper_V10.3.4.0.PEACNXM.zip
+  region: China
+  size: 481.5 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.4.0.PEACNXM
+- branch: stable
+  date: '2019-08-16'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_V10.3.5.0.PEACNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_V10.3.5.0.PEACNXM.zip/download
+  filename: fw-vendor_dipper_V10.3.5.0.PEACNXM.zip
+  region: China
+  size: 558.6 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PEACNXM
+- branch: stable
+  date: '2019-09-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_V10.3.6.0.PEACNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_V10.3.6.0.PEACNXM.zip/download
+  filename: fw-vendor_dipper_V10.3.6.0.PEACNXM.zip
+  region: China
+  size: 558.7 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.6.0.PEACNXM
+- branch: stable
+  date: '2019-10-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_V11.0.3.0.PEACNXM_56a5fadf39_9.0.zip
+  region: China
+  size: 627.2 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PEACNXM
+- branch: stable
+  date: '2019-11-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_V11.0.4.0.PEACNXM_93fe86f258_9.0.zip
+  region: China
+  size: 627.5 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PEACNXM
+- branch: stable
+  date: '2019-12-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.5.0.QEACNXM_55a4a9dc84_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.5.0.QEACNXM_55a4a9dc84_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_V11.0.5.0.QEACNXM_55a4a9dc84_10.0.zip
+  region: China
+  size: 582.2 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QEACNXM
+- branch: stable
+  date: '2020-01-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.6.0.QEACNXM_ba7ee78f97_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.6.0.QEACNXM_ba7ee78f97_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_V11.0.6.0.QEACNXM_ba7ee78f97_10.0.zip
+  region: China
+  size: 582.1 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.6.0.QEACNXM
+- branch: stable
+  date: '2020-04-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.7.0.QEACNXM_b75c98cff0_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.7.0.QEACNXM_b75c98cff0_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_V11.0.7.0.QEACNXM_b75c98cff0_10.0.zip
+  region: China
+  size: 586.0 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.7.0.QEACNXM
+- branch: stable
+  date: '2020-05-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.8.0.QEACNXM_b6e3f68a98_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V11.0.8.0.QEACNXM_b6e3f68a98_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_V11.0.8.0.QEACNXM_b6e3f68a98_10.0.zip
+  region: China
+  size: 586.7 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.8.0.QEACNXM
+- branch: stable
+  date: '2020-07-31'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
+  region: China
+  size: 565.6 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QEACNXM
+- branch: stable
+  date: '2019-05-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_global_V10.3.2.0.PEAMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_global_V10.3.2.0.PEAMIXM.zip/download
+  filename: fw-vendor_dipper_global_V10.3.2.0.PEAMIXM.zip
+  region: Global
+  size: 469.7 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PEAMIXM
+- branch: stable
+  date: '2019-07-04'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_global_V10.3.3.0.PEAMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_global_V10.3.3.0.PEAMIXM.zip/download
+  filename: fw-vendor_dipper_global_V10.3.3.0.PEAMIXM.zip
+  region: Global
+  size: 481.7 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PEAMIXM
+- branch: stable
+  date: '2019-08-14'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_global_V10.3.4.0.PEAMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_global_V10.3.4.0.PEAMIXM.zip/download
+  filename: fw-vendor_dipper_global_V10.3.4.0.PEAMIXM.zip
+  region: Global
+  size: 491.0 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.4.0.PEAMIXM
+- branch: stable
+  date: '2019-09-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_V10.3.5.0.PEAMIXM_db02d24cf1_9.0.zip
+  region: Global
+  size: 479.8 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PEAMIXM
+- branch: stable
+  date: '2019-11-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V11.0.6.0.PEAMIXM_45261e66d2_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V11.0.6.0.PEAMIXM_45261e66d2_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_V11.0.6.0.PEAMIXM_45261e66d2_9.0.zip
+  region: Global
+  size: 566.4 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PEAMIXM
+- branch: stable
+  date: '2020-02-13'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V11.0.3.0.QEAMIXM_785bed5822_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V11.0.3.0.QEAMIXM_785bed5822_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_V11.0.3.0.QEAMIXM_785bed5822_10.0.zip
+  region: Global
+  size: 547.9 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QEAMIXM
+- branch: stable
+  date: '2020-04-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V11.0.4.0.QEAMIXM_5e74c6110e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V11.0.4.0.QEAMIXM_5e74c6110e_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_V11.0.4.0.QEAMIXM_5e74c6110e_10.0.zip
+  region: Global
+  size: 595.5 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QEAMIXM
+- branch: stable
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V11.0.5.0.QEAMIXM_86e58a41cd_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-stable/fw-vendor_dipper_miui_MI8Global_V11.0.5.0.QEAMIXM_86e58a41cd_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_V11.0.5.0.QEAMIXM_86e58a41cd_10.0.zip
+  region: Global
+  size: 616.0 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QEAMIXM
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_miui_MI8Global_9.3.28_d6dc8c3af9_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_miui_MI8Global_9.3.28_d6dc8c3af9_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_9.3.28_d6dc8c3af9_9.0.zip
+  region: Global
+  size: 471.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.3.28
+- branch: weekly
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_miui_MI8Global_9.4.12_bc98eb4197_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_miui_MI8Global_9.4.12_bc98eb4197_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_9.4.12_bc98eb4197_9.0.zip
+  region: Global
+  size: 471.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_miui_MI8Global_9.4.18_5e54fb10cb_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_miui_MI8Global_9.4.18_5e54fb10cb_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_9.4.18_5e54fb10cb_9.0.zip
+  region: Global
+  size: 471.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
+- branch: weekly
+  date: '2019-05-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_global_9.4.26.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_global_9.4.26.zip/download
+  filename: fw-vendor_dipper_global_9.4.26.zip
+  region: Global
+  size: 480.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.26
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_global_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_global_9.5.9.zip/download
+  filename: fw-vendor_dipper_global_9.5.9.zip
+  region: Global
+  size: 481.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
+- branch: weekly
+  date: '2019-05-20'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_global_9.5.17.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_global_9.5.17.zip/download
+  filename: fw-vendor_dipper_global_9.5.17.zip
+  region: Global
+  size: 481.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.17
+- branch: weekly
+  date: '2019-05-31'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_global_9.5.30.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_global_9.5.30.zip/download
+  filename: fw-vendor_dipper_global_9.5.30.zip
+  region: Global
+  size: 480.7 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.30
+- branch: weekly
+  date: '2019-06-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_global_9.6.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_global_9.6.4.zip/download
+  filename: fw-vendor_dipper_global_9.6.4.zip
+  region: Global
+  size: 480.9 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.4
+- branch: weekly
+  date: '2019-06-14'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_global_9.6.13.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_global_9.6.13.zip/download
+  filename: fw-vendor_dipper_global_9.6.13.zip
+  region: Global
+  size: 481.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.13
+- branch: weekly
+  date: '2019-06-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_global_9.6.20.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_global_9.6.20.zip/download
+  filename: fw-vendor_dipper_global_9.6.20.zip
+  region: Global
+  size: 492.0 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.20
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_global_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_global_9.6.27.zip/download
+  filename: fw-vendor_dipper_global_9.6.27.zip
+  region: Global
+  size: 493.9 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_global-weekly/fw-vendor_dipper_miui_MI8Global_9.6.27_7e6ce8a462_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper_global-weekly/fw-vendor_dipper_miui_MI8Global_9.6.27_7e6ce8a462_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8Global_9.6.27_7e6ce8a462_9.0.zip
+  region: Global
+  size: 515.9 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_miui_MI8_9.3.28_ef77b61800_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_miui_MI8_9.3.28_ef77b61800_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_9.3.28_ef77b61800_9.0.zip
+  region: China
+  size: 471.3 MB
+  versions:
+    android: '9.0'
+    miui: 9.3.28
+- branch: weekly
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_miui_MI8_9.4.12_e7e9b22ee1_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_miui_MI8_9.4.12_e7e9b22ee1_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_9.4.12_e7e9b22ee1_9.0.zip
+  region: China
+  size: 470.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_miui_MI8_9.4.18_54f5bc8b03_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_miui_MI8_9.4.18_54f5bc8b03_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_9.4.18_54f5bc8b03_9.0.zip
+  region: China
+  size: 471.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
+- branch: weekly
+  date: '2019-04-29'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.4.26.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.4.26.zip/download
+  filename: fw-vendor_dipper_9.4.26.zip
+  region: China
+  size: 481.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.26
+- branch: weekly
+  date: '2019-05-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.4.18.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.4.18.zip/download
+  filename: fw-vendor_dipper_9.4.18.zip
+  region: China
+  size: 471.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.5.9.zip/download
+  filename: fw-vendor_dipper_9.5.9.zip
+  region: China
+  size: 480.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
+- branch: weekly
+  date: '2019-05-20'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.5.17.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.5.17.zip/download
+  filename: fw-vendor_dipper_9.5.17.zip
+  region: China
+  size: 482.0 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.17
+- branch: weekly
+  date: '2019-05-31'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.5.30.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.5.30.zip/download
+  filename: fw-vendor_dipper_9.5.30.zip
+  region: China
+  size: 481.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.30
+- branch: weekly
+  date: '2019-06-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.6.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.6.4.zip/download
+  filename: fw-vendor_dipper_9.6.4.zip
+  region: China
+  size: 481.7 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.4
+- branch: weekly
+  date: '2019-06-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.6.13.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.6.13.zip/download
+  filename: fw-vendor_dipper_9.6.13.zip
+  region: China
+  size: 481.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.13
+- branch: weekly
+  date: '2019-06-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.6.20.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.6.20.zip/download
+  filename: fw-vendor_dipper_9.6.20.zip
+  region: China
+  size: 481.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.20
+- branch: weekly
+  date: '2019-06-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.6.27.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.6.27.zip/download
+  filename: fw-vendor_dipper_9.6.27.zip
+  region: China
+  size: 481.3 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.7.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.7.4.zip/download
+  filename: fw-vendor_dipper_9.7.4.zip
+  region: China
+  size: 481.3 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.4
+- branch: weekly
+  date: '2019-07-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.7.11.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.7.11.zip/download
+  filename: fw-vendor_dipper_9.7.11.zip
+  region: China
+  size: 481.3 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.11
+- branch: weekly
+  date: '2019-07-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.7.18.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.7.18.zip/download
+  filename: fw-vendor_dipper_9.7.18.zip
+  region: China
+  size: 480.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.18
+- branch: weekly
+  date: '2019-07-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.7.25.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.7.25.zip/download
+  filename: fw-vendor_dipper_9.7.25.zip
+  region: China
+  size: 565.0 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.25
+- branch: weekly
+  date: '2019-08-02'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.8.1.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.8.1.zip/download
+  filename: fw-vendor_dipper_9.8.1.zip
+  region: China
+  size: 577.9 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.1
+- branch: weekly
+  date: '2019-08-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_9.8.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_9.8.9.zip/download
+  filename: fw-vendor_dipper_9.8.9.zip
+  region: China
+  size: 615.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.9
+- branch: weekly
+  date: '2019-09-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-weekly/fw-vendor_dipper_miui_MI8_9.9.3_0fb85e6431_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-weekly/fw-vendor_dipper_miui_MI8_9.9.3_0fb85e6431_9.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_9.9.3_0fb85e6431_9.0.zip
+  region: China
+  size: 639.9 MB
+  versions:
+    android: '9.0'
+    miui: 9.9.3

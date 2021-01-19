@@ -1,3 +1,14 @@
+- branch: stable
+  date: '2020-03-20'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/chiron_global-stable/fw-vendor_chiron_miui_MIMIX2Global_V11.0.6.0.PDEMIXM_0805fdbc02_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/chiron_global-stable/fw-vendor_chiron_miui_MIMIX2Global_V11.0.6.0.PDEMIXM_0805fdbc02_9.0.zip/download
+  filename: fw-vendor_chiron_miui_MIMIX2Global_V11.0.6.0.PDEMIXM_0805fdbc02_9.0.zip
+  region: Global
+  size: 59.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PDEMIXM
 - branch: weekly
   date: '2020-07-17'
   downloads:

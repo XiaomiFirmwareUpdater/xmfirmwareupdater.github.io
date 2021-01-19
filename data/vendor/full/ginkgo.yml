@@ -53,3 +53,399 @@
   versions:
     android: '10.0'
     miui: 20.9.3
+- branch: stable
+  date: '2019-10-11'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V10.3.1.0.PCOINXM_dbad603497_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V10.3.1.0.PCOINXM_dbad603497_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOINGlobal_V10.3.1.0.PCOINXM_dbad603497_9.0.zip
+  region: India
+  size: 341.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PCOINXM
+- branch: stable
+  date: '2019-10-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V10.3.3.0.PCOINXM_904615a161_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V10.3.3.0.PCOINXM_904615a161_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOINGlobal_V10.3.3.0.PCOINXM_904615a161_9.0.zip
+  region: India
+  size: 340.1 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PCOINXM
+- branch: stable
+  date: '2019-11-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.1.0.PCOINXM_b740803427_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.1.0.PCOINXM_b740803427_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.1.0.PCOINXM_b740803427_9.0.zip
+  region: India
+  size: 339.4 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PCOINXM
+- branch: stable
+  date: '2019-12-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.2.0.PCOINXM_ebb16356fb_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.2.0.PCOINXM_ebb16356fb_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.2.0.PCOINXM_ebb16356fb_9.0.zip
+  region: India
+  size: 340.2 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PCOINXM
+- branch: stable
+  date: '2020-02-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.3.0.PCOINXM_2b90bba954_9.0.zip
+  region: India
+  size: 340.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PCOINXM
+- branch: stable
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.4.0.PCOINXM_f7ab0c6402_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.4.0.PCOINXM_f7ab0c6402_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.4.0.PCOINXM_f7ab0c6402_9.0.zip
+  region: India
+  size: 342.9 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCOINXM
+- branch: stable
+  date: '2020-05-29'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.5.0.PCOINXM_a4baa334ae_9.0.zip
+  region: India
+  size: 342.9 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PCOINXM
+- branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.6.0.PCOINXM_db45b8a97a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_in_global-stable/fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.6.0.PCOINXM_db45b8a97a_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOINGlobal_V11.0.6.0.PCOINXM_db45b8a97a_9.0.zip
+  region: India
+  size: 357.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PCOINXM
+- branch: stable
+  date: '2019-10-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V10.3.2.0.PCOIDXM_f2b4961dd5_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V10.3.2.0.PCOIDXM_f2b4961dd5_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOIDGlobal_V10.3.2.0.PCOIDXM_f2b4961dd5_9.0.zip
+  region: Global
+  size: 341.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PCOIDXM
+- branch: stable
+  date: '2019-11-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.1.0.PCOIDXM_a819859678_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.1.0.PCOIDXM_a819859678_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.1.0.PCOIDXM_a819859678_9.0.zip
+  region: Global
+  size: 339.4 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.1.0.PCOIDXM
+- branch: stable
+  date: '2019-12-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.2.0.PCOIDXM_6f17247eb8_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.2.0.PCOIDXM_6f17247eb8_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.2.0.PCOIDXM_6f17247eb8_9.0.zip
+  region: Global
+  size: 341.4 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PCOIDXM
+- branch: stable
+  date: '2020-02-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.3.0.PCOIDXM_aaafd2cf3a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.3.0.PCOIDXM_aaafd2cf3a_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.3.0.PCOIDXM_aaafd2cf3a_9.0.zip
+  region: Global
+  size: 340.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PCOIDXM
+- branch: stable
+  date: '2020-03-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.4.0.PCOIDXM_908d776882_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.4.0.PCOIDXM_908d776882_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.4.0.PCOIDXM_908d776882_9.0.zip
+  region: Global
+  size: 342.9 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCOIDXM
+- branch: stable
+  date: '2020-06-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.5.0.PCOIDXM_7bea099035_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.5.0.PCOIDXM_7bea099035_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.5.0.PCOIDXM_7bea099035_9.0.zip
+  region: Global
+  size: 343.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PCOIDXM
+- branch: stable
+  date: '2020-09-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.6.0.PCOIDXM_b1aa182636_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_id_global-stable/fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.6.0.PCOIDXM_b1aa182636_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOIDGlobal_V11.0.6.0.PCOIDXM_b1aa182636_9.0.zip
+  region: Global
+  size: 357.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PCOIDXM
+- branch: stable
+  date: '2019-09-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.2.0.PCOMIXM_857e1900bf_9.0.zip
+  region: Global
+  size: 339.9 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PCOMIXM
+- branch: stable
+  date: '2019-10-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V10.3.5.0.PCOMIXM_b06466d774_9.0.zip
+  region: Global
+  size: 340.1 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PCOMIXM
+- branch: stable
+  date: '2019-11-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip
+  region: Global
+  size: 340.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PCOMIXM
+- branch: stable
+  date: '2020-01-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.4.0.PCOMIXM_883ec1c954_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.4.0.PCOMIXM_883ec1c954_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.4.0.PCOMIXM_883ec1c954_9.0.zip
+  region: Global
+  size: 340.9 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCOMIXM
+- branch: stable
+  date: '2020-02-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.6.0.PCOMIXM_a27054eb8f_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.6.0.PCOMIXM_a27054eb8f_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.6.0.PCOMIXM_a27054eb8f_9.0.zip
+  region: Global
+  size: 340.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PCOMIXM
+- branch: stable
+  date: '2020-03-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.7.0.PCOMIXM_8b2a9f5dbe_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.7.0.PCOMIXM_8b2a9f5dbe_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.7.0.PCOMIXM_8b2a9f5dbe_9.0.zip
+  region: Global
+  size: 342.9 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.7.0.PCOMIXM
+- branch: stable
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip
+  region: Global
+  size: 342.9 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.8.0.PCOMIXM
+- branch: stable
+  date: '2020-06-08'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.9.0.PCOMIXM_59d042a821_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.9.0.PCOMIXM_59d042a821_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.9.0.PCOMIXM_59d042a821_9.0.zip
+  region: Global
+  size: 343.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.9.0.PCOMIXM
+- branch: stable
+  date: '2020-09-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.10.0.PCOMIXM_d713b2dbf8_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.10.0.PCOMIXM_d713b2dbf8_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.10.0.PCOMIXM_d713b2dbf8_9.0.zip
+  region: Global
+  size: 357.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.10.0.PCOMIXM
+- branch: stable
+  date: '2020-10-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.11.0.PCOMIXM_793f382e0d_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo_global-stable/fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.11.0.PCOMIXM_793f382e0d_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGOGlobal_V11.0.11.0.PCOMIXM_793f382e0d_9.0.zip
+  region: Global
+  size: 356.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.11.0.PCOMIXM
+- branch: stable
+  date: '2019-09-20'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.2.0.PCOCNXM_47241996dd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.2.0.PCOCNXM_47241996dd_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V10.3.2.0.PCOCNXM_47241996dd_9.0.zip
+  region: China
+  size: 328.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PCOCNXM
+- branch: stable
+  date: '2019-09-29'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.5.0.PCOCNXM_f0623abc24_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.5.0.PCOCNXM_f0623abc24_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V10.3.5.0.PCOCNXM_f0623abc24_9.0.zip
+  region: China
+  size: 326.6 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PCOCNXM
+- branch: stable
+  date: '2019-10-08'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.6.0.PCOCNXM_36a8a15d18_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.6.0.PCOCNXM_36a8a15d18_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V10.3.6.0.PCOCNXM_36a8a15d18_9.0.zip
+  region: China
+  size: 328.3 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.6.0.PCOCNXM
+- branch: stable
+  date: '2019-10-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.8.0.PCOCNXM_378cda9a0b_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V10.3.8.0.PCOCNXM_378cda9a0b_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V10.3.8.0.PCOCNXM_378cda9a0b_9.0.zip
+  region: China
+  size: 328.6 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.8.0.PCOCNXM
+- branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.2.0.PCOCNXM_4f887a3f3e_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.2.0.PCOCNXM_4f887a3f3e_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V11.0.2.0.PCOCNXM_4f887a3f3e_9.0.zip
+  region: China
+  size: 348.7 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.2.0.PCOCNXM
+- branch: stable
+  date: '2019-11-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.3.0.PCOCNXM_b07db156df_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.3.0.PCOCNXM_b07db156df_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V11.0.3.0.PCOCNXM_b07db156df_9.0.zip
+  region: China
+  size: 348.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PCOCNXM
+- branch: stable
+  date: '2020-01-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V11.0.4.0.PCOCNXM_7248ec69cc_9.0.zip
+  region: China
+  size: 355.7 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PCOCNXM
+- branch: stable
+  date: '2020-02-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.5.0.PCOCNXM_01cc753a51_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.5.0.PCOCNXM_01cc753a51_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V11.0.5.0.PCOCNXM_01cc753a51_9.0.zip
+  region: China
+  size: 354.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PCOCNXM
+- branch: stable
+  date: '2020-03-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.6.0.PCOCNXM_c0598800f6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.6.0.PCOCNXM_c0598800f6_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V11.0.6.0.PCOCNXM_c0598800f6_9.0.zip
+  region: China
+  size: 354.6 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PCOCNXM
+- branch: stable
+  date: '2020-06-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.7.0.PCOCNXM_103aa0209f_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V11.0.7.0.PCOCNXM_103aa0209f_9.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V11.0.7.0.PCOCNXM_103aa0209f_9.0.zip
+  region: China
+  size: 357.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.7.0.PCOCNXM
+- branch: stable
+  date: '2020-10-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V12.0.2.0.QCOCNXM_fad5afbf68_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/ginkgo-stable/fw-vendor_ginkgo_miui_GINKGO_V12.0.2.0.QCOCNXM_fad5afbf68_10.0.zip/download
+  filename: fw-vendor_ginkgo_miui_GINKGO_V12.0.2.0.QCOCNXM_fad5afbf68_10.0.zip
+  region: China
+  size: 518.4 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCOCNXM

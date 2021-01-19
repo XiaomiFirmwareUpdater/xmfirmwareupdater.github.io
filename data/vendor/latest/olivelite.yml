@@ -1,11 +1,55 @@
 - branch: stable
-  date: '2020-08-06'
+  date: '2020-08-28'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_global-stable-beta/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.QCPMIXM_0d091c0c4e_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_global-stable-beta/fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.QCPMIXM_0d091c0c4e_10.0.zip/download
-  filename: fw-vendor_olivelite_miui_OLIVELITEGlobal_V11.0.1.0.QCPMIXM_0d091c0c4e_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_id_global-stable/fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.1.0.QCPIDXM_274cc5c011_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_id_global-stable/fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.1.0.QCPIDXM_274cc5c011_10.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEIDGlobal_V11.0.1.0.QCPIDXM_274cc5c011_10.0.zip
   region: Global
+  size: 336.1 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QCPIDXM
+- branch: stable
+  date: '2020-09-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.3.0.QCPCNXM_71a6008710_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite-stable/fw-vendor_olivelite_miui_OLIVELITE_V11.0.3.0.QCPCNXM_71a6008710_10.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITE_V11.0.3.0.QCPCNXM_71a6008710_10.0.zip
+  region: China
+  size: 373.8 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QCPCNXM
+- branch: stable
+  date: '2020-09-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_eea_global-stable/fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.2.0.QCPEUXM_1dbe214e3d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_eea_global-stable/fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.2.0.QCPEUXM_1dbe214e3d_10.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEEEAGlobal_V11.0.2.0.QCPEUXM_1dbe214e3d_10.0.zip
+  region: Europe
+  size: 336.7 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QCPEUXM
+- branch: stable
+  date: '2020-08-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.QCPINXM_b9898ff52b_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_in_global-stable/fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.QCPINXM_b9898ff52b_10.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITEINGlobal_V11.0.1.0.QCPINXM_b9898ff52b_10.0.zip
+  region: India
   size: 336.0 MB
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QCPMIXM
+    miui: V11.0.1.0.QCPINXM
+- branch: stable
+  date: '2020-08-24'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olivelite_ru_global-stable/fw-vendor_olivelite_miui_OLIVELITERUGlobal_V11.0.1.0.QCPRUXM_dea8806936_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olivelite_ru_global-stable/fw-vendor_olivelite_miui_OLIVELITERUGlobal_V11.0.1.0.QCPRUXM_dea8806936_10.0.zip/download
+  filename: fw-vendor_olivelite_miui_OLIVELITERUGlobal_V11.0.1.0.QCPRUXM_dea8806936_10.0.zip
+  region: Russia
+  size: 336.0 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QCPRUXM

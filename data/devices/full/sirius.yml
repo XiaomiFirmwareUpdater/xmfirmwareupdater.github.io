@@ -1018,3 +1018,43 @@
   versions:
     android: '8.1'
     miui: 8.7.5
+- branch: weekly
+  date: '2018-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/untagged-4a2ca100f2dc36c05860/fw_sirius_miui_MI8SE_8.6.21_84f1e09c6c_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.21/sirius/fw_sirius_miui_MI8SE_8.6.21_84f1e09c6c_8.1.zip
+  filename: fw_sirius_miui_MI8SE_8.6.21_84f1e09c6c_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.6.21
+- branch: weekly
+  date: '2018-07-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/untagged-4a2ca100f2dc36c05860/fw_sirius_miui_MI8SE_8.7.5_d03b7e10cc_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/sirius/fw_sirius_miui_MI8SE_8.7.5_d03b7e10cc_8.1.zip
+  filename: fw_sirius_miui_MI8SE_8.7.5_d03b7e10cc_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.7.5
+- branch: weekly
+  date: '2018-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/untagged-e77d7fd47fc9fb3eb6b7/fw_sirius_miui_MI8SE_V9.5.6.0.OEBCNFA_c544fe6087_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.6.0.OEBCNFA/sirius/fw_sirius_miui_MI8SE_V9.5.6.0.OEBCNFA_c544fe6087_8.1.zip
+  filename: fw_sirius_miui_MI8SE_V9.5.6.0.OEBCNFA_c544fe6087_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V9.5.6.0.OEBCNFA
+- branch: weekly
+  date: '2018-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sirius/releases/download/untagged-278668e4cc86543c1cf6/fw_sirius_miui_MI8SE_8.6.18_8c13c2d0b4_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.18/sirius/fw_sirius_miui_MI8SE_8.6.18_8c13c2d0b4_8.1.zip
+  filename: fw_sirius_miui_MI8SE_8.6.18_8c13c2d0b4_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.6.18

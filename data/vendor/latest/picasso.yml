@@ -1,14 +1,14 @@
 - branch: stable
-  date: '2020-07-07'
+  date: '2020-10-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso_48m-stable/fw-vendor_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso_48m-stable/fw-vendor_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip/download
-  filename: fw-vendor_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/picasso-stable/fw-vendor_picasso_miui_PICASSO_V12.0.6.0.QGICNXM_adf9e45b32_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/picasso-stable/fw-vendor_picasso_miui_PICASSO_V12.0.6.0.QGICNXM_adf9e45b32_10.0.zip/download
+  filename: fw-vendor_picasso_miui_PICASSO_V12.0.6.0.QGICNXM_adf9e45b32_10.0.zip
   region: China
   size: 1.1 GB
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QGICMXM
+    miui: V12.0.6.0.QGICNXM
 - branch: weekly
   date: '2020-10-01'
   downloads:
