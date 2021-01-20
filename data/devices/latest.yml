@@ -659,15 +659,15 @@
     android: '10.0'
     miui: V12.0.2.0.QJWMIXM
 - branch: stable
-  date: '2020-11-11'
+  date: '2021-01-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-11.11.2020/fw_curtana_miui_CURTANAEEAGlobal_V12.0.2.0.QJWEUXM_954fdcf2b2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAEEAGlobal_V12.0.2.0.QJWEUXM_954fdcf2b2_10.0.zip
-  filename: fw_curtana_miui_CURTANAEEAGlobal_V12.0.2.0.QJWEUXM_954fdcf2b2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-20.01.2021/fw_curtana_miui_CURTANAEEAGlobal_V12.0.3.0.QJWEUXM_d6593b05b9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAEEAGlobal_V12.0.3.0.QJWEUXM_d6593b05b9_10.0.zip
+  filename: fw_curtana_miui_CURTANAEEAGlobal_V12.0.3.0.QJWEUXM_d6593b05b9_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QJWEUXM
+    miui: V12.0.3.0.QJWEUXM
 - branch: stable
   date: '2021-01-19'
   downloads:
@@ -729,15 +729,15 @@
     android: '10.0'
     miui: V12.0.9.0.QCDINXM
 - branch: stable
-  date: '2020-10-16'
+  date: '2021-01-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-17.10.2020/fw_davinci_miui_DAVINCIGlobal_V12.0.5.0.QFJMIXM_68eafed495_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinci/fw_davinci_miui_DAVINCIGlobal_V12.0.5.0.QFJMIXM_68eafed495_10.0.zip
-  filename: fw_davinci_miui_DAVINCIGlobal_V12.0.5.0.QFJMIXM_68eafed495_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinci/releases/download/stable-20.01.2021/fw_davinci_miui_DAVINCIGlobal_V12.0.7.0.QFJMIXM_9866f56704_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinci/fw_davinci_miui_DAVINCIGlobal_V12.0.7.0.QFJMIXM_9866f56704_10.0.zip
+  filename: fw_davinci_miui_DAVINCIGlobal_V12.0.7.0.QFJMIXM_9866f56704_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.5.0.QFJMIXM
+    miui: V12.0.7.0.QFJMIXM
 - branch: stable
   date: '2020-11-10'
   downloads:
@@ -869,15 +869,15 @@
     android: '10.0'
     miui: V12.0.2.0.QJXINXM
 - branch: stable
-  date: '2020-12-18'
+  date: '2021-01-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-18.12.2020/fw_gauguin_miui_GAUGUIN_V12.0.7.0.QJSCNXM_e2dd0cb625_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUIN_V12.0.7.0.QJSCNXM_e2dd0cb625_10.0.zip
-  filename: fw_gauguin_miui_GAUGUIN_V12.0.7.0.QJSCNXM_e2dd0cb625_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-20.01.2021/fw_gauguin_miui_GAUGUIN_V12.0.8.0.QJSCNXM_2e2388b297_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUIN_V12.0.8.0.QJSCNXM_2e2388b297_10.0.zip
+  filename: fw_gauguin_miui_GAUGUIN_V12.0.8.0.QJSCNXM_2e2388b297_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.7.0.QJSCNXM
+    miui: V12.0.8.0.QJSCNXM
 - branch: weekly
   date: '2021-01-15'
   downloads:
@@ -1429,15 +1429,15 @@
     android: '10.0'
     miui: V12.0.1.0.QFGMIXM
 - branch: stable
-  date: '2020-10-29'
+  date: '2021-01-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-29.10.2020/fw_lavender_miui_LAVENDER_V12.0.2.0.QFGCNXM_722667568f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lavender/fw_lavender_miui_LAVENDER_V12.0.2.0.QFGCNXM_722667568f_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_V12.0.2.0.QFGCNXM_722667568f_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-20.01.2021/fw_lavender_miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lavender/fw_lavender_miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QFGCNXM
+    miui: V12.0.3.0.QFGCNXM
 - branch: weekly
   date: '2021-01-15'
   downloads:
@@ -1839,15 +1839,15 @@
     android: '10.0'
     miui: V12.0.1.0.QCNMIXM
 - branch: stable
-  date: '2020-10-21'
+  date: '2021-01-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-21.10.2020/fw_olive_miui_OLIVE_V11.0.2.0.QCNCNXM_24099361cb_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olive/fw_olive_miui_OLIVE_V11.0.2.0.QCNCNXM_24099361cb_10.0.zip
-  filename: fw_olive_miui_OLIVE_V11.0.2.0.QCNCNXM_24099361cb_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-20.01.2021/fw_olive_miui_OLIVE_V12.0.1.0.QCNCNXM_4f459b5677_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVE_V12.0.1.0.QCNCNXM_4f459b5677_10.0.zip
+  filename: fw_olive_miui_OLIVE_V12.0.1.0.QCNCNXM_4f459b5677_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.2.0.QCNCNXM
+    miui: V12.0.1.0.QCNCNXM
 - branch: stable
   date: '2021-01-08'
   downloads:
@@ -2069,15 +2069,15 @@
     android: '10.0'
     miui: V12.0.2.0.QGHINXM
 - branch: stable
-  date: '2020-12-24'
+  date: '2021-01-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-24.12.2020/fw_picasso_miui_PICASSO_V12.1.4.0.RGICNXM_a664b3a7e1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.1.4.0.RGICNXM_a664b3a7e1_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.1.4.0.RGICNXM_a664b3a7e1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-20.01.2021/fw_picasso_miui_PICASSO48M_V12.1.1.0.RGICMXM_192dfa1f57_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.1.1.0.RGICMXM_192dfa1f57_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.1.1.0.RGICMXM_192dfa1f57_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.1.4.0.RGICNXM
+    miui: V12.1.1.0.RGICMXM
 - branch: weekly
   date: '2021-01-15'
   downloads:
