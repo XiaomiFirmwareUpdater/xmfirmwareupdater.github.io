@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 20 Jan 2021 22:14:34 +0900</pubDate>
+  <pubDate>Thu, 21 Jan 2021 01:18:32 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 Pro (cmi) - V12.2.3.0.RJAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Thu, 21 Jan 2021 01:18:32 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.1.1.0.RGICMXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
@@ -35,11 +40,6 @@
     <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.0.3.0.QJWEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
     <pubDate>Wed, 20 Jan 2021 20:27:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V12.2.3.0.RJAEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Wed, 20 Jan 2021 20:04:40 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 9 Pro (joyeuse) - V12.0.2.0.QJZMIXM</title>
