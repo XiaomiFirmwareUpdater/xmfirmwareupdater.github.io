@@ -33049,6 +33049,16 @@
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
 - branch: stable
+  date: '2021-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-21.01.2021/fw_olivelite_miui_OLIVELITEGlobal_V12.0.1.0.QCPMIXM_88d4cdcadc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V12.0.1.0.QCPMIXM_88d4cdcadc_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEGlobal_V12.0.1.0.QCPMIXM_88d4cdcadc_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QCPMIXM
+- branch: stable
   date: '2021-01-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-08.01.2021/fw_olivelite_miui_OLIVELITEEEAGlobal_V12.0.1.0.QCPEUXM_4f9bdb6c18_10.0.zip
@@ -65538,6 +65548,16 @@
   versions:
     android: '7.1'
     miui: V9.2.7.0.NEIMIEK
+- branch: stable
+  date: '2021-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-21.01.2021/fw_willow_miui_WILLOWEEAGlobal_V12.0.2.0.QCXEUXM_7dd8399736_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWEEAGlobal_V12.0.2.0.QCXEUXM_7dd8399736_10.0.zip
+  filename: fw_willow_miui_WILLOWEEAGlobal_V12.0.2.0.QCXEUXM_7dd8399736_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCXEUXM
 - branch: stable
   date: '2020-11-04'
   downloads:
