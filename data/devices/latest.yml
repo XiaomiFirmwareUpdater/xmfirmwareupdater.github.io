@@ -169,15 +169,15 @@
     android: '11.0'
     miui: 21.1.13
 - branch: stable
-  date: '2020-11-18'
+  date: '2021-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-18.11.2020/fw_begonia_miui_BEGONIAGlobal_V12.0.5.0.QGGMIXM_81830ce93c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.0.5.0.QGGMIXM_81830ce93c_10.0.zip
-  filename: fw_begonia_miui_BEGONIAGlobal_V12.0.5.0.QGGMIXM_81830ce93c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-22.01.2021/fw_begonia_miui_BEGONIAGlobal_V12.0.6.0.QGGMIXM_94fe33a53c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.0.6.0.QGGMIXM_94fe33a53c_10.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V12.0.6.0.QGGMIXM_94fe33a53c_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.5.0.QGGMIXM
+    miui: V12.0.6.0.QGGMIXM
 - branch: stable
   date: '2020-11-13'
   downloads:
@@ -769,15 +769,15 @@
     android: '10.0'
     miui: V12.0.4.0.QFJEUXM
 - branch: stable
-  date: '2020-10-19'
+  date: '2021-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinciin/releases/download/stable-19.10.2020/fw_davinciin_miui_DAVINCIININGlobal_V12.0.5.0.QFJINXM_59fbbdc486_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinciin/fw_davinciin_miui_DAVINCIININGlobal_V12.0.5.0.QFJINXM_59fbbdc486_10.0.zip
-  filename: fw_davinciin_miui_DAVINCIININGlobal_V12.0.5.0.QFJINXM_59fbbdc486_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinciin/releases/download/stable-22.01.2021/fw_davinciin_miui_DAVINCIININGlobal_V12.0.7.0.QFJINXM_5932fd5876_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinciin/fw_davinciin_miui_DAVINCIININGlobal_V12.0.7.0.QFJINXM_5932fd5876_10.0.zip
+  filename: fw_davinciin_miui_DAVINCIININGlobal_V12.0.7.0.QFJINXM_5932fd5876_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.5.0.QFJINXM
+    miui: V12.0.7.0.QFJINXM
 - branch: stable
   date: '2020-11-23'
   downloads:
@@ -1449,15 +1449,15 @@
     android: '10.0'
     miui: 21.1.13
 - branch: stable
-  date: '2020-10-20'
+  date: '2021-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-20.10.2020/fw_lavender_miui_LAVENDEREEAGlobal_V12.0.2.0.QFGEUXM_d20d8676c8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V12.0.2.0.QFGEUXM_d20d8676c8_10.0.zip
-  filename: fw_lavender_miui_LAVENDEREEAGlobal_V12.0.2.0.QFGEUXM_d20d8676c8_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-22.01.2021/fw_lavender_miui_LAVENDEREEAGlobal_V12.0.3.0.QFGEUXM_2064030854_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V12.0.3.0.QFGEUXM_2064030854_10.0.zip
+  filename: fw_lavender_miui_LAVENDEREEAGlobal_V12.0.3.0.QFGEUXM_2064030854_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QFGEUXM
+    miui: V12.0.3.0.QFGEUXM
 - branch: stable
   date: '2020-12-22'
   downloads:
@@ -2059,15 +2059,15 @@
     android: '11.0'
     miui: 21.1.14
 - branch: stable
-  date: '2020-10-19'
+  date: '2021-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenixin/releases/download/stable-19.10.2020/fw_phoenixin_miui_PHOENIXININGlobal_V12.0.2.0.QGHINXM_39fa49d8fc_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenixin/fw_phoenixin_miui_PHOENIXININGlobal_V12.0.2.0.QGHINXM_39fa49d8fc_10.0.zip
-  filename: fw_phoenixin_miui_PHOENIXININGlobal_V12.0.2.0.QGHINXM_39fa49d8fc_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenixin/releases/download/stable-22.01.2021/fw_phoenixin_miui_PHOENIXININGlobal_V12.1.2.0.RGHINXM_b85dc670a6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenixin/fw_phoenixin_miui_PHOENIXININGlobal_V12.1.2.0.RGHINXM_b85dc670a6_11.0.zip
+  filename: fw_phoenixin_miui_PHOENIXININGlobal_V12.1.2.0.RGHINXM_b85dc670a6_11.0.zip
   region: India
   versions:
-    android: '10.0'
-    miui: V12.0.2.0.QGHINXM
+    android: '11.0'
+    miui: V12.1.2.0.RGHINXM
 - branch: stable
   date: '2021-01-20'
   downloads:
@@ -2689,15 +2689,15 @@
     android: '11.0'
     miui: V12.1.1.0.RFNMIXM
 - branch: stable
-  date: '2020-11-03'
+  date: '2021-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-03.11.2020/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-22.01.2021/fw_toco_miui_TOCOEEAGlobal_V12.1.1.0.RFNEUXM_5a981abd34_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.1.1.0.RFNEUXM_5a981abd34_11.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.1.1.0.RFNEUXM_5a981abd34_11.0.zip
   region: Europe
   versions:
-    android: '10.0'
-    miui: V12.0.2.0.QFNEUXM
+    android: '11.0'
+    miui: V12.1.1.0.RFNEUXM
 - branch: stable
   date: '2020-11-04'
   downloads:
