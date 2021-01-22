@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 22 Jan 2021 01:34:42 +0900</pubDate>
+  <pubDate>Fri, 22 Jan 2021 19:26:36 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.0.4.0.QFKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 22 Jan 2021 19:26:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V12.0.4.0.QFJEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 22 Jan 2021 19:22:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - V12.0.4.0.QFAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Fri, 22 Jan 2021 19:18:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 5G (andromeda) - V12.0.3.0.PEMMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Fri, 22 Jan 2021 19:13:13 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8T (willow) - V12.0.2.0.QCXEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
@@ -85,26 +105,6 @@
     <title>Mi 10 Pro (cmi) - V12.2.3.0.RJACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
     <pubDate>Wed, 20 Jan 2021 01:28:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.5.0.QJQINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Tue, 19 Jan 2021 19:29:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.0.3.0.RJWINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
-    <pubDate>Tue, 19 Jan 2021 19:26:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M3 (citrus) - V12.0.3.0.QJFINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
-    <pubDate>Tue, 19 Jan 2021 19:21:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - V12.0.5.0.QFHINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Sun, 17 Jan 2021 19:11:25 +0900</pubDate>
   </item>
     </channel>
 </rss>
