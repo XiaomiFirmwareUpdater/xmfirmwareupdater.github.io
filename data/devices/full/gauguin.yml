@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2021-01-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/weekly-23.01.2021/fw_gauguin_miui_GAUGUIN_21.1.20_38955a2e19_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/gauguin/fw_gauguin_miui_GAUGUIN_21.1.20_38955a2e19_11.0.zip
+  filename: fw_gauguin_miui_GAUGUIN_21.1.20_38955a2e19_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.20
 - branch: stable
   date: '2021-01-20'
   downloads:
