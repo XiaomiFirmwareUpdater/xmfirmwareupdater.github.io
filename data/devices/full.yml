@@ -23989,6 +23989,16 @@
     android: '10.0'
     miui: V11.0.23.0.QFQMIXM
 - branch: weekly
+  date: '2021-01-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-23.01.2021/fw_laurus_miui_LAURUS_21.1.20_a5c6929058_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/laurus/fw_laurus_miui_LAURUS_21.1.20_a5c6929058_10.0.zip
+  filename: fw_laurus_miui_LAURUS_21.1.20_a5c6929058_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 21.1.20
+- branch: weekly
   date: '2021-01-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-15.01.2021/fw_laurus_miui_LAURUS_21.1.13_6f89faee5e_10.0.zip
@@ -37554,6 +37564,16 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-23.01.2021/fw_picasso_miui_PICASSO48M_21.1.20_3bc70fd6ca_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/picasso/fw_picasso_miui_PICASSO48M_21.1.20_3bc70fd6ca_11.0.zip
   filename: fw_picasso_miui_PICASSO48M_21.1.20_3bc70fd6ca_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.20
+- branch: weekly
+  date: '2021-01-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-23.01.2021/fw_picasso_miui_PICASSO_21.1.20_67f499455c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/picasso/fw_picasso_miui_PICASSO_21.1.20_67f499455c_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.1.20_67f499455c_11.0.zip
   region: China
   versions:
     android: '11.0'
