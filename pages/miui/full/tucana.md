@@ -52,7 +52,8 @@ permalink: /archive/miui/tucana/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.1.14</td><td>11.0</td><td>3.4 GB</td><td>2021-01-15</td><td><a href="/miui/tucana/weekly/21.1.14/">Download</a></td></tr>
+                <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.1.20</td><td>11.0</td><td>3.4 GB</td><td>2021-01-21</td><td><a href="/miui/tucana/weekly/21.1.20/">Download</a></td></tr>
+<tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.1.14</td><td>11.0</td><td>3.4 GB</td><td>2021-01-15</td><td><a href="/miui/tucana/weekly/21.1.14/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.1.6</td><td>11.0</td><td>3.4 GB</td><td>2021-01-07</td><td><a href="/miui/tucana/weekly/21.1.6/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.1.3.0.RFDCNXM</td><td>11.0</td><td>3.1 GB</td><td>2021-01-04</td><td><a href="/miui/tucana/stable/V12.1.3.0.RFDCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.1.3.0.RFDCNXM</td><td>11.0</td><td>4.1 GB</td><td>2020-12-30</td><td><a href="/miui/tucana/stable/V12.1.3.0.RFDCNXM/">Download</a></td></tr>
