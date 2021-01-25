@@ -67,6 +67,7 @@ permalink: /miui/citrus/
 <tr><td>POCO M3 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QJFRUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-12-29</td><td><a href="/miui/citrus/stable beta/V12.0.2.0.QJFRUXM/">Download</a></td></tr>
 <tr><td>POCO M3 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJFTRXM</td><td>10.0</td><td>3.8 GB</td><td>2020-12-21</td><td><a href="/miui/citrus/stable/V12.0.2.0.QJFTRXM/">Download</a></td></tr>
 <tr><td>POCO M3 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJFTRXM</td><td>10.0</td><td>2.5 GB</td><td>2020-12-29</td><td><a href="/miui/citrus/stable/V12.0.2.0.QJFTRXM/">Download</a></td></tr>
+<tr><td>POCO M3 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QJFTRXM</td><td>10.0</td><td>2.5 GB</td><td>2021-01-25</td><td><a href="/miui/citrus/stable beta/V12.0.4.0.QJFTRXM/">Download</a></td></tr>
 <tr><td>POCO M3 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJFTWXM</td><td>10.0</td><td>3.4 GB</td><td>2020-12-12</td><td><a href="/miui/citrus/stable/V12.0.1.0.QJFTWXM/">Download</a></td></tr>
 <tr><td>POCO M3 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJFTWXM</td><td>10.0</td><td>2.5 GB</td><td>2020-12-29</td><td><a href="/miui/citrus/stable/V12.0.1.0.QJFTWXM/">Download</a></td></tr>
 

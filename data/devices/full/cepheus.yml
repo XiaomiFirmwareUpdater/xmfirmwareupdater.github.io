@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2021-01-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-25.01.2021/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.4.0.QFAEUXM_888770fbbe_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.4.0.QFAEUXM_888770fbbe_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.4.0.QFAEUXM_888770fbbe_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QFAEUXM
 - branch: weekly
   date: '2021-01-23'
   downloads:

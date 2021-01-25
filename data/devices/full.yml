@@ -5578,6 +5578,16 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QCTINXM
+- branch: stable
+  date: '2021-01-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/stable-25.01.2021/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.4.0.QFAEUXM_888770fbbe_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.4.0.QFAEUXM_888770fbbe_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.4.0.QFAEUXM_888770fbbe_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QFAEUXM
 - branch: weekly
   date: '2021-01-23'
   downloads:
@@ -22788,6 +22798,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-01-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-25.01.2021/fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.1.0.QJCEUXM_77fd23f7f7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.1.0.QJCEUXM_77fd23f7f7_10.0.zip
+  filename: fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.1.0.QJCEUXM_77fd23f7f7_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJCEUXM
 - branch: stable
   date: '2021-01-12'
   downloads:
@@ -43068,6 +43088,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: stable
+  date: '2021-01-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-25.01.2021/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.4.0.QFKEUXM_4087debc4c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.4.0.QFKEUXM_4087debc4c_10.0.zip
+  filename: fw_raphael_miui_RAPHAELEEAGlobal_V12.0.4.0.QFKEUXM_4087debc4c_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QFKEUXM
 - branch: weekly
   date: '2021-01-23'
   downloads:
