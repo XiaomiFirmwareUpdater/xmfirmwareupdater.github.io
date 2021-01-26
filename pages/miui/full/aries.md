@@ -121,6 +121,9 @@ permalink: /archive/miui/aries/
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>V7.0.4.0.LXACNCI</td><td>5.0</td><td>629.2 MB</td><td>2015-10-16</td><td><a href="/miui/aries/stable/V7.0.4.0.LXACNCI/">Download</a></td></tr>
 <tr><td>MI 2S Global</td><td>Stable</td><td>Recovery</td><td>V6.6.1.0.LXAMICF</td><td>5.0</td><td>569.2 MB</td><td>2015-10-06</td><td><a href="/miui/aries/stable/V6.6.1.0.LXAMICF/">Download</a></td></tr>
 <tr><td>MI 2S Global</td><td>Stable</td><td>Fastboot</td><td>V6.6.1.0.LXAMICF</td><td>5.0</td><td>690.1 MB</td><td>2015-06-26</td><td><a href="/miui/aries/stable/V6.6.1.0.LXAMICF/">Download</a></td></tr>
+<tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>JLB54.0</td><td>4.1</td><td>520.8 MB</td><td>2015-04-27</td><td><a href="/miui/aries/stable/JLB54.0/">Download</a></td></tr>
+<tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>JLB50.0</td><td>4.1</td><td>520.7 MB</td><td>2015-03-05</td><td><a href="/miui/aries/stable/JLB50.0/">Download</a></td></tr>
+<tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>JLB52.0</td><td>4.1</td><td>520.8 MB</td><td>2015-02-08</td><td><a href="/miui/aries/stable/JLB52.0/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

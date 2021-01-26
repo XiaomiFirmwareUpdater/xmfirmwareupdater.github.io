@@ -54,6 +54,7 @@ permalink: /miui/cannon/
                 <tbody>
                 <tr><td>Redmi Note 9 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJECNXM</td><td>10.0</td><td>3.6 GB</td><td>2021-01-07</td><td><a href="/miui/cannon/stable/V12.0.6.0.QJECNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJECNXM</td><td>10.0</td><td>2.6 GB</td><td>2021-01-11</td><td><a href="/miui/cannon/stable/V12.0.6.0.QJECNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Fastboot</td><td>20.12.25</td><td>11.0</td><td>3.8 GB</td><td>2020-12-25</td><td><a href="/miui/cannon/weekly/20.12.25/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.1.20</td><td>11.0</td><td>401.2 MB</td><td>2021-01-21</td><td><a href="/miui/cannon/weekly/21.1.20/">Download</a></td></tr>
 
                 </tbody>

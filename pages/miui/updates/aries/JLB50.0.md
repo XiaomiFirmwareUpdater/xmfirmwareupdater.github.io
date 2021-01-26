@@ -1,16 +1,16 @@
 ---
-title: Mi 11 China MIUI V12.0.19.0.RKBCNXM Update
+title: MI 2S China MIUI JLB50.0 Update
 layout: download
-name: Mi 11 China
-codename: venus
-permalink: /miui/venus/stable beta/V12.0.19.0.RKBCNXM/
+name: MI 2S China
+codename: aries
+permalink: /miui/aries/stable/JLB50.0/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item"><a href="/miui/venus/">Mi 11 China</a></li>
-        <li class="breadcrumb-item active" aria-current="page">V12.0.19.0.RKBCNXM</li>
+        <li class="breadcrumb-item"><a href="/miui/aries/">MI 2S China</a></li>
+        <li class="breadcrumb-item active" aria-current="page">JLB50.0</li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -21,9 +21,9 @@ permalink: /miui/venus/stable beta/V12.0.19.0.RKBCNXM/
     </button>
 </div>
 <div class="col-12 mx-auto">
-    <h3 class="title bg-light p-2 rounded">MIUI V12.0.19.0.RKBCNXM Stable Beta Official Update for Mi 11 China (venus)</h3>
-    <h5>This page shows the V12.0.19.0.RKBCNXM update only. If you're looking for other updates check
-        <a href="/miui/venus/">here.</a></h5>
+    <h3 class="title bg-light p-2 rounded">MIUI JLB50.0 Stable Official Update for MI 2S China (aries)</h3>
+    <h5>This page shows the JLB50.0 update only. If you're looking for other updates check
+        <a href="/miui/aries/">here.</a></h5>
     <p><i>Note: </i>All files listed here are official untouched MIUI ROMs.
         It's not owned, modified or edited by Xiaomi Firmware Updater.</p>
     <div class="card">
@@ -44,42 +44,42 @@ permalink: /miui/venus/stable beta/V12.0.19.0.RKBCNXM/
             {%include vli_ad_320x50_1.html%}
             <ul class="list-unstyled">
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Device: </b>Mi 11 China</h5>
+                    <h5><b>Device: </b>MI 2S China</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Codename: </b> <a href="/miui/venus/" target="_blank">venus</a> </h5>
+                    <h5><b>Codename: </b> <a href="/miui/aries/" target="_blank">aries</a> </h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Version: </b>V12.0.19.0.RKBCNXM</h5>
+                    <h5><b>Version: </b>JLB50.0</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Branch: </b>Stable Beta</h5>
+                    <h5><b>Branch: </b>Stable</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Type: </b>Recovery</h5>
+                    <h5><b>Type: </b>Fastboot</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Size: </b>4.0 GB</h5>
+                    <h5><b>Size: </b>520.7 MB</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Release Date: </b>2021-01-25</h5>
+                    <h5><b>Release Date: </b>2015-03-05</h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Package Name: </b><span id="filename" class="text-dark">miui_VENUS_V12.0.19.0.RKBCNXM_8095d587cb_11.0.zip</span></h5>
+                    <h5><b>Package Name: </b><span id="filename" class="text-dark">aries_images_JLB50.0_4.1_cn_9317da5f38.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">8095d587cb81c6e984c74f862504b159</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
-                            onclick="window.open('https://bigota.d.miui.com/V12.0.19.0.RKBCNXM/miui_VENUS_V12.0.19.0.RKBCNXM_8095d587cb_11.0.zip', '_blank');"><i class="fa fa-download"></i> Full ROM</button><button type="button" id="incremental_download" class="btn btn-warning" onclick="window.open('https://bigota.d.miui.com/V12.0.19.0.RKBCNXM/miui-blockota-venus-V12.0.17.0.RKBCNXM-V12.0.19.0.RKBCNXM-04d510d1c7-11.0.zip', '_blank');"><i class="fa fa-download"></i> Incremental Update</button></h5>
+                            onclick="window.open('https://bigota.d.miui.com/JLB50.0/aries_images_JLB50.0_4.1_cn_9317da5f38.tgz', '_blank');"><i class="fa fa-download"></i> Full ROM</button></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>Changelog: </b><a href="#venus_1_changelog" data-toggle="collapse" role="button"
-                            aria-expanded="false" aria-controls="venus_1_changelog"> <i class="fa fa-arrow-down"
+                    <h5><b>Changelog: </b><a href="#aries_1_changelog" data-toggle="collapse" role="button"
+                            aria-expanded="false" aria-controls="aries_1_changelog"> <i class="fa fa-arrow-down"
                                 aria-hidden="true"></i> Expand/Hide</a></h5>
-                    <div class="collapse" id="venus_1_changelog">
-                        <p id="changelog_text">[Other]<br>Optimized system performance<br>Improved system security and stability</p>
+                    <div class="collapse" id="aries_1_changelog">
+                        <p id="changelog_text">Bug fixes and system optimizations.</p>
                     </div>
                 </li>
             </ul>

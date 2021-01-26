@@ -572,6 +572,7 @@ permalink: /archive/miui/cancro/
 <tr><td>MI 3 / Mi 4 China</td><td>Stable</td><td>Recovery</td><td>V6.3.9.0.KXDCNBL</td><td>4.4</td><td>376.9 MB</td><td>2015-03-27</td><td><a href="/miui/cancro/stable/V6.3.9.0.KXDCNBL/">Download</a></td></tr>
 <tr><td>MI 3 / Mi 4 China</td><td>Stable</td><td>Fastboot</td><td>V6.1.2.0.KXDCNBJ</td><td>4.4</td><td>579.7 MB</td><td>2015-03-27</td><td><a href="/miui/cancro/stable/V6.1.2.0.KXDCNBJ/">Download</a></td></tr>
 <tr><td>MI 3 / Mi 4 China</td><td>Stable</td><td>Recovery</td><td>V6.1.2.0.KXDCNBJ</td><td>4.4</td><td>375.8 MB</td><td>2015-03-27</td><td><a href="/miui/cancro/stable/V6.1.2.0.KXDCNBJ/">Download</a></td></tr>
+<tr><td>MI 3 / Mi 4 China</td><td>Stable</td><td>Fastboot</td><td>KXDCNBF21.0</td><td>4.4</td><td>700.5 MB</td><td>2014-10-22</td><td><a href="/miui/cancro/stable/KXDCNBF21.0/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

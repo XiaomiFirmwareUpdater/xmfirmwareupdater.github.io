@@ -176,6 +176,7 @@ permalink: /archive/miui/mocha/
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Fastboot</td><td>V6.4.2.0.KXFCNCB</td><td>4.4</td><td>414.2 MB</td><td>2015-03-29</td><td><a href="/miui/mocha/stable/V6.4.2.0.KXFCNCB/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V6.3.1.0.KXFCNBL</td><td>4.4</td><td>344.8 MB</td><td>2015-03-27</td><td><a href="/miui/mocha/stable/V6.3.1.0.KXFCNBL/">Download</a></td></tr>
 <tr><td>MiPad 1 China</td><td>Stable</td><td>Recovery</td><td>V6.1.1.0.KXFCNBJ</td><td>4.4</td><td>331.3 MB</td><td>2015-03-27</td><td><a href="/miui/mocha/stable/V6.1.1.0.KXFCNBJ/">Download</a></td></tr>
+<tr><td>MiPad 1 China</td><td>Stable</td><td>Fastboot</td><td>KXFCNBH9.0</td><td>4.4</td><td>446.6 MB</td><td>2015-03-24</td><td><a href="/miui/mocha/stable/KXFCNBH9.0/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
