@@ -52,7 +52,9 @@ permalink: /archive/miui/jasmine/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi A2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.19.0.QDIMIXM</td><td>10.0</td><td>1.4 GB</td><td>2020-12-25</td><td><a href="/miui/jasmine/stable/V11.0.19.0.QDIMIXM/">Download</a></td></tr>
+                <tr><td>Mi A2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.20.0.QDIMIXM</td><td>10.0</td><td>1.4 GB</td><td>2021-01-26</td><td><a href="/miui/jasmine/stable/V11.0.20.0.QDIMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.20.0.QDIMIXM</td><td>10.0</td><td>1.7 GB</td><td>2021-01-13</td><td><a href="/miui/jasmine/stable/V11.0.20.0.QDIMIXM/">Download</a></td></tr>
+<tr><td>Mi A2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.19.0.QDIMIXM</td><td>10.0</td><td>1.4 GB</td><td>2020-12-25</td><td><a href="/miui/jasmine/stable/V11.0.19.0.QDIMIXM/">Download</a></td></tr>
 <tr><td>Mi A2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.19.0.QDIMIXM</td><td>10.0</td><td>1.7 GB</td><td>2020-12-18</td><td><a href="/miui/jasmine/stable/V11.0.19.0.QDIMIXM/">Download</a></td></tr>
 <tr><td>Mi A2 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.17.0.QDIMIXM</td><td>10.0</td><td>1.4 GB</td><td>2020-11-24</td><td><a href="/miui/jasmine/stable/V11.0.17.0.QDIMIXM/">Download</a></td></tr>
 <tr><td>Mi A2 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.17.0.QDIMIXM</td><td>10.0</td><td>1.7 GB</td><td>2020-11-18</td><td><a href="/miui/jasmine/stable/V11.0.17.0.QDIMIXM/">Download</a></td></tr>

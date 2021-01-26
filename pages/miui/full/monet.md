@@ -52,7 +52,8 @@ permalink: /archive/miui/monet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.1.3.0.RJIEUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-01-07</td><td><a href="/miui/monet/stable/V12.1.3.0.RJIEUXM/">Download</a></td></tr>
+                <tr><td>Mi 10 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.2.0.RJIMIXM</td><td>11.0</td><td>3.0 GB</td><td>2021-01-26</td><td><a href="/miui/monet/stable beta/V12.1.2.0.RJIMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.1.3.0.RJIEUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-01-07</td><td><a href="/miui/monet/stable/V12.1.3.0.RJIEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.1.3.0.RJIEUXM</td><td>11.0</td><td>5.6 GB</td><td>2020-12-31</td><td><a href="/miui/monet/stable/V12.1.3.0.RJIEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.1.2.0.RJIEUXM</td><td>11.0</td><td>3.0 GB</td><td>2020-12-25</td><td><a href="/miui/monet/stable/V12.1.2.0.RJIEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.1.2.0.RJIEUXM</td><td>11.0</td><td>5.6 GB</td><td>2020-12-11</td><td><a href="/miui/monet/stable/V12.1.2.0.RJIEUXM/">Download</a></td></tr>

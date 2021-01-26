@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 26 Jan 2021 01:46:04 +0900</pubDate>
+  <pubDate>Tue, 26 Jan 2021 20:12:29 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi A2 (jasmine) - V11.0.20.0.QDIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/jasmine</link>
+    <pubDate>Tue, 26 Jan 2021 20:12:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - V12.2.4.0.RJAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Tue, 26 Jan 2021 19:54:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.10.0.QCRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Tue, 26 Jan 2021 19:24:19 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.0.4.0.QFKEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 7/7S (lavender) - 21.1.20</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
     <pubDate>Sat, 23 Jan 2021 21:10:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.1.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Sat, 23 Jan 2021 21:07:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.1.21</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Sat, 23 Jan 2021 21:04:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.1.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Sat, 23 Jan 2021 21:03:51 +0900</pubDate>
   </item>
     </channel>
 </rss>
