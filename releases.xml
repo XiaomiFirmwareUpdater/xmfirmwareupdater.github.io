@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 27 Jan 2021 07:18:49 +0900</pubDate>
+  <pubDate>Wed, 27 Jan 2021 20:02:48 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8A (olivelite) - V12.0.1.0.QCPINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Wed, 27 Jan 2021 20:02:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8 (olive) - V12.0.1.0.QCNINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
+    <pubDate>Wed, 27 Jan 2021 19:51:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.2.0.QJQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Wed, 27 Jan 2021 19:39:22 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.1.5.0.RGICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
@@ -90,21 +105,6 @@
     <title>Mi 11 (venus) - 21.1.20</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
     <pubDate>Sat, 23 Jan 2021 21:35:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.1.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Sat, 23 Jan 2021 21:30:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - 21.1.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Sat, 23 Jan 2021 21:23:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 21.1.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Sat, 23 Jan 2021 21:20:00 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -26038,6 +26038,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lime/releases/download/stable-27.01.2021/fw_lime_miui_LIMEEEAGlobal_V12.0.2.0.QJQEUXM_4fed3ffac0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.0.2.0.QJQEUXM_4fed3ffac0_10.0.zip
+  filename: fw_lime_miui_LIMEEEAGlobal_V12.0.2.0.QJQEUXM_4fed3ffac0_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJQEUXM
 - branch: weekly
   date: '2021-01-23'
   downloads:
@@ -32899,6 +32909,16 @@
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
 - branch: stable
+  date: '2021-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-27.01.2021/fw_olive_miui_OLIVEINGlobal_V12.0.1.0.QCNINXM_fde1bbed55_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEINGlobal_V12.0.1.0.QCNINXM_fde1bbed55_10.0.zip
+  filename: fw_olive_miui_OLIVEINGlobal_V12.0.1.0.QCNINXM_fde1bbed55_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QCNINXM
+- branch: stable
   date: '2021-01-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-20.01.2021/fw_olive_miui_OLIVE_V12.0.1.0.QCNCNXM_4f459b5677_10.0.zip
@@ -33358,6 +33378,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
+- branch: stable
+  date: '2021-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-27.01.2021/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.1.0.QCPINXM_8c38b3bd4c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.1.0.QCPINXM_8c38b3bd4c_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEINGlobal_V12.0.1.0.QCPINXM_8c38b3bd4c_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QCPINXM
 - branch: stable
   date: '2021-01-21'
   downloads:
