@@ -7178,6 +7178,16 @@
   versions:
     android: '8.1'
     miui: V10.3.4.0.OCGCNXM
+- branch: stable
+  date: '2021-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cezanne/releases/download/stable-28.01.2021/fw_cezanne_miui_CEZANNE_V12.0.19.0.QJNCNXM_d806da119d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.19.0.QJNCNXM_d806da119d_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.19.0.QJNCNXM_d806da119d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.19.0.QJNCNXM
 - branch: weekly
   date: '2021-01-23'
   downloads:
