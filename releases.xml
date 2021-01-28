@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 28 Jan 2021 07:22:15 +0900</pubDate>
+  <pubDate>Thu, 28 Jan 2021 20:24:28 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.2.3.0.RJKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Thu, 28 Jan 2021 20:24:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V12.0.2.0.QCOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Thu, 28 Jan 2021 19:28:58 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 Ultra (cezanne) - V12.0.19.0.QJNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
@@ -95,16 +105,6 @@
     <title>Redmi Y3 (onc) - V12.0.1.0.QFLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
     <pubDate>Mon, 25 Jan 2021 13:21:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 21.1.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Sat, 23 Jan 2021 22:28:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.1.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Sat, 23 Jan 2021 22:26:19 +0900</pubDate>
   </item>
     </channel>
 </rss>
