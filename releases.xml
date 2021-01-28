@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 28 Jan 2021 20:24:28 +0900</pubDate>
+  <pubDate>Fri, 29 Jan 2021 01:43:15 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9T (cannong) - V12.0.5.0.QJEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Fri, 29 Jan 2021 01:43:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V12.0.4.0.QJEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Fri, 29 Jan 2021 01:28:14 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.2.3.0.RJKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
@@ -95,16 +105,6 @@
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.0.4.0.QFDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Mon, 25 Jan 2021 19:25:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.6.0.QCREUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Mon, 25 Jan 2021 19:13:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V12.0.1.0.QFLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Mon, 25 Jan 2021 13:21:09 +0900</pubDate>
   </item>
     </channel>
 </rss>
