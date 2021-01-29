@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-01-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannon/releases/download/weekly-29.01.2021/fw_cannon_miui_CANNON_21.1.28_9174f340b3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/cannon/fw_cannon_miui_CANNON_21.1.28_9174f340b3_11.0.zip
+  filename: fw_cannon_miui_CANNON_21.1.28_9174f340b3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.28
+- branch: weekly
   date: '2021-01-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannon/releases/download/weekly-23.01.2021/fw_cannon_miui_CANNON_21.1.20_85641b47ba_11.0.zip
