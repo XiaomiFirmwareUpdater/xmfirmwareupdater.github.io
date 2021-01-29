@@ -53,7 +53,8 @@ permalink: /archive/miui/joyeuse/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 9 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QJZIDXM</td><td>10.0</td><td>2.5 GB</td><td>2021-01-27</td><td><a href="/miui/joyeuse/stable beta/V12.0.4.0.QJZIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QJZRUXM</td><td>10.0</td><td>2.5 GB</td><td>2021-01-25</td><td><a href="/miui/joyeuse/stable beta/V12.0.3.0.QJZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QJZRUXM</td><td>10.0</td><td>2.5 GB</td><td>2021-01-25</td><td><a href="/miui/joyeuse/stable/V12.0.3.0.QJZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QJZRUXM</td><td>10.0</td><td>4.1 GB</td><td>2021-01-15</td><td><a href="/miui/joyeuse/stable/V12.0.3.0.QJZRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QJZEUXM</td><td>10.0</td><td>2.5 GB</td><td>2021-01-21</td><td><a href="/miui/joyeuse/stable beta/V12.0.2.0.QJZEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJZTRXM</td><td>10.0</td><td>2.5 GB</td><td>2021-01-21</td><td><a href="/miui/joyeuse/stable/V12.0.4.0.QJZTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QJZTRXM</td><td>10.0</td><td>3.8 GB</td><td>2021-01-15</td><td><a href="/miui/joyeuse/stable/V12.0.4.0.QJZTRXM/">Download</a></td></tr>
