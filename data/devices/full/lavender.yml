@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-01-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-29.01.2021/fw_lavender_miui_LAVENDER_21.1.27_9df41aa843_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.27/lavender/fw_lavender_miui_LAVENDER_21.1.27_9df41aa843_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_21.1.27_9df41aa843_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 21.1.27
+- branch: weekly
   date: '2021-01-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-23.01.2021/fw_lavender_miui_LAVENDER_21.1.20_4f20e84722_10.0.zip
