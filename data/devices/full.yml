@@ -37289,6 +37289,16 @@
     android: '9.0'
     miui: 8.10.25
 - branch: weekly
+  date: '2021-01-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-30.01.2021/fw_phoenix_miui_PHOENIX_21.1.28_ee93c19ded_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/phoenix/fw_phoenix_miui_PHOENIX_21.1.28_ee93c19ded_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.1.28_ee93c19ded_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.28
+- branch: weekly
   date: '2021-01-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-23.01.2021/fw_phoenix_miui_PHOENIX_21.1.20_e1a759a35e_11.0.zip
@@ -42589,6 +42599,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2021-01-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-30.01.2021/fw_pyxis_miui_PYXIS_21.1.28_5eb90c0056_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/pyxis/fw_pyxis_miui_PYXIS_21.1.28_5eb90c0056_11.0.zip
+  filename: fw_pyxis_miui_PYXIS_21.1.28_5eb90c0056_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.28
+- branch: weekly
   date: '2021-01-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-23.01.2021/fw_pyxis_miui_PYXIS_21.1.20_92e9ba4231_11.0.zip
@@ -43428,6 +43448,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: weekly
+  date: '2021-01-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-30.01.2021/fw_raphael_miui_RAPHAEL_21.1.28_fd491cfbcd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/raphael/fw_raphael_miui_RAPHAEL_21.1.28_fd491cfbcd_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_21.1.28_fd491cfbcd_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.28
 - branch: stable
   date: '2021-01-25'
   downloads:
@@ -55278,6 +55308,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: weekly
+  date: '2021-01-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-30.01.2021/fw_tucana_miui_TUCANA_21.1.28_50a925ab1c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/tucana/fw_tucana_miui_TUCANA_21.1.28_50a925ab1c_11.0.zip
+  filename: fw_tucana_miui_TUCANA_21.1.28_50a925ab1c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.28
 - branch: stable
   date: '2021-01-25'
   downloads:
@@ -60679,6 +60719,16 @@
     android: '8.1'
     miui: 8.8.30
 - branch: weekly
+  date: '2021-01-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-30.01.2021/fw_vangogh_miui_VANGOGH_21.1.28_387f7ca6b1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/vangogh/fw_vangogh_miui_VANGOGH_21.1.28_387f7ca6b1_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_21.1.28_387f7ca6b1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.28
+- branch: weekly
   date: '2021-01-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-23.01.2021/fw_vangogh_miui_VANGOGH_21.1.20_ec47c47e2d_11.0.zip
@@ -61028,6 +61078,16 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJVCNXM
+- branch: weekly
+  date: '2021-01-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-30.01.2021/fw_vela_miui_VELA_21.1.28_fd09c0168e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/vela/fw_vela_miui_VELA_21.1.28_fd09c0168e_11.0.zip
+  filename: fw_vela_miui_VELA_21.1.28_fd09c0168e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.28
 - branch: weekly
   date: '2021-01-23'
   downloads:
