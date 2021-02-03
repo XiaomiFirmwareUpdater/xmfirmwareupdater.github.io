@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-02-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-03.02.2021/fw_pine_miui_PINEEEAGlobal_V12.0.1.0.QCMEUXM_5356b639ee_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pine/fw_pine_miui_PINEEEAGlobal_V12.0.1.0.QCMEUXM_5356b639ee_10.0.zip
+  filename: fw_pine_miui_PINEEEAGlobal_V12.0.1.0.QCMEUXM_5356b639ee_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QCMEUXM
+- branch: stable
   date: '2021-01-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-29.01.2021/fw_pine_miui_PINEGlobal_V12.0.1.0.QCMMIXM_0af775655d_10.0.zip

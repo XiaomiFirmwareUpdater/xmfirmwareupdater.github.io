@@ -11149,6 +11149,16 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
+  date: '2021-02-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-03.02.2021/fw_curtana_miui_CURTANAGlobal_V12.0.1.0.RJWMIXM_e29d7b7c84_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAGlobal_V12.0.1.0.RJWMIXM_e29d7b7c84_11.0.zip
+  filename: fw_curtana_miui_CURTANAGlobal_V12.0.1.0.RJWMIXM_e29d7b7c84_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.1.0.RJWMIXM
+- branch: stable
   date: '2021-01-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-21.01.2021/fw_curtana_miui_CURTANAGlobal_V12.0.3.0.QJWMIXM_fffd838f47_10.0.zip
@@ -23048,6 +23058,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-02-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-03.02.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
+  filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJCMIXM
 - branch: stable
   date: '2021-01-25'
   downloads:
@@ -38708,6 +38728,16 @@
   versions:
     android: '10.0'
     miui: V11.0.3.0.QGICNXM
+- branch: stable
+  date: '2021-02-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-03.02.2021/fw_pine_miui_PINEEEAGlobal_V12.0.1.0.QCMEUXM_5356b639ee_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pine/fw_pine_miui_PINEEEAGlobal_V12.0.1.0.QCMEUXM_5356b639ee_10.0.zip
+  filename: fw_pine_miui_PINEEEAGlobal_V12.0.1.0.QCMEUXM_5356b639ee_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QCMEUXM
 - branch: stable
   date: '2021-01-29'
   downloads:
@@ -58988,6 +59018,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2021-02-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-03.02.2021/fw_umi_miui_UMIGlobal_V12.2.5.0.RJBMIXM_9401790776_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIGlobal_V12.2.5.0.RJBMIXM_9401790776_11.0.zip
+  filename: fw_umi_miui_UMIGlobal_V12.2.5.0.RJBMIXM_9401790776_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.2.5.0.RJBMIXM
 - branch: stable
   date: '2021-01-25'
   downloads:
