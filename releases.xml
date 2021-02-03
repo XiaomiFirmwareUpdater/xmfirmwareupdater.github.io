@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 01 Feb 2021 20:13:33 +0900</pubDate>
+  <pubDate>Wed, 03 Feb 2021 19:57:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.1.0.RJDINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Wed, 03 Feb 2021 19:57:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C NFC (angelican) - V12.0.6.0.QCSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Wed, 03 Feb 2021 19:26:04 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.19.0.QJDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
@@ -95,16 +105,6 @@
     <title>Mi 9 SE (grus) - 21.1.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
     <pubDate>Sat, 30 Jan 2021 02:20:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 21.1.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Sat, 30 Jan 2021 01:52:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 7A (pine) - V12.0.1.0.QCMMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
-    <pubDate>Sat, 30 Jan 2021 01:40:45 +0900</pubDate>
   </item>
     </channel>
 </rss>

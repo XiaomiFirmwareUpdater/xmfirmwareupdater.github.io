@@ -52,7 +52,8 @@ permalink: /archive/miui/apollo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10T / Mi 10T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QJDTRXM</td><td>10.0</td><td>3.0 GB</td><td>2021-02-01</td><td><a href="/miui/apollo/stable beta/V12.0.3.0.QJDTRXM/">Download</a></td></tr>
+                <tr><td>Mi 10T / Mi 10T Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.1.0.RJDINXM</td><td>11.0</td><td>3.0 GB</td><td>2021-02-03</td><td><a href="/miui/apollo/stable beta/V12.1.1.0.RJDINXM/">Download</a></td></tr>
+<tr><td>Mi 10T / Mi 10T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QJDTRXM</td><td>10.0</td><td>3.0 GB</td><td>2021-02-01</td><td><a href="/miui/apollo/stable beta/V12.0.3.0.QJDTRXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.11.0.QJDMIXM</td><td>10.0</td><td>2.9 GB</td><td>2021-01-29</td><td><a href="/miui/apollo/stable beta/V12.0.11.0.QJDMIXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.19.0.QJDEUXM</td><td>10.0</td><td>3.0 GB</td><td>2021-01-29</td><td><a href="/miui/apollo/stable/V12.0.19.0.QJDEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.19.0.QJDEUXM</td><td>10.0</td><td>4.9 GB</td><td>2021-01-26</td><td><a href="/miui/apollo/stable/V12.0.19.0.QJDEUXM/">Download</a></td></tr>
