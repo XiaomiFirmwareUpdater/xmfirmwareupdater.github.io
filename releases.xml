@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 03 Feb 2021 23:15:07 +0900</pubDate>
+  <pubDate>Thu, 04 Feb 2021 19:45:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi A2 Lite (daisy) - V11.0.18.0.QDLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/daisy</link>
+    <pubDate>Thu, 04 Feb 2021 19:45:38 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V12.2.5.0.RJBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.1.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Sat, 30 Jan 2021 05:07:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 21.1.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Sat, 30 Jan 2021 05:00:42 +0900</pubDate>
   </item>
     </channel>
 </rss>
