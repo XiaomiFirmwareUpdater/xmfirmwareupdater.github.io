@@ -42879,6 +42879,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2021-02-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-05.02.2021/fw_pyxis_miui_PYXIS_21.2.3_d7747670b5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/pyxis/fw_pyxis_miui_PYXIS_21.2.3_d7747670b5_11.0.zip
+  filename: fw_pyxis_miui_PYXIS_21.2.3_d7747670b5_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.3
+- branch: weekly
   date: '2021-01-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-30.01.2021/fw_pyxis_miui_PYXIS_21.1.28_5eb90c0056_11.0.zip
@@ -43728,6 +43738,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: weekly
+  date: '2021-02-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-05.02.2021/fw_raphael_miui_RAPHAEL_21.2.3_c3d0e773c3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/raphael/fw_raphael_miui_RAPHAEL_21.2.3_c3d0e773c3_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_21.2.3_c3d0e773c3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.3
 - branch: weekly
   date: '2021-01-30'
   downloads:
@@ -55589,6 +55609,16 @@
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
 - branch: weekly
+  date: '2021-02-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-05.02.2021/fw_tucana_miui_TUCANA_21.2.3_0e5214e74a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/tucana/fw_tucana_miui_TUCANA_21.2.3_0e5214e74a_11.0.zip
+  filename: fw_tucana_miui_TUCANA_21.2.3_0e5214e74a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.3
+- branch: weekly
   date: '2021-01-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-30.01.2021/fw_tucana_miui_TUCANA_21.1.28_50a925ab1c_11.0.zip
@@ -59238,6 +59268,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2021-02-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-05.02.2021/fw_umi_miui_UMI_21.2.3_2a96fd9670_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/umi/fw_umi_miui_UMI_21.2.3_2a96fd9670_11.0.zip
+  filename: fw_umi_miui_UMI_21.2.3_2a96fd9670_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.3
 - branch: stable
   date: '2021-02-03'
   downloads:
@@ -61009,6 +61049,16 @@
     android: '8.1'
     miui: 8.8.30
 - branch: weekly
+  date: '2021-02-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-05.02.2021/fw_vangogh_miui_VANGOGH_21.2.4_50f812e70f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.4/vangogh/fw_vangogh_miui_VANGOGH_21.2.4_50f812e70f_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_21.2.4_50f812e70f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.4
+- branch: weekly
   date: '2021-01-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-30.01.2021/fw_vangogh_miui_VANGOGH_21.1.28_387f7ca6b1_11.0.zip
@@ -61368,6 +61418,16 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJVCNXM
+- branch: weekly
+  date: '2021-02-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-05.02.2021/fw_vela_miui_VELA_21.2.3_d763fb1c5c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/vela/fw_vela_miui_VELA_21.2.3_d763fb1c5c_11.0.zip
+  filename: fw_vela_miui_VELA_21.2.3_d763fb1c5c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.3
 - branch: weekly
   date: '2021-01-30'
   downloads:
