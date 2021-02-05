@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 05 Feb 2021 22:20:30 +0900</pubDate>
+  <pubDate>Fri, 05 Feb 2021 22:50:35 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Mi 11 (venus) - 21.2.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Fri, 05 Feb 2021 22:20:30 +0900</pubDate>
+    <pubDate>Fri, 05 Feb 2021 22:50:35 +0900</pubDate>
   </item>
     <item>
     <title>Mi CC 9 Meitu Edition (vela) - 21.2.3</title>
