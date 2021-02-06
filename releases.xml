@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 05 Feb 2021 22:50:35 +0900</pubDate>
+  <pubDate>Sun, 07 Feb 2021 01:37:09 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.0.10.0.QJSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Sun, 07 Feb 2021 01:37:09 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 (venus) - 21.2.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
@@ -100,11 +105,6 @@
     <title>Redmi K20/Mi 9T (davinci) - 21.2.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
     <pubDate>Fri, 05 Feb 2021 08:06:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - 21.2.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Fri, 05 Feb 2021 07:45:40 +0900</pubDate>
   </item>
     </channel>
 </rss>
