@@ -552,4 +552,16 @@ sonobi.com, f5d517e1b9, RESELLER, d1a215d9eb5aee9e
 pubmatic.com, 158355, RESELLER, 5d62403b186f2ace
 aol.com, 57992, RESELLER, e1a5b5b6e3255540
 yahoo.com, 57992, RESELLER, e1a5b5b6e3255540
+yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
+betweendigital.com, 43092, RESELLER
+openx.com, 541177349, RESELLER, 6a698e2ec38604c6
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+rhythmone.com, 3880497124, RESELLER, a670c89d4a324e47
+onetag.com, 5d1628750185ace, RESELLER
+sovrn.com, 273644, RESELLER, fafdf38b16bf6b2b
+lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 1532, RESELLER
 #VLI END
