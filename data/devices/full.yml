@@ -1358,6 +1358,16 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QJHCNXM
+- branch: stable
+  date: '2021-02-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-07.02.2021/fw_begonia_miui_BEGONIA_V12.0.5.0.QGGCNXM_13dc64c58b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIA_V12.0.5.0.QGGCNXM_13dc64c58b_10.0.zip
+  filename: fw_begonia_miui_BEGONIA_V12.0.5.0.QGGCNXM_13dc64c58b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QGGCNXM
 - branch: weekly
   date: '2021-02-04'
   downloads:
@@ -20678,6 +20688,16 @@
   versions:
     android: '5.1'
     miui: 8.4.12
+- branch: stable
+  date: '2021-02-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_jasmine/releases/download/stable-07.02.2021/fw_jasmine_miui_JASMINEGlobal_V11.0.21.0.QDIMIXM_ed83c6c979_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/jasmine/fw_jasmine_miui_JASMINEGlobal_V11.0.21.0.QDIMIXM_ed83c6c979_10.0.zip
+  filename: fw_jasmine_miui_JASMINEGlobal_V11.0.21.0.QDIMIXM_ed83c6c979_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.21.0.QDIMIXM
 - branch: stable
   date: '2021-01-26'
   downloads:
