@@ -69,15 +69,15 @@
     android: '10.0'
     miui: V12.0.6.0.QCSMIXM
 - branch: stable
-  date: '2021-01-05'
+  date: '2021-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelican/releases/download/stable-05.01.2021/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.5.0.QCSEUXM_fd513a5eba_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.5.0.QCSEUXM_fd513a5eba_10.0.zip
-  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.5.0.QCSEUXM_fd513a5eba_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelican/releases/download/stable-07.02.2021/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.6.0.QCSEUXM_99197b728b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.6.0.QCSEUXM_99197b728b_10.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.0.6.0.QCSEUXM_99197b728b_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.5.0.QCSEUXM
+    miui: V12.0.6.0.QCSEUXM
 - branch: stable
   date: '2021-01-29'
   downloads:
@@ -409,15 +409,15 @@
     android: '11.0'
     miui: 21.2.3
 - branch: stable
-  date: '2020-12-28'
+  date: '2021-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cattail/releases/download/stable-28.12.2020/fw_cattail_miui_CATTAILINGlobal_V12.0.5.0.QCTINXM_ee8e716528_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.0.5.0.QCTINXM_ee8e716528_10.0.zip
-  filename: fw_cattail_miui_CATTAILINGlobal_V12.0.5.0.QCTINXM_ee8e716528_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cattail/releases/download/stable-07.02.2021/fw_cattail_miui_CATTAILINGlobal_V12.0.7.0.QCTINXM_ad6607c8c1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.0.7.0.QCTINXM_ad6607c8c1_10.0.zip
+  filename: fw_cattail_miui_CATTAILINGlobal_V12.0.7.0.QCTINXM_ad6607c8c1_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.5.0.QCTINXM
+    miui: V12.0.7.0.QCTINXM
 - branch: stable
   date: '2021-01-22'
   downloads:
@@ -909,15 +909,15 @@
     android: '11.0'
     miui: 21.2.3
 - branch: stable
-  date: '2021-01-07'
+  date: '2021-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-07.01.2021/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.8.0.QJSEUXM_e87246b751_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.8.0.QJSEUXM_e87246b751_10.0.zip
-  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.8.0.QJSEUXM_e87246b751_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-07.02.2021/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.9.0.QJSEUXM_c524f57bff_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.9.0.QJSEUXM_c524f57bff_10.0.zip
+  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.9.0.QJSEUXM_c524f57bff_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.8.0.QJSEUXM
+    miui: V12.0.9.0.QJSEUXM
 - branch: stable
   date: '2021-01-08'
   downloads:
@@ -1949,15 +1949,15 @@
     android: '10.0'
     miui: V12.0.1.0.QCPINXM
 - branch: stable
-  date: '2020-11-28'
+  date: '2021-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-28.11.2020/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.3.0.QCQINXM_ae2ec6a050_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.3.0.QCQINXM_ae2ec6a050_10.0.zip
-  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V11.0.3.0.QCQINXM_ae2ec6a050_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivewood/releases/download/stable-07.02.2021/fw_olivewood_miui_OLIVEWOODINGlobal_V12.0.1.0.QCQINXM_c58dac7f81_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V12.0.1.0.QCQINXM_c58dac7f81_10.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V12.0.1.0.QCQINXM_c58dac7f81_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V11.0.3.0.QCQINXM
+    miui: V12.0.1.0.QCQINXM
 - branch: stable
   date: '2020-12-22'
   downloads:

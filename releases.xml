@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 07 Feb 2021 13:46:11 +0900</pubDate>
+  <pubDate>Sun, 07 Feb 2021 19:59:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8A Pro/Redmi 8A Dual (olivewood) - V12.0.1.0.QCQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivewood</link>
+    <pubDate>Sun, 07 Feb 2021 19:59:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.0.9.0.QJSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Sun, 07 Feb 2021 19:51:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9 (cattail) - V12.0.7.0.QCTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
+    <pubDate>Sun, 07 Feb 2021 19:38:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C NFC (angelican) - V12.0.6.0.QCSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Sun, 07 Feb 2021 19:32:03 +0900</pubDate>
+  </item>
     <item>
     <title>Mi A2 (jasmine) - V11.0.21.0.QDIMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/jasmine</link>
@@ -14,7 +34,7 @@
     <item>
     <title>Redmi Note 8 Pro (begonia) - V12.0.5.0.QGGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Sun, 07 Feb 2021 13:30:01 +0900</pubDate>
+    <pubDate>Sun, 07 Feb 2021 13:30:16 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.0.10.0.QJSCNXM</title>
@@ -85,26 +105,6 @@
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.2.4</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
     <pubDate>Fri, 05 Feb 2021 10:45:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 21.2.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 05 Feb 2021 09:42:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 21.2.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Fri, 05 Feb 2021 09:22:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 21.2.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Fri, 05 Feb 2021 09:00:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 21.2.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 05 Feb 2021 08:43:17 +0900</pubDate>
   </item>
     </channel>
 </rss>
