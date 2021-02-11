@@ -3679,6 +3679,16 @@
     android: '10.0'
     miui: V12.0.3.0.QJECNXM
 - branch: stable
+  date: '2021-02-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannong/releases/download/stable-11.02.2021/fw_cannong_miui_CANNONGGlobal_V12.0.6.0.QJEMIXM_a74bf46974_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGGlobal_V12.0.6.0.QJEMIXM_a74bf46974_10.0.zip
+  filename: fw_cannong_miui_CANNONGGlobal_V12.0.6.0.QJEMIXM_a74bf46974_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QJEMIXM
+- branch: stable
   date: '2021-01-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannong/releases/download/stable-28.01.2021/fw_cannong_miui_CANNONGEEAGlobal_V12.0.4.0.QJEEUXM_ab1f9a2fe5_10.0.zip
