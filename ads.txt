@@ -564,4 +564,6 @@ onetag.com, 5d1628750185ace, RESELLER
 sovrn.com, 273644, RESELLER, fafdf38b16bf6b2b
 lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
 improvedigital.com, 1532, RESELLER
-#VLI END
+admanmedia.com, 771, DIRECT
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+beachfront.com, 14513, RESELLER, e2541279e8e2ca4d#VLI END
