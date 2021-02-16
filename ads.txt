@@ -566,4 +566,5 @@ lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
 improvedigital.com, 1532, RESELLER
 admanmedia.com, 771, DIRECT
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
-beachfront.com, 14513, RESELLER, e2541279e8e2ca4d#VLI END
+beachfront.com, 14513, RESELLER, e2541279e8e2ca4d
+#VLI END
