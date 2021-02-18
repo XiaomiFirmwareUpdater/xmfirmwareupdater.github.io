@@ -52,7 +52,8 @@ permalink: /archive/miui/lime/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9T Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJQTRXM</td><td>10.0</td><td>2.5 GB</td><td>2021-02-07</td><td><a href="/miui/lime/stable/V12.0.2.0.QJQTRXM/">Download</a></td></tr>
+                <tr><td>Redmi 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QJQMIXM</td><td>10.0</td><td>2.6 GB</td><td>2021-02-18</td><td><a href="/miui/lime/stable beta/V12.0.5.0.QJQMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJQTRXM</td><td>10.0</td><td>2.5 GB</td><td>2021-02-07</td><td><a href="/miui/lime/stable/V12.0.2.0.QJQTRXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJQTRXM</td><td>10.0</td><td>3.9 GB</td><td>2021-01-28</td><td><a href="/miui/lime/stable/V12.0.2.0.QJQTRXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJQIDXM</td><td>10.0</td><td>2.5 GB</td><td>2021-01-29</td><td><a href="/miui/lime/stable/V12.0.2.0.QJQIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJQIDXM</td><td>10.0</td><td>4.2 GB</td><td>2021-01-07</td><td><a href="/miui/lime/stable/V12.0.2.0.QJQIDXM/">Download</a></td></tr>

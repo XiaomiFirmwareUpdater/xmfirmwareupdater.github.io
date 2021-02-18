@@ -3588,6 +3588,16 @@
   versions:
     android: '8.1'
     miui: V10.3.4.0.OCBCNXM
+- branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannon/releases/download/stable-18.02.2021/fw_cannon_miui_CANNON_V12.0.8.0.QJECNXM_2710ca256e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.0.8.0.QJECNXM_2710ca256e_10.0.zip
+  filename: fw_cannon_miui_CANNON_V12.0.8.0.QJECNXM_2710ca256e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.8.0.QJECNXM
 - branch: weekly
   date: '2021-02-04'
   downloads:
@@ -7428,6 +7438,16 @@
   versions:
     android: '8.1'
     miui: V10.3.4.0.OCGCNXM
+- branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cezanne/releases/download/stable-18.02.2021/fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.20.0.QJNCNXM
 - branch: weekly
   date: '2021-02-04'
   downloads:
@@ -9298,6 +9318,16 @@
   versions:
     android: '8.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_citrus/releases/download/stable-18.02.2021/fw_citrus_miui_CITRUSEEAGlobal_V12.0.7.0.QJFEUXM_b40fb4b79d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSEEAGlobal_V12.0.7.0.QJFEUXM_b40fb4b79d_10.0.zip
+  filename: fw_citrus_miui_CITRUSEEAGlobal_V12.0.7.0.QJFEUXM_b40fb4b79d_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QJFEUXM
 - branch: stable
   date: '2021-01-19'
   downloads:
@@ -15958,6 +15988,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QJXINXM
+- branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-18.02.2021/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.0.2.0.RJSMIXM
 - branch: stable
   date: '2021-02-07'
   downloads:
@@ -26558,6 +26598,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lime/releases/download/stable-18.02.2021/fw_lime_miui_LIMEGlobal_V12.0.5.0.QJQMIXM_4f75ac4be5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.0.5.0.QJQMIXM_4f75ac4be5_10.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V12.0.5.0.QJQMIXM_4f75ac4be5_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QJQMIXM
 - branch: weekly
   date: '2021-01-29'
   downloads:
@@ -29358,6 +29408,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-18.02.2021/fw_merlin_miui_MERLIN_V12.0.2.0.RJOCNXM_ffc760a42c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLIN_V12.0.2.0.RJOCNXM_ffc760a42c_11.0.zip
+  filename: fw_merlin_miui_MERLIN_V12.0.2.0.RJOCNXM_ffc760a42c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.2.0.RJOCNXM
 - branch: stable
   date: '2021-01-13'
   downloads:
