@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 18 Feb 2021 21:03:06 +0900</pubDate>
+  <pubDate>Fri, 19 Feb 2021 02:00:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X3 NFC (surya) - V12.0.9.0.QJGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Fri, 19 Feb 2021 02:00:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.6.0.QJQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Fri, 19 Feb 2021 01:48:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M3 (citrus) - V12.0.4.0.QJFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Fri, 19 Feb 2021 01:32:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C3 (angelicain) - V12.0.7.0.QCRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
+    <pubDate>Fri, 19 Feb 2021 01:16:20 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.2.0.RJOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 8 Pro (begonia) - V12.0.5.0.QGGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
     <pubDate>Sun, 07 Feb 2021 13:30:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.0.10.0.QJSCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Sun, 07 Feb 2021 01:37:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - 21.2.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Fri, 05 Feb 2021 22:50:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 21.2.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Fri, 05 Feb 2021 22:12:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - 21.2.4</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Fri, 05 Feb 2021 21:51:12 +0900</pubDate>
   </item>
     </channel>
 </rss>

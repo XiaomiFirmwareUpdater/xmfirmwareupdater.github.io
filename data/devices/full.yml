@@ -279,6 +279,16 @@
     android: '10.0'
     miui: V12.0.4.0.QCRMIXM
 - branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelicain/releases/download/stable-18.02.2021/fw_angelicain_miui_ANGELICAININGlobal_V12.0.7.0.QCRINXM_4923254a43_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.7.0.QCRINXM_4923254a43_10.0.zip
+  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.7.0.QCRINXM_4923254a43_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QCRINXM
+- branch: stable
   date: '2020-12-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelicain/releases/download/stable-25.12.2020/fw_angelicain_miui_ANGELICAININGlobal_V12.0.5.0.QCRINXM_58e4e891b6_10.0.zip
@@ -9328,6 +9338,16 @@
   versions:
     android: '10.0'
     miui: V12.0.7.0.QJFEUXM
+- branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_citrus/releases/download/stable-18.02.2021/fw_citrus_miui_CITRUSINGlobal_V12.0.4.0.QJFINXM_42e75d5ced_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSINGlobal_V12.0.4.0.QJFINXM_42e75d5ced_10.0.zip
+  filename: fw_citrus_miui_CITRUSINGlobal_V12.0.4.0.QJFINXM_42e75d5ced_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QJFINXM
 - branch: stable
   date: '2021-01-19'
   downloads:
@@ -26608,6 +26628,16 @@
   versions:
     android: '10.0'
     miui: V12.0.5.0.QJQMIXM
+- branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lime/releases/download/stable-18.02.2021/fw_lime_miui_LIMEINGlobal_V12.0.6.0.QJQINXM_affbfe15de_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEINGlobal_V12.0.6.0.QJQINXM_affbfe15de_10.0.zip
+  filename: fw_lime_miui_LIMEINGlobal_V12.0.6.0.QJQINXM_affbfe15de_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QJQINXM
 - branch: weekly
   date: '2021-01-29'
   downloads:
@@ -54758,6 +54788,16 @@
   versions:
     android: '8.1'
     miui: 8.6.18
+- branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-18.02.2021/fw_surya_miui_SURYAINGlobal_V12.0.9.0.QJGINXM_f8ad88de40_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAINGlobal_V12.0.9.0.QJGINXM_f8ad88de40_10.0.zip
+  filename: fw_surya_miui_SURYAINGlobal_V12.0.9.0.QJGINXM_f8ad88de40_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.9.0.QJGINXM
 - branch: stable
   date: '2020-12-29'
   downloads:
