@@ -54,6 +54,7 @@ permalink: /miui/gram/
                 <tbody>
                 <tr><td>POCO M2 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJPINXM</td><td>10.0</td><td>3.2 GB</td><td>2020-12-13</td><td><a href="/miui/gram/stable/V12.0.2.0.QJPINXM/">Download</a></td></tr>
 <tr><td>POCO M2 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJPINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-12-21</td><td><a href="/miui/gram/stable/V12.0.2.0.QJPINXM/">Download</a></td></tr>
+<tr><td>POCO M2 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QJPINXM</td><td>10.0</td><td>2.5 GB</td><td>2021-02-19</td><td><a href="/miui/gram/stable beta/V12.0.3.0.QJPINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
