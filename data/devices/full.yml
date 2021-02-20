@@ -16928,6 +16928,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-02-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-20.02.2021/fw_ginkgo_miui_GINKGO_V12.0.1.0.RCOCNXM_d885534244_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGO_V12.0.1.0.RCOCNXM_d885534244_11.0.zip
+  filename: fw_ginkgo_miui_GINKGO_V12.0.1.0.RCOCNXM_d885534244_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.1.0.RCOCNXM
 - branch: weekly
   date: '2021-02-04'
   downloads:
@@ -30798,6 +30808,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-02-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-20.02.2021/fw_monet_miui_MONETEEAGlobal_V12.1.4.0.RJIEUXM_a2a041fd3c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.1.4.0.RJIEUXM_a2a041fd3c_11.0.zip
+  filename: fw_monet_miui_MONETEEAGlobal_V12.1.4.0.RJIEUXM_a2a041fd3c_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.1.4.0.RJIEUXM
 - branch: stable
   date: '2021-01-26'
   downloads:

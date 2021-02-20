@@ -9,12 +9,12 @@
     android: '11.0'
     miui: V12.1.2.0.RJIMIXM
 - branch: stable
-  date: '2021-01-08'
+  date: '2021-02-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-08.01.2021/fw_monet_miui_MONETEEAGlobal_V12.1.3.0.RJIEUXM_1969f40951_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.1.3.0.RJIEUXM_1969f40951_11.0.zip
-  filename: fw_monet_miui_MONETEEAGlobal_V12.1.3.0.RJIEUXM_1969f40951_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-20.02.2021/fw_monet_miui_MONETEEAGlobal_V12.1.4.0.RJIEUXM_a2a041fd3c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.1.4.0.RJIEUXM_a2a041fd3c_11.0.zip
+  filename: fw_monet_miui_MONETEEAGlobal_V12.1.4.0.RJIEUXM_a2a041fd3c_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.1.3.0.RJIEUXM
+    miui: V12.1.4.0.RJIEUXM
