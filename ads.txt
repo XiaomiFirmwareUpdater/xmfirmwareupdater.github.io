@@ -567,4 +567,5 @@ improvedigital.com, 1532, RESELLER
 admanmedia.com, 771, DIRECT
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 beachfront.com, 14513, RESELLER, e2541279e8e2ca4d
+yahoo.com, 58754, RESELLER, e1a5b5b6e3255540
 #VLI END
