@@ -53,7 +53,8 @@ permalink: /archive/miui/cas/
                 </thead>
                 <tbody>
                 <tr><td>Mi 10 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.2.3</td><td>11.0</td><td>4.1 GB</td><td>2021-02-04</td><td><a href="/miui/cas/weekly/21.2.3/">Download</a></td></tr>
-<tr><td>Mi 10 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.1.0.RJJCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-02-01</td><td><a href="/miui/cas/stable beta/V12.1.1.0.RJJCNXM/">Download</a></td></tr>
+<tr><td>Mi 10 Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.1.1.0.RJJCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-02-01</td><td><a href="/miui/cas/stable/V12.1.1.0.RJJCNXM/">Download</a></td></tr>
+<tr><td>Mi 10 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V12.1.1.0.RJJCNXM</td><td>11.0</td><td>5.1 GB</td><td>2021-01-25</td><td><a href="/miui/cas/stable/V12.1.1.0.RJJCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.1.28</td><td>11.0</td><td>4.1 GB</td><td>2021-01-28</td><td><a href="/miui/cas/weekly/21.1.28/">Download</a></td></tr>
 <tr><td>Mi 10 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.1.20</td><td>11.0</td><td>431.6 MB</td><td>2021-01-21</td><td><a href="/miui/cas/weekly/21.1.20/">Download</a></td></tr>
 <tr><td>Mi 10 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.1.13</td><td>11.0</td><td>4.1 GB</td><td>2021-01-14</td><td><a href="/miui/cas/weekly/21.1.13/">Download</a></td></tr>
