@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 23 Feb 2021 19:41:57 +0900</pubDate>
+  <pubDate>Wed, 24 Feb 2021 01:53:48 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro Max (excalibur) - V12.0.3.0.QJXINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/excalibur</link>
+    <pubDate>Wed, 24 Feb 2021 01:53:48 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/9AT (dandelion) - V12.0.9.0.QCDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -100,11 +105,6 @@
     <title>POCO M3 (citrus) - V12.0.7.0.QJFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
     <pubDate>Thu, 18 Feb 2021 20:01:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - V12.0.20.0.QJNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Thu, 18 Feb 2021 19:39:41 +0900</pubDate>
   </item>
     </channel>
 </rss>
