@@ -15991,6 +15991,16 @@
 - branch: stable
   date: '2021-02-23'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-24.02.2021/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
+  filename: fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJXINXM
+- branch: stable
+  date: '2021-02-23'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-23.02.2021/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
   filename: fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
@@ -34618,6 +34628,16 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PCQINXM
+- branch: stable
+  date: '2021-02-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-24.02.2021/fw_onc_miui_ONCINGlobal_V11.0.5.0.QFFINXM_c57a715339_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCINGlobal_V11.0.5.0.QFFINXM_c57a715339_10.0.zip
+  filename: fw_onc_miui_ONCINGlobal_V11.0.5.0.QFFINXM_c57a715339_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QFFINXM
 - branch: stable
   date: '2021-01-25'
   downloads:
