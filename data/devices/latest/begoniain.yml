@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2020-12-01'
+  date: '2021-02-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begoniain/releases/download/stable-01.12.2020/fw_begoniain_miui_BEGONIAININGlobal_V12.0.3.0.QGGINXM_fcc8a94b95_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V12.0.3.0.QGGINXM_fcc8a94b95_10.0.zip
-  filename: fw_begoniain_miui_BEGONIAININGlobal_V12.0.3.0.QGGINXM_fcc8a94b95_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begoniain/releases/download/stable-25.02.2021/fw_begoniain_miui_BEGONIAININGlobal_V12.0.4.0.QGGINXM_efed300eef_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V12.0.4.0.QGGINXM_efed300eef_10.0.zip
+  filename: fw_begoniain_miui_BEGONIAININGlobal_V12.0.4.0.QGGINXM_efed300eef_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QGGINXM
+    miui: V12.0.4.0.QGGINXM
