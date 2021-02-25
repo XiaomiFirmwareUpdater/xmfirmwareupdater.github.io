@@ -52,7 +52,8 @@ permalink: /archive/miui/vela/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>21.2.3</td><td>11.0</td><td>2.6 GB</td><td>2021-02-04</td><td><a href="/miui/vela/weekly/21.2.3/">Download</a></td></tr>
+                <tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>21.2.24</td><td>11.0</td><td>2.6 GB</td><td>2021-02-25</td><td><a href="/miui/vela/weekly/21.2.24/">Download</a></td></tr>
+<tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>21.2.3</td><td>11.0</td><td>2.6 GB</td><td>2021-02-04</td><td><a href="/miui/vela/weekly/21.2.3/">Download</a></td></tr>
 <tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>21.1.28</td><td>11.0</td><td>2.6 GB</td><td>2021-01-28</td><td><a href="/miui/vela/weekly/21.1.28/">Download</a></td></tr>
 <tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>21.1.20</td><td>11.0</td><td>389.4 MB</td><td>2021-01-21</td><td><a href="/miui/vela/weekly/21.1.20/">Download</a></td></tr>
 <tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>21.1.13</td><td>11.0</td><td>2.6 GB</td><td>2021-01-14</td><td><a href="/miui/vela/weekly/21.1.13/">Download</a></td></tr>
