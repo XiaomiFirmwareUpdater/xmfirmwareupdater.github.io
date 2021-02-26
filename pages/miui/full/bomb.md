@@ -53,6 +53,7 @@ permalink: /archive/miui/bomb/
                 </thead>
                 <tbody>
                 <tr><td>Redmi 10X Pro China</td><td>Weekly</td><td>Recovery</td><td>21.2.24</td><td>11.0</td><td>3.0 GB</td><td>2021-02-25</td><td><a href="/miui/bomb/weekly/21.2.24/">Download</a></td></tr>
+<tr><td>Redmi 10X Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.8.0.QJLCNXM</td><td>10.0</td><td>2.7 GB</td><td>2021-02-22</td><td><a href="/miui/bomb/stable beta/V12.0.8.0.QJLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Weekly</td><td>Recovery</td><td>21.2.4</td><td>11.0</td><td>3.0 GB</td><td>2021-02-04</td><td><a href="/miui/bomb/weekly/21.2.4/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Weekly</td><td>Recovery</td><td>21.1.28</td><td>11.0</td><td>3.0 GB</td><td>2021-01-28</td><td><a href="/miui/bomb/weekly/21.1.28/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Weekly</td><td>Recovery</td><td>21.1.20</td><td>11.0</td><td>185.9 MB</td><td>2021-01-21</td><td><a href="/miui/bomb/weekly/21.1.20/">Download</a></td></tr>
@@ -86,10 +87,10 @@ permalink: /archive/miui/bomb/
 <tr><td>Redmi 10X Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.2</td><td>10.0</td><td>2.7 GB</td><td>2020-07-02</td><td><a href="/miui/bomb/weekly/20.7.2/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QJLCNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-06-30</td><td><a href="/miui/bomb/stable/V11.0.5.0.QJLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QJLCNXM</td><td>10.0</td><td>3.5 GB</td><td>2020-06-28</td><td><a href="/miui/bomb/stable/V11.0.5.0.QJLCNXM/">Download</a></td></tr>
-<tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QJLCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-06-05</td><td><a href="/miui/bomb/stable/V11.0.3.0.QJLCNXM/">Download</a></td></tr>
-<tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QJLCNXM</td><td>10.0</td><td>3.3 GB</td><td>2020-06-03</td><td><a href="/miui/bomb/stable/V11.0.3.0.QJLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJLCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-07-22</td><td><a href="/miui/bomb/stable/V12.0.2.0.QJLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJLCNXM</td><td>10.0</td><td>3.7 GB</td><td>2020-07-17</td><td><a href="/miui/bomb/stable/V12.0.2.0.QJLCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QJLCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-06-05</td><td><a href="/miui/bomb/stable/V11.0.3.0.QJLCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QJLCNXM</td><td>10.0</td><td>3.3 GB</td><td>2020-06-03</td><td><a href="/miui/bomb/stable/V11.0.3.0.QJLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJLCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-06-04</td><td><a href="/miui/bomb/stable/V11.0.2.0.QJLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QJLCNXM</td><td>10.0</td><td>3.2 GB</td><td>2020-05-30</td><td><a href="/miui/bomb/stable/V11.0.2.0.QJLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.QJLCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-05-27</td><td><a href="/miui/bomb/stable/V11.0.1.0.QJLCNXM/">Download</a></td></tr>

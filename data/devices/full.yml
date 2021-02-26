@@ -2958,6 +2958,16 @@
   versions:
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
+- branch: stable
+  date: '2021-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_bomb/releases/download/stable-26.02.2021/fw_bomb_miui_BOMB_V12.0.8.0.QJLCNXM_1757dbf687_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/bomb/fw_bomb_miui_BOMB_V12.0.8.0.QJLCNXM_1757dbf687_10.0.zip
+  filename: fw_bomb_miui_BOMB_V12.0.8.0.QJLCNXM_1757dbf687_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.8.0.QJLCNXM
 - branch: weekly
   date: '2021-02-25'
   downloads:
@@ -26888,6 +26898,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lime/releases/download/stable-26.02.2021/fw_lime_miui_LIME_V12.0.12.0.QJQCNXM_176dc635fd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIME_V12.0.12.0.QJQCNXM_176dc635fd_10.0.zip
+  filename: fw_lime_miui_LIME_V12.0.12.0.QJQCNXM_176dc635fd_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.12.0.QJQCNXM
 - branch: weekly
   date: '2021-02-26'
   downloads:
@@ -38018,6 +38038,26 @@
   versions:
     android: '9.0'
     miui: 8.10.25
+- branch: stable
+  date: '2021-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/stable-26.02.2021/fw_phoenix_miui_PHOENIX_V12.1.4.0.RGHCNXM_50b24a41b2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.1.4.0.RGHCNXM_50b24a41b2_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.1.4.0.RGHCNXM_50b24a41b2_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.1.4.0.RGHCNXM
+- branch: weekly
+  date: '2021-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-26.02.2021/fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/phoenix/fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.24
 - branch: weekly
   date: '2021-02-05'
   downloads:
@@ -43399,6 +43439,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2021-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-26.02.2021/fw_pyxis_miui_PYXIS_21.2.24_825572dfcf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/pyxis/fw_pyxis_miui_PYXIS_21.2.24_825572dfcf_11.0.zip
+  filename: fw_pyxis_miui_PYXIS_21.2.24_825572dfcf_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.24
+- branch: weekly
   date: '2021-02-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-05.02.2021/fw_pyxis_miui_PYXIS_21.2.3_d7747670b5_11.0.zip
@@ -44258,6 +44308,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: weekly
+  date: '2021-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-26.02.2021/fw_raphael_miui_RAPHAEL_21.2.24_f1e3d6db1a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/raphael/fw_raphael_miui_RAPHAEL_21.2.24_f1e3d6db1a_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_21.2.24_f1e3d6db1a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.24
 - branch: weekly
   date: '2021-02-05'
   downloads:
@@ -56158,6 +56218,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: weekly
+  date: '2021-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-26.02.2021/fw_tucana_miui_TUCANA_21.2.24_93ae935df2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/tucana/fw_tucana_miui_TUCANA_21.2.24_93ae935df2_11.0.zip
+  filename: fw_tucana_miui_TUCANA_21.2.24_93ae935df2_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.24
 - branch: stable
   date: '2021-02-21'
   downloads:
