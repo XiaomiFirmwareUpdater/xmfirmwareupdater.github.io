@@ -588,4 +588,6 @@ my6sense.com, 9732, RESELLER
 criteo.com, 7822, RESELLER
 decenterads.com, 933, DIRECT
 onetag.com, 694e68b73971b58, DIRECT
+valueimpression.com, 6925, DIRECT
+quantumdex.io, 6925, DIRECT
 #VLI END
