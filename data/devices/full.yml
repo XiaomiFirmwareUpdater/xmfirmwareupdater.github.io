@@ -23659,6 +23659,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-03-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-02.03.2021/fw_lancelot_miui_LANCELOT_V12.0.7.0.QJCCNXM_07ac7287d0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOT_V12.0.7.0.QJCCNXM_07ac7287d0_10.0.zip
+  filename: fw_lancelot_miui_LANCELOT_V12.0.7.0.QJCCNXM_07ac7287d0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QJCCNXM
+- branch: stable
   date: '2021-02-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-03.02.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
@@ -59968,6 +59978,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2021-03-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-02.03.2021/fw_umi_miui_UMIINGlobal_V12.2.6.0.RJBINXM_dc278e5426_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIINGlobal_V12.2.6.0.RJBINXM_dc278e5426_11.0.zip
+  filename: fw_umi_miui_UMIINGlobal_V12.2.6.0.RJBINXM_dc278e5426_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.2.6.0.RJBINXM
 - branch: weekly
   date: '2021-02-26'
   downloads:
