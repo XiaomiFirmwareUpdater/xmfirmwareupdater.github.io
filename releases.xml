@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 02 Mar 2021 01:57:29 +0900</pubDate>
+  <pubDate>Tue, 02 Mar 2021 19:18:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.0.11.0.QJSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Tue, 02 Mar 2021 19:18:43 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.0.1.0.RJSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.2.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
     <pubDate>Fri, 26 Feb 2021 17:13:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.2.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Fri, 26 Feb 2021 16:06:44 +0900</pubDate>
   </item>
     </channel>
 </rss>
