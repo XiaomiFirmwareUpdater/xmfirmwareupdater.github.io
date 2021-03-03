@@ -590,4 +590,5 @@ decenterads.com, 933, DIRECT
 onetag.com, 694e68b73971b58, DIRECT
 valueimpression.com, 6925, DIRECT
 quantumdex.io, 6925, DIRECT
+betweendigital.com, 43894, DIRECT
 #VLI END
