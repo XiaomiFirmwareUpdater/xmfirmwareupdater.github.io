@@ -1,15 +1,15 @@
 ---
-title: Redmi K40 Pro/POCO F3 Pro (haydn) Firmware Downloads
+title: POCO X3 Pro (vayu) Firmware Downloads
 layout: download
-name: Redmi K40 Pro/POCO F3 Pro
-codename: haydn
-permalink: /firmware/haydn/
+name: POCO X3 Pro
+codename: vayu
+permalink: /firmware/vayu/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/haydn/">Redmi K40 Pro/POCO F3 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/vayu/">POCO X3 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -27,9 +27,9 @@ permalink: /firmware/haydn/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest firmware downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/firmware/haydn/" class="card-link">Firmware Archive</a>
-    <a href="/miui/haydn/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/haydn/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/firmware/vayu/" class="card-link">Firmware Archive</a>
+    <a href="/miui/vayu/" class="card-link">MIUI Downloads</a>
+    <a href="/vendor/vayu/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
@@ -49,7 +49,7 @@ permalink: /firmware/haydn/
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('haydn', 'latest')</script>
+                <script>loadFirmwareDownloads('vayu', 'latest')</script>
             </table>
         </div>
     </div>

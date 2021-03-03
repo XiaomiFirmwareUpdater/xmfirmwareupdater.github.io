@@ -1,7 +1,7 @@
 ---
-title: Redmi K40 (alioth) Firmware Downloads
+title: Redmi K40/POCO F3 (alioth) Firmware Downloads
 layout: download
-name: Redmi K40
+name: Redmi K40/POCO F3
 codename: alioth
 permalink: /firmware/alioth/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/alioth/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/alioth/">Redmi K40</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/alioth/">Redmi K40/POCO F3</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

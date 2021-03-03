@@ -1,15 +1,15 @@
 ---
-title: Redmi K40 Pro/POCO F3 Pro (haydn) Firmware Downloads
+title: Mi 11 Lite 5G (renoir) Firmware Downloads
 layout: download
-name: Redmi K40 Pro/POCO F3 Pro
-codename: haydn
-permalink: /firmware/haydn/
+name: Mi 11 Lite 5G
+codename: renoir
+permalink: /archive/firmware/renoir/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/haydn/">Redmi K40 Pro/POCO F3 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/renoir/">Mi 11 Lite 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -19,25 +19,24 @@ permalink: /firmware/haydn/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-<h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss">
-<span class="label">RSS</span></a></span></h3>
+### Firmware Archive
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest firmware downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/firmware/haydn/" class="card-link">Firmware Archive</a>
-    <a href="/miui/haydn/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/haydn/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases or other downloads check:</p>
+    <a href="/firmware/renoir/" class="card-link">Latest Firmware</a>
+    <a href="/miui/renoir/" class="card-link">MIUI Downloads</a>
+    <a href="/vendor/renoir/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
 {%include ads.html%}
 <div class="row justify-content-center">
     <div class="col-10">
-        {%include vli_ad_320x50_1.html%}
         <div class="table-responsive-md" style="margin-top: 25px;">
+            {%include vli_ad_320x50_1.html%}
             <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
@@ -49,7 +48,7 @@ permalink: /firmware/haydn/
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('haydn', 'latest')</script>
+                <script>loadFirmwareDownloads('renoir', 'full')</script>
             </table>
         </div>
     </div>
