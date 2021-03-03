@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 03 Mar 2021 20:27:26 +0900</pubDate>
+  <pubDate>Thu, 04 Mar 2021 01:47:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9A/9AT (dandelion) - V12.0.11.0.QCDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Thu, 04 Mar 2021 01:47:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 5G (andromeda) - V12.0.4.0.PEMEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Thu, 04 Mar 2021 01:39:38 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Note 10 Lite (toco) - V12.1.3.0.RFNMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.12.0.QJQCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Fri, 26 Feb 2021 20:09:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V12.0.8.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 26 Feb 2021 19:40:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.2.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 26 Feb 2021 19:32:32 +0900</pubDate>
   </item>
     </channel>
 </rss>
