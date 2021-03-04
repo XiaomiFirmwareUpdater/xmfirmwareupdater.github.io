@@ -1,7 +1,7 @@
 ---
-title: Redmi K40 Pro/POCO F3 Pro (haydn) MIUI Downloads
+title: Redmi K40 Pro/POCO F3 Pro/Mi 11X Pro (haydn) MIUI Downloads
 layout: download
-name: Redmi K40 Pro/POCO F3 Pro
+name: Redmi K40 Pro/POCO F3 Pro/Mi 11X Pro
 codename: haydn
 permalink: /miui/haydn/
 ---
@@ -9,7 +9,7 @@ permalink: /miui/haydn/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/haydn/">Redmi K40 Pro/POCO F3 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/haydn/">Redmi K40 Pro/POCO F3 Pro/Mi 11X Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
