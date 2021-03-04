@@ -1,15 +1,15 @@
 ---
-title: Redmi K30 4G (phoenix) MIUI Downloads
+title: Redmi K40/POCO F3 (alioth) MIUI Downloads
 layout: download
-name: Redmi K30 4G
-codename: phoenix
-permalink: /miui/phoenix/
+name: Redmi K40/POCO F3
+codename: alioth
+permalink: /miui/alioth/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/phoenix/">Redmi K30 4G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/alioth/">Redmi K40/POCO F3</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/phoenix/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/phoenix/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/phoenix/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/phoenix/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/alioth/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/alioth/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/alioth/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,8 @@ permalink: /miui/phoenix/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Fastboot</td><td>V12.1.3.0.RGHCNXM</td><td>11.0</td><td>4.0 GB</td><td>2020-12-30</td><td><a href="/miui/phoenix/stable/V12.1.3.0.RGHCNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 4G China</td><td>Stable</td><td>Recovery</td><td>V12.1.3.0.RGHCNXM</td><td>11.0</td><td>3.0 GB</td><td>2020-12-31</td><td><a href="/miui/phoenix/stable/V12.1.3.0.RGHCNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.4.0.RGHCNXM</td><td>11.0</td><td>3.0 GB</td><td>2021-02-24</td><td><a href="/miui/phoenix/stable beta/V12.1.4.0.RGHCNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>21.2.24</td><td>11.0</td><td>3.3 GB</td><td>2021-02-25</td><td><a href="/miui/phoenix/weekly/21.2.24/">Download</a></td></tr>
-<tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V12.1.2.0.RGHINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-01-15</td><td><a href="/miui/phoenixin/stable/V12.1.2.0.RGHINXM/">Download</a></td></tr>
-<tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V12.1.2.0.RGHINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-01-20</td><td><a href="/miui/phoenixin/stable/V12.1.2.0.RGHINXM/">Download</a></td></tr>
-<tr><td>POCO X2 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.3.0.RGHINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-03-04</td><td><a href="/miui/phoenixin/stable beta/V12.1.3.0.RGHINXM/">Download</a></td></tr>
+                <tr><td>Redmi K40 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.RKHCNXM</td><td>11.0</td><td>4.9 GB</td><td>2021-02-24</td><td><a href="/miui/alioth/stable/V12.0.5.0.RKHCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.RKHCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-03-04</td><td><a href="/miui/alioth/stable/V12.0.5.0.RKHCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

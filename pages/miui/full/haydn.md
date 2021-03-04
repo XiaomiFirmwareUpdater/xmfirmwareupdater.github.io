@@ -1,15 +1,15 @@
 ---
-title: POCO X2 (phoenixin) MIUI Downloads
+title: Redmi K40 Pro/POCO F3 Pro (haydn) MIUI Downloads
 layout: download
-name: POCO X2
-codename: phoenixin
-permalink: /miui/phoenixin/
+name: Redmi K40 Pro/POCO F3 Pro
+codename: haydn
+permalink: /archive/miui/haydn/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/phoenixin/">POCO X2</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/haydn/">Redmi K40 Pro/POCO F3 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /miui/phoenixin/
     </button>
 </div>
 
-### Latest MIUI Official ROMs
+### MIUI Official ROMs Archive
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/phoenixin/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/phoenixin/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/phoenixin/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/miui/haydn/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/haydn/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/haydn/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,9 +52,7 @@ permalink: /miui/phoenixin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V12.1.2.0.RGHINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-01-15</td><td><a href="/miui/phoenixin/stable/V12.1.2.0.RGHINXM/">Download</a></td></tr>
-<tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V12.1.2.0.RGHINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-01-20</td><td><a href="/miui/phoenixin/stable/V12.1.2.0.RGHINXM/">Download</a></td></tr>
-<tr><td>POCO X2 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.3.0.RGHINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-03-04</td><td><a href="/miui/phoenixin/stable beta/V12.1.3.0.RGHINXM/">Download</a></td></tr>
+                <tr><td>Redmi K40 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.RKKCNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-03-03</td><td><a href="/miui/haydn/stable beta/V12.0.3.0.RKKCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
