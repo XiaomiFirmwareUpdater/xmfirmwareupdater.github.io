@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 10 Pro (sweet) MIUI Downloads
+title: Redmi Note 10 Pro (sweetin) MIUI Downloads
 layout: download
 name: Redmi Note 10 Pro
-codename: sweet
-permalink: /miui/sweet/
+codename: sweetin
+permalink: /archive/miui/sweetin/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/sweet/">Redmi Note 10 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/sweetin/">Redmi Note 10 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /miui/sweet/
     </button>
 </div>
 
-### Latest MIUI Official ROMs
+### MIUI Official ROMs Archive
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/sweet/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/sweet/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/sweet/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/miui/sweetin/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/sweetin/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/sweetin/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,14 +52,8 @@ permalink: /miui/sweet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKFEUXM</td><td>11.0</td><td>4.6 GB</td><td>2021-01-29</td><td><a href="/miui/sweet/stable/V12.0.3.0.RKFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKFEUXM</td><td>11.0</td><td>2.9 GB</td><td>2021-03-05</td><td><a href="/miui/sweet/stable/V12.0.3.0.RKFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKFIDXM</td><td>11.0</td><td>4.4 GB</td><td>2021-02-06</td><td><a href="/miui/sweet/stable/V12.0.2.0.RKFIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKFIDXM</td><td>11.0</td><td>2.9 GB</td><td>2021-03-05</td><td><a href="/miui/sweet/stable/V12.0.2.0.RKFIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RKFRUXM</td><td>11.0</td><td>4.3 GB</td><td>2021-01-28</td><td><a href="/miui/sweet/stable/V12.0.1.0.RKFRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RKFRUXM</td><td>11.0</td><td>2.9 GB</td><td>2021-03-05</td><td><a href="/miui/sweet/stable/V12.0.1.0.RKFRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RKFINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-03-05</td><td><a href="/miui/sweetin/stable/V12.0.1.0.RKFINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RKFINXM</td><td>11.0</td><td>3.3 GB</td><td>2021-02-05</td><td><a href="/miui/sweetin/stable/V12.0.1.0.RKFINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RKFINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-03-05</td><td><a href="/miui/sweetin/stable/V12.0.1.0.RKFINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
