@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 05 Mar 2021 01:55:09 +0900</pubDate>
+  <pubDate>Fri, 05 Mar 2021 19:49:05 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.1.5.0.RFDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Fri, 05 Mar 2021 19:49:05 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.0.5.0.QFKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
@@ -100,11 +105,6 @@
     <title>Mi 11 (venus) - 21.2.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
     <pubDate>Fri, 26 Feb 2021 23:26:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 21.2.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Fri, 26 Feb 2021 22:18:29 +0900</pubDate>
   </item>
     </channel>
 </rss>
