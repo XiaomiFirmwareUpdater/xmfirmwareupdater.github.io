@@ -2109,15 +2109,15 @@
     android: '11.0'
     miui: V12.1.4.0.RGHCNXM
 - branch: weekly
-  date: '2021-02-26'
+  date: '2021-03-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-26.02.2021/fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/phoenix/fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-05.03.2021/fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/phoenix/fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.2.24
+    miui: 21.3.3
 - branch: stable
   date: '2021-03-04'
   downloads:
@@ -2139,15 +2139,15 @@
     android: '11.0'
     miui: V12.1.6.0.RGICNXM
 - branch: weekly
-  date: '2021-02-25'
+  date: '2021-03-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-25.02.2021/fw_picasso_miui_PICASSO48M_21.2.24_3bd7c5d742_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/picasso/fw_picasso_miui_PICASSO48M_21.2.24_3bd7c5d742_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.2.24_3bd7c5d742_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-05.03.2021/fw_picasso_miui_PICASSO48M_21.3.3_fd7a618ba2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/picasso/fw_picasso_miui_PICASSO48M_21.3.3_fd7a618ba2_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.3.3_fd7a618ba2_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.2.24
+    miui: 21.3.3
 - branch: stable
   date: '2021-01-29'
   downloads:
@@ -2349,15 +2349,15 @@
     android: '10.0'
     miui: V12.0.6.0.QFKCNXM
 - branch: weekly
-  date: '2021-02-26'
+  date: '2021-03-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-26.02.2021/fw_raphael_miui_RAPHAEL_21.2.24_f1e3d6db1a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/raphael/fw_raphael_miui_RAPHAEL_21.2.24_f1e3d6db1a_11.0.zip
-  filename: fw_raphael_miui_RAPHAEL_21.2.24_f1e3d6db1a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-05.03.2021/fw_raphael_miui_RAPHAEL_21.3.3_63abcab0f0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/raphael/fw_raphael_miui_RAPHAEL_21.3.3_63abcab0f0_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_21.3.3_63abcab0f0_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.2.24
+    miui: 21.3.3
 - branch: stable
   date: '2021-01-25'
   downloads:
