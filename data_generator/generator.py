@@ -176,7 +176,7 @@ def load_releases():
         if update["branch"] == "weekly":
             date = update["date"]
             date_array = date.split('-')
-            if int(date_array[0]) == 2020 and int(date_array[1]) >= 4:
+            if int(date_array[0]) in (2020, 2021) and int(date_array[1]) >= 4:
                 filename = update["filename"]
                 codename = filename.split('_')[1]
                 name = FW_DEVICES[codename]
