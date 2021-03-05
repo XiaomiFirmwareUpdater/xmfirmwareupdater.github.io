@@ -54,9 +54,8 @@ permalink: /miui/andromeda/
                 <tbody>
                 <tr><td>Mi MIX 3 5G China</td><td>Stable</td><td>Fastboot</td><td>V10.3.17.0.PEMCNXM</td><td>9.0</td><td>2.4 GB</td><td>2019-08-01</td><td><a href="/miui/andromeda/stable/V10.3.17.0.PEMCNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 5G China</td><td>Stable</td><td>Recovery</td><td>V10.3.18.0.PEMCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-22</td><td><a href="/miui/andromeda/stable/V10.3.18.0.PEMCNXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.PEMEUXM</td><td>9.0</td><td>2.9 GB</td><td>2020-11-23</td><td><a href="/miui/andromeda/stable/V12.0.2.0.PEMEUXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.PEMEUXM</td><td>9.0</td><td>2.5 GB</td><td>2020-11-27</td><td><a href="/miui/andromeda/stable/V12.0.2.0.PEMEUXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.PEMEUXM</td><td>9.0</td><td>2.5 GB</td><td>2021-03-03</td><td><a href="/miui/andromeda/stable beta/V12.0.4.0.PEMEUXM/">Download</a></td></tr>
+<tr><td>Mi MIX 3 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.PEMEUXM</td><td>9.0</td><td>2.9 GB</td><td>2021-02-25</td><td><a href="/miui/andromeda/stable/V12.0.4.0.PEMEUXM/">Download</a></td></tr>
+<tr><td>Mi MIX 3 5G EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.PEMEUXM</td><td>9.0</td><td>2.5 GB</td><td>2021-03-03</td><td><a href="/miui/andromeda/stable/V12.0.4.0.PEMEUXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 5G Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.PEMMIXM</td><td>9.0</td><td>2.9 GB</td><td>2021-01-13</td><td><a href="/miui/andromeda/stable/V12.0.3.0.PEMMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 5G Global</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.PEMMIXM</td><td>9.0</td><td>2.5 GB</td><td>2021-01-22</td><td><a href="/miui/andromeda/stable/V12.0.3.0.PEMMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.PEMMIXM</td><td>9.0</td><td>2.5 GB</td><td>2020-12-23</td><td><a href="/miui/andromeda/stable beta/V12.0.2.0.PEMMIXM/">Download</a></td></tr>
