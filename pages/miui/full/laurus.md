@@ -52,7 +52,8 @@ permalink: /archive/miui/laurus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>21.2.24</td><td>10.0</td><td>2.8 GB</td><td>2021-02-25</td><td><a href="/miui/laurus/weekly/21.2.24/">Download</a></td></tr>
+                <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>21.3.3</td><td>10.0</td><td>2.8 GB</td><td>2021-03-04</td><td><a href="/miui/laurus/weekly/21.3.3/">Download</a></td></tr>
+<tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>21.2.24</td><td>10.0</td><td>2.8 GB</td><td>2021-02-25</td><td><a href="/miui/laurus/weekly/21.2.24/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>21.2.3</td><td>10.0</td><td>2.8 GB</td><td>2021-02-04</td><td><a href="/miui/laurus/weekly/21.2.3/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>21.1.28</td><td>10.0</td><td>2.8 GB</td><td>2021-01-28</td><td><a href="/miui/laurus/weekly/21.1.28/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>21.1.20</td><td>10.0</td><td>359.5 MB</td><td>2021-01-21</td><td><a href="/miui/laurus/weekly/21.1.20/">Download</a></td></tr>
