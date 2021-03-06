@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 10 Pro (sweetin) Firmware Downloads
+title: Redmi Note 10 Pro/Pro Max (sweetin) Firmware Downloads
 layout: download
-name: Redmi Note 10 Pro
+name: Redmi Note 10 Pro/Pro Max
 codename: sweetin
 permalink: /firmware/sweetin/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/sweetin/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/sweetin/">Redmi Note 10 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/sweetin/">Redmi Note 10 Pro/Pro Max</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
