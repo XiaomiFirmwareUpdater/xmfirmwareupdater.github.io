@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 07 Mar 2021 02:30:02 +0900</pubDate>
+  <pubDate>Sun, 07 Mar 2021 02:37:49 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.3.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Sun, 07 Mar 2021 02:30:02 +0900</pubDate>
+    <pubDate>Sun, 07 Mar 2021 02:37:49 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 10 Pro (sweetin) - V12.0.1.0.RKFINXM</title>
