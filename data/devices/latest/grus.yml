@@ -19,15 +19,15 @@
     android: '10.0'
     miui: V12.0.3.0.QFBCNXM
 - branch: weekly
-  date: '2021-02-26'
+  date: '2021-03-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-26.02.2021/fw_grus_miui_GRUS_21.2.24_a58224fa1e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/grus/fw_grus_miui_GRUS_21.2.24_a58224fa1e_11.0.zip
-  filename: fw_grus_miui_GRUS_21.2.24_a58224fa1e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/weekly-06.03.2021/fw_grus_miui_GRUS_21.3.5_9578d2467d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.5/grus/fw_grus_miui_GRUS_21.3.5_9578d2467d_11.0.zip
+  filename: fw_grus_miui_GRUS_21.3.5_9578d2467d_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.2.24
+    miui: 21.3.5
 - branch: stable
   date: '2020-12-15'
   downloads:
