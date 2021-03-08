@@ -52,9 +52,9 @@ permalink: /miui/lancelot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJCCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-12-24</td><td><a href="/miui/lancelot/stable/V12.0.6.0.QJCCNXM/">Download</a></td></tr>
-<tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJCCNXM</td><td>10.0</td><td>2.1 GB</td><td>2021-01-05</td><td><a href="/miui/lancelot/stable/V12.0.6.0.QJCCNXM/">Download</a></td></tr>
-<tr><td>Redmi 9 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.7.0.QJCCNXM</td><td>10.0</td><td>2.4 GB</td><td>2021-02-26</td><td><a href="/miui/lancelot/stable beta/V12.0.7.0.QJCCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 9 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QJCCNXM</td><td>10.0</td><td>3.1 GB</td><td>2021-02-22</td><td><a href="/miui/lancelot/stable/V12.0.7.0.QJCCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJCCNXM</td><td>10.0</td><td>2.4 GB</td><td>2021-02-26</td><td><a href="/miui/lancelot/stable/V12.0.7.0.QJCCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.QJCCNXM</td><td>10.0</td><td>2.0 GB</td><td>2020-08-14</td><td><a href="/miui/lancelot/stable beta/V11.0.5.0.QJCCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJCEUXM</td><td>10.0</td><td>4.0 GB</td><td>2021-01-19</td><td><a href="/miui/lancelot/stable/V12.0.1.0.QJCEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJCEUXM</td><td>10.0</td><td>2.0 GB</td><td>2021-01-25</td><td><a href="/miui/lancelot/stable/V12.0.1.0.QJCEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.QJCEUXM</td><td>10.0</td><td>1.9 GB</td><td>2020-08-13</td><td><a href="/miui/lancelot/stable beta/V11.0.5.0.QJCEUXM/">Download</a></td></tr>

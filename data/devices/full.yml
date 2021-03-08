@@ -10288,6 +10288,16 @@
   versions:
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
+- branch: stable
+  date: '2021-03-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/stable-08.03.2021/fw_cmi_miui_CMI_V12.2.4.0.RJACNXM_d9426d5699_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMI_V12.2.4.0.RJACNXM_d9426d5699_11.0.zip
+  filename: fw_cmi_miui_CMI_V12.2.4.0.RJACNXM_d9426d5699_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.2.4.0.RJACNXM
 - branch: weekly
   date: '2021-03-05'
   downloads:
@@ -17368,6 +17378,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-03-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-08.03.2021/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.4.0.QCOEUXM_abeb7babba_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.4.0.QCOEUXM_abeb7babba_10.0.zip
+  filename: fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.4.0.QCOEUXM_abeb7babba_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QCOEUXM
 - branch: weekly
   date: '2021-03-05'
   downloads:
@@ -27178,6 +27198,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-03-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lime/releases/download/stable-08.03.2021/fw_lime_miui_LIMEEEAGlobal_V12.0.3.0.QJQEUXM_bc3fdde17f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.0.3.0.QJQEUXM_bc3fdde17f_10.0.zip
+  filename: fw_lime_miui_LIMEEEAGlobal_V12.0.3.0.QJQEUXM_bc3fdde17f_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJQEUXM
 - branch: weekly
   date: '2021-03-05'
   downloads:
@@ -60348,6 +60378,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2021-03-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-08.03.2021/fw_umi_miui_UMIEEAGlobal_V12.2.7.0.RJBEUXM_dff9f0ab33_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.2.7.0.RJBEUXM_dff9f0ab33_11.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.2.7.0.RJBEUXM_dff9f0ab33_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.2.7.0.RJBEUXM
 - branch: weekly
   date: '2021-03-06'
   downloads:
