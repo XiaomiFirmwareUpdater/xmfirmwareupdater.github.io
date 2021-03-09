@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 09 Mar 2021 21:05:30 +0900</pubDate>
+  <pubDate>Wed, 10 Mar 2021 01:53:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 (venus) - V12.0.4.0.RKBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Wed, 10 Mar 2021 01:53:11 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V12.0.6.0.RJGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.3.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Sat, 06 Mar 2021 06:17:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.3.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Sat, 06 Mar 2021 05:51:08 +0900</pubDate>
   </item>
     </channel>
 </rss>
