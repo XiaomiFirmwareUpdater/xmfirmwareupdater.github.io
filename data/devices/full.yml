@@ -17379,6 +17379,16 @@
     android: '7.0'
     miui: 8.3.26
 - branch: stable
+  date: '2021-03-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-10.03.2021/fw_ginkgo_miui_GINKGOGlobal_V12.0.4.0.QCOMIXM_adbe100edd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOGlobal_V12.0.4.0.QCOMIXM_adbe100edd_10.0.zip
+  filename: fw_ginkgo_miui_GINKGOGlobal_V12.0.4.0.QCOMIXM_adbe100edd_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QCOMIXM
+- branch: stable
   date: '2021-03-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-08.03.2021/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.4.0.QCOEUXM_abeb7babba_10.0.zip

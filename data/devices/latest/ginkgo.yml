@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-01-04'
+  date: '2021-03-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-04.01.2021/fw_ginkgo_miui_GINKGOGlobal_V12.0.3.0.QCOMIXM_265dab17e2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOGlobal_V12.0.3.0.QCOMIXM_265dab17e2_10.0.zip
-  filename: fw_ginkgo_miui_GINKGOGlobal_V12.0.3.0.QCOMIXM_265dab17e2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-10.03.2021/fw_ginkgo_miui_GINKGOGlobal_V12.0.4.0.QCOMIXM_adbe100edd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOGlobal_V12.0.4.0.QCOMIXM_adbe100edd_10.0.zip
+  filename: fw_ginkgo_miui_GINKGOGlobal_V12.0.4.0.QCOMIXM_adbe100edd_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QCOMIXM
+    miui: V12.0.4.0.QCOMIXM
 - branch: stable
   date: '2021-02-20'
   downloads:
