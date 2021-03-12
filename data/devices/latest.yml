@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-03-04'
+  date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_alioth/releases/download/stable-04.03.2021/fw_alioth_miui_ALIOTH_V12.0.5.0.RKHCNXM_92ccb0cdcf_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTH_V12.0.5.0.RKHCNXM_92ccb0cdcf_11.0.zip
-  filename: fw_alioth_miui_ALIOTH_V12.0.5.0.RKHCNXM_92ccb0cdcf_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_alioth/releases/download/stable-12.03.2021/fw_alioth_miui_ALIOTH_V12.0.6.0.RKHCNXM_8a8612befa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTH_V12.0.6.0.RKHCNXM_8a8612befa_11.0.zip
+  filename: fw_alioth_miui_ALIOTH_V12.0.6.0.RKHCNXM_8a8612befa_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.0.5.0.RKHCNXM
+    miui: V12.0.6.0.RKHCNXM
 - branch: stable
   date: '2021-01-22'
   downloads:
@@ -1619,15 +1619,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2021-01-05'
+  date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-05.01.2021/fw_lmi_miui_LMIGlobal_V12.2.4.0.RJKMIXM_682e9ad14f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.4.0.RJKMIXM_682e9ad14f_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.2.4.0.RJKMIXM_682e9ad14f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-12.03.2021/fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.2.4.0.RJKMIXM
+    miui: V12.2.5.0.RJKMIXM
 - branch: stable
   date: '2021-01-28'
   downloads:
@@ -2119,15 +2119,15 @@
     android: '11.0'
     miui: V12.1.4.0.RGHCNXM
 - branch: weekly
-  date: '2021-03-05'
+  date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-05.03.2021/fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/phoenix/fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-12.03.2021/fw_phoenix_miui_PHOENIX_21.3.10_c43d0361af_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/phoenix/fw_phoenix_miui_PHOENIX_21.3.10_c43d0361af_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.3.10_c43d0361af_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.3
+    miui: 21.3.10
 - branch: stable
   date: '2021-03-04'
   downloads:
@@ -2319,15 +2319,15 @@
     android: '10.0'
     miui: V12.0.2.0.QFCCNXM
 - branch: weekly
-  date: '2021-03-06'
+  date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-06.03.2021/fw_pyxis_miui_PYXIS_21.3.5_abcf9c5058_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.5/pyxis/fw_pyxis_miui_PYXIS_21.3.5_abcf9c5058_11.0.zip
-  filename: fw_pyxis_miui_PYXIS_21.3.5_abcf9c5058_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/weekly-12.03.2021/fw_pyxis_miui_PYXIS_21.3.10_abf4b59d41_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/pyxis/fw_pyxis_miui_PYXIS_21.3.10_abf4b59d41_11.0.zip
+  filename: fw_pyxis_miui_PYXIS_21.3.10_abf4b59d41_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.5
+    miui: 21.3.10
 - branch: stable
   date: '2021-03-09'
   downloads:
@@ -2359,15 +2359,15 @@
     android: '10.0'
     miui: V12.0.6.0.QFKCNXM
 - branch: weekly
-  date: '2021-03-06'
+  date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-06.03.2021/fw_raphael_miui_RAPHAEL_21.3.3_63abcab0f0_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/raphael/fw_raphael_miui_RAPHAEL_21.3.3_63abcab0f0_11.0.zip
-  filename: fw_raphael_miui_RAPHAEL_21.3.3_63abcab0f0_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-12.03.2021/fw_raphael_miui_RAPHAEL_21.3.10_6f3d60c15e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/raphael/fw_raphael_miui_RAPHAEL_21.3.10_6f3d60c15e_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_21.3.10_6f3d60c15e_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.3
+    miui: 21.3.10
 - branch: stable
   date: '2021-01-25'
   downloads:
@@ -2799,15 +2799,15 @@
     android: '11.0'
     miui: V12.1.3.0.RFNEUXM
 - branch: stable
-  date: '2021-01-25'
+  date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-25.01.2021/fw_tucana_miui_TUCANAGlobal_V12.0.4.0.QFDMIXM_be49be8fa0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.0.4.0.QFDMIXM_be49be8fa0_10.0.zip
-  filename: fw_tucana_miui_TUCANAGlobal_V12.0.4.0.QFDMIXM_be49be8fa0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-12.03.2021/fw_tucana_miui_TUCANAGlobal_V12.1.2.0.RFDMIXM_23bef84d2d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.1.2.0.RFDMIXM_23bef84d2d_11.0.zip
+  filename: fw_tucana_miui_TUCANAGlobal_V12.1.2.0.RFDMIXM_23bef84d2d_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V12.0.4.0.QFDMIXM
+    android: '11.0'
+    miui: V12.1.2.0.RFDMIXM
 - branch: stable
   date: '2021-03-05'
   downloads:
@@ -2819,15 +2819,15 @@
     android: '11.0'
     miui: V12.1.5.0.RFDCNXM
 - branch: weekly
-  date: '2021-03-06'
+  date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-06.03.2021/fw_tucana_miui_TUCANA_21.3.3_2177899b1c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/tucana/fw_tucana_miui_TUCANA_21.3.3_2177899b1c_11.0.zip
-  filename: fw_tucana_miui_TUCANA_21.3.3_2177899b1c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-12.03.2021/fw_tucana_miui_TUCANA_21.3.10_9b20cae120_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/tucana/fw_tucana_miui_TUCANA_21.3.10_9b20cae120_11.0.zip
+  filename: fw_tucana_miui_TUCANA_21.3.10_9b20cae120_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.3
+    miui: 21.3.10
 - branch: stable
   date: '2021-02-21'
   downloads:
@@ -2959,15 +2959,15 @@
     android: '11.0'
     miui: V12.2.9.0.RJBCNXM
 - branch: weekly
-  date: '2021-03-06'
+  date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-06.03.2021/fw_umi_miui_UMI_21.3.3_545bd45e28_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/umi/fw_umi_miui_UMI_21.3.3_545bd45e28_11.0.zip
-  filename: fw_umi_miui_UMI_21.3.3_545bd45e28_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/weekly-12.03.2021/fw_umi_miui_UMI_21.3.10_2640265014_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/umi/fw_umi_miui_UMI_21.3.10_2640265014_11.0.zip
+  filename: fw_umi_miui_UMI_21.3.10_2640265014_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.3
+    miui: 21.3.10
 - branch: stable
   date: '2021-03-08'
   downloads:
@@ -3019,15 +3019,15 @@
     android: '11.0'
     miui: V12.1.5.0.RJVCNXM
 - branch: weekly
-  date: '2021-03-06'
+  date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-06.03.2021/fw_vangogh_miui_VANGOGH_21.3.3_5f4c9e15d0_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/vangogh/fw_vangogh_miui_VANGOGH_21.3.3_5f4c9e15d0_11.0.zip
-  filename: fw_vangogh_miui_VANGOGH_21.3.3_5f4c9e15d0_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-12.03.2021/fw_vangogh_miui_VANGOGH_21.3.10_15964cec39_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/vangogh/fw_vangogh_miui_VANGOGH_21.3.10_15964cec39_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_21.3.10_15964cec39_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.3
+    miui: 21.3.10
 - branch: stable
   date: '2021-01-11'
   downloads:
@@ -3039,15 +3039,15 @@
     android: '10.0'
     miui: V12.0.3.0.QFECNXM
 - branch: weekly
-  date: '2021-03-06'
+  date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-06.03.2021/fw_sweetin_miui_VELA_21.3.5_05ad864819_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.5/vela/fw_sweetin_miui_VELA_21.3.5_05ad864819_11.0.zip
-  filename: fw_sweetin_miui_VELA_21.3.5_05ad864819_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-12.03.2021/fw_vela_miui_VELA_21.3.10_fbc263b0a5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/vela/fw_vela_miui_VELA_21.3.10_fbc263b0a5_11.0.zip
+  filename: fw_vela_miui_VELA_21.3.10_fbc263b0a5_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.5
+    miui: 21.3.10
 - branch: stable
   date: '2021-03-09'
   downloads:
