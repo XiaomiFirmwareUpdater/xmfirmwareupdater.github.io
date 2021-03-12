@@ -1,15 +1,50 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 12 Mar 2021 13:15:27 +0900</pubDate>
+  <pubDate>Fri, 12 Mar 2021 20:30:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.3.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 12 Mar 2021 20:30:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.3.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 12 Mar 2021 20:09:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.3.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Fri, 12 Mar 2021 19:07:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.3.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Fri, 12 Mar 2021 17:10:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - 21.3.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Fri, 12 Mar 2021 16:27:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.3.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Fri, 12 Mar 2021 15:48:16 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 21.3.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 12 Mar 2021 14:51:13 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi Note 8 (ginkgo) - 21.3.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 12 Mar 2021 13:15:27 +0900</pubDate>
+    <pubDate>Fri, 12 Mar 2021 13:59:44 +0900</pubDate>
   </item>
     <item>
     <title>Redmi K20/Mi 9T (davinci) - 21.3.10</title>
@@ -70,41 +105,6 @@
     <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 21.3.11</title>
     <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
     <pubDate>Fri, 12 Mar 2021 03:59:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10S (thyme) - V12.0.7.0.RGACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Fri, 12 Mar 2021 02:31:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 (mojito) - V12.0.2.0.RKGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Fri, 12 Mar 2021 00:57:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 10 Lite (toco) - V12.1.4.0.RFNMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
-    <pubDate>Thu, 11 Mar 2021 07:34:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V12.0.4.0.QCOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Thu, 11 Mar 2021 01:38:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V12.0.4.0.RKBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Wed, 10 Mar 2021 01:53:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 NFC (surya) - V12.0.6.0.RJGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Tue, 09 Mar 2021 21:05:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.0.6.0.QFCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Tue, 09 Mar 2021 19:36:15 +0900</pubDate>
   </item>
     </channel>
 </rss>
