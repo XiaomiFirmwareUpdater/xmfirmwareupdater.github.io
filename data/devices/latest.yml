@@ -1989,15 +1989,15 @@
     android: '10.0'
     miui: V12.0.1.0.QCQINXM
 - branch: stable
-  date: '2020-12-22'
+  date: '2021-03-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-22.12.2020/fw_onc_miui_ONCLITEGlobal_V11.0.1.0.QFLMIXM_85a121d838_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEGlobal_V11.0.1.0.QFLMIXM_85a121d838_10.0.zip
-  filename: fw_onc_miui_ONCLITEGlobal_V11.0.1.0.QFLMIXM_85a121d838_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-13.03.2021/fw_onc_miui_ONCLITEGlobal_V11.0.2.0.QFLMIXM_8b54f3d1b2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEGlobal_V11.0.2.0.QFLMIXM_8b54f3d1b2_10.0.zip
+  filename: fw_onc_miui_ONCLITEGlobal_V11.0.2.0.QFLMIXM_8b54f3d1b2_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.1.0.QFLMIXM
+    miui: V11.0.2.0.QFLMIXM
 - branch: stable
   date: '2021-01-25'
   downloads:
