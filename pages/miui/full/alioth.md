@@ -52,7 +52,8 @@ permalink: /archive/miui/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.0.RKHCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-03-11</td><td><a href="/miui/alioth/stable beta/V12.0.6.0.RKHCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.RKHCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-03-11</td><td><a href="/miui/alioth/stable/V12.0.6.0.RKHCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.RKHCNXM</td><td>11.0</td><td>4.9 GB</td><td>2021-03-09</td><td><a href="/miui/alioth/stable/V12.0.6.0.RKHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.RKHCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-03-04</td><td><a href="/miui/alioth/stable/V12.0.5.0.RKHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.RKHCNXM</td><td>11.0</td><td>4.9 GB</td><td>2021-02-24</td><td><a href="/miui/alioth/stable/V12.0.5.0.RKHCNXM/">Download</a></td></tr>
 
