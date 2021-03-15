@@ -1069,15 +1069,15 @@
     android: '11.0'
     miui: 21.3.10
 - branch: stable
-  date: '2020-12-15'
+  date: '2021-03-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-15.12.2020/fw_grus_miui_GRUSEEAGlobal_V12.0.3.0.QFBEUXM_81b6632b04_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/grus/fw_grus_miui_GRUSEEAGlobal_V12.0.3.0.QFBEUXM_81b6632b04_10.0.zip
-  filename: fw_grus_miui_GRUSEEAGlobal_V12.0.3.0.QFBEUXM_81b6632b04_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-15.03.2021/fw_grus_miui_GRUSEEAGlobal_V12.0.4.0.QFBEUXM_fe7f382466_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/grus/fw_grus_miui_GRUSEEAGlobal_V12.0.4.0.QFBEUXM_fe7f382466_10.0.zip
+  filename: fw_grus_miui_GRUSEEAGlobal_V12.0.4.0.QFBEUXM_fe7f382466_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QFBEUXM
+    miui: V12.0.4.0.QFBEUXM
 - branch: stable
   date: '2021-03-15'
   downloads:
@@ -2139,15 +2139,15 @@
     android: '11.0'
     miui: V12.1.3.0.RGHINXM
 - branch: stable
-  date: '2021-02-25'
+  date: '2021-03-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-25.02.2021/fw_picasso_miui_PICASSO_V12.1.6.0.RGICNXM_ef44446e10_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.1.6.0.RGICNXM_ef44446e10_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.1.6.0.RGICNXM_ef44446e10_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/stable-15.03.2021/fw_picasso_miui_PICASSO48M_V12.1.2.0.RGICMXM_f16e85cd3b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.1.2.0.RGICMXM_f16e85cd3b_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.1.2.0.RGICMXM_f16e85cd3b_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.1.6.0.RGICNXM
+    miui: V12.1.2.0.RGICMXM
 - branch: weekly
   date: '2021-03-12'
   downloads:
