@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 15 Mar 2021 16:12:54 +0900</pubDate>
+  <pubDate>Mon, 15 Mar 2021 20:46:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.1.0.RJDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Mon, 15 Mar 2021 20:46:06 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40 Pro/POCO F3 Pro/Mi 11X Pro (haydn) - V12.0.5.0.RKKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.3.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Fri, 12 Mar 2021 21:11:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.3.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 12 Mar 2021 20:09:30 +0900</pubDate>
   </item>
     </channel>
 </rss>
