@@ -52,7 +52,8 @@ permalink: /archive/miui/cepheus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.3.10</td><td>11.0</td><td>2.7 GB</td><td>2021-03-11</td><td><a href="/miui/cepheus/weekly/21.3.10/">Download</a></td></tr>
+                <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.3.18</td><td>11.0</td><td>2.8 GB</td><td>2021-03-18</td><td><a href="/miui/cepheus/weekly/21.3.18/">Download</a></td></tr>
+<tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.3.10</td><td>11.0</td><td>2.7 GB</td><td>2021-03-11</td><td><a href="/miui/cepheus/weekly/21.3.10/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.3.3</td><td>11.0</td><td>2.7 GB</td><td>2021-03-04</td><td><a href="/miui/cepheus/weekly/21.3.3/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QFAMIXM</td><td>10.0</td><td>2.5 GB</td><td>2021-03-04</td><td><a href="/miui/cepheus/stable/V12.0.5.0.QFAMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QFAMIXM</td><td>10.0</td><td>3.2 GB</td><td>2021-02-24</td><td><a href="/miui/cepheus/stable/V12.0.5.0.QFAMIXM/">Download</a></td></tr>

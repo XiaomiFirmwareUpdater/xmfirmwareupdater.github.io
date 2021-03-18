@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 19 Mar 2021 01:31:51 +0900</pubDate>
+  <pubDate>Fri, 19 Mar 2021 02:27:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 10 Lite (toco) - V12.1.4.0.RFNEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
+    <pubDate>Fri, 19 Mar 2021 02:27:11 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.0.4.0.RJWINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
@@ -100,11 +105,6 @@
     <title>Redmi K40 Pro/POCO F3 Pro/Mi 11X Pro (haydn) - V12.0.5.0.RKKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
     <pubDate>Mon, 15 Mar 2021 16:12:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10S (thyme) - V12.0.8.0.RGACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Mon, 15 Mar 2021 03:34:39 +0900</pubDate>
   </item>
     </channel>
 </rss>

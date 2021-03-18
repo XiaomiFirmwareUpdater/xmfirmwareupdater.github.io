@@ -52,7 +52,8 @@ permalink: /archive/miui/davinci/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>21.3.10</td><td>11.0</td><td>2.7 GB</td><td>2021-03-11</td><td><a href="/miui/davinci/weekly/21.3.10/">Download</a></td></tr>
+                <tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>21.3.18</td><td>11.0</td><td>2.7 GB</td><td>2021-03-18</td><td><a href="/miui/davinci/weekly/21.3.18/">Download</a></td></tr>
+<tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>21.3.10</td><td>11.0</td><td>2.7 GB</td><td>2021-03-11</td><td><a href="/miui/davinci/weekly/21.3.10/">Download</a></td></tr>
 <tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>21.3.3</td><td>11.0</td><td>2.7 GB</td><td>2021-03-04</td><td><a href="/miui/davinci/weekly/21.3.3/">Download</a></td></tr>
 <tr><td>Redmi K20 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.1.0.RFJCNXM</td><td>11.0</td><td>2.6 GB</td><td>2021-03-01</td><td><a href="/miui/davinci/stable beta/V12.1.1.0.RFJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>21.2.24</td><td>11.0</td><td>2.7 GB</td><td>2021-02-25</td><td><a href="/miui/davinci/weekly/21.2.24/">Download</a></td></tr>

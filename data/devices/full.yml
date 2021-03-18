@@ -56999,6 +56999,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2021-03-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-18.03.2021/fw_toco_miui_TOCOEEAGlobal_V12.1.4.0.RFNEUXM_5cf679c648_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.1.4.0.RFNEUXM_5cf679c648_11.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.1.4.0.RFNEUXM_5cf679c648_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.1.4.0.RFNEUXM
+- branch: stable
   date: '2021-03-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_toco/releases/download/stable-11.03.2021/fw_toco_miui_TOCOGlobal_V12.1.4.0.RFNMIXM_2248d94aa9_11.0.zip
