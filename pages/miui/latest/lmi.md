@@ -58,7 +58,7 @@ permalink: /miui/lmi/
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.3.10</td><td>11.0</td><td>3.9 GB</td><td>2021-03-11</td><td><a href="/miui/lmi/weekly/21.3.10/">Download</a></td></tr>
 <tr><td>POCO F2 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.2.4.0.RJKEUXM</td><td>11.0</td><td>5.2 GB</td><td>2020-12-28</td><td><a href="/miui/lmi/stable/V12.2.4.0.RJKEUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.2.4.0.RJKEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-01-09</td><td><a href="/miui/lmi/stable/V12.2.4.0.RJKEUXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.3.0.RJKEUXM</td><td>11.0</td><td>3.1 GB</td><td>2020-12-25</td><td><a href="/miui/lmi/stable beta/V12.2.3.0.RJKEUXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.5.0.RJKEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-03-18</td><td><a href="/miui/lmi/stable beta/V12.2.5.0.RJKEUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.2.4.0.RJKMIXM</td><td>11.0</td><td>5.1 GB</td><td>2020-12-28</td><td><a href="/miui/lmi/stable/V12.2.4.0.RJKMIXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.2.4.0.RJKMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-01-05</td><td><a href="/miui/lmi/stable/V12.2.4.0.RJKMIXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.5.0.RJKMIXM</td><td>11.0</td><td>3.0 GB</td><td>2021-03-12</td><td><a href="/miui/lmi/stable beta/V12.2.5.0.RJKMIXM/">Download</a></td></tr>
