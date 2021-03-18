@@ -58,8 +58,8 @@ permalink: /miui/lime/
 <tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.3.10</td><td>11.0</td><td>3.0 GB</td><td>2021-03-11</td><td><a href="/miui/lime/weekly/21.3.10/">Download</a></td></tr>
 <tr><td>Redmi 9T EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QJQEUXM</td><td>10.0</td><td>4.6 GB</td><td>2021-03-08</td><td><a href="/miui/lime/stable/V12.0.7.0.QJQEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9T EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJQEUXM</td><td>10.0</td><td>2.6 GB</td><td>2021-03-12</td><td><a href="/miui/lime/stable/V12.0.7.0.QJQEUXM/">Download</a></td></tr>
-<tr><td>Redmi 9T Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJQMIXM</td><td>10.0</td><td>4.5 GB</td><td>2021-02-03</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQMIXM/">Download</a></td></tr>
-<tr><td>Redmi 9T Global</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJQMIXM</td><td>10.0</td><td>2.6 GB</td><td>2021-02-18</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJQMIXM</td><td>10.0</td><td>4.5 GB</td><td>2021-03-05</td><td><a href="/miui/lime/stable/V12.0.6.0.QJQMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Global</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJQMIXM</td><td>10.0</td><td>2.5 GB</td><td>2021-03-18</td><td><a href="/miui/lime/stable/V12.0.6.0.QJQMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJQIDXM</td><td>10.0</td><td>4.2 GB</td><td>2021-01-07</td><td><a href="/miui/lime/stable/V12.0.2.0.QJQIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJQIDXM</td><td>10.0</td><td>2.5 GB</td><td>2021-01-29</td><td><a href="/miui/lime/stable/V12.0.2.0.QJQIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Power India</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJQINXM</td><td>10.0</td><td>3.2 GB</td><td>2021-02-06</td><td><a href="/miui/lime/stable/V12.0.6.0.QJQINXM/">Download</a></td></tr>

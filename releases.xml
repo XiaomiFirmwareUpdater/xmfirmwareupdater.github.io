@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 18 Mar 2021 07:21:31 +0900</pubDate>
+  <pubDate>Thu, 18 Mar 2021 13:12:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.6.0.QJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Thu, 18 Mar 2021 13:12:02 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.7.0.QJOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
@@ -100,11 +105,6 @@
     <title>Mi 8 (dipper) - V12.0.4.0.QEACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
     <pubDate>Sat, 13 Mar 2021 08:07:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 21.3.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Sat, 13 Mar 2021 06:38:05 +0900</pubDate>
   </item>
     </channel>
 </rss>
