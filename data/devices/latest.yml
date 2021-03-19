@@ -209,15 +209,15 @@
     android: '10.0'
     miui: V12.0.5.0.QGGCNXM
 - branch: weekly
-  date: '2021-03-11'
+  date: '2021-03-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-11.03.2021/fw_begonia_miui_BEGONIA_21.3.10_0c4121211a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/begonia/fw_begonia_miui_BEGONIA_21.3.10_0c4121211a_11.0.zip
-  filename: fw_begonia_miui_BEGONIA_21.3.10_0c4121211a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-19.03.2021/fw_begonia_miui_BEGONIA_21.3.18_a85f373387_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.18/begonia/fw_begonia_miui_BEGONIA_21.3.18_a85f373387_11.0.zip
+  filename: fw_begonia_miui_BEGONIA_21.3.18_a85f373387_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.10
+    miui: 21.3.18
 - branch: stable
   date: '2021-02-22'
   downloads:
@@ -409,15 +409,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2020-12-15'
+  date: '2021-03-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/stable-15.12.2020/fw_cas_miui_CAS_V12.0.15.0.QJJCNXM_5abfb26bdb_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cas/fw_cas_miui_CAS_V12.0.15.0.QJJCNXM_5abfb26bdb_10.0.zip
-  filename: fw_cas_miui_CAS_V12.0.15.0.QJJCNXM_5abfb26bdb_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/stable-19.03.2021/fw_cas_miui_CAS_V12.1.1.0.RJJCNXM_5a46f058a4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cas/fw_cas_miui_CAS_V12.1.1.0.RJJCNXM_5a46f058a4_11.0.zip
+  filename: fw_cas_miui_CAS_V12.1.1.0.RJJCNXM_5a46f058a4_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V12.0.15.0.QJJCNXM
+    android: '11.0'
+    miui: V12.1.1.0.RJJCNXM
 - branch: weekly
   date: '2021-03-18'
   downloads:
@@ -1049,15 +1049,15 @@
     android: '10.0'
     miui: V12.0.3.0.QJPINXM
 - branch: stable
-  date: '2020-12-21'
+  date: '2021-03-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-21.12.2020/fw_grus_miui_GRUSGlobal_V12.0.3.0.QFBMIXM_6296b46b35_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/grus/fw_grus_miui_GRUSGlobal_V12.0.3.0.QFBMIXM_6296b46b35_10.0.zip
-  filename: fw_grus_miui_GRUSGlobal_V12.0.3.0.QFBMIXM_6296b46b35_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_grus/releases/download/stable-19.03.2021/fw_grus_miui_GRUSGlobal_V12.0.4.0.QFBMIXM_429a2a78a5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/grus/fw_grus_miui_GRUSGlobal_V12.0.4.0.QFBMIXM_429a2a78a5_10.0.zip
+  filename: fw_grus_miui_GRUSGlobal_V12.0.4.0.QFBMIXM_429a2a78a5_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QFBMIXM
+    miui: V12.0.4.0.QFBMIXM
 - branch: stable
   date: '2020-12-03'
   downloads:
