@@ -309,15 +309,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2021-02-18'
+  date: '2021-03-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannon/releases/download/stable-18.02.2021/fw_cannon_miui_CANNON_V12.0.8.0.QJECNXM_2710ca256e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.0.8.0.QJECNXM_2710ca256e_10.0.zip
-  filename: fw_cannon_miui_CANNON_V12.0.8.0.QJECNXM_2710ca256e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannon/releases/download/stable-19.03.2021/fw_cannon_miui_CANNON_V12.0.9.0.QJECNXM_873e9cfff9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.0.9.0.QJECNXM_873e9cfff9_10.0.zip
+  filename: fw_cannon_miui_CANNON_V12.0.9.0.QJECNXM_873e9cfff9_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.8.0.QJECNXM
+    miui: V12.0.9.0.QJECNXM
 - branch: weekly
   date: '2021-03-18'
   downloads:
