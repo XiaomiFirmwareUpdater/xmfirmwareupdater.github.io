@@ -329,15 +329,15 @@
     android: '11.0'
     miui: 21.3.18
 - branch: stable
-  date: '2021-02-11'
+  date: '2021-03-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannong/releases/download/stable-11.02.2021/fw_cannong_miui_CANNONGGlobal_V12.0.6.0.QJEMIXM_a74bf46974_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGGlobal_V12.0.6.0.QJEMIXM_a74bf46974_10.0.zip
-  filename: fw_cannong_miui_CANNONGGlobal_V12.0.6.0.QJEMIXM_a74bf46974_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cannong/releases/download/stable-22.03.2021/fw_cannong_miui_CANNONGGlobal_V12.0.8.0.QJEMIXM_0a018bd4bc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGGlobal_V12.0.8.0.QJEMIXM_0a018bd4bc_10.0.zip
+  filename: fw_cannong_miui_CANNONGGlobal_V12.0.8.0.QJEMIXM_0a018bd4bc_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.6.0.QJEMIXM
+    miui: V12.0.8.0.QJEMIXM
 - branch: stable
   date: '2021-03-16'
   downloads:
@@ -2319,15 +2319,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2020-12-21'
+  date: '2021-03-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-21.12.2020/fw_pyxis_miui_PYXISGlobal_V12.0.5.0.QFCMIXM_73995f47b7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISGlobal_V12.0.5.0.QFCMIXM_73995f47b7_10.0.zip
-  filename: fw_pyxis_miui_PYXISGlobal_V12.0.5.0.QFCMIXM_73995f47b7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pyxis/releases/download/stable-22.03.2021/fw_pyxis_miui_PYXISGlobal_V12.0.6.0.QFCMIXM_753bf0468c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISGlobal_V12.0.6.0.QFCMIXM_753bf0468c_10.0.zip
+  filename: fw_pyxis_miui_PYXISGlobal_V12.0.6.0.QFCMIXM_753bf0468c_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.5.0.QFCMIXM
+    miui: V12.0.6.0.QFCMIXM
 - branch: stable
   date: '2020-08-24'
   downloads:
@@ -3058,6 +3058,16 @@
   versions:
     android: '11.0'
     miui: 21.3.17
+- branch: stable
+  date: '2021-03-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vayu/releases/download/stable-22.03.2021/fw_vayu_miui_VAYUEEAGlobal_V12.0.4.0.RJUEUXM_9d5ae2d814_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUEEAGlobal_V12.0.4.0.RJUEUXM_9d5ae2d814_11.0.zip
+  filename: fw_vayu_miui_VAYUEEAGlobal_V12.0.4.0.RJUEUXM_9d5ae2d814_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.4.0.RJUEUXM
 - branch: stable
   date: '2021-01-11'
   downloads:
