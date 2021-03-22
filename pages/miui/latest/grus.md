@@ -66,6 +66,7 @@ permalink: /miui/grus/
 <tr><td>Mi 9 SE Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QFBMIXM</td><td>10.0</td><td>2.5 GB</td><td>2021-03-19</td><td><a href="/miui/grus/stable beta/V12.0.4.0.QFBMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFBRUXM</td><td>10.0</td><td>3.0 GB</td><td>2020-12-09</td><td><a href="/miui/grus/stable/V12.0.2.0.QFBRUXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFBRUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-12-23</td><td><a href="/miui/grus/stable/V12.0.2.0.QFBRUXM/">Download</a></td></tr>
+<tr><td>Mi 9 SE Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QFBRUXM</td><td>10.0</td><td>2.5 GB</td><td>2021-03-22</td><td><a href="/miui/grus/stable beta/V12.0.3.0.QFBRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
