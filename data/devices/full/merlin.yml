@@ -24,7 +24,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-01.03.2021/fw_merlin_miui_MERLINGlobal_V12.0.7.0.QJOMIXM_5bb2eb3059_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.7.0.QJOMIXM_5bb2eb3059_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V12.0.7.0.QJOMIXM_5bb2eb3059_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.7.0.QJOMIXM
@@ -64,7 +64,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-24.12.2020/fw_merlin_miui_MERLINGlobal_V12.0.6.0.QJOMIXM_b71510694a_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.6.0.QJOMIXM_b71510694a_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V12.0.6.0.QJOMIXM_b71510694a_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.6.0.QJOMIXM
@@ -104,7 +104,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-25.11.2020/fw_merlin_miui_MERLINGlobal_V12.0.5.0.QJOMIXM_426131c914_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.5.0.QJOMIXM_426131c914_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V12.0.5.0.QJOMIXM_426131c914_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.5.0.QJOMIXM
@@ -134,7 +134,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-24.09.2020/fw_merlin_miui_MERLINGlobal_V12.0.4.0.QJOMIXM_28548b32b7_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.4.0.QJOMIXM_28548b32b7_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V12.0.4.0.QJOMIXM_28548b32b7_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.4.0.QJOMIXM
@@ -224,7 +224,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-29.07.2020/fw_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.2.0.QJOMIXM
@@ -284,7 +284,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-22.06.2020/fw_merlin_miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/merlin/fw_merlin_miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V11.0.5.0.QJOMIXM
@@ -314,7 +314,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-03.06.2020/fw_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/merlin/fw_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJOMIXM

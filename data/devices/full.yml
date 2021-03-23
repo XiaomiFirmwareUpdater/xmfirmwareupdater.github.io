@@ -16874,7 +16874,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-18.02.2021/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
   filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
-  region: India
+  region: Global
   versions:
     android: '11.0'
     miui: V12.0.2.0.RJSMIXM
@@ -16954,7 +16954,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-08.01.2021/fw_gauguin_miui_GAUGUINGlobal_V12.0.7.0.QJSMIXM_aeeb4fc609_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.7.0.QJSMIXM_aeeb4fc609_10.0.zip
   filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.7.0.QJSMIXM_aeeb4fc609_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.7.0.QJSMIXM
@@ -17004,7 +17004,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-03.12.2020/fw_gauguin_miui_GAUGUINGlobal_V12.0.6.0.QJSMIXM_594ea5b80e_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.6.0.QJSMIXM_594ea5b80e_10.0.zip
   filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.6.0.QJSMIXM_594ea5b80e_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.6.0.QJSMIXM
@@ -17034,7 +17034,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-27.11.2020/fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.QJSMIXM_16a6aaa02d_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.QJSMIXM_16a6aaa02d_10.0.zip
   filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.QJSMIXM_16a6aaa02d_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.5.0.QJSMIXM
@@ -30734,7 +30734,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-01.03.2021/fw_merlin_miui_MERLINGlobal_V12.0.7.0.QJOMIXM_5bb2eb3059_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.7.0.QJOMIXM_5bb2eb3059_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V12.0.7.0.QJOMIXM_5bb2eb3059_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.7.0.QJOMIXM
@@ -30774,7 +30774,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-24.12.2020/fw_merlin_miui_MERLINGlobal_V12.0.6.0.QJOMIXM_b71510694a_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.6.0.QJOMIXM_b71510694a_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V12.0.6.0.QJOMIXM_b71510694a_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.6.0.QJOMIXM
@@ -30814,7 +30814,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-25.11.2020/fw_merlin_miui_MERLINGlobal_V12.0.5.0.QJOMIXM_426131c914_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.5.0.QJOMIXM_426131c914_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V12.0.5.0.QJOMIXM_426131c914_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.5.0.QJOMIXM
@@ -30844,7 +30844,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-24.09.2020/fw_merlin_miui_MERLINGlobal_V12.0.4.0.QJOMIXM_28548b32b7_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.4.0.QJOMIXM_28548b32b7_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V12.0.4.0.QJOMIXM_28548b32b7_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.4.0.QJOMIXM
@@ -30934,7 +30934,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-29.07.2020/fw_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V12.0.2.0.QJOMIXM
@@ -30994,7 +30994,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-22.06.2020/fw_merlin_miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/merlin/fw_merlin_miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V11.0.5.0.QJOMIXM_72fa6add5c_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V11.0.5.0.QJOMIXM
@@ -31024,7 +31024,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-03.06.2020/fw_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/merlin/fw_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip
   filename: fw_merlin_miui_MERLINGlobal_V11.0.4.0.QJOMIXM_4b19567529_10.0.zip
-  region: India
+  region: Global
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJOMIXM
@@ -51594,7 +51594,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-12.11.2020/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sakura/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
   filename: fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-  region: India
+  region: Global
   versions:
     android: '9.0'
     miui: V12.0.4.0.PDMMIXM
@@ -51604,7 +51604,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-12.11.2020/fw_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sakura/fw_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
   filename: fw_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-  region: India
+  region: Global
   versions:
     android: '9.0'
     miui: V12.0.4.0.PDMMIXM
@@ -51634,7 +51634,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-15.05.2020/fw_sakura-india_miui_HM6ProINGlobal_V11.0.7.0.PDMMIXM_245cc0a57f_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura-india_miui_HM6ProINGlobal_V11.0.7.0.PDMMIXM_245cc0a57f_9.0.zip
   filename: fw_sakura-india_miui_HM6ProINGlobal_V11.0.7.0.PDMMIXM_245cc0a57f_9.0.zip
-  region: India
+  region: Global
   versions:
     android: '9.0'
     miui: V11.0.7.0.PDMMIXM
@@ -51654,7 +51654,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-13.03.2020/fw_sakura-india_miui_HM6ProINGlobal_V11.0.6.0.PDMMIXM_fb838579ce_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura-india_miui_HM6ProINGlobal_V11.0.6.0.PDMMIXM_fb838579ce_9.0.zip
   filename: fw_sakura-india_miui_HM6ProINGlobal_V11.0.6.0.PDMMIXM_fb838579ce_9.0.zip
-  region: India
+  region: Global
   versions:
     android: '9.0'
     miui: V11.0.6.0.PDMMIXM
@@ -51684,7 +51684,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-27.12.2019/fw_sakura-india_miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura-india_miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip
   filename: fw_sakura-india_miui_HM6ProINGlobal_V11.0.5.0.PDMMIXM_9239c01830_9.0.zip
-  region: India
+  region: Global
   versions:
     android: '9.0'
     miui: V11.0.5.0.PDMMIXM
@@ -51774,7 +51774,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-14.11.2019/fw_sakura-india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/sakura/fw_sakura-india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
   filename: fw_sakura-india_miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip
-  region: India
+  region: Global
   versions:
     android: '9.0'
     miui: V11.0.3.0.PDMMIXM
@@ -51824,7 +51824,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-21.10.2019/fw_sakura_india_miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_india_miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip
   filename: fw_sakura_india_miui_HM6ProINGlobal_V10.3.8.0.PDMMIXM_e536e6effd_9.0.zip
-  region: India
+  region: Global
   versions:
     android: '9.0'
     miui: V10.3.8.0.PDMMIXM
@@ -51904,7 +51904,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-26.07.2019/fw_sakura_india_miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_india_miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip
   filename: fw_sakura_india_miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip
-  region: India
+  region: Global
   versions:
     android: '9.0'
     miui: V10.3.3.0.PDMMIXM
@@ -52014,7 +52014,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-05.06.2019/fw_sakura_miui_HM6ProINGlobal_V10.3.2.0.PDMMIXM_6d5eb47ddb_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_miui_HM6ProINGlobal_V10.3.2.0.PDMMIXM_6d5eb47ddb_9.0.zip
   filename: fw_sakura_miui_HM6ProINGlobal_V10.3.2.0.PDMMIXM_6d5eb47ddb_9.0.zip
-  region: India
+  region: Global
   versions:
     android: '9.0'
     miui: V10.3.2.0.PDMMIXM
@@ -52284,7 +52284,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-21.01.2019/fw_sakura_miui_HM6ProINGlobal_V10.2.4.0.ODMMIXM_fe921cb1af_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_miui_HM6ProINGlobal_V10.2.4.0.ODMMIXM_fe921cb1af_8.1.zip
   filename: fw_sakura_miui_HM6ProINGlobal_V10.2.4.0.ODMMIXM_fe921cb1af_8.1.zip
-  region: India
+  region: Global
   versions:
     android: '8.1'
     miui: V10.2.4.0.ODMMIXM
@@ -52424,7 +52424,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-05.12.2018/fw_sakura_miui_HM6ProINGlobal_V10.0.2.0.ODMMIFH_22a47536b5_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_miui_HM6ProINGlobal_V10.0.2.0.ODMMIFH_22a47536b5_8.1.zip
   filename: fw_sakura_miui_HM6ProINGlobal_V10.0.2.0.ODMMIFH_22a47536b5_8.1.zip
-  region: India
+  region: Global
   versions:
     android: '8.1'
     miui: V10.0.2.0.ODMMIFH
@@ -52464,7 +52464,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-20.11.2018/fw_sakura_miui_HM6ProINGlobal_V10.0.1.0.ODMMIFH_f873d9bf26_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_miui_HM6ProINGlobal_V10.0.1.0.ODMMIFH_f873d9bf26_8.1.zip
   filename: fw_sakura_miui_HM6ProINGlobal_V10.0.1.0.ODMMIFH_f873d9bf26_8.1.zip
-  region: India
+  region: Global
   versions:
     android: '8.1'
     miui: V10.0.1.0.ODMMIFH
@@ -52574,7 +52574,7 @@
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-08.10.2018/fw_sakura_miui_HM6ProINGlobal_V9.6.5.0.ODMMIFD_9d9b2bda1d_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/sakura/fw_sakura_miui_HM6ProINGlobal_V9.6.5.0.ODMMIFD_9d9b2bda1d_8.1.zip
   filename: fw_sakura_miui_HM6ProINGlobal_V9.6.5.0.ODMMIFD_9d9b2bda1d_8.1.zip
-  region: India
+  region: Global
   versions:
     android: '8.1'
     miui: V9.6.5.0.ODMMIFD

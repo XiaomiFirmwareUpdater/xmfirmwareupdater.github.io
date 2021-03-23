@@ -919,6 +919,16 @@
     android: '10.0'
     miui: V12.0.3.0.QJXINXM
 - branch: stable
+  date: '2021-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-18.02.2021/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.2.0.RJSMIXM
+- branch: stable
   date: '2021-03-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-02.03.2021/fw_gauguin_miui_GAUGUIN_V12.0.11.0.QJSCNXM_385dd84710_10.0.zip
@@ -1748,6 +1758,16 @@
   versions:
     android: '6.0'
     miui: 9.3.28
+- branch: stable
+  date: '2021-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_merlin/releases/download/stable-01.03.2021/fw_merlin_miui_MERLINGlobal_V12.0.7.0.QJOMIXM_5bb2eb3059_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.7.0.QJOMIXM_5bb2eb3059_10.0.zip
+  filename: fw_merlin_miui_MERLINGlobal_V12.0.7.0.QJOMIXM_5bb2eb3059_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QJOMIXM
 - branch: stable
   date: '2021-02-18'
   downloads:
@@ -2579,15 +2599,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2019-07-29'
+  date: '2020-11-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-17.09.2018/fw_sakura_miui_SAKURAINDIAGlobal_V9.6.4.0.ODMMIFD_17657b6588_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/sakura/fw_sakura_miui_SAKURAINDIAGlobal_V9.6.4.0.ODMMIFD_17657b6588_8.1.zip
-  filename: fw_sakura_miui_SAKURAINDIAGlobal_V9.6.4.0.ODMMIFD_17657b6588_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-12.11.2020/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sakura/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
+  filename: fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
   region: Global
   versions:
-    android: '8.1'
-    miui: V9.6.4.0.ODMMIFD
+    android: '9.0'
+    miui: V12.0.4.0.PDMMIXM
 - branch: stable
   date: '2020-08-06'
   downloads:
@@ -2608,16 +2628,6 @@
   versions:
     android: '9.0'
     miui: 20.1.9
-- branch: stable
-  date: '2020-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sakura/releases/download/stable-12.11.2020/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sakura/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-  filename: fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-  region: India
-  versions:
-    android: '9.0'
-    miui: V12.0.4.0.PDMMIXM
 - branch: stable
   date: '2019-11-15'
   downloads:
