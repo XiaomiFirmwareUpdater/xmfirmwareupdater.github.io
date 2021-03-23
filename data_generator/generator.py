@@ -114,16 +114,29 @@ def load_releases():
                 miui_version = filename.split('_')[-3]
                 android = filename.split('_')[-1].split('.zip')[0]
                 download_url = asset['browser_download_url']
-                if 'EEAGlobal' in filename or 'EU' in miui_version:
-                    region = 'Europe'
-                elif 'INGlobal' in filename or 'IN' in miui_version:
-                    region = 'India'
-                elif 'RUGlobal' in filename or 'RU' in miui_version:
-                    region = 'Russia'
-                elif 'Global' in filename or 'MI' in miui_version:
-                    region = 'Global'
+                if miui_version.startswith("V"):
+                    region_code = miui_version[-4:-2]
+                    if 'EU' in miui_version:
+                        region = 'Europe'
+                    elif 'IN' in miui_version:
+                        region = 'India'
+                    elif 'RU' in miui_version:
+                        region = 'Russia'
+                    elif 'MI' in miui_version:
+                        region = 'Global'
+                    else:
+                        region = 'China'
                 else:
-                    region = 'China'
+                    if 'EEAGlobal' in filename:
+                        region = 'Europe'
+                    elif 'INGlobal' in filename:
+                        region = 'India'
+                    elif 'RUGlobal' in filename:
+                        region = 'Russia'
+                    elif 'Global' in filename:
+                        region = 'Global'
+                    else:
+                        region = 'China'
                 osdn = 'https://osdn.net/projects/xiaomifirmwareupdater/storage/'
                 if branch == 'stable':
                     osdn += 'Stable/'
