@@ -52,7 +52,8 @@ permalink: /archive/miui/gauguin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.3.17</td><td>11.0</td><td>3.4 GB</td><td>2021-03-18</td><td><a href="/miui/gauguin/weekly/21.3.17/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RJSCNXM</td><td>11.0</td><td>3.2 GB</td><td>2021-03-24</td><td><a href="/miui/gauguin/stable beta/V12.0.2.0.RJSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.3.17</td><td>11.0</td><td>3.4 GB</td><td>2021-03-18</td><td><a href="/miui/gauguin/weekly/21.3.17/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.3.10</td><td>11.0</td><td>3.4 GB</td><td>2021-03-11</td><td><a href="/miui/gauguin/weekly/21.3.10/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.3.3</td><td>11.0</td><td>3.4 GB</td><td>2021-03-04</td><td><a href="/miui/gauguin/weekly/21.3.3/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.2.24</td><td>11.0</td><td>3.3 GB</td><td>2021-02-25</td><td><a href="/miui/gauguin/weekly/21.2.24/">Download</a></td></tr>
