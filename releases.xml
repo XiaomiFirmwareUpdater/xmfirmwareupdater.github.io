@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 25 Mar 2021 08:00:02 +0900</pubDate>
+  <pubDate>Thu, 25 Mar 2021 08:14:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.0.2.0.RJSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Thu, 25 Mar 2021 08:00:02 +0900</pubDate>
+    <pubDate>Thu, 25 Mar 2021 08:14:12 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 10 (mojito) - V12.0.4.0.RKGMIXM</title>
