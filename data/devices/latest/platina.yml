@@ -9,15 +9,15 @@
     android: '10.0'
     miui: V12.0.3.0.QDTMIXM
 - branch: stable
-  date: '2020-08-10'
+  date: '2021-03-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-10.08.2020/fw_platina_miui_MI8Lite_V12.0.1.0.QDTCNXM_48ff034b1e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/platina/fw_platina_miui_MI8Lite_V12.0.1.0.QDTCNXM_48ff034b1e_10.0.zip
-  filename: fw_platina_miui_MI8Lite_V12.0.1.0.QDTCNXM_48ff034b1e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_platina/releases/download/stable-25.03.2021/fw_platina_miui_MI8Lite_V12.0.2.0.QDTCNXM_2f3fece0c8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/platina/fw_platina_miui_MI8Lite_V12.0.2.0.QDTCNXM_2f3fece0c8_10.0.zip
+  filename: fw_platina_miui_MI8Lite_V12.0.2.0.QDTCNXM_2f3fece0c8_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QDTCNXM
+    miui: V12.0.2.0.QDTCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
