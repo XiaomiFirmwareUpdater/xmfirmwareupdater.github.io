@@ -54,8 +54,8 @@ permalink: /miui/vayu/
                 <tbody>
                 <tr><td>POCO X3 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.RJUEUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-03-18</td><td><a href="/miui/vayu/stable/V12.0.4.0.RJUEUXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.RJUEUXM</td><td>11.0</td><td>2.9 GB</td><td>2021-03-22</td><td><a href="/miui/vayu/stable/V12.0.4.0.RJUEUXM/">Download</a></td></tr>
-<tr><td>POCO X3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.RJUMIXM</td><td>11.0</td><td>342 Bytes</td><td>2021-03-21</td><td><a href="/miui/vayu/stable/V12.0.4.0.RJUMIXM/">Download</a></td></tr>
-<tr><td>POCO X3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.RJUMIXM</td><td>11.0</td><td>2.8 GB</td><td>None</td><td><a href="/miui/vayu/stable/V12.0.4.0.RJUMIXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.RJUMIXM</td><td>11.0</td><td>4.7 GB</td><td>2021-03-21</td><td><a href="/miui/vayu/stable/V12.0.4.0.RJUMIXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.RJUMIXM</td><td>11.0</td><td>2.8 GB</td><td>2021-03-26</td><td><a href="/miui/vayu/stable/V12.0.4.0.RJUMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
