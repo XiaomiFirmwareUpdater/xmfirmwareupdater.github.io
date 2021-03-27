@@ -1,11 +1,76 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 28 Mar 2021 03:39:17 +0900</pubDate>
+  <pubDate>Sun, 28 Mar 2021 07:30:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.3.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Sun, 28 Mar 2021 07:30:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.3.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Sun, 28 Mar 2021 07:25:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.3.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Sun, 28 Mar 2021 07:09:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.3.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Sun, 28 Mar 2021 06:50:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 21.3.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Sun, 28 Mar 2021 06:30:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.3.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Sun, 28 Mar 2021 06:13:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.3.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Sun, 28 Mar 2021 05:38:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - 21.3.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Sun, 28 Mar 2021 05:22:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9e (laurus) - 21.3.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
+    <pubDate>Sun, 28 Mar 2021 05:09:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 21.3.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Sun, 28 Mar 2021 04:55:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - 21.3.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Sun, 28 Mar 2021 04:40:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.3.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Sun, 28 Mar 2021 04:24:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - 21.3.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Sun, 28 Mar 2021 04:03:32 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 9 Pro 5G (crux) - 21.3.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
@@ -40,71 +105,6 @@
     <title>Redmi 10X Pro (bomb) - 21.3.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
     <pubDate>Sun, 28 Mar 2021 01:12:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 21.3.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Sun, 28 Mar 2021 01:00:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - 21.3.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Sun, 28 Mar 2021 00:49:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 21.3.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Sun, 28 Mar 2021 00:36:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - 21.3.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Sat, 27 Mar 2021 23:56:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Pro/POCO F3 Pro/Mi 11X Pro (haydn) - 21.3.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Sat, 27 Mar 2021 23:32:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.3.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Sat, 27 Mar 2021 20:34:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M2 (shiva) - V12.0.2.0.QJRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
-    <pubDate>Sat, 27 Mar 2021 01:21:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V12.0.2.0.QCPEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Sat, 27 Mar 2021 01:18:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V12.0.2.0.QCNEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Sat, 27 Mar 2021 01:16:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9 (cattail) - V12.0.8.0.QCTINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
-    <pubDate>Sat, 27 Mar 2021 01:13:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 Pro (vayu) - V12.0.4.0.RJUMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
-    <pubDate>Fri, 26 Mar 2021 20:47:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO C3 (angelicain) - V12.0.8.0.QCRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
-    <pubDate>Fri, 26 Mar 2021 19:44:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Lite (platina) - V12.0.2.0.QDTCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/platina</link>
-    <pubDate>Thu, 25 Mar 2021 21:45:02 +0900</pubDate>
   </item>
     </channel>
 </rss>
