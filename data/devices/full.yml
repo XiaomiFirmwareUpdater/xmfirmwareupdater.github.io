@@ -479,6 +479,16 @@
     android: '10.0'
     miui: V12.0.3.0.QCSEUXM
 - branch: weekly
+  date: '2021-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/weekly-27.03.2021/fw_apollo_miui_APOLLO_21.3.24_5143fdccf2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/apollo/fw_apollo_miui_APOLLO_21.3.24_5143fdccf2_11.0.zip
+  filename: fw_apollo_miui_APOLLO_21.3.24_5143fdccf2_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.24
+- branch: weekly
   date: '2021-03-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/weekly-18.03.2021/fw_apollo_miui_APOLLO_21.3.17_6f30206dd1_11.0.zip
@@ -1179,6 +1189,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: weekly
+  date: '2021-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/weekly-27.03.2021/fw_atom_miui_ATOM_21.3.24_a805360aaa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/atom/fw_atom_miui_ATOM_21.3.24_a805360aaa_11.0.zip
+  filename: fw_atom_miui_ATOM_21.3.24_a805360aaa_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.24
+- branch: weekly
   date: '2021-03-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/weekly-18.03.2021/fw_atom_miui_ATOM_21.3.18_e6585ed0d8_11.0.zip
@@ -1598,6 +1618,16 @@
   versions:
     android: '10.0'
     miui: V11.0.2.0.QJHCNXM
+- branch: weekly
+  date: '2021-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-27.03.2021/fw_begonia_miui_BEGONIA_21.3.24_c78e0a968c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/begonia/fw_begonia_miui_BEGONIA_21.3.24_c78e0a968c_11.0.zip
+  filename: fw_begonia_miui_BEGONIA_21.3.24_c78e0a968c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.24
 - branch: stable
   date: '2021-03-20'
   downloads:
@@ -19838,6 +19868,16 @@
   versions:
     android: '9.0'
     miui: V10.2.3.0.PFBCNXM
+- branch: weekly
+  date: '2021-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_haydn/releases/download/weekly-27.03.2021/fw_haydn_miui_HAYDN_21.3.24_3ed2fa051a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/haydn/fw_haydn_miui_HAYDN_21.3.24_3ed2fa051a_11.0.zip
+  filename: fw_haydn_miui_HAYDN_21.3.24_3ed2fa051a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.24
 - branch: weekly
   date: '2021-03-18'
   downloads:
@@ -64348,6 +64388,16 @@
   versions:
     android: '9.0'
     miui: V10.3.1.0.PFECNXM
+- branch: weekly
+  date: '2021-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_venus/releases/download/weekly-27.03.2021/fw_venus_miui_VENUS_21.3.24_013eac98f4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/venus/fw_venus_miui_VENUS_21.3.24_013eac98f4_11.0.zip
+  filename: fw_venus_miui_VENUS_21.3.24_013eac98f4_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.24
 - branch: weekly
   date: '2021-03-18'
   downloads:
