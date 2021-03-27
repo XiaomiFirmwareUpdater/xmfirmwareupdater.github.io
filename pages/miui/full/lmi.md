@@ -52,12 +52,15 @@ permalink: /archive/miui/lmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F2 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.5.0.RJKEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-03-18</td><td><a href="/miui/lmi/stable beta/V12.2.5.0.RJKEUXM/">Download</a></td></tr>
+                <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.3.25</td><td>11.0</td><td>3.9 GB</td><td>2021-03-26</td><td><a href="/miui/lmi/weekly/21.3.25/">Download</a></td></tr>
+<tr><td>POCO F2 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.5.0.RJKEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-03-18</td><td><a href="/miui/lmi/stable beta/V12.2.5.0.RJKEUXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.3.17</td><td>11.0</td><td>3.9 GB</td><td>2021-03-18</td><td><a href="/miui/lmi/weekly/21.3.17/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.5.0.RJKMIXM</td><td>11.0</td><td>3.0 GB</td><td>2021-03-12</td><td><a href="/miui/lmi/stable beta/V12.2.5.0.RJKMIXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.3.10</td><td>11.0</td><td>3.9 GB</td><td>2021-03-11</td><td><a href="/miui/lmi/weekly/21.3.10/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.3.3</td><td>11.0</td><td>3.8 GB</td><td>2021-03-04</td><td><a href="/miui/lmi/weekly/21.3.3/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.2.24</td><td>11.0</td><td>3.8 GB</td><td>2021-02-25</td><td><a href="/miui/lmi/weekly/21.2.24/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V12.2.1.0.RJKTRXM</td><td>11.0</td><td>3.1 GB</td><td>2021-02-23</td><td><a href="/miui/lmi/stable/V12.2.1.0.RJKTRXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.2.1.0.RJKTRXM</td><td>11.0</td><td>4.6 GB</td><td>2021-01-19</td><td><a href="/miui/lmi/stable/V12.2.1.0.RJKTRXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.2.4</td><td>11.0</td><td>3.9 GB</td><td>2021-02-04</td><td><a href="/miui/lmi/weekly/21.2.4/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.1.28</td><td>11.0</td><td>3.8 GB</td><td>2021-01-28</td><td><a href="/miui/lmi/weekly/21.1.28/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.2.3.0.RJKCNXM</td><td>11.0</td><td>3.5 GB</td><td>2021-01-28</td><td><a href="/miui/lmi/stable/V12.2.3.0.RJKCNXM/">Download</a></td></tr>
@@ -88,6 +91,7 @@ permalink: /archive/miui/lmi/
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.10.30</td><td>11.0</td><td>3.7 GB</td><td>2020-10-30</td><td><a href="/miui/lmi/weekly/20.10.30/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJKRUXM</td><td>10.0</td><td>3.0 GB</td><td>2020-10-29</td><td><a href="/miui/lmi/stable/V12.0.4.0.QJKRUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QJKRUXM</td><td>10.0</td><td>4.7 GB</td><td>2020-10-19</td><td><a href="/miui/lmi/stable/V12.0.4.0.QJKRUXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QJKTRXM</td><td>10.0</td><td>3.0 GB</td><td>2020-10-29</td><td><a href="/miui/lmi/stable beta/V12.0.3.0.QJKTRXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.10.29</td><td>11.0</td><td>3.7 GB</td><td>2020-10-29</td><td><a href="/miui/lmi/weekly/20.10.29/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.10.22</td><td>11.0</td><td>3.7 GB</td><td>2020-10-23</td><td><a href="/miui/lmi/weekly/20.10.22/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.10.15</td><td>11.0</td><td>3.6 GB</td><td>2020-10-15</td><td><a href="/miui/lmi/weekly/20.10.15/">Download</a></td></tr>
@@ -100,9 +104,9 @@ permalink: /archive/miui/lmi/
 <tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QJKIDXM</td><td>10.0</td><td>4.7 GB</td><td>2020-09-23</td><td><a href="/miui/lmi/stable/V12.0.4.0.QJKIDXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.9.24</td><td>11.0</td><td>3.5 GB</td><td>2020-09-24</td><td><a href="/miui/lmi/weekly/20.9.24/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.9.17</td><td>11.0</td><td>3.5 GB</td><td>2020-09-17</td><td><a href="/miui/lmi/weekly/20.9.17/">Download</a></td></tr>
-<tr><td>Redmi K30 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.2.0.RJKCNXM</td><td>11.0</td><td>3.5 GB</td><td>2020-09-08</td><td><a href="/miui/lmi/stable beta/V12.1.2.0.RJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.9.0.QJKCNXM</td><td>10.0</td><td>3.4 GB</td><td>2020-09-11</td><td><a href="/miui/lmi/stable/V12.0.9.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.0.9.0.QJKCNXM</td><td>10.0</td><td>4.6 GB</td><td>2020-09-07</td><td><a href="/miui/lmi/stable/V12.0.9.0.QJKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.2.0.RJKCNXM</td><td>11.0</td><td>3.5 GB</td><td>2020-09-08</td><td><a href="/miui/lmi/stable beta/V12.1.2.0.RJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.9.3</td><td>11.0</td><td>3.5 GB</td><td>2020-09-04</td><td><a href="/miui/lmi/weekly/20.9.3/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.8.20</td><td>11.0</td><td>3.5 GB</td><td>2020-08-20</td><td><a href="/miui/lmi/weekly/20.8.20/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QJKRUXM</td><td>10.0</td><td>3.0 GB</td><td>2020-08-17</td><td><a href="/miui/lmi/stable/V12.0.3.0.QJKRUXM/">Download</a></td></tr>
@@ -121,15 +125,15 @@ permalink: /archive/miui/lmi/
 <tr><td>Redmi K30 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QJKCNXM</td><td>10.0</td><td>3.4 GB</td><td>2020-07-30</td><td><a href="/miui/lmi/stable beta/V12.0.5.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJKCNXM</td><td>10.0</td><td>3.3 GB</td><td>2020-07-20</td><td><a href="/miui/lmi/stable/V12.0.4.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJKCNXM</td><td>10.0</td><td>3.3 GB</td><td>2020-07-09</td><td><a href="/miui/lmi/stable/V12.0.2.0.QJKCNXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJKMIXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-24</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKMIXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJKMIXM</td><td>10.0</td><td>4.6 GB</td><td>2020-07-18</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKMIXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJKRUXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-24</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKRUXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJKRUXM</td><td>10.0</td><td>4.7 GB</td><td>2020-07-19</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKRUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJKIDXM</td><td>10.0</td><td>4.7 GB</td><td>2020-07-09</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKIDXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJKIDXM</td><td>10.0</td><td>3.0 GB</td><td>2020-07-20</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKIDXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>10.0</td><td>3.6 GB</td><td>2020-07-09</td><td><a href="/miui/lmi/weekly/20.7.9/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.3</td><td>10.0</td><td>3.6 GB</td><td>2020-07-04</td><td><a href="/miui/lmi/weekly/20.7.3/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.7.2</td><td>10.0</td><td>3.6 GB</td><td>2020-07-02</td><td><a href="/miui/lmi/weekly/20.7.2/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJKMIXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-24</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKMIXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJKMIXM</td><td>10.0</td><td>4.6 GB</td><td>2020-07-18</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKMIXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJKRUXM</td><td>10.0</td><td>2.9 GB</td><td>2020-07-24</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKRUXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJKRUXM</td><td>10.0</td><td>4.7 GB</td><td>2020-07-19</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKRUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJKMIXM</td><td>10.0</td><td>2.7 GB</td><td>2020-05-28</td><td><a href="/miui/lmi/stable/V11.0.2.0.QJKMIXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QJKMIXM</td><td>10.0</td><td>4.4 GB</td><td>2020-05-09</td><td><a href="/miui/lmi/stable/V11.0.2.0.QJKMIXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>20.5.21</td><td>10.0</td><td>3.4 GB</td><td>2020-05-21</td><td><a href="/miui/lmi/weekly/20.5.21/">Download</a></td></tr>
@@ -143,11 +147,11 @@ permalink: /archive/miui/lmi/
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.16.0.QJKCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-04-24</td><td><a href="/miui/lmi/stable/V11.0.16.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.16.0.QJKCNXM</td><td>10.0</td><td>4.2 GB</td><td>2020-04-20</td><td><a href="/miui/lmi/stable/V11.0.16.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.14.0.QJKCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-04-08</td><td><a href="/miui/lmi/stable/V11.0.14.0.QJKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.15.0.QJKCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-04-16</td><td><a href="/miui/lmi/stable/V11.0.15.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.12.0.QJKCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-03-30</td><td><a href="/miui/lmi/stable/V11.0.12.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.12.0.QJKCNXM</td><td>10.0</td><td>4.2 GB</td><td>2020-03-27</td><td><a href="/miui/lmi/stable/V11.0.12.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.QJKCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-03-27</td><td><a href="/miui/lmi/stable/V11.0.10.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Fastboot</td><td>V11.0.10.0.QJKCNXM</td><td>10.0</td><td>4.2 GB</td><td>2020-03-24</td><td><a href="/miui/lmi/stable/V11.0.10.0.QJKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V11.0.15.0.QJKCNXM</td><td>10.0</td><td>3.1 GB</td><td>2020-04-16</td><td><a href="/miui/lmi/stable/V11.0.15.0.QJKCNXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJKEUXM</td><td>10.0</td><td>3.0 GB</td><td>2020-07-14</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKEUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJKEUXM</td><td>10.0</td><td>4.7 GB</td><td>2020-07-09</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKEUXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJKCNXM</td><td>10.0</td><td>3.5 GB</td><td>2020-06-17</td><td><a href="/miui/lmi/stable/V12.0.1.0.QJKCNXM/">Download</a></td></tr>

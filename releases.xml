@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 27 Mar 2021 01:21:05 +0900</pubDate>
+  <pubDate>Sat, 27 Mar 2021 20:34:28 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.3.24</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Sat, 27 Mar 2021 20:34:28 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M2 (shiva) - V12.0.2.0.QJRINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
@@ -100,11 +105,6 @@
     <title>Redmi Y3 (onc) - V11.0.2.0.QFLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
     <pubDate>Sat, 20 Mar 2021 19:41:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V12.0.7.0.QGGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Sat, 20 Mar 2021 19:27:16 +0900</pubDate>
   </item>
     </channel>
 </rss>
