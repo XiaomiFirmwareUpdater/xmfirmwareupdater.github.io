@@ -52,7 +52,8 @@ permalink: /archive/miui/lancelot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJCCNXM</td><td>10.0</td><td>2.4 GB</td><td>2021-02-26</td><td><a href="/miui/lancelot/stable/V12.0.7.0.QJCCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 9 Prime India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QJCINXM</td><td>10.0</td><td>2.0 GB</td><td>2021-03-28</td><td><a href="/miui/lancelot/stable beta/V12.0.2.0.QJCINXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJCCNXM</td><td>10.0</td><td>2.4 GB</td><td>2021-02-26</td><td><a href="/miui/lancelot/stable/V12.0.7.0.QJCCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QJCCNXM</td><td>10.0</td><td>3.1 GB</td><td>2021-02-22</td><td><a href="/miui/lancelot/stable/V12.0.7.0.QJCCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJCRUXM</td><td>10.0</td><td>2.0 GB</td><td>2021-02-22</td><td><a href="/miui/lancelot/stable/V12.0.2.0.QJCRUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJCRUXM</td><td>10.0</td><td>3.7 GB</td><td>2021-02-09</td><td><a href="/miui/lancelot/stable/V12.0.2.0.QJCRUXM/">Download</a></td></tr>
