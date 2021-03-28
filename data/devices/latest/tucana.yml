@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.1.5.0.RFDCNXM
 - branch: weekly
-  date: '2021-03-18'
+  date: '2021-03-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-18.03.2021/fw_tucana_miui_TUCANA_21.3.18_89735c7d4d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.18/tucana/fw_tucana_miui_TUCANA_21.3.18_89735c7d4d_11.0.zip
-  filename: fw_tucana_miui_TUCANA_21.3.18_89735c7d4d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-28.03.2021/fw_tucana_miui_TUCANA_21.3.24_495a60b513_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/tucana/fw_tucana_miui_TUCANA_21.3.24_495a60b513_11.0.zip
+  filename: fw_tucana_miui_TUCANA_21.3.24_495a60b513_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.18
+    miui: 21.3.24
 - branch: stable
   date: '2021-02-21'
   downloads:
