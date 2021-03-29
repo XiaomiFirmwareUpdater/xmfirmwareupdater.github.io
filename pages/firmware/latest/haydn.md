@@ -1,7 +1,7 @@
 ---
-title: Redmi K40 Pro/POCO F3 Pro/Mi 11X Pro (haydn) Firmware Downloads
+title: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) Firmware Downloads
 layout: download
-name: Redmi K40 Pro/POCO F3 Pro/Mi 11X Pro
+name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
 codename: haydn
 permalink: /firmware/haydn/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/haydn/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/haydn/">Redmi K40 Pro/POCO F3 Pro/Mi 11X Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/haydn/">Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

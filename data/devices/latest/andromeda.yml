@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-01-22'
+  date: '2021-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-22.01.2021/fw_andromeda_miui_ANDROMEDAGlobal_V12.0.3.0.PEMMIXM_232c52b53a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/andromeda/fw_andromeda_miui_ANDROMEDAGlobal_V12.0.3.0.PEMMIXM_232c52b53a_9.0.zip
-  filename: fw_andromeda_miui_ANDROMEDAGlobal_V12.0.3.0.PEMMIXM_232c52b53a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_andromeda/releases/download/stable-29.03.2021/fw_andromeda_miui_ANDROMEDAGlobal_V12.0.4.0.PEMMIXM_9ac8cec738_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/andromeda/fw_andromeda_miui_ANDROMEDAGlobal_V12.0.4.0.PEMMIXM_9ac8cec738_9.0.zip
+  filename: fw_andromeda_miui_ANDROMEDAGlobal_V12.0.4.0.PEMMIXM_9ac8cec738_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V12.0.3.0.PEMMIXM
+    miui: V12.0.4.0.PEMMIXM
 - branch: stable
   date: '2019-11-22'
   downloads:
