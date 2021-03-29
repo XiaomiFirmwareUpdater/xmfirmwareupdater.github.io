@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 29 Mar 2021 07:09:23 +0900</pubDate>
+  <pubDate>Mon, 29 Mar 2021 07:10:18 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.2.0.QJCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Mon, 29 Mar 2021 07:09:23 +0900</pubDate>
+    <pubDate>Mon, 29 Mar 2021 07:10:18 +0900</pubDate>
   </item>
     <item>
     <title>Mi 10S (thyme) - V12.0.10.0.RGACNXM</title>
