@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 29 Mar 2021 07:10:18 +0900</pubDate>
+  <pubDate>Mon, 29 Mar 2021 15:36:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.8.0.QJQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 29 Mar 2021 15:36:42 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.2.0.QJCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.3.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
     <pubDate>Sun, 28 Mar 2021 04:24:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 21.3.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Sun, 28 Mar 2021 04:03:32 +0900</pubDate>
   </item>
     </channel>
 </rss>
