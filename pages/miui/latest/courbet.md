@@ -1,15 +1,15 @@
 ---
-title: Mi MIX 3 5G (andromeda) MIUI Downloads
+title: Mi 11 Lite 4G (courbet) MIUI Downloads
 layout: download
-name: Mi MIX 3 5G
-codename: andromeda
-permalink: /miui/andromeda/
+name: Mi 11 Lite 4G
+codename: courbet
+permalink: /miui/courbet/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/andromeda/">Mi MIX 3 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/courbet/">Mi 11 Lite 4G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/andromeda/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/andromeda/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/andromeda/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/andromeda/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/courbet/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/courbet/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/courbet/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,11 @@ permalink: /miui/andromeda/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi MIX 3 5G China</td><td>Stable</td><td>Fastboot</td><td>V10.3.17.0.PEMCNXM</td><td>9.0</td><td>2.4 GB</td><td>2019-08-01</td><td><a href="/miui/andromeda/stable/V10.3.17.0.PEMCNXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G China</td><td>Stable</td><td>Recovery</td><td>V10.3.18.0.PEMCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-22</td><td><a href="/miui/andromeda/stable/V10.3.18.0.PEMCNXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.PEMEUXM</td><td>9.0</td><td>2.9 GB</td><td>2021-02-25</td><td><a href="/miui/andromeda/stable/V12.0.4.0.PEMEUXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.PEMEUXM</td><td>9.0</td><td>2.5 GB</td><td>2021-03-03</td><td><a href="/miui/andromeda/stable/V12.0.4.0.PEMEUXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.PEMMIXM</td><td>9.0</td><td>2.9 GB</td><td>2021-03-24</td><td><a href="/miui/andromeda/stable/V12.0.4.0.PEMMIXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G Global</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.PEMMIXM</td><td>9.0</td><td>2.4 GB</td><td>2021-03-29</td><td><a href="/miui/andromeda/stable/V12.0.4.0.PEMMIXM/">Download</a></td></tr>
-<tr><td>Mi MIX 3 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.PEMMIXM</td><td>9.0</td><td>2.5 GB</td><td>2020-12-23</td><td><a href="/miui/andromeda/stable beta/V12.0.2.0.PEMMIXM/">Download</a></td></tr>
+                <tr><td>Mi 11 Lite 4G EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKQEUXM</td><td>11.0</td><td>4.5 GB</td><td>2021-02-03</td><td><a href="/miui/courbet/stable/V12.0.2.0.RKQEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKQEUXM</td><td>11.0</td><td>2.9 GB</td><td>2021-03-31</td><td><a href="/miui/courbet/stable/V12.0.2.0.RKQEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKQMIXM</td><td>11.0</td><td>4.4 GB</td><td>2021-01-30</td><td><a href="/miui/courbet/stable/V12.0.3.0.RKQMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G Global</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKQMIXM</td><td>11.0</td><td>2.8 GB</td><td>2021-03-31</td><td><a href="/miui/courbet/stable/V12.0.3.0.RKQMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RKQMIXM</td><td>11.0</td><td>2.8 GB</td><td>2021-03-31</td><td><a href="/miui/courbet/stable beta/V12.0.2.0.RKQMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

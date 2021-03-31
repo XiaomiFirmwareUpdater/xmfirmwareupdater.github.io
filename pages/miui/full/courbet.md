@@ -1,15 +1,15 @@
 ---
-title: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) MIUI Downloads
+title: Mi 11 Lite 4G (courbet) MIUI Downloads
 layout: download
-name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
-codename: haydn
-permalink: /archive/miui/haydn/
+name: Mi 11 Lite 4G
+codename: courbet
+permalink: /archive/miui/courbet/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/haydn/">Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/courbet/">Mi 11 Lite 4G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/miui/haydn/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/miui/haydn/" class="card-link">Latest MIUI</a>
-    <a href="/firmware/haydn/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/haydn/" class="card-link">Vendor Downloads</a>
+    <a href="/miui/courbet/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/courbet/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/courbet/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,12 +52,11 @@ permalink: /archive/miui/haydn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.8.0.RKKCNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-03-30</td><td><a href="/miui/haydn/stable beta/V12.0.8.0.RKKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40 Pro / Pro+ China</td><td>Weekly</td><td>Recovery</td><td>21.3.24</td><td>11.0</td><td>4.1 GB</td><td>2021-03-24</td><td><a href="/miui/haydn/weekly/21.3.24/">Download</a></td></tr>
-<tr><td>Redmi K40 Pro / Pro+ China</td><td>Weekly</td><td>Recovery</td><td>21.3.17</td><td>11.0</td><td>4.1 GB</td><td>2021-03-18</td><td><a href="/miui/haydn/weekly/21.3.17/">Download</a></td></tr>
-<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.RKKCNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-03-14</td><td><a href="/miui/haydn/stable/V12.0.5.0.RKKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.RKKCNXM</td><td>11.0</td><td>5.2 GB</td><td>2021-03-09</td><td><a href="/miui/haydn/stable/V12.0.5.0.RKKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.RKKCNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-03-03</td><td><a href="/miui/haydn/stable beta/V12.0.3.0.RKKCNXM/">Download</a></td></tr>
+                <tr><td>Mi 11 Lite 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RKQMIXM</td><td>11.0</td><td>2.8 GB</td><td>2021-03-31</td><td><a href="/miui/courbet/stable beta/V12.0.2.0.RKQMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G Global</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKQMIXM</td><td>11.0</td><td>2.8 GB</td><td>2021-03-31</td><td><a href="/miui/courbet/stable/V12.0.3.0.RKQMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKQMIXM</td><td>11.0</td><td>4.4 GB</td><td>2021-01-30</td><td><a href="/miui/courbet/stable/V12.0.3.0.RKQMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKQEUXM</td><td>11.0</td><td>2.9 GB</td><td>2021-03-31</td><td><a href="/miui/courbet/stable/V12.0.2.0.RKQEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKQEUXM</td><td>11.0</td><td>4.5 GB</td><td>2021-02-03</td><td><a href="/miui/courbet/stable/V12.0.2.0.RKQEUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
