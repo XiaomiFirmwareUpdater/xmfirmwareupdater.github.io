@@ -69,8 +69,8 @@ permalink: /miui/umi/
 <tr><td>Mi 10 India</td><td>Stable</td><td>Fastboot</td><td>V12.2.5.0.RJBINXM</td><td>11.0</td><td>3.9 GB</td><td>2021-01-05</td><td><a href="/miui/umi/stable/V12.2.5.0.RJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable</td><td>Recovery</td><td>V12.2.5.0.RJBINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-01-09</td><td><a href="/miui/umi/stable/V12.2.5.0.RJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.6.0.RJBINXM</td><td>11.0</td><td>3.0 GB</td><td>2021-02-25</td><td><a href="/miui/umi/stable beta/V12.2.6.0.RJBINXM/">Download</a></td></tr>
-<tr><td>Mi 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.2.2.0.RJBTRXM</td><td>11.0</td><td>4.6 GB</td><td>2021-01-20</td><td><a href="/miui/umi/stable/V12.2.2.0.RJBTRXM/">Download</a></td></tr>
-<tr><td>Mi 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.2.2.0.RJBTRXM</td><td>11.0</td><td>3.1 GB</td><td>2021-02-22</td><td><a href="/miui/umi/stable/V12.2.2.0.RJBTRXM/">Download</a></td></tr>
+<tr><td>Mi 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.2.3.0.RJBTRXM</td><td>11.0</td><td>4.5 GB</td><td>2021-03-11</td><td><a href="/miui/umi/stable/V12.2.3.0.RJBTRXM/">Download</a></td></tr>
+<tr><td>Mi 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.2.3.0.RJBTRXM</td><td>11.0</td><td>3.1 GB</td><td>2021-04-01</td><td><a href="/miui/umi/stable/V12.2.3.0.RJBTRXM/">Download</a></td></tr>
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QJBRUXM</td><td>10.0</td><td>4.6 GB</td><td>2020-07-28</td><td><a href="/miui/umi/stable/V12.0.1.0.QJBRUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QJBRUXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-06</td><td><a href="/miui/umi/stable/V12.0.1.0.QJBRUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QJBTRXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-06</td><td><a href="/miui/umi/stable beta/V12.0.1.0.QJBTRXM/">Download</a></td></tr>
