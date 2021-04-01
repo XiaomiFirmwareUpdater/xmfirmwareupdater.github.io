@@ -52,7 +52,8 @@ permalink: /archive/miui/begonia/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.3.24</td><td>11.0</td><td>2.4 GB</td><td>2021-03-24</td><td><a href="/miui/begonia/weekly/21.3.24/">Download</a></td></tr>
+                <tr><td>Redmi Note 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.3.31</td><td>11.0</td><td>2.4 GB</td><td>2021-04-01</td><td><a href="/miui/begonia/weekly/21.3.31/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.3.24</td><td>11.0</td><td>2.4 GB</td><td>2021-03-24</td><td><a href="/miui/begonia/weekly/21.3.24/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.3.10</td><td>11.0</td><td>2.4 GB</td><td>2021-03-11</td><td><a href="/miui/begonia/weekly/21.3.10/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QGGMIXM</td><td>10.0</td><td>2.3 GB</td><td>2021-03-11</td><td><a href="/miui/begonia/stable/V12.0.7.0.QGGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QGGMIXM</td><td>10.0</td><td>4.4 GB</td><td>2021-03-09</td><td><a href="/miui/begonia/stable/V12.0.7.0.QGGMIXM/">Download</a></td></tr>

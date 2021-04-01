@@ -52,7 +52,8 @@ permalink: /archive/miui/ginkgo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.3.24</td><td>11.0</td><td>2.8 GB</td><td>2021-03-24</td><td><a href="/miui/ginkgo/weekly/21.3.24/">Download</a></td></tr>
+                <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.3.31</td><td>11.0</td><td>2.8 GB</td><td>2021-04-01</td><td><a href="/miui/ginkgo/weekly/21.3.31/">Download</a></td></tr>
+<tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.3.24</td><td>11.0</td><td>2.8 GB</td><td>2021-03-24</td><td><a href="/miui/ginkgo/weekly/21.3.24/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.3.17</td><td>11.0</td><td>2.8 GB</td><td>2021-03-18</td><td><a href="/miui/ginkgo/weekly/21.3.17/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCOIDXM</td><td>10.0</td><td>2.4 GB</td><td>2021-03-16</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.QCOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCOIDXM</td><td>10.0</td><td>4.0 GB</td><td>2021-03-06</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.QCOIDXM/">Download</a></td></tr>
