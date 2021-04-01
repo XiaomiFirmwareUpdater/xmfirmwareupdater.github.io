@@ -20058,6 +20058,16 @@
   versions:
     android: '9.0'
     miui: V10.2.3.0.PFBCNXM
+- branch: weekly
+  date: '2021-04-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_haydn/releases/download/weekly-01.04.2021/fw_haydn_miui_HAYDN_21.4.1_ec4b13ac3e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.1/haydn/fw_haydn_miui_HAYDN_21.4.1_ec4b13ac3e_11.0.zip
+  filename: fw_haydn_miui_HAYDN_21.4.1_ec4b13ac3e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.1
 - branch: stable
   date: '2021-03-31'
   downloads:
@@ -57128,6 +57138,16 @@
   versions:
     android: '11.0'
     miui: V12.0.1.0.RKFINXM
+- branch: weekly
+  date: '2021-04-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_thyme/releases/download/weekly-01.04.2021/fw_thyme_miui_THYME_21.3.31_f0d030a150_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/thyme/fw_thyme_miui_THYME_21.3.31_f0d030a150_11.0.zip
+  filename: fw_thyme_miui_THYME_21.3.31_f0d030a150_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.31
 - branch: stable
   date: '2021-03-28'
   downloads:
@@ -64768,6 +64788,16 @@
   versions:
     android: '9.0'
     miui: V10.3.1.0.PFECNXM
+- branch: weekly
+  date: '2021-04-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_venus/releases/download/weekly-01.04.2021/fw_venus_miui_VENUS_21.3.31_38224bf3f6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/venus/fw_venus_miui_VENUS_21.3.31_38224bf3f6_11.0.zip
+  filename: fw_venus_miui_VENUS_21.3.31_38224bf3f6_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.31
 - branch: stable
   date: '2021-03-30'
   downloads:
