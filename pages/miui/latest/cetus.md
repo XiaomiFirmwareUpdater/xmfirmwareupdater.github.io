@@ -1,15 +1,15 @@
 ---
-title: Mi 11 Pro/Ultra/Mi 11 Ultra (star) MIUI Downloads
+title: Mi MIX Fold (cetus) MIUI Downloads
 layout: download
-name: Mi 11 Pro/Ultra/Mi 11 Ultra
-codename: star
-permalink: /miui/star/
+name: Mi MIX Fold
+codename: cetus
+permalink: /miui/cetus/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/star/">Mi 11 Pro/Ultra/Mi 11 Ultra</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cetus/">Mi MIX Fold</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/star/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/star/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/star/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/star/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/cetus/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/cetus/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/cetus/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,8 +52,7 @@ permalink: /miui/star/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 Pro / Ultra China</td><td>Stable Beta</td><td>Fastboot</td><td>V12.0.9.0.RKACNXM</td><td>11.0</td><td>5.6 GB</td><td>2021-03-27</td><td><a href="/miui/star/stable beta/V12.0.9.0.RKACNXM/">Download</a></td></tr>
-<tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.0.9.0.RKACNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-04-02</td><td><a href="/miui/star/stable/V12.0.9.0.RKACNXM/">Download</a></td></tr>
+                <tr><td>Mi MIX Fold China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.RJTCNXM</td><td>11.0</td><td>5.4 GB</td><td>2021-03-27</td><td><a href="/miui/cetus/stable/V12.0.5.0.RJTCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
