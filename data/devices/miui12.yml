@@ -4560,6 +4560,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: vangogh
+  date: '2021-04-01'
+  download: https://bigota.d.miui.com/21.3.31/miui_VANGOGH_21.3.31_7a77eee9c3_11.0.zip
+  name: Mi 10 Lite Zoom
+  version: 21.3.31
+- android: '11.0'
+  codename: vangogh
   date: '2020-12-31'
   download: https://bigota.d.miui.com/20.12.28/miui_VANGOGH_20.12.28_2ab2c274a3_11.0.zip
   name: Mi 10 Lite Zoom
@@ -4696,6 +4702,12 @@
   download: https://bigota.d.miui.com/20.5.28/miui_VANGOGH_20.5.28_a9be7baead_10.0.zip
   name: Mi 10 Lite Zoom
   version: 20.5.28
+- android: '11.0'
+  codename: vela
+  date: '2021-04-01'
+  download: https://bigota.d.miui.com/21.4.1/miui_VELA_21.4.1_9df0982fdc_11.0.zip
+  name: Mi CC 9 Meitu Edition
+  version: 21.4.1
 - android: '10.0'
   codename: vela
   date: '2020-12-10'
@@ -4888,6 +4900,12 @@
   download: https://bigota.d.miui.com/21.3.31/miui_VENUS_21.3.31_38224bf3f6_11.0.zip
   name: Mi 11
   version: 21.3.31
+- android: '10.0'
+  codename: violet
+  date: '2021-04-01'
+  download: https://bigota.d.miui.com/21.4.1/miui_VIOLET_21.4.1_cdab64722a_10.0.zip
+  name: Redmi Note 7 Pro
+  version: 21.4.1
 - android: '10.0'
   codename: violet
   date: '2020-12-31'

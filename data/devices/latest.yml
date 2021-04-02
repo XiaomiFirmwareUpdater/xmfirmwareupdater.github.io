@@ -3119,15 +3119,15 @@
     android: '11.0'
     miui: V12.1.5.0.RJVCNXM
 - branch: weekly
-  date: '2021-03-28'
+  date: '2021-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-28.03.2021/fw_vangogh_miui_VANGOGH_21.3.24_18884d821e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/vangogh/fw_vangogh_miui_VANGOGH_21.3.24_18884d821e_11.0.zip
-  filename: fw_vangogh_miui_VANGOGH_21.3.24_18884d821e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-01.04.2021/fw_vangogh_miui_VANGOGH_21.3.31_7a77eee9c3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/vangogh/fw_vangogh_miui_VANGOGH_21.3.31_7a77eee9c3_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_21.3.31_7a77eee9c3_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.24
+    miui: 21.3.31
 - branch: stable
   date: '2021-03-26'
   downloads:
@@ -3169,15 +3169,15 @@
     android: '10.0'
     miui: V12.0.3.0.QFECNXM
 - branch: weekly
-  date: '2021-03-28'
+  date: '2021-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-28.03.2021/fw_vela_miui_VELA_21.3.24_0a1835abd1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/vela/fw_vela_miui_VELA_21.3.24_0a1835abd1_11.0.zip
-  filename: fw_vela_miui_VELA_21.3.24_0a1835abd1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-02.04.2021/fw_vela_miui_VELA_21.4.1_9df0982fdc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.1/vela/fw_vela_miui_VELA_21.4.1_9df0982fdc_11.0.zip
+  filename: fw_vela_miui_VELA_21.4.1_9df0982fdc_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.3.24
+    miui: 21.4.1
 - branch: stable
   date: '2021-03-09'
   downloads:
@@ -3269,15 +3269,15 @@
     android: '10.0'
     miui: V12.0.3.0.QFHCNXM
 - branch: weekly
-  date: '2021-03-28'
+  date: '2021-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-28.03.2021/fw_violet_miui_VIOLET_21.3.25_4f306a409d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.25/violet/fw_violet_miui_VIOLET_21.3.25_4f306a409d_10.0.zip
-  filename: fw_violet_miui_VIOLET_21.3.25_4f306a409d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_violet/releases/download/weekly-02.04.2021/fw_violet_miui_VIOLET_21.4.1_cdab64722a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.1/violet/fw_violet_miui_VIOLET_21.4.1_cdab64722a_10.0.zip
+  filename: fw_violet_miui_VIOLET_21.4.1_cdab64722a_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 21.3.25
+    miui: 21.4.1
 - branch: stable
   date: '2021-01-17'
   downloads:
