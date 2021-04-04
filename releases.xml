@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 04 Apr 2021 13:46:46 +0900</pubDate>
+  <pubDate>Sun, 04 Apr 2021 19:50:25 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.0.9.0.RKACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Sun, 04 Apr 2021 13:46:46 +0900</pubDate>
+    <pubDate>Sun, 04 Apr 2021 19:50:25 +0900</pubDate>
   </item>
     <item>
     <title>Mi 10 Pro (cmi) - V12.5.3.0.RJACNXM</title>
