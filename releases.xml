@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 04 Apr 2021 19:50:25 +0900</pubDate>
+  <pubDate>Mon, 05 Apr 2021 02:47:26 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,12 @@
     <item>
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.0.9.0.RKACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Sun, 04 Apr 2021 19:50:25 +0900</pubDate>
+    <pubDate>Mon, 05 Apr 2021 02:47:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 (mojito) - V12.0.5.0.RKGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
+    <pubDate>Mon, 05 Apr 2021 02:09:32 +0900</pubDate>
   </item>
     <item>
     <title>Mi 10 Pro (cmi) - V12.5.3.0.RJACNXM</title>
@@ -100,11 +105,6 @@
     <title>POCO X3 Pro (vayu) - V12.0.4.0.RJUINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
     <pubDate>Fri, 02 Apr 2021 02:38:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 21.4.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Fri, 02 Apr 2021 02:29:19 +0900</pubDate>
   </item>
     </channel>
 </rss>
