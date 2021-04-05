@@ -63,9 +63,8 @@ permalink: /miui/surya/
 <tr><td>POCO X3 NFC Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QJGIDXM</td><td>10.0</td><td>2.4 GB</td><td>2020-12-22</td><td><a href="/miui/surya/stable beta/V12.0.5.0.QJGIDXM/">Download</a></td></tr>
 <tr><td>POCO X3 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.9.0.QJGINXM</td><td>10.0</td><td>2.9 GB</td><td>2021-02-02</td><td><a href="/miui/surya/stable/V12.0.9.0.QJGINXM/">Download</a></td></tr>
 <tr><td>POCO X3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.9.0.QJGINXM</td><td>10.0</td><td>2.4 GB</td><td>2021-02-18</td><td><a href="/miui/surya/stable/V12.0.9.0.QJGINXM/">Download</a></td></tr>
-<tr><td>POCO X3 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJGRUXM</td><td>10.0</td><td>4.1 GB</td><td>2021-02-21</td><td><a href="/miui/surya/stable/V12.0.6.0.QJGRUXM/">Download</a></td></tr>
-<tr><td>POCO X3 NFC Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJGRUXM</td><td>10.0</td><td>2.4 GB</td><td>2021-03-01</td><td><a href="/miui/surya/stable/V12.0.6.0.QJGRUXM/">Download</a></td></tr>
-<tr><td>POCO X3 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.7.0.QJGRUXM</td><td>10.0</td><td>2.4 GB</td><td>2021-03-30</td><td><a href="/miui/surya/stable beta/V12.0.7.0.QJGRUXM/">Download</a></td></tr>
+<tr><td>POCO X3 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QJGRUXM</td><td>10.0</td><td>4.2 GB</td><td>2021-03-10</td><td><a href="/miui/surya/stable/V12.0.7.0.QJGRUXM/">Download</a></td></tr>
+<tr><td>POCO X3 NFC Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJGRUXM</td><td>10.0</td><td>2.4 GB</td><td>2021-03-30</td><td><a href="/miui/surya/stable/V12.0.7.0.QJGRUXM/">Download</a></td></tr>
 <tr><td>POCO X3 NFC Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJGTRXM</td><td>10.0</td><td>3.8 GB</td><td>2021-02-22</td><td><a href="/miui/surya/stable/V12.0.6.0.QJGTRXM/">Download</a></td></tr>
 <tr><td>POCO X3 NFC Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJGTRXM</td><td>10.0</td><td>2.4 GB</td><td>2021-03-02</td><td><a href="/miui/surya/stable/V12.0.6.0.QJGTRXM/">Download</a></td></tr>
 
