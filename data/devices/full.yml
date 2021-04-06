@@ -28228,6 +28228,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-04-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lime/releases/download/stable-06.04.2021/fw_lime_miui_LIME_V12.0.13.0.QJQCNXM_c736f457e3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIME_V12.0.13.0.QJQCNXM_c736f457e3_10.0.zip
+  filename: fw_lime_miui_LIME_V12.0.13.0.QJQCNXM_c736f457e3_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.13.0.QJQCNXM
 - branch: weekly
   date: '2021-04-01'
   downloads:
