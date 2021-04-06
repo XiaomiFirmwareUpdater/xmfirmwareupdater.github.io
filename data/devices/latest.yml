@@ -689,15 +689,15 @@
     android: '11.0'
     miui: V12.2.5.0.RJAEUXM
 - branch: stable
-  date: '2021-03-31'
+  date: '2021-04-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_courbet/releases/download/stable-31.03.2021/fw_courbet_miui_COURBETGlobal_V12.0.2.0.RKQMIXM_fe70f83b36_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.0.2.0.RKQMIXM_fe70f83b36_11.0.zip
-  filename: fw_courbet_miui_COURBETGlobal_V12.0.2.0.RKQMIXM_fe70f83b36_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_courbet/releases/download/stable-06.04.2021/fw_courbet_miui_COURBETGlobal_V12.0.5.0.RKQMIXM_f05aecdac2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.0.5.0.RKQMIXM_f05aecdac2_11.0.zip
+  filename: fw_courbet_miui_COURBETGlobal_V12.0.5.0.RKQMIXM_f05aecdac2_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.2.0.RKQMIXM
+    miui: V12.0.5.0.RKQMIXM
 - branch: stable
   date: '2021-03-31'
   downloads:
@@ -1889,25 +1889,25 @@
     android: '11.0'
     miui: V12.0.2.0.RKGEUXM
 - branch: stable
-  date: '2021-01-26'
+  date: '2021-04-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-26.01.2021/fw_monet_miui_MONETGlobal_V12.1.2.0.RJIMIXM_71e7eee2dd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.1.2.0.RJIMIXM_71e7eee2dd_11.0.zip
-  filename: fw_monet_miui_MONETGlobal_V12.1.2.0.RJIMIXM_71e7eee2dd_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-06.04.2021/fw_monet_miui_MONETGlobal_V12.1.4.0.RJIMIXM_f299c46cfa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.1.4.0.RJIMIXM_f299c46cfa_11.0.zip
+  filename: fw_monet_miui_MONETGlobal_V12.1.4.0.RJIMIXM_f299c46cfa_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.1.2.0.RJIMIXM
+    miui: V12.1.4.0.RJIMIXM
 - branch: stable
-  date: '2021-02-20'
+  date: '2021-04-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-20.02.2021/fw_monet_miui_MONETEEAGlobal_V12.1.4.0.RJIEUXM_a2a041fd3c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.1.4.0.RJIEUXM_a2a041fd3c_11.0.zip
-  filename: fw_monet_miui_MONETEEAGlobal_V12.1.4.0.RJIEUXM_a2a041fd3c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-06.04.2021/fw_monet_miui_MONETEEAGlobal_V12.1.5.0.RJIEUXM_b275bd8c7b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.1.5.0.RJIEUXM_b275bd8c7b_11.0.zip
+  filename: fw_monet_miui_MONETEEAGlobal_V12.1.5.0.RJIEUXM_b275bd8c7b_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.1.4.0.RJIEUXM
+    miui: V12.1.5.0.RJIEUXM
 - branch: stable
   date: '2019-05-13'
   downloads:
@@ -1989,15 +1989,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2020-12-20'
+  date: '2021-04-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-20.12.2020/fw_olive_miui_OLIVEGlobal_V12.0.1.0.QCNMIXM_ff1f4ba5e5_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEGlobal_V12.0.1.0.QCNMIXM_ff1f4ba5e5_10.0.zip
-  filename: fw_olive_miui_OLIVEGlobal_V12.0.1.0.QCNMIXM_ff1f4ba5e5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-06.04.2021/fw_olive_miui_OLIVEGlobal_V12.0.2.0.QCNMIXM_75b688d85a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEGlobal_V12.0.2.0.QCNMIXM_75b688d85a_10.0.zip
+  filename: fw_olive_miui_OLIVEGlobal_V12.0.2.0.QCNMIXM_75b688d85a_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QCNMIXM
+    miui: V12.0.2.0.QCNMIXM
 - branch: stable
   date: '2021-01-20'
   downloads:
@@ -2059,15 +2059,15 @@
     android: '10.0'
     miui: V12.0.2.0.QCPEUXM
 - branch: stable
-  date: '2021-01-27'
+  date: '2021-04-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-27.01.2021/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.1.0.QCPINXM_8c38b3bd4c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.1.0.QCPINXM_8c38b3bd4c_10.0.zip
-  filename: fw_olivelite_miui_OLIVELITEINGlobal_V12.0.1.0.QCPINXM_8c38b3bd4c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-06.04.2021/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.2.0.QCPINXM_a4b43383a4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.2.0.QCPINXM_a4b43383a4_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEINGlobal_V12.0.2.0.QCPINXM_a4b43383a4_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QCPINXM
+    miui: V12.0.2.0.QCPINXM
 - branch: stable
   date: '2021-02-07'
   downloads:

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-12-20'
+  date: '2021-04-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-20.12.2020/fw_olive_miui_OLIVEGlobal_V12.0.1.0.QCNMIXM_ff1f4ba5e5_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEGlobal_V12.0.1.0.QCNMIXM_ff1f4ba5e5_10.0.zip
-  filename: fw_olive_miui_OLIVEGlobal_V12.0.1.0.QCNMIXM_ff1f4ba5e5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-06.04.2021/fw_olive_miui_OLIVEGlobal_V12.0.2.0.QCNMIXM_75b688d85a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEGlobal_V12.0.2.0.QCNMIXM_75b688d85a_10.0.zip
+  filename: fw_olive_miui_OLIVEGlobal_V12.0.2.0.QCNMIXM_75b688d85a_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QCNMIXM
+    miui: V12.0.2.0.QCNMIXM
 - branch: stable
   date: '2021-01-20'
   downloads:
