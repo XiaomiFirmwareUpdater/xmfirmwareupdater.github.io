@@ -1,0 +1,30 @@
+- branch: stable
+  date: '2021-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-07.04.2021/fw_star_miui_STAR_V12.0.9.0.RKACNXM_be719560cb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.0.9.0.RKACNXM_be719560cb_11.0.zip
+  filename: fw_star_miui_STAR_V12.0.9.0.RKACNXM_be719560cb_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.9.0.RKACNXM
+- branch: stable
+  date: '2021-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-07.04.2021/fw_star_miui_STAREEAGlobal_V12.0.3.0.RKAEUXM_d3b0c2e657_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAREEAGlobal_V12.0.3.0.RKAEUXM_d3b0c2e657_11.0.zip
+  filename: fw_star_miui_STAREEAGlobal_V12.0.3.0.RKAEUXM_d3b0c2e657_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.3.0.RKAEUXM
+- branch: stable
+  date: '2021-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-07.04.2021/fw_star_miui_STARINGlobal_V12.0.2.0.RKAINXM_ae24223170_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARINGlobal_V12.0.2.0.RKAINXM_ae24223170_11.0.zip
+  filename: fw_star_miui_STARINGlobal_V12.0.2.0.RKAINXM_ae24223170_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.0.2.0.RKAINXM

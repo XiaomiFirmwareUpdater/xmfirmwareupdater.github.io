@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-01-25'
+  date: '2021-04-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-25.01.2021/fw_willow_miui_WILLOWGlobal_V12.0.2.0.QCXMIXM_14b2730939_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.0.2.0.QCXMIXM_14b2730939_10.0.zip
-  filename: fw_willow_miui_WILLOWGlobal_V12.0.2.0.QCXMIXM_14b2730939_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-07.04.2021/fw_willow_miui_WILLOWGlobal_V12.0.3.0.QCXMIXM_792b6fd138_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.0.3.0.QCXMIXM_792b6fd138_10.0.zip
+  filename: fw_willow_miui_WILLOWGlobal_V12.0.3.0.QCXMIXM_792b6fd138_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QCXMIXM
+    miui: V12.0.3.0.QCXMIXM
 - branch: stable
   date: '2021-01-21'
   downloads:

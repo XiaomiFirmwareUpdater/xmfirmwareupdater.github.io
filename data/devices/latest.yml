@@ -2779,6 +2779,36 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
+  date: '2021-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-07.04.2021/fw_star_miui_STAR_V12.0.9.0.RKACNXM_be719560cb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.0.9.0.RKACNXM_be719560cb_11.0.zip
+  filename: fw_star_miui_STAR_V12.0.9.0.RKACNXM_be719560cb_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.9.0.RKACNXM
+- branch: stable
+  date: '2021-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-07.04.2021/fw_star_miui_STAREEAGlobal_V12.0.3.0.RKAEUXM_d3b0c2e657_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAREEAGlobal_V12.0.3.0.RKAEUXM_d3b0c2e657_11.0.zip
+  filename: fw_star_miui_STAREEAGlobal_V12.0.3.0.RKAEUXM_d3b0c2e657_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.3.0.RKAEUXM
+- branch: stable
+  date: '2021-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-07.04.2021/fw_star_miui_STARINGlobal_V12.0.2.0.RKAINXM_ae24223170_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARINGlobal_V12.0.2.0.RKAINXM_ae24223170_11.0.zip
+  filename: fw_star_miui_STARINGlobal_V12.0.2.0.RKAINXM_ae24223170_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.0.2.0.RKAINXM
+- branch: stable
   date: '2021-02-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-28.02.2021/fw_surya_miui_SURYAGlobal_V12.0.8.0.QJGMIXM_75ac1f8116_10.0.zip
@@ -3049,15 +3079,15 @@
     android: '11.0'
     miui: V12.2.5.0.RJBMIXM
 - branch: stable
-  date: '2021-03-16'
+  date: '2021-04-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-16.03.2021/fw_umi_miui_UMI_V12.2.10.0.RJBCNXM_d35f7d5d7b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMI_V12.2.10.0.RJBCNXM_d35f7d5d7b_11.0.zip
-  filename: fw_umi_miui_UMI_V12.2.10.0.RJBCNXM_d35f7d5d7b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_umi/releases/download/stable-07.04.2021/fw_umi_miui_UMI_V12.5.3.0.RJBCNXM_94e14e79f2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMI_V12.5.3.0.RJBCNXM_94e14e79f2_11.0.zip
+  filename: fw_umi_miui_UMI_V12.5.3.0.RJBCNXM_94e14e79f2_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.2.10.0.RJBCNXM
+    miui: V12.5.3.0.RJBCNXM
 - branch: weekly
   date: '2021-04-01'
   downloads:
@@ -3349,15 +3379,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2021-01-25'
+  date: '2021-04-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-25.01.2021/fw_willow_miui_WILLOWGlobal_V12.0.2.0.QCXMIXM_14b2730939_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.0.2.0.QCXMIXM_14b2730939_10.0.zip
-  filename: fw_willow_miui_WILLOWGlobal_V12.0.2.0.QCXMIXM_14b2730939_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_willow/releases/download/stable-07.04.2021/fw_willow_miui_WILLOWGlobal_V12.0.3.0.QCXMIXM_792b6fd138_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.0.3.0.QCXMIXM_792b6fd138_10.0.zip
+  filename: fw_willow_miui_WILLOWGlobal_V12.0.3.0.QCXMIXM_792b6fd138_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.2.0.QCXMIXM
+    miui: V12.0.3.0.QCXMIXM
 - branch: stable
   date: '2021-01-21'
   downloads:
