@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 07 Apr 2021 04:28:47 +0900</pubDate>
+  <pubDate>Wed, 07 Apr 2021 08:57:29 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,12 @@
     <item>
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.0.9.0.RKACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Wed, 07 Apr 2021 04:28:47 +0900</pubDate>
+    <pubDate>Wed, 07 Apr 2021 08:57:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX 3 (perseus) - V12.0.4.0.QEECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
+    <pubDate>Wed, 07 Apr 2021 07:49:43 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 8A (olivelite) - V12.0.2.0.QCPINXM</title>
@@ -100,11 +105,6 @@
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.3.31</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
     <pubDate>Fri, 02 Apr 2021 04:37:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.4.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Fri, 02 Apr 2021 04:00:30 +0900</pubDate>
   </item>
     </channel>
 </rss>
