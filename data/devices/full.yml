@@ -12619,6 +12619,16 @@
     android: '10.0'
     miui: V11.0.16.0.QDLMIXM
 - branch: stable
+  date: '2021-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-07.04.2021/fw_dandelion_miui_DANDELION_V12.0.11.0.QCDCNXM_17efca2e6f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.0.11.0.QCDCNXM_17efca2e6f_10.0.zip
+  filename: fw_dandelion_miui_DANDELION_V12.0.11.0.QCDCNXM_17efca2e6f_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.11.0.QCDCNXM
+- branch: stable
   date: '2021-03-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_dandelion/releases/download/stable-12.03.2021/fw_dandelion_miui_DANDELIONINGlobal_V12.0.11.0.QCDINXM_5404d6afcd_10.0.zip
@@ -15768,6 +15778,16 @@
   versions:
     android: '8.1'
     miui: 8.6.28
+- branch: stable
+  date: '2021-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-07.04.2021/fw_equuleus_miui_MI8UD_V12.0.5.0.QECCNXM_d7fc38a453_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/equuleus/fw_equuleus_miui_MI8UD_V12.0.5.0.QECCNXM_d7fc38a453_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_V12.0.5.0.QECCNXM_d7fc38a453_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QECCNXM
 - branch: stable
   date: '2020-12-25'
   downloads:
@@ -36528,6 +36548,16 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PCQINXM
+- branch: stable
+  date: '2021-04-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_onc/releases/download/stable-07.04.2021/fw_onc_miui_ONCLITEINGlobal_V11.0.4.0.QFLINXM_dfbd65ce4d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onc/fw_onc_miui_ONCLITEINGlobal_V11.0.4.0.QFLINXM_dfbd65ce4d_10.0.zip
+  filename: fw_onc_miui_ONCLITEINGlobal_V11.0.4.0.QFLINXM_dfbd65ce4d_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QFLINXM
 - branch: stable
   date: '2021-03-20'
   downloads:
