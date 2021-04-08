@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_alioth/releases/download/weekly-08.04.2021/fw_alioth_miui_ALIOTH_21.4.8_218b06cdbc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.8/alioth/fw_alioth_miui_ALIOTH_21.4.8_218b06cdbc_11.0.zip
+  filename: fw_alioth_miui_ALIOTH_21.4.8_218b06cdbc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.8
 - branch: stable
   date: '2021-03-30'
   downloads:
@@ -20258,6 +20268,16 @@
   versions:
     android: '9.0'
     miui: V10.2.3.0.PFBCNXM
+- branch: weekly
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_haydn/releases/download/weekly-08.04.2021/fw_haydn_miui_HAYDN_21.4.8_bdb8c023b0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.8/haydn/fw_haydn_miui_HAYDN_21.4.8_bdb8c023b0_11.0.zip
+  filename: fw_haydn_miui_HAYDN_21.4.8_bdb8c023b0_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.8
 - branch: weekly
   date: '2021-04-01'
   downloads:
@@ -57609,6 +57629,16 @@
     android: '11.0'
     miui: V12.0.1.0.RKFINXM
 - branch: weekly
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_thyme/releases/download/weekly-08.04.2021/fw_thyme_miui_THYME_21.4.8_eb9a3c9502_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.8/thyme/fw_thyme_miui_THYME_21.4.8_eb9a3c9502_11.0.zip
+  filename: fw_thyme_miui_THYME_21.4.8_eb9a3c9502_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.8
+- branch: weekly
   date: '2021-04-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_thyme/releases/download/weekly-01.04.2021/fw_thyme_miui_THYME_21.3.31_f0d030a150_11.0.zip
@@ -65318,6 +65348,16 @@
   versions:
     android: '9.0'
     miui: V10.3.1.0.PFECNXM
+- branch: weekly
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_venus/releases/download/weekly-08.04.2021/fw_venus_miui_VENUS_21.4.7_367747983f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/venus/fw_venus_miui_VENUS_21.4.7_367747983f_11.0.zip
+  filename: fw_venus_miui_VENUS_21.4.7_367747983f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.7
 - branch: stable
   date: '2021-04-08'
   downloads:
