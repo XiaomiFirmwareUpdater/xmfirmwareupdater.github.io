@@ -8138,6 +8138,16 @@
   versions:
     android: '8.1'
     miui: V10.3.4.0.OCGCNXM
+- branch: stable
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cetus/releases/download/stable-08.04.2021/fw_cetus_miui_CETUS_V12.0.5.0.RJTCNXM_ec6b2659db_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.0.5.0.RJTCNXM_ec6b2659db_11.0.zip
+  filename: fw_cetus_miui_CETUS_V12.0.5.0.RJTCNXM_ec6b2659db_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.5.0.RJTCNXM
 - branch: weekly
   date: '2021-04-01'
   downloads:
@@ -10808,6 +10818,16 @@
   versions:
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
+- branch: stable
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/stable-08.04.2021/fw_cmi_miui_CMIGlobal_V12.2.6.0.RJAMIXM_c58969ffd8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIGlobal_V12.2.6.0.RJAMIXM_c58969ffd8_11.0.zip
+  filename: fw_cmi_miui_CMIGlobal_V12.2.6.0.RJAMIXM_c58969ffd8_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.2.6.0.RJAMIXM
 - branch: stable
   date: '2021-04-03'
   downloads:
@@ -35539,6 +35559,16 @@
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
 - branch: stable
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-08.04.2021/fw_olive_miui_OLIVEINGlobal_V12.0.2.0.QCNINXM_82a2102beb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEINGlobal_V12.0.2.0.QCNINXM_82a2102beb_10.0.zip
+  filename: fw_olive_miui_OLIVEINGlobal_V12.0.2.0.QCNINXM_82a2102beb_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCNINXM
+- branch: stable
   date: '2021-04-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olive/releases/download/stable-06.04.2021/fw_olive_miui_OLIVEGlobal_V12.0.2.0.QCNMIXM_75b688d85a_10.0.zip
@@ -43168,6 +43198,16 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: stable
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_polaris/releases/download/stable-08.04.2021/fw_polaris_miui_MIMIX2S_V12.0.3.0.QDGCNXM_cd55623678_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/polaris/fw_polaris_miui_MIMIX2S_V12.0.3.0.QDGCNXM_cd55623678_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V12.0.3.0.QDGCNXM_cd55623678_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QDGCNXM
 - branch: stable
   date: '2021-01-04'
   downloads:
@@ -57269,6 +57309,16 @@
     android: '11.0'
     miui: V12.0.1.0.RKAMIXM
 - branch: stable
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-08.04.2021/fw_star_miui_STAR_V12.0.10.0.RKACNXM_89b8a90dec_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.0.10.0.RKACNXM_89b8a90dec_11.0.zip
+  filename: fw_star_miui_STAR_V12.0.10.0.RKACNXM_89b8a90dec_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.10.0.RKACNXM
+- branch: stable
   date: '2021-04-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-07.04.2021/fw_star_miui_STAREEAGlobal_V12.0.3.0.RKAEUXM_d3b0c2e657_11.0.zip
@@ -65238,6 +65288,16 @@
   versions:
     android: '9.0'
     miui: V10.3.1.0.PFECNXM
+- branch: stable
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_venus/releases/download/stable-08.04.2021/fw_venus_miui_VENUS_V12.5.2.0.RKBCNXM_ccefbe95a2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUS_V12.5.2.0.RKBCNXM_ccefbe95a2_11.0.zip
+  filename: fw_venus_miui_VENUS_V12.5.2.0.RKBCNXM_ccefbe95a2_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKBCNXM
 - branch: weekly
   date: '2021-04-01'
   downloads:
@@ -67408,6 +67468,26 @@
   versions:
     android: '9.0'
     miui: V10.2.5.0.PFHCNXM
+- branch: stable
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/stable-08.04.2021/fw-non-arb_wayne_miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/wayne/fw-non-arb_wayne_miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
+  filename: fw-non-arb_wayne_miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V12.0.2.0.PDCCNXM
+- branch: stable
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_wayne/releases/download/stable-08.04.2021/fw_wayne_miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/wayne/fw_wayne_miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
+  filename: fw_wayne_miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V12.0.2.0.PDCCNXM
 - branch: stable
   date: '2021-01-14'
   downloads:
