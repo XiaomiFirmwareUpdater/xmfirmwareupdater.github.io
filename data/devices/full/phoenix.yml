@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-08.04.2021/fw_phoenix_miui_PHOENIX_21.4.7_f5ee6297b1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/phoenix/fw_phoenix_miui_PHOENIX_21.4.7_f5ee6297b1_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.4.7_f5ee6297b1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.7
+- branch: weekly
   date: '2021-04-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-01.04.2021/fw_phoenix_miui_PHOENIX_21.4.1_d9c81922e5_11.0.zip

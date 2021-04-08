@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V12.0.3.0.QFMCNXM
 - branch: weekly
-  date: '2021-04-01'
+  date: '2021-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-01.04.2021/fw_laurus_miui_LAURUS_21.4.1_b0231e6134_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.1/laurus/fw_laurus_miui_LAURUS_21.4.1_b0231e6134_10.0.zip
-  filename: fw_laurus_miui_LAURUS_21.4.1_b0231e6134_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-08.04.2021/fw_laurus_miui_LAURUS_21.4.7_71ec777186_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/laurus/fw_laurus_miui_LAURUS_21.4.7_71ec777186_10.0.zip
+  filename: fw_laurus_miui_LAURUS_21.4.7_71ec777186_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 21.4.1
+    miui: 21.4.7
