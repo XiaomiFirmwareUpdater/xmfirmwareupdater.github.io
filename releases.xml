@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 08 Apr 2021 23:22:59 +0900</pubDate>
+  <pubDate>Fri, 09 Apr 2021 00:01:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 7A (pine) - V12.0.2.0.QCMINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
+    <pubDate>Fri, 09 Apr 2021 00:01:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.2.0.QJCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Thu, 08 Apr 2021 23:59:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 4G (courbet) - V12.0.3.0.RKQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
+    <pubDate>Thu, 08 Apr 2021 23:57:45 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 6X (wayne) - V12.0.2.0.PDCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/wayne</link>
@@ -90,21 +105,6 @@
     <title>Mi 8 Pro (equuleus) - V12.0.5.0.QECCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
     <pubDate>Wed, 07 Apr 2021 19:22:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/9AT (dandelion) - V12.0.11.0.QCDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Wed, 07 Apr 2021 19:13:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 (perseus) - V12.0.4.0.QEECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/perseus</link>
-    <pubDate>Wed, 07 Apr 2021 07:49:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V12.0.2.0.QCPINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Wed, 07 Apr 2021 03:29:29 +0900</pubDate>
   </item>
     </channel>
 </rss>
