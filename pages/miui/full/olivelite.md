@@ -169,6 +169,7 @@ permalink: /archive/miui/olivelite/
 <tr><td>Redmi 8A India</td><td>Stable</td><td>Fastboot</td><td>V10.3.1.0.PCPINXM</td><td>9.0</td><td>2.3 GB</td><td>2019-09-11</td><td><a href="/miui/olivelite/stable/V10.3.1.0.PCPINXM/">Download</a></td></tr>
 <tr><td>Redmi 8A China</td><td>Stable</td><td>Recovery</td><td>V10.3.3.0.PCPCNXM</td><td>9.0</td><td>1.7 GB</td><td>2019-10-14</td><td><a href="/miui/olivelite/stable/V10.3.3.0.PCPCNXM/">Download</a></td></tr>
 <tr><td>Redmi 8A China</td><td>Stable</td><td>Fastboot</td><td>V10.3.3.0.PCPCNXM</td><td>9.0</td><td>2.3 GB</td><td>2019-09-20</td><td><a href="/miui/olivelite/stable/V10.3.3.0.PCPCNXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCPIDXM</td><td>10.0</td><td>1.9 GB</td><td>None</td><td><a href="/miui/olivelite/stable beta/V12.0.2.0.QCPIDXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
