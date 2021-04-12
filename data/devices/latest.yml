@@ -79,15 +79,15 @@
     android: '10.0'
     miui: V12.0.10.0.QCRMIXM
 - branch: stable
-  date: '2021-01-25'
+  date: '2021-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelica/releases/download/stable-25.01.2021/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.6.0.QCREUXM_ccaaf8cc34_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.6.0.QCREUXM_ccaaf8cc34_10.0.zip
-  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.6.0.QCREUXM_ccaaf8cc34_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelica/releases/download/stable-12.04.2021/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.7.0.QCREUXM_6bbe157a84_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.7.0.QCREUXM_6bbe157a84_10.0.zip
+  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.7.0.QCREUXM_6bbe157a84_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.6.0.QCREUXM
+    miui: V12.0.7.0.QCREUXM
 - branch: stable
   date: '2021-03-26'
   downloads:
@@ -2869,15 +2869,15 @@
     android: '11.0'
     miui: V12.0.6.0.RKFMIXM
 - branch: stable
-  date: '2021-03-17'
+  date: '2021-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sweet/releases/download/stable-17.03.2021/fw_sweet_miui_SWEETEEAGlobal_V12.0.10.0.RKFEUXM_3698f76413_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.0.10.0.RKFEUXM_3698f76413_11.0.zip
-  filename: fw_sweet_miui_SWEETEEAGlobal_V12.0.10.0.RKFEUXM_3698f76413_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sweet/releases/download/stable-12.04.2021/fw_sweet_miui_SWEETEEAGlobal_V12.0.13.0.RKFEUXM_9fd58b7ea4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.0.13.0.RKFEUXM_9fd58b7ea4_11.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V12.0.13.0.RKFEUXM_9fd58b7ea4_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.10.0.RKFEUXM
+    miui: V12.0.13.0.RKFEUXM
 - branch: stable
   date: '2021-04-11'
   downloads:
@@ -3259,15 +3259,15 @@
     android: '11.0'
     miui: 21.4.7
 - branch: stable
-  date: '2021-03-30'
+  date: '2021-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_venus/releases/download/stable-30.03.2021/fw_venus_miui_VENUSEEAGlobal_V12.0.11.0.RKBEUXM_e771d3aba9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSEEAGlobal_V12.0.11.0.RKBEUXM_e771d3aba9_11.0.zip
-  filename: fw_venus_miui_VENUSEEAGlobal_V12.0.11.0.RKBEUXM_e771d3aba9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_venus/releases/download/stable-12.04.2021/fw_venus_miui_VENUSEEAGlobal_V12.0.13.0.RKBEUXM_27c451d5b7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSEEAGlobal_V12.0.13.0.RKBEUXM_27c451d5b7_11.0.zip
+  filename: fw_venus_miui_VENUSEEAGlobal_V12.0.13.0.RKBEUXM_27c451d5b7_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.11.0.RKBEUXM
+    miui: V12.0.13.0.RKBEUXM
 - branch: stable
   date: '2019-11-26'
   downloads:
