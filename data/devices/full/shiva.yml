@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-04-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-12.04.2021/fw_shiva_miui_SHIVAINGlobal_V12.0.3.0.QJRINXM_04b03a59ec_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/shiva/fw_shiva_miui_SHIVAINGlobal_V12.0.3.0.QJRINXM_04b03a59ec_10.0.zip
+  filename: fw_shiva_miui_SHIVAINGlobal_V12.0.3.0.QJRINXM_04b03a59ec_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJRINXM
+- branch: stable
   date: '2021-03-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-26.03.2021/fw_shiva_miui_SHIVAINGlobal_V12.0.2.0.QJRINXM_35ea0713e1_10.0.zip

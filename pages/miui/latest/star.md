@@ -52,9 +52,9 @@ permalink: /miui/star/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 Pro / Ultra China</td><td>Stable Beta</td><td>Fastboot</td><td>V12.0.9.0.RKACNXM</td><td>11.0</td><td>5.6 GB</td><td>2021-03-27</td><td><a href="/miui/star/stable beta/V12.0.9.0.RKACNXM/">Download</a></td></tr>
-<tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.0.9.0.RKACNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-04-02</td><td><a href="/miui/star/stable/V12.0.9.0.RKACNXM/">Download</a></td></tr>
-<tr><td>Mi 11 Pro / Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.10.0.RKACNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-04-08</td><td><a href="/miui/star/stable beta/V12.0.10.0.RKACNXM/">Download</a></td></tr>
+                <tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Fastboot</td><td>V12.0.10.0.RKACNXM</td><td>11.0</td><td>5.6 GB</td><td>2021-04-07</td><td><a href="/miui/star/stable/V12.0.10.0.RKACNXM/">Download</a></td></tr>
+<tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.0.10.0.RKACNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-04-08</td><td><a href="/miui/star/stable/V12.0.10.0.RKACNXM/">Download</a></td></tr>
+<tr><td>Mi 11 Pro / Ultra China</td><td>Stable Beta</td><td>Fastboot</td><td>V12.0.9.0.RKACNXM</td><td>11.0</td><td>5.6 GB</td><td>2021-03-27</td><td><a href="/miui/star/stable beta/V12.0.9.0.RKACNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKAEUXM</td><td>11.0</td><td>5.5 GB</td><td>2021-03-23</td><td><a href="/miui/star/stable/V12.0.3.0.RKAEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKAEUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-04-07</td><td><a href="/miui/star/stable/V12.0.3.0.RKAEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RKAMIXM</td><td>11.0</td><td>5.6 GB</td><td>2021-03-31</td><td><a href="/miui/star/stable/V12.0.1.0.RKAMIXM/">Download</a></td></tr>
