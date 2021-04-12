@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 12 Apr 2021 13:17:24 +0900</pubDate>
+  <pubDate>Mon, 12 Apr 2021 22:13:35 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 (venus) - V12.5.3.0.RKBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Mon, 12 Apr 2021 22:13:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 8 Explorer (ursa) - V12.0.5.0.QEHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
+    <pubDate>Mon, 12 Apr 2021 21:01:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8A (olivelite) - V12.0.2.0.QCPMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
+    <pubDate>Mon, 12 Apr 2021 20:57:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.2.6.0.RJKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Mon, 12 Apr 2021 20:55:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.4.0.QJCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Mon, 12 Apr 2021 20:47:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.0.2.0.RKHEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Mon, 12 Apr 2021 20:45:29 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M2 (shiva) - V12.0.3.0.QJRINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
@@ -75,36 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.4.7</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Fri, 09 Apr 2021 03:39:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 21.4.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 09 Apr 2021 03:35:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.4.8</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 09 Apr 2021 03:31:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.4.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Fri, 09 Apr 2021 03:23:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - 21.4.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Fri, 09 Apr 2021 03:20:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - 21.4.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Fri, 09 Apr 2021 03:17:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 21.4.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Fri, 09 Apr 2021 03:14:31 +0900</pubDate>
   </item>
     </channel>
 </rss>

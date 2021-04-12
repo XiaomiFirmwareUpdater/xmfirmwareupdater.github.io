@@ -29,15 +29,15 @@
     android: '11.0'
     miui: 21.4.8
 - branch: stable
-  date: '2021-03-22'
+  date: '2021-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_alioth/releases/download/stable-22.03.2021/fw_alioth_miui_ALIOTHEEAGlobal_V12.0.1.0.RKHEUXM_201f324e5e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V12.0.1.0.RKHEUXM_201f324e5e_11.0.zip
-  filename: fw_alioth_miui_ALIOTHEEAGlobal_V12.0.1.0.RKHEUXM_201f324e5e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_alioth/releases/download/stable-12.04.2021/fw_alioth_miui_ALIOTHEEAGlobal_V12.0.2.0.RKHEUXM_cb23392b8c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V12.0.2.0.RKHEUXM_cb23392b8c_11.0.zip
+  filename: fw_alioth_miui_ALIOTHEEAGlobal_V12.0.2.0.RKHEUXM_cb23392b8c_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.1.0.RKHEUXM
+    miui: V12.0.2.0.RKHEUXM
 - branch: stable
   date: '2021-03-29'
   downloads:
@@ -1419,15 +1419,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2021-02-03'
+  date: '2021-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-03.02.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
-  filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-12.04.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.4.0.QJCMIXM_83136e8623_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.4.0.QJCMIXM_83136e8623_10.0.zip
+  filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.4.0.QJCMIXM_83136e8623_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QJCMIXM
+    miui: V12.0.4.0.QJCMIXM
 - branch: stable
   date: '2021-04-01'
   downloads:
@@ -1699,15 +1699,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2021-03-12'
+  date: '2021-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-12.03.2021/fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-12.04.2021/fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.2.5.0.RJKMIXM
+    miui: V12.2.6.0.RJKMIXM
 - branch: stable
   date: '2021-01-28'
   downloads:
@@ -2039,15 +2039,15 @@
     android: '10.0'
     miui: V12.0.2.0.QCNINXM
 - branch: stable
-  date: '2021-01-21'
+  date: '2021-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-21.01.2021/fw_olivelite_miui_OLIVELITEGlobal_V12.0.1.0.QCPMIXM_88d4cdcadc_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V12.0.1.0.QCPMIXM_88d4cdcadc_10.0.zip
-  filename: fw_olivelite_miui_OLIVELITEGlobal_V12.0.1.0.QCPMIXM_88d4cdcadc_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-12.04.2021/fw_olivelite_miui_OLIVELITEGlobal_V12.0.2.0.QCPMIXM_86a38a3b5d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEGlobal_V12.0.2.0.QCPMIXM_86a38a3b5d_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEGlobal_V12.0.2.0.QCPMIXM_86a38a3b5d_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.1.0.QCPMIXM
+    miui: V12.0.2.0.QCPMIXM
 - branch: stable
   date: '2021-01-08'
   downloads:
@@ -3139,15 +3139,15 @@
     android: '11.0'
     miui: V12.2.6.0.RJBINXM
 - branch: stable
-  date: '2021-01-06'
+  date: '2021-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-06.01.2021/fw_ursa_miui_MI8Explorer_V12.0.4.0.QEHCNXM_b6e7153077_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ursa/fw_ursa_miui_MI8Explorer_V12.0.4.0.QEHCNXM_b6e7153077_10.0.zip
-  filename: fw_ursa_miui_MI8Explorer_V12.0.4.0.QEHCNXM_b6e7153077_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-12.04.2021/fw_ursa_miui_MI8Explorer_V12.0.5.0.QEHCNXM_de254be5c3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ursa/fw_ursa_miui_MI8Explorer_V12.0.5.0.QEHCNXM_de254be5c3_10.0.zip
+  filename: fw_ursa_miui_MI8Explorer_V12.0.5.0.QEHCNXM_de254be5c3_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.4.0.QEHCNXM
+    miui: V12.0.5.0.QEHCNXM
 - branch: weekly
   date: '2020-09-05'
   downloads:
@@ -3239,15 +3239,15 @@
     android: '11.0'
     miui: V12.0.4.0.RKBMIXM
 - branch: stable
-  date: '2021-04-08'
+  date: '2021-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_venus/releases/download/stable-08.04.2021/fw_venus_miui_VENUS_V12.5.2.0.RKBCNXM_ccefbe95a2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUS_V12.5.2.0.RKBCNXM_ccefbe95a2_11.0.zip
-  filename: fw_venus_miui_VENUS_V12.5.2.0.RKBCNXM_ccefbe95a2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_venus/releases/download/stable-12.04.2021/fw_venus_miui_VENUS_V12.5.3.0.RKBCNXM_5a493e6380_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUS_V12.5.3.0.RKBCNXM_5a493e6380_11.0.zip
+  filename: fw_venus_miui_VENUS_V12.5.3.0.RKBCNXM_5a493e6380_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RKBCNXM
+    miui: V12.5.3.0.RKBCNXM
 - branch: weekly
   date: '2021-04-08'
   downloads:
