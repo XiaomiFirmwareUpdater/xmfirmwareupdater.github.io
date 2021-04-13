@@ -739,15 +739,15 @@
     android: '11.0'
     miui: 21.4.7
 - branch: stable
-  date: '2021-02-03'
+  date: '2021-04-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-03.02.2021/fw_curtana_miui_CURTANAGlobal_V12.0.1.0.RJWMIXM_e29d7b7c84_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAGlobal_V12.0.1.0.RJWMIXM_e29d7b7c84_11.0.zip
-  filename: fw_curtana_miui_CURTANAGlobal_V12.0.1.0.RJWMIXM_e29d7b7c84_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-13.04.2021/fw_curtana_miui_CURTANAGlobal_V12.0.1.7.RJWMIXM_af09804f7b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAGlobal_V12.0.1.7.RJWMIXM_af09804f7b_11.0.zip
+  filename: fw_curtana_miui_CURTANAGlobal_V12.0.1.7.RJWMIXM_af09804f7b_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.1.0.RJWMIXM
+    miui: V12.0.1.7.RJWMIXM
 - branch: stable
   date: '2021-01-20'
   downloads:
@@ -2839,15 +2839,15 @@
     android: '10.0'
     miui: V12.0.8.0.QJGMIXM
 - branch: stable
-  date: '2021-03-09'
+  date: '2021-04-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-09.03.2021/fw_surya_miui_SURYAEEAGlobal_V12.0.6.0.RJGEUXM_246b1aa34f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.0.6.0.RJGEUXM_246b1aa34f_11.0.zip
-  filename: fw_surya_miui_SURYAEEAGlobal_V12.0.6.0.RJGEUXM_246b1aa34f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-13.04.2021/fw_surya_miui_SURYAEEAGlobal_V12.0.6.4.RJGEUXM_393436f62d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.0.6.4.RJGEUXM_393436f62d_11.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V12.0.6.4.RJGEUXM_393436f62d_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.6.0.RJGEUXM
+    miui: V12.0.6.4.RJGEUXM
 - branch: stable
   date: '2021-02-18'
   downloads:
