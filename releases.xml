@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 14 Apr 2021 19:42:08 +0900</pubDate>
+  <pubDate>Thu, 15 Apr 2021 01:59:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X3 Pro (vayu) - V12.0.5.0.RJUEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
+    <pubDate>Thu, 15 Apr 2021 01:59:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.6.0.QFFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Thu, 15 Apr 2021 01:29:02 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8A (olivelite) - V12.0.2.0.QCPCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
@@ -95,16 +105,6 @@
     <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.0.8.0.RKHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
     <pubDate>Sat, 10 Apr 2021 02:07:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 7A (pine) - V12.0.3.0.QCMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
-    <pubDate>Fri, 09 Apr 2021 19:24:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V12.0.2.0.QCNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Fri, 09 Apr 2021 19:17:42 +0900</pubDate>
   </item>
     </channel>
 </rss>
