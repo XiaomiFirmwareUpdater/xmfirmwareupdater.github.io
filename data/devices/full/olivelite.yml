@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-14.04.2021/fw_olivelite_miui_OLIVELITE_V12.0.2.0.QCPCNXM_19bb3e7581_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITE_V12.0.2.0.QCPCNXM_19bb3e7581_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITE_V12.0.2.0.QCPCNXM_19bb3e7581_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCPCNXM
+- branch: stable
   date: '2021-04-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_olivelite/releases/download/stable-12.04.2021/fw_olivelite_miui_OLIVELITEGlobal_V12.0.2.0.QCPMIXM_86a38a3b5d_10.0.zip
