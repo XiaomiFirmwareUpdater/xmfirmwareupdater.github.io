@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.0.8.0.RKHCNXM
 - branch: weekly
-  date: '2021-04-08'
+  date: '2021-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_alioth/releases/download/weekly-08.04.2021/fw_alioth_miui_ALIOTH_21.4.8_218b06cdbc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.8/alioth/fw_alioth_miui_ALIOTH_21.4.8_218b06cdbc_11.0.zip
-  filename: fw_alioth_miui_ALIOTH_21.4.8_218b06cdbc_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_alioth/releases/download/weekly-15.04.2021/fw_alioth_miui_ALIOTH_21.4.15_8f3a6c70dc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.15/alioth/fw_alioth_miui_ALIOTH_21.4.15_8f3a6c70dc_11.0.zip
+  filename: fw_alioth_miui_ALIOTH_21.4.15_8f3a6c70dc_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.4.8
+    miui: 21.4.15
 - branch: stable
   date: '2021-04-12'
   downloads:
