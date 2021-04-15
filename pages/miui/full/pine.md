@@ -52,7 +52,8 @@ permalink: /archive/miui/pine/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 7A China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QCMCNXM</td><td>10.0</td><td>2.0 GB</td><td>2021-04-09</td><td><a href="/miui/pine/stable beta/V12.0.3.0.QCMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 7A Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCMMIXM</td><td>10.0</td><td>1.8 GB</td><td>2021-04-15</td><td><a href="/miui/pine/stable beta/V12.0.2.0.QCMMIXM/">Download</a></td></tr>
+<tr><td>Redmi 7A China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QCMCNXM</td><td>10.0</td><td>2.0 GB</td><td>2021-04-09</td><td><a href="/miui/pine/stable beta/V12.0.3.0.QCMCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7A India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCMINXM</td><td>10.0</td><td>1.9 GB</td><td>2021-04-08</td><td><a href="/miui/pine/stable/V12.0.2.0.QCMINXM/">Download</a></td></tr>
 <tr><td>Redmi 7A India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCMINXM</td><td>10.0</td><td>2.4 GB</td><td>2021-03-31</td><td><a href="/miui/pine/stable/V12.0.2.0.QCMINXM/">Download</a></td></tr>
 <tr><td>Redmi 7A EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QCMEUXM</td><td>10.0</td><td>1.8 GB</td><td>2021-02-03</td><td><a href="/miui/pine/stable/V12.0.1.0.QCMEUXM/">Download</a></td></tr>
@@ -137,14 +138,14 @@ permalink: /archive/miui/pine/
 <tr><td>Redmi 7A China</td><td>Stable</td><td>Recovery</td><td>V10.2.14.0.PCMCNXM</td><td>9.0</td><td>1.6 GB</td><td>2019-09-29</td><td><a href="/miui/pine/stable/V10.2.14.0.PCMCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7A China</td><td>Stable</td><td>Fastboot</td><td>V10.2.14.0.PCMCNXM</td><td>9.0</td><td>2.2 GB</td><td>2019-09-24</td><td><a href="/miui/pine/stable/V10.2.14.0.PCMCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Global</td><td>Stable</td><td>Recovery</td><td>V10.2.6.0.PCMMIXM</td><td>9.0</td><td>1.5 GB</td><td>2019-09-10</td><td><a href="/miui/pine/stable/V10.2.6.0.PCMMIXM/">Download</a></td></tr>
-<tr><td>Redmi 7A China</td><td>Stable</td><td>Recovery</td><td>V10.2.10.0.PCMCNXM</td><td>9.0</td><td>1.6 GB</td><td>2019-09-04</td><td><a href="/miui/pine/stable/V10.2.10.0.PCMCNXM/">Download</a></td></tr>
-<tr><td>Redmi 7A China</td><td>Stable</td><td>Fastboot</td><td>V10.2.10.0.PCMCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-08-24</td><td><a href="/miui/pine/stable/V10.2.10.0.PCMCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7A China</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PCMCNXM</td><td>9.0</td><td>1.7 GB</td><td>2019-11-04</td><td><a href="/miui/pine/stable/V11.0.1.0.PCMCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7A China</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.PCMCNXM</td><td>9.0</td><td>2.4 GB</td><td>2019-10-24</td><td><a href="/miui/pine/stable/V11.0.1.0.PCMCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7A EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.PCMEUXM</td><td>9.0</td><td>1.6 GB</td><td>2019-10-31</td><td><a href="/miui/pine/stable/V11.0.6.0.PCMEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.PCMEUXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-25</td><td><a href="/miui/pine/stable/V11.0.6.0.PCMEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PCMRUXM</td><td>9.0</td><td>1.6 GB</td><td>2019-10-30</td><td><a href="/miui/pine/stable/V11.0.3.0.PCMRUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PCMRUXM</td><td>9.0</td><td>2.7 GB</td><td>2019-10-26</td><td><a href="/miui/pine/stable/V11.0.3.0.PCMRUXM/">Download</a></td></tr>
+<tr><td>Redmi 7A China</td><td>Stable</td><td>Recovery</td><td>V10.2.10.0.PCMCNXM</td><td>9.0</td><td>1.6 GB</td><td>2019-09-04</td><td><a href="/miui/pine/stable/V10.2.10.0.PCMCNXM/">Download</a></td></tr>
+<tr><td>Redmi 7A China</td><td>Stable</td><td>Fastboot</td><td>V10.2.10.0.PCMCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-08-24</td><td><a href="/miui/pine/stable/V10.2.10.0.PCMCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Russia</td><td>Stable</td><td>Recovery</td><td>V10.2.4.0.PCMRUXM</td><td>9.0</td><td>1.5 GB</td><td>2019-08-21</td><td><a href="/miui/pine/stable/V10.2.4.0.PCMRUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Russia</td><td>Stable</td><td>Fastboot</td><td>V10.2.4.0.PCMRUXM</td><td>9.0</td><td>2.4 GB</td><td>2019-08-09</td><td><a href="/miui/pine/stable/V10.2.4.0.PCMRUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A India</td><td>Stable</td><td>Recovery</td><td>V10.2.7.0.PCMINXM</td><td>9.0</td><td>1.5 GB</td><td>2019-08-15</td><td><a href="/miui/pine/stable/V10.2.7.0.PCMINXM/">Download</a></td></tr>
@@ -153,10 +154,10 @@ permalink: /archive/miui/pine/
 <tr><td>Redmi 7A Global</td><td>Stable</td><td>Fastboot</td><td>V10.2.5.0.PCMMIXM</td><td>9.0</td><td>2.4 GB</td><td>2019-08-05</td><td><a href="/miui/pine/stable/V10.2.5.0.PCMMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7A China</td><td>Stable</td><td>Recovery</td><td>V10.2.9.0.PCMCNXM</td><td>9.0</td><td>1.6 GB</td><td>2019-08-12</td><td><a href="/miui/pine/stable/V10.2.9.0.PCMCNXM/">Download</a></td></tr>
 <tr><td>Redmi 7A China</td><td>Stable</td><td>Fastboot</td><td>V10.2.9.0.PCMCNXM</td><td>9.0</td><td>2.0 GB</td><td>2019-08-07</td><td><a href="/miui/pine/stable/V10.2.9.0.PCMCNXM/">Download</a></td></tr>
-<tr><td>Redmi 7A EEA</td><td>Stable</td><td>Recovery</td><td>V10.2.5.0.PCMEUXM</td><td>9.0</td><td>1.5 GB</td><td>2019-08-08</td><td><a href="/miui/pine/stable/V10.2.5.0.PCMEUXM/">Download</a></td></tr>
-<tr><td>Redmi 7A EEA</td><td>Stable</td><td>Fastboot</td><td>V10.2.5.0.PCMEUXM</td><td>9.0</td><td>2.4 GB</td><td>2019-08-01</td><td><a href="/miui/pine/stable/V10.2.5.0.PCMEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Global</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PCMMIXM</td><td>9.0</td><td>1.6 GB</td><td>2019-10-17</td><td><a href="/miui/pine/stable/V11.0.2.0.PCMMIXM/">Download</a></td></tr>
 <tr><td>Redmi 7A EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PCMEUXM</td><td>9.0</td><td>1.6 GB</td><td>2019-10-16</td><td><a href="/miui/pine/stable/V11.0.2.0.PCMEUXM/">Download</a></td></tr>
+<tr><td>Redmi 7A EEA</td><td>Stable</td><td>Recovery</td><td>V10.2.5.0.PCMEUXM</td><td>9.0</td><td>1.5 GB</td><td>2019-08-08</td><td><a href="/miui/pine/stable/V10.2.5.0.PCMEUXM/">Download</a></td></tr>
+<tr><td>Redmi 7A EEA</td><td>Stable</td><td>Fastboot</td><td>V10.2.5.0.PCMEUXM</td><td>9.0</td><td>2.4 GB</td><td>2019-08-01</td><td><a href="/miui/pine/stable/V10.2.5.0.PCMEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A EEA</td><td>Stable</td><td>Recovery</td><td>V10.2.4.0.PCMEUXM</td><td>9.0</td><td>1.5 GB</td><td>2019-08-05</td><td><a href="/miui/pine/stable/V10.2.4.0.PCMEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A EEA</td><td>Stable</td><td>Fastboot</td><td>V10.2.4.0.PCMEUXM</td><td>9.0</td><td>2.4 GB</td><td>2019-07-18</td><td><a href="/miui/pine/stable/V10.2.4.0.PCMEUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A India</td><td>Stable</td><td>Recovery</td><td>V10.2.6.0.PCMINXM</td><td>9.0</td><td>1.5 GB</td><td>2019-08-05</td><td><a href="/miui/pine/stable/V10.2.6.0.PCMINXM/">Download</a></td></tr>

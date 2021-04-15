@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 15 Apr 2021 01:59:46 +0900</pubDate>
+  <pubDate>Thu, 15 Apr 2021 21:54:53 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8T (willow) - V12.0.3.0.QCXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
+    <pubDate>Thu, 15 Apr 2021 21:54:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 7A (pine) - V12.0.2.0.QCMMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
+    <pubDate>Thu, 15 Apr 2021 21:23:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.2.0.RJDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Thu, 15 Apr 2021 21:00:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C NFC (angelican) - V12.0.7.0.QCSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Thu, 15 Apr 2021 19:36:56 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 Pro (vayu) - V12.0.5.0.RJUEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
@@ -85,26 +105,6 @@
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.4.0.QJCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
     <pubDate>Mon, 12 Apr 2021 20:47:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.0.2.0.RKHEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Mon, 12 Apr 2021 20:45:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M2 (shiva) - V12.0.3.0.QJRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
-    <pubDate>Mon, 12 Apr 2021 13:17:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 (mojito) - V12.0.3.0.RKGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Sat, 10 Apr 2021 20:40:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.0.8.0.RKHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Sat, 10 Apr 2021 02:07:42 +0900</pubDate>
   </item>
     </channel>
 </rss>
