@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 17 Apr 2021 02:34:26 +0900</pubDate>
+  <pubDate>Sat, 17 Apr 2021 03:30:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Redmi Note 10 Pro (sweet) - V12.0.12.0.RKFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Sat, 17 Apr 2021 02:34:26 +0900</pubDate>
+    <pubDate>Sat, 17 Apr 2021 03:30:02 +0900</pubDate>
   </item>
     <item>
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.0.4.0.RKAEUXM</title>
