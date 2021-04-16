@@ -29,15 +29,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2021-04-08'
+  date: '2021-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-08.04.2021/fw_cepheus_miui_CEPHEUS_21.4.7_345b9722bd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/cepheus/fw_cepheus_miui_CEPHEUS_21.4.7_345b9722bd_11.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_21.4.7_345b9722bd_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cepheus/releases/download/weekly-16.04.2021/fw_cepheus_miui_CEPHEUS_21.4.14_0f09757d74_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/cepheus/fw_cepheus_miui_CEPHEUS_21.4.14_0f09757d74_11.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_21.4.14_0f09757d74_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.4.7
+    miui: 21.4.14
 - branch: stable
   date: '2021-01-25'
   downloads:
