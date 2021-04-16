@@ -60,9 +60,8 @@ permalink: /miui/olive/
 <tr><td>Redmi 8 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCNMIXM</td><td>10.0</td><td>2.3 GB</td><td>2021-04-06</td><td><a href="/miui/olive/stable/V12.0.2.0.QCNMIXM/">Download</a></td></tr>
 <tr><td>Redmi 8 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QCNIDXM</td><td>10.0</td><td>3.8 GB</td><td>2021-01-21</td><td><a href="/miui/olive/stable/V12.0.1.0.QCNIDXM/">Download</a></td></tr>
 <tr><td>Redmi 8 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QCNIDXM</td><td>10.0</td><td>2.1 GB</td><td>2021-01-29</td><td><a href="/miui/olive/stable/V12.0.1.0.QCNIDXM/">Download</a></td></tr>
-<tr><td>Redmi 8 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QCNINXM</td><td>10.0</td><td>2.7 GB</td><td>2021-01-20</td><td><a href="/miui/olive/stable/V12.0.1.0.QCNINXM/">Download</a></td></tr>
-<tr><td>Redmi 8 India</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QCNINXM</td><td>10.0</td><td>2.1 GB</td><td>2021-01-27</td><td><a href="/miui/olive/stable/V12.0.1.0.QCNINXM/">Download</a></td></tr>
-<tr><td>Redmi 8 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCNINXM</td><td>10.0</td><td>2.1 GB</td><td>2021-04-08</td><td><a href="/miui/olive/stable beta/V12.0.2.0.QCNINXM/">Download</a></td></tr>
+<tr><td>Redmi 8 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCNINXM</td><td>10.0</td><td>2.7 GB</td><td>2021-03-30</td><td><a href="/miui/olive/stable/V12.0.2.0.QCNINXM/">Download</a></td></tr>
+<tr><td>Redmi 8 India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCNINXM</td><td>10.0</td><td>2.1 GB</td><td>2021-04-08</td><td><a href="/miui/olive/stable/V12.0.2.0.QCNINXM/">Download</a></td></tr>
 <tr><td>Redmi 8 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCNRUXM</td><td>10.0</td><td>3.6 GB</td><td>2021-03-22</td><td><a href="/miui/olive/stable/V12.0.2.0.QCNRUXM/">Download</a></td></tr>
 <tr><td>Redmi 8 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCNRUXM</td><td>10.0</td><td>2.3 GB</td><td>2021-03-25</td><td><a href="/miui/olive/stable/V12.0.2.0.QCNRUXM/">Download</a></td></tr>
 <tr><td>Redmi 8A China</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QCPCNXM</td><td>10.0</td><td>2.8 GB</td><td>2020-12-31</td><td><a href="/miui/olivelite/stable/V12.0.1.0.QCPCNXM/">Download</a></td></tr>
@@ -70,9 +69,8 @@ permalink: /miui/olive/
 <tr><td>Redmi 8A China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCPCNXM</td><td>10.0</td><td>2.0 GB</td><td>2021-04-14</td><td><a href="/miui/olivelite/stable beta/V12.0.2.0.QCPCNXM/">Download</a></td></tr>
 <tr><td>Redmi 8A EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCPEUXM</td><td>10.0</td><td>3.5 GB</td><td>2021-03-22</td><td><a href="/miui/olivelite/stable/V12.0.2.0.QCPEUXM/">Download</a></td></tr>
 <tr><td>Redmi 8A EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCPEUXM</td><td>10.0</td><td>1.9 GB</td><td>2021-03-26</td><td><a href="/miui/olivelite/stable/V12.0.2.0.QCPEUXM/">Download</a></td></tr>
-<tr><td>Redmi 8A Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QCPMIXM</td><td>10.0</td><td>3.4 GB</td><td>2020-12-12</td><td><a href="/miui/olivelite/stable/V11.0.3.0.QCPMIXM/">Download</a></td></tr>
-<tr><td>Redmi 8A Global</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QCPMIXM</td><td>10.0</td><td>1.8 GB</td><td>2020-12-20</td><td><a href="/miui/olivelite/stable/V11.0.3.0.QCPMIXM/">Download</a></td></tr>
-<tr><td>Redmi 8A Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCPMIXM</td><td>10.0</td><td>1.9 GB</td><td>2021-04-12</td><td><a href="/miui/olivelite/stable beta/V12.0.2.0.QCPMIXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCPMIXM</td><td>10.0</td><td>3.5 GB</td><td>2021-03-30</td><td><a href="/miui/olivelite/stable/V12.0.2.0.QCPMIXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCPMIXM</td><td>10.0</td><td>1.9 GB</td><td>2021-04-12</td><td><a href="/miui/olivelite/stable/V12.0.2.0.QCPMIXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCPIDXM</td><td>10.0</td><td>3.3 GB</td><td>2021-03-29</td><td><a href="/miui/olivelite/stable/V12.0.2.0.QCPIDXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCPIDXM</td><td>10.0</td><td>1.9 GB</td><td>2021-04-09</td><td><a href="/miui/olivelite/stable/V12.0.2.0.QCPIDXM/">Download</a></td></tr>
 <tr><td>Redmi 8A India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCPINXM</td><td>10.0</td><td>2.4 GB</td><td>2021-03-30</td><td><a href="/miui/olivelite/stable/V12.0.2.0.QCPINXM/">Download</a></td></tr>

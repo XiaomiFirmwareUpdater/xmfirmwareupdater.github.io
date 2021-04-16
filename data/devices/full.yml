@@ -578,6 +578,16 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QCSEUXM
+- branch: stable
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_apollo/releases/download/stable-16.04.2021/fw_apollo_miui_APOLLOEEAGlobal_V12.1.5.0.RJDEUXM_f56ed5c91f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOEEAGlobal_V12.1.5.0.RJDEUXM_f56ed5c91f_11.0.zip
+  filename: fw_apollo_miui_APOLLOEEAGlobal_V12.1.5.0.RJDEUXM_f56ed5c91f_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.1.5.0.RJDEUXM
 - branch: weekly
   date: '2021-04-15'
   downloads:
@@ -11938,6 +11948,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
+- branch: stable
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_courbet/releases/download/stable-16.04.2021/fw_courbet_miui_COURBETGlobal_V12.0.8.0.RKQMIXM_055c84640d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.0.8.0.RKQMIXM_055c84640d_11.0.zip
+  filename: fw_courbet_miui_COURBETGlobal_V12.0.8.0.RKQMIXM_055c84640d_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.8.0.RKQMIXM
 - branch: stable
   date: '2021-04-08'
   downloads:
@@ -58008,6 +58028,16 @@
   versions:
     android: '8.1'
     miui: 8.6.18
+- branch: stable
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-16.04.2021/fw_star_miui_STAREEAGlobal_V12.0.4.0.RKAEUXM_40036cdecc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAREEAGlobal_V12.0.4.0.RKAEUXM_40036cdecc_11.0.zip
+  filename: fw_star_miui_STAREEAGlobal_V12.0.4.0.RKAEUXM_40036cdecc_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.4.0.RKAEUXM
 - branch: stable
   date: '2021-04-08'
   downloads:
