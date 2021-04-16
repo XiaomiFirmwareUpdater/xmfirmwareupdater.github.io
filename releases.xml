@@ -1,20 +1,60 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 16 Apr 2021 14:55:56 +0900</pubDate>
+  <pubDate>Fri, 16 Apr 2021 21:49:54 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Mi 11 (venus) - V12.5.4.0.RKBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Fri, 16 Apr 2021 14:55:56 +0900</pubDate>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.4.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 16 Apr 2021 21:49:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - V12.2.6.0.RJAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 16 Apr 2021 21:46:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.4.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 16 Apr 2021 20:46:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.12.0.QCRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Fri, 16 Apr 2021 19:47:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 21.4.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Fri, 16 Apr 2021 19:44:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.4.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Fri, 16 Apr 2021 18:51:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.4.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Fri, 16 Apr 2021 16:51:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - 21.4.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Fri, 16 Apr 2021 16:08:01 +0900</pubDate>
   </item>
     <item>
     <title>Mi CC 9e (laurus) - 21.4.14</title>
     <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Fri, 16 Apr 2021 14:48:53 +0900</pubDate>
+    <pubDate>Fri, 16 Apr 2021 15:30:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - V12.5.4.0.RKBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 16 Apr 2021 14:55:56 +0900</pubDate>
   </item>
     <item>
     <title>Mi 9 SE (grus) - 21.4.14</title>
@@ -65,46 +105,6 @@
     <title>Redmi Note 9 5G (cannon) - 21.4.14</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
     <pubDate>Fri, 16 Apr 2021 06:46:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - 21.4.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 16 Apr 2021 06:26:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 21.4.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 16 Apr 2021 06:05:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - 21.4.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Fri, 16 Apr 2021 05:45:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 21.4.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Fri, 16 Apr 2021 05:25:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10S (thyme) - 21.4.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Fri, 16 Apr 2021 03:19:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - 21.4.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Fri, 16 Apr 2021 02:28:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.4.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Fri, 16 Apr 2021 01:40:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 NFC (surya) - V12.0.7.0.RJGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Thu, 15 Apr 2021 23:59:13 +0900</pubDate>
   </item>
     </channel>
 </rss>

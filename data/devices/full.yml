@@ -319,6 +319,16 @@
     android: '9.0'
     miui: V10.3.16.0.PEMCNXM
 - branch: stable
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelica/releases/download/stable-16.04.2021/fw_angelica_miui_ANGELICAGlobal_V12.0.12.0.QCRMIXM_1fb4c1f4de_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAGlobal_V12.0.12.0.QCRMIXM_1fb4c1f4de_10.0.zip
+  filename: fw_angelica_miui_ANGELICAGlobal_V12.0.12.0.QCRMIXM_1fb4c1f4de_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.12.0.QCRMIXM
+- branch: stable
   date: '2021-04-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelica/releases/download/stable-12.04.2021/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.7.0.QCREUXM_6bbe157a84_10.0.zip
@@ -11058,6 +11068,16 @@
   versions:
     android: '8.1'
     miui: V9.6.6.0.ODJCNFD
+- branch: stable
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cmi/releases/download/stable-16.04.2021/fw_cmi_miui_CMIEEAGlobal_V12.2.6.0.RJAEUXM_e9c3b2f6b1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIEEAGlobal_V12.2.6.0.RJAEUXM_e9c3b2f6b1_11.0.zip
+  filename: fw_cmi_miui_CMIEEAGlobal_V12.2.6.0.RJAEUXM_e9c3b2f6b1_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.2.6.0.RJAEUXM
 - branch: weekly
   date: '2021-04-16'
   downloads:
@@ -26569,6 +26589,16 @@
     android: '10.0'
     miui: V11.0.23.0.QFQMIXM
 - branch: weekly
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-16.04.2021/fw_laurus_miui_LAURUS_21.4.14_e47f5a0fd0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/laurus/fw_laurus_miui_LAURUS_21.4.14_e47f5a0fd0_10.0.zip
+  filename: fw_laurus_miui_LAURUS_21.4.14_e47f5a0fd0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 21.4.14
+- branch: weekly
   date: '2021-04-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-08.04.2021/fw_laurus_miui_LAURUS_21.4.7_71ec777186_10.0.zip
@@ -27148,6 +27178,16 @@
   versions:
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
+- branch: weekly
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-16.04.2021/fw_lavender_miui_LAVENDER_21.4.14_8903b7a4d2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/lavender/fw_lavender_miui_LAVENDER_21.4.14_8903b7a4d2_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_21.4.14_8903b7a4d2_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 21.4.14
 - branch: weekly
   date: '2021-04-08'
   downloads:
@@ -28728,6 +28768,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: weekly
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lime/releases/download/weekly-16.04.2021/fw_lime_miui_LIME_21.4.14_1a889c0ae6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/lime/fw_lime_miui_LIME_21.4.14_1a889c0ae6_11.0.zip
+  filename: fw_lime_miui_LIME_21.4.14_1a889c0ae6_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.14
 - branch: stable
   date: '2021-04-13'
   downloads:
@@ -30338,6 +30388,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: weekly
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/weekly-16.04.2021/fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/lmi/fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
+  filename: fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.14
 - branch: stable
   date: '2021-04-12'
   downloads:
@@ -40339,6 +40399,16 @@
     android: '9.0'
     miui: 8.10.25
 - branch: weekly
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-16.04.2021/fw_phoenix_miui_PHOENIX_21.4.14_7aeb39d86c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/phoenix/fw_phoenix_miui_PHOENIX_21.4.14_7aeb39d86c_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.4.14_7aeb39d86c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.14
+- branch: weekly
   date: '2021-04-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_phoenix/releases/download/weekly-08.04.2021/fw_phoenix_miui_PHOENIX_21.4.7_f5ee6297b1_11.0.zip
@@ -41068,6 +41138,26 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QGHINXM
+- branch: weekly
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-16.04.2021/fw_picasso_miui_PICASSO48M_21.4.14_419b990b4d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/picasso/fw_picasso_miui_PICASSO48M_21.4.14_419b990b4d_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.4.14_419b990b4d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.14
+- branch: weekly
+  date: '2021-04-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_picasso/releases/download/weekly-16.04.2021/fw_picasso_miui_PICASSO_21.4.14_098664a773_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/picasso/fw_picasso_miui_PICASSO_21.4.14_098664a773_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.4.14_098664a773_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.14
 - branch: weekly
   date: '2021-04-08'
   downloads:

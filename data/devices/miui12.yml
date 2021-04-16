@@ -2316,6 +2316,12 @@
   version: 20.4.27
 - android: '10.0'
   codename: laurus
+  date: '2021-04-16'
+  download: https://bigota.d.miui.com/21.4.14/miui_LAURUS_21.4.14_e47f5a0fd0_10.0.zip
+  name: Mi CC 9e
+  version: 21.4.14
+- android: '10.0'
+  codename: laurus
   date: '2021-04-08'
   download: https://bigota.d.miui.com/21.4.7/miui_LAURUS_21.4.7_71ec777186_10.0.zip
   name: Mi CC 9e
@@ -2476,6 +2482,12 @@
   download: https://bigota.d.miui.com/20.6.11/miui_LAURUS_20.6.11_36a9cdc42a_10.0.zip
   name: Mi CC 9e
   version: 20.6.11
+- android: '10.0'
+  codename: lavender
+  date: '2021-04-16'
+  download: https://bigota.d.miui.com/21.4.14/miui_LAVENDER_21.4.14_8903b7a4d2_10.0.zip
+  name: Redmi Note 7/7S
+  version: 21.4.14
 - android: '10.0'
   codename: lavender
   date: '2021-04-08'
@@ -2664,6 +2676,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: lime
+  date: '2021-04-16'
+  download: https://bigota.d.miui.com/21.4.14/miui_LIME_21.4.14_1a889c0ae6_11.0.zip
+  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
+  version: 21.4.14
+- android: '11.0'
+  codename: lime
   date: '2021-04-08'
   download: https://bigota.d.miui.com/21.4.7/miui_LIME_21.4.7_03477a66fc_11.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
@@ -2674,6 +2692,12 @@
   download: https://bigota.d.miui.com/21.4.1/miui_LIME_21.4.1_5f7f65aeef_11.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
   version: 21.4.1
+- android: '11.0'
+  codename: lmi
+  date: '2021-04-16'
+  download: https://bigota.d.miui.com/21.4.14/miui_LMI_21.4.14_beb226bc6e_11.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: 21.4.14
 - android: '11.0'
   codename: lmi
   date: '2021-04-08'
@@ -3078,6 +3102,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: phoenix
+  date: '2021-04-16'
+  download: https://bigota.d.miui.com/21.4.14/miui_PHOENIX_21.4.14_7aeb39d86c_11.0.zip
+  name: Redmi K30 4G
+  version: 21.4.14
+- android: '11.0'
+  codename: phoenix
   date: '2021-04-08'
   download: https://bigota.d.miui.com/21.4.7/miui_PHOENIX_21.4.7_f5ee6297b1_11.0.zip
   name: Redmi K30 4G
@@ -3274,6 +3304,18 @@
   download: https://bigota.d.miui.com/20.4.27/miui_PHOENIX_20.4.27_bce2a50650_10.0.zip
   name: Redmi K30 4G
   version: 20.4.27
+- android: '11.0'
+  codename: picasso
+  date: '2021-04-16'
+  download: https://bigota.d.miui.com/21.4.14/miui_PICASSO48M_21.4.14_419b990b4d_11.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: 21.4.14
+- android: '11.0'
+  codename: picasso
+  date: '2021-04-16'
+  download: https://bigota.d.miui.com/21.4.14/miui_PICASSO_21.4.14_098664a773_11.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: 21.4.14
 - android: '11.0'
   codename: picasso
   date: '2021-04-08'
