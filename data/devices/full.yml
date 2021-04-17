@@ -20678,6 +20678,16 @@
   versions:
     android: '9.0'
     miui: V10.2.3.0.PFBCNXM
+- branch: weekly
+  date: '2021-04-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_haydn/releases/download/weekly-17.04.2021/fw_haydn_miui_HAYDN_21.4.14_92c98d071f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/haydn/fw_haydn_miui_HAYDN_21.4.14_92c98d071f_11.0.zip
+  filename: fw_haydn_miui_HAYDN_21.4.14_92c98d071f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.14
 - branch: stable
   date: '2021-04-13'
   downloads:
@@ -58068,6 +58078,16 @@
   versions:
     android: '8.1'
     miui: 8.6.18
+- branch: weekly
+  date: '2021-04-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/weekly-17.04.2021/fw_star_miui_STAR_21.4.15_8d0e8ed07d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.15/star/fw_star_miui_STAR_21.4.15_8d0e8ed07d_11.0.zip
+  filename: fw_star_miui_STAR_21.4.15_8d0e8ed07d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.15
 - branch: stable
   date: '2021-04-16'
   downloads:

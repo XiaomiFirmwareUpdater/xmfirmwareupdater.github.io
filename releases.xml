@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 17 Apr 2021 10:29:30 +0900</pubDate>
+  <pubDate>Sun, 18 Apr 2021 01:00:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.4.14</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Sun, 18 Apr 2021 01:00:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.4.15</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Sat, 17 Apr 2021 23:19:08 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7 Pro (violet) - 21.4.14</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
@@ -95,16 +105,6 @@
     <title>Redmi K30 4G (phoenix) - 21.4.14</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
     <pubDate>Fri, 16 Apr 2021 19:44:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.4.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 16 Apr 2021 18:51:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.4.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Fri, 16 Apr 2021 16:51:24 +0900</pubDate>
   </item>
     </channel>
 </rss>
