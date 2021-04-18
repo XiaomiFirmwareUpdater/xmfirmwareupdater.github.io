@@ -208,26 +208,6 @@
   versions:
     android: '11.0'
     miui: V12.2.2.0.RJKCNXM
-- branch: stable
-  date: '2020-12-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-25.12.2020/fw_lmi_miui_LMIEEAGlobal_V12.2.3.0.RJKEUXM_d42ecbfe01_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.3.0.RJKEUXM_d42ecbfe01_11.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.3.0.RJKEUXM_d42ecbfe01_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.2.3.0.RJKEUXM
-- branch: stable
-  date: '2020-12-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-25.12.2020/fw_lmi_miui_LMIGlobal_V12.2.3.0.RJKMIXM_747f5d1381_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.3.0.RJKMIXM_747f5d1381_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.2.3.0.RJKMIXM_747f5d1381_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.2.3.0.RJKMIXM
 - branch: weekly
   date: '2020-12-10'
   downloads:
@@ -328,16 +308,6 @@
   versions:
     android: '11.0'
     miui: 20.10.30
-- branch: weekly
-  date: '2020-10-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/weekly-29.10.2020/fw_lmi_miui_LMI_20.10.29_02f24a2b45_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.29/lmi/fw_lmi_miui_LMI_20.10.29_02f24a2b45_11.0.zip
-  filename: fw_lmi_miui_LMI_20.10.29_02f24a2b45_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.10.29
 - branch: weekly
   date: '2020-10-23'
   downloads:
@@ -668,13 +638,3 @@
   versions:
     android: '10.0'
     miui: V11.0.12.0.QJKCNXM
-- branch: stable
-  date: '2020-03-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-27.03.2020/fw_lmi_miui_LMI_V11.0.10.0.QJKCNXM_c578a1da51_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.10.0.QJKCNXM_c578a1da51_10.0.zip
-  filename: fw_lmi_miui_LMI_V11.0.10.0.QJKCNXM_c578a1da51_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.10.0.QJKCNXM

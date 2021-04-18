@@ -1209,15 +1209,15 @@
     android: '7.0'
     miui: 9.2.28
 - branch: weekly
-  date: '2019-03-01'
+  date: '2018-11-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/weekly-01.03.2019/fw_helium_miui_MIMAX652_9.2.28_43e4a1aa44_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.28/helium/fw_helium_miui_MIMAX652_9.2.28_43e4a1aa44_7.0.zip
-  filename: fw_helium_miui_MIMAX652_9.2.28_43e4a1aa44_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/weekly-30.11.2018/fw_helium_miui_MIMAX652_8.11.29_759cf28fe9_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/helium/fw_helium_miui_MIMAX652_8.11.29_759cf28fe9_7.0.zip
+  filename: fw_helium_miui_MIMAX652_8.11.29_759cf28fe9_7.0.zip
   region: China
   versions:
     android: '7.0'
-    miui: 9.2.28
+    miui: 8.11.29
 - branch: stable
   date: '2019-05-13'
   downloads:
@@ -1261,23 +1261,13 @@
 - branch: stable
   date: '2019-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/stable-20.07.2018/fw_ido_miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ido/fw_ido_miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip
-  filename: fw_ido_miui_HM3Global_V9.5.3.0.LAIMIFA_7ee05887b5_5.1.zip
-  region: Global
-  versions:
-    android: '5.1'
-    miui: V9.5.3.0.LAIMIFA
-- branch: stable
-  date: '2018-09-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/stable-06.09.2018/fw_ido_miui_HM3_V9.6.1.0.LAICNFD_0e8630d551_5.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ido/fw_ido_miui_HM3_V9.6.1.0.LAICNFD_0e8630d551_5.1.zip
-  filename: fw_ido_miui_HM3_V9.6.1.0.LAICNFD_0e8630d551_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/stable-20.07.2018/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ido/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
+  filename: fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   region: China
   versions:
     android: '5.1'
-    miui: V9.6.1.0.LAICNFD
+    miui: V9.5.2.0.LAICNFA
 - branch: weekly
   date: '2019-07-29'
   downloads:

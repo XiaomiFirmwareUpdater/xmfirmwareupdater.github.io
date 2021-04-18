@@ -226,12 +226,6 @@
   download: https://bigota.d.miui.com/21.4.7/miui_BEGONIA_21.4.7_e097e8fcbd_11.0.zip
   name: Redmi Note 8 Pro
   version: 21.4.7
-- android: '11.0'
-  codename: begonia
-  date: '2021-04-01'
-  download: https://bigota.d.miui.com/21.3.31/miui_BEGONIA_21.3.31_8f79ebeef5_11.0.zip
-  name: Redmi Note 8 Pro
-  version: 21.3.31
 - android: '10.0'
   codename: begonia
   date: '2020-12-10'
@@ -306,12 +300,6 @@
   version: 20.9.17
 - android: '10.0'
   codename: begonia
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_BEGONIA_20.9.10_c84222bc2b_10.0.zip
-  name: Redmi Note 8 Pro
-  version: 20.9.10
-- android: '10.0'
-  codename: begonia
   date: '2020-09-03'
   download: https://bigota.d.miui.com/20.9.3/miui_BEGONIA_20.9.3_28805c6224_10.0.zip
   name: Redmi Note 8 Pro
@@ -328,12 +316,6 @@
   download: https://bigota.d.miui.com/20.8.13/miui_BEGONIA_20.8.13_5a61551041_10.0.zip
   name: Redmi Note 8 Pro
   version: 20.8.13
-- android: '10.0'
-  codename: begonia
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_BEGONIA_20.8.6_83f8f6a290_10.0.zip
-  name: Redmi Note 8 Pro
-  version: 20.8.6
 - android: '10.0'
   codename: begonia
   date: '2020-07-30'
@@ -466,12 +448,6 @@
   download: https://bigota.d.miui.com/20.11.5/miui_BOMB_20.11.5_cb2ed94db1_10.0.zip
   name: Redmi 10X Pro
   version: 20.11.5
-- android: '10.0'
-  codename: bomb
-  date: '2020-10-31'
-  download: https://bigota.d.miui.com/20.10.30/miui_BOMB_20.10.30_21fdcae66d_10.0.zip
-  name: Redmi 10X Pro
-  version: 20.10.30
 - android: '10.0'
   codename: bomb
   date: '2020-10-29'
@@ -676,12 +652,6 @@
   download: https://bigota.d.miui.com/20.9.3/miui_CAS_20.9.3_30d1693375_10.0.zip
   name: Mi 10 Ultra
   version: 20.9.3
-- android: '10.0'
-  codename: cas
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_CAS_20.8.27_27c1e2db06_10.0.zip
-  name: Mi 10 Ultra
-  version: 20.8.27
 - android: '11.0'
   codename: cepheus
   date: '2021-04-15'
@@ -694,12 +664,6 @@
   download: https://bigota.d.miui.com/21.4.7/miui_CEPHEUS_21.4.7_345b9722bd_11.0.zip
   name: Mi 9
   version: 21.4.7
-- android: '11.0'
-  codename: cepheus
-  date: '2020-12-31'
-  download: https://bigota.d.miui.com/20.12.28/miui_CEPHEUS_20.12.28_86a042409e_11.0.zip
-  name: Mi 9
-  version: 20.12.28
 - android: '10.0'
   codename: cepheus
   date: '2020-12-10'
@@ -714,46 +678,16 @@
   version: 20.12.2
 - android: '10.0'
   codename: cepheus
-  date: '2020-11-26'
-  download: https://bigota.d.miui.com/20.11.25/miui_CEPHEUS_20.11.25_df63614210_10.0.zip
-  name: Mi 9
-  version: 20.11.25
-- android: '10.0'
-  codename: cepheus
-  date: '2020-11-19'
-  download: https://bigota.d.miui.com/20.11.18/miui_CEPHEUS_20.11.18_535f6a7555_10.0.zip
-  name: Mi 9
-  version: 20.11.18
-- android: '10.0'
-  codename: cepheus
   date: '2020-11-12'
   download: https://bigota.d.miui.com/20.11.11/miui_CEPHEUS_20.11.11_3ead644f2c_10.0.zip
   name: Mi 9
   version: 20.11.11
 - android: '10.0'
   codename: cepheus
-  date: '2020-11-06'
-  download: https://bigota.d.miui.com/20.11.5/miui_CEPHEUS_20.11.5_2daf90e8ef_10.0.zip
-  name: Mi 9
-  version: 20.11.5
-- android: '10.0'
-  codename: cepheus
-  date: '2020-10-31'
-  download: https://bigota.d.miui.com/20.10.30/miui_CEPHEUS_20.10.30_7957823480_10.0.zip
-  name: Mi 9
-  version: 20.10.30
-- android: '10.0'
-  codename: cepheus
   date: '2020-10-29'
   download: https://bigota.d.miui.com/20.10.29/miui_CEPHEUS_20.10.29_98ed14f1da_10.0.zip
   name: Mi 9
   version: 20.10.29
-- android: '10.0'
-  codename: cepheus
-  date: '2020-10-22'
-  download: https://bigota.d.miui.com/20.10.22/miui_CEPHEUS_20.10.22_cf2581c3dc_10.0.zip
-  name: Mi 9
-  version: 20.10.22
 - android: '10.0'
   codename: cepheus
   date: '2020-10-15'
@@ -772,12 +706,6 @@
   download: https://bigota.d.miui.com/20.9.17/miui_CEPHEUS_20.9.17_d76c964063_10.0.zip
   name: Mi 9
   version: 20.9.17
-- android: '10.0'
-  codename: cepheus
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_CEPHEUS_20.9.10_089c768ff5_10.0.zip
-  name: Mi 9
-  version: 20.9.10
 - android: '10.0'
   codename: cepheus
   date: '2020-09-03'
@@ -816,40 +744,10 @@
   version: 20.7.30
 - android: '10.0'
   codename: cepheus
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_CEPHEUS_20.7.23_746a9443cf_10.0.zip
-  name: Mi 9
-  version: 20.7.23
-- android: '10.0'
-  codename: cepheus
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_CEPHEUS_20.7.16_349c1d27a6_10.0.zip
-  name: Mi 9
-  version: 20.7.16
-- android: '10.0'
-  codename: cepheus
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_CEPHEUS_20.7.9_6e08778a25_10.0.zip
-  name: Mi 9
-  version: 20.7.9
-- android: '10.0'
-  codename: cepheus
   date: '2020-07-02'
   download: https://bigota.d.miui.com/20.7.2/miui_CEPHEUS_20.7.2_c25e0908de_10.0.zip
   name: Mi 9
   version: 20.7.2
-- android: '10.0'
-  codename: cepheus
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_CEPHEUS_20.6.18_6674d67d0a_10.0.zip
-  name: Mi 9
-  version: 20.6.18
-- android: '10.0'
-  codename: cepheus
-  date: '2020-06-05'
-  download: https://bigota.d.miui.com/20.6.4/miui_CEPHEUS_20.6.4_fa016515dc_10.0.zip
-  name: Mi 9
-  version: 20.6.4
 - android: '10.0'
   codename: cepheus
   date: '2020-05-28'
@@ -864,22 +762,10 @@
   version: 20.5.21
 - android: '10.0'
   codename: cepheus
-  date: '2020-05-15'
-  download: https://bigota.d.miui.com/20.5.14/miui_CEPHEUS_20.5.14_1a3473c8c2_10.0.zip
-  name: Mi 9
-  version: 20.5.14
-- android: '10.0'
-  codename: cepheus
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_CEPHEUS_20.5.7_b315bee3a9_10.0.zip
   name: Mi 9
   version: 20.5.7
-- android: '10.0'
-  codename: cepheus
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_CEPHEUS_20.4.30_8d9f2cd48b_10.0.zip
-  name: Mi 9
-  version: 20.4.30
 - android: '10.0'
   codename: cepheus
   date: '2020-04-27'
@@ -990,52 +876,10 @@
   version: 20.6.18
 - android: '9.0'
   codename: chiron
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MIMIX2_20.6.11_62839b6d99_9.0.zip
-  name: Mi MIX 2
-  version: 20.6.11
-- android: '9.0'
-  codename: chiron
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MIMIX2_20.6.4_17e30485f9_9.0.zip
-  name: Mi MIX 2
-  version: 20.6.4
-- android: '9.0'
-  codename: chiron
   date: '2020-05-28'
   download: https://bigota.d.miui.com/20.5.28/miui_MIMIX2_20.5.28_9f76172252_9.0.zip
   name: Mi MIX 2
   version: 20.5.28
-- android: '9.0'
-  codename: chiron
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MIMIX2_20.5.21_2d06027f58_9.0.zip
-  name: Mi MIX 2
-  version: 20.5.21
-- android: '9.0'
-  codename: chiron
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_MIMIX2_20.5.14_0ffdcaffcf_9.0.zip
-  name: Mi MIX 2
-  version: 20.5.14
-- android: '9.0'
-  codename: chiron
-  date: '2020-05-08'
-  download: https://bigota.d.miui.com/20.5.7/miui_MIMIX2_20.5.7_abf798b3c9_9.0.zip
-  name: Mi MIX 2
-  version: 20.5.7
-- android: '9.0'
-  codename: chiron
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_MIMIX2_20.4.30_2666fd1274_9.0.zip
-  name: Mi MIX 2
-  version: 20.4.30
-- android: '9.0'
-  codename: chiron
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MIMIX2_20.4.27_4fbd9fa9c8_9.0.zip
-  name: Mi MIX 2
-  version: 20.4.27
 - android: '11.0'
   codename: cmi
   date: '2021-04-16'
@@ -1096,12 +940,6 @@
   download: https://bigota.d.miui.com/20.11.5/miui_CMI_20.11.5_fcfbec3510_11.0.zip
   name: Mi 10 Pro
   version: 20.11.5
-- android: '11.0'
-  codename: cmi
-  date: '2020-10-31'
-  download: https://bigota.d.miui.com/20.10.30/miui_CMI_20.10.30_6a3fb87e88_11.0.zip
-  name: Mi 10 Pro
-  version: 20.10.30
 - android: '11.0'
   codename: cmi
   date: '2020-10-29'
@@ -1176,12 +1014,6 @@
   version: 20.7.9
 - android: '11.0'
   codename: cmi
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.8/miui_CMI_20.7.8_704fa306bc_11.0.zip
-  name: Mi 10 Pro
-  version: 20.7.8
-- android: '11.0'
-  codename: cmi
   date: '2020-07-02'
   download: https://bigota.d.miui.com/20.7.2/miui_CMI_20.7.2_2fda531b0b_11.0.zip
   name: Mi 10 Pro
@@ -1248,196 +1080,22 @@
   version: 20.12.2
 - android: '10.0'
   codename: crux
-  date: '2020-11-26'
-  download: https://bigota.d.miui.com/20.11.25/miui_CRUX_20.11.25_6e47c9a303_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.11.25
-- android: '10.0'
-  codename: crux
-  date: '2020-11-19'
-  download: https://bigota.d.miui.com/20.11.18/miui_CRUX_20.11.18_ffbe2772cb_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.11.18
-- android: '10.0'
-  codename: crux
   date: '2020-11-12'
   download: https://bigota.d.miui.com/20.11.11/miui_CRUX_20.11.11_0224ecf446_10.0.zip
   name: Mi 9 Pro 5G
   version: 20.11.11
 - android: '10.0'
   codename: crux
-  date: '2020-11-06'
-  download: https://bigota.d.miui.com/20.11.5/miui_CRUX_20.11.5_b689f7ee72_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.11.5
-- android: '10.0'
-  codename: crux
-  date: '2020-10-31'
-  download: https://bigota.d.miui.com/20.10.30/miui_CRUX_20.10.30_e24bc3c5af_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.10.30
-- android: '10.0'
-  codename: crux
-  date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_CRUX_20.10.29_67efdfe779_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.10.29
-- android: '10.0'
-  codename: crux
-  date: '2020-10-22'
-  download: https://bigota.d.miui.com/20.10.22/miui_CRUX_20.10.22_dfcf66babd_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.10.22
-- android: '10.0'
-  codename: crux
-  date: '2020-10-15'
-  download: https://bigota.d.miui.com/20.10.15/miui_CRUX_20.10.15_a256f223bb_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.10.15
-- android: '10.0'
-  codename: crux
-  date: '2020-09-24'
-  download: https://bigota.d.miui.com/20.9.24/miui_CRUX_20.9.24_cb062080c2_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.9.24
-- android: '10.0'
-  codename: crux
-  date: '2020-09-17'
-  download: https://bigota.d.miui.com/20.9.17/miui_CRUX_20.9.17_6a917ec27d_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.9.17
-- android: '10.0'
-  codename: crux
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_CRUX_20.9.10_706e29a5c8_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.9.10
-- android: '10.0'
-  codename: crux
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_CRUX_20.9.3_ab8904f508_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.9.3
-- android: '10.0'
-  codename: crux
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_CRUX_20.8.27_9b6b2004f0_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.8.27
-- android: '10.0'
-  codename: crux
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_CRUX_20.8.20_ab56621141_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.8.20
-- android: '10.0'
-  codename: crux
-  date: '2020-08-14'
-  download: https://bigota.d.miui.com/20.8.13/miui_CRUX_20.8.13_1a50d48350_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.8.13
-- android: '10.0'
-  codename: crux
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_CRUX_20.8.6_984babef4f_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.8.6
-- android: '10.0'
-  codename: crux
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_CRUX_20.7.30_155b52d40a_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.7.30
-- android: '10.0'
-  codename: crux
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_CRUX_20.7.23_43d4e49095_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.7.23
-- android: '10.0'
-  codename: crux
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_CRUX_20.7.16_5214fcefb1_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.7.16
-- android: '10.0'
-  codename: crux
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_CRUX_20.7.9_d66b52404d_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.7.9
-- android: '10.0'
-  codename: crux
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_CRUX_20.7.2_9f7ed4007f_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.7.2
-- android: '10.0'
-  codename: crux
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_CRUX_20.6.18_409440b6a7_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.6.18
-- android: '10.0'
-  codename: crux
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_CRUX_20.6.11_f8ce1f577f_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.6.11
-- android: '10.0'
-  codename: crux
   date: '2020-06-05'
   download: https://bigota.d.miui.com/20.6.4/miui_CRUX_20.6.4_ef61367521_10.0.zip
   name: Mi 9 Pro 5G
   version: 20.6.4
-- android: '10.0'
-  codename: crux
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_CRUX_20.5.28_74e2d1d3e9_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.5.28
-- android: '10.0'
-  codename: crux
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_CRUX_20.5.21_3bdb6c7730_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.5.21
-- android: '10.0'
-  codename: crux
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_CRUX_20.5.14_f5900c1bc0_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.5.14
-- android: '10.0'
-  codename: crux
-  date: '2020-05-08'
-  download: https://bigota.d.miui.com/20.5.7/miui_CRUX_20.5.7_1012636e0a_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.5.7
-- android: '10.0'
-  codename: crux
-  date: '2020-05-01'
-  download: https://bigota.d.miui.com/20.4.30/miui_CRUX_20.4.30_c971341013_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.4.30
-- android: '10.0'
-  codename: crux
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_CRUX_20.4.27_301d2c2aef_10.0.zip
-  name: Mi 9 Pro 5G
-  version: 20.4.27
 - android: '11.0'
   codename: davinci
   date: '2021-04-16'
   download: https://bigota.d.miui.com/21.4.14/miui_DAVINCI_21.4.14_51573a960e_11.0.zip
   name: Redmi K20/Mi 9T
   version: 21.4.14
-- android: '11.0'
-  codename: davinci
-  date: '2021-04-08'
-  download: https://bigota.d.miui.com/21.4.7/miui_DAVINCI_21.4.7_8bfecd2bec_11.0.zip
-  name: Redmi K20/Mi 9T
-  version: 21.4.7
 - android: '11.0'
   codename: davinci
   date: '2021-04-01'
@@ -1500,40 +1158,16 @@
   version: 20.9.17
 - android: '10.0'
   codename: davinci
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_DAVINCI_20.9.10_e0f90b82d1_10.0.zip
-  name: Redmi K20/Mi 9T
-  version: 20.9.10
-- android: '10.0'
-  codename: davinci
   date: '2020-09-03'
   download: https://bigota.d.miui.com/20.9.3/miui_DAVINCI_20.9.3_c853173909_10.0.zip
   name: Redmi K20/Mi 9T
   version: 20.9.3
 - android: '10.0'
   codename: davinci
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_DAVINCI_20.8.27_c0f931721c_10.0.zip
-  name: Redmi K20/Mi 9T
-  version: 20.8.27
-- android: '10.0'
-  codename: davinci
   date: '2020-08-21'
   download: https://bigota.d.miui.com/20.8.20/miui_DAVINCI_20.8.20_760c1dd279_10.0.zip
   name: Redmi K20/Mi 9T
   version: 20.8.20
-- android: '10.0'
-  codename: davinci
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_DAVINCI_20.8.13_354c44af2f_10.0.zip
-  name: Redmi K20/Mi 9T
-  version: 20.8.13
-- android: '10.0'
-  codename: davinci
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_DAVINCI_20.8.6_283e5ffbf1_10.0.zip
-  name: Redmi K20/Mi 9T
-  version: 20.8.6
 - android: '10.0'
   codename: davinci
   date: '2020-07-30'
@@ -1548,22 +1182,10 @@
   version: 20.7.23
 - android: '10.0'
   codename: davinci
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_DAVINCI_20.7.16_049df7021d_10.0.zip
-  name: Redmi K20/Mi 9T
-  version: 20.7.16
-- android: '10.0'
-  codename: davinci
   date: '2020-07-02'
   download: https://bigota.d.miui.com/20.7.2/miui_DAVINCI_20.7.2_a9fcefb387_10.0.zip
   name: Redmi K20/Mi 9T
   version: 20.7.2
-- android: '10.0'
-  codename: davinci
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_DAVINCI_20.6.18_5e0d860388_10.0.zip
-  name: Redmi K20/Mi 9T
-  version: 20.6.18
 - android: '10.0'
   codename: davinci
   date: '2020-06-11'
@@ -1572,28 +1194,10 @@
   version: 20.6.11
 - android: '10.0'
   codename: davinci
-  date: '2020-06-05'
-  download: https://bigota.d.miui.com/20.6.4/miui_DAVINCI_20.6.4_c13e693cd1_10.0.zip
-  name: Redmi K20/Mi 9T
-  version: 20.6.4
-- android: '10.0'
-  codename: davinci
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_DAVINCI_20.5.28_98164b3466_10.0.zip
-  name: Redmi K20/Mi 9T
-  version: 20.5.28
-- android: '10.0'
-  codename: davinci
   date: '2020-05-21'
   download: https://bigota.d.miui.com/20.5.21/miui_DAVINCI_20.5.21_a140ce2db1_10.0.zip
   name: Redmi K20/Mi 9T
   version: 20.5.21
-- android: '10.0'
-  codename: davinci
-  date: '2020-05-15'
-  download: https://bigota.d.miui.com/20.5.14/miui_DAVINCI_20.5.14_dbb7d25c61_10.0.zip
-  name: Redmi K20/Mi 9T
-  version: 20.5.14
 - android: '10.0'
   codename: davinci
   date: '2020-05-08'
@@ -1620,118 +1224,10 @@
   version: 20.9.4
 - android: '10.0'
   codename: dipper
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_MI8_20.9.3_86d29dc937_10.0.zip
-  name: Mi 8
-  version: 20.9.3
-- android: '10.0'
-  codename: dipper
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_MI8_20.8.27_64d4a91c0f_10.0.zip
-  name: Mi 8
-  version: 20.8.27
-- android: '10.0'
-  codename: dipper
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_MI8_20.8.20_4ae0d90b6e_10.0.zip
-  name: Mi 8
-  version: 20.8.20
-- android: '10.0'
-  codename: dipper
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_MI8_20.8.13_b2bf1a4a67_10.0.zip
-  name: Mi 8
-  version: 20.8.13
-- android: '10.0'
-  codename: dipper
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_MI8_20.8.6_a21a4a4320_10.0.zip
-  name: Mi 8
-  version: 20.8.6
-- android: '10.0'
-  codename: dipper
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_MI8_20.7.30_6cdae325ba_10.0.zip
-  name: Mi 8
-  version: 20.7.30
-- android: '10.0'
-  codename: dipper
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_MI8_20.7.23_5713b31d0c_10.0.zip
-  name: Mi 8
-  version: 20.7.23
-- android: '10.0'
-  codename: dipper
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_MI8_20.7.16_dd68915c32_10.0.zip
-  name: Mi 8
-  version: 20.7.16
-- android: '10.0'
-  codename: dipper
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_MI8_20.7.9_57655f4e7c_10.0.zip
-  name: Mi 8
-  version: 20.7.9
-- android: '10.0'
-  codename: dipper
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_MI8_20.7.2_93c428b61e_10.0.zip
-  name: Mi 8
-  version: 20.7.2
-- android: '10.0'
-  codename: dipper
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_MI8_20.6.18_942894a254_10.0.zip
-  name: Mi 8
-  version: 20.6.18
-- android: '10.0'
-  codename: dipper
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MI8_20.6.11_846d1b539f_10.0.zip
-  name: Mi 8
-  version: 20.6.11
-- android: '10.0'
-  codename: dipper
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MI8_20.6.4_248dbd666c_10.0.zip
-  name: Mi 8
-  version: 20.6.4
-- android: '10.0'
-  codename: dipper
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_MI8_20.5.28_a31ca01f86_10.0.zip
-  name: Mi 8
-  version: 20.5.28
-- android: '10.0'
-  codename: dipper
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MI8_20.5.21_04b4b6c48c_10.0.zip
-  name: Mi 8
-  version: 20.5.21
-- android: '10.0'
-  codename: dipper
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_MI8_20.5.14_8988f38447_10.0.zip
-  name: Mi 8
-  version: 20.5.14
-- android: '10.0'
-  codename: dipper
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_MI8_20.5.7_50340d2975_10.0.zip
   name: Mi 8
   version: 20.5.7
-- android: '10.0'
-  codename: dipper
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_MI8_20.4.30_a164e72f37_10.0.zip
-  name: Mi 8
-  version: 20.4.30
-- android: '10.0'
-  codename: dipper
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MI8_20.4.27_6e2adf8f87_10.0.zip
-  name: Mi 8
-  version: 20.4.27
 - android: '10.0'
   codename: equuleus
   date: '2020-09-05'
@@ -1740,130 +1236,16 @@
   version: 20.9.4
 - android: '10.0'
   codename: equuleus
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_MI8UD_20.9.3_b7eb7b57aa_10.0.zip
-  name: Mi 8 Pro
-  version: 20.9.3
-- android: '10.0'
-  codename: equuleus
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_MI8UD_20.8.27_46c0a02949_10.0.zip
-  name: Mi 8 Pro
-  version: 20.8.27
-- android: '10.0'
-  codename: equuleus
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_MI8UD_20.8.20_172763f9ac_10.0.zip
-  name: Mi 8 Pro
-  version: 20.8.20
-- android: '10.0'
-  codename: equuleus
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_MI8UD_20.8.13_dd5f9b0b5f_10.0.zip
-  name: Mi 8 Pro
-  version: 20.8.13
-- android: '10.0'
-  codename: equuleus
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_MI8UD_20.8.6_ca371086ae_10.0.zip
-  name: Mi 8 Pro
-  version: 20.8.6
-- android: '10.0'
-  codename: equuleus
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_MI8UD_20.7.30_8e7e2bc9af_10.0.zip
-  name: Mi 8 Pro
-  version: 20.7.30
-- android: '10.0'
-  codename: equuleus
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_MI8UD_20.7.23_b1018d0697_10.0.zip
-  name: Mi 8 Pro
-  version: 20.7.23
-- android: '10.0'
-  codename: equuleus
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_MI8UD_20.7.16_25557455d8_10.0.zip
-  name: Mi 8 Pro
-  version: 20.7.16
-- android: '10.0'
-  codename: equuleus
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_MI8UD_20.7.9_089f790d48_10.0.zip
-  name: Mi 8 Pro
-  version: 20.7.9
-- android: '10.0'
-  codename: equuleus
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_MI8UD_20.7.2_c260388c63_10.0.zip
-  name: Mi 8 Pro
-  version: 20.7.2
-- android: '10.0'
-  codename: equuleus
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_MI8UD_20.6.18_985dd4635f_10.0.zip
-  name: Mi 8 Pro
-  version: 20.6.18
-- android: '10.0'
-  codename: equuleus
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MI8UD_20.6.11_c568f3b44d_10.0.zip
-  name: Mi 8 Pro
-  version: 20.6.11
-- android: '10.0'
-  codename: equuleus
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MI8UD_20.6.4_2a4f914bf8_10.0.zip
-  name: Mi 8 Pro
-  version: 20.6.4
-- android: '10.0'
-  codename: equuleus
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_MI8UD_20.5.28_e684ba615d_10.0.zip
-  name: Mi 8 Pro
-  version: 20.5.28
-- android: '10.0'
-  codename: equuleus
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MI8UD_20.5.21_0815c9e8fe_10.0.zip
-  name: Mi 8 Pro
-  version: 20.5.21
-- android: '10.0'
-  codename: equuleus
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_MI8UD_20.5.14_79fa269a6e_10.0.zip
-  name: Mi 8 Pro
-  version: 20.5.14
-- android: '10.0'
-  codename: equuleus
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_MI8UD_20.5.7_0529b9638e_10.0.zip
   name: Mi 8 Pro
   version: 20.5.7
-- android: '10.0'
-  codename: equuleus
-  date: '2020-05-01'
-  download: https://bigota.d.miui.com/20.4.30/miui_MI8UD_20.4.30_fbe520da99_10.0.zip
-  name: Mi 8 Pro
-  version: 20.4.30
-- android: '10.0'
-  codename: equuleus
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MI8UD_20.4.27_a7821ab655_10.0.zip
-  name: Mi 8 Pro
-  version: 20.4.27
 - android: '11.0'
   codename: gauguin
   date: '2021-04-16'
   download: https://bigota.d.miui.com/21.4.14/miui_GAUGUIN_21.4.14_4f8c366cff_11.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: 21.4.14
-- android: '11.0'
-  codename: gauguin
-  date: '2021-04-08'
-  download: https://bigota.d.miui.com/21.4.7/miui_GAUGUIN_21.4.7_224f1ae2bf_11.0.zip
-  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
-  version: 21.4.7
 - android: '11.0'
   codename: gauguin
   date: '2021-04-01'
@@ -1876,18 +1258,6 @@
   download: https://bigota.d.miui.com/21.4.14/miui_GINKGO_21.4.14_f69b5fd94f_11.0.zip
   name: Redmi Note 8
   version: 21.4.14
-- android: '11.0'
-  codename: ginkgo
-  date: '2021-04-08'
-  download: https://bigota.d.miui.com/21.4.7/miui_GINKGO_21.4.7_0df3126c96_11.0.zip
-  name: Redmi Note 8
-  version: 21.4.7
-- android: '11.0'
-  codename: ginkgo
-  date: '2021-04-01'
-  download: https://bigota.d.miui.com/21.3.31/miui_GINKGO_21.3.31_f03ff99103_11.0.zip
-  name: Redmi Note 8
-  version: 21.3.31
 - android: '10.0'
   codename: ginkgo
   date: '2020-12-10'
@@ -1902,34 +1272,16 @@
   version: 20.12.2
 - android: '10.0'
   codename: ginkgo
-  date: '2020-11-26'
-  download: https://bigota.d.miui.com/20.11.25/miui_GINKGO_20.11.25_c78c2a8d95_10.0.zip
-  name: Redmi Note 8
-  version: 20.11.25
-- android: '10.0'
-  codename: ginkgo
   date: '2020-11-19'
   download: https://bigota.d.miui.com/20.11.18/miui_GINKGO_20.11.18_368591d347_10.0.zip
   name: Redmi Note 8
   version: 20.11.18
 - android: '10.0'
   codename: ginkgo
-  date: '2020-11-12'
-  download: https://bigota.d.miui.com/20.11.11/miui_GINKGO_20.11.11_ba1dd2e155_10.0.zip
-  name: Redmi Note 8
-  version: 20.11.11
-- android: '10.0'
-  codename: ginkgo
   date: '2020-11-06'
   download: https://bigota.d.miui.com/20.11.5/miui_GINKGO_20.11.5_2295d79449_10.0.zip
   name: Redmi Note 8
   version: 20.11.5
-- android: '10.0'
-  codename: ginkgo
-  date: '2020-10-31'
-  download: https://bigota.d.miui.com/20.10.30/miui_GINKGO_20.10.30_97f743816b_10.0.zip
-  name: Redmi Note 8
-  version: 20.10.30
 - android: '10.0'
   codename: ginkgo
   date: '2020-10-29'
@@ -1962,12 +1314,6 @@
   version: 20.9.17
 - android: '10.0'
   codename: ginkgo
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_GINKGO_20.9.10_a88eaf7bf7_10.0.zip
-  name: Redmi Note 8
-  version: 20.9.10
-- android: '10.0'
-  codename: ginkgo
   date: '2020-09-03'
   download: https://bigota.d.miui.com/20.9.3/miui_GINKGO_20.9.3_967a337508_10.0.zip
   name: Redmi Note 8
@@ -1978,12 +1324,6 @@
   download: https://bigota.d.miui.com/20.8.27/miui_GINKGO_20.8.27_d76925be28_10.0.zip
   name: Redmi Note 8
   version: 20.8.27
-- android: '10.0'
-  codename: ginkgo
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_GINKGO_20.8.20_4de370baf0_10.0.zip
-  name: Redmi Note 8
-  version: 20.8.20
 - android: '10.0'
   codename: ginkgo
   date: '2020-08-13'
@@ -2004,28 +1344,10 @@
   version: 20.7.30
 - android: '10.0'
   codename: ginkgo
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_GINKGO_20.7.23_e2b7abec30_10.0.zip
-  name: Redmi Note 8
-  version: 20.7.23
-- android: '10.0'
-  codename: ginkgo
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_GINKGO_20.7.16_7ea298f3e5_10.0.zip
-  name: Redmi Note 8
-  version: 20.7.16
-- android: '10.0'
-  codename: ginkgo
   date: '2020-07-09'
   download: https://bigota.d.miui.com/20.7.9/miui_GINKGO_20.7.9_9fd9ff6ac6_10.0.zip
   name: Redmi Note 8
   version: 20.7.9
-- android: '10.0'
-  codename: ginkgo
-  date: '2020-07-03'
-  download: https://bigota.d.miui.com/20.7.3/miui_GINKGO_20.7.3_811db3924e_10.0.zip
-  name: Redmi Note 8
-  version: 20.7.3
 - android: '10.0'
   codename: ginkgo
   date: '2020-06-18'
@@ -2044,18 +1366,6 @@
   download: https://bigota.d.miui.com/21.4.7/miui_GRUS_21.4.7_aad81c9d66_11.0.zip
   name: Mi 9 SE
   version: 21.4.7
-- android: '11.0'
-  codename: grus
-  date: '2021-04-01'
-  download: https://bigota.d.miui.com/21.3.31/miui_GRUS_21.3.31_8161824ca8_11.0.zip
-  name: Mi 9 SE
-  version: 21.3.31
-- android: '11.0'
-  codename: grus
-  date: '2020-12-31'
-  download: https://bigota.d.miui.com/20.12.28/miui_GRUS_20.12.28_5c31b29c23_11.0.zip
-  name: Mi 9 SE
-  version: 20.12.28
 - android: '10.0'
   codename: grus
   date: '2020-12-10'
@@ -2068,36 +1378,6 @@
   download: https://bigota.d.miui.com/20.12.2/miui_GRUS_20.12.2_adb702635b_10.0.zip
   name: Mi 9 SE
   version: 20.12.2
-- android: '10.0'
-  codename: grus
-  date: '2020-11-26'
-  download: https://bigota.d.miui.com/20.11.25/miui_GRUS_20.11.25_566917d67b_10.0.zip
-  name: Mi 9 SE
-  version: 20.11.25
-- android: '10.0'
-  codename: grus
-  date: '2020-11-19'
-  download: https://bigota.d.miui.com/20.11.18/miui_GRUS_20.11.18_86f937515f_10.0.zip
-  name: Mi 9 SE
-  version: 20.11.18
-- android: '10.0'
-  codename: grus
-  date: '2020-11-12'
-  download: https://bigota.d.miui.com/20.11.11/miui_GRUS_20.11.11_81669fc3fe_10.0.zip
-  name: Mi 9 SE
-  version: 20.11.11
-- android: '10.0'
-  codename: grus
-  date: '2020-11-06'
-  download: https://bigota.d.miui.com/20.11.5/miui_GRUS_20.11.5_72220bacc1_10.0.zip
-  name: Mi 9 SE
-  version: 20.11.5
-- android: '10.0'
-  codename: grus
-  date: '2020-10-31'
-  download: https://bigota.d.miui.com/20.10.30/miui_GRUS_20.10.30_7faa0b06a2_10.0.zip
-  name: Mi 9 SE
-  version: 20.10.30
 - android: '10.0'
   codename: grus
   date: '2020-10-29'
@@ -2124,30 +1404,6 @@
   version: 20.9.24
 - android: '10.0'
   codename: grus
-  date: '2020-09-17'
-  download: https://bigota.d.miui.com/20.9.17/miui_GRUS_20.9.17_4169af03bc_10.0.zip
-  name: Mi 9 SE
-  version: 20.9.17
-- android: '10.0'
-  codename: grus
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_GRUS_20.9.10_42e631d0e7_10.0.zip
-  name: Mi 9 SE
-  version: 20.9.10
-- android: '10.0'
-  codename: grus
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_GRUS_20.9.3_8d1318af46_10.0.zip
-  name: Mi 9 SE
-  version: 20.9.3
-- android: '10.0'
-  codename: grus
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_GRUS_20.8.27_9b535b6852_10.0.zip
-  name: Mi 9 SE
-  version: 20.8.27
-- android: '10.0'
-  codename: grus
   date: '2020-08-21'
   download: https://bigota.d.miui.com/20.8.20/miui_GRUS_20.8.20_9aa8e6c038_10.0.zip
   name: Mi 9 SE
@@ -2160,94 +1416,10 @@
   version: 20.8.13
 - android: '10.0'
   codename: grus
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_GRUS_20.8.6_43375269bd_10.0.zip
-  name: Mi 9 SE
-  version: 20.8.6
-- android: '10.0'
-  codename: grus
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_GRUS_20.7.30_baaa8cf46f_10.0.zip
-  name: Mi 9 SE
-  version: 20.7.30
-- android: '10.0'
-  codename: grus
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_GRUS_20.7.23_c4c6c6257c_10.0.zip
-  name: Mi 9 SE
-  version: 20.7.23
-- android: '10.0'
-  codename: grus
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_GRUS_20.7.16_b935bc73d7_10.0.zip
-  name: Mi 9 SE
-  version: 20.7.16
-- android: '10.0'
-  codename: grus
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_GRUS_20.7.9_1439da9adf_10.0.zip
-  name: Mi 9 SE
-  version: 20.7.9
-- android: '10.0'
-  codename: grus
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_GRUS_20.7.2_59aa12373d_10.0.zip
-  name: Mi 9 SE
-  version: 20.7.2
-- android: '10.0'
-  codename: grus
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_GRUS_20.6.18_8d3192f883_10.0.zip
-  name: Mi 9 SE
-  version: 20.6.18
-- android: '10.0'
-  codename: grus
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_GRUS_20.6.11_1d365d5e81_10.0.zip
-  name: Mi 9 SE
-  version: 20.6.11
-- android: '10.0'
-  codename: grus
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_GRUS_20.6.4_1fbb260bac_10.0.zip
-  name: Mi 9 SE
-  version: 20.6.4
-- android: '10.0'
-  codename: grus
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_GRUS_20.5.28_dcdfb69e45_10.0.zip
-  name: Mi 9 SE
-  version: 20.5.28
-- android: '10.0'
-  codename: grus
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_GRUS_20.5.21_f6db266379_10.0.zip
-  name: Mi 9 SE
-  version: 20.5.21
-- android: '10.0'
-  codename: grus
-  date: '2020-05-15'
-  download: https://bigota.d.miui.com/20.5.14/miui_GRUS_20.5.14_91fd47f8ba_10.0.zip
-  name: Mi 9 SE
-  version: 20.5.14
-- android: '10.0'
-  codename: grus
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_GRUS_20.5.7_311b85a913_10.0.zip
   name: Mi 9 SE
   version: 20.5.7
-- android: '10.0'
-  codename: grus
-  date: '2020-05-01'
-  download: https://bigota.d.miui.com/20.4.30/miui_GRUS_20.4.30_0050fb930a_10.0.zip
-  name: Mi 9 SE
-  version: 20.4.30
-- android: '10.0'
-  codename: grus
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_GRUS_20.4.27_ab6a1191ff_10.0.zip
-  name: Mi 9 SE
-  version: 20.4.27
 - android: '11.0'
   codename: haydn
   date: '2021-04-17'
@@ -2274,52 +1446,16 @@
   version: 20.6.18
 - android: '9.0'
   codename: jason
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MINote3_20.6.11_39e0c4f9df_9.0.zip
-  name: Mi Note 3
-  version: 20.6.11
-- android: '9.0'
-  codename: jason
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MINote3_20.6.4_15967106a8_9.0.zip
-  name: Mi Note 3
-  version: 20.6.4
-- android: '9.0'
-  codename: jason
   date: '2020-05-28'
   download: https://bigota.d.miui.com/20.5.28/miui_MINote3_20.5.28_6b0c3b94c8_9.0.zip
   name: Mi Note 3
   version: 20.5.28
 - android: '9.0'
   codename: jason
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MINote3_20.5.21_2d72c195f7_9.0.zip
-  name: Mi Note 3
-  version: 20.5.21
-- android: '9.0'
-  codename: jason
   date: '2020-05-14'
   download: https://bigota.d.miui.com/20.5.14/miui_MINote3_20.5.14_6cb7670b86_9.0.zip
   name: Mi Note 3
   version: 20.5.14
-- android: '9.0'
-  codename: jason
-  date: '2020-05-08'
-  download: https://bigota.d.miui.com/20.5.7/miui_MINote3_20.5.7_351ff85d04_9.0.zip
-  name: Mi Note 3
-  version: 20.5.7
-- android: '9.0'
-  codename: jason
-  date: '2020-05-01'
-  download: https://bigota.d.miui.com/20.4.30/miui_MINote3_20.4.30_98d04680d3_9.0.zip
-  name: Mi Note 3
-  version: 20.4.30
-- android: '9.0'
-  codename: jason
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MINote3_20.4.27_850c3bed1a_9.0.zip
-  name: Mi Note 3
-  version: 20.4.27
 - android: '10.0'
   codename: laurus
   date: '2021-04-16'
@@ -2328,166 +1464,16 @@
   version: 21.4.14
 - android: '10.0'
   codename: laurus
-  date: '2021-04-08'
-  download: https://bigota.d.miui.com/21.4.7/miui_LAURUS_21.4.7_71ec777186_10.0.zip
-  name: Mi CC 9e
-  version: 21.4.7
-- android: '10.0'
-  codename: laurus
   date: '2021-04-01'
   download: https://bigota.d.miui.com/21.4.1/miui_LAURUS_21.4.1_b0231e6134_10.0.zip
   name: Mi CC 9e
   version: 21.4.1
 - android: '10.0'
   codename: laurus
-  date: '2020-12-31'
-  download: https://bigota.d.miui.com/20.12.28/miui_LAURUS_20.12.28_27a143ce05_10.0.zip
-  name: Mi CC 9e
-  version: 20.12.28
-- android: '10.0'
-  codename: laurus
-  date: '2020-12-10'
-  download: https://bigota.d.miui.com/20.12.9/miui_LAURUS_20.12.9_7903e94e4a_10.0.zip
-  name: Mi CC 9e
-  version: 20.12.9
-- android: '10.0'
-  codename: laurus
-  date: '2020-12-03'
-  download: https://bigota.d.miui.com/20.12.2/miui_LAURUS_20.12.2_2ef44c9afd_10.0.zip
-  name: Mi CC 9e
-  version: 20.12.2
-- android: '10.0'
-  codename: laurus
-  date: '2020-11-26'
-  download: https://bigota.d.miui.com/20.11.25/miui_LAURUS_20.11.25_15446fd078_10.0.zip
-  name: Mi CC 9e
-  version: 20.11.25
-- android: '10.0'
-  codename: laurus
-  date: '2020-11-19'
-  download: https://bigota.d.miui.com/20.11.18/miui_LAURUS_20.11.18_1ede53ea26_10.0.zip
-  name: Mi CC 9e
-  version: 20.11.18
-- android: '10.0'
-  codename: laurus
-  date: '2020-11-12'
-  download: https://bigota.d.miui.com/20.11.11/miui_LAURUS_20.11.11_f6c0233140_10.0.zip
-  name: Mi CC 9e
-  version: 20.11.11
-- android: '10.0'
-  codename: laurus
-  date: '2020-10-31'
-  download: https://bigota.d.miui.com/20.10.30/miui_LAURUS_20.10.30_efd94c0e0c_10.0.zip
-  name: Mi CC 9e
-  version: 20.10.30
-- android: '10.0'
-  codename: laurus
-  date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_LAURUS_20.10.29_5e4bd24bf8_10.0.zip
-  name: Mi CC 9e
-  version: 20.10.29
-- android: '10.0'
-  codename: laurus
-  date: '2020-10-22'
-  download: https://bigota.d.miui.com/20.10.22/miui_LAURUS_20.10.22_e1c0e25b76_10.0.zip
-  name: Mi CC 9e
-  version: 20.10.22
-- android: '10.0'
-  codename: laurus
-  date: '2020-10-15'
-  download: https://bigota.d.miui.com/20.10.15/miui_LAURUS_20.10.15_a3f373b226_10.0.zip
-  name: Mi CC 9e
-  version: 20.10.15
-- android: '10.0'
-  codename: laurus
-  date: '2020-09-24'
-  download: https://bigota.d.miui.com/20.9.24/miui_LAURUS_20.9.24_dd5e30aee2_10.0.zip
-  name: Mi CC 9e
-  version: 20.9.24
-- android: '10.0'
-  codename: laurus
-  date: '2020-09-17'
-  download: https://bigota.d.miui.com/20.9.17/miui_LAURUS_20.9.17_2da7ff3e69_10.0.zip
-  name: Mi CC 9e
-  version: 20.9.17
-- android: '10.0'
-  codename: laurus
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_LAURUS_20.9.10_ddd8e218d4_10.0.zip
-  name: Mi CC 9e
-  version: 20.9.10
-- android: '10.0'
-  codename: laurus
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_LAURUS_20.9.3_310a136e05_10.0.zip
-  name: Mi CC 9e
-  version: 20.9.3
-- android: '10.0'
-  codename: laurus
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_LAURUS_20.8.27_698a89195f_10.0.zip
-  name: Mi CC 9e
-  version: 20.8.27
-- android: '10.0'
-  codename: laurus
   date: '2020-08-21'
   download: https://bigota.d.miui.com/20.8.20/miui_LAURUS_20.8.20_2e6b3fc438_10.0.zip
   name: Mi CC 9e
   version: 20.8.20
-- android: '10.0'
-  codename: laurus
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_LAURUS_20.8.13_ffb99bb019_10.0.zip
-  name: Mi CC 9e
-  version: 20.8.13
-- android: '10.0'
-  codename: laurus
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_LAURUS_20.8.6_5e2a30c340_10.0.zip
-  name: Mi CC 9e
-  version: 20.8.6
-- android: '10.0'
-  codename: laurus
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_LAURUS_20.7.30_d42b9e4188_10.0.zip
-  name: Mi CC 9e
-  version: 20.7.30
-- android: '10.0'
-  codename: laurus
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_LAURUS_20.7.23_6638e64832_10.0.zip
-  name: Mi CC 9e
-  version: 20.7.23
-- android: '10.0'
-  codename: laurus
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_LAURUS_20.7.16_0a87cb696b_10.0.zip
-  name: Mi CC 9e
-  version: 20.7.16
-- android: '10.0'
-  codename: laurus
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_LAURUS_20.7.9_5587b2a85c_10.0.zip
-  name: Mi CC 9e
-  version: 20.7.9
-- android: '10.0'
-  codename: laurus
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_LAURUS_20.7.2_b77a444079_10.0.zip
-  name: Mi CC 9e
-  version: 20.7.2
-- android: '10.0'
-  codename: laurus
-  date: '2020-06-19'
-  download: https://bigota.d.miui.com/20.6.18/miui_LAURUS_20.6.18_147b7b693f_10.0.zip
-  name: Mi CC 9e
-  version: 20.6.18
-- android: '10.0'
-  codename: laurus
-  date: '2020-06-12'
-  download: https://bigota.d.miui.com/20.6.11/miui_LAURUS_20.6.11_36a9cdc42a_10.0.zip
-  name: Mi CC 9e
-  version: 20.6.11
 - android: '10.0'
   codename: lavender
   date: '2021-04-16'
@@ -2508,22 +1494,10 @@
   version: 21.4.1
 - android: '10.0'
   codename: lavender
-  date: '2020-12-31'
-  download: https://bigota.d.miui.com/20.12.28/miui_LAVENDER_20.12.28_0e6fdce103_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.12.28
-- android: '10.0'
-  codename: lavender
   date: '2020-12-10'
   download: https://bigota.d.miui.com/20.12.9/miui_LAVENDER_20.12.9_e9cdcdb88d_10.0.zip
   name: Redmi Note 7/7S
   version: 20.12.9
-- android: '10.0'
-  codename: lavender
-  date: '2020-12-03'
-  download: https://bigota.d.miui.com/20.12.2/miui_LAVENDER_20.12.2_6b365f88f0_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.12.2
 - android: '10.0'
   codename: lavender
   date: '2020-11-26'
@@ -2538,52 +1512,10 @@
   version: 20.11.18
 - android: '10.0'
   codename: lavender
-  date: '2020-11-12'
-  download: https://bigota.d.miui.com/20.11.11/miui_LAVENDER_20.11.11_8b4f220bb2_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.11.11
-- android: '10.0'
-  codename: lavender
   date: '2020-11-06'
   download: https://bigota.d.miui.com/20.11.5/miui_LAVENDER_20.11.5_f1385b6459_10.0.zip
   name: Redmi Note 7/7S
   version: 20.11.5
-- android: '10.0'
-  codename: lavender
-  date: '2020-10-31'
-  download: https://bigota.d.miui.com/20.10.30/miui_LAVENDER_20.10.30_82efc9b856_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.10.30
-- android: '10.0'
-  codename: lavender
-  date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_LAVENDER_20.10.29_c66fd0950f_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.10.29
-- android: '10.0'
-  codename: lavender
-  date: '2020-10-22'
-  download: https://bigota.d.miui.com/20.10.22/miui_LAVENDER_20.10.22_70dd144a5e_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.10.22
-- android: '10.0'
-  codename: lavender
-  date: '2020-10-15'
-  download: https://bigota.d.miui.com/20.10.15/miui_LAVENDER_20.10.15_1fa315ed9e_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.10.15
-- android: '10.0'
-  codename: lavender
-  date: '2020-09-25'
-  download: https://bigota.d.miui.com/20.9.24/miui_LAVENDER_20.9.24_594eaecdd3_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.9.24
-- android: '10.0'
-  codename: lavender
-  date: '2020-09-17'
-  download: https://bigota.d.miui.com/20.9.17/miui_LAVENDER_20.9.17_c0567a17a1_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.9.17
 - android: '10.0'
   codename: lavender
   date: '2020-09-10'
@@ -2598,36 +1530,6 @@
   version: 20.9.3
 - android: '10.0'
   codename: lavender
-  date: '2020-08-31'
-  download: https://bigota.d.miui.com/20.8.28/miui_LAVENDER_20.8.28_6662ce7e42_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.8.28
-- android: '10.0'
-  codename: lavender
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_LAVENDER_20.8.20_2caa79398b_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.8.20
-- android: '10.0'
-  codename: lavender
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_LAVENDER_20.8.13_ffd98fa8a1_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.8.13
-- android: '10.0'
-  codename: lavender
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_LAVENDER_20.8.6_863d9624cb_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.8.6
-- android: '10.0'
-  codename: lavender
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_LAVENDER_20.7.30_bd3e9cefb8_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.7.30
-- android: '10.0'
-  codename: lavender
   date: '2020-07-23'
   download: https://bigota.d.miui.com/20.7.23/miui_LAVENDER_20.7.23_1fd155b9c4_10.0.zip
   name: Redmi Note 7/7S
@@ -2638,12 +1540,6 @@
   download: https://bigota.d.miui.com/20.7.9/miui_LAVENDER_20.7.9_a0a9be02dc_10.0.zip
   name: Redmi Note 7/7S
   version: 20.7.9
-- android: '10.0'
-  codename: lavender
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_LAVENDER_20.7.2_8a1288cd2e_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.7.2
 - android: '10.0'
   codename: lavender
   date: '2020-06-18'
@@ -2668,12 +1564,6 @@
   download: https://bigota.d.miui.com/20.5.28/miui_LAVENDER_20.5.28_6293665759_10.0.zip
   name: Redmi Note 7/7S
   version: 20.5.28
-- android: '10.0'
-  codename: lavender
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_LAVENDER_20.5.21_ee1e48ebad_10.0.zip
-  name: Redmi Note 7/7S
-  version: 20.5.21
 - android: '10.0'
   codename: lavender
   date: '2020-04-27'
@@ -2764,12 +1654,6 @@
   download: https://bigota.d.miui.com/20.10.30/miui_LMI_20.10.30_b56e2ffe92_11.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
   version: 20.10.30
-- android: '11.0'
-  codename: lmi
-  date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_LMI_20.10.29_02f24a2b45_11.0.zip
-  name: Redmi K30 Pro/POCO F2 Pro
-  version: 20.10.29
 - android: '11.0'
   codename: lmi
   date: '2020-10-23'
@@ -2874,58 +1758,10 @@
   version: 20.9.4
 - android: '10.0'
   codename: nitrogen
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_MIMAX3_20.9.3_3c144ec678_10.0.zip
-  name: Mi Max 3
-  version: 20.9.3
-- android: '10.0'
-  codename: nitrogen
   date: '2020-08-28'
   download: https://bigota.d.miui.com/20.8.27/miui_MIMAX3_20.8.27_980d442c0f_10.0.zip
   name: Mi Max 3
   version: 20.8.27
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_MIMAX3_20.8.20_846ef71676_10.0.zip
-  name: Mi Max 3
-  version: 20.8.20
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_MIMAX3_20.8.13_22abbbcb5b_10.0.zip
-  name: Mi Max 3
-  version: 20.8.13
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_MIMAX3_20.8.6_8e978f6bef_10.0.zip
-  name: Mi Max 3
-  version: 20.8.6
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_MIMAX3_20.7.30_3dc2afa881_10.0.zip
-  name: Mi Max 3
-  version: 20.7.30
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_MIMAX3_20.7.23_945000ee8a_10.0.zip
-  name: Mi Max 3
-  version: 20.7.23
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_MIMAX3_20.7.16_a6a7576749_10.0.zip
-  name: Mi Max 3
-  version: 20.7.16
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_MIMAX3_20.7.9_ea6fd82848_10.0.zip
-  name: Mi Max 3
-  version: 20.7.9
 - android: '10.0'
   codename: nitrogen
   date: '2020-07-02'
@@ -2940,52 +1776,10 @@
   version: 20.6.18
 - android: '10.0'
   codename: nitrogen
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MIMAX3_20.6.11_0ee690a1ff_10.0.zip
-  name: Mi Max 3
-  version: 20.6.11
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MIMAX3_20.6.4_1fb894d44f_10.0.zip
-  name: Mi Max 3
-  version: 20.6.4
-- android: '10.0'
-  codename: nitrogen
   date: '2020-05-28'
   download: https://bigota.d.miui.com/20.5.28/miui_MIMAX3_20.5.28_5ab65972b1_10.0.zip
   name: Mi Max 3
   version: 20.5.28
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MIMAX3_20.5.21_9d2f801013_10.0.zip
-  name: Mi Max 3
-  version: 20.5.21
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_MIMAX3_20.5.14_19f1be2c87_10.0.zip
-  name: Mi Max 3
-  version: 20.5.14
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-05-08'
-  download: https://bigota.d.miui.com/20.5.7/miui_MIMAX3_20.5.7_ca3633b59e_10.0.zip
-  name: Mi Max 3
-  version: 20.5.7
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_MIMAX3_20.4.30_e1af202845_10.0.zip
-  name: Mi Max 3
-  version: 20.4.30
-- android: '10.0'
-  codename: nitrogen
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MIMAX3_20.4.27_6a348503a7_10.0.zip
-  name: Mi Max 3
-  version: 20.4.27
 - android: '10.0'
   codename: perseus
   date: '2020-09-05'
@@ -2994,130 +1788,22 @@
   version: 20.9.4
 - android: '10.0'
   codename: perseus
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_MIMIX3_20.9.3_585adf1035_10.0.zip
-  name: Mi MIX 3
-  version: 20.9.3
-- android: '10.0'
-  codename: perseus
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_MIMIX3_20.8.27_3ff4afb81f_10.0.zip
-  name: Mi MIX 3
-  version: 20.8.27
-- android: '10.0'
-  codename: perseus
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_MIMIX3_20.8.20_7569ce1510_10.0.zip
-  name: Mi MIX 3
-  version: 20.8.20
-- android: '10.0'
-  codename: perseus
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_MIMIX3_20.8.13_d8a7bf7e80_10.0.zip
-  name: Mi MIX 3
-  version: 20.8.13
-- android: '10.0'
-  codename: perseus
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_MIMIX3_20.8.6_7d6008f7d6_10.0.zip
-  name: Mi MIX 3
-  version: 20.8.6
-- android: '10.0'
-  codename: perseus
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_MIMIX3_20.7.30_b0165c48f7_10.0.zip
-  name: Mi MIX 3
-  version: 20.7.30
-- android: '10.0'
-  codename: perseus
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_MIMIX3_20.7.23_2c6d364772_10.0.zip
-  name: Mi MIX 3
-  version: 20.7.23
-- android: '10.0'
-  codename: perseus
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_MIMIX3_20.7.16_b3b12a781d_10.0.zip
-  name: Mi MIX 3
-  version: 20.7.16
-- android: '10.0'
-  codename: perseus
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_MIMIX3_20.7.9_dac0b02ce0_10.0.zip
-  name: Mi MIX 3
-  version: 20.7.9
-- android: '10.0'
-  codename: perseus
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_MIMIX3_20.7.2_9c6b92881b_10.0.zip
-  name: Mi MIX 3
-  version: 20.7.2
-- android: '10.0'
-  codename: perseus
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_MIMIX3_20.6.18_799bd8a8de_10.0.zip
-  name: Mi MIX 3
-  version: 20.6.18
-- android: '10.0'
-  codename: perseus
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MIMIX3_20.6.11_dfad6e9275_10.0.zip
-  name: Mi MIX 3
-  version: 20.6.11
-- android: '10.0'
-  codename: perseus
   date: '2020-06-04'
   download: https://bigota.d.miui.com/20.6.4/miui_MIMIX3_20.6.4_53305433a8_10.0.zip
   name: Mi MIX 3
   version: 20.6.4
 - android: '10.0'
   codename: perseus
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_MIMIX3_20.5.28_27af5ab082_10.0.zip
-  name: Mi MIX 3
-  version: 20.5.28
-- android: '10.0'
-  codename: perseus
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MIMIX3_20.5.21_c98e61331c_10.0.zip
-  name: Mi MIX 3
-  version: 20.5.21
-- android: '10.0'
-  codename: perseus
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_MIMIX3_20.5.14_065ae7de20_10.0.zip
-  name: Mi MIX 3
-  version: 20.5.14
-- android: '10.0'
-  codename: perseus
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_MIMIX3_20.5.7_3a5eb39072_10.0.zip
   name: Mi MIX 3
   version: 20.5.7
-- android: '10.0'
-  codename: perseus
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_MIMIX3_20.4.30_2219be66cc_10.0.zip
-  name: Mi MIX 3
-  version: 20.4.30
-- android: '10.0'
-  codename: perseus
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  name: Mi MIX 3
-  version: 20.4.27
 - android: '11.0'
   codename: phoenix
   date: '2021-04-16'
   download: https://bigota.d.miui.com/21.4.14/miui_PHOENIX_21.4.14_7aeb39d86c_11.0.zip
   name: Redmi K30 4G
   version: 21.4.14
-- android: '11.0'
-  codename: phoenix
-  date: '2021-04-08'
-  download: https://bigota.d.miui.com/21.4.7/miui_PHOENIX_21.4.7_f5ee6297b1_11.0.zip
-  name: Redmi K30 4G
-  version: 21.4.7
 - android: '11.0'
   codename: phoenix
   date: '2021-04-01'
@@ -3174,12 +1860,6 @@
   version: 20.10.30
 - android: '11.0'
   codename: phoenix
-  date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_PHOENIX_20.10.29_bf4d941645_11.0.zip
-  name: Redmi K30 4G
-  version: 20.10.29
-- android: '11.0'
-  codename: phoenix
   date: '2020-10-22'
   download: https://bigota.d.miui.com/20.10.22/miui_PHOENIX_20.10.22_6de2eb2815_11.0.zip
   name: Redmi K30 4G
@@ -3202,30 +1882,6 @@
   download: https://bigota.d.miui.com/20.9.3/miui_PHOENIX_20.9.3_cf0b9e25cc_10.0.zip
   name: Redmi K30 4G
   version: 20.9.3
-- android: '10.0'
-  codename: phoenix
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_PHOENIX_20.8.27_c14b682da2_10.0.zip
-  name: Redmi K30 4G
-  version: 20.8.27
-- android: '10.0'
-  codename: phoenix
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_PHOENIX_20.8.20_a09c2b4d21_10.0.zip
-  name: Redmi K30 4G
-  version: 20.8.20
-- android: '10.0'
-  codename: phoenix
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_PHOENIX_20.8.13_7ed0804008_10.0.zip
-  name: Redmi K30 4G
-  version: 20.8.13
-- android: '10.0'
-  codename: phoenix
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_PHOENIX_20.8.6_ea4fe51dbc_10.0.zip
-  name: Redmi K30 4G
-  version: 20.8.6
 - android: '10.0'
   codename: phoenix
   date: '2020-07-30'
@@ -3252,28 +1908,10 @@
   version: 20.7.9
 - android: '10.0'
   codename: phoenix
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_PHOENIX_20.7.2_95700eb5dc_10.0.zip
-  name: Redmi K30 4G
-  version: 20.7.2
-- android: '10.0'
-  codename: phoenix
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_PHOENIX_20.6.18_c830f7e430_10.0.zip
-  name: Redmi K30 4G
-  version: 20.6.18
-- android: '10.0'
-  codename: phoenix
   date: '2020-06-11'
   download: https://bigota.d.miui.com/20.6.11/miui_PHOENIX_20.6.11_1c6628de30_10.0.zip
   name: Redmi K30 4G
   version: 20.6.11
-- android: '10.0'
-  codename: phoenix
-  date: '2020-06-05'
-  download: https://bigota.d.miui.com/20.6.4/miui_PHOENIX_20.6.4_9612d32a97_10.0.zip
-  name: Redmi K30 4G
-  version: 20.6.4
 - android: '10.0'
   codename: phoenix
   date: '2020-05-28'
@@ -3288,22 +1926,10 @@
   version: 20.5.21
 - android: '10.0'
   codename: phoenix
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_PHOENIX_20.5.14_fcd2062c3b_10.0.zip
-  name: Redmi K30 4G
-  version: 20.5.14
-- android: '10.0'
-  codename: phoenix
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_PHOENIX_20.5.7_e20d64f7b4_10.0.zip
   name: Redmi K30 4G
   version: 20.5.7
-- android: '10.0'
-  codename: phoenix
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_PHOENIX_20.4.30_b464c790c0_10.0.zip
-  name: Redmi K30 4G
-  version: 20.4.30
 - android: '10.0'
   codename: phoenix
   date: '2020-04-27'
@@ -3324,30 +1950,6 @@
   version: 21.4.14
 - android: '11.0'
   codename: picasso
-  date: '2021-04-08'
-  download: https://bigota.d.miui.com/21.4.7/miui_PICASSO48M_21.4.7_29dbf7a750_11.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 21.4.7
-- android: '11.0'
-  codename: picasso
-  date: '2021-04-08'
-  download: https://bigota.d.miui.com/21.4.7/miui_PICASSO_21.4.7_c8e4cc9a56_11.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 21.4.7
-- android: '11.0'
-  codename: picasso
-  date: '2021-04-01'
-  download: https://bigota.d.miui.com/21.3.31/miui_PICASSO48M_21.3.31_e79a05ab7e_11.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 21.3.31
-- android: '11.0'
-  codename: picasso
-  date: '2021-04-01'
-  download: https://bigota.d.miui.com/21.3.31/miui_PICASSO_21.3.31_89fa07229c_11.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 21.3.31
-- android: '11.0'
-  codename: picasso
   date: '2020-12-31'
   download: https://bigota.d.miui.com/20.12.28/miui_PICASSO48M_20.12.28_19d69da307_11.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
@@ -3358,18 +1960,6 @@
   download: https://bigota.d.miui.com/20.12.28/miui_PICASSO_20.12.28_a20831a3af_11.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
   version: 20.12.28
-- android: '11.0'
-  codename: picasso
-  date: '2020-12-10'
-  download: https://bigota.d.miui.com/20.12.10/miui_PICASSO48M_20.12.10_8417af2fbd_11.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 20.12.10
-- android: '11.0'
-  codename: picasso
-  date: '2020-12-10'
-  download: https://bigota.d.miui.com/20.12.10/miui_PICASSO_20.12.10_469cb4838a_11.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 20.12.10
 - android: '11.0'
   codename: picasso
   date: '2020-12-03'
@@ -3445,12 +2035,6 @@
 - android: '11.0'
   codename: picasso
   date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_PICASSO48M_20.10.29_c2d06eaea3_11.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 20.10.29
-- android: '11.0'
-  codename: picasso
-  date: '2020-10-29'
   download: https://bigota.d.miui.com/20.10.29/miui_PICASSO_20.10.29_756d47884d_11.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
   version: 20.10.29
@@ -3498,12 +2082,6 @@
   version: 20.8.13
 - android: '10.0'
   codename: picasso
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_PICASSO_20.8.6_8acfc1991f_10.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 20.8.6
-- android: '10.0'
-  codename: picasso
   date: '2020-07-30'
   download: https://bigota.d.miui.com/20.7.30/miui_PICASSO_20.7.30_713251a876_10.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
@@ -3526,12 +2104,6 @@
   download: https://bigota.d.miui.com/20.7.9/miui_PICASSO_20.7.9_41580d31b0_10.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
   version: 20.7.9
-- android: '10.0'
-  codename: picasso
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_PICASSO_20.7.2_a5482a21cf_10.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 20.7.2
 - android: '10.0'
   codename: picasso
   date: '2020-06-20'
@@ -3575,83 +2147,11 @@
   name: Redmi K30 5G/Redmi K30i 5G
   version: 20.5.7
 - android: '10.0'
-  codename: picasso
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_PICASSO_20.4.30_9e99f3bc13_10.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 20.4.30
-- android: '10.0'
-  codename: picasso
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_PICASSO_20.4.27_e8d40f3110_10.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 20.4.27
-- android: '10.0'
   codename: platina
   date: '2020-09-05'
   download: https://bigota.d.miui.com/20.9.4/miui_MI8Lite_20.9.4_8b364d6684_10.0.zip
   name: Mi 8 Lite
   version: 20.9.4
-- android: '10.0'
-  codename: platina
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_MI8Lite_20.9.3_58614b0cce_10.0.zip
-  name: Mi 8 Lite
-  version: 20.9.3
-- android: '10.0'
-  codename: platina
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_MI8Lite_20.8.27_3dff80278e_10.0.zip
-  name: Mi 8 Lite
-  version: 20.8.27
-- android: '10.0'
-  codename: platina
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_MI8Lite_20.8.20_9e8167e427_10.0.zip
-  name: Mi 8 Lite
-  version: 20.8.20
-- android: '10.0'
-  codename: platina
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_MI8Lite_20.8.13_0094b26770_10.0.zip
-  name: Mi 8 Lite
-  version: 20.8.13
-- android: '10.0'
-  codename: platina
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_MI8Lite_20.8.6_4171215108_10.0.zip
-  name: Mi 8 Lite
-  version: 20.8.6
-- android: '10.0'
-  codename: platina
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_MI8Lite_20.7.30_2c5439a595_10.0.zip
-  name: Mi 8 Lite
-  version: 20.7.30
-- android: '10.0'
-  codename: platina
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_MI8Lite_20.7.23_a1270fe1ab_10.0.zip
-  name: Mi 8 Lite
-  version: 20.7.23
-- android: '10.0'
-  codename: platina
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_MI8Lite_20.7.16_78fdd58c3f_10.0.zip
-  name: Mi 8 Lite
-  version: 20.7.16
-- android: '10.0'
-  codename: platina
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_MI8Lite_20.7.9_f70a741406_10.0.zip
-  name: Mi 8 Lite
-  version: 20.7.9
-- android: '10.0'
-  codename: platina
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_MI8Lite_20.7.2_53da5e21cf_10.0.zip
-  name: Mi 8 Lite
-  version: 20.7.2
 - android: '10.0'
   codename: platina
   date: '2020-06-18'
@@ -3660,52 +2160,10 @@
   version: 20.6.18
 - android: '10.0'
   codename: platina
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MI8Lite_20.6.11_bd26d176ce_10.0.zip
-  name: Mi 8 Lite
-  version: 20.6.11
-- android: '10.0'
-  codename: platina
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MI8Lite_20.6.4_1357415f09_10.0.zip
-  name: Mi 8 Lite
-  version: 20.6.4
-- android: '10.0'
-  codename: platina
   date: '2020-05-28'
   download: https://bigota.d.miui.com/20.5.28/miui_MI8Lite_20.5.28_1c4e513313_10.0.zip
   name: Mi 8 Lite
   version: 20.5.28
-- android: '10.0'
-  codename: platina
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MI8Lite_20.5.21_4c776d4d43_10.0.zip
-  name: Mi 8 Lite
-  version: 20.5.21
-- android: '10.0'
-  codename: platina
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_MI8Lite_20.5.14_681ded80d3_10.0.zip
-  name: Mi 8 Lite
-  version: 20.5.14
-- android: '10.0'
-  codename: platina
-  date: '2020-05-08'
-  download: https://bigota.d.miui.com/20.5.7/miui_MI8Lite_20.5.7_083c3ae766_10.0.zip
-  name: Mi 8 Lite
-  version: 20.5.7
-- android: '10.0'
-  codename: platina
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_MI8Lite_20.4.30_a1ea02e3a0_10.0.zip
-  name: Mi 8 Lite
-  version: 20.4.30
-- android: '10.0'
-  codename: platina
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MI8Lite_20.4.27_612f890248_10.0.zip
-  name: Mi 8 Lite
-  version: 20.4.27
 - android: '10.0'
   codename: polaris
   date: '2020-09-05'
@@ -3714,88 +2172,16 @@
   version: 20.9.4
 - android: '10.0'
   codename: polaris
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_MIMIX2S_20.9.3_cf68e3bc9e_10.0.zip
-  name: Mi MIX 2S
-  version: 20.9.3
-- android: '10.0'
-  codename: polaris
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_MIMIX2S_20.8.27_27afad3705_10.0.zip
-  name: Mi MIX 2S
-  version: 20.8.27
-- android: '10.0'
-  codename: polaris
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_MIMIX2S_20.8.20_2e0e15beea_10.0.zip
-  name: Mi MIX 2S
-  version: 20.8.20
-- android: '10.0'
-  codename: polaris
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_MIMIX2S_20.8.13_25739bd4e3_10.0.zip
-  name: Mi MIX 2S
-  version: 20.8.13
-- android: '10.0'
-  codename: polaris
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_MIMIX2S_20.7.9_1e1765a07a_10.0.zip
-  name: Mi MIX 2S
-  version: 20.7.9
-- android: '10.0'
-  codename: polaris
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_MIMIX2S_20.6.18_cc99dd878d_10.0.zip
-  name: Mi MIX 2S
-  version: 20.6.18
-- android: '10.0'
-  codename: polaris
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MIMIX2S_20.6.11_20bf91cb8e_10.0.zip
-  name: Mi MIX 2S
-  version: 20.6.11
-- android: '10.0'
-  codename: polaris
   date: '2020-06-04'
   download: https://bigota.d.miui.com/20.6.4/miui_MIMIX2S_20.6.4_cc8d36bd27_10.0.zip
   name: Mi MIX 2S
   version: 20.6.4
 - android: '10.0'
   codename: polaris
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_MIMIX2S_20.5.28_20fa7f67d3_10.0.zip
-  name: Mi MIX 2S
-  version: 20.5.28
-- android: '10.0'
-  codename: polaris
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MIMIX2S_20.5.21_cbed250d6f_10.0.zip
-  name: Mi MIX 2S
-  version: 20.5.21
-- android: '10.0'
-  codename: polaris
-  date: '2020-05-15'
-  download: https://bigota.d.miui.com/20.5.14/miui_MIMIX2S_20.5.14_0c4b98f0b0_10.0.zip
-  name: Mi MIX 2S
-  version: 20.5.14
-- android: '10.0'
-  codename: polaris
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_MIMIX2S_20.5.7_d3bcdb1bd0_10.0.zip
   name: Mi MIX 2S
   version: 20.5.7
-- android: '10.0'
-  codename: polaris
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_MIMIX2S_20.4.30_2db521ba0e_10.0.zip
-  name: Mi MIX 2S
-  version: 20.4.30
-- android: '10.0'
-  codename: polaris
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MIMIX2S_20.4.27_11b1226b4c_10.0.zip
-  name: Mi MIX 2S
-  version: 20.4.27
 - android: '11.0'
   codename: pyxis
   date: '2021-04-16'
@@ -3808,12 +2194,6 @@
   download: https://bigota.d.miui.com/21.4.7/miui_PYXIS_21.4.7_21170309bf_11.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 21.4.7
-- android: '11.0'
-  codename: pyxis
-  date: '2021-04-01'
-  download: https://bigota.d.miui.com/21.3.31/miui_PYXIS_21.3.31_fc74575f5d_11.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 21.3.31
 - android: '10.0'
   codename: pyxis
   date: '2020-12-10'
@@ -3828,40 +2208,10 @@
   version: 20.12.2
 - android: '10.0'
   codename: pyxis
-  date: '2020-11-26'
-  download: https://bigota.d.miui.com/20.11.25/miui_PYXIS_20.11.25_4e36e3c5e3_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.11.25
-- android: '10.0'
-  codename: pyxis
-  date: '2020-11-19'
-  download: https://bigota.d.miui.com/20.11.18/miui_PYXIS_20.11.18_9010a548e7_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.11.18
-- android: '10.0'
-  codename: pyxis
-  date: '2020-11-12'
-  download: https://bigota.d.miui.com/20.11.11/miui_PYXIS_20.11.11_e5fa9bc289_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.11.11
-- android: '10.0'
-  codename: pyxis
-  date: '2020-11-06'
-  download: https://bigota.d.miui.com/20.11.5/miui_PYXIS_20.11.5_921acf53d4_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.11.5
-- android: '10.0'
-  codename: pyxis
   date: '2020-10-31'
   download: https://bigota.d.miui.com/20.10.30/miui_PYXIS_20.10.30_8ca34e09be_10.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 20.10.30
-- android: '10.0'
-  codename: pyxis
-  date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_PYXIS_20.10.29_767f6d0352_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.10.29
 - android: '10.0'
   codename: pyxis
   date: '2020-10-22'
@@ -3882,40 +2232,10 @@
   version: 20.9.24
 - android: '10.0'
   codename: pyxis
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_PYXIS_20.9.10_caeacff944_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.9.10
-- android: '10.0'
-  codename: pyxis
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_PYXIS_20.9.3_80ad38c0d6_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.9.3
-- android: '10.0'
-  codename: pyxis
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_PYXIS_20.8.27_8f22f9ac7d_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.8.27
-- android: '10.0'
-  codename: pyxis
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_PYXIS_20.8.20_880b3b35af_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.8.20
-- android: '10.0'
-  codename: pyxis
   date: '2020-08-13'
   download: https://bigota.d.miui.com/20.8.13/miui_PYXIS_20.8.13_e67ee8c48b_10.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 20.8.13
-- android: '10.0'
-  codename: pyxis
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.8.6
 - android: '10.0'
   codename: pyxis
   date: '2020-07-30'
@@ -3924,82 +2244,10 @@
   version: 20.7.30
 - android: '10.0'
   codename: pyxis
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_PYXIS_20.7.23_5191280d5d_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.7.23
-- android: '10.0'
-  codename: pyxis
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_PYXIS_20.7.16_73e89a7643_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.7.16
-- android: '10.0'
-  codename: pyxis
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_PYXIS_20.7.9_6fd502677a_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.7.9
-- android: '10.0'
-  codename: pyxis
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_PYXIS_20.7.2_c79cdeaa45_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.7.2
-- android: '10.0'
-  codename: pyxis
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_PYXIS_20.6.18_81388265ff_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.6.18
-- android: '10.0'
-  codename: pyxis
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_PYXIS_20.6.11_795f1a576c_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.6.11
-- android: '10.0'
-  codename: pyxis
-  date: '2020-06-05'
-  download: https://bigota.d.miui.com/20.6.4/miui_PYXIS_20.6.4_f50b41e042_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.6.4
-- android: '10.0'
-  codename: pyxis
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_PYXIS_20.5.28_5653d0e1fb_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.5.28
-- android: '10.0'
-  codename: pyxis
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_PYXIS_20.5.21_2a14147544_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.5.21
-- android: '10.0'
-  codename: pyxis
-  date: '2020-05-15'
-  download: https://bigota.d.miui.com/20.5.14/miui_PYXIS_20.5.14_1c2be8f66f_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.5.14
-- android: '10.0'
-  codename: pyxis
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_PYXIS_20.5.7_3324c10e52_10.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 20.5.7
-- android: '10.0'
-  codename: pyxis
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_PYXIS_20.4.30_5e81299b72_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.4.30
-- android: '10.0'
-  codename: pyxis
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_PYXIS_20.4.27_a8055982b0_10.0.zip
-  name: Mi CC 9/Mi 9 Lite
-  version: 20.4.27
 - android: '11.0'
   codename: raphael
   date: '2021-04-16'
@@ -4026,52 +2274,16 @@
   version: 20.12.9
 - android: '10.0'
   codename: raphael
-  date: '2020-12-03'
-  download: https://bigota.d.miui.com/20.12.2/miui_RAPHAEL_20.12.2_89175e7dc2_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.12.2
-- android: '10.0'
-  codename: raphael
-  date: '2020-11-26'
-  download: https://bigota.d.miui.com/20.11.25/miui_RAPHAEL_20.11.25_9649a7759c_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.11.25
-- android: '10.0'
-  codename: raphael
   date: '2020-11-19'
   download: https://bigota.d.miui.com/20.11.18/miui_RAPHAEL_20.11.18_70b0355bbb_10.0.zip
   name: Redmi K20 Pro/Mi 9T Pro
   version: 20.11.18
 - android: '10.0'
   codename: raphael
-  date: '2020-11-12'
-  download: https://bigota.d.miui.com/20.11.11/miui_RAPHAEL_20.11.11_776ffd504b_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.11.11
-- android: '10.0'
-  codename: raphael
-  date: '2020-11-06'
-  download: https://bigota.d.miui.com/20.11.5/miui_RAPHAEL_20.11.5_d3ce400e0b_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.11.5
-- android: '10.0'
-  codename: raphael
   date: '2020-10-31'
   download: https://bigota.d.miui.com/20.10.30/miui_RAPHAEL_20.10.30_3fe9c3a408_10.0.zip
   name: Redmi K20 Pro/Mi 9T Pro
   version: 20.10.30
-- android: '10.0'
-  codename: raphael
-  date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_RAPHAEL_20.10.29_f892df878b_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.10.29
-- android: '10.0'
-  codename: raphael
-  date: '2020-10-22'
-  download: https://bigota.d.miui.com/20.10.22/miui_RAPHAEL_20.10.22_f34920e544_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.10.22
 - android: '10.0'
   codename: raphael
   date: '2020-10-15'
@@ -4090,12 +2302,6 @@
   download: https://bigota.d.miui.com/20.9.17/miui_RAPHAEL_20.9.17_db77e3dc3a_10.0.zip
   name: Redmi K20 Pro/Mi 9T Pro
   version: 20.9.17
-- android: '10.0'
-  codename: raphael
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_RAPHAEL_20.9.10_2efc1ad118_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.9.10
 - android: '10.0'
   codename: raphael
   date: '2020-09-03'
@@ -4128,24 +2334,6 @@
   version: 20.8.6
 - android: '10.0'
   codename: raphael
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_RAPHAEL_20.7.30_2061f26e97_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.7.30
-- android: '10.0'
-  codename: raphael
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_RAPHAEL_20.7.23_08c0abd6dc_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.7.23
-- android: '10.0'
-  codename: raphael
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_RAPHAEL_20.7.16_efa0dd683c_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.7.16
-- android: '10.0'
-  codename: raphael
   date: '2020-07-09'
   download: https://bigota.d.miui.com/20.7.9/miui_RAPHAEL_20.7.9_1de3184e00_10.0.zip
   name: Redmi K20 Pro/Mi 9T Pro
@@ -4158,40 +2346,10 @@
   version: 20.7.2
 - android: '10.0'
   codename: raphael
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_RAPHAEL_20.6.18_ffccafbe4a_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.6.18
-- android: '10.0'
-  codename: raphael
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_RAPHAEL_20.6.11_4a67ed3f81_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.6.11
-- android: '10.0'
-  codename: raphael
-  date: '2020-06-05'
-  download: https://bigota.d.miui.com/20.6.4/miui_RAPHAEL_20.6.4_1e271032ae_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.6.4
-- android: '10.0'
-  codename: raphael
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_RAPHAEL_20.5.28_79236bd656_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.5.28
-- android: '10.0'
-  codename: raphael
   date: '2020-05-21'
   download: https://bigota.d.miui.com/20.5.21/miui_RAPHAEL_20.5.21_82a0dc2742_10.0.zip
   name: Redmi K20 Pro/Mi 9T Pro
   version: 20.5.21
-- android: '10.0'
-  codename: raphael
-  date: '2020-05-15'
-  download: https://bigota.d.miui.com/20.5.14/miui_RAPHAEL_20.5.14_7a873b3030_10.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 20.5.14
 - android: '10.0'
   codename: raphael
   date: '2020-05-08'
@@ -4224,52 +2382,10 @@
   version: 20.6.18
 - android: '9.0'
   codename: sagit
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MI6_20.6.11_71c9e56a90_9.0.zip
-  name: Mi 6
-  version: 20.6.11
-- android: '9.0'
-  codename: sagit
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MI6_20.6.4_bdfc013b8f_9.0.zip
-  name: Mi 6
-  version: 20.6.4
-- android: '9.0'
-  codename: sagit
   date: '2020-05-28'
   download: https://bigota.d.miui.com/20.5.28/miui_MI6_20.5.28_98efb12884_9.0.zip
   name: Mi 6
   version: 20.5.28
-- android: '9.0'
-  codename: sagit
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MI6_20.5.21_b739b0fa8e_9.0.zip
-  name: Mi 6
-  version: 20.5.21
-- android: '9.0'
-  codename: sagit
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_MI6_20.5.14_92d9ad84e7_9.0.zip
-  name: Mi 6
-  version: 20.5.14
-- android: '9.0'
-  codename: sagit
-  date: '2020-05-08'
-  download: https://bigota.d.miui.com/20.5.7/miui_MI6_20.5.7_0d7b49288d_9.0.zip
-  name: Mi 6
-  version: 20.5.7
-- android: '9.0'
-  codename: sagit
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_MI6_20.4.30_1f77f6d5fe_9.0.zip
-  name: Mi 6
-  version: 20.4.30
-- android: '9.0'
-  codename: sagit
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MI6_20.4.27_12ed897867_9.0.zip
-  name: Mi 6
-  version: 20.4.27
 - android: '10.0'
   codename: sirius
   date: '2020-09-05'
@@ -4278,118 +2394,10 @@
   version: 20.9.4
 - android: '10.0'
   codename: sirius
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_MI8SE_20.9.3_12b4a58214_10.0.zip
-  name: Mi 8 SE
-  version: 20.9.3
-- android: '10.0'
-  codename: sirius
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_MI8SE_20.8.27_7a0de0dfe4_10.0.zip
-  name: Mi 8 SE
-  version: 20.8.27
-- android: '10.0'
-  codename: sirius
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_MI8SE_20.8.20_784351f621_10.0.zip
-  name: Mi 8 SE
-  version: 20.8.20
-- android: '10.0'
-  codename: sirius
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_MI8SE_20.8.13_2fe2dc7bcd_10.0.zip
-  name: Mi 8 SE
-  version: 20.8.13
-- android: '10.0'
-  codename: sirius
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_MI8SE_20.8.6_ed26676f9c_10.0.zip
-  name: Mi 8 SE
-  version: 20.8.6
-- android: '10.0'
-  codename: sirius
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_MI8SE_20.7.30_546ff86058_10.0.zip
-  name: Mi 8 SE
-  version: 20.7.30
-- android: '10.0'
-  codename: sirius
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_MI8SE_20.7.23_77814f9618_10.0.zip
-  name: Mi 8 SE
-  version: 20.7.23
-- android: '10.0'
-  codename: sirius
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_MI8SE_20.7.16_3bab3c4ca3_10.0.zip
-  name: Mi 8 SE
-  version: 20.7.16
-- android: '10.0'
-  codename: sirius
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_MI8SE_20.7.9_2531121c22_10.0.zip
-  name: Mi 8 SE
-  version: 20.7.9
-- android: '10.0'
-  codename: sirius
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_MI8SE_20.7.2_95549ee952_10.0.zip
-  name: Mi 8 SE
-  version: 20.7.2
-- android: '10.0'
-  codename: sirius
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_MI8SE_20.6.18_65648b698a_10.0.zip
-  name: Mi 8 SE
-  version: 20.6.18
-- android: '10.0'
-  codename: sirius
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MI8SE_20.6.11_18a6efc57b_10.0.zip
-  name: Mi 8 SE
-  version: 20.6.11
-- android: '10.0'
-  codename: sirius
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MI8SE_20.6.4_584225a342_10.0.zip
-  name: Mi 8 SE
-  version: 20.6.4
-- android: '10.0'
-  codename: sirius
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_MI8SE_20.5.28_d4aaf40f76_10.0.zip
-  name: Mi 8 SE
-  version: 20.5.28
-- android: '10.0'
-  codename: sirius
   date: '2020-05-21'
   download: https://bigota.d.miui.com/20.5.21/miui_MI8SE_20.5.21_275736f090_10.0.zip
   name: Mi 8 SE
   version: 20.5.21
-- android: '10.0'
-  codename: sirius
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_MI8SE_20.5.14_eef987a8df_10.0.zip
-  name: Mi 8 SE
-  version: 20.5.14
-- android: '10.0'
-  codename: sirius
-  date: '2020-05-08'
-  download: https://bigota.d.miui.com/20.5.7/miui_MI8SE_20.5.7_56fb1aa820_10.0.zip
-  name: Mi 8 SE
-  version: 20.5.7
-- android: '10.0'
-  codename: sirius
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_MI8SE_20.4.30_6cacb5882d_10.0.zip
-  name: Mi 8 SE
-  version: 20.4.30
-- android: '10.0'
-  codename: sirius
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MI8SE_20.4.27_6e60fb3b66_10.0.zip
-  name: Mi 8 SE
-  version: 20.4.27
 - android: '11.0'
   codename: star
   date: '2021-04-17'
@@ -4470,12 +2478,6 @@
   version: 20.10.30
 - android: '11.0'
   codename: tucana
-  date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_TUCANA_20.10.29_3676f6044c_11.0.zip
-  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
-  version: 20.10.29
-- android: '11.0'
-  codename: tucana
   date: '2020-10-22'
   download: https://bigota.d.miui.com/20.10.22/miui_TUCANA_20.10.22_65a3f2adfa_11.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
@@ -4506,28 +2508,10 @@
   version: 20.8.26
 - android: '10.0'
   codename: tucana
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_TUCANA_20.8.27_6540fa47cf_10.0.zip
-  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
-  version: 20.8.27
-- android: '10.0'
-  codename: tucana
   date: '2020-08-21'
   download: https://bigota.d.miui.com/20.8.20/miui_TUCANA_20.8.20_ac8d221646_10.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 20.8.20
-- android: '10.0'
-  codename: tucana
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_TUCANA_20.8.13_4c532f2e5e_10.0.zip
-  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
-  version: 20.8.13
-- android: '10.0'
-  codename: tucana
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_TUCANA_20.8.6_c200e0df8a_10.0.zip
-  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
-  version: 20.8.6
 - android: '10.0'
   codename: tucana
   date: '2020-07-30'
@@ -4540,12 +2524,6 @@
   download: https://bigota.d.miui.com/20.7.23/miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 20.7.23
-- android: '10.0'
-  codename: tucana
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_TUCANA_20.7.16_986c6402bf_10.0.zip
-  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
-  version: 20.7.16
 - android: '10.0'
   codename: tucana
   date: '2020-07-09'
@@ -4570,18 +2548,6 @@
   download: https://bigota.d.miui.com/20.6.11/miui_TUCANA_20.6.11_5953571c3f_10.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 20.6.11
-- android: '10.0'
-  codename: tucana
-  date: '2020-06-05'
-  download: https://bigota.d.miui.com/20.6.4/miui_TUCANA_20.6.4_199d05fae0_10.0.zip
-  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
-  version: 20.6.4
-- android: '10.0'
-  codename: tucana
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_TUCANA_20.5.28_001e2dab4d_10.0.zip
-  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
-  version: 20.5.28
 - android: '10.0'
   codename: tucana
   date: '2020-05-21'
@@ -4678,12 +2644,6 @@
   download: https://bigota.d.miui.com/20.10.30/miui_UMI_20.10.30_96faa8bea4_11.0.zip
   name: Mi 10
   version: 20.10.30
-- android: '11.0'
-  codename: umi
-  date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_UMI_20.10.29_92e1c5f1a7_11.0.zip
-  name: Mi 10
-  version: 20.10.29
 - android: '11.0'
   codename: umi
   date: '2020-10-23'
@@ -4800,106 +2760,10 @@
   version: 20.9.4
 - android: '10.0'
   codename: ursa
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_MI8Explorer_20.9.3_b6c5f267e8_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.9.3
-- android: '10.0'
-  codename: ursa
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_MI8Explorer_20.8.27_b6e5837591_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.8.27
-- android: '10.0'
-  codename: ursa
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_MI8Explorer_20.8.20_8405301b26_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.8.20
-- android: '10.0'
-  codename: ursa
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_MI8Explorer_20.8.13_5626552363_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.8.13
-- android: '10.0'
-  codename: ursa
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_MI8Explorer_20.7.23_06755a776d_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.7.23
-- android: '10.0'
-  codename: ursa
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_MI8Explorer_20.7.16_3232b1f236_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.7.16
-- android: '10.0'
-  codename: ursa
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_MI8Explorer_20.7.9_a9dabd3201_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.7.9
-- android: '10.0'
-  codename: ursa
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_MI8Explorer_20.7.2_fddecab93f_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.7.2
-- android: '10.0'
-  codename: ursa
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_MI8Explorer_20.6.18_ca6f4fac3d_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.6.18
-- android: '10.0'
-  codename: ursa
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MI8Explorer_20.6.11_1bffefda00_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.6.11
-- android: '10.0'
-  codename: ursa
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MI8Explorer_20.6.4_1beb1d5fa7_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.6.4
-- android: '10.0'
-  codename: ursa
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_MI8Explorer_20.5.28_f0891c672f_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.5.28
-- android: '10.0'
-  codename: ursa
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MI8Explorer_20.5.21_87ff37bd92_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.5.21
-- android: '10.0'
-  codename: ursa
-  date: '2020-05-15'
-  download: https://bigota.d.miui.com/20.5.14/miui_MI8Explorer_20.5.14_9a8f8432c5_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.5.14
-- android: '10.0'
-  codename: ursa
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_MI8Explorer_20.5.7_9e95712bf1_10.0.zip
   name: Mi 8 Explorer
   version: 20.5.7
-- android: '10.0'
-  codename: ursa
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_MI8Explorer_20.4.30_13fdcd9556_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.4.30
-- android: '10.0'
-  codename: ursa
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MI8Explorer_20.4.27_4f86c6bdca_10.0.zip
-  name: Mi 8 Explorer
-  version: 20.4.27
 - android: '11.0'
   codename: vangogh
   date: '2021-04-17'
@@ -4926,12 +2790,6 @@
   version: 20.12.28
 - android: '11.0'
   codename: vangogh
-  date: '2020-12-10'
-  download: https://bigota.d.miui.com/20.12.10/miui_VANGOGH_20.12.10_dd957070d8_11.0.zip
-  name: Mi 10 Lite Zoom
-  version: 20.12.10
-- android: '11.0'
-  codename: vangogh
   date: '2020-12-03'
   download: https://bigota.d.miui.com/20.12.2/miui_VANGOGH_20.12.2_e215cefded_11.0.zip
   name: Mi 10 Lite Zoom
@@ -4948,12 +2806,6 @@
   download: https://bigota.d.miui.com/20.11.18/miui_VANGOGH_20.11.18_774941b1e2_11.0.zip
   name: Mi 10 Lite Zoom
   version: 20.11.18
-- android: '11.0'
-  codename: vangogh
-  date: '2020-11-12'
-  download: https://bigota.d.miui.com/20.11.12/miui_VANGOGH_20.11.12_789eed53f8_11.0.zip
-  name: Mi 10 Lite Zoom
-  version: 20.11.12
 - android: '11.0'
   codename: vangogh
   date: '2020-11-06'
@@ -5004,12 +2856,6 @@
   version: 20.8.13
 - android: '10.0'
   codename: vangogh
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_VANGOGH_20.8.6_51d3e9c7dc_10.0.zip
-  name: Mi 10 Lite Zoom
-  version: 20.8.6
-- android: '10.0'
-  codename: vangogh
   date: '2020-07-30'
   download: https://bigota.d.miui.com/20.7.30/miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip
   name: Mi 10 Lite Zoom
@@ -5026,12 +2872,6 @@
   download: https://bigota.d.miui.com/20.7.16/miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
   name: Mi 10 Lite Zoom
   version: 20.7.16
-- android: '10.0'
-  codename: vangogh
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_VANGOGH_20.7.9_004069360e_10.0.zip
-  name: Mi 10 Lite Zoom
-  version: 20.7.9
 - android: '10.0'
   codename: vangogh
   date: '2020-07-02'
@@ -5068,12 +2908,6 @@
   download: https://bigota.d.miui.com/21.4.8/miui_VELA_21.4.8_e9b28ee351_11.0.zip
   name: Mi CC 9 Meitu Edition
   version: 21.4.8
-- android: '11.0'
-  codename: vela
-  date: '2021-04-01'
-  download: https://bigota.d.miui.com/21.4.1/miui_VELA_21.4.1_9df0982fdc_11.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 21.4.1
 - android: '10.0'
   codename: vela
   date: '2020-12-10'
@@ -5088,40 +2922,10 @@
   version: 20.12.2
 - android: '10.0'
   codename: vela
-  date: '2020-11-26'
-  download: https://bigota.d.miui.com/20.11.25/miui_VELA_20.11.25_ed0268a445_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.11.25
-- android: '10.0'
-  codename: vela
-  date: '2020-11-19'
-  download: https://bigota.d.miui.com/20.11.18/miui_VELA_20.11.18_d3a04cd89a_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.11.18
-- android: '10.0'
-  codename: vela
-  date: '2020-11-12'
-  download: https://bigota.d.miui.com/20.11.11/miui_VELA_20.11.11_3b45380420_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.11.11
-- android: '10.0'
-  codename: vela
-  date: '2020-11-06'
-  download: https://bigota.d.miui.com/20.11.5/miui_VELA_20.11.5_1c0d3eefab_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.11.5
-- android: '10.0'
-  codename: vela
   date: '2020-10-31'
   download: https://bigota.d.miui.com/20.10.30/miui_VELA_20.10.30_b6d46f5f72_10.0.zip
   name: Mi CC 9 Meitu Edition
   version: 20.10.30
-- android: '10.0'
-  codename: vela
-  date: '2020-10-29'
-  download: https://bigota.d.miui.com/20.10.29/miui_VELA_20.10.29_7b085eeebd_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.10.29
 - android: '10.0'
   codename: vela
   date: '2020-10-22'
@@ -5142,40 +2946,10 @@
   version: 20.9.24
 - android: '10.0'
   codename: vela
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_VELA_20.9.10_87c2eedb68_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.9.10
-- android: '10.0'
-  codename: vela
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_VELA_20.9.3_671584918f_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.9.3
-- android: '10.0'
-  codename: vela
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_VELA_20.8.27_01efd22ab6_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.8.27
-- android: '10.0'
-  codename: vela
-  date: '2020-08-21'
-  download: https://bigota.d.miui.com/20.8.20/miui_VELA_20.8.20_f30c0933bd_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.8.20
-- android: '10.0'
-  codename: vela
   date: '2020-08-13'
   download: https://bigota.d.miui.com/20.8.13/miui_VELA_20.8.13_d8ed64694a_10.0.zip
   name: Mi CC 9 Meitu Edition
   version: 20.8.13
-- android: '10.0'
-  codename: vela
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_VELA_20.8.6_b4ed3bfc49_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.8.6
 - android: '10.0'
   codename: vela
   date: '2020-07-30'
@@ -5184,82 +2958,10 @@
   version: 20.7.30
 - android: '10.0'
   codename: vela
-  date: '2020-07-23'
-  download: https://bigota.d.miui.com/20.7.23/miui_VELA_20.7.23_cafac20348_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.7.23
-- android: '10.0'
-  codename: vela
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_VELA_20.7.16_06fb29c8b5_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.7.16
-- android: '10.0'
-  codename: vela
-  date: '2020-07-09'
-  download: https://bigota.d.miui.com/20.7.9/miui_VELA_20.7.9_70eaaa2307_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.7.9
-- android: '10.0'
-  codename: vela
-  date: '2020-07-02'
-  download: https://bigota.d.miui.com/20.7.2/miui_VELA_20.7.2_a2b2c29045_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.7.2
-- android: '10.0'
-  codename: vela
-  date: '2020-06-18'
-  download: https://bigota.d.miui.com/20.6.18/miui_VELA_20.6.18_3d33ef0e18_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.6.18
-- android: '10.0'
-  codename: vela
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_VELA_20.6.11_4c24cf9e58_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.6.11
-- android: '10.0'
-  codename: vela
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_VELA_20.6.4_529a2fb94a_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.6.4
-- android: '10.0'
-  codename: vela
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_VELA_20.5.28_0bf93f3ab5_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.5.28
-- android: '10.0'
-  codename: vela
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_VELA_20.5.21_3dc82e5e8e_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.5.21
-- android: '10.0'
-  codename: vela
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_VELA_20.5.14_a4b3040803_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.5.14
-- android: '10.0'
-  codename: vela
   date: '2020-05-08'
   download: https://bigota.d.miui.com/20.5.7/miui_VELA_20.5.7_7536d272a4_10.0.zip
   name: Mi CC 9 Meitu Edition
   version: 20.5.7
-- android: '10.0'
-  codename: vela
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_VELA_20.4.30_c33bd9792f_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.4.30
-- android: '10.0'
-  codename: vela
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_VELA_20.4.27_7b26c47545_10.0.zip
-  name: Mi CC 9 Meitu Edition
-  version: 20.4.27
 - android: '11.0'
   codename: venus
   date: '2021-04-15'
@@ -5290,24 +2992,6 @@
   download: https://bigota.d.miui.com/21.4.7/miui_VIOLET_21.4.7_1b8c7905b4_10.0.zip
   name: Redmi Note 7 Pro
   version: 21.4.7
-- android: '10.0'
-  codename: violet
-  date: '2021-04-01'
-  download: https://bigota.d.miui.com/21.4.1/miui_VIOLET_21.4.1_cdab64722a_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 21.4.1
-- android: '10.0'
-  codename: violet
-  date: '2020-12-31'
-  download: https://bigota.d.miui.com/20.12.28/miui_VIOLET_20.12.28_d19cdcf440_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.12.28
-- android: '10.0'
-  codename: violet
-  date: '2020-12-10'
-  download: https://bigota.d.miui.com/20.12.9/miui_VIOLET_20.12.9_c4191ec728_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.12.9
 - android: '10.0'
   codename: violet
   date: '2020-12-03'
@@ -5352,12 +3036,6 @@
   version: 20.10.22
 - android: '10.0'
   codename: violet
-  date: '2020-10-15'
-  download: https://bigota.d.miui.com/20.10.15/miui_VIOLET_20.10.15_c197634a81_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.10.15
-- android: '10.0'
-  codename: violet
   date: '2020-09-24'
   download: https://bigota.d.miui.com/20.9.24/miui_VIOLET_20.9.24_ba138a4eda_10.0.zip
   name: Redmi Note 7 Pro
@@ -5368,48 +3046,6 @@
   download: https://bigota.d.miui.com/20.9.17/miui_VIOLET_20.9.17_1a4434739b_10.0.zip
   name: Redmi Note 7 Pro
   version: 20.9.17
-- android: '10.0'
-  codename: violet
-  date: '2020-09-10'
-  download: https://bigota.d.miui.com/20.9.10/miui_VIOLET_20.9.10_c4e194cd03_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.9.10
-- android: '10.0'
-  codename: violet
-  date: '2020-09-03'
-  download: https://bigota.d.miui.com/20.9.3/miui_VIOLET_20.9.3_ce6eed7371_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.9.3
-- android: '10.0'
-  codename: violet
-  date: '2020-08-28'
-  download: https://bigota.d.miui.com/20.8.27/miui_VIOLET_20.8.27_3c08dc6e4f_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.8.27
-- android: '10.0'
-  codename: violet
-  date: '2020-08-13'
-  download: https://bigota.d.miui.com/20.8.13/miui_VIOLET_20.8.13_7ab4e37af6_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.8.13
-- android: '10.0'
-  codename: violet
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_VIOLET_20.8.6_065a30ec86_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.8.6
-- android: '10.0'
-  codename: violet
-  date: '2020-07-30'
-  download: https://bigota.d.miui.com/20.7.30/miui_VIOLET_20.7.30_27463950d1_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.7.30
-- android: '10.0'
-  codename: violet
-  date: '2020-07-16'
-  download: https://bigota.d.miui.com/20.7.16/miui_VIOLET_20.7.16_167f1c5676_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.7.16
 - android: '10.0'
   codename: violet
   date: '2020-07-09'
@@ -5436,24 +3072,6 @@
   version: 20.6.11
 - android: '10.0'
   codename: violet
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_VIOLET_20.6.4_4ceb3ce2e8_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.6.4
-- android: '10.0'
-  codename: violet
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_VIOLET_20.5.28_c814552457_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.5.28
-- android: '10.0'
-  codename: violet
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_VIOLET_20.5.21_dc89619adc_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.5.21
-- android: '10.0'
-  codename: violet
   date: '2020-05-15'
   download: https://bigota.d.miui.com/20.5.14/miui_VIOLET_20.5.14_57132ab172_10.0.zip
   name: Redmi Note 7 Pro
@@ -5464,12 +3082,6 @@
   download: https://bigota.d.miui.com/20.5.7/miui_VIOLET_20.5.7_657b3a5873_10.0.zip
   name: Redmi Note 7 Pro
   version: 20.5.7
-- android: '10.0'
-  codename: violet
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_VIOLET_20.4.30_0a72a359e3_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 20.4.30
 - android: '10.0'
   codename: violet
   date: '2020-04-27'
@@ -5483,104 +3095,8 @@
   name: Mi 6X
   version: 20.6.18
 - android: '9.0'
-  codename: wayne
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_MI6X_20.6.11_21513663f6_9.0.zip
-  name: Mi 6X
-  version: 20.6.11
-- android: '9.0'
-  codename: wayne
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MI6X_20.6.4_fbe82eead6_9.0.zip
-  name: Mi 6X
-  version: 20.6.4
-- android: '9.0'
-  codename: wayne
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_MI6X_20.5.28_25b48bcb48_9.0.zip
-  name: Mi 6X
-  version: 20.5.28
-- android: '9.0'
-  codename: wayne
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_MI6X_20.5.21_f6c0c797bc_9.0.zip
-  name: Mi 6X
-  version: 20.5.21
-- android: '9.0'
-  codename: wayne
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_MI6X_20.5.14_6a211afc06_9.0.zip
-  name: Mi 6X
-  version: 20.5.14
-- android: '9.0'
-  codename: wayne
-  date: '2020-05-08'
-  download: https://bigota.d.miui.com/20.5.7/miui_MI6X_20.5.7_57bd9bdd51_9.0.zip
-  name: Mi 6X
-  version: 20.5.7
-- android: '9.0'
-  codename: wayne
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_MI6X_20.4.30_13fab32fa5_9.0.zip
-  name: Mi 6X
-  version: 20.4.30
-- android: '9.0'
-  codename: wayne
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_MI6X_20.4.27_029cea7b76_9.0.zip
-  name: Mi 6X
-  version: 20.4.27
-- android: '9.0'
   codename: whyred
   date: '2020-06-18'
   download: https://bigota.d.miui.com/20.6.18/miui_HMNote5_20.6.18_887af1fbe4_9.0.zip
   name: Redmi Note 5/Note 5 Pro
   version: 20.6.18
-- android: '9.0'
-  codename: whyred
-  date: '2020-06-11'
-  download: https://bigota.d.miui.com/20.6.11/miui_HMNote5_20.6.11_cfd31b6986_9.0.zip
-  name: Redmi Note 5/Note 5 Pro
-  version: 20.6.11
-- android: '9.0'
-  codename: whyred
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_HMNote5_20.6.4_e137b016de_9.0.zip
-  name: Redmi Note 5/Note 5 Pro
-  version: 20.6.4
-- android: '9.0'
-  codename: whyred
-  date: '2020-05-28'
-  download: https://bigota.d.miui.com/20.5.28/miui_HMNote5_20.5.28_6b38f5a374_9.0.zip
-  name: Redmi Note 5/Note 5 Pro
-  version: 20.5.28
-- android: '9.0'
-  codename: whyred
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_HMNote5_20.5.21_2f072b7ae5_9.0.zip
-  name: Redmi Note 5/Note 5 Pro
-  version: 20.5.21
-- android: '9.0'
-  codename: whyred
-  date: '2020-05-14'
-  download: https://bigota.d.miui.com/20.5.14/miui_HMNote5_20.5.14_53407498da_9.0.zip
-  name: Redmi Note 5/Note 5 Pro
-  version: 20.5.14
-- android: '9.0'
-  codename: whyred
-  date: '2020-05-08'
-  download: https://bigota.d.miui.com/20.5.7/miui_HMNote5_20.5.7_76871b1c98_9.0.zip
-  name: Redmi Note 5/Note 5 Pro
-  version: 20.5.7
-- android: '9.0'
-  codename: whyred
-  date: '2020-04-30'
-  download: https://bigota.d.miui.com/20.4.30/miui_HMNote5_20.4.30_cc68aecfd3_9.0.zip
-  name: Redmi Note 5/Note 5 Pro
-  version: 20.4.30
-- android: '9.0'
-  codename: whyred
-  date: '2020-04-27'
-  download: https://bigota.d.miui.com/20.4.27/miui_HMNote5_20.4.27_0bdc4d616e_9.0.zip
-  name: Redmi Note 5/Note 5 Pro
-  version: 20.4.27

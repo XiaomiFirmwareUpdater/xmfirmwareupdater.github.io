@@ -19,16 +19,6 @@
     android: '11.0'
     miui: 21.4.7
 - branch: weekly
-  date: '2021-04-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-01.04.2021/fw_begonia_miui_BEGONIA_21.3.31_8f79ebeef5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/begonia/fw_begonia_miui_BEGONIA_21.3.31_8f79ebeef5_11.0.zip
-  filename: fw_begonia_miui_BEGONIA_21.3.31_8f79ebeef5_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.31
-- branch: weekly
   date: '2021-03-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-27.03.2021/fw_begonia_miui_BEGONIA_21.3.24_c78e0a968c_11.0.zip
@@ -48,16 +38,6 @@
   versions:
     android: '10.0'
     miui: V12.0.7.0.QGGMIXM
-- branch: weekly
-  date: '2021-03-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-19.03.2021/fw_begonia_miui_BEGONIA_21.3.18_a85f373387_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.18/begonia/fw_begonia_miui_BEGONIA_21.3.18_a85f373387_11.0.zip
-  filename: fw_begonia_miui_BEGONIA_21.3.18_a85f373387_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.18
 - branch: weekly
   date: '2021-03-11'
   downloads:
@@ -329,16 +309,6 @@
     android: '10.0'
     miui: V12.0.3.0.QGGMIXM
 - branch: weekly
-  date: '2020-09-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-10.09.2020/fw_begonia_miui_BEGONIA_20.9.10_c84222bc2b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.10/begonia/fw_begonia_miui_BEGONIA_20.9.10_c84222bc2b_10.0.zip
-  filename: fw_begonia_miui_BEGONIA_20.9.10_c84222bc2b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.10
-- branch: weekly
   date: '2020-09-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-03.09.2020/fw_begonia_miui_BEGONIA_20.9.3_28805c6224_10.0.zip
@@ -378,16 +348,6 @@
   versions:
     android: '10.0'
     miui: 20.8.13
-- branch: weekly
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-06.08.2020/fw_begonia_miui_BEGONIA_20.8.6_83f8f6a290_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.6/begonia/fw_begonia_miui_BEGONIA_20.8.6_83f8f6a290_10.0.zip
-  filename: fw_begonia_miui_BEGONIA_20.8.6_83f8f6a290_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.6
 - branch: weekly
   date: '2020-07-30'
   downloads:
@@ -638,16 +598,6 @@
   versions:
     android: '10.0'
     miui: 20.3.12
-- branch: weekly
-  date: '2020-03-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-05.03.2020/fw_begonia_miui_BEGONIA_20.3.5_46fa2b3693_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/begonia/fw_begonia_miui_BEGONIA_20.3.5_46fa2b3693_10.0.zip
-  filename: fw_begonia_miui_BEGONIA_20.3.5_46fa2b3693_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.5
 - branch: stable
   date: '2020-03-03'
   downloads:
@@ -918,16 +868,6 @@
   versions:
     android: '9.0'
     miui: V10.4.1.0.PGGMIXM
-- branch: stable
-  date: '2019-10-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-08.10.2019/fw_begonia_miui_BEGONIA_V10.4.9.0.PGGCNXM_12ccf7dee9_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begonia/fw_begonia_miui_BEGONIA_V10.4.9.0.PGGCNXM_12ccf7dee9_9.0.zip
-  filename: fw_begonia_miui_BEGONIA_V10.4.9.0.PGGCNXM_12ccf7dee9_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.4.9.0.PGGCNXM
 - branch: stable
   date: '2019-09-18'
   downloads:

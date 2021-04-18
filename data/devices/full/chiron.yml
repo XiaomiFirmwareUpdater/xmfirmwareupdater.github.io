@@ -29,26 +29,6 @@
     android: '9.0'
     miui: 20.6.18
 - branch: weekly
-  date: '2020-06-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-11.06.2020/fw_chiron_miui_MIMIX2_20.6.11_62839b6d99_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/chiron/fw_chiron_miui_MIMIX2_20.6.11_62839b6d99_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.6.11_62839b6d99_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.6.11
-- branch: weekly
-  date: '2020-06-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-04.06.2020/fw_chiron_miui_MIMIX2_20.6.4_17e30485f9_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/chiron/fw_chiron_miui_MIMIX2_20.6.4_17e30485f9_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.6.4_17e30485f9_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.6.4
-- branch: weekly
   date: '2020-05-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-28.05.2020/fw_chiron_miui_MIMIX2_20.5.28_9f76172252_9.0.zip
@@ -58,66 +38,6 @@
   versions:
     android: '9.0'
     miui: 20.5.28
-- branch: weekly
-  date: '2020-05-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-21.05.2020/fw_chiron_miui_MIMIX2_20.5.21_2d06027f58_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/chiron/fw_chiron_miui_MIMIX2_20.5.21_2d06027f58_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.5.21_2d06027f58_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.5.21
-- branch: weekly
-  date: '2020-05-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-14.05.2020/fw_chiron_miui_MIMIX2_20.5.14_0ffdcaffcf_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/chiron/fw_chiron_miui_MIMIX2_20.5.14_0ffdcaffcf_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.5.14_0ffdcaffcf_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.5.14
-- branch: weekly
-  date: '2020-05-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-08.05.2020/fw_chiron_miui_MIMIX2_20.5.7_abf798b3c9_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/chiron/fw_chiron_miui_MIMIX2_20.5.7_abf798b3c9_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.5.7_abf798b3c9_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.5.7
-- branch: weekly
-  date: '2020-04-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-30.04.2020/fw_chiron_miui_MIMIX2_20.4.30_2666fd1274_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/chiron/fw_chiron_miui_MIMIX2_20.4.30_2666fd1274_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.4.30_2666fd1274_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.4.30
-- branch: weekly
-  date: '2020-04-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-27.04.2020/fw_chiron_miui_MIMIX2_20.4.27_4fbd9fa9c8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/chiron/fw_chiron_miui_MIMIX2_20.4.27_4fbd9fa9c8_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.4.27_4fbd9fa9c8_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.4.27
-- branch: weekly
-  date: '2020-03-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-26.03.2020/fw_chiron_miui_MIMIX2_20.3.26_e4902f8afc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/chiron/fw_chiron_miui_MIMIX2_20.3.26_e4902f8afc_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.3.26_e4902f8afc_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.3.26
 - branch: stable
   date: '2020-03-20'
   downloads:
@@ -128,26 +48,6 @@
   versions:
     android: '9.0'
     miui: V11.0.6.0.PDEMIXM
-- branch: weekly
-  date: '2020-03-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-19.03.2020/fw_chiron_miui_MIMIX2_20.3.19_5d71c8aece_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/chiron/fw_chiron_miui_MIMIX2_20.3.19_5d71c8aece_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.3.19_5d71c8aece_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.3.19
-- branch: weekly
-  date: '2020-03-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-12.03.2020/fw_chiron_miui_MIMIX2_20.3.12_3e896a45e0_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/chiron/fw_chiron_miui_MIMIX2_20.3.12_3e896a45e0_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.3.12_3e896a45e0_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.3.12
 - branch: stable
   date: '2020-03-11'
   downloads:
@@ -158,136 +58,6 @@
   versions:
     android: '9.0'
     miui: V11.0.5.0.PDECNXM
-- branch: weekly
-  date: '2020-03-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-05.03.2020/fw_chiron_miui_MIMIX2_20.3.5_c0d564c66e_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/chiron/fw_chiron_miui_MIMIX2_20.3.5_c0d564c66e_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.3.5_c0d564c66e_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.3.5
-- branch: weekly
-  date: '2020-02-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-27.02.2020/fw_chiron_miui_MIMIX2_20.2.27_24a45296b1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/chiron/fw_chiron_miui_MIMIX2_20.2.27_24a45296b1_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.2.27_24a45296b1_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.2.27
-- branch: weekly
-  date: '2020-01-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-17.01.2020/fw_chiron_miui_MIMIX2_20.1.16_989bfafa58_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/chiron/fw_chiron_miui_MIMIX2_20.1.16_989bfafa58_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.1.16_989bfafa58_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.1.16
-- branch: weekly
-  date: '2020-01-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-09.01.2020/fw_chiron_miui_MIMIX2_20.1.9_f7e5694dbd_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/chiron/fw_chiron_miui_MIMIX2_20.1.9_f7e5694dbd_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.1.9_f7e5694dbd_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.1.9
-- branch: weekly
-  date: '2020-01-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-02.01.2020/fw_chiron_miui_MIMIX2_20.1.2_7289e6be23_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/chiron/fw_chiron_miui_MIMIX2_20.1.2_7289e6be23_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_20.1.2_7289e6be23_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.1.2
-- branch: weekly
-  date: '2019-12-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-27.12.2019/fw_chiron_miui_MIMIX2_9.12.26_064ba1b6bb_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/chiron/fw_chiron_miui_MIMIX2_9.12.26_064ba1b6bb_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.12.26_064ba1b6bb_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.12.26
-- branch: weekly
-  date: '2019-12-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-20.12.2019/fw_chiron_miui_MIMIX2_9.12.19_c410af960f_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/chiron/fw_chiron_miui_MIMIX2_9.12.19_c410af960f_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.12.19_c410af960f_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.12.19
-- branch: weekly
-  date: '2019-12-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-13.12.2019/fw_chiron_miui_MIMIX2_9.12.12_701db34c6e_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/chiron/fw_chiron_miui_MIMIX2_9.12.12_701db34c6e_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.12.12_701db34c6e_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.12.12
-- branch: weekly
-  date: '2019-12-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-06.12.2019/fw_chiron_miui_MIMIX2_9.12.5_c6cde99218_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/chiron/fw_chiron_miui_MIMIX2_9.12.5_c6cde99218_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.12.5_c6cde99218_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.12.5
-- branch: weekly
-  date: '2019-11-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-29.11.2019/fw_chiron_miui_MIMIX2_9.11.28_329b9448f0_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/chiron/fw_chiron_miui_MIMIX2_9.11.28_329b9448f0_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.11.28_329b9448f0_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.11.28
-- branch: weekly
-  date: '2019-11-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-22.11.2019/fw_chiron_miui_MIMIX2_9.11.21_1eb5c32f84_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.21/chiron/fw_chiron_miui_MIMIX2_9.11.21_1eb5c32f84_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.11.21_1eb5c32f84_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.11.21
-- branch: weekly
-  date: '2019-11-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-15.11.2019/fw_chiron_miui_MIMIX2_9.11.14_477bc3e5e8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.14/chiron/fw_chiron_miui_MIMIX2_9.11.14_477bc3e5e8_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.11.14_477bc3e5e8_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.11.14
-- branch: weekly
-  date: '2019-11-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-08.11.2019/fw_chiron_miui_MIMIX2_9.11.7_e9bf53bf17_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.7/chiron/fw_chiron_miui_MIMIX2_9.11.7_e9bf53bf17_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.11.7_e9bf53bf17_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.11.7
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -298,16 +68,6 @@
   versions:
     android: '9.0'
     miui: V11.0.3.0.PDEMIXM
-- branch: weekly
-  date: '2019-11-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-01.11.2019/fw_chiron_miui_MIMIX2_9.10.31_9b2feb93b2_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.31/chiron/fw_chiron_miui_MIMIX2_9.10.31_9b2feb93b2_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.10.31_9b2feb93b2_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.10.31
 - branch: stable
   date: '2019-10-24'
   downloads:
@@ -318,16 +78,6 @@
   versions:
     android: '9.0'
     miui: V11.0.2.0.PDECNXM
-- branch: weekly
-  date: '2019-10-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-17.10.2019/fw_chiron_miui_MIMIX2_9.10.17_83da7d1c11_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.17/chiron/fw_chiron_miui_MIMIX2_9.10.17_83da7d1c11_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.10.17_83da7d1c11_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.10.17
 - branch: weekly
   date: '2019-09-06'
   downloads:
@@ -349,86 +99,6 @@
     android: '9.0'
     miui: 9.8.22
 - branch: weekly
-  date: '2019-08-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-16.08.2019/fw_chiron_miui_MIMIX2_9.8.15_3bc6203966_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.15/chiron/fw_chiron_miui_MIMIX2_9.8.15_3bc6203966_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.8.15_3bc6203966_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.8.15
-- branch: weekly
-  date: '2019-08-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-12.08.2019/fw_chiron_miui_MIMIX2_9.8.9_6393d7b509_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.9/chiron/fw_chiron_miui_MIMIX2_9.8.9_6393d7b509_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.8.9_6393d7b509_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.8.9
-- branch: weekly
-  date: '2019-08-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-05.08.2019/fw_chiron_miui_MIMIX2_9.7.25_f2c77fc810_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/chiron/fw_chiron_miui_MIMIX2_9.7.25_f2c77fc810_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.7.25_f2c77fc810_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.25
-- branch: weekly
-  date: '2019-08-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-02.08.2019/fw_chiron_miui_MIMIX2_9.8.1_8d993fe286_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/chiron/fw_chiron_miui_MIMIX2_9.8.1_8d993fe286_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.8.1_8d993fe286_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.8.1
-- branch: weekly
-  date: '2019-07-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-26.07.2019/fw_chiron_miui_MIMIX2_9.7.25_f2c77fc810_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/chiron/fw_chiron_miui_MIMIX2_9.7.25_f2c77fc810_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.7.25_f2c77fc810_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.25
-- branch: weekly
-  date: '2019-07-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-19.07.2019/fw_chiron_miui_MIMIX2_9.7.18_c99c7fe63c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/chiron/fw_chiron_miui_MIMIX2_9.7.18_c99c7fe63c_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.7.18_c99c7fe63c_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.18
-- branch: weekly
-  date: '2019-07-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-12.07.2019/fw_chiron_miui_MIMIX2_9.7.11_4cf4494e2b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/chiron/fw_chiron_miui_MIMIX2_9.7.11_4cf4494e2b_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.7.11_4cf4494e2b_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.11
-- branch: weekly
-  date: '2019-07-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-05.07.2019/fw_chiron_miui_MIMIX2_9.7.4_d8730107db_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/chiron/fw_chiron_miui_MIMIX2_9.7.4_d8730107db_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.7.4_d8730107db_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.4
-- branch: weekly
   date: '2019-06-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-28.06.2019/fw_chiron_miui_MIMIX2Global_9.6.27_ee1bf9f771_9.0.zip
@@ -438,26 +108,6 @@
   versions:
     android: '9.0'
     miui: 9.6.27
-- branch: weekly
-  date: '2019-06-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-22.06.2019/fw_chiron_miui_MIMIX2Global_9.6.20_fb37370abf_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/chiron/fw_chiron_miui_MIMIX2Global_9.6.20_fb37370abf_9.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_9.6.20_fb37370abf_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.6.20
-- branch: weekly
-  date: '2019-06-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-22.06.2019/fw_chiron_miui_MIMIX2_9.6.20_41b006986d_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/chiron/fw_chiron_miui_MIMIX2_9.6.20_41b006986d_9.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.6.20_41b006986d_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.6.20
 - branch: weekly
   date: '2019-06-14'
   downloads:
@@ -599,26 +249,6 @@
     android: '8.0'
     miui: 9.4.18
 - branch: weekly
-  date: '2019-04-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-12.04.2019/fw_chiron_miui_MIMIX2Global_9.4.11_38a387dd74_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.11/chiron/fw_chiron_miui_MIMIX2Global_9.4.11_38a387dd74_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_9.4.11_38a387dd74_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 9.4.11
-- branch: weekly
-  date: '2019-04-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-12.04.2019/fw_chiron_miui_MIMIX2_9.4.11_9a2293a359_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.11/chiron/fw_chiron_miui_MIMIX2_9.4.11_9a2293a359_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.4.11_9a2293a359_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 9.4.11
-- branch: weekly
   date: '2019-03-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-29.03.2019/fw_chiron_miui_MIMIX2Global_9.3.28_75e4a10f90_8.0.zip
@@ -659,66 +289,6 @@
     android: '8.0'
     miui: 9.3.21
 - branch: weekly
-  date: '2019-03-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-15.03.2019/fw_chiron_miui_MIMIX2Global_9.3.14_5b8dc23068_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/chiron/fw_chiron_miui_MIMIX2Global_9.3.14_5b8dc23068_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_9.3.14_5b8dc23068_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 9.3.14
-- branch: weekly
-  date: '2019-03-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-15.03.2019/fw_chiron_miui_MIMIX2_9.3.14_4bbdb7bfa0_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/chiron/fw_chiron_miui_MIMIX2_9.3.14_4bbdb7bfa0_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.3.14_4bbdb7bfa0_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 9.3.14
-- branch: weekly
-  date: '2019-03-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-09.03.2019/fw_chiron_miui_MIMIX2Global_9.3.7_61562b5cb5_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/chiron/fw_chiron_miui_MIMIX2Global_9.3.7_61562b5cb5_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_9.3.7_61562b5cb5_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 9.3.7
-- branch: weekly
-  date: '2019-03-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-09.03.2019/fw_chiron_miui_MIMIX2_9.3.7_d97f866a8b_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/chiron/fw_chiron_miui_MIMIX2_9.3.7_d97f866a8b_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.3.7_d97f866a8b_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 9.3.7
-- branch: weekly
-  date: '2019-03-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-08.03.2019/fw_chiron_miui_MIMIX2Global_9.3.7_61562b5cb5_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/chiron/fw_chiron_miui_MIMIX2Global_9.3.7_61562b5cb5_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_9.3.7_61562b5cb5_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 9.3.7
-- branch: weekly
-  date: '2019-03-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-08.03.2019/fw_chiron_miui_MIMIX2_9.3.7_d97f866a8b_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/chiron/fw_chiron_miui_MIMIX2_9.3.7_d97f866a8b_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.3.7_d97f866a8b_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 9.3.7
-- branch: weekly
   date: '2019-03-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-01.03.2019/fw_chiron_miui_MIMIX2Global_9.2.28_2abec94a12_8.0.zip
@@ -738,46 +308,6 @@
   versions:
     android: '8.0'
     miui: 9.2.28
-- branch: weekly
-  date: '2019-02-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-22.02.2019/fw_chiron_miui_MIMIX2Global_9.2.21_dcfd64d0e6_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/chiron/fw_chiron_miui_MIMIX2Global_9.2.21_dcfd64d0e6_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_9.2.21_dcfd64d0e6_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 9.2.21
-- branch: weekly
-  date: '2019-02-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-22.02.2019/fw_chiron_miui_MIMIX2_9.2.21_740c811cc8_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/chiron/fw_chiron_miui_MIMIX2_9.2.21_740c811cc8_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.2.21_740c811cc8_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 9.2.21
-- branch: weekly
-  date: '2019-02-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-18.02.2019/fw_chiron_miui_MIMIX2Global_9.2.15_5ac3f1177c_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/chiron/fw_chiron_miui_MIMIX2Global_9.2.15_5ac3f1177c_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_9.2.15_5ac3f1177c_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 9.2.15
-- branch: weekly
-  date: '2019-02-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-18.02.2019/fw_chiron_miui_MIMIX2_9.2.15_eb6a1cbb65_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/chiron/fw_chiron_miui_MIMIX2_9.2.15_eb6a1cbb65_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.2.15_eb6a1cbb65_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 9.2.15
 - branch: stable
   date: '2019-02-18'
   downloads:
@@ -788,66 +318,6 @@
   versions:
     android: '8.0'
     miui: V10.2.2.0.ODEMIXM
-- branch: weekly
-  date: '2019-01-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-25.01.2019/fw_chiron_miui_MIMIX2Global_9.1.24_33b7dc74ff_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/chiron/fw_chiron_miui_MIMIX2Global_9.1.24_33b7dc74ff_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_9.1.24_33b7dc74ff_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 9.1.24
-- branch: weekly
-  date: '2019-01-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-25.01.2019/fw_chiron_miui_MIMIX2_9.1.24_4d26c1b6ec_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/chiron/fw_chiron_miui_MIMIX2_9.1.24_4d26c1b6ec_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.1.24_4d26c1b6ec_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 9.1.24
-- branch: weekly
-  date: '2019-01-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-18.01.2019/fw_chiron_miui_MIMIX2Global_9.1.17_0796dea001_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/chiron/fw_chiron_miui_MIMIX2Global_9.1.17_0796dea001_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_9.1.17_0796dea001_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 9.1.17
-- branch: weekly
-  date: '2019-01-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-18.01.2019/fw_chiron_miui_MIMIX2_9.1.17_f4eef118e5_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/chiron/fw_chiron_miui_MIMIX2_9.1.17_f4eef118e5_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.1.17_f4eef118e5_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 9.1.17
-- branch: weekly
-  date: '2019-01-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-12.01.2019/fw_chiron_miui_MIMIX2Global_9.1.10_0a9ff63168_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/chiron/fw_chiron_miui_MIMIX2Global_9.1.10_0a9ff63168_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_9.1.10_0a9ff63168_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 9.1.10
-- branch: weekly
-  date: '2019-01-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-11.01.2019/fw_chiron_miui_MIMIX2_9.1.10_418ac22f06_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/chiron/fw_chiron_miui_MIMIX2_9.1.10_418ac22f06_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.1.10_418ac22f06_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 9.1.10
 - branch: stable
   date: '2019-01-10'
   downloads:
@@ -858,56 +328,6 @@
   versions:
     android: '8.0'
     miui: V10.2.2.0.ODECNXM
-- branch: weekly
-  date: '2019-01-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-04.01.2019/fw_chiron_miui_MIMIX2_9.1.2_054970ac8b_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.2/chiron/fw_chiron_miui_MIMIX2_9.1.2_054970ac8b_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_9.1.2_054970ac8b_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 9.1.2
-- branch: weekly
-  date: '2018-12-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-28.12.2018/fw_chiron_miui_MIMIX2Global_8.12.27_9e97799831_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/chiron/fw_chiron_miui_MIMIX2Global_8.12.27_9e97799831_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.12.27_9e97799831_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.12.27
-- branch: weekly
-  date: '2018-12-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-28.12.2018/fw_chiron_miui_MIMIX2_8.12.27_2b2f0fc584_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/chiron/fw_chiron_miui_MIMIX2_8.12.27_2b2f0fc584_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.12.27_2b2f0fc584_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.12.27
-- branch: weekly
-  date: '2018-12-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-21.12.2018/fw_chiron_miui_MIMIX2Global_8.12.20_50eb462431_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/chiron/fw_chiron_miui_MIMIX2Global_8.12.20_50eb462431_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.12.20_50eb462431_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.12.20
-- branch: weekly
-  date: '2018-12-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-21.12.2018/fw_chiron_miui_MIMIX2_8.12.20_2c620c3394_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/chiron/fw_chiron_miui_MIMIX2_8.12.20_2c620c3394_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.12.20_2c620c3394_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.12.20
 - branch: weekly
   date: '2018-12-14'
   downloads:
@@ -999,86 +419,6 @@
     android: '8.0'
     miui: 8.11.15
 - branch: weekly
-  date: '2018-11-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-16.11.2018/fw_chiron_miui_MIMIX2_8.11.15_9cf6aeb4ec_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/chiron/fw_chiron_miui_MIMIX2_8.11.15_9cf6aeb4ec_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.11.15_9cf6aeb4ec_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.11.15
-- branch: weekly
-  date: '2018-11-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-09.11.2018/fw_chiron_miui_MIMIX2Global_8.11.8_8cb13c45c0_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/chiron/fw_chiron_miui_MIMIX2Global_8.11.8_8cb13c45c0_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.11.8_8cb13c45c0_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.11.8
-- branch: weekly
-  date: '2018-11-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-09.11.2018/fw_chiron_miui_MIMIX2_8.11.8_ecd2ff5031_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/chiron/fw_chiron_miui_MIMIX2_8.11.8_ecd2ff5031_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.11.8_ecd2ff5031_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.11.8
-- branch: weekly
-  date: '2018-11-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-02.11.2018/fw_chiron_miui_MIMIX2Global_8.11.1_1ca497fe70_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/chiron/fw_chiron_miui_MIMIX2Global_8.11.1_1ca497fe70_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.11.1_1ca497fe70_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.11.1
-- branch: weekly
-  date: '2018-11-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-02.11.2018/fw_chiron_miui_MIMIX2_8.11.1_033bff76e3_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/chiron/fw_chiron_miui_MIMIX2_8.11.1_033bff76e3_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.11.1_033bff76e3_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.11.1
-- branch: weekly
-  date: '2018-10-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-26.10.2018/fw_chiron_miui_MIMIX2Global_8.10.25_eef8554db5_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/chiron/fw_chiron_miui_MIMIX2Global_8.10.25_eef8554db5_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.10.25_eef8554db5_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.10.25
-- branch: weekly
-  date: '2018-10-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-26.10.2018/fw_chiron_miui_MIMIX2_8.10.25_68086b45c9_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/chiron/fw_chiron_miui_MIMIX2_8.10.25_68086b45c9_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.10.25_68086b45c9_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.10.25
-- branch: weekly
-  date: '2018-10-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-13.10.2018/fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/chiron/fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.9.20
-- branch: weekly
   date: '2018-10-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-12.10.2018/fw_chiron_miui_MIMIX2_8.10.11_b5374cedb2_8.0.zip
@@ -1098,46 +438,6 @@
   versions:
     android: '8.0'
     miui: 8.10.11
-- branch: weekly
-  date: '2018-09-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-26.09.2018/fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/chiron/fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.9.20
-- branch: weekly
-  date: '2018-09-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-25.09.2018/fw_chiron_miui_MIMIX2_8.9.13_bf1b547670_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/chiron/fw_chiron_miui_MIMIX2_8.9.13_bf1b547670_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.9.13_bf1b547670_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.9.13
-- branch: weekly
-  date: '2018-09-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-21.09.2018/fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/chiron/fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.9.20_055844f954_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.9.20
-- branch: weekly
-  date: '2018-09-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-20.09.2018/fw_chiron_miui_MIMIX2Global_8.9.20_33fea793c0_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/chiron/fw_chiron_miui_MIMIX2Global_8.9.20_33fea793c0_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.9.20_33fea793c0_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.9.20
 - branch: stable
   date: '2018-09-19'
   downloads:
@@ -1148,26 +448,6 @@
   versions:
     android: '8.0'
     miui: V10.0.2.0.ODEMIFH
-- branch: weekly
-  date: '2018-09-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-14.09.2018/fw_chiron_miui_MIMIX2_8.9.13_bf1b547670_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/chiron/fw_chiron_miui_MIMIX2_8.9.13_bf1b547670_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.9.13_bf1b547670_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.9.13
-- branch: weekly
-  date: '2018-09-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-13.09.2018/fw_chiron_miui_MIMIX2Global_8.9.13_0838a57532_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/chiron/fw_chiron_miui_MIMIX2Global_8.9.13_0838a57532_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.9.13_0838a57532_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.9.13
 - branch: stable
   date: '2018-09-10'
   downloads:
@@ -1178,166 +458,6 @@
   versions:
     android: '8.0'
     miui: V10.0.1.0.ODECNFH
-- branch: weekly
-  date: '2018-09-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-07.09.2018/fw_chiron_miui_MIMIX2_8.9.6_ef0b9fb294_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/chiron/fw_chiron_miui_MIMIX2_8.9.6_ef0b9fb294_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.9.6_ef0b9fb294_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.9.6
-- branch: weekly
-  date: '2018-09-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-06.09.2018/fw_chiron_miui_MIMIX2Global_8.9.6_5ee84dc2bf_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/chiron/fw_chiron_miui_MIMIX2Global_8.9.6_5ee84dc2bf_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.9.6_5ee84dc2bf_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.9.6
-- branch: weekly
-  date: '2018-08-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-31.08.2018/fw_chiron_miui_MIMIX2_8.8.30_c2f55135da_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/chiron/fw_chiron_miui_MIMIX2_8.8.30_c2f55135da_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.8.30_c2f55135da_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.8.30
-- branch: weekly
-  date: '2018-08-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-30.08.2018/fw_chiron_miui_MIMIX2Global_8.8.30_efadaa2311_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/chiron/fw_chiron_miui_MIMIX2Global_8.8.30_efadaa2311_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.8.30_efadaa2311_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.8.30
-- branch: weekly
-  date: '2018-08-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-28.08.2018/fw_chiron_miui_MIMIX2Global_8.8.23_002053e442_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/chiron/fw_chiron_miui_MIMIX2Global_8.8.23_002053e442_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.8.23_002053e442_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.8.23
-- branch: weekly
-  date: '2018-08-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-28.08.2018/fw_chiron_miui_MIMIX2_8.8.23_0de53fba43_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.23/chiron/fw_chiron_miui_MIMIX2_8.8.23_0de53fba43_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.8.23_0de53fba43_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.8.23
-- branch: weekly
-  date: '2018-08-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-17.08.2018/fw_chiron_miui_MIMIX2Global_8.8.16_4d494aea8b_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/chiron/fw_chiron_miui_MIMIX2Global_8.8.16_4d494aea8b_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.8.16_4d494aea8b_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.8.16
-- branch: weekly
-  date: '2018-08-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-17.08.2018/fw_chiron_miui_MIMIX2_8.8.16_c5e91dfd19_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.16/chiron/fw_chiron_miui_MIMIX2_8.8.16_c5e91dfd19_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.8.16_c5e91dfd19_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.8.16
-- branch: stable
-  date: '2018-08-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/stable-16.08.2018/fw_chiron_miui_MIMIX2_V9.6.3.0.ODECNFD_39cd5a0eff_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/chiron/fw_chiron_miui_MIMIX2_V9.6.3.0.ODECNFD_39cd5a0eff_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_V9.6.3.0.ODECNFD_39cd5a0eff_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: V9.6.3.0.ODECNFD
-- branch: weekly
-  date: '2018-08-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-9d1899f3cc97c24debb3/fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/chiron/fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.7.26
-- branch: weekly
-  date: '2018-08-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-9d1899f3cc97c24debb3/fw_chiron_miui_MIMIX2_8.8.9_7335e4c00d_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/chiron/fw_chiron_miui_MIMIX2_8.8.9_7335e4c00d_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.8.9_7335e4c00d_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.8.9
-- branch: weekly
-  date: '2018-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-06.08.2018/fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/chiron/fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.7.26
-- branch: weekly
-  date: '2018-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-06.08.2018/fw_chiron_miui_MIMIX2_8.8.3_40b8a746cd_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/chiron/fw_chiron_miui_MIMIX2_8.8.3_40b8a746cd_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.8.3_40b8a746cd_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.8.3
-- branch: weekly
-  date: '2018-08-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-03.08.2018/fw_chiron_miui_MIMIX2Global_8.8.2_3ef0d570ea_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.2/chiron/fw_chiron_miui_MIMIX2Global_8.8.2_3ef0d570ea_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.8.2_3ef0d570ea_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.8.2
-- branch: weekly
-  date: '2018-07-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-27.07.2018/fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/chiron/fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.7.26_a50f8ca0cf_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.7.26
-- branch: weekly
-  date: '2018-07-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/weekly-27.07.2018/fw_chiron_miui_MIMIX2_8.7.26_946f8cb381_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/chiron/fw_chiron_miui_MIMIX2_8.7.26_946f8cb381_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.7.26_946f8cb381_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.7.26
 - branch: stable
   date: '2018-07-20'
   downloads:
@@ -1379,26 +499,6 @@
     android: '8.0'
     miui: 8.7.19
 - branch: weekly
-  date: '2018-07-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-2e2033079d4e458cc856/fw_chiron_miui_MIMIX2Global_8.7.12_d0dd2f45e6_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/chiron/fw_chiron_miui_MIMIX2Global_8.7.12_d0dd2f45e6_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.7.12_d0dd2f45e6_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.7.12
-- branch: weekly
-  date: '2018-07-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-2e2033079d4e458cc856/fw_chiron_miui_MIMIX2_8.7.12_c525163a72_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/chiron/fw_chiron_miui_MIMIX2_8.7.12_c525163a72_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.7.12_c525163a72_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.7.12
-- branch: weekly
   date: '2018-07-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-e4fafb784591dd511ffe/fw_chiron_miui_MIMIX2Global_V9.6.1.0.ODEMIFD_d78006eca3_8.0.zip
@@ -1418,46 +518,6 @@
   versions:
     android: '8.0'
     miui: V9.6.2.0.ODECNFD
-- branch: weekly
-  date: '2018-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-bb9cc2be00d78a78034e/fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/chiron/fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.7.5
-- branch: weekly
-  date: '2018-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-bb9cc2be00d78a78034e/fw_chiron_miui_MIMIX2_8.7.5_84b51dc669_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/chiron/fw_chiron_miui_MIMIX2_8.7.5_84b51dc669_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.7.5_84b51dc669_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.7.5
-- branch: weekly
-  date: '2018-07-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-a748caeeb2eb0e69d7ad/fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/chiron/fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip
-  filename: fw_chiron_miui_MIMIX2Global_8.7.5_6a5994409a_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.7.5
-- branch: weekly
-  date: '2018-07-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-a748caeeb2eb0e69d7ad/fw_chiron_miui_MIMIX2_8.7.5_84b51dc669_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.5/chiron/fw_chiron_miui_MIMIX2_8.7.5_84b51dc669_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.7.5_84b51dc669_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.7.5
 - branch: weekly
   date: '2018-06-26'
   downloads:
@@ -1489,16 +549,6 @@
     android: '8.0'
     miui: 8.4.19
 - branch: weekly
-  date: '2018-06-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-c6070a7ccdb9b806e3c0/fw_chiron_miui_MIMIX2_8.6.21_637ea0b368_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.21/chiron/fw_chiron_miui_MIMIX2_8.6.21_637ea0b368_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.6.21_637ea0b368_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.6.21
-- branch: weekly
   date: '2018-06-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-a9398c4a85ab3ab30985/fw_chiron_miui_MIMIX2Global_8.4.19_fa49b22402_8.0.zip
@@ -1508,26 +558,6 @@
   versions:
     android: '8.0'
     miui: 8.4.19
-- branch: weekly
-  date: '2018-06-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-a9398c4a85ab3ab30985/fw_chiron_miui_MIMIX2_8.6.14_bf13da1333_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.14/chiron/fw_chiron_miui_MIMIX2_8.6.14_bf13da1333_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.6.14_bf13da1333_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.6.14
-- branch: weekly
-  date: '2018-06-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_chiron/releases/download/untagged-a9398c4a85ab3ab30985/fw_chiron_miui_MIMIX2_8.6.21_637ea0b368_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.6.21/chiron/fw_chiron_miui_MIMIX2_8.6.21_637ea0b368_8.0.zip
-  filename: fw_chiron_miui_MIMIX2_8.6.21_637ea0b368_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.6.21
 - branch: weekly
   date: '2018-05-30'
   downloads:

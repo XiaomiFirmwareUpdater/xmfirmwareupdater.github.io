@@ -9,16 +9,6 @@
     android: '10.0'
     miui: 21.4.14
 - branch: weekly
-  date: '2021-04-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-08.04.2021/fw_laurus_miui_LAURUS_21.4.7_71ec777186_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/laurus/fw_laurus_miui_LAURUS_21.4.7_71ec777186_10.0.zip
-  filename: fw_laurus_miui_LAURUS_21.4.7_71ec777186_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.4.7
-- branch: weekly
   date: '2021-04-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-01.04.2021/fw_laurus_miui_LAURUS_21.4.1_b0231e6134_10.0.zip
@@ -28,26 +18,6 @@
   versions:
     android: '10.0'
     miui: 21.4.1
-- branch: weekly
-  date: '2021-03-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-27.03.2021/fw_laurus_miui_LAURUS_21.3.25_5f2ee9a480_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.25/laurus/fw_laurus_miui_LAURUS_21.3.25_5f2ee9a480_10.0.zip
-  filename: fw_laurus_miui_LAURUS_21.3.25_5f2ee9a480_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.3.25
-- branch: weekly
-  date: '2021-03-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-18.03.2021/fw_laurus_miui_LAURUS_21.3.17_284d3fd9d2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.17/laurus/fw_laurus_miui_LAURUS_21.3.17_284d3fd9d2_10.0.zip
-  filename: fw_laurus_miui_LAURUS_21.3.17_284d3fd9d2_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.3.17
 - branch: weekly
   date: '2021-03-05'
   downloads:
@@ -69,46 +39,6 @@
     android: '10.0'
     miui: 21.2.24
 - branch: weekly
-  date: '2021-02-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-05.02.2021/fw_laurus_miui_LAURUS_21.2.3_c420c6775c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/laurus/fw_laurus_miui_LAURUS_21.2.3_c420c6775c_10.0.zip
-  filename: fw_laurus_miui_LAURUS_21.2.3_c420c6775c_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.2.3
-- branch: weekly
-  date: '2021-01-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-29.01.2021/fw_laurus_miui_LAURUS_21.1.28_cf2e41670b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/laurus/fw_laurus_miui_LAURUS_21.1.28_cf2e41670b_10.0.zip
-  filename: fw_laurus_miui_LAURUS_21.1.28_cf2e41670b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.1.28
-- branch: weekly
-  date: '2021-01-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-23.01.2021/fw_laurus_miui_LAURUS_21.1.20_a5c6929058_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/laurus/fw_laurus_miui_LAURUS_21.1.20_a5c6929058_10.0.zip
-  filename: fw_laurus_miui_LAURUS_21.1.20_a5c6929058_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.1.20
-- branch: weekly
-  date: '2021-01-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-15.01.2021/fw_laurus_miui_LAURUS_21.1.13_6f89faee5e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/laurus/fw_laurus_miui_LAURUS_21.1.13_6f89faee5e_10.0.zip
-  filename: fw_laurus_miui_LAURUS_21.1.13_6f89faee5e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.1.13
-- branch: weekly
   date: '2021-01-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-08.01.2021/fw_laurus_miui_LAURUS_21.1.6_3534eceb0a_10.0.zip
@@ -118,96 +48,6 @@
   versions:
     android: '10.0'
     miui: 21.1.6
-- branch: weekly
-  date: '2020-12-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-31.12.2020/fw_laurus_miui_LAURUS_20.12.28_27a143ce05_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.28/laurus/fw_laurus_miui_LAURUS_20.12.28_27a143ce05_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.12.28_27a143ce05_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.12.28
-- branch: weekly
-  date: '2020-12-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-10.12.2020/fw_laurus_miui_LAURUS_20.12.9_7903e94e4a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.9/laurus/fw_laurus_miui_LAURUS_20.12.9_7903e94e4a_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.12.9_7903e94e4a_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.12.9
-- branch: weekly
-  date: '2020-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-03.12.2020/fw_laurus_miui_LAURUS_20.12.2_2ef44c9afd_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/laurus/fw_laurus_miui_LAURUS_20.12.2_2ef44c9afd_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.12.2_2ef44c9afd_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.12.2
-- branch: weekly
-  date: '2020-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-26.11.2020/fw_laurus_miui_LAURUS_20.11.25_15446fd078_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/laurus/fw_laurus_miui_LAURUS_20.11.25_15446fd078_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.11.25_15446fd078_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.25
-- branch: weekly
-  date: '2020-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-19.11.2020/fw_laurus_miui_LAURUS_20.11.18_1ede53ea26_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/laurus/fw_laurus_miui_LAURUS_20.11.18_1ede53ea26_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.11.18_1ede53ea26_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.18
-- branch: weekly
-  date: '2020-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-12.11.2020/fw_laurus_miui_LAURUS_20.11.11_f6c0233140_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.11/laurus/fw_laurus_miui_LAURUS_20.11.11_f6c0233140_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.11.11_f6c0233140_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.11
-- branch: weekly
-  date: '2020-10-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-31.10.2020/fw_laurus_miui_LAURUS_20.10.30_efd94c0e0c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.30/laurus/fw_laurus_miui_LAURUS_20.10.30_efd94c0e0c_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.10.30_efd94c0e0c_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.30
-- branch: weekly
-  date: '2020-10-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-29.10.2020/fw_laurus_miui_LAURUS_20.10.29_5e4bd24bf8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.29/laurus/fw_laurus_miui_LAURUS_20.10.29_5e4bd24bf8_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.10.29_5e4bd24bf8_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.29
-- branch: weekly
-  date: '2020-10-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-22.10.2020/fw_laurus_miui_LAURUS_20.10.22_e1c0e25b76_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/laurus/fw_laurus_miui_LAURUS_20.10.22_e1c0e25b76_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.10.22_e1c0e25b76_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.22
 - branch: stable
   date: '2020-10-22'
   downloads:
@@ -219,66 +59,6 @@
     android: '10.0'
     miui: V12.0.3.0.QFMCNXM
 - branch: weekly
-  date: '2020-10-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-15.10.2020/fw_laurus_miui_LAURUS_20.10.15_a3f373b226_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/laurus/fw_laurus_miui_LAURUS_20.10.15_a3f373b226_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.10.15_a3f373b226_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.15
-- branch: weekly
-  date: '2020-09-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-24.09.2020/fw_laurus_miui_LAURUS_20.9.24_dd5e30aee2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/laurus/fw_laurus_miui_LAURUS_20.9.24_dd5e30aee2_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.9.24_dd5e30aee2_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.24
-- branch: weekly
-  date: '2020-09-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-17.09.2020/fw_laurus_miui_LAURUS_20.9.17_2da7ff3e69_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/laurus/fw_laurus_miui_LAURUS_20.9.17_2da7ff3e69_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.9.17_2da7ff3e69_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.17
-- branch: weekly
-  date: '2020-09-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-10.09.2020/fw_laurus_miui_LAURUS_20.9.10_ddd8e218d4_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.10/laurus/fw_laurus_miui_LAURUS_20.9.10_ddd8e218d4_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.9.10_ddd8e218d4_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.10
-- branch: weekly
-  date: '2020-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-03.09.2020/fw_laurus_miui_LAURUS_20.9.3_310a136e05_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.3/laurus/fw_laurus_miui_LAURUS_20.9.3_310a136e05_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.9.3_310a136e05_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.3
-- branch: weekly
-  date: '2020-08-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-28.08.2020/fw_laurus_miui_LAURUS_20.8.27_698a89195f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.27/laurus/fw_laurus_miui_LAURUS_20.8.27_698a89195f_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.8.27_698a89195f_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.27
-- branch: weekly
   date: '2020-08-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-21.08.2020/fw_laurus_miui_LAURUS_20.8.20_2e6b3fc438_10.0.zip
@@ -288,76 +68,6 @@
   versions:
     android: '10.0'
     miui: 20.8.20
-- branch: weekly
-  date: '2020-08-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-13.08.2020/fw_laurus_miui_LAURUS_20.8.13_ffb99bb019_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.13/laurus/fw_laurus_miui_LAURUS_20.8.13_ffb99bb019_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.8.13_ffb99bb019_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.13
-- branch: weekly
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-06.08.2020/fw_laurus_miui_LAURUS_20.8.6_5e2a30c340_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.6/laurus/fw_laurus_miui_LAURUS_20.8.6_5e2a30c340_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.8.6_5e2a30c340_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.6
-- branch: weekly
-  date: '2020-07-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-30.07.2020/fw_laurus_miui_LAURUS_20.7.30_d42b9e4188_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/laurus/fw_laurus_miui_LAURUS_20.7.30_d42b9e4188_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.7.30_d42b9e4188_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.30
-- branch: weekly
-  date: '2020-07-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-23.07.2020/fw_laurus_miui_LAURUS_20.7.23_6638e64832_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/laurus/fw_laurus_miui_LAURUS_20.7.23_6638e64832_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.7.23_6638e64832_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.23
-- branch: weekly
-  date: '2020-07-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-16.07.2020/fw_laurus_miui_LAURUS_20.7.16_0a87cb696b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/laurus/fw_laurus_miui_LAURUS_20.7.16_0a87cb696b_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.7.16_0a87cb696b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.16
-- branch: weekly
-  date: '2020-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-09.07.2020/fw_laurus_miui_LAURUS_20.7.9_5587b2a85c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/laurus/fw_laurus_miui_LAURUS_20.7.9_5587b2a85c_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.7.9_5587b2a85c_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.9
-- branch: weekly
-  date: '2020-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-02.07.2020/fw_laurus_miui_LAURUS_20.7.2_b77a444079_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.2/laurus/fw_laurus_miui_LAURUS_20.7.2_b77a444079_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.7.2_b77a444079_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.2
 - branch: stable
   date: '2020-06-22'
   downloads:
@@ -369,26 +79,6 @@
     android: '9.0'
     miui: V11.0.6.0.PFMCNXM
 - branch: weekly
-  date: '2020-06-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-19.06.2020/fw_laurus_miui_LAURUS_20.6.18_147b7b693f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/laurus/fw_laurus_miui_LAURUS_20.6.18_147b7b693f_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.6.18_147b7b693f_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.18
-- branch: weekly
-  date: '2020-06-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-12.06.2020/fw_laurus_miui_LAURUS_20.6.11_36a9cdc42a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/laurus/fw_laurus_miui_LAURUS_20.6.11_36a9cdc42a_10.0.zip
-  filename: fw_laurus_miui_LAURUS_20.6.11_36a9cdc42a_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.11
-- branch: weekly
   date: '2020-03-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-26.03.2020/fw_laurus_miui_LAURUS_20.3.26_251c110ea6_9.0.zip
@@ -398,46 +88,6 @@
   versions:
     android: '9.0'
     miui: 20.3.26
-- branch: weekly
-  date: '2020-03-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-19.03.2020/fw_laurus_miui_LAURUS_20.3.19_68784bf4cf_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/laurus/fw_laurus_miui_LAURUS_20.3.19_68784bf4cf_9.0.zip
-  filename: fw_laurus_miui_LAURUS_20.3.19_68784bf4cf_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.3.19
-- branch: weekly
-  date: '2020-03-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-12.03.2020/fw_laurus_miui_LAURUS_20.3.12_7be48f80d8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/laurus/fw_laurus_miui_LAURUS_20.3.12_7be48f80d8_9.0.zip
-  filename: fw_laurus_miui_LAURUS_20.3.12_7be48f80d8_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.3.12
-- branch: weekly
-  date: '2020-03-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-06.03.2020/fw_laurus_miui_LAURUS_20.3.5_531a704ec9_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/laurus/fw_laurus_miui_LAURUS_20.3.5_531a704ec9_9.0.zip
-  filename: fw_laurus_miui_LAURUS_20.3.5_531a704ec9_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.3.5
-- branch: weekly
-  date: '2020-02-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-27.02.2020/fw_laurus_miui_LAURUS_20.2.27_2a65f4f4cc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/laurus/fw_laurus_miui_LAURUS_20.2.27_2a65f4f4cc_9.0.zip
-  filename: fw_laurus_miui_LAURUS_20.2.27_2a65f4f4cc_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.2.27
 - branch: stable
   date: '2020-01-19'
   downloads:
@@ -448,86 +98,6 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PFMCNXM
-- branch: weekly
-  date: '2020-01-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-17.01.2020/fw_laurus_miui_LAURUS_20.1.16_77850857d0_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/laurus/fw_laurus_miui_LAURUS_20.1.16_77850857d0_9.0.zip
-  filename: fw_laurus_miui_LAURUS_20.1.16_77850857d0_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.1.16
-- branch: weekly
-  date: '2020-01-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-09.01.2020/fw_laurus_miui_LAURUS_20.1.9_e75bbb2df8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/laurus/fw_laurus_miui_LAURUS_20.1.9_e75bbb2df8_9.0.zip
-  filename: fw_laurus_miui_LAURUS_20.1.9_e75bbb2df8_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.1.9
-- branch: weekly
-  date: '2020-01-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-02.01.2020/fw_laurus_miui_LAURUS_20.1.2_808ced1875_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/laurus/fw_laurus_miui_LAURUS_20.1.2_808ced1875_9.0.zip
-  filename: fw_laurus_miui_LAURUS_20.1.2_808ced1875_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 20.1.2
-- branch: weekly
-  date: '2019-12-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-27.12.2019/fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/laurus/fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
-  filename: fw_laurus_miui_LAURUS_9.12.26_25dfe724eb_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.12.26
-- branch: stable
-  date: '2019-12-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-25.12.2019/fw_laurus_miui_LAURUS_V11.0.3.0.PFMCNXM_bcd57bbf2d_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/laurus/fw_laurus_miui_LAURUS_V11.0.3.0.PFMCNXM_bcd57bbf2d_9.0.zip
-  filename: fw_laurus_miui_LAURUS_V11.0.3.0.PFMCNXM_bcd57bbf2d_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PFMCNXM
-- branch: weekly
-  date: '2019-12-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-20.12.2019/fw_laurus_miui_LAURUS_9.12.19_e2eb497c25_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/laurus/fw_laurus_miui_LAURUS_9.12.19_e2eb497c25_9.0.zip
-  filename: fw_laurus_miui_LAURUS_9.12.19_e2eb497c25_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.12.19
-- branch: weekly
-  date: '2019-12-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-13.12.2019/fw_laurus_miui_LAURUS_9.12.12_d1b8db24ce_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/laurus/fw_laurus_miui_LAURUS_9.12.12_d1b8db24ce_9.0.zip
-  filename: fw_laurus_miui_LAURUS_9.12.12_d1b8db24ce_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.12.12
-- branch: weekly
-  date: '2019-12-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-06.12.2019/fw_laurus_miui_LAURUS_9.12.5_216b148a50_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/laurus/fw_laurus_miui_LAURUS_9.12.5_216b148a50_9.0.zip
-  filename: fw_laurus_miui_LAURUS_9.12.5_216b148a50_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.12.5
 - branch: stable
   date: '2019-11-06'
   downloads:
@@ -568,16 +138,6 @@
   versions:
     android: '9.0'
     miui: V10.2.10.0.PFMCNXM
-- branch: stable
-  date: '2019-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-09.07.2019/fw_laurus_miui_LAURUS_V10.2.8.0.PFMCNXM_60b0f2fe60_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/laurus/fw_laurus_miui_LAURUS_V10.2.8.0.PFMCNXM_60b0f2fe60_9.0.zip
-  filename: fw_laurus_miui_LAURUS_V10.2.8.0.PFMCNXM_60b0f2fe60_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.2.8.0.PFMCNXM
 - branch: stable
   date: '2019-07-05'
   downloads:

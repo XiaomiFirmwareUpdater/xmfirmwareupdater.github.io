@@ -19,26 +19,6 @@
     android: '11.0'
     miui: 21.4.8
 - branch: weekly
-  date: '2021-04-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-02.04.2021/fw_vela_miui_VELA_21.4.1_9df0982fdc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.1/vela/fw_vela_miui_VELA_21.4.1_9df0982fdc_11.0.zip
-  filename: fw_vela_miui_VELA_21.4.1_9df0982fdc_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.1
-- branch: weekly
-  date: '2021-03-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-28.03.2021/fw_vela_miui_VELA_21.3.24_0a1835abd1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/vela/fw_vela_miui_VELA_21.3.24_0a1835abd1_11.0.zip
-  filename: fw_vela_miui_VELA_21.3.24_0a1835abd1_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.24
-- branch: weekly
   date: '2021-03-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-18.03.2021/fw_vela_miui_VELA_21.3.17_5dc4a7b456_11.0.zip
@@ -98,26 +78,6 @@
   versions:
     android: '11.0'
     miui: 21.1.28
-- branch: weekly
-  date: '2021-01-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-23.01.2021/fw_vela_miui_VELA_21.1.20_039686ce42_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/vela/fw_vela_miui_VELA_21.1.20_039686ce42_11.0.zip
-  filename: fw_vela_miui_VELA_21.1.20_039686ce42_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.20
-- branch: weekly
-  date: '2021-01-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-15.01.2021/fw_vela_miui_VELA_21.1.13_876df1e938_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/vela/fw_vela_miui_VELA_21.1.13_876df1e938_11.0.zip
-  filename: fw_vela_miui_VELA_21.1.13_876df1e938_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.13
 - branch: stable
   date: '2021-01-11'
   downloads:
@@ -128,16 +88,6 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QFECNXM
-- branch: weekly
-  date: '2021-01-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-08.01.2021/fw_vela_miui_VELA_21.1.6_b2b1c3ab83_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/vela/fw_vela_miui_VELA_21.1.6_b2b1c3ab83_11.0.zip
-  filename: fw_vela_miui_VELA_21.1.6_b2b1c3ab83_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.6
 - branch: weekly
   date: '2020-12-10'
   downloads:
@@ -159,46 +109,6 @@
     android: '10.0'
     miui: 20.12.2
 - branch: weekly
-  date: '2020-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-26.11.2020/fw_vela_miui_VELA_20.11.25_ed0268a445_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/vela/fw_vela_miui_VELA_20.11.25_ed0268a445_10.0.zip
-  filename: fw_vela_miui_VELA_20.11.25_ed0268a445_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.25
-- branch: weekly
-  date: '2020-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-19.11.2020/fw_vela_miui_VELA_20.11.18_d3a04cd89a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/vela/fw_vela_miui_VELA_20.11.18_d3a04cd89a_10.0.zip
-  filename: fw_vela_miui_VELA_20.11.18_d3a04cd89a_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.18
-- branch: weekly
-  date: '2020-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-12.11.2020/fw_vela_miui_VELA_20.11.11_3b45380420_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.11/vela/fw_vela_miui_VELA_20.11.11_3b45380420_10.0.zip
-  filename: fw_vela_miui_VELA_20.11.11_3b45380420_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.11
-- branch: weekly
-  date: '2020-11-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-06.11.2020/fw_vela_miui_VELA_20.11.5_1c0d3eefab_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/vela/fw_vela_miui_VELA_20.11.5_1c0d3eefab_10.0.zip
-  filename: fw_vela_miui_VELA_20.11.5_1c0d3eefab_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.5
-- branch: weekly
   date: '2020-10-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-31.10.2020/fw_vela_miui_VELA_20.10.30_b6d46f5f72_10.0.zip
@@ -208,16 +118,6 @@
   versions:
     android: '10.0'
     miui: 20.10.30
-- branch: weekly
-  date: '2020-10-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-29.10.2020/fw_vela_miui_VELA_20.10.29_7b085eeebd_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.29/vela/fw_vela_miui_VELA_20.10.29_7b085eeebd_10.0.zip
-  filename: fw_vela_miui_VELA_20.10.29_7b085eeebd_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.29
 - branch: weekly
   date: '2020-10-22'
   downloads:
@@ -248,26 +148,6 @@
   versions:
     android: '10.0'
     miui: 20.9.24
-- branch: weekly
-  date: '2020-09-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-10.09.2020/fw_vela_miui_VELA_20.9.10_87c2eedb68_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.10/vela/fw_vela_miui_VELA_20.9.10_87c2eedb68_10.0.zip
-  filename: fw_vela_miui_VELA_20.9.10_87c2eedb68_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.10
-- branch: weekly
-  date: '2020-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-03.09.2020/fw_vela_miui_VELA_20.9.3_671584918f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.3/vela/fw_vela_miui_VELA_20.9.3_671584918f_10.0.zip
-  filename: fw_vela_miui_VELA_20.9.3_671584918f_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.3
 - branch: stable
   date: '2020-08-31'
   downloads:
@@ -279,26 +159,6 @@
     android: '10.0'
     miui: V12.0.2.0.QFECNXM
 - branch: weekly
-  date: '2020-08-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-28.08.2020/fw_vela_miui_VELA_20.8.27_01efd22ab6_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.27/vela/fw_vela_miui_VELA_20.8.27_01efd22ab6_10.0.zip
-  filename: fw_vela_miui_VELA_20.8.27_01efd22ab6_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.27
-- branch: weekly
-  date: '2020-08-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-21.08.2020/fw_vela_miui_VELA_20.8.20_f30c0933bd_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.20/vela/fw_vela_miui_VELA_20.8.20_f30c0933bd_10.0.zip
-  filename: fw_vela_miui_VELA_20.8.20_f30c0933bd_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.20
-- branch: weekly
   date: '2020-08-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-13.08.2020/fw_vela_miui_VELA_20.8.13_d8ed64694a_10.0.zip
@@ -309,16 +169,6 @@
     android: '10.0'
     miui: 20.8.13
 - branch: weekly
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-06.08.2020/fw_vela_miui_VELA_20.8.6_b4ed3bfc49_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.6/vela/fw_vela_miui_VELA_20.8.6_b4ed3bfc49_10.0.zip
-  filename: fw_vela_miui_VELA_20.8.6_b4ed3bfc49_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.6
-- branch: weekly
   date: '2020-07-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-30.07.2020/fw_vela_miui_VELA_20.7.30_e6aa8dcbc0_10.0.zip
@@ -328,76 +178,6 @@
   versions:
     android: '10.0'
     miui: 20.7.30
-- branch: weekly
-  date: '2020-07-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-23.07.2020/fw_vela_miui_VELA_20.7.23_cafac20348_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/vela/fw_vela_miui_VELA_20.7.23_cafac20348_10.0.zip
-  filename: fw_vela_miui_VELA_20.7.23_cafac20348_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.23
-- branch: weekly
-  date: '2020-07-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-16.07.2020/fw_vela_miui_VELA_20.7.16_06fb29c8b5_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/vela/fw_vela_miui_VELA_20.7.16_06fb29c8b5_10.0.zip
-  filename: fw_vela_miui_VELA_20.7.16_06fb29c8b5_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.16
-- branch: weekly
-  date: '2020-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-09.07.2020/fw_vela_miui_VELA_20.7.9_70eaaa2307_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/vela/fw_vela_miui_VELA_20.7.9_70eaaa2307_10.0.zip
-  filename: fw_vela_miui_VELA_20.7.9_70eaaa2307_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.9
-- branch: weekly
-  date: '2020-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-02.07.2020/fw_vela_miui_VELA_20.7.2_a2b2c29045_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.2/vela/fw_vela_miui_VELA_20.7.2_a2b2c29045_10.0.zip
-  filename: fw_vela_miui_VELA_20.7.2_a2b2c29045_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.2
-- branch: weekly
-  date: '2020-06-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-18.06.2020/fw_vela_miui_VELA_20.6.18_3d33ef0e18_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/vela/fw_vela_miui_VELA_20.6.18_3d33ef0e18_10.0.zip
-  filename: fw_vela_miui_VELA_20.6.18_3d33ef0e18_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.18
-- branch: weekly
-  date: '2020-06-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-11.06.2020/fw_vela_miui_VELA_20.6.11_4c24cf9e58_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/vela/fw_vela_miui_VELA_20.6.11_4c24cf9e58_10.0.zip
-  filename: fw_vela_miui_VELA_20.6.11_4c24cf9e58_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.11
-- branch: weekly
-  date: '2020-06-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-04.06.2020/fw_vela_miui_VELA_20.6.4_529a2fb94a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/vela/fw_vela_miui_VELA_20.6.4_529a2fb94a_10.0.zip
-  filename: fw_vela_miui_VELA_20.6.4_529a2fb94a_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.4
 - branch: stable
   date: '2020-06-01'
   downloads:
@@ -409,36 +189,6 @@
     android: '10.0'
     miui: V11.0.4.0.QFECNXM
 - branch: weekly
-  date: '2020-05-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-28.05.2020/fw_vela_miui_VELA_20.5.28_0bf93f3ab5_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/vela/fw_vela_miui_VELA_20.5.28_0bf93f3ab5_10.0.zip
-  filename: fw_vela_miui_VELA_20.5.28_0bf93f3ab5_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.28
-- branch: weekly
-  date: '2020-05-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-21.05.2020/fw_vela_miui_VELA_20.5.21_3dc82e5e8e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/vela/fw_vela_miui_VELA_20.5.21_3dc82e5e8e_10.0.zip
-  filename: fw_vela_miui_VELA_20.5.21_3dc82e5e8e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.21
-- branch: weekly
-  date: '2020-05-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-14.05.2020/fw_vela_miui_VELA_20.5.14_a4b3040803_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/vela/fw_vela_miui_VELA_20.5.14_a4b3040803_10.0.zip
-  filename: fw_vela_miui_VELA_20.5.14_a4b3040803_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.14
-- branch: weekly
   date: '2020-05-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-08.05.2020/fw_vela_miui_VELA_20.5.7_7536d272a4_10.0.zip
@@ -449,36 +199,6 @@
     android: '10.0'
     miui: 20.5.7
 - branch: weekly
-  date: '2020-04-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-30.04.2020/fw_vela_miui_VELA_20.4.30_c33bd9792f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/vela/fw_vela_miui_VELA_20.4.30_c33bd9792f_10.0.zip
-  filename: fw_vela_miui_VELA_20.4.30_c33bd9792f_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.4.30
-- branch: weekly
-  date: '2020-04-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-27.04.2020/fw_vela_miui_VELA_20.4.27_7b26c47545_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/vela/fw_vela_miui_VELA_20.4.27_7b26c47545_10.0.zip
-  filename: fw_vela_miui_VELA_20.4.27_7b26c47545_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.4.27
-- branch: stable
-  date: '2020-04-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/stable-26.04.2020/fw_vela_miui_VELA_V11.0.3.0.QFECNXM_c32f9a0b0b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vela/fw_vela_miui_VELA_V11.0.3.0.QFECNXM_c32f9a0b0b_10.0.zip
-  filename: fw_vela_miui_VELA_V11.0.3.0.QFECNXM_c32f9a0b0b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.3.0.QFECNXM
-- branch: weekly
   date: '2020-03-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-26.03.2020/fw_vela_miui_VELA_20.3.26_3812d14502_10.0.zip
@@ -488,16 +208,6 @@
   versions:
     android: '10.0'
     miui: 20.3.26
-- branch: weekly
-  date: '2020-03-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-19.03.2020/fw_vela_miui_VELA_20.3.19_96ce1d7752_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/vela/fw_vela_miui_VELA_20.3.19_96ce1d7752_10.0.zip
-  filename: fw_vela_miui_VELA_20.3.19_96ce1d7752_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.19
 - branch: weekly
   date: '2020-03-12'
   downloads:
@@ -529,16 +239,6 @@
     android: '10.0'
     miui: V11.0.1.0.QFECNXM
 - branch: weekly
-  date: '2020-02-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-27.02.2020/fw_vela_miui_VELA_20.2.27_2f31abc56c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/vela/fw_vela_miui_VELA_20.2.27_2f31abc56c_10.0.zip
-  filename: fw_vela_miui_VELA_20.2.27_2f31abc56c_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.2.27
-- branch: weekly
   date: '2020-02-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-08.02.2020/fw_vela_miui_VELA_20.1.21_b5b6a454fc_10.0.zip
@@ -568,16 +268,6 @@
   versions:
     android: '10.0'
     miui: 9.12.26
-- branch: weekly
-  date: '2019-12-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vela/releases/download/weekly-20.12.2019/fw_vela_miui_VELA_9.12.19_09cd038f5d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/vela/fw_vela_miui_VELA_9.12.19_09cd038f5d_10.0.zip
-  filename: fw_vela_miui_VELA_9.12.19_09cd038f5d_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.12.19
 - branch: weekly
   date: '2019-12-06'
   downloads:

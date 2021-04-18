@@ -58,13 +58,3 @@
   versions:
     android: '11.0'
     miui: V12.0.2.0.RKAINXM
-- branch: stable
-  date: '2021-04-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-07.04.2021/fw_star_miui_STAR_V12.0.9.0.RKACNXM_be719560cb_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.0.9.0.RKACNXM_be719560cb_11.0.zip
-  filename: fw_star_miui_STAR_V12.0.9.0.RKACNXM_be719560cb_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.0.9.0.RKACNXM

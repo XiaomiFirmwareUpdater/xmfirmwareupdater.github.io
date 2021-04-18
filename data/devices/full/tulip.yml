@@ -19,16 +19,6 @@
     android: '9.0'
     miui: V11.0.6.0.PEKMIXM
 - branch: stable
-  date: '2020-08-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-24.08.2020/fw_tulip_miui_HMNote6ProGlobal_V11.0.5.0.PEKMIXM_49b9874b65_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tulip/fw_tulip_miui_HMNote6ProGlobal_V11.0.5.0.PEKMIXM_49b9874b65_9.0.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_V11.0.5.0.PEKMIXM_49b9874b65_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V11.0.5.0.PEKMIXM
-- branch: stable
   date: '2020-05-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-19.05.2020/fw_tulip_miui_HMNote6ProGlobal_V11.0.4.0.PEKMIXM_5333f531df_9.0.zip
@@ -49,16 +39,6 @@
     android: '9.0'
     miui: V11.0.3.0.PEKMIXM
 - branch: stable
-  date: '2019-12-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-31.12.2019/fw_tulip_miui_HMNote6ProGlobal_V11.0.2.0.PEKMIXM_e20a92d7ec_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tulip/fw_tulip_miui_HMNote6ProGlobal_V11.0.2.0.PEKMIXM_e20a92d7ec_9.0.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_V11.0.2.0.PEKMIXM_e20a92d7ec_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V11.0.2.0.PEKMIXM
-- branch: stable
   date: '2019-11-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-21.11.2019/fw_tulip_miui_HMNote6ProGlobal_V11.0.1.0.PEKMIXM_5c9f74315c_9.0.zip
@@ -78,16 +58,6 @@
   versions:
     android: '9.0'
     miui: V10.3.6.0.PEKMIXM
-- branch: stable
-  date: '2019-08-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-01.08.2019/fw_tulip_miui_HMNote6ProGlobal_V10.3.5.0.PEKMIXM_86500c4e9c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/tulip/fw_tulip_miui_HMNote6ProGlobal_V10.3.5.0.PEKMIXM_86500c4e9c_9.0.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_V10.3.5.0.PEKMIXM_86500c4e9c_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V10.3.5.0.PEKMIXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -118,16 +88,6 @@
   versions:
     android: '9.0'
     miui: 9.6.3
-- branch: weekly
-  date: '2019-06-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-03.06.2019/fw_tulip_miui_HMNote6ProGlobal_9.5.30_66b7a33ab6_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/tulip/fw_tulip_miui_HMNote6ProGlobal_9.5.30_66b7a33ab6_9.0.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.5.30_66b7a33ab6_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.5.30
 - branch: stable
   date: '2019-05-28'
   downloads:
@@ -148,26 +108,6 @@
   versions:
     android: '9.0'
     miui: 9.5.23
-- branch: weekly
-  date: '2019-05-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-17.05.2019/fw_tulip_miui_HMNote6ProGlobal_9.5.16_0f170af46a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/tulip/fw_tulip_miui_HMNote6ProGlobal_9.5.16_0f170af46a_9.0.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.5.16_0f170af46a_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.5.16
-- branch: weekly
-  date: '2019-05-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-11.05.2019/fw_tulip_miui_HMNote6ProGlobal_9.5.9_4a14fe813b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/tulip/fw_tulip_miui_HMNote6ProGlobal_9.5.9_4a14fe813b_9.0.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.5.9_4a14fe813b_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.5.9
 - branch: stable
   date: '2019-05-09'
   downloads:
@@ -188,26 +128,6 @@
   versions:
     android: '9.0'
     miui: 9.4.25
-- branch: weekly
-  date: '2019-04-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-20.04.2019/fw_tulip_miui_HMNote6ProGlobal_9.4.18_ade32fc153_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/tulip/fw_tulip_miui_HMNote6ProGlobal_9.4.18_ade32fc153_9.0.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.4.18_ade32fc153_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.4.18
-- branch: weekly
-  date: '2019-04-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-15.04.2019/fw_tulip_miui_HMNote6ProGlobal_9.4.12_8082110fa3_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.12/tulip/fw_tulip_miui_HMNote6ProGlobal_9.4.12_8082110fa3_9.0.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.4.12_8082110fa3_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.4.12
 - branch: weekly
   date: '2019-03-29'
   downloads:
@@ -239,16 +159,6 @@
     android: '8.1'
     miui: 9.3.1
 - branch: weekly
-  date: '2019-02-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-22.02.2019/fw_tulip_miui_HMNote6ProGlobal_9.2.21_b36cfa91d4_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.21/tulip/fw_tulip_miui_HMNote6ProGlobal_9.2.21_b36cfa91d4_8.1.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.2.21_b36cfa91d4_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: 9.2.21
-- branch: weekly
   date: '2019-02-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-18.02.2019/fw_tulip_miui_HMNote6ProGlobal_9.2.15_34e1c84012_8.1.zip
@@ -258,16 +168,6 @@
   versions:
     android: '8.1'
     miui: 9.2.15
-- branch: weekly
-  date: '2019-01-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-25.01.2019/fw_tulip_miui_HMNote6ProGlobal_9.1.24_053dfd4068_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/tulip/fw_tulip_miui_HMNote6ProGlobal_9.1.24_053dfd4068_8.1.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.1.24_053dfd4068_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: 9.1.24
 - branch: stable
   date: '2019-01-22'
   downloads:
@@ -278,26 +178,6 @@
   versions:
     android: '8.1'
     miui: V10.2.2.0.OEKMIXM
-- branch: weekly
-  date: '2019-01-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-18.01.2019/fw_tulip_miui_HMNote6ProGlobal_9.1.17_717f77538e_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/tulip/fw_tulip_miui_HMNote6ProGlobal_9.1.17_717f77538e_8.1.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.1.17_717f77538e_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: 9.1.17
-- branch: weekly
-  date: '2019-01-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-12.01.2019/fw_tulip_miui_HMNote6ProGlobal_9.1.10_c3a041294a_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/tulip/fw_tulip_miui_HMNote6ProGlobal_9.1.10_c3a041294a_8.1.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_9.1.10_c3a041294a_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: 9.1.10
 - branch: stable
   date: '2019-01-10'
   downloads:
@@ -338,16 +218,6 @@
   versions:
     android: '8.1'
     miui: 8.12.13
-- branch: weekly
-  date: '2018-12-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-07.12.2018/fw_tulip_miui_HMNote6ProGlobal_8.12.6_bddb9ce8ea_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.6/tulip/fw_tulip_miui_HMNote6ProGlobal_8.12.6_bddb9ce8ea_8.1.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_8.12.6_bddb9ce8ea_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: 8.12.6
 - branch: stable
   date: '2018-12-07'
   downloads:
@@ -378,16 +248,6 @@
   versions:
     android: '8.1'
     miui: 8.11.29
-- branch: weekly
-  date: '2018-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-26.11.2018/fw_tulip_miui_HMNote6ProGlobal_8.11.23_d300289160_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.23/tulip/fw_tulip_miui_HMNote6ProGlobal_8.11.23_d300289160_8.1.zip
-  filename: fw_tulip_miui_HMNote6ProGlobal_8.11.23_d300289160_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: 8.11.23
 - branch: stable
   date: '2018-11-15'
   downloads:

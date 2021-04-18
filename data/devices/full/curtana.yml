@@ -19,16 +19,6 @@
     android: '11.0'
     miui: V12.0.4.0.RJWINXM
 - branch: stable
-  date: '2021-02-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-03.02.2021/fw_curtana_miui_CURTANAGlobal_V12.0.1.0.RJWMIXM_e29d7b7c84_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAGlobal_V12.0.1.0.RJWMIXM_e29d7b7c84_11.0.zip
-  filename: fw_curtana_miui_CURTANAGlobal_V12.0.1.0.RJWMIXM_e29d7b7c84_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.0.1.0.RJWMIXM
-- branch: stable
   date: '2021-01-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-21.01.2021/fw_curtana_miui_CURTANAGlobal_V12.0.3.0.QJWMIXM_fffd838f47_10.0.zip
@@ -129,16 +119,6 @@
     android: '10.0'
     miui: V12.0.1.0.QJWINXM
 - branch: stable
-  date: '2020-08-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-31.08.2020/fw_curtana_miui_CURTANAGlobal_V11.0.11.0.QJWMIXM_70c476ed7e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAGlobal_V11.0.11.0.QJWMIXM_70c476ed7e_10.0.zip
-  filename: fw_curtana_miui_CURTANAGlobal_V11.0.11.0.QJWMIXM_70c476ed7e_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.11.0.QJWMIXM
-- branch: stable
   date: '2020-07-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-23.07.2020/fw_curtana_miui_CURTANAGlobal_V11.0.10.0.QJWMIXM_00d1fc3521_10.0.zip
@@ -168,16 +148,6 @@
   versions:
     android: '10.0'
     miui: V11.0.8.0.QJWINXM
-- branch: stable
-  date: '2020-06-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-22.06.2020/fw_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/curtana/fw_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip
-  filename: fw_curtana_miui_CURTANAGlobal_V11.0.9.0.QJWMIXM_c063fd7fb1_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.9.0.QJWMIXM
 - branch: stable
   date: '2020-06-01'
   downloads:

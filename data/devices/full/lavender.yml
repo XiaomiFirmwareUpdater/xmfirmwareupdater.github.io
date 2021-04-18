@@ -49,16 +49,6 @@
     android: '10.0'
     miui: 21.3.17
 - branch: weekly
-  date: '2021-03-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-12.03.2021/fw_lavender_miui_LAVENDER_21.3.10_9ddd1f16db_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/lavender/fw_lavender_miui_LAVENDER_21.3.10_9ddd1f16db_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_21.3.10_9ddd1f16db_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.3.10
-- branch: weekly
   date: '2021-03-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-05.03.2021/fw_lavender_miui_LAVENDER_21.3.3_731a1d3a8c_10.0.zip
@@ -68,16 +58,6 @@
   versions:
     android: '10.0'
     miui: 21.3.3
-- branch: weekly
-  date: '2021-02-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-26.02.2021/fw_lavender_miui_LAVENDER_21.2.24_c74efb2d77_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/lavender/fw_lavender_miui_LAVENDER_21.2.24_c74efb2d77_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_21.2.24_c74efb2d77_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.2.24
 - branch: weekly
   date: '2021-02-05'
   downloads:
@@ -148,16 +128,6 @@
   versions:
     android: '10.0'
     miui: 21.1.6
-- branch: weekly
-  date: '2020-12-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-31.12.2020/fw_lavender_miui_LAVENDER_20.12.28_0e6fdce103_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.28/lavender/fw_lavender_miui_LAVENDER_20.12.28_0e6fdce103_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.12.28_0e6fdce103_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.12.28
 - branch: stable
   date: '2020-12-22'
   downloads:
@@ -178,16 +148,6 @@
   versions:
     android: '10.0'
     miui: 20.12.9
-- branch: weekly
-  date: '2020-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-03.12.2020/fw_lavender_miui_LAVENDER_20.12.2_6b365f88f0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/lavender/fw_lavender_miui_LAVENDER_20.12.2_6b365f88f0_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.12.2_6b365f88f0_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.12.2
 - branch: weekly
   date: '2020-11-26'
   downloads:
@@ -219,16 +179,6 @@
     android: '10.0'
     miui: V12.0.1.0.QFGINXM
 - branch: weekly
-  date: '2020-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-12.11.2020/fw_lavender_miui_LAVENDER_20.11.11_8b4f220bb2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.11/lavender/fw_lavender_miui_LAVENDER_20.11.11_8b4f220bb2_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.11.11_8b4f220bb2_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.11
-- branch: weekly
   date: '2020-11-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-06.11.2020/fw_lavender_miui_LAVENDER_20.11.5_f1385b6459_10.0.zip
@@ -238,16 +188,6 @@
   versions:
     android: '10.0'
     miui: 20.11.5
-- branch: weekly
-  date: '2020-10-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-31.10.2020/fw_lavender_miui_LAVENDER_20.10.30_82efc9b856_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.30/lavender/fw_lavender_miui_LAVENDER_20.10.30_82efc9b856_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.10.30_82efc9b856_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.30
 - branch: stable
   date: '2020-10-30'
   downloads:
@@ -258,16 +198,6 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QFGMIXM
-- branch: weekly
-  date: '2020-10-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-29.10.2020/fw_lavender_miui_LAVENDER_20.10.29_c66fd0950f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.29/lavender/fw_lavender_miui_LAVENDER_20.10.29_c66fd0950f_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.10.29_c66fd0950f_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.29
 - branch: stable
   date: '2020-10-29'
   downloads:
@@ -278,16 +208,6 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QFGCNXM
-- branch: weekly
-  date: '2020-10-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-22.10.2020/fw_lavender_miui_LAVENDER_20.10.22_70dd144a5e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/lavender/fw_lavender_miui_LAVENDER_20.10.22_70dd144a5e_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.10.22_70dd144a5e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.22
 - branch: stable
   date: '2020-10-20'
   downloads:
@@ -298,16 +218,6 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QFGEUXM
-- branch: weekly
-  date: '2020-10-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-15.10.2020/fw_lavender_miui_LAVENDER_20.10.15_1fa315ed9e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/lavender/fw_lavender_miui_LAVENDER_20.10.15_1fa315ed9e_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.10.15_1fa315ed9e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.15
 - branch: stable
   date: '2020-10-01'
   downloads:
@@ -318,16 +228,6 @@
   versions:
     android: '10.0'
     miui: V11.0.5.0.QFGINXM
-- branch: weekly
-  date: '2020-09-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-25.09.2020/fw_lavender_miui_LAVENDER_20.9.24_594eaecdd3_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/lavender/fw_lavender_miui_LAVENDER_20.9.24_594eaecdd3_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.9.24_594eaecdd3_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.24
 - branch: stable
   date: '2020-09-23'
   downloads:
@@ -338,16 +238,6 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QFGINXM
-- branch: weekly
-  date: '2020-09-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-17.09.2020/fw_lavender_miui_LAVENDER_20.9.17_c0567a17a1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/lavender/fw_lavender_miui_LAVENDER_20.9.17_c0567a17a1_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.9.17_c0567a17a1_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.17
 - branch: weekly
   date: '2020-09-10'
   downloads:
@@ -368,56 +258,6 @@
   versions:
     android: '10.0'
     miui: 20.9.3
-- branch: weekly
-  date: '2020-08-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-28.08.2020/fw_lavender_miui_LAVENDER_20.8.28_6662ce7e42_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.28/lavender/fw_lavender_miui_LAVENDER_20.8.28_6662ce7e42_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.8.28_6662ce7e42_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.28
-- branch: weekly
-  date: '2020-08-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-21.08.2020/fw_lavender_miui_LAVENDER_20.8.20_2caa79398b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.20/lavender/fw_lavender_miui_LAVENDER_20.8.20_2caa79398b_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.8.20_2caa79398b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.20
-- branch: weekly
-  date: '2020-08-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-13.08.2020/fw_lavender_miui_LAVENDER_20.8.13_ffd98fa8a1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.13/lavender/fw_lavender_miui_LAVENDER_20.8.13_ffd98fa8a1_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.8.13_ffd98fa8a1_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.13
-- branch: weekly
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-06.08.2020/fw_lavender_miui_LAVENDER_20.8.6_863d9624cb_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.6/lavender/fw_lavender_miui_LAVENDER_20.8.6_863d9624cb_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.8.6_863d9624cb_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.6
-- branch: weekly
-  date: '2020-07-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-30.07.2020/fw_lavender_miui_LAVENDER_20.7.30_bd3e9cefb8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/lavender/fw_lavender_miui_LAVENDER_20.7.30_bd3e9cefb8_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.7.30_bd3e9cefb8_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.30
 - branch: stable
   date: '2020-07-29'
   downloads:
@@ -469,26 +309,6 @@
     android: '10.0'
     miui: 20.7.9
 - branch: stable
-  date: '2020-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-09.07.2020/fw_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
-  filename: fw_lavender_miui_LAVENDERINGlobal_V11.0.2.0.QFGINXM_7ab6c828c7_10.0.zip
-  region: India
-  versions:
-    android: '10.0'
-    miui: V11.0.2.0.QFGINXM
-- branch: weekly
-  date: '2020-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-02.07.2020/fw_lavender_miui_LAVENDER_20.7.2_8a1288cd2e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.2/lavender/fw_lavender_miui_LAVENDER_20.7.2_8a1288cd2e_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.7.2_8a1288cd2e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.2
-- branch: stable
   date: '2020-06-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-23.06.2020/fw_lavender_miui_LAVENDER_V11.0.2.0.QFGCNXM_f1ece786cf_10.0.zip
@@ -538,16 +358,6 @@
   versions:
     android: '10.0'
     miui: 20.5.28
-- branch: weekly
-  date: '2020-05-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-21.05.2020/fw_lavender_miui_LAVENDER_20.5.21_ee1e48ebad_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/lavender/fw_lavender_miui_LAVENDER_20.5.21_ee1e48ebad_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.5.21_ee1e48ebad_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.21
 - branch: stable
   date: '2020-05-19'
   downloads:
@@ -598,16 +408,6 @@
   versions:
     android: '10.0'
     miui: 20.3.26
-- branch: stable
-  date: '2020-03-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-24.03.2020/fw_lavender_miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip
-  filename: fw_lavender_miui_LAVENDEREEAGlobal_V11.0.7.0.PFGEUXM_3b1ae2ea0f_9.0.zip
-  region: Europe
-  versions:
-    android: '9.0'
-    miui: V11.0.7.0.PFGEUXM
 - branch: weekly
   date: '2020-03-19'
   downloads:
@@ -629,16 +429,6 @@
     android: '9.0'
     miui: V11.0.9.0.PFGINXM
 - branch: weekly
-  date: '2020-03-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-12.03.2020/fw_lavender_miui_LAVENDER_20.3.12_41d3259a62_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/lavender/fw_lavender_miui_LAVENDER_20.3.12_41d3259a62_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.3.12_41d3259a62_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.12
-- branch: weekly
   date: '2020-03-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-06.03.2020/fw_lavender_miui_LAVENDER_20.3.5_fdf30a6d9b_10.0.zip
@@ -648,16 +438,6 @@
   versions:
     android: '10.0'
     miui: 20.3.5
-- branch: stable
-  date: '2020-03-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-03.03.2020/fw_lavender_miui_LAVENDER_V11.0.6.0.PFGCNXM_c557b4eb01_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lavender/fw_lavender_miui_LAVENDER_V11.0.6.0.PFGCNXM_c557b4eb01_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_V11.0.6.0.PFGCNXM_c557b4eb01_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.6.0.PFGCNXM
 - branch: weekly
   date: '2020-02-27'
   downloads:
@@ -689,16 +469,6 @@
     android: '10.0'
     miui: 20.1.21
 - branch: weekly
-  date: '2020-01-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-17.01.2020/fw_lavender_miui_LAVENDER_20.1.16_d8ee8441c7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/lavender/fw_lavender_miui_LAVENDER_20.1.16_d8ee8441c7_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_20.1.16_d8ee8441c7_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.1.16
-- branch: weekly
   date: '2020-01-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-09.01.2020/fw_lavender_miui_LAVENDER_20.1.9_c2586b57f6_10.0.zip
@@ -718,26 +488,6 @@
   versions:
     android: '9.0'
     miui: 9.12.12
-- branch: weekly
-  date: '2019-12-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-06.12.2019/fw_lavender_miui_LAVENDER_9.12.5_6f8844c679_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/lavender/fw_lavender_miui_LAVENDER_9.12.5_6f8844c679_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.12.5_6f8844c679_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.12.5
-- branch: weekly
-  date: '2019-11-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-29.11.2019/fw_lavender_miui_LAVENDER_9.11.28_9e54e652a3_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/lavender/fw_lavender_miui_LAVENDER_9.11.28_9e54e652a3_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.11.28_9e54e652a3_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.11.28
 - branch: stable
   date: '2019-11-27'
   downloads:
@@ -788,26 +538,6 @@
   versions:
     android: '9.0'
     miui: V11.0.6.0.PFGINXM
-- branch: weekly
-  date: '2019-11-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-15.11.2019/fw_lavender_miui_LAVENDER_9.11.14_f1df2b02dc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.14/lavender/fw_lavender_miui_LAVENDER_9.11.14_f1df2b02dc_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.11.14_f1df2b02dc_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.11.14
-- branch: weekly
-  date: '2019-11-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-08.11.2019/fw_lavender_miui_LAVENDER_9.11.7_115aa77e80_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.7/lavender/fw_lavender_miui_LAVENDER_9.11.7_115aa77e80_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.11.7_115aa77e80_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.11.7
 - branch: stable
   date: '2019-11-01'
   downloads:
@@ -869,26 +599,6 @@
     android: '9.0'
     miui: V11.0.3.0.PFGCNXM
 - branch: weekly
-  date: '2019-10-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-25.10.2019/fw_lavender_miui_LAVENDER_9.10.24_233cde0d2e_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.24/lavender/fw_lavender_miui_LAVENDER_9.10.24_233cde0d2e_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.10.24_233cde0d2e_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.10.24
-- branch: weekly
-  date: '2019-10-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-17.10.2019/fw_lavender_miui_LAVENDER_9.10.17_112a099525_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.17/lavender/fw_lavender_miui_LAVENDER_9.10.17_112a099525_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.10.17_112a099525_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.10.17
-- branch: weekly
   date: '2019-09-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-06.09.2019/fw_lavender_miui_LAVENDER_9.9.3_5ca18e6120_9.0.zip
@@ -928,16 +638,6 @@
   versions:
     android: '9.0'
     miui: V10.3.4.0.PFGCNXM
-- branch: weekly
-  date: '2019-08-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-23.08.2019/fw_lavender_miui_LAVENDER_9.8.22_a31b0fcb7a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.22/lavender/fw_lavender_miui_LAVENDER_9.8.22_a31b0fcb7a_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.8.22_a31b0fcb7a_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.8.22
 - branch: stable
   date: '2019-08-19'
   downloads:
@@ -979,86 +679,6 @@
     android: '9.0'
     miui: 9.8.1
 - branch: stable
-  date: '2019-07-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-26.07.2019/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.5.0.PFGEUXM_934d66eec9_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.5.0.PFGEUXM_934d66eec9_9.0.zip
-  filename: fw_lavender_miui_LAVENDEREEAGlobal_V10.3.5.0.PFGEUXM_934d66eec9_9.0.zip
-  region: Europe
-  versions:
-    android: '9.0'
-    miui: V10.3.5.0.PFGEUXM
-- branch: stable
-  date: '2019-07-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-26.07.2019/fw_lavender_miui_LAVENDERINGlobal_V10.3.6.0.PFGINXM_7a59ebf942_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDERINGlobal_V10.3.6.0.PFGINXM_7a59ebf942_9.0.zip
-  filename: fw_lavender_miui_LAVENDERINGlobal_V10.3.6.0.PFGINXM_7a59ebf942_9.0.zip
-  region: India
-  versions:
-    android: '9.0'
-    miui: V10.3.6.0.PFGINXM
-- branch: stable
-  date: '2019-07-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-26.07.2019/fw_lavender_miui_LAVENDER_V10.3.3.0.PFGCNXM_cc98d908ca_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/lavender/fw_lavender_miui_LAVENDER_V10.3.3.0.PFGCNXM_cc98d908ca_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_V10.3.3.0.PFGCNXM_cc98d908ca_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.3.3.0.PFGCNXM
-- branch: weekly
-  date: '2019-07-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-26.07.2019/fw_lavender_miui_LAVENDER_9.7.25_a70f3c63fa_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/lavender/fw_lavender_miui_LAVENDER_9.7.25_a70f3c63fa_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.7.25_a70f3c63fa_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.25
-- branch: weekly
-  date: '2019-07-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-19.07.2019/fw_lavender_miui_LAVENDER_9.7.18_21da190f0d_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/lavender/fw_lavender_miui_LAVENDER_9.7.18_21da190f0d_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.7.18_21da190f0d_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.18
-- branch: weekly
-  date: '2019-07-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-12.07.2019/fw_lavender_miui_LAVENDER_9.7.11_c9963a318b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/lavender/fw_lavender_miui_LAVENDER_9.7.11_c9963a318b_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.7.11_c9963a318b_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.11
-- branch: weekly
-  date: '2019-07-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-05.07.2019/fw_lavender_miui_LAVENDER_9.7.4_685147d37c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/lavender/fw_lavender_miui_LAVENDER_9.7.4_685147d37c_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.7.4_685147d37c_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.4
-- branch: weekly
-  date: '2019-06-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-28.06.2019/fw_lavender_miui_LAVENDER_9.6.27_19f26c3bda_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/lavender/fw_lavender_miui_LAVENDER_9.6.27_19f26c3bda_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.6.27_19f26c3bda_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.6.27
-- branch: stable
   date: '2019-06-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/stable-27.06.2019/fw_lavender_miui_LAVENDEREEAGlobal_V10.3.4.0.PFGEUXM_c39033bf0f_9.0.zip
@@ -1099,16 +719,6 @@
     android: '9.0'
     miui: 9.6.20
 - branch: weekly
-  date: '2019-06-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-14.06.2019/fw_lavender_miui_LAVENDER_9.6.13_0483d16524_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/lavender/fw_lavender_miui_LAVENDER_9.6.13_0483d16524_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.6.13_0483d16524_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.6.13
-- branch: weekly
   date: '2019-06-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-03.06.2019/fw_lavender_miui_LAVENDER_9.5.30_1cc18b679b_9.0.zip
@@ -1138,36 +748,6 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFGINXM
-- branch: weekly
-  date: '2019-05-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-24.05.2019/fw_lavender_miui_LAVENDER_9.5.23_c42e37f611_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/lavender/fw_lavender_miui_LAVENDER_9.5.23_c42e37f611_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.5.23_c42e37f611_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.5.23
-- branch: weekly
-  date: '2019-05-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-17.05.2019/fw_lavender_miui_LAVENDER_9.5.16_3be4e2ca2b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/lavender/fw_lavender_miui_LAVENDER_9.5.16_3be4e2ca2b_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.5.16_3be4e2ca2b_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.5.16
-- branch: weekly
-  date: '2019-05-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-10.05.2019/fw_lavender_miui_LAVENDER_9.5.9_2a34bc3d99_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/lavender/fw_lavender_miui_LAVENDER_9.5.9_2a34bc3d99_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.5.9_2a34bc3d99_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.5.9
 - branch: stable
   date: '2019-05-01'
   downloads:
@@ -1198,26 +778,6 @@
   versions:
     android: '9.0'
     miui: 9.4.25
-- branch: weekly
-  date: '2019-04-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-23.04.2019/fw_lavender_miui_LAVENDER_9.4.22_e1dcc293fa_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.22/lavender/fw_lavender_miui_LAVENDER_9.4.22_e1dcc293fa_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.4.22_e1dcc293fa_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.4.22
-- branch: weekly
-  date: '2019-04-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-15.04.2019/fw_lavender_miui_LAVENDER_9.4.12_15edfad118_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.12/lavender/fw_lavender_miui_LAVENDER_9.4.12_15edfad118_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.4.12_15edfad118_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.4.12
 - branch: stable
   date: '2019-04-13'
   downloads:
@@ -1308,16 +868,6 @@
   versions:
     android: '9.0'
     miui: 9.3.1
-- branch: weekly
-  date: '2019-02-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lavender/releases/download/weekly-26.02.2019/fw_lavender_miui_LAVENDER_9.2.22_dfa84aff81_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.22/lavender/fw_lavender_miui_LAVENDER_9.2.22_dfa84aff81_9.0.zip
-  filename: fw_lavender_miui_LAVENDER_9.2.22_dfa84aff81_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.2.22
 - branch: weekly
   date: '2019-02-18'
   downloads:

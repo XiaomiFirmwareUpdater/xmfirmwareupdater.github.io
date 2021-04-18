@@ -19,16 +19,6 @@
     android: '10.0'
     miui: V12.0.4.0.QECCNXM
 - branch: stable
-  date: '2020-12-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-15.12.2020/fw_equuleus_miui_MI8UD_V12.0.3.0.QECCNXM_f2bbbdce7b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/equuleus/fw_equuleus_miui_MI8UD_V12.0.3.0.QECCNXM_f2bbbdce7b_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_V12.0.3.0.QECCNXM_f2bbbdce7b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.3.0.QECCNXM
-- branch: stable
   date: '2020-11-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-12.11.2020/fw_equuleus_miui_MI8UDGlobal_V12.0.1.0.QECMIXM_7c80eadccc_10.0.zip
@@ -38,16 +28,6 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QECMIXM
-- branch: stable
-  date: '2020-09-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-25.09.2020/fw_equuleus_miui_MI8UDGlobal_V11.0.11.0.QECMIXM_adaa87fb7d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UDGlobal_V11.0.11.0.QECMIXM_adaa87fb7d_10.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_V11.0.11.0.QECMIXM_adaa87fb7d_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.11.0.QECMIXM
 - branch: weekly
   date: '2020-09-05'
   downloads:
@@ -59,196 +39,6 @@
     android: '10.0'
     miui: 20.9.4
 - branch: weekly
-  date: '2020-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-03.09.2020/fw_equuleus_miui_MI8UD_20.9.3_b7eb7b57aa_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.3/equuleus/fw_equuleus_miui_MI8UD_20.9.3_b7eb7b57aa_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.9.3_b7eb7b57aa_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.3
-- branch: stable
-  date: '2020-09-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-01.09.2020/fw_equuleus_miui_MI8UD_V12.0.2.0.QECCNXM_01127ae6da_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/equuleus/fw_equuleus_miui_MI8UD_V12.0.2.0.QECCNXM_01127ae6da_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_V12.0.2.0.QECCNXM_01127ae6da_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.2.0.QECCNXM
-- branch: weekly
-  date: '2020-08-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-28.08.2020/fw_equuleus_miui_MI8UD_20.8.27_46c0a02949_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.27/equuleus/fw_equuleus_miui_MI8UD_20.8.27_46c0a02949_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.8.27_46c0a02949_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.27
-- branch: weekly
-  date: '2020-08-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-21.08.2020/fw_equuleus_miui_MI8UD_20.8.20_172763f9ac_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.20/equuleus/fw_equuleus_miui_MI8UD_20.8.20_172763f9ac_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.8.20_172763f9ac_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.20
-- branch: weekly
-  date: '2020-08-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-13.08.2020/fw_equuleus_miui_MI8UD_20.8.13_dd5f9b0b5f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.13/equuleus/fw_equuleus_miui_MI8UD_20.8.13_dd5f9b0b5f_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.8.13_dd5f9b0b5f_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.13
-- branch: weekly
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-06.08.2020/fw_equuleus_miui_MI8UD_20.8.6_ca371086ae_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.6/equuleus/fw_equuleus_miui_MI8UD_20.8.6_ca371086ae_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.8.6_ca371086ae_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.8.6
-- branch: stable
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-06.08.2020/fw_equuleus_miui_MI8UDGlobal_V11.0.9.0.QECMIXM_35695bfee7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UDGlobal_V11.0.9.0.QECMIXM_35695bfee7_10.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_V11.0.9.0.QECMIXM_35695bfee7_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.9.0.QECMIXM
-- branch: weekly
-  date: '2020-07-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-30.07.2020/fw_equuleus_miui_MI8UD_20.7.30_8e7e2bc9af_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/equuleus/fw_equuleus_miui_MI8UD_20.7.30_8e7e2bc9af_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.7.30_8e7e2bc9af_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.30
-- branch: weekly
-  date: '2020-07-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-23.07.2020/fw_equuleus_miui_MI8UD_20.7.23_b1018d0697_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/equuleus/fw_equuleus_miui_MI8UD_20.7.23_b1018d0697_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.7.23_b1018d0697_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.23
-- branch: stable
-  date: '2020-07-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-21.07.2020/fw_equuleus_miui_MI8UDGlobal_V11.0.7.0.QECMIXM_4c4949cc93_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UDGlobal_V11.0.7.0.QECMIXM_4c4949cc93_10.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_V11.0.7.0.QECMIXM_4c4949cc93_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.7.0.QECMIXM
-- branch: weekly
-  date: '2020-07-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-16.07.2020/fw_equuleus_miui_MI8UD_20.7.16_25557455d8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/equuleus/fw_equuleus_miui_MI8UD_20.7.16_25557455d8_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.7.16_25557455d8_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.16
-- branch: weekly
-  date: '2020-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-09.07.2020/fw_equuleus_miui_MI8UD_20.7.9_089f790d48_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/equuleus/fw_equuleus_miui_MI8UD_20.7.9_089f790d48_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.7.9_089f790d48_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.9
-- branch: weekly
-  date: '2020-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-02.07.2020/fw_equuleus_miui_MI8UD_20.7.2_c260388c63_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.2/equuleus/fw_equuleus_miui_MI8UD_20.7.2_c260388c63_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.7.2_c260388c63_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.2
-- branch: weekly
-  date: '2020-06-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-18.06.2020/fw_equuleus_miui_MI8UD_20.6.18_985dd4635f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/equuleus/fw_equuleus_miui_MI8UD_20.6.18_985dd4635f_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.6.18_985dd4635f_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.18
-- branch: weekly
-  date: '2020-06-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-11.06.2020/fw_equuleus_miui_MI8UD_20.6.11_c568f3b44d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/equuleus/fw_equuleus_miui_MI8UD_20.6.11_c568f3b44d_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.6.11_c568f3b44d_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.11
-- branch: weekly
-  date: '2020-06-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-04.06.2020/fw_equuleus_miui_MI8UD_20.6.4_2a4f914bf8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/equuleus/fw_equuleus_miui_MI8UD_20.6.4_2a4f914bf8_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.6.4_2a4f914bf8_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.4
-- branch: weekly
-  date: '2020-05-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-28.05.2020/fw_equuleus_miui_MI8UD_20.5.28_e684ba615d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/equuleus/fw_equuleus_miui_MI8UD_20.5.28_e684ba615d_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.5.28_e684ba615d_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.28
-- branch: weekly
-  date: '2020-05-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-21.05.2020/fw_equuleus_miui_MI8UD_20.5.21_0815c9e8fe_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/equuleus/fw_equuleus_miui_MI8UD_20.5.21_0815c9e8fe_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.5.21_0815c9e8fe_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.21
-- branch: weekly
-  date: '2020-05-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-14.05.2020/fw_equuleus_miui_MI8UD_20.5.14_79fa269a6e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/equuleus/fw_equuleus_miui_MI8UD_20.5.14_79fa269a6e_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.5.14_79fa269a6e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.14
-- branch: weekly
   date: '2020-05-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-08.05.2020/fw_equuleus_miui_MI8UD_20.5.7_0529b9638e_10.0.zip
@@ -258,26 +48,6 @@
   versions:
     android: '10.0'
     miui: 20.5.7
-- branch: weekly
-  date: '2020-05-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-01.05.2020/fw_equuleus_miui_MI8UD_20.4.30_fbe520da99_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/equuleus/fw_equuleus_miui_MI8UD_20.4.30_fbe520da99_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.4.30_fbe520da99_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.4.30
-- branch: weekly
-  date: '2020-04-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-27.04.2020/fw_equuleus_miui_MI8UD_20.4.27_a7821ab655_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/equuleus/fw_equuleus_miui_MI8UD_20.4.27_a7821ab655_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.4.27_a7821ab655_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.4.27
 - branch: stable
   date: '2020-04-27'
   downloads:
@@ -308,176 +78,6 @@
   versions:
     android: '10.0'
     miui: 20.3.26
-- branch: weekly
-  date: '2020-03-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-19.03.2020/fw_equuleus_miui_MI8UD_20.3.19_e98b2b0ca2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/equuleus/fw_equuleus_miui_MI8UD_20.3.19_e98b2b0ca2_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.3.19_e98b2b0ca2_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.19
-- branch: weekly
-  date: '2020-03-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-12.03.2020/fw_equuleus_miui_MI8UD_20.3.12_4f26acce5b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/equuleus/fw_equuleus_miui_MI8UD_20.3.12_4f26acce5b_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.3.12_4f26acce5b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.12
-- branch: weekly
-  date: '2020-03-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-05.03.2020/fw_equuleus_miui_MI8UD_20.3.5_33470ce327_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/equuleus/fw_equuleus_miui_MI8UD_20.3.5_33470ce327_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.3.5_33470ce327_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.5
-- branch: stable
-  date: '2020-03-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-03.03.2020/fw_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_V11.0.3.0.QECMIXM_f26257a956_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.3.0.QECMIXM
-- branch: weekly
-  date: '2020-02-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-27.02.2020/fw_equuleus_miui_MI8UD_20.2.27_e359b9135c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/equuleus/fw_equuleus_miui_MI8UD_20.2.27_e359b9135c_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.2.27_e359b9135c_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.2.27
-- branch: weekly
-  date: '2020-02-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-08.02.2020/fw_equuleus_miui_MI8UD_20.1.21_6d22c372d8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/equuleus/fw_equuleus_miui_MI8UD_20.1.21_6d22c372d8_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.1.21_6d22c372d8_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.1.21
-- branch: weekly
-  date: '2020-01-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-17.01.2020/fw_equuleus_miui_MI8UD_20.1.16_c055366796_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/equuleus/fw_equuleus_miui_MI8UD_20.1.16_c055366796_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.1.16_c055366796_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.1.16
-- branch: stable
-  date: '2020-01-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-10.01.2020/fw_equuleus_miui_MI8UD_V11.0.1.0.QECCNXM_b1c2953aed_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/equuleus/fw_equuleus_miui_MI8UD_V11.0.1.0.QECCNXM_b1c2953aed_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_V11.0.1.0.QECCNXM_b1c2953aed_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.1.0.QECCNXM
-- branch: weekly
-  date: '2020-01-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-09.01.2020/fw_equuleus_miui_MI8UD_20.1.9_8df2f6fa89_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/equuleus/fw_equuleus_miui_MI8UD_20.1.9_8df2f6fa89_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.1.9_8df2f6fa89_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.1.9
-- branch: weekly
-  date: '2020-01-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-03.01.2020/fw_equuleus_miui_MI8UD_20.1.2_e26992e4e2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/equuleus/fw_equuleus_miui_MI8UD_20.1.2_e26992e4e2_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_20.1.2_e26992e4e2_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.1.2
-- branch: weekly
-  date: '2019-12-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-27.12.2019/fw_equuleus_miui_MI8UD_9.12.26_d34d499d08_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/equuleus/fw_equuleus_miui_MI8UD_9.12.26_d34d499d08_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.12.26_d34d499d08_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.12.26
-- branch: weekly
-  date: '2019-12-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-20.12.2019/fw_equuleus_miui_MI8UD_9.12.19_399500e797_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/equuleus/fw_equuleus_miui_MI8UD_9.12.19_399500e797_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.12.19_399500e797_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.12.19
-- branch: weekly
-  date: '2019-12-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-13.12.2019/fw_equuleus_miui_MI8UD_9.12.12_23ff979926_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/equuleus/fw_equuleus_miui_MI8UD_9.12.12_23ff979926_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.12.12_23ff979926_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.12.12
-- branch: weekly
-  date: '2019-12-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-06.12.2019/fw_equuleus_miui_MI8UD_9.12.5_ab67c07583_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/equuleus/fw_equuleus_miui_MI8UD_9.12.5_ab67c07583_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.12.5_ab67c07583_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.12.5
-- branch: weekly
-  date: '2019-11-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-29.11.2019/fw_equuleus_miui_MI8UD_9.11.28_26bca97082_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/equuleus/fw_equuleus_miui_MI8UD_9.11.28_26bca97082_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.11.28_26bca97082_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.11.28
-- branch: weekly
-  date: '2019-11-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-22.11.2019/fw_equuleus_miui_MI8UD_9.11.21_1422a55a96_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.21/equuleus/fw_equuleus_miui_MI8UD_9.11.21_1422a55a96_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.11.21_1422a55a96_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.11.21
-- branch: weekly
-  date: '2019-11-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-08.11.2019/fw_equuleus_miui_MI8UD_9.11.7_c60b514744_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.7/equuleus/fw_equuleus_miui_MI8UD_9.11.7_c60b514744_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.11.7_c60b514744_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.11.7
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -498,26 +98,6 @@
   versions:
     android: '9.0'
     miui: V11.0.5.0.PECMIXM
-- branch: weekly
-  date: '2019-11-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-01.11.2019/fw_equuleus_miui_MI8UD_9.10.31_025858eda9_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.31/equuleus/fw_equuleus_miui_MI8UD_9.10.31_025858eda9_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.10.31_025858eda9_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.10.31
-- branch: weekly
-  date: '2019-10-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-25.10.2019/fw_equuleus_miui_MI8UD_9.10.24_f64ebda82e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.24/equuleus/fw_equuleus_miui_MI8UD_9.10.24_f64ebda82e_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.10.24_f64ebda82e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.10.24
 - branch: stable
   date: '2019-10-18'
   downloads:
@@ -558,26 +138,6 @@
   versions:
     android: '9.0'
     miui: 9.9.3
-- branch: stable
-  date: '2019-08-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-30.08.2019/fw_equuleus_miui_MI8UD_V10.3.5.0.PECCNXM_6781485fdc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UD_V10.3.5.0.PECCNXM_6781485fdc_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_V10.3.5.0.PECCNXM_6781485fdc_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.3.5.0.PECCNXM
-- branch: weekly
-  date: '2019-08-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-23.08.2019/fw_equuleus_miui_MI8UD_9.8.22_0ca63f8d13_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.22/equuleus/fw_equuleus_miui_MI8UD_9.8.22_0ca63f8d13_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.8.22_0ca63f8d13_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.8.22
 - branch: weekly
   date: '2019-08-16'
   downloads:
@@ -599,16 +159,6 @@
     android: '9.0'
     miui: V10.3.5.0.PECMIXM
 - branch: weekly
-  date: '2019-08-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-12.08.2019/fw_equuleus_miui_MI8UD_9.8.9_b07b61897c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.9/equuleus/fw_equuleus_miui_MI8UD_9.8.9_b07b61897c_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.8.9_b07b61897c_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.8.9
-- branch: weekly
   date: '2019-08-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-02.08.2019/fw_equuleus_miui_MI8UD_9.8.1_76b7181a38_9.0.zip
@@ -618,26 +168,6 @@
   versions:
     android: '9.0'
     miui: 9.8.1
-- branch: weekly
-  date: '2019-07-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-26.07.2019/fw_equuleus_miui_MI8UD_9.7.25_ab4a04408c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.25/equuleus/fw_equuleus_miui_MI8UD_9.7.25_ab4a04408c_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.7.25_ab4a04408c_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.25
-- branch: stable
-  date: '2019-07-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/stable-25.07.2019/fw_equuleus_miui_MI8UD_V10.3.4.0.PECCNXM_aef3e722a2_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/equuleus/fw_equuleus_miui_MI8UD_V10.3.4.0.PECCNXM_aef3e722a2_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_V10.3.4.0.PECCNXM_aef3e722a2_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.3.4.0.PECCNXM
 - branch: stable
   date: '2019-07-24'
   downloads:
@@ -648,26 +178,6 @@
   versions:
     android: '9.0'
     miui: V10.3.4.0.PECMIXM
-- branch: weekly
-  date: '2019-07-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-19.07.2019/fw_equuleus_miui_MI8UD_9.7.18_c9d5e5bc2a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/equuleus/fw_equuleus_miui_MI8UD_9.7.18_c9d5e5bc2a_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.7.18_c9d5e5bc2a_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.18
-- branch: weekly
-  date: '2019-07-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-13.07.2019/fw_equuleus_miui_MI8UD_9.7.11_207a1cfac1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/equuleus/fw_equuleus_miui_MI8UD_9.7.11_207a1cfac1_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.7.11_207a1cfac1_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.11
 - branch: stable
   date: '2019-07-05'
   downloads:
@@ -695,16 +205,6 @@
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/equuleus/fw_equuleus_miui_MI8UDGlobal_9.6.27_0b930d500c_9.0.zip
   filename: fw_equuleus_miui_MI8UDGlobal_9.6.27_0b930d500c_9.0.zip
   region: Global
-  versions:
-    android: '9.0'
-    miui: 9.6.27
-- branch: weekly
-  date: '2019-06-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-28.06.2019/fw_equuleus_miui_MI8UD_9.6.27_dd916d8786_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/equuleus/fw_equuleus_miui_MI8UD_9.6.27_dd916d8786_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.6.27_dd916d8786_9.0.zip
-  region: China
   versions:
     android: '9.0'
     miui: 9.6.27
@@ -738,46 +238,6 @@
   versions:
     android: '9.0'
     miui: 9.6.20
-- branch: weekly
-  date: '2019-06-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-14.06.2019/fw_equuleus_miui_MI8UDGlobal_9.6.13_8eafa90158_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/equuleus/fw_equuleus_miui_MI8UDGlobal_9.6.13_8eafa90158_9.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_9.6.13_8eafa90158_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.6.13
-- branch: weekly
-  date: '2019-06-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-14.06.2019/fw_equuleus_miui_MI8UD_9.6.13_b055e4306a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.13/equuleus/fw_equuleus_miui_MI8UD_9.6.13_b055e4306a_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.6.13_b055e4306a_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.6.13
-- branch: weekly
-  date: '2019-05-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-31.05.2019/fw_equuleus_miui_MI8UDGlobal_9.5.30_899c25d962_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/equuleus/fw_equuleus_miui_MI8UDGlobal_9.5.30_899c25d962_9.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_9.5.30_899c25d962_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.5.30
-- branch: weekly
-  date: '2019-05-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-31.05.2019/fw_equuleus_miui_MI8UD_9.5.30_8718c17931_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/equuleus/fw_equuleus_miui_MI8UD_9.5.30_8718c17931_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.5.30_8718c17931_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.5.30
 - branch: stable
   date: '2019-05-21'
   downloads:
@@ -788,26 +248,6 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PECMIXM
-- branch: weekly
-  date: '2019-05-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-20.05.2019/fw_equuleus_miui_MI8UDGlobal_9.5.17_070103e011_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.17/equuleus/fw_equuleus_miui_MI8UDGlobal_9.5.17_070103e011_9.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_9.5.17_070103e011_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.5.17
-- branch: weekly
-  date: '2019-05-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-20.05.2019/fw_equuleus_miui_MI8UD_9.5.17_5372faae1b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.17/equuleus/fw_equuleus_miui_MI8UD_9.5.17_5372faae1b_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.5.17_5372faae1b_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.5.17
 - branch: weekly
   date: '2019-05-10'
   downloads:
@@ -828,76 +268,6 @@
   versions:
     android: '9.0'
     miui: 9.5.9
-- branch: weekly
-  date: '2019-05-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-05.05.2019/fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/equuleus/fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.4.18
-- branch: weekly
-  date: '2019-04-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-29.04.2019/fw_equuleus_miui_MI8UDGlobal_9.4.26_ae4687849a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.26/equuleus/fw_equuleus_miui_MI8UDGlobal_9.4.26_ae4687849a_9.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_9.4.26_ae4687849a_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.4.26
-- branch: weekly
-  date: '2019-04-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-29.04.2019/fw_equuleus_miui_MI8UD_9.4.26_0778ff89b7_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.26/equuleus/fw_equuleus_miui_MI8UD_9.4.26_0778ff89b7_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.4.26_0778ff89b7_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.4.26
-- branch: weekly
-  date: '2019-04-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-20.04.2019/fw_equuleus_miui_MI8UDGlobal_9.4.18_67ff6da452_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/equuleus/fw_equuleus_miui_MI8UDGlobal_9.4.18_67ff6da452_9.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_9.4.18_67ff6da452_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.4.18
-- branch: weekly
-  date: '2019-04-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-19.04.2019/fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.18/equuleus/fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.4.18_1a94bb2c72_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.4.18
-- branch: weekly
-  date: '2019-04-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-15.04.2019/fw_equuleus_miui_MI8UDGlobal_9.4.12_821a183632_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.12/equuleus/fw_equuleus_miui_MI8UDGlobal_9.4.12_821a183632_9.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_9.4.12_821a183632_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.4.12
-- branch: weekly
-  date: '2019-04-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-15.04.2019/fw_equuleus_miui_MI8UD_9.4.12_9dfbf6d8de_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.12/equuleus/fw_equuleus_miui_MI8UD_9.4.12_9dfbf6d8de_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.4.12_9dfbf6d8de_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.4.12
 - branch: weekly
   date: '2019-03-29'
   downloads:
@@ -938,26 +308,6 @@
   versions:
     android: '9.0'
     miui: 9.3.21
-- branch: weekly
-  date: '2019-03-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-15.03.2019/fw_equuleus_miui_MI8UDGlobal_9.3.14_7ba65bf7db_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/equuleus/fw_equuleus_miui_MI8UDGlobal_9.3.14_7ba65bf7db_9.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_9.3.14_7ba65bf7db_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.3.14
-- branch: weekly
-  date: '2019-03-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-15.03.2019/fw_equuleus_miui_MI8UD_9.3.14_e75485d96a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/equuleus/fw_equuleus_miui_MI8UD_9.3.14_e75485d96a_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.3.14_e75485d96a_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.3.14
 - branch: stable
   date: '2019-03-11'
   downloads:
@@ -968,26 +318,6 @@
   versions:
     android: '9.0'
     miui: V10.2.2.0.PECMIXM
-- branch: weekly
-  date: '2019-03-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-11.03.2019/fw_equuleus_miui_MI8UDGlobal_9.3.7_291befc896_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/equuleus/fw_equuleus_miui_MI8UDGlobal_9.3.7_291befc896_9.0.zip
-  filename: fw_equuleus_miui_MI8UDGlobal_9.3.7_291befc896_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.3.7
-- branch: weekly
-  date: '2019-03-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-11.03.2019/fw_equuleus_miui_MI8UD_9.3.7_75f0cef08d_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.7/equuleus/fw_equuleus_miui_MI8UD_9.3.7_75f0cef08d_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_9.3.7_75f0cef08d_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.3.7
 - branch: weekly
   date: '2019-03-04'
   downloads:
@@ -1145,16 +475,6 @@
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/equuleus/fw_equuleus_miui_MI8UDGlobal_8.12.27_1923a28c5d_9.0.zip
   filename: fw_equuleus_miui_MI8UDGlobal_8.12.27_1923a28c5d_9.0.zip
   region: Global
-  versions:
-    android: '9.0'
-    miui: 8.12.27
-- branch: weekly
-  date: '2018-12-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_equuleus/releases/download/weekly-28.12.2018/fw_equuleus_miui_MI8UD_8.12.27_d0979874b2_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/equuleus/fw_equuleus_miui_MI8UD_8.12.27_d0979874b2_9.0.zip
-  filename: fw_equuleus_miui_MI8UD_8.12.27_d0979874b2_9.0.zip
-  region: China
   versions:
     android: '9.0'
     miui: 8.12.27

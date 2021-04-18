@@ -18,16 +18,6 @@
   versions:
     android: '7.0'
     miui: 8.9.13
-- branch: weekly
-  date: '2018-09-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-07.09.2018/fw_libra_miui_MI4c_8.9.6_1497823a57_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.6/libra/fw_libra_miui_MI4c_8.9.6_1497823a57_7.0.zip
-  filename: fw_libra_miui_MI4c_8.9.6_1497823a57_7.0.zip
-  region: China
-  versions:
-    android: '7.0'
-    miui: 8.9.6
 - branch: stable
   date: '2018-09-03'
   downloads:
@@ -58,16 +48,6 @@
   versions:
     android: '7.0'
     miui: 8.8.23
-- branch: weekly
-  date: '2018-08-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-10.08.2018/fw_libra_miui_MI4c_8.8.9_8292995cbf_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/libra/fw_libra_miui_MI4c_8.8.9_8292995cbf_7.0.zip
-  filename: fw_libra_miui_MI4c_8.8.9_8292995cbf_7.0.zip
-  region: China
-  versions:
-    android: '7.0'
-    miui: 8.8.9
 - branch: stable
   date: '2018-08-07'
   downloads:
@@ -78,16 +58,6 @@
   versions:
     android: '7.0'
     miui: V9.6.3.0.NXKCNFD
-- branch: weekly
-  date: '2018-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/weekly-06.08.2018/fw_libra_miui_MI4c_8.8.3_3a7c203873_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.3/libra/fw_libra_miui_MI4c_8.8.3_3a7c203873_7.0.zip
-  filename: fw_libra_miui_MI4c_8.8.3_3a7c203873_7.0.zip
-  region: China
-  versions:
-    android: '7.0'
-    miui: 8.8.3
 - branch: weekly
   date: '2018-07-27'
   downloads:
@@ -118,16 +88,6 @@
   versions:
     android: '7.0'
     miui: 8.7.19
-- branch: weekly
-  date: '2018-07-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-31e2f0d0e636cb09d27a/fw_libra_miui_MI4c_8.7.12_1b98bcaf41_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/libra/fw_libra_miui_MI4c_8.7.12_1b98bcaf41_7.0.zip
-  filename: fw_libra_miui_MI4c_8.7.12_1b98bcaf41_7.0.zip
-  region: China
-  versions:
-    android: '7.0'
-    miui: 8.7.12
 - branch: weekly
   date: '2018-07-10'
   downloads:
@@ -218,16 +178,6 @@
   versions:
     android: '7.0'
     miui: 8.4.26
-- branch: weekly
-  date: '2018-04-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_libra/releases/download/untagged-cc21dadfd939536aa1b1/fw_libra_miui_MI4c_8.4.19_7840af0fe3_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/libra/fw_libra_miui_MI4c_8.4.19_7840af0fe3_7.0.zip
-  filename: fw_libra_miui_MI4c_8.4.19_7840af0fe3_7.0.zip
-  region: China
-  versions:
-    android: '7.0'
-    miui: 8.4.19
 - branch: weekly
   date: '2018-04-27'
   downloads:
