@@ -49,16 +49,6 @@
     android: '7.1'
     miui: V10.2.1.0.NCCMIXM
 - branch: weekly
-  date: '2018-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-03.12.2018/fw_rolex_miui_HM4AGlobal_8.11.29_c670260185_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/rolex/fw_rolex_miui_HM4AGlobal_8.11.29_c670260185_7.1.zip
-  filename: fw_rolex_miui_HM4AGlobal_8.11.29_c670260185_7.1.zip
-  region: Global
-  versions:
-    android: '7.1'
-    miui: 8.11.29
-- branch: weekly
   date: '2018-11-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/weekly-16.11.2018/fw_rolex_miui_HM4AGlobal_8.11.15_2417b40184_7.1.zip
@@ -78,16 +68,6 @@
   versions:
     android: '6.0'
     miui: V10.1.1.0.MCCCNFI
-- branch: stable
-  date: '2018-09-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_rolex/releases/download/stable-07.09.2018/fw_rolex_miui_HM4AGlobal_V9.6.5.0.NCCMIFD_743c002e7c_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/rolex/fw_rolex_miui_HM4AGlobal_V9.6.5.0.NCCMIFD_743c002e7c_7.1.zip
-  filename: fw_rolex_miui_HM4AGlobal_V9.6.5.0.NCCMIFD_743c002e7c_7.1.zip
-  region: Global
-  versions:
-    android: '7.1'
-    miui: V9.6.5.0.NCCMIFD
 - branch: weekly
   date: '2018-04-27'
   downloads:

@@ -39,16 +39,6 @@
     android: '6.0'
     miui: V10.1.1.0.MHRMIFI
 - branch: weekly
-  date: '2018-11-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/weekly-30.11.2018/fw_kate_miui_HMNote3ProtwGlobal_8.11.29_bf5b93d1ec_6.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/kate/fw_kate_miui_HMNote3ProtwGlobal_8.11.29_bf5b93d1ec_6.0.zip
-  filename: fw_kate_miui_HMNote3ProtwGlobal_8.11.29_bf5b93d1ec_6.0.zip
-  region: Global
-  versions:
-    android: '6.0'
-    miui: 8.11.29
-- branch: weekly
   date: '2018-11-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/weekly-16.11.2018/fw_kate_miui_HMNote3ProtwGlobal_8.11.15_cdeb6525c7_6.0.zip

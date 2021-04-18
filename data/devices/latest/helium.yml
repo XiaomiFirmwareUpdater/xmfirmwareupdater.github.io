@@ -29,12 +29,12 @@
     android: '7.0'
     miui: 9.2.28
 - branch: weekly
-  date: '2018-11-30'
+  date: '2018-11-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/weekly-30.11.2018/fw_helium_miui_MIMAX652_8.11.29_759cf28fe9_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/helium/fw_helium_miui_MIMAX652_8.11.29_759cf28fe9_7.0.zip
-  filename: fw_helium_miui_MIMAX652_8.11.29_759cf28fe9_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_helium/releases/download/weekly-23.11.2018/fw_helium_miui_MIMAX652_8.11.22_71e8f9451c_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/helium/fw_helium_miui_MIMAX652_8.11.22_71e8f9451c_7.0.zip
+  filename: fw_helium_miui_MIMAX652_8.11.22_71e8f9451c_7.0.zip
   region: China
   versions:
     android: '7.0'
-    miui: 8.11.29
+    miui: 8.11.22

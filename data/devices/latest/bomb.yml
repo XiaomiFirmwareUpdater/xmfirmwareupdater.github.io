@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2021-02-26'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_bomb/releases/download/stable-26.02.2021/fw_bomb_miui_BOMB_V12.0.8.0.QJLCNXM_1757dbf687_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/bomb/fw_bomb_miui_BOMB_V12.0.8.0.QJLCNXM_1757dbf687_10.0.zip
@@ -9,7 +9,7 @@
     android: '10.0'
     miui: V12.0.8.0.QJLCNXM
 - branch: weekly
-  date: '2021-04-15'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_bomb/releases/download/weekly-15.04.2021/fw_bomb_miui_BOMB_21.4.14_c748f711d2_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/bomb/fw_bomb_miui_BOMB_21.4.14_c748f711d2_11.0.zip

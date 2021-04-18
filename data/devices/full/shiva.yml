@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2021-04-12'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-12.04.2021/fw_shiva_miui_SHIVAINGlobal_V12.0.3.0.QJRINXM_04b03a59ec_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/shiva/fw_shiva_miui_SHIVAINGlobal_V12.0.3.0.QJRINXM_04b03a59ec_10.0.zip
@@ -9,7 +9,7 @@
     android: '10.0'
     miui: V12.0.3.0.QJRINXM
 - branch: stable
-  date: '2021-03-26'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-26.03.2021/fw_shiva_miui_SHIVAINGlobal_V12.0.2.0.QJRINXM_35ea0713e1_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/shiva/fw_shiva_miui_SHIVAINGlobal_V12.0.2.0.QJRINXM_35ea0713e1_10.0.zip
@@ -19,7 +19,7 @@
     android: '10.0'
     miui: V12.0.2.0.QJRINXM
 - branch: stable
-  date: '2020-12-30'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-30.12.2020/fw_shiva_miui_SHIVAINGlobal_V12.0.1.0.QJRINXM_324c4a3b9c_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/shiva/fw_shiva_miui_SHIVAINGlobal_V12.0.1.0.QJRINXM_324c4a3b9c_10.0.zip
@@ -29,7 +29,7 @@
     android: '10.0'
     miui: V12.0.1.0.QJRINXM
 - branch: stable
-  date: '2020-11-18'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-18.11.2020/fw_shiva_miui_SHIVAINGlobal_V11.0.5.0.QJRINXM_1d82d950c2_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/shiva/fw_shiva_miui_SHIVAINGlobal_V11.0.5.0.QJRINXM_1d82d950c2_10.0.zip
@@ -39,7 +39,7 @@
     android: '10.0'
     miui: V11.0.5.0.QJRINXM
 - branch: stable
-  date: '2020-09-18'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_shiva/releases/download/stable-18.09.2020/fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/shiva/fw_shiva_miui_SHIVAINGlobal_V11.0.4.0.QJRINXM_e691be106a_10.0.zip

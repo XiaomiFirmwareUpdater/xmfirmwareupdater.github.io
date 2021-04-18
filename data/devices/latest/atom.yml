@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2021-02-25'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/stable-25.02.2021/fw_atom_miui_ATOM_V12.0.8.0.QJHCNXM_d5f5e4204b_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/atom/fw_atom_miui_ATOM_V12.0.8.0.QJHCNXM_d5f5e4204b_10.0.zip
@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V12.0.8.0.QJHCNXM
 - branch: weekly
-  date: '2021-04-15'
+  date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/weekly-15.04.2021/fw_atom_miui_ATOM_21.4.14_5dc979f923_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/atom/fw_atom_miui_ATOM_21.4.14_5dc979f923_11.0.zip
-  filename: fw_atom_miui_ATOM_21.4.14_5dc979f923_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_atom/releases/download/weekly-08.04.2021/fw_atom_miui_ATOM_21.4.7_706b4e34cd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/atom/fw_atom_miui_ATOM_21.4.7_706b4e34cd_11.0.zip
+  filename: fw_atom_miui_ATOM_21.4.7_706b4e34cd_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.4.14
+    miui: 21.4.7

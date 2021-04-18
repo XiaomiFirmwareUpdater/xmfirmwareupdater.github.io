@@ -9,7 +9,7 @@
     android: '11.0'
     miui: 21.4.14
 - branch: weekly
-  date: '2021-04-08'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-08.04.2021/fw_cas_miui_CAS_21.4.8_bd2c78e9b9_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.8/cas/fw_cas_miui_CAS_21.4.8_bd2c78e9b9_11.0.zip
@@ -19,7 +19,7 @@
     android: '11.0'
     miui: 21.4.8
 - branch: weekly
-  date: '2021-04-01'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-01.04.2021/fw_cas_miui_CAS_21.3.31_1c3d70971c_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/cas/fw_cas_miui_CAS_21.3.31_1c3d70971c_11.0.zip
@@ -29,7 +29,7 @@
     android: '11.0'
     miui: 21.3.31
 - branch: stable
-  date: '2021-03-29'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/stable-29.03.2021/fw_cas_miui_CAS_V12.5.1.0.RJJCNXM_a26d7e7cc0_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cas/fw_cas_miui_CAS_V12.5.1.0.RJJCNXM_a26d7e7cc0_11.0.zip
@@ -39,7 +39,7 @@
     android: '11.0'
     miui: V12.5.1.0.RJJCNXM
 - branch: weekly
-  date: '2021-03-27'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-27.03.2021/fw_cas_miui_CAS_21.3.24_bb7f045df6_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/cas/fw_cas_miui_CAS_21.3.24_bb7f045df6_11.0.zip
@@ -49,7 +49,7 @@
     android: '11.0'
     miui: 21.3.24
 - branch: stable
-  date: '2021-03-19'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/stable-19.03.2021/fw_cas_miui_CAS_V12.1.1.0.RJJCNXM_5a46f058a4_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cas/fw_cas_miui_CAS_V12.1.1.0.RJJCNXM_5a46f058a4_11.0.zip
@@ -59,7 +59,7 @@
     android: '11.0'
     miui: V12.1.1.0.RJJCNXM
 - branch: weekly
-  date: '2021-03-18'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-18.03.2021/fw_cas_miui_CAS_21.3.17_6e312f12bd_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.17/cas/fw_cas_miui_CAS_21.3.17_6e312f12bd_11.0.zip
@@ -69,7 +69,7 @@
     android: '11.0'
     miui: 21.3.17
 - branch: weekly
-  date: '2021-03-11'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-11.03.2021/fw_cas_miui_CAS_21.3.10_87669b8a7f_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/cas/fw_cas_miui_CAS_21.3.10_87669b8a7f_11.0.zip
@@ -79,7 +79,7 @@
     android: '11.0'
     miui: 21.3.10
 - branch: weekly
-  date: '2021-03-05'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-05.03.2021/fw_cas_miui_CAS_21.3.3_5d2128784b_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/cas/fw_cas_miui_CAS_21.3.3_5d2128784b_11.0.zip
@@ -89,7 +89,7 @@
     android: '11.0'
     miui: 21.3.3
 - branch: weekly
-  date: '2021-02-25'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-25.02.2021/fw_cas_miui_CAS_21.2.24_20958553bf_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/cas/fw_cas_miui_CAS_21.2.24_20958553bf_11.0.zip
@@ -99,7 +99,7 @@
     android: '11.0'
     miui: 21.2.24
 - branch: weekly
-  date: '2021-02-04'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-04.02.2021/fw_cas_miui_CAS_21.2.3_db773eef6f_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/cas/fw_cas_miui_CAS_21.2.3_db773eef6f_11.0.zip
@@ -109,7 +109,7 @@
     android: '11.0'
     miui: 21.2.3
 - branch: weekly
-  date: '2021-01-29'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-29.01.2021/fw_cas_miui_CAS_21.1.28_3628dcf302_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/cas/fw_cas_miui_CAS_21.1.28_3628dcf302_11.0.zip
@@ -119,7 +119,7 @@
     android: '11.0'
     miui: 21.1.28
 - branch: weekly
-  date: '2021-01-23'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-23.01.2021/fw_cas_miui_CAS_21.1.20_10f08038ac_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/cas/fw_cas_miui_CAS_21.1.20_10f08038ac_11.0.zip
@@ -129,7 +129,7 @@
     android: '11.0'
     miui: 21.1.20
 - branch: weekly
-  date: '2021-01-15'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cas/releases/download/weekly-15.01.2021/fw_cas_miui_CAS_21.1.13_2811b997f7_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/cas/fw_cas_miui_CAS_21.1.13_2811b997f7_11.0.zip

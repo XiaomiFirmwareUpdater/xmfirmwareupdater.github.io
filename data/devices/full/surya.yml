@@ -1,5 +1,5 @@
 - branch: stable
-  date: '2021-04-15'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-15.04.2021/fw_surya_miui_SURYAEEAGlobal_V12.0.7.0.RJGEUXM_641da640cd_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.0.7.0.RJGEUXM_641da640cd_11.0.zip
@@ -9,7 +9,7 @@
     android: '11.0'
     miui: V12.0.7.0.RJGEUXM
 - branch: stable
-  date: '2021-02-28'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-28.02.2021/fw_surya_miui_SURYAGlobal_V12.0.8.0.QJGMIXM_75ac1f8116_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.0.8.0.QJGMIXM_75ac1f8116_10.0.zip
@@ -19,7 +19,7 @@
     android: '10.0'
     miui: V12.0.8.0.QJGMIXM
 - branch: stable
-  date: '2021-02-23'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-23.02.2021/fw_surya_miui_SURYAEEAGlobal_V12.0.8.0.QJGEUXM_068c43db4b_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.0.8.0.QJGEUXM_068c43db4b_10.0.zip
@@ -29,7 +29,7 @@
     android: '10.0'
     miui: V12.0.8.0.QJGEUXM
 - branch: stable
-  date: '2021-02-18'
+  date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_surya/releases/download/stable-18.02.2021/fw_surya_miui_SURYAINGlobal_V12.0.9.0.QJGINXM_f8ad88de40_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAINGlobal_V12.0.9.0.QJGINXM_f8ad88de40_10.0.zip

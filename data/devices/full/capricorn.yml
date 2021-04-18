@@ -98,26 +98,6 @@
   versions:
     android: '8.0'
     miui: 8.12.13
-- branch: weekly
-  date: '2018-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-03.12.2018/fw_capricorn_miui_MI5SGlobal_8.11.29_1ca60a61ff_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/capricorn/fw_capricorn_miui_MI5SGlobal_8.11.29_1ca60a61ff_8.0.zip
-  filename: fw_capricorn_miui_MI5SGlobal_8.11.29_1ca60a61ff_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.11.29
-- branch: weekly
-  date: '2018-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-03.12.2018/fw_capricorn_miui_MI5S_8.11.29_ee857e14ae_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/capricorn/fw_capricorn_miui_MI5S_8.11.29_ee857e14ae_8.0.zip
-  filename: fw_capricorn_miui_MI5S_8.11.29_ee857e14ae_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.11.29
 - branch: stable
   date: '2018-11-16'
   downloads:
