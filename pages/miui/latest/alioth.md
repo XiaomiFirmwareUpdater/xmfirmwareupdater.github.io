@@ -55,8 +55,8 @@ permalink: /miui/alioth/
                 <tr><td>Redmi K40 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.RKHCNXM</td><td>11.0</td><td>4.9 GB</td><td>2021-04-03</td><td><a href="/miui/alioth/stable/V12.0.8.0.RKHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.RKHCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-04-09</td><td><a href="/miui/alioth/stable/V12.0.8.0.RKHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Weekly</td><td>Recovery</td><td>21.4.8</td><td>11.0</td><td>3.8 GB</td><td>2021-04-08</td><td><a href="/miui/alioth/weekly/21.4.8/">Download</a></td></tr>
-<tr><td>POCO F3 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKHEUXM</td><td>11.0</td><td>5.3 GB</td><td>2021-03-19</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHEUXM/">Download</a></td></tr>
-<tr><td>POCO F3 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKHEUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-04-12</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHEUXM/">Download</a></td></tr>
+<tr><td>POCO F3 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.RKHEUXM</td><td>11.0</td><td>5.4 GB</td><td>2021-03-31</td><td><a href="/miui/alioth/stable/V12.0.4.0.RKHEUXM/">Download</a></td></tr>
+<tr><td>POCO F3 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.RKHEUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-04-19</td><td><a href="/miui/alioth/stable/V12.0.4.0.RKHEUXM/">Download</a></td></tr>
 <tr><td>POCO F3 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKHMIXM</td><td>11.0</td><td>5.1 GB</td><td>2021-03-19</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHMIXM/">Download</a></td></tr>
 <tr><td>POCO F3 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKHMIXM</td><td>11.0</td><td>2.9 GB</td><td>2021-03-30</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHMIXM/">Download</a></td></tr>
 <tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKHIDXM</td><td>11.0</td><td>4.7 GB</td><td>2021-03-19</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHIDXM/">Download</a></td></tr>
