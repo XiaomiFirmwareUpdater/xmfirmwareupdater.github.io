@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-10-22'
+  date: '2021-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-22.10.2020/fw_laurus_miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurus/fw_laurus_miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
-  filename: fw_laurus_miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-19.04.2021/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurus/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
+  filename: fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QFMCNXM
+    miui: V12.0.4.0.QFMCNXM
 - branch: weekly
   date: '2021-04-16'
   downloads:

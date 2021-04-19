@@ -11878,6 +11878,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-19.04.2021/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.6.0.QCOEUXM_e152be6842_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.6.0.QCOEUXM_e152be6842_10.0.zip
+  filename: fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.6.0.QCOEUXM_e152be6842_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QCOEUXM
 - branch: weekly
   date: '2021-04-16'
   downloads:
@@ -15238,6 +15248,16 @@
   versions:
     android: '10.0'
     miui: V11.0.23.0.QFQMIXM
+- branch: stable
+  date: '2021-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-19.04.2021/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurus/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
+  filename: fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QFMCNXM
 - branch: weekly
   date: '2021-04-16'
   downloads:
@@ -23189,6 +23209,16 @@
     android: '10.0'
     miui: V11.0.3.0.QGICNXM
 - branch: stable
+  date: '2021-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-19.04.2021/fw_pine_miui_PINEEEAGlobal_V12.0.2.0.QCMEUXM_f1fd5c436e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pine/fw_pine_miui_PINEEEAGlobal_V12.0.2.0.QCMEUXM_f1fd5c436e_10.0.zip
+  filename: fw_pine_miui_PINEEEAGlobal_V12.0.2.0.QCMEUXM_f1fd5c436e_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QCMEUXM
+- branch: stable
   date: '2021-04-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_pine/releases/download/stable-15.04.2021/fw_pine_miui_PINEGlobal_V12.0.2.0.QCMMIXM_b091c114a6_10.0.zip
@@ -29448,6 +29478,26 @@
   versions:
     android: '8.1'
     miui: 8.6.18
+- branch: stable
+  date: '2021-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-19.04.2021/fw_star_miui_STAREEAGlobal_V12.0.6.0.RKAEUXM_d08c834028_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAREEAGlobal_V12.0.6.0.RKAEUXM_d08c834028_11.0.zip
+  filename: fw_star_miui_STAREEAGlobal_V12.0.6.0.RKAEUXM_d08c834028_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.6.0.RKAEUXM
+- branch: stable
+  date: '2021-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-19.04.2021/fw_star_miui_STAR_V12.0.13.0.RKACNXM_a8a4ee0670_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.0.13.0.RKACNXM_a8a4ee0670_11.0.zip
+  filename: fw_star_miui_STAR_V12.0.13.0.RKACNXM_a8a4ee0670_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.13.0.RKACNXM
 - branch: weekly
   date: '2021-04-17'
   downloads:

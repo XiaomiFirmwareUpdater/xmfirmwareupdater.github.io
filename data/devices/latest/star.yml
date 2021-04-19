@@ -9,15 +9,15 @@
     android: '11.0'
     miui: V12.0.1.0.RKAMIXM
 - branch: stable
-  date: '2021-04-08'
+  date: '2021-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-08.04.2021/fw_star_miui_STAR_V12.0.10.0.RKACNXM_89b8a90dec_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.0.10.0.RKACNXM_89b8a90dec_11.0.zip
-  filename: fw_star_miui_STAR_V12.0.10.0.RKACNXM_89b8a90dec_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-19.04.2021/fw_star_miui_STAR_V12.0.13.0.RKACNXM_a8a4ee0670_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.0.13.0.RKACNXM_a8a4ee0670_11.0.zip
+  filename: fw_star_miui_STAR_V12.0.13.0.RKACNXM_a8a4ee0670_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.0.10.0.RKACNXM
+    miui: V12.0.13.0.RKACNXM
 - branch: weekly
   date: '2021-04-17'
   downloads:
@@ -29,15 +29,15 @@
     android: '11.0'
     miui: 21.4.15
 - branch: stable
-  date: '2021-04-16'
+  date: '2021-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-16.04.2021/fw_star_miui_STAREEAGlobal_V12.0.4.0.RKAEUXM_40036cdecc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAREEAGlobal_V12.0.4.0.RKAEUXM_40036cdecc_11.0.zip
-  filename: fw_star_miui_STAREEAGlobal_V12.0.4.0.RKAEUXM_40036cdecc_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_star/releases/download/stable-19.04.2021/fw_star_miui_STAREEAGlobal_V12.0.6.0.RKAEUXM_d08c834028_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAREEAGlobal_V12.0.6.0.RKAEUXM_d08c834028_11.0.zip
+  filename: fw_star_miui_STAREEAGlobal_V12.0.6.0.RKAEUXM_d08c834028_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.4.0.RKAEUXM
+    miui: V12.0.6.0.RKAEUXM
 - branch: stable
   date: '2021-04-07'
   downloads:
