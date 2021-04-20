@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-15.11.2019/fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/stable-15.11.2019/fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/santoni/fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip
   filename: fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2019-11-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-08.11.2019/fw_santoni_miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/stable-08.11.2019/fw_santoni_miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/santoni/fw_santoni_miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
   filename: fw_santoni_miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-17.10.2019/fw_santoni_miui_HM4X_9.10.10_9e9000fe7c_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-17.10.2019/fw_santoni_miui_HM4X_9.10.10_9e9000fe7c_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/santoni/fw_santoni_miui_HM4X_9.10.10_9e9000fe7c_7.1.zip
   filename: fw_santoni_miui_HM4X_9.10.10_9e9000fe7c_7.1.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-28.06.2019/fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-28.06.2019/fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/santoni/fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip
   filename: fw_santoni_miui_HM4XGlobal_9.6.27_1e5f29e8c3_7.1.zip
   region: Global
@@ -41,7 +41,7 @@
 - branch: stable
   date: '2019-05-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-21.05.2019/fw_santoni_miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/stable-21.05.2019/fw_santoni_miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/santoni/fw_santoni_miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip
   filename: fw_santoni_miui_HM4X_V10.3.1.0.NAMCNXM_99ef57f239_7.1.zip
   region: China
@@ -51,7 +51,7 @@
 - branch: stable
   date: '2019-05-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-01.05.2019/fw_santoni_miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/stable-01.05.2019/fw_santoni_miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/santoni/fw_santoni_miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip
   filename: fw_santoni_miui_HM4XGlobal_V10.3.1.0.NAMMIXM_4129f29c8a_7.1.zip
   region: Global
@@ -61,7 +61,7 @@
 - branch: weekly
   date: '2019-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-26.04.2019/fw_santoni_miui_HM4XGlobal_9.4.25_31dfa393f5_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-26.04.2019/fw_santoni_miui_HM4XGlobal_9.4.25_31dfa393f5_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/santoni/fw_santoni_miui_HM4XGlobal_9.4.25_31dfa393f5_7.1.zip
   filename: fw_santoni_miui_HM4XGlobal_9.4.25_31dfa393f5_7.1.zip
   region: Global
@@ -71,7 +71,7 @@
 - branch: weekly
   date: '2019-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-26.04.2019/fw_santoni_miui_HM4X_9.4.25_3500b75af9_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-26.04.2019/fw_santoni_miui_HM4X_9.4.25_3500b75af9_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/santoni/fw_santoni_miui_HM4X_9.4.25_3500b75af9_7.1.zip
   filename: fw_santoni_miui_HM4X_9.4.25_3500b75af9_7.1.zip
   region: China
@@ -81,7 +81,7 @@
 - branch: stable
   date: '2018-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-04.12.2018/fw_santoni_miui_HM4XGlobal_V10.1.1.0.NAMMIFI_31186e0176_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/stable-04.12.2018/fw_santoni_miui_HM4XGlobal_V10.1.1.0.NAMMIFI_31186e0176_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/santoni/fw_santoni_miui_HM4XGlobal_V10.1.1.0.NAMMIFI_31186e0176_7.1.zip
   filename: fw_santoni_miui_HM4XGlobal_V10.1.1.0.NAMMIFI_31186e0176_7.1.zip
   region: Global
@@ -91,7 +91,7 @@
 - branch: weekly
   date: '2018-11-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-23.11.2018/fw_santoni_miui_HM4X_8.11.22_eccde81602_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-23.11.2018/fw_santoni_miui_HM4X_8.11.22_eccde81602_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/santoni/fw_santoni_miui_HM4X_8.11.22_eccde81602_7.1.zip
   filename: fw_santoni_miui_HM4X_8.11.22_eccde81602_7.1.zip
   region: China
@@ -101,7 +101,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-16.11.2018/fw_santoni_miui_HM4XGlobal_8.11.15_80de5a5168_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-16.11.2018/fw_santoni_miui_HM4XGlobal_8.11.15_80de5a5168_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/santoni/fw_santoni_miui_HM4XGlobal_8.11.15_80de5a5168_7.1.zip
   filename: fw_santoni_miui_HM4XGlobal_8.11.15_80de5a5168_7.1.zip
   region: Global
@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/weekly-16.11.2018/fw_santoni_miui_HM4X_8.11.15_8bde6a7eea_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-16.11.2018/fw_santoni_miui_HM4X_8.11.15_8bde6a7eea_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/santoni/fw_santoni_miui_HM4X_8.11.15_8bde6a7eea_7.1.zip
   filename: fw_santoni_miui_HM4X_8.11.15_8bde6a7eea_7.1.zip
   region: China
@@ -121,7 +121,7 @@
 - branch: stable
   date: '2018-11-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-07.11.2018/fw_santoni_miui_HM4X_V10.1.1.0.NAMCNFI_53f465b0f0_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/stable-07.11.2018/fw_santoni_miui_HM4X_V10.1.1.0.NAMCNFI_53f465b0f0_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/santoni/fw_santoni_miui_HM4X_V10.1.1.0.NAMCNFI_53f465b0f0_7.1.zip
   filename: fw_santoni_miui_HM4X_V10.1.1.0.NAMCNFI_53f465b0f0_7.1.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: stable
   date: '2018-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/stable-26.09.2018/fw_santoni_miui_HM4XGlobal_V9.6.5.0.NAMMIFD_00e6b65ea0_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/stable-26.09.2018/fw_santoni_miui_HM4XGlobal_V9.6.5.0.NAMMIFD_00e6b65ea0_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/santoni/fw_santoni_miui_HM4XGlobal_V9.6.5.0.NAMMIFD_00e6b65ea0_7.1.zip
   filename: fw_santoni_miui_HM4XGlobal_V9.6.5.0.NAMMIFD_00e6b65ea0_7.1.zip
   region: Global
@@ -141,7 +141,7 @@
 - branch: weekly
   date: '2018-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/untagged-1cba33189b8211376796/fw_santoni_miui_HM4X_8.3.15_d9794a63ad_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/untagged-1cba33189b8211376796/fw_santoni_miui_HM4X_8.3.15_d9794a63ad_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.3.15/santoni/fw_santoni_miui_HM4X_8.3.15_d9794a63ad_7.1.zip
   filename: fw_santoni_miui_HM4X_8.3.15_d9794a63ad_7.1.zip
   region: China
@@ -151,7 +151,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/untagged-b800287bf944603d5969/fw_santoni_miui_HM4XGlobal_8.4.12_696ad31c0b_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/untagged-b800287bf944603d5969/fw_santoni_miui_HM4XGlobal_8.4.12_696ad31c0b_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/santoni/fw_santoni_miui_HM4XGlobal_8.4.12_696ad31c0b_7.1.zip
   filename: fw_santoni_miui_HM4XGlobal_8.4.12_696ad31c0b_7.1.zip
   region: Global
@@ -161,7 +161,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_santoni/releases/download/untagged-b800287bf944603d5969/fw_santoni_miui_HM4X_8.3.15_d9794a63ad_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/untagged-b800287bf944603d5969/fw_santoni_miui_HM4X_8.3.15_d9794a63ad_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.3.15/santoni/fw_santoni_miui_HM4X_8.3.15_d9794a63ad_7.1.zip
   filename: fw_santoni_miui_HM4X_8.3.15_d9794a63ad_7.1.zip
   region: China

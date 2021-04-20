@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-18.02.2021/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-18.02.2021/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
   filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-25.03.2021/fw_gauguin_miui_GAUGUIN_V12.0.2.0.RJSCNXM_648ec563d6_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-25.03.2021/fw_gauguin_miui_GAUGUIN_V12.0.2.0.RJSCNXM_648ec563d6_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUIN_V12.0.2.0.RJSCNXM_648ec563d6_11.0.zip
   filename: fw_gauguin_miui_GAUGUIN_V12.0.2.0.RJSCNXM_648ec563d6_11.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/weekly-16.04.2021/fw_gauguin_miui_GAUGUIN_21.4.14_4f8c366cff_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/weekly-16.04.2021/fw_gauguin_miui_GAUGUIN_21.4.14_4f8c366cff_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/gauguin/fw_gauguin_miui_GAUGUIN_21.4.14_4f8c366cff_11.0.zip
   filename: fw_gauguin_miui_GAUGUIN_21.4.14_4f8c366cff_11.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-01.03.2021/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.1.0.RJSEUXM_15bfbef742_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-01.03.2021/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.1.0.RJSEUXM_15bfbef742_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.1.0.RJSEUXM_15bfbef742_11.0.zip
   filename: fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.1.0.RJSEUXM_15bfbef742_11.0.zip
   region: Europe
@@ -41,7 +41,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_gauguin/releases/download/stable-30.03.2021/fw_gauguin_miui_GAUGUININGlobal_V12.0.1.0.RJSINXM_eb9e93c32b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-30.03.2021/fw_gauguin_miui_GAUGUININGlobal_V12.0.1.0.RJSINXM_eb9e93c32b_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUININGlobal_V12.0.1.0.RJSINXM_eb9e93c32b_11.0.zip
   filename: fw_gauguin_miui_GAUGUININGlobal_V12.0.1.0.RJSINXM_eb9e93c32b_11.0.zip
   region: India

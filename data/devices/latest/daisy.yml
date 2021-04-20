@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-02-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_daisy/releases/download/stable-04.02.2021/fw_daisy_miui_DAISYGlobal_V11.0.18.0.QDLMIXM_faa4bc755a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daisy/releases/download/stable-04.02.2021/fw_daisy_miui_DAISYGlobal_V11.0.18.0.QDLMIXM_faa4bc755a_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/daisy/fw_daisy_miui_DAISYGlobal_V11.0.18.0.QDLMIXM_faa4bc755a_10.0.zip
   filename: fw_daisy_miui_DAISYGlobal_V11.0.18.0.QDLMIXM_faa4bc755a_10.0.zip
   region: Global

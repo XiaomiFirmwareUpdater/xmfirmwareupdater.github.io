@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-03-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-20.03.2021/fw_begonia_miui_BEGONIAGlobal_V12.0.7.0.QGGMIXM_eb8363df56_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-20.03.2021/fw_begonia_miui_BEGONIAGlobal_V12.0.7.0.QGGMIXM_eb8363df56_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.0.7.0.QGGMIXM_eb8363df56_10.0.zip
   filename: fw_begonia_miui_BEGONIAGlobal_V12.0.7.0.QGGMIXM_eb8363df56_10.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2021-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-07.02.2021/fw_begonia_miui_BEGONIA_V12.0.5.0.QGGCNXM_13dc64c58b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-07.02.2021/fw_begonia_miui_BEGONIA_V12.0.5.0.QGGCNXM_13dc64c58b_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIA_V12.0.5.0.QGGCNXM_13dc64c58b_10.0.zip
   filename: fw_begonia_miui_BEGONIA_V12.0.5.0.QGGCNXM_13dc64c58b_10.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2021-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/weekly-15.04.2021/fw_begonia_miui_BEGONIA_21.4.14_99b3bafb14_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-15.04.2021/fw_begonia_miui_BEGONIA_21.4.14_99b3bafb14_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/begonia/fw_begonia_miui_BEGONIA_21.4.14_99b3bafb14_11.0.zip
   filename: fw_begonia_miui_BEGONIA_21.4.14_99b3bafb14_11.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2021-02-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_begonia/releases/download/stable-23.02.2021/fw_begonia_miui_BEGONIAEEAGlobal_V12.0.4.0.QGGEUXM_4f006054f8_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-23.02.2021/fw_begonia_miui_BEGONIAEEAGlobal_V12.0.4.0.QGGEUXM_4f006054f8_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V12.0.4.0.QGGEUXM_4f006054f8_10.0.zip
   filename: fw_begonia_miui_BEGONIAEEAGlobal_V12.0.4.0.QGGEUXM_4f006054f8_10.0.zip
   region: Europe

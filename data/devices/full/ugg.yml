@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/stable-05.11.2019/fw_ugg_miui_HMNote5AGlobal_V11.0.2.0.NDKMIXM_dd519c8e33_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/stable-05.11.2019/fw_ugg_miui_HMNote5AGlobal_V11.0.2.0.NDKMIXM_dd519c8e33_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ugg/fw_ugg_miui_HMNote5AGlobal_V11.0.2.0.NDKMIXM_dd519c8e33_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_V11.0.2.0.NDKMIXM_dd519c8e33_7.1.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2019-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/stable-31.10.2019/fw_ugg_miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/stable-31.10.2019/fw_ugg_miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ugg/fw_ugg_miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip
   filename: fw_ugg_miui_HMNote5A_V11.0.1.0.NDKCNXM_34686dccfa_7.1.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-17.10.2019/fw_ugg_miui_HMNote5A_9.10.10_064266a851_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-17.10.2019/fw_ugg_miui_HMNote5A_9.10.10_064266a851_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/ugg/fw_ugg_miui_HMNote5A_9.10.10_064266a851_7.1.zip
   filename: fw_ugg_miui_HMNote5A_9.10.10_064266a851_7.1.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2019-08-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/stable-05.08.2019/fw_ugg_miui_HMNote5A_V10.3.2.0.NDKCNXM_f313d19937_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/stable-05.08.2019/fw_ugg_miui_HMNote5A_V10.3.2.0.NDKCNXM_f313d19937_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ugg/fw_ugg_miui_HMNote5A_V10.3.2.0.NDKCNXM_f313d19937_7.1.zip
   filename: fw_ugg_miui_HMNote5A_V10.3.2.0.NDKCNXM_f313d19937_7.1.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-28.06.2019/fw_ugg_miui_HMNote5AGlobal_9.6.27_e352986ea4_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-28.06.2019/fw_ugg_miui_HMNote5AGlobal_9.6.27_e352986ea4_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/ugg/fw_ugg_miui_HMNote5AGlobal_9.6.27_e352986ea4_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_9.6.27_e352986ea4_7.1.zip
   region: Global
@@ -51,7 +51,7 @@
 - branch: weekly
   date: '2019-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-26.04.2019/fw_ugg_miui_HMNote5AGlobal_9.4.25_22bc4f292f_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-26.04.2019/fw_ugg_miui_HMNote5AGlobal_9.4.25_22bc4f292f_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/ugg/fw_ugg_miui_HMNote5AGlobal_9.4.25_22bc4f292f_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_9.4.25_22bc4f292f_7.1.zip
   region: Global
@@ -61,7 +61,7 @@
 - branch: weekly
   date: '2019-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-26.04.2019/fw_ugg_miui_HMNote5A_9.4.25_3622dc16d8_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-26.04.2019/fw_ugg_miui_HMNote5A_9.4.25_3622dc16d8_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/ugg/fw_ugg_miui_HMNote5A_9.4.25_3622dc16d8_7.1.zip
   filename: fw_ugg_miui_HMNote5A_9.4.25_3622dc16d8_7.1.zip
   region: China
@@ -71,7 +71,7 @@
 - branch: weekly
   date: '2019-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-29.03.2019/fw_ugg_miui_HMNote5AGlobal_9.3.28_b645e97d64_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-29.03.2019/fw_ugg_miui_HMNote5AGlobal_9.3.28_b645e97d64_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/ugg/fw_ugg_miui_HMNote5AGlobal_9.3.28_b645e97d64_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_9.3.28_b645e97d64_7.1.zip
   region: Global
@@ -81,7 +81,7 @@
 - branch: weekly
   date: '2019-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-29.03.2019/fw_ugg_miui_HMNote5A_9.3.28_dfb678c64e_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-29.03.2019/fw_ugg_miui_HMNote5A_9.3.28_dfb678c64e_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/ugg/fw_ugg_miui_HMNote5A_9.3.28_dfb678c64e_7.1.zip
   filename: fw_ugg_miui_HMNote5A_9.3.28_dfb678c64e_7.1.zip
   region: China
@@ -91,7 +91,7 @@
 - branch: stable
   date: '2019-03-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/stable-11.03.2019/fw_ugg_miui_HMNote5A_V10.2.1.0.NDKCNXM_a7a331a860_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/stable-11.03.2019/fw_ugg_miui_HMNote5A_V10.2.1.0.NDKCNXM_a7a331a860_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ugg/fw_ugg_miui_HMNote5A_V10.2.1.0.NDKCNXM_a7a331a860_7.1.zip
   filename: fw_ugg_miui_HMNote5A_V10.2.1.0.NDKCNXM_a7a331a860_7.1.zip
   region: China
@@ -101,7 +101,7 @@
 - branch: stable
   date: '2019-02-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/stable-15.02.2019/fw_ugg_miui_HMNote5AGlobal_V10.2.1.0.NDKMIXM_493011c88c_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/stable-15.02.2019/fw_ugg_miui_HMNote5AGlobal_V10.2.1.0.NDKMIXM_493011c88c_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ugg/fw_ugg_miui_HMNote5AGlobal_V10.2.1.0.NDKMIXM_493011c88c_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_V10.2.1.0.NDKMIXM_493011c88c_7.1.zip
   region: Global
@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2018-11-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-30.11.2018/fw_ugg_miui_HMNote5AGlobal_8.11.29_aac4fc7fdd_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-30.11.2018/fw_ugg_miui_HMNote5AGlobal_8.11.29_aac4fc7fdd_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/ugg/fw_ugg_miui_HMNote5AGlobal_8.11.29_aac4fc7fdd_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_8.11.29_aac4fc7fdd_7.1.zip
   region: Global
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2018-11-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-30.11.2018/fw_ugg_miui_HMNote5A_8.11.29_b8a980a8e7_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-30.11.2018/fw_ugg_miui_HMNote5A_8.11.29_b8a980a8e7_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/ugg/fw_ugg_miui_HMNote5A_8.11.29_b8a980a8e7_7.1.zip
   filename: fw_ugg_miui_HMNote5A_8.11.29_b8a980a8e7_7.1.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: weekly
   date: '2018-11-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-23.11.2018/fw_ugg_miui_HMNote5A_8.11.22_986b815a0f_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-23.11.2018/fw_ugg_miui_HMNote5A_8.11.22_986b815a0f_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/ugg/fw_ugg_miui_HMNote5A_8.11.22_986b815a0f_7.1.zip
   filename: fw_ugg_miui_HMNote5A_8.11.22_986b815a0f_7.1.zip
   region: China
@@ -141,7 +141,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-16.11.2018/fw_ugg_miui_HMNote5AGlobal_8.11.15_1608d20693_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-16.11.2018/fw_ugg_miui_HMNote5AGlobal_8.11.15_1608d20693_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/ugg/fw_ugg_miui_HMNote5AGlobal_8.11.15_1608d20693_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_8.11.15_1608d20693_7.1.zip
   region: Global
@@ -151,7 +151,7 @@
 - branch: weekly
   date: '2018-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-05.11.2018/fw_ugg_miui_HMNote5A_8.11.2_fcad908fe9_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-05.11.2018/fw_ugg_miui_HMNote5A_8.11.2_fcad908fe9_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.2/ugg/fw_ugg_miui_HMNote5A_8.11.2_fcad908fe9_7.1.zip
   filename: fw_ugg_miui_HMNote5A_8.11.2_fcad908fe9_7.1.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: weekly
   date: '2018-11-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/weekly-02.11.2018/fw_ugg_miui_HMNote5AGlobal_8.11.1_7edd4263a5_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/weekly-02.11.2018/fw_ugg_miui_HMNote5AGlobal_8.11.1_7edd4263a5_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/ugg/fw_ugg_miui_HMNote5AGlobal_8.11.1_7edd4263a5_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_8.11.1_7edd4263a5_7.1.zip
   region: Global
@@ -171,7 +171,7 @@
 - branch: stable
   date: '2018-10-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/stable-16.10.2018/fw_ugg_miui_HMNote5A_V10.1.1.0.NDKCNFI_d03d59c1ec_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/stable-16.10.2018/fw_ugg_miui_HMNote5A_V10.1.1.0.NDKCNFI_d03d59c1ec_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ugg/fw_ugg_miui_HMNote5A_V10.1.1.0.NDKCNFI_d03d59c1ec_7.1.zip
   filename: fw_ugg_miui_HMNote5A_V10.1.1.0.NDKCNFI_d03d59c1ec_7.1.zip
   region: China
@@ -181,7 +181,7 @@
 - branch: stable
   date: '2018-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/stable-18.09.2018/fw_ugg_miui_HMNote5AGlobal_V9.6.2.0.NDKMIFD_e88768956b_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/stable-18.09.2018/fw_ugg_miui_HMNote5AGlobal_V9.6.2.0.NDKMIFD_e88768956b_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ugg/fw_ugg_miui_HMNote5AGlobal_V9.6.2.0.NDKMIFD_e88768956b_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_V9.6.2.0.NDKMIFD_e88768956b_7.1.zip
   region: Global
@@ -191,7 +191,7 @@
 - branch: weekly
   date: '2018-05-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/untagged-d4158248133cdfdd4a31/fw_ugg_miui_HMNote5AGlobal_V9.2.3.0.NDKMIEK_b91914df63_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/untagged-d4158248133cdfdd4a31/fw_ugg_miui_HMNote5AGlobal_V9.2.3.0.NDKMIEK_b91914df63_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.2.3.0.NDKMIEK/ugg/fw_ugg_miui_HMNote5AGlobal_V9.2.3.0.NDKMIEK_b91914df63_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_V9.2.3.0.NDKMIEK_b91914df63_7.1.zip
   region: Global
@@ -201,7 +201,7 @@
 - branch: weekly
   date: '2018-05-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/untagged-d4158248133cdfdd4a31/fw_ugg_miui_HMNote5A_V9.5.5.0.NDKCNFA_d2ff041ce7_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/untagged-d4158248133cdfdd4a31/fw_ugg_miui_HMNote5A_V9.5.5.0.NDKCNFA_d2ff041ce7_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.5.0.NDKCNFA/ugg/fw_ugg_miui_HMNote5A_V9.5.5.0.NDKCNFA_d2ff041ce7_7.1.zip
   filename: fw_ugg_miui_HMNote5A_V9.5.5.0.NDKCNFA_d2ff041ce7_7.1.zip
   region: China
@@ -211,7 +211,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/untagged-f3911d268e721d62efe1/fw_ugg_miui_HMNote5AGlobal_8.4.12_c74b53b590_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/untagged-f3911d268e721d62efe1/fw_ugg_miui_HMNote5AGlobal_8.4.12_c74b53b590_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/ugg/fw_ugg_miui_HMNote5AGlobal_8.4.12_c74b53b590_7.1.zip
   filename: fw_ugg_miui_HMNote5AGlobal_8.4.12_c74b53b590_7.1.zip
   region: Global
@@ -221,7 +221,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ugg/releases/download/untagged-f3911d268e721d62efe1/fw_ugg_miui_HMNote5A_8.4.12_58557630a8_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ugg/releases/download/untagged-f3911d268e721d62efe1/fw_ugg_miui_HMNote5A_8.4.12_58557630a8_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/ugg/fw_ugg_miui_HMNote5A_8.4.12_58557630a8_7.1.zip
   filename: fw_ugg_miui_HMNote5A_8.4.12_58557630a8_7.1.zip
   region: China

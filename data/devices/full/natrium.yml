@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-08.11.2019/fw_natrium_miui_MI5SPlus_V11.0.2.0.OBGCNXM_a423c56184_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-08.11.2019/fw_natrium_miui_MI5SPlus_V11.0.2.0.OBGCNXM_a423c56184_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/natrium/fw_natrium_miui_MI5SPlus_V11.0.2.0.OBGCNXM_a423c56184_8.0.zip
   filename: fw_natrium_miui_MI5SPlus_V11.0.2.0.OBGCNXM_a423c56184_8.0.zip
   region: China
@@ -11,7 +11,7 @@
 - branch: weekly
   date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-17.10.2019/fw_natrium_miui_MI5SPlus_9.10.10_780fc36ccd_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/weekly-17.10.2019/fw_natrium_miui_MI5SPlus_9.10.10_780fc36ccd_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/natrium/fw_natrium_miui_MI5SPlus_9.10.10_780fc36ccd_8.0.zip
   filename: fw_natrium_miui_MI5SPlus_9.10.10_780fc36ccd_8.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-28.06.2019/fw_natrium_miui_MI5SPlusGlobal_9.6.27_0a263fdde0_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/weekly-28.06.2019/fw_natrium_miui_MI5SPlusGlobal_9.6.27_0a263fdde0_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/natrium/fw_natrium_miui_MI5SPlusGlobal_9.6.27_0a263fdde0_8.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_9.6.27_0a263fdde0_8.0.zip
   region: Global
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2019-05-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-31.05.2019/fw_natrium_miui_MI5SPlusGlobal_9.5.30_d04c58b20f_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/weekly-31.05.2019/fw_natrium_miui_MI5SPlusGlobal_9.5.30_d04c58b20f_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/natrium/fw_natrium_miui_MI5SPlusGlobal_9.5.30_d04c58b20f_8.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_9.5.30_d04c58b20f_8.0.zip
   region: Global
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2019-05-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-31.05.2019/fw_natrium_miui_MI5SPlus_9.5.30_4e97921bf4_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/weekly-31.05.2019/fw_natrium_miui_MI5SPlus_9.5.30_4e97921bf4_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/natrium/fw_natrium_miui_MI5SPlus_9.5.30_4e97921bf4_8.0.zip
   filename: fw_natrium_miui_MI5SPlus_9.5.30_4e97921bf4_8.0.zip
   region: China
@@ -51,7 +51,7 @@
 - branch: stable
   date: '2019-05-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-14.05.2019/fw_natrium_miui_MI5SPlus_V10.2.2.0.OBGCNXM_fbf6314396_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-14.05.2019/fw_natrium_miui_MI5SPlus_V10.2.2.0.OBGCNXM_fbf6314396_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlus_V10.2.2.0.OBGCNXM_fbf6314396_8.0.zip
   filename: fw_natrium_miui_MI5SPlus_V10.2.2.0.OBGCNXM_fbf6314396_8.0.zip
   region: China
@@ -61,7 +61,7 @@
 - branch: stable
   date: '2019-05-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-13.05.2019/fw_natrium_miui_MI5SPlusGlobal_V10.2.4.0.OBGMIXM_d3a51ce7d3_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-13.05.2019/fw_natrium_miui_MI5SPlusGlobal_V10.2.4.0.OBGMIXM_d3a51ce7d3_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlusGlobal_V10.2.4.0.OBGMIXM_d3a51ce7d3_8.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_V10.2.4.0.OBGMIXM_d3a51ce7d3_8.0.zip
   region: Global
@@ -71,7 +71,7 @@
 - branch: stable
   date: '2019-03-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-09.03.2019/fw_natrium_miui_MI5SPlusGlobal_V10.2.2.0.OBGMIXM_efb0235cd1_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-09.03.2019/fw_natrium_miui_MI5SPlusGlobal_V10.2.2.0.OBGMIXM_efb0235cd1_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlusGlobal_V10.2.2.0.OBGMIXM_efb0235cd1_8.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_V10.2.2.0.OBGMIXM_efb0235cd1_8.0.zip
   region: Global
@@ -81,7 +81,7 @@
 - branch: stable
   date: '2019-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-18.02.2019/fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-18.02.2019/fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip
   region: Global
@@ -91,7 +91,7 @@
 - branch: stable
   date: '2019-01-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-21.01.2019/fw_natrium_miui_MI5SPlus_V10.2.1.0.OBGCNXM_5ffdc38e5c_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-21.01.2019/fw_natrium_miui_MI5SPlus_V10.2.1.0.OBGCNXM_5ffdc38e5c_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlus_V10.2.1.0.OBGCNXM_5ffdc38e5c_8.0.zip
   filename: fw_natrium_miui_MI5SPlus_V10.2.1.0.OBGCNXM_5ffdc38e5c_8.0.zip
   region: China
@@ -101,7 +101,7 @@
 - branch: stable
   date: '2018-12-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-21.12.2018/fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-21.12.2018/fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.OBGMIFI_f1ad47a04e_8.0.zip
   region: Global
@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2018-12-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-14.12.2018/fw_natrium_miui_MI5SPlusGlobal_8.12.13_ba2c51f62b_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/weekly-14.12.2018/fw_natrium_miui_MI5SPlusGlobal_8.12.13_ba2c51f62b_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/natrium/fw_natrium_miui_MI5SPlusGlobal_8.12.13_ba2c51f62b_8.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_8.12.13_ba2c51f62b_8.0.zip
   region: Global
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2018-12-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-14.12.2018/fw_natrium_miui_MI5SPlus_8.12.13_98db12b7ce_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/weekly-14.12.2018/fw_natrium_miui_MI5SPlus_8.12.13_98db12b7ce_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/natrium/fw_natrium_miui_MI5SPlus_8.12.13_98db12b7ce_8.0.zip
   filename: fw_natrium_miui_MI5SPlus_8.12.13_98db12b7ce_8.0.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: stable
   date: '2018-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-13.12.2018/fw_natrium_miui_MI5SPlus_V10.1.3.0.OBGCNFI_fe85d745aa_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-13.12.2018/fw_natrium_miui_MI5SPlus_V10.1.3.0.OBGCNFI_fe85d745aa_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlus_V10.1.3.0.OBGCNFI_fe85d745aa_8.0.zip
   filename: fw_natrium_miui_MI5SPlus_V10.1.3.0.OBGCNFI_fe85d745aa_8.0.zip
   region: China
@@ -141,7 +141,7 @@
 - branch: stable
   date: '2018-11-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-30.11.2018/fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.NBGMIFI_e19c525823_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-30.11.2018/fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.NBGMIFI_e19c525823_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.NBGMIFI_e19c525823_7.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_V10.1.1.0.NBGMIFI_e19c525823_7.0.zip
   region: Global
@@ -151,7 +151,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-16.11.2018/fw_natrium_miui_MI5SPlus_8.11.15_5f76fd3a11_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/weekly-16.11.2018/fw_natrium_miui_MI5SPlus_8.11.15_5f76fd3a11_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/natrium/fw_natrium_miui_MI5SPlus_8.11.15_5f76fd3a11_8.0.zip
   filename: fw_natrium_miui_MI5SPlus_8.11.15_5f76fd3a11_8.0.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: weekly
   date: '2018-11-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-02.11.2018/fw_natrium_miui_MI5SPlusGlobal_8.11.1_9d496c6061_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/weekly-02.11.2018/fw_natrium_miui_MI5SPlusGlobal_8.11.1_9d496c6061_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/natrium/fw_natrium_miui_MI5SPlusGlobal_8.11.1_9d496c6061_7.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_8.11.1_9d496c6061_7.0.zip
   region: Global
@@ -171,7 +171,7 @@
 - branch: stable
   date: '2018-10-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-30.10.2018/fw_natrium_miui_MI5SPlus_V10.1.1.0.NBGCNFI_e22139db2e_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-30.10.2018/fw_natrium_miui_MI5SPlus_V10.1.1.0.NBGCNFI_e22139db2e_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/natrium/fw_natrium_miui_MI5SPlus_V10.1.1.0.NBGCNFI_e22139db2e_7.0.zip
   filename: fw_natrium_miui_MI5SPlus_V10.1.1.0.NBGCNFI_e22139db2e_7.0.zip
   region: China
@@ -181,7 +181,7 @@
 - branch: weekly
   date: '2018-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-13.10.2018/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/weekly-13.10.2018/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.NBGMIFD/natrium/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
   region: Global
@@ -191,7 +191,7 @@
 - branch: weekly
   date: '2018-09-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/weekly-14.09.2018/fw_natrium_miui_MI5SPlus_8.9.13_fb04de973f_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/weekly-14.09.2018/fw_natrium_miui_MI5SPlus_8.9.13_fb04de973f_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/natrium/fw_natrium_miui_MI5SPlus_8.9.13_fb04de973f_7.0.zip
   filename: fw_natrium_miui_MI5SPlus_8.9.13_fb04de973f_7.0.zip
   region: China
@@ -201,7 +201,7 @@
 - branch: stable
   date: '2018-07-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/stable-20.07.2018/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-20.07.2018/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/natrium/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
   region: Global
@@ -211,7 +211,7 @@
 - branch: weekly
   date: '2018-07-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-5bcecb73c804431ec870/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/untagged-5bcecb73c804431ec870/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.NBGMIFD/natrium/fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_V9.6.2.0.NBGMIFD_9e4ddb48f4_7.0.zip
   region: Global
@@ -221,7 +221,7 @@
 - branch: weekly
   date: '2018-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-d2173a161d70f19025aa/fw_natrium_miui_MI5SPlusGlobal_V9.5.4.0.NBGMIFD_053f8ffb39_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/untagged-d2173a161d70f19025aa/fw_natrium_miui_MI5SPlusGlobal_V9.5.4.0.NBGMIFD_053f8ffb39_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.4.0.NBGMIFD/natrium/fw_natrium_miui_MI5SPlusGlobal_V9.5.4.0.NBGMIFD_053f8ffb39_7.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_V9.5.4.0.NBGMIFD_053f8ffb39_7.0.zip
   region: Global
@@ -231,7 +231,7 @@
 - branch: weekly
   date: '2018-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-8cbbd437c7f12fd23477/fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/untagged-8cbbd437c7f12fd23477/fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBGCNFA/natrium/fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip
   filename: fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip
   region: China
@@ -241,7 +241,7 @@
 - branch: weekly
   date: '2018-05-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-3ba7558d22109a7eecf1/fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/untagged-3ba7558d22109a7eecf1/fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NBGCNFA/natrium/fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip
   filename: fw_natrium_miui_MI5SPlus_V9.5.2.0.NBGCNFA_dc6a14cdf7_7.0.zip
   region: China
@@ -251,7 +251,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-fdf977760ba8d236a115/fw_natrium_miui_MI5SPlusGlobal_8.4.12_c37b0290c2_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/untagged-fdf977760ba8d236a115/fw_natrium_miui_MI5SPlusGlobal_8.4.12_c37b0290c2_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/natrium/fw_natrium_miui_MI5SPlusGlobal_8.4.12_c37b0290c2_7.0.zip
   filename: fw_natrium_miui_MI5SPlusGlobal_8.4.12_c37b0290c2_7.0.zip
   region: Global
@@ -261,7 +261,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_natrium/releases/download/untagged-fdf977760ba8d236a115/fw_natrium_miui_MI5SPlus_8.4.12_58ca589163_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/untagged-fdf977760ba8d236a115/fw_natrium_miui_MI5SPlus_8.4.12_58ca589163_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/natrium/fw_natrium_miui_MI5SPlus_8.4.12_58ca589163_7.0.zip
   filename: fw_natrium_miui_MI5SPlus_8.4.12_58ca589163_7.0.zip
   region: China

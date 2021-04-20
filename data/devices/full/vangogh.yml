@@ -1,7 +1,7 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-17.04.2021/fw_vangogh_miui_VANGOGH_21.4.14_b1bc8d8219_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-17.04.2021/fw_vangogh_miui_VANGOGH_21.4.14_b1bc8d8219_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/vangogh/fw_vangogh_miui_VANGOGH_21.4.14_b1bc8d8219_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_21.4.14_b1bc8d8219_11.0.zip
   region: China
@@ -11,7 +11,7 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-08.04.2021/fw_vangogh_miui_VANGOGH_21.4.7_e8bc2d0966_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-08.04.2021/fw_vangogh_miui_VANGOGH_21.4.7_e8bc2d0966_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/vangogh/fw_vangogh_miui_VANGOGH_21.4.7_e8bc2d0966_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_21.4.7_e8bc2d0966_11.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2021-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-01.04.2021/fw_vangogh_miui_VANGOGH_21.3.31_7a77eee9c3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-01.04.2021/fw_vangogh_miui_VANGOGH_21.3.31_7a77eee9c3_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/vangogh/fw_vangogh_miui_VANGOGH_21.3.31_7a77eee9c3_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_21.3.31_7a77eee9c3_11.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-18.03.2021/fw_vangogh_miui_VANGOGH_21.3.17_7c1deac082_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-18.03.2021/fw_vangogh_miui_VANGOGH_21.3.17_7c1deac082_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.17/vangogh/fw_vangogh_miui_VANGOGH_21.3.17_7c1deac082_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_21.3.17_7c1deac082_11.0.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-26.02.2021/fw_vangogh_miui_VANGOGH_21.2.24_20ecfbad7e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-26.02.2021/fw_vangogh_miui_VANGOGH_21.2.24_20ecfbad7e_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/vangogh/fw_vangogh_miui_VANGOGH_21.2.24_20ecfbad7e_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_21.2.24_20ecfbad7e_11.0.zip
   region: China
@@ -51,7 +51,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-23.02.2021/fw_vangogh_miui_VANGOGH_V12.1.5.0.RJVCNXM_9a008bf91e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-23.02.2021/fw_vangogh_miui_VANGOGH_V12.1.5.0.RJVCNXM_9a008bf91e_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.1.5.0.RJVCNXM_9a008bf91e_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_V12.1.5.0.RJVCNXM_9a008bf91e_11.0.zip
   region: China
@@ -61,7 +61,7 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-23.01.2021/fw_vangogh_miui_VANGOGH_21.1.20_ec47c47e2d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-23.01.2021/fw_vangogh_miui_VANGOGH_21.1.20_ec47c47e2d_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/vangogh/fw_vangogh_miui_VANGOGH_21.1.20_ec47c47e2d_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_21.1.20_ec47c47e2d_11.0.zip
   region: China
@@ -71,7 +71,7 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-15.01.2021/fw_vangogh_miui_VANGOGH_21.1.13_3a147c50e9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-15.01.2021/fw_vangogh_miui_VANGOGH_21.1.13_3a147c50e9_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/vangogh/fw_vangogh_miui_VANGOGH_21.1.13_3a147c50e9_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_21.1.13_3a147c50e9_11.0.zip
   region: China
@@ -81,7 +81,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-10.01.2021/fw_vangogh_miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-10.01.2021/fw_vangogh_miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip
   region: China
@@ -91,7 +91,7 @@
 - branch: weekly
   date: '2020-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-31.12.2020/fw_vangogh_miui_VANGOGH_20.12.28_2ab2c274a3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-31.12.2020/fw_vangogh_miui_VANGOGH_20.12.28_2ab2c274a3_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.28/vangogh/fw_vangogh_miui_VANGOGH_20.12.28_2ab2c274a3_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.12.28_2ab2c274a3_11.0.zip
   region: China
@@ -101,7 +101,7 @@
 - branch: stable
   date: '2020-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-20.12.2020/fw_vangogh_miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-20.12.2020/fw_vangogh_miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_V12.1.3.0.RJVCNXM_ff1f1b0bf5_11.0.zip
   region: China
@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2020-12-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-03.12.2020/fw_vangogh_miui_VANGOGH_20.12.2_e215cefded_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-03.12.2020/fw_vangogh_miui_VANGOGH_20.12.2_e215cefded_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/vangogh/fw_vangogh_miui_VANGOGH_20.12.2_e215cefded_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.12.2_e215cefded_11.0.zip
   region: China
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2020-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-26.11.2020/fw_vangogh_miui_VANGOGH_20.11.25_db1e5472d6_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-26.11.2020/fw_vangogh_miui_VANGOGH_20.11.25_db1e5472d6_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/vangogh/fw_vangogh_miui_VANGOGH_20.11.25_db1e5472d6_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.11.25_db1e5472d6_11.0.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: weekly
   date: '2020-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-19.11.2020/fw_vangogh_miui_VANGOGH_20.11.18_774941b1e2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-19.11.2020/fw_vangogh_miui_VANGOGH_20.11.18_774941b1e2_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/vangogh/fw_vangogh_miui_VANGOGH_20.11.18_774941b1e2_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.11.18_774941b1e2_11.0.zip
   region: China
@@ -141,7 +141,7 @@
 - branch: weekly
   date: '2020-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-06.11.2020/fw_vangogh_miui_VANGOGH_20.11.5_c0c3275dce_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-06.11.2020/fw_vangogh_miui_VANGOGH_20.11.5_c0c3275dce_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/vangogh/fw_vangogh_miui_VANGOGH_20.11.5_c0c3275dce_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.11.5_c0c3275dce_11.0.zip
   region: China
@@ -151,7 +151,7 @@
 - branch: weekly
   date: '2020-10-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-29.10.2020/fw_vangogh_miui_VANGOGH_20.10.29_21a512d1c4_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-29.10.2020/fw_vangogh_miui_VANGOGH_20.10.29_21a512d1c4_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.29/vangogh/fw_vangogh_miui_VANGOGH_20.10.29_21a512d1c4_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.10.29_21a512d1c4_11.0.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: weekly
   date: '2020-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-22.10.2020/fw_vangogh_miui_VANGOGH_20.10.22_b9ad06b0f3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-22.10.2020/fw_vangogh_miui_VANGOGH_20.10.22_b9ad06b0f3_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/vangogh/fw_vangogh_miui_VANGOGH_20.10.22_b9ad06b0f3_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.10.22_b9ad06b0f3_11.0.zip
   region: China
@@ -171,7 +171,7 @@
 - branch: weekly
   date: '2020-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-15.10.2020/fw_vangogh_miui_VANGOGH_20.10.15_ef36bae207_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-15.10.2020/fw_vangogh_miui_VANGOGH_20.10.15_ef36bae207_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/vangogh/fw_vangogh_miui_VANGOGH_20.10.15_ef36bae207_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.10.15_ef36bae207_11.0.zip
   region: China
@@ -181,7 +181,7 @@
 - branch: weekly
   date: '2020-09-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-24.09.2020/fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-24.09.2020/fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/vangogh/fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
   region: China
@@ -191,7 +191,7 @@
 - branch: stable
   date: '2020-09-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-21.09.2020/fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-21.09.2020/fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_V12.0.6.0.QJVCNXM_069640c060_10.0.zip
   region: China
@@ -201,7 +201,7 @@
 - branch: weekly
   date: '2020-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-17.09.2020/fw_vangogh_miui_VANGOGH_20.9.17_f6fd714aa4_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-17.09.2020/fw_vangogh_miui_VANGOGH_20.9.17_f6fd714aa4_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/vangogh/fw_vangogh_miui_VANGOGH_20.9.17_f6fd714aa4_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.9.17_f6fd714aa4_11.0.zip
   region: China
@@ -211,7 +211,7 @@
 - branch: weekly
   date: '2020-09-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-10.09.2020/fw_vangogh_miui_VANGOGH_20.9.8_10dabb2f03_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-10.09.2020/fw_vangogh_miui_VANGOGH_20.9.8_10dabb2f03_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.8/vangogh/fw_vangogh_miui_VANGOGH_20.9.8_10dabb2f03_11.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.9.8_10dabb2f03_11.0.zip
   region: China
@@ -221,7 +221,7 @@
 - branch: stable
   date: '2020-08-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-19.08.2020/fw_vangogh_miui_VANGOGH_V12.0.5.0.QJVCNXM_253473e9fe_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-19.08.2020/fw_vangogh_miui_VANGOGH_V12.0.5.0.QJVCNXM_253473e9fe_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.0.5.0.QJVCNXM_253473e9fe_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_V12.0.5.0.QJVCNXM_253473e9fe_10.0.zip
   region: China
@@ -231,7 +231,7 @@
 - branch: weekly
   date: '2020-08-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-13.08.2020/fw_vangogh_miui_VANGOGH_20.8.13_bf30599b0b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-13.08.2020/fw_vangogh_miui_VANGOGH_20.8.13_bf30599b0b_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.13/vangogh/fw_vangogh_miui_VANGOGH_20.8.13_bf30599b0b_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.8.13_bf30599b0b_10.0.zip
   region: China
@@ -241,7 +241,7 @@
 - branch: weekly
   date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-30.07.2020/fw_vangogh_miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-30.07.2020/fw_vangogh_miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/vangogh/fw_vangogh_miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.7.30_50f72e5d8d_10.0.zip
   region: China
@@ -251,7 +251,7 @@
 - branch: weekly
   date: '2020-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-23.07.2020/fw_vangogh_miui_VANGOGH_20.7.23_38107522a8_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-23.07.2020/fw_vangogh_miui_VANGOGH_20.7.23_38107522a8_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/vangogh/fw_vangogh_miui_VANGOGH_20.7.23_38107522a8_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.7.23_38107522a8_10.0.zip
   region: China
@@ -261,7 +261,7 @@
 - branch: stable
   date: '2020-07-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-20.07.2020/fw_vangogh_miui_VANGOGH_V12.0.4.0.QJVCNXM_6df6c7bdc6_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-20.07.2020/fw_vangogh_miui_VANGOGH_V12.0.4.0.QJVCNXM_6df6c7bdc6_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.0.4.0.QJVCNXM_6df6c7bdc6_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_V12.0.4.0.QJVCNXM_6df6c7bdc6_10.0.zip
   region: China
@@ -271,7 +271,7 @@
 - branch: weekly
   date: '2020-07-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-16.07.2020/fw_vangogh_miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-16.07.2020/fw_vangogh_miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/vangogh/fw_vangogh_miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
   region: China
@@ -281,7 +281,7 @@
 - branch: weekly
   date: '2020-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-02.07.2020/fw_vangogh_miui_VANGOGH_20.7.2_22e3f13461_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-02.07.2020/fw_vangogh_miui_VANGOGH_20.7.2_22e3f13461_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.2/vangogh/fw_vangogh_miui_VANGOGH_20.7.2_22e3f13461_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.7.2_22e3f13461_10.0.zip
   region: China
@@ -291,7 +291,7 @@
 - branch: stable
   date: '2020-06-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-24.06.2020/fw_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-24.06.2020/fw_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip
   region: China
@@ -301,7 +301,7 @@
 - branch: weekly
   date: '2020-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-18.06.2020/fw_vangogh_miui_VANGOGH_20.6.18_bba59800d5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-18.06.2020/fw_vangogh_miui_VANGOGH_20.6.18_bba59800d5_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/vangogh/fw_vangogh_miui_VANGOGH_20.6.18_bba59800d5_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.6.18_bba59800d5_10.0.zip
   region: China
@@ -311,7 +311,7 @@
 - branch: weekly
   date: '2020-06-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-04.06.2020/fw_vangogh_miui_VANGOGH_20.6.4_bd87a8b2f1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-04.06.2020/fw_vangogh_miui_VANGOGH_20.6.4_bd87a8b2f1_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/vangogh/fw_vangogh_miui_VANGOGH_20.6.4_bd87a8b2f1_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.6.4_bd87a8b2f1_10.0.zip
   region: China
@@ -321,7 +321,7 @@
 - branch: stable
   date: '2020-06-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-03.06.2020/fw_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-03.06.2020/fw_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vangogh/fw_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_V11.0.10.0.QJVCNXM_24d0be749d_10.0.zip
   region: China
@@ -331,7 +331,7 @@
 - branch: weekly
   date: '2020-05-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/weekly-28.05.2020/fw_vangogh_miui_VANGOGH_20.5.28_a9be7baead_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-28.05.2020/fw_vangogh_miui_VANGOGH_20.5.28_a9be7baead_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/vangogh/fw_vangogh_miui_VANGOGH_20.5.28_a9be7baead_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_20.5.28_a9be7baead_10.0.zip
   region: China
@@ -341,7 +341,7 @@
 - branch: stable
   date: '2020-05-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-23.05.2020/fw_vangogh_miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-23.05.2020/fw_vangogh_miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vangogh/fw_vangogh_miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_V11.0.9.0.QJVCNXM_dc2ba2a0bf_10.0.zip
   region: China
@@ -351,7 +351,7 @@
 - branch: stable
   date: '2020-05-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_vangogh/releases/download/stable-11.05.2020/fw_vangogh_miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-11.05.2020/fw_vangogh_miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/vangogh/fw_vangogh_miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip
   filename: fw_vangogh_miui_VANGOGH_V11.0.6.0.QJVCNXM_b08e691751_10.0.zip
   region: China

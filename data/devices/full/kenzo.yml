@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-01-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/stable-25.01.2019/fw_kenzo_miui_HMNote3ProGlobal_V10.2.1.0.MHOMIXM_36c0f5ded3_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kenzo/releases/download/stable-25.01.2019/fw_kenzo_miui_HMNote3ProGlobal_V10.2.1.0.MHOMIXM_36c0f5ded3_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/kenzo/fw_kenzo_miui_HMNote3ProGlobal_V10.2.1.0.MHOMIXM_36c0f5ded3_6.0.zip
   filename: fw_kenzo_miui_HMNote3ProGlobal_V10.2.1.0.MHOMIXM_36c0f5ded3_6.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2019-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/stable-08.01.2019/fw_kenzo_miui_HMNote3Pro_V10.2.1.0.MHOCNXM_57ca0aa257_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kenzo/releases/download/stable-08.01.2019/fw_kenzo_miui_HMNote3Pro_V10.2.1.0.MHOCNXM_57ca0aa257_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/kenzo/fw_kenzo_miui_HMNote3Pro_V10.2.1.0.MHOCNXM_57ca0aa257_6.0.zip
   filename: fw_kenzo_miui_HMNote3Pro_V10.2.1.0.MHOCNXM_57ca0aa257_6.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2018-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-26.11.2018/fw_kenzo_miui_HMNote3ProGlobal_8.11.22_ec10ddebd0_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kenzo/releases/download/weekly-26.11.2018/fw_kenzo_miui_HMNote3ProGlobal_8.11.22_ec10ddebd0_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.11.22_ec10ddebd0_6.0.zip
   filename: fw_kenzo_miui_HMNote3ProGlobal_8.11.22_ec10ddebd0_6.0.zip
   region: Global
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2018-11-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-23.11.2018/fw_kenzo_miui_HMNote3Pro_8.11.22_38aac9b24f_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kenzo/releases/download/weekly-23.11.2018/fw_kenzo_miui_HMNote3Pro_8.11.22_38aac9b24f_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/kenzo/fw_kenzo_miui_HMNote3Pro_8.11.22_38aac9b24f_6.0.zip
   filename: fw_kenzo_miui_HMNote3Pro_8.11.22_38aac9b24f_6.0.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/weekly-16.11.2018/fw_kenzo_miui_HMNote3ProGlobal_8.11.15_269ff75618_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kenzo/releases/download/weekly-16.11.2018/fw_kenzo_miui_HMNote3ProGlobal_8.11.15_269ff75618_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.11.15_269ff75618_6.0.zip
   filename: fw_kenzo_miui_HMNote3ProGlobal_8.11.15_269ff75618_6.0.zip
   region: Global
@@ -51,7 +51,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/untagged-26ab72d3012d11464361/fw_kenzo_miui_HMNote3ProGlobal_8.4.12_9d47b6e980_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kenzo/releases/download/untagged-26ab72d3012d11464361/fw_kenzo_miui_HMNote3ProGlobal_8.4.12_9d47b6e980_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/kenzo/fw_kenzo_miui_HMNote3ProGlobal_8.4.12_9d47b6e980_6.0.zip
   filename: fw_kenzo_miui_HMNote3ProGlobal_8.4.12_9d47b6e980_6.0.zip
   region: Global
@@ -61,7 +61,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kenzo/releases/download/untagged-26ab72d3012d11464361/fw_kenzo_miui_HMNote3Pro_8.4.12_ef8e5dd7b2_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kenzo/releases/download/untagged-26ab72d3012d11464361/fw_kenzo_miui_HMNote3Pro_8.4.12_ef8e5dd7b2_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/kenzo/fw_kenzo_miui_HMNote3Pro_8.4.12_ef8e5dd7b2_6.0.zip
   filename: fw_kenzo_miui_HMNote3Pro_8.4.12_ef8e5dd7b2_6.0.zip
   region: China

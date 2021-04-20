@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-05-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/stable-28.05.2019/fw_land_miui_HM3SGlobal_V10.2.2.0.MALMIXM_919500358f_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_land/releases/download/stable-28.05.2019/fw_land_miui_HM3SGlobal_V10.2.2.0.MALMIXM_919500358f_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/land/fw_land_miui_HM3SGlobal_V10.2.2.0.MALMIXM_919500358f_6.0.zip
   filename: fw_land_miui_HM3SGlobal_V10.2.2.0.MALMIXM_919500358f_6.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2019-05-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/stable-21.05.2019/fw_land_miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_land/releases/download/stable-21.05.2019/fw_land_miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/land/fw_land_miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip
   filename: fw_land_miui_HM3S_V10.2.2.0.MALCNXM_6fb1d75d0f_6.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2019-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-29.03.2019/fw_land_miui_HM3SGlobal_9.3.28_aaf3cde076_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_land/releases/download/weekly-29.03.2019/fw_land_miui_HM3SGlobal_9.3.28_aaf3cde076_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/land/fw_land_miui_HM3SGlobal_9.3.28_aaf3cde076_6.0.zip
   filename: fw_land_miui_HM3SGlobal_9.3.28_aaf3cde076_6.0.zip
   region: Global
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2019-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_land/releases/download/weekly-29.03.2019/fw_land_miui_HM3S_9.3.28_4a8a385746_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_land/releases/download/weekly-29.03.2019/fw_land_miui_HM3S_9.3.28_4a8a385746_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/land/fw_land_miui_HM3S_9.3.28_4a8a385746_6.0.zip
   filename: fw_land_miui_HM3S_9.3.28_4a8a385746_6.0.zip
   region: China

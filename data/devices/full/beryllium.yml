@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-12.01.2021/fw_beryllium_miui_POCOF1Global_V12.0.3.0.QEJMIXM_cf3fccffce_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-12.01.2021/fw_beryllium_miui_POCOF1Global_V12.0.3.0.QEJMIXM_cf3fccffce_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/beryllium/fw_beryllium_miui_POCOF1Global_V12.0.3.0.QEJMIXM_cf3fccffce_10.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V12.0.3.0.QEJMIXM_cf3fccffce_10.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2020-10-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-26.10.2020/fw_beryllium_miui_POCOF1Global_V12.0.1.0.QEJMIXM_93e6428303_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-26.10.2020/fw_beryllium_miui_POCOF1Global_V12.0.1.0.QEJMIXM_93e6428303_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/beryllium/fw_beryllium_miui_POCOF1Global_V12.0.1.0.QEJMIXM_93e6428303_10.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V12.0.1.0.QEJMIXM_93e6428303_10.0.zip
   region: Global
@@ -21,7 +21,7 @@
 - branch: stable
   date: '2020-08-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-11.08.2020/fw_beryllium_miui_POCOF1Global_V11.0.9.0.QEJMIXM_5536c538da_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-11.08.2020/fw_beryllium_miui_POCOF1Global_V11.0.9.0.QEJMIXM_5536c538da_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/beryllium/fw_beryllium_miui_POCOF1Global_V11.0.9.0.QEJMIXM_5536c538da_10.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V11.0.9.0.QEJMIXM_5536c538da_10.0.zip
   region: Global
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2020-05-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-15.05.2020/fw_beryllium_miui_POCOF1Global_V11.0.8.0.QEJMIXM_146861c001_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-15.05.2020/fw_beryllium_miui_POCOF1Global_V11.0.8.0.QEJMIXM_146861c001_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/beryllium/fw_beryllium_miui_POCOF1Global_V11.0.8.0.QEJMIXM_146861c001_10.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V11.0.8.0.QEJMIXM_146861c001_10.0.zip
   region: Global
@@ -41,7 +41,7 @@
 - branch: stable
   date: '2019-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-01.11.2019/fw_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-01.11.2019/fw_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/beryllium/fw_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
   region: Global
@@ -51,7 +51,7 @@
 - branch: stable
   date: '2019-10-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-09.10.2019/fw_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-09.10.2019/fw_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V10.3.8.0.PEJMIXM_b5d72aa3ba_9.0.zip
   region: Global
@@ -61,7 +61,7 @@
 - branch: weekly
   date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-28.06.2019/fw_beryllium_miui_POCOF1Global_9.6.27_6673f8a455_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-28.06.2019/fw_beryllium_miui_POCOF1Global_9.6.27_6673f8a455_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/beryllium/fw_beryllium_miui_POCOF1Global_9.6.27_6673f8a455_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_9.6.27_6673f8a455_9.0.zip
   region: Global
@@ -71,7 +71,7 @@
 - branch: stable
   date: '2019-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-26.06.2019/fw_beryllium_miui_POCOF1Global_V10.3.5.0.PEJMIXM_720eb4ed35_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-26.06.2019/fw_beryllium_miui_POCOF1Global_V10.3.5.0.PEJMIXM_720eb4ed35_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.3.5.0.PEJMIXM_720eb4ed35_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V10.3.5.0.PEJMIXM_720eb4ed35_9.0.zip
   region: Global
@@ -81,7 +81,7 @@
 - branch: weekly
   date: '2019-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-22.06.2019/fw_beryllium_miui_POCOF1Global_9.6.20_b7537712ad_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-22.06.2019/fw_beryllium_miui_POCOF1Global_9.6.20_b7537712ad_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/beryllium/fw_beryllium_miui_POCOF1Global_9.6.20_b7537712ad_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_9.6.20_b7537712ad_9.0.zip
   region: Global
@@ -91,7 +91,7 @@
 - branch: weekly
   date: '2019-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-10.05.2019/fw_beryllium_miui_POCOF1Global_9.5.9_c4edab41e6_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-10.05.2019/fw_beryllium_miui_POCOF1Global_9.5.9_c4edab41e6_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/beryllium/fw_beryllium_miui_POCOF1Global_9.5.9_c4edab41e6_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_9.5.9_c4edab41e6_9.0.zip
   region: Global
@@ -101,7 +101,7 @@
 - branch: stable
   date: '2019-04-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-10.04.2019/fw_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-10.04.2019/fw_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip
   region: Global
@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2019-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-29.03.2019/fw_beryllium_miui_POCOF1Global_9.3.28_d53556b35c_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-29.03.2019/fw_beryllium_miui_POCOF1Global_9.3.28_d53556b35c_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/beryllium/fw_beryllium_miui_POCOF1Global_9.3.28_d53556b35c_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_9.3.28_d53556b35c_9.0.zip
   region: Global
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2019-03-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-22.03.2019/fw_beryllium_miui_POCOF1Global_9.3.21_eb8cb2202a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-22.03.2019/fw_beryllium_miui_POCOF1Global_9.3.21_eb8cb2202a_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/beryllium/fw_beryllium_miui_POCOF1Global_9.3.21_eb8cb2202a_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_9.3.21_eb8cb2202a_9.0.zip
   region: Global
@@ -131,7 +131,7 @@
 - branch: stable
   date: '2019-03-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-13.03.2019/fw_beryllium_miui_POCOF1Global_V10.2.3.0.PEJMIXM_a0319918c1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-13.03.2019/fw_beryllium_miui_POCOF1Global_V10.2.3.0.PEJMIXM_a0319918c1_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.2.3.0.PEJMIXM_a0319918c1_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V10.2.3.0.PEJMIXM_a0319918c1_9.0.zip
   region: Global
@@ -141,7 +141,7 @@
 - branch: weekly
   date: '2019-03-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-02.03.2019/fw_beryllium_miui_POCOF1Global_9.3.1_715ba77723_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-02.03.2019/fw_beryllium_miui_POCOF1Global_9.3.1_715ba77723_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.1/beryllium/fw_beryllium_miui_POCOF1Global_9.3.1_715ba77723_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_9.3.1_715ba77723_9.0.zip
   region: Global
@@ -151,7 +151,7 @@
 - branch: weekly
   date: '2019-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-18.02.2019/fw_beryllium_miui_POCOF1Global_9.2.15_f00688e43a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-18.02.2019/fw_beryllium_miui_POCOF1Global_9.2.15_f00688e43a_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/beryllium/fw_beryllium_miui_POCOF1Global_9.2.15_f00688e43a_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_9.2.15_f00688e43a_9.0.zip
   region: Global
@@ -161,7 +161,7 @@
 - branch: weekly
   date: '2019-01-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-25.01.2019/fw_beryllium_miui_POCOF1Global_9.1.24_5c0d5df129_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-25.01.2019/fw_beryllium_miui_POCOF1Global_9.1.24_5c0d5df129_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/beryllium/fw_beryllium_miui_POCOF1Global_9.1.24_5c0d5df129_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_9.1.24_5c0d5df129_9.0.zip
   region: Global
@@ -171,7 +171,7 @@
 - branch: weekly
   date: '2019-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-24.01.2019/fw_beryllium_miui_POCOF1Global_9.1.18_00cb41764b_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-24.01.2019/fw_beryllium_miui_POCOF1Global_9.1.18_00cb41764b_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.18/beryllium/fw_beryllium_miui_POCOF1Global_9.1.18_00cb41764b_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_9.1.18_00cb41764b_9.0.zip
   region: Global
@@ -181,7 +181,7 @@
 - branch: stable
   date: '2019-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-23.01.2019/fw_beryllium_miui_POCOF1Global_V10.2.2.0.PEJMIXM_05520ce068_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-23.01.2019/fw_beryllium_miui_POCOF1Global_V10.2.2.0.PEJMIXM_05520ce068_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.2.2.0.PEJMIXM_05520ce068_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V10.2.2.0.PEJMIXM_05520ce068_9.0.zip
   region: Global
@@ -191,7 +191,7 @@
 - branch: weekly
   date: '2019-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-12.01.2019/fw_beryllium_miui_POCOF1Global_9.1.10_9f996ff341_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-12.01.2019/fw_beryllium_miui_POCOF1Global_9.1.10_9f996ff341_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/beryllium/fw_beryllium_miui_POCOF1Global_9.1.10_9f996ff341_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_9.1.10_9f996ff341_9.0.zip
   region: Global
@@ -201,7 +201,7 @@
 - branch: stable
   date: '2019-01-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-03.01.2019/fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-03.01.2019/fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip
   region: Global
@@ -211,7 +211,7 @@
 - branch: weekly
   date: '2018-12-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-28.12.2018/fw_beryllium_miui_POCOF1Global_8.12.27_fe9f53ea84_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-28.12.2018/fw_beryllium_miui_POCOF1Global_8.12.27_fe9f53ea84_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.27/beryllium/fw_beryllium_miui_POCOF1Global_8.12.27_fe9f53ea84_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_8.12.27_fe9f53ea84_9.0.zip
   region: Global
@@ -221,7 +221,7 @@
 - branch: stable
   date: '2018-12-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-22.12.2018/fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-22.12.2018/fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_V10.1.3.0.PEJMIFI_f05771189d_9.0.zip
   region: Global
@@ -231,7 +231,7 @@
 - branch: weekly
   date: '2018-12-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-21.12.2018/fw_beryllium_miui_POCOF1Global_8.12.20_9463021df4_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-21.12.2018/fw_beryllium_miui_POCOF1Global_8.12.20_9463021df4_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/beryllium/fw_beryllium_miui_POCOF1Global_8.12.20_9463021df4_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_8.12.20_9463021df4_9.0.zip
   region: Global
@@ -241,7 +241,7 @@
 - branch: weekly
   date: '2018-12-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-14.12.2018/fw_beryllium_miui_POCOF1Global_8.12.13_652920093c_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-14.12.2018/fw_beryllium_miui_POCOF1Global_8.12.13_652920093c_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/beryllium/fw_beryllium_miui_POCOF1Global_8.12.13_652920093c_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_8.12.13_652920093c_9.0.zip
   region: Global
@@ -251,7 +251,7 @@
 - branch: weekly
   date: '2018-12-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-10.12.2018/fw_beryllium_miui_POCOF1Global_8.12.7_f61cf79364_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-10.12.2018/fw_beryllium_miui_POCOF1Global_8.12.7_f61cf79364_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.7/beryllium/fw_beryllium_miui_POCOF1Global_8.12.7_f61cf79364_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_8.12.7_f61cf79364_9.0.zip
   region: Global
@@ -261,7 +261,7 @@
 - branch: weekly
   date: '2018-12-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-03.12.2018/fw_beryllium_miui_POCOF1Global_8.11.29_14c6931f61_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-03.12.2018/fw_beryllium_miui_POCOF1Global_8.11.29_14c6931f61_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.29/beryllium/fw_beryllium_miui_POCOF1Global_8.11.29_14c6931f61_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_8.11.29_14c6931f61_9.0.zip
   region: Global
@@ -271,7 +271,7 @@
 - branch: stable
   date: '2018-11-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-20.11.2018/fw_beryllium_miui_POCOF1Global_V10.0.6.0.OEJMIFH_c5f0857b02_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-20.11.2018/fw_beryllium_miui_POCOF1Global_V10.0.6.0.OEJMIFH_c5f0857b02_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/beryllium/fw_beryllium_miui_POCOF1Global_V10.0.6.0.OEJMIFH_c5f0857b02_8.1.zip
   filename: fw_beryllium_miui_POCOF1Global_V10.0.6.0.OEJMIFH_c5f0857b02_8.1.zip
   region: Global
@@ -281,7 +281,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-16.11.2018/fw_beryllium_miui_POCOF1Global_8.11.15_fd06777c5a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-16.11.2018/fw_beryllium_miui_POCOF1Global_8.11.15_fd06777c5a_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/beryllium/fw_beryllium_miui_POCOF1Global_8.11.15_fd06777c5a_9.0.zip
   filename: fw_beryllium_miui_POCOF1Global_8.11.15_fd06777c5a_9.0.zip
   region: Global
@@ -291,7 +291,7 @@
 - branch: weekly
   date: '2018-10-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-26.10.2018/fw_beryllium_miui_POCOF1Global_8.10.25_241c24c080_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-26.10.2018/fw_beryllium_miui_POCOF1Global_8.10.25_241c24c080_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/beryllium/fw_beryllium_miui_POCOF1Global_8.10.25_241c24c080_8.1.zip
   filename: fw_beryllium_miui_POCOF1Global_8.10.25_241c24c080_8.1.zip
   region: Global
@@ -301,7 +301,7 @@
 - branch: weekly
   date: '2018-10-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-19.10.2018/fw_beryllium_miui_POCOF1Global_8.10.18_7908edaf56_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-19.10.2018/fw_beryllium_miui_POCOF1Global_8.10.18_7908edaf56_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/beryllium/fw_beryllium_miui_POCOF1Global_8.10.18_7908edaf56_8.1.zip
   filename: fw_beryllium_miui_POCOF1Global_8.10.18_7908edaf56_8.1.zip
   region: Global
@@ -311,7 +311,7 @@
 - branch: stable
   date: '2018-10-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-19.10.2018/fw_beryllium_miui_POCOF1Global_V9.6.25.0.OEJMIFD_3433a60ef4_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-19.10.2018/fw_beryllium_miui_POCOF1Global_V9.6.25.0.OEJMIFD_3433a60ef4_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/beryllium/fw_beryllium_miui_POCOF1Global_V9.6.25.0.OEJMIFD_3433a60ef4_8.1.zip
   filename: fw_beryllium_miui_POCOF1Global_V9.6.25.0.OEJMIFD_3433a60ef4_8.1.zip
   region: Global
@@ -321,7 +321,7 @@
 - branch: stable
   date: '2018-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-12.10.2018/fw_beryllium_miui_POCOF1Global_V9.6.24.0.OEJMIFD_4771f982f0_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-12.10.2018/fw_beryllium_miui_POCOF1Global_V9.6.24.0.OEJMIFD_4771f982f0_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/beryllium/fw_beryllium_miui_POCOF1Global_V9.6.24.0.OEJMIFD_4771f982f0_8.1.zip
   filename: fw_beryllium_miui_POCOF1Global_V9.6.24.0.OEJMIFD_4771f982f0_8.1.zip
   region: Global
@@ -331,7 +331,7 @@
 - branch: weekly
   date: '2018-10-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-11.10.2018/fw_beryllium_miui_POCOF1Global_8.10.11_6664676ae1_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-11.10.2018/fw_beryllium_miui_POCOF1Global_8.10.11_6664676ae1_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/beryllium/fw_beryllium_miui_POCOF1Global_8.10.11_6664676ae1_8.1.zip
   filename: fw_beryllium_miui_POCOF1Global_8.10.11_6664676ae1_8.1.zip
   region: Global
@@ -341,7 +341,7 @@
 - branch: stable
   date: '2018-09-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-21.09.2018/fw_beryllium_miui_POCOF1Global_V9.6.22.0.OEJMIFD_8168225b64_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-21.09.2018/fw_beryllium_miui_POCOF1Global_V9.6.22.0.OEJMIFD_8168225b64_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/beryllium/fw_beryllium_miui_POCOF1Global_V9.6.22.0.OEJMIFD_8168225b64_8.1.zip
   filename: fw_beryllium_miui_POCOF1Global_V9.6.22.0.OEJMIFD_8168225b64_8.1.zip
   region: Global
@@ -351,7 +351,7 @@
 - branch: weekly
   date: '2018-09-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/weekly-20.09.2018/fw_beryllium_miui_POCOF1Global_8.9.20_28fda72fb4_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/weekly-20.09.2018/fw_beryllium_miui_POCOF1Global_8.9.20_28fda72fb4_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.20/beryllium/fw_beryllium_miui_POCOF1Global_8.9.20_28fda72fb4_8.1.zip
   filename: fw_beryllium_miui_POCOF1Global_8.9.20_28fda72fb4_8.1.zip
   region: Global
@@ -361,7 +361,7 @@
 - branch: stable
   date: '2018-08-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_beryllium/releases/download/stable-31.08.2018/fw_beryllium_miui_BERYLLIUMGlobal_V9.6.14.0.OEJMIFD_9f7f9e0fa4_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-31.08.2018/fw_beryllium_miui_BERYLLIUMGlobal_V9.6.14.0.OEJMIFD_9f7f9e0fa4_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/beryllium/fw_beryllium_miui_BERYLLIUMGlobal_V9.6.14.0.OEJMIFD_9f7f9e0fa4_8.1.zip
   filename: fw_beryllium_miui_BERYLLIUMGlobal_V9.6.14.0.OEJMIFD_9f7f9e0fa4_8.1.zip
   region: Global

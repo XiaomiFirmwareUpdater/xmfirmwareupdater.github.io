@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-12-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-25.12.2019/fw_riva_miui_HM5A_V11.0.6.0.OCKCNXM_65b36755c0_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/stable-25.12.2019/fw_riva_miui_HM5A_V11.0.6.0.OCKCNXM_65b36755c0_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/riva/fw_riva_miui_HM5A_V11.0.6.0.OCKCNXM_65b36755c0_8.1.zip
   filename: fw_riva_miui_HM5A_V11.0.6.0.OCKCNXM_65b36755c0_8.1.zip
   region: China
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-15.11.2019/fw_riva_miui_HM5AGlobal_V11.0.2.0.OCKMIXM_b247c0c04e_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/stable-15.11.2019/fw_riva_miui_HM5AGlobal_V11.0.2.0.OCKMIXM_b247c0c04e_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/riva/fw_riva_miui_HM5AGlobal_V11.0.2.0.OCKMIXM_b247c0c04e_8.1.zip
   filename: fw_riva_miui_HM5AGlobal_V11.0.2.0.OCKMIXM_b247c0c04e_8.1.zip
   region: Global
@@ -21,7 +21,7 @@
 - branch: stable
   date: '2019-11-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-12.11.2019/fw_riva_miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/stable-12.11.2019/fw_riva_miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/riva/fw_riva_miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip
   filename: fw_riva_miui_HM5A_V11.0.2.0.OCKCNXM_2019238fe9_8.1.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-17.10.2019/fw_riva_miui_HM5A_9.10.10_e70d9eb2a6_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/weekly-17.10.2019/fw_riva_miui_HM5A_9.10.10_e70d9eb2a6_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/riva/fw_riva_miui_HM5A_9.10.10_e70d9eb2a6_8.1.zip
   filename: fw_riva_miui_HM5A_9.10.10_e70d9eb2a6_8.1.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2019-08-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-23.08.2019/fw_riva_miui_HM5A_9.8.22_937bbae9aa_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/weekly-23.08.2019/fw_riva_miui_HM5A_9.8.22_937bbae9aa_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.22/riva/fw_riva_miui_HM5A_9.8.22_937bbae9aa_8.1.zip
   filename: fw_riva_miui_HM5A_9.8.22_937bbae9aa_8.1.zip
   region: China
@@ -51,7 +51,7 @@
 - branch: weekly
   date: '2019-08-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-09.08.2019/fw_riva_miui_HM5A_9.8.8_9999a0487c_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/weekly-09.08.2019/fw_riva_miui_HM5A_9.8.8_9999a0487c_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.8/riva/fw_riva_miui_HM5A_9.8.8_9999a0487c_8.1.zip
   filename: fw_riva_miui_HM5A_9.8.8_9999a0487c_8.1.zip
   region: China
@@ -61,7 +61,7 @@
 - branch: stable
   date: '2019-07-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-24.07.2019/fw_riva_miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/stable-24.07.2019/fw_riva_miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/riva/fw_riva_miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip
   filename: fw_riva_miui_HM5AGlobal_V10.3.2.0.OCKMIXM_7f399a7a04_8.1.zip
   region: Global
@@ -71,7 +71,7 @@
 - branch: weekly
   date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-28.06.2019/fw_riva_miui_HM5AGlobal_9.6.27_8e9186dad4_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/weekly-28.06.2019/fw_riva_miui_HM5AGlobal_9.6.27_8e9186dad4_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/riva/fw_riva_miui_HM5AGlobal_9.6.27_8e9186dad4_8.1.zip
   filename: fw_riva_miui_HM5AGlobal_9.6.27_8e9186dad4_8.1.zip
   region: Global
@@ -81,7 +81,7 @@
 - branch: weekly
   date: '2019-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-12.04.2019/fw_riva_miui_HM5AGlobal_9.4.11_618fd63830_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/weekly-12.04.2019/fw_riva_miui_HM5AGlobal_9.4.11_618fd63830_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.11/riva/fw_riva_miui_HM5AGlobal_9.4.11_618fd63830_8.1.zip
   filename: fw_riva_miui_HM5AGlobal_9.4.11_618fd63830_8.1.zip
   region: Global
@@ -91,7 +91,7 @@
 - branch: weekly
   date: '2019-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-12.04.2019/fw_riva_miui_HM5A_9.4.11_9d312a479c_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/weekly-12.04.2019/fw_riva_miui_HM5A_9.4.11_9d312a479c_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.11/riva/fw_riva_miui_HM5A_9.4.11_9d312a479c_8.1.zip
   filename: fw_riva_miui_HM5A_9.4.11_9d312a479c_8.1.zip
   region: China
@@ -101,7 +101,7 @@
 - branch: stable
   date: '2019-03-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-09.03.2019/fw_riva_miui_HM5A_V10.2.4.0.OCKCNXM_21950c7a06_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/stable-09.03.2019/fw_riva_miui_HM5A_V10.2.4.0.OCKCNXM_21950c7a06_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/riva/fw_riva_miui_HM5A_V10.2.4.0.OCKCNXM_21950c7a06_8.1.zip
   filename: fw_riva_miui_HM5A_V10.2.4.0.OCKCNXM_21950c7a06_8.1.zip
   region: China
@@ -111,7 +111,7 @@
 - branch: stable
   date: '2019-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-26.02.2019/fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/stable-26.02.2019/fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/riva/fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip
   filename: fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip
   region: Global
@@ -121,7 +121,7 @@
 - branch: stable
   date: '2019-02-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-12.02.2019/fw_riva_miui_HM5AGlobal_V10.1.2.0.OCKMIFI_423275627c_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/stable-12.02.2019/fw_riva_miui_HM5AGlobal_V10.1.2.0.OCKMIFI_423275627c_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/riva/fw_riva_miui_HM5AGlobal_V10.1.2.0.OCKMIFI_423275627c_8.1.zip
   filename: fw_riva_miui_HM5AGlobal_V10.1.2.0.OCKMIFI_423275627c_8.1.zip
   region: Global
@@ -131,7 +131,7 @@
 - branch: stable
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-16.11.2018/fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/stable-16.11.2018/fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/riva/fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip
   filename: fw_riva_miui_HM5AGlobal_V10.1.1.0.NCKMIFI_8cb19207b7_7.1.zip
   region: Global
@@ -141,7 +141,7 @@
 - branch: stable
   date: '2018-11-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/stable-07.11.2018/fw_riva_miui_HM5A_V10.1.1.0.NCKCNFI_2e5ec8a9df_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/stable-07.11.2018/fw_riva_miui_HM5A_V10.1.1.0.NCKCNFI_2e5ec8a9df_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/riva/fw_riva_miui_HM5A_V10.1.1.0.NCKCNFI_2e5ec8a9df_7.1.zip
   filename: fw_riva_miui_HM5A_V10.1.1.0.NCKCNFI_2e5ec8a9df_7.1.zip
   region: China
@@ -151,7 +151,7 @@
 - branch: weekly
   date: '2018-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-05.11.2018/fw_riva_miui_HM5A_8.11.2_6ebca3c567_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/weekly-05.11.2018/fw_riva_miui_HM5A_8.11.2_6ebca3c567_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.2/riva/fw_riva_miui_HM5A_8.11.2_6ebca3c567_7.1.zip
   filename: fw_riva_miui_HM5A_8.11.2_6ebca3c567_7.1.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: weekly
   date: '2018-11-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/weekly-02.11.2018/fw_riva_miui_HM5AGlobal_8.11.1_3344b3c755_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/weekly-02.11.2018/fw_riva_miui_HM5AGlobal_8.11.1_3344b3c755_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/riva/fw_riva_miui_HM5AGlobal_8.11.1_3344b3c755_7.1.zip
   filename: fw_riva_miui_HM5AGlobal_8.11.1_3344b3c755_7.1.zip
   region: Global
@@ -171,7 +171,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-a694251e464f927f881e/fw_riva_miui_HM5AGlobal_8.4.12_8b10f1b1fb_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/untagged-a694251e464f927f881e/fw_riva_miui_HM5AGlobal_8.4.12_8b10f1b1fb_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/riva/fw_riva_miui_HM5AGlobal_8.4.12_8b10f1b1fb_7.1.zip
   filename: fw_riva_miui_HM5AGlobal_8.4.12_8b10f1b1fb_7.1.zip
   region: Global
@@ -181,7 +181,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_riva/releases/download/untagged-a694251e464f927f881e/fw_riva_miui_HM5A_8.4.12_e38b9ea1fc_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_riva/releases/download/untagged-a694251e464f927f881e/fw_riva_miui_HM5A_8.4.12_e38b9ea1fc_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/riva/fw_riva_miui_HM5A_8.4.12_e38b9ea1fc_7.1.zip
   filename: fw_riva_miui_HM5A_8.4.12_e38b9ea1fc_7.1.zip
   region: China

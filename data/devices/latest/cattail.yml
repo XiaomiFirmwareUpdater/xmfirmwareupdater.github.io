@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cattail/releases/download/stable-26.03.2021/fw_cattail_miui_CATTAILINGlobal_V12.0.8.0.QCTINXM_0447c03549_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cattail/releases/download/stable-26.03.2021/fw_cattail_miui_CATTAILINGlobal_V12.0.8.0.QCTINXM_0447c03549_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.0.8.0.QCTINXM_0447c03549_10.0.zip
   filename: fw_cattail_miui_CATTAILINGlobal_V12.0.8.0.QCTINXM_0447c03549_10.0.zip
   region: India

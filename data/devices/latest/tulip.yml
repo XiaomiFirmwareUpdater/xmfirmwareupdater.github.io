@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-01-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/stable-06.01.2021/fw_tulip_miui_HMNote6ProGlobal_V12.0.1.0.PEKMIXM_1920d51d84_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tulip/releases/download/stable-06.01.2021/fw_tulip_miui_HMNote6ProGlobal_V12.0.1.0.PEKMIXM_1920d51d84_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tulip/fw_tulip_miui_HMNote6ProGlobal_V12.0.1.0.PEKMIXM_1920d51d84_9.0.zip
   filename: fw_tulip_miui_HMNote6ProGlobal_V12.0.1.0.PEKMIXM_1920d51d84_9.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: weekly
   date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tulip/releases/download/weekly-28.06.2019/fw_tulip_miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tulip/releases/download/weekly-28.06.2019/fw_tulip_miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/tulip/fw_tulip_miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip
   filename: fw_tulip_miui_HMNote6ProGlobal_9.6.27_a10bc90117_9.0.zip
   region: Global

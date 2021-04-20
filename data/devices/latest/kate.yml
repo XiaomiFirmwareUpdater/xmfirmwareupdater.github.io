@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/stable-24.01.2019/fw_kate_miui_HMNote3ProtwGlobal_V10.2.1.0.MHRMIXM_ffb51fb6dc_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kate/releases/download/stable-24.01.2019/fw_kate_miui_HMNote3ProtwGlobal_V10.2.1.0.MHRMIXM_ffb51fb6dc_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/kate/fw_kate_miui_HMNote3ProtwGlobal_V10.2.1.0.MHRMIXM_ffb51fb6dc_6.0.zip
   filename: fw_kate_miui_HMNote3ProtwGlobal_V10.2.1.0.MHRMIXM_ffb51fb6dc_6.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: weekly
   date: '2019-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_kate/releases/download/weekly-29.03.2019/fw_kate_miui_HMNote3ProtwGlobal_9.3.28_1b391ab738_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_kate/releases/download/weekly-29.03.2019/fw_kate_miui_HMNote3ProtwGlobal_9.3.28_1b391ab738_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/kate/fw_kate_miui_HMNote3ProtwGlobal_9.3.28_1b391ab738_6.0.zip
   filename: fw_kate_miui_HMNote3ProtwGlobal_9.3.28_1b391ab738_6.0.zip
   region: Global

@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-13.04.2021/fw_curtana_miui_CURTANAGlobal_V12.0.1.7.RJWMIXM_af09804f7b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-13.04.2021/fw_curtana_miui_CURTANAGlobal_V12.0.1.7.RJWMIXM_af09804f7b_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAGlobal_V12.0.1.7.RJWMIXM_af09804f7b_11.0.zip
   filename: fw_curtana_miui_CURTANAGlobal_V12.0.1.7.RJWMIXM_af09804f7b_11.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-20.01.2021/fw_curtana_miui_CURTANAEEAGlobal_V12.0.3.0.QJWEUXM_d6593b05b9_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-20.01.2021/fw_curtana_miui_CURTANAEEAGlobal_V12.0.3.0.QJWEUXM_d6593b05b9_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAEEAGlobal_V12.0.3.0.QJWEUXM_d6593b05b9_10.0.zip
   filename: fw_curtana_miui_CURTANAEEAGlobal_V12.0.3.0.QJWEUXM_d6593b05b9_10.0.zip
   region: Europe
@@ -21,7 +21,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_curtana/releases/download/stable-18.03.2021/fw_curtana_miui_CURTANAINGlobal_V12.0.4.0.RJWINXM_62f7144f9a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-18.03.2021/fw_curtana_miui_CURTANAINGlobal_V12.0.4.0.RJWINXM_62f7144f9a_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAINGlobal_V12.0.4.0.RJWINXM_62f7144f9a_11.0.zip
   filename: fw_curtana_miui_CURTANAINGlobal_V12.0.4.0.RJWINXM_62f7144f9a_11.0.zip
   region: India

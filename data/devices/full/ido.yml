@@ -1,7 +1,7 @@
 - branch: weekly
   date: '2018-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/weekly-29.08.2018/fw_ido_miui_HM3_8.4.26_b0aea895db_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/weekly-29.08.2018/fw_ido_miui_HM3_8.4.26_b0aea895db_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/ido/fw_ido_miui_HM3_8.4.26_b0aea895db_5.1.zip
   filename: fw_ido_miui_HM3_8.4.26_b0aea895db_5.1.zip
   region: China
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2019-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/stable-20.07.2018/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/stable-20.07.2018/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ido/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   filename: fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2019-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-1cd5d92112bd1368d3b3/fw_ido_miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-1cd5d92112bd1368d3b3/fw_ido_miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.LAIMIFA/ido/fw_ido_miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
   filename: fw_ido_miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
   region: Global
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2019-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-1cd5d92112bd1368d3b3/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-1cd5d92112bd1368d3b3/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.LAICNFA/ido/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   filename: fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2018-07-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-27cb00b68114583cd7ac/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-27cb00b68114583cd7ac/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/ido/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
   filename: fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
   region: Global
@@ -51,7 +51,7 @@
 - branch: weekly
   date: '2018-07-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-27cb00b68114583cd7ac/fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-27cb00b68114583cd7ac/fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/ido/fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
   filename: fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
   region: China
@@ -61,7 +61,7 @@
 - branch: weekly
   date: '2019-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/weekly-28.08.2018/fw_ido_miui_HM3Global_8.4.19_85607774ae_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/weekly-28.08.2018/fw_ido_miui_HM3Global_8.4.19_85607774ae_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/ido/fw_ido_miui_HM3Global_8.4.19_85607774ae_5.1.zip
   filename: fw_ido_miui_HM3Global_8.4.19_85607774ae_5.1.zip
   region: Global
@@ -71,7 +71,7 @@
 - branch: weekly
   date: '2018-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-91aa8dd8c0d7990c884d/fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-91aa8dd8c0d7990c884d/fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.LAIMIFA/ido/fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
   filename: fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
   region: Global
@@ -81,7 +81,7 @@
 - branch: weekly
   date: '2018-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-91aa8dd8c0d7990c884d/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-91aa8dd8c0d7990c884d/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.LAICNFA/ido/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   filename: fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   region: China
@@ -91,7 +91,7 @@
 - branch: weekly
   date: '2018-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-166d35a5fd4cb5d88ca0/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-166d35a5fd4cb5d88ca0/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/ido/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
   filename: fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
   region: Global
@@ -101,7 +101,7 @@
 - branch: weekly
   date: '2018-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-166d35a5fd4cb5d88ca0/fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-166d35a5fd4cb5d88ca0/fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/ido/fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
   filename: fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
   region: China
@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2018-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-6db988aff99881490c66/fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-6db988aff99881490c66/fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.LAIMIFA/ido/fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
   filename: fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
   region: Global
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2018-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-6db988aff99881490c66/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-6db988aff99881490c66/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.LAICNFA/ido/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   filename: fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: weekly
   date: '2018-05-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-cf4c6d1a764da7c21191/fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-cf4c6d1a764da7c21191/fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.LAIMIFA/ido/fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
   filename: fw__miui_HM3Global_V9.5.2.0.LAIMIFA_8692ccc991_5.1.zip
   region: Global
@@ -141,7 +141,7 @@
 - branch: weekly
   date: '2018-05-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-cf4c6d1a764da7c21191/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-cf4c6d1a764da7c21191/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.LAICNFA/ido/fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   filename: fw__miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   region: China
@@ -151,7 +151,7 @@
 - branch: weekly
   date: '2018-04-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-fa3b4381974fea30ff4d/fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-fa3b4381974fea30ff4d/fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/ido/fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
   filename: fw__miui_HM3_8.4.26_b0aea895db_5.1.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: weekly
   date: '2018-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-9bcf816058f565b85568/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-9bcf816058f565b85568/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/ido/fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
   filename: fw__miui_HM3Global_8.4.19_85607774ae_5.1.zip
   region: Global
@@ -171,7 +171,7 @@
 - branch: weekly
   date: '2018-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-9bcf816058f565b85568/fw__miui_HM3_8.4.19_66e7232b17_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-9bcf816058f565b85568/fw__miui_HM3_8.4.19_66e7232b17_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.19/ido/fw__miui_HM3_8.4.19_66e7232b17_5.1.zip
   filename: fw__miui_HM3_8.4.19_66e7232b17_5.1.zip
   region: China
@@ -181,7 +181,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-f277731caf30f98c931b/fw__miui_HM3Global_8.4.12_b1fa0ce698_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-f277731caf30f98c931b/fw__miui_HM3Global_8.4.12_b1fa0ce698_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/ido/fw__miui_HM3Global_8.4.12_b1fa0ce698_5.1.zip
   filename: fw__miui_HM3Global_8.4.12_b1fa0ce698_5.1.zip
   region: Global
@@ -191,7 +191,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ido/releases/download/untagged-f277731caf30f98c931b/fw__miui_HM3_8.4.12_6fa9f27593_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-f277731caf30f98c931b/fw__miui_HM3_8.4.12_6fa9f27593_5.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/ido/fw__miui_HM3_8.4.12_6fa9f27593_5.1.zip
   filename: fw__miui_HM3_8.4.12_6fa9f27593_5.1.zip
   region: China

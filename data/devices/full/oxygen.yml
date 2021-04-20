@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-11-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-11.11.2019/fw_oxygen_miui_MIMAX2Global_V11.0.2.0.NDDMIXM_94263d6240_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/stable-11.11.2019/fw_oxygen_miui_MIMAX2Global_V11.0.2.0.NDDMIXM_94263d6240_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/oxygen/fw_oxygen_miui_MIMAX2Global_V11.0.2.0.NDDMIXM_94263d6240_7.1.zip
   filename: fw_oxygen_miui_MIMAX2Global_V11.0.2.0.NDDMIXM_94263d6240_7.1.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2019-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-06.11.2019/fw_oxygen_miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/stable-06.11.2019/fw_oxygen_miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/oxygen/fw_oxygen_miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_V11.0.2.0.NDDCNXM_192ff3e011_7.1.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-17.10.2019/fw_oxygen_miui_MIMAX2_9.10.10_049afb8889_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/weekly-17.10.2019/fw_oxygen_miui_MIMAX2_9.10.10_049afb8889_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/oxygen/fw_oxygen_miui_MIMAX2_9.10.10_049afb8889_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_9.10.10_049afb8889_7.1.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2019-07-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-08.07.2019/fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/stable-08.07.2019/fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/oxygen/fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-28.06.2019/fw_oxygen_miui_MIMAX2Global_9.6.27_b2aa7f7622_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/weekly-28.06.2019/fw_oxygen_miui_MIMAX2Global_9.6.27_b2aa7f7622_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/oxygen/fw_oxygen_miui_MIMAX2Global_9.6.27_b2aa7f7622_7.1.zip
   filename: fw_oxygen_miui_MIMAX2Global_9.6.27_b2aa7f7622_7.1.zip
   region: Global
@@ -51,7 +51,7 @@
 - branch: weekly
   date: '2019-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-10.05.2019/fw_oxygen_miui_MIMAX2Global_9.5.9_e2bf45cdf3_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/weekly-10.05.2019/fw_oxygen_miui_MIMAX2Global_9.5.9_e2bf45cdf3_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/oxygen/fw_oxygen_miui_MIMAX2Global_9.5.9_e2bf45cdf3_7.1.zip
   filename: fw_oxygen_miui_MIMAX2Global_9.5.9_e2bf45cdf3_7.1.zip
   region: Global
@@ -61,7 +61,7 @@
 - branch: weekly
   date: '2019-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-10.05.2019/fw_oxygen_miui_MIMAX2_9.5.9_d30a5ef905_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/weekly-10.05.2019/fw_oxygen_miui_MIMAX2_9.5.9_d30a5ef905_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/oxygen/fw_oxygen_miui_MIMAX2_9.5.9_d30a5ef905_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_9.5.9_d30a5ef905_7.1.zip
   region: China
@@ -71,7 +71,7 @@
 - branch: stable
   date: '2019-02-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-20.02.2019/fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/stable-20.02.2019/fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/oxygen/fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_V10.2.1.0.NDDCNXM_8776739820_7.1.zip
   region: China
@@ -81,7 +81,7 @@
 - branch: stable
   date: '2019-01-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-31.01.2019/fw_oxygen_miui_MIMAX2Global_V10.2.1.0.NDDMIXM_a0e82e598c_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/stable-31.01.2019/fw_oxygen_miui_MIMAX2Global_V10.2.1.0.NDDMIXM_a0e82e598c_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/oxygen/fw_oxygen_miui_MIMAX2Global_V10.2.1.0.NDDMIXM_a0e82e598c_7.1.zip
   filename: fw_oxygen_miui_MIMAX2Global_V10.2.1.0.NDDMIXM_a0e82e598c_7.1.zip
   region: Global
@@ -91,7 +91,7 @@
 - branch: weekly
   date: '2018-11-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-23.11.2018/fw_oxygen_miui_MIMAX2_8.11.22_5731295646_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/weekly-23.11.2018/fw_oxygen_miui_MIMAX2_8.11.22_5731295646_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/oxygen/fw_oxygen_miui_MIMAX2_8.11.22_5731295646_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_8.11.22_5731295646_7.1.zip
   region: China
@@ -101,7 +101,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-16.11.2018/fw_oxygen_miui_MIMAX2Global_8.11.15_540ac57798_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/weekly-16.11.2018/fw_oxygen_miui_MIMAX2Global_8.11.15_540ac57798_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/oxygen/fw_oxygen_miui_MIMAX2Global_8.11.15_540ac57798_7.1.zip
   filename: fw_oxygen_miui_MIMAX2Global_8.11.15_540ac57798_7.1.zip
   region: Global
@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-16.11.2018/fw_oxygen_miui_MIMAX2_8.11.15_21f097ceca_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/weekly-16.11.2018/fw_oxygen_miui_MIMAX2_8.11.15_21f097ceca_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/oxygen/fw_oxygen_miui_MIMAX2_8.11.15_21f097ceca_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_8.11.15_21f097ceca_7.1.zip
   region: China
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2018-11-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-09.11.2018/fw_oxygen_miui_MIMAX2_8.11.8_4dc7896ca9_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/weekly-09.11.2018/fw_oxygen_miui_MIMAX2_8.11.8_4dc7896ca9_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/oxygen/fw_oxygen_miui_MIMAX2_8.11.8_4dc7896ca9_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_8.11.8_4dc7896ca9_7.1.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: weekly
   date: '2018-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-05.11.2018/fw_oxygen_miui_MIMAX2_8.11.2_62b04581f6_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/weekly-05.11.2018/fw_oxygen_miui_MIMAX2_8.11.2_62b04581f6_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.2/oxygen/fw_oxygen_miui_MIMAX2_8.11.2_62b04581f6_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_8.11.2_62b04581f6_7.1.zip
   region: China
@@ -141,7 +141,7 @@
 - branch: weekly
   date: '2018-11-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/weekly-02.11.2018/fw_oxygen_miui_MIMAX2Global_8.11.1_482567e0fb_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/weekly-02.11.2018/fw_oxygen_miui_MIMAX2Global_8.11.1_482567e0fb_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.1/oxygen/fw_oxygen_miui_MIMAX2Global_8.11.1_482567e0fb_7.1.zip
   filename: fw_oxygen_miui_MIMAX2Global_8.11.1_482567e0fb_7.1.zip
   region: Global
@@ -151,7 +151,7 @@
 - branch: stable
   date: '2018-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-17.10.2018/fw_oxygen_miui_MIMAX2_V10.1.1.0.NDDCNFI_f4a080359e_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/stable-17.10.2018/fw_oxygen_miui_MIMAX2_V10.1.1.0.NDDCNFI_f4a080359e_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/oxygen/fw_oxygen_miui_MIMAX2_V10.1.1.0.NDDCNFI_f4a080359e_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_V10.1.1.0.NDDCNFI_f4a080359e_7.1.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: stable
   date: '2018-09-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/stable-05.09.2018/fw_oxygen_miui_MIMAX2Global_V9.6.3.0.NDDMIFD_8d7c35b638_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/stable-05.09.2018/fw_oxygen_miui_MIMAX2Global_V9.6.3.0.NDDMIFD_8d7c35b638_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/oxygen/fw_oxygen_miui_MIMAX2Global_V9.6.3.0.NDDMIFD_8d7c35b638_7.1.zip
   filename: fw_oxygen_miui_MIMAX2Global_V9.6.3.0.NDDMIFD_8d7c35b638_7.1.zip
   region: Global
@@ -171,7 +171,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-f12f5fdaa1e39896c68f/fw_oxygen_miui_MIMAX2Global_8.4.12_06a39be3c8_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/untagged-f12f5fdaa1e39896c68f/fw_oxygen_miui_MIMAX2Global_8.4.12_06a39be3c8_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/oxygen/fw_oxygen_miui_MIMAX2Global_8.4.12_06a39be3c8_7.1.zip
   filename: fw_oxygen_miui_MIMAX2Global_8.4.12_06a39be3c8_7.1.zip
   region: Global
@@ -181,7 +181,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_oxygen/releases/download/untagged-f12f5fdaa1e39896c68f/fw_oxygen_miui_MIMAX2_8.4.12_c3a3805186_7.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/untagged-f12f5fdaa1e39896c68f/fw_oxygen_miui_MIMAX2_8.4.12_c3a3805186_7.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/oxygen/fw_oxygen_miui_MIMAX2_8.4.12_c3a3805186_7.1.zip
   filename: fw_oxygen_miui_MIMAX2_8.4.12_c3a3805186_7.1.zip
   region: China

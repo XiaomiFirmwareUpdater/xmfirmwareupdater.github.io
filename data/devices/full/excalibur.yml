@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-24.02.2021/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-24.02.2021/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
   filename: fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
   region: India
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2021-02-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-23.02.2021/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-23.02.2021/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
   filename: fw_excalibur_miui_EXCALIBURINGlobal_V12.0.3.0.QJXINXM_5c1cdca846_10.0.zip
   region: India
@@ -21,7 +21,7 @@
 - branch: stable
   date: '2020-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-17.12.2020/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.2.0.QJXINXM_8eb634c887_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-17.12.2020/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.2.0.QJXINXM_8eb634c887_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.2.0.QJXINXM_8eb634c887_10.0.zip
   filename: fw_excalibur_miui_EXCALIBURINGlobal_V12.0.2.0.QJXINXM_8eb634c887_10.0.zip
   region: India
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2020-09-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-29.09.2020/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.1.0.QJXINXM_40cbf00495_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-29.09.2020/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.1.0.QJXINXM_40cbf00495_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.1.0.QJXINXM_40cbf00495_10.0.zip
   filename: fw_excalibur_miui_EXCALIBURINGlobal_V12.0.1.0.QJXINXM_40cbf00495_10.0.zip
   region: India
@@ -41,7 +41,7 @@
 - branch: stable
   date: '2020-07-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-16.07.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.4.0.QJXINXM_26aadb1521_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-16.07.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.4.0.QJXINXM_26aadb1521_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.4.0.QJXINXM_26aadb1521_10.0.zip
   filename: fw_excalibur_miui_EXCALIBURINGlobal_V11.0.4.0.QJXINXM_26aadb1521_10.0.zip
   region: India
@@ -51,7 +51,7 @@
 - branch: stable
   date: '2020-05-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-06.05.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.2.0.QJXINXM_bf0e807a47_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-06.05.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.2.0.QJXINXM_bf0e807a47_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.2.0.QJXINXM_bf0e807a47_10.0.zip
   filename: fw_excalibur_miui_EXCALIBURINGlobal_V11.0.2.0.QJXINXM_bf0e807a47_10.0.zip
   region: India
@@ -61,7 +61,7 @@
 - branch: stable
   date: '2020-04-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_excalibur/releases/download/stable-17.04.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-17.04.2020/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip
   filename: fw_excalibur_miui_EXCALIBURINGlobal_V11.0.1.0.QJXINXM_9a67a58fa2_10.0.zip
   region: India

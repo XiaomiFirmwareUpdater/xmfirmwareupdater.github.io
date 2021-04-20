@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-03-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-10.03.2021/fw_ginkgo_miui_GINKGOGlobal_V12.0.4.0.QCOMIXM_adbe100edd_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-10.03.2021/fw_ginkgo_miui_GINKGOGlobal_V12.0.4.0.QCOMIXM_adbe100edd_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOGlobal_V12.0.4.0.QCOMIXM_adbe100edd_10.0.zip
   filename: fw_ginkgo_miui_GINKGOGlobal_V12.0.4.0.QCOMIXM_adbe100edd_10.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2021-02-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-20.02.2021/fw_ginkgo_miui_GINKGO_V12.0.1.0.RCOCNXM_d885534244_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-20.02.2021/fw_ginkgo_miui_GINKGO_V12.0.1.0.RCOCNXM_d885534244_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGO_V12.0.1.0.RCOCNXM_d885534244_11.0.zip
   filename: fw_ginkgo_miui_GINKGO_V12.0.1.0.RCOCNXM_d885534244_11.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2021-04-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/weekly-16.04.2021/fw_ginkgo_miui_GINKGO_21.4.14_f69b5fd94f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/weekly-16.04.2021/fw_ginkgo_miui_GINKGO_21.4.14_f69b5fd94f_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/ginkgo/fw_ginkgo_miui_GINKGO_21.4.14_f69b5fd94f_11.0.zip
   filename: fw_ginkgo_miui_GINKGO_21.4.14_f69b5fd94f_11.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2021-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-19.04.2021/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.6.0.QCOEUXM_e152be6842_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-19.04.2021/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.6.0.QCOEUXM_e152be6842_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.6.0.QCOEUXM_e152be6842_10.0.zip
   filename: fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.6.0.QCOEUXM_e152be6842_10.0.zip
   region: Europe
@@ -41,7 +41,7 @@
 - branch: stable
   date: '2021-01-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ginkgo/releases/download/stable-28.01.2021/fw_ginkgo_miui_GINKGOINGlobal_V12.0.2.0.QCOINXM_e2889b8fd0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-28.01.2021/fw_ginkgo_miui_GINKGOINGlobal_V12.0.2.0.QCOINXM_e2889b8fd0_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V12.0.2.0.QCOINXM_e2889b8fd0_10.0.zip
   filename: fw_ginkgo_miui_GINKGOINGlobal_V12.0.2.0.QCOINXM_e2889b8fd0_10.0.zip
   region: India

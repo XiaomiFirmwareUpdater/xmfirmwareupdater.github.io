@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_sweetin/releases/download/stable-11.04.2021/fw_sweetin_miui_SWEETININGlobal_V12.0.8.0.RKFINXM_4813f7191d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-11.04.2021/fw_sweetin_miui_SWEETININGlobal_V12.0.8.0.RKFINXM_4813f7191d_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweetin/fw_sweetin_miui_SWEETININGlobal_V12.0.8.0.RKFINXM_4813f7191d_11.0.zip
   filename: fw_sweetin_miui_SWEETININGlobal_V12.0.8.0.RKFINXM_4813f7191d_11.0.zip
   region: India

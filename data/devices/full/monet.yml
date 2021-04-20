@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-06.04.2021/fw_monet_miui_MONETEEAGlobal_V12.1.5.0.RJIEUXM_b275bd8c7b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-06.04.2021/fw_monet_miui_MONETEEAGlobal_V12.1.5.0.RJIEUXM_b275bd8c7b_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.1.5.0.RJIEUXM_b275bd8c7b_11.0.zip
   filename: fw_monet_miui_MONETEEAGlobal_V12.1.5.0.RJIEUXM_b275bd8c7b_11.0.zip
   region: Europe
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-06.04.2021/fw_monet_miui_MONETGlobal_V12.1.4.0.RJIMIXM_f299c46cfa_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-06.04.2021/fw_monet_miui_MONETGlobal_V12.1.4.0.RJIMIXM_f299c46cfa_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.1.4.0.RJIMIXM_f299c46cfa_11.0.zip
   filename: fw_monet_miui_MONETGlobal_V12.1.4.0.RJIMIXM_f299c46cfa_11.0.zip
   region: Global
@@ -21,7 +21,7 @@
 - branch: stable
   date: '2021-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-08.01.2021/fw_monet_miui_MONETEEAGlobal_V12.1.3.0.RJIEUXM_1969f40951_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-08.01.2021/fw_monet_miui_MONETEEAGlobal_V12.1.3.0.RJIEUXM_1969f40951_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.1.3.0.RJIEUXM_1969f40951_11.0.zip
   filename: fw_monet_miui_MONETEEAGlobal_V12.1.3.0.RJIEUXM_1969f40951_11.0.zip
   region: Europe
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2020-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-04.12.2020/fw_monet_miui_MONETGlobal_V12.1.1.0.RJIMIXM_ca34271367_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-04.12.2020/fw_monet_miui_MONETGlobal_V12.1.1.0.RJIMIXM_ca34271367_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.1.1.0.RJIMIXM_ca34271367_11.0.zip
   filename: fw_monet_miui_MONETGlobal_V12.1.1.0.RJIMIXM_ca34271367_11.0.zip
   region: Global
@@ -41,7 +41,7 @@
 - branch: stable
   date: '2020-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-28.10.2020/fw_monet_miui_MONETEEAGlobal_V12.0.3.0.QJIEUXM_31a34bf096_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-28.10.2020/fw_monet_miui_MONETEEAGlobal_V12.0.3.0.QJIEUXM_31a34bf096_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.0.3.0.QJIEUXM_31a34bf096_10.0.zip
   filename: fw_monet_miui_MONETEEAGlobal_V12.0.3.0.QJIEUXM_31a34bf096_10.0.zip
   region: Europe
@@ -51,7 +51,7 @@
 - branch: stable
   date: '2020-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-28.10.2020/fw_monet_miui_MONETGlobal_V12.0.2.0.QJIMIXM_d2c28e07f9_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-28.10.2020/fw_monet_miui_MONETGlobal_V12.0.2.0.QJIMIXM_d2c28e07f9_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.0.2.0.QJIMIXM_d2c28e07f9_10.0.zip
   filename: fw_monet_miui_MONETGlobal_V12.0.2.0.QJIMIXM_d2c28e07f9_10.0.zip
   region: Global
@@ -61,7 +61,7 @@
 - branch: stable
   date: '2020-09-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-10.09.2020/fw_monet_miui_MONETGlobal_V12.0.1.0.QJIMIXM_be919da9b6_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-10.09.2020/fw_monet_miui_MONETGlobal_V12.0.1.0.QJIMIXM_be919da9b6_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.0.1.0.QJIMIXM_be919da9b6_10.0.zip
   filename: fw_monet_miui_MONETGlobal_V12.0.1.0.QJIMIXM_be919da9b6_10.0.zip
   region: Global
@@ -71,7 +71,7 @@
 - branch: stable
   date: '2020-09-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-04.09.2020/fw_monet_miui_MONETEEAGlobal_V12.0.2.0.QJIEUXM_12bc504f22_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-04.09.2020/fw_monet_miui_MONETEEAGlobal_V12.0.2.0.QJIEUXM_12bc504f22_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.0.2.0.QJIEUXM_12bc504f22_10.0.zip
   filename: fw_monet_miui_MONETEEAGlobal_V12.0.2.0.QJIEUXM_12bc504f22_10.0.zip
   region: Europe
@@ -81,7 +81,7 @@
 - branch: stable
   date: '2020-07-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-20.07.2020/fw_monet_miui_MONETEEAGlobal_V12.0.1.0.QJIEUXM_da05579edc_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-20.07.2020/fw_monet_miui_MONETEEAGlobal_V12.0.1.0.QJIEUXM_da05579edc_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.0.1.0.QJIEUXM_da05579edc_10.0.zip
   filename: fw_monet_miui_MONETEEAGlobal_V12.0.1.0.QJIEUXM_da05579edc_10.0.zip
   region: Europe
@@ -91,7 +91,7 @@
 - branch: stable
   date: '2020-06-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-30.06.2020/fw_monet_miui_MONETGlobal_V11.0.4.0.QJIMIXM_7e9d77c86e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-30.06.2020/fw_monet_miui_MONETGlobal_V11.0.4.0.QJIMIXM_7e9d77c86e_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/monet/fw_monet_miui_MONETGlobal_V11.0.4.0.QJIMIXM_7e9d77c86e_10.0.zip
   filename: fw_monet_miui_MONETGlobal_V11.0.4.0.QJIMIXM_7e9d77c86e_10.0.zip
   region: Global
@@ -101,7 +101,7 @@
 - branch: stable
   date: '2020-06-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_monet/releases/download/stable-24.06.2020/fw_monet_miui_MONETEEAGlobal_V11.0.11.0.QJIEUXM_fd46cb282f_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-24.06.2020/fw_monet_miui_MONETEEAGlobal_V11.0.11.0.QJIEUXM_fd46cb282f_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/monet/fw_monet_miui_MONETEEAGlobal_V11.0.11.0.QJIEUXM_fd46cb282f_10.0.zip
   filename: fw_monet_miui_MONETEEAGlobal_V11.0.11.0.QJIEUXM_fd46cb282f_10.0.zip
   region: Europe

@@ -1,7 +1,7 @@
 - branch: weekly
   date: '2019-09-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-02.09.2019/fw_clover_miui_MIPAD4_9.8.29_6647b25a58_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/weekly-02.09.2019/fw_clover_miui_MIPAD4_9.8.29_6647b25a58_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.29/clover/fw_clover_miui_MIPAD4_9.8.29_6647b25a58_8.1.zip
   filename: fw_clover_miui_MIPAD4_9.8.29_6647b25a58_8.1.zip
   region: China
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2019-07-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/stable-15.07.2019/fw_clover_miui_MIPAD4_V10.3.2.0.ODJCNXM_371ac63e9e_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/stable-15.07.2019/fw_clover_miui_MIPAD4_V10.3.2.0.ODJCNXM_371ac63e9e_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/clover/fw_clover_miui_MIPAD4_V10.3.2.0.ODJCNXM_371ac63e9e_8.1.zip
   filename: fw_clover_miui_MIPAD4_V10.3.2.0.ODJCNXM_371ac63e9e_8.1.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: stable
   date: '2018-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/stable-19.11.2018/fw_clover_miui_MIPAD4_V10.1.1.0.ODJCNFI_326170d0d2_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/stable-19.11.2018/fw_clover_miui_MIPAD4_V10.1.1.0.ODJCNFI_326170d0d2_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/clover/fw_clover_miui_MIPAD4_V10.1.1.0.ODJCNFI_326170d0d2_8.1.zip
   filename: fw_clover_miui_MIPAD4_V10.1.1.0.ODJCNFI_326170d0d2_8.1.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-16.11.2018/fw_clover_miui_MIPAD4_8.11.15_1ad1091223_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/weekly-16.11.2018/fw_clover_miui_MIPAD4_8.11.15_1ad1091223_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/clover/fw_clover_miui_MIPAD4_8.11.15_1ad1091223_8.1.zip
   filename: fw_clover_miui_MIPAD4_8.11.15_1ad1091223_8.1.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2018-10-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-26.10.2018/fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/weekly-26.10.2018/fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/clover/fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip
   filename: fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip
   region: China
@@ -51,7 +51,7 @@
 - branch: stable
   date: '2018-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/stable-17.09.2018/fw_clover_miui_MIPAD4_V9.6.27.0.ODJCNFD_dc3928f92d_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/stable-17.09.2018/fw_clover_miui_MIPAD4_V9.6.27.0.ODJCNFD_dc3928f92d_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/clover/fw_clover_miui_MIPAD4_V9.6.27.0.ODJCNFD_dc3928f92d_8.1.zip
   filename: fw_clover_miui_MIPAD4_V9.6.27.0.ODJCNFD_dc3928f92d_8.1.zip
   region: China
@@ -61,7 +61,7 @@
 - branch: stable
   date: '2018-09-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/stable-03.09.2018/fw_clover_miui_MIPAD4_V9.6.26.0.ODJCNFD_ccb12222cb_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/stable-03.09.2018/fw_clover_miui_MIPAD4_V9.6.26.0.ODJCNFD_ccb12222cb_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/clover/fw_clover_miui_MIPAD4_V9.6.26.0.ODJCNFD_ccb12222cb_8.1.zip
   filename: fw_clover_miui_MIPAD4_V9.6.26.0.ODJCNFD_ccb12222cb_8.1.zip
   region: China
@@ -71,7 +71,7 @@
 - branch: stable
   date: '2018-07-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/stable-31.07.2018/fw_clover_miui_MIPAD4_V9.6.8.0.ODJCNFD_966147d92c_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/stable-31.07.2018/fw_clover_miui_MIPAD4_V9.6.8.0.ODJCNFD_966147d92c_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/clover/fw_clover_miui_MIPAD4_V9.6.8.0.ODJCNFD_966147d92c_8.1.zip
   filename: fw_clover_miui_MIPAD4_V9.6.8.0.ODJCNFD_966147d92c_8.1.zip
   region: China
@@ -81,7 +81,7 @@
 - branch: weekly
   date: '2018-07-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_clover/releases/download/weekly-20.07.2018/fw_clover_miui_MIPAD4_8.7.12_57b3e445de_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/weekly-20.07.2018/fw_clover_miui_MIPAD4_8.7.12_57b3e445de_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.12/clover/fw_clover_miui_MIPAD4_8.7.12_57b3e445de_8.1.zip
   filename: fw_clover_miui_MIPAD4_8.7.12_57b3e445de_8.1.zip
   region: China

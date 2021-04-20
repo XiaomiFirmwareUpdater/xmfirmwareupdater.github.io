@@ -1,7 +1,7 @@
 - branch: stable
   date: '2020-09-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-23.09.2020/fw_cereus_miui_HM6Global_V11.0.5.0.PCGMIXM_492a4cb4f5_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cereus/releases/download/stable-23.09.2020/fw_cereus_miui_HM6Global_V11.0.5.0.PCGMIXM_492a4cb4f5_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cereus/fw_cereus_miui_HM6Global_V11.0.5.0.PCGMIXM_492a4cb4f5_9.0.zip
   filename: fw_cereus_miui_HM6Global_V11.0.5.0.PCGMIXM_492a4cb4f5_9.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2020-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/stable-01.04.2020/fw_cereus_miui_HM6_V11.0.4.0.PCGCNXM_8ab510b0e5_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cereus/releases/download/stable-01.04.2020/fw_cereus_miui_HM6_V11.0.4.0.PCGCNXM_8ab510b0e5_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cereus/fw_cereus_miui_HM6_V11.0.4.0.PCGCNXM_8ab510b0e5_9.0.zip
   filename: fw_cereus_miui_HM6_V11.0.4.0.PCGCNXM_8ab510b0e5_9.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2020-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cereus/releases/download/weekly-09.01.2020/fw_cereus_miui_HM6_20.1.9_61839f0578_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cereus/releases/download/weekly-09.01.2020/fw_cereus_miui_HM6_20.1.9_61839f0578_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/cereus/fw_cereus_miui_HM6_20.1.9_61839f0578_9.0.zip
   filename: fw_cereus_miui_HM6_20.1.9_61839f0578_9.0.zip
   region: China

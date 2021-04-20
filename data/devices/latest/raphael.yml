@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-03-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-04.03.2021/fw_raphael_miui_RAPHAELGlobal_V12.0.5.0.QFKMIXM_5cb75a04e5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-04.03.2021/fw_raphael_miui_RAPHAELGlobal_V12.0.5.0.QFKMIXM_5cb75a04e5_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELGlobal_V12.0.5.0.QFKMIXM_5cb75a04e5_10.0.zip
   filename: fw_raphael_miui_RAPHAELGlobal_V12.0.5.0.QFKMIXM_5cb75a04e5_10.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2020-12-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-18.12.2020/fw_raphael_miui_RAPHAEL_V12.0.6.0.QFKCNXM_c6d3a0b658_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-18.12.2020/fw_raphael_miui_RAPHAEL_V12.0.6.0.QFKCNXM_c6d3a0b658_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAEL_V12.0.6.0.QFKCNXM_c6d3a0b658_10.0.zip
   filename: fw_raphael_miui_RAPHAEL_V12.0.6.0.QFKCNXM_c6d3a0b658_10.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2021-04-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/weekly-16.04.2021/fw_raphael_miui_RAPHAEL_21.4.14_f5721ccead_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/weekly-16.04.2021/fw_raphael_miui_RAPHAEL_21.4.14_f5721ccead_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/raphael/fw_raphael_miui_RAPHAEL_21.4.14_f5721ccead_11.0.zip
   filename: fw_raphael_miui_RAPHAEL_21.4.14_f5721ccead_11.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2021-01-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_raphael/releases/download/stable-25.01.2021/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.4.0.QFKEUXM_4087debc4c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-25.01.2021/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.4.0.QFKEUXM_4087debc4c_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.4.0.QFKEUXM_4087debc4c_10.0.zip
   filename: fw_raphael_miui_RAPHAELEEAGlobal_V12.0.4.0.QFKEUXM_4087debc4c_10.0.zip
   region: Europe

@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-12.04.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.4.0.QJCMIXM_83136e8623_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-12.04.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.4.0.QJCMIXM_83136e8623_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.4.0.QJCMIXM_83136e8623_10.0.zip
   filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.4.0.QJCMIXM_83136e8623_10.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-08.04.2021/fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.2.0.QJCEUXM_e4cf856413_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-08.04.2021/fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.2.0.QJCEUXM_e4cf856413_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.2.0.QJCEUXM_e4cf856413_10.0.zip
   filename: fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.2.0.QJCEUXM_e4cf856413_10.0.zip
   region: Europe
@@ -21,7 +21,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-01.04.2021/fw_lancelot_miui_LANCELOT_V12.0.8.0.QJCCNXM_97108a9b83_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-01.04.2021/fw_lancelot_miui_LANCELOT_V12.0.8.0.QJCCNXM_97108a9b83_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOT_V12.0.8.0.QJCCNXM_97108a9b83_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V12.0.8.0.QJCCNXM_97108a9b83_10.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-29.03.2021/fw_lancelot_miui_LANCELOTINGlobal_V12.0.2.0.QJCINXM_ca29dae1b0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-29.03.2021/fw_lancelot_miui_LANCELOTINGlobal_V12.0.2.0.QJCINXM_ca29dae1b0_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V12.0.2.0.QJCINXM_ca29dae1b0_10.0.zip
   filename: fw_lancelot_miui_LANCELOTINGlobal_V12.0.2.0.QJCINXM_ca29dae1b0_10.0.zip
   region: India
@@ -41,7 +41,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-02.03.2021/fw_lancelot_miui_LANCELOT_V12.0.7.0.QJCCNXM_07ac7287d0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-02.03.2021/fw_lancelot_miui_LANCELOT_V12.0.7.0.QJCCNXM_07ac7287d0_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOT_V12.0.7.0.QJCCNXM_07ac7287d0_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V12.0.7.0.QJCCNXM_07ac7287d0_10.0.zip
   region: China
@@ -51,7 +51,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-03.02.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-03.02.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
   filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
   region: Global
@@ -61,7 +61,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-25.01.2021/fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.1.0.QJCEUXM_77fd23f7f7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-25.01.2021/fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.1.0.QJCEUXM_77fd23f7f7_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.1.0.QJCEUXM_77fd23f7f7_10.0.zip
   filename: fw_lancelot_miui_LANCELOTEEAGlobal_V12.0.1.0.QJCEUXM_77fd23f7f7_10.0.zip
   region: Europe
@@ -71,7 +71,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-12.01.2021/fw_lancelot_miui_LANCELOTINGlobal_V12.0.1.0.QJCINXM_ce2e31daa1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-12.01.2021/fw_lancelot_miui_LANCELOTINGlobal_V12.0.1.0.QJCINXM_ce2e31daa1_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V12.0.1.0.QJCINXM_ce2e31daa1_10.0.zip
   filename: fw_lancelot_miui_LANCELOTINGlobal_V12.0.1.0.QJCINXM_ce2e31daa1_10.0.zip
   region: India
@@ -81,7 +81,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-06.01.2021/fw_lancelot_miui_LANCELOT_V12.0.6.0.QJCCNXM_33a88e092b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-06.01.2021/fw_lancelot_miui_LANCELOT_V12.0.6.0.QJCCNXM_33a88e092b_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOT_V12.0.6.0.QJCCNXM_33a88e092b_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V12.0.6.0.QJCCNXM_33a88e092b_10.0.zip
   region: China
@@ -91,7 +91,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-24.12.2020/fw_lancelot_miui_LANCELOTGlobal_V12.0.2.0.QJCMIXM_1e6c7b7a38_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-24.12.2020/fw_lancelot_miui_LANCELOTGlobal_V12.0.2.0.QJCMIXM_1e6c7b7a38_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.2.0.QJCMIXM_1e6c7b7a38_10.0.zip
   filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.2.0.QJCMIXM_1e6c7b7a38_10.0.zip
   region: Global
@@ -101,7 +101,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-10.12.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.9.0.QJCEUXM_239fd3ba13_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-10.12.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.9.0.QJCEUXM_239fd3ba13_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.9.0.QJCEUXM_239fd3ba13_10.0.zip
   filename: fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.9.0.QJCEUXM_239fd3ba13_10.0.zip
   region: Europe
@@ -111,7 +111,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-26.11.2020/fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.QJCMIXM_0698fe5654_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-26.11.2020/fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.QJCMIXM_0698fe5654_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.QJCMIXM_0698fe5654_10.0.zip
   filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.QJCMIXM_0698fe5654_10.0.zip
   region: Global
@@ -121,7 +121,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-23.11.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.9.0.QJCMIXM_5331114c25_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-23.11.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.9.0.QJCMIXM_5331114c25_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTGlobal_V11.0.9.0.QJCMIXM_5331114c25_10.0.zip
   filename: fw_lancelot_miui_LANCELOTGlobal_V11.0.9.0.QJCMIXM_5331114c25_10.0.zip
   region: Global
@@ -131,7 +131,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-12.11.2020/fw_lancelot_miui_LANCELOTINGlobal_V11.0.6.0.QJCINXM_7ef64c03a3_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-12.11.2020/fw_lancelot_miui_LANCELOTINGlobal_V11.0.6.0.QJCINXM_7ef64c03a3_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V11.0.6.0.QJCINXM_7ef64c03a3_10.0.zip
   filename: fw_lancelot_miui_LANCELOTINGlobal_V11.0.6.0.QJCINXM_7ef64c03a3_10.0.zip
   region: India
@@ -141,7 +141,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-26.10.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.8.0.QJCMIXM_a7aead523b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-26.10.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.8.0.QJCMIXM_a7aead523b_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTGlobal_V11.0.8.0.QJCMIXM_a7aead523b_10.0.zip
   filename: fw_lancelot_miui_LANCELOTGlobal_V11.0.8.0.QJCMIXM_a7aead523b_10.0.zip
   region: Global
@@ -151,7 +151,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-27.09.2020/fw_lancelot_miui_LANCELOT_V12.0.4.0.QJCCNXM_c97f5caa5e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-27.09.2020/fw_lancelot_miui_LANCELOT_V12.0.4.0.QJCCNXM_c97f5caa5e_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOT_V12.0.4.0.QJCCNXM_c97f5caa5e_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V12.0.4.0.QJCCNXM_c97f5caa5e_10.0.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-20.09.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.8.0.QJCEUXM_73ec49317c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-20.09.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.8.0.QJCEUXM_73ec49317c_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.8.0.QJCEUXM_73ec49317c_10.0.zip
   filename: fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.8.0.QJCEUXM_73ec49317c_10.0.zip
   region: Europe
@@ -171,7 +171,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-17.09.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.5.0.QJCMIXM_672b562f4a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-17.09.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.5.0.QJCMIXM_672b562f4a_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTGlobal_V11.0.5.0.QJCMIXM_672b562f4a_10.0.zip
   filename: fw_lancelot_miui_LANCELOTGlobal_V11.0.5.0.QJCMIXM_672b562f4a_10.0.zip
   region: Global
@@ -181,7 +181,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-16.09.2020/fw_lancelot_miui_LANCELOTINGlobal_V11.0.4.0.QJCINXM_7c06f672bb_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-16.09.2020/fw_lancelot_miui_LANCELOTINGlobal_V11.0.4.0.QJCINXM_7c06f672bb_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V11.0.4.0.QJCINXM_7c06f672bb_10.0.zip
   filename: fw_lancelot_miui_LANCELOTINGlobal_V11.0.4.0.QJCINXM_7c06f672bb_10.0.zip
   region: India
@@ -191,7 +191,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-03.09.2020/fw_lancelot_miui_LANCELOTINGlobal_V11.0.2.0.QJCINXM_9efa072612_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-03.09.2020/fw_lancelot_miui_LANCELOTINGlobal_V11.0.2.0.QJCINXM_9efa072612_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V11.0.2.0.QJCINXM_9efa072612_10.0.zip
   filename: fw_lancelot_miui_LANCELOTINGlobal_V11.0.2.0.QJCINXM_9efa072612_10.0.zip
   region: India
@@ -201,7 +201,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-27.08.2020/fw_lancelot_miui_LANCELOT_V11.0.7.0.QJCCNXM_f5becd3110_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-27.08.2020/fw_lancelot_miui_LANCELOT_V11.0.7.0.QJCCNXM_f5becd3110_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOT_V11.0.7.0.QJCCNXM_f5becd3110_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V11.0.7.0.QJCCNXM_f5becd3110_10.0.zip
   region: China
@@ -211,7 +211,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-14.08.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.5.0.QJCEUXM_ec3a4c98d9_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-14.08.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.5.0.QJCEUXM_ec3a4c98d9_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.5.0.QJCEUXM_ec3a4c98d9_10.0.zip
   filename: fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.5.0.QJCEUXM_ec3a4c98d9_10.0.zip
   region: Europe
@@ -221,7 +221,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-14.08.2020/fw_lancelot_miui_LANCELOT_V11.0.5.0.QJCCNXM_1fc09d6ff1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-14.08.2020/fw_lancelot_miui_LANCELOT_V11.0.5.0.QJCCNXM_1fc09d6ff1_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOT_V11.0.5.0.QJCCNXM_1fc09d6ff1_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V11.0.5.0.QJCCNXM_1fc09d6ff1_10.0.zip
   region: China
@@ -231,7 +231,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-27.07.2020/fw_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-27.07.2020/fw_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V12.0.1.0.QJCCNXM_79579275a0_10.0.zip
   region: China
@@ -241,7 +241,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-14.07.2020/fw_lancelot_miui_LANCELOT_V11.0.4.0.QJCCNXM_89fd8abc76_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-14.07.2020/fw_lancelot_miui_LANCELOT_V11.0.4.0.QJCCNXM_89fd8abc76_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOT_V11.0.4.0.QJCCNXM_89fd8abc76_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V11.0.4.0.QJCCNXM_89fd8abc76_10.0.zip
   region: China
@@ -251,7 +251,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-09.07.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.4.0.QJCEUXM_ba81fce5be_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-09.07.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.4.0.QJCEUXM_ba81fce5be_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.4.0.QJCEUXM_ba81fce5be_10.0.zip
   filename: fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.4.0.QJCEUXM_ba81fce5be_10.0.zip
   region: Europe
@@ -261,7 +261,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-07.07.2020/fw_lancelot_miui_LANCELOT_V11.0.2.0.QJCCNXM_8f3a1ce339_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-07.07.2020/fw_lancelot_miui_LANCELOT_V11.0.2.0.QJCCNXM_8f3a1ce339_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOT_V11.0.2.0.QJCCNXM_8f3a1ce339_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V11.0.2.0.QJCCNXM_8f3a1ce339_10.0.zip
   region: China
@@ -271,7 +271,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-06.07.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.4.0.QJCMIXM_aeff7a8f3a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-06.07.2020/fw_lancelot_miui_LANCELOTGlobal_V11.0.4.0.QJCMIXM_aeff7a8f3a_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTGlobal_V11.0.4.0.QJCMIXM_aeff7a8f3a_10.0.zip
   filename: fw_lancelot_miui_LANCELOTGlobal_V11.0.4.0.QJCMIXM_aeff7a8f3a_10.0.zip
   region: Global
@@ -281,7 +281,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-06.07.2020/fw_lancelot_miui_LANCELOT_V11.0.3.0.QJCCNXM_5a43c7bcb0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-06.07.2020/fw_lancelot_miui_LANCELOT_V11.0.3.0.QJCCNXM_5a43c7bcb0_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOT_V11.0.3.0.QJCCNXM_5a43c7bcb0_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V11.0.3.0.QJCCNXM_5a43c7bcb0_10.0.zip
   region: China
@@ -291,7 +291,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-02.07.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.3.0.QJCEUXM_75621db71c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-02.07.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.3.0.QJCEUXM_75621db71c_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.3.0.QJCEUXM_75621db71c_10.0.zip
   filename: fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.3.0.QJCEUXM_75621db71c_10.0.zip
   region: Europe
@@ -301,7 +301,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-26.06.2020/fw_lancelot_miui_LANCELOT_V11.0.1.0.QJCCNXM_a6dd571ce0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-26.06.2020/fw_lancelot_miui_LANCELOT_V11.0.1.0.QJCCNXM_a6dd571ce0_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOT_V11.0.1.0.QJCCNXM_a6dd571ce0_10.0.zip
   filename: fw_lancelot_miui_LANCELOT_V11.0.1.0.QJCCNXM_a6dd571ce0_10.0.zip
   region: China
@@ -311,7 +311,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lancelot/releases/download/stable-16.06.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.2.0.QJCEUXM_638aff99b4_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-16.06.2020/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.2.0.QJCEUXM_638aff99b4_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.2.0.QJCEUXM_638aff99b4_10.0.zip
   filename: fw_lancelot_miui_LANCELOTEEAGlobal_V11.0.2.0.QJCEUXM_638aff99b4_10.0.zip
   region: Europe

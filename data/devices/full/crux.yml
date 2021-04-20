@@ -1,7 +1,7 @@
 - branch: weekly
   date: '2021-04-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-16.04.2021/fw_crux_miui_CRUX_21.4.14_4ab7b94274_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-16.04.2021/fw_crux_miui_CRUX_21.4.14_4ab7b94274_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/crux/fw_crux_miui_CRUX_21.4.14_4ab7b94274_11.0.zip
   filename: fw_crux_miui_CRUX_21.4.14_4ab7b94274_11.0.zip
   region: China
@@ -11,7 +11,7 @@
 - branch: weekly
   date: '2021-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-08.04.2021/fw_crux_miui_CRUX_21.4.7_294829da2d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-08.04.2021/fw_crux_miui_CRUX_21.4.7_294829da2d_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/crux/fw_crux_miui_CRUX_21.4.7_294829da2d_11.0.zip
   filename: fw_crux_miui_CRUX_21.4.7_294829da2d_11.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2021-03-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-27.03.2021/fw_crux_miui_CRUX_21.3.24_ca9211d293_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-27.03.2021/fw_crux_miui_CRUX_21.3.24_ca9211d293_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/crux/fw_crux_miui_CRUX_21.3.24_ca9211d293_11.0.zip
   filename: fw_crux_miui_CRUX_21.3.24_ca9211d293_11.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2021-03-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-18.03.2021/fw_crux_miui_CRUX_21.3.18_e20fc13c65_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-18.03.2021/fw_crux_miui_CRUX_21.3.18_e20fc13c65_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.18/crux/fw_crux_miui_CRUX_21.3.18_e20fc13c65_11.0.zip
   filename: fw_crux_miui_CRUX_21.3.18_e20fc13c65_11.0.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-12.03.2021/fw_crux_miui_CRUX_21.3.10_1d51d671d3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-12.03.2021/fw_crux_miui_CRUX_21.3.10_1d51d671d3_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/crux/fw_crux_miui_CRUX_21.3.10_1d51d671d3_11.0.zip
   filename: fw_crux_miui_CRUX_21.3.10_1d51d671d3_11.0.zip
   region: China
@@ -51,7 +51,7 @@
 - branch: weekly
   date: '2021-03-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-05.03.2021/fw_crux_miui_CRUX_21.3.3_dcc58ec912_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-05.03.2021/fw_crux_miui_CRUX_21.3.3_dcc58ec912_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/crux/fw_crux_miui_CRUX_21.3.3_dcc58ec912_11.0.zip
   filename: fw_crux_miui_CRUX_21.3.3_dcc58ec912_11.0.zip
   region: China
@@ -61,7 +61,7 @@
 - branch: weekly
   date: '2021-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-25.02.2021/fw_crux_miui_CRUX_21.2.24_6c9eb27918_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-25.02.2021/fw_crux_miui_CRUX_21.2.24_6c9eb27918_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/crux/fw_crux_miui_CRUX_21.2.24_6c9eb27918_11.0.zip
   filename: fw_crux_miui_CRUX_21.2.24_6c9eb27918_11.0.zip
   region: China
@@ -71,7 +71,7 @@
 - branch: weekly
   date: '2021-01-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-29.01.2021/fw_crux_miui_CRUX_21.1.28_caef0c3825_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-29.01.2021/fw_crux_miui_CRUX_21.1.28_caef0c3825_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/crux/fw_crux_miui_CRUX_21.1.28_caef0c3825_11.0.zip
   filename: fw_crux_miui_CRUX_21.1.28_caef0c3825_11.0.zip
   region: China
@@ -81,7 +81,7 @@
 - branch: weekly
   date: '2021-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-23.01.2021/fw_crux_miui_CRUX_21.1.20_fbb1ef06e6_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-23.01.2021/fw_crux_miui_CRUX_21.1.20_fbb1ef06e6_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/crux/fw_crux_miui_CRUX_21.1.20_fbb1ef06e6_11.0.zip
   filename: fw_crux_miui_CRUX_21.1.20_fbb1ef06e6_11.0.zip
   region: China
@@ -91,7 +91,7 @@
 - branch: weekly
   date: '2021-01-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-15.01.2021/fw_crux_miui_CRUX_21.1.14_c795ea8a32_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-15.01.2021/fw_crux_miui_CRUX_21.1.14_c795ea8a32_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.14/crux/fw_crux_miui_CRUX_21.1.14_c795ea8a32_11.0.zip
   filename: fw_crux_miui_CRUX_21.1.14_c795ea8a32_11.0.zip
   region: China
@@ -101,7 +101,7 @@
 - branch: weekly
   date: '2021-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-08.01.2021/fw_crux_miui_CRUX_21.1.7_6cd4f370df_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-08.01.2021/fw_crux_miui_CRUX_21.1.7_6cd4f370df_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.7/crux/fw_crux_miui_CRUX_21.1.7_6cd4f370df_11.0.zip
   filename: fw_crux_miui_CRUX_21.1.7_6cd4f370df_11.0.zip
   region: China
@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2020-12-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-10.12.2020/fw_crux_miui_CRUX_20.12.9_2aad67c98f_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-10.12.2020/fw_crux_miui_CRUX_20.12.9_2aad67c98f_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.9/crux/fw_crux_miui_CRUX_20.12.9_2aad67c98f_10.0.zip
   filename: fw_crux_miui_CRUX_20.12.9_2aad67c98f_10.0.zip
   region: China
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2020-12-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-03.12.2020/fw_crux_miui_CRUX_20.12.2_1bbcf63de4_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-03.12.2020/fw_crux_miui_CRUX_20.12.2_1bbcf63de4_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/crux/fw_crux_miui_CRUX_20.12.2_1bbcf63de4_10.0.zip
   filename: fw_crux_miui_CRUX_20.12.2_1bbcf63de4_10.0.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: stable
   date: '2020-12-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-02.12.2020/fw_crux_miui_CRUX_V12.0.5.0.QFXCNXM_63357f4009_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/stable-02.12.2020/fw_crux_miui_CRUX_V12.0.5.0.QFXCNXM_63357f4009_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/crux/fw_crux_miui_CRUX_V12.0.5.0.QFXCNXM_63357f4009_10.0.zip
   filename: fw_crux_miui_CRUX_V12.0.5.0.QFXCNXM_63357f4009_10.0.zip
   region: China
@@ -141,7 +141,7 @@
 - branch: weekly
   date: '2020-11-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-12.11.2020/fw_crux_miui_CRUX_20.11.11_0224ecf446_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-12.11.2020/fw_crux_miui_CRUX_20.11.11_0224ecf446_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.11/crux/fw_crux_miui_CRUX_20.11.11_0224ecf446_10.0.zip
   filename: fw_crux_miui_CRUX_20.11.11_0224ecf446_10.0.zip
   region: China
@@ -151,7 +151,7 @@
 - branch: stable
   date: '2020-07-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-14.07.2020/fw_crux_miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/stable-14.07.2020/fw_crux_miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/crux/fw_crux_miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip
   filename: fw_crux_miui_CRUX_V12.0.1.0.QFXCNXM_5b10297d1e_10.0.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: stable
   date: '2020-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-22.06.2020/fw_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/stable-22.06.2020/fw_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/crux/fw_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
   filename: fw_crux_miui_CRUX_V12.0.2.0.QFXCNXM_1d03981a42_10.0.zip
   region: China
@@ -171,7 +171,7 @@
 - branch: weekly
   date: '2020-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-05.06.2020/fw_crux_miui_CRUX_20.6.4_ef61367521_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-05.06.2020/fw_crux_miui_CRUX_20.6.4_ef61367521_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/crux/fw_crux_miui_CRUX_20.6.4_ef61367521_10.0.zip
   filename: fw_crux_miui_CRUX_20.6.4_ef61367521_10.0.zip
   region: China
@@ -181,7 +181,7 @@
 - branch: stable
   date: '2020-05-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-18.05.2020/fw_crux_miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/stable-18.05.2020/fw_crux_miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/crux/fw_crux_miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
   filename: fw_crux_miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
   region: China
@@ -191,7 +191,7 @@
 - branch: weekly
   date: '2020-03-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-26.03.2020/fw_crux_miui_CRUX_20.3.26_c0c51edef1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-26.03.2020/fw_crux_miui_CRUX_20.3.26_c0c51edef1_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/crux/fw_crux_miui_CRUX_20.3.26_c0c51edef1_10.0.zip
   filename: fw_crux_miui_CRUX_20.3.26_c0c51edef1_10.0.zip
   region: China
@@ -201,7 +201,7 @@
 - branch: weekly
   date: '2020-03-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-19.03.2020/fw_crux_miui_CRUX_20.3.19_c903eb34bf_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-19.03.2020/fw_crux_miui_CRUX_20.3.19_c903eb34bf_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/crux/fw_crux_miui_CRUX_20.3.19_c903eb34bf_10.0.zip
   filename: fw_crux_miui_CRUX_20.3.19_c903eb34bf_10.0.zip
   region: China
@@ -211,7 +211,7 @@
 - branch: weekly
   date: '2020-03-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-05.03.2020/fw_crux_miui_CRUX_20.3.5_ad6f1c4d26_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-05.03.2020/fw_crux_miui_CRUX_20.3.5_ad6f1c4d26_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/crux/fw_crux_miui_CRUX_20.3.5_ad6f1c4d26_10.0.zip
   filename: fw_crux_miui_CRUX_20.3.5_ad6f1c4d26_10.0.zip
   region: China
@@ -221,7 +221,7 @@
 - branch: weekly
   date: '2020-02-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-08.02.2020/fw_crux_miui_CRUX_20.1.21_2f6da1fd94_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-08.02.2020/fw_crux_miui_CRUX_20.1.21_2f6da1fd94_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/crux/fw_crux_miui_CRUX_20.1.21_2f6da1fd94_10.0.zip
   filename: fw_crux_miui_CRUX_20.1.21_2f6da1fd94_10.0.zip
   region: China
@@ -231,7 +231,7 @@
 - branch: weekly
   date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-20.12.2019/fw_crux_miui_CRUX_9.12.19_369cb91c4a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-20.12.2019/fw_crux_miui_CRUX_9.12.19_369cb91c4a_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/crux/fw_crux_miui_CRUX_9.12.19_369cb91c4a_9.0.zip
   filename: fw_crux_miui_CRUX_9.12.19_369cb91c4a_9.0.zip
   region: China
@@ -241,7 +241,7 @@
 - branch: weekly
   date: '2019-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-13.12.2019/fw_crux_miui_CRUX_9.12.12_7e059f22dc_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-13.12.2019/fw_crux_miui_CRUX_9.12.12_7e059f22dc_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/crux/fw_crux_miui_CRUX_9.12.12_7e059f22dc_9.0.zip
   filename: fw_crux_miui_CRUX_9.12.12_7e059f22dc_9.0.zip
   region: China
@@ -251,7 +251,7 @@
 - branch: stable
   date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-15.11.2019/fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/stable-15.11.2019/fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/crux/fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
   filename: fw_crux_miui_CRUX_V11.0.3.0.PFXCNXM_8f15c954be_9.0.zip
   region: China
@@ -261,7 +261,7 @@
 - branch: weekly
   date: '2019-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-08.11.2019/fw_crux_miui_CRUX_9.11.7_97f049135f_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-08.11.2019/fw_crux_miui_CRUX_9.11.7_97f049135f_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.7/crux/fw_crux_miui_CRUX_9.11.7_97f049135f_9.0.zip
   filename: fw_crux_miui_CRUX_9.11.7_97f049135f_9.0.zip
   region: China
@@ -271,7 +271,7 @@
 - branch: weekly
   date: '2019-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/weekly-01.11.2019/fw_crux_miui_CRUX_9.10.31_d722ee79c4_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-01.11.2019/fw_crux_miui_CRUX_9.10.31_d722ee79c4_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.31/crux/fw_crux_miui_CRUX_9.10.31_d722ee79c4_9.0.zip
   filename: fw_crux_miui_CRUX_9.10.31_d722ee79c4_9.0.zip
   region: China
@@ -281,7 +281,7 @@
 - branch: stable
   date: '2019-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-25.10.2019/fw_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/stable-25.10.2019/fw_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/crux/fw_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
   filename: fw_crux_miui_CRUX_V11.0.2.0.PFXCNXM_8a9ff49a94_9.0.zip
   region: China
@@ -291,7 +291,7 @@
 - branch: stable
   date: '2019-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_crux/releases/download/stable-26.09.2019/fw_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/stable-26.09.2019/fw_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/crux/fw_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
   filename: fw_crux_miui_CRUX_V10.4.6.0.PFXCNXM_c396dc02bb_9.0.zip
   region: China

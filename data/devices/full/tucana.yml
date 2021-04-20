@@ -1,7 +1,7 @@
 - branch: weekly
   date: '2021-04-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-16.04.2021/fw_tucana_miui_TUCANA_21.4.14_f9b8f8a0c1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-16.04.2021/fw_tucana_miui_TUCANA_21.4.14_f9b8f8a0c1_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/tucana/fw_tucana_miui_TUCANA_21.4.14_f9b8f8a0c1_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.4.14_f9b8f8a0c1_11.0.zip
   region: China
@@ -11,7 +11,7 @@
 - branch: weekly
   date: '2021-04-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-08.04.2021/fw_tucana_miui_TUCANA_21.4.7_36605b32ca_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-08.04.2021/fw_tucana_miui_TUCANA_21.4.7_36605b32ca_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/tucana/fw_tucana_miui_TUCANA_21.4.7_36605b32ca_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.4.7_36605b32ca_11.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2021-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-01.04.2021/fw_tucana_miui_TUCANA_21.4.1_1782c3d3e3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-01.04.2021/fw_tucana_miui_TUCANA_21.4.1_1782c3d3e3_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.1/tucana/fw_tucana_miui_TUCANA_21.4.1_1782c3d3e3_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.4.1_1782c3d3e3_11.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2021-03-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-28.03.2021/fw_tucana_miui_TUCANA_21.3.24_495a60b513_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-28.03.2021/fw_tucana_miui_TUCANA_21.3.24_495a60b513_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/tucana/fw_tucana_miui_TUCANA_21.3.24_495a60b513_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.3.24_495a60b513_11.0.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2021-03-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-18.03.2021/fw_tucana_miui_TUCANA_21.3.18_89735c7d4d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-18.03.2021/fw_tucana_miui_TUCANA_21.3.18_89735c7d4d_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.18/tucana/fw_tucana_miui_TUCANA_21.3.18_89735c7d4d_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.3.18_89735c7d4d_11.0.zip
   region: China
@@ -51,7 +51,7 @@
 - branch: stable
   date: '2021-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-12.03.2021/fw_tucana_miui_TUCANAGlobal_V12.1.2.0.RFDMIXM_23bef84d2d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-12.03.2021/fw_tucana_miui_TUCANAGlobal_V12.1.2.0.RFDMIXM_23bef84d2d_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.1.2.0.RFDMIXM_23bef84d2d_11.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V12.1.2.0.RFDMIXM_23bef84d2d_11.0.zip
   region: Global
@@ -61,7 +61,7 @@
 - branch: weekly
   date: '2021-03-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-06.03.2021/fw_tucana_miui_TUCANA_21.3.3_2177899b1c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-06.03.2021/fw_tucana_miui_TUCANA_21.3.3_2177899b1c_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/tucana/fw_tucana_miui_TUCANA_21.3.3_2177899b1c_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.3.3_2177899b1c_11.0.zip
   region: China
@@ -71,7 +71,7 @@
 - branch: stable
   date: '2021-03-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-05.03.2021/fw_tucana_miui_TUCANA_V12.1.5.0.RFDCNXM_20dc1d4f76_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-05.03.2021/fw_tucana_miui_TUCANA_V12.1.5.0.RFDCNXM_20dc1d4f76_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANA_V12.1.5.0.RFDCNXM_20dc1d4f76_11.0.zip
   filename: fw_tucana_miui_TUCANA_V12.1.5.0.RFDCNXM_20dc1d4f76_11.0.zip
   region: China
@@ -81,7 +81,7 @@
 - branch: weekly
   date: '2021-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-26.02.2021/fw_tucana_miui_TUCANA_21.2.24_93ae935df2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-26.02.2021/fw_tucana_miui_TUCANA_21.2.24_93ae935df2_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/tucana/fw_tucana_miui_TUCANA_21.2.24_93ae935df2_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.2.24_93ae935df2_11.0.zip
   region: China
@@ -91,7 +91,7 @@
 - branch: stable
   date: '2021-02-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-22.02.2021/fw_tucana_miui_TUCANAEEAGlobal_V12.1.3.0.RFDEUXM_d4648d0d96_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-22.02.2021/fw_tucana_miui_TUCANAEEAGlobal_V12.1.3.0.RFDEUXM_d4648d0d96_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAEEAGlobal_V12.1.3.0.RFDEUXM_d4648d0d96_11.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V12.1.3.0.RFDEUXM_d4648d0d96_11.0.zip
   region: Europe
@@ -101,7 +101,7 @@
 - branch: weekly
   date: '2021-01-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-30.01.2021/fw_tucana_miui_TUCANA_21.1.28_50a925ab1c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-30.01.2021/fw_tucana_miui_TUCANA_21.1.28_50a925ab1c_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/tucana/fw_tucana_miui_TUCANA_21.1.28_50a925ab1c_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.1.28_50a925ab1c_11.0.zip
   region: China
@@ -111,7 +111,7 @@
 - branch: stable
   date: '2021-01-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-25.01.2021/fw_tucana_miui_TUCANAGlobal_V12.0.4.0.QFDMIXM_be49be8fa0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-25.01.2021/fw_tucana_miui_TUCANAGlobal_V12.0.4.0.QFDMIXM_be49be8fa0_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.0.4.0.QFDMIXM_be49be8fa0_10.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V12.0.4.0.QFDMIXM_be49be8fa0_10.0.zip
   region: Global
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2021-01-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-23.01.2021/fw_tucana_miui_TUCANA_21.1.20_d992dba375_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-23.01.2021/fw_tucana_miui_TUCANA_21.1.20_d992dba375_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/tucana/fw_tucana_miui_TUCANA_21.1.20_d992dba375_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.1.20_d992dba375_11.0.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: weekly
   date: '2021-01-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-15.01.2021/fw_tucana_miui_TUCANA_21.1.14_38faca4f68_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-15.01.2021/fw_tucana_miui_TUCANA_21.1.14_38faca4f68_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.14/tucana/fw_tucana_miui_TUCANA_21.1.14_38faca4f68_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.1.14_38faca4f68_11.0.zip
   region: China
@@ -141,7 +141,7 @@
 - branch: weekly
   date: '2021-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-08.01.2021/fw_tucana_miui_TUCANA_21.1.6_87002802c3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-08.01.2021/fw_tucana_miui_TUCANA_21.1.6_87002802c3_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/tucana/fw_tucana_miui_TUCANA_21.1.6_87002802c3_11.0.zip
   filename: fw_tucana_miui_TUCANA_21.1.6_87002802c3_11.0.zip
   region: China
@@ -151,7 +151,7 @@
 - branch: weekly
   date: '2020-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-31.12.2020/fw_tucana_miui_TUCANA_20.12.28_e14d7c3fff_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-31.12.2020/fw_tucana_miui_TUCANA_20.12.28_e14d7c3fff_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.28/tucana/fw_tucana_miui_TUCANA_20.12.28_e14d7c3fff_11.0.zip
   filename: fw_tucana_miui_TUCANA_20.12.28_e14d7c3fff_11.0.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: weekly
   date: '2020-12-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-10.12.2020/fw_tucana_miui_TUCANA_20.12.9_be8a00e44c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-10.12.2020/fw_tucana_miui_TUCANA_20.12.9_be8a00e44c_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.9/tucana/fw_tucana_miui_TUCANA_20.12.9_be8a00e44c_11.0.zip
   filename: fw_tucana_miui_TUCANA_20.12.9_be8a00e44c_11.0.zip
   region: China
@@ -171,7 +171,7 @@
 - branch: weekly
   date: '2020-12-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-03.12.2020/fw_tucana_miui_TUCANA_20.12.2_05eac67851_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-03.12.2020/fw_tucana_miui_TUCANA_20.12.2_05eac67851_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/tucana/fw_tucana_miui_TUCANA_20.12.2_05eac67851_11.0.zip
   filename: fw_tucana_miui_TUCANA_20.12.2_05eac67851_11.0.zip
   region: China
@@ -181,7 +181,7 @@
 - branch: stable
   date: '2020-11-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-24.11.2020/fw_tucana_miui_TUCANAEEAGlobal_V12.0.3.0.QFDEUXM_030d9f737b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-24.11.2020/fw_tucana_miui_TUCANAEEAGlobal_V12.0.3.0.QFDEUXM_030d9f737b_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAEEAGlobal_V12.0.3.0.QFDEUXM_030d9f737b_10.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V12.0.3.0.QFDEUXM_030d9f737b_10.0.zip
   region: Europe
@@ -191,7 +191,7 @@
 - branch: weekly
   date: '2020-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-19.11.2020/fw_tucana_miui_TUCANA_20.11.18_f43f6b7822_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-19.11.2020/fw_tucana_miui_TUCANA_20.11.18_f43f6b7822_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/tucana/fw_tucana_miui_TUCANA_20.11.18_f43f6b7822_11.0.zip
   filename: fw_tucana_miui_TUCANA_20.11.18_f43f6b7822_11.0.zip
   region: China
@@ -201,7 +201,7 @@
 - branch: weekly
   date: '2020-11-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-12.11.2020/fw_tucana_miui_TUCANA_20.11.12_11e1c8a560_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-12.11.2020/fw_tucana_miui_TUCANA_20.11.12_11e1c8a560_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/tucana/fw_tucana_miui_TUCANA_20.11.12_11e1c8a560_11.0.zip
   filename: fw_tucana_miui_TUCANA_20.11.12_11e1c8a560_11.0.zip
   region: China
@@ -211,7 +211,7 @@
 - branch: stable
   date: '2020-11-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-12.11.2020/fw_tucana_miui_TUCANAEEAGlobal_V12.0.2.0.QFDEUXM_a960539f29_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-12.11.2020/fw_tucana_miui_TUCANAEEAGlobal_V12.0.2.0.QFDEUXM_a960539f29_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAEEAGlobal_V12.0.2.0.QFDEUXM_a960539f29_10.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V12.0.2.0.QFDEUXM_a960539f29_10.0.zip
   region: Europe
@@ -221,7 +221,7 @@
 - branch: stable
   date: '2020-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-04.11.2020/fw_tucana_miui_TUCANAGlobal_V12.0.3.0.QFDMIXM_919439d60e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-04.11.2020/fw_tucana_miui_TUCANAGlobal_V12.0.3.0.QFDMIXM_919439d60e_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.0.3.0.QFDMIXM_919439d60e_10.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V12.0.3.0.QFDMIXM_919439d60e_10.0.zip
   region: Global
@@ -231,7 +231,7 @@
 - branch: weekly
   date: '2020-10-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-31.10.2020/fw_tucana_miui_TUCANA_20.10.30_9815a63413_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-31.10.2020/fw_tucana_miui_TUCANA_20.10.30_9815a63413_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.30/tucana/fw_tucana_miui_TUCANA_20.10.30_9815a63413_11.0.zip
   filename: fw_tucana_miui_TUCANA_20.10.30_9815a63413_11.0.zip
   region: China
@@ -241,7 +241,7 @@
 - branch: stable
   date: '2020-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-27.10.2020/fw_tucana_miui_TUCANA_V12.0.2.0.QFDCNXM_88649617b1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-27.10.2020/fw_tucana_miui_TUCANA_V12.0.2.0.QFDCNXM_88649617b1_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANA_V12.0.2.0.QFDCNXM_88649617b1_10.0.zip
   filename: fw_tucana_miui_TUCANA_V12.0.2.0.QFDCNXM_88649617b1_10.0.zip
   region: China
@@ -251,7 +251,7 @@
 - branch: weekly
   date: '2020-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-22.10.2020/fw_tucana_miui_TUCANA_20.10.22_65a3f2adfa_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-22.10.2020/fw_tucana_miui_TUCANA_20.10.22_65a3f2adfa_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/tucana/fw_tucana_miui_TUCANA_20.10.22_65a3f2adfa_11.0.zip
   filename: fw_tucana_miui_TUCANA_20.10.22_65a3f2adfa_11.0.zip
   region: China
@@ -261,7 +261,7 @@
 - branch: weekly
   date: '2020-10-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-15.10.2020/fw_tucana_miui_TUCANA_20.10.15_4809b8ca95_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-15.10.2020/fw_tucana_miui_TUCANA_20.10.15_4809b8ca95_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/tucana/fw_tucana_miui_TUCANA_20.10.15_4809b8ca95_11.0.zip
   filename: fw_tucana_miui_TUCANA_20.10.15_4809b8ca95_11.0.zip
   region: China
@@ -271,7 +271,7 @@
 - branch: weekly
   date: '2020-09-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-10.09.2020/fw_tucana_miui_TUCANA_20.9.10_f3fcc4e9d9_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-10.09.2020/fw_tucana_miui_TUCANA_20.9.10_f3fcc4e9d9_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.10/tucana/fw_tucana_miui_TUCANA_20.9.10_f3fcc4e9d9_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.9.10_f3fcc4e9d9_10.0.zip
   region: China
@@ -281,7 +281,7 @@
 - branch: stable
   date: '2020-09-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-07.09.2020/fw_tucana_miui_TUCANAEEAGlobal_V12.0.1.0.QFDEUXM_5985ff5318_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-07.09.2020/fw_tucana_miui_TUCANAEEAGlobal_V12.0.1.0.QFDEUXM_5985ff5318_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAEEAGlobal_V12.0.1.0.QFDEUXM_5985ff5318_10.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V12.0.1.0.QFDEUXM_5985ff5318_10.0.zip
   region: Europe
@@ -291,7 +291,7 @@
 - branch: weekly
   date: '2020-09-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-03.09.2020/fw_tucana_miui_TUCANA_20.9.3_de8f2797b7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-03.09.2020/fw_tucana_miui_TUCANA_20.9.3_de8f2797b7_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.3/tucana/fw_tucana_miui_TUCANA_20.9.3_de8f2797b7_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.9.3_de8f2797b7_10.0.zip
   region: China
@@ -301,7 +301,7 @@
 - branch: stable
   date: '2020-09-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-03.09.2020/fw_tucana_miui_TUCANAGlobal_V12.0.2.0.QFDMIXM_039bbe8a99_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-03.09.2020/fw_tucana_miui_TUCANAGlobal_V12.0.2.0.QFDMIXM_039bbe8a99_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.0.2.0.QFDMIXM_039bbe8a99_10.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V12.0.2.0.QFDMIXM_039bbe8a99_10.0.zip
   region: Global
@@ -311,7 +311,7 @@
 - branch: weekly
   date: '2020-08-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-28.08.2020/fw_tucana_miui_TUCANA_20.8.26_ef3368d91d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-28.08.2020/fw_tucana_miui_TUCANA_20.8.26_ef3368d91d_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.26/tucana/fw_tucana_miui_TUCANA_20.8.26_ef3368d91d_11.0.zip
   filename: fw_tucana_miui_TUCANA_20.8.26_ef3368d91d_11.0.zip
   region: China
@@ -321,7 +321,7 @@
 - branch: weekly
   date: '2020-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-21.08.2020/fw_tucana_miui_TUCANA_20.8.20_ac8d221646_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-21.08.2020/fw_tucana_miui_TUCANA_20.8.20_ac8d221646_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.20/tucana/fw_tucana_miui_TUCANA_20.8.20_ac8d221646_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.8.20_ac8d221646_10.0.zip
   region: China
@@ -331,7 +331,7 @@
 - branch: stable
   date: '2020-08-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-19.08.2020/fw_tucana_miui_TUCANAGlobal_V12.0.1.0.QFDMIXM_1dec6077cd_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-19.08.2020/fw_tucana_miui_TUCANAGlobal_V12.0.1.0.QFDMIXM_1dec6077cd_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.0.1.0.QFDMIXM_1dec6077cd_10.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V12.0.1.0.QFDMIXM_1dec6077cd_10.0.zip
   region: Global
@@ -341,7 +341,7 @@
 - branch: weekly
   date: '2020-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-30.07.2020/fw_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-30.07.2020/fw_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/tucana/fw_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
   region: China
@@ -351,7 +351,7 @@
 - branch: weekly
   date: '2020-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-23.07.2020/fw_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-23.07.2020/fw_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/tucana/fw_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
   region: China
@@ -361,7 +361,7 @@
 - branch: stable
   date: '2020-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-23.07.2020/fw_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-23.07.2020/fw_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip
   filename: fw_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip
   region: China
@@ -371,7 +371,7 @@
 - branch: weekly
   date: '2020-07-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-09.07.2020/fw_tucana_miui_TUCANA_20.7.9_9e4ddba5e6_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-09.07.2020/fw_tucana_miui_TUCANA_20.7.9_9e4ddba5e6_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/tucana/fw_tucana_miui_TUCANA_20.7.9_9e4ddba5e6_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.7.9_9e4ddba5e6_10.0.zip
   region: China
@@ -381,7 +381,7 @@
 - branch: stable
   date: '2020-07-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-03.07.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.1.2.0.QFDEUXM_782cb61971_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-03.07.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.1.2.0.QFDEUXM_782cb61971_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.1.2.0.QFDEUXM_782cb61971_10.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V11.1.2.0.QFDEUXM_782cb61971_10.0.zip
   region: Europe
@@ -391,7 +391,7 @@
 - branch: stable
   date: '2020-07-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-03.07.2020/fw_tucana_miui_TUCANAGlobal_V11.1.3.0.QFDMIXM_92fc5246c5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-03.07.2020/fw_tucana_miui_TUCANAGlobal_V11.1.3.0.QFDMIXM_92fc5246c5_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAGlobal_V11.1.3.0.QFDMIXM_92fc5246c5_10.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V11.1.3.0.QFDMIXM_92fc5246c5_10.0.zip
   region: Global
@@ -401,7 +401,7 @@
 - branch: weekly
   date: '2020-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-02.07.2020/fw_tucana_miui_TUCANA_20.7.2_b8ed8ba668_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-02.07.2020/fw_tucana_miui_TUCANA_20.7.2_b8ed8ba668_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.2/tucana/fw_tucana_miui_TUCANA_20.7.2_b8ed8ba668_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.7.2_b8ed8ba668_10.0.zip
   region: China
@@ -411,7 +411,7 @@
 - branch: weekly
   date: '2020-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-18.06.2020/fw_tucana_miui_TUCANA_20.6.18_04d210326b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-18.06.2020/fw_tucana_miui_TUCANA_20.6.18_04d210326b_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/tucana/fw_tucana_miui_TUCANA_20.6.18_04d210326b_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.6.18_04d210326b_10.0.zip
   region: China
@@ -421,7 +421,7 @@
 - branch: weekly
   date: '2020-06-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-11.06.2020/fw_tucana_miui_TUCANA_20.6.11_5953571c3f_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-11.06.2020/fw_tucana_miui_TUCANA_20.6.11_5953571c3f_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/tucana/fw_tucana_miui_TUCANA_20.6.11_5953571c3f_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.6.11_5953571c3f_10.0.zip
   region: China
@@ -431,7 +431,7 @@
 - branch: stable
   date: '2020-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-26.05.2020/fw_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-26.05.2020/fw_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
   filename: fw_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
   region: China
@@ -441,7 +441,7 @@
 - branch: weekly
   date: '2020-05-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-21.05.2020/fw_tucana_miui_TUCANA_20.5.21_e375001703_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-21.05.2020/fw_tucana_miui_TUCANA_20.5.21_e375001703_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/tucana/fw_tucana_miui_TUCANA_20.5.21_e375001703_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.5.21_e375001703_10.0.zip
   region: China
@@ -451,7 +451,7 @@
 - branch: stable
   date: '2020-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-19.05.2020/fw_tucana_miui_TUCANAGlobal_V11.1.2.0.QFDMIXM_3e27048d54_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-19.05.2020/fw_tucana_miui_TUCANAGlobal_V11.1.2.0.QFDMIXM_3e27048d54_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAGlobal_V11.1.2.0.QFDMIXM_3e27048d54_10.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V11.1.2.0.QFDMIXM_3e27048d54_10.0.zip
   region: Global
@@ -461,7 +461,7 @@
 - branch: weekly
   date: '2020-05-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-14.05.2020/fw_tucana_miui_TUCANA_20.5.14_6c4cbf7bd0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-14.05.2020/fw_tucana_miui_TUCANA_20.5.14_6c4cbf7bd0_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/tucana/fw_tucana_miui_TUCANA_20.5.14_6c4cbf7bd0_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.5.14_6c4cbf7bd0_10.0.zip
   region: China
@@ -471,7 +471,7 @@
 - branch: weekly
   date: '2020-05-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-08.05.2020/fw_tucana_miui_TUCANA_20.5.7_1f3284af14_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-08.05.2020/fw_tucana_miui_TUCANA_20.5.7_1f3284af14_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/tucana/fw_tucana_miui_TUCANA_20.5.7_1f3284af14_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.5.7_1f3284af14_10.0.zip
   region: China
@@ -481,7 +481,7 @@
 - branch: stable
   date: '2020-05-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-07.05.2020/fw_tucana_miui_TUCANAGlobal_V11.1.1.0.QFDMIXM_895807152b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-07.05.2020/fw_tucana_miui_TUCANAGlobal_V11.1.1.0.QFDMIXM_895807152b_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAGlobal_V11.1.1.0.QFDMIXM_895807152b_10.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V11.1.1.0.QFDMIXM_895807152b_10.0.zip
   region: Global
@@ -491,7 +491,7 @@
 - branch: weekly
   date: '2020-04-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-30.04.2020/fw_tucana_miui_TUCANA_20.4.30_6f1bd36404_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-30.04.2020/fw_tucana_miui_TUCANA_20.4.30_6f1bd36404_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/tucana/fw_tucana_miui_TUCANA_20.4.30_6f1bd36404_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.4.30_6f1bd36404_10.0.zip
   region: China
@@ -501,7 +501,7 @@
 - branch: stable
   date: '2020-04-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-30.04.2020/fw_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-30.04.2020/fw_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip
   filename: fw_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip
   region: China
@@ -511,7 +511,7 @@
 - branch: weekly
   date: '2020-04-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-27.04.2020/fw_tucana_miui_TUCANA_20.4.27_abeb5b26f5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-27.04.2020/fw_tucana_miui_TUCANA_20.4.27_abeb5b26f5_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/tucana/fw_tucana_miui_TUCANA_20.4.27_abeb5b26f5_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.4.27_abeb5b26f5_10.0.zip
   region: China
@@ -521,7 +521,7 @@
 - branch: stable
   date: '2020-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-21.04.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.0.17.0.PFDEUXM_01ce4d3a55_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-21.04.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.0.17.0.PFDEUXM_01ce4d3a55_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.0.17.0.PFDEUXM_01ce4d3a55_9.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V11.0.17.0.PFDEUXM_01ce4d3a55_9.0.zip
   region: Europe
@@ -531,7 +531,7 @@
 - branch: stable
   date: '2020-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-20.04.2020/fw_tucana_miui_TUCANA_V11.0.9.0.PFDCNXM_c6fcdf2960_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-20.04.2020/fw_tucana_miui_TUCANA_V11.0.9.0.PFDCNXM_c6fcdf2960_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANA_V11.0.9.0.PFDCNXM_c6fcdf2960_9.0.zip
   filename: fw_tucana_miui_TUCANA_V11.0.9.0.PFDCNXM_c6fcdf2960_9.0.zip
   region: China
@@ -541,7 +541,7 @@
 - branch: stable
   date: '2020-04-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-14.04.2020/fw_tucana_miui_TUCANAGlobal_V11.0.9.0.PFDMIXM_f4aa3e3edc_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-14.04.2020/fw_tucana_miui_TUCANAGlobal_V11.0.9.0.PFDMIXM_f4aa3e3edc_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAGlobal_V11.0.9.0.PFDMIXM_f4aa3e3edc_9.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V11.0.9.0.PFDMIXM_f4aa3e3edc_9.0.zip
   region: Global
@@ -551,7 +551,7 @@
 - branch: weekly
   date: '2020-03-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-26.03.2020/fw_tucana_miui_TUCANA_20.3.26_e2623b7ebb_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-26.03.2020/fw_tucana_miui_TUCANA_20.3.26_e2623b7ebb_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/tucana/fw_tucana_miui_TUCANA_20.3.26_e2623b7ebb_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.3.26_e2623b7ebb_10.0.zip
   region: China
@@ -561,7 +561,7 @@
 - branch: weekly
   date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-12.03.2020/fw_tucana_miui_TUCANA_20.3.12_a0a2cbfb89_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-12.03.2020/fw_tucana_miui_TUCANA_20.3.12_a0a2cbfb89_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/tucana/fw_tucana_miui_TUCANA_20.3.12_a0a2cbfb89_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.3.12_a0a2cbfb89_10.0.zip
   region: China
@@ -571,7 +571,7 @@
 - branch: stable
   date: '2020-03-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-12.03.2020/fw_tucana_miui_TUCANAGlobal_V11.0.7.0.PFDMIXM_21ef976ac1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-12.03.2020/fw_tucana_miui_TUCANAGlobal_V11.0.7.0.PFDMIXM_21ef976ac1_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAGlobal_V11.0.7.0.PFDMIXM_21ef976ac1_9.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V11.0.7.0.PFDMIXM_21ef976ac1_9.0.zip
   region: Global
@@ -581,7 +581,7 @@
 - branch: stable
   date: '2020-03-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-10.03.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.0.16.0.PFDEUXM_9ac25e9dc7_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-10.03.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.0.16.0.PFDEUXM_9ac25e9dc7_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.0.16.0.PFDEUXM_9ac25e9dc7_9.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V11.0.16.0.PFDEUXM_9ac25e9dc7_9.0.zip
   region: Europe
@@ -591,7 +591,7 @@
 - branch: stable
   date: '2020-03-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-10.03.2020/fw_tucana_miui_TUCANAGlobal_V11.0.8.0.PFDMIXM_85ed799ef6_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-10.03.2020/fw_tucana_miui_TUCANAGlobal_V11.0.8.0.PFDMIXM_85ed799ef6_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAGlobal_V11.0.8.0.PFDMIXM_85ed799ef6_9.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V11.0.8.0.PFDMIXM_85ed799ef6_9.0.zip
   region: Global
@@ -601,7 +601,7 @@
 - branch: weekly
   date: '2020-03-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-06.03.2020/fw_tucana_miui_TUCANA_20.3.5_e1206d6621_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-06.03.2020/fw_tucana_miui_TUCANA_20.3.5_e1206d6621_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/tucana/fw_tucana_miui_TUCANA_20.3.5_e1206d6621_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.3.5_e1206d6621_10.0.zip
   region: China
@@ -611,7 +611,7 @@
 - branch: weekly
   date: '2020-02-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-27.02.2020/fw_tucana_miui_TUCANA_20.2.27_a366102598_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-27.02.2020/fw_tucana_miui_TUCANA_20.2.27_a366102598_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/tucana/fw_tucana_miui_TUCANA_20.2.27_a366102598_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.2.27_a366102598_10.0.zip
   region: China
@@ -621,7 +621,7 @@
 - branch: weekly
   date: '2020-02-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-20.02.2020/fw_tucana_miui_TUCANA_20.2.20_04b5734e87_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-20.02.2020/fw_tucana_miui_TUCANA_20.2.20_04b5734e87_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.20/tucana/fw_tucana_miui_TUCANA_20.2.20_04b5734e87_10.0.zip
   filename: fw_tucana_miui_TUCANA_20.2.20_04b5734e87_10.0.zip
   region: China
@@ -631,7 +631,7 @@
 - branch: stable
   date: '2020-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-19.01.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.0.13.0.PFDEUXM_61518caa02_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-19.01.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.0.13.0.PFDEUXM_61518caa02_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.0.13.0.PFDEUXM_61518caa02_9.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V11.0.13.0.PFDEUXM_61518caa02_9.0.zip
   region: Europe
@@ -641,7 +641,7 @@
 - branch: weekly
   date: '2020-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-09.01.2020/fw_tucana_miui_TUCANA_20.1.9_3240a7f35f_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-09.01.2020/fw_tucana_miui_TUCANA_20.1.9_3240a7f35f_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/tucana/fw_tucana_miui_TUCANA_20.1.9_3240a7f35f_9.0.zip
   filename: fw_tucana_miui_TUCANA_20.1.9_3240a7f35f_9.0.zip
   region: China
@@ -651,7 +651,7 @@
 - branch: stable
   date: '2020-01-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-06.01.2020/fw_tucana_miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-06.01.2020/fw_tucana_miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip
   filename: fw_tucana_miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip
   region: China
@@ -661,7 +661,7 @@
 - branch: weekly
   date: '2020-01-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-02.01.2020/fw_tucana_miui_TUCANA_20.1.2_4215e10bd9_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-02.01.2020/fw_tucana_miui_TUCANA_20.1.2_4215e10bd9_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.2/tucana/fw_tucana_miui_TUCANA_20.1.2_4215e10bd9_9.0.zip
   filename: fw_tucana_miui_TUCANA_20.1.2_4215e10bd9_9.0.zip
   region: China
@@ -671,7 +671,7 @@
 - branch: stable
   date: '2020-01-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-02.01.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.0.12.0.PFDEUXM_666261a8b0_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-02.01.2020/fw_tucana_miui_TUCANAEEAGlobal_V11.0.12.0.PFDEUXM_666261a8b0_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.0.12.0.PFDEUXM_666261a8b0_9.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V11.0.12.0.PFDEUXM_666261a8b0_9.0.zip
   region: Europe
@@ -681,7 +681,7 @@
 - branch: weekly
   date: '2019-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-27.12.2019/fw_tucana_miui_TUCANA_9.12.26_ad368678c9_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-27.12.2019/fw_tucana_miui_TUCANA_9.12.26_ad368678c9_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/tucana/fw_tucana_miui_TUCANA_9.12.26_ad368678c9_9.0.zip
   filename: fw_tucana_miui_TUCANA_9.12.26_ad368678c9_9.0.zip
   region: China
@@ -691,7 +691,7 @@
 - branch: stable
   date: '2019-12-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-25.12.2019/fw_tucana_miui_TUCANAEEAGlobal_V11.0.11.0.PFDEUXM_9fa3ae20ce_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-25.12.2019/fw_tucana_miui_TUCANAEEAGlobal_V11.0.11.0.PFDEUXM_9fa3ae20ce_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.0.11.0.PFDEUXM_9fa3ae20ce_9.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V11.0.11.0.PFDEUXM_9fa3ae20ce_9.0.zip
   region: Europe
@@ -701,7 +701,7 @@
 - branch: weekly
   date: '2019-12-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-20.12.2019/fw_tucana_miui_TUCANA_9.12.19_c6bf901cf0_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-20.12.2019/fw_tucana_miui_TUCANA_9.12.19_c6bf901cf0_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.19/tucana/fw_tucana_miui_TUCANA_9.12.19_c6bf901cf0_9.0.zip
   filename: fw_tucana_miui_TUCANA_9.12.19_c6bf901cf0_9.0.zip
   region: China
@@ -711,7 +711,7 @@
 - branch: weekly
   date: '2019-12-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-13.12.2019/fw_tucana_miui_TUCANA_9.12.12_28f0aeefca_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-13.12.2019/fw_tucana_miui_TUCANA_9.12.12_28f0aeefca_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/tucana/fw_tucana_miui_TUCANA_9.12.12_28f0aeefca_9.0.zip
   filename: fw_tucana_miui_TUCANA_9.12.12_28f0aeefca_9.0.zip
   region: China
@@ -721,7 +721,7 @@
 - branch: weekly
   date: '2019-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-06.12.2019/fw_tucana_miui_TUCANA_9.12.5_2b70682ce5_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-06.12.2019/fw_tucana_miui_TUCANA_9.12.5_2b70682ce5_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/tucana/fw_tucana_miui_TUCANA_9.12.5_2b70682ce5_9.0.zip
   filename: fw_tucana_miui_TUCANA_9.12.5_2b70682ce5_9.0.zip
   region: China
@@ -731,7 +731,7 @@
 - branch: stable
   date: '2019-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-04.12.2019/fw_tucana_miui_TUCANAEEAGlobal_V11.0.10.0.PFDEUXM_b7a8e9a640_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-04.12.2019/fw_tucana_miui_TUCANAEEAGlobal_V11.0.10.0.PFDEUXM_b7a8e9a640_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.0.10.0.PFDEUXM_b7a8e9a640_9.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V11.0.10.0.PFDEUXM_b7a8e9a640_9.0.zip
   region: Europe
@@ -741,7 +741,7 @@
 - branch: stable
   date: '2019-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-04.12.2019/fw_tucana_miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-04.12.2019/fw_tucana_miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip
   filename: fw_tucana_miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip
   region: China
@@ -751,7 +751,7 @@
 - branch: stable
   date: '2019-12-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-02.12.2019/fw_tucana_miui_TUCANAGlobal_V11.0.5.0.PFDMIXM_40dcdd8711_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-02.12.2019/fw_tucana_miui_TUCANAGlobal_V11.0.5.0.PFDMIXM_40dcdd8711_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAGlobal_V11.0.5.0.PFDMIXM_40dcdd8711_9.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V11.0.5.0.PFDMIXM_40dcdd8711_9.0.zip
   region: Global
@@ -761,7 +761,7 @@
 - branch: weekly
   date: '2019-11-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/weekly-29.11.2019/fw_tucana_miui_TUCANA_9.11.28_457de5a45f_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-29.11.2019/fw_tucana_miui_TUCANA_9.11.28_457de5a45f_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/tucana/fw_tucana_miui_TUCANA_9.11.28_457de5a45f_9.0.zip
   filename: fw_tucana_miui_TUCANA_9.11.28_457de5a45f_9.0.zip
   region: China
@@ -771,7 +771,7 @@
 - branch: stable
   date: '2019-11-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-29.11.2019/fw_tucana_miui_TUCANAEEAGlobal_V11.0.9.0.PFDEUXM_63b5cb970d_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-29.11.2019/fw_tucana_miui_TUCANAEEAGlobal_V11.0.9.0.PFDEUXM_63b5cb970d_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.0.9.0.PFDEUXM_63b5cb970d_9.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V11.0.9.0.PFDEUXM_63b5cb970d_9.0.zip
   region: Europe
@@ -781,7 +781,7 @@
 - branch: stable
   date: '2019-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-26.11.2019/fw_tucana_miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-26.11.2019/fw_tucana_miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip
   filename: fw_tucana_miui_TUCANAGlobal_V11.0.3.0.PFDMIXM_3a07de6538_9.0.zip
   region: Global
@@ -791,7 +791,7 @@
 - branch: stable
   date: '2019-11-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-25.11.2019/fw_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-25.11.2019/fw_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
   filename: fw_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
   region: China
@@ -801,7 +801,7 @@
 - branch: stable
   date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-15.11.2019/fw_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-15.11.2019/fw_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
   filename: fw_tucana_miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip
   region: Europe
@@ -811,7 +811,7 @@
 - branch: stable
   date: '2019-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_tucana/releases/download/stable-15.11.2019/fw_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-15.11.2019/fw_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/tucana/fw_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
   filename: fw_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
   region: China

@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-19.04.2021/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-19.04.2021/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurus/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
   filename: fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
   region: China
@@ -11,7 +11,7 @@
 - branch: weekly
   date: '2021-04-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-16.04.2021/fw_laurus_miui_LAURUS_21.4.14_e47f5a0fd0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/weekly-16.04.2021/fw_laurus_miui_LAURUS_21.4.14_e47f5a0fd0_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/laurus/fw_laurus_miui_LAURUS_21.4.14_e47f5a0fd0_10.0.zip
   filename: fw_laurus_miui_LAURUS_21.4.14_e47f5a0fd0_10.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2021-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-01.04.2021/fw_laurus_miui_LAURUS_21.4.1_b0231e6134_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/weekly-01.04.2021/fw_laurus_miui_LAURUS_21.4.1_b0231e6134_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.1/laurus/fw_laurus_miui_LAURUS_21.4.1_b0231e6134_10.0.zip
   filename: fw_laurus_miui_LAURUS_21.4.1_b0231e6134_10.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2021-03-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-05.03.2021/fw_laurus_miui_LAURUS_21.3.3_863fef3801_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/weekly-05.03.2021/fw_laurus_miui_LAURUS_21.3.3_863fef3801_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/laurus/fw_laurus_miui_LAURUS_21.3.3_863fef3801_10.0.zip
   filename: fw_laurus_miui_LAURUS_21.3.3_863fef3801_10.0.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2021-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-26.02.2021/fw_laurus_miui_LAURUS_21.2.24_97d7f94cf5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/weekly-26.02.2021/fw_laurus_miui_LAURUS_21.2.24_97d7f94cf5_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/laurus/fw_laurus_miui_LAURUS_21.2.24_97d7f94cf5_10.0.zip
   filename: fw_laurus_miui_LAURUS_21.2.24_97d7f94cf5_10.0.zip
   region: China
@@ -51,7 +51,7 @@
 - branch: weekly
   date: '2021-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-08.01.2021/fw_laurus_miui_LAURUS_21.1.6_3534eceb0a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/weekly-08.01.2021/fw_laurus_miui_LAURUS_21.1.6_3534eceb0a_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/laurus/fw_laurus_miui_LAURUS_21.1.6_3534eceb0a_10.0.zip
   filename: fw_laurus_miui_LAURUS_21.1.6_3534eceb0a_10.0.zip
   region: China
@@ -61,7 +61,7 @@
 - branch: stable
   date: '2020-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-22.10.2020/fw_laurus_miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-22.10.2020/fw_laurus_miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurus/fw_laurus_miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
   filename: fw_laurus_miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip
   region: China
@@ -71,7 +71,7 @@
 - branch: weekly
   date: '2020-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-21.08.2020/fw_laurus_miui_LAURUS_20.8.20_2e6b3fc438_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/weekly-21.08.2020/fw_laurus_miui_LAURUS_20.8.20_2e6b3fc438_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.20/laurus/fw_laurus_miui_LAURUS_20.8.20_2e6b3fc438_10.0.zip
   filename: fw_laurus_miui_LAURUS_20.8.20_2e6b3fc438_10.0.zip
   region: China
@@ -81,7 +81,7 @@
 - branch: stable
   date: '2020-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-22.06.2020/fw_laurus_miui_LAURUS_V11.0.6.0.PFMCNXM_3234ede2d4_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-22.06.2020/fw_laurus_miui_LAURUS_V11.0.6.0.PFMCNXM_3234ede2d4_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/laurus/fw_laurus_miui_LAURUS_V11.0.6.0.PFMCNXM_3234ede2d4_9.0.zip
   filename: fw_laurus_miui_LAURUS_V11.0.6.0.PFMCNXM_3234ede2d4_9.0.zip
   region: China
@@ -91,7 +91,7 @@
 - branch: weekly
   date: '2020-03-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-26.03.2020/fw_laurus_miui_LAURUS_20.3.26_251c110ea6_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/weekly-26.03.2020/fw_laurus_miui_LAURUS_20.3.26_251c110ea6_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/laurus/fw_laurus_miui_LAURUS_20.3.26_251c110ea6_9.0.zip
   filename: fw_laurus_miui_LAURUS_20.3.26_251c110ea6_9.0.zip
   region: China
@@ -101,7 +101,7 @@
 - branch: stable
   date: '2020-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-19.01.2020/fw_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-19.01.2020/fw_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/laurus/fw_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip
   filename: fw_laurus_miui_LAURUS_V11.0.4.0.PFMCNXM_606fd6ecac_9.0.zip
   region: China
@@ -111,7 +111,7 @@
 - branch: stable
   date: '2019-11-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-06.11.2019/fw_laurus_miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-06.11.2019/fw_laurus_miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/laurus/fw_laurus_miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip
   filename: fw_laurus_miui_LAURUS_V11.0.2.0.PFMCNXM_09f596a24c_9.0.zip
   region: China
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2019-10-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/weekly-18.10.2019/fw_laurus_miui_LAURUS_9.10.17_6c4b9bf0a8_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/weekly-18.10.2019/fw_laurus_miui_LAURUS_9.10.17_6c4b9bf0a8_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.17/laurus/fw_laurus_miui_LAURUS_9.10.17_6c4b9bf0a8_9.0.zip
   filename: fw_laurus_miui_LAURUS_9.10.17_6c4b9bf0a8_9.0.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: stable
   date: '2019-09-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-06.09.2019/fw_laurus_miui_LAURUS_V10.2.13.0.PFMCNXM_5a9706d537_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-06.09.2019/fw_laurus_miui_LAURUS_V10.2.13.0.PFMCNXM_5a9706d537_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/laurus/fw_laurus_miui_LAURUS_V10.2.13.0.PFMCNXM_5a9706d537_9.0.zip
   filename: fw_laurus_miui_LAURUS_V10.2.13.0.PFMCNXM_5a9706d537_9.0.zip
   region: China
@@ -141,7 +141,7 @@
 - branch: stable
   date: '2019-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-30.07.2019/fw_laurus_miui_LAURUS_V10.2.10.0.PFMCNXM_d26ff234f6_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-30.07.2019/fw_laurus_miui_LAURUS_V10.2.10.0.PFMCNXM_d26ff234f6_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/laurus/fw_laurus_miui_LAURUS_V10.2.10.0.PFMCNXM_d26ff234f6_9.0.zip
   filename: fw_laurus_miui_LAURUS_V10.2.10.0.PFMCNXM_d26ff234f6_9.0.zip
   region: China
@@ -151,7 +151,7 @@
 - branch: stable
   date: '2019-07-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_laurus/releases/download/stable-05.07.2019/fw_laurus_miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-05.07.2019/fw_laurus_miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/laurus/fw_laurus_miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip
   filename: fw_laurus_miui_LAURUS_V10.2.7.0.PFMCNXM_e97f175b59_9.0.zip
   region: China

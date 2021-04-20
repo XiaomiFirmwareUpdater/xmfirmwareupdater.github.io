@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_davinciin/releases/download/stable-22.01.2021/fw_davinciin_miui_DAVINCIININGlobal_V12.0.7.0.QFJINXM_5932fd5876_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinciin/releases/download/stable-22.01.2021/fw_davinciin_miui_DAVINCIININGlobal_V12.0.7.0.QFJINXM_5932fd5876_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinciin/fw_davinciin_miui_DAVINCIININGlobal_V12.0.7.0.QFJINXM_5932fd5876_10.0.zip
   filename: fw_davinciin_miui_DAVINCIININGlobal_V12.0.7.0.QFJINXM_5932fd5876_10.0.zip
   region: India

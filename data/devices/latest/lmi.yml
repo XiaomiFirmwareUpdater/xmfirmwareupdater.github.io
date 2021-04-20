@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-12.04.2021/fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-12.04.2021/fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
   filename: fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-28.01.2021/fw_lmi_miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-28.01.2021/fw_lmi_miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip
   filename: fw_lmi_miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/weekly-16.04.2021/fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-16.04.2021/fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/lmi/fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
   filename: fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_lmi/releases/download/stable-18.03.2021/fw_lmi_miui_LMIEEAGlobal_V12.2.5.0.RJKEUXM_f488e8493c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-18.03.2021/fw_lmi_miui_LMIEEAGlobal_V12.2.5.0.RJKEUXM_f488e8493c_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.5.0.RJKEUXM_f488e8493c_11.0.zip
   filename: fw_lmi_miui_LMIEEAGlobal_V12.2.5.0.RJKEUXM_f488e8493c_11.0.zip
   region: Europe

@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelica/releases/download/stable-16.04.2021/fw_angelica_miui_ANGELICAGlobal_V12.0.12.0.QCRMIXM_1fb4c1f4de_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-16.04.2021/fw_angelica_miui_ANGELICAGlobal_V12.0.12.0.QCRMIXM_1fb4c1f4de_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAGlobal_V12.0.12.0.QCRMIXM_1fb4c1f4de_10.0.zip
   filename: fw_angelica_miui_ANGELICAGlobal_V12.0.12.0.QCRMIXM_1fb4c1f4de_10.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_angelica/releases/download/stable-12.04.2021/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.7.0.QCREUXM_6bbe157a84_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-12.04.2021/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.7.0.QCREUXM_6bbe157a84_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.7.0.QCREUXM_6bbe157a84_10.0.zip
   filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.7.0.QCREUXM_6bbe157a84_10.0.zip
   region: Europe

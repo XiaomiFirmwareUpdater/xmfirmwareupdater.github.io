@@ -1,7 +1,7 @@
 - branch: stable
   date: '2020-09-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/stable-22.09.2020/fw_cactus_miui_HM6AGlobal_V11.0.9.0.PCBMIXM_ad95ef825f_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cactus/releases/download/stable-22.09.2020/fw_cactus_miui_HM6AGlobal_V11.0.9.0.PCBMIXM_ad95ef825f_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cactus/fw_cactus_miui_HM6AGlobal_V11.0.9.0.PCBMIXM_ad95ef825f_9.0.zip
   filename: fw_cactus_miui_HM6AGlobal_V11.0.9.0.PCBMIXM_ad95ef825f_9.0.zip
   region: Global
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2020-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/stable-23.03.2020/fw_cactus_miui_HM6A_V11.0.5.0.PCBCNXM_fb305209d9_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cactus/releases/download/stable-23.03.2020/fw_cactus_miui_HM6A_V11.0.5.0.PCBCNXM_fb305209d9_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cactus/fw_cactus_miui_HM6A_V11.0.5.0.PCBCNXM_fb305209d9_9.0.zip
   filename: fw_cactus_miui_HM6A_V11.0.5.0.PCBCNXM_fb305209d9_9.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2020-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_cactus/releases/download/weekly-09.01.2020/fw_cactus_miui_HM6A_20.1.9_9b2534c636_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cactus/releases/download/weekly-09.01.2020/fw_cactus_miui_HM6A_20.1.9_9b2534c636_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.9/cactus/fw_cactus_miui_HM6A_20.1.9_9b2534c636_9.0.zip
   filename: fw_cactus_miui_HM6A_20.1.9_9b2534c636_9.0.zip
   region: China

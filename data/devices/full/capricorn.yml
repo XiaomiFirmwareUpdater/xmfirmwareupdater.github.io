@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-11-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-11.11.2019/fw_capricorn_miui_MI5S_V11.0.2.0.OAGCNXM_6ce204eb2c_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/stable-11.11.2019/fw_capricorn_miui_MI5S_V11.0.2.0.OAGCNXM_6ce204eb2c_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/capricorn/fw_capricorn_miui_MI5S_V11.0.2.0.OAGCNXM_6ce204eb2c_8.0.zip
   filename: fw_capricorn_miui_MI5S_V11.0.2.0.OAGCNXM_6ce204eb2c_8.0.zip
   region: China
@@ -11,7 +11,7 @@
 - branch: weekly
   date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-17.10.2019/fw_capricorn_miui_MI5S_9.10.10_de79f43db0_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-17.10.2019/fw_capricorn_miui_MI5S_9.10.10_de79f43db0_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/capricorn/fw_capricorn_miui_MI5S_9.10.10_de79f43db0_8.0.zip
   filename: fw_capricorn_miui_MI5S_9.10.10_de79f43db0_8.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: stable
   date: '2019-07-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-05.07.2019/fw_capricorn_miui_MI5SGlobal_V10.2.3.0.OAGMIXM_638b1fbbd3_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/stable-05.07.2019/fw_capricorn_miui_MI5SGlobal_V10.2.3.0.OAGMIXM_638b1fbbd3_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/capricorn/fw_capricorn_miui_MI5SGlobal_V10.2.3.0.OAGMIXM_638b1fbbd3_8.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_V10.2.3.0.OAGMIXM_638b1fbbd3_8.0.zip
   region: Global
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-28.06.2019/fw_capricorn_miui_MI5SGlobal_9.6.27_853be080cb_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-28.06.2019/fw_capricorn_miui_MI5SGlobal_9.6.27_853be080cb_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/capricorn/fw_capricorn_miui_MI5SGlobal_9.6.27_853be080cb_8.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_9.6.27_853be080cb_8.0.zip
   region: Global
@@ -41,7 +41,7 @@
 - branch: weekly
   date: '2019-05-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-31.05.2019/fw_capricorn_miui_MI5SGlobal_9.5.30_a547c4ddae_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-31.05.2019/fw_capricorn_miui_MI5SGlobal_9.5.30_a547c4ddae_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/capricorn/fw_capricorn_miui_MI5SGlobal_9.5.30_a547c4ddae_8.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_9.5.30_a547c4ddae_8.0.zip
   region: Global
@@ -51,7 +51,7 @@
 - branch: weekly
   date: '2019-05-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-31.05.2019/fw_capricorn_miui_MI5S_9.5.30_016f871ef7_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-31.05.2019/fw_capricorn_miui_MI5S_9.5.30_016f871ef7_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/capricorn/fw_capricorn_miui_MI5S_9.5.30_016f871ef7_8.0.zip
   filename: fw_capricorn_miui_MI5S_9.5.30_016f871ef7_8.0.zip
   region: China
@@ -61,7 +61,7 @@
 - branch: stable
   date: '2019-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-22.01.2019/fw_capricorn_miui_MI5SGlobal_V10.2.1.0.OAGMIXM_08a9546256_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/stable-22.01.2019/fw_capricorn_miui_MI5SGlobal_V10.2.1.0.OAGMIXM_08a9546256_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/capricorn/fw_capricorn_miui_MI5SGlobal_V10.2.1.0.OAGMIXM_08a9546256_8.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_V10.2.1.0.OAGMIXM_08a9546256_8.0.zip
   region: Global
@@ -71,7 +71,7 @@
 - branch: stable
   date: '2019-01-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-22.01.2019/fw_capricorn_miui_MI5S_V10.2.1.0.OAGCNXM_8db69b2463_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/stable-22.01.2019/fw_capricorn_miui_MI5S_V10.2.1.0.OAGCNXM_8db69b2463_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/capricorn/fw_capricorn_miui_MI5S_V10.2.1.0.OAGCNXM_8db69b2463_8.0.zip
   filename: fw_capricorn_miui_MI5S_V10.2.1.0.OAGCNXM_8db69b2463_8.0.zip
   region: China
@@ -81,7 +81,7 @@
 - branch: weekly
   date: '2018-12-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-14.12.2018/fw_capricorn_miui_MI5SGlobal_8.12.13_e5558bd08a_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-14.12.2018/fw_capricorn_miui_MI5SGlobal_8.12.13_e5558bd08a_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/capricorn/fw_capricorn_miui_MI5SGlobal_8.12.13_e5558bd08a_8.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_8.12.13_e5558bd08a_8.0.zip
   region: Global
@@ -91,7 +91,7 @@
 - branch: weekly
   date: '2018-12-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-14.12.2018/fw_capricorn_miui_MI5S_8.12.13_93f6803d5e_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-14.12.2018/fw_capricorn_miui_MI5S_8.12.13_93f6803d5e_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/capricorn/fw_capricorn_miui_MI5S_8.12.13_93f6803d5e_8.0.zip
   filename: fw_capricorn_miui_MI5S_8.12.13_93f6803d5e_8.0.zip
   region: China
@@ -101,7 +101,7 @@
 - branch: stable
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-16.11.2018/fw_capricorn_miui_MI5SGlobal_V10.1.1.0.NAGMIFI_691a2ec0ca_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/stable-16.11.2018/fw_capricorn_miui_MI5SGlobal_V10.1.1.0.NAGMIFI_691a2ec0ca_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/capricorn/fw_capricorn_miui_MI5SGlobal_V10.1.1.0.NAGMIFI_691a2ec0ca_7.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_V10.1.1.0.NAGMIFI_691a2ec0ca_7.0.zip
   region: Global
@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-16.11.2018/fw_capricorn_miui_MI5SGlobal_8.11.15_5c5145f64a_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-16.11.2018/fw_capricorn_miui_MI5SGlobal_8.11.15_5c5145f64a_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/capricorn/fw_capricorn_miui_MI5SGlobal_8.11.15_5c5145f64a_8.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_8.11.15_5c5145f64a_8.0.zip
   region: Global
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-16.11.2018/fw_capricorn_miui_MI5S_8.11.15_480641e50c_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-16.11.2018/fw_capricorn_miui_MI5S_8.11.15_480641e50c_8.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/capricorn/fw_capricorn_miui_MI5S_8.11.15_480641e50c_8.0.zip
   filename: fw_capricorn_miui_MI5S_8.11.15_480641e50c_8.0.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: stable
   date: '2018-11-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/stable-07.11.2018/fw_capricorn_miui_MI5S_V10.1.1.0.NAGCNFI_1e3c469f60_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/stable-07.11.2018/fw_capricorn_miui_MI5S_V10.1.1.0.NAGCNFI_1e3c469f60_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/capricorn/fw_capricorn_miui_MI5S_V10.1.1.0.NAGCNFI_1e3c469f60_7.0.zip
   filename: fw_capricorn_miui_MI5S_V10.1.1.0.NAGCNFI_1e3c469f60_7.0.zip
   region: China
@@ -141,7 +141,7 @@
 - branch: weekly
   date: '2018-10-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-26.10.2018/fw_capricorn_miui_MI5SGlobal_8.10.25_69cbe52cde_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-26.10.2018/fw_capricorn_miui_MI5SGlobal_8.10.25_69cbe52cde_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/capricorn/fw_capricorn_miui_MI5SGlobal_8.10.25_69cbe52cde_7.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_8.10.25_69cbe52cde_7.0.zip
   region: Global
@@ -151,7 +151,7 @@
 - branch: weekly
   date: '2018-09-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/weekly-14.09.2018/fw_capricorn_miui_MI5S_8.9.13_6fbcc17f3d_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-14.09.2018/fw_capricorn_miui_MI5S_8.9.13_6fbcc17f3d_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/capricorn/fw_capricorn_miui_MI5S_8.9.13_6fbcc17f3d_7.0.zip
   filename: fw_capricorn_miui_MI5S_8.9.13_6fbcc17f3d_7.0.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: weekly
   date: '2018-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-7fe57290be5a71c3ef50/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/untagged-7fe57290be5a71c3ef50/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAGMIFA/capricorn/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
   region: Global
@@ -171,7 +171,7 @@
 - branch: weekly
   date: '2018-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-d3a8e061af984b1ba05a/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/untagged-d3a8e061af984b1ba05a/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAGMIFA/capricorn/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
   region: Global
@@ -181,7 +181,7 @@
 - branch: weekly
   date: '2018-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-d3a8e061af984b1ba05a/fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/untagged-d3a8e061af984b1ba05a/fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAGCNFA/capricorn/fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
   filename: fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
   region: China
@@ -191,7 +191,7 @@
 - branch: weekly
   date: '2018-05-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-62fd3c0d80d12ffd9d46/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/untagged-62fd3c0d80d12ffd9d46/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAGMIFA/capricorn/fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_V9.5.2.0.NAGMIFA_5b7e95093d_7.0.zip
   region: Global
@@ -201,7 +201,7 @@
 - branch: weekly
   date: '2018-05-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-62fd3c0d80d12ffd9d46/fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/untagged-62fd3c0d80d12ffd9d46/fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAGCNFA/capricorn/fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
   filename: fw_capricorn_miui_MI5S_V9.5.2.0.NAGCNFA_60af75c30b_7.0.zip
   region: China
@@ -211,7 +211,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-bdce69d978363d377408/fw_capricorn_miui_MI5SGlobal_8.4.12_21ab11af0a_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/untagged-bdce69d978363d377408/fw_capricorn_miui_MI5SGlobal_8.4.12_21ab11af0a_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/capricorn/fw_capricorn_miui_MI5SGlobal_8.4.12_21ab11af0a_7.0.zip
   filename: fw_capricorn_miui_MI5SGlobal_8.4.12_21ab11af0a_7.0.zip
   region: Global
@@ -221,7 +221,7 @@
 - branch: weekly
   date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_capricorn/releases/download/untagged-bdce69d978363d377408/fw_capricorn_miui_MI5S_8.4.12_a5200c6c57_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/untagged-bdce69d978363d377408/fw_capricorn_miui_MI5S_8.4.12_a5200c6c57_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/capricorn/fw_capricorn_miui_MI5S_8.4.12_a5200c6c57_7.0.zip
   filename: fw_capricorn_miui_MI5S_8.4.12_a5200c6c57_7.0.zip
   region: China

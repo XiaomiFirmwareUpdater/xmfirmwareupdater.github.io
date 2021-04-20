@@ -1,7 +1,7 @@
 - branch: stable
   date: '2021-04-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-12.04.2021/fw_ursa_miui_MI8Explorer_V12.0.5.0.QEHCNXM_de254be5c3_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-12.04.2021/fw_ursa_miui_MI8Explorer_V12.0.5.0.QEHCNXM_de254be5c3_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ursa/fw_ursa_miui_MI8Explorer_V12.0.5.0.QEHCNXM_de254be5c3_10.0.zip
   filename: fw_ursa_miui_MI8Explorer_V12.0.5.0.QEHCNXM_de254be5c3_10.0.zip
   region: China
@@ -11,7 +11,7 @@
 - branch: stable
   date: '2021-01-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-06.01.2021/fw_ursa_miui_MI8Explorer_V12.0.4.0.QEHCNXM_b6e7153077_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-06.01.2021/fw_ursa_miui_MI8Explorer_V12.0.4.0.QEHCNXM_b6e7153077_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ursa/fw_ursa_miui_MI8Explorer_V12.0.4.0.QEHCNXM_b6e7153077_10.0.zip
   filename: fw_ursa_miui_MI8Explorer_V12.0.4.0.QEHCNXM_b6e7153077_10.0.zip
   region: China
@@ -21,7 +21,7 @@
 - branch: weekly
   date: '2020-09-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-05.09.2020/fw_ursa_miui_MI8Explorer_20.9.4_e2caf167de_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-05.09.2020/fw_ursa_miui_MI8Explorer_20.9.4_e2caf167de_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.4/ursa/fw_ursa_miui_MI8Explorer_20.9.4_e2caf167de_10.0.zip
   filename: fw_ursa_miui_MI8Explorer_20.9.4_e2caf167de_10.0.zip
   region: China
@@ -31,7 +31,7 @@
 - branch: weekly
   date: '2020-05-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-08.05.2020/fw_ursa_miui_MI8Explorer_20.5.7_9e95712bf1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-08.05.2020/fw_ursa_miui_MI8Explorer_20.5.7_9e95712bf1_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/ursa/fw_ursa_miui_MI8Explorer_20.5.7_9e95712bf1_10.0.zip
   filename: fw_ursa_miui_MI8Explorer_20.5.7_9e95712bf1_10.0.zip
   region: China
@@ -41,7 +41,7 @@
 - branch: stable
   date: '2020-04-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-13.04.2020/fw_ursa_miui_MI8Explorer_V11.0.3.0.QEHCNXM_ed3a873415_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-13.04.2020/fw_ursa_miui_MI8Explorer_V11.0.3.0.QEHCNXM_ed3a873415_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ursa/fw_ursa_miui_MI8Explorer_V11.0.3.0.QEHCNXM_ed3a873415_10.0.zip
   filename: fw_ursa_miui_MI8Explorer_V11.0.3.0.QEHCNXM_ed3a873415_10.0.zip
   region: China
@@ -51,7 +51,7 @@
 - branch: weekly
   date: '2020-03-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-26.03.2020/fw_ursa_miui_MI8Explorer_20.3.26_22ea00a9a2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-26.03.2020/fw_ursa_miui_MI8Explorer_20.3.26_22ea00a9a2_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/ursa/fw_ursa_miui_MI8Explorer_20.3.26_22ea00a9a2_10.0.zip
   filename: fw_ursa_miui_MI8Explorer_20.3.26_22ea00a9a2_10.0.zip
   region: China
@@ -61,7 +61,7 @@
 - branch: stable
   date: '2019-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-04.11.2019/fw_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-04.11.2019/fw_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ursa/fw_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_V11.0.3.0.PEHCNXM_a6cabc7cdf_9.0.zip
   region: China
@@ -71,7 +71,7 @@
 - branch: stable
   date: '2019-10-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-18.10.2019/fw_ursa_miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-18.10.2019/fw_ursa_miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/ursa/fw_ursa_miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_V11.0.2.0.PEHCNXM_d379552ffb_9.0.zip
   region: China
@@ -81,7 +81,7 @@
 - branch: weekly
   date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-17.10.2019/fw_ursa_miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-17.10.2019/fw_ursa_miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.26/ursa/fw_ursa_miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.9.26_308dfca23f_9.0.zip
   region: China
@@ -91,7 +91,7 @@
 - branch: weekly
   date: '2019-08-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-23.08.2019/fw_ursa_miui_MI8Explorer_9.8.22_fb647a25b9_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-23.08.2019/fw_ursa_miui_MI8Explorer_9.8.22_fb647a25b9_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.22/ursa/fw_ursa_miui_MI8Explorer_9.8.22_fb647a25b9_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.8.22_fb647a25b9_9.0.zip
   region: China
@@ -101,7 +101,7 @@
 - branch: weekly
   date: '2019-08-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-16.08.2019/fw_ursa_miui_MI8Explorer_9.8.15_503e9c0959_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-16.08.2019/fw_ursa_miui_MI8Explorer_9.8.15_503e9c0959_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.15/ursa/fw_ursa_miui_MI8Explorer_9.8.15_503e9c0959_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.8.15_503e9c0959_9.0.zip
   region: China
@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2019-08-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-02.08.2019/fw_ursa_miui_MI8Explorer_9.8.1_e5d64ca15b_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-02.08.2019/fw_ursa_miui_MI8Explorer_9.8.1_e5d64ca15b_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/ursa/fw_ursa_miui_MI8Explorer_9.8.1_e5d64ca15b_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.8.1_e5d64ca15b_9.0.zip
   region: China
@@ -121,7 +121,7 @@
 - branch: stable
   date: '2019-07-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-05.07.2019/fw_ursa_miui_MI8Explorer_V10.2.1.0.PEHCNXM_dedaca3d40_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-05.07.2019/fw_ursa_miui_MI8Explorer_V10.2.1.0.PEHCNXM_dedaca3d40_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ursa/fw_ursa_miui_MI8Explorer_V10.2.1.0.PEHCNXM_dedaca3d40_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_V10.2.1.0.PEHCNXM_dedaca3d40_9.0.zip
   region: China
@@ -131,7 +131,7 @@
 - branch: weekly
   date: '2019-07-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-05.07.2019/fw_ursa_miui_MI8Explorer_9.7.4_43a327d85a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-05.07.2019/fw_ursa_miui_MI8Explorer_9.7.4_43a327d85a_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/ursa/fw_ursa_miui_MI8Explorer_9.7.4_43a327d85a_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.7.4_43a327d85a_9.0.zip
   region: China
@@ -141,7 +141,7 @@
 - branch: stable
   date: '2019-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-26.06.2019/fw_ursa_miui_MI8Explorer_V10.3.4.0.PEHCNXM_a45ae692ea_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-26.06.2019/fw_ursa_miui_MI8Explorer_V10.3.4.0.PEHCNXM_a45ae692ea_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ursa/fw_ursa_miui_MI8Explorer_V10.3.4.0.PEHCNXM_a45ae692ea_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_V10.3.4.0.PEHCNXM_a45ae692ea_9.0.zip
   region: China
@@ -151,7 +151,7 @@
 - branch: weekly
   date: '2019-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-22.06.2019/fw_ursa_miui_MI8Explorer_9.6.20_794aa47fe4_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-22.06.2019/fw_ursa_miui_MI8Explorer_9.6.20_794aa47fe4_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/ursa/fw_ursa_miui_MI8Explorer_9.6.20_794aa47fe4_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.6.20_794aa47fe4_9.0.zip
   region: China
@@ -161,7 +161,7 @@
 - branch: weekly
   date: '2019-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-10.05.2019/fw_ursa_miui_MI8Explorer_9.5.9_b7a70ac645_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-10.05.2019/fw_ursa_miui_MI8Explorer_9.5.9_b7a70ac645_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.9/ursa/fw_ursa_miui_MI8Explorer_9.5.9_b7a70ac645_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.5.9_b7a70ac645_9.0.zip
   region: China
@@ -171,7 +171,7 @@
 - branch: weekly
   date: '2019-03-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-29.03.2019/fw_ursa_miui_MI8Explorer_9.3.28_4a4dfc5d0a_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-29.03.2019/fw_ursa_miui_MI8Explorer_9.3.28_4a4dfc5d0a_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.28/ursa/fw_ursa_miui_MI8Explorer_9.3.28_4a4dfc5d0a_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.3.28_4a4dfc5d0a_9.0.zip
   region: China
@@ -181,7 +181,7 @@
 - branch: weekly
   date: '2019-03-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-22.03.2019/fw_ursa_miui_MI8Explorer_9.3.21_2ba5147356_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-22.03.2019/fw_ursa_miui_MI8Explorer_9.3.21_2ba5147356_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.21/ursa/fw_ursa_miui_MI8Explorer_9.3.21_2ba5147356_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.3.21_2ba5147356_9.0.zip
   region: China
@@ -191,7 +191,7 @@
 - branch: weekly
   date: '2019-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-18.02.2019/fw_ursa_miui_MI8Explorer_9.2.15_022a5edf22_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-18.02.2019/fw_ursa_miui_MI8Explorer_9.2.15_022a5edf22_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.2.15/ursa/fw_ursa_miui_MI8Explorer_9.2.15_022a5edf22_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.2.15_022a5edf22_9.0.zip
   region: China
@@ -201,7 +201,7 @@
 - branch: weekly
   date: '2019-01-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-25.01.2019/fw_ursa_miui_MI8Explorer_9.1.24_31510d0ca0_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-25.01.2019/fw_ursa_miui_MI8Explorer_9.1.24_31510d0ca0_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.24/ursa/fw_ursa_miui_MI8Explorer_9.1.24_31510d0ca0_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.1.24_31510d0ca0_9.0.zip
   region: China
@@ -211,7 +211,7 @@
 - branch: weekly
   date: '2019-01-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-18.01.2019/fw_ursa_miui_MI8Explorer_9.1.17_d0ec43e4eb_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-18.01.2019/fw_ursa_miui_MI8Explorer_9.1.17_d0ec43e4eb_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/ursa/fw_ursa_miui_MI8Explorer_9.1.17_d0ec43e4eb_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.1.17_d0ec43e4eb_9.0.zip
   region: China
@@ -221,7 +221,7 @@
 - branch: stable
   date: '2019-01-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-11.01.2019/fw_ursa_miui_MI8Explorer_V10.2.1.0.PEHCNXM_dedaca3d40_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-11.01.2019/fw_ursa_miui_MI8Explorer_V10.2.1.0.PEHCNXM_dedaca3d40_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ursa/fw_ursa_miui_MI8Explorer_V10.2.1.0.PEHCNXM_dedaca3d40_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_V10.2.1.0.PEHCNXM_dedaca3d40_9.0.zip
   region: China
@@ -231,7 +231,7 @@
 - branch: weekly
   date: '2019-01-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-11.01.2019/fw_ursa_miui_MI8Explorer_9.1.10_22116bd189_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-11.01.2019/fw_ursa_miui_MI8Explorer_9.1.10_22116bd189_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.10/ursa/fw_ursa_miui_MI8Explorer_9.1.10_22116bd189_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_9.1.10_22116bd189_9.0.zip
   region: China
@@ -241,7 +241,7 @@
 - branch: stable
   date: '2019-01-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-03.01.2019/fw_ursa_miui_MI8Explorer_V10.1.2.0.PEHCNFI_077fc553fa_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-03.01.2019/fw_ursa_miui_MI8Explorer_V10.1.2.0.PEHCNFI_077fc553fa_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ursa/fw_ursa_miui_MI8Explorer_V10.1.2.0.PEHCNFI_077fc553fa_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_V10.1.2.0.PEHCNFI_077fc553fa_9.0.zip
   region: China
@@ -251,7 +251,7 @@
 - branch: weekly
   date: '2019-01-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-03.01.2019/fw_ursa_miui_MI8Explorer_8.12.20_7795e7c872_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-03.01.2019/fw_ursa_miui_MI8Explorer_8.12.20_7795e7c872_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/ursa/fw_ursa_miui_MI8Explorer_8.12.20_7795e7c872_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_8.12.20_7795e7c872_9.0.zip
   region: China
@@ -261,7 +261,7 @@
 - branch: stable
   date: '2018-12-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-23.12.2018/fw_ursa_miui_MI8Explorer_V10.1.2.0.PEHCNFI_077fc553fa_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-23.12.2018/fw_ursa_miui_MI8Explorer_V10.1.2.0.PEHCNFI_077fc553fa_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ursa/fw_ursa_miui_MI8Explorer_V10.1.2.0.PEHCNFI_077fc553fa_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_V10.1.2.0.PEHCNFI_077fc553fa_9.0.zip
   region: China
@@ -271,7 +271,7 @@
 - branch: weekly
   date: '2018-12-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-14.12.2018/fw_ursa_miui_MI8Explorer_8.12.13_c6b9224a46_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-14.12.2018/fw_ursa_miui_MI8Explorer_8.12.13_c6b9224a46_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/ursa/fw_ursa_miui_MI8Explorer_8.12.13_c6b9224a46_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_8.12.13_c6b9224a46_9.0.zip
   region: China
@@ -281,7 +281,7 @@
 - branch: weekly
   date: '2018-12-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-10.12.2018/fw_ursa_miui_MI8Explorer_8.12.7_a1a29dd208_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-10.12.2018/fw_ursa_miui_MI8Explorer_8.12.7_a1a29dd208_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.7/ursa/fw_ursa_miui_MI8Explorer_8.12.7_a1a29dd208_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_8.12.7_a1a29dd208_9.0.zip
   region: China
@@ -291,7 +291,7 @@
 - branch: stable
   date: '2018-11-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-30.11.2018/fw_ursa_miui_MI8Explorer_V10.0.12.0.OEHCNFH_e5e9071825_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-30.11.2018/fw_ursa_miui_MI8Explorer_V10.0.12.0.OEHCNFH_e5e9071825_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ursa/fw_ursa_miui_MI8Explorer_V10.0.12.0.OEHCNFH_e5e9071825_8.1.zip
   filename: fw_ursa_miui_MI8Explorer_V10.0.12.0.OEHCNFH_e5e9071825_8.1.zip
   region: China
@@ -301,7 +301,7 @@
 - branch: weekly
   date: '2018-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-26.11.2018/fw_ursa_miui_MI8Explorer_8.11.23_0e28f9c566_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-26.11.2018/fw_ursa_miui_MI8Explorer_8.11.23_0e28f9c566_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.23/ursa/fw_ursa_miui_MI8Explorer_8.11.23_0e28f9c566_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_8.11.23_0e28f9c566_9.0.zip
   region: China
@@ -311,7 +311,7 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-16.11.2018/fw_ursa_miui_MI8Explorer_8.11.15_0395da1157_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-16.11.2018/fw_ursa_miui_MI8Explorer_8.11.15_0395da1157_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/ursa/fw_ursa_miui_MI8Explorer_8.11.15_0395da1157_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_8.11.15_0395da1157_9.0.zip
   region: China
@@ -321,7 +321,7 @@
 - branch: weekly
   date: '2018-11-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-09.11.2018/fw_ursa_miui_MI8Explorer_8.11.8_04094856f7_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-09.11.2018/fw_ursa_miui_MI8Explorer_8.11.8_04094856f7_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/ursa/fw_ursa_miui_MI8Explorer_8.11.8_04094856f7_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_8.11.8_04094856f7_9.0.zip
   region: China
@@ -331,7 +331,7 @@
 - branch: weekly
   date: '2018-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-05.11.2018/fw_ursa_miui_MI8Explorer_8.11.2_831a4628f1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-05.11.2018/fw_ursa_miui_MI8Explorer_8.11.2_831a4628f1_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.2/ursa/fw_ursa_miui_MI8Explorer_8.11.2_831a4628f1_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_8.11.2_831a4628f1_9.0.zip
   region: China
@@ -341,7 +341,7 @@
 - branch: stable
   date: '2018-10-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-29.10.2018/fw_ursa_miui_MI8Explorer_V10.0.9.0.OEHCNFH_7ece5602ea_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-29.10.2018/fw_ursa_miui_MI8Explorer_V10.0.9.0.OEHCNFH_7ece5602ea_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ursa/fw_ursa_miui_MI8Explorer_V10.0.9.0.OEHCNFH_7ece5602ea_8.1.zip
   filename: fw_ursa_miui_MI8Explorer_V10.0.9.0.OEHCNFH_7ece5602ea_8.1.zip
   region: China
@@ -351,7 +351,7 @@
 - branch: weekly
   date: '2018-10-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-26.10.2018/fw_ursa_miui_MI8Explorer_8.10.25_b779ef9727_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-26.10.2018/fw_ursa_miui_MI8Explorer_8.10.25_b779ef9727_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/ursa/fw_ursa_miui_MI8Explorer_8.10.25_b779ef9727_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_8.10.25_b779ef9727_9.0.zip
   region: China
@@ -361,7 +361,7 @@
 - branch: weekly
   date: '2018-10-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-19.10.2018/fw_ursa_miui_MI8Explorer_8.10.18_947d541291_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-19.10.2018/fw_ursa_miui_MI8Explorer_8.10.18_947d541291_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/ursa/fw_ursa_miui_MI8Explorer_8.10.18_947d541291_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_8.10.18_947d541291_9.0.zip
   region: China
@@ -371,7 +371,7 @@
 - branch: weekly
   date: '2018-10-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-13.10.2018/fw_ursa_miui_MI8Explorer_8.10.12_9701cb9d44_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-13.10.2018/fw_ursa_miui_MI8Explorer_8.10.12_9701cb9d44_9.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.12/ursa/fw_ursa_miui_MI8Explorer_8.10.12_9701cb9d44_9.0.zip
   filename: fw_ursa_miui_MI8Explorer_8.10.12_9701cb9d44_9.0.zip
   region: China
@@ -381,7 +381,7 @@
 - branch: stable
   date: '2018-09-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-20.09.2018/fw_ursa_miui_MI8Explorer_V10.0.6.0.OEHCNFH_f915ad1ee9_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-20.09.2018/fw_ursa_miui_MI8Explorer_V10.0.6.0.OEHCNFH_f915ad1ee9_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ursa/fw_ursa_miui_MI8Explorer_V10.0.6.0.OEHCNFH_f915ad1ee9_8.1.zip
   filename: fw_ursa_miui_MI8Explorer_V10.0.6.0.OEHCNFH_f915ad1ee9_8.1.zip
   region: China
@@ -391,7 +391,7 @@
 - branch: weekly
   date: '2018-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-18.09.2018/fw_ursa_miui_MI8Explorer_8.9.13_6729188de9_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-18.09.2018/fw_ursa_miui_MI8Explorer_8.9.13_6729188de9_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.9.13/ursa/fw_ursa_miui_MI8Explorer_8.9.13_6729188de9_8.1.zip
   filename: fw_ursa_miui_MI8Explorer_8.9.13_6729188de9_8.1.zip
   region: China
@@ -401,7 +401,7 @@
 - branch: weekly
   date: '2018-09-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/weekly-07.09.2018/fw_ursa_miui_MI8Explorer_8.8.24_b738fe690f_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/weekly-07.09.2018/fw_ursa_miui_MI8Explorer_8.8.24_b738fe690f_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.24/ursa/fw_ursa_miui_MI8Explorer_8.8.24_b738fe690f_8.1.zip
   filename: fw_ursa_miui_MI8Explorer_8.8.24_b738fe690f_8.1.zip
   region: China
@@ -411,7 +411,7 @@
 - branch: stable
   date: '2018-09-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-04.09.2018/fw_ursa_miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-04.09.2018/fw_ursa_miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ursa/fw_ursa_miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip
   filename: fw_ursa_miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip
   region: China
@@ -421,7 +421,7 @@
 - branch: stable
   date: '2018-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/stable-01.09.2018/fw_ursa_miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/stable-01.09.2018/fw_ursa_miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/ursa/fw_ursa_miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip
   filename: fw_ursa_miui_MI8Explorer_V9.6.7.0.OEHCNFD_8701b933eb_8.1.zip
   region: China
@@ -431,7 +431,7 @@
 - branch: weekly
   date: '2018-08-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdater/firmware_xiaomi_ursa/releases/download/untagged-0a6e362ad18c30b87f19/fw_ursa_miui_MI8Explorer_8.8.30_38d9ad6925_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ursa/releases/download/untagged-0a6e362ad18c30b87f19/fw_ursa_miui_MI8Explorer_8.8.30_38d9ad6925_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/ursa/fw_ursa_miui_MI8Explorer_8.8.30_38d9ad6925_8.1.zip
   filename: fw_ursa_miui_MI8Explorer_8.8.30_38d9ad6925_8.1.zip
   region: China
