@@ -50,7 +50,7 @@ def get_data_from_github(url):
     return data
 
 
-ORG = get_data_from_github('https://api.github.com/orgs/XiaomiFirmwareUpdater/repos?per_page=100')
+ORG = get_data_from_github('https://api.github.com/orgs/XiaomiFirmwareUpdaterReleases/repos?per_page=100')
 
 
 def load_names():
@@ -100,7 +100,7 @@ def load_releases():
     archive = []
     for device in FW_CODENAMES:
         info = []
-        url = f'https://api.github.com/repos/XiaomiFirmwareUpdater/' \
+        url = f'https://api.github.com/repos/XiaomiFirmwareUpdaterReleases/' \
               f'firmware_xiaomi_{device}/releases?per_page=100'
         data = get_data_from_github(url)
         # Generate all releases YAML
