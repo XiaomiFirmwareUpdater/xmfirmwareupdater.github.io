@@ -17198,6 +17198,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-21.04.2021/fw_lmi_miui_LMI_V12.2.4.0.RJKCNXM_9d9da1c3f3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.2.4.0.RJKCNXM_9d9da1c3f3_11.0.zip
+  filename: fw_lmi_miui_LMI_V12.2.4.0.RJKCNXM_9d9da1c3f3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.2.4.0.RJKCNXM
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -26768,6 +26778,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PFKINXM
+- branch: stable
+  date: '2021-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-21.04.2021/fw_renoir_miui_RENOIR_V12.0.7.0.RKICNXM_ccf60ab5b4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIR_V12.0.7.0.RKICNXM_ccf60ab5b4_11.0.zip
+  filename: fw_renoir_miui_RENOIR_V12.0.7.0.RKICNXM_ccf60ab5b4_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.7.0.RKICNXM
 - branch: stable
   date: '2019-12-25'
   downloads:
