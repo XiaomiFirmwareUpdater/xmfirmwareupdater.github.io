@@ -40,16 +40,23 @@ async function generate_link(filename, branch, version, codename) {
     // }
     // link += codename + '/' + filename;
     // return link
-    var link = 'https://xfu.xiaomifirmwareupdater.com/firmware/';
-    if (branch == 'Stable') {
-        link += 'Stable/';
-        link += version.split('.')[0] + '/';
-    }
-    else if (branch == 'Weekly') {
-        link += 'Developer/';
-        link += version + '/';
-    }
-    link += codename + '/' + filename;
+    await $.ajax({
+        url: '/data/devices/full/' + codename + '.yml',
+        async: true,
+        converters: {
+            'text yaml': function (result) {
+                return jsyaml.load(result);
+            }
+        },
+        dataType: 'yaml'
+    }).done(function (data) {
+        for (let i = 0; i < data.length; i++) {
+            if (data[i].filename == filename) {
+                link = data[i].downloads.github;
+                break;
+            }
+        }
+    })
     return link
 }
 
