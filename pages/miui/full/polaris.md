@@ -52,7 +52,8 @@ permalink: /archive/miui/polaris/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi MIX 2S China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QDGCNXM</td><td>10.0</td><td>2.3 GB</td><td>2021-04-07</td><td><a href="/miui/polaris/stable beta/V12.0.3.0.QDGCNXM/">Download</a></td></tr>
+                <tr><td>Mi MIX 2S China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QDGCNXM</td><td>10.0</td><td>2.3 GB</td><td>2021-04-07</td><td><a href="/miui/polaris/stable/V12.0.3.0.QDGCNXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2S China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QDGCNXM</td><td>10.0</td><td>2.8 GB</td><td>2021-03-26</td><td><a href="/miui/polaris/stable/V12.0.3.0.QDGCNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2S Global</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QDGMIXM</td><td>10.0</td><td>2.0 GB</td><td>2021-01-04</td><td><a href="/miui/polaris/stable/V12.0.3.0.QDGMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2S Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QDGMIXM</td><td>10.0</td><td>2.6 GB</td><td>2020-12-28</td><td><a href="/miui/polaris/stable/V12.0.3.0.QDGMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2S Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QDGRUXM</td><td>10.0</td><td>2.0 GB</td><td>2020-12-22</td><td><a href="/miui/polaris/stable/V12.0.2.0.QDGRUXM/">Download</a></td></tr>
@@ -73,10 +74,10 @@ permalink: /archive/miui/polaris/
 <tr><td>Mi MIX 2S China</td><td>Weekly</td><td>Recovery</td><td>20.6.17</td><td>10.0</td><td>2.3 GB</td><td>2020-06-17</td><td><a href="/miui/polaris/weekly/20.6.17/">Download</a></td></tr>
 <tr><td>Mi MIX 2S China</td><td>Weekly</td><td>Recovery</td><td>20.6.11</td><td>10.0</td><td>2.3 GB</td><td>2020-06-11</td><td><a href="/miui/polaris/weekly/20.6.11/">Download</a></td></tr>
 <tr><td>Mi MIX 2S China</td><td>Weekly</td><td>Recovery</td><td>20.6.4</td><td>10.0</td><td>2.3 GB</td><td>2020-06-04</td><td><a href="/miui/polaris/weekly/20.6.4/">Download</a></td></tr>
-<tr><td>Mi MIX 2S Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QDGRUXM</td><td>10.0</td><td>2.1 GB</td><td>2020-06-04</td><td><a href="/miui/polaris/stable/V11.0.2.0.QDGRUXM/">Download</a></td></tr>
-<tr><td>Mi MIX 2S Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QDGRUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-05-27</td><td><a href="/miui/polaris/stable/V11.0.2.0.QDGRUXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2S China</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QDGCNXM</td><td>10.0</td><td>2.1 GB</td><td>2020-08-07</td><td><a href="/miui/polaris/stable/V12.0.1.0.QDGCNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2S China</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QDGCNXM</td><td>10.0</td><td>2.8 GB</td><td>2020-08-05</td><td><a href="/miui/polaris/stable/V12.0.1.0.QDGCNXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2S Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QDGRUXM</td><td>10.0</td><td>2.1 GB</td><td>2020-06-04</td><td><a href="/miui/polaris/stable/V11.0.2.0.QDGRUXM/">Download</a></td></tr>
+<tr><td>Mi MIX 2S Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QDGRUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-05-27</td><td><a href="/miui/polaris/stable/V11.0.2.0.QDGRUXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2S Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QDGMIXM</td><td>10.0</td><td>2.1 GB</td><td>2020-06-03</td><td><a href="/miui/polaris/stable/V11.0.5.0.QDGMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2S Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QDGMIXM</td><td>10.0</td><td>2.5 GB</td><td>2020-05-28</td><td><a href="/miui/polaris/stable/V11.0.5.0.QDGMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 2S China</td><td>Weekly</td><td>Recovery</td><td>20.5.28</td><td>10.0</td><td>2.2 GB</td><td>2020-05-28</td><td><a href="/miui/polaris/weekly/20.5.28/">Download</a></td></tr>
