@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-22.04.2021/fw_thyme_miui_THYME_21.4.21_db90732103_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/thyme/fw_thyme_miui_THYME_21.4.21_db90732103_11.0.zip
+  filename: fw_thyme_miui_THYME_21.4.21_db90732103_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.21
+- branch: weekly
   date: '2021-04-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-15.04.2021/fw_thyme_miui_THYME_21.4.14_020050e38a_11.0.zip

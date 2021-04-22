@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-22.04.2021/fw_bomb_miui_BOMB_21.4.21_c87adf699e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/bomb/fw_bomb_miui_BOMB_21.4.21_c87adf699e_11.0.zip
+  filename: fw_bomb_miui_BOMB_21.4.21_c87adf699e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.21
+- branch: weekly
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-15.04.2021/fw_bomb_miui_BOMB_21.4.14_c748f711d2_11.0.zip
