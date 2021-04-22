@@ -89,16 +89,6 @@
     android: '7.1'
     miui: V10.1.1.0.NAMMIFI
 - branch: weekly
-  date: '2018-11-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-23.11.2018/fw_santoni_miui_HM4X_8.11.22_eccde81602_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/santoni/fw_santoni_miui_HM4X_8.11.22_eccde81602_7.1.zip
-  filename: fw_santoni_miui_HM4X_8.11.22_eccde81602_7.1.zip
-  region: China
-  versions:
-    android: '7.1'
-    miui: 8.11.22
-- branch: weekly
   date: '2018-11-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_santoni/releases/download/weekly-16.11.2018/fw_santoni_miui_HM4XGlobal_8.11.15_80de5a5168_7.1.zip

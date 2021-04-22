@@ -108,26 +108,6 @@
   versions:
     android: '7.0'
     miui: V10.1.1.0.NAGMIFI
-- branch: weekly
-  date: '2018-11-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-16.11.2018/fw_capricorn_miui_MI5SGlobal_8.11.15_5c5145f64a_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/capricorn/fw_capricorn_miui_MI5SGlobal_8.11.15_5c5145f64a_8.0.zip
-  filename: fw_capricorn_miui_MI5SGlobal_8.11.15_5c5145f64a_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.11.15
-- branch: weekly
-  date: '2018-11-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-16.11.2018/fw_capricorn_miui_MI5S_8.11.15_480641e50c_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/capricorn/fw_capricorn_miui_MI5S_8.11.15_480641e50c_8.0.zip
-  filename: fw_capricorn_miui_MI5S_8.11.15_480641e50c_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.11.15
 - branch: stable
   date: '2018-11-07'
   downloads:

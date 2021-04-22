@@ -342,12 +342,6 @@
   version: 21.4.21
 - android: '11.0'
   codename: begonia
-  date: '2021-04-15'
-  download: https://bigota.d.miui.com/21.4.14/miui_BEGONIA_21.4.14_99b3bafb14_11.0.zip
-  name: Redmi Note 8 Pro
-  version: 21.4.14
-- android: '11.0'
-  codename: begonia
   date: '2021-04-08'
   download: https://bigota.d.miui.com/21.4.7/miui_BEGONIA_21.4.7_e097e8fcbd_11.0.zip
   name: Redmi Note 8 Pro
@@ -834,12 +828,6 @@
   version: 21.4.21
 - android: '11.0'
   codename: cas
-  date: '2021-04-15'
-  download: https://bigota.d.miui.com/21.4.14/miui_CAS_21.4.14_6c5dcf7fd7_11.0.zip
-  name: Mi 10 Ultra
-  version: 21.4.14
-- android: '11.0'
-  codename: cas
   date: '2021-04-18'
   download: https://bigota.d.miui.com/21.4.8/miui_CAS_21.4.8_bd2c78e9b9_11.0.zip
   name: Mi 10 Ultra
@@ -1276,12 +1264,6 @@
   download: https://bigota.d.miui.com/21.4.21/miui_CMI_21.4.21_8b1b703a20_11.0.zip
   name: Mi 10 Pro
   version: 21.4.21
-- android: '11.0'
-  codename: cmi
-  date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.4.14/miui_CMI_21.4.14_9df107f9ea_11.0.zip
-  name: Mi 10 Pro
-  version: 21.4.14
 - android: '11.0'
   codename: cmi
   date: '2021-04-18'
@@ -1878,12 +1860,6 @@
   version: 21.4.21
 - android: '11.0'
   codename: grus
-  date: '2021-04-16'
-  download: https://bigota.d.miui.com/21.4.14/miui_GRUS_21.4.14_b60d5a6175_11.0.zip
-  name: Mi 9 SE
-  version: 21.4.14
-- android: '11.0'
-  codename: grus
   date: '2021-04-08'
   download: https://bigota.d.miui.com/21.4.7/miui_GRUS_21.4.7_aad81c9d66_11.0.zip
   name: Mi 9 SE
@@ -1992,12 +1968,6 @@
   version: 21.4.22
 - android: '10.0'
   codename: laurus
-  date: '2021-04-16'
-  download: https://bigota.d.miui.com/21.4.14/miui_LAURUS_21.4.14_e47f5a0fd0_10.0.zip
-  name: Mi CC 9e
-  version: 21.4.14
-- android: '10.0'
-  codename: laurus
   date: '2021-04-01'
   download: https://bigota.d.miui.com/21.4.1/miui_LAURUS_21.4.1_b0231e6134_10.0.zip
   name: Mi CC 9e
@@ -2014,12 +1984,6 @@
   download: https://bigota.d.miui.com/21.4.21/miui_LAVENDER_21.4.21_4a7184ecfa_10.0.zip
   name: Redmi Note 7/7S
   version: 21.4.21
-- android: '10.0'
-  codename: lavender
-  date: '2021-04-16'
-  download: https://bigota.d.miui.com/21.4.14/miui_LAVENDER_21.4.14_8903b7a4d2_10.0.zip
-  name: Redmi Note 7/7S
-  version: 21.4.14
 - android: '10.0'
   codename: lavender
   date: '2021-04-08'
@@ -2116,12 +2080,6 @@
   download: https://bigota.d.miui.com/21.4.21/miui_LIME_21.4.21_8cfc1448fc_11.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
   version: 21.4.21
-- android: '11.0'
-  codename: lime
-  date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.4.14/miui_LIME_21.4.14_1a889c0ae6_11.0.zip
-  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
-  version: 21.4.14
 - android: '11.0'
   codename: lime
   date: '2021-04-18'
@@ -2443,12 +2401,6 @@
 - android: '11.0'
   codename: phoenix
   date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.4.14/miui_PHOENIX_21.4.14_7aeb39d86c_11.0.zip
-  name: Redmi K30 4G
-  version: 21.4.14
-- android: '11.0'
-  codename: phoenix
-  date: '2021-04-18'
   download: https://bigota.d.miui.com/21.4.1/miui_PHOENIX_21.4.1_d9c81922e5_11.0.zip
   name: Redmi K30 4G
   version: 21.4.1
@@ -2620,18 +2572,6 @@
   download: https://bigota.d.miui.com/21.4.22/miui_PICASSO_21.4.22_a09989c93a_11.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
   version: 21.4.22
-- android: '11.0'
-  codename: picasso
-  date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.4.14/miui_PICASSO48M_21.4.14_419b990b4d_11.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 21.4.14
-- android: '11.0'
-  codename: picasso
-  date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.4.14/miui_PICASSO_21.4.14_098664a773_11.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 21.4.14
 - android: '11.0'
   codename: picasso
   date: '2021-04-18'
@@ -3144,12 +3084,6 @@
   version: 21.4.21
 - android: '11.0'
   codename: thyme
-  date: '2021-04-15'
-  download: https://bigota.d.miui.com/21.4.14/miui_THYME_21.4.14_020050e38a_11.0.zip
-  name: Mi 10S
-  version: 21.4.14
-- android: '11.0'
-  codename: thyme
   date: '2021-04-08'
   download: https://bigota.d.miui.com/21.4.8/miui_THYME_21.4.8_eb9a3c9502_11.0.zip
   name: Mi 10S
@@ -3571,12 +3505,6 @@
 - android: '11.0'
   codename: vangogh
   date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.4.14/miui_VANGOGH_21.4.14_b1bc8d8219_11.0.zip
-  name: Mi 10 Lite Zoom
-  version: 21.4.14
-- android: '11.0'
-  codename: vangogh
-  date: '2021-04-18'
   download: https://bigota.d.miui.com/21.4.7/miui_VANGOGH_21.4.7_e8bc2d0966_11.0.zip
   name: Mi 10 Lite Zoom
   version: 21.4.7
@@ -3826,12 +3754,6 @@
   download: https://bigota.d.miui.com/21.4.21/miui_VIOLET_21.4.21_ddb47e165d_10.0.zip
   name: Redmi Note 7 Pro
   version: 21.4.21
-- android: '10.0'
-  codename: violet
-  date: '2021-04-17'
-  download: https://bigota.d.miui.com/21.4.14/miui_VIOLET_21.4.14_3168ad03ed_10.0.zip
-  name: Redmi Note 7 Pro
-  version: 21.4.14
 - android: '10.0'
   codename: violet
   date: '2021-04-08'

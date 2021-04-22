@@ -271,16 +271,6 @@
 - branch: weekly
   date: '2018-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sakura/releases/download/weekly-16.11.2018/fw_sakura_miui_HM6Pro_8.11.15_9a11df5104_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/sakura/fw_sakura_miui_HM6Pro_8.11.15_9a11df5104_8.1.zip
-  filename: fw_sakura_miui_HM6Pro_8.11.15_9a11df5104_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.11.15
-- branch: weekly
-  date: '2018-11-16'
-  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sakura/releases/download/weekly-16.11.2018/fw__miui_HM6ProINGlobal_8.11.15_df62d54932_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/sakura/fw__miui_HM6ProINGlobal_8.11.15_df62d54932_8.1.zip
   filename: fw__miui_HM6ProINGlobal_8.11.15_df62d54932_8.1.zip

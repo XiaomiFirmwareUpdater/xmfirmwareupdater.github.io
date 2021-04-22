@@ -19,16 +19,6 @@
     android: '6.0'
     miui: 9.3.28
 - branch: weekly
-  date: '2018-11-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_prada/releases/download/weekly-23.11.2018/fw_prada_miui_HM4_8.11.22_cd97b387f3_6.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/prada/fw_prada_miui_HM4_8.11.22_cd97b387f3_6.0.zip
-  filename: fw_prada_miui_HM4_8.11.22_cd97b387f3_6.0.zip
-  region: China
-  versions:
-    android: '6.0'
-    miui: 8.11.22
-- branch: weekly
   date: '2018-04-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_prada/releases/download/untagged-3d0bb3560f0f3d586694/fw_prada_miui_HM4_8.4.12_2ff3e45a5f_6.0.zip

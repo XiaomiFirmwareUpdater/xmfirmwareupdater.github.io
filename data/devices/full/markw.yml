@@ -28,16 +28,6 @@
   versions:
     android: '6.0'
     miui: 9.3.28
-- branch: weekly
-  date: '2018-11-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_markw/releases/download/weekly-23.11.2018/fw_markw_miui_HM4Pro_8.11.22_c70771cad2_6.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/markw/fw_markw_miui_HM4Pro_8.11.22_c70771cad2_6.0.zip
-  filename: fw_markw_miui_HM4Pro_8.11.22_c70771cad2_6.0.zip
-  region: China
-  versions:
-    android: '6.0'
-    miui: 8.11.22
 - branch: stable
   date: '2018-08-09'
   downloads:

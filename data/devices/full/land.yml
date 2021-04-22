@@ -39,26 +39,6 @@
     android: '6.0'
     miui: 9.3.28
 - branch: weekly
-  date: '2018-11-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_land/releases/download/weekly-23.11.2018/fw_land_miui_HM3S_8.11.22_4d3cc9bef0_6.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/land/fw_land_miui_HM3S_8.11.22_4d3cc9bef0_6.0.zip
-  filename: fw_land_miui_HM3S_8.11.22_4d3cc9bef0_6.0.zip
-  region: China
-  versions:
-    android: '6.0'
-    miui: 8.11.22
-- branch: weekly
-  date: '2018-11-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_land/releases/download/weekly-16.11.2018/fw_land_miui_HM3SGlobal_8.11.15_36ce31556a_6.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/land/fw_land_miui_HM3SGlobal_8.11.15_36ce31556a_6.0.zip
-  filename: fw_land_miui_HM3SGlobal_8.11.15_36ce31556a_6.0.zip
-  region: Global
-  versions:
-    android: '6.0'
-    miui: 8.11.15
-- branch: weekly
   date: '2018-04-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_land/releases/download/untagged-69689da88a60613374e4/fw_land_miui_HM3SGlobal_8.4.12_bd445ad22b_6.0.zip

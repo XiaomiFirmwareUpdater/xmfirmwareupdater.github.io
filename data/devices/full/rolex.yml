@@ -48,16 +48,6 @@
   versions:
     android: '7.1'
     miui: V10.2.1.0.NCCMIXM
-- branch: weekly
-  date: '2018-11-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rolex/releases/download/weekly-16.11.2018/fw_rolex_miui_HM4AGlobal_8.11.15_2417b40184_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/rolex/fw_rolex_miui_HM4AGlobal_8.11.15_2417b40184_7.1.zip
-  filename: fw_rolex_miui_HM4AGlobal_8.11.15_2417b40184_7.1.zip
-  region: Global
-  versions:
-    android: '7.1'
-    miui: 8.11.15
 - branch: stable
   date: '2018-11-07'
   downloads:

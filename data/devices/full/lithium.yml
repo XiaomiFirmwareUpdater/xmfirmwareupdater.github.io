@@ -98,26 +98,6 @@
   versions:
     android: '8.0'
     miui: 8.12.20
-- branch: weekly
-  date: '2018-11-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lithium/releases/download/weekly-23.11.2018/fw_lithium_miui_MIMIX_8.11.22_579a7887d4_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.22/lithium/fw_lithium_miui_MIMIX_8.11.22_579a7887d4_8.0.zip
-  filename: fw_lithium_miui_MIMIX_8.11.22_579a7887d4_8.0.zip
-  region: China
-  versions:
-    android: '8.0'
-    miui: 8.11.22
-- branch: weekly
-  date: '2018-11-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lithium/releases/download/weekly-16.11.2018/fw_lithium_miui_MIMIXGlobal_8.11.15_e6aaf8cb32_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.15/lithium/fw_lithium_miui_MIMIXGlobal_8.11.15_e6aaf8cb32_8.0.zip
-  filename: fw_lithium_miui_MIMIXGlobal_8.11.15_e6aaf8cb32_8.0.zip
-  region: Global
-  versions:
-    android: '8.0'
-    miui: 8.11.15
 - branch: stable
   date: '2018-09-18'
   downloads:
