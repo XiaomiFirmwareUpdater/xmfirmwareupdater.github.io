@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 23 Apr 2021 02:05:28 +0900</pubDate>
+  <pubDate>Fri, 23 Apr 2021 07:00:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X 5G (atom) - V11.0.6.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Fri, 23 Apr 2021 07:00:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V11.0.5.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Fri, 23 Apr 2021 06:47:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V11.0.4.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Fri, 23 Apr 2021 06:13:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V11.0.2.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Fri, 23 Apr 2021 05:40:44 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro/Pro Max (sweetin) - V12.0.10.0.RKFINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweetin</link>
@@ -35,26 +55,6 @@
     <title>Redmi 10X Pro (bomb) - V11.0.1.0.QJLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
     <pubDate>Fri, 23 Apr 2021 00:15:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V11.0.5.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 23:40:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V11.0.6.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 23:40:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V11.0.4.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 23:07:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V11.0.2.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 23:07:01 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 10 Pro (sweet) - V12.0.14.0.RKFMIXM</title>
