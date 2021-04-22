@@ -8149,6 +8149,16 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
+  date: '2021-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-22.04.2021/fw_curtana_miui_CURTANAGlobal_V12.0.6.0.QJWMIXM_ef9b200d31_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAGlobal_V12.0.6.0.QJWMIXM_ef9b200d31_10.0.zip
+  filename: fw_curtana_miui_CURTANAGlobal_V12.0.6.0.QJWMIXM_ef9b200d31_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QJWMIXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-13.04.2021/fw_curtana_miui_CURTANAGlobal_V12.0.1.7.RJWMIXM_af09804f7b_11.0.zip
@@ -14619,6 +14629,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2021-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-22.04.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.3.0.QJZMIXM_99a2cc21b6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.3.0.QJZMIXM_99a2cc21b6_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.0.3.0.QJZMIXM_99a2cc21b6_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJZMIXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-21.01.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.2.0.QJZEUXM_53af718a4c_10.0.zip
@@ -15268,6 +15288,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-22.04.2021/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.6.0.RFQEUXM_57c4951751_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.6.0.RFQEUXM_57c4951751_11.0.zip
+  filename: fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.6.0.RFQEUXM_57c4951751_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.6.0.RFQEUXM
 - branch: stable
   date: '2021-04-16'
   downloads:
@@ -29798,6 +29828,16 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QJGINXM
+- branch: stable
+  date: '2021-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-22.04.2021/fw_sweet_miui_SWEETGlobal_V12.0.14.0.RKFMIXM_9acfa07094_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.0.14.0.RKFMIXM_9acfa07094_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.0.14.0.RKFMIXM_9acfa07094_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.14.0.RKFMIXM
 - branch: stable
   date: '2021-04-18'
   downloads:
