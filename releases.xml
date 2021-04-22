@@ -1,110 +1,110 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 22 Apr 2021 07:08:00 +0900</pubDate>
+  <pubDate>Thu, 22 Apr 2021 15:09:55 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.2.0.RJDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 22 Apr 2021 07:08:00 +0900</pubDate>
+    <title>Redmi 9C NFC (angelican) - V12.0.6.0.QCSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Thu, 22 Apr 2021 15:09:55 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.19.0.QJDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 22 Apr 2021 07:07:02 +0900</pubDate>
+    <title>Redmi 9C NFC (angelican) - V12.0.3.0.QCSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Thu, 22 Apr 2021 15:08:24 +0900</pubDate>
   </item>
     <item>
-    <title>POCO C3 (angelicain) - V12.0.2.0.QCRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
-    <pubDate>Thu, 22 Apr 2021 07:00:01 +0900</pubDate>
+    <title>Redmi 9C NFC (angelican) - V12.0.4.0.QCSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Thu, 22 Apr 2021 15:08:15 +0900</pubDate>
   </item>
     <item>
-    <title>POCO C3 (angelicain) - V12.0.3.0.QCRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
-    <pubDate>Thu, 22 Apr 2021 07:00:01 +0900</pubDate>
+    <title>Mi 10 (umi) - V12.2.6.0.RJBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Thu, 22 Apr 2021 15:05:33 +0900</pubDate>
   </item>
     <item>
-    <title>POCO C3 (angelicain) - V12.0.5.0.QCRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
-    <pubDate>Thu, 22 Apr 2021 07:00:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V11.0.4.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 07:00:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V11.0.2.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 07:00:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO C3 (angelicain) - V12.0.8.0.QCRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
-    <pubDate>Thu, 22 Apr 2021 07:00:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V11.0.6.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 07:00:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.0.4.0.RKHEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Thu, 22 Apr 2021 07:00:01 +0900</pubDate>
+    <title>Redmi 9C NFC (angelican) - V12.0.5.0.QCSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Thu, 22 Apr 2021 15:00:02 +0900</pubDate>
   </item>
     <item>
     <title>POCO C3 (angelicain) - V12.0.7.0.QCRINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
-    <pubDate>Thu, 22 Apr 2021 07:00:01 +0900</pubDate>
+    <pubDate>Thu, 22 Apr 2021 14:40:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C3 (angelicain) - V12.0.8.0.QCRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
+    <pubDate>Thu, 22 Apr 2021 14:32:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C3 (angelicain) - V12.0.5.0.QCRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
+    <pubDate>Thu, 22 Apr 2021 14:31:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C3 (angelicain) - V12.0.3.0.QCRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
+    <pubDate>Thu, 22 Apr 2021 14:02:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C3 (angelicain) - V12.0.2.0.QCRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
+    <pubDate>Thu, 22 Apr 2021 13:42:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V11.0.5.0.QJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Thu, 22 Apr 2021 13:38:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V11.0.3.0.QJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Thu, 22 Apr 2021 13:14:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V11.0.2.0.QJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Thu, 22 Apr 2021 13:03:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.0.4.0.RKHEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Thu, 22 Apr 2021 12:50:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V11.0.1.0.QJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Thu, 22 Apr 2021 11:52:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V11.0.6.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Thu, 22 Apr 2021 11:52:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V11.0.4.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Thu, 22 Apr 2021 11:07:45 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 10X 5G (atom) - V11.0.5.0.QJHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 07:00:01 +0900</pubDate>
+    <pubDate>Thu, 22 Apr 2021 11:07:41 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V11.0.6.0.QJCINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Mon, 19 Apr 2021 04:25:26 +0900</pubDate>
+    <title>Redmi 10X 5G (atom) - V11.0.2.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Thu, 22 Apr 2021 11:07:29 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V11.0.1.0.QJCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Mon, 19 Apr 2021 04:25:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V11.0.2.0.QJCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Mon, 19 Apr 2021 04:25:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V11.0.3.0.QJCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Mon, 19 Apr 2021 04:25:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/9AT (dandelion) - V12.0.12.0.QCDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Mon, 19 Apr 2021 01:18:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.4.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Sun, 18 Apr 2021 01:00:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.4.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Sat, 17 Apr 2021 23:19:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7 Pro (violet) - 21.4.14</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
-    <pubDate>Sat, 17 Apr 2021 10:29:30 +0900</pubDate>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.2.0.RJDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Thu, 22 Apr 2021 10:27:50 +0900</pubDate>
   </item>
     </channel>
 </rss>
