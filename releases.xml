@@ -1,15 +1,65 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 23 Apr 2021 07:00:01 +0900</pubDate>
+  <pubDate>Fri, 23 Apr 2021 13:02:15 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi 9C (angelica) - V12.0.10.0.QCRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Fri, 23 Apr 2021 13:02:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.7.0.QCREUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Fri, 23 Apr 2021 13:01:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.5.0.QCREUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Fri, 23 Apr 2021 12:29:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.4.0.QCREUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Fri, 23 Apr 2021 11:57:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.3.0.QCREUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Fri, 23 Apr 2021 11:26:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V11.0.5.0.QJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Fri, 23 Apr 2021 10:53:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V11.0.3.0.QJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Fri, 23 Apr 2021 10:17:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V11.0.2.0.QJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Fri, 23 Apr 2021 09:44:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V11.0.1.0.QJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Fri, 23 Apr 2021 09:11:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.0.4.0.RKHEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Fri, 23 Apr 2021 08:39:20 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi 10X 5G (atom) - V11.0.6.0.QJHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Fri, 23 Apr 2021 07:00:01 +0900</pubDate>
+    <pubDate>Fri, 23 Apr 2021 07:20:51 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 10X 5G (atom) - V11.0.5.0.QJHCNXM</title>
@@ -30,31 +80,6 @@
     <title>Redmi Note 10 Pro/Pro Max (sweetin) - V12.0.10.0.RKFINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweetin</link>
     <pubDate>Fri, 23 Apr 2021 02:05:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V11.0.3.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 23 Apr 2021 01:15:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V11.0.5.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 23 Apr 2021 01:14:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.0.4.0.RKHEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Fri, 23 Apr 2021 01:06:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V11.0.2.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 23 Apr 2021 00:50:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V11.0.1.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 23 Apr 2021 00:15:14 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 10 Pro (sweet) - V12.0.14.0.RKFMIXM</title>
@@ -80,31 +105,6 @@
     <title>Redmi 10X 5G (atom) - V12.0.8.0.QJHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
     <pubDate>Thu, 22 Apr 2021 18:17:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V12.0.7.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 18:17:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.19.0.QJDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 22 Apr 2021 18:16:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V12.0.5.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 18:12:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V12.0.4.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 18:06:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V12.0.6.0.QJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 22 Apr 2021 18:02:14 +0900</pubDate>
   </item>
     </channel>
 </rss>
