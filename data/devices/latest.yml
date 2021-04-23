@@ -639,15 +639,15 @@
     android: '10.0'
     miui: V12.0.8.0.QJFEUXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-04-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-18.02.2021/fw_citrus_miui_CITRUSINGlobal_V12.0.4.0.QJFINXM_42e75d5ced_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSINGlobal_V12.0.4.0.QJFINXM_42e75d5ced_10.0.zip
-  filename: fw_citrus_miui_CITRUSINGlobal_V12.0.4.0.QJFINXM_42e75d5ced_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-23.04.2021/fw_citrus_miui_CITRUSINGlobal_V12.0.5.0.QJFINXM_defb8f7e08_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSINGlobal_V12.0.5.0.QJFINXM_defb8f7e08_10.0.zip
+  filename: fw_citrus_miui_CITRUSINGlobal_V12.0.5.0.QJFINXM_defb8f7e08_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.4.0.QJFINXM
+    miui: V12.0.5.0.QJFINXM
 - branch: stable
   date: '2019-07-15'
   downloads:
@@ -3199,15 +3199,15 @@
     android: '11.0'
     miui: 21.4.21
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-04-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-26.03.2021/fw_vayu_miui_VAYUGlobal_V12.0.4.0.RJUMIXM_503a04bdd4_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUGlobal_V12.0.4.0.RJUMIXM_503a04bdd4_11.0.zip
-  filename: fw_vayu_miui_VAYUGlobal_V12.0.4.0.RJUMIXM_503a04bdd4_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-23.04.2021/fw_vayu_miui_VAYUGlobal_V12.0.6.0.RJUMIXM_eccd7da42b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUGlobal_V12.0.6.0.RJUMIXM_eccd7da42b_11.0.zip
+  filename: fw_vayu_miui_VAYUGlobal_V12.0.6.0.RJUMIXM_eccd7da42b_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.4.0.RJUMIXM
+    miui: V12.0.6.0.RJUMIXM
 - branch: stable
   date: '2021-04-18'
   downloads:
