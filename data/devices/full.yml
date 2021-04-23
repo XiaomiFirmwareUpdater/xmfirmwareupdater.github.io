@@ -2549,6 +2549,16 @@
     android: '9.0'
     miui: V10.4.4.0.PGGCNXM
 - branch: stable
+  date: '2021-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begoniain/releases/download/stable-23.04.2021/fw_begoniain_miui_BEGONIAININGlobal_V12.0.5.0.QGGINXM_0d36f22516_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V12.0.5.0.QGGINXM_0d36f22516_10.0.zip
+  filename: fw_begoniain_miui_BEGONIAININGlobal_V12.0.5.0.QGGINXM_0d36f22516_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QGGINXM
+- branch: stable
   date: '2021-02-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begoniain/releases/download/stable-25.02.2021/fw_begoniain_miui_BEGONIAININGlobal_V12.0.4.0.QGGINXM_efed300eef_10.0.zip
@@ -17238,6 +17248,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-23.04.2021/fw_lmi_miui_LMIEEAGlobal_V12.2.6.0.RJKEUXM_d02e954dc9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.6.0.RJKEUXM_d02e954dc9_11.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.6.0.RJKEUXM_d02e954dc9_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.2.6.0.RJKEUXM
 - branch: weekly
   date: '2021-04-22'
   downloads:
@@ -29629,6 +29649,16 @@
     android: '11.0'
     miui: V12.0.2.0.RKAINXM
 - branch: stable
+  date: '2021-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-23.04.2021/fw_surya_miui_SURYAINGlobal_V12.0.10.0.QJGINXM_51530be56a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAINGlobal_V12.0.10.0.QJGINXM_51530be56a_10.0.zip
+  filename: fw_surya_miui_SURYAINGlobal_V12.0.10.0.QJGINXM_51530be56a_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.10.0.QJGINXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-15.04.2021/fw_surya_miui_SURYAEEAGlobal_V12.0.7.0.RJGEUXM_641da640cd_11.0.zip
@@ -29858,6 +29888,16 @@
   versions:
     android: '11.0'
     miui: V12.0.1.0.RKFINXM
+- branch: stable
+  date: '2021-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-23.04.2021/fw_thyme_miui_THYME_V12.0.11.0.RGACNXM_e07287cd2e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/thyme/fw_thyme_miui_THYME_V12.0.11.0.RGACNXM_e07287cd2e_11.0.zip
+  filename: fw_thyme_miui_THYME_V12.0.11.0.RGACNXM_e07287cd2e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.11.0.RGACNXM
 - branch: weekly
   date: '2021-04-22'
   downloads:
