@@ -18599,6 +18599,26 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-23.04.2021/fw_mojito_miui_MOJITOGlobal_V12.0.7.0.RKGMIXM_5a09f57e13_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOGlobal_V12.0.7.0.RKGMIXM_5a09f57e13_11.0.zip
+  filename: fw_mojito_miui_MOJITOGlobal_V12.0.7.0.RKGMIXM_5a09f57e13_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.7.0.RKGMIXM
+- branch: stable
+  date: '2021-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-23.04.2021/fw_mojito_miui_MOJITOINGlobal_V12.0.1.0.RKGINXM_f584d3b8c9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOINGlobal_V12.0.1.0.RKGINXM_f584d3b8c9_11.0.zip
+  filename: fw_mojito_miui_MOJITOINGlobal_V12.0.1.0.RKGINXM_f584d3b8c9_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.0.1.0.RKGINXM
+- branch: stable
   date: '2021-04-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-10.04.2021/fw_mojito_miui_MOJITOEEAGlobal_V12.0.3.0.RKGEUXM_d15dfae454_11.0.zip
@@ -26828,6 +26848,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PFKINXM
+- branch: stable
+  date: '2021-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-23.04.2021/fw_renoir_miui_RENOIREEAGlobal_V12.0.8.0.RKIEUXM_c832608d97_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIREEAGlobal_V12.0.8.0.RKIEUXM_c832608d97_11.0.zip
+  filename: fw_renoir_miui_RENOIREEAGlobal_V12.0.8.0.RKIEUXM_c832608d97_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.8.0.RKIEUXM
 - branch: stable
   date: '2021-04-20'
   downloads:

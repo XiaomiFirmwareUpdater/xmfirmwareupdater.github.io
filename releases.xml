@@ -1,15 +1,35 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 24 Apr 2021 00:12:47 +0900</pubDate>
+  <pubDate>Sat, 24 Apr 2021 03:00:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi 10X 5G (atom) - V12.0.5.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Sat, 24 Apr 2021 03:00:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V12.0.4.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Sat, 24 Apr 2021 02:42:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V12.0.2.0.QJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Sat, 24 Apr 2021 01:54:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C NFC (angelican) - V12.0.7.0.QCSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Sat, 24 Apr 2021 01:09:46 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi 9C NFC (angelican) - V12.0.6.0.QCSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
-    <pubDate>Sat, 24 Apr 2021 00:12:47 +0900</pubDate>
+    <pubDate>Sat, 24 Apr 2021 00:39:31 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 9C NFC (angelican) - V12.0.5.0.QCSMIXM</title>
@@ -85,26 +105,6 @@
     <title>Redmi 9C (angelica) - V12.0.7.0.QCRMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
     <pubDate>Fri, 23 Apr 2021 16:49:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.6.0.QCREUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Fri, 23 Apr 2021 16:18:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.6.0.QCRMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Fri, 23 Apr 2021 15:46:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.5.0.QCRMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Fri, 23 Apr 2021 15:13:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.4.0.QCRMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Fri, 23 Apr 2021 14:40:23 +0900</pubDate>
   </item>
     </channel>
 </rss>

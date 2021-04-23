@@ -112,7 +112,7 @@ permalink: /archive/miui/tiare/
 <tr><td>Redmi Go EEA</td><td>Stable</td><td>Fastboot</td><td>V10.2.8.0.OCLEUXM</td><td>8.1</td><td>894.8 MB</td><td>2019-07-19</td><td><a href="/miui/tiare/stable/V10.2.8.0.OCLEUXM/">Download</a></td></tr>
 <tr><td>Redmi Go India</td><td>Stable</td><td>Recovery</td><td>V10.2.10.0.OCLINXM</td><td>8.1</td><td>818.7 MB</td><td>2019-07-17</td><td><a href="/miui/tiare/stable/V10.2.10.0.OCLINXM/">Download</a></td></tr>
 <tr><td>Redmi Go India</td><td>Stable</td><td>Fastboot</td><td>V10.2.10.0.OCLINXM</td><td>8.1</td><td>903.2 MB</td><td>2019-07-11</td><td><a href="/miui/tiare/stable/V10.2.10.0.OCLINXM/">Download</a></td></tr>
-<tr><td>Redmi Go Russia</td><td>Stable Beta</td><td>Fastboot</td><td>V10.2.9.0.OCLRUXM</td><td>8.1</td><td>1.8 GB</td><td>2019-07-15</td><td><a href="/miui/tiare/stable beta/V10.2.9.0.OCLRUXM/">Download</a></td></tr>
+<tr><td>Redmi Go Russia</td><td>Stable</td><td>Fastboot</td><td>V10.2.9.0.OCLRUXM</td><td>8.1</td><td>1.8 GB</td><td>2019-07-15</td><td><a href="/miui/tiare/stable/V10.2.9.0.OCLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Go Global</td><td>Stable</td><td>Recovery</td><td>V10.2.12.0.OCLMIXM</td><td>8.1</td><td>810.5 MB</td><td>2019-06-19</td><td><a href="/miui/tiare/stable/V10.2.12.0.OCLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Go Global</td><td>Stable</td><td>Fastboot</td><td>V10.2.12.0.OCLMIXM</td><td>8.1</td><td>894.7 MB</td><td>2019-06-13</td><td><a href="/miui/tiare/stable/V10.2.12.0.OCLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Go India</td><td>Stable</td><td>Recovery</td><td>V10.2.9.0.OCLINXM</td><td>8.1</td><td>818.4 MB</td><td>2019-06-06</td><td><a href="/miui/tiare/stable/V10.2.9.0.OCLINXM/">Download</a></td></tr>
