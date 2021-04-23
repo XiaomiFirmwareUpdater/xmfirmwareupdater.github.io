@@ -1488,6 +1488,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: crux
+  date: '2021-04-23'
+  download: https://bigota.d.miui.com/21.4.22/miui_CRUX_21.4.22_f3cd3bcbfc_11.0.zip
+  name: Mi 9 Pro 5G
+  version: 21.4.22
+- android: '11.0'
+  codename: crux
   date: '2021-04-16'
   download: https://bigota.d.miui.com/21.4.14/miui_CRUX_21.4.14_4ab7b94274_11.0.zip
   name: Mi 9 Pro 5G
@@ -3070,6 +3076,12 @@
   download: https://bigota.d.miui.com/20.5.21/miui_MI8SE_20.5.21_275736f090_10.0.zip
   name: Mi 8 SE
   version: 20.5.21
+- android: '11.0'
+  codename: star
+  date: '2021-04-23'
+  download: https://bigota.d.miui.com/21.4.21/miui_STAR_21.4.21_a04f6ef519_11.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: 21.4.21
 - android: '11.0'
   codename: star
   date: '2021-04-17'

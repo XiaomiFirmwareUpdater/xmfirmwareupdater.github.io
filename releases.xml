@@ -1,15 +1,35 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 23 Apr 2021 19:00:02 +0900</pubDate>
+  <pubDate>Fri, 23 Apr 2021 21:12:28 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi 9C NFC (angelican) - V12.0.5.0.QCSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Fri, 23 Apr 2021 21:12:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C NFC (angelican) - V12.0.4.0.QCSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Fri, 23 Apr 2021 21:04:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C NFC (angelican) - V12.0.3.0.QCSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Fri, 23 Apr 2021 20:33:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C3 (angelicain) - V12.0.8.0.QCRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
+    <pubDate>Fri, 23 Apr 2021 20:02:53 +0900</pubDate>
+  </item>
+    <item>
     <title>POCO C3 (angelicain) - V12.0.7.0.QCRINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
-    <pubDate>Fri, 23 Apr 2021 19:00:02 +0900</pubDate>
+    <pubDate>Fri, 23 Apr 2021 19:31:18 +0900</pubDate>
   </item>
     <item>
     <title>POCO C3 (angelicain) - V12.0.5.0.QCRINXM</title>
@@ -85,26 +105,6 @@
     <title>Redmi 9C (angelica) - V12.0.3.0.QCREUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
     <pubDate>Fri, 23 Apr 2021 11:26:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V11.0.5.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 23 Apr 2021 10:53:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V11.0.3.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 23 Apr 2021 10:17:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V11.0.2.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 23 Apr 2021 09:44:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V11.0.1.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 23 Apr 2021 09:11:29 +0900</pubDate>
   </item>
     </channel>
 </rss>

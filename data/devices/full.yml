@@ -7889,6 +7889,16 @@
     android: '11.0'
     miui: V12.0.2.0.RKQMIXM
 - branch: weekly
+  date: '2021-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-23.04.2021/fw_crux_miui_CRUX_21.4.22_f3cd3bcbfc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.22/crux/fw_crux_miui_CRUX_21.4.22_f3cd3bcbfc_11.0.zip
+  filename: fw_crux_miui_CRUX_21.4.22_f3cd3bcbfc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.22
+- branch: weekly
   date: '2021-04-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-16.04.2021/fw_crux_miui_CRUX_21.4.14_4ab7b94274_11.0.zip
@@ -29518,6 +29528,16 @@
   versions:
     android: '8.1'
     miui: 8.6.18
+- branch: weekly
+  date: '2021-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-23.04.2021/fw_star_miui_STAR_21.4.21_a04f6ef519_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/star/fw_star_miui_STAR_21.4.21_a04f6ef519_11.0.zip
+  filename: fw_star_miui_STAR_21.4.21_a04f6ef519_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.21
 - branch: stable
   date: '2021-04-19'
   downloads:
