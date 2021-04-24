@@ -15529,15 +15529,15 @@
     android: '9.0'
     miui: V10.2.7.0.PFMCNXM
 - branch: weekly
-  date: '2021-04-22'
+  date: '2021-04-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lavender/releases/download/weekly-22.04.2021/fw_lavender_miui_LAVENDER_21.4.21_4a7184ecfa_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/lavender/fw_lavender_miui_LAVENDER_21.4.21_4a7184ecfa_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_21.4.21_4a7184ecfa_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lavender/releases/download/weekly-24.04.2021/fw_lavender_miui_LAVENDER_21.4.22_6bbb89d224_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.22/lavender/fw_lavender_miui_LAVENDER_21.4.22_6bbb89d224_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_21.4.22_6bbb89d224_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 21.4.21
+    miui: 21.4.22
 - branch: weekly
   date: '2021-04-08'
   downloads:
@@ -18628,16 +18628,6 @@
   versions:
     android: '11.0'
     miui: V12.0.3.0.RKGEUXM
-- branch: stable
-  date: '2021-04-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-04.04.2021/fw_mojito_miui_MOJITOGlobal_V12.0.5.0.RKGMIXM_c1ce4b2097_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOGlobal_V12.0.5.0.RKGMIXM_c1ce4b2097_11.0.zip
-  filename: fw_mojito_miui_MOJITOGlobal_V12.0.5.0.RKGMIXM_c1ce4b2097_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.0.5.0.RKGMIXM
 - branch: stable
   date: '2021-04-01'
   downloads:
@@ -34409,15 +34399,15 @@
     android: '7.1'
     miui: 8.4.12
 - branch: weekly
-  date: '2021-04-22'
+  date: '2021-04-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-22.04.2021/fw_violet_miui_VIOLET_21.4.21_ddb47e165d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/violet/fw_violet_miui_VIOLET_21.4.21_ddb47e165d_10.0.zip
-  filename: fw_violet_miui_VIOLET_21.4.21_ddb47e165d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-24.04.2021/fw_violet_miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.22/violet/fw_violet_miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
+  filename: fw_violet_miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 21.4.21
+    miui: 21.4.22
 - branch: weekly
   date: '2021-04-08'
   downloads:

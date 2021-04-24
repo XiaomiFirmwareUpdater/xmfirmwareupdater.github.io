@@ -52,7 +52,7 @@ permalink: /archive/miui/lavender/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>21.4.21</td><td>10.0</td><td>2.5 GB</td><td>2021-04-21</td><td><a href="/miui/lavender/weekly/21.4.21/">Download</a></td></tr>
+                <tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>21.4.22</td><td>10.0</td><td>2.5 GB</td><td>2021-04-23</td><td><a href="/miui/lavender/weekly/21.4.22/">Download</a></td></tr>
 <tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>21.4.14</td><td>10.0</td><td>2.5 GB</td><td>2021-04-15</td><td><a href="/miui/lavender/weekly/21.4.14/">Download</a></td></tr>
 <tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>21.4.7</td><td>10.0</td><td>2.5 GB</td><td>2021-04-08</td><td><a href="/miui/lavender/weekly/21.4.7/">Download</a></td></tr>
 <tr><td>Redmi Note 7 China</td><td>Weekly</td><td>Recovery</td><td>21.4.1</td><td>10.0</td><td>2.5 GB</td><td>2021-04-01</td><td><a href="/miui/lavender/weekly/21.4.1/">Download</a></td></tr>
