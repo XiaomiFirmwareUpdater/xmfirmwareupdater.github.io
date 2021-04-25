@@ -11,7 +11,8 @@ Xiaomi Flashable Firmware Creator is a tool that generates flashable firmware-up
 
 It supports creating untouched firmware, non-arb firmware, firmware + vendor flashable zip, and firmware-less ROMs from any supported local or remote miui zip. You just need to give the tool a local file path or a direct link to the miui zip and it'll do the job for you!
 
-[![screenshot](https://raw.githubusercontent.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/py/screenshots/1.png)](https://xiaomifirmwareupdater.com/projects/xiaomi-flashable-firmware-creator/)
+<img src="https://raw.githubusercontent.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator.py/py/screenshots/1.png" class="img-fluid rounded mx-auto d-block" alt="screenshot">
+
 
 ### Features:
 - CLI and GUI versions.
@@ -69,9 +70,11 @@ xiaomi_flashable_firmware_creator -V [MIUI ZIP]
 
 3- Open CMD/Terminal in that folder and type the command you want with file name, from the above three options.
 
-![1](https://i.postimg.cc/DwvbdGfp/1.png)
+<img src="https://i.postimg.cc/DwvbdGfp/1.png" class="img-fluid rounded mx-auto d-block" alt="screenshot">
 
-![2](https://i.postimg.cc/13vVWzfm/2.png)
+
+<img src="https://i.postimg.cc/13vVWzfm/2.png" class="img-fluid rounded mx-auto d-block" alt="screenshot">
+
 
 4- Commands will be like this.
 ```
@@ -86,11 +89,11 @@ create_flashable_firmware.exe -L miui_HMNote5HMNote5ProGlobal_8.11.23_12bcf570ce
 
 5- Run the command you want and the result file will be in the same folder.
 
-![3](https://i.postimg.cc/tg7Z8Hxh/3.png)
+<img src="https://i.postimg.cc/tg7Z8Hxh/3.png" class="img-fluid rounded mx-auto d-block" alt="screenshot">
 
 6- Final Zips after running all the commands:
 
-![4](https://i.postimg.cc/L6fV0jpH/4.png)
+<img src="https://i.postimg.cc/L6fV0jpH/4.png" class="img-fluid rounded mx-auto d-block" alt="screenshot">
 
 
 ### Support:
