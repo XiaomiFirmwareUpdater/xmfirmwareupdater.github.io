@@ -9,15 +9,15 @@
     android: '11.0'
     miui: V12.0.2.0.RKHMIXM
 - branch: stable
-  date: '2021-04-09'
+  date: '2021-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-09.04.2021/fw_alioth_miui_ALIOTH_V12.0.8.0.RKHCNXM_14ccafdfff_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTH_V12.0.8.0.RKHCNXM_14ccafdfff_11.0.zip
-  filename: fw_alioth_miui_ALIOTH_V12.0.8.0.RKHCNXM_14ccafdfff_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-25.04.2021/fw_alioth_miui_ALIOTH_V12.5.2.0.RKHCNXM_7ce9685e29_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTH_V12.5.2.0.RKHCNXM_7ce9685e29_11.0.zip
+  filename: fw_alioth_miui_ALIOTH_V12.5.2.0.RKHCNXM_7ce9685e29_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.0.8.0.RKHCNXM
+    miui: V12.5.2.0.RKHCNXM
 - branch: weekly
   date: '2021-04-22'
   downloads:
@@ -339,15 +339,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-19.03.2021/fw_cannon_miui_CANNON_V12.0.9.0.QJECNXM_873e9cfff9_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.0.9.0.QJECNXM_873e9cfff9_10.0.zip
-  filename: fw_cannon_miui_CANNON_V12.0.9.0.QJECNXM_873e9cfff9_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-25.04.2021/fw_cannon_miui_CANNON_V12.5.1.0.RJECNXM_6873b51dd8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.5.1.0.RJECNXM_6873b51dd8_11.0.zip
+  filename: fw_cannon_miui_CANNON_V12.5.1.0.RJECNXM_6873b51dd8_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V12.0.9.0.QJECNXM
+    android: '11.0'
+    miui: V12.5.1.0.RJECNXM
 - branch: weekly
   date: '2021-04-22'
   downloads:

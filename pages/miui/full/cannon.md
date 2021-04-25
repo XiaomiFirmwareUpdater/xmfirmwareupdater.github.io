@@ -52,7 +52,8 @@ permalink: /archive/miui/cannon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.21</td><td>11.0</td><td>3.0 GB</td><td>2021-04-22</td><td><a href="/miui/cannon/weekly/21.4.21/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RJECNXM</td><td>11.0</td><td>2.9 GB</td><td>2021-04-23</td><td><a href="/miui/cannon/stable beta/V12.5.1.0.RJECNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.21</td><td>11.0</td><td>3.0 GB</td><td>2021-04-22</td><td><a href="/miui/cannon/weekly/21.4.21/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.14</td><td>11.0</td><td>3.0 GB</td><td>2021-04-15</td><td><a href="/miui/cannon/weekly/21.4.14/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJERUXM</td><td>10.0</td><td>2.3 GB</td><td>2021-04-12</td><td><a href="/miui/cannong/stable/V12.0.2.0.QJERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QJERUXM</td><td>10.0</td><td>4.1 GB</td><td>2021-03-11</td><td><a href="/miui/cannong/stable/V12.0.2.0.QJERUXM/">Download</a></td></tr>
