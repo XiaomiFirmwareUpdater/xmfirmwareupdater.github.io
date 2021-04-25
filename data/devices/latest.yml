@@ -509,15 +509,15 @@
     android: '11.0'
     miui: 21.4.21
 - branch: stable
-  date: '2021-01-25'
+  date: '2021-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-25.01.2021/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.4.0.QFAEUXM_888770fbbe_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.4.0.QFAEUXM_888770fbbe_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.4.0.QFAEUXM_888770fbbe_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-25.04.2021/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.5.0.QFAEUXM_8c911c47a4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.5.0.QFAEUXM_8c911c47a4_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V12.0.5.0.QFAEUXM_8c911c47a4_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.4.0.QFAEUXM
+    miui: V12.0.5.0.QFAEUXM
 - branch: stable
   date: '2020-09-22'
   downloads:
@@ -559,15 +559,15 @@
     android: '11.0'
     miui: V12.0.5.0.RJTCNXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-18.02.2021/fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-25.04.2021/fw_cezanne_miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.20.0.QJNCNXM
+    miui: V12.0.21.0.QJNCNXM
 - branch: weekly
   date: '2021-04-22'
   downloads:
@@ -809,15 +809,15 @@
     android: '10.0'
     miui: V12.0.12.0.QCDCNXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-03.03.2021/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.11.0.QCDEUXM_00f37af87c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.11.0.QCDEUXM_00f37af87c_10.0.zip
-  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.11.0.QCDEUXM_00f37af87c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-25.04.2021/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.12.0.QCDEUXM_dc080af827_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.12.0.QCDEUXM_dc080af827_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.12.0.QCDEUXM_dc080af827_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.11.0.QCDEUXM
+    miui: V12.0.12.0.QCDEUXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -969,15 +969,15 @@
     android: '10.0'
     miui: V12.0.3.0.QJXINXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-18.02.2021/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
-  filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.2.0.RJSMIXM_5eb45c65a7_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-25.04.2021/fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.RJSMIXM_0797715cb4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.RJSMIXM_0797715cb4_11.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V12.0.5.0.RJSMIXM_0797715cb4_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.2.0.RJSMIXM
+    miui: V12.0.5.0.RJSMIXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -2479,15 +2479,15 @@
     android: '11.0'
     miui: 21.4.21
 - branch: stable
-  date: '2021-01-25'
+  date: '2021-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-25.01.2021/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.4.0.QFKEUXM_4087debc4c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.4.0.QFKEUXM_4087debc4c_10.0.zip
-  filename: fw_raphael_miui_RAPHAELEEAGlobal_V12.0.4.0.QFKEUXM_4087debc4c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-25.04.2021/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.5.0.QFKEUXM_d3be45d17a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.5.0.QFKEUXM_d3be45d17a_10.0.zip
+  filename: fw_raphael_miui_RAPHAELEEAGlobal_V12.0.5.0.QFKEUXM_d3be45d17a_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.4.0.QFKEUXM
+    miui: V12.0.5.0.QFKEUXM
 - branch: stable
   date: '2021-03-31'
   downloads:
@@ -3279,15 +3279,15 @@
     android: '11.0'
     miui: V12.0.4.0.RKBMIXM
 - branch: stable
-  date: '2021-04-16'
+  date: '2021-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-16.04.2021/fw_venus_miui_VENUS_V12.5.4.0.RKBCNXM_67e47afc99_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUS_V12.5.4.0.RKBCNXM_67e47afc99_11.0.zip
-  filename: fw_venus_miui_VENUS_V12.5.4.0.RKBCNXM_67e47afc99_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-25.04.2021/fw_venus_miui_VENUS_V12.5.5.0.RKBCNXM_00d200ff47_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUS_V12.5.5.0.RKBCNXM_00d200ff47_11.0.zip
+  filename: fw_venus_miui_VENUS_V12.5.5.0.RKBCNXM_00d200ff47_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RKBCNXM
+    miui: V12.5.5.0.RKBCNXM
 - branch: weekly
   date: '2021-04-22'
   downloads:

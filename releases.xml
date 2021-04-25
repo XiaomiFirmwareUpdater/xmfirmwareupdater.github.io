@@ -1,15 +1,30 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 26 Apr 2021 01:30:02 +0900</pubDate>
+  <pubDate>Mon, 26 Apr 2021 03:30:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi 9 (cattail) - V12.0.8.0.QCTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
+    <pubDate>Mon, 26 Apr 2021 03:30:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9 (cattail) - V12.0.7.0.QCTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
+    <pubDate>Mon, 26 Apr 2021 03:13:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9 (cattail) - V12.0.5.0.QCTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
+    <pubDate>Mon, 26 Apr 2021 02:34:48 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi 9 (cattail) - V12.0.3.0.QCTINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
-    <pubDate>Mon, 26 Apr 2021 01:30:02 +0900</pubDate>
+    <pubDate>Mon, 26 Apr 2021 01:56:11 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 9 (cattail) - V12.0.2.0.QCTINXM</title>
@@ -90,21 +105,6 @@
     <title>Redmi 10X Pro (bomb) - V12.0.6.0.QJLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
     <pubDate>Sun, 25 Apr 2021 11:00:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V12.0.5.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Sun, 25 Apr 2021 10:13:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V12.0.2.0.QJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Sun, 25 Apr 2021 09:26:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.2.0.RJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Sun, 25 Apr 2021 08:38:10 +0900</pubDate>
   </item>
     </channel>
 </rss>
