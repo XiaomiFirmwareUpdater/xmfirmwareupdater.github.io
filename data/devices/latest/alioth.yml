@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-03-30'
+  date: '2021-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-30.03.2021/fw_alioth_miui_ALIOTHGlobal_V12.0.2.0.RKHMIXM_f117fac62a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHGlobal_V12.0.2.0.RKHMIXM_f117fac62a_11.0.zip
-  filename: fw_alioth_miui_ALIOTHGlobal_V12.0.2.0.RKHMIXM_f117fac62a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-26.04.2021/fw_alioth_miui_ALIOTHGlobal_V12.0.3.0.RKHMIXM_e4cdd42d11_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHGlobal_V12.0.3.0.RKHMIXM_e4cdd42d11_11.0.zip
+  filename: fw_alioth_miui_ALIOTHGlobal_V12.0.3.0.RKHMIXM_e4cdd42d11_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.2.0.RKHMIXM
+    miui: V12.0.3.0.RKHMIXM
 - branch: stable
   date: '2021-04-25'
   downloads:
@@ -29,22 +29,22 @@
     android: '11.0'
     miui: 21.4.22
 - branch: stable
-  date: '2021-04-19'
+  date: '2021-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-20.04.2021/fw_alioth_miui_ALIOTHEEAGlobal_V12.0.4.0.RKHEUXM_4e7ecfc2cf_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V12.0.4.0.RKHEUXM_4e7ecfc2cf_11.0.zip
-  filename: fw_alioth_miui_ALIOTHEEAGlobal_V12.0.4.0.RKHEUXM_4e7ecfc2cf_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-26.04.2021/fw_alioth_miui_ALIOTHEEAGlobal_V12.0.5.0.RKHEUXM_07e1020d55_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V12.0.5.0.RKHEUXM_07e1020d55_11.0.zip
+  filename: fw_alioth_miui_ALIOTHEEAGlobal_V12.0.5.0.RKHEUXM_07e1020d55_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.4.0.RKHEUXM
+    miui: V12.0.5.0.RKHEUXM
 - branch: stable
-  date: '2021-04-13'
+  date: '2021-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-13.04.2021/fw_alioth_miui_ALIOTHINGlobal_V12.0.3.0.RKHINXM_40a02544a9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHINGlobal_V12.0.3.0.RKHINXM_40a02544a9_11.0.zip
-  filename: fw_alioth_miui_ALIOTHINGlobal_V12.0.3.0.RKHINXM_40a02544a9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-26.04.2021/fw_alioth_miui_ALIOTHINGlobal_V12.0.4.0.RKHINXM_ac5057063f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHINGlobal_V12.0.4.0.RKHINXM_ac5057063f_11.0.zip
+  filename: fw_alioth_miui_ALIOTHINGlobal_V12.0.4.0.RKHINXM_ac5057063f_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.0.3.0.RKHINXM
+    miui: V12.0.4.0.RKHINXM
