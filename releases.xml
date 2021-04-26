@@ -1,15 +1,25 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 27 Apr 2021 05:30:01 +0900</pubDate>
+  <pubDate>Tue, 27 Apr 2021 07:00:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V11.0.5.0.QJCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Tue, 27 Apr 2021 07:00:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V11.0.4.0.QJCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Tue, 27 Apr 2021 06:51:44 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V11.0.3.0.QJCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Tue, 27 Apr 2021 05:30:01 +0900</pubDate>
+    <pubDate>Tue, 27 Apr 2021 06:02:44 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V11.0.2.0.QJCEUXM</title>
@@ -95,16 +105,6 @@
     <title>Redmi K30 Ultra (cezanne) - V12.0.18.0.QJNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
     <pubDate>Mon, 26 Apr 2021 08:42:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - V12.0.16.0.QJNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Mon, 26 Apr 2021 07:50:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - V12.0.13.0.QJNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Mon, 26 Apr 2021 06:47:31 +0900</pubDate>
   </item>
     </channel>
 </rss>
