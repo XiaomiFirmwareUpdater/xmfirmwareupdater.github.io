@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-03-09'
+  date: '2021-04-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-09.03.2021/fw_venus_miui_VENUSGlobal_V12.0.4.0.RKBMIXM_88df730fe7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSGlobal_V12.0.4.0.RKBMIXM_88df730fe7_11.0.zip
-  filename: fw_venus_miui_VENUSGlobal_V12.0.4.0.RKBMIXM_88df730fe7_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-27.04.2021/fw_venus_miui_VENUSGlobal_V12.0.9.0.RKBMIXM_4fc24d1ec0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSGlobal_V12.0.9.0.RKBMIXM_4fc24d1ec0_11.0.zip
+  filename: fw_venus_miui_VENUSGlobal_V12.0.9.0.RKBMIXM_4fc24d1ec0_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.4.0.RKBMIXM
+    miui: V12.0.9.0.RKBMIXM
 - branch: stable
   date: '2021-04-25'
   downloads:
