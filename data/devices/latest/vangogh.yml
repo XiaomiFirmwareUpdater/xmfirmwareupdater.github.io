@@ -9,12 +9,12 @@
     android: '11.0'
     miui: V12.1.5.0.RJVCNXM
 - branch: weekly
-  date: '2021-04-22'
+  date: '2021-04-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-22.04.2021/fw_vangogh_miui_VANGOGH_21.4.21_1111e137f1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/vangogh/fw_vangogh_miui_VANGOGH_21.4.21_1111e137f1_11.0.zip
-  filename: fw_vangogh_miui_VANGOGH_21.4.21_1111e137f1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-29.04.2021/fw_vangogh_miui_VANGOGH_21.4.28_9347824450_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.28/vangogh/fw_vangogh_miui_VANGOGH_21.4.28_9347824450_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_21.4.28_9347824450_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.4.21
+    miui: 21.4.28

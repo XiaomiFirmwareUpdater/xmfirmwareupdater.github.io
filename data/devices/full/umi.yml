@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-29.04.2021/fw_umi_miui_UMI_21.4.28_f66e511735_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.28/umi/fw_umi_miui_UMI_21.4.28_f66e511735_11.0.zip
+  filename: fw_umi_miui_UMI_21.4.28_f66e511735_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.28
+- branch: weekly
   date: '2021-04-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-22.04.2021/fw_umi_miui_UMI_21.4.21_0936d479bd_11.0.zip

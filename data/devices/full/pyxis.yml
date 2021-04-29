@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2021-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-29.04.2021/fw_pyxis_miui_PYXIS_21.4.28_18d559fe27_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.28/pyxis/fw_pyxis_miui_PYXIS_21.4.28_18d559fe27_11.0.zip
+  filename: fw_pyxis_miui_PYXIS_21.4.28_18d559fe27_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.28
 - branch: stable
   date: '2021-04-29'
   downloads:
@@ -8,16 +18,6 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RFCCNXM
-- branch: weekly
-  date: '2021-04-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-22.04.2021/fw_pyxis_miui_PYXIS_21.4.21_7dae482da2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/pyxis/fw_pyxis_miui_PYXIS_21.4.21_7dae482da2_11.0.zip
-  filename: fw_pyxis_miui_PYXIS_21.4.21_7dae482da2_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.21
 - branch: weekly
   date: '2021-04-16'
   downloads:
