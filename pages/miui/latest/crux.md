@@ -54,7 +54,7 @@ permalink: /miui/crux/
                 <tbody>
                 <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QFXCNXM</td><td>10.0</td><td>3.9 GB</td><td>2020-11-24</td><td><a href="/miui/crux/stable/V12.0.5.0.QFXCNXM/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QFXCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-11-30</td><td><a href="/miui/crux/stable/V12.0.5.0.QFXCNXM/">Download</a></td></tr>
-<tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.22</td><td>11.0</td><td>2.9 GB</td><td>2021-04-23</td><td><a href="/miui/crux/weekly/21.4.22/">Download</a></td></tr>
+<tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>2.9 GB</td><td>2021-04-29</td><td><a href="/miui/crux/weekly/21.4.28/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

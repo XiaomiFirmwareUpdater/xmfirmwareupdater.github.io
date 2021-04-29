@@ -52,7 +52,8 @@ permalink: /archive/miui/gauguin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10T Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.RJSMIXM</td><td>11.0</td><td>2.7 GB</td><td>2021-04-23</td><td><a href="/miui/gauguin/stable beta/V12.0.5.0.RJSMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>3.5 GB</td><td>2021-04-29</td><td><a href="/miui/gauguin/weekly/21.4.28/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.RJSMIXM</td><td>11.0</td><td>2.7 GB</td><td>2021-04-23</td><td><a href="/miui/gauguin/stable beta/V12.0.5.0.RJSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.21</td><td>11.0</td><td>3.5 GB</td><td>2021-04-22</td><td><a href="/miui/gauguin/weekly/21.4.21/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.RJSCNXM</td><td>11.0</td><td>3.2 GB</td><td>2021-04-22</td><td><a href="/miui/gauguin/stable beta/V12.0.3.0.RJSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.14</td><td>11.0</td><td>3.5 GB</td><td>2021-04-15</td><td><a href="/miui/gauguin/weekly/21.4.14/">Download</a></td></tr>

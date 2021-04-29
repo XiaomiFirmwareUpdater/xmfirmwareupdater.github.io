@@ -52,7 +52,8 @@ permalink: /archive/miui/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F3 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.RKHMIXM</td><td>11.0</td><td>3.0 GB</td><td>2021-04-26</td><td><a href="/miui/alioth/stable beta/V12.0.3.0.RKHMIXM/">Download</a></td></tr>
+                <tr><td>Redmi K40 China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>3.8 GB</td><td>2021-04-29</td><td><a href="/miui/alioth/weekly/21.4.28/">Download</a></td></tr>
+<tr><td>POCO F3 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.RKHMIXM</td><td>11.0</td><td>3.0 GB</td><td>2021-04-26</td><td><a href="/miui/alioth/stable beta/V12.0.3.0.RKHMIXM/">Download</a></td></tr>
 <tr><td>POCO F3 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.RKHEUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-04-26</td><td><a href="/miui/alioth/stable/V12.0.5.0.RKHEUXM/">Download</a></td></tr>
 <tr><td>POCO F3 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.RKHEUXM</td><td>11.0</td><td>5.5 GB</td><td>2021-04-22</td><td><a href="/miui/alioth/stable/V12.0.5.0.RKHEUXM/">Download</a></td></tr>
 <tr><td>Mi 11X India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.RKHINXM</td><td>11.0</td><td>3.0 GB</td><td>2021-04-26</td><td><a href="/miui/alioth/stable/V12.0.4.0.RKHINXM/">Download</a></td></tr>
