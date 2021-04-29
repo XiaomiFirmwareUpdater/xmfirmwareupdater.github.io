@@ -42,7 +42,7 @@ keywords: ""
 
 * ```Q:``` How to update?
 	* Recovery updates can be installed using the official updater app inside your device settings, but keep in mind that only stable updates can be installed like this. If the update is a stable beta you might not be able to install it. After downloading the MIUI update, whether the incremental or the full one, open the updater from settings then click the 3-dots menu and choose Install from a local file, then select the downloaded MIUI zip. If you can't see this option, click on MIUI logo in the updater several times till you see a message that tells you more features have been enabled.
-	* Fastboot updates can be installed using MiFlash official tool, but you must unlock the bootloader of your device first. Here's a good guide about flashing the official updates: Flash official ROMs | XiaomiWiki.
+	* Fastboot updates can be installed using [MiFlash](https://xiaomiwiki.github.io/wiki/Tools_for_Xiaomi_devices.html) official tool, but you must unlock the bootloader of your device first. Here's a good guide about flashing the official updates: [Flash official ROMs | XiaomiWiki](https://xiaomiwiki.github.io/wiki/Flash_official_ROMs.html).
 
 * ```Q:``` Excuse me. What is stable beta?!
 * ```A:``` Basically, Xiaomi releases stable updates in gradual phases in which an update reaches some devices randomly but not all devices. Then, after some days if the update was stable enough they release it to everybody via OTA along with releasing fastboot package. In a nutshell, the update that doesn't have fastboot version is not a fully released stable update yet.
