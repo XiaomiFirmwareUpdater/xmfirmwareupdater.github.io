@@ -1,15 +1,35 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 30 Apr 2021 21:30:02 +0900</pubDate>
+  <pubDate>Sat, 01 May 2021 01:00:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.4.0.QJOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Sat, 01 May 2021 01:00:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.3.0.QJOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Sat, 01 May 2021 00:40:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.5.0.QJOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Fri, 30 Apr 2021 23:43:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.3.0.QJOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Fri, 30 Apr 2021 22:44:42 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.2.0.QJOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Fri, 30 Apr 2021 21:30:02 +0900</pubDate>
+    <pubDate>Fri, 30 Apr 2021 21:47:12 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V11.0.5.0.QJOMIXM</title>
@@ -85,26 +105,6 @@
     <title>Redmi 9A/9AT (dandelion) - V12.0.9.0.QCDINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
     <pubDate>Fri, 30 Apr 2021 07:18:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/9AT (dandelion) - V12.0.8.0.QCDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Fri, 30 Apr 2021 06:23:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/9AT (dandelion) - V12.0.7.0.QCDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Fri, 30 Apr 2021 05:27:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/9AT (dandelion) - V12.0.6.0.QCDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Fri, 30 Apr 2021 04:31:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/9AT (dandelion) - V12.0.4.0.QCDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Fri, 30 Apr 2021 03:36:13 +0900</pubDate>
   </item>
     </channel>
 </rss>
