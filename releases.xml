@@ -1,15 +1,35 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 03 May 2021 01:00:02 +0900</pubDate>
+  <pubDate>Mon, 03 May 2021 07:00:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.8.0.QJQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 03 May 2021 07:00:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.7.0.QJQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 03 May 2021 06:48:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.3.0.QJQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 03 May 2021 04:58:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.2.0.QJQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 03 May 2021 03:10:52 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.8.0.QJCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Mon, 03 May 2021 01:00:02 +0900</pubDate>
+    <pubDate>Mon, 03 May 2021 01:21:28 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.7.0.QJCCNXM</title>
@@ -85,26 +105,6 @@
     <title>Redmi Note 9 Pro (joyeuse) - V12.0.3.0.QJZMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
     <pubDate>Sun, 02 May 2021 07:34:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V12.0.2.0.QJZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Sun, 02 May 2021 05:39:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V12.0.2.0.QJZEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Sun, 02 May 2021 03:44:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - V12.0.5.0.QFBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Sun, 02 May 2021 01:48:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.0.8.0.QJSCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Sat, 01 May 2021 23:55:07 +0900</pubDate>
   </item>
     </channel>
 </rss>
