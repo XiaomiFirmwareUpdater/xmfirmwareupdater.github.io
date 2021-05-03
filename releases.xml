@@ -1,15 +1,35 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 03 May 2021 19:00:01 +0900</pubDate>
+  <pubDate>Tue, 04 May 2021 01:00:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.13.0.QJQCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Tue, 04 May 2021 01:00:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.12.0.QJQCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Tue, 04 May 2021 00:39:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.7.0.QJQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 03 May 2021 23:54:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.6.0.QJQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 03 May 2021 22:27:11 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.5.0.QJQINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Mon, 03 May 2021 19:00:01 +0900</pubDate>
+    <pubDate>Mon, 03 May 2021 20:30:48 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.8.0.QJQMIXM</title>
@@ -85,26 +105,6 @@
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.2.0.QJCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
     <pubDate>Sun, 02 May 2021 20:00:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.1.0.QJCINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Sun, 02 May 2021 18:54:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.4.0.QJCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Sun, 02 May 2021 17:48:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.3.0.QJCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Sun, 02 May 2021 16:42:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.2.0.QJCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Sun, 02 May 2021 15:35:30 +0900</pubDate>
   </item>
     </channel>
 </rss>
