@@ -1,15 +1,30 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 03 May 2021 07:00:01 +0900</pubDate>
+  <pubDate>Mon, 03 May 2021 13:00:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.5.0.QJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 03 May 2021 13:00:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.4.0.QJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 03 May 2021 12:36:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.3.0.QJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 03 May 2021 10:30:31 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.8.0.QJQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Mon, 03 May 2021 07:00:01 +0900</pubDate>
+    <pubDate>Mon, 03 May 2021 08:37:18 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.7.0.QJQEUXM</title>
@@ -90,21 +105,6 @@
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.1.0.QJCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
     <pubDate>Sun, 02 May 2021 12:13:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9e (laurus) - V12.0.4.0.QFMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurus</link>
-    <pubDate>Sun, 02 May 2021 11:05:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi A3 (laurel) - V12.0.6.0.RFQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
-    <pubDate>Sun, 02 May 2021 09:20:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V12.0.3.0.QJZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Sun, 02 May 2021 07:34:49 +0900</pubDate>
   </item>
     </channel>
 </rss>
