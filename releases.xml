@@ -1,110 +1,110 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 04 May 2021 13:12:21 +0900</pubDate>
+  <pubDate>Tue, 04 May 2021 19:12:21 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.8.0.QFKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 13:12:21 +0900</pubDate>
+    <title>Redmi Note 10 Pro/Pro Max (sweetin) - V12.0.6.0.RKFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweetin</link>
+    <pubDate>Tue, 04 May 2021 19:12:21 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.7.0.QFKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 13:11:53 +0900</pubDate>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V11.0.10.0.PFDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Tue, 04 May 2021 19:12:19 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 5A (riva) - V11.0.6.0.OCKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
-    <pubDate>Tue, 04 May 2021 13:09:34 +0900</pubDate>
+    <title>Mi 10S (thyme) - V12.0.8.0.RGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Tue, 04 May 2021 19:10:20 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.5.0.QFKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 13:08:24 +0900</pubDate>
+    <title>Mi 10S (thyme) - V12.0.7.0.RGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Tue, 04 May 2021 19:06:39 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 5A (riva) - V11.0.2.0.OCKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
-    <pubDate>Tue, 04 May 2021 13:06:06 +0900</pubDate>
+    <title>Mi 10S (thyme) - V12.0.11.0.RGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Tue, 04 May 2021 19:03:01 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.4.0.QFKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 13:04:58 +0900</pubDate>
+    <title>Mi 10S (thyme) - V12.0.10.0.RGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Tue, 04 May 2021 18:59:27 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 5A (riva) - V11.0.2.0.OCKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/riva</link>
-    <pubDate>Tue, 04 May 2021 13:02:40 +0900</pubDate>
+    <title>Mi 8 Explorer (ursa) - V11.0.3.0.QEHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
+    <pubDate>Tue, 04 May 2021 18:55:51 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.2.0.QFKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 13:01:32 +0900</pubDate>
+    <title>Mi 8 Explorer (ursa) - V11.0.3.0.PEHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
+    <pubDate>Tue, 04 May 2021 18:53:35 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.4.0.QFKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 12:59:22 +0900</pubDate>
+    <title>Mi 8 Explorer (ursa) - V11.0.2.0.PEHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
+    <pubDate>Tue, 04 May 2021 18:51:17 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.3.0.QFKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 12:57:03 +0900</pubDate>
+    <title>Redmi Note 10 Pro (sweet) - V12.0.6.0.RKFMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
+    <pubDate>Tue, 04 May 2021 18:48:58 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.1.0.QFKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 12:54:44 +0900</pubDate>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.4.0.RKACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Tue, 04 May 2021 18:46:50 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.6.0.QFKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 12:52:27 +0900</pubDate>
+    <title>Redmi Note 10 Pro (sweet) - V12.0.14.0.RKFMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
+    <pubDate>Tue, 04 May 2021 18:43:46 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.5.0.QFKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 12:50:09 +0900</pubDate>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.3.0.RKACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Tue, 04 May 2021 18:41:36 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.4.0.QFKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 12:47:52 +0900</pubDate>
+    <title>Redmi Note 10 Pro (sweet) - V12.0.12.0.RKFMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
+    <pubDate>Tue, 04 May 2021 18:38:30 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V11.0.3.0.QFKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 04 May 2021 12:45:37 +0900</pubDate>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.2.0.RKACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Tue, 04 May 2021 18:36:23 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro (raphaelin) - V11.0.6.0.QFKINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
-    <pubDate>Tue, 04 May 2021 12:43:15 +0900</pubDate>
+    <title>Redmi Note 10 Pro (sweet) - V12.0.1.0.RKFMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
+    <pubDate>Tue, 04 May 2021 18:33:14 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro (raphaelin) - V11.0.4.0.QFKINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
-    <pubDate>Tue, 04 May 2021 12:40:55 +0900</pubDate>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.0.13.0.RKACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Tue, 04 May 2021 18:31:04 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro (raphaelin) - V11.0.3.0.QFKINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
-    <pubDate>Tue, 04 May 2021 12:38:33 +0900</pubDate>
+    <title>Redmi Note 10 Pro (sweet) - V12.0.3.0.RKFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
+    <pubDate>Tue, 04 May 2021 18:28:04 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K20 Pro (raphaelin) - V11.0.1.0.QFKINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphaelin</link>
-    <pubDate>Tue, 04 May 2021 12:36:15 +0900</pubDate>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.0.10.0.RKACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Tue, 04 May 2021 18:25:56 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 8A (olivelite) - V12.0.2.0.QCPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Tue, 04 May 2021 12:33:55 +0900</pubDate>
+    <title>Redmi Note 10 Pro (sweet) - V12.0.15.0.RKFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
+    <pubDate>Tue, 04 May 2021 18:22:45 +0900</pubDate>
   </item>
     </channel>
 </rss>
