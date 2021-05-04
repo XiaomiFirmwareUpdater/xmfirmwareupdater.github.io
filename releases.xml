@@ -1,110 +1,110 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 04 May 2021 19:12:21 +0900</pubDate>
+  <pubDate>Wed, 05 May 2021 01:12:31 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Redmi Note 10 Pro/Pro Max (sweetin) - V12.0.6.0.RKFINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweetin</link>
-    <pubDate>Tue, 04 May 2021 19:12:21 +0900</pubDate>
+    <title>Redmi 6 (cereus) - V10.4.3.0.PCGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Wed, 05 May 2021 01:12:31 +0900</pubDate>
   </item>
     <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V11.0.10.0.PFDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Tue, 04 May 2021 19:12:19 +0900</pubDate>
+    <title>Redmi 6 (cereus) - V10.3.4.0.OCGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Wed, 05 May 2021 01:12:30 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 10S (thyme) - V12.0.8.0.RGACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Tue, 04 May 2021 19:10:20 +0900</pubDate>
+    <title>Redmi 6 (cereus) - V10.4.2.0.PCGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Wed, 05 May 2021 01:12:01 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 10S (thyme) - V12.0.7.0.RGACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Tue, 04 May 2021 19:06:39 +0900</pubDate>
+    <title>Redmi 6 (cereus) - V10.4.4.0.PCGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Wed, 05 May 2021 01:11:53 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 10S (thyme) - V12.0.11.0.RGACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Tue, 04 May 2021 19:03:01 +0900</pubDate>
+    <title>Redmi 6 (cereus) - V10.3.6.0.OCGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Wed, 05 May 2021 01:11:20 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 10S (thyme) - V12.0.10.0.RGACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Tue, 04 May 2021 18:59:27 +0900</pubDate>
+    <title>Redmi 6 (cereus) - V10.3.3.0.OCGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cereus</link>
+    <pubDate>Wed, 05 May 2021 01:10:41 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 8 Explorer (ursa) - V11.0.3.0.QEHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Tue, 04 May 2021 18:55:51 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.35.0.PFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 01:10:12 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 8 Explorer (ursa) - V11.0.3.0.PEHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Tue, 04 May 2021 18:53:35 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.33.0.PFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 01:09:31 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 8 Explorer (ursa) - V11.0.2.0.PEHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ursa</link>
-    <pubDate>Tue, 04 May 2021 18:51:17 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.31.0.PFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 01:07:30 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 10 Pro (sweet) - V12.0.6.0.RKFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Tue, 04 May 2021 18:48:58 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.29.0.PFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 01:06:49 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.4.0.RKACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Tue, 04 May 2021 18:46:50 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.25.0.PFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 01:04:47 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 10 Pro (sweet) - V12.0.14.0.RKFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Tue, 04 May 2021 18:43:46 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.16.0.PFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 01:04:06 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.3.0.RKACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Tue, 04 May 2021 18:41:36 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.15.0.PFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 01:02:06 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 10 Pro (sweet) - V12.0.12.0.RKFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Tue, 04 May 2021 18:38:30 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.11.0.PFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 01:01:27 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.2.0.RKACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Tue, 04 May 2021 18:36:23 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.9.0.PFAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 00:59:31 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 10 Pro (sweet) - V12.0.1.0.RKFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Tue, 04 May 2021 18:33:14 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.6.0.PFAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 00:58:53 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.0.13.0.RKACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Tue, 04 May 2021 18:31:04 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.14.0.PFAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 00:56:50 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 10 Pro (sweet) - V12.0.3.0.RKFEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Tue, 04 May 2021 18:28:04 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.13.0.PFAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 00:56:10 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.0.10.0.RKACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Tue, 04 May 2021 18:25:56 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.30.0.PFAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 00:54:10 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 10 Pro (sweet) - V12.0.15.0.RKFEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Tue, 04 May 2021 18:22:45 +0900</pubDate>
+    <title>Mi 9 (cepheus) - V10.2.28.0.PFAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 05 May 2021 00:53:31 +0900</pubDate>
   </item>
     </channel>
 </rss>
