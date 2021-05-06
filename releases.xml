@@ -1,110 +1,110 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 06 May 2021 20:15:01 +0900</pubDate>
+  <pubDate>Thu, 06 May 2021 23:33:36 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Mi 6 (sagit) - V9.5.8.0.OCAMIFA</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Thu, 06 May 2021 20:15:01 +0900</pubDate>
+    <title>Redmi Note 8 Pro (begoniain) - V10.4.4.0.PGGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
+    <pubDate>Thu, 06 May 2021 23:33:36 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 6 (sagit) - V9.5.6.0.OCAMIFA</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sagit</link>
-    <pubDate>Thu, 06 May 2021 20:14:31 +0900</pubDate>
+    <title>Redmi Note 8 Pro (begoniain) - V10.4.3.0.PGGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
+    <pubDate>Thu, 06 May 2021 23:33:02 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.1.0.RJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 20:14:07 +0900</pubDate>
+    <title>Mi MIX 3 5G (andromeda) - V10.3.18.0.PEMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Thu, 06 May 2021 23:32:27 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.2.0.RJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 20:13:57 +0900</pubDate>
+    <title>Mi MIX 3 5G (andromeda) - V10.3.16.0.PEMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Thu, 06 May 2021 23:30:01 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.8.0.QJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 20:09:44 +0900</pubDate>
+    <title>Mi MIX 3 5G (andromeda) - V10.3.20.0.PEMMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Thu, 06 May 2021 23:28:44 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.7.0.QJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 20:09:33 +0900</pubDate>
+    <title>Mi MIX 3 5G (andromeda) - V10.3.19.0.PEMMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Thu, 06 May 2021 23:27:29 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.5.0.QJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 20:04:41 +0900</pubDate>
+    <title>Mi MIX 3 5G (andromeda) - V10.3.18.0.PEMMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Thu, 06 May 2021 23:26:17 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.3.0.QJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 20:04:30 +0900</pubDate>
+    <title>Mi MIX 3 5G (andromeda) - V10.3.25.0.PEMEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
+    <pubDate>Thu, 06 May 2021 23:25:05 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.12.0.QJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:59:34 +0900</pubDate>
+    <title>Redmi Note 8 (ginkgo) - V10.3.3.0.PCOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Thu, 06 May 2021 23:18:53 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.10.0.QJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:59:23 +0900</pubDate>
+    <title>Redmi Note 8 (ginkgo) - V10.3.1.0.PCOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Thu, 06 May 2021 23:18:53 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.2.0.RJDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:54:53 +0900</pubDate>
+    <title>Redmi Note 8 (ginkgo) - V10.3.5.0.PCOMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Thu, 06 May 2021 23:18:30 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.1.0.RJDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:54:45 +0900</pubDate>
+    <title>Redmi Note 8 (ginkgo) - V10.3.2.0.PCOMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Thu, 06 May 2021 23:18:23 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.5.0.QJDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:50:30 +0900</pubDate>
+    <title>Mi Max 2 (oxygen) - V9.5.4.0.NDDMIFA</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/oxygen</link>
+    <pubDate>Thu, 06 May 2021 23:16:11 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.4.0.QJDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:50:21 +0900</pubDate>
+    <title>Mi Max 2 (oxygen) - V9.2.1.0.NDDMIEK</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/oxygen</link>
+    <pubDate>Thu, 06 May 2021 23:16:04 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.3.0.QJDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:45:42 +0900</pubDate>
+    <title>Mi MIX (lithium) - V9.5.2.0.NAHCNFA</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lithium</link>
+    <pubDate>Thu, 06 May 2021 23:14:32 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.2.0.QJDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:45:31 +0900</pubDate>
+    <title>Mi MIX (lithium) - V9.5.1.0.NAHCNFA</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lithium</link>
+    <pubDate>Thu, 06 May 2021 23:14:25 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.2.0.RJDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:41:07 +0900</pubDate>
+    <title>MI 5 (gemini) - V10.2.1.0.OAACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gemini</link>
+    <pubDate>Thu, 06 May 2021 23:12:45 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.11.0.QJDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:40:58 +0900</pubDate>
+    <title>Mi 5X (tiffany) - V9.5.3.0.NDBCNFA</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tiffany</link>
+    <pubDate>Thu, 06 May 2021 23:12:36 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.1.1.0.RJDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:36:47 +0900</pubDate>
+    <title>MI 5 (gemini) - V10.0.1.0.OAACNFH</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gemini</link>
+    <pubDate>Thu, 06 May 2021 23:11:02 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.0.9.0.QJDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 06 May 2021 19:36:35 +0900</pubDate>
+    <title>MI 5 (gemini) - V10.2.2.0.OAAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gemini</link>
+    <pubDate>Thu, 06 May 2021 23:10:57 +0900</pubDate>
   </item>
     </channel>
 </rss>
