@@ -5959,6 +5959,16 @@
     android: '8.1'
     miui: V10.3.4.0.OCGCNXM
 - branch: stable
+  date: '2021-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-06.05.2021/fw_cetus_miui_CETUS_V12.0.10.0.RJTCNXM_631bf2b214_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.0.10.0.RJTCNXM_631bf2b214_11.0.zip
+  filename: fw_cetus_miui_CETUS_V12.0.10.0.RJTCNXM_631bf2b214_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.10.0.RJTCNXM
+- branch: stable
   date: '2021-04-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-08.04.2021/fw_cetus_miui_CETUS_V12.0.5.0.RJTCNXM_ec6b2659db_11.0.zip
@@ -8708,6 +8718,16 @@
   versions:
     android: '10.0'
     miui: V11.0.18.0.QDLMIXM
+- branch: stable
+  date: '2021-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-06.05.2021/fw_dandelion_miui_DANDELIONINGlobal_V12.0.13.0.QCDINXM_0d318a9ae8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.13.0.QCDINXM_0d318a9ae8_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.13.0.QCDINXM_0d318a9ae8_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.13.0.QCDINXM
 - branch: stable
   date: '2021-04-25'
   downloads:
@@ -13668,6 +13688,16 @@
   versions:
     android: '9.0'
     miui: V10.2.5.0.PFBCNXM
+- branch: stable
+  date: '2021-05-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-06.05.2021/fw_haydn_miui_HAYDN_V12.5.2.0.RKKCNXM_a05108454f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDN_V12.5.2.0.RKKCNXM_a05108454f_11.0.zip
+  filename: fw_haydn_miui_HAYDN_V12.5.2.0.RKKCNXM_a05108454f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKKCNXM
 - branch: stable
   date: '2021-04-29'
   downloads:

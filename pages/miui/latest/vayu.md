@@ -63,7 +63,7 @@ permalink: /miui/vayu/
 <tr><td>POCO X3 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RJUTRXM</td><td>11.0</td><td>4.0 GB</td><td>2021-04-17</td><td><a href="/miui/vayu/stable/V12.0.2.0.RJUTRXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RJUTRXM</td><td>11.0</td><td>2.8 GB</td><td>2021-04-27</td><td><a href="/miui/vayu/stable/V12.0.2.0.RJUTRXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RJUTWXM</td><td>11.0</td><td>3.7 GB</td><td>2021-04-27</td><td><a href="/miui/vayu/stable/V12.0.2.0.RJUTWXM/">Download</a></td></tr>
-<tr><td>POCO X3 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RJUTWXM</td><td>11.0</td><td>2.8 GB</td><td>2021-04-25</td><td><a href="/miui/vayu/stable/V12.0.1.0.RJUTWXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RJUTWXM</td><td>11.0</td><td>2.8 GB</td><td>2021-05-06</td><td><a href="/miui/vayu/stable/V12.0.2.0.RJUTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

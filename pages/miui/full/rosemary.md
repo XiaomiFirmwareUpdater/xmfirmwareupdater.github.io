@@ -1,15 +1,15 @@
 ---
-title: Mi MIX Fold (cetus) MIUI Downloads
+title: Redmi Note 10S (rosemary) MIUI Downloads
 layout: download
-name: Mi MIX Fold
-codename: cetus
-permalink: /archive/miui/cetus/
+name: Redmi Note 10S
+codename: rosemary
+permalink: /archive/miui/rosemary/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cetus/">Mi MIX Fold</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/rosemary/">Redmi Note 10S</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/miui/cetus/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/miui/cetus/" class="card-link">Latest MIUI</a>
-    <a href="/firmware/cetus/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/cetus/" class="card-link">Vendor Downloads</a>
+    <a href="/miui/rosemary/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/rosemary/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/rosemary/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,9 +52,14 @@ permalink: /archive/miui/cetus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi MIX Fold China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.10.0.RJTCNXM</td><td>11.0</td><td>4.0 GB</td><td>2021-05-06</td><td><a href="/miui/cetus/stable beta/V12.0.10.0.RJTCNXM/">Download</a></td></tr>
-<tr><td>Mi MIX Fold China</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.RJTCNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-04-01</td><td><a href="/miui/cetus/stable/V12.0.5.0.RJTCNXM/">Download</a></td></tr>
-<tr><td>Mi MIX Fold China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.RJTCNXM</td><td>11.0</td><td>5.4 GB</td><td>2021-03-27</td><td><a href="/miui/cetus/stable/V12.0.5.0.RJTCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10S EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKLEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-05-06</td><td><a href="/miui/rosemary/stable/V12.5.3.0.RKLEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKLEUXM</td><td>11.0</td><td>5.1 GB</td><td>2021-04-08</td><td><a href="/miui/rosemary/stable/V12.5.3.0.RKLEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKLMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-05-06</td><td><a href="/miui/rosemary/stable/V12.5.5.0.RKLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RKLMIXM</td><td>11.0</td><td>5.0 GB</td><td>2021-04-21</td><td><a href="/miui/rosemary/stable/V12.5.5.0.RKLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKLMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-05-06</td><td><a href="/miui/rosemary/stable beta/V12.5.2.0.RKLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RKLMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-05-06</td><td><a href="/miui/rosemary/stable beta/V12.5.4.0.RKLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S India</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKLINXM</td><td>11.0</td><td>2.5 GB</td><td>2021-05-06</td><td><a href="/miui/rosemary/stable/V12.5.2.0.RKLINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S India</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKLINXM</td><td>11.0</td><td>3.5 GB</td><td>2021-04-17</td><td><a href="/miui/rosemary/stable/V12.5.2.0.RKLINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
