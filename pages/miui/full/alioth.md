@@ -52,7 +52,11 @@ permalink: /archive/miui/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKHIDXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-06</td><td><a href="/miui/alioth/stable/V12.0.3.0.RKHIDXM/">Download</a></td></tr>
+                <tr><td>POCO F3 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKHTRXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-07</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHTRXM/">Download</a></td></tr>
+<tr><td>POCO F3 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKHTRXM</td><td>11.0</td><td>4.5 GB</td><td>2021-04-22</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHTRXM/">Download</a></td></tr>
+<tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKHTWXM</td><td>11.0</td><td>2.9 GB</td><td>2021-05-07</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHTWXM/">Download</a></td></tr>
+<tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKHTWXM</td><td>11.0</td><td>4.2 GB</td><td>2021-04-22</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHTWXM/">Download</a></td></tr>
+<tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKHIDXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-06</td><td><a href="/miui/alioth/stable/V12.0.3.0.RKHIDXM/">Download</a></td></tr>
 <tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKHIDXM</td><td>11.0</td><td>4.9 GB</td><td>2021-04-22</td><td><a href="/miui/alioth/stable/V12.0.3.0.RKHIDXM/">Download</a></td></tr>
 <tr><td>POCO F3 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKHRUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-04-30</td><td><a href="/miui/alioth/stable/V12.0.3.0.RKHRUXM/">Download</a></td></tr>
 <tr><td>POCO F3 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKHRUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-04-22</td><td><a href="/miui/alioth/stable/V12.0.3.0.RKHRUXM/">Download</a></td></tr>

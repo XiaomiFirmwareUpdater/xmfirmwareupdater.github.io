@@ -65,10 +65,10 @@ permalink: /miui/alioth/
 <tr><td>Mi 11X India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.RKHINXM</td><td>11.0</td><td>3.0 GB</td><td>2021-04-26</td><td><a href="/miui/alioth/stable/V12.0.4.0.RKHINXM/">Download</a></td></tr>
 <tr><td>POCO F3 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKHRUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-04-22</td><td><a href="/miui/alioth/stable/V12.0.3.0.RKHRUXM/">Download</a></td></tr>
 <tr><td>POCO F3 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKHRUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-04-30</td><td><a href="/miui/alioth/stable/V12.0.3.0.RKHRUXM/">Download</a></td></tr>
-<tr><td>POCO F3 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RKHTRXM</td><td>11.0</td><td>4.4 GB</td><td>2021-03-23</td><td><a href="/miui/alioth/stable/V12.0.1.0.RKHTRXM/">Download</a></td></tr>
-<tr><td>POCO F3 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RKHTRXM</td><td>11.0</td><td>3.0 GB</td><td>2021-03-31</td><td><a href="/miui/alioth/stable/V12.0.1.0.RKHTRXM/">Download</a></td></tr>
-<tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RKHTWXM</td><td>11.0</td><td>4.1 GB</td><td>2021-03-20</td><td><a href="/miui/alioth/stable/V12.0.1.0.RKHTWXM/">Download</a></td></tr>
-<tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RKHTWXM</td><td>11.0</td><td>2.9 GB</td><td>2021-03-31</td><td><a href="/miui/alioth/stable/V12.0.1.0.RKHTWXM/">Download</a></td></tr>
+<tr><td>POCO F3 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKHTRXM</td><td>11.0</td><td>4.5 GB</td><td>2021-04-22</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHTRXM/">Download</a></td></tr>
+<tr><td>POCO F3 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKHTRXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-07</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHTRXM/">Download</a></td></tr>
+<tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKHTWXM</td><td>11.0</td><td>4.2 GB</td><td>2021-04-22</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHTWXM/">Download</a></td></tr>
+<tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKHTWXM</td><td>11.0</td><td>2.9 GB</td><td>2021-05-07</td><td><a href="/miui/alioth/stable/V12.0.2.0.RKHTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
