@@ -594,4 +594,10 @@ betweendigital.com, 43894, DIRECT
 admanmedia.com,726,RESELLER
 google.com, pub-3960095709930134, RESELLER, f08c47fec0942fa0
 google.com, pub-8278416939377896, DIRECT, f08c47fec0942fa0
+improvedigital.com,1887,RESELLER
+admanmedia.com, 799, RESELLER
+improvedigital.com, 1884, RESELLER
+rubiconproject.com, 23434, RESELLER, 0bfd66d529a55807
+aol.com, 58754, RESELLER, e1a5b5b6e3255540
+smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 #VLI END
