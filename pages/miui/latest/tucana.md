@@ -57,6 +57,7 @@ permalink: /miui/tucana/
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>3.4 GB</td><td>2021-04-29</td><td><a href="/miui/tucana/weekly/21.4.28/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.1.3.0.RFDEUXM</td><td>11.0</td><td>4.7 GB</td><td>2021-02-17</td><td><a href="/miui/tucana/stable/V12.1.3.0.RFDEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.1.3.0.RFDEUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-02-21</td><td><a href="/miui/tucana/stable/V12.1.3.0.RFDEUXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 / Note 10 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.4.0.RFDEUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-07</td><td><a href="/miui/tucana/stable beta/V12.1.4.0.RFDEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.1.2.0.RFDMIXM</td><td>11.0</td><td>4.7 GB</td><td>2021-02-26</td><td><a href="/miui/tucana/stable/V12.1.2.0.RFDMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.1.2.0.RFDMIXM</td><td>11.0</td><td>3.0 GB</td><td>2021-03-10</td><td><a href="/miui/tucana/stable/V12.1.2.0.RFDMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.1.1.0.RFDIDXM</td><td>11.0</td><td>4.7 GB</td><td>2021-03-16</td><td><a href="/miui/tucana/stable/V12.1.1.0.RFDIDXM/">Download</a></td></tr>
