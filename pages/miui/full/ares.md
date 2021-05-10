@@ -53,7 +53,7 @@ permalink: /archive/miui/ares/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKJCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-05-02</td><td><a href="/miui/ares/stable/V12.5.3.0.RKJCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKJCNXM</td><td>11.0</td><td>4.9 kB</td><td>2021-04-29</td><td><a href="/miui/ares/stable/V12.5.3.0.RKJCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKJCNXM</td><td>11.0</td><td>4.7 GB</td><td>2021-04-29</td><td><a href="/miui/ares/stable/V12.5.3.0.RKJCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
