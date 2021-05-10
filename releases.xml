@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 11 May 2021 02:47:30 +0900</pubDate>
+  <pubDate>Tue, 11 May 2021 07:10:53 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.5.2.0.RJKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Tue, 11 May 2021 07:10:53 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro (sweet) - V12.0.15.0.RKFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
@@ -100,11 +105,6 @@
     <title>POCO F1 (beryllium) - V9.6.24.0.OEJMIFD</title>
     <link>https://xiaomifirmwareupdater.com/firmware/beryllium</link>
     <pubDate>Fri, 07 May 2021 00:54:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO F1 (beryllium) - V9.6.22.0.OEJMIFD</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/beryllium</link>
-    <pubDate>Fri, 07 May 2021 00:53:53 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -1729,15 +1729,15 @@
     android: '11.0'
     miui: V12.2.6.0.RJKMIXM
 - branch: stable
-  date: '2021-04-20'
+  date: '2021-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-21.04.2021/fw_lmi_miui_LMI_V12.2.4.0.RJKCNXM_9d9da1c3f3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.2.4.0.RJKCNXM_9d9da1c3f3_11.0.zip
-  filename: fw_lmi_miui_LMI_V12.2.4.0.RJKCNXM_9d9da1c3f3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-11.05.2021/fw_lmi_miui_LMI_V12.5.2.0.RJKCNXM_7629c40523_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.5.2.0.RJKCNXM_7629c40523_11.0.zip
+  filename: fw_lmi_miui_LMI_V12.5.2.0.RJKCNXM_7629c40523_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.2.4.0.RJKCNXM
+    miui: V12.5.2.0.RJKCNXM
 - branch: weekly
   date: '2021-04-29'
   downloads:
