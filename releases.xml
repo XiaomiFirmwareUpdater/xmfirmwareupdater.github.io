@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 12 May 2021 13:32:16 +0900</pubDate>
+  <pubDate>Wed, 12 May 2021 19:22:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO M3 (citrus) - V12.0.9.0.QJFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Wed, 12 May 2021 19:22:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V12.0.2.0.RJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Wed, 12 May 2021 19:18:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V12.0.2.0.RJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Wed, 12 May 2021 19:15:55 +0900</pubDate>
+  </item>
     <item>
     <title>Mi A3 (laurel) - V12.0.9.0.RFQMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 8 (ginkgo) - V10.3.1.0.PCOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
     <pubDate>Fri, 07 May 2021 01:03:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Gaming/POCO F3 GT (ares) - V12.5.3.0.RKJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
-    <pubDate>Fri, 07 May 2021 01:03:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO C3 (angelicain) - V12.0.9.0.QCRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
-    <pubDate>Fri, 07 May 2021 00:59:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10S (rosemary) - V12.5.3.0.RKLEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
-    <pubDate>Fri, 07 May 2021 00:57:34 +0900</pubDate>
   </item>
     </channel>
 </rss>

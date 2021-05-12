@@ -54,7 +54,7 @@ permalink: /miui/atom/
                 <tbody>
                 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJHCNXM</td><td>10.0</td><td>3.7 GB</td><td>2020-12-17</td><td><a href="/miui/atom/stable/V12.0.6.0.QJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJHCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-12-23</td><td><a href="/miui/atom/stable/V12.0.6.0.QJHCNXM/">Download</a></td></tr>
-<tr><td>Redmi 10X 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJHCNXM</td><td>11.0</td><td>2.8 GB</td><td>2021-04-28</td><td><a href="/miui/atom/stable beta/V12.0.1.0.RJHCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RJHCNXM</td><td>11.0</td><td>2.8 GB</td><td>2021-05-10</td><td><a href="/miui/atom/stable beta/V12.0.2.0.RJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>3.0 GB</td><td>2021-04-29</td><td><a href="/miui/atom/weekly/21.4.28/">Download</a></td></tr>
 
                 </tbody>
