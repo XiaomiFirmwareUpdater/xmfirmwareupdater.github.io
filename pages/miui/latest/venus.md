@@ -58,8 +58,8 @@ permalink: /miui/venus/
 <tr><td>Mi 11 China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>4.1 GB</td><td>2021-04-29</td><td><a href="/miui/venus/weekly/21.4.28/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.13.0.RKBEUXM</td><td>11.0</td><td>5.7 GB</td><td>2021-04-02</td><td><a href="/miui/venus/stable/V12.0.13.0.RKBEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.13.0.RKBEUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-04-12</td><td><a href="/miui/venus/stable/V12.0.13.0.RKBEUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKBIDXM</td><td>11.0</td><td>5.0 GB</td><td>2021-03-06</td><td><a href="/miui/venus/stable/V12.0.3.0.RKBIDXM/">Download</a></td></tr>
-<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKBIDXM</td><td>11.0</td><td>3.1 GB</td><td>2021-04-16</td><td><a href="/miui/venus/stable/V12.0.3.0.RKBIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKBIDXM</td><td>11.0</td><td>5.3 GB</td><td>2021-04-28</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKBIDXM</td><td>11.0</td><td>3.3 GB</td><td>2021-05-06</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKBRUXM</td><td>11.0</td><td>5.1 GB</td><td>2021-03-20</td><td><a href="/miui/venus/stable/V12.0.2.0.RKBRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKBRUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-04-12</td><td><a href="/miui/venus/stable/V12.0.2.0.RKBRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKBTRXM</td><td>11.0</td><td>4.7 GB</td><td>2021-03-23</td><td><a href="/miui/venus/stable/V12.0.2.0.RKBTRXM/">Download</a></td></tr>

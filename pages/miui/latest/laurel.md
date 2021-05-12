@@ -54,8 +54,8 @@ permalink: /miui/laurel/
                 <tbody>
                 <tr><td>Mi A3 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.RFQEUXM</td><td>11.0</td><td>2.3 GB</td><td>2021-04-15</td><td><a href="/miui/laurel/stable/V12.0.6.0.RFQEUXM/">Download</a></td></tr>
 <tr><td>Mi A3 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.RFQEUXM</td><td>11.0</td><td>1.4 GB</td><td>2021-04-22</td><td><a href="/miui/laurel/stable/V12.0.6.0.RFQEUXM/">Download</a></td></tr>
-<tr><td>Mi A3 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.RFQMIXM</td><td>11.0</td><td>2.4 GB</td><td>2021-04-09</td><td><a href="/miui/laurel/stable/V12.0.8.0.RFQMIXM/">Download</a></td></tr>
-<tr><td>Mi A3 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.RFQMIXM</td><td>11.0</td><td>1.5 GB</td><td>2021-04-16</td><td><a href="/miui/laurel/stable/V12.0.8.0.RFQMIXM/">Download</a></td></tr>
+<tr><td>Mi A3 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.9.0.RFQMIXM</td><td>11.0</td><td>2.4 GB</td><td>2021-05-06</td><td><a href="/miui/laurel/stable/V12.0.9.0.RFQMIXM/">Download</a></td></tr>
+<tr><td>Mi A3 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.9.0.RFQMIXM</td><td>11.0</td><td>1.5 GB</td><td>2021-05-12</td><td><a href="/miui/laurel/stable/V12.0.9.0.RFQMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
