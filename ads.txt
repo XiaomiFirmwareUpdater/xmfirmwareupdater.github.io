@@ -600,4 +600,7 @@ improvedigital.com, 1884, RESELLER
 rubiconproject.com, 23434, RESELLER, 0bfd66d529a55807
 aol.com, 58754, RESELLER, e1a5b5b6e3255540
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
+xandr.com, 12701, DIRECT, f5ab79cb980f11d1
+video.unrulymedia.com, 3736557092, RESELLER
+rhythmone.com, 3736557092, RESELLER, a670c89d4a324e47
 #VLI END
