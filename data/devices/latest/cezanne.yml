@@ -9,12 +9,12 @@
     android: '10.0'
     miui: V12.0.21.0.QJNCNXM
 - branch: weekly
-  date: '2021-04-29'
+  date: '2021-05-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-29.04.2021/fw_cezanne_miui_CEZANNE_21.4.28_8e95a4548a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.28/cezanne/fw_cezanne_miui_CEZANNE_21.4.28_8e95a4548a_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.4.28_8e95a4548a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-14.05.2021/fw_cezanne_miui_CEZANNE_21.5.12_a087e528a4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.12/cezanne/fw_cezanne_miui_CEZANNE_21.5.12_a087e528a4_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.5.12_a087e528a4_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.4.28
+    miui: 21.5.12

@@ -52,7 +52,8 @@ permalink: /archive/miui/phoenix/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>3.4 GB</td><td>2021-04-29</td><td><a href="/miui/phoenix/weekly/21.4.28/">Download</a></td></tr>
+                <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>3.5 GB</td><td>2021-05-13</td><td><a href="/miui/phoenix/weekly/21.5.12/">Download</a></td></tr>
+<tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>3.4 GB</td><td>2021-04-29</td><td><a href="/miui/phoenix/weekly/21.4.28/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>21.4.21</td><td>11.0</td><td>3.4 GB</td><td>2021-04-22</td><td><a href="/miui/phoenix/weekly/21.4.21/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>21.4.14</td><td>11.0</td><td>3.4 GB</td><td>2021-04-15</td><td><a href="/miui/phoenix/weekly/21.4.14/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>21.4.7</td><td>11.0</td><td>3.4 GB</td><td>2021-04-08</td><td><a href="/miui/phoenix/weekly/21.4.7/">Download</a></td></tr>
@@ -131,15 +132,15 @@ permalink: /archive/miui/phoenix/
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.3.19</td><td>10.0</td><td>2.7 GB</td><td>2020-03-19</td><td><a href="/miui/phoenix/weekly/20.3.19/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.3.12</td><td>10.0</td><td>2.6 GB</td><td>2020-03-12</td><td><a href="/miui/phoenix/weekly/20.3.12/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.3.5</td><td>10.0</td><td>2.6 GB</td><td>2020-03-05</td><td><a href="/miui/phoenix/weekly/20.3.5/">Download</a></td></tr>
-<tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.2.20</td><td>10.0</td><td>2.6 GB</td><td>2020-02-20</td><td><a href="/miui/phoenix/weekly/20.2.20/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QGHCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-06-16</td><td><a href="/miui/phoenix/stable/V12.0.2.0.QGHCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.2.20</td><td>10.0</td><td>2.6 GB</td><td>2020-02-20</td><td><a href="/miui/phoenix/weekly/20.2.20/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Recovery</td><td>V11.0.13.0.QGHCNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-02-19</td><td><a href="/miui/phoenix/stable/V11.0.13.0.QGHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Fastboot</td><td>V11.0.13.0.QGHCNXM</td><td>10.0</td><td>3.5 GB</td><td>2020-02-13</td><td><a href="/miui/phoenix/stable/V11.0.13.0.QGHCNXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QGHINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-02-12</td><td><a href="/miui/phoenixin/stable/V11.0.4.0.QGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QGHINXM</td><td>10.0</td><td>3.1 GB</td><td>2020-01-22</td><td><a href="/miui/phoenixin/stable/V11.0.4.0.QGHINXM/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.1.21</td><td>10.0</td><td>2.5 GB</td><td>2020-01-21</td><td><a href="/miui/phoenix/weekly/20.1.21/">Download</a></td></tr>
-<tr><td>Redmi K30 4G China</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.QGHCNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-01-20</td><td><a href="/miui/phoenix/stable/V11.0.10.0.QGHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.4.27</td><td>10.0</td><td>2.7 GB</td><td>2020-04-27</td><td><a href="/miui/phoenix/weekly/20.4.27/">Download</a></td></tr>
+<tr><td>Redmi K30 4G China</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.QGHCNXM</td><td>10.0</td><td>2.5 GB</td><td>2020-01-20</td><td><a href="/miui/phoenix/stable/V11.0.10.0.QGHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.1.16</td><td>10.0</td><td>2.5 GB</td><td>2020-01-16</td><td><a href="/miui/phoenix/weekly/20.1.16/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.1.9</td><td>10.0</td><td>2.5 GB</td><td>2020-01-09</td><td><a href="/miui/phoenix/weekly/20.1.9/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>9.12.26</td><td>10.0</td><td>2.5 GB</td><td>2019-12-26</td><td><a href="/miui/phoenix/weekly/9.12.26/">Download</a></td></tr>

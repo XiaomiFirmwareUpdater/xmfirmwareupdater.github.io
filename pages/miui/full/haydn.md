@@ -52,7 +52,8 @@ permalink: /archive/miui/haydn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40 Pro / Pro+ China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>4.0 GB</td><td>2021-04-28</td><td><a href="/miui/haydn/weekly/21.4.28/">Download</a></td></tr>
+                <tr><td>Redmi K40 Pro / Pro+ China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>4.0 GB</td><td>2021-05-13</td><td><a href="/miui/haydn/weekly/21.5.12/">Download</a></td></tr>
+<tr><td>Redmi K40 Pro / Pro+ China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>4.0 GB</td><td>2021-04-28</td><td><a href="/miui/haydn/weekly/21.4.28/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKKCNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-04-28</td><td><a href="/miui/haydn/stable/V12.5.3.0.RKKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKKCNXM</td><td>11.0</td><td>5.4 GB</td><td>2021-04-25</td><td><a href="/miui/haydn/stable/V12.5.3.0.RKKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKKCNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-04-26</td><td><a href="/miui/haydn/stable beta/V12.5.2.0.RKKCNXM/">Download</a></td></tr>
