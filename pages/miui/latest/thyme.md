@@ -54,7 +54,7 @@ permalink: /miui/thyme/
                 <tbody>
                 <tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V12.0.10.0.RGACNXM</td><td>11.0</td><td>5.1 GB</td><td>2021-03-23</td><td><a href="/miui/thyme/stable/V12.0.10.0.RGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V12.0.10.0.RGACNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-03-27</td><td><a href="/miui/thyme/stable/V12.0.10.0.RGACNXM/">Download</a></td></tr>
-<tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.11.0.RGACNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-04-23</td><td><a href="/miui/thyme/stable beta/V12.0.11.0.RGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RGACNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-05-15</td><td><a href="/miui/thyme/stable beta/V12.5.1.0.RGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>3.9 GB</td><td>2021-05-13</td><td><a href="/miui/thyme/weekly/21.5.12/">Download</a></td></tr>
 
                 </tbody>

@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 15 May 2021 07:11:17 +0900</pubDate>
+  <pubDate>Sun, 16 May 2021 01:42:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10S (thyme) - V12.5.1.0.RGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Sun, 16 May 2021 01:42:33 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V12.0.9.0.QJGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -100,11 +105,6 @@
     <title>Mi 9 Pro 5G (crux) - 21.5.12</title>
     <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
     <pubDate>Fri, 14 May 2021 17:56:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - 21.5.12</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Fri, 14 May 2021 17:52:32 +0900</pubDate>
   </item>
     </channel>
 </rss>
