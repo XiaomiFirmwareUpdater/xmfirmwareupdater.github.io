@@ -569,15 +569,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2021-05-06'
+  date: '2021-05-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-06.05.2021/fw_cetus_miui_CETUS_V12.0.10.0.RJTCNXM_631bf2b214_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.0.10.0.RJTCNXM_631bf2b214_11.0.zip
-  filename: fw_cetus_miui_CETUS_V12.0.10.0.RJTCNXM_631bf2b214_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-17.05.2021/fw_cetus_miui_CETUS_V12.0.11.0.RJTCNXM_c7df5e83d2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.0.11.0.RJTCNXM_c7df5e83d2_11.0.zip
+  filename: fw_cetus_miui_CETUS_V12.0.11.0.RJTCNXM_c7df5e83d2_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.0.10.0.RJTCNXM
+    miui: V12.0.11.0.RJTCNXM
 - branch: stable
   date: '2021-04-25'
   downloads:
@@ -2269,15 +2269,15 @@
     android: '11.0'
     miui: V12.1.3.0.RGHINXM
 - branch: stable
-  date: '2021-04-27'
+  date: '2021-05-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-27.04.2021/fw_picasso_miui_PICASSO_V12.1.8.0.RGICNXM_3d34a905a9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.1.8.0.RGICNXM_3d34a905a9_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.1.8.0.RGICNXM_3d34a905a9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-17.05.2021/fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.1.8.0.RGICNXM
+    miui: V12.5.2.0.RGICMXM
 - branch: weekly
   date: '2021-05-14'
   downloads:
@@ -3049,15 +3049,15 @@
     android: '11.0'
     miui: V12.1.4.0.RFNMIXM
 - branch: stable
-  date: '2020-11-03'
+  date: '2021-05-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-03.11.2020/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-17.05.2021/fw_toco_miui_TOCOEEAGlobal_V12.1.6.0.RFNEUXM_4bad62a819_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.1.6.0.RFNEUXM_4bad62a819_11.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.1.6.0.RFNEUXM_4bad62a819_11.0.zip
   region: Europe
   versions:
-    android: '10.0'
-    miui: V12.0.2.0.QFNEUXM
+    android: '11.0'
+    miui: V12.1.6.0.RFNEUXM
 - branch: stable
   date: '2021-03-12'
   downloads:

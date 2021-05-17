@@ -52,7 +52,8 @@ permalink: /archive/miui/picasso/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>3.8 GB</td><td>2021-05-13</td><td><a href="/miui/picasso/weekly/21.5.12/">Download</a></td></tr>
+                <tr><td>Redmi K30i 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RGICMXM</td><td>11.0</td><td>3.6 GB</td><td>2021-05-17</td><td><a href="/miui/picasso/stable beta/V12.5.2.0.RGICMXM/">Download</a></td></tr>
+<tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>3.8 GB</td><td>2021-05-13</td><td><a href="/miui/picasso/weekly/21.5.12/">Download</a></td></tr>
 <tr><td>Redmi K30i 5G China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>3.8 GB</td><td>2021-05-13</td><td><a href="/miui/picasso/weekly/21.5.12/">Download</a></td></tr>
 <tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.29</td><td>11.0</td><td>3.8 GB</td><td>2021-04-29</td><td><a href="/miui/picasso/weekly/21.4.29/">Download</a></td></tr>
 <tr><td>Redmi K30i 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.29</td><td>11.0</td><td>3.8 GB</td><td>2021-04-29</td><td><a href="/miui/picasso/weekly/21.4.29/">Download</a></td></tr>
