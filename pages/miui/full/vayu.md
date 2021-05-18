@@ -52,7 +52,8 @@ permalink: /archive/miui/vayu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X3 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.RJUINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-05-17</td><td><a href="/miui/vayu/stable beta/V12.0.5.0.RJUINXM/">Download</a></td></tr>
+                <tr><td>POCO X3 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.0.RJURUXM</td><td>11.0</td><td>2.8 GB</td><td>2021-05-18</td><td><a href="/miui/vayu/stable beta/V12.0.6.0.RJURUXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.RJUINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-05-17</td><td><a href="/miui/vayu/stable beta/V12.0.5.0.RJUINXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RJURUXM</td><td>11.0</td><td>2.8 GB</td><td>2021-05-10</td><td><a href="/miui/vayu/stable/V12.0.3.0.RJURUXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RJURUXM</td><td>11.0</td><td>4.4 GB</td><td>2021-04-01</td><td><a href="/miui/vayu/stable/V12.0.3.0.RJURUXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RJUTWXM</td><td>11.0</td><td>2.8 GB</td><td>2021-05-06</td><td><a href="/miui/vayu/stable/V12.0.2.0.RJUTWXM/">Download</a></td></tr>
