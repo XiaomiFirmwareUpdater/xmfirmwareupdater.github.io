@@ -799,15 +799,15 @@
     android: '11.0'
     miui: V12.0.4.0.RJWINXM
 - branch: stable
-  date: '2021-02-04'
+  date: '2021-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daisy/releases/download/stable-04.02.2021/fw_daisy_miui_DAISYGlobal_V11.0.18.0.QDLMIXM_faa4bc755a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/daisy/fw_daisy_miui_DAISYGlobal_V11.0.18.0.QDLMIXM_faa4bc755a_10.0.zip
-  filename: fw_daisy_miui_DAISYGlobal_V11.0.18.0.QDLMIXM_faa4bc755a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daisy/releases/download/stable-19.05.2021/fw_daisy_miui_DAISYGlobal_V11.0.19.0.QDLMIXM_2d43e66d19_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/daisy/fw_daisy_miui_DAISYGlobal_V11.0.19.0.QDLMIXM_2d43e66d19_10.0.zip
+  filename: fw_daisy_miui_DAISYGlobal_V11.0.19.0.QDLMIXM_2d43e66d19_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.18.0.QDLMIXM
+    miui: V11.0.19.0.QDLMIXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -1129,15 +1129,15 @@
     android: '10.0'
     miui: V12.0.2.0.QCOINXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-19.02.2021/fw_gram_miui_GRAMINGlobal_V12.0.3.0.QJPINXM_fa8c984bff_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gram/fw_gram_miui_GRAMINGlobal_V12.0.3.0.QJPINXM_fa8c984bff_10.0.zip
-  filename: fw_gram_miui_GRAMINGlobal_V12.0.3.0.QJPINXM_fa8c984bff_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-19.05.2021/fw_gram_miui_GRAMINGlobal_V12.0.4.0.QJPINXM_c7dd0794c6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gram/fw_gram_miui_GRAMINGlobal_V12.0.4.0.QJPINXM_c7dd0794c6_10.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V12.0.4.0.QJPINXM_c7dd0794c6_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QJPINXM
+    miui: V12.0.4.0.QJPINXM
 - branch: stable
   date: '2021-03-19'
   downloads:
@@ -2269,15 +2269,15 @@
     android: '11.0'
     miui: V12.1.3.0.RGHINXM
 - branch: stable
-  date: '2021-05-17'
+  date: '2021-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-17.05.2021/fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-19.05.2021/fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
+  filename: fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RGICMXM
+    miui: V12.5.2.0.RGICNXM
 - branch: weekly
   date: '2021-05-14'
   downloads:
@@ -2429,15 +2429,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2021-03-22'
+  date: '2021-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-22.03.2021/fw_pyxis_miui_PYXISGlobal_V12.0.6.0.QFCMIXM_753bf0468c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISGlobal_V12.0.6.0.QFCMIXM_753bf0468c_10.0.zip
-  filename: fw_pyxis_miui_PYXISGlobal_V12.0.6.0.QFCMIXM_753bf0468c_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-19.05.2021/fw_pyxis_miui_PYXISGlobal_V12.0.7.0.QFCMIXM_0bd2771e0b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISGlobal_V12.0.7.0.QFCMIXM_0bd2771e0b_10.0.zip
+  filename: fw_pyxis_miui_PYXISGlobal_V12.0.7.0.QFCMIXM_0bd2771e0b_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.6.0.QFCMIXM
+    miui: V12.0.7.0.QFCMIXM
 - branch: stable
   date: '2021-04-29'
   downloads:
@@ -2949,15 +2949,15 @@
     android: '10.0'
     miui: V12.0.9.0.QJGMIXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-15.04.2021/fw_surya_miui_SURYAEEAGlobal_V12.0.7.0.RJGEUXM_641da640cd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.0.7.0.RJGEUXM_641da640cd_11.0.zip
-  filename: fw_surya_miui_SURYAEEAGlobal_V12.0.7.0.RJGEUXM_641da640cd_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-19.05.2021/fw_surya_miui_SURYAEEAGlobal_V12.0.8.0.RJGEUXM_5a1c94bd0b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.0.8.0.RJGEUXM_5a1c94bd0b_11.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V12.0.8.0.RJGEUXM_5a1c94bd0b_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.7.0.RJGEUXM
+    miui: V12.0.8.0.RJGEUXM
 - branch: stable
   date: '2021-04-23'
   downloads:
