@@ -67,8 +67,8 @@ permalink: /miui/venus/
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RKBTWXM</td><td>11.0</td><td>4.4 GB</td><td>2021-03-09</td><td><a href="/miui/venus/stable/V12.0.1.0.RKBTWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RKBTWXM</td><td>11.0</td><td>3.1 GB</td><td>2021-04-16</td><td><a href="/miui/venus/stable/V12.0.1.0.RKBTWXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RKBEUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-05-06</td><td><a href="/miui/venus/stable beta/V12.5.1.0.RKBEUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.9.0.RKBMIXM</td><td>11.0</td><td>5.6 GB</td><td>2021-04-02</td><td><a href="/miui/venus/stable/V12.0.9.0.RKBMIXM/">Download</a></td></tr>
-<tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.9.0.RKBMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-04-25</td><td><a href="/miui/venus/stable/V12.0.9.0.RKBMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKBMIXM</td><td>11.0</td><td>5.8 GB</td><td>2021-04-23</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKBMIXM</td><td>11.0</td><td>3.3 GB</td><td>2021-05-10</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

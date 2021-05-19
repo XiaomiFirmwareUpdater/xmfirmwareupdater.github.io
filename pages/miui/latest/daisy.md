@@ -52,7 +52,7 @@ permalink: /miui/daisy/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.18.0.QDLMIXM</td><td>10.0</td><td>1.5 GB</td><td>2021-01-26</td><td><a href="/miui/daisy/stable/V11.0.18.0.QDLMIXM/">Download</a></td></tr>
+                <tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.19.0.QDLMIXM</td><td>10.0</td><td>1.5 GB</td><td>2021-05-13</td><td><a href="/miui/daisy/stable/V11.0.19.0.QDLMIXM/">Download</a></td></tr>
 <tr><td>Mi A2 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.18.0.QDLMIXM</td><td>10.0</td><td>1.2 GB</td><td>2021-02-04</td><td><a href="/miui/daisy/stable/V11.0.18.0.QDLMIXM/">Download</a></td></tr>
 
                 </tbody>

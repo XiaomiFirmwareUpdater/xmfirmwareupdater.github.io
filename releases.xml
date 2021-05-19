@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 19 May 2021 04:31:58 +0900</pubDate>
+  <pubDate>Wed, 19 May 2021 19:56:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 (venus) - V12.5.1.0.RKBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Wed, 19 May 2021 19:56:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.2.0.RFDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Wed, 19 May 2021 19:27:23 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.0.2.0.RJSINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
@@ -95,16 +105,6 @@
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.5.12</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Fri, 14 May 2021 18:34:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.5.12</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 14 May 2021 18:30:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.5.12</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 14 May 2021 18:27:26 +0900</pubDate>
   </item>
     </channel>
 </rss>
