@@ -603,4 +603,9 @@ smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 xandr.com, 12701, DIRECT, f5ab79cb980f11d1
 video.unrulymedia.com, 3736557092, RESELLER
 rhythmone.com, 3736557092, RESELLER, a670c89d4a324e47
+pubmatic.com, 156971, RESELLER, 5d62403b186f2ace
+pubmatic.com, 133799, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157840, RESELLER, 5d62403b186f2ace
+pubmatic.com, 155967, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160048, RESELLER, 5d62403b186f2ace
 #VLI END
