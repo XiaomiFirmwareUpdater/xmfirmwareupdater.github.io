@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-20.05.2021/fw_tucana_miui_TUCANAGlobal_V12.1.3.0.RFDMIXM_7044a70c96_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.1.3.0.RFDMIXM_7044a70c96_11.0.zip
+  filename: fw_tucana_miui_TUCANAGlobal_V12.1.3.0.RFDMIXM_7044a70c96_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.1.3.0.RFDMIXM
+- branch: stable
   date: '2021-05-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-19.05.2021/fw_tucana_miui_TUCANA_V12.5.2.0.RFDCNXM_9b1f885f20_11.0.zip
