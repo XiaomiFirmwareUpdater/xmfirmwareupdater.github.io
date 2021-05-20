@@ -9,12 +9,12 @@
     android: '11.0'
     miui: V12.0.2.0.RJLCNXM
 - branch: weekly
-  date: '2021-05-14'
+  date: '2021-05-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-14.05.2021/fw_bomb_miui_BOMB_21.5.12_6dcf826f71_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.12/bomb/fw_bomb_miui_BOMB_21.5.12_6dcf826f71_11.0.zip
-  filename: fw_bomb_miui_BOMB_21.5.12_6dcf826f71_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-20.05.2021/fw_bomb_miui_BOMB_21.5.20_e80450d406_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.20/bomb/fw_bomb_miui_BOMB_21.5.20_e80450d406_11.0.zip
+  filename: fw_bomb_miui_BOMB_21.5.20_e80450d406_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.5.12
+    miui: 21.5.20

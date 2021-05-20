@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-20.05.2021/fw_phoenix_miui_PHOENIX_21.5.20_196ce0a7c4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.20/phoenix/fw_phoenix_miui_PHOENIX_21.5.20_196ce0a7c4_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.5.20_196ce0a7c4_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.20
+- branch: weekly
   date: '2021-05-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-14.05.2021/fw_phoenix_miui_PHOENIX_21.5.12_d8d8cd9dae_11.0.zip
