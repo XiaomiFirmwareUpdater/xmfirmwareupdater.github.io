@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 21 May 2021 05:01:37 +0900</pubDate>
+  <pubDate>Fri, 21 May 2021 08:50:53 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.7.0.RKACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Fri, 21 May 2021 08:50:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V12.0.1.0.RKKINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 21 May 2021 08:20:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V12.0.1.0.RKKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 21 May 2021 07:55:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V12.0.4.0.RKKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 21 May 2021 07:31:26 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Lite Zoom (vangogh) - 21.5.20</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
@@ -85,26 +105,6 @@
     <title>Mi 10 Ultra (cas) - 21.5.20</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
     <pubDate>Fri, 21 May 2021 04:02:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 5G (cannon) - 21.5.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
-    <pubDate>Fri, 21 May 2021 03:56:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - 21.5.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Fri, 21 May 2021 03:54:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - 21.5.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Fri, 21 May 2021 03:52:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - 21.5.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Fri, 21 May 2021 03:50:44 +0900</pubDate>
   </item>
     </channel>
 </rss>
