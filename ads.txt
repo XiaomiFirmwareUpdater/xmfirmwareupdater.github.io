@@ -608,4 +608,13 @@ pubmatic.com, 133799, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157840, RESELLER, 5d62403b186f2ace
 pubmatic.com, 155967, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160048, RESELLER, 5d62403b186f2ace
+google.com, pub-7079691902491759, DIRECT, f08c47fec0942fa0
+appnexus.com, 12840, DIRECT, f5ab79cb980f11d1
+sovrn.com, 352873, DIRECT, fafdf38b16bf6b2b
+lijit.com, 352873, DIRECT, fafdf38b16bf6b2b
+lijit.com, 352873-eb, DIRECT, fafdf38b16bf6b2b
+rhythmone.com, 3657726366, DIRECT, a670c89d4a324e47
+media.net, 8CULVE5ZL, DIRECT
+yieldmo.com, 2737909449233473695, DIRECT
+sonobi.com, 19b956f44f, DIRECT, d1a215d9eb5aee9e
 #VLI END
