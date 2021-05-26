@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 25 May 2021 19:56:43 +0900</pubDate>
+  <pubDate>Wed, 26 May 2021 20:19:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10S (rosemary) - V12.5.6.0.RKLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Wed, 26 May 2021 20:19:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 5G (camellian) - V12.0.8.0.RKSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Wed, 26 May 2021 19:55:21 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 7A (pine) - V12.0.3.0.QCMMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
@@ -95,16 +105,6 @@
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.8.0.QJOMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
     <pubDate>Mon, 24 May 2021 19:35:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.2.0.RJSCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Mon, 24 May 2021 19:34:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 5G (camellian) - V12.0.7.0.RKSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
-    <pubDate>Mon, 24 May 2021 19:32:56 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 10 5G (camellian) MIUI Downloads
+title: Redmi Note 10/POCO M3 Pro 5G (camellia) MIUI Downloads
 layout: download
-name: Redmi Note 10 5G
-codename: camellian
-permalink: /miui/camellian/
+name: Redmi Note 10/POCO M3 Pro 5G
+codename: camellia
+permalink: /miui/camellia/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/camellian/">Redmi Note 10 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/camellia/">Redmi Note 10/POCO M3 Pro 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/camellian/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/camellian/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/camellian/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/camellian/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/camellia/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/camellia/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/camellia/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,7 +52,9 @@ permalink: /miui/camellian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.RKSEUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-05-19</td><td><a href="/miui/camellian/stable/V12.0.8.0.RKSEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.RKSCNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-05-18</td><td><a href="/miui/camellia/stable/V12.0.5.0.RKSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 China</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.RKSCNXM</td><td>11.0</td><td>2.7 GB</td><td>2021-05-25</td><td><a href="/miui/camellia/stable/V12.0.5.0.RKSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.RKSEUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-05-19</td><td><a href="/miui/camellian/stable/V12.0.8.0.RKSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.RKSEUXM</td><td>11.0</td><td>2.3 GB</td><td>2021-05-26</td><td><a href="/miui/camellian/stable/V12.0.8.0.RKSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.RKSEUXM</td><td>11.0</td><td>2.3 GB</td><td>2021-04-28</td><td><a href="/miui/camellian/stable beta/V12.0.3.0.RKSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RKSMIXM</td><td>11.0</td><td>2.1 GB</td><td>None</td><td><a href="/miui/camellian/stable beta/V12.0.1.0.RKSMIXM/">Download</a></td></tr>
