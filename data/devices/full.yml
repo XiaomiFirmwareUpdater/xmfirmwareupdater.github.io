@@ -19649,6 +19649,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-26.05.2021/fw_mojito_miui_MOJITOINGlobal_V12.0.4.0.RKGINXM_03f70fb721_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOINGlobal_V12.0.4.0.RKGINXM_03f70fb721_11.0.zip
+  filename: fw_mojito_miui_MOJITOINGlobal_V12.0.4.0.RKGINXM_03f70fb721_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.0.4.0.RKGINXM
+- branch: stable
   date: '2021-05-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-13.05.2021/fw_mojito_miui_MOJITOGlobal_V12.0.9.0.RKGMIXM_dca72f24be_11.0.zip
