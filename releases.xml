@@ -1,11 +1,61 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 28 May 2021 02:49:41 +0900</pubDate>
+  <pubDate>Fri, 28 May 2021 04:26:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - 21.5.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Fri, 28 May 2021 04:26:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - 21.5.27</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Fri, 28 May 2021 04:26:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 21.5.27</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Fri, 28 May 2021 04:24:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10S (thyme) - 21.5.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Fri, 28 May 2021 04:16:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 21.5.27</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
+    <pubDate>Fri, 28 May 2021 04:12:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.5.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Fri, 28 May 2021 04:10:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - 21.5.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 28 May 2021 04:06:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.5.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 28 May 2021 04:01:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - 21.5.27</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Fri, 28 May 2021 03:57:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.5.26</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Fri, 28 May 2021 03:54:06 +0900</pubDate>
+  </item>
     <item>
     <title>POCO C3 (angelicain) - V12.0.11.0.QCRINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
@@ -22,7 +72,7 @@
     <pubDate>Fri, 28 May 2021 01:41:37 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 10/POCO M3 Pro 5G (camellia) - V12.0.5.0.RKSCNXM</title>
+    <title>Redmi Note 10 5G/POCO M3 Pro 5G (camellia) - V12.0.5.0.RKSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/camellia</link>
     <pubDate>Fri, 28 May 2021 01:37:47 +0900</pubDate>
   </item>
@@ -55,56 +105,6 @@
     <title>Redmi 7A (pine) - V12.0.4.0.QCMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
     <pubDate>Tue, 25 May 2021 19:54:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V12.0.3.0.QCPMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Tue, 25 May 2021 19:53:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V12.0.3.0.QCPEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Tue, 25 May 2021 19:51:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8A (olivelite) - V12.0.3.0.QCPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
-    <pubDate>Tue, 25 May 2021 19:49:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V12.0.3.0.QCNEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Tue, 25 May 2021 19:47:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V12.0.3.0.QCNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Tue, 25 May 2021 19:45:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V12.5.4.0.RKKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Tue, 25 May 2021 19:43:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro Max (excalibur) - V12.0.4.0.QJXINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/excalibur</link>
-    <pubDate>Tue, 25 May 2021 19:14:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 4G (courbet) - V12.0.11.0.RKQMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
-    <pubDate>Tue, 25 May 2021 19:11:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V12.5.3.0.RKBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Tue, 25 May 2021 18:57:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi A2 (jasmine) - V11.0.26.0.QDIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jasmine</link>
-    <pubDate>Tue, 25 May 2021 17:26:14 +0900</pubDate>
   </item>
     </channel>
 </rss>
