@@ -1059,15 +1059,15 @@
     android: '11.0'
     miui: 21.5.27
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-05-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-01.03.2021/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.1.0.RJSEUXM_15bfbef742_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.1.0.RJSEUXM_15bfbef742_11.0.zip
-  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.1.0.RJSEUXM_15bfbef742_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-28.05.2021/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.2.0.RJSEUXM_1b7dcba719_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.2.0.RJSEUXM_1b7dcba719_11.0.zip
+  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V12.0.2.0.RJSEUXM_1b7dcba719_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.1.0.RJSEUXM
+    miui: V12.0.2.0.RJSEUXM
 - branch: stable
   date: '2021-05-18'
   downloads:
