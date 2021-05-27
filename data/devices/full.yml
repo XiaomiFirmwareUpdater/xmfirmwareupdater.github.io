@@ -3939,6 +3939,16 @@
     android: '8.1'
     miui: V10.3.4.0.OCBCNXM
 - branch: stable
+  date: '2021-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-27.05.2021/fw_camellia_miui_CAMELLIA_V12.0.5.0.RKSCNXM_38ae0fa733_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.0.5.0.RKSCNXM_38ae0fa733_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V12.0.5.0.RKSCNXM_38ae0fa733_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.5.0.RKSCNXM
+- branch: stable
   date: '2021-05-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-26.05.2021/fw_camellian_miui_CAMELLIANEEAGlobal_V12.0.8.0.RKSEUXM_1abd5bf680_11.0.zip
@@ -27208,6 +27218,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: stable
+  date: '2021-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-27.05.2021/fw_raphael_miui_RAPHAEL_V12.5.4.0.RFKCNXM_1d376aa388_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAEL_V12.5.4.0.RFKCNXM_1d376aa388_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_V12.5.4.0.RFKCNXM_1d376aa388_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RFKCNXM
 - branch: weekly
   date: '2021-05-14'
   downloads:
@@ -35248,6 +35268,16 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJVCNXM
+- branch: stable
+  date: '2021-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-27.05.2021/fw_vayu_miui_VAYUEEAGlobal_V12.5.1.0.RJUEUXM_8f1ef5258e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUEEAGlobal_V12.5.1.0.RJUEUXM_8f1ef5258e_11.0.zip
+  filename: fw_vayu_miui_VAYUEEAGlobal_V12.5.1.0.RJUEUXM_8f1ef5258e_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJUEUXM
 - branch: stable
   date: '2021-05-17'
   downloads:
