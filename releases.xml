@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 28 May 2021 22:10:44 +0900</pubDate>
+  <pubDate>Sat, 29 May 2021 02:00:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 10 Lite (toco) - V12.5.1.0.RFNMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
+    <pubDate>Sat, 29 May 2021 02:00:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V12.0.5.0.QCOMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Sat, 29 May 2021 01:57:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V12.1.2.0.RFJMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Sat, 29 May 2021 01:54:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Ultra (cezanne) - V12.5.3.0.RJNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
+    <pubDate>Sat, 29 May 2021 01:51:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Gaming/POCO F3 GT (ares) - V12.5.5.0.RKJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
+    <pubDate>Sat, 29 May 2021 01:49:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 (mojito) - V12.0.10.0.RKGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
@@ -80,31 +105,6 @@
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.5.26</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
     <pubDate>Fri, 28 May 2021 05:05:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.5.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Fri, 28 May 2021 05:02:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 21.5.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Fri, 28 May 2021 05:01:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 21.5.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 28 May 2021 04:59:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.5.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Fri, 28 May 2021 04:58:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 21.5.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Fri, 28 May 2021 04:57:06 +0900</pubDate>
   </item>
     </channel>
 </rss>

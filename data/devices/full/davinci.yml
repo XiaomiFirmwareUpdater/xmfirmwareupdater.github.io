@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2021-05-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/stable-28.05.2021/fw_davinci_miui_DAVINCIGlobal_V12.1.2.0.RFJMIXM_5307aa9377_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinci/fw_davinci_miui_DAVINCIGlobal_V12.1.2.0.RFJMIXM_5307aa9377_11.0.zip
+  filename: fw_davinci_miui_DAVINCIGlobal_V12.1.2.0.RFJMIXM_5307aa9377_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.1.2.0.RFJMIXM
 - branch: weekly
   date: '2021-05-27'
   downloads:
