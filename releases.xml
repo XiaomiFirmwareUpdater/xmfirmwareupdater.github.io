@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 29 May 2021 02:00:01 +0900</pubDate>
+  <pubDate>Sat, 29 May 2021 02:00:13 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Mi Note 10 Lite (toco) - V12.5.1.0.RFNMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
-    <pubDate>Sat, 29 May 2021 02:00:01 +0900</pubDate>
+    <pubDate>Sat, 29 May 2021 02:00:13 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 8 (ginkgo) - V12.0.5.0.QCOMIXM</title>
