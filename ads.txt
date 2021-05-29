@@ -617,4 +617,14 @@ rhythmone.com, 3657726366, DIRECT, a670c89d4a324e47
 media.net, 8CULVE5ZL, DIRECT
 yieldmo.com, 2737909449233473695, DIRECT
 sonobi.com, 19b956f44f, DIRECT, d1a215d9eb5aee9e
+admanmedia.com, 849, DIRECT
+openx.com, 540866936, RESELLER, 6a698e2ec38604c6
+openx.com, 543886194, RESELLER, 6a698e2ec38604c6
+xandr.com, 8804, RESELLER, f5ab79cb980f11d1
+indexexchange.com, 191497, RESELLER, 50b1c356f2c5c8fc
+smartadserver.com, 3713, RESELLER
+sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
+video.unrulymedia.com, 3948367200, RESELLER
+rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
+adform.com, 2671, RESELLER
 #VLI END
