@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2021-05-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-31.05.2021/fw_lime_miui_LIME_V12.0.16.0.QJQCNXM_f0b0ccaad7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIME_V12.0.16.0.QJQCNXM_f0b0ccaad7_10.0.zip
+  filename: fw_lime_miui_LIME_V12.0.16.0.QJQCNXM_f0b0ccaad7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.16.0.QJQCNXM
 - branch: weekly
   date: '2021-05-27'
   downloads:

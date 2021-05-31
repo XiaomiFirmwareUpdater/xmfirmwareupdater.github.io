@@ -17838,6 +17838,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-05-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-31.05.2021/fw_lime_miui_LIME_V12.0.16.0.QJQCNXM_f0b0ccaad7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIME_V12.0.16.0.QJQCNXM_f0b0ccaad7_10.0.zip
+  filename: fw_lime_miui_LIME_V12.0.16.0.QJQCNXM_f0b0ccaad7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.16.0.QJQCNXM
 - branch: weekly
   date: '2021-05-27'
   downloads:
@@ -31388,6 +31398,16 @@
   versions:
     android: '8.1'
     miui: 8.6.18
+- branch: stable
+  date: '2021-05-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-31.05.2021/fw_star_miui_STARGlobal_V12.0.2.0.RKAMIXM_f6f9710fad_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARGlobal_V12.0.2.0.RKAMIXM_f6f9710fad_11.0.zip
+  filename: fw_star_miui_STARGlobal_V12.0.2.0.RKAMIXM_f6f9710fad_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.2.0.RKAMIXM
 - branch: stable
   date: '2021-05-30'
   downloads:
