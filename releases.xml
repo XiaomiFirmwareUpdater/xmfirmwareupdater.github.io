@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 01 Jun 2021 02:09:08 +0900</pubDate>
+  <pubDate>Tue, 01 Jun 2021 19:17:47 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro (joyeuse) - V12.0.1.0.RJZMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
+    <pubDate>Tue, 01 Jun 2021 19:17:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 5G (cannon) - V12.5.2.0.RJECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
+    <pubDate>Tue, 01 Jun 2021 19:14:16 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 5G/POCO M3 Pro 5G (camellia) - V12.0.6.0.RKSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/camellia</link>
@@ -95,16 +105,6 @@
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.2.0.RKAEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/star</link>
     <pubDate>Fri, 28 May 2021 13:51:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.0.2.0.RJSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Fri, 28 May 2021 07:10:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 21.5.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Fri, 28 May 2021 05:20:55 +0900</pubDate>
   </item>
     </channel>
 </rss>

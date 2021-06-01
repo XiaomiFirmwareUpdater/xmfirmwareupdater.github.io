@@ -52,7 +52,8 @@ permalink: /archive/miui/cannon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.5.27</td><td>11.0</td><td>3.1 GB</td><td>2021-05-27</td><td><a href="/miui/cannon/weekly/21.5.27/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RJECNXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-31</td><td><a href="/miui/cannon/stable beta/V12.5.2.0.RJECNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.5.27</td><td>11.0</td><td>3.1 GB</td><td>2021-05-27</td><td><a href="/miui/cannon/weekly/21.5.27/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.5.20</td><td>11.0</td><td>3.1 GB</td><td>2021-05-20</td><td><a href="/miui/cannon/weekly/21.5.20/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>3.1 GB</td><td>2021-05-13</td><td><a href="/miui/cannon/weekly/21.5.12/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>3.1 GB</td><td>2021-04-29</td><td><a href="/miui/cannon/weekly/21.4.28/">Download</a></td></tr>
