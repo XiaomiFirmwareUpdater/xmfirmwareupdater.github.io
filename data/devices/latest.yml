@@ -1979,15 +1979,15 @@
     android: '11.0'
     miui: V12.0.10.0.RKGMIXM
 - branch: stable
-  date: '2021-04-10'
+  date: '2021-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-10.04.2021/fw_mojito_miui_MOJITOEEAGlobal_V12.0.3.0.RKGEUXM_d15dfae454_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOEEAGlobal_V12.0.3.0.RKGEUXM_d15dfae454_11.0.zip
-  filename: fw_mojito_miui_MOJITOEEAGlobal_V12.0.3.0.RKGEUXM_d15dfae454_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-02.06.2021/fw_mojito_miui_MOJITOEEAGlobal_V12.0.4.0.RKGEUXM_760e28ad70_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOEEAGlobal_V12.0.4.0.RKGEUXM_760e28ad70_11.0.zip
+  filename: fw_mojito_miui_MOJITOEEAGlobal_V12.0.4.0.RKGEUXM_760e28ad70_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.3.0.RKGEUXM
+    miui: V12.0.4.0.RKGEUXM
 - branch: stable
   date: '2021-05-26'
   downloads:
@@ -2709,15 +2709,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2021-05-17'
+  date: '2021-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-17.05.2021/fw_rosemary_miui_ROSEMARYGlobal_V12.5.7.0.RKLMIXM_8c2d4bfac7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V12.5.7.0.RKLMIXM_8c2d4bfac7_11.0.zip
-  filename: fw_rosemary_miui_ROSEMARYGlobal_V12.5.7.0.RKLMIXM_8c2d4bfac7_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-02.06.2021/fw_rosemary_miui_ROSEMARYGlobal_V12.5.9.0.RKLMIXM_7f90cc8727_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V12.5.9.0.RKLMIXM_7f90cc8727_11.0.zip
+  filename: fw_rosemary_miui_ROSEMARYGlobal_V12.5.9.0.RKLMIXM_7f90cc8727_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RKLMIXM
+    miui: V12.5.9.0.RKLMIXM
 - branch: stable
   date: '2021-05-26'
   downloads:
@@ -2729,15 +2729,15 @@
     android: '11.0'
     miui: V12.5.6.0.RKLEUXM
 - branch: stable
-  date: '2021-05-06'
+  date: '2021-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-06.05.2021/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.2.0.RKLINXM_347730bac2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.2.0.RKLINXM_347730bac2_11.0.zip
-  filename: fw_rosemary_miui_ROSEMARYINGlobal_V12.5.2.0.RKLINXM_347730bac2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-02.06.2021/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.4.0.RKLINXM_d3acb6b011_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.4.0.RKLINXM_d3acb6b011_11.0.zip
+  filename: fw_rosemary_miui_ROSEMARYINGlobal_V12.5.4.0.RKLINXM_d3acb6b011_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RKLINXM
+    miui: V12.5.4.0.RKLINXM
 - branch: stable
   date: '2020-01-19'
   downloads:
@@ -3059,15 +3059,15 @@
     android: '11.0'
     miui: V12.5.1.0.RKFEUXM
 - branch: stable
-  date: '2021-05-11'
+  date: '2021-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-11.05.2021/fw_sweetin_miui_SWEETININGlobal_V12.5.1.0.RKFINXM_eee43495d0_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweetin/fw_sweetin_miui_SWEETININGlobal_V12.5.1.0.RKFINXM_eee43495d0_11.0.zip
-  filename: fw_sweetin_miui_SWEETININGlobal_V12.5.1.0.RKFINXM_eee43495d0_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-02.06.2021/fw_sweetin_miui_SWEETININGlobal_V12.5.2.0.RKFINXM_349103011a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweetin/fw_sweetin_miui_SWEETININGlobal_V12.5.2.0.RKFINXM_349103011a_11.0.zip
+  filename: fw_sweetin_miui_SWEETININGlobal_V12.5.2.0.RKFINXM_349103011a_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RKFINXM
+    miui: V12.5.2.0.RKFINXM
 - branch: stable
   date: '2021-05-15'
   downloads:
