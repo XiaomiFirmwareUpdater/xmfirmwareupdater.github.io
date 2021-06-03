@@ -1,18 +1,58 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 04 Jun 2021 02:31:39 +0900</pubDate>
+  <pubDate>Fri, 04 Jun 2021 04:25:15 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 21.6.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Fri, 04 Jun 2021 04:25:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.6.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Fri, 04 Jun 2021 04:17:56 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 21.6.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
+    <pubDate>Fri, 04 Jun 2021 04:13:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.6.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Fri, 04 Jun 2021 04:11:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - 21.6.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 04 Jun 2021 04:08:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - 21.6.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Fri, 04 Jun 2021 04:03:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10S (thyme) - 21.6.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Fri, 04 Jun 2021 03:11:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.6.2</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 04 Jun 2021 03:07:50 +0900</pubDate>
+  </item>
+    <item>
     <title>POCO M3 (citrus) - V12.0.6.0.QJFINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
     <pubDate>Fri, 04 Jun 2021 02:31:39 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 10 Pro/Redmi Note 10 Ultra (chopin) - V12.5.3.0.RKPCNXM</title>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V12.5.3.0.RKPCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
     <pubDate>Fri, 04 Jun 2021 02:29:20 +0900</pubDate>
   </item>
@@ -65,46 +105,6 @@
     <title>Redmi Note 8 (ginkgo) - V12.0.3.0.RCOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
     <pubDate>Wed, 02 Jun 2021 02:11:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M3 (citrus) - V12.0.8.0.QJFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
-    <pubDate>Wed, 02 Jun 2021 02:10:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.5.1.0.RKHMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Wed, 02 Jun 2021 02:09:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.5.1.0.RKHEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Wed, 02 Jun 2021 01:41:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V12.0.1.0.RJZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Tue, 01 Jun 2021 19:17:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 5G (cannon) - V12.5.2.0.RJECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
-    <pubDate>Tue, 01 Jun 2021 19:14:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 5G/POCO M3 Pro 5G (camellia) - V12.0.6.0.RKSCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/camellia</link>
-    <pubDate>Tue, 01 Jun 2021 02:09:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite (monet) - V12.5.1.0.RJIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
-    <pubDate>Mon, 31 May 2021 19:26:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 3 5G (andromeda) - V12.0.7.0.PEMEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
-    <pubDate>Mon, 31 May 2021 19:23:03 +0900</pubDate>
   </item>
     </channel>
 </rss>

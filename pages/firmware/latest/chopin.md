@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 10 Pro/Redmi Note 10 Ultra (chopin) Firmware Downloads
+title: Redmi Note 10 Pro 5G/POCO X3 GT (chopin) Firmware Downloads
 layout: download
-name: Redmi Note 10 Pro/Redmi Note 10 Ultra
+name: Redmi Note 10 Pro 5G/POCO X3 GT
 codename: chopin
 permalink: /firmware/chopin/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/chopin/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/chopin/">Redmi Note 10 Pro/Redmi Note 10 Ultra</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/chopin/">Redmi Note 10 Pro 5G/POCO X3 GT</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
