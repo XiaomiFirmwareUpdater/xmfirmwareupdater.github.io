@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-03.06.2021/fw_crux_miui_CRUX_21.6.2_5b893b6366_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/crux/fw_crux_miui_CRUX_21.6.2_5b893b6366_11.0.zip
+  filename: fw_crux_miui_CRUX_21.6.2_5b893b6366_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.2
+- branch: weekly
   date: '2021-05-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-27.05.2021/fw_crux_miui_CRUX_21.5.26_26f2858dc1_11.0.zip
