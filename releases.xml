@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 04 Jun 2021 01:19:38 +0900</pubDate>
+  <pubDate>Fri, 04 Jun 2021 02:31:39 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO M3 (citrus) - V12.0.6.0.QJFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Fri, 04 Jun 2021 02:31:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro/Redmi Note 10 Ultra (chopin) - V12.5.3.0.RKPCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Fri, 04 Jun 2021 02:29:20 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9C (angelica) - V12.0.8.0.QCREUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
@@ -95,16 +105,6 @@
     <title>Mi MIX 3 5G (andromeda) - V12.0.7.0.PEMEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/andromeda</link>
     <pubDate>Mon, 31 May 2021 19:23:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.0.2.0.RKAMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Mon, 31 May 2021 13:42:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.16.0.QJQCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Mon, 31 May 2021 13:17:04 +0900</pubDate>
   </item>
     </channel>
 </rss>

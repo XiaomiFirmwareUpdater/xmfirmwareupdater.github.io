@@ -52,7 +52,8 @@ permalink: /archive/miui/lmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.5.26</td><td>11.0</td><td>4.0 GB</td><td>2021-05-26</td><td><a href="/miui/lmi/weekly/21.5.26/">Download</a></td></tr>
+                <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.6.2</td><td>11.0</td><td>4.0 GB</td><td>2021-06-03</td><td><a href="/miui/lmi/weekly/21.6.2/">Download</a></td></tr>
+<tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.5.26</td><td>11.0</td><td>4.0 GB</td><td>2021-05-26</td><td><a href="/miui/lmi/weekly/21.5.26/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.5.20</td><td>11.0</td><td>4.0 GB</td><td>2021-05-20</td><td><a href="/miui/lmi/weekly/21.5.20/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>3.9 GB</td><td>2021-05-13</td><td><a href="/miui/lmi/weekly/21.5.12/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.2.4.0.RJKRUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-05-13</td><td><a href="/miui/lmi/stable/V12.2.4.0.RJKRUXM/">Download</a></td></tr>
