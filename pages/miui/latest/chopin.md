@@ -1,15 +1,15 @@
 ---
-title: Mi MIX Fold (cetus) MIUI Downloads
+title: Redmi Note 10 Pro/Redmi Note 10 Ultra (chopin) MIUI Downloads
 layout: download
-name: Mi MIX Fold
-codename: cetus
-permalink: /miui/cetus/
+name: Redmi Note 10 Pro/Redmi Note 10 Ultra
+codename: chopin
+permalink: /miui/chopin/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cetus/">Mi MIX Fold</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/chopin/">Redmi Note 10 Pro/Redmi Note 10 Ultra</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/cetus/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/cetus/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/cetus/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/cetus/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/chopin/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/chopin/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/chopin/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,9 +52,7 @@ permalink: /miui/cetus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi MIX Fold China</td><td>Stable</td><td>Fastboot</td><td>V12.0.11.0.RJTCNXM</td><td>11.0</td><td>5.5 GB</td><td>2021-05-08</td><td><a href="/miui/cetus/stable/V12.0.11.0.RJTCNXM/">Download</a></td></tr>
-<tr><td>Mi MIX Fold China</td><td>Stable</td><td>Recovery</td><td>V12.0.11.0.RJTCNXM</td><td>11.0</td><td>4.0 GB</td><td>2021-05-17</td><td><a href="/miui/cetus/stable/V12.0.11.0.RJTCNXM/">Download</a></td></tr>
-<tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.6.2</td><td>11.0</td><td>4.0 GB</td><td>2021-06-03</td><td><a href="/miui/cetus/weekly/21.6.2/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKPCNXM</td><td>11.0</td><td>3.2 GB</td><td>2021-06-03</td><td><a href="/miui/chopin/stable beta/V12.5.3.0.RKPCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
