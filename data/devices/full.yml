@@ -14088,6 +14088,16 @@
   versions:
     android: '10.0'
     miui: V11.0.3.0.QJPINXM
+- branch: stable
+  date: '2021-06-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/stable-04.06.2021/fw_grus_miui_GRUSGlobal_V12.5.1.0.RFBMIXM_c04478d703_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/grus/fw_grus_miui_GRUSGlobal_V12.5.1.0.RFBMIXM_c04478d703_11.0.zip
+  filename: fw_grus_miui_GRUSGlobal_V12.5.1.0.RFBMIXM_c04478d703_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RFBMIXM
 - branch: weekly
   date: '2021-06-03'
   downloads:
@@ -32228,6 +32238,16 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QJGINXM
+- branch: stable
+  date: '2021-06-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-04.06.2021/fw_sweet_miui_SWEETEEAGlobal_V12.5.2.0.RKFEUXM_c329118eb2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.5.2.0.RKFEUXM_c329118eb2_11.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V12.5.2.0.RKFEUXM_c329118eb2_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKFEUXM
 - branch: stable
   date: '2021-05-21'
   downloads:

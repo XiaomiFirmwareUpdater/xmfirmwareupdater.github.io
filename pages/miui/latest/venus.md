@@ -62,8 +62,8 @@ permalink: /miui/venus/
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKBMIXM</td><td>11.0</td><td>3.3 GB</td><td>2021-05-25</td><td><a href="/miui/venus/stable/V12.5.3.0.RKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKBIDXM</td><td>11.0</td><td>5.3 GB</td><td>2021-04-28</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKBIDXM</td><td>11.0</td><td>3.1 GB</td><td>2021-04-16</td><td><a href="/miui/venus/stable/V12.0.3.0.RKBIDXM/">Download</a></td></tr>
-<tr><td>Mi 11 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKBRUXM</td><td>11.0</td><td>5.1 GB</td><td>2021-03-20</td><td><a href="/miui/venus/stable/V12.0.2.0.RKBRUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKBRUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-04-12</td><td><a href="/miui/venus/stable/V12.0.2.0.RKBRUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKBRUXM</td><td>11.0</td><td>5.3 GB</td><td>2021-05-12</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBRUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKBRUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-06-04</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKBTRXM</td><td>11.0</td><td>4.9 GB</td><td>2021-05-08</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBTRXM/">Download</a></td></tr>
 <tr><td>Mi 11 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKBTRXM</td><td>11.0</td><td>3.3 GB</td><td>2021-05-25</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBTRXM/">Download</a></td></tr>
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKBTWXM</td><td>11.0</td><td>4.6 GB</td><td>2021-05-08</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBTWXM/">Download</a></td></tr>
