@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 04 Jun 2021 06:04:19 +0900</pubDate>
+  <pubDate>Fri, 04 Jun 2021 13:44:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V12.5.2.0.RKKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 04 Jun 2021 13:44:06 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Meitu Edition (vela) - 21.6.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
@@ -100,11 +105,6 @@
     <title>Mi MIX Fold (cetus) - 21.6.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cetus</link>
     <pubDate>Fri, 04 Jun 2021 05:03:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 21.6.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Fri, 04 Jun 2021 04:45:09 +0900</pubDate>
   </item>
     </channel>
 </rss>
