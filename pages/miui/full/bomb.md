@@ -54,6 +54,7 @@ permalink: /archive/miui/bomb/
                 <tbody>
                 <tr><td>Redmi 10X Pro China</td><td>Weekly</td><td>Recovery</td><td>21.6.2</td><td>11.0</td><td>3.2 GB</td><td>2021-06-03</td><td><a href="/miui/bomb/weekly/21.6.2/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RJLCNXM</td><td>11.0</td><td>3.1 GB</td><td>2021-05-29</td><td><a href="/miui/bomb/stable beta/V12.5.2.0.RJLCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJLCNXM</td><td>11.0</td><td>4.0 GB</td><td>2021-05-27</td><td><a href="/miui/bomb/stable/V12.5.2.0.RJLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Weekly</td><td>Recovery</td><td>21.5.27</td><td>11.0</td><td>3.2 GB</td><td>2021-05-27</td><td><a href="/miui/bomb/weekly/21.5.27/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Weekly</td><td>Recovery</td><td>21.5.20</td><td>11.0</td><td>3.2 GB</td><td>2021-05-20</td><td><a href="/miui/bomb/weekly/21.5.20/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>3.2 GB</td><td>2021-05-13</td><td><a href="/miui/bomb/weekly/21.5.12/">Download</a></td></tr>
