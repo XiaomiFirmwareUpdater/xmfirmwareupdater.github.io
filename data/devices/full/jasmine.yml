@@ -9,16 +9,6 @@
     android: '10.0'
     miui: V11.0.26.0.QDIMIXM
 - branch: stable
-  date: '2021-03-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jasmine/releases/download/stable-17.03.2021/fw_jasmine_miui_JASMINEGlobal_V11.0.22.0.QDIMIXM_060c15a17e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/jasmine/fw_jasmine_miui_JASMINEGlobal_V11.0.22.0.QDIMIXM_060c15a17e_10.0.zip
-  filename: fw_jasmine_miui_JASMINEGlobal_V11.0.22.0.QDIMIXM_060c15a17e_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.22.0.QDIMIXM
-- branch: stable
   date: '2021-01-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jasmine/releases/download/stable-26.01.2021/fw_jasmine_miui_JASMINEGlobal_V11.0.20.0.QDIMIXM_fd34b0fcab_10.0.zip
