@@ -4429,6 +4429,16 @@
     android: '10.0'
     miui: V12.0.3.0.QJECNXM
 - branch: stable
+  date: '2021-06-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-07.06.2021/fw_cannong_miui_CANNONGEEAGlobal_V12.5.2.0.RJEEUXM_1224968be4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGEEAGlobal_V12.5.2.0.RJEEUXM_1224968be4_11.0.zip
+  filename: fw_cannong_miui_CANNONGEEAGlobal_V12.5.2.0.RJEEUXM_1224968be4_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RJEEUXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-22.03.2021/fw_cannong_miui_CANNONGGlobal_V12.0.8.0.QJEMIXM_0a018bd4bc_10.0.zip
@@ -35828,6 +35838,16 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJVCNXM
+- branch: stable
+  date: '2021-06-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-07.06.2021/fw_vayu_miui_VAYUGlobal_V12.5.1.0.RJUMIXM_502138f418_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUGlobal_V12.5.1.0.RJUMIXM_502138f418_11.0.zip
+  filename: fw_vayu_miui_VAYUGlobal_V12.5.1.0.RJUMIXM_502138f418_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJUMIXM
 - branch: stable
   date: '2021-05-27'
   downloads:
