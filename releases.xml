@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 07 Jun 2021 15:18:40 +0900</pubDate>
+  <pubDate>Mon, 07 Jun 2021 20:20:41 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V12.5.2.0.RKICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Mon, 07 Jun 2021 20:20:41 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 Lite 5G (renoir) - V12.5.1.0.RKIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
@@ -100,11 +105,6 @@
     <title>Mi 9 SE (grus) - 21.6.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
     <pubDate>Fri, 04 Jun 2021 05:25:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 21.6.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 04 Jun 2021 05:22:29 +0900</pubDate>
   </item>
     </channel>
 </rss>
