@@ -52,9 +52,11 @@ permalink: /archive/miui/lime/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QJQTRXM</td><td>10.0</td><td>2.6 GB</td><td>2021-06-03</td><td><a href="/miui/lime/stable beta/V12.0.5.0.QJQTRXM/">Download</a></td></tr>
+                <tr><td>Redmi 9T Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJQTRXM</td><td>10.0</td><td>2.6 GB</td><td>2021-06-03</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQTRXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJQTRXM</td><td>10.0</td><td>4.1 GB</td><td>2021-05-27</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.6.2</td><td>11.0</td><td>3.1 GB</td><td>2021-06-03</td><td><a href="/miui/lime/weekly/21.6.2/">Download</a></td></tr>
-<tr><td>Redmi 9T Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.4.0.QJQRUXM</td><td>10.0</td><td>2.7 GB</td><td>2021-06-02</td><td><a href="/miui/lime/stable beta/V12.0.4.0.QJQRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJQRUXM</td><td>10.0</td><td>2.7 GB</td><td>2021-06-02</td><td><a href="/miui/lime/stable/V12.0.4.0.QJQRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QJQRUXM</td><td>10.0</td><td>4.4 GB</td><td>2021-05-27</td><td><a href="/miui/lime/stable/V12.0.4.0.QJQRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.5.27</td><td>11.0</td><td>3.1 GB</td><td>2021-05-27</td><td><a href="/miui/lime/weekly/21.5.27/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Stable</td><td>Recovery</td><td>V12.0.16.0.QJQCNXM</td><td>10.0</td><td>2.8 GB</td><td>2021-05-25</td><td><a href="/miui/lime/stable/V12.0.16.0.QJQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.16.0.QJQCNXM</td><td>10.0</td><td>4.0 GB</td><td>2021-05-20</td><td><a href="/miui/lime/stable/V12.0.16.0.QJQCNXM/">Download</a></td></tr>
