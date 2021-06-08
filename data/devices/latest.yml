@@ -79,15 +79,15 @@
     android: '9.0'
     miui: V12.0.7.0.PEMEUXM
 - branch: stable
-  date: '2021-05-21'
+  date: '2021-06-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-21.05.2021/fw_angelica_miui_ANGELICAGlobal_V12.0.13.0.QCRMIXM_b9c182807b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAGlobal_V12.0.13.0.QCRMIXM_b9c182807b_10.0.zip
-  filename: fw_angelica_miui_ANGELICAGlobal_V12.0.13.0.QCRMIXM_b9c182807b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-08.06.2021/fw_angelica_miui_ANGELICAGlobal_V12.0.14.0.QCRMIXM_a1389b74d4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAGlobal_V12.0.14.0.QCRMIXM_a1389b74d4_10.0.zip
+  filename: fw_angelica_miui_ANGELICAGlobal_V12.0.14.0.QCRMIXM_a1389b74d4_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.13.0.QCRMIXM
+    miui: V12.0.14.0.QCRMIXM
 - branch: stable
   date: '2021-06-03'
   downloads:
@@ -409,15 +409,15 @@
     android: '11.0'
     miui: 21.6.2
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-06-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-22.03.2021/fw_cannong_miui_CANNONGGlobal_V12.0.8.0.QJEMIXM_0a018bd4bc_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGGlobal_V12.0.8.0.QJEMIXM_0a018bd4bc_10.0.zip
-  filename: fw_cannong_miui_CANNONGGlobal_V12.0.8.0.QJEMIXM_0a018bd4bc_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-08.06.2021/fw_cannong_miui_CANNONGGlobal_V12.5.2.0.RJEMIXM_06c158b83a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGGlobal_V12.5.2.0.RJEMIXM_06c158b83a_11.0.zip
+  filename: fw_cannong_miui_CANNONGGlobal_V12.5.2.0.RJEMIXM_06c158b83a_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V12.0.8.0.QJEMIXM
+    android: '11.0'
+    miui: V12.5.2.0.RJEMIXM
 - branch: stable
   date: '2021-06-07'
   downloads:
@@ -769,15 +769,15 @@
     android: '11.0'
     miui: 21.6.2
 - branch: stable
-  date: '2021-05-12'
+  date: '2021-06-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-12.05.2021/fw_cmi_miui_CMIEEAGlobal_V12.2.7.0.RJAEUXM_04bc14749c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIEEAGlobal_V12.2.7.0.RJAEUXM_04bc14749c_11.0.zip
-  filename: fw_cmi_miui_CMIEEAGlobal_V12.2.7.0.RJAEUXM_04bc14749c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-08.06.2021/fw_cmi_miui_CMIEEAGlobal_V12.5.1.0.RJAEUXM_0f5411b0b6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIEEAGlobal_V12.5.1.0.RJAEUXM_0f5411b0b6_11.0.zip
+  filename: fw_cmi_miui_CMIEEAGlobal_V12.5.1.0.RJAEUXM_0f5411b0b6_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.2.7.0.RJAEUXM
+    miui: V12.5.1.0.RJAEUXM
 - branch: stable
   date: '2021-05-25'
   downloads:
@@ -869,15 +869,15 @@
     android: '10.0'
     miui: V11.0.19.0.QDLMIXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-06-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-18.04.2021/fw_dandelion_miui_DANDELIONGlobal_V12.0.12.0.QCDMIXM_ec1e25bd86_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONGlobal_V12.0.12.0.QCDMIXM_ec1e25bd86_10.0.zip
-  filename: fw_dandelion_miui_DANDELIONGlobal_V12.0.12.0.QCDMIXM_ec1e25bd86_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-08.06.2021/fw_dandelion_miui_DANDELIONGlobal_V12.0.14.0.QCDMIXM_53c65c24cc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONGlobal_V12.0.14.0.QCDMIXM_53c65c24cc_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONGlobal_V12.0.14.0.QCDMIXM_53c65c24cc_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.12.0.QCDMIXM
+    miui: V12.0.14.0.QCDMIXM
 - branch: stable
   date: '2021-06-06'
   downloads:
@@ -1759,15 +1759,15 @@
     android: '10.0'
     miui: V12.0.9.0.QJQEUXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-06-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-14.04.2021/fw_lime_miui_LIMEINGlobal_V12.0.7.0.QJQINXM_912c570415_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEINGlobal_V12.0.7.0.QJQINXM_912c570415_10.0.zip
-  filename: fw_lime_miui_LIMEINGlobal_V12.0.7.0.QJQINXM_912c570415_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-08.06.2021/fw_lime_miui_LIMEINGlobal_V12.0.8.0.QJQINXM_3b5fbd865f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEINGlobal_V12.0.8.0.QJQINXM_3b5fbd865f_10.0.zip
+  filename: fw_lime_miui_LIMEINGlobal_V12.0.8.0.QJQINXM_3b5fbd865f_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.7.0.QJQINXM
+    miui: V12.0.8.0.QJQINXM
 - branch: stable
   date: '2019-11-08'
   downloads:

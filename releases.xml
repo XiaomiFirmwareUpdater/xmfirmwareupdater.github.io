@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 08 Jun 2021 20:06:37 +0900</pubDate>
+  <pubDate>Wed, 09 Jun 2021 01:25:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.8.0.QJQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Wed, 09 Jun 2021 01:25:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/9AT (dandelion) - V12.0.14.0.QCDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Wed, 09 Jun 2021 01:23:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - V12.5.1.0.RJAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Wed, 09 Jun 2021 01:23:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V12.5.2.0.RJEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Wed, 09 Jun 2021 01:20:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.14.0.QCRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Wed, 09 Jun 2021 01:19:46 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V12.0.1.0.RJGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -80,31 +105,6 @@
     <title>Mi 10 Lite Zoom (vangogh) - 21.6.2</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
     <pubDate>Fri, 04 Jun 2021 05:58:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - 21.6.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Fri, 04 Jun 2021 05:55:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.6.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 04 Jun 2021 05:51:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.6.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 04 Jun 2021 05:48:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.6.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 04 Jun 2021 05:45:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.6.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 04 Jun 2021 05:42:31 +0900</pubDate>
   </item>
     </channel>
 </rss>

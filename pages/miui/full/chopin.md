@@ -54,7 +54,8 @@ permalink: /archive/miui/chopin/
                 <tbody>
                 <tr><td>Redmi Note 10 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKPCNXM</td><td>11.0</td><td>3.2 GB</td><td>2021-06-04</td><td><a href="/miui/chopin/stable/V12.5.1.0.RKPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKPCNXM</td><td>11.0</td><td>4.5 GB</td><td>2021-04-30</td><td><a href="/miui/chopin/stable/V12.5.1.0.RKPCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKPCNXM</td><td>11.0</td><td>3.2 GB</td><td>2021-06-03</td><td><a href="/miui/chopin/stable beta/V12.5.3.0.RKPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKPCNXM</td><td>11.0</td><td>3.2 GB</td><td>2021-06-03</td><td><a href="/miui/chopin/stable/V12.5.3.0.RKPCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKPCNXM</td><td>11.0</td><td>4.6 GB</td><td>2021-05-27</td><td><a href="/miui/chopin/stable/V12.5.3.0.RKPCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
