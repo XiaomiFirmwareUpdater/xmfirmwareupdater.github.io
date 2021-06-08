@@ -1428,6 +1428,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-06-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-08.06.2021/fw_ares_miui_ARES_V12.5.6.0.RKJCNXM_c571abdd03_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ares/fw_ares_miui_ARES_V12.5.6.0.RKJCNXM_c571abdd03_11.0.zip
+  filename: fw_ares_miui_ARES_V12.5.6.0.RKJCNXM_c571abdd03_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKJCNXM
 - branch: weekly
   date: '2021-06-03'
   downloads:
@@ -28659,6 +28669,16 @@
     android: '9.0'
     miui: V10.3.3.0.PFKINXM
 - branch: stable
+  date: '2021-06-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-08.06.2021/fw_renoir_miui_RENOIRGlobal_V12.5.1.0.RKIMIXM_740820bef6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIRGlobal_V12.5.1.0.RKIMIXM_740820bef6_11.0.zip
+  filename: fw_renoir_miui_RENOIRGlobal_V12.5.1.0.RKIMIXM_740820bef6_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RKIMIXM
+- branch: stable
   date: '2021-06-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-07.06.2021/fw_renoir_miui_RENOIREEAGlobal_V12.5.1.0.RKIEUXM_fe2996d265_11.0.zip
@@ -31728,6 +31748,16 @@
   versions:
     android: '11.0'
     miui: V12.0.2.0.RKAINXM
+- branch: stable
+  date: '2021-06-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-08.06.2021/fw_surya_miui_SURYAGlobal_V12.0.1.0.RJGMIXM_95126259ea_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.0.1.0.RJGMIXM_95126259ea_11.0.zip
+  filename: fw_surya_miui_SURYAGlobal_V12.0.1.0.RJGMIXM_95126259ea_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.1.0.RJGMIXM
 - branch: stable
   date: '2021-05-19'
   downloads:
