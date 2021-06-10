@@ -849,15 +849,15 @@
     android: '10.0'
     miui: V12.0.4.0.QJWEUXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-06-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-18.03.2021/fw_curtana_miui_CURTANAINGlobal_V12.0.4.0.RJWINXM_62f7144f9a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAINGlobal_V12.0.4.0.RJWINXM_62f7144f9a_11.0.zip
-  filename: fw_curtana_miui_CURTANAINGlobal_V12.0.4.0.RJWINXM_62f7144f9a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-10.06.2021/fw_curtana_miui_CURTANAINGlobal_V12.0.5.0.RJWINXM_8716b84aaa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAINGlobal_V12.0.5.0.RJWINXM_8716b84aaa_11.0.zip
+  filename: fw_curtana_miui_CURTANAINGlobal_V12.0.5.0.RJWINXM_8716b84aaa_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.0.4.0.RJWINXM
+    miui: V12.0.5.0.RJWINXM
 - branch: stable
   date: '2021-05-19'
   downloads:
