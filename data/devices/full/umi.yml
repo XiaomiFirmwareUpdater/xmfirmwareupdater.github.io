@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2021-06-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-10.06.2021/fw_umi_miui_UMI_21.6.9_10b9a020d8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.9/umi/fw_umi_miui_UMI_21.6.9_10b9a020d8_11.0.zip
+  filename: fw_umi_miui_UMI_21.6.9_10b9a020d8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.9
 - branch: stable
   date: '2021-06-04'
   downloads:
