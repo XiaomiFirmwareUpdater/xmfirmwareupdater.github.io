@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 10 Jun 2021 14:49:54 +0900</pubDate>
+  <pubDate>Fri, 11 Jun 2021 03:30:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 21.6.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
+    <pubDate>Fri, 11 Jun 2021 03:30:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.6.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 11 Jun 2021 03:29:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.6.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Fri, 11 Jun 2021 03:26:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - 21.6.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Fri, 11 Jun 2021 03:21:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - 21.6.9</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 11 Jun 2021 03:18:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.0.5.0.RJWINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Fri, 11 Jun 2021 01:13:21 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10S (rosemary) - V12.5.7.0.RKLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
@@ -75,36 +105,6 @@
     <title>Mi 11 Lite 5G (renoir) - V12.5.1.0.RKIMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
     <pubDate>Tue, 08 Jun 2021 20:05:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Gaming/POCO F3 GT (ares) - V12.5.6.0.RKJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
-    <pubDate>Tue, 08 Jun 2021 19:41:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 Pro (vayu) - V12.5.1.0.RJUMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
-    <pubDate>Tue, 08 Jun 2021 01:21:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9T (cannong) - V12.5.2.0.RJEEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
-    <pubDate>Tue, 08 Jun 2021 01:19:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G (renoir) - V12.5.2.0.RKICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Mon, 07 Jun 2021 20:20:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G (renoir) - V12.5.1.0.RKIEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Mon, 07 Jun 2021 15:18:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/9AT (dandelion) - V12.0.14.0.QCDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Mon, 07 Jun 2021 01:09:48 +0900</pubDate>
   </item>
     </channel>
 </rss>
