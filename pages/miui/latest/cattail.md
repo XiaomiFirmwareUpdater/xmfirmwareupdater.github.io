@@ -54,6 +54,7 @@ permalink: /miui/cattail/
                 <tbody>
                 <tr><td>Redmi 9 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.QCTINXM</td><td>10.0</td><td>2.4 GB</td><td>2021-03-23</td><td><a href="/miui/cattail/stable/V12.0.8.0.QCTINXM/">Download</a></td></tr>
 <tr><td>Redmi 9 India</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.QCTINXM</td><td>10.0</td><td>1.7 GB</td><td>2021-03-26</td><td><a href="/miui/cattail/stable/V12.0.8.0.QCTINXM/">Download</a></td></tr>
+<tr><td>Redmi 9 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.10.0.QCTINXM</td><td>10.0</td><td>1.7 GB</td><td>2021-06-11</td><td><a href="/miui/cattail/stable beta/V12.0.10.0.QCTINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
