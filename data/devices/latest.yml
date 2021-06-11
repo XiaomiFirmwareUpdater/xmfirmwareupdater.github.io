@@ -859,15 +859,15 @@
     android: '11.0'
     miui: V12.0.5.0.RJWINXM
 - branch: stable
-  date: '2021-05-19'
+  date: '2021-06-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daisy/releases/download/stable-19.05.2021/fw_daisy_miui_DAISYGlobal_V11.0.19.0.QDLMIXM_2d43e66d19_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/daisy/fw_daisy_miui_DAISYGlobal_V11.0.19.0.QDLMIXM_2d43e66d19_10.0.zip
-  filename: fw_daisy_miui_DAISYGlobal_V11.0.19.0.QDLMIXM_2d43e66d19_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daisy/releases/download/stable-11.06.2021/fw_daisy_miui_DAISYGlobal_V11.0.20.0.QDLMIXM_dd75a5632a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/daisy/fw_daisy_miui_DAISYGlobal_V11.0.20.0.QDLMIXM_dd75a5632a_10.0.zip
+  filename: fw_daisy_miui_DAISYGlobal_V11.0.20.0.QDLMIXM_dd75a5632a_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.19.0.QDLMIXM
+    miui: V11.0.20.0.QDLMIXM
 - branch: stable
   date: '2021-06-08'
   downloads:
