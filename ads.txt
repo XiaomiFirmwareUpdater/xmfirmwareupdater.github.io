@@ -627,4 +627,6 @@ sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 video.unrulymedia.com, 3948367200, RESELLER
 rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
 adform.com, 2671, RESELLER
+yieldmo.com,2719019867620450718,RESELLER
+sharethrough.com,7144eb80,RESELLER
 #VLI END
