@@ -9389,6 +9389,16 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
+  date: '2021-06-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-15.06.2021/fw_curtana_miui_CURTANAEEAGlobal_V12.0.2.0.RJWEUXM_3c6c129fe8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAEEAGlobal_V12.0.2.0.RJWEUXM_3c6c129fe8_11.0.zip
+  filename: fw_curtana_miui_CURTANAEEAGlobal_V12.0.2.0.RJWEUXM_3c6c129fe8_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.2.0.RJWEUXM
+- branch: stable
   date: '2021-06-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-10.06.2021/fw_curtana_miui_CURTANAINGlobal_V12.0.5.0.RJWINXM_8716b84aaa_11.0.zip
@@ -32208,6 +32218,16 @@
   versions:
     android: '11.0'
     miui: V12.0.2.0.RKAINXM
+- branch: stable
+  date: '2021-06-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-15.06.2021/fw_surya_miui_SURYAINGlobal_V12.0.1.0.RJGINXM_bf71232af2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAINGlobal_V12.0.1.0.RJGINXM_bf71232af2_11.0.zip
+  filename: fw_surya_miui_SURYAINGlobal_V12.0.1.0.RJGINXM_bf71232af2_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.0.1.0.RJGINXM
 - branch: stable
   date: '2021-06-08'
   downloads:
