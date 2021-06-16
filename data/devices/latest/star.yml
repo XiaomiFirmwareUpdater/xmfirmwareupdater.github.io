@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-05-31'
+  date: '2021-06-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-31.05.2021/fw_star_miui_STARGlobal_V12.0.2.0.RKAMIXM_f6f9710fad_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARGlobal_V12.0.2.0.RKAMIXM_f6f9710fad_11.0.zip
-  filename: fw_star_miui_STARGlobal_V12.0.2.0.RKAMIXM_f6f9710fad_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-16.06.2021/fw_star_miui_STARGlobal_V12.5.2.0.RKAMIXM_2cc39922ac_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARGlobal_V12.5.2.0.RKAMIXM_2cc39922ac_11.0.zip
+  filename: fw_star_miui_STARGlobal_V12.5.2.0.RKAMIXM_2cc39922ac_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.2.0.RKAMIXM
+    miui: V12.5.2.0.RKAMIXM
 - branch: stable
   date: '2021-05-20'
   downloads:
