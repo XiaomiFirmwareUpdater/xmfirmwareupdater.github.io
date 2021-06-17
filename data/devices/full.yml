@@ -808,6 +808,16 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QCSEUXM
+- branch: stable
+  date: '2021-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-17.06.2021/fw_apollo_miui_APOLLOEEAGlobal_V12.5.1.0.RJDEUXM_bc2b4a9a31_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOEEAGlobal_V12.5.1.0.RJDEUXM_bc2b4a9a31_11.0.zip
+  filename: fw_apollo_miui_APOLLOEEAGlobal_V12.5.1.0.RJDEUXM_bc2b4a9a31_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJDEUXM
 - branch: weekly
   date: '2021-06-10'
   downloads:

@@ -58,9 +58,8 @@ permalink: /miui/raphael/
 <tr><td>Redmi K20 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.6.9</td><td>11.0</td><td>2.8 GB</td><td>2021-06-10</td><td><a href="/miui/raphael/weekly/21.6.9/">Download</a></td></tr>
 <tr><td>Mi 9T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QFKEUXM</td><td>10.0</td><td>3.1 GB</td><td>2021-04-14</td><td><a href="/miui/raphael/stable/V12.0.5.0.QFKEUXM/">Download</a></td></tr>
 <tr><td>Mi 9T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QFKEUXM</td><td>10.0</td><td>2.5 GB</td><td>2021-04-25</td><td><a href="/miui/raphael/stable/V12.0.5.0.QFKEUXM/">Download</a></td></tr>
-<tr><td>Mi 9T Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QFKMIXM</td><td>10.0</td><td>3.1 GB</td><td>2021-02-24</td><td><a href="/miui/raphael/stable/V12.0.5.0.QFKMIXM/">Download</a></td></tr>
-<tr><td>Mi 9T Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QFKMIXM</td><td>10.0</td><td>2.6 GB</td><td>2021-03-04</td><td><a href="/miui/raphael/stable/V12.0.5.0.QFKMIXM/">Download</a></td></tr>
-<tr><td>Mi 9T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.0.QFKMIXM</td><td>10.0</td><td>2.5 GB</td><td>2021-06-12</td><td><a href="/miui/raphael/stable beta/V12.0.6.0.QFKMIXM/">Download</a></td></tr>
+<tr><td>Mi 9T Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QFKMIXM</td><td>10.0</td><td>3.0 GB</td><td>2021-06-10</td><td><a href="/miui/raphael/stable/V12.0.6.0.QFKMIXM/">Download</a></td></tr>
+<tr><td>Mi 9T Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QFKMIXM</td><td>10.0</td><td>2.5 GB</td><td>2021-06-12</td><td><a href="/miui/raphael/stable/V12.0.6.0.QFKMIXM/">Download</a></td></tr>
 <tr><td>Mi 9T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFKRUXM</td><td>10.0</td><td>3.1 GB</td><td>2020-09-07</td><td><a href="/miui/raphael/stable/V12.0.2.0.QFKRUXM/">Download</a></td></tr>
 <tr><td>Mi 9T Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFKRUXM</td><td>10.0</td><td>2.6 GB</td><td>2020-09-23</td><td><a href="/miui/raphael/stable/V12.0.2.0.QFKRUXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QFKINXM</td><td>10.0</td><td>3.0 GB</td><td>2021-03-15</td><td><a href="/miui/raphaelin/stable/V12.0.5.0.QFKINXM/">Download</a></td></tr>
