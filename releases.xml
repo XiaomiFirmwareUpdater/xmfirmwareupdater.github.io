@@ -1,11 +1,51 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 18 Jun 2021 13:15:17 +0900</pubDate>
+  <pubDate>Fri, 18 Jun 2021 22:03:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 21.6.17</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Fri, 18 Jun 2021 22:03:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - 21.6.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Fri, 18 Jun 2021 21:52:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.6.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Fri, 18 Jun 2021 21:43:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 21.6.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
+    <pubDate>Fri, 18 Jun 2021 21:31:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10S (thyme) - 21.6.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Fri, 18 Jun 2021 21:27:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.6.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Fri, 18 Jun 2021 21:15:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.6.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 18 Jun 2021 21:04:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - 21.6.16</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 18 Jun 2021 20:53:06 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/9AT (dandelion) - V12.0.13.0.QCDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -65,46 +105,6 @@
     <title>Redmi 9C NFC (angelican) - V12.0.8.0.QCSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
     <pubDate>Tue, 15 Jun 2021 19:21:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi A2 (jasmine) - V11.0.27.0.QDIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/jasmine</link>
-    <pubDate>Tue, 15 Jun 2021 13:35:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 5G (cannon) - V12.5.3.0.RJECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
-    <pubDate>Tue, 15 Jun 2021 01:12:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V12.5.8.0.RKBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Sun, 13 Jun 2021 20:31:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.3.0.QJCINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Sun, 13 Jun 2021 07:10:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.0.6.0.QFKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Sun, 13 Jun 2021 01:13:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi A2 Lite (daisy) - V11.0.20.0.QDLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/daisy</link>
-    <pubDate>Fri, 11 Jun 2021 19:28:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9 (cattail) - V12.0.10.0.QCTINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
-    <pubDate>Fri, 11 Jun 2021 13:11:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 21.6.9</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Fri, 11 Jun 2021 05:28:56 +0900</pubDate>
   </item>
     </channel>
 </rss>

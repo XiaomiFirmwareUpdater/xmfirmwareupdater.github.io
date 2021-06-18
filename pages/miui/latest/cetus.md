@@ -54,7 +54,7 @@ permalink: /miui/cetus/
                 <tbody>
                 <tr><td>Mi MIX Fold China</td><td>Stable</td><td>Fastboot</td><td>V12.0.11.0.RJTCNXM</td><td>11.0</td><td>5.5 GB</td><td>2021-05-08</td><td><a href="/miui/cetus/stable/V12.0.11.0.RJTCNXM/">Download</a></td></tr>
 <tr><td>Mi MIX Fold China</td><td>Stable</td><td>Recovery</td><td>V12.0.11.0.RJTCNXM</td><td>11.0</td><td>4.0 GB</td><td>2021-05-17</td><td><a href="/miui/cetus/stable/V12.0.11.0.RJTCNXM/">Download</a></td></tr>
-<tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.6.9</td><td>11.0</td><td>4.0 GB</td><td>2021-06-10</td><td><a href="/miui/cetus/weekly/21.6.9/">Download</a></td></tr>
+<tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.6.16</td><td>11.0</td><td>4.0 GB</td><td>2021-06-17</td><td><a href="/miui/cetus/weekly/21.6.16/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
