@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenixin/releases/download/stable-19.06.2021/fw_phoenixin_miui_PHOENIXININGlobal_V12.1.5.0.RGHINXM_3469fac8d5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenixin/fw_phoenixin_miui_PHOENIXININGlobal_V12.1.5.0.RGHINXM_3469fac8d5_11.0.zip
+  filename: fw_phoenixin_miui_PHOENIXININGlobal_V12.1.5.0.RGHINXM_3469fac8d5_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.1.5.0.RGHINXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenixin/releases/download/stable-04.03.2021/fw_phoenixin_miui_PHOENIXININGlobal_V12.1.3.0.RGHINXM_7615b6b105_11.0.zip

@@ -52,7 +52,8 @@ permalink: /archive/miui/phoenixin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V12.1.3.0.RGHINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-03-04</td><td><a href="/miui/phoenixin/stable/V12.1.3.0.RGHINXM/">Download</a></td></tr>
+                <tr><td>POCO X2 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.5.0.RGHINXM</td><td>11.0</td><td>2.7 GB</td><td>2021-06-18</td><td><a href="/miui/phoenixin/stable beta/V12.1.5.0.RGHINXM/">Download</a></td></tr>
+<tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V12.1.3.0.RGHINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-03-04</td><td><a href="/miui/phoenixin/stable/V12.1.3.0.RGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V12.1.3.0.RGHINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-02-25</td><td><a href="/miui/phoenixin/stable/V12.1.3.0.RGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V12.1.2.0.RGHINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-01-20</td><td><a href="/miui/phoenixin/stable/V12.1.2.0.RGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V12.1.2.0.RGHINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-01-15</td><td><a href="/miui/phoenixin/stable/V12.1.2.0.RGHINXM/">Download</a></td></tr>
