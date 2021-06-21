@@ -63,6 +63,7 @@ permalink: /miui/tucana/
 <tr><td>Mi Note 10 / Note 10 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.1.1.0.RFDIDXM</td><td>11.0</td><td>2.9 GB</td><td>2021-03-22</td><td><a href="/miui/tucana/stable/V12.1.1.0.RFDIDXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.1.1.0.RFDRUXM</td><td>11.0</td><td>4.5 GB</td><td>2021-03-17</td><td><a href="/miui/tucana/stable/V12.1.1.0.RFDRUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.1.1.0.RFDRUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-03-26</td><td><a href="/miui/tucana/stable/V12.1.1.0.RFDRUXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 / Note 10 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RFDIDXM</td><td>11.0</td><td>3.0 GB</td><td>2021-06-16</td><td><a href="/miui/tucana/stable beta/V12.5.1.0.RFDIDXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
