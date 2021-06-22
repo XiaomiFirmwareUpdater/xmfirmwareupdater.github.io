@@ -909,15 +909,15 @@
     android: '10.0'
     miui: V12.0.16.0.QCDINXM
 - branch: stable
-  date: '2021-05-28'
+  date: '2021-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/stable-28.05.2021/fw_davinci_miui_DAVINCIGlobal_V12.1.2.0.RFJMIXM_5307aa9377_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinci/fw_davinci_miui_DAVINCIGlobal_V12.1.2.0.RFJMIXM_5307aa9377_11.0.zip
-  filename: fw_davinci_miui_DAVINCIGlobal_V12.1.2.0.RFJMIXM_5307aa9377_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/stable-22.06.2021/fw_davinci_miui_DAVINCIGlobal_V12.0.9.0.QFJMIXM_666a06db4a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinci/fw_davinci_miui_DAVINCIGlobal_V12.0.9.0.QFJMIXM_666a06db4a_10.0.zip
+  filename: fw_davinci_miui_DAVINCIGlobal_V12.0.9.0.QFJMIXM_666a06db4a_10.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V12.1.2.0.RFJMIXM
+    android: '10.0'
+    miui: V12.0.9.0.QFJMIXM
 - branch: stable
   date: '2021-03-23'
   downloads:
@@ -2029,15 +2029,15 @@
     android: '11.0'
     miui: V12.5.1.0.RJIMIXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-06.04.2021/fw_monet_miui_MONETEEAGlobal_V12.1.5.0.RJIEUXM_b275bd8c7b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.1.5.0.RJIEUXM_b275bd8c7b_11.0.zip
-  filename: fw_monet_miui_MONETEEAGlobal_V12.1.5.0.RJIEUXM_b275bd8c7b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-22.06.2021/fw_monet_miui_MONETEEAGlobal_V12.5.1.0.RJIEUXM_dbadbe17a1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.5.1.0.RJIEUXM_dbadbe17a1_11.0.zip
+  filename: fw_monet_miui_MONETEEAGlobal_V12.5.1.0.RJIEUXM_dbadbe17a1_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.1.5.0.RJIEUXM
+    miui: V12.5.1.0.RJIEUXM
 - branch: stable
   date: '2019-05-13'
   downloads:
