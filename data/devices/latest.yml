@@ -809,15 +809,15 @@
     android: '11.0'
     miui: V12.0.4.0.RKQINXM
 - branch: stable
-  date: '2020-12-02'
+  date: '2021-06-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/stable-02.12.2020/fw_crux_miui_CRUX_V12.0.5.0.QFXCNXM_63357f4009_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/crux/fw_crux_miui_CRUX_V12.0.5.0.QFXCNXM_63357f4009_10.0.zip
-  filename: fw_crux_miui_CRUX_V12.0.5.0.QFXCNXM_63357f4009_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/stable-23.06.2021/fw_crux_miui_CRUX_V12.5.1.0.RFXCNXM_9d05ab098d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/crux/fw_crux_miui_CRUX_V12.5.1.0.RFXCNXM_9d05ab098d_11.0.zip
+  filename: fw_crux_miui_CRUX_V12.5.1.0.RFXCNXM_9d05ab098d_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V12.0.5.0.QFXCNXM
+    android: '11.0'
+    miui: V12.5.1.0.RFXCNXM
 - branch: weekly
   date: '2021-06-18'
   downloads:
