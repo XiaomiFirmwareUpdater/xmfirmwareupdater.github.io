@@ -5408,6 +5408,16 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QCTINXM
+- branch: stable
+  date: '2021-06-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-23.06.2021/fw_cepheus_miui_CEPHEUSGlobal_V12.5.1.0.RFAMIXM_54d23f235e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V12.5.1.0.RFAMIXM_54d23f235e_11.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_V12.5.1.0.RFAMIXM_54d23f235e_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RFAMIXM
 - branch: weekly
   date: '2021-06-18'
   downloads:
@@ -6848,6 +6858,16 @@
   versions:
     android: '11.0'
     miui: V12.0.5.0.RJTCNXM
+- branch: stable
+  date: '2021-06-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-23.06.2021/fw_cezanne_miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJNCNXM
 - branch: weekly
   date: '2021-06-18'
   downloads:
@@ -16649,6 +16669,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2021-06-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-23.06.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.1.0.RJZEUXM_7e06178ca4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.1.0.RJZEUXM_7e06178ca4_11.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.1.0.RJZEUXM_7e06178ca4_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.1.0.RJZEUXM
+- branch: stable
   date: '2021-06-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-01.06.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.1.0.RJZMIXM_2ed492f999_11.0.zip
@@ -16908,6 +16938,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-06-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-23.06.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.RJCMIXM_6cd61a822c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.RJCMIXM_6cd61a822c_11.0.zip
+  filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.RJCMIXM_6cd61a822c_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.1.0.RJCMIXM
 - branch: stable
   date: '2021-06-12'
   downloads:
@@ -28508,6 +28548,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: stable
+  date: '2021-06-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-23.06.2021/fw_raphael_miui_RAPHAELGlobal_V12.5.1.0.RFKMIXM_2125909ab5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELGlobal_V12.5.1.0.RFKMIXM_2125909ab5_11.0.zip
+  filename: fw_raphael_miui_RAPHAELGlobal_V12.5.1.0.RFKMIXM_2125909ab5_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RFKMIXM
 - branch: weekly
   date: '2021-06-18'
   downloads:
