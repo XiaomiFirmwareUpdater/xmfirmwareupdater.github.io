@@ -1,110 +1,110 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 25 Jun 2021 04:53:58 +0900</pubDate>
+  <pubDate>Fri, 25 Jun 2021 07:12:54 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Fri, 25 Jun 2021 04:53:58 +0900</pubDate>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Fri, 25 Jun 2021 07:12:54 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Fri, 25 Jun 2021 04:47:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10S (thyme) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Fri, 25 Jun 2021 04:38:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX Fold (cetus) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cetus</link>
-    <pubDate>Fri, 25 Jun 2021 04:28:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G (renoir) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Fri, 25 Jun 2021 04:16:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
-    <pubDate>Fri, 25 Jun 2021 04:10:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Fri, 25 Jun 2021 04:06:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
-    <pubDate>Fri, 25 Jun 2021 03:56:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Fri, 25 Jun 2021 03:52:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Fri, 25 Jun 2021 03:42:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V12.5.1.0.QFLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Fri, 25 Jun 2021 03:20:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.10.0.QJQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Fri, 25 Jun 2021 02:21:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V12.5.5.0.RKPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
-    <pubDate>Fri, 25 Jun 2021 02:15:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (2021) (biloba) - V12.5.1.0.RCUEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/biloba</link>
-    <pubDate>Fri, 25 Jun 2021 01:42:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.1.0.RJDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Fri, 25 Jun 2021 01:23:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - V12.5.1.0.QEDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Thu, 24 Jun 2021 19:23:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Max 3 (nitrogen) - V12.5.1.0.QEDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nitrogen</link>
-    <pubDate>Thu, 24 Jun 2021 19:18:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.1.0.RFKMIXM</title>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.6.23</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Thu, 24 Jun 2021 01:36:43 +0900</pubDate>
+    <pubDate>Fri, 25 Jun 2021 07:08:57 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.1.0.RJCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
-    <pubDate>Thu, 24 Jun 2021 01:30:40 +0900</pubDate>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Fri, 25 Jun 2021 06:58:22 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V12.0.1.0.RJZEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Thu, 24 Jun 2021 01:28:18 +0900</pubDate>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 25 Jun 2021 06:53:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 25 Jun 2021 06:46:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Fri, 25 Jun 2021 06:40:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Fri, 25 Jun 2021 06:34:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Fri, 25 Jun 2021 06:20:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 25 Jun 2021 06:15:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Fri, 25 Jun 2021 06:10:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Fri, 25 Jun 2021 06:05:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Fri, 25 Jun 2021 05:59:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Fri, 25 Jun 2021 05:53:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 25 Jun 2021 05:46:16 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Ultra (cezanne) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
+    <pubDate>Fri, 25 Jun 2021 05:36:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Ultra (cas) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
+    <pubDate>Fri, 25 Jun 2021 05:32:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 5G (cannon) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
+    <pubDate>Fri, 25 Jun 2021 05:17:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Fri, 25 Jun 2021 05:13:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Fri, 25 Jun 2021 05:09:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Fri, 25 Jun 2021 05:05:48 +0900</pubDate>
   </item>
     </channel>
 </rss>
