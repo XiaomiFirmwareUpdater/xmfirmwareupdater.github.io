@@ -1,11 +1,61 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 25 Jun 2021 03:20:37 +0900</pubDate>
+  <pubDate>Fri, 25 Jun 2021 04:53:58 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Fri, 25 Jun 2021 04:53:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 25 Jun 2021 04:47:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10S (thyme) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Fri, 25 Jun 2021 04:38:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX Fold (cetus) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cetus</link>
+    <pubDate>Fri, 25 Jun 2021 04:28:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Fri, 25 Jun 2021 04:16:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
+    <pubDate>Fri, 25 Jun 2021 04:10:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Fri, 25 Jun 2021 04:06:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Fri, 25 Jun 2021 03:56:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Fri, 25 Jun 2021 03:52:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - 21.6.23</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 25 Jun 2021 03:42:41 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Y3 (onc) - V12.5.1.0.QFLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
@@ -55,56 +105,6 @@
     <title>Redmi Note 9 Pro (joyeuse) - V12.0.1.0.RJZEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
     <pubDate>Thu, 24 Jun 2021 01:28:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - V12.5.1.0.RFAMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Thu, 24 Jun 2021 01:23:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - V12.5.4.0.RJNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Thu, 24 Jun 2021 01:17:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - V12.5.1.0.RFXCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Wed, 23 Jun 2021 07:15:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite (monet) - V12.5.1.0.RJIEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
-    <pubDate>Wed, 23 Jun 2021 01:23:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - V12.0.9.0.QFJMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Wed, 23 Jun 2021 01:19:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V12.5.9.0.RKBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Tue, 22 Jun 2021 21:30:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 (dipper) - V12.5.1.0.QEACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
-    <pubDate>Tue, 22 Jun 2021 01:18:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V12.5.5.0.RJACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Tue, 22 Jun 2021 01:14:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.1.0.RJSMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Mon, 21 Jun 2021 19:16:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - V12.5.1.0.RGHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Sun, 20 Jun 2021 07:17:04 +0900</pubDate>
   </item>
     </channel>
 </rss>
