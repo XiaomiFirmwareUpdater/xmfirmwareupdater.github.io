@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 25 Jun 2021 02:25:37 +0900</pubDate>
+  <pubDate>Fri, 25 Jun 2021 03:20:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Redmi Y3 (onc) - V12.5.1.0.QFLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Fri, 25 Jun 2021 02:25:37 +0900</pubDate>
+    <pubDate>Fri, 25 Jun 2021 03:20:37 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.10.0.QJQEUXM</title>
