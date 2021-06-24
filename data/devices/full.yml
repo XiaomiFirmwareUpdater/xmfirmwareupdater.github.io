@@ -828,6 +828,16 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QCSEUXM
+- branch: stable
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-24.06.2021/fw_apollo_miui_APOLLOINGlobal_V12.5.1.0.RJDINXM_18a2b0124a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOINGlobal_V12.5.1.0.RJDINXM_18a2b0124a_11.0.zip
+  filename: fw_apollo_miui_APOLLOINGlobal_V12.5.1.0.RJDINXM_18a2b0124a_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJDINXM
 - branch: weekly
   date: '2021-06-18'
   downloads:
@@ -3608,6 +3618,16 @@
   versions:
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
+- branch: stable
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-24.06.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.1.0.RCUEUXM_45766abaf0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAEEAGlobal_V12.5.1.0.RCUEUXM_45766abaf0_11.0.zip
+  filename: fw_biloba_miui_BILOBAEEAGlobal_V12.5.1.0.RCUEUXM_45766abaf0_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RCUEUXM
 - branch: stable
   date: '2021-06-17'
   downloads:
@@ -7948,6 +7968,16 @@
   versions:
     android: '8.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-24.06.2021/fw_chopin_miui_CHOPIN_V12.5.5.0.RKPCNXM_f534d23353_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPIN_V12.5.5.0.RKPCNXM_f534d23353_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_V12.5.5.0.RKPCNXM_f534d23353_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKPCNXM
 - branch: stable
   date: '2021-06-04'
   downloads:
@@ -18658,6 +18688,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-24.06.2021/fw_lime_miui_LIMEEEAGlobal_V12.0.10.0.QJQEUXM_e1fddec39c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.0.10.0.QJQEUXM_e1fddec39c_10.0.zip
+  filename: fw_lime_miui_LIMEEEAGlobal_V12.0.10.0.QJQEUXM_e1fddec39c_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.10.0.QJQEUXM
 - branch: weekly
   date: '2021-06-18'
   downloads:

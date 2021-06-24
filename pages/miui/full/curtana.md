@@ -52,7 +52,8 @@ permalink: /archive/miui/curtana/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.RJWINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-06-10</td><td><a href="/miui/curtana/stable/V12.0.5.0.RJWINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RJWTRXM</td><td>11.0</td><td>2.5 GB</td><td>2021-06-24</td><td><a href="/miui/curtana/stable beta/V12.0.2.0.RJWTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.RJWINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-06-10</td><td><a href="/miui/curtana/stable/V12.0.5.0.RJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.RJWINXM</td><td>11.0</td><td>3.0 GB</td><td>2021-06-07</td><td><a href="/miui/curtana/stable/V12.0.5.0.RJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RJWEUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-06-03</td><td><a href="/miui/curtana/stable/V12.0.2.0.RJWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RJWEUXM</td><td>11.0</td><td>5.0 GB</td><td>2021-05-28</td><td><a href="/miui/curtana/stable/V12.0.2.0.RJWEUXM/">Download</a></td></tr>
