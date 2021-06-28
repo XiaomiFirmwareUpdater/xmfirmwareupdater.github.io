@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2021-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-29.06.2021/fw_begonia_miui_BEGONIAEEAGlobal_V12.0.6.0.QGGEUXM_8667d109e8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V12.0.6.0.QGGEUXM_8667d109e8_10.0.zip
+  filename: fw_begonia_miui_BEGONIAEEAGlobal_V12.0.6.0.QGGEUXM_8667d109e8_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QGGEUXM
 - branch: weekly
   date: '2021-06-24'
   downloads:
