@@ -54,8 +54,8 @@ permalink: /miui/rosemary/
                 <tbody>
                 <tr><td>Redmi Note 10S EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RKLEUXM</td><td>11.0</td><td>5.3 GB</td><td>2021-05-26</td><td><a href="/miui/rosemary/stable/V12.5.7.0.RKLEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RKLEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-06-10</td><td><a href="/miui/rosemary/stable/V12.5.7.0.RKLEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.9.0.RKLMIXM</td><td>11.0</td><td>5.3 GB</td><td>2021-05-21</td><td><a href="/miui/rosemary/stable/V12.5.9.0.RKLMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RKLMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-05-31</td><td><a href="/miui/rosemary/stable/V12.5.9.0.RKLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.10.0.RKLMIXM</td><td>11.0</td><td>5.3 GB</td><td>2021-05-26</td><td><a href="/miui/rosemary/stable/V12.5.10.0.RKLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Recovery</td><td>V12.5.10.0.RKLMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-06-29</td><td><a href="/miui/rosemary/stable/V12.5.10.0.RKLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.11.0.RKLMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-06-28</td><td><a href="/miui/rosemary/stable beta/V12.5.11.0.RKLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKLIDXM</td><td>11.0</td><td>4.7 GB</td><td>2021-05-21</td><td><a href="/miui/rosemary/stable/V12.5.3.0.RKLIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKLIDXM</td><td>11.0</td><td>2.6 GB</td><td>2021-05-31</td><td><a href="/miui/rosemary/stable/V12.5.3.0.RKLIDXM/">Download</a></td></tr>

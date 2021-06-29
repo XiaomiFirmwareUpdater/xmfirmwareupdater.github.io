@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 29 Jun 2021 07:11:36 +0900</pubDate>
+  <pubDate>Tue, 29 Jun 2021 13:48:53 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V12.5.1.0.RJBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Tue, 29 Jun 2021 13:48:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10S (rosemary) - V12.5.10.0.RKLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Tue, 29 Jun 2021 13:42:31 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 Pro (begonia) - V12.0.6.0.QGGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
@@ -95,16 +105,6 @@
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.6.23</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Fri, 25 Jun 2021 07:17:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 25 Jun 2021 07:08:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.6.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 25 Jun 2021 06:58:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
