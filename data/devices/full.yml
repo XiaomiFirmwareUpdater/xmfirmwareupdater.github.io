@@ -3679,6 +3679,16 @@
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
 - branch: stable
+  date: '2021-06-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-29.06.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.2.0.RCUEUXM_c183da341f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAEEAGlobal_V12.5.2.0.RCUEUXM_c183da341f_11.0.zip
+  filename: fw_biloba_miui_BILOBAEEAGlobal_V12.5.2.0.RCUEUXM_c183da341f_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RCUEUXM
+- branch: stable
   date: '2021-06-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-24.06.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.1.0.RCUEUXM_45766abaf0_11.0.zip
@@ -32938,6 +32948,16 @@
   versions:
     android: '8.1'
     miui: 8.6.18
+- branch: stable
+  date: '2021-06-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-29.06.2021/fw_star_miui_STAR_V12.5.9.0.RKACNXM_59b81be619_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.5.9.0.RKACNXM_59b81be619_11.0.zip
+  filename: fw_star_miui_STAR_V12.5.9.0.RKACNXM_59b81be619_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RKACNXM
 - branch: stable
   date: '2021-06-28'
   downloads:
