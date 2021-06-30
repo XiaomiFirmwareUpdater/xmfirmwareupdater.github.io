@@ -54,6 +54,7 @@ permalink: /miui/raphaelin/
                 <tbody>
                 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QFKINXM</td><td>10.0</td><td>3.0 GB</td><td>2021-03-15</td><td><a href="/miui/raphaelin/stable/V12.0.5.0.QFKINXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QFKINXM</td><td>10.0</td><td>2.5 GB</td><td>2021-03-31</td><td><a href="/miui/raphaelin/stable/V12.0.5.0.QFKINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.0.QFKINXM</td><td>10.0</td><td>2.5 GB</td><td>2021-06-30</td><td><a href="/miui/raphaelin/stable beta/V12.0.6.0.QFKINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

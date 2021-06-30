@@ -55,6 +55,7 @@ permalink: /miui/violet/
                 <tr><td>Redmi Note 7 Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QFHCNXM</td><td>10.0</td><td>3.3 GB</td><td>2020-09-29</td><td><a href="/miui/violet/stable/V12.0.3.0.QFHCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QFHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-10-10</td><td><a href="/miui/violet/stable/V12.0.3.0.QFHCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.8 GB</td><td>2019-09-04</td><td><a href="/miui/violet/weekly/9.9.3/">Download</a></td></tr>
+<tr><td>Redmi Note 7 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.QFHCNXM</td><td>10.0</td><td>2.2 GB</td><td>2021-06-29</td><td><a href="/miui/violet/stable beta/V12.5.1.0.QFHCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.4.22</td><td>10.0</td><td>2.4 GB</td><td>2021-04-23</td><td><a href="/miui/violet/weekly/21.4.22/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QFHINXM</td><td>10.0</td><td>2.8 GB</td><td>2021-01-11</td><td><a href="/miui/violet/stable/V12.0.5.0.QFHINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 7 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QFHINXM</td><td>10.0</td><td>2.3 GB</td><td>2021-01-17</td><td><a href="/miui/violet/stable/V12.0.5.0.QFHINXM/">Download</a></td></tr>
