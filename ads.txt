@@ -631,4 +631,16 @@ yieldmo.com,2719019867620450718,RESELLER
 sharethrough.com,7144eb80,RESELLER
 google.com, pub-3082303125116831, DIRECT, f08c47fec0942fa0
 google.com, pub-2279006950490001, DIRECT, f08c47fec0942fa0
+sharethrough.com, 7144eb80, RESELLER, d53b998a7bd4ecd2
+loopme.com, 11405, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
+freewheel.tv, 20393, RESELLER
+freewheel.tv, 24377, RESELLER
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+aol.com, 58905, RESELLER, e1a5b5b6e3255540
+video.unrulymedia.com, UNRX-PUB-2276989117, DIRECT
+indexexchange.com, 182257, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 6849, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
 #VLI END
