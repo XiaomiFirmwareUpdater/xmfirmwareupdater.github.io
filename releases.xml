@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 01 Jul 2021 19:28:29 +0900</pubDate>
+  <pubDate>Fri, 02 Jul 2021 07:11:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Meitu Edition (vela) - V12.5.3.0.RFECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
+    <pubDate>Fri, 02 Jul 2021 07:11:37 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 5G (camellian) - V12.0.4.0.RKSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
@@ -100,11 +105,6 @@
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.1.0.RJOEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
     <pubDate>Mon, 28 Jun 2021 20:25:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.18.0.QJQCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Mon, 28 Jun 2021 20:22:46 +0900</pubDate>
   </item>
     </channel>
 </rss>
