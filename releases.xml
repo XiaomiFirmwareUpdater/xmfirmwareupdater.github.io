@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 03 Jul 2021 01:18:36 +0900</pubDate>
+  <pubDate>Sat, 03 Jul 2021 07:40:39 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.10.0.RKACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Sat, 03 Jul 2021 07:40:39 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro (sweet) - V12.5.4.0.RKFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
@@ -100,11 +105,6 @@
     <title>Redmi K20/Mi 9T (davinci) - 21.6.30</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
     <pubDate>Fri, 02 Jul 2021 22:34:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - 21.6.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Fri, 02 Jul 2021 22:32:51 +0900</pubDate>
   </item>
     </channel>
 </rss>
