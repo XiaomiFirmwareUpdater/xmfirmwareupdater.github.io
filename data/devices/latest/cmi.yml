@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-08.04.2021/fw_cmi_miui_CMIGlobal_V12.2.6.0.RJAMIXM_c58969ffd8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIGlobal_V12.2.6.0.RJAMIXM_c58969ffd8_11.0.zip
-  filename: fw_cmi_miui_CMIGlobal_V12.2.6.0.RJAMIXM_c58969ffd8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-02.07.2021/fw_cmi_miui_CMIGlobal_V12.5.1.0.RJAMIXM_b6116c85af_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIGlobal_V12.5.1.0.RJAMIXM_b6116c85af_11.0.zip
+  filename: fw_cmi_miui_CMIGlobal_V12.5.1.0.RJAMIXM_b6116c85af_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.2.6.0.RJAMIXM
+    miui: V12.5.1.0.RJAMIXM
 - branch: stable
   date: '2021-06-21'
   downloads:

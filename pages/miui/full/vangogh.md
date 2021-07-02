@@ -52,7 +52,8 @@ permalink: /archive/miui/vangogh/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.6.23</td><td>11.0</td><td>4.1 GB</td><td>2021-06-24</td><td><a href="/miui/vangogh/weekly/21.6.23/">Download</a></td></tr>
+                <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.6.30</td><td>11.0</td><td>4.1 GB</td><td>2021-07-01</td><td><a href="/miui/vangogh/weekly/21.6.30/">Download</a></td></tr>
+<tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.6.23</td><td>11.0</td><td>4.1 GB</td><td>2021-06-24</td><td><a href="/miui/vangogh/weekly/21.6.23/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.6.17</td><td>11.0</td><td>4.0 GB</td><td>2021-06-18</td><td><a href="/miui/vangogh/weekly/21.6.17/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.6.9</td><td>11.0</td><td>4.0 GB</td><td>2021-06-10</td><td><a href="/miui/vangogh/weekly/21.6.9/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.6.2</td><td>11.0</td><td>4.0 GB</td><td>2021-06-03</td><td><a href="/miui/vangogh/weekly/21.6.2/">Download</a></td></tr>

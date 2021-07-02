@@ -619,15 +619,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2021-05-17'
+  date: '2021-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-17.05.2021/fw_cetus_miui_CETUS_V12.0.11.0.RJTCNXM_c7df5e83d2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.0.11.0.RJTCNXM_c7df5e83d2_11.0.zip
-  filename: fw_cetus_miui_CETUS_V12.0.11.0.RJTCNXM_c7df5e83d2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-02.07.2021/fw_cetus_miui_CETUS_V12.0.16.0.RJTCNXM_53750bc6e6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.0.16.0.RJTCNXM_53750bc6e6_11.0.zip
+  filename: fw_cetus_miui_CETUS_V12.0.16.0.RJTCNXM_53750bc6e6_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.0.11.0.RJTCNXM
+    miui: V12.0.16.0.RJTCNXM
 - branch: weekly
   date: '2021-06-24'
   downloads:
@@ -769,15 +769,15 @@
     android: '8.1'
     miui: 9.8.29
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-08.04.2021/fw_cmi_miui_CMIGlobal_V12.2.6.0.RJAMIXM_c58969ffd8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIGlobal_V12.2.6.0.RJAMIXM_c58969ffd8_11.0.zip
-  filename: fw_cmi_miui_CMIGlobal_V12.2.6.0.RJAMIXM_c58969ffd8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-02.07.2021/fw_cmi_miui_CMIGlobal_V12.5.1.0.RJAMIXM_b6116c85af_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIGlobal_V12.5.1.0.RJAMIXM_b6116c85af_11.0.zip
+  filename: fw_cmi_miui_CMIGlobal_V12.5.1.0.RJAMIXM_b6116c85af_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.2.6.0.RJAMIXM
+    miui: V12.5.1.0.RJAMIXM
 - branch: stable
   date: '2021-06-21'
   downloads:
@@ -1749,15 +1749,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2021-06-16'
+  date: '2021-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-16.06.2021/fw_lime_miui_LIMEGlobal_V12.0.10.0.QJQMIXM_6f297c4bc7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.0.10.0.QJQMIXM_6f297c4bc7_10.0.zip
-  filename: fw_lime_miui_LIMEGlobal_V12.0.10.0.QJQMIXM_6f297c4bc7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-02.07.2021/fw_lime_miui_LIMEGlobal_V12.0.11.0.QJQMIXM_0903282c51_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.0.11.0.QJQMIXM_0903282c51_10.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V12.0.11.0.QJQMIXM_0903282c51_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.10.0.QJQMIXM
+    miui: V12.0.11.0.QJQMIXM
 - branch: stable
   date: '2021-06-28'
   downloads:
@@ -2659,15 +2659,15 @@
     android: '11.0'
     miui: V12.5.1.0.RKIMIXM
 - branch: stable
-  date: '2021-06-07'
+  date: '2021-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-07.06.2021/fw_renoir_miui_RENOIR_V12.5.2.0.RKICNXM_5d23f3cbfa_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIR_V12.5.2.0.RKICNXM_5d23f3cbfa_11.0.zip
-  filename: fw_renoir_miui_RENOIR_V12.5.2.0.RKICNXM_5d23f3cbfa_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-02.07.2021/fw_renoir_miui_RENOIR_V12.5.3.0.RKICNXM_53350fda17_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIR_V12.5.3.0.RKICNXM_53350fda17_11.0.zip
+  filename: fw_renoir_miui_RENOIR_V12.5.3.0.RKICNXM_53350fda17_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RKICNXM
+    miui: V12.5.3.0.RKICNXM
 - branch: weekly
   date: '2021-06-24'
   downloads:

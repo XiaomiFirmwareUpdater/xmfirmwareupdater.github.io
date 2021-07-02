@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 02 Jul 2021 07:11:37 +0900</pubDate>
+  <pubDate>Fri, 02 Jul 2021 21:38:51 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V12.5.3.0.RKICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Fri, 02 Jul 2021 21:38:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - V12.5.1.0.RJAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Fri, 02 Jul 2021 21:30:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX Fold (cetus) - V12.0.16.0.RJTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cetus</link>
+    <pubDate>Fri, 02 Jul 2021 21:22:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.11.0.QJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Fri, 02 Jul 2021 21:14:04 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Meitu Edition (vela) - V12.5.3.0.RFECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 10 5G (camellian) - V12.0.9.0.RKSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
     <pubDate>Tue, 29 Jun 2021 01:28:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.6.0.RKAEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Mon, 28 Jun 2021 21:10:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M2 (shiva) - V12.0.4.0.QJRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
-    <pubDate>Mon, 28 Jun 2021 20:44:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10S (rosemary) - V12.5.11.0.RKLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
-    <pubDate>Mon, 28 Jun 2021 20:43:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.0.1.0.RJOEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Mon, 28 Jun 2021 20:25:52 +0900</pubDate>
   </item>
     </channel>
 </rss>
