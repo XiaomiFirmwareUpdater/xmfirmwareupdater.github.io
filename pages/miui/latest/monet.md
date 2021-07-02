@@ -52,9 +52,9 @@ permalink: /miui/monet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.1.4.0.RJIEUXM</td><td>11.0</td><td>5.7 GB</td><td>2021-01-27</td><td><a href="/miui/monet/stable/V12.1.4.0.RJIEUXM/">Download</a></td></tr>
-<tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.1.4.0.RJIEUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-02-20</td><td><a href="/miui/monet/stable/V12.1.4.0.RJIEUXM/">Download</a></td></tr>
-<tr><td>Mi 10 Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RJIEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-06-17</td><td><a href="/miui/monet/stable beta/V12.5.1.0.RJIEUXM/">Download</a></td></tr>
+                <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJIEUXM</td><td>11.0</td><td>5.9 GB</td><td>2021-06-04</td><td><a href="/miui/monet/stable/V12.5.1.0.RJIEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJIEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-06-17</td><td><a href="/miui/monet/stable/V12.5.1.0.RJIEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.5.0.RJIEUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-04-06</td><td><a href="/miui/monet/stable beta/V12.1.5.0.RJIEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJIMIXM</td><td>11.0</td><td>5.8 GB</td><td>2021-05-20</td><td><a href="/miui/monet/stable/V12.5.1.0.RJIMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJIMIXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-27</td><td><a href="/miui/monet/stable/V12.5.1.0.RJIMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.1.2.0.RJITWXM</td><td>11.0</td><td>4.9 GB</td><td>2021-03-11</td><td><a href="/miui/monet/stable/V12.1.2.0.RJITWXM/">Download</a></td></tr>

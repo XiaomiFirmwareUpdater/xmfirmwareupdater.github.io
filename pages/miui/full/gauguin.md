@@ -52,7 +52,8 @@ permalink: /archive/miui/gauguin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.6.30</td><td>11.0</td><td>3.6 GB</td><td>2021-07-01</td><td><a href="/miui/gauguin/weekly/21.6.30/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RJSCNXM</td><td>11.0</td><td>3.4 GB</td><td>2021-07-02</td><td><a href="/miui/gauguin/stable beta/V12.5.3.0.RJSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.6.30</td><td>11.0</td><td>3.6 GB</td><td>2021-07-01</td><td><a href="/miui/gauguin/weekly/21.6.30/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.6.23</td><td>11.0</td><td>3.6 GB</td><td>2021-06-24</td><td><a href="/miui/gauguin/weekly/21.6.23/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJSMIXM</td><td>11.0</td><td>2.8 GB</td><td>2021-06-19</td><td><a href="/miui/gauguin/stable/V12.5.1.0.RJSMIXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJSMIXM</td><td>11.0</td><td>5.2 GB</td><td>2021-06-12</td><td><a href="/miui/gauguin/stable/V12.5.1.0.RJSMIXM/">Download</a></td></tr>
