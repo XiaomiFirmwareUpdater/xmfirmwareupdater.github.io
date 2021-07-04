@@ -52,7 +52,8 @@ permalink: /archive/miui/cereus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 6 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCGMIXM</td><td>9.0</td><td>1.5 GB</td><td>2020-09-22</td><td><a href="/miui/cereus/stable/V11.0.5.0.PCGMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 6 China</td><td>Stable Beta</td><td>Fastboot</td><td>V12.0.2.0.PCGCNXM</td><td>9.0</td><td>2.5 GB</td><td>2021-06-17</td><td><a href="/miui/cereus/stable beta/V12.0.2.0.PCGCNXM/">Download</a></td></tr>
+<tr><td>Redmi 6 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCGMIXM</td><td>9.0</td><td>1.5 GB</td><td>2020-09-22</td><td><a href="/miui/cereus/stable/V11.0.5.0.PCGMIXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PCGMIXM</td><td>9.0</td><td>1.8 GB</td><td>2020-09-16</td><td><a href="/miui/cereus/stable/V11.0.5.0.PCGMIXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCGRUXM</td><td>9.0</td><td>1.5 GB</td><td>2020-09-19</td><td><a href="/miui/cereus/stable/V11.0.5.0.PCGRUXM/">Download</a></td></tr>
 <tr><td>Redmi 6 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PCGRUXM</td><td>9.0</td><td>1.8 GB</td><td>2020-09-14</td><td><a href="/miui/cereus/stable/V11.0.5.0.PCGRUXM/">Download</a></td></tr>

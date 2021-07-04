@@ -54,6 +54,7 @@ permalink: /miui/cactus/
                 <tbody>
                 <tr><td>Redmi 6A China</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.PCBCNXM</td><td>9.0</td><td>2.1 GB</td><td>2020-03-06</td><td><a href="/miui/cactus/stable/V11.0.5.0.PCBCNXM/">Download</a></td></tr>
 <tr><td>Redmi 6A China</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.PCBCNXM</td><td>9.0</td><td>1.9 GB</td><td>2020-03-19</td><td><a href="/miui/cactus/stable/V11.0.5.0.PCBCNXM/">Download</a></td></tr>
+<tr><td>Redmi 6A China</td><td>Stable Beta</td><td>Fastboot</td><td>V12.0.2.0.PCBCNXM</td><td>9.0</td><td>2.5 GB</td><td>2021-06-18</td><td><a href="/miui/cactus/stable beta/V12.0.2.0.PCBCNXM/">Download</a></td></tr>
 <tr><td>Redmi 6A China</td><td>Weekly</td><td>Fastboot</td><td>9.9.3</td><td>9.0</td><td>2.1 GB</td><td>2019-09-04</td><td><a href="/miui/cactus/weekly/9.9.3/">Download</a></td></tr>
 <tr><td>Redmi 6A China</td><td>Weekly</td><td>Recovery</td><td>9.11.7</td><td>9.0</td><td>1.9 GB</td><td>2019-11-07</td><td><a href="/miui/cactus/weekly/9.11.7/">Download</a></td></tr>
 <tr><td>Redmi 6A Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.PCBMIXM</td><td>9.0</td><td>1.8 GB</td><td>2020-09-16</td><td><a href="/miui/cactus/stable/V11.0.9.0.PCBMIXM/">Download</a></td></tr>
