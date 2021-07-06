@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-06-01'
+  date: '2021-07-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-01.06.2021/fw_alioth_miui_ALIOTHGlobal_V12.5.1.0.RKHMIXM_e9845255d6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHGlobal_V12.5.1.0.RKHMIXM_e9845255d6_11.0.zip
-  filename: fw_alioth_miui_ALIOTHGlobal_V12.5.1.0.RKHMIXM_e9845255d6_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-06.07.2021/fw_alioth_miui_ALIOTHGlobal_V12.5.2.0.RKHMIXM_7160bb12d3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHGlobal_V12.5.2.0.RKHMIXM_7160bb12d3_11.0.zip
+  filename: fw_alioth_miui_ALIOTHGlobal_V12.5.2.0.RKHMIXM_7160bb12d3_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RKHMIXM
+    miui: V12.5.2.0.RKHMIXM
 - branch: stable
   date: '2021-06-18'
   downloads:
@@ -739,15 +739,15 @@
     android: '10.0'
     miui: V12.0.9.0.QJFMIXM
 - branch: stable
-  date: '2021-05-12'
+  date: '2021-07-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-12.05.2021/fw_citrus_miui_CITRUSEEAGlobal_V12.0.9.0.QJFEUXM_76f4789353_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSEEAGlobal_V12.0.9.0.QJFEUXM_76f4789353_10.0.zip
-  filename: fw_citrus_miui_CITRUSEEAGlobal_V12.0.9.0.QJFEUXM_76f4789353_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-06.07.2021/fw_citrus_miui_CITRUSEEAGlobal_V12.0.10.0.QJFEUXM_7c5844afd2_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSEEAGlobal_V12.0.10.0.QJFEUXM_7c5844afd2_10.0.zip
+  filename: fw_citrus_miui_CITRUSEEAGlobal_V12.0.10.0.QJFEUXM_7c5844afd2_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.9.0.QJFEUXM
+    miui: V12.0.10.0.QJFEUXM
 - branch: stable
   date: '2021-06-03'
   downloads:
@@ -2639,15 +2639,15 @@
     android: '11.0'
     miui: 21.6.30
 - branch: stable
-  date: '2021-04-25'
+  date: '2021-07-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-25.04.2021/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.5.0.QFKEUXM_d3be45d17a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V12.0.5.0.QFKEUXM_d3be45d17a_10.0.zip
-  filename: fw_raphael_miui_RAPHAELEEAGlobal_V12.0.5.0.QFKEUXM_d3be45d17a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-06.07.2021/fw_raphael_miui_RAPHAELEEAGlobal_V12.5.1.0.RFKEUXM_dd92b7128a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELEEAGlobal_V12.5.1.0.RFKEUXM_dd92b7128a_11.0.zip
+  filename: fw_raphael_miui_RAPHAELEEAGlobal_V12.5.1.0.RFKEUXM_dd92b7128a_11.0.zip
   region: Europe
   versions:
-    android: '10.0'
-    miui: V12.0.5.0.QFKEUXM
+    android: '11.0'
+    miui: V12.5.1.0.RFKEUXM
 - branch: stable
   date: '2021-06-30'
   downloads:
