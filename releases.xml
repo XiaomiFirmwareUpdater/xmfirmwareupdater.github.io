@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 07 Jul 2021 19:25:06 +0900</pubDate>
+  <pubDate>Thu, 08 Jul 2021 01:22:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.3.0.RJQCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Thu, 08 Jul 2021 01:22:37 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.0.9.0.QJCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.3.0.RJSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
     <pubDate>Sat, 03 Jul 2021 01:14:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 21.6.30</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Fri, 02 Jul 2021 23:03:36 +0900</pubDate>
   </item>
     </channel>
 </rss>
