@@ -53,20 +53,20 @@ permalink: /miui/gauguin/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RJSCNXM</td><td>11.0</td><td>4.4 GB</td><td>2021-04-18</td><td><a href="/miui/gauguin/stable/V12.0.3.0.RJSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RJSCNXM</td><td>11.0</td><td>3.2 GB</td><td>2021-04-22</td><td><a href="/miui/gauguin/stable/V12.0.3.0.RJSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Fastboot</td><td>21.1.11</td><td>11.0</td><td>4.4 GB</td><td>2021-01-12</td><td><a href="/miui/gauguin/weekly/21.1.11/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJSCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-05-24</td><td><a href="/miui/gauguin/stable/V12.5.2.0.RJSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RJSCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-07-02</td><td><a href="/miui/gauguin/stable beta/V12.5.3.0.RJSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.6.30</td><td>11.0</td><td>3.6 GB</td><td>2021-07-01</td><td><a href="/miui/gauguin/weekly/21.6.30/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.7.7</td><td>11.0</td><td>3.7 GB</td><td>2021-07-08</td><td><a href="/miui/gauguin/weekly/21.7.7/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RJSEUXM</td><td>11.0</td><td>5.3 GB</td><td>2021-05-19</td><td><a href="/miui/gauguin/stable/V12.0.2.0.RJSEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RJSEUXM</td><td>11.0</td><td>2.8 GB</td><td>2021-05-25</td><td><a href="/miui/gauguin/stable/V12.0.2.0.RJSEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QJSEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-11-16</td><td><a href="/miui/gauguin/stable beta/V12.0.5.0.QJSEUXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJSMIXM</td><td>11.0</td><td>5.2 GB</td><td>2021-06-12</td><td><a href="/miui/gauguin/stable/V12.5.1.0.RJSMIXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJSMIXM</td><td>11.0</td><td>2.8 GB</td><td>2021-06-19</td><td><a href="/miui/gauguin/stable/V12.5.1.0.RJSMIXM/">Download</a></td></tr>
 <tr><td>Mi 10i India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RJSINXM</td><td>11.0</td><td>3.4 GB</td><td>2021-04-25</td><td><a href="/miui/gauguin/stable/V12.0.2.0.RJSINXM/">Download</a></td></tr>
 <tr><td>Mi 10i India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RJSINXM</td><td>11.0</td><td>2.7 GB</td><td>2021-05-06</td><td><a href="/miui/gauguin/stable/V12.0.2.0.RJSINXM/">Download</a></td></tr>
 <tr><td>Mi 10i India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJSINXM</td><td>11.0</td><td>2.7 GB</td><td>2021-03-17</td><td><a href="/miui/gauguin/stable beta/V12.0.1.0.RJSINXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RJSTWXM</td><td>11.0</td><td>3.8 GB</td><td>2021-05-18</td><td><a href="/miui/gauguin/stable/V12.0.1.0.RJSTWXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RJSTWXM</td><td>11.0</td><td>2.7 GB</td><td>2021-06-03</td><td><a href="/miui/gauguin/stable/V12.0.1.0.RJSTWXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJSMIXM</td><td>11.0</td><td>5.2 GB</td><td>2021-06-12</td><td><a href="/miui/gauguin/stable/V12.5.1.0.RJSMIXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJSMIXM</td><td>11.0</td><td>2.8 GB</td><td>2021-06-19</td><td><a href="/miui/gauguin/stable/V12.5.1.0.RJSMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

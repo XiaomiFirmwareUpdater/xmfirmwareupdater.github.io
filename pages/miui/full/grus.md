@@ -52,7 +52,8 @@ permalink: /archive/miui/grus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.6.30</td><td>11.0</td><td>2.7 GB</td><td>2021-07-01</td><td><a href="/miui/grus/weekly/21.6.30/">Download</a></td></tr>
+                <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.7.7</td><td>11.0</td><td>2.7 GB</td><td>2021-07-08</td><td><a href="/miui/grus/weekly/21.7.7/">Download</a></td></tr>
+<tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.6.30</td><td>11.0</td><td>2.7 GB</td><td>2021-07-01</td><td><a href="/miui/grus/weekly/21.6.30/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.6.23</td><td>11.0</td><td>2.7 GB</td><td>2021-06-24</td><td><a href="/miui/grus/weekly/21.6.23/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.6.16</td><td>11.0</td><td>2.7 GB</td><td>2021-06-17</td><td><a href="/miui/grus/weekly/21.6.16/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.6.9</td><td>11.0</td><td>2.7 GB</td><td>2021-06-10</td><td><a href="/miui/grus/weekly/21.6.9/">Download</a></td></tr>
@@ -72,12 +73,12 @@ permalink: /archive/miui/grus/
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.4.7</td><td>11.0</td><td>2.7 GB</td><td>2021-04-08</td><td><a href="/miui/grus/weekly/21.4.7/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.3.31</td><td>11.0</td><td>2.7 GB</td><td>2021-04-01</td><td><a href="/miui/grus/weekly/21.3.31/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.3.24</td><td>11.0</td><td>2.7 GB</td><td>2021-03-24</td><td><a href="/miui/grus/weekly/21.3.24/">Download</a></td></tr>
-<tr><td>Mi 9 SE Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QFBRUXM</td><td>10.0</td><td>2.5 GB</td><td>2021-03-22</td><td><a href="/miui/grus/stable/V12.0.3.0.QFBRUXM/">Download</a></td></tr>
-<tr><td>Mi 9 SE Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QFBRUXM</td><td>10.0</td><td>3.0 GB</td><td>2021-03-16</td><td><a href="/miui/grus/stable/V12.0.3.0.QFBRUXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RFBMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-05-25</td><td><a href="/miui/grus/stable/V12.5.1.0.RFBMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RFBMIXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-16</td><td><a href="/miui/grus/stable/V12.5.1.0.RFBMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RFBCNXM</td><td>11.0</td><td>2.6 GB</td><td>2021-03-30</td><td><a href="/miui/grus/stable/V12.5.1.0.RFBCNXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RFBCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-03-24</td><td><a href="/miui/grus/stable/V12.5.1.0.RFBCNXM/">Download</a></td></tr>
+<tr><td>Mi 9 SE Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QFBRUXM</td><td>10.0</td><td>2.5 GB</td><td>2021-03-22</td><td><a href="/miui/grus/stable/V12.0.3.0.QFBRUXM/">Download</a></td></tr>
+<tr><td>Mi 9 SE Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QFBRUXM</td><td>10.0</td><td>3.0 GB</td><td>2021-03-16</td><td><a href="/miui/grus/stable/V12.0.3.0.QFBRUXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE Global</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QFBMIXM</td><td>10.0</td><td>2.5 GB</td><td>2021-03-19</td><td><a href="/miui/grus/stable/V12.0.4.0.QFBMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QFBMIXM</td><td>10.0</td><td>3.0 GB</td><td>2021-03-16</td><td><a href="/miui/grus/stable/V12.0.4.0.QFBMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.3.17</td><td>11.0</td><td>2.7 GB</td><td>2021-03-17</td><td><a href="/miui/grus/weekly/21.3.17/">Download</a></td></tr>
