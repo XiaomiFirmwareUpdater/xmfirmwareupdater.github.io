@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2021-07-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-08.07.2021/fw_lmi_miui_LMI_21.7.7_cc0dcd0291_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/lmi/fw_lmi_miui_LMI_21.7.7_cc0dcd0291_11.0.zip
+  filename: fw_lmi_miui_LMI_21.7.7_cc0dcd0291_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.7
 - branch: stable
   date: '2021-07-06'
   downloads:
