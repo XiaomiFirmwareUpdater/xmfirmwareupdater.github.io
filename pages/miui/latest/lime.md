@@ -73,6 +73,7 @@ permalink: /miui/lime/
 <tr><td>Redmi 9T Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJQTRXM</td><td>10.0</td><td>2.6 GB</td><td>2021-06-03</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQTRXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJQTWXM</td><td>10.0</td><td>3.7 GB</td><td>2021-06-25</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQTWXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QJQTWXM</td><td>10.0</td><td>2.6 GB</td><td>2021-07-02</td><td><a href="/miui/lime/stable/V12.0.5.0.QJQTWXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.0.QJQTWXM</td><td>10.0</td><td>2.6 GB</td><td>2021-07-08</td><td><a href="/miui/lime/stable beta/V12.0.6.0.QJQTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
