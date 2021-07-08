@@ -52,7 +52,8 @@ permalink: /archive/miui/camellian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.RKSIDXM</td><td>11.0</td><td>2.3 GB</td><td>2021-07-07</td><td><a href="/miui/camellian/stable beta/V12.0.3.0.RKSIDXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKSIDXM</td><td>11.0</td><td>2.3 GB</td><td>2021-07-07</td><td><a href="/miui/camellian/stable/V12.0.3.0.RKSIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKSIDXM</td><td>11.0</td><td>4.2 GB</td><td>2021-07-01</td><td><a href="/miui/camellian/stable/V12.0.3.0.RKSIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Global</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.RKSMIXM</td><td>11.0</td><td>2.3 GB</td><td>2021-07-01</td><td><a href="/miui/camellian/stable/V12.0.4.0.RKSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.RKSMIXM</td><td>11.0</td><td>4.8 GB</td><td>2021-06-24</td><td><a href="/miui/camellian/stable/V12.0.4.0.RKSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.9.0.RKSEUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-06-28</td><td><a href="/miui/camellian/stable/V12.0.9.0.RKSEUXM/">Download</a></td></tr>
