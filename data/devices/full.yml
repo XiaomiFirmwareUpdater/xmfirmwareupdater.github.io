@@ -3809,6 +3809,16 @@
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
 - branch: stable
+  date: '2021-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-09.07.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.3.0.RCUEUXM_93997223dd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAEEAGlobal_V12.5.3.0.RCUEUXM_93997223dd_11.0.zip
+  filename: fw_biloba_miui_BILOBAEEAGlobal_V12.5.3.0.RCUEUXM_93997223dd_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RCUEUXM
+- branch: stable
   date: '2021-06-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-29.06.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.2.0.RCUEUXM_c183da341f_11.0.zip
@@ -36548,6 +36558,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: weekly
+  date: '2021-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-09.07.2021/fw_umi_miui_UMI_21.7.8_6448a751e7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.8/umi/fw_umi_miui_UMI_21.7.8_6448a751e7_11.0.zip
+  filename: fw_umi_miui_UMI_21.7.8_6448a751e7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.8
 - branch: weekly
   date: '2021-07-02'
   downloads:
