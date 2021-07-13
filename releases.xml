@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 14 Jul 2021 02:02:01 +0900</pubDate>
+  <pubDate>Wed, 14 Jul 2021 07:12:35 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X 5G (atom) - V12.5.3.0.RJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Wed, 14 Jul 2021 07:12:35 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10S (thyme) - V12.5.5.0.RGACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.7.7</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Fri, 09 Jul 2021 05:24:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.7.7</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 09 Jul 2021 05:21:13 +0900</pubDate>
   </item>
     </channel>
 </rss>
