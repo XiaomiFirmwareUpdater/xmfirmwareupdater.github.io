@@ -419,15 +419,15 @@
     android: '11.0'
     miui: V12.0.9.0.RKSEUXM
 - branch: stable
-  date: '2021-06-14'
+  date: '2021-07-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-14.06.2021/fw_cannon_miui_CANNON_V12.5.3.0.RJECNXM_9a6ee651c7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.5.3.0.RJECNXM_9a6ee651c7_11.0.zip
-  filename: fw_cannon_miui_CANNON_V12.5.3.0.RJECNXM_9a6ee651c7_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-13.07.2021/fw_cannon_miui_CANNON_V12.5.4.0.RJECNXM_f248e88994_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.5.4.0.RJECNXM_f248e88994_11.0.zip
+  filename: fw_cannon_miui_CANNON_V12.5.4.0.RJECNXM_f248e88994_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RJECNXM
+    miui: V12.5.4.0.RJECNXM
 - branch: weekly
   date: '2021-07-08'
   downloads:
@@ -899,15 +899,15 @@
     android: '11.0'
     miui: V12.0.5.0.RJWINXM
 - branch: stable
-  date: '2021-06-11'
+  date: '2021-07-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daisy/releases/download/stable-11.06.2021/fw_daisy_miui_DAISYGlobal_V11.0.20.0.QDLMIXM_dd75a5632a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/daisy/fw_daisy_miui_DAISYGlobal_V11.0.20.0.QDLMIXM_dd75a5632a_10.0.zip
-  filename: fw_daisy_miui_DAISYGlobal_V11.0.20.0.QDLMIXM_dd75a5632a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daisy/releases/download/stable-13.07.2021/fw_daisy_miui_DAISYGlobal_V11.0.21.0.QDLMIXM_c6721a4b58_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/daisy/fw_daisy_miui_DAISYGlobal_V11.0.21.0.QDLMIXM_c6721a4b58_10.0.zip
+  filename: fw_daisy_miui_DAISYGlobal_V11.0.21.0.QDLMIXM_c6721a4b58_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V11.0.20.0.QDLMIXM
+    miui: V11.0.21.0.QDLMIXM
 - branch: stable
   date: '2021-07-08'
   downloads:
@@ -1049,15 +1049,15 @@
     android: '10.0'
     miui: V12.0.1.0.QECMIXM
 - branch: stable
-  date: '2021-04-07'
+  date: '2021-07-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_equuleus/releases/download/stable-07.04.2021/fw_equuleus_miui_MI8UD_V12.0.5.0.QECCNXM_d7fc38a453_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/equuleus/fw_equuleus_miui_MI8UD_V12.0.5.0.QECCNXM_d7fc38a453_10.0.zip
-  filename: fw_equuleus_miui_MI8UD_V12.0.5.0.QECCNXM_d7fc38a453_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_equuleus/releases/download/stable-13.07.2021/fw_equuleus_miui_MI8UD_V12.5.1.0.QECCNXM_06f3dbf0f0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/equuleus/fw_equuleus_miui_MI8UD_V12.5.1.0.QECCNXM_06f3dbf0f0_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_V12.5.1.0.QECCNXM_06f3dbf0f0_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.5.0.QECCNXM
+    miui: V12.5.1.0.QECCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -3139,15 +3139,15 @@
     android: '11.0'
     miui: V12.5.2.0.RKFINXM
 - branch: stable
-  date: '2021-06-28'
+  date: '2021-07-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-28.06.2021/fw_thyme_miui_THYME_V12.5.3.0.RGACNXM_4648eb335d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/thyme/fw_thyme_miui_THYME_V12.5.3.0.RGACNXM_4648eb335d_11.0.zip
-  filename: fw_thyme_miui_THYME_V12.5.3.0.RGACNXM_4648eb335d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-13.07.2021/fw_thyme_miui_THYME_V12.5.5.0.RGACNXM_4922d47227_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/thyme/fw_thyme_miui_THYME_V12.5.5.0.RGACNXM_4922d47227_11.0.zip
+  filename: fw_thyme_miui_THYME_V12.5.5.0.RGACNXM_4922d47227_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RGACNXM
+    miui: V12.5.5.0.RGACNXM
 - branch: weekly
   date: '2021-07-08'
   downloads:
