@@ -52,7 +52,8 @@ permalink: /archive/miui/lmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.7.7</td><td>11.0</td><td>4.1 GB</td><td>2021-07-08</td><td><a href="/miui/lmi/weekly/21.7.7/">Download</a></td></tr>
+                <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.7.14</td><td>11.0</td><td>4.1 GB</td><td>2021-07-15</td><td><a href="/miui/lmi/weekly/21.7.14/">Download</a></td></tr>
+<tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.7.7</td><td>11.0</td><td>4.1 GB</td><td>2021-07-08</td><td><a href="/miui/lmi/weekly/21.7.7/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJKMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-02</td><td><a href="/miui/lmi/stable/V12.5.1.0.RJKMIXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJKMIXM</td><td>11.0</td><td>5.1 GB</td><td>2021-06-25</td><td><a href="/miui/lmi/stable/V12.5.1.0.RJKMIXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.6.30</td><td>11.0</td><td>4.0 GB</td><td>2021-07-01</td><td><a href="/miui/lmi/weekly/21.6.30/">Download</a></td></tr>
