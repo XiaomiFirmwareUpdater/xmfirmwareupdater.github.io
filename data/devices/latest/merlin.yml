@@ -9,15 +9,15 @@
     android: '11.0'
     miui: V12.0.1.0.RJOMIXM
 - branch: stable
-  date: '2021-05-08'
+  date: '2021-07-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-09.05.2021/fw_merlin_miui_MERLIN_V12.0.5.0.RJOCNXM_0fba12640a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLIN_V12.0.5.0.RJOCNXM_0fba12640a_11.0.zip
-  filename: fw_merlin_miui_MERLIN_V12.0.5.0.RJOCNXM_0fba12640a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-15.07.2021/fw_merlin_miui_MERLIN_V12.5.2.0.RJOCNXM_dc5c5badb0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLIN_V12.5.2.0.RJOCNXM_dc5c5badb0_11.0.zip
+  filename: fw_merlin_miui_MERLIN_V12.5.2.0.RJOCNXM_dc5c5badb0_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.0.5.0.RJOCNXM
+    miui: V12.5.2.0.RJOCNXM
 - branch: stable
   date: '2021-06-28'
   downloads:
