@@ -76,9 +76,8 @@ permalink: /miui/olive/
 <tr><td>Redmi 8A India</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCPINXM</td><td>10.0</td><td>1.9 GB</td><td>2021-06-09</td><td><a href="/miui/olivelite/stable/V12.0.3.0.QCPINXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QCPRUXM</td><td>10.0</td><td>3.2 GB</td><td>2021-06-11</td><td><a href="/miui/olivelite/stable/V12.0.3.0.QCPRUXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCPRUXM</td><td>10.0</td><td>1.9 GB</td><td>2021-06-23</td><td><a href="/miui/olivelite/stable/V12.0.3.0.QCPRUXM/">Download</a></td></tr>
-<tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QCQIDXM</td><td>10.0</td><td>3.3 GB</td><td>2021-04-12</td><td><a href="/miui/olivewood/stable/V12.0.4.0.QCQIDXM/">Download</a></td></tr>
-<tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCQIDXM</td><td>10.0</td><td>1.9 GB</td><td>2021-04-21</td><td><a href="/miui/olivewood/stable/V12.0.4.0.QCQIDXM/">Download</a></td></tr>
-<tr><td>Redmi 8A Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QCQIDXM</td><td>10.0</td><td>1.9 GB</td><td>2021-06-30</td><td><a href="/miui/olivewood/stable beta/V12.0.5.0.QCQIDXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QCQIDXM</td><td>10.0</td><td>3.3 GB</td><td>2021-06-11</td><td><a href="/miui/olivewood/stable/V12.0.5.0.QCQIDXM/">Download</a></td></tr>
+<tr><td>Redmi 8A Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QCQIDXM</td><td>10.0</td><td>1.9 GB</td><td>2021-06-30</td><td><a href="/miui/olivewood/stable/V12.0.5.0.QCQIDXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QCQINXM</td><td>10.0</td><td>2.4 GB</td><td>2021-05-24</td><td><a href="/miui/olivewood/stable/V12.0.4.0.QCQINXM/">Download</a></td></tr>
 <tr><td>Redmi 8A Dual India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCQINXM</td><td>10.0</td><td>1.9 GB</td><td>2021-06-09</td><td><a href="/miui/olivewood/stable/V12.0.4.0.QCQINXM/">Download</a></td></tr>
 

@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-15.07.2021/fw_cezanne_miui_CEZANNE_21.7.14_22997f296b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/cezanne/fw_cezanne_miui_CEZANNE_21.7.14_22997f296b_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.7.14_22997f296b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.14
+- branch: weekly
   date: '2021-07-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-08.07.2021/fw_cezanne_miui_CEZANNE_21.7.7_085970c5c3_11.0.zip

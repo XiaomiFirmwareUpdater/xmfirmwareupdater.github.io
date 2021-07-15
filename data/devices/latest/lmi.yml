@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.5.2.0.RJKCNXM
 - branch: weekly
-  date: '2021-07-08'
+  date: '2021-07-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-08.07.2021/fw_lmi_miui_LMI_21.7.7_cc0dcd0291_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/lmi/fw_lmi_miui_LMI_21.7.7_cc0dcd0291_11.0.zip
-  filename: fw_lmi_miui_LMI_21.7.7_cc0dcd0291_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-15.07.2021/fw_lmi_miui_LMI_21.7.14_542cb98682_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/lmi/fw_lmi_miui_LMI_21.7.14_542cb98682_11.0.zip
+  filename: fw_lmi_miui_LMI_21.7.14_542cb98682_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.7.7
+    miui: 21.7.14
 - branch: stable
   date: '2021-06-18'
   downloads:

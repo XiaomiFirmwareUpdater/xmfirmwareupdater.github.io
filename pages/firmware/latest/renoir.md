@@ -1,7 +1,7 @@
 ---
-title: Mi 11 Lite 5G (renoir) Firmware Downloads
+title: Mi 11 Lite 5G/Mi 11 Lite 5G Japan (renoir) Firmware Downloads
 layout: download
-name: Mi 11 Lite 5G
+name: Mi 11 Lite 5G/Mi 11 Lite 5G Japan
 codename: renoir
 permalink: /firmware/renoir/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/renoir/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/renoir/">Mi 11 Lite 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/renoir/">Mi 11 Lite 5G/Mi 11 Lite 5G Japan</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
