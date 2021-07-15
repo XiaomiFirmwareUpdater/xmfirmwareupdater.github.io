@@ -92,6 +92,9 @@ $(document).ready(async function () {
     else if (device.includes('TWGlobal')) {
         region = 'Taiwan';
     }
+    else if (device.includes('JPGlobal')) {
+        region = 'Japan';
+    }
     else if (device.includes('Global')) {
         region = 'Global';
     }
