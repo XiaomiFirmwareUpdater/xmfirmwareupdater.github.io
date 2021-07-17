@@ -62,11 +62,10 @@ permalink: /miui/raphael/
 <tr><td>Mi 9T Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QFKMIXM</td><td>10.0</td><td>2.5 GB</td><td>2021-06-12</td><td><a href="/miui/raphael/stable/V12.0.6.0.QFKMIXM/">Download</a></td></tr>
 <tr><td>Mi 9T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFKRUXM</td><td>10.0</td><td>3.1 GB</td><td>2020-09-07</td><td><a href="/miui/raphael/stable/V12.0.2.0.QFKRUXM/">Download</a></td></tr>
 <tr><td>Mi 9T Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFKRUXM</td><td>10.0</td><td>2.6 GB</td><td>2020-09-23</td><td><a href="/miui/raphael/stable/V12.0.2.0.QFKRUXM/">Download</a></td></tr>
-<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QFKINXM</td><td>10.0</td><td>3.0 GB</td><td>2021-06-27</td><td><a href="/miui/raphaelin/stable/V12.0.6.0.QFKINXM/">Download</a></td></tr>
-<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QFKINXM</td><td>10.0</td><td>2.5 GB</td><td>2021-06-30</td><td><a href="/miui/raphaelin/stable/V12.0.6.0.QFKINXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro Premium Edition China</td><td>Stable</td><td>Fastboot</td><td>V10.4.1.0.PFKCNXM</td><td>9.0</td><td>3.4 GB</td><td>2019-08-27</td><td><a href="/miui/raphaels/stable/V10.4.1.0.PFKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro Premium Edition China</td><td>Stable</td><td>Recovery</td><td>V10.4.2.0.PFKCNXM</td><td>9.0</td><td>2.6 GB</td><td>2019-09-29</td><td><a href="/miui/raphaels/stable/V10.4.2.0.PFKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K20 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RFKINXM</td><td>11.0</td><td>2.5 GB</td><td>2021-07-09</td><td><a href="/miui/raphaelin/stable beta/V12.5.1.0.RFKINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RFKINXM</td><td>11.0</td><td>3.0 GB</td><td>2021-06-29</td><td><a href="/miui/raphaelin/stable/V12.5.1.0.RFKINXM/">Download</a></td></tr>
+<tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RFKINXM</td><td>11.0</td><td>2.5 GB</td><td>2021-07-09</td><td><a href="/miui/raphaelin/stable/V12.5.1.0.RFKINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

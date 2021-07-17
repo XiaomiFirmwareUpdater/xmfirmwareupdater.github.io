@@ -52,7 +52,9 @@ permalink: /archive/miui/dandelion/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9A India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.17.0.QCDINXM</td><td>10.0</td><td>1.8 GB</td><td>2021-07-15</td><td><a href="/miui/dandelion/stable beta/V12.0.17.0.QCDINXM/">Download</a></td></tr>
+                <tr><td>Redmi 9A Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QCDTRXM</td><td>10.0</td><td>1.8 GB</td><td>2021-07-16</td><td><a href="/miui/dandelion/stable/V12.0.6.0.QCDTRXM/">Download</a></td></tr>
+<tr><td>Redmi 9A Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QCDTRXM</td><td>10.0</td><td>3.3 GB</td><td>2021-07-11</td><td><a href="/miui/dandelion/stable/V12.0.6.0.QCDTRXM/">Download</a></td></tr>
+<tr><td>Redmi 9A India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.17.0.QCDINXM</td><td>10.0</td><td>1.8 GB</td><td>2021-07-15</td><td><a href="/miui/dandelion/stable beta/V12.0.17.0.QCDINXM/">Download</a></td></tr>
 <tr><td>Redmi 9A Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.11.0.QCDRUXM</td><td>10.0</td><td>1.8 GB</td><td>2021-07-09</td><td><a href="/miui/dandelion/stable beta/V12.0.11.0.QCDRUXM/">Download</a></td></tr>
 <tr><td>Redmi 9A / 9AT EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.14.0.QCDEUXM</td><td>10.0</td><td>1.8 GB</td><td>2021-07-09</td><td><a href="/miui/dandelion/stable beta/V12.0.14.0.QCDEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9A Global</td><td>Stable</td><td>Recovery</td><td>V12.0.15.0.QCDMIXM</td><td>10.0</td><td>1.8 GB</td><td>2021-07-08</td><td><a href="/miui/dandelion/stable/V12.0.15.0.QCDMIXM/">Download</a></td></tr>
