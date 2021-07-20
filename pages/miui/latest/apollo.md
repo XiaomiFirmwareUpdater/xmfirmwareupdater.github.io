@@ -71,6 +71,7 @@ permalink: /miui/apollo/
 <tr><td>Mi 10T / Mi 10T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V12.1.2.0.RJDTRXM</td><td>11.0</td><td>3.1 GB</td><td>2021-05-12</td><td><a href="/miui/apollo/stable/V12.1.2.0.RJDTRXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJDTWXM</td><td>11.0</td><td>4.0 GB</td><td>2021-06-10</td><td><a href="/miui/apollo/stable/V12.5.1.0.RJDTWXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJDTWXM</td><td>11.0</td><td>3.1 GB</td><td>2021-06-24</td><td><a href="/miui/apollo/stable/V12.5.1.0.RJDTWXM/">Download</a></td></tr>
+<tr><td>Mi 10T / Mi 10T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RJDMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-07-15</td><td><a href="/miui/apollo/stable beta/V12.5.1.0.RJDMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
