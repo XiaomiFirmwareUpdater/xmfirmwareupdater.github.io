@@ -34859,6 +34859,16 @@
     android: '11.0'
     miui: V12.0.3.0.RKFEUXM
 - branch: stable
+  date: '2021-07-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-21.07.2021/fw_sweetin_miui_SWEETININGlobal_V12.5.4.0.RKFINXM_2f224e9637_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweetin/fw_sweetin_miui_SWEETININGlobal_V12.5.4.0.RKFINXM_2f224e9637_11.0.zip
+  filename: fw_sweetin_miui_SWEETININGlobal_V12.5.4.0.RKFINXM_2f224e9637_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKFINXM
+- branch: stable
   date: '2021-06-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-02.06.2021/fw_sweetin_miui_SWEETININGlobal_V12.5.2.0.RKFINXM_349103011a_11.0.zip
@@ -34908,6 +34918,16 @@
   versions:
     android: '11.0'
     miui: V12.0.1.0.RKFINXM
+- branch: stable
+  date: '2021-07-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-21.07.2021/fw_thyme_miui_THYME_V12.5.6.0.RGACNXM_4671817ef9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/thyme/fw_thyme_miui_THYME_V12.5.6.0.RGACNXM_4671817ef9_11.0.zip
+  filename: fw_thyme_miui_THYME_V12.5.6.0.RGACNXM_4671817ef9_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RGACNXM
 - branch: weekly
   date: '2021-07-15'
   downloads:
