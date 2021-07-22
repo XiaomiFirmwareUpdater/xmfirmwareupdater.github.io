@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2021-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-22.07.2021/fw_alioth_miui_ALIOTHEEAGlobal_V12.5.3.0.RKHEUXM_a76081eb89_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V12.5.3.0.RKHEUXM_a76081eb89_11.0.zip
+  filename: fw_alioth_miui_ALIOTHEEAGlobal_V12.5.3.0.RKHEUXM_a76081eb89_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RKHEUXM
 - branch: weekly
   date: '2021-07-15'
   downloads:
@@ -26458,6 +26468,16 @@
   versions:
     android: '10.0'
     miui: V11.0.5.0.QGHCNXM
+- branch: stable
+  date: '2021-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenixin/releases/download/stable-22.07.2021/fw_phoenixin_miui_PHOENIXININGlobal_V12.5.1.0.RGHINXM_70e89268e3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenixin/fw_phoenixin_miui_PHOENIXININGlobal_V12.5.1.0.RGHINXM_70e89268e3_11.0.zip
+  filename: fw_phoenixin_miui_PHOENIXININGlobal_V12.5.1.0.RGHINXM_70e89268e3_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RGHINXM
 - branch: stable
   date: '2021-06-19'
   downloads:
