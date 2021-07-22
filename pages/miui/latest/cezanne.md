@@ -55,8 +55,8 @@ permalink: /miui/cezanne/
                 <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V12.0.21.0.QJNCNXM</td><td>10.0</td><td>4.1 GB</td><td>2021-04-21</td><td><a href="/miui/cezanne/stable/V12.0.21.0.QJNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Fastboot</td><td>20.9.8</td><td>10.0</td><td>4.2 GB</td><td>2020-09-08</td><td><a href="/miui/cezanne/weekly/20.9.8/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJNCNXM</td><td>11.0</td><td>3.2 GB</td><td>2021-05-27</td><td><a href="/miui/cezanne/stable/V12.5.3.0.RJNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RJNCNXM</td><td>11.0</td><td>3.2 GB</td><td>2021-06-23</td><td><a href="/miui/cezanne/stable beta/V12.5.4.0.RJNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.7.14</td><td>11.0</td><td>3.5 GB</td><td>2021-07-15</td><td><a href="/miui/cezanne/weekly/21.7.14/">Download</a></td></tr>
+<tr><td>Redmi K30 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RJNCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-07-22</td><td><a href="/miui/cezanne/stable beta/V12.5.5.0.RJNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.7.21</td><td>11.0</td><td>3.5 GB</td><td>2021-07-22</td><td><a href="/miui/cezanne/weekly/21.7.21/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

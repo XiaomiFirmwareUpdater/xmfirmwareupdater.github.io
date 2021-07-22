@@ -52,7 +52,8 @@ permalink: /archive/miui/cepheus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.7.14</td><td>11.0</td><td>2.8 GB</td><td>2021-07-15</td><td><a href="/miui/cepheus/weekly/21.7.14/">Download</a></td></tr>
+                <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.7.21</td><td>11.0</td><td>2.8 GB</td><td>2021-07-22</td><td><a href="/miui/cepheus/weekly/21.7.21/">Download</a></td></tr>
+<tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.7.14</td><td>11.0</td><td>2.8 GB</td><td>2021-07-15</td><td><a href="/miui/cepheus/weekly/21.7.14/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.7.7</td><td>11.0</td><td>2.8 GB</td><td>2021-07-08</td><td><a href="/miui/cepheus/weekly/21.7.7/">Download</a></td></tr>
 <tr><td>Mi 9 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RFAEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-07</td><td><a href="/miui/cepheus/stable beta/V12.5.1.0.RFAEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.6.30</td><td>11.0</td><td>2.8 GB</td><td>2021-07-01</td><td><a href="/miui/cepheus/weekly/21.6.30/">Download</a></td></tr>
