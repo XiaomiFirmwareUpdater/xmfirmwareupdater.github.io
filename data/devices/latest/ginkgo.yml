@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.0.3.0.RCOCNXM
 - branch: weekly
-  date: '2021-07-15'
+  date: '2021-07-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/weekly-15.07.2021/fw_ginkgo_miui_GINKGO_21.7.14_f7ab830725_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/ginkgo/fw_ginkgo_miui_GINKGO_21.7.14_f7ab830725_11.0.zip
-  filename: fw_ginkgo_miui_GINKGO_21.7.14_f7ab830725_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/weekly-22.07.2021/fw_ginkgo_miui_GINKGO_21.7.21_9fef1f395f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/ginkgo/fw_ginkgo_miui_GINKGO_21.7.21_9fef1f395f_11.0.zip
+  filename: fw_ginkgo_miui_GINKGO_21.7.21_9fef1f395f_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.7.14
+    miui: 21.7.21
 - branch: stable
   date: '2021-07-19'
   downloads:

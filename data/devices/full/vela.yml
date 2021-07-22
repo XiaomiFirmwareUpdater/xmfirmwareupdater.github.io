@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vela/releases/download/weekly-22.07.2021/fw_vela_miui_VELA_21.7.21_0fcd35f7ed_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/vela/fw_vela_miui_VELA_21.7.21_0fcd35f7ed_11.0.zip
+  filename: fw_vela_miui_VELA_21.7.21_0fcd35f7ed_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.21
+- branch: weekly
   date: '2021-07-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vela/releases/download/weekly-15.07.2021/fw_vela_miui_VELA_21.7.14_ad8882fbf3_11.0.zip
