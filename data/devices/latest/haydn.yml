@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.5.4.0.RKKCNXM
 - branch: weekly
-  date: '2021-07-15'
+  date: '2021-07-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/weekly-15.07.2021/fw_haydn_miui_HAYDN_21.7.14_8b165f469a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/haydn/fw_haydn_miui_HAYDN_21.7.14_8b165f469a_11.0.zip
-  filename: fw_haydn_miui_HAYDN_21.7.14_8b165f469a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/weekly-22.07.2021/fw_haydn_miui_HAYDN_21.7.21_2fa05c05e2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/haydn/fw_haydn_miui_HAYDN_21.7.21_2fa05c05e2_11.0.zip
+  filename: fw_haydn_miui_HAYDN_21.7.21_2fa05c05e2_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.7.14
+    miui: 21.7.21
 - branch: stable
   date: '2021-06-04'
   downloads:

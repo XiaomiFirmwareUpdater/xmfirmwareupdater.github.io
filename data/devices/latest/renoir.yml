@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.5.3.0.RKICNXM
 - branch: weekly
-  date: '2021-07-15'
+  date: '2021-07-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/weekly-15.07.2021/fw_renoir_miui_RENOIR_21.7.14_9a162b03f7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/renoir/fw_renoir_miui_RENOIR_21.7.14_9a162b03f7_11.0.zip
-  filename: fw_renoir_miui_RENOIR_21.7.14_9a162b03f7_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/weekly-22.07.2021/fw_renoir_miui_RENOIR_21.7.21_3a377bd389_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/renoir/fw_renoir_miui_RENOIR_21.7.21_3a377bd389_11.0.zip
+  filename: fw_renoir_miui_RENOIR_21.7.21_3a377bd389_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.7.14
+    miui: 21.7.21
 - branch: stable
   date: '2021-07-06'
   downloads:
