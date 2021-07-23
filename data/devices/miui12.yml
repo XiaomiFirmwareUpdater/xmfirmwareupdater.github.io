@@ -1124,25 +1124,25 @@
   codename: camellia
   date: '2021-07-22'
   download: https://bigota.d.miui.com/21.7.21/miui_CAMELLIA_21.7.21_265d0c608b_11.0.zip
-  name: Redmi Note 10 5G/POCO M3 Pro 5G
+  name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
   version: 21.7.21
 - android: '11.0'
   codename: camellia
   date: '2021-07-15'
   download: https://bigota.d.miui.com/21.7.14/miui_CAMELLIA_21.7.14_43aa2b5920_11.0.zip
-  name: Redmi Note 10 5G/POCO M3 Pro 5G
+  name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
   version: 21.7.14
 - android: '11.0'
   codename: camellia
   date: '2021-07-08'
   download: https://bigota.d.miui.com/21.7.7/miui_CAMELLIA_21.7.7_af0d818d00_11.0.zip
-  name: Redmi Note 10 5G/POCO M3 Pro 5G
+  name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
   version: 21.7.7
 - android: '11.0'
   codename: camellia
   date: '2021-07-02'
   download: https://bigota.d.miui.com/21.6.30/miui_CAMELLIA_21.6.30_22144930e0_11.0.zip
-  name: Redmi Note 10 5G/POCO M3 Pro 5G
+  name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
   version: 21.6.30
 - android: '11.0'
   codename: cannon

@@ -39,12 +39,12 @@
     android: '11.0'
     miui: V12.5.2.0.RKKEUXM
 - branch: stable
-  date: '2021-06-28'
+  date: '2021-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-28.06.2021/fw_haydn_miui_HAYDNINGlobal_V12.5.1.0.RKKINXM_6df9f75f41_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNINGlobal_V12.5.1.0.RKKINXM_6df9f75f41_11.0.zip
-  filename: fw_haydn_miui_HAYDNINGlobal_V12.5.1.0.RKKINXM_6df9f75f41_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-23.07.2021/fw_haydn_miui_HAYDNINGlobal_V12.5.2.0.RKKINXM_7cf92f7234_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNINGlobal_V12.5.2.0.RKKINXM_7cf92f7234_11.0.zip
+  filename: fw_haydn_miui_HAYDNINGlobal_V12.5.2.0.RKKINXM_7cf92f7234_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RKKINXM
+    miui: V12.5.2.0.RKKINXM

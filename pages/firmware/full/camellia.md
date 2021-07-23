@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 10 5G/POCO M3 Pro 5G (camellia) Firmware Downloads
+title: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) Firmware Downloads
 layout: download
-name: Redmi Note 10 5G/POCO M3 Pro 5G
+name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
 codename: camellia
 permalink: /archive/firmware/camellia/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/camellia/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/camellia/">Redmi Note 10 5G/POCO M3 Pro 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/camellia/">Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
