@@ -2579,15 +2579,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2021-05-19'
+  date: '2021-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-19.05.2021/fw_pyxis_miui_PYXISGlobal_V12.0.7.0.QFCMIXM_0bd2771e0b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISGlobal_V12.0.7.0.QFCMIXM_0bd2771e0b_10.0.zip
-  filename: fw_pyxis_miui_PYXISGlobal_V12.0.7.0.QFCMIXM_0bd2771e0b_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-23.07.2021/fw_pyxis_miui_PYXISGlobal_V12.5.2.0.RFCMIXM_ceaf059ed1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISGlobal_V12.5.2.0.RFCMIXM_ceaf059ed1_11.0.zip
+  filename: fw_pyxis_miui_PYXISGlobal_V12.5.2.0.RFCMIXM_ceaf059ed1_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V12.0.7.0.QFCMIXM
+    android: '11.0'
+    miui: V12.5.2.0.RFCMIXM
 - branch: stable
   date: '2021-07-05'
   downloads:
@@ -3149,15 +3149,15 @@
     android: '11.0'
     miui: V12.5.4.0.RKFINXM
 - branch: stable
-  date: '2021-07-21'
+  date: '2021-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-21.07.2021/fw_thyme_miui_THYME_V12.5.6.0.RGACNXM_4671817ef9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/thyme/fw_thyme_miui_THYME_V12.5.6.0.RGACNXM_4671817ef9_11.0.zip
-  filename: fw_thyme_miui_THYME_V12.5.6.0.RGACNXM_4671817ef9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-23.07.2021/fw_thyme_miui_THYME_V12.5.7.0.RGACNXM_cb67d34ec7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/thyme/fw_thyme_miui_THYME_V12.5.7.0.RGACNXM_cb67d34ec7_11.0.zip
+  filename: fw_thyme_miui_THYME_V12.5.7.0.RGACNXM_cb67d34ec7_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RGACNXM
+    miui: V12.5.7.0.RGACNXM
 - branch: weekly
   date: '2021-07-22'
   downloads:
@@ -3659,15 +3659,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2021-04-07'
+  date: '2021-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-07.04.2021/fw_willow_miui_WILLOWGlobal_V12.0.3.0.QCXMIXM_792b6fd138_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.0.3.0.QCXMIXM_792b6fd138_10.0.zip
-  filename: fw_willow_miui_WILLOWGlobal_V12.0.3.0.QCXMIXM_792b6fd138_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-23.07.2021/fw_willow_miui_WILLOWGlobal_V12.0.4.0.QCXMIXM_eb971375d1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.0.4.0.QCXMIXM_eb971375d1_10.0.zip
+  filename: fw_willow_miui_WILLOWGlobal_V12.0.4.0.QCXMIXM_eb971375d1_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QCXMIXM
+    miui: V12.0.4.0.QCXMIXM
 - branch: stable
   date: '2021-04-15'
   downloads:
