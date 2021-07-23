@@ -653,4 +653,42 @@ google.com, pub-2365720479830344, DIRECT, f08c47fec0942fa0
 google.com, pub-8569504898440436, DIRECT, f08c47fec0942fa0
 google.com, pub-6281815167084400, DIRECT, f08c47fec0942fa0
 google.com, pub-7365402769678519, DIRECT, f08c47fec0942fa0
+inmobi.com, 3da71e06eda5416c83b129509cb92e73, DIRECT, 83e75a7ae333ca9d
+rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157097, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157097, DIRECT, 5d62403b186f2ace
+pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
+loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b
+smartyads.com, 100034, RESELLER, fd2bde0ff2e62c5d
+engagebdr.com, 10181, RESELLER
+eskimi.com, eas-2020000005, RESELLER
+admanmedia.com, 594, RESELLER
+admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
+conversantmedia.com, 40881, RESELLER, 03113cd04947736d
+ogury.com, e91052177a44df900ef9977b4b8314fe, RESELLER
+rhythmone.com, 188404962, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 2169000724, RESELLER
+axonix.com, 57716, RESELLER
+telaria.com, r3222-wec7r, RESELLER, 1a4e959a1b50034a
+lemmatechnologies.com, 89, RESELLER, 7829010c5bebd1fb
+smartadserver.com, 3564, RESELLER
+admanmedia.com, 660, RESELLER
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 20208, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
+lkqd.net, 626, RESELLER, 59c49fa9598a0117
+pubnative.net, 1006951, RESELLER, d641df8625486a7b
+pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
+appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
+openx.com, 537152826, RESELLER, 6a698e2ec38604c6
+verve.com, 5897, RESELLER, 0c8f5958fc2d6270
+sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
+onetag.com, 59aa7be4921bac8, RESELLER
+rhythmone.com, 4173858586, RESELLER, a670c89d4a324e47
+verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156517, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 2276989117, DIRECT
+rhythmone.com, 2276989117, DIRECT, a670c89d4a324e47
 #VLI END
