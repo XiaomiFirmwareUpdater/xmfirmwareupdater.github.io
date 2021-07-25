@@ -202,6 +202,7 @@ permalink: /archive/miui/apollo/
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QJDEUXM</td><td>10.0</td><td>4.4 GB</td><td>2020-09-22</td><td><a href="/miui/apollo/stable/V12.0.5.0.QJDEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJDEUXM</td><td>10.0</td><td>3.0 GB</td><td>2020-10-09</td><td><a href="/miui/apollo/stable/V12.0.4.0.QJDEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QJDEUXM</td><td>10.0</td><td>4.4 GB</td><td>2020-09-14</td><td><a href="/miui/apollo/stable/V12.0.4.0.QJDEUXM/">Download</a></td></tr>
+<tr><td>Redmi K30S Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RJDCNXM</td><td>11.0</td><td>4.9 kB</td><td>None</td><td><a href="/miui/apollo/stable beta/V12.5.2.0.RJDCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
