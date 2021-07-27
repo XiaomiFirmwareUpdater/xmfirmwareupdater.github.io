@@ -54,7 +54,7 @@ permalink: /miui/lancelot/
                 <tbody>
                 <tr><td>Redmi 9 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.9.0.QJCCNXM</td><td>10.0</td><td>3.3 GB</td><td>2021-06-21</td><td><a href="/miui/lancelot/stable/V12.0.9.0.QJCCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V12.0.9.0.QJCCNXM</td><td>10.0</td><td>2.3 GB</td><td>2021-06-25</td><td><a href="/miui/lancelot/stable/V12.0.9.0.QJCCNXM/">Download</a></td></tr>
-<tr><td>Redmi 9 China</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.5.0.QJCCNXM</td><td>10.0</td><td>2.0 GB</td><td>2020-08-14</td><td><a href="/miui/lancelot/stable beta/V11.0.5.0.QJCCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RJCCNXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-27</td><td><a href="/miui/lancelot/stable beta/V12.5.1.0.RJCCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RJCEUXM</td><td>11.0</td><td>4.6 GB</td><td>2021-06-20</td><td><a href="/miui/lancelot/stable/V12.0.1.0.RJCEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RJCEUXM</td><td>11.0</td><td>2.3 GB</td><td>2021-06-25</td><td><a href="/miui/lancelot/stable/V12.0.1.0.RJCEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RJCEUXM</td><td>11.0</td><td>2.3 GB</td><td>2021-07-26</td><td><a href="/miui/lancelot/stable beta/V12.0.2.0.RJCEUXM/">Download</a></td></tr>

@@ -68,9 +68,9 @@ permalink: /miui/alioth/
 <tr><td>POCO F3 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKHRUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-07-26</td><td><a href="/miui/alioth/stable beta/V12.5.3.0.RKHRUXM/">Download</a></td></tr>
 <tr><td>POCO F3 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKHTRXM</td><td>11.0</td><td>4.7 GB</td><td>2021-07-02</td><td><a href="/miui/alioth/stable/V12.5.2.0.RKHTRXM/">Download</a></td></tr>
 <tr><td>POCO F3 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKHTRXM</td><td>11.0</td><td>3.1 GB</td><td>2021-07-08</td><td><a href="/miui/alioth/stable/V12.5.2.0.RKHTRXM/">Download</a></td></tr>
+<tr><td>POCO F3 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKHRUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-31</td><td><a href="/miui/alioth/stable/V12.5.1.0.RKHRUXM/">Download</a></td></tr>
 <tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKHTWXM</td><td>11.0</td><td>4.2 GB</td><td>2021-07-02</td><td><a href="/miui/alioth/stable/V12.5.2.0.RKHTWXM/">Download</a></td></tr>
 <tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKHTWXM</td><td>11.0</td><td>3.0 GB</td><td>2021-07-08</td><td><a href="/miui/alioth/stable/V12.5.2.0.RKHTWXM/">Download</a></td></tr>
-<tr><td>POCO F3 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKHRUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-31</td><td><a href="/miui/alioth/stable/V12.5.1.0.RKHRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
