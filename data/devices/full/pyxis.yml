@@ -18,26 +18,6 @@
   versions:
     android: '11.0'
     miui: 21.7.21
-- branch: weekly
-  date: '2021-07-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-15.07.2021/fw_pyxis_miui_PYXIS_21.7.14_d911a27aac_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/pyxis/fw_pyxis_miui_PYXIS_21.7.14_d911a27aac_11.0.zip
-  filename: fw_pyxis_miui_PYXIS_21.7.14_d911a27aac_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.14
-- branch: weekly
-  date: '2021-07-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-08.07.2021/fw_pyxis_miui_PYXIS_21.7.7_fd348bf452_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/pyxis/fw_pyxis_miui_PYXIS_21.7.7_fd348bf452_11.0.zip
-  filename: fw_pyxis_miui_PYXIS_21.7.7_fd348bf452_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.7
 - branch: stable
   date: '2021-07-05'
   downloads:
@@ -49,26 +29,6 @@
     android: '11.0'
     miui: V12.5.3.0.RFCCNXM
 - branch: weekly
-  date: '2021-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-02.07.2021/fw_pyxis_miui_PYXIS_21.6.30_017a27d908_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/pyxis/fw_pyxis_miui_PYXIS_21.6.30_017a27d908_11.0.zip
-  filename: fw_pyxis_miui_PYXIS_21.6.30_017a27d908_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.30
-- branch: weekly
-  date: '2021-06-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-24.06.2021/fw_pyxis_miui_PYXIS_21.6.23_55ebb185c3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/pyxis/fw_pyxis_miui_PYXIS_21.6.23_55ebb185c3_11.0.zip
-  filename: fw_pyxis_miui_PYXIS_21.6.23_55ebb185c3_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.23
-- branch: weekly
   date: '2021-06-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-18.06.2021/fw_pyxis_miui_PYXIS_21.6.16_fb04ad56a3_11.0.zip
@@ -78,26 +38,6 @@
   versions:
     android: '11.0'
     miui: 21.6.16
-- branch: weekly
-  date: '2021-06-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-10.06.2021/fw_pyxis_miui_PYXIS_21.6.9_564d50cc4f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.9/pyxis/fw_pyxis_miui_PYXIS_21.6.9_564d50cc4f_11.0.zip
-  filename: fw_pyxis_miui_PYXIS_21.6.9_564d50cc4f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.9
-- branch: weekly
-  date: '2021-06-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-03.06.2021/fw_pyxis_miui_PYXIS_21.6.2_ebdff6a298_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/pyxis/fw_pyxis_miui_PYXIS_21.6.2_ebdff6a298_11.0.zip
-  filename: fw_pyxis_miui_PYXIS_21.6.2_ebdff6a298_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.2
 - branch: weekly
   date: '2021-05-20'
   downloads:
@@ -128,16 +68,6 @@
   versions:
     android: '10.0'
     miui: V12.0.7.0.QFCEUXM
-- branch: stable
-  date: '2021-04-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-29.04.2021/fw_pyxis_miui_PYXIS_V12.5.1.0.RFCCNXM_35145e1d67_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXIS_V12.5.1.0.RFCCNXM_35145e1d67_11.0.zip
-  filename: fw_pyxis_miui_PYXIS_V12.5.1.0.RFCCNXM_35145e1d67_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.1.0.RFCCNXM
 - branch: weekly
   date: '2021-04-16'
   downloads:
