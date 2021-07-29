@@ -691,4 +691,16 @@ rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
 pubmatic.com, 156517, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 2276989117, DIRECT
 rhythmone.com, 2276989117, DIRECT, a670c89d4a324e47
+emxdgt.com, 2009, RESELLER, 1e1d41537f7cad7f
+yahoo.com, 59123, RESELLER, e1a5b5b6e3255540
+appnexus.com, 11664, RESELLER, f5ab79cb980f11d1
+openx.com, 544096208, RESELLER, 6a698e2ec38604c6
+xad.com, 240, RESELLER, 81cbf0a75a5e0e9a
+rubiconproject.com, 17250, RESELLER, 0bfd66d529a55807
+triplelift.com, 2792, RESELLER, 6c33edb13117fd86
+indexexchange.com, 184626, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 184349, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 183875, RESELLER, 50b1c356f2c5c8fc
+emxdgt.com, 273, RESELLER, 1e1d41537f7cad7f
+contextweb.com, 562258, RESELLER, 89ff185a4c4e857c
 #VLI END
