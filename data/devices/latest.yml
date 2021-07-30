@@ -1589,15 +1589,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2021-06-23'
+  date: '2021-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-23.06.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.RJCMIXM_6cd61a822c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.RJCMIXM_6cd61a822c_11.0.zip
-  filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.RJCMIXM_6cd61a822c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-30.07.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.2.0.RJCMIXM_b2521b4a5d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.2.0.RJCMIXM_b2521b4a5d_11.0.zip
+  filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.2.0.RJCMIXM_b2521b4a5d_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.1.0.RJCMIXM
+    miui: V12.0.2.0.RJCMIXM
 - branch: stable
   date: '2021-07-27'
   downloads:
@@ -2429,15 +2429,15 @@
     android: '11.0'
     miui: V12.5.1.0.RGHINXM
 - branch: stable
-  date: '2021-05-19'
+  date: '2021-07-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-19.05.2021/fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-30.07.2021/fw_picasso_miui_PICASSO48M_V12.5.3.0.RGICMXM_da7f652056_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.5.3.0.RGICMXM_da7f652056_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.5.3.0.RGICMXM_da7f652056_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RGICNXM
+    miui: V12.5.3.0.RGICMXM
 - branch: weekly
   date: '2021-07-29'
   downloads:

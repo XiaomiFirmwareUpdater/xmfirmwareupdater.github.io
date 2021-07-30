@@ -61,11 +61,10 @@ permalink: /miui/cepheus/
 <tr><td>Mi 9 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RFAEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-07</td><td><a href="/miui/cepheus/stable beta/V12.5.1.0.RFAEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>3.3 GB</td><td>2019-06-28</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>2.5 GB</td><td>2019-06-28</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>
-<tr><td>Mi 9 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFARUXM</td><td>10.0</td><td>3.2 GB</td><td>2020-09-07</td><td><a href="/miui/cepheus/stable/V12.0.2.0.QFARUXM/">Download</a></td></tr>
-<tr><td>Mi 9 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFARUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-09-23</td><td><a href="/miui/cepheus/stable/V12.0.2.0.QFARUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RFAMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-06-11</td><td><a href="/miui/cepheus/stable/V12.5.1.0.RFAMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RFAMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-06-17</td><td><a href="/miui/cepheus/stable/V12.5.1.0.RFAMIXM/">Download</a></td></tr>
-<tr><td>Mi 9 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RFARUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-23</td><td><a href="/miui/cepheus/stable beta/V12.5.2.0.RFARUXM/">Download</a></td></tr>
+<tr><td>Mi 9 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RFARUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-07-15</td><td><a href="/miui/cepheus/stable/V12.5.2.0.RFARUXM/">Download</a></td></tr>
+<tr><td>Mi 9 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RFARUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-23</td><td><a href="/miui/cepheus/stable/V12.5.2.0.RFARUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
