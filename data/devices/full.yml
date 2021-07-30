@@ -10599,6 +10599,16 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
+  date: '2021-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-30.07.2021/fw_curtana_miui_CURTANAGlobal_V12.0.4.0.RJWMIXM_9788084253_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAGlobal_V12.0.4.0.RJWMIXM_9788084253_11.0.zip
+  filename: fw_curtana_miui_CURTANAGlobal_V12.0.4.0.RJWMIXM_9788084253_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.4.0.RJWMIXM
+- branch: stable
   date: '2021-06-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-15.06.2021/fw_curtana_miui_CURTANAEEAGlobal_V12.0.2.0.RJWEUXM_3c6c129fe8_11.0.zip
@@ -17948,6 +17958,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2021-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-30.07.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.4.0.RJZMIXM_fc04d4fa6c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.4.0.RJZMIXM_fc04d4fa6c_11.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.0.4.0.RJZMIXM_fc04d4fa6c_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.4.0.RJZMIXM
 - branch: stable
   date: '2021-06-23'
   downloads:
@@ -30098,6 +30118,16 @@
   versions:
     android: '9.0'
     miui: V10.3.5.0.PFCCNXM
+- branch: stable
+  date: '2021-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-30.07.2021/fw_raphael_miui_RAPHAEL_V12.5.5.0.RFKCNXM_f3919faa90_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAEL_V12.5.5.0.RFKCNXM_f3919faa90_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_V12.5.5.0.RFKCNXM_f3919faa90_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RFKCNXM
 - branch: weekly
   date: '2021-07-29'
   downloads:
