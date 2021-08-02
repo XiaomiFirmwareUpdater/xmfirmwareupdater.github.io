@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 02 Aug 2021 13:36:04 +0900</pubDate>
+  <pubDate>Mon, 02 Aug 2021 22:19:20 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V12.5.2.0.RKPMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Mon, 02 Aug 2021 22:19:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V12.5.1.0.RKPMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Mon, 02 Aug 2021 22:14:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.1.0.RJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 02 Aug 2021 19:47:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begoniain) - V12.0.6.0.QGGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
+    <pubDate>Mon, 02 Aug 2021 19:21:20 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8T (willow) - V12.0.4.0.QCXEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
@@ -85,26 +105,6 @@
     <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.7.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
     <pubDate>Thu, 29 Jul 2021 21:45:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.7.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Thu, 29 Jul 2021 21:42:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.7.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Thu, 29 Jul 2021 21:39:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 21.7.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Thu, 29 Jul 2021 21:36:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.7.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Thu, 29 Jul 2021 21:32:56 +0900</pubDate>
   </item>
     </channel>
 </rss>

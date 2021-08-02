@@ -8751,9 +8751,19 @@
 - branch: stable
   date: '2021-08-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-02.08.2021/fw_chop_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chop_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
-  filename: fw_chop_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-02.08.2021/fw_chopin_miui_CHOPINGlobal_V12.5.1.0.RKPMIXM_8944c3de10_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPINGlobal_V12.5.1.0.RKPMIXM_8944c3de10_11.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V12.5.1.0.RKPMIXM_8944c3de10_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RKPMIXM
+- branch: stable
+  date: '2021-08-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-02.08.2021/fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
   region: Global
   versions:
     android: '11.0'
@@ -8788,16 +8798,6 @@
   versions:
     android: '11.0'
     miui: V12.5.6.0.RKPCNXM
-- branch: stable
-  date: '2021-07-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-15.07.2021/fw_chop_miui_CHOPINGlobal_V12.5.1.0.RKPMIXM_8944c3de10_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chop_miui_CHOPINGlobal_V12.5.1.0.RKPMIXM_8944c3de10_11.0.zip
-  filename: fw_chop_miui_CHOPINGlobal_V12.5.1.0.RKPMIXM_8944c3de10_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.1.0.RKPMIXM
 - branch: weekly
   date: '2021-07-15'
   downloads:
