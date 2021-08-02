@@ -3129,15 +3129,15 @@
     android: '11.0'
     miui: V12.0.2.0.RJGINXM
 - branch: stable
-  date: '2021-07-02'
+  date: '2021-08-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-02.07.2021/fw_sweet_miui_SWEETGlobal_V12.5.4.0.RKFMIXM_4c15a9c8b3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.5.4.0.RKFMIXM_4c15a9c8b3_11.0.zip
-  filename: fw_sweet_miui_SWEETGlobal_V12.5.4.0.RKFMIXM_4c15a9c8b3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-02.08.2021/fw_sweet_miui_SWEETGlobal_V12.5.6.0.RKFMIXM_dbe755ebdf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.5.6.0.RKFMIXM_dbe755ebdf_11.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V12.5.6.0.RKFMIXM_dbe755ebdf_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RKFMIXM
+    miui: V12.5.6.0.RKFMIXM
 - branch: stable
   date: '2021-07-02'
   downloads:
@@ -3679,15 +3679,15 @@
     android: '10.0'
     miui: V12.0.4.0.QCXMIXM
 - branch: stable
-  date: '2021-04-15'
+  date: '2021-08-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-15.04.2021/fw_willow_miui_WILLOWEEAGlobal_V12.0.3.0.QCXEUXM_07285b429f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWEEAGlobal_V12.0.3.0.QCXEUXM_07285b429f_10.0.zip
-  filename: fw_willow_miui_WILLOWEEAGlobal_V12.0.3.0.QCXEUXM_07285b429f_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-02.08.2021/fw_willow_miui_WILLOWEEAGlobal_V12.0.4.0.QCXEUXM_52bf22031a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWEEAGlobal_V12.0.4.0.QCXEUXM_52bf22031a_10.0.zip
+  filename: fw_willow_miui_WILLOWEEAGlobal_V12.0.4.0.QCXEUXM_52bf22031a_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QCXEUXM
+    miui: V12.0.4.0.QCXEUXM
 - branch: stable
   date: '2020-09-30'
   downloads:
