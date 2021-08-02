@@ -52,7 +52,11 @@ permalink: /archive/miui/lime/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.7.28</td><td>11.0</td><td>3.4 GB</td><td>2021-07-29</td><td><a href="/miui/lime/weekly/21.7.28/">Download</a></td></tr>
+                <tr><td>Redmi 9T Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJQIDXM</td><td>11.0</td><td>2.6 GB</td><td>2021-08-02</td><td><a href="/miui/lime/stable beta/V12.0.1.0.RJQIDXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJQMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-30</td><td><a href="/miui/lime/stable beta/V12.0.1.0.RJQMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJQTRXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-30</td><td><a href="/miui/lime/stable beta/V12.0.1.0.RJQTRXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJQTWXM</td><td>11.0</td><td>2.5 GB</td><td>2021-07-30</td><td><a href="/miui/lime/stable beta/V12.0.1.0.RJQTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.7.28</td><td>11.0</td><td>3.4 GB</td><td>2021-07-29</td><td><a href="/miui/lime/weekly/21.7.28/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.7.21</td><td>11.0</td><td>3.3 GB</td><td>2021-07-22</td><td><a href="/miui/lime/weekly/21.7.21/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.7.14</td><td>11.0</td><td>3.3 GB</td><td>2021-07-15</td><td><a href="/miui/lime/weekly/21.7.14/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.7.7</td><td>11.0</td><td>3.3 GB</td><td>2021-07-08</td><td><a href="/miui/lime/weekly/21.7.7/">Download</a></td></tr>
