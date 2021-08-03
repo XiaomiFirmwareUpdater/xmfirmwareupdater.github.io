@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 03 Aug 2021 13:30:02 +0900</pubDate>
+  <pubDate>Tue, 03 Aug 2021 13:30:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Mi A3 (laurel) - V12.0.10.0.RFQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
-    <pubDate>Tue, 03 Aug 2021 13:30:02 +0900</pubDate>
+    <pubDate>Tue, 03 Aug 2021 13:30:23 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 10X Pro (bomb) - V12.5.4.0.RJLCNXM</title>
