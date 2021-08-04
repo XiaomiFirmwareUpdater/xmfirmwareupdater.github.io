@@ -1999,15 +1999,15 @@
     android: '11.0'
     miui: V12.0.1.0.RJOEUXM
 - branch: stable
-  date: '2021-05-20'
+  date: '2021-08-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-20.05.2021/fw_merlin_miui_MERLININGlobal_V12.0.8.0.QJOINXM_80e8a3cdd2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLININGlobal_V12.0.8.0.QJOINXM_80e8a3cdd2_10.0.zip
-  filename: fw_merlin_miui_MERLININGlobal_V12.0.8.0.QJOINXM_80e8a3cdd2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-04.08.2021/fw_merlin_miui_MERLININGlobal_V12.5.1.0.RJOINXM_a58506aef8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLININGlobal_V12.5.1.0.RJOINXM_a58506aef8_11.0.zip
+  filename: fw_merlin_miui_MERLININGlobal_V12.5.1.0.RJOINXM_a58506aef8_11.0.zip
   region: India
   versions:
-    android: '10.0'
-    miui: V12.0.8.0.QJOINXM
+    android: '11.0'
+    miui: V12.5.1.0.RJOINXM
 - branch: stable
   date: '2019-11-15'
   downloads:
@@ -2049,15 +2049,15 @@
     android: '7.0'
     miui: 9.9.26
 - branch: stable
-  date: '2021-06-03'
+  date: '2021-08-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-03.06.2021/fw_mojito_miui_MOJITOGlobal_V12.0.11.0.RKGMIXM_25cd77be38_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOGlobal_V12.0.11.0.RKGMIXM_25cd77be38_11.0.zip
-  filename: fw_mojito_miui_MOJITOGlobal_V12.0.11.0.RKGMIXM_25cd77be38_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-04.08.2021/fw_mojito_miui_MOJITOGlobal_V12.5.2.0.RKGMIXM_bd9caed783_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOGlobal_V12.5.2.0.RKGMIXM_bd9caed783_11.0.zip
+  filename: fw_mojito_miui_MOJITOGlobal_V12.5.2.0.RKGMIXM_bd9caed783_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.11.0.RKGMIXM
+    miui: V12.5.2.0.RKGMIXM
 - branch: stable
   date: '2021-06-02'
   downloads:
