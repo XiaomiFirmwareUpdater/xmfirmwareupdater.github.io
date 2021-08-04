@@ -1,15 +1,25 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 04 Aug 2021 19:30:02 +0900</pubDate>
+  <pubDate>Thu, 05 Aug 2021 01:17:22 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi 7A (pine) - V12.5.1.0.QCMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
+    <pubDate>Thu, 05 Aug 2021 01:17:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.2.0.RJSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Thu, 05 Aug 2021 01:15:20 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi Note 10 (mojito) - V12.5.2.0.RKGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Wed, 04 Aug 2021 19:30:02 +0900</pubDate>
+    <pubDate>Wed, 04 Aug 2021 19:31:01 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.1.0.RJOINXM</title>
@@ -95,16 +105,6 @@
     <title>Redmi Note 9 Pro (joyeuse) - V12.0.4.0.RJZMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
     <pubDate>Fri, 30 Jul 2021 19:27:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.0.4.0.RJWMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
-    <pubDate>Fri, 30 Jul 2021 19:24:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 NFC (surya) - V12.0.2.0.RJGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Fri, 30 Jul 2021 02:35:34 +0900</pubDate>
   </item>
     </channel>
 </rss>
