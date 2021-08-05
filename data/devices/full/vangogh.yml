@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-08-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-05.08.2021/fw_vangogh_miui_VANGOGH_21.8.4_b55271e7f8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.4/vangogh/fw_vangogh_miui_VANGOGH_21.8.4_b55271e7f8_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_21.8.4_b55271e7f8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.4
+- branch: weekly
   date: '2021-07-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-29.07.2021/fw_vangogh_miui_VANGOGH_21.7.28_37e67717c8_11.0.zip

@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-08-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-05.08.2021/fw_star_miui_STAR_21.8.4_0a5276d572_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.4/star/fw_star_miui_STAR_21.8.4_0a5276d572_11.0.zip
+  filename: fw_star_miui_STAR_21.8.4_0a5276d572_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.4
+- branch: weekly
   date: '2021-07-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-29.07.2021/fw_star_miui_STAR_21.7.28_24bb2127df_11.0.zip
