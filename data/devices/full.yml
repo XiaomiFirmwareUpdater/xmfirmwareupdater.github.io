@@ -11139,6 +11139,16 @@
     android: '10.0'
     miui: V11.0.21.0.QDLMIXM
 - branch: stable
+  date: '2021-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-06.08.2021/fw_dandelion_miui_DANDELION_V12.0.16.0.QCDCNXM_d08eb9ff24_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.0.16.0.QCDCNXM_d08eb9ff24_10.0.zip
+  filename: fw_dandelion_miui_DANDELION_V12.0.16.0.QCDCNXM_d08eb9ff24_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.16.0.QCDCNXM
+- branch: stable
   date: '2021-07-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-15.07.2021/fw_dandelion_miui_DANDELIONINGlobal_V12.0.17.0.QCDINXM_bc65659812_10.0.zip
@@ -22139,6 +22149,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-06.08.2021/fw_merlin_miui_MERLINGlobal_V12.5.1.0.RJOMIXM_84b071b256_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.5.1.0.RJOMIXM_84b071b256_11.0.zip
+  filename: fw_merlin_miui_MERLINGlobal_V12.5.1.0.RJOMIXM_84b071b256_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJOMIXM
+- branch: stable
   date: '2021-08-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-04.08.2021/fw_merlin_miui_MERLININGlobal_V12.5.1.0.RJOINXM_a58506aef8_11.0.zip
@@ -24089,6 +24109,16 @@
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
 - branch: stable
+  date: '2021-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olive/releases/download/stable-06.08.2021/fw_olive_miui_OLIVEINGlobal_V12.5.1.0.QCNINXM_da84fb3ebb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEINGlobal_V12.5.1.0.QCNINXM_da84fb3ebb_10.0.zip
+  filename: fw_olive_miui_OLIVEINGlobal_V12.5.1.0.QCNINXM_da84fb3ebb_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.5.1.0.QCNINXM
+- branch: stable
   date: '2021-08-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olive/releases/download/stable-03.08.2021/fw_olive_miui_OLIVE_V12.5.1.0.QCNCNXM_85ae7519db_10.0.zip
@@ -24459,6 +24489,16 @@
     android: '9.0'
     miui: V10.3.5.0.PCNCNXM
 - branch: stable
+  date: '2021-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-06.08.2021/fw_olivelite_miui_OLIVELITEINGlobal_V12.5.1.0.QCPINXM_e3bcf5843d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V12.5.1.0.QCPINXM_e3bcf5843d_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEINGlobal_V12.5.1.0.QCPINXM_e3bcf5843d_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.5.1.0.QCPINXM
+- branch: stable
   date: '2021-08-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-04.08.2021/fw_olivelite_miui_OLIVELITE_V12.5.1.0.QCPCNXM_f355c32e65_10.0.zip
@@ -24828,6 +24868,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PCPCNXM
+- branch: stable
+  date: '2021-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivewood/releases/download/stable-06.08.2021/fw_olivewood_miui_OLIVEWOODINGlobal_V12.5.1.0.QCQINXM_8d728a9be4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V12.5.1.0.QCQINXM_8d728a9be4_10.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V12.5.1.0.QCQINXM_8d728a9be4_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.5.1.0.QCQINXM
 - branch: stable
   date: '2021-06-09'
   downloads:
@@ -29958,6 +30008,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-06.08.2021/fw_pyxis_miui_PYXISEEAGlobal_V12.0.10.0.QFCEUXM_a6f315ca02_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISEEAGlobal_V12.0.10.0.QFCEUXM_a6f315ca02_10.0.zip
+  filename: fw_pyxis_miui_PYXISEEAGlobal_V12.0.10.0.QFCEUXM_a6f315ca02_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.10.0.QFCEUXM
 - branch: weekly
   date: '2021-08-05'
   downloads:

@@ -29,12 +29,12 @@
     android: '10.0'
     miui: V12.0.3.0.QCPEUXM
 - branch: stable
-  date: '2021-06-09'
+  date: '2021-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-09.06.2021/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.3.0.QCPINXM_c682220ca8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V12.0.3.0.QCPINXM_c682220ca8_10.0.zip
-  filename: fw_olivelite_miui_OLIVELITEINGlobal_V12.0.3.0.QCPINXM_c682220ca8_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivelite/releases/download/stable-06.08.2021/fw_olivelite_miui_OLIVELITEINGlobal_V12.5.1.0.QCPINXM_e3bcf5843d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivelite/fw_olivelite_miui_OLIVELITEINGlobal_V12.5.1.0.QCPINXM_e3bcf5843d_10.0.zip
+  filename: fw_olivelite_miui_OLIVELITEINGlobal_V12.5.1.0.QCPINXM_e3bcf5843d_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QCPINXM
+    miui: V12.5.1.0.QCPINXM
