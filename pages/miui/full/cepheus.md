@@ -52,7 +52,8 @@ permalink: /archive/miui/cepheus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.8.4</td><td>11.0</td><td>2.8 GB</td><td>2021-08-05</td><td><a href="/miui/cepheus/weekly/21.8.4/">Download</a></td></tr>
+                <tr><td>Mi 9 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RFACNXM</td><td>11.0</td><td>2.8 GB</td><td>2021-08-06</td><td><a href="/miui/cepheus/stable beta/V12.5.4.0.RFACNXM/">Download</a></td></tr>
+<tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.8.4</td><td>11.0</td><td>2.8 GB</td><td>2021-08-05</td><td><a href="/miui/cepheus/weekly/21.8.4/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>21.7.28</td><td>11.0</td><td>2.8 GB</td><td>2021-07-29</td><td><a href="/miui/cepheus/weekly/21.7.28/">Download</a></td></tr>
 <tr><td>Mi 9 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RFARUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-23</td><td><a href="/miui/cepheus/stable/V12.5.2.0.RFARUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RFARUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-07-15</td><td><a href="/miui/cepheus/stable/V12.5.2.0.RFARUXM/">Download</a></td></tr>

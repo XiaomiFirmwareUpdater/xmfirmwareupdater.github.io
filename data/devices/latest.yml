@@ -569,15 +569,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFAMIXM
 - branch: stable
-  date: '2021-05-26'
+  date: '2021-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-27.05.2021/fw_cepheus_miui_CEPHEUS_V12.5.3.0.RFACNXM_b120263c44_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUS_V12.5.3.0.RFACNXM_b120263c44_11.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_V12.5.3.0.RFACNXM_b120263c44_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-06.08.2021/fw_cepheus_miui_CEPHEUS_V12.5.4.0.RFACNXM_62ddc4493a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUS_V12.5.4.0.RFACNXM_62ddc4493a_11.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V12.5.4.0.RFACNXM_62ddc4493a_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RFACNXM
+    miui: V12.5.4.0.RFACNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1589,15 +1589,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2021-07-30'
+  date: '2021-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-30.07.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.2.0.RJCMIXM_b2521b4a5d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.0.2.0.RJCMIXM_b2521b4a5d_11.0.zip
-  filename: fw_lancelot_miui_LANCELOTGlobal_V12.0.2.0.RJCMIXM_b2521b4a5d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-06.08.2021/fw_lancelot_miui_LANCELOTGlobal_V12.5.1.0.RJCMIXM_9d26938a7b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.5.1.0.RJCMIXM_9d26938a7b_11.0.zip
+  filename: fw_lancelot_miui_LANCELOTGlobal_V12.5.1.0.RJCMIXM_9d26938a7b_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.2.0.RJCMIXM
+    miui: V12.5.1.0.RJCMIXM
 - branch: stable
   date: '2021-07-27'
   downloads:
@@ -3449,15 +3449,15 @@
     android: '11.0'
     miui: 21.8.4
 - branch: stable
-  date: '2021-06-18'
+  date: '2021-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-18.06.2021/fw_vayu_miui_VAYUGlobal_V12.5.2.0.RJUMIXM_450711067e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUGlobal_V12.5.2.0.RJUMIXM_450711067e_11.0.zip
-  filename: fw_vayu_miui_VAYUGlobal_V12.5.2.0.RJUMIXM_450711067e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-06.08.2021/fw_vayu_miui_VAYUGlobal_V12.5.3.0.RJUMIXM_8c9f40a764_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUGlobal_V12.5.3.0.RJUMIXM_8c9f40a764_11.0.zip
+  filename: fw_vayu_miui_VAYUGlobal_V12.5.3.0.RJUMIXM_8c9f40a764_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RJUMIXM
+    miui: V12.5.3.0.RJUMIXM
 - branch: stable
   date: '2021-05-27'
   downloads:

@@ -52,7 +52,8 @@ permalink: /archive/miui/vayu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X3 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJUINXM</td><td>11.0</td><td>2.9 GB</td><td>2021-07-06</td><td><a href="/miui/vayu/stable/V12.5.3.0.RJUINXM/">Download</a></td></tr>
+                <tr><td>POCO X3 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RJUMIXM</td><td>11.0</td><td>3.0 GB</td><td>2021-08-06</td><td><a href="/miui/vayu/stable beta/V12.5.3.0.RJUMIXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJUINXM</td><td>11.0</td><td>2.9 GB</td><td>2021-07-06</td><td><a href="/miui/vayu/stable/V12.5.3.0.RJUINXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RJUINXM</td><td>11.0</td><td>3.4 GB</td><td>2021-06-30</td><td><a href="/miui/vayu/stable/V12.5.3.0.RJUINXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJUIDXM</td><td>11.0</td><td>2.9 GB</td><td>2021-07-01</td><td><a href="/miui/vayu/stable/V12.5.1.0.RJUIDXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJUIDXM</td><td>11.0</td><td>4.5 GB</td><td>2021-06-25</td><td><a href="/miui/vayu/stable/V12.5.1.0.RJUIDXM/">Download</a></td></tr>
