@@ -53,7 +53,8 @@ permalink: /archive/miui/cannon/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.8.4</td><td>11.0</td><td>3.4 GB</td><td>2021-08-05</td><td><a href="/miui/cannon/weekly/21.8.4/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RJEMIXM</td><td>11.0</td><td>2.4 GB</td><td>2021-08-04</td><td><a href="/miui/cannong/stable beta/V12.5.4.0.RJEMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RJEMIXM</td><td>11.0</td><td>2.4 GB</td><td>2021-08-04</td><td><a href="/miui/cannong/stable/V12.5.4.0.RJEMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RJEMIXM</td><td>11.0</td><td>4.9 GB</td><td>2021-07-29</td><td><a href="/miui/cannong/stable/V12.5.4.0.RJEMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.7.28</td><td>11.0</td><td>3.3 GB</td><td>2021-07-29</td><td><a href="/miui/cannon/weekly/21.7.28/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>21.7.21</td><td>11.0</td><td>3.3 GB</td><td>2021-07-22</td><td><a href="/miui/cannon/weekly/21.7.21/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJETRXM</td><td>11.0</td><td>2.5 GB</td><td>2021-07-19</td><td><a href="/miui/cannong/stable/V12.5.1.0.RJETRXM/">Download</a></td></tr>
