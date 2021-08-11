@@ -11239,6 +11239,16 @@
     android: '10.0'
     miui: V11.0.21.0.QDLMIXM
 - branch: stable
+  date: '2021-08-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-11.08.2021/fw_dandelion_miui_DANDELIONINGlobal_V12.0.18.0.QCDINXM_2846d795f5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.18.0.QCDINXM_2846d795f5_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.18.0.QCDINXM_2846d795f5_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.18.0.QCDINXM
+- branch: stable
   date: '2021-08-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-06.08.2021/fw_dandelion_miui_DANDELION_V12.0.16.0.QCDCNXM_d08eb9ff24_10.0.zip
@@ -11658,6 +11668,16 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QCDMIXM
+- branch: stable
+  date: '2021-08-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/stable-11.08.2021/fw_davinci_miui_DAVINCIGlobal_V12.1.4.0.RFJMIXM_e0ac13ed89_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinci/fw_davinci_miui_DAVINCIGlobal_V12.1.4.0.RFJMIXM_e0ac13ed89_11.0.zip
+  filename: fw_davinci_miui_DAVINCIGlobal_V12.1.4.0.RFJMIXM_e0ac13ed89_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.1.4.0.RFJMIXM
 - branch: weekly
   date: '2021-08-05'
   downloads:
@@ -20418,6 +20438,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-08-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-11.08.2021/fw_lime_miui_LIMEGlobal_V12.0.15.0.QJQMIXM_7c1ed84389_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.0.15.0.QJQMIXM_7c1ed84389_10.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V12.0.15.0.QJQMIXM_7c1ed84389_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.15.0.QJQMIXM
 - branch: weekly
   date: '2021-08-05'
   downloads:
