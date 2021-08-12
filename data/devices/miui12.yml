@@ -90,6 +90,12 @@
   version: 21.4.8
 - android: '11.0'
   codename: apollo
+  date: '2021-08-12'
+  download: https://bigota.d.miui.com/21.8.11/miui_APOLLO_21.8.11_6907a148ab_11.0.zip
+  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
+  version: 21.8.11
+- android: '11.0'
+  codename: apollo
   date: '2021-08-05'
   download: https://bigota.d.miui.com/21.8.4/miui_APOLLO_21.8.4_5940257b1d_11.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
@@ -340,6 +346,12 @@
   download: https://bigota.d.miui.com/21.5.20/miui_ARES_21.5.20_a5534f9a34_11.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
   version: 21.5.20
+- android: '11.0'
+  codename: atom
+  date: '2021-08-12'
+  download: https://bigota.d.miui.com/21.8.12/miui_ATOM_21.8.12_cfa1e6c4db_11.0.zip
+  name: Redmi 10X 5G
+  version: 21.8.12
 - android: '11.0'
   codename: atom
   date: '2021-08-05'
