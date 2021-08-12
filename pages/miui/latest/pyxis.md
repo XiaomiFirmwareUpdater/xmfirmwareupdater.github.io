@@ -62,6 +62,7 @@ permalink: /miui/pyxis/
 <tr><td>Mi CC 9 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RFCCNXM</td><td>11.0</td><td>2.6 GB</td><td>2021-04-26</td><td><a href="/miui/pyxis/stable beta/V12.5.1.0.RFCCNXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RFCMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-13</td><td><a href="/miui/pyxis/stable/V12.5.2.0.RFCMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RFCMIXM</td><td>11.0</td><td>2.7 GB</td><td>2021-07-20</td><td><a href="/miui/pyxis/stable/V12.5.2.0.RFCMIXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RFCRUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-08-10</td><td><a href="/miui/pyxis/stable beta/V12.5.1.0.RFCRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
