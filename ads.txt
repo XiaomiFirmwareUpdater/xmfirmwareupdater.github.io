@@ -704,4 +704,6 @@ indexexchange.com, 183875, RESELLER, 50b1c356f2c5c8fc
 emxdgt.com, 273, RESELLER, 1e1d41537f7cad7f
 contextweb.com, 562258, RESELLER, 89ff185a4c4e857c
 teads.tv, 22952, DIRECT, 15a9c44f6d26cbe1
+contextweb.com, 562541, RESELLER, 89ff185a4c4e857c
+smartadserver.com, 4125, RESELLER, 060d053dcf45cbf3
 #VLI END
