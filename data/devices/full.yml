@@ -9179,6 +9179,16 @@
     android: '11.0'
     miui: V12.5.3.0.RKPCNXM
 - branch: stable
+  date: '2021-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-13.08.2021/fw_citrus_miui_CITRUSINGlobal_V12.0.7.0.QJFINXM_549fd43012_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSINGlobal_V12.0.7.0.QJFINXM_549fd43012_10.0.zip
+  filename: fw_citrus_miui_CITRUSINGlobal_V12.0.7.0.QJFINXM_549fd43012_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QJFINXM
+- branch: stable
   date: '2021-08-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-09.08.2021/fw_citrus_miui_CITRUSGlobal_V12.0.10.0.QJFMIXM_f4d712deb0_10.0.zip
@@ -13808,6 +13818,16 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RKYCNXM
+- branch: stable
+  date: '2021-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_enuma/releases/download/stable-13.08.2021/fw_enuma_miui_ENUMA_V12.5.1.0.RKZCNXM_67ccdf0c4f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/enuma/fw_enuma_miui_ENUMA_V12.5.1.0.RKZCNXM_67ccdf0c4f_11.0.zip
+  filename: fw_enuma_miui_ENUMA_V12.5.1.0.RKZCNXM_67ccdf0c4f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RKZCNXM
 - branch: stable
   date: '2021-07-13'
   downloads:
@@ -20559,6 +20579,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-13.08.2021/fw_lime_miui_LIMEEEAGlobal_V12.0.11.0.QJQEUXM_8f138f4977_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.0.11.0.QJQEUXM_8f138f4977_10.0.zip
+  filename: fw_lime_miui_LIMEEEAGlobal_V12.0.11.0.QJQEUXM_8f138f4977_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.11.0.QJQEUXM
+- branch: stable
   date: '2021-08-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-11.08.2021/fw_lime_miui_LIMEGlobal_V12.0.15.0.QJQMIXM_7c1ed84389_10.0.zip
@@ -23189,6 +23219,16 @@
     android: '10.0'
     miui: V11.0.11.0.QJIEUXM
 - branch: stable
+  date: '2021-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-13.08.2021/fw_nabu_miui_NABU_V12.5.7.0.RKXCNXM_92f0617160_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABU_V12.5.7.0.RKXCNXM_92f0617160_11.0.zip
+  filename: fw_nabu_miui_NABU_V12.5.7.0.RKXCNXM_92f0617160_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKXCNXM
+- branch: stable
   date: '2019-11-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-08.11.2019/fw_natrium_miui_MI5SPlus_V11.0.2.0.OBGCNXM_a423c56184_8.0.zip
@@ -24388,6 +24428,16 @@
   versions:
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
+- branch: stable
+  date: '2021-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-13.08.2021/fw_odin_miui_ODIN_V12.5.4.0.RKMCNXM_eacb5c9e71_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/odin/fw_odin_miui_ODIN_V12.5.4.0.RKMCNXM_eacb5c9e71_11.0.zip
+  filename: fw_odin_miui_ODIN_V12.5.4.0.RKMCNXM_eacb5c9e71_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKMCNXM
 - branch: stable
   date: '2021-08-06'
   downloads:
