@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2021-08-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/stable-16.08.2021/fw_raphael_miui_RAPHAELGlobal_V12.5.2.0.RFKMIXM_edbf5f63e8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphael/fw_raphael_miui_RAPHAELGlobal_V12.5.2.0.RFKMIXM_edbf5f63e8_11.0.zip
+  filename: fw_raphael_miui_RAPHAELGlobal_V12.5.2.0.RFKMIXM_edbf5f63e8_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RFKMIXM
 - branch: weekly
   date: '2021-08-05'
   downloads:

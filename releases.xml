@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 16 Aug 2021 07:13:51 +0900</pubDate>
+  <pubDate>Mon, 16 Aug 2021 19:46:10 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8T (willow) - V12.0.2.0.RCXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
+    <pubDate>Mon, 16 Aug 2021 19:46:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.2.0.RFKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Mon, 16 Aug 2021 19:44:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Lite (monet) - V12.5.2.0.RJIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
+    <pubDate>Mon, 16 Aug 2021 19:43:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.0.10.0.RKSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Mon, 16 Aug 2021 19:41:39 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9C (angelica) - V12.0.9.0.QCREUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
@@ -85,26 +105,6 @@
     <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.8.11</title>
     <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
     <pubDate>Fri, 13 Aug 2021 02:05:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10S (thyme) - 21.8.11</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Fri, 13 Aug 2021 02:03:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.8.11</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Fri, 13 Aug 2021 02:02:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G/Mi 11 Lite 5G Japan (renoir) - 21.8.11</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Fri, 13 Aug 2021 02:00:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - 21.8.11</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
-    <pubDate>Fri, 13 Aug 2021 01:59:33 +0900</pubDate>
   </item>
     </channel>
 </rss>

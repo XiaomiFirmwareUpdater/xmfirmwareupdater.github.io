@@ -60,6 +60,7 @@ permalink: /miui/raphael/
 <tr><td>Mi 9T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RFKEUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-07-06</td><td><a href="/miui/raphael/stable/V12.5.1.0.RFKEUXM/">Download</a></td></tr>
 <tr><td>Mi 9T Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QFKMIXM</td><td>10.0</td><td>3.0 GB</td><td>2021-06-10</td><td><a href="/miui/raphael/stable/V12.0.6.0.QFKMIXM/">Download</a></td></tr>
 <tr><td>Mi 9T Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QFKMIXM</td><td>10.0</td><td>2.5 GB</td><td>2021-06-12</td><td><a href="/miui/raphael/stable/V12.0.6.0.QFKMIXM/">Download</a></td></tr>
+<tr><td>Mi 9T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RFKMIXM</td><td>11.0</td><td>2.7 GB</td><td>2021-08-13</td><td><a href="/miui/raphael/stable beta/V12.5.2.0.RFKMIXM/">Download</a></td></tr>
 <tr><td>Mi 9T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RFKRUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-07-06</td><td><a href="/miui/raphael/stable/V12.5.1.0.RFKRUXM/">Download</a></td></tr>
 <tr><td>Mi 9T Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RFKRUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-07-15</td><td><a href="/miui/raphael/stable/V12.5.1.0.RFKRUXM/">Download</a></td></tr>
 <tr><td>Redmi K20 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QFKINXM</td><td>10.0</td><td>3.0 GB</td><td>2021-06-27</td><td><a href="/miui/raphaelin/stable/V12.0.6.0.QFKINXM/">Download</a></td></tr>
