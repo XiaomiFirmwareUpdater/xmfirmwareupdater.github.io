@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 17 Aug 2021 01:38:10 +0900</pubDate>
+  <pubDate>Tue, 17 Aug 2021 19:20:00 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.5.2.0.RJKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Tue, 17 Aug 2021 19:20:00 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Pad 5 Pro Wi-Fi (elish) - V12.5.8.0.RKYCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - 21.8.11</title>
     <link>https://xiaomifirmwareupdater.com/firmware/camellia</link>
     <pubDate>Fri, 13 Aug 2021 02:08:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.8.11</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Fri, 13 Aug 2021 02:07:26 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -1919,15 +1919,15 @@
     android: '11.0'
     miui: 21.8.4
 - branch: stable
-  date: '2021-06-18'
+  date: '2021-08-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-19.06.2021/fw_lmi_miui_LMIEEAGlobal_V12.5.1.0.RJKEUXM_29cdcfbe59_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.5.1.0.RJKEUXM_29cdcfbe59_11.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.5.1.0.RJKEUXM_29cdcfbe59_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-17.08.2021/fw_lmi_miui_LMIEEAGlobal_V12.5.2.0.RJKEUXM_45977d4061_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.5.2.0.RJKEUXM_45977d4061_11.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.5.2.0.RJKEUXM_45977d4061_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RJKEUXM
+    miui: V12.5.2.0.RJKEUXM
 - branch: stable
   date: '2021-01-14'
   downloads:
