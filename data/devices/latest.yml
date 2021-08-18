@@ -9,15 +9,15 @@
     android: '11.0'
     miui: V12.5.2.0.RKHMIXM
 - branch: stable
-  date: '2021-08-10'
+  date: '2021-08-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-11.08.2021/fw_alioth_miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
-  filename: fw_alioth_miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-18.08.2021/fw_alioth_miui_ALIOTH_V12.5.6.0.RKHCNXM_b6739f027b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTH_V12.5.6.0.RKHCNXM_b6739f027b_11.0.zip
+  filename: fw_alioth_miui_ALIOTH_V12.5.6.0.RKHCNXM_b6739f027b_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKHCNXM
+    miui: V12.5.6.0.RKHCNXM
 - branch: weekly
   date: '2021-08-12'
   downloads:
@@ -139,15 +139,15 @@
     android: '11.0'
     miui: V12.5.2.0.RJDMIXM
 - branch: stable
-  date: '2021-08-10'
+  date: '2021-08-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-11.08.2021/fw_apollo_miui_APOLLO_V12.5.3.0.RJDCNXM_d98b4e09b5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLO_V12.5.3.0.RJDCNXM_d98b4e09b5_11.0.zip
-  filename: fw_apollo_miui_APOLLO_V12.5.3.0.RJDCNXM_d98b4e09b5_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-18.08.2021/fw_apollo_miui_APOLLO_V12.5.4.0.RJDCNXM_44204396c6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLO_V12.5.4.0.RJDCNXM_44204396c6_11.0.zip
+  filename: fw_apollo_miui_APOLLO_V12.5.4.0.RJDCNXM_44204396c6_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RJDCNXM
+    miui: V12.5.4.0.RJDCNXM
 - branch: weekly
   date: '2021-08-12'
   downloads:
@@ -529,15 +529,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2021-08-10'
+  date: '2021-08-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-11.08.2021/fw_cas_miui_CAS_V12.5.4.0.RJJCNXM_55172411ad_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cas/fw_cas_miui_CAS_V12.5.4.0.RJJCNXM_55172411ad_11.0.zip
-  filename: fw_cas_miui_CAS_V12.5.4.0.RJJCNXM_55172411ad_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-18.08.2021/fw_cas_miui_CAS_V12.5.5.0.RJJCNXM_6b787052df_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cas/fw_cas_miui_CAS_V12.5.5.0.RJJCNXM_6b787052df_11.0.zip
+  filename: fw_cas_miui_CAS_V12.5.5.0.RJJCNXM_6b787052df_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RJJCNXM
+    miui: V12.5.5.0.RJJCNXM
 - branch: weekly
   date: '2021-08-05'
   downloads:
@@ -809,15 +809,15 @@
     android: '11.0'
     miui: V12.5.1.0.RJAMIXM
 - branch: stable
-  date: '2021-08-10'
+  date: '2021-08-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-11.08.2021/fw_cmi_miui_CMI_V12.5.6.0.RJACNXM_757110f985_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMI_V12.5.6.0.RJACNXM_757110f985_11.0.zip
-  filename: fw_cmi_miui_CMI_V12.5.6.0.RJACNXM_757110f985_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-18.08.2021/fw_cmi_miui_CMI_V12.5.7.0.RJACNXM_e895dd1b1a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMI_V12.5.7.0.RJACNXM_e895dd1b1a_11.0.zip
+  filename: fw_cmi_miui_CMI_V12.5.7.0.RJACNXM_e895dd1b1a_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RJACNXM
+    miui: V12.5.7.0.RJACNXM
 - branch: weekly
   date: '2021-08-05'
   downloads:
@@ -3409,15 +3409,15 @@
     android: '11.0'
     miui: V12.5.2.0.RJBMIXM
 - branch: stable
-  date: '2021-08-11'
+  date: '2021-08-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-11.08.2021/fw_umi_miui_UMI_V12.5.6.0.RJBCNXM_2977459804_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMI_V12.5.6.0.RJBCNXM_2977459804_11.0.zip
-  filename: fw_umi_miui_UMI_V12.5.6.0.RJBCNXM_2977459804_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-18.08.2021/fw_umi_miui_UMI_V12.5.7.0.RJBCNXM_62559c1646_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMI_V12.5.7.0.RJBCNXM_62559c1646_11.0.zip
+  filename: fw_umi_miui_UMI_V12.5.7.0.RJBCNXM_62559c1646_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RJBCNXM
+    miui: V12.5.7.0.RJBCNXM
 - branch: weekly
   date: '2021-08-05'
   downloads:
