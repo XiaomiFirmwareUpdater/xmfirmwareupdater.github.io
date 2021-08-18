@@ -52,7 +52,9 @@ permalink: /archive/miui/odin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKMCNXM</td><td>11.0</td><td>4.5 GB</td><td>2021-08-13</td><td><a href="/miui/odin/stable/V12.5.4.0.RKMCNXM/">Download</a></td></tr>
+                <tr><td>Mi MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKMCNXM</td><td>11.0</td><td>4.5 GB</td><td>2021-08-18</td><td><a href="/miui/odin/stable/V12.5.2.0.RKMCNXM/">Download</a></td></tr>
+<tr><td>Mi MIX 4 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKMCNXM</td><td>11.0</td><td>6.2 GB</td><td>2021-07-28</td><td><a href="/miui/odin/stable/V12.5.2.0.RKMCNXM/">Download</a></td></tr>
+<tr><td>Mi MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKMCNXM</td><td>11.0</td><td>4.5 GB</td><td>2021-08-13</td><td><a href="/miui/odin/stable/V12.5.4.0.RKMCNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 4 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKMCNXM</td><td>11.0</td><td>6.2 GB</td><td>2021-08-10</td><td><a href="/miui/odin/stable/V12.5.4.0.RKMCNXM/">Download</a></td></tr>
 
                 </tbody>
