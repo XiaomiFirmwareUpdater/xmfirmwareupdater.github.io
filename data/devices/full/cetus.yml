@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-08-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-18.08.2021/fw_cetus_miui_CETUS_V12.0.21.0.RJTCNXM_88269eae6e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.0.21.0.RJTCNXM_88269eae6e_11.0.zip
+  filename: fw_cetus_miui_CETUS_V12.0.21.0.RJTCNXM_88269eae6e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.21.0.RJTCNXM
+- branch: stable
   date: '2021-07-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-14.07.2021/fw_cetus_miui_CETUS_V12.0.19.0.RJTCNXM_21022a4a29_11.0.zip
