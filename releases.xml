@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 19 Aug 2021 01:55:54 +0900</pubDate>
+  <pubDate>Thu, 19 Aug 2021 13:57:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10 (selene) - V12.5.4.0.RKUMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Thu, 19 Aug 2021 13:57:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi A3 (laurel) - V12.0.13.0.RFQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
+    <pubDate>Thu, 19 Aug 2021 13:38:44 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V12.5.7.0.RJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -95,16 +105,6 @@
     <title>Mi Pad 5 (nabu) - V12.5.7.0.RKXCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
     <pubDate>Sat, 14 Aug 2021 02:24:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.11.0.QJQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Sat, 14 Aug 2021 01:53:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Pad 5 Pro 5G (enuma) - V12.5.1.0.RKZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/enuma</link>
-    <pubDate>Sat, 14 Aug 2021 01:51:51 +0900</pubDate>
   </item>
     </channel>
 </rss>

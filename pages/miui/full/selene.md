@@ -1,15 +1,15 @@
 ---
-title: Mi A3 (laurel) MIUI Downloads
+title: Redmi 10 (selene) MIUI Downloads
 layout: download
-name: Mi A3
-codename: laurel
-permalink: /miui/laurel/
+name: Redmi 10
+codename: selene
+permalink: /archive/miui/selene/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/laurel/">Mi A3</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/selene/">Redmi 10</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /miui/laurel/
     </button>
 </div>
 
-### Latest MIUI Official ROMs
+### MIUI Official ROMs Archive
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/laurel/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/laurel/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/laurel/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/miui/selene/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/selene/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/selene/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,8 @@ permalink: /miui/laurel/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi A3 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.10.0.RFQEUXM</td><td>11.0</td><td>2.3 GB</td><td>2021-07-29</td><td><a href="/miui/laurel/stable/V12.0.10.0.RFQEUXM/">Download</a></td></tr>
-<tr><td>Mi A3 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.10.0.RFQEUXM</td><td>11.0</td><td>1.4 GB</td><td>2021-08-03</td><td><a href="/miui/laurel/stable/V12.0.10.0.RFQEUXM/">Download</a></td></tr>
-<tr><td>Mi A3 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.13.0.RFQMIXM</td><td>11.0</td><td>2.4 GB</td><td>2021-08-10</td><td><a href="/miui/laurel/stable/V12.0.13.0.RFQMIXM/">Download</a></td></tr>
-<tr><td>Mi A3 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.13.0.RFQMIXM</td><td>11.0</td><td>1.5 GB</td><td>2021-08-19</td><td><a href="/miui/laurel/stable/V12.0.13.0.RFQMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 10 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKUMIXM</td><td>11.0</td><td>2.3 GB</td><td>2021-08-19</td><td><a href="/miui/selene/stable/V12.5.4.0.RKUMIXM/">Download</a></td></tr>
+<tr><td>Redmi 10 Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKUMIXM</td><td>11.0</td><td>5.1 GB</td><td>2021-08-03</td><td><a href="/miui/selene/stable/V12.5.4.0.RKUMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

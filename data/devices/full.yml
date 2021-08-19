@@ -19339,6 +19339,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-19.08.2021/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.13.0.RFQMIXM_eb45561a4f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.13.0.RFQMIXM_eb45561a4f_11.0.zip
+  filename: fw_laurel_miui_LAURELSPROUTGlobal_V12.0.13.0.RFQMIXM_eb45561a4f_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.13.0.RFQMIXM
+- branch: stable
   date: '2021-08-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-03.08.2021/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.10.0.RFQEUXM_a6b92ecc08_11.0.zip
@@ -34548,6 +34558,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-19.08.2021/fw_selene_miui_SELENEGlobal_V12.5.4.0.RKUMIXM_85d19384ef_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEGlobal_V12.5.4.0.RKUMIXM_85d19384ef_11.0.zip
+  filename: fw_selene_miui_SELENEGlobal_V12.5.4.0.RKUMIXM_85d19384ef_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKUMIXM
 - branch: stable
   date: '2021-06-28'
   downloads:
