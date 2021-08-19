@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/weekly-19.08.2021/fw_grus_miui_GRUS_21.8.18_259459c1cd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/grus/fw_grus_miui_GRUS_21.8.18_259459c1cd_11.0.zip
+  filename: fw_grus_miui_GRUS_21.8.18_259459c1cd_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.18
+- branch: weekly
   date: '2021-08-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/weekly-05.08.2021/fw_grus_miui_GRUS_21.8.4_1294be6e7b_11.0.zip

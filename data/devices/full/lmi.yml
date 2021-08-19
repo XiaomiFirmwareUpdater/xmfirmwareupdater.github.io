@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-19.08.2021/fw_lmi_miui_LMI_21.8.18_7cc58e567e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/lmi/fw_lmi_miui_LMI_21.8.18_7cc58e567e_11.0.zip
+  filename: fw_lmi_miui_LMI_21.8.18_7cc58e567e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.18
 - branch: stable
   date: '2021-08-18'
   downloads:
