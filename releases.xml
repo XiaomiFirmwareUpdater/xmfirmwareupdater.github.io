@@ -1,11 +1,56 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 20 Aug 2021 01:46:05 +0900</pubDate>
+  <pubDate>Fri, 20 Aug 2021 03:35:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10S (thyme) - 21.8.18</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Fri, 20 Aug 2021 03:35:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - 21.8.18</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellia</link>
+    <pubDate>Fri, 20 Aug 2021 03:29:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.8.18</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Fri, 20 Aug 2021 03:27:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 21.8.18</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
+    <pubDate>Fri, 20 Aug 2021 03:21:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - 21.8.18</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 20 Aug 2021 03:19:41 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.8.18</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 20 Aug 2021 03:13:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G/Mi 11 Lite 5G Japan (renoir) - 21.8.18</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Fri, 20 Aug 2021 03:07:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - 21.8.18</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Fri, 20 Aug 2021 03:02:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.8.18</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Fri, 20 Aug 2021 03:00:18 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 (mojito) - V12.5.1.0.RKGINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
@@ -60,51 +105,6 @@
     <title>Mi 10 Ultra (cas) - V12.5.5.0.RJJCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
     <pubDate>Thu, 19 Aug 2021 01:45:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.4.0.RJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 19 Aug 2021 01:40:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.5.6.0.RKHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Thu, 19 Aug 2021 01:35:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 4 (odin) - V12.5.2.0.RKMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
-    <pubDate>Wed, 18 Aug 2021 20:06:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.5.4.0.RJKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Wed, 18 Aug 2021 19:30:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX Fold (cetus) - V12.0.21.0.RJTCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cetus</link>
-    <pubDate>Wed, 18 Aug 2021 14:17:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.5.2.0.RJKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Tue, 17 Aug 2021 19:20:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Pad 5 Pro Wi-Fi (elish) - V12.5.8.0.RKYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
-    <pubDate>Tue, 17 Aug 2021 01:38:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8T (willow) - V12.0.2.0.RCXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
-    <pubDate>Mon, 16 Aug 2021 19:46:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.2.0.RFKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Mon, 16 Aug 2021 19:44:51 +0900</pubDate>
   </item>
     </channel>
 </rss>
