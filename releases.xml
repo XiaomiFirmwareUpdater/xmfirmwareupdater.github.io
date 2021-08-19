@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 19 Aug 2021 20:10:56 +0900</pubDate>
+  <pubDate>Fri, 20 Aug 2021 01:46:05 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 (mojito) - V12.5.1.0.RKGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
+    <pubDate>Fri, 20 Aug 2021 01:46:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V12.5.1.0.RCOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Fri, 20 Aug 2021 01:24:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 4G (courbet) - V12.5.2.0.RKQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
+    <pubDate>Fri, 20 Aug 2021 01:21:22 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 (venus) - V12.5.11.0.RKBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
@@ -90,21 +105,6 @@
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.2.0.RFKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Mon, 16 Aug 2021 19:44:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite (monet) - V12.5.2.0.RJIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
-    <pubDate>Mon, 16 Aug 2021 19:43:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.0.10.0.RKSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
-    <pubDate>Mon, 16 Aug 2021 19:41:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.9.0.QCREUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Mon, 16 Aug 2021 07:13:51 +0900</pubDate>
   </item>
     </channel>
 </rss>

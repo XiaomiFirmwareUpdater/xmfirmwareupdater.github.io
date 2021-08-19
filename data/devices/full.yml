@@ -10519,6 +10519,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
 - branch: stable
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-19.08.2021/fw_courbet_miui_COURBETINGlobal_V12.5.2.0.RKQINXM_ab17538bd0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETINGlobal_V12.5.2.0.RKQINXM_ab17538bd0_11.0.zip
+  filename: fw_courbet_miui_COURBETINGlobal_V12.5.2.0.RKQINXM_ab17538bd0_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKQINXM
+- branch: stable
   date: '2021-08-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-10.08.2021/fw_courbet_miui_COURBETGlobal_V12.5.4.0.RKQMIXM_d2bca4def4_11.0.zip
@@ -15448,6 +15458,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-19.08.2021/fw_ginkgo_miui_GINKGO_V12.5.1.0.RCOCNXM_474fdd5c54_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGO_V12.5.1.0.RCOCNXM_474fdd5c54_11.0.zip
+  filename: fw_ginkgo_miui_GINKGO_V12.5.1.0.RCOCNXM_474fdd5c54_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RCOCNXM
 - branch: weekly
   date: '2021-08-05'
   downloads:
@@ -23148,6 +23168,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-19.08.2021/fw_mojito_miui_MOJITOINGlobal_V12.5.1.0.RKGINXM_7fae93a7e8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOINGlobal_V12.5.1.0.RKGINXM_7fae93a7e8_11.0.zip
+  filename: fw_mojito_miui_MOJITOINGlobal_V12.5.1.0.RKGINXM_7fae93a7e8_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RKGINXM
 - branch: stable
   date: '2021-08-04'
   downloads:
