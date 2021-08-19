@@ -2009,15 +2009,15 @@
     android: '11.0'
     miui: V12.5.2.0.RJOCNXM
 - branch: stable
-  date: '2021-06-28'
+  date: '2021-08-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-28.06.2021/fw_merlin_miui_MERLINEEAGlobal_V12.0.1.0.RJOEUXM_475b1129cd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINEEAGlobal_V12.0.1.0.RJOEUXM_475b1129cd_11.0.zip
-  filename: fw_merlin_miui_MERLINEEAGlobal_V12.0.1.0.RJOEUXM_475b1129cd_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-19.08.2021/fw_merlin_miui_MERLINEEAGlobal_V12.5.1.0.RJOEUXM_f8ac7297c8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINEEAGlobal_V12.5.1.0.RJOEUXM_f8ac7297c8_11.0.zip
+  filename: fw_merlin_miui_MERLINEEAGlobal_V12.5.1.0.RJOEUXM_f8ac7297c8_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.1.0.RJOEUXM
+    miui: V12.5.1.0.RJOEUXM
 - branch: stable
   date: '2021-08-04'
   downloads:
@@ -3509,15 +3509,15 @@
     android: '11.0'
     miui: V12.5.3.0.RJUMIXM
 - branch: stable
-  date: '2021-05-27'
+  date: '2021-08-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-27.05.2021/fw_vayu_miui_VAYUEEAGlobal_V12.5.1.0.RJUEUXM_8f1ef5258e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUEEAGlobal_V12.5.1.0.RJUEUXM_8f1ef5258e_11.0.zip
-  filename: fw_vayu_miui_VAYUEEAGlobal_V12.5.1.0.RJUEUXM_8f1ef5258e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-19.08.2021/fw_vayu_miui_VAYUEEAGlobal_V12.5.2.0.RJUEUXM_f042fd8556_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUEEAGlobal_V12.5.2.0.RJUEUXM_f042fd8556_11.0.zip
+  filename: fw_vayu_miui_VAYUEEAGlobal_V12.5.2.0.RJUEUXM_f042fd8556_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RJUEUXM
+    miui: V12.5.2.0.RJUEUXM
 - branch: stable
   date: '2021-07-06'
   downloads:
@@ -3559,15 +3559,15 @@
     android: '11.0'
     miui: V12.5.4.0.RKBMIXM
 - branch: stable
-  date: '2021-08-11'
+  date: '2021-08-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-11.08.2021/fw_venus_miui_VENUS_V12.5.10.0.RKBCNXM_50a37d53e4_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUS_V12.5.10.0.RKBCNXM_50a37d53e4_11.0.zip
-  filename: fw_venus_miui_VENUS_V12.5.10.0.RKBCNXM_50a37d53e4_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-19.08.2021/fw_venus_miui_VENUS_V12.5.11.0.RKBCNXM_e733358a24_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUS_V12.5.11.0.RKBCNXM_e733358a24_11.0.zip
+  filename: fw_venus_miui_VENUS_V12.5.11.0.RKBCNXM_e733358a24_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.10.0.RKBCNXM
+    miui: V12.5.11.0.RKBCNXM
 - branch: weekly
   date: '2021-08-12'
   downloads:
