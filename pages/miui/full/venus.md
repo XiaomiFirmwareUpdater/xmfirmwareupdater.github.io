@@ -54,6 +54,7 @@ permalink: /archive/miui/venus/
                 <tbody>
                 <tr><td>Mi 11 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.11.0.RKBCNXM</td><td>11.0</td><td>4.2 GB</td><td>2021-08-19</td><td><a href="/miui/venus/stable beta/V12.5.11.0.RKBCNXM/">Download</a></td></tr>
 <tr><td>Mi 11 China</td><td>Weekly</td><td>Recovery</td><td>21.8.18</td><td>11.0</td><td>4.5 GB</td><td>2021-08-19</td><td><a href="/miui/venus/weekly/21.8.18/">Download</a></td></tr>
+<tr><td>Mi 11 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RKBEUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-08-14</td><td><a href="/miui/venus/stable beta/V12.5.4.0.RKBEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 China</td><td>Weekly</td><td>Recovery</td><td>21.8.11</td><td>11.0</td><td>4.5 GB</td><td>2021-08-12</td><td><a href="/miui/venus/weekly/21.8.11/">Download</a></td></tr>
 <tr><td>Mi 11 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.10.0.RKBCNXM</td><td>11.0</td><td>4.3 GB</td><td>2021-08-10</td><td><a href="/miui/venus/stable beta/V12.5.10.0.RKBCNXM/">Download</a></td></tr>
 <tr><td>Mi 11 China</td><td>Weekly</td><td>Recovery</td><td>21.8.4</td><td>11.0</td><td>4.5 GB</td><td>2021-08-05</td><td><a href="/miui/venus/weekly/21.8.4/">Download</a></td></tr>
@@ -97,12 +98,12 @@ permalink: /archive/miui/venus/
 <tr><td>Mi 11 China</td><td>Weekly</td><td>Recovery</td><td>21.4.21</td><td>11.0</td><td>4.1 GB</td><td>2021-04-22</td><td><a href="/miui/venus/weekly/21.4.21/">Download</a></td></tr>
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RKBTWXM</td><td>11.0</td><td>3.1 GB</td><td>2021-04-16</td><td><a href="/miui/venus/stable/V12.0.1.0.RKBTWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RKBTWXM</td><td>11.0</td><td>4.4 GB</td><td>2021-03-09</td><td><a href="/miui/venus/stable/V12.0.1.0.RKBTWXM/">Download</a></td></tr>
-<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKBIDXM</td><td>11.0</td><td>3.1 GB</td><td>2021-04-16</td><td><a href="/miui/venus/stable/V12.0.3.0.RKBIDXM/">Download</a></td></tr>
-<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKBIDXM</td><td>11.0</td><td>5.0 GB</td><td>2021-03-06</td><td><a href="/miui/venus/stable/V12.0.3.0.RKBIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKBTWXM</td><td>11.0</td><td>3.2 GB</td><td>2021-05-25</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBTWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKBTWXM</td><td>11.0</td><td>4.6 GB</td><td>2021-05-08</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBTWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKBMIXM</td><td>11.0</td><td>3.3 GB</td><td>2021-05-10</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKBMIXM</td><td>11.0</td><td>5.8 GB</td><td>2021-04-23</td><td><a href="/miui/venus/stable/V12.5.1.0.RKBMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RKBIDXM</td><td>11.0</td><td>3.1 GB</td><td>2021-04-16</td><td><a href="/miui/venus/stable/V12.0.3.0.RKBIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RKBIDXM</td><td>11.0</td><td>5.0 GB</td><td>2021-03-06</td><td><a href="/miui/venus/stable/V12.0.3.0.RKBIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 China</td><td>Weekly</td><td>Recovery</td><td>21.4.14</td><td>11.0</td><td>4.1 GB</td><td>2021-04-15</td><td><a href="/miui/venus/weekly/21.4.14/">Download</a></td></tr>
 <tr><td>Mi 11 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RKBTRXM</td><td>11.0</td><td>3.2 GB</td><td>2021-04-14</td><td><a href="/miui/venus/stable/V12.0.2.0.RKBTRXM/">Download</a></td></tr>
 <tr><td>Mi 11 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RKBTRXM</td><td>11.0</td><td>4.7 GB</td><td>2021-03-23</td><td><a href="/miui/venus/stable/V12.0.2.0.RKBTRXM/">Download</a></td></tr>
@@ -124,9 +125,9 @@ permalink: /archive/miui/venus/
 <tr><td>Mi 11 China</td><td>Weekly</td><td>Recovery</td><td>21.3.17</td><td>11.0</td><td>4.1 GB</td><td>2021-03-18</td><td><a href="/miui/venus/weekly/21.3.17/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.9.0.RKBEUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-03-17</td><td><a href="/miui/venus/stable/V12.0.9.0.RKBEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.9.0.RKBEUXM</td><td>11.0</td><td>5.5 GB</td><td>2021-03-07</td><td><a href="/miui/venus/stable/V12.0.9.0.RKBEUXM/">Download</a></td></tr>
-<tr><td>Mi 11 China</td><td>Weekly</td><td>Recovery</td><td>21.3.11</td><td>11.0</td><td>4.1 GB</td><td>2021-03-11</td><td><a href="/miui/venus/weekly/21.3.11/">Download</a></td></tr>
 <tr><td>Mi 11 China</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKBCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-04-24</td><td><a href="/miui/venus/stable/V12.5.5.0.RKBCNXM/">Download</a></td></tr>
 <tr><td>Mi 11 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RKBCNXM</td><td>11.0</td><td>5.4 GB</td><td>2021-04-23</td><td><a href="/miui/venus/stable/V12.5.5.0.RKBCNXM/">Download</a></td></tr>
+<tr><td>Mi 11 China</td><td>Weekly</td><td>Recovery</td><td>21.3.11</td><td>11.0</td><td>4.1 GB</td><td>2021-03-11</td><td><a href="/miui/venus/weekly/21.3.11/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.RKBMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-03-09</td><td><a href="/miui/venus/stable/V12.0.4.0.RKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.RKBMIXM</td><td>11.0</td><td>5.4 GB</td><td>2021-03-06</td><td><a href="/miui/venus/stable/V12.0.4.0.RKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 China</td><td>Weekly</td><td>Recovery</td><td>21.3.3</td><td>11.0</td><td>4.0 GB</td><td>2021-03-04</td><td><a href="/miui/venus/weekly/21.3.3/">Download</a></td></tr>
