@@ -52,7 +52,8 @@ permalink: /archive/miui/elish/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi Pad 5 Pro Wi-Fi China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.8.0.RKYCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-08-12</td><td><a href="/miui/elish/stable beta/V12.5.8.0.RKYCNXM/">Download</a></td></tr>
+                <tr><td>Mi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKYCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-08-12</td><td><a href="/miui/elish/stable/V12.5.8.0.RKYCNXM/">Download</a></td></tr>
+<tr><td>Mi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RKYCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-08-12</td><td><a href="/miui/elish/stable/V12.5.8.0.RKYCNXM/">Download</a></td></tr>
 <tr><td>Mi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RKYCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-08-11</td><td><a href="/miui/elish/stable/V12.5.7.0.RKYCNXM/">Download</a></td></tr>
 <tr><td>Mi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RKYCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-08-04</td><td><a href="/miui/elish/stable/V12.5.7.0.RKYCNXM/">Download</a></td></tr>
 
