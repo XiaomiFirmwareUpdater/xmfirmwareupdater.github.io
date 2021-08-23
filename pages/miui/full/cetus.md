@@ -53,7 +53,8 @@ permalink: /archive/miui/cetus/
                 </thead>
                 <tbody>
                 <tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.8.11</td><td>11.0</td><td>4.1 GB</td><td>2021-08-12</td><td><a href="/miui/cetus/weekly/21.8.11/">Download</a></td></tr>
-<tr><td>Mi MIX Fold China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.21.0.RJTCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-08-10</td><td><a href="/miui/cetus/stable beta/V12.0.21.0.RJTCNXM/">Download</a></td></tr>
+<tr><td>Mi MIX Fold China</td><td>Stable</td><td>Recovery</td><td>V12.0.21.0.RJTCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-08-10</td><td><a href="/miui/cetus/stable/V12.0.21.0.RJTCNXM/">Download</a></td></tr>
+<tr><td>Mi MIX Fold China</td><td>Stable</td><td>Fastboot</td><td>V12.0.21.0.RJTCNXM</td><td>11.0</td><td>5.6 GB</td><td>2021-08-05</td><td><a href="/miui/cetus/stable/V12.0.21.0.RJTCNXM/">Download</a></td></tr>
 <tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.8.4</td><td>11.0</td><td>4.1 GB</td><td>2021-08-05</td><td><a href="/miui/cetus/weekly/21.8.4/">Download</a></td></tr>
 <tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.7.28</td><td>11.0</td><td>4.1 GB</td><td>2021-07-29</td><td><a href="/miui/cetus/weekly/21.7.28/">Download</a></td></tr>
 <tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.7.21</td><td>11.0</td><td>4.1 GB</td><td>2021-07-22</td><td><a href="/miui/cetus/weekly/21.7.21/">Download</a></td></tr>
