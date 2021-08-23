@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 23 Aug 2021 20:00:47 +0900</pubDate>
+  <pubDate>Tue, 24 Aug 2021 01:33:15 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X3 NFC (surya) - V12.5.2.0.RJGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Tue, 24 Aug 2021 01:33:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Lite (monet) - V12.5.2.0.RJIEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
+    <pubDate>Tue, 24 Aug 2021 01:25:18 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M2 (shiva) - V12.5.1.0.RJRINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
@@ -95,16 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.8.18</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Fri, 20 Aug 2021 05:12:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 21.8.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 20 Aug 2021 05:08:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.8.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 20 Aug 2021 05:05:16 +0900</pubDate>
   </item>
     </channel>
 </rss>

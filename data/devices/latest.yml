@@ -2109,15 +2109,15 @@
     android: '11.0'
     miui: V12.5.2.0.RJIMIXM
 - branch: stable
-  date: '2021-06-22'
+  date: '2021-08-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-22.06.2021/fw_monet_miui_MONETEEAGlobal_V12.5.1.0.RJIEUXM_dbadbe17a1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.5.1.0.RJIEUXM_dbadbe17a1_11.0.zip
-  filename: fw_monet_miui_MONETEEAGlobal_V12.5.1.0.RJIEUXM_dbadbe17a1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-23.08.2021/fw_monet_miui_MONETEEAGlobal_V12.5.2.0.RJIEUXM_676bcdfd61_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.5.2.0.RJIEUXM_676bcdfd61_11.0.zip
+  filename: fw_monet_miui_MONETEEAGlobal_V12.5.2.0.RJIEUXM_676bcdfd61_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RJIEUXM
+    miui: V12.5.2.0.RJIEUXM
 - branch: stable
   date: '2021-08-13'
   downloads:
@@ -3159,15 +3159,15 @@
     android: '11.0'
     miui: V12.5.1.0.RJGMIXM
 - branch: stable
-  date: '2021-05-19'
+  date: '2021-08-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-19.05.2021/fw_surya_miui_SURYAEEAGlobal_V12.0.8.0.RJGEUXM_5a1c94bd0b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.0.8.0.RJGEUXM_5a1c94bd0b_11.0.zip
-  filename: fw_surya_miui_SURYAEEAGlobal_V12.0.8.0.RJGEUXM_5a1c94bd0b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-23.08.2021/fw_surya_miui_SURYAEEAGlobal_V12.5.2.0.RJGEUXM_9246503050_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.5.2.0.RJGEUXM_9246503050_11.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V12.5.2.0.RJGEUXM_9246503050_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.8.0.RJGEUXM
+    miui: V12.5.2.0.RJGEUXM
 - branch: stable
   date: '2021-07-29'
   downloads:
