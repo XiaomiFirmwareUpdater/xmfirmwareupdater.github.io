@@ -52,9 +52,9 @@ permalink: /miui/umi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RJBCNXM</td><td>11.0</td><td>5.0 GB</td><td>2021-06-07</td><td><a href="/miui/umi/stable/V12.5.5.0.RJBCNXM/">Download</a></td></tr>
-<tr><td>Mi 10 China</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RJBCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-06-15</td><td><a href="/miui/umi/stable/V12.5.5.0.RJBCNXM/">Download</a></td></tr>
-<tr><td>Mi 10 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RJBCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-08-18</td><td><a href="/miui/umi/stable beta/V12.5.7.0.RJBCNXM/">Download</a></td></tr>
+                <tr><td>Mi 10 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RJBCNXM</td><td>11.0</td><td>4.6 GB</td><td>2021-08-13</td><td><a href="/miui/umi/stable/V12.5.7.0.RJBCNXM/">Download</a></td></tr>
+<tr><td>Mi 10 China</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RJBCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-08-18</td><td><a href="/miui/umi/stable/V12.5.7.0.RJBCNXM/">Download</a></td></tr>
+<tr><td>Mi 10 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RJBCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-08-10</td><td><a href="/miui/umi/stable beta/V12.5.6.0.RJBCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>21.8.18</td><td>11.0</td><td>4.1 GB</td><td>2021-08-19</td><td><a href="/miui/umi/weekly/21.8.18/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJBEUXM</td><td>11.0</td><td>5.2 GB</td><td>2021-07-07</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJBEUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-23</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBEUXM/">Download</a></td></tr>
@@ -66,7 +66,6 @@ permalink: /miui/umi/
 <tr><td>Mi 10 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.2.0.RJBINXM</td><td>11.0</td><td>3.0 GB</td><td>2020-12-04</td><td><a href="/miui/umi/stable beta/V12.2.2.0.RJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.2.5.0.RJBRUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-04-04</td><td><a href="/miui/umi/stable/V12.2.5.0.RJBRUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Recovery</td><td>V12.2.5.0.RJBRUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-04-13</td><td><a href="/miui/umi/stable/V12.2.5.0.RJBRUXM/">Download</a></td></tr>
-<tr><td>Mi 10 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.3.0.QJBTRXM</td><td>10.0</td><td>2.7 GB</td><td>2020-06-12</td><td><a href="/miui/umi/stable beta/V11.0.3.0.QJBTRXM/">Download</a></td></tr>
 <tr><td>Mi 10 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJBIDXM</td><td>11.0</td><td>5.1 GB</td><td>2021-07-16</td><td><a href="/miui/umi/stable/V12.5.1.0.RJBIDXM/">Download</a></td></tr>
 <tr><td>Mi 10 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJBIDXM</td><td>11.0</td><td>3.2 GB</td><td>2021-08-05</td><td><a href="/miui/umi/stable/V12.5.1.0.RJBIDXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJBINXM</td><td>11.0</td><td>3.9 GB</td><td>2021-07-07</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBINXM/">Download</a></td></tr>
@@ -74,6 +73,7 @@ permalink: /miui/umi/
 <tr><td>Mi 10 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RJBRUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-08-18</td><td><a href="/miui/umi/stable beta/V12.5.2.0.RJBRUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJBTRXM</td><td>11.0</td><td>4.6 GB</td><td>2021-08-11</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBTRXM/">Download</a></td></tr>
 <tr><td>Mi 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJBTRXM</td><td>11.0</td><td>3.3 GB</td><td>2021-08-18</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBTRXM/">Download</a></td></tr>
+<tr><td>Mi 10 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QJBTRXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-06</td><td><a href="/miui/umi/stable beta/V12.0.1.0.QJBTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -15628,6 +15628,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-08-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-23.08.2021/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.3.0.RCOEUXM_c6ad8ae9a8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.3.0.RCOEUXM_c6ad8ae9a8_11.0.zip
+  filename: fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.3.0.RCOEUXM_c6ad8ae9a8_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.3.0.RCOEUXM
 - branch: weekly
   date: '2021-08-19'
   downloads:
@@ -19078,6 +19088,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-08-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-23.08.2021/fw_lancelot_miui_LANCELOTINGlobal_V12.5.1.0.RJCINXM_5ba0da9c72_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V12.5.1.0.RJCINXM_5ba0da9c72_11.0.zip
+  filename: fw_lancelot_miui_LANCELOTINGlobal_V12.5.1.0.RJCINXM_5ba0da9c72_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJCINXM
 - branch: stable
   date: '2021-08-06'
   downloads:
@@ -24858,6 +24878,16 @@
   versions:
     android: '11.0'
     miui: V12.5.4.0.RKMCNXM
+- branch: stable
+  date: '2021-08-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olive/releases/download/stable-23.08.2021/fw_olive_miui_OLIVEGlobal_V12.5.1.0.QCNMIXM_ab0f9f2a68_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEGlobal_V12.5.1.0.QCNMIXM_ab0f9f2a68_10.0.zip
+  filename: fw_olive_miui_OLIVEGlobal_V12.5.1.0.QCNMIXM_ab0f9f2a68_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.5.1.0.QCNMIXM
 - branch: stable
   date: '2021-08-06'
   downloads:
@@ -34909,6 +34939,16 @@
     android: '11.0'
     miui: V12.5.4.0.RKUMIXM
 - branch: stable
+  date: '2021-08-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shiva/releases/download/stable-23.08.2021/fw_shiva_miui_SHIVAINGlobal_V12.5.1.0.RJRINXM_e61ffd6364_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/shiva/fw_shiva_miui_SHIVAINGlobal_V12.5.1.0.RJRINXM_e61ffd6364_11.0.zip
+  filename: fw_shiva_miui_SHIVAINGlobal_V12.5.1.0.RJRINXM_e61ffd6364_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJRINXM
+- branch: stable
   date: '2021-06-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shiva/releases/download/stable-28.06.2021/fw_shiva_miui_SHIVAINGlobal_V12.0.4.0.QJRINXM_7974829545_10.0.zip
@@ -36898,6 +36938,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: stable
+  date: '2021-08-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-23.08.2021/fw_tucana_miui_TUCANAEEAGlobal_V12.5.3.0.RFDEUXM_6bb545127e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAEEAGlobal_V12.5.3.0.RFDEUXM_6bb545127e_11.0.zip
+  filename: fw_tucana_miui_TUCANAEEAGlobal_V12.5.3.0.RFDEUXM_6bb545127e_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RFDEUXM
 - branch: weekly
   date: '2021-08-19'
   downloads:
