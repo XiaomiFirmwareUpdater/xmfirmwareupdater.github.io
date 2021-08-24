@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 24 Aug 2021 01:33:15 +0900</pubDate>
+  <pubDate>Tue, 24 Aug 2021 13:23:00 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V11.0.3.0.QFLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Tue, 24 Aug 2021 13:23:00 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V12.5.2.0.RJGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.8.18</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Fri, 20 Aug 2021 05:19:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.8.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 20 Aug 2021 05:12:59 +0900</pubDate>
   </item>
     </channel>
 </rss>

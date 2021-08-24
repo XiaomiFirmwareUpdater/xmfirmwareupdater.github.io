@@ -2359,6 +2359,16 @@
     android: '10.0'
     miui: V12.5.1.0.QFLCNXM
 - branch: stable
+  date: '2021-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_onclite/releases/download/stable-24.08.2021/fw_onc_miui_ONCLITEEEAGlobal_V11.0.3.0.QFLEUXM_e1fa92376f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/onclite/fw_onc_miui_ONCLITEEEAGlobal_V11.0.3.0.QFLEUXM_e1fa92376f_10.0.zip
+  filename: fw_onc_miui_ONCLITEEEAGlobal_V11.0.3.0.QFLEUXM_e1fa92376f_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFLEUXM
+- branch: stable
   date: '2019-11-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_oxygen/releases/download/stable-11.11.2019/fw_oxygen_miui_MIMAX2Global_V11.0.2.0.NDDMIXM_94263d6240_7.1.zip
