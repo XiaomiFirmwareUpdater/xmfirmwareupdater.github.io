@@ -9,15 +9,15 @@
     android: '11.0'
     miui: V12.5.12.0.RKLMIXM
 - branch: stable
-  date: '2021-06-29'
+  date: '2021-08-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-29.06.2021/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.8.0.RKLEUXM_b29e7c6a8a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.8.0.RKLEUXM_b29e7c6a8a_11.0.zip
-  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.8.0.RKLEUXM_b29e7c6a8a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-24.08.2021/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.10.0.RKLEUXM_db84162f3c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.10.0.RKLEUXM_db84162f3c_11.0.zip
+  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.10.0.RKLEUXM_db84162f3c_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.8.0.RKLEUXM
+    miui: V12.5.10.0.RKLEUXM
 - branch: stable
   date: '2021-07-12'
   downloads:
