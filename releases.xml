@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 25 Aug 2021 01:39:30 +0900</pubDate>
+  <pubDate>Wed, 25 Aug 2021 07:22:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.2.0.RFDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Wed, 25 Aug 2021 07:22:11 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 (2021) (biloba) - V12.5.4.0.RCUEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/biloba</link>
@@ -100,11 +105,6 @@
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.8.18</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Fri, 20 Aug 2021 05:29:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.8.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 20 Aug 2021 05:26:45 +0900</pubDate>
   </item>
     </channel>
 </rss>
