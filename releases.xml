@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 25 Aug 2021 19:40:20 +0900</pubDate>
+  <pubDate>Thu, 26 Aug 2021 01:41:44 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10S (rosemary) - V12.5.7.0.RKLINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Thu, 26 Aug 2021 01:41:44 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M2 Pro (gram) - V12.0.1.0.RJPINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gram</link>
@@ -100,11 +105,6 @@
     <title>Mi CC 9 Meitu Edition (vela) - 21.8.18</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
     <pubDate>Fri, 20 Aug 2021 05:43:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - 21.8.18</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Fri, 20 Aug 2021 05:38:51 +0900</pubDate>
   </item>
     </channel>
 </rss>
