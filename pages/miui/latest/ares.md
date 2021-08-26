@@ -54,7 +54,7 @@ permalink: /miui/ares/
                 <tbody>
                 <tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RKJCNXM</td><td>11.0</td><td>4.9 GB</td><td>2021-07-26</td><td><a href="/miui/ares/stable/V12.5.8.0.RKJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKJCNXM</td><td>11.0</td><td>3.4 GB</td><td>2021-08-02</td><td><a href="/miui/ares/stable/V12.5.8.0.RKJCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40 Gaming China</td><td>Weekly</td><td>Recovery</td><td>21.8.18</td><td>11.0</td><td>3.9 GB</td><td>2021-08-19</td><td><a href="/miui/ares/weekly/21.8.18/">Download</a></td></tr>
+<tr><td>Redmi K40 Gaming China</td><td>Weekly</td><td>Recovery</td><td>21.8.25</td><td>11.0</td><td>3.9 GB</td><td>2021-08-26</td><td><a href="/miui/ares/weekly/21.8.25/">Download</a></td></tr>
 <tr><td>POCO F3 GT India</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKJINXM</td><td>11.0</td><td>3.8 GB</td><td>2021-07-21</td><td><a href="/miui/ares/stable/V12.5.4.0.RKJINXM/">Download</a></td></tr>
 <tr><td>POCO F3 GT India</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKJINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-07-26</td><td><a href="/miui/ares/stable/V12.5.4.0.RKJINXM/">Download</a></td></tr>
 

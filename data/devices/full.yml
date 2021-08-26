@@ -3749,6 +3749,16 @@
     android: '9.0'
     miui: V10.4.4.0.PGGCNXM
 - branch: stable
+  date: '2021-08-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begoniain/releases/download/stable-26.08.2021/fw_begoniain_miui_BEGONIAININGlobal_V12.5.3.0.RGGINXM_cd8489fd26_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V12.5.3.0.RGGINXM_cd8489fd26_11.0.zip
+  filename: fw_begoniain_miui_BEGONIAININGlobal_V12.5.3.0.RGGINXM_cd8489fd26_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RGGINXM
+- branch: stable
   date: '2021-08-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begoniain/releases/download/stable-02.08.2021/fw_begoniain_miui_BEGONIAININGlobal_V12.0.6.0.QGGINXM_21ce22d804_10.0.zip
@@ -12038,6 +12048,16 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QCDMIXM
+- branch: stable
+  date: '2021-08-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/stable-26.08.2021/fw_davinci_miui_DAVINCI_V12.5.1.0.RFJCNXM_d03c1be4ec_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinci/fw_davinci_miui_DAVINCI_V12.5.1.0.RFJCNXM_d03c1be4ec_11.0.zip
+  filename: fw_davinci_miui_DAVINCI_V12.5.1.0.RFJCNXM_d03c1be4ec_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RFJCNXM
 - branch: weekly
   date: '2021-08-19'
   downloads:
@@ -18838,6 +18858,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2021-08-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-26.08.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.1.0.RJZEUXM_d88e19ab8c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.1.0.RJZEUXM_d88e19ab8c_11.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.1.0.RJZEUXM_d88e19ab8c_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJZEUXM
 - branch: stable
   date: '2021-07-30'
   downloads:
