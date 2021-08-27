@@ -1,15 +1,55 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 27 Aug 2021 07:11:57 +0900</pubDate>
+  <pubDate>Fri, 27 Aug 2021 09:10:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.8.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 27 Aug 2021 09:10:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.8.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Fri, 27 Aug 2021 08:57:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.8.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 27 Aug 2021 08:47:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.8.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 27 Aug 2021 08:32:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 21.8.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Fri, 27 Aug 2021 08:15:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.8.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Fri, 27 Aug 2021 08:04:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.8.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Fri, 27 Aug 2021 07:42:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 SE (grus) - 21.8.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Fri, 27 Aug 2021 07:33:17 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi Note 8 (ginkgo) - 21.8.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 27 Aug 2021 07:11:57 +0900</pubDate>
+    <pubDate>Fri, 27 Aug 2021 07:20:05 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.8.25</title>
@@ -65,46 +105,6 @@
     <title>Redmi 10X 5G (atom) - 21.8.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
     <pubDate>Fri, 27 Aug 2021 04:50:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 21.8.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Fri, 27 Aug 2021 04:42:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - 21.8.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
-    <pubDate>Fri, 27 Aug 2021 04:16:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 21.8.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
-    <pubDate>Fri, 27 Aug 2021 04:09:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G/Mi 11 Lite 5G Japan (renoir) - 21.8.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Fri, 27 Aug 2021 04:02:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 21.8.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Fri, 27 Aug 2021 03:50:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 21.8.26</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Fri, 27 Aug 2021 03:33:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 21.8.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Fri, 27 Aug 2021 03:15:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX 4 (odin) - 21.8.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
-    <pubDate>Fri, 27 Aug 2021 03:00:43 +0900</pubDate>
   </item>
     </channel>
 </rss>
