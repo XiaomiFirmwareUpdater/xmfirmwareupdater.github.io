@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 27 Aug 2021 16:48:03 +0900</pubDate>
+  <pubDate>Fri, 27 Aug 2021 20:43:30 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.8.25</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
+    <pubDate>Fri, 27 Aug 2021 20:43:30 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Meitu Edition (vela) - 21.8.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
@@ -25,11 +30,6 @@
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.8.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Fri, 27 Aug 2021 15:58:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.8.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 27 Aug 2021 09:10:24 +0900</pubDate>
   </item>
     <item>
     <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.8.25</title>

@@ -4752,6 +4752,12 @@
   version: 20.5.7
 - android: '11.0'
   codename: raphael
+  date: '2021-08-27'
+  download: https://bigota.d.miui.com/21.8.25/miui_RAPHAEL_21.8.25_c2020f5f39_11.0.zip
+  name: Redmi K20 Pro/Mi 9T Pro
+  version: 21.8.25
+- android: '11.0'
+  codename: raphael
   date: '2021-08-19'
   download: https://bigota.d.miui.com/21.8.18/miui_RAPHAEL_21.8.18_72c62262c6_11.0.zip
   name: Redmi K20 Pro/Mi 9T Pro
