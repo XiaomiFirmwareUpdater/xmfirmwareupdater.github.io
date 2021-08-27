@@ -4752,12 +4752,6 @@
   version: 20.5.7
 - android: '11.0'
   codename: raphael
-  date: '2021-08-27'
-  download: https://bigota.d.miui.com/21.8.25/miui_RAPHAEL_21.8.25_c2020f5f39_11.0.zip
-  name: Redmi K20 Pro/Mi 9T Pro
-  version: 21.8.25
-- android: '11.0'
-  codename: raphael
   date: '2021-08-19'
   download: https://bigota.d.miui.com/21.8.18/miui_RAPHAEL_21.8.18_72c62262c6_11.0.zip
   name: Redmi K20 Pro/Mi 9T Pro
@@ -5262,6 +5256,12 @@
   version: 21.3.31
 - android: '11.0'
   codename: tucana
+  date: '2021-08-27'
+  download: https://bigota.d.miui.com/21.8.25/miui_TUCANA_21.8.25_9c9b0a7f78_11.0.zip
+  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
+  version: 21.8.25
+- android: '11.0'
+  codename: tucana
   date: '2021-08-19'
   download: https://bigota.d.miui.com/21.8.18/miui_TUCANA_21.8.18_87a4a63112_11.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
@@ -5470,6 +5470,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_TUCANA_20.4.27_abeb5b26f5_10.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 20.4.27
+- android: '11.0'
+  codename: umi
+  date: '2021-08-27'
+  download: https://bigota.d.miui.com/21.8.25/miui_UMI_21.8.25_caf65ad192_11.0.zip
+  name: Mi 10
+  version: 21.8.25
 - android: '11.0'
   codename: umi
   date: '2021-08-19'
@@ -5790,6 +5796,12 @@
   version: 20.5.7
 - android: '11.0'
   codename: vangogh
+  date: '2021-08-27'
+  download: https://bigota.d.miui.com/21.8.25/miui_VANGOGH_21.8.25_1e417bd417_11.0.zip
+  name: Mi 10 Lite Zoom
+  version: 21.8.25
+- android: '11.0'
+  codename: vangogh
   date: '2021-08-19'
   download: https://bigota.d.miui.com/21.8.18/miui_VANGOGH_21.8.18_c72539d987_11.0.zip
   name: Mi 10 Lite Zoom
@@ -6004,6 +6016,12 @@
   download: https://bigota.d.miui.com/20.5.28/miui_VANGOGH_20.5.28_a9be7baead_10.0.zip
   name: Mi 10 Lite Zoom
   version: 20.5.28
+- android: '11.0'
+  codename: vela
+  date: '2021-08-27'
+  download: https://bigota.d.miui.com/21.8.25/miui_VELA_21.8.25_f27923052d_11.0.zip
+  name: Mi CC 9 Meitu Edition
+  version: 21.8.25
 - android: '11.0'
   codename: vela
   date: '2021-08-19'
