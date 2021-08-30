@@ -54,6 +54,7 @@ permalink: /miui/angelican/
                 <tbody>
                 <tr><td>Redmi 9C NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.QCSEUXM</td><td>10.0</td><td>4.3 GB</td><td>2021-06-08</td><td><a href="/miui/angelican/stable/V12.0.8.0.QCSEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.QCSEUXM</td><td>10.0</td><td>1.8 GB</td><td>2021-06-15</td><td><a href="/miui/angelican/stable/V12.0.8.0.QCSEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.9.0.QCSEUXM</td><td>10.0</td><td>1.8 GB</td><td>2021-08-30</td><td><a href="/miui/angelican/stable beta/V12.0.9.0.QCSEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.9.0.QCSMIXM</td><td>10.0</td><td>4.3 GB</td><td>2021-08-13</td><td><a href="/miui/angelican/stable/V12.0.9.0.QCSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Recovery</td><td>V12.0.9.0.QCSMIXM</td><td>10.0</td><td>1.8 GB</td><td>2021-08-22</td><td><a href="/miui/angelican/stable/V12.0.9.0.QCSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.10.0.QCSRUXM</td><td>10.0</td><td>3.7 GB</td><td>2021-08-12</td><td><a href="/miui/angelican/stable/V12.0.10.0.QCSRUXM/">Download</a></td></tr>
