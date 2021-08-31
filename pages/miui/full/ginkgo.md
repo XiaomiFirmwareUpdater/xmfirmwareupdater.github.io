@@ -101,8 +101,8 @@ permalink: /archive/miui/ginkgo/
 <tr><td>Redmi Note 8 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RCOCNXM</td><td>11.0</td><td>2.7 GB</td><td>2021-02-20</td><td><a href="/miui/ginkgo/stable beta/V12.0.1.0.RCOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.2.4</td><td>11.0</td><td>2.8 GB</td><td>2021-02-04</td><td><a href="/miui/ginkgo/weekly/21.2.4/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.1.28</td><td>11.0</td><td>2.8 GB</td><td>2021-01-28</td><td><a href="/miui/ginkgo/weekly/21.1.28/">Download</a></td></tr>
-<tr><td>Redmi Note 8 India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCOINXM</td><td>10.0</td><td>2.3 GB</td><td>2021-01-28</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.QCOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QCOINXM</td><td>10.0</td><td>2.7 GB</td><td>2021-01-21</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.QCOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 India</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCOINXM</td><td>10.0</td><td>2.3 GB</td><td>None</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.QCOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.1.20</td><td>11.0</td><td>405.0 MB</td><td>2021-01-21</td><td><a href="/miui/ginkgo/weekly/21.1.20/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.1.13</td><td>11.0</td><td>2.7 GB</td><td>2021-01-14</td><td><a href="/miui/ginkgo/weekly/21.1.13/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QCORUXM</td><td>10.0</td><td>2.3 GB</td><td>2021-01-14</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.QCORUXM/">Download</a></td></tr>
@@ -229,11 +229,11 @@ permalink: /archive/miui/ginkgo/
 <tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PCOMIXM</td><td>9.0</td><td>3.1 GB</td><td>2019-11-19</td><td><a href="/miui/ginkgo/stable/V11.0.3.0.PCOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Recovery</td><td>V10.3.5.0.PCOCNXM</td><td>9.0</td><td>1.9 GB</td><td>2019-09-26</td><td><a href="/miui/ginkgo/stable/V10.3.5.0.PCOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Fastboot</td><td>V10.3.5.0.PCOCNXM</td><td>9.0</td><td>2.8 GB</td><td>2019-09-24</td><td><a href="/miui/ginkgo/stable/V10.3.5.0.PCOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.2.0.PCOMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-09-23</td><td><a href="/miui/ginkgo/stable/V10.3.2.0.PCOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.2.0.PCOMIXM</td><td>9.0</td><td>2.8 GB</td><td>2019-09-13</td><td><a href="/miui/ginkgo/stable/V10.3.2.0.PCOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.PCOCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-21</td><td><a href="/miui/ginkgo/stable/V11.0.3.0.PCOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.PCOCNXM</td><td>9.0</td><td>3.1 GB</td><td>2019-11-19</td><td><a href="/miui/ginkgo/stable/V11.0.3.0.PCOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PCOCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-15</td><td><a href="/miui/ginkgo/stable/V11.0.2.0.PCOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.2.0.PCOMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-09-23</td><td><a href="/miui/ginkgo/stable/V10.3.2.0.PCOMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.2.0.PCOMIXM</td><td>9.0</td><td>2.8 GB</td><td>2019-09-13</td><td><a href="/miui/ginkgo/stable/V10.3.2.0.PCOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Recovery</td><td>V10.3.2.0.PCOCNXM</td><td>9.0</td><td>1.9 GB</td><td>2019-09-20</td><td><a href="/miui/ginkgo/stable/V10.3.2.0.PCOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Stable</td><td>Fastboot</td><td>V10.3.2.0.PCOCNXM</td><td>9.0</td><td>2.6 GB</td><td>2019-09-02</td><td><a href="/miui/ginkgo/stable/V10.3.2.0.PCOCNXM/">Download</a></td></tr>
 
