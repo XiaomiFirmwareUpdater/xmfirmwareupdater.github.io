@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 02 Sep 2021 19:36:15 +0900</pubDate>
+  <pubDate>Fri, 03 Sep 2021 01:16:51 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 10 Lite (toco) - V12.5.2.0.RFNMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
+    <pubDate>Fri, 03 Sep 2021 01:16:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/9AT (dandelion) - V12.0.16.0.QCDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Fri, 03 Sep 2021 01:13:54 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10S (rosemary) - V12.5.13.0.RKLMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
@@ -95,16 +105,6 @@
     <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.8.25</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
     <pubDate>Fri, 27 Aug 2021 08:57:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.8.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 27 Aug 2021 08:47:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.8.25</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 27 Aug 2021 08:32:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
