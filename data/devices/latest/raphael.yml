@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.5.5.0.RFKCNXM
 - branch: weekly
-  date: '2021-08-27'
+  date: '2021-09-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/weekly-27.08.2021/fw_raphael_miui_RAPHAEL_21.8.25_c2020f5f39_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.25/raphael/fw_raphael_miui_RAPHAEL_21.8.25_c2020f5f39_11.0.zip
-  filename: fw_raphael_miui_RAPHAEL_21.8.25_c2020f5f39_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/weekly-03.09.2021/fw_raphael_miui_RAPHAEL_21.9.1_4ae35f0538_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.1/raphael/fw_raphael_miui_RAPHAEL_21.9.1_4ae35f0538_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_21.9.1_4ae35f0538_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.8.25
+    miui: 21.9.1
 - branch: stable
   date: '2021-07-06'
   downloads:
