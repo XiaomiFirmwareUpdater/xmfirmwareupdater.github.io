@@ -55,7 +55,7 @@ permalink: /miui/star/
                 <tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Fastboot</td><td>V12.5.12.0.RKACNXM</td><td>11.0</td><td>5.8 GB</td><td>2021-08-05</td><td><a href="/miui/star/stable/V12.5.12.0.RKACNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.5.12.0.RKACNXM</td><td>11.0</td><td>4.3 GB</td><td>2021-08-10</td><td><a href="/miui/star/stable/V12.5.12.0.RKACNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.9.0.RKACNXM</td><td>11.0</td><td>4.3 GB</td><td>2021-06-29</td><td><a href="/miui/star/stable beta/V12.5.9.0.RKACNXM/">Download</a></td></tr>
-<tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.8.26</td><td>11.0</td><td>4.5 GB</td><td>2021-08-26</td><td><a href="/miui/star/weekly/21.8.26/">Download</a></td></tr>
+<tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.9.1</td><td>11.0</td><td>4.6 GB</td><td>2021-09-02</td><td><a href="/miui/star/weekly/21.9.1/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKAEUXM</td><td>11.0</td><td>5.9 GB</td><td>2021-06-17</td><td><a href="/miui/star/stable/V12.5.6.0.RKAEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKAEUXM</td><td>11.0</td><td>3.4 GB</td><td>2021-06-25</td><td><a href="/miui/star/stable/V12.5.6.0.RKAEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKAMIXM</td><td>11.0</td><td>5.9 GB</td><td>2021-06-11</td><td><a href="/miui/star/stable/V12.5.4.0.RKAMIXM/">Download</a></td></tr>
