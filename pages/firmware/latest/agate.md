@@ -1,7 +1,7 @@
 ---
-title: Mi 11T (agate) Firmware Downloads
+title: Xiaomi 11T (agate) Firmware Downloads
 layout: download
-name: Mi 11T
+name: Xiaomi 11T
 codename: agate
 permalink: /firmware/agate/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/agate/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/agate/">Mi 11T</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/agate/">Xiaomi 11T</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

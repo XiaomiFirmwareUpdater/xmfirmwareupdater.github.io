@@ -1,7 +1,7 @@
 ---
-title: Mi MIX 4 (odin) MIUI Downloads
+title: MIX 4 (odin) MIUI Downloads
 layout: download
-name: Mi MIX 4
+name: MIX 4
 codename: odin
 permalink: /archive/miui/odin/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/odin/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/odin/">Mi MIX 4</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/odin/">MIX 4</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

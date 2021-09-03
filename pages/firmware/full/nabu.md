@@ -1,7 +1,7 @@
 ---
-title: Mi Pad 5 (nabu) Firmware Downloads
+title: Xiaomi Pad 5 (nabu) Firmware Downloads
 layout: download
-name: Mi Pad 5
+name: Xiaomi Pad 5
 codename: nabu
 permalink: /archive/firmware/nabu/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/nabu/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/nabu/">Mi Pad 5</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/nabu/">Xiaomi Pad 5</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
