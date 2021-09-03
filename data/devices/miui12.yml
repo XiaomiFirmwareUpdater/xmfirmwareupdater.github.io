@@ -1,5 +1,11 @@
 - android: '11.0'
   codename: alioth
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.1/miui_ALIOTH_21.9.1_7148721538_11.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: 21.9.1
+- android: '11.0'
+  codename: alioth
   date: '2021-08-26'
   download: https://bigota.d.miui.com/21.8.25/miui_ALIOTH_21.8.25_4ca7264e4b_11.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -2160,6 +2166,12 @@
   version: 20.5.28
 - android: '11.0'
   codename: chopin
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.2/miui_CHOPIN_21.9.2_cd032bf99f_11.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: 21.9.2
+- android: '11.0'
+  codename: chopin
   date: '2021-08-26'
   download: https://bigota.d.miui.com/21.8.25/miui_CHOPIN_21.8.25_b72d41524e_11.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
@@ -2854,6 +2866,12 @@
   download: https://bigota.d.miui.com/20.5.7/miui_MI8_20.5.7_50340d2975_10.0.zip
   name: Mi 8
   version: 20.5.7
+- android: '11.0'
+  codename: elish
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.1/miui_ELISH_21.9.1_a635d011af_11.0.zip
+  name: Xiaomi Pad 5 Pro Wi-Fi
+  version: 21.9.1
 - android: '10.0'
   codename: equuleus
   date: '2020-09-05'
@@ -3298,6 +3316,12 @@
   download: https://bigota.d.miui.com/20.5.7/miui_GRUS_20.5.7_311b85a913_10.0.zip
   name: Mi 9 SE
   version: 20.5.7
+- android: '11.0'
+  codename: haydn
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.1/miui_HAYDN_21.9.1_f4f5ec514c_11.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: 21.9.1
 - android: '11.0'
   codename: haydn
   date: '2021-08-26'
@@ -4006,6 +4030,12 @@
   download: https://bigota.d.miui.com/20.5.28/miui_MIMAX3_20.5.28_5ab65972b1_10.0.zip
   name: Mi Max 3
   version: 20.5.28
+- android: '11.0'
+  codename: odin
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.1/miui_ODIN_21.9.1_c07ccb492a_11.0.zip
+  name: MIX 4
+  version: 21.9.1
 - android: '11.0'
   codename: odin
   date: '2021-08-26'
@@ -4938,6 +4968,12 @@
   version: 20.3.27
 - android: '11.0'
   codename: renoir
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.1/miui_RENOIR_21.9.1_05cf490184_11.0.zip
+  name: Mi 11 Lite 5G/Mi 11 Lite 5G Japan
+  version: 21.9.1
+- android: '11.0'
+  codename: renoir
   date: '2021-08-26'
   download: https://bigota.d.miui.com/21.8.25/miui_RENOIR_21.8.25_8c93cfddc0_11.0.zip
   name: Mi 11 Lite 5G/Mi 11 Lite 5G Japan
@@ -5052,6 +5088,12 @@
   version: 20.5.21
 - android: '11.0'
   codename: star
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.1/miui_STAR_21.9.1_fa273755ce_11.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: 21.9.1
+- android: '11.0'
+  codename: star
   date: '2021-08-26'
   download: https://bigota.d.miui.com/21.8.26/miui_STAR_21.8.26_854a6fed31_11.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
@@ -5152,6 +5194,12 @@
   download: https://bigota.d.miui.com/21.4.15/miui_STAR_21.4.15_8d0e8ed07d_11.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: 21.4.15
+- android: '11.0'
+  codename: thyme
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.1/miui_THYME_21.9.1_ce35f15179_11.0.zip
+  name: Mi 10S
+  version: 21.9.1
 - android: '11.0'
   codename: thyme
   date: '2021-08-26'
@@ -6130,6 +6178,12 @@
   download: https://bigota.d.miui.com/20.5.7/miui_VELA_20.5.7_7536d272a4_10.0.zip
   name: Mi CC 9 Meitu Edition
   version: 20.5.7
+- android: '11.0'
+  codename: venus
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.1/miui_VENUS_21.9.1_d9c7936fad_11.0.zip
+  name: Mi 11
+  version: 21.9.1
 - android: '11.0'
   codename: venus
   date: '2021-08-26'
