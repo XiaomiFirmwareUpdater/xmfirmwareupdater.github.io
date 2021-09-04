@@ -288,6 +288,12 @@
   version: 20.11.11
 - android: '11.0'
   codename: ares
+  date: '2021-09-04'
+  download: https://bigota.d.miui.com/21.9.2/miui_ARES_21.9.2_dc2c1fe2dc_11.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: 21.9.2
+- android: '11.0'
+  codename: ares
   date: '2021-08-26'
   download: https://bigota.d.miui.com/21.8.25/miui_ARES_21.8.25_4edc065bc1_11.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
@@ -930,6 +936,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: bomb
+  date: '2021-09-04'
+  download: https://bigota.d.miui.com/21.9.2/miui_BOMB_21.9.2_aeaad3ca4e_11.0.zip
+  name: Redmi 10X Pro
+  version: 21.9.2
+- android: '11.0'
+  codename: bomb
   date: '2021-08-26'
   download: https://bigota.d.miui.com/21.8.25/miui_BOMB_21.8.25_7f4d0d2ac3_11.0.zip
   name: Redmi 10X Pro
@@ -1276,6 +1288,12 @@
   download: https://bigota.d.miui.com/21.7.7/miui_CAMELLIA_21.7.7_af0d818d00_11.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
   version: 21.7.7
+- android: '11.0'
+  codename: cannon
+  date: '2021-09-04'
+  download: https://bigota.d.miui.com/21.9.2/miui_CANNON_21.9.2_894fbd10db_11.0.zip
+  name: Redmi Note 9 5G
+  version: 21.9.2
 - android: '11.0'
   codename: cannon
   date: '2021-08-26'
