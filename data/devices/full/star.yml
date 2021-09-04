@@ -8,36 +8,6 @@
   versions:
     android: '11.0'
     miui: 21.9.1
-- branch: weekly
-  date: '2021-08-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-26.08.2021/fw_star_miui_STAR_21.8.26_854a6fed31_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.26/star/fw_star_miui_STAR_21.8.26_854a6fed31_11.0.zip
-  filename: fw_star_miui_STAR_21.8.26_854a6fed31_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.26
-- branch: weekly
-  date: '2021-08-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-19.08.2021/fw_star_miui_STAR_21.8.18_c74cda046d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/star/fw_star_miui_STAR_21.8.18_c74cda046d_11.0.zip
-  filename: fw_star_miui_STAR_21.8.18_c74cda046d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.18
-- branch: weekly
-  date: '2021-08-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-12.08.2021/fw_star_miui_STAR_21.8.11_b130ef73a6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.11/star/fw_star_miui_STAR_21.8.11_b130ef73a6_11.0.zip
-  filename: fw_star_miui_STAR_21.8.11_b130ef73a6_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.11
 - branch: stable
   date: '2021-08-11'
   downloads:
@@ -68,16 +38,6 @@
   versions:
     android: '11.0'
     miui: 21.7.28
-- branch: weekly
-  date: '2021-07-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-22.07.2021/fw_star_miui_STAR_21.7.21_351b846cd1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/star/fw_star_miui_STAR_21.7.21_351b846cd1_11.0.zip
-  filename: fw_star_miui_STAR_21.7.21_351b846cd1_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.21
 - branch: stable
   date: '2021-07-22'
   downloads:

@@ -9,16 +9,6 @@
     android: '11.0'
     miui: 21.9.2
 - branch: weekly
-  date: '2021-08-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-26.08.2021/fw_atom_miui_ATOM_21.8.25_9eb5d87d90_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.25/atom/fw_atom_miui_ATOM_21.8.25_9eb5d87d90_11.0.zip
-  filename: fw_atom_miui_ATOM_21.8.25_9eb5d87d90_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.25
-- branch: weekly
   date: '2021-08-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-19.08.2021/fw_atom_miui_ATOM_21.8.18_22a47b0522_11.0.zip
