@@ -6210,6 +6210,12 @@
   version: 20.5.28
 - android: '11.0'
   codename: vela
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.1/miui_VELA_21.9.1_6b749c4f0b_11.0.zip
+  name: Mi CC 9 Meitu Edition
+  version: 21.9.1
+- android: '11.0'
+  codename: vela
   date: '2021-08-27'
   download: https://bigota.d.miui.com/21.8.25/miui_VELA_21.8.25_f27923052d_11.0.zip
   name: Mi CC 9 Meitu Edition
