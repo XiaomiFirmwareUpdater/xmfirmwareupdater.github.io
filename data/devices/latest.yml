@@ -1719,15 +1719,15 @@
     android: '11.0'
     miui: V12.0.11.0.RFQEUXM
 - branch: stable
-  date: '2021-04-19'
+  date: '2021-09-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-19.04.2021/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurus/fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
-  filename: fw_laurus_miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurus/releases/download/stable-06.09.2021/fw_laurus_miui_LAURUS_V12.5.2.0.QFMCNXM_f8f444c743_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurus/fw_laurus_miui_LAURUS_V12.5.2.0.QFMCNXM_f8f444c743_10.0.zip
+  filename: fw_laurus_miui_LAURUS_V12.5.2.0.QFMCNXM_f8f444c743_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.4.0.QFMCNXM
+    miui: V12.5.2.0.QFMCNXM
 - branch: weekly
   date: '2021-04-22'
   downloads:
@@ -1819,15 +1819,15 @@
     android: '10.0'
     miui: V12.0.15.0.QJQMIXM
 - branch: stable
-  date: '2021-07-07'
+  date: '2021-09-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-07.07.2021/fw_lime_miui_LIME_V12.0.3.0.RJQCNXM_dacb1297df_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIME_V12.0.3.0.RJQCNXM_dacb1297df_11.0.zip
-  filename: fw_lime_miui_LIME_V12.0.3.0.RJQCNXM_dacb1297df_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-06.09.2021/fw_lime_miui_LIME_V12.0.20.0.QJQCNXM_35b74369d8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIME_V12.0.20.0.QJQCNXM_35b74369d8_10.0.zip
+  filename: fw_lime_miui_LIME_V12.0.20.0.QJQCNXM_35b74369d8_10.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.0.3.0.RJQCNXM
+    android: '10.0'
+    miui: V12.0.20.0.QJQCNXM
 - branch: weekly
   date: '2021-09-03'
   downloads:
