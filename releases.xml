@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 06 Sep 2021 07:16:33 +0900</pubDate>
+  <pubDate>Mon, 06 Sep 2021 13:19:49 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.4.0.RFDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Mon, 06 Sep 2021 13:19:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.10.0.QJQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 06 Sep 2021 13:18:20 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.20.0.QJQCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
@@ -95,16 +105,6 @@
     <title>Mi 9 SE (grus) - 21.9.1</title>
     <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
     <pubDate>Sat, 04 Sep 2021 06:07:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 21.9.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Sat, 04 Sep 2021 06:02:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.9.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Sat, 04 Sep 2021 05:57:32 +0900</pubDate>
   </item>
     </channel>
 </rss>
