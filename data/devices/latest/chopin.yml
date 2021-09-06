@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-08-02'
+  date: '2021-09-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-02.08.2021/fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
-  filename: fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-06.09.2021/fw_chopin_miui_CHOPINGlobal_V12.5.5.0.RKPMIXM_065f6df843_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPINGlobal_V12.5.5.0.RKPMIXM_065f6df843_11.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V12.5.5.0.RKPMIXM_065f6df843_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RKPMIXM
+    miui: V12.5.5.0.RKPMIXM
 - branch: stable
   date: '2021-08-30'
   downloads:
