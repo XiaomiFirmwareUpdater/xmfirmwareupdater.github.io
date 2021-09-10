@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-09-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-10.09.2021/fw_selene_miui_SELENEINGlobal_V12.5.1.0.RKUINXM_d0fa4537e7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEINGlobal_V12.5.1.0.RKUINXM_d0fa4537e7_11.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V12.5.1.0.RKUINXM_d0fa4537e7_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RKUINXM
+- branch: stable
   date: '2021-09-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-07.09.2021/fw_selene_miui_SELENEGlobal_V12.5.5.0.RKUMIXM_01054f7373_11.0.zip
