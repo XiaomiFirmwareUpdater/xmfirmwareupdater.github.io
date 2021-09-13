@@ -55,9 +55,8 @@ permalink: /miui/renoir/
                 <tr><td>Mi 11 Lite 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKICNXM</td><td>11.0</td><td>5.3 GB</td><td>2021-06-23</td><td><a href="/miui/renoir/stable/V12.5.3.0.RKICNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKICNXM</td><td>11.0</td><td>4.0 GB</td><td>2021-07-01</td><td><a href="/miui/renoir/stable/V12.5.3.0.RKICNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.8</td><td>11.0</td><td>4.5 GB</td><td>2021-09-09</td><td><a href="/miui/renoir/weekly/21.9.8/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKIEUXM</td><td>11.0</td><td>5.8 GB</td><td>2021-06-30</td><td><a href="/miui/renoir/stable/V12.5.3.0.RKIEUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKIEUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-06</td><td><a href="/miui/renoir/stable/V12.5.3.0.RKIEUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKIEUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-09-04</td><td><a href="/miui/renoir/stable beta/V12.5.5.0.RKIEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RKIEUXM</td><td>11.0</td><td>6.0 GB</td><td>2021-08-25</td><td><a href="/miui/renoir/stable/V12.5.5.0.RKIEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKIEUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-09-04</td><td><a href="/miui/renoir/stable/V12.5.5.0.RKIEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RKIMIXM</td><td>11.0</td><td>5.9 GB</td><td>2021-08-05</td><td><a href="/miui/renoir/stable/V12.5.5.0.RKIMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Global</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKIMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-08-07</td><td><a href="/miui/renoir/stable/V12.5.5.0.RKIMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKIJPXM</td><td>11.0</td><td>5.8 GB</td><td>2021-07-11</td><td><a href="/miui/renoir/stable/V12.5.2.0.RKIJPXM/">Download</a></td></tr>
@@ -67,6 +66,7 @@ permalink: /miui/renoir/
 <tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKIRUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-09-03</td><td><a href="/miui/renoir/stable/V12.5.3.0.RKIRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKITWXM</td><td>11.0</td><td>4.5 GB</td><td>2021-07-01</td><td><a href="/miui/renoir/stable/V12.5.2.0.RKITWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKITWXM</td><td>11.0</td><td>3.1 GB</td><td>2021-07-08</td><td><a href="/miui/renoir/stable/V12.5.2.0.RKITWXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKITWXM</td><td>11.0</td><td>3.2 GB</td><td>2021-09-13</td><td><a href="/miui/renoir/stable beta/V12.5.3.0.RKITWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
