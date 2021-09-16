@@ -52,7 +52,8 @@ permalink: /archive/miui/cezanne/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.9.8</td><td>11.0</td><td>3.8 GB</td><td>2021-09-09</td><td><a href="/miui/cezanne/weekly/21.9.8/">Download</a></td></tr>
+                <tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.9.15</td><td>11.0</td><td>3.8 GB</td><td>2021-09-16</td><td><a href="/miui/cezanne/weekly/21.9.15/">Download</a></td></tr>
+<tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.9.8</td><td>11.0</td><td>3.8 GB</td><td>2021-09-09</td><td><a href="/miui/cezanne/weekly/21.9.8/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.9.2</td><td>11.0</td><td>3.8 GB</td><td>2021-09-03</td><td><a href="/miui/cezanne/weekly/21.9.2/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.8.25</td><td>11.0</td><td>3.7 GB</td><td>2021-08-26</td><td><a href="/miui/cezanne/weekly/21.8.25/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.8.18</td><td>11.0</td><td>3.7 GB</td><td>2021-08-19</td><td><a href="/miui/cezanne/weekly/21.8.18/">Download</a></td></tr>
