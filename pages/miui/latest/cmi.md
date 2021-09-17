@@ -61,7 +61,7 @@ permalink: /miui/cmi/
 <tr><td>Mi 10 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.3.0.RJAEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-01-20</td><td><a href="/miui/cmi/stable beta/V12.2.3.0.RJAEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJAMIXM</td><td>11.0</td><td>5.1 GB</td><td>2021-05-17</td><td><a href="/miui/cmi/stable/V12.5.1.0.RJAMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJAMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-06-03</td><td><a href="/miui/cmi/stable/V12.5.1.0.RJAMIXM/">Download</a></td></tr>
-<tr><td>Mi 10 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.2.0.RJAMIXM</td><td>11.0</td><td>2.9 GB</td><td>2020-09-08</td><td><a href="/miui/cmi/stable beta/V12.1.2.0.RJAMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RJAMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-09-14</td><td><a href="/miui/cmi/stable beta/V12.5.2.0.RJAMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

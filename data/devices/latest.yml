@@ -149,15 +149,15 @@
     android: '10.0'
     miui: V12.0.9.0.QCSEUXM
 - branch: stable
-  date: '2021-08-13'
+  date: '2021-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-13.08.2021/fw_apollo_miui_APOLLOGlobal_V12.5.2.0.RJDMIXM_d573addb51_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOGlobal_V12.5.2.0.RJDMIXM_d573addb51_11.0.zip
-  filename: fw_apollo_miui_APOLLOGlobal_V12.5.2.0.RJDMIXM_d573addb51_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-17.09.2021/fw_apollo_miui_APOLLOGlobal_V12.5.4.0.RJDMIXM_decdd45c29_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOGlobal_V12.5.4.0.RJDMIXM_decdd45c29_11.0.zip
+  filename: fw_apollo_miui_APOLLOGlobal_V12.5.4.0.RJDMIXM_decdd45c29_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RJDMIXM
+    miui: V12.5.4.0.RJDMIXM
 - branch: stable
   date: '2021-09-09'
   downloads:
@@ -819,15 +819,15 @@
     android: '8.1'
     miui: 9.8.29
 - branch: stable
-  date: '2021-07-02'
+  date: '2021-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-02.07.2021/fw_cmi_miui_CMIGlobal_V12.5.1.0.RJAMIXM_b6116c85af_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIGlobal_V12.5.1.0.RJAMIXM_b6116c85af_11.0.zip
-  filename: fw_cmi_miui_CMIGlobal_V12.5.1.0.RJAMIXM_b6116c85af_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-17.09.2021/fw_cmi_miui_CMIGlobal_V12.5.2.0.RJAMIXM_b157ae69b4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIGlobal_V12.5.2.0.RJAMIXM_b157ae69b4_11.0.zip
+  filename: fw_cmi_miui_CMIGlobal_V12.5.2.0.RJAMIXM_b157ae69b4_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RJAMIXM
+    miui: V12.5.2.0.RJAMIXM
 - branch: stable
   date: '2021-09-13'
   downloads:
