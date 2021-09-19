@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 19 Sep 2021 19:18:00 +0900</pubDate>
+  <pubDate>Mon, 20 Sep 2021 01:15:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - V12.1.1.0.RFJEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Mon, 20 Sep 2021 01:15:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.5.3.0.RJKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.9.15</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Fri, 17 Sep 2021 01:48:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 21.9.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 17 Sep 2021 01:45:17 +0900</pubDate>
   </item>
     </channel>
 </rss>

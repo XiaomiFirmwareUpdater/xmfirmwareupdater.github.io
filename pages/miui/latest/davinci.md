@@ -58,6 +58,7 @@ permalink: /miui/davinci/
 <tr><td>Redmi K20 China</td><td>Weekly</td><td>Recovery</td><td>21.9.15</td><td>11.0</td><td>2.7 GB</td><td>2021-09-16</td><td><a href="/miui/davinci/weekly/21.9.15/">Download</a></td></tr>
 <tr><td>Mi 9T EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QFJEUXM</td><td>10.0</td><td>3.1 GB</td><td>2021-04-16</td><td><a href="/miui/davinci/stable/V12.0.5.0.QFJEUXM/">Download</a></td></tr>
 <tr><td>Mi 9T EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QFJEUXM</td><td>10.0</td><td>2.5 GB</td><td>2021-04-21</td><td><a href="/miui/davinci/stable/V12.0.5.0.QFJEUXM/">Download</a></td></tr>
+<tr><td>Mi 9T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.1.0.RFJEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-09-16</td><td><a href="/miui/davinci/stable beta/V12.1.1.0.RFJEUXM/">Download</a></td></tr>
 <tr><td>Mi 9T Global</td><td>Stable</td><td>Fastboot</td><td>V12.1.4.0.RFJMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-27</td><td><a href="/miui/davinci/stable/V12.1.4.0.RFJMIXM/">Download</a></td></tr>
 <tr><td>Mi 9T Global</td><td>Stable</td><td>Recovery</td><td>V12.1.4.0.RFJMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-08-06</td><td><a href="/miui/davinci/stable/V12.1.4.0.RFJMIXM/">Download</a></td></tr>
 <tr><td>Mi 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.2.0.RFJMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-05-28</td><td><a href="/miui/davinci/stable beta/V12.1.2.0.RFJMIXM/">Download</a></td></tr>

@@ -12598,6 +12598,16 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QCDMIXM
+- branch: stable
+  date: '2021-09-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/stable-19.09.2021/fw_davinci_miui_DAVINCIEEAGlobal_V12.1.1.0.RFJEUXM_2acd940e23_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/davinci/fw_davinci_miui_DAVINCIEEAGlobal_V12.1.1.0.RFJEUXM_2acd940e23_11.0.zip
+  filename: fw_davinci_miui_DAVINCIEEAGlobal_V12.1.1.0.RFJEUXM_2acd940e23_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.1.1.0.RFJEUXM
 - branch: weekly
   date: '2021-09-16'
   downloads:
