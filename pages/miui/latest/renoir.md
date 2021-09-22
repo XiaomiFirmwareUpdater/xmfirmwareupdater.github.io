@@ -1,7 +1,7 @@
 ---
-title: Mi 11 Lite 5G/Mi 11 Lite 5G Japan (renoir) MIUI Downloads
+title: Mi 11 Lite 5G (renoir) MIUI Downloads
 layout: download
-name: Mi 11 Lite 5G/Mi 11 Lite 5G Japan
+name: Mi 11 Lite 5G
 codename: renoir
 permalink: /miui/renoir/
 ---
@@ -9,7 +9,7 @@ permalink: /miui/renoir/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/renoir/">Mi 11 Lite 5G/Mi 11 Lite 5G Japan</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/renoir/">Mi 11 Lite 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

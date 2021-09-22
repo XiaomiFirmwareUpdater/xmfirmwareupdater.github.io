@@ -1,7 +1,7 @@
 ---
-title: Xiaomi 11T Pro/Xiaomi 11T Pro Japan (vili) Firmware Downloads
+title: Xiaomi 11T Pro (vili) Firmware Downloads
 layout: download
-name: Xiaomi 11T Pro/Xiaomi 11T Pro Japan
+name: Xiaomi 11T Pro
 codename: vili
 permalink: /firmware/vili/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/vili/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/vili/">Xiaomi 11T Pro/Xiaomi 11T Pro Japan</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/vili/">Xiaomi 11T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
