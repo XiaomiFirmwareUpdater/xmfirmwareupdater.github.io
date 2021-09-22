@@ -20,7 +20,7 @@ from database.firmware import get_all_updates
 HEADER = {'Authorization': f'token {environ["GIT_OAUTH_TOKEN_XFU"]}'}
 VARIANTS = [['stable', 'Global'], ['stable', 'China'], ['weekly', 'Global'], ['weekly', 'China'],
             ['stable', 'Europe'], ['stable', 'India'], ['stable', 'Russia']]
-REGIONS = ['China', 'Singapore', 'Global', 'EEA', 'India', 'Indonesia', 'Russia', 'Turkey', 'Taiwan']
+REGIONS = ['China', 'Singapore', 'Global', 'EEA', 'India', 'Indonesia', 'Russia', 'Turkey', 'Taiwan', 'Japan']
 FW_CODENAMES = []
 FW_DEVICES = {}
 M_CODENAMES = []
