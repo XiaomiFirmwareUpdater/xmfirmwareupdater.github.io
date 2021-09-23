@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 23 Sep 2021 01:20:50 +0900</pubDate>
+  <pubDate>Thu, 23 Sep 2021 13:45:53 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi A3 (laurel) - V12.0.12.0.RFQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
+    <pubDate>Thu, 23 Sep 2021 13:45:53 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro (sweet) - V12.5.8.0.RKFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
@@ -100,11 +105,6 @@
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.9.15</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Fri, 17 Sep 2021 02:02:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.9.15</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Fri, 17 Sep 2021 01:58:47 +0900</pubDate>
   </item>
     </channel>
 </rss>
