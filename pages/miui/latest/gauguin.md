@@ -62,10 +62,10 @@ permalink: /miui/gauguin/
 <tr><td>Mi 10T Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QJSEUXM</td><td>10.0</td><td>2.7 GB</td><td>2020-11-16</td><td><a href="/miui/gauguin/stable beta/V12.0.5.0.QJSEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJSMIXM</td><td>11.0</td><td>5.3 GB</td><td>2021-07-23</td><td><a href="/miui/gauguin/stable/V12.5.2.0.RJSMIXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJSMIXM</td><td>11.0</td><td>2.8 GB</td><td>2021-08-02</td><td><a href="/miui/gauguin/stable/V12.5.2.0.RJSMIXM/">Download</a></td></tr>
-<tr><td>Mi 10i India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RJSINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-09-13</td><td><a href="/miui/gauguin/stable beta/V12.5.2.0.RJSINXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RJSTWXM</td><td>11.0</td><td>3.8 GB</td><td>2021-05-18</td><td><a href="/miui/gauguin/stable/V12.0.1.0.RJSTWXM/">Download</a></td></tr>
-<tr><td>Mi 10i India</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJSINXM</td><td>11.0</td><td>3.5 GB</td><td>2021-07-01</td><td><a href="/miui/gauguin/stable/V12.5.1.0.RJSINXM/">Download</a></td></tr>
-<tr><td>Mi 10i India</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJSINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-07-06</td><td><a href="/miui/gauguin/stable/V12.5.1.0.RJSINXM/">Download</a></td></tr>
+<tr><td>Mi 10i India</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJSINXM</td><td>11.0</td><td>3.5 GB</td><td>2021-09-01</td><td><a href="/miui/gauguin/stable/V12.5.2.0.RJSINXM/">Download</a></td></tr>
+<tr><td>Mi 10i India</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJSINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-09-13</td><td><a href="/miui/gauguin/stable/V12.5.2.0.RJSINXM/">Download</a></td></tr>
+<tr><td>Mi 10i India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJSINXM</td><td>11.0</td><td>2.7 GB</td><td>2021-03-17</td><td><a href="/miui/gauguin/stable beta/V12.0.1.0.RJSINXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJSTWXM</td><td>11.0</td><td>3.9 GB</td><td>2021-07-06</td><td><a href="/miui/gauguin/stable/V12.5.1.0.RJSTWXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJSTWXM</td><td>11.0</td><td>2.8 GB</td><td>2021-07-13</td><td><a href="/miui/gauguin/stable/V12.5.1.0.RJSTWXM/">Download</a></td></tr>
 
                 </tbody>
