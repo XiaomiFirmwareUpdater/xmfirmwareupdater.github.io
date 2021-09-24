@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/weekly-24.09.2021/fw_raphael_miui_RAPHAEL_21.9.22_7fc14a5aa8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.22/raphael/fw_raphael_miui_RAPHAEL_21.9.22_7fc14a5aa8_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_21.9.22_7fc14a5aa8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.22
+- branch: weekly
   date: '2021-09-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/weekly-16.09.2021/fw_raphael_miui_RAPHAEL_21.9.15_bc826e3f20_11.0.zip
