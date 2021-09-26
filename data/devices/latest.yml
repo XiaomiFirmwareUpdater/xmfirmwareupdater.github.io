@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-09-16'
+  date: '2021-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-16.09.2021/fw_agate_miui_AGATEGlobal_V12.5.1.0.RKWMIXM_fcb5bac54c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEGlobal_V12.5.1.0.RKWMIXM_fcb5bac54c_11.0.zip
-  filename: fw_agate_miui_AGATEGlobal_V12.5.1.0.RKWMIXM_fcb5bac54c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-26.09.2021/fw_agate_miui_AGATEGlobal_V12.5.3.0.RKWMIXM_ce676a09db_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEGlobal_V12.5.3.0.RKWMIXM_ce676a09db_11.0.zip
+  filename: fw_agate_miui_AGATEGlobal_V12.5.3.0.RKWMIXM_ce676a09db_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RKWMIXM
+    miui: V12.5.3.0.RKWMIXM
 - branch: stable
   date: '2021-09-16'
   downloads:
@@ -3189,15 +3189,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2021-06-30'
+  date: '2021-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-30.06.2021/fw_star_miui_STARGlobal_V12.5.4.0.RKAMIXM_bd26478572_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARGlobal_V12.5.4.0.RKAMIXM_bd26478572_11.0.zip
-  filename: fw_star_miui_STARGlobal_V12.5.4.0.RKAMIXM_bd26478572_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-26.09.2021/fw_star_miui_STARGlobal_V12.5.6.0.RKAMIXM_e0b20eed12_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARGlobal_V12.5.6.0.RKAMIXM_e0b20eed12_11.0.zip
+  filename: fw_star_miui_STARGlobal_V12.5.6.0.RKAMIXM_e0b20eed12_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RKAMIXM
+    miui: V12.5.6.0.RKAMIXM
 - branch: stable
   date: '2021-08-11'
   downloads:
@@ -3219,15 +3219,15 @@
     android: '11.0'
     miui: 21.9.1
 - branch: stable
-  date: '2021-06-28'
+  date: '2021-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-28.06.2021/fw_star_miui_STAREEAGlobal_V12.5.6.0.RKAEUXM_2ff7e3cad1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAREEAGlobal_V12.5.6.0.RKAEUXM_2ff7e3cad1_11.0.zip
-  filename: fw_star_miui_STAREEAGlobal_V12.5.6.0.RKAEUXM_2ff7e3cad1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-26.09.2021/fw_star_miui_STAREEAGlobal_V12.5.8.0.RKAEUXM_65d4d2bc59_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAREEAGlobal_V12.5.8.0.RKAEUXM_65d4d2bc59_11.0.zip
+  filename: fw_star_miui_STAREEAGlobal_V12.5.8.0.RKAEUXM_65d4d2bc59_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RKAEUXM
+    miui: V12.5.8.0.RKAEUXM
 - branch: stable
   date: '2021-07-08'
   downloads:
@@ -3689,15 +3689,15 @@
     android: '11.0'
     miui: V12.5.3.0.RKDMIXM
 - branch: stable
-  date: '2021-09-25'
+  date: '2021-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-26.09.2021/fw_vili_miui_VILIEEAGlobal_V12.5.4.0.RKDEUXM_221b3dbd86_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vili/fw_vili_miui_VILIEEAGlobal_V12.5.4.0.RKDEUXM_221b3dbd86_11.0.zip
-  filename: fw_vili_miui_VILIEEAGlobal_V12.5.4.0.RKDEUXM_221b3dbd86_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-26.09.2021/fw_vili_miui_VILIEEAGlobal_V12.5.10.0.RKDEUXM_292781bf88_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vili/fw_vili_miui_VILIEEAGlobal_V12.5.10.0.RKDEUXM_292781bf88_11.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_V12.5.10.0.RKDEUXM_292781bf88_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RKDEUXM
+    miui: V12.5.10.0.RKDEUXM
 - branch: stable
   date: '2019-11-26'
   downloads:
