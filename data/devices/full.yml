@@ -29,6 +29,16 @@
     android: '11.0'
     miui: V12.5.1.0.RKWMIXM
 - branch: stable
+  date: '2021-09-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-27.09.2021/fw_alioth_miui_ALIOTH_V12.5.14.0.RKHCNXM_e26ddc755f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTH_V12.5.14.0.RKHCNXM_e26ddc755f_11.0.zip
+  filename: fw_alioth_miui_ALIOTH_V12.5.14.0.RKHCNXM_e26ddc755f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.14.0.RKHCNXM
+- branch: stable
   date: '2021-09-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-23.09.2021/fw_alioth_miui_ALIOTHINGlobal_V12.5.5.0.RKHINXM_f56d8ca7b1_11.0.zip
@@ -11939,6 +11949,16 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
+  date: '2021-09-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-27.09.2021/fw_curtana_miui_CURTANAGlobal_V12.5.1.0.RJWMIXM_4fa4fdc156_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAGlobal_V12.5.1.0.RJWMIXM_4fa4fdc156_11.0.zip
+  filename: fw_curtana_miui_CURTANAGlobal_V12.5.1.0.RJWMIXM_4fa4fdc156_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJWMIXM
+- branch: stable
   date: '2021-09-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-03.09.2021/fw_curtana_miui_CURTANAINGlobal_V12.5.1.0.RJWINXM_70a4ff19d8_11.0.zip
@@ -22438,6 +22458,26 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QJQCNXM
+- branch: stable
+  date: '2021-09-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-27.09.2021/fw_lisa_miui_LISAEEAGlobal_V12.5.2.0.RKOEUXM_3bf1421924_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAEEAGlobal_V12.5.2.0.RKOEUXM_3bf1421924_11.0.zip
+  filename: fw_lisa_miui_LISAEEAGlobal_V12.5.2.0.RKOEUXM_3bf1421924_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKOEUXM
+- branch: stable
+  date: '2021-09-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-27.09.2021/fw_lisa_miui_LISAGlobal_V12.5.5.0.RKOMIXM_25f97a8351_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAGlobal_V12.5.5.0.RKOMIXM_25f97a8351_11.0.zip
+  filename: fw_lisa_miui_LISAGlobal_V12.5.5.0.RKOMIXM_25f97a8351_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKOMIXM
 - branch: stable
   date: '2021-09-16'
   downloads:
@@ -33708,6 +33748,16 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PFKINXM
+- branch: stable
+  date: '2021-09-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-27.09.2021/fw_renoir_miui_RENOIR_V12.5.5.0.RKICNXM_dfcbb54c9a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIR_V12.5.5.0.RKICNXM_dfcbb54c9a_11.0.zip
+  filename: fw_renoir_miui_RENOIR_V12.5.5.0.RKICNXM_dfcbb54c9a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKICNXM
 - branch: weekly
   date: '2021-09-16'
   downloads:
