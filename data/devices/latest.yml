@@ -1189,15 +1189,15 @@
     android: '11.0'
     miui: 21.9.22
 - branch: stable
-  date: '2021-07-29'
+  date: '2021-09-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-29.07.2021/fw_gauguin_miui_GAUGUINEEAGlobal_V12.5.3.0.RJSEUXM_b87bc73eda_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V12.5.3.0.RJSEUXM_b87bc73eda_11.0.zip
-  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V12.5.3.0.RJSEUXM_b87bc73eda_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-28.09.2021/fw_gauguin_miui_GAUGUINEEAGlobal_V12.5.6.0.RJSEUXM_27d5789210_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V12.5.6.0.RJSEUXM_27d5789210_11.0.zip
+  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V12.5.6.0.RJSEUXM_27d5789210_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RJSEUXM
+    miui: V12.5.6.0.RJSEUXM
 - branch: stable
   date: '2021-09-15'
   downloads:
@@ -1889,15 +1889,15 @@
     android: '11.0'
     miui: V12.5.5.0.RKOMIXM
 - branch: stable
-  date: '2021-09-27'
+  date: '2021-09-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-27.09.2021/fw_lisa_miui_LISAEEAGlobal_V12.5.2.0.RKOEUXM_3bf1421924_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAEEAGlobal_V12.5.2.0.RKOEUXM_3bf1421924_11.0.zip
-  filename: fw_lisa_miui_LISAEEAGlobal_V12.5.2.0.RKOEUXM_3bf1421924_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-28.09.2021/fw_lisa_miui_LISAEEAGlobal_V12.5.3.0.RKOEUXM_108e60890b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAEEAGlobal_V12.5.3.0.RKOEUXM_108e60890b_11.0.zip
+  filename: fw_lisa_miui_LISAEEAGlobal_V12.5.3.0.RKOEUXM_108e60890b_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RKOEUXM
+    miui: V12.5.3.0.RKOEUXM
 - branch: stable
   date: '2019-11-08'
   downloads:
