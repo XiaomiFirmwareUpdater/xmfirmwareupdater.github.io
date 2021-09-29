@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 30 Sep 2021 01:40:33 +0900</pubDate>
+  <pubDate>Thu, 30 Sep 2021 07:30:54 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 Lite Zoom (vangogh) - V12.5.4.0.RJVCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
+    <pubDate>Thu, 30 Sep 2021 07:30:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - V12.5.1.0.QFGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Thu, 30 Sep 2021 07:21:23 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 11T (agate) - V12.5.4.0.RKWMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
@@ -95,16 +105,6 @@
     <title>Xiaomi 11T Pro (vili) - V12.5.10.0.RKDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
     <pubDate>Sun, 26 Sep 2021 21:11:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.6.0.RKAMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Sun, 26 Sep 2021 20:41:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.8.0.RKAEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Sun, 26 Sep 2021 20:09:43 +0900</pubDate>
   </item>
     </channel>
 </rss>
