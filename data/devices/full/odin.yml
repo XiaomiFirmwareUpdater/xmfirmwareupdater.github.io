@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2021-09-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-30.09.2021/fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/odin/fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
+  filename: fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RKMCNXM
 - branch: weekly
   date: '2021-09-09'
   downloads:

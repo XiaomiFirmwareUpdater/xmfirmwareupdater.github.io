@@ -26078,6 +26078,16 @@
   versions:
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
+- branch: stable
+  date: '2021-09-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-30.09.2021/fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/odin/fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
+  filename: fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RKMCNXM
 - branch: weekly
   date: '2021-09-09'
   downloads:
@@ -40208,6 +40218,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2021-09-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-30.09.2021/fw_umi_miui_UMIEEAGlobal_V12.5.5.0.RJBEUXM_9408fc707e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.5.5.0.RJBEUXM_9408fc707e_11.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.5.5.0.RJBEUXM_9408fc707e_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJBEUXM
 - branch: weekly
   date: '2021-09-24'
   downloads:
