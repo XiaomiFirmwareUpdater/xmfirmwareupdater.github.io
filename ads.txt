@@ -717,4 +717,6 @@ criteo.com, B-062414, DIRECT, 9fac4a4a87c2a44f
 appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
 smartadserver.com, 4111, RESELLER
 google.com, pub-2319012095426933, DIRECT, f08c47fec0942fa0
+themediagrid.com, jtqkmp, RESELLER, 35d5010d7789b49d
+lkqd.net, 758, DIRECT, 59c49fa9598a0117
 #VLI END
