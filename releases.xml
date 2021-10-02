@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 01 Oct 2021 19:15:18 +0900</pubDate>
+  <pubDate>Sat, 02 Oct 2021 13:15:56 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro Max (excalibur) - V12.5.2.0.RJXINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/excalibur</link>
+    <pubDate>Sat, 02 Oct 2021 13:15:56 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.1.0.RJQCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
@@ -100,11 +105,6 @@
     <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.5.14.0.RKHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
     <pubDate>Tue, 28 Sep 2021 01:53:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 Prime (selene) - V12.5.2.0.RKUEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Mon, 27 Sep 2021 02:06:47 +0900</pubDate>
   </item>
     </channel>
 </rss>
