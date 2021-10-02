@@ -1,7 +1,7 @@
 ---
-title: Redmi 9 (cattail) Firmware Downloads
+title: Redmi 9/9 Activ (cattail) Firmware Downloads
 layout: download
-name: Redmi 9
+name: Redmi 9/9 Activ
 codename: cattail
 permalink: /archive/firmware/cattail/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/cattail/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/cattail/">Redmi 9</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/cattail/">Redmi 9/9 Activ</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

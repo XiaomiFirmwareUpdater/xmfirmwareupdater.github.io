@@ -1,7 +1,7 @@
 ---
-title: Redmi 9A/9AT (dandelion) Firmware Downloads
+title: Redmi 9A/9AT/9i/9A Sport (dandelion) Firmware Downloads
 layout: download
-name: Redmi 9A/9AT
+name: Redmi 9A/9AT/9i/9A Sport
 codename: dandelion
 permalink: /firmware/dandelion/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/dandelion/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/dandelion/">Redmi 9A/9AT</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/dandelion/">Redmi 9A/9AT/9i/9A Sport</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

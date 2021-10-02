@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-10-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/weekly-02.10.2021/fw_ginkgo_miui_GINKGO_21.9.28_4bc73b9c4e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.28/ginkgo/fw_ginkgo_miui_GINKGO_21.9.28_4bc73b9c4e_11.0.zip
+  filename: fw_ginkgo_miui_GINKGO_21.9.28_4bc73b9c4e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.28
+- branch: weekly
   date: '2021-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/weekly-24.09.2021/fw_ginkgo_miui_GINKGO_21.9.22_cf6354e102_11.0.zip

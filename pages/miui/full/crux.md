@@ -52,7 +52,8 @@ permalink: /archive/miui/crux/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.22</td><td>11.0</td><td>3.0 GB</td><td>2021-09-23</td><td><a href="/miui/crux/weekly/21.9.22/">Download</a></td></tr>
+                <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.28</td><td>11.0</td><td>3.0 GB</td><td>2021-09-29</td><td><a href="/miui/crux/weekly/21.9.28/">Download</a></td></tr>
+<tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.22</td><td>11.0</td><td>3.0 GB</td><td>2021-09-23</td><td><a href="/miui/crux/weekly/21.9.22/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.15</td><td>11.0</td><td>3.0 GB</td><td>2021-09-16</td><td><a href="/miui/crux/weekly/21.9.15/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.8</td><td>11.0</td><td>3.0 GB</td><td>2021-09-09</td><td><a href="/miui/crux/weekly/21.9.8/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.1</td><td>11.0</td><td>3.0 GB</td><td>2021-09-02</td><td><a href="/miui/crux/weekly/21.9.1/">Download</a></td></tr>

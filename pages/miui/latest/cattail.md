@@ -1,7 +1,7 @@
 ---
-title: Redmi 9 (cattail) MIUI Downloads
+title: Redmi 9/9 Activ (cattail) MIUI Downloads
 layout: download
-name: Redmi 9
+name: Redmi 9/9 Activ
 codename: cattail
 permalink: /miui/cattail/
 ---
@@ -9,7 +9,7 @@ permalink: /miui/cattail/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cattail/">Redmi 9</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cattail/">Redmi 9/9 Activ</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -52,8 +52,8 @@ permalink: /miui/cattail/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.12.0.QCTINXM</td><td>10.0</td><td>2.4 GB</td><td>2021-07-15</td><td><a href="/miui/cattail/stable/V12.0.12.0.QCTINXM/">Download</a></td></tr>
-<tr><td>Redmi 9 India</td><td>Stable</td><td>Recovery</td><td>V12.0.12.0.QCTINXM</td><td>10.0</td><td>1.7 GB</td><td>2021-07-19</td><td><a href="/miui/cattail/stable/V12.0.12.0.QCTINXM/">Download</a></td></tr>
+                <tr><td>Redmi 9 / 9 Activ India</td><td>Stable</td><td>Fastboot</td><td>V12.0.12.0.QCTINXM</td><td>10.0</td><td>2.4 GB</td><td>2021-07-15</td><td><a href="/miui/cattail/stable/V12.0.12.0.QCTINXM/">Download</a></td></tr>
+<tr><td>Redmi 9 / 9 Activ India</td><td>Stable</td><td>Recovery</td><td>V12.0.12.0.QCTINXM</td><td>10.0</td><td>1.7 GB</td><td>2021-07-19</td><td><a href="/miui/cattail/stable/V12.0.12.0.QCTINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

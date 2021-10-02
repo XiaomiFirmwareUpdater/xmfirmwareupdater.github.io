@@ -52,7 +52,8 @@ permalink: /archive/miui/elish/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>21.9.22</td><td>11.0</td><td>3.6 GB</td><td>2021-09-23</td><td><a href="/miui/elish/weekly/21.9.22/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>21.9.28</td><td>11.0</td><td>3.6 GB</td><td>2021-09-29</td><td><a href="/miui/elish/weekly/21.9.28/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>21.9.22</td><td>11.0</td><td>3.6 GB</td><td>2021-09-23</td><td><a href="/miui/elish/weekly/21.9.22/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>21.9.15</td><td>11.0</td><td>3.6 GB</td><td>2021-09-16</td><td><a href="/miui/elish/weekly/21.9.15/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>21.9.8</td><td>11.0</td><td>3.5 GB</td><td>2021-09-09</td><td><a href="/miui/elish/weekly/21.9.8/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>21.9.1</td><td>11.0</td><td>3.5 GB</td><td>2021-09-02</td><td><a href="/miui/elish/weekly/21.9.1/">Download</a></td></tr>

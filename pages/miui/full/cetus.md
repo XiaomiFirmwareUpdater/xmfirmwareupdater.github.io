@@ -52,7 +52,8 @@ permalink: /archive/miui/cetus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.9.22</td><td>11.0</td><td>4.4 GB</td><td>2021-09-23</td><td><a href="/miui/cetus/weekly/21.9.22/">Download</a></td></tr>
+                <tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.9.28</td><td>11.0</td><td>4.4 GB</td><td>2021-09-29</td><td><a href="/miui/cetus/weekly/21.9.28/">Download</a></td></tr>
+<tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.9.22</td><td>11.0</td><td>4.4 GB</td><td>2021-09-23</td><td><a href="/miui/cetus/weekly/21.9.22/">Download</a></td></tr>
 <tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.9.15</td><td>11.0</td><td>4.2 GB</td><td>2021-09-16</td><td><a href="/miui/cetus/weekly/21.9.15/">Download</a></td></tr>
 <tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.9.8</td><td>11.0</td><td>4.2 GB</td><td>2021-09-09</td><td><a href="/miui/cetus/weekly/21.9.8/">Download</a></td></tr>
 <tr><td>Mi MIX Fold China</td><td>Weekly</td><td>Recovery</td><td>21.8.11</td><td>11.0</td><td>4.1 GB</td><td>2021-08-12</td><td><a href="/miui/cetus/weekly/21.8.11/">Download</a></td></tr>
