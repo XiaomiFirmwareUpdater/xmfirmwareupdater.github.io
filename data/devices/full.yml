@@ -18448,6 +18448,16 @@
   versions:
     android: '9.0'
     miui: V10.2.5.0.PFBCNXM
+- branch: stable
+  date: '2021-10-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-05.10.2021/fw_haydn_miui_HAYDNGlobal_V12.5.1.0.SKKMIXM_2ceae7a5c3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNGlobal_V12.5.1.0.SKKMIXM_2ceae7a5c3_12.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_V12.5.1.0.SKKMIXM_2ceae7a5c3_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V12.5.1.0.SKKMIXM
 - branch: weekly
   date: '2021-10-02'
   downloads:
