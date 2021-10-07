@@ -19,16 +19,6 @@
     android: '11.0'
     miui: 21.9.22
 - branch: weekly
-  date: '2021-09-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-16.09.2021/fw_tucana_miui_TUCANA_21.9.15_600a60269d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.15/tucana/fw_tucana_miui_TUCANA_21.9.15_600a60269d_11.0.zip
-  filename: fw_tucana_miui_TUCANA_21.9.15_600a60269d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.15
-- branch: weekly
   date: '2021-09-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-09.09.2021/fw_tucana_miui_TUCANA_21.9.8_4e8f61714c_11.0.zip
@@ -78,16 +68,6 @@
   versions:
     android: '11.0'
     miui: 21.8.25
-- branch: stable
-  date: '2021-08-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-25.08.2021/fw_tucana_miui_TUCANAEEAGlobal_V12.5.2.0.RFDEUXM_cc4dffee68_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAEEAGlobal_V12.5.2.0.RFDEUXM_cc4dffee68_11.0.zip
-  filename: fw_tucana_miui_TUCANAEEAGlobal_V12.5.2.0.RFDEUXM_cc4dffee68_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RFDEUXM
 - branch: weekly
   date: '2021-08-19'
   downloads:
@@ -128,16 +108,6 @@
   versions:
     android: '11.0'
     miui: 21.7.21
-- branch: stable
-  date: '2021-07-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-16.07.2021/fw_tucana_miui_TUCANAGlobal_V12.5.3.0.RFDMIXM_085cce8a13_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.5.3.0.RFDMIXM_085cce8a13_11.0.zip
-  filename: fw_tucana_miui_TUCANAGlobal_V12.5.3.0.RFDMIXM_085cce8a13_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.3.0.RFDMIXM
 - branch: stable
   date: '2021-07-06'
   downloads:

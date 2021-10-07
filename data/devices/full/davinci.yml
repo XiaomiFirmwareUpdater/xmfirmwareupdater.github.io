@@ -8,16 +8,6 @@
   versions:
     android: '11.0'
     miui: 21.9.28
-- branch: weekly
-  date: '2021-09-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/weekly-24.09.2021/fw_davinci_miui_DAVINCI_21.9.22_7c5469d964_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.22/davinci/fw_davinci_miui_DAVINCI_21.9.22_7c5469d964_11.0.zip
-  filename: fw_davinci_miui_DAVINCI_21.9.22_7c5469d964_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.22
 - branch: stable
   date: '2021-09-19'
   downloads:
@@ -28,36 +18,6 @@
   versions:
     android: '11.0'
     miui: V12.1.1.0.RFJEUXM
-- branch: weekly
-  date: '2021-09-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/weekly-16.09.2021/fw_davinci_miui_DAVINCI_21.9.15_5a22fd8753_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.15/davinci/fw_davinci_miui_DAVINCI_21.9.15_5a22fd8753_11.0.zip
-  filename: fw_davinci_miui_DAVINCI_21.9.15_5a22fd8753_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.15
-- branch: weekly
-  date: '2021-09-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/weekly-09.09.2021/fw_davinci_miui_DAVINCI_21.9.8_d083215de4_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.8/davinci/fw_davinci_miui_DAVINCI_21.9.8_d083215de4_11.0.zip
-  filename: fw_davinci_miui_DAVINCI_21.9.8_d083215de4_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.8
-- branch: weekly
-  date: '2021-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/weekly-03.09.2021/fw_davinci_miui_DAVINCI_21.9.1_079993ab98_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.1/davinci/fw_davinci_miui_DAVINCI_21.9.1_079993ab98_11.0.zip
-  filename: fw_davinci_miui_DAVINCI_21.9.1_079993ab98_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.1
 - branch: stable
   date: '2021-08-26'
   downloads:
