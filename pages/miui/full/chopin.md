@@ -53,6 +53,7 @@ permalink: /archive/miui/chopin/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 10 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.28</td><td>11.0</td><td>3.9 GB</td><td>2021-09-29</td><td><a href="/miui/chopin/weekly/21.9.28/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.9.0.RKPCNXM</td><td>11.0</td><td>3.4 GB</td><td>2021-09-27</td><td><a href="/miui/chopin/stable beta/V12.5.9.0.RKPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.22</td><td>11.0</td><td>3.8 GB</td><td>2021-09-23</td><td><a href="/miui/chopin/weekly/21.9.22/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.15</td><td>11.0</td><td>3.8 GB</td><td>2021-09-16</td><td><a href="/miui/chopin/weekly/21.9.15/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.8</td><td>11.0</td><td>3.8 GB</td><td>2021-09-09</td><td><a href="/miui/chopin/weekly/21.9.8/">Download</a></td></tr>
