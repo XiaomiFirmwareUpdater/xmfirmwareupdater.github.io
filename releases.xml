@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 07 Oct 2021 01:41:58 +0900</pubDate>
+  <pubDate>Fri, 08 Oct 2021 13:35:35 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - V12.5.1.0.QFHINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Fri, 08 Oct 2021 13:35:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.5.4.0.RGICMXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 08 Oct 2021 13:27:36 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.10.0.RKAEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/star</link>
@@ -95,16 +105,6 @@
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.9.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
     <pubDate>Sat, 02 Oct 2021 22:21:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.9.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Sat, 02 Oct 2021 22:15:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 21.9.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Sat, 02 Oct 2021 22:12:42 +0900</pubDate>
   </item>
     </channel>
 </rss>

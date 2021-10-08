@@ -2559,15 +2559,15 @@
     android: '11.0'
     miui: V12.5.2.0.RGHINXM
 - branch: stable
-  date: '2021-09-18'
+  date: '2021-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-18.09.2021/fw_picasso_miui_PICASSO_V12.5.5.0.RGICNXM_117473f5f1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.5.5.0.RGICNXM_117473f5f1_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.5.5.0.RGICNXM_117473f5f1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-08.10.2021/fw_picasso_miui_PICASSO48M_V12.5.4.0.RGICMXM_7901265393_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.5.4.0.RGICMXM_7901265393_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.5.4.0.RGICMXM_7901265393_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RGICNXM
+    miui: V12.5.4.0.RGICMXM
 - branch: weekly
   date: '2021-10-02'
   downloads:
@@ -3779,15 +3779,15 @@
     android: '10.0'
     miui: 21.4.22
 - branch: stable
-  date: '2021-01-17'
+  date: '2021-10-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-17.01.2021/fw_violet_miui_VIOLETINGlobal_V12.0.5.0.QFHINXM_8038307154_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLETINGlobal_V12.0.5.0.QFHINXM_8038307154_10.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V12.0.5.0.QFHINXM_8038307154_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-08.10.2021/fw_violet_miui_VIOLETINGlobal_V12.5.1.0.QFHINXM_125bf9d2a7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLETINGlobal_V12.5.1.0.QFHINXM_125bf9d2a7_10.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V12.5.1.0.QFHINXM_125bf9d2a7_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.5.0.QFHINXM
+    miui: V12.5.1.0.QFHINXM
 - branch: stable
   date: '2021-04-08'
   downloads:
