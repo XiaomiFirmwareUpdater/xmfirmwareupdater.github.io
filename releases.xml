@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 08 Oct 2021 13:35:35 +0900</pubDate>
+  <pubDate>Fri, 08 Oct 2021 20:37:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.2.0.RFDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Fri, 08 Oct 2021 20:37:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.5.0.RFDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Fri, 08 Oct 2021 20:27:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO X2 (phoenixin) - V12.5.3.0.RGHINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenixin</link>
+    <pubDate>Fri, 08 Oct 2021 20:16:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V12.5.2.0.RCOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Fri, 08 Oct 2021 20:07:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.4.0.RJSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Fri, 08 Oct 2021 19:59:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.0.11.0.RKSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Fri, 08 Oct 2021 19:50:02 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 7 Pro (violet) - V12.5.1.0.QFHINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
@@ -75,36 +105,6 @@
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.9.28</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Sat, 02 Oct 2021 22:42:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.9.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Sat, 02 Oct 2021 22:39:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.9.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Sat, 02 Oct 2021 22:35:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.9.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Sat, 02 Oct 2021 22:31:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.9.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Sat, 02 Oct 2021 22:28:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 21.9.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Sat, 02 Oct 2021 22:24:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.9.28</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Sat, 02 Oct 2021 22:21:21 +0900</pubDate>
   </item>
     </channel>
 </rss>
