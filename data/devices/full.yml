@@ -36059,6 +36059,16 @@
     android: '7.0'
     miui: 8.3.26
 - branch: stable
+  date: '2021-10-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-11.10.2021/fw_selene_miui_SELENEEEAGlobal_V12.5.5.0.RKUEUXM_d026faeb6e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEEEAGlobal_V12.5.5.0.RKUEUXM_d026faeb6e_11.0.zip
+  filename: fw_selene_miui_SELENEEEAGlobal_V12.5.5.0.RKUEUXM_d026faeb6e_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKUEUXM
+- branch: stable
   date: '2021-10-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-03.10.2021/fw_selene_miui_SELENEGlobal_V12.5.7.0.RKUMIXM_06409bf85a_11.0.zip
