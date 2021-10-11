@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 11 Oct 2021 13:28:14 +0900</pubDate>
+  <pubDate>Mon, 11 Oct 2021 20:58:21 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 (venus) - V12.5.9.0.RKBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Mon, 11 Oct 2021 20:58:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - V12.5.7.0.RKBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Mon, 11 Oct 2021 20:08:05 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30 4G (phoenix) - V12.5.3.0.RGHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
@@ -95,16 +105,6 @@
     <title>Mi 11 (venus) - V12.5.13.0.RKBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
     <pubDate>Mon, 04 Oct 2021 20:32:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.17.0.RKACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Mon, 04 Oct 2021 19:44:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi (mona) - V12.5.5.0.RKVCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
-    <pubDate>Sun, 03 Oct 2021 19:50:30 +0900</pubDate>
   </item>
     </channel>
 </rss>

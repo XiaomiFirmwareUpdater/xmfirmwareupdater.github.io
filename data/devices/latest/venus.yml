@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-09-25'
+  date: '2021-10-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-25.09.2021/fw_venus_miui_VENUSGlobal_V12.5.7.0.RKBMIXM_32501c5478_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSGlobal_V12.5.7.0.RKBMIXM_32501c5478_11.0.zip
-  filename: fw_venus_miui_VENUSGlobal_V12.5.7.0.RKBMIXM_32501c5478_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-11.10.2021/fw_venus_miui_VENUSGlobal_V12.5.9.0.RKBMIXM_959526c473_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSGlobal_V12.5.9.0.RKBMIXM_959526c473_11.0.zip
+  filename: fw_venus_miui_VENUSGlobal_V12.5.9.0.RKBMIXM_959526c473_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RKBMIXM
+    miui: V12.5.9.0.RKBMIXM
 - branch: stable
   date: '2021-10-04'
   downloads:
@@ -29,12 +29,12 @@
     android: '12.0'
     miui: 21.9.29
 - branch: stable
-  date: '2021-09-25'
+  date: '2021-10-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-25.09.2021/fw_venus_miui_VENUSEEAGlobal_V12.5.5.0.RKBEUXM_d6c7e8711d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSEEAGlobal_V12.5.5.0.RKBEUXM_d6c7e8711d_11.0.zip
-  filename: fw_venus_miui_VENUSEEAGlobal_V12.5.5.0.RKBEUXM_d6c7e8711d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-11.10.2021/fw_venus_miui_VENUSEEAGlobal_V12.5.7.0.RKBEUXM_6b3a54d40e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSEEAGlobal_V12.5.7.0.RKBEUXM_6b3a54d40e_11.0.zip
+  filename: fw_venus_miui_VENUSEEAGlobal_V12.5.7.0.RKBEUXM_6b3a54d40e_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKBEUXM
+    miui: V12.5.7.0.RKBEUXM
