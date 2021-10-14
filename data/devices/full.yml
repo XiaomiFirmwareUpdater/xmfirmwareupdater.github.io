@@ -4569,6 +4569,16 @@
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
 - branch: stable
+  date: '2021-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-14.10.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.5.0.RCUEUXM_782874946f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAEEAGlobal_V12.5.5.0.RCUEUXM_782874946f_11.0.zip
+  filename: fw_biloba_miui_BILOBAEEAGlobal_V12.5.5.0.RCUEUXM_782874946f_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RCUEUXM
+- branch: stable
   date: '2021-09-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-28.09.2021/fw_biloba_miui_BILOBAGlobal_V12.5.7.0.RCUMIXM_8c81cfa8c1_11.0.zip
@@ -10008,6 +10018,16 @@
   versions:
     android: '11.0'
     miui: V12.5.3.0.RKPCNXM
+- branch: stable
+  date: '2021-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-14.10.2021/fw_citrus_miui_CITRUSGlobal_V12.0.11.0.QJFMIXM_d6cf2c0b9f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSGlobal_V12.0.11.0.QJFMIXM_d6cf2c0b9f_10.0.zip
+  filename: fw_citrus_miui_CITRUSGlobal_V12.0.11.0.QJFMIXM_d6cf2c0b9f_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.11.0.QJFMIXM
 - branch: stable
   date: '2021-09-29'
   downloads:
@@ -21848,6 +21868,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-14.10.2021/fw_lime_miui_LIMEEEAGlobal_V12.0.12.0.QJQEUXM_4e5525d284_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.0.12.0.QJQEUXM_4e5525d284_10.0.zip
+  filename: fw_lime_miui_LIMEEEAGlobal_V12.0.12.0.QJQEUXM_4e5525d284_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.12.0.QJQEUXM
 - branch: weekly
   date: '2021-10-02'
   downloads:
@@ -24768,6 +24798,16 @@
   versions:
     android: '10.0'
     miui: V11.0.11.0.QJIEUXM
+- branch: stable
+  date: '2021-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-14.10.2021/fw_nabu_miui_NABUEEAGlobal_V12.5.1.0.RKXEUXM_1ea58d057b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABUEEAGlobal_V12.5.1.0.RKXEUXM_1ea58d057b_11.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V12.5.1.0.RKXEUXM_1ea58d057b_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RKXEUXM
 - branch: stable
   date: '2021-10-13'
   downloads:
@@ -38068,6 +38108,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2021-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-14.10.2021/fw_toco_miui_TOCOGlobal_V12.5.3.0.RFNMIXM_9387df3927_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.5.3.0.RFNMIXM_9387df3927_11.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V12.5.3.0.RFNMIXM_9387df3927_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RFNMIXM
 - branch: stable
   date: '2021-09-02'
   downloads:
