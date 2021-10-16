@@ -1,3 +1,9 @@
+- android: '12.0'
+  codename: alioth
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_ALIOTH_21.10.13_86ff5df150_12.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: 21.10.13
 - android: '11.0'
   codename: alioth
   date: '2021-09-16'
@@ -106,6 +112,12 @@
   download: https://bigota.d.miui.com/21.4.8/miui_ALIOTH_21.4.8_218b06cdbc_11.0.zip
   name: Redmi K40/POCO F3/Mi 11X
   version: 21.4.8
+- android: '11.0'
+  codename: apollo
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_APOLLO_21.10.13_0a11e8b3bc_11.0.zip
+  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
+  version: 21.10.13
 - android: '11.0'
   codename: apollo
   date: '2021-10-02'
@@ -324,6 +336,12 @@
   version: 20.11.11
 - android: '11.0'
   codename: ares
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_ARES_21.10.13_159790180c_11.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: 21.10.13
+- android: '11.0'
+  codename: ares
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_ARES_21.9.28_a0c9c12a2c_11.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
@@ -436,6 +454,12 @@
   download: https://bigota.d.miui.com/21.5.20/miui_ARES_21.5.20_a5534f9a34_11.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
   version: 21.5.20
+- android: '11.0'
+  codename: atom
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_ATOM_21.10.13_af154126d9_11.0.zip
+  name: Redmi 10X 5G
+  version: 21.10.13
 - android: '11.0'
   codename: atom
   date: '2021-10-02'
@@ -756,6 +780,12 @@
   version: 20.7.2
 - android: '11.0'
   codename: begonia
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_BEGONIA_21.10.13_69e8db59b9_11.0.zip
+  name: Redmi Note 8 Pro
+  version: 21.10.13
+- android: '11.0'
+  codename: begonia
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_BEGONIA_21.9.28_f35df79149_11.0.zip
   name: Redmi Note 8 Pro
@@ -1006,6 +1036,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_BEGONIA_20.4.27_bb779ad042_10.0.zip
   name: Redmi Note 8 Pro
   version: 20.4.27
+- android: '11.0'
+  codename: bomb
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_BOMB_21.10.13_349da7bf31_11.0.zip
+  name: Redmi 10X Pro
+  version: 21.10.13
 - android: '11.0'
   codename: bomb
   date: '2021-10-02'
@@ -1314,6 +1350,12 @@
   version: 20.7.2
 - android: '11.0'
   codename: camellia
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_CAMELLIA_21.10.13_da4de3441a_11.0.zip
+  name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
+  version: 21.10.13
+- android: '11.0'
+  codename: camellia
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_CAMELLIA_21.9.28_05bb0d1971_11.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
@@ -1384,6 +1426,12 @@
   download: https://bigota.d.miui.com/21.7.7/miui_CAMELLIA_21.7.7_af0d818d00_11.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
   version: 21.7.7
+- android: '11.0'
+  codename: cannon
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_CANNON_21.10.13_c649771a34_11.0.zip
+  name: Redmi Note 9 5G
+  version: 21.10.13
 - android: '11.0'
   codename: cannon
   date: '2021-10-02'
@@ -1594,6 +1642,12 @@
   download: https://bigota.d.miui.com/20.12.28/miui_CANNON_20.12.28_a75e525e82_11.0.zip
   name: Redmi Note 9 5G
   version: 20.12.28
+- android: '11.0'
+  codename: cas
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_CAS_21.10.13_381f2b131c_11.0.zip
+  name: Mi 10 Ultra
+  version: 21.10.13
 - android: '11.0'
   codename: cas
   date: '2021-10-02'
@@ -1848,6 +1902,12 @@
   version: 20.9.3
 - android: '11.0'
   codename: cepheus
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_CEPHEUS_21.10.13_e01e682291_11.0.zip
+  name: Mi 9
+  version: 21.10.13
+- android: '11.0'
+  codename: cepheus
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_CEPHEUS_21.9.28_4701a9ab9b_11.0.zip
   name: Mi 9
@@ -2020,6 +2080,12 @@
   download: https://bigota.d.miui.com/21.6.2/miui_CETUS_21.6.2_45877911b4_11.0.zip
   name: Mi MIX Fold
   version: 21.6.2
+- android: '11.0'
+  codename: cezanne
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_CEZANNE_21.10.13_df3aa20588_11.0.zip
+  name: Redmi K30 Ultra
+  version: 21.10.13
 - android: '11.0'
   codename: cezanne
   date: '2021-10-02'
@@ -2298,6 +2364,12 @@
   version: 20.5.28
 - android: '11.0'
   codename: chopin
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_CHOPIN_21.10.13_5c9d021012_11.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: 21.10.13
+- android: '11.0'
+  codename: chopin
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_CHOPIN_21.9.28_e21b4cd41e_11.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
@@ -2368,6 +2440,12 @@
   download: https://bigota.d.miui.com/21.6.23/miui_CHOPIN_21.6.23_a12d7e43a3_11.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
   version: 21.6.23
+- android: '11.0'
+  codename: cmi
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_CMI_21.10.13_f08da89188_11.0.zip
+  name: Mi 10 Pro
+  version: 21.10.13
 - android: '11.0'
   codename: cmi
   date: '2021-10-02'
@@ -2694,6 +2772,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: crux
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_CRUX_21.10.13_c155fd1018_11.0.zip
+  name: Mi 9 Pro 5G
+  version: 21.10.13
+- android: '11.0'
+  codename: crux
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_CRUX_21.9.28_18d8eee9c2_11.0.zip
   name: Mi 9 Pro 5G
@@ -2830,6 +2914,12 @@
   download: https://bigota.d.miui.com/20.6.4/miui_CRUX_20.6.4_ef61367521_10.0.zip
   name: Mi 9 Pro 5G
   version: 20.6.4
+- android: '11.0'
+  codename: davinci
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_DAVINCI_21.10.13_0fa40289a1_11.0.zip
+  name: Redmi K20/Mi 9T
+  version: 21.10.13
 - android: '11.0'
   codename: davinci
   date: '2021-10-02'
@@ -3006,6 +3096,12 @@
   version: 20.5.7
 - android: '11.0'
   codename: elish
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_ELISH_21.10.13_01d26b57a3_11.0.zip
+  name: Xiaomi Pad 5 Pro Wi-Fi
+  version: 21.10.13
+- android: '11.0'
+  codename: elish
   date: '2021-09-24'
   download: https://bigota.d.miui.com/21.9.22/miui_ELISH_21.9.22_fd46675d12_11.0.zip
   name: Xiaomi Pad 5 Pro Wi-Fi
@@ -3034,6 +3130,12 @@
   download: https://bigota.d.miui.com/20.5.7/miui_MI8UD_20.5.7_0529b9638e_10.0.zip
   name: Mi 8 Pro
   version: 20.5.7
+- android: '11.0'
+  codename: gauguin
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_GAUGUIN_21.10.13_7aea4da79a_11.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: 21.10.13
 - android: '11.0'
   codename: gauguin
   date: '2021-10-02'
@@ -3184,6 +3286,12 @@
   download: https://bigota.d.miui.com/21.1.13/miui_GAUGUIN_21.1.13_fde732bec3_11.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: 21.1.13
+- android: '11.0'
+  codename: ginkgo
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_GINKGO_21.10.13_562cd78a0c_11.0.zip
+  name: Redmi Note 8
+  version: 21.10.13
 - android: '11.0'
   codename: ginkgo
   date: '2021-10-02'
@@ -3354,6 +3462,12 @@
   version: 20.6.17
 - android: '11.0'
   codename: grus
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_GRUS_21.10.13_3a59b4be8a_11.0.zip
+  name: Mi 9 SE
+  version: 21.10.13
+- android: '11.0'
+  codename: grus
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_GRUS_21.9.28_c33c836059_11.0.zip
   name: Mi 9 SE
@@ -3442,6 +3556,12 @@
   download: https://bigota.d.miui.com/20.5.7/miui_GRUS_20.5.7_311b85a913_10.0.zip
   name: Mi 9 SE
   version: 20.5.7
+- android: '12.0'
+  codename: haydn
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_HAYDN_21.10.13_ea44c395ce_12.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: 21.10.13
 - android: '12.0'
   codename: haydn
   date: '2021-10-02'
@@ -3696,6 +3816,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: lime
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_LIME_21.10.13_c7dbe2e697_11.0.zip
+  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
+  version: 21.10.13
+- android: '11.0'
+  codename: lime
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_LIME_21.9.28_812ebc4411_11.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
@@ -3820,6 +3946,12 @@
   download: https://bigota.d.miui.com/21.1.28/miui_LIME_21.1.28_ce3c547612_11.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
   version: 21.1.28
+- android: '11.0'
+  codename: lmi
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_LMI_21.10.13_dd310c7915_11.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: 21.10.13
 - android: '11.0'
   codename: lmi
   date: '2021-10-02'
@@ -4224,6 +4356,12 @@
   version: 20.5.7
 - android: '11.0'
   codename: phoenix
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_PHOENIX_21.10.13_8ed664c123_11.0.zip
+  name: Redmi K30 4G
+  version: 21.10.13
+- android: '11.0'
+  codename: phoenix
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_PHOENIX_21.9.28_8caec78161_11.0.zip
   name: Redmi K30 4G
@@ -4420,6 +4558,18 @@
   download: https://bigota.d.miui.com/20.4.27/miui_PHOENIX_20.4.27_bce2a50650_10.0.zip
   name: Redmi K30 4G
   version: 20.4.27
+- android: '11.0'
+  codename: picasso
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_PICASSO48M_21.10.13_8fcec10aea_11.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: 21.10.13
+- android: '11.0'
+  codename: picasso
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_PICASSO_21.10.13_6c3b6adae1_11.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: 21.10.13
 - android: '11.0'
   codename: picasso
   date: '2021-10-02'
@@ -4800,6 +4950,12 @@
   version: 20.5.7
 - android: '11.0'
   codename: pyxis
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_PYXIS_21.10.13_b33f856d30_11.0.zip
+  name: Mi CC 9/Mi 9 Lite
+  version: 21.10.13
+- android: '11.0'
+  codename: pyxis
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_PYXIS_21.9.28_74fd233501_11.0.zip
   name: Mi CC 9/Mi 9 Lite
@@ -4882,6 +5038,12 @@
   download: https://bigota.d.miui.com/20.5.7/miui_PYXIS_20.5.7_3324c10e52_10.0.zip
   name: Mi CC 9/Mi 9 Lite
   version: 20.5.7
+- android: '11.0'
+  codename: raphael
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_RAPHAEL_21.10.13_3ea331faa8_11.0.zip
+  name: Redmi K20 Pro/Mi 9T Pro
+  version: 21.10.13
 - android: '11.0'
   codename: raphael
   date: '2021-10-02'
@@ -5160,6 +5322,12 @@
   version: 20.5.21
 - android: '12.0'
   codename: star
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_STAR_21.10.13_33ac1ba430_12.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: 21.10.13
+- android: '12.0'
+  codename: star
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.29/miui_STAR_21.9.29_39e3de4ee2_12.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
@@ -5248,6 +5416,12 @@
   download: https://bigota.d.miui.com/21.4.15/miui_STAR_21.4.15_8d0e8ed07d_11.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: 21.4.15
+- android: '12.0'
+  codename: thyme
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_THYME_21.10.13_8acb982fa7_12.0.zip
+  name: Mi 10S
+  version: 21.10.13
 - android: '11.0'
   codename: thyme
   date: '2021-09-16'
@@ -5362,6 +5536,12 @@
   download: https://bigota.d.miui.com/21.3.31/miui_THYME_21.3.31_f0d030a150_11.0.zip
   name: Mi 10S
   version: 21.3.31
+- android: '11.0'
+  codename: tucana
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_TUCANA_21.10.13_11b6c60135_11.0.zip
+  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
+  version: 21.10.13
 - android: '11.0'
   codename: tucana
   date: '2021-10-02'
@@ -5596,6 +5776,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_TUCANA_20.4.27_abeb5b26f5_10.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 20.4.27
+- android: '11.0'
+  codename: umi
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_UMI_21.10.13_b1094a2d8c_11.0.zip
+  name: Mi 10
+  version: 21.10.13
 - android: '11.0'
   codename: umi
   date: '2021-10-02'
@@ -5946,6 +6132,12 @@
   version: 20.5.7
 - android: '11.0'
   codename: vangogh
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_VANGOGH_21.10.13_bd6f763379_11.0.zip
+  name: Mi 10 Lite Zoom
+  version: 21.10.13
+- android: '11.0'
+  codename: vangogh
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_VANGOGH_21.9.28_b7d437660c_11.0.zip
   name: Mi 10 Lite Zoom
@@ -6168,6 +6360,12 @@
   version: 20.5.28
 - android: '11.0'
   codename: vela
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_VELA_21.10.13_7963fcb1d5_11.0.zip
+  name: Mi CC 9 Meitu Edition
+  version: 21.10.13
+- android: '11.0'
+  codename: vela
   date: '2021-10-02'
   download: https://bigota.d.miui.com/21.9.28/miui_VELA_21.9.28_3d7fdfb235_11.0.zip
   name: Mi CC 9 Meitu Edition
@@ -6250,6 +6448,12 @@
   download: https://bigota.d.miui.com/20.5.7/miui_VELA_20.5.7_7536d272a4_10.0.zip
   name: Mi CC 9 Meitu Edition
   version: 20.5.7
+- android: '12.0'
+  codename: venus
+  date: '2021-10-16'
+  download: https://bigota.d.miui.com/21.10.13/miui_VENUS_21.10.13_66ce7bc273_12.0.zip
+  name: Mi 11
+  version: 21.10.13
 - android: '12.0'
   codename: venus
   date: '2021-10-02'

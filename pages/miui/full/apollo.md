@@ -52,7 +52,8 @@ permalink: /archive/miui/apollo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RJDEUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-10-08</td><td><a href="/miui/apollo/stable beta/V12.5.7.0.RJDEUXM/">Download</a></td></tr>
+                <tr><td>Redmi K30S Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.10.13</td><td>11.0</td><td>4.4 GB</td><td>2021-10-14</td><td><a href="/miui/apollo/weekly/21.10.13/">Download</a></td></tr>
+<tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RJDEUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-10-08</td><td><a href="/miui/apollo/stable beta/V12.5.7.0.RJDEUXM/">Download</a></td></tr>
 <tr><td>Redmi K30S Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.9.28</td><td>11.0</td><td>4.4 GB</td><td>2021-09-29</td><td><a href="/miui/apollo/weekly/21.9.28/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RJDINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-09-29</td><td><a href="/miui/apollo/stable beta/V12.5.3.0.RJDINXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RJDIDXM</td><td>11.0</td><td>3.2 GB</td><td>2021-09-26</td><td><a href="/miui/apollo/stable beta/V12.5.2.0.RJDIDXM/">Download</a></td></tr>
