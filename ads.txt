@@ -719,4 +719,8 @@ smartadserver.com, 4111, RESELLER
 google.com, pub-2319012095426933, DIRECT, f08c47fec0942fa0
 themediagrid.com, jtqkmp, RESELLER, 35d5010d7789b49d
 lkqd.net, 758, DIRECT, 59c49fa9598a0117
+xandr.com, 9393, RESELLER, f5ab79cb980f11d1
+answermedia.com, 1957681, DIRECT
+google.com, pub-2676906268047214, DIRECT, f08c47fec0942fa0
+google.com, pub-7719500339410191, DIRECT, f08c47fec0942fa0
 #VLI END
