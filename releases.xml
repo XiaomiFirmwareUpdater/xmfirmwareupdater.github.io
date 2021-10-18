@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 17 Oct 2021 03:54:36 +0900</pubDate>
+  <pubDate>Mon, 18 Oct 2021 19:32:20 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V12.5.5.0.RKXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Mon, 18 Oct 2021 19:32:20 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Meitu Edition (vela) - 21.10.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
@@ -100,11 +105,6 @@
     <title>Mi 9 (cepheus) - 21.10.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
     <pubDate>Sun, 17 Oct 2021 01:31:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Ultra (cas) - 21.10.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
-    <pubDate>Sun, 17 Oct 2021 01:23:04 +0900</pubDate>
   </item>
     </channel>
 </rss>
