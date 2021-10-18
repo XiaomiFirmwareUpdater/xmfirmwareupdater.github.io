@@ -1,15 +1,25 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 19 Oct 2021 02:30:02 +0900</pubDate>
+  <pubDate>Tue, 19 Oct 2021 02:38:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>POCO X3 Pro (vayu) - V12.5.5.0.RJUMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
+    <pubDate>Tue, 19 Oct 2021 02:38:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.4.0.RFDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Tue, 19 Oct 2021 02:33:57 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi Note 10 (mojito) - V12.5.2.0.RKGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Tue, 19 Oct 2021 02:30:02 +0900</pubDate>
+    <pubDate>Tue, 19 Oct 2021 02:31:21 +0900</pubDate>
   </item>
     <item>
     <title>Xiaomi Pad 5 (nabu) - V12.5.8.0.RKXMIXM</title>
@@ -95,16 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.10.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Sun, 17 Oct 2021 02:32:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 21.10.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Sun, 17 Oct 2021 02:25:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 21.10.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Sun, 17 Oct 2021 02:18:53 +0900</pubDate>
   </item>
     </channel>
 </rss>
