@@ -11489,6 +11489,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
 - branch: stable
+  date: '2021-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-18.10.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
+  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKQEUXM
+- branch: stable
   date: '2021-10-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-08.10.2021/fw_courbet_miui_COURBETGlobal_V12.5.6.0.RKQMIXM_e7eea260ac_11.0.zip
@@ -20719,6 +20729,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-18.10.2021/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.15.0.RFQMIXM_b7c89b8fed_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.15.0.RFQMIXM_b7c89b8fed_11.0.zip
+  filename: fw_laurel_miui_LAURELSPROUTGlobal_V12.0.15.0.RFQMIXM_b7c89b8fed_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.15.0.RFQMIXM
+- branch: stable
   date: '2021-09-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-23.09.2021/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.12.0.RFQEUXM_d43ba46fb9_11.0.zip
@@ -22658,6 +22678,16 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QJQCNXM
+- branch: stable
+  date: '2021-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-18.10.2021/fw_lisa_miui_LISAINGlobal_V12.5.2.0.RKOINXM_2fd16dd2fd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAINGlobal_V12.5.2.0.RKOINXM_2fd16dd2fd_11.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_V12.5.2.0.RKOINXM_2fd16dd2fd_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKOINXM
 - branch: stable
   date: '2021-09-29'
   downloads:
@@ -24749,6 +24779,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-18.10.2021/fw_mojito_miui_MOJITOEEAGlobal_V12.5.2.0.RKGEUXM_2fdd7585d6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOEEAGlobal_V12.5.2.0.RKGEUXM_2fdd7585d6_11.0.zip
+  filename: fw_mojito_miui_MOJITOEEAGlobal_V12.5.2.0.RKGEUXM_2fdd7585d6_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKGEUXM
+- branch: stable
   date: '2021-09-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-13.09.2021/fw_mojito_miui_MOJITOINGlobal_V12.5.2.0.RKGINXM_904d36c608_11.0.zip
@@ -24868,6 +24908,16 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RKVCNXM
+- branch: stable
+  date: '2021-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-18.10.2021/fw_monet_miui_MONETGlobal_V12.5.4.0.RJIMIXM_55bfcc7da8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.5.4.0.RJIMIXM_55bfcc7da8_11.0.zip
+  filename: fw_monet_miui_MONETGlobal_V12.5.4.0.RJIMIXM_55bfcc7da8_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJIMIXM
 - branch: stable
   date: '2021-08-23'
   downloads:
@@ -25028,6 +25078,16 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RKXEUXM
+- branch: stable
+  date: '2021-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-18.10.2021/fw_nabu_miui_NABUGlobal_V12.5.8.0.RKXMIXM_0de4d2941e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABUGlobal_V12.5.8.0.RKXMIXM_0de4d2941e_11.0.zip
+  filename: fw_nabu_miui_NABUGlobal_V12.5.8.0.RKXMIXM_0de4d2941e_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKXMIXM
 - branch: stable
   date: '2021-10-15'
   downloads:
@@ -38658,6 +38718,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: stable
+  date: '2021-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-18.10.2021/fw_tucana_miui_TUCANAEEAGlobal_V12.5.4.0.RFDEUXM_200e8c7330_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAEEAGlobal_V12.5.4.0.RFDEUXM_200e8c7330_11.0.zip
+  filename: fw_tucana_miui_TUCANAEEAGlobal_V12.5.4.0.RFDEUXM_200e8c7330_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RFDEUXM
 - branch: weekly
   date: '2021-10-16'
   downloads:
@@ -42518,6 +42588,16 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJVCNXM
+- branch: stable
+  date: '2021-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-18.10.2021/fw_vayu_miui_VAYUGlobal_V12.5.5.0.RJUMIXM_9217fed24b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUGlobal_V12.5.5.0.RJUMIXM_9217fed24b_11.0.zip
+  filename: fw_vayu_miui_VAYUGlobal_V12.5.5.0.RJUMIXM_9217fed24b_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJUMIXM
 - branch: stable
   date: '2021-09-06'
   downloads:
