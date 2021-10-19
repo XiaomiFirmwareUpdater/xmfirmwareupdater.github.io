@@ -52,7 +52,7 @@ permalink: /archive/miui/atom/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.10.13</td><td>11.0</td><td>3.6 GB</td><td>2021-10-14</td><td><a href="/miui/atom/weekly/21.10.13/">Download</a></td></tr>
+                <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.10.13</td><td>11.0</td><td>3.5 GB</td><td>2021-10-14</td><td><a href="/miui/atom/weekly/21.10.13/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.28</td><td>11.0</td><td>3.6 GB</td><td>2021-09-29</td><td><a href="/miui/atom/weekly/21.9.28/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.22</td><td>11.0</td><td>3.6 GB</td><td>2021-09-23</td><td><a href="/miui/atom/weekly/21.9.22/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.9.15</td><td>11.0</td><td>3.6 GB</td><td>2021-09-16</td><td><a href="/miui/atom/weekly/21.9.15/">Download</a></td></tr>

@@ -16698,6 +16698,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-19.10.2021/fw_ginkgo_miui_GINKGO_V12.5.3.0.RCOCNXM_1dd31985ed_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGO_V12.5.3.0.RCOCNXM_1dd31985ed_11.0.zip
+  filename: fw_ginkgo_miui_GINKGO_V12.5.3.0.RCOCNXM_1dd31985ed_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RCOCNXM
 - branch: weekly
   date: '2021-10-16'
   downloads:
@@ -26408,6 +26418,16 @@
   versions:
     android: '11.0'
     miui: V12.5.4.0.RKMCNXM
+- branch: stable
+  date: '2021-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olive/releases/download/stable-19.10.2021/fw_olive_miui_OLIVEEEAGlobal_V12.5.1.0.QCNEUXM_871b90adac_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEEEAGlobal_V12.5.1.0.QCNEUXM_871b90adac_10.0.zip
+  filename: fw_olive_miui_OLIVEEEAGlobal_V12.5.1.0.QCNEUXM_871b90adac_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.5.1.0.QCNEUXM
 - branch: stable
   date: '2021-08-23'
   downloads:
@@ -38498,6 +38518,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2021-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-19.10.2021/fw_toco_miui_TOCOEEAGlobal_V12.5.4.0.RFNEUXM_bb88dfaf69_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.5.4.0.RFNEUXM_bb88dfaf69_11.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.5.4.0.RFNEUXM_bb88dfaf69_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RFNEUXM
 - branch: stable
   date: '2021-10-14'
   downloads:
