@@ -52,7 +52,8 @@ permalink: /archive/miui/cannong/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RJEEUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-08-11</td><td><a href="/miui/cannong/stable/V12.5.4.0.RJEEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RJEMIXM</td><td>11.0</td><td>2.4 GB</td><td>2021-10-14</td><td><a href="/miui/cannong/stable beta/V12.5.5.0.RJEMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RJEEUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-08-11</td><td><a href="/miui/cannong/stable/V12.5.4.0.RJEEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RJEEUXM</td><td>11.0</td><td>4.9 GB</td><td>2021-08-03</td><td><a href="/miui/cannong/stable/V12.5.4.0.RJEEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RJEMIXM</td><td>11.0</td><td>2.4 GB</td><td>2021-08-04</td><td><a href="/miui/cannong/stable/V12.5.4.0.RJEMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RJEMIXM</td><td>11.0</td><td>4.9 GB</td><td>2021-07-29</td><td><a href="/miui/cannong/stable/V12.5.4.0.RJEMIXM/">Download</a></td></tr>
