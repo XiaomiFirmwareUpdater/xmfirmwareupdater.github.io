@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) Firmware Downloads
+title: Redmi Note 9S/Redmi Note 9 Pro (curtana) Firmware Downloads
 layout: download
-name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
+name: Redmi Note 9S/Redmi Note 9 Pro
 codename: curtana
 permalink: /archive/firmware/curtana/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/curtana/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/curtana/">Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/curtana/">Redmi Note 9S/Redmi Note 9 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
