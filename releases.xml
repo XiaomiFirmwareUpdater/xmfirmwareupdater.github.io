@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 19 Oct 2021 02:38:59 +0900</pubDate>
+  <pubDate>Wed, 20 Oct 2021 01:17:58 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9T (cannong) - V12.5.5.0.RJEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Wed, 20 Oct 2021 01:17:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.7.0.RKAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Tue, 19 Oct 2021 19:46:15 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 Pro (vayu) - V12.5.5.0.RJUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
@@ -95,16 +105,6 @@
     <title>Redmi K30 4G (phoenix) - 21.10.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
     <pubDate>Sun, 17 Oct 2021 02:51:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 21.10.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Sun, 17 Oct 2021 02:44:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.10.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Sun, 17 Oct 2021 02:32:31 +0900</pubDate>
   </item>
     </channel>
 </rss>
