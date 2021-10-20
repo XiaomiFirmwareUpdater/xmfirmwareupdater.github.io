@@ -63,12 +63,11 @@ permalink: /miui/mojito/
 <tr><td>Redmi Note 10 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKGINXM</td><td>11.0</td><td>3.4 GB</td><td>2021-09-05</td><td><a href="/miui/mojito/stable/V12.5.2.0.RKGINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 India</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKGINXM</td><td>11.0</td><td>2.5 GB</td><td>2021-09-10</td><td><a href="/miui/mojito/stable/V12.5.2.0.RKGINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKGRUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-10-15</td><td><a href="/miui/mojito/stable beta/V12.5.2.0.RKGRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKGTRXM</td><td>11.0</td><td>4.3 GB</td><td>2021-08-13</td><td><a href="/miui/mojito/stable/V12.5.1.0.RKGTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKGTRXM</td><td>11.0</td><td>2.5 GB</td><td>2021-08-18</td><td><a href="/miui/mojito/stable/V12.5.1.0.RKGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKGIDXM</td><td>11.0</td><td>2.6 GB</td><td>2021-10-16</td><td><a href="/miui/mojito/stable beta/V12.5.2.0.RKGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKGRUXM</td><td>11.0</td><td>4.7 GB</td><td>2021-08-13</td><td><a href="/miui/mojito/stable/V12.5.1.0.RKGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKGRUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-08-18</td><td><a href="/miui/mojito/stable/V12.5.1.0.RKGRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKGTRXM</td><td>11.0</td><td>2.6 GB</td><td>2021-10-16</td><td><a href="/miui/mojito/stable beta/V12.5.2.0.RKGTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKGTRXM</td><td>11.0</td><td>4.4 GB</td><td>2021-10-09</td><td><a href="/miui/mojito/stable/V12.5.2.0.RKGTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKGTRXM</td><td>11.0</td><td>2.6 GB</td><td>2021-10-16</td><td><a href="/miui/mojito/stable/V12.5.2.0.RKGTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
