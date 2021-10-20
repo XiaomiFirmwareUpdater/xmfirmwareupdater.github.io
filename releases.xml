@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 20 Oct 2021 19:23:54 +0900</pubDate>
+  <pubDate>Thu, 21 Oct 2021 01:42:09 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.5.2.0.RKSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Thu, 21 Oct 2021 01:42:09 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V12.5.3.0.RJGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -100,11 +105,6 @@
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.10.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Sun, 17 Oct 2021 03:29:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.10.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Sun, 17 Oct 2021 03:22:26 +0900</pubDate>
   </item>
     </channel>
 </rss>
