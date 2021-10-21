@@ -169,15 +169,15 @@
     android: '11.0'
     miui: V12.5.5.0.RJDCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/weekly-16.10.2021/fw_apollo_miui_APOLLO_21.10.13_0a11e8b3bc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/apollo/fw_apollo_miui_APOLLO_21.10.13_0a11e8b3bc_11.0.zip
-  filename: fw_apollo_miui_APOLLO_21.10.13_0a11e8b3bc_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/weekly-21.10.2021/fw_apollo_miui_APOLLO_21.10.20_2d8f3a9338_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/apollo/fw_apollo_miui_APOLLO_21.10.20_2d8f3a9338_11.0.zip
+  filename: fw_apollo_miui_APOLLO_21.10.20_2d8f3a9338_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-10-12'
   downloads:
@@ -259,15 +259,15 @@
     android: '11.0'
     miui: V12.5.4.0.RJHCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-16.10.2021/fw_atom_miui_ATOM_21.10.13_af154126d9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/atom/fw_atom_miui_ATOM_21.10.13_af154126d9_11.0.zip
-  filename: fw_atom_miui_ATOM_21.10.13_af154126d9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-21.10.2021/fw_atom_miui_ATOM_21.10.20_e34014370e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/atom/fw_atom_miui_ATOM_21.10.20_e34014370e_11.0.zip
+  filename: fw_atom_miui_ATOM_21.10.20_e34014370e_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-09-10'
   downloads:
@@ -289,15 +289,15 @@
     android: '11.0'
     miui: V12.5.2.0.RGGCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-16.10.2021/fw_begonia_miui_BEGONIA_21.10.13_69e8db59b9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/begonia/fw_begonia_miui_BEGONIA_21.10.13_69e8db59b9_11.0.zip
-  filename: fw_begonia_miui_BEGONIA_21.10.13_69e8db59b9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-21.10.2021/fw_begonia_miui_BEGONIA_21.10.20_aa462fd3cb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/begonia/fw_begonia_miui_BEGONIA_21.10.20_aa462fd3cb_11.0.zip
+  filename: fw_begonia_miui_BEGONIA_21.10.20_aa462fd3cb_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-09-06'
   downloads:
@@ -369,15 +369,15 @@
     android: '11.0'
     miui: V12.5.4.0.RJLCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-16.10.2021/fw_bomb_miui_BOMB_21.10.13_349da7bf31_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/bomb/fw_bomb_miui_BOMB_21.10.13_349da7bf31_11.0.zip
-  filename: fw_bomb_miui_BOMB_21.10.13_349da7bf31_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-21.10.2021/fw_bomb_miui_BOMB_21.10.20_b7a13c671a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/bomb/fw_bomb_miui_BOMB_21.10.20_b7a13c671a_11.0.zip
+  filename: fw_bomb_miui_BOMB_21.10.20_b7a13c671a_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2020-09-22'
   downloads:
@@ -459,15 +459,15 @@
     android: '11.0'
     miui: V12.5.7.0.RJECNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-16.10.2021/fw_cannon_miui_CANNON_21.10.13_c649771a34_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/cannon/fw_cannon_miui_CANNON_21.10.13_c649771a34_11.0.zip
-  filename: fw_cannon_miui_CANNON_21.10.13_c649771a34_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-21.10.2021/fw_cannon_miui_CANNON_21.10.20_2336529246_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/cannon/fw_cannon_miui_CANNON_21.10.20_2336529246_11.0.zip
+  filename: fw_cannon_miui_CANNON_21.10.20_2336529246_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-10-19'
   downloads:
@@ -559,15 +559,15 @@
     android: '11.0'
     miui: V12.5.6.0.RJJCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/weekly-16.10.2021/fw_cas_miui_CAS_21.10.13_381f2b131c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/cas/fw_cas_miui_CAS_21.10.13_381f2b131c_11.0.zip
-  filename: fw_cas_miui_CAS_21.10.13_381f2b131c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/weekly-21.10.2021/fw_cas_miui_CAS_21.10.20_b6ef64be63_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/cas/fw_cas_miui_CAS_21.10.20_b6ef64be63_11.0.zip
+  filename: fw_cas_miui_CAS_21.10.20_b6ef64be63_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-07-20'
   downloads:
@@ -609,15 +609,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/weekly-16.10.2021/fw_cepheus_miui_CEPHEUS_21.10.13_e01e682291_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/cepheus/fw_cepheus_miui_CEPHEUS_21.10.13_e01e682291_11.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_21.10.13_e01e682291_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/weekly-21.10.2021/fw_cepheus_miui_CEPHEUS_21.10.20_35e0b33800_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/cepheus/fw_cepheus_miui_CEPHEUS_21.10.20_35e0b33800_11.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_21.10.20_35e0b33800_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-07-15'
   downloads:
@@ -689,15 +689,15 @@
     android: '11.0'
     miui: V12.5.5.0.RJNCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-16.10.2021/fw_cezanne_miui_CEZANNE_21.10.13_df3aa20588_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/cezanne/fw_cezanne_miui_CEZANNE_21.10.13_df3aa20588_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.10.13_df3aa20588_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-21.10.2021/fw_cezanne_miui_CEZANNE_21.10.20_948b8b7e20_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/cezanne/fw_cezanne_miui_CEZANNE_21.10.20_948b8b7e20_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.10.20_948b8b7e20_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2020-10-10'
   downloads:
@@ -839,15 +839,15 @@
     android: '11.0'
     miui: V12.5.8.0.RJACNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-16.10.2021/fw_cmi_miui_CMI_21.10.13_f08da89188_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/cmi/fw_cmi_miui_CMI_21.10.13_f08da89188_11.0.zip
-  filename: fw_cmi_miui_CMI_21.10.13_f08da89188_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-21.10.2021/fw_cmi_miui_CMI_21.10.20_656ab9c921_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/cmi/fw_cmi_miui_CMI_21.10.20_656ab9c921_11.0.zip
+  filename: fw_cmi_miui_CMI_21.10.20_656ab9c921_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-07-26'
   downloads:
@@ -899,15 +899,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFXCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-16.10.2021/fw_crux_miui_CRUX_21.10.13_c155fd1018_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/crux/fw_crux_miui_CRUX_21.10.13_c155fd1018_11.0.zip
-  filename: fw_crux_miui_CRUX_21.10.13_c155fd1018_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_crux/releases/download/weekly-21.10.2021/fw_crux_miui_CRUX_21.10.20_6669d0b702_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/crux/fw_crux_miui_CRUX_21.10.20_6669d0b702_11.0.zip
+  filename: fw_crux_miui_CRUX_21.10.20_6669d0b702_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-09-27'
   downloads:
@@ -1009,15 +1009,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFJCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/weekly-16.10.2021/fw_davinci_miui_DAVINCI_21.10.13_0fa40289a1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/davinci/fw_davinci_miui_DAVINCI_21.10.13_0fa40289a1_11.0.zip
-  filename: fw_davinci_miui_DAVINCI_21.10.13_0fa40289a1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/weekly-21.10.2021/fw_davinci_miui_DAVINCI_21.10.20_4d456b3bec_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/davinci/fw_davinci_miui_DAVINCI_21.10.20_4d456b3bec_11.0.zip
+  filename: fw_davinci_miui_DAVINCI_21.10.20_4d456b3bec_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-09-19'
   downloads:
@@ -1179,15 +1179,15 @@
     android: '11.0'
     miui: V12.5.4.0.RJSCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/weekly-16.10.2021/fw_gauguin_miui_GAUGUIN_21.10.13_7aea4da79a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/gauguin/fw_gauguin_miui_GAUGUIN_21.10.13_7aea4da79a_11.0.zip
-  filename: fw_gauguin_miui_GAUGUIN_21.10.13_7aea4da79a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/weekly-21.10.2021/fw_gauguin_miui_GAUGUIN_21.10.20_86fde6898a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/gauguin/fw_gauguin_miui_GAUGUIN_21.10.20_86fde6898a_11.0.zip
+  filename: fw_gauguin_miui_GAUGUIN_21.10.20_86fde6898a_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-09-28'
   downloads:
@@ -1269,15 +1269,15 @@
     android: '11.0'
     miui: V12.5.3.0.RCOCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/weekly-16.10.2021/fw_ginkgo_miui_GINKGO_21.10.13_562cd78a0c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/ginkgo/fw_ginkgo_miui_GINKGO_21.10.13_562cd78a0c_11.0.zip
-  filename: fw_ginkgo_miui_GINKGO_21.10.13_562cd78a0c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/weekly-21.10.2021/fw_ginkgo_miui_GINKGO_21.10.20_ed5b7422fc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/ginkgo/fw_ginkgo_miui_GINKGO_21.10.20_ed5b7422fc_11.0.zip
+  filename: fw_ginkgo_miui_GINKGO_21.10.20_ed5b7422fc_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-08-23'
   downloads:
@@ -1329,15 +1329,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFBCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/weekly-16.10.2021/fw_grus_miui_GRUS_21.10.13_3a59b4be8a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/grus/fw_grus_miui_GRUS_21.10.13_3a59b4be8a_11.0.zip
-  filename: fw_grus_miui_GRUS_21.10.13_3a59b4be8a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/weekly-21.10.2021/fw_grus_miui_GRUS_21.10.20_b329087729_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/grus/fw_grus_miui_GRUS_21.10.20_b329087729_11.0.zip
+  filename: fw_grus_miui_GRUS_21.10.20_b329087729_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-06-30'
   downloads:
@@ -1849,15 +1849,15 @@
     android: '11.0'
     miui: V12.5.1.0.RJQCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-16.10.2021/fw_lime_miui_LIME_21.10.13_c7dbe2e697_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/lime/fw_lime_miui_LIME_21.10.13_c7dbe2e697_11.0.zip
-  filename: fw_lime_miui_LIME_21.10.13_c7dbe2e697_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-21.10.2021/fw_lime_miui_LIME_21.10.20_82dc17e1ac_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/lime/fw_lime_miui_LIME_21.10.20_82dc17e1ac_11.0.zip
+  filename: fw_lime_miui_LIME_21.10.20_82dc17e1ac_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-10-14'
   downloads:
@@ -1969,15 +1969,15 @@
     android: '11.0'
     miui: V12.5.5.0.RJKCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-16.10.2021/fw_lmi_miui_LMI_21.10.13_dd310c7915_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/lmi/fw_lmi_miui_LMI_21.10.13_dd310c7915_11.0.zip
-  filename: fw_lmi_miui_LMI_21.10.13_dd310c7915_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-21.10.2021/fw_lmi_miui_LMI_21.10.20_6d4fea3575_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/lmi/fw_lmi_miui_LMI_21.10.20_6d4fea3575_11.0.zip
+  filename: fw_lmi_miui_LMI_21.10.20_6d4fea3575_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-08-17'
   downloads:
@@ -2559,15 +2559,15 @@
     android: '11.0'
     miui: V12.5.3.0.RGHCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-16.10.2021/fw_phoenix_miui_PHOENIX_21.10.13_8ed664c123_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/phoenix/fw_phoenix_miui_PHOENIX_21.10.13_8ed664c123_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.10.13_8ed664c123_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-21.10.2021/fw_phoenix_miui_PHOENIX_21.10.20_0a6c112ebb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/phoenix/fw_phoenix_miui_PHOENIX_21.10.20_0a6c112ebb_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.10.20_0a6c112ebb_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-10-08'
   downloads:
@@ -2589,15 +2589,15 @@
     android: '11.0'
     miui: V12.5.4.0.RGICMXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-16.10.2021/fw_picasso_miui_PICASSO48M_21.10.13_8fcec10aea_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/picasso/fw_picasso_miui_PICASSO48M_21.10.13_8fcec10aea_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.10.13_8fcec10aea_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-21.10.2021/fw_picasso_miui_PICASSO48M_21.10.20_4498e24c68_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/picasso/fw_picasso_miui_PICASSO48M_21.10.20_4498e24c68_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.10.20_4498e24c68_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-05-25'
   downloads:
@@ -2759,15 +2759,15 @@
     android: '11.0'
     miui: V12.5.3.0.RFCCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-16.10.2021/fw_pyxis_miui_PYXIS_21.10.13_b33f856d30_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/pyxis/fw_pyxis_miui_PYXIS_21.10.13_b33f856d30_11.0.zip
-  filename: fw_pyxis_miui_PYXIS_21.10.13_b33f856d30_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/weekly-21.10.2021/fw_pyxis_miui_PYXIS_21.10.20_2c39135f87_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/pyxis/fw_pyxis_miui_PYXIS_21.10.20_2c39135f87_11.0.zip
+  filename: fw_pyxis_miui_PYXIS_21.10.20_2c39135f87_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-08-06'
   downloads:
@@ -2799,15 +2799,15 @@
     android: '11.0'
     miui: V12.5.5.0.RFKCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/weekly-16.10.2021/fw_raphael_miui_RAPHAEL_21.10.13_3ea331faa8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/raphael/fw_raphael_miui_RAPHAEL_21.10.13_3ea331faa8_11.0.zip
-  filename: fw_raphael_miui_RAPHAEL_21.10.13_3ea331faa8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphael/releases/download/weekly-21.10.2021/fw_raphael_miui_RAPHAEL_21.10.20_427a506193_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/raphael/fw_raphael_miui_RAPHAEL_21.10.20_427a506193_11.0.zip
+  filename: fw_raphael_miui_RAPHAEL_21.10.20_427a506193_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-07-06'
   downloads:
@@ -3419,15 +3419,15 @@
     android: '11.0'
     miui: V12.5.5.0.RFDCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-16.10.2021/fw_tucana_miui_TUCANA_21.10.13_11b6c60135_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/tucana/fw_tucana_miui_TUCANA_21.10.13_11b6c60135_11.0.zip
-  filename: fw_tucana_miui_TUCANA_21.10.13_11b6c60135_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-21.10.2021/fw_tucana_miui_TUCANA_21.10.20_9752bf6bd5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/tucana/fw_tucana_miui_TUCANA_21.10.20_9752bf6bd5_11.0.zip
+  filename: fw_tucana_miui_TUCANA_21.10.20_9752bf6bd5_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-10-18'
   downloads:
@@ -3559,15 +3559,15 @@
     android: '11.0'
     miui: V12.5.8.0.RJBCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-16.10.2021/fw_umi_miui_UMI_21.10.13_b1094a2d8c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/umi/fw_umi_miui_UMI_21.10.13_b1094a2d8c_11.0.zip
-  filename: fw_umi_miui_UMI_21.10.13_b1094a2d8c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-21.10.2021/fw_umi_miui_UMI_21.10.20_28ea1054e5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/umi/fw_umi_miui_UMI_21.10.20_28ea1054e5_11.0.zip
+  filename: fw_umi_miui_UMI_21.10.20_28ea1054e5_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-09-30'
   downloads:
@@ -3619,15 +3619,15 @@
     android: '11.0'
     miui: V12.5.4.0.RJVCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-16.10.2021/fw_vangogh_miui_VANGOGH_21.10.13_bd6f763379_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/vangogh/fw_vangogh_miui_VANGOGH_21.10.13_bd6f763379_11.0.zip
-  filename: fw_vangogh_miui_VANGOGH_21.10.13_bd6f763379_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-21.10.2021/fw_vangogh_miui_VANGOGH_21.10.20_e1079a0dd3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/vangogh/fw_vangogh_miui_VANGOGH_21.10.20_e1079a0dd3_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_21.10.20_e1079a0dd3_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-10-18'
   downloads:
@@ -3669,15 +3669,15 @@
     android: '11.0'
     miui: V12.5.3.0.RFECNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vela/releases/download/weekly-16.10.2021/fw_vela_miui_VELA_21.10.13_7963fcb1d5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/vela/fw_vela_miui_VELA_21.10.13_7963fcb1d5_11.0.zip
-  filename: fw_vela_miui_VELA_21.10.13_7963fcb1d5_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vela/releases/download/weekly-21.10.2021/fw_vela_miui_VELA_21.10.20_a262a6b92d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/vela/fw_vela_miui_VELA_21.10.20_a262a6b92d_11.0.zip
+  filename: fw_vela_miui_VELA_21.10.20_a262a6b92d_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-10-11'
   downloads:

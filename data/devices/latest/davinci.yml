@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFJCNXM
 - branch: weekly
-  date: '2021-10-16'
+  date: '2021-10-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/weekly-16.10.2021/fw_davinci_miui_DAVINCI_21.10.13_0fa40289a1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/davinci/fw_davinci_miui_DAVINCI_21.10.13_0fa40289a1_11.0.zip
-  filename: fw_davinci_miui_DAVINCI_21.10.13_0fa40289a1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_davinci/releases/download/weekly-21.10.2021/fw_davinci_miui_DAVINCI_21.10.20_4d456b3bec_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/davinci/fw_davinci_miui_DAVINCI_21.10.20_4d456b3bec_11.0.zip
+  filename: fw_davinci_miui_DAVINCI_21.10.20_4d456b3bec_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.13
+    miui: 21.10.20
 - branch: stable
   date: '2021-09-19'
   downloads:
