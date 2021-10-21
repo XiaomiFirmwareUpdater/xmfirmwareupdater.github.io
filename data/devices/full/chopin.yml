@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-21.10.2021/fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/chopin/fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.10.20
+- branch: weekly
   date: '2021-10-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-16.10.2021/fw_chopin_miui_CHOPIN_21.10.13_5c9d021012_11.0.zip

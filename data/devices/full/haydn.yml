@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/weekly-21.10.2021/fw_haydn_miui_HAYDN_21.10.20_6e51a7b720_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/haydn/fw_haydn_miui_HAYDN_21.10.20_6e51a7b720_12.0.zip
+  filename: fw_haydn_miui_HAYDN_21.10.20_6e51a7b720_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.10.20
+- branch: weekly
   date: '2021-10-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/weekly-16.10.2021/fw_haydn_miui_HAYDN_21.10.13_ea44c395ce_12.0.zip

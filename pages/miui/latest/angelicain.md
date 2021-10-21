@@ -1,7 +1,7 @@
 ---
-title: POCO C3/C31 (angelicain) MIUI Downloads
+title: POCO C3 (angelicain) MIUI Downloads
 layout: download
-name: POCO C3/C31
+name: POCO C3
 codename: angelicain
 permalink: /miui/angelicain/
 ---
@@ -9,7 +9,7 @@ permalink: /miui/angelicain/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/angelicain/">POCO C3/C31</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/angelicain/">POCO C3</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -52,9 +52,9 @@ permalink: /miui/angelicain/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C3 / C31 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.13.0.QCRINXM</td><td>10.0</td><td>2.4 GB</td><td>2021-08-20</td><td><a href="/miui/angelicain/stable/V12.0.13.0.QCRINXM/">Download</a></td></tr>
-<tr><td>POCO C3 / C31 India</td><td>Stable</td><td>Recovery</td><td>V12.0.13.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2021-08-30</td><td><a href="/miui/angelicain/stable/V12.0.13.0.QCRINXM/">Download</a></td></tr>
-<tr><td>POCO C3 / C31 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-10-27</td><td><a href="/miui/angelicain/stable beta/V12.0.2.0.QCRINXM/">Download</a></td></tr>
+                <tr><td>POCO C3 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.13.0.QCRINXM</td><td>10.0</td><td>2.4 GB</td><td>2021-08-20</td><td><a href="/miui/angelicain/stable/V12.0.13.0.QCRINXM/">Download</a></td></tr>
+<tr><td>POCO C3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.13.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2021-08-30</td><td><a href="/miui/angelicain/stable/V12.0.13.0.QCRINXM/">Download</a></td></tr>
+<tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-10-27</td><td><a href="/miui/angelicain/stable beta/V12.0.2.0.QCRINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

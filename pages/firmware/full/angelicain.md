@@ -1,7 +1,7 @@
 ---
-title: POCO C3/C31 (angelicain) Firmware Downloads
+title: POCO C3 (angelicain) Firmware Downloads
 layout: download
-name: POCO C3/C31
+name: POCO C3
 codename: angelicain
 permalink: /archive/firmware/angelicain/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/angelicain/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/angelicain/">POCO C3/C31</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/angelicain/">POCO C3</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
