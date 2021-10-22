@@ -4578,6 +4578,12 @@
   version: 20.4.27
 - android: '11.0'
   codename: picasso
+  date: '2021-10-22'
+  download: https://bigota.d.miui.com/21.10.20/miui_PICASSO_21.10.20_a4cdfd70f9_11.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: 21.10.20
+- android: '11.0'
+  codename: picasso
   date: '2021-10-21'
   download: https://bigota.d.miui.com/21.10.20/miui_PICASSO48M_21.10.20_4498e24c68_11.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
