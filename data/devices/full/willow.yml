@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-22.10.2021/fw_willow_miui_WILLOWEEAGlobal_V12.0.3.0.RCXEUXM_a631cfacaa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWEEAGlobal_V12.0.3.0.RCXEUXM_a631cfacaa_11.0.zip
+  filename: fw_willow_miui_WILLOWEEAGlobal_V12.0.3.0.RCXEUXM_a631cfacaa_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.3.0.RCXEUXM
+- branch: stable
   date: '2021-08-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-16.08.2021/fw_willow_miui_WILLOWEEAGlobal_V12.0.2.0.RCXEUXM_d4de58ff52_11.0.zip

@@ -569,15 +569,15 @@
     android: '11.0'
     miui: 21.10.20
 - branch: stable
-  date: '2021-07-20'
+  date: '2021-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cattail/releases/download/stable-20.07.2021/fw_cattail_miui_CATTAILINGlobal_V12.0.12.0.QCTINXM_1cb3cdc4e0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.0.12.0.QCTINXM_1cb3cdc4e0_10.0.zip
-  filename: fw_cattail_miui_CATTAILINGlobal_V12.0.12.0.QCTINXM_1cb3cdc4e0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cattail/releases/download/stable-22.10.2021/fw_cattail_miui_CATTAILINGlobal_V12.0.13.0.QCTINXM_44ea464ba0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.0.13.0.QCTINXM_44ea464ba0_10.0.zip
+  filename: fw_cattail_miui_CATTAILINGlobal_V12.0.13.0.QCTINXM_44ea464ba0_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.12.0.QCTINXM
+    miui: V12.0.13.0.QCTINXM
 - branch: stable
   date: '2021-06-23'
   downloads:
@@ -1159,15 +1159,15 @@
     android: '11.0'
     miui: V12.5.2.0.RJXINXM
 - branch: stable
-  date: '2021-08-04'
+  date: '2021-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-04.08.2021/fw_gauguin_miui_GAUGUINGlobal_V12.5.2.0.RJSMIXM_792f234205_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.5.2.0.RJSMIXM_792f234205_11.0.zip
-  filename: fw_gauguin_miui_GAUGUINGlobal_V12.5.2.0.RJSMIXM_792f234205_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-22.10.2021/fw_gauguin_miui_GAUGUINGlobal_V12.5.3.0.RJSMIXM_53bde989aa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.5.3.0.RJSMIXM_53bde989aa_11.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V12.5.3.0.RJSMIXM_53bde989aa_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RJSMIXM
+    miui: V12.5.3.0.RJSMIXM
 - branch: stable
   date: '2021-10-08'
   downloads:
@@ -3179,15 +3179,15 @@
     android: '11.0'
     miui: V12.5.7.0.RKUMIXM
 - branch: stable
-  date: '2021-10-10'
+  date: '2021-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-11.10.2021/fw_selene_miui_SELENEEEAGlobal_V12.5.5.0.RKUEUXM_d026faeb6e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEEEAGlobal_V12.5.5.0.RKUEUXM_d026faeb6e_11.0.zip
-  filename: fw_selene_miui_SELENEEEAGlobal_V12.5.5.0.RKUEUXM_d026faeb6e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-22.10.2021/fw_selene_miui_SELENEEEAGlobal_V12.5.9.0.RKUEUXM_2cb0d4e625_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEEEAGlobal_V12.5.9.0.RKUEUXM_2cb0d4e625_11.0.zip
+  filename: fw_selene_miui_SELENEEEAGlobal_V12.5.9.0.RKUEUXM_2cb0d4e625_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKUEUXM
+    miui: V12.5.9.0.RKUEUXM
 - branch: stable
   date: '2021-09-13'
   downloads:
@@ -3879,15 +3879,15 @@
     android: '10.0'
     miui: V12.0.4.0.QCXMIXM
 - branch: stable
-  date: '2021-08-16'
+  date: '2021-10-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-16.08.2021/fw_willow_miui_WILLOWEEAGlobal_V12.0.2.0.RCXEUXM_d4de58ff52_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWEEAGlobal_V12.0.2.0.RCXEUXM_d4de58ff52_11.0.zip
-  filename: fw_willow_miui_WILLOWEEAGlobal_V12.0.2.0.RCXEUXM_d4de58ff52_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-22.10.2021/fw_willow_miui_WILLOWEEAGlobal_V12.0.3.0.RCXEUXM_a631cfacaa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWEEAGlobal_V12.0.3.0.RCXEUXM_a631cfacaa_11.0.zip
+  filename: fw_willow_miui_WILLOWEEAGlobal_V12.0.3.0.RCXEUXM_a631cfacaa_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.2.0.RCXEUXM
+    miui: V12.0.3.0.RCXEUXM
 - branch: stable
   date: '2020-09-30'
   downloads:
