@@ -52,7 +52,7 @@ permalink: /archive/miui/lime/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.10.20</td><td>11.0</td><td>3.6 GB</td><td>2021-10-21</td><td><a href="/miui/lime/weekly/21.10.20/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.10.20</td><td>11.0</td><td>3.5 GB</td><td>2021-10-21</td><td><a href="/miui/lime/weekly/21.10.20/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Weekly</td><td>Recovery</td><td>21.10.13</td><td>11.0</td><td>3.7 GB</td><td>2021-10-14</td><td><a href="/miui/lime/weekly/21.10.13/">Download</a></td></tr>
 <tr><td>Redmi 9T Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.0.QJQRUXM</td><td>10.0</td><td>2.7 GB</td><td>2021-10-14</td><td><a href="/miui/lime/stable beta/V12.0.6.0.QJQRUXM/">Download</a></td></tr>
 <tr><td>Redmi 9T EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.12.0.QJQEUXM</td><td>10.0</td><td>2.7 GB</td><td>2021-10-11</td><td><a href="/miui/lime/stable/V12.0.12.0.QJQEUXM/">Download</a></td></tr>
