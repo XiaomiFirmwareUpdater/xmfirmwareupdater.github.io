@@ -24969,6 +24969,16 @@
     android: '11.0'
     miui: V12.5.5.0.RKVCNXM
 - branch: stable
+  date: '2021-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-24.10.2021/fw_monet_miui_MONETEEAGlobal_V12.5.5.0.RJIEUXM_b1909e5dec_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.5.5.0.RJIEUXM_b1909e5dec_11.0.zip
+  filename: fw_monet_miui_MONETEEAGlobal_V12.5.5.0.RJIEUXM_b1909e5dec_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJIEUXM
+- branch: stable
   date: '2021-10-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-18.10.2021/fw_monet_miui_MONETGlobal_V12.5.4.0.RJIMIXM_55bfcc7da8_11.0.zip
