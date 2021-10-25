@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 25 Oct 2021 19:59:53 +0900</pubDate>
+  <pubDate>Tue, 26 Oct 2021 02:17:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO M3 (citrus) - V12.0.11.0.QJFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Tue, 26 Oct 2021 02:17:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX Fold (cetus) - V12.5.1.0.RJTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cetus</link>
+    <pubDate>Tue, 26 Oct 2021 02:12:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8T (willow) - V12.0.2.0.RCXMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
@@ -95,16 +105,6 @@
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.10.20</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Thu, 21 Oct 2021 23:15:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.10.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Thu, 21 Oct 2021 23:14:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.10.20</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Thu, 21 Oct 2021 23:13:09 +0900</pubDate>
   </item>
     </channel>
 </rss>

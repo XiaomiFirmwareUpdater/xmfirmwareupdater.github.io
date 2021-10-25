@@ -659,15 +659,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2021-08-18'
+  date: '2021-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-18.08.2021/fw_cetus_miui_CETUS_V12.0.21.0.RJTCNXM_88269eae6e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.0.21.0.RJTCNXM_88269eae6e_11.0.zip
-  filename: fw_cetus_miui_CETUS_V12.0.21.0.RJTCNXM_88269eae6e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-25.10.2021/fw_cetus_miui_CETUS_V12.5.1.0.RJTCNXM_4f9964d8f8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.5.1.0.RJTCNXM_4f9964d8f8_11.0.zip
+  filename: fw_cetus_miui_CETUS_V12.5.1.0.RJTCNXM_4f9964d8f8_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.0.21.0.RJTCNXM
+    miui: V12.5.1.0.RJTCNXM
 - branch: weekly
   date: '2021-06-24'
   downloads:
@@ -779,15 +779,15 @@
     android: '10.0'
     miui: V12.0.11.0.QJFMIXM
 - branch: stable
-  date: '2021-09-29'
+  date: '2021-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-29.09.2021/fw_citrus_miui_CITRUSEEAGlobal_V12.5.2.0.RJFEUXM_d5a4c1e4fa_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSEEAGlobal_V12.5.2.0.RJFEUXM_d5a4c1e4fa_11.0.zip
-  filename: fw_citrus_miui_CITRUSEEAGlobal_V12.5.2.0.RJFEUXM_d5a4c1e4fa_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-25.10.2021/fw_citrus_miui_CITRUSEEAGlobal_V12.0.11.0.QJFEUXM_e1d2bd84c0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSEEAGlobal_V12.0.11.0.QJFEUXM_e1d2bd84c0_10.0.zip
+  filename: fw_citrus_miui_CITRUSEEAGlobal_V12.0.11.0.QJFEUXM_e1d2bd84c0_10.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V12.5.2.0.RJFEUXM
+    android: '10.0'
+    miui: V12.0.11.0.QJFEUXM
 - branch: stable
   date: '2021-08-13'
   downloads:
