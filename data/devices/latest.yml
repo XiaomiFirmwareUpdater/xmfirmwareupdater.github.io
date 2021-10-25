@@ -1279,15 +1279,15 @@
     android: '11.0'
     miui: 21.10.20
 - branch: stable
-  date: '2021-08-23'
+  date: '2021-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-23.08.2021/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.3.0.RCOEUXM_c6ad8ae9a8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.3.0.RCOEUXM_c6ad8ae9a8_11.0.zip
-  filename: fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.3.0.RCOEUXM_c6ad8ae9a8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-25.10.2021/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.4.0.RCOEUXM_55a93f0b31_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.4.0.RCOEUXM_55a93f0b31_11.0.zip
+  filename: fw_ginkgo_miui_GINKGOEEAGlobal_V12.0.4.0.RCOEUXM_55a93f0b31_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.3.0.RCOEUXM
+    miui: V12.0.4.0.RCOEUXM
 - branch: stable
   date: '2021-01-28'
   downloads:
@@ -1639,15 +1639,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2021-08-06'
+  date: '2021-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-06.08.2021/fw_lancelot_miui_LANCELOTGlobal_V12.5.1.0.RJCMIXM_9d26938a7b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.5.1.0.RJCMIXM_9d26938a7b_11.0.zip
-  filename: fw_lancelot_miui_LANCELOTGlobal_V12.5.1.0.RJCMIXM_9d26938a7b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-25.10.2021/fw_lancelot_miui_LANCELOTGlobal_V12.5.3.0.RJCMIXM_2d89589d10_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.5.3.0.RJCMIXM_2d89589d10_11.0.zip
+  filename: fw_lancelot_miui_LANCELOTGlobal_V12.5.3.0.RJCMIXM_2d89589d10_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RJCMIXM
+    miui: V12.5.3.0.RJCMIXM
 - branch: stable
   date: '2021-07-27'
   downloads:
@@ -2049,15 +2049,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2021-08-06'
+  date: '2021-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-06.08.2021/fw_merlin_miui_MERLINGlobal_V12.5.1.0.RJOMIXM_84b071b256_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.5.1.0.RJOMIXM_84b071b256_11.0.zip
-  filename: fw_merlin_miui_MERLINGlobal_V12.5.1.0.RJOMIXM_84b071b256_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-25.10.2021/fw_merlin_miui_MERLINGlobal_V12.5.2.0.RJOMIXM_e26fe1882b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.5.2.0.RJOMIXM_e26fe1882b_11.0.zip
+  filename: fw_merlin_miui_MERLINGlobal_V12.5.2.0.RJOMIXM_e26fe1882b_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RJOMIXM
+    miui: V12.5.2.0.RJOMIXM
 - branch: stable
   date: '2021-07-15'
   downloads:
@@ -3189,15 +3189,15 @@
     android: '11.0'
     miui: V12.5.9.0.RKUEUXM
 - branch: stable
-  date: '2021-09-13'
+  date: '2021-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-13.09.2021/fw_selene_miui_SELENEINGlobal_V12.5.2.0.RKUINXM_7ab4e553dc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEINGlobal_V12.5.2.0.RKUINXM_7ab4e553dc_11.0.zip
-  filename: fw_selene_miui_SELENEINGlobal_V12.5.2.0.RKUINXM_7ab4e553dc_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-25.10.2021/fw_selene_miui_SELENEINGlobal_V12.5.3.0.RKUINXM_42e1202f8a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEINGlobal_V12.5.3.0.RKUINXM_42e1202f8a_11.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V12.5.3.0.RKUINXM_42e1202f8a_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RKUINXM
+    miui: V12.5.3.0.RKUINXM
 - branch: stable
   date: '2021-08-23'
   downloads:
@@ -3869,15 +3869,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2021-07-23'
+  date: '2021-10-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-23.07.2021/fw_willow_miui_WILLOWGlobal_V12.0.4.0.QCXMIXM_eb971375d1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.0.4.0.QCXMIXM_eb971375d1_10.0.zip
-  filename: fw_willow_miui_WILLOWGlobal_V12.0.4.0.QCXMIXM_eb971375d1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-25.10.2021/fw_willow_miui_WILLOWGlobal_V12.0.2.0.RCXMIXM_5cc543a97e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.0.2.0.RCXMIXM_5cc543a97e_11.0.zip
+  filename: fw_willow_miui_WILLOWGlobal_V12.0.2.0.RCXMIXM_5cc543a97e_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V12.0.4.0.QCXMIXM
+    android: '11.0'
+    miui: V12.0.2.0.RCXMIXM
 - branch: stable
   date: '2021-10-22'
   downloads:
