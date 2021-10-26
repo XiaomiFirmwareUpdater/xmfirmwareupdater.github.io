@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 27 Oct 2021 01:30:02 +0900</pubDate>
+  <pubDate>Wed, 27 Oct 2021 01:32:26 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Mi 10 (umi) - V12.5.6.0.RJBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Wed, 27 Oct 2021 01:30:02 +0900</pubDate>
+    <pubDate>Wed, 27 Oct 2021 01:32:26 +0900</pubDate>
   </item>
     <item>
     <title>Xiaomi 11 Lite 5G NE (lisa) - V12.5.4.0.RKOEUXM</title>
