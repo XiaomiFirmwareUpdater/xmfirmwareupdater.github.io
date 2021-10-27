@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 27 Oct 2021 19:30:02 +0900</pubDate>
+  <pubDate>Wed, 27 Oct 2021 19:34:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>POCO X3 NFC (surya) - V12.5.3.0.RJGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Wed, 27 Oct 2021 19:30:02 +0900</pubDate>
+    <pubDate>Wed, 27 Oct 2021 19:34:19 +0900</pubDate>
   </item>
     <item>
     <title>Redmi 8A (olivelite) - V12.5.2.0.QCPINXM</title>
