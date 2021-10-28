@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-28.10.2021/fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKWEUXM
+- branch: stable
   date: '2021-10-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-08.10.2021/fw_agate_miui_AGATEEEAGlobal_V12.5.5.0.RKWEUXM_d77833347e_11.0.zip
@@ -6338,6 +6348,16 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QJECNXM
+- branch: stable
+  date: '2021-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-28.10.2021/fw_cannong_miui_CANNONGEEAGlobal_V12.5.5.0.RJEEUXM_d0feeebd4f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGEEAGlobal_V12.5.5.0.RJEEUXM_d0feeebd4f_11.0.zip
+  filename: fw_cannong_miui_CANNONGEEAGlobal_V12.5.5.0.RJEEUXM_d0feeebd4f_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJEEUXM
 - branch: stable
   date: '2021-10-19'
   downloads:
