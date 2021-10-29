@@ -2079,15 +2079,15 @@
     android: '11.0'
     miui: V12.5.1.0.RJOEUXM
 - branch: stable
-  date: '2021-08-04'
+  date: '2021-10-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-04.08.2021/fw_merlin_miui_MERLININGlobal_V12.5.1.0.RJOINXM_a58506aef8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLININGlobal_V12.5.1.0.RJOINXM_a58506aef8_11.0.zip
-  filename: fw_merlin_miui_MERLININGlobal_V12.5.1.0.RJOINXM_a58506aef8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-29.10.2021/fw_merlin_miui_MERLININGlobal_V12.5.2.0.RJOINXM_c62a2f9af5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLININGlobal_V12.5.2.0.RJOINXM_c62a2f9af5_11.0.zip
+  filename: fw_merlin_miui_MERLININGlobal_V12.5.2.0.RJOINXM_c62a2f9af5_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RJOINXM
+    miui: V12.5.2.0.RJOINXM
 - branch: stable
   date: '2019-11-15'
   downloads:
@@ -2299,15 +2299,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2021-09-30'
+  date: '2021-10-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-30.09.2021/fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/odin/fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
-  filename: fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-29.10.2021/fw_odin_miui_ODIN_V12.5.12.0.RKMCNXM_dc201b3eed_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/odin/fw_odin_miui_ODIN_V12.5.12.0.RKMCNXM_dc201b3eed_11.0.zip
+  filename: fw_odin_miui_ODIN_V12.5.12.0.RKMCNXM_dc201b3eed_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.9.0.RKMCNXM
+    miui: V12.5.12.0.RKMCNXM
 - branch: weekly
   date: '2021-10-21'
   downloads:

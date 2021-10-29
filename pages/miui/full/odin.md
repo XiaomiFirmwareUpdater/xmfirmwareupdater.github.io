@@ -52,7 +52,8 @@ permalink: /archive/miui/odin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>21.10.20</td><td>11.0</td><td>4.9 GB</td><td>2021-10-21</td><td><a href="/miui/odin/weekly/21.10.20/">Download</a></td></tr>
+                <tr><td>MIX 4 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.12.0.RKMCNXM</td><td>11.0</td><td>4.6 GB</td><td>2021-10-27</td><td><a href="/miui/odin/stable beta/V12.5.12.0.RKMCNXM/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>21.10.20</td><td>11.0</td><td>4.9 GB</td><td>2021-10-21</td><td><a href="/miui/odin/weekly/21.10.20/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RKMCNXM</td><td>11.0</td><td>4.5 GB</td><td>2021-09-30</td><td><a href="/miui/odin/stable/V12.5.9.0.RKMCNXM/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.9.0.RKMCNXM</td><td>11.0</td><td>6.2 GB</td><td>2021-09-29</td><td><a href="/miui/odin/stable/V12.5.9.0.RKMCNXM/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>21.9.8</td><td>11.0</td><td>4.8 GB</td><td>2021-09-09</td><td><a href="/miui/odin/weekly/21.9.8/">Download</a></td></tr>

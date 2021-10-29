@@ -24369,6 +24369,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-29.10.2021/fw_merlin_miui_MERLININGlobal_V12.5.2.0.RJOINXM_c62a2f9af5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLININGlobal_V12.5.2.0.RJOINXM_c62a2f9af5_11.0.zip
+  filename: fw_merlin_miui_MERLININGlobal_V12.5.2.0.RJOINXM_c62a2f9af5_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RJOINXM
+- branch: stable
   date: '2021-10-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-25.10.2021/fw_merlin_miui_MERLINGlobal_V12.5.2.0.RJOMIXM_e26fe1882b_11.0.zip
@@ -26478,6 +26488,16 @@
   versions:
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
+- branch: stable
+  date: '2021-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-29.10.2021/fw_odin_miui_ODIN_V12.5.12.0.RKMCNXM_dc201b3eed_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/odin/fw_odin_miui_ODIN_V12.5.12.0.RKMCNXM_dc201b3eed_11.0.zip
+  filename: fw_odin_miui_ODIN_V12.5.12.0.RKMCNXM_dc201b3eed_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.12.0.RKMCNXM
 - branch: weekly
   date: '2021-10-21'
   downloads:
