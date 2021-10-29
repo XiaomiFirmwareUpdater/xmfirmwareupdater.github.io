@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olive/releases/download/stable-29.10.2021/fw_olive_miui_OLIVEEEAGlobal_V12.5.2.0.QCNEUXM_1ce5a4685b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVEEEAGlobal_V12.5.2.0.QCNEUXM_1ce5a4685b_10.0.zip
+  filename: fw_olive_miui_OLIVEEEAGlobal_V12.5.2.0.QCNEUXM_1ce5a4685b_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.5.2.0.QCNEUXM
+- branch: stable
   date: '2021-10-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olive/releases/download/stable-19.10.2021/fw_olive_miui_OLIVEEEAGlobal_V12.5.1.0.QCNEUXM_871b90adac_10.0.zip
