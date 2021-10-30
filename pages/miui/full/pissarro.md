@@ -53,7 +53,7 @@ permalink: /archive/miui/pissarro/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKTCNXM</td><td>11.0</td><td>335 Bytes</td><td>2021-10-10</td><td><a href="/miui/pissarro/stable/V12.5.3.0.RKTCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKTCNXM</td><td>11.0</td><td>313 Bytes</td><td>None</td><td><a href="/miui/pissarro/stable/V12.5.3.0.RKTCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKTCNXM</td><td>11.0</td><td>3.4 GB</td><td>None</td><td><a href="/miui/pissarro/stable/V12.5.3.0.RKTCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
