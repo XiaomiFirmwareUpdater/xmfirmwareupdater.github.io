@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.5.13.0.RKBCNXM
 - branch: weekly
-  date: '2021-10-21'
+  date: '2021-10-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/weekly-21.10.2021/fw_venus_miui_VENUS_21.10.20_7bb3b8896d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/venus/fw_venus_miui_VENUS_21.10.20_7bb3b8896d_12.0.zip
-  filename: fw_venus_miui_VENUS_21.10.20_7bb3b8896d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/weekly-29.10.2021/fw_venus_miui_VENUS_21.10.27_b645d58e20_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.27/venus/fw_venus_miui_VENUS_21.10.27_b645d58e20_12.0.zip
+  filename: fw_venus_miui_VENUS_21.10.27_b645d58e20_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: 21.10.20
+    miui: 21.10.27
 - branch: stable
   date: '2021-10-11'
   downloads:

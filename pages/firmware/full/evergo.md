@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 11 (evergo) Firmware Downloads
+title: Redmi Note 11 5G (evergo) Firmware Downloads
 layout: download
-name: Redmi Note 11
+name: Redmi Note 11 5G
 codename: evergo
 permalink: /archive/firmware/evergo/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/evergo/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/evergo/">Redmi Note 11</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/evergo/">Redmi Note 11 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

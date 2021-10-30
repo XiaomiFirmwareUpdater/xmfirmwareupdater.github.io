@@ -52,7 +52,8 @@ permalink: /archive/miui/star/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.10.20</td><td>12.0</td><td>4.3 GB</td><td>2021-10-21</td><td><a href="/miui/star/weekly/21.10.20/">Download</a></td></tr>
+                <tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.10.27</td><td>12.0</td><td>4.4 GB</td><td>2021-10-28</td><td><a href="/miui/star/weekly/21.10.27/">Download</a></td></tr>
+<tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.10.20</td><td>12.0</td><td>4.3 GB</td><td>2021-10-21</td><td><a href="/miui/star/weekly/21.10.20/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.10.13</td><td>12.0</td><td>4.3 GB</td><td>2021-10-14</td><td><a href="/miui/star/weekly/21.10.13/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Global</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RKAMIXM</td><td>11.0</td><td>3.4 GB</td><td>2021-10-08</td><td><a href="/miui/star/stable/V12.5.7.0.RKAMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RKAMIXM</td><td>11.0</td><td>5.9 GB</td><td>2021-09-27</td><td><a href="/miui/star/stable/V12.5.7.0.RKAMIXM/">Download</a></td></tr>

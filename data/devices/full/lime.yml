@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-30.10.2021/fw_lime_miui_LIME_21.10.28_ad62bef22e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.28/lime/fw_lime_miui_LIME_21.10.28_ad62bef22e_11.0.zip
+  filename: fw_lime_miui_LIME_21.10.28_ad62bef22e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.10.28
+- branch: weekly
   date: '2021-10-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-21.10.2021/fw_lime_miui_LIME_21.10.20_82dc17e1ac_11.0.zip
