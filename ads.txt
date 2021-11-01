@@ -723,4 +723,8 @@ xandr.com, 9393, RESELLER, f5ab79cb980f11d1
 answermedia.com, 1957681, DIRECT
 google.com, pub-2676906268047214, DIRECT, f08c47fec0942fa0
 google.com, pub-7719500339410191, DIRECT, f08c47fec0942fa0
+pubmatic.com, 161027, RESELLER, 5d62403b186f2ace
+google.com, pub-4870894582646024, DIRECT, f08c47fec0942fa0
+google.com, pub-9047737572880453, DIRECT, f08c47fec0942fa0
+google.com, pub-7273072144264916, DIRECT, f08c47fec0942fa0
 #VLI END
