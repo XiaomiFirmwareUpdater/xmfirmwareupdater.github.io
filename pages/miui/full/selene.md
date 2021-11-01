@@ -52,7 +52,8 @@ permalink: /archive/miui/selene/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKUTWXM</td><td>11.0</td><td>2.5 GB</td><td>2021-10-31</td><td><a href="/miui/selene/stable beta/V12.5.2.0.RKUTWXM/">Download</a></td></tr>
+                <tr><td>Redmi 10 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKUTWXM</td><td>11.0</td><td>2.5 GB</td><td>2021-10-31</td><td><a href="/miui/selene/stable/V12.5.2.0.RKUTWXM/">Download</a></td></tr>
+<tr><td>Redmi 10 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKUTWXM</td><td>11.0</td><td>3.8 GB</td><td>2021-10-26</td><td><a href="/miui/selene/stable/V12.5.2.0.RKUTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKUMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-10-30</td><td><a href="/miui/selene/stable/V12.5.8.0.RKUMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10 Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RKUMIXM</td><td>11.0</td><td>5.2 GB</td><td>2021-10-26</td><td><a href="/miui/selene/stable/V12.5.8.0.RKUMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10 Prime India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKUINXM</td><td>11.0</td><td>2.4 GB</td><td>2021-10-25</td><td><a href="/miui/selene/stable/V12.5.3.0.RKUINXM/">Download</a></td></tr>

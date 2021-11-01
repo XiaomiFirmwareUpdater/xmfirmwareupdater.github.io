@@ -919,15 +919,15 @@
     android: '11.0'
     miui: V12.5.1.0.RJWMIXM
 - branch: stable
-  date: '2021-08-10'
+  date: '2021-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-11.08.2021/fw_curtana_miui_CURTANAEEAGlobal_V12.5.1.0.RJWEUXM_85e3da7699_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAEEAGlobal_V12.5.1.0.RJWEUXM_85e3da7699_11.0.zip
-  filename: fw_curtana_miui_CURTANAEEAGlobal_V12.5.1.0.RJWEUXM_85e3da7699_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-01.11.2021/fw_curtana_miui_CURTANAEEAGlobal_V12.5.2.0.RJWEUXM_22bc84cccd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAEEAGlobal_V12.5.2.0.RJWEUXM_22bc84cccd_11.0.zip
+  filename: fw_curtana_miui_CURTANAEEAGlobal_V12.5.2.0.RJWEUXM_22bc84cccd_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RJWEUXM
+    miui: V12.5.2.0.RJWEUXM
 - branch: stable
   date: '2021-09-03'
   downloads:
@@ -1148,6 +1148,16 @@
   versions:
     android: '10.0'
     miui: 20.9.4
+- branch: stable
+  date: '2021-11-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-01.11.2021/fw_evergo_miui_EVERGO_V12.5.2.0.RGBCNXM_e8efa0e4f5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/evergo/fw_evergo_miui_EVERGO_V12.5.2.0.RGBCNXM_e8efa0e4f5_11.0.zip
+  filename: fw_evergo_miui_EVERGO_V12.5.2.0.RGBCNXM_e8efa0e4f5_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RGBCNXM
 - branch: stable
   date: '2021-10-02'
   downloads:
@@ -2159,15 +2169,15 @@
     android: '11.0'
     miui: V12.5.2.0.RKGINXM
 - branch: stable
-  date: '2021-10-03'
+  date: '2021-11-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-03.10.2021/fw_mona_miui_MONA_V12.5.5.0.RKVCNXM_2513b05d67_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mona/fw_mona_miui_MONA_V12.5.5.0.RKVCNXM_2513b05d67_11.0.zip
-  filename: fw_mona_miui_MONA_V12.5.5.0.RKVCNXM_2513b05d67_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-01.11.2021/fw_mona_miui_MONA_V12.5.7.0.RKVCNXM_ddbe5bce60_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mona/fw_mona_miui_MONA_V12.5.7.0.RKVCNXM_ddbe5bce60_11.0.zip
+  filename: fw_mona_miui_MONA_V12.5.7.0.RKVCNXM_ddbe5bce60_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKVCNXM
+    miui: V12.5.7.0.RKVCNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
