@@ -1179,15 +1179,15 @@
     android: '11.0'
     miui: V12.5.3.0.RJSMIXM
 - branch: stable
-  date: '2021-10-08'
+  date: '2021-11-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-08.10.2021/fw_gauguin_miui_GAUGUIN_V12.5.4.0.RJSCNXM_d65d87c14f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUIN_V12.5.4.0.RJSCNXM_d65d87c14f_11.0.zip
-  filename: fw_gauguin_miui_GAUGUIN_V12.5.4.0.RJSCNXM_d65d87c14f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-03.11.2021/fw_gauguin_miui_GAUGUIN_V12.5.6.0.RJSCNXM_f57ba0e57d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUIN_V12.5.6.0.RJSCNXM_f57ba0e57d_11.0.zip
+  filename: fw_gauguin_miui_GAUGUIN_V12.5.6.0.RJSCNXM_f57ba0e57d_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RJSCNXM
+    miui: V12.5.6.0.RJSCNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -1369,15 +1369,15 @@
     android: '12.0'
     miui: V12.5.1.0.SKKMIXM
 - branch: stable
-  date: '2021-08-10'
+  date: '2021-11-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-11.08.2021/fw_haydn_miui_HAYDN_V12.5.5.0.RKKCNXM_efbe297f9d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDN_V12.5.5.0.RKKCNXM_efbe297f9d_11.0.zip
-  filename: fw_haydn_miui_HAYDN_V12.5.5.0.RKKCNXM_efbe297f9d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-03.11.2021/fw_haydn_miui_HAYDN_V12.5.7.0.RKKCNXM_77f5519191_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDN_V12.5.7.0.RKKCNXM_77f5519191_11.0.zip
+  filename: fw_haydn_miui_HAYDN_V12.5.7.0.RKKCNXM_77f5519191_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKKCNXM
+    miui: V12.5.7.0.RKKCNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -1889,15 +1889,15 @@
     android: '10.0'
     miui: V12.0.10.0.QJQINXM
 - branch: stable
-  date: '2021-10-21'
+  date: '2021-11-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-21.10.2021/fw_lisa_miui_LISAGlobal_V12.5.6.0.RKOMIXM_59956a3fa4_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAGlobal_V12.5.6.0.RKOMIXM_59956a3fa4_11.0.zip
-  filename: fw_lisa_miui_LISAGlobal_V12.5.6.0.RKOMIXM_59956a3fa4_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-03.11.2021/fw_lisa_miui_LISAGlobal_V12.5.7.0.RKOMIXM_ba1e182723_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAGlobal_V12.5.7.0.RKOMIXM_ba1e182723_11.0.zip
+  filename: fw_lisa_miui_LISAGlobal_V12.5.7.0.RKOMIXM_ba1e182723_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RKOMIXM
+    miui: V12.5.7.0.RKOMIXM
 - branch: stable
   date: '2021-10-26'
   downloads:
@@ -2659,15 +2659,15 @@
     android: '10.0'
     miui: V12.0.3.0.QCMINXM
 - branch: stable
-  date: '2021-11-01'
+  date: '2021-11-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-01.11.2021/fw_pissarro_miui_PISSARRO_V12.5.5.0.RKTCNXM_5a815ec6ae_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.5.0.RKTCNXM_5a815ec6ae_11.0.zip
-  filename: fw_pissarro_miui_PISSARRO_V12.5.5.0.RKTCNXM_5a815ec6ae_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-03.11.2021/fw_pissarro_miui_PISSARRO_V12.5.6.0.RKTCNXM_bd2b41e328_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.6.0.RKTCNXM_bd2b41e328_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.6.0.RKTCNXM_bd2b41e328_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKTCNXM
+    miui: V12.5.6.0.RKTCNXM
 - branch: stable
   date: '2020-09-21'
   downloads:
