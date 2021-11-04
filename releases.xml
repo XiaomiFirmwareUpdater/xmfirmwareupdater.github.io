@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 04 Nov 2021 03:42:09 +0900</pubDate>
+  <pubDate>Thu, 04 Nov 2021 15:00:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.20.0.RKACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Thu, 04 Nov 2021 15:00:02 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 Pro/Pro+/Xiaomi 11i (pissarro) - V12.5.6.0.RKTCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
@@ -100,11 +105,6 @@
     <title>Redmi 10/Redmi 10 Prime (selene) - V12.5.8.0.RKUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
     <pubDate>Sat, 30 Oct 2021 19:39:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 21.10.27</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Sat, 30 Oct 2021 10:38:37 +0900</pubDate>
   </item>
     </channel>
 </rss>
