@@ -1889,15 +1889,15 @@
     android: '10.0'
     miui: V12.0.10.0.QJQINXM
 - branch: stable
-  date: '2021-11-03'
+  date: '2021-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-03.11.2021/fw_lisa_miui_LISAGlobal_V12.5.7.0.RKOMIXM_ba1e182723_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAGlobal_V12.5.7.0.RKOMIXM_ba1e182723_11.0.zip
-  filename: fw_lisa_miui_LISAGlobal_V12.5.7.0.RKOMIXM_ba1e182723_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-04.11.2021/fw_lisa_miui_LISAGlobal_V12.5.8.0.RKOMIXM_1168c54c34_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAGlobal_V12.5.8.0.RKOMIXM_1168c54c34_11.0.zip
+  filename: fw_lisa_miui_LISAGlobal_V12.5.8.0.RKOMIXM_1168c54c34_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RKOMIXM
+    miui: V12.5.8.0.RKOMIXM
 - branch: stable
   date: '2021-10-26'
   downloads:
@@ -2859,15 +2859,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFKINXM
 - branch: stable
-  date: '2021-08-09'
+  date: '2021-11-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-09.08.2021/fw_renoir_miui_RENOIRGlobal_V12.5.5.0.RKIMIXM_58b3a9e618_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIRGlobal_V12.5.5.0.RKIMIXM_58b3a9e618_11.0.zip
-  filename: fw_renoir_miui_RENOIRGlobal_V12.5.5.0.RKIMIXM_58b3a9e618_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-04.11.2021/fw_renoir_miui_RENOIRGlobal_V12.5.6.0.RKIMIXM_046844758f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIRGlobal_V12.5.6.0.RKIMIXM_046844758f_11.0.zip
+  filename: fw_renoir_miui_RENOIRGlobal_V12.5.6.0.RKIMIXM_046844758f_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKIMIXM
+    miui: V12.5.6.0.RKIMIXM
 - branch: stable
   date: '2021-09-27'
   downloads:
