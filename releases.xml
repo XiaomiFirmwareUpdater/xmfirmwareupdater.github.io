@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 05 Nov 2021 01:27:11 +0900</pubDate>
+  <pubDate>Fri, 05 Nov 2021 13:27:18 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 (dipper) - V12.5.2.0.QEACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dipper</link>
+    <pubDate>Fri, 05 Nov 2021 13:27:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V12.5.5.0.RGGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Fri, 05 Nov 2021 13:23:40 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8A (olivelite) - V12.5.2.0.QCPMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olivelite</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 10 Pro (sweet) - V12.5.6.0.RKFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
     <pubDate>Tue, 02 Nov 2021 08:22:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro/Pro+/Xiaomi 11i (pissarro) - V12.5.5.0.RKTCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
-    <pubDate>Tue, 02 Nov 2021 03:30:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.5.18.0.RKHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Tue, 02 Nov 2021 03:03:24 +0900</pubDate>
   </item>
     </channel>
 </rss>
