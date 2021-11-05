@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-09-30'
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-30.09.2021/fw_cannon_miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip
-  filename: fw_cannon_miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-05.11.2021/fw_cannon_miui_CANNON_V12.5.8.0.RJECNXM_1201c1e8c1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.5.8.0.RJECNXM_1201c1e8c1_11.0.zip
+  filename: fw_cannon_miui_CANNON_V12.5.8.0.RJECNXM_1201c1e8c1_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RJECNXM
+    miui: V12.5.8.0.RJECNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:

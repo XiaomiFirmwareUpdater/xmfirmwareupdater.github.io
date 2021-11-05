@@ -249,15 +249,15 @@
     android: '11.0'
     miui: V12.5.5.0.RKJINXM
 - branch: stable
-  date: '2021-08-02'
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/stable-03.08.2021/fw_atom_miui_ATOM_V12.5.4.0.RJHCNXM_0443e99c1c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/atom/fw_atom_miui_ATOM_V12.5.4.0.RJHCNXM_0443e99c1c_11.0.zip
-  filename: fw_atom_miui_ATOM_V12.5.4.0.RJHCNXM_0443e99c1c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/stable-05.11.2021/fw_atom_miui_ATOM_V12.5.7.0.RJHCNXM_7eeb1dd5d5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/atom/fw_atom_miui_ATOM_V12.5.7.0.RJHCNXM_7eeb1dd5d5_11.0.zip
+  filename: fw_atom_miui_ATOM_V12.5.7.0.RJHCNXM_7eeb1dd5d5_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RJHCNXM
+    miui: V12.5.7.0.RJHCNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -359,15 +359,15 @@
     android: '11.0'
     miui: V12.5.5.0.RCUEUXM
 - branch: stable
-  date: '2021-08-02'
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-03.08.2021/fw_bomb_miui_BOMB_V12.5.4.0.RJLCNXM_669c9f49ef_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/bomb/fw_bomb_miui_BOMB_V12.5.4.0.RJLCNXM_669c9f49ef_11.0.zip
-  filename: fw_bomb_miui_BOMB_V12.5.4.0.RJLCNXM_669c9f49ef_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-05.11.2021/fw_bomb_miui_BOMB_V12.5.6.0.RJLCNXM_33ea11cb38_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/bomb/fw_bomb_miui_BOMB_V12.5.6.0.RJLCNXM_33ea11cb38_11.0.zip
+  filename: fw_bomb_miui_BOMB_V12.5.6.0.RJLCNXM_33ea11cb38_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RJLCNXM
+    miui: V12.5.6.0.RJLCNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -449,15 +449,15 @@
     android: '11.0'
     miui: V12.0.11.0.RKSEUXM
 - branch: stable
-  date: '2021-09-30'
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-30.09.2021/fw_cannon_miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip
-  filename: fw_cannon_miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-05.11.2021/fw_cannon_miui_CANNON_V12.5.8.0.RJECNXM_1201c1e8c1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.5.8.0.RJECNXM_1201c1e8c1_11.0.zip
+  filename: fw_cannon_miui_CANNON_V12.5.8.0.RJECNXM_1201c1e8c1_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RJECNXM
+    miui: V12.5.8.0.RJECNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -679,15 +679,15 @@
     android: '11.0'
     miui: 21.6.23
 - branch: stable
-  date: '2021-07-22'
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-22.07.2021/fw_cezanne_miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-05.11.2021/fw_cezanne_miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RJNCNXM
+    miui: V12.5.7.0.RJNCNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:

@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 05 Nov 2021 20:29:54 +0900</pubDate>
+  <pubDate>Sat, 06 Nov 2021 01:47:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 Ultra (cezanne) - V12.5.7.0.RJNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
+    <pubDate>Sat, 06 Nov 2021 01:47:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 5G (cannon) - V12.5.8.0.RJECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
+    <pubDate>Sat, 06 Nov 2021 01:45:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V12.5.6.0.RJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Sat, 06 Nov 2021 01:43:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - V12.5.7.0.RJHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Sat, 06 Nov 2021 01:41:34 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 11T Pro (vili) - V12.5.7.0.RKDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
@@ -85,26 +105,6 @@
     <title>Mi 11 (venus) - V12.5.15.0.RKBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
     <pubDate>Wed, 03 Nov 2021 21:14:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V12.5.10.0.RJBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Wed, 03 Nov 2021 20:41:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Ultra (cas) - V12.5.8.0.RJJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
-    <pubDate>Wed, 03 Nov 2021 20:35:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10S (rosemary) - V12.5.9.0.RKLINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
-    <pubDate>Tue, 02 Nov 2021 20:46:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.3.0.RJOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Tue, 02 Nov 2021 14:27:05 +0900</pubDate>
   </item>
     </channel>
 </rss>
