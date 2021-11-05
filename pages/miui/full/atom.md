@@ -53,6 +53,7 @@ permalink: /archive/miui/atom/
                 </thead>
                 <tbody>
                 <tr><td>Redmi 10X 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RJHCNXM</td><td>11.0</td><td>3.2 GB</td><td>2021-11-05</td><td><a href="/miui/atom/stable beta/V12.5.7.0.RJHCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.11.3</td><td>11.0</td><td>3.5 GB</td><td>2021-11-04</td><td><a href="/miui/atom/weekly/21.11.3/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.10.28</td><td>11.0</td><td>3.6 GB</td><td>2021-10-28</td><td><a href="/miui/atom/weekly/21.10.28/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.10.20</td><td>11.0</td><td>3.5 GB</td><td>2021-10-21</td><td><a href="/miui/atom/weekly/21.10.20/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.10.13</td><td>11.0</td><td>3.5 GB</td><td>2021-10-14</td><td><a href="/miui/atom/weekly/21.10.13/">Download</a></td></tr>
@@ -84,9 +85,9 @@ permalink: /archive/miui/atom/
 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.RJHCNXM</td><td>11.0</td><td>2.8 GB</td><td>2021-05-10</td><td><a href="/miui/atom/stable/V12.0.2.0.RJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RJHCNXM</td><td>11.0</td><td>4.0 GB</td><td>2021-05-08</td><td><a href="/miui/atom/stable/V12.0.2.0.RJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>3.0 GB</td><td>2021-04-29</td><td><a href="/miui/atom/weekly/21.4.28/">Download</a></td></tr>
-<tr><td>Redmi 10X 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJHCNXM</td><td>11.0</td><td>2.8 GB</td><td>2021-04-28</td><td><a href="/miui/atom/stable beta/V12.0.1.0.RJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJHCNXM</td><td>11.0</td><td>3.0 GB</td><td>2021-05-29</td><td><a href="/miui/atom/stable/V12.5.2.0.RJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJHCNXM</td><td>11.0</td><td>4.2 GB</td><td>2021-05-27</td><td><a href="/miui/atom/stable/V12.5.2.0.RJHCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJHCNXM</td><td>11.0</td><td>2.8 GB</td><td>2021-04-28</td><td><a href="/miui/atom/stable beta/V12.0.1.0.RJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.21</td><td>11.0</td><td>3.0 GB</td><td>2021-04-22</td><td><a href="/miui/atom/weekly/21.4.21/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.14</td><td>11.0</td><td>2.9 GB</td><td>2021-04-15</td><td><a href="/miui/atom/weekly/21.4.14/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>21.4.7</td><td>11.0</td><td>2.9 GB</td><td>2021-04-08</td><td><a href="/miui/atom/weekly/21.4.7/">Download</a></td></tr>
@@ -126,8 +127,6 @@ permalink: /archive/miui/atom/
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.8.6</td><td>10.0</td><td>2.7 GB</td><td>2020-08-06</td><td><a href="/miui/atom/weekly/20.8.6/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.30</td><td>10.0</td><td>2.7 GB</td><td>2020-07-30</td><td><a href="/miui/atom/weekly/20.7.30/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.23</td><td>10.0</td><td>2.7 GB</td><td>2020-07-23</td><td><a href="/miui/atom/weekly/20.7.23/">Download</a></td></tr>
-<tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJHCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-08-04</td><td><a href="/miui/atom/stable/V12.0.4.0.QJHCNXM/">Download</a></td></tr>
-<tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QJHCNXM</td><td>10.0</td><td>3.7 GB</td><td>2020-07-31</td><td><a href="/miui/atom/stable/V12.0.4.0.QJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.16</td><td>10.0</td><td>2.7 GB</td><td>2020-07-16</td><td><a href="/miui/atom/weekly/20.7.16/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.9</td><td>10.0</td><td>2.7 GB</td><td>2020-07-09</td><td><a href="/miui/atom/weekly/20.7.9/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>20.7.2</td><td>10.0</td><td>2.7 GB</td><td>2020-07-02</td><td><a href="/miui/atom/weekly/20.7.2/">Download</a></td></tr>
@@ -139,6 +138,8 @@ permalink: /archive/miui/atom/
 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QJHCNXM</td><td>10.0</td><td>3.2 GB</td><td>2020-05-29</td><td><a href="/miui/atom/stable/V11.0.4.0.QJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJHCNXM</td><td>10.0</td><td>2.3 GB</td><td>2020-05-27</td><td><a href="/miui/atom/stable/V11.0.2.0.QJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QJHCNXM</td><td>10.0</td><td>3.2 GB</td><td>2020-05-18</td><td><a href="/miui/atom/stable/V11.0.2.0.QJHCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJHCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-08-04</td><td><a href="/miui/atom/stable/V12.0.4.0.QJHCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QJHCNXM</td><td>10.0</td><td>3.7 GB</td><td>2020-07-31</td><td><a href="/miui/atom/stable/V12.0.4.0.QJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QJHCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-07-22</td><td><a href="/miui/atom/stable/V12.0.2.0.QJHCNXM/">Download</a></td></tr>
 
                 </tbody>

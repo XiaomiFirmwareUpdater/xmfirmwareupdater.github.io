@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.5.10.0.RJBCNXM
 - branch: weekly
-  date: '2021-10-30'
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-30.10.2021/fw_umi_miui_UMI_21.10.28_eacfbafcec_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.28/umi/fw_umi_miui_UMI_21.10.28_eacfbafcec_11.0.zip
-  filename: fw_umi_miui_UMI_21.10.28_eacfbafcec_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-05.11.2021/fw_umi_miui_UMI_21.11.3_58456baabd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.3/umi/fw_umi_miui_UMI_21.11.3_58456baabd_11.0.zip
+  filename: fw_umi_miui_UMI_21.11.3_58456baabd_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.28
+    miui: 21.11.3
 - branch: stable
   date: '2021-10-26'
   downloads:

@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.5.1.0.RJQCNXM
 - branch: weekly
-  date: '2021-10-29'
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-30.10.2021/fw_lime_miui_LIME_21.10.28_ad62bef22e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.28/lime/fw_lime_miui_LIME_21.10.28_ad62bef22e_11.0.zip
-  filename: fw_lime_miui_LIME_21.10.28_ad62bef22e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-05.11.2021/fw_lime_miui_LIME_21.11.3_44160fffe7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.3/lime/fw_lime_miui_LIME_21.11.3_44160fffe7_11.0.zip
+  filename: fw_lime_miui_LIME_21.11.3_44160fffe7_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.10.28
+    miui: 21.11.3
 - branch: stable
   date: '2021-10-14'
   downloads:
