@@ -52,9 +52,9 @@ permalink: /miui/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.14.0.RKHCNXM</td><td>11.0</td><td>5.3 GB</td><td>2021-09-19</td><td><a href="/miui/alioth/stable/V12.5.14.0.RKHCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>V12.5.14.0.RKHCNXM</td><td>11.0</td><td>4.0 GB</td><td>2021-09-26</td><td><a href="/miui/alioth/stable/V12.5.14.0.RKHCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.18.0.RKHCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-11-01</td><td><a href="/miui/alioth/stable beta/V12.5.18.0.RKHCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K40 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.18.0.RKHCNXM</td><td>11.0</td><td>5.4 GB</td><td>2021-10-28</td><td><a href="/miui/alioth/stable/V12.5.18.0.RKHCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>V12.5.18.0.RKHCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-11-01</td><td><a href="/miui/alioth/stable/V12.5.18.0.RKHCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKHCNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-08-10</td><td><a href="/miui/alioth/stable beta/V12.5.5.0.RKHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Weekly</td><td>Recovery</td><td>21.11.3</td><td>12.0</td><td>4.3 GB</td><td>2021-11-04</td><td><a href="/miui/alioth/weekly/21.11.3/">Download</a></td></tr>
 <tr><td>POCO F3 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKHEUXM</td><td>11.0</td><td>5.8 GB</td><td>2021-09-07</td><td><a href="/miui/alioth/stable/V12.5.6.0.RKHEUXM/">Download</a></td></tr>
 <tr><td>POCO F3 EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKHEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-09-28</td><td><a href="/miui/alioth/stable/V12.5.6.0.RKHEUXM/">Download</a></td></tr>
@@ -69,9 +69,9 @@ permalink: /miui/alioth/
 <tr><td>POCO F3 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKHRUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-07-26</td><td><a href="/miui/alioth/stable/V12.5.3.0.RKHRUXM/">Download</a></td></tr>
 <tr><td>POCO F3 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKHTRXM</td><td>11.0</td><td>4.7 GB</td><td>2021-07-02</td><td><a href="/miui/alioth/stable/V12.5.2.0.RKHTRXM/">Download</a></td></tr>
 <tr><td>POCO F3 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKHTRXM</td><td>11.0</td><td>3.1 GB</td><td>2021-07-08</td><td><a href="/miui/alioth/stable/V12.5.2.0.RKHTRXM/">Download</a></td></tr>
-<tr><td>Mi 11X India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RKHINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-09-13</td><td><a href="/miui/alioth/stable beta/V12.5.4.0.RKHINXM/">Download</a></td></tr>
 <tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKHTWXM</td><td>11.0</td><td>4.2 GB</td><td>2021-07-02</td><td><a href="/miui/alioth/stable/V12.5.2.0.RKHTWXM/">Download</a></td></tr>
 <tr><td>POCO F3 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKHTWXM</td><td>11.0</td><td>3.0 GB</td><td>2021-07-08</td><td><a href="/miui/alioth/stable/V12.5.2.0.RKHTWXM/">Download</a></td></tr>
+<tr><td>Mi 11X India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RKHINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-09-13</td><td><a href="/miui/alioth/stable beta/V12.5.4.0.RKHINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
