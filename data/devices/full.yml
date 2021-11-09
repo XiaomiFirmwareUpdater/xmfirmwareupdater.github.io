@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-09.11.2021/fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
+  filename: fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKWMIXM
+- branch: stable
   date: '2021-10-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-28.10.2021/fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
@@ -768,6 +778,16 @@
   versions:
     android: '9.0'
     miui: V10.3.16.0.PEMCNXM
+- branch: stable
+  date: '2021-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-09.11.2021/fw_angelica_miui_ANGELICAGlobal_V12.0.18.0.QCRMIXM_55bbc61cf9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAGlobal_V12.0.18.0.QCRMIXM_55bbc61cf9_10.0.zip
+  filename: fw_angelica_miui_ANGELICAGlobal_V12.0.18.0.QCRMIXM_55bbc61cf9_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.18.0.QCRMIXM
 - branch: stable
   date: '2021-08-15'
   downloads:
@@ -10848,6 +10868,16 @@
   versions:
     android: '8.1'
     miui: 8.7.12
+- branch: stable
+  date: '2021-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-09.11.2021/fw_cmi_miui_CMI_V12.5.10.0.RJACNXM_fcaa9c15ff_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMI_V12.5.10.0.RJACNXM_fcaa9c15ff_11.0.zip
+  filename: fw_cmi_miui_CMI_V12.5.10.0.RJACNXM_fcaa9c15ff_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.10.0.RJACNXM
 - branch: weekly
   date: '2021-11-05'
   downloads:
@@ -17248,6 +17278,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-09.11.2021/fw_ginkgo_miui_GINKGO_V12.5.4.0.RCOCNXM_7b06ce4b4d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGO_V12.5.4.0.RCOCNXM_7b06ce4b4d_11.0.zip
+  filename: fw_ginkgo_miui_GINKGO_V12.5.4.0.RCOCNXM_7b06ce4b4d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RCOCNXM
 - branch: weekly
   date: '2021-11-05'
   downloads:
@@ -22788,6 +22828,26 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-09.11.2021/fw_lime_miui_LIMEINGlobal_V12.0.12.0.QJQINXM_c211a36cca_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEINGlobal_V12.0.12.0.QJQINXM_c211a36cca_10.0.zip
+  filename: fw_lime_miui_LIMEINGlobal_V12.0.12.0.QJQINXM_c211a36cca_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.12.0.QJQINXM
+- branch: stable
+  date: '2021-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-09.11.2021/fw_lime_miui_LIME_V12.5.4.0.RJQCNXM_7d50fe0c6b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIME_V12.5.4.0.RJQCNXM_7d50fe0c6b_11.0.zip
+  filename: fw_lime_miui_LIME_V12.5.4.0.RJQCNXM_7d50fe0c6b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJQCNXM
 - branch: weekly
   date: '2021-11-05'
   downloads:
