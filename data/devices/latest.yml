@@ -789,15 +789,15 @@
     android: '10.0'
     miui: V12.0.11.0.QJFEUXM
 - branch: stable
-  date: '2021-08-13'
+  date: '2021-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-13.08.2021/fw_citrus_miui_CITRUSINGlobal_V12.0.7.0.QJFINXM_549fd43012_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSINGlobal_V12.0.7.0.QJFINXM_549fd43012_10.0.zip
-  filename: fw_citrus_miui_CITRUSINGlobal_V12.0.7.0.QJFINXM_549fd43012_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-10.11.2021/fw_citrus_miui_CITRUSINGlobal_V12.0.9.0.QJFINXM_76cf2ae080_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSINGlobal_V12.0.9.0.QJFINXM_76cf2ae080_10.0.zip
+  filename: fw_citrus_miui_CITRUSINGlobal_V12.0.9.0.QJFINXM_76cf2ae080_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.7.0.QJFINXM
+    miui: V12.0.9.0.QJFINXM
 - branch: stable
   date: '2019-07-15'
   downloads:
@@ -1309,15 +1309,15 @@
     android: '10.0'
     miui: V12.0.2.0.QCOINXM
 - branch: stable
-  date: '2021-08-25'
+  date: '2021-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-25.08.2021/fw_gram_miui_GRAMINGlobal_V12.0.1.0.RJPINXM_df24883f3b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gram/fw_gram_miui_GRAMINGlobal_V12.0.1.0.RJPINXM_df24883f3b_11.0.zip
-  filename: fw_gram_miui_GRAMINGlobal_V12.0.1.0.RJPINXM_df24883f3b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-10.11.2021/fw_gram_miui_GRAMINGlobal_V12.5.2.0.RJPINXM_621c90ddc2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gram/fw_gram_miui_GRAMINGlobal_V12.5.2.0.RJPINXM_621c90ddc2_11.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V12.5.2.0.RJPINXM_621c90ddc2_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.0.1.0.RJPINXM
+    miui: V12.5.2.0.RJPINXM
 - branch: stable
   date: '2021-06-04'
   downloads:
@@ -3439,15 +3439,15 @@
     android: '11.0'
     miui: V12.5.4.0.RFDMIXM
 - branch: stable
-  date: '2021-10-08'
+  date: '2021-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-08.10.2021/fw_tucana_miui_TUCANA_V12.5.5.0.RFDCNXM_1e4cc10739_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANA_V12.5.5.0.RFDCNXM_1e4cc10739_11.0.zip
-  filename: fw_tucana_miui_TUCANA_V12.5.5.0.RFDCNXM_1e4cc10739_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-10.11.2021/fw_tucana_miui_TUCANA_V12.5.7.0.RFDCNXM_5239ec8395_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANA_V12.5.7.0.RFDCNXM_5239ec8395_11.0.zip
+  filename: fw_tucana_miui_TUCANA_V12.5.7.0.RFDCNXM_5239ec8395_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RFDCNXM
+    miui: V12.5.7.0.RFDCNXM
 - branch: weekly
   date: '2021-11-05'
   downloads:

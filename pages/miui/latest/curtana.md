@@ -52,20 +52,20 @@ permalink: /miui/curtana/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9S EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJWEUXM</td><td>11.0</td><td>5.0 GB</td><td>2021-08-05</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9S EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJWEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-08-10</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9S EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RJWEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-10-29</td><td><a href="/miui/curtana/stable beta/V12.5.2.0.RJWEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9S EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJWEUXM</td><td>11.0</td><td>5.1 GB</td><td>2021-10-25</td><td><a href="/miui/curtana/stable/V12.5.2.0.RJWEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJWEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-10-29</td><td><a href="/miui/curtana/stable/V12.5.2.0.RJWEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QJWEUXM</td><td>10.0</td><td>2.5 GB</td><td>2021-01-20</td><td><a href="/miui/curtana/stable beta/V12.0.3.0.QJWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJWMIXM</td><td>11.0</td><td>5.0 GB</td><td>2021-09-03</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJWMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-09-23</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.7.RJWMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-04-12</td><td><a href="/miui/curtana/stable beta/V12.0.1.7.RJWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.RJWINXM</td><td>11.0</td><td>3.0 GB</td><td>2021-06-07</td><td><a href="/miui/curtana/stable/V12.0.5.0.RJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.RJWINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-06-10</td><td><a href="/miui/curtana/stable/V12.0.5.0.RJWINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9S Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJWRUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-08-26</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9S Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJWRUXM</td><td>11.0</td><td>4.5 GB</td><td>2021-08-23</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RJWTRXM</td><td>11.0</td><td>2.5 GB</td><td>2021-06-24</td><td><a href="/miui/curtana/stable beta/V12.0.2.0.RJWTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RJWINXM</td><td>11.0</td><td>2.7 GB</td><td>2021-09-01</td><td><a href="/miui/curtana/stable beta/V12.5.1.0.RJWINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJWRUXM</td><td>11.0</td><td>4.5 GB</td><td>2021-08-23</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJWRUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-08-26</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJWTRXM</td><td>11.0</td><td>4.1 GB</td><td>2021-08-17</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJWTRXM</td><td>11.0</td><td>2.6 GB</td><td>2021-08-23</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RJWTRXM</td><td>11.0</td><td>2.5 GB</td><td>2021-06-24</td><td><a href="/miui/curtana/stable beta/V12.0.2.0.RJWTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

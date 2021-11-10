@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 10 Nov 2021 02:00:07 +0900</pubDate>
+  <pubDate>Thu, 11 Nov 2021 01:41:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.7.0.RFDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Thu, 11 Nov 2021 01:41:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M2 Pro (gram) - V12.5.2.0.RJPINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gram</link>
+    <pubDate>Thu, 11 Nov 2021 01:38:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M3 (citrus) - V12.0.9.0.QJFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Thu, 11 Nov 2021 01:35:15 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.4.0.RJQCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
@@ -90,21 +105,6 @@
     <title>Mi 9 Pro 5G (crux) - V12.5.3.0.RFXCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
     <pubDate>Tue, 09 Nov 2021 01:52:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V12.5.4.0.RGGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Tue, 09 Nov 2021 01:50:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V12.5.2.0.QCNINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Mon, 08 Nov 2021 14:10:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11 Lite 5G NE (lisa) - V12.5.5.0.RKOEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
-    <pubDate>Mon, 08 Nov 2021 14:09:25 +0900</pubDate>
   </item>
     </channel>
 </rss>

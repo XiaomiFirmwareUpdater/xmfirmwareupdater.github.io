@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-11-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-10.11.2021/fw_gram_miui_GRAMINGlobal_V12.5.2.0.RJPINXM_621c90ddc2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gram/fw_gram_miui_GRAMINGlobal_V12.5.2.0.RJPINXM_621c90ddc2_11.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V12.5.2.0.RJPINXM_621c90ddc2_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RJPINXM
+- branch: stable
   date: '2021-08-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-25.08.2021/fw_gram_miui_GRAMINGlobal_V12.0.1.0.RJPINXM_df24883f3b_11.0.zip
