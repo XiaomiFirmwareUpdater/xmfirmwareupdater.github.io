@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 11 Nov 2021 01:41:11 +0900</pubDate>
+  <pubDate>Thu, 11 Nov 2021 19:17:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Y3 (onc) - V12.5.3.0.QFLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
+    <pubDate>Thu, 11 Nov 2021 19:17:23 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.7.0.RFDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.7.0.RJSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
     <pubDate>Tue, 09 Nov 2021 01:53:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - V12.5.3.0.RFXCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Tue, 09 Nov 2021 01:52:02 +0900</pubDate>
   </item>
     </channel>
 </rss>
