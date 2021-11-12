@@ -1,110 +1,110 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 12 Nov 2021 20:17:11 +0900</pubDate>
+  <pubDate>Sat, 13 Nov 2021 00:54:15 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Xiaomi Pad 5 (nabu) - V12.5.11.0.RKXMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Fri, 12 Nov 2021 20:17:11 +0900</pubDate>
+    <title>Mi CC 9 Meitu Edition (vela) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
+    <pubDate>Sat, 13 Nov 2021 00:54:15 +0900</pubDate>
   </item>
     <item>
-    <title>Xiaomi Pad 5 (nabu) - V12.5.8.0.RKXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Fri, 12 Nov 2021 19:59:04 +0900</pubDate>
+    <title>Mi 10 Lite Zoom (vangogh) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
+    <pubDate>Sat, 13 Nov 2021 00:52:57 +0900</pubDate>
   </item>
     <item>
-    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V12.5.14.0.RKYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
-    <pubDate>Fri, 12 Nov 2021 01:40:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Y3 (onc) - V12.5.3.0.QFLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/onc</link>
-    <pubDate>Thu, 11 Nov 2021 19:17:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.7.0.RFDCNXM</title>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.11.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Thu, 11 Nov 2021 01:41:11 +0900</pubDate>
+    <pubDate>Sat, 13 Nov 2021 00:51:23 +0900</pubDate>
   </item>
     <item>
-    <title>POCO M2 Pro (gram) - V12.5.2.0.RJPINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gram</link>
-    <pubDate>Thu, 11 Nov 2021 01:38:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M3 (citrus) - V12.0.9.0.QJFINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
-    <pubDate>Thu, 11 Nov 2021 01:35:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.4.0.RJQCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Wed, 10 Nov 2021 02:00:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.0.12.0.QJQINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Wed, 10 Nov 2021 01:58:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V12.5.4.0.RCOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Wed, 10 Nov 2021 01:56:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V12.5.10.0.RJACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Wed, 10 Nov 2021 01:54:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.18.0.QCRMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Wed, 10 Nov 2021 01:51:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T (agate) - V12.5.7.0.RKWMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
-    <pubDate>Wed, 10 Nov 2021 01:50:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - V12.5.6.0.RFKCNXM</title>
+    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.11.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Tue, 09 Nov 2021 19:30:41 +0900</pubDate>
+    <pubDate>Sat, 13 Nov 2021 00:49:55 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 9 (cepheus) - V12.5.5.0.RFACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Tue, 09 Nov 2021 19:27:33 +0900</pubDate>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Sat, 13 Nov 2021 00:48:19 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 10S (rosemary) - V12.5.13.0.RKLEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
-    <pubDate>Tue, 09 Nov 2021 02:55:04 +0900</pubDate>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Sat, 13 Nov 2021 00:46:59 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30 4G (phoenix) - V12.5.5.0.RGHCNXM</title>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Sat, 13 Nov 2021 00:45:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 4G (phoenix) - 21.11.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Tue, 09 Nov 2021 02:37:40 +0900</pubDate>
+    <pubDate>Sat, 13 Nov 2021 00:43:40 +0900</pubDate>
   </item>
     <item>
-    <title>Xiaomi Pad 5 (nabu) - V12.5.13.0.RKXCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Tue, 09 Nov 2021 02:36:21 +0900</pubDate>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Sat, 13 Nov 2021 00:42:17 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 10 (mojito) - V12.5.4.0.RKGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Tue, 09 Nov 2021 02:14:00 +0900</pubDate>
+    <title>Mi 9 SE (grus) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
+    <pubDate>Sat, 13 Nov 2021 00:41:00 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.5.7.0.RJKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Tue, 09 Nov 2021 01:57:56 +0900</pubDate>
+    <title>Redmi Note 8 (ginkgo) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Sat, 13 Nov 2021 00:39:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Sat, 13 Nov 2021 00:38:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K20/Mi 9T (davinci) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
+    <pubDate>Sat, 13 Nov 2021 00:37:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 Pro 5G (crux) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
+    <pubDate>Sat, 13 Nov 2021 00:35:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Ultra (cezanne) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
+    <pubDate>Sat, 13 Nov 2021 00:33:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Sat, 13 Nov 2021 00:32:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 5G (cannon) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
+    <pubDate>Sat, 13 Nov 2021 00:30:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Sat, 13 Nov 2021 00:29:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Sat, 13 Nov 2021 00:28:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 5G (atom) - 21.11.10</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
+    <pubDate>Sat, 13 Nov 2021 00:27:24 +0900</pubDate>
   </item>
     </channel>
 </rss>
