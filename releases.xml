@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 12 Nov 2021 01:40:31 +0900</pubDate>
+  <pubDate>Fri, 12 Nov 2021 20:17:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V12.5.11.0.RKXMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Fri, 12 Nov 2021 20:17:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V12.5.8.0.RKXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Fri, 12 Nov 2021 19:59:04 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V12.5.14.0.RKYCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
@@ -95,16 +105,6 @@
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V12.5.7.0.RJKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
     <pubDate>Tue, 09 Nov 2021 01:57:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V12.5.2.0.RJZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Tue, 09 Nov 2021 01:56:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V12.5.4.0.RJZEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Tue, 09 Nov 2021 01:54:55 +0900</pubDate>
   </item>
     </channel>
 </rss>
