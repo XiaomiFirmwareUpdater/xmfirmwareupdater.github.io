@@ -54,6 +54,7 @@ permalink: /miui/evergo/
                 <tbody>
                 <tr><td>Redmi Note 11 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RGBCNXM</td><td>11.0</td><td>4.5 GB</td><td>2021-10-28</td><td><a href="/miui/evergo/stable/V12.5.3.0.RGBCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RGBCNXM</td><td>11.0</td><td>3.1 GB</td><td>2021-11-03</td><td><a href="/miui/evergo/stable/V12.5.3.0.RGBCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RGBCNXM</td><td>11.0</td><td>3.1 GB</td><td>2021-11-13</td><td><a href="/miui/evergo/stable beta/V12.5.4.0.RGBCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
