@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 14 Nov 2021 01:36:33 +0900</pubDate>
+  <pubDate>Mon, 15 Nov 2021 13:17:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.10.0.QCREUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Mon, 15 Nov 2021 13:17:12 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V12.5.4.0.RGBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
@@ -100,11 +105,6 @@
     <title>Mi 9 (cepheus) - 21.11.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
     <pubDate>Sat, 13 Nov 2021 00:32:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 5G (cannon) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
-    <pubDate>Sat, 13 Nov 2021 00:30:30 +0900</pubDate>
   </item>
     </channel>
 </rss>
