@@ -1,11 +1,51 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 15 Nov 2021 13:17:12 +0900</pubDate>
+  <pubDate>Mon, 15 Nov 2021 20:20:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Meitu Edition (vela) - V12.5.5.0.RFECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
+    <pubDate>Mon, 15 Nov 2021 20:20:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V12.5.8.0.RKICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Mon, 15 Nov 2021 20:19:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.5.5.0.RFCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Mon, 15 Nov 2021 19:53:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.0.19.0.QCDINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Mon, 15 Nov 2021 19:52:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V12.5.6.0.RJEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Mon, 15 Nov 2021 19:51:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V12.5.6.0.RJEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Mon, 15 Nov 2021 19:50:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.5.1.0.RKSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Mon, 15 Nov 2021 19:49:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.5.0.RJDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Mon, 15 Nov 2021 19:32:28 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9C (angelica) - V12.0.10.0.QCREUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
@@ -65,46 +105,6 @@
     <title>Redmi K30 4G (phoenix) - 21.11.10</title>
     <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
     <pubDate>Sat, 13 Nov 2021 00:43:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Sat, 13 Nov 2021 00:42:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 SE (grus) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/grus</link>
-    <pubDate>Sat, 13 Nov 2021 00:41:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Sat, 13 Nov 2021 00:39:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Sat, 13 Nov 2021 00:38:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20/Mi 9T (davinci) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
-    <pubDate>Sat, 13 Nov 2021 00:37:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Sat, 13 Nov 2021 00:35:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Sat, 13 Nov 2021 00:33:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 (cepheus) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Sat, 13 Nov 2021 00:32:37 +0900</pubDate>
   </item>
     </channel>
 </rss>

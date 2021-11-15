@@ -54,8 +54,8 @@ permalink: /miui/vela/
                 <tbody>
                 <tr><td>Mi CC 9 Meitu Edition China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RFECNXM</td><td>11.0</td><td>4.0 GB</td><td>2021-06-23</td><td><a href="/miui/vela/stable/V12.5.3.0.RFECNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 Meitu Edition China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RFECNXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-01</td><td><a href="/miui/vela/stable/V12.5.3.0.RFECNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 Meitu Edition China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RFECNXM</td><td>11.0</td><td>2.7 GB</td><td>2021-11-15</td><td><a href="/miui/vela/stable beta/V12.5.5.0.RFECNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 Meitu Edition China</td><td>Weekly</td><td>Recovery</td><td>21.11.10</td><td>11.0</td><td>2.6 GB</td><td>2021-11-11</td><td><a href="/miui/vela/weekly/21.11.10/">Download</a></td></tr>
-<tr><td>Mi CC 9 Meitu Edition China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RFECNXM</td><td>11.0</td><td>2.6 GB</td><td>2021-04-27</td><td><a href="/miui/vela/stable beta/V12.5.1.0.RFECNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
