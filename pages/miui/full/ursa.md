@@ -52,7 +52,9 @@ permalink: /archive/miui/ursa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 Explorer China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.QEHCNXM</td><td>10.0</td><td>2.3 GB</td><td>2021-07-13</td><td><a href="/miui/ursa/stable beta/V12.5.1.0.QEHCNXM/">Download</a></td></tr>
+                <tr><td>Mi 8 Explorer China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.QEHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2021-11-15</td><td><a href="/miui/ursa/stable beta/V12.5.3.0.QEHCNXM/">Download</a></td></tr>
+<tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.QEHCNXM</td><td>10.0</td><td>2.3 GB</td><td>2021-07-13</td><td><a href="/miui/ursa/stable/V12.5.1.0.QEHCNXM/">Download</a></td></tr>
+<tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.QEHCNXM</td><td>10.0</td><td>3.1 GB</td><td>2021-07-07</td><td><a href="/miui/ursa/stable/V12.5.1.0.QEHCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Recovery</td><td>V12.0.5.0.QEHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2021-04-07</td><td><a href="/miui/ursa/stable/V12.0.5.0.QEHCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Fastboot</td><td>V12.0.5.0.QEHCNXM</td><td>10.0</td><td>2.9 GB</td><td>2021-03-26</td><td><a href="/miui/ursa/stable/V12.0.5.0.QEHCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QEHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2021-01-04</td><td><a href="/miui/ursa/stable/V12.0.4.0.QEHCNXM/">Download</a></td></tr>
@@ -75,15 +77,15 @@ permalink: /archive/miui/ursa/
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.5.21</td><td>10.0</td><td>2.4 GB</td><td>2020-05-21</td><td><a href="/miui/ursa/weekly/20.5.21/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.5.14</td><td>10.0</td><td>2.3 GB</td><td>2020-05-14</td><td><a href="/miui/ursa/weekly/20.5.14/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.4.30</td><td>10.0</td><td>2.3 GB</td><td>2020-04-30</td><td><a href="/miui/ursa/weekly/20.4.30/">Download</a></td></tr>
+<tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QEHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-08-20</td><td><a href="/miui/ursa/stable/V12.0.2.0.QEHCNXM/">Download</a></td></tr>
+<tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QEHCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-15</td><td><a href="/miui/ursa/stable/V12.0.2.0.QEHCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.4.27</td><td>10.0</td><td>2.3 GB</td><td>2020-04-27</td><td><a href="/miui/ursa/weekly/20.4.27/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QEHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-04-08</td><td><a href="/miui/ursa/stable/V11.0.3.0.QEHCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QEHCNXM</td><td>10.0</td><td>2.8 GB</td><td>2020-03-24</td><td><a href="/miui/ursa/stable/V11.0.3.0.QEHCNXM/">Download</a></td></tr>
-<tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QEHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-08-20</td><td><a href="/miui/ursa/stable/V12.0.2.0.QEHCNXM/">Download</a></td></tr>
-<tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QEHCNXM</td><td>10.0</td><td>2.9 GB</td><td>2020-08-15</td><td><a href="/miui/ursa/stable/V12.0.2.0.QEHCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.3.26</td><td>10.0</td><td>2.4 GB</td><td>2020-03-26</td><td><a href="/miui/ursa/weekly/20.3.26/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.3.19</td><td>10.0</td><td>2.4 GB</td><td>2020-03-19</td><td><a href="/miui/ursa/weekly/20.3.19/">Download</a></td></tr>
-<tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.3.12</td><td>10.0</td><td>2.4 GB</td><td>2020-03-12</td><td><a href="/miui/ursa/weekly/20.3.12/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.5.7</td><td>10.0</td><td>2.3 GB</td><td>2020-05-07</td><td><a href="/miui/ursa/weekly/20.5.7/">Download</a></td></tr>
+<tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.3.12</td><td>10.0</td><td>2.4 GB</td><td>2020-03-12</td><td><a href="/miui/ursa/weekly/20.3.12/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.3.5</td><td>10.0</td><td>2.4 GB</td><td>2020-03-05</td><td><a href="/miui/ursa/weekly/20.3.5/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.2.27</td><td>10.0</td><td>2.4 GB</td><td>2020-02-27</td><td><a href="/miui/ursa/weekly/20.2.27/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>20.1.21</td><td>10.0</td><td>2.4 GB</td><td>2020-01-21</td><td><a href="/miui/ursa/weekly/20.1.21/">Download</a></td></tr>
@@ -113,10 +115,10 @@ permalink: /archive/miui/ursa/
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Fastboot</td><td>9.8.22</td><td>9.0</td><td>3.1 GB</td><td>2019-08-22</td><td><a href="/miui/ursa/weekly/9.8.22/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>9.8.15</td><td>9.0</td><td>2.3 GB</td><td>2019-08-15</td><td><a href="/miui/ursa/weekly/9.8.15/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Fastboot</td><td>9.8.15</td><td>9.0</td><td>3.1 GB</td><td>2019-08-15</td><td><a href="/miui/ursa/weekly/9.8.15/">Download</a></td></tr>
-<tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>9.8.9</td><td>9.0</td><td>2.3 GB</td><td>2019-08-10</td><td><a href="/miui/ursa/weekly/9.8.9/">Download</a></td></tr>
-<tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Fastboot</td><td>9.8.9</td><td>9.0</td><td>3.1 GB</td><td>2019-08-09</td><td><a href="/miui/ursa/weekly/9.8.9/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PEHCNXM</td><td>9.0</td><td>2.4 GB</td><td>2019-10-16</td><td><a href="/miui/ursa/stable/V11.0.2.0.PEHCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.PEHCNXM</td><td>9.0</td><td>3.1 GB</td><td>2019-09-20</td><td><a href="/miui/ursa/stable/V11.0.2.0.PEHCNXM/">Download</a></td></tr>
+<tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>9.8.9</td><td>9.0</td><td>2.3 GB</td><td>2019-08-10</td><td><a href="/miui/ursa/weekly/9.8.9/">Download</a></td></tr>
+<tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Fastboot</td><td>9.8.9</td><td>9.0</td><td>3.1 GB</td><td>2019-08-09</td><td><a href="/miui/ursa/weekly/9.8.9/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Recovery</td><td>V10.3.6.0.PEHCNXM</td><td>9.0</td><td>2.2 GB</td><td>2019-08-09</td><td><a href="/miui/ursa/stable/V10.3.6.0.PEHCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Stable</td><td>Fastboot</td><td>V10.3.6.0.PEHCNXM</td><td>9.0</td><td>2.9 GB</td><td>2019-08-02</td><td><a href="/miui/ursa/stable/V10.3.6.0.PEHCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Explorer China</td><td>Weekly</td><td>Recovery</td><td>9.8.8</td><td>9.0</td><td>2.3 GB</td><td>2019-08-08</td><td><a href="/miui/ursa/weekly/9.8.8/">Download</a></td></tr>
