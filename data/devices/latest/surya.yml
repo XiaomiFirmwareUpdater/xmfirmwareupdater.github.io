@@ -9,15 +9,15 @@
     android: '11.0'
     miui: V12.5.3.0.RJGMIXM
 - branch: stable
-  date: '2021-10-27'
+  date: '2021-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-27.10.2021/fw_surya_miui_SURYAEEAGlobal_V12.5.3.0.RJGEUXM_79290cf3c3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.5.3.0.RJGEUXM_79290cf3c3_11.0.zip
-  filename: fw_surya_miui_SURYAEEAGlobal_V12.5.3.0.RJGEUXM_79290cf3c3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-16.11.2021/fw_surya_miui_SURYAEEAGlobal_V12.5.4.0.RJGEUXM_0deb1eaf6f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.5.4.0.RJGEUXM_0deb1eaf6f_11.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V12.5.4.0.RJGEUXM_0deb1eaf6f_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RJGEUXM
+    miui: V12.5.4.0.RJGEUXM
 - branch: stable
   date: '2021-10-28'
   downloads:
