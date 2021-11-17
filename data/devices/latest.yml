@@ -1779,15 +1779,15 @@
     android: '10.0'
     miui: V12.5.1.0.QFGMIXM
 - branch: stable
-  date: '2021-07-08'
+  date: '2021-11-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lavender/releases/download/stable-09.07.2021/fw_lavender_miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lavender/fw_lavender_miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip
-  filename: fw_lavender_miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lavender/releases/download/stable-17.11.2021/fw_lavender_miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lavender/fw_lavender_miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip
+  filename: fw_lavender_miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.5.3.0.QFGCNXM
+    miui: V12.5.7.0.QFGCNXM
 - branch: weekly
   date: '2021-04-23'
   downloads:
@@ -2419,15 +2419,15 @@
     android: '10.0'
     miui: V12.5.2.0.QCPINXM
 - branch: stable
-  date: '2021-08-06'
+  date: '2021-11-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivewood/releases/download/stable-06.08.2021/fw_olivewood_miui_OLIVEWOODINGlobal_V12.5.1.0.QCQINXM_8d728a9be4_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V12.5.1.0.QCQINXM_8d728a9be4_10.0.zip
-  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V12.5.1.0.QCQINXM_8d728a9be4_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olivewood/releases/download/stable-17.11.2021/fw_olivewood_miui_OLIVEWOODINGlobal_V12.5.5.0.QCQINXM_9659a2ffc1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olivewood/fw_olivewood_miui_OLIVEWOODINGlobal_V12.5.5.0.QCQINXM_9659a2ffc1_10.0.zip
+  filename: fw_olivewood_miui_OLIVEWOODINGlobal_V12.5.5.0.QCQINXM_9659a2ffc1_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.5.1.0.QCQINXM
+    miui: V12.5.5.0.QCQINXM
 - branch: stable
   date: '2021-03-13'
   downloads:
@@ -3369,15 +3369,15 @@
     android: '11.0'
     miui: V12.5.9.0.RKFINXM
 - branch: stable
-  date: '2021-08-11'
+  date: '2021-11-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-11.08.2021/fw_thyme_miui_THYME_V12.5.8.0.RGACNXM_3e742672c5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/thyme/fw_thyme_miui_THYME_V12.5.8.0.RGACNXM_3e742672c5_11.0.zip
-  filename: fw_thyme_miui_THYME_V12.5.8.0.RGACNXM_3e742672c5_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-17.11.2021/fw_thyme_miui_THYME_V12.5.14.0.RGACNXM_71ebdf5fb2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/thyme/fw_thyme_miui_THYME_V12.5.14.0.RGACNXM_71ebdf5fb2_11.0.zip
+  filename: fw_thyme_miui_THYME_V12.5.14.0.RGACNXM_71ebdf5fb2_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.8.0.RGACNXM
+    miui: V12.5.14.0.RGACNXM
 - branch: weekly
   date: '2021-11-12'
   downloads:
@@ -3809,15 +3809,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2021-06-30'
+  date: '2021-11-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-30.06.2021/fw_violet_miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip
-  filename: fw_violet_miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-17.11.2021/fw_violet_miui_VIOLET_V12.5.4.0.QFHCNXM_8706bb89a6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLET_V12.5.4.0.QFHCNXM_8706bb89a6_10.0.zip
+  filename: fw_violet_miui_VIOLET_V12.5.4.0.QFHCNXM_8706bb89a6_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.5.1.0.QFHCNXM
+    miui: V12.5.4.0.QFHCNXM
 - branch: weekly
   date: '2021-04-23'
   downloads:

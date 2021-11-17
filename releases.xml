@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 17 Nov 2021 19:49:30 +0900</pubDate>
+  <pubDate>Thu, 18 Nov 2021 02:05:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 7 Pro (violet) - V12.5.4.0.QFHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/violet</link>
+    <pubDate>Thu, 18 Nov 2021 02:05:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10S (thyme) - V12.5.14.0.RGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Thu, 18 Nov 2021 02:03:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 8A Pro/Redmi 8A Dual (olivewood) - V12.5.5.0.QCQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivewood</link>
+    <pubDate>Thu, 18 Nov 2021 01:31:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 7/7S (lavender) - V12.5.7.0.QFGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
+    <pubDate>Thu, 18 Nov 2021 01:29:27 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro/Pro Max (sweetin) - V12.5.9.0.RKFINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweetin</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 11 Pro/Pro+/Xiaomi 11i (pissarro) - V12.5.8.0.RKTCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
     <pubDate>Sat, 13 Nov 2021 01:54:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.7.0.RJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Sat, 13 Nov 2021 01:18:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Meitu Edition (vela) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vela</link>
-    <pubDate>Sat, 13 Nov 2021 00:54:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Sat, 13 Nov 2021 00:52:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.11.10</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Sat, 13 Nov 2021 00:51:23 +0900</pubDate>
   </item>
     </channel>
 </rss>
