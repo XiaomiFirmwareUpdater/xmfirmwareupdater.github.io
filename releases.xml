@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 18 Nov 2021 13:32:28 +0900</pubDate>
+  <pubDate>Fri, 19 Nov 2021 20:00:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Civi (mona) - V12.5.8.0.RKVCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
+    <pubDate>Fri, 19 Nov 2021 20:00:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.5.4.0.RJCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Fri, 19 Nov 2021 19:30:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10/Redmi 10 Prime (selene) - V12.5.9.0.RKUMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Fri, 19 Nov 2021 14:12:34 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 (2021) (biloba) - V12.5.8.0.RCUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/biloba</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.5.1.0.RKSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
     <pubDate>Mon, 15 Nov 2021 19:49:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.5.0.RJDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Mon, 15 Nov 2021 19:32:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.10.0.QCREUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Mon, 15 Nov 2021 13:17:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V12.5.4.0.RGBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
-    <pubDate>Sun, 14 Nov 2021 01:36:33 +0900</pubDate>
   </item>
     </channel>
 </rss>
