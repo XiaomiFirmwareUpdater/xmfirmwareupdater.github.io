@@ -8,3 +8,13 @@
   versions:
     android: '11.0'
     miui: V12.5.8.0.RKTCNXM
+- branch: weekly
+  date: '2021-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-19.11.2021/fw_pissarro_miui_PISSARRO_21.11.17_2789d9f808_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/pissarro/fw_pissarro_miui_PISSARRO_21.11.17_2789d9f808_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_21.11.17_2789d9f808_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.17

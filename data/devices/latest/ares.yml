@@ -9,15 +9,15 @@
     android: '11.0'
     miui: V12.5.8.0.RKJCNXM
 - branch: weekly
-  date: '2021-10-21'
+  date: '2021-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/weekly-21.10.2021/fw_ares_miui_ARES_21.10.20_1042c24b86_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/ares/fw_ares_miui_ARES_21.10.20_1042c24b86_11.0.zip
-  filename: fw_ares_miui_ARES_21.10.20_1042c24b86_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/weekly-19.11.2021/fw_ares_miui_ARES_21.11.17_fd47aae68e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/ares/fw_ares_miui_ARES_21.11.17_fd47aae68e_12.0.zip
+  filename: fw_ares_miui_ARES_21.11.17_fd47aae68e_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: 21.10.20
+    android: '12.0'
+    miui: 21.11.17
 - branch: stable
   date: '2021-08-30'
   downloads:

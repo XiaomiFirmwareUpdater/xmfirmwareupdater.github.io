@@ -52,7 +52,8 @@ permalink: /archive/miui/grus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.11.10</td><td>11.0</td><td>2.7 GB</td><td>2021-11-11</td><td><a href="/miui/grus/weekly/21.11.10/">Download</a></td></tr>
+                <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.11.17</td><td>11.0</td><td>2.7 GB</td><td>2021-11-18</td><td><a href="/miui/grus/weekly/21.11.17/">Download</a></td></tr>
+<tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.11.10</td><td>11.0</td><td>2.7 GB</td><td>2021-11-11</td><td><a href="/miui/grus/weekly/21.11.10/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.11.3</td><td>11.0</td><td>2.7 GB</td><td>2021-11-04</td><td><a href="/miui/grus/weekly/21.11.3/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.10.27</td><td>11.0</td><td>2.7 GB</td><td>2021-10-28</td><td><a href="/miui/grus/weekly/21.10.27/">Download</a></td></tr>
 <tr><td>Mi 9 SE China</td><td>Weekly</td><td>Recovery</td><td>21.10.20</td><td>11.0</td><td>2.7 GB</td><td>2021-10-21</td><td><a href="/miui/grus/weekly/21.10.20/">Download</a></td></tr>
