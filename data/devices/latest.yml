@@ -929,15 +929,15 @@
     android: '11.0'
     miui: V12.5.2.0.RJWEUXM
 - branch: stable
-  date: '2021-09-03'
+  date: '2021-11-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-03.09.2021/fw_curtana_miui_CURTANAINGlobal_V12.5.1.0.RJWINXM_70a4ff19d8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAINGlobal_V12.5.1.0.RJWINXM_70a4ff19d8_11.0.zip
-  filename: fw_curtana_miui_CURTANAINGlobal_V12.5.1.0.RJWINXM_70a4ff19d8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-20.11.2021/fw_curtana_miui_CURTANAINGlobal_V12.5.2.0.RJWINXM_d6c0602747_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAINGlobal_V12.5.2.0.RJWINXM_d6c0602747_11.0.zip
+  filename: fw_curtana_miui_CURTANAINGlobal_V12.5.2.0.RJWINXM_d6c0602747_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RJWINXM
+    miui: V12.5.2.0.RJWINXM
 - branch: stable
   date: '2021-07-13'
   downloads:
@@ -1179,15 +1179,15 @@
     android: '11.0'
     miui: 21.11.17
 - branch: stable
-  date: '2021-10-02'
+  date: '2021-11-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-02.10.2021/fw_excalibur_miui_EXCALIBURINGlobal_V12.5.2.0.RJXINXM_ca18cfb2b9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V12.5.2.0.RJXINXM_ca18cfb2b9_11.0.zip
-  filename: fw_excalibur_miui_EXCALIBURINGlobal_V12.5.2.0.RJXINXM_ca18cfb2b9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-20.11.2021/fw_excalibur_miui_EXCALIBURINGlobal_V12.5.3.0.RJXINXM_26940de4a6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V12.5.3.0.RJXINXM_26940de4a6_11.0.zip
+  filename: fw_excalibur_miui_EXCALIBURINGlobal_V12.5.3.0.RJXINXM_26940de4a6_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RJXINXM
+    miui: V12.5.3.0.RJXINXM
 - branch: stable
   date: '2021-10-22'
   downloads:
@@ -2689,15 +2689,15 @@
     android: '10.0'
     miui: V12.0.3.0.QCMINXM
 - branch: stable
-  date: '2021-11-12'
+  date: '2021-11-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-12.11.2021/fw_pissarro_miui_PISSARRO_V12.5.8.0.RKTCNXM_c4277311fd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.8.0.RKTCNXM_c4277311fd_11.0.zip
-  filename: fw_pissarro_miui_PISSARRO_V12.5.8.0.RKTCNXM_c4277311fd_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-20.11.2021/fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.8.0.RKTCNXM
+    miui: V12.5.10.0.RKTCNXM
 - branch: weekly
   date: '2021-11-19'
   downloads:
