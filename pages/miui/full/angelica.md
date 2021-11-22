@@ -52,7 +52,8 @@ permalink: /archive/miui/angelica/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.10.0.QCREUXM</td><td>10.0</td><td>1.8 GB</td><td>2021-11-11</td><td><a href="/miui/angelica/stable/V12.0.10.0.QCREUXM/">Download</a></td></tr>
+                <tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.15.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2021-11-19</td><td><a href="/miui/angelicain/stable beta/V12.0.15.0.QCRINXM/">Download</a></td></tr>
+<tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.10.0.QCREUXM</td><td>10.0</td><td>1.8 GB</td><td>2021-11-11</td><td><a href="/miui/angelica/stable/V12.0.10.0.QCREUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.10.0.QCREUXM</td><td>10.0</td><td>4.4 GB</td><td>2021-11-06</td><td><a href="/miui/angelica/stable/V12.0.10.0.QCREUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Global</td><td>Stable</td><td>Recovery</td><td>V12.0.18.0.QCRMIXM</td><td>10.0</td><td>1.8 GB</td><td>2021-11-06</td><td><a href="/miui/angelica/stable/V12.0.18.0.QCRMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.18.0.QCRMIXM</td><td>10.0</td><td>4.3 GB</td><td>2021-11-01</td><td><a href="/miui/angelica/stable/V12.0.18.0.QCRMIXM/">Download</a></td></tr>

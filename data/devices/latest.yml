@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-11-09'
+  date: '2021-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-09.11.2021/fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
-  filename: fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-22.11.2021/fw_agate_miui_AGATEGlobal_V12.5.8.0.RKWMIXM_6d381b1d91_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEGlobal_V12.5.8.0.RKWMIXM_6d381b1d91_11.0.zip
+  filename: fw_agate_miui_AGATEGlobal_V12.5.8.0.RKWMIXM_6d381b1d91_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RKWMIXM
+    miui: V12.5.8.0.RKWMIXM
 - branch: stable
   date: '2021-10-28'
   downloads:
@@ -119,15 +119,15 @@
     android: '10.0'
     miui: V12.0.10.0.QCREUXM
 - branch: stable
-  date: '2021-08-30'
+  date: '2021-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelicain/releases/download/stable-30.08.2021/fw_angelicain_miui_ANGELICAININGlobal_V12.0.13.0.QCRINXM_b0ba3b3667_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.13.0.QCRINXM_b0ba3b3667_10.0.zip
-  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.13.0.QCRINXM_b0ba3b3667_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelicain/releases/download/stable-22.11.2021/fw_angelicain_miui_ANGELICAININGlobal_V12.0.15.0.QCRINXM_47ccced03d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.15.0.QCRINXM_47ccced03d_10.0.zip
+  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.15.0.QCRINXM_47ccced03d_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.13.0.QCRINXM
+    miui: V12.0.15.0.QCRINXM
 - branch: stable
   date: '2021-08-22'
   downloads:
@@ -849,15 +849,15 @@
     android: '11.0'
     miui: 21.11.3
 - branch: stable
-  date: '2021-07-26'
+  date: '2021-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-26.07.2021/fw_cmi_miui_CMIEEAGlobal_V12.5.2.0.RJAEUXM_2c37c153d0_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIEEAGlobal_V12.5.2.0.RJAEUXM_2c37c153d0_11.0.zip
-  filename: fw_cmi_miui_CMIEEAGlobal_V12.5.2.0.RJAEUXM_2c37c153d0_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-22.11.2021/fw_cmi_miui_CMIEEAGlobal_V12.5.3.0.RJAEUXM_a799b6f1d2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIEEAGlobal_V12.5.3.0.RJAEUXM_a799b6f1d2_11.0.zip
+  filename: fw_cmi_miui_CMIEEAGlobal_V12.5.3.0.RJAEUXM_a799b6f1d2_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RJAEUXM
+    miui: V12.5.3.0.RJAEUXM
 - branch: stable
   date: '2021-10-08'
   downloads:
