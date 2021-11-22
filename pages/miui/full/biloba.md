@@ -52,7 +52,8 @@ permalink: /archive/miui/biloba/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 8 (2021) Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.8.0.RCUMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-11-15</td><td><a href="/miui/biloba/stable beta/V12.5.8.0.RCUMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 8 (2021) Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RCURUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-11-19</td><td><a href="/miui/biloba/stable beta/V12.5.5.0.RCURUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 (2021) Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.8.0.RCUMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-11-15</td><td><a href="/miui/biloba/stable beta/V12.5.8.0.RCUMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 (2021) EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RCUEUXM</td><td>11.0</td><td>2.4 GB</td><td>2021-10-11</td><td><a href="/miui/biloba/stable/V12.5.5.0.RCUEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 (2021) EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RCUEUXM</td><td>11.0</td><td>5.1 GB</td><td>2021-09-30</td><td><a href="/miui/biloba/stable/V12.5.5.0.RCUEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 (2021) Global</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RCUMIXM</td><td>11.0</td><td>2.4 GB</td><td>2021-09-26</td><td><a href="/miui/biloba/stable/V12.5.7.0.RCUMIXM/">Download</a></td></tr>
