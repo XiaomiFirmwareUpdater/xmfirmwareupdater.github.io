@@ -52,7 +52,8 @@ permalink: /archive/miui/lmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RJKCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-11-08</td><td><a href="/miui/lmi/stable beta/V12.5.7.0.RJKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RJKCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-11-08</td><td><a href="/miui/lmi/stable/V12.5.7.0.RJKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RJKCNXM</td><td>11.0</td><td>5.1 GB</td><td>2021-10-25</td><td><a href="/miui/lmi/stable/V12.5.7.0.RJKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.11.3</td><td>11.0</td><td>4.4 GB</td><td>2021-11-04</td><td><a href="/miui/lmi/weekly/21.11.3/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.10.28</td><td>11.0</td><td>4.4 GB</td><td>2021-10-28</td><td><a href="/miui/lmi/weekly/21.10.28/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.10.20</td><td>11.0</td><td>4.4 GB</td><td>2021-10-21</td><td><a href="/miui/lmi/weekly/21.10.20/">Download</a></td></tr>
