@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 23 Nov 2021 19:26:09 +0900</pubDate>
+  <pubDate>Wed, 24 Nov 2021 13:13:39 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.5.0.RFDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Wed, 24 Nov 2021 13:13:39 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.9.0.RJDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
@@ -100,11 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.11.17</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Sat, 20 Nov 2021 03:42:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 21.11.17</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Sat, 20 Nov 2021 03:40:10 +0900</pubDate>
   </item>
     </channel>
 </rss>

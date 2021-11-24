@@ -40418,6 +40418,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: stable
+  date: '2021-11-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-24.11.2021/fw_tucana_miui_TUCANAGlobal_V12.5.5.0.RFDMIXM_d34d306287_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.5.5.0.RFDMIXM_d34d306287_11.0.zip
+  filename: fw_tucana_miui_TUCANAGlobal_V12.5.5.0.RFDMIXM_d34d306287_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RFDMIXM
 - branch: weekly
   date: '2021-11-19'
   downloads:
