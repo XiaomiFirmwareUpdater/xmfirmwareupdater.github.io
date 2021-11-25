@@ -53,7 +53,8 @@ permalink: /archive/miui/mona/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi Civi China</td><td>Weekly</td><td>Recovery</td><td>21.11.17</td><td>12.0</td><td>4.8 GB</td><td>2021-11-18</td><td><a href="/miui/mona/weekly/21.11.17/">Download</a></td></tr>
-<tr><td>Xiaomi Civi China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.8.0.RKVCNXM</td><td>11.0</td><td>4.8 GB</td><td>2021-11-16</td><td><a href="/miui/mona/stable beta/V12.5.8.0.RKVCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi China</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKVCNXM</td><td>11.0</td><td>4.8 GB</td><td>2021-11-16</td><td><a href="/miui/mona/stable/V12.5.8.0.RKVCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi China</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RKVCNXM</td><td>11.0</td><td>6.6 GB</td><td>2021-11-10</td><td><a href="/miui/mona/stable/V12.5.8.0.RKVCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Weekly</td><td>Recovery</td><td>21.10.27</td><td>11.0</td><td>4.7 GB</td><td>2021-10-28</td><td><a href="/miui/mona/weekly/21.10.27/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RKVCNXM</td><td>11.0</td><td>4.7 GB</td><td>2021-10-28</td><td><a href="/miui/mona/stable/V12.5.7.0.RKVCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RKVCNXM</td><td>11.0</td><td>6.6 GB</td><td>2021-10-23</td><td><a href="/miui/mona/stable/V12.5.7.0.RKVCNXM/">Download</a></td></tr>
