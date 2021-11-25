@@ -3649,15 +3649,15 @@
     android: '11.0'
     miui: V12.5.6.0.RJBEUXM
 - branch: stable
-  date: '2021-09-06'
+  date: '2021-11-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-06.09.2021/fw_umi_miui_UMIINGlobal_V12.5.3.0.RJBINXM_7fb8d7b57c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIINGlobal_V12.5.3.0.RJBINXM_7fb8d7b57c_11.0.zip
-  filename: fw_umi_miui_UMIINGlobal_V12.5.3.0.RJBINXM_7fb8d7b57c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-25.11.2021/fw_umi_miui_UMIINGlobal_V12.5.4.0.RJBINXM_03960f3de1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIINGlobal_V12.5.4.0.RJBINXM_03960f3de1_11.0.zip
+  filename: fw_umi_miui_UMIINGlobal_V12.5.4.0.RJBINXM_03960f3de1_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RJBINXM
+    miui: V12.5.4.0.RJBINXM
 - branch: stable
   date: '2021-04-12'
   downloads:

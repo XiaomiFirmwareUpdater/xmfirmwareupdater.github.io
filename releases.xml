@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 25 Nov 2021 19:16:28 +0900</pubDate>
+  <pubDate>Fri, 26 Nov 2021 01:34:05 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V12.5.4.0.RJBINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 26 Nov 2021 01:34:05 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9C NFC (angelican) - V12.0.10.0.QCSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
@@ -100,11 +105,6 @@
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 21.11.17</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
     <pubDate>Sat, 20 Nov 2021 03:52:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.11.17</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
-    <pubDate>Sat, 20 Nov 2021 03:49:55 +0900</pubDate>
   </item>
     </channel>
 </rss>
