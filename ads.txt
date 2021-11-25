@@ -731,4 +731,16 @@ supply.colossusssp.com, 384, DIRECT
 contextweb.com, 562060, DIRECT, 89ff185a4c4e857c
 pubmatic.com, 160114, RESELLER, 5d62403b186f2ace
 bizzclick.com, 705, DIRECT, 7e936b1feafdaa61
+google.com, pub-8619005682063532, DIRECT, f08c47fec0942fa0
+google.com, pub-6482062579687509, DIRECT, f08c47fec0942fa0
+google.com, pub-8553888480065529, DIRECT, f08c47fec0942fa0
+google.com, pub-9380882144089713, DIRECT, f08c47fec0942fa0
+betweendigital.com, 43894, RESELLER
+opera.com, pub5449961587776, RESELLER, 55a0c5fd61378de3
+adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
+meitu.com, 654, RESELLER
+emxdgt.com, 2047, RESELLER, 1e1d41537f7cad7f
+video.unrulymedia.com, 3880497124, RESELLER
+google.com, pub-3918053995686023, DIRECT, f08c47fec0942fa0
+google.com, pub-3784779432172338, DIRECT, f08c47fec0942fa0
 #VLI END
