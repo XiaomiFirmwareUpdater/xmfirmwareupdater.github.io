@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-26.11.2021/fw_begonia_miui_BEGONIA_21.11.24_917b76a6b1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/begonia/fw_begonia_miui_BEGONIA_21.11.24_917b76a6b1_11.0.zip
+  filename: fw_begonia_miui_BEGONIA_21.11.24_917b76a6b1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.24
+- branch: weekly
   date: '2021-11-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-19.11.2021/fw_begonia_miui_BEGONIA_21.11.17_c05ad0fe41_11.0.zip

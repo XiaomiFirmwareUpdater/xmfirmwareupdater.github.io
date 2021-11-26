@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/weekly-26.11.2021/fw_renoir_miui_RENOIR_21.11.25_b6ce655f6d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.25/renoir/fw_renoir_miui_RENOIR_21.11.25_b6ce655f6d_12.0.zip
+  filename: fw_renoir_miui_RENOIR_21.11.25_b6ce655f6d_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.11.25
 - branch: stable
   date: '2021-11-22'
   downloads:

@@ -52,7 +52,8 @@ permalink: /archive/miui/pyxis/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>21.11.17</td><td>11.0</td><td>2.7 GB</td><td>2021-11-18</td><td><a href="/miui/pyxis/weekly/21.11.17/">Download</a></td></tr>
+                <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>21.11.24</td><td>11.0</td><td>2.7 GB</td><td>2021-11-25</td><td><a href="/miui/pyxis/weekly/21.11.24/">Download</a></td></tr>
+<tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>21.11.17</td><td>11.0</td><td>2.7 GB</td><td>2021-11-18</td><td><a href="/miui/pyxis/weekly/21.11.17/">Download</a></td></tr>
 <tr><td>Mi CC 9 China</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RFCCNXM</td><td>11.0</td><td>2.6 GB</td><td>2021-11-11</td><td><a href="/miui/pyxis/stable/V12.5.5.0.RFCCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RFCCNXM</td><td>11.0</td><td>4.0 GB</td><td>2021-10-24</td><td><a href="/miui/pyxis/stable/V12.5.5.0.RFCCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>21.11.10</td><td>11.0</td><td>2.7 GB</td><td>2021-11-11</td><td><a href="/miui/pyxis/weekly/21.11.10/">Download</a></td></tr>
@@ -83,15 +84,15 @@ permalink: /archive/miui/pyxis/
 <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>21.6.9</td><td>11.0</td><td>2.6 GB</td><td>2021-06-10</td><td><a href="/miui/pyxis/weekly/21.6.9/">Download</a></td></tr>
 <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>21.6.2</td><td>11.0</td><td>2.6 GB</td><td>2021-06-03</td><td><a href="/miui/pyxis/weekly/21.6.2/">Download</a></td></tr>
 <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>21.5.27</td><td>11.0</td><td>2.6 GB</td><td>2021-05-27</td><td><a href="/miui/pyxis/weekly/21.5.27/">Download</a></td></tr>
-<tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RFCMIXM</td><td>11.0</td><td>2.7 GB</td><td>2021-07-20</td><td><a href="/miui/pyxis/stable/V12.5.2.0.RFCMIXM/">Download</a></td></tr>
-<tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RFCMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-13</td><td><a href="/miui/pyxis/stable/V12.5.2.0.RFCMIXM/">Download</a></td></tr>
-<tr><td>Mi CC 9 China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RFCCNXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-02</td><td><a href="/miui/pyxis/stable/V12.5.3.0.RFCCNXM/">Download</a></td></tr>
-<tr><td>Mi CC 9 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RFCCNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-06-24</td><td><a href="/miui/pyxis/stable/V12.5.3.0.RFCCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>21.5.20</td><td>11.0</td><td>2.6 GB</td><td>2021-05-20</td><td><a href="/miui/pyxis/weekly/21.5.20/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QFCMIXM</td><td>10.0</td><td>2.6 GB</td><td>2021-05-19</td><td><a href="/miui/pyxis/stable/V12.0.7.0.QFCMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QFCMIXM</td><td>10.0</td><td>3.2 GB</td><td>2021-05-08</td><td><a href="/miui/pyxis/stable/V12.0.7.0.QFCMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QFCRUXM</td><td>10.0</td><td>2.6 GB</td><td>2021-05-18</td><td><a href="/miui/pyxis/stable/V12.0.6.0.QFCRUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QFCRUXM</td><td>10.0</td><td>3.2 GB</td><td>2021-05-08</td><td><a href="/miui/pyxis/stable/V12.0.6.0.QFCRUXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RFCMIXM</td><td>11.0</td><td>2.7 GB</td><td>2021-07-20</td><td><a href="/miui/pyxis/stable/V12.5.2.0.RFCMIXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RFCMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-13</td><td><a href="/miui/pyxis/stable/V12.5.2.0.RFCMIXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RFCCNXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-02</td><td><a href="/miui/pyxis/stable/V12.5.3.0.RFCCNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RFCCNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-06-24</td><td><a href="/miui/pyxis/stable/V12.5.3.0.RFCCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>2.6 GB</td><td>2021-05-13</td><td><a href="/miui/pyxis/weekly/21.5.12/">Download</a></td></tr>
 <tr><td>Mi 9 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QFCEUXM</td><td>10.0</td><td>2.6 GB</td><td>2021-05-12</td><td><a href="/miui/pyxis/stable/V12.0.7.0.QFCEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QFCEUXM</td><td>10.0</td><td>3.2 GB</td><td>2021-05-06</td><td><a href="/miui/pyxis/stable/V12.0.7.0.QFCEUXM/">Download</a></td></tr>
