@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-10-04'
+  date: '2021-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-05.10.2021/fw_haydn_miui_HAYDNGlobal_V12.5.1.0.SKKMIXM_2ceae7a5c3_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNGlobal_V12.5.1.0.SKKMIXM_2ceae7a5c3_12.0.zip
-  filename: fw_haydn_miui_HAYDNGlobal_V12.5.1.0.SKKMIXM_2ceae7a5c3_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-26.11.2021/fw_haydn_miui_HAYDNGlobal_V12.5.3.0.RKKMIXM_de61ffe8ee_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNGlobal_V12.5.3.0.RKKMIXM_de61ffe8ee_11.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_V12.5.3.0.RKKMIXM_de61ffe8ee_11.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V12.5.1.0.SKKMIXM
+    android: '11.0'
+    miui: V12.5.3.0.RKKMIXM
 - branch: stable
   date: '2021-11-17'
   downloads:
@@ -29,15 +29,15 @@
     android: '12.0'
     miui: 21.11.17
 - branch: stable
-  date: '2021-07-29'
+  date: '2021-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-29.07.2021/fw_haydn_miui_HAYDNEEAGlobal_V12.5.4.0.RKKEUXM_da993334e1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNEEAGlobal_V12.5.4.0.RKKEUXM_da993334e1_11.0.zip
-  filename: fw_haydn_miui_HAYDNEEAGlobal_V12.5.4.0.RKKEUXM_da993334e1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-26.11.2021/fw_haydn_miui_HAYDNEEAGlobal_V12.5.7.0.RKKEUXM_89c6f803eb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNEEAGlobal_V12.5.7.0.RKKEUXM_89c6f803eb_11.0.zip
+  filename: fw_haydn_miui_HAYDNEEAGlobal_V12.5.7.0.RKKEUXM_89c6f803eb_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RKKEUXM
+    miui: V12.5.7.0.RKKEUXM
 - branch: stable
   date: '2021-10-05'
   downloads:

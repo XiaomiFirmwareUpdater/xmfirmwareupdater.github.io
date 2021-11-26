@@ -39,12 +39,12 @@
     android: '11.0'
     miui: V12.0.4.0.RCOEUXM
 - branch: stable
-  date: '2021-01-28'
+  date: '2021-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-28.01.2021/fw_ginkgo_miui_GINKGOINGlobal_V12.0.2.0.QCOINXM_e2889b8fd0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V12.0.2.0.QCOINXM_e2889b8fd0_10.0.zip
-  filename: fw_ginkgo_miui_GINKGOINGlobal_V12.0.2.0.QCOINXM_e2889b8fd0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-26.11.2021/fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.RCOINXM_091c3f13d2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.RCOINXM_091c3f13d2_11.0.zip
+  filename: fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.RCOINXM_091c3f13d2_11.0.zip
   region: India
   versions:
-    android: '10.0'
-    miui: V12.0.2.0.QCOINXM
+    android: '11.0'
+    miui: V12.0.1.0.RCOINXM

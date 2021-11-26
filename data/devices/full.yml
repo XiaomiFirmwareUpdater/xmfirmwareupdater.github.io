@@ -15859,6 +15859,16 @@
     android: '11.0'
     miui: V12.5.1.0.RKZCNXM
 - branch: stable
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_equuleus/releases/download/stable-26.11.2021/fw_equuleus_miui_MI8UD_V12.5.2.0.QECCNXM_c300f2cfad_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/equuleus/fw_equuleus_miui_MI8UD_V12.5.2.0.QECCNXM_c300f2cfad_10.0.zip
+  filename: fw_equuleus_miui_MI8UD_V12.5.2.0.QECCNXM_c300f2cfad_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.5.2.0.QECCNXM
+- branch: stable
   date: '2021-07-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_equuleus/releases/download/stable-13.07.2021/fw_equuleus_miui_MI8UD_V12.5.1.0.QECCNXM_06f3dbf0f0_10.0.zip
@@ -17588,6 +17598,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-26.11.2021/fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.RCOINXM_091c3f13d2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.RCOINXM_091c3f13d2_11.0.zip
+  filename: fw_ginkgo_miui_GINKGOINGlobal_V12.0.1.0.RCOINXM_091c3f13d2_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.0.1.0.RCOINXM
 - branch: weekly
   date: '2021-11-19'
   downloads:
@@ -19338,6 +19358,26 @@
   versions:
     android: '9.0'
     miui: V10.2.5.0.PFBCNXM
+- branch: stable
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-26.11.2021/fw_haydn_miui_HAYDNEEAGlobal_V12.5.7.0.RKKEUXM_89c6f803eb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNEEAGlobal_V12.5.7.0.RKKEUXM_89c6f803eb_11.0.zip
+  filename: fw_haydn_miui_HAYDNEEAGlobal_V12.5.7.0.RKKEUXM_89c6f803eb_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKKEUXM
+- branch: stable
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-26.11.2021/fw_haydn_miui_HAYDNGlobal_V12.5.3.0.RKKMIXM_de61ffe8ee_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNGlobal_V12.5.3.0.RKKMIXM_de61ffe8ee_11.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_V12.5.3.0.RKKMIXM_de61ffe8ee_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RKKMIXM
 - branch: weekly
   date: '2021-11-19'
   downloads:
@@ -24179,6 +24219,16 @@
     android: '7.0'
     miui: 8.3.26
 - branch: stable
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-26.11.2021/fw_lmi_miui_LMIEEAGlobal_V12.5.4.0.RJKEUXM_9e4ff6f198_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.5.4.0.RJKEUXM_9e4ff6f198_11.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.5.4.0.RJKEUXM_9e4ff6f198_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJKEUXM
+- branch: stable
   date: '2021-11-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-08.11.2021/fw_lmi_miui_LMI_V12.5.7.0.RJKCNXM_c51a5fd19f_11.0.zip
@@ -25948,6 +25998,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-26.11.2021/fw_mojito_miui_MOJITOEEAGlobal_V12.5.3.0.RKGEUXM_cc44037a17_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOEEAGlobal_V12.5.3.0.RKGEUXM_cc44037a17_11.0.zip
+  filename: fw_mojito_miui_MOJITOEEAGlobal_V12.5.3.0.RKGEUXM_cc44037a17_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RKGEUXM
 - branch: stable
   date: '2021-11-15'
   downloads:
