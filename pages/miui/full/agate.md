@@ -52,7 +52,8 @@ permalink: /archive/miui/agate/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.8.0.RKWMIXM</td><td>11.0</td><td>2.9 GB</td><td>2021-11-17</td><td><a href="/miui/agate/stable beta/V12.5.8.0.RKWMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKWMIXM</td><td>11.0</td><td>2.9 GB</td><td>2021-11-17</td><td><a href="/miui/agate/stable/V12.5.8.0.RKWMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RKWMIXM</td><td>11.0</td><td>5.8 GB</td><td>2021-11-10</td><td><a href="/miui/agate/stable/V12.5.8.0.RKWMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKWIDXM</td><td>11.0</td><td>2.9 GB</td><td>2021-11-10</td><td><a href="/miui/agate/stable/V12.5.1.0.RKWIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKWIDXM</td><td>11.0</td><td>4.8 GB</td><td>2021-09-16</td><td><a href="/miui/agate/stable/V12.5.1.0.RKWIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKWTRXM</td><td>11.0</td><td>2.9 GB</td><td>2021-11-10</td><td><a href="/miui/agate/stable/V12.5.1.0.RKWTRXM/">Download</a></td></tr>
