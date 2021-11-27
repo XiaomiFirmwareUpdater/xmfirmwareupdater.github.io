@@ -1909,15 +1909,15 @@
     android: '10.0'
     miui: V12.0.12.0.QJQINXM
 - branch: stable
-  date: '2021-11-04'
+  date: '2021-11-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-04.11.2021/fw_lisa_miui_LISAGlobal_V12.5.8.0.RKOMIXM_1168c54c34_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAGlobal_V12.5.8.0.RKOMIXM_1168c54c34_11.0.zip
-  filename: fw_lisa_miui_LISAGlobal_V12.5.8.0.RKOMIXM_1168c54c34_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-27.11.2021/fw_lisa_miui_LISAGlobal_V12.5.11.0.RKOMIXM_366440821d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAGlobal_V12.5.11.0.RKOMIXM_366440821d_11.0.zip
+  filename: fw_lisa_miui_LISAGlobal_V12.5.11.0.RKOMIXM_366440821d_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.8.0.RKOMIXM
+    miui: V12.5.11.0.RKOMIXM
 - branch: stable
   date: '2021-11-08'
   downloads:
