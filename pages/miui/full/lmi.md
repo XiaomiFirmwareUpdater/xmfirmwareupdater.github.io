@@ -52,7 +52,8 @@ permalink: /archive/miui/lmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F2 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RJKEUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-24</td><td><a href="/miui/lmi/stable beta/V12.5.4.0.RJKEUXM/">Download</a></td></tr>
+                <tr><td>POCO F2 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RJKMIXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-26</td><td><a href="/miui/lmi/stable beta/V12.5.5.0.RJKMIXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RJKEUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-24</td><td><a href="/miui/lmi/stable beta/V12.5.4.0.RJKEUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RJKTRXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-22</td><td><a href="/miui/lmi/stable beta/V12.5.3.0.RJKTRXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RJKRUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-22</td><td><a href="/miui/lmi/stable beta/V12.5.3.0.RJKRUXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RJKCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-11-08</td><td><a href="/miui/lmi/stable/V12.5.7.0.RJKCNXM/">Download</a></td></tr>

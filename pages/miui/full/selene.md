@@ -1,7 +1,7 @@
 ---
-title: Redmi 10/Redmi 10 Prime (selene) MIUI Downloads
+title: Redmi Note 11 4G/Redmi 10/Redmi 10 Prime (selene) MIUI Downloads
 layout: download
-name: Redmi 10/Redmi 10 Prime
+name: Redmi Note 11 4G/Redmi 10/Redmi 10 Prime
 codename: selene
 permalink: /archive/miui/selene/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/selene/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/selene/">Redmi 10/Redmi 10 Prime</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/selene/">Redmi Note 11 4G/Redmi 10/Redmi 10 Prime</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
