@@ -1,15 +1,25 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 29 Nov 2021 19:24:20 +0900</pubDate>
+  <pubDate>Tue, 30 Nov 2021 07:48:16 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>POCO X3 NFC (surya) - V12.5.4.0.RJGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Tue, 30 Nov 2021 07:48:16 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V12.5.16.0.RKYCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
+    <pubDate>Tue, 30 Nov 2021 07:46:00 +0900</pubDate>
+  </item>
+    <item>
     <title>Mi 9 (cepheus) - V12.5.2.0.RFAEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
-    <pubDate>Mon, 29 Nov 2021 19:24:20 +0900</pubDate>
+    <pubDate>Mon, 29 Nov 2021 19:25:51 +0900</pubDate>
   </item>
     <item>
     <title>POCO X3 NFC (surya) - V12.5.4.0.RJGMIXM</title>
@@ -95,16 +105,6 @@
     <title>Redmi K20/Mi 9T (davinci) - 21.11.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/davinci</link>
     <pubDate>Fri, 26 Nov 2021 22:43:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 9 Pro 5G (crux) - 21.11.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/crux</link>
-    <pubDate>Fri, 26 Nov 2021 22:40:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - 21.11.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Fri, 26 Nov 2021 22:37:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
