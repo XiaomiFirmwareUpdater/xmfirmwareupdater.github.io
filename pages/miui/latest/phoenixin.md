@@ -54,6 +54,7 @@ permalink: /miui/phoenixin/
                 <tbody>
                 <tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RGHINXM</td><td>11.0</td><td>3.3 GB</td><td>2021-09-24</td><td><a href="/miui/phoenixin/stable/V12.5.3.0.RGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RGHINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-09-29</td><td><a href="/miui/phoenixin/stable/V12.5.3.0.RGHINXM/">Download</a></td></tr>
+<tr><td>POCO X2 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RGHINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-11-30</td><td><a href="/miui/phoenixin/stable beta/V12.5.6.0.RGHINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
