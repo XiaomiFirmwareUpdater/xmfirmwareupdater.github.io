@@ -61,9 +61,8 @@ permalink: /miui/alioth/
 <tr><td>POCO F3 Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKHMIXM</td><td>11.0</td><td>5.7 GB</td><td>2021-09-08</td><td><a href="/miui/alioth/stable/V12.5.4.0.RKHMIXM/">Download</a></td></tr>
 <tr><td>POCO F3 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKHMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-09-11</td><td><a href="/miui/alioth/stable/V12.5.4.0.RKHMIXM/">Download</a></td></tr>
 <tr><td>POCO F3 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKHMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-09-03</td><td><a href="/miui/alioth/stable beta/V12.5.3.0.RKHMIXM/">Download</a></td></tr>
-<tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RKHIDXM</td><td>11.0</td><td>5.1 GB</td><td>2021-10-15</td><td><a href="/miui/alioth/stable/V12.5.5.0.RKHIDXM/">Download</a></td></tr>
-<tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKHIDXM</td><td>11.0</td><td>3.1 GB</td><td>2021-10-27</td><td><a href="/miui/alioth/stable/V12.5.5.0.RKHIDXM/">Download</a></td></tr>
-<tr><td>POCO F3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RKHIDXM</td><td>11.0</td><td>3.1 GB</td><td>2021-11-19</td><td><a href="/miui/alioth/stable beta/V12.5.6.0.RKHIDXM/">Download</a></td></tr>
+<tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKHIDXM</td><td>11.0</td><td>5.1 GB</td><td>2021-11-15</td><td><a href="/miui/alioth/stable/V12.5.6.0.RKHIDXM/">Download</a></td></tr>
+<tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKHIDXM</td><td>11.0</td><td>3.1 GB</td><td>2021-11-19</td><td><a href="/miui/alioth/stable/V12.5.6.0.RKHIDXM/">Download</a></td></tr>
 <tr><td>Mi 11X India</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKHINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-09-18</td><td><a href="/miui/alioth/stable/V12.5.5.0.RKHINXM/">Download</a></td></tr>
 <tr><td>Mi 11X India</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RKHINXM</td><td>11.0</td><td>3.9 GB</td><td>2021-09-12</td><td><a href="/miui/alioth/stable/V12.5.5.0.RKHINXM/">Download</a></td></tr>
 <tr><td>POCO F3 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKHRUXM</td><td>11.0</td><td>5.3 GB</td><td>2021-10-15</td><td><a href="/miui/alioth/stable/V12.5.6.0.RKHRUXM/">Download</a></td></tr>
