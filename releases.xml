@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 01 Dec 2021 13:15:26 +0900</pubDate>
+  <pubDate>Wed, 01 Dec 2021 21:16:36 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 11T Pro (vili) - V12.5.8.0.RKDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
+    <pubDate>Wed, 01 Dec 2021 21:16:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 11T Pro (vili) - V12.5.16.0.RKDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
+    <pubDate>Wed, 01 Dec 2021 20:32:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.3.0.RJOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Wed, 01 Dec 2021 20:01:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi A3 (laurel) - V12.0.14.0.RFQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
+    <pubDate>Wed, 01 Dec 2021 19:59:27 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 Pro (vayu) - V12.5.5.0.RJUINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
@@ -85,26 +105,6 @@
     <title>Redmi K20 Pro/Mi 9T Pro (raphael) - 21.11.24</title>
     <link>https://xiaomifirmwareupdater.com/firmware/raphael</link>
     <pubDate>Fri, 26 Nov 2021 23:06:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - 21.11.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Fri, 26 Nov 2021 23:03:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.11.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 26 Nov 2021 23:01:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.11.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Fri, 26 Nov 2021 22:58:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 21.11.24</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 26 Nov 2021 22:55:25 +0900</pubDate>
   </item>
     </channel>
 </rss>

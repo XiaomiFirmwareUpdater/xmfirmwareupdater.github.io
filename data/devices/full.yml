@@ -22059,6 +22059,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2021-12-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-01.12.2021/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.14.0.RFQEUXM_6ffc158c85_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.14.0.RFQEUXM_6ffc158c85_11.0.zip
+  filename: fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.14.0.RFQEUXM_6ffc158c85_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.14.0.RFQEUXM
+- branch: stable
   date: '2021-11-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-30.11.2021/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.16.0.RFQMIXM_114ae9b5df_11.0.zip
@@ -25668,6 +25678,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-12-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-01.12.2021/fw_merlin_miui_MERLINEEAGlobal_V12.5.3.0.RJOEUXM_cf3ed06242_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINEEAGlobal_V12.5.3.0.RJOEUXM_cf3ed06242_11.0.zip
+  filename: fw_merlin_miui_MERLINEEAGlobal_V12.5.3.0.RJOEUXM_cf3ed06242_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RJOEUXM
 - branch: stable
   date: '2021-11-02'
   downloads:
@@ -46128,6 +46148,26 @@
   versions:
     android: '11.0'
     miui: V12.0.12.0.RKBCNXM
+- branch: stable
+  date: '2021-12-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-01.12.2021/fw_vili_miui_VILIEEAGlobal_V12.5.16.0.RKDEUXM_b7ea544d62_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vili/fw_vili_miui_VILIEEAGlobal_V12.5.16.0.RKDEUXM_b7ea544d62_11.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_V12.5.16.0.RKDEUXM_b7ea544d62_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.16.0.RKDEUXM
+- branch: stable
+  date: '2021-12-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-01.12.2021/fw_vili_miui_VILIGlobal_V12.5.8.0.RKDMIXM_15dace3fb6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vili/fw_vili_miui_VILIGlobal_V12.5.8.0.RKDMIXM_15dace3fb6_11.0.zip
+  filename: fw_vili_miui_VILIGlobal_V12.5.8.0.RKDMIXM_15dace3fb6_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKDMIXM
 - branch: stable
   date: '2021-11-05'
   downloads:
