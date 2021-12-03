@@ -1859,15 +1859,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2021-09-26'
+  date: '2021-12-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-26.09.2021/fw_lime_miui_LIMEGlobal_V12.0.17.0.QJQMIXM_77f0327c18_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.0.17.0.QJQMIXM_77f0327c18_10.0.zip
-  filename: fw_lime_miui_LIMEGlobal_V12.0.17.0.QJQMIXM_77f0327c18_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-03.12.2021/fw_lime_miui_LIMEGlobal_V12.5.3.0.RJQMIXM_5e23b81214_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.5.3.0.RJQMIXM_5e23b81214_11.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V12.5.3.0.RJQMIXM_5e23b81214_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V12.0.17.0.QJQMIXM
+    android: '11.0'
+    miui: V12.5.3.0.RJQMIXM
 - branch: stable
   date: '2021-11-09'
   downloads:
@@ -1919,15 +1919,15 @@
     android: '11.0'
     miui: V12.5.11.0.RKOMIXM
 - branch: stable
-  date: '2021-11-08'
+  date: '2021-12-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-08.11.2021/fw_lisa_miui_LISAEEAGlobal_V12.5.5.0.RKOEUXM_959ddfe792_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAEEAGlobal_V12.5.5.0.RKOEUXM_959ddfe792_11.0.zip
-  filename: fw_lisa_miui_LISAEEAGlobal_V12.5.5.0.RKOEUXM_959ddfe792_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-03.12.2021/fw_lisa_miui_LISAEEAGlobal_V12.5.7.0.RKOEUXM_1e5ce44ec7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAEEAGlobal_V12.5.7.0.RKOEUXM_1e5ce44ec7_11.0.zip
+  filename: fw_lisa_miui_LISAEEAGlobal_V12.5.7.0.RKOEUXM_1e5ce44ec7_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKOEUXM
+    miui: V12.5.7.0.RKOEUXM
 - branch: stable
   date: '2021-12-02'
   downloads:
