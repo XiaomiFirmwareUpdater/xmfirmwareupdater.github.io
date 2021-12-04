@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/weekly-04.12.2021/fw_venus_miui_VENUS_21.12.1_b0bd5fbdba_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/venus/fw_venus_miui_VENUS_21.12.1_b0bd5fbdba_12.0.zip
+  filename: fw_venus_miui_VENUS_21.12.1_b0bd5fbdba_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.12.1
+- branch: weekly
   date: '2021-11-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/weekly-26.11.2021/fw_venus_miui_VENUS_21.11.25_4304c56487_12.0.zip

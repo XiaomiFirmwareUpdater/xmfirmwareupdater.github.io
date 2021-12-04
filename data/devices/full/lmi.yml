@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2021-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-04.12.2021/fw_lmi_miui_LMI_21.11.30_56722ba572_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.30/lmi/fw_lmi_miui_LMI_21.11.30_56722ba572_12.0.zip
+  filename: fw_lmi_miui_LMI_21.11.30_56722ba572_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.11.30
 - branch: stable
   date: '2021-11-27'
   downloads:
