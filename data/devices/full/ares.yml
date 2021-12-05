@@ -9,16 +9,6 @@
     android: '12.0'
     miui: 21.12.1
 - branch: weekly
-  date: '2021-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/weekly-26.11.2021/fw_ares_miui_ARES_21.11.24_bf9b3a2526_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/ares/fw_ares_miui_ARES_21.11.24_bf9b3a2526_12.0.zip
-  filename: fw_ares_miui_ARES_21.11.24_bf9b3a2526_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 21.11.24
-- branch: weekly
   date: '2021-11-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/weekly-19.11.2021/fw_ares_miui_ARES_21.11.17_fd47aae68e_12.0.zip

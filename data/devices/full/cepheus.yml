@@ -28,36 +28,6 @@
   versions:
     android: '11.0'
     miui: 21.11.24
-- branch: weekly
-  date: '2021-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/weekly-19.11.2021/fw_cepheus_miui_CEPHEUS_21.11.17_aa33d15604_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/cepheus/fw_cepheus_miui_CEPHEUS_21.11.17_aa33d15604_11.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_21.11.17_aa33d15604_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.17
-- branch: weekly
-  date: '2021-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/weekly-12.11.2021/fw_cepheus_miui_CEPHEUS_21.11.10_04419817cf_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.10/cepheus/fw_cepheus_miui_CEPHEUS_21.11.10_04419817cf_11.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_21.11.10_04419817cf_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.10
-- branch: stable
-  date: '2021-11-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-09.11.2021/fw_cepheus_miui_CEPHEUS_V12.5.5.0.RFACNXM_8ff260d251_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUS_V12.5.5.0.RFACNXM_8ff260d251_11.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_V12.5.5.0.RFACNXM_8ff260d251_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RFACNXM
 - branch: stable
   date: '2021-08-06'
   downloads:
