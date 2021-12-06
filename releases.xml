@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 05 Dec 2021 16:55:53 +0900</pubDate>
+  <pubDate>Mon, 06 Dec 2021 13:49:28 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.5.0.RKAINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Mon, 06 Dec 2021 13:49:28 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 4G (selenes) - V12.5.2.0.RKUCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/selenes</link>
@@ -100,11 +105,6 @@
     <title>Redmi K40 Gaming/POCO F3 GT (ares) - 21.12.1</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
     <pubDate>Sun, 05 Dec 2021 04:13:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G (renoir) - 21.12.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Sun, 05 Dec 2021 04:11:24 +0900</pubDate>
   </item>
     </channel>
 </rss>
