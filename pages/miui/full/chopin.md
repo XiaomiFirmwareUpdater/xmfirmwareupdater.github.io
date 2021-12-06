@@ -53,6 +53,7 @@ permalink: /archive/miui/chopin/
                 </thead>
                 <tbody>
                 <tr><td>POCO X3 GT Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RKPMIXM</td><td>11.0</td><td>2.8 GB</td><td>2021-12-06</td><td><a href="/miui/chopin/stable beta/V12.5.7.0.RKPMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.15.0.RKPCNXM</td><td>11.0</td><td>3.5 GB</td><td>2021-12-03</td><td><a href="/miui/chopin/stable beta/V12.5.15.0.RKPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.12.1</td><td>12.0</td><td>4.2 GB</td><td>2021-12-02</td><td><a href="/miui/chopin/weekly/21.12.1/">Download</a></td></tr>
 <tr><td>POCO X3 GT Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKPIDXM</td><td>11.0</td><td>2.8 GB</td><td>2021-11-26</td><td><a href="/miui/chopin/stable beta/V12.5.3.0.RKPIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.11.24</td><td>12.0</td><td>4.1 GB</td><td>2021-11-25</td><td><a href="/miui/chopin/weekly/21.11.24/">Download</a></td></tr>

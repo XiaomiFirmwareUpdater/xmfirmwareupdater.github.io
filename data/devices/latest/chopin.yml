@@ -9,15 +9,15 @@
     android: '11.0'
     miui: V12.5.7.0.RKPMIXM
 - branch: stable
-  date: '2021-11-05'
+  date: '2021-12-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-05.11.2021/fw_chopin_miui_CHOPIN_V12.5.11.0.RKPCNXM_5da11a4952_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPIN_V12.5.11.0.RKPCNXM_5da11a4952_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_V12.5.11.0.RKPCNXM_5da11a4952_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-06.12.2021/fw_chopin_miui_CHOPIN_V12.5.15.0.RKPCNXM_92ae34a882_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPIN_V12.5.15.0.RKPCNXM_92ae34a882_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_V12.5.15.0.RKPCNXM_92ae34a882_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.11.0.RKPCNXM
+    miui: V12.5.15.0.RKPCNXM
 - branch: weekly
   date: '2021-12-04'
   downloads:
