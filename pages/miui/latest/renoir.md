@@ -61,9 +61,8 @@ permalink: /miui/renoir/
 <tr><td>Mi 11 Lite 5G Global</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKIMIXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-02</td><td><a href="/miui/renoir/stable/V12.5.6.0.RKIMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKIJPXM</td><td>11.0</td><td>6.0 GB</td><td>2021-11-02</td><td><a href="/miui/renoir/stable/V12.5.6.0.RKIJPXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKIJPXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-17</td><td><a href="/miui/renoir/stable/V12.5.6.0.RKIJPXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKIRUXM</td><td>11.0</td><td>5.4 GB</td><td>2021-08-30</td><td><a href="/miui/renoir/stable/V12.5.3.0.RKIRUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKIRUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-09-03</td><td><a href="/miui/renoir/stable/V12.5.3.0.RKIRUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RKIRUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-24</td><td><a href="/miui/renoir/stable beta/V12.5.4.0.RKIRUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKIRUXM</td><td>11.0</td><td>5.7 GB</td><td>2021-11-11</td><td><a href="/miui/renoir/stable/V12.5.4.0.RKIRUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKIRUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-24</td><td><a href="/miui/renoir/stable/V12.5.4.0.RKIRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKITWXM</td><td>11.0</td><td>4.8 GB</td><td>2021-11-10</td><td><a href="/miui/renoir/stable/V12.5.4.0.RKITWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKITWXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-25</td><td><a href="/miui/renoir/stable/V12.5.4.0.RKITWXM/">Download</a></td></tr>
 
