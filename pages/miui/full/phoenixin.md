@@ -69,10 +69,10 @@ permalink: /archive/miui/phoenixin/
 <tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QGHINXM</td><td>10.0</td><td>3.3 GB</td><td>2020-10-12</td><td><a href="/miui/phoenixin/stable/V12.0.2.0.QGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V11.0.11.0.QGHINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-09</td><td><a href="/miui/phoenixin/stable/V11.0.11.0.QGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.11.0.QGHINXM</td><td>10.0</td><td>3.2 GB</td><td>2020-07-05</td><td><a href="/miui/phoenixin/stable/V11.0.11.0.QGHINXM/">Download</a></td></tr>
-<tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.QGHINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-05-26</td><td><a href="/miui/phoenixin/stable/V11.0.10.0.QGHINXM/">Download</a></td></tr>
-<tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.10.0.QGHINXM</td><td>10.0</td><td>3.2 GB</td><td>2020-05-22</td><td><a href="/miui/phoenixin/stable/V11.0.10.0.QGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QGHINXM</td><td>10.0</td><td>2.5 GB</td><td>2020-08-07</td><td><a href="/miui/phoenixin/stable/V12.0.1.0.QGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QGHINXM</td><td>10.0</td><td>3.3 GB</td><td>2020-07-26</td><td><a href="/miui/phoenixin/stable/V12.0.1.0.QGHINXM/">Download</a></td></tr>
+<tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.QGHINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-05-26</td><td><a href="/miui/phoenixin/stable/V11.0.10.0.QGHINXM/">Download</a></td></tr>
+<tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.10.0.QGHINXM</td><td>10.0</td><td>3.2 GB</td><td>2020-05-22</td><td><a href="/miui/phoenixin/stable/V11.0.10.0.QGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QGHINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-04-10</td><td><a href="/miui/phoenixin/stable/V11.0.7.0.QGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.QGHINXM</td><td>10.0</td><td>3.2 GB</td><td>2020-04-08</td><td><a href="/miui/phoenixin/stable/V11.0.7.0.QGHINXM/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.QGHINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-03-23</td><td><a href="/miui/phoenixin/stable/V11.0.6.0.QGHINXM/">Download</a></td></tr>
