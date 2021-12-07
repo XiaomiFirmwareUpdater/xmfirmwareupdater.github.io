@@ -1,20 +1,20 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 08 Dec 2021 01:35:15 +0900</pubDate>
+  <pubDate>Wed, 08 Dec 2021 07:32:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Xiaomi 11T (agate) - V12.5.8.0.RKWEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
+    <pubDate>Wed, 08 Dec 2021 07:32:33 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.5.0.RJQCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Wed, 08 Dec 2021 01:35:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T (agate) - V12.5.8.0.RKWEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
-    <pubDate>Wed, 08 Dec 2021 01:32:32 +0900</pubDate>
   </item>
     <item>
     <title>POCO M2 (shiva) - V12.5.3.0.RJRINXM</title>
