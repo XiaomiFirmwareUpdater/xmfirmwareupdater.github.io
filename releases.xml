@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 07 Dec 2021 13:50:48 +0900</pubDate>
+  <pubDate>Tue, 07 Dec 2021 19:41:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 11T (agate) - V12.5.8.0.RKWEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
+    <pubDate>Tue, 07 Dec 2021 19:41:07 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M2 (shiva) - V12.5.3.0.RJRINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
@@ -100,11 +105,6 @@
     <title>Mi 10 Ultra (cas) - 21.12.1</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
     <pubDate>Sun, 05 Dec 2021 04:29:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 5G (cannon) - 21.12.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
-    <pubDate>Sun, 05 Dec 2021 04:26:32 +0900</pubDate>
   </item>
     </channel>
 </rss>
