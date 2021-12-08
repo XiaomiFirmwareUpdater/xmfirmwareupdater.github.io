@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 08 Dec 2021 13:49:14 +0900</pubDate>
+  <pubDate>Wed, 08 Dec 2021 19:35:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 4G (selenes) - V12.5.4.0.RKUCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selenes</link>
+    <pubDate>Wed, 08 Dec 2021 19:35:19 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 Pro (vayu) - V12.5.4.0.RJUEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.12.1</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Sun, 05 Dec 2021 04:41:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.12.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Sun, 05 Dec 2021 04:38:57 +0900</pubDate>
   </item>
     </channel>
 </rss>
