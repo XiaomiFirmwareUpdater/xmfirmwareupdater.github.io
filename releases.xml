@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 10 Dec 2021 02:18:15 +0900</pubDate>
+  <pubDate>Fri, 10 Dec 2021 02:47:44 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Lite 4G (courbet) - V12.5.8.0.RKQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
+    <pubDate>Fri, 10 Dec 2021 02:47:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.5.5.0.RKHMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Fri, 10 Dec 2021 02:44:57 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.5.7.0.RKHEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
@@ -95,16 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.12.1</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Sun, 05 Dec 2021 04:54:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 21.12.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Sun, 05 Dec 2021 04:51:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 21.12.1</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Sun, 05 Dec 2021 04:48:15 +0900</pubDate>
   </item>
     </channel>
 </rss>
