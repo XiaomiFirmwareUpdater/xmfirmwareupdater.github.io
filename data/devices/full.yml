@@ -78,6 +78,26 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RKWMIXM
+- branch: stable
+  date: '2021-12-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-09.12.2021/fw_alioth_miui_ALIOTHEEAGlobal_V12.5.7.0.RKHEUXM_7081594cf0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V12.5.7.0.RKHEUXM_7081594cf0_11.0.zip
+  filename: fw_alioth_miui_ALIOTHEEAGlobal_V12.5.7.0.RKHEUXM_7081594cf0_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKHEUXM
+- branch: stable
+  date: '2021-12-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-09.12.2021/fw_alioth_miui_ALIOTHGlobal_V12.5.5.0.RKHMIXM_ab215d902a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/alioth/fw_alioth_miui_ALIOTHGlobal_V12.5.5.0.RKHMIXM_ab215d902a_11.0.zip
+  filename: fw_alioth_miui_ALIOTHGlobal_V12.5.5.0.RKHMIXM_ab215d902a_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKHMIXM
 - branch: weekly
   date: '2021-12-04'
   downloads:
@@ -12278,6 +12298,16 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QJACNXM
+- branch: stable
+  date: '2021-12-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-09.12.2021/fw_courbet_miui_COURBETGlobal_V12.5.8.0.RKQMIXM_d3268afe4e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.5.8.0.RKQMIXM_d3268afe4e_11.0.zip
+  filename: fw_courbet_miui_COURBETGlobal_V12.5.8.0.RKQMIXM_d3268afe4e_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKQMIXM
 - branch: stable
   date: '2021-10-18'
   downloads:
