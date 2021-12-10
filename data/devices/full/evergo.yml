@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/weekly-10.12.2021/fw_evergo_miui_EVERGO_21.12.8_1508f6bf83_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/evergo/fw_evergo_miui_EVERGO_21.12.8_1508f6bf83_11.0.zip
+  filename: fw_evergo_miui_EVERGO_21.12.8_1508f6bf83_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.8
+- branch: weekly
   date: '2021-12-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/weekly-04.12.2021/fw_evergo_miui_EVERGO_21.12.1_66f70d5d4c_11.0.zip

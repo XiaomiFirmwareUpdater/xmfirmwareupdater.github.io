@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-10.12.2021/fw_cmi_miui_CMI_21.12.8_632caab675_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/cmi/fw_cmi_miui_CMI_21.12.8_632caab675_12.0.zip
+  filename: fw_cmi_miui_CMI_21.12.8_632caab675_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.12.8
+- branch: weekly
   date: '2021-12-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-04.12.2021/fw_cmi_miui_CMI_21.11.30_a2cf8e7cfd_12.0.zip
