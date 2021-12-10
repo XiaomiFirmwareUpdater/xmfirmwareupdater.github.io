@@ -52,7 +52,8 @@ permalink: /archive/miui/tucana/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.12.1</td><td>11.0</td><td>3.1 GB</td><td>2021-12-02</td><td><a href="/miui/tucana/weekly/21.12.1/">Download</a></td></tr>
+                <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.12.8</td><td>11.0</td><td>3.1 GB</td><td>2021-12-09</td><td><a href="/miui/tucana/weekly/21.12.8/">Download</a></td></tr>
+<tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.12.1</td><td>11.0</td><td>3.1 GB</td><td>2021-12-02</td><td><a href="/miui/tucana/weekly/21.12.1/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.11.24</td><td>11.0</td><td>3.1 GB</td><td>2021-11-25</td><td><a href="/miui/tucana/weekly/21.11.24/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RFDMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-11-22</td><td><a href="/miui/tucana/stable/V12.5.5.0.RFDMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RFDMIXM</td><td>11.0</td><td>4.9 GB</td><td>2021-11-10</td><td><a href="/miui/tucana/stable/V12.5.5.0.RFDMIXM/">Download</a></td></tr>
@@ -100,13 +101,13 @@ permalink: /archive/miui/tucana/
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.6.30</td><td>11.0</td><td>3.5 GB</td><td>2021-07-01</td><td><a href="/miui/tucana/weekly/21.6.30/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.6.23</td><td>11.0</td><td>3.5 GB</td><td>2021-06-24</td><td><a href="/miui/tucana/weekly/21.6.23/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.6.16</td><td>11.0</td><td>3.4 GB</td><td>2021-06-17</td><td><a href="/miui/tucana/weekly/21.6.16/">Download</a></td></tr>
-<tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.6.9</td><td>11.0</td><td>3.4 GB</td><td>2021-06-10</td><td><a href="/miui/tucana/weekly/21.6.9/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RFDMIXM</td><td>11.0</td><td>3.0 GB</td><td>2021-07-14</td><td><a href="/miui/tucana/stable/V12.5.3.0.RFDMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RFDMIXM</td><td>11.0</td><td>4.7 GB</td><td>2021-06-29</td><td><a href="/miui/tucana/stable/V12.5.3.0.RFDMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RFDEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-07-01</td><td><a href="/miui/tucana/stable/V12.5.1.0.RFDEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RFDEUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-06-12</td><td><a href="/miui/tucana/stable/V12.5.1.0.RFDEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RFDIDXM</td><td>11.0</td><td>3.0 GB</td><td>2021-06-16</td><td><a href="/miui/tucana/stable/V12.5.1.0.RFDIDXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RFDIDXM</td><td>11.0</td><td>4.7 GB</td><td>2021-06-03</td><td><a href="/miui/tucana/stable/V12.5.1.0.RFDIDXM/">Download</a></td></tr>
+<tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.6.9</td><td>11.0</td><td>3.4 GB</td><td>2021-06-10</td><td><a href="/miui/tucana/weekly/21.6.9/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.6.2</td><td>11.0</td><td>3.4 GB</td><td>2021-06-03</td><td><a href="/miui/tucana/weekly/21.6.2/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.5.27</td><td>11.0</td><td>3.4 GB</td><td>2021-05-27</td><td><a href="/miui/tucana/weekly/21.5.27/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.5.20</td><td>11.0</td><td>3.4 GB</td><td>2021-05-20</td><td><a href="/miui/tucana/weekly/21.5.20/">Download</a></td></tr>

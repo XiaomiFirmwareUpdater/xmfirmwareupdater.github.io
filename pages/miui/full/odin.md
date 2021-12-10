@@ -52,7 +52,8 @@ permalink: /archive/miui/odin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>21.12.1</td><td>12.0</td><td>5.1 GB</td><td>2021-12-02</td><td><a href="/miui/odin/weekly/21.12.1/">Download</a></td></tr>
+                <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>21.12.8</td><td>12.0</td><td>5.1 GB</td><td>2021-12-09</td><td><a href="/miui/odin/weekly/21.12.8/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>21.12.1</td><td>12.0</td><td>5.1 GB</td><td>2021-12-02</td><td><a href="/miui/odin/weekly/21.12.1/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>21.11.25</td><td>12.0</td><td>5.0 GB</td><td>2021-11-25</td><td><a href="/miui/odin/weekly/21.11.25/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>21.11.17</td><td>12.0</td><td>5.0 GB</td><td>2021-11-18</td><td><a href="/miui/odin/weekly/21.11.17/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>21.11.11</td><td>12.0</td><td>5.0 GB</td><td>2021-11-12</td><td><a href="/miui/odin/weekly/21.11.11/">Download</a></td></tr>
