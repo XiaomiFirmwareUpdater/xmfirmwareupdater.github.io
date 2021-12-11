@@ -2699,15 +2699,15 @@
     android: '10.0'
     miui: V12.0.3.0.QCMINXM
 - branch: stable
-  date: '2021-11-20'
+  date: '2021-12-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-20.11.2021/fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
-  filename: fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-11.12.2021/fw_pissarro_miui_PISSARRO_V12.5.12.0.RKTCNXM_db5e05102b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.12.0.RKTCNXM_db5e05102b_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.12.0.RKTCNXM_db5e05102b_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.10.0.RKTCNXM
+    miui: V12.5.12.0.RKTCNXM
 - branch: weekly
   date: '2021-12-10'
   downloads:
