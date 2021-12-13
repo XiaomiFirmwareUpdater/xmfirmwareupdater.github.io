@@ -52,7 +52,8 @@ permalink: /archive/miui/laurus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi CC 9e China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.QFMCNXM</td><td>10.0</td><td>2.9 GB</td><td>2021-11-26</td><td><a href="/miui/laurus/stable beta/V12.5.5.0.QFMCNXM/">Download</a></td></tr>
+                <tr><td>Mi CC 9e China</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.QFMCNXM</td><td>10.0</td><td>2.9 GB</td><td>2021-11-26</td><td><a href="/miui/laurus/stable/V12.5.5.0.QFMCNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9e China</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.QFMCNXM</td><td>10.0</td><td>3.8 GB</td><td>2021-11-22</td><td><a href="/miui/laurus/stable/V12.5.5.0.QFMCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.QFMCNXM</td><td>10.0</td><td>2.7 GB</td><td>2021-09-05</td><td><a href="/miui/laurus/stable/V12.5.2.0.QFMCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.QFMCNXM</td><td>10.0</td><td>3.6 GB</td><td>2021-08-18</td><td><a href="/miui/laurus/stable/V12.5.2.0.QFMCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>21.4.22</td><td>10.0</td><td>2.9 GB</td><td>2021-04-22</td><td><a href="/miui/laurus/weekly/21.4.22/">Download</a></td></tr>
@@ -117,8 +118,6 @@ permalink: /archive/miui/laurus/
 <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>9.12.19</td><td>9.0</td><td>2.1 GB</td><td>2019-12-19</td><td><a href="/miui/laurus/weekly/9.12.19/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>9.12.12</td><td>9.0</td><td>2.1 GB</td><td>2019-12-12</td><td><a href="/miui/laurus/weekly/9.12.12/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>9.12.5</td><td>9.0</td><td>2.1 GB</td><td>2019-12-05</td><td><a href="/miui/laurus/weekly/9.12.5/">Download</a></td></tr>
-<tr><td>Mi CC 9e China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PFMCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-05</td><td><a href="/miui/laurus/stable/V11.0.2.0.PFMCNXM/">Download</a></td></tr>
-<tr><td>Mi CC 9e China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.PFMCNXM</td><td>9.0</td><td>3.0 GB</td><td>2019-10-31</td><td><a href="/miui/laurus/stable/V11.0.2.0.PFMCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>9.10.17</td><td>9.0</td><td>2.1 GB</td><td>2019-10-17</td><td><a href="/miui/laurus/weekly/9.10.17/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Weekly</td><td>Recovery</td><td>9.9.26</td><td>9.0</td><td>2.1 GB</td><td>2019-09-27</td><td><a href="/miui/laurus/weekly/9.9.26/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Recovery</td><td>V10.2.13.0.PFMCNXM</td><td>9.0</td><td>2.0 GB</td><td>2019-09-03</td><td><a href="/miui/laurus/stable/V10.2.13.0.PFMCNXM/">Download</a></td></tr>
@@ -127,6 +126,8 @@ permalink: /archive/miui/laurus/
 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Recovery</td><td>V10.2.11.0.PFMCNXM</td><td>9.0</td><td>2.0 GB</td><td>2019-08-14</td><td><a href="/miui/laurus/stable/V10.2.11.0.PFMCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Recovery</td><td>V10.2.10.0.PFMCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-07-25</td><td><a href="/miui/laurus/stable/V10.2.10.0.PFMCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Fastboot</td><td>V10.2.10.0.PFMCNXM</td><td>9.0</td><td>2.8 GB</td><td>2019-07-23</td><td><a href="/miui/laurus/stable/V10.2.10.0.PFMCNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9e China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PFMCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-11-05</td><td><a href="/miui/laurus/stable/V11.0.2.0.PFMCNXM/">Download</a></td></tr>
+<tr><td>Mi CC 9e China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.PFMCNXM</td><td>9.0</td><td>3.0 GB</td><td>2019-10-31</td><td><a href="/miui/laurus/stable/V11.0.2.0.PFMCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Recovery</td><td>V10.2.8.0.PFMCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-07-09</td><td><a href="/miui/laurus/stable/V10.2.8.0.PFMCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Fastboot</td><td>V10.2.8.0.PFMCNXM</td><td>9.0</td><td>2.8 GB</td><td>2019-07-04</td><td><a href="/miui/laurus/stable/V10.2.8.0.PFMCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9e China</td><td>Stable</td><td>Recovery</td><td>V10.2.7.0.PFMCNXM</td><td>9.0</td><td>2.1 GB</td><td>2019-07-05</td><td><a href="/miui/laurus/stable/V10.2.7.0.PFMCNXM/">Download</a></td></tr>

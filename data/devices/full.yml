@@ -2298,6 +2298,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2021-12-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-13.12.2021/fw_ares_miui_ARESINGlobal_V12.5.7.0.RKJINXM_9e66206b15_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ares/fw_ares_miui_ARESINGlobal_V12.5.7.0.RKJINXM_9e66206b15_11.0.zip
+  filename: fw_ares_miui_ARESINGlobal_V12.5.7.0.RKJINXM_9e66206b15_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKJINXM
 - branch: weekly
   date: '2021-12-10'
   downloads:
@@ -17898,6 +17908,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-12-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-13.12.2021/fw_ginkgo_miui_GINKGOGlobal_V12.5.1.0.RCOMIXM_81b1a8eb10_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOGlobal_V12.5.1.0.RCOMIXM_81b1a8eb10_11.0.zip
+  filename: fw_ginkgo_miui_GINKGOGlobal_V12.5.1.0.RCOMIXM_81b1a8eb10_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RCOMIXM
 - branch: weekly
   date: '2021-11-26'
   downloads:
