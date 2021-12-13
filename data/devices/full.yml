@@ -40959,6 +40959,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2021-12-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-13.12.2021/fw_toco_miui_TOCOEEAGlobal_V12.5.5.0.RFNEUXM_e7150ea534_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.5.5.0.RFNEUXM_e7150ea534_11.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.5.5.0.RFNEUXM_e7150ea534_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RFNEUXM
+- branch: stable
   date: '2021-10-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-19.10.2021/fw_toco_miui_TOCOEEAGlobal_V12.5.4.0.RFNEUXM_bb88dfaf69_11.0.zip
@@ -41208,6 +41218,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: stable
+  date: '2021-12-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-13.12.2021/fw_tucana_miui_TUCANAEEAGlobal_V12.5.5.0.RFDEUXM_867bc939b1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAEEAGlobal_V12.5.5.0.RFDEUXM_867bc939b1_11.0.zip
+  filename: fw_tucana_miui_TUCANAEEAGlobal_V12.5.5.0.RFDEUXM_867bc939b1_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RFDEUXM
 - branch: weekly
   date: '2021-12-10'
   downloads:
@@ -42998,6 +43018,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2021-12-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-13.12.2021/fw_umi_miui_UMIEEAGlobal_V12.5.7.0.RJBEUXM_d13bce9ab5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.5.7.0.RJBEUXM_d13bce9ab5_11.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.5.7.0.RJBEUXM_d13bce9ab5_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RJBEUXM
 - branch: weekly
   date: '2021-12-10'
   downloads:
