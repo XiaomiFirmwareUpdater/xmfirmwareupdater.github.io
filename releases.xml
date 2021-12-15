@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 15 Dec 2021 13:16:02 +0900</pubDate>
+  <pubDate>Wed, 15 Dec 2021 19:42:52 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.8.0.RKAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Wed, 15 Dec 2021 19:42:52 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 8 (olive) - V12.5.4.0.QCNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 21.12.8</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Sat, 11 Dec 2021 03:22:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - 21.12.8</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Sat, 11 Dec 2021 03:20:39 +0900</pubDate>
   </item>
     </channel>
 </rss>

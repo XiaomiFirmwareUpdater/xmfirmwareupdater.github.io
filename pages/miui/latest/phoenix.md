@@ -55,9 +55,8 @@ permalink: /miui/phoenix/
                 <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RGHCNXM</td><td>11.0</td><td>4.4 GB</td><td>2021-10-27</td><td><a href="/miui/phoenix/stable/V12.5.5.0.RGHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RGHCNXM</td><td>11.0</td><td>3.4 GB</td><td>2021-11-08</td><td><a href="/miui/phoenix/stable/V12.5.5.0.RGHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>21.12.1</td><td>11.0</td><td>4.0 GB</td><td>2021-12-02</td><td><a href="/miui/phoenix/weekly/21.12.1/">Download</a></td></tr>
-<tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RGHINXM</td><td>11.0</td><td>3.3 GB</td><td>2021-09-24</td><td><a href="/miui/phoenixin/stable/V12.5.3.0.RGHINXM/">Download</a></td></tr>
-<tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RGHINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-09-29</td><td><a href="/miui/phoenixin/stable/V12.5.3.0.RGHINXM/">Download</a></td></tr>
-<tr><td>POCO X2 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RGHINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-11-30</td><td><a href="/miui/phoenixin/stable beta/V12.5.6.0.RGHINXM/">Download</a></td></tr>
+<tr><td>POCO X2 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RGHINXM</td><td>11.0</td><td>3.4 GB</td><td>2021-11-23</td><td><a href="/miui/phoenixin/stable/V12.5.6.0.RGHINXM/">Download</a></td></tr>
+<tr><td>POCO X2 India</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RGHINXM</td><td>11.0</td><td>2.8 GB</td><td>2021-11-30</td><td><a href="/miui/phoenixin/stable/V12.5.6.0.RGHINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
