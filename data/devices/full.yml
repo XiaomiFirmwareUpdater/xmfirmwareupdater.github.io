@@ -24229,6 +24229,16 @@
     android: '10.0'
     miui: V12.0.1.0.QJQCNXM
 - branch: stable
+  date: '2021-12-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-16.12.2021/fw_lisa_miui_LISA_V12.5.7.0.RKOCNXM_a13973e336_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISA_V12.5.7.0.RKOCNXM_a13973e336_11.0.zip
+  filename: fw_lisa_miui_LISA_V12.5.7.0.RKOCNXM_a13973e336_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKOCNXM
+- branch: stable
   date: '2021-12-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-10.12.2021/fw_lisa_miui_LISA_V12.5.5.0.RKOCNXM_9c4f6c0bcc_11.0.zip
@@ -39599,6 +39609,16 @@
     android: '8.1'
     miui: 8.6.18
 - branch: stable
+  date: '2021-12-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-16.12.2021/fw_star_miui_STAREEAGlobal_V12.5.11.0.RKAEUXM_04e2cbde48_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAREEAGlobal_V12.5.11.0.RKAEUXM_04e2cbde48_11.0.zip
+  filename: fw_star_miui_STAREEAGlobal_V12.5.11.0.RKAEUXM_04e2cbde48_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.11.0.RKAEUXM
+- branch: stable
   date: '2021-12-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-15.12.2021/fw_star_miui_STARGlobal_V12.5.8.0.RKAMIXM_abce2a9ae6_11.0.zip
@@ -45938,6 +45958,26 @@
   versions:
     android: '9.0'
     miui: V10.3.1.0.PFECNXM
+- branch: stable
+  date: '2021-12-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-16.12.2021/fw_venus_miui_VENUSEEAGlobal_V12.5.8.0.RKBEUXM_eee296e562_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSEEAGlobal_V12.5.8.0.RKBEUXM_eee296e562_11.0.zip
+  filename: fw_venus_miui_VENUSEEAGlobal_V12.5.8.0.RKBEUXM_eee296e562_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKBEUXM
+- branch: stable
+  date: '2021-12-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-16.12.2021/fw_venus_miui_VENUSGlobal_V12.5.10.0.RKBMIXM_e56d207841_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSGlobal_V12.5.10.0.RKBMIXM_e56d207841_11.0.zip
+  filename: fw_venus_miui_VENUSGlobal_V12.5.10.0.RKBMIXM_e56d207841_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.10.0.RKBMIXM
 - branch: weekly
   date: '2021-12-10'
   downloads:
