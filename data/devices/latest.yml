@@ -659,15 +659,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2021-10-25'
+  date: '2021-12-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-25.10.2021/fw_cetus_miui_CETUS_V12.5.1.0.RJTCNXM_4f9964d8f8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.5.1.0.RJTCNXM_4f9964d8f8_11.0.zip
-  filename: fw_cetus_miui_CETUS_V12.5.1.0.RJTCNXM_4f9964d8f8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-17.12.2021/fw_cetus_miui_CETUS_V12.5.4.0.RJTCNXM_c09aa6b771_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.5.4.0.RJTCNXM_c09aa6b771_11.0.zip
+  filename: fw_cetus_miui_CETUS_V12.5.4.0.RJTCNXM_c09aa6b771_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RJTCNXM
+    miui: V12.5.4.0.RJTCNXM
 - branch: weekly
   date: '2021-06-24'
   downloads:
@@ -869,15 +869,15 @@
     android: '11.0'
     miui: V12.5.8.0.RKQMIXM
 - branch: stable
-  date: '2021-10-18'
+  date: '2021-12-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-18.10.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
-  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-17.12.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.6.0.RKQEUXM_6539d2a6e9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.6.0.RKQEUXM_6539d2a6e9_11.0.zip
+  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.6.0.RKQEUXM_6539d2a6e9_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKQEUXM
+    miui: V12.5.6.0.RKQEUXM
 - branch: stable
   date: '2021-12-16'
   downloads:
@@ -3049,15 +3049,15 @@
     android: '11.0'
     miui: V12.5.14.0.RKLMIXM
 - branch: stable
-  date: '2021-11-08'
+  date: '2021-12-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-08.11.2021/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.13.0.RKLEUXM_9fb5baa1b2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.13.0.RKLEUXM_9fb5baa1b2_11.0.zip
-  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.13.0.RKLEUXM_9fb5baa1b2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-17.12.2021/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.14.0.RKLEUXM_d2febe30c5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.14.0.RKLEUXM_d2febe30c5_11.0.zip
+  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.14.0.RKLEUXM_d2febe30c5_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.13.0.RKLEUXM
+    miui: V12.5.14.0.RKLEUXM
 - branch: stable
   date: '2021-11-02'
   downloads:
@@ -3789,15 +3789,15 @@
     android: '11.0'
     miui: V12.5.10.0.RKBMIXM
 - branch: stable
-  date: '2021-11-03'
+  date: '2021-12-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-03.11.2021/fw_venus_miui_VENUS_V12.5.15.0.RKBCNXM_a6f612b61b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUS_V12.5.15.0.RKBCNXM_a6f612b61b_11.0.zip
-  filename: fw_venus_miui_VENUS_V12.5.15.0.RKBCNXM_a6f612b61b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-17.12.2021/fw_venus_miui_VENUS_V12.5.16.0.RKBCNXM_d3c9a9470b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUS_V12.5.16.0.RKBCNXM_d3c9a9470b_11.0.zip
+  filename: fw_venus_miui_VENUS_V12.5.16.0.RKBCNXM_d3c9a9470b_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.15.0.RKBCNXM
+    miui: V12.5.16.0.RKBCNXM
 - branch: weekly
   date: '2021-12-10'
   downloads:

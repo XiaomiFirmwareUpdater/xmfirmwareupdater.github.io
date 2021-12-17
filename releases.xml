@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 17 Dec 2021 01:33:12 +0900</pubDate>
+  <pubDate>Fri, 17 Dec 2021 20:38:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10S (rosemary) - V12.5.14.0.RKLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Fri, 17 Dec 2021 20:38:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 4G (courbet) - V12.5.6.0.RKQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
+    <pubDate>Fri, 17 Dec 2021 20:19:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi MIX Fold (cetus) - V12.5.4.0.RJTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cetus</link>
+    <pubDate>Fri, 17 Dec 2021 20:14:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V12.5.16.0.RKPCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Fri, 17 Dec 2021 13:41:27 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V12.5.2.0.RGBINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 8 (ginkgo) - V12.5.1.0.RCOMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
     <pubDate>Mon, 13 Dec 2021 19:41:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Gaming/POCO F3 GT (ares) - V12.5.7.0.RKJINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
-    <pubDate>Mon, 13 Dec 2021 19:37:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V12.5.7.0.RJBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Mon, 13 Dec 2021 13:38:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.5.0.RFDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Mon, 13 Dec 2021 13:33:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 10 Lite (toco) - V12.5.5.0.RFNEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
-    <pubDate>Mon, 13 Dec 2021 13:30:23 +0900</pubDate>
   </item>
     </channel>
 </rss>
