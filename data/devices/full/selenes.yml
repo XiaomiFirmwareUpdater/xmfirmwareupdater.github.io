@@ -8,13 +8,3 @@
   versions:
     android: '11.0'
     miui: V12.5.4.0.RKUCNXM
-- branch: stable
-  date: '2021-12-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selenes/releases/download/stable-05.12.2021/fw_selenes_miui_SELENES_V12.5.2.0.RKUCNXM_ca2f091aa5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selenes/fw_selenes_miui_SELENES_V12.5.2.0.RKUCNXM_ca2f091aa5_11.0.zip
-  filename: fw_selenes_miui_SELENES_V12.5.2.0.RKUCNXM_ca2f091aa5_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RKUCNXM

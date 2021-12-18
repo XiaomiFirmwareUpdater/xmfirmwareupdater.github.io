@@ -558,12 +558,6 @@
   version: 21.12.8
 - android: '11.0'
   codename: atom
-  date: '2021-12-04'
-  download: https://bigota.d.miui.com/21.12.2/miui_ATOM_21.12.2_ebe267b561_11.0.zip
-  name: Redmi 10X 5G
-  version: 21.12.2
-- android: '11.0'
-  codename: atom
   date: '2021-11-26'
   download: https://bigota.d.miui.com/21.11.24/miui_ATOM_21.11.24_3189de73bc_11.0.zip
   name: Redmi 10X 5G
@@ -1168,12 +1162,6 @@
   download: https://bigota.d.miui.com/21.12.8/miui_BOMB_21.12.8_4511841bdd_11.0.zip
   name: Redmi 10X Pro
   version: 21.12.8
-- android: '11.0'
-  codename: bomb
-  date: '2021-12-04'
-  download: https://bigota.d.miui.com/21.12.2/miui_BOMB_21.12.2_348c13f831_11.0.zip
-  name: Redmi 10X Pro
-  version: 21.12.2
 - android: '11.0'
   codename: bomb
   date: '2021-11-19'
@@ -2334,12 +2322,6 @@
   version: 21.12.8
 - android: '11.0'
   codename: cezanne
-  date: '2021-12-04'
-  download: https://bigota.d.miui.com/21.12.1/miui_CEZANNE_21.12.1_153c564842_11.0.zip
-  name: Redmi K30 Ultra
-  version: 21.12.1
-- android: '11.0'
-  codename: cezanne
   date: '2021-11-19'
   download: https://bigota.d.miui.com/21.11.17/miui_CEZANNE_21.11.17_2d2d409df8_11.0.zip
   name: Redmi K30 Ultra
@@ -3444,12 +3426,6 @@
   version: 21.12.8
 - android: '11.0'
   codename: elish
-  date: '2021-11-19'
-  download: https://bigota.d.miui.com/21.11.17/miui_ELISH_21.11.17_c68917420e_11.0.zip
-  name: Xiaomi Pad 5 Pro Wi-Fi
-  version: 21.11.17
-- android: '11.0'
-  codename: elish
   date: '2021-10-16'
   download: https://bigota.d.miui.com/21.10.13/miui_ELISH_21.10.13_01d26b57a3_11.0.zip
   name: Xiaomi Pad 5 Pro Wi-Fi
@@ -3514,12 +3490,6 @@
   download: https://bigota.d.miui.com/21.12.8/miui_GAUGUIN_21.12.8_780f821dad_11.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: 21.12.8
-- android: '11.0'
-  codename: gauguin
-  date: '2021-12-04'
-  download: https://bigota.d.miui.com/21.12.1/miui_GAUGUIN_21.12.1_dcfa82aa0a_11.0.zip
-  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
-  version: 21.12.1
 - android: '11.0'
   codename: gauguin
   date: '2021-11-12'
@@ -6268,12 +6238,6 @@
   download: https://bigota.d.miui.com/21.12.8/miui_TUCANA_21.12.8_62472aaaec_11.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 21.12.8
-- android: '11.0'
-  codename: tucana
-  date: '2021-12-04'
-  download: https://bigota.d.miui.com/21.12.1/miui_TUCANA_21.12.1_58e094e8f7_11.0.zip
-  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
-  version: 21.12.1
 - android: '11.0'
   codename: tucana
   date: '2021-11-12'
