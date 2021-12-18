@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 17 Dec 2021 21:08:34 +0900</pubDate>
+  <pubDate>Sat, 18 Dec 2021 19:27:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro (joyeuse) - V12.5.6.0.RJZEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
+    <pubDate>Sat, 18 Dec 2021 19:27:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.8.0.RJDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Sat, 18 Dec 2021 19:23:37 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 (venus) - V12.5.16.0.RKBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
@@ -95,16 +105,6 @@
     <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.10.0.RJDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
     <pubDate>Tue, 14 Dec 2021 19:17:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro (sweet) - V12.5.9.0.RKFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Tue, 14 Dec 2021 13:21:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite (monet) - V12.5.5.0.RJIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
-    <pubDate>Tue, 14 Dec 2021 13:17:45 +0900</pubDate>
   </item>
     </channel>
 </rss>
