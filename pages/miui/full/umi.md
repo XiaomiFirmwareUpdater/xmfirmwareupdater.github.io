@@ -89,11 +89,11 @@ permalink: /archive/miui/umi/
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJBRUXM</td><td>11.0</td><td>4.9 GB</td><td>2021-08-11</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBRUXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>21.8.11</td><td>11.0</td><td>4.1 GB</td><td>2021-08-12</td><td><a href="/miui/umi/weekly/21.8.11/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RJBCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-08-10</td><td><a href="/miui/umi/stable beta/V12.5.6.0.RJBCNXM/">Download</a></td></tr>
-<tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>21.8.4</td><td>11.0</td><td>4.1 GB</td><td>2021-08-05</td><td><a href="/miui/umi/weekly/21.8.4/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RJBEUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-09-28</td><td><a href="/miui/umi/stable/V12.5.5.0.RJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RJBEUXM</td><td>11.0</td><td>5.3 GB</td><td>2021-09-24</td><td><a href="/miui/umi/stable/V12.5.5.0.RJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJBTRXM</td><td>11.0</td><td>3.3 GB</td><td>2021-08-18</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBTRXM/">Download</a></td></tr>
 <tr><td>Mi 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJBTRXM</td><td>11.0</td><td>4.6 GB</td><td>2021-08-11</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBTRXM/">Download</a></td></tr>
+<tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>21.8.4</td><td>11.0</td><td>4.1 GB</td><td>2021-08-05</td><td><a href="/miui/umi/weekly/21.8.4/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>21.7.28</td><td>11.0</td><td>4.1 GB</td><td>2021-07-29</td><td><a href="/miui/umi/weekly/21.7.28/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJBEUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-23</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJBEUXM</td><td>11.0</td><td>5.2 GB</td><td>2021-07-07</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBEUXM/">Download</a></td></tr>

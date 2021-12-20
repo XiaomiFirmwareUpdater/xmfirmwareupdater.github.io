@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 20 Dec 2021 14:19:40 +0900</pubDate>
+  <pubDate>Tue, 21 Dec 2021 01:58:50 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Civi (mona) - V12.5.9.0.RKVCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
+    <pubDate>Tue, 21 Dec 2021 01:58:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi A3 (laurel) - V12.0.15.0.RFQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
+    <pubDate>Tue, 21 Dec 2021 01:34:22 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10S (rosemary) - V12.5.11.0.RKLINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
@@ -95,16 +105,6 @@
     <title>Xiaomi 11 Lite 5G NE (lisa) - V12.5.7.0.RKOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
     <pubDate>Thu, 16 Dec 2021 13:47:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 7/7S (lavender) - V12.5.3.0.QFGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lavender</link>
-    <pubDate>Thu, 16 Dec 2021 01:16:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.8.0.RKAMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Wed, 15 Dec 2021 19:42:52 +0900</pubDate>
   </item>
     </channel>
 </rss>
