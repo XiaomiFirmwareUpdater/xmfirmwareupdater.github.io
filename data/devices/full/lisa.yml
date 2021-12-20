@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-12-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-20.12.2021/fw_lisa_miui_LISAEEAGlobal_V12.5.8.0.RKOEUXM_700eb7116a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAEEAGlobal_V12.5.8.0.RKOEUXM_700eb7116a_11.0.zip
+  filename: fw_lisa_miui_LISAEEAGlobal_V12.5.8.0.RKOEUXM_700eb7116a_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKOEUXM
+- branch: stable
   date: '2021-12-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-16.12.2021/fw_lisa_miui_LISA_V12.5.7.0.RKOCNXM_a13973e336_11.0.zip

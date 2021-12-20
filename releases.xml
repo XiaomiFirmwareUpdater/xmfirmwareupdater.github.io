@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 19 Dec 2021 19:38:19 +0900</pubDate>
+  <pubDate>Mon, 20 Dec 2021 14:19:40 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10S (rosemary) - V12.5.11.0.RKLINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Mon, 20 Dec 2021 14:19:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 11 Lite 5G NE (lisa) - V12.5.8.0.RKOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Mon, 20 Dec 2021 13:58:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (2021) (biloba) - V12.5.7.0.RCUEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/biloba</link>
+    <pubDate>Mon, 20 Dec 2021 13:30:37 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.5.7.0.RKHINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
@@ -90,21 +105,6 @@
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.8.0.RKAMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/star</link>
     <pubDate>Wed, 15 Dec 2021 19:42:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 8 (olive) - V12.5.4.0.QCNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Wed, 15 Dec 2021 13:16:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 10 Lite (toco) - V12.5.4.0.RFNMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
-    <pubDate>Wed, 15 Dec 2021 01:37:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.4.0.RJQINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Wed, 15 Dec 2021 01:34:41 +0900</pubDate>
   </item>
     </channel>
 </rss>

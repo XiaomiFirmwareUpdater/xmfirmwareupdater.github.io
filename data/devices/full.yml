@@ -5029,6 +5029,16 @@
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
 - branch: stable
+  date: '2021-12-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-20.12.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.7.0.RCUEUXM_ee2aae60a1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAEEAGlobal_V12.5.7.0.RCUEUXM_ee2aae60a1_11.0.zip
+  filename: fw_biloba_miui_BILOBAEEAGlobal_V12.5.7.0.RCUEUXM_ee2aae60a1_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RCUEUXM
+- branch: stable
   date: '2021-11-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-18.11.2021/fw_biloba_miui_BILOBAGlobal_V12.5.8.0.RCUMIXM_046ea65d00_11.0.zip
@@ -24199,6 +24209,16 @@
     android: '10.0'
     miui: V12.0.1.0.QJQCNXM
 - branch: stable
+  date: '2021-12-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-20.12.2021/fw_lisa_miui_LISAEEAGlobal_V12.5.8.0.RKOEUXM_700eb7116a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAEEAGlobal_V12.5.8.0.RKOEUXM_700eb7116a_11.0.zip
+  filename: fw_lisa_miui_LISAEEAGlobal_V12.5.8.0.RKOEUXM_700eb7116a_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKOEUXM
+- branch: stable
   date: '2021-12-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-16.12.2021/fw_lisa_miui_LISA_V12.5.7.0.RKOCNXM_a13973e336_11.0.zip
@@ -36788,6 +36808,16 @@
   versions:
     android: '6.0'
     miui: 8.3.15
+- branch: stable
+  date: '2021-12-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-20.12.2021/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.11.0.RKLINXM_4f8b06b654_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.11.0.RKLINXM_4f8b06b654_11.0.zip
+  filename: fw_rosemary_miui_ROSEMARYINGlobal_V12.5.11.0.RKLINXM_4f8b06b654_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.11.0.RKLINXM
 - branch: stable
   date: '2021-12-17'
   downloads:
