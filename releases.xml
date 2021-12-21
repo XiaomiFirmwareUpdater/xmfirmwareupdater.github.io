@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 21 Dec 2021 01:58:50 +0900</pubDate>
+  <pubDate>Wed, 22 Dec 2021 02:13:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 (venus) - V12.5.8.0.SKBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Wed, 22 Dec 2021 02:13:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.5.19.0.RKHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Wed, 22 Dec 2021 01:53:30 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Civi (mona) - V12.5.9.0.RKVCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
@@ -95,16 +105,6 @@
     <title>Mi 11 (venus) - V12.5.8.0.RKBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
     <pubDate>Thu, 16 Dec 2021 14:46:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V12.5.11.0.RKAEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Thu, 16 Dec 2021 14:16:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11 Lite 5G NE (lisa) - V12.5.7.0.RKOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
-    <pubDate>Thu, 16 Dec 2021 13:47:04 +0900</pubDate>
   </item>
     </channel>
 </rss>
