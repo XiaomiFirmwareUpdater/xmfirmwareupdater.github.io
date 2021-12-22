@@ -9,12 +9,12 @@
     android: '11.0'
     miui: V12.5.8.0.RKDMIXM
 - branch: stable
-  date: '2021-12-01'
+  date: '2021-12-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-01.12.2021/fw_vili_miui_VILIEEAGlobal_V12.5.16.0.RKDEUXM_b7ea544d62_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vili/fw_vili_miui_VILIEEAGlobal_V12.5.16.0.RKDEUXM_b7ea544d62_11.0.zip
-  filename: fw_vili_miui_VILIEEAGlobal_V12.5.16.0.RKDEUXM_b7ea544d62_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-22.12.2021/fw_vili_miui_VILIEEAGlobal_V12.5.20.0.RKDEUXM_d80f01c242_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vili/fw_vili_miui_VILIEEAGlobal_V12.5.20.0.RKDEUXM_d80f01c242_11.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_V12.5.20.0.RKDEUXM_d80f01c242_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.16.0.RKDEUXM
+    miui: V12.5.20.0.RKDEUXM

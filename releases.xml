@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 22 Dec 2021 02:13:23 +0900</pubDate>
+  <pubDate>Wed, 22 Dec 2021 20:03:39 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 11T Pro (vili) - V12.5.20.0.RKDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
+    <pubDate>Wed, 22 Dec 2021 20:03:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - V12.5.11.0.RJBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Wed, 22 Dec 2021 19:33:55 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 (venus) - V12.5.8.0.SKBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
@@ -95,16 +105,6 @@
     <title>Mi A3 (laurel) - V12.0.17.0.RFQMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
     <pubDate>Thu, 16 Dec 2021 19:35:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V12.5.10.0.RKBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Thu, 16 Dec 2021 15:17:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V12.5.8.0.RKBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Thu, 16 Dec 2021 14:46:25 +0900</pubDate>
   </item>
     </channel>
 </rss>

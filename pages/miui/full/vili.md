@@ -52,7 +52,8 @@ permalink: /archive/miui/vili/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.20.0.RKDEUXM</td><td>11.0</td><td>6.3 GB</td><td>2021-12-12</td><td><a href="/miui/vili/stable/V12.5.20.0.RKDEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 11T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.20.0.RKDEUXM</td><td>11.0</td><td>3.4 GB</td><td>2021-12-22</td><td><a href="/miui/vili/stable/V12.5.20.0.RKDEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.20.0.RKDEUXM</td><td>11.0</td><td>6.3 GB</td><td>2021-12-12</td><td><a href="/miui/vili/stable/V12.5.20.0.RKDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.16.0.RKDEUXM</td><td>11.0</td><td>3.4 GB</td><td>2021-11-29</td><td><a href="/miui/vili/stable/V12.5.16.0.RKDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.16.0.RKDEUXM</td><td>11.0</td><td>6.2 GB</td><td>2021-11-23</td><td><a href="/miui/vili/stable/V12.5.16.0.RKDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKDMIXM</td><td>11.0</td><td>3.4 GB</td><td>2021-11-26</td><td><a href="/miui/vili/stable/V12.5.8.0.RKDMIXM/">Download</a></td></tr>
