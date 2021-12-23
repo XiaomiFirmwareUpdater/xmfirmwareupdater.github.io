@@ -1,15 +1,25 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 23 Dec 2021 13:30:02 +0900</pubDate>
+  <pubDate>Thu, 23 Dec 2021 19:52:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Xiaomi 11T Pro (vili) - V12.5.10.0.RKDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
+    <pubDate>Thu, 23 Dec 2021 19:52:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.2.0.RJQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Thu, 23 Dec 2021 19:25:52 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi 10/Redmi 10 Prime (selene) - V12.5.5.0.RKUINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Thu, 23 Dec 2021 13:30:02 +0900</pubDate>
+    <pubDate>Thu, 23 Dec 2021 13:30:14 +0900</pubDate>
   </item>
     <item>
     <title>Xiaomi 11T Pro (vili) - V12.5.20.0.RKDEUXM</title>
@@ -95,16 +105,6 @@
     <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V12.5.16.0.RKPCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
     <pubDate>Fri, 17 Dec 2021 13:41:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V12.5.2.0.RGBINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
-    <pubDate>Fri, 17 Dec 2021 01:33:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 4G (courbet) - V12.5.3.0.RKQINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
-    <pubDate>Fri, 17 Dec 2021 01:14:56 +0900</pubDate>
   </item>
     </channel>
 </rss>
