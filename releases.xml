@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 23 Dec 2021 19:52:03 +0900</pubDate>
+  <pubDate>Fri, 24 Dec 2021 19:15:26 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.5.2.0.RJWMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Fri, 24 Dec 2021 19:15:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M3 (citrus) - V12.5.5.0.RJFMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Fri, 24 Dec 2021 19:13:28 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 11T Pro (vili) - V12.5.10.0.RKDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
@@ -95,16 +105,6 @@
     <title>Mi 11 Lite 4G (courbet) - V12.5.6.0.RKQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
     <pubDate>Fri, 17 Dec 2021 20:19:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi MIX Fold (cetus) - V12.5.4.0.RJTCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cetus</link>
-    <pubDate>Fri, 17 Dec 2021 20:14:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V12.5.16.0.RKPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
-    <pubDate>Fri, 17 Dec 2021 13:41:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
