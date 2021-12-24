@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2021-12-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-24.12.2021/fw_gauguin_miui_GAUGUINGlobal_V12.5.5.0.RJSMIXM_64265ae345_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.5.5.0.RJSMIXM_64265ae345_11.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V12.5.5.0.RJSMIXM_64265ae345_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJSMIXM
 - branch: weekly
   date: '2021-12-10'
   downloads:
