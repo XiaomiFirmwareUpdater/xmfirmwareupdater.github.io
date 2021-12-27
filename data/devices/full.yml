@@ -15159,6 +15159,16 @@
     android: '9.0'
     miui: V10.3.3.0.PFJINXM
 - branch: stable
+  date: '2021-12-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/stable-27.12.2021/fw_dipper_miui_MI8Global_V12.0.3.0.QEAMIXM_7619340f8c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dipper/fw_dipper_miui_MI8Global_V12.0.3.0.QEAMIXM_7619340f8c_10.0.zip
+  filename: fw_dipper_miui_MI8Global_V12.0.3.0.QEAMIXM_7619340f8c_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QEAMIXM
+- branch: stable
   date: '2021-11-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/stable-05.11.2021/fw_dipper_miui_MI8_V12.5.2.0.QEACNXM_f5ec813d1c_10.0.zip
@@ -32369,6 +32379,16 @@
     android: '10.0'
     miui: V11.0.3.0.QGICNXM
 - branch: stable
+  date: '2021-12-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pine/releases/download/stable-27.12.2021/fw_pine_miui_PINEGlobal_V12.5.2.0.QCMMIXM_6f51f312f8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pine/fw_pine_miui_PINEGlobal_V12.5.2.0.QCMMIXM_6f51f312f8_10.0.zip
+  filename: fw_pine_miui_PINEGlobal_V12.5.2.0.QCMMIXM_6f51f312f8_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.5.2.0.QCMMIXM
+- branch: stable
   date: '2021-10-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pine/releases/download/stable-12.10.2021/fw_pine_miui_PINEEEAGlobal_V12.5.3.0.QCMEUXM_6c817fe9c8_10.0.zip
@@ -38838,6 +38858,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2021-12-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-27.12.2021/fw_selene_miui_SELENEEEAGlobal_V12.5.11.0.RKUEUXM_3c286d88cf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEEEAGlobal_V12.5.11.0.RKUEUXM_3c286d88cf_11.0.zip
+  filename: fw_selene_miui_SELENEEEAGlobal_V12.5.11.0.RKUEUXM_3c286d88cf_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.11.0.RKUEUXM
 - branch: stable
   date: '2021-12-23'
   downloads:
