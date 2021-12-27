@@ -52,7 +52,8 @@ permalink: /archive/miui/selene/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10 Prime India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKUINXM</td><td>11.0</td><td>2.5 GB</td><td>2021-12-23</td><td><a href="/miui/selene/stable beta/V12.5.5.0.RKUINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKUCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-12-27</td><td><a href="/miui/selenes/stable beta/V12.5.5.0.RKUCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10 Prime India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKUINXM</td><td>11.0</td><td>2.5 GB</td><td>2021-12-23</td><td><a href="/miui/selene/stable beta/V12.5.5.0.RKUINXM/">Download</a></td></tr>
 <tr><td>Redmi 10 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKUIDXM</td><td>11.0</td><td>2.5 GB</td><td>2021-12-17</td><td><a href="/miui/selene/stable/V12.5.4.0.RKUIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKUIDXM</td><td>11.0</td><td>4.7 GB</td><td>2021-12-10</td><td><a href="/miui/selene/stable/V12.5.4.0.RKUIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKURUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-12-17</td><td><a href="/miui/selene/stable/V12.5.5.0.RKURUXM/">Download</a></td></tr>
