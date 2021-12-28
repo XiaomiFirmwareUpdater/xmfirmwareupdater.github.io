@@ -52,7 +52,8 @@ permalink: /archive/miui/chopin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X3 GT Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RKPTRXM</td><td>11.0</td><td>2.8 GB</td><td>2021-12-24</td><td><a href="/miui/chopin/stable beta/V12.5.4.0.RKPTRXM/">Download</a></td></tr>
+                <tr><td>POCO X3 GT Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKPTRXM</td><td>11.0</td><td>2.8 GB</td><td>2021-12-24</td><td><a href="/miui/chopin/stable/V12.5.4.0.RKPTRXM/">Download</a></td></tr>
+<tr><td>POCO X3 GT Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKPTRXM</td><td>11.0</td><td>4.8 GB</td><td>2021-12-18</td><td><a href="/miui/chopin/stable/V12.5.4.0.RKPTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.16.0.RKPCNXM</td><td>11.0</td><td>3.5 GB</td><td>2021-12-14</td><td><a href="/miui/chopin/stable/V12.5.16.0.RKPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.16.0.RKPCNXM</td><td>11.0</td><td>4.9 GB</td><td>2021-12-09</td><td><a href="/miui/chopin/stable/V12.5.16.0.RKPCNXM/">Download</a></td></tr>
 <tr><td>POCO X3 GT Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKPIDXM</td><td>11.0</td><td>2.8 GB</td><td>2021-12-10</td><td><a href="/miui/chopin/stable/V12.5.4.0.RKPIDXM/">Download</a></td></tr>
