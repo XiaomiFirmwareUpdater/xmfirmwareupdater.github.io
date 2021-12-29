@@ -1,7 +1,7 @@
 ---
-title: Xiaomi 11 Lite 5G NE (lisa) Firmware Downloads
+title: Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) Firmware Downloads
 layout: download
-name: Xiaomi 11 Lite 5G NE
+name: Mi 11 LE/Xiaomi 11 Lite 5G NE
 codename: lisa
 permalink: /archive/firmware/lisa/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/lisa/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/lisa/">Xiaomi 11 Lite 5G NE</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/lisa/">Mi 11 LE/Xiaomi 11 Lite 5G NE</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
