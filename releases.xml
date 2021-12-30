@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 30 Dec 2021 20:04:23 +0900</pubDate>
+  <pubDate>Fri, 31 Dec 2021 01:19:28 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 Lite Zoom (vangogh) - V12.5.9.0.RJVCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
+    <pubDate>Fri, 31 Dec 2021 01:19:28 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12X (psyche) - V13.0.10.0.RLDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
@@ -100,11 +105,6 @@
     <title>Mi 10 (umi) - V12.5.11.0.RJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
     <pubDate>Wed, 22 Dec 2021 19:33:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V12.5.8.0.SKBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Wed, 22 Dec 2021 02:13:23 +0900</pubDate>
   </item>
     </channel>
 </rss>
