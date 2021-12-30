@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 30 Dec 2021 01:31:06 +0900</pubDate>
+  <pubDate>Thu, 30 Dec 2021 20:04:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12X (psyche) - V13.0.10.0.RLDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
+    <pubDate>Thu, 30 Dec 2021 20:04:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.5.9.0.RGICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Thu, 30 Dec 2021 19:31:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.7.0.RJDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Thu, 30 Dec 2021 19:26:38 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.5.4.0.RCDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -90,21 +105,6 @@
     <title>Mi 11 (venus) - V12.5.8.0.SKBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
     <pubDate>Wed, 22 Dec 2021 02:13:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V12.5.19.0.RKHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Wed, 22 Dec 2021 01:53:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi (mona) - V12.5.9.0.RKVCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
-    <pubDate>Tue, 21 Dec 2021 01:58:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi A3 (laurel) - V12.0.15.0.RFQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
-    <pubDate>Tue, 21 Dec 2021 01:34:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
