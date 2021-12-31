@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 31 Dec 2021 19:23:26 +0900</pubDate>
+  <pubDate>Sat, 01 Jan 2022 01:51:22 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.5.7.0.RGICMXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Sat, 01 Jan 2022 01:51:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.10.0.SLCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Sat, 01 Jan 2022 01:49:54 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.5.3.0.RJWEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.2.0.RJQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Thu, 23 Dec 2021 19:25:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 Prime (selene) - V12.5.5.0.RKUINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Thu, 23 Dec 2021 13:30:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V12.5.20.0.RKDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Wed, 22 Dec 2021 20:03:39 +0900</pubDate>
   </item>
     </channel>
 </rss>

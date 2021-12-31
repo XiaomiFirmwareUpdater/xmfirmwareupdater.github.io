@@ -1,15 +1,15 @@
 ---
-title: Redmi K30 5G/Redmi K30i 5G (picasso) MIUI Downloads
+title: Xiaomi 12 (cupid) MIUI Downloads
 layout: download
-name: Redmi K30 5G/Redmi K30i 5G
-codename: picasso
-permalink: /miui/picasso/
+name: Xiaomi 12
+codename: cupid
+permalink: /miui/cupid/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/picasso/">Redmi K30 5G/Redmi K30i 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cupid/">Xiaomi 12</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/picasso/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/picasso/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/picasso/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/picasso/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/cupid/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/cupid/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/cupid/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,14 +52,7 @@ permalink: /miui/picasso/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RGICNXM</td><td>11.0</td><td>4.9 GB</td><td>2021-10-25</td><td><a href="/miui/picasso/stable/V12.5.7.0.RGICNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RGICNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-11-05</td><td><a href="/miui/picasso/stable/V12.5.7.0.RGICNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.9.0.RGICNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-12-30</td><td><a href="/miui/picasso/stable beta/V12.5.9.0.RGICNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>21.12.8</td><td>11.0</td><td>4.3 GB</td><td>2021-12-09</td><td><a href="/miui/picasso/weekly/21.12.8/">Download</a></td></tr>
-<tr><td>Redmi K30i 5G China</td><td>Weekly</td><td>Recovery</td><td>21.12.8</td><td>11.0</td><td>4.3 GB</td><td>2021-12-09</td><td><a href="/miui/picasso/weekly/21.12.8/">Download</a></td></tr>
-<tr><td>Redmi K30i 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RGICMXM</td><td>11.0</td><td>4.9 GB</td><td>2021-10-25</td><td><a href="/miui/picasso/stable/V12.5.6.0.RGICMXM/">Download</a></td></tr>
-<tr><td>Redmi K30i 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RGICMXM</td><td>11.0</td><td>3.9 GB</td><td>2021-11-05</td><td><a href="/miui/picasso/stable/V12.5.6.0.RGICMXM/">Download</a></td></tr>
-<tr><td>Redmi K30i 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RGICMXM</td><td>11.0</td><td>3.9 GB</td><td>2021-12-31</td><td><a href="/miui/picasso/stable beta/V12.5.7.0.RGICMXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.10.0.SLCCNXM</td><td>12.0</td><td>4.9 GB</td><td>2021-12-31</td><td><a href="/miui/cupid/stable beta/V13.0.10.0.SLCCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
