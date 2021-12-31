@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2021-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_elish/releases/download/weekly-31.12.2021/fw_elish_miui_ELISH_21.12.28_e43a77a351_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.28/elish/fw_elish_miui_ELISH_21.12.28_e43a77a351_11.0.zip
+  filename: fw_elish_miui_ELISH_21.12.28_e43a77a351_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.28
+- branch: weekly
   date: '2021-12-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_elish/releases/download/weekly-10.12.2021/fw_elish_miui_ELISH_21.12.8_ed774525be_11.0.zip

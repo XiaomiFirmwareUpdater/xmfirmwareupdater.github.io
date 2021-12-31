@@ -9,12 +9,12 @@
     android: '11.0'
     miui: V12.5.8.0.RKZCNXM
 - branch: weekly
-  date: '2021-11-19'
+  date: '2021-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_enuma/releases/download/weekly-19.11.2021/fw_enuma_miui_ENUMA_21.11.17_01daaf8bae_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/enuma/fw_enuma_miui_ENUMA_21.11.17_01daaf8bae_11.0.zip
-  filename: fw_enuma_miui_ENUMA_21.11.17_01daaf8bae_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_enuma/releases/download/weekly-31.12.2021/fw_enuma_miui_ENUMA_21.12.28_bf9ca8da17_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.28/enuma/fw_enuma_miui_ENUMA_21.12.28_bf9ca8da17_11.0.zip
+  filename: fw_enuma_miui_ENUMA_21.12.28_bf9ca8da17_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.11.17
+    miui: 21.12.28
