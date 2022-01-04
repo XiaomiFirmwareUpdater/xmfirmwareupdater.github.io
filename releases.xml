@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 04 Jan 2022 13:41:54 +0900</pubDate>
+  <pubDate>Wed, 05 Jan 2022 01:20:18 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8T (willow) - V12.5.2.0.RCXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
+    <pubDate>Wed, 05 Jan 2022 01:20:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V12.5.2.0.RCOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Wed, 05 Jan 2022 01:17:56 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.5.1.0.RCDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Wed, 05 Jan 2022 01:15:32 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.6.0.RJSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
@@ -90,21 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.5.7.0.RGICMXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Sat, 01 Jan 2022 01:51:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V13.0.10.0.SLCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Sat, 01 Jan 2022 01:49:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9S/Redmi Note 9 Pro (curtana) - V12.5.3.0.RJWEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
-    <pubDate>Fri, 31 Dec 2021 19:23:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - V12.5.9.0.RJVCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Fri, 31 Dec 2021 01:19:28 +0900</pubDate>
   </item>
     </channel>
 </rss>
