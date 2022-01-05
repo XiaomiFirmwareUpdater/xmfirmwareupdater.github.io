@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 05 Jan 2022 01:20:18 +0900</pubDate>
+  <pubDate>Wed, 05 Jan 2022 20:01:18 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.2.0.SKHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Wed, 05 Jan 2022 20:01:18 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8T (willow) - V12.5.2.0.RCXEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 Pro (zeus) - V13.0.10.0.SLBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
     <pubDate>Sat, 01 Jan 2022 02:19:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V12.5.7.0.RGICMXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Sat, 01 Jan 2022 01:51:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
