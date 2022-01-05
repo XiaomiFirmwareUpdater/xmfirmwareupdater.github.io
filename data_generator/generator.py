@@ -206,7 +206,7 @@ def load_releases():
                 version = update["versions"]["miui"]
                 version_array = version.split('.')
                 # MIUI 13 Beta starts from 21.12.27
-                if (version_array[0] == "21" and version_array[1] == "12" and version_array[2] == "27") or \
+                if (version_array[1] == "12" and version_array[2] >= "27") or \
                         version_array[0] == "22":
                     codename = update["filename"].split('_')[1]
                     miui13.append(
