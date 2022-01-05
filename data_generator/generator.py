@@ -182,7 +182,9 @@ def load_releases():
         yaml.dump(archive, out, Dumper=yaml.CDumper)
 
     # MIUI 12 China Beta
+    # MIUI 13 China
     miui12 = []
+    miui13 = []
     with open("../data/devices/full.yml", "r") as o:
         archive = yaml.load(o, Loader=yaml.CLoader)
     for update in archive:
@@ -197,11 +199,36 @@ def load_releases():
                 version = update["versions"]["miui"]
                 if version in ['20.3.28', '20.4.1']:
                     continue
-                download = "https://bigota.d.miui.com/" + version + "/" + filename
+                download = f"https://bigota.d.miui.com/{version}/{filename}"
                 miui12.append({'name': name, 'codename': codename, 'date': date,
                                'version': version, 'android': update['versions']['android'], 'download': download})
+            elif int(date_array[0]) in (2021, 2022):
+                version = update["versions"]["miui"]
+                version_array = version.split('.')
+                # MIUI 13 Beta starts from 21.12.27
+                if (version_array[0] == "21" and version_array[1] == "12" and version_array[2] == "27") or \
+                        version_array[0] == "22":
+                    codename = update["filename"].split('_')[1]
+                    miui13.append(
+                        {'name': FW_DEVICES[codename], 'codename': codename, 'date': update["date"],
+                         'version': version, 'android': update['versions']['android'],
+                         'download': f'https://bigota.d.miui.com/{version}/{update["filename"]}'})
+        else:
+            # MIUI 13 Stable
+            if update["versions"]["miui"].startswith("V13."):
+                codename = update["filename"].split('_')[1]
+                miui13.append(
+                    {'name': FW_DEVICES[codename], 'codename': codename, 'date': update["date"],
+                     'version': update["versions"]["miui"],
+                     'android': update['versions']['android'],
+                     'download': f'https://bigota.d.miui.com/{update["versions"]["miui"]}/{update["filename"]}'}
+                )
+
     with open('../data/devices/miui12.yml', 'w', encoding='utf-8') as out:
         yaml.dump(miui12, out, Dumper=yaml.CDumper)
+
+    with open('../data/devices/miui13.yml', 'w', encoding='utf-8') as out:
+        yaml.dump(miui13, out, Dumper=yaml.CDumper)
 
 
 def generate_fw_md():
