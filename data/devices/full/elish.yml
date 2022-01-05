@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2022-01-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_elish/releases/download/stable-05.01.2022/fw_elish_miui_ELISH_V13.0.4.0.RKYCNXM_115ff1cd79_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/elish/fw_elish_miui_ELISH_V13.0.4.0.RKYCNXM_115ff1cd79_11.0.zip
+  filename: fw_elish_miui_ELISH_V13.0.4.0.RKYCNXM_115ff1cd79_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V13.0.4.0.RKYCNXM
 - branch: weekly
   date: '2021-12-31'
   downloads:

@@ -11,11 +11,41 @@
   name: Xiaomi 12
   version: V13.0.10.0.SLCCNXM
 - android: '11.0'
+  codename: elish
+  date: '2022-01-05'
+  download: https://bigota.d.miui.com/V13.0.4.0.RKYCNXM/fw_elish_miui_ELISH_V13.0.4.0.RKYCNXM_115ff1cd79_11.0.zip
+  name: Xiaomi Pad 5 Pro Wi-Fi
+  version: V13.0.4.0.RKYCNXM
+- android: '11.0'
+  codename: enuma
+  date: '2022-01-05'
+  download: https://bigota.d.miui.com/V13.0.2.0.RKZCNXM/fw_enuma_miui_ENUMA_V13.0.2.0.RKZCNXM_3eb630ef02_11.0.zip
+  name: Xiaomi Pad 5 Pro 5G
+  version: V13.0.2.0.RKZCNXM
+- android: '12.0'
+  codename: haydn
+  date: '2022-01-05'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKKCNXM/fw_haydn_miui_HAYDN_V13.0.5.0.SKKCNXM_91464d0208_12.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V13.0.5.0.SKKCNXM
+- android: '11.0'
+  codename: nabu
+  date: '2022-01-05'
+  download: https://bigota.d.miui.com/V13.0.3.0.RKXCNXM/fw_nabu_miui_NABU_V13.0.3.0.RKXCNXM_67e35b8e10_11.0.zip
+  name: Xiaomi Pad 5
+  version: V13.0.3.0.RKXCNXM
+- android: '11.0'
   codename: psyche
   date: '2021-12-30'
   download: https://bigota.d.miui.com/V13.0.10.0.RLDCNXM/fw_psyche_miui_PSYCHE_V13.0.10.0.RLDCNXM_ef8a0733f5_11.0.zip
   name: Xiaomi 12X
   version: V13.0.10.0.RLDCNXM
+- android: '12.0'
+  codename: star
+  date: '2022-01-05'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKACNXM/fw_star_miui_STAR_V13.0.5.0.SKACNXM_d780dd325c_12.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V13.0.5.0.SKACNXM
 - android: '12.0'
   codename: venus
   date: '2022-01-03'

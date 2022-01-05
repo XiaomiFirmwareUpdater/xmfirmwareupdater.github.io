@@ -9,15 +9,15 @@
     android: '11.0'
     miui: V12.5.8.0.RKAMIXM
 - branch: stable
-  date: '2021-11-04'
+  date: '2022-01-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-04.11.2021/fw_star_miui_STAR_V12.5.20.0.RKACNXM_942a5712ef_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STAR_V12.5.20.0.RKACNXM_942a5712ef_11.0.zip
-  filename: fw_star_miui_STAR_V12.5.20.0.RKACNXM_942a5712ef_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-05.01.2022/fw_star_miui_STAR_V13.0.5.0.SKACNXM_d780dd325c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAR_V13.0.5.0.SKACNXM_d780dd325c_12.0.zip
+  filename: fw_star_miui_STAR_V13.0.5.0.SKACNXM_d780dd325c_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.20.0.RKACNXM
+    android: '12.0'
+    miui: V13.0.5.0.SKACNXM
 - branch: weekly
   date: '2021-12-10'
   downloads:
