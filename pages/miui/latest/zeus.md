@@ -54,7 +54,7 @@ permalink: /miui/zeus/
                 <tbody>
                 <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SLBCNXM</td><td>12.0</td><td>6.7 GB</td><td>2021-12-29</td><td><a href="/miui/zeus/stable/V13.0.12.0.SLBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.12.0.SLBCNXM</td><td>12.0</td><td>4.9 GB</td><td>2021-12-31</td><td><a href="/miui/zeus/stable/V13.0.12.0.SLBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.10.0.SLBCNXM</td><td>12.0</td><td>5.0 GB</td><td>2021-12-31</td><td><a href="/miui/zeus/stable beta/V13.0.10.0.SLBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.16.0.SLBCNXM</td><td>12.0</td><td>4.9 GB</td><td>2022-01-06</td><td><a href="/miui/zeus/stable beta/V13.0.16.0.SLBCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
