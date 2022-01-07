@@ -32,7 +32,7 @@ function loadMiuiChinaBeta(miui_version) {
                     data: {},
                     className: "all",
                     "render": function (data) {
-                        return '<a href="/miui/' + data.codename.split('_')[0] + '/weekly/' + data.version + '/">Download</a>';
+                        return '<a href="/miui/' + data.codename.split('_')[0] + '/">Download</a>';
                     }
                 },
                 { data: 'date', className: "min-mobile-l" }
