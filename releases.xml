@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 08 Jan 2022 19:47:20 +0900</pubDate>
+  <pubDate>Sun, 09 Jan 2022 01:41:58 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V13.0.4.0.SKICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Sun, 09 Jan 2022 01:41:58 +0900</pubDate>
+  </item>
     <item>
     <title>MIX 4 (odin) - V13.0.2.0.SKMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
@@ -100,11 +105,6 @@
     <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V13.0.5.0.SKKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
     <pubDate>Thu, 06 Jan 2022 02:48:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro 5G (enuma) - V13.0.2.0.RKZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/enuma</link>
-    <pubDate>Thu, 06 Jan 2022 02:23:16 +0900</pubDate>
   </item>
     </channel>
 </rss>
