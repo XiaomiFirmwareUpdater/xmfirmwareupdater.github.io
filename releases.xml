@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 08 Jan 2022 07:13:58 +0900</pubDate>
+  <pubDate>Sat, 08 Jan 2022 19:47:20 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>MIX 4 (odin) - V13.0.2.0.SKMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
+    <pubDate>Sat, 08 Jan 2022 19:47:20 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 Pro (joyeuse) - V12.5.3.0.RJZMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi Pad 5 Pro 5G (enuma) - V13.0.2.0.RKZCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/enuma</link>
     <pubDate>Thu, 06 Jan 2022 02:23:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V13.0.4.0.RKYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
-    <pubDate>Thu, 06 Jan 2022 01:55:55 +0900</pubDate>
   </item>
     </channel>
 </rss>

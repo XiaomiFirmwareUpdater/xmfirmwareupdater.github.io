@@ -2379,15 +2379,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2021-10-29'
+  date: '2022-01-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-29.10.2021/fw_odin_miui_ODIN_V12.5.12.0.RKMCNXM_dc201b3eed_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/odin/fw_odin_miui_ODIN_V12.5.12.0.RKMCNXM_dc201b3eed_11.0.zip
-  filename: fw_odin_miui_ODIN_V12.5.12.0.RKMCNXM_dc201b3eed_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-08.01.2022/fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/odin/fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
+  filename: fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.12.0.RKMCNXM
+    android: '12.0'
+    miui: V13.0.2.0.SKMCNXM
 - branch: weekly
   date: '2021-12-10'
   downloads:
