@@ -1929,15 +1929,15 @@
     android: '11.0'
     miui: V12.5.4.0.RJQINXM
 - branch: stable
-  date: '2021-11-27'
+  date: '2022-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-27.11.2021/fw_lisa_miui_LISAGlobal_V12.5.11.0.RKOMIXM_366440821d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAGlobal_V12.5.11.0.RKOMIXM_366440821d_11.0.zip
-  filename: fw_lisa_miui_LISAGlobal_V12.5.11.0.RKOMIXM_366440821d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-10.01.2022/fw_lisa_miui_LISAGlobal_V12.5.14.0.RKOMIXM_6d3d47ddbb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAGlobal_V12.5.14.0.RKOMIXM_6d3d47ddbb_11.0.zip
+  filename: fw_lisa_miui_LISAGlobal_V12.5.14.0.RKOMIXM_6d3d47ddbb_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.11.0.RKOMIXM
+    miui: V12.5.14.0.RKOMIXM
 - branch: stable
   date: '2021-12-16'
   downloads:
@@ -2409,15 +2409,15 @@
     android: '10.0'
     miui: V12.5.3.0.QCNMIXM
 - branch: stable
-  date: '2021-12-15'
+  date: '2022-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olive/releases/download/stable-15.12.2021/fw_olive_miui_OLIVE_V12.5.4.0.QCNCNXM_39a2fe76d8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVE_V12.5.4.0.QCNCNXM_39a2fe76d8_10.0.zip
-  filename: fw_olive_miui_OLIVE_V12.5.4.0.QCNCNXM_39a2fe76d8_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_olive/releases/download/stable-10.01.2022/fw_olive_miui_OLIVE_V12.5.5.0.QCNCNXM_e55e6cc0b5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/olive/fw_olive_miui_OLIVE_V12.5.5.0.QCNCNXM_e55e6cc0b5_10.0.zip
+  filename: fw_olive_miui_OLIVE_V12.5.5.0.QCNCNXM_e55e6cc0b5_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.5.4.0.QCNCNXM
+    miui: V12.5.5.0.QCNCNXM
 - branch: stable
   date: '2021-10-29'
   downloads:
