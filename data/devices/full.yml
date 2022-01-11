@@ -11099,6 +11099,16 @@
     android: '11.0'
     miui: V12.5.3.0.RKPCNXM
 - branch: stable
+  date: '2022-01-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-11.01.2022/fw_citrus_miui_CITRUSINGlobal_V12.5.1.0.RJFINXM_9c620cf172_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSINGlobal_V12.5.1.0.RJFINXM_9c620cf172_11.0.zip
+  filename: fw_citrus_miui_CITRUSINGlobal_V12.5.1.0.RJFINXM_9c620cf172_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJFINXM
+- branch: stable
   date: '2022-01-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-04.01.2022/fw_citrus_miui_CITRUSEEAGlobal_V12.5.3.0.RJFEUXM_ed8bd165f8_11.0.zip
@@ -41738,6 +41748,16 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: stable
+  date: '2022-01-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-11.01.2022/fw_tucana_miui_TUCANA_V12.5.9.0.RFDCNXM_34a090cd3a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANA_V12.5.9.0.RFDCNXM_34a090cd3a_11.0.zip
+  filename: fw_tucana_miui_TUCANA_V12.5.9.0.RFDCNXM_34a090cd3a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RFDCNXM
 - branch: weekly
   date: '2022-01-07'
   downloads:
