@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 12 Jan 2022 01:18:11 +0900</pubDate>
+  <pubDate>Wed, 12 Jan 2022 19:56:22 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10S (thyme) - V13.0.1.0.SGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Wed, 12 Jan 2022 19:56:22 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 8 Pro (begonia) - V12.5.4.0.RGGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 (cupid) - V13.0.16.0.SLCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
     <pubDate>Fri, 07 Jan 2022 13:54:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 5G (cannon) - V12.5.9.0.RJECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
-    <pubDate>Fri, 07 Jan 2022 01:24:07 +0900</pubDate>
   </item>
     </channel>
 </rss>

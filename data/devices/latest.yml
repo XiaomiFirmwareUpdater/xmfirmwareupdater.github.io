@@ -3459,15 +3459,15 @@
     android: '11.0'
     miui: V12.5.9.0.RKFINXM
 - branch: stable
-  date: '2021-11-17'
+  date: '2022-01-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-17.11.2021/fw_thyme_miui_THYME_V12.5.14.0.RGACNXM_71ebdf5fb2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/thyme/fw_thyme_miui_THYME_V12.5.14.0.RGACNXM_71ebdf5fb2_11.0.zip
-  filename: fw_thyme_miui_THYME_V12.5.14.0.RGACNXM_71ebdf5fb2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-12.01.2022/fw_thyme_miui_THYME_V13.0.1.0.SGACNXM_d2d86a3a8b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thyme/fw_thyme_miui_THYME_V13.0.1.0.SGACNXM_d2d86a3a8b_12.0.zip
+  filename: fw_thyme_miui_THYME_V13.0.1.0.SGACNXM_d2d86a3a8b_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.14.0.RGACNXM
+    android: '12.0'
+    miui: V13.0.1.0.SGACNXM
 - branch: weekly
   date: '2021-12-10'
   downloads:
