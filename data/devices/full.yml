@@ -19969,6 +19969,16 @@
     android: '9.0'
     miui: V10.2.5.0.PFBCNXM
 - branch: stable
+  date: '2022-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-14.01.2022/fw_haydn_miui_HAYDN_V13.0.5.1.1.DEV_68e02edbb2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDN_V13.0.5.1.1.DEV_68e02edbb2_12.0.zip
+  filename: fw_haydn_miui_HAYDN_V13.0.5.1.1.DEV_68e02edbb2_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.5.1.1.DEV
+- branch: stable
   date: '2022-01-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-05.01.2022/fw_haydn_miui_HAYDN_V13.0.5.0.SKKCNXM_91464d0208_12.0.zip
@@ -25028,6 +25038,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2022-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-14.01.2022/fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
+  filename: fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.0.1.1.DEV
 - branch: weekly
   date: '2021-12-04'
   downloads:
@@ -41079,6 +41099,16 @@
     android: '11.0'
     miui: V12.0.1.0.RKFINXM
 - branch: stable
+  date: '2022-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-14.01.2022/fw_thyme_miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thyme/fw_thyme_miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
+  filename: fw_thyme_miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.1.1.1.DEV
+- branch: stable
   date: '2022-01-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-12.01.2022/fw_thyme_miui_THYME_V13.0.1.0.SGACNXM_d2d86a3a8b_12.0.zip
@@ -43618,6 +43648,16 @@
   versions:
     android: '7.1'
     miui: 8.4.12
+- branch: stable
+  date: '2022-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-14.01.2022/fw_umi_miui_UMI_V13.0.0.1.1.DEV_612fd28eb9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMI_V13.0.0.1.1.DEV_612fd28eb9_12.0.zip
+  filename: fw_umi_miui_UMI_V13.0.0.1.1.DEV_612fd28eb9_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.0.1.1.DEV
 - branch: stable
   date: '2021-12-22'
   downloads:
@@ -46448,6 +46488,26 @@
   versions:
     android: '9.0'
     miui: V10.3.1.0.PFECNXM
+- branch: stable
+  date: '2022-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-14.01.2022/fw_venus_miui_VENUSGlobal_V12.5.11.0.RKBMIXM_51fb20673f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSGlobal_V12.5.11.0.RKBMIXM_51fb20673f_11.0.zip
+  filename: fw_venus_miui_VENUSGlobal_V12.5.11.0.RKBMIXM_51fb20673f_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.11.0.RKBMIXM
+- branch: stable
+  date: '2022-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-14.01.2022/fw_venus_miui_VENUS_V13.0.4.1.1.DEV_3ed0e576a6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/venus/fw_venus_miui_VENUS_V13.0.4.1.1.DEV_3ed0e576a6_12.0.zip
+  filename: fw_venus_miui_VENUS_V13.0.4.1.1.DEV_3ed0e576a6_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.1.1.DEV
 - branch: stable
   date: '2022-01-07'
   downloads:

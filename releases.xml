@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 14 Jan 2022 20:38:21 +0900</pubDate>
+  <pubDate>Fri, 14 Jan 2022 23:30:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 (venus) - V12.5.11.0.RKBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 14 Jan 2022 23:30:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - V13.0.4.1.1.DEV</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 14 Jan 2022 22:58:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - V13.0.0.1.1.DEV</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Fri, 14 Jan 2022 22:19:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10S (thyme) - V13.0.1.1.1.DEV</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Fri, 14 Jan 2022 22:08:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V13.0.0.1.1.DEV</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Fri, 14 Jan 2022 21:28:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V13.0.5.1.1.DEV</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 14 Jan 2022 21:18:46 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Pro (cmi) - V13.0.0.1.1.DEV</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
@@ -75,36 +105,6 @@
     <title>MIX 4 (odin) - V13.0.2.0.SKMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
     <pubDate>Sat, 08 Jan 2022 19:47:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V12.5.3.0.RJZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Sat, 08 Jan 2022 07:13:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8T (willow) - V12.5.2.0.RCXMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
-    <pubDate>Fri, 07 Jan 2022 19:46:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V12.5.9.0.RKBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Fri, 07 Jan 2022 19:43:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 22.1.5</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 07 Jan 2022 15:25:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 22.1.5</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Fri, 07 Jan 2022 15:22:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - 22.1.5</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Fri, 07 Jan 2022 15:19:51 +0900</pubDate>
   </item>
     </channel>
 </rss>

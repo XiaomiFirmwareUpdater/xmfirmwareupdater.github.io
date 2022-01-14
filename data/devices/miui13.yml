@@ -72,6 +72,12 @@
   version: V13.0.2.0.RKZCNXM
 - android: '12.0'
   codename: haydn
+  date: '2022-01-14'
+  download: https://bigota.d.miui.com/V13.0.5.1.1.DEV/fw_haydn_miui_HAYDN_V13.0.5.1.1.DEV_68e02edbb2_12.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V13.0.5.1.1.DEV
+- android: '12.0'
+  codename: haydn
   date: '2022-01-05'
   download: https://bigota.d.miui.com/V13.0.5.0.SKKCNXM/fw_haydn_miui_HAYDN_V13.0.5.0.SKKCNXM_91464d0208_12.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
@@ -82,6 +88,12 @@
   download: https://bigota.d.miui.com/22.1.5/fw_lime_miui_LIME_22.1.5_c1645b4618_11.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
   version: 22.1.5
+- android: '12.0'
+  codename: lmi
+  date: '2022-01-14'
+  download: https://bigota.d.miui.com/V13.0.0.1.1.DEV/fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: V13.0.0.1.1.DEV
 - android: '11.0'
   codename: nabu
   date: '2022-01-05'
@@ -114,6 +126,12 @@
   version: V13.0.5.0.SKACNXM
 - android: '12.0'
   codename: thyme
+  date: '2022-01-14'
+  download: https://bigota.d.miui.com/V13.0.1.1.1.DEV/fw_thyme_miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
+  name: Mi 10S
+  version: V13.0.1.1.1.DEV
+- android: '12.0'
+  codename: thyme
   date: '2022-01-12'
   download: https://bigota.d.miui.com/V13.0.1.0.SGACNXM/fw_thyme_miui_THYME_V13.0.1.0.SGACNXM_d2d86a3a8b_12.0.zip
   name: Mi 10S
@@ -124,6 +142,18 @@
   download: https://bigota.d.miui.com/22.1.5/fw_tucana_miui_TUCANA_22.1.5_075fa87377_11.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 22.1.5
+- android: '12.0'
+  codename: umi
+  date: '2022-01-14'
+  download: https://bigota.d.miui.com/V13.0.0.1.1.DEV/fw_umi_miui_UMI_V13.0.0.1.1.DEV_612fd28eb9_12.0.zip
+  name: Mi 10
+  version: V13.0.0.1.1.DEV
+- android: '12.0'
+  codename: venus
+  date: '2022-01-14'
+  download: https://bigota.d.miui.com/V13.0.4.1.1.DEV/fw_venus_miui_VENUS_V13.0.4.1.1.DEV_3ed0e576a6_12.0.zip
+  name: Mi 11
+  version: V13.0.4.1.1.DEV
 - android: '12.0'
   codename: venus
   date: '2022-01-03'
