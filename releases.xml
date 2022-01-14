@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 14 Jan 2022 01:26:46 +0900</pubDate>
+  <pubDate>Fri, 14 Jan 2022 13:20:16 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 Pro (equuleus) - V12.0.2.0.QECMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
+    <pubDate>Fri, 14 Jan 2022 13:20:16 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9T (cannong) - V12.5.7.0.RJEMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
@@ -100,11 +105,6 @@
     <title>Redmi 10X 5G (atom) - 22.1.5</title>
     <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
     <pubDate>Fri, 07 Jan 2022 15:12:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V13.0.16.0.SLBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Fri, 07 Jan 2022 14:30:09 +0900</pubDate>
   </item>
     </channel>
 </rss>
