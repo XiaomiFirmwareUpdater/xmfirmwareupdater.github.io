@@ -52,9 +52,9 @@ permalink: /miui/picasso/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RGICNXM</td><td>11.0</td><td>4.9 GB</td><td>2021-10-25</td><td><a href="/miui/picasso/stable/V12.5.7.0.RGICNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RGICNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-11-05</td><td><a href="/miui/picasso/stable/V12.5.7.0.RGICNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.9.0.RGICNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-12-30</td><td><a href="/miui/picasso/stable beta/V12.5.9.0.RGICNXM/">Download</a></td></tr>
+                <tr><td>Redmi K30 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.9.0.RGICNXM</td><td>11.0</td><td>5.0 GB</td><td>2021-12-21</td><td><a href="/miui/picasso/stable/V12.5.9.0.RGICNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RGICNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-12-30</td><td><a href="/miui/picasso/stable/V12.5.9.0.RGICNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.1.1.0.RGICNXM</td><td>11.0</td><td>3.3 GB</td><td>2020-11-21</td><td><a href="/miui/picasso/stable beta/V12.1.1.0.RGICNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 5G China</td><td>Weekly</td><td>Recovery</td><td>22.1.6</td><td>12.0</td><td>4.6 GB</td><td>2022-01-06</td><td><a href="/miui/picasso/weekly/22.1.6/">Download</a></td></tr>
 <tr><td>Redmi K30i 5G China</td><td>Weekly</td><td>Recovery</td><td>22.1.6</td><td>12.0</td><td>4.6 GB</td><td>2022-01-06</td><td><a href="/miui/picasso/weekly/22.1.6/">Download</a></td></tr>
 <tr><td>Redmi K30i 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RGICMXM</td><td>11.0</td><td>5.0 GB</td><td>2021-12-24</td><td><a href="/miui/picasso/stable/V12.5.7.0.RGICMXM/">Download</a></td></tr>
