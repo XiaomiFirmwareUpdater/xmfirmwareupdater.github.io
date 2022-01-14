@@ -1,110 +1,110 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 14 Jan 2022 23:30:01 +0900</pubDate>
+  <pubDate>Sat, 15 Jan 2022 03:34:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Mi 11 (venus) - V12.5.11.0.RKBMIXM</title>
+    <title>Redmi K30 Ultra (cezanne) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
+    <pubDate>Sat, 15 Jan 2022 03:34:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Sat, 15 Jan 2022 03:32:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
+    <pubDate>Sat, 15 Jan 2022 03:25:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - 22.1.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Fri, 14 Jan 2022 23:30:01 +0900</pubDate>
+    <pubDate>Sat, 15 Jan 2022 03:22:29 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 11 (venus) - V13.0.4.1.1.DEV</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Fri, 14 Jan 2022 22:58:08 +0900</pubDate>
+    <title>Redmi Note 9 5G (cannon) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
+    <pubDate>Sat, 15 Jan 2022 03:15:36 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 10 (umi) - V13.0.0.1.1.DEV</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Fri, 14 Jan 2022 22:19:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10S (thyme) - V13.0.1.1.1.DEV</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Fri, 14 Jan 2022 22:08:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V13.0.0.1.1.DEV</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 14 Jan 2022 21:28:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V13.0.5.1.1.DEV</title>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 22.1.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Fri, 14 Jan 2022 21:18:46 +0900</pubDate>
+    <pubDate>Sat, 15 Jan 2022 03:12:51 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 10 Pro (cmi) - V13.0.0.1.1.DEV</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Fri, 14 Jan 2022 20:38:21 +0900</pubDate>
+    <title>Redmi K30 4G (phoenix) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Sat, 15 Jan 2022 03:06:23 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 10 Ultra (cas) - V13.0.0.1.1.DEV</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
-    <pubDate>Fri, 14 Jan 2022 20:27:38 +0900</pubDate>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Sat, 15 Jan 2022 03:01:45 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V13.0.0.1.1.DEV</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Fri, 14 Jan 2022 19:54:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 8 Pro (equuleus) - V12.0.2.0.QECMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
-    <pubDate>Fri, 14 Jan 2022 13:20:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9T (cannong) - V12.5.7.0.RJEMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
-    <pubDate>Fri, 14 Jan 2022 01:26:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10S (thyme) - V13.0.1.0.SGACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Wed, 12 Jan 2022 19:56:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 Pro (begonia) - V12.5.4.0.RGGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
-    <pubDate>Wed, 12 Jan 2022 01:18:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.9.0.RFDCNXM</title>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 22.1.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Tue, 11 Jan 2022 19:27:44 +0900</pubDate>
+    <pubDate>Sat, 15 Jan 2022 02:57:51 +0900</pubDate>
   </item>
     <item>
-    <title>POCO M3 (citrus) - V12.5.1.0.RJFINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
-    <pubDate>Tue, 11 Jan 2022 19:23:02 +0900</pubDate>
+    <title>Mi 10 Lite Zoom (vangogh) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
+    <pubDate>Sat, 15 Jan 2022 02:53:26 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 8 (olive) - V12.5.5.0.QCNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/olive</link>
-    <pubDate>Tue, 11 Jan 2022 01:46:26 +0900</pubDate>
+    <title>Mi 10 (umi) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Sat, 15 Jan 2022 02:48:25 +0900</pubDate>
   </item>
     <item>
-    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V12.5.14.0.RKOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
-    <pubDate>Tue, 11 Jan 2022 01:43:49 +0900</pubDate>
+    <title>Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellia</link>
+    <pubDate>Sat, 15 Jan 2022 02:41:05 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V12.5.8.0.RJDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Mon, 10 Jan 2022 19:28:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G (renoir) - V13.0.4.0.SKICNXM</title>
+    <title>Mi 11 Lite 5G (renoir) - 22.1.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Sun, 09 Jan 2022 01:41:58 +0900</pubDate>
+    <pubDate>Sat, 15 Jan 2022 02:38:05 +0900</pubDate>
   </item>
     <item>
-    <title>MIX 4 (odin) - V13.0.2.0.SKMCNXM</title>
+    <title>Xiaomi Civi (mona) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
+    <pubDate>Sat, 15 Jan 2022 02:31:41 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Sat, 15 Jan 2022 02:24:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>MIX 4 (odin) - 22.1.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
-    <pubDate>Sat, 08 Jan 2022 19:47:20 +0900</pubDate>
+    <pubDate>Sat, 15 Jan 2022 02:15:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Sat, 15 Jan 2022 02:08:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Sat, 15 Jan 2022 02:00:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - 22.1.12</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Sat, 15 Jan 2022 01:57:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10S (thyme) - 22.1.13</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Sat, 15 Jan 2022 01:53:33 +0900</pubDate>
   </item>
     </channel>
 </rss>
