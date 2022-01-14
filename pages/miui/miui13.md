@@ -50,6 +50,7 @@ longer providing Beta ROMs links. You need custom recovery to flash beta version
                     <tr>
                         <th data-ref="device">Device</th>
                         <th data-ref="codename">Codename</th>
+                        <th data-ref="branch">Branch</th>
                         <th data-ref="miui">MIUI</th>
                         <th data-ref="android">Android</th>
                         <th data-ref="link">Link</th>
