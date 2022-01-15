@@ -7,7 +7,7 @@ function loadMiuiChinaBeta(miui_version) {
         details: false,
       },
       pageLength: 50,
-      order: [[5, "desc"]],
+      order: [[6, "desc"]],
       ajax: {
         type: "GET",
         url: "/data/devices/" + miui_version + ".yml",
