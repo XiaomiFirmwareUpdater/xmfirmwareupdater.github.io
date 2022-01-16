@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 16 Jan 2022 20:00:01 +0900</pubDate>
+  <pubDate>Sun, 16 Jan 2022 20:01:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Mi 11 (venus) - V13.0.5.0.SKBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Sun, 16 Jan 2022 20:00:01 +0900</pubDate>
+    <pubDate>Sun, 16 Jan 2022 20:01:34 +0900</pubDate>
   </item>
     <item>
     <title>Redmi K30 Ultra (cezanne) - 22.1.13</title>
