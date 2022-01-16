@@ -294,6 +294,12 @@
   version: 22.1.13
 - android: '12.0'
   codename: venus
+  date: '2022-01-16'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKBCNXM/fw_venus_miui_VENUS_V13.0.5.0.SKBCNXM_730222306d_12.0.zip
+  name: Mi 11
+  version: V13.0.5.0.SKBCNXM
+- android: '12.0'
+  codename: venus
   date: '2022-01-14'
   download: https://bigota.d.miui.com/22.1.13/fw_venus_miui_VENUSPRE_22.1.13_de6f68e982_12.0.zip
   name: Mi 11
