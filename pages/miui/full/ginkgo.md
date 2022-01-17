@@ -52,7 +52,8 @@ permalink: /archive/miui/ginkgo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 8 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RCORUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-06</td><td><a href="/miui/ginkgo/stable beta/V12.5.2.0.RCORUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 8 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCORUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-06</td><td><a href="/miui/ginkgo/stable/V12.5.2.0.RCORUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RCORUXM</td><td>11.0</td><td>4.2 GB</td><td>2021-12-26</td><td><a href="/miui/ginkgo/stable/V12.5.2.0.RCORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RCOINXM</td><td>11.0</td><td>2.5 GB</td><td>2022-01-06</td><td><a href="/miui/ginkgo/stable beta/V12.5.1.0.RCOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCOEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-12-30</td><td><a href="/miui/ginkgo/stable/V12.5.2.0.RCOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RCOEUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-12-24</td><td><a href="/miui/ginkgo/stable/V12.5.2.0.RCOEUXM/">Download</a></td></tr>
@@ -90,11 +91,11 @@ permalink: /archive/miui/ginkgo/
 <tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.RCOMIXM</td><td>11.0</td><td>4.8 GB</td><td>2021-08-10</td><td><a href="/miui/ginkgo/stable/V12.0.2.0.RCOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.8.11</td><td>11.0</td><td>3.1 GB</td><td>2021-08-12</td><td><a href="/miui/ginkgo/weekly/21.8.11/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.8.4</td><td>11.0</td><td>3.1 GB</td><td>2021-08-05</td><td><a href="/miui/ginkgo/weekly/21.8.4/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RCOIDXM</td><td>11.0</td><td>2.5 GB</td><td>2021-11-25</td><td><a href="/miui/ginkgo/stable/V12.0.3.0.RCOIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RCOIDXM</td><td>11.0</td><td>4.1 GB</td><td>2021-11-19</td><td><a href="/miui/ginkgo/stable/V12.0.3.0.RCOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.7.28</td><td>11.0</td><td>3.1 GB</td><td>2021-07-29</td><td><a href="/miui/ginkgo/weekly/21.7.28/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QCOMIXM</td><td>10.0</td><td>2.4 GB</td><td>2021-07-27</td><td><a href="/miui/ginkgo/stable/V12.0.6.0.QCOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QCOMIXM</td><td>10.0</td><td>4.7 GB</td><td>2021-07-24</td><td><a href="/miui/ginkgo/stable/V12.0.6.0.QCOMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RCOIDXM</td><td>11.0</td><td>2.5 GB</td><td>2021-11-25</td><td><a href="/miui/ginkgo/stable/V12.0.3.0.RCOIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.RCOIDXM</td><td>11.0</td><td>4.1 GB</td><td>2021-11-19</td><td><a href="/miui/ginkgo/stable/V12.0.3.0.RCOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.7.21</td><td>11.0</td><td>3.0 GB</td><td>2021-07-22</td><td><a href="/miui/ginkgo/weekly/21.7.21/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.7.14</td><td>11.0</td><td>3.0 GB</td><td>2021-07-15</td><td><a href="/miui/ginkgo/weekly/21.7.14/">Download</a></td></tr>
 <tr><td>Redmi Note 8 China</td><td>Weekly</td><td>Recovery</td><td>21.7.7</td><td>11.0</td><td>2.9 GB</td><td>2021-07-08</td><td><a href="/miui/ginkgo/weekly/21.7.7/">Download</a></td></tr>
