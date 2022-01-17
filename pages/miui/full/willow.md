@@ -52,10 +52,12 @@ permalink: /archive/miui/willow/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 8T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RCXMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-04</td><td><a href="/miui/willow/stable beta/V12.5.2.0.RCXMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCXMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-04</td><td><a href="/miui/willow/stable/V12.5.2.0.RCXMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RCXMIXM</td><td>11.0</td><td>4.1 GB</td><td>2021-12-27</td><td><a href="/miui/willow/stable/V12.5.2.0.RCXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RCXRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-04</td><td><a href="/miui/willow/stable/V12.5.1.0.RCXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RCXRUXM</td><td>11.0</td><td>4.0 GB</td><td>2021-12-28</td><td><a href="/miui/willow/stable/V12.5.1.0.RCXRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RCXEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-12-28</td><td><a href="/miui/willow/stable beta/V12.5.2.0.RCXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCXEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-12-28</td><td><a href="/miui/willow/stable/V12.5.2.0.RCXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RCXEUXM</td><td>11.0</td><td>4.1 GB</td><td>2021-12-22</td><td><a href="/miui/willow/stable/V12.5.2.0.RCXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RCXMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-10-22</td><td><a href="/miui/willow/stable beta/V12.0.2.0.RCXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RCXRUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-10-22</td><td><a href="/miui/willow/stable beta/V12.0.1.0.RCXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.RCXEUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-10-20</td><td><a href="/miui/willow/stable/V12.0.3.0.RCXEUXM/">Download</a></td></tr>

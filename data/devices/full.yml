@@ -18339,6 +18339,16 @@
     android: '7.0'
     miui: 8.3.26
 - branch: stable
+  date: '2022-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-17.01.2022/fw_ginkgo_miui_GINKGOINGlobal_V12.5.1.0.RCOINXM_574a275eaa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V12.5.1.0.RCOINXM_574a275eaa_11.0.zip
+  filename: fw_ginkgo_miui_GINKGOINGlobal_V12.5.1.0.RCOINXM_574a275eaa_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RCOINXM
+- branch: stable
   date: '2022-01-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-04.01.2022/fw_ginkgo_miui_GINKGOEEAGlobal_V12.5.2.0.RCOEUXM_7a6b9b172c_11.0.zip
@@ -41229,6 +41239,16 @@
     android: '11.0'
     miui: V12.0.3.0.RKFEUXM
 - branch: stable
+  date: '2022-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-17.01.2022/fw_sweetin_miui_SWEETININGlobal_V12.5.10.0.RKFINXM_dd18557436_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweetin/fw_sweetin_miui_SWEETININGlobal_V12.5.10.0.RKFINXM_dd18557436_11.0.zip
+  filename: fw_sweetin_miui_SWEETININGlobal_V12.5.10.0.RKFINXM_dd18557436_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.10.0.RKFINXM
+- branch: stable
   date: '2021-11-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-17.11.2021/fw_sweetin_miui_SWEETININGlobal_V12.5.9.0.RKFINXM_59e32b7c67_11.0.zip
@@ -46158,6 +46178,16 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJVCNXM
+- branch: stable
+  date: '2022-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-17.01.2022/fw_vayu_miui_VAYUINGlobal_V12.5.6.0.RJUINXM_448b9400c2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUINGlobal_V12.5.6.0.RJUINXM_448b9400c2_11.0.zip
+  filename: fw_vayu_miui_VAYUINGlobal_V12.5.6.0.RJUINXM_448b9400c2_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RJUINXM
 - branch: stable
   date: '2021-12-08'
   downloads:
