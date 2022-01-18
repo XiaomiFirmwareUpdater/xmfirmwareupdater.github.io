@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 18 Jan 2022 01:35:45 +0900</pubDate>
+  <pubDate>Wed, 19 Jan 2022 01:14:54 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 4G (phoenix) - V12.5.6.0.RGHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Wed, 19 Jan 2022 01:14:54 +0900</pubDate>
+  </item>
     <item>
     <title>Mi A3 (laurel) - V12.0.18.0.RFQMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
@@ -100,11 +105,6 @@
     <title>Mi 11 Lite 5G (renoir) - 22.1.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
     <pubDate>Sat, 15 Jan 2022 02:38:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi (mona) - 22.1.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
-    <pubDate>Sat, 15 Jan 2022 02:31:41 +0900</pubDate>
   </item>
     </channel>
 </rss>
