@@ -61,6 +61,8 @@ permalink: /miui/curtana/
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJWINXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-12</td><td><a href="/miui/curtana/stable/V12.5.2.0.RJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJWINXM</td><td>11.0</td><td>2.7 GB</td><td>2021-11-17</td><td><a href="/miui/curtana/stable/V12.5.2.0.RJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RJWINXM</td><td>11.0</td><td>2.7 GB</td><td>2021-09-01</td><td><a href="/miui/curtana/stable beta/V12.5.1.0.RJWINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Lite India</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJWINRF</td><td>11.0</td><td>3.4 GB</td><td>2021-11-26</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWINRF/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Lite India</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJWINRF</td><td>11.0</td><td>2.7 GB</td><td>2021-12-01</td><td><a href="/miui/curtana/stable/V12.5.1.0.RJWINRF/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJWRUXM</td><td>11.0</td><td>4.6 GB</td><td>2021-11-21</td><td><a href="/miui/curtana/stable/V12.5.2.0.RJWRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJWRUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-11-26</td><td><a href="/miui/curtana/stable/V12.5.2.0.RJWRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJWTRXM</td><td>11.0</td><td>4.3 GB</td><td>2021-11-18</td><td><a href="/miui/curtana/stable/V12.5.2.0.RJWTRXM/">Download</a></td></tr>
