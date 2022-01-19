@@ -52,7 +52,8 @@ permalink: /archive/miui/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40 China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.2.1.1.DEV</td><td>12.0</td><td>4.8 GB</td><td>2022-01-14</td><td><a href="/miui/alioth/public beta/V13.0.2.1.1.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K40 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKHCNXM</td><td>12.0</td><td>4.5 GB</td><td>2022-01-19</td><td><a href="/miui/alioth/stable beta/V13.0.3.0.SKHCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.2.1.1.DEV</td><td>12.0</td><td>4.8 GB</td><td>2022-01-14</td><td><a href="/miui/alioth/public beta/V13.0.2.1.1.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.1.DEV</td><td>12.0</td><td>4.2 GB</td><td>2022-01-14</td><td><a href="/miui/alioth/public beta/V13.0.2.1.1.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Weekly</td><td>Recovery</td><td>22.1.13</td><td>12.0</td><td>4.6 GB</td><td>2022-01-13</td><td><a href="/miui/alioth/weekly/22.1.13/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Weekly</td><td>Recovery</td><td>22.1.6</td><td>12.0</td><td>4.6 GB</td><td>2022-01-06</td><td><a href="/miui/alioth/weekly/22.1.6/">Download</a></td></tr>

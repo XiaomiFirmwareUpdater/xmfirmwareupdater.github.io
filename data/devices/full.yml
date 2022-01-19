@@ -88,6 +88,16 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RKWMIXM
+- branch: stable
+  date: '2022-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-19.01.2022/fw_alioth_miui_ALIOTH_V13.0.3.0.SKHCNXM_e8bfbd2b85_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTH_V13.0.3.0.SKHCNXM_e8bfbd2b85_12.0.zip
+  filename: fw_alioth_miui_ALIOTH_V13.0.3.0.SKHCNXM_e8bfbd2b85_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKHCNXM
 - branch: weekly
   date: '2022-01-14'
   downloads:
@@ -13459,6 +13469,16 @@
     android: '9.0'
     miui: V10.4.6.0.PFXCNXM
 - branch: stable
+  date: '2022-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-19.01.2022/fw_cupid_miui_CUPID_V13.0.21.0.SLCCNXM_f1aba865ff_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPID_V13.0.21.0.SLCCNXM_f1aba865ff_12.0.zip
+  filename: fw_cupid_miui_CUPID_V13.0.21.0.SLCCNXM_f1aba865ff_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.21.0.SLCCNXM
+- branch: stable
   date: '2022-01-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-07.01.2022/fw_cupid_miui_CUPID_V13.0.16.0.SLCCNXM_1c3a007f9c_12.0.zip
@@ -20108,6 +20128,16 @@
   versions:
     android: '9.0'
     miui: V10.2.5.0.PFBCNXM
+- branch: stable
+  date: '2022-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-19.01.2022/fw_haydn_miui_HAYDNEEAGlobal_V12.5.8.0.RKKEUXM_2988f85a03_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNEEAGlobal_V12.5.8.0.RKKEUXM_2988f85a03_11.0.zip
+  filename: fw_haydn_miui_HAYDNEEAGlobal_V12.5.8.0.RKKEUXM_2988f85a03_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKKEUXM
 - branch: weekly
   date: '2022-01-14'
   downloads:
@@ -50148,6 +50178,16 @@
   versions:
     android: '8.1'
     miui: V9.5.6.0.OEFCNFA
+- branch: stable
+  date: '2022-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.01.2022/fw_zeus_miui_ZEUS_V13.0.21.0.SLBCNXM_dae35fa397_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUS_V13.0.21.0.SLBCNXM_dae35fa397_12.0.zip
+  filename: fw_zeus_miui_ZEUS_V13.0.21.0.SLBCNXM_dae35fa397_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.21.0.SLBCNXM
 - branch: stable
   date: '2022-01-07'
   downloads:
