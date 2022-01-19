@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 11 Pro/Pro+/Xiaomi 11i (pissarro) MIUI Downloads
+title: Redmi Note 11 Pro/Pro+/Xiaomi 11i Hypercharge (pissarro) MIUI Downloads
 layout: download
-name: Redmi Note 11 Pro/Pro+/Xiaomi 11i
+name: Redmi Note 11 Pro/Pro+/Xiaomi 11i Hypercharge
 codename: pissarro
 permalink: /archive/miui/pissarro/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/pissarro/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/pissarro/">Redmi Note 11 Pro/Pro+/Xiaomi 11i</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/pissarro/">Redmi Note 11 Pro/Pro+/Xiaomi 11i Hypercharge</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -52,7 +52,8 @@ permalink: /archive/miui/pissarro/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.14.0.RKTCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-12-25</td><td><a href="/miui/pissarro/stable/V12.5.14.0.RKTCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKTINXM</td><td>11.0</td><td>2.9 GB</td><td>2022-01-19</td><td><a href="/miui/pissarro/stable beta/V12.5.2.0.RKTINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.14.0.RKTCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-12-25</td><td><a href="/miui/pissarro/stable/V12.5.14.0.RKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V12.5.14.0.RKTCNXM</td><td>11.0</td><td>5.0 GB</td><td>2021-12-21</td><td><a href="/miui/pissarro/stable/V12.5.14.0.RKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.12.0.RKTCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-12-11</td><td><a href="/miui/pissarro/stable/V12.5.12.0.RKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V12.5.12.0.RKTCNXM</td><td>11.0</td><td>5.0 GB</td><td>2021-12-09</td><td><a href="/miui/pissarro/stable/V12.5.12.0.RKTCNXM/">Download</a></td></tr>

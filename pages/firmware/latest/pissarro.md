@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 11 Pro/Pro+/Xiaomi 11i (pissarro) Firmware Downloads
+title: Redmi Note 11 Pro/Pro+/Xiaomi 11i Hypercharge (pissarro) Firmware Downloads
 layout: download
-name: Redmi Note 11 Pro/Pro+/Xiaomi 11i
+name: Redmi Note 11 Pro/Pro+/Xiaomi 11i Hypercharge
 codename: pissarro
 permalink: /firmware/pissarro/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/pissarro/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/pissarro/">Redmi Note 11 Pro/Pro+/Xiaomi 11i</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/pissarro/">Redmi Note 11 Pro/Pro+/Xiaomi 11i Hypercharge</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
