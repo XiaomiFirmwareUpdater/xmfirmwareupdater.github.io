@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 9S/Redmi Note 9 Pro (curtana) MIUI Downloads
+title: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) MIUI Downloads
 layout: download
-name: Redmi Note 9S/Redmi Note 9 Pro
+name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
 codename: curtana
 permalink: /miui/curtana/
 ---
@@ -9,7 +9,7 @@ permalink: /miui/curtana/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/curtana/">Redmi Note 9S/Redmi Note 9 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/curtana/">Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

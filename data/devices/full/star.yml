@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2022-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-19.01.2022/fw_star_miui_STARINGlobal_V12.5.6.0.RKAINXM_a6d3c3f132_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARINGlobal_V12.5.6.0.RKAINXM_a6d3c3f132_11.0.zip
+  filename: fw_star_miui_STARINGlobal_V12.5.6.0.RKAINXM_a6d3c3f132_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKAINXM
 - branch: weekly
   date: '2022-01-14'
   downloads:

@@ -2109,15 +2109,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2021-10-25'
+  date: '2022-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-25.10.2021/fw_merlin_miui_MERLINGlobal_V12.5.2.0.RJOMIXM_e26fe1882b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.5.2.0.RJOMIXM_e26fe1882b_11.0.zip
-  filename: fw_merlin_miui_MERLINGlobal_V12.5.2.0.RJOMIXM_e26fe1882b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-19.01.2022/fw_merlin_miui_MERLINGlobal_V12.5.3.0.RJOMIXM_7d989a6c3a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.5.3.0.RJOMIXM_7d989a6c3a_11.0.zip
+  filename: fw_merlin_miui_MERLINGlobal_V12.5.3.0.RJOMIXM_7d989a6c3a_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RJOMIXM
+    miui: V12.5.3.0.RJOMIXM
 - branch: stable
   date: '2021-11-02'
   downloads:
@@ -2949,15 +2949,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFKINXM
 - branch: stable
-  date: '2021-11-04'
+  date: '2022-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-04.11.2021/fw_renoir_miui_RENOIRGlobal_V12.5.6.0.RKIMIXM_046844758f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIRGlobal_V12.5.6.0.RKIMIXM_046844758f_11.0.zip
-  filename: fw_renoir_miui_RENOIRGlobal_V12.5.6.0.RKIMIXM_046844758f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-19.01.2022/fw_renoir_miui_RENOIRGlobal_V12.5.7.0.RKIMIXM_8f9da4976d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIRGlobal_V12.5.7.0.RKIMIXM_8f9da4976d_11.0.zip
+  filename: fw_renoir_miui_RENOIRGlobal_V12.5.7.0.RKIMIXM_8f9da4976d_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RKIMIXM
+    miui: V12.5.7.0.RKIMIXM
 - branch: stable
   date: '2022-01-08'
   downloads:
@@ -3399,15 +3399,15 @@
     android: '11.0'
     miui: V12.5.11.0.RKAEUXM
 - branch: stable
-  date: '2021-12-06'
+  date: '2022-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-06.12.2021/fw_star_miui_STARINGlobal_V12.5.5.0.RKAINXM_f422f9fde5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARINGlobal_V12.5.5.0.RKAINXM_f422f9fde5_11.0.zip
-  filename: fw_star_miui_STARINGlobal_V12.5.5.0.RKAINXM_f422f9fde5_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-19.01.2022/fw_star_miui_STARINGlobal_V12.5.6.0.RKAINXM_a6d3c3f132_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARINGlobal_V12.5.6.0.RKAINXM_a6d3c3f132_11.0.zip
+  filename: fw_star_miui_STARINGlobal_V12.5.6.0.RKAINXM_a6d3c3f132_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKAINXM
+    miui: V12.5.6.0.RKAINXM
 - branch: stable
   date: '2021-11-29'
   downloads:
@@ -3868,6 +3868,16 @@
   versions:
     android: '11.0'
     miui: V12.5.20.0.RKDEUXM
+- branch: stable
+  date: '2022-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-19.01.2022/fw_vili_miui_VILIINGlobal_V12.5.2.0.RKDINXM_f49b38e766_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vili/fw_vili_miui_VILIINGlobal_V12.5.2.0.RKDINXM_f49b38e766_11.0.zip
+  filename: fw_vili_miui_VILIINGlobal_V12.5.2.0.RKDINXM_f49b38e766_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKDINXM
 - branch: stable
   date: '2019-11-26'
   downloads:

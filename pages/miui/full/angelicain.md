@@ -1,7 +1,7 @@
 ---
-title: POCO C3 (angelicain) MIUI Downloads
+title: POCO C3/POCO C31 (angelicain) MIUI Downloads
 layout: download
-name: POCO C3
+name: POCO C3/POCO C31
 codename: angelicain
 permalink: /archive/miui/angelicain/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/angelicain/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/angelicain/">POCO C3</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/angelicain/">POCO C3/POCO C31</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
