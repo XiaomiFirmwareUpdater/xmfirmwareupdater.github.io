@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 20 Jan 2022 02:53:22 +0900</pubDate>
+  <pubDate>Thu, 20 Jan 2022 19:14:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 7A (pine) - V12.5.1.0.QCMINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pine</link>
+    <pubDate>Thu, 20 Jan 2022 19:14:01 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 11T Pro (vili) - V12.5.2.0.RKDINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
@@ -100,11 +105,6 @@
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 22.1.13</title>
     <link>https://xiaomifirmwareupdater.com/firmware/star</link>
     <pubDate>Sat, 15 Jan 2022 03:32:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 22.1.13</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
-    <pubDate>Sat, 15 Jan 2022 03:25:53 +0900</pubDate>
   </item>
     </channel>
 </rss>

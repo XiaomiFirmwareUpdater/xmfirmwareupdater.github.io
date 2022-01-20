@@ -62,6 +62,7 @@ permalink: /miui/pine/
 <tr><td>Redmi 7A India</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QCMINXM</td><td>10.0</td><td>1.8 GB</td><td>2021-06-09</td><td><a href="/miui/pine/stable/V12.0.3.0.QCMINXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.QCMRUXM</td><td>10.0</td><td>3.3 GB</td><td>2022-01-03</td><td><a href="/miui/pine/stable/V12.5.2.0.QCMRUXM/">Download</a></td></tr>
 <tr><td>Redmi 7A Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.QCMRUXM</td><td>10.0</td><td>1.9 GB</td><td>2022-01-10</td><td><a href="/miui/pine/stable/V12.5.2.0.QCMRUXM/">Download</a></td></tr>
+<tr><td>Redmi 7A India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.QCMINXM</td><td>10.0</td><td>1.9 GB</td><td>2022-01-20</td><td><a href="/miui/pine/stable beta/V12.5.1.0.QCMINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
