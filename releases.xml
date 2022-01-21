@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 21 Jan 2022 21:20:43 +0900</pubDate>
+  <pubDate>Sat, 22 Jan 2022 01:59:22 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12X (psyche) - V13.0.12.0.RLDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
+    <pubDate>Sat, 22 Jan 2022 01:59:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.6.0.RJQCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Sat, 22 Jan 2022 01:36:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V12.5.7.0.RJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Sat, 22 Jan 2022 01:35:24 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10S (thyme) - V13.0.1.0.SGACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
@@ -90,21 +105,6 @@
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - 22.1.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/star</link>
     <pubDate>Fri, 21 Jan 2022 18:49:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Ultra (cezanne) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
-    <pubDate>Fri, 21 Jan 2022 18:47:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Fri, 21 Jan 2022 18:46:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G (renoir) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Fri, 21 Jan 2022 18:44:23 +0900</pubDate>
   </item>
     </channel>
 </rss>

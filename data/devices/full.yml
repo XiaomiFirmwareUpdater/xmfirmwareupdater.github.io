@@ -5278,6 +5278,16 @@
   versions:
     android: '11.0'
     miui: V12.5.2.0.RCUMIXM
+- branch: stable
+  date: '2022-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-21.01.2022/fw_bomb_miui_BOMB_V12.5.7.0.RJLCNXM_79b764a6d8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/bomb/fw_bomb_miui_BOMB_V12.5.7.0.RJLCNXM_79b764a6d8_11.0.zip
+  filename: fw_bomb_miui_BOMB_V12.5.7.0.RJLCNXM_79b764a6d8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RJLCNXM
 - branch: weekly
   date: '2022-01-21'
   downloads:
@@ -24128,6 +24138,16 @@
   versions:
     android: '11.0'
     miui: V12.5.6.0.RJQMIXM
+- branch: stable
+  date: '2022-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-21.01.2022/fw_lime_miui_LIME_V12.5.6.0.RJQCNXM_a72849e03b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIME_V12.5.6.0.RJQCNXM_a72849e03b_11.0.zip
+  filename: fw_lime_miui_LIME_V12.5.6.0.RJQCNXM_a72849e03b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RJQCNXM
 - branch: weekly
   date: '2022-01-21'
   downloads:
@@ -35248,6 +35268,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2022-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-21.01.2022/fw_psyche_miui_PSYCHE_V13.0.12.0.RLDCNXM_03685bbdb7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHE_V13.0.12.0.RLDCNXM_03685bbdb7_11.0.zip
+  filename: fw_psyche_miui_PSYCHE_V13.0.12.0.RLDCNXM_03685bbdb7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V13.0.12.0.RLDCNXM
 - branch: stable
   date: '2021-12-30'
   downloads:
