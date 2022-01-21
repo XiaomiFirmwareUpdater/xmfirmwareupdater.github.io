@@ -19,15 +19,15 @@
     android: '12.0'
     miui: V13.0.3.0.SKHCNXM
 - branch: weekly
-  date: '2022-01-14'
+  date: '2022-01-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/weekly-14.01.2022/fw_alioth_miui_ALIOTHPRE_22.1.13_1a7a0bab1b_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.13/alioth/fw_alioth_miui_ALIOTHPRE_22.1.13_1a7a0bab1b_12.0.zip
-  filename: fw_alioth_miui_ALIOTHPRE_22.1.13_1a7a0bab1b_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/weekly-21.01.2022/fw_alioth_miui_ALIOTHPRE_22.1.19_106c3c6099_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/alioth/fw_alioth_miui_ALIOTHPRE_22.1.19_106c3c6099_12.0.zip
+  filename: fw_alioth_miui_ALIOTHPRE_22.1.19_106c3c6099_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: 22.1.13
+    miui: 22.1.19
 - branch: stable
   date: '2021-12-09'
   downloads:

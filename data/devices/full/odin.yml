@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2022-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/weekly-21.01.2022/fw_odin_miui_ODINPRE_22.1.19_812ba11394_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/odin/fw_odin_miui_ODINPRE_22.1.19_812ba11394_12.0.zip
+  filename: fw_odin_miui_ODINPRE_22.1.19_812ba11394_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.1.19
+- branch: weekly
   date: '2022-01-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/weekly-14.01.2022/fw_odin_miui_ODINPRE_22.1.13_ab12e8d8a6_12.0.zip

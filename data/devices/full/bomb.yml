@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2022-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-21.01.2022/fw_bomb_miui_BOMB_22.1.19_2f7ea53a62_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/bomb/fw_bomb_miui_BOMB_22.1.19_2f7ea53a62_11.0.zip
+  filename: fw_bomb_miui_BOMB_22.1.19_2f7ea53a62_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.1.19
+- branch: weekly
   date: '2022-01-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-14.01.2022/fw_bomb_miui_BOMB_22.1.13_a0022a842a_11.0.zip
