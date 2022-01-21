@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 21 Jan 2022 19:07:55 +0900</pubDate>
+  <pubDate>Fri, 21 Jan 2022 21:20:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10S (thyme) - V13.0.1.0.SGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Fri, 21 Jan 2022 21:20:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.6.0.RJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Fri, 21 Jan 2022 20:54:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V12.5.4.0.RKKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 21 Jan 2022 20:53:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begoniain) - V12.5.6.0.RGGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begoniain</link>
+    <pubDate>Fri, 21 Jan 2022 20:28:54 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 Pro (cmi) - 22.1.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
@@ -39,7 +59,7 @@
     <item>
     <title>Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge (pissarro) - 22.1.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
-    <pubDate>Fri, 21 Jan 2022 19:00:02 +0900</pubDate>
+    <pubDate>Fri, 21 Jan 2022 19:00:28 +0900</pubDate>
   </item>
     <item>
     <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - 22.1.19</title>
@@ -85,26 +105,6 @@
     <title>Mi 11 Lite 5G (renoir) - 22.1.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
     <pubDate>Fri, 21 Jan 2022 18:44:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Gaming/POCO F3 GT (ares) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
-    <pubDate>Fri, 21 Jan 2022 18:42:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>MIX 4 (odin) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
-    <pubDate>Fri, 21 Jan 2022 18:41:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Fri, 21 Jan 2022 18:39:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 21 Jan 2022 18:38:27 +0900</pubDate>
   </item>
     </channel>
 </rss>

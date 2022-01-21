@@ -53,7 +53,8 @@ permalink: /archive/miui/star/
                 </thead>
                 <tbody>
                 <tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>22.1.19</td><td>12.0</td><td>4.7 GB</td><td>2022-01-20</td><td><a href="/miui/star/weekly/22.1.19/">Download</a></td></tr>
-<tr><td>Mi 11 Ultra Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RKAIDXM</td><td>11.0</td><td>3.5 GB</td><td>2022-01-14</td><td><a href="/miui/star/stable beta/V12.5.6.0.RKAIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKAIDXM</td><td>11.0</td><td>3.5 GB</td><td>2022-01-14</td><td><a href="/miui/star/stable/V12.5.6.0.RKAIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKAIDXM</td><td>11.0</td><td>5.1 GB</td><td>2022-01-04</td><td><a href="/miui/star/stable/V12.5.6.0.RKAIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.5.1.1.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-01-14</td><td><a href="/miui/star/public beta/V13.0.5.1.1.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.1.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-01-14</td><td><a href="/miui/star/public beta/V13.0.5.1.1.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RKAINXM</td><td>11.0</td><td>3.5 GB</td><td>2022-01-13</td><td><a href="/miui/star/stable beta/V12.5.6.0.RKAINXM/">Download</a></td></tr>

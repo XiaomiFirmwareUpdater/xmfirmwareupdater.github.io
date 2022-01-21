@@ -108,16 +108,6 @@
   versions:
     android: '12.0'
     miui: 21.11.11
-- branch: stable
-  date: '2021-11-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-04.11.2021/fw_renoir_miui_RENOIRGlobal_V12.5.6.0.RKIMIXM_046844758f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIRGlobal_V12.5.6.0.RKIMIXM_046844758f_11.0.zip
-  filename: fw_renoir_miui_RENOIRGlobal_V12.5.6.0.RKIMIXM_046844758f_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RKIMIXM
 - branch: weekly
   date: '2021-10-29'
   downloads:

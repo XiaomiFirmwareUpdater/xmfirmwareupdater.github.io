@@ -2628,12 +2628,6 @@
   version: 20.5.28
 - android: '12.0'
   codename: chopin
-  date: '2021-12-10'
-  download: https://bigota.d.miui.com/21.12.8/miui_CHOPIN_21.12.8_b8e289777d_12.0.zip
-  name: Redmi Note 10 Pro 5G/POCO X3 GT
-  version: 21.12.8
-- android: '12.0'
-  codename: chopin
   date: '2021-12-04'
   download: https://bigota.d.miui.com/21.12.1/miui_CHOPIN_21.12.1_e8aaa4231d_12.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
@@ -3424,12 +3418,6 @@
   download: https://bigota.d.miui.com/20.5.7/miui_MI8_20.5.7_50340d2975_10.0.zip
   name: Mi 8
   version: 20.5.7
-- android: '11.0'
-  codename: elish
-  date: '2021-12-31'
-  download: https://bigota.d.miui.com/21.12.28/miui_ELISH_21.12.28_e43a77a351_11.0.zip
-  name: Xiaomi Pad 5 Pro Wi-Fi
-  version: 21.12.28
 - android: '11.0'
   codename: elish
   date: '2021-10-16'

@@ -309,15 +309,15 @@
     android: '11.0'
     miui: V12.5.4.0.RGGEUXM
 - branch: stable
-  date: '2021-10-26'
+  date: '2022-01-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begoniain/releases/download/stable-26.10.2021/fw_begoniain_miui_BEGONIAININGlobal_V12.5.5.0.RGGINXM_ca7f51df8e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V12.5.5.0.RGGINXM_ca7f51df8e_11.0.zip
-  filename: fw_begoniain_miui_BEGONIAININGlobal_V12.5.5.0.RGGINXM_ca7f51df8e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begoniain/releases/download/stable-21.01.2022/fw_begoniain_miui_BEGONIAININGlobal_V12.5.6.0.RGGINXM_f3b4a271fc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begoniain/fw_begoniain_miui_BEGONIAININGlobal_V12.5.6.0.RGGINXM_f3b4a271fc_11.0.zip
+  filename: fw_begoniain_miui_BEGONIAININGlobal_V12.5.6.0.RGGINXM_f3b4a271fc_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RGGINXM
+    miui: V12.5.6.0.RGGINXM
 - branch: stable
   date: '2021-01-12'
   downloads:
@@ -1399,15 +1399,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFBEUXM
 - branch: stable
-  date: '2021-11-26'
+  date: '2022-01-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-26.11.2021/fw_haydn_miui_HAYDNGlobal_V12.5.3.0.RKKMIXM_de61ffe8ee_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNGlobal_V12.5.3.0.RKKMIXM_de61ffe8ee_11.0.zip
-  filename: fw_haydn_miui_HAYDNGlobal_V12.5.3.0.RKKMIXM_de61ffe8ee_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-21.01.2022/fw_haydn_miui_HAYDNGlobal_V12.5.4.0.RKKMIXM_f9cb615663_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/haydn/fw_haydn_miui_HAYDNGlobal_V12.5.4.0.RKKMIXM_f9cb615663_11.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_V12.5.4.0.RKKMIXM_f9cb615663_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RKKMIXM
+    miui: V12.5.4.0.RKKMIXM
 - branch: stable
   date: '2022-01-20'
   downloads:
@@ -1879,15 +1879,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2021-12-03'
+  date: '2022-01-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-03.12.2021/fw_lime_miui_LIMEGlobal_V12.5.3.0.RJQMIXM_5e23b81214_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.5.3.0.RJQMIXM_5e23b81214_11.0.zip
-  filename: fw_lime_miui_LIMEGlobal_V12.5.3.0.RJQMIXM_5e23b81214_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-21.01.2022/fw_lime_miui_LIMEGlobal_V12.5.6.0.RJQMIXM_20f65d73cd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.5.6.0.RJQMIXM_20f65d73cd_11.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V12.5.6.0.RJQMIXM_20f65d73cd_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RJQMIXM
+    miui: V12.5.6.0.RJQMIXM
 - branch: stable
   date: '2021-12-07'
   downloads:
@@ -3469,15 +3469,15 @@
     android: '11.0'
     miui: V12.5.10.0.RKFINXM
 - branch: stable
-  date: '2022-01-14'
+  date: '2022-01-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-14.01.2022/fw_thyme_miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thyme/fw_thyme_miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
-  filename: fw_thyme_miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-21.01.2022/fw_thyme_miui_THYME_V13.0.1.0.SGACNXM_d2d86a3a8b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thyme/fw_thyme_miui_THYME_V13.0.1.0.SGACNXM_d2d86a3a8b_12.0.zip
+  filename: fw_thyme_miui_THYME_V13.0.1.0.SGACNXM_d2d86a3a8b_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.1.1.1.DEV
+    miui: V13.0.1.0.SGACNXM
 - branch: weekly
   date: '2022-01-21'
   downloads:
