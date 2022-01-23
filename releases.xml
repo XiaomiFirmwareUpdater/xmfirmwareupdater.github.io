@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 22 Jan 2022 03:21:12 +0900</pubDate>
+  <pubDate>Sun, 23 Jan 2022 13:11:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.0.18.0.QCDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Sun, 23 Jan 2022 13:11:37 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V13.0.9.0.SKACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/star</link>
@@ -100,11 +105,6 @@
     <title>Mi 10S (thyme) - 22.1.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
     <pubDate>Fri, 21 Jan 2022 18:51:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 21 Jan 2022 18:49:51 +0900</pubDate>
   </item>
     </channel>
 </rss>
