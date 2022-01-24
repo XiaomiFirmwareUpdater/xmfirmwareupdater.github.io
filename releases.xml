@@ -1,11 +1,46 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 24 Jan 2022 14:02:46 +0900</pubDate>
+  <pubDate>Mon, 24 Jan 2022 21:30:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10S (rosemary) - V12.5.15.0.RKLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Mon, 24 Jan 2022 21:30:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V12.5.7.0.RKIEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Mon, 24 Jan 2022 21:10:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge (pissarro) - V12.5.15.0.RKTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
+    <pubDate>Mon, 24 Jan 2022 20:46:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V13.0.5.0.RKXCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Mon, 24 Jan 2022 20:19:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.5.4.0.RJCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Mon, 24 Jan 2022 19:51:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro 5G (enuma) - V13.0.3.0.RKZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/enuma</link>
+    <pubDate>Mon, 24 Jan 2022 19:50:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.11.0.QCREUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Mon, 24 Jan 2022 19:19:02 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10/Redmi 10 Prime (selene) - V12.5.7.0.RKUCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
@@ -70,41 +105,6 @@
     <title>Redmi 10X 5G (atom) - 22.1.19</title>
     <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
     <pubDate>Fri, 21 Jan 2022 19:06:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Fri, 21 Jan 2022 19:05:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 5G (cannon) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
-    <pubDate>Fri, 21 Jan 2022 19:03:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Fri, 21 Jan 2022 19:03:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Ultra (cas) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
-    <pubDate>Fri, 21 Jan 2022 19:02:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge (pissarro) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
-    <pubDate>Fri, 21 Jan 2022 19:00:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
-    <pubDate>Fri, 21 Jan 2022 18:59:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - 22.1.19</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Fri, 21 Jan 2022 18:56:36 +0900</pubDate>
   </item>
     </channel>
 </rss>

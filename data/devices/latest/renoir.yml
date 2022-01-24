@@ -29,12 +29,12 @@
     android: '12.0'
     miui: 22.1.19
 - branch: stable
-  date: '2021-11-22'
+  date: '2022-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-22.11.2021/fw_renoir_miui_RENOIREEAGlobal_V12.5.6.0.RKIEUXM_9e679fe693_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIREEAGlobal_V12.5.6.0.RKIEUXM_9e679fe693_11.0.zip
-  filename: fw_renoir_miui_RENOIREEAGlobal_V12.5.6.0.RKIEUXM_9e679fe693_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-24.01.2022/fw_renoir_miui_RENOIREEAGlobal_V12.5.7.0.RKIEUXM_325e38b5bf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIREEAGlobal_V12.5.7.0.RKIEUXM_325e38b5bf_11.0.zip
+  filename: fw_renoir_miui_RENOIREEAGlobal_V12.5.7.0.RKIEUXM_325e38b5bf_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RKIEUXM
+    miui: V12.5.7.0.RKIEUXM

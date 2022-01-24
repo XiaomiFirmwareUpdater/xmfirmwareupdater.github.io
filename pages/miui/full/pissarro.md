@@ -52,7 +52,8 @@ permalink: /archive/miui/pissarro/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Weekly</td><td>Recovery</td><td>22.1.19</td><td>12.0</td><td>4.2 GB</td><td>2022-01-20</td><td><a href="/miui/pissarro/weekly/22.1.19/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.15.0.RKTCNXM</td><td>11.0</td><td>3.5 GB</td><td>2022-01-24</td><td><a href="/miui/pissarro/stable beta/V12.5.15.0.RKTCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Weekly</td><td>Recovery</td><td>22.1.19</td><td>12.0</td><td>4.2 GB</td><td>2022-01-20</td><td><a href="/miui/pissarro/weekly/22.1.19/">Download</a></td></tr>
 <tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKTINXM</td><td>11.0</td><td>2.9 GB</td><td>2022-01-19</td><td><a href="/miui/pissarro/stable beta/V12.5.2.0.RKTINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11i 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKTINFK</td><td>11.0</td><td>2.9 GB</td><td>2022-01-19</td><td><a href="/miui/pissarro/stable beta/V12.5.3.0.RKTINFK/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.14.0.RKTCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-12-25</td><td><a href="/miui/pissarro/stable/V12.5.14.0.RKTCNXM/">Download</a></td></tr>

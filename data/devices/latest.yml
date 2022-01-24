@@ -109,15 +109,15 @@
     android: '10.0'
     miui: V12.0.18.0.QCRMIXM
 - branch: stable
-  date: '2021-11-15'
+  date: '2022-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-15.11.2021/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.10.0.QCREUXM_d2c458055e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.10.0.QCREUXM_d2c458055e_10.0.zip
-  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.10.0.QCREUXM_d2c458055e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-24.01.2022/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.11.0.QCREUXM_0c5d54a69c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.11.0.QCREUXM_0c5d54a69c_10.0.zip
+  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.11.0.QCREUXM_0c5d54a69c_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.10.0.QCREUXM
+    miui: V12.0.11.0.QCREUXM
 - branch: stable
   date: '2021-11-22'
   downloads:
@@ -1109,15 +1109,15 @@
     android: '11.0'
     miui: 22.1.19
 - branch: stable
-  date: '2022-01-05'
+  date: '2022-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_enuma/releases/download/stable-05.01.2022/fw_enuma_miui_ENUMA_V13.0.2.0.RKZCNXM_3eb630ef02_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/enuma/fw_enuma_miui_ENUMA_V13.0.2.0.RKZCNXM_3eb630ef02_11.0.zip
-  filename: fw_enuma_miui_ENUMA_V13.0.2.0.RKZCNXM_3eb630ef02_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_enuma/releases/download/stable-24.01.2022/fw_enuma_miui_ENUMA_V13.0.3.0.RKZCNXM_b4e820a13b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/enuma/fw_enuma_miui_ENUMA_V13.0.3.0.RKZCNXM_b4e820a13b_11.0.zip
+  filename: fw_enuma_miui_ENUMA_V13.0.3.0.RKZCNXM_b4e820a13b_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V13.0.2.0.RKZCNXM
+    miui: V13.0.3.0.RKZCNXM
 - branch: weekly
   date: '2021-12-31'
   downloads:
@@ -1689,15 +1689,15 @@
     android: '6.0'
     miui: 8.11.22
 - branch: stable
-  date: '2021-10-25'
+  date: '2022-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-25.10.2021/fw_lancelot_miui_LANCELOTGlobal_V12.5.3.0.RJCMIXM_2d89589d10_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.5.3.0.RJCMIXM_2d89589d10_11.0.zip
-  filename: fw_lancelot_miui_LANCELOTGlobal_V12.5.3.0.RJCMIXM_2d89589d10_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-24.01.2022/fw_lancelot_miui_LANCELOTGlobal_V12.5.4.0.RJCMIXM_7496bf597e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.5.4.0.RJCMIXM_7496bf597e_11.0.zip
+  filename: fw_lancelot_miui_LANCELOTGlobal_V12.5.4.0.RJCMIXM_7496bf597e_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RJCMIXM
+    miui: V12.5.4.0.RJCMIXM
 - branch: stable
   date: '2021-11-19'
   downloads:
@@ -2269,15 +2269,15 @@
     android: '11.0'
     miui: V12.5.11.0.RKXMIXM
 - branch: stable
-  date: '2022-01-05'
+  date: '2022-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-05.01.2022/fw_nabu_miui_NABU_V13.0.3.0.RKXCNXM_67e35b8e10_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABU_V13.0.3.0.RKXCNXM_67e35b8e10_11.0.zip
-  filename: fw_nabu_miui_NABU_V13.0.3.0.RKXCNXM_67e35b8e10_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-24.01.2022/fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
+  filename: fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V13.0.3.0.RKXCNXM
+    miui: V13.0.5.0.RKXCNXM
 - branch: weekly
   date: '2021-12-31'
   downloads:
@@ -2719,15 +2719,15 @@
     android: '10.0'
     miui: V12.5.1.0.QCMINXM
 - branch: stable
-  date: '2021-12-25'
+  date: '2022-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-25.12.2021/fw_pissarro_miui_PISSARRO_V12.5.14.0.RKTCNXM_10012a679e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.14.0.RKTCNXM_10012a679e_11.0.zip
-  filename: fw_pissarro_miui_PISSARRO_V12.5.14.0.RKTCNXM_10012a679e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-24.01.2022/fw_pissarro_miui_PISSARRO_V12.5.15.0.RKTCNXM_a919e80e3e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.15.0.RKTCNXM_a919e80e3e_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.15.0.RKTCNXM_a919e80e3e_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.14.0.RKTCNXM
+    miui: V12.5.15.0.RKTCNXM
 - branch: weekly
   date: '2022-01-21'
   downloads:
@@ -2979,15 +2979,15 @@
     android: '12.0'
     miui: 22.1.19
 - branch: stable
-  date: '2021-11-22'
+  date: '2022-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-22.11.2021/fw_renoir_miui_RENOIREEAGlobal_V12.5.6.0.RKIEUXM_9e679fe693_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIREEAGlobal_V12.5.6.0.RKIEUXM_9e679fe693_11.0.zip
-  filename: fw_renoir_miui_RENOIREEAGlobal_V12.5.6.0.RKIEUXM_9e679fe693_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-24.01.2022/fw_renoir_miui_RENOIREEAGlobal_V12.5.7.0.RKIEUXM_325e38b5bf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIREEAGlobal_V12.5.7.0.RKIEUXM_325e38b5bf_11.0.zip
+  filename: fw_renoir_miui_RENOIREEAGlobal_V12.5.7.0.RKIEUXM_325e38b5bf_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RKIEUXM
+    miui: V12.5.7.0.RKIEUXM
 - branch: stable
   date: '2019-11-15'
   downloads:
@@ -3069,15 +3069,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2021-11-24'
+  date: '2022-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-24.11.2021/fw_rosemary_miui_ROSEMARYGlobal_V12.5.14.0.RKLMIXM_5834d5ad4f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V12.5.14.0.RKLMIXM_5834d5ad4f_11.0.zip
-  filename: fw_rosemary_miui_ROSEMARYGlobal_V12.5.14.0.RKLMIXM_5834d5ad4f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-24.01.2022/fw_rosemary_miui_ROSEMARYGlobal_V12.5.15.0.RKLMIXM_8d2672bb45_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V12.5.15.0.RKLMIXM_8d2672bb45_11.0.zip
+  filename: fw_rosemary_miui_ROSEMARYGlobal_V12.5.15.0.RKLMIXM_8d2672bb45_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.14.0.RKLMIXM
+    miui: V12.5.15.0.RKLMIXM
 - branch: stable
   date: '2021-12-17'
   downloads:
