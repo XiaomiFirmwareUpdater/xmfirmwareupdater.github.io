@@ -969,15 +969,15 @@
     android: '10.0'
     miui: V12.0.18.0.QCDMIXM
 - branch: stable
-  date: '2021-12-29'
+  date: '2022-01-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-29.12.2021/fw_dandelion_miui_DANDELION_V12.5.4.0.RCDCNXM_9731c33a46_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.5.4.0.RCDCNXM_9731c33a46_11.0.zip
-  filename: fw_dandelion_miui_DANDELION_V12.5.4.0.RCDCNXM_9731c33a46_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-25.01.2022/fw_dandelion_miui_DANDELION_V12.5.5.0.RCDCNXM_f22de175bb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.5.5.0.RCDCNXM_f22de175bb_11.0.zip
+  filename: fw_dandelion_miui_DANDELION_V12.5.5.0.RCDCNXM_f22de175bb_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RCDCNXM
+    miui: V12.5.5.0.RCDCNXM
 - branch: stable
   date: '2021-11-22'
   downloads:
@@ -2199,15 +2199,15 @@
     android: '11.0'
     miui: V12.5.4.0.RKGMIXM
 - branch: stable
-  date: '2021-11-26'
+  date: '2022-01-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-26.11.2021/fw_mojito_miui_MOJITOEEAGlobal_V12.5.3.0.RKGEUXM_cc44037a17_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOEEAGlobal_V12.5.3.0.RKGEUXM_cc44037a17_11.0.zip
-  filename: fw_mojito_miui_MOJITOEEAGlobal_V12.5.3.0.RKGEUXM_cc44037a17_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-25.01.2022/fw_mojito_miui_MOJITOEEAGlobal_V12.5.6.0.RKGEUXM_dd377d8d70_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOEEAGlobal_V12.5.6.0.RKGEUXM_dd377d8d70_11.0.zip
+  filename: fw_mojito_miui_MOJITOEEAGlobal_V12.5.6.0.RKGEUXM_dd377d8d70_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RKGEUXM
+    miui: V12.5.6.0.RKGEUXM
 - branch: stable
   date: '2021-11-15'
   downloads:

@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2022-01-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-25.01.2022/fw_dandelion_miui_DANDELION_V12.5.5.0.RCDCNXM_f22de175bb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.5.5.0.RCDCNXM_f22de175bb_11.0.zip
+  filename: fw_dandelion_miui_DANDELION_V12.5.5.0.RCDCNXM_f22de175bb_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RCDCNXM
+- branch: stable
   date: '2022-01-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-23.01.2022/fw_dandelion_miui_DANDELIONGlobal_V12.0.18.0.QCDMIXM_7f0f886e7e_10.0.zip
