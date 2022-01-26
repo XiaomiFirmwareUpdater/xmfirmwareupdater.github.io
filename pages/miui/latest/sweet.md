@@ -52,9 +52,9 @@ permalink: /miui/sweet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKFEUXM</td><td>11.0</td><td>5.7 GB</td><td>2021-10-23</td><td><a href="/miui/sweet/stable/V12.5.6.0.RKFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKFEUXM</td><td>11.0</td><td>3.2 GB</td><td>2021-10-29</td><td><a href="/miui/sweet/stable/V12.5.6.0.RKFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RKFEUXM</td><td>11.0</td><td>3.2 GB</td><td>2022-01-17</td><td><a href="/miui/sweet/stable beta/V12.5.7.0.RKFEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RKFEUXM</td><td>11.0</td><td>5.7 GB</td><td>2022-01-05</td><td><a href="/miui/sweet/stable/V12.5.7.0.RKFEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RKFEUXM</td><td>11.0</td><td>3.2 GB</td><td>2022-01-17</td><td><a href="/miui/sweet/stable/V12.5.7.0.RKFEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKFEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-06-30</td><td><a href="/miui/sweet/stable beta/V12.5.3.0.RKFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.9.0.RKFMIXM</td><td>11.0</td><td>5.7 GB</td><td>2021-12-03</td><td><a href="/miui/sweet/stable/V12.5.9.0.RKFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RKFMIXM</td><td>11.0</td><td>3.1 GB</td><td>2021-12-10</td><td><a href="/miui/sweet/stable/V12.5.9.0.RKFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKFIDXM</td><td>11.0</td><td>4.9 GB</td><td>2021-11-16</td><td><a href="/miui/sweet/stable/V12.5.4.0.RKFIDXM/">Download</a></td></tr>
@@ -65,9 +65,9 @@ permalink: /miui/sweet/
 <tr><td>Redmi Note 10 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKFTRXM</td><td>11.0</td><td>3.1 GB</td><td>2021-12-17</td><td><a href="/miui/sweet/stable/V12.5.6.0.RKFTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKFTWXM</td><td>11.0</td><td>4.2 GB</td><td>2021-11-22</td><td><a href="/miui/sweet/stable/V12.5.2.0.RKFTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKFTWXM</td><td>11.0</td><td>3.1 GB</td><td>2021-11-30</td><td><a href="/miui/sweet/stable/V12.5.2.0.RKFTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro / Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V12.5.9.0.RKFINXM</td><td>11.0</td><td>3.7 GB</td><td>2021-10-30</td><td><a href="/miui/sweetin/stable/V12.5.9.0.RKFINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro / Pro Max India</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RKFINXM</td><td>11.0</td><td>3.0 GB</td><td>2021-11-11</td><td><a href="/miui/sweetin/stable/V12.5.9.0.RKFINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro / Pro Max India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.10.0.RKFINXM</td><td>11.0</td><td>3.0 GB</td><td>2022-01-13</td><td><a href="/miui/sweetin/stable beta/V12.5.10.0.RKFINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro / Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V12.5.10.0.RKFINXM</td><td>11.0</td><td>3.7 GB</td><td>2022-01-06</td><td><a href="/miui/sweetin/stable/V12.5.10.0.RKFINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro / Pro Max India</td><td>Stable</td><td>Recovery</td><td>V12.5.10.0.RKFINXM</td><td>11.0</td><td>3.0 GB</td><td>2022-01-13</td><td><a href="/miui/sweetin/stable/V12.5.10.0.RKFINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro / Pro Max India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKFINXM</td><td>11.0</td><td>2.9 GB</td><td>2021-05-26</td><td><a href="/miui/sweetin/stable beta/V12.5.2.0.RKFINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

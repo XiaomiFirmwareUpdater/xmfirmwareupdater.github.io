@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 26 Jan 2022 13:12:24 +0900</pubDate>
+  <pubDate>Thu, 27 Jan 2022 01:48:30 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi A3 (laurel) - V12.0.16.0.RFQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
+    <pubDate>Thu, 27 Jan 2022 01:48:30 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9/9 Activ (cattail) - V12.0.15.0.QCTINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.6.0.RJQCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Sat, 22 Jan 2022 01:36:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X Pro (bomb) - V12.5.7.0.RJLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
-    <pubDate>Sat, 22 Jan 2022 01:35:24 +0900</pubDate>
   </item>
     </channel>
 </rss>
