@@ -1,6 +1,5 @@
 google.com, pub-3257146945160733, DIRECT, f08c47fec0942fa0 
 #VLI
-#VLI
 google.com, pub-3960095709930134, RESELLER, f08c47fec0942fa0
 google.com, pub-8278416939377896, DIRECT, f08c47fec0942fa0
 pubmatic.com, 161027, RESELLER, 5d62403b186f2ace
@@ -265,6 +264,39 @@ rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
 smartadserver.com, 3117, RESELLER
 startapp.com, smt, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
+smilewanted.com, 3583, RESELLER
+improvedigital.com, 1010, RESELLER
+spotxchange.com, 178357, RESELLER, 7842df1d2fe2db34
+spotx.tv, 178357, RESELLER, 7842df1d2fe2db34
+appnexus.com, 10040, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158810, RESELLER, 5d62403b186f2ace
+indexexchange.com, 193216, DIRECT, 50b1c356f2c5c8fc
+rubiconproject.com, 16114, DIRECT, 0bfd66d529a55807
+smartadserver.com, 2491, RESELLER
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 4016, RESELLER
+smartadserver.com, 4012, RESELLER
+smartadserver.com, 4071, RESELLER
+smartadserver.com, 4073, RESELLER
+smartadserver.com, 4074, RESELLER
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
+rhythmone.com, 2564526802, RESELLER, a670c89d4a324e47
+xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
+verve.com, 15503, RESELLER, 0c8f5958fc2d6270
+loopme.com, 11013, DIRECT, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+connectad.io, 204, DIRECT, 85ac85a30c93b3e5
+emxdgt.com, 1701, DIRECT, 1e1d41537f7cad7f
+onetag.com, 5d4e109247a89f6, DIRECT
+openx.com, 537145117, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
+appnexus.com, 2579, RESELLER, f5ab79cb980f11d1
+quantum-advertising.com, 6222, RESELLER
 lijit.com, 278426-eb, DIRECT, fafdf38b16bf6b2b
 appnexus.com, 1360, RESELLER, f5ab79cb980f11d1
 gumgum.com, 11645, RESELLER, ffdef49475d318a9
