@@ -1,11 +1,51 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 27 Jan 2022 01:48:30 +0900</pubDate>
+  <pubDate>Fri, 28 Jan 2022 02:11:05 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 (mojito) - V12.5.5.0.RKGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
+    <pubDate>Fri, 28 Jan 2022 02:11:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V13.0.2.0.SKPCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Fri, 28 Jan 2022 01:50:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.10.0.RJSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Thu, 27 Jan 2022 19:16:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.0.17.0.QCDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Thu, 27 Jan 2022 19:13:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.4.0.RJOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Thu, 27 Jan 2022 13:23:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.4.0.RJSINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Thu, 27 Jan 2022 13:21:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.0.21.0.QCDINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Thu, 27 Jan 2022 13:19:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11S/POCO M4 Pro 4G (fleur) - V13.0.1.0.RKEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
+    <pubDate>Thu, 27 Jan 2022 07:28:32 +0900</pubDate>
+  </item>
     <item>
     <title>Mi A3 (laurel) - V12.0.16.0.RFQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
@@ -52,7 +92,7 @@
     <pubDate>Mon, 24 Jan 2022 21:10:30 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge (pissarro) - V12.5.15.0.RKTCNXM</title>
+    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V12.5.15.0.RKTCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
     <pubDate>Mon, 24 Jan 2022 20:46:18 +0900</pubDate>
   </item>
@@ -65,46 +105,6 @@
     <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.5.4.0.RJCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
     <pubDate>Mon, 24 Jan 2022 19:51:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro 5G (enuma) - V13.0.3.0.RKZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/enuma</link>
-    <pubDate>Mon, 24 Jan 2022 19:50:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.11.0.QCREUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Mon, 24 Jan 2022 19:19:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 Prime (selene) - V12.5.7.0.RKUCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Mon, 24 Jan 2022 14:02:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V12.5.8.0.RKOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
-    <pubDate>Mon, 24 Jan 2022 13:40:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.0.18.0.QCDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Sun, 23 Jan 2022 13:11:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V13.0.9.0.SKACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Sat, 22 Jan 2022 03:21:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12X (psyche) - V13.0.12.0.RLDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
-    <pubDate>Sat, 22 Jan 2022 01:59:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.6.0.RJQCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Sat, 22 Jan 2022 01:36:39 +0900</pubDate>
   </item>
     </channel>
 </rss>

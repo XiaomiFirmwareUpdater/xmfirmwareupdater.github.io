@@ -11058,6 +11058,16 @@
   versions:
     android: '8.0'
     miui: 8.4.12
+- branch: stable
+  date: '2022-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-27.01.2022/fw_chopin_miui_CHOPIN_V13.0.2.0.SKPCNXM_8510fbcc8d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/chopin/fw_chopin_miui_CHOPIN_V13.0.2.0.SKPCNXM_8510fbcc8d_12.0.zip
+  filename: fw_chopin_miui_CHOPIN_V13.0.2.0.SKPCNXM_8510fbcc8d_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SKPCNXM
 - branch: weekly
   date: '2022-01-21'
   downloads:
@@ -13988,6 +13998,26 @@
   versions:
     android: '10.0'
     miui: V11.0.21.0.QDLMIXM
+- branch: stable
+  date: '2022-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-27.01.2022/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.17.0.QCDEUXM_75219df0a3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.17.0.QCDEUXM_75219df0a3_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.17.0.QCDEUXM_75219df0a3_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.17.0.QCDEUXM
+- branch: stable
+  date: '2022-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-27.01.2022/fw_dandelion_miui_DANDELIONINGlobal_V12.0.21.0.QCDINXM_4f9d33a797_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.21.0.QCDINXM_4f9d33a797_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.21.0.QCDINXM_4f9d33a797_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.21.0.QCDINXM
 - branch: stable
   date: '2022-01-25'
   downloads:
@@ -17458,6 +17488,36 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QJXINXM
+- branch: stable
+  date: '2022-01-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-27.01.2022/fw_fleur_miui_FLEUREEAGlobal_V13.0.1.0.RKEEUXM_fc7808e89b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEUREEAGlobal_V13.0.1.0.RKEEUXM_fc7808e89b_11.0.zip
+  filename: fw_fleur_miui_FLEUREEAGlobal_V13.0.1.0.RKEEUXM_fc7808e89b_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.1.0.RKEEUXM
+- branch: stable
+  date: '2022-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-27.01.2022/fw_gauguin_miui_GAUGUINEEAGlobal_V12.5.10.0.RJSEUXM_fd3b8a88e6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V12.5.10.0.RJSEUXM_fd3b8a88e6_11.0.zip
+  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V12.5.10.0.RJSEUXM_fd3b8a88e6_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.10.0.RJSEUXM
+- branch: stable
+  date: '2022-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-27.01.2022/fw_gauguin_miui_GAUGUININGlobal_V12.5.4.0.RJSINXM_c0dcef4831_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUININGlobal_V12.5.4.0.RJSINXM_c0dcef4831_11.0.zip
+  filename: fw_gauguin_miui_GAUGUININGlobal_V12.5.4.0.RJSINXM_c0dcef4831_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJSINXM
 - branch: weekly
   date: '2022-01-21'
   downloads:
@@ -26609,6 +26669,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2022-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-27.01.2022/fw_merlin_miui_MERLININGlobal_V12.5.4.0.RJOINXM_e0cb334a04_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLININGlobal_V12.5.4.0.RJOINXM_e0cb334a04_11.0.zip
+  filename: fw_merlin_miui_MERLININGlobal_V12.5.4.0.RJOINXM_e0cb334a04_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJOINXM
+- branch: stable
   date: '2022-01-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-19.01.2022/fw_merlin_miui_MERLINGlobal_V12.5.3.0.RJOMIXM_7d989a6c3a_11.0.zip
@@ -27228,6 +27298,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2022-01-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-27.01.2022/fw_mojito_miui_MOJITOINGlobal_V12.5.5.0.RKGINXM_2078576e5b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOINGlobal_V12.5.5.0.RKGINXM_2078576e5b_11.0.zip
+  filename: fw_mojito_miui_MOJITOINGlobal_V12.5.5.0.RKGINXM_2078576e5b_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKGINXM
 - branch: stable
   date: '2022-01-25'
   downloads:

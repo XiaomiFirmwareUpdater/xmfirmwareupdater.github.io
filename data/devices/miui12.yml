@@ -5492,25 +5492,25 @@
   codename: pissarro
   date: '2021-12-10'
   download: https://bigota.d.miui.com/21.12.8/miui_PISSARRO_21.12.8_86fd07cb82_11.0.zip
-  name: Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: 21.12.8
 - android: '11.0'
   codename: pissarro
   date: '2021-12-04'
   download: https://bigota.d.miui.com/21.12.2/miui_PISSARRO_21.12.2_7ad7f4e877_11.0.zip
-  name: Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: 21.12.2
 - android: '11.0'
   codename: pissarro
   date: '2021-11-26'
   download: https://bigota.d.miui.com/21.11.24/miui_PISSARRO_21.11.24_f4729a3078_11.0.zip
-  name: Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: 21.11.24
 - android: '11.0'
   codename: pissarro
   date: '2021-11-19'
   download: https://bigota.d.miui.com/21.11.17/miui_PISSARRO_21.11.17_2789d9f808_11.0.zip
-  name: Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: 21.11.17
 - android: '10.0'
   codename: platina

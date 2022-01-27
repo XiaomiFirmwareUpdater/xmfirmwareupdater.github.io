@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge (pissarro) MIUI Downloads
+title: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) MIUI Downloads
 layout: download
-name: Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge
+name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
 codename: pissarro
 permalink: /archive/miui/pissarro/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/pissarro/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/pissarro/">Redmi Note 11 Pro/Pro+/Xiaomi 11i 5G/Hypercharge</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/pissarro/">Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
