@@ -53,6 +53,7 @@ permalink: /archive/miui/rosemary/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 10S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RKLTRXM</td><td>11.0</td><td>2.7 GB</td><td>2022-01-26</td><td><a href="/miui/rosemary/stable beta/V12.5.6.0.RKLTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RKLIDXM</td><td>11.0</td><td>2.7 GB</td><td>2022-01-26</td><td><a href="/miui/rosemary/stable beta/V12.5.7.0.RKLIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RKLRUXM</td><td>11.0</td><td>2.7 GB</td><td>2022-01-25</td><td><a href="/miui/rosemary/stable beta/V12.5.7.0.RKLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.15.0.RKLMIXM</td><td>11.0</td><td>2.7 GB</td><td>2022-01-20</td><td><a href="/miui/rosemary/stable beta/V12.5.15.0.RKLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKLTWXM</td><td>11.0</td><td>2.7 GB</td><td>2021-12-23</td><td><a href="/miui/rosemary/stable/V12.5.5.0.RKLTWXM/">Download</a></td></tr>
