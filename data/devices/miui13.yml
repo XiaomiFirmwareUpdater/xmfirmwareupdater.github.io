@@ -138,6 +138,12 @@
   version: V13.0.0.1.1.DEV
 - android: '12.0'
   codename: cupid
+  date: '2022-01-29'
+  download: https://bigota.d.miui.com/V13.0.23.0.SLCCNXM/fw_cupid_miui_CUPID_V13.0.23.0.SLCCNXM_426b252881_12.0.zip
+  name: Xiaomi 12
+  version: V13.0.23.0.SLCCNXM
+- android: '12.0'
+  codename: cupid
   date: '2022-01-19'
   download: https://bigota.d.miui.com/V13.0.21.0.SLCCNXM/fw_cupid_miui_CUPID_V13.0.21.0.SLCCNXM_f1aba865ff_12.0.zip
   name: Xiaomi 12
@@ -396,6 +402,12 @@
   version: 22.1.19
 - android: '12.0'
   codename: venus
+  date: '2022-01-29'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKBCNXM/fw_venus_miui_VENUS_V13.0.6.0.SKBCNXM_176af7a83a_12.0.zip
+  name: Mi 11
+  version: V13.0.6.0.SKBCNXM
+- android: '12.0'
+  codename: venus
   date: '2022-01-21'
   download: https://bigota.d.miui.com/22.1.19/fw_venus_miui_VENUSPRE_22.1.19_16d65348d1_12.0.zip
   name: Mi 11
@@ -418,6 +430,12 @@
   download: https://bigota.d.miui.com/V13.0.4.1.1.DEV/fw_venus_miui_VENUS_V13.0.4.1.1.DEV_3ed0e576a6_12.0.zip
   name: Mi 11
   version: V13.0.4.1.1.DEV
+- android: '12.0'
+  codename: zeus
+  date: '2022-01-29'
+  download: https://bigota.d.miui.com/V13.0.23.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.23.0.SLBCNXM_878e12bc9c_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.23.0.SLBCNXM
 - android: '12.0'
   codename: zeus
   date: '2022-01-19'

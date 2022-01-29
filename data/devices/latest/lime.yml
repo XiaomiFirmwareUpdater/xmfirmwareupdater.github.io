@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-01-21'
+  date: '2022-01-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-21.01.2022/fw_lime_miui_LIMEGlobal_V12.5.6.0.RJQMIXM_20f65d73cd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.5.6.0.RJQMIXM_20f65d73cd_11.0.zip
-  filename: fw_lime_miui_LIMEGlobal_V12.5.6.0.RJQMIXM_20f65d73cd_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-29.01.2022/fw_lime_miui_LIMEGlobal_V12.5.7.0.RJQMIXM_2c56098be8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.5.7.0.RJQMIXM_2c56098be8_11.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V12.5.7.0.RJQMIXM_2c56098be8_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RJQMIXM
+    miui: V12.5.7.0.RJQMIXM
 - branch: stable
   date: '2022-01-21'
   downloads:
@@ -29,15 +29,15 @@
     android: '11.0'
     miui: 22.1.19
 - branch: stable
-  date: '2021-12-23'
+  date: '2022-01-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-23.12.2021/fw_lime_miui_LIMEEEAGlobal_V12.5.2.0.RJQEUXM_8637252886_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.5.2.0.RJQEUXM_8637252886_11.0.zip
-  filename: fw_lime_miui_LIMEEEAGlobal_V12.5.2.0.RJQEUXM_8637252886_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-29.01.2022/fw_lime_miui_LIMEEEAGlobal_V12.5.5.0.RJQEUXM_5cb72377c9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.5.5.0.RJQEUXM_5cb72377c9_11.0.zip
+  filename: fw_lime_miui_LIMEEEAGlobal_V12.5.5.0.RJQEUXM_5cb72377c9_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RJQEUXM
+    miui: V12.5.5.0.RJQEUXM
 - branch: stable
   date: '2021-12-14'
   downloads:
