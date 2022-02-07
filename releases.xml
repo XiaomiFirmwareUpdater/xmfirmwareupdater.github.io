@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 06 Feb 2022 01:13:30 +0900</pubDate>
+  <pubDate>Mon, 07 Feb 2022 13:59:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.6.0.RFDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
+    <pubDate>Mon, 07 Feb 2022 13:59:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Note 10 Lite (toco) - V12.5.6.0.RFNEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
+    <pubDate>Mon, 07 Feb 2022 13:56:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V13.0.7.0.SKICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Mon, 07 Feb 2022 13:53:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.5.0.RJQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 07 Feb 2022 13:29:59 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.5.2.0.RCDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.10.0.RJSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
     <pubDate>Thu, 27 Jan 2022 19:16:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.0.17.0.QCDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Thu, 27 Jan 2022 19:13:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.4.0.RJOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Thu, 27 Jan 2022 13:23:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.4.0.RJSINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Thu, 27 Jan 2022 13:21:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.0.21.0.QCDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Thu, 27 Jan 2022 13:19:04 +0900</pubDate>
   </item>
     </channel>
 </rss>

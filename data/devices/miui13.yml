@@ -318,6 +318,12 @@
   version: V13.0.10.0.RLDCNXM
 - android: '12.0'
   codename: renoir
+  date: '2022-02-07'
+  download: https://bigota.d.miui.com/V13.0.7.0.SKICNXM/fw_renoir_miui_RENOIR_V13.0.7.0.SKICNXM_401be18e6f_12.0.zip
+  name: Mi 11 Lite 5G
+  version: V13.0.7.0.SKICNXM
+- android: '12.0'
+  codename: renoir
   date: '2022-01-21'
   download: https://bigota.d.miui.com/22.1.19/fw_renoir_miui_RENOIRPRE_22.1.19_898881fd75_12.0.zip
   name: Mi 11 Lite 5G

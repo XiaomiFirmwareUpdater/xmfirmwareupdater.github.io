@@ -1929,15 +1929,15 @@
     android: '11.0'
     miui: V12.5.5.0.RJQEUXM
 - branch: stable
-  date: '2021-12-14'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-14.12.2021/fw_lime_miui_LIMEINGlobal_V12.5.4.0.RJQINXM_ab034af4aa_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEINGlobal_V12.5.4.0.RJQINXM_ab034af4aa_11.0.zip
-  filename: fw_lime_miui_LIMEINGlobal_V12.5.4.0.RJQINXM_ab034af4aa_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-07.02.2022/fw_lime_miui_LIMEINGlobal_V12.5.5.0.RJQINXM_a31626e818_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEINGlobal_V12.5.5.0.RJQINXM_a31626e818_11.0.zip
+  filename: fw_lime_miui_LIMEINGlobal_V12.5.5.0.RJQINXM_a31626e818_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RJQINXM
+    miui: V12.5.5.0.RJQINXM
 - branch: stable
   date: '2022-01-10'
   downloads:
@@ -2969,15 +2969,15 @@
     android: '11.0'
     miui: V12.5.7.0.RKIMIXM
 - branch: stable
-  date: '2022-01-08'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-08.01.2022/fw_renoir_miui_RENOIR_V13.0.4.0.SKICNXM_40f0bd0d21_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/renoir/fw_renoir_miui_RENOIR_V13.0.4.0.SKICNXM_40f0bd0d21_12.0.zip
-  filename: fw_renoir_miui_RENOIR_V13.0.4.0.SKICNXM_40f0bd0d21_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-07.02.2022/fw_renoir_miui_RENOIR_V13.0.7.0.SKICNXM_401be18e6f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/renoir/fw_renoir_miui_RENOIR_V13.0.7.0.SKICNXM_401be18e6f_12.0.zip
+  filename: fw_renoir_miui_RENOIR_V13.0.7.0.SKICNXM_401be18e6f_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SKICNXM
+    miui: V13.0.7.0.SKICNXM
 - branch: weekly
   date: '2022-01-21'
   downloads:
@@ -3529,25 +3529,25 @@
     android: '11.0'
     miui: V12.5.7.0.RFNMIXM
 - branch: stable
-  date: '2021-12-13'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-13.12.2021/fw_toco_miui_TOCOEEAGlobal_V12.5.5.0.RFNEUXM_e7150ea534_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.5.5.0.RFNEUXM_e7150ea534_11.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V12.5.5.0.RFNEUXM_e7150ea534_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-07.02.2022/fw_toco_miui_TOCOEEAGlobal_V12.5.6.0.RFNEUXM_6228fd48f2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.5.6.0.RFNEUXM_6228fd48f2_11.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.5.6.0.RFNEUXM_6228fd48f2_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RFNEUXM
+    miui: V12.5.6.0.RFNEUXM
 - branch: stable
-  date: '2021-11-24'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-24.11.2021/fw_tucana_miui_TUCANAGlobal_V12.5.5.0.RFDMIXM_d34d306287_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.5.5.0.RFDMIXM_d34d306287_11.0.zip
-  filename: fw_tucana_miui_TUCANAGlobal_V12.5.5.0.RFDMIXM_d34d306287_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-07.02.2022/fw_tucana_miui_TUCANAGlobal_V12.5.6.0.RFDMIXM_a598dd9cc8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANAGlobal_V12.5.6.0.RFDMIXM_a598dd9cc8_11.0.zip
+  filename: fw_tucana_miui_TUCANAGlobal_V12.5.6.0.RFDMIXM_a598dd9cc8_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RFDMIXM
+    miui: V12.5.6.0.RFDMIXM
 - branch: stable
   date: '2022-01-11'
   downloads:
