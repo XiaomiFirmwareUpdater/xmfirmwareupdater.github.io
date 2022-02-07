@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 07 Feb 2022 13:59:23 +0900</pubDate>
+  <pubDate>Mon, 07 Feb 2022 20:37:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V12.5.8.0.RJBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Mon, 07 Feb 2022 20:37:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>MIX 4 (odin) - V13.0.4.0.SKMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
+    <pubDate>Mon, 07 Feb 2022 20:33:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V13.0.1.0.RKXMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Mon, 07 Feb 2022 20:03:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V13.0.6.0.RKYCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
+    <pubDate>Mon, 07 Feb 2022 19:41:55 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V12.5.6.0.RFDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -85,26 +105,6 @@
     <title>Redmi 9C NFC (angelican) - V12.0.11.0.QCSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
     <pubDate>Fri, 28 Jan 2022 13:22:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO C3/POCO C31 (angelicain) - V12.0.16.0.QCRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
-    <pubDate>Fri, 28 Jan 2022 13:20:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 (mojito) - V12.5.5.0.RKGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Fri, 28 Jan 2022 02:11:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V13.0.2.0.SKPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
-    <pubDate>Fri, 28 Jan 2022 01:50:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.10.0.RJSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Thu, 27 Jan 2022 19:16:28 +0900</pubDate>
   </item>
     </channel>
 </rss>

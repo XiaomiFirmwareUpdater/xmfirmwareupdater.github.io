@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2022-02-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-07.02.2022/fw_umi_miui_UMIEEAGlobal_V12.5.8.0.RJBEUXM_09e815acf9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.5.8.0.RJBEUXM_09e815acf9_11.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.5.8.0.RJBEUXM_09e815acf9_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RJBEUXM
 - branch: weekly
   date: '2022-01-21'
   downloads:

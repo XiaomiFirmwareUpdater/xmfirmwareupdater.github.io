@@ -1089,15 +1089,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2022-01-05'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_elish/releases/download/stable-05.01.2022/fw_elish_miui_ELISH_V13.0.4.0.RKYCNXM_115ff1cd79_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/elish/fw_elish_miui_ELISH_V13.0.4.0.RKYCNXM_115ff1cd79_11.0.zip
-  filename: fw_elish_miui_ELISH_V13.0.4.0.RKYCNXM_115ff1cd79_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_elish/releases/download/stable-07.02.2022/fw_elish_miui_ELISH_V13.0.6.0.RKYCNXM_141e846f06_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/elish/fw_elish_miui_ELISH_V13.0.6.0.RKYCNXM_141e846f06_11.0.zip
+  filename: fw_elish_miui_ELISH_V13.0.6.0.RKYCNXM_141e846f06_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V13.0.4.0.RKYCNXM
+    miui: V13.0.6.0.RKYCNXM
 - branch: weekly
   date: '2022-01-21'
   downloads:
@@ -2269,15 +2269,15 @@
     android: '11.0'
     miui: V12.5.6.0.RJIEUXM
 - branch: stable
-  date: '2021-11-12'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-12.11.2021/fw_nabu_miui_NABUGlobal_V12.5.11.0.RKXMIXM_2907f02cc8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABUGlobal_V12.5.11.0.RKXMIXM_2907f02cc8_11.0.zip
-  filename: fw_nabu_miui_NABUGlobal_V12.5.11.0.RKXMIXM_2907f02cc8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-07.02.2022/fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
+  filename: fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.11.0.RKXMIXM
+    miui: V13.0.1.0.RKXMIXM
 - branch: stable
   date: '2022-01-24'
   downloads:
@@ -2389,15 +2389,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2022-01-08'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-08.01.2022/fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/odin/fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
-  filename: fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-07.02.2022/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/odin/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
+  filename: fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SKMCNXM
+    miui: V13.0.4.0.SKMCNXM
 - branch: weekly
   date: '2022-01-21'
   downloads:
@@ -3709,15 +3709,15 @@
     android: '12.0'
     miui: 22.1.19
 - branch: stable
-  date: '2021-12-13'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-13.12.2021/fw_umi_miui_UMIEEAGlobal_V12.5.7.0.RJBEUXM_d13bce9ab5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.5.7.0.RJBEUXM_d13bce9ab5_11.0.zip
-  filename: fw_umi_miui_UMIEEAGlobal_V12.5.7.0.RJBEUXM_d13bce9ab5_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-07.02.2022/fw_umi_miui_UMIEEAGlobal_V12.5.8.0.RJBEUXM_09e815acf9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.5.8.0.RJBEUXM_09e815acf9_11.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.5.8.0.RJBEUXM_09e815acf9_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RJBEUXM
+    miui: V12.5.8.0.RJBEUXM
 - branch: stable
   date: '2021-11-25'
   downloads:
