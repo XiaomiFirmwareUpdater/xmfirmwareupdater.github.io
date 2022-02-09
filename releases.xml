@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 07 Feb 2022 20:37:19 +0900</pubDate>
+  <pubDate>Wed, 09 Feb 2022 19:18:49 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 8A Pro/Redmi 8A Dual (olivewood) - V12.5.6.0.QCQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/olivewood</link>
+    <pubDate>Wed, 09 Feb 2022 19:18:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.8.0.RJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Wed, 09 Feb 2022 19:17:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro Max (excalibur) - V12.5.5.0.RJXINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/excalibur</link>
+    <pubDate>Wed, 09 Feb 2022 19:16:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.20.0.QCRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Wed, 09 Feb 2022 19:15:13 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V12.5.8.0.RJBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.7.0.RJQMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Sat, 29 Jan 2022 20:14:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.5.0.RJQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Sat, 29 Jan 2022 20:10:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V13.0.23.0.SLCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Sat, 29 Jan 2022 20:07:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V12.5.8.0.RJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Fri, 28 Jan 2022 19:26:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C NFC (angelican) - V12.0.11.0.QCSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
-    <pubDate>Fri, 28 Jan 2022 13:22:31 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -54,7 +54,7 @@ permalink: /miui/excalibur/
                 <tbody>
                 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RJXINXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-10</td><td><a href="/miui/excalibur/stable/V12.5.3.0.RJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJXINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-11-16</td><td><a href="/miui/excalibur/stable/V12.5.3.0.RJXINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro Max India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QJXINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-12-16</td><td><a href="/miui/excalibur/stable beta/V12.0.2.0.QJXINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Max India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RJXINXM</td><td>11.0</td><td>2.6 GB</td><td>2022-02-07</td><td><a href="/miui/excalibur/stable beta/V12.5.5.0.RJXINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
