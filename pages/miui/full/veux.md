@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 11 Pro 5G (veux) MIUI Downloads
+title: Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) MIUI Downloads
 layout: download
-name: Redmi Note 11 Pro 5G
+name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
 codename: veux
 permalink: /archive/miui/veux/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/veux/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/veux/">Redmi Note 11 Pro 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/veux/">Redmi Note 11E Pro/Redmi Note 11 Pro 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

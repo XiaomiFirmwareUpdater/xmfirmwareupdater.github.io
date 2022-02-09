@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) MIUI Downloads
+title: Redmi Note 11 NFC (spesn) MIUI Downloads
 layout: download
-name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
-codename: veux
-permalink: /miui/veux/
+name: Redmi Note 11 NFC
+codename: spesn
+permalink: /miui/spesn/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/veux/">Redmi Note 11E Pro/Redmi Note 11 Pro 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/spesn/">Redmi Note 11 NFC</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/veux/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/veux/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/veux/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/veux/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/spesn/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/spesn/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/spesn/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,7 @@ permalink: /miui/veux/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.RKCMIXM</td><td>11.0</td><td>342 Bytes</td><td>2022-01-23</td><td><a href="/miui/veux/stable/V13.0.2.0.RKCMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.RKCMIXM</td><td>11.0</td><td>342 Bytes</td><td>2022-01-23</td><td><a href="/miui/veux/stable/V13.0.2.0.RKCMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RKCMIXM</td><td>11.0</td><td>3.0 GB</td><td>None</td><td><a href="/miui/veux/stable/V13.0.2.0.RKCMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RKCMIXM</td><td>11.0</td><td>3.0 GB</td><td>None</td><td><a href="/miui/veux/stable/V13.0.2.0.RKCMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.RGKRUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-02-08</td><td><a href="/miui/spesn/stable beta/V13.0.2.0.RGKRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

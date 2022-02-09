@@ -5239,6 +5239,16 @@
     android: '8.1'
     miui: V9.6.14.0.OEJMIFD
 - branch: stable
+  date: '2022-02-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-09.02.2022/fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/biloba/fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SCUMIXM
+- branch: stable
   date: '2021-12-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-20.12.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.7.0.RCUEUXM_ee2aae60a1_11.0.zip
@@ -22429,6 +22439,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2022-02-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-09.02.2022/fw_lancelot_miui_LANCELOT_V12.5.5.0.RJCCNXM_54a2598d57_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOT_V12.5.5.0.RJCCNXM_54a2598d57_11.0.zip
+  filename: fw_lancelot_miui_LANCELOT_V12.5.5.0.RJCCNXM_54a2598d57_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJCCNXM
+- branch: stable
   date: '2022-01-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-24.01.2022/fw_lancelot_miui_LANCELOTGlobal_V12.5.4.0.RJCMIXM_7496bf597e_11.0.zip
@@ -26798,6 +26818,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2022-02-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-09.02.2022/fw_merlin_miui_MERLIN_V12.5.4.0.RJOCNXM_7ffdb551cc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLIN_V12.5.4.0.RJOCNXM_7ffdb551cc_11.0.zip
+  filename: fw_merlin_miui_MERLIN_V12.5.4.0.RJOCNXM_7ffdb551cc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJOCNXM
 - branch: stable
   date: '2022-01-27'
   downloads:
