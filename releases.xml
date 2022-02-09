@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 10 Feb 2022 01:40:59 +0900</pubDate>
+  <pubDate>Thu, 10 Feb 2022 05:01:32 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10/Redmi 10 Prime (selene) - V13.0.1.0.SKUMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Thu, 10 Feb 2022 05:01:32 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.4.0.RJOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V12.5.4.0.RKTINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
     <pubDate>Thu, 03 Feb 2022 13:34:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V13.0.23.0.SLBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Sat, 29 Jan 2022 21:57:48 +0900</pubDate>
   </item>
     </channel>
 </rss>
