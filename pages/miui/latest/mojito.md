@@ -63,9 +63,8 @@ permalink: /miui/mojito/
 <tr><td>Redmi Note 10 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKGINXM</td><td>11.0</td><td>3.6 GB</td><td>2021-10-27</td><td><a href="/miui/mojito/stable/V12.5.3.0.RKGINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKGINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-11-05</td><td><a href="/miui/mojito/stable/V12.5.3.0.RKGINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKGINXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-25</td><td><a href="/miui/mojito/stable beta/V12.5.5.0.RKGINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKGRUXM</td><td>11.0</td><td>4.9 GB</td><td>2021-11-19</td><td><a href="/miui/mojito/stable/V12.5.4.0.RKGRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKGRUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-11-24</td><td><a href="/miui/mojito/stable/V12.5.4.0.RKGRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKGRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-25</td><td><a href="/miui/mojito/stable beta/V12.5.5.0.RKGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RKGRUXM</td><td>11.0</td><td>4.8 GB</td><td>2022-01-22</td><td><a href="/miui/mojito/stable/V12.5.5.0.RKGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKGRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-25</td><td><a href="/miui/mojito/stable/V12.5.5.0.RKGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKGTRXM</td><td>11.0</td><td>4.5 GB</td><td>2022-01-18</td><td><a href="/miui/mojito/stable/V12.5.6.0.RKGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKGTRXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-22</td><td><a href="/miui/mojito/stable/V12.5.6.0.RKGTRXM/">Download</a></td></tr>
 
