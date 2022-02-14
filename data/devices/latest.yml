@@ -2259,25 +2259,25 @@
     android: '12.0'
     miui: 22.2.9
 - branch: stable
-  date: '2021-12-14'
+  date: '2022-02-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-14.12.2021/fw_monet_miui_MONETGlobal_V12.5.5.0.RJIMIXM_36e9bcf5b4_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.5.5.0.RJIMIXM_36e9bcf5b4_11.0.zip
-  filename: fw_monet_miui_MONETGlobal_V12.5.5.0.RJIMIXM_36e9bcf5b4_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-14.02.2022/fw_monet_miui_MONETGlobal_V12.5.6.0.RJIMIXM_ae7dec2044_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.5.6.0.RJIMIXM_ae7dec2044_11.0.zip
+  filename: fw_monet_miui_MONETGlobal_V12.5.6.0.RJIMIXM_ae7dec2044_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RJIMIXM
+    miui: V12.5.6.0.RJIMIXM
 - branch: stable
-  date: '2021-12-06'
+  date: '2022-02-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-06.12.2021/fw_monet_miui_MONETEEAGlobal_V12.5.6.0.RJIEUXM_63467295e2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.5.6.0.RJIEUXM_63467295e2_11.0.zip
-  filename: fw_monet_miui_MONETEEAGlobal_V12.5.6.0.RJIEUXM_63467295e2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-14.02.2022/fw_monet_miui_MONETEEAGlobal_V12.5.7.0.RJIEUXM_183b906759_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETEEAGlobal_V12.5.7.0.RJIEUXM_183b906759_11.0.zip
+  filename: fw_monet_miui_MONETEEAGlobal_V12.5.7.0.RJIEUXM_183b906759_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RJIEUXM
+    miui: V12.5.7.0.RJIEUXM
 - branch: stable
   date: '2022-02-07'
   downloads:
@@ -3099,15 +3099,15 @@
     android: '11.0'
     miui: V12.5.15.0.RKLMIXM
 - branch: stable
-  date: '2021-12-17'
+  date: '2022-02-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-17.12.2021/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.14.0.RKLEUXM_d2febe30c5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.14.0.RKLEUXM_d2febe30c5_11.0.zip
-  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.14.0.RKLEUXM_d2febe30c5_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-14.02.2022/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.16.0.RKLEUXM_1d992241df_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.16.0.RKLEUXM_1d992241df_11.0.zip
+  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.16.0.RKLEUXM_1d992241df_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.14.0.RKLEUXM
+    miui: V12.5.16.0.RKLEUXM
 - branch: stable
   date: '2021-12-20'
   downloads:
