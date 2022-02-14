@@ -9,12 +9,12 @@
     android: '11.0'
     miui: V12.5.7.0.RGICMXM
 - branch: weekly
-  date: '2021-12-10'
+  date: '2022-02-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-10.12.2021/fw_picasso_miui_PICASSO48M_21.12.8_360cccab81_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/picasso/fw_picasso_miui_PICASSO48M_21.12.8_360cccab81_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.12.8_360cccab81_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-14.02.2022/fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/picasso/fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip
+  filename: fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: 21.12.8
+    android: '12.0'
+    miui: 22.2.9
