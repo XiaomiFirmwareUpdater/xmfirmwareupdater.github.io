@@ -52,15 +52,18 @@ permalink: /archive/miui/dandelion/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9A Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.11.0.QCDIDXM</td><td>10.0</td><td>1.8 GB</td><td>2022-01-28</td><td><a href="/miui/dandelion/stable beta/V12.0.11.0.QCDIDXM/">Download</a></td></tr>
-<tr><td>Redmi 9A Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.14.0.QCDRUXM</td><td>10.0</td><td>1.8 GB</td><td>2022-01-27</td><td><a href="/miui/dandelion/stable beta/V12.0.14.0.QCDRUXM/">Download</a></td></tr>
+                <tr><td>Redmi 9A Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.11.0.QCDIDXM</td><td>10.0</td><td>1.8 GB</td><td>2022-01-28</td><td><a href="/miui/dandelion/stable/V12.0.11.0.QCDIDXM/">Download</a></td></tr>
+<tr><td>Redmi 9A Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.11.0.QCDIDXM</td><td>10.0</td><td>3.6 GB</td><td>2022-01-24</td><td><a href="/miui/dandelion/stable/V12.0.11.0.QCDIDXM/">Download</a></td></tr>
+<tr><td>Redmi 9A Russia</td><td>Stable</td><td>Recovery</td><td>V12.0.14.0.QCDRUXM</td><td>10.0</td><td>1.8 GB</td><td>2022-01-27</td><td><a href="/miui/dandelion/stable/V12.0.14.0.QCDRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9A Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.14.0.QCDRUXM</td><td>10.0</td><td>3.7 GB</td><td>2022-01-21</td><td><a href="/miui/dandelion/stable/V12.0.14.0.QCDRUXM/">Download</a></td></tr>
 <tr><td>Redmi 9A / 9i / 9A Sport India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.21.0.QCDINXM</td><td>10.0</td><td>1.8 GB</td><td>2022-01-26</td><td><a href="/miui/dandelion/stable beta/V12.0.21.0.QCDINXM/">Download</a></td></tr>
 <tr><td>Redmi 9A China</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RCDCNXM</td><td>11.0</td><td>1.9 GB</td><td>2022-01-25</td><td><a href="/miui/dandelion/stable/V12.5.5.0.RCDCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9A China</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RCDCNXM</td><td>11.0</td><td>3.8 GB</td><td>2022-01-19</td><td><a href="/miui/dandelion/stable/V12.5.5.0.RCDCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9A / 9AT EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.17.0.QCDEUXM</td><td>10.0</td><td>1.8 GB</td><td>2022-01-25</td><td><a href="/miui/dandelion/stable/V12.0.17.0.QCDEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9A / 9AT EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.17.0.QCDEUXM</td><td>10.0</td><td>4.3 GB</td><td>2022-01-18</td><td><a href="/miui/dandelion/stable/V12.0.17.0.QCDEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9A Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RCDMIXM</td><td>11.0</td><td>1.9 GB</td><td>2022-01-25</td><td><a href="/miui/dandelion/stable beta/V12.5.2.0.RCDMIXM/">Download</a></td></tr>
-<tr><td>Redmi 9A Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.18.0.QCDMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-01-21</td><td><a href="/miui/dandelion/stable beta/V12.0.18.0.QCDMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9A Global</td><td>Stable</td><td>Recovery</td><td>V12.0.18.0.QCDMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-01-21</td><td><a href="/miui/dandelion/stable/V12.0.18.0.QCDMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9A Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.18.0.QCDMIXM</td><td>10.0</td><td>4.3 GB</td><td>2022-01-17</td><td><a href="/miui/dandelion/stable/V12.0.18.0.QCDMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9A Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RCDMIXM</td><td>11.0</td><td>1.9 GB</td><td>2021-12-31</td><td><a href="/miui/dandelion/stable beta/V12.5.1.0.RCDMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9A China</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RCDCNXM</td><td>11.0</td><td>2.0 GB</td><td>2021-12-28</td><td><a href="/miui/dandelion/stable/V12.5.4.0.RCDCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9A China</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RCDCNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-12-26</td><td><a href="/miui/dandelion/stable/V12.5.4.0.RCDCNXM/">Download</a></td></tr>
