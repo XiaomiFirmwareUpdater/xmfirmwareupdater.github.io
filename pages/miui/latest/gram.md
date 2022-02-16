@@ -52,9 +52,9 @@ permalink: /miui/gram/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M2 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJPINXM</td><td>11.0</td><td>3.2 GB</td><td>2021-10-28</td><td><a href="/miui/gram/stable/V12.5.2.0.RJPINXM/">Download</a></td></tr>
-<tr><td>POCO M2 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJPINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-11-05</td><td><a href="/miui/gram/stable/V12.5.2.0.RJPINXM/">Download</a></td></tr>
-<tr><td>POCO M2 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RJPINXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-29</td><td><a href="/miui/gram/stable beta/V12.5.3.0.RJPINXM/">Download</a></td></tr>
+                <tr><td>POCO M2 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RJPINXM</td><td>11.0</td><td>3.2 GB</td><td>2022-01-20</td><td><a href="/miui/gram/stable/V12.5.3.0.RJPINXM/">Download</a></td></tr>
+<tr><td>POCO M2 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJPINXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-29</td><td><a href="/miui/gram/stable/V12.5.3.0.RJPINXM/">Download</a></td></tr>
+<tr><td>POCO M2 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJPINXM</td><td>11.0</td><td>2.5 GB</td><td>2021-08-20</td><td><a href="/miui/gram/stable beta/V12.0.1.0.RJPINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
