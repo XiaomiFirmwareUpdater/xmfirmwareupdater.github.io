@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2022-02-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-16.02.2022/fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.3.0.RKXEUXM
+- branch: stable
   date: '2022-02-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-07.02.2022/fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip

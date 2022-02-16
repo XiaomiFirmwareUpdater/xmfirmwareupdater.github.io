@@ -390,6 +390,12 @@
   version: 22.1.13
 - android: '11.0'
   codename: nabu
+  date: '2022-02-16'
+  download: https://bigota.d.miui.com/V13.0.3.0.RKXEUXM/fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
+  name: Xiaomi Pad 5
+  version: V13.0.3.0.RKXEUXM
+- android: '11.0'
+  codename: nabu
   date: '2022-02-07'
   download: https://bigota.d.miui.com/V13.0.1.0.RKXMIXM/fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
   name: Xiaomi Pad 5
