@@ -1,15 +1,15 @@
 ---
-title: Xiaomi 12 (cupid) MIUI Downloads
+title: Redmi K50G/POCO F4 GT (ingres) MIUI Downloads
 layout: download
-name: Xiaomi 12
-codename: cupid
-permalink: /miui/cupid/
+name: Redmi K50G/POCO F4 GT
+codename: ingres
+permalink: /miui/ingres/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/cupid/">Xiaomi 12</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/ingres/">Redmi K50G/POCO F4 GT</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/cupid/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/cupid/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/cupid/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/cupid/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/ingres/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/ingres/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/ingres/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,7 @@ permalink: /miui/cupid/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.12.1.1.DEV</td><td>12.0</td><td>5.5 GB</td><td>2022-01-14</td><td><a href="/miui/cupid/public beta/V13.0.12.1.1.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.21.0.SLCCNXM</td><td>12.0</td><td>6.7 GB</td><td>2022-01-15</td><td><a href="/miui/cupid/stable/V13.0.21.0.SLCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 China</td><td>Stable</td><td>Recovery</td><td>V13.0.21.0.SLCCNXM</td><td>12.0</td><td>4.9 GB</td><td>2022-01-18</td><td><a href="/miui/cupid/stable/V13.0.21.0.SLCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.21.1.5.DEV</td><td>12.0</td><td>5.0 GB</td><td>2022-01-21</td><td><a href="/miui/cupid/public beta/V13.0.21.1.5.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.23.0.SLCCNXM</td><td>12.0</td><td>4.8 GB</td><td>2022-01-29</td><td><a href="/miui/cupid/stable beta/V13.0.23.0.SLCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SLCEUXM</td><td>12.0</td><td>5.5 GB</td><td>2022-01-29</td><td><a href="/miui/cupid/stable/V13.0.10.0.SLCEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SLCEUXM</td><td>12.0</td><td>4.2 GB</td><td>2022-02-02</td><td><a href="/miui/cupid/stable/V13.0.10.0.SLCEUXM/">Download</a></td></tr>
+                <tr><td>Redmi K50G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SLJCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-02-17</td><td><a href="/miui/ingres/stable beta/V13.0.2.0.SLJCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

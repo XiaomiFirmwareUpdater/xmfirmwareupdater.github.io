@@ -54,9 +54,8 @@ permalink: /miui/angelica/
                 <tbody>
                 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.11.0.QCREUXM</td><td>10.0</td><td>4.3 GB</td><td>2022-01-17</td><td><a href="/miui/angelica/stable/V12.0.11.0.QCREUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.11.0.QCREUXM</td><td>10.0</td><td>1.8 GB</td><td>2022-01-21</td><td><a href="/miui/angelica/stable/V12.0.11.0.QCREUXM/">Download</a></td></tr>
-<tr><td>Redmi 9C Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.18.0.QCRMIXM</td><td>10.0</td><td>4.3 GB</td><td>2021-11-01</td><td><a href="/miui/angelica/stable/V12.0.18.0.QCRMIXM/">Download</a></td></tr>
-<tr><td>Redmi 9C Global</td><td>Stable</td><td>Recovery</td><td>V12.0.18.0.QCRMIXM</td><td>10.0</td><td>1.8 GB</td><td>2021-11-06</td><td><a href="/miui/angelica/stable/V12.0.18.0.QCRMIXM/">Download</a></td></tr>
-<tr><td>Redmi 9C Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.20.0.QCRMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-02-07</td><td><a href="/miui/angelica/stable beta/V12.0.20.0.QCRMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.20.0.QCRMIXM</td><td>10.0</td><td>4.2 GB</td><td>2022-01-24</td><td><a href="/miui/angelica/stable/V12.0.20.0.QCRMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C Global</td><td>Stable</td><td>Recovery</td><td>V12.0.20.0.QCRMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-02-07</td><td><a href="/miui/angelica/stable/V12.0.20.0.QCRMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.11.0.QCRIDXM</td><td>10.0</td><td>3.5 GB</td><td>2022-01-20</td><td><a href="/miui/angelica/stable/V12.0.11.0.QCRIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.11.0.QCRIDXM</td><td>10.0</td><td>1.8 GB</td><td>2022-01-25</td><td><a href="/miui/angelica/stable/V12.0.11.0.QCRIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.9.0.QCRTRXM</td><td>10.0</td><td>3.4 GB</td><td>2021-11-19</td><td><a href="/miui/angelica/stable/V12.0.9.0.QCRTRXM/">Download</a></td></tr>

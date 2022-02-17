@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 11 (spes) MIUI Downloads
+title: Redmi K50G/POCO F4 GT (ingres) MIUI Downloads
 layout: download
-name: Redmi Note 11
-codename: spes
-permalink: /archive/miui/spes/
+name: Redmi K50G/POCO F4 GT
+codename: ingres
+permalink: /archive/miui/ingres/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/spes/">Redmi Note 11</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/ingres/">Redmi K50G/POCO F4 GT</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/miui/spes/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/miui/spes/" class="card-link">Latest MIUI</a>
-    <a href="/firmware/spes/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/spes/" class="card-link">Vendor Downloads</a>
+    <a href="/miui/ingres/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/ingres/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/ingres/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,7 @@ permalink: /archive/miui/spes/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.RGKEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-02-14</td><td><a href="/miui/spesn/stable beta/V13.0.1.0.RGKEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.RGKEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-02-14</td><td><a href="/miui/spesn/stable/V13.0.4.0.RGKEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.RGKEUXM</td><td>11.0</td><td>5.7 GB</td><td>2022-01-28</td><td><a href="/miui/spesn/stable/V13.0.4.0.RGKEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.RGCMIXM</td><td>11.0</td><td>2.8 GB</td><td>2022-02-13</td><td><a href="/miui/spes/stable beta/V13.0.5.0.RGCMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RGCMIXM</td><td>11.0</td><td>2.7 GB</td><td>2022-02-08</td><td><a href="/miui/spes/stable/V13.0.1.0.RGCMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RGCMIXM</td><td>11.0</td><td>5.7 GB</td><td>2021-12-11</td><td><a href="/miui/spes/stable/V13.0.1.0.RGCMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.RGKRUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-02-08</td><td><a href="/miui/spesn/stable beta/V13.0.2.0.RGKRUXM/">Download</a></td></tr>
+                <tr><td>Redmi K50G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SLJCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-02-17</td><td><a href="/miui/ingres/stable beta/V13.0.2.0.SLJCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
