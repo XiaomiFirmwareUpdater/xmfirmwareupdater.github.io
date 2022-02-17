@@ -19,12 +19,12 @@
     android: '11.0'
     miui: V12.5.16.0.RKLEUXM
 - branch: stable
-  date: '2021-12-20'
+  date: '2022-02-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-20.12.2021/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.11.0.RKLINXM_4f8b06b654_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.11.0.RKLINXM_4f8b06b654_11.0.zip
-  filename: fw_rosemary_miui_ROSEMARYINGlobal_V12.5.11.0.RKLINXM_4f8b06b654_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-18.02.2022/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.12.0.RKLINXM_57a06d19aa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.12.0.RKLINXM_57a06d19aa_11.0.zip
+  filename: fw_rosemary_miui_ROSEMARYINGlobal_V12.5.12.0.RKLINXM_57a06d19aa_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.11.0.RKLINXM
+    miui: V12.5.12.0.RKLINXM
