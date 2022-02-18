@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 18 Feb 2022 13:34:12 +0900</pubDate>
+  <pubDate>Fri, 18 Feb 2022 20:10:13 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,17 @@
     <item>
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.1.0.RKCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
-    <pubDate>Fri, 18 Feb 2022 13:34:12 +0900</pubDate>
+    <pubDate>Fri, 18 Feb 2022 20:10:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO X3 Pro (vayu) - V12.5.5.0.RJUEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
+    <pubDate>Fri, 18 Feb 2022 19:46:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V13.0.5.0.SKOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Fri, 18 Feb 2022 19:41:54 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 10S (rosemary) - V12.5.12.0.RKLINXM</title>
@@ -95,16 +105,6 @@
     <title>Mi 10 Lite (monet) - V12.5.6.0.RJIMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
     <pubDate>Mon, 14 Feb 2022 19:27:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite (monet) - V12.5.7.0.RJIEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
-    <pubDate>Mon, 14 Feb 2022 19:24:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro (sweet) - V13.0.3.0.SKFEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Mon, 14 Feb 2022 15:36:47 +0900</pubDate>
   </item>
     </channel>
 </rss>
