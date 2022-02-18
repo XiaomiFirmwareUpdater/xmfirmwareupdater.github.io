@@ -718,6 +718,18 @@
   download: https://bigota.d.miui.com/V13.0.4.1.1.DEV/fw_venus_miui_VENUS_V13.0.4.1.1.DEV_3ed0e576a6_12.0.zip
   name: Mi 11
   version: V13.0.4.1.1.DEV
+- android: '11.0'
+  codename: veux
+  date: '2022-02-18'
+  download: https://bigota.d.miui.com/V13.0.1.0.RKCEUXM/fw_veux_miui_VEUXEEAGlobal_V13.0.1.0.RKCEUXM_4425b12de4_11.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
+  version: V13.0.1.0.RKCEUXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-02-18'
+  download: https://bigota.d.miui.com/V13.0.10.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.10.0.SLBEUXM_8af10526e8_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.10.0.SLBEUXM
 - android: '12.0'
   codename: zeus
   date: '2022-01-29'
