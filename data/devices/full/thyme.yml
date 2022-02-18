@@ -38,16 +38,6 @@
   versions:
     android: '12.0'
     miui: 22.1.19
-- branch: stable
-  date: '2022-01-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-14.01.2022/fw_thyme_miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thyme/fw_thyme_miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
-  filename: fw_thyme_miui_THYME_V13.0.1.1.1.DEV_a8a5cbe312_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.1.1.1.DEV
 - branch: weekly
   date: '2021-12-10'
   downloads:

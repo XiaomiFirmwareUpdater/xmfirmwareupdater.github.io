@@ -19,16 +19,6 @@
     android: '11.0'
     miui: V12.5.6.0.RJUINXM
 - branch: stable
-  date: '2021-12-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-08.12.2021/fw_vayu_miui_VAYUEEAGlobal_V12.5.4.0.RJUEUXM_c58b88dbee_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vayu/fw_vayu_miui_VAYUEEAGlobal_V12.5.4.0.RJUEUXM_c58b88dbee_11.0.zip
-  filename: fw_vayu_miui_VAYUEEAGlobal_V12.5.4.0.RJUEUXM_c58b88dbee_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.4.0.RJUEUXM
-- branch: stable
   date: '2021-12-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-04.12.2021/fw_vayu_miui_VAYUGlobal_V12.5.7.0.RJUMIXM_9847c652ee_11.0.zip

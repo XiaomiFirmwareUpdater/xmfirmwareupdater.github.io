@@ -8,16 +8,6 @@
   versions:
     android: '11.0'
     miui: V13.0.3.0.RKZCNXM
-- branch: stable
-  date: '2022-01-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_enuma/releases/download/stable-05.01.2022/fw_enuma_miui_ENUMA_V13.0.2.0.RKZCNXM_3eb630ef02_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/enuma/fw_enuma_miui_ENUMA_V13.0.2.0.RKZCNXM_3eb630ef02_11.0.zip
-  filename: fw_enuma_miui_ENUMA_V13.0.2.0.RKZCNXM_3eb630ef02_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V13.0.2.0.RKZCNXM
 - branch: weekly
   date: '2021-12-31'
   downloads:
