@@ -19,15 +19,15 @@
     android: '12.0'
     miui: V13.0.2.0.SJBCNXM
 - branch: weekly
-  date: '2022-02-13'
+  date: '2022-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-14.02.2022/fw_umi_miui_UMIPRE_22.2.9_dcfc199ade_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/umi/fw_umi_miui_UMIPRE_22.2.9_dcfc199ade_12.0.zip
-  filename: fw_umi_miui_UMIPRE_22.2.9_dcfc199ade_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-18.02.2022/fw_umi_miui_UMIPRE_22.2.16_f5f9b4dec4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.16/umi/fw_umi_miui_UMIPRE_22.2.16_f5f9b4dec4_12.0.zip
+  filename: fw_umi_miui_UMIPRE_22.2.16_f5f9b4dec4_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: 22.2.9
+    miui: 22.2.16
 - branch: stable
   date: '2022-02-07'
   downloads:

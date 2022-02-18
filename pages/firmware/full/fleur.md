@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 11S/POCO M4 Pro 4G (fleur) Firmware Downloads
+title: Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) Firmware Downloads
 layout: download
-name: Redmi Note 11S/POCO M4 Pro 4G
+name: Redmi Note 11S 4G/POCO M4 Pro 4G
 codename: fleur
 permalink: /archive/firmware/fleur/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/fleur/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/fleur/">Redmi Note 11S/POCO M4 Pro 4G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/fleur/">Redmi Note 11S 4G/POCO M4 Pro 4G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

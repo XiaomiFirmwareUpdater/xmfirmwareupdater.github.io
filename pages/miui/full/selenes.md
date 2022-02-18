@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 11 4G (selenes) MIUI Downloads
+title: Redmi Note 11 4G/Redmi 10 2022 (selenes) MIUI Downloads
 layout: download
-name: Redmi Note 11 4G
+name: Redmi Note 11 4G/Redmi 10 2022
 codename: selenes
 permalink: /archive/miui/selenes/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/selenes/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/selenes/">Redmi Note 11 4G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/selenes/">Redmi Note 11 4G/Redmi 10 2022</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

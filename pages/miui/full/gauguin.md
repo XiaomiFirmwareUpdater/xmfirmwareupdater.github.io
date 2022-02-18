@@ -52,7 +52,8 @@ permalink: /archive/miui/gauguin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>4.4 GB</td><td>2022-02-10</td><td><a href="/miui/gauguin/weekly/22.2.9/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>22.2.17</td><td>12.0</td><td>4.4 GB</td><td>2022-02-17</td><td><a href="/miui/gauguin/weekly/22.2.17/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>4.4 GB</td><td>2022-02-10</td><td><a href="/miui/gauguin/weekly/22.2.9/">Download</a></td></tr>
 <tr><td>Mi 10i India</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RJSINXM</td><td>11.0</td><td>2.9 GB</td><td>2022-01-24</td><td><a href="/miui/gauguin/stable/V12.5.4.0.RJSINXM/">Download</a></td></tr>
 <tr><td>Mi 10i India</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RJSINXM</td><td>11.0</td><td>3.6 GB</td><td>2022-01-11</td><td><a href="/miui/gauguin/stable/V12.5.4.0.RJSINXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.10.0.RJSEUXM</td><td>11.0</td><td>2.9 GB</td><td>2022-01-24</td><td><a href="/miui/gauguin/stable/V12.5.10.0.RJSEUXM/">Download</a></td></tr>

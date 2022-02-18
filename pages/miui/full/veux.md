@@ -57,7 +57,7 @@ permalink: /archive/miui/veux/
 <tr><td>Redmi Note 11 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RKCRUXM</td><td>11.0</td><td>3.1 GB</td><td>2022-02-16</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RKCRUXM</td><td>11.0</td><td>5.4 GB</td><td>2022-01-26</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.RKCMIXM</td><td>11.0</td><td>342 Bytes</td><td>2022-01-23</td><td><a href="/miui/veux/stable/V13.0.2.0.RKCMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RKCMIXM</td><td>11.0</td><td>315 Bytes</td><td>None</td><td><a href="/miui/veux/stable/V13.0.2.0.RKCMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RKCMIXM</td><td>11.0</td><td>3.0 GB</td><td>None</td><td><a href="/miui/veux/stable/V13.0.2.0.RKCMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

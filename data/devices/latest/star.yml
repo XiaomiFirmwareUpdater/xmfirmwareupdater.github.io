@@ -19,15 +19,15 @@
     android: '12.0'
     miui: V13.0.9.0.SKACNXM
 - branch: weekly
-  date: '2022-02-13'
+  date: '2022-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-14.02.2022/fw_star_miui_STARPRE_22.2.9_d0462da88c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/star/fw_star_miui_STARPRE_22.2.9_d0462da88c_12.0.zip
-  filename: fw_star_miui_STARPRE_22.2.9_d0462da88c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/weekly-18.02.2022/fw_star_miui_STARPRE_22.2.16_7b4d06e79f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.16/star/fw_star_miui_STARPRE_22.2.16_7b4d06e79f_12.0.zip
+  filename: fw_star_miui_STARPRE_22.2.16_7b4d06e79f_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: 22.2.9
+    miui: 22.2.16
 - branch: stable
   date: '2021-12-16'
   downloads:

@@ -9,12 +9,12 @@
     android: '11.0'
     miui: V12.5.5.0.RKSCNXM
 - branch: weekly
-  date: '2022-02-13'
+  date: '2022-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-14.02.2022/fw_camellia_miui_CAMELLIAPRE_22.2.9_94e8046814_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/camellia/fw_camellia_miui_CAMELLIAPRE_22.2.9_94e8046814_12.0.zip
-  filename: fw_camellia_miui_CAMELLIAPRE_22.2.9_94e8046814_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-18.02.2022/fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/camellia/fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
+  filename: fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: 22.2.9
+    miui: 22.2.17

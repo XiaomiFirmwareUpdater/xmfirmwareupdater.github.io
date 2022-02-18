@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2022-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/weekly-18.02.2022/fw_cas_miui_CASPRE_22.2.16_9958e20bbd_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.16/cas/fw_cas_miui_CASPRE_22.2.16_9958e20bbd_12.0.zip
+  filename: fw_cas_miui_CASPRE_22.2.16_9958e20bbd_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.16
+- branch: weekly
   date: '2022-02-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/weekly-13.02.2022/fw_cas_miui_CASPRE_22.2.9_2617aba897_12.0.zip

@@ -1,3 +1,13 @@
+- branch: weekly
+  date: '2022-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/weekly-18.02.2022/fw_renoir_miui_RENOIRPRE_22.2.17_bccbc5159f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/renoir/fw_renoir_miui_RENOIRPRE_22.2.17_bccbc5159f_12.0.zip
+  filename: fw_renoir_miui_RENOIRPRE_22.2.17_bccbc5159f_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.17
 - branch: stable
   date: '2022-02-17'
   downloads:

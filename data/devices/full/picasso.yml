@@ -1,4 +1,24 @@
 - branch: weekly
+  date: '2022-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.02.2022/fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/picasso/fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
+  filename: fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.17
+- branch: weekly
+  date: '2022-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.02.2022/fw_picasso_miui_PICASSOPRE_22.2.17_42b524e225_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/picasso/fw_picasso_miui_PICASSOPRE_22.2.17_42b524e225_12.0.zip
+  filename: fw_picasso_miui_PICASSOPRE_22.2.17_42b524e225_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.17
+- branch: weekly
   date: '2022-02-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-14.02.2022/fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip

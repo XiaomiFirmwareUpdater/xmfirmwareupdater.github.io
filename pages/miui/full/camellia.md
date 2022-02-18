@@ -52,7 +52,8 @@ permalink: /archive/miui/camellia/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>4.0 GB</td><td>2022-02-10</td><td><a href="/miui/camellia/weekly/22.2.9/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>22.2.17</td><td>12.0</td><td>4.0 GB</td><td>2022-02-17</td><td><a href="/miui/camellia/weekly/22.2.17/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>4.0 GB</td><td>2022-02-10</td><td><a href="/miui/camellia/weekly/22.2.9/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKSCNXM</td><td>11.0</td><td>3.1 GB</td><td>2022-02-09</td><td><a href="/miui/camellia/stable beta/V12.5.5.0.RKSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>22.1.19</td><td>12.0</td><td>4.0 GB</td><td>2022-01-20</td><td><a href="/miui/camellia/weekly/22.1.19/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>22.1.13</td><td>12.0</td><td>3.8 GB</td><td>2022-01-13</td><td><a href="/miui/camellia/weekly/22.1.13/">Download</a></td></tr>

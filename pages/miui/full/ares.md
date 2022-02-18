@@ -53,6 +53,7 @@ permalink: /archive/miui/ares/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.10.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-02-18</td><td><a href="/miui/ares/public beta/V13.0.2.1.10.DEV/">Download</a></td></tr>
+<tr><td>Redmi K40 Gaming China</td><td>Weekly</td><td>Recovery</td><td>22.2.17</td><td>12.0</td><td>4.5 GB</td><td>2022-02-17</td><td><a href="/miui/ares/weekly/22.2.17/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.8.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-02-11</td><td><a href="/miui/ares/public beta/V13.0.1.1.8.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>4.4 GB</td><td>2022-02-10</td><td><a href="/miui/ares/weekly/22.2.9/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.5.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-01-25</td><td><a href="/miui/ares/public beta/V13.0.1.1.5.DEV/">Download</a></td></tr>

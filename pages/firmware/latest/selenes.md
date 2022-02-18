@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 11 4G (selenes) Firmware Downloads
+title: Redmi Note 11 4G/Redmi 10 2022 (selenes) Firmware Downloads
 layout: download
-name: Redmi Note 11 4G
+name: Redmi Note 11 4G/Redmi 10 2022
 codename: selenes
 permalink: /firmware/selenes/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/selenes/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/selenes/">Redmi Note 11 4G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/selenes/">Redmi Note 11 4G/Redmi 10 2022</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
