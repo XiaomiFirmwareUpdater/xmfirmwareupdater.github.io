@@ -372,6 +372,12 @@
   version: V13.0.5.1.1.DEV
 - android: '12.0'
   codename: ingres
+  date: '2022-02-21'
+  download: https://bigota.d.miui.com/V13.0.3.0.SLJCNXM/fw_ingres_miui_INGRES_V13.0.3.0.SLJCNXM_f9f4bdfb3d_12.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: V13.0.3.0.SLJCNXM
+- android: '12.0'
+  codename: ingres
   date: '2022-02-17'
   download: https://bigota.d.miui.com/V13.0.2.0.SLJCNXM/fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -666,10 +672,22 @@
   version: V13.0.5.0.SKACNXM
 - android: '12.0'
   codename: sweet
+  date: '2022-02-21'
+  download: https://bigota.d.miui.com/V13.0.4.0.SKFMIXM/fw_sweet_miui_SWEETGlobal_V13.0.4.0.SKFMIXM_4e557a2f1f_12.0.zip
+  name: Redmi Note 10 Pro
+  version: V13.0.4.0.SKFMIXM
+- android: '12.0'
+  codename: sweet
   date: '2022-02-14'
   download: https://bigota.d.miui.com/V13.0.3.0.SKFEUXM/fw_sweet_miui_SWEETEEAGlobal_V13.0.3.0.SKFEUXM_73299ee316_12.0.zip
   name: Redmi Note 10 Pro
   version: V13.0.3.0.SKFEUXM
+- android: '12.0'
+  codename: thyme
+  date: '2022-02-21'
+  download: https://bigota.d.miui.com/V13.0.3.0.SGACNXM/fw_thyme_miui_THYME_V13.0.3.0.SGACNXM_109e7cc114_12.0.zip
+  name: Mi 10S
+  version: V13.0.3.0.SGACNXM
 - android: '12.0'
   codename: thyme
   date: '2022-02-18'

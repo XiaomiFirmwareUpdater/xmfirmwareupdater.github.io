@@ -21629,6 +21629,16 @@
     android: '5.1'
     miui: 8.4.12
 - branch: stable
+  date: '2022-02-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-21.02.2022/fw_ingres_miui_INGRES_V13.0.3.0.SLJCNXM_f9f4bdfb3d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.3.0.SLJCNXM_f9f4bdfb3d_12.0.zip
+  filename: fw_ingres_miui_INGRES_V13.0.3.0.SLJCNXM_f9f4bdfb3d_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SLJCNXM
+- branch: stable
   date: '2022-02-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-17.02.2022/fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
@@ -42269,6 +42279,16 @@
     android: '10.0'
     miui: V12.0.2.0.QJGINXM
 - branch: stable
+  date: '2022-02-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-21.02.2022/fw_sweet_miui_SWEETGlobal_V13.0.4.0.SKFMIXM_4e557a2f1f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.4.0.SKFMIXM_4e557a2f1f_12.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V13.0.4.0.SKFMIXM_4e557a2f1f_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKFMIXM
+- branch: stable
   date: '2022-02-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-14.02.2022/fw_sweet_miui_SWEETEEAGlobal_V13.0.3.0.SKFEUXM_73299ee316_12.0.zip
@@ -42538,6 +42558,16 @@
   versions:
     android: '11.0'
     miui: V12.0.1.0.RKFINXM
+- branch: stable
+  date: '2022-02-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-21.02.2022/fw_thyme_miui_THYME_V13.0.3.0.SGACNXM_109e7cc114_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thyme/fw_thyme_miui_THYME_V13.0.3.0.SGACNXM_109e7cc114_12.0.zip
+  filename: fw_thyme_miui_THYME_V13.0.3.0.SGACNXM_109e7cc114_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SGACNXM
 - branch: weekly
   date: '2022-02-18'
   downloads:

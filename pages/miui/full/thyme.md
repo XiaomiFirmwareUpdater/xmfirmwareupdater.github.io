@@ -52,7 +52,8 @@ permalink: /archive/miui/thyme/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>22.2.16</td><td>12.0</td><td>4.9 GB</td><td>2022-02-16</td><td><a href="/miui/thyme/weekly/22.2.16/">Download</a></td></tr>
+                <tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SGACNXM</td><td>12.0</td><td>4.7 GB</td><td>2022-02-21</td><td><a href="/miui/thyme/stable beta/V13.0.3.0.SGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>22.2.16</td><td>12.0</td><td>4.9 GB</td><td>2022-02-16</td><td><a href="/miui/thyme/weekly/22.2.16/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.7.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-02-11</td><td><a href="/miui/thyme/public beta/V13.0.1.1.7.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>4.9 GB</td><td>2022-02-10</td><td><a href="/miui/thyme/weekly/22.2.9/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.5.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-01-21</td><td><a href="/miui/thyme/public beta/V13.0.1.1.5.DEV/">Download</a></td></tr>
