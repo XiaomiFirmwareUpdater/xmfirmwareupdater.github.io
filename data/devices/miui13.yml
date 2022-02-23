@@ -240,6 +240,12 @@
   version: V13.0.4.0.SKQMIXM
 - android: '12.0'
   codename: cupid
+  date: '2022-02-23'
+  download: https://bigota.d.miui.com/V13.0.25.0.SLCCNXM/fw_cupid_miui_CUPID_V13.0.25.0.SLCCNXM_8af565edee_12.0.zip
+  name: Xiaomi 12
+  version: V13.0.25.0.SLCCNXM
+- android: '12.0'
+  codename: cupid
   date: '2022-02-17'
   download: https://bigota.d.miui.com/V13.0.10.0.SLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V13.0.10.0.SLCEUXM_c33cca208e_12.0.zip
   name: Xiaomi 12
@@ -826,6 +832,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SKDMIXM/fw_vili_miui_VILIGlobal_V13.0.1.0.SKDMIXM_e7e8f0ef90_12.0.zip
   name: Xiaomi 11T Pro
   version: V13.0.1.0.SKDMIXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-02-23'
+  download: https://bigota.d.miui.com/V13.0.25.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.25.0.SLBCNXM_fb6c8ae4c9_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.25.0.SLBCNXM
 - android: '12.0'
   codename: zeus
   date: '2022-02-18'
