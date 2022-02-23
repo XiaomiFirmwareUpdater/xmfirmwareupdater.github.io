@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2020-11-12'
+  date: '2019-07-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sakura/releases/download/stable-12.11.2020/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sakura/fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
-  filename: fw-non-arb_sakura_india_miui_HM6ProINGlobal_V12.0.4.0.PDMMIXM_ad48898cf1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sakura/releases/download/stable-26.07.2019/fw_sakura_india_miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_india_miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip
+  filename: fw_sakura_india_miui_HM6ProINGlobal_V10.3.3.0.PDMMIXM_e632cbefd0_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V12.0.4.0.PDMMIXM
+    miui: V10.3.3.0.PDMMIXM
 - branch: stable
-  date: '2020-08-06'
+  date: '2019-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sakura/releases/download/stable-06.08.2020/fw_sakura_miui_HM6Pro_V12.0.1.0.PDICNXM_81d8bc0ad2_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sakura/fw_sakura_miui_HM6Pro_V12.0.1.0.PDICNXM_81d8bc0ad2_9.0.zip
-  filename: fw_sakura_miui_HM6Pro_V12.0.1.0.PDICNXM_81d8bc0ad2_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sakura/releases/download/stable-15.04.2019/fw_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip
+  filename: fw_sakura_miui_HM6Pro_V10.3.1.0.PDICNXM_b0eee8052e_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V12.0.1.0.PDICNXM
+    miui: V10.3.1.0.PDICNXM
 - branch: weekly
   date: '2020-01-09'
   downloads:

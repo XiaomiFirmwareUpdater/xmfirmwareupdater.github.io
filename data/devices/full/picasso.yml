@@ -1,444 +1,4 @@
 - branch: weekly
-  date: '2022-02-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.02.2022/fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/picasso/fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
-  filename: fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.17
-- branch: weekly
-  date: '2022-02-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.02.2022/fw_picasso_miui_PICASSOPRE_22.2.17_42b524e225_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/picasso/fw_picasso_miui_PICASSOPRE_22.2.17_42b524e225_12.0.zip
-  filename: fw_picasso_miui_PICASSOPRE_22.2.17_42b524e225_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.17
-- branch: weekly
-  date: '2022-02-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-14.02.2022/fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/picasso/fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip
-  filename: fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.9
-- branch: weekly
-  date: '2022-02-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-13.02.2022/fw_picasso_miui_PICASSO48MPRE_22.2.9_848d655b39_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/picasso/fw_picasso_miui_PICASSO48MPRE_22.2.9_848d655b39_12.0.zip
-  filename: fw_picasso_miui_PICASSO48MPRE_22.2.9_848d655b39_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.9
-- branch: stable
-  date: '2021-12-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-31.12.2021/fw_picasso_miui_PICASSO48M_V12.5.7.0.RGICMXM_d1393869de_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.5.7.0.RGICMXM_d1393869de_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_V12.5.7.0.RGICMXM_d1393869de_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.7.0.RGICMXM
-- branch: stable
-  date: '2021-12-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-30.12.2021/fw_picasso_miui_PICASSO_V12.5.9.0.RGICNXM_f6a8f5350a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.5.9.0.RGICNXM_f6a8f5350a_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.5.9.0.RGICNXM_f6a8f5350a_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.9.0.RGICNXM
-- branch: weekly
-  date: '2021-12-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-10.12.2021/fw_picasso_miui_PICASSO48M_21.12.8_360cccab81_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/picasso/fw_picasso_miui_PICASSO48M_21.12.8_360cccab81_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.12.8_360cccab81_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.12.8
-- branch: weekly
-  date: '2021-12-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-10.12.2021/fw_picasso_miui_PICASSO_21.12.8_cfe585c639_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/picasso/fw_picasso_miui_PICASSO_21.12.8_cfe585c639_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.12.8_cfe585c639_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.12.8
-- branch: weekly
-  date: '2021-12-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-04.12.2021/fw_picasso_miui_PICASSO48M_21.12.1_002b85e770_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/picasso/fw_picasso_miui_PICASSO48M_21.12.1_002b85e770_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.12.1_002b85e770_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.12.1
-- branch: weekly
-  date: '2021-12-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-04.12.2021/fw_picasso_miui_PICASSO_21.12.1_55d9c5f125_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/picasso/fw_picasso_miui_PICASSO_21.12.1_55d9c5f125_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.12.1_55d9c5f125_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.12.1
-- branch: weekly
-  date: '2021-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-19.11.2021/fw_picasso_miui_PICASSO48M_21.11.17_3b19214f1c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/picasso/fw_picasso_miui_PICASSO48M_21.11.17_3b19214f1c_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.11.17_3b19214f1c_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.17
-- branch: weekly
-  date: '2021-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-19.11.2021/fw_picasso_miui_PICASSO_21.11.17_5a29e298f7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/picasso/fw_picasso_miui_PICASSO_21.11.17_5a29e298f7_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.11.17_5a29e298f7_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.17
-- branch: weekly
-  date: '2021-10-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-16.10.2021/fw_picasso_miui_PICASSO48M_21.10.13_8fcec10aea_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/picasso/fw_picasso_miui_PICASSO48M_21.10.13_8fcec10aea_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.10.13_8fcec10aea_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.10.13
-- branch: weekly
-  date: '2021-10-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-16.10.2021/fw_picasso_miui_PICASSO_21.10.13_6c3b6adae1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/picasso/fw_picasso_miui_PICASSO_21.10.13_6c3b6adae1_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.10.13_6c3b6adae1_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.10.13
-- branch: stable
-  date: '2021-10-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-08.10.2021/fw_picasso_miui_PICASSO48M_V12.5.4.0.RGICMXM_7901265393_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.5.4.0.RGICMXM_7901265393_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_V12.5.4.0.RGICMXM_7901265393_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.4.0.RGICMXM
-- branch: stable
-  date: '2021-09-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-18.09.2021/fw_picasso_miui_PICASSO_V12.5.5.0.RGICNXM_117473f5f1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.5.5.0.RGICNXM_117473f5f1_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.5.5.0.RGICNXM_117473f5f1_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RGICNXM
-- branch: weekly
-  date: '2021-08-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-05.08.2021/fw_picasso_miui_PICASSO48M_21.8.4_70d49f17ee_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.4/picasso/fw_picasso_miui_PICASSO48M_21.8.4_70d49f17ee_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.8.4_70d49f17ee_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.4
-- branch: weekly
-  date: '2021-08-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-05.08.2021/fw_picasso_miui_PICASSO_21.8.4_4c0f10630f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.4/picasso/fw_picasso_miui_PICASSO_21.8.4_4c0f10630f_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.8.4_4c0f10630f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.4
-- branch: weekly
-  date: '2021-07-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-29.07.2021/fw_picasso_miui_PICASSO48M_21.7.28_0c95a50ac5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.28/picasso/fw_picasso_miui_PICASSO48M_21.7.28_0c95a50ac5_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.7.28_0c95a50ac5_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.28
-- branch: weekly
-  date: '2021-07-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-29.07.2021/fw_picasso_miui_PICASSO_21.7.28_9695e2674f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.28/picasso/fw_picasso_miui_PICASSO_21.7.28_9695e2674f_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.7.28_9695e2674f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.28
-- branch: weekly
-  date: '2021-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-02.07.2021/fw_picasso_miui_PICASSO48M_21.6.30_6e14be2d17_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/picasso/fw_picasso_miui_PICASSO48M_21.6.30_6e14be2d17_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.6.30_6e14be2d17_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.30
-- branch: weekly
-  date: '2021-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-02.07.2021/fw_picasso_miui_PICASSO_21.6.30_bd78ab9a38_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/picasso/fw_picasso_miui_PICASSO_21.6.30_bd78ab9a38_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.6.30_bd78ab9a38_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.30
-- branch: weekly
-  date: '2021-06-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-24.06.2021/fw_picasso_miui_PICASSO48M_21.6.23_d378e73cdd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/picasso/fw_picasso_miui_PICASSO48M_21.6.23_d378e73cdd_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.6.23_d378e73cdd_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.23
-- branch: weekly
-  date: '2021-06-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-24.06.2021/fw_picasso_miui_PICASSO_21.6.23_0763fbc039_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/picasso/fw_picasso_miui_PICASSO_21.6.23_0763fbc039_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.6.23_0763fbc039_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.23
-- branch: weekly
-  date: '2021-06-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-03.06.2021/fw_picasso_miui_PICASSO48M_21.6.2_0e9fb78ea9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/picasso/fw_picasso_miui_PICASSO48M_21.6.2_0e9fb78ea9_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.6.2_0e9fb78ea9_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.2
-- branch: weekly
-  date: '2021-06-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-03.06.2021/fw_picasso_miui_PICASSO_21.6.2_ca4514b86b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/picasso/fw_picasso_miui_PICASSO_21.6.2_ca4514b86b_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.6.2_ca4514b86b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.2
-- branch: weekly
-  date: '2021-05-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-27.05.2021/fw_picasso_miui_PICASSO48M_21.5.26_646c8559b3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.26/picasso/fw_picasso_miui_PICASSO48M_21.5.26_646c8559b3_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.5.26_646c8559b3_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.26
-- branch: weekly
-  date: '2021-05-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-27.05.2021/fw_picasso_miui_PICASSO_21.5.26_53efcabe57_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.26/picasso/fw_picasso_miui_PICASSO_21.5.26_53efcabe57_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.5.26_53efcabe57_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.26
-- branch: stable
-  date: '2021-05-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-19.05.2021/fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RGICNXM
-- branch: stable
-  date: '2021-05-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-17.05.2021/fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RGICMXM
-- branch: weekly
-  date: '2021-05-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-14.05.2021/fw_picasso_miui_PICASSO48M_21.5.12_345cf1e485_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.12/picasso/fw_picasso_miui_PICASSO48M_21.5.12_345cf1e485_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.5.12_345cf1e485_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.12
-- branch: weekly
-  date: '2021-05-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-14.05.2021/fw_picasso_miui_PICASSO_21.5.12_5133a17b4c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.12/picasso/fw_picasso_miui_PICASSO_21.5.12_5133a17b4c_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.5.12_5133a17b4c_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.12
-- branch: weekly
-  date: '2021-04-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-29.04.2021/fw_picasso_miui_PICASSO48M_21.4.29_aaa328812d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.29/picasso/fw_picasso_miui_PICASSO48M_21.4.29_aaa328812d_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.4.29_aaa328812d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.29
-- branch: weekly
-  date: '2021-04-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-29.04.2021/fw_picasso_miui_PICASSO_21.4.29_717653b7bf_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.29/picasso/fw_picasso_miui_PICASSO_21.4.29_717653b7bf_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.4.29_717653b7bf_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.29
-- branch: stable
-  date: '2021-04-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-27.04.2021/fw_picasso_miui_PICASSO_V12.1.8.0.RGICNXM_3d34a905a9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.1.8.0.RGICNXM_3d34a905a9_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.1.8.0.RGICNXM_3d34a905a9_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.1.8.0.RGICNXM
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.03.2021/fw_picasso_miui_PICASSO48M_21.3.17_2be9351e0c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.17/picasso/fw_picasso_miui_PICASSO48M_21.3.17_2be9351e0c_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.3.17_2be9351e0c_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.17
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.03.2021/fw_picasso_miui_PICASSO_21.3.17_c4dd7a39a6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.17/picasso/fw_picasso_miui_PICASSO_21.3.17_c4dd7a39a6_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.3.17_c4dd7a39a6_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.17
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-15.03.2021/fw_picasso_miui_PICASSO48M_V12.1.2.0.RGICMXM_f16e85cd3b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.1.2.0.RGICMXM_f16e85cd3b_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_V12.1.2.0.RGICMXM_f16e85cd3b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.1.2.0.RGICMXM
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-05.02.2021/fw_picasso_miui_PICASSO48M_21.2.3_5b6917c021_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/picasso/fw_picasso_miui_PICASSO48M_21.2.3_5b6917c021_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.2.3_5b6917c021_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.2.3
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-05.02.2021/fw_picasso_miui_PICASSO_21.2.3_2307ec632f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/picasso/fw_picasso_miui_PICASSO_21.2.3_2307ec632f_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.2.3_2307ec632f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.2.3
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-23.01.2021/fw_picasso_miui_PICASSO_21.1.20_67f499455c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/picasso/fw_picasso_miui_PICASSO_21.1.20_67f499455c_11.0.zip
-  filename: fw_picasso_miui_PICASSO_21.1.20_67f499455c_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.20
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-20.01.2021/fw_picasso_miui_PICASSO48M_V12.1.1.0.RGICMXM_192dfa1f57_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.1.1.0.RGICMXM_192dfa1f57_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_V12.1.1.0.RGICMXM_192dfa1f57_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.1.1.0.RGICMXM
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-15.01.2021/fw_picasso_miui_PICASSO48M_21.1.13_93e30614c2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/picasso/fw_picasso_miui_PICASSO48M_21.1.13_93e30614c2_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.1.13_93e30614c2_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.13
-- branch: weekly
-  date: '2021-01-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-08.01.2021/fw_picasso_miui_PICASSO48M_21.1.6_566f8e7465_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/picasso/fw_picasso_miui_PICASSO48M_21.1.6_566f8e7465_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_21.1.6_566f8e7465_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.6
-- branch: weekly
   date: '2020-12-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-31.12.2020/fw_picasso_miui_PICASSO48M_20.12.28_19d69da307_11.0.zip
@@ -458,126 +18,6 @@
   versions:
     android: '11.0'
     miui: 20.12.28
-- branch: stable
-  date: '2020-12-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-24.12.2020/fw_picasso_miui_PICASSO_V12.1.4.0.RGICNXM_a664b3a7e1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.1.4.0.RGICNXM_a664b3a7e1_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.1.4.0.RGICNXM_a664b3a7e1_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.1.4.0.RGICNXM
-- branch: weekly
-  date: '2020-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-03.12.2020/fw_picasso_miui_PICASSO48M_20.12.2_1fd05361bb_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/picasso/fw_picasso_miui_PICASSO48M_20.12.2_1fd05361bb_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_20.12.2_1fd05361bb_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.12.2
-- branch: weekly
-  date: '2020-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-03.12.2020/fw_picasso_miui_PICASSO_20.12.2_507e6fcb09_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/picasso/fw_picasso_miui_PICASSO_20.12.2_507e6fcb09_11.0.zip
-  filename: fw_picasso_miui_PICASSO_20.12.2_507e6fcb09_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.12.2
-- branch: weekly
-  date: '2020-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-26.11.2020/fw_picasso_miui_PICASSO48M_20.11.25_57a7259a4b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/picasso/fw_picasso_miui_PICASSO48M_20.11.25_57a7259a4b_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_20.11.25_57a7259a4b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.25
-- branch: weekly
-  date: '2020-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-26.11.2020/fw_picasso_miui_PICASSO_20.11.25_9a65db2d60_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/picasso/fw_picasso_miui_PICASSO_20.11.25_9a65db2d60_11.0.zip
-  filename: fw_picasso_miui_PICASSO_20.11.25_9a65db2d60_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.25
-- branch: stable
-  date: '2020-11-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-21.11.2020/fw_picasso_miui_PICASSO_V12.1.1.0.RGICNXM_45056581ec_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.1.1.0.RGICNXM_45056581ec_11.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.1.1.0.RGICNXM_45056581ec_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.1.1.0.RGICNXM
-- branch: weekly
-  date: '2020-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-19.11.2020/fw_picasso_miui_PICASSO48M_20.11.18_2b9db4afd0_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/picasso/fw_picasso_miui_PICASSO48M_20.11.18_2b9db4afd0_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_20.11.18_2b9db4afd0_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.18
-- branch: weekly
-  date: '2020-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-19.11.2020/fw_picasso_miui_PICASSO_20.11.18_0d6d0d9f30_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/picasso/fw_picasso_miui_PICASSO_20.11.18_0d6d0d9f30_11.0.zip
-  filename: fw_picasso_miui_PICASSO_20.11.18_0d6d0d9f30_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.18
-- branch: weekly
-  date: '2020-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-12.11.2020/fw_picasso_miui_PICASSO48M_20.11.12_f1aab38f7e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/picasso/fw_picasso_miui_PICASSO48M_20.11.12_f1aab38f7e_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_20.11.12_f1aab38f7e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.12
-- branch: weekly
-  date: '2020-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-12.11.2020/fw_picasso_miui_PICASSO_20.11.12_1f20772379_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/picasso/fw_picasso_miui_PICASSO_20.11.12_1f20772379_11.0.zip
-  filename: fw_picasso_miui_PICASSO_20.11.12_1f20772379_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.12
-- branch: weekly
-  date: '2020-11-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-06.11.2020/fw_picasso_miui_PICASSO48M_20.11.5_59c9eea617_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/picasso/fw_picasso_miui_PICASSO48M_20.11.5_59c9eea617_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_20.11.5_59c9eea617_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.5
-- branch: weekly
-  date: '2020-11-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-06.11.2020/fw_picasso_miui_PICASSO_20.11.5_b8a716b7bc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/picasso/fw_picasso_miui_PICASSO_20.11.5_b8a716b7bc_11.0.zip
-  filename: fw_picasso_miui_PICASSO_20.11.5_b8a716b7bc_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.5
 - branch: weekly
   date: '2020-10-31'
   downloads:
@@ -599,6 +39,16 @@
     android: '11.0'
     miui: 20.10.30
 - branch: weekly
+  date: '2020-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-30.07.2020/fw_picasso_miui_PICASSO_20.7.30_713251a876_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/picasso/fw_picasso_miui_PICASSO_20.7.30_713251a876_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.7.30_713251a876_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.30
+- branch: weekly
   date: '2020-10-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-29.10.2020/fw_picasso_miui_PICASSO_20.10.29_756d47884d_11.0.zip
@@ -608,16 +58,166 @@
   versions:
     android: '11.0'
     miui: 20.10.29
-- branch: stable
-  date: '2020-10-26'
+- branch: weekly
+  date: '2021-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-26.10.2020/fw_picasso_miui_PICASSO_V12.0.7.0.QGICNXM_118ecb3759_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.0.7.0.QGICNXM_118ecb3759_10.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.0.7.0.QGICNXM_118ecb3759_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-29.07.2021/fw_picasso_miui_PICASSO48M_21.7.28_0c95a50ac5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.28/picasso/fw_picasso_miui_PICASSO48M_21.7.28_0c95a50ac5_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.7.28_0c95a50ac5_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.28
+- branch: weekly
+  date: '2021-07-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-29.07.2021/fw_picasso_miui_PICASSO_21.7.28_9695e2674f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.28/picasso/fw_picasso_miui_PICASSO_21.7.28_9695e2674f_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.7.28_9695e2674f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.28
+- branch: weekly
+  date: '2021-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-29.04.2021/fw_picasso_miui_PICASSO48M_21.4.29_aaa328812d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.29/picasso/fw_picasso_miui_PICASSO48M_21.4.29_aaa328812d_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.4.29_aaa328812d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.29
+- branch: weekly
+  date: '2021-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-29.04.2021/fw_picasso_miui_PICASSO_21.4.29_717653b7bf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.29/picasso/fw_picasso_miui_PICASSO_21.4.29_717653b7bf_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.4.29_717653b7bf_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.29
+- branch: weekly
+  date: '2020-05-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-28.05.2020/fw_picasso_miui_PICASSO_20.5.28_1a3b6da8f3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/picasso/fw_picasso_miui_PICASSO_20.5.28_1a3b6da8f3_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.5.28_1a3b6da8f3_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.7.0.QGICNXM
+    miui: 20.5.28
+- branch: weekly
+  date: '2021-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-27.05.2021/fw_picasso_miui_PICASSO48M_21.5.26_646c8559b3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.26/picasso/fw_picasso_miui_PICASSO48M_21.5.26_646c8559b3_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.5.26_646c8559b3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.26
+- branch: weekly
+  date: '2021-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-27.05.2021/fw_picasso_miui_PICASSO_21.5.26_53efcabe57_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.26/picasso/fw_picasso_miui_PICASSO_21.5.26_53efcabe57_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.5.26_53efcabe57_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.26
+- branch: weekly
+  date: '2020-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-27.02.2020/fw_picasso_miui_PICASSO_20.2.27_4361b07006_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/picasso/fw_picasso_miui_PICASSO_20.2.27_4361b07006_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.2.27_4361b07006_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.2.27
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-26.11.2020/fw_picasso_miui_PICASSO48M_20.11.25_57a7259a4b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/picasso/fw_picasso_miui_PICASSO48M_20.11.25_57a7259a4b_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_20.11.25_57a7259a4b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.25
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-26.11.2020/fw_picasso_miui_PICASSO_20.11.25_9a65db2d60_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/picasso/fw_picasso_miui_PICASSO_20.11.25_9a65db2d60_11.0.zip
+  filename: fw_picasso_miui_PICASSO_20.11.25_9a65db2d60_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.25
+- branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-26.03.2020/fw_picasso_miui_PICASSO_20.3.26_d4fdbad600_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/picasso/fw_picasso_miui_PICASSO_20.3.26_d4fdbad600_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.3.26_d4fdbad600_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
+  date: '2020-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-24.09.2020/fw_picasso_miui_PICASSO_20.9.24_080adb8746_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/picasso/fw_picasso_miui_PICASSO_20.9.24_080adb8746_11.0.zip
+  filename: fw_picasso_miui_PICASSO_20.9.24_080adb8746_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.9.24
+- branch: weekly
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-24.06.2021/fw_picasso_miui_PICASSO48M_21.6.23_d378e73cdd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/picasso/fw_picasso_miui_PICASSO48M_21.6.23_d378e73cdd_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.6.23_d378e73cdd_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.23
+- branch: weekly
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-24.06.2021/fw_picasso_miui_PICASSO_21.6.23_0763fbc039_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/picasso/fw_picasso_miui_PICASSO_21.6.23_0763fbc039_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.6.23_0763fbc039_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.23
+- branch: weekly
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-23.07.2020/fw_picasso_miui_PICASSO_20.7.23_f3592574af_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/picasso/fw_picasso_miui_PICASSO_20.7.23_f3592574af_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.7.23_f3592574af_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.23
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-23.01.2021/fw_picasso_miui_PICASSO_21.1.20_67f499455c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/picasso/fw_picasso_miui_PICASSO_21.1.20_67f499455c_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.1.20_67f499455c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.20
 - branch: weekly
   date: '2020-10-22'
   downloads:
@@ -639,25 +239,135 @@
     android: '11.0'
     miui: 20.10.22
 - branch: weekly
-  date: '2020-10-15'
+  date: '2020-05-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-15.10.2020/fw_picasso_miui_PICASSO48M_20.10.15_a337bd5e05_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/picasso/fw_picasso_miui_PICASSO48M_20.10.15_a337bd5e05_11.0.zip
-  filename: fw_picasso_miui_PICASSO48M_20.10.15_a337bd5e05_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-21.05.2020/fw_picasso_miui_PICASSO_20.5.21_ef9dd37553_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/picasso/fw_picasso_miui_PICASSO_20.5.21_ef9dd37553_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.5.21_ef9dd37553_10.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: 20.10.15
+    android: '10.0'
+    miui: 20.5.21
 - branch: weekly
-  date: '2020-09-24'
+  date: '2020-03-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-24.09.2020/fw_picasso_miui_PICASSO_20.9.24_080adb8746_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/picasso/fw_picasso_miui_PICASSO_20.9.24_080adb8746_11.0.zip
-  filename: fw_picasso_miui_PICASSO_20.9.24_080adb8746_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-21.03.2020/fw_picasso_miui_PICASSO_20.3.20_33a1bd8aa3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.20/picasso/fw_picasso_miui_PICASSO_20.3.20_33a1bd8aa3_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.3.20_33a1bd8aa3_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.20
+- branch: weekly
+  date: '2020-02-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-20.02.2020/fw_picasso_miui_PICASSO_20.2.20_61906f4ab7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.20/picasso/fw_picasso_miui_PICASSO_20.2.20_61906f4ab7_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.2.20_61906f4ab7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.2.20
+- branch: weekly
+  date: '2020-01-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-20.01.2020/fw_picasso_miui_PICASSO_20.1.16_68dfe1adb0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/picasso/fw_picasso_miui_PICASSO_20.1.16_68dfe1adb0_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.1.16_68dfe1adb0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.16
+- branch: weekly
+  date: '2021-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-19.11.2021/fw_picasso_miui_PICASSO48M_21.11.17_3b19214f1c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/picasso/fw_picasso_miui_PICASSO48M_21.11.17_3b19214f1c_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.11.17_3b19214f1c_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 20.9.24
+    miui: 21.11.17
+- branch: weekly
+  date: '2021-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-19.11.2021/fw_picasso_miui_PICASSO_21.11.17_5a29e298f7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/picasso/fw_picasso_miui_PICASSO_21.11.17_5a29e298f7_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.11.17_5a29e298f7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.17
+- branch: weekly
+  date: '2020-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-19.11.2020/fw_picasso_miui_PICASSO48M_20.11.18_2b9db4afd0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/picasso/fw_picasso_miui_PICASSO48M_20.11.18_2b9db4afd0_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_20.11.18_2b9db4afd0_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.18
+- branch: weekly
+  date: '2020-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-19.11.2020/fw_picasso_miui_PICASSO_20.11.18_0d6d0d9f30_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/picasso/fw_picasso_miui_PICASSO_20.11.18_0d6d0d9f30_11.0.zip
+  filename: fw_picasso_miui_PICASSO_20.11.18_0d6d0d9f30_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.18
+- branch: weekly
+  date: '2020-06-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.06.2020/fw_picasso_miui_PICASSO_20.6.18_6b7935ec4c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/picasso/fw_picasso_miui_PICASSO_20.6.18_6b7935ec4c_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.6.18_6b7935ec4c_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.18
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.03.2021/fw_picasso_miui_PICASSO48M_21.3.17_2be9351e0c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.17/picasso/fw_picasso_miui_PICASSO48M_21.3.17_2be9351e0c_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.3.17_2be9351e0c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.17
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.03.2021/fw_picasso_miui_PICASSO_21.3.17_c4dd7a39a6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.17/picasso/fw_picasso_miui_PICASSO_21.3.17_c4dd7a39a6_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.3.17_c4dd7a39a6_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.17
+- branch: weekly
+  date: '2022-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.02.2022/fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/picasso/fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
+  filename: fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.17
+- branch: weekly
+  date: '2022-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.02.2022/fw_picasso_miui_PICASSOPRE_22.2.17_42b524e225_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/picasso/fw_picasso_miui_PICASSOPRE_22.2.17_42b524e225_12.0.zip
+  filename: fw_picasso_miui_PICASSOPRE_22.2.17_42b524e225_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.17
 - branch: weekly
   date: '2020-09-17'
   downloads:
@@ -669,55 +379,25 @@
     android: '11.0'
     miui: 20.9.17
 - branch: weekly
-  date: '2020-09-10'
+  date: '2021-10-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-10.09.2020/fw_picasso_miui_PICASSO_20.9.8_e540e877f8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.8/picasso/fw_picasso_miui_PICASSO_20.9.8_e540e877f8_11.0.zip
-  filename: fw_picasso_miui_PICASSO_20.9.8_e540e877f8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-16.10.2021/fw_picasso_miui_PICASSO48M_21.10.13_8fcec10aea_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/picasso/fw_picasso_miui_PICASSO48M_21.10.13_8fcec10aea_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.10.13_8fcec10aea_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 20.9.8
+    miui: 21.10.13
 - branch: weekly
-  date: '2020-08-13'
+  date: '2021-10-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-13.08.2020/fw_picasso_miui_PICASSO_20.8.13_1c175693eb_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.13/picasso/fw_picasso_miui_PICASSO_20.8.13_1c175693eb_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.8.13_1c175693eb_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-16.10.2021/fw_picasso_miui_PICASSO_21.10.13_6c3b6adae1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/picasso/fw_picasso_miui_PICASSO_21.10.13_6c3b6adae1_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.10.13_6c3b6adae1_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: 20.8.13
-- branch: stable
-  date: '2020-08-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-03.08.2020/fw_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
-  filename: fw_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.5.0.QGICNXM
-- branch: weekly
-  date: '2020-07-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-30.07.2020/fw_picasso_miui_PICASSO_20.7.30_713251a876_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/picasso/fw_picasso_miui_PICASSO_20.7.30_713251a876_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.7.30_713251a876_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.30
-- branch: weekly
-  date: '2020-07-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-23.07.2020/fw_picasso_miui_PICASSO_20.7.23_f3592574af_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/picasso/fw_picasso_miui_PICASSO_20.7.23_f3592574af_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.7.23_f3592574af_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.23
+    android: '11.0'
+    miui: 21.10.13
 - branch: weekly
   date: '2020-07-16'
   downloads:
@@ -729,6 +409,156 @@
     android: '10.0'
     miui: 20.7.16
 - branch: weekly
+  date: '2020-10-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-15.10.2020/fw_picasso_miui_PICASSO48M_20.10.15_a337bd5e05_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/picasso/fw_picasso_miui_PICASSO48M_20.10.15_a337bd5e05_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_20.10.15_a337bd5e05_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.10.15
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-15.01.2021/fw_picasso_miui_PICASSO48M_21.1.13_93e30614c2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/picasso/fw_picasso_miui_PICASSO48M_21.1.13_93e30614c2_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.1.13_93e30614c2_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.13
+- branch: weekly
+  date: '2021-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-14.05.2021/fw_picasso_miui_PICASSO48M_21.5.12_345cf1e485_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.12/picasso/fw_picasso_miui_PICASSO48M_21.5.12_345cf1e485_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.5.12_345cf1e485_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.12
+- branch: weekly
+  date: '2021-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-14.05.2021/fw_picasso_miui_PICASSO_21.5.12_5133a17b4c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.12/picasso/fw_picasso_miui_PICASSO_21.5.12_5133a17b4c_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.5.12_5133a17b4c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.12
+- branch: weekly
+  date: '2020-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-14.05.2020/fw_picasso_miui_PICASSO_20.5.14_8c33286ef0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/picasso/fw_picasso_miui_PICASSO_20.5.14_8c33286ef0_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.5.14_8c33286ef0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
+- branch: weekly
+  date: '2022-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-14.02.2022/fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/picasso/fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip
+  filename: fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.9
+- branch: weekly
+  date: '2020-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-13.08.2020/fw_picasso_miui_PICASSO_20.8.13_1c175693eb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.13/picasso/fw_picasso_miui_PICASSO_20.8.13_1c175693eb_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.8.13_1c175693eb_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.8.13
+- branch: weekly
+  date: '2022-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-13.02.2022/fw_picasso_miui_PICASSO48MPRE_22.2.9_848d655b39_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/picasso/fw_picasso_miui_PICASSO48MPRE_22.2.9_848d655b39_12.0.zip
+  filename: fw_picasso_miui_PICASSO48MPRE_22.2.9_848d655b39_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.9
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-12.11.2020/fw_picasso_miui_PICASSO48M_20.11.12_f1aab38f7e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/picasso/fw_picasso_miui_PICASSO48M_20.11.12_f1aab38f7e_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_20.11.12_f1aab38f7e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-12.11.2020/fw_picasso_miui_PICASSO_20.11.12_1f20772379_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/picasso/fw_picasso_miui_PICASSO_20.11.12_1f20772379_11.0.zip
+  filename: fw_picasso_miui_PICASSO_20.11.12_1f20772379_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
+- branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-12.03.2020/fw_picasso_miui_PICASSO_20.3.12_56f04be6ff_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/picasso/fw_picasso_miui_PICASSO_20.3.12_56f04be6ff_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.3.12_56f04be6ff_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.12
+- branch: weekly
+  date: '2020-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-11.06.2020/fw_picasso_miui_PICASSO_20.6.11_186a6727de_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/picasso/fw_picasso_miui_PICASSO_20.6.11_186a6727de_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.6.11_186a6727de_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.11
+- branch: weekly
+  date: '2021-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-10.12.2021/fw_picasso_miui_PICASSO48M_21.12.8_360cccab81_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/picasso/fw_picasso_miui_PICASSO48M_21.12.8_360cccab81_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.12.8_360cccab81_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.8
+- branch: weekly
+  date: '2021-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-10.12.2021/fw_picasso_miui_PICASSO_21.12.8_cfe585c639_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/picasso/fw_picasso_miui_PICASSO_21.12.8_cfe585c639_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.12.8_cfe585c639_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.8
+- branch: weekly
+  date: '2020-09-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-10.09.2020/fw_picasso_miui_PICASSO_20.9.8_e540e877f8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.8/picasso/fw_picasso_miui_PICASSO_20.9.8_e540e877f8_11.0.zip
+  filename: fw_picasso_miui_PICASSO_20.9.8_e540e877f8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.9.8
+- branch: weekly
   date: '2020-07-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-09.07.2020/fw_picasso_miui_PICASSO_20.7.9_41580d31b0_10.0.zip
@@ -738,16 +568,246 @@
   versions:
     android: '10.0'
     miui: 20.7.9
-- branch: stable
-  date: '2020-07-07'
+- branch: weekly
+  date: '2020-05-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-07.07.2020/fw_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
-  filename: fw_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-08.05.2020/fw_picasso_miui_PICASSO_20.5.7_f507bed7ab_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/picasso/fw_picasso_miui_PICASSO_20.5.7_f507bed7ab_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.5.7_f507bed7ab_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QGICMXM
+    miui: 20.5.7
+- branch: weekly
+  date: '2021-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-08.01.2021/fw_picasso_miui_PICASSO48M_21.1.6_566f8e7465_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/picasso/fw_picasso_miui_PICASSO48M_21.1.6_566f8e7465_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.1.6_566f8e7465_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.6
+- branch: weekly
+  date: '2020-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-06.11.2020/fw_picasso_miui_PICASSO48M_20.11.5_59c9eea617_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/picasso/fw_picasso_miui_PICASSO48M_20.11.5_59c9eea617_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_20.11.5_59c9eea617_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.5
+- branch: weekly
+  date: '2020-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-06.11.2020/fw_picasso_miui_PICASSO_20.11.5_b8a716b7bc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/picasso/fw_picasso_miui_PICASSO_20.11.5_b8a716b7bc_11.0.zip
+  filename: fw_picasso_miui_PICASSO_20.11.5_b8a716b7bc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.5
+- branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-06.03.2020/fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/picasso/fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
+- branch: weekly
+  date: '2021-08-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-05.08.2021/fw_picasso_miui_PICASSO48M_21.8.4_70d49f17ee_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.4/picasso/fw_picasso_miui_PICASSO48M_21.8.4_70d49f17ee_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.8.4_70d49f17ee_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.4
+- branch: weekly
+  date: '2021-08-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-05.08.2021/fw_picasso_miui_PICASSO_21.8.4_4c0f10630f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.4/picasso/fw_picasso_miui_PICASSO_21.8.4_4c0f10630f_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.8.4_4c0f10630f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.4
+- branch: weekly
+  date: '2020-06-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-05.06.2020/fw_picasso_miui_PICASSO_20.6.4_254677e6a9_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/picasso/fw_picasso_miui_PICASSO_20.6.4_254677e6a9_10.0.zip
+  filename: fw_picasso_miui_PICASSO_20.6.4_254677e6a9_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.4
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-05.02.2021/fw_picasso_miui_PICASSO48M_21.2.3_5b6917c021_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/picasso/fw_picasso_miui_PICASSO48M_21.2.3_5b6917c021_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.2.3_5b6917c021_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.3
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-05.02.2021/fw_picasso_miui_PICASSO_21.2.3_2307ec632f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/picasso/fw_picasso_miui_PICASSO_21.2.3_2307ec632f_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.2.3_2307ec632f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.3
+- branch: weekly
+  date: '2021-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-04.12.2021/fw_picasso_miui_PICASSO48M_21.12.1_002b85e770_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/picasso/fw_picasso_miui_PICASSO48M_21.12.1_002b85e770_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.12.1_002b85e770_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.1
+- branch: weekly
+  date: '2021-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-04.12.2021/fw_picasso_miui_PICASSO_21.12.1_55d9c5f125_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/picasso/fw_picasso_miui_PICASSO_21.12.1_55d9c5f125_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.12.1_55d9c5f125_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.1
+- branch: weekly
+  date: '2020-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-03.12.2020/fw_picasso_miui_PICASSO48M_20.12.2_1fd05361bb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/picasso/fw_picasso_miui_PICASSO48M_20.12.2_1fd05361bb_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_20.12.2_1fd05361bb_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.12.2
+- branch: weekly
+  date: '2020-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-03.12.2020/fw_picasso_miui_PICASSO_20.12.2_507e6fcb09_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/picasso/fw_picasso_miui_PICASSO_20.12.2_507e6fcb09_11.0.zip
+  filename: fw_picasso_miui_PICASSO_20.12.2_507e6fcb09_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.12.2
+- branch: weekly
+  date: '2021-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-03.06.2021/fw_picasso_miui_PICASSO48M_21.6.2_0e9fb78ea9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/picasso/fw_picasso_miui_PICASSO48M_21.6.2_0e9fb78ea9_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.6.2_0e9fb78ea9_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.2
+- branch: weekly
+  date: '2021-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-03.06.2021/fw_picasso_miui_PICASSO_21.6.2_ca4514b86b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/picasso/fw_picasso_miui_PICASSO_21.6.2_ca4514b86b_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.6.2_ca4514b86b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.2
+- branch: weekly
+  date: '2021-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-02.07.2021/fw_picasso_miui_PICASSO48M_21.6.30_6e14be2d17_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/picasso/fw_picasso_miui_PICASSO48M_21.6.30_6e14be2d17_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_21.6.30_6e14be2d17_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.30
+- branch: weekly
+  date: '2021-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-02.07.2021/fw_picasso_miui_PICASSO_21.6.30_bd78ab9a38_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/picasso/fw_picasso_miui_PICASSO_21.6.30_bd78ab9a38_11.0.zip
+  filename: fw_picasso_miui_PICASSO_21.6.30_bd78ab9a38_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.30
+- branch: stable
+  date: '2021-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-31.12.2021/fw_picasso_miui_PICASSO48M_V12.5.7.0.RGICMXM_d1393869de_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.5.7.0.RGICMXM_d1393869de_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.5.7.0.RGICMXM_d1393869de_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RGICMXM
+- branch: stable
+  date: '2020-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-31.03.2020/fw_picasso_miui_PICASSO_V11.1.18.0.QGICNXM_d7565408e1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.18.0.QGICNXM_d7565408e1_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.1.18.0.QGICNXM_d7565408e1_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.1.18.0.QGICNXM
+- branch: stable
+  date: '2021-12-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-30.12.2021/fw_picasso_miui_PICASSO_V12.5.9.0.RGICNXM_f6a8f5350a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.5.9.0.RGICNXM_f6a8f5350a_11.0.zip
+  filename: fw_picasso_miui_PICASSO_V12.5.9.0.RGICNXM_f6a8f5350a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RGICNXM
+- branch: stable
+  date: '2021-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-27.04.2021/fw_picasso_miui_PICASSO_V12.1.8.0.RGICNXM_3d34a905a9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.1.8.0.RGICNXM_3d34a905a9_11.0.zip
+  filename: fw_picasso_miui_PICASSO_V12.1.8.0.RGICNXM_3d34a905a9_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.1.8.0.RGICNXM
+- branch: stable
+  date: '2020-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-26.10.2020/fw_picasso_miui_PICASSO_V12.0.7.0.QGICNXM_118ecb3759_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.0.7.0.QGICNXM_118ecb3759_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V12.0.7.0.QGICNXM_118ecb3759_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QGICNXM
+- branch: stable
+  date: '2020-12-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-24.12.2020/fw_picasso_miui_PICASSO_V12.1.4.0.RGICNXM_a664b3a7e1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.1.4.0.RGICNXM_a664b3a7e1_11.0.zip
+  filename: fw_picasso_miui_PICASSO_V12.1.4.0.RGICNXM_a664b3a7e1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.1.4.0.RGICNXM
 - branch: stable
   date: '2020-06-24'
   downloads:
@@ -768,96 +828,16 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QGICNXM
-- branch: weekly
-  date: '2020-06-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-18.06.2020/fw_picasso_miui_PICASSO_20.6.18_6b7935ec4c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/picasso/fw_picasso_miui_PICASSO_20.6.18_6b7935ec4c_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.6.18_6b7935ec4c_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.18
-- branch: weekly
-  date: '2020-06-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-11.06.2020/fw_picasso_miui_PICASSO_20.6.11_186a6727de_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/picasso/fw_picasso_miui_PICASSO_20.6.11_186a6727de_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.6.11_186a6727de_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.11
-- branch: weekly
-  date: '2020-06-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-05.06.2020/fw_picasso_miui_PICASSO_20.6.4_254677e6a9_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/picasso/fw_picasso_miui_PICASSO_20.6.4_254677e6a9_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.6.4_254677e6a9_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.4
-- branch: weekly
-  date: '2020-05-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-28.05.2020/fw_picasso_miui_PICASSO_20.5.28_1a3b6da8f3_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.28/picasso/fw_picasso_miui_PICASSO_20.5.28_1a3b6da8f3_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.5.28_1a3b6da8f3_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.28
-- branch: weekly
-  date: '2020-05-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-21.05.2020/fw_picasso_miui_PICASSO_20.5.21_ef9dd37553_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/picasso/fw_picasso_miui_PICASSO_20.5.21_ef9dd37553_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.5.21_ef9dd37553_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.21
-- branch: weekly
-  date: '2020-05-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-14.05.2020/fw_picasso_miui_PICASSO_20.5.14_8c33286ef0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/picasso/fw_picasso_miui_PICASSO_20.5.14_8c33286ef0_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.5.14_8c33286ef0_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.14
 - branch: stable
-  date: '2020-05-14'
+  date: '2020-11-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-14.05.2020/fw_picasso_miui_PICASSO_V11.1.25.0.QGICNXM_94554ec0db_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.25.0.QGICNXM_94554ec0db_10.0.zip
-  filename: fw_picasso_miui_PICASSO_V11.1.25.0.QGICNXM_94554ec0db_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-21.11.2020/fw_picasso_miui_PICASSO_V12.1.1.0.RGICNXM_45056581ec_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.1.1.0.RGICNXM_45056581ec_11.0.zip
+  filename: fw_picasso_miui_PICASSO_V12.1.1.0.RGICNXM_45056581ec_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V11.1.25.0.QGICNXM
-- branch: weekly
-  date: '2020-05-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-08.05.2020/fw_picasso_miui_PICASSO_20.5.7_f507bed7ab_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/picasso/fw_picasso_miui_PICASSO_20.5.7_f507bed7ab_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.5.7_f507bed7ab_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.7
-- branch: stable
-  date: '2020-05-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-01.05.2020/fw_picasso_miui_PICASSO_V11.1.23.0.QGICNXM_136c15dbd7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.23.0.QGICNXM_136c15dbd7_10.0.zip
-  filename: fw_picasso_miui_PICASSO_V11.1.23.0.QGICNXM_136c15dbd7_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.1.23.0.QGICNXM
+    android: '11.0'
+    miui: V12.1.1.0.RGICNXM
 - branch: stable
   date: '2020-04-21'
   downloads:
@@ -869,96 +849,6 @@
     android: '10.0'
     miui: V11.1.20.0.QGICNXM
 - branch: stable
-  date: '2020-04-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-08.04.2020/fw_picasso_miui_PICASSO_V11.1.19.0.QGICNXM_55921e2c61_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.19.0.QGICNXM_55921e2c61_10.0.zip
-  filename: fw_picasso_miui_PICASSO_V11.1.19.0.QGICNXM_55921e2c61_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.1.19.0.QGICNXM
-- branch: stable
-  date: '2020-03-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-31.03.2020/fw_picasso_miui_PICASSO_V11.1.18.0.QGICNXM_d7565408e1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.18.0.QGICNXM_d7565408e1_10.0.zip
-  filename: fw_picasso_miui_PICASSO_V11.1.18.0.QGICNXM_d7565408e1_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.1.18.0.QGICNXM
-- branch: weekly
-  date: '2020-03-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-26.03.2020/fw_picasso_miui_PICASSO_20.3.26_d4fdbad600_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/picasso/fw_picasso_miui_PICASSO_20.3.26_d4fdbad600_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.3.26_d4fdbad600_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.26
-- branch: weekly
-  date: '2020-03-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-21.03.2020/fw_picasso_miui_PICASSO_20.3.20_33a1bd8aa3_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.20/picasso/fw_picasso_miui_PICASSO_20.3.20_33a1bd8aa3_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.3.20_33a1bd8aa3_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.20
-- branch: stable
-  date: '2020-03-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-17.03.2020/fw_picasso_miui_PICASSO_V11.1.15.0.QGICNXM_d19323c8e5_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.15.0.QGICNXM_d19323c8e5_10.0.zip
-  filename: fw_picasso_miui_PICASSO_V11.1.15.0.QGICNXM_d19323c8e5_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.1.15.0.QGICNXM
-- branch: weekly
-  date: '2020-03-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-12.03.2020/fw_picasso_miui_PICASSO_20.3.12_56f04be6ff_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/picasso/fw_picasso_miui_PICASSO_20.3.12_56f04be6ff_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.3.12_56f04be6ff_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.12
-- branch: weekly
-  date: '2020-03-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-06.03.2020/fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/picasso/fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.3.5_ff0ad99b93_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.5
-- branch: weekly
-  date: '2020-02-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-27.02.2020/fw_picasso_miui_PICASSO_20.2.27_4361b07006_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/picasso/fw_picasso_miui_PICASSO_20.2.27_4361b07006_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.2.27_4361b07006_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.2.27
-- branch: weekly
-  date: '2020-02-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-20.02.2020/fw_picasso_miui_PICASSO_20.2.20_61906f4ab7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.20/picasso/fw_picasso_miui_PICASSO_20.2.20_61906f4ab7_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.2.20_61906f4ab7_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.2.20
-- branch: stable
   date: '2020-02-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-20.02.2020/fw_picasso_miui_PICASSO_V11.0.11.0.QGICNXM_65ec88895f_10.0.zip
@@ -969,25 +859,55 @@
     android: '10.0'
     miui: V11.0.11.0.QGICNXM
 - branch: stable
-  date: '2020-02-10'
+  date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-10.02.2020/fw_picasso_miui_PICASSO_V11.0.9.0.QGICNXM_02768d0fa6_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.0.9.0.QGICNXM_02768d0fa6_10.0.zip
-  filename: fw_picasso_miui_PICASSO_V11.0.9.0.QGICNXM_02768d0fa6_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-20.01.2021/fw_picasso_miui_PICASSO48M_V12.1.1.0.RGICMXM_192dfa1f57_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.1.1.0.RGICMXM_192dfa1f57_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.1.1.0.RGICMXM_192dfa1f57_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.1.1.0.RGICMXM
+- branch: stable
+  date: '2021-05-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-19.05.2021/fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
+  filename: fw_picasso_miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RGICNXM
+- branch: stable
+  date: '2021-09-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-18.09.2021/fw_picasso_miui_PICASSO_V12.5.5.0.RGICNXM_117473f5f1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.5.5.0.RGICNXM_117473f5f1_11.0.zip
+  filename: fw_picasso_miui_PICASSO_V12.5.5.0.RGICNXM_117473f5f1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RGICNXM
+- branch: stable
+  date: '2021-05-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-17.05.2021/fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.5.2.0.RGICMXM_4df2ef51db_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RGICMXM
+- branch: stable
+  date: '2020-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-17.03.2020/fw_picasso_miui_PICASSO_V11.1.15.0.QGICNXM_d19323c8e5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.15.0.QGICNXM_d19323c8e5_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.1.15.0.QGICNXM_d19323c8e5_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.9.0.QGICNXM
-- branch: weekly
-  date: '2020-01-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-20.01.2020/fw_picasso_miui_PICASSO_20.1.16_68dfe1adb0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.16/picasso/fw_picasso_miui_PICASSO_20.1.16_68dfe1adb0_10.0.zip
-  filename: fw_picasso_miui_PICASSO_20.1.16_68dfe1adb0_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.1.16
+    miui: V11.1.15.0.QGICNXM
 - branch: stable
   date: '2020-01-16'
   downloads:
@@ -999,6 +919,16 @@
     android: '10.0'
     miui: V11.0.7.0.QGICNXM
 - branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-15.03.2021/fw_picasso_miui_PICASSO48M_V12.1.2.0.RGICMXM_f16e85cd3b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.1.2.0.RGICMXM_f16e85cd3b_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.1.2.0.RGICMXM_f16e85cd3b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.1.2.0.RGICMXM
+- branch: stable
   date: '2020-01-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-15.01.2020/fw_picasso_miui_PICASSO_V11.0.3.0.QGICNXM_9dc5e5a16b_10.0.zip
@@ -1008,3 +938,73 @@
   versions:
     android: '10.0'
     miui: V11.0.3.0.QGICNXM
+- branch: stable
+  date: '2020-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-14.05.2020/fw_picasso_miui_PICASSO_V11.1.25.0.QGICNXM_94554ec0db_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.25.0.QGICNXM_94554ec0db_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.1.25.0.QGICNXM_94554ec0db_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.1.25.0.QGICNXM
+- branch: stable
+  date: '2020-02-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-10.02.2020/fw_picasso_miui_PICASSO_V11.0.9.0.QGICNXM_02768d0fa6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.0.9.0.QGICNXM_02768d0fa6_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.0.9.0.QGICNXM_02768d0fa6_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.9.0.QGICNXM
+- branch: stable
+  date: '2021-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-08.10.2021/fw_picasso_miui_PICASSO48M_V12.5.4.0.RGICMXM_7901265393_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.5.4.0.RGICMXM_7901265393_11.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.5.4.0.RGICMXM_7901265393_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RGICMXM
+- branch: stable
+  date: '2020-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-08.04.2020/fw_picasso_miui_PICASSO_V11.1.19.0.QGICNXM_55921e2c61_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.19.0.QGICNXM_55921e2c61_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.1.19.0.QGICNXM_55921e2c61_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.1.19.0.QGICNXM
+- branch: stable
+  date: '2020-07-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-07.07.2020/fw_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V12.0.3.0.QGICMXM_b1490c8ae0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QGICMXM
+- branch: stable
+  date: '2020-08-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-03.08.2020/fw_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/picasso/fw_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QGICNXM
+- branch: stable
+  date: '2020-05-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-01.05.2020/fw_picasso_miui_PICASSO_V11.1.23.0.QGICNXM_136c15dbd7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/picasso/fw_picasso_miui_PICASSO_V11.1.23.0.QGICNXM_136c15dbd7_10.0.zip
+  filename: fw_picasso_miui_PICASSO_V11.1.23.0.QGICNXM_136c15dbd7_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.1.23.0.QGICNXM

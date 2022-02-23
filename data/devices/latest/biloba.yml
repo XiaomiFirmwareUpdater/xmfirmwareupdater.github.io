@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2022-02-09'
+  date: '2021-09-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-09.02.2022/fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/biloba/fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
-  filename: fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-28.09.2021/fw_biloba_miui_BILOBAGlobal_V12.5.7.0.RCUMIXM_8c81cfa8c1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAGlobal_V12.5.7.0.RCUMIXM_8c81cfa8c1_11.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V12.5.7.0.RCUMIXM_8c81cfa8c1_11.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.2.0.SCUMIXM
+    android: '11.0'
+    miui: V12.5.7.0.RCUMIXM
 - branch: stable
-  date: '2021-12-20'
+  date: '2021-06-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-20.12.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.7.0.RCUEUXM_ee2aae60a1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAEEAGlobal_V12.5.7.0.RCUEUXM_ee2aae60a1_11.0.zip
-  filename: fw_biloba_miui_BILOBAEEAGlobal_V12.5.7.0.RCUEUXM_ee2aae60a1_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-29.06.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.2.0.RCUEUXM_c183da341f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAEEAGlobal_V12.5.2.0.RCUEUXM_c183da341f_11.0.zip
+  filename: fw_biloba_miui_BILOBAEEAGlobal_V12.5.2.0.RCUEUXM_c183da341f_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RCUEUXM
+    miui: V12.5.2.0.RCUEUXM

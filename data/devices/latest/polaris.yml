@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2021-01-04'
+  date: '2020-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_polaris/releases/download/stable-05.01.2021/fw_polaris_miui_MIMIX2SGlobal_V12.0.3.0.QDGMIXM_13c81516b3_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/polaris/fw_polaris_miui_MIMIX2SGlobal_V12.0.3.0.QDGMIXM_13c81516b3_10.0.zip
-  filename: fw_polaris_miui_MIMIX2SGlobal_V12.0.3.0.QDGMIXM_13c81516b3_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_polaris/releases/download/stable-31.03.2020/fw_polaris_miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/polaris/fw_polaris_miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip
+  filename: fw_polaris_miui_MIMIX2SGlobal_V11.0.4.0.QDGMIXM_3ced5b0111_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QDGMIXM
+    miui: V11.0.4.0.QDGMIXM
 - branch: stable
-  date: '2021-04-08'
+  date: '2019-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_polaris/releases/download/stable-08.04.2021/fw_polaris_miui_MIMIX2S_V12.0.3.0.QDGCNXM_cd55623678_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/polaris/fw_polaris_miui_MIMIX2S_V12.0.3.0.QDGCNXM_cd55623678_10.0.zip
-  filename: fw_polaris_miui_MIMIX2S_V12.0.3.0.QDGCNXM_cd55623678_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_polaris/releases/download/stable-30.05.2019/fw_polaris_miui_MIMIX2S_V10.3.2.0.PDGCNXM_57be71f13b_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/polaris/fw_polaris_miui_MIMIX2S_V10.3.2.0.PDGCNXM_57be71f13b_9.0.zip
+  filename: fw_polaris_miui_MIMIX2S_V10.3.2.0.PDGCNXM_57be71f13b_9.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V12.0.3.0.QDGCNXM
+    android: '9.0'
+    miui: V10.3.2.0.PDGCNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-09-05'
+  date: '2020-03-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_polaris/releases/download/weekly-05.09.2020/fw_polaris_miui_MIMIX2S_20.9.4_233f82b05a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.4/polaris/fw_polaris_miui_MIMIX2S_20.9.4_233f82b05a_10.0.zip
-  filename: fw_polaris_miui_MIMIX2S_20.9.4_233f82b05a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_polaris/releases/download/weekly-27.03.2020/fw_polaris_miui_MIMIX2S_20.3.26_76a5fed9ab_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/polaris/fw_polaris_miui_MIMIX2S_20.3.26_76a5fed9ab_10.0.zip
+  filename: fw_polaris_miui_MIMIX2S_20.3.26_76a5fed9ab_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.9.4
+    miui: 20.3.26

@@ -111,7 +111,7 @@
 - branch: weekly
   date: '2018-05-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_markw/releases/download/untagged-9eb284a269ec584bf178/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_markw/releases/download/untagged-d4f6929a789b542972b3/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MBECNFA/markw/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip
   filename: fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip
   region: China
@@ -121,7 +121,7 @@
 - branch: weekly
   date: '2018-05-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_markw/releases/download/untagged-d4f6929a789b542972b3/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_markw/releases/download/untagged-9eb284a269ec584bf178/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.MBECNFA/markw/fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip
   filename: fw_markw_miui_HM4Pro_V9.5.2.0.MBECNFA_c66facf730_6.0.zip
   region: China

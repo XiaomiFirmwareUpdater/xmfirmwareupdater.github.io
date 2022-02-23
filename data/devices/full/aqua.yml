@@ -61,7 +61,7 @@
 - branch: weekly
   date: '2018-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aqua/releases/download/untagged-0097e3bccc66c87419e1/fw_aqua_miui_MI4s_V9.5.2.0.NAJCNFA_ce50009b0e_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aqua/releases/download/untagged-589317ca804892f2d4f4/fw_aqua_miui_MI4s_V9.5.2.0.NAJCNFA_ce50009b0e_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAJCNFA/aqua/fw_aqua_miui_MI4s_V9.5.2.0.NAJCNFA_ce50009b0e_7.0.zip
   filename: fw_aqua_miui_MI4s_V9.5.2.0.NAJCNFA_ce50009b0e_7.0.zip
   region: China
@@ -71,7 +71,7 @@
 - branch: weekly
   date: '2018-05-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aqua/releases/download/untagged-589317ca804892f2d4f4/fw_aqua_miui_MI4s_V9.5.2.0.NAJCNFA_ce50009b0e_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_aqua/releases/download/untagged-0097e3bccc66c87419e1/fw_aqua_miui_MI4s_V9.5.2.0.NAJCNFA_ce50009b0e_7.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAJCNFA/aqua/fw_aqua_miui_MI4s_V9.5.2.0.NAJCNFA_ce50009b0e_7.0.zip
   filename: fw_aqua_miui_MI4s_V9.5.2.0.NAJCNFA_ce50009b0e_7.0.zip
   region: China

@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2021-04-08'
+  date: '2019-08-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_wayne/releases/download/stable-08.04.2021/fw-non-arb_wayne_miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/wayne/fw-non-arb_wayne_miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
-  filename: fw-non-arb_wayne_miui_MI6X_V12.0.2.0.PDCCNXM_7c0078f6ae_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_wayne/releases/download/stable-27.08.2019/fw_wayne_miui_MI6X_V10.3.6.0.PDCCNXM_3a07c1cad3_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/wayne/fw_wayne_miui_MI6X_V10.3.6.0.PDCCNXM_3a07c1cad3_9.0.zip
+  filename: fw_wayne_miui_MI6X_V10.3.6.0.PDCCNXM_3a07c1cad3_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: V12.0.2.0.PDCCNXM
+    miui: V10.3.6.0.PDCCNXM
 - branch: weekly
-  date: '2020-06-18'
+  date: '2019-04-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_wayne/releases/download/weekly-18.06.2020/fw_wayne_miui_MI6X_20.6.18_5810c312a5_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/wayne/fw_wayne_miui_MI6X_20.6.18_5810c312a5_9.0.zip
-  filename: fw_wayne_miui_MI6X_20.6.18_5810c312a5_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_wayne/releases/download/weekly-26.04.2019/fw_wayne_miui_MI6X_9.4.25_1df3ff99e7_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.25/wayne/fw_wayne_miui_MI6X_9.4.25_1df3ff99e7_9.0.zip
+  filename: fw_wayne_miui_MI6X_9.4.25_1df3ff99e7_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 20.6.18
+    miui: 9.4.25

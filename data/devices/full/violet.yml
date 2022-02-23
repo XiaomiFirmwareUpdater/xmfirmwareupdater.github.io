@@ -1,153 +1,3 @@
-- branch: stable
-  date: '2021-11-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-17.11.2021/fw_violet_miui_VIOLET_V12.5.4.0.QFHCNXM_8706bb89a6_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLET_V12.5.4.0.QFHCNXM_8706bb89a6_10.0.zip
-  filename: fw_violet_miui_VIOLET_V12.5.4.0.QFHCNXM_8706bb89a6_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.5.4.0.QFHCNXM
-- branch: stable
-  date: '2021-10-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-08.10.2021/fw_violet_miui_VIOLETINGlobal_V12.5.1.0.QFHINXM_125bf9d2a7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLETINGlobal_V12.5.1.0.QFHINXM_125bf9d2a7_10.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V12.5.1.0.QFHINXM_125bf9d2a7_10.0.zip
-  region: India
-  versions:
-    android: '10.0'
-    miui: V12.5.1.0.QFHINXM
-- branch: stable
-  date: '2021-06-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-30.06.2021/fw_violet_miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip
-  filename: fw_violet_miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.5.1.0.QFHCNXM
-- branch: weekly
-  date: '2021-04-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-24.04.2021/fw_violet_miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.22/violet/fw_violet_miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
-  filename: fw_violet_miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.4.22
-- branch: weekly
-  date: '2021-04-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-08.04.2021/fw_violet_miui_VIOLET_21.4.7_1b8c7905b4_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/violet/fw_violet_miui_VIOLET_21.4.7_1b8c7905b4_10.0.zip
-  filename: fw_violet_miui_VIOLET_21.4.7_1b8c7905b4_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.4.7
-- branch: weekly
-  date: '2021-02-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-05.02.2021/fw_violet_miui_VIOLET_21.2.3_581daa24ff_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/violet/fw_violet_miui_VIOLET_21.2.3_581daa24ff_10.0.zip
-  filename: fw_violet_miui_VIOLET_21.2.3_581daa24ff_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.2.3
-- branch: weekly
-  date: '2021-01-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-23.01.2021/fw_violet_miui_VIOLET_21.1.20_06a837897e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/violet/fw_violet_miui_VIOLET_21.1.20_06a837897e_10.0.zip
-  filename: fw_violet_miui_VIOLET_21.1.20_06a837897e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.1.20
-- branch: stable
-  date: '2021-01-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-17.01.2021/fw_violet_miui_VIOLETINGlobal_V12.0.5.0.QFHINXM_8038307154_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLETINGlobal_V12.0.5.0.QFHINXM_8038307154_10.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V12.0.5.0.QFHINXM_8038307154_10.0.zip
-  region: India
-  versions:
-    android: '10.0'
-    miui: V12.0.5.0.QFHINXM
-- branch: weekly
-  date: '2021-01-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-15.01.2021/fw_violet_miui_VIOLET_21.1.13_5d9bda93a1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/violet/fw_violet_miui_VIOLET_21.1.13_5d9bda93a1_10.0.zip
-  filename: fw_violet_miui_VIOLET_21.1.13_5d9bda93a1_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.1.13
-- branch: weekly
-  date: '2021-01-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-08.01.2021/fw_violet_miui_VIOLET_21.1.6_c2db532c2f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/violet/fw_violet_miui_VIOLET_21.1.6_c2db532c2f_10.0.zip
-  filename: fw_violet_miui_VIOLET_21.1.6_c2db532c2f_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 21.1.6
-- branch: weekly
-  date: '2020-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-03.12.2020/fw_violet_miui_VIOLET_20.12.2_9207b6faba_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/violet/fw_violet_miui_VIOLET_20.12.2_9207b6faba_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.12.2_9207b6faba_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.12.2
-- branch: stable
-  date: '2020-12-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-01.12.2020/fw_violet_miui_VIOLETINGlobal_V12.0.4.0.QFHINXM_f39261f8cb_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLETINGlobal_V12.0.4.0.QFHINXM_f39261f8cb_10.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V12.0.4.0.QFHINXM_f39261f8cb_10.0.zip
-  region: India
-  versions:
-    android: '10.0'
-    miui: V12.0.4.0.QFHINXM
-- branch: weekly
-  date: '2020-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-26.11.2020/fw_violet_miui_VIOLET_20.11.25_33be88623d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/violet/fw_violet_miui_VIOLET_20.11.25_33be88623d_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.11.25_33be88623d_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.25
-- branch: weekly
-  date: '2020-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-19.11.2020/fw_violet_miui_VIOLET_20.11.18_ebf4565958_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/violet/fw_violet_miui_VIOLET_20.11.18_ebf4565958_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.11.18_ebf4565958_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.18
-- branch: weekly
-  date: '2020-11-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-06.11.2020/fw_violet_miui_VIOLET_20.11.5_5dcfc0c44b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/violet/fw_violet_miui_VIOLET_20.11.5_5dcfc0c44b_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.11.5_5dcfc0c44b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.5
 - branch: weekly
   date: '2020-10-31'
   downloads:
@@ -169,125 +19,15 @@
     android: '10.0'
     miui: 20.10.29
 - branch: weekly
-  date: '2020-10-22'
+  date: '2019-05-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-22.10.2020/fw_violet_miui_VIOLET_20.10.22_367151adc1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/violet/fw_violet_miui_VIOLET_20.10.22_367151adc1_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.10.22_367151adc1_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-28.05.2019/fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/violet/fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
   region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.22
-- branch: stable
-  date: '2020-10-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-10.10.2020/fw_violet_miui_VIOLET_V12.0.3.0.QFHCNXM_23b306b741_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLET_V12.0.3.0.QFHCNXM_23b306b741_10.0.zip
-  filename: fw_violet_miui_VIOLET_V12.0.3.0.QFHCNXM_23b306b741_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.3.0.QFHCNXM
-- branch: weekly
-  date: '2020-09-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-24.09.2020/fw_violet_miui_VIOLET_20.9.24_ba138a4eda_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/violet/fw_violet_miui_VIOLET_20.9.24_ba138a4eda_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.9.24_ba138a4eda_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.24
-- branch: weekly
-  date: '2020-09-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-17.09.2020/fw_violet_miui_VIOLET_20.9.17_1a4434739b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/violet/fw_violet_miui_VIOLET_20.9.17_1a4434739b_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.9.17_1a4434739b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.17
-- branch: stable
-  date: '2020-08-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-13.08.2020/fw_violet_miui_VIOLET_V12.0.2.0.QFHCNXM_cb92059195_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLET_V12.0.2.0.QFHCNXM_cb92059195_10.0.zip
-  filename: fw_violet_miui_VIOLET_V12.0.2.0.QFHCNXM_cb92059195_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.2.0.QFHCNXM
-- branch: stable
-  date: '2020-07-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-22.07.2020/fw_violet_miui_VIOLETINGlobal_V11.0.10.0.PFHINXM_907964be70_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.10.0.PFHINXM_907964be70_9.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V11.0.10.0.PFHINXM_907964be70_9.0.zip
-  region: India
   versions:
     android: '9.0'
-    miui: V11.0.10.0.PFHINXM
-- branch: weekly
-  date: '2020-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-09.07.2020/fw_violet_miui_VIOLET_20.7.9_e3e8fae73e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/violet/fw_violet_miui_VIOLET_20.7.9_e3e8fae73e_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.7.9_e3e8fae73e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.9
-- branch: weekly
-  date: '2020-07-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-03.07.2020/fw_violet_miui_VIOLET_20.7.3_531e9afe93_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.3/violet/fw_violet_miui_VIOLET_20.7.3_531e9afe93_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.7.3_531e9afe93_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.3
-- branch: weekly
-  date: '2020-06-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-18.06.2020/fw_violet_miui_VIOLET_20.6.18_478cbb7a95_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/violet/fw_violet_miui_VIOLET_20.6.18_478cbb7a95_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.6.18_478cbb7a95_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.18
-- branch: weekly
-  date: '2020-06-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-11.06.2020/fw_violet_miui_VIOLET_20.6.11_38335677af_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/violet/fw_violet_miui_VIOLET_20.6.11_38335677af_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.6.11_38335677af_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.11
-- branch: weekly
-  date: '2020-05-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-15.05.2020/fw_violet_miui_VIOLET_20.5.14_57132ab172_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/violet/fw_violet_miui_VIOLET_20.5.14_57132ab172_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.5.14_57132ab172_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.14
-- branch: weekly
-  date: '2020-05-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-08.05.2020/fw_violet_miui_VIOLET_20.5.7_657b3a5873_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/violet/fw_violet_miui_VIOLET_20.5.7_657b3a5873_10.0.zip
-  filename: fw_violet_miui_VIOLET_20.5.7_657b3a5873_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.7
+    miui: 9.5.23
 - branch: weekly
   date: '2020-04-27'
   downloads:
@@ -299,6 +39,306 @@
     android: '10.0'
     miui: 20.4.27
 - branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-26.11.2020/fw_violet_miui_VIOLET_20.11.25_33be88623d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/violet/fw_violet_miui_VIOLET_20.11.25_33be88623d_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.11.25_33be88623d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.25
+- branch: weekly
+  date: '2019-10-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-25.10.2019/fw_violet_miui_VIOLET_9.10.24_e5cadaab87_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.24/violet/fw_violet_miui_VIOLET_9.10.24_e5cadaab87_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.10.24_e5cadaab87_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.10.24
+- branch: weekly
+  date: '2020-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-24.09.2020/fw_violet_miui_VIOLET_20.9.24_ba138a4eda_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/violet/fw_violet_miui_VIOLET_20.9.24_ba138a4eda_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.9.24_ba138a4eda_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.9.24
+- branch: weekly
+  date: '2019-05-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-24.05.2019/fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/violet/fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.5.23
+- branch: weekly
+  date: '2021-04-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-24.04.2021/fw_violet_miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.22/violet/fw_violet_miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
+  filename: fw_violet_miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 21.4.22
+- branch: weekly
+  date: '2021-01-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-23.01.2021/fw_violet_miui_VIOLET_21.1.20_06a837897e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/violet/fw_violet_miui_VIOLET_21.1.20_06a837897e_10.0.zip
+  filename: fw_violet_miui_VIOLET_21.1.20_06a837897e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 21.1.20
+- branch: weekly
+  date: '2019-11-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-22.11.2019/fw_violet_miui_VIOLET_9.11.21_e91b71f19c_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.21/violet/fw_violet_miui_VIOLET_9.11.21_e91b71f19c_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.11.21_e91b71f19c_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.11.21
+- branch: weekly
+  date: '2020-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-22.10.2020/fw_violet_miui_VIOLET_20.10.22_367151adc1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/violet/fw_violet_miui_VIOLET_20.10.22_367151adc1_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.10.22_367151adc1_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.10.22
+- branch: weekly
+  date: '2019-06-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-22.06.2019/fw_violet_miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/violet/fw_violet_miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.6.20
+- branch: weekly
+  date: '2020-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-19.11.2020/fw_violet_miui_VIOLET_20.11.18_ebf4565958_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/violet/fw_violet_miui_VIOLET_20.11.18_ebf4565958_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.11.18_ebf4565958_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.18
+- branch: weekly
+  date: '2020-06-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-18.06.2020/fw_violet_miui_VIOLET_20.6.18_478cbb7a95_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/violet/fw_violet_miui_VIOLET_20.6.18_478cbb7a95_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.6.18_478cbb7a95_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.18
+- branch: weekly
+  date: '2020-09-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-17.09.2020/fw_violet_miui_VIOLET_20.9.17_1a4434739b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/violet/fw_violet_miui_VIOLET_20.9.17_1a4434739b_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.9.17_1a4434739b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.9.17
+- branch: weekly
+  date: '2019-05-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-17.05.2019/fw_violet_miui_VIOLET_9.5.16_6eeb0dcfb8_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/violet/fw_violet_miui_VIOLET_9.5.16_6eeb0dcfb8_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.5.16_6eeb0dcfb8_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.5.16
+- branch: weekly
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-15.11.2019/fw_violet_miui_VIOLET_9.11.14_bc24fb6553_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.14/violet/fw_violet_miui_VIOLET_9.11.14_bc24fb6553_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.11.14_bc24fb6553_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.11.14
+- branch: weekly
+  date: '2020-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-15.05.2020/fw_violet_miui_VIOLET_20.5.14_57132ab172_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/violet/fw_violet_miui_VIOLET_20.5.14_57132ab172_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.5.14_57132ab172_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
+- branch: weekly
+  date: '2021-01-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-15.01.2021/fw_violet_miui_VIOLET_21.1.13_5d9bda93a1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/violet/fw_violet_miui_VIOLET_21.1.13_5d9bda93a1_10.0.zip
+  filename: fw_violet_miui_VIOLET_21.1.13_5d9bda93a1_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 21.1.13
+- branch: weekly
+  date: '2019-12-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-13.12.2019/fw_violet_miui_VIOLET_9.12.12_7b3b79a7e1_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/violet/fw_violet_miui_VIOLET_9.12.12_7b3b79a7e1_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.12.12_7b3b79a7e1_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.12.12
+- branch: weekly
+  date: '2020-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-11.06.2020/fw_violet_miui_VIOLET_20.6.11_38335677af_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/violet/fw_violet_miui_VIOLET_20.6.11_38335677af_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.6.11_38335677af_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.11
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-09.07.2020/fw_violet_miui_VIOLET_20.7.9_e3e8fae73e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/violet/fw_violet_miui_VIOLET_20.7.9_e3e8fae73e_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.7.9_e3e8fae73e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
+- branch: weekly
+  date: '2020-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-08.05.2020/fw_violet_miui_VIOLET_20.5.7_657b3a5873_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/violet/fw_violet_miui_VIOLET_20.5.7_657b3a5873_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.5.7_657b3a5873_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.7
+- branch: weekly
+  date: '2021-04-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-08.04.2021/fw_violet_miui_VIOLET_21.4.7_1b8c7905b4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/violet/fw_violet_miui_VIOLET_21.4.7_1b8c7905b4_10.0.zip
+  filename: fw_violet_miui_VIOLET_21.4.7_1b8c7905b4_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 21.4.7
+- branch: weekly
+  date: '2021-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-08.01.2021/fw_violet_miui_VIOLET_21.1.6_c2db532c2f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/violet/fw_violet_miui_VIOLET_21.1.6_c2db532c2f_10.0.zip
+  filename: fw_violet_miui_VIOLET_21.1.6_c2db532c2f_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 21.1.6
+- branch: weekly
+  date: '2019-12-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-06.12.2019/fw_violet_miui_VIOLET_9.12.5_d8493cb7eb_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/violet/fw_violet_miui_VIOLET_9.12.5_d8493cb7eb_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.12.5_d8493cb7eb_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.12.5
+- branch: weekly
+  date: '2020-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-06.11.2020/fw_violet_miui_VIOLET_20.11.5_5dcfc0c44b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/violet/fw_violet_miui_VIOLET_20.11.5_5dcfc0c44b_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.11.5_5dcfc0c44b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.11.5
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-06.09.2019/fw_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.3/violet/fw_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.9.3
+- branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-05.07.2019/fw_violet_miui_VIOLET_9.7.4_8f73ae6920_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/violet/fw_violet_miui_VIOLET_9.7.4_8f73ae6920_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.7.4_8f73ae6920_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.7.4
+- branch: weekly
+  date: '2021-02-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-05.02.2021/fw_violet_miui_VIOLET_21.2.3_581daa24ff_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/violet/fw_violet_miui_VIOLET_21.2.3_581daa24ff_10.0.zip
+  filename: fw_violet_miui_VIOLET_21.2.3_581daa24ff_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 21.2.3
+- branch: weekly
+  date: '2020-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-03.12.2020/fw_violet_miui_VIOLET_20.12.2_9207b6faba_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/violet/fw_violet_miui_VIOLET_20.12.2_9207b6faba_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.12.2_9207b6faba_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.12.2
+- branch: weekly
+  date: '2020-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-03.07.2020/fw_violet_miui_VIOLET_20.7.3_531e9afe93_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.3/violet/fw_violet_miui_VIOLET_20.7.3_531e9afe93_10.0.zip
+  filename: fw_violet_miui_VIOLET_20.7.3_531e9afe93_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.3
+- branch: weekly
+  date: '2019-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-03.06.2019/fw_violet_miui_VIOLET_9.5.30_902f53eaa3_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/violet/fw_violet_miui_VIOLET_9.5.30_902f53eaa3_9.0.zip
+  filename: fw_violet_miui_VIOLET_9.5.30_902f53eaa3_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.5.30
+- branch: weekly
   date: '2020-04-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-03.04.2020/fw_violet_miui_VIOLET_20.4.1_4fc2477b49_10.0.zip
@@ -308,6 +348,126 @@
   versions:
     android: '10.0'
     miui: 20.4.1
+- branch: stable
+  date: '2021-06-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-30.06.2021/fw_violet_miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip
+  filename: fw_violet_miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.5.1.0.QFHCNXM
+- branch: stable
+  date: '2019-12-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-26.12.2019/fw_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.6.0.PFHINXM
+- branch: stable
+  date: '2019-06-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-26.06.2019/fw_violet_miui_VIOLET_V10.3.8.0.PFHCNXM_57ce442583_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLET_V10.3.8.0.PFHCNXM_57ce442583_9.0.zip
+  filename: fw_violet_miui_VIOLET_V10.3.8.0.PFHCNXM_57ce442583_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.3.8.0.PFHCNXM
+- branch: stable
+  date: '2019-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-23.07.2019/fw_violet_miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V10.3.12.0.PFHINXM
+- branch: stable
+  date: '2020-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-22.07.2020/fw_violet_miui_VIOLETINGlobal_V11.0.10.0.PFHINXM_907964be70_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.10.0.PFHINXM_907964be70_9.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V11.0.10.0.PFHINXM_907964be70_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V11.0.10.0.PFHINXM
+- branch: stable
+  date: '2019-08-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-20.08.2019/fw_violet_miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip
+  region: India
+  versions:
+    android: '9.0'
+    miui: V10.3.13.0.PFHINXM
+- branch: stable
+  date: '2019-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-20.05.2019/fw_violet_miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip
+  filename: fw_violet_miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.3.5.0.PFHCNXM
+- branch: stable
+  date: '2019-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-18.10.2019/fw_violet_miui_VIOLET_V11.0.3.0.PFHCNXM_38ac3021fa_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLET_V11.0.3.0.PFHCNXM_38ac3021fa_9.0.zip
+  filename: fw_violet_miui_VIOLET_V11.0.3.0.PFHCNXM_38ac3021fa_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFHCNXM
+- branch: stable
+  date: '2019-06-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-18.06.2019/fw_violet_miui_VIOLET_V10.3.6.0.PFHCNXM_8c67bdc758_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLET_V10.3.6.0.PFHCNXM_8c67bdc758_9.0.zip
+  filename: fw_violet_miui_VIOLET_V10.3.6.0.PFHCNXM_8c67bdc758_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.3.6.0.PFHCNXM
+- branch: stable
+  date: '2021-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-17.11.2021/fw_violet_miui_VIOLET_V12.5.4.0.QFHCNXM_8706bb89a6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLET_V12.5.4.0.QFHCNXM_8706bb89a6_10.0.zip
+  filename: fw_violet_miui_VIOLET_V12.5.4.0.QFHCNXM_8706bb89a6_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.5.4.0.QFHCNXM
+- branch: stable
+  date: '2021-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-17.01.2021/fw_violet_miui_VIOLETINGlobal_V12.0.5.0.QFHINXM_8038307154_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLETINGlobal_V12.0.5.0.QFHINXM_8038307154_10.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V12.0.5.0.QFHINXM_8038307154_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QFHINXM
+- branch: stable
+  date: '2020-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-13.08.2020/fw_violet_miui_VIOLET_V12.0.2.0.QFHCNXM_cb92059195_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLET_V12.0.2.0.QFHCNXM_cb92059195_10.0.zip
+  filename: fw_violet_miui_VIOLET_V12.0.2.0.QFHCNXM_cb92059195_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFHCNXM
 - branch: stable
   date: '2020-03-12'
   downloads:
@@ -329,55 +489,45 @@
     android: '9.0'
     miui: V11.0.8.0.PFHCNXM
 - branch: stable
-  date: '2019-12-26'
+  date: '2020-10-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-26.12.2019/fw_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V11.0.6.0.PFHINXM_d0578a77ec_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-10.10.2020/fw_violet_miui_VIOLET_V12.0.3.0.QFHCNXM_23b306b741_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLET_V12.0.3.0.QFHCNXM_23b306b741_10.0.zip
+  filename: fw_violet_miui_VIOLET_V12.0.3.0.QFHCNXM_23b306b741_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QFHCNXM
+- branch: stable
+  date: '2021-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-08.10.2021/fw_violet_miui_VIOLETINGlobal_V12.5.1.0.QFHINXM_125bf9d2a7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLETINGlobal_V12.5.1.0.QFHINXM_125bf9d2a7_10.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V12.5.1.0.QFHINXM_125bf9d2a7_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.5.1.0.QFHINXM
+- branch: stable
+  date: '2019-05-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-07.05.2019/fw_violet_miui_VIOLETINGlobal_V10.2.10.0.PFHINXM_3788e2b1a6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLETINGlobal_V10.2.10.0.PFHINXM_3788e2b1a6_9.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V10.2.10.0.PFHINXM_3788e2b1a6_9.0.zip
   region: India
   versions:
     android: '9.0'
-    miui: V11.0.6.0.PFHINXM
-- branch: weekly
-  date: '2019-12-13'
+    miui: V10.2.10.0.PFHINXM
+- branch: stable
+  date: '2019-08-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-13.12.2019/fw_violet_miui_VIOLET_9.12.12_7b3b79a7e1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.12/violet/fw_violet_miui_VIOLET_9.12.12_7b3b79a7e1_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.12.12_7b3b79a7e1_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-05.08.2019/fw_violet_miui_VIOLET_V10.3.10.0.PFHCNXM_fe274086b6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLET_V10.3.10.0.PFHCNXM_fe274086b6_9.0.zip
+  filename: fw_violet_miui_VIOLET_V10.3.10.0.PFHCNXM_fe274086b6_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 9.12.12
-- branch: weekly
-  date: '2019-12-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-06.12.2019/fw_violet_miui_VIOLET_9.12.5_d8493cb7eb_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/violet/fw_violet_miui_VIOLET_9.12.5_d8493cb7eb_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.12.5_d8493cb7eb_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.12.5
-- branch: weekly
-  date: '2019-11-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-22.11.2019/fw_violet_miui_VIOLET_9.11.21_e91b71f19c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.21/violet/fw_violet_miui_VIOLET_9.11.21_e91b71f19c_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.11.21_e91b71f19c_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.11.21
-- branch: weekly
-  date: '2019-11-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-15.11.2019/fw_violet_miui_VIOLET_9.11.14_bc24fb6553_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.14/violet/fw_violet_miui_VIOLET_9.11.14_bc24fb6553_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.11.14_bc24fb6553_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.11.14
+    miui: V10.3.10.0.PFHCNXM
 - branch: stable
   date: '2019-11-04'
   downloads:
@@ -398,116 +548,6 @@
   versions:
     android: '9.0'
     miui: V11.0.4.0.PFHCNXM
-- branch: weekly
-  date: '2019-10-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-25.10.2019/fw_violet_miui_VIOLET_9.10.24_e5cadaab87_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.24/violet/fw_violet_miui_VIOLET_9.10.24_e5cadaab87_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.10.24_e5cadaab87_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.10.24
-- branch: stable
-  date: '2019-10-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-18.10.2019/fw_violet_miui_VIOLET_V11.0.3.0.PFHCNXM_38ac3021fa_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/violet/fw_violet_miui_VIOLET_V11.0.3.0.PFHCNXM_38ac3021fa_9.0.zip
-  filename: fw_violet_miui_VIOLET_V11.0.3.0.PFHCNXM_38ac3021fa_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PFHCNXM
-- branch: weekly
-  date: '2019-09-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-06.09.2019/fw_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.3/violet/fw_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.9.3_79d3ccd33b_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.9.3
-- branch: stable
-  date: '2019-08-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-20.08.2019/fw_violet_miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V10.3.13.0.PFHINXM_6e7dae0213_9.0.zip
-  region: India
-  versions:
-    android: '9.0'
-    miui: V10.3.13.0.PFHINXM
-- branch: stable
-  date: '2019-08-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-05.08.2019/fw_violet_miui_VIOLET_V10.3.10.0.PFHCNXM_fe274086b6_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLET_V10.3.10.0.PFHCNXM_fe274086b6_9.0.zip
-  filename: fw_violet_miui_VIOLET_V10.3.10.0.PFHCNXM_fe274086b6_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.3.10.0.PFHCNXM
-- branch: stable
-  date: '2019-07-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-23.07.2019/fw_violet_miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V10.3.12.0.PFHINXM_3611af78c9_9.0.zip
-  region: India
-  versions:
-    android: '9.0'
-    miui: V10.3.12.0.PFHINXM
-- branch: weekly
-  date: '2019-07-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-05.07.2019/fw_violet_miui_VIOLET_9.7.4_8f73ae6920_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/violet/fw_violet_miui_VIOLET_9.7.4_8f73ae6920_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.7.4_8f73ae6920_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.4
-- branch: stable
-  date: '2019-06-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-26.06.2019/fw_violet_miui_VIOLET_V10.3.8.0.PFHCNXM_57ce442583_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLET_V10.3.8.0.PFHCNXM_57ce442583_9.0.zip
-  filename: fw_violet_miui_VIOLET_V10.3.8.0.PFHCNXM_57ce442583_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.3.8.0.PFHCNXM
-- branch: weekly
-  date: '2019-06-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-22.06.2019/fw_violet_miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.20/violet/fw_violet_miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.6.20_52aa4c2f4b_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.6.20
-- branch: stable
-  date: '2019-06-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-18.06.2019/fw_violet_miui_VIOLET_V10.3.6.0.PFHCNXM_8c67bdc758_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLET_V10.3.6.0.PFHCNXM_8c67bdc758_9.0.zip
-  filename: fw_violet_miui_VIOLET_V10.3.6.0.PFHCNXM_8c67bdc758_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.3.6.0.PFHCNXM
-- branch: weekly
-  date: '2019-06-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-03.06.2019/fw_violet_miui_VIOLET_9.5.30_902f53eaa3_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/violet/fw_violet_miui_VIOLET_9.5.30_902f53eaa3_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.5.30_902f53eaa3_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.5.30
 - branch: stable
   date: '2019-06-03'
   downloads:
@@ -518,56 +558,16 @@
   versions:
     android: '9.0'
     miui: V10.3.7.0.PFHINXM
-- branch: weekly
-  date: '2019-05-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-28.05.2019/fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/violet/fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.5.23
-- branch: weekly
-  date: '2019-05-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-24.05.2019/fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.23/violet/fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.5.23_a8cd82a853_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.5.23
 - branch: stable
-  date: '2019-05-20'
+  date: '2020-12-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-20.05.2019/fw_violet_miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip
-  filename: fw_violet_miui_VIOLET_V10.3.5.0.PFHCNXM_4bdf98d05f_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.3.5.0.PFHCNXM
-- branch: weekly
-  date: '2019-05-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/weekly-17.05.2019/fw_violet_miui_VIOLET_9.5.16_6eeb0dcfb8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.16/violet/fw_violet_miui_VIOLET_9.5.16_6eeb0dcfb8_9.0.zip
-  filename: fw_violet_miui_VIOLET_9.5.16_6eeb0dcfb8_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.5.16
-- branch: stable
-  date: '2019-05-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-07.05.2019/fw_violet_miui_VIOLETINGlobal_V10.2.10.0.PFHINXM_3788e2b1a6_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/violet/fw_violet_miui_VIOLETINGlobal_V10.2.10.0.PFHINXM_3788e2b1a6_9.0.zip
-  filename: fw_violet_miui_VIOLETINGlobal_V10.2.10.0.PFHINXM_3788e2b1a6_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_violet/releases/download/stable-01.12.2020/fw_violet_miui_VIOLETINGlobal_V12.0.4.0.QFHINXM_f39261f8cb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/violet/fw_violet_miui_VIOLETINGlobal_V12.0.4.0.QFHINXM_f39261f8cb_10.0.zip
+  filename: fw_violet_miui_VIOLETINGlobal_V12.0.4.0.QFHINXM_f39261f8cb_10.0.zip
   region: India
   versions:
-    android: '9.0'
-    miui: V10.2.10.0.PFHINXM
+    android: '10.0'
+    miui: V12.0.4.0.QFHINXM
 - branch: stable
   date: '2019-05-01'
   downloads:

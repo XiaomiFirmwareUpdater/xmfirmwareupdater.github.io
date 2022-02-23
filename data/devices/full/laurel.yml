@@ -9,16 +9,6 @@
     android: '11.0'
     miui: V12.0.16.0.RFQEUXM
 - branch: stable
-  date: '2022-01-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-17.01.2022/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.18.0.RFQMIXM_72246bc67c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.18.0.RFQMIXM_72246bc67c_11.0.zip
-  filename: fw_laurel_miui_LAURELSPROUTGlobal_V12.0.18.0.RFQMIXM_72246bc67c_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.0.18.0.RFQMIXM
-- branch: stable
   date: '2021-10-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-25.10.2021/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.13.0.RFQEUXM_5a66ab6003_11.0.zip
@@ -39,15 +29,15 @@
     android: '11.0'
     miui: V12.0.15.0.RFQMIXM
 - branch: stable
-  date: '2021-02-05'
+  date: '2022-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-05.02.2021/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.3.0.RFQEUXM_a3af6e0308_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.3.0.RFQEUXM_a3af6e0308_11.0.zip
-  filename: fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.3.0.RFQEUXM_a3af6e0308_11.0.zip
-  region: Europe
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-17.01.2022/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.18.0.RFQMIXM_72246bc67c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.18.0.RFQMIXM_72246bc67c_11.0.zip
+  filename: fw_laurel_miui_LAURELSPROUTGlobal_V12.0.18.0.RFQMIXM_72246bc67c_11.0.zip
+  region: Global
   versions:
     android: '11.0'
-    miui: V12.0.3.0.RFQEUXM
+    miui: V12.0.18.0.RFQMIXM
 - branch: stable
   date: '2021-01-09'
   downloads:
@@ -68,3 +58,13 @@
   versions:
     android: '10.0'
     miui: V11.0.23.0.QFQMIXM
+- branch: stable
+  date: '2021-02-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-05.02.2021/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.3.0.RFQEUXM_a3af6e0308_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.3.0.RFQEUXM_a3af6e0308_11.0.zip
+  filename: fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.3.0.RFQEUXM_a3af6e0308_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.0.3.0.RFQEUXM
