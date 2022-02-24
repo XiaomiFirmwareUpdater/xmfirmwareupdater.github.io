@@ -52,7 +52,8 @@ permalink: /archive/miui/selene/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10 Prime India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RKUINXM</td><td>11.0</td><td>2.6 GB</td><td>2022-02-23</td><td><a href="/miui/selene/stable beta/V12.5.7.0.RKUINXM/">Download</a></td></tr>
+                <tr><td>Redmi 10 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.8.0.RKURUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-02-24</td><td><a href="/miui/selene/stable beta/V12.5.8.0.RKURUXM/">Download</a></td></tr>
+<tr><td>Redmi 10 Prime India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RKUINXM</td><td>11.0</td><td>2.6 GB</td><td>2022-02-23</td><td><a href="/miui/selene/stable beta/V12.5.7.0.RKUINXM/">Download</a></td></tr>
 <tr><td>Redmi 10 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKUMIXM</td><td>12.0</td><td>2.7 GB</td><td>2022-02-07</td><td><a href="/miui/selene/stable beta/V13.0.1.0.SKUMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RKUCNXM</td><td>11.0</td><td>3.2 GB</td><td>2022-01-22</td><td><a href="/miui/selenes/stable beta/V12.5.7.0.RKUCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKUTWXM</td><td>11.0</td><td>2.5 GB</td><td>2022-01-18</td><td><a href="/miui/selene/stable/V12.5.3.0.RKUTWXM/">Download</a></td></tr>

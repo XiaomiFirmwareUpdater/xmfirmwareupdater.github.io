@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 24 Feb 2022 21:57:18 +0900</pubDate>
+  <pubDate>Fri, 25 Feb 2022 02:05:15 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 (venus) - V13.0.1.0.SKBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Fri, 25 Feb 2022 02:05:15 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.2.0.RKCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
@@ -100,11 +105,6 @@
     <title>Mi 10S (thyme) - V13.0.3.0.SGACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
     <pubDate>Tue, 22 Feb 2022 02:40:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro (sweet) - V13.0.4.0.SKFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Tue, 22 Feb 2022 02:09:03 +0900</pubDate>
   </item>
     </channel>
 </rss>
