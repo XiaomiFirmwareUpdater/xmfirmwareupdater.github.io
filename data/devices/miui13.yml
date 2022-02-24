@@ -1,5 +1,11 @@
 - android: '12.0'
   codename: alioth
+  date: '2022-01-21'
+  download: https://bigota.d.miui.com/22.1.19/fw_alioth_miui_ALIOTHPRE_22.1.19_106c3c6099_12.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: 22.1.19
+- android: '12.0'
+  codename: alioth
   date: '2022-02-18'
   download: https://bigota.d.miui.com/22.2.16/fw_alioth_miui_ALIOTHPRE_22.2.16_eb457e364b_12.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -10,12 +16,6 @@
   download: https://bigota.d.miui.com/22.2.9/fw_alioth_miui_ALIOTHPRE_22.2.9_f2a8b83941_12.0.zip
   name: Redmi K40/POCO F3/Mi 11X
   version: 22.2.9
-- android: '12.0'
-  codename: alioth
-  date: '2022-01-21'
-  download: https://bigota.d.miui.com/22.1.19/fw_alioth_miui_ALIOTHPRE_22.1.19_106c3c6099_12.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: 22.1.19
 - android: '12.0'
   codename: alioth
   date: '2022-01-19'
@@ -90,16 +90,16 @@
   version: 22.2.17
 - android: '12.0'
   codename: camellia
-  date: '2022-02-18'
-  download: https://bigota.d.miui.com/22.2.17/fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
-  name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
-  version: 22.2.17
-- android: '12.0'
-  codename: camellia
   date: '2022-01-21'
   download: https://bigota.d.miui.com/22.1.19/fw_camellia_miui_CAMELLIAPRE_22.1.19_8ce2b0d592_12.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
   version: 22.1.19
+- android: '12.0'
+  codename: camellia
+  date: '2022-02-18'
+  download: https://bigota.d.miui.com/22.2.17/fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
+  name: Redmi Note 10 5G/Redmi Note 10T 5G/POCO M3 Pro 5G
+  version: 22.2.17
 - android: '12.0'
   codename: camellia
   date: '2022-01-14'
@@ -204,6 +204,12 @@
   version: V13.0.2.0.SKPCNXM
 - android: '12.0'
   codename: cmi
+  date: '2022-01-21'
+  download: https://bigota.d.miui.com/22.1.19/fw_cmi_miui_CMIPRE_22.1.19_5f3a7ea416_12.0.zip
+  name: Mi 10 Pro
+  version: 22.1.19
+- android: '12.0'
+  codename: cmi
   date: '2022-02-18'
   download: https://bigota.d.miui.com/22.2.16/fw_cmi_miui_CMIPRE_22.2.16_133b38b78d_12.0.zip
   name: Mi 10 Pro
@@ -214,12 +220,6 @@
   download: https://bigota.d.miui.com/22.2.9/fw_cmi_miui_CMIPRE_22.2.9_6b2be2c483_12.0.zip
   name: Mi 10 Pro
   version: 22.2.9
-- android: '12.0'
-  codename: cmi
-  date: '2022-01-21'
-  download: https://bigota.d.miui.com/22.1.19/fw_cmi_miui_CMIPRE_22.1.19_5f3a7ea416_12.0.zip
-  name: Mi 10 Pro
-  version: 22.1.19
 - android: '12.0'
   codename: cmi
   date: '2022-01-14'
@@ -480,6 +480,12 @@
   version: V13.0.2.0.SKVCNXM
 - android: '11.0'
   codename: nabu
+  date: '2022-01-24'
+  download: https://bigota.d.miui.com/V13.0.5.0.RKXCNXM/fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
+  name: Xiaomi Pad 5
+  version: V13.0.5.0.RKXCNXM
+- android: '11.0'
+  codename: nabu
   date: '2022-02-16'
   download: https://bigota.d.miui.com/V13.0.3.0.RKXEUXM/fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
   name: Xiaomi Pad 5
@@ -490,12 +496,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.RKXMIXM/fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
   name: Xiaomi Pad 5
   version: V13.0.1.0.RKXMIXM
-- android: '11.0'
-  codename: nabu
-  date: '2022-01-24'
-  download: https://bigota.d.miui.com/V13.0.5.0.RKXCNXM/fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
-  name: Xiaomi Pad 5
-  version: V13.0.5.0.RKXCNXM
+- android: '12.0'
+  codename: odin
+  date: '2022-01-21'
+  download: https://bigota.d.miui.com/22.1.19/fw_odin_miui_ODINPRE_22.1.19_812ba11394_12.0.zip
+  name: MIX 4
+  version: 22.1.19
 - android: '12.0'
   codename: odin
   date: '2022-02-18'
@@ -510,18 +516,6 @@
   version: 22.2.9
 - android: '12.0'
   codename: odin
-  date: '2022-02-07'
-  download: https://bigota.d.miui.com/V13.0.4.0.SKMCNXM/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
-  name: MIX 4
-  version: V13.0.4.0.SKMCNXM
-- android: '12.0'
-  codename: odin
-  date: '2022-01-21'
-  download: https://bigota.d.miui.com/22.1.19/fw_odin_miui_ODINPRE_22.1.19_812ba11394_12.0.zip
-  name: MIX 4
-  version: 22.1.19
-- android: '12.0'
-  codename: odin
   date: '2022-01-14'
   download: https://bigota.d.miui.com/22.1.13/fw_odin_miui_ODINPRE_22.1.13_ab12e8d8a6_12.0.zip
   name: MIX 4
@@ -532,6 +526,18 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SKMCNXM/fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
   name: MIX 4
   version: V13.0.2.0.SKMCNXM
+- android: '12.0'
+  codename: odin
+  date: '2022-02-07'
+  download: https://bigota.d.miui.com/V13.0.4.0.SKMCNXM/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
+  name: MIX 4
+  version: V13.0.4.0.SKMCNXM
+- android: '12.0'
+  codename: phoenix
+  date: '2022-01-21'
+  download: https://bigota.d.miui.com/22.1.19/fw_phoenix_miui_PHOENIXPRE_22.1.19_2a8f9e43bb_12.0.zip
+  name: Redmi K30 4G
+  version: 22.1.19
 - android: '12.0'
   codename: phoenix
   date: '2022-02-18'
@@ -544,12 +550,6 @@
   download: https://bigota.d.miui.com/22.2.9/fw_phoenix_miui_PHOENIXPRE_22.2.9_0e7a29a4f4_12.0.zip
   name: Redmi K30 4G
   version: 22.2.9
-- android: '12.0'
-  codename: phoenix
-  date: '2022-01-21'
-  download: https://bigota.d.miui.com/22.1.19/fw_phoenix_miui_PHOENIXPRE_22.1.19_2a8f9e43bb_12.0.zip
-  name: Redmi K30 4G
-  version: 22.1.19
 - android: '12.0'
   codename: phoenix
   date: '2022-01-14'

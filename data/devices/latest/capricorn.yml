@@ -19,22 +19,22 @@
     android: '8.0'
     miui: V11.0.2.0.OAGCNXM
 - branch: weekly
-  date: '2019-06-28'
+  date: '2019-05-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-28.06.2019/fw_capricorn_miui_MI5SGlobal_9.6.27_853be080cb_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/capricorn/fw_capricorn_miui_MI5SGlobal_9.6.27_853be080cb_8.0.zip
-  filename: fw_capricorn_miui_MI5SGlobal_9.6.27_853be080cb_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-31.05.2019/fw_capricorn_miui_MI5SGlobal_9.5.30_a547c4ddae_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/capricorn/fw_capricorn_miui_MI5SGlobal_9.5.30_a547c4ddae_8.0.zip
+  filename: fw_capricorn_miui_MI5SGlobal_9.5.30_a547c4ddae_8.0.zip
   region: Global
   versions:
     android: '8.0'
-    miui: 9.6.27
+    miui: 9.5.30
 - branch: weekly
-  date: '2019-10-17'
+  date: '2019-05-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-17.10.2019/fw_capricorn_miui_MI5S_9.10.10_de79f43db0_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/capricorn/fw_capricorn_miui_MI5S_9.10.10_de79f43db0_8.0.zip
-  filename: fw_capricorn_miui_MI5S_9.10.10_de79f43db0_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_capricorn/releases/download/weekly-31.05.2019/fw_capricorn_miui_MI5S_9.5.30_016f871ef7_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/capricorn/fw_capricorn_miui_MI5S_9.5.30_016f871ef7_8.0.zip
+  filename: fw_capricorn_miui_MI5S_9.5.30_016f871ef7_8.0.zip
   region: China
   versions:
     android: '8.0'
-    miui: 9.10.10
+    miui: 9.5.30

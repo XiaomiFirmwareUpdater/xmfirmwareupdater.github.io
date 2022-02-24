@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2020-09-21'
+  date: '2019-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jason/releases/download/stable-21.09.2020/fw_jason_miui_MINote3Global_V12.0.1.0.PCHMIXM_198a40ef06_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/jason/fw_jason_miui_MINote3Global_V12.0.1.0.PCHMIXM_198a40ef06_9.0.zip
-  filename: fw_jason_miui_MINote3Global_V12.0.1.0.PCHMIXM_198a40ef06_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jason/releases/download/stable-26.09.2019/fw_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/jason/fw_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip
+  filename: fw_jason_miui_MINote3Global_V10.4.2.0.PCHMIXM_ba2d8dd9d0_9.0.zip
   region: Global
   versions:
     android: '9.0'
-    miui: V12.0.1.0.PCHMIXM
+    miui: V10.4.2.0.PCHMIXM
 - branch: stable
   date: '2020-08-28'
   downloads:
@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-06-18'
+  date: '2019-11-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jason/releases/download/weekly-18.06.2020/fw_jason_miui_MINote3_20.6.18_d881a68273_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.18/jason/fw_jason_miui_MINote3_20.6.18_d881a68273_9.0.zip
-  filename: fw_jason_miui_MINote3_20.6.18_d881a68273_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jason/releases/download/weekly-29.11.2019/fw_jason_miui_MINote3_9.11.28_1d2c7662f2_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.11.28/jason/fw_jason_miui_MINote3_9.11.28_1d2c7662f2_9.0.zip
+  filename: fw_jason_miui_MINote3_9.11.28_1d2c7662f2_9.0.zip
   region: China
   versions:
     android: '9.0'
-    miui: 20.6.18
+    miui: 9.11.28
