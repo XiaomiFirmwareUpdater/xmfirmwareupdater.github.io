@@ -128,5 +128,5 @@ permalink: /privacy/
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-    <li>Send us e-mail: <a href="mailto:XiaomiFirmwareUpdater@gmail.com">XiaomiFirmwareUpdater@gmail.com</a></li>
+    <li>Send us e-mail: <a href="mailto:contact@xiaomifirmwareupdater.com">contact@xiaomifirmwareupdater.com</a></li>
 </ul>

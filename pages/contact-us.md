@@ -8,7 +8,7 @@ Do you have any questions or want to report something?
 Feel free to contact us using one of these methods:
 
 * **E-mail**:
-Send us an e-mail on [xiaomifirmwareupdater@gmail.com](mailto:xiaomifirmwareupdater@gmail.com)
+Send us an e-mail on [contact@xiaomifirmwareupdater.com](mailto:contact@xiaomifirmwareupdater.com)
 
 * **Telegram**:
 Send us a message on our [group](https://t.me/XiaomiGeeks).

@@ -7,7 +7,7 @@ keywords: xiaomi, xiaomi firmware, xiaomi firmware updater, firmware updater, fi
 permalink: /:categories/:title/
 repository: XiaomiFirmwareUpdater/xiaomifirmwareupdater.github.io
 author: yshalsager
-email: xiaomifirmwareupdater@gmail.com
+email: contact@xiaomifirmwareupdater.com
 
 plugins:
   - jekyll-feed
@@ -18,4 +18,4 @@ members:
   - yshalsager
 
 exclude:
-    - data_generator/
+  - data_generator/
