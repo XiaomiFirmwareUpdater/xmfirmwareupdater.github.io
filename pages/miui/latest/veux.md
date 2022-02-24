@@ -52,12 +52,18 @@ permalink: /miui/veux/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RKCEUXM</td><td>11.0</td><td>6.0 GB</td><td>2022-01-29</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11E Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.RKCCNXM</td><td>11.0</td><td>5.4 GB</td><td>2022-01-29</td><td><a href="/miui/veux/stable/V13.0.2.0.RKCCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11E Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RKCCNXM</td><td>11.0</td><td>3.9 GB</td><td>2022-02-24</td><td><a href="/miui/veux/stable/V13.0.2.0.RKCCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RKCEUXM</td><td>11.0</td><td>6.0 GB</td><td>2022-01-29</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RKCEUXM</td><td>11.0</td><td>3.1 GB</td><td>2022-02-16</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.RKCMIXM</td><td>11.0</td><td>6.0 GB</td><td>2022-02-17</td><td><a href="/miui/veux/stable/V13.0.3.0.RKCMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.RKCMIXM</td><td>11.0</td><td>3.0 GB</td><td>2022-02-23</td><td><a href="/miui/veux/stable/V13.0.3.0.RKCMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RKCRUXM</td><td>11.0</td><td>5.4 GB</td><td>2022-01-26</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RKCRUXM</td><td>11.0</td><td>3.1 GB</td><td>2022-02-16</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RKCTRXM</td><td>11.0</td><td>5.0 GB</td><td>2022-02-08</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RKCTRXM</td><td>11.0</td><td>3.1 GB</td><td>2022-02-24</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RKCTWXM</td><td>11.0</td><td>4.5 GB</td><td>2022-02-15</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RKCTWXM</td><td>11.0</td><td>3.0 GB</td><td>2022-02-24</td><td><a href="/miui/veux/stable/V13.0.1.0.RKCTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

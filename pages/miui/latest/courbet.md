@@ -65,9 +65,9 @@ permalink: /miui/courbet/
 <tr><td>Mi 11 Lite 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RKQINXM</td><td>11.0</td><td>3.0 GB</td><td>2022-02-17</td><td><a href="/miui/courbet/stable beta/V12.5.4.0.RKQINXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKQRUXM</td><td>11.0</td><td>5.0 GB</td><td>2021-12-15</td><td><a href="/miui/courbet/stable/V12.5.3.0.RKQRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKQRUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-12-27</td><td><a href="/miui/courbet/stable/V12.5.3.0.RKQRUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKQTRXM</td><td>11.0</td><td>4.5 GB</td><td>2021-09-27</td><td><a href="/miui/courbet/stable/V12.5.2.0.RKQTRXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 4G Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKQTRXM</td><td>11.0</td><td>3.0 GB</td><td>2021-10-15</td><td><a href="/miui/courbet/stable/V12.5.2.0.RKQTRXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKQTRXM</td><td>11.0</td><td>3.0 GB</td><td>2021-12-27</td><td><a href="/miui/courbet/stable beta/V12.5.3.0.RKQTRXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RKQRUXM</td><td>11.0</td><td>3.0 GB</td><td>2022-02-22</td><td><a href="/miui/courbet/stable beta/V12.5.4.0.RKQRUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKQTRXM</td><td>11.0</td><td>4.6 GB</td><td>2021-12-15</td><td><a href="/miui/courbet/stable/V12.5.3.0.RKQTRXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKQTRXM</td><td>11.0</td><td>3.0 GB</td><td>2021-12-27</td><td><a href="/miui/courbet/stable/V12.5.3.0.RKQTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
