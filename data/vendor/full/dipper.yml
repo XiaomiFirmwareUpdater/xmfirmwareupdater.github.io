@@ -1,4 +1,15 @@
 - branch: stable
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable-beta/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable-beta/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip/download
+  filename: fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
+  region: China
+  size: 565.6 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QEACNXM
+- branch: stable
   date: '2019-11-01'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper_ru_global-stable/fw-vendor_dipper_miui_MI8RUGlobal_V11.0.6.0.PEARUXM_99fd810f76_9.0.zip
@@ -53,17 +64,6 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QEARUXM
-- branch: stable
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/dipper-stable-beta/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/dipper-stable-beta/fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip/download
-  filename: fw-vendor_dipper_miui_MI8_V12.0.1.0.QEACNXM_a855357838_10.0.zip
-  region: China
-  size: 565.6 MB
-  versions:
-    android: '10.0'
-    miui: V12.0.1.0.QEACNXM
 - branch: stable
   date: '2019-05-30'
   downloads:

@@ -9,15 +9,15 @@
     android: '9.0'
     miui: V12.0.2.0.PEFMIXM
 - branch: stable
-  date: '2019-04-15'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/stable-15.04.2019/fw_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ysl/fw_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip
-  filename: fw_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/stable-06.08.2020/fw_ysl_miui_HMS2_V12.0.4.0.PEFCNXM_b220c0a02e_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ysl/fw_ysl_miui_HMS2_V12.0.4.0.PEFCNXM_b220c0a02e_9.0.zip
+  filename: fw_ysl_miui_HMS2_V12.0.4.0.PEFCNXM_b220c0a02e_9.0.zip
   region: China
   versions:
-    android: '8.1'
-    miui: V10.3.4.0.OEFCNXM
+    android: '9.0'
+    miui: V12.0.4.0.PEFCNXM
 - branch: stable
   date: '2019-08-13'
   downloads:
@@ -39,16 +39,6 @@
     android: '9.0'
     miui: V10.3.3.0.PEFMIXM
 - branch: stable
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/stable-06.08.2020/fw_ysl_miui_HMS2_V12.0.4.0.PEFCNXM_b220c0a02e_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ysl/fw_ysl_miui_HMS2_V12.0.4.0.PEFCNXM_b220c0a02e_9.0.zip
-  filename: fw_ysl_miui_HMS2_V12.0.4.0.PEFCNXM_b220c0a02e_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V12.0.4.0.PEFCNXM
-- branch: stable
   date: '2019-05-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/stable-06.05.2019/fw_ysl_miui_HMS2Global_V10.3.1.0.OEFMIXM_d4e3833b2b_8.1.zip
@@ -58,6 +48,16 @@
   versions:
     android: '8.1'
     miui: V10.3.1.0.OEFMIXM
+- branch: stable
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/stable-15.04.2019/fw_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/ysl/fw_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip
+  filename: fw_ysl_miui_HMS2_V10.3.4.0.OEFCNXM_523dd2dd4a_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V10.3.4.0.OEFCNXM
 - branch: weekly
   date: '2019-03-01'
   downloads:
@@ -98,16 +98,6 @@
   versions:
     android: '8.1'
     miui: V10.0.2.0.OEFCNFH
-- branch: weekly
-  date: '2018-08-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-ee50f17d2346447059a9/fw_ysl_miui_HMS2_8.8.30_6004aeb8d5_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/ysl/fw_ysl_miui_HMS2_8.8.30_6004aeb8d5_8.1.zip
-  filename: fw_ysl_miui_HMS2_8.8.30_6004aeb8d5_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.8.30
 - branch: stable
   date: '2018-09-04'
   downloads:
@@ -128,6 +118,16 @@
   versions:
     android: '8.1'
     miui: V9.6.1.0.OEFCNFD
+- branch: weekly
+  date: '2018-08-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-ee50f17d2346447059a9/fw_ysl_miui_HMS2_8.8.30_6004aeb8d5_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/ysl/fw_ysl_miui_HMS2_8.8.30_6004aeb8d5_8.1.zip
+  filename: fw_ysl_miui_HMS2_8.8.30_6004aeb8d5_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.8.30
 - branch: weekly
   date: '2018-08-30'
   downloads:
@@ -169,16 +169,6 @@
     android: '8.1'
     miui: 8.8.2
 - branch: weekly
-  date: '2018-07-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-e48073ebf5246c227017/fw_ysl_miui_HMS2Global_V9.6.2.0.OEFMIFD_38d70c8394_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.OEFMIFD/ysl/fw_ysl_miui_HMS2Global_V9.6.2.0.OEFMIFD_38d70c8394_8.1.zip
-  filename: fw_ysl_miui_HMS2Global_V9.6.2.0.OEFMIFD_38d70c8394_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: V9.6.2.0.OEFMIFD
-- branch: weekly
   date: '2018-07-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-95f273d0ccdf7671c971/fw_ysl_miui_HMS2_V9.6.1.0.OEFCNFD_d9ac8edd2f_8.1.zip
@@ -188,6 +178,16 @@
   versions:
     android: '8.1'
     miui: V9.6.1.0.OEFCNFD
+- branch: weekly
+  date: '2018-07-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-e48073ebf5246c227017/fw_ysl_miui_HMS2Global_V9.6.2.0.OEFMIFD_38d70c8394_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.6.2.0.OEFMIFD/ysl/fw_ysl_miui_HMS2Global_V9.6.2.0.OEFMIFD_38d70c8394_8.1.zip
+  filename: fw_ysl_miui_HMS2Global_V9.6.2.0.OEFMIFD_38d70c8394_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: V9.6.2.0.OEFMIFD
 - branch: weekly
   date: '2018-07-10'
   downloads:
@@ -199,9 +199,9 @@
     android: '8.1'
     miui: V9.5.7.0.OEFCNFA
 - branch: weekly
-  date: '2018-06-26'
+  date: '2018-06-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-58566ebeb4dce5b1bdce/fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-3752fffbbce280fa1816/fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.7.0.OEFCNFA/ysl/fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
   filename: fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
   region: China
@@ -209,9 +209,9 @@
     android: '8.1'
     miui: V9.5.7.0.OEFCNFA
 - branch: weekly
-  date: '2018-06-29'
+  date: '2018-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-3752fffbbce280fa1816/fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-58566ebeb4dce5b1bdce/fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.7.0.OEFCNFA/ysl/fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
   filename: fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
   region: China

@@ -23,28 +23,6 @@
 - branch: stable
   date: '2020-09-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/angelica_global-stable/fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.4.0.QCRMIXM_35353d0349_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/angelica_global-stable/fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.4.0.QCRMIXM_35353d0349_10.0.zip/download
-  filename: fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.4.0.QCRMIXM_35353d0349_10.0.zip
-  region: Global
-  size: 684.4 MB
-  versions:
-    android: '10.0'
-    miui: V12.0.4.0.QCRMIXM
-- branch: stable
-  date: '2020-09-21'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/angelica_global-stable/fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.5.0.QCRMIXM_8ae1eb3010_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/angelica_global-stable/fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.5.0.QCRMIXM_8ae1eb3010_10.0.zip/download
-  filename: fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.5.0.QCRMIXM_8ae1eb3010_10.0.zip
-  region: Global
-  size: 694.8 MB
-  versions:
-    android: '10.0'
-    miui: V12.0.5.0.QCRMIXM
-- branch: stable
-  date: '2020-09-01'
-  downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/angelica_eea_global-stable/fw-vendor_angelica_miui_ANGELICAEEAGlobal_V12.0.3.0.QCREUXM_f1b540faf3_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/angelica_eea_global-stable/fw-vendor_angelica_miui_ANGELICAEEAGlobal_V12.0.3.0.QCREUXM_f1b540faf3_10.0.zip/download
   filename: fw-vendor_angelica_miui_ANGELICAEEAGlobal_V12.0.3.0.QCREUXM_f1b540faf3_10.0.zip
@@ -64,3 +42,25 @@
   versions:
     android: '10.0'
     miui: V12.0.4.0.QCREUXM
+- branch: stable
+  date: '2020-09-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/angelica_global-stable/fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.4.0.QCRMIXM_35353d0349_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/angelica_global-stable/fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.4.0.QCRMIXM_35353d0349_10.0.zip/download
+  filename: fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.4.0.QCRMIXM_35353d0349_10.0.zip
+  region: Global
+  size: 684.4 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QCRMIXM
+- branch: stable
+  date: '2020-09-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/angelica_global-stable/fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.5.0.QCRMIXM_8ae1eb3010_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/angelica_global-stable/fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.5.0.QCRMIXM_8ae1eb3010_10.0.zip/download
+  filename: fw-vendor_angelica_miui_ANGELICAGlobal_V12.0.5.0.QCRMIXM_8ae1eb3010_10.0.zip
+  region: Global
+  size: 694.8 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QCRMIXM

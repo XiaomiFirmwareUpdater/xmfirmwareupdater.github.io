@@ -1,63 +1,53 @@
 - branch: stable
-  date: '2021-07-30'
+  date: '2022-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-30.07.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.4.0.RJZMIXM_fc04d4fa6c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.4.0.RJZMIXM_fc04d4fa6c_11.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.0.4.0.RJZMIXM_fc04d4fa6c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-25.02.2022/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.7.0.RJZEUXM_d1c95eaf62_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.7.0.RJZEUXM_d1c95eaf62_11.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.7.0.RJZEUXM_d1c95eaf62_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RJZEUXM
+- branch: stable
+  date: '2022-01-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-08.01.2022/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.3.0.RJZMIXM_dd3e121a2d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.3.0.RJZMIXM_dd3e121a2d_11.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.5.3.0.RJZMIXM_dd3e121a2d_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.4.0.RJZMIXM
+    miui: V12.5.3.0.RJZMIXM
 - branch: stable
-  date: '2020-04-30'
+  date: '2021-12-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-30.04.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-18.12.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.6.0.RJZEUXM_90d3bd36af_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.6.0.RJZEUXM_90d3bd36af_11.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.6.0.RJZEUXM_90d3bd36af_11.0.zip
   region: Europe
   versions:
-    android: '10.0'
-    miui: V11.0.1.0.QJZEUXM
+    android: '11.0'
+    miui: V12.5.6.0.RJZEUXM
 - branch: stable
-  date: '2020-07-29'
+  date: '2021-11-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-29.07.2020/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.5.0.QJZMIXM_b60ccd234e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.5.0.QJZMIXM_b60ccd234e_10.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V11.0.5.0.QJZMIXM_b60ccd234e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-08.11.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.4.0.RJZEUXM_9a0a5fa02b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.4.0.RJZEUXM_9a0a5fa02b_11.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.4.0.RJZEUXM_9a0a5fa02b_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJZEUXM
+- branch: stable
+  date: '2021-11-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-08.11.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.2.0.RJZMIXM_43ee49dc19_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.2.0.RJZMIXM_43ee49dc19_11.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.5.2.0.RJZMIXM_43ee49dc19_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V11.0.5.0.QJZMIXM
-- branch: stable
-  date: '2020-09-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-28.09.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.6.0.QJZEUXM_c4b7c35845_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.6.0.QJZEUXM_c4b7c35845_10.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.6.0.QJZEUXM_c4b7c35845_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V11.0.6.0.QJZEUXM
-- branch: stable
-  date: '2020-05-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-28.05.2020/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.2.0.QJZMIXM_30d464cb24_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.2.0.QJZMIXM_30d464cb24_10.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V11.0.2.0.QJZMIXM_30d464cb24_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.2.0.QJZMIXM
-- branch: stable
-  date: '2021-04-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-27.04.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.4.0.QJZEUXM_597eda23b4_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.4.0.QJZEUXM_597eda23b4_10.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.4.0.QJZEUXM_597eda23b4_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V12.0.4.0.QJZEUXM
+    android: '11.0'
+    miui: V12.5.2.0.RJZMIXM
 - branch: stable
   date: '2021-08-26'
   downloads:
@@ -69,6 +59,16 @@
     android: '11.0'
     miui: V12.5.1.0.RJZEUXM
 - branch: stable
+  date: '2021-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-30.07.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.4.0.RJZMIXM_fc04d4fa6c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.4.0.RJZMIXM_fc04d4fa6c_11.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.0.4.0.RJZMIXM_fc04d4fa6c_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.4.0.RJZMIXM
+- branch: stable
   date: '2021-06-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-23.06.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.1.0.RJZEUXM_7e06178ca4_11.0.zip
@@ -79,15 +79,25 @@
     android: '11.0'
     miui: V12.0.1.0.RJZEUXM
 - branch: stable
-  date: '2020-07-22'
+  date: '2021-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-22.07.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.4.0.QJZEUXM_fd5baa5f96_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.4.0.QJZEUXM_fd5baa5f96_10.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.4.0.QJZEUXM_fd5baa5f96_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-01.06.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.1.0.RJZMIXM_2ed492f999_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.1.0.RJZMIXM_2ed492f999_11.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.0.1.0.RJZMIXM_2ed492f999_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.0.1.0.RJZMIXM
+- branch: stable
+  date: '2021-04-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-27.04.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.4.0.QJZEUXM_597eda23b4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.4.0.QJZEUXM_597eda23b4_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.4.0.QJZEUXM_597eda23b4_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V11.0.4.0.QJZEUXM
+    miui: V12.0.4.0.QJZEUXM
 - branch: stable
   date: '2021-04-22'
   downloads:
@@ -119,26 +129,6 @@
     android: '10.0'
     miui: V12.0.2.0.QJZMIXM
 - branch: stable
-  date: '2021-12-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-18.12.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.6.0.RJZEUXM_90d3bd36af_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.6.0.RJZEUXM_90d3bd36af_11.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.6.0.RJZEUXM_90d3bd36af_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RJZEUXM
-- branch: stable
-  date: '2020-09-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-18.09.2020/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.7.0.QJZMIXM_b756b32734_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.7.0.QJZMIXM_b756b32734_10.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V11.0.7.0.QJZMIXM_b756b32734_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.7.0.QJZMIXM
-- branch: stable
   date: '2020-11-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-13.11.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.1.0.QJZEUXM_dc8e184acb_10.0.zip
@@ -159,35 +149,45 @@
     android: '10.0'
     miui: V12.0.1.0.QJZMIXM
 - branch: stable
-  date: '2021-11-08'
+  date: '2020-09-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-08.11.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.4.0.RJZEUXM_9a0a5fa02b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.4.0.RJZEUXM_9a0a5fa02b_11.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.4.0.RJZEUXM_9a0a5fa02b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-28.09.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.6.0.QJZEUXM_c4b7c35845_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.6.0.QJZEUXM_c4b7c35845_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.6.0.QJZEUXM_c4b7c35845_10.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V12.5.4.0.RJZEUXM
+    android: '10.0'
+    miui: V11.0.6.0.QJZEUXM
 - branch: stable
-  date: '2021-11-08'
+  date: '2020-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-08.11.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.2.0.RJZMIXM_43ee49dc19_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.2.0.RJZMIXM_43ee49dc19_11.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.5.2.0.RJZMIXM_43ee49dc19_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-18.09.2020/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.7.0.QJZMIXM_b756b32734_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.7.0.QJZMIXM_b756b32734_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V11.0.7.0.QJZMIXM_b756b32734_10.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V12.5.2.0.RJZMIXM
+    android: '10.0'
+    miui: V11.0.7.0.QJZMIXM
 - branch: stable
-  date: '2022-01-07'
+  date: '2020-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-08.01.2022/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.3.0.RJZMIXM_dd3e121a2d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.3.0.RJZMIXM_dd3e121a2d_11.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.5.3.0.RJZMIXM_dd3e121a2d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-29.07.2020/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.5.0.QJZMIXM_b60ccd234e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.5.0.QJZMIXM_b60ccd234e_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V11.0.5.0.QJZMIXM_b60ccd234e_10.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V12.5.3.0.RJZMIXM
+    android: '10.0'
+    miui: V11.0.5.0.QJZMIXM
+- branch: stable
+  date: '2020-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-22.07.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.4.0.QJZEUXM_fd5baa5f96_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.4.0.QJZEUXM_fd5baa5f96_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.4.0.QJZEUXM_fd5baa5f96_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJZEUXM
 - branch: stable
   date: '2020-06-03'
   downloads:
@@ -199,12 +199,22 @@
     android: '10.0'
     miui: V11.0.3.0.QJZEUXM
 - branch: stable
-  date: '2021-06-01'
+  date: '2020-05-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-01.06.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.1.0.RJZMIXM_2ed492f999_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.1.0.RJZMIXM_2ed492f999_11.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.0.1.0.RJZMIXM_2ed492f999_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-28.05.2020/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.2.0.QJZMIXM_30d464cb24_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.2.0.QJZMIXM_30d464cb24_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V11.0.2.0.QJZMIXM_30d464cb24_10.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V12.0.1.0.RJZMIXM
+    android: '10.0'
+    miui: V11.0.2.0.QJZMIXM
+- branch: stable
+  date: '2020-04-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-30.04.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V11.0.1.0.QJZEUXM_24b02a1338_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJZEUXM

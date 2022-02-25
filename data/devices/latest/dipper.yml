@@ -9,15 +9,15 @@
     android: '10.0'
     miui: V12.0.3.0.QEAMIXM
 - branch: stable
-  date: '2019-05-30'
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/stable-30.05.2019/fw_dipper_miui_MI8_V10.3.3.0.PEACNXM_1694a82bd8_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8_V10.3.3.0.PEACNXM_1694a82bd8_9.0.zip
-  filename: fw_dipper_miui_MI8_V10.3.3.0.PEACNXM_1694a82bd8_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/stable-05.11.2021/fw_dipper_miui_MI8_V12.5.2.0.QEACNXM_f5ec813d1c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dipper/fw_dipper_miui_MI8_V12.5.2.0.QEACNXM_f5ec813d1c_10.0.zip
+  filename: fw_dipper_miui_MI8_V12.5.2.0.QEACNXM_f5ec813d1c_10.0.zip
   region: China
   versions:
-    android: '9.0'
-    miui: V10.3.3.0.PEACNXM
+    android: '10.0'
+    miui: V12.5.2.0.QEACNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -29,12 +29,12 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2020-03-26'
+  date: '2020-09-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/weekly-26.03.2020/fw_dipper_miui_MI8_20.3.26_15d4703a68_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/dipper/fw_dipper_miui_MI8_20.3.26_15d4703a68_10.0.zip
-  filename: fw_dipper_miui_MI8_20.3.26_15d4703a68_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/weekly-05.09.2020/fw_dipper_miui_MI8_20.9.4_21d22b073e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.4/dipper/fw_dipper_miui_MI8_20.9.4_21d22b073e_10.0.zip
+  filename: fw_dipper_miui_MI8_20.9.4_21d22b073e_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.26
+    miui: 20.9.4

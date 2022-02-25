@@ -1,23 +1,133 @@
 - branch: stable
-  date: '2021-04-18'
+  date: '2022-02-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-31.03.2021/fw_courbet_miui_COURBETEEAGlobal_V12.0.2.0.RKQEUXM_73603117d3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.0.2.0.RKQEUXM_73603117d3_11.0.zip
-  filename: fw_courbet_miui_COURBETEEAGlobal_V12.0.2.0.RKQEUXM_73603117d3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-21.02.2022/fw_courbet_miui_COURBETEEAGlobal_V13.0.3.0.SKQEUXM_a7f9bbdc63_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETEEAGlobal_V13.0.3.0.SKQEUXM_a7f9bbdc63_12.0.zip
+  filename: fw_courbet_miui_COURBETEEAGlobal_V13.0.3.0.SKQEUXM_a7f9bbdc63_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKQEUXM
+- branch: stable
+  date: '2022-02-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-21.02.2022/fw_courbet_miui_COURBETGlobal_V13.0.4.0.SKQMIXM_61288b3a39_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETGlobal_V13.0.4.0.SKQMIXM_61288b3a39_12.0.zip
+  filename: fw_courbet_miui_COURBETGlobal_V13.0.4.0.SKQMIXM_61288b3a39_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKQMIXM
+- branch: stable
+  date: '2022-02-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-21.02.2022/fw_courbet_miui_COURBETINGlobal_V12.5.4.0.RKQINXM_b9e6bcfb76_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETINGlobal_V12.5.4.0.RKQINXM_b9e6bcfb76_11.0.zip
+  filename: fw_courbet_miui_COURBETINGlobal_V12.5.4.0.RKQINXM_b9e6bcfb76_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKQINXM
+- branch: stable
+  date: '2021-12-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-17.12.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.6.0.RKQEUXM_6539d2a6e9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.6.0.RKQEUXM_6539d2a6e9_11.0.zip
+  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.6.0.RKQEUXM_6539d2a6e9_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.0.2.0.RKQEUXM
+    miui: V12.5.6.0.RKQEUXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2021-12-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-31.03.2021/fw_courbet_miui_COURBETGlobal_V12.0.2.0.RKQMIXM_fe70f83b36_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.0.2.0.RKQMIXM_fe70f83b36_11.0.zip
-  filename: fw_courbet_miui_COURBETGlobal_V12.0.2.0.RKQMIXM_fe70f83b36_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-16.12.2021/fw_courbet_miui_COURBETINGlobal_V12.5.3.0.RKQINXM_745bb61749_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETINGlobal_V12.5.3.0.RKQINXM_745bb61749_11.0.zip
+  filename: fw_courbet_miui_COURBETINGlobal_V12.5.3.0.RKQINXM_745bb61749_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RKQINXM
+- branch: stable
+  date: '2021-12-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-09.12.2021/fw_courbet_miui_COURBETGlobal_V12.5.8.0.RKQMIXM_d3268afe4e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.5.8.0.RKQMIXM_d3268afe4e_11.0.zip
+  filename: fw_courbet_miui_COURBETGlobal_V12.5.8.0.RKQMIXM_d3268afe4e_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.2.0.RKQMIXM
+    miui: V12.5.8.0.RKQMIXM
+- branch: stable
+  date: '2021-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-18.10.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
+  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKQEUXM
+- branch: stable
+  date: '2021-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-08.10.2021/fw_courbet_miui_COURBETGlobal_V12.5.6.0.RKQMIXM_e7eea260ac_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.5.6.0.RKQMIXM_e7eea260ac_11.0.zip
+  filename: fw_courbet_miui_COURBETGlobal_V12.5.6.0.RKQMIXM_e7eea260ac_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKQMIXM
+- branch: stable
+  date: '2021-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-01.09.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.4.0.RKQEUXM_7861f2118e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.4.0.RKQEUXM_7861f2118e_11.0.zip
+  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.4.0.RKQEUXM_7861f2118e_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKQEUXM
+- branch: stable
+  date: '2021-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-01.09.2021/fw_courbet_miui_COURBETGlobal_V12.5.5.0.RKQMIXM_5c1bc0ec53_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.5.5.0.RKQMIXM_5c1bc0ec53_11.0.zip
+  filename: fw_courbet_miui_COURBETGlobal_V12.5.5.0.RKQMIXM_5c1bc0ec53_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKQMIXM
+- branch: stable
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-19.08.2021/fw_courbet_miui_COURBETINGlobal_V12.5.2.0.RKQINXM_ab17538bd0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETINGlobal_V12.5.2.0.RKQINXM_ab17538bd0_11.0.zip
+  filename: fw_courbet_miui_COURBETINGlobal_V12.5.2.0.RKQINXM_ab17538bd0_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKQINXM
+- branch: stable
+  date: '2021-08-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-10.08.2021/fw_courbet_miui_COURBETGlobal_V12.5.4.0.RKQMIXM_d2bca4def4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.5.4.0.RKQMIXM_d2bca4def4_11.0.zip
+  filename: fw_courbet_miui_COURBETGlobal_V12.5.4.0.RKQMIXM_d2bca4def4_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKQMIXM
+- branch: stable
+  date: '2021-07-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-06.07.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.3.0.RKQEUXM_ae3e8da362_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.3.0.RKQEUXM_ae3e8da362_11.0.zip
+  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.3.0.RKQEUXM_ae3e8da362_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RKQEUXM
 - branch: stable
   date: '2021-06-25'
   downloads:
@@ -49,46 +159,6 @@
     android: '11.0'
     miui: V12.0.4.0.RKQINXM
 - branch: stable
-  date: '2022-02-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-21.02.2022/fw_courbet_miui_COURBETEEAGlobal_V13.0.3.0.SKQEUXM_a7f9bbdc63_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETEEAGlobal_V13.0.3.0.SKQEUXM_a7f9bbdc63_12.0.zip
-  filename: fw_courbet_miui_COURBETEEAGlobal_V13.0.3.0.SKQEUXM_a7f9bbdc63_12.0.zip
-  region: Europe
-  versions:
-    android: '12.0'
-    miui: V13.0.3.0.SKQEUXM
-- branch: stable
-  date: '2022-02-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-21.02.2022/fw_courbet_miui_COURBETGlobal_V13.0.4.0.SKQMIXM_61288b3a39_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETGlobal_V13.0.4.0.SKQMIXM_61288b3a39_12.0.zip
-  filename: fw_courbet_miui_COURBETGlobal_V13.0.4.0.SKQMIXM_61288b3a39_12.0.zip
-  region: Global
-  versions:
-    android: '12.0'
-    miui: V13.0.4.0.SKQMIXM
-- branch: stable
-  date: '2022-02-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-21.02.2022/fw_courbet_miui_COURBETINGlobal_V12.5.4.0.RKQINXM_b9e6bcfb76_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETINGlobal_V12.5.4.0.RKQINXM_b9e6bcfb76_11.0.zip
-  filename: fw_courbet_miui_COURBETINGlobal_V12.5.4.0.RKQINXM_b9e6bcfb76_11.0.zip
-  region: India
-  versions:
-    android: '11.0'
-    miui: V12.5.4.0.RKQINXM
-- branch: stable
-  date: '2021-08-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-19.08.2021/fw_courbet_miui_COURBETINGlobal_V12.5.2.0.RKQINXM_ab17538bd0_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETINGlobal_V12.5.2.0.RKQINXM_ab17538bd0_11.0.zip
-  filename: fw_courbet_miui_COURBETINGlobal_V12.5.2.0.RKQINXM_ab17538bd0_11.0.zip
-  region: India
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RKQINXM
-- branch: stable
   date: '2021-04-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-19.04.2021/fw_courbet_miui_COURBETEEAGlobal_V12.0.4.0.RKQEUXM_cc0380588d_11.0.zip
@@ -98,36 +168,6 @@
   versions:
     android: '11.0'
     miui: V12.0.4.0.RKQEUXM
-- branch: stable
-  date: '2021-10-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-18.10.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
-  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.5.0.RKQEUXM_57b656eeec_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RKQEUXM
-- branch: stable
-  date: '2021-12-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-17.12.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.6.0.RKQEUXM_6539d2a6e9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.6.0.RKQEUXM_6539d2a6e9_11.0.zip
-  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.6.0.RKQEUXM_6539d2a6e9_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RKQEUXM
-- branch: stable
-  date: '2021-12-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-16.12.2021/fw_courbet_miui_COURBETINGlobal_V12.5.3.0.RKQINXM_745bb61749_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETINGlobal_V12.5.3.0.RKQINXM_745bb61749_11.0.zip
-  filename: fw_courbet_miui_COURBETINGlobal_V12.5.3.0.RKQINXM_745bb61749_11.0.zip
-  region: India
-  versions:
-    android: '11.0'
-    miui: V12.5.3.0.RKQINXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -139,36 +179,6 @@
     android: '11.0'
     miui: V12.0.8.0.RKQMIXM
 - branch: stable
-  date: '2021-08-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-10.08.2021/fw_courbet_miui_COURBETGlobal_V12.5.4.0.RKQMIXM_d2bca4def4_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.5.4.0.RKQMIXM_d2bca4def4_11.0.zip
-  filename: fw_courbet_miui_COURBETGlobal_V12.5.4.0.RKQMIXM_d2bca4def4_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.4.0.RKQMIXM
-- branch: stable
-  date: '2021-12-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-09.12.2021/fw_courbet_miui_COURBETGlobal_V12.5.8.0.RKQMIXM_d3268afe4e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.5.8.0.RKQMIXM_d3268afe4e_11.0.zip
-  filename: fw_courbet_miui_COURBETGlobal_V12.5.8.0.RKQMIXM_d3268afe4e_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.8.0.RKQMIXM
-- branch: stable
-  date: '2021-10-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-08.10.2021/fw_courbet_miui_COURBETGlobal_V12.5.6.0.RKQMIXM_e7eea260ac_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.5.6.0.RKQMIXM_e7eea260ac_11.0.zip
-  filename: fw_courbet_miui_COURBETGlobal_V12.5.6.0.RKQMIXM_e7eea260ac_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RKQMIXM
-- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-08.04.2021/fw_courbet_miui_COURBETEEAGlobal_V12.0.3.0.RKQEUXM_97d5b05cb7_11.0.zip
@@ -178,16 +188,6 @@
   versions:
     android: '11.0'
     miui: V12.0.3.0.RKQEUXM
-- branch: stable
-  date: '2021-07-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-06.07.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.3.0.RKQEUXM_ae3e8da362_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.3.0.RKQEUXM_ae3e8da362_11.0.zip
-  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.3.0.RKQEUXM_ae3e8da362_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.3.0.RKQEUXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -199,22 +199,22 @@
     android: '11.0'
     miui: V12.0.5.0.RKQMIXM
 - branch: stable
-  date: '2021-09-01'
+  date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-01.09.2021/fw_courbet_miui_COURBETEEAGlobal_V12.5.4.0.RKQEUXM_7861f2118e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.5.4.0.RKQEUXM_7861f2118e_11.0.zip
-  filename: fw_courbet_miui_COURBETEEAGlobal_V12.5.4.0.RKQEUXM_7861f2118e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-31.03.2021/fw_courbet_miui_COURBETEEAGlobal_V12.0.2.0.RKQEUXM_73603117d3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETEEAGlobal_V12.0.2.0.RKQEUXM_73603117d3_11.0.zip
+  filename: fw_courbet_miui_COURBETEEAGlobal_V12.0.2.0.RKQEUXM_73603117d3_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RKQEUXM
+    miui: V12.0.2.0.RKQEUXM
 - branch: stable
-  date: '2021-09-01'
+  date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-01.09.2021/fw_courbet_miui_COURBETGlobal_V12.5.5.0.RKQMIXM_5c1bc0ec53_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.5.5.0.RKQMIXM_5c1bc0ec53_11.0.zip
-  filename: fw_courbet_miui_COURBETGlobal_V12.5.5.0.RKQMIXM_5c1bc0ec53_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-31.03.2021/fw_courbet_miui_COURBETGlobal_V12.0.2.0.RKQMIXM_fe70f83b36_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/courbet/fw_courbet_miui_COURBETGlobal_V12.0.2.0.RKQMIXM_fe70f83b36_11.0.zip
+  filename: fw_courbet_miui_COURBETGlobal_V12.0.2.0.RKQMIXM_fe70f83b36_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKQMIXM
+    miui: V12.0.2.0.RKQMIXM

@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2021-04-18'
+  date: '2022-01-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-28.01.2021/fw_cannong_miui_CANNONGGlobal_V12.0.5.0.QJEMIXM_785a8651e3_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGGlobal_V12.0.5.0.QJEMIXM_785a8651e3_10.0.zip
-  filename: fw_cannong_miui_CANNONGGlobal_V12.0.5.0.QJEMIXM_785a8651e3_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-13.01.2022/fw_cannong_miui_CANNONGGlobal_V12.5.7.0.RJEMIXM_50f370c72f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGGlobal_V12.5.7.0.RJEMIXM_50f370c72f_11.0.zip
+  filename: fw_cannong_miui_CANNONGGlobal_V12.5.7.0.RJEMIXM_50f370c72f_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V12.0.5.0.QJEMIXM
+    android: '11.0'
+    miui: V12.5.7.0.RJEMIXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2022-01-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-28.01.2021/fw_cannong_miui_CANNONGEEAGlobal_V12.0.4.0.QJEEUXM_ab1f9a2fe5_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGEEAGlobal_V12.0.4.0.QJEEUXM_ab1f9a2fe5_10.0.zip
-  filename: fw_cannong_miui_CANNONGEEAGlobal_V12.0.4.0.QJEEUXM_ab1f9a2fe5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-17.01.2022/fw_cannong_miui_CANNONGEEAGlobal_V12.5.7.0.RJEEUXM_5d6ce9a3e8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGEEAGlobal_V12.5.7.0.RJEEUXM_5d6ce9a3e8_11.0.zip
+  filename: fw_cannong_miui_CANNONGEEAGlobal_V12.5.7.0.RJEEUXM_5d6ce9a3e8_11.0.zip
   region: Europe
   versions:
-    android: '10.0'
-    miui: V12.0.4.0.QJEEUXM
+    android: '11.0'
+    miui: V12.5.7.0.RJEEUXM

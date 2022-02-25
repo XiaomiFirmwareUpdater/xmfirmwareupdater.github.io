@@ -1,6 +1,17 @@
 - branch: stable
   date: '2020-08-06'
   downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+  region: China
+  size: 1.3 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.7.0.QJBCNXM
+- branch: stable
+  date: '2020-08-06'
+  downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_ru_global-stable-beta/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_ru_global-stable-beta/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
@@ -9,6 +20,72 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QJBRUXM
+- branch: weekly
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip/download
+  filename: fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
+  region: China
+  size: 1.3 GB
+  versions:
+    android: '11.0'
+    miui: 20.7.9
+- branch: weekly
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip/download
+  filename: fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip
+  region: China
+  size: 1.3 GB
+  versions:
+    android: '11.0'
+    miui: 20.8.6
+- branch: weekly
+  date: '2020-09-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.9.4_9e5930ea34_11.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.9.4_9e5930ea34_11.0.zip/download
+  filename: fw-vendor_umi_miui_UMI_20.9.4_9e5930ea34_11.0.zip
+  region: China
+  size: 1.3 GB
+  versions:
+    android: '11.0'
+    miui: 20.9.4
+- branch: stable
+  date: '2020-06-08'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.4.0.QJBIDXM_df16f0e880_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.4.0.QJBIDXM_df16f0e880_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIIDGlobal_V11.0.4.0.QJBIDXM_df16f0e880_10.0.zip
+  region: Global
+  size: 1.4 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QJBIDXM
+- branch: stable
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip
+  region: Global
+  size: 1.4 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QJBIDXM
+- branch: stable
+  date: '2020-08-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip/download
+  filename: fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip
+  region: Global
+  size: 1.4 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJBIDXM
 - branch: stable
   date: '2020-06-08'
   downloads:
@@ -75,39 +152,6 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QJBINXM
-- branch: stable
-  date: '2020-06-08'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.4.0.QJBIDXM_df16f0e880_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.4.0.QJBIDXM_df16f0e880_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMIIDGlobal_V11.0.4.0.QJBIDXM_df16f0e880_10.0.zip
-  region: Global
-  size: 1.4 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.4.0.QJBIDXM
-- branch: stable
-  date: '2020-07-17'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip
-  region: Global
-  size: 1.4 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.5.0.QJBIDXM
-- branch: stable
-  date: '2020-08-18'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip
-  region: Global
-  size: 1.4 GB
-  versions:
-    android: '10.0'
-    miui: V12.0.1.0.QJBIDXM
 - branch: stable
   date: '2020-05-11'
   downloads:
@@ -229,50 +273,6 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QJBEUXM
-- branch: weekly
-  date: '2020-07-17'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip/download
-  filename: fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
-  region: China
-  size: 1.3 GB
-  versions:
-    android: '11.0'
-    miui: 20.7.9
-- branch: weekly
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip/download
-  filename: fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip
-  region: China
-  size: 1.3 GB
-  versions:
-    android: '11.0'
-    miui: 20.8.6
-- branch: weekly
-  date: '2020-09-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.9.4_9e5930ea34_11.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.9.4_9e5930ea34_11.0.zip/download
-  filename: fw-vendor_umi_miui_UMI_20.9.4_9e5930ea34_11.0.zip
-  region: China
-  size: 1.3 GB
-  versions:
-    android: '11.0'
-    miui: 20.9.4
-- branch: stable
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip/download
-  filename: fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
-  region: China
-  size: 1.3 GB
-  versions:
-    android: '10.0'
-    miui: V12.0.7.0.QJBCNXM
 - branch: stable
   date: '2020-02-13'
   downloads:

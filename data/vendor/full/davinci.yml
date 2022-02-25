@@ -1,4 +1,70 @@
 - branch: stable
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable-beta/fw-vendor_davinci_miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable-beta/fw-vendor_davinci_miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip
+  region: China
+  size: 702.4 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QFJCNXM
+- branch: weekly
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.16_049df7021d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.16_049df7021d_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCI_20.7.16_049df7021d_10.0.zip
+  region: China
+  size: 714.9 MB
+  versions:
+    android: '10.0'
+    miui: 20.7.16
+- branch: weekly
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.23_b4acde320d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.23_b4acde320d_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCI_20.7.23_b4acde320d_10.0.zip
+  region: China
+  size: 705.7 MB
+  versions:
+    android: '10.0'
+    miui: 20.7.23
+- branch: weekly
+  date: '2020-07-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip
+  region: China
+  size: 709.0 MB
+  versions:
+    android: '10.0'
+    miui: 20.7.30
+- branch: weekly
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.8.6_283e5ffbf1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.8.6_283e5ffbf1_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCI_20.8.6_283e5ffbf1_10.0.zip
+  region: China
+  size: 709.1 MB
+  versions:
+    android: '10.0'
+    miui: 20.8.6
+- branch: weekly
+  date: '2020-09-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.9.3_c853173909_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.9.3_c853173909_10.0.zip/download
+  filename: fw-vendor_davinci_miui_DAVINCI_20.9.3_c853173909_10.0.zip
+  region: China
+  size: 704.6 MB
+  versions:
+    android: '10.0'
+    miui: 20.9.3
+- branch: stable
   date: '2020-03-17'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci_ru_global-stable/fw-vendor_davinci_miui_DAVINCIRUGlobal_V11.0.3.0.QFJRUXM_01634861e7_10.0.zip
@@ -130,72 +196,6 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QFJEUXM
-- branch: weekly
-  date: '2020-07-17'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.16_049df7021d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.16_049df7021d_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCI_20.7.16_049df7021d_10.0.zip
-  region: China
-  size: 714.9 MB
-  versions:
-    android: '10.0'
-    miui: 20.7.16
-- branch: weekly
-  date: '2020-07-23'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.23_b4acde320d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.23_b4acde320d_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCI_20.7.23_b4acde320d_10.0.zip
-  region: China
-  size: 705.7 MB
-  versions:
-    android: '10.0'
-    miui: 20.7.23
-- branch: weekly
-  date: '2020-07-30'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCI_20.7.30_dc8db4d9d6_10.0.zip
-  region: China
-  size: 709.0 MB
-  versions:
-    android: '10.0'
-    miui: 20.7.30
-- branch: weekly
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.8.6_283e5ffbf1_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.8.6_283e5ffbf1_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCI_20.8.6_283e5ffbf1_10.0.zip
-  region: China
-  size: 709.1 MB
-  versions:
-    android: '10.0'
-    miui: 20.8.6
-- branch: weekly
-  date: '2020-09-03'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.9.3_c853173909_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-weekly/fw-vendor_davinci_miui_DAVINCI_20.9.3_c853173909_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCI_20.9.3_c853173909_10.0.zip
-  region: China
-  size: 704.6 MB
-  versions:
-    android: '10.0'
-    miui: 20.9.3
-- branch: stable
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/davinci-stable-beta/fw-vendor_davinci_miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/davinci-stable-beta/fw-vendor_davinci_miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip/download
-  filename: fw-vendor_davinci_miui_DAVINCI_V12.0.4.0.QFJCNXM_e5cf683f93_10.0.zip
-  region: China
-  size: 702.4 MB
-  versions:
-    android: '10.0'
-    miui: V12.0.4.0.QFJCNXM
 - branch: stable
   date: '2019-06-06'
   downloads:

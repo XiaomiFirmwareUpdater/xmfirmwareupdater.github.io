@@ -1,14 +1,4 @@
 - branch: stable
-  date: '2022-01-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-27.01.2022/fw_fleur_miui_FLEUREEAGlobal_V13.0.1.0.RKEEUXM_fc7808e89b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEUREEAGlobal_V13.0.1.0.RKEEUXM_fc7808e89b_11.0.zip
-  filename: fw_fleur_miui_FLEUREEAGlobal_V13.0.1.0.RKEEUXM_fc7808e89b_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V13.0.1.0.RKEEUXM
-- branch: stable
   date: '2022-02-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-22.02.2022/fw_fleur_miui_FLEURGlobal_V13.0.5.0.RKEMIXM_ba53853969_11.0.zip
@@ -38,3 +28,13 @@
   versions:
     android: '11.0'
     miui: V13.0.2.0.RKEINXM
+- branch: stable
+  date: '2022-01-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-27.01.2022/fw_fleur_miui_FLEUREEAGlobal_V13.0.1.0.RKEEUXM_fc7808e89b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEUREEAGlobal_V13.0.1.0.RKEEUXM_fc7808e89b_11.0.zip
+  filename: fw_fleur_miui_FLEUREEAGlobal_V13.0.1.0.RKEEUXM_fc7808e89b_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.1.0.RKEEUXM

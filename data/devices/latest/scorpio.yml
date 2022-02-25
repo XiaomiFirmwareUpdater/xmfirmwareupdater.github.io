@@ -19,22 +19,22 @@
     android: '8.0'
     miui: V11.0.2.0.OADCNXM
 - branch: weekly
-  date: '2019-05-31'
+  date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_scorpio/releases/download/weekly-31.05.2019/fw_scorpio_miui_MINote2Global_9.5.30_2c8d015844_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/scorpio/fw_scorpio_miui_MINote2Global_9.5.30_2c8d015844_8.0.zip
-  filename: fw_scorpio_miui_MINote2Global_9.5.30_2c8d015844_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_scorpio/releases/download/weekly-28.06.2019/fw_scorpio_miui_MINote2Global_9.6.27_93d24ffe26_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/scorpio/fw_scorpio_miui_MINote2Global_9.6.27_93d24ffe26_8.0.zip
+  filename: fw_scorpio_miui_MINote2Global_9.6.27_93d24ffe26_8.0.zip
   region: Global
   versions:
     android: '8.0'
-    miui: 9.5.30
+    miui: 9.6.27
 - branch: weekly
-  date: '2019-05-31'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_scorpio/releases/download/weekly-31.05.2019/fw_scorpio_miui_MINote2_9.5.30_b4ad99c261_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/scorpio/fw_scorpio_miui_MINote2_9.5.30_b4ad99c261_8.0.zip
-  filename: fw_scorpio_miui_MINote2_9.5.30_b4ad99c261_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_scorpio/releases/download/weekly-17.10.2019/fw_scorpio_miui_MINote2_9.10.10_d84e44a760_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/scorpio/fw_scorpio_miui_MINote2_9.10.10_d84e44a760_8.0.zip
+  filename: fw_scorpio_miui_MINote2_9.10.10_d84e44a760_8.0.zip
   region: China
   versions:
     android: '8.0'
-    miui: 9.5.30
+    miui: 9.10.10

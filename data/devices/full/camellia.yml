@@ -1,34 +1,4 @@
 - branch: weekly
-  date: '2021-07-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-29.07.2021/fw_camellia_miui_CAMELLIA_21.7.28_35ec15d10f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.28/camellia/fw_camellia_miui_CAMELLIA_21.7.28_35ec15d10f_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.7.28_35ec15d10f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.28
-- branch: weekly
-  date: '2021-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-26.11.2021/fw_camellia_miui_CAMELLIA_21.11.24_e92e1b94a6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/camellia/fw_camellia_miui_CAMELLIA_21.11.24_e92e1b94a6_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.11.24_e92e1b94a6_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.24
-- branch: weekly
-  date: '2021-08-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-26.08.2021/fw_camellia_miui_CAMELLIA_21.8.25_74209e767e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.25/camellia/fw_camellia_miui_CAMELLIA_21.8.25_74209e767e_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.8.25_74209e767e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.25
-- branch: weekly
   date: '2022-02-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-25.02.2022/fw_camellia_miui_CAMELLIAPRE_22.2.23_3d548c4318_12.0.zip
@@ -39,35 +9,25 @@
     android: '12.0'
     miui: 22.2.23
 - branch: weekly
-  date: '2021-09-24'
+  date: '2022-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-24.09.2021/fw_camellia_miui_CAMELLIA_21.9.22_636b9826ea_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.22/camellia/fw_camellia_miui_CAMELLIA_21.9.22_636b9826ea_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.9.22_636b9826ea_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-18.02.2022/fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/camellia/fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
+  filename: fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.17
+- branch: stable
+  date: '2022-02-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-15.02.2022/fw_camellia_miui_CAMELLIA_V12.5.5.0.RKSCNXM_d5dac6971f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.5.5.0.RKSCNXM_d5dac6971f_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V12.5.5.0.RKSCNXM_d5dac6971f_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.9.22
-- branch: weekly
-  date: '2021-07-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-22.07.2021/fw_camellia_miui_CAMELLIA_21.7.21_265d0c608b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/camellia/fw_camellia_miui_CAMELLIA_21.7.21_265d0c608b_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.7.21_265d0c608b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.21
-- branch: weekly
-  date: '2021-10-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-21.10.2021/fw_camellia_miui_CAMELLIA_21.10.20_e7753d398b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/camellia/fw_camellia_miui_CAMELLIA_21.10.20_e7753d398b_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.10.20_e7753d398b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.10.20
+    miui: V12.5.5.0.RKSCNXM
 - branch: weekly
   date: '2022-01-21'
   downloads:
@@ -79,46 +39,6 @@
     android: '12.0'
     miui: 22.1.19
 - branch: weekly
-  date: '2021-08-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-19.08.2021/fw_camellia_miui_CAMELLIA_21.8.18_4a01289fdb_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/camellia/fw_camellia_miui_CAMELLIA_21.8.18_4a01289fdb_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.8.18_4a01289fdb_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.18
-- branch: weekly
-  date: '2022-02-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-18.02.2022/fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/camellia/fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
-  filename: fw_camellia_miui_CAMELLIAPRE_22.2.17_6dfd424213_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.17
-- branch: weekly
-  date: '2021-10-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-16.10.2021/fw_camellia_miui_CAMELLIA_21.10.13_da4de3441a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/camellia/fw_camellia_miui_CAMELLIA_21.10.13_da4de3441a_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.10.13_da4de3441a_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.10.13
-- branch: weekly
-  date: '2021-07-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-15.07.2021/fw_camellia_miui_CAMELLIA_21.7.14_43aa2b5920_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/camellia/fw_camellia_miui_CAMELLIA_21.7.14_43aa2b5920_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.7.14_43aa2b5920_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.14
-- branch: weekly
   date: '2022-01-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-14.01.2022/fw_camellia_miui_CAMELLIAPRE_22.1.13_2ed8724deb_12.0.zip
@@ -128,6 +48,26 @@
   versions:
     android: '12.0'
     miui: 22.1.13
+- branch: stable
+  date: '2021-11-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-30.11.2021/fw_camellia_miui_CAMELLIA_V12.5.3.0.RKSCNXM_4be1dbd511_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.5.3.0.RKSCNXM_4be1dbd511_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V12.5.3.0.RKSCNXM_4be1dbd511_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RKSCNXM
+- branch: weekly
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-26.11.2021/fw_camellia_miui_CAMELLIA_21.11.24_e92e1b94a6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/camellia/fw_camellia_miui_CAMELLIA_21.11.24_e92e1b94a6_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.11.24_e92e1b94a6_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.24
 - branch: weekly
   date: '2021-11-12'
   downloads:
@@ -139,15 +79,55 @@
     android: '11.0'
     miui: 21.11.10
 - branch: weekly
-  date: '2021-08-12'
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-12.08.2021/fw_camellia_miui_CAMELLIA_21.8.11_d3ee36c3bd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.11/camellia/fw_camellia_miui_CAMELLIA_21.8.11_d3ee36c3bd_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.8.11_d3ee36c3bd_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-05.11.2021/fw_camellia_miui_CAMELLIA_21.11.3_a0d31dd3dc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.3/camellia/fw_camellia_miui_CAMELLIA_21.11.3_a0d31dd3dc_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.11.3_a0d31dd3dc_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.8.11
+    miui: 21.11.3
+- branch: weekly
+  date: '2021-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-21.10.2021/fw_camellia_miui_CAMELLIA_21.10.20_e7753d398b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/camellia/fw_camellia_miui_CAMELLIA_21.10.20_e7753d398b_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.10.20_e7753d398b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.10.20
+- branch: weekly
+  date: '2021-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-16.10.2021/fw_camellia_miui_CAMELLIA_21.10.13_da4de3441a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/camellia/fw_camellia_miui_CAMELLIA_21.10.13_da4de3441a_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.10.13_da4de3441a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.10.13
+- branch: stable
+  date: '2021-09-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-26.09.2021/fw_camellia_miui_CAMELLIA_V12.5.1.0.RKSCNXM_b20bd1ae3c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.5.1.0.RKSCNXM_b20bd1ae3c_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V12.5.1.0.RKSCNXM_b20bd1ae3c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RKSCNXM
+- branch: weekly
+  date: '2021-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-24.09.2021/fw_camellia_miui_CAMELLIA_21.9.22_636b9826ea_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.22/camellia/fw_camellia_miui_CAMELLIA_21.9.22_636b9826ea_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.9.22_636b9826ea_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.22
 - branch: weekly
   date: '2021-09-09'
   downloads:
@@ -159,25 +139,45 @@
     android: '11.0'
     miui: 21.9.8
 - branch: weekly
-  date: '2021-07-08'
+  date: '2021-09-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-08.07.2021/fw_camellia_miui_CAMELLIA_21.7.7_af0d818d00_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/camellia/fw_camellia_miui_CAMELLIA_21.7.7_af0d818d00_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.7.7_af0d818d00_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-03.09.2021/fw_camellia_miui_CAMELLIA_21.9.2_6e98968e8e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.2/camellia/fw_camellia_miui_CAMELLIA_21.9.2_6e98968e8e_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.9.2_6e98968e8e_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.7.7
+    miui: 21.9.2
 - branch: weekly
-  date: '2021-11-05'
+  date: '2021-08-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-05.11.2021/fw_camellia_miui_CAMELLIA_21.11.3_a0d31dd3dc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.3/camellia/fw_camellia_miui_CAMELLIA_21.11.3_a0d31dd3dc_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.11.3_a0d31dd3dc_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-26.08.2021/fw_camellia_miui_CAMELLIA_21.8.25_74209e767e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.25/camellia/fw_camellia_miui_CAMELLIA_21.8.25_74209e767e_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.8.25_74209e767e_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.11.3
+    miui: 21.8.25
+- branch: weekly
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-19.08.2021/fw_camellia_miui_CAMELLIA_21.8.18_4a01289fdb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/camellia/fw_camellia_miui_CAMELLIA_21.8.18_4a01289fdb_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.8.18_4a01289fdb_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.18
+- branch: weekly
+  date: '2021-08-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-12.08.2021/fw_camellia_miui_CAMELLIA_21.8.11_d3ee36c3bd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.11/camellia/fw_camellia_miui_CAMELLIA_21.8.11_d3ee36c3bd_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.8.11_d3ee36c3bd_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.11
 - branch: weekly
   date: '2021-08-05'
   downloads:
@@ -189,35 +189,15 @@
     android: '11.0'
     miui: 21.8.4
 - branch: weekly
-  date: '2021-09-03'
+  date: '2021-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-03.09.2021/fw_camellia_miui_CAMELLIA_21.9.2_6e98968e8e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.2/camellia/fw_camellia_miui_CAMELLIA_21.9.2_6e98968e8e_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.9.2_6e98968e8e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-29.07.2021/fw_camellia_miui_CAMELLIA_21.7.28_35ec15d10f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.28/camellia/fw_camellia_miui_CAMELLIA_21.7.28_35ec15d10f_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.7.28_35ec15d10f_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.9.2
-- branch: stable
-  date: '2021-05-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-31.05.2021/fw_camellia_miui_CAMELLIA_V12.0.6.0.RKSCNXM_f64cb2ef51_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.0.6.0.RKSCNXM_f64cb2ef51_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_V12.0.6.0.RKSCNXM_f64cb2ef51_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.0.6.0.RKSCNXM
-- branch: stable
-  date: '2021-11-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-30.11.2021/fw_camellia_miui_CAMELLIA_V12.5.3.0.RKSCNXM_4be1dbd511_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.5.3.0.RKSCNXM_4be1dbd511_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_V12.5.3.0.RKSCNXM_4be1dbd511_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.3.0.RKSCNXM
+    miui: 21.7.28
 - branch: stable
   date: '2021-07-28'
   downloads:
@@ -228,26 +208,36 @@
   versions:
     android: '11.0'
     miui: V12.0.8.0.RKSCNXM
-- branch: stable
-  date: '2021-09-26'
+- branch: weekly
+  date: '2021-07-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-26.09.2021/fw_camellia_miui_CAMELLIA_V12.5.1.0.RKSCNXM_b20bd1ae3c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.5.1.0.RKSCNXM_b20bd1ae3c_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_V12.5.1.0.RKSCNXM_b20bd1ae3c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-22.07.2021/fw_camellia_miui_CAMELLIA_21.7.21_265d0c608b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/camellia/fw_camellia_miui_CAMELLIA_21.7.21_265d0c608b_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.7.21_265d0c608b_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RKSCNXM
-- branch: stable
-  date: '2022-02-15'
+    miui: 21.7.21
+- branch: weekly
+  date: '2021-07-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-15.02.2022/fw_camellia_miui_CAMELLIA_V12.5.5.0.RKSCNXM_d5dac6971f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.5.5.0.RKSCNXM_d5dac6971f_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_V12.5.5.0.RKSCNXM_d5dac6971f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-15.07.2021/fw_camellia_miui_CAMELLIA_21.7.14_43aa2b5920_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/camellia/fw_camellia_miui_CAMELLIA_21.7.14_43aa2b5920_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.7.14_43aa2b5920_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKSCNXM
+    miui: 21.7.14
+- branch: weekly
+  date: '2021-07-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-08.07.2021/fw_camellia_miui_CAMELLIA_21.7.7_af0d818d00_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/camellia/fw_camellia_miui_CAMELLIA_21.7.7_af0d818d00_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_21.7.7_af0d818d00_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.7
 - branch: stable
   date: '2021-07-05'
   downloads:
@@ -258,3 +248,13 @@
   versions:
     android: '11.0'
     miui: V12.0.7.0.RKSCNXM
+- branch: stable
+  date: '2021-05-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-31.05.2021/fw_camellia_miui_CAMELLIA_V12.0.6.0.RKSCNXM_f64cb2ef51_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.0.6.0.RKSCNXM_f64cb2ef51_11.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V12.0.6.0.RKSCNXM_f64cb2ef51_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.0.6.0.RKSCNXM

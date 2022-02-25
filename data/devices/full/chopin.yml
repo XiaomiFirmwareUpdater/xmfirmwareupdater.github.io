@@ -1,34 +1,4 @@
 - branch: weekly
-  date: '2021-07-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-29.07.2021/fw_chopin_miui_CHOPIN_21.7.28_6248ec4820_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.28/chopin/fw_chopin_miui_CHOPIN_21.7.28_6248ec4820_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.7.28_6248ec4820_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.28
-- branch: weekly
-  date: '2021-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-26.11.2021/fw_chopin_miui_CHOPIN_21.11.24_ab71b5f904_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/chopin/fw_chopin_miui_CHOPIN_21.11.24_ab71b5f904_12.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.11.24_ab71b5f904_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 21.11.24
-- branch: weekly
-  date: '2021-08-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-26.08.2021/fw_chopin_miui_CHOPIN_21.8.25_b72d41524e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.25/chopin/fw_chopin_miui_CHOPIN_21.8.25_b72d41524e_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.8.25_b72d41524e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.25
-- branch: weekly
   date: '2022-02-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-25.02.2022/fw_chopin_miui_CHOPINPRE_22.2.23_28abbdb81f_12.0.zip
@@ -38,66 +8,6 @@
   versions:
     android: '12.0'
     miui: 22.2.23
-- branch: weekly
-  date: '2021-09-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-24.09.2021/fw_chopin_miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.22/chopin/fw_chopin_miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.22
-- branch: weekly
-  date: '2021-06-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-24.06.2021/fw_chopin_miui_CHOPIN_21.6.23_a12d7e43a3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/chopin/fw_chopin_miui_CHOPIN_21.6.23_a12d7e43a3_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.6.23_a12d7e43a3_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.23
-- branch: weekly
-  date: '2021-10-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-21.10.2021/fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/chopin/fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.10.20
-- branch: weekly
-  date: '2022-01-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-21.01.2022/fw_chopin_miui_CHOPINPRE_22.1.19_ad00ace639_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/chopin/fw_chopin_miui_CHOPINPRE_22.1.19_ad00ace639_12.0.zip
-  filename: fw_chopin_miui_CHOPINPRE_22.1.19_ad00ace639_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.1.19
-- branch: weekly
-  date: '2021-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-19.11.2021/fw_chopin_miui_CHOPIN_21.11.17_9352d0ab43_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/chopin/fw_chopin_miui_CHOPIN_21.11.17_9352d0ab43_12.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.11.17_9352d0ab43_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 21.11.17
-- branch: weekly
-  date: '2021-08-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-19.08.2021/fw_chopin_miui_CHOPIN_21.8.18_206d76032a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/chopin/fw_chopin_miui_CHOPIN_21.8.18_206d76032a_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.8.18_206d76032a_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.18
 - branch: weekly
   date: '2022-02-18'
   downloads:
@@ -109,26 +19,6 @@
     android: '12.0'
     miui: 22.2.17
 - branch: weekly
-  date: '2021-10-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-16.10.2021/fw_chopin_miui_CHOPIN_21.10.13_5c9d021012_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/chopin/fw_chopin_miui_CHOPIN_21.10.13_5c9d021012_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.10.13_5c9d021012_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.10.13
-- branch: weekly
-  date: '2021-07-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-15.07.2021/fw_chopin_miui_CHOPIN_21.7.14_6fb74c08c6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/chopin/fw_chopin_miui_CHOPIN_21.7.14_6fb74c08c6_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.7.14_6fb74c08c6_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.14
-- branch: weekly
   date: '2022-02-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-14.02.2022/fw_chopin_miui_CHOPINPRE_22.2.9_0083fd64a6_12.0.zip
@@ -138,86 +28,6 @@
   versions:
     android: '12.0'
     miui: 22.2.9
-- branch: weekly
-  date: '2022-01-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-14.01.2022/fw_chopin_miui_CHOPINPRE_22.1.12_2948749eb1_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.12/chopin/fw_chopin_miui_CHOPINPRE_22.1.12_2948749eb1_12.0.zip
-  filename: fw_chopin_miui_CHOPINPRE_22.1.12_2948749eb1_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.1.12
-- branch: weekly
-  date: '2021-08-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-12.08.2021/fw_chopin_miui_CHOPIN_21.8.11_4e9ddea8d7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.11/chopin/fw_chopin_miui_CHOPIN_21.8.11_4e9ddea8d7_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.8.11_4e9ddea8d7_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.11
-- branch: weekly
-  date: '2021-09-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-09.09.2021/fw_chopin_miui_CHOPIN_21.9.8_09acab9042_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.8/chopin/fw_chopin_miui_CHOPIN_21.9.8_09acab9042_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.9.8_09acab9042_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.8
-- branch: weekly
-  date: '2021-07-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-08.07.2021/fw_chopin_miui_CHOPIN_21.7.7_af3e96ff20_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/chopin/fw_chopin_miui_CHOPIN_21.7.7_af3e96ff20_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.7.7_af3e96ff20_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.7
-- branch: weekly
-  date: '2021-12-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-04.12.2021/fw_chopin_miui_CHOPIN_21.12.1_e8aaa4231d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/chopin/fw_chopin_miui_CHOPIN_21.12.1_e8aaa4231d_12.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.12.1_e8aaa4231d_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 21.12.1
-- branch: weekly
-  date: '2021-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-03.09.2021/fw_chopin_miui_CHOPIN_21.9.2_cd032bf99f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.2/chopin/fw_chopin_miui_CHOPIN_21.9.2_cd032bf99f_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.9.2_cd032bf99f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.2
-- branch: weekly
-  date: '2021-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-02.07.2021/fw_chopin_miui_CHOPIN_21.6.30_ac981f3d35_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/chopin/fw_chopin_miui_CHOPIN_21.6.30_ac981f3d35_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.6.30_ac981f3d35_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.30
-- branch: stable
-  date: '2021-08-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-30.08.2021/fw_chopin_miui_CHOPIN_V12.5.8.0.RKPCNXM_9ec3277b83_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPIN_V12.5.8.0.RKPCNXM_9ec3277b83_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_V12.5.8.0.RKPCNXM_9ec3277b83_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.8.0.RKPCNXM
 - branch: stable
   date: '2022-01-27'
   downloads:
@@ -228,26 +38,26 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SKPCNXM
-- branch: stable
-  date: '2021-06-24'
+- branch: weekly
+  date: '2022-01-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-24.06.2021/fw_chopin_miui_CHOPIN_V12.5.5.0.RKPCNXM_f534d23353_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPIN_V12.5.5.0.RKPCNXM_f534d23353_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_V12.5.5.0.RKPCNXM_f534d23353_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-21.01.2022/fw_chopin_miui_CHOPINPRE_22.1.19_ad00ace639_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/chopin/fw_chopin_miui_CHOPINPRE_22.1.19_ad00ace639_12.0.zip
+  filename: fw_chopin_miui_CHOPINPRE_22.1.19_ad00ace639_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.5.0.RKPCNXM
-- branch: stable
-  date: '2021-07-19'
+    android: '12.0'
+    miui: 22.1.19
+- branch: weekly
+  date: '2022-01-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-19.07.2021/fw_chopin_miui_CHOPIN_V12.5.6.0.RKPCNXM_297250819f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPIN_V12.5.6.0.RKPCNXM_297250819f_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_V12.5.6.0.RKPCNXM_297250819f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-14.01.2022/fw_chopin_miui_CHOPINPRE_22.1.12_2948749eb1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.12/chopin/fw_chopin_miui_CHOPINPRE_22.1.12_2948749eb1_12.0.zip
+  filename: fw_chopin_miui_CHOPINPRE_22.1.12_2948749eb1_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.6.0.RKPCNXM
+    android: '12.0'
+    miui: 22.1.12
 - branch: stable
   date: '2021-12-17'
   downloads:
@@ -268,16 +78,36 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RKPMIXM
-- branch: stable
-  date: '2021-09-06'
+- branch: weekly
+  date: '2021-12-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-06.09.2021/fw_chopin_miui_CHOPINGlobal_V12.5.5.0.RKPMIXM_065f6df843_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPINGlobal_V12.5.5.0.RKPMIXM_065f6df843_11.0.zip
-  filename: fw_chopin_miui_CHOPINGlobal_V12.5.5.0.RKPMIXM_065f6df843_11.0.zip
-  region: Global
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-04.12.2021/fw_chopin_miui_CHOPIN_21.12.1_e8aaa4231d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/chopin/fw_chopin_miui_CHOPIN_21.12.1_e8aaa4231d_12.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.12.1_e8aaa4231d_12.0.zip
+  region: China
   versions:
-    android: '11.0'
-    miui: V12.5.5.0.RKPMIXM
+    android: '12.0'
+    miui: 21.12.1
+- branch: weekly
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-26.11.2021/fw_chopin_miui_CHOPIN_21.11.24_ab71b5f904_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/chopin/fw_chopin_miui_CHOPIN_21.11.24_ab71b5f904_12.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.11.24_ab71b5f904_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.11.24
+- branch: weekly
+  date: '2021-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-19.11.2021/fw_chopin_miui_CHOPIN_21.11.17_9352d0ab43_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/chopin/fw_chopin_miui_CHOPIN_21.11.17_9352d0ab43_12.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.11.17_9352d0ab43_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.11.17
 - branch: stable
   date: '2021-11-05'
   downloads:
@@ -288,6 +118,186 @@
   versions:
     android: '11.0'
     miui: V12.5.11.0.RKPCNXM
+- branch: weekly
+  date: '2021-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-21.10.2021/fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/chopin/fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.10.20
+- branch: weekly
+  date: '2021-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-16.10.2021/fw_chopin_miui_CHOPIN_21.10.13_5c9d021012_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/chopin/fw_chopin_miui_CHOPIN_21.10.13_5c9d021012_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.10.13_5c9d021012_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.10.13
+- branch: weekly
+  date: '2021-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-24.09.2021/fw_chopin_miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.22/chopin/fw_chopin_miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.22
+- branch: weekly
+  date: '2021-09-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-09.09.2021/fw_chopin_miui_CHOPIN_21.9.8_09acab9042_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.8/chopin/fw_chopin_miui_CHOPIN_21.9.8_09acab9042_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.9.8_09acab9042_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.8
+- branch: stable
+  date: '2021-09-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-06.09.2021/fw_chopin_miui_CHOPINGlobal_V12.5.5.0.RKPMIXM_065f6df843_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPINGlobal_V12.5.5.0.RKPMIXM_065f6df843_11.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V12.5.5.0.RKPMIXM_065f6df843_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKPMIXM
+- branch: weekly
+  date: '2021-09-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-03.09.2021/fw_chopin_miui_CHOPIN_21.9.2_cd032bf99f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.2/chopin/fw_chopin_miui_CHOPIN_21.9.2_cd032bf99f_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.9.2_cd032bf99f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.2
+- branch: stable
+  date: '2021-08-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-30.08.2021/fw_chopin_miui_CHOPIN_V12.5.8.0.RKPCNXM_9ec3277b83_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPIN_V12.5.8.0.RKPCNXM_9ec3277b83_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_V12.5.8.0.RKPCNXM_9ec3277b83_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKPCNXM
+- branch: weekly
+  date: '2021-08-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-26.08.2021/fw_chopin_miui_CHOPIN_21.8.25_b72d41524e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.25/chopin/fw_chopin_miui_CHOPIN_21.8.25_b72d41524e_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.8.25_b72d41524e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.25
+- branch: weekly
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-19.08.2021/fw_chopin_miui_CHOPIN_21.8.18_206d76032a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/chopin/fw_chopin_miui_CHOPIN_21.8.18_206d76032a_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.8.18_206d76032a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.18
+- branch: weekly
+  date: '2021-08-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-12.08.2021/fw_chopin_miui_CHOPIN_21.8.11_4e9ddea8d7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.11/chopin/fw_chopin_miui_CHOPIN_21.8.11_4e9ddea8d7_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.8.11_4e9ddea8d7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.11
+- branch: stable
+  date: '2021-08-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-02.08.2021/fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKPMIXM
+- branch: weekly
+  date: '2021-07-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-29.07.2021/fw_chopin_miui_CHOPIN_21.7.28_6248ec4820_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.28/chopin/fw_chopin_miui_CHOPIN_21.7.28_6248ec4820_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.7.28_6248ec4820_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.28
+- branch: stable
+  date: '2021-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-19.07.2021/fw_chopin_miui_CHOPIN_V12.5.6.0.RKPCNXM_297250819f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPIN_V12.5.6.0.RKPCNXM_297250819f_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_V12.5.6.0.RKPCNXM_297250819f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKPCNXM
+- branch: weekly
+  date: '2021-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-15.07.2021/fw_chopin_miui_CHOPIN_21.7.14_6fb74c08c6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/chopin/fw_chopin_miui_CHOPIN_21.7.14_6fb74c08c6_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.7.14_6fb74c08c6_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.14
+- branch: weekly
+  date: '2021-07-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-08.07.2021/fw_chopin_miui_CHOPIN_21.7.7_af3e96ff20_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/chopin/fw_chopin_miui_CHOPIN_21.7.7_af3e96ff20_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.7.7_af3e96ff20_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.7
+- branch: weekly
+  date: '2021-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-02.07.2021/fw_chopin_miui_CHOPIN_21.6.30_ac981f3d35_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/chopin/fw_chopin_miui_CHOPIN_21.6.30_ac981f3d35_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.6.30_ac981f3d35_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.30
+- branch: weekly
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-24.06.2021/fw_chopin_miui_CHOPIN_21.6.23_a12d7e43a3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/chopin/fw_chopin_miui_CHOPIN_21.6.23_a12d7e43a3_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_21.6.23_a12d7e43a3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.23
+- branch: stable
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-24.06.2021/fw_chopin_miui_CHOPIN_V12.5.5.0.RKPCNXM_f534d23353_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPIN_V12.5.5.0.RKPCNXM_f534d23353_11.0.zip
+  filename: fw_chopin_miui_CHOPIN_V12.5.5.0.RKPCNXM_f534d23353_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKPCNXM
 - branch: stable
   date: '2021-06-04'
   downloads:
@@ -308,13 +318,3 @@
   versions:
     android: '11.0'
     miui: V12.5.3.0.RKPCNXM
-- branch: stable
-  date: '2021-08-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-02.08.2021/fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/chopin/fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
-  filename: fw_chopin_miui_CHOPINGlobal_V12.5.2.0.RKPMIXM_224bc38fab_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RKPMIXM

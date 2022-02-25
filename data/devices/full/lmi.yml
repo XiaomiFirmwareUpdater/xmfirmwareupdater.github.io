@@ -1,134 +1,4 @@
 - branch: weekly
-  date: '2020-12-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-31.12.2020/fw_lmi_miui_LMI_20.12.29_b9f48f85b9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.29/lmi/fw_lmi_miui_LMI_20.12.29_b9f48f85b9_11.0.zip
-  filename: fw_lmi_miui_LMI_20.12.29_b9f48f85b9_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.12.29
-- branch: weekly
-  date: '2020-10-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-31.10.2020/fw_lmi_miui_LMI_20.10.30_b56e2ffe92_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.30/lmi/fw_lmi_miui_LMI_20.10.30_b56e2ffe92_11.0.zip
-  filename: fw_lmi_miui_LMI_20.10.30_b56e2ffe92_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.10.30
-- branch: weekly
-  date: '2021-10-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-30.10.2021/fw_lmi_miui_LMI_21.10.28_5191afcb0e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.28/lmi/fw_lmi_miui_LMI_21.10.28_5191afcb0e_11.0.zip
-  filename: fw_lmi_miui_LMI_21.10.28_5191afcb0e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.10.28
-- branch: weekly
-  date: '2020-07-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-30.07.2020/fw_lmi_miui_LMI_20.7.30_2de74df6ca_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/lmi/fw_lmi_miui_LMI_20.7.30_2de74df6ca_11.0.zip
-  filename: fw_lmi_miui_LMI_20.7.30_2de74df6ca_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.7.30
-- branch: weekly
-  date: '2021-07-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-29.07.2021/fw_lmi_miui_LMI_21.7.28_f33e2c8354_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.28/lmi/fw_lmi_miui_LMI_21.7.28_f33e2c8354_11.0.zip
-  filename: fw_lmi_miui_LMI_21.7.28_f33e2c8354_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.28
-- branch: weekly
-  date: '2021-04-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-29.04.2021/fw_lmi_miui_LMI_21.4.28_3053f0d2c3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.28/lmi/fw_lmi_miui_LMI_21.4.28_3053f0d2c3_11.0.zip
-  filename: fw_lmi_miui_LMI_21.4.28_3053f0d2c3_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.28
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-29.01.2021/fw_lmi_miui_LMI_21.1.28_613d4e4cec_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/lmi/fw_lmi_miui_LMI_21.1.28_613d4e4cec_11.0.zip
-  filename: fw_lmi_miui_LMI_21.1.28_613d4e4cec_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.28
-- branch: weekly
-  date: '2021-08-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-27.08.2021/fw_lmi_miui_LMI_21.8.25_1e474e1bca_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.25/lmi/fw_lmi_miui_LMI_21.8.25_1e474e1bca_11.0.zip
-  filename: fw_lmi_miui_LMI_21.8.25_1e474e1bca_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.25
-- branch: weekly
-  date: '2021-05-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-27.05.2021/fw_lmi_miui_LMI_21.5.26_91368e2881_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.26/lmi/fw_lmi_miui_LMI_21.5.26_91368e2881_11.0.zip
-  filename: fw_lmi_miui_LMI_21.5.26_91368e2881_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.26
-- branch: weekly
-  date: '2020-04-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-27.04.2020/fw_lmi_miui_LMI_20.4.27_361bff838d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/lmi/fw_lmi_miui_LMI_20.4.27_361bff838d_10.0.zip
-  filename: fw_lmi_miui_LMI_20.4.27_361bff838d_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.4.27
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-27.03.2021/fw_lmi_miui_LMI_21.3.25_f183397abc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.25/lmi/fw_lmi_miui_LMI_21.3.25_f183397abc_11.0.zip
-  filename: fw_lmi_miui_LMI_21.3.25_f183397abc_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.25
-- branch: weekly
-  date: '2020-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-26.11.2020/fw_lmi_miui_LMI_20.11.25_6b2c698031_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/lmi/fw_lmi_miui_LMI_20.11.25_6b2c698031_11.0.zip
-  filename: fw_lmi_miui_LMI_20.11.25_6b2c698031_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.25
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-26.02.2021/fw_lmi_miui_LMI_21.2.24_a1f1e05034_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/lmi/fw_lmi_miui_LMI_21.2.24_a1f1e05034_11.0.zip
-  filename: fw_lmi_miui_LMI_21.2.24_a1f1e05034_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.2.24
-- branch: weekly
   date: '2022-02-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-25.02.2022/fw_lmi_miui_LMIPRE_22.2.23_ebfc59356e_12.0.zip
@@ -138,626 +8,6 @@
   versions:
     android: '12.0'
     miui: 22.2.23
-- branch: weekly
-  date: '2021-09-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-24.09.2021/fw_lmi_miui_LMI_21.9.22_e29a6aa006_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.22/lmi/fw_lmi_miui_LMI_21.9.22_e29a6aa006_11.0.zip
-  filename: fw_lmi_miui_LMI_21.9.22_e29a6aa006_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.22
-- branch: weekly
-  date: '2020-09-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-24.09.2020/fw_lmi_miui_LMI_20.9.24_95c6dcc674_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/lmi/fw_lmi_miui_LMI_20.9.24_95c6dcc674_11.0.zip
-  filename: fw_lmi_miui_LMI_20.9.24_95c6dcc674_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.9.24
-- branch: weekly
-  date: '2021-06-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-24.06.2021/fw_lmi_miui_LMI_21.6.23_c35d67a8d7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/lmi/fw_lmi_miui_LMI_21.6.23_c35d67a8d7_11.0.zip
-  filename: fw_lmi_miui_LMI_21.6.23_c35d67a8d7_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.23
-- branch: weekly
-  date: '2020-10-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-23.10.2020/fw_lmi_miui_LMI_20.10.22_af8ae0219c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/lmi/fw_lmi_miui_LMI_20.10.22_af8ae0219c_11.0.zip
-  filename: fw_lmi_miui_LMI_20.10.22_af8ae0219c_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.10.22
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-23.01.2021/fw_lmi_miui_LMI_21.1.20_fcb83d6714_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/lmi/fw_lmi_miui_LMI_21.1.20_fcb83d6714_11.0.zip
-  filename: fw_lmi_miui_LMI_21.1.20_fcb83d6714_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.20
-- branch: weekly
-  date: '2021-07-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-22.07.2021/fw_lmi_miui_LMI_21.7.21_f248b7bd5d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/lmi/fw_lmi_miui_LMI_21.7.21_f248b7bd5d_11.0.zip
-  filename: fw_lmi_miui_LMI_21.7.21_f248b7bd5d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.21
-- branch: weekly
-  date: '2021-04-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-22.04.2021/fw_lmi_miui_LMI_21.4.21_742b2e9fc8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/lmi/fw_lmi_miui_LMI_21.4.21_742b2e9fc8_11.0.zip
-  filename: fw_lmi_miui_LMI_21.4.21_742b2e9fc8_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.21
-- branch: weekly
-  date: '2020-08-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-21.08.2020/fw_lmi_miui_LMI_20.8.20_138458d1c7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.20/lmi/fw_lmi_miui_LMI_20.8.20_138458d1c7_11.0.zip
-  filename: fw_lmi_miui_LMI_20.8.20_138458d1c7_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.8.20
-- branch: weekly
-  date: '2020-05-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-21.05.2020/fw_lmi_miui_LMI_20.5.21_b64a295251_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/lmi/fw_lmi_miui_LMI_20.5.21_b64a295251_10.0.zip
-  filename: fw_lmi_miui_LMI_20.5.21_b64a295251_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.21
-- branch: weekly
-  date: '2022-01-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-21.01.2022/fw_lmi_miui_LMIPRE_22.1.19_2feac056f9_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/lmi/fw_lmi_miui_LMIPRE_22.1.19_2feac056f9_12.0.zip
-  filename: fw_lmi_miui_LMIPRE_22.1.19_2feac056f9_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.1.19
-- branch: weekly
-  date: '2021-05-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-20.05.2021/fw_lmi_miui_LMI_21.5.20_90c307b74a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.20/lmi/fw_lmi_miui_LMI_21.5.20_90c307b74a_11.0.zip
-  filename: fw_lmi_miui_LMI_21.5.20_90c307b74a_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.20
-- branch: weekly
-  date: '2020-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-19.11.2020/fw_lmi_miui_LMI_20.11.18_6f5a4463cd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/lmi/fw_lmi_miui_LMI_20.11.18_6f5a4463cd_11.0.zip
-  filename: fw_lmi_miui_LMI_20.11.18_6f5a4463cd_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.18
-- branch: weekly
-  date: '2021-06-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-18.06.2021/fw_lmi_miui_LMI_21.6.17_18d9300d51_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.17/lmi/fw_lmi_miui_LMI_21.6.17_18d9300d51_11.0.zip
-  filename: fw_lmi_miui_LMI_21.6.17_18d9300d51_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.17
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-18.03.2021/fw_lmi_miui_LMI_21.3.17_68996d1dba_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.17/lmi/fw_lmi_miui_LMI_21.3.17_68996d1dba_11.0.zip
-  filename: fw_lmi_miui_LMI_21.3.17_68996d1dba_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.17
-- branch: weekly
-  date: '2022-02-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-18.02.2022/fw_lmi_miui_LMIPRE_22.2.16_731c93b508_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.16/lmi/fw_lmi_miui_LMIPRE_22.2.16_731c93b508_12.0.zip
-  filename: fw_lmi_miui_LMIPRE_22.2.16_731c93b508_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.16
-- branch: weekly
-  date: '2020-09-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-17.09.2020/fw_lmi_miui_LMI_20.9.17_dcdf00020e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/lmi/fw_lmi_miui_LMI_20.9.17_dcdf00020e_11.0.zip
-  filename: fw_lmi_miui_LMI_20.9.17_dcdf00020e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.9.17
-- branch: weekly
-  date: '2021-10-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-16.10.2021/fw_lmi_miui_LMI_21.10.13_dd310c7915_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/lmi/fw_lmi_miui_LMI_21.10.13_dd310c7915_11.0.zip
-  filename: fw_lmi_miui_LMI_21.10.13_dd310c7915_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.10.13
-- branch: weekly
-  date: '2021-09-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-16.09.2021/fw_lmi_miui_LMI_21.9.15_ac0fff5928_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.15/lmi/fw_lmi_miui_LMI_21.9.15_ac0fff5928_11.0.zip
-  filename: fw_lmi_miui_LMI_21.9.15_ac0fff5928_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.15
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-16.04.2021/fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/lmi/fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
-  filename: fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.14
-- branch: weekly
-  date: '2020-10-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-15.10.2020/fw_lmi_miui_LMI_20.10.15_71bebd37ba_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/lmi/fw_lmi_miui_LMI_20.10.15_71bebd37ba_11.0.zip
-  filename: fw_lmi_miui_LMI_20.10.15_71bebd37ba_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.10.15
-- branch: weekly
-  date: '2021-07-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-15.07.2021/fw_lmi_miui_LMI_21.7.14_542cb98682_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/lmi/fw_lmi_miui_LMI_21.7.14_542cb98682_11.0.zip
-  filename: fw_lmi_miui_LMI_21.7.14_542cb98682_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.14
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-15.01.2021/fw_lmi_miui_LMI_21.1.13_588b865b94_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/lmi/fw_lmi_miui_LMI_21.1.13_588b865b94_11.0.zip
-  filename: fw_lmi_miui_LMI_21.1.13_588b865b94_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.13
-- branch: weekly
-  date: '2021-05-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-14.05.2021/fw_lmi_miui_LMI_21.5.12_b0d58e4bba_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.12/lmi/fw_lmi_miui_LMI_21.5.12_b0d58e4bba_11.0.zip
-  filename: fw_lmi_miui_LMI_21.5.12_b0d58e4bba_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.12
-- branch: weekly
-  date: '2020-05-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-14.05.2020/fw_lmi_miui_LMI_20.5.14_711d6a471c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/lmi/fw_lmi_miui_LMI_20.5.14_711d6a471c_10.0.zip
-  filename: fw_lmi_miui_LMI_20.5.14_711d6a471c_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.14
-- branch: weekly
-  date: '2020-08-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-13.08.2020/fw_lmi_miui_LMI_20.8.13_b1682eb31f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.13/lmi/fw_lmi_miui_LMI_20.8.13_b1682eb31f_11.0.zip
-  filename: fw_lmi_miui_LMI_20.8.13_b1682eb31f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.8.13
-- branch: weekly
-  date: '2022-02-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-13.02.2022/fw_lmi_miui_LMIPRE_22.2.9_6e708a3e91_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/lmi/fw_lmi_miui_LMIPRE_22.2.9_6e708a3e91_12.0.zip
-  filename: fw_lmi_miui_LMIPRE_22.2.9_6e708a3e91_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.9
-- branch: weekly
-  date: '2020-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-12.11.2020/fw_lmi_miui_LMI_20.11.12_5fa06dd7fc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/lmi/fw_lmi_miui_LMI_20.11.12_5fa06dd7fc_11.0.zip
-  filename: fw_lmi_miui_LMI_20.11.12_5fa06dd7fc_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.12
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-12.03.2021/fw_lmi_miui_LMI_21.3.10_15e6a6c026_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/lmi/fw_lmi_miui_LMI_21.3.10_15e6a6c026_11.0.zip
-  filename: fw_lmi_miui_LMI_21.3.10_15e6a6c026_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.10
-- branch: weekly
-  date: '2020-12-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-10.12.2020/fw_lmi_miui_LMI_20.12.10_b20967ce50_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.10/lmi/fw_lmi_miui_LMI_20.12.10_b20967ce50_11.0.zip
-  filename: fw_lmi_miui_LMI_20.12.10_b20967ce50_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.12.10
-- branch: weekly
-  date: '2021-06-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-10.06.2021/fw_lmi_miui_LMI_21.6.9_213cade1fb_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.9/lmi/fw_lmi_miui_LMI_21.6.9_213cade1fb_11.0.zip
-  filename: fw_lmi_miui_LMI_21.6.9_213cade1fb_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.9
-- branch: weekly
-  date: '2021-09-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-09.09.2021/fw_lmi_miui_LMI_21.9.8_a2101b7094_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.8/lmi/fw_lmi_miui_LMI_21.9.8_a2101b7094_11.0.zip
-  filename: fw_lmi_miui_LMI_21.9.8_a2101b7094_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.8
-- branch: weekly
-  date: '2020-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-09.07.2020/fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/lmi/fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
-  filename: fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.9
-- branch: weekly
-  date: '2020-05-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-08.05.2020/fw_lmi_miui_LMI_20.5.7_b9f4ded3cd_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/lmi/fw_lmi_miui_LMI_20.5.7_b9f4ded3cd_10.0.zip
-  filename: fw_lmi_miui_LMI_20.5.7_b9f4ded3cd_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.7
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-08.04.2021/fw_lmi_miui_LMI_21.4.8_d161c583bd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.8/lmi/fw_lmi_miui_LMI_21.4.8_d161c583bd_11.0.zip
-  filename: fw_lmi_miui_LMI_21.4.8_d161c583bd_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.8
-- branch: weekly
-  date: '2021-01-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-08.01.2021/fw_lmi_miui_LMI_21.1.6_3ad9b2f82d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/lmi/fw_lmi_miui_LMI_21.1.6_3ad9b2f82d_11.0.zip
-  filename: fw_lmi_miui_LMI_21.1.6_3ad9b2f82d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.6
-- branch: weekly
-  date: '2020-11-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-06.11.2020/fw_lmi_miui_LMI_20.11.5_73f2b5952d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/lmi/fw_lmi_miui_LMI_20.11.5_73f2b5952d_11.0.zip
-  filename: fw_lmi_miui_LMI_20.11.5_73f2b5952d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.5
-- branch: weekly
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-06.08.2020/fw_lmi_miui_LMI_20.8.6_128cd6e279_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.6/lmi/fw_lmi_miui_LMI_20.8.6_128cd6e279_11.0.zip
-  filename: fw_lmi_miui_LMI_20.8.6_128cd6e279_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.8.6
-- branch: weekly
-  date: '2021-11-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-05.11.2021/fw_lmi_miui_LMI_21.11.3_d6464f494e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.3/lmi/fw_lmi_miui_LMI_21.11.3_d6464f494e_11.0.zip
-  filename: fw_lmi_miui_LMI_21.11.3_d6464f494e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.3
-- branch: weekly
-  date: '2020-09-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-05.09.2020/fw_lmi_miui_LMI_20.9.3_01bb617599_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.3/lmi/fw_lmi_miui_LMI_20.9.3_01bb617599_11.0.zip
-  filename: fw_lmi_miui_LMI_20.9.3_01bb617599_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.9.3
-- branch: weekly
-  date: '2021-08-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-05.08.2021/fw_lmi_miui_LMI_21.8.4_bf2c77856a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.4/lmi/fw_lmi_miui_LMI_21.8.4_bf2c77856a_11.0.zip
-  filename: fw_lmi_miui_LMI_21.8.4_bf2c77856a_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.4
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-05.03.2021/fw_lmi_miui_LMI_21.3.3_a354e821fd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/lmi/fw_lmi_miui_LMI_21.3.3_a354e821fd_11.0.zip
-  filename: fw_lmi_miui_LMI_21.3.3_a354e821fd_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.3
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-05.02.2021/fw_lmi_miui_LMI_21.2.4_db5889cf65_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.4/lmi/fw_lmi_miui_LMI_21.2.4_db5889cf65_11.0.zip
-  filename: fw_lmi_miui_LMI_21.2.4_db5889cf65_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.2.4
-- branch: weekly
-  date: '2021-12-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-04.12.2021/fw_lmi_miui_LMI_21.11.30_56722ba572_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.30/lmi/fw_lmi_miui_LMI_21.11.30_56722ba572_12.0.zip
-  filename: fw_lmi_miui_LMI_21.11.30_56722ba572_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 21.11.30
-- branch: weekly
-  date: '2020-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-03.12.2020/fw_lmi_miui_LMI_20.12.2_69ed4e322e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/lmi/fw_lmi_miui_LMI_20.12.2_69ed4e322e_11.0.zip
-  filename: fw_lmi_miui_LMI_20.12.2_69ed4e322e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.12.2
-- branch: weekly
-  date: '2021-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-03.09.2021/fw_lmi_miui_LMI_21.9.1_eaa3f68253_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.1/lmi/fw_lmi_miui_LMI_21.9.1_eaa3f68253_11.0.zip
-  filename: fw_lmi_miui_LMI_21.9.1_eaa3f68253_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.1
-- branch: weekly
-  date: '2021-06-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-03.06.2021/fw_lmi_miui_LMI_21.6.2_4943aa0e6d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/lmi/fw_lmi_miui_LMI_21.6.2_4943aa0e6d_11.0.zip
-  filename: fw_lmi_miui_LMI_21.6.2_4943aa0e6d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.2
-- branch: weekly
-  date: '2021-10-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-02.10.2021/fw_lmi_miui_LMI_21.9.28_579f85c2c9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.28/lmi/fw_lmi_miui_LMI_21.9.28_579f85c2c9_11.0.zip
-  filename: fw_lmi_miui_LMI_21.9.28_579f85c2c9_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.28
-- branch: weekly
-  date: '2021-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-02.07.2021/fw_lmi_miui_LMI_21.6.30_04fbfae4cc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/lmi/fw_lmi_miui_LMI_21.6.30_04fbfae4cc_11.0.zip
-  filename: fw_lmi_miui_LMI_21.6.30_04fbfae4cc_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.30
-- branch: weekly
-  date: '2020-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-02.07.2020/fw_lmi_miui_LMI_20.7.2_4499817f95_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.2/lmi/fw_lmi_miui_LMI_20.7.2_4499817f95_10.0.zip
-  filename: fw_lmi_miui_LMI_20.7.2_4499817f95_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.2
-- branch: weekly
-  date: '2020-05-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-01.05.2020/fw_lmi_miui_LMI_20.4.30_d50652e880_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/lmi/fw_lmi_miui_LMI_20.4.30_d50652e880_10.0.zip
-  filename: fw_lmi_miui_LMI_20.4.30_d50652e880_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.4.30
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-01.04.2021/fw_lmi_miui_LMI_21.3.31_6d6a47ee79_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/lmi/fw_lmi_miui_LMI_21.3.31_6d6a47ee79_11.0.zip
-  filename: fw_lmi_miui_LMI_21.3.31_6d6a47ee79_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.31
-- branch: stable
-  date: '2020-12-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-31.12.2020/fw_lmi_miui_LMI_V12.2.2.0.RJKCNXM_2350e4e7f3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.2.2.0.RJKCNXM_2350e4e7f3_11.0.zip
-  filename: fw_lmi_miui_LMI_V12.2.2.0.RJKCNXM_2350e4e7f3_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.2.2.0.RJKCNXM
-- branch: stable
-  date: '2020-07-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-31.07.2020/fw_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
-  filename: fw_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.5.0.QJKCNXM
-- branch: stable
-  date: '2020-03-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-30.03.2020/fw_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
-  filename: fw_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.12.0.QJKCNXM
-- branch: stable
-  date: '2020-09-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-29.09.2020/fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V12.0.4.0.QJKMIXM
-- branch: stable
-  date: '2021-11-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-28.11.2021/fw_lmi_miui_LMIGlobal_V12.5.5.0.RJKMIXM_fdc651dd7f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.5.5.0.RJKMIXM_fdc651dd7f_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.5.5.0.RJKMIXM_fdc651dd7f_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RJKMIXM
-- branch: stable
-  date: '2020-05-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-28.05.2020/fw_lmi_miui_LMIGlobal_V11.0.2.0.QJKMIXM_11263d45f3_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMIGlobal_V11.0.2.0.QJKMIXM_11263d45f3_10.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V11.0.2.0.QJKMIXM_11263d45f3_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.2.0.QJKMIXM
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-28.01.2021/fw_lmi_miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip
-  filename: fw_lmi_miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.2.3.0.RJKCNXM
-- branch: stable
-  date: '2020-11-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-27.11.2020/fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.2.1.0.RJKMIXM
-- branch: stable
-  date: '2021-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-26.11.2021/fw_lmi_miui_LMIEEAGlobal_V12.5.4.0.RJKEUXM_9e4ff6f198_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.5.4.0.RJKEUXM_9e4ff6f198_11.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.5.4.0.RJKEUXM_9e4ff6f198_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.4.0.RJKEUXM
-- branch: stable
-  date: '2020-04-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-26.04.2020/fw_lmi_miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip
-  filename: fw_lmi_miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.16.0.QJKCNXM
-- branch: stable
-  date: '2020-07-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-24.07.2020/fw_lmi_miui_LMIGlobal_V12.0.1.0.QJKMIXM_e14d3cd304_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.0.1.0.QJKMIXM_e14d3cd304_10.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.0.1.0.QJKMIXM_e14d3cd304_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V12.0.1.0.QJKMIXM
 - branch: stable
   date: '2022-02-23'
   downloads:
@@ -778,36 +28,136 @@
   versions:
     android: '11.0'
     miui: V12.5.6.0.RJKMIXM
-- branch: stable
-  date: '2020-05-21'
+- branch: weekly
+  date: '2022-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-21.05.2020/fw_lmi_miui_LMI_V11.0.19.0.QJKCNXM_4e635f6c25_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.19.0.QJKCNXM_4e635f6c25_10.0.zip
-  filename: fw_lmi_miui_LMI_V11.0.19.0.QJKCNXM_4e635f6c25_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-18.02.2022/fw_lmi_miui_LMIPRE_22.2.16_731c93b508_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.16/lmi/fw_lmi_miui_LMIPRE_22.2.16_731c93b508_12.0.zip
+  filename: fw_lmi_miui_LMIPRE_22.2.16_731c93b508_12.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V11.0.19.0.QJKCNXM
-- branch: stable
-  date: '2020-11-20'
+    android: '12.0'
+    miui: 22.2.16
+- branch: weekly
+  date: '2022-02-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-20.11.2020/fw_lmi_miui_LMI_V12.2.1.0.RJKCNXM_d02f925688_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.2.1.0.RJKCNXM_d02f925688_11.0.zip
-  filename: fw_lmi_miui_LMI_V12.2.1.0.RJKCNXM_d02f925688_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-13.02.2022/fw_lmi_miui_LMIPRE_22.2.9_6e708a3e91_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/lmi/fw_lmi_miui_LMIPRE_22.2.9_6e708a3e91_12.0.zip
+  filename: fw_lmi_miui_LMIPRE_22.2.9_6e708a3e91_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.9
+- branch: weekly
+  date: '2022-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-21.01.2022/fw_lmi_miui_LMIPRE_22.1.19_2feac056f9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/lmi/fw_lmi_miui_LMIPRE_22.1.19_2feac056f9_12.0.zip
+  filename: fw_lmi_miui_LMIPRE_22.1.19_2feac056f9_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.1.19
+- branch: stable
+  date: '2022-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-14.01.2022/fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
+  filename: fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.0.1.1.DEV
+- branch: weekly
+  date: '2021-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-04.12.2021/fw_lmi_miui_LMI_21.11.30_56722ba572_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.30/lmi/fw_lmi_miui_LMI_21.11.30_56722ba572_12.0.zip
+  filename: fw_lmi_miui_LMI_21.11.30_56722ba572_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.11.30
+- branch: stable
+  date: '2021-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-28.11.2021/fw_lmi_miui_LMIGlobal_V12.5.5.0.RJKMIXM_fdc651dd7f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.5.5.0.RJKMIXM_fdc651dd7f_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.5.5.0.RJKMIXM_fdc651dd7f_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJKMIXM
+- branch: stable
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-26.11.2021/fw_lmi_miui_LMIEEAGlobal_V12.5.4.0.RJKEUXM_9e4ff6f198_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.5.4.0.RJKEUXM_9e4ff6f198_11.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.5.4.0.RJKEUXM_9e4ff6f198_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJKEUXM
+- branch: stable
+  date: '2021-11-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-08.11.2021/fw_lmi_miui_LMI_V12.5.7.0.RJKCNXM_c51a5fd19f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.5.7.0.RJKCNXM_c51a5fd19f_11.0.zip
+  filename: fw_lmi_miui_LMI_V12.5.7.0.RJKCNXM_c51a5fd19f_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.2.1.0.RJKCNXM
-- branch: stable
-  date: '2020-08-20'
+    miui: V12.5.7.0.RJKCNXM
+- branch: weekly
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-20.08.2020/fw_lmi_miui_LMIGlobal_V12.0.3.0.QJKMIXM_a4c5b43d82_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.0.3.0.QJKMIXM_a4c5b43d82_10.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.0.3.0.QJKMIXM_a4c5b43d82_10.0.zip
-  region: Global
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-05.11.2021/fw_lmi_miui_LMI_21.11.3_d6464f494e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.3/lmi/fw_lmi_miui_LMI_21.11.3_d6464f494e_11.0.zip
+  filename: fw_lmi_miui_LMI_21.11.3_d6464f494e_11.0.zip
+  region: China
   versions:
-    android: '10.0'
-    miui: V12.0.3.0.QJKMIXM
+    android: '11.0'
+    miui: 21.11.3
+- branch: weekly
+  date: '2021-10-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-30.10.2021/fw_lmi_miui_LMI_21.10.28_5191afcb0e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.28/lmi/fw_lmi_miui_LMI_21.10.28_5191afcb0e_11.0.zip
+  filename: fw_lmi_miui_LMI_21.10.28_5191afcb0e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.10.28
+- branch: weekly
+  date: '2021-10-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-16.10.2021/fw_lmi_miui_LMI_21.10.13_dd310c7915_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.13/lmi/fw_lmi_miui_LMI_21.10.13_dd310c7915_11.0.zip
+  filename: fw_lmi_miui_LMI_21.10.13_dd310c7915_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.10.13
+- branch: weekly
+  date: '2021-10-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-02.10.2021/fw_lmi_miui_LMI_21.9.28_579f85c2c9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.28/lmi/fw_lmi_miui_LMI_21.9.28_579f85c2c9_11.0.zip
+  filename: fw_lmi_miui_LMI_21.9.28_579f85c2c9_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.28
+- branch: weekly
+  date: '2021-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-24.09.2021/fw_lmi_miui_LMI_21.9.22_e29a6aa006_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.22/lmi/fw_lmi_miui_LMI_21.9.22_e29a6aa006_11.0.zip
+  filename: fw_lmi_miui_LMI_21.9.22_e29a6aa006_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.22
 - branch: stable
   date: '2021-09-19'
   downloads:
@@ -818,26 +168,56 @@
   versions:
     android: '11.0'
     miui: V12.5.3.0.RJKMIXM
-- branch: stable
-  date: '2021-06-18'
+- branch: weekly
+  date: '2021-09-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-19.06.2021/fw_lmi_miui_LMIEEAGlobal_V12.5.1.0.RJKEUXM_29cdcfbe59_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.5.1.0.RJKEUXM_29cdcfbe59_11.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.5.1.0.RJKEUXM_29cdcfbe59_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.1.0.RJKEUXM
-- branch: stable
-  date: '2020-06-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-19.06.2020/fw_lmi_miui_LMI_V12.0.1.0.QJKCNXM_22ccf83939_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.0.1.0.QJKCNXM_22ccf83939_10.0.zip
-  filename: fw_lmi_miui_LMI_V12.0.1.0.QJKCNXM_22ccf83939_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-16.09.2021/fw_lmi_miui_LMI_21.9.15_ac0fff5928_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.15/lmi/fw_lmi_miui_LMI_21.9.15_ac0fff5928_11.0.zip
+  filename: fw_lmi_miui_LMI_21.9.15_ac0fff5928_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V12.0.1.0.QJKCNXM
+    android: '11.0'
+    miui: 21.9.15
+- branch: stable
+  date: '2021-09-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-10.09.2021/fw_lmi_miui_LMI_V12.5.5.0.RJKCNXM_6b76908429_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.5.5.0.RJKCNXM_6b76908429_11.0.zip
+  filename: fw_lmi_miui_LMI_V12.5.5.0.RJKCNXM_6b76908429_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJKCNXM
+- branch: weekly
+  date: '2021-09-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-09.09.2021/fw_lmi_miui_LMI_21.9.8_a2101b7094_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.8/lmi/fw_lmi_miui_LMI_21.9.8_a2101b7094_11.0.zip
+  filename: fw_lmi_miui_LMI_21.9.8_a2101b7094_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.8
+- branch: weekly
+  date: '2021-09-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-03.09.2021/fw_lmi_miui_LMI_21.9.1_eaa3f68253_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.1/lmi/fw_lmi_miui_LMI_21.9.1_eaa3f68253_11.0.zip
+  filename: fw_lmi_miui_LMI_21.9.1_eaa3f68253_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.1
+- branch: weekly
+  date: '2021-08-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-27.08.2021/fw_lmi_miui_LMI_21.8.25_1e474e1bca_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.25/lmi/fw_lmi_miui_LMI_21.8.25_1e474e1bca_11.0.zip
+  filename: fw_lmi_miui_LMI_21.8.25_1e474e1bca_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.25
 - branch: stable
   date: '2021-08-18'
   downloads:
@@ -849,16 +229,6 @@
     android: '11.0'
     miui: V12.5.4.0.RJKCNXM
 - branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-18.03.2021/fw_lmi_miui_LMIEEAGlobal_V12.2.5.0.RJKEUXM_f488e8493c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.5.0.RJKEUXM_f488e8493c_11.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.5.0.RJKEUXM_f488e8493c_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.2.5.0.RJKEUXM
-- branch: stable
   date: '2021-08-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-17.08.2021/fw_lmi_miui_LMIEEAGlobal_V12.5.2.0.RJKEUXM_45977d4061_11.0.zip
@@ -869,6 +239,566 @@
     android: '11.0'
     miui: V12.5.2.0.RJKEUXM
 - branch: stable
+  date: '2021-08-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-06.08.2021/fw_lmi_miui_LMIGlobal_V12.5.2.0.RJKMIXM_1941117584_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.5.2.0.RJKMIXM_1941117584_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.5.2.0.RJKMIXM_1941117584_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RJKMIXM
+- branch: weekly
+  date: '2021-08-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-05.08.2021/fw_lmi_miui_LMI_21.8.4_bf2c77856a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.4/lmi/fw_lmi_miui_LMI_21.8.4_bf2c77856a_11.0.zip
+  filename: fw_lmi_miui_LMI_21.8.4_bf2c77856a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.4
+- branch: weekly
+  date: '2021-07-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-29.07.2021/fw_lmi_miui_LMI_21.7.28_f33e2c8354_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.28/lmi/fw_lmi_miui_LMI_21.7.28_f33e2c8354_11.0.zip
+  filename: fw_lmi_miui_LMI_21.7.28_f33e2c8354_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.28
+- branch: weekly
+  date: '2021-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-22.07.2021/fw_lmi_miui_LMI_21.7.21_f248b7bd5d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/lmi/fw_lmi_miui_LMI_21.7.21_f248b7bd5d_11.0.zip
+  filename: fw_lmi_miui_LMI_21.7.21_f248b7bd5d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.21
+- branch: weekly
+  date: '2021-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-15.07.2021/fw_lmi_miui_LMI_21.7.14_542cb98682_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/lmi/fw_lmi_miui_LMI_21.7.14_542cb98682_11.0.zip
+  filename: fw_lmi_miui_LMI_21.7.14_542cb98682_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.14
+- branch: stable
+  date: '2021-07-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-06.07.2021/fw_lmi_miui_LMIGlobal_V12.5.1.0.RJKMIXM_00d73fe8e2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.5.1.0.RJKMIXM_00d73fe8e2_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.5.1.0.RJKMIXM_00d73fe8e2_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJKMIXM
+- branch: weekly
+  date: '2021-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-02.07.2021/fw_lmi_miui_LMI_21.6.30_04fbfae4cc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/lmi/fw_lmi_miui_LMI_21.6.30_04fbfae4cc_11.0.zip
+  filename: fw_lmi_miui_LMI_21.6.30_04fbfae4cc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.30
+- branch: weekly
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-24.06.2021/fw_lmi_miui_LMI_21.6.23_c35d67a8d7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/lmi/fw_lmi_miui_LMI_21.6.23_c35d67a8d7_11.0.zip
+  filename: fw_lmi_miui_LMI_21.6.23_c35d67a8d7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.23
+- branch: stable
+  date: '2021-06-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-19.06.2021/fw_lmi_miui_LMIEEAGlobal_V12.5.1.0.RJKEUXM_29cdcfbe59_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.5.1.0.RJKEUXM_29cdcfbe59_11.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.5.1.0.RJKEUXM_29cdcfbe59_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RJKEUXM
+- branch: weekly
+  date: '2021-06-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-18.06.2021/fw_lmi_miui_LMI_21.6.17_18d9300d51_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.17/lmi/fw_lmi_miui_LMI_21.6.17_18d9300d51_11.0.zip
+  filename: fw_lmi_miui_LMI_21.6.17_18d9300d51_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.17
+- branch: weekly
+  date: '2021-06-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-10.06.2021/fw_lmi_miui_LMI_21.6.9_213cade1fb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.9/lmi/fw_lmi_miui_LMI_21.6.9_213cade1fb_11.0.zip
+  filename: fw_lmi_miui_LMI_21.6.9_213cade1fb_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.9
+- branch: weekly
+  date: '2021-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-03.06.2021/fw_lmi_miui_LMI_21.6.2_4943aa0e6d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/lmi/fw_lmi_miui_LMI_21.6.2_4943aa0e6d_11.0.zip
+  filename: fw_lmi_miui_LMI_21.6.2_4943aa0e6d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.2
+- branch: weekly
+  date: '2021-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-27.05.2021/fw_lmi_miui_LMI_21.5.26_91368e2881_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.26/lmi/fw_lmi_miui_LMI_21.5.26_91368e2881_11.0.zip
+  filename: fw_lmi_miui_LMI_21.5.26_91368e2881_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.26
+- branch: weekly
+  date: '2021-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-20.05.2021/fw_lmi_miui_LMI_21.5.20_90c307b74a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.20/lmi/fw_lmi_miui_LMI_21.5.20_90c307b74a_11.0.zip
+  filename: fw_lmi_miui_LMI_21.5.20_90c307b74a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.20
+- branch: weekly
+  date: '2021-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-14.05.2021/fw_lmi_miui_LMI_21.5.12_b0d58e4bba_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.12/lmi/fw_lmi_miui_LMI_21.5.12_b0d58e4bba_11.0.zip
+  filename: fw_lmi_miui_LMI_21.5.12_b0d58e4bba_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.12
+- branch: stable
+  date: '2021-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-11.05.2021/fw_lmi_miui_LMI_V12.5.2.0.RJKCNXM_7629c40523_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.5.2.0.RJKCNXM_7629c40523_11.0.zip
+  filename: fw_lmi_miui_LMI_V12.5.2.0.RJKCNXM_7629c40523_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RJKCNXM
+- branch: weekly
+  date: '2021-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-29.04.2021/fw_lmi_miui_LMI_21.4.28_3053f0d2c3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.28/lmi/fw_lmi_miui_LMI_21.4.28_3053f0d2c3_11.0.zip
+  filename: fw_lmi_miui_LMI_21.4.28_3053f0d2c3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.28
+- branch: weekly
+  date: '2021-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-22.04.2021/fw_lmi_miui_LMI_21.4.21_742b2e9fc8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/lmi/fw_lmi_miui_LMI_21.4.21_742b2e9fc8_11.0.zip
+  filename: fw_lmi_miui_LMI_21.4.21_742b2e9fc8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.21
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-16.04.2021/fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/lmi/fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
+  filename: fw_lmi_miui_LMI_21.4.14_beb226bc6e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.14
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-12.04.2021/fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.2.6.0.RJKMIXM
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-08.04.2021/fw_lmi_miui_LMI_21.4.8_d161c583bd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.8/lmi/fw_lmi_miui_LMI_21.4.8_d161c583bd_11.0.zip
+  filename: fw_lmi_miui_LMI_21.4.8_d161c583bd_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.8
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-01.04.2021/fw_lmi_miui_LMI_21.3.31_6d6a47ee79_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/lmi/fw_lmi_miui_LMI_21.3.31_6d6a47ee79_11.0.zip
+  filename: fw_lmi_miui_LMI_21.3.31_6d6a47ee79_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.31
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-27.03.2021/fw_lmi_miui_LMI_21.3.25_f183397abc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.25/lmi/fw_lmi_miui_LMI_21.3.25_f183397abc_11.0.zip
+  filename: fw_lmi_miui_LMI_21.3.25_f183397abc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.25
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-18.03.2021/fw_lmi_miui_LMI_21.3.17_68996d1dba_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.17/lmi/fw_lmi_miui_LMI_21.3.17_68996d1dba_11.0.zip
+  filename: fw_lmi_miui_LMI_21.3.17_68996d1dba_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.17
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-18.03.2021/fw_lmi_miui_LMIEEAGlobal_V12.2.5.0.RJKEUXM_f488e8493c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.5.0.RJKEUXM_f488e8493c_11.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.5.0.RJKEUXM_f488e8493c_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.2.5.0.RJKEUXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-12.03.2021/fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.2.5.0.RJKMIXM
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-12.03.2021/fw_lmi_miui_LMI_21.3.10_15e6a6c026_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/lmi/fw_lmi_miui_LMI_21.3.10_15e6a6c026_11.0.zip
+  filename: fw_lmi_miui_LMI_21.3.10_15e6a6c026_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.10
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-05.03.2021/fw_lmi_miui_LMI_21.3.3_a354e821fd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/lmi/fw_lmi_miui_LMI_21.3.3_a354e821fd_11.0.zip
+  filename: fw_lmi_miui_LMI_21.3.3_a354e821fd_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.3
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-26.02.2021/fw_lmi_miui_LMI_21.2.24_a1f1e05034_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/lmi/fw_lmi_miui_LMI_21.2.24_a1f1e05034_11.0.zip
+  filename: fw_lmi_miui_LMI_21.2.24_a1f1e05034_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.24
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-05.02.2021/fw_lmi_miui_LMI_21.2.4_db5889cf65_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.4/lmi/fw_lmi_miui_LMI_21.2.4_db5889cf65_11.0.zip
+  filename: fw_lmi_miui_LMI_21.2.4_db5889cf65_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.4
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-29.01.2021/fw_lmi_miui_LMI_21.1.28_613d4e4cec_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/lmi/fw_lmi_miui_LMI_21.1.28_613d4e4cec_11.0.zip
+  filename: fw_lmi_miui_LMI_21.1.28_613d4e4cec_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.28
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-28.01.2021/fw_lmi_miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip
+  filename: fw_lmi_miui_LMI_V12.2.3.0.RJKCNXM_fae44ed63f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.2.3.0.RJKCNXM
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-23.01.2021/fw_lmi_miui_LMI_21.1.20_fcb83d6714_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/lmi/fw_lmi_miui_LMI_21.1.20_fcb83d6714_11.0.zip
+  filename: fw_lmi_miui_LMI_21.1.20_fcb83d6714_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.20
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-15.01.2021/fw_lmi_miui_LMI_21.1.13_588b865b94_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/lmi/fw_lmi_miui_LMI_21.1.13_588b865b94_11.0.zip
+  filename: fw_lmi_miui_LMI_21.1.13_588b865b94_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.13
+- branch: stable
+  date: '2021-01-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-09.01.2021/fw_lmi_miui_LMIEEAGlobal_V12.2.4.0.RJKEUXM_639c92d613_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.4.0.RJKEUXM_639c92d613_11.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.4.0.RJKEUXM_639c92d613_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.2.4.0.RJKEUXM
+- branch: weekly
+  date: '2021-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-08.01.2021/fw_lmi_miui_LMI_21.1.6_3ad9b2f82d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/lmi/fw_lmi_miui_LMI_21.1.6_3ad9b2f82d_11.0.zip
+  filename: fw_lmi_miui_LMI_21.1.6_3ad9b2f82d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.6
+- branch: stable
+  date: '2021-01-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-05.01.2021/fw_lmi_miui_LMIGlobal_V12.2.4.0.RJKMIXM_682e9ad14f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.4.0.RJKMIXM_682e9ad14f_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.2.4.0.RJKMIXM_682e9ad14f_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.2.4.0.RJKMIXM
+- branch: weekly
+  date: '2020-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-31.12.2020/fw_lmi_miui_LMI_20.12.29_b9f48f85b9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.29/lmi/fw_lmi_miui_LMI_20.12.29_b9f48f85b9_11.0.zip
+  filename: fw_lmi_miui_LMI_20.12.29_b9f48f85b9_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.12.29
+- branch: stable
+  date: '2020-12-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-31.12.2020/fw_lmi_miui_LMI_V12.2.2.0.RJKCNXM_2350e4e7f3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.2.2.0.RJKCNXM_2350e4e7f3_11.0.zip
+  filename: fw_lmi_miui_LMI_V12.2.2.0.RJKCNXM_2350e4e7f3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.2.2.0.RJKCNXM
+- branch: weekly
+  date: '2020-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-10.12.2020/fw_lmi_miui_LMI_20.12.10_b20967ce50_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.10/lmi/fw_lmi_miui_LMI_20.12.10_b20967ce50_11.0.zip
+  filename: fw_lmi_miui_LMI_20.12.10_b20967ce50_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.12.10
+- branch: stable
+  date: '2020-12-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-07.12.2020/fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.2.1.0.RJKEUXM
+- branch: weekly
+  date: '2020-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-03.12.2020/fw_lmi_miui_LMI_20.12.2_69ed4e322e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/lmi/fw_lmi_miui_LMI_20.12.2_69ed4e322e_11.0.zip
+  filename: fw_lmi_miui_LMI_20.12.2_69ed4e322e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.12.2
+- branch: stable
+  date: '2020-11-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-27.11.2020/fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.2.1.0.RJKMIXM_35857b638b_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.2.1.0.RJKMIXM
+- branch: weekly
+  date: '2020-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-26.11.2020/fw_lmi_miui_LMI_20.11.25_6b2c698031_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/lmi/fw_lmi_miui_LMI_20.11.25_6b2c698031_11.0.zip
+  filename: fw_lmi_miui_LMI_20.11.25_6b2c698031_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.25
+- branch: stable
+  date: '2020-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-20.11.2020/fw_lmi_miui_LMI_V12.2.1.0.RJKCNXM_d02f925688_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.2.1.0.RJKCNXM_d02f925688_11.0.zip
+  filename: fw_lmi_miui_LMI_V12.2.1.0.RJKCNXM_d02f925688_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.2.1.0.RJKCNXM
+- branch: weekly
+  date: '2020-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-19.11.2020/fw_lmi_miui_LMI_20.11.18_6f5a4463cd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/lmi/fw_lmi_miui_LMI_20.11.18_6f5a4463cd_11.0.zip
+  filename: fw_lmi_miui_LMI_20.11.18_6f5a4463cd_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.18
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-12.11.2020/fw_lmi_miui_LMI_20.11.12_5fa06dd7fc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/lmi/fw_lmi_miui_LMI_20.11.12_5fa06dd7fc_11.0.zip
+  filename: fw_lmi_miui_LMI_20.11.12_5fa06dd7fc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
+- branch: weekly
+  date: '2020-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-06.11.2020/fw_lmi_miui_LMI_20.11.5_73f2b5952d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/lmi/fw_lmi_miui_LMI_20.11.5_73f2b5952d_11.0.zip
+  filename: fw_lmi_miui_LMI_20.11.5_73f2b5952d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.5
+- branch: weekly
+  date: '2020-10-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-31.10.2020/fw_lmi_miui_LMI_20.10.30_b56e2ffe92_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.30/lmi/fw_lmi_miui_LMI_20.10.30_b56e2ffe92_11.0.zip
+  filename: fw_lmi_miui_LMI_20.10.30_b56e2ffe92_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.10.30
+- branch: weekly
+  date: '2020-10-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-23.10.2020/fw_lmi_miui_LMI_20.10.22_af8ae0219c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/lmi/fw_lmi_miui_LMI_20.10.22_af8ae0219c_11.0.zip
+  filename: fw_lmi_miui_LMI_20.10.22_af8ae0219c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.10.22
+- branch: weekly
+  date: '2020-10-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-15.10.2020/fw_lmi_miui_LMI_20.10.15_71bebd37ba_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/lmi/fw_lmi_miui_LMI_20.10.15_71bebd37ba_11.0.zip
+  filename: fw_lmi_miui_LMI_20.10.15_71bebd37ba_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.10.15
+- branch: stable
+  date: '2020-10-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-09.10.2020/fw_lmi_miui_LMIEEAGlobal_V12.0.3.0.QJKEUXM_a9ead2b623_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.0.3.0.QJKEUXM_a9ead2b623_10.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.0.3.0.QJKEUXM_a9ead2b623_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJKEUXM
+- branch: stable
+  date: '2020-10-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-01.10.2020/fw_lmi_miui_LMI_V12.1.3.0.RJKCNXM_8e7f89c77a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.1.3.0.RJKCNXM_8e7f89c77a_11.0.zip
+  filename: fw_lmi_miui_LMI_V12.1.3.0.RJKCNXM_8e7f89c77a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.1.3.0.RJKCNXM
+- branch: stable
+  date: '2020-09-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-29.09.2020/fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.0.4.0.QJKMIXM_72b1da9230_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QJKMIXM
+- branch: weekly
+  date: '2020-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-24.09.2020/fw_lmi_miui_LMI_20.9.24_95c6dcc674_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/lmi/fw_lmi_miui_LMI_20.9.24_95c6dcc674_11.0.zip
+  filename: fw_lmi_miui_LMI_20.9.24_95c6dcc674_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.9.24
+- branch: weekly
+  date: '2020-09-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-17.09.2020/fw_lmi_miui_LMI_20.9.17_dcdf00020e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/lmi/fw_lmi_miui_LMI_20.9.17_dcdf00020e_11.0.zip
+  filename: fw_lmi_miui_LMI_20.9.17_dcdf00020e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.9.17
+- branch: stable
   date: '2020-09-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-14.09.2020/fw_lmi_miui_LMI_V12.0.9.0.QJKCNXM_c7272d59e5_10.0.zip
@@ -878,6 +808,96 @@
   versions:
     android: '10.0'
     miui: V12.0.9.0.QJKCNXM
+- branch: weekly
+  date: '2020-09-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-05.09.2020/fw_lmi_miui_LMI_20.9.3_01bb617599_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.3/lmi/fw_lmi_miui_LMI_20.9.3_01bb617599_11.0.zip
+  filename: fw_lmi_miui_LMI_20.9.3_01bb617599_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.9.3
+- branch: weekly
+  date: '2020-08-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-21.08.2020/fw_lmi_miui_LMI_20.8.20_138458d1c7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.20/lmi/fw_lmi_miui_LMI_20.8.20_138458d1c7_11.0.zip
+  filename: fw_lmi_miui_LMI_20.8.20_138458d1c7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.8.20
+- branch: stable
+  date: '2020-08-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-20.08.2020/fw_lmi_miui_LMIGlobal_V12.0.3.0.QJKMIXM_a4c5b43d82_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.0.3.0.QJKMIXM_a4c5b43d82_10.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.0.3.0.QJKMIXM_a4c5b43d82_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJKMIXM
+- branch: weekly
+  date: '2020-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-13.08.2020/fw_lmi_miui_LMI_20.8.13_b1682eb31f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.13/lmi/fw_lmi_miui_LMI_20.8.13_b1682eb31f_11.0.zip
+  filename: fw_lmi_miui_LMI_20.8.13_b1682eb31f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.8.13
+- branch: stable
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-06.08.2020/fw_lmi_miui_LMIEEAGlobal_V12.0.2.0.QJKEUXM_0b1adc6767_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.0.2.0.QJKEUXM_0b1adc6767_10.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V12.0.2.0.QJKEUXM_0b1adc6767_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QJKEUXM
+- branch: weekly
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-06.08.2020/fw_lmi_miui_LMI_20.8.6_128cd6e279_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.6/lmi/fw_lmi_miui_LMI_20.8.6_128cd6e279_11.0.zip
+  filename: fw_lmi_miui_LMI_20.8.6_128cd6e279_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.8.6
+- branch: stable
+  date: '2020-07-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-31.07.2020/fw_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
+  filename: fw_lmi_miui_LMI_V12.0.5.0.QJKCNXM_c527b444d1_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QJKCNXM
+- branch: weekly
+  date: '2020-07-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-30.07.2020/fw_lmi_miui_LMI_20.7.30_2de74df6ca_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/lmi/fw_lmi_miui_LMI_20.7.30_2de74df6ca_11.0.zip
+  filename: fw_lmi_miui_LMI_20.7.30_2de74df6ca_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.7.30
+- branch: stable
+  date: '2020-07-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-24.07.2020/fw_lmi_miui_LMIGlobal_V12.0.1.0.QJKMIXM_e14d3cd304_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.0.1.0.QJKMIXM_e14d3cd304_10.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V12.0.1.0.QJKMIXM_e14d3cd304_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJKMIXM
 - branch: stable
   date: '2020-07-14'
   downloads:
@@ -898,16 +918,76 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QJKCNXM
-- branch: stable
-  date: '2022-01-14'
+- branch: weekly
+  date: '2020-07-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-14.01.2022/fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
-  filename: fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-09.07.2020/fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/lmi/fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
+  filename: fw_lmi_miui_LMI_20.7.9_f99f433bb7_10.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.0.1.1.DEV
+    android: '10.0'
+    miui: 20.7.9
+- branch: weekly
+  date: '2020-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-02.07.2020/fw_lmi_miui_LMI_20.7.2_4499817f95_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.2/lmi/fw_lmi_miui_LMI_20.7.2_4499817f95_10.0.zip
+  filename: fw_lmi_miui_LMI_20.7.2_4499817f95_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.2
+- branch: stable
+  date: '2020-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-19.06.2020/fw_lmi_miui_LMI_V12.0.1.0.QJKCNXM_22ccf83939_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.0.1.0.QJKCNXM_22ccf83939_10.0.zip
+  filename: fw_lmi_miui_LMI_V12.0.1.0.QJKCNXM_22ccf83939_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QJKCNXM
+- branch: stable
+  date: '2020-05-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-28.05.2020/fw_lmi_miui_LMIGlobal_V11.0.2.0.QJKMIXM_11263d45f3_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMIGlobal_V11.0.2.0.QJKMIXM_11263d45f3_10.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V11.0.2.0.QJKMIXM_11263d45f3_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJKMIXM
+- branch: stable
+  date: '2020-05-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-21.05.2020/fw_lmi_miui_LMI_V11.0.19.0.QJKCNXM_4e635f6c25_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.19.0.QJKCNXM_4e635f6c25_10.0.zip
+  filename: fw_lmi_miui_LMI_V11.0.19.0.QJKCNXM_4e635f6c25_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.19.0.QJKCNXM
+- branch: weekly
+  date: '2020-05-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-21.05.2020/fw_lmi_miui_LMI_20.5.21_b64a295251_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/lmi/fw_lmi_miui_LMI_20.5.21_b64a295251_10.0.zip
+  filename: fw_lmi_miui_LMI_20.5.21_b64a295251_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.21
+- branch: weekly
+  date: '2020-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-14.05.2020/fw_lmi_miui_LMI_20.5.14_711d6a471c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.14/lmi/fw_lmi_miui_LMI_20.5.14_711d6a471c_10.0.zip
+  filename: fw_lmi_miui_LMI_20.5.14_711d6a471c_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.14
 - branch: stable
   date: '2020-05-12'
   downloads:
@@ -918,76 +998,46 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJKEUXM
-- branch: stable
-  date: '2021-04-18'
+- branch: weekly
+  date: '2020-05-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-12.04.2021/fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.2.6.0.RJKMIXM_adf30da33a_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.2.6.0.RJKMIXM
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-12.03.2021/fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.2.5.0.RJKMIXM_b7b4d5d630_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.2.5.0.RJKMIXM
-- branch: stable
-  date: '2021-05-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-11.05.2021/fw_lmi_miui_LMI_V12.5.2.0.RJKCNXM_7629c40523_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.5.2.0.RJKCNXM_7629c40523_11.0.zip
-  filename: fw_lmi_miui_LMI_V12.5.2.0.RJKCNXM_7629c40523_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-08.05.2020/fw_lmi_miui_LMI_20.5.7_b9f4ded3cd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/lmi/fw_lmi_miui_LMI_20.5.7_b9f4ded3cd_10.0.zip
+  filename: fw_lmi_miui_LMI_20.5.7_b9f4ded3cd_10.0.zip
   region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RJKCNXM
-- branch: stable
-  date: '2021-09-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-10.09.2021/fw_lmi_miui_LMI_V12.5.5.0.RJKCNXM_6b76908429_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.5.5.0.RJKCNXM_6b76908429_11.0.zip
-  filename: fw_lmi_miui_LMI_V12.5.5.0.RJKCNXM_6b76908429_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RJKCNXM
-- branch: stable
-  date: '2020-10-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-09.10.2020/fw_lmi_miui_LMIEEAGlobal_V12.0.3.0.QJKEUXM_a9ead2b623_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.0.3.0.QJKEUXM_a9ead2b623_10.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.0.3.0.QJKEUXM_a9ead2b623_10.0.zip
-  region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.3.0.QJKEUXM
-- branch: stable
-  date: '2021-01-09'
+    miui: 20.5.7
+- branch: weekly
+  date: '2020-05-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-09.01.2021/fw_lmi_miui_LMIEEAGlobal_V12.2.4.0.RJKEUXM_639c92d613_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.4.0.RJKEUXM_639c92d613_11.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.4.0.RJKEUXM_639c92d613_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.2.4.0.RJKEUXM
-- branch: stable
-  date: '2021-11-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-08.11.2021/fw_lmi_miui_LMI_V12.5.7.0.RJKCNXM_c51a5fd19f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.5.7.0.RJKCNXM_c51a5fd19f_11.0.zip
-  filename: fw_lmi_miui_LMI_V12.5.7.0.RJKCNXM_c51a5fd19f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-01.05.2020/fw_lmi_miui_LMI_20.4.30_d50652e880_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.30/lmi/fw_lmi_miui_LMI_20.4.30_d50652e880_10.0.zip
+  filename: fw_lmi_miui_LMI_20.4.30_d50652e880_10.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.7.0.RJKCNXM
+    android: '10.0'
+    miui: 20.4.30
+- branch: weekly
+  date: '2020-04-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-27.04.2020/fw_lmi_miui_LMI_20.4.27_361bff838d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.4.27/lmi/fw_lmi_miui_LMI_20.4.27_361bff838d_10.0.zip
+  filename: fw_lmi_miui_LMI_20.4.27_361bff838d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.4.27
+- branch: stable
+  date: '2020-04-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-26.04.2020/fw_lmi_miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip
+  filename: fw_lmi_miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.16.0.QJKCNXM
 - branch: stable
   date: '2020-04-08'
   downloads:
@@ -999,62 +1049,12 @@
     android: '10.0'
     miui: V11.0.14.0.QJKCNXM
 - branch: stable
-  date: '2020-12-07'
+  date: '2020-03-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-07.12.2020/fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.2.1.0.RJKEUXM_3d1050e821_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.2.1.0.RJKEUXM
-- branch: stable
-  date: '2021-08-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-06.08.2021/fw_lmi_miui_LMIGlobal_V12.5.2.0.RJKMIXM_1941117584_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.5.2.0.RJKMIXM_1941117584_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.5.2.0.RJKMIXM_1941117584_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RJKMIXM
-- branch: stable
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-06.08.2020/fw_lmi_miui_LMIEEAGlobal_V12.0.2.0.QJKEUXM_0b1adc6767_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIEEAGlobal_V12.0.2.0.QJKEUXM_0b1adc6767_10.0.zip
-  filename: fw_lmi_miui_LMIEEAGlobal_V12.0.2.0.QJKEUXM_0b1adc6767_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V12.0.2.0.QJKEUXM
-- branch: stable
-  date: '2021-07-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-06.07.2021/fw_lmi_miui_LMIGlobal_V12.5.1.0.RJKMIXM_00d73fe8e2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.5.1.0.RJKMIXM_00d73fe8e2_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.5.1.0.RJKMIXM_00d73fe8e2_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.1.0.RJKMIXM
-- branch: stable
-  date: '2021-01-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-05.01.2021/fw_lmi_miui_LMIGlobal_V12.2.4.0.RJKMIXM_682e9ad14f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.2.4.0.RJKMIXM_682e9ad14f_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.2.4.0.RJKMIXM_682e9ad14f_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.2.4.0.RJKMIXM
-- branch: stable
-  date: '2020-10-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-01.10.2020/fw_lmi_miui_LMI_V12.1.3.0.RJKCNXM_8e7f89c77a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMI_V12.1.3.0.RJKCNXM_8e7f89c77a_11.0.zip
-  filename: fw_lmi_miui_LMI_V12.1.3.0.RJKCNXM_8e7f89c77a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-30.03.2020/fw_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/lmi/fw_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
+  filename: fw_lmi_miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.1.3.0.RJKCNXM
+    android: '10.0'
+    miui: V11.0.12.0.QJKCNXM

@@ -1,3 +1,33 @@
+- branch: stable
+  date: '2022-02-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-16.02.2022/fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.3.0.RKXEUXM
+- branch: stable
+  date: '2022-02-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-07.02.2022/fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
+  filename: fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V13.0.1.0.RKXMIXM
+- branch: stable
+  date: '2022-01-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-24.01.2022/fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
+  filename: fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V13.0.5.0.RKXCNXM
 - branch: weekly
   date: '2021-12-31'
   downloads:
@@ -18,76 +48,6 @@
   versions:
     android: '11.0'
     miui: 21.11.17
-- branch: stable
-  date: '2022-01-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-24.01.2022/fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
-  filename: fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V13.0.5.0.RKXCNXM
-- branch: stable
-  date: '2021-10-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-18.10.2021/fw_nabu_miui_NABUEEAGlobal_V12.5.5.0.RKXEUXM_34f517df77_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABUEEAGlobal_V12.5.5.0.RKXEUXM_34f517df77_11.0.zip
-  filename: fw_nabu_miui_NABUEEAGlobal_V12.5.5.0.RKXEUXM_34f517df77_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RKXEUXM
-- branch: stable
-  date: '2021-10-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-18.10.2021/fw_nabu_miui_NABUGlobal_V12.5.8.0.RKXMIXM_0de4d2941e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABUGlobal_V12.5.8.0.RKXMIXM_0de4d2941e_11.0.zip
-  filename: fw_nabu_miui_NABUGlobal_V12.5.8.0.RKXMIXM_0de4d2941e_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.8.0.RKXMIXM
-- branch: stable
-  date: '2022-02-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-16.02.2022/fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
-  filename: fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V13.0.3.0.RKXEUXM
-- branch: stable
-  date: '2021-10-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-15.10.2021/fw_nabu_miui_NABU_V12.5.10.0.RKXCNXM_3781a9efa2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABU_V12.5.10.0.RKXCNXM_3781a9efa2_11.0.zip
-  filename: fw_nabu_miui_NABU_V12.5.10.0.RKXCNXM_3781a9efa2_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.10.0.RKXCNXM
-- branch: stable
-  date: '2021-10-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-14.10.2021/fw_nabu_miui_NABUEEAGlobal_V12.5.1.0.RKXEUXM_1ea58d057b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABUEEAGlobal_V12.5.1.0.RKXEUXM_1ea58d057b_11.0.zip
-  filename: fw_nabu_miui_NABUEEAGlobal_V12.5.1.0.RKXEUXM_1ea58d057b_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.1.0.RKXEUXM
-- branch: stable
-  date: '2021-08-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-13.08.2021/fw_nabu_miui_NABU_V12.5.7.0.RKXCNXM_92f0617160_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABU_V12.5.7.0.RKXCNXM_92f0617160_11.0.zip
-  filename: fw_nabu_miui_NABU_V12.5.7.0.RKXCNXM_92f0617160_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.7.0.RKXCNXM
 - branch: stable
   date: '2021-11-12'
   downloads:
@@ -119,12 +79,52 @@
     android: '11.0'
     miui: V12.5.13.0.RKXCNXM
 - branch: stable
-  date: '2022-02-07'
+  date: '2021-10-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-07.02.2022/fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
-  filename: fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-18.10.2021/fw_nabu_miui_NABUEEAGlobal_V12.5.5.0.RKXEUXM_34f517df77_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABUEEAGlobal_V12.5.5.0.RKXEUXM_34f517df77_11.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V12.5.5.0.RKXEUXM_34f517df77_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKXEUXM
+- branch: stable
+  date: '2021-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-18.10.2021/fw_nabu_miui_NABUGlobal_V12.5.8.0.RKXMIXM_0de4d2941e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABUGlobal_V12.5.8.0.RKXMIXM_0de4d2941e_11.0.zip
+  filename: fw_nabu_miui_NABUGlobal_V12.5.8.0.RKXMIXM_0de4d2941e_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V13.0.1.0.RKXMIXM
+    miui: V12.5.8.0.RKXMIXM
+- branch: stable
+  date: '2021-10-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-15.10.2021/fw_nabu_miui_NABU_V12.5.10.0.RKXCNXM_3781a9efa2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABU_V12.5.10.0.RKXCNXM_3781a9efa2_11.0.zip
+  filename: fw_nabu_miui_NABU_V12.5.10.0.RKXCNXM_3781a9efa2_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.10.0.RKXCNXM
+- branch: stable
+  date: '2021-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-14.10.2021/fw_nabu_miui_NABUEEAGlobal_V12.5.1.0.RKXEUXM_1ea58d057b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABUEEAGlobal_V12.5.1.0.RKXEUXM_1ea58d057b_11.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V12.5.1.0.RKXEUXM_1ea58d057b_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RKXEUXM
+- branch: stable
+  date: '2021-08-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-13.08.2021/fw_nabu_miui_NABU_V12.5.7.0.RKXCNXM_92f0617160_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/nabu/fw_nabu_miui_NABU_V12.5.7.0.RKXCNXM_92f0617160_11.0.zip
+  filename: fw_nabu_miui_NABU_V12.5.7.0.RKXCNXM_92f0617160_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKXCNXM
