@@ -1998,6 +1998,16 @@
   versions:
     android: '11.0'
     miui: V12.5.8.0.RKOCNXM
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/weekly-25.02.2022/fw_lisa_miui_LISAPRE_22.2.23_bdaf34b09b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/lisa/fw_lisa_miui_LISAPRE_22.2.23_bdaf34b09b_12.0.zip
+  filename: fw_lisa_miui_LISAPRE_22.2.23_bdaf34b09b_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: stable
   date: '2021-09-28'
   downloads:

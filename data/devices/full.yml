@@ -149,6 +149,16 @@
     android: '11.0'
     miui: 21.8.25
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/weekly-25.02.2022/fw_alioth_miui_ALIOTHPRE_22.2.23_a4307bf79f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/alioth/fw_alioth_miui_ALIOTHPRE_22.2.23_a4307bf79f_12.0.zip
+  filename: fw_alioth_miui_ALIOTHPRE_22.2.23_a4307bf79f_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-06-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/weekly-24.06.2021/fw_alioth_miui_ALIOTH_21.6.23_8809d179c1_11.0.zip
@@ -1529,6 +1539,16 @@
     android: '10.0'
     miui: 20.11.25
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/weekly-25.02.2022/fw_apollo_miui_APOLLOPRE_22.2.23_a8f4ae6dad_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/apollo/fw_apollo_miui_APOLLOPRE_22.2.23_a8f4ae6dad_12.0.zip
+  filename: fw_apollo_miui_APOLLOPRE_22.2.23_a8f4ae6dad_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/weekly-25.02.2021/fw_apollo_miui_APOLLO_21.2.24_e7b2d83787_11.0.zip
@@ -2549,6 +2569,16 @@
     android: '11.0'
     miui: 21.8.25
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/weekly-25.02.2022/fw_ares_miui_ARESPRE_22.2.23_fbd63cffbc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/ares/fw_ares_miui_ARESPRE_22.2.23_fbd63cffbc_12.0.zip
+  filename: fw_ares_miui_ARESPRE_22.2.23_fbd63cffbc_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/weekly-24.09.2021/fw_ares_miui_ARES_21.9.22_fdedad7518_11.0.zip
@@ -2998,6 +3028,16 @@
   versions:
     android: '11.0'
     miui: 20.11.25
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-25.02.2022/fw_atom_miui_ATOM_22.2.23_fc95fe07f7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/atom/fw_atom_miui_ATOM_22.2.23_fc95fe07f7_11.0.zip
+  filename: fw_atom_miui_ATOM_22.2.23_fc95fe07f7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -5559,6 +5599,16 @@
     android: '11.0'
     miui: 20.11.25
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-25.02.2022/fw_bomb_miui_BOMB_22.2.23_bfe3cc4ab3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/bomb/fw_bomb_miui_BOMB_22.2.23_bfe3cc4ab3_11.0.zip
+  filename: fw_bomb_miui_BOMB_22.2.23_bfe3cc4ab3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-25.02.2021/fw_bomb_miui_BOMB_21.2.24_d58d63d5ad_11.0.zip
@@ -6379,6 +6429,16 @@
     android: '11.0'
     miui: 21.8.25
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-25.02.2022/fw_camellia_miui_CAMELLIAPRE_22.2.23_3d548c4318_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/camellia/fw_camellia_miui_CAMELLIAPRE_22.2.23_3d548c4318_12.0.zip
+  filename: fw_camellia_miui_CAMELLIAPRE_22.2.23_3d548c4318_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-24.09.2021/fw_camellia_miui_CAMELLIA_21.9.22_636b9826ea_11.0.zip
@@ -6828,6 +6888,16 @@
   versions:
     android: '11.0'
     miui: 21.8.25
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-25.02.2022/fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/cannon/fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
+  filename: fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -7818,6 +7888,16 @@
   versions:
     android: '11.0'
     miui: 20.11.25
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/weekly-25.02.2022/fw_cas_miui_CASPRE_22.2.23_374967c62f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/cas/fw_cas_miui_CASPRE_22.2.23_374967c62f_12.0.zip
+  filename: fw_cas_miui_CASPRE_22.2.23_374967c62f_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -10099,6 +10179,16 @@
     android: '11.0'
     miui: 20.11.26
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-25.02.2022/fw_cezanne_miui_CEZANNE_22.2.23_6c435668e7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/cezanne/fw_cezanne_miui_CEZANNE_22.2.23_6c435668e7_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_22.2.23_6c435668e7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-25.02.2021/fw_cezanne_miui_CEZANNE_21.2.24_1c5b6e9c1e_11.0.zip
@@ -11289,6 +11379,16 @@
     android: '11.0'
     miui: 21.8.25
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-25.02.2022/fw_chopin_miui_CHOPINPRE_22.2.23_28abbdb81f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/chopin/fw_chopin_miui_CHOPINPRE_22.2.23_28abbdb81f_12.0.zip
+  filename: fw_chopin_miui_CHOPINPRE_22.2.23_28abbdb81f_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-24.09.2021/fw_chopin_miui_CHOPIN_21.9.22_47a116a37c_11.0.zip
@@ -12078,6 +12178,16 @@
   versions:
     android: '11.0'
     miui: 20.11.25
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-25.02.2022/fw_cmi_miui_CMIPRE_22.2.23_d095b5b82f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/cmi/fw_cmi_miui_CMIPRE_22.2.23_d095b5b82f_12.0.zip
+  filename: fw_cmi_miui_CMIPRE_22.2.23_d095b5b82f_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -17699,6 +17809,16 @@
     android: '11.0'
     miui: 21.11.24
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/weekly-25.02.2022/fw_evergo_miui_EVERGOPRE_22.2.23_ddefb468b4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/evergo/fw_evergo_miui_EVERGOPRE_22.2.23_ddefb468b4_12.0.zip
+  filename: fw_evergo_miui_EVERGOPRE_22.2.23_ddefb468b4_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-11-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/weekly-19.11.2021/fw_evergo_miui_EVERGO_21.11.17_452197009d_11.0.zip
@@ -18008,6 +18128,16 @@
   versions:
     android: '11.0'
     miui: 21.3.24
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/weekly-25.02.2022/fw_gauguin_miui_GAUGUINPRE_22.2.23_877d8280e8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/gauguin/fw_gauguin_miui_GAUGUINPRE_22.2.23_877d8280e8_12.0.zip
+  filename: fw_gauguin_miui_GAUGUINPRE_22.2.23_877d8280e8_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-06-24'
   downloads:
@@ -20818,6 +20948,16 @@
   versions:
     android: '12.0'
     miui: 21.11.25
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/weekly-25.02.2022/fw_haydn_miui_HAYDNPRE_22.2.23_83164de7f7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/haydn/fw_haydn_miui_HAYDNPRE_22.2.23_83164de7f7_12.0.zip
+  filename: fw_haydn_miui_HAYDNPRE_22.2.23_83164de7f7_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-09-24'
   downloads:
@@ -24889,6 +25029,16 @@
     android: '11.0'
     miui: 21.2.24
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-25.02.2022/fw_lime_miui_LIME_22.2.23_125985b890_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/lime/fw_lime_miui_LIME_22.2.23_125985b890_11.0.zip
+  filename: fw_lime_miui_LIME_22.2.23_125985b890_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-24.09.2021/fw_lime_miui_LIME_21.9.22_467cc32fff_11.0.zip
@@ -25488,6 +25638,16 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RJQCNXM
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/weekly-25.02.2022/fw_lisa_miui_LISAPRE_22.2.23_bdaf34b09b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/lisa/fw_lisa_miui_LISAPRE_22.2.23_bdaf34b09b_12.0.zip
+  filename: fw_lisa_miui_LISAPRE_22.2.23_bdaf34b09b_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: stable
   date: '2021-09-29'
   downloads:
@@ -26148,6 +26308,16 @@
   versions:
     android: '11.0'
     miui: 21.2.24
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/weekly-25.02.2022/fw_lmi_miui_LMIPRE_22.2.23_ebfc59356e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/lmi/fw_lmi_miui_LMIPRE_22.2.23_ebfc59356e_12.0.zip
+  filename: fw_lmi_miui_LMIPRE_22.2.23_ebfc59356e_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-09-24'
   downloads:
@@ -28109,6 +28279,16 @@
     android: '12.0'
     miui: 21.11.25
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-25.02.2022/fw_mona_miui_MONAPRE_22.2.23_f2f7b5a6ef_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/mona/fw_mona_miui_MONAPRE_22.2.23_f2f7b5a6ef_12.0.zip
+  filename: fw_mona_miui_MONAPRE_22.2.23_f2f7b5a6ef_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2022-01-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-21.01.2022/fw_mona_miui_MONAPRE_22.1.19_79f25aee0c_12.0.zip
@@ -29738,6 +29918,16 @@
   versions:
     android: '11.0'
     miui: 21.8.25
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/weekly-25.02.2022/fw_odin_miui_ODINPRE_22.2.23_924baa5eb2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/odin/fw_odin_miui_ODINPRE_22.2.23_924baa5eb2_12.0.zip
+  filename: fw_odin_miui_ODINPRE_22.2.23_924baa5eb2_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-10-21'
   downloads:
@@ -32349,6 +32539,16 @@
     android: '11.0'
     miui: 21.2.24
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-25.02.2022/fw_phoenix_miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/phoenix/fw_phoenix_miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip
+  filename: fw_phoenix_miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2020-07-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-23.07.2020/fw_phoenix_miui_PHOENIX_20.7.23_ac9cbef09f_10.0.zip
@@ -33148,6 +33348,26 @@
   versions:
     android: '10.0'
     miui: 20.3.26
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-25.02.2022/fw_picasso_miui_PICASSO48MPRE_22.2.23_1173c978d5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/picasso/fw_picasso_miui_PICASSO48MPRE_22.2.23_1173c978d5_12.0.zip
+  filename: fw_picasso_miui_PICASSO48MPRE_22.2.23_1173c978d5_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/weekly-25.02.2022/fw_picasso_miui_PICASSOPRE_22.2.23_0d3a3eaaf0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/picasso/fw_picasso_miui_PICASSOPRE_22.2.23_0d3a3eaaf0_12.0.zip
+  filename: fw_picasso_miui_PICASSOPRE_22.2.23_0d3a3eaaf0_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2020-09-24'
   downloads:
@@ -34428,6 +34648,16 @@
   versions:
     android: '11.0'
     miui: 21.11.24
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-25.02.2022/fw_pissarro_miui_PISSARROPRE_22.2.23_da2e4718de_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/pissarro/fw_pissarro_miui_PISSARROPRE_22.2.23_da2e4718de_12.0.zip
+  filename: fw_pissarro_miui_PISSARROPRE_22.2.23_da2e4718de_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2022-01-21'
   downloads:
@@ -37998,6 +38228,16 @@
   versions:
     android: '12.0'
     miui: 21.11.25
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/weekly-25.02.2022/fw_renoir_miui_RENOIRPRE_22.2.23_38da1c40fb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/renoir/fw_renoir_miui_RENOIRPRE_22.2.23_38da1c40fb_12.0.zip
+  filename: fw_renoir_miui_RENOIRPRE_22.2.23_38da1c40fb_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-06-24'
   downloads:
@@ -42759,6 +42999,16 @@
     android: '11.0'
     miui: 21.8.25
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-25.02.2022/fw_thyme_miui_THYMEPRE_22.2.23_d4d40ed759_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/thyme/fw_thyme_miui_THYMEPRE_22.2.23_d4d40ed759_12.0.zip
+  filename: fw_thyme_miui_THYMEPRE_22.2.23_d4d40ed759_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-06-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-24.06.2021/fw_thyme_miui_THYME_21.6.23_80873f21dc_11.0.zip
@@ -43628,6 +43878,16 @@
   versions:
     android: '11.0'
     miui: 21.2.24
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/weekly-25.02.2022/fw_tucana_miui_TUCANA_22.2.23_08b6233438_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/tucana/fw_tucana_miui_TUCANA_22.2.23_08b6233438_11.0.zip
+  filename: fw_tucana_miui_TUCANA_22.2.23_08b6233438_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-09-24'
   downloads:
@@ -45449,6 +45709,16 @@
     android: '11.0'
     miui: 21.6.23
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-25.02.2022/fw_umi_miui_UMIPRE_22.2.23_e83503efc0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/umi/fw_umi_miui_UMIPRE_22.2.23_e83503efc0_12.0.zip
+  filename: fw_umi_miui_UMIPRE_22.2.23_e83503efc0_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2021-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-24.09.2021/fw_umi_miui_UMI_21.9.22_a2edd85548_11.0.zip
@@ -47159,6 +47429,16 @@
     android: '11.0'
     miui: 21.2.24
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-25.02.2022/fw_vangogh_miui_VANGOGHPRE_22.2.23_e9352e1da4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/vangogh/fw_vangogh_miui_VANGOGHPRE_22.2.23_e9352e1da4_12.0.zip
+  filename: fw_vangogh_miui_VANGOGHPRE_22.2.23_e9352e1da4_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
   date: '2020-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-24.09.2020/fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
@@ -48268,6 +48548,16 @@
   versions:
     android: '11.0'
     miui: 21.2.24
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/weekly-25.02.2022/fw_venus_miui_VENUSPRE_22.2.23_6c9148dd0c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/venus/fw_venus_miui_VENUSPRE_22.2.23_6c9148dd0c_12.0.zip
+  filename: fw_venus_miui_VENUSPRE_22.2.23_6c9148dd0c_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
   date: '2021-09-24'
   downloads:
