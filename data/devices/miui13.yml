@@ -984,6 +984,12 @@
   version: V13.0.6.0.SKBCNXM
 - android: '12.0'
   codename: venus
+  date: '2022-02-25'
+  download: https://bigota.d.miui.com/V13.0.4.0.SKBEUXM/fw_venus_miui_VENUSEEAGlobal_V13.0.4.0.SKBEUXM_fbac548b92_12.0.zip
+  name: Mi 11
+  version: V13.0.4.0.SKBEUXM
+- android: '12.0'
+  codename: venus
   date: '2022-02-24'
   download: https://bigota.d.miui.com/V13.0.1.0.SKBMIXM/fw_venus_miui_VENUSGlobal_V13.0.1.0.SKBMIXM_1b402d5728_12.0.zip
   name: Mi 11
