@@ -1,4 +1,10 @@
 - android: '12.0'
+  codename: agate
+  date: '2022-02-26'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKWEUXM/fw_agate_miui_AGATEEEAGlobal_V13.0.2.0.SKWEUXM_a49449ca58_12.0.zip
+  name: Xiaomi 11T
+  version: V13.0.2.0.SKWEUXM
+- android: '12.0'
   codename: alioth
   date: '2022-02-25'
   download: https://bigota.d.miui.com/22.2.23/fw_alioth_miui_ALIOTHPRE_22.2.23_a4307bf79f_12.0.zip
@@ -522,6 +528,12 @@
   version: V13.0.5.0.SKOEUXM
 - android: '12.0'
   codename: lmi
+  date: '2022-02-26'
+  download: https://bigota.d.miui.com/V13.0.1.0.SJKCNXM/fw_lmi_miui_LMI_V13.0.1.0.SJKCNXM_0f10b20093_12.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: V13.0.1.0.SJKCNXM
+- android: '12.0'
+  codename: lmi
   date: '2022-02-25'
   download: https://bigota.d.miui.com/22.2.23/fw_lmi_miui_LMIPRE_22.2.23_ebfc59356e_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
@@ -802,6 +814,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.RGCMIXM/fw_spes_miui_SPESGlobal_V13.0.5.0.RGCMIXM_9a713fb62e_11.0.zip
   name: Redmi Note 11
   version: V13.0.5.0.RGCMIXM
+- android: '11.0'
+  codename: spesn
+  date: '2022-02-26'
+  download: https://bigota.d.miui.com/V13.0.5.0.RGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.5.0.RGKEUXM_7fd5d2e790_11.0.zip
+  name: Redmi Note 11 NFC
+  version: V13.0.5.0.RGKEUXM
 - android: '12.0'
   codename: star
   date: '2022-02-18'
