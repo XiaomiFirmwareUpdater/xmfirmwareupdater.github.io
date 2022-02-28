@@ -1,4 +1,24 @@
 - branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-28.02.2022/fw_agate_miui_AGATEEEAGlobal_V12.5.10.0.RKWEUXM_4c414f93aa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEEEAGlobal_V12.5.10.0.RKWEUXM_4c414f93aa_11.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V12.5.10.0.RKWEUXM_4c414f93aa_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.10.0.RKWEUXM
+- branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-28.02.2022/fw_agate_miui_AGATEGlobal_V13.0.2.0.SKWMIXM_8544f90cd4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/agate/fw_agate_miui_AGATEGlobal_V13.0.2.0.SKWMIXM_8544f90cd4_12.0.zip
+  filename: fw_agate_miui_AGATEGlobal_V13.0.2.0.SKWMIXM_8544f90cd4_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SKWMIXM
+- branch: stable
   date: '2022-02-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-26.02.2022/fw_agate_miui_AGATEEEAGlobal_V13.0.2.0.SKWEUXM_a49449ca58_12.0.zip
@@ -6688,6 +6708,16 @@
   versions:
     android: '11.0'
     miui: V12.0.6.0.RKSCNXM
+- branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-28.02.2022/fw_camellian_miui_CAMELLIANGlobal_V12.5.4.0.RKSMIXM_abc3a16b61_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellian/fw_camellian_miui_CAMELLIANGlobal_V12.5.4.0.RKSMIXM_abc3a16b61_11.0.zip
+  filename: fw_camellian_miui_CAMELLIANGlobal_V12.5.4.0.RKSMIXM_abc3a16b61_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RKSMIXM
 - branch: stable
   date: '2022-02-21'
   downloads:
@@ -19149,6 +19179,16 @@
     android: '7.0'
     miui: 8.3.26
 - branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-28.02.2022/fw_ginkgo_miui_GINKGOGlobal_V12.5.2.0.RCOMIXM_75abe1782e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOGlobal_V12.5.2.0.RCOMIXM_75abe1782e_11.0.zip
+  filename: fw_ginkgo_miui_GINKGOGlobal_V12.5.2.0.RCOMIXM_75abe1782e_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RCOMIXM
+- branch: stable
   date: '2022-01-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-17.01.2022/fw_ginkgo_miui_GINKGOINGlobal_V12.5.1.0.RCOINXM_574a275eaa_11.0.zip
@@ -23028,6 +23068,26 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-28.02.2022/fw_lancelot_miui_LANCELOTEEAGlobal_V12.5.4.0.RJCEUXM_67a1671939_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V12.5.4.0.RJCEUXM_67a1671939_11.0.zip
+  filename: fw_lancelot_miui_LANCELOTEEAGlobal_V12.5.4.0.RJCEUXM_67a1671939_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJCEUXM
+- branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-28.02.2022/fw_lancelot_miui_LANCELOTINGlobal_V12.5.3.0.RJCINXM_1263ccb6aa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V12.5.3.0.RJCINXM_1263ccb6aa_11.0.zip
+  filename: fw_lancelot_miui_LANCELOTINGlobal_V12.5.3.0.RJCINXM_1263ccb6aa_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RJCINXM
 - branch: stable
   date: '2022-02-09'
   downloads:
@@ -27508,6 +27568,16 @@
   versions:
     android: '6.0'
     miui: 8.4.12
+- branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-28.02.2022/fw_merlin_miui_MERLINEEAGlobal_V12.5.4.0.RJOEUXM_74ee09b4e4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINEEAGlobal_V12.5.4.0.RJOEUXM_74ee09b4e4_11.0.zip
+  filename: fw_merlin_miui_MERLINEEAGlobal_V12.5.4.0.RJOEUXM_74ee09b4e4_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJOEUXM
 - branch: stable
   date: '2022-02-09'
   downloads:
@@ -41168,6 +41238,16 @@
   versions:
     android: '11.0'
     miui: V12.5.4.0.RKUCNXM
+- branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shiva/releases/download/stable-28.02.2022/fw_shiva_miui_SHIVAINGlobal_V12.5.5.0.RJRINXM_adbf257a04_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/shiva/fw_shiva_miui_SHIVAINGlobal_V12.5.5.0.RJRINXM_adbf257a04_11.0.zip
+  filename: fw_shiva_miui_SHIVAINGlobal_V12.5.5.0.RJRINXM_adbf257a04_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJRINXM
 - branch: stable
   date: '2021-12-07'
   downloads:

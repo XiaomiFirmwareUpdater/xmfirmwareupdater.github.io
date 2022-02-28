@@ -1,5 +1,11 @@
 - android: '12.0'
   codename: agate
+  date: '2022-02-28'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKWMIXM/fw_agate_miui_AGATEGlobal_V13.0.2.0.SKWMIXM_8544f90cd4_12.0.zip
+  name: Xiaomi 11T
+  version: V13.0.2.0.SKWMIXM
+- android: '12.0'
+  codename: agate
   date: '2022-02-26'
   download: https://bigota.d.miui.com/V13.0.2.0.SKWEUXM/fw_agate_miui_AGATEEEAGlobal_V13.0.2.0.SKWEUXM_a49449ca58_12.0.zip
   name: Xiaomi 11T
