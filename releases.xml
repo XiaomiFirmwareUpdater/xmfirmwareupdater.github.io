@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 26 Feb 2022 20:17:16 +0900</pubDate>
+  <pubDate>Mon, 28 Feb 2022 14:35:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Civi (mona) - V13.0.3.0.SKVCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
+    <pubDate>Mon, 28 Feb 2022 14:35:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V13.0.1.0.SKKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Mon, 28 Feb 2022 14:04:10 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.12.0.QCREUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Mon, 28 Feb 2022 13:34:20 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 NFC (spesn) - V13.0.5.0.RGKEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
@@ -90,21 +105,6 @@
     <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 22.2.23</title>
     <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
     <pubDate>Fri, 25 Feb 2022 18:36:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 22.2.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Fri, 25 Feb 2022 18:33:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>MIX 4 (odin) - 22.2.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
-    <pubDate>Fri, 25 Feb 2022 18:30:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi (mona) - 22.2.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
-    <pubDate>Fri, 25 Feb 2022 18:25:13 +0900</pubDate>
   </item>
     </channel>
 </rss>

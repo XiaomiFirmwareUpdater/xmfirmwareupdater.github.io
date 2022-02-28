@@ -959,6 +959,16 @@
     android: '9.0'
     miui: V10.3.16.0.PEMCNXM
 - branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-28.02.2022/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.12.0.QCREUXM_c5acaf9b52_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.12.0.QCREUXM_c5acaf9b52_10.0.zip
+  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.12.0.QCREUXM_c5acaf9b52_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.12.0.QCREUXM
+- branch: stable
   date: '2022-02-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-09.02.2022/fw_angelica_miui_ANGELICAGlobal_V12.0.20.0.QCRMIXM_825918fc2a_10.0.zip
@@ -20918,6 +20928,16 @@
   versions:
     android: '9.0'
     miui: V10.2.5.0.PFBCNXM
+- branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-28.02.2022/fw_haydn_miui_HAYDNGlobal_V13.0.1.0.SKKMIXM_e3cd6bc658_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNGlobal_V13.0.1.0.SKKMIXM_e3cd6bc658_12.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_V13.0.1.0.SKKMIXM_e3cd6bc658_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SKKMIXM
 - branch: weekly
   date: '2022-02-25'
   downloads:
@@ -28298,6 +28318,16 @@
   versions:
     android: '11.0'
     miui: V12.0.2.0.RKGMIXM
+- branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-28.02.2022/fw_mona_miui_MONA_V13.0.3.0.SKVCNXM_f52499d7bf_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mona/fw_mona_miui_MONA_V13.0.3.0.SKVCNXM_f52499d7bf_12.0.zip
+  filename: fw_mona_miui_MONA_V13.0.3.0.SKVCNXM_f52499d7bf_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKVCNXM
 - branch: weekly
   date: '2022-02-25'
   downloads:

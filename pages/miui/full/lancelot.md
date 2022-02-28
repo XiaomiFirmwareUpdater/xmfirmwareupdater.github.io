@@ -52,7 +52,8 @@ permalink: /archive/miui/lancelot/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJCRUXM</td><td>11.0</td><td>2.5 GB</td><td>2022-02-14</td><td><a href="/miui/lancelot/stable/V12.5.3.0.RJCRUXM/">Download</a></td></tr>
+                <tr><td>Redmi 9 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RJCTRXM</td><td>11.0</td><td>2.5 GB</td><td>2022-02-26</td><td><a href="/miui/lancelot/stable beta/V12.5.3.0.RJCTRXM/">Download</a></td></tr>
+<tr><td>Redmi 9 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJCRUXM</td><td>11.0</td><td>2.5 GB</td><td>2022-02-14</td><td><a href="/miui/lancelot/stable/V12.5.3.0.RJCRUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RJCRUXM</td><td>11.0</td><td>4.2 GB</td><td>2022-01-24</td><td><a href="/miui/lancelot/stable/V12.5.3.0.RJCRUXM/">Download</a></td></tr>
 <tr><td>Redmi 9 China</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RJCCNXM</td><td>11.0</td><td>2.9 GB</td><td>2022-02-09</td><td><a href="/miui/lancelot/stable/V12.5.5.0.RJCCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9 China</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RJCCNXM</td><td>11.0</td><td>3.9 GB</td><td>2022-01-18</td><td><a href="/miui/lancelot/stable/V12.5.5.0.RJCCNXM/">Download</a></td></tr>

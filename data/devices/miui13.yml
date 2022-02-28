@@ -438,6 +438,12 @@
   version: 22.1.13
 - android: '12.0'
   codename: haydn
+  date: '2022-02-28'
+  download: https://bigota.d.miui.com/V13.0.1.0.SKKMIXM/fw_haydn_miui_HAYDNGlobal_V13.0.1.0.SKKMIXM_e3cd6bc658_12.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V13.0.1.0.SKKMIXM
+- android: '12.0'
+  codename: haydn
   date: '2022-02-25'
   download: https://bigota.d.miui.com/22.2.23/fw_haydn_miui_HAYDNPRE_22.2.23_83164de7f7_12.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
@@ -568,6 +574,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.SKGMIXM/fw_mojito_miui_MOJITOGlobal_V13.0.5.0.SKGMIXM_ed96aa8401_12.0.zip
   name: Redmi Note 10
   version: V13.0.5.0.SKGMIXM
+- android: '12.0'
+  codename: mona
+  date: '2022-02-28'
+  download: https://bigota.d.miui.com/V13.0.3.0.SKVCNXM/fw_mona_miui_MONA_V13.0.3.0.SKVCNXM_f52499d7bf_12.0.zip
+  name: Xiaomi Civi
+  version: V13.0.3.0.SKVCNXM
 - android: '12.0'
   codename: mona
   date: '2022-02-25'
