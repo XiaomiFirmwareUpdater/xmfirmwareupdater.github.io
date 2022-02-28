@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 01 Mar 2022 02:30:02 +0900</pubDate>
+  <pubDate>Tue, 01 Mar 2022 02:30:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Mi 10 (umi) - V13.0.3.0.SJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Tue, 01 Mar 2022 02:30:02 +0900</pubDate>
+    <pubDate>Tue, 01 Mar 2022 02:30:07 +0900</pubDate>
   </item>
     <item>
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V13.0.5.0.SKAEUXM</title>
