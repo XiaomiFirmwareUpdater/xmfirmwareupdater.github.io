@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2022-02-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-28.02.2022/fw_umi_miui_UMI_V13.0.3.0.SJBCNXM_c6e07a26b2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMI_V13.0.3.0.SJBCNXM_c6e07a26b2_12.0.zip
+  filename: fw_umi_miui_UMI_V13.0.3.0.SJBCNXM_c6e07a26b2_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SJBCNXM
 - branch: weekly
   date: '2022-02-25'
   downloads:

@@ -282,6 +282,12 @@
   version: 22.1.12
 - android: '12.0'
   codename: cmi
+  date: '2022-02-28'
+  download: https://bigota.d.miui.com/V13.0.2.0.SJACNXM/fw_cmi_miui_CMI_V13.0.2.0.SJACNXM_a5a6a0d1a4_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.2.0.SJACNXM
+- android: '12.0'
+  codename: cmi
   date: '2022-02-25'
   download: https://bigota.d.miui.com/22.2.23/fw_cmi_miui_CMIPRE_22.2.23_d095b5b82f_12.0.zip
   name: Mi 10 Pro
@@ -442,6 +448,12 @@
   download: https://bigota.d.miui.com/22.1.13/fw_gauguin_miui_GAUGUINPRE_22.1.13_a4ea74e87c_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: 22.1.13
+- android: '12.0'
+  codename: haydn
+  date: '2022-02-28'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_V13.0.5.0.SKKEUXM_ff4ae422bf_12.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V13.0.5.0.SKKEUXM
 - android: '12.0'
   codename: haydn
   date: '2022-02-28'
@@ -840,6 +852,12 @@
   version: V13.0.5.0.RGKEUXM
 - android: '12.0'
   codename: star
+  date: '2022-02-28'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKAEUXM/fw_star_miui_STAREEAGlobal_V13.0.5.0.SKAEUXM_22c3064331_12.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V13.0.5.0.SKAEUXM
+- android: '12.0'
+  codename: star
   date: '2022-02-18'
   download: https://bigota.d.miui.com/22.2.16/fw_star_miui_STARPRE_22.2.16_7b4d06e79f_12.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
@@ -940,6 +958,12 @@
   download: https://bigota.d.miui.com/22.1.19/fw_tucana_miui_TUCANA_22.1.19_6c17643b7a_11.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 22.1.19
+- android: '12.0'
+  codename: umi
+  date: '2022-02-28'
+  download: https://bigota.d.miui.com/V13.0.3.0.SJBCNXM/fw_umi_miui_UMI_V13.0.3.0.SJBCNXM_c6e07a26b2_12.0.zip
+  name: Mi 10
+  version: V13.0.3.0.SJBCNXM
 - android: '12.0'
   codename: umi
   date: '2022-02-25'
