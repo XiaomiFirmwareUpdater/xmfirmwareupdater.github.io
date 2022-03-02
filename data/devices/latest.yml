@@ -3959,15 +3959,15 @@
     android: '11.0'
     miui: V13.0.1.0.RKCEUXM
 - branch: stable
-  date: '2022-02-21'
+  date: '2022-03-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-21.02.2022/fw_vili_miui_VILIGlobal_V13.0.1.0.SKDMIXM_e7e8f0ef90_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vili/fw_vili_miui_VILIGlobal_V13.0.1.0.SKDMIXM_e7e8f0ef90_12.0.zip
-  filename: fw_vili_miui_VILIGlobal_V13.0.1.0.SKDMIXM_e7e8f0ef90_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-02.03.2022/fw_vili_miui_VILIGlobal_V13.0.2.0.SKDMIXM_0cd8790804_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vili/fw_vili_miui_VILIGlobal_V13.0.2.0.SKDMIXM_0cd8790804_12.0.zip
+  filename: fw_vili_miui_VILIGlobal_V13.0.2.0.SKDMIXM_0cd8790804_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SKDMIXM
+    miui: V13.0.2.0.SKDMIXM
 - branch: stable
   date: '2021-12-22'
   downloads:

@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 02 Mar 2022 07:40:10 +0900</pubDate>
+  <pubDate>Wed, 02 Mar 2022 13:43:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 11T Pro (vili) - V13.0.2.0.SKDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
+    <pubDate>Wed, 02 Mar 2022 13:43:33 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V12.5.18.0.RKTCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
@@ -100,11 +105,6 @@
     <title>Redmi 9C (angelica) - V12.0.12.0.QCREUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
     <pubDate>Mon, 28 Feb 2022 13:34:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 NFC (spesn) - V13.0.5.0.RGKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
-    <pubDate>Sat, 26 Feb 2022 20:17:16 +0900</pubDate>
   </item>
     </channel>
 </rss>
