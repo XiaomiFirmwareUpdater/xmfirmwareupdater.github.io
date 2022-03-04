@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2022-01-06'
+  date: '2021-09-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-06.01.2022/fw_cannon_miui_CANNON_V12.5.9.0.RJECNXM_6c53fed2d8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.5.9.0.RJECNXM_6c53fed2d8_11.0.zip
-  filename: fw_cannon_miui_CANNON_V12.5.9.0.RJECNXM_6c53fed2d8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-30.09.2021/fw_cannon_miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannon/fw_cannon_miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip
+  filename: fw_cannon_miui_CANNON_V12.5.7.0.RJECNXM_683a6cb9f1_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.9.0.RJECNXM
+    miui: V12.5.7.0.RJECNXM
 - branch: weekly
-  date: '2022-02-25'
+  date: '2021-12-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-25.02.2022/fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/cannon/fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
-  filename: fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-31.12.2021/fw_cannon_miui_CANNON_21.12.29_92d06a801e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.29/cannon/fw_cannon_miui_CANNON_21.12.29_92d06a801e_11.0.zip
+  filename: fw_cannon_miui_CANNON_21.12.29_92d06a801e_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 22.2.23
+    miui: 21.12.29

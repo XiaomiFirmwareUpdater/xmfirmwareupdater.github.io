@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2022-02-21'
+  date: '2021-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-21.02.2022/fw_thyme_miui_THYME_V13.0.3.0.SGACNXM_109e7cc114_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thyme/fw_thyme_miui_THYME_V13.0.3.0.SGACNXM_109e7cc114_12.0.zip
-  filename: fw_thyme_miui_THYME_V13.0.3.0.SGACNXM_109e7cc114_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-28.06.2021/fw_thyme_miui_THYME_V12.5.3.0.RGACNXM_4648eb335d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/thyme/fw_thyme_miui_THYME_V12.5.3.0.RGACNXM_4648eb335d_11.0.zip
+  filename: fw_thyme_miui_THYME_V12.5.3.0.RGACNXM_4648eb335d_11.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.3.0.SGACNXM
+    android: '11.0'
+    miui: V12.5.3.0.RGACNXM
 - branch: weekly
-  date: '2022-02-25'
+  date: '2021-10-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-25.02.2022/fw_thyme_miui_THYMEPRE_22.2.23_d4d40ed759_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/thyme/fw_thyme_miui_THYMEPRE_22.2.23_d4d40ed759_12.0.zip
-  filename: fw_thyme_miui_THYMEPRE_22.2.23_d4d40ed759_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-29.10.2021/fw_thyme_miui_THYME_21.10.27_fcc7464ffb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.27/thyme/fw_thyme_miui_THYME_21.10.27_fcc7464ffb_12.0.zip
+  filename: fw_thyme_miui_THYME_21.10.27_fcc7464ffb_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: 22.2.23
+    miui: 21.10.27

@@ -9,12 +9,12 @@
     android: '12.0'
     miui: V13.0.3.0.SKVCNXM
 - branch: weekly
-  date: '2022-02-25'
+  date: '2021-10-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-25.02.2022/fw_mona_miui_MONAPRE_22.2.23_f2f7b5a6ef_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/mona/fw_mona_miui_MONAPRE_22.2.23_f2f7b5a6ef_12.0.zip
-  filename: fw_mona_miui_MONAPRE_22.2.23_f2f7b5a6ef_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-29.10.2021/fw_mona_miui_MONA_21.10.27_329f9b328d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.27/mona/fw_mona_miui_MONA_21.10.27_329f9b328d_11.0.zip
+  filename: fw_mona_miui_MONA_21.10.27_329f9b328d_11.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: 22.2.23
+    android: '11.0'
+    miui: 21.10.27

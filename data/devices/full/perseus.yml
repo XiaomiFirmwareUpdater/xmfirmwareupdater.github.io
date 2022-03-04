@@ -1,233 +1,3 @@
-- branch: stable
-  date: '2021-07-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-15.07.2021/fw_perseus_miui_MIMIX3_V12.5.1.0.QEECNXM_b008b041ef_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/perseus/fw_perseus_miui_MIMIX3_V12.5.1.0.QEECNXM_b008b041ef_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_V12.5.1.0.QEECNXM_b008b041ef_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.5.1.0.QEECNXM
-- branch: stable
-  date: '2021-01-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-04.01.2021/fw_perseus_miui_MIMIX3_V12.0.3.0.QEECNXM_b96755549d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/perseus/fw_perseus_miui_MIMIX3_V12.0.3.0.QEECNXM_b96755549d_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_V12.0.3.0.QEECNXM_b96755549d_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.3.0.QEECNXM
-- branch: stable
-  date: '2020-11-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-20.11.2020/fw_perseus_miui_MIMIX3Global_V12.0.2.0.QEEMIXM_9b2eb453df_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/perseus/fw_perseus_miui_MIMIX3Global_V12.0.2.0.QEEMIXM_9b2eb453df_10.0.zip
-  filename: fw_perseus_miui_MIMIX3Global_V12.0.2.0.QEEMIXM_9b2eb453df_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V12.0.2.0.QEEMIXM
-- branch: weekly
-  date: '2020-09-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-05.09.2020/fw_perseus_miui_MIMIX3_20.9.4_9b9a07c611_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.4/perseus/fw_perseus_miui_MIMIX3_20.9.4_9b9a07c611_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_20.9.4_9b9a07c611_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.4
-- branch: stable
-  date: '2020-07-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-16.07.2020/fw_perseus_miui_MIMIX3Global_V11.0.5.0.QEEMIXM_7abae635bf_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3Global_V11.0.5.0.QEEMIXM_7abae635bf_10.0.zip
-  filename: fw_perseus_miui_MIMIX3Global_V11.0.5.0.QEEMIXM_7abae635bf_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.5.0.QEEMIXM
-- branch: weekly
-  date: '2020-06-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-04.06.2020/fw_perseus_miui_MIMIX3_20.6.4_53305433a8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/perseus/fw_perseus_miui_MIMIX3_20.6.4_53305433a8_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_20.6.4_53305433a8_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.4
-- branch: stable
-  date: '2020-05-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-25.05.2020/fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.3.0.QEECNXM
-- branch: stable
-  date: '2020-05-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-20.05.2020/fw_perseus_miui_MIMIX3Global_V11.0.4.0.QEEMIXM_43a947c588_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3Global_V11.0.4.0.QEEMIXM_43a947c588_10.0.zip
-  filename: fw_perseus_miui_MIMIX3Global_V11.0.4.0.QEEMIXM_43a947c588_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.4.0.QEEMIXM
-- branch: weekly
-  date: '2020-05-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-08.05.2020/fw_perseus_miui_MIMIX3_20.5.7_3a5eb39072_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/perseus/fw_perseus_miui_MIMIX3_20.5.7_3a5eb39072_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_20.5.7_3a5eb39072_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.7
-- branch: weekly
-  date: '2020-03-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-26.03.2020/fw_perseus_miui_MIMIX3_20.3.26_1a4cf601da_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/perseus/fw_perseus_miui_MIMIX3_20.3.26_1a4cf601da_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_20.3.26_1a4cf601da_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.26
-- branch: stable
-  date: '2019-11-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-05.11.2019/fw_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.4.0.PEECNXM
-- branch: stable
-  date: '2019-11-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-01.11.2019/fw_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
-  filename: fw_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V11.0.4.0.PEEMIXM
-- branch: stable
-  date: '2019-10-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-18.10.2019/fw_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PEECNXM
-- branch: weekly
-  date: '2019-10-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-17.10.2019/fw_perseus_miui_MIMIX3_9.10.16_2c8f1edf8b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.16/perseus/fw_perseus_miui_MIMIX3_9.10.16_2c8f1edf8b_10.0.zip
-  filename: fw_perseus_miui_MIMIX3_9.10.16_2c8f1edf8b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.10.16
-- branch: weekly
-  date: '2019-09-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-06.09.2019/fw_perseus_miui_MIMIX3_9.9.3_a9dbc91c30_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.3/perseus/fw_perseus_miui_MIMIX3_9.9.3_a9dbc91c30_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_9.9.3_a9dbc91c30_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.9.3
-- branch: stable
-  date: '2019-09-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-02.09.2019/fw_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
-  filename: fw_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V10.3.3.0.PEEMIXM
-- branch: stable
-  date: '2019-08-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-30.08.2019/fw_perseus_miui_MIMIX3_V10.3.3.0.PEECNXM_1a061b21dc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3_V10.3.3.0.PEECNXM_1a061b21dc_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_V10.3.3.0.PEECNXM_1a061b21dc_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.3.3.0.PEECNXM
-- branch: weekly
-  date: '2019-08-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-16.08.2019/fw_perseus_miui_MIMIX3_9.8.15_2a2b313cbc_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.15/perseus/fw_perseus_miui_MIMIX3_9.8.15_2a2b313cbc_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_9.8.15_2a2b313cbc_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.8.15
-- branch: weekly
-  date: '2019-08-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-02.08.2019/fw_perseus_miui_MIMIX3_9.8.1_dcb343fa82_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/perseus/fw_perseus_miui_MIMIX3_9.8.1_dcb343fa82_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_9.8.1_dcb343fa82_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.8.1
-- branch: stable
-  date: '2019-07-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-22.07.2019/fw_perseus_miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip
-  filename: fw_perseus_miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V10.3.2.0.PEEMIXM
-- branch: weekly
-  date: '2019-07-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-19.07.2019/fw_perseus_miui_MIMIX3_9.7.18_ef6c5716a1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/perseus/fw_perseus_miui_MIMIX3_9.7.18_ef6c5716a1_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_9.7.18_ef6c5716a1_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.18
-- branch: weekly
-  date: '2019-07-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-12.07.2019/fw_perseus_miui_MIMIX3_9.7.11_d9bccc359a_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/perseus/fw_perseus_miui_MIMIX3_9.7.11_d9bccc359a_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_9.7.11_d9bccc359a_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.11
-- branch: weekly
-  date: '2019-07-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-05.07.2019/fw_perseus_miui_MIMIX3_9.7.4_385edd54b6_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/perseus/fw_perseus_miui_MIMIX3_9.7.4_385edd54b6_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_9.7.4_385edd54b6_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.7.4
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -249,6 +19,16 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
+  date: '2020-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-26.03.2020/fw_perseus_miui_MIMIX3_20.3.26_1a4cf601da_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.26/perseus/fw_perseus_miui_MIMIX3_20.3.26_1a4cf601da_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.3.26_1a4cf601da_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.26
+- branch: weekly
   date: '2019-06-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-22.06.2019/fw_perseus_miui_MIMIX3Global_9.6.20_40ac4c43d4_9.0.zip
@@ -269,6 +49,46 @@
     android: '9.0'
     miui: 9.6.20
 - branch: weekly
+  date: '2019-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-19.07.2019/fw_perseus_miui_MIMIX3_9.7.18_ef6c5716a1_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.18/perseus/fw_perseus_miui_MIMIX3_9.7.18_ef6c5716a1_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_9.7.18_ef6c5716a1_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.7.18
+- branch: weekly
+  date: '2019-10-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-17.10.2019/fw_perseus_miui_MIMIX3_9.10.16_2c8f1edf8b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.16/perseus/fw_perseus_miui_MIMIX3_9.10.16_2c8f1edf8b_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_9.10.16_2c8f1edf8b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 9.10.16
+- branch: weekly
+  date: '2019-08-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-16.08.2019/fw_perseus_miui_MIMIX3_9.8.15_2a2b313cbc_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.15/perseus/fw_perseus_miui_MIMIX3_9.8.15_2a2b313cbc_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_9.8.15_2a2b313cbc_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.8.15
+- branch: weekly
+  date: '2019-07-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-12.07.2019/fw_perseus_miui_MIMIX3_9.7.11_d9bccc359a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.11/perseus/fw_perseus_miui_MIMIX3_9.7.11_d9bccc359a_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_9.7.11_d9bccc359a_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.7.11
+- branch: weekly
   date: '2019-05-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-10.05.2019/fw_perseus_miui_MIMIX3Global_9.5.9_a55ca6c623_9.0.zip
@@ -288,6 +108,86 @@
   versions:
     android: '9.0'
     miui: 9.5.9
+- branch: weekly
+  date: '2020-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-08.05.2020/fw_perseus_miui_MIMIX3_20.5.7_3a5eb39072_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/perseus/fw_perseus_miui_MIMIX3_20.5.7_3a5eb39072_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.5.7_3a5eb39072_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.7
+- branch: weekly
+  date: '2019-09-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-06.09.2019/fw_perseus_miui_MIMIX3_9.9.3_a9dbc91c30_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.9.3/perseus/fw_perseus_miui_MIMIX3_9.9.3_a9dbc91c30_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_9.9.3_a9dbc91c30_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.9.3
+- branch: weekly
+  date: '2020-09-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-05.09.2020/fw_perseus_miui_MIMIX3_20.9.4_9b9a07c611_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.4/perseus/fw_perseus_miui_MIMIX3_20.9.4_9b9a07c611_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.9.4_9b9a07c611_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.9.4
+- branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-05.07.2019/fw_perseus_miui_MIMIX3_9.7.4_385edd54b6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.7.4/perseus/fw_perseus_miui_MIMIX3_9.7.4_385edd54b6_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_9.7.4_385edd54b6_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.7.4
+- branch: weekly
+  date: '2020-06-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-04.06.2020/fw_perseus_miui_MIMIX3_20.6.4_53305433a8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.4/perseus/fw_perseus_miui_MIMIX3_20.6.4_53305433a8_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_20.6.4_53305433a8_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.4
+- branch: weekly
+  date: '2019-08-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-02.08.2019/fw_perseus_miui_MIMIX3_9.8.1_dcb343fa82_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.1/perseus/fw_perseus_miui_MIMIX3_9.8.1_dcb343fa82_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_9.8.1_dcb343fa82_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.8.1
+- branch: stable
+  date: '2019-08-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-30.08.2019/fw_perseus_miui_MIMIX3_V10.3.3.0.PEECNXM_1a061b21dc_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3_V10.3.3.0.PEECNXM_1a061b21dc_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_V10.3.3.0.PEECNXM_1a061b21dc_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PEECNXM
+- branch: stable
+  date: '2020-05-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-25.05.2020/fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QEECNXM
 - branch: stable
   date: '2019-04-24'
   downloads:
@@ -299,6 +199,56 @@
     android: '9.0'
     miui: V10.3.1.0.PEEMIXM
 - branch: stable
+  date: '2019-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-22.07.2019/fw_perseus_miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip
+  filename: fw_perseus_miui_MIMIX3Global_V10.3.2.0.PEEMIXM_cf84891114_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PEEMIXM
+- branch: stable
+  date: '2020-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-20.11.2020/fw_perseus_miui_MIMIX3Global_V12.0.2.0.QEEMIXM_9b2eb453df_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/perseus/fw_perseus_miui_MIMIX3Global_V12.0.2.0.QEEMIXM_9b2eb453df_10.0.zip
+  filename: fw_perseus_miui_MIMIX3Global_V12.0.2.0.QEEMIXM_9b2eb453df_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QEEMIXM
+- branch: stable
+  date: '2020-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-20.05.2020/fw_perseus_miui_MIMIX3Global_V11.0.4.0.QEEMIXM_43a947c588_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3Global_V11.0.4.0.QEEMIXM_43a947c588_10.0.zip
+  filename: fw_perseus_miui_MIMIX3Global_V11.0.4.0.QEEMIXM_43a947c588_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.4.0.QEEMIXM
+- branch: stable
+  date: '2019-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-18.10.2019/fw_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PEECNXM
+- branch: stable
+  date: '2020-07-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-16.07.2020/fw_perseus_miui_MIMIX3Global_V11.0.5.0.QEEMIXM_7abae635bf_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3Global_V11.0.5.0.QEEMIXM_7abae635bf_10.0.zip
+  filename: fw_perseus_miui_MIMIX3Global_V11.0.5.0.QEEMIXM_7abae635bf_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QEEMIXM
+- branch: stable
   date: '2019-04-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-16.04.2019/fw_perseus_miui_MIMIX3_V10.3.1.0.PEECNXM_17d5614ba1_9.0.zip
@@ -308,6 +258,56 @@
   versions:
     android: '9.0'
     miui: V10.3.1.0.PEECNXM
+- branch: stable
+  date: '2021-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-15.07.2021/fw_perseus_miui_MIMIX3_V12.5.1.0.QEECNXM_b008b041ef_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/perseus/fw_perseus_miui_MIMIX3_V12.5.1.0.QEECNXM_b008b041ef_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_V12.5.1.0.QEECNXM_b008b041ef_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.5.1.0.QEECNXM
+- branch: stable
+  date: '2019-11-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-05.11.2019/fw_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PEECNXM
+- branch: stable
+  date: '2021-01-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-04.01.2021/fw_perseus_miui_MIMIX3_V12.0.3.0.QEECNXM_b96755549d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/perseus/fw_perseus_miui_MIMIX3_V12.0.3.0.QEECNXM_b96755549d_10.0.zip
+  filename: fw_perseus_miui_MIMIX3_V12.0.3.0.QEECNXM_b96755549d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QEECNXM
+- branch: stable
+  date: '2019-09-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-02.09.2019/fw_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
+  filename: fw_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PEEMIXM
+- branch: stable
+  date: '2019-11-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-01.11.2019/fw_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/perseus/fw_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
+  filename: fw_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PEEMIXM
 - branch: weekly
   date: '2019-03-29'
   downloads:
@@ -348,36 +348,6 @@
   versions:
     android: '9.0'
     miui: 9.3.21
-- branch: stable
-  date: '2019-03-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-13.03.2019/fw_perseus_miui_MIMIX3Global_V10.2.2.0.PEEMIXM_237e079487_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3Global_V10.2.2.0.PEEMIXM_237e079487_9.0.zip
-  filename: fw_perseus_miui_MIMIX3Global_V10.2.2.0.PEEMIXM_237e079487_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V10.2.2.0.PEEMIXM
-- branch: weekly
-  date: '2019-03-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-04.03.2019/fw_perseus_miui_MIMIX3_9.3.1_bef99256c2_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.1/perseus/fw_perseus_miui_MIMIX3_9.3.1_bef99256c2_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_9.3.1_bef99256c2_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.3.1
-- branch: stable
-  date: '2019-02-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-26.02.2019/fw_perseus_miui_MIMIX3Global_V10.2.1.0.PEEMIXM_9dc43870b4_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3Global_V10.2.1.0.PEEMIXM_9dc43870b4_9.0.zip
-  filename: fw_perseus_miui_MIMIX3Global_V10.2.1.0.PEEMIXM_9dc43870b4_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: V10.2.1.0.PEEMIXM
 - branch: weekly
   date: '2019-02-22'
   downloads:
@@ -398,6 +368,16 @@
   versions:
     android: '9.0'
     miui: 9.2.15
+- branch: weekly
+  date: '2019-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/weekly-04.03.2019/fw_perseus_miui_MIMIX3_9.3.1_bef99256c2_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.1/perseus/fw_perseus_miui_MIMIX3_9.3.1_bef99256c2_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_9.3.1_bef99256c2_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.3.1
 - branch: stable
   date: '2019-01-30'
   downloads:
@@ -418,6 +398,26 @@
   versions:
     android: '9.0'
     miui: V10.2.2.0.PEECNXM
+- branch: stable
+  date: '2019-02-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-26.02.2019/fw_perseus_miui_MIMIX3Global_V10.2.1.0.PEEMIXM_9dc43870b4_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3Global_V10.2.1.0.PEEMIXM_9dc43870b4_9.0.zip
+  filename: fw_perseus_miui_MIMIX3Global_V10.2.1.0.PEEMIXM_9dc43870b4_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.2.1.0.PEEMIXM
+- branch: stable
+  date: '2019-03-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-13.03.2019/fw_perseus_miui_MIMIX3Global_V10.2.2.0.PEEMIXM_237e079487_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3Global_V10.2.2.0.PEEMIXM_237e079487_9.0.zip
+  filename: fw_perseus_miui_MIMIX3Global_V10.2.2.0.PEEMIXM_237e079487_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.2.2.0.PEEMIXM
 - branch: weekly
   date: '2019-01-25'
   downloads:
@@ -438,16 +438,6 @@
   versions:
     android: '9.0'
     miui: 9.1.10
-- branch: stable
-  date: '2019-01-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-08.01.2019/fw_perseus_miui_MIMIX3_V10.2.1.0.PEECNXM_4ee2f0bf63_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3_V10.2.1.0.PEECNXM_4ee2f0bf63_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_V10.2.1.0.PEECNXM_4ee2f0bf63_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.2.1.0.PEECNXM
 - branch: weekly
   date: '2019-01-03'
   downloads:
@@ -458,6 +448,16 @@
   versions:
     android: '9.0'
     miui: 9.1.2
+- branch: stable
+  date: '2019-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-08.01.2019/fw_perseus_miui_MIMIX3_V10.2.1.0.PEECNXM_4ee2f0bf63_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3_V10.2.1.0.PEECNXM_4ee2f0bf63_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_V10.2.1.0.PEECNXM_4ee2f0bf63_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.2.1.0.PEECNXM
 - branch: stable
   date: '2018-12-21'
   downloads:
@@ -538,16 +538,6 @@
   versions:
     android: '9.0'
     miui: 8.11.15
-- branch: stable
-  date: '2018-11-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-15.11.2018/fw_perseus_miui_MIMIX3_V10.0.9.0.PEECNFH_fca9f42280_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3_V10.0.9.0.PEECNFH_fca9f42280_9.0.zip
-  filename: fw_perseus_miui_MIMIX3_V10.0.9.0.PEECNFH_fca9f42280_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.0.9.0.PEECNFH
 - branch: weekly
   date: '2018-11-05'
   downloads:
@@ -558,3 +548,13 @@
   versions:
     android: '9.0'
     miui: 8.10.25
+- branch: stable
+  date: '2018-11-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_perseus/releases/download/stable-15.11.2018/fw_perseus_miui_MIMIX3_V10.0.9.0.PEECNFH_fca9f42280_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/perseus/fw_perseus_miui_MIMIX3_V10.0.9.0.PEECNFH_fca9f42280_9.0.zip
+  filename: fw_perseus_miui_MIMIX3_V10.0.9.0.PEECNFH_fca9f42280_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: V10.0.9.0.PEECNFH

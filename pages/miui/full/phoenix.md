@@ -52,7 +52,8 @@ permalink: /archive/miui/phoenix/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>22.2.23</td><td>12.0</td><td>4.3 GB</td><td>2022-02-24</td><td><a href="/miui/phoenix/weekly/22.2.23/">Download</a></td></tr>
+                <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>22.3.3</td><td>12.0</td><td>4.4 GB</td><td>2022-03-03</td><td><a href="/miui/phoenix/weekly/22.3.3/">Download</a></td></tr>
+<tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>22.2.23</td><td>12.0</td><td>4.3 GB</td><td>2022-02-24</td><td><a href="/miui/phoenix/weekly/22.2.23/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>22.2.17</td><td>12.0</td><td>4.3 GB</td><td>2022-02-17</td><td><a href="/miui/phoenix/weekly/22.2.17/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>4.2 GB</td><td>2022-02-10</td><td><a href="/miui/phoenix/weekly/22.2.9/">Download</a></td></tr>
 <tr><td>POCO X2 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RGHINXM</td><td>11.0</td><td>2.8 GB</td><td>2022-02-07</td><td><a href="/miui/phoenixin/stable beta/V12.5.7.0.RGHINXM/">Download</a></td></tr>

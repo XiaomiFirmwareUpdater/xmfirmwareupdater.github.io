@@ -1,26 +1,4 @@
 - branch: stable
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable-beta/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable-beta/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
-  region: Europe
-  size: 1.2 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.11.0.QFNEUXM
-- branch: stable
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_global-stable-beta/fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_global-stable-beta/fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
-  region: Global
-  size: 1.1 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.6.0.QFNMIXM
-- branch: stable
   date: '2020-05-08'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_ru_global-stable/fw-vendor_toco_miui_TOCORUGlobal_V11.0.1.0.QFNRUXM_3288f9779c_10.0.zip
@@ -65,71 +43,16 @@
     android: '10.0'
     miui: V12.0.1.0.QFNRUXM
 - branch: stable
-  date: '2020-05-08'
+  date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.3.0.QFNEUXM_dabdc91472_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.3.0.QFNEUXM_dabdc91472_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.3.0.QFNEUXM_dabdc91472_10.0.zip
-  region: Europe
-  size: 1.2 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.3.0.QFNEUXM
-- branch: stable
-  date: '2020-05-21'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip
-  region: Europe
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_global-stable-beta/fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_global-stable-beta/fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
+  region: Global
   size: 1.1 GB
   versions:
     android: '10.0'
-    miui: V11.0.7.0.QFNEUXM
-- branch: stable
-  date: '2020-06-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip
-  region: Europe
-  size: 1.1 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.8.0.QFNEUXM
-- branch: stable
-  date: '2020-07-03'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
-  region: Europe
-  size: 1.1 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.10.0.QFNEUXM
-- branch: stable
-  date: '2020-07-28'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
-  region: Europe
-  size: 1.2 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.11.0.QFNEUXM
-- branch: stable
-  date: '2020-09-14'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip/download
-  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
-  region: Europe
-  size: 1.1 GB
-  versions:
-    android: '10.0'
-    miui: V12.0.1.0.QFNEUXM
+    miui: V11.0.6.0.QFNMIXM
 - branch: stable
   date: '2020-05-08'
   downloads:
@@ -207,3 +130,80 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QFNMIXM
+- branch: stable
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable-beta/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable-beta/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+  region: Europe
+  size: 1.2 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.11.0.QFNEUXM
+- branch: stable
+  date: '2020-05-08'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.3.0.QFNEUXM_dabdc91472_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.3.0.QFNEUXM_dabdc91472_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.3.0.QFNEUXM_dabdc91472_10.0.zip
+  region: Europe
+  size: 1.2 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFNEUXM
+- branch: stable
+  date: '2020-05-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip
+  region: Europe
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.7.0.QFNEUXM
+- branch: stable
+  date: '2020-06-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip
+  region: Europe
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.8.0.QFNEUXM
+- branch: stable
+  date: '2020-07-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
+  region: Europe
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.10.0.QFNEUXM
+- branch: stable
+  date: '2020-07-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+  region: Europe
+  size: 1.2 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.11.0.QFNEUXM
+- branch: stable
+  date: '2020-09-14'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip/download
+  filename: fw-vendor_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
+  region: Europe
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFNEUXM

@@ -1,63 +1,13 @@
 - branch: stable
-  date: '2022-02-07'
+  date: '2020-07-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-07.02.2022/fw_toco_miui_TOCOEEAGlobal_V12.5.6.0.RFNEUXM_6228fd48f2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.5.6.0.RFNEUXM_6228fd48f2_11.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V12.5.6.0.RFNEUXM_6228fd48f2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-28.07.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V12.5.6.0.RFNEUXM
-- branch: stable
-  date: '2022-02-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-04.02.2022/fw_toco_miui_TOCOGlobal_V12.5.7.0.RFNMIXM_55c1bdd004_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.5.7.0.RFNMIXM_55c1bdd004_11.0.zip
-  filename: fw_toco_miui_TOCOGlobal_V12.5.7.0.RFNMIXM_55c1bdd004_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.7.0.RFNMIXM
-- branch: stable
-  date: '2021-10-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-19.10.2021/fw_toco_miui_TOCOEEAGlobal_V12.5.4.0.RFNEUXM_bb88dfaf69_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.5.4.0.RFNEUXM_bb88dfaf69_11.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V12.5.4.0.RFNEUXM_bb88dfaf69_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.4.0.RFNEUXM
-- branch: stable
-  date: '2021-10-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-14.10.2021/fw_toco_miui_TOCOGlobal_V12.5.3.0.RFNMIXM_9387df3927_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.5.3.0.RFNMIXM_9387df3927_11.0.zip
-  filename: fw_toco_miui_TOCOGlobal_V12.5.3.0.RFNMIXM_9387df3927_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.3.0.RFNMIXM
-- branch: stable
-  date: '2021-09-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-02.09.2021/fw_toco_miui_TOCOGlobal_V12.5.2.0.RFNMIXM_f206c2b736_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.5.2.0.RFNMIXM_f206c2b736_11.0.zip
-  filename: fw_toco_miui_TOCOGlobal_V12.5.2.0.RFNMIXM_f206c2b736_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RFNMIXM
-- branch: stable
-  date: '2021-08-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-20.08.2021/fw_toco_miui_TOCOEEAGlobal_V12.5.3.0.RFNEUXM_b742680e16_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.5.3.0.RFNEUXM_b742680e16_11.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V12.5.3.0.RFNEUXM_b742680e16_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.3.0.RFNEUXM
+    android: '10.0'
+    miui: V11.0.11.0.QFNEUXM
 - branch: stable
   date: '2021-06-28'
   downloads:
@@ -79,6 +29,76 @@
     android: '11.0'
     miui: V12.5.1.0.RFNMIXM
 - branch: stable
+  date: '2020-07-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-27.07.2020/fw_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.6.0.QFNMIXM
+- branch: stable
+  date: '2020-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-26.10.2020/fw_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFNMIXM
+- branch: stable
+  date: '2020-07-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-26.07.2020/fw_toco_miui_TOCOGlobal_V11.0.8.0.QFNMIXM_016df139ef_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOGlobal_V11.0.8.0.QFNMIXM_016df139ef_10.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V11.0.8.0.QFNMIXM_016df139ef_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.8.0.QFNMIXM
+- branch: stable
+  date: '2020-05-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-21.05.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.7.0.QFNEUXM
+- branch: stable
+  date: '2021-08-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-20.08.2021/fw_toco_miui_TOCOEEAGlobal_V12.5.3.0.RFNEUXM_b742680e16_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.5.3.0.RFNEUXM_b742680e16_11.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.5.3.0.RFNEUXM_b742680e16_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RFNEUXM
+- branch: stable
+  date: '2021-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-19.10.2021/fw_toco_miui_TOCOEEAGlobal_V12.5.4.0.RFNEUXM_bb88dfaf69_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.5.4.0.RFNEUXM_bb88dfaf69_11.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.5.4.0.RFNEUXM_bb88dfaf69_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RFNEUXM
+- branch: stable
+  date: '2020-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-17.06.2020/fw_toco_miui_TOCOGlobal_V11.0.5.0.QFNMIXM_ac39d93e25_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOGlobal_V11.0.5.0.QFNMIXM_ac39d93e25_10.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V11.0.5.0.QFNMIXM_ac39d93e25_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QFNMIXM
+- branch: stable
   date: '2021-05-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-17.05.2021/fw_toco_miui_TOCOEEAGlobal_V12.1.6.0.RFNEUXM_4bad62a819_11.0.zip
@@ -91,16 +111,6 @@
 - branch: stable
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-11.03.2021/fw_toco_miui_TOCOGlobal_V12.1.4.0.RFNMIXM_2248d94aa9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.1.4.0.RFNMIXM_2248d94aa9_11.0.zip
-  filename: fw_toco_miui_TOCOGlobal_V12.1.4.0.RFNMIXM_2248d94aa9_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.1.4.0.RFNMIXM
-- branch: stable
-  date: '2021-04-18'
-  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-17.01.2021/fw_toco_miui_TOCOGlobal_V12.1.1.0.RFNMIXM_2ea6513d0f_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.1.1.0.RFNMIXM_2ea6513d0f_11.0.zip
   filename: fw_toco_miui_TOCOGlobal_V12.1.1.0.RFNMIXM_2ea6513d0f_11.0.zip
@@ -109,35 +119,15 @@
     android: '11.0'
     miui: V12.1.1.0.RFNMIXM
 - branch: stable
-  date: '2020-11-03'
+  date: '2021-10-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-03.11.2020/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V12.0.2.0.QFNEUXM
-- branch: stable
-  date: '2020-11-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-03.11.2020/fw_toco_miui_TOCOGlobal_V12.0.3.0.QFNMIXM_56721cdab7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.0.3.0.QFNMIXM_56721cdab7_10.0.zip
-  filename: fw_toco_miui_TOCOGlobal_V12.0.3.0.QFNMIXM_56721cdab7_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-14.10.2021/fw_toco_miui_TOCOGlobal_V12.5.3.0.RFNMIXM_9387df3927_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.5.3.0.RFNMIXM_9387df3927_11.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V12.5.3.0.RFNMIXM_9387df3927_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V12.0.3.0.QFNMIXM
-- branch: stable
-  date: '2020-10-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-26.10.2020/fw_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
-  filename: fw_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V12.0.2.0.QFNMIXM
+    android: '11.0'
+    miui: V12.5.3.0.RFNMIXM
 - branch: stable
   date: '2020-09-14'
   downloads:
@@ -149,36 +139,6 @@
     android: '10.0'
     miui: V12.0.1.0.QFNEUXM
 - branch: stable
-  date: '2020-07-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-28.07.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.11.0.QFNEUXM_23149d3aad_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V11.0.11.0.QFNEUXM
-- branch: stable
-  date: '2020-07-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-27.07.2020/fw_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
-  filename: fw_toco_miui_TOCOGlobal_V11.0.6.0.QFNMIXM_af608d9618_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.6.0.QFNMIXM
-- branch: stable
-  date: '2020-07-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-26.07.2020/fw_toco_miui_TOCOGlobal_V11.0.8.0.QFNMIXM_016df139ef_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOGlobal_V11.0.8.0.QFNMIXM_016df139ef_10.0.zip
-  filename: fw_toco_miui_TOCOGlobal_V11.0.8.0.QFNMIXM_016df139ef_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.8.0.QFNMIXM
-- branch: stable
   date: '2020-07-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-14.07.2020/fw_toco_miui_TOCOGlobal_V11.0.7.0.QFNMIXM_7e55d4b09a_10.0.zip
@@ -189,25 +149,15 @@
     android: '10.0'
     miui: V11.0.7.0.QFNMIXM
 - branch: stable
-  date: '2020-07-03'
+  date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-03.07.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V11.0.10.0.QFNEUXM
-- branch: stable
-  date: '2020-06-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-17.06.2020/fw_toco_miui_TOCOGlobal_V11.0.5.0.QFNMIXM_ac39d93e25_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOGlobal_V11.0.5.0.QFNMIXM_ac39d93e25_10.0.zip
-  filename: fw_toco_miui_TOCOGlobal_V11.0.5.0.QFNMIXM_ac39d93e25_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-11.03.2021/fw_toco_miui_TOCOGlobal_V12.1.4.0.RFNMIXM_2248d94aa9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.1.4.0.RFNMIXM_2248d94aa9_11.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V12.1.4.0.RFNMIXM_2248d94aa9_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V11.0.5.0.QFNMIXM
+    android: '11.0'
+    miui: V12.1.4.0.RFNMIXM
 - branch: stable
   date: '2020-06-10'
   downloads:
@@ -229,26 +179,6 @@
     android: '10.0'
     miui: V11.0.4.0.QFNMIXM
 - branch: stable
-  date: '2020-06-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-05.06.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V11.0.8.0.QFNEUXM
-- branch: stable
-  date: '2020-05-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-21.05.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.7.0.QFNEUXM_7926bf9c02_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V11.0.7.0.QFNEUXM
-- branch: stable
   date: '2020-05-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-08.05.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.3.0.QFNEUXM_dabdc91472_10.0.zip
@@ -268,3 +198,73 @@
   versions:
     android: '10.0'
     miui: V11.0.1.0.QFNMIXM
+- branch: stable
+  date: '2022-02-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-07.02.2022/fw_toco_miui_TOCOEEAGlobal_V12.5.6.0.RFNEUXM_6228fd48f2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.5.6.0.RFNEUXM_6228fd48f2_11.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.5.6.0.RFNEUXM_6228fd48f2_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RFNEUXM
+- branch: stable
+  date: '2020-06-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-05.06.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.8.0.QFNEUXM_a789d2369e_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.8.0.QFNEUXM
+- branch: stable
+  date: '2022-02-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-04.02.2022/fw_toco_miui_TOCOGlobal_V12.5.7.0.RFNMIXM_55c1bdd004_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.5.7.0.RFNMIXM_55c1bdd004_11.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V12.5.7.0.RFNMIXM_55c1bdd004_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RFNMIXM
+- branch: stable
+  date: '2020-11-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-03.11.2020/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V12.0.2.0.QFNEUXM_763475e07c_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFNEUXM
+- branch: stable
+  date: '2020-11-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-03.11.2020/fw_toco_miui_TOCOGlobal_V12.0.3.0.QFNMIXM_56721cdab7_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.0.3.0.QFNMIXM_56721cdab7_10.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V12.0.3.0.QFNMIXM_56721cdab7_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QFNMIXM
+- branch: stable
+  date: '2020-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-03.07.2020/fw_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/toco/fw_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V11.0.10.0.QFNEUXM_bbed176029_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.10.0.QFNEUXM
+- branch: stable
+  date: '2021-09-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-02.09.2021/fw_toco_miui_TOCOGlobal_V12.5.2.0.RFNMIXM_f206c2b736_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/toco/fw_toco_miui_TOCOGlobal_V12.5.2.0.RFNMIXM_f206c2b736_11.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V12.5.2.0.RFNMIXM_f206c2b736_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RFNMIXM

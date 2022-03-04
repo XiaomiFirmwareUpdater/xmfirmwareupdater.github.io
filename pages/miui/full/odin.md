@@ -52,7 +52,9 @@ permalink: /archive/miui/odin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>22.2.23</td><td>12.0</td><td>5.5 GB</td><td>2022-02-24</td><td><a href="/miui/odin/weekly/22.2.23/">Download</a></td></tr>
+                <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.13.DEV</td><td>12.0</td><td>5.3 GB</td><td>2022-03-04</td><td><a href="/miui/odin/public beta/V13.0.4.1.13.DEV/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>22.3.3</td><td>12.0</td><td>5.5 GB</td><td>2022-03-03</td><td><a href="/miui/odin/weekly/22.3.3/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>22.2.23</td><td>12.0</td><td>5.5 GB</td><td>2022-02-24</td><td><a href="/miui/odin/weekly/22.2.23/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>22.2.17</td><td>12.0</td><td>5.4 GB</td><td>2022-02-17</td><td><a href="/miui/odin/weekly/22.2.17/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>5.4 GB</td><td>2022-02-10</td><td><a href="/miui/odin/weekly/22.2.9/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKMCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-01-27</td><td><a href="/miui/odin/stable/V13.0.4.0.SKMCNXM/">Download</a></td></tr>

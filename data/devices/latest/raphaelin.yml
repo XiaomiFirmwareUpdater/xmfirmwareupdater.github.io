@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2021-07-15'
+  date: '2021-06-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphaelin/releases/download/stable-15.07.2021/fw_raphaelin_miui_RAPHAELININGlobal_V12.5.1.0.RFKINXM_0bfe71d0cd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphaelin/fw_raphaelin_miui_RAPHAELININGlobal_V12.5.1.0.RFKINXM_0bfe71d0cd_11.0.zip
-  filename: fw_raphaelin_miui_RAPHAELININGlobal_V12.5.1.0.RFKINXM_0bfe71d0cd_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_raphaelin/releases/download/stable-30.06.2021/fw_raphaelin_miui_RAPHAELININGlobal_V12.0.6.0.QFKINXM_c939fa4668_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/raphaelin/fw_raphaelin_miui_RAPHAELININGlobal_V12.0.6.0.QFKINXM_c939fa4668_10.0.zip
+  filename: fw_raphaelin_miui_RAPHAELININGlobal_V12.0.6.0.QFKINXM_c939fa4668_10.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V12.5.1.0.RFKINXM
+    android: '10.0'
+    miui: V12.0.6.0.QFKINXM

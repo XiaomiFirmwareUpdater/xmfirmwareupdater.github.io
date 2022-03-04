@@ -10,6 +10,39 @@
     android: '10.0'
     miui: V11.0.2.0.QJZTRXM
 - branch: stable
+  date: '2020-04-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip/download
+  filename: fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip
+  region: Russia
+  size: 1.1 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QJZRUXM
+- branch: stable
+  date: '2020-05-27'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.2.0.QJZRUXM_46f8d51604_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.2.0.QJZRUXM_46f8d51604_10.0.zip/download
+  filename: fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.2.0.QJZRUXM_46f8d51604_10.0.zip
+  region: Russia
+  size: 1.2 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QJZRUXM
+- branch: stable
+  date: '2020-07-22'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.3.0.QJZRUXM_851f8c5565_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.3.0.QJZRUXM_851f8c5565_10.0.zip/download
+  filename: fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.3.0.QJZRUXM_851f8c5565_10.0.zip
+  region: Russia
+  size: 1.2 GB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QJZRUXM
+- branch: stable
   date: '2020-05-08'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_id_global-stable/fw-vendor_joyeuse_miui_JOYEUSEIDGlobal_V11.0.1.0.QJZIDXM_79a74fb900_10.0.zip
@@ -75,39 +108,6 @@
   versions:
     android: '10.0'
     miui: V11.0.7.0.QJZMIXM
-- branch: stable
-  date: '2020-04-30'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip/download
-  filename: fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.1.0.QJZRUXM_4090525ef8_10.0.zip
-  region: Russia
-  size: 1.1 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.1.0.QJZRUXM
-- branch: stable
-  date: '2020-05-27'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.2.0.QJZRUXM_46f8d51604_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.2.0.QJZRUXM_46f8d51604_10.0.zip/download
-  filename: fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.2.0.QJZRUXM_46f8d51604_10.0.zip
-  region: Russia
-  size: 1.2 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.2.0.QJZRUXM
-- branch: stable
-  date: '2020-07-22'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.3.0.QJZRUXM_851f8c5565_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/joyeuse_ru_global-stable/fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.3.0.QJZRUXM_851f8c5565_10.0.zip/download
-  filename: fw-vendor_joyeuse_miui_JOYEUSERUGlobal_V11.0.3.0.QJZRUXM_851f8c5565_10.0.zip
-  region: Russia
-  size: 1.2 GB
-  versions:
-    android: '10.0'
-    miui: V11.0.3.0.QJZRUXM
 - branch: stable
   date: '2020-04-30'
   downloads:

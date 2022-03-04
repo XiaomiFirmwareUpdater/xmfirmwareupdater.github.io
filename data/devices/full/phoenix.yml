@@ -1,254 +1,4 @@
 - branch: weekly
-  date: '2022-02-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-25.02.2022/fw_phoenix_miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/phoenix/fw_phoenix_miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip
-  filename: fw_phoenix_miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.23
-- branch: weekly
-  date: '2022-02-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-18.02.2022/fw_phoenix_miui_PHOENIXPRE_22.2.17_13f03afdb4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/phoenix/fw_phoenix_miui_PHOENIXPRE_22.2.17_13f03afdb4_12.0.zip
-  filename: fw_phoenix_miui_PHOENIXPRE_22.2.17_13f03afdb4_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.17
-- branch: weekly
-  date: '2022-02-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-14.02.2022/fw_phoenix_miui_PHOENIXPRE_22.2.9_0e7a29a4f4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/phoenix/fw_phoenix_miui_PHOENIXPRE_22.2.9_0e7a29a4f4_12.0.zip
-  filename: fw_phoenix_miui_PHOENIXPRE_22.2.9_0e7a29a4f4_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.9
-- branch: weekly
-  date: '2022-01-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-21.01.2022/fw_phoenix_miui_PHOENIXPRE_22.1.19_2a8f9e43bb_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/phoenix/fw_phoenix_miui_PHOENIXPRE_22.1.19_2a8f9e43bb_12.0.zip
-  filename: fw_phoenix_miui_PHOENIXPRE_22.1.19_2a8f9e43bb_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.1.19
-- branch: stable
-  date: '2022-01-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-18.01.2022/fw_phoenix_miui_PHOENIX_V12.5.6.0.RGHCNXM_09026c6794_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.6.0.RGHCNXM_09026c6794_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V12.5.6.0.RGHCNXM_09026c6794_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RGHCNXM
-- branch: weekly
-  date: '2022-01-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-14.01.2022/fw_phoenix_miui_PHOENIXPRE_22.1.13_5e96bbd1f4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.13/phoenix/fw_phoenix_miui_PHOENIXPRE_22.1.13_5e96bbd1f4_12.0.zip
-  filename: fw_phoenix_miui_PHOENIXPRE_22.1.13_5e96bbd1f4_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.1.13
-- branch: weekly
-  date: '2021-12-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-04.12.2021/fw_phoenix_miui_PHOENIX_21.12.1_e534d713c8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/phoenix/fw_phoenix_miui_PHOENIX_21.12.1_e534d713c8_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.12.1_e534d713c8_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.12.1
-- branch: weekly
-  date: '2021-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-19.11.2021/fw_phoenix_miui_PHOENIX_21.11.17_07957eaaf0_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/phoenix/fw_phoenix_miui_PHOENIX_21.11.17_07957eaaf0_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.11.17_07957eaaf0_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.17
-- branch: stable
-  date: '2021-11-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-08.11.2021/fw_phoenix_miui_PHOENIX_V12.5.5.0.RGHCNXM_deddb68948_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.5.0.RGHCNXM_deddb68948_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V12.5.5.0.RGHCNXM_deddb68948_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RGHCNXM
-- branch: stable
-  date: '2021-10-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-11.10.2021/fw_phoenix_miui_PHOENIX_V12.5.3.0.RGHCNXM_b1742986e8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.3.0.RGHCNXM_b1742986e8_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V12.5.3.0.RGHCNXM_b1742986e8_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.3.0.RGHCNXM
-- branch: weekly
-  date: '2021-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-03.09.2021/fw_phoenix_miui_PHOENIX_21.9.1_110535cdc6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.1/phoenix/fw_phoenix_miui_PHOENIX_21.9.1_110535cdc6_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.9.1_110535cdc6_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.1
-- branch: stable
-  date: '2021-08-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-12.08.2021/fw_phoenix_miui_PHOENIX_V12.5.2.0.RGHCNXM_bab92c514b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.2.0.RGHCNXM_bab92c514b_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V12.5.2.0.RGHCNXM_bab92c514b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RGHCNXM
-- branch: weekly
-  date: '2021-07-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-22.07.2021/fw_phoenix_miui_PHOENIX_21.7.21_e2dc8abda0_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/phoenix/fw_phoenix_miui_PHOENIX_21.7.21_e2dc8abda0_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.7.21_e2dc8abda0_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.21
-- branch: stable
-  date: '2021-06-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-20.06.2021/fw_phoenix_miui_PHOENIX_V12.5.1.0.RGHCNXM_1012431ee6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.1.0.RGHCNXM_1012431ee6_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V12.5.1.0.RGHCNXM_1012431ee6_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.1.0.RGHCNXM
-- branch: weekly
-  date: '2021-06-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-10.06.2021/fw_phoenix_miui_PHOENIX_21.6.9_46c9fd4462_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.9/phoenix/fw_phoenix_miui_PHOENIX_21.6.9_46c9fd4462_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.6.9_46c9fd4462_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.9
-- branch: weekly
-  date: '2021-06-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-03.06.2021/fw_phoenix_miui_PHOENIX_21.6.2_d3d8085a3e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/phoenix/fw_phoenix_miui_PHOENIX_21.6.2_d3d8085a3e_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.6.2_d3d8085a3e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.2
-- branch: weekly
-  date: '2021-04-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-22.04.2021/fw_phoenix_miui_PHOENIX_21.4.21_2b1f57df9e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/phoenix/fw_phoenix_miui_PHOENIX_21.4.21_2b1f57df9e_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.4.21_2b1f57df9e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.21
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-01.04.2021/fw_phoenix_miui_PHOENIX_21.4.1_d9c81922e5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.1/phoenix/fw_phoenix_miui_PHOENIX_21.4.1_d9c81922e5_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.4.1_d9c81922e5_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.1
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-05.03.2021/fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/phoenix/fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.3
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-26.02.2021/fw_phoenix_miui_PHOENIX_V12.1.4.0.RGHCNXM_50b24a41b2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.1.4.0.RGHCNXM_50b24a41b2_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V12.1.4.0.RGHCNXM_50b24a41b2_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.1.4.0.RGHCNXM
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-26.02.2021/fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/phoenix/fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.2.24
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-30.01.2021/fw_phoenix_miui_PHOENIX_21.1.28_ee93c19ded_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/phoenix/fw_phoenix_miui_PHOENIX_21.1.28_ee93c19ded_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.1.28_ee93c19ded_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.28
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-23.01.2021/fw_phoenix_miui_PHOENIX_21.1.20_e1a759a35e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/phoenix/fw_phoenix_miui_PHOENIX_21.1.20_e1a759a35e_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.1.20_e1a759a35e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.20
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-15.01.2021/fw_phoenix_miui_PHOENIX_21.1.14_149e9a344b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.14/phoenix/fw_phoenix_miui_PHOENIX_21.1.14_149e9a344b_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.1.14_149e9a344b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.14
-- branch: weekly
-  date: '2021-01-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-08.01.2021/fw_phoenix_miui_PHOENIX_21.1.6_8ddd56c84d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/phoenix/fw_phoenix_miui_PHOENIX_21.1.6_8ddd56c84d_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_21.1.6_8ddd56c84d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.1.6
-- branch: weekly
   date: '2020-12-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-31.12.2020/fw_phoenix_miui_PHOENIX_20.12.28_7903bf9d11_11.0.zip
@@ -258,66 +8,6 @@
   versions:
     android: '11.0'
     miui: 20.12.28
-- branch: weekly
-  date: '2020-12-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-10.12.2020/fw_phoenix_miui_PHOENIX_20.12.10_d2cf5f731c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.10/phoenix/fw_phoenix_miui_PHOENIX_20.12.10_d2cf5f731c_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.12.10_d2cf5f731c_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.12.10
-- branch: weekly
-  date: '2020-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-03.12.2020/fw_phoenix_miui_PHOENIX_20.12.2_8d4c255753_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/phoenix/fw_phoenix_miui_PHOENIX_20.12.2_8d4c255753_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.12.2_8d4c255753_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.12.2
-- branch: weekly
-  date: '2020-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-26.11.2020/fw_phoenix_miui_PHOENIX_20.11.25_44877b0737_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/phoenix/fw_phoenix_miui_PHOENIX_20.11.25_44877b0737_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.11.25_44877b0737_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.25
-- branch: weekly
-  date: '2020-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-19.11.2020/fw_phoenix_miui_PHOENIX_20.11.18_99953bdacd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/phoenix/fw_phoenix_miui_PHOENIX_20.11.18_99953bdacd_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.11.18_99953bdacd_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.18
-- branch: weekly
-  date: '2020-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-12.11.2020/fw_phoenix_miui_PHOENIX_20.11.12_b8e54a27fc_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/phoenix/fw_phoenix_miui_PHOENIX_20.11.12_b8e54a27fc_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.11.12_b8e54a27fc_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.12
-- branch: weekly
-  date: '2020-11-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-06.11.2020/fw_phoenix_miui_PHOENIX_20.11.5_3f8a2fe17d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/phoenix/fw_phoenix_miui_PHOENIX_20.11.5_3f8a2fe17d_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.11.5_3f8a2fe17d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.11.5
 - branch: weekly
   date: '2020-10-31'
   downloads:
@@ -329,66 +19,6 @@
     android: '11.0'
     miui: 20.10.30
 - branch: weekly
-  date: '2020-10-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-22.10.2020/fw_phoenix_miui_PHOENIX_20.10.22_6de2eb2815_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/phoenix/fw_phoenix_miui_PHOENIX_20.10.22_6de2eb2815_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.10.22_6de2eb2815_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.10.22
-- branch: stable
-  date: '2020-10-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-15.10.2020/fw_phoenix_miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.5.0.QGHCNXM
-- branch: weekly
-  date: '2020-09-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-17.09.2020/fw_phoenix_miui_PHOENIX_20.9.17_199c04a662_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/phoenix/fw_phoenix_miui_PHOENIX_20.9.17_199c04a662_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.9.17_199c04a662_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.17
-- branch: weekly
-  date: '2020-09-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-10.09.2020/fw_phoenix_miui_PHOENIX_20.9.10_e1a54b5914_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.10/phoenix/fw_phoenix_miui_PHOENIX_20.9.10_e1a54b5914_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.9.10_e1a54b5914_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.10
-- branch: weekly
-  date: '2020-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-03.09.2020/fw_phoenix_miui_PHOENIX_20.9.3_cf0b9e25cc_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.3/phoenix/fw_phoenix_miui_PHOENIX_20.9.3_cf0b9e25cc_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.9.3_cf0b9e25cc_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.3
-- branch: stable
-  date: '2020-08-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-04.08.2020/fw_phoenix_miui_PHOENIX_V12.0.4.0.QGHCNXM_62e7532646_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.0.4.0.QGHCNXM_62e7532646_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V12.0.4.0.QGHCNXM_62e7532646_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.4.0.QGHCNXM
-- branch: weekly
   date: '2020-07-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-30.07.2020/fw_phoenix_miui_PHOENIX_20.7.30_895e554160_10.0.zip
@@ -399,55 +29,15 @@
     android: '10.0'
     miui: 20.7.30
 - branch: weekly
-  date: '2020-07-23'
+  date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-23.07.2020/fw_phoenix_miui_PHOENIX_20.7.23_ac9cbef09f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/phoenix/fw_phoenix_miui_PHOENIX_20.7.23_ac9cbef09f_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.7.23_ac9cbef09f_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-30.01.2021/fw_phoenix_miui_PHOENIX_21.1.28_ee93c19ded_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.28/phoenix/fw_phoenix_miui_PHOENIX_21.1.28_ee93c19ded_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.1.28_ee93c19ded_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: 20.7.23
-- branch: weekly
-  date: '2020-07-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-16.07.2020/fw_phoenix_miui_PHOENIX_20.7.16_2bc95cfebb_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/phoenix/fw_phoenix_miui_PHOENIX_20.7.16_2bc95cfebb_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.7.16_2bc95cfebb_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.16
-- branch: weekly
-  date: '2020-07-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-09.07.2020/fw_phoenix_miui_PHOENIX_20.7.9_3fdc5dcf0b_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/phoenix/fw_phoenix_miui_PHOENIX_20.7.9_3fdc5dcf0b_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.7.9_3fdc5dcf0b_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.9
-- branch: stable
-  date: '2020-06-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-25.06.2020/fw_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.3.0.QGHCNXM
-- branch: weekly
-  date: '2020-06-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-11.06.2020/fw_phoenix_miui_PHOENIX_20.6.11_1c6628de30_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/phoenix/fw_phoenix_miui_PHOENIX_20.6.11_1c6628de30_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.6.11_1c6628de30_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.6.11
+    android: '11.0'
+    miui: 21.1.28
 - branch: weekly
   date: '2020-05-28'
   downloads:
@@ -459,25 +49,15 @@
     android: '10.0'
     miui: 20.5.28
 - branch: weekly
-  date: '2020-05-21'
+  date: '2019-12-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-21.05.2020/fw_phoenix_miui_PHOENIX_20.5.21_1912be2069_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/phoenix/fw_phoenix_miui_PHOENIX_20.5.21_1912be2069_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.5.21_1912be2069_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-27.12.2019/fw_phoenix_miui_PHOENIX_9.12.26_987a711bc4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/phoenix/fw_phoenix_miui_PHOENIX_9.12.26_987a711bc4_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_9.12.26_987a711bc4_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.5.21
-- branch: weekly
-  date: '2020-05-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-08.05.2020/fw_phoenix_miui_PHOENIX_20.5.7_e20d64f7b4_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/phoenix/fw_phoenix_miui_PHOENIX_20.5.7_e20d64f7b4_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.5.7_e20d64f7b4_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.5.7
+    miui: 9.12.26
 - branch: weekly
   date: '2020-04-27'
   downloads:
@@ -488,16 +68,16 @@
   versions:
     android: '10.0'
     miui: 20.4.27
-- branch: stable
-  date: '2020-04-21'
+- branch: weekly
+  date: '2020-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-21.04.2020/fw_phoenix_miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenix/fw_phoenix_miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-26.11.2020/fw_phoenix_miui_PHOENIX_20.11.25_44877b0737_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.25/phoenix/fw_phoenix_miui_PHOENIX_20.11.25_44877b0737_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.11.25_44877b0737_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V11.0.15.0.QGHCNXM
+    android: '11.0'
+    miui: 20.11.25
 - branch: weekly
   date: '2020-03-26'
   downloads:
@@ -509,35 +89,95 @@
     android: '10.0'
     miui: 20.3.26
 - branch: weekly
-  date: '2020-03-19'
+  date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-19.03.2020/fw_phoenix_miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/phoenix/fw_phoenix_miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-26.02.2021/fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/phoenix/fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.2.24_ee0f812640_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: 20.3.19
+    android: '11.0'
+    miui: 21.2.24
 - branch: weekly
-  date: '2020-03-12'
+  date: '2022-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-12.03.2020/fw_phoenix_miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/phoenix/fw_phoenix_miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-25.02.2022/fw_phoenix_miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/phoenix/fw_phoenix_miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip
+  filename: fw_phoenix_miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: 20.3.12
+    android: '12.0'
+    miui: 22.2.23
 - branch: weekly
-  date: '2020-03-06'
+  date: '2020-07-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-06.03.2020/fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/phoenix/fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-23.07.2020/fw_phoenix_miui_PHOENIX_20.7.23_ac9cbef09f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.23/phoenix/fw_phoenix_miui_PHOENIX_20.7.23_ac9cbef09f_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.7.23_ac9cbef09f_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.3.5
+    miui: 20.7.23
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-23.01.2021/fw_phoenix_miui_PHOENIX_21.1.20_e1a759a35e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/phoenix/fw_phoenix_miui_PHOENIX_21.1.20_e1a759a35e_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.1.20_e1a759a35e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.20
+- branch: weekly
+  date: '2020-10-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-22.10.2020/fw_phoenix_miui_PHOENIX_20.10.22_6de2eb2815_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/phoenix/fw_phoenix_miui_PHOENIX_20.10.22_6de2eb2815_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.10.22_6de2eb2815_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.10.22
+- branch: weekly
+  date: '2021-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-22.07.2021/fw_phoenix_miui_PHOENIX_21.7.21_e2dc8abda0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/phoenix/fw_phoenix_miui_PHOENIX_21.7.21_e2dc8abda0_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.7.21_e2dc8abda0_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.21
+- branch: weekly
+  date: '2021-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-22.04.2021/fw_phoenix_miui_PHOENIX_21.4.21_2b1f57df9e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/phoenix/fw_phoenix_miui_PHOENIX_21.4.21_2b1f57df9e_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.4.21_2b1f57df9e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.21
+- branch: weekly
+  date: '2020-05-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-21.05.2020/fw_phoenix_miui_PHOENIX_20.5.21_1912be2069_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.21/phoenix/fw_phoenix_miui_PHOENIX_20.5.21_1912be2069_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.5.21_1912be2069_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.5.21
+- branch: weekly
+  date: '2022-01-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-21.01.2022/fw_phoenix_miui_PHOENIXPRE_22.1.19_2a8f9e43bb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/phoenix/fw_phoenix_miui_PHOENIXPRE_22.1.19_2a8f9e43bb_12.0.zip
+  filename: fw_phoenix_miui_PHOENIXPRE_22.1.19_2a8f9e43bb_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.1.19
 - branch: weekly
   date: '2020-02-20'
   downloads:
@@ -548,36 +188,56 @@
   versions:
     android: '10.0'
     miui: 20.2.20
-- branch: stable
-  date: '2020-02-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-20.02.2020/fw_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenix/fw_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.13.0.QGHCNXM
 - branch: weekly
-  date: '2020-02-08'
+  date: '2021-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-08.02.2020/fw_phoenix_miui_PHOENIX_20.1.21_724ef91eca_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/phoenix/fw_phoenix_miui_PHOENIX_20.1.21_724ef91eca_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.1.21_724ef91eca_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-19.11.2021/fw_phoenix_miui_PHOENIX_21.11.17_07957eaaf0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/phoenix/fw_phoenix_miui_PHOENIX_21.11.17_07957eaaf0_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.11.17_07957eaaf0_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.17
+- branch: weekly
+  date: '2020-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-19.11.2020/fw_phoenix_miui_PHOENIX_20.11.18_99953bdacd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.18/phoenix/fw_phoenix_miui_PHOENIX_20.11.18_99953bdacd_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.11.18_99953bdacd_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.18
+- branch: weekly
+  date: '2020-03-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-19.03.2020/fw_phoenix_miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.19/phoenix/fw_phoenix_miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.3.19_0b64fcf9af_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.1.21
-- branch: stable
-  date: '2020-02-03'
+    miui: 20.3.19
+- branch: weekly
+  date: '2022-02-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-03.02.2020/fw_phoenix_miui_PHOENIX_V11.0.10.0.QGHCNXM_2e488a8637_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenix/fw_phoenix_miui_PHOENIX_V11.0.10.0.QGHCNXM_2e488a8637_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V11.0.10.0.QGHCNXM_2e488a8637_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-18.02.2022/fw_phoenix_miui_PHOENIXPRE_22.2.17_13f03afdb4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/phoenix/fw_phoenix_miui_PHOENIXPRE_22.2.17_13f03afdb4_12.0.zip
+  filename: fw_phoenix_miui_PHOENIXPRE_22.2.17_13f03afdb4_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.17
+- branch: weekly
+  date: '2020-09-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-17.09.2020/fw_phoenix_miui_PHOENIX_20.9.17_199c04a662_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/phoenix/fw_phoenix_miui_PHOENIX_20.9.17_199c04a662_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.9.17_199c04a662_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V11.0.10.0.QGHCNXM
+    miui: 20.9.17
 - branch: weekly
   date: '2020-01-17'
   downloads:
@@ -589,6 +249,116 @@
     android: '10.0'
     miui: 20.1.16
 - branch: weekly
+  date: '2020-07-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-16.07.2020/fw_phoenix_miui_PHOENIX_20.7.16_2bc95cfebb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/phoenix/fw_phoenix_miui_PHOENIX_20.7.16_2bc95cfebb_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.7.16_2bc95cfebb_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.16
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-15.01.2021/fw_phoenix_miui_PHOENIX_21.1.14_149e9a344b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.14/phoenix/fw_phoenix_miui_PHOENIX_21.1.14_149e9a344b_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.1.14_149e9a344b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.14
+- branch: weekly
+  date: '2022-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-14.02.2022/fw_phoenix_miui_PHOENIXPRE_22.2.9_0e7a29a4f4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/phoenix/fw_phoenix_miui_PHOENIXPRE_22.2.9_0e7a29a4f4_12.0.zip
+  filename: fw_phoenix_miui_PHOENIXPRE_22.2.9_0e7a29a4f4_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.9
+- branch: weekly
+  date: '2022-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-14.01.2022/fw_phoenix_miui_PHOENIXPRE_22.1.13_5e96bbd1f4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.13/phoenix/fw_phoenix_miui_PHOENIXPRE_22.1.13_5e96bbd1f4_12.0.zip
+  filename: fw_phoenix_miui_PHOENIXPRE_22.1.13_5e96bbd1f4_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.1.13
+- branch: weekly
+  date: '2020-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-12.11.2020/fw_phoenix_miui_PHOENIX_20.11.12_b8e54a27fc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.12/phoenix/fw_phoenix_miui_PHOENIX_20.11.12_b8e54a27fc_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.11.12_b8e54a27fc_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.12
+- branch: weekly
+  date: '2020-03-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-12.03.2020/fw_phoenix_miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.12/phoenix/fw_phoenix_miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.3.12_92ce6d32bd_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.12
+- branch: weekly
+  date: '2020-06-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-11.06.2020/fw_phoenix_miui_PHOENIX_20.6.11_1c6628de30_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.6.11/phoenix/fw_phoenix_miui_PHOENIX_20.6.11_1c6628de30_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.6.11_1c6628de30_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.6.11
+- branch: weekly
+  date: '2020-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-10.12.2020/fw_phoenix_miui_PHOENIX_20.12.10_d2cf5f731c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.10/phoenix/fw_phoenix_miui_PHOENIX_20.12.10_d2cf5f731c_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.12.10_d2cf5f731c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.12.10
+- branch: weekly
+  date: '2020-09-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-10.09.2020/fw_phoenix_miui_PHOENIX_20.9.10_e1a54b5914_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.10/phoenix/fw_phoenix_miui_PHOENIX_20.9.10_e1a54b5914_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.9.10_e1a54b5914_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.9.10
+- branch: weekly
+  date: '2021-06-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-10.06.2021/fw_phoenix_miui_PHOENIX_21.6.9_46c9fd4462_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.9/phoenix/fw_phoenix_miui_PHOENIX_21.6.9_46c9fd4462_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.6.9_46c9fd4462_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.9
+- branch: weekly
+  date: '2020-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-09.07.2020/fw_phoenix_miui_PHOENIX_20.7.9_3fdc5dcf0b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.9/phoenix/fw_phoenix_miui_PHOENIX_20.7.9_3fdc5dcf0b_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.7.9_3fdc5dcf0b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.9
+- branch: weekly
   date: '2020-01-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-09.01.2020/fw_phoenix_miui_PHOENIX_20.1.9_85947a0171_10.0.zip
@@ -599,15 +369,135 @@
     android: '10.0'
     miui: 20.1.9
 - branch: weekly
-  date: '2019-12-27'
+  date: '2020-05-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-27.12.2019/fw_phoenix_miui_PHOENIX_9.12.26_987a711bc4_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.26/phoenix/fw_phoenix_miui_PHOENIX_9.12.26_987a711bc4_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_9.12.26_987a711bc4_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-08.05.2020/fw_phoenix_miui_PHOENIX_20.5.7_e20d64f7b4_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.5.7/phoenix/fw_phoenix_miui_PHOENIX_20.5.7_e20d64f7b4_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.5.7_e20d64f7b4_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 9.12.26
+    miui: 20.5.7
+- branch: weekly
+  date: '2020-02-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-08.02.2020/fw_phoenix_miui_PHOENIX_20.1.21_724ef91eca_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.1.21/phoenix/fw_phoenix_miui_PHOENIX_20.1.21_724ef91eca_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.1.21_724ef91eca_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.1.21
+- branch: weekly
+  date: '2021-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-08.01.2021/fw_phoenix_miui_PHOENIX_21.1.6_8ddd56c84d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.6/phoenix/fw_phoenix_miui_PHOENIX_21.1.6_8ddd56c84d_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.1.6_8ddd56c84d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.1.6
+- branch: weekly
+  date: '2020-11-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-06.11.2020/fw_phoenix_miui_PHOENIX_20.11.5_3f8a2fe17d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/phoenix/fw_phoenix_miui_PHOENIX_20.11.5_3f8a2fe17d_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.11.5_3f8a2fe17d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.5
+- branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-06.03.2020/fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/phoenix/fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.3.5_e6b985bc51_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-05.03.2021/fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/phoenix/fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.3.3_26060bff64_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.3
+- branch: weekly
+  date: '2021-12-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-04.12.2021/fw_phoenix_miui_PHOENIX_21.12.1_e534d713c8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/phoenix/fw_phoenix_miui_PHOENIX_21.12.1_e534d713c8_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.12.1_e534d713c8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.1
+- branch: weekly
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-04.03.2022/fw_phoenix_miui_PHOENIXPRE_22.3.3_17cef8f9c3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.3/phoenix/fw_phoenix_miui_PHOENIXPRE_22.3.3_17cef8f9c3_12.0.zip
+  filename: fw_phoenix_miui_PHOENIXPRE_22.3.3_17cef8f9c3_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.3
+- branch: weekly
+  date: '2020-12-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-03.12.2020/fw_phoenix_miui_PHOENIX_20.12.2_8d4c255753_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.2/phoenix/fw_phoenix_miui_PHOENIX_20.12.2_8d4c255753_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.12.2_8d4c255753_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.12.2
+- branch: weekly
+  date: '2021-09-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-03.09.2021/fw_phoenix_miui_PHOENIX_21.9.1_110535cdc6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.1/phoenix/fw_phoenix_miui_PHOENIX_21.9.1_110535cdc6_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.9.1_110535cdc6_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.1
+- branch: weekly
+  date: '2020-09-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-03.09.2020/fw_phoenix_miui_PHOENIX_20.9.3_cf0b9e25cc_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.3/phoenix/fw_phoenix_miui_PHOENIX_20.9.3_cf0b9e25cc_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_20.9.3_cf0b9e25cc_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.9.3
+- branch: weekly
+  date: '2021-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-03.06.2021/fw_phoenix_miui_PHOENIX_21.6.2_d3d8085a3e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/phoenix/fw_phoenix_miui_PHOENIX_21.6.2_d3d8085a3e_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.6.2_d3d8085a3e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.2
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-01.04.2021/fw_phoenix_miui_PHOENIX_21.4.1_d9c81922e5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.1/phoenix/fw_phoenix_miui_PHOENIX_21.4.1_d9c81922e5_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_21.4.1_d9c81922e5_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.1
 - branch: stable
   date: '2019-12-26'
   downloads:
@@ -619,6 +509,76 @@
     android: '10.0'
     miui: V11.0.9.0.QGHCNXM
 - branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-26.02.2021/fw_phoenix_miui_PHOENIX_V12.1.4.0.RGHCNXM_50b24a41b2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.1.4.0.RGHCNXM_50b24a41b2_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.1.4.0.RGHCNXM_50b24a41b2_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.1.4.0.RGHCNXM
+- branch: stable
+  date: '2020-06-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-25.06.2020/fw_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.0.3.0.QGHCNXM_4814c5bed0_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QGHCNXM
+- branch: stable
+  date: '2020-04-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-21.04.2020/fw_phoenix_miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenix/fw_phoenix_miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V11.0.15.0.QGHCNXM_b64a45d83d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.15.0.QGHCNXM
+- branch: stable
+  date: '2021-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-20.06.2021/fw_phoenix_miui_PHOENIX_V12.5.1.0.RGHCNXM_1012431ee6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.1.0.RGHCNXM_1012431ee6_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.5.1.0.RGHCNXM_1012431ee6_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RGHCNXM
+- branch: stable
+  date: '2020-02-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-20.02.2020/fw_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenix/fw_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V11.0.13.0.QGHCNXM_a4b9759884_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.13.0.QGHCNXM
+- branch: stable
+  date: '2022-01-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-18.01.2022/fw_phoenix_miui_PHOENIX_V12.5.6.0.RGHCNXM_09026c6794_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.6.0.RGHCNXM_09026c6794_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.5.6.0.RGHCNXM_09026c6794_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RGHCNXM
+- branch: stable
+  date: '2020-10-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-15.10.2020/fw_phoenix_miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.0.5.0.QGHCNXM_fc51e1211b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QGHCNXM
+- branch: stable
   date: '2019-12-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-12.12.2019/fw_phoenix_miui_PHOENIX_V11.0.5.0.QGHCNXM_f3161c36f5_10.0.zip
@@ -628,3 +588,53 @@
   versions:
     android: '10.0'
     miui: V11.0.5.0.QGHCNXM
+- branch: stable
+  date: '2021-08-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-12.08.2021/fw_phoenix_miui_PHOENIX_V12.5.2.0.RGHCNXM_bab92c514b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.2.0.RGHCNXM_bab92c514b_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.5.2.0.RGHCNXM_bab92c514b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RGHCNXM
+- branch: stable
+  date: '2021-10-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-11.10.2021/fw_phoenix_miui_PHOENIX_V12.5.3.0.RGHCNXM_b1742986e8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.3.0.RGHCNXM_b1742986e8_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.5.3.0.RGHCNXM_b1742986e8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RGHCNXM
+- branch: stable
+  date: '2021-11-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-08.11.2021/fw_phoenix_miui_PHOENIX_V12.5.5.0.RGHCNXM_deddb68948_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.5.0.RGHCNXM_deddb68948_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.5.5.0.RGHCNXM_deddb68948_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RGHCNXM
+- branch: stable
+  date: '2020-08-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-04.08.2020/fw_phoenix_miui_PHOENIX_V12.0.4.0.QGHCNXM_62e7532646_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.0.4.0.QGHCNXM_62e7532646_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.0.4.0.QGHCNXM_62e7532646_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.4.0.QGHCNXM
+- branch: stable
+  date: '2020-02-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-03.02.2020/fw_phoenix_miui_PHOENIX_V11.0.10.0.QGHCNXM_2e488a8637_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenix/fw_phoenix_miui_PHOENIX_V11.0.10.0.QGHCNXM_2e488a8637_10.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V11.0.10.0.QGHCNXM_2e488a8637_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V11.0.10.0.QGHCNXM

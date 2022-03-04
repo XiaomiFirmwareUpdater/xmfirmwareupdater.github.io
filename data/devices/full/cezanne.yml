@@ -1,73 +1,23 @@
 - branch: weekly
-  date: '2022-02-25'
+  date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-25.02.2022/fw_cezanne_miui_CEZANNE_22.2.23_6c435668e7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/cezanne/fw_cezanne_miui_CEZANNE_22.2.23_6c435668e7_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_22.2.23_6c435668e7_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-31.12.2020/fw_cezanne_miui_CEZANNE_20.12.28_9ba0fcc829_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.28/cezanne/fw_cezanne_miui_CEZANNE_20.12.28_9ba0fcc829_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.12.28_9ba0fcc829_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 22.2.23
+    miui: 20.12.28
 - branch: weekly
-  date: '2022-02-18'
+  date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-18.02.2022/fw_cezanne_miui_CEZANNE_22.2.17_106edbe449_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/cezanne/fw_cezanne_miui_CEZANNE_22.2.17_106edbe449_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_22.2.17_106edbe449_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-31.10.2020/fw_cezanne_miui_CEZANNE_20.10.30_69e12e1a58_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.30/cezanne/fw_cezanne_miui_CEZANNE_20.10.30_69e12e1a58_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.10.30_69e12e1a58_10.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: 22.2.17
-- branch: weekly
-  date: '2021-12-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-10.12.2021/fw_cezanne_miui_CEZANNE_21.12.8_e72219465b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/cezanne/fw_cezanne_miui_CEZANNE_21.12.8_e72219465b_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.12.8_e72219465b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.12.8
-- branch: weekly
-  date: '2021-11-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-19.11.2021/fw_cezanne_miui_CEZANNE_21.11.17_2d2d409df8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/cezanne/fw_cezanne_miui_CEZANNE_21.11.17_2d2d409df8_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.11.17_2d2d409df8_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.17
-- branch: weekly
-  date: '2021-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-12.11.2021/fw_cezanne_miui_CEZANNE_21.11.10_bd695e2cba_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.10/cezanne/fw_cezanne_miui_CEZANNE_21.11.10_bd695e2cba_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.11.10_bd695e2cba_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.10
-- branch: weekly
-  date: '2021-11-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-05.11.2021/fw_cezanne_miui_CEZANNE_21.11.3_20a3ff2169_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.3/cezanne/fw_cezanne_miui_CEZANNE_21.11.3_20a3ff2169_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.11.3_20a3ff2169_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.3
-- branch: stable
-  date: '2021-11-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-05.11.2021/fw_cezanne_miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.7.0.RJNCNXM
+    android: '10.0'
+    miui: 20.10.30
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -79,55 +29,15 @@
     android: '11.0'
     miui: 21.10.28
 - branch: weekly
-  date: '2021-10-02'
+  date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-02.10.2021/fw_cezanne_miui_CEZANNE_21.9.28_5c1e37231e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.28/cezanne/fw_cezanne_miui_CEZANNE_21.9.28_5c1e37231e_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.9.28_5c1e37231e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-29.10.2020/fw_cezanne_miui_CEZANNE_20.10.29_7e710a4f6d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.29/cezanne/fw_cezanne_miui_CEZANNE_20.10.29_7e710a4f6d_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.10.29_7e710a4f6d_10.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: 21.9.28
-- branch: weekly
-  date: '2021-09-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-09.09.2021/fw_cezanne_miui_CEZANNE_21.9.8_9e3d54e9b1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.8/cezanne/fw_cezanne_miui_CEZANNE_21.9.8_9e3d54e9b1_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.9.8_9e3d54e9b1_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.8
-- branch: weekly
-  date: '2021-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-03.09.2021/fw_cezanne_miui_CEZANNE_21.9.2_ae0eae1724_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.2/cezanne/fw_cezanne_miui_CEZANNE_21.9.2_ae0eae1724_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.9.2_ae0eae1724_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.2
-- branch: weekly
-  date: '2021-08-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-19.08.2021/fw_cezanne_miui_CEZANNE_21.8.18_ec5499389b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/cezanne/fw_cezanne_miui_CEZANNE_21.8.18_ec5499389b_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.8.18_ec5499389b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.18
-- branch: weekly
-  date: '2021-08-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-05.08.2021/fw_cezanne_miui_CEZANNE_21.8.4_8fb572921e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.4/cezanne/fw_cezanne_miui_CEZANNE_21.8.4_8fb572921e_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.8.4_8fb572921e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.4
+    android: '10.0'
+    miui: 20.10.29
 - branch: weekly
   date: '2021-07-29'
   downloads:
@@ -139,136 +49,6 @@
     android: '11.0'
     miui: 21.7.28
 - branch: weekly
-  date: '2021-07-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-22.07.2021/fw_cezanne_miui_CEZANNE_21.7.21_a8d4a87b04_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/cezanne/fw_cezanne_miui_CEZANNE_21.7.21_a8d4a87b04_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.7.21_a8d4a87b04_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.21
-- branch: stable
-  date: '2021-07-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-22.07.2021/fw_cezanne_miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RJNCNXM
-- branch: weekly
-  date: '2021-07-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-15.07.2021/fw_cezanne_miui_CEZANNE_21.7.14_22997f296b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/cezanne/fw_cezanne_miui_CEZANNE_21.7.14_22997f296b_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.7.14_22997f296b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.14
-- branch: weekly
-  date: '2021-07-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-08.07.2021/fw_cezanne_miui_CEZANNE_21.7.7_085970c5c3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/cezanne/fw_cezanne_miui_CEZANNE_21.7.7_085970c5c3_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.7.7_085970c5c3_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.7
-- branch: weekly
-  date: '2021-07-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-02.07.2021/fw_cezanne_miui_CEZANNE_21.6.30_48b21ec97b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/cezanne/fw_cezanne_miui_CEZANNE_21.6.30_48b21ec97b_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.6.30_48b21ec97b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.30
-- branch: weekly
-  date: '2021-06-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-24.06.2021/fw_cezanne_miui_CEZANNE_21.6.23_6776a80ab7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/cezanne/fw_cezanne_miui_CEZANNE_21.6.23_6776a80ab7_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.6.23_6776a80ab7_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.23
-- branch: stable
-  date: '2021-06-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-23.06.2021/fw_cezanne_miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.4.0.RJNCNXM
-- branch: weekly
-  date: '2021-06-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-10.06.2021/fw_cezanne_miui_CEZANNE_21.6.9_761514c5c1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.9/cezanne/fw_cezanne_miui_CEZANNE_21.6.9_761514c5c1_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.6.9_761514c5c1_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.9
-- branch: weekly
-  date: '2021-06-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-03.06.2021/fw_cezanne_miui_CEZANNE_21.6.2_6765a5469d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/cezanne/fw_cezanne_miui_CEZANNE_21.6.2_6765a5469d_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.6.2_6765a5469d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.2
-- branch: stable
-  date: '2021-05-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-28.05.2021/fw_cezanne_miui_CEZANNE_V12.5.3.0.RJNCNXM_13fc756b04_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.3.0.RJNCNXM_13fc756b04_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.5.3.0.RJNCNXM_13fc756b04_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.3.0.RJNCNXM
-- branch: weekly
-  date: '2021-05-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-27.05.2021/fw_cezanne_miui_CEZANNE_21.5.26_f49bea93b4_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.26/cezanne/fw_cezanne_miui_CEZANNE_21.5.26_f49bea93b4_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.5.26_f49bea93b4_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.26
-- branch: weekly
-  date: '2021-05-20'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-20.05.2021/fw_cezanne_miui_CEZANNE_21.5.20_20f0b0dfdb_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.20/cezanne/fw_cezanne_miui_CEZANNE_21.5.20_20f0b0dfdb_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.5.20_20f0b0dfdb_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.20
-- branch: weekly
-  date: '2021-05-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-14.05.2021/fw_cezanne_miui_CEZANNE_21.5.12_a087e528a4_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.12/cezanne/fw_cezanne_miui_CEZANNE_21.5.12_a087e528a4_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.5.12_a087e528a4_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.12
-- branch: weekly
   date: '2021-04-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-29.04.2021/fw_cezanne_miui_CEZANNE_21.4.28_8e95a4548a_11.0.zip
@@ -278,126 +58,6 @@
   versions:
     android: '11.0'
     miui: 21.4.28
-- branch: stable
-  date: '2021-04-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-25.04.2021/fw_cezanne_miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.21.0.QJNCNXM
-- branch: weekly
-  date: '2021-04-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-22.04.2021/fw_cezanne_miui_CEZANNE_21.4.21_313eb7893b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/cezanne/fw_cezanne_miui_CEZANNE_21.4.21_313eb7893b_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.4.21_313eb7893b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.21
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-16.04.2021/fw_cezanne_miui_CEZANNE_21.4.14_a7934c54bb_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/cezanne/fw_cezanne_miui_CEZANNE_21.4.14_a7934c54bb_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.4.14_a7934c54bb_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.14
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-08.04.2021/fw_cezanne_miui_CEZANNE_21.4.7_a9372c1b54_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/cezanne/fw_cezanne_miui_CEZANNE_21.4.7_a9372c1b54_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.4.7_a9372c1b54_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.7
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-01.04.2021/fw_cezanne_miui_CEZANNE_21.3.31_3ca48d43f3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/cezanne/fw_cezanne_miui_CEZANNE_21.3.31_3ca48d43f3_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.3.31_3ca48d43f3_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.31
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-27.03.2021/fw_cezanne_miui_CEZANNE_21.3.24_48d77057f1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/cezanne/fw_cezanne_miui_CEZANNE_21.3.24_48d77057f1_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.3.24_48d77057f1_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.24
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-18.03.2021/fw_cezanne_miui_CEZANNE_21.3.18_54f3391bef_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.18/cezanne/fw_cezanne_miui_CEZANNE_21.3.18_54f3391bef_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.3.18_54f3391bef_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.18
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-12.03.2021/fw_cezanne_miui_CEZANNE_21.3.10_5ed117c31f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/cezanne/fw_cezanne_miui_CEZANNE_21.3.10_5ed117c31f_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.3.10_5ed117c31f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.10
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-05.03.2021/fw_cezanne_miui_CEZANNE_21.3.3_32a1144859_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/cezanne/fw_cezanne_miui_CEZANNE_21.3.3_32a1144859_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.3.3_32a1144859_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.3.3
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-25.02.2021/fw_cezanne_miui_CEZANNE_21.2.24_1c5b6e9c1e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/cezanne/fw_cezanne_miui_CEZANNE_21.2.24_1c5b6e9c1e_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.2.24_1c5b6e9c1e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.2.24
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-18.02.2021/fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.20.0.QJNCNXM
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-04.02.2021/fw_cezanne_miui_CEZANNE_21.2.3_9de3df79d3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/cezanne/fw_cezanne_miui_CEZANNE_21.2.3_9de3df79d3_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_21.2.3_9de3df79d3_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.2.3
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -411,6 +71,86 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-28.08.2020/fw_cezanne_miui_CEZANNE_20.8.27_5925ff3de5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.27/cezanne/fw_cezanne_miui_CEZANNE_20.8.27_5925ff3de5_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.8.27_5925ff3de5_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.8.27
+- branch: weekly
+  date: '2021-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-27.05.2021/fw_cezanne_miui_CEZANNE_21.5.26_f49bea93b4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.26/cezanne/fw_cezanne_miui_CEZANNE_21.5.26_f49bea93b4_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.5.26_f49bea93b4_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.26
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-27.03.2021/fw_cezanne_miui_CEZANNE_21.3.24_48d77057f1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/cezanne/fw_cezanne_miui_CEZANNE_21.3.24_48d77057f1_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.3.24_48d77057f1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.24
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-26.11.2020/fw_cezanne_miui_CEZANNE_20.11.26_f3f5e3f50c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.26/cezanne/fw_cezanne_miui_CEZANNE_20.11.26_f3f5e3f50c_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.11.26_f3f5e3f50c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.11.26
+- branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-25.02.2022/fw_cezanne_miui_CEZANNE_22.2.23_6c435668e7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/cezanne/fw_cezanne_miui_CEZANNE_22.2.23_6c435668e7_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_22.2.23_6c435668e7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.2.23
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-25.02.2021/fw_cezanne_miui_CEZANNE_21.2.24_1c5b6e9c1e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.24/cezanne/fw_cezanne_miui_CEZANNE_21.2.24_1c5b6e9c1e_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.2.24_1c5b6e9c1e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.24
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-24.09.2020/fw_cezanne_miui_CEZANNE_20.9.24_df832bd538_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/cezanne/fw_cezanne_miui_CEZANNE_20.9.24_df832bd538_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.9.24_df832bd538_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.9.24
+- branch: weekly
+  date: '2021-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-24.06.2021/fw_cezanne_miui_CEZANNE_21.6.23_6776a80ab7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/cezanne/fw_cezanne_miui_CEZANNE_21.6.23_6776a80ab7_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.6.23_6776a80ab7_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.23
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-23.01.2021/fw_cezanne_miui_CEZANNE_21.1.20_a158a01aec_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.20/cezanne/fw_cezanne_miui_CEZANNE_21.1.20_a158a01aec_11.0.zip
   filename: fw_cezanne_miui_CEZANNE_21.1.20_a158a01aec_11.0.zip
@@ -421,6 +161,126 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-22.10.2020/fw_cezanne_miui_CEZANNE_20.10.22_92b1e19faa_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/cezanne/fw_cezanne_miui_CEZANNE_20.10.22_92b1e19faa_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.10.22_92b1e19faa_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.10.22
+- branch: weekly
+  date: '2021-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-22.07.2021/fw_cezanne_miui_CEZANNE_21.7.21_a8d4a87b04_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.21/cezanne/fw_cezanne_miui_CEZANNE_21.7.21_a8d4a87b04_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.7.21_a8d4a87b04_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.21
+- branch: weekly
+  date: '2021-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-22.04.2021/fw_cezanne_miui_CEZANNE_21.4.21_313eb7893b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.21/cezanne/fw_cezanne_miui_CEZANNE_21.4.21_313eb7893b_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.4.21_313eb7893b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.21
+- branch: weekly
+  date: '2021-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-20.05.2021/fw_cezanne_miui_CEZANNE_21.5.20_20f0b0dfdb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.20/cezanne/fw_cezanne_miui_CEZANNE_21.5.20_20f0b0dfdb_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.5.20_20f0b0dfdb_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.20
+- branch: weekly
+  date: '2021-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-19.11.2021/fw_cezanne_miui_CEZANNE_21.11.17_2d2d409df8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.17/cezanne/fw_cezanne_miui_CEZANNE_21.11.17_2d2d409df8_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.11.17_2d2d409df8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.17
+- branch: weekly
+  date: '2021-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-19.08.2021/fw_cezanne_miui_CEZANNE_21.8.18_ec5499389b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/cezanne/fw_cezanne_miui_CEZANNE_21.8.18_ec5499389b_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.8.18_ec5499389b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.18
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-18.03.2021/fw_cezanne_miui_CEZANNE_21.3.18_54f3391bef_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.18/cezanne/fw_cezanne_miui_CEZANNE_21.3.18_54f3391bef_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.3.18_54f3391bef_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.18
+- branch: weekly
+  date: '2022-02-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-18.02.2022/fw_cezanne_miui_CEZANNE_22.2.17_106edbe449_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/cezanne/fw_cezanne_miui_CEZANNE_22.2.17_106edbe449_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_22.2.17_106edbe449_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.2.17
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-17.09.2020/fw_cezanne_miui_CEZANNE_20.9.17_3f79c226ba_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/cezanne/fw_cezanne_miui_CEZANNE_20.9.17_3f79c226ba_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.9.17_3f79c226ba_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.9.17
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-16.04.2021/fw_cezanne_miui_CEZANNE_21.4.14_a7934c54bb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.14/cezanne/fw_cezanne_miui_CEZANNE_21.4.14_a7934c54bb_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.4.14_a7934c54bb_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.14
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-15.10.2020/fw_cezanne_miui_CEZANNE_20.10.15_312a46a6b1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/cezanne/fw_cezanne_miui_CEZANNE_20.10.15_312a46a6b1_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.10.15_312a46a6b1_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.10.15
+- branch: weekly
+  date: '2021-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-15.07.2021/fw_cezanne_miui_CEZANNE_21.7.14_22997f296b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/cezanne/fw_cezanne_miui_CEZANNE_21.7.14_22997f296b_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.7.14_22997f296b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.14
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-15.01.2021/fw_cezanne_miui_CEZANNE_21.1.13_e6269f48fc_11.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.1.13/cezanne/fw_cezanne_miui_CEZANNE_21.1.13_e6269f48fc_11.0.zip
   filename: fw_cezanne_miui_CEZANNE_21.1.13_e6269f48fc_11.0.zip
@@ -428,6 +288,96 @@
   versions:
     android: '11.0'
     miui: 21.1.13
+- branch: weekly
+  date: '2021-05-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-14.05.2021/fw_cezanne_miui_CEZANNE_21.5.12_a087e528a4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.12/cezanne/fw_cezanne_miui_CEZANNE_21.5.12_a087e528a4_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.5.12_a087e528a4_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.5.12
+- branch: weekly
+  date: '2021-11-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-12.11.2021/fw_cezanne_miui_CEZANNE_21.11.10_bd695e2cba_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.10/cezanne/fw_cezanne_miui_CEZANNE_21.11.10_bd695e2cba_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.11.10_bd695e2cba_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.11.10
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-12.03.2021/fw_cezanne_miui_CEZANNE_21.3.10_5ed117c31f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.10/cezanne/fw_cezanne_miui_CEZANNE_21.3.10_5ed117c31f_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.3.10_5ed117c31f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.10
+- branch: weekly
+  date: '2021-12-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-10.12.2021/fw_cezanne_miui_CEZANNE_21.12.8_e72219465b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.8/cezanne/fw_cezanne_miui_CEZANNE_21.12.8_e72219465b_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.12.8_e72219465b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.12.8
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-10.12.2020/fw_cezanne_miui_CEZANNE_20.12.9_1c37ee1309_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.9/cezanne/fw_cezanne_miui_CEZANNE_20.12.9_1c37ee1309_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.12.9_1c37ee1309_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.12.9
+- branch: weekly
+  date: '2021-06-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-10.06.2021/fw_cezanne_miui_CEZANNE_21.6.9_761514c5c1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.9/cezanne/fw_cezanne_miui_CEZANNE_21.6.9_761514c5c1_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.6.9_761514c5c1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.9
+- branch: weekly
+  date: '2021-09-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-09.09.2021/fw_cezanne_miui_CEZANNE_21.9.8_9e3d54e9b1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.8/cezanne/fw_cezanne_miui_CEZANNE_21.9.8_9e3d54e9b1_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.9.8_9e3d54e9b1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.8
+- branch: weekly
+  date: '2021-07-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-08.07.2021/fw_cezanne_miui_CEZANNE_21.7.7_085970c5c3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/cezanne/fw_cezanne_miui_CEZANNE_21.7.7_085970c5c3_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.7.7_085970c5c3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.7
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-08.04.2021/fw_cezanne_miui_CEZANNE_21.4.7_a9372c1b54_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.7/cezanne/fw_cezanne_miui_CEZANNE_21.4.7_a9372c1b54_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.4.7_a9372c1b54_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.7
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -441,33 +391,63 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-31.12.2020/fw_cezanne_miui_CEZANNE_20.12.28_9ba0fcc829_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.28/cezanne/fw_cezanne_miui_CEZANNE_20.12.28_9ba0fcc829_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.12.28_9ba0fcc829_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.12.28
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-19.12.2020/fw_cezanne_miui_CEZANNE_V12.0.18.0.QJNCNXM_1ce587627e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.18.0.QJNCNXM_1ce587627e_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.0.18.0.QJNCNXM_1ce587627e_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-06.11.2020/fw_cezanne_miui_CEZANNE_20.11.5_f57bc2ccd8_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/cezanne/fw_cezanne_miui_CEZANNE_20.11.5_f57bc2ccd8_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_20.11.5_f57bc2ccd8_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: V12.0.18.0.QJNCNXM
+    miui: 20.11.5
 - branch: weekly
-  date: '2021-04-18'
+  date: '2021-11-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-10.12.2020/fw_cezanne_miui_CEZANNE_20.12.9_1c37ee1309_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.9/cezanne/fw_cezanne_miui_CEZANNE_20.12.9_1c37ee1309_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.12.9_1c37ee1309_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-05.11.2021/fw_cezanne_miui_CEZANNE_21.11.3_20a3ff2169_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.3/cezanne/fw_cezanne_miui_CEZANNE_21.11.3_20a3ff2169_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.11.3_20a3ff2169_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 20.12.9
+    miui: 21.11.3
+- branch: weekly
+  date: '2021-08-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-05.08.2021/fw_cezanne_miui_CEZANNE_21.8.4_8fb572921e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.4/cezanne/fw_cezanne_miui_CEZANNE_21.8.4_8fb572921e_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.8.4_8fb572921e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.8.4
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-05.03.2021/fw_cezanne_miui_CEZANNE_21.3.3_32a1144859_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.3/cezanne/fw_cezanne_miui_CEZANNE_21.3.3_32a1144859_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.3.3_32a1144859_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.3
+- branch: weekly
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-04.03.2022/fw_cezanne_miui_CEZANNE_22.3.2_71055969ed_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.2/cezanne/fw_cezanne_miui_CEZANNE_22.3.2_71055969ed_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_22.3.2_71055969ed_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.3.2
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-04.02.2021/fw_cezanne_miui_CEZANNE_21.2.3_9de3df79d3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.2.3/cezanne/fw_cezanne_miui_CEZANNE_21.2.3_9de3df79d3_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.2.3_9de3df79d3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.2.3
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -478,126 +458,16 @@
   versions:
     android: '11.0'
     miui: 20.12.2
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-27.11.2020/fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.16.0.QJNCNXM
 - branch: weekly
-  date: '2021-04-18'
+  date: '2021-09-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-26.11.2020/fw_cezanne_miui_CEZANNE_20.11.26_f3f5e3f50c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.26/cezanne/fw_cezanne_miui_CEZANNE_20.11.26_f3f5e3f50c_11.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.11.26_f3f5e3f50c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-03.09.2021/fw_cezanne_miui_CEZANNE_21.9.2_ae0eae1724_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.2/cezanne/fw_cezanne_miui_CEZANNE_21.9.2_ae0eae1724_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.9.2_ae0eae1724_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 20.11.26
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-06.11.2020/fw_cezanne_miui_CEZANNE_20.11.5_f57bc2ccd8_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.11.5/cezanne/fw_cezanne_miui_CEZANNE_20.11.5_f57bc2ccd8_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.11.5_f57bc2ccd8_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.11.5
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-31.10.2020/fw_cezanne_miui_CEZANNE_20.10.30_69e12e1a58_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.30/cezanne/fw_cezanne_miui_CEZANNE_20.10.30_69e12e1a58_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.10.30_69e12e1a58_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.30
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-29.10.2020/fw_cezanne_miui_CEZANNE_20.10.29_7e710a4f6d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.29/cezanne/fw_cezanne_miui_CEZANNE_20.10.29_7e710a4f6d_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.10.29_7e710a4f6d_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.29
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-22.10.2020/fw_cezanne_miui_CEZANNE_20.10.22_92b1e19faa_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.22/cezanne/fw_cezanne_miui_CEZANNE_20.10.22_92b1e19faa_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.10.22_92b1e19faa_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.22
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-22.10.2020/fw_cezanne_miui_CEZANNE_V12.0.13.0.QJNCNXM_3560855173_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.13.0.QJNCNXM_3560855173_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.0.13.0.QJNCNXM_3560855173_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.13.0.QJNCNXM
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-15.10.2020/fw_cezanne_miui_CEZANNE_20.10.15_312a46a6b1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.15/cezanne/fw_cezanne_miui_CEZANNE_20.10.15_312a46a6b1_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.10.15_312a46a6b1_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.10.15
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-24.09.2020/fw_cezanne_miui_CEZANNE_20.9.24_df832bd538_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/cezanne/fw_cezanne_miui_CEZANNE_20.9.24_df832bd538_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.9.24_df832bd538_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.24
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-22.09.2020/fw_cezanne_miui_CEZANNE_V12.0.12.0.QJNCNXM_1bf8ac7397_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.12.0.QJNCNXM_1bf8ac7397_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.0.12.0.QJNCNXM_1bf8ac7397_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.12.0.QJNCNXM
-- branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-17.09.2020/fw_cezanne_miui_CEZANNE_20.9.17_3f79c226ba_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/cezanne/fw_cezanne_miui_CEZANNE_20.9.17_3f79c226ba_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.9.17_3f79c226ba_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.9.17
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-04.09.2020/fw_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.11.0.QJNCNXM
+    miui: 21.9.2
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -609,15 +479,135 @@
     android: '10.0'
     miui: 20.9.3
 - branch: weekly
+  date: '2021-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-03.06.2021/fw_cezanne_miui_CEZANNE_21.6.2_6765a5469d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/cezanne/fw_cezanne_miui_CEZANNE_21.6.2_6765a5469d_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.6.2_6765a5469d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.2
+- branch: weekly
+  date: '2021-10-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-02.10.2021/fw_cezanne_miui_CEZANNE_21.9.28_5c1e37231e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.28/cezanne/fw_cezanne_miui_CEZANNE_21.9.28_5c1e37231e_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.9.28_5c1e37231e_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.9.28
+- branch: weekly
+  date: '2021-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-02.07.2021/fw_cezanne_miui_CEZANNE_21.6.30_48b21ec97b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.30/cezanne/fw_cezanne_miui_CEZANNE_21.6.30_48b21ec97b_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.6.30_48b21ec97b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.30
+- branch: weekly
   date: '2021-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-28.08.2020/fw_cezanne_miui_CEZANNE_20.8.27_5925ff3de5_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.27/cezanne/fw_cezanne_miui_CEZANNE_20.8.27_5925ff3de5_10.0.zip
-  filename: fw_cezanne_miui_CEZANNE_20.8.27_5925ff3de5_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/weekly-01.04.2021/fw_cezanne_miui_CEZANNE_21.3.31_3ca48d43f3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.31/cezanne/fw_cezanne_miui_CEZANNE_21.3.31_3ca48d43f3_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_21.3.31_3ca48d43f3_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.31
+- branch: stable
+  date: '2021-05-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-28.05.2021/fw_cezanne_miui_CEZANNE_V12.5.3.0.RJNCNXM_13fc756b04_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.3.0.RJNCNXM_13fc756b04_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.5.3.0.RJNCNXM_13fc756b04_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RJNCNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-27.11.2020/fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.16.0.QJNCNXM_08eb491734_10.0.zip
   region: China
   versions:
     android: '10.0'
-    miui: 20.8.27
+    miui: V12.0.16.0.QJNCNXM
+- branch: stable
+  date: '2021-04-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-25.04.2021/fw_cezanne_miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.21.0.QJNCNXM_08656648e6_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.21.0.QJNCNXM
+- branch: stable
+  date: '2021-06-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-23.06.2021/fw_cezanne_miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.5.4.0.RJNCNXM_180dca6ea5_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RJNCNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-22.10.2020/fw_cezanne_miui_CEZANNE_V12.0.13.0.QJNCNXM_3560855173_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.13.0.QJNCNXM_3560855173_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.13.0.QJNCNXM_3560855173_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.13.0.QJNCNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-22.09.2020/fw_cezanne_miui_CEZANNE_V12.0.12.0.QJNCNXM_1bf8ac7397_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.12.0.QJNCNXM_1bf8ac7397_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.12.0.QJNCNXM_1bf8ac7397_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.12.0.QJNCNXM
+- branch: stable
+  date: '2021-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-22.07.2021/fw_cezanne_miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.5.5.0.RJNCNXM_41d1a37b07_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJNCNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-19.12.2020/fw_cezanne_miui_CEZANNE_V12.0.18.0.QJNCNXM_1ce587627e_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.18.0.QJNCNXM_1ce587627e_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.18.0.QJNCNXM_1ce587627e_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.18.0.QJNCNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-18.02.2021/fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.20.0.QJNCNXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -628,3 +618,23 @@
   versions:
     android: '10.0'
     miui: V12.0.8.0.QJNCNXM
+- branch: stable
+  date: '2021-11-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-05.11.2021/fw_cezanne_miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RJNCNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-04.09.2020/fw_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cezanne/fw_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V12.0.11.0.QJNCNXM_16f2237b09_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: V12.0.11.0.QJNCNXM

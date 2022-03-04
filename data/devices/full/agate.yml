@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2021-10-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-28.10.2021/fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKWEUXM
+- branch: stable
   date: '2022-02-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-28.02.2022/fw_agate_miui_AGATEEEAGlobal_V12.5.10.0.RKWEUXM_4c414f93aa_11.0.zip
@@ -19,16 +29,6 @@
     android: '12.0'
     miui: V13.0.2.0.SKWMIXM
 - branch: stable
-  date: '2022-02-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-26.02.2022/fw_agate_miui_AGATEEEAGlobal_V13.0.2.0.SKWEUXM_a49449ca58_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/agate/fw_agate_miui_AGATEEEAGlobal_V13.0.2.0.SKWEUXM_a49449ca58_12.0.zip
-  filename: fw_agate_miui_AGATEEEAGlobal_V13.0.2.0.SKWEUXM_a49449ca58_12.0.zip
-  region: Europe
-  versions:
-    android: '12.0'
-    miui: V13.0.2.0.SKWEUXM
-- branch: stable
   date: '2021-12-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-27.12.2021/fw_agate_miui_AGATEGlobal_V12.5.9.0.RKWMIXM_6755695034_11.0.zip
@@ -39,15 +39,15 @@
     android: '11.0'
     miui: V12.5.9.0.RKWMIXM
 - branch: stable
-  date: '2021-12-07'
+  date: '2022-02-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-08.12.2021/fw_agate_miui_AGATEEEAGlobal_V12.5.8.0.RKWEUXM_f46d851ffe_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEEEAGlobal_V12.5.8.0.RKWEUXM_f46d851ffe_11.0.zip
-  filename: fw_agate_miui_AGATEEEAGlobal_V12.5.8.0.RKWEUXM_f46d851ffe_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-26.02.2022/fw_agate_miui_AGATEEEAGlobal_V13.0.2.0.SKWEUXM_a49449ca58_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/agate/fw_agate_miui_AGATEEEAGlobal_V13.0.2.0.SKWEUXM_a49449ca58_12.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V13.0.2.0.SKWEUXM_a49449ca58_12.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V12.5.8.0.RKWEUXM
+    android: '12.0'
+    miui: V13.0.2.0.SKWEUXM
 - branch: stable
   date: '2021-11-22'
   downloads:
@@ -58,46 +58,6 @@
   versions:
     android: '11.0'
     miui: V12.5.8.0.RKWMIXM
-- branch: stable
-  date: '2021-11-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-09.11.2021/fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
-  filename: fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.7.0.RKWMIXM
-- branch: stable
-  date: '2021-10-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-28.10.2021/fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
-  filename: fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RKWEUXM
-- branch: stable
-  date: '2021-10-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-08.10.2021/fw_agate_miui_AGATEEEAGlobal_V12.5.5.0.RKWEUXM_d77833347e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEEEAGlobal_V12.5.5.0.RKWEUXM_d77833347e_11.0.zip
-  filename: fw_agate_miui_AGATEEEAGlobal_V12.5.5.0.RKWEUXM_d77833347e_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RKWEUXM
-- branch: stable
-  date: '2021-10-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-05.10.2021/fw_agate_miui_AGATEGlobal_V12.5.5.0.RKWMIXM_765d9595c9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEGlobal_V12.5.5.0.RKWMIXM_765d9595c9_11.0.zip
-  filename: fw_agate_miui_AGATEGlobal_V12.5.5.0.RKWMIXM_765d9595c9_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RKWMIXM
 - branch: stable
   date: '2021-09-16'
   downloads:
@@ -118,3 +78,43 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RKWMIXM
+- branch: stable
+  date: '2021-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-09.11.2021/fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
+  filename: fw_agate_miui_AGATEGlobal_V12.5.7.0.RKWMIXM_fc8eee93d6_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RKWMIXM
+- branch: stable
+  date: '2021-12-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-08.12.2021/fw_agate_miui_AGATEEEAGlobal_V12.5.8.0.RKWEUXM_f46d851ffe_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEEEAGlobal_V12.5.8.0.RKWEUXM_f46d851ffe_11.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V12.5.8.0.RKWEUXM_f46d851ffe_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKWEUXM
+- branch: stable
+  date: '2021-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-08.10.2021/fw_agate_miui_AGATEEEAGlobal_V12.5.5.0.RKWEUXM_d77833347e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEEEAGlobal_V12.5.5.0.RKWEUXM_d77833347e_11.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V12.5.5.0.RKWEUXM_d77833347e_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKWEUXM
+- branch: stable
+  date: '2021-10-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-05.10.2021/fw_agate_miui_AGATEGlobal_V12.5.5.0.RKWMIXM_765d9595c9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/agate/fw_agate_miui_AGATEGlobal_V12.5.5.0.RKWMIXM_765d9595c9_11.0.zip
+  filename: fw_agate_miui_AGATEGlobal_V12.5.5.0.RKWMIXM_765d9595c9_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RKWMIXM

@@ -1,80 +1,3 @@
-- branch: weekly
-  date: '2020-07-17'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.16_986c6402bf_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.16_986c6402bf_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_20.7.16_986c6402bf_10.0.zip
-  region: China
-  size: 1.0 GB
-  versions:
-    android: '10.0'
-    miui: 20.7.16
-- branch: weekly
-  date: '2020-07-23'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
-  region: China
-  size: 1.0 GB
-  versions:
-    android: '10.0'
-    miui: 20.7.23
-- branch: weekly
-  date: '2020-07-30'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
-  region: China
-  size: 1.0 GB
-  versions:
-    android: '10.0'
-    miui: 20.7.30
-- branch: weekly
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.8.6_c200e0df8a_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.8.6_c200e0df8a_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_20.8.6_c200e0df8a_10.0.zip
-  region: China
-  size: 1.0 GB
-  versions:
-    android: '10.0'
-    miui: 20.8.6
-- branch: weekly
-  date: '2020-09-03'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.9.3_de8f2797b7_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.9.3_de8f2797b7_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_20.9.3_de8f2797b7_10.0.zip
-  region: China
-  size: 1.0 GB
-  versions:
-    android: '10.0'
-    miui: 20.9.3
-- branch: stable
-  date: '2020-07-17'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_id_global-stable/fw-vendor_tucana_miui_TUCANAIDGlobal_V11.1.1.0.QFDIDXM_36928656c1_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_id_global-stable/fw-vendor_tucana_miui_TUCANAIDGlobal_V11.1.1.0.QFDIDXM_36928656c1_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANAIDGlobal_V11.1.1.0.QFDIDXM_36928656c1_10.0.zip
-  region: Global
-  size: 1.0 GB
-  versions:
-    android: '10.0'
-    miui: V11.1.1.0.QFDIDXM
-- branch: stable
-  date: '2020-09-21'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_id_global-stable/fw-vendor_tucana_miui_TUCANAIDGlobal_V12.0.2.0.QFDIDXM_3f5daf06f7_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_id_global-stable/fw-vendor_tucana_miui_TUCANAIDGlobal_V12.0.2.0.QFDIDXM_3f5daf06f7_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANAIDGlobal_V12.0.2.0.QFDIDXM_3f5daf06f7_10.0.zip
-  region: Global
-  size: 979.2 MB
-  versions:
-    android: '10.0'
-    miui: V12.0.2.0.QFDIDXM
 - branch: stable
   date: '2019-11-27'
   downloads:
@@ -141,6 +64,28 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QFDRUXM
+- branch: stable
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_id_global-stable/fw-vendor_tucana_miui_TUCANAIDGlobal_V11.1.1.0.QFDIDXM_36928656c1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_id_global-stable/fw-vendor_tucana_miui_TUCANAIDGlobal_V11.1.1.0.QFDIDXM_36928656c1_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANAIDGlobal_V11.1.1.0.QFDIDXM_36928656c1_10.0.zip
+  region: Global
+  size: 1.0 GB
+  versions:
+    android: '10.0'
+    miui: V11.1.1.0.QFDIDXM
+- branch: stable
+  date: '2020-09-21'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana_id_global-stable/fw-vendor_tucana_miui_TUCANAIDGlobal_V12.0.2.0.QFDIDXM_3f5daf06f7_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana_id_global-stable/fw-vendor_tucana_miui_TUCANAIDGlobal_V12.0.2.0.QFDIDXM_3f5daf06f7_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANAIDGlobal_V12.0.2.0.QFDIDXM_3f5daf06f7_10.0.zip
+  region: Global
+  size: 979.2 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFDIDXM
 - branch: stable
   date: '2019-11-27'
   downloads:
@@ -251,83 +196,6 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QFDMIXM
-- branch: stable
-  date: '2019-11-15'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
-  region: China
-  size: 947.9 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PFDCNXM
-- branch: stable
-  date: '2019-11-25'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
-  region: China
-  size: 947.1 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.4.0.PFDCNXM
-- branch: stable
-  date: '2019-12-04'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip
-  region: China
-  size: 950.0 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.5.0.PFDCNXM
-- branch: stable
-  date: '2020-01-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip
-  region: China
-  size: 965.3 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.7.0.PFDCNXM
-- branch: stable
-  date: '2020-04-30'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip
-  region: China
-  size: 988.6 MB
-  versions:
-    android: '10.0'
-    miui: V11.1.1.0.QFDCNXM
-- branch: stable
-  date: '2020-05-11'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
-  region: China
-  size: 986.2 MB
-  versions:
-    android: '10.0'
-    miui: V11.1.2.0.QFDCNXM
-- branch: stable
-  date: '2020-07-23'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip/download
-  filename: fw-vendor_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip
-  region: China
-  size: 1.0 GB
-  versions:
-    android: '10.0'
-    miui: V12.0.1.0.QFDCNXM
 - branch: stable
   date: '2019-11-15'
   downloads:
@@ -449,3 +317,135 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QFDEUXM
+- branch: weekly
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.16_986c6402bf_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.16_986c6402bf_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_20.7.16_986c6402bf_10.0.zip
+  region: China
+  size: 1.0 GB
+  versions:
+    android: '10.0'
+    miui: 20.7.16
+- branch: weekly
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_20.7.23_9ef8ecdadb_10.0.zip
+  region: China
+  size: 1.0 GB
+  versions:
+    android: '10.0'
+    miui: 20.7.23
+- branch: weekly
+  date: '2020-07-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_20.7.30_88bd643cc0_10.0.zip
+  region: China
+  size: 1.0 GB
+  versions:
+    android: '10.0'
+    miui: 20.7.30
+- branch: weekly
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.8.6_c200e0df8a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.8.6_c200e0df8a_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_20.8.6_c200e0df8a_10.0.zip
+  region: China
+  size: 1.0 GB
+  versions:
+    android: '10.0'
+    miui: 20.8.6
+- branch: weekly
+  date: '2020-09-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.9.3_de8f2797b7_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-weekly/fw-vendor_tucana_miui_TUCANA_20.9.3_de8f2797b7_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_20.9.3_de8f2797b7_10.0.zip
+  region: China
+  size: 1.0 GB
+  versions:
+    android: '10.0'
+    miui: 20.9.3
+- branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_V11.0.3.0.PFDCNXM_c3a4beb98d_9.0.zip
+  region: China
+  size: 947.9 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFDCNXM
+- branch: stable
+  date: '2019-11-25'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_V11.0.4.0.PFDCNXM_97be964d93_9.0.zip
+  region: China
+  size: 947.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PFDCNXM
+- branch: stable
+  date: '2019-12-04'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_V11.0.5.0.PFDCNXM_1b94e796a6_9.0.zip
+  region: China
+  size: 950.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PFDCNXM
+- branch: stable
+  date: '2020-01-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_V11.0.7.0.PFDCNXM_eb85103afb_9.0.zip
+  region: China
+  size: 965.3 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.7.0.PFDCNXM
+- branch: stable
+  date: '2020-04-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_V11.1.1.0.QFDCNXM_ac86b5aab3_10.0.zip
+  region: China
+  size: 988.6 MB
+  versions:
+    android: '10.0'
+    miui: V11.1.1.0.QFDCNXM
+- branch: stable
+  date: '2020-05-11'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_V11.1.2.0.QFDCNXM_08747eac1e_10.0.zip
+  region: China
+  size: 986.2 MB
+  versions:
+    android: '10.0'
+    miui: V11.1.2.0.QFDCNXM
+- branch: stable
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/tucana-stable/fw-vendor_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/tucana-stable/fw-vendor_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip/download
+  filename: fw-vendor_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip
+  region: China
+  size: 1.0 GB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFDCNXM

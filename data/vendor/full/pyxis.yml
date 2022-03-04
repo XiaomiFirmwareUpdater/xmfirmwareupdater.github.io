@@ -1,58 +1,3 @@
-- branch: weekly
-  date: '2020-07-17'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.16_73e89a7643_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.16_73e89a7643_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXIS_20.7.16_73e89a7643_10.0.zip
-  region: China
-  size: 770.6 MB
-  versions:
-    android: '10.0'
-    miui: 20.7.16
-- branch: weekly
-  date: '2020-07-23'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.23_5191280d5d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.23_5191280d5d_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXIS_20.7.23_5191280d5d_10.0.zip
-  region: China
-  size: 761.5 MB
-  versions:
-    android: '10.0'
-    miui: 20.7.23
-- branch: weekly
-  date: '2020-07-30'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip
-  region: China
-  size: 764.0 MB
-  versions:
-    android: '10.0'
-    miui: 20.7.30
-- branch: weekly
-  date: '2020-08-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip
-  region: China
-  size: 764.2 MB
-  versions:
-    android: '10.0'
-    miui: 20.8.6
-- branch: weekly
-  date: '2020-09-03'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.9.3_80ad38c0d6_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.9.3_80ad38c0d6_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXIS_20.9.3_80ad38c0d6_10.0.zip
-  region: China
-  size: 784.7 MB
-  versions:
-    android: '10.0'
-    miui: 20.9.3
 - branch: stable
   date: '2019-10-04'
   downloads:
@@ -130,6 +75,94 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QFCRUXM
+- branch: stable
+  date: '2019-09-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip
+  region: Global
+  size: 666.7 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PFCMIXM
+- branch: stable
+  date: '2019-10-28'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.2.0.PFCMIXM_330297fc95_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.2.0.PFCMIXM_330297fc95_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.3.2.0.PFCMIXM_330297fc95_9.0.zip
+  region: Global
+  size: 702.3 MB
+  versions:
+    android: '9.0'
+    miui: V11.3.2.0.PFCMIXM
+- branch: stable
+  date: '2019-11-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
+  region: Global
+  size: 702.7 MB
+  versions:
+    android: '9.0'
+    miui: V11.3.3.0.PFCMIXM
+- branch: stable
+  date: '2019-12-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
+  region: Global
+  size: 697.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.3.4.0.PFCMIXM
+- branch: stable
+  date: '2020-03-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip
+  region: Global
+  size: 769.4 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.1.0.QFCMIXM
+- branch: stable
+  date: '2020-05-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip
+  region: Global
+  size: 762.7 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QFCMIXM
+- branch: stable
+  date: '2020-06-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.3.0.QFCMIXM_7423b46ef1_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.3.0.QFCMIXM_7423b46ef1_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.0.3.0.QFCMIXM_7423b46ef1_10.0.zip
+  region: Global
+  size: 762.7 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFCMIXM
+- branch: stable
+  date: '2020-09-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V12.0.3.0.QFCMIXM_fde3fd51d2_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V12.0.3.0.QFCMIXM_fde3fd51d2_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXISGlobal_V12.0.3.0.QFCMIXM_fde3fd51d2_10.0.zip
+  region: Global
+  size: 836.6 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QFCMIXM
 - branch: stable
   date: '2019-10-04'
   downloads:
@@ -240,6 +273,61 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QFCEUXM
+- branch: weekly
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.16_73e89a7643_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.16_73e89a7643_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXIS_20.7.16_73e89a7643_10.0.zip
+  region: China
+  size: 770.6 MB
+  versions:
+    android: '10.0'
+    miui: 20.7.16
+- branch: weekly
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.23_5191280d5d_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.23_5191280d5d_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXIS_20.7.23_5191280d5d_10.0.zip
+  region: China
+  size: 761.5 MB
+  versions:
+    android: '10.0'
+    miui: 20.7.23
+- branch: weekly
+  date: '2020-07-30'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXIS_20.7.30_8c598cb42a_10.0.zip
+  region: China
+  size: 764.0 MB
+  versions:
+    android: '10.0'
+    miui: 20.7.30
+- branch: weekly
+  date: '2020-08-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXIS_20.8.6_bb98a0e09e_10.0.zip
+  region: China
+  size: 764.2 MB
+  versions:
+    android: '10.0'
+    miui: 20.8.6
+- branch: weekly
+  date: '2020-09-03'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.9.3_80ad38c0d6_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis-weekly/fw-vendor_pyxis_miui_PYXIS_20.9.3_80ad38c0d6_10.0.zip/download
+  filename: fw-vendor_pyxis_miui_PYXIS_20.9.3_80ad38c0d6_10.0.zip
+  region: China
+  size: 784.7 MB
+  versions:
+    android: '10.0'
+    miui: 20.9.3
 - branch: stable
   date: '2019-09-29'
   downloads:
@@ -339,91 +427,3 @@
   versions:
     android: '10.0'
     miui: V12.0.2.0.QFCCNXM
-- branch: stable
-  date: '2019-09-23'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V10.3.1.0.PFCMIXM_498ea52b22_9.0.zip
-  region: Global
-  size: 666.7 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.1.0.PFCMIXM
-- branch: stable
-  date: '2019-10-28'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.2.0.PFCMIXM_330297fc95_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.2.0.PFCMIXM_330297fc95_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.3.2.0.PFCMIXM_330297fc95_9.0.zip
-  region: Global
-  size: 702.3 MB
-  versions:
-    android: '9.0'
-    miui: V11.3.2.0.PFCMIXM
-- branch: stable
-  date: '2019-11-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip
-  region: Global
-  size: 702.7 MB
-  versions:
-    android: '9.0'
-    miui: V11.3.3.0.PFCMIXM
-- branch: stable
-  date: '2019-12-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.3.4.0.PFCMIXM_78bb922dcd_9.0.zip
-  region: Global
-  size: 697.0 MB
-  versions:
-    android: '9.0'
-    miui: V11.3.4.0.PFCMIXM
-- branch: stable
-  date: '2020-03-17'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.0.1.0.QFCMIXM_212c62202d_10.0.zip
-  region: Global
-  size: 769.4 MB
-  versions:
-    android: '10.0'
-    miui: V11.0.1.0.QFCMIXM
-- branch: stable
-  date: '2020-05-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.0.2.0.QFCMIXM_9d8bcf2a03_10.0.zip
-  region: Global
-  size: 762.7 MB
-  versions:
-    android: '10.0'
-    miui: V11.0.2.0.QFCMIXM
-- branch: stable
-  date: '2020-06-18'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.3.0.QFCMIXM_7423b46ef1_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V11.0.3.0.QFCMIXM_7423b46ef1_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V11.0.3.0.QFCMIXM_7423b46ef1_10.0.zip
-  region: Global
-  size: 762.7 MB
-  versions:
-    android: '10.0'
-    miui: V11.0.3.0.QFCMIXM
-- branch: stable
-  date: '2020-09-03'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V12.0.3.0.QFCMIXM_fde3fd51d2_10.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pyxis_global-stable/fw-vendor_pyxis_miui_PYXISGlobal_V12.0.3.0.QFCMIXM_fde3fd51d2_10.0.zip/download
-  filename: fw-vendor_pyxis_miui_PYXISGlobal_V12.0.3.0.QFCMIXM_fde3fd51d2_10.0.zip
-  region: Global
-  size: 836.6 MB
-  versions:
-    android: '10.0'
-    miui: V12.0.3.0.QFCMIXM
