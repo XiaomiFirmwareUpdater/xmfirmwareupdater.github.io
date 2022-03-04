@@ -1,3 +1,13 @@
+- branch: stable
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-04.03.2022/fw_gauguin_miui_GAUGUINGlobal_V12.5.8.0.RJSMIXM_c2f4c8ddce_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUINGlobal_V12.5.8.0.RJSMIXM_c2f4c8ddce_11.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V12.5.8.0.RJSMIXM_c2f4c8ddce_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RJSMIXM
 - branch: weekly
   date: '2022-02-25'
   downloads:
