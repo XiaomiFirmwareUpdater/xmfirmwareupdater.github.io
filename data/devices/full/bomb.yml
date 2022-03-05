@@ -109,16 +109,6 @@
     android: '11.0'
     miui: 20.11.25
 - branch: weekly
-  date: '2022-02-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-25.02.2022/fw_bomb_miui_BOMB_22.2.23_bfe3cc4ab3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/bomb/fw_bomb_miui_BOMB_22.2.23_bfe3cc4ab3_11.0.zip
-  filename: fw_bomb_miui_BOMB_22.2.23_bfe3cc4ab3_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 22.2.23
-- branch: weekly
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-25.02.2021/fw_bomb_miui_BOMB_21.2.24_d58d63d5ad_11.0.zip
@@ -238,16 +228,6 @@
   versions:
     android: '11.0'
     miui: 21.3.18
-- branch: weekly
-  date: '2022-02-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/weekly-18.02.2022/fw_bomb_miui_BOMB_22.2.17_1dba128292_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.17/bomb/fw_bomb_miui_BOMB_22.2.17_1dba128292_11.0.zip
-  filename: fw_bomb_miui_BOMB_22.2.17_1dba128292_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 22.2.17
 - branch: weekly
   date: '2021-04-18'
   downloads:
