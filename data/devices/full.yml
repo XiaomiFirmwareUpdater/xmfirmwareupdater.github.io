@@ -22169,6 +22169,16 @@
     android: '12.0'
     miui: V13.0.2.0.SLJCNXM
 - branch: stable
+  date: '2022-03-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-05.03.2022/fw_ingres_miui_INGRES_V13.0.4.0.SLJCNXM_85baa057b3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.4.0.SLJCNXM_85baa057b3_12.0.zip
+  filename: fw_ingres_miui_INGRES_V13.0.4.0.SLJCNXM_85baa057b3_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SLJCNXM
+- branch: stable
   date: '2021-01-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jasmine/releases/download/stable-26.01.2021/fw_jasmine_miui_JASMINEGlobal_V11.0.20.0.QDIMIXM_fd34b0fcab_10.0.zip
