@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """XiaomiFirmwareUpdater website data generator"""
-
-from os import environ
 # import json
 import re
 import xml.etree.ElementTree as eT
+from datetime import datetime
+from os import environ
 from pathlib import Path
 from string import Template
 
 import yaml
-from requests import get, head
 from humanize import naturalsize
+from requests import get, head
 
 # Variables
 from database import close_db
@@ -160,6 +160,7 @@ def load_releases():
             archive.append(i)
         with open(f'../data/devices/full/{device}.yml', 'w', encoding='utf-8') as out:
             yaml.dump(info, out, Dumper=yaml.CDumper)
+        info = sorted(info, key=lambda x: datetime.strptime(x["date"], "%Y-%m-%d"), reverse=True)
         # Generate latest releases
         latest = []
 
