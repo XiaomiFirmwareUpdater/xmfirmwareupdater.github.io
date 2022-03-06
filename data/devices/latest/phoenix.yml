@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2019-12-26'
+  date: '2022-01-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-26.12.2019/fw_phoenix_miui_PHOENIX_V11.0.9.0.QGHCNXM_d33005d5de_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/phoenix/fw_phoenix_miui_PHOENIX_V11.0.9.0.QGHCNXM_d33005d5de_10.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V11.0.9.0.QGHCNXM_d33005d5de_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V11.0.9.0.QGHCNXM
-- branch: weekly
-  date: '2020-12-31'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-31.12.2020/fw_phoenix_miui_PHOENIX_20.12.28_7903bf9d11_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.28/phoenix/fw_phoenix_miui_PHOENIX_20.12.28_7903bf9d11_11.0.zip
-  filename: fw_phoenix_miui_PHOENIX_20.12.28_7903bf9d11_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-18.01.2022/fw_phoenix_miui_PHOENIX_V12.5.6.0.RGHCNXM_09026c6794_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/phoenix/fw_phoenix_miui_PHOENIX_V12.5.6.0.RGHCNXM_09026c6794_11.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V12.5.6.0.RGHCNXM_09026c6794_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 20.12.28
+    miui: V12.5.6.0.RGHCNXM
+- branch: weekly
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-04.03.2022/fw_phoenix_miui_PHOENIXPRE_22.3.3_17cef8f9c3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.3/phoenix/fw_phoenix_miui_PHOENIXPRE_22.3.3_17cef8f9c3_12.0.zip
+  filename: fw_phoenix_miui_PHOENIXPRE_22.3.3_17cef8f9c3_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.3

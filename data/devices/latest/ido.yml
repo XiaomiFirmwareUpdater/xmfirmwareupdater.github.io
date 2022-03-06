@@ -19,12 +19,12 @@
     android: '5.1'
     miui: 8.4.19
 - branch: weekly
-  date: '2018-08-29'
+  date: '2019-07-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/weekly-29.08.2018/fw_ido_miui_HM3_8.4.26_b0aea895db_5.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.26/ido/fw_ido_miui_HM3_8.4.26_b0aea895db_5.1.zip
-  filename: fw_ido_miui_HM3_8.4.26_b0aea895db_5.1.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/untagged-1cd5d92112bd1368d3b3/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.LAICNFA/ido/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
+  filename: fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
   region: China
   versions:
     android: '5.1'
-    miui: 8.4.26
+    miui: V9.5.2.0.LAICNFA

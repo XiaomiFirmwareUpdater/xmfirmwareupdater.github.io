@@ -1,40 +1,40 @@
 - branch: stable
-  date: '2019-10-31'
+  date: '2022-01-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-31.10.2019/fw_begonia_miui_BEGONIAGlobal_V10.4.2.0.PGGMIXM_2c8481c740_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begonia/fw_begonia_miui_BEGONIAGlobal_V10.4.2.0.PGGMIXM_2c8481c740_9.0.zip
-  filename: fw_begonia_miui_BEGONIAGlobal_V10.4.2.0.PGGMIXM_2c8481c740_9.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-25.01.2022/fw_begonia_miui_BEGONIAGlobal_V12.5.7.0.RGGMIXM_2623803216_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.5.7.0.RGGMIXM_2623803216_11.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V12.5.7.0.RGGMIXM_2623803216_11.0.zip
   region: Global
   versions:
-    android: '9.0'
-    miui: V10.4.2.0.PGGMIXM
+    android: '11.0'
+    miui: V12.5.7.0.RGGMIXM
 - branch: stable
-  date: '2020-05-30'
+  date: '2022-01-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-30.05.2020/fw_begonia_miui_BEGONIA_V11.0.3.0.QGGCNXM_b656ebe642_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/begonia/fw_begonia_miui_BEGONIA_V11.0.3.0.QGGCNXM_b656ebe642_10.0.zip
-  filename: fw_begonia_miui_BEGONIA_V11.0.3.0.QGGCNXM_b656ebe642_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-11.01.2022/fw_begonia_miui_BEGONIA_V12.5.4.0.RGGCNXM_4cdcacc9ae_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIA_V12.5.4.0.RGGCNXM_4cdcacc9ae_11.0.zip
+  filename: fw_begonia_miui_BEGONIA_V12.5.4.0.RGGCNXM_4cdcacc9ae_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V11.0.3.0.QGGCNXM
+    android: '11.0'
+    miui: V12.5.4.0.RGGCNXM
 - branch: weekly
-  date: '2020-02-27'
+  date: '2021-11-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/untagged-ec01e0685368c7250135/fw_begonia_miui_BEGONIA_20.2.27_f4b34052ef_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.2.27/begonia/fw_begonia_miui_BEGONIA_20.2.27_f4b34052ef_10.0.zip
-  filename: fw_begonia_miui_BEGONIA_20.2.27_f4b34052ef_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-26.11.2021/fw_begonia_miui_BEGONIA_21.11.24_917b76a6b1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/begonia/fw_begonia_miui_BEGONIA_21.11.24_917b76a6b1_11.0.zip
+  filename: fw_begonia_miui_BEGONIA_21.11.24_917b76a6b1_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: 20.2.27
+    android: '11.0'
+    miui: 21.11.24
 - branch: stable
-  date: '2020-08-31'
+  date: '2022-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-31.08.2020/fw_begonia_miui_BEGONIAEEAGlobal_V12.0.1.0.QGGEUXM_e4d77d5d00_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V12.0.1.0.QGGEUXM_e4d77d5d00_10.0.zip
-  filename: fw_begonia_miui_BEGONIAEEAGlobal_V12.0.1.0.QGGEUXM_e4d77d5d00_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-24.01.2022/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.6.0.RGGEUXM_409c7d7a55_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.6.0.RGGEUXM_409c7d7a55_11.0.zip
+  filename: fw_begonia_miui_BEGONIAEEAGlobal_V12.5.6.0.RGGEUXM_409c7d7a55_11.0.zip
   region: Europe
   versions:
-    android: '10.0'
-    miui: V12.0.1.0.QGGEUXM
+    android: '11.0'
+    miui: V12.5.6.0.RGGEUXM

@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2021-09-30'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-30.09.2021/fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/odin/fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
-  filename: fw_odin_miui_ODIN_V12.5.9.0.RKMCNXM_7929237658_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.9.0.RKMCNXM
-- branch: weekly
-  date: '2021-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/weekly-26.11.2021/fw_odin_miui_ODIN_21.11.25_81b7b79cb8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.25/odin/fw_odin_miui_ODIN_21.11.25_81b7b79cb8_12.0.zip
-  filename: fw_odin_miui_ODIN_21.11.25_81b7b79cb8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-07.02.2022/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/odin/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
+  filename: fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: 21.11.25
+    miui: V13.0.4.0.SKMCNXM
+- branch: weekly
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/weekly-04.03.2022/fw_odin_miui_ODINPRE_22.3.3_0daa699abe_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.3/odin/fw_odin_miui_ODINPRE_22.3.3_0daa699abe_12.0.zip
+  filename: fw_odin_miui_ODINPRE_22.3.3_0daa699abe_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.3

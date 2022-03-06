@@ -1,40 +1,40 @@
 - branch: stable
-  date: '2021-04-18'
+  date: '2022-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-29.07.2020/fw_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
-  filename: fw_merlin_miui_MERLINGlobal_V12.0.2.0.QJOMIXM_6da6e664fd_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-19.01.2022/fw_merlin_miui_MERLINGlobal_V12.5.3.0.RJOMIXM_7d989a6c3a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINGlobal_V12.5.3.0.RJOMIXM_7d989a6c3a_11.0.zip
+  filename: fw_merlin_miui_MERLINGlobal_V12.5.3.0.RJOMIXM_7d989a6c3a_11.0.zip
   region: Global
   versions:
-    android: '10.0'
-    miui: V12.0.2.0.QJOMIXM
+    android: '11.0'
+    miui: V12.5.3.0.RJOMIXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2022-02-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-31.07.2020/fw_merlin_miui_MERLIN_V12.0.4.0.QJOCNXM_bb96a2c2c3_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLIN_V12.0.4.0.QJOCNXM_bb96a2c2c3_10.0.zip
-  filename: fw_merlin_miui_MERLIN_V12.0.4.0.QJOCNXM_bb96a2c2c3_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-09.02.2022/fw_merlin_miui_MERLIN_V12.5.4.0.RJOCNXM_7ffdb551cc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLIN_V12.5.4.0.RJOCNXM_7ffdb551cc_11.0.zip
+  filename: fw_merlin_miui_MERLIN_V12.5.4.0.RJOCNXM_7ffdb551cc_11.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V12.0.4.0.QJOCNXM
+    android: '11.0'
+    miui: V12.5.4.0.RJOCNXM
 - branch: stable
-  date: '2021-04-18'
+  date: '2022-02-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-30.11.2020/fw_merlin_miui_MERLINEEAGlobal_V12.0.4.0.QJOEUXM_71e6083767_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINEEAGlobal_V12.0.4.0.QJOEUXM_71e6083767_10.0.zip
-  filename: fw_merlin_miui_MERLINEEAGlobal_V12.0.4.0.QJOEUXM_71e6083767_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-28.02.2022/fw_merlin_miui_MERLINEEAGlobal_V12.5.4.0.RJOEUXM_74ee09b4e4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINEEAGlobal_V12.5.4.0.RJOEUXM_74ee09b4e4_11.0.zip
+  filename: fw_merlin_miui_MERLINEEAGlobal_V12.5.4.0.RJOEUXM_74ee09b4e4_11.0.zip
   region: Europe
   versions:
-    android: '10.0'
-    miui: V12.0.4.0.QJOEUXM
+    android: '11.0'
+    miui: V12.5.4.0.RJOEUXM
 - branch: stable
-  date: '2021-10-29'
+  date: '2022-01-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-29.10.2021/fw_merlin_miui_MERLININGlobal_V12.5.2.0.RJOINXM_c62a2f9af5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLININGlobal_V12.5.2.0.RJOINXM_c62a2f9af5_11.0.zip
-  filename: fw_merlin_miui_MERLININGlobal_V12.5.2.0.RJOINXM_c62a2f9af5_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-27.01.2022/fw_merlin_miui_MERLININGlobal_V12.5.4.0.RJOINXM_e0cb334a04_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLININGlobal_V12.5.4.0.RJOINXM_e0cb334a04_11.0.zip
+  filename: fw_merlin_miui_MERLININGlobal_V12.5.4.0.RJOINXM_e0cb334a04_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RJOINXM
+    miui: V12.5.4.0.RJOINXM

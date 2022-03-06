@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2021-09-22'
+  date: '2022-02-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-22.09.2021/fw_sweet_miui_SWEETGlobal_V12.5.8.0.RKFMIXM_61c0e33df5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETGlobal_V12.5.8.0.RKFMIXM_61c0e33df5_11.0.zip
-  filename: fw_sweet_miui_SWEETGlobal_V12.5.8.0.RKFMIXM_61c0e33df5_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-21.02.2022/fw_sweet_miui_SWEETGlobal_V13.0.4.0.SKFMIXM_4e557a2f1f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.4.0.SKFMIXM_4e557a2f1f_12.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V13.0.4.0.SKFMIXM_4e557a2f1f_12.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V12.5.8.0.RKFMIXM
+    android: '12.0'
+    miui: V13.0.4.0.SKFMIXM
 - branch: stable
-  date: '2022-01-19'
+  date: '2022-02-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-19.01.2022/fw_sweet_miui_SWEETEEAGlobal_V12.5.7.0.RKFEUXM_03d5ef5aec_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweet/fw_sweet_miui_SWEETEEAGlobal_V12.5.7.0.RKFEUXM_03d5ef5aec_11.0.zip
-  filename: fw_sweet_miui_SWEETEEAGlobal_V12.5.7.0.RKFEUXM_03d5ef5aec_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-14.02.2022/fw_sweet_miui_SWEETEEAGlobal_V13.0.3.0.SKFEUXM_73299ee316_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETEEAGlobal_V13.0.3.0.SKFEUXM_73299ee316_12.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V13.0.3.0.SKFEUXM_73299ee316_12.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V12.5.7.0.RKFEUXM
+    android: '12.0'
+    miui: V13.0.3.0.SKFEUXM

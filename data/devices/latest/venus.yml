@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2021-04-27'
+  date: '2022-02-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-27.04.2021/fw_venus_miui_VENUSGlobal_V12.0.9.0.RKBMIXM_4fc24d1ec0_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/venus/fw_venus_miui_VENUSGlobal_V12.0.9.0.RKBMIXM_4fc24d1ec0_11.0.zip
-  filename: fw_venus_miui_VENUSGlobal_V12.0.9.0.RKBMIXM_4fc24d1ec0_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-24.02.2022/fw_venus_miui_VENUSGlobal_V13.0.1.0.SKBMIXM_1b402d5728_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/venus/fw_venus_miui_VENUSGlobal_V13.0.1.0.SKBMIXM_1b402d5728_12.0.zip
+  filename: fw_venus_miui_VENUSGlobal_V13.0.1.0.SKBMIXM_1b402d5728_12.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V12.0.9.0.RKBMIXM
+    android: '12.0'
+    miui: V13.0.1.0.SKBMIXM
 - branch: stable
   date: '2022-01-29'
   downloads:
@@ -19,15 +19,15 @@
     android: '12.0'
     miui: V13.0.6.0.SKBCNXM
 - branch: weekly
-  date: '2021-10-29'
+  date: '2022-03-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/weekly-29.10.2021/fw_venus_miui_VENUS_21.10.27_b645d58e20_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.27/venus/fw_venus_miui_VENUS_21.10.27_b645d58e20_12.0.zip
-  filename: fw_venus_miui_VENUS_21.10.27_b645d58e20_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/weekly-04.03.2022/fw_venus_miui_VENUSPRE_22.3.3_4a599b2db3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.3/venus/fw_venus_miui_VENUSPRE_22.3.3_4a599b2db3_12.0.zip
+  filename: fw_venus_miui_VENUSPRE_22.3.3_4a599b2db3_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: 21.10.27
+    miui: 22.3.3
 - branch: stable
   date: '2022-02-25'
   downloads:

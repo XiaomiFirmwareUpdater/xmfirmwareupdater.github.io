@@ -19,22 +19,22 @@
     android: '8.0'
     miui: V11.0.2.0.OAHCNXM
 - branch: weekly
-  date: '2019-05-31'
+  date: '2019-06-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lithium/releases/download/weekly-31.05.2019/fw_lithium_miui_MIMIXGlobal_9.5.30_4f7d7ad49a_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/lithium/fw_lithium_miui_MIMIXGlobal_9.5.30_4f7d7ad49a_8.0.zip
-  filename: fw_lithium_miui_MIMIXGlobal_9.5.30_4f7d7ad49a_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lithium/releases/download/weekly-28.06.2019/fw_lithium_miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/lithium/fw_lithium_miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip
+  filename: fw_lithium_miui_MIMIXGlobal_9.6.27_ffd0ee5403_8.0.zip
   region: Global
   versions:
     android: '8.0'
-    miui: 9.5.30
+    miui: 9.6.27
 - branch: weekly
-  date: '2019-05-31'
+  date: '2019-10-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lithium/releases/download/weekly-31.05.2019/fw_lithium_miui_MIMIX_9.5.30_eabc42d3ee_8.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.5.30/lithium/fw_lithium_miui_MIMIX_9.5.30_eabc42d3ee_8.0.zip
-  filename: fw_lithium_miui_MIMIX_9.5.30_eabc42d3ee_8.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lithium/releases/download/weekly-17.10.2019/fw_lithium_miui_MIMIX_9.10.10_205eb6e663_8.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.10.10/lithium/fw_lithium_miui_MIMIX_9.10.10_205eb6e663_8.0.zip
+  filename: fw_lithium_miui_MIMIX_9.10.10_205eb6e663_8.0.zip
   region: China
   versions:
     android: '8.0'
-    miui: 9.5.30
+    miui: 9.10.10

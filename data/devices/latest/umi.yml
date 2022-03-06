@@ -1,43 +1,43 @@
 - branch: stable
-  date: '2021-07-26'
+  date: '2021-11-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-26.07.2021/fw_umi_miui_UMIGlobal_V12.5.2.0.RJBMIXM_cbbb6bd5ac_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIGlobal_V12.5.2.0.RJBMIXM_cbbb6bd5ac_11.0.zip
-  filename: fw_umi_miui_UMIGlobal_V12.5.2.0.RJBMIXM_cbbb6bd5ac_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-19.11.2021/fw_umi_miui_UMIGlobal_V12.5.3.0.RJBMIXM_1f6ba74d4b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIGlobal_V12.5.3.0.RJBMIXM_1f6ba74d4b_11.0.zip
+  filename: fw_umi_miui_UMIGlobal_V12.5.3.0.RJBMIXM_1f6ba74d4b_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.2.0.RJBMIXM
+    miui: V12.5.3.0.RJBMIXM
 - branch: stable
-  date: '2020-03-30'
+  date: '2022-02-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-30.03.2020/fw_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/umi/fw_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
-  filename: fw_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-28.02.2022/fw_umi_miui_UMI_V13.0.3.0.SJBCNXM_c6e07a26b2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMI_V13.0.3.0.SJBCNXM_c6e07a26b2_12.0.zip
+  filename: fw_umi_miui_UMI_V13.0.3.0.SJBCNXM_c6e07a26b2_12.0.zip
   region: China
   versions:
-    android: '10.0'
-    miui: V11.0.20.0.QJBCNXM
+    android: '12.0'
+    miui: V13.0.3.0.SJBCNXM
 - branch: weekly
-  date: '2020-12-31'
+  date: '2022-03-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-31.12.2020/fw_umi_miui_UMI_20.12.29_6c7602b99f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.12.29/umi/fw_umi_miui_UMI_20.12.29_6c7602b99f_11.0.zip
-  filename: fw_umi_miui_UMI_20.12.29_6c7602b99f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-04.03.2022/fw_umi_miui_UMIPRE_22.3.3_6a57f88e2c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.3/umi/fw_umi_miui_UMIPRE_22.3.3_6a57f88e2c_12.0.zip
+  filename: fw_umi_miui_UMIPRE_22.3.3_6a57f88e2c_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: 20.12.29
+    android: '12.0'
+    miui: 22.3.3
 - branch: stable
-  date: '2021-09-30'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-30.09.2021/fw_umi_miui_UMIEEAGlobal_V12.5.5.0.RJBEUXM_9408fc707e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.5.5.0.RJBEUXM_9408fc707e_11.0.zip
-  filename: fw_umi_miui_UMIEEAGlobal_V12.5.5.0.RJBEUXM_9408fc707e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-07.02.2022/fw_umi_miui_UMIEEAGlobal_V12.5.8.0.RJBEUXM_09e815acf9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/umi/fw_umi_miui_UMIEEAGlobal_V12.5.8.0.RJBEUXM_09e815acf9_11.0.zip
+  filename: fw_umi_miui_UMIEEAGlobal_V12.5.8.0.RJBEUXM_09e815acf9_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RJBEUXM
+    miui: V12.5.8.0.RJBEUXM
 - branch: stable
   date: '2021-11-25'
   downloads:
