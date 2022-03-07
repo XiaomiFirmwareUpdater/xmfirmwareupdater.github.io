@@ -1,15 +1,25 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 07 Mar 2022 14:00:02 +0900</pubDate>
+  <pubDate>Mon, 07 Mar 2022 20:06:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Xiaomi 11T Pro (vili) - V13.0.8.0.SKDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
+    <pubDate>Mon, 07 Mar 2022 20:06:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M3 (citrus) - V12.5.5.0.RJFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Mon, 07 Mar 2022 19:31:53 +0900</pubDate>
+  </item>
+    <item>
     <title>Mi 11 Lite 5G (renoir) - V13.0.4.0.SKIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Mon, 07 Mar 2022 14:00:02 +0900</pubDate>
+    <pubDate>Mon, 07 Mar 2022 14:00:09 +0900</pubDate>
   </item>
     <item>
     <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V13.0.2.0.SKOMIXM</title>
@@ -95,16 +105,6 @@
     <title>Mi 10S (thyme) - 22.3.3</title>
     <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
     <pubDate>Sat, 05 Mar 2022 03:12:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - 22.3.3</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Sat, 05 Mar 2022 03:07:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - 22.3.2</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Sat, 05 Mar 2022 03:03:03 +0900</pubDate>
   </item>
     </channel>
 </rss>
