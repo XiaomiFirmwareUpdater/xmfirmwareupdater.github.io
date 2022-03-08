@@ -1091,6 +1091,12 @@
   name: Mi 10 Lite Zoom
   version: 22.3.3
 - android: '12.0'
+  codename: vayu
+  date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.3.0.SJUMIXM/fw_vayu_miui_VAYUGlobal_V13.0.3.0.SJUMIXM_7d71e31adb_12.0.zip
+  name: POCO X3 Pro
+  version: V13.0.3.0.SJUMIXM
+- android: '12.0'
   codename: venus
   date: '2022-02-25'
   download: https://bigota.d.miui.com/22.2.23/fw_venus_miui_VENUSPRE_22.2.23_6c9148dd0c_12.0.zip
