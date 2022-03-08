@@ -52,7 +52,8 @@ permalink: /miui/viva/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.RGDMIXM</td><td>11.0</td><td>2.7 GB</td><td>None</td><td><a href="/miui/viva/stable beta/V13.0.3.0.RGDMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.RGDEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-03-08</td><td><a href="/miui/viva/stable beta/V13.0.4.0.RGDEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.RGDMIXM</td><td>11.0</td><td>2.8 GB</td><td>2022-03-08</td><td><a href="/miui/viva/stable beta/V13.0.4.0.RGDMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

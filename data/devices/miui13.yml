@@ -941,6 +941,12 @@
   name: Redmi Note 11
   version: V13.0.5.0.RGCMIXM
 - android: '11.0'
+  codename: spes
+  date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.8.0.RGCINXM/fw_spes_miui_SPESINGlobal_V13.0.8.0.RGCINXM_e2c68b6917_11.0.zip
+  name: Redmi Note 11
+  version: V13.0.8.0.RGCINXM
+- android: '11.0'
   codename: spesn
   date: '2022-02-26'
   download: https://bigota.d.miui.com/V13.0.5.0.RGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.5.0.RGKEUXM_7fd5d2e790_11.0.zip
@@ -1207,6 +1213,12 @@
 - android: '11.0'
   codename: veux
   date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.4.0.RKCMIXM/fw_veux_miui_VEUXGlobal_V13.0.4.0.RKCMIXM_7caba93001_11.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
+  version: V13.0.4.0.RKCMIXM
+- android: '11.0'
+  codename: veux
+  date: '2022-03-08'
   download: https://bigota.d.miui.com/V13.0.2.0.RKCINXM/fw_veux_miui_VEUXINGlobal_V13.0.2.0.RKCINXM_b99531ed7c_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
   version: V13.0.2.0.RKCINXM
@@ -1222,6 +1234,18 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SKDMIXM/fw_vili_miui_VILIGlobal_V13.0.2.0.SKDMIXM_0cd8790804_12.0.zip
   name: Xiaomi 11T Pro
   version: V13.0.2.0.SKDMIXM
+- android: '11.0'
+  codename: viva
+  date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.4.0.RGDEUXM/fw_viva_miui_VIVAEEAGlobal_V13.0.4.0.RGDEUXM_95b8eede93_11.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V13.0.4.0.RGDEUXM
+- android: '11.0'
+  codename: viva
+  date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.4.0.RGDMIXM/fw_viva_miui_VIVAGlobal_V13.0.4.0.RGDMIXM_9007697299_11.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V13.0.4.0.RGDMIXM
 - android: '12.0'
   codename: zeus
   date: '2021-12-31'
