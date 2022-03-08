@@ -442,6 +442,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.RKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.2.0.RKEINXM_afd26d0eb8_11.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.2.0.RKEINXM
+- android: '11.0'
+  codename: fleur
+  date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.3.0.RKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V13.0.3.0.RKEEUXM_c2d922edcd_11.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.3.0.RKEEUXM
 - android: '12.0'
   codename: gauguin
   date: '2022-01-21'
@@ -532,6 +538,12 @@
   download: https://bigota.d.miui.com/V13.0.5.1.1.DEV/fw_haydn_miui_HAYDN_V13.0.5.1.1.DEV_68e02edbb2_12.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: V13.0.5.1.1.DEV
+- android: '12.0'
+  codename: haydn
+  date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.1.0.SKKINXM/fw_haydn_miui_HAYDNINGlobal_V13.0.1.0.SKKINXM_8bd0b7de06_12.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V13.0.1.0.SKKINXM
 - android: '12.0'
   codename: ingres
   date: '2022-02-21'
@@ -779,6 +791,12 @@
   name: Redmi K30 4G
   version: 22.3.3
 - android: '12.0'
+  codename: phoenix
+  date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.1.0.SGHCNXM/fw_phoenix_miui_PHOENIX_V13.0.1.0.SGHCNXM_79d505885f_12.0.zip
+  name: Redmi K30 4G
+  version: V13.0.1.0.SGHCNXM
+- android: '12.0'
   codename: picasso
   date: '2022-02-18'
   download: https://bigota.d.miui.com/22.2.17/fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
@@ -928,6 +946,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.RGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.5.0.RGKEUXM_7fd5d2e790_11.0.zip
   name: Redmi Note 11 NFC
   version: V13.0.5.0.RGKEUXM
+- android: '11.0'
+  codename: spesn
+  date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.7.0.RGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.7.0.RGKEUXM_c2553cf9ed_11.0.zip
+  name: Redmi Note 11 NFC
+  version: V13.0.7.0.RGKEUXM
 - android: '12.0'
   codename: star
   date: '2022-01-21'
@@ -1174,6 +1198,18 @@
   download: https://bigota.d.miui.com/V13.0.1.0.RKCEUXM/fw_veux_miui_VEUXEEAGlobal_V13.0.1.0.RKCEUXM_4425b12de4_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
   version: V13.0.1.0.RKCEUXM
+- android: '11.0'
+  codename: veux
+  date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.2.0.RKCEUXM/fw_veux_miui_VEUXEEAGlobal_V13.0.2.0.RKCEUXM_433554dae5_11.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
+  version: V13.0.2.0.RKCEUXM
+- android: '11.0'
+  codename: veux
+  date: '2022-03-08'
+  download: https://bigota.d.miui.com/V13.0.2.0.RKCINXM/fw_veux_miui_VEUXINGlobal_V13.0.2.0.RKCINXM_b99531ed7c_11.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
+  version: V13.0.2.0.RKCINXM
 - android: '12.0'
   codename: vili
   date: '2022-03-07'

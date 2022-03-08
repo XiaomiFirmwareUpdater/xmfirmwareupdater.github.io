@@ -52,8 +52,8 @@ permalink: /miui/spesn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.RGKEUXM</td><td>11.0</td><td>5.7 GB</td><td>2022-02-15</td><td><a href="/miui/spesn/stable/V13.0.5.0.RGKEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.RGKEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-02-26</td><td><a href="/miui/spesn/stable/V13.0.5.0.RGKEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.RGKEUXM</td><td>11.0</td><td>5.7 GB</td><td>2022-02-22</td><td><a href="/miui/spesn/stable/V13.0.7.0.RGKEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.RGKEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-03-08</td><td><a href="/miui/spesn/stable/V13.0.7.0.RGKEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.RGKEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-02-14</td><td><a href="/miui/spesn/stable beta/V13.0.1.0.RGKEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.RGKRUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-03-04</td><td><a href="/miui/spesn/stable beta/V13.0.3.0.RGKRUXM/">Download</a></td></tr>
 
