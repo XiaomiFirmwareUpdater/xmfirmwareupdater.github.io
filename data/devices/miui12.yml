@@ -5976,6 +5976,12 @@
   version: 21.11.25
 - android: '11.0'
   codename: star
+  date: '2021-06-24'
+  download: https://bigota.d.miui.com/21.6.23/miui_STAR_21.6.23_dd164a2b8e_11.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: 21.6.23
+- android: '11.0'
+  codename: star
   date: '2021-04-23'
   download: https://bigota.d.miui.com/21.4.21/miui_STAR_21.4.21_a04f6ef519_11.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
