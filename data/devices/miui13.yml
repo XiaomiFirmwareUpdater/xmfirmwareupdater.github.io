@@ -450,6 +450,12 @@
   version: V13.0.2.0.RKEINXM
 - android: '11.0'
   codename: fleur
+  date: '2022-03-10'
+  download: https://bigota.d.miui.com/V13.0.3.0.RKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.3.0.RKEINXM_965c6abe20_11.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.3.0.RKEINXM
+- android: '11.0'
+  codename: fleur
   date: '2022-03-08'
   download: https://bigota.d.miui.com/V13.0.3.0.RKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V13.0.3.0.RKEEUXM_c2d922edcd_11.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -918,6 +924,12 @@
   version: 22.3.3
 - android: '12.0'
   codename: renoir
+  date: '2022-03-10'
+  download: https://bigota.d.miui.com/V13.0.8.0.SKICNXM/fw_renoir_miui_RENOIR_V13.0.8.0.SKICNXM_77776103d0_12.0.zip
+  name: Mi 11 Lite 5G
+  version: V13.0.8.0.SKICNXM
+- android: '12.0'
+  codename: renoir
   date: '2022-03-07'
   download: https://bigota.d.miui.com/V13.0.4.0.SKIEUXM/fw_renoir_miui_RENOIREEAGlobal_V13.0.4.0.SKIEUXM_6154fb0712_12.0.zip
   name: Mi 11 Lite 5G
@@ -1210,6 +1222,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.RKCEUXM/fw_veux_miui_VEUXEEAGlobal_V13.0.1.0.RKCEUXM_4425b12de4_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
   version: V13.0.1.0.RKCEUXM
+- android: '11.0'
+  codename: veux
+  date: '2022-03-10'
+  download: https://bigota.d.miui.com/V13.0.3.0.RKCEUXM/fw_veux_miui_VEUXEEAGlobal_V13.0.3.0.RKCEUXM_0b409e776e_11.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
+  version: V13.0.3.0.RKCEUXM
 - android: '11.0'
   codename: veux
   date: '2022-03-08'
