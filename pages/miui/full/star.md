@@ -52,7 +52,8 @@ permalink: /archive/miui/star/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.9.1.13.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-03-04</td><td><a href="/miui/star/public beta/V13.0.9.1.13.DEV/">Download</a></td></tr>
+                <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.10.1.15.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-03-11</td><td><a href="/miui/star/public beta/V13.0.10.1.15.DEV/">Download</a></td></tr>
+<tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.9.1.13.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-03-04</td><td><a href="/miui/star/public beta/V13.0.9.1.13.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKAMIXM</td><td>12.0</td><td>3.8 GB</td><td>2022-03-03</td><td><a href="/miui/star/stable beta/V13.0.2.0.SKAMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>22.3.3</td><td>12.0</td><td>4.8 GB</td><td>2022-03-03</td><td><a href="/miui/star/weekly/22.3.3/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.9.1.11.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-02-25</td><td><a href="/miui/star/public beta/V13.0.9.1.11.DEV/">Download</a></td></tr>

@@ -382,6 +382,12 @@
   download: https://bigota.d.miui.com/V13.0.10.0.SLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V13.0.10.0.SLCEUXM_c33cca208e_12.0.zip
   name: Xiaomi 12
   version: V13.0.10.0.SLCEUXM
+- android: '12.0'
+  codename: cupid
+  date: '2022-03-11'
+  download: https://bigota.d.miui.com/V13.0.28.0.SLCCNXM/fw_cupid_miui_CUPID_V13.0.28.0.SLCCNXM_5a2b050c5a_12.0.zip
+  name: Xiaomi 12
+  version: V13.0.28.0.SLCCNXM
 - android: '11.0'
   codename: elish
   date: '2022-01-21'
@@ -1224,6 +1230,12 @@
   version: V13.0.1.0.RKCEUXM
 - android: '11.0'
   codename: veux
+  date: '2022-03-11'
+  download: https://bigota.d.miui.com/V13.0.5.0.RKCMIXM/fw_veux_miui_VEUXGlobal_V13.0.5.0.RKCMIXM_ad922f13e4_11.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
+  version: V13.0.5.0.RKCMIXM
+- android: '11.0'
+  codename: veux
   date: '2022-03-10'
   download: https://bigota.d.miui.com/V13.0.3.0.RKCEUXM/fw_veux_miui_VEUXEEAGlobal_V13.0.3.0.RKCEUXM_0b409e776e_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G
@@ -1300,3 +1312,9 @@
   download: https://bigota.d.miui.com/V13.0.10.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.10.0.SLBEUXM_8af10526e8_12.0.zip
   name: Xiaomi 12 Pro
   version: V13.0.10.0.SLBEUXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-03-11'
+  download: https://bigota.d.miui.com/V13.0.28.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.28.0.SLBCNXM_db86831e34_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.28.0.SLBCNXM

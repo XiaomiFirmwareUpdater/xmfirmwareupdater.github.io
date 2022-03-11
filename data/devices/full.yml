@@ -14139,6 +14139,16 @@
     android: '12.0'
     miui: V13.0.10.0.SLCEUXM
 - branch: stable
+  date: '2022-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-11.03.2022/fw_cupid_miui_CUPID_V13.0.28.0.SLCCNXM_5a2b050c5a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPID_V13.0.28.0.SLCCNXM_5a2b050c5a_12.0.zip
+  filename: fw_cupid_miui_CUPID_V13.0.28.0.SLCCNXM_5a2b050c5a_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.28.0.SLCCNXM
+- branch: stable
   date: '2021-12-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-31.12.2021/fw_curtana_miui_CURTANAEEAGlobal_V12.5.3.0.RJWEUXM_62a76be2a5_11.0.zip
@@ -49779,6 +49789,16 @@
     android: '11.0'
     miui: V13.0.1.0.RKCEUXM
 - branch: stable
+  date: '2022-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-11.03.2022/fw_veux_miui_VEUXGlobal_V13.0.5.0.RKCMIXM_ad922f13e4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXGlobal_V13.0.5.0.RKCMIXM_ad922f13e4_11.0.zip
+  filename: fw_veux_miui_VEUXGlobal_V13.0.5.0.RKCMIXM_ad922f13e4_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V13.0.5.0.RKCMIXM
+- branch: stable
   date: '2022-03-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-10.03.2022/fw_veux_miui_VEUXEEAGlobal_V13.0.3.0.RKCEUXM_0b409e776e_11.0.zip
@@ -52548,3 +52568,13 @@
   versions:
     android: '12.0'
     miui: V13.0.10.0.SLBEUXM
+- branch: stable
+  date: '2022-03-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-11.03.2022/fw_zeus_miui_ZEUS_V13.0.28.0.SLBCNXM_db86831e34_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUS_V13.0.28.0.SLBCNXM_db86831e34_12.0.zip
+  filename: fw_zeus_miui_ZEUS_V13.0.28.0.SLBCNXM_db86831e34_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.28.0.SLBCNXM
