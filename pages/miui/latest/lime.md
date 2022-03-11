@@ -63,7 +63,7 @@ permalink: /miui/lime/
 <tr><td>Redmi 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJQMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-07-30</td><td><a href="/miui/lime/stable beta/V12.0.1.0.RJQMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RJQIDXM</td><td>11.0</td><td>4.5 GB</td><td>2022-01-17</td><td><a href="/miui/lime/stable/V12.5.5.0.RJQIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RJQIDXM</td><td>11.0</td><td>2.8 GB</td><td>2022-01-26</td><td><a href="/miui/lime/stable/V12.5.5.0.RJQIDXM/">Download</a></td></tr>
-<tr><td>Redmi 9T Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJQIDXM</td><td>11.0</td><td>2.6 GB</td><td>2021-08-02</td><td><a href="/miui/lime/stable beta/V12.0.1.0.RJQIDXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RJQIDXM</td><td>11.0</td><td>2.8 GB</td><td>2022-03-08</td><td><a href="/miui/lime/stable beta/V12.5.7.0.RJQIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Power India</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RJQINXM</td><td>11.0</td><td>3.6 GB</td><td>2022-01-14</td><td><a href="/miui/lime/stable/V12.5.5.0.RJQINXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Power India</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RJQINXM</td><td>11.0</td><td>2.8 GB</td><td>2022-01-28</td><td><a href="/miui/lime/stable/V12.5.5.0.RJQINXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RJQRUXM</td><td>11.0</td><td>4.8 GB</td><td>2022-01-21</td><td><a href="/miui/lime/stable/V12.5.4.0.RJQRUXM/">Download</a></td></tr>
