@@ -33,7 +33,7 @@ pip3 install xiaomi_flashable_firmware_creator_gui
 ```
 - Run the tool.
 ```
-xiaomi-flashable-firmware-creator-gui
+xiaomi_flashable_firmware_creator_g
 ```
 
 ### CLI Usage:
