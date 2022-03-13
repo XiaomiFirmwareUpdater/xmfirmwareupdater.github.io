@@ -69,6 +69,16 @@
     android: '10.0'
     miui: 9.11.21
 - branch: weekly
+  date: '2019-04-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-22.04.2019/fw_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.4.19/sirius/fw_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip
+  filename: fw_sirius_miui_MI8SE_9.4.19_de643cac3a_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.4.19
+- branch: weekly
   date: '2020-05-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-21.05.2020/fw_sirius_miui_MI8SE_20.5.21_275736f090_10.0.zip
@@ -218,6 +228,16 @@
   versions:
     android: '9.0'
     miui: 9.9.3
+- branch: weekly
+  date: '2020-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-06.03.2020/fw_sirius_miui_MI8SE_20.3.5_c819c23f8f_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/sirius/fw_sirius_miui_MI8SE_20.3.5_c819c23f8f_10.0.zip
+  filename: fw_sirius_miui_MI8SE_20.3.5_c819c23f8f_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.3.5
 - branch: weekly
   date: '2020-09-05'
   downloads:
@@ -398,6 +418,16 @@
   versions:
     android: '9.0'
     miui: 9.1.24
+- branch: weekly
+  date: '2019-01-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-18.01.2019/fw_sirius_miui_MI8SE_9.1.17_7ac48429d6_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.1.17/sirius/fw_sirius_miui_MI8SE_9.1.17_7ac48429d6_9.0.zip
+  filename: fw_sirius_miui_MI8SE_9.1.17_7ac48429d6_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 9.1.17
 - branch: stable
   date: '2018-12-24'
   downloads:
@@ -428,6 +458,26 @@
   versions:
     android: '9.0'
     miui: 8.12.13
+- branch: weekly
+  date: '2018-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-26.10.2018/fw_sirius_miui_MI8SE_8.10.25_9f263a15f0_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/sirius/fw_sirius_miui_MI8SE_8.10.25_9f263a15f0_8.1.zip
+  filename: fw_sirius_miui_MI8SE_8.10.25_9f263a15f0_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.10.25
+- branch: weekly
+  date: '2018-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-19.10.2018/fw_sirius_miui_MI8SE_8.10.18_26dec25d83_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.18/sirius/fw_sirius_miui_MI8SE_8.10.18_26dec25d83_8.1.zip
+  filename: fw_sirius_miui_MI8SE_8.10.18_26dec25d83_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.10.18
 - branch: weekly
   date: '2018-10-15'
   downloads:
@@ -488,6 +538,16 @@
   versions:
     android: '8.1'
     miui: V9.5.11.0.OEBCNFA
+- branch: weekly
+  date: '2018-07-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sirius/releases/download/weekly-27.07.2018/fw_sirius_miui_MI8SE_8.7.26_48fe03ff7e_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.26/sirius/fw_sirius_miui_MI8SE_8.7.26_48fe03ff7e_8.1.zip
+  filename: fw_sirius_miui_MI8SE_8.7.26_48fe03ff7e_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.7.26
 - branch: weekly
   date: '2018-07-20'
   downloads:
