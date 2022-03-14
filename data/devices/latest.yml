@@ -1969,15 +1969,15 @@
     android: '11.0'
     miui: V12.5.5.0.RJQEUXM
 - branch: stable
-  date: '2022-02-07'
+  date: '2022-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-07.02.2022/fw_lime_miui_LIMEINGlobal_V12.5.5.0.RJQINXM_a31626e818_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEINGlobal_V12.5.5.0.RJQINXM_a31626e818_11.0.zip
-  filename: fw_lime_miui_LIMEINGlobal_V12.5.5.0.RJQINXM_a31626e818_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-15.03.2022/fw_lime_miui_LIMEINGlobal_V12.5.7.0.RJQINXM_9b15cbec24_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEINGlobal_V12.5.7.0.RJQINXM_9b15cbec24_11.0.zip
+  filename: fw_lime_miui_LIMEINGlobal_V12.5.7.0.RJQINXM_9b15cbec24_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RJQINXM
+    miui: V12.5.7.0.RJQINXM
 - branch: stable
   date: '2022-03-06'
   downloads:
@@ -2019,15 +2019,15 @@
     android: '12.0'
     miui: V13.0.5.0.SKOEUXM
 - branch: stable
-  date: '2022-02-24'
+  date: '2022-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-24.02.2022/fw_lisa_miui_LISAINGlobal_V12.5.5.0.RKOINXM_6c3b6a1cb3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lisa/fw_lisa_miui_LISAINGlobal_V12.5.5.0.RKOINXM_6c3b6a1cb3_11.0.zip
-  filename: fw_lisa_miui_LISAINGlobal_V12.5.5.0.RKOINXM_6c3b6a1cb3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-15.03.2022/fw_lisa_miui_LISAINGlobal_V13.0.3.0.SKOINXM_78db36ab2a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAINGlobal_V13.0.3.0.SKOINXM_78db36ab2a_12.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_V13.0.3.0.SKOINXM_78db36ab2a_12.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V12.5.5.0.RKOINXM
+    android: '12.0'
+    miui: V13.0.3.0.SKOINXM
 - branch: stable
   date: '2019-11-08'
   downloads:
