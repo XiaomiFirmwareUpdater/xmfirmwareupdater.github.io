@@ -239,15 +239,15 @@
     android: '12.0'
     miui: 22.3.3
 - branch: stable
-  date: '2021-12-13'
+  date: '2022-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-13.12.2021/fw_ares_miui_ARESINGlobal_V12.5.7.0.RKJINXM_9e66206b15_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ares/fw_ares_miui_ARESINGlobal_V12.5.7.0.RKJINXM_9e66206b15_11.0.zip
-  filename: fw_ares_miui_ARESINGlobal_V12.5.7.0.RKJINXM_9e66206b15_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-14.03.2022/fw_ares_miui_ARESINGlobal_V13.0.1.0.SKJINXM_f83ba2a353_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ares/fw_ares_miui_ARESINGlobal_V13.0.1.0.SKJINXM_f83ba2a353_12.0.zip
+  filename: fw_ares_miui_ARESINGlobal_V13.0.1.0.SKJINXM_f83ba2a353_12.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V12.5.7.0.RKJINXM
+    android: '12.0'
+    miui: V13.0.1.0.SKJINXM
 - branch: stable
   date: '2022-01-28'
   downloads:
@@ -549,15 +549,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2022-01-14'
+  date: '2022-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-14.01.2022/fw_cas_miui_CAS_V13.0.0.1.1.DEV_b17e73df0d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cas/fw_cas_miui_CAS_V13.0.0.1.1.DEV_b17e73df0d_12.0.zip
-  filename: fw_cas_miui_CAS_V13.0.0.1.1.DEV_b17e73df0d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-14.03.2022/fw_cas_miui_CAS_V13.0.1.0.SJJCNXM_33164e6a99_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cas/fw_cas_miui_CAS_V13.0.1.0.SJJCNXM_33164e6a99_12.0.zip
+  filename: fw_cas_miui_CAS_V13.0.1.0.SJJCNXM_33164e6a99_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.0.1.1.DEV
+    miui: V13.0.1.0.SJJCNXM
 - branch: weekly
   date: '2022-03-04'
   downloads:

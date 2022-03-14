@@ -120,6 +120,12 @@
   version: 22.3.3
 - android: '12.0'
   codename: ares
+  date: '2022-03-14'
+  download: https://bigota.d.miui.com/V13.0.1.0.SKJINXM/fw_ares_miui_ARESINGlobal_V13.0.1.0.SKJINXM_f83ba2a353_12.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: V13.0.1.0.SKJINXM
+- android: '12.0'
+  codename: ares
   date: '2022-03-04'
   download: https://bigota.d.miui.com/V13.0.3.0.SKJCNXM/fw_ares_miui_ARES_V13.0.3.0.SKJCNXM_45927a602a_12.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
@@ -244,6 +250,12 @@
   download: https://bigota.d.miui.com/22.3.3/fw_cas_miui_CASPRE_22.3.3_0b21ed7a98_12.0.zip
   name: Mi 10 Ultra
   version: 22.3.3
+- android: '12.0'
+  codename: cas
+  date: '2022-03-14'
+  download: https://bigota.d.miui.com/V13.0.1.0.SJJCNXM/fw_cas_miui_CAS_V13.0.1.0.SJJCNXM_33164e6a99_12.0.zip
+  name: Mi 10 Ultra
+  version: V13.0.1.0.SJJCNXM
 - android: '12.0'
   codename: cas
   date: '2022-01-14'

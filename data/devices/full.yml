@@ -2939,6 +2939,16 @@
     android: '11.0'
     miui: V12.5.4.0.RKJINXM
 - branch: stable
+  date: '2022-03-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-14.03.2022/fw_ares_miui_ARESINGlobal_V13.0.1.0.SKJINXM_f83ba2a353_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ares/fw_ares_miui_ARESINGlobal_V13.0.1.0.SKJINXM_f83ba2a353_12.0.zip
+  filename: fw_ares_miui_ARESINGlobal_V13.0.1.0.SKJINXM_f83ba2a353_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SKJINXM
+- branch: stable
   date: '2021-12-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-13.12.2021/fw_ares_miui_ARESINGlobal_V12.5.7.0.RKJINXM_9e66206b15_11.0.zip
@@ -8518,6 +8528,16 @@
   versions:
     android: '11.0'
     miui: V12.5.6.0.RJJCNXM
+- branch: stable
+  date: '2022-03-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-14.03.2022/fw_cas_miui_CAS_V13.0.1.0.SJJCNXM_33164e6a99_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cas/fw_cas_miui_CAS_V13.0.1.0.SJJCNXM_33164e6a99_12.0.zip
+  filename: fw_cas_miui_CAS_V13.0.1.0.SJJCNXM_33164e6a99_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SJJCNXM
 - branch: stable
   date: '2022-01-14'
   downloads:
