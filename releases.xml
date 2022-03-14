@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 14 Mar 2022 14:02:37 +0900</pubDate>
+  <pubDate>Mon, 14 Mar 2022 19:45:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10/Redmi 10 Prime (selene) - V12.5.8.0.RKUINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Mon, 14 Mar 2022 19:45:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C3/POCO C31 (angelicain) - V12.0.17.0.QCRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelicain</link>
+    <pubDate>Mon, 14 Mar 2022 19:26:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.21.0.QCRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Mon, 14 Mar 2022 19:25:54 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50G/POCO F4 GT (ingres) - V13.0.5.0.SLJCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ingres</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 11 (spes) - V13.0.8.0.RGCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
     <pubDate>Wed, 09 Mar 2022 01:50:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.2.0.RKCINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
-    <pubDate>Tue, 08 Mar 2022 21:41:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.2.0.RKCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
-    <pubDate>Tue, 08 Mar 2022 21:09:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 NFC (spesn) - V13.0.7.0.RGKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
-    <pubDate>Tue, 08 Mar 2022 20:37:54 +0900</pubDate>
   </item>
     </channel>
 </rss>

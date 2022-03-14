@@ -99,15 +99,15 @@
     android: '9.0'
     miui: V12.0.7.0.PEMEUXM
 - branch: stable
-  date: '2022-02-09'
+  date: '2022-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-09.02.2022/fw_angelica_miui_ANGELICAGlobal_V12.0.20.0.QCRMIXM_825918fc2a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAGlobal_V12.0.20.0.QCRMIXM_825918fc2a_10.0.zip
-  filename: fw_angelica_miui_ANGELICAGlobal_V12.0.20.0.QCRMIXM_825918fc2a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-14.03.2022/fw_angelica_miui_ANGELICAGlobal_V12.0.21.0.QCRMIXM_597ab4f587_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAGlobal_V12.0.21.0.QCRMIXM_597ab4f587_10.0.zip
+  filename: fw_angelica_miui_ANGELICAGlobal_V12.0.21.0.QCRMIXM_597ab4f587_10.0.zip
   region: Global
   versions:
     android: '10.0'
-    miui: V12.0.20.0.QCRMIXM
+    miui: V12.0.21.0.QCRMIXM
 - branch: stable
   date: '2022-02-28'
   downloads:
@@ -119,15 +119,15 @@
     android: '10.0'
     miui: V12.0.12.0.QCREUXM
 - branch: stable
-  date: '2022-01-28'
+  date: '2022-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelicain/releases/download/stable-28.01.2022/fw_angelicain_miui_ANGELICAININGlobal_V12.0.16.0.QCRINXM_971ab660f0_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.16.0.QCRINXM_971ab660f0_10.0.zip
-  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.16.0.QCRINXM_971ab660f0_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelicain/releases/download/stable-14.03.2022/fw_angelicain_miui_ANGELICAININGlobal_V12.0.17.0.QCRINXM_64b77807cd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.17.0.QCRINXM_64b77807cd_10.0.zip
+  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.17.0.QCRINXM_64b77807cd_10.0.zip
   region: India
   versions:
     android: '10.0'
-    miui: V12.0.16.0.QCRINXM
+    miui: V12.0.17.0.QCRINXM
 - branch: stable
   date: '2022-01-26'
   downloads:
@@ -3379,15 +3379,15 @@
     android: '11.0'
     miui: V12.5.11.0.RKUEUXM
 - branch: stable
-  date: '2022-02-23'
+  date: '2022-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-23.02.2022/fw_selene_miui_SELENEINGlobal_V12.5.7.0.RKUINXM_4596b7bb4d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEINGlobal_V12.5.7.0.RKUINXM_4596b7bb4d_11.0.zip
-  filename: fw_selene_miui_SELENEINGlobal_V12.5.7.0.RKUINXM_4596b7bb4d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-14.03.2022/fw_selene_miui_SELENEINGlobal_V12.5.8.0.RKUINXM_7eec142113_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEINGlobal_V12.5.8.0.RKUINXM_7eec142113_11.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V12.5.8.0.RKUINXM_7eec142113_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RKUINXM
+    miui: V12.5.8.0.RKUINXM
 - branch: stable
   date: '2022-01-24'
   downloads:

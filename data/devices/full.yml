@@ -1129,6 +1129,16 @@
     android: '10.0'
     miui: V12.0.16.0.QCRMIXM
 - branch: stable
+  date: '2022-03-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-14.03.2022/fw_angelica_miui_ANGELICAGlobal_V12.0.21.0.QCRMIXM_597ab4f587_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAGlobal_V12.0.21.0.QCRMIXM_597ab4f587_10.0.zip
+  filename: fw_angelica_miui_ANGELICAGlobal_V12.0.21.0.QCRMIXM_597ab4f587_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V12.0.21.0.QCRMIXM
+- branch: stable
   date: '2021-07-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-13.07.2021/fw_angelica_miui_ANGELICAGlobal_V12.0.15.0.QCRMIXM_3876c7ac01_10.0.zip
@@ -1318,6 +1328,16 @@
   versions:
     android: '10.0'
     miui: V12.0.12.0.QCRINXM
+- branch: stable
+  date: '2022-03-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelicain/releases/download/stable-14.03.2022/fw_angelicain_miui_ANGELICAININGlobal_V12.0.17.0.QCRINXM_64b77807cd_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.17.0.QCRINXM_64b77807cd_10.0.zip
+  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.17.0.QCRINXM_64b77807cd_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.17.0.QCRINXM
 - branch: stable
   date: '2021-05-06'
   downloads:
@@ -41428,6 +41448,16 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RKUEUXM
+- branch: stable
+  date: '2022-03-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-14.03.2022/fw_selene_miui_SELENEINGlobal_V12.5.8.0.RKUINXM_7eec142113_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEINGlobal_V12.5.8.0.RKUINXM_7eec142113_11.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V12.5.8.0.RKUINXM_7eec142113_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RKUINXM
 - branch: stable
   date: '2021-09-13'
   downloads:
