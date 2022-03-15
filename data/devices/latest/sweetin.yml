@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2022-01-17'
+  date: '2022-03-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-17.01.2022/fw_sweetin_miui_SWEETININGlobal_V12.5.10.0.RKFINXM_dd18557436_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/sweetin/fw_sweetin_miui_SWEETININGlobal_V12.5.10.0.RKFINXM_dd18557436_11.0.zip
-  filename: fw_sweetin_miui_SWEETININGlobal_V12.5.10.0.RKFINXM_dd18557436_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-15.03.2022/fw_sweetin_miui_SWEETININGlobal_V13.0.1.0.SKFINXM_a3104e4d56_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweetin/fw_sweetin_miui_SWEETININGlobal_V13.0.1.0.SKFINXM_a3104e4d56_12.0.zip
+  filename: fw_sweetin_miui_SWEETININGlobal_V13.0.1.0.SKFINXM_a3104e4d56_12.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V12.5.10.0.RKFINXM
+    android: '12.0'
+    miui: V13.0.1.0.SKFINXM

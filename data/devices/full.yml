@@ -25288,6 +25288,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2022-03-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-15.03.2022/fw_light_miui_LIGHT_V13.0.1.0.SLSCNXM_aed91a2e6b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHT_V13.0.1.0.SLSCNXM_aed91a2e6b_12.0.zip
+  filename: fw_light_miui_LIGHT_V13.0.1.0.SLSCNXM_aed91a2e6b_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SLSCNXM
 - branch: weekly
   date: '2021-12-31'
   downloads:
@@ -43509,6 +43519,16 @@
     android: '11.0'
     miui: V12.5.10.0.RKFINXM
 - branch: stable
+  date: '2022-03-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-15.03.2022/fw_sweetin_miui_SWEETININGlobal_V13.0.1.0.SKFINXM_a3104e4d56_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweetin/fw_sweetin_miui_SWEETININGlobal_V13.0.1.0.SKFINXM_a3104e4d56_12.0.zip
+  filename: fw_sweetin_miui_SWEETININGlobal_V13.0.1.0.SKFINXM_a3104e4d56_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SKFINXM
+- branch: stable
   date: '2021-04-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-11.04.2021/fw_sweetin_miui_SWEETININGlobal_V12.0.8.0.RKFINXM_4813f7191d_11.0.zip
@@ -47218,6 +47238,16 @@
   versions:
     android: '11.0'
     miui: V12.5.2.0.RJBINXM
+- branch: stable
+  date: '2022-03-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-15.03.2022/fw_umi_miui_UMI_V13.0.4.0.SJBCNXM_30ddc40f25_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMI_V13.0.4.0.SJBCNXM_30ddc40f25_12.0.zip
+  filename: fw_umi_miui_UMI_V13.0.4.0.SJBCNXM_30ddc40f25_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SJBCNXM
 - branch: stable
   date: '2020-02-14'
   downloads:
