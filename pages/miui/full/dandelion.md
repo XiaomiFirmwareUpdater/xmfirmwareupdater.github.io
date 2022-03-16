@@ -52,7 +52,8 @@ permalink: /archive/miui/dandelion/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9A Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RCDMIXM</td><td>11.0</td><td>1.9 GB</td><td>2022-03-12</td><td><a href="/miui/dandelion/stable beta/V12.5.3.0.RCDMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 9A China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.10.0.RCDCNXM</td><td>11.0</td><td>1.9 GB</td><td>2022-03-16</td><td><a href="/miui/dandelion/stable beta/V12.5.10.0.RCDCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9A Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RCDMIXM</td><td>11.0</td><td>1.9 GB</td><td>2022-03-12</td><td><a href="/miui/dandelion/stable beta/V12.5.3.0.RCDMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9A China</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RCDCNXM</td><td>11.0</td><td>1.9 GB</td><td>2022-03-07</td><td><a href="/miui/dandelion/stable/V12.5.9.0.RCDCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9A China</td><td>Stable</td><td>Fastboot</td><td>V12.5.9.0.RCDCNXM</td><td>11.0</td><td>3.8 GB</td><td>2022-03-01</td><td><a href="/miui/dandelion/stable/V12.5.9.0.RCDCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9A Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.12.0.QCDIDXM</td><td>10.0</td><td>1.8 GB</td><td>2022-03-02</td><td><a href="/miui/dandelion/stable/V12.0.12.0.QCDIDXM/">Download</a></td></tr>

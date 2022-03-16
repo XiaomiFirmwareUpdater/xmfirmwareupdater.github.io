@@ -53,7 +53,8 @@ permalink: /archive/miui/star/
                 </thead>
                 <tbody>
                 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.10.1.15.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-03-11</td><td><a href="/miui/star/public beta/V13.0.10.1.15.DEV/">Download</a></td></tr>
-<tr><td>Mi 11 Ultra Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKAIDXM</td><td>12.0</td><td>3.8 GB</td><td>2022-03-10</td><td><a href="/miui/star/stable beta/V13.0.2.0.SKAIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKAIDXM</td><td>12.0</td><td>3.8 GB</td><td>2022-03-10</td><td><a href="/miui/star/stable/V13.0.2.0.SKAIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKAIDXM</td><td>12.0</td><td>5.4 GB</td><td>2022-03-03</td><td><a href="/miui/star/stable/V13.0.2.0.SKAIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.9.1.13.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-03-04</td><td><a href="/miui/star/public beta/V13.0.9.1.13.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKAMIXM</td><td>12.0</td><td>3.8 GB</td><td>2022-03-03</td><td><a href="/miui/star/stable beta/V13.0.2.0.SKAMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>22.3.3</td><td>12.0</td><td>4.8 GB</td><td>2022-03-03</td><td><a href="/miui/star/weekly/22.3.3/">Download</a></td></tr>
@@ -111,11 +112,11 @@ permalink: /archive/miui/star/
 <tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.8.11</td><td>11.0</td><td>4.7 GB</td><td>2021-08-12</td><td><a href="/miui/star/weekly/21.8.11/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.5.12.0.RKACNXM</td><td>11.0</td><td>4.3 GB</td><td>2021-08-10</td><td><a href="/miui/star/stable/V12.5.12.0.RKACNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Fastboot</td><td>V12.5.12.0.RKACNXM</td><td>11.0</td><td>5.8 GB</td><td>2021-08-05</td><td><a href="/miui/star/stable/V12.5.12.0.RKACNXM/">Download</a></td></tr>
-<tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.8.4</td><td>11.0</td><td>4.7 GB</td><td>2021-08-05</td><td><a href="/miui/star/weekly/21.8.4/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKAEUXM</td><td>11.0</td><td>3.4 GB</td><td>2021-09-26</td><td><a href="/miui/star/stable/V12.5.8.0.RKAEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RKAEUXM</td><td>11.0</td><td>6.0 GB</td><td>2021-09-10</td><td><a href="/miui/star/stable/V12.5.8.0.RKAEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Global</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKAMIXM</td><td>11.0</td><td>3.4 GB</td><td>2021-09-24</td><td><a href="/miui/star/stable/V12.5.6.0.RKAMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKAMIXM</td><td>11.0</td><td>5.9 GB</td><td>2021-09-10</td><td><a href="/miui/star/stable/V12.5.6.0.RKAMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.8.4</td><td>11.0</td><td>4.7 GB</td><td>2021-08-05</td><td><a href="/miui/star/weekly/21.8.4/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.7.28</td><td>11.0</td><td>4.7 GB</td><td>2021-07-29</td><td><a href="/miui/star/weekly/21.7.28/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Weekly</td><td>Recovery</td><td>21.7.21</td><td>11.0</td><td>4.6 GB</td><td>2021-07-22</td><td><a href="/miui/star/weekly/21.7.21/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.5.11.0.RKACNXM</td><td>11.0</td><td>4.3 GB</td><td>2021-07-22</td><td><a href="/miui/star/stable/V12.5.11.0.RKACNXM/">Download</a></td></tr>

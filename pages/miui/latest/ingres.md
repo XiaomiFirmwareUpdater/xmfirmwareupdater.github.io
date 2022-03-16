@@ -52,9 +52,9 @@ permalink: /miui/ingres/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLJCNXM</td><td>12.0</td><td>6.7 GB</td><td>2022-02-26</td><td><a href="/miui/ingres/stable/V13.0.4.0.SLJCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50G China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLJCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-03-04</td><td><a href="/miui/ingres/stable/V13.0.4.0.SLJCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SLJCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-03-11</td><td><a href="/miui/ingres/stable beta/V13.0.5.0.SLJCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SLJCNXM</td><td>12.0</td><td>6.7 GB</td><td>2022-03-08</td><td><a href="/miui/ingres/stable/V13.0.5.0.SLJCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50G China</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLJCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-03-11</td><td><a href="/miui/ingres/stable/V13.0.5.0.SLJCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SLJCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-02-17</td><td><a href="/miui/ingres/stable beta/V13.0.2.0.SLJCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
