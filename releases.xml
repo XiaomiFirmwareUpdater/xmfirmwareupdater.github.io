@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 16 Mar 2022 19:33:37 +0900</pubDate>
+  <pubDate>Thu, 17 Mar 2022 01:38:09 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi A3 (laurel) - V12.0.21.0.RFQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
+    <pubDate>Thu, 17 Mar 2022 01:38:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/9 Activ (cattail) - V12.0.16.0.QCTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
+    <pubDate>Thu, 17 Mar 2022 01:26:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 NFC (spesn) - V13.0.3.0.RGKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
+    <pubDate>Wed, 16 Mar 2022 20:01:45 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.5.10.0.RCDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -90,21 +105,6 @@
     <title>Xiaomi 12 (cupid) - V13.0.28.0.SLCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
     <pubDate>Sat, 12 Mar 2022 01:58:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V12.5.21.0.RKDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Fri, 11 Mar 2022 01:51:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.3.0.RKCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
-    <pubDate>Thu, 10 Mar 2022 21:10:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G (renoir) - V13.0.8.0.SKICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Thu, 10 Mar 2022 20:35:07 +0900</pubDate>
   </item>
     </channel>
 </rss>
