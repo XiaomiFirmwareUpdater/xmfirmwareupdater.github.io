@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 17 Mar 2022 01:38:09 +0900</pubDate>
+  <pubDate>Thu, 17 Mar 2022 13:41:58 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 10 Lite (toco) - V13.0.1.0.SFNMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
+    <pubDate>Thu, 17 Mar 2022 13:41:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V12.5.5.0.RKTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
+    <pubDate>Thu, 17 Mar 2022 13:40:44 +0900</pubDate>
+  </item>
     <item>
     <title>Mi A3 (laurel) - V12.0.21.0.RFQMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
@@ -95,16 +105,6 @@
     <title>Xiaomi 12 Pro (zeus) - V13.0.28.0.SLBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
     <pubDate>Sat, 12 Mar 2022 03:11:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.5.0.RKCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
-    <pubDate>Sat, 12 Mar 2022 02:31:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V13.0.28.0.SLCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Sat, 12 Mar 2022 01:58:49 +0900</pubDate>
   </item>
     </channel>
 </rss>

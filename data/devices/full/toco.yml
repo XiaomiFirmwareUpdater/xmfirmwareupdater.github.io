@@ -109,6 +109,16 @@
     android: '11.0'
     miui: V12.1.6.0.RFNEUXM
 - branch: stable
+  date: '2022-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-17.03.2022/fw_toco_miui_TOCOGlobal_V13.0.1.0.SFNMIXM_b856dc7481_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/toco/fw_toco_miui_TOCOGlobal_V13.0.1.0.SFNMIXM_b856dc7481_12.0.zip
+  filename: fw_toco_miui_TOCOGlobal_V13.0.1.0.SFNMIXM_b856dc7481_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SFNMIXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-17.01.2021/fw_toco_miui_TOCOGlobal_V12.1.1.0.RFNMIXM_2ea6513d0f_11.0.zip
