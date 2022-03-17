@@ -159,15 +159,15 @@
     android: '11.0'
     miui: V12.5.8.0.RJDMIXM
 - branch: stable
-  date: '2022-02-25'
+  date: '2022-03-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-25.02.2022/fw_apollo_miui_APOLLO_V13.0.1.0.SJDCNXM_0897b14efb_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLO_V13.0.1.0.SJDCNXM_0897b14efb_12.0.zip
-  filename: fw_apollo_miui_APOLLO_V13.0.1.0.SJDCNXM_0897b14efb_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-17.03.2022/fw_apollo_miui_APOLLO_V13.0.4.0.SJDCNXM_460d89fe60_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLO_V13.0.4.0.SJDCNXM_460d89fe60_12.0.zip
+  filename: fw_apollo_miui_APOLLO_V13.0.4.0.SJDCNXM_460d89fe60_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SJDCNXM
+    miui: V13.0.4.0.SJDCNXM
 - branch: weekly
   date: '2022-03-04'
   downloads:
@@ -829,15 +829,15 @@
     android: '11.0'
     miui: V12.5.2.0.RJAMIXM
 - branch: stable
-  date: '2022-02-28'
+  date: '2022-03-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-28.02.2022/fw_cmi_miui_CMI_V13.0.2.0.SJACNXM_a5a6a0d1a4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMI_V13.0.2.0.SJACNXM_a5a6a0d1a4_12.0.zip
-  filename: fw_cmi_miui_CMI_V13.0.2.0.SJACNXM_a5a6a0d1a4_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-17.03.2022/fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
+  filename: fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJACNXM
+    miui: V13.0.3.0.SJACNXM
 - branch: weekly
   date: '2022-03-04'
   downloads:
@@ -1259,6 +1259,16 @@
     android: '11.0'
     miui: V13.0.3.0.RKEINXM
 - branch: stable
+  date: '2022-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-17.03.2022/fw_fog_miui_FOGINGlobal_V13.0.4.0.RGEINXM_d9a3183d3c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGINGlobal_V13.0.4.0.RGEINXM_d9a3183d3c_11.0.zip
+  filename: fw_fog_miui_FOGINGlobal_V13.0.4.0.RGEINXM_d9a3183d3c_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V13.0.4.0.RGEINXM
+- branch: stable
   date: '2022-03-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-04.03.2022/fw_gauguin_miui_GAUGUINGlobal_V12.5.8.0.RJSMIXM_c2f4c8ddce_11.0.zip
@@ -1269,15 +1279,15 @@
     android: '11.0'
     miui: V12.5.8.0.RJSMIXM
 - branch: stable
-  date: '2022-02-21'
+  date: '2022-03-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-21.02.2022/fw_gauguin_miui_GAUGUIN_V12.5.7.0.RJSCNXM_a96f14358b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUIN_V12.5.7.0.RJSCNXM_a96f14358b_11.0.zip
-  filename: fw_gauguin_miui_GAUGUIN_V12.5.7.0.RJSCNXM_a96f14358b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-17.03.2022/fw_gauguin_miui_GAUGUIN_V13.0.3.0.SJSCNXM_8eeb7f5dd6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUIN_V13.0.3.0.SJSCNXM_8eeb7f5dd6_12.0.zip
+  filename: fw_gauguin_miui_GAUGUIN_V13.0.3.0.SJSCNXM_8eeb7f5dd6_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.7.0.RJSCNXM
+    android: '12.0'
+    miui: V13.0.3.0.SJSCNXM
 - branch: weekly
   date: '2022-03-04'
   downloads:

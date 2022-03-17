@@ -2229,6 +2229,16 @@
     android: '10.0'
     miui: V12.0.3.0.QJDINXM
 - branch: stable
+  date: '2022-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-17.03.2022/fw_apollo_miui_APOLLO_V13.0.4.0.SJDCNXM_460d89fe60_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLO_V13.0.4.0.SJDCNXM_460d89fe60_12.0.zip
+  filename: fw_apollo_miui_APOLLO_V13.0.4.0.SJDCNXM_460d89fe60_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SJDCNXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-16.04.2021/fw_apollo_miui_APOLLOEEAGlobal_V12.1.5.0.RJDEUXM_f56ed5c91f_11.0.zip
@@ -13179,6 +13189,16 @@
     android: '11.0'
     miui: V12.5.2.0.RJAMIXM
 - branch: stable
+  date: '2022-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-17.03.2022/fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
+  filename: fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SJACNXM
+- branch: stable
   date: '2020-06-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-16.06.2020/fw_cmi_miui_CMIGlobal_V11.0.4.0.QJAMIXM_b7a1628522_10.0.zip
@@ -18338,6 +18358,16 @@
   versions:
     android: '11.0'
     miui: V13.0.3.0.RKEEUXM
+- branch: stable
+  date: '2022-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-17.03.2022/fw_fog_miui_FOGINGlobal_V13.0.4.0.RGEINXM_d9a3183d3c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGINGlobal_V13.0.4.0.RGEINXM_d9a3183d3c_11.0.zip
+  filename: fw_fog_miui_FOGINGlobal_V13.0.4.0.RGEINXM_d9a3183d3c_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V13.0.4.0.RGEINXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -18888,6 +18918,16 @@
   versions:
     android: '11.0'
     miui: V12.0.2.0.RJSMIXM
+- branch: stable
+  date: '2022-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-17.03.2022/fw_gauguin_miui_GAUGUIN_V13.0.3.0.SJSCNXM_8eeb7f5dd6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUIN_V13.0.3.0.SJSCNXM_8eeb7f5dd6_12.0.zip
+  filename: fw_gauguin_miui_GAUGUIN_V13.0.3.0.SJSCNXM_8eeb7f5dd6_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SJSCNXM
 - branch: stable
   date: '2021-09-15'
   downloads:
