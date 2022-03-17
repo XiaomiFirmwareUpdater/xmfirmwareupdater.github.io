@@ -14189,6 +14189,16 @@
     android: '12.0'
     miui: V13.0.21.0.SLCCNXM
 - branch: stable
+  date: '2022-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-17.03.2022/fw_cup_miui_CUPIDGlobal_V13.0.4.0.SLCMIXM_2b4b27e370_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cup_miui_CUPIDGlobal_V13.0.4.0.SLCMIXM_2b4b27e370_12.0.zip
+  filename: fw_cup_miui_CUPIDGlobal_V13.0.4.0.SLCMIXM_2b4b27e370_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SLCMIXM
+- branch: stable
   date: '2022-02-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-17.02.2022/fw_cupid_miui_CUPIDEEAGlobal_V13.0.10.0.SLCEUXM_c33cca208e_12.0.zip
@@ -52758,6 +52768,16 @@
   versions:
     android: '12.0'
     miui: V13.0.10.0.SLBEUXM
+- branch: stable
+  date: '2022-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-17.03.2022/fw_zeus_miui_ZEUSGlobal_V13.0.3.0.SLBMIXM_91c62f666f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUSGlobal_V13.0.3.0.SLBMIXM_91c62f666f_12.0.zip
+  filename: fw_zeus_miui_ZEUSGlobal_V13.0.3.0.SLBMIXM_91c62f666f_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SLBMIXM
 - branch: stable
   date: '2022-03-11'
   downloads:
