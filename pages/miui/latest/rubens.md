@@ -1,15 +1,15 @@
 ---
-title: Redmi K50G/POCO F4 GT (ingres) MIUI Downloads
+title: Redmi K50 (rubens) MIUI Downloads
 layout: download
-name: Redmi K50G/POCO F4 GT
-codename: ingres
-permalink: /miui/ingres/
+name: Redmi K50
+codename: rubens
+permalink: /miui/rubens/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/ingres/">Redmi K50G/POCO F4 GT</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/rubens/">Redmi K50</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/ingres/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/ingres/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/ingres/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/ingres/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/rubens/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/rubens/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/rubens/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,8 @@ permalink: /miui/ingres/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.5.1.16.DEV</td><td>12.0</td><td>5.7 GB</td><td>2022-03-18</td><td><a href="/miui/ingres/public beta/V13.0.5.1.16.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SLJCNXM</td><td>12.0</td><td>6.7 GB</td><td>2022-03-08</td><td><a href="/miui/ingres/stable/V13.0.5.0.SLJCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50G China</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLJCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-03-11</td><td><a href="/miui/ingres/stable/V13.0.5.0.SLJCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SLJCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-02-17</td><td><a href="/miui/ingres/stable beta/V13.0.2.0.SLJCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SLNCNXM</td><td>12.0</td><td>6.8 GB</td><td>2022-03-05</td><td><a href="/miui/rubens/stable/V13.0.1.0.SLNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SLNCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-03-18</td><td><a href="/miui/rubens/stable/V13.0.1.0.SLNCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
