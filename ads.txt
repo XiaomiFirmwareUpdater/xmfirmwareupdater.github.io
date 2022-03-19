@@ -1,5 +1,18 @@
 google.com, pub-3257146945160733, DIRECT, f08c47fec0942fa0 
 #VLI
+adagio.io, 1252, RESELLER
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1790, RESELLER
+indexexchange.com, 194558, RESELLER, 50b1c356f2c5c8fc
+onetag.com, 6b859b96c564fbe, RESELLER
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
+smartadserver.com, 4111, RESELLER
+33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
+yahoo.com, 57289, RESELLER, e1a5b5b6e3255540
+appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
 google.com, pub-3960095709930134, RESELLER, f08c47fec0942fa0
 google.com, pub-8278416939377896, DIRECT, f08c47fec0942fa0
 pubmatic.com, 161027, RESELLER, 5d62403b186f2ace
@@ -92,7 +105,6 @@ admanmedia.com, 799, RESELLER
 appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
 appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
-appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9316, RESELLER, f5ab79cb980f11d1
 aps.amazon.com, 2840f06c-5d89-4853-a03e-3bfa567dd33c, RESELLER
 bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93
@@ -161,10 +173,7 @@ rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0
 freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
-yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
 aol.com, 58905, RESELLER, e1a5b5b6e3255540
-appnexus.com, 13099, RESELLER, f5ab79cb980f11d1
-smartadserver.com, 4111, RESELLER
 openx.com, 541147563, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 157940, RESELLER, 5d62403b186f2ace
 appnexus.com, 11711, DIRECT, f5ab79cb980f11d1
