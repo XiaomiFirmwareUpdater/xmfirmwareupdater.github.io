@@ -11939,6 +11939,16 @@
     android: '10.0'
     miui: V12.0.12.0.QJFINXM
 - branch: stable
+  date: '2022-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-21.03.2022/fw_citrus_miui_CITRUSINGlobal_V12.5.3.0.RJFINXM_1e91485f70_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSINGlobal_V12.5.3.0.RJFINXM_1e91485f70_11.0.zip
+  filename: fw_citrus_miui_CITRUSINGlobal_V12.5.3.0.RJFINXM_1e91485f70_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RJFINXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-20.03.2021/fw_citrus_miui_CITRUSEEAGlobal_V12.0.8.0.QJFEUXM_cc40ce3803_10.0.zip
@@ -27969,6 +27979,16 @@
     android: '6.0'
     miui: 8.4.12
 - branch: stable
+  date: '2022-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-21.03.2022/fw_matisse_miui_MATISSE_V13.0.4.0.SLKCNXM_eb66ac74bb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/matisse/fw_matisse_miui_MATISSE_V13.0.4.0.SLKCNXM_eb66ac74bb_12.0.zip
+  filename: fw_matisse_miui_MATISSE_V13.0.4.0.SLKCNXM_eb66ac74bb_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SLKCNXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-31.07.2020/fw_merlin_miui_MERLIN_V12.0.4.0.QJOCNXM_bb96a2c2c3_10.0.zip
@@ -41539,26 +41559,6 @@
     android: '7.0'
     miui: 8.3.26
 - branch: stable
-  date: '2021-10-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-30.10.2021/fw_selene_miui_SELENEGlobal_V12.5.8.0.RKUMIXM_154569385b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEGlobal_V12.5.8.0.RKUMIXM_154569385b_11.0.zip
-  filename: fw_selene_miui_SELENEGlobal_V12.5.8.0.RKUMIXM_154569385b_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.8.0.RKUMIXM
-- branch: stable
-  date: '2021-12-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-27.12.2021/fw_selene_miui_SELENEEEAGlobal_V12.5.11.0.RKUEUXM_3c286d88cf_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEEEAGlobal_V12.5.11.0.RKUEUXM_3c286d88cf_11.0.zip
-  filename: fw_selene_miui_SELENEEEAGlobal_V12.5.11.0.RKUEUXM_3c286d88cf_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.11.0.RKUEUXM
-- branch: stable
   date: '2021-09-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-26.09.2021/fw_selene_miui_SELENEEEAGlobal_V12.5.2.0.RKUEUXM_ee270e9e5d_11.0.zip
@@ -41588,36 +41588,6 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RKUINXM
-- branch: stable
-  date: '2022-02-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-23.02.2022/fw_selene_miui_SELENEINGlobal_V12.5.7.0.RKUINXM_4596b7bb4d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEINGlobal_V12.5.7.0.RKUINXM_4596b7bb4d_11.0.zip
-  filename: fw_selene_miui_SELENEINGlobal_V12.5.7.0.RKUINXM_4596b7bb4d_11.0.zip
-  region: India
-  versions:
-    android: '11.0'
-    miui: V12.5.7.0.RKUINXM
-- branch: stable
-  date: '2021-10-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-22.10.2021/fw_selene_miui_SELENEEEAGlobal_V12.5.9.0.RKUEUXM_2cb0d4e625_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEEEAGlobal_V12.5.9.0.RKUEUXM_2cb0d4e625_11.0.zip
-  filename: fw_selene_miui_SELENEEEAGlobal_V12.5.9.0.RKUEUXM_2cb0d4e625_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.9.0.RKUEUXM
-- branch: stable
-  date: '2021-09-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-22.09.2021/fw_selene_miui_SELENEGlobal_V12.5.6.0.RKUMIXM_5148a4a72b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEGlobal_V12.5.6.0.RKUMIXM_5148a4a72b_11.0.zip
-  filename: fw_selene_miui_SELENEGlobal_V12.5.6.0.RKUMIXM_5148a4a72b_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RKUMIXM
 - branch: stable
   date: '2021-11-19'
   downloads:
@@ -48738,6 +48708,16 @@
   versions:
     android: '11.0'
     miui: V12.0.6.0.RJUMIXM
+- branch: stable
+  date: '2022-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-21.03.2022/fw_vayu_miui_VAYUEEAGlobal_V13.0.1.0.SJUEUXM_7ef0764aa8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUEEAGlobal_V13.0.1.0.SJUEUXM_7ef0764aa8_12.0.zip
+  filename: fw_vayu_miui_VAYUEEAGlobal_V13.0.1.0.SJUEUXM_7ef0764aa8_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SJUEUXM
 - branch: stable
   date: '2021-08-19'
   downloads:

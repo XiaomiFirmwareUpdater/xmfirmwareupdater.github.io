@@ -1,15 +1,15 @@
 ---
-title: Redmi K50 (rubens) MIUI Downloads
+title: Redmi K50 Pro (matisse) MIUI Downloads
 layout: download
-name: Redmi K50
-codename: rubens
-permalink: /miui/rubens/
+name: Redmi K50 Pro
+codename: matisse
+permalink: /miui/matisse/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/rubens/">Redmi K50</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/matisse/">Redmi K50 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/rubens/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/rubens/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/rubens/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/rubens/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/matisse/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/matisse/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/matisse/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,8 +52,8 @@ permalink: /miui/rubens/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SLNCNXM</td><td>12.0</td><td>6.8 GB</td><td>2022-03-17</td><td><a href="/miui/rubens/stable/V13.0.5.0.SLNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 China</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLNCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-03-21</td><td><a href="/miui/rubens/stable/V13.0.5.0.SLNCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLKCNXM</td><td>12.0</td><td>6.9 GB</td><td>2022-03-13</td><td><a href="/miui/matisse/stable/V13.0.4.0.SLKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLKCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-03-21</td><td><a href="/miui/matisse/stable/V13.0.4.0.SLKCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
