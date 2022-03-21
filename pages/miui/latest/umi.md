@@ -59,7 +59,7 @@ permalink: /miui/umi/
 <tr><td>Mi 10 China</td><td>Weekly</td><td>Recovery</td><td>22.3.3</td><td>12.0</td><td>4.7 GB</td><td>2022-03-03</td><td><a href="/miui/umi/weekly/22.3.3/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RJBEUXM</td><td>11.0</td><td>5.3 GB</td><td>2022-01-20</td><td><a href="/miui/umi/stable/V12.5.8.0.RJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RJBEUXM</td><td>11.0</td><td>3.3 GB</td><td>2022-01-26</td><td><a href="/miui/umi/stable/V12.5.8.0.RJBEUXM/">Download</a></td></tr>
-<tr><td>Mi 10 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.1.0.RJBEUXM</td><td>11.0</td><td>3.1 GB</td><td>2020-12-03</td><td><a href="/miui/umi/stable beta/V12.2.1.0.RJBEUXM/">Download</a></td></tr>
+<tr><td>Mi 10 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJBEUXM</td><td>12.0</td><td>3.6 GB</td><td>2022-03-21</td><td><a href="/miui/umi/stable beta/V13.0.1.0.SJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJBMIXM</td><td>11.0</td><td>5.1 GB</td><td>2021-07-07</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJBMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-16</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RJBMIXM</td><td>11.0</td><td>3.3 GB</td><td>2022-03-04</td><td><a href="/miui/umi/stable beta/V12.5.4.0.RJBMIXM/">Download</a></td></tr>
