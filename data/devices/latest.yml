@@ -409,15 +409,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2022-02-15'
+  date: '2022-03-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-15.02.2022/fw_camellia_miui_CAMELLIA_V12.5.5.0.RKSCNXM_d5dac6971f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.5.5.0.RKSCNXM_d5dac6971f_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_V12.5.5.0.RKSCNXM_d5dac6971f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-21.03.2022/fw_camellia_miui_CAMELLIA_V13.0.3.0.SKSCNXM_0ce4d83cdf_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellia/fw_camellia_miui_CAMELLIA_V13.0.3.0.SKSCNXM_0ce4d83cdf_12.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V13.0.3.0.SKSCNXM_0ce4d83cdf_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.5.0.RKSCNXM
+    android: '12.0'
+    miui: V13.0.3.0.SKSCNXM
 - branch: weekly
   date: '2022-03-04'
   downloads:
@@ -3259,15 +3259,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2022-03-19'
+  date: '2022-03-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-19.03.2022/fw_rubens_miui_RUBENS_V13.0.1.0.SLNCNXM_b7796d25dd_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rubens/fw_rubens_miui_RUBENS_V13.0.1.0.SLNCNXM_b7796d25dd_12.0.zip
-  filename: fw_rubens_miui_RUBENS_V13.0.1.0.SLNCNXM_b7796d25dd_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-21.03.2022/fw_rubens_miui_RUBENS_V13.0.5.0.SLNCNXM_b96dce1e6e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rubens/fw_rubens_miui_RUBENS_V13.0.5.0.SLNCNXM_b96dce1e6e_12.0.zip
+  filename: fw_rubens_miui_RUBENS_V13.0.5.0.SLNCNXM_b96dce1e6e_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SLNCNXM
+    miui: V13.0.5.0.SLNCNXM
 - branch: stable
   date: '2020-03-23'
   downloads:
@@ -3429,15 +3429,15 @@
     android: '12.0'
     miui: V13.0.1.0.SKUMIXM
 - branch: stable
-  date: '2021-10-10'
+  date: '2022-03-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-11.10.2021/fw_selene_miui_SELENEEEAGlobal_V12.5.5.0.RKUEUXM_d026faeb6e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEEEAGlobal_V12.5.5.0.RKUEUXM_d026faeb6e_11.0.zip
-  filename: fw_selene_miui_SELENEEEAGlobal_V12.5.5.0.RKUEUXM_d026faeb6e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-21.03.2022/fw_selene_miui_SELENEEEAGlobal_V12.5.15.0.RKUEUXM_148cd43dad_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEEEAGlobal_V12.5.15.0.RKUEUXM_148cd43dad_11.0.zip
+  filename: fw_selene_miui_SELENEEEAGlobal_V12.5.15.0.RKUEUXM_148cd43dad_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RKUEUXM
+    miui: V12.5.15.0.RKUEUXM
 - branch: stable
   date: '2022-03-14'
   downloads:

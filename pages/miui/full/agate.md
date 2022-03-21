@@ -54,7 +54,8 @@ permalink: /archive/miui/agate/
                 <tbody>
                 <tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKWTRXM</td><td>12.0</td><td>3.4 GB</td><td>2022-03-17</td><td><a href="/miui/agate/stable/V13.0.1.0.SKWTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKWTRXM</td><td>12.0</td><td>5.7 GB</td><td>2022-03-06</td><td><a href="/miui/agate/stable/V13.0.1.0.SKWTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKWTWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-03-16</td><td><a href="/miui/agate/stable beta/V13.0.1.0.SKWTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKWTWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-03-16</td><td><a href="/miui/agate/stable/V13.0.1.0.SKWTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKWTWXM</td><td>12.0</td><td>5.2 GB</td><td>2022-03-05</td><td><a href="/miui/agate/stable/V13.0.1.0.SKWTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.10.0.RKWEUXM</td><td>11.0</td><td>3.1 GB</td><td>2022-02-28</td><td><a href="/miui/agate/stable/V12.5.10.0.RKWEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.10.0.RKWEUXM</td><td>11.0</td><td>6.1 GB</td><td>2022-02-15</td><td><a href="/miui/agate/stable/V12.5.10.0.RKWEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKWEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-02-26</td><td><a href="/miui/agate/stable/V13.0.2.0.SKWEUXM/">Download</a></td></tr>
