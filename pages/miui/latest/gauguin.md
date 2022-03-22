@@ -70,6 +70,7 @@ permalink: /miui/gauguin/
 <tr><td>Mi 10T Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJSTRXM</td><td>11.0</td><td>2.8 GB</td><td>2021-06-03</td><td><a href="/miui/gauguin/stable beta/V12.0.1.0.RJSTRXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJSTWXM</td><td>11.0</td><td>4.1 GB</td><td>2021-11-29</td><td><a href="/miui/gauguin/stable/V12.5.2.0.RJSTWXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJSTWXM</td><td>11.0</td><td>2.9 GB</td><td>2021-12-06</td><td><a href="/miui/gauguin/stable/V12.5.2.0.RJSTWXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RJSTWXM</td><td>11.0</td><td>2.9 GB</td><td>2022-03-22</td><td><a href="/miui/gauguin/stable beta/V12.5.4.0.RJSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
