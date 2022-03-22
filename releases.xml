@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 23 Mar 2022 02:02:05 +0900</pubDate>
+  <pubDate>Wed, 23 Mar 2022 07:23:09 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 8 Pro (equuleus) - V12.5.1.0.QECCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/equuleus</link>
+    <pubDate>Wed, 23 Mar 2022 07:23:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 9 (cepheus) - V12.5.5.0.RFACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cepheus</link>
+    <pubDate>Wed, 23 Mar 2022 07:21:21 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40S (munch) - V13.0.2.0.SLMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.3.0.SJSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
     <pubDate>Fri, 18 Mar 2022 01:49:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10C (fog) - V13.0.4.0.RGEINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
-    <pubDate>Fri, 18 Mar 2022 01:47:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V13.0.3.0.SJACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Fri, 18 Mar 2022 01:29:34 +0900</pubDate>
   </item>
     </channel>
 </rss>
