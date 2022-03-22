@@ -64,6 +64,7 @@ permalink: /miui/vili/
 <tr><td>Xiaomi 11T Pro India</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKDINXM</td><td>11.0</td><td>3.4 GB</td><td>2022-01-19</td><td><a href="/miui/vili/stable/V12.5.2.0.RKDINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKDJPXM</td><td>11.0</td><td>5.8 GB</td><td>2022-02-07</td><td><a href="/miui/vili/stable/V12.5.4.0.RKDJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Japan</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKDJPXM</td><td>11.0</td><td>3.4 GB</td><td>2022-02-14</td><td><a href="/miui/vili/stable/V12.5.4.0.RKDJPXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Pro Japan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKDJPXM</td><td>12.0</td><td>3.8 GB</td><td>2022-03-22</td><td><a href="/miui/vili/stable beta/V13.0.1.0.SKDJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKDRUXM</td><td>11.0</td><td>5.6 GB</td><td>2021-12-17</td><td><a href="/miui/vili/stable/V12.5.4.0.RKDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKDRUXM</td><td>11.0</td><td>3.4 GB</td><td>2021-12-24</td><td><a href="/miui/vili/stable/V12.5.4.0.RKDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKDTRXM</td><td>11.0</td><td>5.1 GB</td><td>2021-12-23</td><td><a href="/miui/vili/stable/V12.5.3.0.RKDTRXM/">Download</a></td></tr>
