@@ -52,9 +52,9 @@ permalink: /miui/angelicain/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C3 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.16.0.QCRINXM</td><td>10.0</td><td>2.5 GB</td><td>2022-01-20</td><td><a href="/miui/angelicain/stable/V12.0.16.0.QCRINXM/">Download</a></td></tr>
-<tr><td>POCO C3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.16.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-01-27</td><td><a href="/miui/angelicain/stable/V12.0.16.0.QCRINXM/">Download</a></td></tr>
-<tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.17.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-03-10</td><td><a href="/miui/angelicain/stable beta/V12.0.17.0.QCRINXM/">Download</a></td></tr>
+                <tr><td>POCO C3 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.17.0.QCRINXM</td><td>10.0</td><td>2.4 GB</td><td>2022-03-04</td><td><a href="/miui/angelicain/stable/V12.0.17.0.QCRINXM/">Download</a></td></tr>
+<tr><td>POCO C3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.17.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-03-10</td><td><a href="/miui/angelicain/stable/V12.0.17.0.QCRINXM/">Download</a></td></tr>
+<tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QCRINXM</td><td>10.0</td><td>1.6 GB</td><td>2020-10-27</td><td><a href="/miui/angelicain/stable beta/V12.0.2.0.QCRINXM/">Download</a></td></tr>
 <tr><td>POCO C31 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QCRINRF</td><td>10.0</td><td>2.6 GB</td><td>2022-02-15</td><td><a href="/miui/angelicain/stable/V12.0.4.0.QCRINRF/">Download</a></td></tr>
 <tr><td>POCO C31 India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCRINRF</td><td>10.0</td><td>1.8 GB</td><td>2022-02-17</td><td><a href="/miui/angelicain/stable/V12.0.4.0.QCRINRF/">Download</a></td></tr>
 <tr><td>POCO C31 India</td><td>Stable Beta</td><td>Fastboot</td><td>V12.0.1.0.QCRINRF</td><td>10.0</td><td>2.4 GB</td><td>2021-09-12</td><td><a href="/miui/angelicain/stable beta/V12.0.1.0.QCRINRF/">Download</a></td></tr>
