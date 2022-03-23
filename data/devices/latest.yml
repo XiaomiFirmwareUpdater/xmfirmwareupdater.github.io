@@ -189,15 +189,15 @@
     android: '11.0'
     miui: V12.5.12.0.RJDEUXM
 - branch: stable
-  date: '2021-10-11'
+  date: '2022-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-11.10.2021/fw_apollo_miui_APOLLOINGlobal_V12.5.3.0.RJDINXM_322250c88e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOINGlobal_V12.5.3.0.RJDINXM_322250c88e_11.0.zip
-  filename: fw_apollo_miui_APOLLOINGlobal_V12.5.3.0.RJDINXM_322250c88e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-23.03.2022/fw_apollo_miui_APOLLOINGlobal_V12.5.4.0.RJDINXM_37b2ddd662_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOINGlobal_V12.5.4.0.RJDINXM_37b2ddd662_11.0.zip
+  filename: fw_apollo_miui_APOLLOINGlobal_V12.5.4.0.RJDINXM_37b2ddd662_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RJDINXM
+    miui: V12.5.4.0.RJDINXM
 - branch: stable
   date: '2018-11-07'
   downloads:
@@ -409,15 +409,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2022-03-21'
+  date: '2022-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-21.03.2022/fw_camellia_miui_CAMELLIA_V13.0.3.0.SKSCNXM_0ce4d83cdf_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellia/fw_camellia_miui_CAMELLIA_V13.0.3.0.SKSCNXM_0ce4d83cdf_12.0.zip
-  filename: fw_camellia_miui_CAMELLIA_V13.0.3.0.SKSCNXM_0ce4d83cdf_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-23.03.2022/fw_camellia_miui_CAMELLIA_V13.0.4.0.SKSCNXM_74f17ab9dc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellia/fw_camellia_miui_CAMELLIA_V13.0.4.0.SKSCNXM_74f17ab9dc_12.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V13.0.4.0.SKSCNXM_74f17ab9dc_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SKSCNXM
+    miui: V13.0.4.0.SKSCNXM
 - branch: weekly
   date: '2022-03-04'
   downloads:

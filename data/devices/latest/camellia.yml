@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-03-21'
+  date: '2022-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-21.03.2022/fw_camellia_miui_CAMELLIA_V13.0.3.0.SKSCNXM_0ce4d83cdf_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellia/fw_camellia_miui_CAMELLIA_V13.0.3.0.SKSCNXM_0ce4d83cdf_12.0.zip
-  filename: fw_camellia_miui_CAMELLIA_V13.0.3.0.SKSCNXM_0ce4d83cdf_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-23.03.2022/fw_camellia_miui_CAMELLIA_V13.0.4.0.SKSCNXM_74f17ab9dc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellia/fw_camellia_miui_CAMELLIA_V13.0.4.0.SKSCNXM_74f17ab9dc_12.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V13.0.4.0.SKSCNXM_74f17ab9dc_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SKSCNXM
+    miui: V13.0.4.0.SKSCNXM
 - branch: weekly
   date: '2022-03-04'
   downloads:
