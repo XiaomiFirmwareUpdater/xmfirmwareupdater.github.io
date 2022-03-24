@@ -64,9 +64,8 @@ permalink: /miui/courbet/
 <tr><td>Mi 11 Lite 4G India</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKQINXM</td><td>11.0</td><td>3.7 GB</td><td>2022-02-11</td><td><a href="/miui/courbet/stable/V12.5.4.0.RKQINXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G India</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKQINXM</td><td>11.0</td><td>3.0 GB</td><td>2022-02-17</td><td><a href="/miui/courbet/stable/V12.5.4.0.RKQINXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKQINXM</td><td>12.0</td><td>3.2 GB</td><td>2022-03-16</td><td><a href="/miui/courbet/stable beta/V13.0.1.0.SKQINXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 4G Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKQRUXM</td><td>11.0</td><td>4.9 GB</td><td>2022-02-16</td><td><a href="/miui/courbet/stable/V12.5.4.0.RKQRUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 4G Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKQRUXM</td><td>11.0</td><td>3.0 GB</td><td>2022-02-22</td><td><a href="/miui/courbet/stable/V12.5.4.0.RKQRUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 4G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKQRUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-03-16</td><td><a href="/miui/courbet/stable beta/V13.0.1.0.SKQRUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKQRUXM</td><td>12.0</td><td>5.3 GB</td><td>2022-03-06</td><td><a href="/miui/courbet/stable/V13.0.1.0.SKQRUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKQRUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-03-16</td><td><a href="/miui/courbet/stable/V13.0.1.0.SKQRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKQTRXM</td><td>11.0</td><td>4.6 GB</td><td>2022-02-16</td><td><a href="/miui/courbet/stable/V12.5.4.0.RKQTRXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKQTRXM</td><td>11.0</td><td>3.0 GB</td><td>2022-02-22</td><td><a href="/miui/courbet/stable/V12.5.4.0.RKQTRXM/">Download</a></td></tr>
 
