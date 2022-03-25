@@ -89,6 +89,16 @@
     android: '11.0'
     miui: 20.11.25
 - branch: weekly
+  date: '2022-03-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/weekly-25.03.2022/fw_cas_miui_CASPRE_22.3.23_33794b9290_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/cas/fw_cas_miui_CASPRE_22.3.23_33794b9290_12.0.zip
+  filename: fw_cas_miui_CASPRE_22.3.23_33794b9290_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.23
+- branch: weekly
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/weekly-25.02.2021/fw_cas_miui_CAS_21.2.24_20958553bf_11.0.zip

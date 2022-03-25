@@ -99,6 +99,16 @@
     android: '11.0'
     miui: 21.2.24
 - branch: weekly
+  date: '2022-03-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-25.03.2022/fw_phoenix_miui_PHOENIXPRE_22.3.23_0242e16634_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/phoenix/fw_phoenix_miui_PHOENIXPRE_22.3.23_0242e16634_12.0.zip
+  filename: fw_phoenix_miui_PHOENIXPRE_22.3.23_0242e16634_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.23
+- branch: weekly
   date: '2022-02-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/weekly-25.02.2022/fw_phoenix_miui_PHOENIXPRE_22.2.23_157de820f9_12.0.zip

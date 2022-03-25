@@ -19,15 +19,15 @@
     android: '11.0'
     miui: V12.5.6.0.RJQCNXM
 - branch: weekly
-  date: '2022-03-04'
+  date: '2022-03-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-04.03.2022/fw_lime_miui_LIME_22.3.2_1fc1f2314c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.2/lime/fw_lime_miui_LIME_22.3.2_1fc1f2314c_11.0.zip
-  filename: fw_lime_miui_LIME_22.3.2_1fc1f2314c_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-25.03.2022/fw_lime_miui_LIME_22.3.23_28bf0c7eda_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/lime/fw_lime_miui_LIME_22.3.23_28bf0c7eda_11.0.zip
+  filename: fw_lime_miui_LIME_22.3.23_28bf0c7eda_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 22.3.2
+    miui: 22.3.23
 - branch: stable
   date: '2022-01-29'
   downloads:

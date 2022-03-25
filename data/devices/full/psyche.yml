@@ -1,4 +1,14 @@
 - branch: weekly
+  date: '2022-03-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/weekly-25.03.2022/fw_psyche_miui_PSYCHEPRE_22.3.24_e31cc10d3b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.24/psyche/fw_psyche_miui_PSYCHEPRE_22.3.24_e31cc10d3b_12.0.zip
+  filename: fw_psyche_miui_PSYCHEPRE_22.3.24_e31cc10d3b_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.24
+- branch: weekly
   date: '2022-03-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/weekly-04.03.2022/fw_psyche_miui_PSYCHEPRE_22.3.3_af08026cbd_12.0.zip

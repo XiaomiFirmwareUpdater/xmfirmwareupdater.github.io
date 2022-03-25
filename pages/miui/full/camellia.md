@@ -52,7 +52,9 @@ permalink: /archive/miui/camellia/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKSCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-03-21</td><td><a href="/miui/camellia/stable beta/V13.0.4.0.SKSCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.18.DEV</td><td>12.0</td><td>3.7 GB</td><td>2022-03-25</td><td><a href="/miui/camellia/public beta/V13.0.4.1.18.DEV/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.0 GB</td><td>2022-03-24</td><td><a href="/miui/camellia/weekly/22.3.23/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKSCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-03-21</td><td><a href="/miui/camellia/stable beta/V13.0.4.0.SKSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.16.DEV</td><td>12.0</td><td>3.7 GB</td><td>2022-03-18</td><td><a href="/miui/camellia/public beta/V13.0.3.1.16.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.13.DEV</td><td>12.0</td><td>3.8 GB</td><td>2022-03-04</td><td><a href="/miui/camellia/public beta/V13.0.3.1.13.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.3</td><td>12.0</td><td>4.1 GB</td><td>2022-03-03</td><td><a href="/miui/camellia/weekly/22.3.3/">Download</a></td></tr>

@@ -52,7 +52,8 @@ permalink: /archive/miui/vangogh/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>22.3.3</td><td>12.0</td><td>4.6 GB</td><td>2022-03-03</td><td><a href="/miui/vangogh/weekly/22.3.3/">Download</a></td></tr>
+                <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.5 GB</td><td>2022-03-24</td><td><a href="/miui/vangogh/weekly/22.3.23/">Download</a></td></tr>
+<tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>22.3.3</td><td>12.0</td><td>4.6 GB</td><td>2022-03-03</td><td><a href="/miui/vangogh/weekly/22.3.3/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>22.2.23</td><td>12.0</td><td>4.6 GB</td><td>2022-02-24</td><td><a href="/miui/vangogh/weekly/22.2.23/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>22.2.17</td><td>12.0</td><td>4.5 GB</td><td>2022-02-17</td><td><a href="/miui/vangogh/weekly/22.2.17/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>4.5 GB</td><td>2022-02-10</td><td><a href="/miui/vangogh/weekly/22.2.9/">Download</a></td></tr>

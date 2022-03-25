@@ -89,6 +89,16 @@
     android: '11.0'
     miui: 21.2.24
 - branch: weekly
+  date: '2022-03-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-25.03.2022/fw_lime_miui_LIME_22.3.23_28bf0c7eda_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/lime/fw_lime_miui_LIME_22.3.23_28bf0c7eda_11.0.zip
+  filename: fw_lime_miui_LIME_22.3.23_28bf0c7eda_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 22.3.23
+- branch: weekly
   date: '2021-09-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-24.09.2021/fw_lime_miui_LIME_21.9.22_467cc32fff_11.0.zip

@@ -159,6 +159,16 @@
     android: '11.0'
     miui: 21.6.23
 - branch: weekly
+  date: '2022-03-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-25.03.2022/fw_umi_miui_UMIPRE_22.3.23_0f01006a0c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/umi/fw_umi_miui_UMIPRE_22.3.23_0f01006a0c_12.0.zip
+  filename: fw_umi_miui_UMIPRE_22.3.23_0f01006a0c_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.23
+- branch: weekly
   date: '2022-02-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/weekly-25.02.2022/fw_umi_miui_UMIPRE_22.2.23_e83503efc0_12.0.zip

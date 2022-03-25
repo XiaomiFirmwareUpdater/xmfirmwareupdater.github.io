@@ -19,6 +19,16 @@
     android: '12.0'
     miui: 21.11.25
 - branch: weekly
+  date: '2022-03-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-25.03.2022/fw_mona_miui_MONAPRE_22.3.23_2db23136ed_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/mona/fw_mona_miui_MONAPRE_22.3.23_2db23136ed_12.0.zip
+  filename: fw_mona_miui_MONAPRE_22.3.23_2db23136ed_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.23
+- branch: weekly
   date: '2022-02-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/weekly-25.02.2022/fw_mona_miui_MONAPRE_22.2.23_f2f7b5a6ef_12.0.zip
