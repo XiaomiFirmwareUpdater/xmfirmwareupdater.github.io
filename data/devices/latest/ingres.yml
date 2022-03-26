@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2022-03-14'
+  date: '2022-03-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-14.03.2022/fw_ingres_miui_INGRES_V13.0.5.0.SLJCNXM_32216ae872_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.5.0.SLJCNXM_32216ae872_12.0.zip
-  filename: fw_ingres_miui_INGRES_V13.0.5.0.SLJCNXM_32216ae872_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-26.03.2022/fw_ingres_miui_INGRES_V13.0.6.0.SLJCNXM_c0269382e1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.6.0.SLJCNXM_c0269382e1_12.0.zip
+  filename: fw_ingres_miui_INGRES_V13.0.6.0.SLJCNXM_c0269382e1_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SLJCNXM
+    miui: V13.0.6.0.SLJCNXM

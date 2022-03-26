@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2022-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-26.03.2022/fw_matisse_miui_MATISSE_V13.0.8.0.SLKCNXM_70ecb61528_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/matisse/fw_matisse_miui_MATISSE_V13.0.8.0.SLKCNXM_70ecb61528_12.0.zip
+  filename: fw_matisse_miui_MATISSE_V13.0.8.0.SLKCNXM_70ecb61528_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SLKCNXM
+- branch: stable
   date: '2022-03-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-21.03.2022/fw_matisse_miui_MATISSE_V13.0.4.0.SLKCNXM_eb66ac74bb_12.0.zip
