@@ -1650,6 +1650,12 @@
   version: V13.0.2.0.RKCINXM
 - android: '12.0'
   codename: vili
+  date: '2022-03-26'
+  download: https://bigota.d.miui.com/V13.0.1.0.SKDINXM/fw_vili_miui_VILIINGlobal_V13.0.1.0.SKDINXM_6e9ba811b9_12.0.zip
+  name: Xiaomi 11T Pro
+  version: V13.0.1.0.SKDINXM
+- android: '12.0'
+  codename: vili
   date: '2022-03-07'
   download: https://bigota.d.miui.com/V13.0.8.0.SKDEUXM/fw_vili_miui_VILIEEAGlobal_V13.0.8.0.SKDEUXM_5142aa18f5_12.0.zip
   name: Xiaomi 11T Pro
