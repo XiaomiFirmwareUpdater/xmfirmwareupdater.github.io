@@ -39,6 +39,26 @@
     android: '9.0'
     miui: V11.0.4.0.PCXMIXM
 - branch: stable
+  date: '2022-03-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-28.03.2022/fw_willow_miui_WILLOWEEAGlobal_V12.5.4.0.RCXEUXM_2ed5c302b1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWEEAGlobal_V12.5.4.0.RCXEUXM_2ed5c302b1_11.0.zip
+  filename: fw_willow_miui_WILLOWEEAGlobal_V12.5.4.0.RCXEUXM_2ed5c302b1_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RCXEUXM
+- branch: stable
+  date: '2022-03-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-28.03.2022/fw_willow_miui_WILLOWGlobal_V12.5.4.0.RCXMIXM_af28bfa813_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.5.4.0.RCXMIXM_af28bfa813_11.0.zip
+  filename: fw_willow_miui_WILLOWGlobal_V12.5.4.0.RCXMIXM_af28bfa813_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RCXMIXM
+- branch: stable
   date: '2020-03-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-26.03.2020/fw_willow_miui_WILLOWEEAGlobal_V11.0.6.0.PCXEUXM_6562ed09a3_9.0.zip
