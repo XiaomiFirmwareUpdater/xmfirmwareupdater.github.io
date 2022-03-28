@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 27 Mar 2022 01:45:11 +0900</pubDate>
+  <pubDate>Mon, 28 Mar 2022 14:19:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V13.0.14.0.SLBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Mon, 28 Mar 2022 14:19:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.14.0.SLCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Mon, 28 Mar 2022 13:47:42 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 11T Pro (vili) - V13.0.1.0.SKDINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - 22.3.23</title>
     <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
     <pubDate>Sat, 26 Mar 2022 04:03:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - 22.3.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Sat, 26 Mar 2022 04:01:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - 22.3.23</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Sat, 26 Mar 2022 04:00:27 +0900</pubDate>
   </item>
     </channel>
 </rss>

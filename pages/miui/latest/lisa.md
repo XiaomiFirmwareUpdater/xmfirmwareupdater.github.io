@@ -52,9 +52,8 @@ permalink: /miui/lisa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 LE China</td><td>Stable</td><td>Fastboot</td><td>V12.5.9.0.RKOCNXM</td><td>11.0</td><td>5.9 GB</td><td>2022-02-11</td><td><a href="/miui/lisa/stable/V12.5.9.0.RKOCNXM/">Download</a></td></tr>
-<tr><td>Mi 11 LE China</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RKOCNXM</td><td>11.0</td><td>4.0 GB</td><td>2022-02-16</td><td><a href="/miui/lisa/stable/V12.5.9.0.RKOCNXM/">Download</a></td></tr>
-<tr><td>Mi 11 LE China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKOCNXM</td><td>12.0</td><td>4.4 GB</td><td>2022-03-19</td><td><a href="/miui/lisa/stable beta/V13.0.1.0.SKOCNXM/">Download</a></td></tr>
+                <tr><td>Mi 11 LE China</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKOCNXM</td><td>12.0</td><td>6.3 GB</td><td>2022-03-01</td><td><a href="/miui/lisa/stable/V13.0.1.0.SKOCNXM/">Download</a></td></tr>
+<tr><td>Mi 11 LE China</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKOCNXM</td><td>12.0</td><td>4.4 GB</td><td>2022-03-19</td><td><a href="/miui/lisa/stable/V13.0.1.0.SKOCNXM/">Download</a></td></tr>
 <tr><td>Mi 11 LE China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.5 GB</td><td>2022-03-24</td><td><a href="/miui/lisa/weekly/22.3.23/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKOEUXM</td><td>12.0</td><td>6.5 GB</td><td>2022-01-24</td><td><a href="/miui/lisa/stable/V13.0.5.0.SKOEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKOEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-02-16</td><td><a href="/miui/lisa/stable/V13.0.5.0.SKOEUXM/">Download</a></td></tr>
