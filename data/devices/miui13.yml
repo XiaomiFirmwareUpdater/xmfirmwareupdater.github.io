@@ -148,12 +148,6 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SKJINXM/fw_ares_miui_ARESINGlobal_V13.0.1.0.SKJINXM_f83ba2a353_12.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
   version: V13.0.1.0.SKJINXM
-- android: '12.0'
-  codename: ares
-  date: '2022-03-04'
-  download: https://bigota.d.miui.com/V13.0.3.0.SKJCNXM/fw_ares_miui_ARES_V13.0.3.0.SKJCNXM_45927a602a_12.0.zip
-  name: Redmi K40 Gaming/POCO F3 GT
-  version: V13.0.3.0.SKJCNXM
 - android: '11.0'
   codename: atom
   date: '2022-03-04'
@@ -876,6 +870,12 @@
   version: V13.0.0.1.1.DEV
 - android: '12.0'
   codename: matisse
+  date: '2022-03-29'
+  download: https://bigota.d.miui.com/V13.0.9.0.SLKCNXM/fw_matisse_miui_MATISSE_V13.0.9.0.SLKCNXM_1e31938178_12.0.zip
+  name: Redmi K50 Pro
+  version: V13.0.9.0.SLKCNXM
+- android: '12.0'
+  codename: matisse
   date: '2022-03-26'
   download: https://bigota.d.miui.com/V13.0.8.0.SLKCNXM/fw_matisse_miui_MATISSE_V13.0.8.0.SLKCNXM_70ecb61528_12.0.zip
   name: Redmi K50 Pro
@@ -1252,6 +1252,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SKIMIXM/fw_renoir_miui_RENOIRGlobal_V13.0.3.0.SKIMIXM_b771addef2_12.0.zip
   name: Mi 11 Lite 5G
   version: V13.0.3.0.SKIMIXM
+- android: '12.0'
+  codename: rubens
+  date: '2022-03-29'
+  download: https://bigota.d.miui.com/V13.0.7.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.7.0.SLNCNXM_7b77e2c31c_12.0.zip
+  name: Redmi K50
+  version: V13.0.7.0.SLNCNXM
 - android: '12.0'
   codename: rubens
   date: '2022-03-26'
