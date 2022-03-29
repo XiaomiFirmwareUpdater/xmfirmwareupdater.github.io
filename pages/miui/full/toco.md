@@ -52,7 +52,8 @@ permalink: /archive/miui/toco/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi Note 10 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SFNMIXM</td><td>12.0</td><td>3.1 GB</td><td>2022-03-12</td><td><a href="/miui/toco/stable beta/V13.0.1.0.SFNMIXM/">Download</a></td></tr>
+                <tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SFNMIXM</td><td>12.0</td><td>3.1 GB</td><td>2022-03-12</td><td><a href="/miui/toco/stable/V13.0.1.0.SFNMIXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SFNMIXM</td><td>12.0</td><td>4.9 GB</td><td>2022-03-07</td><td><a href="/miui/toco/stable/V13.0.1.0.SFNMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RFNTRXM</td><td>11.0</td><td>2.8 GB</td><td>2022-02-07</td><td><a href="/miui/toco/stable/V12.5.5.0.RFNTRXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RFNTRXM</td><td>11.0</td><td>4.1 GB</td><td>2022-01-20</td><td><a href="/miui/toco/stable/V12.5.5.0.RFNTRXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RFNMIXM</td><td>11.0</td><td>2.7 GB</td><td>2022-01-29</td><td><a href="/miui/toco/stable/V12.5.7.0.RFNMIXM/">Download</a></td></tr>
@@ -69,10 +70,10 @@ permalink: /archive/miui/toco/
 <tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RFNMIXM</td><td>11.0</td><td>4.6 GB</td><td>2021-11-25</td><td><a href="/miui/toco/stable/V12.5.4.0.RFNMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RFNEUXM</td><td>11.0</td><td>2.8 GB</td><td>2021-12-09</td><td><a href="/miui/toco/stable/V12.5.5.0.RFNEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RFNEUXM</td><td>11.0</td><td>4.6 GB</td><td>2021-11-25</td><td><a href="/miui/toco/stable/V12.5.5.0.RFNEUXM/">Download</a></td></tr>
-<tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RFNEUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-10-11</td><td><a href="/miui/toco/stable/V12.5.4.0.RFNEUXM/">Download</a></td></tr>
-<tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RFNEUXM</td><td>11.0</td><td>4.6 GB</td><td>2021-09-21</td><td><a href="/miui/toco/stable/V12.5.4.0.RFNEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RFNTRXM</td><td>11.0</td><td>2.7 GB</td><td>2021-10-19</td><td><a href="/miui/toco/stable/V12.5.3.0.RFNTRXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RFNTRXM</td><td>11.0</td><td>4.0 GB</td><td>2021-10-10</td><td><a href="/miui/toco/stable/V12.5.3.0.RFNTRXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RFNEUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-10-11</td><td><a href="/miui/toco/stable/V12.5.4.0.RFNEUXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RFNEUXM</td><td>11.0</td><td>4.6 GB</td><td>2021-09-21</td><td><a href="/miui/toco/stable/V12.5.4.0.RFNEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RFNMIXM</td><td>11.0</td><td>2.6 GB</td><td>2021-10-08</td><td><a href="/miui/toco/stable/V12.5.3.0.RFNMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RFNMIXM</td><td>11.0</td><td>4.5 GB</td><td>2021-09-21</td><td><a href="/miui/toco/stable/V12.5.3.0.RFNMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RFNRUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-09-22</td><td><a href="/miui/toco/stable/V12.5.2.0.RFNRUXM/">Download</a></td></tr>
@@ -135,12 +136,12 @@ permalink: /archive/miui/toco/
 <tr><td>Mi Note 10 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V11.0.6.0.QFNMIXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-27</td><td><a href="/miui/toco/stable beta/V11.0.6.0.QFNMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.8.0.QFNMIXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-25</td><td><a href="/miui/toco/stable/V11.0.8.0.QFNMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.8.0.QFNMIXM</td><td>10.0</td><td>3.9 GB</td><td>2020-07-22</td><td><a href="/miui/toco/stable/V11.0.8.0.QFNMIXM/">Download</a></td></tr>
-<tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QFNMIXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-13</td><td><a href="/miui/toco/stable/V11.0.7.0.QFNMIXM/">Download</a></td></tr>
-<tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.QFNMIXM</td><td>10.0</td><td>3.9 GB</td><td>2020-07-04</td><td><a href="/miui/toco/stable/V11.0.7.0.QFNMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.QFNEUXM</td><td>10.0</td><td>2.4 GB</td><td>2020-09-04</td><td><a href="/miui/toco/stable/V12.0.1.0.QFNEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.QFNEUXM</td><td>10.0</td><td>4.0 GB</td><td>2020-08-25</td><td><a href="/miui/toco/stable/V12.0.1.0.QFNEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QFNMIXM</td><td>10.0</td><td>2.4 GB</td><td>2020-09-01</td><td><a href="/miui/toco/stable/V12.0.2.0.QFNMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QFNMIXM</td><td>10.0</td><td>3.9 GB</td><td>2020-08-25</td><td><a href="/miui/toco/stable/V12.0.2.0.QFNMIXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V11.0.7.0.QFNMIXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-13</td><td><a href="/miui/toco/stable/V11.0.7.0.QFNMIXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.7.0.QFNMIXM</td><td>10.0</td><td>3.9 GB</td><td>2020-07-04</td><td><a href="/miui/toco/stable/V11.0.7.0.QFNMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QFNRUXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-13</td><td><a href="/miui/toco/stable/V11.0.4.0.QFNRUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QFNRUXM</td><td>10.0</td><td>3.9 GB</td><td>2020-07-08</td><td><a href="/miui/toco/stable/V11.0.4.0.QFNRUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.10.0.QFNEUXM</td><td>10.0</td><td>2.4 GB</td><td>2020-06-30</td><td><a href="/miui/toco/stable/V11.0.10.0.QFNEUXM/">Download</a></td></tr>
