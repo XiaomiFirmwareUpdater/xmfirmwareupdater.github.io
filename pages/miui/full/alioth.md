@@ -73,6 +73,7 @@ permalink: /archive/miui/alioth/
 <tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RKHIDXM</td><td>11.0</td><td>5.1 GB</td><td>2022-01-24</td><td><a href="/miui/alioth/stable/V12.5.8.0.RKHIDXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.5.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-01-21</td><td><a href="/miui/alioth/public beta/V13.0.2.1.5.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Weekly</td><td>Recovery</td><td>22.1.19</td><td>12.0</td><td>4.6 GB</td><td>2022-01-20</td><td><a href="/miui/alioth/weekly/22.1.19/">Download</a></td></tr>
+<tr><td>Redmi K40 China</td><td>Weekly</td><td>Fastboot</td><td>22.1.19</td><td>12.0</td><td>5.9 GB</td><td>2022-01-19</td><td><a href="/miui/alioth/weekly/22.1.19/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKHCNXM</td><td>12.0</td><td>4.5 GB</td><td>2022-01-19</td><td><a href="/miui/alioth/stable/V13.0.3.0.SKHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKHCNXM</td><td>12.0</td><td>5.7 GB</td><td>2022-01-12</td><td><a href="/miui/alioth/stable/V13.0.3.0.SKHCNXM/">Download</a></td></tr>
 <tr><td>POCO F3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RKHIDXM</td><td>11.0</td><td>3.2 GB</td><td>2022-01-19</td><td><a href="/miui/alioth/stable beta/V12.5.7.0.RKHIDXM/">Download</a></td></tr>

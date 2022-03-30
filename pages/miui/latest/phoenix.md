@@ -53,6 +53,7 @@ permalink: /miui/phoenix/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RGHCNXM</td><td>11.0</td><td>4.4 GB</td><td>2022-01-11</td><td><a href="/miui/phoenix/stable/V12.5.6.0.RGHCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Fastboot</td><td>22.1.19</td><td>12.0</td><td>5.0 GB</td><td>2022-01-19</td><td><a href="/miui/phoenix/weekly/22.1.19/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.18.DEV</td><td>12.0</td><td>4.1 GB</td><td>2022-03-25</td><td><a href="/miui/phoenix/public beta/V13.0.1.1.18.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SGHCNXM</td><td>12.0</td><td>4.2 GB</td><td>2022-03-08</td><td><a href="/miui/phoenix/stable/V13.0.1.0.SGHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.3 GB</td><td>2022-03-24</td><td><a href="/miui/phoenix/weekly/22.3.23/">Download</a></td></tr>

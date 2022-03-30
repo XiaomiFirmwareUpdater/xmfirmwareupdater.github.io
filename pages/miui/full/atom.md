@@ -52,7 +52,8 @@ permalink: /archive/miui/atom/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.2</td><td>11.0</td><td>3.9 GB</td><td>2022-03-03</td><td><a href="/miui/atom/weekly/22.3.2/">Download</a></td></tr>
+                <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Fastboot</td><td>22.3.29</td><td>12.0</td><td>5.4 GB</td><td>2022-03-29</td><td><a href="/miui/atom/weekly/22.3.29/">Download</a></td></tr>
+<tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.2</td><td>11.0</td><td>3.9 GB</td><td>2022-03-03</td><td><a href="/miui/atom/weekly/22.3.2/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>22.2.23</td><td>11.0</td><td>3.9 GB</td><td>2022-02-24</td><td><a href="/miui/atom/weekly/22.2.23/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>22.2.17</td><td>11.0</td><td>3.8 GB</td><td>2022-02-17</td><td><a href="/miui/atom/weekly/22.2.17/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>11.0</td><td>3.9 GB</td><td>2022-02-10</td><td><a href="/miui/atom/weekly/22.2.9/">Download</a></td></tr>
