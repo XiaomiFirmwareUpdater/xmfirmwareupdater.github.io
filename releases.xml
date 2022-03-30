@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 30 Mar 2022 19:49:03 +0900</pubDate>
+  <pubDate>Thu, 31 Mar 2022 01:51:14 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.4.0.RKCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
+    <pubDate>Thu, 31 Mar 2022 01:51:14 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10C (fog) - V13.0.5.0.RGEMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
@@ -100,11 +105,6 @@
     <title>Redmi K50 Pro (matisse) - V13.0.8.0.SLKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
     <pubDate>Sat, 26 Mar 2022 09:26:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.9.0.RJQMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Sat, 26 Mar 2022 08:52:49 +0900</pubDate>
   </item>
     </channel>
 </rss>

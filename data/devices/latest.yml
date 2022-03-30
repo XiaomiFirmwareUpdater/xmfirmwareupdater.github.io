@@ -4039,15 +4039,15 @@
     android: '11.0'
     miui: V13.0.8.0.RKCMIXM
 - branch: stable
-  date: '2022-02-24'
+  date: '2022-03-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-24.02.2022/fw_veux_miui_VEUX_V13.0.2.0.RKCCNXM_5cec31d5e5_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUX_V13.0.2.0.RKCCNXM_5cec31d5e5_11.0.zip
-  filename: fw_veux_miui_VEUX_V13.0.2.0.RKCCNXM_5cec31d5e5_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-30.03.2022/fw_veux_miui_VEUX_V13.0.4.0.RKCCNXM_caafe3fa2c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUX_V13.0.4.0.RKCCNXM_caafe3fa2c_11.0.zip
+  filename: fw_veux_miui_VEUX_V13.0.4.0.RKCCNXM_caafe3fa2c_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V13.0.2.0.RKCCNXM
+    miui: V13.0.4.0.RKCCNXM
 - branch: stable
   date: '2022-03-10'
   downloads:
