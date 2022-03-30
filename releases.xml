@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 30 Mar 2022 08:28:59 +0900</pubDate>
+  <pubDate>Wed, 30 Mar 2022 19:49:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10C (fog) - V13.0.5.0.RGEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
+    <pubDate>Wed, 30 Mar 2022 19:49:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50 (rubens) - V13.0.7.0.SLNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.9.0.RJQMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Sat, 26 Mar 2022 08:52:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E (light) - V13.0.3.0.SLSCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/light</link>
-    <pubDate>Sat, 26 Mar 2022 08:51:28 +0900</pubDate>
   </item>
     </channel>
 </rss>
