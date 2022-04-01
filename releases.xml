@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 31 Mar 2022 20:13:33 +0900</pubDate>
+  <pubDate>Fri, 01 Apr 2022 20:54:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V13.0.5.0.SLBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Fri, 01 Apr 2022 20:54:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.4.0.RKCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
+    <pubDate>Fri, 01 Apr 2022 20:22:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.6.0.SLCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Fri, 01 Apr 2022 19:58:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V12.5.8.0.RJEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Fri, 01 Apr 2022 19:27:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V12.5.8.0.RJEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Fri, 01 Apr 2022 19:26:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.2.0.SKHMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Fri, 01 Apr 2022 19:25:53 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V13.0.4.0.SKPCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
@@ -75,36 +105,6 @@
     <title>Xiaomi 12 Pro (zeus) - V13.0.14.0.SLBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
     <pubDate>Mon, 28 Mar 2022 14:19:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V13.0.14.0.SLCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Mon, 28 Mar 2022 13:47:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V13.0.1.0.SKDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Sun, 27 Mar 2022 01:45:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (2021) (biloba) - V12.5.8.0.RCUEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/biloba</link>
-    <pubDate>Sat, 26 Mar 2022 19:31:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Lite Zoom (vangogh) - V13.0.2.0.SJVCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vangogh</link>
-    <pubDate>Sat, 26 Mar 2022 13:17:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro 4G (viva) - V13.0.3.0.RGDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
-    <pubDate>Sat, 26 Mar 2022 11:07:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 (rubens) - V13.0.6.0.SLNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
-    <pubDate>Sat, 26 Mar 2022 10:48:09 +0900</pubDate>
   </item>
     </channel>
 </rss>

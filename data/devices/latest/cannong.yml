@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2022-01-13'
+  date: '2022-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-13.01.2022/fw_cannong_miui_CANNONGGlobal_V12.5.7.0.RJEMIXM_50f370c72f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGGlobal_V12.5.7.0.RJEMIXM_50f370c72f_11.0.zip
-  filename: fw_cannong_miui_CANNONGGlobal_V12.5.7.0.RJEMIXM_50f370c72f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-01.04.2022/fw_cannong_miui_CANNONGGlobal_V12.5.8.0.RJEMIXM_a2ab059c5d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGGlobal_V12.5.8.0.RJEMIXM_a2ab059c5d_11.0.zip
+  filename: fw_cannong_miui_CANNONGGlobal_V12.5.8.0.RJEMIXM_a2ab059c5d_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RJEMIXM
+    miui: V12.5.8.0.RJEMIXM
 - branch: stable
-  date: '2022-01-17'
+  date: '2022-04-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-17.01.2022/fw_cannong_miui_CANNONGEEAGlobal_V12.5.7.0.RJEEUXM_5d6ce9a3e8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGEEAGlobal_V12.5.7.0.RJEEUXM_5d6ce9a3e8_11.0.zip
-  filename: fw_cannong_miui_CANNONGEEAGlobal_V12.5.7.0.RJEEUXM_5d6ce9a3e8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-01.04.2022/fw_cannong_miui_CANNONGEEAGlobal_V12.5.8.0.RJEEUXM_81a455a4b7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGEEAGlobal_V12.5.8.0.RJEEUXM_81a455a4b7_11.0.zip
+  filename: fw_cannong_miui_CANNONGEEAGlobal_V12.5.8.0.RJEEUXM_81a455a4b7_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RJEEUXM
+    miui: V12.5.8.0.RJEEUXM
