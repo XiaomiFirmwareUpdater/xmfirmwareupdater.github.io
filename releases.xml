@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 02 Apr 2022 01:30:02 +0900</pubDate>
+  <pubDate>Sat, 02 Apr 2022 01:30:58 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Redmi K40S (munch) - V13.0.6.0.SLMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
-    <pubDate>Sat, 02 Apr 2022 01:30:02 +0900</pubDate>
+    <pubDate>Sat, 02 Apr 2022 01:30:58 +0900</pubDate>
   </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V13.0.5.0.SLBMIXM</title>
