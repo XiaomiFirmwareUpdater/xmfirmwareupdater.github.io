@@ -68,6 +68,7 @@ permalink: /miui/mojito/
 <tr><td>Redmi Note 10 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RKGRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-03-26</td><td><a href="/miui/mojito/stable beta/V12.5.6.0.RKGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKGTRXM</td><td>11.0</td><td>4.5 GB</td><td>2022-01-18</td><td><a href="/miui/mojito/stable/V12.5.6.0.RKGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKGTRXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-22</td><td><a href="/miui/mojito/stable/V12.5.6.0.RKGTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKGTRXM</td><td>12.0</td><td>2.8 GB</td><td>2022-04-01</td><td><a href="/miui/mojito/stable beta/V13.0.1.0.SKGTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
