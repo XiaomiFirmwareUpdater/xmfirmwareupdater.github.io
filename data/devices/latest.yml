@@ -339,15 +339,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: stable
-  date: '2022-02-09'
+  date: '2022-04-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-09.02.2022/fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/biloba/fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
-  filename: fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-03.04.2022/fw_biloba_miui_BILOBAGlobal_V12.5.9.0.RCUMIXM_ddf48ded8b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAGlobal_V12.5.9.0.RCUMIXM_ddf48ded8b_11.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V12.5.9.0.RCUMIXM_ddf48ded8b_11.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.2.0.SCUMIXM
+    android: '11.0'
+    miui: V12.5.9.0.RCUMIXM
 - branch: stable
   date: '2022-03-26'
   downloads:
