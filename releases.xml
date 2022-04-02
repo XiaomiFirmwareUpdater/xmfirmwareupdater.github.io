@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 02 Apr 2022 19:42:00 +0900</pubDate>
+  <pubDate>Sun, 03 Apr 2022 01:48:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 Pro 4G (viva) - V13.0.5.0.RGDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
+    <pubDate>Sun, 03 Apr 2022 01:48:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi Note 10 Lite (toco) - V13.0.1.0.SFNEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
+    <pubDate>Sun, 03 Apr 2022 01:26:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.4.0.RJOMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Sun, 03 Apr 2022 01:25:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro (joyeuse) - V12.5.8.0.RJZEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
+    <pubDate>Sun, 03 Apr 2022 01:24:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.5.5.0.RKSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Sun, 03 Apr 2022 01:22:56 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V13.0.10.0.SKACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/star</link>
@@ -80,31 +105,6 @@
     <title>Redmi K50 (rubens) - V13.0.7.0.SLNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
     <pubDate>Wed, 30 Mar 2022 08:28:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Pro (matisse) - V13.0.9.0.SLKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
-    <pubDate>Wed, 30 Mar 2022 07:50:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.8.0.RKCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
-    <pubDate>Tue, 29 Mar 2022 19:35:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8T (willow) - V12.5.4.0.RCXMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
-    <pubDate>Mon, 28 Mar 2022 19:58:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8T (willow) - V12.5.4.0.RCXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/willow</link>
-    <pubDate>Mon, 28 Mar 2022 19:56:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 Prime (selene) - V12.5.18.0.RKUMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Mon, 28 Mar 2022 19:55:25 +0900</pubDate>
   </item>
     </channel>
 </rss>

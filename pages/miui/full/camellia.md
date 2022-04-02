@@ -52,7 +52,8 @@ permalink: /archive/miui/camellia/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.18.DEV</td><td>12.0</td><td>3.7 GB</td><td>2022-03-25</td><td><a href="/miui/camellia/public beta/V13.0.4.1.18.DEV/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKSEUXM</td><td>11.0</td><td>2.7 GB</td><td>2022-03-30</td><td><a href="/miui/camellian/stable beta/V12.5.5.0.RKSEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.18.DEV</td><td>12.0</td><td>3.7 GB</td><td>2022-03-25</td><td><a href="/miui/camellia/public beta/V13.0.4.1.18.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.0 GB</td><td>2022-03-24</td><td><a href="/miui/camellia/weekly/22.3.23/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKSCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-03-21</td><td><a href="/miui/camellia/stable/V13.0.4.0.SKSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKSCNXM</td><td>12.0</td><td>5.3 GB</td><td>2022-03-17</td><td><a href="/miui/camellia/stable/V13.0.4.0.SKSCNXM/">Download</a></td></tr>
@@ -99,11 +100,11 @@ permalink: /archive/miui/camellia/
 <tr><td>Redmi Note 10 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKSIDXM</td><td>11.0</td><td>2.5 GB</td><td>2021-11-21</td><td><a href="/miui/camellian/stable/V12.5.1.0.RKSIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKSIDXM</td><td>11.0</td><td>4.5 GB</td><td>2021-11-11</td><td><a href="/miui/camellian/stable/V12.5.1.0.RKSIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>21.11.17</td><td>11.0</td><td>3.3 GB</td><td>2021-11-18</td><td><a href="/miui/camellia/weekly/21.11.17/">Download</a></td></tr>
-<tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>21.11.10</td><td>11.0</td><td>3.3 GB</td><td>2021-11-11</td><td><a href="/miui/camellia/weekly/21.11.10/">Download</a></td></tr>
 <tr><td>Redmi Note 10T 5G / POCO M3 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKSINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-11-12</td><td><a href="/miui/camellia/stable/V12.5.1.0.RKSINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10T 5G / POCO M3 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKSINXM</td><td>11.0</td><td>3.7 GB</td><td>2021-11-04</td><td><a href="/miui/camellia/stable/V12.5.1.0.RKSINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RKSEUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-11-11</td><td><a href="/miui/camellian/stable/V12.5.1.0.RKSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RKSEUXM</td><td>11.0</td><td>5.6 GB</td><td>2021-11-04</td><td><a href="/miui/camellian/stable/V12.5.1.0.RKSEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>21.11.10</td><td>11.0</td><td>3.3 GB</td><td>2021-11-11</td><td><a href="/miui/camellia/weekly/21.11.10/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>21.11.3</td><td>11.0</td><td>3.3 GB</td><td>2021-11-04</td><td><a href="/miui/camellia/weekly/21.11.3/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>21.10.28</td><td>11.0</td><td>3.3 GB</td><td>2021-10-28</td><td><a href="/miui/camellia/weekly/21.10.28/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G China</td><td>Weekly</td><td>Recovery</td><td>21.10.20</td><td>11.0</td><td>3.3 GB</td><td>2021-10-21</td><td><a href="/miui/camellia/weekly/21.10.20/">Download</a></td></tr>
