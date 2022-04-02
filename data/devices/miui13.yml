@@ -983,6 +983,12 @@
   name: Xiaomi Civi
   version: V13.0.3.0.SKVCNXM
 - android: '12.0'
+  codename: monet
+  date: '2022-04-02'
+  download: https://bigota.d.miui.com/V13.0.2.0.SJIMIXM/fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
+  name: Mi 10 Lite
+  version: V13.0.2.0.SJIMIXM
+- android: '12.0'
   codename: munch
   date: '2022-03-22'
   download: https://bigota.d.miui.com/V13.0.2.0.SLMCNXM/fw_munch_miui_MUNCH_V13.0.2.0.SLMCNXM_42ef5e5b1e_12.0.zip
@@ -1420,6 +1426,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.SKACNXM/fw_star_miui_STAR_V13.0.5.0.SKACNXM_d780dd325c_12.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V13.0.5.0.SKACNXM
+- android: '12.0'
+  codename: star
+  date: '2022-04-02'
+  download: https://bigota.d.miui.com/V13.0.10.0.SKACNXM/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V13.0.10.0.SKACNXM
 - android: '12.0'
   codename: sweet
   date: '2022-02-21'

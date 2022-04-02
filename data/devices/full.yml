@@ -29599,6 +29599,16 @@
     android: '10.0'
     miui: V12.0.2.0.QJIEUXM
 - branch: stable
+  date: '2022-04-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-02.04.2022/fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/monet/fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
+  filename: fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SJIMIXM
+- branch: stable
   date: '2022-03-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-22.03.2022/fw_munch_miui_MUNCH_V13.0.2.0.SLMCNXM_42ef5e5b1e_12.0.zip
@@ -43788,6 +43798,16 @@
   versions:
     android: '11.0'
     miui: V12.5.17.0.RKACNXM
+- branch: stable
+  date: '2022-04-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-02.04.2022/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
+  filename: fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SKACNXM
 - branch: stable
   date: '2021-11-29'
   downloads:

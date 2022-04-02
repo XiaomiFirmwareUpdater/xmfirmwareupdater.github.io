@@ -2349,15 +2349,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-02-14'
+  date: '2022-04-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-14.02.2022/fw_monet_miui_MONETGlobal_V12.5.6.0.RJIMIXM_ae7dec2044_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/monet/fw_monet_miui_MONETGlobal_V12.5.6.0.RJIMIXM_ae7dec2044_11.0.zip
-  filename: fw_monet_miui_MONETGlobal_V12.5.6.0.RJIMIXM_ae7dec2044_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-02.04.2022/fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/monet/fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
+  filename: fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V12.5.6.0.RJIMIXM
+    android: '12.0'
+    miui: V13.0.2.0.SJIMIXM
 - branch: stable
   date: '2022-02-14'
   downloads:
@@ -3549,15 +3549,15 @@
     android: '12.0'
     miui: V13.0.2.0.SKAMIXM
 - branch: stable
-  date: '2022-01-21'
+  date: '2022-04-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-21.01.2022/fw_star_miui_STAR_V13.0.9.0.SKACNXM_a9593ed07e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAR_V13.0.9.0.SKACNXM_a9593ed07e_12.0.zip
-  filename: fw_star_miui_STAR_V13.0.9.0.SKACNXM_a9593ed07e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-02.04.2022/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
+  filename: fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.9.0.SKACNXM
+    miui: V13.0.10.0.SKACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 02 Apr 2022 01:30:58 +0900</pubDate>
+  <pubDate>Sat, 02 Apr 2022 19:42:00 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V13.0.10.0.SKACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Sat, 02 Apr 2022 19:42:00 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Lite (monet) - V13.0.2.0.SJIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
+    <pubDate>Sat, 02 Apr 2022 19:07:15 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40S (munch) - V13.0.6.0.SLMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
@@ -95,16 +105,6 @@
     <title>Redmi 10/Redmi 10 Prime (selene) - V12.5.18.0.RKUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
     <pubDate>Mon, 28 Mar 2022 19:55:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V12.5.9.0.RJSMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Mon, 28 Mar 2022 19:36:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.5.0.RKEEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
-    <pubDate>Mon, 28 Mar 2022 19:34:28 +0900</pubDate>
   </item>
     </channel>
 </rss>
