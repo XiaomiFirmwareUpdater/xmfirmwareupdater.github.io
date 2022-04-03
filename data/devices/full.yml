@@ -15479,6 +15479,16 @@
     android: '10.0'
     miui: V12.0.3.0.QCDMIXM
 - branch: stable
+  date: '2022-04-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-04.04.2022/fw_dandelion_miui_DANDELION_V12.5.11.0.RCDCNXM_3b8ba97e5a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.5.11.0.RCDCNXM_3b8ba97e5a_11.0.zip
+  filename: fw_dandelion_miui_DANDELION_V12.5.11.0.RCDCNXM_3b8ba97e5a_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.11.0.RCDCNXM
+- branch: stable
   date: '2022-01-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-04.01.2022/fw_dandelion_miui_DANDELIONGlobal_V12.5.1.0.RCDMIXM_5fd2913a80_11.0.zip
@@ -46288,6 +46298,16 @@
   versions:
     android: '10.0'
     miui: V12.0.3.0.QFDMIXM
+- branch: stable
+  date: '2022-04-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-04.04.2022/fw_tucana_miui_TUCANA_V13.0.1.0.RFDCNXM_572656a73d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANA_V13.0.1.0.RFDCNXM_572656a73d_11.0.zip
+  filename: fw_tucana_miui_TUCANA_V13.0.1.0.RFDCNXM_572656a73d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V13.0.1.0.RFDCNXM
 - branch: stable
   date: '2020-09-03'
   downloads:
