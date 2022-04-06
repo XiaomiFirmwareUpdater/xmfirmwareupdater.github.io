@@ -461,6 +461,12 @@
   name: Mi 11 Lite 4G
   version: V13.0.1.0.SKQINXM
 - android: '12.0'
+  codename: courbet
+  date: '2022-04-06'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKQINXM/fw_courbet_miui_COURBETINGlobal_V13.0.2.0.SKQINXM_da16992466_12.0.zip
+  name: Mi 11 Lite 4G
+  version: V13.0.2.0.SKQINXM
+- android: '12.0'
   codename: cupid
   date: '2021-12-31'
   download: https://bigota.d.miui.com/V13.0.10.0.SLCCNXM/fw_cupid_miui_CUPID_V13.0.10.0.SLCCNXM_e5b34408f8_12.0.zip
@@ -1030,6 +1036,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.RKXMIXM/fw_nabu_miui_NABUGlobal_V13.0.1.0.RKXMIXM_f422db572d_11.0.zip
   name: Xiaomi Pad 5
   version: V13.0.1.0.RKXMIXM
+- android: '11.0'
+  codename: nabu
+  date: '2022-04-06'
+  download: https://bigota.d.miui.com/V13.0.8.0.RKXCNXM/fw_nabu_miui_NABU_V13.0.8.0.RKXCNXM_d1a4927e0b_11.0.zip
+  name: Xiaomi Pad 5
+  version: V13.0.8.0.RKXCNXM
 - android: '12.0'
   codename: odin
   date: '2022-03-25'

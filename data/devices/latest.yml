@@ -879,15 +879,15 @@
     android: '12.0'
     miui: V13.0.3.0.SKQEUXM
 - branch: stable
-  date: '2022-03-18'
+  date: '2022-04-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-18.03.2022/fw_courbet_miui_COURBETINGlobal_V13.0.1.0.SKQINXM_b51a467375_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETINGlobal_V13.0.1.0.SKQINXM_b51a467375_12.0.zip
-  filename: fw_courbet_miui_COURBETINGlobal_V13.0.1.0.SKQINXM_b51a467375_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-06.04.2022/fw_courbet_miui_COURBETINGlobal_V13.0.2.0.SKQINXM_da16992466_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETINGlobal_V13.0.2.0.SKQINXM_da16992466_12.0.zip
+  filename: fw_courbet_miui_COURBETINGlobal_V13.0.2.0.SKQINXM_da16992466_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SKQINXM
+    miui: V13.0.2.0.SKQINXM
 - branch: stable
   date: '2021-11-08'
   downloads:
@@ -989,15 +989,15 @@
     android: '11.0'
     miui: V12.5.3.0.RCDMIXM
 - branch: stable
-  date: '2022-04-03'
+  date: '2022-04-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-04.04.2022/fw_dandelion_miui_DANDELION_V12.5.11.0.RCDCNXM_3b8ba97e5a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.5.11.0.RCDCNXM_3b8ba97e5a_11.0.zip
-  filename: fw_dandelion_miui_DANDELION_V12.5.11.0.RCDCNXM_3b8ba97e5a_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-06.04.2022/fw_dandelion_miui_DANDELIONC3L2_V12.5.3.0.RCZCNXM_108e456757_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2_V12.5.3.0.RCZCNXM_108e456757_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONC3L2_V12.5.3.0.RCZCNXM_108e456757_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.11.0.RCDCNXM
+    miui: V12.5.3.0.RCZCNXM
 - branch: stable
   date: '2022-03-03'
   downloads:
@@ -2389,15 +2389,15 @@
     android: '11.0'
     miui: V13.0.1.0.RKXMIXM
 - branch: stable
-  date: '2022-01-24'
+  date: '2022-04-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-24.01.2022/fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
-  filename: fw_nabu_miui_NABU_V13.0.5.0.RKXCNXM_106b5db865_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-06.04.2022/fw_nabu_miui_NABU_V13.0.8.0.RKXCNXM_d1a4927e0b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABU_V13.0.8.0.RKXCNXM_d1a4927e0b_11.0.zip
+  filename: fw_nabu_miui_NABU_V13.0.8.0.RKXCNXM_d1a4927e0b_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V13.0.5.0.RKXCNXM
+    miui: V13.0.8.0.RKXCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
