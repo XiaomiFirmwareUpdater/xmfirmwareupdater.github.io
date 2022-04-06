@@ -9,3 +9,14 @@
   versions:
     android: '7.0'
     miui: 9.2.28
+- branch: weekly
+  date: '2019-04-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/hydrogen-weekly/fw-vendor_hydrogen_miui_MIMAX_9.2.28_af1c778ee6_7.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/hydrogen-weekly/fw-vendor_hydrogen_miui_MIMAX_9.2.28_af1c778ee6_7.0.zip/download
+  filename: fw-vendor_hydrogen_miui_MIMAX_9.2.28_af1c778ee6_7.0.zip
+  region: China
+  size: 49.9 MB
+  versions:
+    android: '7.0'
+    miui: 9.2.28

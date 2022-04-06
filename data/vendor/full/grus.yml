@@ -361,3 +361,102 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QFBMIXM
+- branch: stable
+  date: '2019-04-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip/download
+  filename: fw-vendor_grus_miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip
+  region: China
+  size: 454.1 MB
+  versions:
+    android: '9.0'
+    miui: V10.2.11.0.PFBCNXM
+- branch: stable
+  date: '2019-05-09'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_V10.3.1.0.PFBCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_V10.3.1.0.PFBCNXM.zip/download
+  filename: fw-vendor_grus_V10.3.1.0.PFBCNXM.zip
+  region: China
+  size: 463.4 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PFBCNXM
+- branch: stable
+  date: '2019-06-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_V10.3.3.0.PFBCNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_V10.3.3.0.PFBCNXM.zip/download
+  filename: fw-vendor_grus_V10.3.3.0.PFBCNXM.zip
+  region: China
+  size: 464.5 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.3.0.PFBCNXM
+- branch: stable
+  date: '2019-10-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip/download
+  filename: fw-vendor_grus_miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip
+  region: China
+  size: 717.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PFBCNXM
+- branch: stable
+  date: '2019-11-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.5.0.PFBCNXM_41b4612800_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.5.0.PFBCNXM_41b4612800_9.0.zip/download
+  filename: fw-vendor_grus_miui_GRUS_V11.0.5.0.PFBCNXM_41b4612800_9.0.zip
+  region: China
+  size: 716.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PFBCNXM
+- branch: stable
+  date: '2020-03-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.2.0.QFBCNXM_40ad667ea3_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.2.0.QFBCNXM_40ad667ea3_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUS_V11.0.2.0.QFBCNXM_40ad667ea3_10.0.zip
+  region: China
+  size: 748.2 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.2.0.QFBCNXM
+- branch: stable
+  date: '2020-05-08'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUS_V11.0.3.0.QFBCNXM_5f915130e6_10.0.zip
+  region: China
+  size: 743.5 MB
+  versions:
+    android: '10.0'
+    miui: V11.0.3.0.QFBCNXM
+- branch: stable
+  date: '2020-07-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_miui_GRUS_V12.0.1.0.QFBCNXM_4e2bbe6ba9_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_miui_GRUS_V12.0.1.0.QFBCNXM_4e2bbe6ba9_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUS_V12.0.1.0.QFBCNXM_4e2bbe6ba9_10.0.zip
+  region: China
+  size: 713.3 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QFBCNXM
+- branch: stable
+  date: '2020-08-20'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/grus-stable/fw-vendor_grus_miui_GRUS_V12.0.2.0.QFBCNXM_7bd5791743_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/grus-stable/fw-vendor_grus_miui_GRUS_V12.0.2.0.QFBCNXM_7bd5791743_10.0.zip/download
+  filename: fw-vendor_grus_miui_GRUS_V12.0.2.0.QFBCNXM_7bd5791743_10.0.zip
+  region: China
+  size: 704.5 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.2.0.QFBCNXM
