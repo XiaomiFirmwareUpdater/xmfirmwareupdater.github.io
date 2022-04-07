@@ -56,6 +56,7 @@ permalink: /miui/rubens/
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.7.1.22.DEV</td><td>12.0</td><td>5.0 GB</td><td>2022-04-01</td><td><a href="/miui/rubens/public beta/V13.0.7.1.22.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SLNCNXM</td><td>12.0</td><td>6.8 GB</td><td>2022-03-27</td><td><a href="/miui/rubens/stable/V13.0.7.0.SLNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SLNCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-03-28</td><td><a href="/miui/rubens/stable/V13.0.7.0.SLNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.9.0.SLNCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-04-07</td><td><a href="/miui/rubens/stable beta/V13.0.9.0.SLNCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
