@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 07 Apr 2022 22:36:52 +0900</pubDate>
+  <pubDate>Fri, 08 Apr 2022 02:12:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12X (psyche) - V13.0.5.0.RLDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
+    <pubDate>Fri, 08 Apr 2022 02:12:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Pro (matisse) - V13.0.11.0.SLKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
+    <pubDate>Fri, 08 Apr 2022 01:48:40 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V12.5.9.0.RKOEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
@@ -95,16 +105,6 @@
     <title>Mi Note 10 Lite (toco) - V13.0.1.0.SFNEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
     <pubDate>Sun, 03 Apr 2022 01:26:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.4.0.RJOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Sun, 03 Apr 2022 01:25:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V12.5.8.0.RJZEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Sun, 03 Apr 2022 01:24:19 +0900</pubDate>
   </item>
     </channel>
 </rss>
