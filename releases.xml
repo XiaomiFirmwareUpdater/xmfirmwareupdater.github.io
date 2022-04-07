@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 07 Apr 2022 20:36:24 +0900</pubDate>
+  <pubDate>Thu, 07 Apr 2022 22:36:52 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V12.5.9.0.RKOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Thu, 07 Apr 2022 22:36:52 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50 (rubens) - V13.0.9.0.SLNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
@@ -22,12 +27,12 @@
     <pubDate>Thu, 07 Apr 2022 19:36:16 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.9.0.RKCMIXM</title>
+    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.9.0.RKCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
     <pubDate>Thu, 07 Apr 2022 01:49:39 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G (veux) - V13.0.5.0.RKCEUXM</title>
+    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.5.0.RKCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
     <pubDate>Thu, 07 Apr 2022 01:36:06 +0900</pubDate>
   </item>
@@ -47,7 +52,7 @@
     <pubDate>Wed, 06 Apr 2022 19:34:34 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.5.3.0.RCZCNXM</title>
+    <title>Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) - V12.5.3.0.RCZCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
     <pubDate>Wed, 06 Apr 2022 19:07:44 +0900</pubDate>
   </item>
@@ -72,7 +77,7 @@
     <pubDate>Mon, 04 Apr 2022 07:07:26 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi 9A/9AT/9i/9A Sport (dandelion) - V12.5.11.0.RCDCNXM</title>
+    <title>Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) - V12.5.11.0.RCDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
     <pubDate>Mon, 04 Apr 2022 07:06:01 +0900</pubDate>
   </item>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 Pro (joyeuse) - V12.5.8.0.RJZEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
     <pubDate>Sun, 03 Apr 2022 01:24:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.5.5.0.RKSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
-    <pubDate>Sun, 03 Apr 2022 01:22:56 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
-title: Redmi 9A/9AT/9i/9A Sport (dandelion) Vendor Downloads
+title: Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) Vendor Downloads
 layout: download
-name: Redmi 9A/9AT/9i/9A Sport
+name: Redmi 9A/Redmi 10A/9AT/9i/9A Sport
 codename: dandelion
 permalink: /vendor/dandelion/
 ---
@@ -9,7 +9,7 @@ permalink: /vendor/dandelion/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/vendor/">Vendor</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/vendor/dandelion/">Redmi 9A/9AT/9i/9A Sport</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/vendor/dandelion/">Redmi 9A/Redmi 10A/9AT/9i/9A Sport</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

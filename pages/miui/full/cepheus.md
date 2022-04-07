@@ -275,7 +275,7 @@ permalink: /archive/miui/cepheus/
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>9.7.4</td><td>9.0</td><td>2.4 GB</td><td>2019-07-04</td><td><a href="/miui/cepheus/weekly/9.7.4/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Fastboot</td><td>9.7.4</td><td>9.0</td><td>3.5 GB</td><td>2019-07-04</td><td><a href="/miui/cepheus/weekly/9.7.4/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Stable</td><td>Recovery</td><td>V10.2.29.0.PFACNXM</td><td>9.0</td><td>2.7 GB</td><td>2019-07-01</td><td><a href="/miui/cepheus/stable/V10.2.29.0.PFACNXM/">Download</a></td></tr>
-<tr><td>Mi 9 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>3.3 GB</td><td>2019-06-28</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>
+<tr><td>Mi 9 Global</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>3.2 GB</td><td>2019-06-28</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Mi 9 Global</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>2.5 GB</td><td>2019-06-28</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Fastboot</td><td>9.6.27</td><td>9.0</td><td>3.5 GB</td><td>2019-06-27</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>
 <tr><td>Mi 9 China</td><td>Weekly</td><td>Recovery</td><td>9.6.27</td><td>9.0</td><td>2.7 GB</td><td>2019-06-27</td><td><a href="/miui/cepheus/weekly/9.6.27/">Download</a></td></tr>
