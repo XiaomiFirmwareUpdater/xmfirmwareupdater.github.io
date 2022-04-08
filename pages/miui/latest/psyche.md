@@ -61,6 +61,7 @@ permalink: /miui/psyche/
 <tr><td>Xiaomi 12X Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.RLDMIXM</td><td>11.0</td><td>3.1 GB</td><td>2022-04-06</td><td><a href="/miui/psyche/stable beta/V13.0.5.0.RLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RLDTWXM</td><td>11.0</td><td>4.5 GB</td><td>2022-01-06</td><td><a href="/miui/psyche/stable/V13.0.1.0.RLDTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RLDTWXM</td><td>11.0</td><td>3.1 GB</td><td>2022-03-28</td><td><a href="/miui/psyche/stable/V13.0.1.0.RLDTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.RLDTWXM</td><td>11.0</td><td>3.1 GB</td><td>2022-04-08</td><td><a href="/miui/psyche/stable beta/V13.0.2.0.RLDTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
