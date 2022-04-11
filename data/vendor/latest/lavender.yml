@@ -20,17 +20,6 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QFGCNXM
-- branch: weekly
-  date: '2019-09-07'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/lavender-weekly/fw-vendor_lavender_miui_LAVENDER_9.9.3_5ca18e6120_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/lavender-weekly/fw-vendor_lavender_miui_LAVENDER_9.9.3_5ca18e6120_9.0.zip/download
-  filename: fw-vendor_lavender_miui_LAVENDER_9.9.3_5ca18e6120_9.0.zip
-  region: China
-  size: 519.4 MB
-  versions:
-    android: '9.0'
-    miui: 9.9.3
 - branch: stable
   date: '2020-08-06'
   downloads:
