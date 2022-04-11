@@ -67,7 +67,7 @@ permalink: /miui/gauguin/
 <tr><td>Mi 10i India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJSINXM</td><td>11.0</td><td>2.7 GB</td><td>2021-03-17</td><td><a href="/miui/gauguin/stable beta/V12.0.1.0.RJSINXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RJSTRXM</td><td>11.0</td><td>4.5 GB</td><td>2022-03-07</td><td><a href="/miui/gauguin/stable/V12.5.4.0.RJSTRXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RJSTRXM</td><td>11.0</td><td>2.9 GB</td><td>2022-03-15</td><td><a href="/miui/gauguin/stable/V12.5.4.0.RJSTRXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJSTRXM</td><td>11.0</td><td>2.8 GB</td><td>2021-06-03</td><td><a href="/miui/gauguin/stable beta/V12.0.1.0.RJSTRXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RJSTRXM</td><td>11.0</td><td>2.9 GB</td><td>2022-04-11</td><td><a href="/miui/gauguin/stable beta/V12.5.5.0.RJSTRXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RJSTWXM</td><td>11.0</td><td>4.0 GB</td><td>2022-03-10</td><td><a href="/miui/gauguin/stable/V12.5.4.0.RJSTWXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RJSTWXM</td><td>11.0</td><td>2.9 GB</td><td>2022-03-22</td><td><a href="/miui/gauguin/stable/V12.5.4.0.RJSTWXM/">Download</a></td></tr>
 
