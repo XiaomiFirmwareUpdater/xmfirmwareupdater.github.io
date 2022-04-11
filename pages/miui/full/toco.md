@@ -53,7 +53,8 @@ permalink: /archive/miui/toco/
                 </thead>
                 <tbody>
                 <tr><td>Mi Note 10 Lite Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SFNRUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-03-30</td><td><a href="/miui/toco/stable beta/V13.0.1.0.SFNRUXM/">Download</a></td></tr>
-<tr><td>Mi Note 10 Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SFNEUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-03-30</td><td><a href="/miui/toco/stable beta/V13.0.1.0.SFNEUXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SFNEUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-03-30</td><td><a href="/miui/toco/stable/V13.0.1.0.SFNEUXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SFNEUXM</td><td>12.0</td><td>4.9 GB</td><td>2022-03-16</td><td><a href="/miui/toco/stable/V13.0.1.0.SFNEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SFNTRXM</td><td>12.0</td><td>3.1 GB</td><td>2022-03-30</td><td><a href="/miui/toco/stable/V13.0.1.0.SFNTRXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SFNTRXM</td><td>12.0</td><td>4.4 GB</td><td>2022-03-16</td><td><a href="/miui/toco/stable/V13.0.1.0.SFNTRXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SFNMIXM</td><td>12.0</td><td>3.1 GB</td><td>2022-03-12</td><td><a href="/miui/toco/stable/V13.0.1.0.SFNMIXM/">Download</a></td></tr>

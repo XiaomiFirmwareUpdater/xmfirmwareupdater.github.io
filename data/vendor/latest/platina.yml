@@ -21,6 +21,17 @@
     android: '10.0'
     miui: V12.0.1.0.QDTCNXM
 - branch: weekly
+  date: '2020-07-17'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina_global-weekly/fw-vendor_platina_miui_MI8LiteGlobal_9.6.27_bcb88d046c_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/platina_global-weekly/fw-vendor_platina_miui_MI8LiteGlobal_9.6.27_bcb88d046c_9.0.zip/download
+  filename: fw-vendor_platina_miui_MI8LiteGlobal_9.6.27_bcb88d046c_9.0.zip
+  region: Global
+  size: 455.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.6.27
+- branch: weekly
   date: '2019-09-06'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/platina-weekly/fw-vendor_platina_miui_MI8Lite_9.9.3_cec06e7e18_9.0.zip
