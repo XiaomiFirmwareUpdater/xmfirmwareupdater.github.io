@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 11 Apr 2022 20:11:16 +0900</pubDate>
+  <pubDate>Tue, 12 Apr 2022 13:21:18 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.5.0.RJOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Tue, 12 Apr 2022 13:21:18 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.4.0.RKCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
@@ -100,11 +105,6 @@
     <title>Mi 11 Lite 4G (courbet) - V13.0.2.0.SKQINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
     <pubDate>Wed, 06 Apr 2022 19:06:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V13.0.3.0.SKDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Wed, 06 Apr 2022 13:42:35 +0900</pubDate>
   </item>
     </channel>
 </rss>
