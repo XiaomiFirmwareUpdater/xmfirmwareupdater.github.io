@@ -60,6 +60,7 @@ permalink: /miui/monet/
 <tr><td>Mi 10 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJIMIXM</td><td>12.0</td><td>3.4 GB</td><td>2022-03-30</td><td><a href="/miui/monet/stable beta/V13.0.2.0.SJIMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RJITWXM</td><td>11.0</td><td>5.2 GB</td><td>2021-12-11</td><td><a href="/miui/monet/stable/V12.5.6.0.RJITWXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RJITWXM</td><td>11.0</td><td>3.1 GB</td><td>2021-12-21</td><td><a href="/miui/monet/stable/V12.5.6.0.RJITWXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJITWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-04-13</td><td><a href="/miui/monet/stable beta/V13.0.1.0.SJITWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
