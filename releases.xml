@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 13 Apr 2022 19:49:23 +0900</pubDate>
+  <pubDate>Fri, 15 Apr 2022 02:27:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 Pro (sweet) - V13.0.8.0.SKFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
+    <pubDate>Fri, 15 Apr 2022 02:27:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11S 5G (opal) - V13.0.4.0.RGLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/opal</link>
+    <pubDate>Fri, 15 Apr 2022 02:25:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Pro (matisse) - V13.0.12.0.SLKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
+    <pubDate>Fri, 15 Apr 2022 02:06:41 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.4.0.SKHINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
@@ -90,21 +105,6 @@
     <title>Mi 10 Ultra (cas) - V13.0.3.0.SJJCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
     <pubDate>Thu, 07 Apr 2022 01:09:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V13.0.2.0.SJDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 07 Apr 2022 01:07:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 (nabu) - V13.0.8.0.RKXCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Wed, 06 Apr 2022 19:34:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) - V12.5.3.0.RCZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Wed, 06 Apr 2022 19:07:44 +0900</pubDate>
   </item>
     </channel>
 </rss>

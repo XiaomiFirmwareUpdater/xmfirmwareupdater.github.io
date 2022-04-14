@@ -1,15 +1,15 @@
 ---
-title: Redmi K50 Pro (matisse) MIUI Downloads
+title: Redmi Note 11S 5G (opal) MIUI Downloads
 layout: download
-name: Redmi K50 Pro
-codename: matisse
-permalink: /miui/matisse/
+name: Redmi Note 11S 5G
+codename: opal
+permalink: /miui/opal/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/matisse/">Redmi K50 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/opal/">Redmi Note 11S 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/matisse/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/matisse/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/matisse/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/matisse/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/opal/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/opal/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/opal/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,7 @@ permalink: /miui/matisse/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SLKCNXM</td><td>12.0</td><td>6.9 GB</td><td>2022-04-11</td><td><a href="/miui/matisse/stable/V13.0.12.0.SLKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.12.0.SLKCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-04-14</td><td><a href="/miui/matisse/stable/V13.0.12.0.SLKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.9.1.23.DEV</td><td>12.0</td><td>5.1 GB</td><td>2022-04-08</td><td><a href="/miui/matisse/public beta/V13.0.9.1.23.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.11.0.SLKCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-04-07</td><td><a href="/miui/matisse/stable beta/V13.0.11.0.SLKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11S 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.RGLEUXM</td><td>11.0</td><td>2.7 GB</td><td>2022-04-14</td><td><a href="/miui/opal/stable beta/V13.0.4.0.RGLEUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

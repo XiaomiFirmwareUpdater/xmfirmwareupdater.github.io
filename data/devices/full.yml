@@ -28569,6 +28569,16 @@
     android: '12.0'
     miui: V13.0.4.0.SLKCNXM
 - branch: stable
+  date: '2022-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-14.04.2022/fw_matisse_miui_MATISSE_V13.0.12.0.SLKCNXM_81bed706c7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/matisse/fw_matisse_miui_MATISSE_V13.0.12.0.SLKCNXM_81bed706c7_12.0.zip
+  filename: fw_matisse_miui_MATISSE_V13.0.12.0.SLKCNXM_81bed706c7_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.12.0.SLKCNXM
+- branch: stable
   date: '2022-04-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-07.04.2022/fw_matisse_miui_MATISSE_V13.0.11.0.SLKCNXM_aee174e9af_12.0.zip
@@ -32978,6 +32988,16 @@
   versions:
     android: '10.0'
     miui: V12.5.3.0.QFLCNXM
+- branch: stable
+  date: '2022-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-14.04.2022/fw_opal_miui_OPALEEAGlobal_V13.0.4.0.RGLEUXM_d549712a99_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/opal/fw_opal_miui_OPALEEAGlobal_V13.0.4.0.RGLEUXM_d549712a99_11.0.zip
+  filename: fw_opal_miui_OPALEEAGlobal_V13.0.4.0.RGLEUXM_d549712a99_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.4.0.RGLEUXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -44388,6 +44408,16 @@
   versions:
     android: '11.0'
     miui: V12.5.9.0.RKFMIXM
+- branch: stable
+  date: '2022-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-14.04.2022/fw_sweet_miui_SWEETEEAGlobal_V13.0.8.0.SKFEUXM_690f890203_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETEEAGlobal_V13.0.8.0.SKFEUXM_690f890203_12.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V13.0.8.0.SKFEUXM_690f890203_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SKFEUXM
 - branch: stable
   date: '2022-02-14'
   downloads:

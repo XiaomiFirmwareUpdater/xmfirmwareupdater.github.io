@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2022-04-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-14.04.2022/fw_opal_miui_OPALEEAGlobal_V13.0.4.0.RGLEUXM_d549712a99_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/opal/fw_opal_miui_OPALEEAGlobal_V13.0.4.0.RGLEUXM_d549712a99_11.0.zip
+  filename: fw_opal_miui_OPALEEAGlobal_V13.0.4.0.RGLEUXM_d549712a99_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.4.0.RGLEUXM
