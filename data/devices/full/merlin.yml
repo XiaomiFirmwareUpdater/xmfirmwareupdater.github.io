@@ -359,6 +359,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJOINXM
 - branch: stable
+  date: '2022-04-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-15.04.2022/fw_merlin_miui_MERLINEEAGlobal_V12.5.5.0.RJOEUXM_0fe75df472_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINEEAGlobal_V12.5.5.0.RJOEUXM_0fe75df472_11.0.zip
+  filename: fw_merlin_miui_MERLINEEAGlobal_V12.5.5.0.RJOEUXM_0fe75df472_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJOEUXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-14.03.2021/fw_merlin_miui_MERLINEEAGlobal_V12.0.9.0.QJOEUXM_5a7954d9cf_10.0.zip

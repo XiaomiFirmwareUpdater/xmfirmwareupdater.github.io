@@ -19399,6 +19399,16 @@
     android: '11.0'
     miui: V12.5.2.0.RJSINXM
 - branch: stable
+  date: '2022-04-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-15.04.2022/fw_gauguin_miui_GAUGUINGlobal_V13.0.1.0.SJSMIXM_98016c5107_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUINGlobal_V13.0.1.0.SJSMIXM_98016c5107_12.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V13.0.1.0.SJSMIXM_98016c5107_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SJSMIXM
+- branch: stable
   date: '2021-07-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-09.07.2021/fw_gauguin_miui_GAUGUININGlobal_V12.5.1.0.RJSINXM_96a4f82abe_11.0.zip
@@ -28949,6 +28959,16 @@
     android: '10.0'
     miui: V11.0.2.0.QJOINXM
 - branch: stable
+  date: '2022-04-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-15.04.2022/fw_merlin_miui_MERLINEEAGlobal_V12.5.5.0.RJOEUXM_0fe75df472_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/merlin/fw_merlin_miui_MERLINEEAGlobal_V12.5.5.0.RJOEUXM_0fe75df472_11.0.zip
+  filename: fw_merlin_miui_MERLINEEAGlobal_V12.5.5.0.RJOEUXM_0fe75df472_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJOEUXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_merlin/releases/download/stable-14.03.2021/fw_merlin_miui_MERLINEEAGlobal_V12.0.9.0.QJOEUXM_5a7954d9cf_10.0.zip
@@ -37948,6 +37968,16 @@
   versions:
     android: '11.0'
     miui: V13.0.12.0.RLDCNXM
+- branch: stable
+  date: '2022-04-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-15.04.2022/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.1.0.RLDEUXM_0013aec626_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.1.0.RLDEUXM_0013aec626_11.0.zip
+  filename: fw_psyche_miui_PSYCHEEEAGlobal_V13.0.1.0.RLDEUXM_0013aec626_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.1.0.RLDEUXM
 - branch: stable
   date: '2022-04-07'
   downloads:

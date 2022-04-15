@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 15 Apr 2022 02:27:11 +0900</pubDate>
+  <pubDate>Fri, 15 Apr 2022 13:52:51 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12X (psyche) - V13.0.1.0.RLDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
+    <pubDate>Fri, 15 Apr 2022 13:52:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.5.0.RJOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Fri, 15 Apr 2022 13:23:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.1.0.SJSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Fri, 15 Apr 2022 13:22:54 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro (sweet) - V13.0.8.0.SKFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
@@ -90,21 +105,6 @@
     <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V13.0.8.0.RKYCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
     <pubDate>Thu, 07 Apr 2022 19:36:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.9.0.RKCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
-    <pubDate>Thu, 07 Apr 2022 01:49:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.5.0.RKCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
-    <pubDate>Thu, 07 Apr 2022 01:36:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Ultra (cas) - V13.0.3.0.SJJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
-    <pubDate>Thu, 07 Apr 2022 01:09:49 +0900</pubDate>
   </item>
     </channel>
 </rss>

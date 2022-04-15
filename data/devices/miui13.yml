@@ -713,6 +713,12 @@
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: V13.0.3.0.SJSCNXM
 - android: '12.0'
+  codename: gauguin
+  date: '2022-04-15'
+  download: https://bigota.d.miui.com/V13.0.1.0.SJSMIXM/fw_gauguin_miui_GAUGUINGlobal_V13.0.1.0.SJSMIXM_98016c5107_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V13.0.1.0.SJSMIXM
+- android: '12.0'
   codename: haydn
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_haydn_miui_HAYDNPRE_22.3.23_6e638d0123_12.0.zip
@@ -1300,6 +1306,12 @@
   download: https://bigota.d.miui.com/V13.0.12.0.RLDCNXM/fw_psyche_miui_PSYCHE_V13.0.12.0.RLDCNXM_03685bbdb7_11.0.zip
   name: Xiaomi 12X
   version: V13.0.12.0.RLDCNXM
+- android: '11.0'
+  codename: psyche
+  date: '2022-04-15'
+  download: https://bigota.d.miui.com/V13.0.1.0.RLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.1.0.RLDEUXM_0013aec626_11.0.zip
+  name: Xiaomi 12X
+  version: V13.0.1.0.RLDEUXM
 - android: '11.0'
   codename: psyche
   date: '2022-04-07'
