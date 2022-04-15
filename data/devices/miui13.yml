@@ -948,6 +948,12 @@
   version: V13.0.2.0.SJKCNXM
 - android: '12.0'
   codename: lmi
+  date: '2022-04-15'
+  download: https://bigota.d.miui.com/V13.0.2.0.SJKEUXM/fw_lmi_miui_LMIEEAGlobal_V13.0.2.0.SJKEUXM_72ed17529f_12.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: V13.0.2.0.SJKEUXM
+- android: '12.0'
+  codename: lmi
   date: '2022-01-14'
   download: https://bigota.d.miui.com/V13.0.0.1.1.DEV/fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
@@ -1818,6 +1824,18 @@
   version: V13.0.1.0.RKCEUXM
 - android: '11.0'
   codename: veux
+  date: '2022-04-15'
+  download: https://bigota.d.miui.com/V13.0.6.0.RKCEUXM/fw_veux_miui_VEUXEEAGlobal_V13.0.6.0.RKCEUXM_1447a97bb8_11.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V13.0.6.0.RKCEUXM
+- android: '11.0'
+  codename: veux
+  date: '2022-04-15'
+  download: https://bigota.d.miui.com/V13.0.10.0.RKCMIXM/fw_veux_miui_VEUXGlobal_V13.0.10.0.RKCMIXM_96ce2374b6_11.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V13.0.10.0.RKCMIXM
+- android: '11.0'
+  codename: veux
   date: '2022-04-11'
   download: https://bigota.d.miui.com/V13.0.4.0.RKCINXM/fw_veux_miui_VEUXINGlobal_V13.0.4.0.RKCINXM_312cd78931_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
@@ -1966,6 +1984,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.0.3.0.SLBMIXM_91c62f666f_12.0.zip
   name: Xiaomi 12 Pro
   version: V13.0.3.0.SLBMIXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-04-15'
+  download: https://bigota.d.miui.com/V13.0.30.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.30.0.SLBCNXM_d60d892580_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.30.0.SLBCNXM
 - android: '12.0'
   codename: zeus
   date: '2022-03-11'
