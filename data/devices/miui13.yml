@@ -534,6 +534,12 @@
   version: V13.0.10.0.SLCEUXM
 - android: '12.0'
   codename: cupid
+  date: '2022-04-15'
+  download: https://bigota.d.miui.com/V13.0.30.0.SLCCNXM/fw_cupid_miui_CUPID_V13.0.30.0.SLCCNXM_edd08d1d8b_12.0.zip
+  name: Xiaomi 12
+  version: V13.0.30.0.SLCCNXM
+- android: '12.0'
+  codename: cupid
   date: '2022-03-11'
   download: https://bigota.d.miui.com/V13.0.28.0.SLCCNXM/fw_cupid_miui_CUPID_V13.0.28.0.SLCCNXM_5a2b050c5a_12.0.zip
   name: Xiaomi 12

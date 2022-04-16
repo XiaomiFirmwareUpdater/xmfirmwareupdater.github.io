@@ -919,15 +919,15 @@
     android: '12.0'
     miui: V13.0.6.0.SLCMIXM
 - branch: stable
-  date: '2022-03-11'
+  date: '2022-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-11.03.2022/fw_cupid_miui_CUPID_V13.0.28.0.SLCCNXM_5a2b050c5a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPID_V13.0.28.0.SLCCNXM_5a2b050c5a_12.0.zip
-  filename: fw_cupid_miui_CUPID_V13.0.28.0.SLCCNXM_5a2b050c5a_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-16.04.2022/fw_cupid_miui_CUPID_V13.0.30.0.SLCCNXM_edd08d1d8b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPID_V13.0.30.0.SLCCNXM_edd08d1d8b_12.0.zip
+  filename: fw_cupid_miui_CUPID_V13.0.30.0.SLCCNXM_edd08d1d8b_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.28.0.SLCCNXM
+    miui: V13.0.30.0.SLCCNXM
 - branch: stable
   date: '2022-03-28'
   downloads:
@@ -1849,15 +1849,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2022-03-16'
+  date: '2022-04-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-16.03.2022/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.21.0.RFQMIXM_1bda1469ba_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.21.0.RFQMIXM_1bda1469ba_11.0.zip
-  filename: fw_laurel_miui_LAURELSPROUTGlobal_V12.0.21.0.RFQMIXM_1bda1469ba_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-16.04.2022/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.22.0.RFQMIXM_0c3ff49736_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.22.0.RFQMIXM_0c3ff49736_11.0.zip
+  filename: fw_laurel_miui_LAURELSPROUTGlobal_V12.0.22.0.RFQMIXM_0c3ff49736_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.0.21.0.RFQMIXM
+    miui: V12.0.22.0.RFQMIXM
 - branch: stable
   date: '2022-03-25'
   downloads:
@@ -3239,15 +3239,15 @@
     android: '11.0'
     miui: V12.5.16.0.RKLMIXM
 - branch: stable
-  date: '2022-02-14'
+  date: '2022-04-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-14.02.2022/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.16.0.RKLEUXM_1d992241df_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.16.0.RKLEUXM_1d992241df_11.0.zip
-  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.16.0.RKLEUXM_1d992241df_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-16.04.2022/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.17.0.RKLEUXM_a1ac951e80_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.17.0.RKLEUXM_a1ac951e80_11.0.zip
+  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V12.5.17.0.RKLEUXM_a1ac951e80_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.16.0.RKLEUXM
+    miui: V12.5.17.0.RKLEUXM
 - branch: stable
   date: '2022-02-17'
   downloads:

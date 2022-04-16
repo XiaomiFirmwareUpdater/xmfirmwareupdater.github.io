@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 15 Apr 2022 20:55:29 +0900</pubDate>
+  <pubDate>Sat, 16 Apr 2022 09:07:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10S (rosemary) - V12.5.17.0.RKLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Sat, 16 Apr 2022 09:07:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi A3 (laurel) - V12.0.22.0.RFQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/laurel</link>
+    <pubDate>Sat, 16 Apr 2022 08:42:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.30.0.SLCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Sat, 16 Apr 2022 08:31:23 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V13.0.30.0.SLBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 10 Pro/Pro Max (sweetin) - V13.0.3.0.SKFINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweetin</link>
     <pubDate>Fri, 08 Apr 2022 23:55:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.5.5.0.RKSMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
-    <pubDate>Fri, 08 Apr 2022 19:35:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V12.5.5.0.RJZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Fri, 08 Apr 2022 13:20:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12X (psyche) - V13.0.5.0.RLDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
-    <pubDate>Fri, 08 Apr 2022 02:12:45 +0900</pubDate>
   </item>
     </channel>
 </rss>
