@@ -57,14 +57,13 @@ permalink: /miui/mojito/
 <tr><td>Redmi Note 10 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKGMIXM</td><td>12.0</td><td>5.5 GB</td><td>2022-02-09</td><td><a href="/miui/mojito/stable/V13.0.5.0.SKGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKGMIXM</td><td>12.0</td><td>2.8 GB</td><td>2022-02-14</td><td><a href="/miui/mojito/stable/V13.0.5.0.SKGMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.9.0.RKGMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-05-13</td><td><a href="/miui/mojito/stable beta/V12.0.9.0.RKGMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKGIDXM</td><td>11.0</td><td>4.5 GB</td><td>2022-03-21</td><td><a href="/miui/mojito/stable/V12.5.6.0.RKGIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKGIDXM</td><td>11.0</td><td>2.6 GB</td><td>2022-03-26</td><td><a href="/miui/mojito/stable/V12.5.6.0.RKGIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKGIDXM</td><td>12.0</td><td>2.8 GB</td><td>2022-04-07</td><td><a href="/miui/mojito/stable beta/V13.0.2.0.SKGIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKGIDXM</td><td>12.0</td><td>4.7 GB</td><td>2022-03-31</td><td><a href="/miui/mojito/stable/V13.0.2.0.SKGIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKGIDXM</td><td>12.0</td><td>2.8 GB</td><td>2022-04-07</td><td><a href="/miui/mojito/stable/V13.0.2.0.SKGIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKGINXM</td><td>11.0</td><td>3.4 GB</td><td>2022-03-16</td><td><a href="/miui/mojito/stable/V12.5.6.0.RKGINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 India</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKGINXM</td><td>11.0</td><td>2.6 GB</td><td>2022-03-22</td><td><a href="/miui/mojito/stable/V12.5.6.0.RKGINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RKGRUXM</td><td>11.0</td><td>4.8 GB</td><td>2022-03-21</td><td><a href="/miui/mojito/stable/V12.5.6.0.RKGRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RKGRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-03-26</td><td><a href="/miui/mojito/stable/V12.5.6.0.RKGRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKGRUXM</td><td>12.0</td><td>2.8 GB</td><td>2022-04-07</td><td><a href="/miui/mojito/stable beta/V13.0.1.0.SKGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKGINXM</td><td>12.0</td><td>2.8 GB</td><td>2022-04-14</td><td><a href="/miui/mojito/stable beta/V13.0.1.0.SKGINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKGRUXM</td><td>12.0</td><td>4.9 GB</td><td>2022-03-31</td><td><a href="/miui/mojito/stable/V13.0.1.0.SKGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKGRUXM</td><td>12.0</td><td>2.8 GB</td><td>2022-04-07</td><td><a href="/miui/mojito/stable/V13.0.1.0.SKGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKGTRXM</td><td>12.0</td><td>4.6 GB</td><td>2022-03-28</td><td><a href="/miui/mojito/stable/V13.0.1.0.SKGTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKGTRXM</td><td>12.0</td><td>2.8 GB</td><td>2022-04-01</td><td><a href="/miui/mojito/stable/V13.0.1.0.SKGTRXM/">Download</a></td></tr>
 
