@@ -14549,6 +14549,16 @@
     android: '12.0'
     miui: V13.0.21.0.SLCCNXM
 - branch: stable
+  date: '2022-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-18.04.2022/fw_cupid_miui_CUPIDEEAGlobal_V13.0.16.0.SLCEUXM_9b162cbd6f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPIDEEAGlobal_V13.0.16.0.SLCEUXM_9b162cbd6f_12.0.zip
+  filename: fw_cupid_miui_CUPIDEEAGlobal_V13.0.16.0.SLCEUXM_9b162cbd6f_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.16.0.SLCEUXM
+- branch: stable
   date: '2022-03-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-17.03.2022/fw_cupid_miui_CUPIDGlobal_V13.0.4.0.SLCMIXM_2b4b27e370_12.0.zip
@@ -15268,6 +15278,16 @@
   versions:
     android: '10.0'
     miui: V12.0.13.0.QCDEUXM
+- branch: stable
+  date: '2022-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-18.04.2022/fw_dandelion_miui_DANDELIONINGlobal_V12.0.23.0.QCDINXM_9fd11d53c1_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.23.0.QCDINXM_9fd11d53c1_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.23.0.QCDINXM_9fd11d53c1_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.23.0.QCDINXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -18678,6 +18698,16 @@
   versions:
     android: '11.0'
     miui: V12.5.3.0.RJXINXM
+- branch: stable
+  date: '2022-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-18.04.2022/fw_excalibur_miui_EXCALIBURINGlobal_V12.5.6.0.RJXINXM_5138ddcd6e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V12.5.6.0.RJXINXM_5138ddcd6e_11.0.zip
+  filename: fw_excalibur_miui_EXCALIBURINGlobal_V12.5.6.0.RJXINXM_5138ddcd6e_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RJXINXM
 - branch: stable
   date: '2020-12-16'
   downloads:
@@ -24158,6 +24188,16 @@
   versions:
     android: '11.0'
     miui: V12.5.4.0.RJCCNXM
+- branch: stable
+  date: '2022-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-18.04.2022/fw_lancelot_miui_LANCELOTGlobal_V12.5.5.0.RJCMIXM_91cf50052d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTGlobal_V12.5.5.0.RJCMIXM_91cf50052d_11.0.zip
+  filename: fw_lancelot_miui_LANCELOTGlobal_V12.5.5.0.RJCMIXM_91cf50052d_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RJCMIXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -44369,6 +44409,16 @@
     android: '10.0'
     miui: V12.0.2.0.QJGINXM
 - branch: stable
+  date: '2022-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-18.04.2022/fw_surya_miui_SURYAEEAGlobal_V12.5.7.0.RJGEUXM_e89a98a56f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.5.7.0.RJGEUXM_e89a98a56f_11.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V12.5.7.0.RJGEUXM_e89a98a56f_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RJGEUXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-18.02.2021/fw_surya_miui_SURYAINGlobal_V12.0.9.0.QJGINXM_f8ad88de40_10.0.zip
@@ -54158,6 +54208,16 @@
   versions:
     android: '12.0'
     miui: V13.0.21.0.SLBCNXM
+- branch: stable
+  date: '2022-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-18.04.2022/fw_zeus_miui_ZEUSEEAGlobal_V13.0.16.0.SLBEUXM_db2b379891_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUSEEAGlobal_V13.0.16.0.SLBEUXM_db2b379891_12.0.zip
+  filename: fw_zeus_miui_ZEUSEEAGlobal_V13.0.16.0.SLBEUXM_db2b379891_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.16.0.SLBEUXM
 - branch: stable
   date: '2022-02-18'
   downloads:
