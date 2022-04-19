@@ -942,6 +942,12 @@
   version: V13.0.1.0.SKOCNXM
 - android: '12.0'
   codename: lisa
+  date: '2022-04-19'
+  download: https://bigota.d.miui.com/V13.0.8.0.SKOEUXM/fw_lisa_miui_LISAEEAGlobal_V13.0.8.0.SKOEUXM_7ba9890b2d_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.8.0.SKOEUXM
+- android: '12.0'
+  codename: lisa
   date: '2022-02-18'
   download: https://bigota.d.miui.com/V13.0.5.0.SKOEUXM/fw_lisa_miui_LISAEEAGlobal_V13.0.5.0.SKOEUXM_99c45f2bb2_12.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -1960,6 +1966,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.RKCEUXM/fw_veux_miui_VEUXEEAGlobal_V13.0.4.0.RKCEUXM_cbe58abb8e_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: V13.0.4.0.RKCEUXM
+- android: '12.0'
+  codename: vili
+  date: '2022-03-26'
+  download: https://bigota.d.miui.com/V13.0.1.0.SKDINXM/fw_vili_miui_VILIINGlobal_V13.0.1.0.SKDINXM_6e9ba811b9_12.0.zip
+  name: Xiaomi 11T Pro
+  version: V13.0.1.0.SKDINXM
 - android: '12.0'
   codename: vili
   date: '2022-04-18'

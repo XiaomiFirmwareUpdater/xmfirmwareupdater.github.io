@@ -26919,6 +26919,16 @@
     android: '11.0'
     miui: V12.5.9.0.RKOCNXM
 - branch: stable
+  date: '2022-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-19.04.2022/fw_lisa_miui_LISAEEAGlobal_V13.0.8.0.SKOEUXM_7ba9890b2d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAEEAGlobal_V13.0.8.0.SKOEUXM_7ba9890b2d_12.0.zip
+  filename: fw_lisa_miui_LISAEEAGlobal_V13.0.8.0.SKOEUXM_7ba9890b2d_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SKOEUXM
+- branch: stable
   date: '2021-10-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-18.10.2021/fw_lisa_miui_LISAINGlobal_V12.5.2.0.RKOINXM_2fd16dd2fd_11.0.zip
@@ -51518,6 +51528,16 @@
   versions:
     android: '11.0'
     miui: V12.5.4.0.RKDMIXM
+- branch: stable
+  date: '2022-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-26.03.2022/fw_vili_miui_VILIINGlobal_V13.0.1.0.SKDINXM_6e9ba811b9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vili/fw_vili_miui_VILIINGlobal_V13.0.1.0.SKDINXM_6e9ba811b9_12.0.zip
+  filename: fw_vili_miui_VILIINGlobal_V13.0.1.0.SKDINXM_6e9ba811b9_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SKDINXM
 - branch: stable
   date: '2021-12-23'
   downloads:
