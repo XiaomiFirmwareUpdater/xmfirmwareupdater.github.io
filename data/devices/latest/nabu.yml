@@ -29,12 +29,12 @@
     android: '11.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-02-16'
+  date: '2022-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-16.02.2022/fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
-  filename: fw_nabu_miui_NABUEEAGlobal_V13.0.3.0.RKXEUXM_d4520cff24_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-20.04.2022/fw_nabu_miui_NABUEEAGlobal_V13.0.4.0.RKXEUXM_7773cd515f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUEEAGlobal_V13.0.4.0.RKXEUXM_7773cd515f_11.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V13.0.4.0.RKXEUXM_7773cd515f_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V13.0.3.0.RKXEUXM
+    miui: V13.0.4.0.RKXEUXM

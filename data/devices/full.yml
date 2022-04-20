@@ -13439,6 +13439,16 @@
     android: '11.0'
     miui: V12.2.1.0.RJACNXM
 - branch: stable
+  date: '2022-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-20.04.2022/fw_cmi_miui_CMIEEAGlobal_V13.0.2.0.SJAEUXM_f41362a8f6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMIEEAGlobal_V13.0.2.0.SJAEUXM_f41362a8f6_12.0.zip
+  filename: fw_cmi_miui_CMIEEAGlobal_V13.0.2.0.SJAEUXM_f41362a8f6_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SJAEUXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-19.01.2021/fw_cmi_miui_CMI_V12.2.3.0.RJACNXM_685cd1374b_11.0.zip
@@ -30059,6 +30069,16 @@
     android: '11.0'
     miui: V13.0.5.0.RKXCNXM
 - branch: stable
+  date: '2022-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-20.04.2022/fw_nabu_miui_NABUEEAGlobal_V13.0.4.0.RKXEUXM_7773cd515f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUEEAGlobal_V13.0.4.0.RKXEUXM_7773cd515f_11.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V13.0.4.0.RKXEUXM_7773cd515f_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.4.0.RKXEUXM
+- branch: stable
   date: '2021-10-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-18.10.2021/fw_nabu_miui_NABUEEAGlobal_V12.5.5.0.RKXEUXM_34f517df77_11.0.zip
@@ -40158,6 +40178,16 @@
   versions:
     android: '11.0'
     miui: V12.0.7.0.RKICNXM
+- branch: stable
+  date: '2022-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-20.04.2022/fw_renoir_miui_RENOIRGlobal_V13.0.4.0.SKIMIXM_e66cdbaec5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/renoir/fw_renoir_miui_RENOIRGlobal_V13.0.4.0.SKIMIXM_e66cdbaec5_12.0.zip
+  filename: fw_renoir_miui_RENOIRGlobal_V13.0.4.0.SKIMIXM_e66cdbaec5_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKIMIXM
 - branch: stable
   date: '2022-01-19'
   downloads:

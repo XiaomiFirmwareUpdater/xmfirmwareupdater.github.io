@@ -29,12 +29,12 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2021-11-22'
+  date: '2022-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-22.11.2021/fw_cmi_miui_CMIEEAGlobal_V12.5.3.0.RJAEUXM_a799b6f1d2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIEEAGlobal_V12.5.3.0.RJAEUXM_a799b6f1d2_11.0.zip
-  filename: fw_cmi_miui_CMIEEAGlobal_V12.5.3.0.RJAEUXM_a799b6f1d2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-20.04.2022/fw_cmi_miui_CMIEEAGlobal_V13.0.2.0.SJAEUXM_f41362a8f6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMIEEAGlobal_V13.0.2.0.SJAEUXM_f41362a8f6_12.0.zip
+  filename: fw_cmi_miui_CMIEEAGlobal_V13.0.2.0.SJAEUXM_f41362a8f6_12.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V12.5.3.0.RJAEUXM
+    android: '12.0'
+    miui: V13.0.2.0.SJAEUXM
