@@ -959,15 +959,15 @@
     android: '11.0'
     miui: V12.5.5.0.RJWEUXM
 - branch: stable
-  date: '2022-02-22'
+  date: '2022-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-23.02.2022/fw_curtana_miui_CURTANAINGlobal_V12.5.4.0.RJWINXM_6500e1be57_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAINGlobal_V12.5.4.0.RJWINXM_6500e1be57_11.0.zip
-  filename: fw_curtana_miui_CURTANAINGlobal_V12.5.4.0.RJWINXM_6500e1be57_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-21.04.2022/fw_curtana_miui_CURTANAINGlobal_V12.5.5.0.RJWINXM_f1a1dae59f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAINGlobal_V12.5.5.0.RJWINXM_f1a1dae59f_11.0.zip
+  filename: fw_curtana_miui_CURTANAINGlobal_V12.5.5.0.RJWINXM_f1a1dae59f_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RJWINXM
+    miui: V12.5.5.0.RJWINXM
 - branch: stable
   date: '2021-07-13'
   downloads:
@@ -1319,15 +1319,15 @@
     android: '12.0'
     miui: V13.0.2.0.SJSEUXM
 - branch: stable
-  date: '2022-01-27'
+  date: '2022-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-27.01.2022/fw_gauguin_miui_GAUGUININGlobal_V12.5.4.0.RJSINXM_c0dcef4831_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUININGlobal_V12.5.4.0.RJSINXM_c0dcef4831_11.0.zip
-  filename: fw_gauguin_miui_GAUGUININGlobal_V12.5.4.0.RJSINXM_c0dcef4831_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-21.04.2022/fw_gauguin_miui_GAUGUININGlobal_V12.5.5.0.RJSINXM_b4b30fa734_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUININGlobal_V12.5.5.0.RJSINXM_b4b30fa734_11.0.zip
+  filename: fw_gauguin_miui_GAUGUININGlobal_V12.5.5.0.RJSINXM_b4b30fa734_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.4.0.RJSINXM
+    miui: V12.5.5.0.RJSINXM
 - branch: stable
   date: '2019-01-25'
   downloads:
@@ -3249,15 +3249,15 @@
     android: '11.0'
     miui: V12.5.17.0.RKLEUXM
 - branch: stable
-  date: '2022-02-17'
+  date: '2022-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-18.02.2022/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.12.0.RKLINXM_57a06d19aa_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.12.0.RKLINXM_57a06d19aa_11.0.zip
-  filename: fw_rosemary_miui_ROSEMARYINGlobal_V12.5.12.0.RKLINXM_57a06d19aa_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-21.04.2022/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.13.0.RKLINXM_8f3681fb47_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.13.0.RKLINXM_8f3681fb47_11.0.zip
+  filename: fw_rosemary_miui_ROSEMARYINGlobal_V12.5.13.0.RKLINXM_8f3681fb47_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.12.0.RKLINXM
+    miui: V12.5.13.0.RKLINXM
 - branch: stable
   date: '2020-01-19'
   downloads:
@@ -3749,15 +3749,15 @@
     android: '11.0'
     miui: V12.5.6.0.RFDMIXM
 - branch: stable
-  date: '2022-04-03'
+  date: '2022-01-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-04.04.2022/fw_tucana_miui_TUCANA_V13.0.1.0.RFDCNXM_572656a73d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANA_V13.0.1.0.RFDCNXM_572656a73d_11.0.zip
-  filename: fw_tucana_miui_TUCANA_V13.0.1.0.RFDCNXM_572656a73d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-11.01.2022/fw_tucana_miui_TUCANA_V12.5.9.0.RFDCNXM_34a090cd3a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/tucana/fw_tucana_miui_TUCANA_V12.5.9.0.RFDCNXM_34a090cd3a_11.0.zip
+  filename: fw_tucana_miui_TUCANA_V12.5.9.0.RFDCNXM_34a090cd3a_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V13.0.1.0.RFDCNXM
+    miui: V12.5.9.0.RFDCNXM
 - branch: weekly
   date: '2022-03-04'
   downloads:

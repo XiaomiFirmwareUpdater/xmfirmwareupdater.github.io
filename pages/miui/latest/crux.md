@@ -52,9 +52,9 @@ permalink: /miui/crux/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RFXCNXM</td><td>11.0</td><td>4.4 GB</td><td>2021-10-25</td><td><a href="/miui/crux/stable/V12.5.3.0.RFXCNXM/">Download</a></td></tr>
-<tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RFXCNXM</td><td>11.0</td><td>2.9 GB</td><td>2021-11-08</td><td><a href="/miui/crux/stable/V12.5.3.0.RFXCNXM/">Download</a></td></tr>
+                <tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RFXCNXM</td><td>11.0</td><td>4.5 GB</td><td>2022-04-02</td><td><a href="/miui/crux/stable/V13.0.1.0.RFXCNXM/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.RFXCNXM</td><td>11.0</td><td>2.9 GB</td><td>2022-04-11</td><td><a href="/miui/crux/stable beta/V13.0.1.0.RFXCNXM/">Download</a></td></tr>
+<tr><td>Mi 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RFXCNXM</td><td>11.0</td><td>2.9 GB</td><td>2021-11-08</td><td><a href="/miui/crux/stable/V12.5.3.0.RFXCNXM/">Download</a></td></tr>
 <tr><td>Mi 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.11.24</td><td>11.0</td><td>3.0 GB</td><td>2021-11-25</td><td><a href="/miui/crux/weekly/21.11.24/">Download</a></td></tr>
 
                 </tbody>
