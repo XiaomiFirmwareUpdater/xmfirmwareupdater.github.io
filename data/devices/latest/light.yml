@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2022-03-25'
+  date: '2022-04-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-26.03.2022/fw_light_miui_LIGHT_V13.0.3.0.SLSCNXM_34456a113e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHT_V13.0.3.0.SLSCNXM_34456a113e_12.0.zip
-  filename: fw_light_miui_LIGHT_V13.0.3.0.SLSCNXM_34456a113e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-21.04.2022/fw_light_miui_LIGHT_V13.0.6.0.SLSCNXM_c5763af428_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHT_V13.0.6.0.SLSCNXM_c5763af428_12.0.zip
+  filename: fw_light_miui_LIGHT_V13.0.6.0.SLSCNXM_c5763af428_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SLSCNXM
+    miui: V13.0.6.0.SLSCNXM
