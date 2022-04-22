@@ -1,15 +1,15 @@
 ---
-title: POCO M2 (shiva) MIUI Downloads
+title: Xiaomi Civi 1S (zijin) MIUI Downloads
 layout: download
-name: POCO M2
-codename: shiva
-permalink: /miui/shiva/
+name: Xiaomi Civi 1S
+codename: zijin
+permalink: /archive/miui/zijin/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/shiva/">POCO M2</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/zijin/">Xiaomi Civi 1S</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /miui/shiva/
     </button>
 </div>
 
-### Latest MIUI Official ROMs
+### MIUI Official ROMs Archive
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/shiva/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/shiva/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/shiva/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/miui/zijin/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/zijin/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/zijin/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,8 +52,8 @@ permalink: /miui/shiva/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M2 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RJRINXM</td><td>11.0</td><td>2.9 GB</td><td>2022-04-06</td><td><a href="/miui/shiva/stable/V12.5.6.0.RJRINXM/">Download</a></td></tr>
-<tr><td>POCO M2 India</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RJRINXM</td><td>11.0</td><td>2.4 GB</td><td>2022-04-13</td><td><a href="/miui/shiva/stable/V12.5.6.0.RJRINXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SLPCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-04-21</td><td><a href="/miui/zijin/stable/V13.0.6.0.SLPCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SLPCNXM</td><td>12.0</td><td>6.8 GB</td><td>2022-04-13</td><td><a href="/miui/zijin/stable/V13.0.6.0.SLPCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

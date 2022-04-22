@@ -52,7 +52,8 @@ permalink: /archive/miui/shiva/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M2 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RJRINXM</td><td>11.0</td><td>2.4 GB</td><td>2022-04-13</td><td><a href="/miui/shiva/stable beta/V12.5.6.0.RJRINXM/">Download</a></td></tr>
+                <tr><td>POCO M2 India</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RJRINXM</td><td>11.0</td><td>2.4 GB</td><td>2022-04-13</td><td><a href="/miui/shiva/stable/V12.5.6.0.RJRINXM/">Download</a></td></tr>
+<tr><td>POCO M2 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RJRINXM</td><td>11.0</td><td>2.9 GB</td><td>2022-04-06</td><td><a href="/miui/shiva/stable/V12.5.6.0.RJRINXM/">Download</a></td></tr>
 <tr><td>POCO M2 India</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RJRINXM</td><td>11.0</td><td>2.4 GB</td><td>2022-02-26</td><td><a href="/miui/shiva/stable/V12.5.5.0.RJRINXM/">Download</a></td></tr>
 <tr><td>POCO M2 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RJRINXM</td><td>11.0</td><td>2.9 GB</td><td>2022-02-23</td><td><a href="/miui/shiva/stable/V12.5.5.0.RJRINXM/">Download</a></td></tr>
 <tr><td>POCO M2 India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJRINXM</td><td>11.0</td><td>2.4 GB</td><td>2021-12-01</td><td><a href="/miui/shiva/stable/V12.5.3.0.RJRINXM/">Download</a></td></tr>
