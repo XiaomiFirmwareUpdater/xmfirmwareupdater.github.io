@@ -62,6 +62,7 @@ permalink: /miui/pissarro/
 <tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RKTINXM</td><td>11.0</td><td>4.2 GB</td><td>2022-03-08</td><td><a href="/miui/pissarro/stable/V12.5.5.0.RKTINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKTINXM</td><td>11.0</td><td>2.9 GB</td><td>2022-03-17</td><td><a href="/miui/pissarro/stable/V12.5.5.0.RKTINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKTRUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-04-22</td><td><a href="/miui/pissarro/stable beta/V12.5.3.0.RKTRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro+ 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKTTWXM</td><td>11.0</td><td>2.7 GB</td><td>2022-04-22</td><td><a href="/miui/pissarro/stable beta/V12.5.3.0.RKTTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -56,7 +56,7 @@ permalink: /miui/cas/
 <tr><td>Mi 10 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJJCNXM</td><td>12.0</td><td>5.5 GB</td><td>2022-03-29</td><td><a href="/miui/cas/stable/V13.0.3.0.SJJCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJJCNXM</td><td>12.0</td><td>4.6 GB</td><td>2022-04-06</td><td><a href="/miui/cas/stable beta/V13.0.3.0.SJJCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Ultra China</td><td>Weekly</td><td>Fastboot</td><td>22.3.2</td><td>12.0</td><td>5.7 GB</td><td>2022-03-02</td><td><a href="/miui/cas/weekly/22.3.2/">Download</a></td></tr>
-<tr><td>Mi 10 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.23.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-04-08</td><td><a href="/miui/cas/public beta/V13.0.3.1.23.DEV/">Download</a></td></tr>
+<tr><td>Mi 10 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.27.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-04-22</td><td><a href="/miui/cas/public beta/V13.0.3.1.27.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Ultra China</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJJCNXM</td><td>12.0</td><td>4.7 GB</td><td>2022-03-14</td><td><a href="/miui/cas/stable/V13.0.1.0.SJJCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Ultra China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.8 GB</td><td>2022-03-24</td><td><a href="/miui/cas/weekly/22.3.23/">Download</a></td></tr>
 

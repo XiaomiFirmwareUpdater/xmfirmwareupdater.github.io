@@ -11,6 +11,12 @@
   name: Xiaomi 11T
   version: V13.0.2.0.SKWEUXM
 - android: '12.0'
+  codename: agate
+  date: '2022-04-22'
+  download: https://bigota.d.miui.com/V13.0.3.0.SKWMIXM/fw_agate_miui_AGATEGlobal_V13.0.3.0.SKWMIXM_ecaa5f9d4c_12.0.zip
+  name: Xiaomi 11T
+  version: V13.0.3.0.SKWMIXM
+- android: '12.0'
   codename: alioth
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_alioth_miui_ALIOTHPRE_22.3.23_36ab9c843e_12.0.zip
@@ -1020,6 +1026,12 @@
   version: V13.0.1.0.SJKCNXM
 - android: '12.0'
   codename: lmi
+  date: '2022-04-22'
+  download: https://bigota.d.miui.com/V13.0.1.0.SJKMIXM/fw_lmi_miui_LMIGlobal_V13.0.1.0.SJKMIXM_c0c40adc87_12.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: V13.0.1.0.SJKMIXM
+- android: '12.0'
+  codename: lmi
   date: '2022-03-18'
   download: https://bigota.d.miui.com/V13.0.2.0.SJKCNXM/fw_lmi_miui_LMI_V13.0.2.0.SJKCNXM_1f2e4d340c_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
@@ -1390,6 +1402,12 @@
   download: https://bigota.d.miui.com/22.3.3/fw_psyche_miui_PSYCHEPRE_22.3.3_af08026cbd_12.0.zip
   name: Xiaomi 12X
   version: 22.3.3
+- android: '12.0'
+  codename: psyche
+  date: '2022-04-22'
+  download: https://bigota.d.miui.com/V13.0.2.0.SLDCNXM/fw_psyche_miui_PSYCHE_V13.0.2.0.SLDCNXM_1ce9db4995_12.0.zip
+  name: Xiaomi 12X
+  version: V13.0.2.0.SLDCNXM
 - android: '11.0'
   codename: psyche
   date: '2022-03-22'
@@ -1554,6 +1572,12 @@
   version: V13.0.5.0.RGKEUXM
 - android: '11.0'
   codename: spesn
+  date: '2022-04-22'
+  download: https://bigota.d.miui.com/V13.0.7.0.RGKMIXM/fw_spesn_miui_SPESNGlobal_V13.0.7.0.RGKMIXM_14345aff50_11.0.zip
+  name: Redmi Note 11 NFC
+  version: V13.0.7.0.RGKMIXM
+- android: '11.0'
+  codename: spesn
   date: '2022-03-16'
   download: https://bigota.d.miui.com/V13.0.3.0.RGKMIXM/fw_spesn_miui_SPESNGlobal_V13.0.3.0.RGKMIXM_b6346042e8_11.0.zip
   name: Redmi Note 11 NFC
@@ -1606,6 +1630,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.SKAEUXM/fw_star_miui_STAREEAGlobal_V13.0.5.0.SKAEUXM_22c3064331_12.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V13.0.5.0.SKAEUXM
+- android: '12.0'
+  codename: star
+  date: '2022-04-22'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKAINXM/fw_star_miui_STARINGlobal_V13.0.2.0.SKAINXM_a79f4b2f88_12.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V13.0.2.0.SKAINXM
 - android: '12.0'
   codename: star
   date: '2022-01-21'
@@ -1894,6 +1924,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SKBMIXM/fw_venus_miui_VENUSGlobal_V13.0.1.0.SKBMIXM_1b402d5728_12.0.zip
   name: Mi 11
   version: V13.0.1.0.SKBMIXM
+- android: '12.0'
+  codename: venus
+  date: '2022-04-22'
+  download: https://bigota.d.miui.com/V13.0.8.0.SKBCNXM/fw_venus_miui_VENUS_V13.0.8.0.SKBCNXM_0a2bc25ba5_12.0.zip
+  name: Mi 11
+  version: V13.0.8.0.SKBCNXM
 - android: '12.0'
   codename: venus
   date: '2022-01-14'

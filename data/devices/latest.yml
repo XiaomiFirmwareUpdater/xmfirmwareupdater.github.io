@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-02-28'
+  date: '2022-04-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-28.02.2022/fw_agate_miui_AGATEGlobal_V13.0.2.0.SKWMIXM_8544f90cd4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/agate/fw_agate_miui_AGATEGlobal_V13.0.2.0.SKWMIXM_8544f90cd4_12.0.zip
-  filename: fw_agate_miui_AGATEGlobal_V13.0.2.0.SKWMIXM_8544f90cd4_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-22.04.2022/fw_agate_miui_AGATEGlobal_V13.0.3.0.SKWMIXM_ecaa5f9d4c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/agate/fw_agate_miui_AGATEGlobal_V13.0.3.0.SKWMIXM_ecaa5f9d4c_12.0.zip
+  filename: fw_agate_miui_AGATEGlobal_V13.0.3.0.SKWMIXM_ecaa5f9d4c_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SKWMIXM
+    miui: V13.0.3.0.SKWMIXM
 - branch: stable
   date: '2022-02-28'
   downloads:
@@ -2109,15 +2109,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2022-02-23'
+  date: '2022-04-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-23.02.2022/fw_lmi_miui_LMIGlobal_V12.5.6.0.RJKMIXM_a0296441b6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lmi/fw_lmi_miui_LMIGlobal_V12.5.6.0.RJKMIXM_a0296441b6_11.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V12.5.6.0.RJKMIXM_a0296441b6_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-22.04.2022/fw_lmi_miui_LMIGlobal_V13.0.1.0.SJKMIXM_c0c40adc87_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMIGlobal_V13.0.1.0.SJKMIXM_c0c40adc87_12.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V13.0.1.0.SJKMIXM_c0c40adc87_12.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V12.5.6.0.RJKMIXM
+    android: '12.0'
+    miui: V13.0.1.0.SJKMIXM
 - branch: stable
   date: '2022-03-18'
   downloads:
@@ -2999,15 +2999,15 @@
     android: '11.0'
     miui: V13.0.5.0.RLDMIXM
 - branch: stable
-  date: '2022-03-22'
+  date: '2022-04-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-22.03.2022/fw_psyche_miui_PSYCHE_V13.0.15.0.RLDCNXM_fb4835c8a4_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHE_V13.0.15.0.RLDCNXM_fb4835c8a4_11.0.zip
-  filename: fw_psyche_miui_PSYCHE_V13.0.15.0.RLDCNXM_fb4835c8a4_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-22.04.2022/fw_psyche_miui_PSYCHE_V13.0.2.0.SLDCNXM_1ce9db4995_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHE_V13.0.2.0.SLDCNXM_1ce9db4995_12.0.zip
+  filename: fw_psyche_miui_PSYCHE_V13.0.2.0.SLDCNXM_1ce9db4995_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V13.0.15.0.RLDCNXM
+    android: '12.0'
+    miui: V13.0.2.0.SLDCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -3559,15 +3559,15 @@
     android: '11.0'
     miui: V13.0.8.0.RGCINXM
 - branch: stable
-  date: '2022-03-16'
+  date: '2022-04-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-16.03.2022/fw_spesn_miui_SPESNGlobal_V13.0.3.0.RGKMIXM_b6346042e8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spesn/fw_spesn_miui_SPESNGlobal_V13.0.3.0.RGKMIXM_b6346042e8_11.0.zip
-  filename: fw_spesn_miui_SPESNGlobal_V13.0.3.0.RGKMIXM_b6346042e8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-22.04.2022/fw_spesn_miui_SPESNGlobal_V13.0.7.0.RGKMIXM_14345aff50_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spesn/fw_spesn_miui_SPESNGlobal_V13.0.7.0.RGKMIXM_14345aff50_11.0.zip
+  filename: fw_spesn_miui_SPESNGlobal_V13.0.7.0.RGKMIXM_14345aff50_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V13.0.3.0.RGKMIXM
+    miui: V13.0.7.0.RGKMIXM
 - branch: stable
   date: '2022-03-08'
   downloads:
@@ -3619,15 +3619,15 @@
     android: '12.0'
     miui: V13.0.5.0.SKAEUXM
 - branch: stable
-  date: '2022-01-19'
+  date: '2022-04-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-19.01.2022/fw_star_miui_STARINGlobal_V12.5.6.0.RKAINXM_a6d3c3f132_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/star/fw_star_miui_STARINGlobal_V12.5.6.0.RKAINXM_a6d3c3f132_11.0.zip
-  filename: fw_star_miui_STARINGlobal_V12.5.6.0.RKAINXM_a6d3c3f132_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-22.04.2022/fw_star_miui_STARINGlobal_V13.0.2.0.SKAINXM_a79f4b2f88_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STARINGlobal_V13.0.2.0.SKAINXM_a79f4b2f88_12.0.zip
+  filename: fw_star_miui_STARINGlobal_V13.0.2.0.SKAINXM_a79f4b2f88_12.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V12.5.6.0.RKAINXM
+    android: '12.0'
+    miui: V13.0.2.0.SKAINXM
 - branch: stable
   date: '2022-02-24'
   downloads:
@@ -4039,15 +4039,15 @@
     android: '12.0'
     miui: V13.0.1.0.SKBMIXM
 - branch: stable
-  date: '2022-01-29'
+  date: '2022-04-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-29.01.2022/fw_venus_miui_VENUS_V13.0.6.0.SKBCNXM_176af7a83a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/venus/fw_venus_miui_VENUS_V13.0.6.0.SKBCNXM_176af7a83a_12.0.zip
-  filename: fw_venus_miui_VENUS_V13.0.6.0.SKBCNXM_176af7a83a_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-22.04.2022/fw_venus_miui_VENUS_V13.0.8.0.SKBCNXM_0a2bc25ba5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/venus/fw_venus_miui_VENUS_V13.0.8.0.SKBCNXM_0a2bc25ba5_12.0.zip
+  filename: fw_venus_miui_VENUS_V13.0.8.0.SKBCNXM_0a2bc25ba5_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SKBCNXM
+    miui: V13.0.8.0.SKBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
