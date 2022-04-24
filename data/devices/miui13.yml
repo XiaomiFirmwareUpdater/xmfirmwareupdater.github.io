@@ -678,6 +678,12 @@
   version: V13.0.1.0.RKEEUXM
 - android: '11.0'
   codename: fleur
+  date: '2022-04-24'
+  download: https://bigota.d.miui.com/V13.0.7.0.RKEMIXM/fw_fleur_miui_FLEURGlobal_V13.0.7.0.RKEMIXM_30020f3ca0_11.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.7.0.RKEMIXM
+- android: '11.0'
+  codename: fleur
   date: '2022-02-22'
   download: https://bigota.d.miui.com/V13.0.5.0.RKEMIXM/fw_fleur_miui_FLEURGlobal_V13.0.5.0.RKEMIXM_ba53853969_11.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -1060,6 +1066,12 @@
   download: https://bigota.d.miui.com/V13.0.8.0.SLKCNXM/fw_matisse_miui_MATISSE_V13.0.8.0.SLKCNXM_70ecb61528_12.0.zip
   name: Redmi K50 Pro
   version: V13.0.8.0.SLKCNXM
+- android: '12.0'
+  codename: matisse
+  date: '2022-04-24'
+  download: https://bigota.d.miui.com/V13.0.13.0.SLKCNXM/fw_matisse_miui_MATISSE_V13.0.13.0.SLKCNXM_b30af75eb1_12.0.zip
+  name: Redmi K50 Pro
+  version: V13.0.13.0.SLKCNXM
 - android: '12.0'
   codename: matisse
   date: '2022-03-21'
@@ -1522,6 +1534,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.6.0.SLNCNXM_1b2dd3362d_12.0.zip
   name: Redmi K50
   version: V13.0.6.0.SLNCNXM
+- android: '12.0'
+  codename: rubens
+  date: '2022-04-24'
+  download: https://bigota.d.miui.com/V13.0.10.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.10.0.SLNCNXM_2406e67547_12.0.zip
+  name: Redmi K50
+  version: V13.0.10.0.SLNCNXM
 - android: '12.0'
   codename: rubens
   date: '2022-03-21'

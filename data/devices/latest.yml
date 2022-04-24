@@ -1229,15 +1229,15 @@
     android: '11.0'
     miui: V12.5.6.0.RJXINXM
 - branch: stable
-  date: '2022-02-22'
+  date: '2022-04-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-22.02.2022/fw_fleur_miui_FLEURGlobal_V13.0.5.0.RKEMIXM_ba53853969_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURGlobal_V13.0.5.0.RKEMIXM_ba53853969_11.0.zip
-  filename: fw_fleur_miui_FLEURGlobal_V13.0.5.0.RKEMIXM_ba53853969_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-24.04.2022/fw_fleur_miui_FLEURGlobal_V13.0.7.0.RKEMIXM_30020f3ca0_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURGlobal_V13.0.7.0.RKEMIXM_30020f3ca0_11.0.zip
+  filename: fw_fleur_miui_FLEURGlobal_V13.0.7.0.RKEMIXM_30020f3ca0_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V13.0.5.0.RKEMIXM
+    miui: V13.0.7.0.RKEMIXM
 - branch: stable
   date: '2022-03-28'
   downloads:
@@ -1999,15 +1999,15 @@
     android: '11.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-01-29'
+  date: '2022-04-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-29.01.2022/fw_lime_miui_LIMEEEAGlobal_V12.5.5.0.RJQEUXM_5cb72377c9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.5.5.0.RJQEUXM_5cb72377c9_11.0.zip
-  filename: fw_lime_miui_LIMEEEAGlobal_V12.5.5.0.RJQEUXM_5cb72377c9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-24.04.2022/fw_lime_miui_LIMEEEAGlobal_V12.5.7.0.RJQEUXM_84b48410bf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.5.7.0.RJQEUXM_84b48410bf_11.0.zip
+  filename: fw_lime_miui_LIMEEEAGlobal_V12.5.7.0.RJQEUXM_84b48410bf_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RJQEUXM
+    miui: V12.5.7.0.RJQEUXM
 - branch: stable
   date: '2022-03-14'
   downloads:
@@ -2209,15 +2209,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2022-04-14'
+  date: '2022-04-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-14.04.2022/fw_matisse_miui_MATISSE_V13.0.12.0.SLKCNXM_81bed706c7_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/matisse/fw_matisse_miui_MATISSE_V13.0.12.0.SLKCNXM_81bed706c7_12.0.zip
-  filename: fw_matisse_miui_MATISSE_V13.0.12.0.SLKCNXM_81bed706c7_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-24.04.2022/fw_matisse_miui_MATISSE_V13.0.13.0.SLKCNXM_b30af75eb1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/matisse/fw_matisse_miui_MATISSE_V13.0.13.0.SLKCNXM_b30af75eb1_12.0.zip
+  filename: fw_matisse_miui_MATISSE_V13.0.13.0.SLKCNXM_b30af75eb1_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.12.0.SLKCNXM
+    miui: V13.0.13.0.SLKCNXM
 - branch: stable
   date: '2022-04-02'
   downloads:
@@ -3309,15 +3309,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2022-04-07'
+  date: '2022-04-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-07.04.2022/fw_rubens_miui_RUBENS_V13.0.9.0.SLNCNXM_352b7a3501_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rubens/fw_rubens_miui_RUBENS_V13.0.9.0.SLNCNXM_352b7a3501_12.0.zip
-  filename: fw_rubens_miui_RUBENS_V13.0.9.0.SLNCNXM_352b7a3501_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-24.04.2022/fw_rubens_miui_RUBENS_V13.0.10.0.SLNCNXM_2406e67547_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rubens/fw_rubens_miui_RUBENS_V13.0.10.0.SLNCNXM_2406e67547_12.0.zip
+  filename: fw_rubens_miui_RUBENS_V13.0.10.0.SLNCNXM_2406e67547_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.9.0.SLNCNXM
+    miui: V13.0.10.0.SLNCNXM
 - branch: stable
   date: '2020-03-23'
   downloads:
