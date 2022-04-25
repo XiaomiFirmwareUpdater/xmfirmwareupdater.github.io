@@ -52,9 +52,9 @@ permalink: /miui/courbet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 Lite 4G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKQEUXM</td><td>12.0</td><td>5.8 GB</td><td>2022-02-15</td><td><a href="/miui/courbet/stable/V13.0.3.0.SKQEUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 4G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKQEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-02-19</td><td><a href="/miui/courbet/stable/V13.0.3.0.SKQEUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKQEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-04-15</td><td><a href="/miui/courbet/stable beta/V13.0.4.0.SKQEUXM/">Download</a></td></tr>
+                <tr><td>Mi 11 Lite 4G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKQEUXM</td><td>12.0</td><td>5.6 GB</td><td>2022-04-08</td><td><a href="/miui/courbet/stable/V13.0.4.0.SKQEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKQEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-04-15</td><td><a href="/miui/courbet/stable/V13.0.4.0.SKQEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RKQEUXM</td><td>11.0</td><td>3.0 GB</td><td>2021-09-01</td><td><a href="/miui/courbet/stable beta/V12.5.4.0.RKQEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SKQMIXM</td><td>12.0</td><td>5.5 GB</td><td>2022-04-06</td><td><a href="/miui/courbet/stable/V13.0.7.0.SKQMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SKQMIXM</td><td>12.0</td><td>3.2 GB</td><td>2022-04-13</td><td><a href="/miui/courbet/stable/V13.0.7.0.SKQMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKQMIXM</td><td>11.0</td><td>2.9 GB</td><td>2021-09-01</td><td><a href="/miui/courbet/stable beta/V12.5.5.0.RKQMIXM/">Download</a></td></tr>

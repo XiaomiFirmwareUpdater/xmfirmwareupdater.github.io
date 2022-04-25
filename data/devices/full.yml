@@ -49,6 +49,16 @@
     android: '12.0'
     miui: V13.0.2.0.SKWEUXM
 - branch: stable
+  date: '2022-04-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-25.04.2022/fw_agate_miui_AGATEEEAGlobal_V13.0.4.0.SKWEUXM_373f32a58a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/agate/fw_agate_miui_AGATEEEAGlobal_V13.0.4.0.SKWEUXM_373f32a58a_12.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V13.0.4.0.SKWEUXM_373f32a58a_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKWEUXM
+- branch: stable
   date: '2021-11-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-22.11.2021/fw_agate_miui_AGATEGlobal_V12.5.8.0.RKWMIXM_6d381b1d91_11.0.zip
@@ -14578,6 +14588,16 @@
   versions:
     android: '12.0'
     miui: V13.0.14.0.SLCEUXM
+- branch: stable
+  date: '2022-04-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-25.04.2022/fw_cupid_miui_CUPIDGlobal_V13.0.7.0.SLCMIXM_7dc17b4278_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPIDGlobal_V13.0.7.0.SLCMIXM_7dc17b4278_12.0.zip
+  filename: fw_cupid_miui_CUPIDGlobal_V13.0.7.0.SLCMIXM_7dc17b4278_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SLCMIXM
 - branch: stable
   date: '2022-02-23'
   downloads:
@@ -29608,6 +29628,16 @@
   versions:
     android: '11.0'
     miui: V12.5.6.0.RKGINXM
+- branch: stable
+  date: '2022-04-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-25.04.2022/fw_mojito_miui_MOJITOGlobal_V13.0.7.0.SKGMIXM_0289bd91b9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mojito/fw_mojito_miui_MOJITOGlobal_V13.0.7.0.SKGMIXM_0289bd91b9_12.0.zip
+  filename: fw_mojito_miui_MOJITOGlobal_V13.0.7.0.SKGMIXM_0289bd91b9_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SKGMIXM
 - branch: stable
   date: '2022-01-25'
   downloads:

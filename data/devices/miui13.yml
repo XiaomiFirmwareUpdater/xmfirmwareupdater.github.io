@@ -12,6 +12,12 @@
   version: V13.0.2.0.SKWEUXM
 - android: '12.0'
   codename: agate
+  date: '2022-04-25'
+  download: https://bigota.d.miui.com/V13.0.4.0.SKWEUXM/fw_agate_miui_AGATEEEAGlobal_V13.0.4.0.SKWEUXM_373f32a58a_12.0.zip
+  name: Xiaomi 11T
+  version: V13.0.4.0.SKWEUXM
+- android: '12.0'
+  codename: agate
   date: '2022-04-22'
   download: https://bigota.d.miui.com/V13.0.3.0.SKWMIXM/fw_agate_miui_AGATEGlobal_V13.0.3.0.SKWMIXM_ecaa5f9d4c_12.0.zip
   name: Xiaomi 11T
@@ -550,6 +556,12 @@
   download: https://bigota.d.miui.com/V13.0.14.0.SLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V13.0.14.0.SLCEUXM_39da571424_12.0.zip
   name: Xiaomi 12
   version: V13.0.14.0.SLCEUXM
+- android: '12.0'
+  codename: cupid
+  date: '2022-04-25'
+  download: https://bigota.d.miui.com/V13.0.7.0.SLCMIXM/fw_cupid_miui_CUPIDGlobal_V13.0.7.0.SLCMIXM_7dc17b4278_12.0.zip
+  name: Xiaomi 12
+  version: V13.0.7.0.SLCMIXM
 - android: '12.0'
   codename: cupid
   date: '2022-02-23'
@@ -1096,6 +1108,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SKGEUXM/fw_mojito_miui_MOJITOEEAGlobal_V13.0.4.0.SKGEUXM_d31c70631c_12.0.zip
   name: Redmi Note 10
   version: V13.0.4.0.SKGEUXM
+- android: '12.0'
+  codename: mojito
+  date: '2022-04-25'
+  download: https://bigota.d.miui.com/V13.0.7.0.SKGMIXM/fw_mojito_miui_MOJITOGlobal_V13.0.7.0.SKGMIXM_0289bd91b9_12.0.zip
+  name: Redmi Note 10
+  version: V13.0.7.0.SKGMIXM
 - android: '12.0'
   codename: mojito
   date: '2022-04-18'
