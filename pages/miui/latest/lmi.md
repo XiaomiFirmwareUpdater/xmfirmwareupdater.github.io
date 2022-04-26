@@ -62,9 +62,9 @@ permalink: /miui/lmi/
 <tr><td>POCO F2 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJKEUXM</td><td>12.0</td><td>5.5 GB</td><td>2022-04-07</td><td><a href="/miui/lmi/stable/V13.0.2.0.SJKEUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJKEUXM</td><td>12.0</td><td>3.7 GB</td><td>2022-04-12</td><td><a href="/miui/lmi/stable/V13.0.2.0.SJKEUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.3.0.RJKEUXM</td><td>11.0</td><td>3.1 GB</td><td>2020-12-25</td><td><a href="/miui/lmi/stable beta/V12.2.3.0.RJKEUXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RJKMIXM</td><td>11.0</td><td>5.2 GB</td><td>2022-02-14</td><td><a href="/miui/lmi/stable/V12.5.6.0.RJKMIXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RJKMIXM</td><td>11.0</td><td>3.3 GB</td><td>2022-02-21</td><td><a href="/miui/lmi/stable/V12.5.6.0.RJKMIXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJKMIXM</td><td>12.0</td><td>3.5 GB</td><td>2022-04-19</td><td><a href="/miui/lmi/stable beta/V13.0.1.0.SJKMIXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJKMIXM</td><td>12.0</td><td>5.4 GB</td><td>2022-04-13</td><td><a href="/miui/lmi/stable/V13.0.1.0.SJKMIXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJKMIXM</td><td>12.0</td><td>3.5 GB</td><td>2022-04-19</td><td><a href="/miui/lmi/stable/V13.0.1.0.SJKMIXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.3.0.RJKMIXM</td><td>11.0</td><td>3.1 GB</td><td>2020-12-25</td><td><a href="/miui/lmi/stable beta/V12.2.3.0.RJKMIXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RJKIDXM</td><td>11.0</td><td>5.1 GB</td><td>2022-02-14</td><td><a href="/miui/lmi/stable/V12.5.3.0.RJKIDXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJKIDXM</td><td>11.0</td><td>3.3 GB</td><td>2022-02-28</td><td><a href="/miui/lmi/stable/V12.5.3.0.RJKIDXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V12.2.4.0.RJKRUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-05-07</td><td><a href="/miui/lmi/stable/V12.2.4.0.RJKRUXM/">Download</a></td></tr>
