@@ -1,11 +1,51 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 27 Apr 2022 02:59:59 +0900</pubDate>
+  <pubDate>Thu, 28 Apr 2022 03:17:48 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Civi 1S (zijin) - V13.0.7.0.SLPCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zijin</link>
+    <pubDate>Thu, 28 Apr 2022 03:17:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO X3 Pro (vayu) - V13.0.4.0.SJUMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
+    <pubDate>Thu, 28 Apr 2022 02:49:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V12.5.3.0.RKTEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
+    <pubDate>Thu, 28 Apr 2022 02:47:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V13.0.1.0.SGICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Thu, 28 Apr 2022 02:24:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11S 5G (opal) - V13.0.5.0.RGLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/opal</link>
+    <pubDate>Thu, 28 Apr 2022 02:23:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V13.0.4.0.SKOMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Thu, 28 Apr 2022 02:02:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.5.4.0.RJCINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Thu, 28 Apr 2022 01:34:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V12.5.5.0.RJWMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Thu, 28 Apr 2022 01:32:55 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 Pro 4G (viva) - V13.0.7.0.RGDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
@@ -65,46 +105,6 @@
     <title>Redmi K50 Pro (matisse) - V13.0.13.0.SLKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
     <pubDate>Mon, 25 Apr 2022 02:26:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.7.0.RJQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Mon, 25 Apr 2022 01:46:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.7.0.RKEMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
-    <pubDate>Mon, 25 Apr 2022 01:45:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V13.0.1.0.RFDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Sun, 24 Apr 2022 19:30:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V13.0.1.0.RFDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Sun, 24 Apr 2022 19:28:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V12.5.6.0.RJWEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
-    <pubDate>Sun, 24 Apr 2022 19:26:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V13.0.3.0.SJBINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Sun, 24 Apr 2022 13:19:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V13.0.8.0.SKBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Sat, 23 Apr 2022 04:28:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V13.0.2.0.SKAINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Sat, 23 Apr 2022 03:46:06 +0900</pubDate>
   </item>
     </channel>
 </rss>

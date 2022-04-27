@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-03-06'
+  date: '2022-04-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-06.03.2022/fw_lisa_miui_LISAGlobal_V13.0.2.0.SKOMIXM_737bc75f14_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAGlobal_V13.0.2.0.SKOMIXM_737bc75f14_12.0.zip
-  filename: fw_lisa_miui_LISAGlobal_V13.0.2.0.SKOMIXM_737bc75f14_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-27.04.2022/fw_lisa_miui_LISAGlobal_V13.0.4.0.SKOMIXM_0508eaacfa_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAGlobal_V13.0.4.0.SKOMIXM_0508eaacfa_12.0.zip
+  filename: fw_lisa_miui_LISAGlobal_V13.0.4.0.SKOMIXM_0508eaacfa_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SKOMIXM
+    miui: V13.0.4.0.SKOMIXM
 - branch: stable
   date: '2022-03-22'
   downloads:
