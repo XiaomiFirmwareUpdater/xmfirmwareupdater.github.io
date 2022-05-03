@@ -52,8 +52,10 @@ permalink: /archive/miui/tucana/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi Note 10 / Note 10 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.RFDEUXM</td><td>11.0</td><td>3.2 GB</td><td>2022-04-22</td><td><a href="/miui/tucana/stable beta/V13.0.1.0.RFDEUXM/">Download</a></td></tr>
-<tr><td>Mi Note 10 / Note 10 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.RFDMIXM</td><td>11.0</td><td>3.2 GB</td><td>2022-04-21</td><td><a href="/miui/tucana/stable beta/V13.0.1.0.RFDMIXM/">Download</a></td></tr>
+                <tr><td>Mi Note 10 / Note 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RFDEUXM</td><td>11.0</td><td>3.2 GB</td><td>2022-04-22</td><td><a href="/miui/tucana/stable/V13.0.1.0.RFDEUXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 / Note 10 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RFDEUXM</td><td>11.0</td><td>4.9 GB</td><td>2022-04-12</td><td><a href="/miui/tucana/stable/V13.0.1.0.RFDEUXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 / Note 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RFDMIXM</td><td>11.0</td><td>3.2 GB</td><td>2022-04-21</td><td><a href="/miui/tucana/stable/V13.0.1.0.RFDMIXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 / Note 10 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RFDMIXM</td><td>11.0</td><td>4.8 GB</td><td>2022-04-12</td><td><a href="/miui/tucana/stable/V13.0.1.0.RFDMIXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.RFDCNXM</td><td>11.0</td><td>3.3 GB</td><td>2022-04-03</td><td><a href="/miui/tucana/stable beta/V13.0.1.0.RFDCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RFDCNXM</td><td>11.0</td><td>4.5 GB</td><td>2022-03-28</td><td><a href="/miui/tucana/stable/V13.0.1.0.RFDCNXM/">Download</a></td></tr>
 <tr><td>Mi CC 9 Pro China</td><td>Weekly</td><td>Recovery</td><td>22.3.2</td><td>11.0</td><td>3.2 GB</td><td>2022-03-03</td><td><a href="/miui/tucana/weekly/22.3.2/">Download</a></td></tr>

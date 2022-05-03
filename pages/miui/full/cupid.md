@@ -52,7 +52,11 @@ permalink: /archive/miui/cupid/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SLCMIXM</td><td>12.0</td><td>4.0 GB</td><td>2022-04-21</td><td><a href="/miui/cupid/stable beta/V13.0.7.0.SLCMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.31.1.28.DEV</td><td>12.0</td><td>5.1 GB</td><td>2022-04-29</td><td><a href="/miui/cupid/public beta/V13.0.31.1.28.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SLCIDXM</td><td>12.0</td><td>4.1 GB</td><td>2022-04-26</td><td><a href="/miui/cupid/stable beta/V13.0.2.0.SLCIDXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SLCRUXM</td><td>12.0</td><td>4.1 GB</td><td>2022-04-26</td><td><a href="/miui/cupid/stable beta/V13.0.2.0.SLCRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SLCMIXM</td><td>12.0</td><td>4.0 GB</td><td>2022-04-21</td><td><a href="/miui/cupid/stable/V13.0.7.0.SLCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SLCMIXM</td><td>12.0</td><td>5.5 GB</td><td>2022-04-13</td><td><a href="/miui/cupid/stable/V13.0.7.0.SLCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLCTWXM</td><td>12.0</td><td>4.0 GB</td><td>2022-04-20</td><td><a href="/miui/cupid/stable/V13.0.3.0.SLCTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLCTWXM</td><td>12.0</td><td>4.9 GB</td><td>2022-04-15</td><td><a href="/miui/cupid/stable/V13.0.3.0.SLCTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.30.1.26.DEV</td><td>12.0</td><td>5.0 GB</td><td>2022-04-15</td><td><a href="/miui/cupid/public beta/V13.0.30.1.26.DEV/">Download</a></td></tr>
