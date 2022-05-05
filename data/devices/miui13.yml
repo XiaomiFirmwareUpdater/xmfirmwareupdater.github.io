@@ -833,6 +833,12 @@
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: V13.0.1.0.SJSMIXM
 - android: '12.0'
+  codename: gauguin
+  date: '2022-05-05'
+  download: https://bigota.d.miui.com/V13.0.4.0.SJSCNXM/fw_gauguin_miui_GAUGUIN_V13.0.4.0.SJSCNXM_23c0434d19_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V13.0.4.0.SJSCNXM
+- android: '12.0'
   codename: haydn
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_haydn_miui_HAYDNPRE_22.3.23_6e638d0123_12.0.zip
@@ -1463,6 +1469,12 @@
   name: Redmi K30 5G/Redmi K30i 5G
   version: V13.0.1.0.SGICNXM
 - android: '12.0'
+  codename: picasso
+  date: '2022-05-05'
+  download: https://bigota.d.miui.com/V13.0.1.0.SGICMXM/fw_picasso_miui_PICASSO48M_V13.0.1.0.SGICMXM_b232a140ef_12.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: V13.0.1.0.SGICMXM
+- android: '12.0'
   codename: pissarro
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
@@ -1612,6 +1624,12 @@
   download: https://bigota.d.miui.com/V13.0.7.0.SKICNXM/fw_renoir_miui_RENOIR_V13.0.7.0.SKICNXM_401be18e6f_12.0.zip
   name: Mi 11 Lite 5G
   version: V13.0.7.0.SKICNXM
+- android: '12.0'
+  codename: renoir
+  date: '2022-05-05'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKIEUXM/fw_renoir_miui_RENOIREEAGlobal_V13.0.5.0.SKIEUXM_de56c8afa0_12.0.zip
+  name: Mi 11 Lite 5G
+  version: V13.0.5.0.SKIEUXM
 - android: '12.0'
   codename: renoir
   date: '2022-03-04'
@@ -1807,6 +1825,12 @@
 - android: '12.0'
   codename: sweet
   date: '2022-05-05'
+  download: https://bigota.d.miui.com/V13.0.9.0.SKFEUXM/fw_sweet_miui_SWEETEEAGlobal_V13.0.9.0.SKFEUXM_edb4190b7c_12.0.zip
+  name: Redmi Note 10 Pro
+  version: V13.0.9.0.SKFEUXM
+- android: '12.0'
+  codename: sweet
+  date: '2022-05-05'
   download: https://bigota.d.miui.com/V13.0.7.0.SKFMIXM/fw_sweet_miui_SWEETGlobal_V13.0.7.0.SKFMIXM_8101dff359_12.0.zip
   name: Redmi Note 10 Pro
   version: V13.0.7.0.SKFMIXM
@@ -1978,6 +2002,12 @@
   download: https://bigota.d.miui.com/V13.0.0.1.1.DEV/fw_umi_miui_UMI_V13.0.0.1.1.DEV_612fd28eb9_12.0.zip
   name: Mi 10
   version: V13.0.0.1.1.DEV
+- android: '12.0'
+  codename: umi
+  date: '2022-05-05'
+  download: https://bigota.d.miui.com/V13.0.4.0.SJBEUXM/fw_umi_miui_UMIEEAGlobal_V13.0.4.0.SJBEUXM_0b3629ab4c_12.0.zip
+  name: Mi 10
+  version: V13.0.4.0.SJBEUXM
 - android: '12.0'
   codename: vangogh
   date: '2022-03-25'

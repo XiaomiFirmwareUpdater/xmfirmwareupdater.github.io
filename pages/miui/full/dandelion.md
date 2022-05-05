@@ -52,7 +52,9 @@ permalink: /archive/miui/dandelion/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10A Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCZMIXM</td><td>11.0</td><td>2.1 GB</td><td>2022-04-28</td><td><a href="/miui/dandelion/stable/V12.5.2.0.RCZMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 10A Global</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RCZMIXM</td><td>11.0</td><td>2.1 GB</td><td>2022-05-05</td><td><a href="/miui/dandelion/stable/V12.5.3.0.RCZMIXM/">Download</a></td></tr>
+<tr><td>Redmi 10A Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RCZMIXM</td><td>11.0</td><td>4.5 GB</td><td>2022-03-20</td><td><a href="/miui/dandelion/stable/V12.5.3.0.RCZMIXM/">Download</a></td></tr>
+<tr><td>Redmi 10A Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCZMIXM</td><td>11.0</td><td>2.1 GB</td><td>2022-04-28</td><td><a href="/miui/dandelion/stable/V12.5.2.0.RCZMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10A Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RCZMIXM</td><td>11.0</td><td>4.7 GB</td><td>2022-03-10</td><td><a href="/miui/dandelion/stable/V12.5.2.0.RCZMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9A / 9i / 9A Sport India</td><td>Stable</td><td>Recovery</td><td>V12.0.23.0.QCDINXM</td><td>10.0</td><td>1.8 GB</td><td>2022-04-15</td><td><a href="/miui/dandelion/stable/V12.0.23.0.QCDINXM/">Download</a></td></tr>
 <tr><td>Redmi 9A / 9i / 9A Sport India</td><td>Stable</td><td>Fastboot</td><td>V12.0.23.0.QCDINXM</td><td>10.0</td><td>2.6 GB</td><td>2022-04-08</td><td><a href="/miui/dandelion/stable/V12.0.23.0.QCDINXM/">Download</a></td></tr>
