@@ -1,7 +1,7 @@
 ---
-title: Redmi 10/Redmi 10 Prime (selene) Firmware Downloads
+title: Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) Firmware Downloads
 layout: download
-name: Redmi 10/Redmi 10 Prime
+name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
 codename: selene
 permalink: /archive/firmware/selene/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/selene/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/selene/">Redmi 10/Redmi 10 Prime</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/selene/">Redmi 10/Redmi 10 2022/Redmi 10 Prime</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
