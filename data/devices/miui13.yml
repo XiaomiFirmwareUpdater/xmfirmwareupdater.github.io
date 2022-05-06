@@ -1505,6 +1505,12 @@
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: 22.3.3
 - android: '12.0'
+  codename: pissarro
+  date: '2022-05-06'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.2.0.SKTEUXM_e33b5fdfc1_12.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V13.0.2.0.SKTEUXM
+- android: '12.0'
   codename: psyche
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.24/fw_psyche_miui_PSYCHEPRE_22.3.24_e31cc10d3b_12.0.zip
