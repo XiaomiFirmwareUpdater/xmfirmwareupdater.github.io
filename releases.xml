@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 09 May 2022 01:40:58 +0900</pubDate>
+  <pubDate>Mon, 09 May 2022 19:54:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 11T Pro (vili) - V13.0.2.0.SKDINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
+    <pubDate>Mon, 09 May 2022 19:54:17 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) - V12.5.3.0.RCZINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11 NFC (spesn) - V13.0.10.0.RGKEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
     <pubDate>Sat, 30 Apr 2022 02:48:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V12.5.4.0.RKTEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
-    <pubDate>Sat, 30 Apr 2022 02:26:10 +0900</pubDate>
   </item>
     </channel>
 </rss>
