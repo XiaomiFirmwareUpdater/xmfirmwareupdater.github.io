@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 09 May 2022 19:54:17 +0900</pubDate>
+  <pubDate>Tue, 10 May 2022 02:12:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V13.0.4.0.SLBINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Tue, 10 May 2022 02:12:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V12.5.7.0.RJOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
+    <pubDate>Tue, 10 May 2022 01:38:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.5.8.0.RJCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Tue, 10 May 2022 01:37:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) - V12.5.5.0.RCZINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Tue, 10 May 2022 01:36:06 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 11T Pro (vili) - V13.0.2.0.SKDINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
@@ -85,26 +105,6 @@
     <title>Redmi K50 Pro (matisse) - V13.0.15.0.SLKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
     <pubDate>Mon, 02 May 2022 07:53:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 NFC (surya) - V12.5.7.0.RJGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Sun, 01 May 2022 02:31:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 (rubens) - V13.0.12.0.SLNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
-    <pubDate>Sun, 01 May 2022 02:29:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40S (munch) - V13.0.7.0.SLMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
-    <pubDate>Sun, 01 May 2022 01:51:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 NFC (spesn) - V13.0.10.0.RGKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
-    <pubDate>Sat, 30 Apr 2022 02:48:12 +0900</pubDate>
   </item>
     </channel>
 </rss>
