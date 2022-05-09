@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 10 May 2022 02:12:34 +0900</pubDate>
+  <pubDate>Tue, 10 May 2022 07:56:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10C (fog) - V13.0.7.0.RGEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
+    <pubDate>Tue, 10 May 2022 07:56:11 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V13.0.4.0.SLBINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12X (psyche) - V13.0.4.0.SLDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
     <pubDate>Mon, 02 May 2022 19:44:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Pro (matisse) - V13.0.15.0.SLKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
-    <pubDate>Mon, 02 May 2022 07:53:34 +0900</pubDate>
   </item>
     </channel>
 </rss>
