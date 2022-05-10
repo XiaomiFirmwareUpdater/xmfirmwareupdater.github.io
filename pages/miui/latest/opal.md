@@ -52,12 +52,10 @@ permalink: /miui/opal/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.RGLEUXM</td><td>11.0</td><td>5.6 GB</td><td>2022-03-29</td><td><a href="/miui/opal/stable/V13.0.4.0.RGLEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.RGLEUXM</td><td>11.0</td><td>2.7 GB</td><td>2022-04-14</td><td><a href="/miui/opal/stable/V13.0.4.0.RGLEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11S 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.RGLEUXM</td><td>11.0</td><td>2.7 GB</td><td>2022-04-27</td><td><a href="/miui/opal/stable beta/V13.0.5.0.RGLEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11S 5G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.RGLMIXM</td><td>11.0</td><td>342 Bytes</td><td>2022-03-21</td><td><a href="/miui/opal/stable/V13.0.4.0.RGLMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11S 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.RGLMIXM</td><td>11.0</td><td>2.6 GB</td><td>None</td><td><a href="/miui/opal/stable/V13.0.4.0.RGLMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11S 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.RGLMIXM</td><td>11.0</td><td>2.7 GB</td><td>2022-04-25</td><td><a href="/miui/opal/stable beta/V13.0.5.0.RGLMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.RGLEUXM</td><td>11.0</td><td>5.6 GB</td><td>2022-04-22</td><td><a href="/miui/opal/stable/V13.0.5.0.RGLEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.RGLEUXM</td><td>11.0</td><td>2.7 GB</td><td>2022-04-27</td><td><a href="/miui/opal/stable/V13.0.5.0.RGLEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11S 5G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.RGLMIXM</td><td>11.0</td><td>5.4 GB</td><td>2022-04-21</td><td><a href="/miui/opal/stable/V13.0.5.0.RGLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11S 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.RGLMIXM</td><td>11.0</td><td>2.7 GB</td><td>2022-04-25</td><td><a href="/miui/opal/stable/V13.0.5.0.RGLMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
