@@ -989,15 +989,15 @@
     android: '11.0'
     miui: V12.5.5.0.RCZMIXM
 - branch: stable
-  date: '2022-04-06'
+  date: '2022-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-06.04.2022/fw_dandelion_miui_DANDELIONC3L2_V12.5.3.0.RCZCNXM_108e456757_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2_V12.5.3.0.RCZCNXM_108e456757_11.0.zip
-  filename: fw_dandelion_miui_DANDELIONC3L2_V12.5.3.0.RCZCNXM_108e456757_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-10.05.2022/fw_dandelion_miui_DANDELIONC3L2_V12.5.7.0.RCZCNXM_804a77a15d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2_V12.5.7.0.RCZCNXM_804a77a15d_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONC3L2_V12.5.7.0.RCZCNXM_804a77a15d_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RCZCNXM
+    miui: V12.5.7.0.RCZCNXM
 - branch: stable
   date: '2022-03-03'
   downloads:
@@ -1489,15 +1489,15 @@
     android: '12.0'
     miui: V13.0.1.0.SKKMIXM
 - branch: stable
-  date: '2022-01-20'
+  date: '2022-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-20.01.2022/fw_haydn_miui_HAYDN_V13.0.6.0.SKKCNXM_bc410e2dc5_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDN_V13.0.6.0.SKKCNXM_bc410e2dc5_12.0.zip
-  filename: fw_haydn_miui_HAYDN_V13.0.6.0.SKKCNXM_bc410e2dc5_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-10.05.2022/fw_haydn_miui_HAYDN_V13.0.8.0.SKKCNXM_8a3102bc0d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDN_V13.0.8.0.SKKCNXM_8a3102bc0d_12.0.zip
+  filename: fw_haydn_miui_HAYDN_V13.0.8.0.SKKCNXM_8a3102bc0d_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SKKCNXM
+    miui: V13.0.8.0.SKKCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -3619,15 +3619,15 @@
     android: '12.0'
     miui: V13.0.2.0.SKAMIXM
 - branch: stable
-  date: '2022-04-02'
+  date: '2022-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-02.04.2022/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
-  filename: fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-10.05.2022/fw_star_miui_STAR_V13.0.12.0.SKACNXM_3d5b1d0e78_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAR_V13.0.12.0.SKACNXM_3d5b1d0e78_12.0.zip
+  filename: fw_star_miui_STAR_V13.0.12.0.SKACNXM_3d5b1d0e78_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.10.0.SKACNXM
+    miui: V13.0.12.0.SKACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
