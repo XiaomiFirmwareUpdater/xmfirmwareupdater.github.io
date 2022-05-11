@@ -2626,6 +2626,12 @@
   download: https://bigota.d.miui.com/20.6.18/miui_MIMIX2_20.6.18_7235eadecf_9.0.zip
   name: Mi MIX 2
   version: 20.6.18
+- android: '11.0'
+  codename: chopin
+  date: '2021-07-29'
+  download: https://bigota.d.miui.com/21.7.28/miui_CHOPIN_21.7.28_6248ec4820_11.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: 21.7.28
 - android: '12.0'
   codename: chopin
   date: '2021-11-26'
@@ -2656,6 +2662,12 @@
   download: https://bigota.d.miui.com/21.10.20/miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
   version: 21.10.20
+- android: '12.0'
+  codename: chopin
+  date: '2021-11-19'
+  download: https://bigota.d.miui.com/21.11.17/miui_CHOPIN_21.11.17_9352d0ab43_12.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: 21.11.17
 - android: '11.0'
   codename: chopin
   date: '2021-08-19'

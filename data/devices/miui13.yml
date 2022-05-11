@@ -408,6 +408,12 @@
   version: 22.1.19
 - android: '12.0'
   codename: chopin
+  date: '2022-02-18'
+  download: https://bigota.d.miui.com/22.2.17/fw_chopin_miui_CHOPINPRE_22.2.17_da98c9e1c2_12.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: 22.2.17
+- android: '12.0'
+  codename: chopin
   date: '2022-02-13'
   download: https://bigota.d.miui.com/22.2.9/fw_chopin_miui_CHOPINPRE_22.2.9_0083fd64a6_12.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
