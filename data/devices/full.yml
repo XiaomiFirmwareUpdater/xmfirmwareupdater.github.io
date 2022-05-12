@@ -38679,6 +38679,16 @@
     android: '11.0'
     miui: V13.0.1.0.RLDEUXM
 - branch: stable
+  date: '2022-05-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-12.05.2022/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.2.0.SLDEUXM_149a7b39a9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.2.0.SLDEUXM_149a7b39a9_12.0.zip
+  filename: fw_psyche_miui_PSYCHEEEAGlobal_V13.0.2.0.SLDEUXM_149a7b39a9_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SLDEUXM
+- branch: stable
   date: '2022-04-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-07.04.2022/fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.RLDMIXM_e3fec00afd_11.0.zip
