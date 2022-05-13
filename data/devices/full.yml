@@ -30429,6 +30429,26 @@
     android: '12.0'
     miui: V13.0.5.0.SLMCNXM
 - branch: stable
+  date: '2022-05-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-14.05.2022/fw_munch_miui_MUNCHEEAGlobal_V13.0.3.0.SLMEUXM_caee2ce159_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/munch/fw_munch_miui_MUNCHEEAGlobal_V13.0.3.0.SLMEUXM_caee2ce159_12.0.zip
+  filename: fw_munch_miui_MUNCHEEAGlobal_V13.0.3.0.SLMEUXM_caee2ce159_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SLMEUXM
+- branch: stable
+  date: '2022-05-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-14.05.2022/fw_munch_miui_MUNCHINGlobal_V13.0.2.0.SLMINXM_5e382e693f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/munch/fw_munch_miui_MUNCHINGlobal_V13.0.2.0.SLMINXM_5e382e693f_12.0.zip
+  filename: fw_munch_miui_MUNCHINGlobal_V13.0.2.0.SLMINXM_5e382e693f_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SLMINXM
+- branch: stable
   date: '2022-04-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-01.04.2022/fw_munch_miui_MUNCH_V13.0.6.0.SLMCNXM_50ff15e59b_12.0.zip

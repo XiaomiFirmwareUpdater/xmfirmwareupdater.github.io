@@ -54,9 +54,8 @@ permalink: /miui/fog/
                 <tbody>
                 <tr><td>Redmi 10C EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.RGEEUXM</td><td>11.0</td><td>5.4 GB</td><td>2022-04-23</td><td><a href="/miui/fog/stable/V13.0.3.0.RGEEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10C EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.RGEEUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-04-26</td><td><a href="/miui/fog/stable/V13.0.3.0.RGEEUXM/">Download</a></td></tr>
-<tr><td>Redmi 10C Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.RGEMIXM</td><td>11.0</td><td>5.3 GB</td><td>2022-04-11</td><td><a href="/miui/fog/stable/V13.0.6.0.RGEMIXM/">Download</a></td></tr>
-<tr><td>Redmi 10C Global</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.RGEMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-04-18</td><td><a href="/miui/fog/stable/V13.0.6.0.RGEMIXM/">Download</a></td></tr>
-<tr><td>Redmi 10C Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.RGEMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-05-09</td><td><a href="/miui/fog/stable beta/V13.0.7.0.RGEMIXM/">Download</a></td></tr>
+<tr><td>Redmi 10C Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.RGEMIXM</td><td>11.0</td><td>5.4 GB</td><td>2022-05-04</td><td><a href="/miui/fog/stable/V13.0.7.0.RGEMIXM/">Download</a></td></tr>
+<tr><td>Redmi 10C Global</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.RGEMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-05-09</td><td><a href="/miui/fog/stable/V13.0.7.0.RGEMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.RGEIDXM</td><td>11.0</td><td>4.7 GB</td><td>2022-03-11</td><td><a href="/miui/fog/stable/V13.0.2.0.RGEIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RGEIDXM</td><td>11.0</td><td>2.6 GB</td><td>2022-04-27</td><td><a href="/miui/fog/stable/V13.0.2.0.RGEIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.RGEIDXM</td><td>11.0</td><td>2.6 GB</td><td>2022-05-12</td><td><a href="/miui/fog/stable beta/V13.0.3.0.RGEIDXM/">Download</a></td></tr>
