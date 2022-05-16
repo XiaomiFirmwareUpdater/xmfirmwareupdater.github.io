@@ -18799,6 +18799,16 @@
     android: '11.0'
     miui: V12.5.2.0.RGBINXM
 - branch: stable
+  date: '2022-05-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-16.05.2022/fw_evergo_miui_EVERGO_V13.0.2.0.SGBCNXM_ffc4488770_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergo/fw_evergo_miui_EVERGO_V13.0.2.0.SGBCNXM_ffc4488770_12.0.zip
+  filename: fw_evergo_miui_EVERGO_V13.0.2.0.SGBCNXM_ffc4488770_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SGBCNXM
+- branch: stable
   date: '2022-02-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-16.02.2022/fw_evergo_miui_EVERGO_V12.5.6.0.RGBCNXM_8bc35056d4_11.0.zip
@@ -43418,6 +43428,16 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RKUEUXM
+- branch: stable
+  date: '2022-05-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-16.05.2022/fw_selene_miui_SELENEINGlobal_V12.5.9.0.RKUINXM_7c5d764d29_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEINGlobal_V12.5.9.0.RKUINXM_7c5d764d29_11.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V12.5.9.0.RKUINXM_7c5d764d29_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RKUINXM
 - branch: stable
   date: '2022-03-14'
   downloads:

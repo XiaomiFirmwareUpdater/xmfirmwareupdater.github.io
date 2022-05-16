@@ -694,6 +694,12 @@
   download: https://bigota.d.miui.com/22.3.3/fw_evergo_miui_EVERGOPRE_22.3.3_91fd13ffa8_12.0.zip
   name: Redmi Note 11 5G/Redmi Note 11T 5G
   version: 22.3.3
+- android: '12.0'
+  codename: evergo
+  date: '2022-05-16'
+  download: https://bigota.d.miui.com/V13.0.2.0.SGBCNXM/fw_evergo_miui_EVERGO_V13.0.2.0.SGBCNXM_ffc4488770_12.0.zip
+  name: Redmi Note 11 5G/Redmi Note 11T 5G
+  version: V13.0.2.0.SGBCNXM
 - android: '11.0'
   codename: fleur
   date: '2022-03-28'
