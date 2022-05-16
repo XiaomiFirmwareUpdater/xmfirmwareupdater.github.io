@@ -27369,6 +27369,16 @@
     android: '11.0'
     miui: V12.5.1.0.RKOMIXM
 - branch: stable
+  date: '2022-05-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-16.05.2022/fw_lisa_miui_LISAINGlobal_V13.0.5.0.SKOINXM_6521e1e795_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAINGlobal_V13.0.5.0.SKOINXM_6521e1e795_12.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_V13.0.5.0.SKOINXM_6521e1e795_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SKOINXM
+- branch: stable
   date: '2022-03-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-15.03.2022/fw_lisa_miui_LISAINGlobal_V13.0.3.0.SKOINXM_78db36ab2a_12.0.zip
@@ -31879,6 +31889,26 @@
     android: '12.0'
     miui: 22.3.24
 - branch: weekly
+  date: '2022-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/weekly-25.02.2022/fw_odin_miui_ODINPRE_22.2.23_924baa5eb2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/odin/fw_odin_miui_ODINPRE_22.2.23_924baa5eb2_12.0.zip
+  filename: fw_odin_miui_ODINPRE_22.2.23_924baa5eb2_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.23
+- branch: weekly
+  date: '2021-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/weekly-21.10.2021/fw_odin_miui_ODIN_21.10.20_63d4a78137_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/odin/fw_odin_miui_ODIN_21.10.20_63d4a78137_11.0.zip
+  filename: fw_odin_miui_ODIN_21.10.20_63d4a78137_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.10.20
+- branch: weekly
   date: '2022-01-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/weekly-21.01.2022/fw_odin_miui_ODINPRE_22.1.19_812ba11394_12.0.zip
@@ -31908,6 +31938,16 @@
   versions:
     android: '12.0'
     miui: 22.2.17
+- branch: weekly
+  date: '2022-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/weekly-14.02.2022/fw_odin_miui_ODINPRE_22.2.9_11c1323913_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/odin/fw_odin_miui_ODINPRE_22.2.9_11c1323913_12.0.zip
+  filename: fw_odin_miui_ODINPRE_22.2.9_11c1323913_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.9
 - branch: weekly
   date: '2022-01-14'
   downloads:
@@ -31958,6 +31998,16 @@
   versions:
     android: '12.0'
     miui: 21.12.1
+- branch: weekly
+  date: '2022-03-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/weekly-04.03.2022/fw_odin_miui_ODINPRE_22.3.3_0daa699abe_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.3/odin/fw_odin_miui_ODINPRE_22.3.3_0daa699abe_12.0.zip
+  filename: fw_odin_miui_ODINPRE_22.3.3_0daa699abe_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.3.3
 - branch: weekly
   date: '2021-09-03'
   downloads:
@@ -32018,6 +32068,16 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SKMCNXM
+- branch: stable
+  date: '2022-02-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-07.02.2022/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/odin/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
+  filename: fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKMCNXM
 - branch: stable
   date: '2021-09-03'
   downloads:
@@ -36818,6 +36878,16 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RKTINXM
+- branch: stable
+  date: '2022-05-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-16.05.2022/fw_pissarro_miui_PISSARRO_V13.0.2.0.SKTCNXM_26423b9da8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARRO_V13.0.2.0.SKTCNXM_26423b9da8_12.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V13.0.2.0.SKTCNXM_26423b9da8_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SKTCNXM
 - branch: stable
   date: '2022-05-13'
   downloads:

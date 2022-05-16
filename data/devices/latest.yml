@@ -2089,15 +2089,15 @@
     android: '12.0'
     miui: V13.0.8.0.SKOEUXM
 - branch: stable
-  date: '2022-03-14'
+  date: '2022-05-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-15.03.2022/fw_lisa_miui_LISAINGlobal_V13.0.3.0.SKOINXM_78db36ab2a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAINGlobal_V13.0.3.0.SKOINXM_78db36ab2a_12.0.zip
-  filename: fw_lisa_miui_LISAINGlobal_V13.0.3.0.SKOINXM_78db36ab2a_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-16.05.2022/fw_lisa_miui_LISAINGlobal_V13.0.5.0.SKOINXM_6521e1e795_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAINGlobal_V13.0.5.0.SKOINXM_6521e1e795_12.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_V13.0.5.0.SKOINXM_6521e1e795_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SKOINXM
+    miui: V13.0.5.0.SKOINXM
 - branch: stable
   date: '2019-11-08'
   downloads:
@@ -2549,15 +2549,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2022-01-08'
+  date: '2022-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-08.01.2022/fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/odin/fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
-  filename: fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_odin/releases/download/stable-07.02.2022/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/odin/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
+  filename: fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SKMCNXM
+    miui: V13.0.4.0.SKMCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -2919,15 +2919,15 @@
     android: '12.0'
     miui: V13.0.1.0.SKTMIXM
 - branch: stable
-  date: '2022-03-01'
+  date: '2022-05-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-02.03.2022/fw_pissarro_miui_PISSARRO_V12.5.18.0.RKTCNXM_7f590c153f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.18.0.RKTCNXM_7f590c153f_11.0.zip
-  filename: fw_pissarro_miui_PISSARRO_V12.5.18.0.RKTCNXM_7f590c153f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-16.05.2022/fw_pissarro_miui_PISSARRO_V13.0.2.0.SKTCNXM_26423b9da8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARRO_V13.0.2.0.SKTCNXM_26423b9da8_12.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V13.0.2.0.SKTCNXM_26423b9da8_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.18.0.RKTCNXM
+    android: '12.0'
+    miui: V13.0.2.0.SKTCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
