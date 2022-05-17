@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.3.0.SKPMIXM
 - branch: stable
-  date: '2022-03-31'
+  date: '2022-05-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-31.03.2022/fw_chopin_miui_CHOPIN_V13.0.4.0.SKPCNXM_601f9168ae_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/chopin/fw_chopin_miui_CHOPIN_V13.0.4.0.SKPCNXM_601f9168ae_12.0.zip
-  filename: fw_chopin_miui_CHOPIN_V13.0.4.0.SKPCNXM_601f9168ae_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-17.05.2022/fw_chopin_miui_CHOPIN_V13.0.7.0.SKPCNXM_d85f901113_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/chopin/fw_chopin_miui_CHOPIN_V13.0.7.0.SKPCNXM_d85f901113_12.0.zip
+  filename: fw_chopin_miui_CHOPIN_V13.0.7.0.SKPCNXM_d85f901113_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SKPCNXM
+    miui: V13.0.7.0.SKPCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
