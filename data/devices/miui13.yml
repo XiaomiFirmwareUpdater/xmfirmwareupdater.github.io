@@ -1422,6 +1422,12 @@
   version: 22.3.3
 - android: '12.0'
   codename: odin
+  date: '2022-05-18'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKMCNXM/fw_odin_miui_ODIN_V13.0.6.0.SKMCNXM_970df7504a_12.0.zip
+  name: MIX 4
+  version: V13.0.6.0.SKMCNXM
+- android: '12.0'
+  codename: odin
   date: '2022-01-08'
   download: https://bigota.d.miui.com/V13.0.2.0.SKMCNXM/fw_odin_miui_ODIN_V13.0.2.0.SKMCNXM_b8f93e611c_12.0.zip
   name: MIX 4
