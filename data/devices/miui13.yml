@@ -204,6 +204,12 @@
   version: V13.0.4.0.SKJCNXM
 - android: '12.0'
   codename: ares
+  date: '2022-05-19'
+  download: https://bigota.d.miui.com/V13.0.7.0.SKJCNXM/fw_ares_miui_ARES_V13.0.7.0.SKJCNXM_48ffec74d8_12.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: V13.0.7.0.SKJCNXM
+- android: '12.0'
+  codename: ares
   date: '2022-03-14'
   download: https://bigota.d.miui.com/V13.0.1.0.SKJINXM/fw_ares_miui_ARESINGlobal_V13.0.1.0.SKJINXM_f83ba2a353_12.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
@@ -2164,6 +2170,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SJVCNXM/fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
   name: Mi 10 Lite Zoom
   version: V13.0.2.0.SJVCNXM
+- android: '12.0'
+  codename: vangogh
+  date: '2022-05-19'
+  download: https://bigota.d.miui.com/V13.0.3.0.SJVCNXM/fw_vangogh_miui_VANGOGH_V13.0.3.0.SJVCNXM_e127c0cfe9_12.0.zip
+  name: Mi 10 Lite Zoom
+  version: V13.0.3.0.SJVCNXM
 - android: '12.0'
   codename: vayu
   date: '2022-04-27'

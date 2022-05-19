@@ -329,6 +329,16 @@
     android: '11.0'
     miui: V12.5.4.0.RKJINXM
 - branch: stable
+  date: '2022-05-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-19.05.2022/fw_ares_miui_ARES_V13.0.7.0.SKJCNXM_48ffec74d8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ares/fw_ares_miui_ARES_V13.0.7.0.SKJCNXM_48ffec74d8_12.0.zip
+  filename: fw_ares_miui_ARES_V13.0.7.0.SKJCNXM_48ffec74d8_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SKJCNXM
+- branch: stable
   date: '2022-03-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-14.03.2022/fw_ares_miui_ARESINGlobal_V13.0.1.0.SKJINXM_f83ba2a353_12.0.zip

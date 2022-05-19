@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-03-26'
+  date: '2022-05-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-26.03.2022/fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vangogh/fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
-  filename: fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-19.05.2022/fw_vangogh_miui_VANGOGH_V13.0.3.0.SJVCNXM_e127c0cfe9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vangogh/fw_vangogh_miui_VANGOGH_V13.0.3.0.SJVCNXM_e127c0cfe9_12.0.zip
+  filename: fw_vangogh_miui_VANGOGH_V13.0.3.0.SJVCNXM_e127c0cfe9_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJVCNXM
+    miui: V13.0.3.0.SJVCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
