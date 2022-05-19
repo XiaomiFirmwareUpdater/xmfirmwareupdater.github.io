@@ -65,9 +65,9 @@ permalink: /miui/umi/
 <tr><td>Mi 10 Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJBMIXM</td><td>11.0</td><td>5.1 GB</td><td>2021-07-07</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJBMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-16</td><td><a href="/miui/umi/stable/V12.5.2.0.RJBMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RJBMIXM</td><td>11.0</td><td>3.3 GB</td><td>2022-03-04</td><td><a href="/miui/umi/stable beta/V12.5.4.0.RJBMIXM/">Download</a></td></tr>
-<tr><td>Mi 10 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RJBIDXM</td><td>11.0</td><td>5.2 GB</td><td>2022-02-15</td><td><a href="/miui/umi/stable/V12.5.3.0.RJBIDXM/">Download</a></td></tr>
-<tr><td>Mi 10 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJBIDXM</td><td>11.0</td><td>3.4 GB</td><td>2022-02-28</td><td><a href="/miui/umi/stable/V12.5.3.0.RJBIDXM/">Download</a></td></tr>
-<tr><td>Mi 10 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJBIDXM</td><td>12.0</td><td>3.5 GB</td><td>2022-05-12</td><td><a href="/miui/umi/stable beta/V13.0.3.0.SJBIDXM/">Download</a></td></tr>
+<tr><td>Mi 10 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJBIDXM</td><td>12.0</td><td>5.3 GB</td><td>2022-05-08</td><td><a href="/miui/umi/stable/V13.0.3.0.SJBIDXM/">Download</a></td></tr>
+<tr><td>Mi 10 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJBIDXM</td><td>12.0</td><td>3.5 GB</td><td>2022-05-12</td><td><a href="/miui/umi/stable/V13.0.3.0.SJBIDXM/">Download</a></td></tr>
+<tr><td>Mi 10 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.4.0.RJBIDXM</td><td>11.0</td><td>3.1 GB</td><td>2021-03-19</td><td><a href="/miui/umi/stable beta/V12.2.4.0.RJBIDXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJBINXM</td><td>12.0</td><td>4.2 GB</td><td>2022-04-15</td><td><a href="/miui/umi/stable/V13.0.3.0.SJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJBINXM</td><td>12.0</td><td>3.5 GB</td><td>2022-04-20</td><td><a href="/miui/umi/stable/V13.0.3.0.SJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.2.0.RJBINXM</td><td>11.0</td><td>3.0 GB</td><td>2020-12-04</td><td><a href="/miui/umi/stable beta/V12.2.2.0.RJBINXM/">Download</a></td></tr>

@@ -19729,6 +19729,16 @@
     android: '10.0'
     miui: V12.0.8.0.QJSCNXM
 - branch: stable
+  date: '2022-05-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-19.05.2022/fw_gauguin_miui_GAUGUININGlobal_V13.0.4.0.SJSINXM_e6a050b859_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUININGlobal_V13.0.4.0.SJSINXM_e6a050b859_12.0.zip
+  filename: fw_gauguin_miui_GAUGUININGlobal_V13.0.4.0.SJSINXM_e6a050b859_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SJSINXM
+- branch: stable
   date: '2020-12-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-18.12.2020/fw_gauguin_miui_GAUGUIN_V12.0.7.0.QJSCNXM_e2dd0cb625_10.0.zip

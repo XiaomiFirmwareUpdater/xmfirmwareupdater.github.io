@@ -858,6 +858,12 @@
   version: V13.0.2.0.SJSEUXM
 - android: '12.0'
   codename: gauguin
+  date: '2022-05-19'
+  download: https://bigota.d.miui.com/V13.0.4.0.SJSINXM/fw_gauguin_miui_GAUGUININGlobal_V13.0.4.0.SJSINXM_e6a050b859_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V13.0.4.0.SJSINXM
+- android: '12.0'
+  codename: gauguin
   date: '2022-03-17'
   download: https://bigota.d.miui.com/V13.0.3.0.SJSCNXM/fw_gauguin_miui_GAUGUIN_V13.0.3.0.SJSCNXM_8eeb7f5dd6_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
