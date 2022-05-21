@@ -549,6 +549,16 @@
     android: '11.0'
     miui: V12.5.1.0.RJECNXM
 - branch: stable
+  date: '2022-05-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-21.05.2022/fw_cannon_miui_CANNON_V13.0.1.0.SJECNXM_9a9a01d76e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannon/fw_cannon_miui_CANNON_V13.0.1.0.SJECNXM_9a9a01d76e_12.0.zip
+  filename: fw_cannon_miui_CANNON_V13.0.1.0.SJECNXM_9a9a01d76e_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SJECNXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/stable-19.03.2021/fw_cannon_miui_CANNON_V12.0.9.0.QJECNXM_873e9cfff9_10.0.zip
