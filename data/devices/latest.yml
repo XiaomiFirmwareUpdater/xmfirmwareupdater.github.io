@@ -1639,6 +1639,16 @@
     android: '5.1'
     miui: V9.5.2.0.LAICNFA
 - branch: stable
+  date: '2022-05-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-21.05.2022/fw_ingres_miui_INGRESGlobal_V13.0.3.0.SLJMIXM_877a440af3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRESGlobal_V13.0.3.0.SLJMIXM_877a440af3_12.0.zip
+  filename: fw_ingres_miui_INGRESGlobal_V13.0.3.0.SLJMIXM_877a440af3_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SLJMIXM
+- branch: stable
   date: '2022-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-18.04.2022/fw_ingres_miui_INGRES_V13.0.8.0.SLJCNXM_cbc020e344_12.0.zip
