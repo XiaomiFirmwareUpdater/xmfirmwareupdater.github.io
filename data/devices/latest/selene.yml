@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-03-28'
+  date: '2022-05-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-28.03.2022/fw_selene_miui_SELENEGlobal_V12.5.18.0.RKUMIXM_4bba0526fe_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEGlobal_V12.5.18.0.RKUMIXM_4bba0526fe_11.0.zip
-  filename: fw_selene_miui_SELENEGlobal_V12.5.18.0.RKUMIXM_4bba0526fe_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-23.05.2022/fw_selene_miui_SELENEGlobal_V13.0.4.0.SKUMIXM_5047573c78_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selene/fw_selene_miui_SELENEGlobal_V13.0.4.0.SKUMIXM_5047573c78_12.0.zip
+  filename: fw_selene_miui_SELENEGlobal_V13.0.4.0.SKUMIXM_5047573c78_12.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V12.5.18.0.RKUMIXM
+    android: '12.0'
+    miui: V13.0.4.0.SKUMIXM
 - branch: stable
   date: '2022-03-21'
   downloads:
