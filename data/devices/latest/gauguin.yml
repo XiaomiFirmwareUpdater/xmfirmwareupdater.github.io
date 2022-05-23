@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-04-15'
+  date: '2022-05-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-15.04.2022/fw_gauguin_miui_GAUGUINGlobal_V13.0.1.0.SJSMIXM_98016c5107_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUINGlobal_V13.0.1.0.SJSMIXM_98016c5107_12.0.zip
-  filename: fw_gauguin_miui_GAUGUINGlobal_V13.0.1.0.SJSMIXM_98016c5107_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-23.05.2022/fw_gauguin_miui_GAUGUINGlobal_V13.0.2.0.SJSMIXM_cc01ff39ab_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUINGlobal_V13.0.2.0.SJSMIXM_cc01ff39ab_12.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V13.0.2.0.SJSMIXM_cc01ff39ab_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SJSMIXM
+    miui: V13.0.2.0.SJSMIXM
 - branch: stable
   date: '2022-05-13'
   downloads:
@@ -29,15 +29,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-05-11'
+  date: '2022-05-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-11.05.2022/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.4.0.SJSEUXM_b4679e2722_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.4.0.SJSEUXM_b4679e2722_12.0.zip
-  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.4.0.SJSEUXM_b4679e2722_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-23.05.2022/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.5.0.SJSEUXM_d5e03a8f3c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.5.0.SJSEUXM_d5e03a8f3c_12.0.zip
+  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.5.0.SJSEUXM_d5e03a8f3c_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SJSEUXM
+    miui: V13.0.5.0.SJSEUXM
 - branch: stable
   date: '2022-05-19'
   downloads:
