@@ -29,6 +29,16 @@
     android: '11.0'
     miui: V13.0.6.0.RKEEUXM
 - branch: stable
+  date: '2022-05-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-24.05.2022/fw_fleur_miui_FLEURINGlobal_V13.0.4.0.RKEINXM_afb173fd97_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURINGlobal_V13.0.4.0.RKEINXM_afb173fd97_11.0.zip
+  filename: fw_fleur_miui_FLEURINGlobal_V13.0.4.0.RKEINXM_afb173fd97_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V13.0.4.0.RKEINXM
+- branch: stable
   date: '2022-04-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-24.04.2022/fw_fleur_miui_FLEURGlobal_V13.0.7.0.RKEMIXM_30020f3ca0_11.0.zip

@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G (light) MIUI Downloads
+title: Redmi Note 11 Pro 4G (vida) MIUI Downloads
 layout: download
-name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G
-codename: light
-permalink: /miui/light/
+name: Redmi Note 11 Pro 4G
+codename: vida
+permalink: /miui/vida/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/light/">Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/vida/">Redmi Note 11 Pro 4G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/light/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/light/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/light/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/light/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/vida/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/vida/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/vida/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,7 @@ permalink: /miui/light/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11E China</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLSCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-03-17</td><td><a href="/miui/light/stable/V13.0.3.0.SLSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11E China</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLSCNXM</td><td>12.0</td><td>3.7 GB</td><td>2022-03-23</td><td><a href="/miui/light/stable/V13.0.3.0.SLSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11E China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SLSCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-04-21</td><td><a href="/miui/light/stable beta/V13.0.6.0.SLSCNXM/">Download</a></td></tr>
-<tr><td>Redmi 10 Prime+ 5G / POCO M4 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SLSINXM</td><td>12.0</td><td>3.1 GB</td><td>2022-05-10</td><td><a href="/miui/light/stable beta/V13.0.2.0.SLSINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.RGDINXM</td><td>11.0</td><td>2.8 GB</td><td>2022-05-09</td><td><a href="/miui/vida/stable beta/V13.0.5.0.RGDINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
