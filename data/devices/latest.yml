@@ -189,15 +189,15 @@
     android: '12.0'
     miui: V13.0.2.0.SJDEUXM
 - branch: stable
-  date: '2022-03-23'
+  date: '2022-05-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-23.03.2022/fw_apollo_miui_APOLLOINGlobal_V12.5.4.0.RJDINXM_37b2ddd662_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOINGlobal_V12.5.4.0.RJDINXM_37b2ddd662_11.0.zip
-  filename: fw_apollo_miui_APOLLOINGlobal_V12.5.4.0.RJDINXM_37b2ddd662_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-24.05.2022/fw_apollo_miui_APOLLOINGlobal_V13.0.4.0.SJDINXM_7fa4f171f8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLOINGlobal_V13.0.4.0.SJDINXM_7fa4f171f8_12.0.zip
+  filename: fw_apollo_miui_APOLLOINGlobal_V13.0.4.0.SJDINXM_7fa4f171f8_12.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V12.5.4.0.RJDINXM
+    android: '12.0'
+    miui: V13.0.4.0.SJDINXM
 - branch: stable
   date: '2018-11-07'
   downloads:
@@ -1649,15 +1649,15 @@
     android: '12.0'
     miui: V13.0.3.0.SLJMIXM
 - branch: stable
-  date: '2022-04-18'
+  date: '2022-05-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-18.04.2022/fw_ingres_miui_INGRES_V13.0.8.0.SLJCNXM_cbc020e344_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.8.0.SLJCNXM_cbc020e344_12.0.zip
-  filename: fw_ingres_miui_INGRES_V13.0.8.0.SLJCNXM_cbc020e344_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-24.05.2022/fw_ingres_miui_INGRES_V13.0.9.0.SLJCNXM_c0c8a4e8fb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.9.0.SLJCNXM_c0c8a4e8fb_12.0.zip
+  filename: fw_ingres_miui_INGRES_V13.0.9.0.SLJCNXM_c0c8a4e8fb_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.8.0.SLJCNXM
+    miui: V13.0.9.0.SLJCNXM
 - branch: stable
   date: '2022-05-11'
   downloads:
@@ -2829,15 +2829,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2022-03-08'
+  date: '2022-05-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-08.03.2022/fw_phoenix_miui_PHOENIX_V13.0.1.0.SGHCNXM_79d505885f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/phoenix/fw_phoenix_miui_PHOENIX_V13.0.1.0.SGHCNXM_79d505885f_12.0.zip
-  filename: fw_phoenix_miui_PHOENIX_V13.0.1.0.SGHCNXM_79d505885f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_phoenix/releases/download/stable-24.05.2022/fw_phoenix_miui_PHOENIX_V13.0.3.0.SGHCNXM_acc8f4fc8c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/phoenix/fw_phoenix_miui_PHOENIX_V13.0.3.0.SGHCNXM_acc8f4fc8c_12.0.zip
+  filename: fw_phoenix_miui_PHOENIX_V13.0.3.0.SGHCNXM_acc8f4fc8c_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SGHCNXM
+    miui: V13.0.3.0.SGHCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -4079,15 +4079,15 @@
     android: '12.0'
     miui: V13.0.2.0.SJUEUXM
 - branch: stable
-  date: '2022-03-22'
+  date: '2022-05-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-22.03.2022/fw_vayu_miui_VAYUINGlobal_V13.0.1.0.SJUINXM_b603785914_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUINGlobal_V13.0.1.0.SJUINXM_b603785914_12.0.zip
-  filename: fw_vayu_miui_VAYUINGlobal_V13.0.1.0.SJUINXM_b603785914_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-24.05.2022/fw_vayu_miui_VAYUINGlobal_V13.0.2.0.SJUINXM_78ccbabc43_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUINGlobal_V13.0.2.0.SJUINXM_78ccbabc43_12.0.zip
+  filename: fw_vayu_miui_VAYUINGlobal_V13.0.2.0.SJUINXM_78ccbabc43_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SJUINXM
+    miui: V13.0.2.0.SJUINXM
 - branch: stable
   date: '2021-11-15'
   downloads:
