@@ -49,25 +49,25 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-04-18'
+  date: '2022-05-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-18.04.2022/fw_alioth_miui_ALIOTHEEAGlobal_V13.0.4.0.SKHEUXM_17e135935d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V13.0.4.0.SKHEUXM_17e135935d_12.0.zip
-  filename: fw_alioth_miui_ALIOTHEEAGlobal_V13.0.4.0.SKHEUXM_17e135935d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-24.05.2022/fw_alioth_miui_ALIOTHEEAGlobal_V13.0.6.0.SKHEUXM_c393876947_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V13.0.6.0.SKHEUXM_c393876947_12.0.zip
+  filename: fw_alioth_miui_ALIOTHEEAGlobal_V13.0.6.0.SKHEUXM_c393876947_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SKHEUXM
+    miui: V13.0.6.0.SKHEUXM
 - branch: stable
-  date: '2022-04-13'
+  date: '2022-05-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-13.04.2022/fw_alioth_miui_ALIOTHINGlobal_V13.0.4.0.SKHINXM_276654c47c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHINGlobal_V13.0.4.0.SKHINXM_276654c47c_12.0.zip
-  filename: fw_alioth_miui_ALIOTHINGlobal_V13.0.4.0.SKHINXM_276654c47c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-24.05.2022/fw_alioth_miui_ALIOTHINGlobal_V13.0.6.0.SKHINXM_2492066c1d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHINGlobal_V13.0.6.0.SKHINXM_2492066c1d_12.0.zip
+  filename: fw_alioth_miui_ALIOTHINGlobal_V13.0.6.0.SKHINXM_2492066c1d_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SKHINXM
+    miui: V13.0.6.0.SKHINXM
 - branch: stable
   date: '2021-03-29'
   downloads:
