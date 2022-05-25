@@ -197,6 +197,23 @@ onetag.com, 5cd7fb62fac7ec9, DIRECT
 openx.com, 537133236, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 158685, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
+krushmedia.com, AJxF6R452a9M6CaTvK, DIRECT
+lkqd.net, 381, DIRECT, 59c49fa9598a0117
+conversantmedia.com, 41784, DIRECT, 03113cd04947736d
+smartyads.com, 1156, DIRECT, fd2bde0ff2e62c5d
+onetag.com, 662878e3c9dda18, DIRECT
+rhythmone.com, 2736329702851206590, DIRECT, a670c89d4a324e47
+video.unrulymedia.com, 2736329702851206590, DIRECT
+inmobi.com, 94262e51745c4a88863d51a61d0af6b6, DIRECT, 83e75a7ae333ca9d
+33across.com, 0010b00002ZoRYhAAN, DIRECT, bbea06d9c4d2853c
+indexexchange.com, 191973, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537120563, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
+sovrn.com, 245697, DIRECT, fafdf38b16bf6b2b
+lijit.com, 245697, DIRECT, fafdf38b16bf6b2b
+lijit.com, 245697-eb, DIRECT, fafdf38b16bf6b2b
+google.com, pub-7734005103835923, DIRECT, f08c47fec0942fa0
 rtbhouse.com, wed0epy3b6Wg3KDMeJ5n, DIRECT
 rubiconproject.com, 24026, RESELLER, 0bfd66d529a55807
 sharethrough.com, cc26d15a, DIRECT, d53b998a7bd4ecd2
@@ -308,7 +325,6 @@ google.com, pub-7719500339410191, DIRECT, f08c47fec0942fa0
 google.com, pub-4870894582646024, DIRECT, f08c47fec0942fa0
 google.com, pub-9047737572880453, DIRECT, f08c47fec0942fa0
 google.com, pub-7273072144264916, DIRECT, f08c47fec0942fa0
-google.com, pub-3918053995686023, DIRECT, f08c47fec0942fa0
 google.com, pub-3784779432172338, DIRECT, f08c47fec0942fa0
 google.com, pub-9550021008970935, DIRECT, f08c47fec0942fa0
 google.com, pub-8746322920248816, DIRECT, f08c47fec0942fa0
