@@ -19,16 +19,6 @@
     android: '11.0'
     miui: V12.0.13.0.RFQEUXM
 - branch: stable
-  date: '2022-02-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-24.02.2022/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.17.0.RFQEUXM_33623b921a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.17.0.RFQEUXM_33623b921a_11.0.zip
-  filename: fw_laurel_miui_LAURELSPROUTEEAGlobal_V12.0.17.0.RFQEUXM_33623b921a_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.0.17.0.RFQEUXM
-- branch: stable
   date: '2021-10-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-18.10.2021/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.15.0.RFQMIXM_b7c89b8fed_11.0.zip
@@ -48,16 +38,6 @@
   versions:
     android: '11.0'
     miui: V12.0.22.0.RFQMIXM
-- branch: stable
-  date: '2022-03-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-16.03.2022/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.21.0.RFQMIXM_1bda1469ba_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.21.0.RFQMIXM_1bda1469ba_11.0.zip
-  filename: fw_laurel_miui_LAURELSPROUTGlobal_V12.0.21.0.RFQMIXM_1bda1469ba_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.0.21.0.RFQMIXM
 - branch: stable
   date: '2021-01-09'
   downloads:
@@ -88,13 +68,3 @@
   versions:
     android: '11.0'
     miui: V12.0.3.0.RFQEUXM
-- branch: stable
-  date: '2022-03-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_laurel/releases/download/stable-01.03.2022/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.20.0.RFQMIXM_52f17e34f6_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/laurel/fw_laurel_miui_LAURELSPROUTGlobal_V12.0.20.0.RFQMIXM_52f17e34f6_11.0.zip
-  filename: fw_laurel_miui_LAURELSPROUTGlobal_V12.0.20.0.RFQMIXM_52f17e34f6_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.0.20.0.RFQMIXM

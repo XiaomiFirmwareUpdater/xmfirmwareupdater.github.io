@@ -109,15 +109,15 @@
     android: '10.0'
     miui: V12.0.21.0.QCRMIXM
 - branch: stable
-  date: '2022-02-28'
+  date: '2022-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-28.02.2022/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.12.0.QCREUXM_c5acaf9b52_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.12.0.QCREUXM_c5acaf9b52_10.0.zip
-  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.12.0.QCREUXM_c5acaf9b52_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-26.05.2022/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.13.0.QCREUXM_ae49f465bb_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.13.0.QCREUXM_ae49f465bb_10.0.zip
+  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.13.0.QCREUXM_ae49f465bb_10.0.zip
   region: Europe
   versions:
     android: '10.0'
-    miui: V12.0.12.0.QCREUXM
+    miui: V12.0.13.0.QCREUXM
 - branch: stable
   date: '2022-03-14'
   downloads:
@@ -179,15 +179,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-04-06'
+  date: '2022-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-06.04.2022/fw_apollo_miui_APOLLOEEAGlobal_V13.0.2.0.SJDEUXM_f939ac44da_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLOEEAGlobal_V13.0.2.0.SJDEUXM_f939ac44da_12.0.zip
-  filename: fw_apollo_miui_APOLLOEEAGlobal_V13.0.2.0.SJDEUXM_f939ac44da_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-26.05.2022/fw_apollo_miui_APOLLOEEAGlobal_V13.0.6.0.SJDEUXM_7571b40647_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLOEEAGlobal_V13.0.6.0.SJDEUXM_7571b40647_12.0.zip
+  filename: fw_apollo_miui_APOLLOEEAGlobal_V13.0.6.0.SJDEUXM_7571b40647_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJDEUXM
+    miui: V13.0.6.0.SJDEUXM
 - branch: stable
   date: '2022-05-24'
   downloads:
@@ -739,15 +739,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2022-03-15'
+  date: '2022-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-15.03.2022/fw_chopin_miui_CHOPINGlobal_V13.0.3.0.SKPMIXM_bef6957efe_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/chopin/fw_chopin_miui_CHOPINGlobal_V13.0.3.0.SKPMIXM_bef6957efe_12.0.zip
-  filename: fw_chopin_miui_CHOPINGlobal_V13.0.3.0.SKPMIXM_bef6957efe_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-26.05.2022/fw_chopin_miui_CHOPINGlobal_V13.0.4.0.SKPMIXM_3f4c0179b6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/chopin/fw_chopin_miui_CHOPINGlobal_V13.0.4.0.SKPMIXM_3f4c0179b6_12.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V13.0.4.0.SKPMIXM_3f4c0179b6_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SKPMIXM
+    miui: V13.0.4.0.SKPMIXM
 - branch: stable
   date: '2022-05-17'
   downloads:
@@ -2349,15 +2349,15 @@
     android: '12.0'
     miui: V13.0.7.0.SKGMIXM
 - branch: stable
-  date: '2022-03-26'
+  date: '2022-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-26.03.2022/fw_mojito_miui_MOJITOEEAGlobal_V13.0.4.0.SKGEUXM_d31c70631c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mojito/fw_mojito_miui_MOJITOEEAGlobal_V13.0.4.0.SKGEUXM_d31c70631c_12.0.zip
-  filename: fw_mojito_miui_MOJITOEEAGlobal_V13.0.4.0.SKGEUXM_d31c70631c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-26.05.2022/fw_mojito_miui_MOJITOEEAGlobal_V13.0.5.0.SKGEUXM_b2bf3af8b4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mojito/fw_mojito_miui_MOJITOEEAGlobal_V13.0.5.0.SKGEUXM_b2bf3af8b4_12.0.zip
+  filename: fw_mojito_miui_MOJITOEEAGlobal_V13.0.5.0.SKGEUXM_b2bf3af8b4_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SKGEUXM
+    miui: V13.0.5.0.SKGEUXM
 - branch: stable
   date: '2022-04-18'
   downloads:

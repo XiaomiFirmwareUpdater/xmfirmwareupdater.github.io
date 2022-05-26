@@ -52,7 +52,8 @@ permalink: /archive/miui/chopin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SKPCNXM</td><td>12.0</td><td>4.4 GB</td><td>2022-05-17</td><td><a href="/miui/chopin/stable beta/V13.0.7.0.SKPCNXM/">Download</a></td></tr>
+                <tr><td>POCO X3 GT Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKPMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-05-24</td><td><a href="/miui/chopin/stable beta/V13.0.4.0.SKPMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SKPCNXM</td><td>12.0</td><td>4.4 GB</td><td>2022-05-17</td><td><a href="/miui/chopin/stable beta/V13.0.7.0.SKPCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.29.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-05-13</td><td><a href="/miui/chopin/public beta/V13.0.6.1.29.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.28.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-04-29</td><td><a href="/miui/chopin/public beta/V13.0.5.1.28.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.22.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-04-01</td><td><a href="/miui/chopin/public beta/V13.0.4.1.22.DEV/">Download</a></td></tr>

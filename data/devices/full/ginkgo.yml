@@ -949,16 +949,6 @@
     android: '9.0'
     miui: V11.0.11.0.PCOMIXM
 - branch: stable
-  date: '2022-01-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-04.01.2022/fw_ginkgo_miui_GINKGOEEAGlobal_V12.5.2.0.RCOEUXM_7a6b9b172c_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOEEAGlobal_V12.5.2.0.RCOEUXM_7a6b9b172c_11.0.zip
-  filename: fw_ginkgo_miui_GINKGOEEAGlobal_V12.5.2.0.RCOEUXM_7a6b9b172c_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RCOEUXM
-- branch: stable
   date: '2021-01-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-04.01.2021/fw_ginkgo_miui_GINKGOGlobal_V12.0.3.0.QCOMIXM_265dab17e2_10.0.zip

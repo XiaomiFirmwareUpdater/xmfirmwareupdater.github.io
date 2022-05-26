@@ -4794,12 +4794,6 @@
   version: 21.12.1
 - android: '11.0'
   codename: nabu
-  date: '2021-12-31'
-  download: https://bigota.d.miui.com/21.12.28/miui_NABU_21.12.28_87481125f8_11.0.zip
-  name: Xiaomi Pad 5
-  version: 21.12.28
-- android: '11.0'
-  codename: nabu
   date: '2021-11-19'
   download: https://bigota.d.miui.com/21.11.17/miui_NABU_21.11.17_eec6396d9f_11.0.zip
   name: Xiaomi Pad 5
