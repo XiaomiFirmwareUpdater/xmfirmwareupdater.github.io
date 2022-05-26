@@ -589,15 +589,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFAMIXM
 - branch: stable
-  date: '2022-03-22'
+  date: '2022-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-23.03.2022/fw_cepheus_miui_CEPHEUS_V12.5.5.0.RFACNXM_8ff260d251_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUS_V12.5.5.0.RFACNXM_8ff260d251_11.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_V12.5.5.0.RFACNXM_8ff260d251_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-26.05.2022/fw_cepheus_miui_CEPHEUS_V12.5.6.0.RFACNXM_5d1239a6d1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cepheus/fw_cepheus_miui_CEPHEUS_V12.5.6.0.RFACNXM_5d1239a6d1_11.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_V12.5.6.0.RFACNXM_5d1239a6d1_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RFACNXM
+    miui: V12.5.6.0.RFACNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
@@ -1218,6 +1218,26 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RGBINXM
+- branch: stable
+  date: '2022-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-26.05.2022/fw_evergreen_miui_EVERGREENGlobal_V12.5.7.0.RGBMIXM_7811d74404_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/evergreen/fw_evergreen_miui_EVERGREENGlobal_V12.5.7.0.RGBMIXM_7811d74404_11.0.zip
+  filename: fw_evergreen_miui_EVERGREENGlobal_V12.5.7.0.RGBMIXM_7811d74404_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RGBMIXM
+- branch: stable
+  date: '2022-05-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-26.05.2022/fw_evergreen_miui_EVERGREENEEAGlobal_V12.5.8.0.RGBEUXM_611954c243_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/evergreen/fw_evergreen_miui_EVERGREENEEAGlobal_V12.5.8.0.RGBEUXM_611954c243_11.0.zip
+  filename: fw_evergreen_miui_EVERGREENEEAGlobal_V12.5.8.0.RGBEUXM_611954c243_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RGBEUXM
 - branch: stable
   date: '2022-04-18'
   downloads:
@@ -3819,15 +3839,15 @@
     android: '12.0'
     miui: V13.0.1.0.SFNMIXM
 - branch: stable
-  date: '2022-04-02'
+  date: '2022-05-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-02.04.2022/fw_toco_miui_TOCOEEAGlobal_V13.0.1.0.SFNEUXM_cd4132785f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/toco/fw_toco_miui_TOCOEEAGlobal_V13.0.1.0.SFNEUXM_cd4132785f_12.0.zip
-  filename: fw_toco_miui_TOCOEEAGlobal_V13.0.1.0.SFNEUXM_cd4132785f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-26.05.2022/fw_toco_miui_TOCOEEAGlobal_V13.0.2.0.SFNEUXM_d153f8776f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/toco/fw_toco_miui_TOCOEEAGlobal_V13.0.2.0.SFNEUXM_d153f8776f_12.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V13.0.2.0.SFNEUXM_d153f8776f_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SFNEUXM
+    miui: V13.0.2.0.SFNEUXM
 - branch: stable
   date: '2022-04-24'
   downloads:
