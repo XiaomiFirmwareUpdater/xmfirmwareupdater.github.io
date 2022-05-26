@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 11E (light) MIUI Downloads
+title: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G (light) MIUI Downloads
 layout: download
-name: Redmi Note 11E
+name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G
 codename: light
 permalink: /archive/miui/light/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/light/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/light/">Redmi Note 11E</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/light/">Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

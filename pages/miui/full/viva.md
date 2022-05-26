@@ -52,7 +52,11 @@ permalink: /archive/miui/viva/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.RGDTRXM</td><td>11.0</td><td>2.8 GB</td><td>2022-05-05</td><td><a href="/miui/viva/stable/V13.0.3.0.RGDTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RGDTWXM</td><td>11.0</td><td>2.7 GB</td><td>2022-05-13</td><td><a href="/miui/viva/stable/V13.0.2.0.RGDTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.RGDTWXM</td><td>11.0</td><td>4.3 GB</td><td>2022-05-09</td><td><a href="/miui/viva/stable/V13.0.2.0.RGDTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.RGDMIXM</td><td>11.0</td><td>2.8 GB</td><td>2022-05-13</td><td><a href="/miui/viva/stable/V13.0.8.0.RGDMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.RGDMIXM</td><td>11.0</td><td>5.5 GB</td><td>2022-05-09</td><td><a href="/miui/viva/stable/V13.0.8.0.RGDMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.RGDTRXM</td><td>11.0</td><td>2.8 GB</td><td>2022-05-05</td><td><a href="/miui/viva/stable/V13.0.3.0.RGDTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.RGDTRXM</td><td>11.0</td><td>4.7 GB</td><td>2022-04-27</td><td><a href="/miui/viva/stable/V13.0.3.0.RGDTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.RGDMIXM</td><td>11.0</td><td>2.8 GB</td><td>2022-04-26</td><td><a href="/miui/viva/stable/V13.0.7.0.RGDMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.RGDMIXM</td><td>11.0</td><td>5.6 GB</td><td>2022-04-22</td><td><a href="/miui/viva/stable/V13.0.7.0.RGDMIXM/">Download</a></td></tr>

@@ -52,7 +52,11 @@ permalink: /archive/miui/rubens/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.13.0.SLNCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-05-07</td><td><a href="/miui/rubens/stable beta/V13.0.13.0.SLNCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.16.0.SLNCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-05-24</td><td><a href="/miui/rubens/stable beta/V13.0.16.0.SLNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.14.1.32.DEV</td><td>12.0</td><td>5.1 GB</td><td>2022-05-20</td><td><a href="/miui/rubens/public beta/V13.0.14.1.32.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.13.1.29.DEV</td><td>12.0</td><td>5.0 GB</td><td>2022-05-13</td><td><a href="/miui/rubens/public beta/V13.0.13.1.29.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Stable</td><td>Recovery</td><td>V13.0.13.0.SLNCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-05-07</td><td><a href="/miui/rubens/stable/V13.0.13.0.SLNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.13.0.SLNCNXM</td><td>12.0</td><td>7.0 GB</td><td>2022-05-05</td><td><a href="/miui/rubens/stable/V13.0.13.0.SLNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.12.0.SLNCNXM</td><td>12.0</td><td>5.1 GB</td><td>2022-04-30</td><td><a href="/miui/rubens/stable beta/V13.0.12.0.SLNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.10.1.28.DEV</td><td>12.0</td><td>5.1 GB</td><td>2022-04-29</td><td><a href="/miui/rubens/public beta/V13.0.10.1.28.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SLNCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-04-22</td><td><a href="/miui/rubens/stable/V13.0.10.0.SLNCNXM/">Download</a></td></tr>
