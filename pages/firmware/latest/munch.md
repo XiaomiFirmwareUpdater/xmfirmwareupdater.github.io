@@ -1,7 +1,7 @@
 ---
-title: Redmi K40S (munch) Firmware Downloads
+title: Redmi K40S/POCO F4 (munch) Firmware Downloads
 layout: download
-name: Redmi K40S
+name: Redmi K40S/POCO F4
 codename: munch
 permalink: /firmware/munch/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/munch/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/munch/">Redmi K40S</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/munch/">Redmi K40S/POCO F4</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

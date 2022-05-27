@@ -2499,6 +2499,16 @@
     android: '11.0'
     miui: V13.0.4.0.RKXEUXM
 - branch: stable
+  date: '2022-05-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-28.05.2022/fw_nabu_miui_NABUINGlobal_V13.0.4.0.RKXINXM_6770e65321_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUINGlobal_V13.0.4.0.RKXINXM_6770e65321_11.0.zip
+  filename: fw_nabu_miui_NABUINGlobal_V13.0.4.0.RKXINXM_6770e65321_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V13.0.4.0.RKXINXM
+- branch: stable
   date: '2019-05-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_natrium/releases/download/stable-13.05.2019/fw_natrium_miui_MI5SPlusGlobal_V10.2.4.0.OBGMIXM_d3a51ce7d3_8.0.zip
@@ -3789,15 +3799,15 @@
     android: '12.0'
     miui: V13.0.4.0.SKFINXM
 - branch: stable
-  date: '2022-04-21'
+  date: '2022-05-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-21.04.2022/fw_thyme_miui_THYME_V13.0.5.0.SGACNXM_ff58567091_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thyme/fw_thyme_miui_THYME_V13.0.5.0.SGACNXM_ff58567091_12.0.zip
-  filename: fw_thyme_miui_THYME_V13.0.5.0.SGACNXM_ff58567091_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-28.05.2022/fw_thyme_miui_THYME_V13.0.6.0.SGACNXM_f43177d3f1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thyme/fw_thyme_miui_THYME_V13.0.6.0.SGACNXM_f43177d3f1_12.0.zip
+  filename: fw_thyme_miui_THYME_V13.0.6.0.SGACNXM_f43177d3f1_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SGACNXM
+    miui: V13.0.6.0.SGACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
