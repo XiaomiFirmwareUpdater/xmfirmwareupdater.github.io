@@ -1716,6 +1716,12 @@
   version: V13.0.1.0.SKUMIXM
 - android: '11.0'
   codename: spes
+  date: '2022-05-29'
+  download: https://bigota.d.miui.com/V13.0.10.0.RGCINXM/fw_spes_miui_SPESINGlobal_V13.0.10.0.RGCINXM_1400e290c1_11.0.zip
+  name: Redmi Note 11
+  version: V13.0.10.0.RGCINXM
+- android: '11.0'
+  codename: spes
   date: '2022-05-20'
   download: https://bigota.d.miui.com/V13.0.12.0.RGCMIXM/fw_spes_miui_SPESGlobal_V13.0.12.0.RGCMIXM_7142be5717_11.0.zip
   name: Redmi Note 11
