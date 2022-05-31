@@ -4840,18 +4840,6 @@
   download: https://bigota.d.miui.com/21.8.25/miui_ODIN_21.8.25_79803a9554_11.0.zip
   name: MIX 4
   version: 21.8.25
-- android: '11.0'
-  codename: odin
-  date: '2021-10-21'
-  download: https://bigota.d.miui.com/21.10.20/miui_ODIN_21.10.20_63d4a78137_11.0.zip
-  name: MIX 4
-  version: 21.10.20
-- android: '12.0'
-  codename: odin
-  date: '2021-11-19'
-  download: https://bigota.d.miui.com/21.11.17/miui_ODIN_21.11.17_98b7129d4a_12.0.zip
-  name: MIX 4
-  version: 21.11.17
 - android: '12.0'
   codename: odin
   date: '2021-11-12'
