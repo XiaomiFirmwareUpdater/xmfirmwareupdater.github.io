@@ -790,6 +790,12 @@
   download: https://bigota.d.miui.com/V13.0.7.0.RGEMIXM/fw_fog_miui_FOGGlobal_V13.0.7.0.RGEMIXM_432dc3edb4_11.0.zip
   name: Redmi 10C
   version: V13.0.7.0.RGEMIXM
+- android: '11.0'
+  codename: fog
+  date: '2022-05-31'
+  download: https://bigota.d.miui.com/V13.0.8.0.RGEMIXM/fw_fog_miui_FOGGlobal_V13.0.8.0.RGEMIXM_0752d443a2_11.0.zip
+  name: Redmi 10C
+  version: V13.0.8.0.RGEMIXM
 - android: '12.0'
   codename: gauguin
   date: '2022-03-25'
@@ -1356,6 +1362,12 @@
   version: 22.3.24
 - android: '12.0'
   codename: odin
+  date: '2022-02-25'
+  download: https://bigota.d.miui.com/22.2.23/fw_odin_miui_ODINPRE_22.2.23_924baa5eb2_12.0.zip
+  name: MIX 4
+  version: 22.2.23
+- android: '12.0'
+  codename: odin
   date: '2022-01-21'
   download: https://bigota.d.miui.com/22.1.19/fw_odin_miui_ODINPRE_22.1.19_812ba11394_12.0.zip
   name: MIX 4
@@ -1368,10 +1380,22 @@
   version: 22.2.17
 - android: '12.0'
   codename: odin
+  date: '2022-02-13'
+  download: https://bigota.d.miui.com/22.2.9/fw_odin_miui_ODINPRE_22.2.9_11c1323913_12.0.zip
+  name: MIX 4
+  version: 22.2.9
+- android: '12.0'
+  codename: odin
   date: '2022-01-14'
   download: https://bigota.d.miui.com/22.1.13/fw_odin_miui_ODINPRE_22.1.13_ab12e8d8a6_12.0.zip
   name: MIX 4
   version: 22.1.13
+- android: '12.0'
+  codename: odin
+  date: '2022-03-04'
+  download: https://bigota.d.miui.com/22.3.3/fw_odin_miui_ODINPRE_22.3.3_0daa699abe_12.0.zip
+  name: MIX 4
+  version: 22.3.3
 - android: '12.0'
   codename: odin
   date: '2022-05-18'
@@ -1498,6 +1522,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SGICMXM/fw_picasso_miui_PICASSO48M_V13.0.1.0.SGICMXM_b232a140ef_12.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
   version: V13.0.1.0.SGICMXM
+- android: '12.0'
+  codename: picasso
+  date: '2022-05-31'
+  download: https://bigota.d.miui.com/V13.0.2.0.SGICMXM/fw_picasso_miui_PICASSO48M_V13.0.2.0.SGICMXM_95fc67fb9e_12.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: V13.0.2.0.SGICMXM
 - android: '12.0'
   codename: pissarro
   date: '2022-03-25'
