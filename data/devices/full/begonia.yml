@@ -1158,3 +1158,13 @@
   versions:
     android: '9.0'
     miui: V10.4.6.0.PGGCNXM
+- branch: stable
+  date: '2022-06-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-01.06.2022/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.7.0.RGGEUXM_f176879ecf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.7.0.RGGEUXM_f176879ecf_11.0.zip
+  filename: fw_begonia_miui_BEGONIAEEAGlobal_V12.5.7.0.RGGEUXM_f176879ecf_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RGGEUXM
