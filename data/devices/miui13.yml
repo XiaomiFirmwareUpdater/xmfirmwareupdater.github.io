@@ -557,6 +557,12 @@
   name: Mi 10 Pro
   version: V13.0.0.1.1.DEV
 - android: '12.0'
+  codename: cmi
+  date: '2022-06-02'
+  download: https://bigota.d.miui.com/V13.0.4.0.SJACNXM/fw_cmi_miui_CMI_V13.0.4.0.SJACNXM_ae8b4cc344_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.4.0.SJACNXM
+- android: '12.0'
   codename: courbet
   date: '2022-04-19'
   download: https://bigota.d.miui.com/V13.0.4.0.SKQEUXM/fw_courbet_miui_COURBETEEAGlobal_V13.0.4.0.SKQEUXM_03879a39c4_12.0.zip
@@ -1534,6 +1540,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SGICMXM/fw_picasso_miui_PICASSO48M_V13.0.1.0.SGICMXM_b232a140ef_12.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
   version: V13.0.1.0.SGICMXM
+- android: '12.0'
+  codename: picasso
+  date: '2022-06-02'
+  download: https://bigota.d.miui.com/V13.0.2.0.SGICNXM/fw_picasso_miui_PICASSO_V13.0.2.0.SGICNXM_67e48545ae_12.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: V13.0.2.0.SGICNXM
 - android: '12.0'
   codename: picasso
   date: '2022-05-31'

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-05-31'
+  date: '2022-06-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-01.06.2022/fw_picasso_miui_PICASSO48M_V13.0.2.0.SGICMXM_95fc67fb9e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/picasso/fw_picasso_miui_PICASSO48M_V13.0.2.0.SGICMXM_95fc67fb9e_12.0.zip
-  filename: fw_picasso_miui_PICASSO48M_V13.0.2.0.SGICMXM_95fc67fb9e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-02.06.2022/fw_picasso_miui_PICASSO_V13.0.2.0.SGICNXM_67e48545ae_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/picasso/fw_picasso_miui_PICASSO_V13.0.2.0.SGICNXM_67e48545ae_12.0.zip
+  filename: fw_picasso_miui_PICASSO_V13.0.2.0.SGICNXM_67e48545ae_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SGICMXM
+    miui: V13.0.2.0.SGICNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
