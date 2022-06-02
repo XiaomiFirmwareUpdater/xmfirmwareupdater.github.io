@@ -164,6 +164,45 @@ freewheel.tv, 20393, RESELLER
 freewheel.tv, 24377, RESELLER
 aol.com, 58905, RESELLER, e1a5b5b6e3255540
 openx.com, 541147563, RESELLER, 6a698e2ec38604c6
+outbrain.com, 00100a836575440eb36929f6e8f9922963, DIRECT
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka Telaria
+spotxchange.com, 225721, RESELLER, 7842df1d2fe2db34 # Premium video demand
+freewheel.tv, 741650, RESELLER # PREMIUM VIDEO DEMAND
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain
+pubmatic.com, 160065, RESELLER, 5d62403b186f2ace # Premium video demand from Outbrain
+improvedigital.com, 1863, RESELLER # PREMIUM VIDEO DEMAND FROM OUTBRAIN
+freewheel.tv, 1220655, RESELLER # PREMIUM VIDEO DEMAND FROM OUTBRAIN
+yahoo.com, 59052, RESELLER, e1a5b5b6e3255540 # Premium Video Demand
+risecodes.com, 6022acddc8b2f90001767980, RESELLER
+yahoo.com, 59040, RESELLER, e1a5b5b6e3255540
+emxdgt.com, 2014, RESELLER, 1e1d41537f7cad7f
+vi.ai, 987349031605160, DIRECT #INSTREAM VIDEO BY OUTBRAIN
+google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 #instream video by outbrain
+pubmatic.com, 158055, RESELLER, 5d62403b186f2ace #instream video by outbrain
+xandr.com, 10736, RESELLER, f5ab79cb980f11d1 #instream video by outbrain
+rubiconproject.com, 21506, RESELLER, 0bfd66d529a55807 #instream video by outbrain
+rhythmone.com, 1014191143, RESELLER, a670c89d4a324e47 #instream video by outbrain
+video.unrulymedia.com, 1014191143, RESELLER #INSTREAM VIDEO BY OUTBRAIN
+indexexchange.com, 190500, RESELLER, 50b1c356f2c5c8fc #instream video by outbrain
+smartadserver.com, 2776, RESELLER #INSTREAM VIDEO BY OUTBRAIN
+openx.com, 540362347, RESELLER, 6a698e2ec38604c6 #instream video by outbrain
+spotxchange.com, 304237, RESELLER, 7842df1d2fe2db34 #instream video by outbrain
+spotx.tv, 304237, RESELLER, 7842df1d2fe2db34 #instream video by outbrain
+freewheel.tv, 1385090, RESELLER #INSTREAM VIDEO BY OUTBRAIN
+freewheel.tv, 1385106, RESELLER #INSTREAM VIDEO BY OUTBRAIN
+yahoo.com, 59658, RESELLER, e1a5b5b6e3255540 #instream video by outbrain
+media.net, 8CUIH830U, RESELLER #INSTREAM VIDEO BY OUTBRAIN
+triplelift.com, 11547, RESELLER, 6c33edb13117fd86 #instream video by outbrain
+improvedigital.com, 1552, RESELLER #INSTREAM VIDEO BY OUTBRAIN
 pubmatic.com, 157940, RESELLER, 5d62403b186f2ace
 appnexus.com, 10273, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11711, DIRECT, f5ab79cb980f11d1
