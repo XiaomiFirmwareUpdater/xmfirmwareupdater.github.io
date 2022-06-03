@@ -38739,6 +38739,26 @@
     android: '11.0'
     miui: V13.0.5.0.RLDMIXM
 - branch: stable
+  date: '2022-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-03.06.2022/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.3.0.SLDEUXM_7b29cba800_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.3.0.SLDEUXM_7b29cba800_12.0.zip
+  filename: fw_psyche_miui_PSYCHEEEAGlobal_V13.0.3.0.SLDEUXM_7b29cba800_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SLDEUXM
+- branch: stable
+  date: '2022-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-03.06.2022/fw_psyche_miui_PSYCHEGlobal_V13.0.2.0.SLDMIXM_17f0281732_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHEGlobal_V13.0.2.0.SLDMIXM_17f0281732_12.0.zip
+  filename: fw_psyche_miui_PSYCHEGlobal_V13.0.2.0.SLDMIXM_17f0281732_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SLDMIXM
+- branch: stable
   date: '2022-05-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-02.05.2022/fw_psyche_miui_PSYCHE_V13.0.4.0.SLDCNXM_b659da9358_12.0.zip
@@ -52558,6 +52578,16 @@
   versions:
     android: '11.0'
     miui: V12.5.13.0.RKDEUXM
+- branch: stable
+  date: '2022-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-03.06.2022/fw_vili_miui_VILIEEAGlobal_V13.0.10.0.SKDEUXM_3cc05261f2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vili/fw_vili_miui_VILIEEAGlobal_V13.0.10.0.SKDEUXM_3cc05261f2_12.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_V13.0.10.0.SKDEUXM_3cc05261f2_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SKDEUXM
 - branch: stable
   date: '2021-12-01'
   downloads:
