@@ -282,6 +282,12 @@
   version: 21.7.14
 - android: '11.0'
   codename: apollo
+  date: '2021-04-18'
+  download: https://bigota.d.miui.com/21.1.13/miui_APOLLO_21.1.13_41fd6655c3_11.0.zip
+  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
+  version: 21.1.13
+- android: '11.0'
+  codename: apollo
   date: '2021-05-14'
   download: https://bigota.d.miui.com/21.5.12/miui_APOLLO_21.5.12_dd3c5d5a39_11.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
@@ -298,6 +304,12 @@
   download: https://bigota.d.miui.com/21.8.11/miui_APOLLO_21.8.11_6907a148ab_11.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
   version: 21.8.11
+- android: '11.0'
+  codename: apollo
+  date: '2021-04-18'
+  download: https://bigota.d.miui.com/21.3.11/miui_APOLLO_21.3.11_3ab0ead287_11.0.zip
+  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
+  version: 21.3.11
 - android: '12.0'
   codename: apollo
   date: '2021-12-10'
