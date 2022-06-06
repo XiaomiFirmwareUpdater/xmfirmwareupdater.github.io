@@ -129,6 +129,16 @@
     android: '12.0'
     miui: V13.0.4.0.SLBINXM
 - branch: stable
+  date: '2022-06-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-06.06.2022/fw_zeus_miui_ZEUSINGlobal_V13.0.5.0.SLBINXM_3cacdd6497_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUSINGlobal_V13.0.5.0.SLBINXM_3cacdd6497_12.0.zip
+  filename: fw_zeus_miui_ZEUSINGlobal_V13.0.5.0.SLBINXM_3cacdd6497_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SLBINXM
+- branch: stable
   date: '2022-04-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-01.04.2022/fw_zeus_miui_ZEUSGlobal_V13.0.5.0.SLBMIXM_9e61d6d796_12.0.zip
