@@ -582,6 +582,12 @@
   version: V13.0.7.0.SKQMIXM
 - android: '12.0'
   codename: courbet
+  date: '2022-06-06'
+  download: https://bigota.d.miui.com/V13.0.3.0.SKQINXM/fw_courbet_miui_COURBETINGlobal_V13.0.3.0.SKQINXM_bdb6ed8c2a_12.0.zip
+  name: Mi 11 Lite 4G
+  version: V13.0.3.0.SKQINXM
+- android: '12.0'
+  codename: courbet
   date: '2022-04-06'
   download: https://bigota.d.miui.com/V13.0.2.0.SKQINXM/fw_courbet_miui_COURBETINGlobal_V13.0.2.0.SKQINXM_da16992466_12.0.zip
   name: Mi 11 Lite 4G
@@ -1242,6 +1248,12 @@
   version: V13.0.12.0.SLKCNXM
 - android: '12.0'
   codename: matisse
+  date: '2022-06-06'
+  download: https://bigota.d.miui.com/V13.0.18.0.SLKCNXM/fw_matisse_miui_MATISSE_V13.0.18.0.SLKCNXM_2a880d0905_12.0.zip
+  name: Redmi K50 Pro
+  version: V13.0.18.0.SLKCNXM
+- android: '12.0'
+  codename: matisse
   date: '2022-05-01'
   download: https://bigota.d.miui.com/V13.0.15.0.SLKCNXM/fw_matisse_miui_MATISSE_V13.0.15.0.SLKCNXM_39d491ceb0_12.0.zip
   name: Redmi K50 Pro
@@ -1666,6 +1678,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.RLDMIXM/fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.RLDMIXM_e3fec00afd_11.0.zip
   name: Xiaomi 12X
   version: V13.0.5.0.RLDMIXM
+- android: '12.0'
+  codename: psyche
+  date: '2022-06-06'
+  download: https://bigota.d.miui.com/V13.0.5.0.SLDCNXM/fw_psyche_miui_PSYCHE_V13.0.5.0.SLDCNXM_0b5427be43_12.0.zip
+  name: Xiaomi 12X
+  version: V13.0.5.0.SLDCNXM
 - android: '12.0'
   codename: psyche
   date: '2022-06-03'

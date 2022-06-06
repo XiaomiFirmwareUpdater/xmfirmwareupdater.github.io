@@ -879,15 +879,15 @@
     android: '12.0'
     miui: V13.0.4.0.SKQEUXM
 - branch: stable
-  date: '2022-04-06'
+  date: '2022-06-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-06.04.2022/fw_courbet_miui_COURBETINGlobal_V13.0.2.0.SKQINXM_da16992466_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETINGlobal_V13.0.2.0.SKQINXM_da16992466_12.0.zip
-  filename: fw_courbet_miui_COURBETINGlobal_V13.0.2.0.SKQINXM_da16992466_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-06.06.2022/fw_courbet_miui_COURBETINGlobal_V13.0.3.0.SKQINXM_bdb6ed8c2a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETINGlobal_V13.0.3.0.SKQINXM_bdb6ed8c2a_12.0.zip
+  filename: fw_courbet_miui_COURBETINGlobal_V13.0.3.0.SKQINXM_bdb6ed8c2a_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SKQINXM
+    miui: V13.0.3.0.SKQINXM
 - branch: stable
   date: '2022-04-11'
   downloads:
@@ -2269,15 +2269,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2022-05-01'
+  date: '2022-06-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-02.05.2022/fw_matisse_miui_MATISSE_V13.0.15.0.SLKCNXM_39d491ceb0_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/matisse/fw_matisse_miui_MATISSE_V13.0.15.0.SLKCNXM_39d491ceb0_12.0.zip
-  filename: fw_matisse_miui_MATISSE_V13.0.15.0.SLKCNXM_39d491ceb0_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-06.06.2022/fw_matisse_miui_MATISSE_V13.0.18.0.SLKCNXM_2a880d0905_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/matisse/fw_matisse_miui_MATISSE_V13.0.18.0.SLKCNXM_2a880d0905_12.0.zip
+  filename: fw_matisse_miui_MATISSE_V13.0.18.0.SLKCNXM_2a880d0905_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.15.0.SLKCNXM
+    miui: V13.0.18.0.SLKCNXM
 - branch: stable
   date: '2022-04-02'
   downloads:
@@ -3109,15 +3109,15 @@
     android: '12.0'
     miui: V13.0.2.0.SLDMIXM
 - branch: stable
-  date: '2022-05-02'
+  date: '2022-06-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-02.05.2022/fw_psyche_miui_PSYCHE_V13.0.4.0.SLDCNXM_b659da9358_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHE_V13.0.4.0.SLDCNXM_b659da9358_12.0.zip
-  filename: fw_psyche_miui_PSYCHE_V13.0.4.0.SLDCNXM_b659da9358_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-06.06.2022/fw_psyche_miui_PSYCHE_V13.0.5.0.SLDCNXM_0b5427be43_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHE_V13.0.5.0.SLDCNXM_0b5427be43_12.0.zip
+  filename: fw_psyche_miui_PSYCHE_V13.0.5.0.SLDCNXM_0b5427be43_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SLDCNXM
+    miui: V13.0.5.0.SLDCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
