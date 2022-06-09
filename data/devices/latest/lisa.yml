@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.4.0.SKOMIXM
 - branch: stable
-  date: '2022-03-22'
+  date: '2022-06-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-22.03.2022/fw_lisa_miui_LISA_V13.0.1.0.SKOCNXM_9d72262133_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISA_V13.0.1.0.SKOCNXM_9d72262133_12.0.zip
-  filename: fw_lisa_miui_LISA_V13.0.1.0.SKOCNXM_9d72262133_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-09.06.2022/fw_lisa_miui_LISA_V13.0.2.0.SKOCNXM_f238b2b1b9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISA_V13.0.2.0.SKOCNXM_f238b2b1b9_12.0.zip
+  filename: fw_lisa_miui_LISA_V13.0.2.0.SKOCNXM_f238b2b1b9_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SKOCNXM
+    miui: V13.0.2.0.SKOCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
