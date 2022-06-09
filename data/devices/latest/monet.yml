@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-04-02'
+  date: '2022-06-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-02.04.2022/fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/monet/fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
-  filename: fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-10.06.2022/fw_monet_miui_MONETGlobal_V13.0.3.0.SJIMIXM_eb3a61f8a5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/monet/fw_monet_miui_MONETGlobal_V13.0.3.0.SJIMIXM_eb3a61f8a5_12.0.zip
+  filename: fw_monet_miui_MONETGlobal_V13.0.3.0.SJIMIXM_eb3a61f8a5_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJIMIXM
+    miui: V13.0.3.0.SJIMIXM
 - branch: stable
   date: '2022-05-30'
   downloads:
