@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2022-04-26'
+  date: '2022-06-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-26.04.2022/fw_surya_miui_SURYAGlobal_V12.5.7.0.RJGMIXM_e1c3ff9d45_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.5.7.0.RJGMIXM_e1c3ff9d45_11.0.zip
-  filename: fw_surya_miui_SURYAGlobal_V12.5.7.0.RJGMIXM_e1c3ff9d45_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-10.06.2022/fw_surya_miui_SURYAGlobal_V12.5.8.0.RJGMIXM_e57b4eef74_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.5.8.0.RJGMIXM_e57b4eef74_11.0.zip
+  filename: fw_surya_miui_SURYAGlobal_V12.5.8.0.RJGMIXM_e57b4eef74_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RJGMIXM
+    miui: V12.5.8.0.RJGMIXM
 - branch: stable
-  date: '2022-04-18'
+  date: '2022-06-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-18.04.2022/fw_surya_miui_SURYAEEAGlobal_V12.5.7.0.RJGEUXM_e89a98a56f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.5.7.0.RJGEUXM_e89a98a56f_11.0.zip
-  filename: fw_surya_miui_SURYAEEAGlobal_V12.5.7.0.RJGEUXM_e89a98a56f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-10.06.2022/fw_surya_miui_SURYAEEAGlobal_V12.5.8.0.RJGEUXM_953ee13fb5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.5.8.0.RJGEUXM_953ee13fb5_11.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V12.5.8.0.RJGEUXM_953ee13fb5_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RJGEUXM
+    miui: V12.5.8.0.RJGEUXM
 - branch: stable
   date: '2022-04-30'
   downloads:

@@ -3739,25 +3739,25 @@
     android: '12.0'
     miui: V13.0.3.0.SKAINXM
 - branch: stable
-  date: '2022-04-26'
+  date: '2022-06-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-26.04.2022/fw_surya_miui_SURYAGlobal_V12.5.7.0.RJGMIXM_e1c3ff9d45_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.5.7.0.RJGMIXM_e1c3ff9d45_11.0.zip
-  filename: fw_surya_miui_SURYAGlobal_V12.5.7.0.RJGMIXM_e1c3ff9d45_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-10.06.2022/fw_surya_miui_SURYAGlobal_V12.5.8.0.RJGMIXM_e57b4eef74_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAGlobal_V12.5.8.0.RJGMIXM_e57b4eef74_11.0.zip
+  filename: fw_surya_miui_SURYAGlobal_V12.5.8.0.RJGMIXM_e57b4eef74_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RJGMIXM
+    miui: V12.5.8.0.RJGMIXM
 - branch: stable
-  date: '2022-04-18'
+  date: '2022-06-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-18.04.2022/fw_surya_miui_SURYAEEAGlobal_V12.5.7.0.RJGEUXM_e89a98a56f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.5.7.0.RJGEUXM_e89a98a56f_11.0.zip
-  filename: fw_surya_miui_SURYAEEAGlobal_V12.5.7.0.RJGEUXM_e89a98a56f_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-10.06.2022/fw_surya_miui_SURYAEEAGlobal_V12.5.8.0.RJGEUXM_953ee13fb5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/surya/fw_surya_miui_SURYAEEAGlobal_V12.5.8.0.RJGEUXM_953ee13fb5_11.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V12.5.8.0.RJGEUXM_953ee13fb5_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RJGEUXM
+    miui: V12.5.8.0.RJGEUXM
 - branch: stable
   date: '2022-04-30'
   downloads:
@@ -4419,15 +4419,15 @@
     android: '11.0'
     miui: V12.5.4.0.RCXEUXM
 - branch: stable
-  date: '2022-05-30'
+  date: '2022-06-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-30.05.2022/fw_xaga_miui_XAGA_V13.0.4.0.SLOCNXM_ab373c2cb1_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGA_V13.0.4.0.SLOCNXM_ab373c2cb1_12.0.zip
-  filename: fw_xaga_miui_XAGA_V13.0.4.0.SLOCNXM_ab373c2cb1_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-10.06.2022/fw_xaga_miui_XAGA_V13.0.5.0.SLOCNXM_17f68470fe_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGA_V13.0.5.0.SLOCNXM_17f68470fe_12.0.zip
+  filename: fw_xaga_miui_XAGA_V13.0.5.0.SLOCNXM_17f68470fe_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SLOCNXM
+    miui: V13.0.5.0.SLOCNXM
 - branch: stable
   date: '2020-09-30'
   downloads:
