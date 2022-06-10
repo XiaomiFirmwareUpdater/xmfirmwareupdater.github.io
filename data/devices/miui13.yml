@@ -1835,6 +1835,12 @@
   name: Mi 11 Lite 5G
   version: V13.0.3.0.SKIMIXM
 - android: '12.0'
+  codename: rosemary
+  date: '2022-06-10'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V13.0.6.0.SKLMIXM_63c46433c0_12.0.zip
+  name: Redmi Note 10S
+  version: V13.0.6.0.SKLMIXM
+- android: '12.0'
   codename: rubens
   date: '2022-03-29'
   download: https://bigota.d.miui.com/V13.0.7.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.7.0.SLNCNXM_7b77e2c31c_12.0.zip
