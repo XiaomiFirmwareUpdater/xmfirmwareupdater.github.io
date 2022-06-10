@@ -54,6 +54,10 @@ permalink: /archive/miui/selene/
                 <tbody>
                 <tr><td>Redmi 10 / Redmi 10 2022 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RKUTWXM</td><td>11.0</td><td>2.5 GB</td><td>2022-06-06</td><td><a href="/miui/selene/stable beta/V12.5.6.0.RKUTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.16.0.RKUEUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-06-02</td><td><a href="/miui/selene/stable beta/V12.5.16.0.RKUEUXM/">Download</a></td></tr>
+<tr><td>Redmi 10 / Redmi 10 2022 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKURUXM</td><td>12.0</td><td>2.8 GB</td><td>2022-06-01</td><td><a href="/miui/selene/stable/V13.0.1.0.SKURUXM/">Download</a></td></tr>
+<tr><td>Redmi 10 / Redmi 10 2022 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKURUXM</td><td>12.0</td><td>4.7 GB</td><td>2022-05-24</td><td><a href="/miui/selene/stable/V13.0.1.0.SKURUXM/">Download</a></td></tr>
+<tr><td>Redmi 10 / Redmi 10 2022 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKUTWXM</td><td>12.0</td><td>2.7 GB</td><td>2022-06-01</td><td><a href="/miui/selene/stable/V13.0.1.0.SKUTWXM/">Download</a></td></tr>
+<tr><td>Redmi 10 / Redmi 10 2022 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKUTWXM</td><td>12.0</td><td>4.3 GB</td><td>2022-05-24</td><td><a href="/miui/selene/stable/V13.0.1.0.SKUTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.13.0.RKUIDXM</td><td>11.0</td><td>2.6 GB</td><td>2022-05-23</td><td><a href="/miui/selene/stable/V12.5.13.0.RKUIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.13.0.RKUIDXM</td><td>11.0</td><td>4.6 GB</td><td>2022-04-25</td><td><a href="/miui/selene/stable/V12.5.13.0.RKUIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.12.0.RKURUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-05-23</td><td><a href="/miui/selene/stable/V12.5.12.0.RKURUXM/">Download</a></td></tr>

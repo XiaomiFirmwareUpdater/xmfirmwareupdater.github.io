@@ -2179,15 +2179,15 @@
     android: '12.0'
     miui: V13.0.1.0.SJKMIXM
 - branch: stable
-  date: '2022-03-18'
+  date: '2022-06-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-18.03.2022/fw_lmi_miui_LMI_V13.0.2.0.SJKCNXM_1f2e4d340c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMI_V13.0.2.0.SJKCNXM_1f2e4d340c_12.0.zip
-  filename: fw_lmi_miui_LMI_V13.0.2.0.SJKCNXM_1f2e4d340c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-10.06.2022/fw_lmi_miui_LMI_V13.0.4.0.SJKCNXM_285b75b959_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMI_V13.0.4.0.SJKCNXM_285b75b959_12.0.zip
+  filename: fw_lmi_miui_LMI_V13.0.4.0.SJKCNXM_285b75b959_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJKCNXM
+    miui: V13.0.4.0.SJKCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -2469,15 +2469,15 @@
     android: '11.0'
     miui: V13.0.3.0.RKXMIXM
 - branch: stable
-  date: '2022-04-06'
+  date: '2022-06-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-06.04.2022/fw_nabu_miui_NABU_V13.0.8.0.RKXCNXM_d1a4927e0b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABU_V13.0.8.0.RKXCNXM_d1a4927e0b_11.0.zip
-  filename: fw_nabu_miui_NABU_V13.0.8.0.RKXCNXM_d1a4927e0b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-10.06.2022/fw_nabu_miui_NABU_V13.0.9.0.RKXCNXM_3fa49a036c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABU_V13.0.9.0.RKXCNXM_3fa49a036c_11.0.zip
+  filename: fw_nabu_miui_NABU_V13.0.9.0.RKXCNXM_3fa49a036c_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V13.0.8.0.RKXCNXM
+    miui: V13.0.9.0.RKXCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
