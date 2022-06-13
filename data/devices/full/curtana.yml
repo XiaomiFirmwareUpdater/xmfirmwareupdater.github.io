@@ -449,6 +449,16 @@
     android: '11.0'
     miui: V12.5.1.0.RJWINXM
 - branch: stable
+  date: '2021-11-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-01.11.2021/fw_curtana_miui_CURTANAEEAGlobal_V12.5.2.0.RJWEUXM_22bc84cccd_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/curtana/fw_curtana_miui_CURTANAEEAGlobal_V12.5.2.0.RJWEUXM_22bc84cccd_11.0.zip
+  filename: fw_curtana_miui_CURTANAEEAGlobal_V12.5.2.0.RJWEUXM_22bc84cccd_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RJWEUXM
+- branch: stable
   date: '2020-06-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-01.06.2020/fw_curtana_miui_CURTANAEEAGlobal_V11.0.3.0.QJWEUXM_cab5a22846_10.0.zip
