@@ -54,6 +54,7 @@ permalink: /miui/begonia/
                 <tbody>
                 <tr><td>Redmi Note 8 Pro China</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RGGCNXM</td><td>11.0</td><td>4.0 GB</td><td>2021-12-30</td><td><a href="/miui/begonia/stable/V12.5.4.0.RGGCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro China</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RGGCNXM</td><td>11.0</td><td>2.5 GB</td><td>2022-01-11</td><td><a href="/miui/begonia/stable/V12.5.4.0.RGGCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RGGCNXM</td><td>11.0</td><td>2.5 GB</td><td>2022-06-13</td><td><a href="/miui/begonia/stable beta/V12.5.6.0.RGGCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro China</td><td>Weekly</td><td>Recovery</td><td>21.11.24</td><td>11.0</td><td>2.5 GB</td><td>2021-11-25</td><td><a href="/miui/begonia/weekly/21.11.24/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RGGEUXM</td><td>11.0</td><td>4.5 GB</td><td>2022-01-12</td><td><a href="/miui/begonia/stable/V12.5.6.0.RGGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RGGEUXM</td><td>11.0</td><td>2.4 GB</td><td>2022-01-18</td><td><a href="/miui/begonia/stable/V12.5.6.0.RGGEUXM/">Download</a></td></tr>
