@@ -209,6 +209,26 @@
     android: '8.0'
     miui: 8.5.24
 - branch: weekly
+  date: '2018-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lithium/releases/download/untagged-9b36432825c81d35fc2a/fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAHMIFA/lithium/fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip
+  filename: fw_lithium_miui_MIMIXGlobal_V9.5.2.0.NAHMIFA_a18f75ba49_7.0.zip
+  region: Global
+  versions:
+    android: '7.0'
+    miui: V9.5.2.0.NAHMIFA
+- branch: weekly
+  date: '2018-05-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lithium/releases/download/untagged-9b36432825c81d35fc2a/fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.2.0.NAHCNFA/lithium/fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip
+  filename: fw_lithium_miui_MIMIX_V9.5.2.0.NAHCNFA_f1c1c434d7_7.0.zip
+  region: China
+  versions:
+    android: '7.0'
+    miui: V9.5.2.0.NAHCNFA
+- branch: weekly
   date: '2018-05-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lithium/releases/download/untagged-3382d09c055c7bb676a0/fw_lithium_miui_MIMIX_8.5.10_a204ab382a_8.0.zip
