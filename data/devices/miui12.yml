@@ -7080,12 +7080,6 @@
   version: 20.6.4
 - android: '11.0'
   codename: vangogh
-  date: '2020-12-03'
-  download: https://bigota.d.miui.com/20.12.2/miui_VANGOGH_20.12.2_e215cefded_11.0.zip
-  name: Mi 10 Lite Zoom
-  version: 20.12.2
-- android: '11.0'
-  codename: vangogh
   date: '2021-06-03'
   download: https://bigota.d.miui.com/21.6.2/miui_VANGOGH_21.6.2_65444daf4b_11.0.zip
   name: Mi 10 Lite Zoom
