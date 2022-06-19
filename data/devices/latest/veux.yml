@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-05-23'
+  date: '2022-06-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-23.05.2022/fw_veux_miui_VEUXGlobal_V13.0.13.0.RKCMIXM_e6653894a7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXGlobal_V13.0.13.0.RKCMIXM_e6653894a7_11.0.zip
-  filename: fw_veux_miui_VEUXGlobal_V13.0.13.0.RKCMIXM_e6653894a7_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-19.06.2022/fw_veux_miui_VEUXGlobal_V13.0.14.0.RKCMIXM_cb9ffa7184_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXGlobal_V13.0.14.0.RKCMIXM_cb9ffa7184_11.0.zip
+  filename: fw_veux_miui_VEUXGlobal_V13.0.14.0.RKCMIXM_cb9ffa7184_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V13.0.13.0.RKCMIXM
+    miui: V13.0.14.0.RKCMIXM
 - branch: stable
   date: '2022-05-23'
   downloads:

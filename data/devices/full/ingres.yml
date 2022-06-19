@@ -49,6 +49,16 @@
     android: '12.0'
     miui: V13.0.3.0.SLJCNXM
 - branch: stable
+  date: '2022-06-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-19.06.2022/fw_ingres_miui_INGRESEEAGlobal_V13.0.6.0.SLJEUXM_4b49039117_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRESEEAGlobal_V13.0.6.0.SLJEUXM_4b49039117_12.0.zip
+  filename: fw_ingres_miui_INGRESEEAGlobal_V13.0.6.0.SLJEUXM_4b49039117_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SLJEUXM
+- branch: stable
   date: '2022-02-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-17.02.2022/fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip

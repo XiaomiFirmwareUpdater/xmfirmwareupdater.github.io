@@ -29,15 +29,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-05-26'
+  date: '2022-06-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-26.05.2022/fw_apollo_miui_APOLLOEEAGlobal_V13.0.6.0.SJDEUXM_7571b40647_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLOEEAGlobal_V13.0.6.0.SJDEUXM_7571b40647_12.0.zip
-  filename: fw_apollo_miui_APOLLOEEAGlobal_V13.0.6.0.SJDEUXM_7571b40647_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-19.06.2022/fw_apollo_miui_APOLLOEEAGlobal_V13.0.7.0.SJDEUXM_2a2bc6507f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLOEEAGlobal_V13.0.7.0.SJDEUXM_2a2bc6507f_12.0.zip
+  filename: fw_apollo_miui_APOLLOEEAGlobal_V13.0.7.0.SJDEUXM_2a2bc6507f_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SJDEUXM
+    miui: V13.0.7.0.SJDEUXM
 - branch: stable
   date: '2022-05-24'
   downloads:
