@@ -1356,6 +1356,12 @@
   version: V13.0.13.0.SLKCNXM
 - android: '12.0'
   codename: matisse
+  date: '2022-06-20'
+  download: https://bigota.d.miui.com/V13.0.20.0.SLKCNXM/fw_matisse_miui_MATISSE_V13.0.20.0.SLKCNXM_42062c5d07_12.0.zip
+  name: Redmi K50 Pro
+  version: V13.0.20.0.SLKCNXM
+- android: '12.0'
+  codename: matisse
   date: '2022-03-21'
   download: https://bigota.d.miui.com/V13.0.4.0.SLKCNXM/fw_matisse_miui_MATISSE_V13.0.4.0.SLKCNXM_eb66ac74bb_12.0.zip
   name: Redmi K50 Pro
