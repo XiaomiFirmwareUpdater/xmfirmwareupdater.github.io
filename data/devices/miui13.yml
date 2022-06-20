@@ -624,6 +624,12 @@
   version: V13.0.4.0.SJACNXM
 - android: '12.0'
   codename: courbet
+  date: '2022-06-20'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKQEUXM/fw_courbet_miui_COURBETEEAGlobal_V13.0.5.0.SKQEUXM_c7b142a6a9_12.0.zip
+  name: Mi 11 Lite 4G
+  version: V13.0.5.0.SKQEUXM
+- android: '12.0'
+  codename: courbet
   date: '2022-06-19'
   download: https://bigota.d.miui.com/V13.0.8.0.SKQMIXM/fw_courbet_miui_COURBETGlobal_V13.0.8.0.SKQMIXM_1dc23745d5_12.0.zip
   name: Mi 11 Lite 4G
@@ -1236,6 +1242,12 @@
   version: V13.0.1.0.SKOCNXM
 - android: '12.0'
   codename: lisa
+  date: '2022-06-20'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKOINXM/fw_lisa_miui_LISAINGlobal_V13.0.6.0.SKOINXM_29eb4e561c_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.6.0.SKOINXM
+- android: '12.0'
+  codename: lisa
   date: '2022-04-19'
   download: https://bigota.d.miui.com/V13.0.8.0.SKOEUXM/fw_lisa_miui_LISAEEAGlobal_V13.0.8.0.SKOEUXM_7ba9890b2d_12.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -1474,6 +1486,12 @@
   download: https://bigota.d.miui.com/V13.0.7.0.SLMCNXM/fw_munch_miui_MUNCH_V13.0.7.0.SLMCNXM_4d8e90d2c3_12.0.zip
   name: Redmi K40S/POCO F4
   version: V13.0.7.0.SLMCNXM
+- android: '12.0'
+  codename: munch
+  date: '2022-06-20'
+  download: https://bigota.d.miui.com/V13.0.3.0.SLMINXM/fw_munch_miui_MUNCHINGlobal_V13.0.3.0.SLMINXM_2be3861324_12.0.zip
+  name: Redmi K40S/POCO F4
+  version: V13.0.3.0.SLMINXM
 - android: '12.0'
   codename: munch
   date: '2022-05-13'
@@ -2668,6 +2686,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.RGDMIXM/fw_viva_miui_VIVAGlobal_V13.0.3.0.RGDMIXM_697137a809_11.0.zip
   name: Redmi Note 11 Pro 4G
   version: V13.0.3.0.RGDMIXM
+- android: '11.0'
+  codename: viva
+  date: '2022-06-20'
+  download: https://bigota.d.miui.com/V13.0.11.0.RGDMIXM/fw_viva_miui_VIVAGlobal_V13.0.11.0.RGDMIXM_7615f9e016_11.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V13.0.11.0.RGDMIXM
 - android: '11.0'
   codename: viva
   date: '2022-05-20'
