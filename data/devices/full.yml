@@ -2709,16 +2709,6 @@
     android: '10.0'
     miui: V12.0.12.0.QJDCNXM
 - branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-03.02.2021/fw_apollo_miui_APOLLOINGlobal_V12.1.1.0.RJDINXM_6d2eef982b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOINGlobal_V12.1.1.0.RJDINXM_6d2eef982b_11.0.zip
-  filename: fw_apollo_miui_APOLLOINGlobal_V12.1.1.0.RJDINXM_6d2eef982b_11.0.zip
-  region: India
-  versions:
-    android: '11.0'
-    miui: V12.1.1.0.RJDINXM
-- branch: stable
   date: '2022-06-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-02.06.2022/fw_apollo_miui_APOLLO_V13.0.5.0.SJDCNXM_efb1ee6473_12.0.zip
@@ -27268,6 +27258,16 @@
   versions:
     android: '11.0'
     miui: V12.5.2.0.RJQEUXM
+- branch: stable
+  date: '2022-06-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-22.06.2022/fw_lime_miui_LIMEEEAGlobal_V12.5.8.0.RJQEUXM_53f5232f23_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.5.8.0.RJQEUXM_53f5232f23_11.0.zip
+  filename: fw_lime_miui_LIMEEEAGlobal_V12.5.8.0.RJQEUXM_53f5232f23_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RJQEUXM
 - branch: stable
   date: '2022-01-21'
   downloads:
