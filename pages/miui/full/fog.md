@@ -52,7 +52,9 @@ permalink: /archive/miui/fog/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10C Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.8.0.RGEMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-05-31</td><td><a href="/miui/fog/stable beta/V13.0.8.0.RGEMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 10C Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.10.0.RGEMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-06-21</td><td><a href="/miui/fog/stable beta/V13.0.10.0.RGEMIXM/">Download</a></td></tr>
+<tr><td>Redmi 10C Global</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.RGEMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-05-31</td><td><a href="/miui/fog/stable/V13.0.8.0.RGEMIXM/">Download</a></td></tr>
+<tr><td>Redmi 10C Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.RGEMIXM</td><td>11.0</td><td>5.3 GB</td><td>2022-05-26</td><td><a href="/miui/fog/stable/V13.0.8.0.RGEMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.RGETWXM</td><td>11.0</td><td>2.5 GB</td><td>2022-05-16</td><td><a href="/miui/fog/stable/V13.0.3.0.RGETWXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.RGETWXM</td><td>11.0</td><td>4.0 GB</td><td>2022-05-05</td><td><a href="/miui/fog/stable/V13.0.3.0.RGETWXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.RGERUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-05-12</td><td><a href="/miui/fog/stable/V13.0.4.0.RGERUXM/">Download</a></td></tr>
