@@ -1176,6 +1176,12 @@
   version: V13.0.3.0.SLSCNXM
 - android: '12.0'
   codename: light
+  date: '2022-06-22'
+  download: https://bigota.d.miui.com/V13.0.7.0.SLSCNXM/fw_light_miui_LIGHT_V13.0.7.0.SLSCNXM_592940674a_12.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G
+  version: V13.0.7.0.SLSCNXM
+- android: '12.0'
+  codename: light
   date: '2022-04-21'
   download: https://bigota.d.miui.com/V13.0.6.0.SLSCNXM/fw_light_miui_LIGHT_V13.0.6.0.SLSCNXM_c5763af428_12.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G
@@ -2590,6 +2596,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.RKCCNXM/fw_veux_miui_VEUX_V13.0.6.0.RKCCNXM_dd1f4eeefe_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: V13.0.6.0.RKCCNXM
+- android: '11.0'
+  codename: veux
+  date: '2022-06-22'
+  download: https://bigota.d.miui.com/V13.0.7.0.RKCCNXM/fw_veux_miui_VEUX_V13.0.7.0.RKCCNXM_060a64dc48_11.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V13.0.7.0.RKCCNXM
 - android: '11.0'
   codename: veux
   date: '2022-06-19'
