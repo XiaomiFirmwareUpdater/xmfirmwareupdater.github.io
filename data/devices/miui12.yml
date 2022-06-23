@@ -180,22 +180,10 @@
   version: 21.4.28
 - android: '11.0'
   codename: apollo
-  date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.1.28/miui_APOLLO_21.1.28_82176e6cbf_11.0.zip
-  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
-  version: 21.1.28
-- android: '11.0'
-  codename: apollo
   date: '2021-05-27'
   download: https://bigota.d.miui.com/21.5.27/miui_APOLLO_21.5.27_31a1b7b2f0_11.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
   version: 21.5.27
-- android: '11.0'
-  codename: apollo
-  date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.3.24/miui_APOLLO_21.3.24_5143fdccf2_11.0.zip
-  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
-  version: 21.3.24
 - android: '10.0'
   codename: apollo
   date: '2020-11-26'
@@ -264,12 +252,6 @@
   version: 21.3.17
 - android: '11.0'
   codename: apollo
-  date: '2021-10-16'
-  download: https://bigota.d.miui.com/21.10.13/miui_APOLLO_21.10.13_0a11e8b3bc_11.0.zip
-  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
-  version: 21.10.13
-- android: '11.0'
-  codename: apollo
   date: '2021-09-16'
   download: https://bigota.d.miui.com/21.9.15/miui_APOLLO_21.9.15_b95e3ece11_11.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
@@ -330,12 +312,6 @@
   version: 21.6.9
 - android: '11.0'
   codename: apollo
-  date: '2021-09-09'
-  download: https://bigota.d.miui.com/21.9.8/miui_APOLLO_21.9.8_1d7db1c1f3_11.0.zip
-  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
-  version: 21.9.8
-- android: '11.0'
-  codename: apollo
   date: '2021-04-18'
   download: https://bigota.d.miui.com/21.4.8/miui_APOLLO_21.4.8_0e4504aae8_11.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
@@ -388,12 +364,6 @@
   download: https://bigota.d.miui.com/21.6.2/miui_APOLLO_21.6.2_c56f6da96b_11.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
   version: 21.6.2
-- android: '11.0'
-  codename: apollo
-  date: '2021-10-02'
-  download: https://bigota.d.miui.com/21.9.28/miui_APOLLO_21.9.28_5a46cb28ae_11.0.zip
-  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
-  version: 21.9.28
 - android: '11.0'
   codename: apollo
   date: '2021-07-02'
