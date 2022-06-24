@@ -52,7 +52,11 @@ permalink: /archive/miui/angelica/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.18.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-06-13</td><td><a href="/miui/angelicain/stable beta/V12.0.18.0.QCRINXM/">Download</a></td></tr>
+                <tr><td>Redmi 9C Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.22.0.QCRMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-06-22</td><td><a href="/miui/angelica/stable beta/V12.0.22.0.QCRMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.14.0.QCSRUXM</td><td>10.0</td><td>1.8 GB</td><td>2022-06-22</td><td><a href="/miui/angelican/stable beta/V12.0.14.0.QCSRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.13.0.QCSMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-06-22</td><td><a href="/miui/angelican/stable beta/V12.0.13.0.QCSMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.13.0.QCRIDXM</td><td>10.0</td><td>1.8 GB</td><td>2022-06-21</td><td><a href="/miui/angelica/stable beta/V12.0.13.0.QCRIDXM/">Download</a></td></tr>
+<tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.18.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-06-13</td><td><a href="/miui/angelicain/stable beta/V12.0.18.0.QCRINXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.13.0.QCREUXM</td><td>10.0</td><td>1.8 GB</td><td>2022-05-25</td><td><a href="/miui/angelica/stable/V12.0.13.0.QCREUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.13.0.QCREUXM</td><td>10.0</td><td>4.1 GB</td><td>2022-05-21</td><td><a href="/miui/angelica/stable/V12.0.13.0.QCREUXM/">Download</a></td></tr>
 <tr><td>POCO C31 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.0.QCRINRF</td><td>10.0</td><td>1.8 GB</td><td>2022-04-26</td><td><a href="/miui/angelicain/stable beta/V12.0.6.0.QCRINRF/">Download</a></td></tr>

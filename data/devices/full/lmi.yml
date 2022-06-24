@@ -769,6 +769,16 @@
     android: '10.0'
     miui: V12.0.1.0.QJKMIXM
 - branch: stable
+  date: '2022-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-24.06.2022/fw_lmi_miui_LMIEEAGlobal_V13.0.4.0.SJKEUXM_89d1ae49ac_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMIEEAGlobal_V13.0.4.0.SJKEUXM_89d1ae49ac_12.0.zip
+  filename: fw_lmi_miui_LMIEEAGlobal_V13.0.4.0.SJKEUXM_89d1ae49ac_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SJKEUXM
+- branch: stable
   date: '2022-02-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-23.02.2022/fw_lmi_miui_LMIEEAGlobal_V12.5.5.0.RJKEUXM_e892bc19f0_11.0.zip
