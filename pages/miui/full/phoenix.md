@@ -52,7 +52,8 @@ permalink: /archive/miui/phoenix/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 4G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.39.DEV</td><td>12.0</td><td>4.2 GB</td><td>2022-06-17</td><td><a href="/miui/phoenix/public beta/V13.0.2.1.39.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K30 4G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.40.DEV</td><td>12.0</td><td>4.2 GB</td><td>2022-06-24</td><td><a href="/miui/phoenix/public beta/V13.0.2.1.40.DEV/">Download</a></td></tr>
+<tr><td>Redmi K30 4G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.39.DEV</td><td>12.0</td><td>4.2 GB</td><td>2022-06-17</td><td><a href="/miui/phoenix/public beta/V13.0.2.1.39.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.37.DEV</td><td>12.0</td><td>4.1 GB</td><td>2022-06-10</td><td><a href="/miui/phoenix/public beta/V13.0.2.1.37.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.35.DEV</td><td>12.0</td><td>4.1 GB</td><td>2022-05-27</td><td><a href="/miui/phoenix/public beta/V13.0.2.1.35.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SGHCNXM</td><td>12.0</td><td>4.2 GB</td><td>2022-05-24</td><td><a href="/miui/phoenix/stable beta/V13.0.3.0.SGHCNXM/">Download</a></td></tr>

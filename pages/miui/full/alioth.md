@@ -52,7 +52,8 @@ permalink: /archive/miui/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.39.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-06-17</td><td><a href="/miui/alioth/public beta/V13.0.6.1.39.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K40 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.40.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-06-24</td><td><a href="/miui/alioth/public beta/V13.0.6.1.40.DEV/">Download</a></td></tr>
+<tr><td>Redmi K40 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.39.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-06-17</td><td><a href="/miui/alioth/public beta/V13.0.6.1.39.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SKHCNXM</td><td>12.0</td><td>4.5 GB</td><td>2022-06-12</td><td><a href="/miui/alioth/stable beta/V13.0.6.0.SKHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.37.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-06-10</td><td><a href="/miui/alioth/public beta/V13.0.6.1.37.DEV/">Download</a></td></tr>
 <tr><td>POCO F3 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKHRUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-05-24</td><td><a href="/miui/alioth/stable/V13.0.2.0.SKHRUXM/">Download</a></td></tr>
