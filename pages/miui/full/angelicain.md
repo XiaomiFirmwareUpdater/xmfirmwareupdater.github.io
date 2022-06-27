@@ -52,8 +52,10 @@ permalink: /archive/miui/angelicain/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.18.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-06-13</td><td><a href="/miui/angelicain/stable beta/V12.0.18.0.QCRINXM/">Download</a></td></tr>
-<tr><td>POCO C31 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.0.QCRINRF</td><td>10.0</td><td>1.8 GB</td><td>2022-04-26</td><td><a href="/miui/angelicain/stable beta/V12.0.6.0.QCRINRF/">Download</a></td></tr>
+                <tr><td>POCO C31 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.7.0.QCRINRF</td><td>10.0</td><td>1.8 GB</td><td>2022-06-24</td><td><a href="/miui/angelicain/stable beta/V12.0.7.0.QCRINRF/">Download</a></td></tr>
+<tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.18.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-06-13</td><td><a href="/miui/angelicain/stable beta/V12.0.18.0.QCRINXM/">Download</a></td></tr>
+<tr><td>POCO C31 India</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QCRINRF</td><td>10.0</td><td>1.8 GB</td><td>2022-04-26</td><td><a href="/miui/angelicain/stable/V12.0.6.0.QCRINRF/">Download</a></td></tr>
+<tr><td>POCO C31 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QCRINRF</td><td>10.0</td><td>2.5 GB</td><td>2022-04-23</td><td><a href="/miui/angelicain/stable/V12.0.6.0.QCRINRF/">Download</a></td></tr>
 <tr><td>POCO C3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.17.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-03-10</td><td><a href="/miui/angelicain/stable/V12.0.17.0.QCRINXM/">Download</a></td></tr>
 <tr><td>POCO C3 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.17.0.QCRINXM</td><td>10.0</td><td>2.4 GB</td><td>2022-03-04</td><td><a href="/miui/angelicain/stable/V12.0.17.0.QCRINXM/">Download</a></td></tr>
 <tr><td>POCO C31 India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QCRINRF</td><td>10.0</td><td>1.8 GB</td><td>2022-02-17</td><td><a href="/miui/angelicain/stable/V12.0.4.0.QCRINRF/">Download</a></td></tr>

@@ -739,6 +739,16 @@
     android: '11.0'
     miui: V12.2.1.0.RJKMIXM
 - branch: stable
+  date: '2022-06-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-27.06.2022/fw_lmi_miui_LMIGlobal_V13.0.3.0.SJKMIXM_64150c60e8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMIGlobal_V13.0.3.0.SJKMIXM_64150c60e8_12.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V13.0.3.0.SJKMIXM_64150c60e8_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SJKMIXM
+- branch: stable
   date: '2021-11-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-26.11.2021/fw_lmi_miui_LMIEEAGlobal_V12.5.4.0.RJKEUXM_9e4ff6f198_11.0.zip
