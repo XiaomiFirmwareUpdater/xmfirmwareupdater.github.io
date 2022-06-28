@@ -439,6 +439,16 @@
     android: '11.0'
     miui: V12.1.7.0.RJVCNXM
 - branch: stable
+  date: '2022-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-28.06.2022/fw_vangogh_miui_VANGOGH_V13.0.4.0.SJVCNXM_633d4b3f95_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vangogh/fw_vangogh_miui_VANGOGH_V13.0.4.0.SJVCNXM_633d4b3f95_12.0.zip
+  filename: fw_vangogh_miui_VANGOGH_V13.0.4.0.SJVCNXM_633d4b3f95_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SJVCNXM
+- branch: stable
   date: '2022-03-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-26.03.2022/fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
