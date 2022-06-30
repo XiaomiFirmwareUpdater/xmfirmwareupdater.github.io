@@ -52,11 +52,11 @@ permalink: /miui/cezanne/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V12.5.11.0.RJNCNXM</td><td>11.0</td><td>4.8 GB</td><td>2022-03-01</td><td><a href="/miui/cezanne/stable/V12.5.11.0.RJNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.5.11.0.RJNCNXM</td><td>11.0</td><td>3.5 GB</td><td>2022-03-10</td><td><a href="/miui/cezanne/stable/V12.5.11.0.RJNCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJNCNXM</td><td>12.0</td><td>5.8 GB</td><td>2022-06-12</td><td><a href="/miui/cezanne/stable/V13.0.1.0.SJNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJNCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-06-17</td><td><a href="/miui/cezanne/stable beta/V13.0.1.0.SJNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Fastboot</td><td>20.9.8</td><td>10.0</td><td>4.2 GB</td><td>2020-09-08</td><td><a href="/miui/cezanne/weekly/20.9.8/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.40.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-06-24</td><td><a href="/miui/cezanne/public beta/V13.0.1.1.40.DEV/">Download</a></td></tr>
-<tr><td>Redmi K30 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJNCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-06-17</td><td><a href="/miui/cezanne/stable beta/V13.0.1.0.SJNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.5.11.0.RJNCNXM</td><td>11.0</td><td>3.5 GB</td><td>2022-03-10</td><td><a href="/miui/cezanne/stable/V12.5.11.0.RJNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>22.3.2</td><td>11.0</td><td>4.1 GB</td><td>2022-03-03</td><td><a href="/miui/cezanne/weekly/22.3.2/">Download</a></td></tr>
 
                 </tbody>
