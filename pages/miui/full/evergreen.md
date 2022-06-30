@@ -52,7 +52,8 @@ permalink: /archive/miui/evergreen/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO M4 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RGBMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-06-22</td><td><a href="/miui/evergreen/stable/V12.5.9.0.RGBMIXM/">Download</a></td></tr>
+                <tr><td>POCO M4 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SGBMIXM</td><td>12.0</td><td>3.1 GB</td><td>2022-06-27</td><td><a href="/miui/evergreen/stable beta/V13.0.2.0.SGBMIXM/">Download</a></td></tr>
+<tr><td>POCO M4 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RGBMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-06-22</td><td><a href="/miui/evergreen/stable/V12.5.9.0.RGBMIXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.9.0.RGBMIXM</td><td>11.0</td><td>5.4 GB</td><td>2022-06-16</td><td><a href="/miui/evergreen/stable/V12.5.9.0.RGBMIXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RGBTRXM</td><td>11.0</td><td>4.5 GB</td><td>2022-04-24</td><td><a href="/miui/evergreen/stable/V12.5.5.0.RGBTRXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RGBTRXM</td><td>11.0</td><td>2.6 GB</td><td>2022-04-24</td><td><a href="/miui/evergreen/stable/V12.5.5.0.RGBTRXM/">Download</a></td></tr>
