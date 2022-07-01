@@ -52,7 +52,8 @@ permalink: /archive/miui/cmi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.40.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-06-24</td><td><a href="/miui/cmi/public beta/V13.0.4.1.40.DEV/">Download</a></td></tr>
+                <tr><td>Mi 10 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.43.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-07-01</td><td><a href="/miui/cmi/public beta/V13.0.4.1.43.DEV/">Download</a></td></tr>
+<tr><td>Mi 10 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.40.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-06-24</td><td><a href="/miui/cmi/public beta/V13.0.4.1.40.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.39.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-06-17</td><td><a href="/miui/cmi/public beta/V13.0.4.1.39.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.37.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-06-10</td><td><a href="/miui/cmi/public beta/V13.0.4.1.37.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJAEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-06-09</td><td><a href="/miui/cmi/stable/V13.0.3.0.SJAEUXM/">Download</a></td></tr>
@@ -77,9 +78,9 @@ permalink: /archive/miui/cmi/
 <tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>22.3.3</td><td>12.0</td><td>4.9 GB</td><td>2022-03-03</td><td><a href="/miui/cmi/weekly/22.3.3/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.11.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-02-25</td><td><a href="/miui/cmi/public beta/V13.0.1.1.11.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>22.2.23</td><td>12.0</td><td>4.9 GB</td><td>2022-02-24</td><td><a href="/miui/cmi/weekly/22.2.23/">Download</a></td></tr>
-<tr><td>Mi 10 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.9.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-02-18</td><td><a href="/miui/cmi/public beta/V13.0.1.1.9.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJACNXM</td><td>12.0</td><td>4.7 GB</td><td>2022-03-17</td><td><a href="/miui/cmi/stable/V13.0.3.0.SJACNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJACNXM</td><td>12.0</td><td>5.4 GB</td><td>2022-03-09</td><td><a href="/miui/cmi/stable/V13.0.3.0.SJACNXM/">Download</a></td></tr>
+<tr><td>Mi 10 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.9.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-02-18</td><td><a href="/miui/cmi/public beta/V13.0.1.1.9.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>22.2.16</td><td>12.0</td><td>4.8 GB</td><td>2022-02-16</td><td><a href="/miui/cmi/weekly/22.2.16/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.0.1.7.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-02-11</td><td><a href="/miui/cmi/public beta/V13.0.0.1.7.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Pro China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>4.8 GB</td><td>2022-02-10</td><td><a href="/miui/cmi/weekly/22.2.9/">Download</a></td></tr>
