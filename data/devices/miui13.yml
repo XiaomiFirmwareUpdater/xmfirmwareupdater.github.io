@@ -497,6 +497,12 @@
   name: Redmi K30 Ultra
   version: V13.0.1.0.SJNCNXM
 - android: '12.0'
+  codename: cezanne
+  date: '2022-07-06'
+  download: https://bigota.d.miui.com/V13.0.2.0.SJNCNXM/fw_cezanne_miui_CEZANNE_V13.0.2.0.SJNCNXM_3842b0be60_12.0.zip
+  name: Redmi K30 Ultra
+  version: V13.0.2.0.SJNCNXM
+- android: '12.0'
   codename: chopin
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_chopin_miui_CHOPINPRE_22.3.23_cf453f3483_12.0.zip
