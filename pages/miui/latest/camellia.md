@@ -75,6 +75,7 @@ permalink: /miui/camellia/
 <tr><td>Redmi Note 10 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKSTRXM</td><td>11.0</td><td>2.5 GB</td><td>2022-04-07</td><td><a href="/miui/camellian/stable/V12.5.3.0.RKSTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKSTWXM</td><td>11.0</td><td>4.0 GB</td><td>2022-04-24</td><td><a href="/miui/camellian/stable/V12.5.4.0.RKSTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RKSTWXM</td><td>11.0</td><td>2.4 GB</td><td>2022-04-29</td><td><a href="/miui/camellian/stable/V12.5.4.0.RKSTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKSTWXM</td><td>12.0</td><td>3.0 GB</td><td>2022-06-30</td><td><a href="/miui/camellian/stable beta/V13.0.1.0.SKSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

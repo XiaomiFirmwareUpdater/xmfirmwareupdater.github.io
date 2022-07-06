@@ -19,22 +19,22 @@
     android: '11.0'
     miui: V13.0.7.0.RKCCNXM
 - branch: stable
-  date: '2022-04-15'
+  date: '2022-07-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-15.04.2022/fw_veux_miui_VEUXEEAGlobal_V13.0.6.0.RKCEUXM_1447a97bb8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXEEAGlobal_V13.0.6.0.RKCEUXM_1447a97bb8_11.0.zip
-  filename: fw_veux_miui_VEUXEEAGlobal_V13.0.6.0.RKCEUXM_1447a97bb8_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-04.07.2022/fw_veux_miui_VEUXEEAGlobal_V13.0.8.0.RKCEUXM_18a5c18ebb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXEEAGlobal_V13.0.8.0.RKCEUXM_18a5c18ebb_11.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_V13.0.8.0.RKCEUXM_18a5c18ebb_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V13.0.6.0.RKCEUXM
+    miui: V13.0.8.0.RKCEUXM
 - branch: stable
-  date: '2022-04-11'
+  date: '2022-07-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-11.04.2022/fw_veux_miui_VEUXINGlobal_V13.0.4.0.RKCINXM_312cd78931_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXINGlobal_V13.0.4.0.RKCINXM_312cd78931_11.0.zip
-  filename: fw_veux_miui_VEUXINGlobal_V13.0.4.0.RKCINXM_312cd78931_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-05.07.2022/fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V13.0.4.0.RKCINXM
+    miui: V13.0.6.0.RKCINXM

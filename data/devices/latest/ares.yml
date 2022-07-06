@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-05-19'
+  date: '2022-07-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-19.05.2022/fw_ares_miui_ARES_V13.0.7.0.SKJCNXM_48ffec74d8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ares/fw_ares_miui_ARES_V13.0.7.0.SKJCNXM_48ffec74d8_12.0.zip
-  filename: fw_ares_miui_ARES_V13.0.7.0.SKJCNXM_48ffec74d8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-04.07.2022/fw_ares_miui_ARES_V13.0.8.0.SKJCNXM_962a604fb3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ares/fw_ares_miui_ARES_V13.0.8.0.SKJCNXM_962a604fb3_12.0.zip
+  filename: fw_ares_miui_ARES_V13.0.8.0.SKJCNXM_962a604fb3_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SKJCNXM
+    miui: V13.0.8.0.SKJCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

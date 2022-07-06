@@ -3289,6 +3289,16 @@
     android: '11.0'
     miui: V12.5.8.0.RKJCNXM
 - branch: stable
+  date: '2022-07-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-04.07.2022/fw_ares_miui_ARES_V13.0.8.0.SKJCNXM_962a604fb3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ares/fw_ares_miui_ARES_V13.0.8.0.SKJCNXM_962a604fb3_12.0.zip
+  filename: fw_ares_miui_ARES_V13.0.8.0.SKJCNXM_962a604fb3_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SKJCNXM
+- branch: stable
   date: '2022-03-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-04.03.2022/fw_ares_miui_ARES_V13.0.3.0.SKJCNXM_45927a602a_12.0.zip
@@ -19568,6 +19578,16 @@
   versions:
     android: '11.0'
     miui: V13.0.8.0.RGEMIXM
+- branch: stable
+  date: '2022-07-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-04.07.2022/fw_frost_miui_FROSTGlobal_V13.0.7.0.RGFMIXM_c49bad625d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTGlobal_V13.0.7.0.RGFMIXM_c49bad625d_11.0.zip
+  filename: fw_frost_miui_FROSTGlobal_V13.0.7.0.RGFMIXM_c49bad625d_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V13.0.7.0.RGFMIXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -29738,6 +29758,26 @@
   versions:
     android: '12.0'
     miui: V13.0.15.0.SLKCNXM
+- branch: stable
+  date: '2022-07-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-06.07.2022/fw_mayfly_miui_MAYFLY_V13.0.8.0.SLTCNXM_71719fe7f6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mayfly/fw_mayfly_miui_MAYFLY_V13.0.8.0.SLTCNXM_71719fe7f6_12.0.zip
+  filename: fw_mayfly_miui_MAYFLY_V13.0.8.0.SLTCNXM_71719fe7f6_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SLTCNXM
+- branch: stable
+  date: '2022-07-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-05.07.2022/fw_mayfly_miui_MAYFLY_V13.0.6.0.SLTCNXM_28abc4932e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mayfly/fw_mayfly_miui_MAYFLY_V13.0.6.0.SLTCNXM_28abc4932e_12.0.zip
+  filename: fw_mayfly_miui_MAYFLY_V13.0.6.0.SLTCNXM_28abc4932e_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SLTCNXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -41609,6 +41649,16 @@
     android: '12.0'
     miui: V13.0.5.0.SKIEUXM
 - branch: stable
+  date: '2022-07-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-04.07.2022/fw_renoir_miui_RENOIRGlobal_V13.0.6.0.SKIMIXM_4a715c3ae4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/renoir/fw_renoir_miui_RENOIRGlobal_V13.0.6.0.SKIMIXM_4a715c3ae4_12.0.zip
+  filename: fw_renoir_miui_RENOIRGlobal_V13.0.6.0.SKIMIXM_4a715c3ae4_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SKIMIXM
+- branch: stable
   date: '2022-03-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-04.03.2022/fw_renoir_miui_RENOIRGlobal_V13.0.3.0.SKIMIXM_b771addef2_12.0.zip
@@ -46498,6 +46548,16 @@
   versions:
     android: '11.0'
     miui: V12.5.2.0.RKFINXM
+- branch: stable
+  date: '2022-07-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-05.07.2022/fw_thor_miui_THOR_V13.0.1.0.SLACNXM_3ca280a1ea_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thor/fw_thor_miui_THOR_V13.0.1.0.SLACNXM_3ca280a1ea_12.0.zip
+  filename: fw_thor_miui_THOR_V13.0.1.0.SLACNXM_3ca280a1ea_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SLACNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -53299,6 +53359,26 @@
     android: '11.0'
     miui: V13.0.9.0.RKCMIXM
 - branch: stable
+  date: '2022-07-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-05.07.2022/fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V13.0.6.0.RKCINXM
+- branch: stable
+  date: '2022-07-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-04.07.2022/fw_veux_miui_VEUXEEAGlobal_V13.0.8.0.RKCEUXM_18a5c18ebb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXEEAGlobal_V13.0.8.0.RKCEUXM_18a5c18ebb_11.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_V13.0.8.0.RKCEUXM_18a5c18ebb_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.8.0.RKCEUXM
+- branch: stable
   date: '2021-09-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-26.09.2021/fw_vili_miui_VILIEEAGlobal_V12.5.10.0.RKDEUXM_292781bf88_11.0.zip
@@ -53468,6 +53548,16 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RKDMIXM
+- branch: stable
+  date: '2022-07-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-04.07.2022/fw_vili_miui_VILIEEAGlobal_V13.0.13.0.SKDEUXM_e496d27daf_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vili/fw_vili_miui_VILIEEAGlobal_V13.0.13.0.SKDEUXM_e496d27daf_12.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_V13.0.13.0.SKDEUXM_e496d27daf_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.13.0.SKDEUXM
 - branch: stable
   date: '2021-11-03'
   downloads:
@@ -55848,6 +55938,16 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QCXEUXM
+- branch: stable
+  date: '2022-07-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_willow/releases/download/stable-04.07.2022/fw_willow_miui_WILLOWGlobal_V12.5.6.0.RCXMIXM_b9c4b22e3f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/willow/fw_willow_miui_WILLOWGlobal_V12.5.6.0.RCXMIXM_b9c4b22e3f_11.0.zip
+  filename: fw_willow_miui_WILLOWGlobal_V12.5.6.0.RCXMIXM_b9c4b22e3f_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RCXMIXM
 - branch: stable
   date: '2022-01-04'
   downloads:
