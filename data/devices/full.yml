@@ -30549,16 +30549,6 @@
     android: '11.0'
     miui: V12.0.4.0.RKGINXM
 - branch: stable
-  date: '2022-03-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-26.03.2022/fw_mojito_miui_MOJITOINGlobal_V12.5.6.0.RKGINXM_57b45b3d63_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOINGlobal_V12.5.6.0.RKGINXM_57b45b3d63_11.0.zip
-  filename: fw_mojito_miui_MOJITOINGlobal_V12.5.6.0.RKGINXM_57b45b3d63_11.0.zip
-  region: India
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RKGINXM
-- branch: stable
   date: '2022-04-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-25.04.2022/fw_mojito_miui_MOJITOGlobal_V13.0.7.0.SKGMIXM_0289bd91b9_12.0.zip
@@ -30568,16 +30558,6 @@
   versions:
     android: '12.0'
     miui: V13.0.7.0.SKGMIXM
-- branch: stable
-  date: '2022-01-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-25.01.2022/fw_mojito_miui_MOJITOEEAGlobal_V12.5.6.0.RKGEUXM_dd377d8d70_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/mojito/fw_mojito_miui_MOJITOEEAGlobal_V12.5.6.0.RKGEUXM_dd377d8d70_11.0.zip
-  filename: fw_mojito_miui_MOJITOEEAGlobal_V12.5.6.0.RKGEUXM_dd377d8d70_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RKGEUXM
 - branch: stable
   date: '2022-06-24'
   downloads:
@@ -37638,6 +37618,16 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RKTMIXM
+- branch: stable
+  date: '2022-07-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-07.07.2022/fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKTINXM
 - branch: stable
   date: '2022-05-06'
   downloads:
