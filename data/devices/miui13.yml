@@ -114,6 +114,12 @@
   version: V13.0.3.0.SKHEUXM
 - android: '12.0'
   codename: alioth
+  date: '2022-07-07'
+  download: https://bigota.d.miui.com/V13.0.4.0.SKHMIXM/fw_alioth_miui_ALIOTHGlobal_V13.0.4.0.SKHMIXM_51d01dba0d_12.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: V13.0.4.0.SKHMIXM
+- android: '12.0'
+  codename: alioth
   date: '2022-01-05'
   download: https://bigota.d.miui.com/V13.0.2.0.SKHCNXM/fw_alioth_miui_ALIOTH_V13.0.2.0.SKHCNXM_f6a01699e1_12.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -910,6 +916,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.RKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.3.0.RKEINXM_965c6abe20_11.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.3.0.RKEINXM
+- android: '11.0'
+  codename: fleur
+  date: '2022-07-07'
+  download: https://bigota.d.miui.com/V13.0.8.0.RKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V13.0.8.0.RKEEUXM_50b7a919a1_11.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.8.0.RKEEUXM
 - android: '11.0'
   codename: fog
   date: '2022-03-30'
