@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2022-07-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-07.07.2022/fw_unicorn_miui_UNICORN_V13.0.7.0.SLECNXM_b29599f478_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/unicorn/fw_unicorn_miui_UNICORN_V13.0.7.0.SLECNXM_b29599f478_12.0.zip
+  filename: fw_unicorn_miui_UNICORN_V13.0.7.0.SLECNXM_b29599f478_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SLECNXM

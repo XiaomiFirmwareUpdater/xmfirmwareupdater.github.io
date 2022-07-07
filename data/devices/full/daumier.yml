@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2022-07-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daumier/releases/download/stable-07.07.2022/fw_daumier_miui_DAUMIER_V13.0.2.0.SLGCNXM_84f184b409_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/daumier/fw_daumier_miui_DAUMIER_V13.0.2.0.SLGCNXM_84f184b409_12.0.zip
+  filename: fw_daumier_miui_DAUMIER_V13.0.2.0.SLGCNXM_84f184b409_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SLGCNXM
