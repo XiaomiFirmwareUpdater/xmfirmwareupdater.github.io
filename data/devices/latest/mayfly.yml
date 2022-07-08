@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2022-07-06'
+  date: '2022-07-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-06.07.2022/fw_mayfly_miui_MAYFLY_V13.0.8.0.SLTCNXM_71719fe7f6_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mayfly/fw_mayfly_miui_MAYFLY_V13.0.8.0.SLTCNXM_71719fe7f6_12.0.zip
-  filename: fw_mayfly_miui_MAYFLY_V13.0.8.0.SLTCNXM_71719fe7f6_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-08.07.2022/fw_mayfly_miui_MAYFLY_V13.0.10.0.SLTCNXM_23590222e8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mayfly/fw_mayfly_miui_MAYFLY_V13.0.10.0.SLTCNXM_23590222e8_12.0.zip
+  filename: fw_mayfly_miui_MAYFLY_V13.0.10.0.SLTCNXM_23590222e8_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.8.0.SLTCNXM
+    miui: V13.0.10.0.SLTCNXM
