@@ -159,6 +159,16 @@
     android: '10.0'
     miui: V12.0.7.0.QCSMIXM
 - branch: stable
+  date: '2022-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-09.07.2022/fw_angelican_miui_ANGELICANEEAGlobal_V12.5.3.0.RCSEUXM_04ab90337d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANEEAGlobal_V12.5.3.0.RCSEUXM_04ab90337d_11.0.zip
+  filename: fw_angelican_miui_ANGELICANEEAGlobal_V12.5.3.0.RCSEUXM_04ab90337d_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RCSEUXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-07.02.2021/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.6.0.QCSEUXM_99197b728b_10.0.zip
