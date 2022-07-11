@@ -52,7 +52,9 @@ permalink: /archive/miui/pissarro/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11i 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKTINFK</td><td>12.0</td><td>3.3 GB</td><td>2022-07-01</td><td><a href="/miui/pissarro/stable beta/V13.0.1.0.SKTINFK/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKTEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-08</td><td><a href="/miui/pissarro/stable beta/V13.0.3.0.SKTEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro+ 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKTMIXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-06</td><td><a href="/miui/pissarro/stable beta/V13.0.2.0.SKTMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11i 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKTINFK</td><td>12.0</td><td>3.3 GB</td><td>2022-07-01</td><td><a href="/miui/pissarro/stable beta/V13.0.1.0.SKTINFK/">Download</a></td></tr>
 <tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKTINXM</td><td>12.0</td><td>3.3 GB</td><td>2022-06-29</td><td><a href="/miui/pissarro/stable beta/V13.0.3.0.SKTINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKTCNXM</td><td>12.0</td><td>4.2 GB</td><td>2022-06-24</td><td><a href="/miui/pissarro/stable beta/V13.0.4.0.SKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKTTRXM</td><td>12.0</td><td>3.3 GB</td><td>2022-05-26</td><td><a href="/miui/pissarro/stable/V13.0.1.0.SKTTRXM/">Download</a></td></tr>

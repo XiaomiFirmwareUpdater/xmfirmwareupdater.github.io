@@ -2999,15 +2999,15 @@
     android: '10.0'
     miui: V12.5.1.0.QCMINXM
 - branch: stable
-  date: '2022-05-13'
+  date: '2022-07-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-13.05.2022/fw_pissarro_miui_PISSARROGlobal_V13.0.1.0.SKTMIXM_c4ed23626c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROGlobal_V13.0.1.0.SKTMIXM_c4ed23626c_12.0.zip
-  filename: fw_pissarro_miui_PISSARROGlobal_V13.0.1.0.SKTMIXM_c4ed23626c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-11.07.2022/fw_pissarro_miui_PISSARROGlobal_V13.0.2.0.SKTMIXM_d527e1cb7e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROGlobal_V13.0.2.0.SKTMIXM_d527e1cb7e_12.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V13.0.2.0.SKTMIXM_d527e1cb7e_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SKTMIXM
+    miui: V13.0.2.0.SKTMIXM
 - branch: stable
   date: '2022-06-28'
   downloads:
@@ -3029,15 +3029,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-05-06'
+  date: '2022-07-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-06.05.2022/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.2.0.SKTEUXM_e33b5fdfc1_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.2.0.SKTEUXM_e33b5fdfc1_12.0.zip
-  filename: fw_pissarro_miui_PISSARROEEAGlobal_V13.0.2.0.SKTEUXM_e33b5fdfc1_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-11.07.2022/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.3.0.SKTEUXM_6cceaca9a7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.3.0.SKTEUXM_6cceaca9a7_12.0.zip
+  filename: fw_pissarro_miui_PISSARROEEAGlobal_V13.0.3.0.SKTEUXM_6cceaca9a7_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SKTEUXM
+    miui: V13.0.3.0.SKTEUXM
 - branch: stable
   date: '2022-07-06'
   downloads:
@@ -3649,15 +3649,15 @@
     android: '11.0'
     miui: V12.5.16.0.RKUEUXM
 - branch: stable
-  date: '2022-03-14'
+  date: '2022-05-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-14.03.2022/fw_selene_miui_SELENEINGlobal_V12.5.8.0.RKUINXM_7eec142113_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEINGlobal_V12.5.8.0.RKUINXM_7eec142113_11.0.zip
-  filename: fw_selene_miui_SELENEINGlobal_V12.5.8.0.RKUINXM_7eec142113_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-16.05.2022/fw_selene_miui_SELENEINGlobal_V12.5.9.0.RKUINXM_7c5d764d29_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEINGlobal_V12.5.9.0.RKUINXM_7c5d764d29_11.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V12.5.9.0.RKUINXM_7c5d764d29_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.8.0.RKUINXM
+    miui: V12.5.9.0.RKUINXM
 - branch: stable
   date: '2022-01-24'
   downloads:
@@ -3848,6 +3848,16 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SKFINXM
+- branch: stable
+  date: '2022-07-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-11.07.2022/fw_taoyao_miui_TAOYAOGlobal_V13.0.3.0.SLIMIXM_f804b4f16c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/taoyao/fw_taoyao_miui_TAOYAOGlobal_V13.0.3.0.SLIMIXM_f804b4f16c_12.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_V13.0.3.0.SLIMIXM_f804b4f16c_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SLIMIXM
 - branch: stable
   date: '2022-07-11'
   downloads:

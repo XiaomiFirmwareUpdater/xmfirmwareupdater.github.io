@@ -1968,6 +1968,18 @@
   version: V13.0.1.0.SKTMIXM
 - android: '12.0'
   codename: pissarro
+  date: '2022-07-11'
+  download: https://bigota.d.miui.com/V13.0.3.0.SKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.3.0.SKTEUXM_6cceaca9a7_12.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V13.0.3.0.SKTEUXM
+- android: '12.0'
+  codename: pissarro
+  date: '2022-07-11'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKTMIXM/fw_pissarro_miui_PISSARROGlobal_V13.0.2.0.SKTMIXM_d527e1cb7e_12.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V13.0.2.0.SKTMIXM
+- android: '12.0'
+  codename: pissarro
   date: '2022-07-06'
   download: https://bigota.d.miui.com/V13.0.3.0.SKTINXM/fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -2446,6 +2458,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.3.0.SLIEUXM_5669a58477_12.0.zip
   name: Xiaomi 12 Lite
   version: V13.0.3.0.SLIEUXM
+- android: '12.0'
+  codename: taoyao
+  date: '2022-07-11'
+  download: https://bigota.d.miui.com/V13.0.3.0.SLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V13.0.3.0.SLIMIXM_f804b4f16c_12.0.zip
+  name: Xiaomi 12 Lite
+  version: V13.0.3.0.SLIMIXM
 - android: '12.0'
   codename: thor
   date: '2022-07-08'
