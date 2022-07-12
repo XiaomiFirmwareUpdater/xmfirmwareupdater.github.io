@@ -780,6 +780,12 @@
   version: V13.0.6.0.SLCMIXM
 - android: '12.0'
   codename: daumier
+  date: '2022-07-12'
+  download: https://bigota.d.miui.com/V13.0.8.0.SLGCNXM/fw_daumier_miui_DAUMIER_V13.0.8.0.SLGCNXM_afd5a12cc7_12.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: V13.0.8.0.SLGCNXM
+- android: '12.0'
+  codename: daumier
   date: '2022-07-07'
   download: https://bigota.d.miui.com/V13.0.2.0.SLGCNXM/fw_daumier_miui_DAUMIER_V13.0.2.0.SLGCNXM_84f184b409_12.0.zip
   name: Xiaomi 12 Pro Dimensity
@@ -1704,6 +1710,12 @@
   version: V13.0.2.0.RKXMIXM
 - android: '11.0'
   codename: nabu
+  date: '2022-07-12'
+  download: https://bigota.d.miui.com/V13.0.4.0.RKXMIXM/fw_nabu_miui_NABUGlobal_V13.0.4.0.RKXMIXM_76e6da4173_11.0.zip
+  name: Xiaomi Pad 5
+  version: V13.0.4.0.RKXMIXM
+- android: '11.0'
+  codename: nabu
   date: '2022-06-10'
   download: https://bigota.d.miui.com/V13.0.9.0.RKXCNXM/fw_nabu_miui_NABU_V13.0.9.0.RKXCNXM_3fa49a036c_11.0.zip
   name: Xiaomi Pad 5
@@ -2050,6 +2062,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SLDMIXM/fw_psyche_miui_PSYCHEGlobal_V13.0.2.0.SLDMIXM_17f0281732_12.0.zip
   name: Xiaomi 12X
   version: V13.0.2.0.SLDMIXM
+- android: '12.0'
+  codename: psyche
+  date: '2022-05-02'
+  download: https://bigota.d.miui.com/V13.0.4.0.SLDCNXM/fw_psyche_miui_PSYCHE_V13.0.4.0.SLDCNXM_b659da9358_12.0.zip
+  name: Xiaomi 12X
+  version: V13.0.4.0.SLDCNXM
 - android: '12.0'
   codename: renoir
   date: '2022-03-25'
