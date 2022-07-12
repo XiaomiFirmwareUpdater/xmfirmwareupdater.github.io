@@ -2051,12 +2051,6 @@
   name: Xiaomi 12X
   version: V13.0.2.0.SLDMIXM
 - android: '12.0'
-  codename: psyche
-  date: '2022-05-02'
-  download: https://bigota.d.miui.com/V13.0.4.0.SLDCNXM/fw_psyche_miui_PSYCHE_V13.0.4.0.SLDCNXM_b659da9358_12.0.zip
-  name: Xiaomi 12X
-  version: V13.0.4.0.SLDCNXM
-- android: '12.0'
   codename: renoir
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_renoir_miui_RENOIRPRE_22.3.23_de21ef1f53_12.0.zip

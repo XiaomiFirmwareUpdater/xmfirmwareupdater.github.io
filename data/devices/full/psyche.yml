@@ -98,13 +98,3 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SLDMIXM
-- branch: stable
-  date: '2022-05-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-02.05.2022/fw_psyche_miui_PSYCHE_V13.0.4.0.SLDCNXM_b659da9358_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHE_V13.0.4.0.SLDCNXM_b659da9358_12.0.zip
-  filename: fw_psyche_miui_PSYCHE_V13.0.4.0.SLDCNXM_b659da9358_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.4.0.SLDCNXM
