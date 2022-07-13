@@ -54,7 +54,7 @@ permalink: /miui/thor/
                 <tbody>
                 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SLACNXM</td><td>12.0</td><td>7.5 GB</td><td>2022-06-25</td><td><a href="/miui/thor/stable/V13.0.1.0.SLACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SLACNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-07-05</td><td><a href="/miui/thor/stable/V13.0.1.0.SLACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12S Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SLACNXM</td><td>12.0</td><td>5.7 GB</td><td>2022-07-08</td><td><a href="/miui/thor/stable beta/V13.0.3.0.SLACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLACNXM</td><td>12.0</td><td>5.7 GB</td><td>2022-07-12</td><td><a href="/miui/thor/stable beta/V13.0.4.0.SLACNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
