@@ -1,15 +1,15 @@
 ---
-title: Xiaomi 12 Lite (taoyao) MIUI Downloads
+title: Xiaomi 12S Pro (unicorn) MIUI Downloads
 layout: download
-name: Xiaomi 12 Lite
-codename: taoyao
-permalink: /archive/miui/taoyao/
+name: Xiaomi 12S Pro
+codename: unicorn
+permalink: /archive/miui/unicorn/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/taoyao/">Xiaomi 12 Lite</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/unicorn/">Xiaomi 12S Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/miui/taoyao/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/miui/taoyao/" class="card-link">Latest MIUI</a>
-    <a href="/firmware/taoyao/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/taoyao/" class="card-link">Vendor Downloads</a>
+    <a href="/miui/unicorn/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/unicorn/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/unicorn/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,8 @@ permalink: /archive/miui/taoyao/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLIEUXM</td><td>12.0</td><td>4.4 GB</td><td>2022-07-11</td><td><a href="/miui/taoyao/stable/V13.0.3.0.SLIEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLIEUXM</td><td>12.0</td><td>6.2 GB</td><td>2022-05-18</td><td><a href="/miui/taoyao/stable/V13.0.3.0.SLIEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Global</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLIMIXM</td><td>12.0</td><td>4.3 GB</td><td>2022-07-11</td><td><a href="/miui/taoyao/stable/V13.0.3.0.SLIMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLIMIXM</td><td>12.0</td><td>6.1 GB</td><td>2022-05-25</td><td><a href="/miui/taoyao/stable/V13.0.3.0.SLIMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SLIMIXM</td><td>12.0</td><td>4.2 GB</td><td>2022-07-11</td><td><a href="/miui/taoyao/stable beta/V13.0.1.0.SLIMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLIRUXM</td><td>12.0</td><td>4.3 GB</td><td>2022-07-09</td><td><a href="/miui/taoyao/stable/V13.0.2.0.SLIRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLIRUXM</td><td>12.0</td><td>347 Bytes</td><td>2022-05-25</td><td><a href="/miui/taoyao/stable/V13.0.2.0.SLIRUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SLECNXM</td><td>12.0</td><td>5.5 GB</td><td>2022-07-07</td><td><a href="/miui/unicorn/stable/V13.0.7.0.SLECNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SLECNXM</td><td>12.0</td><td>7.4 GB</td><td>2022-07-04</td><td><a href="/miui/unicorn/stable/V13.0.7.0.SLECNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
