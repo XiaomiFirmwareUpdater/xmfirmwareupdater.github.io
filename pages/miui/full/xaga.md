@@ -67,7 +67,6 @@ permalink: /archive/miui/xaga/
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SLOCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-06-07</td><td><a href="/miui/xaga/stable beta/V13.0.5.0.SLOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLOCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-05-30</td><td><a href="/miui/xaga/stable beta/V13.0.4.0.SLOCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SLOCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-05-24</td><td><a href="/miui/xaga/stable beta/V13.0.2.0.SLOCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SLOCNXM</td><td>12.0</td><td>309 Bytes</td><td>None</td><td><a href="/miui/xaga/stable beta/V13.0.1.0.SLOCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
