@@ -52,16 +52,18 @@ permalink: /archive/miui/willow/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 8T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RCXMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-07-01</td><td><a href="/miui/willow/stable beta/V12.5.6.0.RCXMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RCXEUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-06-17</td><td><a href="/miui/willow/stable beta/V12.5.5.0.RCXEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RCXMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-07-01</td><td><a href="/miui/willow/stable/V12.5.6.0.RCXMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RCXMIXM</td><td>11.0</td><td>4.0 GB</td><td>2022-06-23</td><td><a href="/miui/willow/stable/V12.5.6.0.RCXMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RCXEUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-06-17</td><td><a href="/miui/willow/stable/V12.5.5.0.RCXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RCXEUXM</td><td>11.0</td><td>4.0 GB</td><td>2022-05-29</td><td><a href="/miui/willow/stable/V12.5.5.0.RCXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RCXMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-03-22</td><td><a href="/miui/willow/stable/V12.5.4.0.RCXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RCXMIXM</td><td>11.0</td><td>4.0 GB</td><td>2022-02-18</td><td><a href="/miui/willow/stable/V12.5.4.0.RCXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RCXEUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-03-22</td><td><a href="/miui/willow/stable/V12.5.4.0.RCXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RCXEUXM</td><td>11.0</td><td>4.1 GB</td><td>2022-02-18</td><td><a href="/miui/willow/stable/V12.5.4.0.RCXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCXMIXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-04</td><td><a href="/miui/willow/stable/V12.5.2.0.RCXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RCXMIXM</td><td>11.0</td><td>4.1 GB</td><td>2021-12-27</td><td><a href="/miui/willow/stable/V12.5.2.0.RCXMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8T Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RCXRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-04</td><td><a href="/miui/willow/stable/V12.5.1.0.RCXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RCXRUXM</td><td>11.0</td><td>4.0 GB</td><td>2021-12-28</td><td><a href="/miui/willow/stable/V12.5.1.0.RCXRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8T Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RCXRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-01-04</td><td><a href="/miui/willow/stable/V12.5.1.0.RCXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RCXEUXM</td><td>11.0</td><td>4.1 GB</td><td>2021-12-22</td><td><a href="/miui/willow/stable/V12.5.2.0.RCXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCXEUXM</td><td>11.0</td><td>2.6 GB</td><td>2021-12-28</td><td><a href="/miui/willow/stable/V12.5.2.0.RCXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RCXMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-10-22</td><td><a href="/miui/willow/stable beta/V12.0.2.0.RCXMIXM/">Download</a></td></tr>
@@ -130,10 +132,10 @@ permalink: /archive/miui/willow/
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.1.0.PCXEUXM</td><td>9.0</td><td>2.0 GB</td><td>2019-12-11</td><td><a href="/miui/willow/stable/V11.0.1.0.PCXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Russia</td><td>Stable</td><td>Recovery</td><td>V10.3.2.0.PCXRUXM</td><td>9.0</td><td>1.9 GB</td><td>2019-12-04</td><td><a href="/miui/willow/stable/V10.3.2.0.PCXRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T Russia</td><td>Stable</td><td>Fastboot</td><td>V10.3.2.0.PCXRUXM</td><td>9.0</td><td>3.1 GB</td><td>2019-11-18</td><td><a href="/miui/willow/stable/V10.3.2.0.PCXRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.PCXMIXM</td><td>9.0</td><td>1.9 GB</td><td>2019-11-29</td><td><a href="/miui/willow/stable/V10.3.1.0.PCXMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.1.0.PCXMIXM</td><td>9.0</td><td>3.0 GB</td><td>2019-11-06</td><td><a href="/miui/willow/stable/V10.3.1.0.PCXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.PCXEUXM</td><td>9.0</td><td>2.0 GB</td><td>2019-12-23</td><td><a href="/miui/willow/stable/V11.0.2.0.PCXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.PCXEUXM</td><td>9.0</td><td>3.2 GB</td><td>2019-12-16</td><td><a href="/miui/willow/stable/V11.0.2.0.PCXEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.PCXMIXM</td><td>9.0</td><td>1.9 GB</td><td>2019-11-29</td><td><a href="/miui/willow/stable/V10.3.1.0.PCXMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8T Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.1.0.PCXMIXM</td><td>9.0</td><td>3.0 GB</td><td>2019-11-06</td><td><a href="/miui/willow/stable/V10.3.1.0.PCXMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Recovery</td><td>V10.3.5.0.PCXEUXM</td><td>9.0</td><td>1.9 GB</td><td>2019-11-18</td><td><a href="/miui/willow/stable/V10.3.5.0.PCXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Fastboot</td><td>V10.3.5.0.PCXEUXM</td><td>9.0</td><td>3.1 GB</td><td>2019-11-12</td><td><a href="/miui/willow/stable/V10.3.5.0.PCXEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8T EEA</td><td>Stable</td><td>Recovery</td><td>V10.3.1.0.PCXEUXM</td><td>9.0</td><td>1.9 GB</td><td>2019-11-18</td><td><a href="/miui/willow/stable/V10.3.1.0.PCXEUXM/">Download</a></td></tr>

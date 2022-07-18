@@ -52,7 +52,8 @@ permalink: /archive/miui/merlin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RJOINXM</td><td>11.0</td><td>2.4 GB</td><td>2022-07-04</td><td><a href="/miui/merlin/stable beta/V12.5.6.0.RJOINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 India</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RJOINXM</td><td>11.0</td><td>2.4 GB</td><td>2022-07-04</td><td><a href="/miui/merlin/stable/V12.5.6.0.RJOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RJOINXM</td><td>11.0</td><td>3.0 GB</td><td>2022-06-29</td><td><a href="/miui/merlin/stable/V12.5.6.0.RJOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RJOTWXM</td><td>11.0</td><td>2.4 GB</td><td>2022-06-23</td><td><a href="/miui/merlin/stable beta/V12.5.7.0.RJOTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJOCNXM</td><td>12.0</td><td>3.9 GB</td><td>2022-06-17</td><td><a href="/miui/merlin/stable beta/V13.0.1.0.SJOCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 4G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJOCNXM</td><td>12.0</td><td>4.8 GB</td><td>2022-06-07</td><td><a href="/miui/merlin/stable/V13.0.1.0.SJOCNXM/">Download</a></td></tr>
@@ -93,8 +94,8 @@ permalink: /archive/miui/merlin/
 <tr><td>Redmi Note 9 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJOTRXM</td><td>11.0</td><td>3.9 GB</td><td>2021-11-23</td><td><a href="/miui/merlin/stable/V12.5.2.0.RJOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJOIDXM</td><td>11.0</td><td>2.5 GB</td><td>2021-11-29</td><td><a href="/miui/merlin/stable/V12.5.3.0.RJOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RJOIDXM</td><td>11.0</td><td>4.1 GB</td><td>2021-11-18</td><td><a href="/miui/merlin/stable/V12.5.3.0.RJOIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RJOEUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-11-19</td><td><a href="/miui/merlin/stable/V12.5.3.0.RJOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJOEUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-11-29</td><td><a href="/miui/merlin/stable/V12.5.3.0.RJOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RJOEUXM</td><td>11.0</td><td>4.8 GB</td><td>2021-11-19</td><td><a href="/miui/merlin/stable/V12.5.3.0.RJOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJORUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-11-19</td><td><a href="/miui/merlin/stable/V12.5.2.0.RJORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJORUXM</td><td>11.0</td><td>4.3 GB</td><td>2021-11-15</td><td><a href="/miui/merlin/stable/V12.5.2.0.RJORUXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 4G China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RJOCNXM</td><td>11.0</td><td>3.0 GB</td><td>2021-11-02</td><td><a href="/miui/merlin/stable/V12.5.3.0.RJOCNXM/">Download</a></td></tr>
@@ -123,12 +124,12 @@ permalink: /archive/miui/merlin/
 <tr><td>Redmi Note 9 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.QJOMIXM</td><td>10.0</td><td>4.5 GB</td><td>2021-05-17</td><td><a href="/miui/merlin/stable/V12.0.8.0.QJOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.QJOTRXM</td><td>10.0</td><td>2.1 GB</td><td>2021-05-22</td><td><a href="/miui/merlin/stable/V12.0.7.0.QJOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.QJOTRXM</td><td>10.0</td><td>3.6 GB</td><td>2021-05-14</td><td><a href="/miui/merlin/stable/V12.0.7.0.QJOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 India</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.QJOINXM</td><td>10.0</td><td>2.0 GB</td><td>2021-05-20</td><td><a href="/miui/merlin/stable/V12.0.8.0.QJOINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.QJOINXM</td><td>10.0</td><td>2.7 GB</td><td>2021-05-11</td><td><a href="/miui/merlin/stable/V12.0.8.0.QJOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJOMIXM</td><td>11.0</td><td>2.3 GB</td><td>2021-08-04</td><td><a href="/miui/merlin/stable/V12.5.1.0.RJOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJOMIXM</td><td>11.0</td><td>4.7 GB</td><td>2021-07-28</td><td><a href="/miui/merlin/stable/V12.5.1.0.RJOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 India</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJOINXM</td><td>11.0</td><td>2.3 GB</td><td>2021-07-28</td><td><a href="/miui/merlin/stable/V12.5.1.0.RJOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJOINXM</td><td>11.0</td><td>2.9 GB</td><td>2021-07-18</td><td><a href="/miui/merlin/stable/V12.5.1.0.RJOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 India</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.QJOINXM</td><td>10.0</td><td>2.0 GB</td><td>2021-05-20</td><td><a href="/miui/merlin/stable/V12.0.8.0.QJOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.QJOINXM</td><td>10.0</td><td>2.7 GB</td><td>2021-05-11</td><td><a href="/miui/merlin/stable/V12.0.8.0.QJOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.6.0.QJOIDXM</td><td>10.0</td><td>2.1 GB</td><td>2021-05-20</td><td><a href="/miui/merlin/stable/V12.0.6.0.QJOIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.6.0.QJOIDXM</td><td>10.0</td><td>3.9 GB</td><td>2021-05-14</td><td><a href="/miui/merlin/stable/V12.0.6.0.QJOIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 4G China</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJOCNXM</td><td>11.0</td><td>2.7 GB</td><td>2021-07-12</td><td><a href="/miui/merlin/stable/V12.5.2.0.RJOCNXM/">Download</a></td></tr>

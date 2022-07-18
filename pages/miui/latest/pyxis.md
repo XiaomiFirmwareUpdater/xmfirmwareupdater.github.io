@@ -60,9 +60,8 @@ permalink: /miui/pyxis/
 <tr><td>Mi 9 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.10.0.QFCEUXM</td><td>10.0</td><td>2.6 GB</td><td>2021-08-06</td><td><a href="/miui/pyxis/stable/V12.0.10.0.QFCEUXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RFCMIXM</td><td>11.0</td><td>3.2 GB</td><td>2021-07-13</td><td><a href="/miui/pyxis/stable/V12.5.2.0.RFCMIXM/">Download</a></td></tr>
 <tr><td>Mi 9 Lite Global</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RFCMIXM</td><td>11.0</td><td>2.7 GB</td><td>2021-07-20</td><td><a href="/miui/pyxis/stable/V12.5.2.0.RFCMIXM/">Download</a></td></tr>
-<tr><td>Mi 9 Lite Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RFCRUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-06-28</td><td><a href="/miui/pyxis/stable beta/V12.5.6.0.RFCRUXM/">Download</a></td></tr>
-<tr><td>Mi 9 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RFCRUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-07-23</td><td><a href="/miui/pyxis/stable/V12.5.1.0.RFCRUXM/">Download</a></td></tr>
-<tr><td>Mi 9 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RFCRUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-08-10</td><td><a href="/miui/pyxis/stable/V12.5.1.0.RFCRUXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RFCRUXM</td><td>11.0</td><td>3.4 GB</td><td>2022-06-20</td><td><a href="/miui/pyxis/stable/V12.5.6.0.RFCRUXM/">Download</a></td></tr>
+<tr><td>Mi 9 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RFCRUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-06-28</td><td><a href="/miui/pyxis/stable/V12.5.6.0.RFCRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

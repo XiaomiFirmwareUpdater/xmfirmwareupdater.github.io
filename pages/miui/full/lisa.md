@@ -53,10 +53,12 @@ permalink: /archive/miui/lisa/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 11 Lite 5G NE Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKOTWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-11</td><td><a href="/miui/lisa/stable beta/V13.0.4.0.SKOTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11 Lite 5G NE EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.9.0.SKOEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-05</td><td><a href="/miui/lisa/stable beta/V13.0.9.0.SKOEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11 Lite 5G NE EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SKOEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-05</td><td><a href="/miui/lisa/stable/V13.0.9.0.SKOEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11 Lite 5G NE EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SKOEUXM</td><td>12.0</td><td>6.1 GB</td><td>2022-06-28</td><td><a href="/miui/lisa/stable/V13.0.9.0.SKOEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE India</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SKOINXM</td><td>12.0</td><td>3.4 GB</td><td>2022-06-16</td><td><a href="/miui/lisa/stable/V13.0.6.0.SKOINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE India</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SKOINXM</td><td>12.0</td><td>4.5 GB</td><td>2022-06-06</td><td><a href="/miui/lisa/stable/V13.0.6.0.SKOINXM/">Download</a></td></tr>
 <tr><td>Mi 11 LE China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKOCNXM</td><td>12.0</td><td>4.3 GB</td><td>2022-06-06</td><td><a href="/miui/lisa/stable beta/V13.0.2.0.SKOCNXM/">Download</a></td></tr>
+<tr><td>Mi 11 LE China</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKOCNXM</td><td>12.0</td><td>6.2 GB</td><td>2022-05-27</td><td><a href="/miui/lisa/stable/V13.0.2.0.SKOCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKOTRXM</td><td>12.0</td><td>3.5 GB</td><td>2022-05-24</td><td><a href="/miui/lisa/stable/V13.0.3.0.SKOTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKOTRXM</td><td>12.0</td><td>5.4 GB</td><td>2022-05-17</td><td><a href="/miui/lisa/stable/V13.0.3.0.SKOTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKOTWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-05-24</td><td><a href="/miui/lisa/stable/V13.0.3.0.SKOTWXM/">Download</a></td></tr>
