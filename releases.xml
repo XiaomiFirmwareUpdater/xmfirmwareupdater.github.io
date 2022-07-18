@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 18 Jul 2022 13:39:42 +0900</pubDate>
+  <pubDate>Mon, 18 Jul 2022 19:37:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V13.0.6.0.SJBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Mon, 18 Jul 2022 19:37:38 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 (spes) - V13.0.11.0.RGCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.1.0.SKCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
     <pubDate>Mon, 11 Jul 2022 20:20:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Lite (taoyao) - V13.0.3.0.SLIEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
-    <pubDate>Mon, 11 Jul 2022 19:53:23 +0900</pubDate>
   </item>
     </channel>
 </rss>

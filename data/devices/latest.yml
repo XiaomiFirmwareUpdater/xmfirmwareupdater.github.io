@@ -4079,15 +4079,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2022-06-02'
+  date: '2022-07-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-02.06.2022/fw_umi_miui_UMIGlobal_V13.0.4.0.SJBMIXM_d96c90a040_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMIGlobal_V13.0.4.0.SJBMIXM_d96c90a040_12.0.zip
-  filename: fw_umi_miui_UMIGlobal_V13.0.4.0.SJBMIXM_d96c90a040_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-18.07.2022/fw_umi_miui_UMIGlobal_V13.0.6.0.SJBMIXM_8d2bcb342a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMIGlobal_V13.0.6.0.SJBMIXM_8d2bcb342a_12.0.zip
+  filename: fw_umi_miui_UMIGlobal_V13.0.6.0.SJBMIXM_8d2bcb342a_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SJBMIXM
+    miui: V13.0.6.0.SJBMIXM
 - branch: stable
   date: '2022-05-20'
   downloads:

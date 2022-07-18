@@ -67,6 +67,7 @@ permalink: /miui/renoir/
 <tr><td>Mi 11 Lite 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SKIMIXM</td><td>12.0</td><td>3.5 GB</td><td>2022-06-29</td><td><a href="/miui/renoir/stable beta/V13.0.6.0.SKIMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKIJPXM</td><td>12.0</td><td>5.9 GB</td><td>2022-04-20</td><td><a href="/miui/renoir/stable/V13.0.3.0.SKIJPXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKIJPXM</td><td>12.0</td><td>3.4 GB</td><td>2022-04-27</td><td><a href="/miui/renoir/stable/V13.0.3.0.SKIJPXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Japan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKIJPXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-14</td><td><a href="/miui/renoir/stable beta/V13.0.4.0.SKIJPXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKIRUXM</td><td>12.0</td><td>5.6 GB</td><td>2022-04-26</td><td><a href="/miui/renoir/stable/V13.0.2.0.SKIRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKIRUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-05-06</td><td><a href="/miui/renoir/stable/V13.0.2.0.SKIRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKITWXM</td><td>12.0</td><td>4.9 GB</td><td>2022-04-26</td><td><a href="/miui/renoir/stable/V13.0.2.0.SKITWXM/">Download</a></td></tr>

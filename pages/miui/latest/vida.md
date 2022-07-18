@@ -52,7 +52,9 @@ permalink: /miui/vida/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.RGDINXM</td><td>11.0</td><td>2.8 GB</td><td>2022-05-09</td><td><a href="/miui/vida/stable beta/V13.0.5.0.RGDINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro 4G India</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.RGDINXM</td><td>11.0</td><td>3.9 GB</td><td>2022-04-25</td><td><a href="/miui/vida/stable/V13.0.5.0.RGDINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G India</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.RGDINXM</td><td>11.0</td><td>2.8 GB</td><td>2022-05-09</td><td><a href="/miui/vida/stable/V13.0.5.0.RGDINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.RGDINXM</td><td>11.0</td><td>2.8 GB</td><td>2022-07-18</td><td><a href="/miui/vida/stable beta/V13.0.6.0.RGDINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
