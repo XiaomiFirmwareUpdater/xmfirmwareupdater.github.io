@@ -16059,6 +16059,16 @@
     android: '10.0'
     miui: V12.0.1.0.QCDCNXM
 - branch: stable
+  date: '2022-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-10.05.2022/fw_dandelion_miui_DANDELIONC3L2_V12.5.7.0.RCZCNXM_804a77a15d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2_V12.5.7.0.RCZCNXM_804a77a15d_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONC3L2_V12.5.7.0.RCZCNXM_804a77a15d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RCZCNXM
+- branch: stable
   date: '2021-07-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-09.07.2021/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.14.0.QCDEUXM_1f26efe803_10.0.zip
@@ -31409,6 +31419,16 @@
     android: '11.0'
     miui: V13.0.4.0.RKXEUXM
 - branch: stable
+  date: '2022-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-19.07.2022/fw_nabu_miui_NABUEEAGlobal_V13.0.6.0.RKXEUXM_1d20fbc013_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUEEAGlobal_V13.0.6.0.RKXEUXM_1d20fbc013_11.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V13.0.6.0.RKXEUXM_1d20fbc013_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.6.0.RKXEUXM
+- branch: stable
   date: '2021-10-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-18.10.2021/fw_nabu_miui_NABUEEAGlobal_V12.5.5.0.RKXEUXM_34f517df77_11.0.zip
@@ -34598,6 +34618,16 @@
   versions:
     android: '11.0'
     miui: V13.0.5.0.RGLMIXM
+- branch: stable
+  date: '2022-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-19.07.2022/fw_opal_miui_OPALEEAGlobal_V13.0.7.0.RGLEUXM_7e226d9bd2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/opal/fw_opal_miui_OPALEEAGlobal_V13.0.7.0.RGLEUXM_7e226d9bd2_11.0.zip
+  filename: fw_opal_miui_OPALEEAGlobal_V13.0.7.0.RGLEUXM_7e226d9bd2_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.7.0.RGLEUXM
 - branch: stable
   date: '2022-04-14'
   downloads:
