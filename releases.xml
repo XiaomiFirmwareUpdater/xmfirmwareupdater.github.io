@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 20 Jul 2022 19:58:34 +0900</pubDate>
+  <pubDate>Thu, 21 Jul 2022 01:46:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 11T (agate) - V13.0.4.0.SKWMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
+    <pubDate>Thu, 21 Jul 2022 01:46:02 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12S Ultra (thor) - V13.0.5.0.SLACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.6.0.SJSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
     <pubDate>Wed, 13 Jul 2022 01:22:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 (nabu) - V13.0.4.0.RKXMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Tue, 12 Jul 2022 20:31:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
