@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 20 Jul 2022 13:29:11 +0900</pubDate>
+  <pubDate>Wed, 20 Jul 2022 19:58:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12S Ultra (thor) - V13.0.5.0.SLACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
+    <pubDate>Wed, 20 Jul 2022 19:58:34 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) - V12.5.7.0.RCZMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi Pad 5 (nabu) - V13.0.4.0.RKXMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
     <pubDate>Tue, 12 Jul 2022 20:31:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro Dimensity (daumier) - V13.0.8.0.SLGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/daumier</link>
-    <pubDate>Tue, 12 Jul 2022 20:09:11 +0900</pubDate>
   </item>
     </channel>
 </rss>

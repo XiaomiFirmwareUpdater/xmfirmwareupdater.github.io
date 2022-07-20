@@ -54,7 +54,8 @@ permalink: /archive/miui/lmi/
                 <tbody>
                 <tr><td>POCO F2 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJKRUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-15</td><td><a href="/miui/lmi/stable beta/V13.0.3.0.SJKRUXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.47.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-07-15</td><td><a href="/miui/lmi/public beta/V13.0.3.1.47.DEV/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJKIDXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-11</td><td><a href="/miui/lmi/stable beta/V13.0.3.0.SJKIDXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJKIDXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-11</td><td><a href="/miui/lmi/stable/V13.0.3.0.SJKIDXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJKIDXM</td><td>12.0</td><td>5.3 GB</td><td>2022-07-04</td><td><a href="/miui/lmi/stable/V13.0.3.0.SJKIDXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.45.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-07-08</td><td><a href="/miui/lmi/public beta/V13.0.3.1.45.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.43.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-07-01</td><td><a href="/miui/lmi/public beta/V13.0.3.1.43.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.40.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-06-24</td><td><a href="/miui/lmi/public beta/V13.0.3.1.40.DEV/">Download</a></td></tr>
