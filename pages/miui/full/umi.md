@@ -52,7 +52,8 @@ permalink: /archive/miui/umi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJBRUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-15</td><td><a href="/miui/umi/stable beta/V13.0.3.0.SJBRUXM/">Download</a></td></tr>
+                <tr><td>Mi 10 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJBRUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-15</td><td><a href="/miui/umi/stable/V13.0.3.0.SJBRUXM/">Download</a></td></tr>
+<tr><td>Mi 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJBRUXM</td><td>12.0</td><td>5.1 GB</td><td>2022-07-12</td><td><a href="/miui/umi/stable/V13.0.3.0.SJBRUXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.47.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-07-15</td><td><a href="/miui/umi/public beta/V13.0.5.1.47.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SJBMIXM</td><td>12.0</td><td>3.7 GB</td><td>2022-07-12</td><td><a href="/miui/umi/stable beta/V13.0.6.0.SJBMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SJBIDXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-12</td><td><a href="/miui/umi/stable beta/V13.0.5.0.SJBIDXM/">Download</a></td></tr>
