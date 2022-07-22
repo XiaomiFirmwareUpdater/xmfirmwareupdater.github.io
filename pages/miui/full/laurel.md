@@ -155,6 +155,7 @@ permalink: /archive/miui/laurel/
 <tr><td>Mi A3 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.6.0.PFQMIXM</td><td>9.0</td><td>1.3 GB</td><td>2019-09-06</td><td><a href="/miui/laurel/stable/V10.3.6.0.PFQMIXM/">Download</a></td></tr>
 <tr><td>Mi A3 Global</td><td>Stable</td><td>Recovery</td><td>V10.3.4.0.PFQMIXM</td><td>9.0</td><td>1.3 GB</td><td>2019-08-20</td><td><a href="/miui/laurel/stable/V10.3.4.0.PFQMIXM/">Download</a></td></tr>
 <tr><td>Mi A3 Global</td><td>Stable</td><td>Fastboot</td><td>V10.3.4.0.PFQMIXM</td><td>9.0</td><td>2.0 GB</td><td>2019-08-15</td><td><a href="/miui/laurel/stable/V10.3.4.0.PFQMIXM/">Download</a></td></tr>
+<tr><td>Mi A3 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.22.0.RFQEUXM</td><td>11.0</td><td>1.5 GB</td><td>None</td><td><a href="/miui/laurel/stable beta/V12.0.22.0.RFQEUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
