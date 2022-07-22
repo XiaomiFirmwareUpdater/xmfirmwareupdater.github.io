@@ -2844,6 +2844,12 @@
   version: V13.0.2.0.SJUINXM
 - android: '12.0'
   codename: vayu
+  date: '2022-07-22'
+  download: https://bigota.d.miui.com/V13.0.5.0.SJUMIXM/fw_vayu_miui_VAYUGlobal_V13.0.5.0.SJUMIXM_7cc0b9ac86_12.0.zip
+  name: POCO X3 Pro
+  version: V13.0.5.0.SJUMIXM
+- android: '12.0'
+  codename: vayu
   date: '2022-03-22'
   download: https://bigota.d.miui.com/V13.0.1.0.SJUINXM/fw_vayu_miui_VAYUINGlobal_V13.0.1.0.SJUINXM_b603785914_12.0.zip
   name: POCO X3 Pro
