@@ -54,6 +54,7 @@ permalink: /miui/unicorn/
                 <tbody>
                 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SLECNXM</td><td>12.0</td><td>7.4 GB</td><td>2022-07-04</td><td><a href="/miui/unicorn/stable/V13.0.7.0.SLECNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SLECNXM</td><td>12.0</td><td>5.5 GB</td><td>2022-07-07</td><td><a href="/miui/unicorn/stable/V13.0.7.0.SLECNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.0.1.51.DEV</td><td>12.0</td><td>5.5 GB</td><td>2022-07-22</td><td><a href="/miui/unicorn/public beta/V13.0.0.1.51.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
