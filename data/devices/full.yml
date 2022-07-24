@@ -56729,16 +56729,6 @@
     android: '8.1'
     miui: V9.5.7.0.OEFCNFA
 - branch: weekly
-  date: '2018-06-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-58566ebeb4dce5b1bdce/fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/V9.5.7.0.OEFCNFA/ysl/fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
-  filename: fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: V9.5.7.0.OEFCNFA
-- branch: weekly
   date: '2018-06-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ysl/releases/download/untagged-3752fffbbce280fa1816/fw_ysl_miui_HMS2_V9.5.7.0.OEFCNFA_118a3c61e7_8.1.zip
