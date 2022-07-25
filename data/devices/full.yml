@@ -19739,6 +19739,16 @@
     android: '11.0'
     miui: V13.0.3.0.RGEEUXM
 - branch: stable
+  date: '2022-07-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-25.07.2022/fw_fog_miui_FOGGlobal_V13.0.2.0.SGEMIXM_c5e52078c0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGGlobal_V13.0.2.0.SGEMIXM_c5e52078c0_12.0.zip
+  filename: fw_fog_miui_FOGGlobal_V13.0.2.0.SGEMIXM_c5e52078c0_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SGEMIXM
+- branch: stable
   date: '2022-06-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-21.06.2022/fw_fog_miui_FOGGlobal_V13.0.10.0.RGEMIXM_cb23a0433c_11.0.zip
@@ -45539,6 +45549,16 @@
     android: '11.0'
     miui: V13.0.10.0.RGCINXM
 - branch: stable
+  date: '2022-07-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-25.07.2022/fw_spes_miui_SPESGlobal_V13.0.4.0.SGCMIXM_bc890fc589_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spes/fw_spes_miui_SPESGlobal_V13.0.4.0.SGCMIXM_bc890fc589_12.0.zip
+  filename: fw_spes_miui_SPESGlobal_V13.0.4.0.SGCMIXM_bc890fc589_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SGCMIXM
+- branch: stable
   date: '2022-05-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-20.05.2022/fw_spes_miui_SPESGlobal_V13.0.12.0.RGCMIXM_7142be5717_11.0.zip
@@ -46899,6 +46919,16 @@
     android: '12.0'
     miui: V13.0.4.0.SKFINXM
 - branch: stable
+  date: '2022-07-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-25.07.2022/fw_sweetin_miui_SWEETININGlobal_V13.0.5.0.SKFINXM_59d7d3e509_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweetin/fw_sweetin_miui_SWEETININGlobal_V13.0.5.0.SKFINXM_59d7d3e509_12.0.zip
+  filename: fw_sweetin_miui_SWEETININGlobal_V13.0.5.0.SKFINXM_59d7d3e509_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SKFINXM
+- branch: stable
   date: '2021-04-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-22.04.2021/fw_sweetin_miui_SWEETININGlobal_V12.0.10.0.RKFINXM_13e6d3033e_11.0.zip
@@ -47078,16 +47108,6 @@
   versions:
     android: '11.0'
     miui: 21.5.26
-- branch: weekly
-  date: '2021-11-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-26.11.2021/fw_thyme_miui_THYME_21.11.25_9463bd2830_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.25/thyme/fw_thyme_miui_THYME_21.11.25_9463bd2830_12.0.zip
-  filename: fw_thyme_miui_THYME_21.11.25_9463bd2830_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 21.11.25
 - branch: weekly
   date: '2021-08-26'
   downloads:
@@ -47288,16 +47308,6 @@
   versions:
     android: '11.0'
     miui: 21.4.8
-- branch: weekly
-  date: '2021-11-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-05.11.2021/fw_thyme_miui_THYME_21.11.3_14d928adad_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.3/thyme/fw_thyme_miui_THYME_21.11.3_14d928adad_12.0.zip
-  filename: fw_thyme_miui_THYME_21.11.3_14d928adad_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 21.11.3
 - branch: weekly
   date: '2021-08-05'
   downloads:
@@ -47668,6 +47678,16 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SFNEUXM
+- branch: stable
+  date: '2022-07-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_toco/releases/download/stable-25.07.2022/fw_toco_miui_TOCOEEAGlobal_V13.0.3.0.SFNEUXM_8d2e137887_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/toco/fw_toco_miui_TOCOEEAGlobal_V13.0.3.0.SFNEUXM_8d2e137887_12.0.zip
+  filename: fw_toco_miui_TOCOEEAGlobal_V13.0.3.0.SFNEUXM_8d2e137887_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SFNEUXM
 - branch: stable
   date: '2020-05-21'
   downloads:

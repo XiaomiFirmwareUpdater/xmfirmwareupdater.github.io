@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 25 Jul 2022 20:44:59 +0900</pubDate>
+  <pubDate>Tue, 26 Jul 2022 02:17:27 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 10 Lite (toco) - V13.0.3.0.SFNEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
+    <pubDate>Tue, 26 Jul 2022 02:17:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro/Pro Max (sweetin) - V13.0.5.0.SKFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweetin</link>
+    <pubDate>Tue, 26 Jul 2022 02:15:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 (spes) - V13.0.4.0.SGCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
+    <pubDate>Tue, 26 Jul 2022 02:14:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10C (fog) - V13.0.2.0.SGEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
+    <pubDate>Tue, 26 Jul 2022 01:48:20 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 NFC (spesn) - V13.0.2.0.SGKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 11S 5G (opal) - V13.0.7.0.RGLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/opal</link>
     <pubDate>Tue, 19 Jul 2022 20:07:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 (nabu) - V13.0.6.0.RKXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Tue, 19 Jul 2022 19:48:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.10.0.RKEMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
-    <pubDate>Tue, 19 Jul 2022 09:49:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V13.0.8.0.SKPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
-    <pubDate>Tue, 19 Jul 2022 08:35:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.7.0.SKHEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Tue, 19 Jul 2022 02:02:55 +0900</pubDate>
   </item>
     </channel>
 </rss>

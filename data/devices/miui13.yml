@@ -1018,6 +1018,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.RGEEUXM/fw_fog_miui_FOGEEAGlobal_V13.0.3.0.RGEEUXM_2f2510ed33_11.0.zip
   name: Redmi 10C
   version: V13.0.3.0.RGEEUXM
+- android: '12.0'
+  codename: fog
+  date: '2022-07-25'
+  download: https://bigota.d.miui.com/V13.0.2.0.SGEMIXM/fw_fog_miui_FOGGlobal_V13.0.2.0.SGEMIXM_c5e52078c0_12.0.zip
+  name: Redmi 10C
+  version: V13.0.2.0.SGEMIXM
 - android: '11.0'
   codename: fog
   date: '2022-06-21'
@@ -2374,6 +2380,12 @@
   download: https://bigota.d.miui.com/V13.0.10.0.RGCINXM/fw_spes_miui_SPESINGlobal_V13.0.10.0.RGCINXM_1400e290c1_11.0.zip
   name: Redmi Note 11
   version: V13.0.10.0.RGCINXM
+- android: '12.0'
+  codename: spes
+  date: '2022-07-25'
+  download: https://bigota.d.miui.com/V13.0.4.0.SGCMIXM/fw_spes_miui_SPESGlobal_V13.0.4.0.SGCMIXM_bc890fc589_12.0.zip
+  name: Redmi Note 11
+  version: V13.0.4.0.SGCMIXM
 - android: '11.0'
   codename: spes
   date: '2022-05-20'
@@ -2592,6 +2604,12 @@
   version: V13.0.4.0.SKFINXM
 - android: '12.0'
   codename: sweetin
+  date: '2022-07-25'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKFINXM/fw_sweetin_miui_SWEETININGlobal_V13.0.5.0.SKFINXM_59d7d3e509_12.0.zip
+  name: Redmi Note 10 Pro/Pro Max
+  version: V13.0.5.0.SKFINXM
+- android: '12.0'
+  codename: sweetin
   date: '2022-04-08'
   download: https://bigota.d.miui.com/V13.0.3.0.SKFINXM/fw_sweetin_miui_SWEETININGlobal_V13.0.3.0.SKFINXM_f6825cd40f_12.0.zip
   name: Redmi Note 10 Pro/Pro Max
@@ -2692,6 +2710,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SFNEUXM/fw_toco_miui_TOCOEEAGlobal_V13.0.2.0.SFNEUXM_d153f8776f_12.0.zip
   name: Mi Note 10 Lite
   version: V13.0.2.0.SFNEUXM
+- android: '12.0'
+  codename: toco
+  date: '2022-07-25'
+  download: https://bigota.d.miui.com/V13.0.3.0.SFNEUXM/fw_toco_miui_TOCOEEAGlobal_V13.0.3.0.SFNEUXM_8d2e137887_12.0.zip
+  name: Mi Note 10 Lite
+  version: V13.0.3.0.SFNEUXM
 - android: '12.0'
   codename: toco
   date: '2022-03-17'
