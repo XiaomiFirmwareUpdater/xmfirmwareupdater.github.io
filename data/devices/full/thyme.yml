@@ -29,6 +29,16 @@
     android: '11.0'
     miui: 21.5.26
 - branch: weekly
+  date: '2021-11-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-26.11.2021/fw_thyme_miui_THYME_21.11.25_9463bd2830_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.25/thyme/fw_thyme_miui_THYME_21.11.25_9463bd2830_12.0.zip
+  filename: fw_thyme_miui_THYME_21.11.25_9463bd2830_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.11.25
+- branch: weekly
   date: '2021-08-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-26.08.2021/fw_thyme_miui_THYME_21.8.25_1bf68ce39c_11.0.zip
@@ -228,6 +238,16 @@
   versions:
     android: '11.0'
     miui: 21.4.8
+- branch: weekly
+  date: '2021-11-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/weekly-05.11.2021/fw_thyme_miui_THYME_21.11.3_14d928adad_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.3/thyme/fw_thyme_miui_THYME_21.11.3_14d928adad_12.0.zip
+  filename: fw_thyme_miui_THYME_21.11.3_14d928adad_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 21.11.3
 - branch: weekly
   date: '2021-08-05'
   downloads:
