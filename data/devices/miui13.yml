@@ -473,6 +473,12 @@
   name: Redmi Note 9T
   version: V13.0.1.0.SJEMIXM
 - android: '12.0'
+  codename: cannong
+  date: '2022-07-25'
+  download: https://bigota.d.miui.com/V13.0.2.0.SJEMIXM/fw_cannong_miui_CANNONGGlobal_V13.0.2.0.SJEMIXM_fc32b78fc5_12.0.zip
+  name: Redmi Note 9T
+  version: V13.0.2.0.SJEMIXM
+- android: '12.0'
   codename: cas
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_cas_miui_CASPRE_22.3.23_33794b9290_12.0.zip
@@ -946,6 +952,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.RKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V13.0.6.0.RKEEUXM_5f930e4d70_11.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.6.0.RKEEUXM
+- android: '11.0'
+  codename: fleur
+  date: '2022-07-25'
+  download: https://bigota.d.miui.com/V13.0.5.0.RKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.5.0.RKEINXM_a9cbafb5b9_11.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.5.0.RKEINXM
 - android: '11.0'
   codename: fleur
   date: '2022-05-24'
@@ -2404,6 +2416,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.RGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.5.0.RGKEUXM_7fd5d2e790_11.0.zip
   name: Redmi Note 11 NFC
   version: V13.0.5.0.RGKEUXM
+- android: '12.0'
+  codename: spesn
+  date: '2022-07-25'
+  download: https://bigota.d.miui.com/V13.0.2.0.SGKMIXM/fw_spesn_miui_SPESNGlobal_V13.0.2.0.SGKMIXM_586a606056_12.0.zip
+  name: Redmi Note 11 NFC
+  version: V13.0.2.0.SGKMIXM
 - android: '11.0'
   codename: spesn
   date: '2022-06-24'

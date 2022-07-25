@@ -53,6 +53,8 @@ permalink: /archive/miui/alioth/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K40 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.51.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-07-22</td><td><a href="/miui/alioth/public beta/V13.0.6.1.51.DEV/">Download</a></td></tr>
+<tr><td>POCO F3 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKHTRXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-22</td><td><a href="/miui/alioth/stable beta/V13.0.2.0.SKHTRXM/">Download</a></td></tr>
+<tr><td>POCO F3 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKHTWXM</td><td>12.0</td><td>3.3 GB</td><td>2022-07-22</td><td><a href="/miui/alioth/stable beta/V13.0.2.0.SKHTWXM/">Download</a></td></tr>
 <tr><td>POCO F3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKHIDXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-14</td><td><a href="/miui/alioth/stable beta/V13.0.3.0.SKHIDXM/">Download</a></td></tr>
 <tr><td>POCO F3 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKHRUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-14</td><td><a href="/miui/alioth/stable beta/V13.0.3.0.SKHRUXM/">Download</a></td></tr>
 <tr><td>POCO F3 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SKHEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-11</td><td><a href="/miui/alioth/stable beta/V13.0.7.0.SKHEUXM/">Download</a></td></tr>

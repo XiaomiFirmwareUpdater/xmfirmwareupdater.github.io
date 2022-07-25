@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 25 Jul 2022 15:17:57 +0900</pubDate>
+  <pubDate>Mon, 25 Jul 2022 20:44:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 NFC (spesn) - V13.0.2.0.SGKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
+    <pubDate>Mon, 25 Jul 2022 20:44:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.5.0.RKEINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
+    <pubDate>Mon, 25 Jul 2022 20:28:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V13.0.2.0.SJEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Mon, 25 Jul 2022 20:02:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.5.6.0.RKSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Mon, 25 Jul 2022 20:01:19 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.11.0.SLOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
@@ -85,26 +105,6 @@
     <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.7.0.SKHEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
     <pubDate>Tue, 19 Jul 2022 02:02:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V13.0.6.0.SJBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Mon, 18 Jul 2022 19:37:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 (spes) - V13.0.11.0.RGCINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
-    <pubDate>Mon, 18 Jul 2022 13:39:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V13.0.5.0.SJDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Sun, 17 Jul 2022 07:19:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V13.0.19.0.SLCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Fri, 15 Jul 2022 19:50:29 +0900</pubDate>
   </item>
     </channel>
 </rss>
