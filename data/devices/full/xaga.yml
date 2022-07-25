@@ -29,6 +29,16 @@
     android: '12.0'
     miui: V13.0.10.0.SLOCNXM
 - branch: stable
+  date: '2022-07-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-25.07.2022/fw_xaga_miui_XAGA_V13.0.11.0.SLOCNXM_da7d1e2cfb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGA_V13.0.11.0.SLOCNXM_da7d1e2cfb_12.0.zip
+  filename: fw_xaga_miui_XAGA_V13.0.11.0.SLOCNXM_da7d1e2cfb_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SLOCNXM
+- branch: stable
   date: '2022-06-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-19.06.2022/fw_xaga_miui_XAGA_V13.0.9.0.SLOCNXM_8b3cec057f_12.0.zip

@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 22 Jul 2022 19:47:33 +0900</pubDate>
+  <pubDate>Mon, 25 Jul 2022 15:17:57 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.11.0.SLOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
+    <pubDate>Mon, 25 Jul 2022 15:17:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 (rubens) - V13.0.22.0.SLNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
+    <pubDate>Mon, 25 Jul 2022 14:39:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M4 Pro 5G (evergreen) - V13.0.1.0.SGBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/evergreen</link>
+    <pubDate>Mon, 25 Jul 2022 13:59:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) - V12.5.7.0.RCDINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Mon, 25 Jul 2022 13:36:19 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 Pro (vayu) - V13.0.5.0.SJUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
@@ -85,26 +105,6 @@
     <title>Xiaomi 12 (cupid) - V13.0.19.0.SLCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
     <pubDate>Fri, 15 Jul 2022 19:50:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.7.0.SKHINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Fri, 15 Jul 2022 07:46:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V13.0.4.0.SKBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Thu, 14 Jul 2022 20:44:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S (mayfly) - V13.0.12.0.SLTCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
-    <pubDate>Thu, 14 Jul 2022 20:17:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Ultra (thor) - V13.0.4.0.SLACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
-    <pubDate>Thu, 14 Jul 2022 02:18:48 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -9,6 +9,16 @@
     android: '12.0'
     miui: V13.0.7.0.SLNCNXM
 - branch: stable
+  date: '2022-07-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-25.07.2022/fw_rubens_miui_RUBENS_V13.0.22.0.SLNCNXM_85663082c3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rubens/fw_rubens_miui_RUBENS_V13.0.22.0.SLNCNXM_85663082c3_12.0.zip
+  filename: fw_rubens_miui_RUBENS_V13.0.22.0.SLNCNXM_85663082c3_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.22.0.SLNCNXM
+- branch: stable
   date: '2022-05-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-24.05.2022/fw_rubens_miui_RUBENS_V13.0.16.0.SLNCNXM_e3ba39f86b_12.0.zip

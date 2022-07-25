@@ -928,6 +928,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SGBMIXM/fw_evergreen_miui_EVERGREENGlobal_V13.0.2.0.SGBMIXM_a05fff657c_12.0.zip
   name: POCO M4 Pro 5G
   version: V13.0.2.0.SGBMIXM
+- android: '12.0'
+  codename: evergreen
+  date: '2022-07-25'
+  download: https://bigota.d.miui.com/V13.0.1.0.SGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.1.0.SGBEUXM_27b1d70bed_12.0.zip
+  name: POCO M4 Pro 5G
+  version: V13.0.1.0.SGBEUXM
 - android: '11.0'
   codename: fleur
   date: '2022-03-28'
@@ -2274,6 +2280,12 @@
   version: V13.0.7.0.SLNCNXM
 - android: '12.0'
   codename: rubens
+  date: '2022-07-25'
+  download: https://bigota.d.miui.com/V13.0.22.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.22.0.SLNCNXM_85663082c3_12.0.zip
+  name: Redmi K50
+  version: V13.0.22.0.SLNCNXM
+- android: '12.0'
+  codename: rubens
   date: '2022-05-24'
   download: https://bigota.d.miui.com/V13.0.16.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.16.0.SLNCNXM_e3ba39f86b_12.0.zip
   name: Redmi K50
@@ -3220,6 +3232,12 @@
   download: https://bigota.d.miui.com/V13.0.10.0.SLOCNXM/fw_xaga_miui_XAGA_V13.0.10.0.SLOCNXM_58d9bdf32e_12.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V13.0.10.0.SLOCNXM
+- android: '12.0'
+  codename: xaga
+  date: '2022-07-25'
+  download: https://bigota.d.miui.com/V13.0.11.0.SLOCNXM/fw_xaga_miui_XAGA_V13.0.11.0.SLOCNXM_da7d1e2cfb_12.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V13.0.11.0.SLOCNXM
 - android: '12.0'
   codename: xaga
   date: '2022-06-19'

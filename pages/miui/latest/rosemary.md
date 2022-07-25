@@ -64,9 +64,8 @@ permalink: /miui/rosemary/
 <tr><td>Redmi Note 10S Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.9.0.RKLRUXM</td><td>11.0</td><td>4.8 GB</td><td>2022-05-26</td><td><a href="/miui/rosemary/stable/V12.5.9.0.RKLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RKLRUXM</td><td>11.0</td><td>2.7 GB</td><td>2022-06-02</td><td><a href="/miui/rosemary/stable/V12.5.9.0.RKLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKLRUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-07-11</td><td><a href="/miui/rosemary/stable beta/V13.0.1.0.SKLRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10S Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RKLTRXM</td><td>11.0</td><td>4.8 GB</td><td>2022-05-31</td><td><a href="/miui/rosemary/stable/V12.5.8.0.RKLTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10S Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKLTRXM</td><td>11.0</td><td>2.7 GB</td><td>2022-06-08</td><td><a href="/miui/rosemary/stable/V12.5.8.0.RKLTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKLTRXM</td><td>12.0</td><td>3.2 GB</td><td>2022-07-15</td><td><a href="/miui/rosemary/stable beta/V13.0.1.0.SKLTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKLTRXM</td><td>12.0</td><td>5.3 GB</td><td>2022-07-08</td><td><a href="/miui/rosemary/stable/V13.0.1.0.SKLTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKLTRXM</td><td>12.0</td><td>3.2 GB</td><td>2022-07-15</td><td><a href="/miui/rosemary/stable/V13.0.1.0.SKLTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKLTWXM</td><td>12.0</td><td>4.9 GB</td><td>2022-07-08</td><td><a href="/miui/rosemary/stable/V13.0.1.0.SKLTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKLTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-07-15</td><td><a href="/miui/rosemary/stable/V13.0.1.0.SKLTWXM/">Download</a></td></tr>
 

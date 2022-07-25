@@ -1009,15 +1009,15 @@
     android: '10.0'
     miui: V12.0.19.0.QCDEUXM
 - branch: stable
-  date: '2022-07-01'
+  date: '2022-07-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-01.07.2022/fw_dandelion_miui_DANDELIONINGlobal_V12.0.24.0.QCDINXM_5ff1110d05_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.24.0.QCDINXM_5ff1110d05_10.0.zip
-  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.24.0.QCDINXM_5ff1110d05_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-25.07.2022/fw_dandelion_miui_DANDELIONINGlobal_V12.5.7.0.RCDINXM_182344d96b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.5.7.0.RCDINXM_182344d96b_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.5.7.0.RCDINXM_182344d96b_11.0.zip
   region: India
   versions:
-    android: '10.0'
-    miui: V12.0.24.0.QCDINXM
+    android: '11.0'
+    miui: V12.5.7.0.RCDINXM
 - branch: stable
   date: '2022-07-12'
   downloads:
@@ -1239,15 +1239,15 @@
     android: '12.0'
     miui: V13.0.2.0.SGBMIXM
 - branch: stable
-  date: '2022-05-26'
+  date: '2022-07-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-26.05.2022/fw_evergreen_miui_EVERGREENEEAGlobal_V12.5.8.0.RGBEUXM_611954c243_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/evergreen/fw_evergreen_miui_EVERGREENEEAGlobal_V12.5.8.0.RGBEUXM_611954c243_11.0.zip
-  filename: fw_evergreen_miui_EVERGREENEEAGlobal_V12.5.8.0.RGBEUXM_611954c243_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-25.07.2022/fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.1.0.SGBEUXM_27b1d70bed_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergreen/fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.1.0.SGBEUXM_27b1d70bed_12.0.zip
+  filename: fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.1.0.SGBEUXM_27b1d70bed_12.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V12.5.8.0.RGBEUXM
+    android: '12.0'
+    miui: V13.0.1.0.SGBEUXM
 - branch: stable
   date: '2022-04-18'
   downloads:
@@ -3469,15 +3469,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2022-06-21'
+  date: '2022-07-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-21.06.2022/fw_rubens_miui_RUBENS_V13.0.21.0.SLNCNXM_0ee849d431_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rubens/fw_rubens_miui_RUBENS_V13.0.21.0.SLNCNXM_0ee849d431_12.0.zip
-  filename: fw_rubens_miui_RUBENS_V13.0.21.0.SLNCNXM_0ee849d431_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-25.07.2022/fw_rubens_miui_RUBENS_V13.0.22.0.SLNCNXM_85663082c3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rubens/fw_rubens_miui_RUBENS_V13.0.22.0.SLNCNXM_85663082c3_12.0.zip
+  filename: fw_rubens_miui_RUBENS_V13.0.22.0.SLNCNXM_85663082c3_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.21.0.SLNCNXM
+    miui: V13.0.22.0.SLNCNXM
 - branch: stable
   date: '2020-03-23'
   downloads:
@@ -4509,15 +4509,15 @@
     android: '11.0'
     miui: V12.5.5.0.RCXEUXM
 - branch: stable
-  date: '2022-06-27'
+  date: '2022-07-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-27.06.2022/fw_xaga_miui_XAGA_V13.0.10.0.SLOCNXM_58d9bdf32e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGA_V13.0.10.0.SLOCNXM_58d9bdf32e_12.0.zip
-  filename: fw_xaga_miui_XAGA_V13.0.10.0.SLOCNXM_58d9bdf32e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-25.07.2022/fw_xaga_miui_XAGA_V13.0.11.0.SLOCNXM_da7d1e2cfb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGA_V13.0.11.0.SLOCNXM_da7d1e2cfb_12.0.zip
+  filename: fw_xaga_miui_XAGA_V13.0.11.0.SLOCNXM_da7d1e2cfb_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.10.0.SLOCNXM
+    miui: V13.0.11.0.SLOCNXM
 - branch: stable
   date: '2020-09-30'
   downloads:
