@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 26 Jul 2022 13:23:12 +0900</pubDate>
+  <pubDate>Tue, 26 Jul 2022 20:00:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12S (mayfly) - V13.0.14.0.SLTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
+    <pubDate>Tue, 26 Jul 2022 20:00:02 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 Pro (vayu) - V13.0.3.0.SJUEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12S Ultra (thor) - V13.0.5.0.SLACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
     <pubDate>Wed, 20 Jul 2022 19:58:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) - V12.5.7.0.RCZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Wed, 20 Jul 2022 13:29:11 +0900</pubDate>
   </item>
     </channel>
 </rss>

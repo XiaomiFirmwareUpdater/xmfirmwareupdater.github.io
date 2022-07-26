@@ -1596,6 +1596,12 @@
   version: V13.0.15.0.SLKCNXM
 - android: '12.0'
   codename: mayfly
+  date: '2022-07-26'
+  download: https://bigota.d.miui.com/V13.0.14.0.SLTCNXM/fw_mayfly_miui_MAYFLY_V13.0.14.0.SLTCNXM_ab8b71c9e5_12.0.zip
+  name: Xiaomi 12S
+  version: V13.0.14.0.SLTCNXM
+- android: '12.0'
+  codename: mayfly
   date: '2022-07-14'
   download: https://bigota.d.miui.com/V13.0.12.0.SLTCNXM/fw_mayfly_miui_MAYFLY_V13.0.12.0.SLTCNXM_31879da7f9_12.0.zip
   name: Xiaomi 12S
