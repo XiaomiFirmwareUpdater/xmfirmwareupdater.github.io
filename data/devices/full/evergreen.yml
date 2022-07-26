@@ -19,16 +19,6 @@
     android: '11.0'
     miui: V12.5.8.0.RGBEUXM
 - branch: stable
-  date: '2022-05-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-26.05.2022/fw_evergreen_miui_EVERGREENGlobal_V12.5.7.0.RGBMIXM_7811d74404_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/evergreen/fw_evergreen_miui_EVERGREENGlobal_V12.5.7.0.RGBMIXM_7811d74404_11.0.zip
-  filename: fw_evergreen_miui_EVERGREENGlobal_V12.5.7.0.RGBMIXM_7811d74404_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.7.0.RGBMIXM
-- branch: stable
   date: '2022-07-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-25.07.2022/fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.1.0.SGBEUXM_27b1d70bed_12.0.zip

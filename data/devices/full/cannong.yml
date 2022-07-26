@@ -1,14 +1,4 @@
 - branch: stable
-  date: '2022-06-29'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-29.06.2022/fw_cannong_miui_CANNONGGlobal_V13.0.1.0.SJEMIXM_710e0a124e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGGlobal_V13.0.1.0.SJEMIXM_710e0a124e_12.0.zip
-  filename: fw_cannong_miui_CANNONGGlobal_V13.0.1.0.SJEMIXM_710e0a124e_12.0.zip
-  region: Global
-  versions:
-    android: '12.0'
-    miui: V13.0.1.0.SJEMIXM
-- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-28.01.2021/fw_cannong_miui_CANNONGEEAGlobal_V12.0.4.0.QJEEUXM_ab1f9a2fe5_10.0.zip
