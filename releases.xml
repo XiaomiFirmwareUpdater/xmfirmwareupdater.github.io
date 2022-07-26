@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 26 Jul 2022 20:00:02 +0900</pubDate>
+  <pubDate>Tue, 26 Jul 2022 20:00:21 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Xiaomi 12S (mayfly) - V13.0.14.0.SLTCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
-    <pubDate>Tue, 26 Jul 2022 20:00:02 +0900</pubDate>
+    <pubDate>Tue, 26 Jul 2022 20:00:21 +0900</pubDate>
   </item>
     <item>
     <title>POCO X3 Pro (vayu) - V13.0.3.0.SJUEUXM</title>
