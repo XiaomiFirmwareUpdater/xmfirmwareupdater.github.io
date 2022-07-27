@@ -5788,6 +5788,12 @@
   download: https://bigota.d.miui.com/20.7.2/miui_RAPHAEL_20.7.2_ff7c55b420_10.0.zip
   name: Redmi K20 Pro/Mi 9T Pro
   version: 20.7.2
+- android: '12.0'
+  codename: renoir
+  date: '2021-10-29'
+  download: https://bigota.d.miui.com/21.10.27/miui_RENOIR_21.10.27_eecc0a59c6_12.0.zip
+  name: Mi 11 Lite 5G
+  version: 21.10.27
 - android: '11.0'
   codename: renoir
   date: '2021-07-29'
@@ -5854,12 +5860,24 @@
   download: https://bigota.d.miui.com/21.5.12/miui_RENOIR_21.5.12_d8d136e884_11.0.zip
   name: Mi 11 Lite 5G
   version: 21.5.12
+- android: '12.0'
+  codename: renoir
+  date: '2021-11-12'
+  download: https://bigota.d.miui.com/21.11.11/miui_RENOIR_21.11.11_a4523dadb4_12.0.zip
+  name: Mi 11 Lite 5G
+  version: 21.11.11
 - android: '11.0'
   codename: renoir
   date: '2021-08-12'
   download: https://bigota.d.miui.com/21.8.11/miui_RENOIR_21.8.11_21b9034c96_11.0.zip
   name: Mi 11 Lite 5G
   version: 21.8.11
+- android: '12.0'
+  codename: renoir
+  date: '2021-12-10'
+  download: https://bigota.d.miui.com/21.12.8/miui_RENOIR_21.12.8_9ef4e7e93d_12.0.zip
+  name: Mi 11 Lite 5G
+  version: 21.12.8
 - android: '11.0'
   codename: renoir
   date: '2021-06-10'
@@ -5884,6 +5902,12 @@
   download: https://bigota.d.miui.com/21.8.4/miui_RENOIR_21.8.4_e3e8da3555_11.0.zip
   name: Mi 11 Lite 5G
   version: 21.8.4
+- android: '12.0'
+  codename: renoir
+  date: '2021-12-04'
+  download: https://bigota.d.miui.com/21.12.1/miui_RENOIR_21.12.1_5ff5d0e08d_12.0.zip
+  name: Mi 11 Lite 5G
+  version: 21.12.1
 - android: '11.0'
   codename: renoir
   date: '2021-07-02'
