@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 26 Jul 2022 20:00:21 +0900</pubDate>
+  <pubDate>Wed, 27 Jul 2022 13:48:54 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V12.5.10.0.RGBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
+    <pubDate>Wed, 27 Jul 2022 13:48:54 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12S (mayfly) - V13.0.14.0.SLTCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 11T (agate) - V13.0.4.0.SKWMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
     <pubDate>Thu, 21 Jul 2022 01:46:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Ultra (thor) - V13.0.5.0.SLACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
-    <pubDate>Wed, 20 Jul 2022 19:58:34 +0900</pubDate>
   </item>
     </channel>
 </rss>

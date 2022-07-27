@@ -89,6 +89,16 @@
     android: '11.0'
     miui: 21.12.1
 - branch: stable
+  date: '2022-07-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-27.07.2022/fw_evergo_miui_EVERGO_V12.5.10.0.RGBCNXM_66ca1e2aca_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/evergo/fw_evergo_miui_EVERGO_V12.5.10.0.RGBCNXM_66ca1e2aca_11.0.zip
+  filename: fw_evergo_miui_EVERGO_V12.5.10.0.RGBCNXM_66ca1e2aca_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.10.0.RGBCNXM
+- branch: stable
   date: '2021-12-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-16.12.2021/fw_evergo_miui_EVERGOINGlobal_V12.5.2.0.RGBINXM_cd4432a27f_11.0.zip
