@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2022-07-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-28.07.2022/fw_light_miui_LIGHTINGlobal_V13.0.4.0.SLSINXM_6a6a26920c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHTINGlobal_V13.0.4.0.SLSINXM_6a6a26920c_12.0.zip
+  filename: fw_light_miui_LIGHTINGlobal_V13.0.4.0.SLSINXM_6a6a26920c_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SLSINXM
+- branch: stable
   date: '2022-03-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-26.03.2022/fw_light_miui_LIGHT_V13.0.3.0.SLSCNXM_34456a113e_12.0.zip
