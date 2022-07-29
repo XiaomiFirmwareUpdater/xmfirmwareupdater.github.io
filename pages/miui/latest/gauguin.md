@@ -54,8 +54,8 @@ permalink: /miui/gauguin/
                 <tbody>
                 <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SJSCNXM</td><td>12.0</td><td>5.3 GB</td><td>2022-05-10</td><td><a href="/miui/gauguin/stable/V13.0.5.0.SJSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Fastboot</td><td>22.1.19</td><td>12.0</td><td>5.3 GB</td><td>2022-01-19</td><td><a href="/miui/gauguin/weekly/22.1.19/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.51.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-07-22</td><td><a href="/miui/gauguin/public beta/V13.0.5.1.51.DEV/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJSCNXM</td><td>12.0</td><td>4.4 GB</td><td>2022-03-17</td><td><a href="/miui/gauguin/stable/V13.0.3.0.SJSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.55.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-07-29</td><td><a href="/miui/gauguin/public beta/V13.0.5.1.55.DEV/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RJSCNXM</td><td>11.0</td><td>3.8 GB</td><td>2022-01-21</td><td><a href="/miui/gauguin/stable/V12.5.7.0.RJSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SJSCNXM</td><td>12.0</td><td>4.3 GB</td><td>2022-07-12</td><td><a href="/miui/gauguin/stable beta/V13.0.6.0.SJSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.4 GB</td><td>2022-03-24</td><td><a href="/miui/gauguin/weekly/22.3.23/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SJSEUXM</td><td>12.0</td><td>5.3 GB</td><td>2022-05-19</td><td><a href="/miui/gauguin/stable/V13.0.6.0.SJSEUXM/">Download</a></td></tr>

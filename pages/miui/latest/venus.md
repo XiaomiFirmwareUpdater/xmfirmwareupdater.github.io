@@ -65,9 +65,8 @@ permalink: /miui/venus/
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKBMIXM</td><td>12.0</td><td>6.1 GB</td><td>2022-07-01</td><td><a href="/miui/venus/stable/V13.0.4.0.SKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKBMIXM</td><td>12.0</td><td>3.7 GB</td><td>2022-07-12</td><td><a href="/miui/venus/stable/V13.0.4.0.SKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.8.0.SKBMIXM</td><td>12.0</td><td>3.5 GB</td><td>2021-12-21</td><td><a href="/miui/venus/stable beta/V12.5.8.0.SKBMIXM/">Download</a></td></tr>
-<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKBIDXM</td><td>12.0</td><td>5.6 GB</td><td>2022-02-26</td><td><a href="/miui/venus/stable/V13.0.1.0.SKBIDXM/">Download</a></td></tr>
-<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKBIDXM</td><td>12.0</td><td>3.5 GB</td><td>2022-03-17</td><td><a href="/miui/venus/stable/V13.0.1.0.SKBIDXM/">Download</a></td></tr>
-<tr><td>Mi 11 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKBIDXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-22</td><td><a href="/miui/venus/stable beta/V13.0.3.0.SKBIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKBIDXM</td><td>12.0</td><td>5.5 GB</td><td>2022-07-06</td><td><a href="/miui/venus/stable/V13.0.3.0.SKBIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKBIDXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-22</td><td><a href="/miui/venus/stable/V13.0.3.0.SKBIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKBRUXM</td><td>12.0</td><td>5.6 GB</td><td>2022-06-09</td><td><a href="/miui/venus/stable/V13.0.2.0.SKBRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKBRUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-06-28</td><td><a href="/miui/venus/stable/V13.0.2.0.SKBRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKBTRXM</td><td>12.0</td><td>5.6 GB</td><td>2022-02-28</td><td><a href="/miui/venus/stable/V13.0.1.0.SKBTRXM/">Download</a></td></tr>
