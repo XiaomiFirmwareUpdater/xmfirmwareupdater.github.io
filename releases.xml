@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 29 Jul 2022 01:41:18 +0900</pubDate>
+  <pubDate>Fri, 29 Jul 2022 20:19:48 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V13.0.7.0.SLBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Fri, 29 Jul 2022 20:19:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.5.6.0.RJCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Fri, 29 Jul 2022 19:50:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.8.0.SLCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Fri, 29 Jul 2022 19:49:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V12.5.5.0.RJCINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Fri, 29 Jul 2022 13:28:16 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.5.0.SKEMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V12.5.6.0.RKSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
     <pubDate>Mon, 25 Jul 2022 20:01:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.11.0.SLOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
-    <pubDate>Mon, 25 Jul 2022 15:17:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 (rubens) - V13.0.22.0.SLNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
-    <pubDate>Mon, 25 Jul 2022 14:39:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M4 Pro 5G (evergreen) - V13.0.1.0.SGBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergreen</link>
-    <pubDate>Mon, 25 Jul 2022 13:59:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) - V12.5.7.0.RCDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Mon, 25 Jul 2022 13:36:19 +0900</pubDate>
   </item>
     </channel>
 </rss>
