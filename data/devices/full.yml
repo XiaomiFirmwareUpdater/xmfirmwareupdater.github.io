@@ -12179,16 +12179,6 @@
     android: '11.0'
     miui: 21.6.23
 - branch: weekly
-  date: '2021-10-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-21.10.2021/fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/chopin/fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.10.20_cbcabed84f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.10.20
-- branch: weekly
   date: '2022-01-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-21.01.2022/fw_chopin_miui_CHOPINPRE_22.1.19_ad00ace639_12.0.zip
@@ -12279,16 +12269,6 @@
     android: '11.0'
     miui: 21.8.11
 - branch: weekly
-  date: '2021-09-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-09.09.2021/fw_chopin_miui_CHOPIN_21.9.8_09acab9042_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.8/chopin/fw_chopin_miui_CHOPIN_21.9.8_09acab9042_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.9.8_09acab9042_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.8
-- branch: weekly
   date: '2021-07-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-08.07.2021/fw_chopin_miui_CHOPIN_21.7.7_af3e96ff20_11.0.zip
@@ -12318,16 +12298,6 @@
   versions:
     android: '12.0'
     miui: 22.3.3
-- branch: weekly
-  date: '2021-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-03.09.2021/fw_chopin_miui_CHOPIN_21.9.2_cd032bf99f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.2/chopin/fw_chopin_miui_CHOPIN_21.9.2_cd032bf99f_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.9.2_cd032bf99f_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.2
 - branch: weekly
   date: '2021-07-02'
   downloads:
