@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 31 Jul 2022 01:19:53 +0900</pubDate>
+  <pubDate>Mon, 01 Aug 2022 19:44:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V13.0.7.0.SKOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Mon, 01 Aug 2022 19:44:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V13.0.2.0.SJEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Mon, 01 Aug 2022 19:18:06 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.4.0.SJSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 11 NFC (spesn) - V13.0.2.0.SGKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
     <pubDate>Mon, 25 Jul 2022 20:44:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.5.0.RKEINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
-    <pubDate>Mon, 25 Jul 2022 20:28:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9T (cannong) - V13.0.2.0.SJEMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
-    <pubDate>Mon, 25 Jul 2022 20:02:21 +0900</pubDate>
   </item>
     </channel>
 </rss>

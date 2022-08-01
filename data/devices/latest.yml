@@ -479,15 +479,15 @@
     android: '12.0'
     miui: V13.0.2.0.SJEMIXM
 - branch: stable
-  date: '2022-04-01'
+  date: '2022-08-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-01.04.2022/fw_cannong_miui_CANNONGEEAGlobal_V12.5.8.0.RJEEUXM_81a455a4b7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGEEAGlobal_V12.5.8.0.RJEEUXM_81a455a4b7_11.0.zip
-  filename: fw_cannong_miui_CANNONGEEAGlobal_V12.5.8.0.RJEEUXM_81a455a4b7_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-01.08.2022/fw_cannong_miui_CANNONGEEAGlobal_V13.0.2.0.SJEEUXM_237d7d0061_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGEEAGlobal_V13.0.2.0.SJEEUXM_237d7d0061_12.0.zip
+  filename: fw_cannong_miui_CANNONGEEAGlobal_V13.0.2.0.SJEEUXM_237d7d0061_12.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V12.5.8.0.RJEEUXM
+    android: '12.0'
+    miui: V13.0.2.0.SJEEUXM
 - branch: stable
   date: '2019-01-14'
   downloads:
@@ -2149,15 +2149,15 @@
     android: '12.0'
     miui: V13.0.9.0.SKOEUXM
 - branch: stable
-  date: '2022-06-20'
+  date: '2022-08-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-20.06.2022/fw_lisa_miui_LISAINGlobal_V13.0.6.0.SKOINXM_29eb4e561c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAINGlobal_V13.0.6.0.SKOINXM_29eb4e561c_12.0.zip
-  filename: fw_lisa_miui_LISAINGlobal_V13.0.6.0.SKOINXM_29eb4e561c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-01.08.2022/fw_lisa_miui_LISAINGlobal_V13.0.7.0.SKOINXM_2cde52b7a0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAINGlobal_V13.0.7.0.SKOINXM_2cde52b7a0_12.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_V13.0.7.0.SKOINXM_2cde52b7a0_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SKOINXM
+    miui: V13.0.7.0.SKOINXM
 - branch: stable
   date: '2019-11-08'
   downloads:
