@@ -1409,6 +1409,16 @@
     android: '10.0'
     miui: V12.0.4.0.QCRMIXM
 - branch: stable
+  date: '2022-08-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-01.08.2022/fw_angelica_miui_ANGELICAEEAGlobal_V12.5.2.0.RCREUXM_40f586f5b9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.5.2.0.RCREUXM_40f586f5b9_11.0.zip
+  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.5.2.0.RCREUXM_40f586f5b9_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RCREUXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelicain/releases/download/stable-30.10.2020/fw_angelicain_miui_ANGELICAININGlobal_V12.0.2.0.QCRINXM_5f28a491aa_10.0.zip
@@ -23388,6 +23398,16 @@
   versions:
     android: '11.0'
     miui: V12.0.3.0.RKKCNXM
+- branch: stable
+  date: '2022-08-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-01.08.2022/fw_haydn_miui_HAYDN_V13.0.10.0.SKKCNXM_2f660809e4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDN_V13.0.10.0.SKKCNXM_2f660809e4_12.0.zip
+  filename: fw_haydn_miui_HAYDN_V13.0.10.0.SKKCNXM_2f660809e4_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SKKCNXM
 - branch: stable
   date: '2019-05-14'
   downloads:
