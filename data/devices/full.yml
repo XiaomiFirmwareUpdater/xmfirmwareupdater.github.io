@@ -32359,26 +32359,6 @@
     android: '9.0'
     miui: 9.3.21
 - branch: weekly
-  date: '2019-03-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nitrogen/releases/download/weekly-15.03.2019/fw_nitrogen_miui_MIMAX3Global_9.3.14_1ca7863463_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/nitrogen/fw_nitrogen_miui_MIMAX3Global_9.3.14_1ca7863463_9.0.zip
-  filename: fw_nitrogen_miui_MIMAX3Global_9.3.14_1ca7863463_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.3.14
-- branch: weekly
-  date: '2019-03-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nitrogen/releases/download/weekly-15.03.2019/fw_nitrogen_miui_MIMAX3_9.3.14_ed715dfd9c_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.3.14/nitrogen/fw_nitrogen_miui_MIMAX3_9.3.14_ed715dfd9c_9.0.zip
-  filename: fw_nitrogen_miui_MIMAX3_9.3.14_ed715dfd9c_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: 9.3.14
-- branch: weekly
   date: '2019-03-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nitrogen/releases/download/weekly-04.03.2019/fw_nitrogen_miui_MIMAX3Global_9.3.1_441bc8ace0_9.0.zip
@@ -32548,16 +32528,6 @@
   versions:
     android: '8.1'
     miui: 8.11.8
-- branch: stable
-  date: '2018-11-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nitrogen/releases/download/stable-05.11.2018/fw_nitrogen_miui_MIMAX3_V10.0.6.0.OEDCNFH_479359384f_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/nitrogen/fw_nitrogen_miui_MIMAX3_V10.0.6.0.OEDCNFH_479359384f_8.1.zip
-  filename: fw_nitrogen_miui_MIMAX3_V10.0.6.0.OEDCNFH_479359384f_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: V10.0.6.0.OEDCNFH
 - branch: weekly
   date: '2018-10-26'
   downloads:
@@ -32662,16 +32632,6 @@
   date: '2018-08-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nitrogen/releases/download/weekly-10.08.2018/fw_nitrogen_miui_MIMAX3_8.8.9_26d5785ee1_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/nitrogen/fw_nitrogen_miui_MIMAX3_8.8.9_26d5785ee1_8.1.zip
-  filename: fw_nitrogen_miui_MIMAX3_8.8.9_26d5785ee1_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.8.9
-- branch: weekly
-  date: '2018-08-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nitrogen/releases/download/untagged-1b3ef74e52d8e3f35bfd/fw_nitrogen_miui_MIMAX3_8.8.9_26d5785ee1_8.1.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.9/nitrogen/fw_nitrogen_miui_MIMAX3_8.8.9_26d5785ee1_8.1.zip
   filename: fw_nitrogen_miui_MIMAX3_8.8.9_26d5785ee1_8.1.zip
   region: China
