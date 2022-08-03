@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 03 Aug 2022 19:29:29 +0900</pubDate>
+  <pubDate>Thu, 04 Aug 2022 01:23:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 Ultra (cezanne) - V13.0.3.0.SJNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cezanne</link>
+    <pubDate>Thu, 04 Aug 2022 01:23:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M2 (shiva) - V12.5.7.0.RJRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/shiva</link>
+    <pubDate>Wed, 03 Aug 2022 19:31:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10X Pro (bomb) - V13.0.3.0.SJLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
+    <pubDate>Wed, 03 Aug 2022 19:30:45 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X 5G (atom) - V13.0.3.0.SJHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V12.5.10.0.RGBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
     <pubDate>Wed, 27 Jul 2022 13:48:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S (mayfly) - V13.0.14.0.SLTCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
-    <pubDate>Tue, 26 Jul 2022 20:00:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 Pro (vayu) - V13.0.3.0.SJUEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
-    <pubDate>Tue, 26 Jul 2022 13:23:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 10 Lite (toco) - V13.0.3.0.SFNEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
-    <pubDate>Tue, 26 Jul 2022 02:17:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
