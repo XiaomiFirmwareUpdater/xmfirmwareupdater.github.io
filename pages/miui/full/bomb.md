@@ -52,7 +52,8 @@ permalink: /archive/miui/bomb/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10X Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.55.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-07-29</td><td><a href="/miui/bomb/public beta/V13.0.1.1.55.DEV/">Download</a></td></tr>
+                <tr><td>Redmi 10X Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJLCNXM</td><td>12.0</td><td>3.7 GB</td><td>2022-08-03</td><td><a href="/miui/bomb/stable beta/V13.0.3.0.SJLCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.55.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-07-29</td><td><a href="/miui/bomb/public beta/V13.0.1.1.55.DEV/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.50.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-07-22</td><td><a href="/miui/bomb/public beta/V13.0.1.1.50.DEV/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.46.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-07-15</td><td><a href="/miui/bomb/public beta/V13.0.1.1.46.DEV/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.45.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-07-08</td><td><a href="/miui/bomb/public beta/V13.0.1.1.45.DEV/">Download</a></td></tr>

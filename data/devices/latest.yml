@@ -249,15 +249,15 @@
     android: '12.0'
     miui: V13.0.3.0.SKJINXM
 - branch: stable
-  date: '2022-06-19'
+  date: '2022-08-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/stable-19.06.2022/fw_atom_miui_ATOM_V13.0.2.0.SJHCNXM_ce68369339_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/atom/fw_atom_miui_ATOM_V13.0.2.0.SJHCNXM_ce68369339_12.0.zip
-  filename: fw_atom_miui_ATOM_V13.0.2.0.SJHCNXM_ce68369339_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/stable-03.08.2022/fw_atom_miui_ATOM_V13.0.3.0.SJHCNXM_066e584506_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/atom/fw_atom_miui_ATOM_V13.0.3.0.SJHCNXM_066e584506_12.0.zip
+  filename: fw_atom_miui_ATOM_V13.0.3.0.SJHCNXM_066e584506_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJHCNXM
+    miui: V13.0.3.0.SJHCNXM
 - branch: weekly
   date: '2022-03-04'
   downloads:
@@ -359,15 +359,15 @@
     android: '12.0'
     miui: V13.0.4.0.SCUEUXM
 - branch: stable
-  date: '2022-06-19'
+  date: '2022-08-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-19.06.2022/fw_bomb_miui_BOMB_V13.0.2.0.SJLCNXM_2f77fbf24c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/bomb/fw_bomb_miui_BOMB_V13.0.2.0.SJLCNXM_2f77fbf24c_12.0.zip
-  filename: fw_bomb_miui_BOMB_V13.0.2.0.SJLCNXM_2f77fbf24c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_bomb/releases/download/stable-03.08.2022/fw_bomb_miui_BOMB_V13.0.3.0.SJLCNXM_fcd99ca1f5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/bomb/fw_bomb_miui_BOMB_V13.0.3.0.SJLCNXM_fcd99ca1f5_12.0.zip
+  filename: fw_bomb_miui_BOMB_V13.0.3.0.SJLCNXM_fcd99ca1f5_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJLCNXM
+    miui: V13.0.3.0.SJLCNXM
 - branch: weekly
   date: '2022-03-04'
   downloads:
@@ -3669,15 +3669,15 @@
     android: '11.0'
     miui: V12.5.7.0.RKUCNXM
 - branch: stable
-  date: '2022-04-15'
+  date: '2022-08-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shiva/releases/download/stable-15.04.2022/fw_shiva_miui_SHIVAINGlobal_V12.5.6.0.RJRINXM_3022ddd9eb_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/shiva/fw_shiva_miui_SHIVAINGlobal_V12.5.6.0.RJRINXM_3022ddd9eb_11.0.zip
-  filename: fw_shiva_miui_SHIVAINGlobal_V12.5.6.0.RJRINXM_3022ddd9eb_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_shiva/releases/download/stable-03.08.2022/fw_shiva_miui_SHIVAINGlobal_V12.5.7.0.RJRINXM_aec8165073_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/shiva/fw_shiva_miui_SHIVAINGlobal_V12.5.7.0.RJRINXM_aec8165073_11.0.zip
+  filename: fw_shiva_miui_SHIVAINGlobal_V12.5.7.0.RJRINXM_aec8165073_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.6.0.RJRINXM
+    miui: V12.5.7.0.RJRINXM
 - branch: stable
   date: '2020-09-24'
   downloads:
