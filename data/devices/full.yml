@@ -10459,6 +10459,26 @@
     android: '10.0'
     miui: V12.0.5.0.QFAMIXM
 - branch: stable
+  date: '2020-03-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-04.03.2020/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V11.0.8.0.QFAEUXM
+- branch: stable
+  date: '2020-03-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-04.03.2020/fw_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
+  filename: fw_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
+  region: Global
+  versions:
+    android: '10.0'
+    miui: V11.0.5.0.QFAMIXM
+- branch: stable
   date: '2020-07-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-03.07.2020/fw_cepheus_miui_CEPHEUSGlobal_V12.0.1.0.QFAMIXM_fd9137ab3a_10.0.zip
@@ -15109,6 +15129,16 @@
     android: '12.0'
     miui: V13.0.28.0.SLCCNXM
 - branch: stable
+  date: '2022-08-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-04.08.2022/fw_cupid_miui_CUPID_V13.0.37.0.SLCCNXM_1b87deb2d5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPID_V13.0.37.0.SLCCNXM_1b87deb2d5_12.0.zip
+  filename: fw_cupid_miui_CUPID_V13.0.37.0.SLCCNXM_1b87deb2d5_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.37.0.SLCCNXM
+- branch: stable
   date: '2022-04-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-01.04.2022/fw_cupid_miui_CUPIDGlobal_V13.0.6.0.SLCMIXM_91e9555620_12.0.zip
@@ -19728,6 +19758,16 @@
   versions:
     android: '11.0'
     miui: V13.0.8.0.RGEMIXM
+- branch: stable
+  date: '2022-08-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-04.08.2022/fw_frost_miui_FROSTGlobal_V13.0.9.0.RGFMIXM_1f282242db_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTGlobal_V13.0.9.0.RGFMIXM_1f282242db_11.0.zip
+  filename: fw_frost_miui_FROSTGlobal_V13.0.9.0.RGFMIXM_1f282242db_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V13.0.9.0.RGFMIXM
 - branch: stable
   date: '2022-07-04'
   downloads:
@@ -56798,6 +56838,16 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SLBINXM
+- branch: stable
+  date: '2022-08-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-04.08.2022/fw_zeus_miui_ZEUS_V13.0.37.0.SLBCNXM_46c0d55212_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUS_V13.0.37.0.SLBCNXM_46c0d55212_12.0.zip
+  filename: fw_zeus_miui_ZEUS_V13.0.37.0.SLBCNXM_46c0d55212_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.37.0.SLBCNXM
 - branch: stable
   date: '2022-04-01'
   downloads:

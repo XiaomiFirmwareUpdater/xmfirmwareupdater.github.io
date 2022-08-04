@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.7.0.SLBMIXM
 - branch: stable
-  date: '2022-06-27'
+  date: '2022-08-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-27.06.2022/fw_zeus_miui_ZEUS_V13.0.36.0.SLBCNXM_8a9ad9557d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUS_V13.0.36.0.SLBCNXM_8a9ad9557d_12.0.zip
-  filename: fw_zeus_miui_ZEUS_V13.0.36.0.SLBCNXM_8a9ad9557d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-04.08.2022/fw_zeus_miui_ZEUS_V13.0.37.0.SLBCNXM_46c0d55212_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUS_V13.0.37.0.SLBCNXM_46c0d55212_12.0.zip
+  filename: fw_zeus_miui_ZEUS_V13.0.37.0.SLBCNXM_46c0d55212_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.36.0.SLBCNXM
+    miui: V13.0.37.0.SLBCNXM
 - branch: stable
   date: '2022-07-11'
   downloads:

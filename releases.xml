@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 04 Aug 2022 14:09:52 +0900</pubDate>
+  <pubDate>Thu, 04 Aug 2022 21:07:51 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V13.0.37.0.SLBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Thu, 04 Aug 2022 21:07:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C40 (frost) - V13.0.9.0.RGFMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/frost</link>
+    <pubDate>Thu, 04 Aug 2022 20:28:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.37.0.SLCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Thu, 04 Aug 2022 20:08:18 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 Pro 4G (viva) - V13.0.2.0.SGDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.5.0.SKEMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
     <pubDate>Fri, 29 Jul 2022 01:41:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G (light) - V13.0.6.0.SLSMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/light</link>
-    <pubDate>Thu, 28 Jul 2022 19:51:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V13.0.3.0.SJAMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Thu, 28 Jul 2022 19:23:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V13.0.1.0.SJOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Thu, 28 Jul 2022 13:23:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
