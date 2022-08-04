@@ -2124,6 +2124,12 @@
   version: V13.0.5.0.SLDCNXM
 - android: '12.0'
   codename: psyche
+  date: '2022-08-04'
+  download: https://bigota.d.miui.com/V13.0.7.0.SLDCNXM/fw_psyche_miui_PSYCHE_V13.0.7.0.SLDCNXM_9799ab3fa0_12.0.zip
+  name: Xiaomi 12X
+  version: V13.0.7.0.SLDCNXM
+- android: '12.0'
+  codename: psyche
   date: '2022-06-03'
   download: https://bigota.d.miui.com/V13.0.3.0.SLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.3.0.SLDEUXM_7b29cba800_12.0.zip
   name: Xiaomi 12X
@@ -3160,6 +3166,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.RGDMIXM/fw_viva_miui_VIVAGlobal_V13.0.4.0.RGDMIXM_9007697299_11.0.zip
   name: Redmi Note 11 Pro 4G
   version: V13.0.4.0.RGDMIXM
+- android: '12.0'
+  codename: viva
+  date: '2022-08-04'
+  download: https://bigota.d.miui.com/V13.0.2.0.SGDMIXM/fw_viva_miui_VIVAGlobal_V13.0.2.0.SGDMIXM_02e21fe2be_12.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V13.0.2.0.SGDMIXM
 - android: '11.0'
   codename: viva
   date: '2022-04-02'

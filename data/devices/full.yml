@@ -10459,26 +10459,6 @@
     android: '10.0'
     miui: V12.0.5.0.QFAMIXM
 - branch: stable
-  date: '2020-03-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-04.03.2020/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V11.0.8.0.QFAEUXM
-- branch: stable
-  date: '2020-03-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-04.03.2020/fw_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/cepheus/fw_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
-  filename: fw_cepheus_miui_CEPHEUSGlobal_V11.0.5.0.QFAMIXM_2a6a8c5259_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.5.0.QFAMIXM
-- branch: stable
   date: '2020-07-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/stable-03.07.2020/fw_cepheus_miui_CEPHEUSGlobal_V12.0.1.0.QFAMIXM_fd9137ab3a_10.0.zip
@@ -39719,6 +39699,16 @@
     android: '12.0'
     miui: V13.0.5.0.SLDCNXM
 - branch: stable
+  date: '2022-08-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-04.08.2022/fw_psyche_miui_PSYCHE_V13.0.7.0.SLDCNXM_9799ab3fa0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHE_V13.0.7.0.SLDCNXM_9799ab3fa0_12.0.zip
+  filename: fw_psyche_miui_PSYCHE_V13.0.7.0.SLDCNXM_9799ab3fa0_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SLDCNXM
+- branch: stable
   date: '2022-06-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-03.06.2022/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.3.0.SLDEUXM_7b29cba800_12.0.zip
@@ -54908,6 +54898,16 @@
   versions:
     android: '11.0'
     miui: V13.0.4.0.RGDMIXM
+- branch: stable
+  date: '2022-08-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-04.08.2022/fw_viva_miui_VIVAGlobal_V13.0.2.0.SGDMIXM_02e21fe2be_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/viva/fw_viva_miui_VIVAGlobal_V13.0.2.0.SGDMIXM_02e21fe2be_12.0.zip
+  filename: fw_viva_miui_VIVAGlobal_V13.0.2.0.SGDMIXM_02e21fe2be_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SGDMIXM
 - branch: stable
   date: '2022-04-02'
   downloads:
