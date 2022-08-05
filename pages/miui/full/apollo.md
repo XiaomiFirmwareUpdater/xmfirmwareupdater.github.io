@@ -52,7 +52,8 @@ permalink: /archive/miui/apollo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.55.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-07-29</td><td><a href="/miui/apollo/public beta/V13.0.5.1.55.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K30S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.56.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-08-05</td><td><a href="/miui/apollo/public beta/V13.0.5.1.56.DEV/">Download</a></td></tr>
+<tr><td>Redmi K30S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.55.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-07-29</td><td><a href="/miui/apollo/public beta/V13.0.5.1.55.DEV/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJDTWXM</td><td>12.0</td><td>3.3 GB</td><td>2022-07-27</td><td><a href="/miui/apollo/stable beta/V13.0.3.0.SJDTWXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJDRUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-25</td><td><a href="/miui/apollo/stable/V13.0.3.0.SJDRUXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJDRUXM</td><td>12.0</td><td>4.7 GB</td><td>2022-07-12</td><td><a href="/miui/apollo/stable/V13.0.3.0.SJDRUXM/">Download</a></td></tr>
