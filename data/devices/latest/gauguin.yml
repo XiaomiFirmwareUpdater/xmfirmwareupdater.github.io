@@ -29,22 +29,22 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-06-09'
+  date: '2022-08-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-09.06.2022/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.6.0.SJSEUXM_679c25227d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.6.0.SJSEUXM_679c25227d_12.0.zip
-  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.6.0.SJSEUXM_679c25227d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-08.08.2022/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.7.0.SJSEUXM_d55118805a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.7.0.SJSEUXM_d55118805a_12.0.zip
+  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.7.0.SJSEUXM_d55118805a_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SJSEUXM
+    miui: V13.0.7.0.SJSEUXM
 - branch: stable
-  date: '2022-05-19'
+  date: '2022-08-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-19.05.2022/fw_gauguin_miui_GAUGUININGlobal_V13.0.4.0.SJSINXM_e6a050b859_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUININGlobal_V13.0.4.0.SJSINXM_e6a050b859_12.0.zip
-  filename: fw_gauguin_miui_GAUGUININGlobal_V13.0.4.0.SJSINXM_e6a050b859_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-08.08.2022/fw_gauguin_miui_GAUGUININGlobal_V13.0.6.0.SJSINXM_5a0ac2471a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUININGlobal_V13.0.6.0.SJSINXM_5a0ac2471a_12.0.zip
+  filename: fw_gauguin_miui_GAUGUININGlobal_V13.0.6.0.SJSINXM_5a0ac2471a_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SJSINXM
+    miui: V13.0.6.0.SJSINXM
