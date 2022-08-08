@@ -52,8 +52,8 @@ permalink: /miui/taoyao/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLIEUXM</td><td>12.0</td><td>6.2 GB</td><td>2022-05-18</td><td><a href="/miui/taoyao/stable/V13.0.3.0.SLIEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLIEUXM</td><td>12.0</td><td>4.4 GB</td><td>2022-07-11</td><td><a href="/miui/taoyao/stable/V13.0.3.0.SLIEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SLIEUXM</td><td>12.0</td><td>6.2 GB</td><td>2022-06-24</td><td><a href="/miui/taoyao/stable/V13.0.5.0.SLIEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLIEUXM</td><td>12.0</td><td>4.4 GB</td><td>2022-08-08</td><td><a href="/miui/taoyao/stable/V13.0.5.0.SLIEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLIMIXM</td><td>12.0</td><td>6.1 GB</td><td>2022-05-25</td><td><a href="/miui/taoyao/stable/V13.0.3.0.SLIMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Global</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLIMIXM</td><td>12.0</td><td>4.3 GB</td><td>2022-07-11</td><td><a href="/miui/taoyao/stable/V13.0.3.0.SLIMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SLIMIXM</td><td>12.0</td><td>4.2 GB</td><td>2022-07-11</td><td><a href="/miui/taoyao/stable beta/V13.0.1.0.SLIMIXM/">Download</a></td></tr>

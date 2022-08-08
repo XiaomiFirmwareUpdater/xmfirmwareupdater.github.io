@@ -336,6 +336,12 @@
   version: V13.0.2.0.SCUMIXM
 - android: '12.0'
   codename: biloba
+  date: '2022-08-08'
+  download: https://bigota.d.miui.com/V13.0.6.0.SCUMIXM/fw_biloba_miui_BILOBAGlobal_V13.0.6.0.SCUMIXM_5ea54af041_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.6.0.SCUMIXM
+- android: '12.0'
+  codename: biloba
   date: '2022-06-06'
   download: https://bigota.d.miui.com/V13.0.4.0.SCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V13.0.4.0.SCUEUXM_4c100e6b70_12.0.zip
   name: Redmi Note 8 (2021)
@@ -730,6 +736,12 @@
   download: https://bigota.d.miui.com/V13.0.7.0.SKQMIXM/fw_courbet_miui_COURBETGlobal_V13.0.7.0.SKQMIXM_3d00265751_12.0.zip
   name: Mi 11 Lite 4G
   version: V13.0.7.0.SKQMIXM
+- android: '12.0'
+  codename: courbet
+  date: '2022-08-08'
+  download: https://bigota.d.miui.com/V13.0.5.0.SKQINXM/fw_courbet_miui_COURBETINGlobal_V13.0.5.0.SKQINXM_190449e833_12.0.zip
+  name: Mi 11 Lite 4G
+  version: V13.0.5.0.SKQINXM
 - android: '12.0'
   codename: courbet
   date: '2022-06-06'
@@ -2632,6 +2644,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V13.0.3.0.SLIMIXM_f804b4f16c_12.0.zip
   name: Xiaomi 12 Lite
   version: V13.0.3.0.SLIMIXM
+- android: '12.0'
+  codename: taoyao
+  date: '2022-08-08'
+  download: https://bigota.d.miui.com/V13.0.5.0.SLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.5.0.SLIEUXM_d7bf18e9aa_12.0.zip
+  name: Xiaomi 12 Lite
+  version: V13.0.5.0.SLIEUXM
 - android: '12.0'
   codename: thor
   date: '2022-07-20'

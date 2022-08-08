@@ -6049,6 +6049,16 @@
     android: '12.0'
     miui: V13.0.2.0.SCUMIXM
 - branch: stable
+  date: '2022-08-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-08.08.2022/fw_biloba_miui_BILOBAGlobal_V13.0.6.0.SCUMIXM_5ea54af041_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/biloba/fw_biloba_miui_BILOBAGlobal_V13.0.6.0.SCUMIXM_5ea54af041_12.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V13.0.6.0.SCUMIXM_5ea54af041_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SCUMIXM
+- branch: stable
   date: '2022-06-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-06.06.2022/fw_biloba_miui_BILOBAEEAGlobal_V13.0.4.0.SCUEUXM_4c100e6b70_12.0.zip
@@ -14388,6 +14398,16 @@
   versions:
     android: '11.0'
     miui: V12.5.6.0.RKQMIXM
+- branch: stable
+  date: '2022-08-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-08.08.2022/fw_courbet_miui_COURBETINGlobal_V13.0.5.0.SKQINXM_190449e833_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETINGlobal_V13.0.5.0.SKQINXM_190449e833_12.0.zip
+  filename: fw_courbet_miui_COURBETINGlobal_V13.0.5.0.SKQINXM_190449e833_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SKQINXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -47018,6 +47038,16 @@
   versions:
     android: '12.0'
     miui: V13.0.3.0.SLIMIXM
+- branch: stable
+  date: '2022-08-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-08.08.2022/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.5.0.SLIEUXM_d7bf18e9aa_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.5.0.SLIEUXM_d7bf18e9aa_12.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.5.0.SLIEUXM_d7bf18e9aa_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SLIEUXM
 - branch: stable
   date: '2022-07-20'
   downloads:
