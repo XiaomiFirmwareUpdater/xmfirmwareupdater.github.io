@@ -1719,6 +1719,16 @@
     android: '11.0'
     miui: V12.5.3.0.RCSEUXM
 - branch: stable
+  date: '2022-08-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-08.08.2022/fw_angelican_miui_ANGELICANGlobal_V12.5.3.0.RCSMIXM_947766e735_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelican/fw_angelican_miui_ANGELICANGlobal_V12.5.3.0.RCSMIXM_947766e735_11.0.zip
+  filename: fw_angelican_miui_ANGELICANGlobal_V12.5.3.0.RCSMIXM_947766e735_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RCSMIXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelican/releases/download/stable-07.02.2021/fw_angelican_miui_ANGELICANEEAGlobal_V12.0.6.0.QCSEUXM_99197b728b_10.0.zip
@@ -16138,6 +16148,16 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RCZINXM
+- branch: stable
+  date: '2022-08-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-08.08.2022/fw_dandelion_miui_DANDELIONEEAGlobal_V12.5.5.0.RCDEUXM_65902d5d5b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.5.5.0.RCDEUXM_65902d5d5b_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.5.5.0.RCDEUXM_65902d5d5b_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RCDEUXM
 - branch: stable
   date: '2021-07-08'
   downloads:
@@ -51138,6 +51158,16 @@
   versions:
     android: '11.0'
     miui: V12.1.5.0.RJBCNXM
+- branch: stable
+  date: '2022-08-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-08.08.2022/fw_unicorn_miui_UNICORN_V13.0.9.0.SLECNXM_702c54672e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/unicorn/fw_unicorn_miui_UNICORN_V13.0.9.0.SLECNXM_702c54672e_12.0.zip
+  filename: fw_unicorn_miui_UNICORN_V13.0.9.0.SLECNXM_702c54672e_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.9.0.SLECNXM
 - branch: stable
   date: '2022-07-07'
   downloads:

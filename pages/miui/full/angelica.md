@@ -52,7 +52,9 @@ permalink: /archive/miui/angelica/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCREUXM</td><td>11.0</td><td>2.1 GB</td><td>2022-07-20</td><td><a href="/miui/angelica/stable/V12.5.2.0.RCREUXM/">Download</a></td></tr>
+                <tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RCSMIXM</td><td>11.0</td><td>2.0 GB</td><td>2022-07-21</td><td><a href="/miui/angelican/stable/V12.5.3.0.RCSMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RCSMIXM</td><td>11.0</td><td>4.1 GB</td><td>2022-07-08</td><td><a href="/miui/angelican/stable/V12.5.3.0.RCSMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCREUXM</td><td>11.0</td><td>2.1 GB</td><td>2022-07-20</td><td><a href="/miui/angelica/stable/V12.5.2.0.RCREUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RCREUXM</td><td>11.0</td><td>4.4 GB</td><td>2022-07-09</td><td><a href="/miui/angelica/stable/V12.5.2.0.RCREUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RCSEUXM</td><td>11.0</td><td>2.0 GB</td><td>2022-07-04</td><td><a href="/miui/angelican/stable/V12.5.3.0.RCSEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RCSEUXM</td><td>11.0</td><td>4.3 GB</td><td>2022-06-22</td><td><a href="/miui/angelican/stable/V12.5.3.0.RCSEUXM/">Download</a></td></tr>

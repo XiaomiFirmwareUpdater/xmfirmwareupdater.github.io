@@ -2838,6 +2838,12 @@
   version: V13.0.4.0.SJBMIXM
 - android: '12.0'
   codename: unicorn
+  date: '2022-08-08'
+  download: https://bigota.d.miui.com/V13.0.9.0.SLECNXM/fw_unicorn_miui_UNICORN_V13.0.9.0.SLECNXM_702c54672e_12.0.zip
+  name: Xiaomi 12S Pro
+  version: V13.0.9.0.SLECNXM
+- android: '12.0'
+  codename: unicorn
   date: '2022-07-07'
   download: https://bigota.d.miui.com/V13.0.7.0.SLECNXM/fw_unicorn_miui_UNICORN_V13.0.7.0.SLECNXM_b29599f478_12.0.zip
   name: Xiaomi 12S Pro
