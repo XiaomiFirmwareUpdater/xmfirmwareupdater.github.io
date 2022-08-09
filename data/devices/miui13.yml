@@ -1644,6 +1644,12 @@
   version: V13.0.12.0.SLKCNXM
 - android: '12.0'
   codename: matisse
+  date: '2022-08-09'
+  download: https://bigota.d.miui.com/V13.0.23.0.SLKCNXM/fw_matisse_miui_MATISSE_V13.0.23.0.SLKCNXM_d4a36cbb5d_12.0.zip
+  name: Redmi K50 Pro
+  version: V13.0.23.0.SLKCNXM
+- android: '12.0'
+  codename: matisse
   date: '2022-05-01'
   download: https://bigota.d.miui.com/V13.0.15.0.SLKCNXM/fw_matisse_miui_MATISSE_V13.0.15.0.SLKCNXM_39d491ceb0_12.0.zip
   name: Redmi K50 Pro
@@ -2392,6 +2398,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.SKUMIXM/fw_selene_miui_SELENEGlobal_V13.0.6.0.SKUMIXM_541ca3ca19_12.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
   version: V13.0.6.0.SKUMIXM
+- android: '12.0'
+  codename: selene
+  date: '2022-08-09'
+  download: https://bigota.d.miui.com/V13.0.1.0.SKUCNXM/fw_selene_miui_SELENE_V13.0.1.0.SKUCNXM_ee8010cb48_12.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V13.0.1.0.SKUCNXM
 - android: '11.0'
   codename: spes
   date: '2022-06-30'

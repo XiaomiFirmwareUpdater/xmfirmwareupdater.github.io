@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 09 Aug 2022 02:11:09 +0900</pubDate>
+  <pubDate>Tue, 09 Aug 2022 14:31:27 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.1.0.SKUCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Tue, 09 Aug 2022 14:31:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Pro (matisse) - V13.0.23.0.SLKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
+    <pubDate>Tue, 09 Aug 2022 14:00:38 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Lite (taoyao) - V13.0.5.0.SLIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
@@ -95,16 +105,6 @@
     <title>Xiaomi 12 (cupid) - V13.0.37.0.SLCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
     <pubDate>Thu, 04 Aug 2022 20:08:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro 4G (viva) - V13.0.2.0.SGDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
-    <pubDate>Thu, 04 Aug 2022 14:09:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12X (psyche) - V13.0.7.0.SLDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
-    <pubDate>Thu, 04 Aug 2022 13:46:11 +0900</pubDate>
   </item>
     </channel>
 </rss>
