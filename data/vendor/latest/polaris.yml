@@ -1,4 +1,15 @@
 - branch: stable
+  date: '2020-09-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V12.0.1.0.QDGMIXM_1f5f076ae3_10.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/polaris_global-stable/fw-vendor_polaris_miui_MIMIX2SGlobal_V12.0.1.0.QDGMIXM_1f5f076ae3_10.0.zip/download
+  filename: fw-vendor_polaris_miui_MIMIX2SGlobal_V12.0.1.0.QDGMIXM_1f5f076ae3_10.0.zip
+  region: Global
+  size: 617.0 MB
+  versions:
+    android: '10.0'
+    miui: V12.0.1.0.QDGMIXM
+- branch: stable
   date: '2020-08-12'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/polaris-stable/fw-vendor_polaris_miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip
