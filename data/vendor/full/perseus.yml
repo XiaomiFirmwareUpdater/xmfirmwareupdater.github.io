@@ -56,17 +56,6 @@
 - branch: stable
   date: '2019-11-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-stable/fw-vendor_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-stable/fw-vendor_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip/download
-  filename: fw-vendor_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
-  region: Global
-  size: 618.8 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.4.0.PEEMIXM
-- branch: stable
-  date: '2019-11-01'
-  downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-stable/fw-vendor_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-stable/fw-vendor_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip/download
   filename: fw-vendor_perseus_miui_MIMIX3Global_V10.3.3.0.PEEMIXM_c0d3105c25_9.0.zip
@@ -86,6 +75,17 @@
   versions:
     android: '10.0'
     miui: V11.0.3.0.QEEMIXM
+- branch: stable
+  date: '2019-11-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-stable/fw-vendor_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-stable/fw-vendor_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip
+  region: Global
+  size: 618.8 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PEEMIXM
 - branch: stable
   date: '2020-05-20'
   downloads:
@@ -131,39 +131,6 @@
     android: '9.0'
     miui: V10.3.1.0.PEECNXM
 - branch: stable
-  date: '2019-07-23'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_V10.3.2.0.PEECNXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-stable/fw-vendor_perseus_V10.3.2.0.PEECNXM.zip/download
-  filename: fw-vendor_perseus_V10.3.2.0.PEECNXM.zip
-  region: China
-  size: 534.4 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.2.0.PEECNXM
-- branch: stable
-  date: '2019-10-18'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip/download
-  filename: fw-vendor_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip
-  region: China
-  size: 657.2 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PEECNXM
-- branch: stable
-  date: '2019-11-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip/download
-  filename: fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
-  region: China
-  size: 656.2 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.4.0.PEECNXM
-- branch: stable
   date: '2020-02-06'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.1.0.QEECNXM_b7c69f2498_10.0.zip
@@ -186,6 +153,17 @@
     android: '10.0'
     miui: V11.0.2.0.QEECNXM
 - branch: stable
+  date: '2019-10-18'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3_V11.0.3.0.PEECNXM_517b7829ac_9.0.zip
+  region: China
+  size: 657.2 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PEECNXM
+- branch: stable
   date: '2020-05-25'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
@@ -197,6 +175,17 @@
     android: '10.0'
     miui: V11.0.3.0.QEECNXM
 - branch: stable
+  date: '2019-11-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3_V11.0.4.0.PEECNXM_6c7f41d98c_9.0.zip
+  region: China
+  size: 656.2 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.4.0.PEECNXM
+- branch: stable
   date: '2020-08-12'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_miui_MIMIX3_V12.0.1.0.QEECNXM_43a3df6a90_10.0.zip
@@ -207,28 +196,17 @@
   versions:
     android: '10.0'
     miui: V12.0.1.0.QEECNXM
-- branch: weekly
-  date: '2019-04-15'
+- branch: stable
+  date: '2019-07-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-weekly/fw-vendor_perseus_miui_MIMIX3Global_9.4.12_ea9eb9f376_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-weekly/fw-vendor_perseus_miui_MIMIX3Global_9.4.12_ea9eb9f376_9.0.zip/download
-  filename: fw-vendor_perseus_miui_MIMIX3Global_9.4.12_ea9eb9f376_9.0.zip
-  region: Global
-  size: 520.8 MB
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-stable/fw-vendor_perseus_V10.3.2.0.PEECNXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-stable/fw-vendor_perseus_V10.3.2.0.PEECNXM.zip/download
+  filename: fw-vendor_perseus_V10.3.2.0.PEECNXM.zip
+  region: China
+  size: 534.4 MB
   versions:
     android: '9.0'
-    miui: 9.4.12
-- branch: weekly
-  date: '2019-04-19'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-weekly/fw-vendor_perseus_miui_MIMIX3Global_9.4.18_9eea2ca488_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-weekly/fw-vendor_perseus_miui_MIMIX3Global_9.4.18_9eea2ca488_9.0.zip/download
-  filename: fw-vendor_perseus_miui_MIMIX3Global_9.4.18_9eea2ca488_9.0.zip
-  region: Global
-  size: 525.2 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.18
+    miui: V10.3.2.0.PEECNXM
 - branch: weekly
   date: '2019-04-29'
   downloads:
@@ -240,17 +218,6 @@
   versions:
     android: '9.0'
     miui: 9.4.26
-- branch: weekly
-  date: '2019-05-10'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-weekly/fw-vendor_perseus_global_9.5.9.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-weekly/fw-vendor_perseus_global_9.5.9.zip/download
-  filename: fw-vendor_perseus_global_9.5.9.zip
-  region: Global
-  size: 531.3 MB
-  versions:
-    android: '9.0'
-    miui: 9.5.9
 - branch: weekly
   date: '2019-05-20'
   downloads:
@@ -274,6 +241,17 @@
     android: '9.0'
     miui: 9.5.30
 - branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-weekly/fw-vendor_perseus_global_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-weekly/fw-vendor_perseus_global_9.5.9.zip/download
+  filename: fw-vendor_perseus_global_9.5.9.zip
+  region: Global
+  size: 531.3 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
+- branch: weekly
   date: '2019-06-23'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-weekly/fw-vendor_perseus_global_9.6.20.zip
@@ -296,6 +274,28 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-weekly/fw-vendor_perseus_miui_MIMIX3Global_9.4.12_ea9eb9f376_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-weekly/fw-vendor_perseus_miui_MIMIX3Global_9.4.12_ea9eb9f376_9.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3Global_9.4.12_ea9eb9f376_9.0.zip
+  region: Global
+  size: 520.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-weekly/fw-vendor_perseus_miui_MIMIX3Global_9.4.18_9eea2ca488_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus_global-weekly/fw-vendor_perseus_miui_MIMIX3Global_9.4.18_9eea2ca488_9.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3Global_9.4.18_9eea2ca488_9.0.zip
+  region: Global
+  size: 525.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
+- branch: weekly
   date: '2020-07-17'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus_global-weekly/fw-vendor_perseus_miui_MIMIX3Global_9.6.27_cb2e513d40_9.0.zip
@@ -307,22 +307,11 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2019-04-15'
+  date: '2019-05-05'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_miui_MIMIX3_9.4.12_a5ca82ab8a_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_miui_MIMIX3_9.4.12_a5ca82ab8a_9.0.zip/download
-  filename: fw-vendor_perseus_miui_MIMIX3_9.4.12_a5ca82ab8a_9.0.zip
-  region: China
-  size: 522.8 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.12
-- branch: weekly
-  date: '2019-04-19'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_miui_MIMIX3_9.4.18_1daa6c8c9e_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_miui_MIMIX3_9.4.18_1daa6c8c9e_9.0.zip/download
-  filename: fw-vendor_perseus_miui_MIMIX3_9.4.18_1daa6c8c9e_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_9.4.18.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_9.4.18.zip/download
+  filename: fw-vendor_perseus_9.4.18.zip
   region: China
   size: 524.4 MB
   versions:
@@ -339,28 +328,6 @@
   versions:
     android: '9.0'
     miui: 9.4.26
-- branch: weekly
-  date: '2019-05-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_9.4.18.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_9.4.18.zip/download
-  filename: fw-vendor_perseus_9.4.18.zip
-  region: China
-  size: 524.4 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.18
-- branch: weekly
-  date: '2019-05-10'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_9.5.9.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_9.5.9.zip/download
-  filename: fw-vendor_perseus_9.5.9.zip
-  region: China
-  size: 533.5 MB
-  versions:
-    android: '9.0'
-    miui: 9.5.9
 - branch: weekly
   date: '2019-05-20'
   downloads:
@@ -384,6 +351,17 @@
     android: '9.0'
     miui: 9.5.30
 - branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_9.5.9.zip/download
+  filename: fw-vendor_perseus_9.5.9.zip
+  region: China
+  size: 533.5 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
+- branch: weekly
   date: '2019-06-23'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_9.6.20.zip
@@ -405,17 +383,6 @@
   versions:
     android: '9.0'
     miui: 9.6.27
-- branch: weekly
-  date: '2019-07-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_9.7.4.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_9.7.4.zip/download
-  filename: fw-vendor_perseus_9.7.4.zip
-  region: China
-  size: 534.1 MB
-  versions:
-    android: '9.0'
-    miui: 9.7.4
 - branch: weekly
   date: '2019-07-12'
   downloads:
@@ -450,6 +417,17 @@
     android: '9.0'
     miui: 9.7.25
 - branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_9.7.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_9.7.4.zip/download
+  filename: fw-vendor_perseus_9.7.4.zip
+  region: China
+  size: 534.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.4
+- branch: weekly
   date: '2019-08-02'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_9.8.1.zip
@@ -460,6 +438,17 @@
   versions:
     android: '9.0'
     miui: 9.8.1
+- branch: weekly
+  date: '2019-08-16'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_9.8.15.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_9.8.15.zip/download
+  filename: fw-vendor_perseus_9.8.15.zip
+  region: China
+  size: 591.0 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.15
 - branch: weekly
   date: '2019-08-12'
   downloads:
@@ -472,16 +461,27 @@
     android: '9.0'
     miui: 9.8.9
 - branch: weekly
-  date: '2019-08-16'
+  date: '2019-04-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_9.8.15.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_9.8.15.zip/download
-  filename: fw-vendor_perseus_9.8.15.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_miui_MIMIX3_9.4.12_a5ca82ab8a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_miui_MIMIX3_9.4.12_a5ca82ab8a_9.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3_9.4.12_a5ca82ab8a_9.0.zip
   region: China
-  size: 591.0 MB
+  size: 522.8 MB
   versions:
     android: '9.0'
-    miui: 9.8.15
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/perseus-weekly/fw-vendor_perseus_miui_MIMIX3_9.4.18_1daa6c8c9e_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/perseus-weekly/fw-vendor_perseus_miui_MIMIX3_9.4.18_1daa6c8c9e_9.0.zip/download
+  filename: fw-vendor_perseus_miui_MIMIX3_9.4.18_1daa6c8c9e_9.0.zip
+  region: China
+  size: 524.4 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
 - branch: weekly
   date: '2019-09-07'
   downloads:

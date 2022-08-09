@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 09 Aug 2022 14:31:27 +0900</pubDate>
+  <pubDate>Tue, 09 Aug 2022 19:24:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 Pro (sweet) - V13.0.12.0.SKFMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
+    <pubDate>Tue, 09 Aug 2022 19:24:24 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.1.0.SKUCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
@@ -100,11 +105,6 @@
     <title>POCO C40 (frost) - V13.0.9.0.RGFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/frost</link>
     <pubDate>Thu, 04 Aug 2022 20:28:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V13.0.37.0.SLCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Thu, 04 Aug 2022 20:08:18 +0900</pubDate>
   </item>
     </channel>
 </rss>

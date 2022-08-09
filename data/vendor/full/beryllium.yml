@@ -54,16 +54,16 @@
     android: '10.0'
     miui: V12.0.2.0.QEJRUXM
 - branch: stable
-  date: '2019-04-10'
+  date: '2019-06-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip/download
-  filename: fw-vendor_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_global_V10.2.3.0.PEJMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_global_V10.2.3.0.PEJMIXM.zip/download
+  filename: fw-vendor_beryllium_global_V10.2.3.0.PEJMIXM.zip
   region: Global
-  size: 451.2 MB
+  size: 472.5 MB
   versions:
     android: '9.0'
-    miui: V10.3.4.0.PEJMIXM
+    miui: V10.2.3.0.PEJMIXM
 - branch: stable
   date: '2019-06-21'
   downloads:
@@ -75,17 +75,6 @@
   versions:
     android: '9.0'
     miui: V10.3.4.0.PEJMIXM
-- branch: stable
-  date: '2019-06-22'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_global_V10.2.3.0.PEJMIXM.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_global_V10.2.3.0.PEJMIXM.zip/download
-  filename: fw-vendor_beryllium_global_V10.2.3.0.PEJMIXM.zip
-  region: Global
-  size: 472.5 MB
-  versions:
-    android: '9.0'
-    miui: V10.2.3.0.PEJMIXM
 - branch: stable
   date: '2019-06-26'
   downloads:
@@ -120,6 +109,17 @@
     android: '9.0'
     miui: V10.3.7.0.PEJMIXM
 - branch: stable
+  date: '2019-04-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_V10.3.4.0.PEJMIXM_13b169ae13_9.0.zip
+  region: Global
+  size: 451.2 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.4.0.PEJMIXM
+- branch: stable
   date: '2019-09-27'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V10.3.7.0.PEJMIXM_aa86bd1d08_9.0.zip
@@ -142,17 +142,6 @@
     android: '9.0'
     miui: V10.3.8.0.PEJMIXM
 - branch: stable
-  date: '2019-11-01'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip/download
-  filename: fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
-  region: Global
-  size: 546.1 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.5.0.PEJMIXM
-- branch: stable
   date: '2020-02-06'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.4.0.QEJMIXM_74f88e6c8f_10.0.zip
@@ -163,6 +152,17 @@
   versions:
     android: '10.0'
     miui: V11.0.4.0.QEJMIXM
+- branch: stable
+  date: '2019-11-01'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-stable/fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip
+  region: Global
+  size: 546.1 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PEJMIXM
 - branch: stable
   date: '2020-03-11'
   downloads:
@@ -197,39 +197,6 @@
     android: '10.0'
     miui: V11.0.9.0.QEJMIXM
 - branch: weekly
-  date: '2019-04-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.3.28_d53556b35c_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.3.28_d53556b35c_9.0.zip/download
-  filename: fw-vendor_beryllium_miui_POCOF1Global_9.3.28_d53556b35c_9.0.zip
-  region: Global
-  size: 450.2 MB
-  versions:
-    android: '9.0'
-    miui: 9.3.28
-- branch: weekly
-  date: '2019-04-15'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.4.12_b1930731c6_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.4.12_b1930731c6_9.0.zip/download
-  filename: fw-vendor_beryllium_miui_POCOF1Global_9.4.12_b1930731c6_9.0.zip
-  region: Global
-  size: 451.1 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.12
-- branch: weekly
-  date: '2019-04-19'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.4.18_1a15974bb5_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.4.18_1a15974bb5_9.0.zip/download
-  filename: fw-vendor_beryllium_miui_POCOF1Global_9.4.18_1a15974bb5_9.0.zip
-  region: Global
-  size: 449.6 MB
-  versions:
-    android: '9.0'
-    miui: 9.4.18
-- branch: weekly
   date: '2019-05-01'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_global_9.4.26.zip
@@ -240,17 +207,6 @@
   versions:
     android: '9.0'
     miui: 9.4.26
-- branch: weekly
-  date: '2019-05-10'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_global_9.5.9.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-weekly/fw-vendor_beryllium_global_9.5.9.zip/download
-  filename: fw-vendor_beryllium_global_9.5.9.zip
-  region: Global
-  size: 460.2 MB
-  versions:
-    android: '9.0'
-    miui: 9.5.9
 - branch: weekly
   date: '2019-05-21'
   downloads:
@@ -273,6 +229,17 @@
   versions:
     android: '9.0'
     miui: 9.5.30
+- branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_global_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-weekly/fw-vendor_beryllium_global_9.5.9.zip/download
+  filename: fw-vendor_beryllium_global_9.5.9.zip
+  region: Global
+  size: 460.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
 - branch: weekly
   date: '2019-06-14'
   downloads:
@@ -306,6 +273,39 @@
   versions:
     android: '9.0'
     miui: 9.6.27
+- branch: weekly
+  date: '2019-04-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.3.28_d53556b35c_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.3.28_d53556b35c_9.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_9.3.28_d53556b35c_9.0.zip
+  region: Global
+  size: 450.2 MB
+  versions:
+    android: '9.0'
+    miui: 9.3.28
+- branch: weekly
+  date: '2019-04-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.4.12_b1930731c6_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.4.12_b1930731c6_9.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_9.4.12_b1930731c6_9.0.zip
+  region: Global
+  size: 451.1 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.12
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.4.18_1a15974bb5_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/beryllium_global-weekly/fw-vendor_beryllium_miui_POCOF1Global_9.4.18_1a15974bb5_9.0.zip/download
+  filename: fw-vendor_beryllium_miui_POCOF1Global_9.4.18_1a15974bb5_9.0.zip
+  region: Global
+  size: 449.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.4.18
 - branch: weekly
   date: '2020-07-17'
   downloads:

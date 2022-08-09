@@ -32,39 +32,6 @@
     android: '8.1'
     miui: V10.3.2.0.ODJCNXM
 - branch: weekly
-  date: '2019-04-07'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.3.28_89fbcb8388_8.1.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.3.28_89fbcb8388_8.1.zip/download
-  filename: fw-vendor_clover_miui_MIPAD4_9.3.28_89fbcb8388_8.1.zip
-  region: China
-  size: 294.6 MB
-  versions:
-    android: '8.1'
-    miui: 9.3.28
-- branch: weekly
-  date: '2019-04-12'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.4.11_1149b0e2cb_8.1.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.4.11_1149b0e2cb_8.1.zip/download
-  filename: fw-vendor_clover_miui_MIPAD4_9.4.11_1149b0e2cb_8.1.zip
-  region: China
-  size: 287.7 MB
-  versions:
-    android: '8.1'
-    miui: 9.4.11
-- branch: weekly
-  date: '2019-04-19'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.4.18_6552fb603d_8.1.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.4.18_6552fb603d_8.1.zip/download
-  filename: fw-vendor_clover_miui_MIPAD4_9.4.18_6552fb603d_8.1.zip
-  region: China
-  size: 294.6 MB
-  versions:
-    android: '8.1'
-    miui: 9.4.18
-- branch: weekly
   date: '2019-04-26'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.4.25.zip
@@ -75,17 +42,6 @@
   versions:
     android: '9.0'
     miui: 9.4.25
-- branch: weekly
-  date: '2019-05-10'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.5.9.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_9.5.9.zip/download
-  filename: fw-vendor_clover_9.5.9.zip
-  region: China
-  size: 294.6 MB
-  versions:
-    android: '9.0'
-    miui: 9.5.9
 - branch: weekly
   date: '2019-05-17'
   downloads:
@@ -120,6 +76,17 @@
     android: '9.0'
     miui: 9.5.30
 - branch: weekly
+  date: '2019-05-10'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.5.9.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_9.5.9.zip/download
+  filename: fw-vendor_clover_9.5.9.zip
+  region: China
+  size: 294.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.5.9
+- branch: weekly
   date: '2019-06-14'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.6.13.zip
@@ -141,17 +108,6 @@
   versions:
     android: '9.0'
     miui: 9.6.20
-- branch: weekly
-  date: '2019-07-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.7.4.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_9.7.4.zip/download
-  filename: fw-vendor_clover_9.7.4.zip
-  region: China
-  size: 287.8 MB
-  versions:
-    android: '9.0'
-    miui: 9.7.4
 - branch: weekly
   date: '2019-07-12'
   downloads:
@@ -186,6 +142,17 @@
     android: '9.0'
     miui: 9.7.25
 - branch: weekly
+  date: '2019-07-05'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.7.4.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_9.7.4.zip/download
+  filename: fw-vendor_clover_9.7.4.zip
+  region: China
+  size: 287.8 MB
+  versions:
+    android: '9.0'
+    miui: 9.7.4
+- branch: weekly
   date: '2019-08-02'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.8.1.zip
@@ -196,17 +163,6 @@
   versions:
     android: '9.0'
     miui: 9.8.1
-- branch: weekly
-  date: '2019-08-12'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.8.8.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_9.8.8.zip/download
-  filename: fw-vendor_clover_9.8.8.zip
-  region: China
-  size: 294.6 MB
-  versions:
-    android: '9.0'
-    miui: 9.8.8
 - branch: weekly
   date: '2019-08-23'
   downloads:
@@ -229,3 +185,47 @@
   versions:
     android: '9.0'
     miui: 9.8.29
+- branch: weekly
+  date: '2019-08-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_9.8.8.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_9.8.8.zip/download
+  filename: fw-vendor_clover_9.8.8.zip
+  region: China
+  size: 294.6 MB
+  versions:
+    android: '9.0'
+    miui: 9.8.8
+- branch: weekly
+  date: '2019-04-07'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.3.28_89fbcb8388_8.1.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.3.28_89fbcb8388_8.1.zip/download
+  filename: fw-vendor_clover_miui_MIPAD4_9.3.28_89fbcb8388_8.1.zip
+  region: China
+  size: 294.6 MB
+  versions:
+    android: '8.1'
+    miui: 9.3.28
+- branch: weekly
+  date: '2019-04-12'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.4.11_1149b0e2cb_8.1.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.4.11_1149b0e2cb_8.1.zip/download
+  filename: fw-vendor_clover_miui_MIPAD4_9.4.11_1149b0e2cb_8.1.zip
+  region: China
+  size: 287.7 MB
+  versions:
+    android: '8.1'
+    miui: 9.4.11
+- branch: weekly
+  date: '2019-04-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.4.18_6552fb603d_8.1.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/clover-weekly/fw-vendor_clover_miui_MIPAD4_9.4.18_6552fb603d_8.1.zip/download
+  filename: fw-vendor_clover_miui_MIPAD4_9.4.18_6552fb603d_8.1.zip
+  region: China
+  size: 294.6 MB
+  versions:
+    android: '8.1'
+    miui: 9.4.18
