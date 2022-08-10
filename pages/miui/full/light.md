@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G (light) MIUI Downloads
+title: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) MIUI Downloads
 layout: download
-name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G
+name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
 codename: light
 permalink: /archive/miui/light/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/light/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/light/">Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 10 Prime+ 5G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/light/">Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -53,13 +53,13 @@ permalink: /archive/miui/light/
                 </thead>
                 <tbody>
                 <tr><td>Redmi 10 5G / POCO M4 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SLSMIXM</td><td>12.0</td><td>3.2 GB</td><td>2022-07-28</td><td><a href="/miui/light/stable beta/V13.0.6.0.SLSMIXM/">Download</a></td></tr>
-<tr><td>Redmi 10 Prime+ 5G / POCO M4 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLSINXM</td><td>12.0</td><td>3.1 GB</td><td>2022-07-27</td><td><a href="/miui/light/stable beta/V13.0.4.0.SLSINXM/">Download</a></td></tr>
+<tr><td>Redmi 11 Prime 5G / POCO M4 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLSINXM</td><td>12.0</td><td>3.1 GB</td><td>2022-07-27</td><td><a href="/miui/light/stable beta/V13.0.4.0.SLSINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11E China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SLSCNXM</td><td>12.0</td><td>3.9 GB</td><td>2022-06-22</td><td><a href="/miui/light/stable beta/V13.0.7.0.SLSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11E China</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SLSCNXM</td><td>12.0</td><td>5.5 GB</td><td>2022-06-16</td><td><a href="/miui/light/stable/V13.0.7.0.SLSCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLSMIXM</td><td>12.0</td><td>3.1 GB</td><td>2022-06-10</td><td><a href="/miui/light/stable/V13.0.2.0.SLSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLSMIXM</td><td>12.0</td><td>5.5 GB</td><td>2022-04-15</td><td><a href="/miui/light/stable/V13.0.2.0.SLSMIXM/">Download</a></td></tr>
-<tr><td>Redmi 10 Prime+ 5G / POCO M4 5G India</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLSINXM</td><td>12.0</td><td>3.1 GB</td><td>2022-05-10</td><td><a href="/miui/light/stable/V13.0.2.0.SLSINXM/">Download</a></td></tr>
-<tr><td>Redmi 10 Prime+ 5G / POCO M4 5G India</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLSINXM</td><td>12.0</td><td>4.4 GB</td><td>2022-05-06</td><td><a href="/miui/light/stable/V13.0.2.0.SLSINXM/">Download</a></td></tr>
+<tr><td>Redmi 11 Prime 5G / POCO M4 5G India</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLSINXM</td><td>12.0</td><td>3.1 GB</td><td>2022-05-10</td><td><a href="/miui/light/stable/V13.0.2.0.SLSINXM/">Download</a></td></tr>
+<tr><td>Redmi 11 Prime 5G / POCO M4 5G India</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLSINXM</td><td>12.0</td><td>4.4 GB</td><td>2022-05-06</td><td><a href="/miui/light/stable/V13.0.2.0.SLSINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11E China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SLSCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-04-21</td><td><a href="/miui/light/stable/V13.0.6.0.SLSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11E China</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SLSCNXM</td><td>12.0</td><td>5.4 GB</td><td>2022-04-19</td><td><a href="/miui/light/stable/V13.0.6.0.SLSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11E China</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLSCNXM</td><td>12.0</td><td>3.7 GB</td><td>2022-03-23</td><td><a href="/miui/light/stable/V13.0.3.0.SLSCNXM/">Download</a></td></tr>

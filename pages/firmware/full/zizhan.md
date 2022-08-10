@@ -1,15 +1,15 @@
 ---
-title: Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) Firmware Downloads
+title: Xiaomi MIX Fold 2 (zizhan) Firmware Downloads
 layout: download
-name: Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport
-codename: dandelion
-permalink: /firmware/dandelion/
+name: Xiaomi MIX Fold 2
+codename: zizhan
+permalink: /archive/firmware/zizhan/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/dandelion/">Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/zizhan/">Xiaomi MIX Fold 2</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -19,25 +19,24 @@ permalink: /firmware/dandelion/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-<h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss">
-<span class="label">RSS</span></a></span></h3>
+### Firmware Archive
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest firmware downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/firmware/dandelion/" class="card-link">Firmware Archive</a>
-    <a href="/miui/dandelion/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/dandelion/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases or other downloads check:</p>
+    <a href="/firmware/zizhan/" class="card-link">Latest Firmware</a>
+    <a href="/miui/zizhan/" class="card-link">MIUI Downloads</a>
+    <a href="/vendor/zizhan/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
 {%include ads.html%}
 <div class="row justify-content-center">
     <div class="col-10">
-        {%include vli_ad_320x50_1.html%}
         <div class="table-responsive-md" style="margin-top: 25px;">
+            {%include vli_ad_320x50_1.html%}
             <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
@@ -49,7 +48,7 @@ permalink: /firmware/dandelion/
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('dandelion', 'latest')</script>
+                <script>loadFirmwareDownloads('zizhan', 'full')</script>
             </table>
         </div>
     </div>
