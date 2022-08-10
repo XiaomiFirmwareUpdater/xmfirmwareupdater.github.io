@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 10 Aug 2022 07:21:53 +0900</pubDate>
+  <pubDate>Wed, 10 Aug 2022 13:21:57 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9C (angelica) - V12.5.4.0.RCRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Wed, 10 Aug 2022 13:21:57 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/Redmi 10A/9AT/9i/9A Sport (dandelion) - V12.5.16.0.RCDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V13.0.1.0.SJQCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Fri, 05 Aug 2022 01:27:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V13.0.37.0.SLBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Thu, 04 Aug 2022 21:07:51 +0900</pubDate>
   </item>
     </channel>
 </rss>

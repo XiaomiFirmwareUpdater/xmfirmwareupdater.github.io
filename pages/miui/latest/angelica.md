@@ -54,8 +54,8 @@ permalink: /miui/angelica/
                 <tbody>
                 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RCREUXM</td><td>11.0</td><td>4.4 GB</td><td>2022-07-09</td><td><a href="/miui/angelica/stable/V12.5.2.0.RCREUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCREUXM</td><td>11.0</td><td>2.1 GB</td><td>2022-07-20</td><td><a href="/miui/angelica/stable/V12.5.2.0.RCREUXM/">Download</a></td></tr>
-<tr><td>Redmi 9C Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.22.0.QCRMIXM</td><td>10.0</td><td>4.0 GB</td><td>2022-06-13</td><td><a href="/miui/angelica/stable/V12.0.22.0.QCRMIXM/">Download</a></td></tr>
-<tr><td>Redmi 9C Global</td><td>Stable</td><td>Recovery</td><td>V12.0.22.0.QCRMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-06-22</td><td><a href="/miui/angelica/stable/V12.0.22.0.QCRMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RCRMIXM</td><td>11.0</td><td>4.3 GB</td><td>2022-07-12</td><td><a href="/miui/angelica/stable/V12.5.4.0.RCRMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C Global</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RCRMIXM</td><td>11.0</td><td>2.0 GB</td><td>2022-07-29</td><td><a href="/miui/angelica/stable/V12.5.4.0.RCRMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.0.13.0.QCRIDXM</td><td>10.0</td><td>3.6 GB</td><td>2022-06-09</td><td><a href="/miui/angelica/stable/V12.0.13.0.QCRIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.0.13.0.QCRIDXM</td><td>10.0</td><td>1.8 GB</td><td>2022-06-21</td><td><a href="/miui/angelica/stable/V12.0.13.0.QCRIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.11.0.QCRTRXM</td><td>10.0</td><td>3.4 GB</td><td>2022-03-13</td><td><a href="/miui/angelica/stable/V12.0.11.0.QCRTRXM/">Download</a></td></tr>

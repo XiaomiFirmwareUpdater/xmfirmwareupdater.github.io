@@ -1329,6 +1329,16 @@
     android: '10.0'
     miui: V12.0.7.0.QCREUXM
 - branch: stable
+  date: '2022-08-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-10.08.2022/fw_angelica_miui_ANGELICAGlobal_V12.5.4.0.RCRMIXM_e206a639c8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAGlobal_V12.5.4.0.RCRMIXM_e206a639c8_11.0.zip
+  filename: fw_angelica_miui_ANGELICAGlobal_V12.5.4.0.RCRMIXM_e206a639c8_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RCRMIXM
+- branch: stable
   date: '2021-11-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-09.11.2021/fw_angelica_miui_ANGELICAGlobal_V12.0.18.0.QCRMIXM_55bbc61cf9_10.0.zip
@@ -5248,6 +5258,16 @@
   versions:
     android: '9.0'
     miui: V10.4.1.0.PGGMIXM
+- branch: stable
+  date: '2021-07-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-08.07.2021/fw_begonia_miui_BEGONIAGlobal_V12.5.1.0.RGGMIXM_6bfb17906c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAGlobal_V12.5.1.0.RGGMIXM_6bfb17906c_11.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V12.5.1.0.RGGMIXM_6bfb17906c_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RGGMIXM
 - branch: stable
   date: '2020-01-08'
   downloads:
