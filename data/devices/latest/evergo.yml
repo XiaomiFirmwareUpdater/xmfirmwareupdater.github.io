@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-07-27'
+  date: '2022-08-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-27.07.2022/fw_evergo_miui_EVERGO_V12.5.10.0.RGBCNXM_66ca1e2aca_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/evergo/fw_evergo_miui_EVERGO_V12.5.10.0.RGBCNXM_66ca1e2aca_11.0.zip
-  filename: fw_evergo_miui_EVERGO_V12.5.10.0.RGBCNXM_66ca1e2aca_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-11.08.2022/fw_evergo_miui_EVERGO_V13.0.6.0.SGBCNXM_81b235c68d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergo/fw_evergo_miui_EVERGO_V13.0.6.0.SGBCNXM_81b235c68d_12.0.zip
+  filename: fw_evergo_miui_EVERGO_V13.0.6.0.SGBCNXM_81b235c68d_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.10.0.RGBCNXM
+    android: '12.0'
+    miui: V13.0.6.0.SGBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -19,12 +19,12 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-07-08'
+  date: '2022-08-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-09.07.2022/fw_evergo_miui_EVERGOINGlobal_V12.5.8.0.RGBINXM_0c3fcfccc9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/evergo/fw_evergo_miui_EVERGOINGlobal_V12.5.8.0.RGBINXM_0c3fcfccc9_11.0.zip
-  filename: fw_evergo_miui_EVERGOINGlobal_V12.5.8.0.RGBINXM_0c3fcfccc9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-11.08.2022/fw_evergo_miui_EVERGOINGlobal_V13.0.1.0.SGBINXM_f0f0032006_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergo/fw_evergo_miui_EVERGOINGlobal_V13.0.1.0.SGBINXM_f0f0032006_12.0.zip
+  filename: fw_evergo_miui_EVERGOINGlobal_V13.0.1.0.SGBINXM_f0f0032006_12.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V12.5.8.0.RGBINXM
+    android: '12.0'
+    miui: V13.0.1.0.SGBINXM
