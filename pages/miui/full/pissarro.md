@@ -52,7 +52,8 @@ permalink: /archive/miui/pissarro/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKTEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-08</td><td><a href="/miui/pissarro/stable/V13.0.3.0.SKTEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKTEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-08-10</td><td><a href="/miui/pissarro/stable beta/V13.0.4.0.SKTEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKTEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-08</td><td><a href="/miui/pissarro/stable/V13.0.3.0.SKTEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKTEUXM</td><td>12.0</td><td>6.3 GB</td><td>2022-07-03</td><td><a href="/miui/pissarro/stable/V13.0.3.0.SKTEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKTMIXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-06</td><td><a href="/miui/pissarro/stable/V13.0.2.0.SKTMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKTMIXM</td><td>12.0</td><td>6.3 GB</td><td>2022-06-28</td><td><a href="/miui/pissarro/stable/V13.0.2.0.SKTMIXM/">Download</a></td></tr>
