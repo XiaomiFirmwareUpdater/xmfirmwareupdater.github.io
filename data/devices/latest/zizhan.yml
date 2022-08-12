@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2022-08-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-12.08.2022/fw_zizhan_miui_ZIZHAN_V13.1.6.0.SLRCNXM_c3709e8308_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zizhan/fw_zizhan_miui_ZIZHAN_V13.1.6.0.SLRCNXM_c3709e8308_12.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_V13.1.6.0.SLRCNXM_c3709e8308_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.1.6.0.SLRCNXM
