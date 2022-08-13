@@ -60,6 +60,7 @@ openx.com, 538959099, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
 appnexus.com, 11395, RESELLER, f5ab79cb980f11d1
+xandr.com, 11395, RESELLER, f5ab79cb980f11d1
 supply.colossusssp.com, 384, DIRECT
 appnexus.com, 10490, RESELLER, f5ab79cb980f11d1
 contextweb.com, 562060, DIRECT, 89ff185a4c4e857c
@@ -205,7 +206,7 @@ triplelift.com, 11547, RESELLER, 6c33edb13117fd86 #instream video by outbrain
 improvedigital.com, 1552, RESELLER #INSTREAM VIDEO BY OUTBRAIN
 pubmatic.com, 157940, RESELLER, 5d62403b186f2ace
 appnexus.com, 10273, RESELLER, f5ab79cb980f11d1
-appnexus.com, 11711, DIRECT, f5ab79cb980f11d1
+xandr.com, 10273, RESELLER, f5ab79cb980f11d1
 indexexchange.com, 192922, RESELLER, 50b1c356f2c5c8fc
 yahoo.com, 58754, RESELLER, e1a5b5b6e3255540
 aol.com, 58754, RESELLER, e1a5b5b6e3255540
