@@ -52,7 +52,8 @@ permalink: /archive/miui/evergo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SGBCNXM</td><td>12.0</td><td>3.7 GB</td><td>2022-08-08</td><td><a href="/miui/evergo/stable beta/V13.0.6.0.SGBCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11T 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.10.0.RGBINXM</td><td>11.0</td><td>2.6 GB</td><td>2022-08-10</td><td><a href="/miui/evergo/stable beta/V12.5.10.0.RGBINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SGBCNXM</td><td>12.0</td><td>3.7 GB</td><td>2022-08-08</td><td><a href="/miui/evergo/stable beta/V13.0.6.0.SGBCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T 5G India</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SGBINXM</td><td>12.0</td><td>3.1 GB</td><td>2022-07-21</td><td><a href="/miui/evergo/stable/V13.0.1.0.SGBINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T 5G India</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SGBINXM</td><td>12.0</td><td>4.4 GB</td><td>2022-07-04</td><td><a href="/miui/evergo/stable/V13.0.1.0.SGBINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 5G China</td><td>Stable</td><td>Recovery</td><td>V12.5.10.0.RGBCNXM</td><td>11.0</td><td>3.2 GB</td><td>2022-06-29</td><td><a href="/miui/evergo/stable/V12.5.10.0.RGBCNXM/">Download</a></td></tr>

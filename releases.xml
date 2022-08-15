@@ -1,11 +1,46 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 15 Aug 2022 14:25:00 +0900</pubDate>
+  <pubDate>Tue, 16 Aug 2022 03:58:13 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 11T Pro (vili) - V13.0.14.0.SKDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
+    <pubDate>Tue, 16 Aug 2022 03:58:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 NFC (spesn) - V13.0.1.0.SGKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
+    <pubDate>Tue, 16 Aug 2022 03:31:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10S (rosemary) - V13.0.8.0.SKLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Tue, 16 Aug 2022 03:07:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10C (fog) - V13.0.1.0.SGEINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
+    <pubDate>Tue, 16 Aug 2022 02:43:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10C (fog) - V13.0.1.0.SGEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
+    <pubDate>Tue, 16 Aug 2022 02:20:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V12.5.10.0.RGBINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
+    <pubDate>Tue, 16 Aug 2022 02:00:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C NFC (angelican) - V12.5.4.0.RCSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Tue, 16 Aug 2022 01:33:25 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 Pro (vayu) - V13.0.3.0.SJUINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
@@ -70,41 +105,6 @@
     <title>Redmi Note 8 (ginkgo) - V12.5.5.0.RCOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
     <pubDate>Thu, 11 Aug 2022 07:45:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.9.0.RKEEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
-    <pubDate>Thu, 11 Aug 2022 07:44:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro 4G (viva) - V13.0.9.0.RGDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
-    <pubDate>Thu, 11 Aug 2022 01:44:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 5G (cannon) - V13.0.3.0.SJECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
-    <pubDate>Wed, 10 Aug 2022 19:22:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.5.4.0.RCRMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Wed, 10 Aug 2022 13:21:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.16.0.RCDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Wed, 10 Aug 2022 07:21:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro (sweet) - V13.0.12.0.SKFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Tue, 09 Aug 2022 19:24:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.1.0.SKUCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Tue, 09 Aug 2022 14:31:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
