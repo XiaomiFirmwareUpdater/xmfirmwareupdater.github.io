@@ -69,9 +69,9 @@ permalink: /miui/gauguin/
 <tr><td>Mi 10T Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJSTRXM</td><td>12.0</td><td>4.7 GB</td><td>2022-05-19</td><td><a href="/miui/gauguin/stable/V13.0.2.0.SJSTRXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJSTRXM</td><td>12.0</td><td>3.2 GB</td><td>2022-06-01</td><td><a href="/miui/gauguin/stable/V13.0.2.0.SJSTRXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SJSTRXM</td><td>12.0</td><td>3.2 GB</td><td>2022-08-02</td><td><a href="/miui/gauguin/stable beta/V13.0.4.0.SJSTRXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJSTWXM</td><td>12.0</td><td>4.4 GB</td><td>2022-04-07</td><td><a href="/miui/gauguin/stable/V13.0.1.0.SJSTWXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJSTWXM</td><td>12.0</td><td>3.2 GB</td><td>2022-04-19</td><td><a href="/miui/gauguin/stable/V13.0.1.0.SJSTWXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJSTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-05-30</td><td><a href="/miui/gauguin/stable beta/V13.0.2.0.SJSTWXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJSTWXM</td><td>12.0</td><td>4.4 GB</td><td>2022-05-19</td><td><a href="/miui/gauguin/stable/V13.0.2.0.SJSTWXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJSTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-05-30</td><td><a href="/miui/gauguin/stable/V13.0.2.0.SJSTWXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJSTWXM</td><td>12.0</td><td>3.2 GB</td><td>2022-08-08</td><td><a href="/miui/gauguin/stable beta/V13.0.3.0.SJSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
