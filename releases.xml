@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 16 Aug 2022 03:58:13 +0900</pubDate>
+  <pubDate>Tue, 16 Aug 2022 07:57:55 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X3 NFC (surya) - V13.0.1.0.SJGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Tue, 16 Aug 2022 07:57:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Ultra (diting) - V13.0.4.0.SLFCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
+    <pubDate>Tue, 16 Aug 2022 07:56:22 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 11T Pro (vili) - V13.0.14.0.SKDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V13.0.1.0.SGBINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
     <pubDate>Thu, 11 Aug 2022 20:17:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V13.0.6.0.SGBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
-    <pubDate>Thu, 11 Aug 2022 19:52:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V12.5.5.0.RCOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Thu, 11 Aug 2022 07:45:15 +0900</pubDate>
   </item>
     </channel>
 </rss>

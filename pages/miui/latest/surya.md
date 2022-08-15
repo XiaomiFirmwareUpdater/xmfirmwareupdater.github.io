@@ -57,7 +57,7 @@ permalink: /miui/surya/
 <tr><td>POCO X3 NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.4.RJGEUXM</td><td>11.0</td><td>2.5 GB</td><td>2021-04-01</td><td><a href="/miui/surya/stable beta/V12.0.6.4.RJGEUXM/">Download</a></td></tr>
 <tr><td>POCO X3 NFC Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RJGMIXM</td><td>11.0</td><td>4.7 GB</td><td>2022-05-24</td><td><a href="/miui/surya/stable/V12.5.8.0.RJGMIXM/">Download</a></td></tr>
 <tr><td>POCO X3 NFC Global</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RJGMIXM</td><td>11.0</td><td>2.7 GB</td><td>2022-06-08</td><td><a href="/miui/surya/stable/V12.5.8.0.RJGMIXM/">Download</a></td></tr>
-<tr><td>POCO X3 NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.6.0.QJGMIXM</td><td>10.0</td><td>2.4 GB</td><td>2020-12-13</td><td><a href="/miui/surya/stable beta/V12.0.6.0.QJGMIXM/">Download</a></td></tr>
+<tr><td>POCO X3 NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJGMIXM</td><td>12.0</td><td>2.9 GB</td><td>2022-08-05</td><td><a href="/miui/surya/stable beta/V13.0.1.0.SJGMIXM/">Download</a></td></tr>
 <tr><td>POCO X3 NFC Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RJGIDXM</td><td>11.0</td><td>4.2 GB</td><td>2022-06-08</td><td><a href="/miui/surya/stable/V12.5.7.0.RJGIDXM/">Download</a></td></tr>
 <tr><td>POCO X3 NFC Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RJGIDXM</td><td>11.0</td><td>2.7 GB</td><td>2022-06-17</td><td><a href="/miui/surya/stable/V12.5.7.0.RJGIDXM/">Download</a></td></tr>
 <tr><td>POCO X3 NFC Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.5.0.QJGIDXM</td><td>10.0</td><td>2.4 GB</td><td>2020-12-22</td><td><a href="/miui/surya/stable beta/V12.0.5.0.QJGIDXM/">Download</a></td></tr>
