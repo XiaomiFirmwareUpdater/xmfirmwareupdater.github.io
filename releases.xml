@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 16 Aug 2022 19:59:53 +0900</pubDate>
+  <pubDate>Wed, 17 Aug 2022 01:49:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V13.1.4.0.SLZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
+    <pubDate>Wed, 17 Aug 2022 01:49:19 +0900</pubDate>
+  </item>
     <item>
     <title>MIX 4 (odin) - V13.0.8.0.SKMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 Lite (taoyao) - V13.0.7.0.SLIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
     <pubDate>Fri, 12 Aug 2022 19:55:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V13.0.4.0.SKTEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
-    <pubDate>Fri, 12 Aug 2022 13:48:36 +0900</pubDate>
   </item>
     </channel>
 </rss>
