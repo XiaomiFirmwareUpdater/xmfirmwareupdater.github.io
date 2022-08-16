@@ -54,10 +54,10 @@ permalink: /miui/odin/
                 <tbody>
                 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.2.1.1.DEV</td><td>12.0</td><td>5.7 GB</td><td>2022-01-14</td><td><a href="/miui/odin/public beta/V13.0.2.1.1.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SKMCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-04-29</td><td><a href="/miui/odin/stable/V13.0.6.0.SKMCNXM/">Download</a></td></tr>
-<tr><td>MIX 4 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SKMCNXM</td><td>12.0</td><td>5.3 GB</td><td>2022-05-10</td><td><a href="/miui/odin/stable beta/V13.0.6.0.SKMCNXM/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SKMCNXM</td><td>12.0</td><td>5.3 GB</td><td>2022-05-10</td><td><a href="/miui/odin/stable/V13.0.6.0.SKMCNXM/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Weekly</td><td>Fastboot</td><td>22.1.19</td><td>12.0</td><td>7.1 GB</td><td>2022-01-19</td><td><a href="/miui/odin/weekly/22.1.19/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.59.DEV</td><td>12.0</td><td>5.5 GB</td><td>2022-08-12</td><td><a href="/miui/odin/public beta/V13.0.5.1.59.DEV/">Download</a></td></tr>
-<tr><td>MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKMCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-01-27</td><td><a href="/miui/odin/stable/V13.0.4.0.SKMCNXM/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.8.0.SKMCNXM</td><td>12.0</td><td>5.4 GB</td><td>2022-08-10</td><td><a href="/miui/odin/stable beta/V13.0.8.0.SKMCNXM/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Weekly</td><td>Recovery</td><td>22.3.24</td><td>12.0</td><td>5.4 GB</td><td>2022-03-24</td><td><a href="/miui/odin/weekly/22.3.24/">Download</a></td></tr>
 
                 </tbody>
