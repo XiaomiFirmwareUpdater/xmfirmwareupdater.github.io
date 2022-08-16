@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 16 Aug 2022 07:57:55 +0900</pubDate>
+  <pubDate>Tue, 16 Aug 2022 13:38:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 8 (2021) (biloba) - V13.0.5.0.SCUEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/biloba</link>
+    <pubDate>Tue, 16 Aug 2022 13:38:43 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V13.0.1.0.SJGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12S (mayfly) - V13.0.17.0.SLTCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
     <pubDate>Thu, 11 Aug 2022 20:58:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V13.0.1.0.SGBINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
-    <pubDate>Thu, 11 Aug 2022 20:17:55 +0900</pubDate>
   </item>
     </channel>
 </rss>
