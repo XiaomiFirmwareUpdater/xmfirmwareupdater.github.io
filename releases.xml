@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 17 Aug 2022 20:15:19 +0900</pubDate>
+  <pubDate>Thu, 18 Aug 2022 02:50:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V13.0.4.0.TLBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Thu, 18 Aug 2022 02:50:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.10.0.RCZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Thu, 18 Aug 2022 02:16:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.4.0.TLCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Thu, 18 Aug 2022 02:15:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 11T (agate) - V13.0.7.0.SKWEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
+    <pubDate>Thu, 18 Aug 2022 01:46:03 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi MIX Fold 2 (zizhan) - V13.1.9.0.SLRCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zizhan</link>
@@ -85,26 +105,6 @@
     <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.0.20.0.QCDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
     <pubDate>Mon, 15 Aug 2022 13:37:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50G/POCO F4 GT (ingres) - V13.0.7.0.SLJMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ingres</link>
-    <pubDate>Sat, 13 Aug 2022 13:54:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Lite (taoyao) - V13.0.4.0.SLIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
-    <pubDate>Sat, 13 Aug 2022 07:55:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Ultra (thor) - V13.0.8.0.SLACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
-    <pubDate>Sat, 13 Aug 2022 02:04:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi MIX Fold 2 (zizhan) - V13.1.6.0.SLRCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zizhan</link>
-    <pubDate>Fri, 12 Aug 2022 20:45:06 +0900</pubDate>
   </item>
     </channel>
 </rss>

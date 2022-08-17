@@ -30,6 +30,12 @@
   version: V13.0.4.0.SKWMIXM
 - android: '12.0'
   codename: agate
+  date: '2022-08-17'
+  download: https://bigota.d.miui.com/V13.0.7.0.SKWEUXM/fw_agate_miui_AGATEEEAGlobal_V13.0.7.0.SKWEUXM_1a664530b8_12.0.zip
+  name: Xiaomi 11T
+  version: V13.0.7.0.SKWEUXM
+- android: '12.0'
+  codename: agate
   date: '2022-06-08'
   download: https://bigota.d.miui.com/V13.0.5.0.SKWEUXM/fw_agate_miui_AGATEEEAGlobal_V13.0.5.0.SKWEUXM_b039ecd5c9_12.0.zip
   name: Xiaomi 11T
@@ -826,6 +832,12 @@
   download: https://bigota.d.miui.com/V13.0.16.0.SLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V13.0.16.0.SLCEUXM_9b162cbd6f_12.0.zip
   name: Xiaomi 12
   version: V13.0.16.0.SLCEUXM
+- android: '13.0'
+  codename: cupid
+  date: '2022-08-17'
+  download: https://bigota.d.miui.com/V13.0.4.0.TLCMIXM/fw_cupid_miui_CUPIDGlobal_V13.0.4.0.TLCMIXM_271430c4dc_13.0.zip
+  name: Xiaomi 12
+  version: V13.0.4.0.TLCMIXM
 - android: '12.0'
   codename: cupid
   date: '2022-03-17'
@@ -2940,18 +2952,6 @@
   version: V13.0.1.0.SJBEUXM
 - android: '12.0'
   codename: umi
-  date: '2022-05-20'
-  download: https://bigota.d.miui.com/V13.0.6.0.SJBCNXM/fw_umi_miui_UMI_V13.0.6.0.SJBCNXM_b9b07d8eec_12.0.zip
-  name: Mi 10
-  version: V13.0.6.0.SJBCNXM
-- android: '12.0'
-  codename: umi
-  date: '2022-06-19'
-  download: https://bigota.d.miui.com/V13.0.4.0.SJBINXM/fw_umi_miui_UMIINGlobal_V13.0.4.0.SJBINXM_bddec3c15b_12.0.zip
-  name: Mi 10
-  version: V13.0.4.0.SJBINXM
-- android: '12.0'
-  codename: umi
   date: '2022-07-18'
   download: https://bigota.d.miui.com/V13.0.6.0.SJBMIXM/fw_umi_miui_UMIGlobal_V13.0.6.0.SJBMIXM_8d2bcb342a_12.0.zip
   name: Mi 10
@@ -3508,6 +3508,12 @@
   download: https://bigota.d.miui.com/V13.0.10.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.10.0.SLBEUXM_8af10526e8_12.0.zip
   name: Xiaomi 12 Pro
   version: V13.0.10.0.SLBEUXM
+- android: '13.0'
+  codename: zeus
+  date: '2022-08-17'
+  download: https://bigota.d.miui.com/V13.0.4.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.0.4.0.TLBMIXM_bf23673ad2_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.4.0.TLBMIXM
 - android: '12.0'
   codename: zeus
   date: '2022-03-17'
