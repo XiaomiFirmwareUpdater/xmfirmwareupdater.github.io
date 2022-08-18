@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 18 Aug 2022 02:50:24 +0900</pubDate>
+  <pubDate>Thu, 18 Aug 2022 13:24:15 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO M3 (citrus) - V12.5.9.0.RJFMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Thu, 18 Aug 2022 13:24:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/9 Activ (cattail) - V12.5.6.0.RCTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
+    <pubDate>Thu, 18 Aug 2022 13:23:10 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V13.0.4.0.TLBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
@@ -95,16 +105,6 @@
     <title>POCO X3 Pro (vayu) - V13.0.3.0.SJUINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
     <pubDate>Mon, 15 Aug 2022 14:25:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Pro (unicorn) - V13.0.12.0.SLECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/unicorn</link>
-    <pubDate>Mon, 15 Aug 2022 14:22:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.0.20.0.QCDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Mon, 15 Aug 2022 13:37:05 +0900</pubDate>
   </item>
     </channel>
 </rss>
