@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 18 Aug 2022 13:24:15 +0900</pubDate>
+  <pubDate>Thu, 18 Aug 2022 20:08:36 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.10.0.RJQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Thu, 18 Aug 2022 20:08:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50G/POCO F4 GT (ingres) - V13.0.8.0.SLJEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ingres</link>
+    <pubDate>Thu, 18 Aug 2022 20:07:04 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M3 (citrus) - V12.5.9.0.RJFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V12.5.10.0.RGBINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
     <pubDate>Tue, 16 Aug 2022 02:00:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C NFC (angelican) - V12.5.4.0.RCSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
-    <pubDate>Tue, 16 Aug 2022 01:33:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 Pro (vayu) - V13.0.3.0.SJUINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
-    <pubDate>Mon, 15 Aug 2022 14:25:00 +0900</pubDate>
   </item>
     </channel>
 </rss>

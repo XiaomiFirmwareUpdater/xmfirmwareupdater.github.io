@@ -1428,6 +1428,12 @@
   version: V13.0.6.0.SLJEUXM
 - android: '12.0'
   codename: ingres
+  date: '2022-08-18'
+  download: https://bigota.d.miui.com/V13.0.8.0.SLJEUXM/fw_ingres_miui_INGRESEEAGlobal_V13.0.8.0.SLJEUXM_5c28342d66_12.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: V13.0.8.0.SLJEUXM
+- android: '12.0'
+  codename: ingres
   date: '2022-02-17'
   download: https://bigota.d.miui.com/V13.0.2.0.SLJCNXM/fw_ingres_miui_INGRES_V13.0.2.0.SLJCNXM_caf7a6d2e7_12.0.zip
   name: Redmi K50G/POCO F4 GT
