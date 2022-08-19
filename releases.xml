@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 20 Aug 2022 01:24:55 +0900</pubDate>
+  <pubDate>Sat, 20 Aug 2022 07:23:00 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.5.3.0.RFCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
+    <pubDate>Sat, 20 Aug 2022 07:23:00 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro (sweet) - V13.0.13.0.SKFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
@@ -100,11 +105,6 @@
     <title>Redmi 10C (fog) - V13.0.1.0.SGEINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
     <pubDate>Tue, 16 Aug 2022 02:43:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10C (fog) - V13.0.1.0.SGEEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
-    <pubDate>Tue, 16 Aug 2022 02:20:02 +0900</pubDate>
   </item>
     </channel>
 </rss>

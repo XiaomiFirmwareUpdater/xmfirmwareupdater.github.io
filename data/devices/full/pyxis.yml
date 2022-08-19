@@ -389,6 +389,16 @@
     android: '10.0'
     miui: V12.0.5.0.QFCMIXM
 - branch: stable
+  date: '2022-08-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-20.08.2022/fw_pyxis_miui_PYXISEEAGlobal_V12.5.3.0.RFCEUXM_031fb02bfb_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pyxis/fw_pyxis_miui_PYXISEEAGlobal_V12.5.3.0.RFCEUXM_031fb02bfb_11.0.zip
+  filename: fw_pyxis_miui_PYXISEEAGlobal_V12.5.3.0.RFCEUXM_031fb02bfb_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RFCEUXM
+- branch: stable
   date: '2020-01-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pyxis/releases/download/stable-20.01.2020/fw_pyxis_miui_PYXIS_V11.3.4.0.PFCCNXM_697726d4e2_9.0.zip
