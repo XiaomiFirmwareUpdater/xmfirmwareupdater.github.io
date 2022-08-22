@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.2.0.SGEMIXM
 - branch: stable
-  date: '2022-08-15'
+  date: '2022-08-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-15.08.2022/fw_fog_miui_FOGEEAGlobal_V13.0.1.0.SGEEUXM_0f1d3eaafc_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGEEAGlobal_V13.0.1.0.SGEEUXM_0f1d3eaafc_12.0.zip
-  filename: fw_fog_miui_FOGEEAGlobal_V13.0.1.0.SGEEUXM_0f1d3eaafc_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-22.08.2022/fw_fog_miui_FOGEEAGlobal_V13.0.6.0.RGEEUXM_b3e7224934_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGEEAGlobal_V13.0.6.0.RGEEUXM_b3e7224934_11.0.zip
+  filename: fw_fog_miui_FOGEEAGlobal_V13.0.6.0.RGEEUXM_b3e7224934_11.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.1.0.SGEEUXM
+    android: '11.0'
+    miui: V13.0.6.0.RGEEUXM
 - branch: stable
   date: '2022-08-15'
   downloads:

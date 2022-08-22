@@ -1,11 +1,46 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 21 Aug 2022 19:50:00 +0900</pubDate>
+  <pubDate>Mon, 22 Aug 2022 21:52:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12S Pro (unicorn) - V13.0.16.0.SLECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/unicorn</link>
+    <pubDate>Mon, 22 Aug 2022 21:52:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - V13.0.7.0.SJBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Mon, 22 Aug 2022 21:01:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12X (psyche) - V13.0.5.0.SLDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
+    <pubDate>Mon, 22 Aug 2022 20:59:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 (mojito) - V13.0.6.0.SKGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
+    <pubDate>Mon, 22 Aug 2022 20:36:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10C (fog) - V13.0.6.0.RGEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
+    <pubDate>Mon, 22 Aug 2022 20:13:01 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.1.0.SKEINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
+    <pubDate>Mon, 22 Aug 2022 19:54:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M3 (citrus) - V12.5.7.0.RJFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Mon, 22 Aug 2022 19:34:01 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50 Ultra (diting) - V13.0.4.1.SLFCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
@@ -70,41 +105,6 @@
     <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V13.1.4.0.SLZCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
     <pubDate>Wed, 17 Aug 2022 01:49:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>MIX 4 (odin) - V13.0.8.0.SKMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
-    <pubDate>Tue, 16 Aug 2022 19:59:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (2021) (biloba) - V13.0.5.0.SCUEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/biloba</link>
-    <pubDate>Tue, 16 Aug 2022 13:38:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 NFC (surya) - V13.0.1.0.SJGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Tue, 16 Aug 2022 07:57:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Ultra (diting) - V13.0.4.0.SLFCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
-    <pubDate>Tue, 16 Aug 2022 07:56:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V13.0.14.0.SKDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Tue, 16 Aug 2022 03:58:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 NFC (spesn) - V13.0.1.0.SGKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
-    <pubDate>Tue, 16 Aug 2022 03:31:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10S (rosemary) - V13.0.8.0.SKLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
-    <pubDate>Tue, 16 Aug 2022 03:07:50 +0900</pubDate>
   </item>
     </channel>
 </rss>

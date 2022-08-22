@@ -1054,6 +1054,12 @@
   download: https://bigota.d.miui.com/V13.0.7.0.RKEMIXM/fw_fleur_miui_FLEURGlobal_V13.0.7.0.RKEMIXM_30020f3ca0_11.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.7.0.RKEMIXM
+- android: '12.0'
+  codename: fleur
+  date: '2022-08-22'
+  download: https://bigota.d.miui.com/V13.0.1.0.SKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.1.0.SKEINXM_2ff63fe343_12.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.1.0.SKEINXM
 - android: '11.0'
   codename: fleur
   date: '2022-07-19'
@@ -1108,6 +1114,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SGEMIXM/fw_fog_miui_FOGGlobal_V13.0.2.0.SGEMIXM_c5e52078c0_12.0.zip
   name: Redmi 10C
   version: V13.0.2.0.SGEMIXM
+- android: '11.0'
+  codename: fog
+  date: '2022-08-22'
+  download: https://bigota.d.miui.com/V13.0.6.0.RGEEUXM/fw_fog_miui_FOGEEAGlobal_V13.0.6.0.RGEEUXM_b3e7224934_11.0.zip
+  name: Redmi 10C
+  version: V13.0.6.0.RGEEUXM
 - android: '11.0'
   codename: fog
   date: '2022-06-21'
@@ -1799,6 +1811,12 @@
   name: Redmi Note 10
   version: V13.0.9.0.SKGMIXM
 - android: '12.0'
+  codename: mojito
+  date: '2022-08-22'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKGEUXM/fw_mojito_miui_MOJITOEEAGlobal_V13.0.6.0.SKGEUXM_47fa0fa371_12.0.zip
+  name: Redmi Note 10
+  version: V13.0.6.0.SKGEUXM
+- android: '12.0'
   codename: mona
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_mona_miui_MONAPRE_22.3.23_2db23136ed_12.0.zip
@@ -2248,6 +2266,12 @@
   download: https://bigota.d.miui.com/22.3.24/fw_psyche_miui_PSYCHEPRE_22.3.24_e31cc10d3b_12.0.zip
   name: Xiaomi 12X
   version: 22.3.24
+- android: '12.0'
+  codename: psyche
+  date: '2022-08-22'
+  download: https://bigota.d.miui.com/V13.0.5.0.SLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.5.0.SLDEUXM_5df7c9d2cf_12.0.zip
+  name: Xiaomi 12X
+  version: V13.0.5.0.SLDEUXM
 - android: '11.0'
   codename: psyche
   date: '2022-03-22'
@@ -2964,6 +2988,12 @@
   version: V13.0.3.0.SJBINXM
 - android: '12.0'
   codename: umi
+  date: '2022-08-22'
+  download: https://bigota.d.miui.com/V13.0.7.0.SJBCNXM/fw_umi_miui_UMI_V13.0.7.0.SJBCNXM_1beabe6d7f_12.0.zip
+  name: Mi 10
+  version: V13.0.7.0.SJBCNXM
+- android: '12.0'
+  codename: umi
   date: '2022-03-21'
   download: https://bigota.d.miui.com/V13.0.1.0.SJBEUXM/fw_umi_miui_UMIEEAGlobal_V13.0.1.0.SJBEUXM_784d3fd49c_12.0.zip
   name: Mi 10
@@ -3016,6 +3046,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SJBMIXM/fw_umi_miui_UMIGlobal_V13.0.4.0.SJBMIXM_d96c90a040_12.0.zip
   name: Mi 10
   version: V13.0.4.0.SJBMIXM
+- android: '12.0'
+  codename: unicorn
+  date: '2022-08-22'
+  download: https://bigota.d.miui.com/V13.0.16.0.SLECNXM/fw_unicorn_miui_UNICORN_V13.0.16.0.SLECNXM_5741181043_12.0.zip
+  name: Xiaomi 12S Pro
+  version: V13.0.16.0.SLECNXM
 - android: '12.0'
   codename: unicorn
   date: '2022-08-15'
