@@ -1129,15 +1129,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2022-08-21'
+  date: '2022-08-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-21.08.2022/fw_diting_miui_DITING_V13.0.4.1.SLFCNXM_bef6cdcdd4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/diting/fw_diting_miui_DITING_V13.0.4.1.SLFCNXM_bef6cdcdd4_12.0.zip
-  filename: fw_diting_miui_DITING_V13.0.4.1.SLFCNXM_bef6cdcdd4_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-22.08.2022/fw_diting_miui_DITING_V13.0.5.0.SLFCNXM_f973aa38ac_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/diting/fw_diting_miui_DITING_V13.0.5.0.SLFCNXM_f973aa38ac_12.0.zip
+  filename: fw_diting_miui_DITING_V13.0.5.0.SLFCNXM_f973aa38ac_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.4.1.SLFCNXM
+    miui: V13.0.5.0.SLFCNXM
 - branch: stable
   date: '2022-06-19'
   downloads:
@@ -2329,15 +2329,15 @@
     android: '12.0'
     miui: V13.0.23.0.SLKCNXM
 - branch: stable
-  date: '2022-08-11'
+  date: '2022-08-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-11.08.2022/fw_mayfly_miui_MAYFLY_V13.0.17.0.SLTCNXM_b1f05ac44b_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mayfly/fw_mayfly_miui_MAYFLY_V13.0.17.0.SLTCNXM_b1f05ac44b_12.0.zip
-  filename: fw_mayfly_miui_MAYFLY_V13.0.17.0.SLTCNXM_b1f05ac44b_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-22.08.2022/fw_mayfly_miui_MAYFLY_V13.0.18.0.SLTCNXM_c58e371576_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mayfly/fw_mayfly_miui_MAYFLY_V13.0.18.0.SLTCNXM_c58e371576_12.0.zip
+  filename: fw_mayfly_miui_MAYFLY_V13.0.18.0.SLTCNXM_c58e371576_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.17.0.SLTCNXM
+    miui: V13.0.18.0.SLTCNXM
 - branch: stable
   date: '2022-07-28'
   downloads:
@@ -3059,15 +3059,15 @@
     android: '12.0'
     miui: V13.0.4.0.SKTEUXM
 - branch: stable
-  date: '2022-07-06'
+  date: '2022-08-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-07.07.2022/fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
-  filename: fw_pissarro_miui_PISSARROINGlobal_V13.0.3.0.SKTINXM_3f79bd3fec_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-22.08.2022/fw_pissarro_miui_PISSARROINGlobal_V13.0.4.0.SKTINXM_9283da06fc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROINGlobal_V13.0.4.0.SKTINXM_9283da06fc_12.0.zip
+  filename: fw_pissarro_miui_PISSARROINGlobal_V13.0.4.0.SKTINXM_9283da06fc_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SKTINXM
+    miui: V13.0.4.0.SKTINXM
 - branch: stable
   date: '2020-09-21'
   downloads:

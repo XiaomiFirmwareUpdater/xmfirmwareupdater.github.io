@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 22 Aug 2022 21:52:23 +0900</pubDate>
+  <pubDate>Tue, 23 Aug 2022 03:12:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V13.0.4.0.SKTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
+    <pubDate>Tue, 23 Aug 2022 03:12:43 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12S (mayfly) - V13.0.18.0.SLTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
+    <pubDate>Tue, 23 Aug 2022 02:49:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Ultra (diting) - V13.0.5.0.SLFCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
+    <pubDate>Tue, 23 Aug 2022 02:06:11 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12S Pro (unicorn) - V13.0.16.0.SLECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/unicorn</link>
@@ -90,21 +105,6 @@
     <title>Xiaomi 12 (cupid) - V13.0.4.0.TLCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
     <pubDate>Thu, 18 Aug 2022 02:15:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T (agate) - V13.0.7.0.SKWEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
-    <pubDate>Thu, 18 Aug 2022 01:46:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi MIX Fold 2 (zizhan) - V13.1.9.0.SLRCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zizhan</link>
-    <pubDate>Wed, 17 Aug 2022 20:15:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V13.1.4.0.SLZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
-    <pubDate>Wed, 17 Aug 2022 01:49:19 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -54,6 +54,7 @@ permalink: /miui/diting/
                 <tbody>
                 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLFCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-08-09</td><td><a href="/miui/diting/stable/V13.0.4.0.SLFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.1.SLFCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-08-19</td><td><a href="/miui/diting/stable/V13.0.4.1.SLFCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SLFCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-08-22</td><td><a href="/miui/diting/stable beta/V13.0.5.0.SLFCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
