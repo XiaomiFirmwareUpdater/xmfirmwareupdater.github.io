@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 23 Aug 2022 03:12:43 +0900</pubDate>
+  <pubDate>Wed, 24 Aug 2022 01:43:51 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V13.0.6.0.SKPMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Wed, 24 Aug 2022 01:43:51 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V13.0.4.0.SKTINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
@@ -100,11 +105,6 @@
     <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.10.0.RCZCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
     <pubDate>Thu, 18 Aug 2022 02:16:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V13.0.4.0.TLCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Thu, 18 Aug 2022 02:15:37 +0900</pubDate>
   </item>
     </channel>
 </rss>
