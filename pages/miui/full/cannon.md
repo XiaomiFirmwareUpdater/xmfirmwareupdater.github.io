@@ -54,7 +54,8 @@ permalink: /archive/miui/cannon/
                 <tbody>
                 <tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.16.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-08-19</td><td><a href="/miui/cannon/public beta/V13.1.22.8.16.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.59.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-08-12</td><td><a href="/miui/cannon/public beta/V13.0.2.1.59.DEV/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJETWXM</td><td>12.0</td><td>3.0 GB</td><td>2022-08-10</td><td><a href="/miui/cannong/stable beta/V13.0.1.0.SJETWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJETWXM</td><td>12.0</td><td>3.0 GB</td><td>2022-08-10</td><td><a href="/miui/cannong/stable/V13.0.1.0.SJETWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJETWXM</td><td>12.0</td><td>4.4 GB</td><td>2022-07-28</td><td><a href="/miui/cannong/stable/V13.0.1.0.SJETWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJECNXM</td><td>12.0</td><td>3.5 GB</td><td>2022-08-10</td><td><a href="/miui/cannon/stable beta/V13.0.3.0.SJECNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.56.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-08-05</td><td><a href="/miui/cannon/public beta/V13.0.2.1.56.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.2.1.55.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-07-29</td><td><a href="/miui/cannon/public beta/V13.0.2.1.55.DEV/">Download</a></td></tr>
@@ -76,8 +77,8 @@ permalink: /archive/miui/cannon/
 <tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.35.DEV</td><td>12.0</td><td>4.1 GB</td><td>2022-05-27</td><td><a href="/miui/cannon/public beta/V13.0.1.1.35.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.0.1.32.DEV</td><td>12.0</td><td>4.1 GB</td><td>2022-05-20</td><td><a href="/miui/cannon/public beta/V13.0.0.1.32.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.0.1.29.DEV</td><td>12.0</td><td>4.1 GB</td><td>2022-05-13</td><td><a href="/miui/cannon/public beta/V13.0.0.1.29.DEV/">Download</a></td></tr>
-<tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.0.1.28.DEV</td><td>12.0</td><td>4.1 GB</td><td>2022-04-29</td><td><a href="/miui/cannon/public beta/V13.0.0.1.28.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJECNXM</td><td>12.0</td><td>3.4 GB</td><td>2022-05-21</td><td><a href="/miui/cannon/stable beta/V13.0.1.0.SJECNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.0.1.28.DEV</td><td>12.0</td><td>4.1 GB</td><td>2022-04-29</td><td><a href="/miui/cannon/public beta/V13.0.0.1.28.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RJEEUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-04-01</td><td><a href="/miui/cannong/stable/V12.5.8.0.RJEEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RJEEUXM</td><td>11.0</td><td>4.9 GB</td><td>2022-03-23</td><td><a href="/miui/cannong/stable/V12.5.8.0.RJEEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RJEMIXM</td><td>11.0</td><td>2.5 GB</td><td>2022-03-30</td><td><a href="/miui/cannong/stable/V12.5.8.0.RJEMIXM/">Download</a></td></tr>
