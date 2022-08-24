@@ -52,7 +52,8 @@ permalink: /archive/miui/rosemary/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKLRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-08-18</td><td><a href="/miui/rosemary/stable beta/V13.0.3.0.SKLRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10S Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKLTWXM</td><td>12.0</td><td>3.2 GB</td><td>2022-08-22</td><td><a href="/miui/rosemary/stable beta/V13.0.2.0.SKLTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKLRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-08-18</td><td><a href="/miui/rosemary/stable beta/V13.0.3.0.SKLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SKLMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-08-11</td><td><a href="/miui/rosemary/stable/V13.0.8.0.SKLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SKLMIXM</td><td>12.0</td><td>6.0 GB</td><td>2022-08-02</td><td><a href="/miui/rosemary/stable/V13.0.8.0.SKLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKLTRXM</td><td>12.0</td><td>3.2 GB</td><td>2022-07-15</td><td><a href="/miui/rosemary/stable/V13.0.1.0.SKLTRXM/">Download</a></td></tr>
