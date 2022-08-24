@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.7.0.SLJMIXM
 - branch: stable
-  date: '2022-06-30'
+  date: '2022-08-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-30.06.2022/fw_ingres_miui_INGRES_V13.0.10.0.SLJCNXM_8fca36d0eb_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.10.0.SLJCNXM_8fca36d0eb_12.0.zip
-  filename: fw_ingres_miui_INGRES_V13.0.10.0.SLJCNXM_8fca36d0eb_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-24.08.2022/fw_ingres_miui_INGRES_V13.0.11.0.SLJCNXM_275aaf7641_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRES_V13.0.11.0.SLJCNXM_275aaf7641_12.0.zip
+  filename: fw_ingres_miui_INGRES_V13.0.11.0.SLJCNXM_275aaf7641_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.10.0.SLJCNXM
+    miui: V13.0.11.0.SLJCNXM
 - branch: stable
   date: '2022-08-18'
   downloads:

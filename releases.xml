@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 24 Aug 2022 01:43:51 +0900</pubDate>
+  <pubDate>Thu, 25 Aug 2022 02:11:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.2.0.SKCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
+    <pubDate>Thu, 25 Aug 2022 02:11:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50G/POCO F4 GT (ingres) - V13.0.11.0.SLJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ingres</link>
+    <pubDate>Thu, 25 Aug 2022 01:46:34 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V13.0.6.0.SKPMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
@@ -95,16 +105,6 @@
     <title>Redmi 9/9 Activ (cattail) - V12.5.6.0.RCTINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cattail</link>
     <pubDate>Thu, 18 Aug 2022 13:23:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V13.0.4.0.TLBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Thu, 18 Aug 2022 02:50:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.10.0.RCZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Thu, 18 Aug 2022 02:16:34 +0900</pubDate>
   </item>
     </channel>
 </rss>
