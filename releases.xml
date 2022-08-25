@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 25 Aug 2022 21:07:49 +0900</pubDate>
+  <pubDate>Fri, 26 Aug 2022 01:21:28 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X3 NFC (surya) - V13.0.1.0.SJGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Fri, 26 Aug 2022 01:21:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V13.0.2.0.SJWMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Fri, 26 Aug 2022 01:20:11 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10S (rosemary) - V13.0.3.0.SKLINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
@@ -95,16 +105,6 @@
     <title>POCO M3 (citrus) - V12.5.7.0.RJFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
     <pubDate>Mon, 22 Aug 2022 19:34:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Ultra (diting) - V13.0.4.1.SLFCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
-    <pubDate>Sun, 21 Aug 2022 19:50:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9/Mi 9 Lite (pyxis) - V12.5.3.0.RFCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pyxis</link>
-    <pubDate>Sat, 20 Aug 2022 07:23:00 +0900</pubDate>
   </item>
     </channel>
 </rss>

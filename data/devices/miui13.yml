@@ -899,6 +899,12 @@
   name: Xiaomi 12
   version: V13.0.6.0.SLCMIXM
 - android: '12.0'
+  codename: curtana
+  date: '2022-08-25'
+  download: https://bigota.d.miui.com/V13.0.2.0.SJWMIXM/fw_curtana_miui_CURTANAGlobal_V13.0.2.0.SJWMIXM_65c5d3fcff_12.0.zip
+  name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
+  version: V13.0.2.0.SJWMIXM
+- android: '12.0'
   codename: dagu
   date: '2022-08-16'
   download: https://bigota.d.miui.com/V13.1.4.0.SLZCNXM/fw_dagu_miui_DAGU_V13.1.4.0.SLZCNXM_ef396bc25c_12.0.zip
@@ -2658,6 +2664,12 @@
   version: V13.0.2.0.SGKMIXM
 - android: '11.0'
   codename: spesn
+  date: '2022-06-24'
+  download: https://bigota.d.miui.com/V13.0.10.0.RGKMIXM/fw_spesn_miui_SPESNGlobal_V13.0.10.0.RGKMIXM_513d1e3ef4_11.0.zip
+  name: Redmi Note 11 NFC
+  version: V13.0.10.0.RGKMIXM
+- android: '11.0'
+  codename: spesn
   date: '2022-04-22'
   download: https://bigota.d.miui.com/V13.0.7.0.RGKMIXM/fw_spesn_miui_SPESNGlobal_V13.0.7.0.RGKMIXM_14345aff50_11.0.zip
   name: Redmi Note 11 NFC
@@ -2794,6 +2806,12 @@
   download: https://bigota.d.miui.com/V13.0.10.0.SKACNXM/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V13.0.10.0.SKACNXM
+- android: '12.0'
+  codename: surya
+  date: '2022-08-25'
+  download: https://bigota.d.miui.com/V13.0.1.0.SJGINXM/fw_surya_miui_SURYAINGlobal_V13.0.1.0.SJGINXM_967fb3e39c_12.0.zip
+  name: POCO X3 NFC
+  version: V13.0.1.0.SJGINXM
 - android: '12.0'
   codename: surya
   date: '2022-08-15'

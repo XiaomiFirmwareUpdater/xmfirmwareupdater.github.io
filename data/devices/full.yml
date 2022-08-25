@@ -15399,6 +15399,16 @@
     android: '10.0'
     miui: V12.0.4.0.QJWEUXM
 - branch: stable
+  date: '2022-08-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-25.08.2022/fw_curtana_miui_CURTANAGlobal_V13.0.2.0.SJWMIXM_65c5d3fcff_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/curtana/fw_curtana_miui_CURTANAGlobal_V13.0.2.0.SJWMIXM_65c5d3fcff_12.0.zip
+  filename: fw_curtana_miui_CURTANAGlobal_V13.0.2.0.SJWMIXM_65c5d3fcff_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SJWMIXM
+- branch: stable
   date: '2021-12-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-24.12.2021/fw_curtana_miui_CURTANAGlobal_V12.5.2.0.RJWMIXM_a8cdebdd32_11.0.zip
@@ -46109,6 +46119,16 @@
     android: '12.0'
     miui: V13.0.2.0.SGKMIXM
 - branch: stable
+  date: '2022-06-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-24.06.2022/fw_spesn_miui_SPESNGlobal_V13.0.10.0.RGKMIXM_513d1e3ef4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spesn/fw_spesn_miui_SPESNGlobal_V13.0.10.0.RGKMIXM_513d1e3ef4_11.0.zip
+  filename: fw_spesn_miui_SPESNGlobal_V13.0.10.0.RGKMIXM_513d1e3ef4_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V13.0.10.0.RGKMIXM
+- branch: stable
   date: '2022-04-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-22.04.2022/fw_spesn_miui_SPESNGlobal_V13.0.7.0.RGKMIXM_14345aff50_11.0.zip
@@ -46968,6 +46988,16 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RJGMIXM
+- branch: stable
+  date: '2022-08-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-25.08.2022/fw_surya_miui_SURYAINGlobal_V13.0.1.0.SJGINXM_967fb3e39c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/surya/fw_surya_miui_SURYAINGlobal_V13.0.1.0.SJGINXM_967fb3e39c_12.0.zip
+  filename: fw_surya_miui_SURYAINGlobal_V13.0.1.0.SJGINXM_967fb3e39c_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SJGINXM
 - branch: stable
   date: '2020-12-24'
   downloads:
