@@ -67,7 +67,7 @@ permalink: /miui/nabu/
 <tr><td>Xiaomi Pad 5 India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.RKXINXM</td><td>11.0</td><td>2.7 GB</td><td>2022-06-01</td><td><a href="/miui/nabu/stable beta/V13.0.5.0.RKXINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.RKXRUXM</td><td>11.0</td><td>3.7 GB</td><td>2022-04-18</td><td><a href="/miui/nabu/stable/V13.0.2.0.RKXRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RKXRUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-04-28</td><td><a href="/miui/nabu/stable/V13.0.2.0.RKXRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RKXRUXM</td><td>11.0</td><td>2.7 GB</td><td>2021-10-13</td><td><a href="/miui/nabu/stable beta/V12.5.1.0.RKXRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.RKXRUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-08-22</td><td><a href="/miui/nabu/stable beta/V13.0.3.0.RKXRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.RKXTRXM</td><td>11.0</td><td>3.5 GB</td><td>2022-04-18</td><td><a href="/miui/nabu/stable/V13.0.2.0.RKXTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RKXTRXM</td><td>11.0</td><td>2.8 GB</td><td>2022-04-28</td><td><a href="/miui/nabu/stable/V13.0.2.0.RKXTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RKXTRXM</td><td>11.0</td><td>2.7 GB</td><td>2021-10-13</td><td><a href="/miui/nabu/stable beta/V12.5.1.0.RKXTRXM/">Download</a></td></tr>
