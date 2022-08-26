@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 27 Aug 2022 01:25:04 +0900</pubDate>
+  <pubDate>Sat, 27 Aug 2022 07:21:29 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro (joyeuse) - V13.0.1.0.SJZEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
+    <pubDate>Sat, 27 Aug 2022 07:21:29 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V13.0.1.0.SJWEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
@@ -100,11 +105,6 @@
     <title>Redmi K50 Ultra (diting) - V13.0.5.0.SLFCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
     <pubDate>Tue, 23 Aug 2022 02:06:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Pro (unicorn) - V13.0.16.0.SLECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/unicorn</link>
-    <pubDate>Mon, 22 Aug 2022 21:52:23 +0900</pubDate>
   </item>
     </channel>
 </rss>
