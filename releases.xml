@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 26 Aug 2022 20:48:11 +0900</pubDate>
+  <pubDate>Sat, 27 Aug 2022 01:25:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V13.0.1.0.SJWEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Sat, 27 Aug 2022 01:25:04 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10S (thyme) - V13.0.8.0.SGACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12S Pro (unicorn) - V13.0.16.0.SLECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/unicorn</link>
     <pubDate>Mon, 22 Aug 2022 21:52:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V13.0.7.0.SJBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Mon, 22 Aug 2022 21:01:48 +0900</pubDate>
   </item>
     </channel>
 </rss>

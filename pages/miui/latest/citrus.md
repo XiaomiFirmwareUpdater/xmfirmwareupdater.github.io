@@ -58,9 +58,8 @@ permalink: /miui/citrus/
 <tr><td>POCO M3 Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RJFMIXM</td><td>11.0</td><td>5.0 GB</td><td>2022-04-29</td><td><a href="/miui/citrus/stable/V12.5.8.0.RJFMIXM/">Download</a></td></tr>
 <tr><td>POCO M3 Global</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RJFMIXM</td><td>11.0</td><td>2.8 GB</td><td>2022-05-13</td><td><a href="/miui/citrus/stable/V12.5.8.0.RJFMIXM/">Download</a></td></tr>
 <tr><td>POCO M3 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.9.0.RJFMIXM</td><td>11.0</td><td>2.8 GB</td><td>2022-08-15</td><td><a href="/miui/citrus/stable beta/V12.5.9.0.RJFMIXM/">Download</a></td></tr>
-<tr><td>POCO M3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RJFIDXM</td><td>11.0</td><td>4.4 GB</td><td>2022-05-20</td><td><a href="/miui/citrus/stable/V12.5.7.0.RJFIDXM/">Download</a></td></tr>
-<tr><td>POCO M3 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RJFIDXM</td><td>11.0</td><td>2.8 GB</td><td>2022-05-26</td><td><a href="/miui/citrus/stable/V12.5.7.0.RJFIDXM/">Download</a></td></tr>
-<tr><td>POCO M3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.8.0.RJFIDXM</td><td>11.0</td><td>2.8 GB</td><td>2022-08-19</td><td><a href="/miui/citrus/stable beta/V12.5.8.0.RJFIDXM/">Download</a></td></tr>
+<tr><td>POCO M3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RJFIDXM</td><td>11.0</td><td>4.3 GB</td><td>2022-08-12</td><td><a href="/miui/citrus/stable/V12.5.8.0.RJFIDXM/">Download</a></td></tr>
+<tr><td>POCO M3 Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RJFIDXM</td><td>11.0</td><td>2.8 GB</td><td>2022-08-19</td><td><a href="/miui/citrus/stable/V12.5.8.0.RJFIDXM/">Download</a></td></tr>
 <tr><td>POCO M3 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RJFINXM</td><td>11.0</td><td>3.4 GB</td><td>2022-05-26</td><td><a href="/miui/citrus/stable/V12.5.4.0.RJFINXM/">Download</a></td></tr>
 <tr><td>POCO M3 India</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RJFINXM</td><td>11.0</td><td>2.8 GB</td><td>2022-06-06</td><td><a href="/miui/citrus/stable/V12.5.4.0.RJFINXM/">Download</a></td></tr>
 <tr><td>POCO M3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RJFINXM</td><td>11.0</td><td>2.8 GB</td><td>2022-01-06</td><td><a href="/miui/citrus/stable beta/V12.5.1.0.RJFINXM/">Download</a></td></tr>

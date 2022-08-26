@@ -900,6 +900,12 @@
   version: V13.0.6.0.SLCMIXM
 - android: '12.0'
   codename: curtana
+  date: '2022-08-26'
+  download: https://bigota.d.miui.com/V13.0.1.0.SJWEUXM/fw_curtana_miui_CURTANAEEAGlobal_V13.0.1.0.SJWEUXM_44e291fc10_12.0.zip
+  name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
+  version: V13.0.1.0.SJWEUXM
+- android: '12.0'
+  codename: curtana
   date: '2022-08-25'
   download: https://bigota.d.miui.com/V13.0.2.0.SJWMIXM/fw_curtana_miui_CURTANAGlobal_V13.0.2.0.SJWMIXM_65c5d3fcff_12.0.zip
   name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
