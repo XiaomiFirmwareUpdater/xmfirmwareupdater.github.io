@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 26 Aug 2022 01:21:28 +0900</pubDate>
+  <pubDate>Fri, 26 Aug 2022 20:48:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10S (thyme) - V13.0.8.0.SGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Fri, 26 Aug 2022 20:48:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V13.0.12.0.SKICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Fri, 26 Aug 2022 20:22:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12X (psyche) - V13.0.4.0.SLDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
+    <pubDate>Fri, 26 Aug 2022 19:59:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (ginkgo) - V12.5.7.0.RCOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
+    <pubDate>Fri, 26 Aug 2022 19:32:23 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.6.0.RCDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Fri, 26 Aug 2022 19:31:15 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V13.0.1.0.SJGINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -80,31 +105,6 @@
     <title>Mi 10 (umi) - V13.0.7.0.SJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
     <pubDate>Mon, 22 Aug 2022 21:01:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12X (psyche) - V13.0.5.0.SLDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
-    <pubDate>Mon, 22 Aug 2022 20:59:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 (mojito) - V13.0.6.0.SKGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Mon, 22 Aug 2022 20:36:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10C (fog) - V13.0.6.0.RGEEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
-    <pubDate>Mon, 22 Aug 2022 20:13:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.1.0.SKEINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
-    <pubDate>Mon, 22 Aug 2022 19:54:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M3 (citrus) - V12.5.7.0.RJFEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
-    <pubDate>Mon, 22 Aug 2022 19:34:01 +0900</pubDate>
   </item>
     </channel>
 </rss>

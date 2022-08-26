@@ -2322,6 +2322,12 @@
   version: 22.3.24
 - android: '12.0'
   codename: psyche
+  date: '2022-08-26'
+  download: https://bigota.d.miui.com/V13.0.4.0.SLDMIXM/fw_psyche_miui_PSYCHEGlobal_V13.0.4.0.SLDMIXM_e089312f77_12.0.zip
+  name: Xiaomi 12X
+  version: V13.0.4.0.SLDMIXM
+- android: '12.0'
+  codename: psyche
   date: '2022-08-22'
   download: https://bigota.d.miui.com/V13.0.5.0.SLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.5.0.SLDEUXM_5df7c9d2cf_12.0.zip
   name: Xiaomi 12X
@@ -2428,6 +2434,12 @@
   download: https://bigota.d.miui.com/22.3.3/fw_renoir_miui_RENOIRPRE_22.3.3_9531b4c1c4_12.0.zip
   name: Mi 11 Lite 5G
   version: 22.3.3
+- android: '12.0'
+  codename: renoir
+  date: '2022-08-26'
+  download: https://bigota.d.miui.com/V13.0.12.0.SKICNXM/fw_renoir_miui_RENOIR_V13.0.12.0.SKICNXM_ab867de060_12.0.zip
+  name: Mi 11 Lite 5G
+  version: V13.0.12.0.SKICNXM
 - android: '12.0'
   codename: renoir
   date: '2022-04-20'
@@ -2944,6 +2956,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.SGACNXM/fw_thyme_miui_THYME_V13.0.6.0.SGACNXM_f43177d3f1_12.0.zip
   name: Mi 10S
   version: V13.0.6.0.SGACNXM
+- android: '12.0'
+  codename: thyme
+  date: '2022-08-26'
+  download: https://bigota.d.miui.com/V13.0.8.0.SGACNXM/fw_thyme_miui_THYME_V13.0.8.0.SGACNXM_8d865cf2ea_12.0.zip
+  name: Mi 10S
+  version: V13.0.8.0.SGACNXM
 - android: '12.0'
   codename: thyme
   date: '2022-02-21'
