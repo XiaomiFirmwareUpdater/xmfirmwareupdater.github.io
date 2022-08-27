@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2022-06-27'
+  date: '2022-08-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zijin/releases/download/stable-27.06.2022/fw_zijin_miui_ZIJIN_V13.0.11.0.SLPCNXM_5f3271ee5b_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zijin/fw_zijin_miui_ZIJIN_V13.0.11.0.SLPCNXM_5f3271ee5b_12.0.zip
-  filename: fw_zijin_miui_ZIJIN_V13.0.11.0.SLPCNXM_5f3271ee5b_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zijin/releases/download/stable-27.08.2022/fw_zijin_miui_ZIJIN_V13.0.12.0.SLPCNXM_bfc4f322e3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zijin/fw_zijin_miui_ZIJIN_V13.0.12.0.SLPCNXM_bfc4f322e3_12.0.zip
+  filename: fw_zijin_miui_ZIJIN_V13.0.12.0.SLPCNXM_bfc4f322e3_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.11.0.SLPCNXM
+    miui: V13.0.12.0.SLPCNXM
