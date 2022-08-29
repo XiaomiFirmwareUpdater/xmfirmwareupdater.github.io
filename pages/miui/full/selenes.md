@@ -52,7 +52,8 @@ permalink: /archive/miui/selenes/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 4G China</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKUCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-08-02</td><td><a href="/miui/selenes/stable/V13.0.1.0.SKUCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 4G China</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKUCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-08-23</td><td><a href="/miui/selenes/stable/V13.0.3.0.SKUCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 4G China</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKUCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-08-02</td><td><a href="/miui/selenes/stable/V13.0.1.0.SKUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 4G China</td><td>Stable</td><td>Recovery</td><td>V12.5.12.0.RKUCNXM</td><td>11.0</td><td>3.3 GB</td><td>2022-04-19</td><td><a href="/miui/selenes/stable/V12.5.12.0.RKUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RKUCNXM</td><td>11.0</td><td>3.2 GB</td><td>2022-01-22</td><td><a href="/miui/selenes/stable beta/V12.5.7.0.RKUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RKUCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-12-27</td><td><a href="/miui/selenes/stable beta/V12.5.5.0.RKUCNXM/">Download</a></td></tr>

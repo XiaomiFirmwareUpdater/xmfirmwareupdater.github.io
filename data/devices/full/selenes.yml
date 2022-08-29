@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2022-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selenes/releases/download/stable-30.08.2022/fw_selene_miui_SELENE_V13.0.3.0.SKUCNXM_1bfdb631bb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selenes/fw_selene_miui_SELENE_V13.0.3.0.SKUCNXM_1bfdb631bb_12.0.zip
+  filename: fw_selene_miui_SELENE_V13.0.3.0.SKUCNXM_1bfdb631bb_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKUCNXM
+- branch: stable
   date: '2021-12-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selenes/releases/download/stable-27.12.2021/fw_selenes_miui_SELENES_V12.5.5.0.RKUCNXM_853a8b4096_11.0.zip
