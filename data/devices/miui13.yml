@@ -1974,6 +1974,24 @@
   version: V13.0.7.0.SLMCNXM
 - android: '12.0'
   codename: munch
+  date: '2022-08-29'
+  download: https://bigota.d.miui.com/V13.0.7.0.SLMEUXM/fw_munch_miui_MUNCHEEAGlobal_V13.0.7.0.SLMEUXM_7cd46e821f_12.0.zip
+  name: Redmi K40S/POCO F4
+  version: V13.0.7.0.SLMEUXM
+- android: '12.0'
+  codename: munch
+  date: '2022-08-29'
+  download: https://bigota.d.miui.com/V13.0.5.0.SLMMIXM/fw_munch_miui_MUNCHGlobal_V13.0.5.0.SLMMIXM_f55e2bdb59_12.0.zip
+  name: Redmi K40S/POCO F4
+  version: V13.0.5.0.SLMMIXM
+- android: '12.0'
+  codename: munch
+  date: '2022-08-29'
+  download: https://bigota.d.miui.com/V13.0.4.0.SLMINXM/fw_munch_miui_MUNCHINGlobal_V13.0.4.0.SLMINXM_2b7bf71261_12.0.zip
+  name: Redmi K40S/POCO F4
+  version: V13.0.4.0.SLMINXM
+- android: '12.0'
+  codename: munch
   date: '2022-06-20'
   download: https://bigota.d.miui.com/V13.0.3.0.SLMINXM/fw_munch_miui_MUNCHINGlobal_V13.0.3.0.SLMINXM_2be3861324_12.0.zip
   name: Redmi K40S/POCO F4
@@ -3328,6 +3346,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.RKCCNXM/fw_veux_miui_VEUX_V13.0.4.0.RKCCNXM_caafe3fa2c_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: V13.0.4.0.RKCCNXM
+- android: '11.0'
+  codename: veux
+  date: '2022-08-29'
+  download: https://bigota.d.miui.com/V13.0.9.0.RKCEUXM/fw_veux_miui_VEUXEEAGlobal_V13.0.9.0.RKCEUXM_d47ec67b71_11.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V13.0.9.0.RKCEUXM
 - android: '11.0'
   codename: veux
   date: '2022-03-29'
