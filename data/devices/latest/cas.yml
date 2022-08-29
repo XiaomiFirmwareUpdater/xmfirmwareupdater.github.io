@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-05-27'
+  date: '2022-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-27.05.2022/fw_cas_miui_CAS_V13.0.4.0.SJJCNXM_0dd5e33084_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cas/fw_cas_miui_CAS_V13.0.4.0.SJJCNXM_0dd5e33084_12.0.zip
-  filename: fw_cas_miui_CAS_V13.0.4.0.SJJCNXM_0dd5e33084_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-29.08.2022/fw_cas_miui_CAS_V13.0.5.0.SJJCNXM_de6e6c4571_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cas/fw_cas_miui_CAS_V13.0.5.0.SJJCNXM_de6e6c4571_12.0.zip
+  filename: fw_cas_miui_CAS_V13.0.5.0.SJJCNXM_de6e6c4571_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SJJCNXM
+    miui: V13.0.5.0.SJJCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

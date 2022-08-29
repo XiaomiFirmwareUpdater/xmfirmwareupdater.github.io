@@ -52,7 +52,8 @@ permalink: /archive/miui/apollo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K30S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.22.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-08-26</td><td><a href="/miui/apollo/public beta/V13.1.22.8.22.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K30S Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SJDCNXM</td><td>12.0</td><td>4.7 GB</td><td>2022-08-29</td><td><a href="/miui/apollo/stable beta/V13.0.6.0.SJDCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.22.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-08-26</td><td><a href="/miui/apollo/public beta/V13.1.22.8.22.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.16.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-08-19</td><td><a href="/miui/apollo/public beta/V13.1.22.8.16.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.59.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-08-12</td><td><a href="/miui/apollo/public beta/V13.0.5.1.59.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.56.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-08-05</td><td><a href="/miui/apollo/public beta/V13.0.5.1.56.DEV/">Download</a></td></tr>

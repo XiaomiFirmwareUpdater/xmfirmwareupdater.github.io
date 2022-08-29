@@ -72,6 +72,7 @@ permalink: /miui/nabu/
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RKXTRXM</td><td>11.0</td><td>2.7 GB</td><td>2021-10-13</td><td><a href="/miui/nabu/stable beta/V12.5.1.0.RKXTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.RKXTWXM</td><td>11.0</td><td>3.4 GB</td><td>2022-04-14</td><td><a href="/miui/nabu/stable/V13.0.3.0.RKXTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.RKXTWXM</td><td>11.0</td><td>2.8 GB</td><td>2022-05-06</td><td><a href="/miui/nabu/stable/V13.0.3.0.RKXTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.RKXTWXM</td><td>11.0</td><td>2.8 GB</td><td>2022-08-19</td><td><a href="/miui/nabu/stable beta/V13.0.4.0.RKXTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

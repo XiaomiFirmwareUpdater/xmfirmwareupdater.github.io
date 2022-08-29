@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-07-07'
+  date: '2022-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-07.07.2022/fw_opal_miui_OPALGlobal_V13.0.6.0.RGLMIXM_9352e439a3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/opal/fw_opal_miui_OPALGlobal_V13.0.6.0.RGLMIXM_9352e439a3_11.0.zip
-  filename: fw_opal_miui_OPALGlobal_V13.0.6.0.RGLMIXM_9352e439a3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-29.08.2022/fw_opal_miui_OPALGlobal_V13.0.1.0.SGLMIXM_a3b46db7e8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/opal/fw_opal_miui_OPALGlobal_V13.0.1.0.SGLMIXM_a3b46db7e8_12.0.zip
+  filename: fw_opal_miui_OPALGlobal_V13.0.1.0.SGLMIXM_a3b46db7e8_12.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V13.0.6.0.RGLMIXM
+    android: '12.0'
+    miui: V13.0.1.0.SGLMIXM
 - branch: stable
   date: '2022-07-19'
   downloads:

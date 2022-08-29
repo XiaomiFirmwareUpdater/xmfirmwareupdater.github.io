@@ -159,15 +159,15 @@
     android: '12.0'
     miui: V13.0.5.0.SJDMIXM
 - branch: stable
-  date: '2022-06-02'
+  date: '2022-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-02.06.2022/fw_apollo_miui_APOLLO_V13.0.5.0.SJDCNXM_efb1ee6473_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLO_V13.0.5.0.SJDCNXM_efb1ee6473_12.0.zip
-  filename: fw_apollo_miui_APOLLO_V13.0.5.0.SJDCNXM_efb1ee6473_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-29.08.2022/fw_apollo_miui_APOLLO_V13.0.6.0.SJDCNXM_b0e4258c9b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLO_V13.0.6.0.SJDCNXM_b0e4258c9b_12.0.zip
+  filename: fw_apollo_miui_APOLLO_V13.0.6.0.SJDCNXM_b0e4258c9b_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SJDCNXM
+    miui: V13.0.6.0.SJDCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -549,15 +549,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2022-05-27'
+  date: '2022-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-27.05.2022/fw_cas_miui_CAS_V13.0.4.0.SJJCNXM_0dd5e33084_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cas/fw_cas_miui_CAS_V13.0.4.0.SJJCNXM_0dd5e33084_12.0.zip
-  filename: fw_cas_miui_CAS_V13.0.4.0.SJJCNXM_0dd5e33084_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-29.08.2022/fw_cas_miui_CAS_V13.0.5.0.SJJCNXM_de6e6c4571_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cas/fw_cas_miui_CAS_V13.0.5.0.SJJCNXM_de6e6c4571_12.0.zip
+  filename: fw_cas_miui_CAS_V13.0.5.0.SJJCNXM_de6e6c4571_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SJJCNXM
+    miui: V13.0.5.0.SJJCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -2829,15 +2829,15 @@
     android: '10.0'
     miui: V11.0.3.0.QFLEUXM
 - branch: stable
-  date: '2022-07-07'
+  date: '2022-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-07.07.2022/fw_opal_miui_OPALGlobal_V13.0.6.0.RGLMIXM_9352e439a3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/opal/fw_opal_miui_OPALGlobal_V13.0.6.0.RGLMIXM_9352e439a3_11.0.zip
-  filename: fw_opal_miui_OPALGlobal_V13.0.6.0.RGLMIXM_9352e439a3_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-29.08.2022/fw_opal_miui_OPALGlobal_V13.0.1.0.SGLMIXM_a3b46db7e8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/opal/fw_opal_miui_OPALGlobal_V13.0.1.0.SGLMIXM_a3b46db7e8_12.0.zip
+  filename: fw_opal_miui_OPALGlobal_V13.0.1.0.SGLMIXM_a3b46db7e8_12.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V13.0.6.0.RGLMIXM
+    android: '12.0'
+    miui: V13.0.1.0.SGLMIXM
 - branch: stable
   date: '2022-07-19'
   downloads:
@@ -4629,12 +4629,12 @@
     android: '12.0'
     miui: V13.0.12.0.SLPCNXM
 - branch: stable
-  date: '2022-08-17'
+  date: '2022-08-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-17.08.2022/fw_zizhan_miui_ZIZHAN_V13.1.9.0.SLRCNXM_90ad822da5_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zizhan/fw_zizhan_miui_ZIZHAN_V13.1.9.0.SLRCNXM_90ad822da5_12.0.zip
-  filename: fw_zizhan_miui_ZIZHAN_V13.1.9.0.SLRCNXM_90ad822da5_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-29.08.2022/fw_zizhan_miui_ZIZHAN_V13.1.16.0.SLRCNXM_17d95e0b04_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zizhan/fw_zizhan_miui_ZIZHAN_V13.1.16.0.SLRCNXM_17d95e0b04_12.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_V13.1.16.0.SLRCNXM_17d95e0b04_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.1.9.0.SLRCNXM
+    miui: V13.1.16.0.SLRCNXM

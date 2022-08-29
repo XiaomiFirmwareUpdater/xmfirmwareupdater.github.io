@@ -192,6 +192,12 @@
   version: 22.3.3
 - android: '12.0'
   codename: apollo
+  date: '2022-08-29'
+  download: https://bigota.d.miui.com/V13.0.6.0.SJDCNXM/fw_apollo_miui_APOLLO_V13.0.6.0.SJDCNXM_b0e4258c9b_12.0.zip
+  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
+  version: V13.0.6.0.SJDCNXM
+- android: '12.0'
+  codename: apollo
   date: '2022-05-26'
   download: https://bigota.d.miui.com/V13.0.6.0.SJDEUXM/fw_apollo_miui_APOLLOEEAGlobal_V13.0.6.0.SJDEUXM_7571b40647_12.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
@@ -550,6 +556,12 @@
   download: https://bigota.d.miui.com/22.3.3/fw_cas_miui_CASPRE_22.3.3_0b21ed7a98_12.0.zip
   name: Mi 10 Ultra
   version: 22.3.3
+- android: '12.0'
+  codename: cas
+  date: '2022-08-29'
+  download: https://bigota.d.miui.com/V13.0.5.0.SJJCNXM/fw_cas_miui_CAS_V13.0.5.0.SJJCNXM_de6e6c4571_12.0.zip
+  name: Mi 10 Ultra
+  version: V13.0.5.0.SJJCNXM
 - android: '12.0'
   codename: cas
   date: '2022-05-27'
@@ -2128,6 +2140,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SKMCNXM/fw_odin_miui_ODIN_V13.0.4.0.SKMCNXM_322cda29ce_12.0.zip
   name: MIX 4
   version: V13.0.4.0.SKMCNXM
+- android: '12.0'
+  codename: opal
+  date: '2022-08-29'
+  download: https://bigota.d.miui.com/V13.0.1.0.SGLMIXM/fw_opal_miui_OPALGlobal_V13.0.1.0.SGLMIXM_a3b46db7e8_12.0.zip
+  name: Redmi Note 11S 5G
+  version: V13.0.1.0.SGLMIXM
 - android: '11.0'
   codename: opal
   date: '2022-04-27'
@@ -3766,6 +3784,12 @@
   download: https://bigota.d.miui.com/V13.0.11.0.SLPCNXM/fw_zijin_miui_ZIJIN_V13.0.11.0.SLPCNXM_5f3271ee5b_12.0.zip
   name: Xiaomi Civi 1S
   version: V13.0.11.0.SLPCNXM
+- android: '12.0'
+  codename: zizhan
+  date: '2022-08-29'
+  download: https://bigota.d.miui.com/V13.1.16.0.SLRCNXM/fw_zizhan_miui_ZIZHAN_V13.1.16.0.SLRCNXM_17d95e0b04_12.0.zip
+  name: Xiaomi MIX Fold 2
+  version: V13.1.16.0.SLRCNXM
 - android: '12.0'
   codename: zizhan
   date: '2022-08-17'
