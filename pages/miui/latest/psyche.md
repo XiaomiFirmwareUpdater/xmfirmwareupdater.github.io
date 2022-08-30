@@ -58,9 +58,8 @@ permalink: /miui/psyche/
 <tr><td>Xiaomi 12X China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.22.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-08-26</td><td><a href="/miui/psyche/public beta/V13.1.22.8.22.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SLDCNXM</td><td>12.0</td><td>4.3 GB</td><td>2022-08-01</td><td><a href="/miui/psyche/stable beta/V13.0.7.0.SLDCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Weekly</td><td>Recovery</td><td>22.3.24</td><td>12.0</td><td>4.3 GB</td><td>2022-03-24</td><td><a href="/miui/psyche/weekly/22.3.24/">Download</a></td></tr>
-<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLDEUXM</td><td>12.0</td><td>5.9 GB</td><td>2022-05-28</td><td><a href="/miui/psyche/stable/V13.0.3.0.SLDEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLDEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-06-01</td><td><a href="/miui/psyche/stable/V13.0.3.0.SLDEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SLDEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-08-19</td><td><a href="/miui/psyche/stable beta/V13.0.5.0.SLDEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SLDEUXM</td><td>12.0</td><td>5.9 GB</td><td>2022-08-11</td><td><a href="/miui/psyche/stable/V13.0.5.0.SLDEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLDEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-08-19</td><td><a href="/miui/psyche/stable/V13.0.5.0.SLDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLDMIXM</td><td>12.0</td><td>5.9 GB</td><td>2022-05-28</td><td><a href="/miui/psyche/stable/V13.0.2.0.SLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLDMIXM</td><td>12.0</td><td>3.2 GB</td><td>2022-06-01</td><td><a href="/miui/psyche/stable/V13.0.2.0.SLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLDMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-08-23</td><td><a href="/miui/psyche/stable beta/V13.0.4.0.SLDMIXM/">Download</a></td></tr>
