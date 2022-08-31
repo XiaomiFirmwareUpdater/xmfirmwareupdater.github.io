@@ -1,15 +1,20 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 01 Sep 2022 02:00:02 +0900</pubDate>
+  <pubDate>Thu, 01 Sep 2022 02:01:56 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>POCO X3 NFC (surya) - V13.0.2.0.SJGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
+    <pubDate>Thu, 01 Sep 2022 02:01:56 +0900</pubDate>
+  </item>
+    <item>
     <title>Xiaomi Pad 5 (nabu) - V13.0.6.0.RKXINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Thu, 01 Sep 2022 02:00:02 +0900</pubDate>
+    <pubDate>Thu, 01 Sep 2022 02:00:14 +0900</pubDate>
   </item>
     <item>
     <title>POCO C40 (frost) - V13.0.12.0.RGFMIXM</title>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12X (psyche) - V13.0.4.0.SLDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
     <pubDate>Fri, 26 Aug 2022 19:59:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V12.5.7.0.RCOEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Fri, 26 Aug 2022 19:32:23 +0900</pubDate>
   </item>
     </channel>
 </rss>
