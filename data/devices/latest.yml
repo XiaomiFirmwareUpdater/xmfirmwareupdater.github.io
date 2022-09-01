@@ -3649,25 +3649,25 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2022-08-02'
+  date: '2022-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-02.08.2022/fw_selene_miui_SELENEGlobal_V13.0.6.0.SKUMIXM_541ca3ca19_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selene/fw_selene_miui_SELENEGlobal_V13.0.6.0.SKUMIXM_541ca3ca19_12.0.zip
-  filename: fw_selene_miui_SELENEGlobal_V13.0.6.0.SKUMIXM_541ca3ca19_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-02.09.2022/fw_selene_miui_SELENEGlobal_V12.5.20.0.RKUMIXM_f17c15d0d7_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEGlobal_V12.5.20.0.RKUMIXM_f17c15d0d7_11.0.zip
+  filename: fw_selene_miui_SELENEGlobal_V12.5.20.0.RKUMIXM_f17c15d0d7_11.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.6.0.SKUMIXM
+    android: '11.0'
+    miui: V12.5.20.0.RKUMIXM
 - branch: stable
-  date: '2022-07-12'
+  date: '2022-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-12.07.2022/fw_selene_miui_SELENEEEAGlobal_V13.0.1.0.SKUEUXM_7977f02d10_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selene/fw_selene_miui_SELENEEEAGlobal_V13.0.1.0.SKUEUXM_7977f02d10_12.0.zip
-  filename: fw_selene_miui_SELENEEEAGlobal_V13.0.1.0.SKUEUXM_7977f02d10_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-02.09.2022/fw_selene_miui_SELENEEEAGlobal_V12.5.22.0.RKUEUXM_812711705b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/selene/fw_selene_miui_SELENEEEAGlobal_V12.5.22.0.RKUEUXM_812711705b_11.0.zip
+  filename: fw_selene_miui_SELENEEEAGlobal_V12.5.22.0.RKUEUXM_812711705b_11.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.1.0.SKUEUXM
+    android: '11.0'
+    miui: V12.5.22.0.RKUEUXM
 - branch: stable
   date: '2022-07-11'
   downloads:
