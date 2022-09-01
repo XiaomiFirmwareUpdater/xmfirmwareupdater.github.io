@@ -168,3 +168,13 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RKVCNXM
+- branch: stable
+  date: '2022-09-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-01.09.2022/fw_mona_miui_MONA_V13.0.6.0.SKVCNXM_a07bd21017_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mona/fw_mona_miui_MONA_V13.0.6.0.SKVCNXM_a07bd21017_12.0.zip
+  filename: fw_mona_miui_MONA_V13.0.6.0.SKVCNXM_a07bd21017_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SKVCNXM

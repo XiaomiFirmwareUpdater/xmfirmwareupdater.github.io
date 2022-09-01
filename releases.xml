@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 01 Sep 2022 02:01:56 +0900</pubDate>
+  <pubDate>Thu, 01 Sep 2022 20:22:58 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V13.0.6.0.SJBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Thu, 01 Sep 2022 20:22:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Civi (mona) - V13.0.6.0.SKVCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
+    <pubDate>Thu, 01 Sep 2022 20:20:34 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - V13.0.4.0.SJAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Thu, 01 Sep 2022 19:24:29 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V13.0.2.0.SJGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V13.0.1.0.SJWEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
     <pubDate>Sat, 27 Aug 2022 01:25:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10S (thyme) - V13.0.8.0.SGACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Fri, 26 Aug 2022 20:48:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G (renoir) - V13.0.12.0.SKICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Fri, 26 Aug 2022 20:22:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12X (psyche) - V13.0.4.0.SLDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
-    <pubDate>Fri, 26 Aug 2022 19:59:19 +0900</pubDate>
   </item>
     </channel>
 </rss>
