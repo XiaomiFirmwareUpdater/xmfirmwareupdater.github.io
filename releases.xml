@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 02 Sep 2022 19:51:12 +0900</pubDate>
+  <pubDate>Sat, 03 Sep 2022 01:51:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V13.0.3.0.SKSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Sat, 03 Sep 2022 01:51:06 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40S/POCO F4 (munch) - V13.0.11.0.SLMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
@@ -100,11 +105,6 @@
     <title>Redmi K40S/POCO F4 (munch) - V13.0.4.0.SLMINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
     <pubDate>Mon, 29 Aug 2022 14:41:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40S/POCO F4 (munch) - V13.0.5.0.SLMMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
-    <pubDate>Mon, 29 Aug 2022 14:16:20 +0900</pubDate>
   </item>
     </channel>
 </rss>
