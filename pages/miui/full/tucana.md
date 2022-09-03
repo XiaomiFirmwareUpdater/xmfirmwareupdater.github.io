@@ -52,7 +52,8 @@ permalink: /archive/miui/tucana/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi Note 10 / Note 10 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RFDRUXM</td><td>11.0</td><td>3.2 GB</td><td>2022-05-13</td><td><a href="/miui/tucana/stable/V13.0.2.0.RFDRUXM/">Download</a></td></tr>
+                <tr><td>Mi CC 9 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.RFDCNXM</td><td>11.0</td><td>3.3 GB</td><td>2022-09-03</td><td><a href="/miui/tucana/stable beta/V13.0.4.0.RFDCNXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 / Note 10 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RFDRUXM</td><td>11.0</td><td>3.2 GB</td><td>2022-05-13</td><td><a href="/miui/tucana/stable/V13.0.2.0.RFDRUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.RFDRUXM</td><td>11.0</td><td>4.7 GB</td><td>2022-04-28</td><td><a href="/miui/tucana/stable/V13.0.2.0.RFDRUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.RFDIDXM</td><td>11.0</td><td>3.2 GB</td><td>2022-05-09</td><td><a href="/miui/tucana/stable beta/V13.0.2.0.RFDIDXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 / Note 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RFDEUXM</td><td>11.0</td><td>3.2 GB</td><td>2022-04-22</td><td><a href="/miui/tucana/stable/V13.0.1.0.RFDEUXM/">Download</a></td></tr>
