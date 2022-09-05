@@ -2627,6 +2627,12 @@
   name: Redmi Note 10S
   version: V13.0.2.0.SKLINXM
 - android: '12.0'
+  codename: rosemary
+  date: '2022-09-05'
+  download: https://bigota.d.miui.com/V13.0.3.0.SKLEUXM/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.3.0.SKLEUXM_ebc300f935_12.0.zip
+  name: Redmi Note 10S
+  version: V13.0.3.0.SKLEUXM
+- android: '12.0'
   codename: rubens
   date: '2022-03-29'
   download: https://bigota.d.miui.com/V13.0.7.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.7.0.SLNCNXM_7b77e2c31c_12.0.zip
@@ -3232,6 +3238,12 @@
   download: https://bigota.d.miui.com/V13.0.0.1.1.DEV/fw_umi_miui_UMI_V13.0.0.1.1.DEV_612fd28eb9_12.0.zip
   name: Mi 10
   version: V13.0.0.1.1.DEV
+- android: '12.0'
+  codename: umi
+  date: '2022-09-05'
+  download: https://bigota.d.miui.com/V13.0.7.0.SJBMIXM/fw_umi_miui_UMIGlobal_V13.0.7.0.SJBMIXM_677f693e51_12.0.zip
+  name: Mi 10
+  version: V13.0.7.0.SJBMIXM
 - android: '12.0'
   codename: umi
   date: '2022-05-05'

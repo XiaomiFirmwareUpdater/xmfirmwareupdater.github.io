@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-07-18'
+  date: '2022-09-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-18.07.2022/fw_umi_miui_UMIGlobal_V13.0.6.0.SJBMIXM_8d2bcb342a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMIGlobal_V13.0.6.0.SJBMIXM_8d2bcb342a_12.0.zip
-  filename: fw_umi_miui_UMIGlobal_V13.0.6.0.SJBMIXM_8d2bcb342a_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-05.09.2022/fw_umi_miui_UMIGlobal_V13.0.7.0.SJBMIXM_677f693e51_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMIGlobal_V13.0.7.0.SJBMIXM_677f693e51_12.0.zip
+  filename: fw_umi_miui_UMIGlobal_V13.0.7.0.SJBMIXM_677f693e51_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SJBMIXM
+    miui: V13.0.7.0.SJBMIXM
 - branch: stable
   date: '2022-08-22'
   downloads:
