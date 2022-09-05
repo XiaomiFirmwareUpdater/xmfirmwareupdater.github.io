@@ -149,15 +149,15 @@
     android: '11.0'
     miui: V12.5.4.0.RCSEUXM
 - branch: stable
-  date: '2022-07-16'
+  date: '2022-09-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-17.07.2022/fw_apollo_miui_APOLLOGlobal_V13.0.5.0.SJDMIXM_24689f0684_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLOGlobal_V13.0.5.0.SJDMIXM_24689f0684_12.0.zip
-  filename: fw_apollo_miui_APOLLOGlobal_V13.0.5.0.SJDMIXM_24689f0684_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-05.09.2022/fw_apollo_miui_APOLLOGlobal_V13.0.6.0.SJDMIXM_40c6c78c8f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLOGlobal_V13.0.6.0.SJDMIXM_40c6c78c8f_12.0.zip
+  filename: fw_apollo_miui_APOLLOGlobal_V13.0.6.0.SJDMIXM_40c6c78c8f_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SJDMIXM
+    miui: V13.0.6.0.SJDMIXM
 - branch: stable
   date: '2022-08-29'
   downloads:
@@ -569,15 +569,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-08-18'
+  date: '2022-09-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cattail/releases/download/stable-18.08.2022/fw_cattail_miui_CATTAILINGlobal_V12.5.6.0.RCTINXM_9ceac0fafe_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.5.6.0.RCTINXM_9ceac0fafe_11.0.zip
-  filename: fw_cattail_miui_CATTAILINGlobal_V12.5.6.0.RCTINXM_9ceac0fafe_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cattail/releases/download/stable-05.09.2022/fw_cattail_miui_CATTAILINGlobal_V12.0.18.0.QCTINXM_9eefea9735_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.0.18.0.QCTINXM_9eefea9735_10.0.zip
+  filename: fw_cattail_miui_CATTAILINGlobal_V12.0.18.0.QCTINXM_9eefea9735_10.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V12.5.6.0.RCTINXM
+    android: '10.0'
+    miui: V12.0.18.0.QCTINXM
 - branch: stable
   date: '2021-06-23'
   downloads:

@@ -258,6 +258,12 @@
   version: V13.0.8.0.SJDEUXM
 - android: '12.0'
   codename: apollo
+  date: '2022-09-05'
+  download: https://bigota.d.miui.com/V13.0.6.0.SJDMIXM/fw_apollo_miui_APOLLOGlobal_V13.0.6.0.SJDMIXM_40c6c78c8f_12.0.zip
+  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
+  version: V13.0.6.0.SJDMIXM
+- android: '12.0'
+  codename: apollo
   date: '2022-06-02'
   download: https://bigota.d.miui.com/V13.0.5.0.SJDCNXM/fw_apollo_miui_APOLLO_V13.0.5.0.SJDCNXM_efb1ee6473_12.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro

@@ -119,6 +119,16 @@
     android: '10.0'
     miui: V12.0.7.0.QCTINXM
 - branch: stable
+  date: '2022-09-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cattail/releases/download/stable-05.09.2022/fw_cattail_miui_CATTAILINGlobal_V12.0.18.0.QCTINXM_9eefea9735_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cattail/fw_cattail_miui_CATTAILINGlobal_V12.0.18.0.QCTINXM_9eefea9735_10.0.zip
+  filename: fw_cattail_miui_CATTAILINGlobal_V12.0.18.0.QCTINXM_9eefea9735_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.18.0.QCTINXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cattail/releases/download/stable-03.11.2020/fw_cattail_miui_CATTAILINGlobal_V12.0.3.0.QCTINXM_7b2bb11bfe_10.0.zip

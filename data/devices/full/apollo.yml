@@ -999,6 +999,16 @@
     android: '11.0'
     miui: V12.5.11.0.RJDEUXM
 - branch: stable
+  date: '2022-09-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-05.09.2022/fw_apollo_miui_APOLLOGlobal_V13.0.6.0.SJDMIXM_40c6c78c8f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLOGlobal_V13.0.6.0.SJDMIXM_40c6c78c8f_12.0.zip
+  filename: fw_apollo_miui_APOLLOGlobal_V13.0.6.0.SJDMIXM_40c6c78c8f_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SJDMIXM
+- branch: stable
   date: '2021-01-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-05.01.2021/fw_apollo_miui_APOLLO_V12.0.8.0.QJDCNXM_3bf2c5061c_10.0.zip
