@@ -1179,6 +1179,16 @@
     android: '10.0'
     miui: V11.0.12.0.QJACNXM
 - branch: stable
+  date: '2022-09-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-05.09.2022/fw_cmi_miui_CMI_V13.0.5.0.SJACNXM_79609f2b93_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMI_V13.0.5.0.SJACNXM_79609f2b93_12.0.zip
+  filename: fw_cmi_miui_CMI_V13.0.5.0.SJACNXM_79609f2b93_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SJACNXM
+- branch: stable
   date: '2020-08-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-04.08.2020/fw_cmi_miui_CMIEEAGlobal_V12.0.1.0.QJAEUXM_008a8e0ecd_10.0.zip
