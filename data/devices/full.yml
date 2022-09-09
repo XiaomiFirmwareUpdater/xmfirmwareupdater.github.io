@@ -1599,6 +1599,16 @@
     android: '10.0'
     miui: V12.0.17.0.QCRINXM
 - branch: stable
+  date: '2022-09-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelicain/releases/download/stable-10.09.2022/fw_angelicain_miui_ANGELICAININGlobal_V12.0.19.0.QCRINXM_355be36c6c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelicain/fw_angelicain_miui_ANGELICAININGlobal_V12.0.19.0.QCRINXM_355be36c6c_10.0.zip
+  filename: fw_angelicain_miui_ANGELICAININGlobal_V12.0.19.0.QCRINXM_355be36c6c_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.19.0.QCRINXM
+- branch: stable
   date: '2021-05-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelicain/releases/download/stable-06.05.2021/fw_angelicain_miui_ANGELICAININGlobal_V12.0.9.0.QCRINXM_d1197165a2_10.0.zip
@@ -28808,6 +28818,16 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RKOCNXM
+- branch: stable
+  date: '2022-09-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-10.09.2022/fw_lisa_miui_LISA_V13.0.3.0.SKOCNXM_e0a65e21dd_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISA_V13.0.3.0.SKOCNXM_e0a65e21dd_12.0.zip
+  filename: fw_lisa_miui_LISA_V13.0.3.0.SKOCNXM_e0a65e21dd_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKOCNXM
 - branch: stable
   date: '2022-01-10'
   downloads:

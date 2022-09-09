@@ -52,7 +52,8 @@ permalink: /archive/miui/lisa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11 Lite 5G NE India</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SKOINXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-27</td><td><a href="/miui/lisa/stable/V13.0.7.0.SKOINXM/">Download</a></td></tr>
+                <tr><td>Mi 11 LE China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKOCNXM</td><td>12.0</td><td>4.4 GB</td><td>2022-09-07</td><td><a href="/miui/lisa/stable beta/V13.0.3.0.SKOCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11 Lite 5G NE India</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SKOINXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-27</td><td><a href="/miui/lisa/stable/V13.0.7.0.SKOINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE India</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SKOINXM</td><td>12.0</td><td>4.5 GB</td><td>2022-07-18</td><td><a href="/miui/lisa/stable/V13.0.7.0.SKOINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKORUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-26</td><td><a href="/miui/lisa/stable/V13.0.4.0.SKORUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKORUXM</td><td>12.0</td><td>5.4 GB</td><td>2022-07-05</td><td><a href="/miui/lisa/stable/V13.0.4.0.SKORUXM/">Download</a></td></tr>
@@ -126,8 +127,8 @@ permalink: /archive/miui/lisa/
 <tr><td>Xiaomi 11 Lite 5G NE India</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RKOINXM</td><td>11.0</td><td>4.4 GB</td><td>2021-11-23</td><td><a href="/miui/lisa/stable/V12.5.4.0.RKOINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Global</td><td>Stable</td><td>Recovery</td><td>V12.5.11.0.RKOMIXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-24</td><td><a href="/miui/lisa/stable/V12.5.11.0.RKOMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.11.0.RKOMIXM</td><td>11.0</td><td>6.2 GB</td><td>2021-11-18</td><td><a href="/miui/lisa/stable/V12.5.11.0.RKOMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKORUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-20</td><td><a href="/miui/lisa/stable/V12.5.5.0.RKORUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RKORUXM</td><td>11.0</td><td>5.6 GB</td><td>2021-11-18</td><td><a href="/miui/lisa/stable/V12.5.5.0.RKORUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKORUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-20</td><td><a href="/miui/lisa/stable/V12.5.5.0.RKORUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.5.0.RKOEUXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-04</td><td><a href="/miui/lisa/stable/V12.5.5.0.RKOEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.5.0.RKOEUXM</td><td>11.0</td><td>6.3 GB</td><td>2021-10-28</td><td><a href="/miui/lisa/stable/V12.5.5.0.RKOEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Global</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKOMIXM</td><td>11.0</td><td>3.3 GB</td><td>2021-11-02</td><td><a href="/miui/lisa/stable/V12.5.8.0.RKOMIXM/">Download</a></td></tr>
