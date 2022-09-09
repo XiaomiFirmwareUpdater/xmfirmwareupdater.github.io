@@ -52,7 +52,8 @@ permalink: /archive/miui/xaga/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SLOTWXM</td><td>12.0</td><td>4.4 GB</td><td>2022-08-30</td><td><a href="/miui/xaga/stable beta/V13.0.3.0.SLOTWXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-09-09</td><td><a href="/miui/xaga/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SLOTWXM</td><td>12.0</td><td>4.4 GB</td><td>2022-08-30</td><td><a href="/miui/xaga/stable beta/V13.0.3.0.SLOTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLORUXM</td><td>12.0</td><td>4.5 GB</td><td>2022-08-30</td><td><a href="/miui/xaga/stable beta/V13.0.4.0.SLORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SLOEUXM</td><td>12.0</td><td>4.5 GB</td><td>2022-08-30</td><td><a href="/miui/xaga/stable beta/V13.0.6.0.SLOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.22.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-08-26</td><td><a href="/miui/xaga/public beta/V13.1.22.8.22.DEV/">Download</a></td></tr>
