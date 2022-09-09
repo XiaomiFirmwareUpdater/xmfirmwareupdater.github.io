@@ -66,9 +66,9 @@ permalink: /miui/munch/
 <tr><td>POCO F4 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLMINXM</td><td>12.0</td><td>4.2 GB</td><td>2022-06-08</td><td><a href="/miui/munch/stable/V13.0.3.0.SLMINXM/">Download</a></td></tr>
 <tr><td>POCO F4 India</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLMINXM</td><td>12.0</td><td>3.3 GB</td><td>2022-06-16</td><td><a href="/miui/munch/stable/V13.0.3.0.SLMINXM/">Download</a></td></tr>
 <tr><td>POCO F4 India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLMINXM</td><td>12.0</td><td>3.3 GB</td><td>2022-08-23</td><td><a href="/miui/munch/stable beta/V13.0.4.0.SLMINXM/">Download</a></td></tr>
-<tr><td>POCO F4 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SLMRUXM</td><td>12.0</td><td>5.1 GB</td><td>2022-04-26</td><td><a href="/miui/munch/stable/V13.0.1.0.SLMRUXM/">Download</a></td></tr>
-<tr><td>POCO F4 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SLMRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-06-28</td><td><a href="/miui/munch/stable/V13.0.1.0.SLMRUXM/">Download</a></td></tr>
-<tr><td>POCO F4 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SLMRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-06-28</td><td><a href="/miui/munch/stable beta/V13.0.6.0.SLMRUXM/">Download</a></td></tr>
+<tr><td>POCO F4 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SLMRUXM</td><td>12.0</td><td>5.2 GB</td><td>2022-06-22</td><td><a href="/miui/munch/stable/V13.0.6.0.SLMRUXM/">Download</a></td></tr>
+<tr><td>POCO F4 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SLMRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-06-28</td><td><a href="/miui/munch/stable/V13.0.6.0.SLMRUXM/">Download</a></td></tr>
+<tr><td>POCO F4 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SLMRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-09-07</td><td><a href="/miui/munch/stable beta/V13.0.7.0.SLMRUXM/">Download</a></td></tr>
 <tr><td>POCO F4 Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SLMTRXM</td><td>12.0</td><td>4.8 GB</td><td>2022-05-12</td><td><a href="/miui/munch/stable/V13.0.1.0.SLMTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SLMTRXM</td><td>12.0</td><td>3.3 GB</td><td>2022-07-28</td><td><a href="/miui/munch/stable/V13.0.1.0.SLMTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SLMTRXM</td><td>12.0</td><td>3.3 GB</td><td>2022-08-24</td><td><a href="/miui/munch/stable beta/V13.0.3.0.SLMTRXM/">Download</a></td></tr>

@@ -1,7 +1,7 @@
 ---
-title: Redmi K50 Ultra (diting) MIUI Downloads
+title: Redmi K50 Ultra/Xiaomi 12T Pro (diting) MIUI Downloads
 layout: download
-name: Redmi K50 Ultra
+name: Redmi K50 Ultra/Xiaomi 12T Pro
 codename: diting
 permalink: /archive/miui/diting/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/miui/diting/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/diting/">Redmi K50 Ultra</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/diting/">Redmi K50 Ultra/Xiaomi 12T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

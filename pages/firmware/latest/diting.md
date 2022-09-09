@@ -1,7 +1,7 @@
 ---
-title: Redmi K50 Ultra (diting) Firmware Downloads
+title: Redmi K50 Ultra/Xiaomi 12T Pro (diting) Firmware Downloads
 layout: download
-name: Redmi K50 Ultra
+name: Redmi K50 Ultra/Xiaomi 12T Pro
 codename: diting
 permalink: /firmware/diting/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/diting/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/diting/">Redmi K50 Ultra</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/diting/">Redmi K50 Ultra/Xiaomi 12T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

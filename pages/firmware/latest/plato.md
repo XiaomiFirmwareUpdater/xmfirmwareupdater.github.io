@@ -1,15 +1,15 @@
 ---
-title: Redmi K50 Ultra/Xiaomi 12T Pro (diting) Firmware Downloads
+title: Xiaomi 12T (plato) Firmware Downloads
 layout: download
-name: Redmi K50 Ultra/Xiaomi 12T Pro
-codename: diting
-permalink: /archive/firmware/diting/
+name: Xiaomi 12T
+codename: plato
+permalink: /firmware/plato/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/diting/">Redmi K50 Ultra/Xiaomi 12T Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/plato/">Xiaomi 12T</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -19,24 +19,25 @@ permalink: /archive/firmware/diting/
         <span aria-hidden="true">&times;</span>
     </button>
 </div>
-### Firmware Archive
+<h3>Latest Firmware <span class="badge badge-light"><a href="/releases.xml" class="icon solid fa-rss">
+<span class="label">RSS</span></a></span></h3>
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows all available downloads.
-     If you're looking for the latest releases or other downloads check:</p>
-    <a href="/firmware/diting/" class="card-link">Latest Firmware</a>
-    <a href="/miui/diting/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/diting/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows the latest firmware downloads only.
+     If you're looking for older releases or other downloads check:</p>
+    <a href="/archive/firmware/plato/" class="card-link">Firmware Archive</a>
+    <a href="/miui/plato/" class="card-link">MIUI Downloads</a>
+    <a href="/vendor/plato/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
 {%include ads.html%}
 <div class="row justify-content-center">
     <div class="col-10">
+        {%include vli_ad_320x50_1.html%}
         <div class="table-responsive-md" style="margin-top: 25px;">
-            {%include vli_ad_320x50_1.html%}
             <table id="firmware" class="display dt-responsive nowrap compact table table-striped table-hover table-sm">
                 <thead class="thead-dark">
                     <tr>
@@ -48,7 +49,7 @@ permalink: /archive/firmware/diting/
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('diting', 'full')</script>
+                <script>loadFirmwareDownloads('plato', 'latest')</script>
             </table>
         </div>
     </div>

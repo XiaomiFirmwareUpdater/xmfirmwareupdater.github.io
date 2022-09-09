@@ -1,15 +1,15 @@
 ---
-title: Redmi K50 Ultra/Xiaomi 12T Pro (diting) Firmware Downloads
+title: Xiaomi 12T (plato) Firmware Downloads
 layout: download
-name: Redmi K50 Ultra/Xiaomi 12T Pro
-codename: diting
-permalink: /archive/firmware/diting/
+name: Xiaomi 12T
+codename: plato
+permalink: /archive/firmware/plato/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/diting/">Redmi K50 Ultra/Xiaomi 12T Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/plato/">Xiaomi 12T</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -26,9 +26,9 @@ permalink: /archive/firmware/diting/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases or other downloads check:</p>
-    <a href="/firmware/diting/" class="card-link">Latest Firmware</a>
-    <a href="/miui/diting/" class="card-link">MIUI Downloads</a>
-    <a href="/vendor/diting/" class="card-link">Vendor Downloads</a>
+    <a href="/firmware/plato/" class="card-link">Latest Firmware</a>
+    <a href="/miui/plato/" class="card-link">MIUI Downloads</a>
+    <a href="/vendor/plato/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 
@@ -48,7 +48,7 @@ permalink: /archive/firmware/diting/
                         <th data-ref="updated">Updated</th>
                     </tr>
                 </thead>
-                <script>loadFirmwareDownloads('diting', 'full')</script>
+                <script>loadFirmwareDownloads('plato', 'full')</script>
             </table>
         </div>
     </div>
