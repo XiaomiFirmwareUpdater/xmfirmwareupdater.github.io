@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 10S/POCO M5S (rosemary) Firmware Downloads
+title: Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) Firmware Downloads
 layout: download
-name: Redmi Note 10S/POCO M5S
+name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
 codename: rosemary
 permalink: /archive/firmware/rosemary/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/rosemary/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/rosemary/">Redmi Note 10S/POCO M5S</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/rosemary/">Redmi Note 10S/Redmi Note 11 SE/POCO M5S</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
