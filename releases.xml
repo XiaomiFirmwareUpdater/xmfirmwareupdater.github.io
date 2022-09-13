@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 13 Sep 2022 20:47:43 +0900</pubDate>
+  <pubDate>Wed, 14 Sep 2022 02:27:13 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K50 (rubens) - V13.0.23.0.SLNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
+    <pubDate>Wed, 14 Sep 2022 02:27:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO C40 (frost) - V13.0.6.0.RGFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/frost</link>
+    <pubDate>Wed, 14 Sep 2022 01:45:05 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V13.0.2.0.RFDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -95,16 +105,6 @@
     <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.18.0.RCDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
     <pubDate>Wed, 07 Sep 2022 13:31:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M5/Redmi 11 Prime 4G (rock) - V13.0.3.0.SLUEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rock</link>
-    <pubDate>Wed, 07 Sep 2022 07:32:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V13.0.15.0.SKDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Wed, 07 Sep 2022 02:01:55 +0900</pubDate>
   </item>
     </channel>
 </rss>

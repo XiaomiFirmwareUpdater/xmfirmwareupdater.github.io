@@ -1349,6 +1349,16 @@
     android: '11.0'
     miui: V13.0.12.0.RGFMIXM
 - branch: stable
+  date: '2022-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-13.09.2022/fw_frost_miui_FROSTEEAGlobal_V13.0.6.0.RGFEUXM_736bf1d8f9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTEEAGlobal_V13.0.6.0.RGFEUXM_736bf1d8f9_11.0.zip
+  filename: fw_frost_miui_FROSTEEAGlobal_V13.0.6.0.RGFEUXM_736bf1d8f9_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.6.0.RGFEUXM
+- branch: stable
   date: '2022-07-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-30.07.2022/fw_gauguin_miui_GAUGUINGlobal_V13.0.4.0.SJSMIXM_6ab7e1875e_12.0.zip
@@ -3519,15 +3529,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2022-07-25'
+  date: '2022-09-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-25.07.2022/fw_rubens_miui_RUBENS_V13.0.22.0.SLNCNXM_85663082c3_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rubens/fw_rubens_miui_RUBENS_V13.0.22.0.SLNCNXM_85663082c3_12.0.zip
-  filename: fw_rubens_miui_RUBENS_V13.0.22.0.SLNCNXM_85663082c3_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-13.09.2022/fw_rubens_miui_RUBENS_V13.0.23.0.SLNCNXM_487cdb90aa_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rubens/fw_rubens_miui_RUBENS_V13.0.23.0.SLNCNXM_487cdb90aa_12.0.zip
+  filename: fw_rubens_miui_RUBENS_V13.0.23.0.SLNCNXM_487cdb90aa_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.22.0.SLNCNXM
+    miui: V13.0.23.0.SLNCNXM
 - branch: stable
   date: '2020-03-23'
   downloads:

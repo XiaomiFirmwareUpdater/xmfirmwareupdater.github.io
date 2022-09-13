@@ -1284,6 +1284,12 @@
   version: V13.0.12.0.RGFMIXM
 - android: '11.0'
   codename: frost
+  date: '2022-09-13'
+  download: https://bigota.d.miui.com/V13.0.6.0.RGFEUXM/fw_frost_miui_FROSTEEAGlobal_V13.0.6.0.RGFEUXM_736bf1d8f9_11.0.zip
+  name: POCO C40
+  version: V13.0.6.0.RGFEUXM
+- android: '11.0'
+  codename: frost
   date: '2022-08-04'
   download: https://bigota.d.miui.com/V13.0.9.0.RGFMIXM/fw_frost_miui_FROSTGlobal_V13.0.9.0.RGFMIXM_1f282242db_11.0.zip
   name: POCO C40
@@ -2746,6 +2752,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.1.0.SLNCNXM_b7796d25dd_12.0.zip
   name: Redmi K50
   version: V13.0.1.0.SLNCNXM
+- android: '12.0'
+  codename: rubens
+  date: '2022-09-13'
+  download: https://bigota.d.miui.com/V13.0.23.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.23.0.SLNCNXM_487cdb90aa_12.0.zip
+  name: Redmi K50
+  version: V13.0.23.0.SLNCNXM
 - android: '12.0'
   codename: rubens
   date: '2022-05-08'
