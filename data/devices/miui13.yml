@@ -828,6 +828,12 @@
   version: V13.0.7.0.SKQMIXM
 - android: '12.0'
   codename: courbet
+  date: '2022-09-13'
+  download: https://bigota.d.miui.com/V13.0.9.0.SKQMIXM/fw_courbet_miui_COURBETGlobal_V13.0.9.0.SKQMIXM_54d0096666_12.0.zip
+  name: Mi 11 Lite 4G
+  version: V13.0.9.0.SKQMIXM
+- android: '12.0'
+  codename: courbet
   date: '2022-08-08'
   download: https://bigota.d.miui.com/V13.0.5.0.SKQINXM/fw_courbet_miui_COURBETINGlobal_V13.0.5.0.SKQINXM_190449e833_12.0.zip
   name: Mi 11 Lite 4G
@@ -1162,6 +1168,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.RKEMIXM/fw_fleur_miui_FLEURGlobal_V13.0.4.0.RKEMIXM_2b40dd0025_11.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.4.0.RKEMIXM
+- android: '12.0'
+  codename: fleur
+  date: '2022-09-13'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.2.0.SKEINXM
 - android: '11.0'
   codename: fleur
   date: '2022-08-10'
@@ -1624,6 +1636,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SLSMIXM/fw_light_miui_LIGHTGlobal_V13.0.2.0.SLSMIXM_d276914f4f_12.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V13.0.2.0.SLSMIXM
+- android: '12.0'
+  codename: light
+  date: '2022-09-13'
+  download: https://bigota.d.miui.com/V13.0.6.0.SLSEUXM/fw_light_miui_LIGHTEEAGlobal_V13.0.6.0.SLSEUXM_6c6cdc6ecf_12.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V13.0.6.0.SLSEUXM
 - android: '12.0'
   codename: light
   date: '2022-05-11'
@@ -2880,6 +2898,12 @@
   version: V13.0.1.0.SGKEUXM
 - android: '11.0'
   codename: spesn
+  date: '2022-09-13'
+  download: https://bigota.d.miui.com/V13.0.12.0.RGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.12.0.RGKEUXM_c7bdec5269_11.0.zip
+  name: Redmi Note 11 NFC
+  version: V13.0.12.0.RGKEUXM
+- android: '11.0'
+  codename: spesn
   date: '2022-03-08'
   download: https://bigota.d.miui.com/V13.0.7.0.RGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.7.0.RGKEUXM_c2553cf9ed_11.0.zip
   name: Redmi Note 11 NFC
@@ -3202,6 +3226,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.RFDMIXM/fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: V13.0.1.0.RFDMIXM
+- android: '11.0'
+  codename: tucana
+  date: '2022-09-13'
+  download: https://bigota.d.miui.com/V13.0.2.0.RFDEUXM/fw_tucana_miui_TUCANAEEAGlobal_V13.0.2.0.RFDEUXM_4c2cbbe0bf_11.0.zip
+  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
+  version: V13.0.2.0.RFDEUXM
 - android: '11.0'
   codename: tucana
   date: '2022-04-03'

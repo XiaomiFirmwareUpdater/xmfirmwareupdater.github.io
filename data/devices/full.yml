@@ -14609,6 +14609,16 @@
     android: '11.0'
     miui: V12.0.8.0.RKQMIXM
 - branch: stable
+  date: '2022-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-13.09.2022/fw_courbet_miui_COURBETGlobal_V13.0.9.0.SKQMIXM_54d0096666_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETGlobal_V13.0.9.0.SKQMIXM_54d0096666_12.0.zip
+  filename: fw_courbet_miui_COURBETGlobal_V13.0.9.0.SKQMIXM_54d0096666_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.9.0.SKQMIXM
+- branch: stable
   date: '2021-08-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-10.08.2021/fw_courbet_miui_COURBETGlobal_V12.5.4.0.RKQMIXM_d2bca4def4_11.0.zip
@@ -20098,6 +20108,16 @@
   versions:
     android: '11.0'
     miui: V13.0.4.0.RKEMIXM
+- branch: stable
+  date: '2022-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-13.09.2022/fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
+  filename: fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SKEINXM
 - branch: stable
   date: '2022-08-10'
   downloads:
@@ -27778,6 +27798,16 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SLSMIXM
+- branch: stable
+  date: '2022-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-13.09.2022/fw_light_miui_LIGHTEEAGlobal_V13.0.6.0.SLSEUXM_6c6cdc6ecf_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHTEEAGlobal_V13.0.6.0.SLSEUXM_6c6cdc6ecf_12.0.zip
+  filename: fw_light_miui_LIGHTEEAGlobal_V13.0.6.0.SLSEUXM_6c6cdc6ecf_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SLSEUXM
 - branch: stable
   date: '2022-05-11'
   downloads:
@@ -46579,6 +46609,16 @@
     android: '12.0'
     miui: V13.0.1.0.SGKEUXM
 - branch: stable
+  date: '2022-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-13.09.2022/fw_spesn_miui_SPESNEEAGlobal_V13.0.12.0.RGKEUXM_c7bdec5269_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spesn/fw_spesn_miui_SPESNEEAGlobal_V13.0.12.0.RGKEUXM_c7bdec5269_11.0.zip
+  filename: fw_spesn_miui_SPESNEEAGlobal_V13.0.12.0.RGKEUXM_c7bdec5269_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.12.0.RGKEUXM
+- branch: stable
   date: '2022-03-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-08.03.2022/fw_spesn_miui_SPESNEEAGlobal_V13.0.7.0.RGKEUXM_c2553cf9ed_11.0.zip
@@ -49778,6 +49818,16 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RFDEUXM
+- branch: stable
+  date: '2022-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-13.09.2022/fw_tucana_miui_TUCANAEEAGlobal_V13.0.2.0.RFDEUXM_4c2cbbe0bf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANAEEAGlobal_V13.0.2.0.RFDEUXM_4c2cbbe0bf_11.0.zip
+  filename: fw_tucana_miui_TUCANAEEAGlobal_V13.0.2.0.RFDEUXM_4c2cbbe0bf_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.2.0.RFDEUXM
 - branch: stable
   date: '2020-11-12'
   downloads:

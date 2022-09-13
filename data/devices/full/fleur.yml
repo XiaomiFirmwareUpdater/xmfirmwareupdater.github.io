@@ -89,6 +89,16 @@
     android: '11.0'
     miui: V13.0.4.0.RKEMIXM
 - branch: stable
+  date: '2022-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-13.09.2022/fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
+  filename: fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SKEINXM
+- branch: stable
   date: '2022-08-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-11.08.2022/fw_fleur_miui_FLEUREEAGlobal_V13.0.9.0.RKEEUXM_9f43753107_11.0.zip
