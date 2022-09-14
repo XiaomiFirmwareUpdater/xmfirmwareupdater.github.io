@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 14 Sep 2022 19:26:51 +0900</pubDate>
+  <pubDate>Thu, 15 Sep 2022 01:53:13 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V13.0.39.0.SLBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Thu, 15 Sep 2022 01:53:13 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.0.25.0.QCDINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -100,11 +105,6 @@
     <title>POCO M5/Redmi 11 Prime 4G (rock) - V13.0.4.0.SLUINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rock</link>
     <pubDate>Sat, 10 Sep 2022 01:44:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.3.0.SLOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
-    <pubDate>Fri, 09 Sep 2022 21:05:44 +0900</pubDate>
   </item>
     </channel>
 </rss>
