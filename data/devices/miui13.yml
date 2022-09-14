@@ -2802,6 +2802,12 @@
   version: V13.0.4.0.SKUMIXM
 - android: '12.0'
   codename: selene
+  date: '2022-09-14'
+  download: https://bigota.d.miui.com/V13.0.8.0.SKUMIXM/fw_selene_miui_SELENEGlobal_V13.0.8.0.SKUMIXM_de90299a71_12.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V13.0.8.0.SKUMIXM
+- android: '12.0'
+  codename: selene
   date: '2022-07-12'
   download: https://bigota.d.miui.com/V13.0.1.0.SKUEUXM/fw_selene_miui_SELENEEEAGlobal_V13.0.1.0.SKUEUXM_7977f02d10_12.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
