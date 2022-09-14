@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 14 Sep 2022 02:27:13 +0900</pubDate>
+  <pubDate>Wed, 14 Sep 2022 15:26:13 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V13.0.8.0.SKIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Wed, 14 Sep 2022 15:26:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V13.1.2.0.SKXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Wed, 14 Sep 2022 14:56:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V13.1.6.0.SLZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
+    <pubDate>Wed, 14 Sep 2022 14:29:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.39.0.SLCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Wed, 14 Sep 2022 13:56:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C NFC (angelican) - V12.0.14.0.QCSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Wed, 14 Sep 2022 13:22:47 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50 (rubens) - V13.0.23.0.SLNCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
@@ -80,31 +105,6 @@
     <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.6.0.SLOEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
     <pubDate>Fri, 09 Sep 2022 19:53:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 (mojito) - V13.0.3.0.SKGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Fri, 09 Sep 2022 13:38:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.8.0.SKHEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Fri, 09 Sep 2022 07:45:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V13.0.5.0.SJKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Thu, 08 Sep 2022 19:23:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Ultra (thor) - V13.0.9.0.SLACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
-    <pubDate>Wed, 07 Sep 2022 20:06:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.18.0.RCDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Wed, 07 Sep 2022 13:31:46 +0900</pubDate>
   </item>
     </channel>
 </rss>

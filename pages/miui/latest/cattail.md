@@ -52,9 +52,8 @@ permalink: /miui/cattail/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9 / 9 Activ India</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RCTINXM</td><td>11.0</td><td>2.9 GB</td><td>2022-07-15</td><td><a href="/miui/cattail/stable/V12.5.6.0.RCTINXM/">Download</a></td></tr>
-<tr><td>Redmi 9 / 9 Activ India</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RCTINXM</td><td>11.0</td><td>2.0 GB</td><td>2022-08-08</td><td><a href="/miui/cattail/stable/V12.5.6.0.RCTINXM/">Download</a></td></tr>
-<tr><td>Redmi 9 / 9 Activ India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.18.0.QCTINXM</td><td>10.0</td><td>1.8 GB</td><td>2022-09-02</td><td><a href="/miui/cattail/stable beta/V12.0.18.0.QCTINXM/">Download</a></td></tr>
+                <tr><td>Redmi 9 / 9 Activ India</td><td>Stable</td><td>Fastboot</td><td>V12.0.18.0.QCTINXM</td><td>10.0</td><td>2.6 GB</td><td>2022-08-26</td><td><a href="/miui/cattail/stable/V12.0.18.0.QCTINXM/">Download</a></td></tr>
+<tr><td>Redmi 9 / 9 Activ India</td><td>Stable</td><td>Recovery</td><td>V12.0.18.0.QCTINXM</td><td>10.0</td><td>1.8 GB</td><td>2022-09-02</td><td><a href="/miui/cattail/stable/V12.0.18.0.QCTINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
