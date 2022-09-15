@@ -59,15 +59,15 @@
     android: '12.0'
     miui: V13.0.8.0.SKHEUXM
 - branch: stable
-  date: '2022-07-14'
+  date: '2022-09-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-15.07.2022/fw_alioth_miui_ALIOTHINGlobal_V13.0.7.0.SKHINXM_2feb5d3904_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHINGlobal_V13.0.7.0.SKHINXM_2feb5d3904_12.0.zip
-  filename: fw_alioth_miui_ALIOTHINGlobal_V13.0.7.0.SKHINXM_2feb5d3904_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-15.09.2022/fw_alioth_miui_ALIOTHINGlobal_V13.0.8.0.SKHINXM_6f4e3d0f50_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHINGlobal_V13.0.8.0.SKHINXM_6f4e3d0f50_12.0.zip
+  filename: fw_alioth_miui_ALIOTHINGlobal_V13.0.8.0.SKHINXM_6f4e3d0f50_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SKHINXM
+    miui: V13.0.8.0.SKHINXM
 - branch: stable
   date: '2021-03-29'
   downloads:
@@ -1489,15 +1489,15 @@
     android: '11.0'
     miui: V12.5.7.0.RCOEUXM
 - branch: stable
-  date: '2022-01-17'
+  date: '2022-09-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-17.01.2022/fw_ginkgo_miui_GINKGOINGlobal_V12.5.1.0.RCOINXM_574a275eaa_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V12.5.1.0.RCOINXM_574a275eaa_11.0.zip
-  filename: fw_ginkgo_miui_GINKGOINGlobal_V12.5.1.0.RCOINXM_574a275eaa_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-15.09.2022/fw_ginkgo_miui_GINKGOINGlobal_V12.5.2.0.RCOINXM_b8c1a9e6d5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V12.5.2.0.RCOINXM_b8c1a9e6d5_11.0.zip
+  filename: fw_ginkgo_miui_GINKGOINGlobal_V12.5.2.0.RCOINXM_b8c1a9e6d5_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.1.0.RCOINXM
+    miui: V12.5.2.0.RCOINXM
 - branch: stable
   date: '2022-05-13'
   downloads:
@@ -1549,15 +1549,15 @@
     android: '11.0'
     miui: V12.5.1.0.RFBEUXM
 - branch: stable
-  date: '2022-05-31'
+  date: '2022-09-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-31.05.2022/fw_haydn_miui_HAYDNGlobal_V13.0.2.0.SKKMIXM_93ba45fe41_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNGlobal_V13.0.2.0.SKKMIXM_93ba45fe41_12.0.zip
-  filename: fw_haydn_miui_HAYDNGlobal_V13.0.2.0.SKKMIXM_93ba45fe41_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-15.09.2022/fw_haydn_miui_HAYDNGlobal_V13.0.3.0.SKKMIXM_5733263929_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNGlobal_V13.0.3.0.SKKMIXM_5733263929_12.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_V13.0.3.0.SKKMIXM_5733263929_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SKKMIXM
+    miui: V13.0.3.0.SKKMIXM
 - branch: stable
   date: '2022-08-01'
   downloads:
@@ -1579,15 +1579,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-05-31'
+  date: '2022-09-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-31.05.2022/fw_haydn_miui_HAYDNEEAGlobal_V13.0.6.0.SKKEUXM_79741c8289_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNEEAGlobal_V13.0.6.0.SKKEUXM_79741c8289_12.0.zip
-  filename: fw_haydn_miui_HAYDNEEAGlobal_V13.0.6.0.SKKEUXM_79741c8289_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-15.09.2022/fw_haydn_miui_HAYDNEEAGlobal_V13.0.8.0.SKKEUXM_e40e8b4b56_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNEEAGlobal_V13.0.8.0.SKKEUXM_e40e8b4b56_12.0.zip
+  filename: fw_haydn_miui_HAYDNEEAGlobal_V13.0.8.0.SKKEUXM_e40e8b4b56_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SKKEUXM
+    miui: V13.0.8.0.SKKEUXM
 - branch: stable
   date: '2022-05-31'
   downloads:

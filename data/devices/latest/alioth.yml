@@ -39,12 +39,12 @@
     android: '12.0'
     miui: V13.0.8.0.SKHEUXM
 - branch: stable
-  date: '2022-07-14'
+  date: '2022-09-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-15.07.2022/fw_alioth_miui_ALIOTHINGlobal_V13.0.7.0.SKHINXM_2feb5d3904_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHINGlobal_V13.0.7.0.SKHINXM_2feb5d3904_12.0.zip
-  filename: fw_alioth_miui_ALIOTHINGlobal_V13.0.7.0.SKHINXM_2feb5d3904_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-15.09.2022/fw_alioth_miui_ALIOTHINGlobal_V13.0.8.0.SKHINXM_6f4e3d0f50_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHINGlobal_V13.0.8.0.SKHINXM_6f4e3d0f50_12.0.zip
+  filename: fw_alioth_miui_ALIOTHINGlobal_V13.0.8.0.SKHINXM_6f4e3d0f50_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SKHINXM
+    miui: V13.0.8.0.SKHINXM
