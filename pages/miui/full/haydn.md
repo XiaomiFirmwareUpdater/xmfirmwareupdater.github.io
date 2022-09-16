@@ -52,7 +52,8 @@ permalink: /archive/miui/haydn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>3.6 GB</td><td>2022-09-09</td><td><a href="/miui/haydn/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.12.DEV</td><td>12.0</td><td>3.6 GB</td><td>2022-09-16</td><td><a href="/miui/haydn/public beta/V13.1.22.9.12.DEV/">Download</a></td></tr>
+<tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>3.6 GB</td><td>2022-09-09</td><td><a href="/miui/haydn/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
 <tr><td>Mi 11i Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKKMIXM</td><td>12.0</td><td>3.5 GB</td><td>2022-09-06</td><td><a href="/miui/haydn/stable beta/V13.0.3.0.SKKMIXM/">Download</a></td></tr>
 <tr><td>Mi 11i EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.8.0.SKKEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-09-06</td><td><a href="/miui/haydn/stable beta/V13.0.8.0.SKKEUXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.29.DEV</td><td>12.0</td><td>3.6 GB</td><td>2022-09-02</td><td><a href="/miui/haydn/public beta/V13.1.22.8.29.DEV/">Download</a></td></tr>
