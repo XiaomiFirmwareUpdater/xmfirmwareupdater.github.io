@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 17 Sep 2022 02:07:49 +0900</pubDate>
+  <pubDate>Sat, 17 Sep 2022 13:34:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.8.0.RCZMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Sat, 17 Sep 2022 13:34:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V13.0.3.0.SJEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Sat, 17 Sep 2022 13:33:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V13.0.3.0.SJEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Sat, 17 Sep 2022 13:31:56 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V13.0.9.0.SJDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Sat, 17 Sep 2022 13:30:02 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M5/Redmi 11 Prime 4G (rock) - V13.0.2.0.SLUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rock</link>
@@ -85,26 +105,6 @@
     <title>Xiaomi 12 (cupid) - V13.0.39.0.SLCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
     <pubDate>Wed, 14 Sep 2022 13:56:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C NFC (angelican) - V12.0.14.0.QCSMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
-    <pubDate>Wed, 14 Sep 2022 13:22:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 (rubens) - V13.0.23.0.SLNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
-    <pubDate>Wed, 14 Sep 2022 02:27:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO C40 (frost) - V13.0.6.0.RGFEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/frost</link>
-    <pubDate>Wed, 14 Sep 2022 01:45:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V13.0.2.0.RFDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Tue, 13 Sep 2022 20:47:43 +0900</pubDate>
   </item>
     </channel>
 </rss>

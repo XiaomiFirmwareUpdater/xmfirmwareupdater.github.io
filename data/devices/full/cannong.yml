@@ -39,6 +39,26 @@
     android: '10.0'
     miui: V12.0.8.0.QJEMIXM
 - branch: stable
+  date: '2022-09-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-17.09.2022/fw_cannong_miui_CANNONGEEAGlobal_V13.0.3.0.SJEEUXM_e5aa1189ff_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGEEAGlobal_V13.0.3.0.SJEEUXM_e5aa1189ff_12.0.zip
+  filename: fw_cannong_miui_CANNONGEEAGlobal_V13.0.3.0.SJEEUXM_e5aa1189ff_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SJEEUXM
+- branch: stable
+  date: '2022-09-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-17.09.2022/fw_cannong_miui_CANNONGGlobal_V13.0.3.0.SJEMIXM_3e0f210a9e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGGlobal_V13.0.3.0.SJEMIXM_3e0f210a9e_12.0.zip
+  filename: fw_cannong_miui_CANNONGGlobal_V13.0.3.0.SJEMIXM_3e0f210a9e_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SJEMIXM
+- branch: stable
   date: '2022-01-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-17.01.2022/fw_cannong_miui_CANNONGEEAGlobal_V12.5.7.0.RJEEUXM_5d6ce9a3e8_11.0.zip

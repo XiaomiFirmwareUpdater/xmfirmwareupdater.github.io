@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2022-07-25'
+  date: '2022-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-25.07.2022/fw_cannong_miui_CANNONGGlobal_V13.0.2.0.SJEMIXM_fc32b78fc5_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGGlobal_V13.0.2.0.SJEMIXM_fc32b78fc5_12.0.zip
-  filename: fw_cannong_miui_CANNONGGlobal_V13.0.2.0.SJEMIXM_fc32b78fc5_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-17.09.2022/fw_cannong_miui_CANNONGGlobal_V13.0.3.0.SJEMIXM_3e0f210a9e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGGlobal_V13.0.3.0.SJEMIXM_3e0f210a9e_12.0.zip
+  filename: fw_cannong_miui_CANNONGGlobal_V13.0.3.0.SJEMIXM_3e0f210a9e_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJEMIXM
+    miui: V13.0.3.0.SJEMIXM
 - branch: stable
-  date: '2022-08-01'
+  date: '2022-09-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-01.08.2022/fw_cannong_miui_CANNONGEEAGlobal_V13.0.2.0.SJEEUXM_237d7d0061_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGEEAGlobal_V13.0.2.0.SJEEUXM_237d7d0061_12.0.zip
-  filename: fw_cannong_miui_CANNONGEEAGlobal_V13.0.2.0.SJEEUXM_237d7d0061_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-17.09.2022/fw_cannong_miui_CANNONGEEAGlobal_V13.0.3.0.SJEEUXM_e5aa1189ff_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGEEAGlobal_V13.0.3.0.SJEEUXM_e5aa1189ff_12.0.zip
+  filename: fw_cannong_miui_CANNONGEEAGlobal_V13.0.3.0.SJEEUXM_e5aa1189ff_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJEEUXM
+    miui: V13.0.3.0.SJEEUXM
