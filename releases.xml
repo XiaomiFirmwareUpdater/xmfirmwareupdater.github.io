@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 17 Sep 2022 13:34:17 +0900</pubDate>
+  <pubDate>Mon, 19 Sep 2022 15:55:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.10.0.SJSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Mon, 19 Sep 2022 15:55:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.6.0.SKEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
+    <pubDate>Mon, 19 Sep 2022 15:54:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Pro (cmi) - V13.0.4.0.SJAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
+    <pubDate>Mon, 19 Sep 2022 15:28:51 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.8.0.RCZMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -90,21 +105,6 @@
     <title>Mi 11 Lite 5G (renoir) - V13.0.8.0.SKIMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
     <pubDate>Wed, 14 Sep 2022 15:26:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 (nabu) - V13.1.2.0.SKXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Wed, 14 Sep 2022 14:56:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V13.1.6.0.SLZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
-    <pubDate>Wed, 14 Sep 2022 14:29:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V13.0.39.0.SLCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Wed, 14 Sep 2022 13:56:36 +0900</pubDate>
   </item>
     </channel>
 </rss>
