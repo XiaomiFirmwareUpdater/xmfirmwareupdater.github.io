@@ -840,6 +840,12 @@
   version: V13.0.5.0.SKQEUXM
 - android: '12.0'
   codename: courbet
+  date: '2022-09-19'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKQEUXM/fw_courbet_miui_COURBETEEAGlobal_V13.0.6.0.SKQEUXM_f604f6d98b_12.0.zip
+  name: Mi 11 Lite 4G
+  version: V13.0.6.0.SKQEUXM
+- android: '12.0'
+  codename: courbet
   date: '2022-06-19'
   download: https://bigota.d.miui.com/V13.0.8.0.SKQMIXM/fw_courbet_miui_COURBETGlobal_V13.0.8.0.SKQMIXM_1dc23745d5_12.0.zip
   name: Mi 11 Lite 4G
@@ -1714,6 +1720,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.SLSCNXM/fw_light_miui_LIGHT_V13.0.6.0.SLSCNXM_c5763af428_12.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V13.0.6.0.SLSCNXM
+- android: '12.0'
+  codename: light
+  date: '2022-09-19'
+  download: https://bigota.d.miui.com/V13.0.10.0.SLSCNXM/fw_light_miui_LIGHT_V13.0.10.0.SLSCNXM_e8e571f276_12.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V13.0.10.0.SLSCNXM
 - android: '12.0'
   codename: light
   date: '2022-06-19'
