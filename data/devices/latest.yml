@@ -409,15 +409,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2022-06-19'
+  date: '2022-09-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-19.06.2022/fw_camellia_miui_CAMELLIA_V12.5.9.0.RKSCNXM_c87600cd67_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/camellia/fw_camellia_miui_CAMELLIA_V12.5.9.0.RKSCNXM_c87600cd67_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_V12.5.9.0.RKSCNXM_c87600cd67_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-20.09.2022/fw_camellia_miui_CAMELLIA_V13.0.5.0.SKSCNXM_6c412c868a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellia/fw_camellia_miui_CAMELLIA_V13.0.5.0.SKSCNXM_6c412c868a_12.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V13.0.5.0.SKSCNXM_6c412c868a_12.0.zip
   region: China
   versions:
-    android: '11.0'
-    miui: V12.5.9.0.RKSCNXM
+    android: '12.0'
+    miui: V13.0.5.0.SKSCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

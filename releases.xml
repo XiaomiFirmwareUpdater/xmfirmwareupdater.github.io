@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 20 Sep 2022 01:52:09 +0900</pubDate>
+  <pubDate>Wed, 21 Sep 2022 01:54:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G (camellia) - V13.0.5.0.SKSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellia</link>
+    <pubDate>Wed, 21 Sep 2022 01:54:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V13.0.10.0.SLSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/light</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.13.0.SLOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
     <pubDate>Thu, 15 Sep 2022 14:06:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.8.0.SKUMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Thu, 15 Sep 2022 07:44:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
