@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-04-24'
+  date: '2022-09-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-24.04.2022/fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
-  filename: fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-21.09.2022/fw_tucana_miui_TUCANAGlobal_V13.0.2.0.RFDMIXM_30046080e8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANAGlobal_V13.0.2.0.RFDMIXM_30046080e8_11.0.zip
+  filename: fw_tucana_miui_TUCANAGlobal_V13.0.2.0.RFDMIXM_30046080e8_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V13.0.1.0.RFDMIXM
+    miui: V13.0.2.0.RFDMIXM
 - branch: stable
   date: '2022-09-03'
   downloads:

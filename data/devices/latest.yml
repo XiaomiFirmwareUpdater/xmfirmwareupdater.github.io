@@ -4009,15 +4009,15 @@
     android: '12.0'
     miui: V13.0.3.0.SFNEUXM
 - branch: stable
-  date: '2022-04-24'
+  date: '2022-09-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-24.04.2022/fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
-  filename: fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-21.09.2022/fw_tucana_miui_TUCANAGlobal_V13.0.2.0.RFDMIXM_30046080e8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANAGlobal_V13.0.2.0.RFDMIXM_30046080e8_11.0.zip
+  filename: fw_tucana_miui_TUCANAGlobal_V13.0.2.0.RFDMIXM_30046080e8_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V13.0.1.0.RFDMIXM
+    miui: V13.0.2.0.RFDMIXM
 - branch: stable
   date: '2022-09-03'
   downloads:
@@ -4229,15 +4229,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2022-06-28'
+  date: '2022-03-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-28.06.2022/fw_vangogh_miui_VANGOGH_V13.0.4.0.SJVCNXM_633d4b3f95_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vangogh/fw_vangogh_miui_VANGOGH_V13.0.4.0.SJVCNXM_633d4b3f95_12.0.zip
-  filename: fw_vangogh_miui_VANGOGH_V13.0.4.0.SJVCNXM_633d4b3f95_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-26.03.2022/fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vangogh/fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
+  filename: fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SJVCNXM
+    miui: V13.0.2.0.SJVCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
