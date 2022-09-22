@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 21 Sep 2022 19:25:10 +0900</pubDate>
+  <pubDate>Thu, 22 Sep 2022 21:35:58 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V13.0.20.0.SLBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Thu, 22 Sep 2022 21:35:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12S Ultra (thor) - V13.0.10.0.SLACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
+    <pubDate>Thu, 22 Sep 2022 21:03:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 (spes) - V13.0.1.0.SGCINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
+    <pubDate>Thu, 22 Sep 2022 20:28:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.20.0.SLCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Thu, 22 Sep 2022 20:09:52 +0900</pubDate>
+  </item>
     <item>
     <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V13.0.2.0.RFDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
@@ -85,26 +105,6 @@
     <title>Redmi Note 8 Pro (begonia) - V12.5.14.0.RGGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
     <pubDate>Fri, 16 Sep 2022 19:22:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V13.0.3.0.SKKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Thu, 15 Sep 2022 20:52:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V13.0.8.0.SKKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Thu, 15 Sep 2022 20:23:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 8 (ginkgo) - V12.5.2.0.RCOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ginkgo</link>
-    <pubDate>Thu, 15 Sep 2022 19:53:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.8.0.SKHINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Thu, 15 Sep 2022 19:51:36 +0900</pubDate>
   </item>
     </channel>
 </rss>

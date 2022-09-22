@@ -66,6 +66,8 @@ permalink: /archive/miui/spes/
 <tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SGKRUXM</td><td>12.0</td><td>5.1 GB</td><td>2022-08-09</td><td><a href="/miui/spesn/stable/V13.0.1.0.SGKRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SGKEUXM</td><td>12.0</td><td>3.0 GB</td><td>2022-08-05</td><td><a href="/miui/spesn/stable/V13.0.1.0.SGKEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SGKEUXM</td><td>12.0</td><td>5.7 GB</td><td>2022-07-29</td><td><a href="/miui/spesn/stable/V13.0.1.0.SGKEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 India</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SGCINXM</td><td>12.0</td><td>2.9 GB</td><td>2022-08-02</td><td><a href="/miui/spes/stable/V13.0.1.0.SGCINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SGCINXM</td><td>12.0</td><td>4.2 GB</td><td>2022-07-25</td><td><a href="/miui/spes/stable/V13.0.1.0.SGCINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 India</td><td>Stable</td><td>Recovery</td><td>V13.0.11.0.RGCINXM</td><td>11.0</td><td>2.8 GB</td><td>2022-07-15</td><td><a href="/miui/spes/stable/V13.0.11.0.RGCINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.11.0.RGCINXM</td><td>11.0</td><td>4.0 GB</td><td>2022-06-19</td><td><a href="/miui/spes/stable/V13.0.11.0.RGCINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SGCMIXM</td><td>12.0</td><td>2.9 GB</td><td>2022-07-15</td><td><a href="/miui/spes/stable/V13.0.4.0.SGCMIXM/">Download</a></td></tr>

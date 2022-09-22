@@ -942,6 +942,12 @@
   version: V13.0.7.0.SLCMIXM
 - android: '12.0'
   codename: cupid
+  date: '2022-09-22'
+  download: https://bigota.d.miui.com/V13.0.20.0.SLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V13.0.20.0.SLCEUXM_72c51dff0b_12.0.zip
+  name: Xiaomi 12
+  version: V13.0.20.0.SLCEUXM
+- android: '12.0'
+  codename: cupid
   date: '2022-01-19'
   download: https://bigota.d.miui.com/V13.0.21.0.SLCCNXM/fw_cupid_miui_CUPID_V13.0.21.0.SLCCNXM_f1aba865ff_12.0.zip
   name: Xiaomi 12
@@ -2950,6 +2956,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SGCMIXM/fw_spes_miui_SPESGlobal_V13.0.4.0.SGCMIXM_bc890fc589_12.0.zip
   name: Redmi Note 11
   version: V13.0.4.0.SGCMIXM
+- android: '12.0'
+  codename: spes
+  date: '2022-09-22'
+  download: https://bigota.d.miui.com/V13.0.1.0.SGCINXM/fw_spes_miui_SPESINGlobal_V13.0.1.0.SGCINXM_998fb440f2_12.0.zip
+  name: Redmi Note 11
+  version: V13.0.1.0.SGCINXM
 - android: '11.0'
   codename: spes
   date: '2022-05-20'
@@ -3244,6 +3256,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.SLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.5.0.SLIEUXM_d7bf18e9aa_12.0.zip
   name: Xiaomi 12 Lite
   version: V13.0.5.0.SLIEUXM
+- android: '12.0'
+  codename: thor
+  date: '2022-09-22'
+  download: https://bigota.d.miui.com/V13.0.10.0.SLACNXM/fw_thor_miui_THOR_V13.0.10.0.SLACNXM_e0603f6314_12.0.zip
+  name: Xiaomi 12S Ultra
+  version: V13.0.10.0.SLACNXM
 - android: '12.0'
   codename: thor
   date: '2022-07-20'
@@ -4060,6 +4078,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.SLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.0.6.0.SLBMIXM_35481701b3_12.0.zip
   name: Xiaomi 12 Pro
   version: V13.0.6.0.SLBMIXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-09-22'
+  download: https://bigota.d.miui.com/V13.0.20.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.20.0.SLBEUXM_ff585d22b5_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.20.0.SLBEUXM
 - android: '12.0'
   codename: zeus
   date: '2022-06-19'
