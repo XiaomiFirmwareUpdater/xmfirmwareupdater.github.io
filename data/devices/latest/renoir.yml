@@ -29,12 +29,12 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-07-12'
+  date: '2022-09-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-12.07.2022/fw_renoir_miui_RENOIREEAGlobal_V13.0.6.0.SKIEUXM_6e0f470c75_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/renoir/fw_renoir_miui_RENOIREEAGlobal_V13.0.6.0.SKIEUXM_6e0f470c75_12.0.zip
-  filename: fw_renoir_miui_RENOIREEAGlobal_V13.0.6.0.SKIEUXM_6e0f470c75_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-22.09.2022/fw_renoir_miui_RENOIREEAGlobal_V13.0.7.0.SKIEUXM_7dda0df5f7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/renoir/fw_renoir_miui_RENOIREEAGlobal_V13.0.7.0.SKIEUXM_7dda0df5f7_12.0.zip
+  filename: fw_renoir_miui_RENOIREEAGlobal_V13.0.7.0.SKIEUXM_7dda0df5f7_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SKIEUXM
+    miui: V13.0.7.0.SKIEUXM

@@ -2260,6 +2260,18 @@
   download: https://bigota.d.miui.com/V13.0.6.0.RKXINXM/fw_nabu_miui_NABUINGlobal_V13.0.6.0.RKXINXM_92d2d1f591_11.0.zip
   name: Xiaomi Pad 5
   version: V13.0.6.0.RKXINXM
+- android: '12.0'
+  codename: nabu
+  date: '2022-09-22'
+  download: https://bigota.d.miui.com/V13.1.1.0.SKXMIXM/fw_nabu_miui_NABUGlobal_V13.1.1.0.SKXMIXM_b2068fecef_12.0.zip
+  name: Xiaomi Pad 5
+  version: V13.1.1.0.SKXMIXM
+- android: '12.0'
+  codename: nabu
+  date: '2022-09-22'
+  download: https://bigota.d.miui.com/V13.1.1.0.SKXINXM/fw_nabu_miui_NABUINGlobal_V13.1.1.0.SKXINXM_3cc44a8315_12.0.zip
+  name: Xiaomi Pad 5
+  version: V13.1.1.0.SKXINXM
 - android: '11.0'
   codename: nabu
   date: '2022-04-20'
@@ -2722,6 +2734,12 @@
   download: https://bigota.d.miui.com/V13.0.12.0.SKICNXM/fw_renoir_miui_RENOIR_V13.0.12.0.SKICNXM_ab867de060_12.0.zip
   name: Mi 11 Lite 5G
   version: V13.0.12.0.SKICNXM
+- android: '12.0'
+  codename: renoir
+  date: '2022-09-22'
+  download: https://bigota.d.miui.com/V13.0.7.0.SKIEUXM/fw_renoir_miui_RENOIREEAGlobal_V13.0.7.0.SKIEUXM_7dda0df5f7_12.0.zip
+  name: Mi 11 Lite 5G
+  version: V13.0.7.0.SKIEUXM
 - android: '12.0'
   codename: renoir
   date: '2022-04-20'
