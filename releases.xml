@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 23 Sep 2022 02:55:52 +0900</pubDate>
+  <pubDate>Fri, 23 Sep 2022 13:49:08 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO M4 Pro 5G (evergreen) - V13.0.3.0.SGBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/evergreen</link>
+    <pubDate>Fri, 23 Sep 2022 13:49:08 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 Lite 5G (renoir) - V13.0.7.0.SKIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9T (cannong) - V13.0.3.0.SJEEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
     <pubDate>Sat, 17 Sep 2022 13:31:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V13.0.9.0.SJDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Sat, 17 Sep 2022 13:30:09 +0900</pubDate>
   </item>
     </channel>
 </rss>
