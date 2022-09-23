@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 23 Sep 2022 13:49:08 +0900</pubDate>
+  <pubDate>Sat, 24 Sep 2022 01:54:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V13.0.10.0.SKOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Sat, 24 Sep 2022 01:54:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.6.0.RCDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Sat, 24 Sep 2022 01:29:04 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M4 Pro 5G (evergreen) - V13.0.3.0.SGBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/evergreen</link>
@@ -95,16 +105,6 @@
     <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.8.0.RCZMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
     <pubDate>Sat, 17 Sep 2022 13:34:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9T (cannong) - V13.0.3.0.SJEMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
-    <pubDate>Sat, 17 Sep 2022 13:33:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9T (cannong) - V13.0.3.0.SJEEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
-    <pubDate>Sat, 17 Sep 2022 13:31:56 +0900</pubDate>
   </item>
     </channel>
 </rss>

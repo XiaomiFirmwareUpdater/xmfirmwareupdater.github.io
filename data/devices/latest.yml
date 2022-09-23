@@ -1009,15 +1009,15 @@
     android: '11.0'
     miui: V12.5.11.0.RCZCNXM
 - branch: stable
-  date: '2022-08-15'
+  date: '2022-09-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-15.08.2022/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.20.0.QCDEUXM_b49c0c076a_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.20.0.QCDEUXM_b49c0c076a_10.0.zip
-  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.0.20.0.QCDEUXM_b49c0c076a_10.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-23.09.2022/fw_dandelion_miui_DANDELIONEEAGlobal_V12.5.6.0.RCDEUXM_630f3d36bc_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONEEAGlobal_V12.5.6.0.RCDEUXM_630f3d36bc_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONEEAGlobal_V12.5.6.0.RCDEUXM_630f3d36bc_11.0.zip
   region: Europe
   versions:
-    android: '10.0'
-    miui: V12.0.20.0.QCDEUXM
+    android: '11.0'
+    miui: V12.5.6.0.RCDEUXM
 - branch: stable
   date: '2022-09-14'
   downloads:
@@ -2179,15 +2179,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-07-08'
+  date: '2022-09-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-08.07.2022/fw_lisa_miui_LISAEEAGlobal_V13.0.9.0.SKOEUXM_5dff9759dd_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAEEAGlobal_V13.0.9.0.SKOEUXM_5dff9759dd_12.0.zip
-  filename: fw_lisa_miui_LISAEEAGlobal_V13.0.9.0.SKOEUXM_5dff9759dd_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-23.09.2022/fw_lisa_miui_LISAEEAGlobal_V13.0.10.0.SKOEUXM_193c86a2fc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAEEAGlobal_V13.0.10.0.SKOEUXM_193c86a2fc_12.0.zip
+  filename: fw_lisa_miui_LISAEEAGlobal_V13.0.10.0.SKOEUXM_193c86a2fc_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.9.0.SKOEUXM
+    miui: V13.0.10.0.SKOEUXM
 - branch: stable
   date: '2022-08-01'
   downloads:
