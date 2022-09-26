@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 27 Sep 2022 01:49:22 +0900</pubDate>
+  <pubDate>Tue, 27 Sep 2022 07:20:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.8.0.RCZINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Tue, 27 Sep 2022 07:20:33 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V12.5.19.0.RKLINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
@@ -92,7 +97,7 @@
     <pubDate>Wed, 21 Sep 2022 01:54:03 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V13.0.10.0.SLSCNXM</title>
+    <title>Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V13.0.10.0.SLSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/light</link>
     <pubDate>Tue, 20 Sep 2022 01:52:09 +0900</pubDate>
   </item>
@@ -100,11 +105,6 @@
     <title>Mi 11 Lite 4G (courbet) - V13.0.6.0.SKQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
     <pubDate>Tue, 20 Sep 2022 01:24:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V13.0.5.0.SJKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Mon, 19 Sep 2022 20:22:48 +0900</pubDate>
   </item>
     </channel>
 </rss>
