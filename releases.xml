@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 26 Sep 2022 20:34:59 +0900</pubDate>
+  <pubDate>Tue, 27 Sep 2022 01:49:22 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V12.5.19.0.RKLINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Tue, 27 Sep 2022 01:49:22 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V13.0.5.0.SJCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Tue, 27 Sep 2022 01:30:51 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi MIX Fold 2 (zizhan) - V13.1.21.0.SLRCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zizhan</link>
@@ -95,16 +105,6 @@
     <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V13.0.5.0.SJKEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
     <pubDate>Mon, 19 Sep 2022 20:22:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V13.0.7.0.SLFCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
-    <pubDate>Mon, 19 Sep 2022 20:20:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.10.0.SJSCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Mon, 19 Sep 2022 15:55:45 +0900</pubDate>
   </item>
     </channel>
 </rss>

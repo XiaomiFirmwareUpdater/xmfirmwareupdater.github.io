@@ -1709,6 +1709,12 @@
   name: Redmi Note 9 Pro
   version: V13.0.1.0.SJZEUXM
 - android: '12.0'
+  codename: lancelot
+  date: '2022-09-26'
+  download: https://bigota.d.miui.com/V13.0.5.0.SJCCNXM/fw_lancelot_miui_LANCELOT_V13.0.5.0.SJCCNXM_9a2b91926f_12.0.zip
+  name: Redmi 9/Redmi 9 Prime
+  version: V13.0.5.0.SJCCNXM
+- android: '12.0'
   codename: light
   date: '2022-07-28'
   download: https://bigota.d.miui.com/V13.0.6.0.SLSMIXM/fw_light_miui_LIGHTGlobal_V13.0.6.0.SLSMIXM_6936f9acaa_12.0.zip
