@@ -5089,6 +5089,16 @@
     android: '11.0'
     miui: V12.5.3.0.RGGCNXM
 - branch: stable
+  date: '2022-09-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-26.09.2022/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.15.0.RGGEUXM_cd5652a4c4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.15.0.RGGEUXM_cd5652a4c4_11.0.zip
+  filename: fw_begonia_miui_BEGONIAEEAGlobal_V12.5.15.0.RGGEUXM_cd5652a4c4_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.15.0.RGGEUXM
+- branch: stable
   date: '2021-07-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-26.07.2021/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.2.0.RGGEUXM_40245966cd_11.0.zip
@@ -35769,6 +35779,16 @@
     android: '11.0'
     miui: V13.0.5.0.RGLEUXM
 - branch: stable
+  date: '2022-09-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-26.09.2022/fw_opal_miui_OPALEEAGlobal_V13.0.2.0.SGLEUXM_da1658d888_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/opal/fw_opal_miui_OPALEEAGlobal_V13.0.2.0.SGLEUXM_da1658d888_12.0.zip
+  filename: fw_opal_miui_OPALEEAGlobal_V13.0.2.0.SGLEUXM_da1658d888_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SGLEUXM
+- branch: stable
   date: '2022-04-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_opal/releases/download/stable-26.04.2022/fw_opal_miui_OPALGlobal_V13.0.5.0.RGLMIXM_f773f0348d_11.0.zip
@@ -58678,6 +58698,16 @@
   versions:
     android: '12.0'
     miui: V13.1.16.0.SLRCNXM
+- branch: stable
+  date: '2022-09-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-26.09.2022/fw_zizhan_miui_ZIZHAN_V13.1.21.0.SLRCNXM_e65b3d2265_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zizhan/fw_zizhan_miui_ZIZHAN_V13.1.21.0.SLRCNXM_e65b3d2265_12.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_V13.1.21.0.SLRCNXM_e65b3d2265_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.1.21.0.SLRCNXM
 - branch: stable
   date: '2022-08-17'
   downloads:

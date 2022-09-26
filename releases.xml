@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 24 Sep 2022 01:54:33 +0900</pubDate>
+  <pubDate>Mon, 26 Sep 2022 20:34:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi MIX Fold 2 (zizhan) - V13.1.21.0.SLRCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zizhan</link>
+    <pubDate>Mon, 26 Sep 2022 20:34:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11S 5G (opal) - V13.0.2.0.SGLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/opal</link>
+    <pubDate>Mon, 26 Sep 2022 19:42:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 Pro (begonia) - V12.5.15.0.RGGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/begonia</link>
+    <pubDate>Mon, 26 Sep 2022 19:20:28 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V13.0.10.0.SKOEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.10.0.SJSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
     <pubDate>Mon, 19 Sep 2022 15:55:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.6.0.SKEMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
-    <pubDate>Mon, 19 Sep 2022 15:54:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V13.0.4.0.SJAEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Mon, 19 Sep 2022 15:28:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.8.0.RCZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Sat, 17 Sep 2022 13:34:17 +0900</pubDate>
   </item>
     </channel>
 </rss>
