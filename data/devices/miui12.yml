@@ -4260,12 +4260,6 @@
   version: 21.8.25
 - android: '11.0'
   codename: lime
-  date: '2021-05-27'
-  download: https://bigota.d.miui.com/21.5.27/miui_LIME_21.5.27_5d12b5d356_11.0.zip
-  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
-  version: 21.5.27
-- android: '11.0'
-  codename: lime
   date: '2021-04-18'
   download: https://bigota.d.miui.com/21.3.24/miui_LIME_21.3.24_844becf411_11.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
@@ -4300,12 +4294,6 @@
   download: https://bigota.d.miui.com/21.11.17/miui_LIME_21.11.17_bf098b00ff_11.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
   version: 21.11.17
-- android: '11.0'
-  codename: lime
-  date: '2021-08-19'
-  download: https://bigota.d.miui.com/21.8.18/miui_LIME_21.8.18_33d7c79692_11.0.zip
-  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
-  version: 21.8.18
 - android: '11.0'
   codename: lime
   date: '2021-04-18'
@@ -4384,12 +4372,6 @@
   download: https://bigota.d.miui.com/21.12.1/miui_LIME_21.12.1_71f2d67902_11.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
   version: 21.12.1
-- android: '11.0'
-  codename: lime
-  date: '2021-09-03'
-  download: https://bigota.d.miui.com/21.9.1/miui_LIME_21.9.1_cd192cd91d_11.0.zip
-  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
-  version: 21.9.1
 - android: '11.0'
   codename: lime
   date: '2021-07-02'

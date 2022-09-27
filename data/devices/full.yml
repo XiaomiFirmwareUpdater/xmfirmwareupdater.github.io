@@ -28159,16 +28159,6 @@
     android: '11.0'
     miui: 21.8.25
 - branch: weekly
-  date: '2021-05-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-27.05.2021/fw_lime_miui_LIME_21.5.27_5d12b5d356_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.27/lime/fw_lime_miui_LIME_21.5.27_5d12b5d356_11.0.zip
-  filename: fw_lime_miui_LIME_21.5.27_5d12b5d356_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.27
-- branch: weekly
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-27.03.2021/fw_lime_miui_LIME_21.3.24_844becf411_11.0.zip
@@ -28248,16 +28238,6 @@
   versions:
     android: '11.0'
     miui: 21.11.17
-- branch: weekly
-  date: '2021-08-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-19.08.2021/fw_lime_miui_LIME_21.8.18_33d7c79692_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/lime/fw_lime_miui_LIME_21.8.18_33d7c79692_11.0.zip
-  filename: fw_lime_miui_LIME_21.8.18_33d7c79692_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.18
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -28359,16 +28339,6 @@
     android: '11.0'
     miui: 21.4.7
 - branch: weekly
-  date: '2022-01-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-07.01.2022/fw_lime_miui_LIME_22.1.5_c1645b4618_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.5/lime/fw_lime_miui_LIME_22.1.5_c1645b4618_11.0.zip
-  filename: fw_lime_miui_LIME_22.1.5_c1645b4618_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 22.1.5
-- branch: weekly
   date: '2021-11-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-05.11.2021/fw_lime_miui_LIME_21.11.3_44160fffe7_11.0.zip
@@ -28418,16 +28388,6 @@
   versions:
     android: '11.0'
     miui: 22.3.2
-- branch: weekly
-  date: '2021-09-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/weekly-03.09.2021/fw_lime_miui_LIME_21.9.1_cd192cd91d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.1/lime/fw_lime_miui_LIME_21.9.1_cd192cd91d_11.0.zip
-  filename: fw_lime_miui_LIME_21.9.1_cd192cd91d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.1
 - branch: weekly
   date: '2021-07-02'
   downloads:
@@ -28599,26 +28559,6 @@
     android: '11.0'
     miui: V12.5.2.0.RJQEUXM
 - branch: stable
-  date: '2022-06-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-22.06.2022/fw_lime_miui_LIMEEEAGlobal_V12.5.8.0.RJQEUXM_53f5232f23_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.5.8.0.RJQEUXM_53f5232f23_11.0.zip
-  filename: fw_lime_miui_LIMEEEAGlobal_V12.5.8.0.RJQEUXM_53f5232f23_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.8.0.RJQEUXM
-- branch: stable
-  date: '2022-01-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-21.01.2022/fw_lime_miui_LIME_V12.5.6.0.RJQCNXM_a72849e03b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIME_V12.5.6.0.RJQCNXM_a72849e03b_11.0.zip
-  filename: fw_lime_miui_LIME_V12.5.6.0.RJQCNXM_a72849e03b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RJQCNXM
-- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-19.01.2021/fw_lime_miui_LIMEINGlobal_V12.0.5.0.QJQINXM_421b4534c7_10.0.zip
@@ -28718,16 +28658,6 @@
   versions:
     android: '10.0'
     miui: V12.0.11.0.QJQEUXM
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-13.03.2021/fw_lime_miui_LIMEEEAGlobal_V12.0.7.0.QJQEUXM_dc4785f1b1_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEEEAGlobal_V12.0.7.0.QJQEUXM_dc4785f1b1_10.0.zip
-  filename: fw_lime_miui_LIMEEEAGlobal_V12.0.7.0.QJQEUXM_dc4785f1b1_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V12.0.7.0.QJQEUXM
 - branch: stable
   date: '2021-08-11'
   downloads:
@@ -28878,16 +28808,6 @@
   versions:
     android: '11.0'
     miui: V12.5.3.0.RJQMIXM
-- branch: stable
-  date: '2021-08-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-02.08.2021/fw_lime_miui_LIMEGlobal_V12.0.1.0.RJQMIXM_a8eb7ba048_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lime/fw_lime_miui_LIMEGlobal_V12.0.1.0.RJQMIXM_a8eb7ba048_11.0.zip
-  filename: fw_lime_miui_LIMEGlobal_V12.0.1.0.RJQMIXM_a8eb7ba048_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.0.1.0.RJQMIXM
 - branch: stable
   date: '2021-10-01'
   downloads:
@@ -58728,6 +58648,16 @@
   versions:
     android: '12.0'
     miui: V13.0.11.0.SLPCNXM
+- branch: stable
+  date: '2022-09-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-27.09.2022/fw_ziyi_miui_ZIYI_V13.0.1.0.SLLCNXM_e83163b66c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ziyi/fw_ziyi_miui_ZIYI_V13.0.1.0.SLLCNXM_e83163b66c_12.0.zip
+  filename: fw_ziyi_miui_ZIYI_V13.0.1.0.SLLCNXM_e83163b66c_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SLLCNXM
 - branch: stable
   date: '2022-08-29'
   downloads:
