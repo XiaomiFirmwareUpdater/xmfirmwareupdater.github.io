@@ -1788,6 +1788,12 @@
   version: 22.2.17
 - android: '11.0'
   codename: lime
+  date: '2022-01-07'
+  download: https://bigota.d.miui.com/22.1.5/fw_lime_miui_LIME_22.1.5_c1645b4618_11.0.zip
+  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
+  version: 22.1.5
+- android: '11.0'
+  codename: lime
   date: '2022-03-04'
   download: https://bigota.d.miui.com/22.3.2/fw_lime_miui_LIME_22.3.2_1fc1f2314c_11.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
