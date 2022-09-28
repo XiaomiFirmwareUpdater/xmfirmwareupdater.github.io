@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 28 Sep 2022 13:44:50 +0900</pubDate>
+  <pubDate>Thu, 29 Sep 2022 01:53:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V13.0.3.0.SKTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
+    <pubDate>Thu, 29 Sep 2022 01:53:23 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V13.0.3.0.SKSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 (cupid) - V13.0.20.0.SLCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
     <pubDate>Thu, 22 Sep 2022 20:09:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi CC 9 Pro/Mi Note 10/Note 10 Pro (tucana) - V13.0.2.0.RFDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tucana</link>
-    <pubDate>Wed, 21 Sep 2022 19:25:10 +0900</pubDate>
   </item>
     </channel>
 </rss>

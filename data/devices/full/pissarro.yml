@@ -99,6 +99,16 @@
     android: '11.0'
     miui: V12.5.4.0.RKTEUXM
 - branch: stable
+  date: '2022-09-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-28.09.2022/fw_pissarro_miui_PISSARROGlobal_V13.0.3.0.SKTMIXM_a1da78598b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROGlobal_V13.0.3.0.SKTMIXM_a1da78598b_12.0.zip
+  filename: fw_pissarro_miui_PISSARROGlobal_V13.0.3.0.SKTMIXM_a1da78598b_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SKTMIXM
+- branch: stable
   date: '2022-06-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-28.06.2022/fw_pissarro_miui_PISSARRO_V13.0.4.0.SKTCNXM_ddcdc166e3_12.0.zip
