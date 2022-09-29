@@ -3769,15 +3769,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2022-07-25'
+  date: '2022-09-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-25.07.2022/fw_spes_miui_SPESGlobal_V13.0.4.0.SGCMIXM_bc890fc589_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spes/fw_spes_miui_SPESGlobal_V13.0.4.0.SGCMIXM_bc890fc589_12.0.zip
-  filename: fw_spes_miui_SPESGlobal_V13.0.4.0.SGCMIXM_bc890fc589_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-29.09.2022/fw_spes_miui_SPESGlobal_V13.0.16.0.RGCMIXM_cfaa925d55_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spes/fw_spes_miui_SPESGlobal_V13.0.16.0.RGCMIXM_cfaa925d55_11.0.zip
+  filename: fw_spes_miui_SPESGlobal_V13.0.16.0.RGCMIXM_cfaa925d55_11.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.4.0.SGCMIXM
+    android: '11.0'
+    miui: V13.0.16.0.RGCMIXM
 - branch: stable
   date: '2022-09-22'
   downloads:
