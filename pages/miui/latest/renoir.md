@@ -56,7 +56,7 @@ permalink: /miui/renoir/
 <tr><td>Mi 11 Lite 5G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SKICNXM</td><td>12.0</td><td>5.7 GB</td><td>2022-05-07</td><td><a href="/miui/renoir/stable/V13.0.9.0.SKICNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SKICNXM</td><td>12.0</td><td>4.4 GB</td><td>2022-05-11</td><td><a href="/miui/renoir/stable/V13.0.9.0.SKICNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Weekly</td><td>Fastboot</td><td>22.1.19</td><td>12.0</td><td>5.8 GB</td><td>2022-01-19</td><td><a href="/miui/renoir/weekly/22.1.19/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.19.DEV</td><td>12.0</td><td>3.5 GB</td><td>2022-09-23</td><td><a href="/miui/renoir/public beta/V13.1.22.9.19.DEV/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>3.5 GB</td><td>2022-09-30</td><td><a href="/miui/renoir/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.12.0.SKICNXM</td><td>12.0</td><td>4.4 GB</td><td>2022-08-23</td><td><a href="/miui/renoir/stable beta/V13.0.12.0.SKICNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.5 GB</td><td>2022-03-24</td><td><a href="/miui/renoir/weekly/22.3.23/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SKIEUXM</td><td>12.0</td><td>5.9 GB</td><td>2022-09-02</td><td><a href="/miui/renoir/stable/V13.0.7.0.SKIEUXM/">Download</a></td></tr>
