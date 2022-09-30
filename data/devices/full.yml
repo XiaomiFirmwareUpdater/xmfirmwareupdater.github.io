@@ -25609,6 +25609,16 @@
     android: '7.1'
     miui: 8.4.12
 - branch: stable
+  date: '2022-09-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-30.09.2022/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.1.0.SJZMIXM_4d4f9ab269_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.1.0.SJZMIXM_4d4f9ab269_12.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V13.0.1.0.SJZMIXM_4d4f9ab269_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SJZMIXM
+- branch: stable
   date: '2021-07-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-30.07.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.0.4.0.RJZMIXM_fc04d4fa6c_11.0.zip
@@ -58208,6 +58218,16 @@
   versions:
     android: '10.0'
     miui: V12.0.4.0.QCXEUXM
+- branch: stable
+  date: '2022-09-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-30.09.2022/fw_xaga_miui_XAGAEEAGlobal_V13.0.8.0.SLOEUXM_f44f5b93b2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAEEAGlobal_V13.0.8.0.SLOEUXM_f44f5b93b2_12.0.zip
+  filename: fw_xaga_miui_XAGAEEAGlobal_V13.0.8.0.SLOEUXM_f44f5b93b2_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SLOEUXM
 - branch: stable
   date: '2022-05-30'
   downloads:

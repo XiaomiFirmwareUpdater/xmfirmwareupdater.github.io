@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 29 Sep 2022 19:21:37 +0900</pubDate>
+  <pubDate>Fri, 30 Sep 2022 19:49:05 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.8.0.SLOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
+    <pubDate>Fri, 30 Sep 2022 19:49:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro (joyeuse) - V13.0.1.0.SJZMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
+    <pubDate>Fri, 30 Sep 2022 19:20:34 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V13.0.10.0.SJDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
@@ -95,16 +105,6 @@
     <title>Xiaomi Pad 5 (nabu) - V13.1.1.0.SKXMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
     <pubDate>Fri, 23 Sep 2022 01:48:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V13.0.20.0.SLBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Thu, 22 Sep 2022 21:35:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Ultra (thor) - V13.0.10.0.SLACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
-    <pubDate>Thu, 22 Sep 2022 21:03:28 +0900</pubDate>
   </item>
     </channel>
 </rss>

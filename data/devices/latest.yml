@@ -1789,15 +1789,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2022-06-06'
+  date: '2022-09-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-06.06.2022/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.7.0.RJZMIXM_48f0898fc9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.7.0.RJZMIXM_48f0898fc9_11.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.5.7.0.RJZMIXM_48f0898fc9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-30.09.2022/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.1.0.SJZMIXM_4d4f9ab269_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.1.0.SJZMIXM_4d4f9ab269_12.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V13.0.1.0.SJZMIXM_4d4f9ab269_12.0.zip
   region: Global
   versions:
-    android: '11.0'
-    miui: V12.5.7.0.RJZMIXM
+    android: '12.0'
+    miui: V13.0.1.0.SJZMIXM
 - branch: stable
   date: '2022-08-26'
   downloads:
@@ -4599,15 +4599,15 @@
     android: '12.0'
     miui: V13.0.13.0.SLOCNXM
 - branch: stable
-  date: '2022-09-09'
+  date: '2022-09-30'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-09.09.2022/fw_xaga_miui_XAGAEEAGlobal_V13.0.6.0.SLOEUXM_ac6c554947_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAEEAGlobal_V13.0.6.0.SLOEUXM_ac6c554947_12.0.zip
-  filename: fw_xaga_miui_XAGAEEAGlobal_V13.0.6.0.SLOEUXM_ac6c554947_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-30.09.2022/fw_xaga_miui_XAGAEEAGlobal_V13.0.8.0.SLOEUXM_f44f5b93b2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAEEAGlobal_V13.0.8.0.SLOEUXM_f44f5b93b2_12.0.zip
+  filename: fw_xaga_miui_XAGAEEAGlobal_V13.0.8.0.SLOEUXM_f44f5b93b2_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SLOEUXM
+    miui: V13.0.8.0.SLOEUXM
 - branch: stable
   date: '2022-09-09'
   downloads:

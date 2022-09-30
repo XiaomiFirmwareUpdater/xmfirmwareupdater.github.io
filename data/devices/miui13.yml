@@ -1716,6 +1716,12 @@
   version: V13.0.4.0.SLJEUXM
 - android: '12.0'
   codename: joyeuse
+  date: '2022-09-30'
+  download: https://bigota.d.miui.com/V13.0.1.0.SJZMIXM/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.1.0.SJZMIXM_4d4f9ab269_12.0.zip
+  name: Redmi Note 9 Pro
+  version: V13.0.1.0.SJZMIXM
+- android: '12.0'
+  codename: joyeuse
   date: '2022-08-26'
   download: https://bigota.d.miui.com/V13.0.1.0.SJZEUXM/fw_joyeuse_miui_JOYEUSEEEAGlobal_V13.0.1.0.SJZEUXM_04a79d6b81_12.0.zip
   name: Redmi Note 9 Pro
@@ -4060,6 +4066,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.RGDEUXM/fw_viva_miui_VIVAEEAGlobal_V13.0.5.0.RGDEUXM_f1e390a8e7_11.0.zip
   name: Redmi Note 11 Pro 4G
   version: V13.0.5.0.RGDEUXM
+- android: '12.0'
+  codename: xaga
+  date: '2022-09-30'
+  download: https://bigota.d.miui.com/V13.0.8.0.SLOEUXM/fw_xaga_miui_XAGAEEAGlobal_V13.0.8.0.SLOEUXM_f44f5b93b2_12.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V13.0.8.0.SLOEUXM
 - android: '12.0'
   codename: xaga
   date: '2022-05-30'
