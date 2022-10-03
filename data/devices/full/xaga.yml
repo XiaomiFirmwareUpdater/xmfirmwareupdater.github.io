@@ -98,3 +98,13 @@
   versions:
     android: '12.0'
     miui: V13.0.3.0.SLOINXM
+- branch: stable
+  date: '2022-10-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-03.10.2022/fw_xaga_miui_XAGAGlobal_V13.0.5.0.SLOMIXM_add9754910_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAGlobal_V13.0.5.0.SLOMIXM_add9754910_12.0.zip
+  filename: fw_xaga_miui_XAGAGlobal_V13.0.5.0.SLOMIXM_add9754910_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SLOMIXM
