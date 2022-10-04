@@ -60,7 +60,7 @@ permalink: /miui/angelica/
 <tr><td>Redmi 9C Indonesia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RCRIDXM</td><td>11.0</td><td>2.0 GB</td><td>2022-08-30</td><td><a href="/miui/angelica/stable/V12.5.3.0.RCRIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.0.12.0.QCRTRXM</td><td>10.0</td><td>3.4 GB</td><td>2022-06-20</td><td><a href="/miui/angelica/stable/V12.0.12.0.QCRTRXM/">Download</a></td></tr>
 <tr><td>Redmi 9C Turkey</td><td>Stable</td><td>Recovery</td><td>V12.0.12.0.QCRTRXM</td><td>10.0</td><td>1.8 GB</td><td>2022-06-27</td><td><a href="/miui/angelica/stable/V12.0.12.0.QCRTRXM/">Download</a></td></tr>
-<tr><td>Redmi 9C Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.13.0.QCRTRXM</td><td>10.0</td><td>1.8 GB</td><td>2022-09-09</td><td><a href="/miui/angelica/stable beta/V12.0.13.0.QCRTRXM/">Download</a></td></tr>
+<tr><td>Redmi 9C Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.15.0.QCRTRXM</td><td>10.0</td><td>1.8 GB</td><td>2022-09-30</td><td><a href="/miui/angelica/stable beta/V12.0.15.0.QCRTRXM/">Download</a></td></tr>
 <tr><td>POCO C3 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.18.0.QCRINXM</td><td>10.0</td><td>2.4 GB</td><td>2022-06-05</td><td><a href="/miui/angelicain/stable/V12.0.18.0.QCRINXM/">Download</a></td></tr>
 <tr><td>POCO C3 India</td><td>Stable</td><td>Recovery</td><td>V12.0.18.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-06-13</td><td><a href="/miui/angelicain/stable/V12.0.18.0.QCRINXM/">Download</a></td></tr>
 <tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.19.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-09-06</td><td><a href="/miui/angelicain/stable beta/V12.0.19.0.QCRINXM/">Download</a></td></tr>

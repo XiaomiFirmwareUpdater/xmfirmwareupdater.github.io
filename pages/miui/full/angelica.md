@@ -52,7 +52,8 @@ permalink: /archive/miui/angelica/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9C NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.14.0.QCSMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-09-09</td><td><a href="/miui/angelican/stable beta/V12.0.14.0.QCSMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 9C Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.15.0.QCRTRXM</td><td>10.0</td><td>1.8 GB</td><td>2022-09-30</td><td><a href="/miui/angelica/stable beta/V12.0.15.0.QCRTRXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.14.0.QCSMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-09-09</td><td><a href="/miui/angelican/stable beta/V12.0.14.0.QCSMIXM/">Download</a></td></tr>
 <tr><td>POCO C31 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.8.0.QCRINRF</td><td>10.0</td><td>1.8 GB</td><td>2022-09-09</td><td><a href="/miui/angelicain/stable beta/V12.0.8.0.QCRINRF/">Download</a></td></tr>
 <tr><td>Redmi 9C Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.13.0.QCRTRXM</td><td>10.0</td><td>1.8 GB</td><td>2022-09-09</td><td><a href="/miui/angelica/stable beta/V12.0.13.0.QCRTRXM/">Download</a></td></tr>
 <tr><td>POCO C3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.19.0.QCRINXM</td><td>10.0</td><td>1.7 GB</td><td>2022-09-06</td><td><a href="/miui/angelicain/stable beta/V12.0.19.0.QCRINXM/">Download</a></td></tr>
