@@ -1,1 +1,10 @@
-[]
+- branch: stable
+  date: '2022-10-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-06.10.2022/fw_plato_miui_PLATOGlobal_V13.0.4.0.SLQMIXM_fea43ca079_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/plato/fw_plato_miui_PLATOGlobal_V13.0.4.0.SLQMIXM_fea43ca079_12.0.zip
+  filename: fw_plato_miui_PLATOGlobal_V13.0.4.0.SLQMIXM_fea43ca079_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SLQMIXM
