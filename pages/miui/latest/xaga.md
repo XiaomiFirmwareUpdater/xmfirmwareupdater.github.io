@@ -67,9 +67,8 @@ permalink: /miui/xaga/
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLOTRXM</td><td>12.0</td><td>6.1 GB</td><td>2022-08-17</td><td><a href="/miui/xaga/stable/V13.0.4.0.SLOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLOTRXM</td><td>12.0</td><td>4.5 GB</td><td>2022-08-24</td><td><a href="/miui/xaga/stable/V13.0.4.0.SLOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SLOTRXM</td><td>12.0</td><td>4.5 GB</td><td>2022-09-22</td><td><a href="/miui/xaga/stable beta/V13.0.5.0.SLOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLOTWXM</td><td>12.0</td><td>5.7 GB</td><td>2022-08-22</td><td><a href="/miui/xaga/stable/V13.0.3.0.SLOTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLOTWXM</td><td>12.0</td><td>4.4 GB</td><td>2022-08-30</td><td><a href="/miui/xaga/stable/V13.0.3.0.SLOTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SLOTWXM</td><td>12.0</td><td>4.4 GB</td><td>2022-09-27</td><td><a href="/miui/xaga/stable beta/V13.0.5.0.SLOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SLOTWXM</td><td>12.0</td><td>5.9 GB</td><td>2022-09-20</td><td><a href="/miui/xaga/stable/V13.0.5.0.SLOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLOTWXM</td><td>12.0</td><td>4.4 GB</td><td>2022-09-27</td><td><a href="/miui/xaga/stable/V13.0.5.0.SLOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
