@@ -6249,6 +6249,16 @@
     android: '12.0'
     miui: V13.0.2.0.SCUMIXM
 - branch: stable
+  date: '2022-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-08.10.2022/fw_biloba_miui_BILOBAGlobal_V13.0.7.0.SCUMIXM_1603bdf3d0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/biloba/fw_biloba_miui_BILOBAGlobal_V13.0.7.0.SCUMIXM_1603bdf3d0_12.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V13.0.7.0.SCUMIXM_1603bdf3d0_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SCUMIXM
+- branch: stable
   date: '2022-08-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-08.08.2022/fw_biloba_miui_BILOBAGlobal_V13.0.6.0.SCUMIXM_5ea54af041_12.0.zip
@@ -28148,6 +28158,16 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SLSINXM
+- branch: stable
+  date: '2022-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-08.10.2022/fw_light_miui_LIGHTGlobal_V13.0.7.0.SLSMIXM_e409654007_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHTGlobal_V13.0.7.0.SLSMIXM_e409654007_12.0.zip
+  filename: fw_light_miui_LIGHTGlobal_V13.0.7.0.SLSMIXM_e409654007_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SLSMIXM
 - branch: weekly
   date: '2021-12-31'
   downloads:
@@ -43868,6 +43888,16 @@
   versions:
     android: '11.0'
     miui: V12.5.13.0.RKLEUXM
+- branch: stable
+  date: '2022-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-08.10.2022/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.5.0.SKLEUXM_0389587803_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.5.0.SKLEUXM_0389587803_12.0.zip
+  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.5.0.SKLEUXM_0389587803_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SKLEUXM
 - branch: stable
   date: '2022-07-08'
   downloads:
