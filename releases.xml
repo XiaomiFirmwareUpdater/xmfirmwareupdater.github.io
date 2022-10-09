@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 09 Oct 2022 01:26:56 +0900</pubDate>
+  <pubDate>Sun, 09 Oct 2022 13:51:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 4G (phoenix) - V13.0.6.0.SGHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
+    <pubDate>Sun, 09 Oct 2022 13:51:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V13.1.3.0.SKXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Sun, 09 Oct 2022 13:49:47 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.8.0.SJSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V13.0.3.0.SKTMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
     <pubDate>Thu, 29 Sep 2022 01:53:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V13.0.3.0.SKSMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
-    <pubDate>Wed, 28 Sep 2022 13:44:50 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi 2 (ziyi) - V13.0.1.0.SLLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
-    <pubDate>Wed, 28 Sep 2022 01:59:59 +0900</pubDate>
   </item>
     </channel>
 </rss>
