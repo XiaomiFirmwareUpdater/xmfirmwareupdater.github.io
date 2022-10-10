@@ -52,9 +52,9 @@ permalink: /miui/sweet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SKFEUXM</td><td>12.0</td><td>5.6 GB</td><td>2022-06-02</td><td><a href="/miui/sweet/stable/V13.0.10.0.SKFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SKFEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-06-13</td><td><a href="/miui/sweet/stable/V13.0.10.0.SKFEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.13.0.SKFEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-08-16</td><td><a href="/miui/sweet/stable beta/V13.0.13.0.SKFEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.13.0.SKFEUXM</td><td>12.0</td><td>5.7 GB</td><td>2022-08-10</td><td><a href="/miui/sweet/stable/V13.0.13.0.SKFEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.13.0.SKFEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-08-16</td><td><a href="/miui/sweet/stable/V13.0.13.0.SKFEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKFEUXM</td><td>11.0</td><td>3.1 GB</td><td>2021-06-30</td><td><a href="/miui/sweet/stable beta/V12.5.3.0.RKFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SKFMIXM</td><td>12.0</td><td>5.4 GB</td><td>2022-05-18</td><td><a href="/miui/sweet/stable/V13.0.8.0.SKFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Global</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SKFMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-05-27</td><td><a href="/miui/sweet/stable/V13.0.8.0.SKFMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.12.0.SKFMIXM</td><td>12.0</td><td>3.4 GB</td><td>2022-08-05</td><td><a href="/miui/sweet/stable beta/V13.0.12.0.SKFMIXM/">Download</a></td></tr>
