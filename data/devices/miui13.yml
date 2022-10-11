@@ -1806,6 +1806,12 @@
   version: V13.0.6.0.SLSEUXM
 - android: '12.0'
   codename: light
+  date: '2022-10-11'
+  download: https://bigota.d.miui.com/V13.0.7.0.SLSEUXM/fw_light_miui_LIGHTEEAGlobal_V13.0.7.0.SLSEUXM_e0aed95fd0_12.0.zip
+  name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V13.0.7.0.SLSEUXM
+- android: '12.0'
+  codename: light
   date: '2022-05-11'
   download: https://bigota.d.miui.com/V13.0.2.0.SLSINXM/fw_light_miui_LIGHTINGlobal_V13.0.2.0.SLSINXM_5b2817b326_12.0.zip
   name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G

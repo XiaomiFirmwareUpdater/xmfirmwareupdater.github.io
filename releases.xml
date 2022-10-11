@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 11 Oct 2022 01:57:44 +0900</pubDate>
+  <pubDate>Tue, 11 Oct 2022 13:50:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V13.0.7.0.SLSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/light</link>
+    <pubDate>Tue, 11 Oct 2022 13:50:19 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V13.0.7.0.SLFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.8.0.SLOEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
     <pubDate>Fri, 30 Sep 2022 19:49:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro (joyeuse) - V13.0.1.0.SJZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
-    <pubDate>Fri, 30 Sep 2022 19:20:34 +0900</pubDate>
   </item>
     </channel>
 </rss>
