@@ -71,6 +71,7 @@ permalink: /miui/vili/
 <tr><td>Xiaomi 11T Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKDTRXM</td><td>12.0</td><td>3.7 GB</td><td>2022-08-01</td><td><a href="/miui/vili/stable/V13.0.4.0.SKDTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKDTWXM</td><td>12.0</td><td>4.9 GB</td><td>2022-07-05</td><td><a href="/miui/vili/stable/V13.0.5.0.SKDTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKDTWXM</td><td>12.0</td><td>3.7 GB</td><td>2022-07-18</td><td><a href="/miui/vili/stable/V13.0.5.0.SKDTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SKDTWXM</td><td>12.0</td><td>3.7 GB</td><td>2022-10-13</td><td><a href="/miui/vili/stable beta/V13.0.6.0.SKDTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

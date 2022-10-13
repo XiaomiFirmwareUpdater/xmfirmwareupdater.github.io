@@ -54,9 +54,9 @@ permalink: /miui/angelican/
                 <tbody>
                 <tr><td>Redmi 9C NFC EEA</td><td>Stable</td><td>Fastboot</td><td>V12.0.14.0.QCSEUXM</td><td>10.0</td><td>4.0 GB</td><td>2022-08-19</td><td><a href="/miui/angelican/stable/V12.0.14.0.QCSEUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC EEA</td><td>Stable</td><td>Recovery</td><td>V12.0.14.0.QCSEUXM</td><td>10.0</td><td>1.8 GB</td><td>2022-08-25</td><td><a href="/miui/angelican/stable/V12.0.14.0.QCSEUXM/">Download</a></td></tr>
-<tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RCSMIXM</td><td>11.0</td><td>4.1 GB</td><td>2022-07-08</td><td><a href="/miui/angelican/stable/V12.5.3.0.RCSMIXM/">Download</a></td></tr>
-<tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RCSMIXM</td><td>11.0</td><td>2.0 GB</td><td>2022-07-21</td><td><a href="/miui/angelican/stable/V12.5.3.0.RCSMIXM/">Download</a></td></tr>
-<tr><td>Redmi 9C NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.14.0.QCSMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-09-09</td><td><a href="/miui/angelican/stable beta/V12.0.14.0.QCSMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.14.0.QCSMIXM</td><td>10.0</td><td>3.9 GB</td><td>2022-08-31</td><td><a href="/miui/angelican/stable/V12.0.14.0.QCSMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Recovery</td><td>V12.0.14.0.QCSMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-09-09</td><td><a href="/miui/angelican/stable/V12.0.14.0.QCSMIXM/">Download</a></td></tr>
+<tr><td>Redmi 9C NFC Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.16.0.QCSMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-10-10</td><td><a href="/miui/angelican/stable beta/V12.0.16.0.QCSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RCSRUXM</td><td>11.0</td><td>3.5 GB</td><td>2022-08-04</td><td><a href="/miui/angelican/stable/V12.5.3.0.RCSRUXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RCSRUXM</td><td>11.0</td><td>2.0 GB</td><td>2022-08-30</td><td><a href="/miui/angelican/stable/V12.5.3.0.RCSRUXM/">Download</a></td></tr>
 

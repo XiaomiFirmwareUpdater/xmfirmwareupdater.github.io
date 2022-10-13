@@ -1014,6 +1014,12 @@
   version: V13.0.39.0.SLCCNXM
 - android: '12.0'
   codename: cupid
+  date: '2022-10-13'
+  download: https://bigota.d.miui.com/V13.0.41.0.SLCCNXM/fw_cupid_miui_CUPID_V13.0.41.0.SLCCNXM_6e6b170502_12.0.zip
+  name: Xiaomi 12
+  version: V13.0.41.0.SLCCNXM
+- android: '12.0'
+  codename: cupid
   date: '2022-03-11'
   download: https://bigota.d.miui.com/V13.0.28.0.SLCCNXM/fw_cupid_miui_CUPID_V13.0.28.0.SLCCNXM_5a2b050c5a_12.0.zip
   name: Xiaomi 12
@@ -1380,6 +1386,12 @@
   version: V13.0.1.0.SGEINXM
 - android: '11.0'
   codename: fog
+  date: '2022-10-13'
+  download: https://bigota.d.miui.com/V13.0.11.0.RGEMIXM/fw_fog_miui_FOGGlobal_V13.0.11.0.RGEMIXM_f0e0b66b70_11.0.zip
+  name: Redmi 10C
+  version: V13.0.11.0.RGEMIXM
+- android: '11.0'
+  codename: fog
   date: '2022-07-02'
   download: https://bigota.d.miui.com/V13.0.4.0.RGEEUXM/fw_fog_miui_FOGEEAGlobal_V13.0.4.0.RGEEUXM_7a53094ff0_11.0.zip
   name: Redmi 10C
@@ -1654,6 +1666,12 @@
   download: https://bigota.d.miui.com/V13.0.5.1.1.DEV/fw_haydn_miui_HAYDN_V13.0.5.1.1.DEV_68e02edbb2_12.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: V13.0.5.1.1.DEV
+- android: '12.0'
+  codename: haydn
+  date: '2022-10-13'
+  download: https://bigota.d.miui.com/V13.0.4.0.SKKINXM/fw_haydn_miui_HAYDNINGlobal_V13.0.4.0.SKKINXM_8e4a4efefd_12.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V13.0.4.0.SKKINXM
 - android: '12.0'
   codename: haydn
   date: '2022-05-10'
@@ -4336,6 +4354,12 @@
   download: https://bigota.d.miui.com/V13.0.39.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.39.0.SLBCNXM_eb2bc0574b_12.0.zip
   name: Xiaomi 12 Pro
   version: V13.0.39.0.SLBCNXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-10-13'
+  download: https://bigota.d.miui.com/V13.0.41.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.41.0.SLBCNXM_feeaee9deb_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.41.0.SLBCNXM
 - android: '12.0'
   codename: zeus
   date: '2022-07-11'

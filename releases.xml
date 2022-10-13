@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 12 Oct 2022 20:06:07 +0900</pubDate>
+  <pubDate>Thu, 13 Oct 2022 21:44:25 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V13.0.41.0.SLBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Thu, 13 Oct 2022 21:44:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V13.0.4.0.SKKINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Thu, 13 Oct 2022 21:07:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10C (fog) - V13.0.11.0.RGEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
+    <pubDate>Thu, 13 Oct 2022 20:42:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.41.0.SLCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Thu, 13 Oct 2022 20:17:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C NFC (angelican) - V12.0.16.0.QCSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
+    <pubDate>Thu, 13 Oct 2022 19:29:25 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V13.0.9.0.SLFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
@@ -80,31 +105,6 @@
     <title>Redmi Pad (yunluo) - V13.1.4.0.SLYMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
     <pubDate>Fri, 07 Oct 2022 02:43:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Pad (yunluo) - V13.1.2.0.SLYEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
-    <pubDate>Fri, 07 Oct 2022 02:25:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12T (plato) - V13.0.4.0.SLQMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
-    <pubDate>Fri, 07 Oct 2022 01:56:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.6.0.SLOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
-    <pubDate>Thu, 06 Oct 2022 01:58:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V13.0.10.0.SKDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Wed, 05 Oct 2022 01:52:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.5.0.SLOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
-    <pubDate>Tue, 04 Oct 2022 01:48:20 +0900</pubDate>
   </item>
     </channel>
 </rss>
