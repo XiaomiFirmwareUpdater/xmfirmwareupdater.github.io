@@ -19179,6 +19179,16 @@
     android: '12.0'
     miui: V13.0.4.0.SLFCNXM
 - branch: stable
+  date: '2022-10-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-13.10.2022/fw_diting_miui_DITINGGlobal_V13.0.3.0.SLFMIXM_67456aed58_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/diting/fw_diting_miui_DITINGGlobal_V13.0.3.0.SLFMIXM_67456aed58_12.0.zip
+  filename: fw_diting_miui_DITINGGlobal_V13.0.3.0.SLFMIXM_67456aed58_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SLFMIXM
+- branch: stable
   date: '2022-10-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-12.10.2022/fw_diting_miui_DITINGEEAGlobal_V13.0.9.0.SLFEUXM_cf0ab4f07a_12.0.zip
@@ -29308,6 +29318,26 @@
   versions:
     android: '12.0'
     miui: V13.0.3.0.SKOINXM
+- branch: stable
+  date: '2022-10-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-13.10.2022/fw_lisa_miui_LISAGlobal_V13.0.6.0.SKOMIXM_591af9377b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAGlobal_V13.0.6.0.SKOMIXM_591af9377b_12.0.zip
+  filename: fw_lisa_miui_LISAGlobal_V13.0.6.0.SKOMIXM_591af9377b_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SKOMIXM
+- branch: stable
+  date: '2022-10-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-13.10.2022/fw_lisa_miui_LISAINGlobal_V13.0.8.0.SKOINXM_5d656038fa_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAINGlobal_V13.0.8.0.SKOINXM_5d656038fa_12.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_V13.0.8.0.SKOINXM_5d656038fa_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SKOINXM
 - branch: stable
   date: '2021-12-10'
   downloads:

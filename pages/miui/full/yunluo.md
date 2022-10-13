@@ -58,6 +58,8 @@ permalink: /archive/miui/yunluo/
 <tr><td>Redmi Pad India</td><td>Stable</td><td>Fastboot</td><td>V13.1.2.0.SLYINXM</td><td>12.0</td><td>4.2 GB</td><td>2022-09-27</td><td><a href="/miui/yunluo/stable/V13.1.2.0.SLYINXM/">Download</a></td></tr>
 <tr><td>Redmi Pad EEA</td><td>Stable</td><td>Recovery</td><td>V13.1.2.0.SLYEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-10-04</td><td><a href="/miui/yunluo/stable/V13.1.2.0.SLYEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad EEA</td><td>Stable</td><td>Fastboot</td><td>V13.1.2.0.SLYEUXM</td><td>12.0</td><td>4.3 GB</td><td>2022-09-27</td><td><a href="/miui/yunluo/stable/V13.1.2.0.SLYEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Russia</td><td>Stable</td><td>Fastboot</td><td>V13.1.2.0.SLYRUXM</td><td>12.0</td><td>347 Bytes</td><td>2022-09-29</td><td><a href="/miui/yunluo/stable/V13.1.2.0.SLYRUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Russia</td><td>Stable</td><td>Recovery</td><td>V13.1.2.0.SLYRUXM</td><td>12.0</td><td>3.5 GB</td><td>None</td><td><a href="/miui/yunluo/stable/V13.1.2.0.SLYRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
