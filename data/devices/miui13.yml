@@ -3072,6 +3072,12 @@
   version: V13.0.1.0.SLNCNXM
 - android: '12.0'
   codename: rubens
+  date: '2022-10-14'
+  download: https://bigota.d.miui.com/V13.0.24.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.24.0.SLNCNXM_231a525b01_12.0.zip
+  name: Redmi K50
+  version: V13.0.24.0.SLNCNXM
+- android: '12.0'
+  codename: rubens
   date: '2022-09-13'
   download: https://bigota.d.miui.com/V13.0.23.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.23.0.SLNCNXM_487cdb90aa_12.0.zip
   name: Redmi K50
