@@ -2658,6 +2658,12 @@
   version: V13.0.1.0.SGICNXM
 - android: '12.0'
   codename: picasso
+  date: '2022-10-14'
+  download: https://bigota.d.miui.com/V13.0.3.0.SGICNXM/fw_picasso_miui_PICASSO_V13.0.3.0.SGICNXM_af4ea69868_12.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: V13.0.3.0.SGICNXM
+- android: '12.0'
+  codename: picasso
   date: '2022-05-05'
   download: https://bigota.d.miui.com/V13.0.1.0.SGICMXM/fw_picasso_miui_PICASSO48M_V13.0.1.0.SGICMXM_b232a140ef_12.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
@@ -3432,6 +3438,12 @@
   version: V13.0.5.0.SKFINXM
 - android: '12.0'
   codename: sweetin
+  date: '2022-10-14'
+  download: https://bigota.d.miui.com/V13.0.7.0.SKFINXM/fw_sweetin_miui_SWEETININGlobal_V13.0.7.0.SKFINXM_e423575bef_12.0.zip
+  name: Redmi Note 10 Pro/Pro Max
+  version: V13.0.7.0.SKFINXM
+- android: '12.0'
+  codename: sweetin
   date: '2022-04-08'
   download: https://bigota.d.miui.com/V13.0.3.0.SKFINXM/fw_sweetin_miui_SWEETININGlobal_V13.0.3.0.SKFINXM_f6825cd40f_12.0.zip
   name: Redmi Note 10 Pro/Pro Max
@@ -4090,6 +4102,12 @@
   download: https://bigota.d.miui.com/V13.0.14.0.SKDEUXM/fw_vili_miui_VILIEEAGlobal_V13.0.14.0.SKDEUXM_1d005ff615_12.0.zip
   name: Xiaomi 11T Pro
   version: V13.0.14.0.SKDEUXM
+- android: '12.0'
+  codename: vili
+  date: '2022-10-14'
+  download: https://bigota.d.miui.com/V13.0.16.0.SKDEUXM/fw_vili_miui_VILIEEAGlobal_V13.0.16.0.SKDEUXM_16eab93d91_12.0.zip
+  name: Xiaomi 11T Pro
+  version: V13.0.16.0.SKDEUXM
 - android: '12.0'
   codename: vili
   date: '2022-05-09'

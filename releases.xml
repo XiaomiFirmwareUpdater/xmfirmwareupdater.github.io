@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 14 Oct 2022 14:20:43 +0900</pubDate>
+  <pubDate>Fri, 14 Oct 2022 20:07:15 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 11T Pro (vili) - V13.0.16.0.SKDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
+    <pubDate>Fri, 14 Oct 2022 20:07:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro/Pro Max (sweetin) - V13.0.7.0.SKFINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweetin</link>
+    <pubDate>Fri, 14 Oct 2022 19:37:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V13.0.3.0.SGICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 14 Oct 2022 19:36:17 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro (sweet) - V13.0.15.0.SKFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 11 NFC (spesn) - V13.0.13.0.RGKEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
     <pubDate>Mon, 10 Oct 2022 19:44:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.5.0.RCZEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Mon, 10 Oct 2022 07:20:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 4G (phoenix) - V13.0.6.0.SGHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/phoenix</link>
-    <pubDate>Sun, 09 Oct 2022 13:51:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 (nabu) - V13.1.3.0.SKXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Sun, 09 Oct 2022 13:49:47 +0900</pubDate>
   </item>
     </channel>
 </rss>
