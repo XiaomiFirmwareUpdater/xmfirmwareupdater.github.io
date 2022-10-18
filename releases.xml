@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 18 Oct 2022 20:03:12 +0900</pubDate>
+  <pubDate>Wed, 19 Oct 2022 01:53:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K50 Pro (matisse) - V13.0.26.0.SLKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
+    <pubDate>Wed, 19 Oct 2022 01:53:02 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12T (plato) - V13.0.6.0.SLQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
@@ -100,11 +105,6 @@
     <title>Redmi 9C NFC (angelican) - V12.0.16.0.QCSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/angelican</link>
     <pubDate>Thu, 13 Oct 2022 19:29:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V13.0.9.0.SLFEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
-    <pubDate>Wed, 12 Oct 2022 20:06:07 +0900</pubDate>
   </item>
     </channel>
 </rss>

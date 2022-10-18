@@ -8499,6 +8499,16 @@
     android: '12.0'
     miui: V13.0.3.0.SJEMIXM
 - branch: stable
+  date: '2022-01-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-17.01.2022/fw_cannong_miui_CANNONGEEAGlobal_V12.5.7.0.RJEEUXM_5d6ce9a3e8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cannong/fw_cannong_miui_CANNONGEEAGlobal_V12.5.7.0.RJEEUXM_5d6ce9a3e8_11.0.zip
+  filename: fw_cannong_miui_CANNONGEEAGlobal_V12.5.7.0.RJEEUXM_5d6ce9a3e8_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.7.0.RJEEUXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-16.03.2021/fw_cannong_miui_CANNONGEEAGlobal_V12.0.7.0.QJEEUXM_139263f88c_10.0.zip
@@ -8578,6 +8588,16 @@
   versions:
     android: '11.0'
     miui: V12.5.4.0.RJEMIXM
+- branch: stable
+  date: '2022-08-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-01.08.2022/fw_cannong_miui_CANNONGEEAGlobal_V13.0.2.0.SJEEUXM_237d7d0061_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGEEAGlobal_V13.0.2.0.SJEEUXM_237d7d0061_12.0.zip
+  filename: fw_cannong_miui_CANNONGEEAGlobal_V13.0.2.0.SJEEUXM_237d7d0061_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SJEEUXM
 - branch: stable
   date: '2022-04-01'
   downloads:
@@ -31188,6 +31208,16 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SLKCNXM
+- branch: stable
+  date: '2022-10-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-18.10.2022/fw_matisse_miui_MATISSE_V13.0.26.0.SLKCNXM_6777b8c4c4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/matisse/fw_matisse_miui_MATISSE_V13.0.26.0.SLKCNXM_6777b8c4c4_12.0.zip
+  filename: fw_matisse_miui_MATISSE_V13.0.26.0.SLKCNXM_6777b8c4c4_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.26.0.SLKCNXM
 - branch: stable
   date: '2022-04-14'
   downloads:
