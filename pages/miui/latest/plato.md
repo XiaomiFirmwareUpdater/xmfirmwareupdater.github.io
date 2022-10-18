@@ -53,7 +53,7 @@ permalink: /miui/plato/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SLQEUXM</td><td>12.0</td><td>344 Bytes</td><td>2022-08-17</td><td><a href="/miui/plato/stable/V13.0.6.0.SLQEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SLQEUXM</td><td>12.0</td><td>4.6 GB</td><td>None</td><td><a href="/miui/plato/stable/V13.0.6.0.SLQEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SLQEUXM</td><td>12.0</td><td>4.6 GB</td><td>2022-10-18</td><td><a href="/miui/plato/stable/V13.0.6.0.SLQEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLQMIXM</td><td>12.0</td><td>7.1 GB</td><td>2022-09-07</td><td><a href="/miui/plato/stable/V13.0.4.0.SLQMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLQMIXM</td><td>12.0</td><td>4.6 GB</td><td>2022-10-06</td><td><a href="/miui/plato/stable/V13.0.4.0.SLQMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLQRUXM</td><td>12.0</td><td>6.6 GB</td><td>2022-09-20</td><td><a href="/miui/plato/stable/V13.0.4.0.SLQRUXM/">Download</a></td></tr>
