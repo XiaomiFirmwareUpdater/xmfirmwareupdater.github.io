@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-05-26'
+  date: '2022-10-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-26.05.2022/fw_star_miui_STARGlobal_V13.0.4.0.SKAMIXM_e10c6575cb_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STARGlobal_V13.0.4.0.SKAMIXM_e10c6575cb_12.0.zip
-  filename: fw_star_miui_STARGlobal_V13.0.4.0.SKAMIXM_e10c6575cb_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-19.10.2022/fw_star_miui_STARGlobal_V13.0.6.0.SKAMIXM_a4bd117208_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STARGlobal_V13.0.6.0.SKAMIXM_a4bd117208_12.0.zip
+  filename: fw_star_miui_STARGlobal_V13.0.6.0.SKAMIXM_a4bd117208_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SKAMIXM
+    miui: V13.0.6.0.SKAMIXM
 - branch: stable
   date: '2022-08-05'
   downloads:
@@ -29,15 +29,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-05-26'
+  date: '2022-10-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-26.05.2022/fw_star_miui_STAREEAGlobal_V13.0.7.0.SKAEUXM_327992153c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAREEAGlobal_V13.0.7.0.SKAEUXM_327992153c_12.0.zip
-  filename: fw_star_miui_STAREEAGlobal_V13.0.7.0.SKAEUXM_327992153c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-19.10.2022/fw_star_miui_STAREEAGlobal_V13.0.9.0.SKAEUXM_5ec4a119b8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAREEAGlobal_V13.0.9.0.SKAEUXM_5ec4a119b8_12.0.zip
+  filename: fw_star_miui_STAREEAGlobal_V13.0.9.0.SKAEUXM_5ec4a119b8_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SKAEUXM
+    miui: V13.0.9.0.SKAEUXM
 - branch: stable
   date: '2022-06-02'
   downloads:
