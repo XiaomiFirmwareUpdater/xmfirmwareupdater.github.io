@@ -31269,6 +31269,16 @@
     android: '12.0'
     miui: V13.0.18.0.SLTCNXM
 - branch: stable
+  date: '2022-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-19.10.2022/fw_mayfly_miui_MAYFLY_V13.0.20.0.SLTCNXM_9d035657a1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mayfly/fw_mayfly_miui_MAYFLY_V13.0.20.0.SLTCNXM_9d035657a1_12.0.zip
+  filename: fw_mayfly_miui_MAYFLY_V13.0.20.0.SLTCNXM_9d035657a1_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.20.0.SLTCNXM
+- branch: stable
   date: '2022-08-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-11.08.2022/fw_mayfly_miui_MAYFLY_V13.0.17.0.SLTCNXM_b1f05ac44b_12.0.zip
@@ -38508,6 +38518,16 @@
   versions:
     android: '11.0'
     miui: V12.1.1.0.RGICMXM
+- branch: stable
+  date: '2022-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-19.10.2022/fw_picasso_miui_PICASSO48M_V13.0.4.0.SGICMXM_df3b9b40cb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/picasso/fw_picasso_miui_PICASSO48M_V13.0.4.0.SGICMXM_df3b9b40cb_12.0.zip
+  filename: fw_picasso_miui_PICASSO48M_V13.0.4.0.SGICMXM_df3b9b40cb_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SGICMXM
 - branch: stable
   date: '2021-05-19'
   downloads:
@@ -59038,6 +59058,16 @@
   versions:
     android: '12.0'
     miui: V13.0.20.0.SLBEUXM
+- branch: stable
+  date: '2022-10-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-19.10.2022/fw_zeus_miui_ZEUSINGlobal_V13.0.9.0.SLBINXM_b72d7ac8fd_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUSINGlobal_V13.0.9.0.SLBINXM_b72d7ac8fd_12.0.zip
+  filename: fw_zeus_miui_ZEUSINGlobal_V13.0.9.0.SLBINXM_b72d7ac8fd_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.9.0.SLBINXM
 - branch: stable
   date: '2022-06-19'
   downloads:
