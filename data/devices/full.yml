@@ -11779,6 +11779,16 @@
     android: '11.0'
     miui: V12.5.5.0.RJNCNXM
 - branch: stable
+  date: '2022-10-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-20.10.2022/fw_cezanne_miui_CEZANNE_V13.0.4.0.SJNCNXM_47c924d687_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cezanne/fw_cezanne_miui_CEZANNE_V13.0.4.0.SJNCNXM_47c924d687_12.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V13.0.4.0.SJNCNXM_47c924d687_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SJNCNXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-19.12.2020/fw_cezanne_miui_CEZANNE_V12.0.18.0.QJNCNXM_1ce587627e_10.0.zip
@@ -32828,6 +32838,16 @@
   versions:
     android: '12.0'
     miui: V13.1.1.0.SKXINXM
+- branch: stable
+  date: '2022-10-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-20.10.2022/fw_nabu_miui_NABUINGlobal_V13.1.3.0.SKXINXM_ed45300d5f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUINGlobal_V13.1.3.0.SKXINXM_ed45300d5f_12.0.zip
+  filename: fw_nabu_miui_NABUINGlobal_V13.1.3.0.SKXINXM_ed45300d5f_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.1.3.0.SKXINXM
 - branch: stable
   date: '2022-04-20'
   downloads:
