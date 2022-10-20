@@ -53,6 +53,8 @@ permalink: /archive/miui/xaga/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.14.0.SLOCNXM</td><td>12.0</td><td>5.4 GB</td><td>2022-10-14</td><td><a href="/miui/xaga/stable beta/V13.0.14.0.SLOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SLOEUXM</td><td>12.0</td><td>4.5 GB</td><td>2022-10-14</td><td><a href="/miui/xaga/stable/V13.0.9.0.SLOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SLOEUXM</td><td>12.0</td><td>6.8 GB</td><td>2022-10-09</td><td><a href="/miui/xaga/stable/V13.0.9.0.SLOEUXM/">Download</a></td></tr>
 <tr><td>Redmi K50i / Pro India</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SLOINXM</td><td>12.0</td><td>4.4 GB</td><td>2022-09-30</td><td><a href="/miui/xaga/stable/V13.0.6.0.SLOINXM/">Download</a></td></tr>
 <tr><td>Redmi K50i / Pro India</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SLOINXM</td><td>12.0</td><td>5.5 GB</td><td>2022-09-27</td><td><a href="/miui/xaga/stable/V13.0.6.0.SLOINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Global</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLOMIXM</td><td>12.0</td><td>4.5 GB</td><td>2022-09-29</td><td><a href="/miui/xaga/stable/V13.0.5.0.SLOMIXM/">Download</a></td></tr>
