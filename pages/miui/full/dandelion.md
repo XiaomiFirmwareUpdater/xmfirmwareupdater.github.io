@@ -54,6 +54,10 @@ permalink: /archive/miui/dandelion/
                 <tbody>
                 <tr><td>Redmi 10A Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RCZTWXM</td><td>11.0</td><td>1.9 GB</td><td>2022-10-14</td><td><a href="/miui/dandelion/stable/V12.5.3.0.RCZTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10A Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RCZTWXM</td><td>11.0</td><td>3.1 GB</td><td>2022-10-08</td><td><a href="/miui/dandelion/stable/V12.5.3.0.RCZTWXM/">Download</a></td></tr>
+<tr><td>Redmi 9A Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RCDRUXM</td><td>11.0</td><td>2.0 GB</td><td>2022-10-11</td><td><a href="/miui/dandelion/stable/V12.5.7.0.RCDRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9A Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RCDRUXM</td><td>11.0</td><td>3.7 GB</td><td>2022-09-14</td><td><a href="/miui/dandelion/stable/V12.5.7.0.RCDRUXM/">Download</a></td></tr>
+<tr><td>Redmi 9A / 9i / 9A Sport India</td><td>Stable</td><td>Recovery</td><td>V12.5.9.0.RCDINXM</td><td>11.0</td><td>1.9 GB</td><td>2022-10-11</td><td><a href="/miui/dandelion/stable/V12.5.9.0.RCDINXM/">Download</a></td></tr>
+<tr><td>Redmi 9A / 9i / 9A Sport India</td><td>Stable</td><td>Fastboot</td><td>V12.5.9.0.RCDINXM</td><td>11.0</td><td>3.0 GB</td><td>2022-09-15</td><td><a href="/miui/dandelion/stable/V12.5.9.0.RCDINXM/">Download</a></td></tr>
 <tr><td>Redmi 10A Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RCZIDXM</td><td>11.0</td><td>2.0 GB</td><td>2022-10-09</td><td><a href="/miui/dandelion/stable beta/V12.5.6.0.RCZIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10A Russia</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RCZRUXM</td><td>11.0</td><td>2.0 GB</td><td>2022-10-08</td><td><a href="/miui/dandelion/stable/V12.5.2.0.RCZRUXM/">Download</a></td></tr>
 <tr><td>Redmi 10A Russia</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RCZRUXM</td><td>11.0</td><td>3.9 GB</td><td>2022-09-26</td><td><a href="/miui/dandelion/stable/V12.5.2.0.RCZRUXM/">Download</a></td></tr>

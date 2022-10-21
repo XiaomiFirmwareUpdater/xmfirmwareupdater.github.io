@@ -16449,6 +16449,16 @@
     android: '10.0'
     miui: V12.0.17.0.QCDMIXM
 - branch: stable
+  date: '2022-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-21.10.2022/fw_dandelion_miui_DANDELIONINGlobal_V12.5.9.0.RCDINXM_edd537581d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.5.9.0.RCDINXM_edd537581d_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.5.9.0.RCDINXM_edd537581d_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RCDINXM
+- branch: stable
   date: '2022-07-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-20.07.2022/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.7.0.RCZMIXM_d6edf0f10f_11.0.zip
@@ -20238,6 +20248,16 @@
   versions:
     android: '12.0'
     miui: V13.0.3.0.SGBMIXM
+- branch: stable
+  date: '2022-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-21.10.2022/fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.2.0.SGBEUXM_d04d0a12c6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergreen/fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.2.0.SGBEUXM_d04d0a12c6_12.0.zip
+  filename: fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.2.0.SGBEUXM_d04d0a12c6_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SGBEUXM
 - branch: stable
   date: '2020-09-29'
   downloads:
@@ -58678,6 +58698,16 @@
   versions:
     android: '12.0'
     miui: V13.0.11.0.SLOCNXM
+- branch: stable
+  date: '2022-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-21.10.2022/fw_xaga_miui_XAGAINGlobal_V13.0.7.0.SLOINXM_155a0699ab_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAINGlobal_V13.0.7.0.SLOINXM_155a0699ab_12.0.zip
+  filename: fw_xaga_miui_XAGAINGlobal_V13.0.7.0.SLOINXM_155a0699ab_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SLOINXM
 - branch: stable
   date: '2022-10-20'
   downloads:

@@ -259,6 +259,16 @@
     android: '10.0'
     miui: V12.0.17.0.QCDMIXM
 - branch: stable
+  date: '2022-10-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-21.10.2022/fw_dandelion_miui_DANDELIONINGlobal_V12.5.9.0.RCDINXM_edd537581d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.5.9.0.RCDINXM_edd537581d_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.5.9.0.RCDINXM_edd537581d_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.9.0.RCDINXM
+- branch: stable
   date: '2022-07-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-20.07.2022/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.7.0.RCZMIXM_d6edf0f10f_11.0.zip
