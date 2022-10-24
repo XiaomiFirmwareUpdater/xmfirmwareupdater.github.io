@@ -24708,6 +24708,16 @@
   versions:
     android: '7.0'
     miui: 8.4.12
+- branch: stable
+  date: '2022-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-24.10.2022/fw_ice_miui_ICEGlobal_V13.0.11.0.SGMMIXM_2666bc2bf7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEGlobal_V13.0.11.0.SGMMIXM_2666bc2bf7_12.0.zip
+  filename: fw_ice_miui_ICEGlobal_V13.0.11.0.SGMMIXM_2666bc2bf7_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SGMMIXM
 - branch: weekly
   date: '2019-07-29'
   downloads:
@@ -48548,6 +48558,16 @@
   versions:
     android: '12.0'
     miui: V13.0.8.0.SKFMIXM
+- branch: stable
+  date: '2022-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-24.10.2022/fw_sweet_miui_SWEETGlobal_V13.0.14.0.SKFMIXM_8b77a32f09_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.14.0.SKFMIXM_8b77a32f09_12.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V13.0.14.0.SKFMIXM_8b77a32f09_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.14.0.SKFMIXM
 - branch: stable
   date: '2021-09-22'
   downloads:
