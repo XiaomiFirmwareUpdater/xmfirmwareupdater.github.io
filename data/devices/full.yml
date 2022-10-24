@@ -15609,16 +15609,6 @@
     android: '12.0'
     miui: V13.0.19.0.SLCEUXM
 - branch: stable
-  date: '2022-09-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-14.09.2022/fw_cupid_miui_CUPID_V13.0.39.0.SLCCNXM_1edd850a3a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPID_V13.0.39.0.SLCCNXM_1edd850a3a_12.0.zip
-  filename: fw_cupid_miui_CUPID_V13.0.39.0.SLCCNXM_1edd850a3a_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.39.0.SLCCNXM
-- branch: stable
   date: '2022-10-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-13.10.2022/fw_cupid_miui_CUPID_V13.0.41.0.SLCCNXM_6e6b170502_12.0.zip
@@ -20128,6 +20118,16 @@
   versions:
     android: '11.0'
     miui: V12.5.10.0.RGBCNXM
+- branch: stable
+  date: '2022-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-24.10.2022/fw_evergo_miui_EVERGOINGlobal_V13.0.6.0.SGBINXM_35805d8bfa_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergo/fw_evergo_miui_EVERGOINGlobal_V13.0.6.0.SGBINXM_35805d8bfa_12.0.zip
+  filename: fw_evergo_miui_EVERGOINGlobal_V13.0.6.0.SGBINXM_35805d8bfa_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SGBINXM
 - branch: stable
   date: '2021-12-16'
   downloads:
@@ -46239,6 +46239,16 @@
     android: '11.0'
     miui: V12.5.3.0.RKUINXM
 - branch: stable
+  date: '2022-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-24.10.2022/fw_selene_miui_SELENEINGlobal_V13.0.4.0.SKUINXM_20413cc94c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selene/fw_selene_miui_SELENEINGlobal_V13.0.4.0.SKUINXM_20413cc94c_12.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V13.0.4.0.SKUINXM_20413cc94c_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKUINXM
+- branch: stable
   date: '2021-12-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-23.12.2021/fw_selene_miui_SELENEINGlobal_V12.5.5.0.RKUINXM_f37d4db281_11.0.zip
@@ -48968,6 +48978,16 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SLIEUXM
+- branch: stable
+  date: '2022-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-24.10.2022/fw_thor_miui_THOR_V13.0.11.0.SLACNXM_bc8999b368_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thor/fw_thor_miui_THOR_V13.0.11.0.SLACNXM_bc8999b368_12.0.zip
+  filename: fw_thor_miui_THOR_V13.0.11.0.SLACNXM_bc8999b368_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SLACNXM
 - branch: stable
   date: '2022-09-22'
   downloads:
@@ -55438,6 +55458,26 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SKBEUXM
+- branch: stable
+  date: '2022-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-24.10.2022/fw_venus_miui_VENUSEEAGlobal_V13.0.8.0.SKBEUXM_b2daee3825_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/venus/fw_venus_miui_VENUSEEAGlobal_V13.0.8.0.SKBEUXM_b2daee3825_12.0.zip
+  filename: fw_venus_miui_VENUSEEAGlobal_V13.0.8.0.SKBEUXM_b2daee3825_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SKBEUXM
+- branch: stable
+  date: '2022-10-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-24.10.2022/fw_venus_miui_VENUSGlobal_V13.0.5.0.SKBMIXM_bf2d1f590e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/venus/fw_venus_miui_VENUSGlobal_V13.0.5.0.SKBMIXM_bf2d1f590e_12.0.zip
+  filename: fw_venus_miui_VENUSGlobal_V13.0.5.0.SKBMIXM_bf2d1f590e_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SKBMIXM
 - branch: stable
   date: '2022-02-24'
   downloads:

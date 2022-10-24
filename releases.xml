@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 24 Oct 2022 19:33:41 +0900</pubDate>
+  <pubDate>Tue, 25 Oct 2022 03:22:50 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 (venus) - V13.0.5.0.SKBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Tue, 25 Oct 2022 03:22:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 (venus) - V13.0.8.0.SKBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
+    <pubDate>Tue, 25 Oct 2022 02:57:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12S Ultra (thor) - V13.0.11.0.SLACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
+    <pubDate>Tue, 25 Oct 2022 02:31:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.4.0.SKUINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Tue, 25 Oct 2022 02:02:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V13.0.6.0.SGBINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
+    <pubDate>Tue, 25 Oct 2022 01:45:02 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro (sweet) - V13.0.14.0.SKFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
@@ -80,31 +105,6 @@
     <title>Xiaomi 12 Pro (zeus) - V13.0.9.0.SLBINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
     <pubDate>Thu, 20 Oct 2022 02:54:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V13.0.4.0.SGICMXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
-    <pubDate>Thu, 20 Oct 2022 02:15:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S (mayfly) - V13.0.20.0.SLTCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
-    <pubDate>Thu, 20 Oct 2022 02:13:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V13.0.6.0.SKAMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Wed, 19 Oct 2022 20:32:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V13.0.9.0.SKAEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Wed, 19 Oct 2022 19:52:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Pro (matisse) - V13.0.26.0.SLKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
-    <pubDate>Wed, 19 Oct 2022 01:53:02 +0900</pubDate>
   </item>
     </channel>
 </rss>
