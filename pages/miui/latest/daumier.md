@@ -54,7 +54,7 @@ permalink: /miui/daumier/
                 <tbody>
                 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SLGCNXM</td><td>12.0</td><td>7.5 GB</td><td>2022-07-09</td><td><a href="/miui/daumier/stable/V13.0.8.0.SLGCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SLGCNXM</td><td>12.0</td><td>5.5 GB</td><td>2022-07-12</td><td><a href="/miui/daumier/stable/V13.0.8.0.SLGCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.13.0.SLGCNXM</td><td>12.0</td><td>5.5 GB</td><td>2022-08-03</td><td><a href="/miui/daumier/stable beta/V13.0.13.0.SLGCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.15.0.SLGCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-10-20</td><td><a href="/miui/daumier/stable beta/V13.0.15.0.SLGCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
