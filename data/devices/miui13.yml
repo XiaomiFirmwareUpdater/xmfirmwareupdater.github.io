@@ -4092,6 +4092,12 @@
   version: V13.0.8.0.RKCMIXM
 - android: '12.0'
   codename: veux
+  date: '2022-10-25'
+  download: https://bigota.d.miui.com/V13.0.4.0.SKCMIXM/fw_veux_miui_VEUXGlobal_V13.0.4.0.SKCMIXM_6d83ad06f5_12.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V13.0.4.0.SKCMIXM
+- android: '12.0'
+  codename: veux
   date: '2022-08-24'
   download: https://bigota.d.miui.com/V13.0.2.0.SKCMIXM/fw_veux_miui_VEUXGlobal_V13.0.2.0.SKCMIXM_c5beaf970b_12.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
