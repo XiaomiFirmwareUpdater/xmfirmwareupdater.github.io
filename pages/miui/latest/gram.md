@@ -54,7 +54,7 @@ permalink: /miui/gram/
                 <tbody>
                 <tr><td>POCO M2 Pro India</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RJPINXM</td><td>11.0</td><td>3.2 GB</td><td>2022-05-05</td><td><a href="/miui/gram/stable/V12.5.6.0.RJPINXM/">Download</a></td></tr>
 <tr><td>POCO M2 Pro India</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RJPINXM</td><td>11.0</td><td>2.7 GB</td><td>2022-05-11</td><td><a href="/miui/gram/stable/V12.5.6.0.RJPINXM/">Download</a></td></tr>
-<tr><td>POCO M2 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJPINXM</td><td>11.0</td><td>2.5 GB</td><td>2021-08-20</td><td><a href="/miui/gram/stable beta/V12.0.1.0.RJPINXM/">Download</a></td></tr>
+<tr><td>POCO M2 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJPINXM</td><td>12.0</td><td>2.8 GB</td><td>2022-10-19</td><td><a href="/miui/gram/stable beta/V13.0.1.0.SJPINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
