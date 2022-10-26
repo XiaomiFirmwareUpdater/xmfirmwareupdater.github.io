@@ -1068,6 +1068,12 @@
   version: V13.0.6.0.SLCMIXM
 - android: '12.0'
   codename: curtana
+  date: '2022-10-26'
+  download: https://bigota.d.miui.com/V13.0.1.0.SJWINXM/fw_curtana_miui_CURTANAINGlobal_V13.0.1.0.SJWINXM_4f4001113c_12.0.zip
+  name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
+  version: V13.0.1.0.SJWINXM
+- android: '12.0'
+  codename: curtana
   date: '2022-08-26'
   download: https://bigota.d.miui.com/V13.0.1.0.SJWEUXM/fw_curtana_miui_CURTANAEEAGlobal_V13.0.1.0.SJWEUXM_44e291fc10_12.0.zip
   name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
@@ -1288,6 +1294,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.2.0.SGBEUXM_d04d0a12c6_12.0.zip
   name: POCO M4 Pro 5G
   version: V13.0.2.0.SGBEUXM
+- android: '12.0'
+  codename: excalibur
+  date: '2022-10-26'
+  download: https://bigota.d.miui.com/V13.0.1.0.SJXINXM/fw_excalibur_miui_EXCALIBURINGlobal_V13.0.1.0.SJXINXM_633ac15edc_12.0.zip
+  name: Redmi Note 9 Pro Max
+  version: V13.0.1.0.SJXINXM
 - android: '12.0'
   codename: fleur
   date: '2022-07-28'
