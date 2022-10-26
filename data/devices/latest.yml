@@ -1709,6 +1709,16 @@
     android: '12.0'
     miui: V13.0.11.0.SGMMIXM
 - branch: stable
+  date: '2022-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-26.10.2022/fw_ice_miui_ICEEEAGlobal_V13.0.3.0.SGMEUXM_70b71b516b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.3.0.SGMEUXM_70b71b516b_12.0.zip
+  filename: fw_ice_miui_ICEEEAGlobal_V13.0.3.0.SGMEUXM_70b71b516b_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SGMEUXM
+- branch: stable
   date: '2019-07-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ido/releases/download/stable-20.07.2018/fw_ido_miui_HM3_V9.5.2.0.LAICNFA_e9f02ecf96_5.1.zip
@@ -3979,15 +3989,15 @@
     android: '12.0'
     miui: V13.0.4.0.SLIMIXM
 - branch: stable
-  date: '2022-08-12'
+  date: '2022-10-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-12.08.2022/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.7.0.SLIEUXM_2202d0e1ea_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.7.0.SLIEUXM_2202d0e1ea_12.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.7.0.SLIEUXM_2202d0e1ea_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-26.10.2022/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.11.0.SLIEUXM_32ef8ef033_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.11.0.SLIEUXM_32ef8ef033_12.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.11.0.SLIEUXM_32ef8ef033_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SLIEUXM
+    miui: V13.0.11.0.SLIEUXM
 - branch: stable
   date: '2022-10-24'
   downloads:

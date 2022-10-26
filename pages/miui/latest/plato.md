@@ -62,7 +62,7 @@ permalink: /miui/plato/
 <tr><td>Xiaomi 12T Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLQTRXM</td><td>12.0</td><td>6.4 GB</td><td>2022-09-20</td><td><a href="/miui/plato/stable/V13.0.3.0.SLQTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLQTRXM</td><td>12.0</td><td>4.5 GB</td><td>2022-10-06</td><td><a href="/miui/plato/stable/V13.0.3.0.SLQTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLQTWXM</td><td>12.0</td><td>346 Bytes</td><td>2022-10-08</td><td><a href="/miui/plato/stable/V13.0.3.0.SLQTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLQTWXM</td><td>12.0</td><td>4.5 GB</td><td>None</td><td><a href="/miui/plato/stable/V13.0.3.0.SLQTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLQTWXM</td><td>12.0</td><td>4.5 GB</td><td>2022-10-26</td><td><a href="/miui/plato/stable/V13.0.3.0.SLQTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
