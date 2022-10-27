@@ -1,20 +1,35 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 27 Oct 2022 20:22:12 +0900</pubDate>
+  <pubDate>Fri, 28 Oct 2022 03:03:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
-    <title>Redmi Note 11 NFC (spesn) - V13.0.12.0.RGKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
-    <pubDate>Thu, 27 Oct 2022 20:22:12 +0900</pubDate>
+    <title>Xiaomi Civi 2 (ziyi) - V13.0.7.0.SLLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
+    <pubDate>Fri, 28 Oct 2022 03:03:23 +0900</pubDate>
   </item>
     <item>
     <title>Xiaomi 12T (plato) - V13.0.8.0.SLQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
-    <pubDate>Thu, 27 Oct 2022 20:01:50 +0900</pubDate>
+    <pubDate>Fri, 28 Oct 2022 02:30:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.5.0.SGMEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ice</link>
+    <pubDate>Fri, 28 Oct 2022 02:02:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V13.1.7.0.SLZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
+    <pubDate>Fri, 28 Oct 2022 01:51:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 NFC (spesn) - V13.0.12.0.RGKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
+    <pubDate>Thu, 27 Oct 2022 20:22:12 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.10.0.SJSEUXM</title>
@@ -90,21 +105,6 @@
     <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.4.0.SKUINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
     <pubDate>Tue, 25 Oct 2022 02:02:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V13.0.6.0.SGBINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
-    <pubDate>Tue, 25 Oct 2022 01:45:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro (sweet) - V13.0.14.0.SKFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Mon, 24 Oct 2022 19:33:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.11.0.SGMMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ice</link>
-    <pubDate>Mon, 24 Oct 2022 19:32:22 +0900</pubDate>
   </item>
     </channel>
 </rss>

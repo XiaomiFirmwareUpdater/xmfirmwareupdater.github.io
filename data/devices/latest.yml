@@ -969,15 +969,15 @@
     android: '12.0'
     miui: V13.0.1.0.SJWINXM
 - branch: stable
-  date: '2022-09-14'
+  date: '2022-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-14.09.2022/fw_dagu_miui_DAGU_V13.1.6.0.SLZCNXM_5549d5509d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/dagu/fw_dagu_miui_DAGU_V13.1.6.0.SLZCNXM_5549d5509d_12.0.zip
-  filename: fw_dagu_miui_DAGU_V13.1.6.0.SLZCNXM_5549d5509d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-27.10.2022/fw_dagu_miui_DAGU_V13.1.7.0.SLZCNXM_19dc3af3c2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/dagu/fw_dagu_miui_DAGU_V13.1.7.0.SLZCNXM_19dc3af3c2_12.0.zip
+  filename: fw_dagu_miui_DAGU_V13.1.7.0.SLZCNXM_19dc3af3c2_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.1.6.0.SLZCNXM
+    miui: V13.1.7.0.SLZCNXM
 - branch: stable
   date: '2021-07-13'
   downloads:
@@ -1709,15 +1709,15 @@
     android: '12.0'
     miui: V13.0.11.0.SGMMIXM
 - branch: stable
-  date: '2022-10-26'
+  date: '2022-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-26.10.2022/fw_ice_miui_ICEEEAGlobal_V13.0.3.0.SGMEUXM_70b71b516b_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.3.0.SGMEUXM_70b71b516b_12.0.zip
-  filename: fw_ice_miui_ICEEEAGlobal_V13.0.3.0.SGMEUXM_70b71b516b_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-27.10.2022/fw_ice_miui_ICEEEAGlobal_V13.0.5.0.SGMEUXM_b7e445c279_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.5.0.SGMEUXM_b7e445c279_12.0.zip
+  filename: fw_ice_miui_ICEEEAGlobal_V13.0.5.0.SGMEUXM_b7e445c279_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SGMEUXM
+    miui: V13.0.5.0.SGMEUXM
 - branch: stable
   date: '2019-07-29'
   downloads:
@@ -3179,15 +3179,15 @@
     android: '12.0'
     miui: V13.0.4.0.SLQMIXM
 - branch: stable
-  date: '2022-10-18'
+  date: '2022-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-18.10.2022/fw_plato_miui_PLATOEEAGlobal_V13.0.6.0.SLQEUXM_20fe6d8f06_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/plato/fw_plato_miui_PLATOEEAGlobal_V13.0.6.0.SLQEUXM_20fe6d8f06_12.0.zip
-  filename: fw_plato_miui_PLATOEEAGlobal_V13.0.6.0.SLQEUXM_20fe6d8f06_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-27.10.2022/fw_plato_miui_PLATOEEAGlobal_V13.0.8.0.SLQEUXM_23f1621cbb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/plato/fw_plato_miui_PLATOEEAGlobal_V13.0.8.0.SLQEUXM_23f1621cbb_12.0.zip
+  filename: fw_plato_miui_PLATOEEAGlobal_V13.0.8.0.SLQEUXM_23f1621cbb_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SLQEUXM
+    miui: V13.0.8.0.SLQEUXM
 - branch: stable
   date: '2021-01-04'
   downloads:
@@ -4799,15 +4799,15 @@
     android: '12.0'
     miui: V13.0.12.0.SLPCNXM
 - branch: stable
-  date: '2022-09-27'
+  date: '2022-10-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-27.09.2022/fw_ziyi_miui_ZIYI_V13.0.1.0.SLLCNXM_e83163b66c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ziyi/fw_ziyi_miui_ZIYI_V13.0.1.0.SLLCNXM_e83163b66c_12.0.zip
-  filename: fw_ziyi_miui_ZIYI_V13.0.1.0.SLLCNXM_e83163b66c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-27.10.2022/fw_ziyi_miui_ZIYI_V13.0.7.0.SLLCNXM_b4a2e44fc3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ziyi/fw_ziyi_miui_ZIYI_V13.0.7.0.SLLCNXM_b4a2e44fc3_12.0.zip
+  filename: fw_ziyi_miui_ZIYI_V13.0.7.0.SLLCNXM_b4a2e44fc3_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SLLCNXM
+    miui: V13.0.7.0.SLLCNXM
 - branch: stable
   date: '2022-09-26'
   downloads:
