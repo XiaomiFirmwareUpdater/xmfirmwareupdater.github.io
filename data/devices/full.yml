@@ -21249,6 +21249,16 @@
     android: '10.0'
     miui: V12.0.5.0.QJSMIXM
 - branch: stable
+  date: '2022-10-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-27.10.2022/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.10.0.SJSEUXM_bf3b7744c7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.10.0.SJSEUXM_bf3b7744c7_12.0.zip
+  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.10.0.SJSEUXM_bf3b7744c7_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SJSEUXM
+- branch: stable
   date: '2021-04-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-27.04.2021/fw_gauguin_miui_GAUGUIN_V12.0.3.0.RJSCNXM_8b1ac130cd_11.0.zip
@@ -47488,6 +47498,16 @@
   versions:
     android: '11.0'
     miui: V13.0.10.0.RGKEUXM
+- branch: stable
+  date: '2022-10-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-27.10.2022/fw_spesn_miui_SPESNGlobal_V13.0.12.0.RGKMIXM_fd69c44717_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spesn/fw_spesn_miui_SPESNGlobal_V13.0.12.0.RGKMIXM_fd69c44717_11.0.zip
+  filename: fw_spesn_miui_SPESNGlobal_V13.0.12.0.RGKMIXM_fd69c44717_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V13.0.12.0.RGKMIXM
 - branch: stable
   date: '2022-02-26'
   downloads:

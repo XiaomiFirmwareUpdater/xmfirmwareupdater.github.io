@@ -1566,6 +1566,12 @@
   version: V13.0.3.0.SJSINXM
 - android: '12.0'
   codename: gauguin
+  date: '2022-10-27'
+  download: https://bigota.d.miui.com/V13.0.10.0.SJSEUXM/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.10.0.SJSEUXM_bf3b7744c7_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V13.0.10.0.SJSEUXM
+- android: '12.0'
+  codename: gauguin
   date: '2022-03-25'
   download: https://bigota.d.miui.com/V13.0.2.0.SJSEUXM/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.2.0.SJSEUXM_9b004dd045_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
@@ -3346,6 +3352,12 @@
   download: https://bigota.d.miui.com/V13.0.10.0.RGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.10.0.RGKEUXM_8239970ccd_11.0.zip
   name: Redmi Note 11 NFC
   version: V13.0.10.0.RGKEUXM
+- android: '11.0'
+  codename: spesn
+  date: '2022-10-27'
+  download: https://bigota.d.miui.com/V13.0.12.0.RGKMIXM/fw_spesn_miui_SPESNGlobal_V13.0.12.0.RGKMIXM_fd69c44717_11.0.zip
+  name: Redmi Note 11 NFC
+  version: V13.0.12.0.RGKMIXM
 - android: '11.0'
   codename: spesn
   date: '2022-02-26'

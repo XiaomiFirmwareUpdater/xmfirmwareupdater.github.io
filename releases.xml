@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 27 Oct 2022 02:14:53 +0900</pubDate>
+  <pubDate>Thu, 27 Oct 2022 20:22:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 NFC (spesn) - V13.0.12.0.RGKMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
+    <pubDate>Thu, 27 Oct 2022 20:22:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12T (plato) - V13.0.8.0.SLQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
+    <pubDate>Thu, 27 Oct 2022 20:01:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.10.0.SJSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Thu, 27 Oct 2022 19:21:32 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.2.0.SKCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
@@ -90,21 +105,6 @@
     <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.11.0.SGMMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ice</link>
     <pubDate>Mon, 24 Oct 2022 19:32:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V13.0.7.0.SKDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Mon, 24 Oct 2022 14:58:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro 5G (enuma) - V13.1.4.0.SKZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/enuma</link>
-    <pubDate>Mon, 24 Oct 2022 14:34:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro Dimensity (daumier) - V13.0.15.0.SLGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/daumier</link>
-    <pubDate>Mon, 24 Oct 2022 14:02:06 +0900</pubDate>
   </item>
     </channel>
 </rss>
