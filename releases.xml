@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 28 Oct 2022 03:03:23 +0900</pubDate>
+  <pubDate>Fri, 28 Oct 2022 13:44:54 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V13.0.4.0.SKLINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Fri, 28 Oct 2022 13:44:54 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Civi 2 (ziyi) - V13.0.7.0.SLLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12S Ultra (thor) - V13.0.11.0.SLACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
     <pubDate>Tue, 25 Oct 2022 02:31:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.4.0.SKUINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Tue, 25 Oct 2022 02:02:57 +0900</pubDate>
   </item>
     </channel>
 </rss>
