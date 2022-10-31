@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 31 Oct 2022 19:45:46 +0900</pubDate>
+  <pubDate>Mon, 31 Oct 2022 20:36:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12 Pro/Pro+/Discovery (ruby) - V13.0.2.0.SMOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ruby</link>
+    <pubDate>Mon, 31 Oct 2022 20:36:01 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M5/Redmi 11 Prime 4G (rock) - V13.0.8.0.SLUINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rock</link>
@@ -100,11 +105,6 @@
     <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.3.0.SGMEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ice</link>
     <pubDate>Wed, 26 Oct 2022 19:39:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro Max (excalibur) - V13.0.1.0.SJXINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/excalibur</link>
-    <pubDate>Wed, 26 Oct 2022 13:24:35 +0900</pubDate>
   </item>
     </channel>
 </rss>

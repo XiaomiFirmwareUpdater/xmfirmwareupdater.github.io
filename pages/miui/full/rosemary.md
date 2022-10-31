@@ -52,9 +52,11 @@ permalink: /archive/miui/rosemary/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10S / Redmi Note 11 SE India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKLINXM</td><td>12.0</td><td>3.3 GB</td><td>2022-10-25</td><td><a href="/miui/rosemary/stable beta/V13.0.4.0.SKLINXM/">Download</a></td></tr>
+                <tr><td>POCO M5S EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SFFEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-10-25</td><td><a href="/miui/rosemary/stable beta/V13.0.2.0.SFFEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S / Redmi Note 11 SE India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKLINXM</td><td>12.0</td><td>3.3 GB</td><td>2022-10-25</td><td><a href="/miui/rosemary/stable beta/V13.0.4.0.SKLINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKLRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-10-19</td><td><a href="/miui/rosemary/stable beta/V13.0.4.0.SKLRUXM/">Download</a></td></tr>
-<tr><td>POCO M5S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SFFRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-10-17</td><td><a href="/miui/rosemary/stable beta/V13.0.3.0.SFFRUXM/">Download</a></td></tr>
+<tr><td>POCO M5S Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SFFRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-10-17</td><td><a href="/miui/rosemary/stable/V13.0.3.0.SFFRUXM/">Download</a></td></tr>
+<tr><td>POCO M5S Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SFFRUXM</td><td>12.0</td><td>5.5 GB</td><td>2022-09-30</td><td><a href="/miui/rosemary/stable/V13.0.3.0.SFFRUXM/">Download</a></td></tr>
 <tr><td>POCO M5S Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SFFRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-10-14</td><td><a href="/miui/rosemary/stable/V13.0.2.0.SFFRUXM/">Download</a></td></tr>
 <tr><td>POCO M5S Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SFFRUXM</td><td>12.0</td><td>5.5 GB</td><td>2022-08-10</td><td><a href="/miui/rosemary/stable/V13.0.2.0.SFFRUXM/">Download</a></td></tr>
 <tr><td>POCO M5S Global</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SFFMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-10-08</td><td><a href="/miui/rosemary/stable/V13.0.4.0.SFFMIXM/">Download</a></td></tr>
