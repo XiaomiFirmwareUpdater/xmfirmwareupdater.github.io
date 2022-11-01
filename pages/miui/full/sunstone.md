@@ -1,15 +1,15 @@
 ---
-title: Xiaomi Pad 5 Pro Wi-Fi (elish) MIUI Downloads
+title: Redmi Note 12 (sunstone) MIUI Downloads
 layout: download
-name: Xiaomi Pad 5 Pro Wi-Fi
-codename: elish
-permalink: /miui/elish/
+name: Redmi Note 12
+codename: sunstone
+permalink: /archive/miui/sunstone/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/elish/">Xiaomi Pad 5 Pro Wi-Fi</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/sunstone/">Redmi Note 12</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /miui/elish/
     </button>
 </div>
 
-### Latest MIUI Official ROMs
+### MIUI Official ROMs Archive
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/elish/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/elish/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/elish/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/miui/sunstone/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/sunstone/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/sunstone/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,9 @@ permalink: /miui/elish/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.RKYCNXM</td><td>11.0</td><td>4.6 GB</td><td>2022-05-19</td><td><a href="/miui/elish/stable/V13.0.10.0.RKYCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.RKYCNXM</td><td>11.0</td><td>3.8 GB</td><td>2022-05-26</td><td><a href="/miui/elish/stable/V13.0.10.0.RKYCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-09-30</td><td><a href="/miui/elish/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>22.3.24</td><td>11.0</td><td>3.7 GB</td><td>2022-03-24</td><td><a href="/miui/elish/weekly/22.3.24/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SMQCNXM</td><td>12.0</td><td>4.5 GB</td><td>2022-11-01</td><td><a href="/miui/sunstone/stable beta/V13.0.2.0.SMQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 China</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SMQCNXM</td><td>12.0</td><td>4.5 GB</td><td>2022-11-01</td><td><a href="/miui/sunstone/stable/V13.0.3.0.SMQCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SMQCNXM</td><td>12.0</td><td>5.7 GB</td><td>2022-10-24</td><td><a href="/miui/sunstone/stable/V13.0.3.0.SMQCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 01 Nov 2022 19:58:26 +0900</pubDate>
+  <pubDate>Wed, 02 Nov 2022 02:20:49 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Lite (taoyao) - V13.0.13.0.SLIEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
+    <pubDate>Wed, 02 Nov 2022 02:20:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 (sunstone) - V13.0.2.0.SMQCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
+    <pubDate>Wed, 02 Nov 2022 01:52:23 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 (cupid) - V13.0.10.0.SLCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
@@ -95,16 +105,6 @@
     <title>Redmi 10X Pro (bomb) - V13.0.4.0.SJLCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/bomb</link>
     <pubDate>Thu, 27 Oct 2022 01:29:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V13.0.4.0.SJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Thu, 27 Oct 2022 01:28:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Lite (taoyao) - V13.0.11.0.SLIEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
-    <pubDate>Wed, 26 Oct 2022 20:15:26 +0900</pubDate>
   </item>
     </channel>
 </rss>
