@@ -62,7 +62,7 @@ permalink: /miui/cupid/
 <tr><td>Xiaomi 12 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.21.0.SLCEUXM</td><td>12.0</td><td>4.2 GB</td><td>2022-09-19</td><td><a href="/miui/cupid/stable beta/V13.0.21.0.SLCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SLCMIXM</td><td>12.0</td><td>5.9 GB</td><td>2022-07-18</td><td><a href="/miui/cupid/stable/V13.0.8.0.SLCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SLCMIXM</td><td>12.0</td><td>4.0 GB</td><td>2022-07-26</td><td><a href="/miui/cupid/stable/V13.0.8.0.SLCMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.TLCMIXM</td><td>13.0</td><td>4.5 GB</td><td>2022-08-15</td><td><a href="/miui/cupid/stable beta/V13.0.4.0.TLCMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.10.0.SLCMIXM</td><td>12.0</td><td>4.0 GB</td><td>2022-10-28</td><td><a href="/miui/cupid/stable beta/V13.0.10.0.SLCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLCIDXM</td><td>12.0</td><td>5.6 GB</td><td>2022-04-20</td><td><a href="/miui/cupid/stable/V13.0.2.0.SLCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLCIDXM</td><td>12.0</td><td>4.1 GB</td><td>2022-04-26</td><td><a href="/miui/cupid/stable/V13.0.2.0.SLCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLCRUXM</td><td>12.0</td><td>5.3 GB</td><td>2022-04-21</td><td><a href="/miui/cupid/stable/V13.0.2.0.SLCRUXM/">Download</a></td></tr>
