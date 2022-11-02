@@ -3919,15 +3919,15 @@
     android: '12.0'
     miui: V13.0.9.0.SKAEUXM
 - branch: stable
-  date: '2022-06-02'
+  date: '2022-11-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-02.06.2022/fw_star_miui_STARINGlobal_V13.0.3.0.SKAINXM_ec136981c6_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STARINGlobal_V13.0.3.0.SKAINXM_ec136981c6_12.0.zip
-  filename: fw_star_miui_STARINGlobal_V13.0.3.0.SKAINXM_ec136981c6_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-02.11.2022/fw_star_miui_STARINGlobal_V13.0.5.0.SKAINXM_b4b97ab767_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STARINGlobal_V13.0.5.0.SKAINXM_b4b97ab767_12.0.zip
+  filename: fw_star_miui_STARINGlobal_V13.0.5.0.SKAINXM_b4b97ab767_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SKAINXM
+    miui: V13.0.5.0.SKAINXM
 - branch: stable
   date: '2022-11-01'
   downloads:
