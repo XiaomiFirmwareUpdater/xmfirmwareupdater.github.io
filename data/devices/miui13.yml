@@ -4643,6 +4643,12 @@
   name: Redmi Pad
   version: V13.1.2.0.SLYINXM
 - android: '12.0'
+  codename: yunluo
+  date: '2022-11-02'
+  download: https://bigota.d.miui.com/V13.1.2.0.SLYCNXM/fw_yunluo_miui_YUNLUO_V13.1.2.0.SLYCNXM_bf28944afa_12.0.zip
+  name: Redmi Pad
+  version: V13.1.2.0.SLYCNXM
+- android: '12.0'
   codename: zeus
   date: '2021-12-31'
   download: https://bigota.d.miui.com/V13.0.10.0.SLBCNXM/fw_zeus_miui_ZEUS_V13.0.10.0.SLBCNXM_310771d8cf_12.0.zip

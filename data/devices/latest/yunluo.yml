@@ -9,6 +9,16 @@
     android: '12.0'
     miui: V13.1.4.0.SLYMIXM
 - branch: stable
+  date: '2022-11-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-03.11.2022/fw_yunluo_miui_YUNLUO_V13.1.2.0.SLYCNXM_bf28944afa_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/yunluo/fw_yunluo_miui_YUNLUO_V13.1.2.0.SLYCNXM_bf28944afa_12.0.zip
+  filename: fw_yunluo_miui_YUNLUO_V13.1.2.0.SLYCNXM_bf28944afa_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.1.2.0.SLYCNXM
+- branch: stable
   date: '2022-10-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-06.10.2022/fw_yunluo_miui_YUNLUOEEAGlobal_V13.1.2.0.SLYEUXM_2cf3e2e6b4_12.0.zip
