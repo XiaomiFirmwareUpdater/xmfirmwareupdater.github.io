@@ -52,7 +52,8 @@ permalink: /archive/miui/elish/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-09-30</td><td><a href="/miui/elish/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable Beta</td><td>Recovery</td><td>V13.1.4.0.SKYCNXM</td><td>12.0</td><td>4.3 GB</td><td>2022-11-01</td><td><a href="/miui/elish/stable beta/V13.1.4.0.SKYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-09-30</td><td><a href="/miui/elish/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.19.DEV</td><td>12.0</td><td>4.2 GB</td><td>2022-09-23</td><td><a href="/miui/elish/public beta/V13.1.22.9.19.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.12.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-09-16</td><td><a href="/miui/elish/public beta/V13.1.22.9.12.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-09-09</td><td><a href="/miui/elish/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>

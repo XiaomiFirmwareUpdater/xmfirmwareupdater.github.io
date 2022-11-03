@@ -28,13 +28,3 @@
   versions:
     android: '11.0'
     miui: V13.0.9.0.RGFMIXM
-- branch: stable
-  date: '2022-07-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-04.07.2022/fw_frost_miui_FROSTGlobal_V13.0.7.0.RGFMIXM_c49bad625d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTGlobal_V13.0.7.0.RGFMIXM_c49bad625d_11.0.zip
-  filename: fw_frost_miui_FROSTGlobal_V13.0.7.0.RGFMIXM_c49bad625d_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V13.0.7.0.RGFMIXM

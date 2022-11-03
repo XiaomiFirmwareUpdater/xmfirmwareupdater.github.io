@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 03 Nov 2022 07:44:13 +0900</pubDate>
+  <pubDate>Thu, 03 Nov 2022 19:49:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi Note 10 Lite (toco) - V13.0.4.0.SFNMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
+    <pubDate>Thu, 03 Nov 2022 19:49:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V13.1.4.0.SKYCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
+    <pubDate>Thu, 03 Nov 2022 19:48:16 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Pad (yunluo) - V13.1.2.0.SLYCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 11 NFC (spesn) - V13.0.12.0.RGKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
     <pubDate>Thu, 27 Oct 2022 20:22:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.10.0.SJSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Thu, 27 Oct 2022 19:21:32 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.2.0.SKCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
-    <pubDate>Thu, 27 Oct 2022 02:14:53 +0900</pubDate>
   </item>
     </channel>
 </rss>

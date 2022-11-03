@@ -102,12 +102,6 @@
   version: V13.0.6.0.SKHINXM
 - android: '12.0'
   codename: alioth
-  date: '2022-06-19'
-  download: https://bigota.d.miui.com/V13.0.6.0.SKHCNXM/fw_alioth_miui_ALIOTH_V13.0.6.0.SKHCNXM_fffc42bed6_12.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: V13.0.6.0.SKHCNXM
-- android: '12.0'
-  codename: alioth
   date: '2022-05-18'
   download: https://bigota.d.miui.com/V13.0.3.0.SKHMIXM/fw_alioth_miui_ALIOTHGlobal_V13.0.3.0.SKHMIXM_07afcb74cd_12.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -118,12 +112,6 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SKHCNXM/fw_alioth_miui_ALIOTH_V13.0.3.0.SKHCNXM_e8bfbd2b85_12.0.zip
   name: Redmi K40/POCO F3/Mi 11X
   version: V13.0.3.0.SKHCNXM
-- android: '12.0'
-  codename: alioth
-  date: '2022-07-18'
-  download: https://bigota.d.miui.com/V13.0.7.0.SKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_V13.0.7.0.SKHEUXM_0bb6fa8e96_12.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: V13.0.7.0.SKHEUXM
 - android: '12.0'
   codename: alioth
   date: '2022-04-18'
@@ -144,12 +132,6 @@
   version: V13.0.8.0.SKHINXM
 - android: '12.0'
   codename: alioth
-  date: '2022-07-14'
-  download: https://bigota.d.miui.com/V13.0.7.0.SKHINXM/fw_alioth_miui_ALIOTHINGlobal_V13.0.7.0.SKHINXM_2feb5d3904_12.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: V13.0.7.0.SKHINXM
-- android: '12.0'
-  codename: alioth
   date: '2022-04-13'
   download: https://bigota.d.miui.com/V13.0.4.0.SKHINXM/fw_alioth_miui_ALIOTHINGlobal_V13.0.4.0.SKHINXM_276654c47c_12.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -166,12 +148,6 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_V13.0.3.0.SKHEUXM_9a5f825866_12.0.zip
   name: Redmi K40/POCO F3/Mi 11X
   version: V13.0.3.0.SKHEUXM
-- android: '12.0'
-  codename: alioth
-  date: '2022-07-07'
-  download: https://bigota.d.miui.com/V13.0.4.0.SKHMIXM/fw_alioth_miui_ALIOTHGlobal_V13.0.4.0.SKHMIXM_51d01dba0d_12.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: V13.0.4.0.SKHMIXM
 - android: '12.0'
   codename: alioth
   date: '2022-01-05'
@@ -292,12 +268,6 @@
   download: https://bigota.d.miui.com/V13.0.6.0.SJDMIXM/fw_apollo_miui_APOLLOGlobal_V13.0.6.0.SJDMIXM_40c6c78c8f_12.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
   version: V13.0.6.0.SJDMIXM
-- android: '12.0'
-  codename: apollo
-  date: '2022-06-02'
-  download: https://bigota.d.miui.com/V13.0.5.0.SJDCNXM/fw_apollo_miui_APOLLO_V13.0.5.0.SJDCNXM_efb1ee6473_12.0.zip
-  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
-  version: V13.0.5.0.SJDCNXM
 - android: '12.0'
   codename: ares
   date: '2022-03-25'
@@ -912,12 +882,6 @@
   version: V13.0.6.0.SKQEUXM
 - android: '12.0'
   codename: courbet
-  date: '2022-06-19'
-  download: https://bigota.d.miui.com/V13.0.8.0.SKQMIXM/fw_courbet_miui_COURBETGlobal_V13.0.8.0.SKQMIXM_1dc23745d5_12.0.zip
-  name: Mi 11 Lite 4G
-  version: V13.0.8.0.SKQMIXM
-- android: '12.0'
-  codename: courbet
   date: '2022-04-19'
   download: https://bigota.d.miui.com/V13.0.4.0.SKQEUXM/fw_courbet_miui_COURBETEEAGlobal_V13.0.4.0.SKQEUXM_03879a39c4_12.0.zip
   name: Mi 11 Lite 4G
@@ -940,12 +904,6 @@
   download: https://bigota.d.miui.com/V13.0.5.0.SKQINXM/fw_courbet_miui_COURBETINGlobal_V13.0.5.0.SKQINXM_190449e833_12.0.zip
   name: Mi 11 Lite 4G
   version: V13.0.5.0.SKQINXM
-- android: '12.0'
-  codename: courbet
-  date: '2022-06-06'
-  download: https://bigota.d.miui.com/V13.0.3.0.SKQINXM/fw_courbet_miui_COURBETINGlobal_V13.0.3.0.SKQINXM_bdb6ed8c2a_12.0.zip
-  name: Mi 11 Lite 4G
-  version: V13.0.3.0.SKQINXM
 - android: '12.0'
   codename: courbet
   date: '2022-04-06'
@@ -1000,12 +958,6 @@
   download: https://bigota.d.miui.com/V13.0.7.0.SLCMIXM/fw_cupid_miui_CUPIDGlobal_V13.0.7.0.SLCMIXM_7dc17b4278_12.0.zip
   name: Xiaomi 12
   version: V13.0.7.0.SLCMIXM
-- android: '12.0'
-  codename: cupid
-  date: '2022-09-22'
-  download: https://bigota.d.miui.com/V13.0.20.0.SLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V13.0.20.0.SLCEUXM_72c51dff0b_12.0.zip
-  name: Xiaomi 12
-  version: V13.0.20.0.SLCEUXM
 - android: '12.0'
   codename: cupid
   date: '2022-01-19'
@@ -1121,12 +1073,6 @@
   name: Xiaomi Pad 5 Pro 12.4
   version: V13.1.4.0.SLZCNXM
 - android: '12.0'
-  codename: dagu
-  date: '2022-09-14'
-  download: https://bigota.d.miui.com/V13.1.6.0.SLZCNXM/fw_dagu_miui_DAGU_V13.1.6.0.SLZCNXM_5549d5509d_12.0.zip
-  name: Xiaomi Pad 5 Pro 12.4
-  version: V13.1.6.0.SLZCNXM
-- android: '12.0'
   codename: daumier
   date: '2022-10-24'
   download: https://bigota.d.miui.com/V13.0.15.0.SLGCNXM/fw_daumier_miui_DAUMIER_V13.0.15.0.SLGCNXM_dc1f650281_12.0.zip
@@ -1158,22 +1104,10 @@
   version: V13.0.5.0.SLFCNXM
 - android: '12.0'
   codename: diting
-  date: '2022-08-21'
-  download: https://bigota.d.miui.com/V13.0.4.1.SLFCNXM/fw_diting_miui_DITING_V13.0.4.1.SLFCNXM_bef6cdcdd4_12.0.zip
-  name: Redmi K50 Ultra/Xiaomi 12T Pro
-  version: V13.0.4.1.SLFCNXM
-- android: '12.0'
-  codename: diting
   date: '2022-09-19'
   download: https://bigota.d.miui.com/V13.0.7.0.SLFCNXM/fw_diting_miui_DITING_V13.0.7.0.SLFCNXM_c3f9ad188c_12.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V13.0.7.0.SLFCNXM
-- android: '12.0'
-  codename: diting
-  date: '2022-08-15'
-  download: https://bigota.d.miui.com/V13.0.4.0.SLFCNXM/fw_diting_miui_DITING_V13.0.4.0.SLFCNXM_bf9950ede1_12.0.zip
-  name: Redmi K50 Ultra/Xiaomi 12T Pro
-  version: V13.0.4.0.SLFCNXM
 - android: '12.0'
   codename: diting
   date: '2022-10-13'
@@ -1222,6 +1156,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.RKYCNXM/fw_elish_miui_ELISH_V13.0.6.0.RKYCNXM_141e846f06_11.0.zip
   name: Xiaomi Pad 5 Pro Wi-Fi
   version: V13.0.6.0.RKYCNXM
+- android: '12.0'
+  codename: elish
+  date: '2022-11-03'
+  download: https://bigota.d.miui.com/V13.1.4.0.SKYCNXM/fw_elish_miui_ELISH_V13.1.4.0.SKYCNXM_957fc20cf8_12.0.zip
+  name: Xiaomi Pad 5 Pro Wi-Fi
+  version: V13.1.4.0.SKYCNXM
 - android: '12.0'
   codename: enuma
   date: '2022-10-24'
@@ -1368,12 +1308,6 @@
   version: V13.0.7.0.RKEMIXM
 - android: '12.0'
   codename: fleur
-  date: '2022-08-22'
-  download: https://bigota.d.miui.com/V13.0.1.0.SKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.1.0.SKEINXM_2ff63fe343_12.0.zip
-  name: Redmi Note 11S 4G/POCO M4 Pro 4G
-  version: V13.0.1.0.SKEINXM
-- android: '12.0'
-  codename: fleur
   date: '2022-09-19'
   download: https://bigota.d.miui.com/V13.0.6.0.SKEMIXM/fw_fleur_miui_FLEURGlobal_V13.0.6.0.SKEMIXM_d32a407f53_12.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -1414,12 +1348,6 @@
   download: https://bigota.d.miui.com/V13.0.3.0.RKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.3.0.RKEINXM_965c6abe20_11.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.3.0.RKEINXM
-- android: '11.0'
-  codename: fleur
-  date: '2022-07-07'
-  download: https://bigota.d.miui.com/V13.0.8.0.RKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V13.0.8.0.RKEEUXM_50b7a919a1_11.0.zip
-  name: Redmi Note 11S 4G/POCO M4 Pro 4G
-  version: V13.0.8.0.RKEEUXM
 - android: '11.0'
   codename: fog
   date: '2022-08-29'
@@ -1488,12 +1416,6 @@
   version: V13.0.1.0.SGEINXM
 - android: '11.0'
   codename: fog
-  date: '2022-10-13'
-  download: https://bigota.d.miui.com/V13.0.11.0.RGEMIXM/fw_fog_miui_FOGGlobal_V13.0.11.0.RGEMIXM_f0e0b66b70_11.0.zip
-  name: Redmi 10C
-  version: V13.0.11.0.RGEMIXM
-- android: '11.0'
-  codename: fog
   date: '2022-07-02'
   download: https://bigota.d.miui.com/V13.0.4.0.RGEEUXM/fw_fog_miui_FOGEEAGlobal_V13.0.4.0.RGEEUXM_7a53094ff0_11.0.zip
   name: Redmi 10C
@@ -1528,12 +1450,6 @@
   download: https://bigota.d.miui.com/V13.0.9.0.RGFMIXM/fw_frost_miui_FROSTGlobal_V13.0.9.0.RGFMIXM_1f282242db_11.0.zip
   name: POCO C40
   version: V13.0.9.0.RGFMIXM
-- android: '11.0'
-  codename: frost
-  date: '2022-07-04'
-  download: https://bigota.d.miui.com/V13.0.7.0.RGFMIXM/fw_frost_miui_FROSTGlobal_V13.0.7.0.RGFMIXM_c49bad625d_11.0.zip
-  name: POCO C40
-  version: V13.0.7.0.RGFMIXM
 - android: '12.0'
   codename: gauguin
   date: '2022-03-25'
@@ -1642,12 +1558,6 @@
   download: https://bigota.d.miui.com/V13.0.5.0.SJSMIXM/fw_gauguin_miui_GAUGUINGlobal_V13.0.5.0.SJSMIXM_8dbeb7b62b_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: V13.0.5.0.SJSMIXM
-- android: '12.0'
-  codename: gauguin
-  date: '2022-06-09'
-  download: https://bigota.d.miui.com/V13.0.3.0.SJSMIXM/fw_gauguin_miui_GAUGUINGlobal_V13.0.3.0.SJSMIXM_2cc5fc7144_12.0.zip
-  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
-  version: V13.0.3.0.SJSMIXM
 - android: '12.0'
   codename: gauguin
   date: '2022-06-09'
@@ -1828,12 +1738,6 @@
   download: https://bigota.d.miui.com/V13.0.5.0.SLJMIXM/fw_ingres_miui_INGRESGlobal_V13.0.5.0.SLJMIXM_52cd2b50fc_12.0.zip
   name: Redmi K50G/POCO F4 GT
   version: V13.0.5.0.SLJMIXM
-- android: '12.0'
-  codename: ingres
-  date: '2022-06-30'
-  download: https://bigota.d.miui.com/V13.0.10.0.SLJCNXM/fw_ingres_miui_INGRES_V13.0.10.0.SLJCNXM_8fca36d0eb_12.0.zip
-  name: Redmi K50G/POCO F4 GT
-  version: V13.0.10.0.SLJCNXM
 - android: '12.0'
   codename: ingres
   date: '2022-03-25'
@@ -2026,12 +1930,6 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SJQCNXM/fw_lime_miui_LIME_V13.0.2.0.SJQCNXM_83509005a6_12.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
   version: V13.0.2.0.SJQCNXM
-- android: '12.0'
-  codename: lime
-  date: '2022-08-04'
-  download: https://bigota.d.miui.com/V13.0.1.0.SJQCNXM/fw_lime_miui_LIME_V13.0.1.0.SJQCNXM_39a4169de9_12.0.zip
-  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
-  version: V13.0.1.0.SJQCNXM
 - android: '12.0'
   codename: lisa
   date: '2022-03-25'
@@ -2274,12 +2172,6 @@
   version: V13.0.15.0.SLKCNXM
 - android: '12.0'
   codename: mayfly
-  date: '2022-07-26'
-  download: https://bigota.d.miui.com/V13.0.14.0.SLTCNXM/fw_mayfly_miui_MAYFLY_V13.0.14.0.SLTCNXM_ab8b71c9e5_12.0.zip
-  name: Xiaomi 12S
-  version: V13.0.14.0.SLTCNXM
-- android: '12.0'
-  codename: mayfly
   date: '2022-08-22'
   download: https://bigota.d.miui.com/V13.0.18.0.SLTCNXM/fw_mayfly_miui_MAYFLY_V13.0.18.0.SLTCNXM_c58e371576_12.0.zip
   name: Xiaomi 12S
@@ -2302,12 +2194,6 @@
   download: https://bigota.d.miui.com/V13.0.10.0.SLTCNXM/fw_mayfly_miui_MAYFLY_V13.0.10.0.SLTCNXM_23590222e8_12.0.zip
   name: Xiaomi 12S
   version: V13.0.10.0.SLTCNXM
-- android: '12.0'
-  codename: mayfly
-  date: '2022-08-05'
-  download: https://bigota.d.miui.com/V13.0.16.0.SLTCNXM/fw_mayfly_miui_MAYFLY_V13.0.16.0.SLTCNXM_c042c635f3_12.0.zip
-  name: Xiaomi 12S
-  version: V13.0.16.0.SLTCNXM
 - android: '12.0'
   codename: mayfly
   date: '2022-07-05'
@@ -2532,18 +2418,6 @@
   version: V13.0.6.0.RKXINXM
 - android: '12.0'
   codename: nabu
-  date: '2022-09-22'
-  download: https://bigota.d.miui.com/V13.1.1.0.SKXMIXM/fw_nabu_miui_NABUGlobal_V13.1.1.0.SKXMIXM_b2068fecef_12.0.zip
-  name: Xiaomi Pad 5
-  version: V13.1.1.0.SKXMIXM
-- android: '12.0'
-  codename: nabu
-  date: '2022-09-22'
-  download: https://bigota.d.miui.com/V13.1.1.0.SKXINXM/fw_nabu_miui_NABUINGlobal_V13.1.1.0.SKXINXM_3cc44a8315_12.0.zip
-  name: Xiaomi Pad 5
-  version: V13.1.1.0.SKXINXM
-- android: '12.0'
-  codename: nabu
   date: '2022-10-20'
   download: https://bigota.d.miui.com/V13.1.3.0.SKXINXM/fw_nabu_miui_NABUINGlobal_V13.1.3.0.SKXINXM_ed45300d5f_12.0.zip
   name: Xiaomi Pad 5
@@ -2572,12 +2446,6 @@
   download: https://bigota.d.miui.com/V13.0.2.0.RKXMIXM/fw_nabu_miui_NABUGlobal_V13.0.2.0.RKXMIXM_38f4e878d0_11.0.zip
   name: Xiaomi Pad 5
   version: V13.0.2.0.RKXMIXM
-- android: '12.0'
-  codename: nabu
-  date: '2022-09-14'
-  download: https://bigota.d.miui.com/V13.1.2.0.SKXEUXM/fw_nabu_miui_NABUEEAGlobal_V13.1.2.0.SKXEUXM_5d40e294ca_12.0.zip
-  name: Xiaomi Pad 5
-  version: V13.1.2.0.SKXEUXM
 - android: '11.0'
   codename: nabu
   date: '2022-07-12'
@@ -2596,12 +2464,6 @@
   download: https://bigota.d.miui.com/V13.1.3.0.SKXEUXM/fw_nabu_miui_NABUEEAGlobal_V13.1.3.0.SKXEUXM_89a7995777_12.0.zip
   name: Xiaomi Pad 5
   version: V13.1.3.0.SKXEUXM
-- android: '11.0'
-  codename: nabu
-  date: '2022-06-06'
-  download: https://bigota.d.miui.com/V13.0.5.0.RKXINXM/fw_nabu_miui_NABUINGlobal_V13.0.5.0.RKXINXM_147e6f14a6_11.0.zip
-  name: Xiaomi Pad 5
-  version: V13.0.5.0.RKXINXM
 - android: '11.0'
   codename: nabu
   date: '2022-04-06'
@@ -2754,12 +2616,6 @@
   version: 22.3.3
 - android: '12.0'
   codename: phoenix
-  date: '2022-05-24'
-  download: https://bigota.d.miui.com/V13.0.3.0.SGHCNXM/fw_phoenix_miui_PHOENIX_V13.0.3.0.SGHCNXM_acc8f4fc8c_12.0.zip
-  name: Redmi K30 4G
-  version: V13.0.3.0.SGHCNXM
-- android: '12.0'
-  codename: phoenix
   date: '2022-10-09'
   download: https://bigota.d.miui.com/V13.0.6.0.SGHCNXM/fw_phoenix_miui_PHOENIX_V13.0.6.0.SGHCNXM_0b193f263c_12.0.zip
   name: Redmi K30 4G
@@ -2824,18 +2680,6 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SGICMXM/fw_picasso_miui_PICASSO48M_V13.0.1.0.SGICMXM_b232a140ef_12.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
   version: V13.0.1.0.SGICMXM
-- android: '12.0'
-  codename: picasso
-  date: '2022-06-02'
-  download: https://bigota.d.miui.com/V13.0.2.0.SGICNXM/fw_picasso_miui_PICASSO_V13.0.2.0.SGICNXM_67e48545ae_12.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: V13.0.2.0.SGICNXM
-- android: '12.0'
-  codename: picasso
-  date: '2022-05-31'
-  download: https://bigota.d.miui.com/V13.0.2.0.SGICMXM/fw_picasso_miui_PICASSO48M_V13.0.2.0.SGICMXM_95fc67fb9e_12.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: V13.0.2.0.SGICMXM
 - android: '12.0'
   codename: pissarro
   date: '2022-03-25'
@@ -3216,12 +3060,6 @@
   version: V13.0.2.0.SKLINXM
 - android: '12.0'
   codename: rosemary
-  date: '2022-09-05'
-  download: https://bigota.d.miui.com/V13.0.3.0.SKLEUXM/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.3.0.SKLEUXM_ebc300f935_12.0.zip
-  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
-  version: V13.0.3.0.SKLEUXM
-- android: '12.0'
-  codename: rosemary
   date: '2022-11-02'
   download: https://bigota.d.miui.com/V13.0.10.0.SKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V13.0.10.0.SKLMIXM_de547852da_12.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
@@ -3274,12 +3112,6 @@
   download: https://bigota.d.miui.com/V13.0.24.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.24.0.SLNCNXM_231a525b01_12.0.zip
   name: Redmi K50
   version: V13.0.24.0.SLNCNXM
-- android: '12.0'
-  codename: rubens
-  date: '2022-09-13'
-  download: https://bigota.d.miui.com/V13.0.23.0.SLNCNXM/fw_rubens_miui_RUBENS_V13.0.23.0.SLNCNXM_487cdb90aa_12.0.zip
-  name: Redmi K50
-  version: V13.0.23.0.SLNCNXM
 - android: '12.0'
   codename: rubens
   date: '2022-05-08'
@@ -3636,12 +3468,6 @@
   version: V13.0.1.0.SJGMIXM
 - android: '12.0'
   codename: sweet
-  date: '2022-05-30'
-  download: https://bigota.d.miui.com/V13.0.8.0.SKFMIXM/fw_sweet_miui_SWEETGlobal_V13.0.8.0.SKFMIXM_e77693a289_12.0.zip
-  name: Redmi Note 10 Pro
-  version: V13.0.8.0.SKFMIXM
-- android: '12.0'
-  codename: sweet
   date: '2022-10-24'
   download: https://bigota.d.miui.com/V13.0.14.0.SKFMIXM/fw_sweet_miui_SWEETGlobal_V13.0.14.0.SKFMIXM_8b77a32f09_12.0.zip
   name: Redmi Note 10 Pro
@@ -3670,12 +3496,6 @@
   download: https://bigota.d.miui.com/V13.0.8.0.SKFEUXM/fw_sweet_miui_SWEETEEAGlobal_V13.0.8.0.SKFEUXM_690f890203_12.0.zip
   name: Redmi Note 10 Pro
   version: V13.0.8.0.SKFEUXM
-- android: '12.0'
-  codename: sweet
-  date: '2022-08-09'
-  download: https://bigota.d.miui.com/V13.0.12.0.SKFMIXM/fw_sweet_miui_SWEETGlobal_V13.0.12.0.SKFMIXM_bb277eed1f_12.0.zip
-  name: Redmi Note 10 Pro
-  version: V13.0.12.0.SKFMIXM
 - android: '12.0'
   codename: sweet
   date: '2022-05-05'
@@ -3714,18 +3534,6 @@
   version: V13.0.4.0.SLIMIXM
 - android: '12.0'
   codename: taoyao
-  date: '2022-08-12'
-  download: https://bigota.d.miui.com/V13.0.7.0.SLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.7.0.SLIEUXM_2202d0e1ea_12.0.zip
-  name: Xiaomi 12 Lite
-  version: V13.0.7.0.SLIEUXM
-- android: '12.0'
-  codename: taoyao
-  date: '2022-07-11'
-  download: https://bigota.d.miui.com/V13.0.3.0.SLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.3.0.SLIEUXM_5669a58477_12.0.zip
-  name: Xiaomi 12 Lite
-  version: V13.0.3.0.SLIEUXM
-- android: '12.0'
-  codename: taoyao
   date: '2022-07-11'
   download: https://bigota.d.miui.com/V13.0.3.0.SLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V13.0.3.0.SLIMIXM_f804b4f16c_12.0.zip
   name: Xiaomi 12 Lite
@@ -3750,34 +3558,10 @@
   version: V13.0.11.0.SLACNXM
 - android: '12.0'
   codename: thor
-  date: '2022-09-22'
-  download: https://bigota.d.miui.com/V13.0.10.0.SLACNXM/fw_thor_miui_THOR_V13.0.10.0.SLACNXM_e0603f6314_12.0.zip
-  name: Xiaomi 12S Ultra
-  version: V13.0.10.0.SLACNXM
-- android: '12.0'
-  codename: thor
-  date: '2022-07-20'
-  download: https://bigota.d.miui.com/V13.0.5.0.SLACNXM/fw_thor_miui_THOR_V13.0.5.0.SLACNXM_d116c6e07a_12.0.zip
-  name: Xiaomi 12S Ultra
-  version: V13.0.5.0.SLACNXM
-- android: '12.0'
-  codename: thor
   date: '2022-08-12'
   download: https://bigota.d.miui.com/V13.0.8.0.SLACNXM/fw_thor_miui_THOR_V13.0.8.0.SLACNXM_4ea300db1b_12.0.zip
   name: Xiaomi 12S Ultra
   version: V13.0.8.0.SLACNXM
-- android: '12.0'
-  codename: thor
-  date: '2022-08-08'
-  download: https://bigota.d.miui.com/V13.0.7.0.SLACNXM/fw_thor_miui_THOR_V13.0.7.0.SLACNXM_906df558d6_12.0.zip
-  name: Xiaomi 12S Ultra
-  version: V13.0.7.0.SLACNXM
-- android: '12.0'
-  codename: thor
-  date: '2022-09-07'
-  download: https://bigota.d.miui.com/V13.0.9.0.SLACNXM/fw_thor_miui_THOR_V13.0.9.0.SLACNXM_a17161eac8_12.0.zip
-  name: Xiaomi 12S Ultra
-  version: V13.0.9.0.SLACNXM
 - android: '12.0'
   codename: thyme
   date: '2022-03-25'
@@ -3850,6 +3634,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SFNMIXM/fw_toco_miui_TOCOGlobal_V13.0.1.0.SFNMIXM_b856dc7481_12.0.zip
   name: Mi Note 10 Lite
   version: V13.0.1.0.SFNMIXM
+- android: '12.0'
+  codename: toco
+  date: '2022-11-03'
+  download: https://bigota.d.miui.com/V13.0.4.0.SFNMIXM/fw_toco_miui_TOCOGlobal_V13.0.4.0.SFNMIXM_0ae43c3aab_12.0.zip
+  name: Mi Note 10 Lite
+  version: V13.0.4.0.SFNMIXM
 - android: '11.0'
   codename: tucana
   date: '2022-01-21'
@@ -3862,18 +3652,6 @@
   download: https://bigota.d.miui.com/22.3.2/fw_tucana_miui_TUCANA_22.3.2_e735556b82_11.0.zip
   name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
   version: 22.3.2
-- android: '11.0'
-  codename: tucana
-  date: '2022-04-24'
-  download: https://bigota.d.miui.com/V13.0.1.0.RFDEUXM/fw_tucana_miui_TUCANAEEAGlobal_V13.0.1.0.RFDEUXM_5b459eddd7_11.0.zip
-  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
-  version: V13.0.1.0.RFDEUXM
-- android: '11.0'
-  codename: tucana
-  date: '2022-04-24'
-  download: https://bigota.d.miui.com/V13.0.1.0.RFDMIXM/fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
-  name: Mi CC 9 Pro/Mi Note 10/Note 10 Pro
-  version: V13.0.1.0.RFDMIXM
 - android: '11.0'
   codename: tucana
   date: '2022-09-21'
@@ -3966,12 +3744,6 @@
   version: V13.0.4.0.SJBINXM
 - android: '12.0'
   codename: umi
-  date: '2022-07-18'
-  download: https://bigota.d.miui.com/V13.0.6.0.SJBMIXM/fw_umi_miui_UMIGlobal_V13.0.6.0.SJBMIXM_8d2bcb342a_12.0.zip
-  name: Mi 10
-  version: V13.0.6.0.SJBMIXM
-- android: '12.0'
-  codename: umi
   date: '2022-03-15'
   download: https://bigota.d.miui.com/V13.0.4.0.SJBCNXM/fw_umi_miui_UMI_V13.0.4.0.SJBCNXM_30ddc40f25_12.0.zip
   name: Mi 10
@@ -4014,28 +3786,10 @@
   version: V13.0.6.0.SJBEUXM
 - android: '12.0'
   codename: unicorn
-  date: '2022-08-22'
-  download: https://bigota.d.miui.com/V13.0.16.0.SLECNXM/fw_unicorn_miui_UNICORN_V13.0.16.0.SLECNXM_5741181043_12.0.zip
-  name: Xiaomi 12S Pro
-  version: V13.0.16.0.SLECNXM
-- android: '12.0'
-  codename: unicorn
   date: '2022-10-20'
   download: https://bigota.d.miui.com/V13.0.18.0.SLECNXM/fw_unicorn_miui_UNICORN_V13.0.18.0.SLECNXM_e0e8d6a1d1_12.0.zip
   name: Xiaomi 12S Pro
   version: V13.0.18.0.SLECNXM
-- android: '12.0'
-  codename: unicorn
-  date: '2022-08-15'
-  download: https://bigota.d.miui.com/V13.0.12.0.SLECNXM/fw_unicorn_miui_UNICORN_V13.0.12.0.SLECNXM_f4293e0f37_12.0.zip
-  name: Xiaomi 12S Pro
-  version: V13.0.12.0.SLECNXM
-- android: '12.0'
-  codename: unicorn
-  date: '2022-08-08'
-  download: https://bigota.d.miui.com/V13.0.9.0.SLECNXM/fw_unicorn_miui_UNICORN_V13.0.9.0.SLECNXM_702c54672e_12.0.zip
-  name: Xiaomi 12S Pro
-  version: V13.0.9.0.SLECNXM
 - android: '12.0'
   codename: unicorn
   date: '2022-07-07'
@@ -4048,12 +3802,6 @@
   download: https://bigota.d.miui.com/22.3.23/fw_vangogh_miui_VANGOGHPRE_22.3.23_894afff8a6_12.0.zip
   name: Mi 10 Lite Zoom
   version: 22.3.23
-- android: '12.0'
-  codename: vangogh
-  date: '2022-06-28'
-  download: https://bigota.d.miui.com/V13.0.4.0.SJVCNXM/fw_vangogh_miui_VANGOGH_V13.0.4.0.SJVCNXM_633d4b3f95_12.0.zip
-  name: Mi 10 Lite Zoom
-  version: V13.0.4.0.SJVCNXM
 - android: '12.0'
   codename: vangogh
   date: '2022-03-26'
@@ -4078,12 +3826,6 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SJUEUXM/fw_vayu_miui_VAYUEEAGlobal_V13.0.3.0.SJUEUXM_3d47bf4520_12.0.zip
   name: POCO X3 Pro
   version: V13.0.3.0.SJUEUXM
-- android: '12.0'
-  codename: vayu
-  date: '2022-05-24'
-  download: https://bigota.d.miui.com/V13.0.2.0.SJUINXM/fw_vayu_miui_VAYUINGlobal_V13.0.2.0.SJUINXM_78ccbabc43_12.0.zip
-  name: POCO X3 Pro
-  version: V13.0.2.0.SJUINXM
 - android: '12.0'
   codename: vayu
   date: '2022-07-22'
@@ -4372,12 +4114,6 @@
   download: https://bigota.d.miui.com/V13.0.6.0.RKCINXM/fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: V13.0.6.0.RKCINXM
-- android: '11.0'
-  codename: veux
-  date: '2022-07-04'
-  download: https://bigota.d.miui.com/V13.0.8.0.RKCEUXM/fw_veux_miui_VEUXEEAGlobal_V13.0.8.0.RKCEUXM_18a5c18ebb_11.0.zip
-  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
-  version: V13.0.8.0.RKCEUXM
 - android: '12.0'
   codename: vili
   date: '2022-03-26'
@@ -4404,12 +4140,6 @@
   version: V13.0.9.0.SKDEUXM
 - android: '12.0'
   codename: vili
-  date: '2022-08-15'
-  download: https://bigota.d.miui.com/V13.0.14.0.SKDEUXM/fw_vili_miui_VILIEEAGlobal_V13.0.14.0.SKDEUXM_1d005ff615_12.0.zip
-  name: Xiaomi 11T Pro
-  version: V13.0.14.0.SKDEUXM
-- android: '12.0'
-  codename: vili
   date: '2022-10-14'
   download: https://bigota.d.miui.com/V13.0.16.0.SKDEUXM/fw_vili_miui_VILIEEAGlobal_V13.0.16.0.SKDEUXM_16eab93d91_12.0.zip
   name: Xiaomi 11T Pro
@@ -4432,12 +4162,6 @@
   download: https://bigota.d.miui.com/V13.0.8.0.SKDEUXM/fw_vili_miui_VILIEEAGlobal_V13.0.8.0.SKDEUXM_5142aa18f5_12.0.zip
   name: Xiaomi 11T Pro
   version: V13.0.8.0.SKDEUXM
-- android: '12.0'
-  codename: vili
-  date: '2022-09-06'
-  download: https://bigota.d.miui.com/V13.0.15.0.SKDEUXM/fw_vili_miui_VILIEEAGlobal_V13.0.15.0.SKDEUXM_0a742cb6de_12.0.zip
-  name: Xiaomi 11T Pro
-  version: V13.0.15.0.SKDEUXM
 - android: '12.0'
   codename: vili
   date: '2022-04-06'
@@ -4468,12 +4192,6 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SGDEUXM/fw_viva_miui_VIVAEEAGlobal_V13.0.1.0.SGDEUXM_2a142c0915_12.0.zip
   name: Redmi Note 11 Pro 4G
   version: V13.0.1.0.SGDEUXM
-- android: '11.0'
-  codename: viva
-  date: '2022-06-28'
-  download: https://bigota.d.miui.com/V13.0.8.0.RGDEUXM/fw_viva_miui_VIVAEEAGlobal_V13.0.8.0.RGDEUXM_e9a97e54a9_11.0.zip
-  name: Redmi Note 11 Pro 4G
-  version: V13.0.8.0.RGDEUXM
 - android: '11.0'
   codename: viva
   date: '2022-04-26'
@@ -4612,12 +4330,6 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SLOINXM/fw_xaga_miui_XAGAINGlobal_V13.0.3.0.SLOINXM_3879ca58c9_12.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V13.0.3.0.SLOINXM
-- android: '12.0'
-  codename: xaga
-  date: '2022-10-05'
-  download: https://bigota.d.miui.com/V13.0.6.0.SLOINXM/fw_xaga_miui_XAGAINGlobal_V13.0.6.0.SLOINXM_9dd2e4011d_12.0.zip
-  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
-  version: V13.0.6.0.SLOINXM
 - android: '12.0'
   codename: xaga
   date: '2022-10-03'
@@ -4840,12 +4552,6 @@
   download: https://bigota.d.miui.com/V13.1.21.0.SLRCNXM/fw_zizhan_miui_ZIZHAN_V13.1.21.0.SLRCNXM_e65b3d2265_12.0.zip
   name: Xiaomi MIX Fold 2
   version: V13.1.21.0.SLRCNXM
-- android: '12.0'
-  codename: zizhan
-  date: '2022-08-17'
-  download: https://bigota.d.miui.com/V13.1.9.0.SLRCNXM/fw_zizhan_miui_ZIZHAN_V13.1.9.0.SLRCNXM_90ad822da5_12.0.zip
-  name: Xiaomi MIX Fold 2
-  version: V13.1.9.0.SLRCNXM
 - android: '12.0'
   codename: zizhan
   date: '2022-08-12'

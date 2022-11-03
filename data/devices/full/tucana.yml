@@ -729,26 +729,6 @@
     android: '11.0'
     miui: V12.5.4.0.RFDCNXM
 - branch: stable
-  date: '2022-04-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-24.04.2022/fw_tucana_miui_TUCANAEEAGlobal_V13.0.1.0.RFDEUXM_5b459eddd7_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANAEEAGlobal_V13.0.1.0.RFDEUXM_5b459eddd7_11.0.zip
-  filename: fw_tucana_miui_TUCANAEEAGlobal_V13.0.1.0.RFDEUXM_5b459eddd7_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V13.0.1.0.RFDEUXM
-- branch: stable
-  date: '2022-04-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-24.04.2022/fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/tucana/fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
-  filename: fw_tucana_miui_TUCANAGlobal_V13.0.1.0.RFDMIXM_86a1be8c61_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V13.0.1.0.RFDMIXM
-- branch: stable
   date: '2020-07-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tucana/releases/download/stable-23.07.2020/fw_tucana_miui_TUCANA_V12.0.1.0.QFDCNXM_c1b21a5bf5_10.0.zip
