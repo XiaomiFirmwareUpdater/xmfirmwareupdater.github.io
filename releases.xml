@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 03 Nov 2022 19:49:45 +0900</pubDate>
+  <pubDate>Fri, 04 Nov 2022 07:18:36 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X3 Pro (vayu) - V13.0.8.0.SJUMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
+    <pubDate>Fri, 04 Nov 2022 07:18:36 +0900</pubDate>
+  </item>
     <item>
     <title>Mi Note 10 Lite (toco) - V13.0.4.0.SFNMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V13.1.7.0.SLZCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
     <pubDate>Fri, 28 Oct 2022 01:51:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 NFC (spesn) - V13.0.12.0.RGKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
-    <pubDate>Thu, 27 Oct 2022 20:22:12 +0900</pubDate>
   </item>
     </channel>
 </rss>

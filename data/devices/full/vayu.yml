@@ -219,6 +219,16 @@
     android: '11.0'
     miui: V12.5.7.0.RJUMIXM
 - branch: stable
+  date: '2022-11-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-04.11.2022/fw_vayu_miui_VAYUGlobal_V13.0.8.0.SJUMIXM_d1f5478f78_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUGlobal_V13.0.8.0.SJUMIXM_d1f5478f78_12.0.zip
+  filename: fw_vayu_miui_VAYUGlobal_V13.0.8.0.SJUMIXM_d1f5478f78_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SJUMIXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-01.04.2021/fw_vayu_miui_VAYUINGlobal_V12.0.4.0.RJUINXM_e54da35521_11.0.zip

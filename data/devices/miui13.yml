@@ -3857,6 +3857,12 @@
   name: POCO X3 Pro
   version: V13.0.3.0.SJUMIXM
 - android: '12.0'
+  codename: vayu
+  date: '2022-11-03'
+  download: https://bigota.d.miui.com/V13.0.8.0.SJUMIXM/fw_vayu_miui_VAYUGlobal_V13.0.8.0.SJUMIXM_d1f5478f78_12.0.zip
+  name: POCO X3 Pro
+  version: V13.0.8.0.SJUMIXM
+- android: '12.0'
   codename: venus
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_venus_miui_VENUSPRE_22.3.23_4fb91d7129_12.0.zip
@@ -4216,6 +4222,12 @@
   download: https://bigota.d.miui.com/V13.0.8.0.RGDMIXM/fw_viva_miui_VIVAGlobal_V13.0.8.0.RGDMIXM_99dca6949e_11.0.zip
   name: Redmi Note 11 Pro 4G
   version: V13.0.8.0.RGDMIXM
+- android: '12.0'
+  codename: viva
+  date: '2022-09-12'
+  download: https://bigota.d.miui.com/V13.0.4.0.SGDMIXM/fw_viva_miui_VIVAGlobal_V13.0.4.0.SGDMIXM_074c656c6d_12.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V13.0.4.0.SGDMIXM
 - android: '11.0'
   codename: viva
   date: '2022-08-10'

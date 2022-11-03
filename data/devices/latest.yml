@@ -4329,15 +4329,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-07-22'
+  date: '2022-11-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-22.07.2022/fw_vayu_miui_VAYUGlobal_V13.0.5.0.SJUMIXM_7cc0b9ac86_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUGlobal_V13.0.5.0.SJUMIXM_7cc0b9ac86_12.0.zip
-  filename: fw_vayu_miui_VAYUGlobal_V13.0.5.0.SJUMIXM_7cc0b9ac86_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-04.11.2022/fw_vayu_miui_VAYUGlobal_V13.0.8.0.SJUMIXM_d1f5478f78_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUGlobal_V13.0.8.0.SJUMIXM_d1f5478f78_12.0.zip
+  filename: fw_vayu_miui_VAYUGlobal_V13.0.8.0.SJUMIXM_d1f5478f78_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SJUMIXM
+    miui: V13.0.8.0.SJUMIXM
 - branch: stable
   date: '2022-07-26'
   downloads:
@@ -4559,15 +4559,15 @@
     android: '10.0'
     miui: V12.5.1.0.QFHINXM
 - branch: stable
-  date: '2022-08-04'
+  date: '2022-09-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-04.08.2022/fw_viva_miui_VIVAGlobal_V13.0.2.0.SGDMIXM_02e21fe2be_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/viva/fw_viva_miui_VIVAGlobal_V13.0.2.0.SGDMIXM_02e21fe2be_12.0.zip
-  filename: fw_viva_miui_VIVAGlobal_V13.0.2.0.SGDMIXM_02e21fe2be_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-12.09.2022/fw_viva_miui_VIVAGlobal_V13.0.4.0.SGDMIXM_074c656c6d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/viva/fw_viva_miui_VIVAGlobal_V13.0.4.0.SGDMIXM_074c656c6d_12.0.zip
+  filename: fw_viva_miui_VIVAGlobal_V13.0.4.0.SGDMIXM_074c656c6d_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SGDMIXM
+    miui: V13.0.4.0.SGDMIXM
 - branch: stable
   date: '2022-08-29'
   downloads:
