@@ -55,7 +55,8 @@ permalink: /archive/miui/rock/
                 <tr><td>POCO M5 / Redmi 11 Prime 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.8.0.SLUINXM</td><td>12.0</td><td>3.1 GB</td><td>2022-10-26</td><td><a href="/miui/rock/stable beta/V13.0.8.0.SLUINXM/">Download</a></td></tr>
 <tr><td>POCO M5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SLURUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-10-26</td><td><a href="/miui/rock/stable beta/V13.0.3.0.SLURUXM/">Download</a></td></tr>
 <tr><td>POCO M5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SLUTRXM</td><td>12.0</td><td>3.2 GB</td><td>2022-10-26</td><td><a href="/miui/rock/stable beta/V13.0.3.0.SLUTRXM/">Download</a></td></tr>
-<tr><td>POCO M5 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SLUTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-10-26</td><td><a href="/miui/rock/stable beta/V13.0.2.0.SLUTWXM/">Download</a></td></tr>
+<tr><td>POCO M5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLUTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-10-26</td><td><a href="/miui/rock/stable/V13.0.2.0.SLUTWXM/">Download</a></td></tr>
+<tr><td>POCO M5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLUTWXM</td><td>12.0</td><td>4.8 GB</td><td>2022-09-27</td><td><a href="/miui/rock/stable/V13.0.2.0.SLUTWXM/">Download</a></td></tr>
 <tr><td>POCO M5 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLUMIXM</td><td>12.0</td><td>3.2 GB</td><td>2022-10-26</td><td><a href="/miui/rock/stable/V13.0.5.0.SLUMIXM/">Download</a></td></tr>
 <tr><td>POCO M5 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SLUMIXM</td><td>12.0</td><td>6.0 GB</td><td>2022-09-28</td><td><a href="/miui/rock/stable/V13.0.5.0.SLUMIXM/">Download</a></td></tr>
 <tr><td>POCO M5 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLURUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-10-08</td><td><a href="/miui/rock/stable/V13.0.2.0.SLURUXM/">Download</a></td></tr>

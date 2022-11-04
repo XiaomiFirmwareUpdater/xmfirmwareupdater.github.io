@@ -28288,6 +28288,16 @@
   versions:
     android: '12.0'
     miui: V13.0.7.0.SLSMIXM
+- branch: stable
+  date: '2022-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-04.11.2022/fw_light_miui_LIGHTEEAGlobal_V13.0.8.0.SLSEUXM_1f54affe65_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHTEEAGlobal_V13.0.8.0.SLSEUXM_1f54affe65_12.0.zip
+  filename: fw_light_miui_LIGHTEEAGlobal_V13.0.8.0.SLSEUXM_1f54affe65_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SLSEUXM
 - branch: weekly
   date: '2021-12-31'
   downloads:
@@ -30888,6 +30898,16 @@
   versions:
     android: '11.0'
     miui: V12.2.4.0.RJKMIXM
+- branch: stable
+  date: '2022-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-04.11.2022/fw_lmi_miui_LMI_V13.0.6.0.SJKCNXM_0962de9501_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMI_V13.0.6.0.SJKCNXM_0962de9501_12.0.zip
+  filename: fw_lmi_miui_LMI_V13.0.6.0.SJKCNXM_0962de9501_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SJKCNXM
 - branch: stable
   date: '2020-10-01'
   downloads:

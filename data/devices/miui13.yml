@@ -1894,6 +1894,12 @@
   download: https://bigota.d.miui.com/V13.0.7.0.SLSMIXM/fw_light_miui_LIGHTGlobal_V13.0.7.0.SLSMIXM_e409654007_12.0.zip
   name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V13.0.7.0.SLSMIXM
+- android: '12.0'
+  codename: light
+  date: '2022-11-04'
+  download: https://bigota.d.miui.com/V13.0.8.0.SLSEUXM/fw_light_miui_LIGHTEEAGlobal_V13.0.8.0.SLSEUXM_1f54affe65_12.0.zip
+  name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V13.0.8.0.SLSEUXM
 - android: '11.0'
   codename: lime
   date: '2022-03-25'
@@ -2122,6 +2128,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.SJKCNXM/fw_lmi_miui_LMI_V13.0.5.0.SJKCNXM_65e9a3c47f_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
   version: V13.0.5.0.SJKCNXM
+- android: '12.0'
+  codename: lmi
+  date: '2022-11-04'
+  download: https://bigota.d.miui.com/V13.0.6.0.SJKCNXM/fw_lmi_miui_LMI_V13.0.6.0.SJKCNXM_0962de9501_12.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: V13.0.6.0.SJKCNXM
 - android: '12.0'
   codename: matisse
   date: '2022-03-29'
