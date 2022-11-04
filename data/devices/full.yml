@@ -38559,6 +38559,16 @@
     android: '12.0'
     miui: V13.0.1.0.SGICMXM
 - branch: stable
+  date: '2022-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-04.11.2022/fw_picasso_miui_PICASSO_V13.0.5.0.SGICNXM_5d1ab6f4d3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/picasso/fw_picasso_miui_PICASSO_V13.0.5.0.SGICNXM_5d1ab6f4d3_12.0.zip
+  filename: fw_picasso_miui_PICASSO_V13.0.5.0.SGICNXM_5d1ab6f4d3_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SGICNXM
+- branch: stable
   date: '2020-08-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_picasso/releases/download/stable-03.08.2020/fw_picasso_miui_PICASSO_V12.0.5.0.QGICNXM_a6f920de6b_10.0.zip
@@ -56008,6 +56018,16 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RKDMIXM
+- branch: stable
+  date: '2022-11-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-04.11.2022/fw_vili_miui_VILIINGlobal_V13.0.11.0.SKDINXM_24e9185256_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vili/fw_vili_miui_VILIINGlobal_V13.0.11.0.SKDINXM_24e9185256_12.0.zip
+  filename: fw_vili_miui_VILIINGlobal_V13.0.11.0.SKDINXM_24e9185256_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SKDINXM
 - branch: stable
   date: '2022-10-04'
   downloads:

@@ -2681,6 +2681,12 @@
   name: Redmi K30 5G/Redmi K30i 5G
   version: V13.0.1.0.SGICMXM
 - android: '12.0'
+  codename: picasso
+  date: '2022-11-04'
+  download: https://bigota.d.miui.com/V13.0.5.0.SGICNXM/fw_picasso_miui_PICASSO_V13.0.5.0.SGICNXM_5d1ab6f4d3_12.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: V13.0.5.0.SGICNXM
+- android: '12.0'
   codename: pissarro
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
@@ -4174,6 +4180,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SKDMIXM/fw_vili_miui_VILIGlobal_V13.0.3.0.SKDMIXM_a28e1fc7a4_12.0.zip
   name: Xiaomi 11T Pro
   version: V13.0.3.0.SKDMIXM
+- android: '12.0'
+  codename: vili
+  date: '2022-11-04'
+  download: https://bigota.d.miui.com/V13.0.11.0.SKDINXM/fw_vili_miui_VILIINGlobal_V13.0.11.0.SKDINXM_24e9185256_12.0.zip
+  name: Xiaomi 11T Pro
+  version: V13.0.11.0.SKDINXM
 - android: '12.0'
   codename: vili
   date: '2022-10-04'

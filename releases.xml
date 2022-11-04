@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 04 Nov 2022 07:18:36 +0900</pubDate>
+  <pubDate>Fri, 04 Nov 2022 13:51:18 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 11T Pro (vili) - V13.0.11.0.SKDINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
+    <pubDate>Fri, 04 Nov 2022 13:51:18 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 5G/Redmi K30i 5G (picasso) - V13.0.5.0.SGICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/picasso</link>
+    <pubDate>Fri, 04 Nov 2022 13:23:35 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 Pro (vayu) - V13.0.8.0.SJUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
@@ -95,16 +105,6 @@
     <title>Xiaomi 12T (plato) - V13.0.8.0.SLQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
     <pubDate>Fri, 28 Oct 2022 02:30:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.5.0.SGMEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ice</link>
-    <pubDate>Fri, 28 Oct 2022 02:02:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V13.1.7.0.SLZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
-    <pubDate>Fri, 28 Oct 2022 01:51:38 +0900</pubDate>
   </item>
     </channel>
 </rss>
