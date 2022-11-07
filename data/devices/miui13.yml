@@ -1061,6 +1061,12 @@
   name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
   version: V13.0.2.0.SJWMIXM
 - android: '12.0'
+  codename: curtana
+  date: '2022-11-07'
+  download: https://bigota.d.miui.com/V13.0.2.0.SJWEUXM/fw_curtana_miui_CURTANAEEAGlobal_V13.0.2.0.SJWEUXM_7f096d8a04_12.0.zip
+  name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
+  version: V13.0.2.0.SJWEUXM
+- android: '12.0'
   codename: dagu
   date: '2022-10-27'
   download: https://bigota.d.miui.com/V13.1.7.0.SLZCNXM/fw_dagu_miui_DAGU_V13.1.7.0.SLZCNXM_19dc3af3c2_12.0.zip
@@ -1805,6 +1811,12 @@
   name: Redmi K50G/POCO F4 GT
   version: V13.0.4.0.SLJEUXM
 - android: '12.0'
+  codename: ingres
+  date: '2022-11-07'
+  download: https://bigota.d.miui.com/V13.0.10.0.SLJMIXM/fw_ingres_miui_INGRESGlobal_V13.0.10.0.SLJMIXM_6d561309b9_12.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: V13.0.10.0.SLJMIXM
+- android: '12.0'
   codename: joyeuse
   date: '2022-09-30'
   download: https://bigota.d.miui.com/V13.0.1.0.SJZMIXM/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.1.0.SJZMIXM_4d4f9ab269_12.0.zip
@@ -1816,6 +1828,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SJZEUXM/fw_joyeuse_miui_JOYEUSEEEAGlobal_V13.0.1.0.SJZEUXM_04a79d6b81_12.0.zip
   name: Redmi Note 9 Pro
   version: V13.0.1.0.SJZEUXM
+- android: '12.0'
+  codename: joyeuse
+  date: '2022-11-07'
+  download: https://bigota.d.miui.com/V13.0.2.0.SJZEUXM/fw_joyeuse_miui_JOYEUSEEEAGlobal_V13.0.2.0.SJZEUXM_43c64ef3e4_12.0.zip
+  name: Redmi Note 9 Pro
+  version: V13.0.2.0.SJZEUXM
 - android: '12.0'
   codename: lancelot
   date: '2022-09-26'
@@ -3268,6 +3286,12 @@
   download: https://bigota.d.miui.com/V13.0.8.0.RGCINXM/fw_spes_miui_SPESINGlobal_V13.0.8.0.RGCINXM_e2c68b6917_11.0.zip
   name: Redmi Note 11
   version: V13.0.8.0.RGCINXM
+- android: '12.0'
+  codename: spes
+  date: '2022-11-07'
+  download: https://bigota.d.miui.com/V13.0.5.0.SGCMIXM/fw_spes_miui_SPESGlobal_V13.0.5.0.SGCMIXM_86519c581e_12.0.zip
+  name: Redmi Note 11
+  version: V13.0.5.0.SGCMIXM
 - android: '11.0'
   codename: spesn
   date: '2022-04-29'
@@ -3346,6 +3370,12 @@
   download: https://bigota.d.miui.com/V13.0.7.0.RGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.7.0.RGKEUXM_c2553cf9ed_11.0.zip
   name: Redmi Note 11 NFC
   version: V13.0.7.0.RGKEUXM
+- android: '12.0'
+  codename: spesn
+  date: '2022-11-07'
+  download: https://bigota.d.miui.com/V13.0.5.0.SGKMIXM/fw_spesn_miui_SPESNGlobal_V13.0.5.0.SGKMIXM_19393c443c_12.0.zip
+  name: Redmi Note 11 NFC
+  version: V13.0.5.0.SGKMIXM
 - android: '12.0'
   codename: star
   date: '2022-03-25'
@@ -3490,6 +3520,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SJGMIXM/fw_surya_miui_SURYAGlobal_V13.0.1.0.SJGMIXM_e6fc65cbd3_12.0.zip
   name: POCO X3 NFC
   version: V13.0.1.0.SJGMIXM
+- android: '12.0'
+  codename: surya
+  date: '2022-11-07'
+  download: https://bigota.d.miui.com/V13.0.3.0.SJGEUXM/fw_surya_miui_SURYAEEAGlobal_V13.0.3.0.SJGEUXM_b0048d7ead_12.0.zip
+  name: POCO X3 NFC
+  version: V13.0.3.0.SJGEUXM
 - android: '12.0'
   codename: sweet
   date: '2022-10-24'
