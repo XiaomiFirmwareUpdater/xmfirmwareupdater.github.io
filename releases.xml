@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 07 Nov 2022 20:18:56 +0900</pubDate>
+  <pubDate>Tue, 08 Nov 2022 02:00:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V13.0.25.0.SLBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Tue, 08 Nov 2022 02:00:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO X3 Pro (vayu) - V13.0.4.0.SJUEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
+    <pubDate>Tue, 08 Nov 2022 01:23:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.11.0.SJSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Tue, 08 Nov 2022 01:22:03 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 NFC (surya) - V13.0.3.0.SJGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
@@ -25,11 +40,6 @@
     <title>Redmi Note 9 Pro (joyeuse) - V13.0.2.0.SJZEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
     <pubDate>Mon, 07 Nov 2022 19:33:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.11.0.SJSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Mon, 07 Nov 2022 19:32:19 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V13.0.2.0.SJWEUXM</title>
@@ -95,16 +105,6 @@
     <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V13.0.10.0.SKLMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
     <pubDate>Wed, 02 Nov 2022 13:44:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Lite (taoyao) - V13.0.13.0.SLIEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
-    <pubDate>Wed, 02 Nov 2022 02:20:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 (sunstone) - V13.0.2.0.SMQCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
-    <pubDate>Wed, 02 Nov 2022 01:52:23 +0900</pubDate>
   </item>
     </channel>
 </rss>
