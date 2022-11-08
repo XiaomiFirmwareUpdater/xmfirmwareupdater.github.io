@@ -39,6 +39,16 @@
     android: '12.0'
     miui: V13.0.4.0.SLUINXM
 - branch: stable
+  date: '2022-11-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-08.11.2022/fw_rock_miui_ROCKEEAGlobal_V13.0.5.0.SLUEUXM_a3ca68c34b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rock/fw_rock_miui_ROCKEEAGlobal_V13.0.5.0.SLUEUXM_a3ca68c34b_12.0.zip
+  filename: fw_rock_miui_ROCKEEAGlobal_V13.0.5.0.SLUEUXM_a3ca68c34b_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SLUEUXM
+- branch: stable
   date: '2022-09-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-07.09.2022/fw_rock_miui_ROCKEEAGlobal_V13.0.3.0.SLUEUXM_4ab9598f3a_12.0.zip

@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 08 Nov 2022 08:00:53 +0900</pubDate>
+  <pubDate>Tue, 08 Nov 2022 20:40:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO M5/Redmi 11 Prime 4G (rock) - V13.0.5.0.SLUEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rock</link>
+    <pubDate>Tue, 08 Nov 2022 20:40:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12X (psyche) - V13.0.5.0.SLDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
+    <pubDate>Tue, 08 Nov 2022 20:16:56 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V13.0.7.0.SJSINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Tue, 08 Nov 2022 19:50:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V13.0.11.0.SLFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
+    <pubDate>Tue, 08 Nov 2022 19:49:09 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V13.2.4.0.TLBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
@@ -85,26 +105,6 @@
     <title>POCO X3 Pro (vayu) - V13.0.8.0.SJUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
     <pubDate>Fri, 04 Nov 2022 07:18:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi Note 10 Lite (toco) - V13.0.4.0.SFNMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
-    <pubDate>Thu, 03 Nov 2022 19:49:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V13.1.4.0.SKYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
-    <pubDate>Thu, 03 Nov 2022 19:48:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Pad (yunluo) - V13.1.2.0.SLYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
-    <pubDate>Thu, 03 Nov 2022 07:44:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V13.0.5.0.SKAINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Wed, 02 Nov 2022 19:58:59 +0900</pubDate>
   </item>
     </channel>
 </rss>

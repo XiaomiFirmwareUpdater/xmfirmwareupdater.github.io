@@ -1132,6 +1132,12 @@
   download: https://bigota.d.miui.com/V13.0.7.0.SLFEUXM/fw_diting_miui_DITINGEEAGlobal_V13.0.7.0.SLFEUXM_6b58a0c0fb_12.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V13.0.7.0.SLFEUXM
+- android: '12.0'
+  codename: diting
+  date: '2022-11-08'
+  download: https://bigota.d.miui.com/V13.0.11.0.SLFEUXM/fw_diting_miui_DITINGEEAGlobal_V13.0.11.0.SLFEUXM_40abff13eb_12.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V13.0.11.0.SLFEUXM
 - android: '11.0'
   codename: elish
   date: '2022-03-25'
@@ -1570,6 +1576,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.SJSEUXM/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.6.0.SJSEUXM_679c25227d_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: V13.0.6.0.SJSEUXM
+- android: '12.0'
+  codename: gauguin
+  date: '2022-11-08'
+  download: https://bigota.d.miui.com/V13.0.7.0.SJSINXM/fw_gauguin_miui_GAUGUININGlobal_V13.0.7.0.SJSINXM_3daf8c12fe_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V13.0.7.0.SJSINXM
 - android: '12.0'
   codename: gauguin
   date: '2022-10-08'
@@ -2884,6 +2896,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.2.0.SLDEUXM_149a7b39a9_12.0.zip
   name: Xiaomi 12X
   version: V13.0.2.0.SLDEUXM
+- android: '12.0'
+  codename: psyche
+  date: '2022-11-08'
+  download: https://bigota.d.miui.com/V13.0.5.0.SLDMIXM/fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.SLDMIXM_792a965bb3_12.0.zip
+  name: Xiaomi 12X
+  version: V13.0.5.0.SLDMIXM
 - android: '11.0'
   codename: psyche
   date: '2022-04-07'
@@ -3058,6 +3076,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SLUINXM/fw_rock_miui_ROCKINGlobal_V13.0.4.0.SLUINXM_e01f621ff2_12.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: V13.0.4.0.SLUINXM
+- android: '12.0'
+  codename: rock
+  date: '2022-11-08'
+  download: https://bigota.d.miui.com/V13.0.5.0.SLUEUXM/fw_rock_miui_ROCKEEAGlobal_V13.0.5.0.SLUEUXM_a3ca68c34b_12.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: V13.0.5.0.SLUEUXM
 - android: '12.0'
   codename: rock
   date: '2022-09-06'

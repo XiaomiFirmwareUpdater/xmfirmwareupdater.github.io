@@ -19208,6 +19208,16 @@
   versions:
     android: '12.0'
     miui: V13.0.7.0.SLFEUXM
+- branch: stable
+  date: '2022-11-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-08.11.2022/fw_diting_miui_DITINGEEAGlobal_V13.0.11.0.SLFEUXM_40abff13eb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/diting/fw_diting_miui_DITINGEEAGlobal_V13.0.11.0.SLFEUXM_40abff13eb_12.0.zip
+  filename: fw_diting_miui_DITINGEEAGlobal_V13.0.11.0.SLFEUXM_40abff13eb_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SLFEUXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -21398,6 +21408,16 @@
   versions:
     android: '12.0'
     miui: V13.0.6.0.SJSEUXM
+- branch: stable
+  date: '2022-11-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-08.11.2022/fw_gauguin_miui_GAUGUININGlobal_V13.0.7.0.SJSINXM_3daf8c12fe_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUININGlobal_V13.0.7.0.SJSINXM_3daf8c12fe_12.0.zip
+  filename: fw_gauguin_miui_GAUGUININGlobal_V13.0.7.0.SJSINXM_3daf8c12fe_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SJSINXM
 - branch: stable
   date: '2022-10-08'
   downloads:
@@ -41249,6 +41269,16 @@
     android: '12.0'
     miui: V13.0.2.0.SLDEUXM
 - branch: stable
+  date: '2022-11-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-08.11.2022/fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.SLDMIXM_792a965bb3_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.SLDMIXM_792a965bb3_12.0.zip
+  filename: fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.SLDMIXM_792a965bb3_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SLDMIXM
+- branch: stable
   date: '2022-04-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-07.04.2022/fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.RLDMIXM_e3fec00afd_11.0.zip
@@ -43758,6 +43788,16 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SLUINXM
+- branch: stable
+  date: '2022-11-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-08.11.2022/fw_rock_miui_ROCKEEAGlobal_V13.0.5.0.SLUEUXM_a3ca68c34b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rock/fw_rock_miui_ROCKEEAGlobal_V13.0.5.0.SLUEUXM_a3ca68c34b_12.0.zip
+  filename: fw_rock_miui_ROCKEEAGlobal_V13.0.5.0.SLUEUXM_a3ca68c34b_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SLUEUXM
 - branch: stable
   date: '2022-09-06'
   downloads:
