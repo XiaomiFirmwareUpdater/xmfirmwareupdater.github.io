@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 08 Nov 2022 08:00:02 +0900</pubDate>
+  <pubDate>Tue, 08 Nov 2022 08:00:53 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Xiaomi 12 Pro (zeus) - V13.2.4.0.TLBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Tue, 08 Nov 2022 08:00:02 +0900</pubDate>
+    <pubDate>Tue, 08 Nov 2022 08:00:53 +0900</pubDate>
   </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V13.0.25.0.SLBEUXM</title>
