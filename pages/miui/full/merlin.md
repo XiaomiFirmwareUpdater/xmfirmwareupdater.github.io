@@ -52,7 +52,8 @@ permalink: /archive/miui/merlin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJOMIXM</td><td>12.0</td><td>3.0 GB</td><td>2022-10-25</td><td><a href="/miui/merlin/stable beta/V13.0.2.0.SJOMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJOMIXM</td><td>12.0</td><td>3.0 GB</td><td>2022-10-25</td><td><a href="/miui/merlin/stable/V13.0.2.0.SJOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJOMIXM</td><td>12.0</td><td>4.9 GB</td><td>2022-10-13</td><td><a href="/miui/merlin/stable/V13.0.2.0.SJOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RJOTRXM</td><td>11.0</td><td>2.5 GB</td><td>2022-07-23</td><td><a href="/miui/merlin/stable beta/V12.5.5.0.RJOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJOMIXM</td><td>12.0</td><td>2.9 GB</td><td>2022-07-21</td><td><a href="/miui/merlin/stable beta/V13.0.1.0.SJOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 India</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RJOINXM</td><td>11.0</td><td>2.4 GB</td><td>2022-07-04</td><td><a href="/miui/merlin/stable/V12.5.6.0.RJOINXM/">Download</a></td></tr>
