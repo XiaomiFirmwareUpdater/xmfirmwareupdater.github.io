@@ -54,6 +54,7 @@ permalink: /miui/yunluo/
                 <tbody>
                 <tr><td>Redmi Pad China</td><td>Stable</td><td>Fastboot</td><td>V13.1.2.0.SLYCNXM</td><td>12.0</td><td>4.9 GB</td><td>2022-10-19</td><td><a href="/miui/yunluo/stable/V13.1.2.0.SLYCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad China</td><td>Stable</td><td>Recovery</td><td>V13.1.2.0.SLYCNXM</td><td>12.0</td><td>4.0 GB</td><td>2022-10-27</td><td><a href="/miui/yunluo/stable/V13.1.2.0.SLYCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad China</td><td>Stable Beta</td><td>Recovery</td><td>V13.1.3.0.SLYCNXM</td><td>12.0</td><td>4.0 GB</td><td>2022-11-07</td><td><a href="/miui/yunluo/stable beta/V13.1.3.0.SLYCNXM/">Download</a></td></tr>
 <tr><td>Redmi Pad EEA</td><td>Stable</td><td>Fastboot</td><td>V13.1.2.0.SLYEUXM</td><td>12.0</td><td>4.3 GB</td><td>2022-09-27</td><td><a href="/miui/yunluo/stable/V13.1.2.0.SLYEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad EEA</td><td>Stable</td><td>Recovery</td><td>V13.1.2.0.SLYEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-10-04</td><td><a href="/miui/yunluo/stable/V13.1.2.0.SLYEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Global</td><td>Stable</td><td>Fastboot</td><td>V13.1.4.0.SLYMIXM</td><td>12.0</td><td>4.3 GB</td><td>2022-09-22</td><td><a href="/miui/yunluo/stable/V13.1.4.0.SLYMIXM/">Download</a></td></tr>

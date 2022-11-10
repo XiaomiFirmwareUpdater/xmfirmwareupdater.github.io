@@ -39,12 +39,12 @@
     android: '12.0'
     miui: V13.0.10.0.SKOEUXM
 - branch: stable
-  date: '2022-10-13'
+  date: '2022-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-13.10.2022/fw_lisa_miui_LISAINGlobal_V13.0.8.0.SKOINXM_5d656038fa_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAINGlobal_V13.0.8.0.SKOINXM_5d656038fa_12.0.zip
-  filename: fw_lisa_miui_LISAINGlobal_V13.0.8.0.SKOINXM_5d656038fa_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-10.11.2022/fw_lisa_miui_LISAINGlobal_V13.0.9.0.SKOINXM_c4084f4653_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAINGlobal_V13.0.9.0.SKOINXM_c4084f4653_12.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_V13.0.9.0.SKOINXM_c4084f4653_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.8.0.SKOINXM
+    miui: V13.0.9.0.SKOINXM
