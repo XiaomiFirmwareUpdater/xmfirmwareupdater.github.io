@@ -1239,15 +1239,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2022-08-11'
+  date: '2022-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-11.08.2022/fw_evergo_miui_EVERGO_V13.0.6.0.SGBCNXM_81b235c68d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergo/fw_evergo_miui_EVERGO_V13.0.6.0.SGBCNXM_81b235c68d_12.0.zip
-  filename: fw_evergo_miui_EVERGO_V13.0.6.0.SGBCNXM_81b235c68d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-10.11.2022/fw_evergo_miui_EVERGO_V12.5.11.0.RGBCNXM_7065f033a9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/evergo/fw_evergo_miui_EVERGO_V12.5.11.0.RGBCNXM_7065f033a9_11.0.zip
+  filename: fw_evergo_miui_EVERGO_V12.5.11.0.RGBCNXM_7065f033a9_11.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.6.0.SGBCNXM
+    android: '11.0'
+    miui: V12.5.11.0.RGBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -1309,15 +1309,15 @@
     android: '12.0'
     miui: V13.0.6.0.SKEMIXM
 - branch: stable
-  date: '2022-08-10'
+  date: '2022-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-11.08.2022/fw_fleur_miui_FLEUREEAGlobal_V13.0.9.0.RKEEUXM_9f43753107_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEUREEAGlobal_V13.0.9.0.RKEEUXM_9f43753107_11.0.zip
-  filename: fw_fleur_miui_FLEUREEAGlobal_V13.0.9.0.RKEEUXM_9f43753107_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-10.11.2022/fw_fleur_miui_FLEUREEAGlobal_V13.0.10.0.RKEEUXM_e9ad09d751_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEUREEAGlobal_V13.0.10.0.RKEEUXM_e9ad09d751_11.0.zip
+  filename: fw_fleur_miui_FLEUREEAGlobal_V13.0.10.0.RKEEUXM_e9ad09d751_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V13.0.9.0.RKEEUXM
+    miui: V13.0.10.0.RKEEUXM
 - branch: stable
   date: '2022-09-13'
   downloads:
@@ -3089,15 +3089,15 @@
     android: '12.0'
     miui: V13.0.3.0.SKTMIXM
 - branch: stable
-  date: '2022-10-28'
+  date: '2022-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-28.10.2022/fw_pissarro_miui_PISSARRO_V13.0.6.0.SKTCNXM_e57dffb0ac_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARRO_V13.0.6.0.SKTCNXM_e57dffb0ac_12.0.zip
-  filename: fw_pissarro_miui_PISSARRO_V13.0.6.0.SKTCNXM_e57dffb0ac_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-10.11.2022/fw_pissarro_miui_PISSARRO_V13.0.7.0.SKTCNXM_4529201b71_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARRO_V13.0.7.0.SKTCNXM_4529201b71_12.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V13.0.7.0.SKTCNXM_4529201b71_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SKTCNXM
+    miui: V13.0.7.0.SKTCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
