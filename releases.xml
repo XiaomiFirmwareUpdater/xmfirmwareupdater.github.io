@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 11 Nov 2022 02:31:11 +0900</pubDate>
+  <pubDate>Fri, 11 Nov 2022 13:23:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.7.0.RCDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Fri, 11 Nov 2022 13:23:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 4G (courbet) - V13.0.7.0.SKQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
+    <pubDate>Fri, 11 Nov 2022 13:22:47 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V13.0.7.0.SKTCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
@@ -95,16 +105,6 @@
     <title>POCO X3 NFC (surya) - V13.0.3.0.SJGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
     <pubDate>Mon, 07 Nov 2022 20:18:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 NFC (spesn) - V13.0.5.0.SGKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
-    <pubDate>Mon, 07 Nov 2022 20:17:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 (spes) - V13.0.5.0.SGCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
-    <pubDate>Mon, 07 Nov 2022 19:57:04 +0900</pubDate>
   </item>
     </channel>
 </rss>
