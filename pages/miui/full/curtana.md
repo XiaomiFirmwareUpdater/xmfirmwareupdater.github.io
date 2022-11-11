@@ -52,7 +52,8 @@ permalink: /archive/miui/curtana/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9S EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJWEUXM</td><td>12.0</td><td>2.9 GB</td><td>2022-11-03</td><td><a href="/miui/curtana/stable beta/V13.0.2.0.SJWEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 Lite India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJWINRF</td><td>12.0</td><td>3.0 GB</td><td>2022-11-11</td><td><a href="/miui/curtana/stable beta/V13.0.1.0.SJWINRF/">Download</a></td></tr>
+<tr><td>Redmi Note 9S EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJWEUXM</td><td>12.0</td><td>2.9 GB</td><td>2022-11-03</td><td><a href="/miui/curtana/stable beta/V13.0.2.0.SJWEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJWINXM</td><td>12.0</td><td>2.9 GB</td><td>2022-10-19</td><td><a href="/miui/curtana/stable/V13.0.1.0.SJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJWINXM</td><td>12.0</td><td>3.5 GB</td><td>2022-08-29</td><td><a href="/miui/curtana/stable/V13.0.1.0.SJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Lite India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.10.0.RJWINRF</td><td>11.0</td><td>2.8 GB</td><td>2022-08-24</td><td><a href="/miui/curtana/stable beta/V12.5.10.0.RJWINRF/">Download</a></td></tr>
