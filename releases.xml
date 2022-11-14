@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 15 Nov 2022 02:44:16 +0900</pubDate>
+  <pubDate>Tue, 15 Nov 2022 07:43:54 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10C (fog) - V13.0.4.0.SGEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
+    <pubDate>Tue, 15 Nov 2022 07:43:54 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 NFC (spesn) - V13.0.14.0.RGKEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.10.0.RKEEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
     <pubDate>Fri, 11 Nov 2022 02:03:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V12.5.11.0.RGBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
-    <pubDate>Fri, 11 Nov 2022 01:42:22 +0900</pubDate>
   </item>
     </channel>
 </rss>

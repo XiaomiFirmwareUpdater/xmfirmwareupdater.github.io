@@ -1452,6 +1452,12 @@
   version: V13.0.4.0.RGEINXM
 - android: '12.0'
   codename: fog
+  date: '2022-11-14'
+  download: https://bigota.d.miui.com/V13.0.4.0.SGEMIXM/fw_fog_miui_FOGGlobal_V13.0.4.0.SGEMIXM_facec8dc4d_12.0.zip
+  name: Redmi 10C
+  version: V13.0.4.0.SGEMIXM
+- android: '12.0'
+  codename: fog
   date: '2022-08-15'
   download: https://bigota.d.miui.com/V13.0.1.0.SGEEUXM/fw_fog_miui_FOGEEAGlobal_V13.0.1.0.SGEEUXM_0f1d3eaafc_12.0.zip
   name: Redmi 10C
