@@ -132,6 +132,12 @@
   version: V13.0.8.0.SKHINXM
 - android: '12.0'
   codename: alioth
+  date: '2022-11-14'
+  download: https://bigota.d.miui.com/V13.0.9.0.SKHINXM/fw_alioth_miui_ALIOTHINGlobal_V13.0.9.0.SKHINXM_2654f15720_12.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: V13.0.9.0.SKHINXM
+- android: '12.0'
+  codename: alioth
   date: '2022-04-13'
   download: https://bigota.d.miui.com/V13.0.4.0.SKHINXM/fw_alioth_miui_ALIOTHINGlobal_V13.0.4.0.SKHINXM_276654c47c_12.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -1456,6 +1462,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SGEINXM/fw_fog_miui_FOGINGlobal_V13.0.1.0.SGEINXM_13dda7171f_12.0.zip
   name: Redmi 10C
   version: V13.0.1.0.SGEINXM
+- android: '11.0'
+  codename: fog
+  date: '2022-11-14'
+  download: https://bigota.d.miui.com/V13.0.7.0.RGEEUXM/fw_fog_miui_FOGEEAGlobal_V13.0.7.0.RGEEUXM_4ec582a5dd_11.0.zip
+  name: Redmi 10C
+  version: V13.0.7.0.RGEEUXM
 - android: '12.0'
   codename: fog
   date: '2022-11-14'
@@ -3472,6 +3484,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.1.0.SGKEUXM_b35c2350a6_12.0.zip
   name: Redmi Note 11 NFC
   version: V13.0.1.0.SGKEUXM
+- android: '11.0'
+  codename: spesn
+  date: '2022-11-14'
+  download: https://bigota.d.miui.com/V13.0.14.0.RGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V13.0.14.0.RGKEUXM_623e206ed2_11.0.zip
+  name: Redmi Note 11 NFC
+  version: V13.0.14.0.RGKEUXM
 - android: '11.0'
   codename: spesn
   date: '2022-09-13'

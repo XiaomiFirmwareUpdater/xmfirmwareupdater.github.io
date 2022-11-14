@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 14 Nov 2022 22:35:40 +0900</pubDate>
+  <pubDate>Tue, 15 Nov 2022 02:44:16 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 NFC (spesn) - V13.0.14.0.RGKEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
+    <pubDate>Tue, 15 Nov 2022 02:44:16 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10C (fog) - V13.0.7.0.RGEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
+    <pubDate>Tue, 15 Nov 2022 02:21:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.9.0.SKHINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Tue, 15 Nov 2022 02:01:26 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.1.0.SKCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V12.5.11.0.RGBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
     <pubDate>Fri, 11 Nov 2022 01:42:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Pad (yunluo) - V13.1.3.0.SLYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
-    <pubDate>Thu, 10 Nov 2022 20:34:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12T (plato) - V13.0.5.0.SLQMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
-    <pubDate>Thu, 10 Nov 2022 20:10:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V13.0.9.0.SKOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
-    <pubDate>Thu, 10 Nov 2022 19:48:15 +0900</pubDate>
   </item>
     </channel>
 </rss>

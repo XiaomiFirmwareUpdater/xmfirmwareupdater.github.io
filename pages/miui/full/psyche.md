@@ -54,7 +54,8 @@ permalink: /archive/miui/psyche/
                 <tbody>
                 <tr><td>Xiaomi 12X Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLDRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-11-14</td><td><a href="/miui/psyche/stable beta/V13.0.4.0.SLDRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLDTWXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-14</td><td><a href="/miui/psyche/stable beta/V13.0.4.0.SLDTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SLDMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-11-02</td><td><a href="/miui/psyche/stable beta/V13.0.5.0.SLDMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLDMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-11-02</td><td><a href="/miui/psyche/stable/V13.0.5.0.SLDMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SLDMIXM</td><td>12.0</td><td>5.9 GB</td><td>2022-10-27</td><td><a href="/miui/psyche/stable/V13.0.5.0.SLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-09-30</td><td><a href="/miui/psyche/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.19.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-09-23</td><td><a href="/miui/psyche/public beta/V13.1.22.9.19.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.12.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-09-16</td><td><a href="/miui/psyche/public beta/V13.1.22.9.12.DEV/">Download</a></td></tr>
