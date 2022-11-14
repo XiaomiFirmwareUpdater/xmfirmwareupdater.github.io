@@ -52,7 +52,8 @@ permalink: /archive/miui/diting/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.11.0.SLFEUXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-07</td><td><a href="/miui/diting/stable beta/V13.0.11.0.SLFEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLFMIXM</td><td>12.0</td><td>4.5 GB</td><td>2022-11-11</td><td><a href="/miui/diting/stable beta/V13.0.4.0.SLFMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.11.0.SLFEUXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-07</td><td><a href="/miui/diting/stable beta/V13.0.11.0.SLFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLFTWXM</td><td>12.0</td><td>4.4 GB</td><td>2022-10-12</td><td><a href="/miui/diting/stable/V13.0.2.0.SLFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLFTWXM</td><td>12.0</td><td>5.7 GB</td><td>2022-09-29</td><td><a href="/miui/diting/stable/V13.0.2.0.SLFTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLFMIXM</td><td>12.0</td><td>4.5 GB</td><td>2022-10-12</td><td><a href="/miui/diting/stable/V13.0.3.0.SLFMIXM/">Download</a></td></tr>

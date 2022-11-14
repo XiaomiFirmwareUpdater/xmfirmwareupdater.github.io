@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.4.0.SKCMIXM
 - branch: stable
-  date: '2022-07-11'
+  date: '2022-11-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-11.07.2022/fw_veux_miui_VEUX_V13.0.1.0.SKCCNXM_077f616321_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUX_V13.0.1.0.SKCCNXM_077f616321_12.0.zip
-  filename: fw_veux_miui_VEUX_V13.0.1.0.SKCCNXM_077f616321_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-14.11.2022/fw_veux_miui_VEUX_V13.0.3.0.SKCCNXM_db43704ec4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUX_V13.0.3.0.SKCCNXM_db43704ec4_12.0.zip
+  filename: fw_veux_miui_VEUX_V13.0.3.0.SKCCNXM_db43704ec4_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SKCCNXM
+    miui: V13.0.3.0.SKCCNXM
 - branch: stable
   date: '2022-10-26'
   downloads:
@@ -29,12 +29,12 @@
     android: '12.0'
     miui: V13.0.2.0.SKCEUXM
 - branch: stable
-  date: '2022-07-05'
+  date: '2022-11-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-05.07.2022/fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
-  filename: fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-14.11.2022/fw_veux_miui_VEUXINGlobal_V13.0.1.0.SKCINXM_301f80dee9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXINGlobal_V13.0.1.0.SKCINXM_301f80dee9_12.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_V13.0.1.0.SKCINXM_301f80dee9_12.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V13.0.6.0.RKCINXM
+    android: '12.0'
+    miui: V13.0.1.0.SKCINXM
