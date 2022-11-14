@@ -52,7 +52,11 @@ permalink: /archive/miui/viva/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SGDIDXM</td><td>12.0</td><td>3.1 GB</td><td>2022-09-30</td><td><a href="/miui/viva/stable beta/V13.0.4.0.SGDIDXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SGDIDXM</td><td>12.0</td><td>3.1 GB</td><td>2022-11-11</td><td><a href="/miui/viva/stable beta/V13.0.5.0.SGDIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.RGDEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-11-04</td><td><a href="/miui/viva/stable/V13.0.10.0.RGDEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.RGDEUXM</td><td>11.0</td><td>5.8 GB</td><td>2022-11-01</td><td><a href="/miui/viva/stable/V13.0.10.0.RGDEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SGDIDXM</td><td>12.0</td><td>3.1 GB</td><td>2022-09-30</td><td><a href="/miui/viva/stable/V13.0.4.0.SGDIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SGDIDXM</td><td>12.0</td><td>5.6 GB</td><td>2022-09-27</td><td><a href="/miui/viva/stable/V13.0.4.0.SGDIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SGDRUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-09-27</td><td><a href="/miui/viva/stable/V13.0.1.0.SGDRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SGDRUXM</td><td>12.0</td><td>5.4 GB</td><td>2022-09-17</td><td><a href="/miui/viva/stable/V13.0.1.0.SGDRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SGDTRXM</td><td>12.0</td><td>3.1 GB</td><td>2022-09-24</td><td><a href="/miui/viva/stable beta/V13.0.1.0.SGDTRXM/">Download</a></td></tr>
