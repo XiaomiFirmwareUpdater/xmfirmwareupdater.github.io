@@ -19,12 +19,12 @@
     android: '12.0'
     miui: V13.0.4.0.SJUEUXM
 - branch: stable
-  date: '2022-08-15'
+  date: '2022-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-15.08.2022/fw_vayu_miui_VAYUINGlobal_V13.0.3.0.SJUINXM_6ff7a8162f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUINGlobal_V13.0.3.0.SJUINXM_6ff7a8162f_12.0.zip
-  filename: fw_vayu_miui_VAYUINGlobal_V13.0.3.0.SJUINXM_6ff7a8162f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-15.11.2022/fw_vayu_miui_VAYUINGlobal_V13.0.4.0.SJUINXM_3326700d73_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUINGlobal_V13.0.4.0.SJUINXM_3326700d73_12.0.zip
+  filename: fw_vayu_miui_VAYUINGlobal_V13.0.4.0.SJUINXM_3326700d73_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SJUINXM
+    miui: V13.0.4.0.SJUINXM
