@@ -52,7 +52,8 @@ permalink: /archive/miui/courbet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 Lite 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SKQINXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-07</td><td><a href="/miui/courbet/stable beta/V13.0.7.0.SKQINXM/">Download</a></td></tr>
+                <tr><td>Mi 11 Lite 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.10.0.SKQMIXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-08</td><td><a href="/miui/courbet/stable beta/V13.0.10.0.SKQMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SKQINXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-07</td><td><a href="/miui/courbet/stable beta/V13.0.7.0.SKQINXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SKQRUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-10-10</td><td><a href="/miui/courbet/stable/V13.0.6.0.SKQRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SKQRUXM</td><td>12.0</td><td>4.8 GB</td><td>2022-09-29</td><td><a href="/miui/courbet/stable/V13.0.6.0.SKQRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 4G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SKQEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-09-14</td><td><a href="/miui/courbet/stable/V13.0.6.0.SKQEUXM/">Download</a></td></tr>
