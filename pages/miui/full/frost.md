@@ -52,9 +52,11 @@ permalink: /archive/miui/frost/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C40 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.RGFTWXM</td><td>11.0</td><td>2.6 GB</td><td>2022-10-13</td><td><a href="/miui/frost/stable/V13.0.4.0.RGFTWXM/">Download</a></td></tr>
+                <tr><td>POCO C40 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.8.0.RGFRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-11-15</td><td><a href="/miui/frost/stable beta/V13.0.8.0.RGFRUXM/">Download</a></td></tr>
+<tr><td>POCO C40 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.RGFTWXM</td><td>11.0</td><td>2.6 GB</td><td>2022-10-13</td><td><a href="/miui/frost/stable/V13.0.4.0.RGFTWXM/">Download</a></td></tr>
 <tr><td>POCO C40 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.RGFTWXM</td><td>11.0</td><td>4.3 GB</td><td>2022-09-20</td><td><a href="/miui/frost/stable/V13.0.4.0.RGFTWXM/">Download</a></td></tr>
-<tr><td>POCO C40 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.RGFRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-09-13</td><td><a href="/miui/frost/stable beta/V13.0.5.0.RGFRUXM/">Download</a></td></tr>
+<tr><td>POCO C40 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.RGFRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-09-13</td><td><a href="/miui/frost/stable/V13.0.5.0.RGFRUXM/">Download</a></td></tr>
+<tr><td>POCO C40 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.RGFRUXM</td><td>11.0</td><td>5.0 GB</td><td>2022-08-23</td><td><a href="/miui/frost/stable/V13.0.5.0.RGFRUXM/">Download</a></td></tr>
 <tr><td>POCO C40 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.12.0.RGFMIXM</td><td>11.0</td><td>2.7 GB</td><td>2022-08-31</td><td><a href="/miui/frost/stable/V13.0.12.0.RGFMIXM/">Download</a></td></tr>
 <tr><td>POCO C40 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.RGFMIXM</td><td>11.0</td><td>5.6 GB</td><td>2022-08-18</td><td><a href="/miui/frost/stable/V13.0.12.0.RGFMIXM/">Download</a></td></tr>
 <tr><td>POCO C40 EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.RGFEUXM</td><td>11.0</td><td>2.7 GB</td><td>2022-08-29</td><td><a href="/miui/frost/stable/V13.0.6.0.RGFEUXM/">Download</a></td></tr>
