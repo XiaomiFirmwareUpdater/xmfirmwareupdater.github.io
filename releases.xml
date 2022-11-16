@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 17 Nov 2022 02:18:20 +0900</pubDate>
+  <pubDate>Thu, 17 Nov 2022 07:42:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 (cupid) - V13.0.27.0.SLCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Thu, 17 Nov 2022 07:42:34 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V13.0.26.0.SLBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 10 (mojito) - V13.0.7.0.SKGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
     <pubDate>Mon, 14 Nov 2022 13:38:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M5/Redmi 11 Prime 4G (rock) - V13.0.8.0.SLUEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rock</link>
-    <pubDate>Sat, 12 Nov 2022 13:40:46 +0900</pubDate>
   </item>
     </channel>
 </rss>
