@@ -749,15 +749,15 @@
     android: '12.0'
     miui: V13.0.6.0.SKPMIXM
 - branch: stable
-  date: '2022-10-21'
+  date: '2022-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-21.10.2022/fw_chopin_miui_CHOPIN_V13.0.11.0.SKPCNXM_f626babb86_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/chopin/fw_chopin_miui_CHOPIN_V13.0.11.0.SKPCNXM_f626babb86_12.0.zip
-  filename: fw_chopin_miui_CHOPIN_V13.0.11.0.SKPCNXM_f626babb86_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-16.11.2022/fw_chopin_miui_CHOPIN_V13.0.13.0.SKPCNXM_f78390d0a5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/chopin/fw_chopin_miui_CHOPIN_V13.0.13.0.SKPCNXM_f78390d0a5_12.0.zip
+  filename: fw_chopin_miui_CHOPIN_V13.0.13.0.SKPCNXM_f78390d0a5_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.11.0.SKPCNXM
+    miui: V13.0.13.0.SKPCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -4799,15 +4799,15 @@
     android: '13.0'
     miui: V13.2.4.0.TLBCNXM
 - branch: stable
-  date: '2022-11-07'
+  date: '2022-11-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-07.11.2022/fw_zeus_miui_ZEUSEEAGlobal_V13.0.25.0.SLBEUXM_34cb82f91f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUSEEAGlobal_V13.0.25.0.SLBEUXM_34cb82f91f_12.0.zip
-  filename: fw_zeus_miui_ZEUSEEAGlobal_V13.0.25.0.SLBEUXM_34cb82f91f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-16.11.2022/fw_zeus_miui_ZEUSEEAGlobal_V13.0.26.0.SLBEUXM_fca1b9668c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUSEEAGlobal_V13.0.26.0.SLBEUXM_fca1b9668c_12.0.zip
+  filename: fw_zeus_miui_ZEUSEEAGlobal_V13.0.26.0.SLBEUXM_fca1b9668c_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.25.0.SLBEUXM
+    miui: V13.0.26.0.SLBEUXM
 - branch: stable
   date: '2022-10-19'
   downloads:

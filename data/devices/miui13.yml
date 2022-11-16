@@ -780,6 +780,12 @@
   version: V13.0.7.0.SKPCNXM
 - android: '12.0'
   codename: chopin
+  date: '2022-11-16'
+  download: https://bigota.d.miui.com/V13.0.13.0.SKPCNXM/fw_chopin_miui_CHOPIN_V13.0.13.0.SKPCNXM_f78390d0a5_12.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: V13.0.13.0.SKPCNXM
+- android: '12.0'
+  codename: chopin
   date: '2022-03-15'
   download: https://bigota.d.miui.com/V13.0.3.0.SKPMIXM/fw_chopin_miui_CHOPINGlobal_V13.0.3.0.SKPMIXM_bef6957efe_12.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
@@ -4714,6 +4720,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.0.3.0.SLBMIXM_91c62f666f_12.0.zip
   name: Xiaomi 12 Pro
   version: V13.0.3.0.SLBMIXM
+- android: '12.0'
+  codename: zeus
+  date: '2022-11-16'
+  download: https://bigota.d.miui.com/V13.0.26.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.26.0.SLBEUXM_fca1b9668c_12.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.0.26.0.SLBEUXM
 - android: '12.0'
   codename: zeus
   date: '2022-04-15'
