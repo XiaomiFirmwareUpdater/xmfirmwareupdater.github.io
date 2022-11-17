@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 17 Nov 2022 13:38:47 +0900</pubDate>
+  <pubDate>Thu, 17 Nov 2022 19:55:54 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.3.0.SKCINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
+    <pubDate>Thu, 17 Nov 2022 19:55:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V13.0.6.0.SKTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
+    <pubDate>Thu, 17 Nov 2022 19:39:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Lite (monet) - V13.0.4.0.SJIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/monet</link>
+    <pubDate>Thu, 17 Nov 2022 19:20:49 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.9.0.SKHEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
@@ -90,21 +105,6 @@
     <title>Redmi 10C (fog) - V13.0.2.0.SGEINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
     <pubDate>Mon, 14 Nov 2022 20:47:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V13.0.4.0.SLFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
-    <pubDate>Mon, 14 Nov 2022 20:25:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi 2 (ziyi) - V13.0.8.0.SLLCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
-    <pubDate>Mon, 14 Nov 2022 14:43:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro 4G (viva) - V13.0.10.0.RGDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
-    <pubDate>Mon, 14 Nov 2022 13:59:12 +0900</pubDate>
   </item>
     </channel>
 </rss>

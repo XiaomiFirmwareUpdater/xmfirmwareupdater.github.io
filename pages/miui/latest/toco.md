@@ -59,9 +59,10 @@ permalink: /miui/toco/
 <tr><td>Mi Note 10 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SFNMIXM</td><td>12.0</td><td>3.1 GB</td><td>2022-11-03</td><td><a href="/miui/toco/stable beta/V13.0.4.0.SFNMIXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SFNRUXM</td><td>12.0</td><td>4.5 GB</td><td>2022-05-27</td><td><a href="/miui/toco/stable/V13.0.3.0.SFNRUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SFNRUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-06-07</td><td><a href="/miui/toco/stable/V13.0.3.0.SFNRUXM/">Download</a></td></tr>
-<tr><td>Mi Note 10 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SFNTRXM</td><td>12.0</td><td>4.4 GB</td><td>2022-03-16</td><td><a href="/miui/toco/stable/V13.0.1.0.SFNTRXM/">Download</a></td></tr>
-<tr><td>Mi Note 10 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SFNTRXM</td><td>12.0</td><td>3.1 GB</td><td>2022-03-30</td><td><a href="/miui/toco/stable/V13.0.1.0.SFNTRXM/">Download</a></td></tr>
-<tr><td>Mi Note 10 Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SFNTRXM</td><td>12.0</td><td>3.1 GB</td><td>2022-07-20</td><td><a href="/miui/toco/stable beta/V13.0.2.0.SFNTRXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SFNRUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-11-09</td><td><a href="/miui/toco/stable beta/V13.0.4.0.SFNRUXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SFNTRXM</td><td>12.0</td><td>4.3 GB</td><td>2022-07-11</td><td><a href="/miui/toco/stable/V13.0.2.0.SFNTRXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SFNTRXM</td><td>12.0</td><td>3.1 GB</td><td>2022-07-20</td><td><a href="/miui/toco/stable/V13.0.2.0.SFNTRXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SFNTRXM</td><td>12.0</td><td>3.1 GB</td><td>2022-11-08</td><td><a href="/miui/toco/stable beta/V13.0.3.0.SFNTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
