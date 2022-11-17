@@ -126,6 +126,12 @@
   version: V13.0.5.0.SKHCNXM
 - android: '12.0'
   codename: alioth
+  date: '2022-11-17'
+  download: https://bigota.d.miui.com/V13.0.9.0.SKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_V13.0.9.0.SKHEUXM_f9603cf7f3_12.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: V13.0.9.0.SKHEUXM
+- android: '12.0'
+  codename: alioth
   date: '2022-09-15'
   download: https://bigota.d.miui.com/V13.0.8.0.SKHINXM/fw_alioth_miui_ALIOTHINGlobal_V13.0.8.0.SKHINXM_6f4e3d0f50_12.0.zip
   name: Redmi K40/POCO F3/Mi 11X
