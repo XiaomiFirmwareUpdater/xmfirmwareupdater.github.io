@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 17 Nov 2022 19:55:54 +0900</pubDate>
+  <pubDate>Sat, 19 Nov 2022 01:27:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.5.0.SGMINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ice</link>
+    <pubDate>Sat, 19 Nov 2022 01:27:07 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.3.0.SKCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V12.5.10.0.RJQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Mon, 14 Nov 2022 20:49:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10C (fog) - V13.0.2.0.SGEINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
-    <pubDate>Mon, 14 Nov 2022 20:47:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
