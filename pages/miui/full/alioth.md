@@ -52,7 +52,9 @@ permalink: /archive/miui/alioth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO F3 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.9.0.SKHEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-11</td><td><a href="/miui/alioth/stable beta/V13.0.9.0.SKHEUXM/">Download</a></td></tr>
+                <tr><td>POCO F3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SKHIDXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-15</td><td><a href="/miui/alioth/stable beta/V13.0.5.0.SKHIDXM/">Download</a></td></tr>
+<tr><td>POCO F3 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SKHRUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-15</td><td><a href="/miui/alioth/stable beta/V13.0.5.0.SKHRUXM/">Download</a></td></tr>
+<tr><td>POCO F3 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.9.0.SKHEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-11</td><td><a href="/miui/alioth/stable beta/V13.0.9.0.SKHEUXM/">Download</a></td></tr>
 <tr><td>Mi 11X India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.9.0.SKHINXM</td><td>12.0</td><td>3.3 GB</td><td>2022-11-11</td><td><a href="/miui/alioth/stable beta/V13.0.9.0.SKHINXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SKHCNXM</td><td>12.0</td><td>4.5 GB</td><td>2022-11-07</td><td><a href="/miui/alioth/stable/V13.0.9.0.SKHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SKHCNXM</td><td>12.0</td><td>5.7 GB</td><td>2022-11-02</td><td><a href="/miui/alioth/stable/V13.0.9.0.SKHCNXM/">Download</a></td></tr>
