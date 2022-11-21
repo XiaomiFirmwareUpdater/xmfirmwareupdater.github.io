@@ -49259,6 +49259,16 @@
     android: '12.0'
     miui: V13.0.11.0.SLIEUXM
 - branch: stable
+  date: '2022-11-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-21.11.2022/fw_taoyao_miui_TAOYAOGlobal_V13.0.5.0.SLIMIXM_680fabcafd_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/taoyao/fw_taoyao_miui_TAOYAOGlobal_V13.0.5.0.SLIMIXM_680fabcafd_12.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_V13.0.5.0.SLIMIXM_680fabcafd_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SLIMIXM
+- branch: stable
   date: '2022-08-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-13.08.2022/fw_taoyao_miui_TAOYAOGlobal_V13.0.4.0.SLIMIXM_c2ad64eab1_12.0.zip

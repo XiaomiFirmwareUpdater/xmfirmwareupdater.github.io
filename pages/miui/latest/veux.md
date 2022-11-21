@@ -61,7 +61,7 @@ permalink: /miui/veux/
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKCMIXM</td><td>12.0</td><td>3.4 GB</td><td>2022-10-24</td><td><a href="/miui/veux/stable/V13.0.4.0.SKCMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.RKCIDXM</td><td>11.0</td><td>5.2 GB</td><td>2022-07-02</td><td><a href="/miui/veux/stable/V13.0.3.0.RKCIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.RKCIDXM</td><td>11.0</td><td>3.1 GB</td><td>2022-07-17</td><td><a href="/miui/veux/stable/V13.0.3.0.RKCIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKCIDXM</td><td>12.0</td><td>3.2 GB</td><td>2022-10-28</td><td><a href="/miui/veux/stable beta/V13.0.3.0.SKCIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKCIDXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-16</td><td><a href="/miui/veux/stable beta/V13.0.4.0.SKCIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G India</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SKCINXM</td><td>12.0</td><td>4.3 GB</td><td>2022-08-26</td><td><a href="/miui/veux/stable/V13.0.1.0.SKCINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G India</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SKCINXM</td><td>12.0</td><td>3.2 GB</td><td>2022-09-20</td><td><a href="/miui/veux/stable/V13.0.1.0.SKCINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKCINXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-14</td><td><a href="/miui/veux/stable beta/V13.0.3.0.SKCINXM/">Download</a></td></tr>
@@ -74,6 +74,7 @@ permalink: /miui/veux/
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.RKCTRXM</td><td>11.0</td><td>3.1 GB</td><td>2022-07-17</td><td><a href="/miui/veux/stable/V13.0.4.0.RKCTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.RKCTWXM</td><td>11.0</td><td>4.6 GB</td><td>2022-07-11</td><td><a href="/miui/veux/stable/V13.0.5.0.RKCTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.RKCTWXM</td><td>11.0</td><td>3.0 GB</td><td>2022-07-18</td><td><a href="/miui/veux/stable/V13.0.5.0.RKCTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKCTWXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-14</td><td><a href="/miui/veux/stable beta/V13.0.3.0.SKCTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
