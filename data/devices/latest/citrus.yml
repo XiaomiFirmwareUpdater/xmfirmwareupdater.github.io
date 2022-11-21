@@ -19,12 +19,12 @@
     android: '11.0'
     miui: V12.5.7.0.RJFEUXM
 - branch: stable
-  date: '2022-09-14'
+  date: '2022-11-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-14.09.2022/fw_citrus_miui_CITRUSINGlobal_V12.5.5.0.RJFINXM_acb557f6ef_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSINGlobal_V12.5.5.0.RJFINXM_acb557f6ef_11.0.zip
-  filename: fw_citrus_miui_CITRUSINGlobal_V12.5.5.0.RJFINXM_acb557f6ef_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-21.11.2022/fw_citrus_miui_CITRUSINGlobal_V12.5.6.0.RJFINXM_9f960c82b5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSINGlobal_V12.5.6.0.RJFINXM_9f960c82b5_11.0.zip
+  filename: fw_citrus_miui_CITRUSINGlobal_V12.5.6.0.RJFINXM_9f960c82b5_11.0.zip
   region: India
   versions:
     android: '11.0'
-    miui: V12.5.5.0.RJFINXM
+    miui: V12.5.6.0.RJFINXM

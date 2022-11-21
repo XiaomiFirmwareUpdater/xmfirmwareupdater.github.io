@@ -52,7 +52,8 @@ permalink: /archive/miui/gauguin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10i India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SJSINXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-07</td><td><a href="/miui/gauguin/stable beta/V13.0.7.0.SJSINXM/">Download</a></td></tr>
+                <tr><td>Mi 10i India</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SJSINXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-07</td><td><a href="/miui/gauguin/stable/V13.0.7.0.SJSINXM/">Download</a></td></tr>
+<tr><td>Mi 10i India</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SJSINXM</td><td>12.0</td><td>3.9 GB</td><td>2022-10-25</td><td><a href="/miui/gauguin/stable/V13.0.7.0.SJSINXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SJSTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-11-01</td><td><a href="/miui/gauguin/stable beta/V13.0.4.0.SJSTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-10-28</td><td><a href="/miui/gauguin/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
 <tr><td>Mi 10T Lite EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.11.0.SJSEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-10-27</td><td><a href="/miui/gauguin/stable/V13.0.11.0.SJSEUXM/">Download</a></td></tr>

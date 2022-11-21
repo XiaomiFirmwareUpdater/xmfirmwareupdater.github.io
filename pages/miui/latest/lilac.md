@@ -1,15 +1,15 @@
 ---
-title: Xiaomi Civi 2 (ziyi) MIUI Downloads
+title: Redmi Note 10T (lilac) MIUI Downloads
 layout: download
-name: Xiaomi Civi 2
-codename: ziyi
-permalink: /miui/ziyi/
+name: Redmi Note 10T
+codename: lilac
+permalink: /miui/lilac/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/ziyi/">Xiaomi Civi 2</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/lilac/">Redmi Note 10T</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/ziyi/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/ziyi/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/ziyi/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/ziyi/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/lilac/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/lilac/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/lilac/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,9 +52,7 @@ permalink: /miui/ziyi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SLLCNXM</td><td>12.0</td><td>7.2 GB</td><td>2022-11-05</td><td><a href="/miui/ziyi/stable/V13.0.8.0.SLLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-11-11</td><td><a href="/miui/ziyi/stable/V13.0.8.0.SLLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.9.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-11-19</td><td><a href="/miui/ziyi/stable beta/V13.0.9.0.SLLCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10T Japan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKNJPXM</td><td>12.0</td><td>3.0 GB</td><td>2022-10-31</td><td><a href="/miui/lilac/stable beta/V13.0.2.0.SKNJPXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
