@@ -52,7 +52,8 @@ permalink: /archive/miui/lilac/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10T Japan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SKNJPXM</td><td>12.0</td><td>3.0 GB</td><td>2022-10-31</td><td><a href="/miui/lilac/stable beta/V13.0.2.0.SKNJPXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKNJPXM</td><td>12.0</td><td>3.0 GB</td><td>2022-10-31</td><td><a href="/miui/lilac/stable/V13.0.2.0.SKNJPXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKNJPXM</td><td>12.0</td><td>5.1 GB</td><td>2022-10-08</td><td><a href="/miui/lilac/stable/V13.0.2.0.SKNJPXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
