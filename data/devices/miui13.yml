@@ -768,6 +768,12 @@
   version: V13.0.6.0.SKPMIXM
 - android: '12.0'
   codename: chopin
+  date: '2022-11-22'
+  download: https://bigota.d.miui.com/V13.0.7.0.SKPMIXM/fw_chopin_miui_CHOPINGlobal_V13.0.7.0.SKPMIXM_33ac75ace7_12.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: V13.0.7.0.SKPMIXM
+- android: '12.0'
+  codename: chopin
   date: '2022-10-21'
   download: https://bigota.d.miui.com/V13.0.11.0.SKPCNXM/fw_chopin_miui_CHOPIN_V13.0.11.0.SKPCNXM_f626babb86_12.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT

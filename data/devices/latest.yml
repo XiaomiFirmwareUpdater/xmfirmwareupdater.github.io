@@ -739,15 +739,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2022-08-23'
+  date: '2022-11-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-23.08.2022/fw_chopin_miui_CHOPINGlobal_V13.0.6.0.SKPMIXM_6e1de47fcd_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/chopin/fw_chopin_miui_CHOPINGlobal_V13.0.6.0.SKPMIXM_6e1de47fcd_12.0.zip
-  filename: fw_chopin_miui_CHOPINGlobal_V13.0.6.0.SKPMIXM_6e1de47fcd_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-22.11.2022/fw_chopin_miui_CHOPINGlobal_V13.0.7.0.SKPMIXM_33ac75ace7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/chopin/fw_chopin_miui_CHOPINGlobal_V13.0.7.0.SKPMIXM_33ac75ace7_12.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V13.0.7.0.SKPMIXM_33ac75ace7_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SKPMIXM
+    miui: V13.0.7.0.SKPMIXM
 - branch: stable
   date: '2022-11-16'
   downloads:
