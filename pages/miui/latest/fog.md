@@ -62,9 +62,8 @@ permalink: /miui/fog/
 <tr><td>Redmi 10C Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SGEIDXM</td><td>12.0</td><td>2.8 GB</td><td>2022-11-15</td><td><a href="/miui/fog/stable beta/V13.0.2.0.SGEIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10C India</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SGEINXM</td><td>12.0</td><td>4.0 GB</td><td>2022-11-03</td><td><a href="/miui/fog/stable/V13.0.2.0.SGEINXM/">Download</a></td></tr>
 <tr><td>Redmi 10C India</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SGEINXM</td><td>12.0</td><td>2.8 GB</td><td>2022-11-09</td><td><a href="/miui/fog/stable/V13.0.2.0.SGEINXM/">Download</a></td></tr>
-<tr><td>Redmi 10C Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SGERUXM</td><td>12.0</td><td>4.9 GB</td><td>2022-08-10</td><td><a href="/miui/fog/stable/V13.0.1.0.SGERUXM/">Download</a></td></tr>
-<tr><td>Redmi 10C Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SGERUXM</td><td>12.0</td><td>2.8 GB</td><td>2022-08-17</td><td><a href="/miui/fog/stable/V13.0.1.0.SGERUXM/">Download</a></td></tr>
-<tr><td>Redmi 10C Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SGERUXM</td><td>12.0</td><td>2.8 GB</td><td>2022-11-14</td><td><a href="/miui/fog/stable beta/V13.0.2.0.SGERUXM/">Download</a></td></tr>
+<tr><td>Redmi 10C Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SGERUXM</td><td>12.0</td><td>4.9 GB</td><td>2022-11-08</td><td><a href="/miui/fog/stable/V13.0.2.0.SGERUXM/">Download</a></td></tr>
+<tr><td>Redmi 10C Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SGERUXM</td><td>12.0</td><td>2.8 GB</td><td>2022-11-14</td><td><a href="/miui/fog/stable/V13.0.2.0.SGERUXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.RGETRXM</td><td>11.0</td><td>4.4 GB</td><td>2022-06-20</td><td><a href="/miui/fog/stable/V13.0.1.0.RGETRXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.RGETRXM</td><td>11.0</td><td>2.6 GB</td><td>2022-10-13</td><td><a href="/miui/fog/stable/V13.0.1.0.RGETRXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SGETRXM</td><td>12.0</td><td>2.8 GB</td><td>2022-10-27</td><td><a href="/miui/fog/stable beta/V13.0.1.0.SGETRXM/">Download</a></td></tr>
