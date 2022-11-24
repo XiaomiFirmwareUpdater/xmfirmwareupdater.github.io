@@ -182,7 +182,7 @@ permalink: /archive/miui/toco/
 <tr><td>Mi Note 10 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.1.0.QFNRUXM</td><td>10.0</td><td>4.0 GB</td><td>2020-04-18</td><td><a href="/miui/toco/stable/V11.0.1.0.QFNRUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QFNEUXM</td><td>10.0</td><td>2.4 GB</td><td>2020-05-08</td><td><a href="/miui/toco/stable/V11.0.3.0.QFNEUXM/">Download</a></td></tr>
 <tr><td>Mi Note 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QFNEUXM</td><td>10.0</td><td>4.0 GB</td><td>2020-04-10</td><td><a href="/miui/toco/stable/V11.0.3.0.QFNEUXM/">Download</a></td></tr>
-<tr><td>Mi Note 10 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SFNMIXM</td><td>12.0</td><td>3.1 GB</td><td>None</td><td><a href="/miui/toco/stable beta/V13.0.3.0.SFNMIXM/">Download</a></td></tr>
+<tr><td>Mi Note 10 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SFNMIXM</td><td>12.0</td><td>315 Bytes</td><td>None</td><td><a href="/miui/toco/stable beta/V13.0.3.0.SFNMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
