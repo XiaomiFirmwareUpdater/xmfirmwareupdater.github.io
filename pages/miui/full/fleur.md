@@ -52,7 +52,8 @@ permalink: /archive/miui/fleur/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.RKEEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-11-07</td><td><a href="/miui/fleur/stable/V13.0.10.0.RKEEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SKEINXM</td><td>12.0</td><td>3.1 GB</td><td>2022-11-23</td><td><a href="/miui/fleur/stable beta/V13.0.3.0.SKEINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.RKEEUXM</td><td>11.0</td><td>2.8 GB</td><td>2022-11-07</td><td><a href="/miui/fleur/stable/V13.0.10.0.RKEEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.RKEEUXM</td><td>11.0</td><td>5.9 GB</td><td>2022-10-31</td><td><a href="/miui/fleur/stable/V13.0.10.0.RKEEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKEIDXM</td><td>12.0</td><td>3.1 GB</td><td>2022-09-27</td><td><a href="/miui/fleur/stable/V13.0.2.0.SKEIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 4G / POCO M4 Pro 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKEIDXM</td><td>12.0</td><td>5.7 GB</td><td>2022-09-16</td><td><a href="/miui/fleur/stable/V13.0.2.0.SKEIDXM/">Download</a></td></tr>
