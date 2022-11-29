@@ -52,7 +52,8 @@ permalink: /archive/miui/excalibur/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJXINXM</td><td>12.0</td><td>2.8 GB</td><td>2022-10-19</td><td><a href="/miui/excalibur/stable/V13.0.1.0.SJXINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 Pro Max India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJXINXM</td><td>12.0</td><td>2.8 GB</td><td>2022-11-23</td><td><a href="/miui/excalibur/stable beta/V13.0.2.0.SJXINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJXINXM</td><td>12.0</td><td>2.8 GB</td><td>2022-10-19</td><td><a href="/miui/excalibur/stable/V13.0.1.0.SJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJXINXM</td><td>12.0</td><td>3.6 GB</td><td>2022-08-29</td><td><a href="/miui/excalibur/stable/V13.0.1.0.SJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V12.5.6.0.RJXINXM</td><td>11.0</td><td>2.7 GB</td><td>2022-04-14</td><td><a href="/miui/excalibur/stable/V12.5.6.0.RJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V12.5.6.0.RJXINXM</td><td>11.0</td><td>3.4 GB</td><td>2022-04-06</td><td><a href="/miui/excalibur/stable/V12.5.6.0.RJXINXM/">Download</a></td></tr>
@@ -64,9 +65,9 @@ permalink: /archive/miui/excalibur/
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RJXINXM</td><td>11.0</td><td>3.1 GB</td><td>2021-06-24</td><td><a href="/miui/excalibur/stable/V12.0.1.0.RJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V12.0.4.0.QJXINXM</td><td>10.0</td><td>2.5 GB</td><td>2021-05-25</td><td><a href="/miui/excalibur/stable/V12.0.4.0.QJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V12.0.4.0.QJXINXM</td><td>10.0</td><td>3.1 GB</td><td>2021-05-19</td><td><a href="/miui/excalibur/stable/V12.0.4.0.QJXINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Max India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RJXINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-09-27</td><td><a href="/miui/excalibur/stable beta/V12.5.2.0.RJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QJXINXM</td><td>10.0</td><td>2.5 GB</td><td>2021-02-23</td><td><a href="/miui/excalibur/stable/V12.0.3.0.QJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QJXINXM</td><td>10.0</td><td>3.1 GB</td><td>2021-02-18</td><td><a href="/miui/excalibur/stable/V12.0.3.0.QJXINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro Max India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RJXINXM</td><td>11.0</td><td>2.6 GB</td><td>2021-09-27</td><td><a href="/miui/excalibur/stable beta/V12.5.2.0.RJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.QJXINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-12-16</td><td><a href="/miui/excalibur/stable beta/V12.0.2.0.QJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V11.0.4.0.QJXINXM</td><td>10.0</td><td>2.4 GB</td><td>2020-07-14</td><td><a href="/miui/excalibur/stable/V11.0.4.0.QJXINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Max India</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QJXINXM</td><td>10.0</td><td>2.3 GB</td><td>2020-05-06</td><td><a href="/miui/excalibur/stable/V11.0.2.0.QJXINXM/">Download</a></td></tr>
