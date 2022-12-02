@@ -52,9 +52,9 @@ permalink: /miui/camellian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKSEUXM</td><td>12.0</td><td>5.9 GB</td><td>2022-08-18</td><td><a href="/miui/camellian/stable/V13.0.3.0.SKSEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKSEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-08-30</td><td><a href="/miui/camellian/stable/V13.0.3.0.SKSEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SKSEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-24</td><td><a href="/miui/camellian/stable beta/V13.0.5.0.SKSEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKSEUXM</td><td>12.0</td><td>5.9 GB</td><td>2022-11-21</td><td><a href="/miui/camellian/stable/V13.0.5.0.SKSEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKSEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-24</td><td><a href="/miui/camellian/stable/V13.0.5.0.SKSEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.RKSEUXM</td><td>11.0</td><td>2.3 GB</td><td>2021-04-28</td><td><a href="/miui/camellian/stable beta/V12.0.3.0.RKSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKSMIXM</td><td>12.0</td><td>5.9 GB</td><td>2022-09-07</td><td><a href="/miui/camellian/stable/V13.0.3.0.SKSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKSMIXM</td><td>12.0</td><td>3.2 GB</td><td>2022-09-23</td><td><a href="/miui/camellian/stable/V13.0.3.0.SKSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKSMIXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-24</td><td><a href="/miui/camellian/stable beta/V13.0.4.0.SKSMIXM/">Download</a></td></tr>
