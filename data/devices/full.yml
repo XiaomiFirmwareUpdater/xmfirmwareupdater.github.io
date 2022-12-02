@@ -19338,6 +19338,16 @@
   versions:
     android: '12.0'
     miui: V13.0.7.0.SLFEUXM
+- branch: stable
+  date: '2022-11-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-08.11.2022/fw_diting_miui_DITINGEEAGlobal_V13.0.11.0.SLFEUXM_40abff13eb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/diting/fw_diting_miui_DITINGEEAGlobal_V13.0.11.0.SLFEUXM_40abff13eb_12.0.zip
+  filename: fw_diting_miui_DITINGEEAGlobal_V13.0.11.0.SLFEUXM_40abff13eb_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SLFEUXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
