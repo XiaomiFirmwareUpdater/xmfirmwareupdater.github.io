@@ -60,8 +60,10 @@ permalink: /miui/cannon/
 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.2</td><td>11.0</td><td>3.9 GB</td><td>2022-03-03</td><td><a href="/miui/cannon/weekly/22.3.2/">Download</a></td></tr>
 <tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJEEUXM</td><td>12.0</td><td>5.5 GB</td><td>2022-09-01</td><td><a href="/miui/cannong/stable/V13.0.3.0.SJEEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJEEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-09-08</td><td><a href="/miui/cannong/stable/V13.0.3.0.SJEEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SJEEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-12-02</td><td><a href="/miui/cannong/stable beta/V13.0.4.0.SJEEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJEMIXM</td><td>12.0</td><td>5.5 GB</td><td>2022-08-29</td><td><a href="/miui/cannong/stable/V13.0.3.0.SJEMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJEMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-09-08</td><td><a href="/miui/cannong/stable/V13.0.3.0.SJEMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SJEMIXM</td><td>12.0</td><td>3.2 GB</td><td>2022-12-05</td><td><a href="/miui/cannong/stable beta/V13.0.4.0.SJEMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJERUXM</td><td>12.0</td><td>4.8 GB</td><td>2022-08-22</td><td><a href="/miui/cannong/stable/V13.0.1.0.SJERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJERUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-09-05</td><td><a href="/miui/cannong/stable/V13.0.1.0.SJERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RJETRXM</td><td>11.0</td><td>4.2 GB</td><td>2022-03-07</td><td><a href="/miui/cannong/stable/V12.5.3.0.RJETRXM/">Download</a></td></tr>
