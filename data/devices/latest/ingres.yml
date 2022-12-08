@@ -19,12 +19,12 @@
     android: '12.0'
     miui: V13.0.11.0.SLJCNXM
 - branch: stable
-  date: '2022-08-18'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-18.08.2022/fw_ingres_miui_INGRESEEAGlobal_V13.0.8.0.SLJEUXM_5c28342d66_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRESEEAGlobal_V13.0.8.0.SLJEUXM_5c28342d66_12.0.zip
-  filename: fw_ingres_miui_INGRESEEAGlobal_V13.0.8.0.SLJEUXM_5c28342d66_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-08.12.2022/fw_ingres_miui_INGRESEEAGlobal_V13.0.12.0.SLJEUXM_764da433f5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ingres/fw_ingres_miui_INGRESEEAGlobal_V13.0.12.0.SLJEUXM_764da433f5_12.0.zip
+  filename: fw_ingres_miui_INGRESEEAGlobal_V13.0.12.0.SLJEUXM_764da433f5_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.8.0.SLJEUXM
+    miui: V13.0.12.0.SLJEUXM
