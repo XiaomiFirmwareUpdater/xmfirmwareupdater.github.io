@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2022-11-14'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-15.11.2022/fw_fog_miui_FOGGlobal_V13.0.4.0.SGEMIXM_facec8dc4d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGGlobal_V13.0.4.0.SGEMIXM_facec8dc4d_12.0.zip
-  filename: fw_fog_miui_FOGGlobal_V13.0.4.0.SGEMIXM_facec8dc4d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-08.12.2022/fw_fog_miui_FOGGlobal_V13.0.13.0.RGEMIXM_2fb38d54c9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGGlobal_V13.0.13.0.RGEMIXM_2fb38d54c9_11.0.zip
+  filename: fw_fog_miui_FOGGlobal_V13.0.13.0.RGEMIXM_2fb38d54c9_11.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.4.0.SGEMIXM
+    android: '11.0'
+    miui: V13.0.13.0.RGEMIXM
 - branch: stable
-  date: '2022-11-14'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-14.11.2022/fw_fog_miui_FOGEEAGlobal_V13.0.7.0.RGEEUXM_4ec582a5dd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGEEAGlobal_V13.0.7.0.RGEEUXM_4ec582a5dd_11.0.zip
-  filename: fw_fog_miui_FOGEEAGlobal_V13.0.7.0.RGEEUXM_4ec582a5dd_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-08.12.2022/fw_fog_miui_FOGEEAGlobal_V13.0.3.0.SGEEUXM_5a9b6e6261_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGEEAGlobal_V13.0.3.0.SGEEUXM_5a9b6e6261_12.0.zip
+  filename: fw_fog_miui_FOGEEAGlobal_V13.0.3.0.SGEEUXM_5a9b6e6261_12.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V13.0.7.0.RGEEUXM
+    android: '12.0'
+    miui: V13.0.3.0.SGEEUXM
 - branch: stable
   date: '2022-11-14'
   downloads:

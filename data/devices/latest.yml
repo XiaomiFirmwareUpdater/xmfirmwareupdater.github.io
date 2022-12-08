@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.5.0.SKWMIXM
 - branch: stable
-  date: '2022-10-14'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-14.10.2022/fw_agate_miui_AGATEEEAGlobal_V13.0.8.0.SKWEUXM_f521a640e9_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/agate/fw_agate_miui_AGATEEEAGlobal_V13.0.8.0.SKWEUXM_f521a640e9_12.0.zip
-  filename: fw_agate_miui_AGATEEEAGlobal_V13.0.8.0.SKWEUXM_f521a640e9_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-08.12.2022/fw_agate_miui_AGATEEEAGlobal_V13.0.9.0.SKWEUXM_508311938e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/agate/fw_agate_miui_AGATEEEAGlobal_V13.0.9.0.SKWEUXM_508311938e_12.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V13.0.9.0.SKWEUXM_508311938e_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.8.0.SKWEUXM
+    miui: V13.0.9.0.SKWEUXM
 - branch: stable
   date: '2022-11-08'
   downloads:
@@ -239,15 +239,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-08-25'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-25.08.2022/fw_ares_miui_ARESINGlobal_V13.0.4.0.SKJINXM_cda5f54377_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ares/fw_ares_miui_ARESINGlobal_V13.0.4.0.SKJINXM_cda5f54377_12.0.zip
-  filename: fw_ares_miui_ARESINGlobal_V13.0.4.0.SKJINXM_cda5f54377_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-08.12.2022/fw_ares_miui_ARESINGlobal_V13.0.5.0.SKJINXM_6d348beef2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ares/fw_ares_miui_ARESINGlobal_V13.0.5.0.SKJINXM_6d348beef2_12.0.zip
+  filename: fw_ares_miui_ARESINGlobal_V13.0.5.0.SKJINXM_6d348beef2_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SKJINXM
+    miui: V13.0.5.0.SKJINXM
 - branch: stable
   date: '2022-10-26'
   downloads:
@@ -409,15 +409,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2022-09-20'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-20.09.2022/fw_camellia_miui_CAMELLIA_V13.0.5.0.SKSCNXM_6c412c868a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellia/fw_camellia_miui_CAMELLIA_V13.0.5.0.SKSCNXM_6c412c868a_12.0.zip
-  filename: fw_camellia_miui_CAMELLIA_V13.0.5.0.SKSCNXM_6c412c868a_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-08.12.2022/fw_camellia_miui_CAMELLIA_V13.0.9.0.SKSCNXM_4043385982_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellia/fw_camellia_miui_CAMELLIA_V13.0.9.0.SKSCNXM_4043385982_12.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V13.0.9.0.SKSCNXM_4043385982_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SKSCNXM
+    miui: V13.0.9.0.SKSCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -429,25 +429,25 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-09-28'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-28.09.2022/fw_camellian_miui_CAMELLIANGlobal_V13.0.3.0.SKSMIXM_7d109a562f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellian/fw_camellian_miui_CAMELLIANGlobal_V13.0.3.0.SKSMIXM_7d109a562f_12.0.zip
-  filename: fw_camellian_miui_CAMELLIANGlobal_V13.0.3.0.SKSMIXM_7d109a562f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-08.12.2022/fw_camellian_miui_CAMELLIANGlobal_V13.0.4.0.SKSMIXM_e2d52cbc9f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellian/fw_camellian_miui_CAMELLIANGlobal_V13.0.4.0.SKSMIXM_e2d52cbc9f_12.0.zip
+  filename: fw_camellian_miui_CAMELLIANGlobal_V13.0.4.0.SKSMIXM_e2d52cbc9f_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SKSMIXM
+    miui: V13.0.4.0.SKSMIXM
 - branch: stable
-  date: '2022-09-02'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-02.09.2022/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.3.0.SKSEUXM_746d4816d5_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellian/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.3.0.SKSEUXM_746d4816d5_12.0.zip
-  filename: fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.3.0.SKSEUXM_746d4816d5_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-08.12.2022/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.5.0.SKSEUXM_502e1fbb4d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellian/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.5.0.SKSEUXM_502e1fbb4d_12.0.zip
+  filename: fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.5.0.SKSEUXM_502e1fbb4d_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SKSEUXM
+    miui: V13.0.5.0.SKSEUXM
 - branch: stable
   date: '2022-08-10'
   downloads:
@@ -469,25 +469,25 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2022-09-17'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-17.09.2022/fw_cannong_miui_CANNONGGlobal_V13.0.3.0.SJEMIXM_3e0f210a9e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGGlobal_V13.0.3.0.SJEMIXM_3e0f210a9e_12.0.zip
-  filename: fw_cannong_miui_CANNONGGlobal_V13.0.3.0.SJEMIXM_3e0f210a9e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-08.12.2022/fw_cannong_miui_CANNONGGlobal_V13.0.4.0.SJEMIXM_9679e89f94_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGGlobal_V13.0.4.0.SJEMIXM_9679e89f94_12.0.zip
+  filename: fw_cannong_miui_CANNONGGlobal_V13.0.4.0.SJEMIXM_9679e89f94_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SJEMIXM
+    miui: V13.0.4.0.SJEMIXM
 - branch: stable
-  date: '2022-09-17'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-17.09.2022/fw_cannong_miui_CANNONGEEAGlobal_V13.0.3.0.SJEEUXM_e5aa1189ff_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGEEAGlobal_V13.0.3.0.SJEEUXM_e5aa1189ff_12.0.zip
-  filename: fw_cannong_miui_CANNONGEEAGlobal_V13.0.3.0.SJEEUXM_e5aa1189ff_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannong/releases/download/stable-08.12.2022/fw_cannong_miui_CANNONGEEAGlobal_V13.0.4.0.SJEEUXM_1ac7ea8634_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cannong/fw_cannong_miui_CANNONGEEAGlobal_V13.0.4.0.SJEEUXM_1ac7ea8634_12.0.zip
+  filename: fw_cannong_miui_CANNONGEEAGlobal_V13.0.4.0.SJEEUXM_1ac7ea8634_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SJEEUXM
+    miui: V13.0.4.0.SJEEUXM
 - branch: stable
   date: '2019-01-14'
   downloads:
@@ -769,25 +769,25 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-08-18'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-18.08.2022/fw_citrus_miui_CITRUSGlobal_V12.5.9.0.RJFMIXM_c81ee75b10_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSGlobal_V12.5.9.0.RJFMIXM_c81ee75b10_11.0.zip
-  filename: fw_citrus_miui_CITRUSGlobal_V12.5.9.0.RJFMIXM_c81ee75b10_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-08.12.2022/fw_citrus_miui_CITRUSGlobal_V12.5.10.0.RJFMIXM_8b9fc663c3_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSGlobal_V12.5.10.0.RJFMIXM_8b9fc663c3_11.0.zip
+  filename: fw_citrus_miui_CITRUSGlobal_V12.5.10.0.RJFMIXM_8b9fc663c3_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.9.0.RJFMIXM
+    miui: V12.5.10.0.RJFMIXM
 - branch: stable
-  date: '2022-08-22'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-22.08.2022/fw_citrus_miui_CITRUSEEAGlobal_V12.5.7.0.RJFEUXM_5435a06274_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSEEAGlobal_V12.5.7.0.RJFEUXM_5435a06274_11.0.zip
-  filename: fw_citrus_miui_CITRUSEEAGlobal_V12.5.7.0.RJFEUXM_5435a06274_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-08.12.2022/fw_citrus_miui_CITRUSEEAGlobal_V12.5.8.0.RJFEUXM_49744d066b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/citrus/fw_citrus_miui_CITRUSEEAGlobal_V12.5.8.0.RJFEUXM_49744d066b_11.0.zip
+  filename: fw_citrus_miui_CITRUSEEAGlobal_V12.5.8.0.RJFEUXM_49744d066b_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RJFEUXM
+    miui: V12.5.8.0.RJFEUXM
 - branch: stable
   date: '2022-11-21'
   downloads:
@@ -919,25 +919,25 @@
     android: '12.0'
     miui: V13.0.10.0.SLCMIXM
 - branch: stable
-  date: '2022-10-13'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-13.10.2022/fw_cupid_miui_CUPID_V13.0.41.0.SLCCNXM_6e6b170502_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPID_V13.0.41.0.SLCCNXM_6e6b170502_12.0.zip
-  filename: fw_cupid_miui_CUPID_V13.0.41.0.SLCCNXM_6e6b170502_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-08.12.2022/fw_cupid_miui_CUPID_V13.2.6.0.TLCCNXM_d5df590dc7_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPID_V13.2.6.0.TLCCNXM_d5df590dc7_13.0.zip
+  filename: fw_cupid_miui_CUPID_V13.2.6.0.TLCCNXM_d5df590dc7_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.41.0.SLCCNXM
+    android: '13.0'
+    miui: V13.2.6.0.TLCCNXM
 - branch: stable
-  date: '2022-11-16'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-17.11.2022/fw_cupid_miui_CUPIDEEAGlobal_V13.0.27.0.SLCEUXM_1f83c17a61_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPIDEEAGlobal_V13.0.27.0.SLCEUXM_1f83c17a61_12.0.zip
-  filename: fw_cupid_miui_CUPIDEEAGlobal_V13.0.27.0.SLCEUXM_1f83c17a61_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-08.12.2022/fw_cupid_miui_CUPIDEEAGlobal_V13.2.4.0.TLCEUXM_8ed9066d46_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPIDEEAGlobal_V13.2.4.0.TLCEUXM_8ed9066d46_13.0.zip
+  filename: fw_cupid_miui_CUPIDEEAGlobal_V13.2.4.0.TLCEUXM_8ed9066d46_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.27.0.SLCEUXM
+    android: '13.0'
+    miui: V13.2.4.0.TLCEUXM
 - branch: stable
   date: '2022-08-25'
   downloads:
@@ -959,15 +959,15 @@
     android: '12.0'
     miui: V13.0.2.0.SJWEUXM
 - branch: stable
-  date: '2022-10-26'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-26.10.2022/fw_curtana_miui_CURTANAINGlobal_V13.0.1.0.SJWINXM_4f4001113c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/curtana/fw_curtana_miui_CURTANAINGlobal_V13.0.1.0.SJWINXM_4f4001113c_12.0.zip
-  filename: fw_curtana_miui_CURTANAINGlobal_V13.0.1.0.SJWINXM_4f4001113c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-08.12.2022/fw_curtana_miui_CURTANAINGlobal_V13.0.2.0.SJWINXM_0e31f1908f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/curtana/fw_curtana_miui_CURTANAINGlobal_V13.0.2.0.SJWINXM_0e31f1908f_12.0.zip
+  filename: fw_curtana_miui_CURTANAINGlobal_V13.0.2.0.SJWINXM_0e31f1908f_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SJWINXM
+    miui: V13.0.2.0.SJWINXM
 - branch: stable
   date: '2022-10-27'
   downloads:
@@ -989,15 +989,15 @@
     android: '10.0'
     miui: V11.0.21.0.QDLMIXM
 - branch: stable
-  date: '2022-09-17'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-17.09.2022/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.8.0.RCZMIXM_02a01e2450_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.8.0.RCZMIXM_02a01e2450_11.0.zip
-  filename: fw_dandelion_miui_DANDELIONC3L2Global_V12.5.8.0.RCZMIXM_02a01e2450_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-08.12.2022/fw_dandelion_miui_DANDELIONGlobal_V12.5.7.0.RCDMIXM_64ab7911a4_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONGlobal_V12.5.7.0.RCDMIXM_64ab7911a4_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONGlobal_V12.5.7.0.RCDMIXM_64ab7911a4_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.8.0.RCZMIXM
+    miui: V12.5.7.0.RCDMIXM
 - branch: stable
   date: '2022-09-10'
   downloads:
@@ -1239,15 +1239,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2022-11-22'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-22.11.2022/fw_evergo_miui_EVERGO_V13.0.7.0.SGBCNXM_39e785697d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergo/fw_evergo_miui_EVERGO_V13.0.7.0.SGBCNXM_39e785697d_12.0.zip
-  filename: fw_evergo_miui_EVERGO_V13.0.7.0.SGBCNXM_39e785697d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-08.12.2022/fw_evergo_miui_EVERGO_V13.0.8.0.SGBCNXM_79f590f148_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergo/fw_evergo_miui_EVERGO_V13.0.8.0.SGBCNXM_79f590f148_12.0.zip
+  filename: fw_evergo_miui_EVERGO_V13.0.8.0.SGBCNXM_79f590f148_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SGBCNXM
+    miui: V13.0.8.0.SGBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -1289,15 +1289,15 @@
     android: '12.0'
     miui: V13.0.2.0.SGBEUXM
 - branch: stable
-  date: '2022-10-26'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-26.10.2022/fw_excalibur_miui_EXCALIBURINGlobal_V13.0.1.0.SJXINXM_633ac15edc_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V13.0.1.0.SJXINXM_633ac15edc_12.0.zip
-  filename: fw_excalibur_miui_EXCALIBURINGlobal_V13.0.1.0.SJXINXM_633ac15edc_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-08.12.2022/fw_excalibur_miui_EXCALIBURINGlobal_V13.0.2.0.SJXINXM_5647f6f4a8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V13.0.2.0.SJXINXM_5647f6f4a8_12.0.zip
+  filename: fw_excalibur_miui_EXCALIBURINGlobal_V13.0.2.0.SJXINXM_5647f6f4a8_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SJXINXM
+    miui: V13.0.2.0.SJXINXM
 - branch: stable
   date: '2022-09-19'
   downloads:
@@ -1319,35 +1319,35 @@
     android: '11.0'
     miui: V13.0.10.0.RKEEUXM
 - branch: stable
-  date: '2022-09-13'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-13.09.2022/fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
-  filename: fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-08.12.2022/fw_fleur_miui_FLEURINGlobal_V13.0.3.0.SKEINXM_a6994af41a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURINGlobal_V13.0.3.0.SKEINXM_a6994af41a_12.0.zip
+  filename: fw_fleur_miui_FLEURINGlobal_V13.0.3.0.SKEINXM_a6994af41a_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SKEINXM
+    miui: V13.0.3.0.SKEINXM
 - branch: stable
-  date: '2022-11-14'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-15.11.2022/fw_fog_miui_FOGGlobal_V13.0.4.0.SGEMIXM_facec8dc4d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGGlobal_V13.0.4.0.SGEMIXM_facec8dc4d_12.0.zip
-  filename: fw_fog_miui_FOGGlobal_V13.0.4.0.SGEMIXM_facec8dc4d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-08.12.2022/fw_fog_miui_FOGGlobal_V13.0.13.0.RGEMIXM_2fb38d54c9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGGlobal_V13.0.13.0.RGEMIXM_2fb38d54c9_11.0.zip
+  filename: fw_fog_miui_FOGGlobal_V13.0.13.0.RGEMIXM_2fb38d54c9_11.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.4.0.SGEMIXM
+    android: '11.0'
+    miui: V13.0.13.0.RGEMIXM
 - branch: stable
-  date: '2022-11-14'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-14.11.2022/fw_fog_miui_FOGEEAGlobal_V13.0.7.0.RGEEUXM_4ec582a5dd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGEEAGlobal_V13.0.7.0.RGEEUXM_4ec582a5dd_11.0.zip
-  filename: fw_fog_miui_FOGEEAGlobal_V13.0.7.0.RGEEUXM_4ec582a5dd_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-08.12.2022/fw_fog_miui_FOGEEAGlobal_V13.0.3.0.SGEEUXM_5a9b6e6261_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGEEAGlobal_V13.0.3.0.SGEEUXM_5a9b6e6261_12.0.zip
+  filename: fw_fog_miui_FOGEEAGlobal_V13.0.3.0.SGEEUXM_5a9b6e6261_12.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V13.0.7.0.RGEEUXM
+    android: '12.0'
+    miui: V13.0.3.0.SGEEUXM
 - branch: stable
   date: '2022-11-14'
   downloads:
@@ -1359,15 +1359,15 @@
     android: '12.0'
     miui: V13.0.2.0.SGEINXM
 - branch: stable
-  date: '2022-08-31'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-31.08.2022/fw_frost_miui_FROSTGlobal_V13.0.12.0.RGFMIXM_ff5edd32a9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTGlobal_V13.0.12.0.RGFMIXM_ff5edd32a9_11.0.zip
-  filename: fw_frost_miui_FROSTGlobal_V13.0.12.0.RGFMIXM_ff5edd32a9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-08.12.2022/fw_frost_miui_FROSTGlobal_V13.0.16.0.RGFMIXM_d98197237a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTGlobal_V13.0.16.0.RGFMIXM_d98197237a_11.0.zip
+  filename: fw_frost_miui_FROSTGlobal_V13.0.16.0.RGFMIXM_d98197237a_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V13.0.12.0.RGFMIXM
+    miui: V13.0.16.0.RGFMIXM
 - branch: stable
   date: '2022-09-13'
   downloads:
@@ -1389,15 +1389,15 @@
     android: '12.0'
     miui: V13.0.5.0.SJSMIXM
 - branch: stable
-  date: '2022-09-19'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-19.09.2022/fw_gauguin_miui_GAUGUIN_V13.0.10.0.SJSCNXM_44fcea07b8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUIN_V13.0.10.0.SJSCNXM_44fcea07b8_12.0.zip
-  filename: fw_gauguin_miui_GAUGUIN_V13.0.10.0.SJSCNXM_44fcea07b8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-08.12.2022/fw_gauguin_miui_GAUGUIN_V13.0.11.0.SJSCNXM_17413b5411_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUIN_V13.0.11.0.SJSCNXM_17413b5411_12.0.zip
+  filename: fw_gauguin_miui_GAUGUIN_V13.0.11.0.SJSCNXM_17413b5411_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.10.0.SJSCNXM
+    miui: V13.0.11.0.SJSCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -1499,15 +1499,15 @@
     android: '11.0'
     miui: 21.11.24
 - branch: stable
-  date: '2022-08-26'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-26.08.2022/fw_ginkgo_miui_GINKGOEEAGlobal_V12.5.7.0.RCOEUXM_403150cb97_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOEEAGlobal_V12.5.7.0.RCOEUXM_403150cb97_11.0.zip
-  filename: fw_ginkgo_miui_GINKGOEEAGlobal_V12.5.7.0.RCOEUXM_403150cb97_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-08.12.2022/fw_ginkgo_miui_GINKGOEEAGlobal_V12.5.12.0.RCOEUXM_f9fdc6c783_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOEEAGlobal_V12.5.12.0.RCOEUXM_f9fdc6c783_11.0.zip
+  filename: fw_ginkgo_miui_GINKGOEEAGlobal_V12.5.12.0.RCOEUXM_f9fdc6c783_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RCOEUXM
+    miui: V12.5.12.0.RCOEUXM
 - branch: stable
   date: '2022-09-15'
   downloads:
@@ -1519,15 +1519,15 @@
     android: '11.0'
     miui: V12.5.2.0.RCOINXM
 - branch: stable
-  date: '2022-10-26'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-26.10.2022/fw_gram_miui_GRAMINGlobal_V13.0.1.0.SJPINXM_e1ff65e1f9_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gram/fw_gram_miui_GRAMINGlobal_V13.0.1.0.SJPINXM_e1ff65e1f9_12.0.zip
-  filename: fw_gram_miui_GRAMINGlobal_V13.0.1.0.SJPINXM_e1ff65e1f9_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-08.12.2022/fw_gram_miui_GRAMINGlobal_V13.0.2.0.SJPINXM_2ac29489d5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gram/fw_gram_miui_GRAMINGlobal_V13.0.2.0.SJPINXM_2ac29489d5_12.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V13.0.2.0.SJPINXM_2ac29489d5_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SJPINXM
+    miui: V13.0.2.0.SJPINXM
 - branch: stable
   date: '2021-06-04'
   downloads:
@@ -1569,25 +1569,25 @@
     android: '11.0'
     miui: V12.5.1.0.RFBEUXM
 - branch: stable
-  date: '2022-09-15'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-15.09.2022/fw_haydn_miui_HAYDNGlobal_V13.0.3.0.SKKMIXM_5733263929_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNGlobal_V13.0.3.0.SKKMIXM_5733263929_12.0.zip
-  filename: fw_haydn_miui_HAYDNGlobal_V13.0.3.0.SKKMIXM_5733263929_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-08.12.2022/fw_haydn_miui_HAYDNGlobal_V13.0.4.0.SKKMIXM_22f6104546_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNGlobal_V13.0.4.0.SKKMIXM_22f6104546_12.0.zip
+  filename: fw_haydn_miui_HAYDNGlobal_V13.0.4.0.SKKMIXM_22f6104546_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SKKMIXM
+    miui: V13.0.4.0.SKKMIXM
 - branch: stable
-  date: '2022-08-01'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-01.08.2022/fw_haydn_miui_HAYDN_V13.0.10.0.SKKCNXM_2f660809e4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDN_V13.0.10.0.SKKCNXM_2f660809e4_12.0.zip
-  filename: fw_haydn_miui_HAYDN_V13.0.10.0.SKKCNXM_2f660809e4_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-08.12.2022/fw_haydn_miui_HAYDN_V13.0.13.0.SKKCNXM_299bf5fa53_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDN_V13.0.13.0.SKKCNXM_299bf5fa53_12.0.zip
+  filename: fw_haydn_miui_HAYDN_V13.0.13.0.SKKCNXM_299bf5fa53_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.10.0.SKKCNXM
+    miui: V13.0.13.0.SKKCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -1699,35 +1699,35 @@
     android: '7.0'
     miui: 9.2.28
 - branch: stable
-  date: '2022-11-09'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-09.11.2022/fw_ice_miui_ICEGlobal_V13.0.13.0.SGMMIXM_5a58c98674_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEGlobal_V13.0.13.0.SGMMIXM_5a58c98674_12.0.zip
-  filename: fw_ice_miui_ICEGlobal_V13.0.13.0.SGMMIXM_5a58c98674_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-08.12.2022/fw_ice_miui_ICEGlobal_V13.0.14.0.SGMMIXM_0d73910fab_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEGlobal_V13.0.14.0.SGMMIXM_0d73910fab_12.0.zip
+  filename: fw_ice_miui_ICEGlobal_V13.0.14.0.SGMMIXM_0d73910fab_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.13.0.SGMMIXM
+    miui: V13.0.14.0.SGMMIXM
 - branch: stable
-  date: '2022-10-27'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-27.10.2022/fw_ice_miui_ICEEEAGlobal_V13.0.5.0.SGMEUXM_b7e445c279_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.5.0.SGMEUXM_b7e445c279_12.0.zip
-  filename: fw_ice_miui_ICEEEAGlobal_V13.0.5.0.SGMEUXM_b7e445c279_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-08.12.2022/fw_ice_miui_ICEEEAGlobal_V13.0.6.0.SGMEUXM_9d8e4df1a0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.6.0.SGMEUXM_9d8e4df1a0_12.0.zip
+  filename: fw_ice_miui_ICEEEAGlobal_V13.0.6.0.SGMEUXM_9d8e4df1a0_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SGMEUXM
+    miui: V13.0.6.0.SGMEUXM
 - branch: stable
-  date: '2022-11-18'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-18.11.2022/fw_ice_miui_ICEINGlobal_V13.0.5.0.SGMINXM_ee9b1c505f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEINGlobal_V13.0.5.0.SGMINXM_ee9b1c505f_12.0.zip
-  filename: fw_ice_miui_ICEINGlobal_V13.0.5.0.SGMINXM_ee9b1c505f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-08.12.2022/fw_ice_miui_ICEINGlobal_V13.0.6.0.SGMINXM_0dcf5a6bfe_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEINGlobal_V13.0.6.0.SGMINXM_0dcf5a6bfe_12.0.zip
+  filename: fw_ice_miui_ICEINGlobal_V13.0.6.0.SGMINXM_0dcf5a6bfe_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SGMINXM
+    miui: V13.0.6.0.SGMINXM
 - branch: stable
   date: '2019-07-29'
   downloads:

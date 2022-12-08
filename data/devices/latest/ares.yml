@@ -19,12 +19,12 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-08-25'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-25.08.2022/fw_ares_miui_ARESINGlobal_V13.0.4.0.SKJINXM_cda5f54377_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ares/fw_ares_miui_ARESINGlobal_V13.0.4.0.SKJINXM_cda5f54377_12.0.zip
-  filename: fw_ares_miui_ARESINGlobal_V13.0.4.0.SKJINXM_cda5f54377_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-08.12.2022/fw_ares_miui_ARESINGlobal_V13.0.5.0.SKJINXM_6d348beef2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ares/fw_ares_miui_ARESINGlobal_V13.0.5.0.SKJINXM_6d348beef2_12.0.zip
+  filename: fw_ares_miui_ARESINGlobal_V13.0.5.0.SKJINXM_6d348beef2_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SKJINXM
+    miui: V13.0.5.0.SKJINXM

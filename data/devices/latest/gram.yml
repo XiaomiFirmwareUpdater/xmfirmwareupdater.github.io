@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2022-10-26'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-26.10.2022/fw_gram_miui_GRAMINGlobal_V13.0.1.0.SJPINXM_e1ff65e1f9_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gram/fw_gram_miui_GRAMINGlobal_V13.0.1.0.SJPINXM_e1ff65e1f9_12.0.zip
-  filename: fw_gram_miui_GRAMINGlobal_V13.0.1.0.SJPINXM_e1ff65e1f9_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-08.12.2022/fw_gram_miui_GRAMINGlobal_V13.0.2.0.SJPINXM_2ac29489d5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gram/fw_gram_miui_GRAMINGlobal_V13.0.2.0.SJPINXM_2ac29489d5_12.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V13.0.2.0.SJPINXM_2ac29489d5_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SJPINXM
+    miui: V13.0.2.0.SJPINXM

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-08-31'
+  date: '2022-12-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-31.08.2022/fw_frost_miui_FROSTGlobal_V13.0.12.0.RGFMIXM_ff5edd32a9_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTGlobal_V13.0.12.0.RGFMIXM_ff5edd32a9_11.0.zip
-  filename: fw_frost_miui_FROSTGlobal_V13.0.12.0.RGFMIXM_ff5edd32a9_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-08.12.2022/fw_frost_miui_FROSTGlobal_V13.0.16.0.RGFMIXM_d98197237a_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTGlobal_V13.0.16.0.RGFMIXM_d98197237a_11.0.zip
+  filename: fw_frost_miui_FROSTGlobal_V13.0.16.0.RGFMIXM_d98197237a_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V13.0.12.0.RGFMIXM
+    miui: V13.0.16.0.RGFMIXM
 - branch: stable
   date: '2022-09-13'
   downloads:
