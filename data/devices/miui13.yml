@@ -930,6 +930,12 @@
   version: V13.0.0.1.1.DEV
 - android: '12.0'
   codename: cmi
+  date: '2022-12-09'
+  download: https://bigota.d.miui.com/V13.0.6.0.SJACNXM/fw_cmi_miui_CMI_V13.0.6.0.SJACNXM_e6f6ed794a_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.6.0.SJACNXM
+- android: '12.0'
+  codename: cmi
   date: '2022-09-05'
   download: https://bigota.d.miui.com/V13.0.5.0.SJACNXM/fw_cmi_miui_CMI_V13.0.5.0.SJACNXM_79609f2b93_12.0.zip
   name: Mi 10 Pro
@@ -4270,6 +4276,12 @@
   download: https://bigota.d.miui.com/V13.0.0.1.1.DEV/fw_umi_miui_UMI_V13.0.0.1.1.DEV_612fd28eb9_12.0.zip
   name: Mi 10
   version: V13.0.0.1.1.DEV
+- android: '12.0'
+  codename: umi
+  date: '2022-12-09'
+  download: https://bigota.d.miui.com/V13.0.8.0.SJBCNXM/fw_umi_miui_UMI_V13.0.8.0.SJBCNXM_ade3b2ea7f_12.0.zip
+  name: Mi 10
+  version: V13.0.8.0.SJBCNXM
 - android: '12.0'
   codename: umi
   date: '2022-12-08'

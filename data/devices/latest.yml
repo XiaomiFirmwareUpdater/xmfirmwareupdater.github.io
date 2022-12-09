@@ -829,15 +829,15 @@
     android: '12.0'
     miui: V13.0.4.0.SJAMIXM
 - branch: stable
-  date: '2022-09-05'
+  date: '2022-12-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-05.09.2022/fw_cmi_miui_CMI_V13.0.5.0.SJACNXM_79609f2b93_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMI_V13.0.5.0.SJACNXM_79609f2b93_12.0.zip
-  filename: fw_cmi_miui_CMI_V13.0.5.0.SJACNXM_79609f2b93_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-10.12.2022/fw_cmi_miui_CMI_V13.0.6.0.SJACNXM_e6f6ed794a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMI_V13.0.6.0.SJACNXM_e6f6ed794a_12.0.zip
+  filename: fw_cmi_miui_CMI_V13.0.6.0.SJACNXM_e6f6ed794a_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SJACNXM
+    miui: V13.0.6.0.SJACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -4249,15 +4249,15 @@
     android: '12.0'
     miui: V13.0.7.0.SJBMIXM
 - branch: stable
-  date: '2022-08-22'
+  date: '2022-12-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-22.08.2022/fw_umi_miui_UMI_V13.0.7.0.SJBCNXM_1beabe6d7f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMI_V13.0.7.0.SJBCNXM_1beabe6d7f_12.0.zip
-  filename: fw_umi_miui_UMI_V13.0.7.0.SJBCNXM_1beabe6d7f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-10.12.2022/fw_umi_miui_UMI_V13.0.8.0.SJBCNXM_ade3b2ea7f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMI_V13.0.8.0.SJBCNXM_ade3b2ea7f_12.0.zip
+  filename: fw_umi_miui_UMI_V13.0.8.0.SJBCNXM_ade3b2ea7f_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SJBCNXM
+    miui: V13.0.8.0.SJBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
