@@ -54,6 +54,7 @@ permalink: /miui/zijin/
                 <tbody>
                 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SLPCNXM</td><td>12.0</td><td>6.9 GB</td><td>2022-08-16</td><td><a href="/miui/zijin/stable/V13.0.12.0.SLPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>V13.0.12.0.SLPCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-08-27</td><td><a href="/miui/zijin/stable/V13.0.12.0.SLPCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 1S China</td><td>Stable Beta</td><td>Recovery</td><td>V13.2.6.0.TLPCNXM</td><td>13.0</td><td>5.7 GB</td><td>2022-12-06</td><td><a href="/miui/zijin/stable beta/V13.2.6.0.TLPCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

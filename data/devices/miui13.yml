@@ -5170,6 +5170,12 @@
   download: https://bigota.d.miui.com/V13.0.11.0.SLPCNXM/fw_zijin_miui_ZIJIN_V13.0.11.0.SLPCNXM_5f3271ee5b_12.0.zip
   name: Xiaomi Civi 1S
   version: V13.0.11.0.SLPCNXM
+- android: '13.0'
+  codename: zijin
+  date: '2022-12-09'
+  download: https://bigota.d.miui.com/V13.2.6.0.TLPCNXM/fw_zijin_miui_ZIJIN_V13.2.6.0.TLPCNXM_0a64a3030a_13.0.zip
+  name: Xiaomi Civi 1S
+  version: V13.2.6.0.TLPCNXM
 - android: '12.0'
   codename: ziyi
   date: '2022-10-27'
