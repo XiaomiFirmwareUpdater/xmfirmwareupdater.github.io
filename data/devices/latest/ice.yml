@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.14.0.SGMMIXM
 - branch: stable
-  date: '2022-12-08'
+  date: '2022-12-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-08.12.2022/fw_ice_miui_ICEEEAGlobal_V13.0.6.0.SGMEUXM_9d8e4df1a0_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.6.0.SGMEUXM_9d8e4df1a0_12.0.zip
-  filename: fw_ice_miui_ICEEEAGlobal_V13.0.6.0.SGMEUXM_9d8e4df1a0_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-09.12.2022/fw_ice_miui_ICEEEAGlobal_V13.0.7.0.SGMEUXM_e088ae3a1e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.7.0.SGMEUXM_e088ae3a1e_12.0.zip
+  filename: fw_ice_miui_ICEEEAGlobal_V13.0.7.0.SGMEUXM_e088ae3a1e_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SGMEUXM
+    miui: V13.0.7.0.SGMEUXM
 - branch: stable
   date: '2022-12-08'
   downloads:
