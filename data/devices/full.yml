@@ -2869,6 +2869,16 @@
     android: '12.0'
     miui: V13.0.8.0.SJDEUXM
 - branch: stable
+  date: '2022-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-12.12.2022/fw_apollo_miui_APOLLO_V13.0.7.0.SJDCNXM_2753b990c5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLO_V13.0.7.0.SJDCNXM_2753b990c5_12.0.zip
+  filename: fw_apollo_miui_APOLLO_V13.0.7.0.SJDCNXM_2753b990c5_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SJDCNXM
+- branch: stable
   date: '2021-10-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-12.10.2021/fw_apollo_miui_APOLLOEEAGlobal_V12.5.7.0.RJDEUXM_5900218774_11.0.zip
@@ -9608,6 +9618,16 @@
   versions:
     android: '10.0'
     miui: V12.0.10.0.QJJCNXM
+- branch: stable
+  date: '2022-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-12.12.2022/fw_cas_miui_CAS_V13.0.6.0.SJJCNXM_4039d0163b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cas/fw_cas_miui_CAS_V13.0.6.0.SJJCNXM_4039d0163b_12.0.zip
+  filename: fw_cas_miui_CAS_V13.0.6.0.SJJCNXM_4039d0163b_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SJJCNXM
 - branch: stable
   date: '2022-04-06'
   downloads:
@@ -44129,6 +44149,16 @@
     android: '12.0'
     miui: V13.0.9.0.SKICNXM
 - branch: stable
+  date: '2022-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-12.12.2022/fw_renoir_miui_RENOIR_V13.0.14.0.SKICNXM_d6b07bb491_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/renoir/fw_renoir_miui_RENOIR_V13.0.14.0.SKICNXM_d6b07bb491_12.0.zip
+  filename: fw_renoir_miui_RENOIR_V13.0.14.0.SKICNXM_d6b07bb491_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.14.0.SKICNXM
+- branch: stable
   date: '2022-07-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-12.07.2022/fw_renoir_miui_RENOIREEAGlobal_V13.0.6.0.SKIEUXM_6e0f470c75_12.0.zip
@@ -49829,6 +49859,16 @@
     android: '12.0'
     miui: V13.0.11.0.SLACNXM
 - branch: stable
+  date: '2022-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-12.12.2022/fw_thor_miui_THOR_V14.0.2.0.TLACNXM_f58e7eab21_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.2.0.TLACNXM_f58e7eab21_13.0.zip
+  filename: fw_thor_miui_THOR_V14.0.2.0.TLACNXM_f58e7eab21_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TLACNXM
+- branch: stable
   date: '2022-08-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-12.08.2022/fw_thor_miui_THOR_V13.0.8.0.SLACNXM_4ea300db1b_12.0.zip
@@ -50248,6 +50288,16 @@
   versions:
     android: '11.0'
     miui: V12.0.8.0.RGACNXM
+- branch: stable
+  date: '2022-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-12.12.2022/fw_thyme_miui_THYME_V13.0.10.0.SGACNXM_3a53c30250_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/thyme/fw_thyme_miui_THYME_V13.0.10.0.SGACNXM_3a53c30250_12.0.zip
+  filename: fw_thyme_miui_THYME_V13.0.10.0.SGACNXM_3a53c30250_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SGACNXM
 - branch: stable
   date: '2021-08-11'
   downloads:

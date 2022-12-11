@@ -52,7 +52,8 @@ permalink: /archive/miui/chopin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X3 GT Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKPTRXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-28</td><td><a href="/miui/chopin/stable beta/V13.0.4.0.SKPTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>4.1 GB</td><td>2022-12-11</td><td><a href="/miui/chopin/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
+<tr><td>POCO X3 GT Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKPTRXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-28</td><td><a href="/miui/chopin/stable beta/V13.0.4.0.SKPTRXM/">Download</a></td></tr>
 <tr><td>POCO X3 GT Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKPIDXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-25</td><td><a href="/miui/chopin/stable beta/V13.0.4.0.SKPIDXM/">Download</a></td></tr>
 <tr><td>POCO X3 GT Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SKPMIXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-18</td><td><a href="/miui/chopin/stable beta/V13.0.7.0.SKPMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V13.0.13.0.SKPCNXM</td><td>12.0</td><td>4.4 GB</td><td>2022-11-09</td><td><a href="/miui/chopin/stable/V13.0.13.0.SKPCNXM/">Download</a></td></tr>
