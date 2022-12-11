@@ -299,6 +299,16 @@
     android: '10.0'
     miui: V12.0.9.0.QJGMIXM
 - branch: stable
+  date: '2022-12-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-11.12.2022/fw_surya_miui_SURYAEEAGlobal_V13.0.4.0.SJGEUXM_8e3e6f06c8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/surya/fw_surya_miui_SURYAEEAGlobal_V13.0.4.0.SJGEUXM_8e3e6f06c8_12.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V13.0.4.0.SJGEUXM_8e3e6f06c8_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SJGEUXM
+- branch: stable
   date: '2020-10-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-10.10.2020/fw_surya_miui_SURYAEEAGlobal_V12.0.3.0.QJGEUXM_b1eff4004d_10.0.zip

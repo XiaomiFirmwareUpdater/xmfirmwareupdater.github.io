@@ -3559,15 +3559,15 @@
     android: '12.0'
     miui: V13.0.5.0.SKLEUXM
 - branch: stable
-  date: '2022-12-08'
+  date: '2022-12-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-08.12.2022/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.20.0.RKLINXM_38cd85c504_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V12.5.20.0.RKLINXM_38cd85c504_11.0.zip
-  filename: fw_rosemary_miui_ROSEMARYINGlobal_V12.5.20.0.RKLINXM_38cd85c504_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-11.12.2022/fw_rosemary_miui_ROSEMARYINGlobal_V13.0.8.0.SKLINXM_41feb77549_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V13.0.8.0.SKLINXM_41feb77549_12.0.zip
+  filename: fw_rosemary_miui_ROSEMARYINGlobal_V13.0.8.0.SKLINXM_41feb77549_12.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V12.5.20.0.RKLINXM
+    android: '12.0'
+    miui: V13.0.8.0.SKLINXM
 - branch: stable
   date: '2020-01-19'
   downloads:
@@ -3959,15 +3959,15 @@
     android: '12.0'
     miui: V13.0.1.0.SJGMIXM
 - branch: stable
-  date: '2022-11-07'
+  date: '2022-12-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-07.11.2022/fw_surya_miui_SURYAEEAGlobal_V13.0.3.0.SJGEUXM_b0048d7ead_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/surya/fw_surya_miui_SURYAEEAGlobal_V13.0.3.0.SJGEUXM_b0048d7ead_12.0.zip
-  filename: fw_surya_miui_SURYAEEAGlobal_V13.0.3.0.SJGEUXM_b0048d7ead_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_surya/releases/download/stable-11.12.2022/fw_surya_miui_SURYAEEAGlobal_V13.0.4.0.SJGEUXM_8e3e6f06c8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/surya/fw_surya_miui_SURYAEEAGlobal_V13.0.4.0.SJGEUXM_8e3e6f06c8_12.0.zip
+  filename: fw_surya_miui_SURYAEEAGlobal_V13.0.4.0.SJGEUXM_8e3e6f06c8_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SJGEUXM
+    miui: V13.0.4.0.SJGEUXM
 - branch: stable
   date: '2022-08-25'
   downloads:

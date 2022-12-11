@@ -53,10 +53,10 @@ permalink: /miui/matisse/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.18.1.56.DEV</td><td>12.0</td><td>6.1 GB</td><td>2022-08-09</td><td><a href="/miui/matisse/public beta/V13.0.18.1.56.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.23.0.SLKCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-07-28</td><td><a href="/miui/matisse/stable/V13.0.23.0.SLKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.23.0.SLKCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-08-03</td><td><a href="/miui/matisse/stable/V13.0.23.0.SLKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-09-09</td><td><a href="/miui/matisse/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.26.0.SLKCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-10-11</td><td><a href="/miui/matisse/stable beta/V13.0.26.0.SLKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.26.0.SLKCNXM</td><td>12.0</td><td>7.0 GB</td><td>2022-10-07</td><td><a href="/miui/matisse/stable/V13.0.26.0.SLKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.26.0.SLKCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-10-11</td><td><a href="/miui/matisse/stable/V13.0.26.0.SLKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-11</td><td><a href="/miui/matisse/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.20.0.SLKCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-06-17</td><td><a href="/miui/matisse/stable beta/V13.0.20.0.SLKCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
