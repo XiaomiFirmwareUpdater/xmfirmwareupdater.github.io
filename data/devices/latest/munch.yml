@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.5.0.SLMMIXM
 - branch: stable
-  date: '2022-09-02'
+  date: '2022-12-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-02.09.2022/fw_munch_miui_MUNCH_V13.0.11.0.SLMCNXM_ec2f4ae8f7_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/munch/fw_munch_miui_MUNCH_V13.0.11.0.SLMCNXM_ec2f4ae8f7_12.0.zip
-  filename: fw_munch_miui_MUNCH_V13.0.11.0.SLMCNXM_ec2f4ae8f7_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-12.12.2022/fw_munch_miui_MUNCH_V13.2.8.0.TLMCNXM_e787a300eb_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/munch/fw_munch_miui_MUNCH_V13.2.8.0.TLMCNXM_e787a300eb_13.0.zip
+  filename: fw_munch_miui_MUNCH_V13.2.8.0.TLMCNXM_e787a300eb_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.11.0.SLMCNXM
+    android: '13.0'
+    miui: V13.2.8.0.TLMCNXM
 - branch: stable
   date: '2022-08-29'
   downloads:
