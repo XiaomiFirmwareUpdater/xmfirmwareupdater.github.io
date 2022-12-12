@@ -52,7 +52,8 @@ permalink: /archive/miui/opal/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11S 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SGLEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-12-05</td><td><a href="/miui/opal/stable beta/V13.0.4.0.SGLEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SGLEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-12-05</td><td><a href="/miui/opal/stable/V13.0.4.0.SGLEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SGLEUXM</td><td>12.0</td><td>6.3 GB</td><td>2022-11-24</td><td><a href="/miui/opal/stable/V13.0.4.0.SGLEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SGLEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-14</td><td><a href="/miui/opal/stable/V13.0.3.0.SGLEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SGLEUXM</td><td>12.0</td><td>6.2 GB</td><td>2022-11-02</td><td><a href="/miui/opal/stable/V13.0.3.0.SGLEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SGLEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-09-19</td><td><a href="/miui/opal/stable/V13.0.2.0.SGLEUXM/">Download</a></td></tr>
