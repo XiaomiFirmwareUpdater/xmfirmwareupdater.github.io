@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-11-07'
+  date: '2022-12-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-07.11.2022/fw_spes_miui_SPESGlobal_V13.0.5.0.SGCMIXM_86519c581e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spes/fw_spes_miui_SPESGlobal_V13.0.5.0.SGCMIXM_86519c581e_12.0.zip
-  filename: fw_spes_miui_SPESGlobal_V13.0.5.0.SGCMIXM_86519c581e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-12.12.2022/fw_spes_miui_SPESGlobal_V13.0.6.0.SGCMIXM_d8718d8a07_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spes/fw_spes_miui_SPESGlobal_V13.0.6.0.SGCMIXM_d8718d8a07_12.0.zip
+  filename: fw_spes_miui_SPESGlobal_V13.0.6.0.SGCMIXM_d8718d8a07_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SGCMIXM
+    miui: V13.0.6.0.SGCMIXM
 - branch: stable
   date: '2022-11-15'
   downloads:
