@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 13 Dec 2022 19:36:32 +0900</pubDate>
+  <pubDate>Wed, 14 Dec 2022 01:17:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V13.0.2.0.SJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Wed, 14 Dec 2022 01:17:38 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V13.0.8.0.SLSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/light</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 Pro (zeus) - V13.2.7.0.TLBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
     <pubDate>Fri, 09 Dec 2022 06:24:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Pad (yunluo) - V13.1.3.0.SLYINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
-    <pubDate>Fri, 09 Dec 2022 06:14:35 +0900</pubDate>
   </item>
     </channel>
 </rss>
