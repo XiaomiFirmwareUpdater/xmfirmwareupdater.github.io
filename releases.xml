@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 15 Dec 2022 01:38:01 +0900</pubDate>
+  <pubDate>Thu, 15 Dec 2022 03:55:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 13 Pro (nuwa) - V14.0.4.0.TMBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
+    <pubDate>Thu, 15 Dec 2022 03:55:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 (fuxi) - V14.0.4.0.TMCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
+    <pubDate>Thu, 15 Dec 2022 03:18:19 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V13.0.9.0.SLSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/light</link>
@@ -95,16 +105,6 @@
     <title>Mi 10 (umi) - V13.0.8.0.SJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
     <pubDate>Sat, 10 Dec 2022 07:18:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Pro (cmi) - V13.0.6.0.SJACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
-    <pubDate>Sat, 10 Dec 2022 07:17:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.7.0.SGMEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ice</link>
-    <pubDate>Sat, 10 Dec 2022 01:24:58 +0900</pubDate>
   </item>
     </channel>
 </rss>

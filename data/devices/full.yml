@@ -21138,6 +21138,16 @@
   versions:
     android: '11.0'
     miui: V13.0.9.0.RGFMIXM
+- branch: stable
+  date: '2022-12-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-14.12.2022/fw_fuxi_miui_FUXI_V14.0.4.0.TMCCNXM_f4decbbbee_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.4.0.TMCCNXM_f4decbbbee_13.0.zip
+  filename: fw_fuxi_miui_FUXI_V14.0.4.0.TMCCNXM_f4decbbbee_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMCCNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -34908,6 +34918,16 @@
   versions:
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
+- branch: stable
+  date: '2022-12-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-14.12.2022/fw_nuwa_miui_NUWA_V14.0.4.0.TMBCNXM_c5625d2228_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWA_V14.0.4.0.TMBCNXM_c5625d2228_13.0.zip
+  filename: fw_nuwa_miui_NUWA_V14.0.4.0.TMBCNXM_c5625d2228_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMBCNXM
 - branch: weekly
   date: '2021-11-26'
   downloads:
