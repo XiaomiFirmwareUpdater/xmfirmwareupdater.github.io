@@ -1029,15 +1029,15 @@
     android: '11.0'
     miui: V12.5.9.0.RCDINXM
 - branch: stable
-  date: '2022-10-24'
+  date: '2022-12-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daumier/releases/download/stable-24.10.2022/fw_daumier_miui_DAUMIER_V13.0.15.0.SLGCNXM_dc1f650281_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/daumier/fw_daumier_miui_DAUMIER_V13.0.15.0.SLGCNXM_dc1f650281_12.0.zip
-  filename: fw_daumier_miui_DAUMIER_V13.0.15.0.SLGCNXM_dc1f650281_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daumier/releases/download/stable-14.12.2022/fw_daumier_miui_DAUMIER_V14.0.3.0.TLGCNXM_9b5595d1b1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/daumier/fw_daumier_miui_DAUMIER_V14.0.3.0.TLGCNXM_9b5595d1b1_13.0.zip
+  filename: fw_daumier_miui_DAUMIER_V14.0.3.0.TLGCNXM_9b5595d1b1_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.15.0.SLGCNXM
+    android: '13.0'
+    miui: V14.0.3.0.TLGCNXM
 - branch: stable
   date: '2021-08-11'
   downloads:
@@ -3879,15 +3879,15 @@
     android: '12.0'
     miui: V13.0.5.0.SGKMIXM
 - branch: stable
-  date: '2022-11-14'
+  date: '2022-12-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-14.11.2022/fw_spesn_miui_SPESNEEAGlobal_V13.0.14.0.RGKEUXM_623e206ed2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spesn/fw_spesn_miui_SPESNEEAGlobal_V13.0.14.0.RGKEUXM_623e206ed2_11.0.zip
-  filename: fw_spesn_miui_SPESNEEAGlobal_V13.0.14.0.RGKEUXM_623e206ed2_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-14.12.2022/fw_spesn_miui_SPESNEEAGlobal_V13.0.2.0.SGKEUXM_2631bbbf43_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spesn/fw_spesn_miui_SPESNEEAGlobal_V13.0.2.0.SGKEUXM_2631bbbf43_12.0.zip
+  filename: fw_spesn_miui_SPESNEEAGlobal_V13.0.2.0.SGKEUXM_2631bbbf43_12.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V13.0.14.0.RGKEUXM
+    android: '12.0'
+    miui: V13.0.2.0.SGKEUXM
 - branch: stable
   date: '2022-10-19'
   downloads:
