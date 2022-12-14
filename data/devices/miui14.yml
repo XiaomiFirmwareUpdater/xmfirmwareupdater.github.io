@@ -1,0 +1,12 @@
+- android: '13.0'
+  codename: daumier
+  date: '2022-12-14'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.3.0.TLGCNXM_9b5595d1b1_13.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: V14.0.3.0.TLGCNXM
+- android: '13.0'
+  codename: thor
+  date: '2022-12-11'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLACNXM/fw_thor_miui_THOR_V14.0.2.0.TLACNXM_f58e7eab21_13.0.zip
+  name: Xiaomi 12S Ultra
+  version: V14.0.2.0.TLACNXM
