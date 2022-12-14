@@ -184,8 +184,10 @@ def load_releases():
 
     # MIUI 12 China Beta
     # MIUI 13 China
+    # MIUI 14 China
     miui12 = []
     miui13 = []
+    miui14 = []
     with open("../data/devices/full.yml", "r") as o:
         archive = yaml.load(o, Loader=yaml.CLoader)
     for update in archive:
@@ -215,21 +217,25 @@ def load_releases():
                          'version': version, 'android': update['versions']['android'],
                          'download': f'https://bigota.d.miui.com/{version}/{update["filename"]}'})
         else:
-            # MIUI 13 Stable
-            if update["versions"]["miui"].startswith("V13."):
-                codename = update["filename"].split('_')[1]
-                miui13.append(
-                    {'name': FW_DEVICES[codename], 'codename': codename, 'date': update["date"],
-                     'version': update["versions"]["miui"],
-                     'android': update['versions']['android'],
-                     'download': f'https://bigota.d.miui.com/{update["versions"]["miui"]}/{update["filename"]}'}
-                )
+            # MIUI 13/14 Stable
+            for version_name, version_updates_list in {"V13.": miui13, "V14.": miui14}.items():
+                if update["versions"]["miui"].startswith(version_name):
+                    codename = update["filename"].split('_')[1]
+                    version_updates_list.append(
+                        {'name': FW_DEVICES[codename], 'codename': codename, 'date': update["date"],
+                        'version': update["versions"]["miui"],
+                        'android': update['versions']['android'],
+                        'download': f'https://bigota.d.miui.com/{update["versions"]["miui"]}/{update["filename"]}'}
+                    )
 
     with open('../data/devices/miui12.yml', 'w', encoding='utf-8') as out:
         yaml.dump(miui12, out, Dumper=yaml.CDumper)
 
     with open('../data/devices/miui13.yml', 'w', encoding='utf-8') as out:
         yaml.dump(miui13, out, Dumper=yaml.CDumper)
+
+    with open('../data/devices/miui14.yml', 'w', encoding='utf-8') as out:
+        yaml.dump(miui14, out, Dumper=yaml.CDumper)
 
 
 def generate_fw_md():
