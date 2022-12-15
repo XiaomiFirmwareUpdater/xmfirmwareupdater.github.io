@@ -1,15 +1,15 @@
 ---
-title: Xiaomi Civi 1S (zijin) MIUI Downloads
+title: Xiaomi 13 Pro (nuwa) MIUI Downloads
 layout: download
-name: Xiaomi Civi 1S
-codename: zijin
-permalink: /miui/zijin/
+name: Xiaomi 13 Pro
+codename: nuwa
+permalink: /miui/nuwa/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/zijin/">Xiaomi Civi 1S</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/nuwa/">Xiaomi 13 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/zijin/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/zijin/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/zijin/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/zijin/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/nuwa/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/nuwa/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/nuwa/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,9 @@ permalink: /miui/zijin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SLPCNXM</td><td>12.0</td><td>6.9 GB</td><td>2022-08-16</td><td><a href="/miui/zijin/stable/V13.0.12.0.SLPCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>5.8 GB</td><td>2022-12-11</td><td><a href="/miui/zijin/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>V13.2.5.0.TLPCNXM</td><td>13.0</td><td>5.7 GB</td><td>2022-11-21</td><td><a href="/miui/zijin/stable/V13.2.5.0.TLPCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 1S China</td><td>Stable Beta</td><td>Recovery</td><td>V13.2.6.0.TLPCNXM</td><td>13.0</td><td>5.7 GB</td><td>2022-12-06</td><td><a href="/miui/zijin/stable beta/V13.2.6.0.TLPCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMBCNXM</td><td>13.0</td><td>8.3 GB</td><td>2022-11-16</td><td><a href="/miui/nuwa/stable/V14.0.4.0.TMBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMBCNXM</td><td>13.0</td><td>6.5 GB</td><td>2022-12-14</td><td><a href="/miui/nuwa/stable/V14.0.4.0.TMBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TMBCNXM</td><td>13.0</td><td>6.7 GB</td><td>2022-12-15</td><td><a href="/miui/nuwa/stable beta/V14.0.7.0.TMBCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

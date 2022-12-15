@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 15 Dec 2022 03:55:04 +0900</pubDate>
+  <pubDate>Thu, 15 Dec 2022 14:24:29 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 13 Pro (nuwa) - V14.0.7.0.TMBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
+    <pubDate>Thu, 15 Dec 2022 14:24:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Pro (matisse) - V14.0.5.0.TLKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
+    <pubDate>Thu, 15 Dec 2022 13:51:51 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 13 Pro (nuwa) - V14.0.4.0.TMBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
@@ -95,16 +105,6 @@
     <title>POCO X3 NFC (surya) - V13.0.4.0.SJGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
     <pubDate>Mon, 12 Dec 2022 01:38:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V13.0.8.0.SKLINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
-    <pubDate>Mon, 12 Dec 2022 01:37:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V13.0.8.0.SJBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Sat, 10 Dec 2022 07:18:38 +0900</pubDate>
   </item>
     </channel>
 </rss>
