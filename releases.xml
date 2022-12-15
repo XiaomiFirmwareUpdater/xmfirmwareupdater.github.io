@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 15 Dec 2022 14:24:29 +0900</pubDate>
+  <pubDate>Fri, 16 Dec 2022 02:21:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K50 (rubens) - V14.0.3.0.TLNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
+    <pubDate>Fri, 16 Dec 2022 02:21:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 (mojito) - V13.0.11.0.SKGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
+    <pubDate>Fri, 16 Dec 2022 02:13:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 (fuxi) - V14.0.9.0.TMCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
+    <pubDate>Fri, 16 Dec 2022 01:59:46 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 13 Pro (nuwa) - V14.0.7.0.TMBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
@@ -90,21 +105,6 @@
     <title>Mi 11 Lite 5G (renoir) - V13.0.14.0.SKICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
     <pubDate>Mon, 12 Dec 2022 07:25:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Ultra (cas) - V13.0.6.0.SJJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
-    <pubDate>Mon, 12 Dec 2022 07:18:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V13.0.7.0.SJDCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Mon, 12 Dec 2022 07:16:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 NFC (surya) - V13.0.4.0.SJGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Mon, 12 Dec 2022 01:38:40 +0900</pubDate>
   </item>
     </channel>
 </rss>
