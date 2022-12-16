@@ -1451,6 +1451,12 @@
   name: POCO M4 Pro 5G
   version: V13.0.2.0.SGBEUXM
 - android: '12.0'
+  codename: evergreen
+  date: '2022-12-16'
+  download: https://bigota.d.miui.com/V13.0.4.0.SGBMIXM/fw_evergreen_miui_EVERGREENGlobal_V13.0.4.0.SGBMIXM_ca9fde191a_12.0.zip
+  name: POCO M4 Pro 5G
+  version: V13.0.4.0.SGBMIXM
+- android: '12.0'
   codename: excalibur
   date: '2022-10-26'
   download: https://bigota.d.miui.com/V13.0.1.0.SJXINXM/fw_excalibur_miui_EXCALIBURINGlobal_V13.0.1.0.SJXINXM_633ac15edc_12.0.zip
@@ -5308,6 +5314,12 @@
   download: https://bigota.d.miui.com/V13.0.9.0.SLLCNXM/fw_ziyi_miui_ZIYI_V13.0.9.0.SLLCNXM_87f2de5ec9_12.0.zip
   name: Xiaomi Civi 2
   version: V13.0.9.0.SLLCNXM
+- android: '12.0'
+  codename: ziyi
+  date: '2022-12-16'
+  download: https://bigota.d.miui.com/V13.0.10.0.SLLCNXM/fw_ziyi_miui_ZIYI_V13.0.10.0.SLLCNXM_46ef626850_12.0.zip
+  name: Xiaomi Civi 2
+  version: V13.0.10.0.SLLCNXM
 - android: '12.0'
   codename: ziyi
   date: '2022-11-14'

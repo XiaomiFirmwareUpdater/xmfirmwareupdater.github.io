@@ -20619,6 +20619,16 @@
     android: '12.0'
     miui: V13.0.2.0.SGBEUXM
 - branch: stable
+  date: '2022-12-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-16.12.2022/fw_evergreen_miui_EVERGREENGlobal_V13.0.4.0.SGBMIXM_ca9fde191a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergreen/fw_evergreen_miui_EVERGREENGlobal_V13.0.4.0.SGBMIXM_ca9fde191a_12.0.zip
+  filename: fw_evergreen_miui_EVERGREENGlobal_V13.0.4.0.SGBMIXM_ca9fde191a_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SGBMIXM
+- branch: stable
   date: '2020-09-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-29.09.2020/fw_excalibur_miui_EXCALIBURINGlobal_V12.0.1.0.QJXINXM_40cbf00495_10.0.zip
@@ -54259,6 +54269,16 @@
     android: '12.0'
     miui: V13.0.18.0.SLECNXM
 - branch: stable
+  date: '2022-12-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-16.12.2022/fw_unicorn_miui_UNICORN_V14.0.2.0.TLECNXM_dd574a95b0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/unicorn/fw_unicorn_miui_UNICORN_V14.0.2.0.TLECNXM_dd574a95b0_13.0.zip
+  filename: fw_unicorn_miui_UNICORN_V14.0.2.0.TLECNXM_dd574a95b0_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TLECNXM
+- branch: stable
   date: '2022-07-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-07.07.2022/fw_unicorn_miui_UNICORN_V13.0.7.0.SLECNXM_b29599f478_12.0.zip
@@ -60648,6 +60668,16 @@
   versions:
     android: '12.0'
     miui: V13.0.9.0.SLLCNXM
+- branch: stable
+  date: '2022-12-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-16.12.2022/fw_ziyi_miui_ZIYI_V13.0.10.0.SLLCNXM_46ef626850_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ziyi/fw_ziyi_miui_ZIYI_V13.0.10.0.SLLCNXM_46ef626850_12.0.zip
+  filename: fw_ziyi_miui_ZIYI_V13.0.10.0.SLLCNXM_46ef626850_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SLLCNXM
 - branch: stable
   date: '2022-11-14'
   downloads:
