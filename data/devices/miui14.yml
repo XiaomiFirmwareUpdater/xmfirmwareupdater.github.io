@@ -52,3 +52,9 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.2.0.TLECNXM_dd574a95b0_13.0.zip
   name: Xiaomi 12S Pro
   version: V14.0.2.0.TLECNXM
+- android: '13.0'
+  codename: zeus
+  date: '2022-12-16'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.4.0.TLBCNXM_98bd7af353_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.4.0.TLBCNXM
