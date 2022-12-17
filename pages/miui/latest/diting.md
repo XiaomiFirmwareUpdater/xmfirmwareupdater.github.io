@@ -52,9 +52,10 @@ permalink: /miui/diting/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SLFCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-11-07</td><td><a href="/miui/diting/stable/V13.0.10.0.SLFCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SLFCNXM</td><td>12.0</td><td>5.7 GB</td><td>2022-11-16</td><td><a href="/miui/diting/stable/V13.0.10.0.SLFCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Fastboot</td><td>V13.1.22.8.29.DEV</td><td>12.0</td><td>6.1 GB</td><td>2022-09-07</td><td><a href="/miui/diting/public beta/V13.1.22.8.29.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.4 GB</td><td>2022-12-05</td><td><a href="/miui/diting/stable/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.8.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-16</td><td><a href="/miui/diting/public beta/V14.0.22.12.8.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SLFCNXM</td><td>12.0</td><td>5.7 GB</td><td>2022-11-16</td><td><a href="/miui/diting/stable/V13.0.10.0.SLFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.11.0.SLFEUXM</td><td>12.0</td><td>6.7 GB</td><td>2022-10-28</td><td><a href="/miui/diting/stable/V13.0.11.0.SLFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.11.0.SLFEUXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-07</td><td><a href="/miui/diting/stable/V13.0.11.0.SLFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLFMIXM</td><td>12.0</td><td>6.9 GB</td><td>2022-10-26</td><td><a href="/miui/diting/stable/V13.0.4.0.SLFMIXM/">Download</a></td></tr>
