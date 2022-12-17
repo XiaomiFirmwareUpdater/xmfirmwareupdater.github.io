@@ -642,6 +642,12 @@
   version: 22.3.2
 - android: '12.0'
   codename: cannon
+  date: '2022-12-17'
+  download: https://bigota.d.miui.com/V13.0.5.0.SJECNXM/fw_cannon_miui_CANNON_V13.0.5.0.SJECNXM_27fd95e41b_12.0.zip
+  name: Redmi Note 9 5G
+  version: V13.0.5.0.SJECNXM
+- android: '12.0'
+  codename: cannon
   date: '2022-08-10'
   download: https://bigota.d.miui.com/V13.0.3.0.SJECNXM/fw_cannon_miui_CANNON_V13.0.3.0.SJECNXM_e0fdc7880b_12.0.zip
   name: Redmi Note 9 5G
@@ -766,6 +772,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SJNCNXM/fw_cezanne_miui_CEZANNE_V13.0.4.0.SJNCNXM_47c924d687_12.0.zip
   name: Redmi K30 Ultra
   version: V13.0.4.0.SJNCNXM
+- android: '12.0'
+  codename: cezanne
+  date: '2022-12-17'
+  download: https://bigota.d.miui.com/V13.0.5.0.SJNCNXM/fw_cezanne_miui_CEZANNE_V13.0.5.0.SJNCNXM_c78bb38246_12.0.zip
+  name: Redmi K30 Ultra
+  version: V13.0.5.0.SJNCNXM
 - android: '12.0'
   codename: cezanne
   date: '2022-07-06'
@@ -1782,6 +1794,12 @@
   version: V13.0.4.0.SJSINXM
 - android: '12.0'
   codename: gauguin
+  date: '2022-12-17'
+  download: https://bigota.d.miui.com/V13.0.7.0.SJSMIXM/fw_gauguin_miui_GAUGUINGlobal_V13.0.7.0.SJSMIXM_b0e1a3eac6_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V13.0.7.0.SJSMIXM
+- android: '12.0'
+  codename: gauguin
   date: '2022-03-17'
   download: https://bigota.d.miui.com/V13.0.3.0.SJSCNXM/fw_gauguin_miui_GAUGUIN_V13.0.3.0.SJSCNXM_8eeb7f5dd6_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
@@ -2224,6 +2242,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SLSMIXM/fw_light_miui_LIGHTGlobal_V13.0.2.0.SLSMIXM_d276914f4f_12.0.zip
   name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V13.0.2.0.SLSMIXM
+- android: '12.0'
+  codename: light
+  date: '2022-12-17'
+  download: https://bigota.d.miui.com/V13.0.6.0.SLSINXM/fw_light_miui_LIGHTINGlobal_V13.0.6.0.SLSINXM_f82665b25d_12.0.zip
+  name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V13.0.6.0.SLSINXM
 - android: '12.0'
   codename: light
   date: '2022-12-14'
@@ -4464,6 +4488,12 @@
   version: V13.0.3.0.SJVCNXM
 - android: '12.0'
   codename: vangogh
+  date: '2022-12-17'
+  download: https://bigota.d.miui.com/V13.0.9.0.SJVCNXM/fw_vangogh_miui_VANGOGH_V13.0.9.0.SJVCNXM_eeb72f22d2_12.0.zip
+  name: Mi 10 Lite Zoom
+  version: V13.0.9.0.SJVCNXM
+- android: '12.0'
+  codename: vangogh
   date: '2022-10-12'
   download: https://bigota.d.miui.com/V13.0.7.0.SJVCNXM/fw_vangogh_miui_VANGOGH_V13.0.7.0.SJVCNXM_17155f2f47_12.0.zip
   name: Mi 10 Lite Zoom
@@ -5182,6 +5212,12 @@
   download: https://bigota.d.miui.com/V13.0.10.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.10.0.SLBEUXM_8af10526e8_12.0.zip
   name: Xiaomi 12 Pro
   version: V13.0.10.0.SLBEUXM
+- android: '13.0'
+  codename: zeus
+  date: '2022-12-17'
+  download: https://bigota.d.miui.com/V13.2.4.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.2.4.0.TLBEUXM_ae529519f1_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.2.4.0.TLBEUXM
 - android: '13.0'
   codename: zeus
   date: '2022-08-17'
