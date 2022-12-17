@@ -420,6 +420,12 @@
   version: V13.0.2.0.SJHCNXM
 - android: '12.0'
   codename: atom
+  date: '2022-12-17'
+  download: https://bigota.d.miui.com/V13.0.5.0.SJHCNXM/fw_atom_miui_ATOM_V13.0.5.0.SJHCNXM_91ed0a7853_12.0.zip
+  name: Redmi 10X 5G
+  version: V13.0.5.0.SJHCNXM
+- android: '12.0'
+  codename: atom
   date: '2022-08-03'
   download: https://bigota.d.miui.com/V13.0.3.0.SJHCNXM/fw_atom_miui_ATOM_V13.0.3.0.SJHCNXM_066e584506_12.0.zip
   name: Redmi 10X 5G

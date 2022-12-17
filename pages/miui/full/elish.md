@@ -52,7 +52,8 @@ permalink: /archive/miui/elish/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable Beta</td><td>Recovery</td><td>V13.1.4.0.SKYCNXM</td><td>12.0</td><td>4.3 GB</td><td>2022-11-01</td><td><a href="/miui/elish/stable beta/V13.1.4.0.SKYCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Recovery</td><td>V13.1.4.0.SKYCNXM</td><td>12.0</td><td>4.3 GB</td><td>2022-11-01</td><td><a href="/miui/elish/stable/V13.1.4.0.SKYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Fastboot</td><td>V13.1.4.0.SKYCNXM</td><td>12.0</td><td>5.3 GB</td><td>2022-10-10</td><td><a href="/miui/elish/stable/V13.1.4.0.SKYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-09-30</td><td><a href="/miui/elish/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.19.DEV</td><td>12.0</td><td>4.2 GB</td><td>2022-09-23</td><td><a href="/miui/elish/public beta/V13.1.22.9.19.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.12.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-09-16</td><td><a href="/miui/elish/public beta/V13.1.22.9.12.DEV/">Download</a></td></tr>
@@ -84,11 +85,11 @@ permalink: /archive/miui/elish/
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>21.9.22</td><td>11.0</td><td>3.6 GB</td><td>2021-09-23</td><td><a href="/miui/elish/weekly/21.9.22/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>21.9.15</td><td>11.0</td><td>3.6 GB</td><td>2021-09-16</td><td><a href="/miui/elish/weekly/21.9.15/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>21.9.8</td><td>11.0</td><td>3.5 GB</td><td>2021-09-09</td><td><a href="/miui/elish/weekly/21.9.8/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Recovery</td><td>V12.5.14.0.RKYCNXM</td><td>11.0</td><td>3.5 GB</td><td>2021-11-08</td><td><a href="/miui/elish/stable/V12.5.14.0.RKYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Fastboot</td><td>V12.5.14.0.RKYCNXM</td><td>11.0</td><td>4.3 GB</td><td>2021-11-03</td><td><a href="/miui/elish/stable/V12.5.14.0.RKYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Weekly</td><td>Recovery</td><td>21.9.1</td><td>11.0</td><td>3.5 GB</td><td>2021-09-02</td><td><a href="/miui/elish/weekly/21.9.1/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Recovery</td><td>V12.5.8.0.RKYCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-08-12</td><td><a href="/miui/elish/stable/V12.5.8.0.RKYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Fastboot</td><td>V12.5.8.0.RKYCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-08-12</td><td><a href="/miui/elish/stable/V12.5.8.0.RKYCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Recovery</td><td>V12.5.14.0.RKYCNXM</td><td>11.0</td><td>3.5 GB</td><td>2021-11-08</td><td><a href="/miui/elish/stable/V12.5.14.0.RKYCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Fastboot</td><td>V12.5.14.0.RKYCNXM</td><td>11.0</td><td>4.3 GB</td><td>2021-11-03</td><td><a href="/miui/elish/stable/V12.5.14.0.RKYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RKYCNXM</td><td>11.0</td><td>3.3 GB</td><td>2021-08-11</td><td><a href="/miui/elish/stable/V12.5.7.0.RKYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro Wi-Fi China</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RKYCNXM</td><td>11.0</td><td>4.1 GB</td><td>2021-08-04</td><td><a href="/miui/elish/stable/V12.5.7.0.RKYCNXM/">Download</a></td></tr>
 
