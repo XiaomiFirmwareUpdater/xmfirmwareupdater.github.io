@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 19 Dec 2022 13:33:28 +0900</pubDate>
+  <pubDate>Mon, 19 Dec 2022 20:39:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V14.0.2.0.TKICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Mon, 19 Dec 2022 20:39:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 (mojito) - V13.0.4.0.SKGINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
+    <pubDate>Mon, 19 Dec 2022 20:13:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12S (mayfly) - V14.0.3.0.TLTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
+    <pubDate>Mon, 19 Dec 2022 19:59:49 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 Pro 4G (viva) - V13.0.2.0.SGDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 10 (mojito) - V13.0.11.0.SKGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
     <pubDate>Fri, 16 Dec 2022 02:13:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 (fuxi) - V14.0.9.0.TMCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
-    <pubDate>Fri, 16 Dec 2022 01:59:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Pro (nuwa) - V14.0.7.0.TMBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
-    <pubDate>Thu, 15 Dec 2022 14:24:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Pro (matisse) - V14.0.5.0.TLKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
-    <pubDate>Thu, 15 Dec 2022 13:51:51 +0900</pubDate>
   </item>
     </channel>
 </rss>

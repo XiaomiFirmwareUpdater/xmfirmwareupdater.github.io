@@ -32049,6 +32049,16 @@
     android: '12.0'
     miui: V13.0.18.0.SLTCNXM
 - branch: stable
+  date: '2022-12-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-19.12.2022/fw_mayfly_miui_MAYFLY_V14.0.3.0.TLTCNXM_f54e20687e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mayfly/fw_mayfly_miui_MAYFLY_V14.0.3.0.TLTCNXM_f54e20687e_13.0.zip
+  filename: fw_mayfly_miui_MAYFLY_V14.0.3.0.TLTCNXM_f54e20687e_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TLTCNXM
+- branch: stable
   date: '2022-10-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-19.10.2022/fw_mayfly_miui_MAYFLY_V13.0.20.0.SLTCNXM_9d035657a1_12.0.zip
@@ -32948,6 +32958,16 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RKGEUXM
+- branch: stable
+  date: '2022-12-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-19.12.2022/fw_mojito_miui_MOJITOINGlobal_V13.0.4.0.SKGINXM_b30aeb221f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mojito/fw_mojito_miui_MOJITOINGlobal_V13.0.4.0.SKGINXM_b30aeb221f_12.0.zip
+  filename: fw_mojito_miui_MOJITOINGlobal_V13.0.4.0.SKGINXM_b30aeb221f_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKGINXM
 - branch: stable
   date: '2021-08-19'
   downloads:
@@ -44328,6 +44348,16 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SKIMIXM
+- branch: stable
+  date: '2022-12-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-19.12.2022/fw_renoir_miui_RENOIR_V14.0.2.0.TKICNXM_309a385371_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIR_V14.0.2.0.TKICNXM_309a385371_13.0.zip
+  filename: fw_renoir_miui_RENOIR_V14.0.2.0.TKICNXM_309a385371_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKICNXM
 - branch: stable
   date: '2022-01-19'
   downloads:
