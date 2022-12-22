@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 22 Dec 2022 07:32:14 +0900</pubDate>
+  <pubDate>Thu, 22 Dec 2022 20:10:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V13.0.9.0.SKIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Thu, 22 Dec 2022 20:10:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V14.0.2.0.TLCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Thu, 22 Dec 2022 19:45:52 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 (spes) - V13.0.3.0.SGCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 9 5G (cannon) - V13.0.5.0.SJECNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cannon</link>
     <pubDate>Sat, 17 Dec 2022 19:18:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 5G (atom) - V13.0.5.0.SJHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/atom</link>
-    <pubDate>Sat, 17 Dec 2022 13:16:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V14.0.4.0.TLBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Sat, 17 Dec 2022 02:18:59 +0900</pubDate>
   </item>
     </channel>
 </rss>
