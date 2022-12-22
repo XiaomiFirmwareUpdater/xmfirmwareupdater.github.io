@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 21 Dec 2022 19:48:38 +0900</pubDate>
+  <pubDate>Thu, 22 Dec 2022 07:32:14 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 (spes) - V13.0.3.0.SGCINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
+    <pubDate>Thu, 22 Dec 2022 07:32:14 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V13.0.29.0.SLBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 Pro (zeus) - V14.0.4.0.TLBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
     <pubDate>Sat, 17 Dec 2022 02:18:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 (sunstone) - V13.0.7.0.SMQCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
-    <pubDate>Sat, 17 Dec 2022 01:48:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
