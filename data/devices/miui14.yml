@@ -11,6 +11,12 @@
   name: Xiaomi 12 Pro Dimensity
   version: V14.0.3.0.TLGCNXM
 - android: '13.0'
+  codename: diting
+  date: '2022-12-23'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLFCNXM/fw_diting_miui_DITING_V14.0.2.0.TLFCNXM_4e7fa733ef_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.2.0.TLFCNXM
+- android: '13.0'
   codename: fuxi
   date: '2022-12-15'
   download: https://bigota.d.miui.com/V14.0.9.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.9.0.TMCCNXM_18131fe0aa_13.0.zip

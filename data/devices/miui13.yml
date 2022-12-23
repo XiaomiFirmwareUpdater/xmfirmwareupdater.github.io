@@ -1782,6 +1782,12 @@
   version: V13.0.2.0.SJSEUXM
 - android: '12.0'
   codename: gauguin
+  date: '2022-12-23'
+  download: https://bigota.d.miui.com/V13.0.15.0.SJSCNXM/fw_gauguin_miui_GAUGUIN_V13.0.15.0.SJSCNXM_c730c548cd_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V13.0.15.0.SJSCNXM
+- android: '12.0'
+  codename: gauguin
   date: '2022-05-23'
   download: https://bigota.d.miui.com/V13.0.2.0.SJSMIXM/fw_gauguin_miui_GAUGUINGlobal_V13.0.2.0.SJSMIXM_cc01ff39ab_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
@@ -3226,6 +3232,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SKTCNXM/fw_pissarro_miui_PISSARRO_V13.0.4.0.SKTCNXM_ddcdc166e3_12.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: V13.0.4.0.SKTCNXM
+- android: '12.0'
+  codename: pissarro
+  date: '2022-12-23'
+  download: https://bigota.d.miui.com/V13.0.7.0.SKTMIXM/fw_pissarro_miui_PISSARROGlobal_V13.0.7.0.SKTMIXM_c9c093d5a0_12.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V13.0.7.0.SKTMIXM
 - android: '12.0'
   codename: pissarro
   date: '2022-08-22'
@@ -5242,6 +5254,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.SLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.0.6.0.SLBMIXM_35481701b3_12.0.zip
   name: Xiaomi 12 Pro
   version: V13.0.6.0.SLBMIXM
+- android: '13.0'
+  codename: zeus
+  date: '2022-12-23'
+  download: https://bigota.d.miui.com/V13.2.1.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V13.2.1.0.TLBMIXM_603442db0b_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V13.2.1.0.TLBMIXM
 - android: '12.0'
   codename: zeus
   date: '2022-09-22'

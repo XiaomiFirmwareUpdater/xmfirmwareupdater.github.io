@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.7.0.SJSMIXM
 - branch: stable
-  date: '2022-12-08'
+  date: '2022-12-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-08.12.2022/fw_gauguin_miui_GAUGUIN_V13.0.11.0.SJSCNXM_17413b5411_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUIN_V13.0.11.0.SJSCNXM_17413b5411_12.0.zip
-  filename: fw_gauguin_miui_GAUGUIN_V13.0.11.0.SJSCNXM_17413b5411_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-23.12.2022/fw_gauguin_miui_GAUGUIN_V13.0.15.0.SJSCNXM_c730c548cd_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUIN_V13.0.15.0.SJSCNXM_c730c548cd_12.0.zip
+  filename: fw_gauguin_miui_GAUGUIN_V13.0.15.0.SJSCNXM_c730c548cd_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.11.0.SJSCNXM
+    miui: V13.0.15.0.SJSCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
