@@ -45679,6 +45679,16 @@
     android: '12.0'
     miui: V13.0.2.0.SMOCNXM
 - branch: stable
+  date: '2022-12-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-23.12.2022/fw_ruby_miui_RUBY_V13.0.9.0.SMOCNXM_125c782319_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ruby/fw_ruby_miui_RUBY_V13.0.9.0.SMOCNXM_125c782319_12.0.zip
+  filename: fw_ruby_miui_RUBY_V13.0.9.0.SMOCNXM_125c782319_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.9.0.SMOCNXM
+- branch: stable
   date: '2022-12-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-08.12.2022/fw_ruby_miui_RUBY_V13.0.8.0.SMOCNXM_a1634f2ed0_12.0.zip
