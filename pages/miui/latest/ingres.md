@@ -54,7 +54,7 @@ permalink: /miui/ingres/
                 <tbody>
                 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Fastboot</td><td>V13.1.22.9.13.DEV</td><td>13.0</td><td>6.3 GB</td><td>2022-09-20</td><td><a href="/miui/ingres/public beta/V13.1.22.9.13.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Stable</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.4 GB</td><td>2022-12-05</td><td><a href="/miui/ingres/stable/V14.0.22.12.5.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.8.DEV</td><td>13.0</td><td>5.9 GB</td><td>2022-12-16</td><td><a href="/miui/ingres/public beta/V14.0.22.12.8.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.19.DEV</td><td>13.0</td><td>5.9 GB</td><td>2022-12-23</td><td><a href="/miui/ingres/public beta/V14.0.22.12.19.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Stable</td><td>Recovery</td><td>V13.0.11.0.SLJCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-08-19</td><td><a href="/miui/ingres/stable/V13.0.11.0.SLJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SLJCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-02-17</td><td><a href="/miui/ingres/stable beta/V13.0.2.0.SLJCNXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SLJEUXM</td><td>12.0</td><td>5.7 GB</td><td>2022-11-15</td><td><a href="/miui/ingres/stable/V13.0.12.0.SLJEUXM/">Download</a></td></tr>

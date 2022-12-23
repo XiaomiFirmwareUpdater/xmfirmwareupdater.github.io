@@ -81,6 +81,7 @@ permalink: /archive/miui/mayfly/
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SLTCNXM</td><td>12.0</td><td>5.4 GB</td><td>2022-07-05</td><td><a href="/miui/mayfly/stable/V13.0.6.0.SLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SLTCNXM</td><td>12.0</td><td>7.2 GB</td><td>2022-06-24</td><td><a href="/miui/mayfly/stable/V13.0.6.0.SLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SLTCNXM</td><td>12.0</td><td>5.4 GB</td><td>2022-07-05</td><td><a href="/miui/mayfly/stable beta/V13.0.7.0.SLTCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.19.DEV</td><td>13.0</td><td>6.0 GB</td><td>None</td><td><a href="/miui/mayfly/public beta/V14.0.22.12.19.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
