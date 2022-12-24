@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-09-19'
+  date: '2022-12-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-19.09.2022/fw_fleur_miui_FLEURGlobal_V13.0.6.0.SKEMIXM_d32a407f53_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURGlobal_V13.0.6.0.SKEMIXM_d32a407f53_12.0.zip
-  filename: fw_fleur_miui_FLEURGlobal_V13.0.6.0.SKEMIXM_d32a407f53_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-24.12.2022/fw_fleur_miui_FLEURGlobal_V13.0.7.0.SKEMIXM_2c4d856d6e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURGlobal_V13.0.7.0.SKEMIXM_2c4d856d6e_12.0.zip
+  filename: fw_fleur_miui_FLEURGlobal_V13.0.7.0.SKEMIXM_2c4d856d6e_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SKEMIXM
+    miui: V13.0.7.0.SKEMIXM
 - branch: stable
   date: '2022-11-10'
   downloads:
