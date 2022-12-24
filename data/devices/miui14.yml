@@ -88,3 +88,9 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.4.0.TLBCNXM_98bd7af353_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.4.0.TLBCNXM
+- android: '13.0'
+  codename: zijin
+  date: '2022-12-24'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.1.0.TLPCNXM_3f5e5f7398_13.0.zip
+  name: Xiaomi Civi 1S
+  version: V14.0.1.0.TLPCNXM
