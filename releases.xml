@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 25 Dec 2022 01:37:05 +0900</pubDate>
+  <pubDate>Mon, 26 Dec 2022 13:38:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.10.0.SKUMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Mon, 26 Dec 2022 13:38:34 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.7.0.SKEMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
@@ -100,11 +105,6 @@
     <title>Mi 11 Lite 5G (renoir) - V14.0.2.0.TKICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
     <pubDate>Mon, 19 Dec 2022 20:39:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 (mojito) - V13.0.4.0.SKGINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Mon, 19 Dec 2022 20:13:39 +0900</pubDate>
   </item>
     </channel>
 </rss>
