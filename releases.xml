@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 26 Dec 2022 19:43:56 +0900</pubDate>
+  <pubDate>Tue, 27 Dec 2022 01:46:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V13.1.5.0.SKXCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Tue, 27 Dec 2022 01:46:37 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.8.0.SLOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 Lite (taoyao) - V13.2.2.0.TLIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
     <pubDate>Wed, 21 Dec 2022 13:49:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V13.0.7.0.SKLEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
-    <pubDate>Wed, 21 Dec 2022 01:34:23 +0900</pubDate>
   </item>
     </channel>
 </rss>
