@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 26 Dec 2022 13:38:34 +0900</pubDate>
+  <pubDate>Mon, 26 Dec 2022 19:43:56 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.0.8.0.SLOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
+    <pubDate>Mon, 26 Dec 2022 19:43:56 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9/Redmi 9 Prime (lancelot) - V13.0.3.0.SJCINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lancelot</link>
+    <pubDate>Mon, 26 Dec 2022 19:17:24 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 Lite (taoyao) - V13.2.1.0.TLIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
+    <pubDate>Mon, 26 Dec 2022 14:01:42 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.10.0.SKUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V13.0.7.0.SKLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
     <pubDate>Wed, 21 Dec 2022 01:34:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Pad (yunluo) - V13.1.6.0.SLYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
-    <pubDate>Tue, 20 Dec 2022 19:35:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.7.0.RCZEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Tue, 20 Dec 2022 01:17:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G (renoir) - V14.0.2.0.TKICNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Mon, 19 Dec 2022 20:39:42 +0900</pubDate>
   </item>
     </channel>
 </rss>

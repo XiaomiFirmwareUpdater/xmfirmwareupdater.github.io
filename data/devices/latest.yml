@@ -1959,15 +1959,15 @@
     android: '12.0'
     miui: V13.0.1.0.SJCEUXM
 - branch: stable
-  date: '2022-07-29'
+  date: '2022-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-29.07.2022/fw_lancelot_miui_LANCELOTINGlobal_V12.5.5.0.RJCINXM_b75857cc01_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V12.5.5.0.RJCINXM_b75857cc01_11.0.zip
-  filename: fw_lancelot_miui_LANCELOTINGlobal_V12.5.5.0.RJCINXM_b75857cc01_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-26.12.2022/fw_lancelot_miui_LANCELOTINGlobal_V13.0.3.0.SJCINXM_c4711ab008_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V13.0.3.0.SJCINXM_c4711ab008_12.0.zip
+  filename: fw_lancelot_miui_LANCELOTINGlobal_V13.0.3.0.SJCINXM_c4711ab008_12.0.zip
   region: India
   versions:
-    android: '11.0'
-    miui: V12.5.5.0.RJCINXM
+    android: '12.0'
+    miui: V13.0.3.0.SJCINXM
 - branch: stable
   date: '2019-05-28'
   downloads:
@@ -4719,15 +4719,15 @@
     android: '12.0'
     miui: V13.0.9.0.SLOEUXM
 - branch: stable
-  date: '2022-10-21'
+  date: '2022-12-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-21.10.2022/fw_xaga_miui_XAGAINGlobal_V13.0.7.0.SLOINXM_155a0699ab_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAINGlobal_V13.0.7.0.SLOINXM_155a0699ab_12.0.zip
-  filename: fw_xaga_miui_XAGAINGlobal_V13.0.7.0.SLOINXM_155a0699ab_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-26.12.2022/fw_xaga_miui_XAGAINGlobal_V13.0.8.0.SLOINXM_e04be60aa1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAINGlobal_V13.0.8.0.SLOINXM_e04be60aa1_12.0.zip
+  filename: fw_xaga_miui_XAGAINGlobal_V13.0.8.0.SLOINXM_e04be60aa1_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SLOINXM
+    miui: V13.0.8.0.SLOINXM
 - branch: stable
   date: '2020-09-30'
   downloads:

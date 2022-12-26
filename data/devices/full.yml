@@ -27019,6 +27019,16 @@
     android: '10.0'
     miui: V12.0.1.0.QJCCNXM
 - branch: stable
+  date: '2022-12-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-26.12.2022/fw_lancelot_miui_LANCELOTINGlobal_V13.0.3.0.SJCINXM_c4711ab008_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lancelot/fw_lancelot_miui_LANCELOTINGlobal_V13.0.3.0.SJCINXM_c4711ab008_12.0.zip
+  filename: fw_lancelot_miui_LANCELOTINGlobal_V13.0.3.0.SJCINXM_c4711ab008_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SJCINXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-26.11.2020/fw_lancelot_miui_LANCELOTGlobal_V12.0.1.0.QJCMIXM_0698fe5654_10.0.zip
@@ -60178,6 +60188,16 @@
   versions:
     android: '12.0'
     miui: V13.0.10.0.SLOCNXM
+- branch: stable
+  date: '2022-12-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-26.12.2022/fw_xaga_miui_XAGAINGlobal_V13.0.8.0.SLOINXM_e04be60aa1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAINGlobal_V13.0.8.0.SLOINXM_e04be60aa1_12.0.zip
+  filename: fw_xaga_miui_XAGAINGlobal_V13.0.8.0.SLOINXM_e04be60aa1_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SLOINXM
 - branch: stable
   date: '2022-07-25'
   downloads:

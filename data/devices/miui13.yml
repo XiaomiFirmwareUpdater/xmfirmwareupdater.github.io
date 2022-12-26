@@ -2196,6 +2196,12 @@
   version: V13.0.2.0.SJZEUXM
 - android: '12.0'
   codename: lancelot
+  date: '2022-12-26'
+  download: https://bigota.d.miui.com/V13.0.3.0.SJCINXM/fw_lancelot_miui_LANCELOTINGlobal_V13.0.3.0.SJCINXM_c4711ab008_12.0.zip
+  name: Redmi 9/Redmi 9 Prime
+  version: V13.0.3.0.SJCINXM
+- android: '12.0'
+  codename: lancelot
   date: '2022-09-26'
   download: https://bigota.d.miui.com/V13.0.5.0.SJCCNXM/fw_lancelot_miui_LANCELOT_V13.0.5.0.SJCCNXM_9a2b91926f_12.0.zip
   name: Redmi 9/Redmi 9 Prime
@@ -5122,6 +5128,12 @@
   download: https://bigota.d.miui.com/V13.0.10.0.SLOCNXM/fw_xaga_miui_XAGA_V13.0.10.0.SLOCNXM_58d9bdf32e_12.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V13.0.10.0.SLOCNXM
+- android: '12.0'
+  codename: xaga
+  date: '2022-12-26'
+  download: https://bigota.d.miui.com/V13.0.8.0.SLOINXM/fw_xaga_miui_XAGAINGlobal_V13.0.8.0.SLOINXM_e04be60aa1_12.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V13.0.8.0.SLOINXM
 - android: '12.0'
   codename: xaga
   date: '2022-07-25'
