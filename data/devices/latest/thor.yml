@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2022-12-11'
+  date: '2022-12-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-12.12.2022/fw_thor_miui_THOR_V14.0.2.0.TLACNXM_f58e7eab21_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.2.0.TLACNXM_f58e7eab21_13.0.zip
-  filename: fw_thor_miui_THOR_V14.0.2.0.TLACNXM_f58e7eab21_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-28.12.2022/fw_thor_miui_THOR_V14.0.3.0.TLACNXM_d806153dd8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.3.0.TLACNXM_d806153dd8_13.0.zip
+  filename: fw_thor_miui_THOR_V14.0.3.0.TLACNXM_d806153dd8_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.2.0.TLACNXM
+    miui: V14.0.3.0.TLACNXM

@@ -52,7 +52,8 @@ permalink: /archive/miui/lime/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJQMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-12-08</td><td><a href="/miui/lime/stable beta/V13.0.2.0.SJQMIXM/">Download</a></td></tr>
+                <tr><td>Redmi 9T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SJQEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-12-23</td><td><a href="/miui/lime/stable beta/V13.0.1.0.SJQEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJQMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-12-08</td><td><a href="/miui/lime/stable beta/V13.0.2.0.SJQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SJQCNXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-26</td><td><a href="/miui/lime/stable/V13.0.4.0.SJQCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 4G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SJQCNXM</td><td>12.0</td><td>5.3 GB</td><td>2022-11-22</td><td><a href="/miui/lime/stable/V13.0.4.0.SJQCNXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Power India</td><td>Stable</td><td>Recovery</td><td>V12.5.11.0.RJQINXM</td><td>11.0</td><td>2.8 GB</td><td>2022-11-22</td><td><a href="/miui/lime/stable/V12.5.11.0.RJQINXM/">Download</a></td></tr>

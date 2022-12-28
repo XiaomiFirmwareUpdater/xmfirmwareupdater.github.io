@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2022-12-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-28.12.2022/fw_unicorn_miui_UNICORN_V14.0.3.0.TLECNXM_9bcaa9726e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/unicorn/fw_unicorn_miui_UNICORN_V14.0.3.0.TLECNXM_9bcaa9726e_13.0.zip
+  filename: fw_unicorn_miui_UNICORN_V14.0.3.0.TLECNXM_9bcaa9726e_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TLECNXM
+- branch: stable
   date: '2022-10-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-20.10.2022/fw_unicorn_miui_UNICORN_V13.0.18.0.SLECNXM_e0e8d6a1d1_12.0.zip
