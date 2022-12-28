@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 12 Pro Speed (redwood) Firmware Downloads
+title: Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) Firmware Downloads
 layout: download
-name: Redmi Note 12 Pro Speed
+name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
 codename: redwood
 permalink: /archive/firmware/redwood/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/redwood/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/redwood/">Redmi Note 12 Pro Speed</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/redwood/">Redmi Note 12 Pro Speed/POCO X5 Pro 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

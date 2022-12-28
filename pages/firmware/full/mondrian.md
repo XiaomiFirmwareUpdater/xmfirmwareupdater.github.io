@@ -1,7 +1,7 @@
 ---
-title: Redmi K60 (mondrian) Firmware Downloads
+title: Redmi K60/POCO F5 Pro (mondrian) Firmware Downloads
 layout: download
-name: Redmi K60
+name: Redmi K60/POCO F5 Pro
 codename: mondrian
 permalink: /archive/firmware/mondrian/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/mondrian/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/mondrian/">Redmi K60</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/mondrian/">Redmi K60/POCO F5 Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
