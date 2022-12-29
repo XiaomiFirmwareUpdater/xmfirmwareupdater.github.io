@@ -909,15 +909,15 @@
     android: '11.0'
     miui: 21.11.24
 - branch: stable
-  date: '2022-11-01'
+  date: '2022-12-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-01.11.2022/fw_cupid_miui_CUPIDGlobal_V13.0.10.0.SLCMIXM_3e133f39ec_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPIDGlobal_V13.0.10.0.SLCMIXM_3e133f39ec_12.0.zip
-  filename: fw_cupid_miui_CUPIDGlobal_V13.0.10.0.SLCMIXM_3e133f39ec_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-29.12.2022/fw_cupid_miui_CUPIDGlobal_V13.2.3.0.TLCMIXM_4f7b4390f5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cupid/fw_cupid_miui_CUPIDGlobal_V13.2.3.0.TLCMIXM_4f7b4390f5_13.0.zip
+  filename: fw_cupid_miui_CUPIDGlobal_V13.2.3.0.TLCMIXM_4f7b4390f5_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.10.0.SLCMIXM
+    android: '13.0'
+    miui: V13.2.3.0.TLCMIXM
 - branch: stable
   date: '2022-12-22'
   downloads:
@@ -989,15 +989,15 @@
     android: '10.0'
     miui: V11.0.21.0.QDLMIXM
 - branch: stable
-  date: '2022-12-08'
+  date: '2022-12-29'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-08.12.2022/fw_dandelion_miui_DANDELIONGlobal_V12.5.7.0.RCDMIXM_64ab7911a4_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONGlobal_V12.5.7.0.RCDMIXM_64ab7911a4_11.0.zip
-  filename: fw_dandelion_miui_DANDELIONGlobal_V12.5.7.0.RCDMIXM_64ab7911a4_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-29.12.2022/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.9.0.RCZMIXM_2cd5f3621e_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.9.0.RCZMIXM_2cd5f3621e_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONC3L2Global_V12.5.9.0.RCZMIXM_2cd5f3621e_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RCDMIXM
+    miui: V12.5.9.0.RCZMIXM
 - branch: stable
   date: '2022-09-10'
   downloads:
