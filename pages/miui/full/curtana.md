@@ -52,8 +52,10 @@ permalink: /archive/miui/curtana/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJWTRXM</td><td>12.0</td><td>2.9 GB</td><td>2022-12-02</td><td><a href="/miui/curtana/stable beta/V13.0.2.0.SJWTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJWRUXM</td><td>12.0</td><td>2.9 GB</td><td>2022-12-02</td><td><a href="/miui/curtana/stable beta/V13.0.2.0.SJWRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9S Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJWTRXM</td><td>12.0</td><td>2.9 GB</td><td>2022-12-02</td><td><a href="/miui/curtana/stable/V13.0.2.0.SJWTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJWTRXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-15</td><td><a href="/miui/curtana/stable/V13.0.2.0.SJWTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJWRUXM</td><td>12.0</td><td>2.9 GB</td><td>2022-12-02</td><td><a href="/miui/curtana/stable/V13.0.2.0.SJWRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJWRUXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-15</td><td><a href="/miui/curtana/stable/V13.0.2.0.SJWRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJWINXM</td><td>12.0</td><td>2.9 GB</td><td>2022-11-15</td><td><a href="/miui/curtana/stable/V13.0.2.0.SJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJWINXM</td><td>12.0</td><td>3.6 GB</td><td>2022-11-09</td><td><a href="/miui/curtana/stable/V13.0.2.0.SJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Lite India</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJWINRF</td><td>12.0</td><td>3.0 GB</td><td>2022-11-11</td><td><a href="/miui/curtana/stable/V13.0.1.0.SJWINRF/">Download</a></td></tr>
