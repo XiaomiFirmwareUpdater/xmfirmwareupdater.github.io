@@ -47,6 +47,12 @@
   name: Xiaomi 12S
   version: V14.0.3.0.TLTCNXM
 - android: '13.0'
+  codename: mondrian
+  date: '2022-12-30'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMNCNXM/fw_mondrian_miui_MONDRIAN_V14.0.11.0.TMNCNXM_b9305eb2b8_13.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: V14.0.11.0.TMNCNXM
+- android: '13.0'
   codename: nuwa
   date: '2022-12-17'
   download: https://bigota.d.miui.com/V14.0.8.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.8.0.TMBCNXM_08bc7fba33_13.0.zip
@@ -64,6 +70,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.4.0.TMBCNXM_c5625d2228_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.4.0.TMBCNXM
+- android: '12.0'
+  codename: redwood
+  date: '2022-12-30'
+  download: https://bigota.d.miui.com/V14.0.2.0.SMSCNXM/fw_redwood_miui_REDWOOD_V14.0.2.0.SMSCNXM_5ca7d7fd66_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.2.0.SMSCNXM
 - android: '13.0'
   codename: renoir
   date: '2022-12-19'

@@ -2549,6 +2549,16 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
+  date: '2022-12-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-30.12.2022/fw_mondrian_miui_MONDRIAN_V14.0.11.0.TMNCNXM_b9305eb2b8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIAN_V14.0.11.0.TMNCNXM_b9305eb2b8_13.0.zip
+  filename: fw_mondrian_miui_MONDRIAN_V14.0.11.0.TMNCNXM_b9305eb2b8_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.11.0.TMNCNXM
+- branch: stable
   date: '2022-11-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_monet/releases/download/stable-17.11.2022/fw_monet_miui_MONETGlobal_V13.0.4.0.SJIMIXM_fd908f0df4_12.0.zip
@@ -3408,6 +3418,16 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RFKINXM
+- branch: stable
+  date: '2022-12-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-30.12.2022/fw_redwood_miui_REDWOOD_V14.0.2.0.SMSCNXM_5ca7d7fd66_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOOD_V14.0.2.0.SMSCNXM_5ca7d7fd66_12.0.zip
+  filename: fw_redwood_miui_REDWOOD_V14.0.2.0.SMSCNXM_5ca7d7fd66_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V14.0.2.0.SMSCNXM
 - branch: stable
   date: '2022-12-22'
   downloads:
