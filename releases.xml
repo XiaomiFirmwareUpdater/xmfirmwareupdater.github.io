@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 30 Dec 2022 01:49:27 +0900</pubDate>
+  <pubDate>Fri, 30 Dec 2022 19:42:05 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V13.0.8.0.SKOMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Fri, 30 Dec 2022 19:42:05 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V13.0.5.0.SJOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi Civi 1S (zijin) - V14.0.1.0.TLPCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zijin</link>
     <pubDate>Sat, 24 Dec 2022 20:05:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Pad (yunluo) - V13.1.3.0.SLYEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
-    <pubDate>Sat, 24 Dec 2022 19:40:40 +0900</pubDate>
   </item>
     </channel>
 </rss>
