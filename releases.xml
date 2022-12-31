@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 31 Dec 2022 02:13:06 +0900</pubDate>
+  <pubDate>Sun, 01 Jan 2023 01:45:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Civi 1S (zijin) - V14.0.2.0.TLPCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zijin</link>
+    <pubDate>Sun, 01 Jan 2023 01:45:45 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.2.0.SMSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 Lite (taoyao) - V13.2.1.0.TLIMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
     <pubDate>Mon, 26 Dec 2022 14:01:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.10.0.SKUMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Mon, 26 Dec 2022 13:38:34 +0900</pubDate>
   </item>
     </channel>
 </rss>
