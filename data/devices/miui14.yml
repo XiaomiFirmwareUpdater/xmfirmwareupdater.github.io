@@ -29,6 +29,12 @@
   name: Xiaomi 13
   version: V14.0.4.0.TMCCNXM
 - android: '13.0'
+  codename: fuxi
+  date: '2022-12-31'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.11.0.TMCCNXM_77665cadba_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.11.0.TMCCNXM
+- android: '13.0'
   codename: matisse
   date: '2022-12-15'
   download: https://bigota.d.miui.com/V14.0.5.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.5.0.TLKCNXM_a1a2b6a363_13.0.zip

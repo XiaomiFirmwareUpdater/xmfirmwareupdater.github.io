@@ -4506,12 +4506,6 @@
   version: 20.10.22
 - android: '11.0'
   codename: lmi
-  date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.1.20/miui_LMI_21.1.20_fcb83d6714_11.0.zip
-  name: Redmi K30 Pro/POCO F2 Pro
-  version: 21.1.20
-- android: '11.0'
-  codename: lmi
   date: '2021-07-22'
   download: https://bigota.d.miui.com/21.7.21/miui_LMI_21.7.21_f248b7bd5d_11.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
@@ -4726,12 +4720,6 @@
   download: https://bigota.d.miui.com/21.9.1/miui_LMI_21.9.1_eaa3f68253_11.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
   version: 21.9.1
-- android: '11.0'
-  codename: lmi
-  date: '2021-06-03'
-  download: https://bigota.d.miui.com/21.6.2/miui_LMI_21.6.2_4943aa0e6d_11.0.zip
-  name: Redmi K30 Pro/POCO F2 Pro
-  version: 21.6.2
 - android: '11.0'
   codename: lmi
   date: '2021-10-02'
