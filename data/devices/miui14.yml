@@ -76,6 +76,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.4.0.TMBCNXM_c5625d2228_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.4.0.TMBCNXM
+- android: '13.0'
+  codename: nuwa
+  date: '2023-01-01'
+  download: https://bigota.d.miui.com/V14.0.10.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.10.0.TMBCNXM_a92bd7643e_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.10.0.TMBCNXM
 - android: '12.0'
   codename: redwood
   date: '2022-12-30'
@@ -89,11 +95,23 @@
   name: Mi 11 Lite 5G
   version: V14.0.2.0.TKICNXM
 - android: '13.0'
+  codename: renoir
+  date: '2023-01-01'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKICNXM/fw_renoir_miui_RENOIR_V14.0.3.0.TKICNXM_6c540e993d_13.0.zip
+  name: Mi 11 Lite 5G
+  version: V14.0.3.0.TKICNXM
+- android: '13.0'
   codename: rubens
   date: '2022-12-15'
   download: https://bigota.d.miui.com/V14.0.3.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.3.0.TLNCNXM_7277a1d53b_13.0.zip
   name: Redmi K50
   version: V14.0.3.0.TLNCNXM
+- android: '13.0'
+  codename: socrates
+  date: '2023-01-01'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.11.0.TMKCNXM_01ab8e04e6_13.0.zip
+  name: Redmi K60 Pro
+  version: V14.0.11.0.TMKCNXM
 - android: '13.0'
   codename: thor
   date: '2022-12-28'
