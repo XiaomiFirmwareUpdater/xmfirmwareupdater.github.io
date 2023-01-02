@@ -52,7 +52,8 @@ permalink: /archive/miui/ingres/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.27.DEV</td><td>13.0</td><td>5.9 GB</td><td>2022-12-30</td><td><a href="/miui/ingres/public beta/V14.0.22.12.27.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K50G China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TLJCNXM</td><td>13.0</td><td>5.8 GB</td><td>2022-12-31</td><td><a href="/miui/ingres/stable beta/V14.0.6.0.TLJCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.27.DEV</td><td>13.0</td><td>5.9 GB</td><td>2022-12-30</td><td><a href="/miui/ingres/public beta/V14.0.22.12.27.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.19.DEV</td><td>13.0</td><td>5.9 GB</td><td>2022-12-23</td><td><a href="/miui/ingres/public beta/V14.0.22.12.19.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.8.DEV</td><td>13.0</td><td>5.9 GB</td><td>2022-12-16</td><td><a href="/miui/ingres/public beta/V14.0.22.12.8.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>5.9 GB</td><td>2022-12-11</td><td><a href="/miui/ingres/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
