@@ -199,6 +199,16 @@
     android: '11.0'
     miui: V12.5.5.0.RKSMIXM
 - branch: stable
+  date: '2023-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-03.01.2023/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.7.0.SKSEUXM_93ad28887e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellian/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.7.0.SKSEUXM_93ad28887e_12.0.zip
+  filename: fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.7.0.SKSEUXM_93ad28887e_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SKSEUXM
+- branch: stable
   date: '2022-09-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-02.09.2022/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.3.0.SKSEUXM_746d4816d5_12.0.zip

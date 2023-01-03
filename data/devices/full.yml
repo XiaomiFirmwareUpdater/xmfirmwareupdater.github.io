@@ -7859,6 +7859,16 @@
     android: '11.0'
     miui: V12.5.5.0.RKSMIXM
 - branch: stable
+  date: '2023-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-03.01.2023/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.7.0.SKSEUXM_93ad28887e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellian/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.7.0.SKSEUXM_93ad28887e_12.0.zip
+  filename: fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.7.0.SKSEUXM_93ad28887e_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SKSEUXM
+- branch: stable
   date: '2022-09-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-02.09.2022/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.3.0.SKSEUXM_746d4816d5_12.0.zip
@@ -30019,6 +30029,16 @@
     android: '11.0'
     miui: V12.5.3.0.RJQMIXM
 - branch: stable
+  date: '2023-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-03.01.2023/fw_lime_miui_LIMEINGlobal_V13.0.1.0.SJQINXM_505c596b3d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lime/fw_lime_miui_LIMEINGlobal_V13.0.1.0.SJQINXM_505c596b3d_12.0.zip
+  filename: fw_lime_miui_LIMEINGlobal_V13.0.1.0.SJQINXM_505c596b3d_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.1.0.SJQINXM
+- branch: stable
   date: '2021-08-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-02.08.2021/fw_lime_miui_LIMEGlobal_V12.0.1.0.RJQMIXM_a8eb7ba048_11.0.zip
@@ -30438,6 +30458,16 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RKOEUXM
+- branch: stable
+  date: '2023-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-03.01.2023/fw_lisa_miui_LISA_V14.0.4.0.TKOCNXM_2033386f5c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISA_V14.0.4.0.TKOCNXM_2033386f5c_13.0.zip
+  filename: fw_lisa_miui_LISA_V14.0.4.0.TKOCNXM_2033386f5c_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKOCNXM
 - branch: stable
   date: '2021-12-02'
   downloads:
@@ -60558,6 +60588,16 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SLOMIXM
+- branch: stable
+  date: '2023-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-03.01.2023/fw_xaga_miui_XAGAEEAGlobal_V13.2.2.0.TLOEUXM_65555fcd14_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAEEAGlobal_V13.2.2.0.TLOEUXM_65555fcd14_13.0.zip
+  filename: fw_xaga_miui_XAGAEEAGlobal_V13.2.2.0.TLOEUXM_65555fcd14_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V13.2.2.0.TLOEUXM
 - branch: stable
   date: '2023-01-03'
   downloads:

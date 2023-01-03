@@ -59,6 +59,12 @@
   name: Redmi K50G/POCO F4 GT
   version: V14.0.6.0.TLJCNXM
 - android: '13.0'
+  codename: lisa
+  date: '2023-01-03'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.4.0.TKOCNXM_2033386f5c_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.4.0.TKOCNXM
+- android: '13.0'
   codename: matisse
   date: '2022-12-15'
   download: https://bigota.d.miui.com/V14.0.5.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.5.0.TLKCNXM_a1a2b6a363_13.0.zip

@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 03 Jan 2023 11:03:06 +0900</pubDate>
+  <pubDate>Tue, 03 Jan 2023 20:29:47 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.2.2.0.TLOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
+    <pubDate>Tue, 03 Jan 2023 20:29:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.4.0.TKOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Tue, 03 Jan 2023 20:01:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V13.0.1.0.SJQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Tue, 03 Jan 2023 19:34:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V13.0.7.0.SKSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Tue, 03 Jan 2023 19:33:55 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V14.0.6.0.TLBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
@@ -85,26 +105,6 @@
     <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V13.0.8.0.SKOMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
     <pubDate>Fri, 30 Dec 2022 19:42:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10X 4G/Redmi Note 9 (merlin) - V13.0.5.0.SJOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/merlin</link>
-    <pubDate>Fri, 30 Dec 2022 01:49:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V13.2.6.0.TLCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Fri, 30 Dec 2022 01:48:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.9.0.RCZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Thu, 29 Dec 2022 13:41:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V13.2.3.0.TLCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Thu, 29 Dec 2022 13:40:59 +0900</pubDate>
   </item>
     </channel>
 </rss>

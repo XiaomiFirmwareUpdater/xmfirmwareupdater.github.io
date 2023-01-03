@@ -600,6 +600,12 @@
   version: V13.0.2.0.SKSMIXM
 - android: '12.0'
   codename: camellian
+  date: '2023-01-03'
+  download: https://bigota.d.miui.com/V13.0.7.0.SKSEUXM/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.7.0.SKSEUXM_93ad28887e_12.0.zip
+  name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
+  version: V13.0.7.0.SKSEUXM
+- android: '12.0'
+  codename: camellian
   date: '2022-09-02'
   download: https://bigota.d.miui.com/V13.0.3.0.SKSEUXM/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.3.0.SKSEUXM_746d4816d5_12.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
@@ -2392,6 +2398,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SJQCNXM/fw_lime_miui_LIME_V13.0.4.0.SJQCNXM_88d1d76919_12.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
   version: V13.0.4.0.SJQCNXM
+- android: '12.0'
+  codename: lime
+  date: '2023-01-03'
+  download: https://bigota.d.miui.com/V13.0.1.0.SJQINXM/fw_lime_miui_LIMEINGlobal_V13.0.1.0.SJQINXM_505c596b3d_12.0.zip
+  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
+  version: V13.0.1.0.SJQINXM
 - android: '12.0'
   codename: lisa
   date: '2022-03-25'
@@ -5254,6 +5266,12 @@
   download: https://bigota.d.miui.com/V13.0.5.0.SLOMIXM/fw_xaga_miui_XAGAGlobal_V13.0.5.0.SLOMIXM_add9754910_12.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V13.0.5.0.SLOMIXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-01-03'
+  download: https://bigota.d.miui.com/V13.2.2.0.TLOEUXM/fw_xaga_miui_XAGAEEAGlobal_V13.2.2.0.TLOEUXM_65555fcd14_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V13.2.2.0.TLOEUXM
 - android: '12.0'
   codename: yunluo
   date: '2022-12-28'
