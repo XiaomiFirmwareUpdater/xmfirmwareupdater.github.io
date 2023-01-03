@@ -1,11 +1,46 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 02 Jan 2023 03:18:46 +0900</pubDate>
+  <pubDate>Tue, 03 Jan 2023 11:03:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro (zeus) - V14.0.6.0.TLBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
+    <pubDate>Tue, 03 Jan 2023 11:03:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.1.0.TLOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
+    <pubDate>Tue, 03 Jan 2023 10:25:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Pro (matisse) - V14.0.6.0.TLKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
+    <pubDate>Tue, 03 Jan 2023 09:58:17 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.6.0.TLJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ingres</link>
+    <pubDate>Tue, 03 Jan 2023 09:18:40 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.4.0.TLFCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
+    <pubDate>Tue, 03 Jan 2023 08:47:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.4.0.TLGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/daumier</link>
+    <pubDate>Tue, 03 Jan 2023 08:17:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V14.0.3.0.TLCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Tue, 03 Jan 2023 07:46:14 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K60 Pro (socrates) - V14.0.11.0.TMKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/socrates</link>
@@ -70,41 +105,6 @@
     <title>Xiaomi 12 (cupid) - V13.2.3.0.TLCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
     <pubDate>Thu, 29 Dec 2022 13:40:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Pad (yunluo) - V13.1.7.0.SLYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
-    <pubDate>Wed, 28 Dec 2022 22:01:26 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.2.5.0.TLOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
-    <pubDate>Wed, 28 Dec 2022 21:34:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Pro (unicorn) - V14.0.3.0.TLECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/unicorn</link>
-    <pubDate>Wed, 28 Dec 2022 21:04:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Ultra (thor) - V14.0.3.0.TLACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
-    <pubDate>Wed, 28 Dec 2022 20:23:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S (mayfly) - V14.0.4.0.TLTCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
-    <pubDate>Wed, 28 Dec 2022 19:54:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V13.0.1.0.SJQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Wed, 28 Dec 2022 19:18:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.9.0.RCZINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Wed, 28 Dec 2022 19:17:59 +0900</pubDate>
   </item>
     </channel>
 </rss>

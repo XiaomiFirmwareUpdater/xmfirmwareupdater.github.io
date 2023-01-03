@@ -138,3 +138,13 @@
   versions:
     android: '12.0'
     miui: V13.0.10.0.SLJMIXM
+- branch: stable
+  date: '2023-01-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-03.01.2023/fw_ingres_miui_INGRES_V14.0.6.0.TLJCNXM_de5b64e3e5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRES_V14.0.6.0.TLJCNXM_de5b64e3e5_13.0.zip
+  filename: fw_ingres_miui_INGRES_V14.0.6.0.TLJCNXM_de5b64e3e5_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TLJCNXM

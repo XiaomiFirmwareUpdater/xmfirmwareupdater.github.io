@@ -5,17 +5,35 @@
   name: Xiaomi 12
   version: V14.0.2.0.TLCCNXM
 - android: '13.0'
+  codename: cupid
+  date: '2023-01-02'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLCCNXM/fw_cupid_miui_CUPID_V14.0.3.0.TLCCNXM_ad00502544_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.3.0.TLCCNXM
+- android: '13.0'
   codename: daumier
   date: '2022-12-14'
   download: https://bigota.d.miui.com/V14.0.3.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.3.0.TLGCNXM_9b5595d1b1_13.0.zip
   name: Xiaomi 12 Pro Dimensity
   version: V14.0.3.0.TLGCNXM
 - android: '13.0'
+  codename: daumier
+  date: '2023-01-02'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.4.0.TLGCNXM_5c2046e194_13.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: V14.0.4.0.TLGCNXM
+- android: '13.0'
   codename: diting
   date: '2022-12-23'
   download: https://bigota.d.miui.com/V14.0.2.0.TLFCNXM/fw_diting_miui_DITING_V14.0.2.0.TLFCNXM_4e7fa733ef_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V14.0.2.0.TLFCNXM
+- android: '13.0'
+  codename: diting
+  date: '2023-01-02'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLFCNXM/fw_diting_miui_DITING_V14.0.4.0.TLFCNXM_bf1dd72ac9_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.4.0.TLFCNXM
 - android: '13.0'
   codename: fuxi
   date: '2022-12-15'
@@ -35,11 +53,23 @@
   name: Xiaomi 13
   version: V14.0.11.0.TMCCNXM
 - android: '13.0'
+  codename: ingres
+  date: '2023-01-03'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLJCNXM/fw_ingres_miui_INGRES_V14.0.6.0.TLJCNXM_de5b64e3e5_13.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: V14.0.6.0.TLJCNXM
+- android: '13.0'
   codename: matisse
   date: '2022-12-15'
   download: https://bigota.d.miui.com/V14.0.5.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.5.0.TLKCNXM_a1a2b6a363_13.0.zip
   name: Redmi K50 Pro
   version: V14.0.5.0.TLKCNXM
+- android: '13.0'
+  codename: matisse
+  date: '2023-01-03'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.6.0.TLKCNXM_6a111247c5_13.0.zip
+  name: Redmi K50 Pro
+  version: V14.0.6.0.TLKCNXM
 - android: '13.0'
   codename: mayfly
   date: '2022-12-28'
@@ -137,11 +167,23 @@
   name: Xiaomi 12S Pro
   version: V14.0.2.0.TLECNXM
 - android: '13.0'
+  codename: xaga
+  date: '2023-01-03'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.1.0.TLOCNXM_4653c67b61_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.1.0.TLOCNXM
+- android: '13.0'
   codename: zeus
   date: '2022-12-16'
   download: https://bigota.d.miui.com/V14.0.4.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.4.0.TLBCNXM_98bd7af353_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.4.0.TLBCNXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-01-03'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.6.0.TLBCNXM_7c8e952288_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.6.0.TLBCNXM
 - android: '13.0'
   codename: zijin
   date: '2022-12-31'

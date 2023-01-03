@@ -239,6 +239,16 @@
     android: '12.0'
     miui: V13.0.37.0.SLCCNXM
 - branch: stable
+  date: '2023-01-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-03.01.2023/fw_cupid_miui_CUPID_V14.0.3.0.TLCCNXM_ad00502544_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPID_V14.0.3.0.TLCCNXM_ad00502544_13.0.zip
+  filename: fw_cupid_miui_CUPID_V14.0.3.0.TLCCNXM_ad00502544_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TLCCNXM
+- branch: stable
   date: '2022-11-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-01.11.2022/fw_cupid_miui_CUPIDGlobal_V13.0.10.0.SLCMIXM_3e133f39ec_12.0.zip
