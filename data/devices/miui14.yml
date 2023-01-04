@@ -143,6 +143,12 @@
   name: Redmi K50
   version: V14.0.3.0.TLNCNXM
 - android: '13.0'
+  codename: rubens
+  date: '2023-01-04'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.4.0.TLNCNXM_834ec7e175_13.0.zip
+  name: Redmi K50
+  version: V14.0.4.0.TLNCNXM
+- android: '13.0'
   codename: socrates
   date: '2023-01-01'
   download: https://bigota.d.miui.com/V14.0.11.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.11.0.TMKCNXM_01ab8e04e6_13.0.zip

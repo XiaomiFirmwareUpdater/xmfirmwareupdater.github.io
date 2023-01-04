@@ -3429,6 +3429,16 @@
     android: '12.0'
     miui: V14.0.2.0.SMSCNXM
 - branch: stable
+  date: '2023-01-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rembrandt/releases/download/stable-04.01.2023/fw_rembrandt_miui_REMBRANDT_V13.0.3.0.SMMCNXM_3cb5d46769_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rembrandt/fw_rembrandt_miui_REMBRANDT_V13.0.3.0.SMMCNXM_3cb5d46769_12.0.zip
+  filename: fw_rembrandt_miui_REMBRANDT_V13.0.3.0.SMMCNXM_3cb5d46769_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SMMCNXM
+- branch: stable
   date: '2022-12-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-22.12.2022/fw_renoir_miui_RENOIRGlobal_V13.0.9.0.SKIMIXM_b0613244de_12.0.zip
@@ -3649,15 +3659,15 @@
     android: '8.1'
     miui: 9.10.10
 - branch: stable
-  date: '2022-12-15'
+  date: '2023-01-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-15.12.2022/fw_rubens_miui_RUBENS_V14.0.3.0.TLNCNXM_7277a1d53b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rubens/fw_rubens_miui_RUBENS_V14.0.3.0.TLNCNXM_7277a1d53b_13.0.zip
-  filename: fw_rubens_miui_RUBENS_V14.0.3.0.TLNCNXM_7277a1d53b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-04.01.2023/fw_rubens_miui_RUBENS_V14.0.4.0.TLNCNXM_834ec7e175_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rubens/fw_rubens_miui_RUBENS_V14.0.4.0.TLNCNXM_834ec7e175_13.0.zip
+  filename: fw_rubens_miui_RUBENS_V14.0.4.0.TLNCNXM_834ec7e175_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TLNCNXM
+    miui: V14.0.4.0.TLNCNXM
 - branch: stable
   date: '2022-12-23'
   downloads:

@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 03 Jan 2023 20:29:47 +0900</pubDate>
+  <pubDate>Wed, 04 Jan 2023 20:29:09 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K50 (rubens) - V14.0.4.0.TLNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rubens</link>
+    <pubDate>Wed, 04 Jan 2023 20:29:09 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K60E (rembrandt) - V13.0.3.0.SMMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rembrandt</link>
+    <pubDate>Wed, 04 Jan 2023 19:49:56 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V13.2.2.0.TLOEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.2.0.SMSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
     <pubDate>Sat, 31 Dec 2022 02:13:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.11.0.TMNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mondrian</link>
-    <pubDate>Sat, 31 Dec 2022 01:46:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V13.0.8.0.SKOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
-    <pubDate>Fri, 30 Dec 2022 19:42:05 +0900</pubDate>
   </item>
     </channel>
 </rss>
