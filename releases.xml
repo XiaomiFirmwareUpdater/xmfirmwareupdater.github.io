@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 05 Jan 2023 01:25:58 +0900</pubDate>
+  <pubDate>Fri, 06 Jan 2023 01:39:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.4.0.SKUEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Fri, 06 Jan 2023 01:39:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.12.0.RCZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Fri, 06 Jan 2023 01:22:33 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.7.0.SGMINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ice</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V13.0.7.0.SLSINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/light</link>
     <pubDate>Sun, 01 Jan 2023 13:31:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 (fuxi) - V14.0.11.0.TMCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
-    <pubDate>Sun, 01 Jan 2023 07:52:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi 1S (zijin) - V14.0.2.0.TLPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zijin</link>
-    <pubDate>Sun, 01 Jan 2023 01:45:45 +0900</pubDate>
   </item>
     </channel>
 </rss>
