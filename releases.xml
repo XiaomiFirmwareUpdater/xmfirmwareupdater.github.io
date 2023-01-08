@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 08 Jan 2023 01:16:26 +0900</pubDate>
+  <pubDate>Sun, 08 Jan 2023 20:36:38 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi MIX Fold 2 (zizhan) - V14.0.2.0.TLRCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/zizhan</link>
+    <pubDate>Sun, 08 Jan 2023 20:36:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K60 Pro (socrates) - V14.0.12.0.TMKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/socrates</link>
+    <pubDate>Sun, 08 Jan 2023 20:00:56 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.5.0.SKUINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Sun, 08 Jan 2023 19:28:23 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 Pro/Pro Max (sweetin) - V13.0.9.0.SKFINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweetin</link>
@@ -90,21 +105,6 @@
     <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.4.0.TLFCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
     <pubDate>Tue, 03 Jan 2023 08:47:06 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.4.0.TLGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/daumier</link>
-    <pubDate>Tue, 03 Jan 2023 08:17:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 (cupid) - V14.0.3.0.TLCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
-    <pubDate>Tue, 03 Jan 2023 07:46:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K60 Pro (socrates) - V14.0.11.0.TMKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/socrates</link>
-    <pubDate>Mon, 02 Jan 2023 03:18:46 +0900</pubDate>
   </item>
     </channel>
 </rss>

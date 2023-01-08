@@ -156,6 +156,12 @@
   version: V14.0.4.0.TLNCNXM
 - android: '13.0'
   codename: socrates
+  date: '2023-01-08'
+  download: https://bigota.d.miui.com/V14.0.12.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.12.0.TMKCNXM_8a9c1a713d_13.0.zip
+  name: Redmi K60 Pro
+  version: V14.0.12.0.TMKCNXM
+- android: '13.0'
+  codename: socrates
   date: '2023-01-01'
   download: https://bigota.d.miui.com/V14.0.11.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.11.0.TMKCNXM_01ab8e04e6_13.0.zip
   name: Redmi K60 Pro
@@ -214,3 +220,9 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.1.0.TLPCNXM_3f5e5f7398_13.0.zip
   name: Xiaomi Civi 1S
   version: V14.0.1.0.TLPCNXM
+- android: '13.0'
+  codename: zizhan
+  date: '2023-01-08'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLRCNXM/fw_zizhan_miui_ZIZHAN_V14.0.2.0.TLRCNXM_db43261e3c_13.0.zip
+  name: Xiaomi MIX Fold 2
+  version: V14.0.2.0.TLRCNXM

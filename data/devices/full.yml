@@ -47899,6 +47899,16 @@
     android: '11.0'
     miui: V12.5.19.0.RKUMIXM
 - branch: stable
+  date: '2023-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-08.01.2023/fw_selene_miui_SELENEINGlobal_V13.0.5.0.SKUINXM_07006f7247_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selene/fw_selene_miui_SELENEINGlobal_V13.0.5.0.SKUINXM_07006f7247_12.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V13.0.5.0.SKUINXM_07006f7247_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SKUINXM
+- branch: stable
   date: '2021-09-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-07.09.2021/fw_selene_miui_SELENEGlobal_V12.5.5.0.RKUMIXM_01054f7373_11.0.zip
@@ -48768,6 +48778,16 @@
   versions:
     android: '8.1'
     miui: 8.6.18
+- branch: stable
+  date: '2023-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-08.01.2023/fw_socrates_miui_SOCRATES_V14.0.12.0.TMKCNXM_8a9c1a713d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/socrates/fw_socrates_miui_SOCRATES_V14.0.12.0.TMKCNXM_8a9c1a713d_13.0.zip
+  filename: fw_socrates_miui_SOCRATES_V14.0.12.0.TMKCNXM_8a9c1a713d_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.12.0.TMKCNXM
 - branch: stable
   date: '2023-01-01'
   downloads:
@@ -61498,3 +61518,13 @@
   versions:
     android: '12.0'
     miui: V13.1.6.0.SLRCNXM
+- branch: stable
+  date: '2023-01-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-08.01.2023/fw_zizhan_miui_ZIZHAN_V14.0.2.0.TLRCNXM_db43261e3c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zizhan/fw_zizhan_miui_ZIZHAN_V14.0.2.0.TLRCNXM_db43261e3c_13.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_V14.0.2.0.TLRCNXM_db43261e3c_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TLRCNXM
