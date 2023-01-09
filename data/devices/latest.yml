@@ -1159,6 +1159,16 @@
     android: '12.0'
     miui: V13.0.11.0.SLFEUXM
 - branch: stable
+  date: '2023-01-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-09.01.2023/fw_earth_miui_EARTH_V13.0.2.0.SCVCNXM_308e259415_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTH_V13.0.2.0.SCVCNXM_308e259415_12.0.zip
+  filename: fw_earth_miui_EARTH_V13.0.2.0.SCVCNXM_308e259415_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SCVCNXM
+- branch: stable
   date: '2022-11-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_elish/releases/download/stable-03.11.2022/fw_elish_miui_ELISH_V13.1.4.0.SKYCNXM_957fc20cf8_12.0.zip
@@ -1709,15 +1719,15 @@
     android: '7.0'
     miui: 9.2.28
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-08.12.2022/fw_ice_miui_ICEGlobal_V13.0.14.0.SGMMIXM_0d73910fab_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEGlobal_V13.0.14.0.SGMMIXM_0d73910fab_12.0.zip
-  filename: fw_ice_miui_ICEGlobal_V13.0.14.0.SGMMIXM_0d73910fab_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-09.01.2023/fw_ice_miui_ICEGlobal_V13.0.15.0.SGMMIXM_4ce69d0051_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEGlobal_V13.0.15.0.SGMMIXM_4ce69d0051_12.0.zip
+  filename: fw_ice_miui_ICEGlobal_V13.0.15.0.SGMMIXM_4ce69d0051_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.14.0.SGMMIXM
+    miui: V13.0.15.0.SGMMIXM
 - branch: stable
   date: '2022-12-09'
   downloads:
@@ -3899,15 +3909,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2023-01-08'
+  date: '2023-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-08.01.2023/fw_socrates_miui_SOCRATES_V14.0.12.0.TMKCNXM_8a9c1a713d_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/socrates/fw_socrates_miui_SOCRATES_V14.0.12.0.TMKCNXM_8a9c1a713d_13.0.zip
-  filename: fw_socrates_miui_SOCRATES_V14.0.12.0.TMKCNXM_8a9c1a713d_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-09.01.2023/fw_socrates_miui_SOCRATES_V14.0.13.0.TMKCNXM_12a3a4b29f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/socrates/fw_socrates_miui_SOCRATES_V14.0.13.0.TMKCNXM_12a3a4b29f_13.0.zip
+  filename: fw_socrates_miui_SOCRATES_V14.0.13.0.TMKCNXM_12a3a4b29f_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.12.0.TMKCNXM
+    miui: V14.0.13.0.TMKCNXM
 - branch: stable
   date: '2022-12-12'
   downloads:
@@ -4079,15 +4089,15 @@
     android: '13.0'
     miui: V13.2.1.0.TLIMIXM
 - branch: stable
-  date: '2022-12-21'
+  date: '2023-01-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-21.12.2022/fw_taoyao_miui_TAOYAOEEAGlobal_V13.2.2.0.TLIEUXM_ea214abf12_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V13.2.2.0.TLIEUXM_ea214abf12_13.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V13.2.2.0.TLIEUXM_ea214abf12_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-09.01.2023/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.14.0.SLIEUXM_c2b3c0aadb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.14.0.SLIEUXM_c2b3c0aadb_12.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V13.0.14.0.SLIEUXM_c2b3c0aadb_12.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V13.2.2.0.TLIEUXM
+    android: '12.0'
+    miui: V13.0.14.0.SLIEUXM
 - branch: stable
   date: '2022-12-28'
   downloads:

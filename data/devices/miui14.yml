@@ -168,6 +168,12 @@
   version: V14.0.4.0.TLNCNXM
 - android: '13.0'
   codename: socrates
+  date: '2023-01-09'
+  download: https://bigota.d.miui.com/V14.0.13.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.13.0.TMKCNXM_12a3a4b29f_13.0.zip
+  name: Redmi K60 Pro
+  version: V14.0.13.0.TMKCNXM
+- android: '13.0'
+  codename: socrates
   date: '2023-01-08'
   download: https://bigota.d.miui.com/V14.0.12.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.12.0.TMKCNXM_8a9c1a713d_13.0.zip
   name: Redmi K60 Pro
