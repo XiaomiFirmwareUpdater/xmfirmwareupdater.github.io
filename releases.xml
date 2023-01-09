@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 10 Jan 2023 02:31:37 +0900</pubDate>
+  <pubDate>Tue, 10 Jan 2023 03:02:09 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Lite (taoyao) - V13.0.14.0.SLIEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
+    <pubDate>Tue, 10 Jan 2023 03:02:09 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K60 Pro (socrates) - V14.0.13.0.TMKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/socrates</link>
@@ -100,11 +105,6 @@
     <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.4.0.TKOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
     <pubDate>Tue, 03 Jan 2023 20:01:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V13.0.1.0.SJQINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Tue, 03 Jan 2023 19:34:51 +0900</pubDate>
   </item>
     </channel>
 </rss>
