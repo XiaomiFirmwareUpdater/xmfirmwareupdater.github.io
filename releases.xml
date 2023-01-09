@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 08 Jan 2023 20:36:38 +0900</pubDate>
+  <pubDate>Mon, 09 Jan 2023 21:03:44 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.2.0.TLOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
+    <pubDate>Mon, 09 Jan 2023 21:03:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.3.0.SMSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
+    <pubDate>Mon, 09 Jan 2023 20:31:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>MIX 4 (odin) - V14.0.1.0.TKMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
+    <pubDate>Mon, 09 Jan 2023 19:56:40 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi MIX Fold 2 (zizhan) - V14.0.2.0.TLRCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zizhan</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.1.0.TLOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
     <pubDate>Tue, 03 Jan 2023 10:25:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Pro (matisse) - V14.0.6.0.TLKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
-    <pubDate>Tue, 03 Jan 2023 09:58:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.6.0.TLJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ingres</link>
-    <pubDate>Tue, 03 Jan 2023 09:18:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.4.0.TLFCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
-    <pubDate>Tue, 03 Jan 2023 08:47:06 +0900</pubDate>
   </item>
     </channel>
 </rss>

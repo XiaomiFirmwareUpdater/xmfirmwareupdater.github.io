@@ -63,7 +63,7 @@ permalink: /miui/chopin/
 <tr><td>POCO X3 GT Global</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SKPMIXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-18</td><td><a href="/miui/chopin/stable/V13.0.7.0.SKPMIXM/">Download</a></td></tr>
 <tr><td>POCO X3 GT Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKPIDXM</td><td>12.0</td><td>5.7 GB</td><td>2022-08-11</td><td><a href="/miui/chopin/stable/V13.0.3.0.SKPIDXM/">Download</a></td></tr>
 <tr><td>POCO X3 GT Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKPIDXM</td><td>12.0</td><td>3.4 GB</td><td>2022-08-18</td><td><a href="/miui/chopin/stable/V13.0.3.0.SKPIDXM/">Download</a></td></tr>
-<tr><td>POCO X3 GT Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKPIDXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-25</td><td><a href="/miui/chopin/stable beta/V13.0.4.0.SKPIDXM/">Download</a></td></tr>
+<tr><td>POCO X3 GT Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SKPIDXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-03</td><td><a href="/miui/chopin/stable beta/V13.0.5.0.SKPIDXM/">Download</a></td></tr>
 <tr><td>POCO X3 GT Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKPTRXM</td><td>12.0</td><td>5.5 GB</td><td>2022-08-11</td><td><a href="/miui/chopin/stable/V13.0.3.0.SKPTRXM/">Download</a></td></tr>
 <tr><td>POCO X3 GT Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKPTRXM</td><td>12.0</td><td>3.4 GB</td><td>2022-08-18</td><td><a href="/miui/chopin/stable/V13.0.3.0.SKPTRXM/">Download</a></td></tr>
 <tr><td>POCO X3 GT Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKPTRXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-28</td><td><a href="/miui/chopin/stable beta/V13.0.4.0.SKPTRXM/">Download</a></td></tr>

@@ -119,6 +119,12 @@
   name: Xiaomi 13 Pro
   version: V14.0.10.0.TMBCNXM
 - android: '13.0'
+  codename: odin
+  date: '2023-01-09'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKMCNXM/fw_odin_miui_ODIN_V14.0.1.0.TKMCNXM_dd4b49c456_13.0.zip
+  name: MIX 4
+  version: V14.0.1.0.TKMCNXM
+- android: '13.0'
   codename: pissarro
   date: '2023-01-05'
   download: https://bigota.d.miui.com/V14.0.2.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.2.0.TKTCNXM_4d70a38aaa_13.0.zip
@@ -130,6 +136,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SMSCNXM/fw_redwood_miui_REDWOOD_V14.0.2.0.SMSCNXM_5ca7d7fd66_12.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: V14.0.2.0.SMSCNXM
+- android: '12.0'
+  codename: redwood
+  date: '2023-01-09'
+  download: https://bigota.d.miui.com/V14.0.3.0.SMSCNXM/fw_redwood_miui_REDWOOD_V14.0.3.0.SMSCNXM_2d81f55d33_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.3.0.SMSCNXM
 - android: '13.0'
   codename: renoir
   date: '2022-12-19'
@@ -190,6 +202,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.2.0.TLECNXM_dd574a95b0_13.0.zip
   name: Xiaomi 12S Pro
   version: V14.0.2.0.TLECNXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-01-09'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.2.0.TLOCNXM_c79ba02c33_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.2.0.TLOCNXM
 - android: '13.0'
   codename: xaga
   date: '2023-01-03'
