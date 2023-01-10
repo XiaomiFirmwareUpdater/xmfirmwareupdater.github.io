@@ -53,6 +53,12 @@
   name: Xiaomi 13
   version: V14.0.11.0.TMCCNXM
 - android: '13.0'
+  codename: haydn
+  date: '2023-01-10'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKKCNXM/fw_haydn_miui_HAYDN_V14.0.3.0.TKKCNXM_1bd4117cae_13.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V14.0.3.0.TKKCNXM
+- android: '13.0'
   codename: ingres
   date: '2023-01-03'
   download: https://bigota.d.miui.com/V14.0.6.0.TLJCNXM/fw_ingres_miui_INGRES_V14.0.6.0.TLJCNXM_de5b64e3e5_13.0.zip

@@ -1599,15 +1599,15 @@
     android: '12.0'
     miui: V13.0.4.0.SKKMIXM
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-08.12.2022/fw_haydn_miui_HAYDN_V13.0.13.0.SKKCNXM_299bf5fa53_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDN_V13.0.13.0.SKKCNXM_299bf5fa53_12.0.zip
-  filename: fw_haydn_miui_HAYDN_V13.0.13.0.SKKCNXM_299bf5fa53_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-10.01.2023/fw_haydn_miui_HAYDN_V14.0.3.0.TKKCNXM_1bd4117cae_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDN_V14.0.3.0.TKKCNXM_1bd4117cae_13.0.zip
+  filename: fw_haydn_miui_HAYDN_V14.0.3.0.TKKCNXM_1bd4117cae_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.13.0.SKKCNXM
+    android: '13.0'
+    miui: V14.0.3.0.TKKCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -1729,15 +1729,15 @@
     android: '12.0'
     miui: V13.0.15.0.SGMMIXM
 - branch: stable
-  date: '2022-12-09'
+  date: '2023-01-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-09.12.2022/fw_ice_miui_ICEEEAGlobal_V13.0.7.0.SGMEUXM_e088ae3a1e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.7.0.SGMEUXM_e088ae3a1e_12.0.zip
-  filename: fw_ice_miui_ICEEEAGlobal_V13.0.7.0.SGMEUXM_e088ae3a1e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-10.01.2023/fw_ice_miui_ICEEEAGlobal_V13.0.8.0.SGMEUXM_808bacd2db_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.8.0.SGMEUXM_808bacd2db_12.0.zip
+  filename: fw_ice_miui_ICEEEAGlobal_V13.0.8.0.SGMEUXM_808bacd2db_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SGMEUXM
+    miui: V13.0.8.0.SGMEUXM
 - branch: stable
   date: '2023-01-04'
   downloads:

@@ -639,6 +639,16 @@
     android: '12.0'
     miui: V13.0.8.0.SKKCNXM
 - branch: stable
+  date: '2023-01-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-10.01.2023/fw_haydn_miui_HAYDN_V14.0.3.0.TKKCNXM_1bd4117cae_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDN_V14.0.3.0.TKKCNXM_1bd4117cae_13.0.zip
+  filename: fw_haydn_miui_HAYDN_V14.0.3.0.TKKCNXM_1bd4117cae_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TKKCNXM
+- branch: stable
   date: '2022-12-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-08.12.2022/fw_haydn_miui_HAYDNGlobal_V13.0.4.0.SKKMIXM_22f6104546_12.0.zip
