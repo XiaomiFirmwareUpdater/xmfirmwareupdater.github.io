@@ -33949,6 +33949,16 @@
     android: '13.0'
     miui: V13.2.8.0.TLMCNXM
 - branch: stable
+  date: '2023-01-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-10.01.2023/fw_munch_miui_MUNCH_V14.0.3.0.TLMCNXM_5e32cddcf6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCH_V14.0.3.0.TLMCNXM_5e32cddcf6_13.0.zip
+  filename: fw_munch_miui_MUNCH_V14.0.3.0.TLMCNXM_5e32cddcf6_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TLMCNXM
+- branch: stable
   date: '2022-09-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-02.09.2022/fw_munch_miui_MUNCH_V13.0.11.0.SLMCNXM_ec2f4ae8f7_12.0.zip
@@ -47058,6 +47068,26 @@
   versions:
     android: '8.1'
     miui: 8.10.18
+- branch: weekly
+  date: '2018-10-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sakura/releases/download/weekly-12.10.2018/fw_sakura_miui_HM6Pro_8.10.11_87a6611a24_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/sakura/fw_sakura_miui_HM6Pro_8.10.11_87a6611a24_8.1.zip
+  filename: fw_sakura_miui_HM6Pro_8.10.11_87a6611a24_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.10.11
+- branch: weekly
+  date: '2018-10-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sakura/releases/download/weekly-12.10.2018/fw__miui_HM6ProINGlobal_8.10.11_8c9b1070ad_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/sakura/fw__miui_HM6ProINGlobal_8.10.11_8c9b1070ad_8.1.zip
+  filename: fw__miui_HM6ProINGlobal_8.10.11_8c9b1070ad_8.1.zip
+  region: India
+  versions:
+    android: '8.1'
+    miui: 8.10.11
 - branch: stable
   date: '2019-07-29'
   downloads:
@@ -47088,6 +47118,16 @@
   versions:
     android: '8.1'
     miui: V9.6.4.0.ODMMIFD
+- branch: stable
+  date: '2018-09-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sakura/releases/download/stable-10.09.2018/fw_sakura_miui_HM6Pro_V10.0.1.0.ODICNFH_192540fed5_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/sakura/fw_sakura_miui_HM6Pro_V10.0.1.0.ODICNFH_192540fed5_8.1.zip
+  filename: fw_sakura_miui_HM6Pro_V10.0.1.0.ODICNFH_192540fed5_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V10.0.1.0.ODICNFH
 - branch: weekly
   date: '2018-08-31'
   downloads:
@@ -47118,6 +47158,16 @@
   versions:
     android: '8.1'
     miui: 8.7.26
+- branch: stable
+  date: '2018-07-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sakura/releases/download/stable-23.07.2018/fw_sakura_miui_HM6Pro_V9.6.15.0.ODICNFD_9e04e55c72_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/sakura/fw_sakura_miui_HM6Pro_V9.6.15.0.ODICNFD_9e04e55c72_8.1.zip
+  filename: fw_sakura_miui_HM6Pro_V9.6.15.0.ODICNFD_9e04e55c72_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V9.6.15.0.ODICNFD
 - branch: weekly
   date: '2018-07-09'
   downloads:
