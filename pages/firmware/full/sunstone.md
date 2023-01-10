@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 12 (sunstone) Firmware Downloads
+title: Redmi Note 12 5G (sunstone) Firmware Downloads
 layout: download
-name: Redmi Note 12
+name: Redmi Note 12 5G
 codename: sunstone
 permalink: /archive/firmware/sunstone/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/sunstone/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/sunstone/">Redmi Note 12</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/sunstone/">Redmi Note 12 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

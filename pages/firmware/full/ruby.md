@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 12 Pro/Pro+/Discovery (ruby) Firmware Downloads
+title: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) Firmware Downloads
 layout: download
-name: Redmi Note 12 Pro/Pro+/Discovery
+name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
 codename: ruby
 permalink: /archive/firmware/ruby/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/ruby/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/ruby/">Redmi Note 12 Pro/Pro+/Discovery</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/ruby/">Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
