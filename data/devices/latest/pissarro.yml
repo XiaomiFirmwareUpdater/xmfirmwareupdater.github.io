@@ -19,15 +19,15 @@
     android: '13.0'
     miui: V14.0.2.0.TKTCNXM
 - branch: weekly
-  date: '2022-03-04'
+  date: '2022-03-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-04.03.2022/fw_pissarro_miui_PISSARROPRE_22.3.3_3215637862_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.3/pissarro/fw_pissarro_miui_PISSARROPRE_22.3.3_3215637862_12.0.zip
-  filename: fw_pissarro_miui_PISSARROPRE_22.3.3_3215637862_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-25.03.2022/fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/pissarro/fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
+  filename: fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: 22.3.3
+    miui: 22.3.23
 - branch: stable
   date: '2022-11-14'
   downloads:

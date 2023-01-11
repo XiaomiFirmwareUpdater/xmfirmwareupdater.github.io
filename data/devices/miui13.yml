@@ -3300,10 +3300,22 @@
   version: V13.0.5.0.SGICNXM
 - android: '12.0'
   codename: pissarro
+  date: '2022-03-25'
+  download: https://bigota.d.miui.com/22.3.23/fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: 22.3.23
+- android: '12.0'
+  codename: pissarro
   date: '2022-02-25'
   download: https://bigota.d.miui.com/22.2.23/fw_pissarro_miui_PISSARROPRE_22.2.23_da2e4718de_12.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: 22.2.23
+- android: '12.0'
+  codename: pissarro
+  date: '2022-01-21'
+  download: https://bigota.d.miui.com/22.1.19/fw_pissarro_miui_PISSARROPRE_22.1.19_bb509f4bbb_12.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: 22.1.19
 - android: '12.0'
   codename: pissarro
   date: '2022-02-13'
@@ -3370,6 +3382,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SKTMIXM/fw_pissarro_miui_PISSARROGlobal_V13.0.1.0.SKTMIXM_c4ed23626c_12.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: V13.0.1.0.SKTMIXM
+- android: '12.0'
+  codename: pissarro
+  date: '2022-08-12'
+  download: https://bigota.d.miui.com/V13.0.4.0.SKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.4.0.SKTEUXM_f4a1d294bc_12.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V13.0.4.0.SKTEUXM
 - android: '12.0'
   codename: pissarro
   date: '2022-07-11'
