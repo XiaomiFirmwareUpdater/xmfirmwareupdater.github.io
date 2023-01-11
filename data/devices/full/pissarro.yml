@@ -9,16 +9,6 @@
     android: '11.0'
     miui: 21.11.24
 - branch: weekly
-  date: '2022-03-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-25.03.2022/fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.23/pissarro/fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
-  filename: fw_pissarro_miui_PISSARROPRE_22.3.23_0ee6b5837f_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.3.23
-- branch: weekly
   date: '2022-02-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-25.02.2022/fw_pissarro_miui_PISSARROPRE_22.2.23_da2e4718de_12.0.zip
@@ -28,16 +18,6 @@
   versions:
     android: '12.0'
     miui: 22.2.23
-- branch: weekly
-  date: '2022-01-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/weekly-21.01.2022/fw_pissarro_miui_PISSARROPRE_22.1.19_bb509f4bbb_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.1.19/pissarro/fw_pissarro_miui_PISSARROPRE_22.1.19_bb509f4bbb_12.0.zip
-  filename: fw_pissarro_miui_PISSARROPRE_22.1.19_bb509f4bbb_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.1.19
 - branch: weekly
   date: '2021-11-19'
   downloads:
@@ -249,16 +229,6 @@
     android: '11.0'
     miui: V12.5.8.0.RKTCNXM
 - branch: stable
-  date: '2022-08-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-12.08.2022/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.4.0.SKTEUXM_f4a1d294bc_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/pissarro/fw_pissarro_miui_PISSARROEEAGlobal_V13.0.4.0.SKTEUXM_f4a1d294bc_12.0.zip
-  filename: fw_pissarro_miui_PISSARROEEAGlobal_V13.0.4.0.SKTEUXM_f4a1d294bc_12.0.zip
-  region: Europe
-  versions:
-    android: '12.0'
-    miui: V13.0.4.0.SKTEUXM
-- branch: stable
   date: '2021-12-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-11.12.2021/fw_pissarro_miui_PISSARRO_V12.5.12.0.RKTCNXM_db5e05102b_11.0.zip
@@ -288,16 +258,6 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SKTMIXM
-- branch: stable
-  date: '2022-05-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-11.05.2022/fw_pissarro_miui_PISSARROINGlobal_V12.5.6.0.RKTINXM_f99a2a0d67_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARROINGlobal_V12.5.6.0.RKTINXM_f99a2a0d67_11.0.zip
-  filename: fw_pissarro_miui_PISSARROINGlobal_V12.5.6.0.RKTINXM_f99a2a0d67_11.0.zip
-  region: India
-  versions:
-    android: '11.0'
-    miui: V12.5.6.0.RKTINXM
 - branch: stable
   date: '2022-11-10'
   downloads:
