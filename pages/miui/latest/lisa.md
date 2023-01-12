@@ -68,9 +68,9 @@ permalink: /miui/lisa/
 <tr><td>Xiaomi 11 Lite 5G NE Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKORUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-10-13</td><td><a href="/miui/lisa/stable/V13.0.5.0.SKORUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKOTRXM</td><td>12.0</td><td>5.4 GB</td><td>2022-10-11</td><td><a href="/miui/lisa/stable/V13.0.5.0.SKOTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11 Lite 5G NE Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKOTRXM</td><td>12.0</td><td>3.5 GB</td><td>2022-10-25</td><td><a href="/miui/lisa/stable/V13.0.5.0.SKOTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11 Lite 5G NE Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKOTWXM</td><td>12.0</td><td>5.0 GB</td><td>2022-10-11</td><td><a href="/miui/lisa/stable/V13.0.5.0.SKOTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11 Lite 5G NE Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKOTWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-10-25</td><td><a href="/miui/lisa/stable/V13.0.5.0.SKOTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11 Lite 5G NE Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SKOTWXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-06</td><td><a href="/miui/lisa/stable beta/V13.0.6.0.SKOTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11 Lite 5G NE Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SKOTRXM</td><td>12.0</td><td>3.5 GB</td><td>2023-01-06</td><td><a href="/miui/lisa/stable beta/V13.0.6.0.SKOTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11 Lite 5G NE Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SKOTWXM</td><td>12.0</td><td>5.0 GB</td><td>2022-12-27</td><td><a href="/miui/lisa/stable/V13.0.6.0.SKOTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11 Lite 5G NE Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SKOTWXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-06</td><td><a href="/miui/lisa/stable/V13.0.6.0.SKOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
