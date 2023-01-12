@@ -2947,4 +2947,8 @@ appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 e-planning.net,ec771b05828a67fa,RESELLER,c1ba615865ed87b2
 sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
 google.com, pub-6839973589095521, RESELLER, f08c47fec0942fa0
+interdogmedia.com, 657, DIRECT
+apacdex.com, 657, DIRECT
+pubpower.io, 657, DIRECT
+quantumdex.io, 657, DIRECT
 #VLI END
