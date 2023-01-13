@@ -468,6 +468,12 @@
   version: V13.0.6.0.SCUEUXM
 - android: '12.0'
   codename: biloba
+  date: '2023-01-13'
+  download: https://bigota.d.miui.com/V13.0.9.0.SCUMIXM/fw_biloba_miui_BILOBAGlobal_V13.0.9.0.SCUMIXM_d0a250d93b_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.9.0.SCUMIXM
+- android: '12.0'
+  codename: biloba
   date: '2022-02-09'
   download: https://bigota.d.miui.com/V13.0.2.0.SCUMIXM/fw_biloba_miui_BILOBAGlobal_V13.0.2.0.SCUMIXM_670066a992_12.0.zip
   name: Redmi Note 8 (2021)
@@ -3594,12 +3600,6 @@
   version: 22.2.17
 - android: '12.0'
   codename: renoir
-  date: '2022-02-13'
-  download: https://bigota.d.miui.com/22.2.9/fw_renoir_miui_RENOIRPRE_22.2.9_069dacd234_12.0.zip
-  name: Mi 11 Lite 5G
-  version: 22.2.9
-- android: '12.0'
-  codename: renoir
   date: '2022-01-14'
   download: https://bigota.d.miui.com/22.1.13/fw_renoir_miui_RENOIRPRE_22.1.13_a4e5f8976d_12.0.zip
   name: Mi 11 Lite 5G
@@ -5668,6 +5668,12 @@
   download: https://bigota.d.miui.com/V13.0.8.0.SLLCNXM/fw_ziyi_miui_ZIYI_V13.0.8.0.SLLCNXM_f99d70c274_12.0.zip
   name: Xiaomi Civi 2
   version: V13.0.8.0.SLLCNXM
+- android: '12.0'
+  codename: ziyi
+  date: '2023-01-13'
+  download: https://bigota.d.miui.com/V13.0.13.0.SLLCNXM/fw_ziyi_miui_ZIYI_V13.0.13.0.SLLCNXM_f2a3679d64_12.0.zip
+  name: Xiaomi Civi 2
+  version: V13.0.13.0.SLLCNXM
 - android: '12.0'
   codename: zizhan
   date: '2022-08-29'
