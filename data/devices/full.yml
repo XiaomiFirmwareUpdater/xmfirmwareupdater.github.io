@@ -44629,6 +44629,16 @@
     android: '11.0'
     miui: 21.5.12
 - branch: weekly
+  date: '2022-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/weekly-14.02.2022/fw_renoir_miui_RENOIRPRE_22.2.9_069dacd234_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/renoir/fw_renoir_miui_RENOIRPRE_22.2.9_069dacd234_12.0.zip
+  filename: fw_renoir_miui_RENOIRPRE_22.2.9_069dacd234_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.9
+- branch: weekly
   date: '2022-01-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/weekly-14.01.2022/fw_renoir_miui_RENOIRPRE_22.1.13_a4e5f8976d_12.0.zip
@@ -44959,6 +44969,26 @@
     android: '11.0'
     miui: V12.5.5.0.RKIEUXM
 - branch: stable
+  date: '2021-06-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-07.06.2021/fw_renoir_miui_RENOIREEAGlobal_V12.5.1.0.RKIEUXM_fe2996d265_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIREEAGlobal_V12.5.1.0.RKIEUXM_fe2996d265_11.0.zip
+  filename: fw_renoir_miui_RENOIREEAGlobal_V12.5.1.0.RKIEUXM_fe2996d265_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.1.0.RKIEUXM
+- branch: stable
+  date: '2021-06-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-07.06.2021/fw_renoir_miui_RENOIR_V12.5.2.0.RKICNXM_5d23f3cbfa_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIR_V12.5.2.0.RKICNXM_5d23f3cbfa_11.0.zip
+  filename: fw_renoir_miui_RENOIR_V12.5.2.0.RKICNXM_5d23f3cbfa_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKICNXM
+- branch: stable
   date: '2022-03-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-07.03.2022/fw_renoir_miui_RENOIREEAGlobal_V13.0.4.0.SKIEUXM_6154fb0712_12.0.zip
@@ -44978,6 +45008,26 @@
   versions:
     android: '12.0'
     miui: V13.0.7.0.SKICNXM
+- branch: stable
+  date: '2021-07-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-06.07.2021/fw_renoir_miui_RENOIREEAGlobal_V12.5.3.0.RKIEUXM_916fd07eb1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIREEAGlobal_V12.5.3.0.RKIEUXM_916fd07eb1_11.0.zip
+  filename: fw_renoir_miui_RENOIREEAGlobal_V12.5.3.0.RKIEUXM_916fd07eb1_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.3.0.RKIEUXM
+- branch: stable
+  date: '2021-07-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-06.07.2021/fw_renoir_miui_RENOIRGlobal_V12.5.2.0.RKIMIXM_ab83d0ceea_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/renoir/fw_renoir_miui_RENOIRGlobal_V12.5.2.0.RKIMIXM_ab83d0ceea_11.0.zip
+  filename: fw_renoir_miui_RENOIRGlobal_V12.5.2.0.RKIMIXM_ab83d0ceea_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RKIMIXM
 - branch: stable
   date: '2022-05-05'
   downloads:
@@ -56268,6 +56318,16 @@
   versions:
     android: '11.0'
     miui: V12.0.5.0.RJUEUXM
+- branch: stable
+  date: '2023-01-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-13.01.2023/fw_vayu_miui_VAYUGlobal_V13.0.9.0.SJUMIXM_f8087235ab_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUGlobal_V13.0.9.0.SJUMIXM_f8087235ab_12.0.zip
+  filename: fw_vayu_miui_VAYUGlobal_V13.0.9.0.SJUMIXM_f8087235ab_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.9.0.SJUMIXM
 - branch: stable
   date: '2022-03-08'
   downloads:
