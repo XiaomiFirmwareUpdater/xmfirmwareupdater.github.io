@@ -52,7 +52,7 @@ permalink: /miui/rembrandt/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SMMCNXM</td><td>12.0</td><td>336 Bytes</td><td>2022-12-23</td><td><a href="/miui/rembrandt/stable/V13.0.3.0.SMMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SMMCNXM</td><td>12.0</td><td>7.2 GB</td><td>2022-12-23</td><td><a href="/miui/rembrandt/stable/V13.0.3.0.SMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SMMCNXM</td><td>12.0</td><td>5.7 GB</td><td>2023-01-04</td><td><a href="/miui/rembrandt/stable/V13.0.3.0.SMMCNXM/">Download</a></td></tr>
 
                 </tbody>

@@ -186,6 +186,12 @@
   version: V14.0.4.0.TLNCNXM
 - android: '13.0'
   codename: socrates
+  date: '2023-01-13'
+  download: https://bigota.d.miui.com/V14.0.15.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.15.0.TMKCNXM_a548d054e6_13.0.zip
+  name: Redmi K60 Pro
+  version: V14.0.15.0.TMKCNXM
+- android: '13.0'
+  codename: socrates
   date: '2023-01-09'
   download: https://bigota.d.miui.com/V14.0.13.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.13.0.TMKCNXM_12a3a4b29f_13.0.zip
   name: Redmi K60 Pro
@@ -202,6 +208,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.11.0.TMKCNXM_01ab8e04e6_13.0.zip
   name: Redmi K60 Pro
   version: V14.0.11.0.TMKCNXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-01-13'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.3.0.TLIEUXM_bf6e4f4ca1_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.3.0.TLIEUXM
 - android: '13.0'
   codename: thor
   date: '2022-12-28'
