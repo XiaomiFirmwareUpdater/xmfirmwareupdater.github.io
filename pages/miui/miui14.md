@@ -20,7 +20,7 @@ permalink: /miui14/
     </button>
 </div>
 
-### Latest MIUI 13 Official ROMs for Xiaomi devices
+### Latest MIUI 14 Official ROMs for Xiaomi devices
 
 _Note 1_: All files listed here are official untouched MIUI ROMs. It's not owned, modified or edited by Xiaomi Firmware
 Updater.
