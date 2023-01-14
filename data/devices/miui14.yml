@@ -245,6 +245,12 @@
   name: Xiaomi 12S Pro
   version: V14.0.4.0.TLECNXM
 - android: '13.0'
+  codename: venus
+  date: '2023-01-14'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKBCNXM/fw_venus_miui_VENUS_V14.0.8.0.TKBCNXM_3db9892b71_13.0.zip
+  name: Mi 11
+  version: V14.0.8.0.TKBCNXM
+- android: '13.0'
   codename: xaga
   date: '2023-01-09'
   download: https://bigota.d.miui.com/V14.0.2.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.2.0.TLOCNXM_c79ba02c33_13.0.zip
