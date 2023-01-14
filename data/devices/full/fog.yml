@@ -69,16 +69,6 @@
     android: '11.0'
     miui: V13.0.5.0.RGEINXM
 - branch: stable
-  date: '2022-10-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-17.10.2022/fw_fog_miui_FOGGlobal_V13.0.12.0.RGEMIXM_ca01460aa2_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGGlobal_V13.0.12.0.RGEMIXM_ca01460aa2_11.0.zip
-  filename: fw_fog_miui_FOGGlobal_V13.0.12.0.RGEMIXM_ca01460aa2_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V13.0.12.0.RGEMIXM
-- branch: stable
   date: '2022-03-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-17.03.2022/fw_fog_miui_FOGINGlobal_V13.0.4.0.RGEINXM_d9a3183d3c_11.0.zip
