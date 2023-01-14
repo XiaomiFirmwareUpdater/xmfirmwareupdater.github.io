@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-10-17'
+  date: '2023-01-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-17.10.2022/fw_nabu_miui_NABUGlobal_V13.1.3.0.SKXMIXM_02ee1eec9d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUGlobal_V13.1.3.0.SKXMIXM_02ee1eec9d_12.0.zip
-  filename: fw_nabu_miui_NABUGlobal_V13.1.3.0.SKXMIXM_02ee1eec9d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-14.01.2023/fw_nabu_miui_NABUGlobal_V13.1.4.0.SKXMIXM_fa263367a7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUGlobal_V13.1.4.0.SKXMIXM_fa263367a7_12.0.zip
+  filename: fw_nabu_miui_NABUGlobal_V13.1.4.0.SKXMIXM_fa263367a7_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.1.3.0.SKXMIXM
+    miui: V13.1.4.0.SKXMIXM
 - branch: stable
   date: '2022-12-26'
   downloads:
