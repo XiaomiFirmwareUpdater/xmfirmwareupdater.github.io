@@ -6,6 +6,12 @@
   version: V14.0.2.0.TLCCNXM
 - android: '13.0'
   codename: cupid
+  date: '2023-01-14'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLCCNXM/fw_cupid_miui_CUPID_V14.0.4.0.TLCCNXM_ac05f40933_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.4.0.TLCCNXM
+- android: '13.0'
+  codename: cupid
   date: '2023-01-02'
   download: https://bigota.d.miui.com/V14.0.3.0.TLCCNXM/fw_cupid_miui_CUPID_V14.0.3.0.TLCCNXM_ad00502544_13.0.zip
   name: Xiaomi 12
@@ -100,6 +106,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.3.0.TLTCNXM_f54e20687e_13.0.zip
   name: Xiaomi 12S
   version: V14.0.3.0.TLTCNXM
+- android: '13.0'
+  codename: mayfly
+  date: '2023-01-14'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
+  name: Xiaomi 12S
+  version: V14.0.5.0.TLTCNXM
 - android: '13.0'
   codename: mondrian
   date: '2022-12-30'
@@ -209,6 +221,12 @@
   name: Redmi K60 Pro
   version: V14.0.11.0.TMKCNXM
 - android: '13.0'
+  codename: star
+  date: '2023-01-15'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKACNXM/fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.6.0.TKACNXM
+- android: '13.0'
   codename: taoyao
   date: '2023-01-13'
   download: https://bigota.d.miui.com/V14.0.3.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.3.0.TLIEUXM_bf6e4f4ca1_13.0.zip
@@ -220,6 +238,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLACNXM/fw_thor_miui_THOR_V14.0.3.0.TLACNXM_d806153dd8_13.0.zip
   name: Xiaomi 12S Ultra
   version: V14.0.3.0.TLACNXM
+- android: '13.0'
+  codename: thor
+  date: '2023-01-15'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLACNXM/fw_thor_miui_THOR_V14.0.5.0.TLACNXM_5c17bcc84b_13.0.zip
+  name: Xiaomi 12S Ultra
+  version: V14.0.5.0.TLACNXM
 - android: '13.0'
   codename: thor
   date: '2022-12-11'

@@ -919,15 +919,15 @@
     android: '13.0'
     miui: V13.2.3.0.TLCMIXM
 - branch: stable
-  date: '2023-01-02'
+  date: '2023-01-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-03.01.2023/fw_cupid_miui_CUPID_V14.0.3.0.TLCCNXM_ad00502544_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPID_V14.0.3.0.TLCCNXM_ad00502544_13.0.zip
-  filename: fw_cupid_miui_CUPID_V14.0.3.0.TLCCNXM_ad00502544_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-15.01.2023/fw_cupid_miui_CUPID_V14.0.4.0.TLCCNXM_ac05f40933_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPID_V14.0.4.0.TLCCNXM_ac05f40933_13.0.zip
+  filename: fw_cupid_miui_CUPID_V14.0.4.0.TLCCNXM_ac05f40933_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TLCCNXM
+    miui: V14.0.4.0.TLCCNXM
 - branch: stable
   date: '2022-12-29'
   downloads:
@@ -2419,15 +2419,15 @@
     android: '13.0'
     miui: V14.0.6.0.TLKCNXM
 - branch: stable
-  date: '2022-12-28'
+  date: '2023-01-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-28.12.2022/fw_mayfly_miui_MAYFLY_V14.0.4.0.TLTCNXM_53f81d8553_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mayfly/fw_mayfly_miui_MAYFLY_V14.0.4.0.TLTCNXM_53f81d8553_13.0.zip
-  filename: fw_mayfly_miui_MAYFLY_V14.0.4.0.TLTCNXM_53f81d8553_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-15.01.2023/fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mayfly/fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
+  filename: fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TLTCNXM
+    miui: V14.0.5.0.TLTCNXM
 - branch: stable
   date: '2022-10-28'
   downloads:
@@ -3979,15 +3979,15 @@
     android: '12.0'
     miui: V13.0.6.0.SKAMIXM
 - branch: stable
-  date: '2022-08-05'
+  date: '2023-01-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-05.08.2022/fw_star_miui_STAR_V13.0.13.0.SKACNXM_55b7e41faf_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAR_V13.0.13.0.SKACNXM_55b7e41faf_12.0.zip
-  filename: fw_star_miui_STAR_V13.0.13.0.SKACNXM_55b7e41faf_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-15.01.2023/fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/star/fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
+  filename: fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.13.0.SKACNXM
+    android: '13.0'
+    miui: V14.0.6.0.TKACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -4109,15 +4109,15 @@
     android: '13.0'
     miui: V14.0.3.0.TLIEUXM
 - branch: stable
-  date: '2022-12-28'
+  date: '2023-01-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-28.12.2022/fw_thor_miui_THOR_V14.0.3.0.TLACNXM_d806153dd8_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.3.0.TLACNXM_d806153dd8_13.0.zip
-  filename: fw_thor_miui_THOR_V14.0.3.0.TLACNXM_d806153dd8_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-15.01.2023/fw_thor_miui_THOR_V14.0.5.0.TLACNXM_5c17bcc84b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.5.0.TLACNXM_5c17bcc84b_13.0.zip
+  filename: fw_thor_miui_THOR_V14.0.5.0.TLACNXM_5c17bcc84b_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TLACNXM
+    miui: V14.0.5.0.TLACNXM
 - branch: stable
   date: '2022-12-11'
   downloads:
