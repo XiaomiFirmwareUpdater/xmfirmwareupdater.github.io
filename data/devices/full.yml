@@ -19729,6 +19729,16 @@
     android: '12.0'
     miui: V13.0.7.0.SLFCNXM
 - branch: stable
+  date: '2023-01-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-17.01.2023/fw_diting_miui_DITING_V14.0.5.0.TLFCNXM_997a43704e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITING_V14.0.5.0.TLFCNXM_997a43704e_13.0.zip
+  filename: fw_diting_miui_DITING_V14.0.5.0.TLFCNXM_997a43704e_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TLFCNXM
+- branch: stable
   date: '2022-11-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-14.11.2022/fw_diting_miui_DITINGGlobal_V13.0.4.0.SLFMIXM_9183fadace_12.0.zip
@@ -32478,6 +32488,16 @@
   versions:
     android: '12.0'
     miui: V13.0.26.0.SLKCNXM
+- branch: stable
+  date: '2023-01-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-17.01.2023/fw_matisse_miui_MATISSE_V14.0.9.0.TLKCNXM_57f70ca1f5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/matisse/fw_matisse_miui_MATISSE_V14.0.9.0.TLKCNXM_57f70ca1f5_13.0.zip
+  filename: fw_matisse_miui_MATISSE_V14.0.9.0.TLKCNXM_57f70ca1f5_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.9.0.TLKCNXM
 - branch: stable
   date: '2022-12-15'
   downloads:

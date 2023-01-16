@@ -42,6 +42,12 @@
   version: V14.0.2.0.TLFCNXM
 - android: '13.0'
   codename: diting
+  date: '2023-01-16'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLFCNXM/fw_diting_miui_DITING_V14.0.5.0.TLFCNXM_997a43704e_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.5.0.TLFCNXM
+- android: '13.0'
+  codename: diting
   date: '2023-01-02'
   download: https://bigota.d.miui.com/V14.0.4.0.TLFCNXM/fw_diting_miui_DITING_V14.0.4.0.TLFCNXM_bf1dd72ac9_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -106,6 +112,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.4.0.TKOCNXM_2033386f5c_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.4.0.TKOCNXM
+- android: '13.0'
+  codename: matisse
+  date: '2023-01-16'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.9.0.TLKCNXM_57f70ca1f5_13.0.zip
+  name: Redmi K50 Pro
+  version: V14.0.9.0.TLKCNXM
 - android: '13.0'
   codename: matisse
   date: '2022-12-15'
