@@ -96,6 +96,12 @@
   version: V14.0.6.0.TLJCNXM
 - android: '13.0'
   codename: lisa
+  date: '2023-01-16'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.5.0.TKOCNXM_25171e94ec_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.5.0.TKOCNXM
+- android: '13.0'
+  codename: lisa
   date: '2023-01-03'
   download: https://bigota.d.miui.com/V14.0.4.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.4.0.TKOCNXM_2033386f5c_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -316,6 +322,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.4.0.TLBCNXM_98bd7af353_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.4.0.TLBCNXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-01-16'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.8.0.TLBCNXM_ec4f2b340b_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.8.0.TLBCNXM
 - android: '13.0'
   codename: zeus
   date: '2023-01-03'

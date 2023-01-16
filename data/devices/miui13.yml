@@ -1494,6 +1494,12 @@
   version: V13.0.5.0.SGBINXM
 - android: '12.0'
   codename: evergo
+  date: '2023-01-16'
+  download: https://bigota.d.miui.com/V13.0.7.0.SGBINXM/fw_evergo_miui_EVERGOINGlobal_V13.0.7.0.SGBINXM_db45e299ee_12.0.zip
+  name: Redmi Note 11 5G/Redmi Note 11T 5G
+  version: V13.0.7.0.SGBINXM
+- android: '12.0'
+  codename: evergo
   date: '2022-08-11'
   download: https://bigota.d.miui.com/V13.0.1.0.SGBINXM/fw_evergo_miui_EVERGOINGlobal_V13.0.1.0.SGBINXM_f0f0032006_12.0.zip
   name: Redmi Note 11 5G/Redmi Note 11T 5G
@@ -1546,6 +1552,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SGBMIXM/fw_evergreen_miui_EVERGREENGlobal_V13.0.4.0.SGBMIXM_ca9fde191a_12.0.zip
   name: POCO M4 Pro 5G
   version: V13.0.4.0.SGBMIXM
+- android: '12.0'
+  codename: evergreen
+  date: '2023-01-16'
+  download: https://bigota.d.miui.com/V13.0.3.0.SGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.3.0.SGBEUXM_03b701a08b_12.0.zip
+  name: POCO M4 Pro 5G
+  version: V13.0.3.0.SGBEUXM
 - android: '12.0'
   codename: excalibur
   date: '2022-10-26'
@@ -2764,6 +2776,12 @@
   download: https://bigota.d.miui.com/V13.0.18.0.SLTCNXM/fw_mayfly_miui_MAYFLY_V13.0.18.0.SLTCNXM_c58e371576_12.0.zip
   name: Xiaomi 12S
   version: V13.0.18.0.SLTCNXM
+- android: '12.0'
+  codename: mayfly
+  date: '2022-10-19'
+  download: https://bigota.d.miui.com/V13.0.20.0.SLTCNXM/fw_mayfly_miui_MAYFLY_V13.0.20.0.SLTCNXM_9d035657a1_12.0.zip
+  name: Xiaomi 12S
+  version: V13.0.20.0.SLTCNXM
 - android: '12.0'
   codename: mayfly
   date: '2022-08-11'
@@ -4804,6 +4822,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SJUEUXM/fw_vayu_miui_VAYUEEAGlobal_V13.0.1.0.SJUEUXM_7ef0764aa8_12.0.zip
   name: POCO X3 Pro
   version: V13.0.1.0.SJUEUXM
+- android: '12.0'
+  codename: vayu
+  date: '2023-01-16'
+  download: https://bigota.d.miui.com/V13.0.6.0.SJUEUXM/fw_vayu_miui_VAYUEEAGlobal_V13.0.6.0.SJUEUXM_31cf26050b_12.0.zip
+  name: POCO X3 Pro
+  version: V13.0.6.0.SJUEUXM
 - android: '12.0'
   codename: vayu
   date: '2022-11-15'

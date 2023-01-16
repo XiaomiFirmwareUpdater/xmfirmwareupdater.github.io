@@ -199,6 +199,16 @@
     android: '12.0'
     miui: V13.0.26.0.SLBEUXM
 - branch: stable
+  date: '2023-01-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-16.01.2023/fw_zeus_miui_ZEUS_V14.0.8.0.TLBCNXM_ec4f2b340b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zeus/fw_zeus_miui_ZEUS_V14.0.8.0.TLBCNXM_ec4f2b340b_13.0.zip
+  filename: fw_zeus_miui_ZEUS_V14.0.8.0.TLBCNXM_ec4f2b340b_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TLBCNXM
+- branch: stable
   date: '2022-04-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-15.04.2022/fw_zeus_miui_ZEUS_V13.0.30.0.SLBCNXM_d60d892580_12.0.zip
