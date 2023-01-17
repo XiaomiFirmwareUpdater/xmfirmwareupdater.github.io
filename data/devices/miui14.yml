@@ -155,6 +155,12 @@
   name: Redmi K60/POCO F5 Pro
   version: V14.0.11.0.TMNCNXM
 - android: '13.0'
+  codename: mondrian
+  date: '2023-01-17'
+  download: https://bigota.d.miui.com/V14.0.18.0.TMNCNXM/fw_mondrian_miui_MONDRIAN_V14.0.18.0.TMNCNXM_083f307903_13.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: V14.0.18.0.TMNCNXM
+- android: '13.0'
   codename: munch
   date: '2023-01-10'
   download: https://bigota.d.miui.com/V14.0.3.0.TLMCNXM/fw_munch_miui_MUNCH_V14.0.3.0.TLMCNXM_5e32cddcf6_13.0.zip
@@ -364,6 +370,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.1.0.TLPCNXM_3f5e5f7398_13.0.zip
   name: Xiaomi Civi 1S
   version: V14.0.1.0.TLPCNXM
+- android: '13.0'
+  codename: zijin
+  date: '2023-01-17'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.3.0.TLPCNXM_d35d475233_13.0.zip
+  name: Xiaomi Civi 1S
+  version: V14.0.3.0.TLPCNXM
 - android: '13.0'
   codename: zizhan
   date: '2023-01-14'

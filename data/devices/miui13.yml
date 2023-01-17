@@ -462,6 +462,12 @@
   version: V13.0.3.0.SCUEUXM
 - android: '12.0'
   codename: biloba
+  date: '2023-01-17'
+  download: https://bigota.d.miui.com/V13.0.7.0.SCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V13.0.7.0.SCUEUXM_4984da8bba_12.0.zip
+  name: Redmi Note 8 (2021)
+  version: V13.0.7.0.SCUEUXM
+- android: '12.0'
+  codename: biloba
   date: '2022-08-16'
   download: https://bigota.d.miui.com/V13.0.5.0.SCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V13.0.5.0.SCUEUXM_8e514fde10_12.0.zip
   name: Redmi Note 8 (2021)
@@ -3630,6 +3636,12 @@
   version: V13.0.4.0.SLDCNXM
 - android: '12.0'
   codename: rembrandt
+  date: '2023-01-17'
+  download: https://bigota.d.miui.com/V13.0.4.0.SMMCNXM/fw_rembrandt_miui_REMBRANDT_V13.0.4.0.SMMCNXM_4252f1faa0_12.0.zip
+  name: Redmi K60E
+  version: V13.0.4.0.SMMCNXM
+- android: '12.0'
+  codename: rembrandt
   date: '2023-01-04'
   download: https://bigota.d.miui.com/V13.0.3.0.SMMCNXM/fw_rembrandt_miui_REMBRANDT_V13.0.3.0.SMMCNXM_3cb5d46769_12.0.zip
   name: Redmi K60E
@@ -4402,6 +4414,12 @@
   download: https://bigota.d.miui.com/V13.0.13.0.SKFEUXM/fw_sweet_miui_SWEETEEAGlobal_V13.0.13.0.SKFEUXM_37e1416a38_12.0.zip
   name: Redmi Note 10 Pro
   version: V13.0.13.0.SKFEUXM
+- android: '12.0'
+  codename: sweet
+  date: '2023-01-17'
+  download: https://bigota.d.miui.com/V13.0.17.0.SKFEUXM/fw_sweet_miui_SWEETEEAGlobal_V13.0.17.0.SKFEUXM_e791b1011e_12.0.zip
+  name: Redmi Note 10 Pro
+  version: V13.0.17.0.SKFEUXM
 - android: '12.0'
   codename: sweet
   date: '2022-10-14'
@@ -5740,6 +5758,12 @@
   download: https://bigota.d.miui.com/V13.0.9.0.SLLCNXM/fw_ziyi_miui_ZIYI_V13.0.9.0.SLLCNXM_87f2de5ec9_12.0.zip
   name: Xiaomi Civi 2
   version: V13.0.9.0.SLLCNXM
+- android: '12.0'
+  codename: ziyi
+  date: '2023-01-17'
+  download: https://bigota.d.miui.com/V13.0.14.0.SLLCNXM/fw_ziyi_miui_ZIYI_V13.0.14.0.SLLCNXM_589d4e68a5_12.0.zip
+  name: Xiaomi Civi 2
+  version: V13.0.14.0.SLLCNXM
 - android: '12.0'
   codename: ziyi
   date: '2022-12-16'

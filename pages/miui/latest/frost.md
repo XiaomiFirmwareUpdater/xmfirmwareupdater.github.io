@@ -60,6 +60,7 @@ permalink: /miui/frost/
 <tr><td>POCO C40 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.RGFIDXM</td><td>11.0</td><td>2.6 GB</td><td>2022-08-25</td><td><a href="/miui/frost/stable/V13.0.8.0.RGFIDXM/">Download</a></td></tr>
 <tr><td>POCO C40 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.RGFRUXM</td><td>11.0</td><td>4.9 GB</td><td>2022-11-02</td><td><a href="/miui/frost/stable/V13.0.8.0.RGFRUXM/">Download</a></td></tr>
 <tr><td>POCO C40 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.RGFRUXM</td><td>11.0</td><td>2.6 GB</td><td>2022-11-15</td><td><a href="/miui/frost/stable/V13.0.8.0.RGFRUXM/">Download</a></td></tr>
+<tr><td>POCO C40 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.11.0.RGFRUXM</td><td>11.0</td><td>2.6 GB</td><td>2023-01-17</td><td><a href="/miui/frost/stable beta/V13.0.11.0.RGFRUXM/">Download</a></td></tr>
 <tr><td>POCO C40 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.RGFTWXM</td><td>11.0</td><td>4.3 GB</td><td>2022-09-20</td><td><a href="/miui/frost/stable/V13.0.4.0.RGFTWXM/">Download</a></td></tr>
 <tr><td>POCO C40 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.RGFTWXM</td><td>11.0</td><td>2.6 GB</td><td>2022-10-13</td><td><a href="/miui/frost/stable/V13.0.4.0.RGFTWXM/">Download</a></td></tr>
 

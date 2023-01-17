@@ -68,6 +68,7 @@ permalink: /miui/ice/
 <tr><td>Redmi A1 / POCO C50 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SGMRUXM</td><td>12.0</td><td>1.5 GB</td><td>2023-01-04</td><td><a href="/miui/ice/stable/V13.0.7.0.SGMRUXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SGMTWXM</td><td>12.0</td><td>1.9 GB</td><td>2022-11-06</td><td><a href="/miui/ice/stable/V13.0.3.0.SGMTWXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SGMTWXM</td><td>12.0</td><td>1.5 GB</td><td>2022-11-09</td><td><a href="/miui/ice/stable/V13.0.3.0.SGMTWXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / POCO C50 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SGMTWXM</td><td>12.0</td><td>1.5 GB</td><td>2023-01-17</td><td><a href="/miui/ice/stable beta/V13.0.5.0.SGMTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
