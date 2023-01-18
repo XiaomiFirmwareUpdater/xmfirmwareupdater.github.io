@@ -4186,6 +4186,12 @@
   download: https://bigota.d.miui.com/V13.0.8.0.RGKMIXM/fw_spesn_miui_SPESNGlobal_V13.0.8.0.RGKMIXM_cf9850631f_11.0.zip
   name: Redmi Note 11 NFC
   version: V13.0.8.0.RGKMIXM
+- android: '12.0'
+  codename: spesn
+  date: '2023-01-18'
+  download: https://bigota.d.miui.com/V13.0.6.0.SGKMIXM/fw_spesn_miui_SPESNGlobal_V13.0.6.0.SGKMIXM_666f747bb3_12.0.zip
+  name: Redmi Note 11 NFC
+  version: V13.0.6.0.SGKMIXM
 - android: '11.0'
   codename: spesn
   date: '2022-03-16'
