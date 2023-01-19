@@ -19809,6 +19809,16 @@
     android: '13.0'
     miui: V14.0.4.0.TLFCNXM
 - branch: stable
+  date: '2023-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-19.01.2023/fw_earth_miui_EARTH_V13.0.4.0.SCVCNXM_de102f96ee_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTH_V13.0.4.0.SCVCNXM_de102f96ee_12.0.zip
+  filename: fw_earth_miui_EARTH_V13.0.4.0.SCVCNXM_de102f96ee_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SCVCNXM
+- branch: stable
   date: '2023-01-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-12.01.2023/fw_earth_miui_EARTH_V13.0.3.0.SCVCNXM_a0ea237487_12.0.zip
