@@ -1619,15 +1619,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-09-15'
+  date: '2023-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-15.09.2022/fw_haydn_miui_HAYDNEEAGlobal_V13.0.8.0.SKKEUXM_e40e8b4b56_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNEEAGlobal_V13.0.8.0.SKKEUXM_e40e8b4b56_12.0.zip
-  filename: fw_haydn_miui_HAYDNEEAGlobal_V13.0.8.0.SKKEUXM_e40e8b4b56_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-19.01.2023/fw_haydn_miui_HAYDNEEAGlobal_V13.0.9.0.SKKEUXM_cab52c7bdc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNEEAGlobal_V13.0.9.0.SKKEUXM_cab52c7bdc_12.0.zip
+  filename: fw_haydn_miui_HAYDNEEAGlobal_V13.0.9.0.SKKEUXM_cab52c7bdc_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.8.0.SKKEUXM
+    miui: V13.0.9.0.SKKEUXM
 - branch: stable
   date: '2022-10-13'
   downloads:
@@ -4499,15 +4499,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-10-24'
+  date: '2023-01-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-24.10.2022/fw_venus_miui_VENUSEEAGlobal_V13.0.8.0.SKBEUXM_b2daee3825_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/venus/fw_venus_miui_VENUSEEAGlobal_V13.0.8.0.SKBEUXM_b2daee3825_12.0.zip
-  filename: fw_venus_miui_VENUSEEAGlobal_V13.0.8.0.SKBEUXM_b2daee3825_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-19.01.2023/fw_venus_miui_VENUSEEAGlobal_V13.0.9.0.SKBEUXM_f0bf8ef4b9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/venus/fw_venus_miui_VENUSEEAGlobal_V13.0.9.0.SKBEUXM_f0bf8ef4b9_12.0.zip
+  filename: fw_venus_miui_VENUSEEAGlobal_V13.0.9.0.SKBEUXM_f0bf8ef4b9_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.8.0.SKBEUXM
+    miui: V13.0.9.0.SKBEUXM
 - branch: stable
   date: '2023-01-16'
   downloads:

@@ -529,6 +529,16 @@
     android: '12.0'
     miui: V13.0.6.0.SKKCNXM
 - branch: stable
+  date: '2023-01-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-19.01.2023/fw_haydn_miui_HAYDNEEAGlobal_V13.0.9.0.SKKEUXM_cab52c7bdc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNEEAGlobal_V13.0.9.0.SKKEUXM_cab52c7bdc_12.0.zip
+  filename: fw_haydn_miui_HAYDNEEAGlobal_V13.0.9.0.SKKEUXM_cab52c7bdc_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.9.0.SKKEUXM
+- branch: stable
   date: '2022-01-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-19.01.2022/fw_haydn_miui_HAYDNEEAGlobal_V12.5.8.0.RKKEUXM_2988f85a03_11.0.zip
