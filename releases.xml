@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 19 Jan 2023 20:03:19 +0900</pubDate>
+  <pubDate>Sat, 21 Jan 2023 01:53:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V14.0.6.0.TKICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Sat, 21 Jan 2023 01:53:01 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 11 (venus) - V13.0.9.0.SKBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
@@ -100,11 +105,6 @@
     <title>POCO M4 Pro 5G (evergreen) - V13.0.3.0.SGBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/evergreen</link>
     <pubDate>Mon, 16 Jan 2023 19:57:51 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V13.0.7.0.SGBINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
-    <pubDate>Mon, 16 Jan 2023 19:42:49 +0900</pubDate>
   </item>
     </channel>
 </rss>
