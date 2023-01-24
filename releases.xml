@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 24 Jan 2023 07:20:10 +0900</pubDate>
+  <pubDate>Tue, 24 Jan 2023 13:17:17 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Lite 4G (courbet) - V13.0.8.0.SKQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
+    <pubDate>Tue, 24 Jan 2023 13:17:17 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 11T Pro (vili) - V13.0.8.0.SKDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 Pro (zeus) - V14.0.8.0.TLBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
     <pubDate>Mon, 16 Jan 2023 21:02:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 Pro (vayu) - V13.0.6.0.SJUEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
-    <pubDate>Mon, 16 Jan 2023 20:26:49 +0900</pubDate>
   </item>
     </channel>
 </rss>

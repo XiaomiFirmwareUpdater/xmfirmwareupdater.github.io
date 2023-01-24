@@ -869,15 +869,15 @@
     android: '12.0'
     miui: V13.0.10.0.SKQMIXM
 - branch: stable
-  date: '2022-12-12'
+  date: '2023-01-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-12.12.2022/fw_courbet_miui_COURBETEEAGlobal_V13.0.7.0.SKQEUXM_53718d7da3_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETEEAGlobal_V13.0.7.0.SKQEUXM_53718d7da3_12.0.zip
-  filename: fw_courbet_miui_COURBETEEAGlobal_V13.0.7.0.SKQEUXM_53718d7da3_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-24.01.2023/fw_courbet_miui_COURBETEEAGlobal_V13.0.8.0.SKQEUXM_2c217004e8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETEEAGlobal_V13.0.8.0.SKQEUXM_2c217004e8_12.0.zip
+  filename: fw_courbet_miui_COURBETEEAGlobal_V13.0.8.0.SKQEUXM_2c217004e8_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SKQEUXM
+    miui: V13.0.8.0.SKQEUXM
 - branch: stable
   date: '2023-01-16'
   downloads:
