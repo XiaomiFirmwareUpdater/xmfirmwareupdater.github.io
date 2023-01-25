@@ -289,12 +289,12 @@ permalink: /archive/miui/rosy/
 <tr><td>Redmi 5 Global</td><td>Weekly</td><td>Recovery</td><td>8.3.29</td><td>7.1</td><td>1.5 GB</td><td>2018-03-29</td><td><a href="/miui/rosy/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Redmi 5 Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.29</td><td>7.1</td><td>2.1 GB</td><td>2018-03-29</td><td><a href="/miui/rosy/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Redmi 5 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.29</td><td>7.1</td><td>2.1 GB</td><td>2018-03-29</td><td><a href="/miui/rosy/weekly/8.3.29/">Download</a></td></tr>
+<tr><td>Redmi 5 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.7.0.NDAMIFA</td><td>7.1</td><td>2.1 GB</td><td>2018-04-06</td><td><a href="/miui/rosy/stable/V9.5.7.0.NDAMIFA/">Download</a></td></tr>
+<tr><td>Redmi 5 Global</td><td>Stable</td><td>Recovery</td><td>V9.5.7.0.NDAMIFA</td><td>7.1</td><td>1.4 GB</td><td>2018-04-05</td><td><a href="/miui/rosy/stable/V9.5.7.0.NDAMIFA/">Download</a></td></tr>
 <tr><td>Redmi 5 Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.22</td><td>7.1</td><td>2.1 GB</td><td>2018-03-22</td><td><a href="/miui/rosy/weekly/8.3.22/">Download</a></td></tr>
 <tr><td>Redmi 5 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.22</td><td>7.1</td><td>2.2 GB</td><td>2018-03-22</td><td><a href="/miui/rosy/weekly/8.3.22/">Download</a></td></tr>
 <tr><td>Redmi 5 Global</td><td>Weekly</td><td>Recovery</td><td>8.3.22</td><td>7.1</td><td>1.5 GB</td><td>2018-03-22</td><td><a href="/miui/rosy/weekly/8.3.22/">Download</a></td></tr>
 <tr><td>Redmi 5 China</td><td>Weekly</td><td>Recovery</td><td>8.3.22</td><td>7.1</td><td>1.5 GB</td><td>2018-03-21</td><td><a href="/miui/rosy/weekly/8.3.22/">Download</a></td></tr>
-<tr><td>Redmi 5 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.7.0.NDAMIFA</td><td>7.1</td><td>2.1 GB</td><td>2018-04-06</td><td><a href="/miui/rosy/stable/V9.5.7.0.NDAMIFA/">Download</a></td></tr>
-<tr><td>Redmi 5 Global</td><td>Stable</td><td>Recovery</td><td>V9.5.7.0.NDAMIFA</td><td>7.1</td><td>1.4 GB</td><td>2018-04-05</td><td><a href="/miui/rosy/stable/V9.5.7.0.NDAMIFA/">Download</a></td></tr>
 <tr><td>Redmi 5 Global</td><td>Weekly</td><td>Recovery</td><td>8.3.15</td><td>7.1</td><td>1.5 GB</td><td>2018-03-15</td><td><a href="/miui/rosy/weekly/8.3.15/">Download</a></td></tr>
 <tr><td>Redmi 5 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.15</td><td>7.1</td><td>2.2 GB</td><td>2018-03-15</td><td><a href="/miui/rosy/weekly/8.3.15/">Download</a></td></tr>
 <tr><td>Redmi 5 China</td><td>Weekly</td><td>Recovery</td><td>8.3.15</td><td>7.1</td><td>1.5 GB</td><td>2018-03-14</td><td><a href="/miui/rosy/weekly/8.3.15/">Download</a></td></tr>

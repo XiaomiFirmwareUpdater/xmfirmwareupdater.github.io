@@ -320,9 +320,9 @@ permalink: /archive/miui/rolex/
 <tr><td>Redmi 4A China</td><td>Stable</td><td>Fastboot</td><td>V8.2.3.0.MCCCNDL</td><td>6.0</td><td>1.9 GB</td><td>2017-03-08</td><td><a href="/miui/rolex/stable/V8.2.3.0.MCCCNDL/">Download</a></td></tr>
 <tr><td>Redmi 4A China</td><td>Stable</td><td>Recovery</td><td>V8.2.2.0.MCCCNDL</td><td>6.0</td><td>1.2 GB</td><td>2017-02-24</td><td><a href="/miui/rolex/stable/V8.2.2.0.MCCCNDL/">Download</a></td></tr>
 <tr><td>Redmi 4A China</td><td>Stable</td><td>Fastboot</td><td>V8.2.2.0.MCCCNDL</td><td>6.0</td><td>1.9 GB</td><td>2017-02-24</td><td><a href="/miui/rolex/stable/V8.2.2.0.MCCCNDL/">Download</a></td></tr>
+<tr><td>Redmi 4A China</td><td>Stable</td><td>Recovery</td><td>V8.5.2.0.MCCCNED</td><td>6.0</td><td>1.2 GB</td><td>2017-06-17</td><td><a href="/miui/rolex/stable/V8.5.2.0.MCCCNED/">Download</a></td></tr>
 <tr><td>Redmi 4A China</td><td>Stable</td><td>Recovery</td><td>V8.2.1.0.MCCCNDL</td><td>6.0</td><td>1.2 GB</td><td>2017-02-20</td><td><a href="/miui/rolex/stable/V8.2.1.0.MCCCNDL/">Download</a></td></tr>
 <tr><td>Redmi 4A China</td><td>Stable</td><td>Fastboot</td><td>V8.2.1.0.MCCCNDL</td><td>6.0</td><td>1.9 GB</td><td>2017-02-20</td><td><a href="/miui/rolex/stable/V8.2.1.0.MCCCNDL/">Download</a></td></tr>
-<tr><td>Redmi 4A China</td><td>Stable</td><td>Recovery</td><td>V8.5.2.0.MCCCNED</td><td>6.0</td><td>1.2 GB</td><td>2017-06-17</td><td><a href="/miui/rolex/stable/V8.5.2.0.MCCCNED/">Download</a></td></tr>
 <tr><td>Redmi 4A China</td><td>Stable</td><td>Recovery</td><td>V8.1.8.0.MCCCNDI</td><td>6.0</td><td>1.2 GB</td><td>2017-02-11</td><td><a href="/miui/rolex/stable/V8.1.8.0.MCCCNDI/">Download</a></td></tr>
 <tr><td>Redmi 4A China</td><td>Stable</td><td>Fastboot</td><td>V8.1.8.0.MCCCNDI</td><td>6.0</td><td>1.9 GB</td><td>2017-02-11</td><td><a href="/miui/rolex/stable/V8.1.8.0.MCCCNDI/">Download</a></td></tr>
 <tr><td>Redmi 4A China</td><td>Stable</td><td>Recovery</td><td>V8.1.6.0.MCCCNDI</td><td>6.0</td><td>1.2 GB</td><td>2017-01-17</td><td><a href="/miui/rolex/stable/V8.1.6.0.MCCCNDI/">Download</a></td></tr>

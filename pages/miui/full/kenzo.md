@@ -175,10 +175,10 @@ permalink: /archive/miui/kenzo/
 <tr><td>Redmi Note 3 Pro China</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>6.0</td><td>1.9 GB</td><td>2018-03-01</td><td><a href="/miui/kenzo/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro China</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>6.0</td><td>1.2 GB</td><td>2018-03-01</td><td><a href="/miui/kenzo/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>6.0</td><td>1.3 GB</td><td>2018-02-28</td><td><a href="/miui/kenzo/weekly/8.3.1/">Download</a></td></tr>
-<tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>8.2.8</td><td>6.0</td><td>1.5 GB</td><td>2018-02-08</td><td><a href="/miui/kenzo/weekly/8.2.8/">Download</a></td></tr>
-<tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>8.2.8</td><td>6.0</td><td>1.3 GB</td><td>2018-02-07</td><td><a href="/miui/kenzo/weekly/8.2.8/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.3.0.MHOMIFA</td><td>6.0</td><td>1.4 GB</td><td>2018-04-05</td><td><a href="/miui/kenzo/stable/V9.5.3.0.MHOMIFA/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V9.5.3.0.MHOMIFA</td><td>6.0</td><td>1.1 GB</td><td>2018-04-05</td><td><a href="/miui/kenzo/stable/V9.5.3.0.MHOMIFA/">Download</a></td></tr>
+<tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>8.2.8</td><td>6.0</td><td>1.5 GB</td><td>2018-02-08</td><td><a href="/miui/kenzo/weekly/8.2.8/">Download</a></td></tr>
+<tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>8.2.8</td><td>6.0</td><td>1.3 GB</td><td>2018-02-07</td><td><a href="/miui/kenzo/weekly/8.2.8/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>6.0</td><td>1.5 GB</td><td>2018-02-01</td><td><a href="/miui/kenzo/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro China</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>6.0</td><td>1.8 GB</td><td>2018-02-01</td><td><a href="/miui/kenzo/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>8.2.1</td><td>6.0</td><td>1.3 GB</td><td>2018-02-01</td><td><a href="/miui/kenzo/weekly/8.2.1/">Download</a></td></tr>
@@ -267,9 +267,9 @@ permalink: /archive/miui/kenzo/
 <tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>7.7.20</td><td>6.0</td><td>1.3 GB</td><td>2017-07-19</td><td><a href="/miui/kenzo/weekly/7.7.20/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>7.7.13</td><td>6.0</td><td>1.6 GB</td><td>2017-07-13</td><td><a href="/miui/kenzo/weekly/7.7.13/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>7.7.13</td><td>6.0</td><td>1.3 GB</td><td>2017-07-12</td><td><a href="/miui/kenzo/weekly/7.7.13/">Download</a></td></tr>
+<tr><td>Redmi Note 3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V8.5.6.0.MHOMIED</td><td>6.0</td><td>1.2 GB</td><td>2017-08-22</td><td><a href="/miui/kenzo/stable/V8.5.6.0.MHOMIED/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>7.7.6</td><td>6.0</td><td>1.6 GB</td><td>2017-07-06</td><td><a href="/miui/kenzo/weekly/7.7.6/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>7.7.6</td><td>6.0</td><td>1.3 GB</td><td>2017-07-05</td><td><a href="/miui/kenzo/weekly/7.7.6/">Download</a></td></tr>
-<tr><td>Redmi Note 3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V8.5.6.0.MHOMIED</td><td>6.0</td><td>1.2 GB</td><td>2017-08-22</td><td><a href="/miui/kenzo/stable/V8.5.6.0.MHOMIED/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro China</td><td>Stable</td><td>Fastboot</td><td>V8.5.2.0.MHOCNED</td><td>6.0</td><td>1.9 GB</td><td>2017-07-05</td><td><a href="/miui/kenzo/stable/V8.5.2.0.MHOCNED/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro China</td><td>Stable</td><td>Recovery</td><td>V8.5.2.0.MHOCNED</td><td>6.0</td><td>1.3 GB</td><td>2017-07-05</td><td><a href="/miui/kenzo/stable/V8.5.2.0.MHOCNED/">Download</a></td></tr>
 <tr><td>Redmi Note 3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>7.6.29</td><td>6.0</td><td>1.6 GB</td><td>2017-06-29</td><td><a href="/miui/kenzo/weekly/7.6.29/">Download</a></td></tr>

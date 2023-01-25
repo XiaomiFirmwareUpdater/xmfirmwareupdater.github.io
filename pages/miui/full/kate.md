@@ -133,10 +133,10 @@ permalink: /archive/miui/kate/
 <tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Recovery</td><td>8.3.29</td><td>6.0</td><td>1.1 GB</td><td>2018-03-28</td><td><a href="/miui/kate/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.22</td><td>6.0</td><td>1.4 GB</td><td>2018-03-22</td><td><a href="/miui/kate/weekly/8.3.22/">Download</a></td></tr>
 <tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Recovery</td><td>8.3.22</td><td>6.0</td><td>1.1 GB</td><td>2018-03-21</td><td><a href="/miui/kate/weekly/8.3.22/">Download</a></td></tr>
-<tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.15</td><td>6.0</td><td>1.4 GB</td><td>2018-03-15</td><td><a href="/miui/kate/weekly/8.3.15/">Download</a></td></tr>
-<tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Recovery</td><td>8.3.15</td><td>6.0</td><td>1.1 GB</td><td>2018-03-14</td><td><a href="/miui/kate/weekly/8.3.15/">Download</a></td></tr>
 <tr><td>Redmi Note 3 SE Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.4.0.MHRMIFA</td><td>6.0</td><td>1.7 GB</td><td>2018-04-05</td><td><a href="/miui/kate/stable/V9.5.4.0.MHRMIFA/">Download</a></td></tr>
 <tr><td>Redmi Note 3 SE Global</td><td>Stable</td><td>Recovery</td><td>V9.5.4.0.MHRMIFA</td><td>6.0</td><td>1.5 GB</td><td>2018-04-05</td><td><a href="/miui/kate/stable/V9.5.4.0.MHRMIFA/">Download</a></td></tr>
+<tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.15</td><td>6.0</td><td>1.4 GB</td><td>2018-03-15</td><td><a href="/miui/kate/weekly/8.3.15/">Download</a></td></tr>
+<tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Recovery</td><td>8.3.15</td><td>6.0</td><td>1.1 GB</td><td>2018-03-14</td><td><a href="/miui/kate/weekly/8.3.15/">Download</a></td></tr>
 <tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.8</td><td>6.0</td><td>1.4 GB</td><td>2018-03-08</td><td><a href="/miui/kate/weekly/8.3.8/">Download</a></td></tr>
 <tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Recovery</td><td>8.3.8</td><td>6.0</td><td>1.1 GB</td><td>2018-03-07</td><td><a href="/miui/kate/weekly/8.3.8/">Download</a></td></tr>
 <tr><td>Redmi Note 3 SE Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>6.0</td><td>1.4 GB</td><td>2018-03-01</td><td><a href="/miui/kate/weekly/8.3.1/">Download</a></td></tr>

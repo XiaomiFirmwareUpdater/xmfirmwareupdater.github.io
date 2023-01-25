@@ -77,8 +77,8 @@ permalink: /archive/miui/armani/
 <tr><td>Redmi 1S Global</td><td>Weekly</td><td>Recovery</td><td>7.1.5</td><td>4.4</td><td>828.9 MB</td><td>2017-01-05</td><td><a href="/miui/armani/weekly/7.1.5/">Download</a></td></tr>
 <tr><td>Redmi 1S Global</td><td>Stable</td><td>Fastboot</td><td>V8.1.4.0.KHCMIDI</td><td>4.4</td><td>980.1 MB</td><td>2016-12-30</td><td><a href="/miui/armani/stable/V8.1.4.0.KHCMIDI/">Download</a></td></tr>
 <tr><td>Redmi 1S Global</td><td>Stable</td><td>Recovery</td><td>V8.1.4.0.KHCMIDI</td><td>4.4</td><td>778.0 MB</td><td>2016-12-30</td><td><a href="/miui/armani/stable/V8.1.4.0.KHCMIDI/">Download</a></td></tr>
-<tr><td>Redmi 1S Global</td><td>Weekly</td><td>Recovery</td><td>6.12.29</td><td>4.4</td><td>792.0 MB</td><td>2016-12-27</td><td><a href="/miui/armani/weekly/6.12.29/">Download</a></td></tr>
 <tr><td>Redmi 1S China</td><td>Stable</td><td>Recovery</td><td>V9.2.1.0.KHCCNEK</td><td>4.4</td><td>484.2 MB</td><td>2017-12-27</td><td><a href="/miui/armani/stable/V9.2.1.0.KHCCNEK/">Download</a></td></tr>
+<tr><td>Redmi 1S Global</td><td>Weekly</td><td>Recovery</td><td>6.12.29</td><td>4.4</td><td>792.0 MB</td><td>2016-12-27</td><td><a href="/miui/armani/weekly/6.12.29/">Download</a></td></tr>
 <tr><td>Redmi 1S Global</td><td>Weekly</td><td>Recovery</td><td>6.12.22</td><td>4.4</td><td>790.7 MB</td><td>2016-12-21</td><td><a href="/miui/armani/weekly/6.12.22/">Download</a></td></tr>
 <tr><td>Redmi 1S Global</td><td>Weekly</td><td>Recovery</td><td>6.12.15</td><td>4.4</td><td>790.5 MB</td><td>2016-12-15</td><td><a href="/miui/armani/weekly/6.12.15/">Download</a></td></tr>
 <tr><td>Redmi 1S China</td><td>Stable</td><td>Recovery</td><td>V8.1.3.0.KHCCNDI</td><td>4.4</td><td>592.2 MB</td><td>2016-12-01</td><td><a href="/miui/armani/stable/V8.1.3.0.KHCCNDI/">Download</a></td></tr>

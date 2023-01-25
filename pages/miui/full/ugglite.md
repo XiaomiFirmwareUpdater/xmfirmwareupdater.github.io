@@ -328,9 +328,9 @@ permalink: /archive/miui/ugglite/
 <tr><td>Redmi Note 5A (2GB) China</td><td>Weekly</td><td>Recovery</td><td>7.11.30</td><td>7.1</td><td>1.4 GB</td><td>2017-11-29</td><td><a href="/miui/ugglite/weekly/7.11.30/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Stable</td><td>Recovery</td><td>V9.1.6.0.NDFCNEI</td><td>7.1</td><td>1.4 GB</td><td>2017-11-27</td><td><a href="/miui/ugglite/stable/V9.1.6.0.NDFCNEI/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Stable</td><td>Fastboot</td><td>V9.1.6.0.NDFCNEI</td><td>7.1</td><td>2.1 GB</td><td>2017-11-27</td><td><a href="/miui/ugglite/stable/V9.1.6.0.NDFCNEI/">Download</a></td></tr>
+<tr><td>Redmi Note 5A (2GB) Global</td><td>Stable</td><td>Recovery</td><td>V9.1.2.0.NDFMIEI</td><td>7.1</td><td>1.2 GB</td><td>2017-11-22</td><td><a href="/miui/ugglite/stable/V9.1.2.0.NDFMIEI/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Weekly</td><td>Fastboot</td><td>7.11.16</td><td>7.1</td><td>2.2 GB</td><td>2017-11-16</td><td><a href="/miui/ugglite/weekly/7.11.16/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Weekly</td><td>Recovery</td><td>7.11.16</td><td>7.1</td><td>1.4 GB</td><td>2017-11-15</td><td><a href="/miui/ugglite/weekly/7.11.16/">Download</a></td></tr>
-<tr><td>Redmi Note 5A (2GB) Global</td><td>Stable</td><td>Recovery</td><td>V9.1.2.0.NDFMIEI</td><td>7.1</td><td>1.2 GB</td><td>2017-11-22</td><td><a href="/miui/ugglite/stable/V9.1.2.0.NDFMIEI/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Weekly</td><td>Fastboot</td><td>7.11.9</td><td>7.1</td><td>2.2 GB</td><td>2017-11-09</td><td><a href="/miui/ugglite/weekly/7.11.9/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Weekly</td><td>Recovery</td><td>7.11.9</td><td>7.1</td><td>1.4 GB</td><td>2017-11-08</td><td><a href="/miui/ugglite/weekly/7.11.9/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Stable</td><td>Recovery</td><td>V9.1.4.0.NDFCNEI</td><td>7.1</td><td>1.4 GB</td><td>2017-11-03</td><td><a href="/miui/ugglite/stable/V9.1.4.0.NDFCNEI/">Download</a></td></tr>

@@ -116,12 +116,12 @@ permalink: /archive/miui/omega/
 <tr><td>Redmi Pro China</td><td>Stable</td><td>Recovery</td><td>V8.5.4.0.MHQCNED</td><td>6.0</td><td>1.3 GB</td><td>2017-09-21</td><td><a href="/miui/omega/stable/V8.5.4.0.MHQCNED/">Download</a></td></tr>
 <tr><td>Redmi Pro China</td><td>Stable</td><td>Recovery</td><td>V8.5.3.0.MHQCNED</td><td>6.0</td><td>1.3 GB</td><td>2017-07-24</td><td><a href="/miui/omega/stable/V8.5.3.0.MHQCNED/">Download</a></td></tr>
 <tr><td>Redmi Pro China</td><td>Stable</td><td>Fastboot</td><td>V8.5.3.0.MHQCNED</td><td>6.0</td><td>2.1 GB</td><td>2017-07-24</td><td><a href="/miui/omega/stable/V8.5.3.0.MHQCNED/">Download</a></td></tr>
-<tr><td>Redmi Pro China</td><td>Weekly</td><td>Recovery</td><td>7.6.10</td><td>6.0</td><td>1.3 GB</td><td>2017-06-11</td><td><a href="/miui/omega/weekly/7.6.10/">Download</a></td></tr>
-<tr><td>Redmi Pro China</td><td>Weekly</td><td>Fastboot</td><td>7.6.10</td><td>6.0</td><td>2.0 GB</td><td>2017-06-10</td><td><a href="/miui/omega/weekly/7.6.10/">Download</a></td></tr>
 <tr><td>Redmi Pro China</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.MHQCNFA</td><td>6.0</td><td>1.2 GB</td><td>2018-02-13</td><td><a href="/miui/omega/stable/V9.5.2.0.MHQCNFA/">Download</a></td></tr>
 <tr><td>Redmi Pro China</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.MHQCNFA</td><td>6.0</td><td>2.0 GB</td><td>2018-02-13</td><td><a href="/miui/omega/stable/V9.5.2.0.MHQCNFA/">Download</a></td></tr>
 <tr><td>Redmi Pro China</td><td>Stable</td><td>Recovery</td><td>V9.2.1.0.MHQCNEK</td><td>6.0</td><td>1.2 GB</td><td>2017-12-15</td><td><a href="/miui/omega/stable/V9.2.1.0.MHQCNEK/">Download</a></td></tr>
 <tr><td>Redmi Pro China</td><td>Stable</td><td>Fastboot</td><td>V9.2.1.0.MHQCNEK</td><td>6.0</td><td>2.0 GB</td><td>2017-12-15</td><td><a href="/miui/omega/stable/V9.2.1.0.MHQCNEK/">Download</a></td></tr>
+<tr><td>Redmi Pro China</td><td>Weekly</td><td>Recovery</td><td>7.6.10</td><td>6.0</td><td>1.3 GB</td><td>2017-06-11</td><td><a href="/miui/omega/weekly/7.6.10/">Download</a></td></tr>
+<tr><td>Redmi Pro China</td><td>Weekly</td><td>Fastboot</td><td>7.6.10</td><td>6.0</td><td>2.0 GB</td><td>2017-06-10</td><td><a href="/miui/omega/weekly/7.6.10/">Download</a></td></tr>
 <tr><td>Redmi Pro China</td><td>Weekly</td><td>Recovery</td><td>7.5.25</td><td>6.0</td><td>1.3 GB</td><td>2017-05-25</td><td><a href="/miui/omega/weekly/7.5.25/">Download</a></td></tr>
 <tr><td>Redmi Pro China</td><td>Weekly</td><td>Recovery</td><td>7.5.19</td><td>6.0</td><td>1.3 GB</td><td>2017-05-19</td><td><a href="/miui/omega/weekly/7.5.19/">Download</a></td></tr>
 <tr><td>Redmi Pro China</td><td>Weekly</td><td>Recovery</td><td>7.5.11</td><td>6.0</td><td>1.3 GB</td><td>2017-05-11</td><td><a href="/miui/omega/weekly/7.5.11/">Download</a></td></tr>

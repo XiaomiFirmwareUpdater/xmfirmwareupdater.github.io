@@ -102,8 +102,8 @@ permalink: /archive/miui/ido/
 <tr><td>Redmi 3 China</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>5.1</td><td>1.1 GB</td><td>2018-02-28</td><td><a href="/miui/ido/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Redmi 3/3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>5.1</td><td>1.2 GB</td><td>2018-02-01</td><td><a href="/miui/ido/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Redmi 3/3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>8.2.1</td><td>5.1</td><td>986.5 MB</td><td>2018-01-31</td><td><a href="/miui/ido/weekly/8.2.1/">Download</a></td></tr>
-<tr><td>Redmi 3/3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.1.0.LAIMIEK</td><td>5.1</td><td>1.2 GB</td><td>2018-01-29</td><td><a href="/miui/ido/stable/V9.2.1.0.LAIMIEK/">Download</a></td></tr>
 <tr><td>Redmi 3/3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V9.2.1.0.LAIMIEK</td><td>5.1</td><td>952.1 MB</td><td>2018-01-29</td><td><a href="/miui/ido/stable/V9.2.1.0.LAIMIEK/">Download</a></td></tr>
+<tr><td>Redmi 3/3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.1.0.LAIMIEK</td><td>5.1</td><td>1.2 GB</td><td>2018-01-29</td><td><a href="/miui/ido/stable/V9.2.1.0.LAIMIEK/">Download</a></td></tr>
 <tr><td>Redmi 3/3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>8.1.25</td><td>5.1</td><td>1.2 GB</td><td>2018-01-25</td><td><a href="/miui/ido/weekly/8.1.25/">Download</a></td></tr>
 <tr><td>Redmi 3 China</td><td>Weekly</td><td>Fastboot</td><td>8.1.25</td><td>5.1</td><td>1.5 GB</td><td>2018-01-25</td><td><a href="/miui/ido/weekly/8.1.25/">Download</a></td></tr>
 <tr><td>Redmi 3 China</td><td>Weekly</td><td>Recovery</td><td>8.1.25</td><td>5.1</td><td>1.1 GB</td><td>2018-01-24</td><td><a href="/miui/ido/weekly/8.1.25/">Download</a></td></tr>
@@ -178,9 +178,9 @@ permalink: /archive/miui/ido/
 <tr><td>Redmi 3 China</td><td>Stable</td><td>Recovery</td><td>V8.0.3.0.LAICNDG</td><td>5.1</td><td>977.6 MB</td><td>2016-09-29</td><td><a href="/miui/ido/stable/V8.0.3.0.LAICNDG/">Download</a></td></tr>
 <tr><td>Redmi 3/3 Pro Global</td><td>Weekly</td><td>Recovery</td><td>6.9.15</td><td>5.1</td><td>1.0 GB</td><td>2016-09-14</td><td><a href="/miui/ido/weekly/6.9.15/">Download</a></td></tr>
 <tr><td>Redmi 3/3 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>6.9.15</td><td>5.1</td><td>1.2 GB</td><td>2016-08-05</td><td><a href="/miui/ido/weekly/6.9.15/">Download</a></td></tr>
-<tr><td>Redmi 3 China</td><td>Stable</td><td>Recovery</td><td>V8.0.2.0.LAICNDG</td><td>5.1</td><td>977.5 MB</td><td>2016-09-13</td><td><a href="/miui/ido/stable/V8.0.2.0.LAICNDG/">Download</a></td></tr>
 <tr><td>Redmi 3/3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V8.5.2.0.LAIMIED</td><td>5.1</td><td>1.3 GB</td><td>2017-08-24</td><td><a href="/miui/ido/stable/V8.5.2.0.LAIMIED/">Download</a></td></tr>
 <tr><td>Redmi 3/3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V8.5.2.0.LAIMIED</td><td>5.1</td><td>945.1 MB</td><td>2017-08-24</td><td><a href="/miui/ido/stable/V8.5.2.0.LAIMIED/">Download</a></td></tr>
+<tr><td>Redmi 3 China</td><td>Stable</td><td>Recovery</td><td>V8.0.2.0.LAICNDG</td><td>5.1</td><td>977.5 MB</td><td>2016-09-13</td><td><a href="/miui/ido/stable/V8.0.2.0.LAICNDG/">Download</a></td></tr>
 <tr><td>Redmi 3 China</td><td>Stable</td><td>Recovery</td><td>V8.0.1.0.LAICNDG</td><td>5.1</td><td>974.6 MB</td><td>2016-08-29</td><td><a href="/miui/ido/stable/V8.0.1.0.LAICNDG/">Download</a></td></tr>
 <tr><td>Redmi 3/3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V8.0.2.0.LAIMIDG</td><td>5.1</td><td>993.8 MB</td><td>2016-08-29</td><td><a href="/miui/ido/stable/V8.0.2.0.LAIMIDG/">Download</a></td></tr>
 <tr><td>Redmi 3 China</td><td>Weekly</td><td>Recovery</td><td>6.8.18</td><td>5.1</td><td>983.4 MB</td><td>2016-08-17</td><td><a href="/miui/ido/weekly/6.8.18/">Download</a></td></tr>
