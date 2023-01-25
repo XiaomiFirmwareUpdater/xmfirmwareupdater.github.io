@@ -65,8 +65,8 @@ permalink: /miui/rosemary/
 <tr><td>POCO M5S EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SFFEUXM</td><td>12.0</td><td>6.1 GB</td><td>2022-11-08</td><td><a href="/miui/rosemary/stable/V13.0.3.0.SFFEUXM/">Download</a></td></tr>
 <tr><td>POCO M5S EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SFFEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-11</td><td><a href="/miui/rosemary/stable/V13.0.3.0.SFFEUXM/">Download</a></td></tr>
 <tr><td>POCO M5S EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SFFEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-12-30</td><td><a href="/miui/rosemary/stable beta/V13.0.4.0.SFFEUXM/">Download</a></td></tr>
-<tr><td>POCO M5S Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SFFMIXM</td><td>12.0</td><td>6.0 GB</td><td>2022-09-15</td><td><a href="/miui/rosemary/stable/V13.0.4.0.SFFMIXM/">Download</a></td></tr>
-<tr><td>POCO M5S Global</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SFFMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-10-08</td><td><a href="/miui/rosemary/stable/V13.0.4.0.SFFMIXM/">Download</a></td></tr>
+<tr><td>POCO M5S Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SFFMIXM</td><td>12.0</td><td>6.3 GB</td><td>2022-12-27</td><td><a href="/miui/rosemary/stable/V13.0.5.0.SFFMIXM/">Download</a></td></tr>
+<tr><td>POCO M5S Global</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SFFMIXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-18</td><td><a href="/miui/rosemary/stable/V13.0.5.0.SFFMIXM/">Download</a></td></tr>
 <tr><td>POCO M5S Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SFFIDXM</td><td>12.0</td><td>5.6 GB</td><td>2022-10-10</td><td><a href="/miui/rosemary/stable/V13.0.2.0.SFFIDXM/">Download</a></td></tr>
 <tr><td>POCO M5S Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SFFIDXM</td><td>12.0</td><td>3.2 GB</td><td>2022-10-25</td><td><a href="/miui/rosemary/stable/V13.0.2.0.SFFIDXM/">Download</a></td></tr>
 <tr><td>POCO M5S Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SFFRUXM</td><td>12.0</td><td>5.5 GB</td><td>2022-09-30</td><td><a href="/miui/rosemary/stable/V13.0.3.0.SFFRUXM/">Download</a></td></tr>

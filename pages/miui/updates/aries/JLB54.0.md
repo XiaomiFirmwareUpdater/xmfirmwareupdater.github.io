@@ -68,7 +68,7 @@ permalink: /miui/aries/stable/JLB54.0/
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">aries_images_JLB54.0_4.1_cn_2eda98ac63.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">2eda98ac630a1ed0b68c17a3121be227</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"

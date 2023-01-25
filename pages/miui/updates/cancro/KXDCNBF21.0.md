@@ -68,7 +68,7 @@ permalink: /miui/cancro/stable/KXDCNBF21.0/
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">cancro_images_KXDCNBF21.0_4.4_cn_d4f7bd9bcf.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">d4f7bd9bcfff25f19d64d25ea8a8d978</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"

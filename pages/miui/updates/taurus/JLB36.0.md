@@ -68,7 +68,7 @@ permalink: /miui/taurus/stable/JLB36.0/
                     <h5><b>Package Name: </b><span id="filename" class="text-dark">taurus_images_JLB36.0_4.1_cn_bfc9c6585e.tgz</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
-                    <h5><b>MD5: </b><span id="md5" class="text-muted">Unknown</span></h5>
+                    <h5><b>MD5: </b><span id="md5" class="text-muted">bfc9c6585e26eeeea67607ac51748f68</span></h5>
                 </li>
                 <li style="padding-bottom: 10px;">
                     <h5><b>Download: </b><button type="button" id="download" class="btn btn-primary" style="margin: 7px;"
