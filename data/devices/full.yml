@@ -13239,26 +13239,6 @@
     android: '10.0'
     miui: V12.0.11.0.QJFEUXM
 - branch: stable
-  date: '2023-01-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-25.01.2023/fw_citrus_miui_CITRUSEEAGlobal_V13.0.1.0.SJFEUXM_b5d2eeb772_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/citrus/fw_citrus_miui_CITRUSEEAGlobal_V13.0.1.0.SJFEUXM_b5d2eeb772_12.0.zip
-  filename: fw_citrus_miui_CITRUSEEAGlobal_V13.0.1.0.SJFEUXM_b5d2eeb772_12.0.zip
-  region: Europe
-  versions:
-    android: '12.0'
-    miui: V13.0.1.0.SJFEUXM
-- branch: stable
-  date: '2023-01-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-25.01.2023/fw_citrus_miui_CITRUSGlobal_V13.0.3.0.SJFMIXM_07c52db7e7_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/citrus/fw_citrus_miui_CITRUSGlobal_V13.0.3.0.SJFMIXM_07c52db7e7_12.0.zip
-  filename: fw_citrus_miui_CITRUSGlobal_V13.0.3.0.SJFMIXM_07c52db7e7_12.0.zip
-  region: Global
-  versions:
-    android: '12.0'
-    miui: V13.0.3.0.SJFMIXM
-- branch: stable
   date: '2021-12-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-24.12.2021/fw_citrus_miui_CITRUSGlobal_V12.5.5.0.RJFMIXM_645294c6db_11.0.zip
