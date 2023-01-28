@@ -19,6 +19,16 @@
     android: '12.0'
     miui: V13.0.4.0.SLSINXM
 - branch: stable
+  date: '2023-01-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-28.01.2023/fw_light_miui_LIGHT_V13.0.17.0.SLSCNXM_c8d87abda5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHT_V13.0.17.0.SLSCNXM_c8d87abda5_12.0.zip
+  filename: fw_light_miui_LIGHT_V13.0.17.0.SLSCNXM_c8d87abda5_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.17.0.SLSCNXM
+- branch: stable
   date: '2022-03-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-26.03.2022/fw_light_miui_LIGHT_V13.0.3.0.SLSCNXM_34456a113e_12.0.zip

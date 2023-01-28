@@ -1,4 +1,10 @@
 - android: '13.0'
+  codename: agate
+  date: '2023-01-28'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKWMIXM/fw_agate_miui_AGATEGlobal_V14.0.3.0.TKWMIXM_cb3fd90c3e_13.0.zip
+  name: Xiaomi 11T
+  version: V14.0.3.0.TKWMIXM
+- android: '13.0'
   codename: chopin
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.2.0.TKPCNXM/fw_chopin_miui_CHOPIN_V14.0.2.0.TKPCNXM_a1309370ef_13.0.zip
@@ -108,6 +114,12 @@
   version: V14.0.6.0.TLJCNXM
 - android: '13.0'
   codename: lisa
+  date: '2023-01-28'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKOEUXM/fw_lisa_miui_LISAEEAGlobal_V14.0.4.0.TKOEUXM_52ecb44bb5_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.4.0.TKOEUXM
+- android: '13.0'
+  codename: lisa
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.5.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.5.0.TKOCNXM_25171e94ec_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -166,6 +178,12 @@
   download: https://bigota.d.miui.com/V14.0.18.0.TMNCNXM/fw_mondrian_miui_MONDRIAN_V14.0.18.0.TMNCNXM_083f307903_13.0.zip
   name: Redmi K60/POCO F5 Pro
   version: V14.0.18.0.TMNCNXM
+- android: '13.0'
+  codename: munch
+  date: '2023-01-28'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLMEUXM/fw_munch_miui_MUNCHEEAGlobal_V14.0.2.0.TLMEUXM_36c47aa22c_13.0.zip
+  name: Redmi K40S/POCO F4
+  version: V14.0.2.0.TLMEUXM
 - android: '13.0'
   codename: munch
   date: '2023-01-10'
@@ -298,6 +316,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TKACNXM/fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V14.0.6.0.TKACNXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-01-28'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.5.0.TLIEUXM_902d0638de_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.5.0.TLIEUXM
 - android: '13.0'
   codename: taoyao
   date: '2023-01-13'

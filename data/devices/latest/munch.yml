@@ -19,15 +19,15 @@
     android: '13.0'
     miui: V14.0.3.0.TLMCNXM
 - branch: stable
-  date: '2022-08-29'
+  date: '2023-01-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-29.08.2022/fw_munch_miui_MUNCHEEAGlobal_V13.0.7.0.SLMEUXM_7cd46e821f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/munch/fw_munch_miui_MUNCHEEAGlobal_V13.0.7.0.SLMEUXM_7cd46e821f_12.0.zip
-  filename: fw_munch_miui_MUNCHEEAGlobal_V13.0.7.0.SLMEUXM_7cd46e821f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-28.01.2023/fw_munch_miui_MUNCHEEAGlobal_V14.0.2.0.TLMEUXM_36c47aa22c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCHEEAGlobal_V14.0.2.0.TLMEUXM_36c47aa22c_13.0.zip
+  filename: fw_munch_miui_MUNCHEEAGlobal_V14.0.2.0.TLMEUXM_36c47aa22c_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.7.0.SLMEUXM
+    android: '13.0'
+    miui: V14.0.2.0.TLMEUXM
 - branch: stable
   date: '2022-08-29'
   downloads:

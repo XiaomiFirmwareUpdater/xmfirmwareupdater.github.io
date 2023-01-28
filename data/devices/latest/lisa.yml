@@ -29,15 +29,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-01-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-08.12.2022/fw_lisa_miui_LISAEEAGlobal_V13.0.11.0.SKOEUXM_a39f201fbd_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAEEAGlobal_V13.0.11.0.SKOEUXM_a39f201fbd_12.0.zip
-  filename: fw_lisa_miui_LISAEEAGlobal_V13.0.11.0.SKOEUXM_a39f201fbd_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-28.01.2023/fw_lisa_miui_LISAEEAGlobal_V14.0.4.0.TKOEUXM_52ecb44bb5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISAEEAGlobal_V14.0.4.0.TKOEUXM_52ecb44bb5_13.0.zip
+  filename: fw_lisa_miui_LISAEEAGlobal_V14.0.4.0.TKOEUXM_52ecb44bb5_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.11.0.SKOEUXM
+    android: '13.0'
+    miui: V14.0.4.0.TKOEUXM
 - branch: stable
   date: '2022-11-10'
   downloads:
