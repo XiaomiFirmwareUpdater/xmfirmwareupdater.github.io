@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 30 Jan 2023 08:10:03 +0900</pubDate>
+  <pubDate>Tue, 31 Jan 2023 01:33:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V13.1.5.0.SKXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Tue, 31 Jan 2023 01:33:11 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 (cupid) - V14.0.2.0.TLCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
@@ -100,11 +105,6 @@
     <title>Redmi 12C (earth) - V13.0.4.0.SCVCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
     <pubDate>Thu, 19 Jan 2023 13:40:20 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 NFC (spesn) - V13.0.6.0.SGKMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
-    <pubDate>Wed, 18 Jan 2023 19:33:28 +0900</pubDate>
   </item>
     </channel>
 </rss>
