@@ -34219,6 +34219,16 @@
     android: '12.0'
     miui: V13.0.6.0.SLMMIXM
 - branch: stable
+  date: '2023-01-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-31.01.2023/fw_munch_miui_MUNCHGlobal_V14.0.1.0.TLMMIXM_929f683c42_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCHGlobal_V14.0.1.0.TLMMIXM_929f683c42_13.0.zip
+  filename: fw_munch_miui_MUNCHGlobal_V14.0.1.0.TLMMIXM_929f683c42_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TLMMIXM
+- branch: stable
   date: '2022-06-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-30.06.2022/fw_munch_miui_MUNCHEEAGlobal_V13.0.6.0.SLMEUXM_6b4e77d155_12.0.zip
@@ -58179,6 +58189,16 @@
     android: '12.0'
     miui: V13.0.9.0.SKBCNXM
 - branch: stable
+  date: '2023-01-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-31.01.2023/fw_veux_miui_VEUXEEAGlobal_V13.0.4.0.SKCEUXM_2803cf13eb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXEEAGlobal_V13.0.4.0.SKCEUXM_2803cf13eb_12.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_V13.0.4.0.SKCEUXM_2803cf13eb_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SKCEUXM
+- branch: stable
   date: '2022-03-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-30.03.2022/fw_veux_miui_VEUX_V13.0.4.0.RKCCNXM_caafe3fa2c_11.0.zip
@@ -61768,6 +61788,16 @@
   versions:
     android: '12.0'
     miui: V13.0.10.0.SLBCNXM
+- branch: stable
+  date: '2023-01-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-31.01.2023/fw_zeus_miui_ZEUSEEAGlobal_V13.2.8.0.TLBEUXM_38792cb870_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/zeus/fw_zeus_miui_ZEUSEEAGlobal_V13.2.8.0.TLBEUXM_38792cb870_13.0.zip
+  filename: fw_zeus_miui_ZEUSEEAGlobal_V13.2.8.0.TLBEUXM_38792cb870_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V13.2.8.0.TLBEUXM
 - branch: stable
   date: '2022-10-29'
   downloads:

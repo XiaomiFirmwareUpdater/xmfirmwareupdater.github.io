@@ -66,6 +66,7 @@ permalink: /miui/munch/
 <tr><td>POCO F4 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLMINXM</td><td>12.0</td><td>4.4 GB</td><td>2022-08-10</td><td><a href="/miui/munch/stable/V13.0.4.0.SLMINXM/">Download</a></td></tr>
 <tr><td>POCO F4 India</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLMINXM</td><td>12.0</td><td>3.3 GB</td><td>2022-08-23</td><td><a href="/miui/munch/stable/V13.0.4.0.SLMINXM/">Download</a></td></tr>
 <tr><td>POCO F4 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLMEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-01-17</td><td><a href="/miui/munch/stable beta/V14.0.2.0.TLMEUXM/">Download</a></td></tr>
+<tr><td>POCO F4 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLMMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-01-28</td><td><a href="/miui/munch/stable beta/V14.0.1.0.TLMMIXM/">Download</a></td></tr>
 <tr><td>POCO F4 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SLMRUXM</td><td>12.0</td><td>5.2 GB</td><td>2022-08-23</td><td><a href="/miui/munch/stable/V13.0.7.0.SLMRUXM/">Download</a></td></tr>
 <tr><td>POCO F4 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SLMRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-09-07</td><td><a href="/miui/munch/stable/V13.0.7.0.SLMRUXM/">Download</a></td></tr>
 <tr><td>POCO F4 Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLMTRXM</td><td>12.0</td><td>4.9 GB</td><td>2022-08-17</td><td><a href="/miui/munch/stable/V13.0.3.0.SLMTRXM/">Download</a></td></tr>
