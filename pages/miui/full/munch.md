@@ -53,6 +53,8 @@ permalink: /archive/miui/munch/
                 </thead>
                 <tbody>
                 <tr><td>POCO F4 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLMEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-01-17</td><td><a href="/miui/munch/stable beta/V14.0.2.0.TLMEUXM/">Download</a></td></tr>
+<tr><td>POCO F4 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SLMMIXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-16</td><td><a href="/miui/munch/stable/V13.0.6.0.SLMMIXM/">Download</a></td></tr>
+<tr><td>POCO F4 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SLMMIXM</td><td>12.0</td><td>5.9 GB</td><td>2023-01-11</td><td><a href="/miui/munch/stable/V13.0.6.0.SLMMIXM/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.10.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-01-13</td><td><a href="/miui/munch/public beta/V14.0.23.1.10.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLMCNXM</td><td>13.0</td><td>4.0 GB</td><td>2023-01-09</td><td><a href="/miui/munch/stable beta/V14.0.3.0.TLMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.3.DEV</td><td>13.0</td><td>4.1 GB</td><td>2023-01-06</td><td><a href="/miui/munch/public beta/V14.0.23.1.3.DEV/">Download</a></td></tr>

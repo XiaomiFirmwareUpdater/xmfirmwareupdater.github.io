@@ -1050,6 +1050,12 @@
   version: V13.0.4.0.SJAMIXM
 - android: '12.0'
   codename: courbet
+  date: '2023-01-31'
+  download: https://bigota.d.miui.com/V13.0.11.0.SKQMIXM/fw_courbet_miui_COURBETGlobal_V13.0.11.0.SKQMIXM_5a5feb1ab0_12.0.zip
+  name: Mi 11 Lite 4G
+  version: V13.0.11.0.SKQMIXM
+- android: '12.0'
+  codename: courbet
   date: '2023-01-24'
   download: https://bigota.d.miui.com/V13.0.8.0.SKQEUXM/fw_courbet_miui_COURBETEEAGlobal_V13.0.8.0.SKQEUXM_2c217004e8_12.0.zip
   name: Mi 11 Lite 4G
@@ -3022,6 +3028,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SJIMIXM/fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
   name: Mi 10 Lite
   version: V13.0.2.0.SJIMIXM
+- android: '12.0'
+  codename: munch
+  date: '2023-01-31'
+  download: https://bigota.d.miui.com/V13.0.6.0.SLMMIXM/fw_munch_miui_MUNCHGlobal_V13.0.6.0.SLMMIXM_489edab8db_12.0.zip
+  name: Redmi K40S/POCO F4
+  version: V13.0.6.0.SLMMIXM
 - android: '12.0'
   codename: munch
   date: '2022-06-30'
