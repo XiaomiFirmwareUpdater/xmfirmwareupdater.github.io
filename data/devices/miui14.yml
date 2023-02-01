@@ -371,6 +371,12 @@
   name: Xiaomi 12S Ultra
   version: V14.0.2.0.TLACNXM
 - android: '13.0'
+  codename: thyme
+  date: '2023-02-01'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGACNXM/fw_thyme_miui_THYME_V14.0.2.0.TGACNXM_7b4df32800_13.0.zip
+  name: Mi 10S
+  version: V14.0.2.0.TGACNXM
+- android: '13.0'
   codename: unicorn
   date: '2022-12-28'
   download: https://bigota.d.miui.com/V14.0.3.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.3.0.TLECNXM_9bcaa9726e_13.0.zip

@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 02 Feb 2023 02:44:40 +0900</pubDate>
+  <pubDate>Thu, 02 Feb 2023 07:20:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10S (thyme) - V14.0.2.0.TGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Thu, 02 Feb 2023 07:20:42 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V14.0.5.0.TLBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
@@ -20,11 +25,6 @@
     <title>Mi 10 (umi) - V13.0.10.0.SJBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
     <pubDate>Thu, 02 Feb 2023 01:49:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10S (thyme) - V14.0.2.0.TGACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Thu, 02 Feb 2023 01:47:41 +0900</pubDate>
   </item>
     <item>
     <title>Mi 10 Pro (cmi) - V13.0.6.0.SJAEUXM</title>
