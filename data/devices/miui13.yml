@@ -1049,6 +1049,12 @@
   name: Mi 10 Pro
   version: V13.0.4.0.SJAMIXM
 - android: '12.0'
+  codename: cmi
+  date: '2023-02-01'
+  download: https://bigota.d.miui.com/V13.0.6.0.SJAEUXM/fw_cmi_miui_CMIEEAGlobal_V13.0.6.0.SJAEUXM_cd48ee1b15_12.0.zip
+  name: Mi 10 Pro
+  version: V13.0.6.0.SJAEUXM
+- android: '12.0'
   codename: courbet
   date: '2023-01-31'
   download: https://bigota.d.miui.com/V13.0.11.0.SKQMIXM/fw_courbet_miui_COURBETGlobal_V13.0.11.0.SKQMIXM_5a5feb1ab0_12.0.zip
@@ -4853,6 +4859,12 @@
   name: Mi 10
   version: V13.0.6.0.SJBEUXM
 - android: '12.0'
+  codename: umi
+  date: '2023-02-01'
+  download: https://bigota.d.miui.com/V13.0.10.0.SJBEUXM/fw_umi_miui_UMIEEAGlobal_V13.0.10.0.SJBEUXM_643502960a_12.0.zip
+  name: Mi 10
+  version: V13.0.10.0.SJBEUXM
+- android: '12.0'
   codename: unicorn
   date: '2022-10-20'
   download: https://bigota.d.miui.com/V13.0.18.0.SLECNXM/fw_unicorn_miui_UNICORN_V13.0.18.0.SLECNXM_e0e8d6a1d1_12.0.zip
@@ -5614,6 +5626,12 @@
   download: https://bigota.d.miui.com/V13.1.2.0.SLYCNXM/fw_yunluo_miui_YUNLUO_V13.1.2.0.SLYCNXM_bf28944afa_12.0.zip
   name: Redmi Pad
   version: V13.1.2.0.SLYCNXM
+- android: '12.0'
+  codename: yunluo
+  date: '2023-02-01'
+  download: https://bigota.d.miui.com/V13.1.5.0.SLYINXM/fw_yunluo_miui_YUNLUOINGlobal_V13.1.5.0.SLYINXM_41f036327b_12.0.zip
+  name: Redmi Pad
+  version: V13.1.5.0.SLYINXM
 - android: '12.0'
   codename: zeus
   date: '2021-12-31'
