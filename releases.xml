@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 01 Feb 2023 02:34:42 +0900</pubDate>
+  <pubDate>Wed, 01 Feb 2023 14:06:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12X (psyche) - V14.0.5.0.TLDCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
+    <pubDate>Wed, 01 Feb 2023 14:06:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12T (plato) - V13.0.7.0.SLQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
+    <pubDate>Wed, 01 Feb 2023 13:46:46 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V13.2.8.0.TLBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
@@ -95,16 +105,6 @@
     <title>Mi Note 10 Lite (toco) - V13.0.6.0.SFNEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/toco</link>
     <pubDate>Wed, 25 Jan 2023 01:21:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 4G (courbet) - V13.0.8.0.SKQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
-    <pubDate>Tue, 24 Jan 2023 13:17:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V13.0.8.0.SKDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Tue, 24 Jan 2023 07:20:10 +0900</pubDate>
   </item>
     </channel>
 </rss>

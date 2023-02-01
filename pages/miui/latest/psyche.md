@@ -57,7 +57,7 @@ permalink: /miui/psyche/
 <tr><td>Xiaomi 12X China</td><td>Weekly</td><td>Fastboot</td><td>22.2.28</td><td>12.0</td><td>6.3 GB</td><td>2022-02-28</td><td><a href="/miui/psyche/weekly/22.2.28/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.9.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-01-13</td><td><a href="/miui/psyche/public beta/V14.0.23.1.9.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SLDCNXM</td><td>12.0</td><td>4.3 GB</td><td>2022-11-09</td><td><a href="/miui/psyche/stable/V13.0.10.0.SLDCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.15.0.RLDCNXM</td><td>11.0</td><td>4.0 GB</td><td>2022-03-21</td><td><a href="/miui/psyche/stable beta/V13.0.15.0.RLDCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TLDCNXM</td><td>13.0</td><td>4.0 GB</td><td>2023-01-28</td><td><a href="/miui/psyche/stable beta/V14.0.5.0.TLDCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Weekly</td><td>Recovery</td><td>22.3.24</td><td>12.0</td><td>4.3 GB</td><td>2022-03-24</td><td><a href="/miui/psyche/weekly/22.3.24/">Download</a></td></tr>
 <tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SLDEUXM</td><td>12.0</td><td>5.8 GB</td><td>2022-11-22</td><td><a href="/miui/psyche/stable/V13.0.8.0.SLDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SLDEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-11-28</td><td><a href="/miui/psyche/stable/V13.0.8.0.SLDEUXM/">Download</a></td></tr>
