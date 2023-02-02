@@ -1319,15 +1319,15 @@
     android: '12.0'
     miui: V13.0.7.0.SKEMIXM
 - branch: stable
-  date: '2022-11-10'
+  date: '2023-02-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-10.11.2022/fw_fleur_miui_FLEUREEAGlobal_V13.0.10.0.RKEEUXM_e9ad09d751_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEUREEAGlobal_V13.0.10.0.RKEEUXM_e9ad09d751_11.0.zip
-  filename: fw_fleur_miui_FLEUREEAGlobal_V13.0.10.0.RKEEUXM_e9ad09d751_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-02.02.2023/fw_fleur_miui_FLEUREEAGlobal_V13.0.2.0.SKEEUXM_b263906b79_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEUREEAGlobal_V13.0.2.0.SKEEUXM_b263906b79_12.0.zip
+  filename: fw_fleur_miui_FLEUREEAGlobal_V13.0.2.0.SKEEUXM_b263906b79_12.0.zip
   region: Europe
   versions:
-    android: '11.0'
-    miui: V13.0.10.0.RKEEUXM
+    android: '12.0'
+    miui: V13.0.2.0.SKEEUXM
 - branch: stable
   date: '2022-12-08'
   downloads:
@@ -1399,15 +1399,15 @@
     android: '13.0'
     miui: V14.0.13.0.TMCCNXM
 - branch: stable
-  date: '2022-12-17'
+  date: '2023-02-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-17.12.2022/fw_gauguin_miui_GAUGUINGlobal_V13.0.7.0.SJSMIXM_b0e1a3eac6_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUINGlobal_V13.0.7.0.SJSMIXM_b0e1a3eac6_12.0.zip
-  filename: fw_gauguin_miui_GAUGUINGlobal_V13.0.7.0.SJSMIXM_b0e1a3eac6_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-02.02.2023/fw_gauguin_miui_GAUGUINGlobal_V13.0.8.0.SJSMIXM_b58264145b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gauguin/fw_gauguin_miui_GAUGUINGlobal_V13.0.8.0.SJSMIXM_b58264145b_12.0.zip
+  filename: fw_gauguin_miui_GAUGUINGlobal_V13.0.8.0.SJSMIXM_b58264145b_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SJSMIXM
+    miui: V13.0.8.0.SJSMIXM
 - branch: stable
   date: '2022-12-23'
   downloads:

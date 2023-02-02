@@ -1702,6 +1702,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.3.0.SKEINXM_a6994af41a_12.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.3.0.SKEINXM
+- android: '12.0'
+  codename: fleur
+  date: '2023-02-02'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V13.0.2.0.SKEEUXM_b263906b79_12.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.2.0.SKEEUXM
 - android: '11.0'
   codename: fog
   date: '2022-08-29'
@@ -2026,6 +2032,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SJSCNXM/fw_gauguin_miui_GAUGUIN_V13.0.4.0.SJSCNXM_23c0434d19_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: V13.0.4.0.SJSCNXM
+- android: '12.0'
+  codename: gauguin
+  date: '2023-02-02'
+  download: https://bigota.d.miui.com/V13.0.8.0.SJSMIXM/fw_gauguin_miui_GAUGUINGlobal_V13.0.8.0.SJSMIXM_b58264145b_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V13.0.8.0.SJSMIXM
 - android: '12.0'
   codename: gram
   date: '2022-10-26'
