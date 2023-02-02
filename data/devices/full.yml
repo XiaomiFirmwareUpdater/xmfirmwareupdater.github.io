@@ -1009,6 +1009,16 @@
     android: '11.0'
     miui: V12.5.3.0.RKHINXM
 - branch: stable
+  date: '2023-02-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-02.02.2023/fw_alioth_miui_ALIOTH_V14.0.4.0.TKHCNXM_a249736c6c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/alioth/fw_alioth_miui_ALIOTH_V14.0.4.0.TKHCNXM_a249736c6c_13.0.zip
+  filename: fw_alioth_miui_ALIOTH_V14.0.4.0.TKHCNXM_a249736c6c_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKHCNXM
+- branch: stable
   date: '2021-06-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-01.06.2021/fw_alioth_miui_ALIOTHEEAGlobal_V12.5.1.0.RKHEUXM_1efe939759_11.0.zip
@@ -21489,6 +21499,16 @@
     android: '11.0'
     miui: V13.0.7.0.RGEINXM
 - branch: stable
+  date: '2023-02-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-02.02.2023/fw_fog_miui_FOGGlobal_V13.0.5.0.SGEMIXM_b24fadf4ba_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGGlobal_V13.0.5.0.SGEMIXM_b24fadf4ba_12.0.zip
+  filename: fw_fog_miui_FOGGlobal_V13.0.5.0.SGEMIXM_b24fadf4ba_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SGEMIXM
+- branch: stable
   date: '2022-05-31'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-01.06.2022/fw_fog_miui_FOGGlobal_V13.0.8.0.RGEMIXM_0752d443a2_11.0.zip
@@ -26158,6 +26178,16 @@
   versions:
     android: '13.0'
     miui: V14.0.6.0.TLJCNXM
+- branch: stable
+  date: '2023-02-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ingres/releases/download/stable-02.02.2023/fw_ingres_miui_INGRESEEAGlobal_V14.0.3.0.TLJEUXM_057d2569f5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ingres/fw_ingres_miui_INGRESEEAGlobal_V14.0.3.0.TLJEUXM_057d2569f5_13.0.zip
+  filename: fw_ingres_miui_INGRESEEAGlobal_V14.0.3.0.TLJEUXM_057d2569f5_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TLJEUXM
 - branch: stable
   date: '2021-01-26'
   downloads:
@@ -51308,6 +51338,16 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SLIEUXM
+- branch: stable
+  date: '2023-02-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-02.02.2023/fw_taoyao_miui_TAOYAOGlobal_V14.0.3.0.TLIMIXM_d27325e58f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOGlobal_V14.0.3.0.TLIMIXM_d27325e58f_13.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_V14.0.3.0.TLIMIXM_d27325e58f_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TLIMIXM
 - branch: stable
   date: '2022-11-01'
   downloads:

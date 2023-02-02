@@ -5,6 +5,12 @@
   name: Xiaomi 11T
   version: V14.0.3.0.TKWMIXM
 - android: '13.0'
+  codename: alioth
+  date: '2023-02-02'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKHCNXM/fw_alioth_miui_ALIOTH_V14.0.4.0.TKHCNXM_a249736c6c_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: V14.0.4.0.TKHCNXM
+- android: '13.0'
   codename: chopin
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.2.0.TKPCNXM/fw_chopin_miui_CHOPIN_V14.0.2.0.TKPCNXM_a1309370ef_13.0.zip
@@ -124,6 +130,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TLJCNXM/fw_ingres_miui_INGRES_V14.0.6.0.TLJCNXM_de5b64e3e5_13.0.zip
   name: Redmi K50G/POCO F4 GT
   version: V14.0.6.0.TLJCNXM
+- android: '13.0'
+  codename: ingres
+  date: '2023-02-02'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLJEUXM/fw_ingres_miui_INGRESEEAGlobal_V14.0.3.0.TLJEUXM_057d2569f5_13.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: V14.0.3.0.TLJEUXM
 - android: '13.0'
   codename: lisa
   date: '2023-01-28'
@@ -352,6 +364,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.3.0.TLIEUXM_bf6e4f4ca1_13.0.zip
   name: Xiaomi 12 Lite
   version: V14.0.3.0.TLIEUXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-02-02'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.3.0.TLIMIXM_d27325e58f_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.3.0.TLIMIXM
 - android: '13.0'
   codename: thor
   date: '2022-12-28'
