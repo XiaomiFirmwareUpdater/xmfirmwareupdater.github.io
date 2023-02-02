@@ -4059,15 +4059,15 @@
     android: '12.0'
     miui: V13.0.1.0.SJGINXM
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-02-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-08.12.2022/fw_sweet_miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip
-  filename: fw_sweet_miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-02.02.2023/fw_sweet_miui_SWEETGlobal_V13.0.16.0.SKFMIXM_0f3eb965ad_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.16.0.SKFMIXM_0f3eb965ad_12.0.zip
+  filename: fw_sweet_miui_SWEETGlobal_V13.0.16.0.SKFMIXM_0f3eb965ad_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.15.0.SKFMIXM
+    miui: V13.0.16.0.SKFMIXM
 - branch: stable
   date: '2023-01-17'
   downloads:
