@@ -27989,6 +27989,16 @@
     android: '12.0'
     miui: V13.0.3.0.SJCEUXM
 - branch: stable
+  date: '2023-02-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-03.02.2023/fw_lancelot_miui_LANCELOTGlobal_V13.0.4.0.SJCMIXM_cf8fa9fcdb_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lancelot/fw_lancelot_miui_LANCELOTGlobal_V13.0.4.0.SJCMIXM_cf8fa9fcdb_12.0.zip
+  filename: fw_lancelot_miui_LANCELOTGlobal_V13.0.4.0.SJCMIXM_cf8fa9fcdb_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.4.0.SJCMIXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-03.02.2021/fw_lancelot_miui_LANCELOTGlobal_V12.0.3.0.QJCMIXM_d7ad1fa31a_10.0.zip
