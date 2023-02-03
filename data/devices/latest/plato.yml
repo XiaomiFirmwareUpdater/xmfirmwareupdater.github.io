@@ -9,12 +9,12 @@
     android: '12.0'
     miui: V13.0.7.0.SLQMIXM
 - branch: stable
-  date: '2022-11-20'
+  date: '2023-02-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-20.11.2022/fw_plato_miui_PLATOEEAGlobal_V13.0.10.0.SLQEUXM_cd8a92a7d8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/plato/fw_plato_miui_PLATOEEAGlobal_V13.0.10.0.SLQEUXM_cd8a92a7d8_12.0.zip
-  filename: fw_plato_miui_PLATOEEAGlobal_V13.0.10.0.SLQEUXM_cd8a92a7d8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-03.02.2023/fw_plato_miui_PLATOEEAGlobal_V13.0.12.0.SLQEUXM_a498e2675a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/plato/fw_plato_miui_PLATOEEAGlobal_V13.0.12.0.SLQEUXM_a498e2675a_12.0.zip
+  filename: fw_plato_miui_PLATOEEAGlobal_V13.0.12.0.SLQEUXM_a498e2675a_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.10.0.SLQEUXM
+    miui: V13.0.12.0.SLQEUXM

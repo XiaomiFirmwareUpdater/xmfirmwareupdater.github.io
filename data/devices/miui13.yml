@@ -1409,6 +1409,12 @@
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V13.0.11.0.SLFEUXM
 - android: '12.0'
+  codename: diting
+  date: '2023-02-03'
+  download: https://bigota.d.miui.com/V13.0.13.0.SLFEUXM/fw_diting_miui_DITINGEEAGlobal_V13.0.13.0.SLFEUXM_c26ea2bd5e_12.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V13.0.13.0.SLFEUXM
+- android: '12.0'
   codename: earth
   date: '2023-01-19'
   download: https://bigota.d.miui.com/V13.0.4.0.SCVCNXM/fw_earth_miui_EARTH_V13.0.4.0.SCVCNXM_de102f96ee_12.0.zip
@@ -2404,6 +2410,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SJCMIXM/fw_lancelot_miui_LANCELOTGlobal_V13.0.2.0.SJCMIXM_dd107c921b_12.0.zip
   name: Redmi 9/Redmi 9 Prime
   version: V13.0.2.0.SJCMIXM
+- android: '12.0'
+  codename: lancelot
+  date: '2023-02-03'
+  download: https://bigota.d.miui.com/V13.0.3.0.SJCEUXM/fw_lancelot_miui_LANCELOTEEAGlobal_V13.0.3.0.SJCEUXM_f7755ce0ba_12.0.zip
+  name: Redmi 9/Redmi 9 Prime
+  version: V13.0.3.0.SJCEUXM
 - android: '12.0'
   codename: light
   date: '2022-07-28'
@@ -3616,6 +3628,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SLQMIXM/fw_plato_miui_PLATOGlobal_V13.0.4.0.SLQMIXM_fea43ca079_12.0.zip
   name: Xiaomi 12T
   version: V13.0.4.0.SLQMIXM
+- android: '12.0'
+  codename: plato
+  date: '2023-02-03'
+  download: https://bigota.d.miui.com/V13.0.12.0.SLQEUXM/fw_plato_miui_PLATOEEAGlobal_V13.0.12.0.SLQEUXM_a498e2675a_12.0.zip
+  name: Xiaomi 12T
+  version: V13.0.12.0.SLQEUXM
 - android: '12.0'
   codename: plato
   date: '2023-02-01'
@@ -5650,6 +5668,12 @@
   download: https://bigota.d.miui.com/V13.1.2.0.SLYCNXM/fw_yunluo_miui_YUNLUO_V13.1.2.0.SLYCNXM_bf28944afa_12.0.zip
   name: Redmi Pad
   version: V13.1.2.0.SLYCNXM
+- android: '12.0'
+  codename: yunluo
+  date: '2023-02-03'
+  download: https://bigota.d.miui.com/V13.1.7.0.SLYMIXM/fw_yunluo_miui_YUNLUOGlobal_V13.1.7.0.SLYMIXM_0854c31f92_12.0.zip
+  name: Redmi Pad
+  version: V13.1.7.0.SLYMIXM
 - android: '12.0'
   codename: yunluo
   date: '2023-02-01'

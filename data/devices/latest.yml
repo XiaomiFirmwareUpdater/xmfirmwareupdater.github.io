@@ -1149,15 +1149,15 @@
     android: '13.0'
     miui: V14.0.5.0.TLFCNXM
 - branch: stable
-  date: '2022-11-08'
+  date: '2023-02-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-08.11.2022/fw_diting_miui_DITINGEEAGlobal_V13.0.11.0.SLFEUXM_40abff13eb_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/diting/fw_diting_miui_DITINGEEAGlobal_V13.0.11.0.SLFEUXM_40abff13eb_12.0.zip
-  filename: fw_diting_miui_DITINGEEAGlobal_V13.0.11.0.SLFEUXM_40abff13eb_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-03.02.2023/fw_diting_miui_DITINGEEAGlobal_V13.0.13.0.SLFEUXM_c26ea2bd5e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/diting/fw_diting_miui_DITINGEEAGlobal_V13.0.13.0.SLFEUXM_c26ea2bd5e_12.0.zip
+  filename: fw_diting_miui_DITINGEEAGlobal_V13.0.13.0.SLFEUXM_c26ea2bd5e_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.11.0.SLFEUXM
+    miui: V13.0.13.0.SLFEUXM
 - branch: stable
   date: '2023-01-19'
   downloads:
@@ -1959,15 +1959,15 @@
     android: '12.0'
     miui: V13.0.5.0.SJCCNXM
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-02-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-08.12.2022/fw_lancelot_miui_LANCELOTEEAGlobal_V13.0.1.0.SJCEUXM_64ecf18c80_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V13.0.1.0.SJCEUXM_64ecf18c80_12.0.zip
-  filename: fw_lancelot_miui_LANCELOTEEAGlobal_V13.0.1.0.SJCEUXM_64ecf18c80_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lancelot/releases/download/stable-03.02.2023/fw_lancelot_miui_LANCELOTEEAGlobal_V13.0.3.0.SJCEUXM_f7755ce0ba_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lancelot/fw_lancelot_miui_LANCELOTEEAGlobal_V13.0.3.0.SJCEUXM_f7755ce0ba_12.0.zip
+  filename: fw_lancelot_miui_LANCELOTEEAGlobal_V13.0.3.0.SJCEUXM_f7755ce0ba_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SJCEUXM
+    miui: V13.0.3.0.SJCEUXM
 - branch: stable
   date: '2022-12-26'
   downloads:
@@ -2219,15 +2219,15 @@
     android: '12.0'
     miui: V13.0.1.0.SJQINXM
 - branch: stable
-  date: '2022-12-30'
+  date: '2023-02-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-30.12.2022/fw_lisa_miui_LISAGlobal_V13.0.8.0.SKOMIXM_a591777976_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAGlobal_V13.0.8.0.SKOMIXM_a591777976_12.0.zip
-  filename: fw_lisa_miui_LISAGlobal_V13.0.8.0.SKOMIXM_a591777976_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-03.02.2023/fw_lisa_miui_LISAGlobal_V14.0.2.0.TKOMIXM_f89d09aa1c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISAGlobal_V14.0.2.0.TKOMIXM_f89d09aa1c_13.0.zip
+  filename: fw_lisa_miui_LISAGlobal_V14.0.2.0.TKOMIXM_f89d09aa1c_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.8.0.SKOMIXM
+    android: '13.0'
+    miui: V14.0.2.0.TKOMIXM
 - branch: stable
   date: '2023-01-16'
   downloads:
@@ -3229,15 +3229,15 @@
     android: '12.0'
     miui: V13.0.7.0.SLQMIXM
 - branch: stable
-  date: '2022-11-20'
+  date: '2023-02-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-20.11.2022/fw_plato_miui_PLATOEEAGlobal_V13.0.10.0.SLQEUXM_cd8a92a7d8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/plato/fw_plato_miui_PLATOEEAGlobal_V13.0.10.0.SLQEUXM_cd8a92a7d8_12.0.zip
-  filename: fw_plato_miui_PLATOEEAGlobal_V13.0.10.0.SLQEUXM_cd8a92a7d8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-03.02.2023/fw_plato_miui_PLATOEEAGlobal_V13.0.12.0.SLQEUXM_a498e2675a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/plato/fw_plato_miui_PLATOEEAGlobal_V13.0.12.0.SLQEUXM_a498e2675a_12.0.zip
+  filename: fw_plato_miui_PLATOEEAGlobal_V13.0.12.0.SLQEUXM_a498e2675a_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.10.0.SLQEUXM
+    miui: V13.0.12.0.SLQEUXM
 - branch: stable
   date: '2021-01-04'
   downloads:
@@ -4829,15 +4829,15 @@
     android: '8.1'
     miui: 9.2.28
 - branch: stable
-  date: '2022-10-06'
+  date: '2023-02-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-06.10.2022/fw_yunluo_miui_YUNLUOGlobal_V13.1.4.0.SLYMIXM_ebb88d24cd_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/yunluo/fw_yunluo_miui_YUNLUOGlobal_V13.1.4.0.SLYMIXM_ebb88d24cd_12.0.zip
-  filename: fw_yunluo_miui_YUNLUOGlobal_V13.1.4.0.SLYMIXM_ebb88d24cd_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-03.02.2023/fw_yunluo_miui_YUNLUOGlobal_V13.1.7.0.SLYMIXM_0854c31f92_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/yunluo/fw_yunluo_miui_YUNLUOGlobal_V13.1.7.0.SLYMIXM_0854c31f92_12.0.zip
+  filename: fw_yunluo_miui_YUNLUOGlobal_V13.1.7.0.SLYMIXM_0854c31f92_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.1.4.0.SLYMIXM
+    miui: V13.1.7.0.SLYMIXM
 - branch: stable
   date: '2022-12-28'
   downloads:
