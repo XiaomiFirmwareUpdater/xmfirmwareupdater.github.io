@@ -1426,12 +1426,6 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SCVCNXM/fw_earth_miui_EARTH_V13.0.3.0.SCVCNXM_a0ea237487_12.0.zip
   name: Redmi 12C
   version: V13.0.3.0.SCVCNXM
-- android: '12.0'
-  codename: earth
-  date: '2023-01-09'
-  download: https://bigota.d.miui.com/V13.0.2.0.SCVCNXM/fw_earth_miui_EARTH_V13.0.2.0.SCVCNXM_308e259415_12.0.zip
-  name: Redmi 12C
-  version: V13.0.2.0.SCVCNXM
 - android: '11.0'
   codename: elish
   date: '2022-03-25'
@@ -5842,18 +5836,6 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SLBINXM/fw_zeus_miui_ZEUSINGlobal_V13.0.4.0.SLBINXM_9ba8c8e1c3_12.0.zip
   name: Xiaomi 12 Pro
   version: V13.0.4.0.SLBINXM
-- android: '12.0'
-  codename: zeus
-  date: '2022-12-08'
-  download: https://bigota.d.miui.com/V13.0.28.0.SLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V13.0.28.0.SLBEUXM_4a58293b57_12.0.zip
-  name: Xiaomi 12 Pro
-  version: V13.0.28.0.SLBEUXM
-- android: '13.0'
-  codename: zeus
-  date: '2022-12-08'
-  download: https://bigota.d.miui.com/V13.2.7.0.TLBCNXM/fw_zeus_miui_ZEUS_V13.2.7.0.TLBCNXM_f8cfa489fb_13.0.zip
-  name: Xiaomi 12 Pro
-  version: V13.2.7.0.TLBCNXM
 - android: '13.0'
   codename: zeus
   date: '2022-11-07'
