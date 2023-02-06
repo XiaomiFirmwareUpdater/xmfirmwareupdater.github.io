@@ -10,6 +10,61 @@
     android: '9.0'
     miui: V11.0.1.0.PEIRUXM
 - branch: stable
+  date: '2019-05-20'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-stable/fw-vendor_whyred_global_V10.3.1.0.OEIMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-stable/fw-vendor_whyred_global_V10.3.1.0.OEIMIXM.zip/download
+  filename: fw-vendor_whyred_global_V10.3.1.0.OEIMIXM.zip
+  region: Global
+  size: 362.7 MB
+  versions:
+    android: '8.1'
+    miui: V10.3.1.0.OEIMIXM
+- branch: stable
+  date: '2019-06-06'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-stable/fw-vendor_whyred_global_V10.3.1.0.PEIMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-stable/fw-vendor_whyred_global_V10.3.1.0.PEIMIXM.zip/download
+  filename: fw-vendor_whyred_global_V10.3.1.0.PEIMIXM.zip
+  region: Global
+  size: 317.0 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.1.0.PEIMIXM
+- branch: stable
+  date: '2019-08-19'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-stable/fw-vendor_whyred_global_V10.3.2.0.PEIMIXM.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-stable/fw-vendor_whyred_global_V10.3.2.0.PEIMIXM.zip/download
+  filename: fw-vendor_whyred_global_V10.3.2.0.PEIMIXM.zip
+  region: Global
+  size: 322.0 MB
+  versions:
+    android: '9.0'
+    miui: V10.3.2.0.PEIMIXM
+- branch: stable
+  date: '2019-11-15'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-stable/fw-vendor_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-stable/fw-vendor_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip/download
+  filename: fw-vendor_whyred_miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip
+  region: Global
+  size: 416.0 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.3.0.PEIMIXM
+- branch: stable
+  date: '2020-09-23'
+  downloads:
+    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-stable/fw-vendor_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
+    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-stable/fw-vendor_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip/download
+  filename: fw-vendor_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
+  region: Global
+  size: 430.9 MB
+  versions:
+    android: '9.0'
+    miui: V11.0.5.0.PEIMIXM
+- branch: stable
   date: '2019-04-23'
   downloads:
     github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred-stable/fw-vendor_whyred_miui_HMNote5_V10.3.4.0.OEICNXM_835a714c63_8.1.zip
