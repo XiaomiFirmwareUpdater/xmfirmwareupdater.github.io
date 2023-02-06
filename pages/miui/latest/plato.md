@@ -54,9 +54,8 @@ permalink: /miui/plato/
                 <tbody>
                 <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SLQEUXM</td><td>12.0</td><td>7.1 GB</td><td>2023-01-10</td><td><a href="/miui/plato/stable/V13.0.12.0.SLQEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.12.0.SLQEUXM</td><td>12.0</td><td>4.6 GB</td><td>2023-01-13</td><td><a href="/miui/plato/stable/V13.0.12.0.SLQEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SLQMIXM</td><td>12.0</td><td>7.3 GB</td><td>2022-10-26</td><td><a href="/miui/plato/stable/V13.0.5.0.SLQMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLQMIXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-07</td><td><a href="/miui/plato/stable/V13.0.5.0.SLQMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SLQMIXM</td><td>12.0</td><td>4.6 GB</td><td>2023-01-29</td><td><a href="/miui/plato/stable beta/V13.0.7.0.SLQMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SLQMIXM</td><td>12.0</td><td>7.2 GB</td><td>2023-01-10</td><td><a href="/miui/plato/stable/V13.0.7.0.SLQMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Global</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SLQMIXM</td><td>12.0</td><td>4.6 GB</td><td>2023-01-29</td><td><a href="/miui/plato/stable/V13.0.7.0.SLQMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SLQIDXM</td><td>12.0</td><td>6.8 GB</td><td>2022-11-15</td><td><a href="/miui/plato/stable/V13.0.5.0.SLQIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLQIDXM</td><td>12.0</td><td>4.5 GB</td><td>2022-11-25</td><td><a href="/miui/plato/stable/V13.0.5.0.SLQIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SLQRUXM</td><td>12.0</td><td>6.6 GB</td><td>2023-01-10</td><td><a href="/miui/plato/stable/V13.0.8.0.SLQRUXM/">Download</a></td></tr>
