@@ -270,6 +270,12 @@
   version: V14.0.2.0.TKTCNXM
 - android: '13.0'
   codename: psyche
+  date: '2023-02-06'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.1.0.TLDEUXM_c018cf7638_13.0.zip
+  name: Xiaomi 12X
+  version: V14.0.1.0.TLDEUXM
+- android: '13.0'
+  codename: psyche
   date: '2023-02-01'
   download: https://bigota.d.miui.com/V14.0.5.0.TLDCNXM/fw_psyche_miui_PSYCHE_V14.0.5.0.TLDCNXM_82f725b651_13.0.zip
   name: Xiaomi 12X
@@ -304,6 +310,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKICNXM/fw_renoir_miui_RENOIR_V14.0.4.0.TKICNXM_3214c1cb73_13.0.zip
   name: Mi 11 Lite 5G
   version: V14.0.4.0.TKICNXM
+- android: '13.0'
+  codename: renoir
+  date: '2023-02-06'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKIEUXM/fw_renoir_miui_RENOIREEAGlobal_V14.0.5.0.TKIEUXM_fe45955323_13.0.zip
+  name: Mi 11 Lite 5G
+  version: V14.0.5.0.TKIEUXM
 - android: '13.0'
   codename: renoir
   date: '2023-01-01'
