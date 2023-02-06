@@ -96,6 +96,12 @@
   version: V14.0.13.0.TMCCNXM
 - android: '13.0'
   codename: fuxi
+  date: '2023-02-06'
+  download: https://bigota.d.miui.com/V14.0.17.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.17.0.TMCCNXM_6d5bf8c2d6_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.17.0.TMCCNXM
+- android: '13.0'
+  codename: fuxi
   date: '2022-12-31'
   download: https://bigota.d.miui.com/V14.0.11.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.11.0.TMCCNXM_77665cadba_13.0.zip
   name: Xiaomi 13
@@ -292,6 +298,24 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SMSCNXM/fw_redwood_miui_REDWOOD_V14.0.3.0.SMSCNXM_2d81f55d33_12.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: V14.0.3.0.SMSCNXM
+- android: '12.0'
+  codename: redwood
+  date: '2023-02-06'
+  download: https://bigota.d.miui.com/V14.0.1.0.SMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_V14.0.1.0.SMSEUXM_a7ce01fac2_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.1.0.SMSEUXM
+- android: '12.0'
+  codename: redwood
+  date: '2023-02-06'
+  download: https://bigota.d.miui.com/V14.0.3.0.SMSMIXM/fw_redwood_miui_REDWOODGlobal_V14.0.3.0.SMSMIXM_097b260a3b_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.3.0.SMSMIXM
+- android: '12.0'
+  codename: redwood
+  date: '2023-02-06'
+  download: https://bigota.d.miui.com/V14.0.6.0.SMSINXM/fw_redwood_miui_REDWOODINGlobal_V14.0.6.0.SMSINXM_ed20d983c1_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.6.0.SMSINXM
 - android: '13.0'
   codename: renoir
   date: '2023-01-20'
@@ -430,6 +454,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.4.0.TLECNXM_5d047a1bdd_13.0.zip
   name: Xiaomi 12S Pro
   version: V14.0.4.0.TLECNXM
+- android: '13.0'
+  codename: vayu
+  date: '2023-02-06'
+  download: https://bigota.d.miui.com/V14.0.1.0.TJUMIXM/fw_vayu_miui_VAYUGlobal_V14.0.1.0.TJUMIXM_050c24042a_13.0.zip
+  name: POCO X3 Pro
+  version: V14.0.1.0.TJUMIXM
 - android: '13.0'
   codename: venus
   date: '2023-01-14'
