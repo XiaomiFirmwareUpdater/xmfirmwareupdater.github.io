@@ -1,13 +1,3 @@
-- branch: weekly
-  date: '2019-09-02'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cappu/releases/download/weekly-02.09.2019/fw_cappu_miui_MIPAD3_9.8.29_7a8c59b59e_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.29/cappu/fw_cappu_miui_MIPAD3_9.8.29_7a8c59b59e_7.0.zip
-  filename: fw_cappu_miui_MIPAD3_9.8.29_7a8c59b59e_7.0.zip
-  region: China
-  versions:
-    android: '7.0'
-    miui: 9.8.29
 - branch: stable
   date: '2019-01-14'
   downloads:

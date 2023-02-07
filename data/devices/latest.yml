@@ -499,15 +499,15 @@
     android: '7.0'
     miui: V10.2.1.0.NCICNXM
 - branch: weekly
-  date: '2019-09-02'
+  date: '2018-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cappu/releases/download/weekly-02.09.2019/fw_cappu_miui_MIPAD3_9.8.29_7a8c59b59e_7.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.8.29/cappu/fw_cappu_miui_MIPAD3_9.8.29_7a8c59b59e_7.0.zip
-  filename: fw_cappu_miui_MIPAD3_9.8.29_7a8c59b59e_7.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cappu/releases/download/untagged-51c47110dd4f6c1f4135/fw_cappu_miui_MIPAD3_8.4.12_9119eb06b8_7.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/cappu/fw_cappu_miui_MIPAD3_8.4.12_9119eb06b8_7.0.zip
+  filename: fw_cappu_miui_MIPAD3_8.4.12_9119eb06b8_7.0.zip
   region: China
   versions:
     android: '7.0'
-    miui: 9.8.29
+    miui: 8.4.12
 - branch: stable
   date: '2019-07-05'
   downloads:
@@ -1359,15 +1359,15 @@
     android: '12.0'
     miui: V13.0.3.0.SGEEUXM
 - branch: stable
-  date: '2022-11-14'
+  date: '2023-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-14.11.2022/fw_fog_miui_FOGINGlobal_V13.0.2.0.SGEINXM_96cda794c8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGINGlobal_V13.0.2.0.SGEINXM_96cda794c8_12.0.zip
-  filename: fw_fog_miui_FOGINGlobal_V13.0.2.0.SGEINXM_96cda794c8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-07.02.2023/fw_fog_miui_FOGINGlobal_V13.0.3.0.SGEINXM_0c28f58cec_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGINGlobal_V13.0.3.0.SGEINXM_0c28f58cec_12.0.zip
+  filename: fw_fog_miui_FOGINGlobal_V13.0.3.0.SGEINXM_0c28f58cec_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SGEINXM
+    miui: V13.0.3.0.SGEINXM
 - branch: stable
   date: '2022-12-08'
   downloads:
@@ -2539,15 +2539,15 @@
     android: '12.0'
     miui: V13.0.4.0.SKGINXM
 - branch: stable
-  date: '2022-09-01'
+  date: '2023-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-01.09.2022/fw_mona_miui_MONA_V13.0.6.0.SKVCNXM_a07bd21017_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mona/fw_mona_miui_MONA_V13.0.6.0.SKVCNXM_a07bd21017_12.0.zip
-  filename: fw_mona_miui_MONA_V13.0.6.0.SKVCNXM_a07bd21017_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-07.02.2023/fw_mona_miui_MONA_V14.0.1.0.TKVCNXM_a3e94e4049_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mona/fw_mona_miui_MONA_V14.0.1.0.TKVCNXM_a3e94e4049_13.0.zip
+  filename: fw_mona_miui_MONA_V14.0.1.0.TKVCNXM_a3e94e4049_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.6.0.SKVCNXM
+    android: '13.0'
+    miui: V14.0.1.0.TKVCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -4779,15 +4779,15 @@
     android: '11.0'
     miui: V12.5.5.0.RCXEUXM
 - branch: stable
-  date: '2022-12-28'
+  date: '2023-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-28.12.2022/fw_xaga_miui_XAGAGlobal_V13.2.5.0.TLOMIXM_a6236b8bca_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAGlobal_V13.2.5.0.TLOMIXM_a6236b8bca_13.0.zip
-  filename: fw_xaga_miui_XAGAGlobal_V13.2.5.0.TLOMIXM_a6236b8bca_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-07.02.2023/fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
+  filename: fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V13.2.5.0.TLOMIXM
+    miui: V14.0.1.0.TLOMIXM
 - branch: stable
   date: '2023-01-09'
   downloads:

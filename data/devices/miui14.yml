@@ -203,6 +203,12 @@
   name: Xiaomi 12S
   version: V14.0.5.0.TLTCNXM
 - android: '13.0'
+  codename: mona
+  date: '2023-02-07'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKVCNXM/fw_mona_miui_MONA_V14.0.1.0.TKVCNXM_a3e94e4049_13.0.zip
+  name: Xiaomi Civi
+  version: V14.0.1.0.TKVCNXM
+- android: '13.0'
   codename: mondrian
   date: '2022-12-30'
   download: https://bigota.d.miui.com/V14.0.11.0.TMNCNXM/fw_mondrian_miui_MONDRIAN_V14.0.11.0.TMNCNXM_b9305eb2b8_13.0.zip
@@ -472,6 +478,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.2.0.TLOCNXM_c79ba02c33_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.2.0.TLOCNXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-02-07'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.1.0.TLOMIXM
 - android: '13.0'
   codename: xaga
   date: '2023-01-03'
