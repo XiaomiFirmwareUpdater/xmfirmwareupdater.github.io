@@ -8,37 +8,23 @@ async function getUrlVars() {
 }
 
 async function generate_link(filename, branch, version, codename) {
-    var link = 'https://osdn.net/frs/redir.php?m=auto&f=/storage/g/x/xi/xiaomifirmwareupdater/';
-    if (branch == 'Stable') {
-        link += 'Stable/';
-        link += version.split('.')[0] + '/';
-    }
-    else if (branch == 'Weekly') {
-        if (version.startsWith('8.')) {
-            await $.ajax({
-                url: '/data/devices/full/' + codename + '.yml',
-                async: true,
-                converters: {
-                    'text yaml': function (result) {
-                        return jsyaml.load(result);
-                    }
-                },
-                dataType: 'yaml'
-            }).done(function (data) {
-                for (let i = 0; i < data.length; i++) {
-                    if (data[i].filename == filename) {
-                        link = data[i].downloads.github;
-                        break;
-                    }
-                }
-            })
-            return link
-        } else {
-            link += 'Developer/';
-            link += version + '/';
+    await $.ajax({
+        url: '/data/devices/full/' + codename + '.yml',
+        async: true,
+        converters: {
+            'text yaml': function (result) {
+                return jsyaml.load(result);
+            }
+        },
+        dataType: 'yaml'
+    }).done(function (data) {
+        for (let i = 0; i < data.length; i++) {
+            if (data[i].filename == filename) {
+                link = data[i].downloads.github;
+                break;
+            }
         }
-    }
-    link += codename + '/' + filename;
+    })
     return link
 }
 
