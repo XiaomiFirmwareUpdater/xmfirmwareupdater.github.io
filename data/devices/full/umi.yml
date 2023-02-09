@@ -949,16 +949,6 @@
     android: '11.0'
     miui: V12.5.11.0.RJBCNXM
 - branch: stable
-  date: '2022-08-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-22.08.2022/fw_umi_miui_UMI_V13.0.7.0.SJBCNXM_1beabe6d7f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMI_V13.0.7.0.SJBCNXM_1beabe6d7f_12.0.zip
-  filename: fw_umi_miui_UMI_V13.0.7.0.SJBCNXM_1beabe6d7f_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.7.0.SJBCNXM
-- branch: stable
   date: '2020-05-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-22.05.2020/fw_umi_miui_UMIEEAGlobal_V11.0.13.0.QJBEUXM_0e125eeae0_10.0.zip

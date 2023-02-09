@@ -74,6 +74,7 @@ permalink: /miui/merlin/
 <tr><td>Redmi Note 9 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJOTRXM</td><td>12.0</td><td>2.8 GB</td><td>2023-01-28</td><td><a href="/miui/merlin/stable beta/V13.0.3.0.SJOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RJOTWXM</td><td>11.0</td><td>3.6 GB</td><td>2022-06-17</td><td><a href="/miui/merlin/stable/V12.5.7.0.RJOTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Taiwan</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RJOTWXM</td><td>11.0</td><td>2.4 GB</td><td>2022-06-23</td><td><a href="/miui/merlin/stable/V12.5.7.0.RJOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJOTWXM</td><td>12.0</td><td>2.7 GB</td><td>2023-02-03</td><td><a href="/miui/merlin/stable beta/V13.0.3.0.SJOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

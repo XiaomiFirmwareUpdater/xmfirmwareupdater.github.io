@@ -99,16 +99,6 @@
     android: '11.0'
     miui: V12.0.1.0.RKGINXM
 - branch: stable
-  date: '2022-08-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-22.08.2022/fw_mojito_miui_MOJITOEEAGlobal_V13.0.6.0.SKGEUXM_47fa0fa371_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mojito/fw_mojito_miui_MOJITOEEAGlobal_V13.0.6.0.SKGEUXM_47fa0fa371_12.0.zip
-  filename: fw_mojito_miui_MOJITOEEAGlobal_V13.0.6.0.SKGEUXM_47fa0fa371_12.0.zip
-  region: Europe
-  versions:
-    android: '12.0'
-    miui: V13.0.6.0.SKGEUXM
-- branch: stable
   date: '2021-08-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-20.08.2021/fw_mojito_miui_MOJITOEEAGlobal_V12.5.1.0.RKGEUXM_0b6682c514_11.0.zip
@@ -189,16 +179,6 @@
     android: '11.0'
     miui: V12.0.2.0.RKGMIXM
 - branch: stable
-  date: '2022-09-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-09.09.2022/fw_mojito_miui_MOJITOINGlobal_V13.0.3.0.SKGINXM_de1bc0b180_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mojito/fw_mojito_miui_MOJITOINGlobal_V13.0.3.0.SKGINXM_de1bc0b180_12.0.zip
-  filename: fw_mojito_miui_MOJITOINGlobal_V13.0.3.0.SKGINXM_de1bc0b180_12.0.zip
-  region: India
-  versions:
-    android: '12.0'
-    miui: V13.0.3.0.SKGINXM
-- branch: stable
   date: '2021-11-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-08.11.2021/fw_mojito_miui_MOJITOGlobal_V12.5.4.0.RKGMIXM_c76e68c24a_11.0.zip
@@ -209,15 +189,15 @@
     android: '11.0'
     miui: V12.5.4.0.RKGMIXM
 - branch: stable
-  date: '2022-09-06'
+  date: '2023-02-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-06.09.2022/fw_mojito_miui_MOJITOGlobal_V13.0.10.0.SKGMIXM_7176a295c9_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/mojito/fw_mojito_miui_MOJITOGlobal_V13.0.10.0.SKGMIXM_7176a295c9_12.0.zip
-  filename: fw_mojito_miui_MOJITOGlobal_V13.0.10.0.SKGMIXM_7176a295c9_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-08.02.2023/fw_mojito_miui_MOJITOGlobal_V14.0.1.0.SKGMIXM_d9a5077bf4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOGlobal_V14.0.1.0.SKGMIXM_d9a5077bf4_12.0.zip
+  filename: fw_mojito_miui_MOJITOGlobal_V14.0.1.0.SKGMIXM_d9a5077bf4_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.10.0.SKGMIXM
+    miui: V14.0.1.0.SKGMIXM
 - branch: stable
   date: '2021-08-04'
   downloads:
