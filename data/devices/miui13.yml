@@ -4890,6 +4890,12 @@
   version: V13.0.4.1.1.DEV
 - android: '12.0'
   codename: venus
+  date: '2023-02-10'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKBMIXM/fw_venus_miui_VENUSGlobal_V13.0.6.0.SKBMIXM_3d83c7e21c_12.0.zip
+  name: Mi 11
+  version: V13.0.6.0.SKBMIXM
+- android: '12.0'
+  codename: venus
   date: '2022-07-07'
   download: https://bigota.d.miui.com/V13.0.7.0.SKBEUXM/fw_venus_miui_VENUSEEAGlobal_V13.0.7.0.SKBEUXM_62599e235f_12.0.zip
   name: Mi 11
@@ -5134,6 +5140,12 @@
   download: https://bigota.d.miui.com/V13.0.9.0.SKDEUXM/fw_vili_miui_VILIEEAGlobal_V13.0.9.0.SKDEUXM_b9f6448197_12.0.zip
   name: Xiaomi 11T Pro
   version: V13.0.9.0.SKDEUXM
+- android: '12.0'
+  codename: vili
+  date: '2023-02-10'
+  download: https://bigota.d.miui.com/V13.0.12.0.SKDINXM/fw_vili_miui_VILIINGlobal_V13.0.12.0.SKDINXM_443c24b29c_12.0.zip
+  name: Xiaomi 11T Pro
+  version: V13.0.12.0.SKDINXM
 - android: '12.0'
   codename: vili
   date: '2022-05-09'

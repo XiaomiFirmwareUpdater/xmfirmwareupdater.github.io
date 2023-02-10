@@ -62,8 +62,8 @@ permalink: /miui/venus/
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SKBEUXM</td><td>12.0</td><td>5.7 GB</td><td>2023-01-06</td><td><a href="/miui/venus/stable/V13.0.9.0.SKBEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SKBEUXM</td><td>12.0</td><td>3.7 GB</td><td>2023-01-16</td><td><a href="/miui/venus/stable/V13.0.9.0.SKBEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SKBEUXM</td><td>12.0</td><td>3.7 GB</td><td>2022-02-09</td><td><a href="/miui/venus/stable beta/V13.0.1.0.SKBEUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKBMIXM</td><td>12.0</td><td>6.0 GB</td><td>2022-10-09</td><td><a href="/miui/venus/stable/V13.0.5.0.SKBMIXM/">Download</a></td></tr>
-<tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKBMIXM</td><td>12.0</td><td>3.7 GB</td><td>2022-10-21</td><td><a href="/miui/venus/stable/V13.0.5.0.SKBMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SKBMIXM</td><td>12.0</td><td>5.7 GB</td><td>2023-01-19</td><td><a href="/miui/venus/stable/V13.0.6.0.SKBMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SKBMIXM</td><td>12.0</td><td>3.7 GB</td><td>2023-02-01</td><td><a href="/miui/venus/stable/V13.0.6.0.SKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.8.0.SKBMIXM</td><td>12.0</td><td>3.5 GB</td><td>2021-12-21</td><td><a href="/miui/venus/stable beta/V12.5.8.0.SKBMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKBIDXM</td><td>12.0</td><td>5.4 GB</td><td>2022-10-09</td><td><a href="/miui/venus/stable/V13.0.4.0.SKBIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKBIDXM</td><td>12.0</td><td>3.5 GB</td><td>2022-10-21</td><td><a href="/miui/venus/stable/V13.0.4.0.SKBIDXM/">Download</a></td></tr>

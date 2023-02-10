@@ -4499,15 +4499,15 @@
     android: '11.0'
     miui: 21.11.24
 - branch: stable
-  date: '2022-10-24'
+  date: '2023-02-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-24.10.2022/fw_venus_miui_VENUSGlobal_V13.0.5.0.SKBMIXM_bf2d1f590e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/venus/fw_venus_miui_VENUSGlobal_V13.0.5.0.SKBMIXM_bf2d1f590e_12.0.zip
-  filename: fw_venus_miui_VENUSGlobal_V13.0.5.0.SKBMIXM_bf2d1f590e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-10.02.2023/fw_venus_miui_VENUSGlobal_V13.0.6.0.SKBMIXM_3d83c7e21c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/venus/fw_venus_miui_VENUSGlobal_V13.0.6.0.SKBMIXM_3d83c7e21c_12.0.zip
+  filename: fw_venus_miui_VENUSGlobal_V13.0.6.0.SKBMIXM_3d83c7e21c_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SKBMIXM
+    miui: V13.0.6.0.SKBMIXM
 - branch: stable
   date: '2023-01-14'
   downloads:
@@ -4599,15 +4599,15 @@
     android: '12.0'
     miui: V13.0.21.0.SKDEUXM
 - branch: stable
-  date: '2022-11-04'
+  date: '2023-02-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-04.11.2022/fw_vili_miui_VILIINGlobal_V13.0.11.0.SKDINXM_24e9185256_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vili/fw_vili_miui_VILIINGlobal_V13.0.11.0.SKDINXM_24e9185256_12.0.zip
-  filename: fw_vili_miui_VILIINGlobal_V13.0.11.0.SKDINXM_24e9185256_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-10.02.2023/fw_vili_miui_VILIINGlobal_V13.0.12.0.SKDINXM_443c24b29c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vili/fw_vili_miui_VILIINGlobal_V13.0.12.0.SKDINXM_443c24b29c_12.0.zip
+  filename: fw_vili_miui_VILIINGlobal_V13.0.12.0.SKDINXM_443c24b29c_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.11.0.SKDINXM
+    miui: V13.0.12.0.SKDINXM
 - branch: stable
   date: '2019-11-26'
   downloads:
