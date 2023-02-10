@@ -215,6 +215,12 @@
   name: Xiaomi 12T
   version: V14.0.2.0.TLQEUXM
 - android: '13.0'
+  codename: plato
+  date: '2023-02-10'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.2.0.TLQEUXM_d35c8e6f22_13.0.zip
+  name: Xiaomi 12T
+  version: V14.0.2.0.TLQEUXM
+- android: '13.0'
   codename: psyche
   date: '2023-02-06'
   download: https://bigota.d.miui.com/V14.0.1.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.1.0.TLDEUXM_c018cf7638_13.0.zip
