@@ -323,6 +323,12 @@
   name: Xiaomi 12 Lite
   version: V14.0.3.0.TLIMIXM
 - android: '13.0'
+  codename: thor
+  date: '2023-01-15'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLACNXM/fw_thor_miui_THOR_V14.0.5.0.TLACNXM_5c17bcc84b_13.0.zip
+  name: Xiaomi 12S Ultra
+  version: V14.0.5.0.TLACNXM
+- android: '13.0'
   codename: thyme
   date: '2023-02-01'
   download: https://bigota.d.miui.com/V14.0.2.0.TGACNXM/fw_thyme_miui_THYME_V14.0.2.0.TGACNXM_7b4df32800_13.0.zip
