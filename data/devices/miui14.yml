@@ -11,6 +11,12 @@
   name: Redmi K40/POCO F3/Mi 11X
   version: V14.0.4.0.TKHCNXM
 - android: '13.0'
+  codename: ares
+  date: '2023-02-11'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKJCNXM/fw_ares_miui_ARES_V14.0.2.0.TKJCNXM_36a3687cce_13.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: V14.0.2.0.TKJCNXM
+- android: '13.0'
   codename: chopin
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.2.0.TKPCNXM/fw_chopin_miui_CHOPIN_V14.0.2.0.TKPCNXM_a1309370ef_13.0.zip
@@ -210,6 +216,12 @@
   version: V14.0.2.0.TKTCNXM
 - android: '13.0'
   codename: plato
+  date: '2023-02-11'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.2.0.TLQEUXM_d35c8e6f22_13.0.zip
+  name: Xiaomi 12T
+  version: V14.0.2.0.TLQEUXM
+- android: '13.0'
+  codename: plato
   date: '2023-02-10'
   download: https://bigota.d.miui.com/V14.0.2.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.2.0.TLQEUXM_d35c8e6f22_13.0.zip
   name: Xiaomi 12T
@@ -358,6 +370,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.8.0.TLBCNXM_ec4f2b340b_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.8.0.TLBCNXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-02-11'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLBINXM/fw_zeus_miui_ZEUSINGlobal_V14.0.1.0.TLBINXM_1ad467d767_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.1.0.TLBINXM
 - android: '13.0'
   codename: zeus
   date: '2023-02-01'

@@ -3609,6 +3609,16 @@
     android: '11.0'
     miui: V12.5.7.0.RKJINXM
 - branch: stable
+  date: '2023-02-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-11.02.2023/fw_ares_miui_ARES_V14.0.2.0.TKJCNXM_36a3687cce_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ares/fw_ares_miui_ARES_V14.0.2.0.TKJCNXM_36a3687cce_13.0.zip
+  filename: fw_ares_miui_ARES_V14.0.2.0.TKJCNXM_36a3687cce_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKJCNXM
+- branch: stable
   date: '2021-12-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ares/releases/download/stable-10.12.2021/fw_ares_miui_ARES_V12.5.12.0.RKJCNXM_0fab614862_11.0.zip
@@ -41619,6 +41629,16 @@
     android: '12.0'
     miui: V13.0.6.0.SLQEUXM
 - branch: stable
+  date: '2023-02-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-11.02.2023/fw_plato_miui_PLATOEEAGlobal_V14.0.2.0.TLQEUXM_d35c8e6f22_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/plato/fw_plato_miui_PLATOEEAGlobal_V14.0.2.0.TLQEUXM_d35c8e6f22_13.0.zip
+  filename: fw_plato_miui_PLATOEEAGlobal_V14.0.2.0.TLQEUXM_d35c8e6f22_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TLQEUXM
+- branch: stable
   date: '2022-11-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-10.11.2022/fw_plato_miui_PLATOGlobal_V13.0.5.0.SLQMIXM_72a42682ad_12.0.zip
@@ -50088,16 +50108,6 @@
   versions:
     android: '12.0'
     miui: V13.0.7.0.SMQCNXM
-- branch: stable
-  date: '2023-02-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-11.02.2023/fw_sunstone_miui_SUNSTONE_V13.0.11.0.SMQCNXM_64fb233a1a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sunstone/fw_sunstone_miui_SUNSTONE_V13.0.11.0.SMQCNXM_64fb233a1a_12.0.zip
-  filename: fw_sunstone_miui_SUNSTONE_V13.0.11.0.SMQCNXM_64fb233a1a_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.11.0.SMQCNXM
 - branch: stable
   date: '2022-11-01'
   downloads:
@@ -61628,6 +61638,16 @@
   versions:
     android: '12.0'
     miui: V13.0.28.0.SLBCNXM
+- branch: stable
+  date: '2023-02-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-11.02.2023/fw_zeus_miui_ZEUSINGlobal_V14.0.1.0.TLBINXM_1ad467d767_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zeus/fw_zeus_miui_ZEUSINGlobal_V14.0.1.0.TLBINXM_1ad467d767_13.0.zip
+  filename: fw_zeus_miui_ZEUSINGlobal_V14.0.1.0.TLBINXM_1ad467d767_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TLBINXM
 - branch: stable
   date: '2022-05-09'
   downloads:
