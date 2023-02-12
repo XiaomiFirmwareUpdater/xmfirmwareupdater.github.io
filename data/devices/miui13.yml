@@ -2544,6 +2544,12 @@
   version: V13.0.8.0.SKOINXM
 - android: '12.0'
   codename: lisa
+  date: '2023-02-12'
+  download: https://bigota.d.miui.com/V13.0.10.0.SKOINXM/fw_lisa_miui_LISAINGlobal_V13.0.10.0.SKOINXM_0048418308_12.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V13.0.10.0.SKOINXM
+- android: '12.0'
+  codename: lisa
   date: '2022-11-10'
   download: https://bigota.d.miui.com/V13.0.9.0.SKOINXM/fw_lisa_miui_LISAINGlobal_V13.0.9.0.SKOINXM_c4084f4653_12.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
