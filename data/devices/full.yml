@@ -139,6 +139,16 @@
     android: '12.0'
     miui: V13.0.8.0.SKWEUXM
 - branch: stable
+  date: '2023-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-13.02.2023/fw_agate_miui_AGATEEEAGlobal_V14.0.1.0.TKWEUXM_c74d432f31_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/agate/fw_agate_miui_AGATEEEAGlobal_V14.0.1.0.TKWEUXM_c74d432f31_13.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V14.0.1.0.TKWEUXM_c74d432f31_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TKWEUXM
+- branch: stable
   date: '2023-01-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-13.01.2023/fw_agate_miui_AGATEGlobal_V13.0.7.0.SKWMIXM_a73ed76ebd_12.0.zip
@@ -2898,6 +2908,16 @@
   versions:
     android: '12.0'
     miui: V13.0.8.0.SJDEUXM
+- branch: stable
+  date: '2023-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-13.02.2023/fw_apollo_miui_APOLLOINGlobal_V13.0.7.0.SJDINXM_e6516afaa9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLOINGlobal_V13.0.7.0.SJDINXM_e6516afaa9_12.0.zip
+  filename: fw_apollo_miui_APOLLOINGlobal_V13.0.7.0.SJDINXM_e6516afaa9_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SJDINXM
 - branch: stable
   date: '2022-12-12'
   downloads:
@@ -6358,6 +6378,16 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RCUEUXM
+- branch: stable
+  date: '2023-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-13.02.2023/fw_biloba_miui_BILOBAGlobal_V13.0.10.0.SCUMIXM_6d65b4f5f7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/biloba/fw_biloba_miui_BILOBAGlobal_V13.0.10.0.SCUMIXM_6d65b4f5f7_12.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V13.0.10.0.SCUMIXM_6d65b4f5f7_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SCUMIXM
 - branch: stable
   date: '2023-01-13'
   downloads:

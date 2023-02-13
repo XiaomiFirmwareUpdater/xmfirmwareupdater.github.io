@@ -5,6 +5,12 @@
   name: Xiaomi 11T
   version: V14.0.3.0.TKWMIXM
 - android: '13.0'
+  codename: agate
+  date: '2023-02-13'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKWEUXM/fw_agate_miui_AGATEEEAGlobal_V14.0.1.0.TKWEUXM_c74d432f31_13.0.zip
+  name: Xiaomi 11T
+  version: V14.0.1.0.TKWEUXM
+- android: '13.0'
   codename: alioth
   date: '2023-02-02'
   download: https://bigota.d.miui.com/V14.0.4.0.TKHCNXM/fw_alioth_miui_ALIOTH_V14.0.4.0.TKHCNXM_a249736c6c_13.0.zip

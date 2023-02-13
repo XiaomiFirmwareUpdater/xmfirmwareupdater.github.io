@@ -52,7 +52,8 @@ permalink: /archive/miui/zijin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.30.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-02-03</td><td><a href="/miui/zijin/public beta/V14.0.23.1.30.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.6.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-02-10</td><td><a href="/miui/zijin/public beta/V14.0.23.2.6.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.30.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-02-03</td><td><a href="/miui/zijin/public beta/V14.0.23.1.30.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLPCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-01-13</td><td><a href="/miui/zijin/stable beta/V14.0.3.0.TLPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.9.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-01-13</td><td><a href="/miui/zijin/public beta/V14.0.23.1.9.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.3.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-01-06</td><td><a href="/miui/zijin/public beta/V14.0.23.1.3.DEV/">Download</a></td></tr>

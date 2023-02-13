@@ -52,7 +52,8 @@ permalink: /archive/miui/apollo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10T / Mi 10T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SJDTWXM</td><td>12.0</td><td>3.3 GB</td><td>2023-01-09</td><td><a href="/miui/apollo/stable beta/V13.0.5.0.SJDTWXM/">Download</a></td></tr>
+                <tr><td>Mi 10T / Mi 10T Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SJDINXM</td><td>12.0</td><td>3.4 GB</td><td>2023-02-09</td><td><a href="/miui/apollo/stable beta/V13.0.7.0.SJDINXM/">Download</a></td></tr>
+<tr><td>Mi 10T / Mi 10T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SJDTWXM</td><td>12.0</td><td>3.3 GB</td><td>2023-01-09</td><td><a href="/miui/apollo/stable beta/V13.0.5.0.SJDTWXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SJDIDXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-09</td><td><a href="/miui/apollo/stable beta/V13.0.7.0.SJDIDXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.12.0.SJDEUXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-09</td><td><a href="/miui/apollo/stable/V13.0.12.0.SJDEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SJDEUXM</td><td>12.0</td><td>5.2 GB</td><td>2022-12-27</td><td><a href="/miui/apollo/stable/V13.0.12.0.SJDEUXM/">Download</a></td></tr>

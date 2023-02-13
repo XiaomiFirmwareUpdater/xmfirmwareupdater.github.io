@@ -52,7 +52,8 @@ permalink: /archive/miui/thyme/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.30.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-02-03</td><td><a href="/miui/thyme/public beta/V14.0.23.1.30.DEV/">Download</a></td></tr>
+                <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.6.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-02-10</td><td><a href="/miui/thyme/public beta/V14.0.23.2.6.DEV/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.30.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-02-03</td><td><a href="/miui/thyme/public beta/V14.0.23.1.30.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TGACNXM</td><td>13.0</td><td>4.1 GB</td><td>2023-02-01</td><td><a href="/miui/thyme/stable beta/V14.0.2.0.TGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.9.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-01-13</td><td><a href="/miui/thyme/public beta/V14.0.23.1.9.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.3.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-01-06</td><td><a href="/miui/thyme/public beta/V14.0.23.1.3.DEV/">Download</a></td></tr>
