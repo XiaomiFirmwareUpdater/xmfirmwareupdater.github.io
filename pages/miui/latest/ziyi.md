@@ -1,7 +1,7 @@
 ---
-title: Xiaomi Civi 2 (ziyi) MIUI Downloads
+title: Xiaomi Civi 2/13 Lite (ziyi) MIUI Downloads
 layout: download
-name: Xiaomi Civi 2
+name: Xiaomi Civi 2/13 Lite
 codename: ziyi
 permalink: /miui/ziyi/
 ---
@@ -9,7 +9,7 @@ permalink: /miui/ziyi/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/ziyi/">Xiaomi Civi 2</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/ziyi/">Xiaomi Civi 2/13 Lite</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
