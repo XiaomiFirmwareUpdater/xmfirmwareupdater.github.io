@@ -252,6 +252,12 @@
   version: V14.0.2.0.SMSCNXM
 - android: '12.0'
   codename: redwood
+  date: '2023-02-13'
+  download: https://bigota.d.miui.com/V14.0.3.0.SMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_V14.0.3.0.SMSEUXM_9b357f29c2_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.3.0.SMSEUXM
+- android: '12.0'
+  codename: redwood
   date: '2023-01-09'
   download: https://bigota.d.miui.com/V14.0.3.0.SMSCNXM/fw_redwood_miui_REDWOOD_V14.0.3.0.SMSCNXM_2d81f55d33_12.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -286,6 +292,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKICNXM/fw_renoir_miui_RENOIR_V14.0.4.0.TKICNXM_3214c1cb73_13.0.zip
   name: Mi 11 Lite 5G
   version: V14.0.4.0.TKICNXM
+- android: '13.0'
+  codename: renoir
+  date: '2023-02-13'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKIMIXM/fw_renoir_miui_RENOIRGlobal_V14.0.3.0.TKIMIXM_bb4aca211e_13.0.zip
+  name: Mi 11 Lite 5G
+  version: V14.0.3.0.TKIMIXM
 - android: '13.0'
   codename: renoir
   date: '2023-02-06'
