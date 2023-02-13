@@ -629,6 +629,16 @@
     android: '11.0'
     miui: V12.0.3.0.RKHINXM
 - branch: stable
+  date: '2023-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-13.02.2023/fw_alioth_miui_ALIOTHINGlobal_V13.0.10.0.SKHINXM_5ace2981dd_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHINGlobal_V13.0.10.0.SKHINXM_5ace2981dd_12.0.zip
+  filename: fw_alioth_miui_ALIOTHINGlobal_V13.0.10.0.SKHINXM_5ace2981dd_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SKHINXM
+- branch: stable
   date: '2021-04-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-12.04.2021/fw_alioth_miui_ALIOTHEEAGlobal_V12.0.2.0.RKHEUXM_cb23392b8c_11.0.zip

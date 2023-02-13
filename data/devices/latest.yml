@@ -59,15 +59,15 @@
     android: '12.0'
     miui: V13.0.9.0.SKHEUXM
 - branch: stable
-  date: '2022-11-14'
+  date: '2023-02-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-14.11.2022/fw_alioth_miui_ALIOTHINGlobal_V13.0.9.0.SKHINXM_2654f15720_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHINGlobal_V13.0.9.0.SKHINXM_2654f15720_12.0.zip
-  filename: fw_alioth_miui_ALIOTHINGlobal_V13.0.9.0.SKHINXM_2654f15720_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-13.02.2023/fw_alioth_miui_ALIOTHINGlobal_V13.0.10.0.SKHINXM_5ace2981dd_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHINGlobal_V13.0.10.0.SKHINXM_5ace2981dd_12.0.zip
+  filename: fw_alioth_miui_ALIOTHINGlobal_V13.0.10.0.SKHINXM_5ace2981dd_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.9.0.SKHINXM
+    miui: V13.0.10.0.SKHINXM
 - branch: stable
   date: '2021-03-29'
   downloads:
@@ -739,15 +739,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2022-11-22'
+  date: '2023-02-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-22.11.2022/fw_chopin_miui_CHOPINGlobal_V13.0.7.0.SKPMIXM_33ac75ace7_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/chopin/fw_chopin_miui_CHOPINGlobal_V13.0.7.0.SKPMIXM_33ac75ace7_12.0.zip
-  filename: fw_chopin_miui_CHOPINGlobal_V13.0.7.0.SKPMIXM_33ac75ace7_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-13.02.2023/fw_chopin_miui_CHOPINGlobal_V14.0.1.0.TKPMIXM_a929f9e55c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPINGlobal_V14.0.1.0.TKPMIXM_a929f9e55c_13.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V14.0.1.0.TKPMIXM_a929f9e55c_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.7.0.SKPMIXM
+    android: '13.0'
+    miui: V14.0.1.0.TKPMIXM
 - branch: stable
   date: '2023-01-16'
   downloads:
