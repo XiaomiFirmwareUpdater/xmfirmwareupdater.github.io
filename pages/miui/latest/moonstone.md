@@ -54,6 +54,7 @@ permalink: /miui/moonstone/
                 <tbody>
                 <tr><td>POCO X5 5G  Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SMPMIXM</td><td>12.0</td><td>6.0 GB</td><td>2022-12-17</td><td><a href="/miui/moonstone/stable/V13.0.2.0.SMPMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Global</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SMPMIXM</td><td>12.0</td><td>3.5 GB</td><td>2023-02-13</td><td><a href="/miui/moonstone/stable/V13.0.2.0.SMPMIXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SMPMIXM</td><td>12.0</td><td>3.5 GB</td><td>2023-02-14</td><td><a href="/miui/moonstone/stable beta/V13.0.3.0.SMPMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SMPTWXM</td><td>12.0</td><td>4.9 GB</td><td>2022-12-27</td><td><a href="/miui/moonstone/stable/V13.0.1.0.SMPTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SMPTWXM</td><td>12.0</td><td>3.5 GB</td><td>2023-02-13</td><td><a href="/miui/moonstone/stable/V13.0.1.0.SMPTWXM/">Download</a></td></tr>
 
