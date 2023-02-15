@@ -53,7 +53,8 @@ permalink: /archive/miui/diting/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.6.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-02-10</td><td><a href="/miui/diting/public beta/V14.0.23.2.6.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TLFEUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-02-05</td><td><a href="/miui/diting/stable beta/V14.0.6.0.TLFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TLFEUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-02-05</td><td><a href="/miui/diting/stable/V14.0.6.0.TLFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TLFEUXM</td><td>13.0</td><td>7.0 GB</td><td>2023-01-13</td><td><a href="/miui/diting/stable/V14.0.6.0.TLFEUXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.30.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-02-03</td><td><a href="/miui/diting/public beta/V14.0.23.1.30.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SLFRUXM</td><td>12.0</td><td>4.4 GB</td><td>2023-02-01</td><td><a href="/miui/diting/stable beta/V13.0.4.0.SLFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLFTWXM</td><td>12.0</td><td>4.4 GB</td><td>2023-02-01</td><td><a href="/miui/diting/stable/V13.0.4.0.SLFTWXM/">Download</a></td></tr>
@@ -72,11 +73,11 @@ permalink: /archive/miui/diting/
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLFJPXM</td><td>12.0</td><td>6.2 GB</td><td>2022-12-07</td><td><a href="/miui/diting/stable/V13.0.2.0.SLFJPXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-11</td><td><a href="/miui/diting/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.4 GB</td><td>2022-12-05</td><td><a href="/miui/diting/stable/V14.0.22.12.5.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLFCNXM</td><td>13.0</td><td>5.9 GB</td><td>2022-12-30</td><td><a href="/miui/diting/stable beta/V14.0.4.0.TLFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SLFCNXM</td><td>12.0</td><td>5.7 GB</td><td>2022-11-16</td><td><a href="/miui/diting/stable/V13.0.10.0.SLFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SLFCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-11-07</td><td><a href="/miui/diting/stable/V13.0.10.0.SLFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLFMIXM</td><td>12.0</td><td>4.5 GB</td><td>2022-11-11</td><td><a href="/miui/diting/stable/V13.0.4.0.SLFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLFMIXM</td><td>12.0</td><td>6.9 GB</td><td>2022-10-26</td><td><a href="/miui/diting/stable/V13.0.4.0.SLFMIXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLFCNXM</td><td>13.0</td><td>5.9 GB</td><td>2022-12-30</td><td><a href="/miui/diting/stable beta/V14.0.4.0.TLFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLFRUXM</td><td>12.0</td><td>4.5 GB</td><td>2022-11-10</td><td><a href="/miui/diting/stable/V13.0.3.0.SLFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLFRUXM</td><td>12.0</td><td>6.3 GB</td><td>2022-11-01</td><td><a href="/miui/diting/stable/V13.0.3.0.SLFRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.11.0.SLFEUXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-07</td><td><a href="/miui/diting/stable/V13.0.11.0.SLFEUXM/">Download</a></td></tr>
