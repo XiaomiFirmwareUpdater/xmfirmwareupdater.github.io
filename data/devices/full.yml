@@ -6389,6 +6389,16 @@
     android: '12.0'
     miui: V13.0.6.0.SCUEUXM
 - branch: stable
+  date: '2021-10-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-14.10.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.5.0.RCUEUXM_782874946f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAEEAGlobal_V12.5.5.0.RCUEUXM_782874946f_11.0.zip
+  filename: fw_biloba_miui_BILOBAEEAGlobal_V12.5.5.0.RCUEUXM_782874946f_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.5.0.RCUEUXM
+- branch: stable
   date: '2023-02-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-13.02.2023/fw_biloba_miui_BILOBAGlobal_V13.0.10.0.SCUMIXM_6d65b4f5f7_12.0.zip
@@ -19389,6 +19399,46 @@
     android: '9.0'
     miui: 8.11.15
 - branch: weekly
+  date: '2018-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/weekly-09.11.2018/fw_dipper_miui_MI8Global_8.11.8_02b3c9c232_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/dipper/fw_dipper_miui_MI8Global_8.11.8_02b3c9c232_9.0.zip
+  filename: fw_dipper_miui_MI8Global_8.11.8_02b3c9c232_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 8.11.8
+- branch: weekly
+  date: '2018-11-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/weekly-09.11.2018/fw_dipper_miui_MI8_8.11.8_ed0c7d267f_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.8/dipper/fw_dipper_miui_MI8_8.11.8_ed0c7d267f_9.0.zip
+  filename: fw_dipper_miui_MI8_8.11.8_ed0c7d267f_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 8.11.8
+- branch: weekly
+  date: '2018-11-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/weekly-05.11.2018/fw_dipper_miui_MI8Global_8.11.2_b1f6a5b560_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.2/dipper/fw_dipper_miui_MI8Global_8.11.2_b1f6a5b560_9.0.zip
+  filename: fw_dipper_miui_MI8Global_8.11.2_b1f6a5b560_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 8.11.2
+- branch: weekly
+  date: '2018-11-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/weekly-05.11.2018/fw_dipper_miui_MI8_8.11.2_a3f89d8090_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.11.2/dipper/fw_dipper_miui_MI8_8.11.2_a3f89d8090_9.0.zip
+  filename: fw_dipper_miui_MI8_8.11.2_a3f89d8090_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 8.11.2
+- branch: weekly
   date: '2018-10-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/weekly-26.10.2018/fw_dipper_miui_MI8Global_8.10.25_f598ea6e8b_9.0.zip
@@ -19418,6 +19468,46 @@
   versions:
     android: '9.0'
     miui: 8.10.18
+- branch: weekly
+  date: '2018-10-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/weekly-13.10.2018/fw_dipper_miui_MI8Global_8.10.11_711e9be91c_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.11/dipper/fw_dipper_miui_MI8Global_8.10.11_711e9be91c_9.0.zip
+  filename: fw_dipper_miui_MI8Global_8.10.11_711e9be91c_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: 8.10.11
+- branch: weekly
+  date: '2018-10-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/weekly-13.10.2018/fw_dipper_miui_MI8_8.10.12_a130f162c2_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.12/dipper/fw_dipper_miui_MI8_8.10.12_a130f162c2_9.0.zip
+  filename: fw_dipper_miui_MI8_8.10.12_a130f162c2_9.0.zip
+  region: China
+  versions:
+    android: '9.0'
+    miui: 8.10.12
+- branch: stable
+  date: '2018-09-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/stable-19.09.2018/fw_dipper_miui_MI8Global_V10.0.2.0.OEAMIFH_f1b5f34c66_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/dipper/fw_dipper_miui_MI8Global_V10.0.2.0.OEAMIFH_f1b5f34c66_8.1.zip
+  filename: fw_dipper_miui_MI8Global_V10.0.2.0.OEAMIFH_f1b5f34c66_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: V10.0.2.0.OEAMIFH
+- branch: stable
+  date: '2018-09-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/stable-19.09.2018/fw_dipper_miui_MI8_V9.6.7.0.OEACNFD_8b117abdad_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/dipper/fw_dipper_miui_MI8_V9.6.7.0.OEACNFD_8b117abdad_8.1.zip
+  filename: fw_dipper_miui_MI8_V9.6.7.0.OEACNFD_8b117abdad_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: V9.6.7.0.OEACNFD
 - branch: stable
   date: '2018-09-17'
   downloads:
@@ -19498,6 +19588,16 @@
   versions:
     android: '8.1'
     miui: 8.8.24
+- branch: weekly
+  date: '2018-08-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/weekly-30.08.2018/fw_dipper_miui_MI8Global_8.8.30_1e559f40ab_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.8.30/dipper/fw_dipper_miui_MI8Global_8.8.30_1e559f40ab_8.1.zip
+  filename: fw_dipper_miui_MI8Global_8.8.30_1e559f40ab_8.1.zip
+  region: Global
+  versions:
+    android: '8.1'
+    miui: 8.8.30
 - branch: weekly
   date: '2018-08-28'
   downloads:
@@ -19628,6 +19728,16 @@
   versions:
     android: '8.1'
     miui: V9.5.11.0.OEACNFA
+- branch: weekly
+  date: '2018-07-09'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dipper/releases/download/untagged-c62e8917b56a81a925f3/fw_dipper_miui_MI8_8.7.6_b71008f75e_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.7.6/dipper/fw_dipper_miui_MI8_8.7.6_b71008f75e_8.1.zip
+  filename: fw_dipper_miui_MI8_8.7.6_b71008f75e_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.7.6
 - branch: weekly
   date: '2018-06-19'
   downloads:
