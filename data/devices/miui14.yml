@@ -35,6 +35,12 @@
   name: Redmi Note 10 Pro 5G/POCO X3 GT
   version: V14.0.1.0.TKPMIXM
 - android: '13.0'
+  codename: courbet
+  date: '2023-02-16'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKQEUXM/fw_courbet_miui_COURBETEEAGlobal_V14.0.1.0.TKQEUXM_e5d9d68368_13.0.zip
+  name: Mi 11 Lite 4G
+  version: V14.0.1.0.TKQEUXM
+- android: '13.0'
   codename: cupid
   date: '2023-01-29'
   download: https://bigota.d.miui.com/V14.0.5.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.5.0.TLCEUXM_2ea4643863_13.0.zip
