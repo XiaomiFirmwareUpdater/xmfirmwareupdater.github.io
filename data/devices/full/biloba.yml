@@ -149,16 +149,6 @@
     android: '12.0'
     miui: V13.0.6.0.SCUEUXM
 - branch: stable
-  date: '2021-10-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-14.10.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.5.0.RCUEUXM_782874946f_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAEEAGlobal_V12.5.5.0.RCUEUXM_782874946f_11.0.zip
-  filename: fw_biloba_miui_BILOBAEEAGlobal_V12.5.5.0.RCUEUXM_782874946f_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RCUEUXM
-- branch: stable
   date: '2023-02-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-13.02.2023/fw_biloba_miui_BILOBAGlobal_V13.0.10.0.SCUMIXM_6d65b4f5f7_12.0.zip
