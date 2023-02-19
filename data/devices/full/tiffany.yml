@@ -18,6 +18,16 @@
   versions:
     android: '8.1'
     miui: V11.0.3.0.ODBCNXM
+- branch: stable
+  date: '2018-11-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tiffany/releases/download/stable-19.11.2018/fw_tiffany_miui_MI5X_V10.1.3.0.NDBCNFI_26e7336b50_7.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/tiffany/fw_tiffany_miui_MI5X_V10.1.3.0.NDBCNFI_26e7336b50_7.1.zip
+  filename: fw_tiffany_miui_MI5X_V10.1.3.0.NDBCNFI_26e7336b50_7.1.zip
+  region: China
+  versions:
+    android: '7.1'
+    miui: V10.1.3.0.NDBCNFI
 - branch: weekly
   date: '2018-11-05'
   downloads:
