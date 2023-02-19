@@ -1812,6 +1812,12 @@
   version: V13.0.7.0.RGFEUXM
 - android: '11.0'
   codename: frost
+  date: '2023-02-19'
+  download: https://bigota.d.miui.com/V13.0.8.0.RGFEUXM/fw_frost_miui_FROSTEEAGlobal_V13.0.8.0.RGFEUXM_aa090a8646_11.0.zip
+  name: POCO C40
+  version: V13.0.8.0.RGFEUXM
+- android: '11.0'
+  codename: frost
   date: '2022-09-13'
   download: https://bigota.d.miui.com/V13.0.6.0.RGFEUXM/fw_frost_miui_FROSTEEAGlobal_V13.0.6.0.RGFEUXM_736bf1d8f9_11.0.zip
   name: POCO C40
