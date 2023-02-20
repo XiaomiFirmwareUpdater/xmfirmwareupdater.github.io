@@ -29,12 +29,12 @@
     android: '12.0'
     miui: V13.0.9.0.SLSEUXM
 - branch: stable
-  date: '2023-01-01'
+  date: '2023-02-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-01.01.2023/fw_light_miui_LIGHTINGlobal_V13.0.7.0.SLSINXM_d29d71c388_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHTINGlobal_V13.0.7.0.SLSINXM_d29d71c388_12.0.zip
-  filename: fw_light_miui_LIGHTINGlobal_V13.0.7.0.SLSINXM_d29d71c388_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-20.02.2023/fw_light_miui_LIGHTINGlobal_V13.0.8.0.SLSINXM_6fa46ff777_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHTINGlobal_V13.0.8.0.SLSINXM_6fa46ff777_12.0.zip
+  filename: fw_light_miui_LIGHTINGlobal_V13.0.8.0.SLSINXM_6fa46ff777_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SLSINXM
+    miui: V13.0.8.0.SLSINXM
