@@ -109,6 +109,16 @@
     android: '11.0'
     miui: V12.5.1.0.RKGEUXM
 - branch: stable
+  date: '2023-02-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-20.02.2023/fw_mojito_miui_MOJITOINGlobal_V14.0.1.0.SKGINXM_7a7766efbc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOINGlobal_V14.0.1.0.SKGINXM_7a7766efbc_12.0.zip
+  filename: fw_mojito_miui_MOJITOINGlobal_V14.0.1.0.SKGINXM_7a7766efbc_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V14.0.1.0.SKGINXM
+- branch: stable
   date: '2022-12-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-19.12.2022/fw_mojito_miui_MOJITOINGlobal_V13.0.4.0.SKGINXM_b30aeb221f_12.0.zip

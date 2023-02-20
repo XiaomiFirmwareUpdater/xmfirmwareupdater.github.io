@@ -219,26 +219,6 @@
     android: '10.0'
     miui: V12.0.1.0.QJZMIXM
 - branch: stable
-  date: '2021-11-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-08.11.2021/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.4.0.RJZEUXM_9a0a5fa02b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.4.0.RJZEUXM_9a0a5fa02b_11.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.5.4.0.RJZEUXM_9a0a5fa02b_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.4.0.RJZEUXM
-- branch: stable
-  date: '2021-11-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-08.11.2021/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.2.0.RJZMIXM_43ee49dc19_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.2.0.RJZMIXM_43ee49dc19_11.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V12.5.2.0.RJZMIXM_43ee49dc19_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.2.0.RJZMIXM
-- branch: stable
   date: '2022-04-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-08.04.2022/fw_joyeuse_miui_JOYEUSEGlobal_V12.5.5.0.RJZMIXM_609b6fc150_11.0.zip
@@ -268,16 +248,6 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SJZEUXM
-- branch: stable
-  date: '2023-02-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-07.02.2023/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.4.0.SJZMIXM_b3757c16b2_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.4.0.SJZMIXM_b3757c16b2_12.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V13.0.4.0.SJZMIXM_b3757c16b2_12.0.zip
-  region: Global
-  versions:
-    android: '12.0'
-    miui: V13.0.4.0.SJZMIXM
 - branch: stable
   date: '2022-06-06'
   downloads:

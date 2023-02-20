@@ -78,6 +78,12 @@
   version: V14.0.4.0.TLGCNXM
 - android: '13.0'
   codename: diting
+  date: '2023-02-20'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLFMIXM/fw_diting_miui_DITINGGlobal_V14.0.1.0.TLFMIXM_2ed1b1d4bf_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.1.0.TLFMIXM
+- android: '13.0'
+  codename: diting
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.5.0.TLFCNXM/fw_diting_miui_DITING_V14.0.5.0.TLFCNXM_997a43704e_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -172,6 +178,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
   name: Xiaomi 12S
   version: V14.0.5.0.TLTCNXM
+- android: '12.0'
+  codename: mojito
+  date: '2023-02-20'
+  download: https://bigota.d.miui.com/V14.0.1.0.SKGINXM/fw_mojito_miui_MOJITOINGlobal_V14.0.1.0.SKGINXM_7a7766efbc_12.0.zip
+  name: Redmi Note 10
+  version: V14.0.1.0.SKGINXM
 - android: '12.0'
   codename: mojito
   date: '2023-02-08'
