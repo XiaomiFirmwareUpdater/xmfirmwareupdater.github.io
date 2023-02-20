@@ -2303,6 +2303,12 @@
   name: Redmi Note 9 Pro
   version: V13.0.2.0.SJZEUXM
 - android: '12.0'
+  codename: joyeuse
+  date: '2023-02-07'
+  download: https://bigota.d.miui.com/V13.0.4.0.SJZMIXM/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.4.0.SJZMIXM_b3757c16b2_12.0.zip
+  name: Redmi Note 9 Pro
+  version: V13.0.4.0.SJZMIXM
+- android: '12.0'
   codename: lancelot
   date: '2022-12-26'
   download: https://bigota.d.miui.com/V13.0.3.0.SJCINXM/fw_lancelot_miui_LANCELOTINGlobal_V13.0.3.0.SJCINXM_c4711ab008_12.0.zip

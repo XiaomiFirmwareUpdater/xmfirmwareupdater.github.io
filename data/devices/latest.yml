@@ -1859,15 +1859,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2023-01-10'
+  date: '2023-02-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-10.01.2023/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.2.0.SJZMIXM_a1760276ea_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.2.0.SJZMIXM_a1760276ea_12.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEGlobal_V13.0.2.0.SJZMIXM_a1760276ea_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-07.02.2023/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.4.0.SJZMIXM_b3757c16b2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.4.0.SJZMIXM_b3757c16b2_12.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V13.0.4.0.SJZMIXM_b3757c16b2_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJZMIXM
+    miui: V13.0.4.0.SJZMIXM
 - branch: stable
   date: '2023-01-16'
   downloads:
