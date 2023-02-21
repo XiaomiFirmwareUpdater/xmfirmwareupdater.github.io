@@ -52,7 +52,8 @@ permalink: /archive/miui/bomb/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10X Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-10-28</td><td><a href="/miui/bomb/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
+                <tr><td>Redmi 10X Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SJLCNXM</td><td>12.0</td><td>3.5 GB</td><td>2023-02-21</td><td><a href="/miui/bomb/stable beta/V13.0.5.0.SJLCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-10-28</td><td><a href="/miui/bomb/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SJLCNXM</td><td>12.0</td><td>3.5 GB</td><td>2022-10-26</td><td><a href="/miui/bomb/stable/V13.0.4.0.SJLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SJLCNXM</td><td>12.0</td><td>5.3 GB</td><td>2022-10-17</td><td><a href="/miui/bomb/stable/V13.0.4.0.SJLCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.17.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-10-21</td><td><a href="/miui/bomb/public beta/V13.1.22.10.17.DEV/">Download</a></td></tr>
