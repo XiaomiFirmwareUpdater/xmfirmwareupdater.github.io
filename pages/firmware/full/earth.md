@@ -1,7 +1,7 @@
 ---
-title: Redmi 12C (earth) Firmware Downloads
+title: Redmi 12C/POCO C55 (earth) Firmware Downloads
 layout: download
-name: Redmi 12C
+name: Redmi 12C/POCO C55
 codename: earth
 permalink: /archive/firmware/earth/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/earth/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/earth/">Redmi 12C</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/earth/">Redmi 12C/POCO C55</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

@@ -1406,7 +1406,7 @@
   codename: earth
   date: '2023-01-19'
   download: https://bigota.d.miui.com/V13.0.4.0.SCVCNXM/fw_earth_miui_EARTH_V13.0.4.0.SCVCNXM_de102f96ee_12.0.zip
-  name: Redmi 12C
+  name: Redmi 12C/POCO C55
   version: V13.0.4.0.SCVCNXM
 - android: '11.0'
   codename: elish
