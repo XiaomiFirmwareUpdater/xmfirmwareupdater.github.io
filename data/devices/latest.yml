@@ -2319,15 +2319,15 @@
     android: '12.0'
     miui: V13.0.3.0.SJKMIXM
 - branch: stable
-  date: '2022-11-04'
+  date: '2023-02-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-04.11.2022/fw_lmi_miui_LMI_V13.0.6.0.SJKCNXM_0962de9501_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMI_V13.0.6.0.SJKCNXM_0962de9501_12.0.zip
-  filename: fw_lmi_miui_LMI_V13.0.6.0.SJKCNXM_0962de9501_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-23.02.2023/fw_lmi_miui_LMI_V14.0.1.0.SJKCNXM_f138ab23ac_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lmi/fw_lmi_miui_LMI_V14.0.1.0.SJKCNXM_f138ab23ac_12.0.zip
+  filename: fw_lmi_miui_LMI_V14.0.1.0.SJKCNXM_f138ab23ac_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SJKCNXM
+    miui: V14.0.1.0.SJKCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 22 Feb 2023 19:37:16 +0900</pubDate>
+  <pubDate>Thu, 23 Feb 2023 07:18:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V14.0.1.0.SJKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Thu, 23 Feb 2023 07:18:06 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 12C/POCO C55 (earth) - V13.0.5.0.SCVCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.1.0.TLOMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
     <pubDate>Sun, 19 Feb 2023 20:02:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 5G (renoir) - V14.0.3.0.TKIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
-    <pubDate>Sun, 19 Feb 2023 20:01:52 +0900</pubDate>
   </item>
     </channel>
 </rss>

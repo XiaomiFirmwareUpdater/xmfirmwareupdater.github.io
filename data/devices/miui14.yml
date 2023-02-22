@@ -166,6 +166,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKOMIXM/fw_lisa_miui_LISAGlobal_V14.0.2.0.TKOMIXM_f89d09aa1c_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.2.0.TKOMIXM
+- android: '12.0'
+  codename: lmi
+  date: '2023-02-22'
+  download: https://bigota.d.miui.com/V14.0.1.0.SJKCNXM/fw_lmi_miui_LMI_V14.0.1.0.SJKCNXM_f138ab23ac_12.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: V14.0.1.0.SJKCNXM
 - android: '13.0'
   codename: matisse
   date: '2023-01-16'
