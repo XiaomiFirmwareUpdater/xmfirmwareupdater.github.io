@@ -72,6 +72,7 @@ permalink: /miui/redwood/
 <tr><td>POCO X5 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.SMSTRXM</td><td>12.0</td><td>4.5 GB</td><td>2023-02-06</td><td><a href="/miui/redwood/stable/V14.0.1.0.SMSTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.SMSTWXM</td><td>12.0</td><td>5.8 GB</td><td>2022-12-29</td><td><a href="/miui/redwood/stable/V14.0.1.0.SMSTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.SMSTWXM</td><td>12.0</td><td>4.4 GB</td><td>2023-02-13</td><td><a href="/miui/redwood/stable/V14.0.1.0.SMSTWXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SMSTWXM</td><td>12.0</td><td>4.5 GB</td><td>2023-02-23</td><td><a href="/miui/redwood/stable beta/V14.0.2.0.SMSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
