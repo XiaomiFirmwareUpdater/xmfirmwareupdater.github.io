@@ -72,7 +72,7 @@ permalink: /miui/gauguin/
 <tr><td>Mi 10T Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SJSTRXM</td><td>12.0</td><td>3.2 GB</td><td>2023-02-16</td><td><a href="/miui/gauguin/stable beta/V13.0.6.0.SJSTRXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SJSTWXM</td><td>12.0</td><td>4.4 GB</td><td>2022-10-19</td><td><a href="/miui/gauguin/stable/V13.0.4.0.SJSTWXM/">Download</a></td></tr>
 <tr><td>Mi 10T Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SJSTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-11-01</td><td><a href="/miui/gauguin/stable/V13.0.4.0.SJSTWXM/">Download</a></td></tr>
-<tr><td>Mi 10T Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.5.0.RJSTWXM</td><td>11.0</td><td>2.8 GB</td><td>2022-04-12</td><td><a href="/miui/gauguin/stable beta/V12.5.5.0.RJSTWXM/">Download</a></td></tr>
+<tr><td>Mi 10T Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SJSTWXM</td><td>12.0</td><td>3.2 GB</td><td>2023-02-21</td><td><a href="/miui/gauguin/stable beta/V13.0.6.0.SJSTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
