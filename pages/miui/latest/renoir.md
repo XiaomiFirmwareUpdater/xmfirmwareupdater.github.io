@@ -71,6 +71,7 @@ permalink: /miui/renoir/
 <tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKITWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-12-28</td><td><a href="/miui/renoir/stable/V13.0.5.0.SKITWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Japan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKIJPXM</td><td>13.0</td><td>4.5 GB</td><td>2023-02-17</td><td><a href="/miui/renoir/stable beta/V14.0.1.0.TKIJPXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKIRUXM</td><td>13.0</td><td>4.6 GB</td><td>2023-02-14</td><td><a href="/miui/renoir/stable beta/V14.0.3.0.TKIRUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKITWXM</td><td>13.0</td><td>4.5 GB</td><td>2023-02-23</td><td><a href="/miui/renoir/stable beta/V14.0.2.0.TKITWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
