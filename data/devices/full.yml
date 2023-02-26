@@ -30029,6 +30029,16 @@
     android: '11.0'
     miui: V12.5.9.0.RJQMIXM
 - branch: stable
+  date: '2023-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-26.02.2023/fw_lime_miui_LIME_V14.0.1.0.SJQCNXM_06f239a125_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lime/fw_lime_miui_LIME_V14.0.1.0.SJQCNXM_06f239a125_12.0.zip
+  filename: fw_lime_miui_LIME_V14.0.1.0.SJQCNXM_06f239a125_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V14.0.1.0.SJQCNXM
+- branch: stable
   date: '2022-08-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-25.08.2022/fw_lime_miui_LIME_V13.0.2.0.SJQCNXM_83509005a6_12.0.zip
@@ -33539,6 +33549,16 @@
     android: '11.0'
     miui: V12.5.6.0.RKGINXM
 - branch: stable
+  date: '2023-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-26.02.2023/fw_mojito_miui_MOJITOEEAGlobal_V14.0.2.0.SKGEUXM_25cf0c705f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOEEAGlobal_V14.0.2.0.SKGEUXM_25cf0c705f_12.0.zip
+  filename: fw_mojito_miui_MOJITOEEAGlobal_V14.0.2.0.SKGEUXM_25cf0c705f_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V14.0.2.0.SKGEUXM
+- branch: stable
   date: '2022-01-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-25.01.2022/fw_mojito_miui_MOJITOEEAGlobal_V12.5.6.0.RKGEUXM_dd377d8d70_11.0.zip
@@ -33858,6 +33878,16 @@
   versions:
     android: '12.0'
     miui: V13.0.3.0.SKVCNXM
+- branch: stable
+  date: '2023-02-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mona/releases/download/stable-26.02.2023/fw_mona_miui_MONA_V14.0.2.0.TKVCNXM_ad8252fa6b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mona/fw_mona_miui_MONA_V14.0.2.0.TKVCNXM_ad8252fa6b_13.0.zip
+  filename: fw_mona_miui_MONA_V14.0.2.0.TKVCNXM_ad8252fa6b_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKVCNXM
 - branch: stable
   date: '2021-12-20'
   downloads:
