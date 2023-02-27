@@ -2229,15 +2229,15 @@
     android: '13.0'
     miui: V14.0.2.0.TKOMIXM
 - branch: stable
-  date: '2023-01-16'
+  date: '2023-02-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-16.01.2023/fw_lisa_miui_LISA_V14.0.5.0.TKOCNXM_25171e94ec_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISA_V14.0.5.0.TKOCNXM_25171e94ec_13.0.zip
-  filename: fw_lisa_miui_LISA_V14.0.5.0.TKOCNXM_25171e94ec_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-27.02.2023/fw_lisa_miui_LISA_V14.0.6.0.TKOCNXM_65ea8f4e45_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISA_V14.0.6.0.TKOCNXM_65ea8f4e45_13.0.zip
+  filename: fw_lisa_miui_LISA_V14.0.6.0.TKOCNXM_65ea8f4e45_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKOCNXM
+    miui: V14.0.6.0.TKOCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -2419,15 +2419,15 @@
     android: '13.0'
     miui: V14.0.9.0.TLKCNXM
 - branch: stable
-  date: '2023-01-14'
+  date: '2023-02-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-15.01.2023/fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mayfly/fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
-  filename: fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-27.02.2023/fw_mayfly_miui_MAYFLY_V14.0.7.0.TLTCNXM_99ecf04ccb_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mayfly/fw_mayfly_miui_MAYFLY_V14.0.7.0.TLTCNXM_99ecf04ccb_13.0.zip
+  filename: fw_mayfly_miui_MAYFLY_V14.0.7.0.TLTCNXM_99ecf04ccb_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TLTCNXM
+    miui: V14.0.7.0.TLTCNXM
 - branch: stable
   date: '2022-10-28'
   downloads:

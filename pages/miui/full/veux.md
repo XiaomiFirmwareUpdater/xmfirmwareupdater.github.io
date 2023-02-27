@@ -54,7 +54,8 @@ permalink: /archive/miui/veux/
                 <tbody>
                 <tr><td>Redmi Note 11 Pro 5G Japan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKCJPXM</td><td>12.0</td><td>3.3 GB</td><td>2023-02-16</td><td><a href="/miui/veux/stable/V13.0.2.0.SKCJPXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G Japan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKCJPXM</td><td>12.0</td><td>5.6 GB</td><td>2023-01-11</td><td><a href="/miui/veux/stable/V13.0.2.0.SKCJPXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11E Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKCCNXM</td><td>12.0</td><td>4.4 GB</td><td>2023-02-15</td><td><a href="/miui/veux/stable beta/V13.0.4.0.SKCCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11E Pro China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKCCNXM</td><td>12.0</td><td>4.4 GB</td><td>2023-02-15</td><td><a href="/miui/veux/stable/V13.0.4.0.SKCCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11E Pro China</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKCCNXM</td><td>12.0</td><td>5.8 GB</td><td>2023-02-01</td><td><a href="/miui/veux/stable/V13.0.4.0.SKCCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKCRUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-02-04</td><td><a href="/miui/veux/stable/V13.0.4.0.SKCRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKCRUXM</td><td>12.0</td><td>5.6 GB</td><td>2023-01-11</td><td><a href="/miui/veux/stable/V13.0.4.0.SKCRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 5G / POCO X4 Pro 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKCTRXM</td><td>12.0</td><td>3.3 GB</td><td>2023-02-01</td><td><a href="/miui/veux/stable/V13.0.2.0.SKCTRXM/">Download</a></td></tr>

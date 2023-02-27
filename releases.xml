@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 27 Feb 2023 07:40:16 +0900</pubDate>
+  <pubDate>Mon, 27 Feb 2023 14:55:26 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12S (mayfly) - V14.0.7.0.TLTCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mayfly</link>
+    <pubDate>Mon, 27 Feb 2023 14:55:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.6.0.TKOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Mon, 27 Feb 2023 14:04:35 +0900</pubDate>
+  </item>
     <item>
     <title>POCO C40 (frost) - V13.0.17.0.RGFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/frost</link>
@@ -95,16 +105,6 @@
     <title>Mi 11 (venus) - V13.0.6.0.SKBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
     <pubDate>Sun, 19 Feb 2023 20:05:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V14.0.1.0.TLBINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Sun, 19 Feb 2023 20:04:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V13.0.11.0.SMOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ruby</link>
-    <pubDate>Sun, 19 Feb 2023 20:04:20 +0900</pubDate>
   </item>
     </channel>
 </rss>
