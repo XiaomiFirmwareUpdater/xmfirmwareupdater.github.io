@@ -599,6 +599,16 @@
     android: '11.0'
     miui: V12.5.3.0.RKHCNXM
 - branch: stable
+  date: '2023-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-27.02.2023/fw_alioth_miui_ALIOTHEEAGlobal_V13.0.11.0.SKHEUXM_7a21900e70_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHEEAGlobal_V13.0.11.0.SKHEUXM_7a21900e70_12.0.zip
+  filename: fw_alioth_miui_ALIOTHEEAGlobal_V13.0.11.0.SKHEUXM_7a21900e70_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SKHEUXM
+- branch: stable
   date: '2021-04-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-26.04.2021/fw_alioth_miui_ALIOTHEEAGlobal_V12.0.5.0.RKHEUXM_07e1020d55_11.0.zip
@@ -29438,6 +29448,16 @@
   versions:
     android: '12.0'
     miui: V13.0.17.0.SLSCNXM
+- branch: stable
+  date: '2023-02-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-27.02.2023/fw_light_miui_LIGHT_V13.0.18.0.SLSCNXM_c772466d38_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHT_V13.0.18.0.SLSCNXM_c772466d38_12.0.zip
+  filename: fw_light_miui_LIGHT_V13.0.18.0.SLSCNXM_c772466d38_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.18.0.SLSCNXM
 - branch: stable
   date: '2022-03-25'
   downloads:
