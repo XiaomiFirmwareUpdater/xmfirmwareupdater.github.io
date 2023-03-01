@@ -65,6 +65,12 @@
   name: Xiaomi 12
   version: V14.0.4.0.TLCCNXM
 - android: '13.0'
+  codename: cupid
+  date: '2023-03-01'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLCCNXM/fw_cupid_miui_CUPID_V14.0.6.0.TLCCNXM_2cc4563246_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.6.0.TLCCNXM
+- android: '13.0'
   codename: daumier
   date: '2023-02-27'
   download: https://bigota.d.miui.com/V14.0.7.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.7.0.TLGCNXM_d53e0f5903_13.0.zip
@@ -100,6 +106,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.6.0.TLFEUXM_a9244b654b_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V14.0.6.0.TLFEUXM
+- android: '13.0'
+  codename: diting
+  date: '2023-03-01'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.7.0.TLFEUXM_0121af0aa5_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.7.0.TLFEUXM
 - android: '13.0'
   codename: fuxi
   date: '2022-12-14'
