@@ -53,6 +53,7 @@ permalink: /archive/miui/redwood/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.SMSCNXM</td><td>12.0</td><td>5.5 GB</td><td>2023-03-02</td><td><a href="/miui/redwood/stable beta/V14.0.6.0.SMSCNXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.SMSTRXM</td><td>12.0</td><td>4.5 GB</td><td>2023-03-02</td><td><a href="/miui/redwood/stable beta/V14.0.3.0.SMSTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.SMSMIXM</td><td>12.0</td><td>4.5 GB</td><td>2023-03-01</td><td><a href="/miui/redwood/stable beta/V14.0.6.0.SMSMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.SMSEUXM</td><td>12.0</td><td>4.5 GB</td><td>2023-03-01</td><td><a href="/miui/redwood/stable beta/V14.0.4.0.SMSEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.SMSINXM</td><td>12.0</td><td>4.3 GB</td><td>2023-03-01</td><td><a href="/miui/redwood/stable beta/V14.0.8.0.SMSINXM/">Download</a></td></tr>
