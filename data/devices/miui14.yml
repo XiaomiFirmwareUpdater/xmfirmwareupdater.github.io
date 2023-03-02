@@ -269,6 +269,12 @@
   name: Redmi K60/POCO F5 Pro
   version: V14.0.18.0.TMNCNXM
 - android: '13.0'
+  codename: mondrian
+  date: '2023-03-02'
+  download: https://bigota.d.miui.com/V14.0.21.0.TMNCNXM/fw_mondrian_miui_MONDRIAN_V14.0.21.0.TMNCNXM_daa2975e16_13.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: V14.0.21.0.TMNCNXM
+- android: '13.0'
   codename: munch
   date: '2023-01-31'
   download: https://bigota.d.miui.com/V14.0.1.0.TLMMIXM/fw_munch_miui_MUNCHGlobal_V14.0.1.0.TLMMIXM_929f683c42_13.0.zip
