@@ -108,6 +108,12 @@
   version: V14.0.6.0.TLFEUXM
 - android: '13.0'
   codename: diting
+  date: '2023-03-02'
+  download: https://bigota.d.miui.com/V14.0.6.1.TLFCNXM/fw_diting_miui_DITING_V14.0.6.1.TLFCNXM_9a28fa5a00_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.6.1.TLFCNXM
+- android: '13.0'
+  codename: diting
   date: '2023-03-01'
   download: https://bigota.d.miui.com/V14.0.7.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.7.0.TLFEUXM_0121af0aa5_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
