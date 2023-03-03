@@ -52,9 +52,9 @@ permalink: /miui/vayu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X3 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SJUEUXM</td><td>12.0</td><td>5.3 GB</td><td>2022-12-14</td><td><a href="/miui/vayu/stable/V13.0.6.0.SJUEUXM/">Download</a></td></tr>
-<tr><td>POCO X3 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SJUEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-12-22</td><td><a href="/miui/vayu/stable/V13.0.6.0.SJUEUXM/">Download</a></td></tr>
-<tr><td>POCO X3 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TJUEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-16</td><td><a href="/miui/vayu/stable beta/V14.0.1.0.TJUEUXM/">Download</a></td></tr>
+                <tr><td>POCO X3 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TJUEUXM</td><td>13.0</td><td>5.5 GB</td><td>2023-02-07</td><td><a href="/miui/vayu/stable/V14.0.1.0.TJUEUXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TJUEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-16</td><td><a href="/miui/vayu/stable/V14.0.1.0.TJUEUXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SJUEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-11-06</td><td><a href="/miui/vayu/stable beta/V13.0.4.0.SJUEUXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TJUMIXM</td><td>13.0</td><td>5.5 GB</td><td>2023-01-10</td><td><a href="/miui/vayu/stable/V14.0.1.0.TJUMIXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TJUMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-01-30</td><td><a href="/miui/vayu/stable/V14.0.1.0.TJUMIXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.9.0.SJUMIXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-10</td><td><a href="/miui/vayu/stable beta/V13.0.9.0.SJUMIXM/">Download</a></td></tr>

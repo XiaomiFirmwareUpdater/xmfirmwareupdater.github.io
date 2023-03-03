@@ -53,6 +53,7 @@ permalink: /archive/miui/pissarro/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 11 Pro+ 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKTRUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-25</td><td><a href="/miui/pissarro/stable beta/V14.0.1.0.TKTRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKTCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-02-25</td><td><a href="/miui/pissarro/stable beta/V14.0.4.0.TKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKTTRXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-24</td><td><a href="/miui/pissarro/stable beta/V14.0.1.0.TKTTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKTINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-14</td><td><a href="/miui/pissarro/stable beta/V14.0.1.0.TKTINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKTEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-02-08</td><td><a href="/miui/pissarro/stable/V14.0.2.0.TKTEUXM/">Download</a></td></tr>
@@ -156,10 +157,10 @@ permalink: /archive/miui/pissarro/
 <tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RKTINXM</td><td>11.0</td><td>2.9 GB</td><td>2022-01-19</td><td><a href="/miui/pissarro/stable/V12.5.2.0.RKTINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKTINXM</td><td>11.0</td><td>4.1 GB</td><td>2021-12-27</td><td><a href="/miui/pissarro/stable/V12.5.2.0.RKTINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11i 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.3.0.RKTINFK</td><td>11.0</td><td>2.9 GB</td><td>2022-01-19</td><td><a href="/miui/pissarro/stable beta/V12.5.3.0.RKTINFK/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.14.0.RKTCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-12-25</td><td><a href="/miui/pissarro/stable/V12.5.14.0.RKTCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V12.5.14.0.RKTCNXM</td><td>11.0</td><td>5.0 GB</td><td>2021-12-21</td><td><a href="/miui/pissarro/stable/V12.5.14.0.RKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RKTCNXM</td><td>11.0</td><td>335 Bytes</td><td>2022-01-12</td><td><a href="/miui/pissarro/stable/V12.5.3.0.RKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RKTCNXM</td><td>11.0</td><td>313 Bytes</td><td>2021-10-28</td><td><a href="/miui/pissarro/stable/V12.5.3.0.RKTCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.14.0.RKTCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-12-25</td><td><a href="/miui/pissarro/stable/V12.5.14.0.RKTCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V12.5.14.0.RKTCNXM</td><td>11.0</td><td>5.0 GB</td><td>2021-12-21</td><td><a href="/miui/pissarro/stable/V12.5.14.0.RKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V12.5.12.0.RKTCNXM</td><td>11.0</td><td>3.7 GB</td><td>2021-12-11</td><td><a href="/miui/pissarro/stable/V12.5.12.0.RKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V12.5.12.0.RKTCNXM</td><td>11.0</td><td>5.0 GB</td><td>2021-12-09</td><td><a href="/miui/pissarro/stable/V12.5.12.0.RKTCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Weekly</td><td>Recovery</td><td>21.12.8</td><td>11.0</td><td>3.6 GB</td><td>2021-12-09</td><td><a href="/miui/pissarro/weekly/21.12.8/">Download</a></td></tr>
