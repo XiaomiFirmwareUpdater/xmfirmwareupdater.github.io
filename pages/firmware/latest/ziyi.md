@@ -1,7 +1,7 @@
 ---
-title: Xiaomi Civi 2/13 Lite (ziyi) Firmware Downloads
+title: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) Firmware Downloads
 layout: download
-name: Xiaomi Civi 2/13 Lite
+name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
 codename: ziyi
 permalink: /firmware/ziyi/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/ziyi/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/ziyi/">Xiaomi Civi 2/13 Lite</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/ziyi/">Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

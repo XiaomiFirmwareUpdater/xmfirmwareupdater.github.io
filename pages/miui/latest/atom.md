@@ -52,11 +52,11 @@ permalink: /miui/atom/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SJHCNXM</td><td>12.0</td><td>5.3 GB</td><td>2022-11-01</td><td><a href="/miui/atom/stable/V13.0.5.0.SJHCNXM/">Download</a></td></tr>
-<tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SJHCNXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-10</td><td><a href="/miui/atom/stable/V13.0.5.0.SJHCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SJHCNXM</td><td>12.0</td><td>5.2 GB</td><td>2023-02-07</td><td><a href="/miui/atom/stable/V13.0.6.0.SJHCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X 5G China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SJHCNXM</td><td>12.0</td><td>3.4 GB</td><td>2023-02-16</td><td><a href="/miui/atom/stable/V13.0.6.0.SJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Fastboot</td><td>22.3.29</td><td>12.0</td><td>5.4 GB</td><td>2022-03-29</td><td><a href="/miui/atom/weekly/22.3.29/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-10-28</td><td><a href="/miui/atom/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
-<tr><td>Redmi 10X 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SJHCNXM</td><td>12.0</td><td>3.4 GB</td><td>2023-02-16</td><td><a href="/miui/atom/stable beta/V13.0.6.0.SJHCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10X 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SJHCNXM</td><td>12.0</td><td>3.4 GB</td><td>2022-08-03</td><td><a href="/miui/atom/stable beta/V13.0.3.0.SJHCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10X 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.2</td><td>11.0</td><td>3.9 GB</td><td>2022-03-03</td><td><a href="/miui/atom/weekly/22.3.2/">Download</a></td></tr>
 
                 </tbody>

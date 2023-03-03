@@ -71,6 +71,12 @@
   name: Xiaomi 12
   version: V14.0.6.0.TLCCNXM
 - android: '13.0'
+  codename: dagu
+  date: '2023-03-03'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLZCNXM/fw_dagu_miui_DAGU_V14.0.4.0.TLZCNXM_e71b15f4c6_13.0.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: V14.0.4.0.TLZCNXM
+- android: '13.0'
   codename: daumier
   date: '2023-02-27'
   download: https://bigota.d.miui.com/V14.0.7.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.7.0.TLGCNXM_d53e0f5903_13.0.zip
@@ -524,7 +530,7 @@
   codename: ziyi
   date: '2023-02-03'
   download: https://bigota.d.miui.com/V14.0.9.0.TLLCNXM/fw_ziyi_miui_ZIYI_V14.0.9.0.TLLCNXM_f68f9327af_13.0.zip
-  name: Xiaomi Civi 2/13 Lite
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.9.0.TLLCNXM
 - android: '13.0'
   codename: zizhan
