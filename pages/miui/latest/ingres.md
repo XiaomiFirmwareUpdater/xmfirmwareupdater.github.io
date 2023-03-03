@@ -70,6 +70,7 @@ permalink: /miui/ingres/
 <tr><td>POCO F4 GT Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLJTRXM</td><td>12.0</td><td>4.2 GB</td><td>2022-07-28</td><td><a href="/miui/ingres/stable/V13.0.4.0.SLJTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLJTWXM</td><td>12.0</td><td>5.0 GB</td><td>2022-06-28</td><td><a href="/miui/ingres/stable/V13.0.4.0.SLJTWXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLJTWXM</td><td>12.0</td><td>4.1 GB</td><td>2022-07-11</td><td><a href="/miui/ingres/stable/V13.0.4.0.SLJTWXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLJIDXM</td><td>13.0</td><td>4.7 GB</td><td>2023-02-28</td><td><a href="/miui/ingres/stable beta/V14.0.1.0.TLJIDXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLJTRXM</td><td>13.0</td><td>4.7 GB</td><td>2023-02-22</td><td><a href="/miui/ingres/stable beta/V14.0.1.0.TLJTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLJTWXM</td><td>13.0</td><td>4.6 GB</td><td>2023-02-08</td><td><a href="/miui/ingres/stable beta/V14.0.1.0.TLJTWXM/">Download</a></td></tr>
 
