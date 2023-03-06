@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 06 Mar 2023 13:54:47 +0900</pubDate>
+  <pubDate>Tue, 07 Mar 2023 01:38:01 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.1.0.TKJINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
+    <pubDate>Tue, 07 Mar 2023 01:38:01 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50 Pro (matisse) - V14.0.10.0.TLKCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V14.0.1.0.SJQCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
     <pubDate>Sun, 26 Feb 2023 07:26:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V13.0.7.0.SKHMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Thu, 23 Feb 2023 19:34:09 +0900</pubDate>
   </item>
     </channel>
 </rss>

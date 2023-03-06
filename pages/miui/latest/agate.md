@@ -68,6 +68,7 @@ permalink: /miui/agate/
 <tr><td>Xiaomi 11T Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKWTRXM</td><td>12.0</td><td>3.4 GB</td><td>2022-08-25</td><td><a href="/miui/agate/stable/V13.0.3.0.SKWTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKWTWXM</td><td>12.0</td><td>5.2 GB</td><td>2022-07-05</td><td><a href="/miui/agate/stable/V13.0.3.0.SKWTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKWTWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-15</td><td><a href="/miui/agate/stable/V13.0.3.0.SKWTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKWTRXM</td><td>13.0</td><td>3.8 GB</td><td>2023-03-02</td><td><a href="/miui/agate/stable beta/V14.0.1.0.TKWTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
