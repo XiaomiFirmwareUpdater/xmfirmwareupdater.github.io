@@ -233,6 +233,12 @@
   name: Redmi K50 Pro
   version: V14.0.9.0.TLKCNXM
 - android: '13.0'
+  codename: matisse
+  date: '2023-03-06'
+  download: https://bigota.d.miui.com/V14.0.10.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.10.0.TLKCNXM_9052db3139_13.0.zip
+  name: Redmi K50 Pro
+  version: V14.0.10.0.TLKCNXM
+- android: '13.0'
   codename: mayfly
   date: '2023-02-27'
   download: https://bigota.d.miui.com/V14.0.7.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.7.0.TLTCNXM_99ecf04ccb_13.0.zip
