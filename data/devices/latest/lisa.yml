@@ -39,12 +39,12 @@
     android: '13.0'
     miui: V14.0.6.0.TKOEUXM
 - branch: stable
-  date: '2023-02-12'
+  date: '2023-03-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-12.02.2023/fw_lisa_miui_LISAINGlobal_V13.0.10.0.SKOINXM_0048418308_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lisa/fw_lisa_miui_LISAINGlobal_V13.0.10.0.SKOINXM_0048418308_12.0.zip
-  filename: fw_lisa_miui_LISAINGlobal_V13.0.10.0.SKOINXM_0048418308_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-07.03.2023/fw_lisa_miui_LISAINGlobal_V14.0.4.0.TKOINXM_fb1eea8cc0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISAINGlobal_V14.0.4.0.TKOINXM_fb1eea8cc0_13.0.zip
+  filename: fw_lisa_miui_LISAINGlobal_V14.0.4.0.TKOINXM_fb1eea8cc0_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.10.0.SKOINXM
+    android: '13.0'
+    miui: V14.0.4.0.TKOINXM
