@@ -54,9 +54,9 @@ permalink: /miui/rosemary/
                 <tbody>
                 <tr><td>Redmi Note 10S EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SKLEUXM</td><td>12.0</td><td>6.1 GB</td><td>2022-12-08</td><td><a href="/miui/rosemary/stable/V13.0.7.0.SKLEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SKLEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-12-17</td><td><a href="/miui/rosemary/stable/V13.0.7.0.SKLEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SKLMIXM</td><td>12.0</td><td>6.3 GB</td><td>2022-12-08</td><td><a href="/miui/rosemary/stable/V13.0.12.0.SKLMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Recovery</td><td>V13.0.12.0.SKLMIXM</td><td>12.0</td><td>3.3 GB</td><td>2022-12-19</td><td><a href="/miui/rosemary/stable/V13.0.12.0.SKLMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10S Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.13.0.SKLMIXM</td><td>12.0</td><td>3.4 GB</td><td>2023-02-23</td><td><a href="/miui/rosemary/stable beta/V13.0.13.0.SKLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.13.0.SKLMIXM</td><td>12.0</td><td>6.3 GB</td><td>2023-02-09</td><td><a href="/miui/rosemary/stable/V13.0.13.0.SKLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Global</td><td>Stable</td><td>Recovery</td><td>V13.0.13.0.SKLMIXM</td><td>12.0</td><td>3.4 GB</td><td>2023-02-23</td><td><a href="/miui/rosemary/stable/V13.0.13.0.SKLMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.2.0.RKLMIXM</td><td>11.0</td><td>2.5 GB</td><td>2021-05-06</td><td><a href="/miui/rosemary/stable beta/V12.5.2.0.RKLMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SKLIDXM</td><td>12.0</td><td>5.8 GB</td><td>2022-11-18</td><td><a href="/miui/rosemary/stable/V13.0.7.0.SKLIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SKLIDXM</td><td>12.0</td><td>3.3 GB</td><td>2022-11-24</td><td><a href="/miui/rosemary/stable/V13.0.7.0.SKLIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.9.0.SKLIDXM</td><td>12.0</td><td>3.3 GB</td><td>2022-12-31</td><td><a href="/miui/rosemary/stable beta/V13.0.9.0.SKLIDXM/">Download</a></td></tr>
