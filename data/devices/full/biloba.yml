@@ -229,6 +229,16 @@
     android: '12.0'
     miui: V13.0.6.0.SCUMIXM
 - branch: stable
+  date: '2023-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-07.03.2023/fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/biloba/fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TCUMIXM
+- branch: stable
   date: '2022-06-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-06.06.2022/fw_biloba_miui_BILOBAEEAGlobal_V13.0.4.0.SCUEUXM_4c100e6b70_12.0.zip

@@ -8,3 +8,13 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SCVCNXM
+- branch: stable
+  date: '2023-03-06'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-07.03.2023/fw_earth_miui_EARTHINGlobal_V13.0.2.0.SCVINXM_16af528b85_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHINGlobal_V13.0.2.0.SCVINXM_16af528b85_12.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_V13.0.2.0.SCVINXM_16af528b85_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SCVINXM

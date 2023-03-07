@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 07 Mar 2023 01:38:01 +0900</pubDate>
+  <pubDate>Tue, 07 Mar 2023 09:21:14 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.6.0.TKOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Tue, 07 Mar 2023 09:21:14 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 12C/POCO C55 (earth) - V13.0.2.0.SCVINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
+    <pubDate>Tue, 07 Mar 2023 08:41:32 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.7.0.TLFCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
+    <pubDate>Tue, 07 Mar 2023 08:20:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (2021) (biloba) - V14.0.3.0.TCUMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/biloba</link>
+    <pubDate>Tue, 07 Mar 2023 07:37:55 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.1.0.TKJINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
@@ -85,26 +105,6 @@
     <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.6.0.TKOCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
     <pubDate>Mon, 27 Feb 2023 14:04:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO C40 (frost) - V13.0.17.0.RGFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/frost</link>
-    <pubDate>Mon, 27 Feb 2023 07:40:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi (mona) - V14.0.2.0.TKVCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
-    <pubDate>Sun, 26 Feb 2023 08:25:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 (mojito) - V14.0.2.0.SKGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Sun, 26 Feb 2023 07:47:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V14.0.1.0.SJQCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
-    <pubDate>Sun, 26 Feb 2023 07:26:17 +0900</pubDate>
   </item>
     </channel>
 </rss>

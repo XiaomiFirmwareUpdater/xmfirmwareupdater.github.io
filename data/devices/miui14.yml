@@ -35,6 +35,12 @@
   name: Redmi K40 Gaming/POCO F3 GT
   version: V14.0.1.0.TKJINXM
 - android: '13.0'
+  codename: biloba
+  date: '2023-03-06'
+  download: https://bigota.d.miui.com/V14.0.3.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
+  name: Redmi Note 8 (2021)
+  version: V14.0.3.0.TCUMIXM
+- android: '13.0'
   codename: chopin
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.2.0.TKPCNXM/fw_chopin_miui_CHOPIN_V14.0.2.0.TKPCNXM_a1309370ef_13.0.zip
@@ -118,6 +124,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.6.0.TLFEUXM_a9244b654b_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V14.0.6.0.TLFEUXM
+- android: '13.0'
+  codename: diting
+  date: '2023-03-06'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLFCNXM/fw_diting_miui_DITING_V14.0.7.0.TLFCNXM_c236aa2ab9_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.7.0.TLFCNXM
 - android: '13.0'
   codename: diting
   date: '2023-03-02'
@@ -220,6 +232,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.5.0.TKOCNXM_25171e94ec_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.5.0.TKOCNXM
+- android: '13.0'
+  codename: lisa
+  date: '2023-03-07'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKOEUXM/fw_lisa_miui_LISAEEAGlobal_V14.0.6.0.TKOEUXM_51dd09e0a5_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.6.0.TKOEUXM
 - android: '13.0'
   codename: lisa
   date: '2023-02-03'
