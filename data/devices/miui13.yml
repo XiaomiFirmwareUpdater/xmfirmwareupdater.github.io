@@ -1140,6 +1140,12 @@
   version: V13.0.5.0.SKQINXM
 - android: '12.0'
   codename: courbet
+  date: '2023-03-08'
+  download: https://bigota.d.miui.com/V13.0.10.0.SKQINXM/fw_courbet_miui_COURBETINGlobal_V13.0.10.0.SKQINXM_9b0a666f68_12.0.zip
+  name: Mi 11 Lite 4G
+  version: V13.0.10.0.SKQINXM
+- android: '12.0'
+  codename: courbet
   date: '2022-04-06'
   download: https://bigota.d.miui.com/V13.0.2.0.SKQINXM/fw_courbet_miui_COURBETINGlobal_V13.0.2.0.SKQINXM_da16992466_12.0.zip
   name: Mi 11 Lite 4G
@@ -1414,12 +1420,6 @@
   download: https://bigota.d.miui.com/V13.0.13.0.SLFEUXM/fw_diting_miui_DITINGEEAGlobal_V13.0.13.0.SLFEUXM_c26ea2bd5e_12.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V13.0.13.0.SLFEUXM
-- android: '12.0'
-  codename: earth
-  date: '2023-02-22'
-  download: https://bigota.d.miui.com/V13.0.5.0.SCVCNXM/fw_earth_miui_EARTH_V13.0.5.0.SCVCNXM_7ff5e2ee27_12.0.zip
-  name: Redmi 12C/POCO C55
-  version: V13.0.5.0.SCVCNXM
 - android: '12.0'
   codename: earth
   date: '2023-01-19'

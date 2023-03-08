@@ -22,6 +22,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKHCNXM/fw_alioth_miui_ALIOTH_V14.0.4.0.TKHCNXM_a249736c6c_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
   version: V14.0.4.0.TKHCNXM
+- android: '12.0'
+  codename: apollo
+  date: '2023-03-08'
+  download: https://bigota.d.miui.com/V14.0.5.0.SJDCNXM/fw_apollo_miui_APOLLO_V14.0.5.0.SJDCNXM_e727f2446b_12.0.zip
+  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
+  version: V14.0.5.0.SJDCNXM
 - android: '13.0'
   codename: ares
   date: '2023-02-11'
