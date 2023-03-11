@@ -52,7 +52,13 @@ permalink: /archive/miui/earth/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 12C China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SCVCNXM</td><td>12.0</td><td>3.4 GB</td><td>2023-03-08</td><td><a href="/miui/earth/stable beta/V13.0.6.0.SCVCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SCVEUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-03-09</td><td><a href="/miui/earth/stable beta/V13.0.5.0.SCVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SCVEUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-03-09</td><td><a href="/miui/earth/stable beta/V13.0.2.0.SCVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SCVEUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-03-09</td><td><a href="/miui/earth/stable/V13.0.6.0.SCVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SCVEUXM</td><td>12.0</td><td>5.6 GB</td><td>2023-03-02</td><td><a href="/miui/earth/stable/V13.0.6.0.SCVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SCVEUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-03-09</td><td><a href="/miui/earth/stable beta/V13.0.3.0.SCVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SCVEUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-03-09</td><td><a href="/miui/earth/stable beta/V13.0.4.0.SCVEUXM/">Download</a></td></tr>
+<tr><td>Redmi 12C China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SCVCNXM</td><td>12.0</td><td>3.4 GB</td><td>2023-03-08</td><td><a href="/miui/earth/stable beta/V13.0.6.0.SCVCNXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SCVINXM</td><td>12.0</td><td>3.1 GB</td><td>2023-03-06</td><td><a href="/miui/earth/stable beta/V13.0.2.0.SCVINXM/">Download</a></td></tr>
 <tr><td>Redmi 12C China</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SCVCNXM</td><td>12.0</td><td>3.4 GB</td><td>2023-02-21</td><td><a href="/miui/earth/stable/V13.0.5.0.SCVCNXM/">Download</a></td></tr>
 <tr><td>Redmi 12C China</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SCVCNXM</td><td>12.0</td><td>4.4 GB</td><td>2023-02-08</td><td><a href="/miui/earth/stable/V13.0.5.0.SCVCNXM/">Download</a></td></tr>
