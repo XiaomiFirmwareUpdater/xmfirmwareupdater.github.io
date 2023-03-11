@@ -1434,6 +1434,12 @@
   version: V13.0.4.0.SCVCNXM
 - android: '12.0'
   codename: earth
+  date: '2023-03-11'
+  download: https://bigota.d.miui.com/V13.0.6.0.SCVCNXM/fw_earth_miui_EARTH_V13.0.6.0.SCVCNXM_916002e6e1_12.0.zip
+  name: Redmi 12C/POCO C55
+  version: V13.0.6.0.SCVCNXM
+- android: '12.0'
+  codename: earth
   date: '2023-03-06'
   download: https://bigota.d.miui.com/V13.0.2.0.SCVINXM/fw_earth_miui_EARTHINGlobal_V13.0.2.0.SCVINXM_16af528b85_12.0.zip
   name: Redmi 12C/POCO C55
