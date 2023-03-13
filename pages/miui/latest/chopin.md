@@ -64,9 +64,9 @@ permalink: /miui/chopin/
 <tr><td>POCO X3 GT Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKPIDXM</td><td>12.0</td><td>5.7 GB</td><td>2022-12-16</td><td><a href="/miui/chopin/stable/V13.0.5.0.SKPIDXM/">Download</a></td></tr>
 <tr><td>POCO X3 GT Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKPIDXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-03</td><td><a href="/miui/chopin/stable/V13.0.5.0.SKPIDXM/">Download</a></td></tr>
 <tr><td>POCO X3 GT Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKPIDXM</td><td>13.0</td><td>4.0 GB</td><td>2023-03-02</td><td><a href="/miui/chopin/stable beta/V14.0.1.0.TKPIDXM/">Download</a></td></tr>
-<tr><td>POCO X3 GT Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKPTRXM</td><td>12.0</td><td>5.5 GB</td><td>2022-08-11</td><td><a href="/miui/chopin/stable/V13.0.3.0.SKPTRXM/">Download</a></td></tr>
-<tr><td>POCO X3 GT Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKPTRXM</td><td>12.0</td><td>3.4 GB</td><td>2022-08-18</td><td><a href="/miui/chopin/stable/V13.0.3.0.SKPTRXM/">Download</a></td></tr>
-<tr><td>POCO X3 GT Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKPTRXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-28</td><td><a href="/miui/chopin/stable beta/V13.0.4.0.SKPTRXM/">Download</a></td></tr>
+<tr><td>POCO X3 GT Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKPTRXM</td><td>12.0</td><td>5.5 GB</td><td>2022-11-18</td><td><a href="/miui/chopin/stable/V13.0.4.0.SKPTRXM/">Download</a></td></tr>
+<tr><td>POCO X3 GT Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKPTRXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-28</td><td><a href="/miui/chopin/stable/V13.0.4.0.SKPTRXM/">Download</a></td></tr>
+<tr><td>POCO X3 GT Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKPTRXM</td><td>13.0</td><td>4.0 GB</td><td>2023-03-10</td><td><a href="/miui/chopin/stable beta/V14.0.2.0.TKPTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

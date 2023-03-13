@@ -67,9 +67,8 @@ permalink: /miui/cupid/
 <tr><td>Xiaomi 12 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SLCIDXM</td><td>12.0</td><td>4.1 GB</td><td>2022-11-11</td><td><a href="/miui/cupid/stable/V13.0.5.0.SLCIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLCRUXM</td><td>12.0</td><td>5.5 GB</td><td>2023-01-11</td><td><a href="/miui/cupid/stable/V13.0.3.0.SLCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLCRUXM</td><td>12.0</td><td>4.1 GB</td><td>2023-02-03</td><td><a href="/miui/cupid/stable/V13.0.3.0.SLCRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLCTRXM</td><td>12.0</td><td>5.2 GB</td><td>2022-04-27</td><td><a href="/miui/cupid/stable/V13.0.2.0.SLCTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLCTRXM</td><td>12.0</td><td>4.1 GB</td><td>2022-05-10</td><td><a href="/miui/cupid/stable/V13.0.2.0.SLCTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SLCTRXM</td><td>12.0</td><td>4.1 GB</td><td>2023-02-03</td><td><a href="/miui/cupid/stable beta/V13.0.3.0.SLCTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLCTRXM</td><td>12.0</td><td>5.4 GB</td><td>2023-01-11</td><td><a href="/miui/cupid/stable/V13.0.3.0.SLCTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLCTRXM</td><td>12.0</td><td>4.1 GB</td><td>2023-02-03</td><td><a href="/miui/cupid/stable/V13.0.3.0.SLCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLCTWXM</td><td>12.0</td><td>5.0 GB</td><td>2022-09-07</td><td><a href="/miui/cupid/stable/V13.0.4.0.SLCTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLCTWXM</td><td>12.0</td><td>4.0 GB</td><td>2022-09-17</td><td><a href="/miui/cupid/stable/V13.0.4.0.SLCTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLCIDXM</td><td>13.0</td><td>4.7 GB</td><td>2023-03-06</td><td><a href="/miui/cupid/stable beta/V14.0.1.0.TLCIDXM/">Download</a></td></tr>
