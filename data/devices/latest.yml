@@ -1649,15 +1649,15 @@
     android: '13.0'
     miui: V14.0.1.0.TKKEUXM
 - branch: stable
-  date: '2022-10-13'
+  date: '2023-03-13'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-13.10.2022/fw_haydn_miui_HAYDNINGlobal_V13.0.4.0.SKKINXM_8e4a4efefd_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/haydn/fw_haydn_miui_HAYDNINGlobal_V13.0.4.0.SKKINXM_8e4a4efefd_12.0.zip
-  filename: fw_haydn_miui_HAYDNINGlobal_V13.0.4.0.SKKINXM_8e4a4efefd_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-13.03.2023/fw_haydn_miui_HAYDNINGlobal_V14.0.2.0.TKKINXM_be98e9b2c3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDNINGlobal_V14.0.2.0.TKKINXM_be98e9b2c3_13.0.zip
+  filename: fw_haydn_miui_HAYDNINGlobal_V14.0.2.0.TKKINXM_be98e9b2c3_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.4.0.SKKINXM
+    android: '13.0'
+    miui: V14.0.2.0.TKKINXM
 - branch: stable
   date: '2019-05-13'
   downloads:
