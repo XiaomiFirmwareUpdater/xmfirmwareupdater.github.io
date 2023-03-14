@@ -9,15 +9,15 @@
     android: '12.0'
     miui: V13.0.6.0.SLMMIXM
 - branch: stable
-  date: '2023-01-10'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-10.01.2023/fw_munch_miui_MUNCH_V14.0.3.0.TLMCNXM_5e32cddcf6_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCH_V14.0.3.0.TLMCNXM_5e32cddcf6_13.0.zip
-  filename: fw_munch_miui_MUNCH_V14.0.3.0.TLMCNXM_5e32cddcf6_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-14.03.2023/fw_munch_miui_MUNCH_V14.0.5.0.TLMCNXM_80e98ce64f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCH_V14.0.5.0.TLMCNXM_80e98ce64f_13.0.zip
+  filename: fw_munch_miui_MUNCH_V14.0.5.0.TLMCNXM_80e98ce64f_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TLMCNXM
+    miui: V14.0.5.0.TLMCNXM
 - branch: stable
   date: '2023-01-28'
   downloads:
@@ -29,12 +29,12 @@
     android: '13.0'
     miui: V14.0.2.0.TLMEUXM
 - branch: stable
-  date: '2022-08-29'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-29.08.2022/fw_munch_miui_MUNCHINGlobal_V13.0.4.0.SLMINXM_2b7bf71261_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/munch/fw_munch_miui_MUNCHINGlobal_V13.0.4.0.SLMINXM_2b7bf71261_12.0.zip
-  filename: fw_munch_miui_MUNCHINGlobal_V13.0.4.0.SLMINXM_2b7bf71261_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-14.03.2023/fw_munch_miui_MUNCHINGlobal_V14.0.2.0.TLMINXM_794e293bc5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCHINGlobal_V14.0.2.0.TLMINXM_794e293bc5_13.0.zip
+  filename: fw_munch_miui_MUNCHINGlobal_V14.0.2.0.TLMINXM_794e293bc5_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.4.0.SLMINXM
+    android: '13.0'
+    miui: V14.0.2.0.TLMINXM

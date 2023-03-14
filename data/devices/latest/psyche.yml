@@ -1,23 +1,23 @@
 - branch: stable
-  date: '2022-11-08'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-08.11.2022/fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.SLDMIXM_792a965bb3_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/psyche/fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.SLDMIXM_792a965bb3_12.0.zip
-  filename: fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.SLDMIXM_792a965bb3_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-14.03.2023/fw_psyche_miui_PSYCHEGlobal_V14.0.3.0.TLDMIXM_1b52040940_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHEGlobal_V14.0.3.0.TLDMIXM_1b52040940_13.0.zip
+  filename: fw_psyche_miui_PSYCHEGlobal_V14.0.3.0.TLDMIXM_1b52040940_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.5.0.SLDMIXM
+    android: '13.0'
+    miui: V14.0.3.0.TLDMIXM
 - branch: stable
-  date: '2023-02-01'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-01.02.2023/fw_psyche_miui_PSYCHE_V14.0.5.0.TLDCNXM_82f725b651_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHE_V14.0.5.0.TLDCNXM_82f725b651_13.0.zip
-  filename: fw_psyche_miui_PSYCHE_V14.0.5.0.TLDCNXM_82f725b651_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-14.03.2023/fw_psyche_miui_PSYCHE_V14.0.8.0.TLDCNXM_26fcc2a3e1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHE_V14.0.8.0.TLDCNXM_26fcc2a3e1_13.0.zip
+  filename: fw_psyche_miui_PSYCHE_V14.0.8.0.TLDCNXM_26fcc2a3e1_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TLDCNXM
+    miui: V14.0.8.0.TLDCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 14 Mar 2023 20:21:34 +0900</pubDate>
+  <pubDate>Tue, 14 Mar 2023 21:38:29 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12X (psyche) - V14.0.3.0.TLDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
+    <pubDate>Tue, 14 Mar 2023 21:38:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12T (plato) - V14.0.1.0.TLQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
+    <pubDate>Tue, 14 Mar 2023 21:13:54 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 (mojito) - V14.0.3.0.SKGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
+    <pubDate>Tue, 14 Mar 2023 20:58:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V13.0.11.0.SLSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/light</link>
+    <pubDate>Tue, 14 Mar 2023 20:43:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.2.0.TKHINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
@@ -85,26 +105,6 @@
     <title>Redmi 12C/POCO C55 (earth) - V13.0.5.0.SCVEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
     <pubDate>Sun, 12 Mar 2023 07:35:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 12C/POCO C55 (earth) - V13.0.6.0.SCVCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
-    <pubDate>Sun, 12 Mar 2023 01:38:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.7.0.TKHEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Sat, 11 Mar 2023 01:46:53 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V14.0.3.0.SJKCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
-    <pubDate>Fri, 10 Mar 2023 19:24:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 (fuxi) - V14.0.21.0.TMCCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
-    <pubDate>Fri, 10 Mar 2023 02:11:44 +0900</pubDate>
   </item>
     </channel>
 </rss>
