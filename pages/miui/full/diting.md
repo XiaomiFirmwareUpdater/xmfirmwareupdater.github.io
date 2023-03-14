@@ -52,7 +52,8 @@ permalink: /archive/miui/diting/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-03</td><td><a href="/miui/diting/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-10</td><td><a href="/miui/diting/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-03</td><td><a href="/miui/diting/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TLFCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-02-27</td><td><a href="/miui/diting/stable beta/V14.0.7.0.TLFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.21.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-02-24</td><td><a href="/miui/diting/public beta/V14.0.23.2.21.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.13.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-02-17</td><td><a href="/miui/diting/public beta/V14.0.23.2.13.DEV/">Download</a></td></tr>
@@ -77,10 +78,10 @@ permalink: /archive/miui/diting/
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.8.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-16</td><td><a href="/miui/diting/public beta/V14.0.22.12.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLFJPXM</td><td>12.0</td><td>4.5 GB</td><td>2022-12-14</td><td><a href="/miui/diting/stable/V13.0.2.0.SLFJPXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLFJPXM</td><td>12.0</td><td>6.2 GB</td><td>2022-12-07</td><td><a href="/miui/diting/stable/V13.0.2.0.SLFJPXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-11</td><td><a href="/miui/diting/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.4 GB</td><td>2022-12-05</td><td><a href="/miui/diting/stable/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLFCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-01-12</td><td><a href="/miui/diting/stable/V14.0.5.0.TLFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLFCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-01-09</td><td><a href="/miui/diting/stable/V14.0.5.0.TLFCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-11</td><td><a href="/miui/diting/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.4 GB</td><td>2022-12-05</td><td><a href="/miui/diting/stable/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SLFCNXM</td><td>12.0</td><td>5.7 GB</td><td>2022-11-16</td><td><a href="/miui/diting/stable/V13.0.10.0.SLFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SLFCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-11-07</td><td><a href="/miui/diting/stable/V13.0.10.0.SLFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLFMIXM</td><td>12.0</td><td>4.5 GB</td><td>2022-11-11</td><td><a href="/miui/diting/stable/V13.0.4.0.SLFMIXM/">Download</a></td></tr>

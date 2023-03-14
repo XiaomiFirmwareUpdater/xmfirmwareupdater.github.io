@@ -53,10 +53,10 @@ permalink: /miui/matisse/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Fastboot</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>6.3 GB</td><td>2022-09-30</td><td><a href="/miui/matisse/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TLKCNXM</td><td>13.0</td><td>7.4 GB</td><td>2023-01-13</td><td><a href="/miui/matisse/stable/V14.0.9.0.TLKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TLKCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-01-16</td><td><a href="/miui/matisse/stable/V14.0.9.0.TLKCNXM/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-03</td><td><a href="/miui/matisse/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.10.0.TLKCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-02-28</td><td><a href="/miui/matisse/stable beta/V14.0.10.0.TLKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.10.0.TLKCNXM</td><td>13.0</td><td>7.4 GB</td><td>2023-02-14</td><td><a href="/miui/matisse/stable/V14.0.10.0.TLKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.10.0.TLKCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-02-28</td><td><a href="/miui/matisse/stable/V14.0.10.0.TLKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-10</td><td><a href="/miui/matisse/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TLKCNXM</td><td>13.0</td><td>6.0 GB</td><td>2022-12-12</td><td><a href="/miui/matisse/stable beta/V14.0.5.0.TLKCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

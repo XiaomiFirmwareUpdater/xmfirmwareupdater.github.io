@@ -52,8 +52,10 @@ permalink: /archive/miui/dagu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.28.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-03-03</td><td><a href="/miui/dagu/public beta/V14.0.23.2.28.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLZCNXM</td><td>13.0</td><td>4.4 GB</td><td>2023-02-28</td><td><a href="/miui/dagu/stable beta/V14.0.4.0.TLZCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-03-10</td><td><a href="/miui/dagu/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.28.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-03-03</td><td><a href="/miui/dagu/public beta/V14.0.23.2.28.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLZCNXM</td><td>13.0</td><td>4.4 GB</td><td>2023-02-28</td><td><a href="/miui/dagu/stable/V14.0.4.0.TLZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLZCNXM</td><td>13.0</td><td>5.2 GB</td><td>2023-02-12</td><td><a href="/miui/dagu/stable/V14.0.4.0.TLZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.21.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-02-24</td><td><a href="/miui/dagu/public beta/V14.0.23.2.21.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.13.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-02-17</td><td><a href="/miui/dagu/public beta/V14.0.23.2.13.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.6.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-02-10</td><td><a href="/miui/dagu/public beta/V14.0.23.2.6.DEV/">Download</a></td></tr>
