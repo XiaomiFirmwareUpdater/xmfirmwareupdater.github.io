@@ -59,9 +59,8 @@ permalink: /miui/alioth/
 <tr><td>Redmi K40 China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKHCNXM</td><td>13.0</td><td>4.1 GB</td><td>2023-02-17</td><td><a href="/miui/alioth/stable/V14.0.5.0.TKHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SKHCNXM</td><td>12.0</td><td>4.5 GB</td><td>2022-06-12</td><td><a href="/miui/alioth/stable beta/V13.0.6.0.SKHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.6 GB</td><td>2022-03-24</td><td><a href="/miui/alioth/weekly/22.3.23/">Download</a></td></tr>
-<tr><td>POCO F3 EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.11.0.SKHEUXM</td><td>12.0</td><td>5.4 GB</td><td>2023-02-22</td><td><a href="/miui/alioth/stable/V13.0.11.0.SKHEUXM/">Download</a></td></tr>
-<tr><td>POCO F3 EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.11.0.SKHEUXM</td><td>12.0</td><td>3.4 GB</td><td>2023-02-25</td><td><a href="/miui/alioth/stable/V13.0.11.0.SKHEUXM/">Download</a></td></tr>
-<tr><td>POCO F3 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TKHEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-03-07</td><td><a href="/miui/alioth/stable beta/V14.0.7.0.TKHEUXM/">Download</a></td></tr>
+<tr><td>POCO F3 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TKHEUXM</td><td>13.0</td><td>5.9 GB</td><td>2023-03-02</td><td><a href="/miui/alioth/stable/V14.0.7.0.TKHEUXM/">Download</a></td></tr>
+<tr><td>POCO F3 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TKHEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-03-07</td><td><a href="/miui/alioth/stable/V14.0.7.0.TKHEUXM/">Download</a></td></tr>
 <tr><td>POCO F3 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SKHMIXM</td><td>12.0</td><td>5.5 GB</td><td>2023-02-02</td><td><a href="/miui/alioth/stable/V13.0.7.0.SKHMIXM/">Download</a></td></tr>
 <tr><td>POCO F3 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SKHMIXM</td><td>12.0</td><td>3.4 GB</td><td>2023-02-16</td><td><a href="/miui/alioth/stable/V13.0.7.0.SKHMIXM/">Download</a></td></tr>
 <tr><td>POCO F3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKHIDXM</td><td>12.0</td><td>5.0 GB</td><td>2022-11-02</td><td><a href="/miui/alioth/stable/V13.0.5.0.SKHIDXM/">Download</a></td></tr>

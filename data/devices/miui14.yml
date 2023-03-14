@@ -64,6 +64,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
   name: Redmi Note 8 (2021)
   version: V14.0.3.0.TCUMIXM
+- android: '12.0'
+  codename: cannon
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.2.0.SJECNXM/fw_cannon_miui_CANNON_V14.0.2.0.SJECNXM_37e6139886_12.0.zip
+  name: Redmi Note 9 5G
+  version: V14.0.2.0.SJECNXM
 - android: '13.0'
   codename: chopin
   date: '2023-01-16'
@@ -546,6 +552,30 @@
   version: V14.0.2.0.SMSCNXM
 - android: '12.0'
   codename: redwood
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.4.0.SMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_V14.0.4.0.SMSEUXM_f39a0efffe_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.4.0.SMSEUXM
+- android: '12.0'
+  codename: redwood
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.6.0.SMSMIXM/fw_redwood_miui_REDWOODGlobal_V14.0.6.0.SMSMIXM_df007c0748_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.6.0.SMSMIXM
+- android: '12.0'
+  codename: redwood
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.8.0.SMSINXM/fw_redwood_miui_REDWOODINGlobal_V14.0.8.0.SMSINXM_ef83d1a6f2_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.8.0.SMSINXM
+- android: '12.0'
+  codename: redwood
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.6.0.SMSCNXM/fw_redwood_miui_REDWOOD_V14.0.6.0.SMSCNXM_fb9582ecfa_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.6.0.SMSCNXM
+- android: '12.0'
+  codename: redwood
   date: '2023-02-13'
   download: https://bigota.d.miui.com/V14.0.3.0.SMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_V14.0.3.0.SMSEUXM_9b357f29c2_12.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -598,6 +628,18 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TKIEUXM/fw_renoir_miui_RENOIREEAGlobal_V14.0.5.0.TKIEUXM_fe45955323_13.0.zip
   name: Mi 11 Lite 5G
   version: V14.0.5.0.TKIEUXM
+- android: '13.0'
+  codename: rock
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLUMIXM/fw_rock_miui_ROCKGlobal_V14.0.6.0.TLUMIXM_b64ad54537_13.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: V14.0.6.0.TLUMIXM
+- android: '13.0'
+  codename: rubens
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.5.0.TLNCNXM_d3b227642e_13.0.zip
+  name: Redmi K50
+  version: V14.0.5.0.TLNCNXM
 - android: '13.0'
   codename: rubens
   date: '2023-01-04'

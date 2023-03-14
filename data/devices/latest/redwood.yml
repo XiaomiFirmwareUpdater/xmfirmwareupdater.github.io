@@ -1,40 +1,40 @@
 - branch: stable
-  date: '2023-02-06'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-06.02.2023/fw_redwood_miui_REDWOODGlobal_V14.0.3.0.SMSMIXM_097b260a3b_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODGlobal_V14.0.3.0.SMSMIXM_097b260a3b_12.0.zip
-  filename: fw_redwood_miui_REDWOODGlobal_V14.0.3.0.SMSMIXM_097b260a3b_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-14.03.2023/fw_redwood_miui_REDWOODGlobal_V14.0.6.0.SMSMIXM_df007c0748_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODGlobal_V14.0.6.0.SMSMIXM_df007c0748_12.0.zip
+  filename: fw_redwood_miui_REDWOODGlobal_V14.0.6.0.SMSMIXM_df007c0748_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V14.0.3.0.SMSMIXM
+    miui: V14.0.6.0.SMSMIXM
 - branch: stable
-  date: '2023-01-09'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-09.01.2023/fw_redwood_miui_REDWOOD_V14.0.3.0.SMSCNXM_2d81f55d33_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOOD_V14.0.3.0.SMSCNXM_2d81f55d33_12.0.zip
-  filename: fw_redwood_miui_REDWOOD_V14.0.3.0.SMSCNXM_2d81f55d33_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-14.03.2023/fw_redwood_miui_REDWOOD_V14.0.6.0.SMSCNXM_fb9582ecfa_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOOD_V14.0.6.0.SMSCNXM_fb9582ecfa_12.0.zip
+  filename: fw_redwood_miui_REDWOOD_V14.0.6.0.SMSCNXM_fb9582ecfa_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V14.0.3.0.SMSCNXM
+    miui: V14.0.6.0.SMSCNXM
 - branch: stable
-  date: '2023-02-13'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-13.02.2023/fw_redwood_miui_REDWOODEEAGlobal_V14.0.3.0.SMSEUXM_9b357f29c2_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODEEAGlobal_V14.0.3.0.SMSEUXM_9b357f29c2_12.0.zip
-  filename: fw_redwood_miui_REDWOODEEAGlobal_V14.0.3.0.SMSEUXM_9b357f29c2_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-14.03.2023/fw_redwood_miui_REDWOODEEAGlobal_V14.0.4.0.SMSEUXM_f39a0efffe_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODEEAGlobal_V14.0.4.0.SMSEUXM_f39a0efffe_12.0.zip
+  filename: fw_redwood_miui_REDWOODEEAGlobal_V14.0.4.0.SMSEUXM_f39a0efffe_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V14.0.3.0.SMSEUXM
+    miui: V14.0.4.0.SMSEUXM
 - branch: stable
-  date: '2023-02-06'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-06.02.2023/fw_redwood_miui_REDWOODINGlobal_V14.0.6.0.SMSINXM_ed20d983c1_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODINGlobal_V14.0.6.0.SMSINXM_ed20d983c1_12.0.zip
-  filename: fw_redwood_miui_REDWOODINGlobal_V14.0.6.0.SMSINXM_ed20d983c1_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-14.03.2023/fw_redwood_miui_REDWOODINGlobal_V14.0.8.0.SMSINXM_ef83d1a6f2_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODINGlobal_V14.0.8.0.SMSINXM_ef83d1a6f2_12.0.zip
+  filename: fw_redwood_miui_REDWOODINGlobal_V14.0.8.0.SMSINXM_ef83d1a6f2_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V14.0.6.0.SMSINXM
+    miui: V14.0.8.0.SMSINXM

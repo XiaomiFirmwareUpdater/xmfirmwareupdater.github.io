@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-08.12.2022/fw_rock_miui_ROCKGlobal_V13.0.8.0.SLUMIXM_7cd25c4c7f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rock/fw_rock_miui_ROCKGlobal_V13.0.8.0.SLUMIXM_7cd25c4c7f_12.0.zip
-  filename: fw_rock_miui_ROCKGlobal_V13.0.8.0.SLUMIXM_7cd25c4c7f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-14.03.2023/fw_rock_miui_ROCKGlobal_V13.0.10.0.SLUMIXM_41ad25688b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rock/fw_rock_miui_ROCKGlobal_V13.0.10.0.SLUMIXM_41ad25688b_12.0.zip
+  filename: fw_rock_miui_ROCKGlobal_V13.0.10.0.SLUMIXM_41ad25688b_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.8.0.SLUMIXM
+    miui: V13.0.10.0.SLUMIXM
 - branch: stable
   date: '2022-11-12'
   downloads:
