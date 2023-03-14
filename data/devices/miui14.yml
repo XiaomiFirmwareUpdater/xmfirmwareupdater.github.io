@@ -646,6 +646,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.4.0.TLNCNXM_834ec7e175_13.0.zip
   name: Redmi K50
   version: V14.0.4.0.TLNCNXM
+- android: '12.0'
+  codename: ruby
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.3.0.SMOCNXM/fw_ruby_miui_RUBY_V14.0.3.0.SMOCNXM_9ba641ef47_12.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.3.0.SMOCNXM
 - android: '13.0'
   codename: socrates
   date: '2023-01-17'
@@ -654,16 +660,40 @@
   version: V14.0.17.0.TMKCNXM
 - android: '13.0'
   codename: socrates
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.18.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.18.0.TMKCNXM_c30f543e79_13.0.zip
+  name: Redmi K60 Pro
+  version: V14.0.18.0.TMKCNXM
+- android: '13.0'
+  codename: socrates
   date: '2023-01-01'
   download: https://bigota.d.miui.com/V14.0.11.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.11.0.TMKCNXM_01ab8e04e6_13.0.zip
   name: Redmi K60 Pro
   version: V14.0.11.0.TMKCNXM
 - android: '13.0'
   codename: star
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKAMIXM/fw_star_miui_STARGlobal_V14.0.1.0.TKAMIXM_f8a19b0595_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.1.0.TKAMIXM
+- android: '13.0'
+  codename: star
   date: '2023-01-15'
   download: https://bigota.d.miui.com/V14.0.6.0.TKACNXM/fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V14.0.6.0.TKACNXM
+- android: '12.0'
+  codename: sunstone
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.4.0.SMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.4.0.SMQEUXM_28fd553f3c_12.0.zip
+  name: Redmi Note 12 5G
+  version: V14.0.4.0.SMQEUXM
+- android: '12.0'
+  codename: surya
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.1.0.SJGMIXM/fw_surya_miui_SURYAGlobal_V14.0.1.0.SJGMIXM_2be070b453_12.0.zip
+  name: POCO X3 NFC
+  version: V14.0.1.0.SJGMIXM
 - android: '13.0'
   codename: taoyao
   date: '2023-01-28'

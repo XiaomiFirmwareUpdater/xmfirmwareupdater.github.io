@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2022-12-12'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-12.12.2022/fw_spes_miui_SPESGlobal_V13.0.6.0.SGCMIXM_d8718d8a07_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spes/fw_spes_miui_SPESGlobal_V13.0.6.0.SGCMIXM_d8718d8a07_12.0.zip
-  filename: fw_spes_miui_SPESGlobal_V13.0.6.0.SGCMIXM_d8718d8a07_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-14.03.2023/fw_spes_miui_SPESGlobal_V13.0.7.0.SGCMIXM_ea2b9951b7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spes/fw_spes_miui_SPESGlobal_V13.0.7.0.SGCMIXM_ea2b9951b7_12.0.zip
+  filename: fw_spes_miui_SPESGlobal_V13.0.7.0.SGCMIXM_ea2b9951b7_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SGCMIXM
+    miui: V13.0.7.0.SGCMIXM
 - branch: stable
-  date: '2022-12-21'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-22.12.2022/fw_spes_miui_SPESINGlobal_V13.0.3.0.SGCINXM_6e26baf148_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spes/fw_spes_miui_SPESINGlobal_V13.0.3.0.SGCINXM_6e26baf148_12.0.zip
-  filename: fw_spes_miui_SPESINGlobal_V13.0.3.0.SGCINXM_6e26baf148_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-14.03.2023/fw_spes_miui_SPESINGlobal_V13.0.4.0.SGCINXM_5bb6f19ce1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/spes/fw_spes_miui_SPESINGlobal_V13.0.4.0.SGCINXM_5bb6f19ce1_12.0.zip
+  filename: fw_spes_miui_SPESINGlobal_V13.0.4.0.SGCINXM_5bb6f19ce1_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SGCINXM
+    miui: V13.0.4.0.SGCINXM
