@@ -5682,6 +5682,12 @@
   version: V13.1.6.0.SLYCNXM
 - android: '12.0'
   codename: yunluo
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V13.1.4.0.SLYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_V13.1.4.0.SLYEUXM_987c700d46_12.0.zip
+  name: Redmi Pad
+  version: V13.1.4.0.SLYEUXM
+- android: '12.0'
+  codename: yunluo
   date: '2022-12-08'
   download: https://bigota.d.miui.com/V13.1.3.0.SLYINXM/fw_yunluo_miui_YUNLUOINGlobal_V13.1.3.0.SLYINXM_fadb05d334_12.0.zip
   name: Redmi Pad

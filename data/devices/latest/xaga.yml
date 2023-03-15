@@ -19,15 +19,15 @@
     android: '13.0'
     miui: V14.0.3.0.TLOCNXM
 - branch: stable
-  date: '2023-01-03'
+  date: '2023-03-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-03.01.2023/fw_xaga_miui_XAGAEEAGlobal_V13.2.2.0.TLOEUXM_65555fcd14_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAEEAGlobal_V13.2.2.0.TLOEUXM_65555fcd14_13.0.zip
-  filename: fw_xaga_miui_XAGAEEAGlobal_V13.2.2.0.TLOEUXM_65555fcd14_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-15.03.2023/fw_xaga_miui_XAGAEEAGlobal_V14.0.1.0.TLOEUXM_4f049b35ad_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGAEEAGlobal_V14.0.1.0.TLOEUXM_4f049b35ad_13.0.zip
+  filename: fw_xaga_miui_XAGAEEAGlobal_V14.0.1.0.TLOEUXM_4f049b35ad_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V13.2.2.0.TLOEUXM
+    miui: V14.0.1.0.TLOEUXM
 - branch: stable
   date: '2022-12-26'
   downloads:

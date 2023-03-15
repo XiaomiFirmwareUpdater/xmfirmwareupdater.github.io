@@ -805,6 +805,12 @@
 - android: '13.0'
   codename: xaga
   date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLOEUXM/fw_xaga_miui_XAGAEEAGlobal_V14.0.1.0.TLOEUXM_4f049b35ad_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.1.0.TLOEUXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-03-15'
   download: https://bigota.d.miui.com/V14.0.3.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.3.0.TLOCNXM_3a52786fc2_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.3.0.TLOCNXM
@@ -821,11 +827,23 @@
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.1.0.TLOMIXM
 - android: '13.0'
+  codename: yunluo
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLYCNXM/fw_yunluo_miui_YUNLUO_V14.0.5.0.TLYCNXM_2ad3baf26b_13.0.zip
+  name: Redmi Pad
+  version: V14.0.5.0.TLYCNXM
+- android: '13.0'
   codename: zeus
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.8.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.8.0.TLBCNXM_ec4f2b340b_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.8.0.TLBCNXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V14.0.8.0.TLBEUXM_80c9d5c6cf_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.8.0.TLBEUXM
 - android: '13.0'
   codename: zeus
   date: '2023-02-11'
@@ -844,6 +862,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.3.0.TLPCNXM_d35d475233_13.0.zip
   name: Xiaomi Civi 1S
   version: V14.0.3.0.TLPCNXM
+- android: '13.0'
+  codename: ziyi
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.11.0.TLLCNXM/fw_ziyi_miui_ZIYI_V14.0.11.0.TLLCNXM_057ca1bfd7_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.11.0.TLLCNXM
 - android: '13.0'
   codename: ziyi
   date: '2023-02-03'
