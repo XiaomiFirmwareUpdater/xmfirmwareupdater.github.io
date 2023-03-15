@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 16 Mar 2023 01:24:43 +0900</pubDate>
+  <pubDate>Thu, 16 Mar 2023 07:29:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Redmi Note 10 Pro (sweet) - V14.0.1.0.TKFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Thu, 16 Mar 2023 01:24:43 +0900</pubDate>
+    <pubDate>Thu, 16 Mar 2023 07:29:03 +0900</pubDate>
   </item>
     <item>
     <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V14.0.2.0.TKYCNXM</title>
