@@ -173,6 +173,12 @@
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V14.0.7.0.TLFEUXM
 - android: '13.0'
+  codename: elish
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKYCNXM/fw_elish_miui_ELISH_V14.0.2.0.TKYCNXM_e28bf99db6_13.0.zip
+  name: Xiaomi Pad 5 Pro Wi-Fi
+  version: V14.0.2.0.TKYCNXM
+- android: '13.0'
   codename: fuxi
   date: '2022-12-14'
   download: https://bigota.d.miui.com/V14.0.4.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.4.0.TMCCNXM_f4decbbbee_13.0.zip

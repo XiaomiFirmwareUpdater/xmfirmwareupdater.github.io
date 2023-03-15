@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-11-03'
+  date: '2023-03-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_elish/releases/download/stable-03.11.2022/fw_elish_miui_ELISH_V13.1.4.0.SKYCNXM_957fc20cf8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/elish/fw_elish_miui_ELISH_V13.1.4.0.SKYCNXM_957fc20cf8_12.0.zip
-  filename: fw_elish_miui_ELISH_V13.1.4.0.SKYCNXM_957fc20cf8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_elish/releases/download/stable-15.03.2023/fw_elish_miui_ELISH_V14.0.2.0.TKYCNXM_e28bf99db6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/elish/fw_elish_miui_ELISH_V14.0.2.0.TKYCNXM_e28bf99db6_13.0.zip
+  filename: fw_elish_miui_ELISH_V14.0.2.0.TKYCNXM_e28bf99db6_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.1.4.0.SKYCNXM
+    android: '13.0'
+    miui: V14.0.2.0.TKYCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
