@@ -39,12 +39,12 @@
     android: '12.0'
     miui: V13.0.10.0.SJBEUXM
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-03-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-08.12.2022/fw_umi_miui_UMIINGlobal_V13.0.6.0.SJBINXM_475842a998_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMIINGlobal_V13.0.6.0.SJBINXM_475842a998_12.0.zip
-  filename: fw_umi_miui_UMIINGlobal_V13.0.6.0.SJBINXM_475842a998_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_umi/releases/download/stable-15.03.2023/fw_umi_miui_UMIINGlobal_V13.0.7.0.SJBINXM_b9f7af4d1a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/umi/fw_umi_miui_UMIINGlobal_V13.0.7.0.SJBINXM_b9f7af4d1a_12.0.zip
+  filename: fw_umi_miui_UMIINGlobal_V13.0.7.0.SJBINXM_b9f7af4d1a_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SJBINXM
+    miui: V13.0.7.0.SJBINXM

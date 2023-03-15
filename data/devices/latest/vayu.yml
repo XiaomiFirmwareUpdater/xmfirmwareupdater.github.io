@@ -9,22 +9,22 @@
     android: '13.0'
     miui: V14.0.1.0.TJUMIXM
 - branch: stable
-  date: '2023-01-16'
+  date: '2023-03-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-16.01.2023/fw_vayu_miui_VAYUEEAGlobal_V13.0.6.0.SJUEUXM_31cf26050b_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUEEAGlobal_V13.0.6.0.SJUEUXM_31cf26050b_12.0.zip
-  filename: fw_vayu_miui_VAYUEEAGlobal_V13.0.6.0.SJUEUXM_31cf26050b_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-15.03.2023/fw_vayu_miui_VAYUEEAGlobal_V14.0.1.0.TJUEUXM_d2bc285a06_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vayu/fw_vayu_miui_VAYUEEAGlobal_V14.0.1.0.TJUEUXM_d2bc285a06_13.0.zip
+  filename: fw_vayu_miui_VAYUEEAGlobal_V14.0.1.0.TJUEUXM_d2bc285a06_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.6.0.SJUEUXM
+    android: '13.0'
+    miui: V14.0.1.0.TJUEUXM
 - branch: stable
-  date: '2022-11-15'
+  date: '2023-03-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-15.11.2022/fw_vayu_miui_VAYUINGlobal_V13.0.4.0.SJUINXM_3326700d73_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vayu/fw_vayu_miui_VAYUINGlobal_V13.0.4.0.SJUINXM_3326700d73_12.0.zip
-  filename: fw_vayu_miui_VAYUINGlobal_V13.0.4.0.SJUINXM_3326700d73_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-15.03.2023/fw_vayu_miui_VAYUINGlobal_V14.0.1.0.TJUINXM_dece330808_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vayu/fw_vayu_miui_VAYUINGlobal_V14.0.1.0.TJUINXM_dece330808_13.0.zip
+  filename: fw_vayu_miui_VAYUINGlobal_V14.0.1.0.TJUINXM_dece330808_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.4.0.SJUINXM
+    android: '13.0'
+    miui: V14.0.1.0.TJUINXM

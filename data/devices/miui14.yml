@@ -695,11 +695,23 @@
   name: POCO X3 NFC
   version: V14.0.1.0.SJGMIXM
 - android: '13.0'
+  codename: sweet
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKFEUXM/fw_sweet_miui_SWEETEEAGlobal_V14.0.2.0.TKFEUXM_d0e173e130_13.0.zip
+  name: Redmi Note 10 Pro
+  version: V14.0.2.0.TKFEUXM
+- android: '13.0'
   codename: taoyao
   date: '2023-01-28'
   download: https://bigota.d.miui.com/V14.0.5.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.5.0.TLIEUXM_902d0638de_13.0.zip
   name: Xiaomi 12 Lite
   version: V14.0.5.0.TLIEUXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.8.0.TLIEUXM_941e46cea6_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.8.0.TLIEUXM
 - android: '13.0'
   codename: taoyao
   date: '2023-02-02'
@@ -708,10 +720,22 @@
   version: V14.0.3.0.TLIMIXM
 - android: '13.0'
   codename: thor
+  date: '2023-03-14'
+  download: https://bigota.d.miui.com/V14.0.10.0.TLACNXM/fw_thor_miui_THOR_V14.0.10.0.TLACNXM_44494aa81d_13.0.zip
+  name: Xiaomi 12S Ultra
+  version: V14.0.10.0.TLACNXM
+- android: '13.0'
+  codename: thor
   date: '2023-01-15'
   download: https://bigota.d.miui.com/V14.0.5.0.TLACNXM/fw_thor_miui_THOR_V14.0.5.0.TLACNXM_5c17bcc84b_13.0.zip
   name: Xiaomi 12S Ultra
   version: V14.0.5.0.TLACNXM
+- android: '13.0'
+  codename: thyme
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGACNXM/fw_thyme_miui_THYME_V14.0.4.0.TGACNXM_dd2bd8fc3b_13.0.zip
+  name: Mi 10S
+  version: V14.0.4.0.TGACNXM
 - android: '13.0'
   codename: thyme
   date: '2023-02-01'
@@ -720,10 +744,28 @@
   version: V14.0.2.0.TGACNXM
 - android: '13.0'
   codename: unicorn
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.7.0.TLECNXM_28340a028e_13.0.zip
+  name: Xiaomi 12S Pro
+  version: V14.0.7.0.TLECNXM
+- android: '13.0'
+  codename: unicorn
   date: '2023-01-10'
   download: https://bigota.d.miui.com/V14.0.4.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.4.0.TLECNXM_5d047a1bdd_13.0.zip
   name: Xiaomi 12S Pro
   version: V14.0.4.0.TLECNXM
+- android: '13.0'
+  codename: vayu
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.1.0.TJUEUXM/fw_vayu_miui_VAYUEEAGlobal_V14.0.1.0.TJUEUXM_d2bc285a06_13.0.zip
+  name: POCO X3 Pro
+  version: V14.0.1.0.TJUEUXM
+- android: '13.0'
+  codename: vayu
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.1.0.TJUINXM/fw_vayu_miui_VAYUINGlobal_V14.0.1.0.TJUINXM_dece330808_13.0.zip
+  name: POCO X3 Pro
+  version: V14.0.1.0.TJUINXM
 - android: '13.0'
   codename: vayu
   date: '2023-02-06'
@@ -732,10 +774,40 @@
   version: V14.0.1.0.TJUMIXM
 - android: '13.0'
   codename: venus
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKBEUXM/fw_venus_miui_VENUSEEAGlobal_V14.0.2.0.TKBEUXM_82a529d800_13.0.zip
+  name: Mi 11
+  version: V14.0.2.0.TKBEUXM
+- android: '13.0'
+  codename: venus
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKBMIXM/fw_venus_miui_VENUSGlobal_V14.0.1.0.TKBMIXM_7bb8eaa99a_13.0.zip
+  name: Mi 11
+  version: V14.0.1.0.TKBMIXM
+- android: '13.0'
+  codename: venus
   date: '2023-01-14'
   download: https://bigota.d.miui.com/V14.0.8.0.TKBCNXM/fw_venus_miui_VENUS_V14.0.8.0.TKBCNXM_3db9892b71_13.0.zip
   name: Mi 11
   version: V14.0.8.0.TKBCNXM
+- android: '13.0'
+  codename: vili
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKDEUXM/fw_vili_miui_VILIEEAGlobal_V14.0.5.0.TKDEUXM_eb90448a78_13.0.zip
+  name: Xiaomi 11T Pro
+  version: V14.0.5.0.TKDEUXM
+- android: '13.0'
+  codename: vili
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKDMIXM/fw_vili_miui_VILIGlobal_V14.0.1.0.TKDMIXM_81b331177e_13.0.zip
+  name: Xiaomi 11T Pro
+  version: V14.0.1.0.TKDMIXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-03-15'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.3.0.TLOCNXM_3a52786fc2_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.3.0.TLOCNXM
 - android: '13.0'
   codename: xaga
   date: '2023-01-09'

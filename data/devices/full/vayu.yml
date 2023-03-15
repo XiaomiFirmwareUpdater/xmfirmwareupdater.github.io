@@ -159,6 +159,26 @@
     android: '12.0'
     miui: V13.0.4.0.SJUINXM
 - branch: stable
+  date: '2023-03-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-15.03.2023/fw_vayu_miui_VAYUEEAGlobal_V14.0.1.0.TJUEUXM_d2bc285a06_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vayu/fw_vayu_miui_VAYUEEAGlobal_V14.0.1.0.TJUEUXM_d2bc285a06_13.0.zip
+  filename: fw_vayu_miui_VAYUEEAGlobal_V14.0.1.0.TJUEUXM_d2bc285a06_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TJUEUXM
+- branch: stable
+  date: '2023-03-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-15.03.2023/fw_vayu_miui_VAYUINGlobal_V14.0.1.0.TJUINXM_dece330808_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vayu/fw_vayu_miui_VAYUINGlobal_V14.0.1.0.TJUINXM_dece330808_13.0.zip
+  filename: fw_vayu_miui_VAYUINGlobal_V14.0.1.0.TJUINXM_dece330808_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TJUINXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vayu/releases/download/stable-14.04.2021/fw_vayu_miui_VAYUEEAGlobal_V12.0.5.0.RJUEUXM_756afb9384_11.0.zip
