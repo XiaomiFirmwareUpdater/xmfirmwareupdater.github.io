@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 15 Mar 2023 20:49:28 +0900</pubDate>
+  <pubDate>Thu, 16 Mar 2023 01:24:43 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 Pro (sweet) - V14.0.1.0.TKFMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
+    <pubDate>Thu, 16 Mar 2023 01:24:43 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V14.0.2.0.TKYCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
@@ -100,11 +105,6 @@
     <title>Mi 10S (thyme) - V14.0.4.0.TGACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
     <pubDate>Wed, 15 Mar 2023 09:14:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Ultra (thor) - V14.0.10.0.TLACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thor</link>
-    <pubDate>Wed, 15 Mar 2023 08:46:39 +0900</pubDate>
   </item>
     </channel>
 </rss>

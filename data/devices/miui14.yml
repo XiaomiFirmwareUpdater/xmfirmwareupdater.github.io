@@ -701,12 +701,6 @@
   name: POCO X3 NFC
   version: V14.0.1.0.SJGMIXM
 - android: '13.0'
-  codename: sweet
-  date: '2023-03-14'
-  download: https://bigota.d.miui.com/V14.0.2.0.TKFEUXM/fw_sweet_miui_SWEETEEAGlobal_V14.0.2.0.TKFEUXM_d0e173e130_13.0.zip
-  name: Redmi Note 10 Pro
-  version: V14.0.2.0.TKFEUXM
-- android: '13.0'
   codename: taoyao
   date: '2023-01-28'
   download: https://bigota.d.miui.com/V14.0.5.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.5.0.TLIEUXM_902d0638de_13.0.zip
