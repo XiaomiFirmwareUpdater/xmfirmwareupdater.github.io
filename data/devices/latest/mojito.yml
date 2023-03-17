@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-02-08'
+  date: '2023-03-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-08.02.2023/fw_mojito_miui_MOJITOGlobal_V14.0.1.0.SKGMIXM_d9a5077bf4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOGlobal_V14.0.1.0.SKGMIXM_d9a5077bf4_12.0.zip
-  filename: fw_mojito_miui_MOJITOGlobal_V14.0.1.0.SKGMIXM_d9a5077bf4_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-17.03.2023/fw_mojito_miui_MOJITOGlobal_V14.0.2.0.SKGMIXM_aa6b0021f8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOGlobal_V14.0.2.0.SKGMIXM_aa6b0021f8_12.0.zip
+  filename: fw_mojito_miui_MOJITOGlobal_V14.0.2.0.SKGMIXM_aa6b0021f8_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V14.0.1.0.SKGMIXM
+    miui: V14.0.2.0.SKGMIXM
 - branch: stable
   date: '2023-03-14'
   downloads:

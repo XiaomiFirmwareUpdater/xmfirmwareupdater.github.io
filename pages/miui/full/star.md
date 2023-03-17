@@ -53,7 +53,8 @@ permalink: /archive/miui/star/
                 </thead>
                 <tbody>
                 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-03-10</td><td><a href="/miui/star/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
-<tr><td>Mi 11 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKAMIXM</td><td>13.0</td><td>4.8 GB</td><td>2023-03-06</td><td><a href="/miui/star/stable beta/V14.0.1.0.TKAMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKAMIXM</td><td>13.0</td><td>4.8 GB</td><td>2023-03-06</td><td><a href="/miui/star/stable/V14.0.1.0.TKAMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKAMIXM</td><td>13.0</td><td>6.2 GB</td><td>2023-02-10</td><td><a href="/miui/star/stable/V14.0.1.0.TKAMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-03-03</td><td><a href="/miui/star/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.21.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-02-24</td><td><a href="/miui/star/public beta/V14.0.23.2.21.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.13.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-02-17</td><td><a href="/miui/star/public beta/V14.0.23.2.13.DEV/">Download</a></td></tr>
@@ -73,10 +74,10 @@ permalink: /archive/miui/star/
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>3.8 GB</td><td>2022-10-28</td><td><a href="/miui/star/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra India</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKAINXM</td><td>12.0</td><td>3.8 GB</td><td>2022-10-25</td><td><a href="/miui/star/stable/V13.0.5.0.SKAINXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra India</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKAINXM</td><td>12.0</td><td>4.7 GB</td><td>2022-09-28</td><td><a href="/miui/star/stable/V13.0.5.0.SKAINXM/">Download</a></td></tr>
-<tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SKAEUXM</td><td>12.0</td><td>3.8 GB</td><td>2022-10-17</td><td><a href="/miui/star/stable/V13.0.9.0.SKAEUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SKAEUXM</td><td>12.0</td><td>5.7 GB</td><td>2022-09-07</td><td><a href="/miui/star/stable/V13.0.9.0.SKAEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TKACNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-01-14</td><td><a href="/miui/star/stable/V14.0.6.0.TKACNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TKACNXM</td><td>13.0</td><td>7.5 GB</td><td>2023-01-10</td><td><a href="/miui/star/stable/V14.0.6.0.TKACNXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SKAEUXM</td><td>12.0</td><td>3.8 GB</td><td>2022-10-17</td><td><a href="/miui/star/stable/V13.0.9.0.SKAEUXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SKAEUXM</td><td>12.0</td><td>5.7 GB</td><td>2022-09-07</td><td><a href="/miui/star/stable/V13.0.9.0.SKAEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Global</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SKAMIXM</td><td>12.0</td><td>3.8 GB</td><td>2022-10-17</td><td><a href="/miui/star/stable/V13.0.6.0.SKAMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SKAMIXM</td><td>12.0</td><td>5.7 GB</td><td>2022-09-07</td><td><a href="/miui/star/stable/V13.0.6.0.SKAMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>3.9 GB</td><td>2022-09-30</td><td><a href="/miui/star/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
