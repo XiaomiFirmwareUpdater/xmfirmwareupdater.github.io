@@ -185,6 +185,12 @@
   name: Xiaomi Pad 5 Pro Wi-Fi
   version: V14.0.2.0.TKYCNXM
 - android: '13.0'
+  codename: enuma
+  date: '2023-03-17'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKZCNXM/fw_enuma_miui_ENUMA_V14.0.1.0.TKZCNXM_e103bafd31_13.0.zip
+  name: Xiaomi Pad 5 Pro 5G
+  version: V14.0.1.0.TKZCNXM
+- android: '13.0'
   codename: fuxi
   date: '2022-12-14'
   download: https://bigota.d.miui.com/V14.0.4.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.4.0.TMCCNXM_f4decbbbee_13.0.zip
@@ -456,6 +462,12 @@
   version: V14.0.3.0.TLMCNXM
 - android: '13.0'
   codename: nabu
+  date: '2023-03-17'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKXMIXM/fw_nabu_miui_NABUGlobal_V14.0.3.0.TKXMIXM_45f6ebc192_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.3.0.TKXMIXM
+- android: '13.0'
+  codename: nabu
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.4.0.TKXCNXM/fw_nabu_miui_NABU_V14.0.4.0.TKXCNXM_4a5416de6f_13.0.zip
   name: Xiaomi Pad 5
@@ -664,6 +676,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TLUMIXM/fw_rock_miui_ROCKGlobal_V14.0.6.0.TLUMIXM_b64ad54537_13.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: V14.0.6.0.TLUMIXM
+- android: '13.0'
+  codename: rosemary
+  date: '2023-03-17'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V14.0.2.0.TKLMIXM_85c6d48a94_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.2.0.TKLMIXM
 - android: '13.0'
   codename: rubens
   date: '2023-03-14'

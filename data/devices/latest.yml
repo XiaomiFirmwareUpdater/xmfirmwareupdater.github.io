@@ -1209,15 +1209,15 @@
     android: '11.0'
     miui: 22.3.24
 - branch: stable
-  date: '2022-10-24'
+  date: '2023-03-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_enuma/releases/download/stable-24.10.2022/fw_enuma_miui_ENUMA_V13.1.4.0.SKZCNXM_9ca06e5bf2_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/enuma/fw_enuma_miui_ENUMA_V13.1.4.0.SKZCNXM_9ca06e5bf2_12.0.zip
-  filename: fw_enuma_miui_ENUMA_V13.1.4.0.SKZCNXM_9ca06e5bf2_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_enuma/releases/download/stable-17.03.2023/fw_enuma_miui_ENUMA_V14.0.1.0.TKZCNXM_e103bafd31_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/enuma/fw_enuma_miui_ENUMA_V14.0.1.0.TKZCNXM_e103bafd31_13.0.zip
+  filename: fw_enuma_miui_ENUMA_V14.0.1.0.TKZCNXM_e103bafd31_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.1.4.0.SKZCNXM
+    android: '13.0'
+    miui: V14.0.1.0.TKZCNXM
 - branch: weekly
   date: '2021-12-31'
   downloads:
@@ -2669,15 +2669,15 @@
     android: '13.0'
     miui: V14.0.2.0.TLMINXM
 - branch: stable
-  date: '2023-01-14'
+  date: '2023-03-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-14.01.2023/fw_nabu_miui_NABUGlobal_V13.1.4.0.SKXMIXM_fa263367a7_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUGlobal_V13.1.4.0.SKXMIXM_fa263367a7_12.0.zip
-  filename: fw_nabu_miui_NABUGlobal_V13.1.4.0.SKXMIXM_fa263367a7_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-17.03.2023/fw_nabu_miui_NABUGlobal_V14.0.3.0.TKXMIXM_45f6ebc192_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUGlobal_V14.0.3.0.TKXMIXM_45f6ebc192_13.0.zip
+  filename: fw_nabu_miui_NABUGlobal_V14.0.3.0.TKXMIXM_45f6ebc192_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.1.4.0.SKXMIXM
+    android: '13.0'
+    miui: V14.0.3.0.TKXMIXM
 - branch: stable
   date: '2023-03-14'
   downloads:
@@ -3669,15 +3669,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2023-03-14'
+  date: '2023-03-17'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-14.03.2023/fw_rosemary_miui_ROSEMARYGlobal_V13.0.13.0.SKLMIXM_1c55667e71_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V13.0.13.0.SKLMIXM_1c55667e71_12.0.zip
-  filename: fw_rosemary_miui_ROSEMARYGlobal_V13.0.13.0.SKLMIXM_1c55667e71_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-17.03.2023/fw_rosemary_miui_ROSEMARYGlobal_V14.0.2.0.TKLMIXM_85c6d48a94_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYGlobal_V14.0.2.0.TKLMIXM_85c6d48a94_13.0.zip
+  filename: fw_rosemary_miui_ROSEMARYGlobal_V14.0.2.0.TKLMIXM_85c6d48a94_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.13.0.SKLMIXM
+    android: '13.0'
+    miui: V14.0.2.0.TKLMIXM
 - branch: stable
   date: '2022-12-20'
   downloads:

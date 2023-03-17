@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 17 Mar 2023 13:58:17 +0900</pubDate>
+  <pubDate>Fri, 17 Mar 2023 20:37:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.2.0.TKLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Fri, 17 Mar 2023 20:37:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V14.0.3.0.TKXMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Fri, 17 Mar 2023 20:12:51 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro 5G (enuma) - V14.0.1.0.TKZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/enuma</link>
+    <pubDate>Fri, 17 Mar 2023 19:47:55 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10 (mojito) - V14.0.2.0.SKGMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
@@ -90,21 +105,6 @@
     <title>Xiaomi 11T Pro (vili) - V14.0.1.0.TKDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
     <pubDate>Wed, 15 Mar 2023 12:59:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V14.0.5.0.TKDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Wed, 15 Mar 2023 12:13:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V14.0.1.0.TKBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Wed, 15 Mar 2023 11:36:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V14.0.2.0.TKBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Wed, 15 Mar 2023 11:00:59 +0900</pubDate>
   </item>
     </channel>
 </rss>
