@@ -1269,15 +1269,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-03-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-08.12.2022/fw_evergo_miui_EVERGO_V13.0.8.0.SGBCNXM_79f590f148_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergo/fw_evergo_miui_EVERGO_V13.0.8.0.SGBCNXM_79f590f148_12.0.zip
-  filename: fw_evergo_miui_EVERGO_V13.0.8.0.SGBCNXM_79f590f148_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-18.03.2023/fw_evergo_miui_EVERGO_V12.5.13.0.RGBCNXM_020069c952_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/evergo/fw_evergo_miui_EVERGO_V12.5.13.0.RGBCNXM_020069c952_11.0.zip
+  filename: fw_evergo_miui_EVERGO_V12.5.13.0.RGBCNXM_020069c952_11.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.8.0.SGBCNXM
+    android: '11.0'
+    miui: V12.5.13.0.RGBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -1299,15 +1299,15 @@
     android: '12.0'
     miui: V13.0.7.0.SGBINXM
 - branch: stable
-  date: '2022-12-16'
+  date: '2023-03-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-16.12.2022/fw_evergreen_miui_EVERGREENGlobal_V13.0.4.0.SGBMIXM_ca9fde191a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergreen/fw_evergreen_miui_EVERGREENGlobal_V13.0.4.0.SGBMIXM_ca9fde191a_12.0.zip
-  filename: fw_evergreen_miui_EVERGREENGlobal_V13.0.4.0.SGBMIXM_ca9fde191a_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-18.03.2023/fw_evergreen_miui_EVERGREENGlobal_V13.0.5.0.SGBMIXM_aeb24364f4_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergreen/fw_evergreen_miui_EVERGREENGlobal_V13.0.5.0.SGBMIXM_aeb24364f4_12.0.zip
+  filename: fw_evergreen_miui_EVERGREENGlobal_V13.0.5.0.SGBMIXM_aeb24364f4_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.4.0.SGBMIXM
+    miui: V13.0.5.0.SGBMIXM
 - branch: stable
   date: '2023-01-16'
   downloads:
