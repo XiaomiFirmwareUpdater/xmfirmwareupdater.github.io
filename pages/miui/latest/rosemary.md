@@ -68,6 +68,7 @@ permalink: /miui/rosemary/
 <tr><td>POCO M5S EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SFFEUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-12-30</td><td><a href="/miui/rosemary/stable beta/V13.0.4.0.SFFEUXM/">Download</a></td></tr>
 <tr><td>POCO M5S Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SFFMIXM</td><td>12.0</td><td>6.3 GB</td><td>2023-01-17</td><td><a href="/miui/rosemary/stable/V13.0.7.0.SFFMIXM/">Download</a></td></tr>
 <tr><td>POCO M5S Global</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SFFMIXM</td><td>12.0</td><td>3.4 GB</td><td>2023-02-05</td><td><a href="/miui/rosemary/stable/V13.0.7.0.SFFMIXM/">Download</a></td></tr>
+<tr><td>POCO M5S Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.8.0.SFFMIXM</td><td>12.0</td><td>3.4 GB</td><td>2023-03-17</td><td><a href="/miui/rosemary/stable beta/V13.0.8.0.SFFMIXM/">Download</a></td></tr>
 <tr><td>POCO M5S Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SFFIDXM</td><td>12.0</td><td>5.6 GB</td><td>2022-10-10</td><td><a href="/miui/rosemary/stable/V13.0.2.0.SFFIDXM/">Download</a></td></tr>
 <tr><td>POCO M5S Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SFFIDXM</td><td>12.0</td><td>3.2 GB</td><td>2022-10-25</td><td><a href="/miui/rosemary/stable/V13.0.2.0.SFFIDXM/">Download</a></td></tr>
 <tr><td>POCO M5S Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SFFIDXM</td><td>12.0</td><td>3.3 GB</td><td>2023-02-05</td><td><a href="/miui/rosemary/stable beta/V13.0.3.0.SFFIDXM/">Download</a></td></tr>
