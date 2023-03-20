@@ -3972,6 +3972,12 @@
   version: V13.0.7.0.SKLEUXM
 - android: '12.0'
   codename: rosemary
+  date: '2023-03-20'
+  download: https://bigota.d.miui.com/V13.0.9.0.SKLEUXM/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.9.0.SKLEUXM_072d098382_12.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V13.0.9.0.SKLEUXM
+- android: '12.0'
+  codename: rosemary
   date: '2022-08-15'
   download: https://bigota.d.miui.com/V13.0.8.0.SKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V13.0.8.0.SKLMIXM_3d9d6aefd1_12.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S

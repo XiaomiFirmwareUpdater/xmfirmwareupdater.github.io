@@ -409,15 +409,15 @@
     android: '9.0'
     miui: 20.1.9
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-03-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-08.12.2022/fw_camellia_miui_CAMELLIA_V13.0.9.0.SKSCNXM_4043385982_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellia/fw_camellia_miui_CAMELLIA_V13.0.9.0.SKSCNXM_4043385982_12.0.zip
-  filename: fw_camellia_miui_CAMELLIA_V13.0.9.0.SKSCNXM_4043385982_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-20.03.2023/fw_camellia_miui_CAMELLIA_V14.0.2.0.TKSCNXM_3b9393dc62_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/camellia/fw_camellia_miui_CAMELLIA_V14.0.2.0.TKSCNXM_3b9393dc62_13.0.zip
+  filename: fw_camellia_miui_CAMELLIA_V14.0.2.0.TKSCNXM_3b9393dc62_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.9.0.SKSCNXM
+    android: '13.0'
+    miui: V14.0.2.0.TKSCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -989,15 +989,15 @@
     android: '10.0'
     miui: V11.0.21.0.QDLMIXM
 - branch: stable
-  date: '2022-12-29'
+  date: '2023-03-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-29.12.2022/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.9.0.RCZMIXM_2cd5f3621e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.9.0.RCZMIXM_2cd5f3621e_11.0.zip
-  filename: fw_dandelion_miui_DANDELIONC3L2Global_V12.5.9.0.RCZMIXM_2cd5f3621e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-20.03.2023/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.10.0.RCZMIXM_6d2a555426_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2Global_V12.5.10.0.RCZMIXM_6d2a555426_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONC3L2Global_V12.5.10.0.RCZMIXM_6d2a555426_11.0.zip
   region: Global
   versions:
     android: '11.0'
-    miui: V12.5.9.0.RCZMIXM
+    miui: V12.5.10.0.RCZMIXM
 - branch: stable
   date: '2023-01-05'
   downloads:
@@ -1009,15 +1009,15 @@
     android: '11.0'
     miui: V12.5.12.0.RCZCNXM
 - branch: stable
-  date: '2022-12-19'
+  date: '2023-03-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-19.12.2022/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.7.0.RCZEUXM_493221ea6e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.7.0.RCZEUXM_493221ea6e_11.0.zip
-  filename: fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.7.0.RCZEUXM_493221ea6e_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-20.03.2023/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.8.0.RCZEUXM_15e00ffe62_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.8.0.RCZEUXM_15e00ffe62_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.8.0.RCZEUXM_15e00ffe62_11.0.zip
   region: Europe
   versions:
     android: '11.0'
-    miui: V12.5.7.0.RCZEUXM
+    miui: V12.5.8.0.RCZEUXM
 - branch: stable
   date: '2023-02-09'
   downloads:
@@ -3679,15 +3679,15 @@
     android: '13.0'
     miui: V14.0.2.0.TKLMIXM
 - branch: stable
-  date: '2022-12-20'
+  date: '2023-03-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-20.12.2022/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.7.0.SKLEUXM_a7b0439b65_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.7.0.SKLEUXM_a7b0439b65_12.0.zip
-  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.7.0.SKLEUXM_a7b0439b65_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-20.03.2023/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.9.0.SKLEUXM_072d098382_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.9.0.SKLEUXM_072d098382_12.0.zip
+  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.9.0.SKLEUXM_072d098382_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SKLEUXM
+    miui: V13.0.9.0.SKLEUXM
 - branch: stable
   date: '2022-12-11'
   downloads:

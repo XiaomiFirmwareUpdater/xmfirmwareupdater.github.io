@@ -64,6 +64,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
   name: Redmi Note 8 (2021)
   version: V14.0.3.0.TCUMIXM
+- android: '13.0'
+  codename: camellia
+  date: '2023-03-20'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKSCNXM/fw_camellia_miui_CAMELLIA_V14.0.2.0.TKSCNXM_3b9393dc62_13.0.zip
+  name: Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G
+  version: V14.0.2.0.TKSCNXM
 - android: '12.0'
   codename: cannon
   date: '2023-03-14'
