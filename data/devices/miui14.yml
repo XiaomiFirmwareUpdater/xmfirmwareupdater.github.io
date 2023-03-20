@@ -384,6 +384,12 @@
   version: V14.0.2.0.SKGEUXM
 - android: '12.0'
   codename: mojito
+  date: '2023-03-20'
+  download: https://bigota.d.miui.com/V14.0.2.0.SKGINXM/fw_mojito_miui_MOJITOINGlobal_V14.0.2.0.SKGINXM_70dc101f9d_12.0.zip
+  name: Redmi Note 10
+  version: V14.0.2.0.SKGINXM
+- android: '12.0'
+  codename: mojito
   date: '2023-02-20'
   download: https://bigota.d.miui.com/V14.0.1.0.SKGINXM/fw_mojito_miui_MOJITOINGlobal_V14.0.1.0.SKGINXM_7a7766efbc_12.0.zip
   name: Redmi Note 10
