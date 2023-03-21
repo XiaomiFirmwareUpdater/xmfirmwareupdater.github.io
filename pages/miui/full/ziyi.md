@@ -52,7 +52,9 @@ permalink: /archive/miui/ziyi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SLLRUXM</td><td>12.0</td><td>4.6 GB</td><td>2023-03-17</td><td><a href="/miui/ziyi/stable beta/V14.0.2.0.SLLRUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SLLTWXM</td><td>12.0</td><td>4.6 GB</td><td>2023-03-21</td><td><a href="/miui/ziyi/stable beta/V14.0.2.0.SLLTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SLLTRXM</td><td>12.0</td><td>4.6 GB</td><td>2023-03-21</td><td><a href="/miui/ziyi/stable beta/V14.0.2.0.SLLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SLLRUXM</td><td>12.0</td><td>4.6 GB</td><td>2023-03-17</td><td><a href="/miui/ziyi/stable beta/V14.0.2.0.SLLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.SLLMIXM</td><td>12.0</td><td>4.6 GB</td><td>2023-02-27</td><td><a href="/miui/ziyi/stable/V14.0.1.0.SLLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.SLLMIXM</td><td>12.0</td><td>6.9 GB</td><td>2023-01-10</td><td><a href="/miui/ziyi/stable/V14.0.1.0.SLLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.SLLRUXM</td><td>12.0</td><td>4.6 GB</td><td>2023-02-27</td><td><a href="/miui/ziyi/stable/V14.0.1.0.SLLRUXM/">Download</a></td></tr>
@@ -74,12 +76,12 @@ permalink: /archive/miui/ziyi/
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SLLCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-12-07</td><td><a href="/miui/ziyi/stable/V13.0.10.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-11-19</td><td><a href="/miui/ziyi/stable/V13.0.9.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SLLCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-11-15</td><td><a href="/miui/ziyi/stable/V13.0.9.0.SLLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TLLCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-01-31</td><td><a href="/miui/ziyi/stable/V14.0.9.0.TLLCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TLLCNXM</td><td>13.0</td><td>7.4 GB</td><td>2023-01-29</td><td><a href="/miui/ziyi/stable/V14.0.9.0.TLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-11-11</td><td><a href="/miui/ziyi/stable/V13.0.8.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SLLCNXM</td><td>12.0</td><td>7.2 GB</td><td>2022-11-05</td><td><a href="/miui/ziyi/stable/V13.0.8.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-10-27</td><td><a href="/miui/ziyi/stable/V13.0.7.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SLLCNXM</td><td>12.0</td><td>7.2 GB</td><td>2022-10-21</td><td><a href="/miui/ziyi/stable/V13.0.7.0.SLLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TLLCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-01-31</td><td><a href="/miui/ziyi/stable/V14.0.9.0.TLLCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TLLCNXM</td><td>13.0</td><td>7.4 GB</td><td>2023-01-29</td><td><a href="/miui/ziyi/stable/V14.0.9.0.TLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-09-27</td><td><a href="/miui/ziyi/stable beta/V13.0.1.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-09-27</td><td><a href="/miui/ziyi/stable/V13.0.3.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLLCNXM</td><td>12.0</td><td>7.2 GB</td><td>2022-09-23</td><td><a href="/miui/ziyi/stable/V13.0.3.0.SLLCNXM/">Download</a></td></tr>

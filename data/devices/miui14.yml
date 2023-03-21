@@ -522,6 +522,12 @@
   version: V14.0.1.0.TKMCNXM
 - android: '13.0'
   codename: pissarro
+  date: '2023-03-21'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_V14.0.4.0.TKTMIXM_8f50b7ddb8_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.4.0.TKTMIXM
+- android: '13.0'
+  codename: pissarro
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.2.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.2.0.TKTEUXM_8f9fca8887_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -730,6 +736,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.11.0.TMKCNXM_01ab8e04e6_13.0.zip
   name: Redmi K60 Pro
   version: V14.0.11.0.TMKCNXM
+- android: '13.0'
+  codename: star
+  date: '2023-03-21'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKAEUXM/fw_star_miui_STAREEAGlobal_V14.0.3.0.TKAEUXM_39d6121a64_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.3.0.TKAEUXM
 - android: '13.0'
   codename: star
   date: '2023-03-14'

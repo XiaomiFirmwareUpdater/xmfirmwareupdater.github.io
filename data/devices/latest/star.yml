@@ -29,15 +29,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2022-10-19'
+  date: '2023-03-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-19.10.2022/fw_star_miui_STAREEAGlobal_V13.0.9.0.SKAEUXM_5ec4a119b8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/star/fw_star_miui_STAREEAGlobal_V13.0.9.0.SKAEUXM_5ec4a119b8_12.0.zip
-  filename: fw_star_miui_STAREEAGlobal_V13.0.9.0.SKAEUXM_5ec4a119b8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-21.03.2023/fw_star_miui_STAREEAGlobal_V14.0.3.0.TKAEUXM_39d6121a64_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/star/fw_star_miui_STAREEAGlobal_V14.0.3.0.TKAEUXM_39d6121a64_13.0.zip
+  filename: fw_star_miui_STAREEAGlobal_V14.0.3.0.TKAEUXM_39d6121a64_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.9.0.SKAEUXM
+    android: '13.0'
+    miui: V14.0.3.0.TKAEUXM
 - branch: stable
   date: '2022-11-02'
   downloads:

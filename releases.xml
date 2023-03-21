@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 20 Mar 2023 20:13:21 +0900</pubDate>
+  <pubDate>Tue, 21 Mar 2023 14:24:19 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.3.0.TKAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Tue, 21 Mar 2023 14:24:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.4.0.TKTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
+    <pubDate>Tue, 21 Mar 2023 13:52:21 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V13.0.9.0.SKLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 10 Pro (sweet) - V14.0.1.0.TKFMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
     <pubDate>Thu, 16 Mar 2023 07:29:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V14.0.2.0.TKYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
-    <pubDate>Wed, 15 Mar 2023 20:49:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Pad (yunluo) - V14.0.5.0.TLYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
-    <pubDate>Wed, 15 Mar 2023 16:45:28 +0900</pubDate>
   </item>
     </channel>
 </rss>
