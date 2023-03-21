@@ -76,6 +76,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SJECNXM/fw_cannon_miui_CANNON_V14.0.2.0.SJECNXM_37e6139886_12.0.zip
   name: Redmi Note 9 5G
   version: V14.0.2.0.SJECNXM
+- android: '12.0'
+  codename: cezanne
+  date: '2023-03-21'
+  download: https://bigota.d.miui.com/V14.0.1.0.SJNCNXM/fw_cezanne_miui_CEZANNE_V14.0.1.0.SJNCNXM_cbba55822d_12.0.zip
+  name: Redmi K30 Ultra
+  version: V14.0.1.0.SJNCNXM
 - android: '13.0'
   codename: chopin
   date: '2023-01-16'

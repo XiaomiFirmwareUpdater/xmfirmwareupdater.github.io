@@ -569,6 +569,16 @@
     android: '11.0'
     miui: V12.5.5.0.RJNCNXM
 - branch: stable
+  date: '2023-03-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-21.03.2023/fw_cezanne_miui_CEZANNE_V14.0.1.0.SJNCNXM_cbba55822d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cezanne/fw_cezanne_miui_CEZANNE_V14.0.1.0.SJNCNXM_cbba55822d_12.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V14.0.1.0.SJNCNXM_cbba55822d_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V14.0.1.0.SJNCNXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-19.12.2020/fw_cezanne_miui_CEZANNE_V12.0.18.0.QJNCNXM_1ce587627e_10.0.zip

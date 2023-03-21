@@ -426,6 +426,12 @@
   version: 21.8.25
 - android: '11.0'
   codename: ares
+  date: '2021-09-24'
+  download: https://bigota.d.miui.com/21.9.22/miui_ARES_21.9.22_fdedad7518_11.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: 21.9.22
+- android: '11.0'
+  codename: ares
   date: '2021-07-22'
   download: https://bigota.d.miui.com/21.7.21/miui_ARES_21.7.21_9ffccf4fa6_11.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
@@ -468,6 +474,18 @@
   version: 21.10.13
 - android: '11.0'
   codename: ares
+  date: '2021-09-16'
+  download: https://bigota.d.miui.com/21.9.15/miui_ARES_21.9.15_f3857e6d25_11.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: 21.9.15
+- android: '11.0'
+  codename: ares
+  date: '2021-07-15'
+  download: https://bigota.d.miui.com/21.7.14/miui_ARES_21.7.14_2afb8a7580_11.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: 21.7.14
+- android: '11.0'
+  codename: ares
   date: '2021-08-12'
   download: https://bigota.d.miui.com/21.8.11/miui_ARES_21.8.11_2c75019e59_11.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
@@ -480,6 +498,12 @@
   version: 21.12.8
 - android: '11.0'
   codename: ares
+  date: '2021-06-10'
+  download: https://bigota.d.miui.com/21.6.9/miui_ARES_21.6.9_e551ed7fcb_11.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: 21.6.9
+- android: '11.0'
+  codename: ares
   date: '2021-09-09'
   download: https://bigota.d.miui.com/21.9.8/miui_ARES_21.9.8_f75c8f5545_11.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
@@ -490,12 +514,24 @@
   download: https://bigota.d.miui.com/21.7.7/miui_ARES_21.7.7_ab1f3e7216_11.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
   version: 21.7.7
+- android: '11.0'
+  codename: ares
+  date: '2021-08-05'
+  download: https://bigota.d.miui.com/21.8.4/miui_ARES_21.8.4_9076e148b3_11.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: 21.8.4
 - android: '12.0'
   codename: ares
   date: '2021-12-04'
   download: https://bigota.d.miui.com/21.12.1/miui_ARES_21.12.1_0f37f9f6c1_12.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
   version: 21.12.1
+- android: '11.0'
+  codename: ares
+  date: '2021-09-04'
+  download: https://bigota.d.miui.com/21.9.2/miui_ARES_21.9.2_dc2c1fe2dc_11.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: 21.9.2
 - android: '11.0'
   codename: ares
   date: '2021-06-03'
