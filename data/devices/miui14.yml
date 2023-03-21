@@ -870,6 +870,12 @@
   version: V14.0.8.0.TKBCNXM
 - android: '13.0'
   codename: vili
+  date: '2023-03-21'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKDINXM/fw_vili_miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip
+  name: Xiaomi 11T Pro
+  version: V14.0.1.0.TKDINXM
+- android: '13.0'
+  codename: vili
   date: '2023-03-15'
   download: https://bigota.d.miui.com/V14.0.5.0.TKDEUXM/fw_vili_miui_VILIEEAGlobal_V14.0.5.0.TKDEUXM_eb90448a78_13.0.zip
   name: Xiaomi 11T Pro

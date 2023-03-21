@@ -3689,15 +3689,15 @@
     android: '12.0'
     miui: V13.0.9.0.SKLEUXM
 - branch: stable
-  date: '2022-12-11'
+  date: '2023-03-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-11.12.2022/fw_rosemary_miui_ROSEMARYINGlobal_V13.0.8.0.SKLINXM_41feb77549_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V13.0.8.0.SKLINXM_41feb77549_12.0.zip
-  filename: fw_rosemary_miui_ROSEMARYINGlobal_V13.0.8.0.SKLINXM_41feb77549_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-21.03.2023/fw_rosemary_miui_ROSEMARYINGlobal_V13.0.11.0.SKLINXM_595432337a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V13.0.11.0.SKLINXM_595432337a_12.0.zip
+  filename: fw_rosemary_miui_ROSEMARYINGlobal_V13.0.11.0.SKLINXM_595432337a_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.8.0.SKLINXM
+    miui: V13.0.11.0.SKLINXM
 - branch: stable
   date: '2020-01-19'
   downloads:
@@ -4659,15 +4659,15 @@
     android: '13.0'
     miui: V14.0.5.0.TKDEUXM
 - branch: stable
-  date: '2023-02-10'
+  date: '2023-03-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-10.02.2023/fw_vili_miui_VILIINGlobal_V13.0.12.0.SKDINXM_443c24b29c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vili/fw_vili_miui_VILIINGlobal_V13.0.12.0.SKDINXM_443c24b29c_12.0.zip
-  filename: fw_vili_miui_VILIINGlobal_V13.0.12.0.SKDINXM_443c24b29c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-21.03.2023/fw_vili_miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip
+  filename: fw_vili_miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.12.0.SKDINXM
+    android: '13.0'
+    miui: V14.0.1.0.TKDINXM
 - branch: stable
   date: '2019-11-26'
   downloads:
