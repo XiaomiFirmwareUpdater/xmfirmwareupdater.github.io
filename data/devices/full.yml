@@ -7659,16 +7659,6 @@
     android: '12.0'
     miui: 22.1.13
 - branch: weekly
-  date: '2021-11-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-12.11.2021/fw_camellia_miui_CAMELLIA_21.11.10_15c22afba8_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.10/camellia/fw_camellia_miui_CAMELLIA_21.11.10_15c22afba8_11.0.zip
-  filename: fw_camellia_miui_CAMELLIA_21.11.10_15c22afba8_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.11.10
-- branch: weekly
   date: '2021-08-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/weekly-12.08.2021/fw_camellia_miui_CAMELLIA_21.8.11_d3ee36c3bd_11.0.zip
