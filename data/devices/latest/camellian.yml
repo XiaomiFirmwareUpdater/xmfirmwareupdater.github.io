@@ -1,20 +1,20 @@
 - branch: stable
-  date: '2023-01-16'
+  date: '2023-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-16.01.2023/fw_camellian_miui_CAMELLIANGlobal_V13.0.5.0.SKSMIXM_48e287f010_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellian/fw_camellian_miui_CAMELLIANGlobal_V13.0.5.0.SKSMIXM_48e287f010_12.0.zip
-  filename: fw_camellian_miui_CAMELLIANGlobal_V13.0.5.0.SKSMIXM_48e287f010_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-23.03.2023/fw_camellian_miui_CAMELLIANGlobal_V13.0.6.0.SKSMIXM_b7ebae1b71_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellian/fw_camellian_miui_CAMELLIANGlobal_V13.0.6.0.SKSMIXM_b7ebae1b71_12.0.zip
+  filename: fw_camellian_miui_CAMELLIANGlobal_V13.0.6.0.SKSMIXM_b7ebae1b71_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SKSMIXM
+    miui: V13.0.6.0.SKSMIXM
 - branch: stable
-  date: '2023-01-03'
+  date: '2023-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-03.01.2023/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.7.0.SKSEUXM_93ad28887e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellian/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.7.0.SKSEUXM_93ad28887e_12.0.zip
-  filename: fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.7.0.SKSEUXM_93ad28887e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-23.03.2023/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.8.0.SKSEUXM_838939065c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/camellian/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.8.0.SKSEUXM_838939065c_12.0.zip
+  filename: fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.8.0.SKSEUXM_838939065c_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SKSEUXM
+    miui: V13.0.8.0.SKSEUXM

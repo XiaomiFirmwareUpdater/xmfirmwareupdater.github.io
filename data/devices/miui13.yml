@@ -624,6 +624,18 @@
   version: V13.0.3.0.SKSMIXM
 - android: '12.0'
   codename: camellian
+  date: '2023-03-23'
+  download: https://bigota.d.miui.com/V13.0.8.0.SKSEUXM/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.8.0.SKSEUXM_838939065c_12.0.zip
+  name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
+  version: V13.0.8.0.SKSEUXM
+- android: '12.0'
+  codename: camellian
+  date: '2023-03-23'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKSMIXM/fw_camellian_miui_CAMELLIANGlobal_V13.0.6.0.SKSMIXM_b7ebae1b71_12.0.zip
+  name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
+  version: V13.0.6.0.SKSMIXM
+- android: '12.0'
+  codename: camellian
   date: '2022-06-19'
   download: https://bigota.d.miui.com/V13.0.2.0.SKSEUXM/fw_camellian_miui_CAMELLIANEEAGlobal_V13.0.2.0.SKSEUXM_0ec4c69396_12.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
@@ -1420,6 +1432,12 @@
   download: https://bigota.d.miui.com/V13.0.13.0.SLFEUXM/fw_diting_miui_DITINGEEAGlobal_V13.0.13.0.SLFEUXM_c26ea2bd5e_12.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V13.0.13.0.SLFEUXM
+- android: '12.0'
+  codename: earth
+  date: '2023-03-23'
+  download: https://bigota.d.miui.com/V13.0.5.0.SCVMIXM/fw_earth_miui_EARTHGlobal_V13.0.5.0.SCVMIXM_65e757e671_12.0.zip
+  name: Redmi 12C/POCO C55
+  version: V13.0.5.0.SCVMIXM
 - android: '12.0'
   codename: earth
   date: '2023-02-22'
@@ -2824,6 +2842,12 @@
   download: https://bigota.d.miui.com/V13.0.0.1.1.DEV/fw_lmi_miui_LMI_V13.0.0.1.1.DEV_1735b2f6de_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
   version: V13.0.0.1.1.DEV
+- android: '12.0'
+  codename: lmi
+  date: '2022-06-10'
+  download: https://bigota.d.miui.com/V13.0.4.0.SJKCNXM/fw_lmi_miui_LMI_V13.0.4.0.SJKCNXM_285b75b959_12.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: V13.0.4.0.SJKCNXM
 - android: '12.0'
   codename: lmi
   date: '2022-09-08'
