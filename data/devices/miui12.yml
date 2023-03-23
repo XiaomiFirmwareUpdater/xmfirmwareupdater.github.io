@@ -5537,12 +5537,6 @@
   name: Mi MIX 2S
   version: 20.9.4
 - android: '10.0'
-  codename: polaris
-  date: '2020-06-04'
-  download: https://bigota.d.miui.com/20.6.4/miui_MIMIX2S_20.6.4_cc8d36bd27_10.0.zip
-  name: Mi MIX 2S
-  version: 20.6.4
-- android: '10.0'
   codename: pyxis
   date: '2020-10-31'
   download: https://bigota.d.miui.com/20.10.30/miui_PYXIS_20.10.30_8ca34e09be_10.0.zip
