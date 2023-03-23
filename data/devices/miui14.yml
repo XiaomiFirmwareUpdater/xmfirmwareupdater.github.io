@@ -358,12 +358,6 @@
   download: https://bigota.d.miui.com/V14.0.1.0.SJKEUXM/fw_lmi_miui_LMIEEAGlobal_V14.0.1.0.SJKEUXM_c924d9a77b_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
   version: V14.0.1.0.SJKEUXM
-- android: '12.0'
-  codename: lmi
-  date: '2023-03-10'
-  download: https://bigota.d.miui.com/V14.0.3.0.SJKCNXM/fw_lmi_miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip
-  name: Redmi K30 Pro/POCO F2 Pro
-  version: V14.0.3.0.SJKCNXM
 - android: '13.0'
   codename: matisse
   date: '2023-01-16'
@@ -436,6 +430,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKVCNXM/fw_mona_miui_MONA_V14.0.1.0.TKVCNXM_a3e94e4049_13.0.zip
   name: Xiaomi Civi
   version: V14.0.1.0.TKVCNXM
+- android: '13.0'
+  codename: mondrian
+  date: '2023-03-23'
+  download: https://bigota.d.miui.com/V14.0.22.0.TMNCNXM/fw_mondrian_miui_MONDRIAN_V14.0.22.0.TMNCNXM_812a3df868_13.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: V14.0.22.0.TMNCNXM
 - android: '13.0'
   codename: mondrian
   date: '2023-01-17'

@@ -2339,15 +2339,15 @@
     android: '12.0'
     miui: V13.0.3.0.SJKMIXM
 - branch: stable
-  date: '2023-03-10'
+  date: '2023-02-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-10.03.2023/fw_lmi_miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lmi/fw_lmi_miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip
-  filename: fw_lmi_miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-23.02.2023/fw_lmi_miui_LMI_V14.0.1.0.SJKCNXM_f138ab23ac_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lmi/fw_lmi_miui_LMI_V14.0.1.0.SJKCNXM_f138ab23ac_12.0.zip
+  filename: fw_lmi_miui_LMI_V14.0.1.0.SJKCNXM_f138ab23ac_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V14.0.3.0.SJKCNXM
+    miui: V14.0.1.0.SJKCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -2579,15 +2579,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2023-03-02'
+  date: '2023-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-02.03.2023/fw_mondrian_miui_MONDRIAN_V14.0.21.0.TMNCNXM_daa2975e16_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIAN_V14.0.21.0.TMNCNXM_daa2975e16_13.0.zip
-  filename: fw_mondrian_miui_MONDRIAN_V14.0.21.0.TMNCNXM_daa2975e16_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-23.03.2023/fw_mondrian_miui_MONDRIAN_V14.0.22.0.TMNCNXM_812a3df868_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIAN_V14.0.22.0.TMNCNXM_812a3df868_13.0.zip
+  filename: fw_mondrian_miui_MONDRIAN_V14.0.22.0.TMNCNXM_812a3df868_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.21.0.TMNCNXM
+    miui: V14.0.22.0.TMNCNXM
 - branch: stable
   date: '2022-11-17'
   downloads:
@@ -2609,15 +2609,15 @@
     android: '12.0'
     miui: V13.0.4.0.SJIEUXM
 - branch: stable
-  date: '2023-03-14'
+  date: '2023-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-14.03.2023/fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.1.0.SMPEUXM_eb220d7cfd_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.1.0.SMPEUXM_eb220d7cfd_12.0.zip
-  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.1.0.SMPEUXM_eb220d7cfd_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-23.03.2023/fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.4.0.SMPEUXM_abe32cb1f0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.4.0.SMPEUXM_abe32cb1f0_12.0.zip
+  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.4.0.SMPEUXM_abe32cb1f0_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SMPEUXM
+    miui: V13.0.4.0.SMPEUXM
 - branch: stable
   date: '2023-03-15'
   downloads:
@@ -4089,15 +4089,15 @@
     android: '12.0'
     miui: V13.0.5.0.SKAINXM
 - branch: stable
-  date: '2023-03-14'
+  date: '2023-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-14.03.2023/fw_sunstone_miui_SUNSTONE_V13.0.13.0.SMQCNXM_d762b9c2bb_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sunstone/fw_sunstone_miui_SUNSTONE_V13.0.13.0.SMQCNXM_d762b9c2bb_12.0.zip
-  filename: fw_sunstone_miui_SUNSTONE_V13.0.13.0.SMQCNXM_d762b9c2bb_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-23.03.2023/fw_sunstone_miui_SUNSTONE_V13.0.14.0.SMQCNXM_30a9e21f4a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sunstone/fw_sunstone_miui_SUNSTONE_V13.0.14.0.SMQCNXM_30a9e21f4a_12.0.zip
+  filename: fw_sunstone_miui_SUNSTONE_V13.0.14.0.SMQCNXM_30a9e21f4a_12.0.zip
   region: China
   versions:
     android: '12.0'
-    miui: V13.0.13.0.SMQCNXM
+    miui: V13.0.14.0.SMQCNXM
 - branch: stable
   date: '2023-03-14'
   downloads:

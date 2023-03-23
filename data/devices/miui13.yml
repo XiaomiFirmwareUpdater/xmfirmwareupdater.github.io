@@ -2826,12 +2826,6 @@
   version: V13.0.0.1.1.DEV
 - android: '12.0'
   codename: lmi
-  date: '2022-06-10'
-  download: https://bigota.d.miui.com/V13.0.4.0.SJKCNXM/fw_lmi_miui_LMI_V13.0.4.0.SJKCNXM_285b75b959_12.0.zip
-  name: Redmi K30 Pro/POCO F2 Pro
-  version: V13.0.4.0.SJKCNXM
-- android: '12.0'
-  codename: lmi
   date: '2022-09-08'
   download: https://bigota.d.miui.com/V13.0.5.0.SJKCNXM/fw_lmi_miui_LMI_V13.0.5.0.SJKCNXM_65e9a3c47f_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
@@ -3082,6 +3076,12 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SJIMIXM/fw_monet_miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip
   name: Mi 10 Lite
   version: V13.0.2.0.SJIMIXM
+- android: '12.0'
+  codename: moonstone
+  date: '2023-03-23'
+  download: https://bigota.d.miui.com/V13.0.4.0.SMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.4.0.SMPEUXM_abe32cb1f0_12.0.zip
+  name: POCO X5 5G
+  version: V13.0.4.0.SMPEUXM
 - android: '12.0'
   codename: moonstone
   date: '2023-03-15'
@@ -4540,6 +4540,12 @@
   download: https://bigota.d.miui.com/V13.0.10.0.SKACNXM/fw_star_miui_STAR_V13.0.10.0.SKACNXM_ccc25df1dc_12.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V13.0.10.0.SKACNXM
+- android: '12.0'
+  codename: sunstone
+  date: '2023-03-23'
+  download: https://bigota.d.miui.com/V13.0.14.0.SMQCNXM/fw_sunstone_miui_SUNSTONE_V13.0.14.0.SMQCNXM_30a9e21f4a_12.0.zip
+  name: Redmi Note 12 5G
+  version: V13.0.14.0.SMQCNXM
 - android: '12.0'
   codename: sunstone
   date: '2022-12-16'
