@@ -19,15 +19,15 @@
     android: '13.0'
     miui: V14.0.1.0.TKWEUXM
 - branch: stable
-  date: '2023-02-23'
+  date: '2023-03-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-23.02.2023/fw_alioth_miui_ALIOTHGlobal_V13.0.7.0.SKHMIXM_73b8f668f8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/alioth/fw_alioth_miui_ALIOTHGlobal_V13.0.7.0.SKHMIXM_73b8f668f8_12.0.zip
-  filename: fw_alioth_miui_ALIOTHGlobal_V13.0.7.0.SKHMIXM_73b8f668f8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-23.03.2023/fw_alioth_miui_ALIOTHGlobal_V14.0.4.0.TKHMIXM_b9ed940850_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/alioth/fw_alioth_miui_ALIOTHGlobal_V14.0.4.0.TKHMIXM_b9ed940850_13.0.zip
+  filename: fw_alioth_miui_ALIOTHGlobal_V14.0.4.0.TKHMIXM_b9ed940850_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.7.0.SKHMIXM
+    android: '13.0'
+    miui: V14.0.4.0.TKHMIXM
 - branch: stable
   date: '2023-02-17'
   downloads:
@@ -1349,15 +1349,15 @@
     android: '12.0'
     miui: V13.0.8.0.SKEMIXM
 - branch: stable
-  date: '2023-02-02'
+  date: '2022-11-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-02.02.2023/fw_fleur_miui_FLEUREEAGlobal_V13.0.2.0.SKEEUXM_b263906b79_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEUREEAGlobal_V13.0.2.0.SKEEUXM_b263906b79_12.0.zip
-  filename: fw_fleur_miui_FLEUREEAGlobal_V13.0.2.0.SKEEUXM_b263906b79_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-10.11.2022/fw_fleur_miui_FLEUREEAGlobal_V13.0.10.0.RKEEUXM_e9ad09d751_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEUREEAGlobal_V13.0.10.0.RKEEUXM_e9ad09d751_11.0.zip
+  filename: fw_fleur_miui_FLEUREEAGlobal_V13.0.10.0.RKEEUXM_e9ad09d751_11.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.2.0.SKEEUXM
+    android: '11.0'
+    miui: V13.0.10.0.RKEEUXM
 - branch: stable
   date: '2023-02-20'
   downloads:
