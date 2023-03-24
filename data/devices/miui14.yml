@@ -89,6 +89,12 @@
   name: Redmi Note 10 Pro 5G/POCO X3 GT
   version: V14.0.1.0.TKPMIXM
 - android: '13.0'
+  codename: cmi
+  date: '2023-03-24'
+  download: https://bigota.d.miui.com/V14.0.2.0.TJACNXM/fw_cmi_miui_CMI_V14.0.2.0.TJACNXM_40bb8418f6_13.0.zip
+  name: Mi 10 Pro
+  version: V14.0.2.0.TJACNXM
+- android: '13.0'
   codename: courbet
   date: '2023-03-16'
   download: https://bigota.d.miui.com/V14.0.2.0.TKQMIXM/fw_courbet_miui_COURBETGlobal_V14.0.2.0.TKQMIXM_480ceb4179_13.0.zip
@@ -202,6 +208,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.11.0.TMCCNXM_77665cadba_13.0.zip
   name: Xiaomi 13
   version: V14.0.11.0.TMCCNXM
+- android: '12.0'
+  codename: gauguin
+  date: '2023-03-24'
+  download: https://bigota.d.miui.com/V14.0.2.0.SJSCNXM/fw_gauguin_miui_GAUGUIN_V14.0.2.0.SJSCNXM_af14debf9a_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V14.0.2.0.SJSCNXM
 - android: '13.0'
   codename: haydn
   date: '2023-02-28'
@@ -624,6 +636,12 @@
   version: V14.0.5.0.TKIEUXM
 - android: '13.0'
   codename: rock
+  date: '2023-03-24'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLUEUXM/fw_rock_miui_ROCKEEAGlobal_V14.0.1.0.TLUEUXM_8d81d0013c_13.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: V14.0.1.0.TLUEUXM
+- android: '13.0'
+  codename: rock
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.6.0.TLUMIXM/fw_rock_miui_ROCKGlobal_V14.0.6.0.TLUMIXM_b64ad54537_13.0.zip
   name: POCO M5/Redmi 11 Prime 4G
@@ -754,6 +772,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TGACNXM/fw_thyme_miui_THYME_V14.0.4.0.TGACNXM_dd2bd8fc3b_13.0.zip
   name: Mi 10S
   version: V14.0.4.0.TGACNXM
+- android: '13.0'
+  codename: umi
+  date: '2023-03-24'
+  download: https://bigota.d.miui.com/V14.0.2.0.TJBCNXM/fw_umi_miui_UMI_V14.0.2.0.TJBCNXM_6d38dfc521_13.0.zip
+  name: Mi 10
+  version: V14.0.2.0.TJBCNXM
 - android: '13.0'
   codename: unicorn
   date: '2023-03-15'
