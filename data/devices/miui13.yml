@@ -4884,6 +4884,18 @@
   version: V13.0.1.0.SJBEUXM
 - android: '12.0'
   codename: umi
+  date: '2022-05-20'
+  download: https://bigota.d.miui.com/V13.0.6.0.SJBCNXM/fw_umi_miui_UMI_V13.0.6.0.SJBCNXM_b9b07d8eec_12.0.zip
+  name: Mi 10
+  version: V13.0.6.0.SJBCNXM
+- android: '12.0'
+  codename: umi
+  date: '2022-06-19'
+  download: https://bigota.d.miui.com/V13.0.4.0.SJBINXM/fw_umi_miui_UMIINGlobal_V13.0.4.0.SJBINXM_bddec3c15b_12.0.zip
+  name: Mi 10
+  version: V13.0.4.0.SJBINXM
+- android: '12.0'
+  codename: umi
   date: '2023-03-15'
   download: https://bigota.d.miui.com/V13.0.7.0.SJBINXM/fw_umi_miui_UMIINGlobal_V13.0.7.0.SJBINXM_b9f7af4d1a_12.0.zip
   name: Mi 10
@@ -4936,6 +4948,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SJBMIXM/fw_umi_miui_UMIGlobal_V13.0.4.0.SJBMIXM_d96c90a040_12.0.zip
   name: Mi 10
   version: V13.0.4.0.SJBMIXM
+- android: '12.0'
+  codename: umi
+  date: '2022-09-01'
+  download: https://bigota.d.miui.com/V13.0.6.0.SJBEUXM/fw_umi_miui_UMIEEAGlobal_V13.0.6.0.SJBEUXM_b617fb287b_12.0.zip
+  name: Mi 10
+  version: V13.0.6.0.SJBEUXM
 - android: '12.0'
   codename: umi
   date: '2023-02-01'

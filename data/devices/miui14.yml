@@ -852,6 +852,12 @@
   version: V14.0.9.0.TGOMIXM
 - android: '13.0'
   codename: xaga
+  date: '2023-03-24'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLOINXM/fw_xaga_miui_XAGAINGlobal_V14.0.2.0.TLOINXM_6a469f9ae6_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.2.0.TLOINXM
+- android: '13.0'
+  codename: xaga
   date: '2023-03-15'
   download: https://bigota.d.miui.com/V14.0.1.0.TLOEUXM/fw_xaga_miui_XAGAEEAGlobal_V14.0.1.0.TLOEUXM_4f049b35ad_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
