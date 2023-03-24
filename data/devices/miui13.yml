@@ -144,12 +144,6 @@
   version: V13.0.5.0.SKHCNXM
 - android: '12.0'
   codename: alioth
-  date: '2022-11-17'
-  download: https://bigota.d.miui.com/V13.0.9.0.SKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_V13.0.9.0.SKHEUXM_f9603cf7f3_12.0.zip
-  name: Redmi K40/POCO F3/Mi 11X
-  version: V13.0.9.0.SKHEUXM
-- android: '12.0'
-  codename: alioth
   date: '2022-09-15'
   download: https://bigota.d.miui.com/V13.0.8.0.SKHINXM/fw_alioth_miui_ALIOTHINGlobal_V13.0.8.0.SKHINXM_6f4e3d0f50_12.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -1626,12 +1620,6 @@
   version: V13.0.5.0.SGBMIXM
 - android: '12.0'
   codename: evergreen
-  date: '2022-12-16'
-  download: https://bigota.d.miui.com/V13.0.4.0.SGBMIXM/fw_evergreen_miui_EVERGREENGlobal_V13.0.4.0.SGBMIXM_ca9fde191a_12.0.zip
-  name: POCO M4 Pro 5G
-  version: V13.0.4.0.SGBMIXM
-- android: '12.0'
-  codename: evergreen
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V13.0.3.0.SGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_V13.0.3.0.SGBEUXM_03b701a08b_12.0.zip
   name: POCO M4 Pro 5G
@@ -1696,6 +1684,12 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.4.0.SKEINXM_8ac73c29ea_12.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.4.0.SKEINXM
+- android: '12.0'
+  codename: fleur
+  date: '2022-09-19'
+  download: https://bigota.d.miui.com/V13.0.6.0.SKEMIXM/fw_fleur_miui_FLEURGlobal_V13.0.6.0.SKEMIXM_d32a407f53_12.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.6.0.SKEMIXM
 - android: '11.0'
   codename: fleur
   date: '2022-07-19'
@@ -1744,6 +1738,12 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.3.0.SKEINXM_a6994af41a_12.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.3.0.SKEINXM
+- android: '12.0'
+  codename: fleur
+  date: '2023-02-02'
+  download: https://bigota.d.miui.com/V13.0.2.0.SKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V13.0.2.0.SKEEUXM_b263906b79_12.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.2.0.SKEEUXM
 - android: '11.0'
   codename: fog
   date: '2022-08-29'
@@ -1834,12 +1834,6 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SGEINXM/fw_fog_miui_FOGINGlobal_V13.0.2.0.SGEINXM_96cda794c8_12.0.zip
   name: Redmi 10C
   version: V13.0.2.0.SGEINXM
-- android: '12.0'
-  codename: fog
-  date: '2022-12-08'
-  download: https://bigota.d.miui.com/V13.0.3.0.SGEEUXM/fw_fog_miui_FOGEEAGlobal_V13.0.3.0.SGEEUXM_5a9b6e6261_12.0.zip
-  name: Redmi 10C
-  version: V13.0.3.0.SGEEUXM
 - android: '11.0'
   codename: fog
   date: '2022-12-08'
@@ -1884,12 +1878,6 @@
   version: V13.0.12.0.RGFMIXM
 - android: '11.0'
   codename: frost
-  date: '2022-12-27'
-  download: https://bigota.d.miui.com/V13.0.7.0.RGFEUXM/fw_frost_miui_FROSTEEAGlobal_V13.0.7.0.RGFEUXM_c88a57ca80_11.0.zip
-  name: POCO C40
-  version: V13.0.7.0.RGFEUXM
-- android: '11.0'
-  codename: frost
   date: '2023-02-26'
   download: https://bigota.d.miui.com/V13.0.17.0.RGFMIXM/fw_frost_miui_FROSTGlobal_V13.0.17.0.RGFMIXM_002d23d939_11.0.zip
   name: POCO C40
@@ -1906,12 +1894,6 @@
   download: https://bigota.d.miui.com/V13.0.6.0.RGFEUXM/fw_frost_miui_FROSTEEAGlobal_V13.0.6.0.RGFEUXM_736bf1d8f9_11.0.zip
   name: POCO C40
   version: V13.0.6.0.RGFEUXM
-- android: '11.0'
-  codename: frost
-  date: '2022-12-08'
-  download: https://bigota.d.miui.com/V13.0.16.0.RGFMIXM/fw_frost_miui_FROSTGlobal_V13.0.16.0.RGFMIXM_d98197237a_11.0.zip
-  name: POCO C40
-  version: V13.0.16.0.RGFMIXM
 - android: '11.0'
   codename: frost
   date: '2022-08-04'
@@ -2380,12 +2362,6 @@
   download: https://bigota.d.miui.com/V13.0.5.0.SJZEUXM/fw_joyeuse_miui_JOYEUSEEEAGlobal_V13.0.5.0.SJZEUXM_0ab554001e_12.0.zip
   name: Redmi Note 9 Pro
   version: V13.0.5.0.SJZEUXM
-- android: '12.0'
-  codename: joyeuse
-  date: '2023-01-10'
-  download: https://bigota.d.miui.com/V13.0.2.0.SJZMIXM/fw_joyeuse_miui_JOYEUSEGlobal_V13.0.2.0.SJZMIXM_a1760276ea_12.0.zip
-  name: Redmi Note 9 Pro
-  version: V13.0.2.0.SJZMIXM
 - android: '12.0'
   codename: joyeuse
   date: '2022-11-07'
@@ -3937,12 +3913,6 @@
 - android: '12.0'
   codename: rock
   date: '2022-12-08'
-  download: https://bigota.d.miui.com/V13.0.8.0.SLUMIXM/fw_rock_miui_ROCKGlobal_V13.0.8.0.SLUMIXM_7cd25c4c7f_12.0.zip
-  name: POCO M5/Redmi 11 Prime 4G
-  version: V13.0.8.0.SLUMIXM
-- android: '12.0'
-  codename: rock
-  date: '2022-12-08'
   download: https://bigota.d.miui.com/V13.0.9.0.SLUINXM/fw_rock_miui_ROCKINGlobal_V13.0.9.0.SLUINXM_56808f4ece_12.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: V13.0.9.0.SLUINXM
@@ -4248,12 +4218,6 @@
   version: V13.0.4.0.SGCMIXM
 - android: '12.0'
   codename: spes
-  date: '2022-12-21'
-  download: https://bigota.d.miui.com/V13.0.3.0.SGCINXM/fw_spes_miui_SPESINGlobal_V13.0.3.0.SGCINXM_6e26baf148_12.0.zip
-  name: Redmi Note 11
-  version: V13.0.3.0.SGCINXM
-- android: '12.0'
-  codename: spes
   date: '2022-09-22'
   download: https://bigota.d.miui.com/V13.0.1.0.SGCINXM/fw_spes_miui_SPESINGlobal_V13.0.1.0.SGCINXM_998fb440f2_12.0.zip
   name: Redmi Note 11
@@ -4291,12 +4255,6 @@
 - android: '12.0'
   codename: spes
   date: '2023-03-14'
-  download: https://bigota.d.miui.com/V13.0.7.0.SGCMIXM/fw_spes_miui_SPESGlobal_V13.0.7.0.SGCMIXM_ea2b9951b7_12.0.zip
-  name: Redmi Note 11
-  version: V13.0.7.0.SGCMIXM
-- android: '12.0'
-  codename: spes
-  date: '2023-03-14'
   download: https://bigota.d.miui.com/V13.0.4.0.SGCINXM/fw_spes_miui_SPESINGlobal_V13.0.4.0.SGCINXM_5bb6f19ce1_12.0.zip
   name: Redmi Note 11
   version: V13.0.4.0.SGCINXM
@@ -4306,12 +4264,6 @@
   download: https://bigota.d.miui.com/V13.0.5.0.RGCMIXM/fw_spes_miui_SPESGlobal_V13.0.5.0.RGCMIXM_9a713fb62e_11.0.zip
   name: Redmi Note 11
   version: V13.0.5.0.RGCMIXM
-- android: '12.0'
-  codename: spes
-  date: '2022-12-12'
-  download: https://bigota.d.miui.com/V13.0.6.0.SGCMIXM/fw_spes_miui_SPESGlobal_V13.0.6.0.SGCMIXM_d8718d8a07_12.0.zip
-  name: Redmi Note 11
-  version: V13.0.6.0.SGCMIXM
 - android: '11.0'
   codename: spes
   date: '2022-03-08'
@@ -4572,12 +4524,6 @@
   version: V13.0.7.0.SMQINXM
 - android: '12.0'
   codename: sunstone
-  date: '2023-03-14'
-  download: https://bigota.d.miui.com/V13.0.13.0.SMQCNXM/fw_sunstone_miui_SUNSTONE_V13.0.13.0.SMQCNXM_d762b9c2bb_12.0.zip
-  name: Redmi Note 12 5G
-  version: V13.0.13.0.SMQCNXM
-- android: '12.0'
-  codename: sunstone
   date: '2023-02-11'
   download: https://bigota.d.miui.com/V13.0.11.0.SMQCNXM/fw_sunstone_miui_SUNSTONE_V13.0.11.0.SMQCNXM_64fb233a1a_12.0.zip
   name: Redmi Note 12 5G
@@ -4696,12 +4642,6 @@
   download: https://bigota.d.miui.com/V13.0.3.0.SKFINXM/fw_sweetin_miui_SWEETININGlobal_V13.0.3.0.SKFINXM_f6825cd40f_12.0.zip
   name: Redmi Note 10 Pro/Pro Max
   version: V13.0.3.0.SKFINXM
-- android: '12.0'
-  codename: sweetin
-  date: '2023-01-07'
-  download: https://bigota.d.miui.com/V13.0.9.0.SKFINXM/fw_sweetin_miui_SWEETININGlobal_V13.0.9.0.SKFINXM_58704b4d17_12.0.zip
-  name: Redmi Note 10 Pro/Pro Max
-  version: V13.0.9.0.SKFINXM
 - android: '13.0'
   codename: taoyao
   date: '2022-12-26'
