@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 26 Mar 2023 13:40:46 +0900</pubDate>
+  <pubDate>Sun, 26 Mar 2023 19:43:30 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V14.0.4.0.TKXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Sun, 26 Mar 2023 19:43:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V14.0.1.0.SJDEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
+    <pubDate>Sun, 26 Mar 2023 19:18:49 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.3.0.SKEEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
@@ -95,16 +105,6 @@
     <title>POCO X5 5G (moonstone) - V13.0.4.0.SMPEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/moonstone</link>
     <pubDate>Thu, 23 Mar 2023 14:41:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.22.0.TMNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mondrian</link>
-    <pubDate>Thu, 23 Mar 2023 14:15:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro 4G (viva) - V13.0.3.0.SGDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
-    <pubDate>Thu, 23 Mar 2023 01:37:13 +0900</pubDate>
   </item>
     </channel>
 </rss>

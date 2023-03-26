@@ -36,6 +36,12 @@
   version: V14.0.7.0.TKHEUXM
 - android: '12.0'
   codename: apollo
+  date: '2023-03-26'
+  download: https://bigota.d.miui.com/V14.0.1.0.SJDEUXM/fw_apollo_miui_APOLLOEEAGlobal_V14.0.1.0.SJDEUXM_d9abcdfff2_12.0.zip
+  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
+  version: V14.0.1.0.SJDEUXM
+- android: '12.0'
+  codename: apollo
   date: '2023-03-08'
   download: https://bigota.d.miui.com/V14.0.5.0.SJDCNXM/fw_apollo_miui_APOLLO_V14.0.5.0.SJDCNXM_e727f2446b_12.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
@@ -442,6 +448,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLMCNXM/fw_munch_miui_MUNCH_V14.0.3.0.TLMCNXM_5e32cddcf6_13.0.zip
   name: Redmi K40S/POCO F4
   version: V14.0.3.0.TLMCNXM
+- android: '13.0'
+  codename: nabu
+  date: '2023-03-26'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKXEUXM/fw_nabu_miui_NABUEEAGlobal_V14.0.4.0.TKXEUXM_efe42c6261_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.4.0.TKXEUXM
 - android: '13.0'
   codename: nabu
   date: '2023-03-17'
