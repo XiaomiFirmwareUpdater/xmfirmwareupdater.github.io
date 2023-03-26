@@ -53,7 +53,8 @@ permalink: /archive/miui/rock/
                 </thead>
                 <tbody>
                 <tr><td>POCO M5 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLUIDXM</td><td>13.0</td><td>3.7 GB</td><td>2023-03-21</td><td><a href="/miui/rock/stable beta/V14.0.1.0.TLUIDXM/">Download</a></td></tr>
-<tr><td>POCO M5 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLUEUXM</td><td>13.0</td><td>3.7 GB</td><td>2023-03-21</td><td><a href="/miui/rock/stable beta/V14.0.1.0.TLUEUXM/">Download</a></td></tr>
+<tr><td>POCO M5 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLUEUXM</td><td>13.0</td><td>3.7 GB</td><td>2023-03-21</td><td><a href="/miui/rock/stable/V14.0.1.0.TLUEUXM/">Download</a></td></tr>
+<tr><td>POCO M5 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLUEUXM</td><td>13.0</td><td>6.1 GB</td><td>2023-03-14</td><td><a href="/miui/rock/stable/V14.0.1.0.TLUEUXM/">Download</a></td></tr>
 <tr><td>POCO M5 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TLUMIXM</td><td>13.0</td><td>3.7 GB</td><td>2023-03-07</td><td><a href="/miui/rock/stable/V14.0.6.0.TLUMIXM/">Download</a></td></tr>
 <tr><td>POCO M5 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TLUMIXM</td><td>13.0</td><td>6.3 GB</td><td>2023-03-01</td><td><a href="/miui/rock/stable/V14.0.6.0.TLUMIXM/">Download</a></td></tr>
 <tr><td>POCO M5 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SLUMIXM</td><td>12.0</td><td>3.2 GB</td><td>2023-02-28</td><td><a href="/miui/rock/stable/V13.0.10.0.SLUMIXM/">Download</a></td></tr>
