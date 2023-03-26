@@ -1654,6 +1654,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.RKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V13.0.6.0.RKEEUXM_5f930e4d70_11.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.6.0.RKEEUXM
+- android: '12.0'
+  codename: fleur
+  date: '2023-03-26'
+  download: https://bigota.d.miui.com/V13.0.3.0.SKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V13.0.3.0.SKEEUXM_57b47e8037_12.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V13.0.3.0.SKEEUXM
 - android: '11.0'
   codename: fleur
   date: '2022-07-25'

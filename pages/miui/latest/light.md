@@ -69,6 +69,7 @@ permalink: /miui/light/
 <tr><td>Redmi 10 5G / POCO M4 5G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SLSRUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-01-04</td><td><a href="/miui/light/stable/V13.0.6.0.SLSRUXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLSTRXM</td><td>12.0</td><td>5.2 GB</td><td>2022-10-19</td><td><a href="/miui/light/stable/V13.0.3.0.SLSTRXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SLSTRXM</td><td>12.0</td><td>3.2 GB</td><td>2022-10-25</td><td><a href="/miui/light/stable/V13.0.3.0.SLSTRXM/">Download</a></td></tr>
+<tr><td>Redmi 10 5G / POCO M4 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLSIDXM</td><td>13.0</td><td>3.5 GB</td><td>2023-03-22</td><td><a href="/miui/light/stable beta/V14.0.1.0.TLSIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLSTWXM</td><td>12.0</td><td>4.9 GB</td><td>2022-12-05</td><td><a href="/miui/light/stable/V13.0.4.0.SLSTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10 5G / POCO M4 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLSTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-12-11</td><td><a href="/miui/light/stable/V13.0.4.0.SLSTWXM/">Download</a></td></tr>
 

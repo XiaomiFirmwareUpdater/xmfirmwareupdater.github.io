@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 25 Mar 2023 02:01:27 +0900</pubDate>
+  <pubDate>Sun, 26 Mar 2023 13:40:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.3.0.SKEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
+    <pubDate>Sun, 26 Mar 2023 13:40:46 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.2.0.TLOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11 Pro 4G (viva) - V13.0.3.0.SGDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
     <pubDate>Thu, 23 Mar 2023 01:37:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V14.0.1.0.TKDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Wed, 22 Mar 2023 02:07:54 +0900</pubDate>
   </item>
     </channel>
 </rss>
