@@ -186,10 +186,22 @@
   version: V14.0.7.0.TLFEUXM
 - android: '13.0'
   codename: elish
+  date: '2023-03-27'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKYCNXM/fw_elish_miui_ELISH_V14.0.3.0.TKYCNXM_d796d7272f_13.0.zip
+  name: Xiaomi Pad 5 Pro Wi-Fi
+  version: V14.0.3.0.TKYCNXM
+- android: '13.0'
+  codename: elish
   date: '2023-03-15'
   download: https://bigota.d.miui.com/V14.0.2.0.TKYCNXM/fw_elish_miui_ELISH_V14.0.2.0.TKYCNXM_e28bf99db6_13.0.zip
   name: Xiaomi Pad 5 Pro Wi-Fi
   version: V14.0.2.0.TKYCNXM
+- android: '13.0'
+  codename: enuma
+  date: '2023-03-27'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKZCNXM/fw_enuma_miui_ENUMA_V14.0.2.0.TKZCNXM_5d63060ce9_13.0.zip
+  name: Xiaomi Pad 5 Pro 5G
+  version: V14.0.2.0.TKZCNXM
 - android: '13.0'
   codename: enuma
   date: '2023-03-17'
@@ -448,6 +460,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLMCNXM/fw_munch_miui_MUNCH_V14.0.3.0.TLMCNXM_5e32cddcf6_13.0.zip
   name: Redmi K40S/POCO F4
   version: V14.0.3.0.TLMCNXM
+- android: '13.0'
+  codename: nabu
+  date: '2023-03-27'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKXCNXM/fw_nabu_miui_NABU_V14.0.5.0.TKXCNXM_1cbd07f259_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.5.0.TKXCNXM
 - android: '13.0'
   codename: nabu
   date: '2023-03-26'

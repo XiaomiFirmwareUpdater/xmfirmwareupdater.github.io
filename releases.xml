@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 26 Mar 2023 19:43:30 +0900</pubDate>
+  <pubDate>Mon, 27 Mar 2023 21:23:33 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11S 5G (opal) - V13.0.4.0.SGLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/opal</link>
+    <pubDate>Mon, 27 Mar 2023 21:23:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V14.0.5.0.TKXCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Mon, 27 Mar 2023 21:02:48 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro 5G (enuma) - V14.0.2.0.TKZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/enuma</link>
+    <pubDate>Mon, 27 Mar 2023 20:32:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V14.0.3.0.TKYCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
+    <pubDate>Mon, 27 Mar 2023 20:00:10 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Pad 5 (nabu) - V14.0.4.0.TKXEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
@@ -85,26 +105,6 @@
     <title>Redmi 12C/POCO C55 (earth) - V13.0.5.0.SCVMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
     <pubDate>Thu, 23 Mar 2023 20:36:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V13.0.6.0.SKSMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
-    <pubDate>Thu, 23 Mar 2023 20:14:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V13.0.8.0.SKSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
-    <pubDate>Thu, 23 Mar 2023 19:53:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 5G (sunstone) - V13.0.14.0.SMQCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
-    <pubDate>Thu, 23 Mar 2023 15:16:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X5 5G (moonstone) - V13.0.4.0.SMPEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/moonstone</link>
-    <pubDate>Thu, 23 Mar 2023 14:41:00 +0900</pubDate>
   </item>
     </channel>
 </rss>

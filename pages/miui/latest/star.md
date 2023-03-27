@@ -68,6 +68,7 @@ permalink: /miui/star/
 <tr><td>Mi 11 Ultra India</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKAINXM</td><td>12.0</td><td>4.7 GB</td><td>2022-09-28</td><td><a href="/miui/star/stable/V13.0.5.0.SKAINXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra India</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKAINXM</td><td>12.0</td><td>3.8 GB</td><td>2022-10-25</td><td><a href="/miui/star/stable/V13.0.5.0.SKAINXM/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKAIDXM</td><td>13.0</td><td>4.8 GB</td><td>2023-03-20</td><td><a href="/miui/star/stable beta/V14.0.1.0.TKAIDXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKAINXM</td><td>13.0</td><td>4.8 GB</td><td>2023-03-21</td><td><a href="/miui/star/stable beta/V14.0.1.0.TKAINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
