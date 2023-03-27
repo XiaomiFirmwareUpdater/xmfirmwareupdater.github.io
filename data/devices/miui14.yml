@@ -240,6 +240,12 @@
   version: V14.0.1.0.TKKEUXM
 - android: '13.0'
   codename: haydn
+  date: '2023-03-27'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKKCNXM/fw_haydn_miui_HAYDN_V14.0.5.0.TKKCNXM_f3d9ef8d03_13.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V14.0.5.0.TKKCNXM
+- android: '13.0'
+  codename: haydn
   date: '2023-02-20'
   download: https://bigota.d.miui.com/V14.0.3.0.TKKMIXM/fw_haydn_miui_HAYDNGlobal_V14.0.3.0.TKKMIXM_5c6f79b97e_13.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
@@ -346,6 +352,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKOMIXM/fw_lisa_miui_LISAGlobal_V14.0.2.0.TKOMIXM_f89d09aa1c_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.2.0.TKOMIXM
+- android: '12.0'
+  codename: lmi
+  date: '2023-03-27'
+  download: https://bigota.d.miui.com/V14.0.1.0.SJKMIXM/fw_lmi_miui_LMIGlobal_V14.0.1.0.SJKMIXM_440715d694_12.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: V14.0.1.0.SJKMIXM
 - android: '12.0'
   codename: lmi
   date: '2023-03-16'
@@ -520,6 +532,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKMCNXM/fw_odin_miui_ODIN_V14.0.1.0.TKMCNXM_dd4b49c456_13.0.zip
   name: MIX 4
   version: V14.0.1.0.TKMCNXM
+- android: '13.0'
+  codename: pissarro
+  date: '2023-03-27'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.3.0.TKTEUXM_c2f97abcba_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.3.0.TKTEUXM
 - android: '13.0'
   codename: pissarro
   date: '2023-03-21'
@@ -726,6 +744,12 @@
   version: V14.0.11.0.TMKCNXM
 - android: '13.0'
   codename: star
+  date: '2023-03-27'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKAINXM/fw_star_miui_STARINGlobal_V14.0.1.0.TKAINXM_823ac4c79b_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.1.0.TKAINXM
+- android: '13.0'
+  codename: star
   date: '2023-03-21'
   download: https://bigota.d.miui.com/V14.0.3.0.TKAEUXM/fw_star_miui_STAREEAGlobal_V14.0.3.0.TKAEUXM_39d6121a64_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
@@ -838,6 +862,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TJUMIXM/fw_vayu_miui_VAYUGlobal_V14.0.1.0.TJUMIXM_050c24042a_13.0.zip
   name: POCO X3 Pro
   version: V14.0.1.0.TJUMIXM
+- android: '13.0'
+  codename: venus
+  date: '2023-03-27'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKBEUXM/fw_venus_miui_VENUSEEAGlobal_V14.0.3.0.TKBEUXM_b7a64189bd_13.0.zip
+  name: Mi 11
+  version: V14.0.3.0.TKBEUXM
 - android: '13.0'
   codename: venus
   date: '2023-03-15'

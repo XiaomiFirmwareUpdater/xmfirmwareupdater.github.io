@@ -52,7 +52,8 @@ permalink: /archive/miui/odin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-17</td><td><a href="/miui/odin/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
+                <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.21.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-24</td><td><a href="/miui/odin/public beta/V14.0.23.3.21.DEV/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-17</td><td><a href="/miui/odin/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-10</td><td><a href="/miui/odin/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-03</td><td><a href="/miui/odin/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.21.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-02-24</td><td><a href="/miui/odin/public beta/V14.0.23.2.21.DEV/">Download</a></td></tr>
@@ -80,8 +81,8 @@ permalink: /archive/miui/odin/
 <tr><td>MIX 4 China</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SKMCNXM</td><td>12.0</td><td>5.4 GB</td><td>2022-08-10</td><td><a href="/miui/odin/stable/V13.0.8.0.SKMCNXM/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SKMCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-07-28</td><td><a href="/miui/odin/stable/V13.0.8.0.SKMCNXM/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.56.DEV</td><td>12.0</td><td>5.5 GB</td><td>2022-08-05</td><td><a href="/miui/odin/public beta/V13.0.5.1.56.DEV/">Download</a></td></tr>
-<tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.51.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-07-22</td><td><a href="/miui/odin/public beta/V13.0.5.1.51.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKMCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-01-08</td><td><a href="/miui/odin/stable beta/V14.0.1.0.TKMCNXM/">Download</a></td></tr>
+<tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.51.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-07-22</td><td><a href="/miui/odin/public beta/V13.0.5.1.51.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.45.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-07-08</td><td><a href="/miui/odin/public beta/V13.0.5.1.45.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.43.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-07-01</td><td><a href="/miui/odin/public beta/V13.0.5.1.43.DEV/">Download</a></td></tr>
 <tr><td>MIX 4 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.40.DEV</td><td>12.0</td><td>5.3 GB</td><td>2022-06-24</td><td><a href="/miui/odin/public beta/V13.0.5.1.40.DEV/">Download</a></td></tr>

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2022-06-27'
+  date: '2023-03-27'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-27.06.2022/fw_lmi_miui_LMIGlobal_V13.0.3.0.SJKMIXM_64150c60e8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lmi/fw_lmi_miui_LMIGlobal_V13.0.3.0.SJKMIXM_64150c60e8_12.0.zip
-  filename: fw_lmi_miui_LMIGlobal_V13.0.3.0.SJKMIXM_64150c60e8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-27.03.2023/fw_lmi_miui_LMIGlobal_V14.0.1.0.SJKMIXM_440715d694_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lmi/fw_lmi_miui_LMIGlobal_V14.0.1.0.SJKMIXM_440715d694_12.0.zip
+  filename: fw_lmi_miui_LMIGlobal_V14.0.1.0.SJKMIXM_440715d694_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SJKMIXM
+    miui: V14.0.1.0.SJKMIXM
 - branch: stable
   date: '2023-03-10'
   downloads:
