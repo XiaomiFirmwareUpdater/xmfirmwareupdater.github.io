@@ -63,12 +63,10 @@ permalink: /miui/psyche/
 <tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLDEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-03</td><td><a href="/miui/psyche/stable/V14.0.1.0.TLDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLDMIXM</td><td>13.0</td><td>6.2 GB</td><td>2023-02-20</td><td><a href="/miui/psyche/stable/V14.0.3.0.TLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLDMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-28</td><td><a href="/miui/psyche/stable/V14.0.3.0.TLDMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLDRUXM</td><td>12.0</td><td>5.3 GB</td><td>2022-11-02</td><td><a href="/miui/psyche/stable/V13.0.4.0.SLDRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLDRUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-11-14</td><td><a href="/miui/psyche/stable/V13.0.4.0.SLDRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLDRUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-03-03</td><td><a href="/miui/psyche/stable beta/V14.0.2.0.TLDRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLDTWXM</td><td>12.0</td><td>4.7 GB</td><td>2022-11-02</td><td><a href="/miui/psyche/stable/V13.0.4.0.SLDTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLDTWXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-14</td><td><a href="/miui/psyche/stable/V13.0.4.0.SLDTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12X Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLDTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-02-28</td><td><a href="/miui/psyche/stable beta/V14.0.3.0.TLDTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLDRUXM</td><td>13.0</td><td>5.8 GB</td><td>2023-02-23</td><td><a href="/miui/psyche/stable/V14.0.2.0.TLDRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLDRUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-03-03</td><td><a href="/miui/psyche/stable/V14.0.2.0.TLDRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLDTWXM</td><td>13.0</td><td>5.2 GB</td><td>2023-02-20</td><td><a href="/miui/psyche/stable/V14.0.3.0.TLDTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLDTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-02-28</td><td><a href="/miui/psyche/stable/V14.0.3.0.TLDTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
