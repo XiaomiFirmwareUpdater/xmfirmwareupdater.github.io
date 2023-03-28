@@ -84,6 +84,12 @@
   version: V14.0.1.0.SJNCNXM
 - android: '13.0'
   codename: chopin
+  date: '2023-03-28'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKPCNXM/fw_chopin_miui_CHOPIN_V14.0.5.0.TKPCNXM_242d1a6ff5_13.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: V14.0.5.0.TKPCNXM
+- android: '13.0'
+  codename: chopin
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.2.0.TKPCNXM/fw_chopin_miui_CHOPIN_V14.0.2.0.TKPCNXM_a1309370ef_13.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
@@ -532,6 +538,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKMCNXM/fw_odin_miui_ODIN_V14.0.1.0.TKMCNXM_dd4b49c456_13.0.zip
   name: MIX 4
   version: V14.0.1.0.TKMCNXM
+- android: '13.0'
+  codename: pissarro
+  date: '2023-03-28'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.5.0.TKTCNXM_83e0c47619_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.5.0.TKTCNXM
 - android: '13.0'
   codename: pissarro
   date: '2023-03-27'
