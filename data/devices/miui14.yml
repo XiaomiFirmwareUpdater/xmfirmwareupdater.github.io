@@ -377,6 +377,12 @@
   name: Redmi K30 Pro/POCO F2 Pro
   version: V14.0.3.0.SJKCNXM
 - android: '13.0'
+  codename: marble
+  date: '2023-03-28'
+  download: https://bigota.d.miui.com/V14.0.1.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.1.0.TMRCNXM_ebfaece465_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.1.0.TMRCNXM
+- android: '13.0'
   codename: matisse
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.9.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.9.0.TLKCNXM_57f70ca1f5_13.0.zip
