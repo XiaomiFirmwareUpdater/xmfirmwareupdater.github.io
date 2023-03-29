@@ -32949,6 +32949,16 @@
     android: '13.0'
     miui: V14.0.1.0.TMRCNXM
 - branch: stable
+  date: '2023-03-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.03.2023/fw_marble_miui_MARBLE_V14.0.2.0.TMRCNXM_e73d3a18f4_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.2.0.TMRCNXM_e73d3a18f4_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.2.0.TMRCNXM_e73d3a18f4_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TMRCNXM
+- branch: stable
   date: '2019-05-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_markw/releases/download/stable-21.05.2019/fw_markw_miui_HM4Pro_V10.2.2.0.MBECNXM_988d0d76c0_6.0.zip
