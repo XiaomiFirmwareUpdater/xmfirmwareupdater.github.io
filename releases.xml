@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 30 Mar 2023 01:21:33 +0900</pubDate>
+  <pubDate>Thu, 30 Mar 2023 07:23:24 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V13.0.3.0.SJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Thu, 30 Mar 2023 07:23:24 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.0.21.0.QCDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.3.0.SKEEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
     <pubDate>Sun, 26 Mar 2023 13:40:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.2.0.TLOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
-    <pubDate>Sat, 25 Mar 2023 02:01:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
