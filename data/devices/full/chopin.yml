@@ -249,6 +249,16 @@
     android: '11.0'
     miui: V12.5.8.0.RKPCNXM
 - branch: stable
+  date: '2023-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-30.03.2023/fw_chopin_miui_CHOPINGlobal_V14.0.2.0.TKPMIXM_1eeb492a04_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPINGlobal_V14.0.2.0.TKPMIXM_1eeb492a04_13.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V14.0.2.0.TKPMIXM_1eeb492a04_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKPMIXM
+- branch: stable
   date: '2023-03-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-28.03.2023/fw_chopin_miui_CHOPIN_V14.0.5.0.TKPCNXM_242d1a6ff5_13.0.zip

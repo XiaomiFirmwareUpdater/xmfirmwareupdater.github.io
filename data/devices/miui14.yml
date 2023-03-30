@@ -1,5 +1,17 @@
 - android: '13.0'
   codename: agate
+  date: '2023-03-30'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKWEUXM/fw_agate_miui_AGATEEEAGlobal_V14.0.2.0.TKWEUXM_ce1e48d102_13.0.zip
+  name: Xiaomi 11T
+  version: V14.0.2.0.TKWEUXM
+- android: '13.0'
+  codename: agate
+  date: '2023-03-30'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKWMIXM/fw_agate_miui_AGATEGlobal_V14.0.4.0.TKWMIXM_a684bba6f9_13.0.zip
+  name: Xiaomi 11T
+  version: V14.0.4.0.TKWMIXM
+- android: '13.0'
+  codename: agate
   date: '2023-01-28'
   download: https://bigota.d.miui.com/V14.0.3.0.TKWMIXM/fw_agate_miui_AGATEGlobal_V14.0.3.0.TKWMIXM_cb3fd90c3e_13.0.zip
   name: Xiaomi 11T
@@ -82,6 +94,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.SJNCNXM/fw_cezanne_miui_CEZANNE_V14.0.1.0.SJNCNXM_cbba55822d_12.0.zip
   name: Redmi K30 Ultra
   version: V14.0.1.0.SJNCNXM
+- android: '13.0'
+  codename: chopin
+  date: '2023-03-30'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKPMIXM/fw_chopin_miui_CHOPINGlobal_V14.0.2.0.TKPMIXM_1eeb492a04_13.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: V14.0.2.0.TKPMIXM
 - android: '13.0'
   codename: chopin
   date: '2023-03-28'
@@ -298,6 +316,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLJEUXM/fw_ingres_miui_INGRESEEAGlobal_V14.0.3.0.TLJEUXM_057d2569f5_13.0.zip
   name: Redmi K50G/POCO F4 GT
   version: V14.0.3.0.TLJEUXM
+- android: '12.0'
+  codename: joyeuse
+  date: '2023-03-30'
+  download: https://bigota.d.miui.com/V14.0.3.0.SJZMIXM/fw_joyeuse_miui_JOYEUSEGlobal_V14.0.3.0.SJZMIXM_df17e3fabf_12.0.zip
+  name: Redmi Note 9 Pro
+  version: V14.0.3.0.SJZMIXM
 - android: '13.0'
   codename: light
   date: '2023-03-17'
@@ -514,6 +538,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKXCNXM/fw_nabu_miui_NABU_V14.0.4.0.TKXCNXM_4a5416de6f_13.0.zip
   name: Xiaomi Pad 5
   version: V14.0.4.0.TKXCNXM
+- android: '13.0'
+  codename: nuwa
+  date: '2023-03-30'
+  download: https://bigota.d.miui.com/V14.0.22.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.22.0.TMBCNXM_7793384246_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.22.0.TMBCNXM
 - android: '13.0'
   codename: nuwa
   date: '2022-12-17'

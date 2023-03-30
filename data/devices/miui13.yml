@@ -3912,6 +3912,12 @@
   version: V13.0.8.0.SLUINXM
 - android: '12.0'
   codename: rock
+  date: '2023-03-30'
+  download: https://bigota.d.miui.com/V13.0.11.0.SLUINXM/fw_rock_miui_ROCKINGlobal_V13.0.11.0.SLUINXM_408e72298a_12.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: V13.0.11.0.SLUINXM
+- android: '12.0'
+  codename: rock
   date: '2022-10-26'
   download: https://bigota.d.miui.com/V13.0.5.0.SLUMIXM/fw_rock_miui_ROCKGlobal_V13.0.5.0.SLUMIXM_2a655da13a_12.0.zip
   name: POCO M5/Redmi 11 Prime 4G

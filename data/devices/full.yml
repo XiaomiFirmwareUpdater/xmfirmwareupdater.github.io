@@ -1,4 +1,24 @@
 - branch: stable
+  date: '2023-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-30.03.2023/fw_agate_miui_AGATEEEAGlobal_V14.0.2.0.TKWEUXM_ce1e48d102_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/agate/fw_agate_miui_AGATEEEAGlobal_V14.0.2.0.TKWEUXM_ce1e48d102_13.0.zip
+  filename: fw_agate_miui_AGATEEEAGlobal_V14.0.2.0.TKWEUXM_ce1e48d102_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKWEUXM
+- branch: stable
+  date: '2023-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-30.03.2023/fw_agate_miui_AGATEGlobal_V14.0.4.0.TKWMIXM_a684bba6f9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/agate/fw_agate_miui_AGATEGlobal_V14.0.4.0.TKWMIXM_a684bba6f9_13.0.zip
+  filename: fw_agate_miui_AGATEGlobal_V14.0.4.0.TKWMIXM_a684bba6f9_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKWMIXM
+- branch: stable
   date: '2021-10-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_agate/releases/download/stable-28.10.2021/fw_agate_miui_AGATEEEAGlobal_V12.5.6.0.RKWEUXM_92a25e332d_11.0.zip
@@ -13168,6 +13188,16 @@
   versions:
     android: '11.0'
     miui: V12.5.8.0.RKPCNXM
+- branch: stable
+  date: '2023-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-30.03.2023/fw_chopin_miui_CHOPINGlobal_V14.0.2.0.TKPMIXM_1eeb492a04_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPINGlobal_V14.0.2.0.TKPMIXM_1eeb492a04_13.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V14.0.2.0.TKPMIXM_1eeb492a04_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKPMIXM
 - branch: stable
   date: '2023-03-28'
   downloads:
@@ -27339,6 +27369,16 @@
     android: '10.0'
     miui: V11.0.1.0.QJZEUXM
 - branch: stable
+  date: '2023-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-30.03.2023/fw_joyeuse_miui_JOYEUSEGlobal_V14.0.3.0.SJZMIXM_df17e3fabf_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/joyeuse/fw_joyeuse_miui_JOYEUSEGlobal_V14.0.3.0.SJZMIXM_df17e3fabf_12.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEGlobal_V14.0.3.0.SJZMIXM_df17e3fabf_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V14.0.3.0.SJZMIXM
+- branch: stable
   date: '2020-07-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-29.07.2020/fw_joyeuse_miui_JOYEUSEGlobal_V11.0.5.0.QJZMIXM_b60ccd234e_10.0.zip
@@ -36468,6 +36508,16 @@
   versions:
     android: '8.1'
     miui: V9.6.8.0.OEDCNFD
+- branch: stable
+  date: '2023-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-30.03.2023/fw_nuwa_miui_NUWA_V14.0.22.0.TMBCNXM_7793384246_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWA_V14.0.22.0.TMBCNXM_7793384246_13.0.zip
+  filename: fw_nuwa_miui_NUWA_V14.0.22.0.TMBCNXM_7793384246_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.22.0.TMBCNXM
 - branch: stable
   date: '2022-12-17'
   downloads:
@@ -46518,6 +46568,16 @@
   versions:
     android: '12.0'
     miui: V13.0.8.0.SLUINXM
+- branch: stable
+  date: '2023-03-30'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-30.03.2023/fw_rock_miui_ROCKINGlobal_V13.0.11.0.SLUINXM_408e72298a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rock/fw_rock_miui_ROCKINGlobal_V13.0.11.0.SLUINXM_408e72298a_12.0.zip
+  filename: fw_rock_miui_ROCKINGlobal_V13.0.11.0.SLUINXM_408e72298a_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SLUINXM
 - branch: stable
   date: '2022-10-26'
   downloads:

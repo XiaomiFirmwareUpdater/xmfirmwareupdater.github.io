@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 30 Mar 2023 07:23:24 +0900</pubDate>
+  <pubDate>Thu, 30 Mar 2023 21:41:41 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO M5/Redmi 11 Prime 4G (rock) - V13.0.11.0.SLUINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rock</link>
+    <pubDate>Thu, 30 Mar 2023 21:41:41 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 Pro (nuwa) - V14.0.22.0.TMBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
+    <pubDate>Thu, 30 Mar 2023 21:20:21 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro (joyeuse) - V14.0.3.0.SJZMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
+    <pubDate>Thu, 30 Mar 2023 20:38:38 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.2.0.TKPMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Thu, 30 Mar 2023 20:37:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 11T (agate) - V14.0.4.0.TKWMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
+    <pubDate>Thu, 30 Mar 2023 20:13:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 11T (agate) - V14.0.2.0.TKWEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
+    <pubDate>Thu, 30 Mar 2023 19:48:12 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V13.0.3.0.SJQMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
@@ -75,36 +105,6 @@
     <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V13.0.9.0.SGBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
     <pubDate>Tue, 28 Mar 2023 01:49:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 (nabu) - V14.0.5.0.TKXCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Mon, 27 Mar 2023 21:02:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro 5G (enuma) - V14.0.2.0.TKZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/enuma</link>
-    <pubDate>Mon, 27 Mar 2023 20:32:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V14.0.3.0.TKYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
-    <pubDate>Mon, 27 Mar 2023 20:00:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 (nabu) - V14.0.4.0.TKXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Sun, 26 Mar 2023 19:43:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V14.0.1.0.SJDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Sun, 26 Mar 2023 19:18:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.3.0.SKEEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
-    <pubDate>Sun, 26 Mar 2023 13:40:46 +0900</pubDate>
   </item>
     </channel>
 </rss>
