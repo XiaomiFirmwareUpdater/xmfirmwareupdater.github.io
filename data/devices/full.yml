@@ -29849,6 +29849,16 @@
     android: '7.0'
     miui: 8.4.12
 - branch: stable
+  date: '2023-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-31.03.2023/fw_light_miui_LIGHTINGlobal_V14.0.3.0.TLSINXM_92351c3636_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHTINGlobal_V14.0.3.0.TLSINXM_92351c3636_13.0.zip
+  filename: fw_light_miui_LIGHTINGlobal_V14.0.3.0.TLSINXM_92351c3636_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TLSINXM
+- branch: stable
   date: '2022-07-28'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-28.07.2022/fw_light_miui_LIGHTGlobal_V13.0.6.0.SLSMIXM_6936f9acaa_12.0.zip
@@ -35078,6 +35088,16 @@
   versions:
     android: '11.0'
     miui: V13.0.6.0.RKXINXM
+- branch: stable
+  date: '2023-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-31.03.2023/fw_nabu_miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
+  filename: fw_nabu_miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TKXINXM
 - branch: stable
   date: '2023-01-30'
   downloads:
@@ -52438,6 +52458,16 @@
   versions:
     android: '12.0'
     miui: V13.0.13.0.SLIEUXM
+- branch: stable
+  date: '2023-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-31.03.2023/fw_tapas_miui_TAPASGlobal_V14.0.4.0.TMTMIXM_d7fa750cad_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/tapas/fw_tapas_miui_TAPASGlobal_V14.0.4.0.TMTMIXM_d7fa750cad_13.0.zip
+  filename: fw_tapas_miui_TAPASGlobal_V14.0.4.0.TMTMIXM_d7fa750cad_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMTMIXM
 - branch: stable
   date: '2022-10-24'
   downloads:

@@ -330,6 +330,12 @@
   version: V14.0.3.0.SJZMIXM
 - android: '13.0'
   codename: light
+  date: '2023-03-31'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLSINXM/fw_light_miui_LIGHTINGlobal_V14.0.3.0.TLSINXM_92351c3636_13.0.zip
+  name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.3.0.TLSINXM
+- android: '13.0'
+  codename: light
   date: '2023-03-17'
   download: https://bigota.d.miui.com/V14.0.1.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.1.0.TLSEUXM_96472ee0dc_13.0.zip
   name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
@@ -526,6 +532,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLMCNXM/fw_munch_miui_MUNCH_V14.0.3.0.TLMCNXM_5e32cddcf6_13.0.zip
   name: Redmi K40S/POCO F4
   version: V14.0.3.0.TLMCNXM
+- android: '13.0'
+  codename: nabu
+  date: '2023-03-31'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKXINXM/fw_nabu_miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.1.0.TKXINXM
 - android: '13.0'
   codename: nabu
   date: '2023-03-27'
@@ -874,6 +886,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.3.0.TLIMIXM_d27325e58f_13.0.zip
   name: Xiaomi 12 Lite
   version: V14.0.3.0.TLIMIXM
+- android: '13.0'
+  codename: tapas
+  date: '2023-03-31'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMTMIXM/fw_tapas_miui_TAPASGlobal_V14.0.4.0.TMTMIXM_d7fa750cad_13.0.zip
+  name: Redmi Note 12 4G
+  version: V14.0.4.0.TMTMIXM
 - android: '13.0'
   codename: thor
   date: '2023-03-14'

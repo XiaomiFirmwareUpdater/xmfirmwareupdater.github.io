@@ -2189,15 +2189,15 @@
     android: '13.0'
     miui: V14.0.1.0.TLSEUXM
 - branch: stable
-  date: '2023-02-20'
+  date: '2023-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-20.02.2023/fw_light_miui_LIGHTINGlobal_V13.0.8.0.SLSINXM_6fa46ff777_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHTINGlobal_V13.0.8.0.SLSINXM_6fa46ff777_12.0.zip
-  filename: fw_light_miui_LIGHTINGlobal_V13.0.8.0.SLSINXM_6fa46ff777_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-31.03.2023/fw_light_miui_LIGHTINGlobal_V14.0.3.0.TLSINXM_92351c3636_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHTINGlobal_V14.0.3.0.TLSINXM_92351c3636_13.0.zip
+  filename: fw_light_miui_LIGHTINGlobal_V14.0.3.0.TLSINXM_92351c3636_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.8.0.SLSINXM
+    android: '13.0'
+    miui: V14.0.3.0.TLSINXM
 - branch: stable
   date: '2023-03-29'
   downloads:
@@ -2739,15 +2739,15 @@
     android: '13.0'
     miui: V14.0.4.0.TKXEUXM
 - branch: stable
-  date: '2023-02-13'
+  date: '2023-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-13.02.2023/fw_nabu_miui_NABUINGlobal_V13.1.4.0.SKXINXM_f0693af8f0_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/nabu/fw_nabu_miui_NABUINGlobal_V13.1.4.0.SKXINXM_f0693af8f0_12.0.zip
-  filename: fw_nabu_miui_NABUINGlobal_V13.1.4.0.SKXINXM_f0693af8f0_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-31.03.2023/fw_nabu_miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
+  filename: fw_nabu_miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.1.4.0.SKXINXM
+    android: '13.0'
+    miui: V14.0.1.0.TKXINXM
 - branch: stable
   date: '2019-05-13'
   downloads:
@@ -4258,6 +4258,16 @@
   versions:
     android: '13.0'
     miui: V14.0.8.0.TLIEUXM
+- branch: stable
+  date: '2023-03-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-31.03.2023/fw_tapas_miui_TAPASGlobal_V14.0.4.0.TMTMIXM_d7fa750cad_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/tapas/fw_tapas_miui_TAPASGlobal_V14.0.4.0.TMTMIXM_d7fa750cad_13.0.zip
+  filename: fw_tapas_miui_TAPASGlobal_V14.0.4.0.TMTMIXM_d7fa750cad_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMTMIXM
 - branch: stable
   date: '2023-03-14'
   downloads:

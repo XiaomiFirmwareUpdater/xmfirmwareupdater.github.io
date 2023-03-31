@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 31 Mar 2023 14:02:52 +0900</pubDate>
+  <pubDate>Fri, 31 Mar 2023 20:34:36 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12 4G (tapas) - V14.0.4.0.TMTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
+    <pubDate>Fri, 31 Mar 2023 20:34:36 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V14.0.1.0.TKXINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Fri, 31 Mar 2023 20:05:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.3.0.TLSINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/light</link>
+    <pubDate>Fri, 31 Mar 2023 19:41:27 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.10.0.TMRCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
@@ -90,21 +105,6 @@
     <title>Mi 11 (venus) - V14.0.3.0.TKBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
     <pubDate>Tue, 28 Mar 2023 04:01:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.1.0.TKAINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Tue, 28 Mar 2023 03:32:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.3.0.TKTEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
-    <pubDate>Tue, 28 Mar 2023 03:00:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 5G (opal) - V13.0.4.0.SGLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/opal</link>
-    <pubDate>Tue, 28 Mar 2023 02:36:44 +0900</pubDate>
   </item>
     </channel>
 </rss>
