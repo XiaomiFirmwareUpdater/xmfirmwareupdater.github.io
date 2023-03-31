@@ -160,6 +160,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TLCCNXM/fw_cupid_miui_CUPID_V14.0.6.0.TLCCNXM_2cc4563246_13.0.zip
   name: Xiaomi 12
   version: V14.0.6.0.TLCCNXM
+- android: '12.0'
+  codename: curtana
+  date: '2023-03-31'
+  download: https://bigota.d.miui.com/V14.0.3.0.SJWMIXM/fw_curtana_miui_CURTANAGlobal_V14.0.3.0.SJWMIXM_dae98d711c_12.0.zip
+  name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
+  version: V14.0.3.0.SJWMIXM
 - android: '13.0'
   codename: dagu
   date: '2023-03-03'
@@ -400,6 +406,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SJKCNXM/fw_lmi_miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
   version: V14.0.3.0.SJKCNXM
+- android: '13.0'
+  codename: marble
+  date: '2023-03-31'
+  download: https://bigota.d.miui.com/V14.0.10.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.10.0.TMRCNXM_ccd8dc167f_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.10.0.TMRCNXM
 - android: '13.0'
   codename: marble
   date: '2023-03-28'

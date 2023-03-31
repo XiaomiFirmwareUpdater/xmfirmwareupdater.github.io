@@ -939,15 +939,15 @@
     android: '12.0'
     miui: V13.0.33.0.SLCEUXM
 - branch: stable
-  date: '2022-08-25'
+  date: '2023-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-25.08.2022/fw_curtana_miui_CURTANAGlobal_V13.0.2.0.SJWMIXM_65c5d3fcff_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/curtana/fw_curtana_miui_CURTANAGlobal_V13.0.2.0.SJWMIXM_65c5d3fcff_12.0.zip
-  filename: fw_curtana_miui_CURTANAGlobal_V13.0.2.0.SJWMIXM_65c5d3fcff_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_curtana/releases/download/stable-31.03.2023/fw_curtana_miui_CURTANAGlobal_V14.0.3.0.SJWMIXM_dae98d711c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/curtana/fw_curtana_miui_CURTANAGlobal_V14.0.3.0.SJWMIXM_dae98d711c_12.0.zip
+  filename: fw_curtana_miui_CURTANAGlobal_V14.0.3.0.SJWMIXM_dae98d711c_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJWMIXM
+    miui: V14.0.3.0.SJWMIXM
 - branch: stable
   date: '2022-11-07'
   downloads:
@@ -2409,15 +2409,15 @@
     android: '8.1'
     miui: 20.1.2
 - branch: stable
-  date: '2023-03-29'
+  date: '2023-03-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-29.03.2023/fw_marble_miui_MARBLE_V14.0.2.0.TMRCNXM_e73d3a18f4_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.2.0.TMRCNXM_e73d3a18f4_13.0.zip
-  filename: fw_marble_miui_MARBLE_V14.0.2.0.TMRCNXM_e73d3a18f4_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-31.03.2023/fw_marble_miui_MARBLE_V14.0.10.0.TMRCNXM_ccd8dc167f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.10.0.TMRCNXM_ccd8dc167f_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.10.0.TMRCNXM_ccd8dc167f_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.2.0.TMRCNXM
+    miui: V14.0.10.0.TMRCNXM
 - branch: stable
   date: '2019-05-20'
   downloads:
