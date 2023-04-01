@@ -61,17 +61,17 @@ permalink: /miui/lmi/
 <tr><td>POCO F2 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.SJKEUXM</td><td>12.0</td><td>4.9 GB</td><td>2023-03-02</td><td><a href="/miui/lmi/stable/V14.0.1.0.SJKEUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.SJKEUXM</td><td>12.0</td><td>3.7 GB</td><td>2023-03-13</td><td><a href="/miui/lmi/stable/V14.0.1.0.SJKEUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.3.0.RJKEUXM</td><td>11.0</td><td>3.1 GB</td><td>2020-12-25</td><td><a href="/miui/lmi/stable beta/V12.2.3.0.RJKEUXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJKMIXM</td><td>12.0</td><td>5.4 GB</td><td>2022-06-20</td><td><a href="/miui/lmi/stable/V13.0.3.0.SJKMIXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJKMIXM</td><td>12.0</td><td>3.7 GB</td><td>2022-06-24</td><td><a href="/miui/lmi/stable/V13.0.3.0.SJKMIXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJKMIXM</td><td>12.0</td><td>3.8 GB</td><td>2023-03-24</td><td><a href="/miui/lmi/stable beta/V14.0.1.0.SJKMIXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.SJKMIXM</td><td>12.0</td><td>5.1 GB</td><td>2023-03-17</td><td><a href="/miui/lmi/stable/V14.0.1.0.SJKMIXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.SJKMIXM</td><td>12.0</td><td>3.8 GB</td><td>2023-03-24</td><td><a href="/miui/lmi/stable/V14.0.1.0.SJKMIXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.3.0.RJKMIXM</td><td>11.0</td><td>3.1 GB</td><td>2020-12-25</td><td><a href="/miui/lmi/stable beta/V12.2.3.0.RJKMIXM/">Download</a></td></tr>
+<tr><td>Redmi K30 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJKCNXM</td><td>12.0</td><td>4.7 GB</td><td>2023-02-22</td><td><a href="/miui/lmi/stable beta/V14.0.1.0.SJKCNXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJKIDXM</td><td>12.0</td><td>5.3 GB</td><td>2022-07-04</td><td><a href="/miui/lmi/stable/V13.0.3.0.SJKIDXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJKIDXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-11</td><td><a href="/miui/lmi/stable/V13.0.3.0.SJKIDXM/">Download</a></td></tr>
-<tr><td>Redmi K30 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJKCNXM</td><td>12.0</td><td>4.7 GB</td><td>2023-02-22</td><td><a href="/miui/lmi/stable beta/V14.0.1.0.SJKCNXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJKRUXM</td><td>12.0</td><td>5.1 GB</td><td>2022-07-04</td><td><a href="/miui/lmi/stable/V13.0.3.0.SJKRUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJKRUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-15</td><td><a href="/miui/lmi/stable/V13.0.3.0.SJKRUXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJKTRXM</td><td>12.0</td><td>5.0 GB</td><td>2022-07-11</td><td><a href="/miui/lmi/stable/V13.0.3.0.SJKTRXM/">Download</a></td></tr>
 <tr><td>POCO F2 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJKTRXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-22</td><td><a href="/miui/lmi/stable/V13.0.3.0.SJKTRXM/">Download</a></td></tr>
-<tr><td>POCO F2 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.QJKTRXM</td><td>10.0</td><td>3.0 GB</td><td>2020-10-29</td><td><a href="/miui/lmi/stable beta/V12.0.3.0.QJKTRXM/">Download</a></td></tr>
+<tr><td>POCO F2 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJKTRXM</td><td>12.0</td><td>3.7 GB</td><td>2023-03-29</td><td><a href="/miui/lmi/stable beta/V14.0.1.0.SJKTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
