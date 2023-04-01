@@ -52,7 +52,8 @@ permalink: /archive/miui/renoir/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 Lite 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-03-24</td><td><a href="/miui/renoir/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
+                <tr><td>Mi 11 Lite 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TKICNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-03-29</td><td><a href="/miui/renoir/stable beta/V14.0.8.0.TKICNXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-03-24</td><td><a href="/miui/renoir/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-03-17</td><td><a href="/miui/renoir/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-03-10</td><td><a href="/miui/renoir/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-03-03</td><td><a href="/miui/renoir/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
@@ -117,10 +118,10 @@ permalink: /archive/miui/renoir/
 <tr><td>Mi 11 Lite 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.9.1.50.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-07-22</td><td><a href="/miui/renoir/public beta/V13.0.9.1.50.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKIRUXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-20</td><td><a href="/miui/renoir/stable/V13.0.3.0.SKIRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKIRUXM</td><td>12.0</td><td>5.4 GB</td><td>2022-07-12</td><td><a href="/miui/renoir/stable/V13.0.3.0.SKIRUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKITWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-20</td><td><a href="/miui/renoir/stable/V13.0.3.0.SKITWXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKITWXM</td><td>12.0</td><td>4.9 GB</td><td>2022-07-12</td><td><a href="/miui/renoir/stable/V13.0.3.0.SKITWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKICNXM</td><td>13.0</td><td>5.6 GB</td><td>2022-12-28</td><td><a href="/miui/renoir/stable/V14.0.3.0.TKICNXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKICNXM</td><td>13.0</td><td>6.7 GB</td><td>2022-12-27</td><td><a href="/miui/renoir/stable/V14.0.3.0.TKICNXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKITWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-20</td><td><a href="/miui/renoir/stable/V13.0.3.0.SKITWXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKITWXM</td><td>12.0</td><td>4.9 GB</td><td>2022-07-12</td><td><a href="/miui/renoir/stable/V13.0.3.0.SKITWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKIJPXM</td><td>12.0</td><td>3.4 GB</td><td>2022-07-14</td><td><a href="/miui/renoir/stable/V13.0.4.0.SKIJPXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKIJPXM</td><td>12.0</td><td>5.8 GB</td><td>2022-07-05</td><td><a href="/miui/renoir/stable/V13.0.4.0.SKIJPXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.9.1.45.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-07-08</td><td><a href="/miui/renoir/public beta/V13.0.9.1.45.DEV/">Download</a></td></tr>

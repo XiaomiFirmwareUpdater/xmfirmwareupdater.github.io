@@ -46418,6 +46418,16 @@
   versions:
     android: '11.0'
     miui: V12.5.3.0.RKICNXM
+- branch: stable
+  date: '2023-04-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-01.04.2023/fw_renoir_miui_RENOIR_V14.0.8.0.TKICNXM_01097c7589_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIR_V14.0.8.0.TKICNXM_01097c7589_13.0.zip
+  filename: fw_renoir_miui_RENOIR_V14.0.8.0.TKICNXM_01097c7589_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TKICNXM
 - branch: weekly
   date: '2019-06-28'
   downloads:
