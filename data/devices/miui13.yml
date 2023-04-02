@@ -24,12 +24,6 @@
   version: V13.0.3.0.SKWMIXM
 - android: '12.0'
   codename: agate
-  date: '2022-07-20'
-  download: https://bigota.d.miui.com/V13.0.4.0.SKWMIXM/fw_agate_miui_AGATEGlobal_V13.0.4.0.SKWMIXM_3b19924b1a_12.0.zip
-  name: Xiaomi 11T
-  version: V13.0.4.0.SKWMIXM
-- android: '12.0'
-  codename: agate
   date: '2022-08-17'
   download: https://bigota.d.miui.com/V13.0.7.0.SKWEUXM/fw_agate_miui_AGATEEEAGlobal_V13.0.7.0.SKWEUXM_1a664530b8_12.0.zip
   name: Xiaomi 11T
@@ -5410,6 +5404,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.RKCINXM/fw_veux_miui_VEUXINGlobal_V13.0.6.0.RKCINXM_e286abc301_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: V13.0.6.0.RKCINXM
+- android: '12.0'
+  codename: veux
+  date: '2023-04-02'
+  download: https://bigota.d.miui.com/V13.0.7.0.SKCMIXM/fw_veux_miui_VEUXGlobal_V13.0.7.0.SKCMIXM_88b46dd73c_12.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V13.0.7.0.SKCMIXM
 - android: '12.0'
   codename: vili
   date: '2022-03-26'
