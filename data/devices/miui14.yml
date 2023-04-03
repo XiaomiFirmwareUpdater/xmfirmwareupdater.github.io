@@ -594,6 +594,12 @@
   version: V14.0.4.0.TMBCNXM
 - android: '13.0'
   codename: nuwa
+  date: '2023-04-03'
+  download: https://bigota.d.miui.com/V14.0.23.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.23.0.TMBCNXM_7c977c5c30_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.23.0.TMBCNXM
+- android: '13.0'
+  codename: nuwa
   date: '2023-01-01'
   download: https://bigota.d.miui.com/V14.0.10.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.10.0.TMBCNXM_a92bd7643e_13.0.zip
   name: Xiaomi 13 Pro
@@ -832,6 +838,12 @@
   download: https://bigota.d.miui.com/V14.0.18.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.18.0.TMKCNXM_c30f543e79_13.0.zip
   name: Redmi K60 Pro
   version: V14.0.18.0.TMKCNXM
+- android: '13.0'
+  codename: socrates
+  date: '2023-04-03'
+  download: https://bigota.d.miui.com/V14.0.23.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.23.0.TMKCNXM_b423194d4e_13.0.zip
+  name: Redmi K60 Pro
+  version: V14.0.23.0.TMKCNXM
 - android: '13.0'
   codename: socrates
   date: '2023-01-01'
