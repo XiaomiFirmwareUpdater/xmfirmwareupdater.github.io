@@ -3179,6 +3179,16 @@
     android: '10.0'
     miui: V12.0.6.0.QJDMIXM
 - branch: stable
+  date: '2023-04-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-03.04.2023/fw_apollo_miui_APOLLOGlobal_V14.0.1.0.SJDMIXM_2e94304468_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/apollo/fw_apollo_miui_APOLLOGlobal_V14.0.1.0.SJDMIXM_2e94304468_12.0.zip
+  filename: fw_apollo_miui_APOLLOGlobal_V14.0.1.0.SJDMIXM_2e94304468_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V14.0.1.0.SJDMIXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-03.03.2021/fw_apollo_miui_APOLLO_V12.0.12.0.QJDCNXM_1d797b3821_10.0.zip
@@ -44049,6 +44059,16 @@
     android: '12.0'
     miui: V13.0.2.0.SLDMIXM
 - branch: stable
+  date: '2023-04-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-03.04.2023/fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
+  filename: fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.9.0.TLDCNXM
+- branch: stable
   date: '2022-05-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-02.05.2022/fw_psyche_miui_PSYCHE_V13.0.4.0.SLDCNXM_b659da9358_12.0.zip
@@ -47288,6 +47308,16 @@
   versions:
     android: '11.0'
     miui: V12.5.16.0.RKLMIXM
+- branch: stable
+  date: '2023-04-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-03.04.2023/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.2.0.TKLEUXM_86eef43c32_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.2.0.TKLEUXM_86eef43c32_13.0.zip
+  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.2.0.TKLEUXM_86eef43c32_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKLEUXM
 - branch: stable
   date: '2022-11-02'
   downloads:

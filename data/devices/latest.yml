@@ -149,15 +149,15 @@
     android: '10.0'
     miui: V12.0.14.0.QCSEUXM
 - branch: stable
-  date: '2022-12-23'
+  date: '2023-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-23.12.2022/fw_apollo_miui_APOLLOGlobal_V13.0.8.0.SJDMIXM_e86655b0ec_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/apollo/fw_apollo_miui_APOLLOGlobal_V13.0.8.0.SJDMIXM_e86655b0ec_12.0.zip
-  filename: fw_apollo_miui_APOLLOGlobal_V13.0.8.0.SJDMIXM_e86655b0ec_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-03.04.2023/fw_apollo_miui_APOLLOGlobal_V14.0.1.0.SJDMIXM_2e94304468_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/apollo/fw_apollo_miui_APOLLOGlobal_V14.0.1.0.SJDMIXM_2e94304468_12.0.zip
+  filename: fw_apollo_miui_APOLLOGlobal_V14.0.1.0.SJDMIXM_2e94304468_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.8.0.SJDMIXM
+    miui: V14.0.1.0.SJDMIXM
 - branch: stable
   date: '2023-03-08'
   downloads:
@@ -3379,15 +3379,15 @@
     android: '13.0'
     miui: V14.0.3.0.TLDMIXM
 - branch: stable
-  date: '2023-03-14'
+  date: '2023-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-14.03.2023/fw_psyche_miui_PSYCHE_V14.0.8.0.TLDCNXM_26fcc2a3e1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHE_V14.0.8.0.TLDCNXM_26fcc2a3e1_13.0.zip
-  filename: fw_psyche_miui_PSYCHE_V14.0.8.0.TLDCNXM_26fcc2a3e1_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-03.04.2023/fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
+  filename: fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.8.0.TLDCNXM
+    miui: V14.0.9.0.TLDCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -3709,15 +3709,15 @@
     android: '13.0'
     miui: V14.0.2.0.TKLMIXM
 - branch: stable
-  date: '2023-03-20'
+  date: '2023-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-20.03.2023/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.9.0.SKLEUXM_072d098382_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.9.0.SKLEUXM_072d098382_12.0.zip
-  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V13.0.9.0.SKLEUXM_072d098382_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-03.04.2023/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.2.0.TKLEUXM_86eef43c32_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.2.0.TKLEUXM_86eef43c32_13.0.zip
+  filename: fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.2.0.TKLEUXM_86eef43c32_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.9.0.SKLEUXM
+    android: '13.0'
+    miui: V14.0.2.0.TKLEUXM
 - branch: stable
   date: '2023-03-21'
   downloads:

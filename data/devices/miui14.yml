@@ -58,6 +58,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.SJDCNXM/fw_apollo_miui_APOLLO_V14.0.5.0.SJDCNXM_e727f2446b_12.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
   version: V14.0.5.0.SJDCNXM
+- android: '12.0'
+  codename: apollo
+  date: '2023-04-03'
+  download: https://bigota.d.miui.com/V14.0.1.0.SJDMIXM/fw_apollo_miui_APOLLOGlobal_V14.0.1.0.SJDMIXM_2e94304468_12.0.zip
+  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
+  version: V14.0.1.0.SJDMIXM
 - android: '13.0'
   codename: ares
   date: '2023-02-11'
@@ -694,6 +700,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.1.0.TLDEUXM_c018cf7638_13.0.zip
   name: Xiaomi 12X
   version: V14.0.1.0.TLDEUXM
+- android: '13.0'
+  codename: psyche
+  date: '2023-04-03'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLDCNXM/fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
+  name: Xiaomi 12X
+  version: V14.0.9.0.TLDCNXM
 - android: '12.0'
   codename: redwood
   date: '2022-12-30'
@@ -802,6 +814,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V14.0.2.0.TKLMIXM_85c6d48a94_13.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
   version: V14.0.2.0.TKLMIXM
+- android: '13.0'
+  codename: rosemary
+  date: '2023-04-03'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKLEUXM/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.2.0.TKLEUXM_86eef43c32_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.2.0.TKLEUXM
 - android: '13.0'
   codename: rubens
   date: '2023-03-14'
