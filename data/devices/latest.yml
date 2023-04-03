@@ -4719,15 +4719,15 @@
     android: '13.0'
     miui: V14.0.1.0.TKDMIXM
 - branch: stable
-  date: '2023-03-15'
+  date: '2023-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-15.03.2023/fw_vili_miui_VILIEEAGlobal_V14.0.5.0.TKDEUXM_eb90448a78_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIEEAGlobal_V14.0.5.0.TKDEUXM_eb90448a78_13.0.zip
-  filename: fw_vili_miui_VILIEEAGlobal_V14.0.5.0.TKDEUXM_eb90448a78_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-03.04.2023/fw_vili_miui_VILIEEAGlobal_V14.0.8.0.TKDEUXM_46780f7733_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIEEAGlobal_V14.0.8.0.TKDEUXM_46780f7733_13.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_V14.0.8.0.TKDEUXM_46780f7733_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKDEUXM
+    miui: V14.0.8.0.TKDEUXM
 - branch: stable
   date: '2023-03-21'
   downloads:
@@ -5019,15 +5019,15 @@
     android: '13.0'
     miui: V14.0.5.0.TLYCNXM
 - branch: stable
-  date: '2023-03-15'
+  date: '2023-04-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-15.03.2023/fw_yunluo_miui_YUNLUOEEAGlobal_V13.1.4.0.SLYEUXM_987c700d46_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/yunluo/fw_yunluo_miui_YUNLUOEEAGlobal_V13.1.4.0.SLYEUXM_987c700d46_12.0.zip
-  filename: fw_yunluo_miui_YUNLUOEEAGlobal_V13.1.4.0.SLYEUXM_987c700d46_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-03.04.2023/fw_yunluo_miui_YUNLUOEEAGlobal_V14.0.2.0.TLYEUXM_e17b34c1ed_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yunluo/fw_yunluo_miui_YUNLUOEEAGlobal_V14.0.2.0.TLYEUXM_e17b34c1ed_13.0.zip
+  filename: fw_yunluo_miui_YUNLUOEEAGlobal_V14.0.2.0.TLYEUXM_e17b34c1ed_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.1.4.0.SLYEUXM
+    android: '13.0'
+    miui: V14.0.2.0.TLYEUXM
 - branch: stable
   date: '2023-02-01'
   downloads:

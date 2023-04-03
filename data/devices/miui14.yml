@@ -1007,6 +1007,12 @@
   name: Xiaomi 11T Pro
   version: V14.0.1.0.TKDMIXM
 - android: '13.0'
+  codename: vili
+  date: '2023-04-03'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKDEUXM/fw_vili_miui_VILIEEAGlobal_V14.0.8.0.TKDEUXM_46780f7733_13.0.zip
+  name: Xiaomi 11T Pro
+  version: V14.0.8.0.TKDEUXM
+- android: '13.0'
   codename: water
   date: '2023-03-23'
   download: https://bigota.d.miui.com/V14.0.9.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.9.0.TGOMIXM_95d4da1bee_13.0.zip
@@ -1048,6 +1054,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLYCNXM/fw_yunluo_miui_YUNLUO_V14.0.5.0.TLYCNXM_2ad3baf26b_13.0.zip
   name: Redmi Pad
   version: V14.0.5.0.TLYCNXM
+- android: '13.0'
+  codename: yunluo
+  date: '2023-04-03'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_V14.0.2.0.TLYEUXM_e17b34c1ed_13.0.zip
+  name: Redmi Pad
+  version: V14.0.2.0.TLYEUXM
 - android: '13.0'
   codename: zeus
   date: '2023-01-16'
