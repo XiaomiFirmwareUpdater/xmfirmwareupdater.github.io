@@ -941,6 +941,12 @@
   name: Redmi Note 12 4G
   version: V14.0.4.0.TMTMIXM
 - android: '13.0'
+  codename: tapas
+  date: '2023-04-04'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMTINXM/fw_tapas_miui_TAPASINGlobal_V14.0.2.0.TMTINXM_e1be94e1a0_13.0.zip
+  name: Redmi Note 12 4G
+  version: V14.0.2.0.TMTINXM
+- android: '13.0'
   codename: thor
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.10.0.TLACNXM/fw_thor_miui_THOR_V14.0.10.0.TLACNXM_44494aa81d_13.0.zip
@@ -958,6 +964,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TGACNXM/fw_thyme_miui_THYME_V14.0.4.0.TGACNXM_dd2bd8fc3b_13.0.zip
   name: Mi 10S
   version: V14.0.4.0.TGACNXM
+- android: '13.0'
+  codename: topaz
+  date: '2023-04-04'
+  download: https://bigota.d.miui.com/V14.0.1.0.TMGMIXM/fw_topaz_miui_TOPAZGlobal_V14.0.1.0.TMGMIXM_8000f29ef0_13.0.zip
+  name: Redmi Note 12 4G NFC
+  version: V14.0.1.0.TMGMIXM
 - android: '13.0'
   codename: umi
   date: '2023-03-24'

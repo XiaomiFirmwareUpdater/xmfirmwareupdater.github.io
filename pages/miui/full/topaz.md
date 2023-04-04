@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 12 4G (tapas) MIUI Downloads
+title: Redmi Note 12 4G NFC (topaz) MIUI Downloads
 layout: download
-name: Redmi Note 12 4G
-codename: tapas
-permalink: /archive/miui/tapas/
+name: Redmi Note 12 4G NFC
+codename: topaz
+permalink: /archive/miui/topaz/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/tapas/">Redmi Note 12 4G</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/topaz/">Redmi Note 12 4G NFC</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /archive/miui/tapas/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows all available downloads.
      If you're looking for the latest releases check or other downloads check:</p>
-    <a href="/miui/tapas/" class="card-link">Latest MIUI</a>
-    <a href="/firmware/tapas/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/tapas/" class="card-link">Vendor Downloads</a>
+    <a href="/miui/topaz/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/topaz/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/topaz/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,11 +52,8 @@ permalink: /archive/miui/tapas/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMTINXM</td><td>13.0</td><td>4.1 GB</td><td>2023-04-04</td><td><a href="/miui/tapas/stable/V14.0.2.0.TMTINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMTINXM</td><td>13.0</td><td>5.3 GB</td><td>2023-03-07</td><td><a href="/miui/tapas/stable/V14.0.2.0.TMTINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMTMIXM</td><td>13.0</td><td>4.1 GB</td><td>2023-03-31</td><td><a href="/miui/tapas/stable beta/V14.0.4.0.TMTMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMTMIXM</td><td>13.0</td><td>368 Bytes</td><td>2023-02-03</td><td><a href="/miui/tapas/stable/V14.0.2.0.TMTMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMTMIXM</td><td>13.0</td><td>4.1 GB</td><td>None</td><td><a href="/miui/tapas/stable/V14.0.2.0.TMTMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 4G NFC Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TMGMIXM</td><td>13.0</td><td>4.2 GB</td><td>2023-04-04</td><td><a href="/miui/topaz/stable/V14.0.1.0.TMGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G NFC Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TMGMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-02-21</td><td><a href="/miui/topaz/stable/V14.0.1.0.TMGMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
