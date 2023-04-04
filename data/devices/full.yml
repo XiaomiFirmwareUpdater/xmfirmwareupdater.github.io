@@ -45969,16 +45969,6 @@
     android: '12.0'
     miui: 21.11.17
 - branch: weekly
-  date: '2021-08-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/weekly-19.08.2021/fw_renoir_miui_RENOIR_21.8.18_a6b886dea3_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.18/renoir/fw_renoir_miui_RENOIR_21.8.18_a6b886dea3_11.0.zip
-  filename: fw_renoir_miui_RENOIR_21.8.18_a6b886dea3_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.18
-- branch: weekly
   date: '2021-06-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/weekly-18.06.2021/fw_renoir_miui_RENOIR_21.6.16_f652f69d4e_11.0.zip
@@ -46199,16 +46189,6 @@
     android: '11.0'
     miui: V12.0.8.0.RKIEUXM
 - branch: stable
-  date: '2022-12-22'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-22.12.2022/fw_renoir_miui_RENOIRGlobal_V13.0.9.0.SKIMIXM_b0613244de_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/renoir/fw_renoir_miui_RENOIRGlobal_V13.0.9.0.SKIMIXM_b0613244de_12.0.zip
-  filename: fw_renoir_miui_RENOIRGlobal_V13.0.9.0.SKIMIXM_b0613244de_12.0.zip
-  region: Global
-  versions:
-    android: '12.0'
-    miui: V13.0.9.0.SKIMIXM
-- branch: stable
   date: '2021-04-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-21.04.2021/fw_renoir_miui_RENOIR_V12.0.7.0.RKICNXM_ccf60ab5b4_11.0.zip
@@ -46418,16 +46398,6 @@
   versions:
     android: '11.0'
     miui: V12.5.2.0.RKIMIXM
-- branch: stable
-  date: '2023-02-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-06.02.2023/fw_renoir_miui_RENOIREEAGlobal_V14.0.5.0.TKIEUXM_fe45955323_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIREEAGlobal_V14.0.5.0.TKIEUXM_fe45955323_13.0.zip
-  filename: fw_renoir_miui_RENOIREEAGlobal_V14.0.5.0.TKIEUXM_fe45955323_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: V14.0.5.0.TKIEUXM
 - branch: stable
   date: '2022-05-05'
   downloads:
