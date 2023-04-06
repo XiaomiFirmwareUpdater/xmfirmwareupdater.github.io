@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 06 Apr 2023 20:43:31 +0900</pubDate>
+  <pubDate>Fri, 07 Apr 2023 02:03:23 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.1.0.TMSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
+    <pubDate>Fri, 07 Apr 2023 02:03:23 +0900</pubDate>
+  </item>
     <item>
     <title>MIX 4 (odin) - V14.0.4.0.TKMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.3.0.TLSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/light</link>
     <pubDate>Sat, 01 Apr 2023 01:56:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 4G (tapas) - V14.0.4.0.TMTMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
-    <pubDate>Fri, 31 Mar 2023 20:34:36 +0900</pubDate>
   </item>
     </channel>
 </rss>
