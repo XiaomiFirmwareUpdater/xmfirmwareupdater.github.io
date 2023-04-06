@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 05 Apr 2023 19:43:43 +0900</pubDate>
+  <pubDate>Thu, 06 Apr 2023 14:14:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.8.0.TLFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
+    <pubDate>Thu, 06 Apr 2023 14:14:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 Ultra (cas) - V14.0.1.0.TJJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
+    <pubDate>Thu, 06 Apr 2023 13:30:48 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.5.0.SKCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.3.0.TLSINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/light</link>
     <pubDate>Fri, 31 Mar 2023 19:41:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.10.0.TMRCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
-    <pubDate>Fri, 31 Mar 2023 14:02:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V14.0.3.0.SJWMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
-    <pubDate>Fri, 31 Mar 2023 13:20:22 +0900</pubDate>
   </item>
     </channel>
 </rss>
