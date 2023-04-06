@@ -336,6 +336,12 @@
   version: V14.0.2.0.TLJMIXM
 - android: '13.0'
   codename: ingres
+  date: '2023-04-06'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLJCNXM/fw_ingres_miui_INGRES_V14.0.9.0.TLJCNXM_101f49e958_13.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: V14.0.9.0.TLJCNXM
+- android: '13.0'
+  codename: ingres
   date: '2023-02-02'
   download: https://bigota.d.miui.com/V14.0.3.0.TLJEUXM/fw_ingres_miui_INGRESEEAGlobal_V14.0.3.0.TLJEUXM_057d2569f5_13.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -634,6 +640,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKMCNXM/fw_odin_miui_ODIN_V14.0.1.0.TKMCNXM_dd4b49c456_13.0.zip
   name: MIX 4
   version: V14.0.1.0.TKMCNXM
+- android: '13.0'
+  codename: odin
+  date: '2023-04-06'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKMCNXM/fw_odin_miui_ODIN_V14.0.4.0.TKMCNXM_93a33b9259_13.0.zip
+  name: MIX 4
+  version: V14.0.4.0.TKMCNXM
 - android: '13.0'
   codename: pissarro
   date: '2023-03-28'

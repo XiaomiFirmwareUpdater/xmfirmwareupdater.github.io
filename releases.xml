@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 06 Apr 2023 14:14:02 +0900</pubDate>
+  <pubDate>Thu, 06 Apr 2023 20:43:31 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>MIX 4 (odin) - V14.0.4.0.TKMCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
+    <pubDate>Thu, 06 Apr 2023 20:43:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50G/POCO F4 GT (ingres) - V14.0.9.0.TLJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ingres</link>
+    <pubDate>Thu, 06 Apr 2023 20:01:26 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.8.0.TLFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 12 4G (tapas) - V14.0.4.0.TMTMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
     <pubDate>Fri, 31 Mar 2023 20:34:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 (nabu) - V14.0.1.0.TKXINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Fri, 31 Mar 2023 20:05:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.3.0.TLSINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/light</link>
-    <pubDate>Fri, 31 Mar 2023 19:41:27 +0900</pubDate>
   </item>
     </channel>
 </rss>
