@@ -9,15 +9,15 @@
     android: '13.0'
     miui: V14.0.4.0.TKHMIXM
 - branch: stable
-  date: '2023-02-17'
+  date: '2023-04-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-17.02.2023/fw_alioth_miui_ALIOTH_V14.0.5.0.TKHCNXM_d0c1d5fd5f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/alioth/fw_alioth_miui_ALIOTH_V14.0.5.0.TKHCNXM_d0c1d5fd5f_13.0.zip
-  filename: fw_alioth_miui_ALIOTH_V14.0.5.0.TKHCNXM_d0c1d5fd5f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-07.04.2023/fw_alioth_miui_ALIOTH_V14.0.6.0.TKHCNXM_7b7bb4a7bc_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/alioth/fw_alioth_miui_ALIOTH_V14.0.6.0.TKHCNXM_7b7bb4a7bc_13.0.zip
+  filename: fw_alioth_miui_ALIOTH_V14.0.6.0.TKHCNXM_7b7bb4a7bc_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKHCNXM
+    miui: V14.0.6.0.TKHCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
