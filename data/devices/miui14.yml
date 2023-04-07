@@ -467,6 +467,12 @@
   name: Redmi Note 12 Turbo/POCO F5
   version: V14.0.2.0.TMRCNXM
 - android: '13.0'
+  codename: marble
+  date: '2023-04-07'
+  download: https://bigota.d.miui.com/V14.0.12.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.12.0.TMRCNXM_39c5137e9d_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.12.0.TMRCNXM
+- android: '13.0'
   codename: matisse
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.9.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.9.0.TLKCNXM_57f70ca1f5_13.0.zip
@@ -712,6 +718,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLQMIXM/fw_plato_miui_PLATOGlobal_V14.0.1.0.TLQMIXM_1f834fca5a_13.0.zip
   name: Xiaomi 12T
   version: V14.0.1.0.TLQMIXM
+- android: '13.0'
+  codename: plato
+  date: '2023-04-07'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.5.0.TLQEUXM_cb54eb033d_13.0.zip
+  name: Xiaomi 12T
+  version: V14.0.5.0.TLQEUXM
 - android: '13.0'
   codename: psyche
   date: '2023-03-14'
@@ -1000,6 +1012,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TGACNXM/fw_thyme_miui_THYME_V14.0.4.0.TGACNXM_dd2bd8fc3b_13.0.zip
   name: Mi 10S
   version: V14.0.4.0.TGACNXM
+- android: '13.0'
+  codename: topaz
+  date: '2023-04-07'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_V14.0.2.0.TMGEUXM_e1fc034b56_13.0.zip
+  name: Redmi Note 12 4G NFC
+  version: V14.0.2.0.TMGEUXM
 - android: '13.0'
   codename: topaz
   date: '2023-04-04'
