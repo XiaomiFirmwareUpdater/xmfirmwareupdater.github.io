@@ -30,8 +30,8 @@ Updater.
         <h5 class="card-title">Note</h5>
         <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
         <p class="card-text">This page shows the latest downloads only.
-            If you're looking for MIUI 13 downloads check:</p>
-        <a href="/miui13/" class="card-link">MIUI 13 Downloads</a>
+            If you're looking for MIUI 14 downloads check:</p>
+        <a href="/miui14/" class="card-link">MIUI 14 Downloads</a>
         <a href="/firmware/" class="card-link">Firmware Downloads</a>
         <a href="/vendor/" class="card-link">Vendor Downloads</a>
     </div>
