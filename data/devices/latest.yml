@@ -2639,15 +2639,15 @@
     android: '12.0'
     miui: V13.0.5.0.SMPMIXM
 - branch: stable
-  date: '2023-03-23'
+  date: '2023-04-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-23.03.2023/fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.4.0.SMPEUXM_abe32cb1f0_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.4.0.SMPEUXM_abe32cb1f0_12.0.zip
-  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.4.0.SMPEUXM_abe32cb1f0_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-07.04.2023/fw_moonstone_miui_MOONSTONEEEAGlobal_V14.0.2.0.TMPEUXM_40f4ce6a6a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/moonstone/fw_moonstone_miui_MOONSTONEEEAGlobal_V14.0.2.0.TMPEUXM_40f4ce6a6a_13.0.zip
+  filename: fw_moonstone_miui_MOONSTONEEEAGlobal_V14.0.2.0.TMPEUXM_40f4ce6a6a_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.4.0.SMPEUXM
+    android: '13.0'
+    miui: V14.0.2.0.TMPEUXM
 - branch: stable
   date: '2023-03-15'
   downloads:

@@ -539,6 +539,12 @@
   name: Redmi K60/POCO F5 Pro
   version: V14.0.21.0.TMNCNXM
 - android: '13.0'
+  codename: moonstone
+  date: '2023-04-07'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_V14.0.2.0.TMPEUXM_40f4ce6a6a_13.0.zip
+  name: POCO X5 5G
+  version: V14.0.2.0.TMPEUXM
+- android: '13.0'
   codename: munch
   date: '2023-01-31'
   download: https://bigota.d.miui.com/V14.0.1.0.TLMMIXM/fw_munch_miui_MUNCHGlobal_V14.0.1.0.TLMMIXM_929f683c42_13.0.zip
