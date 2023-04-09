@@ -94,6 +94,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKSCNXM/fw_camellia_miui_CAMELLIA_V14.0.2.0.TKSCNXM_3b9393dc62_13.0.zip
   name: Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G
   version: V14.0.2.0.TKSCNXM
+- android: '13.0'
+  codename: camellian
+  date: '2023-04-09'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKSEUXM/fw_camellian_miui_CAMELLIANEEAGlobal_V14.0.1.0.TKSEUXM_e8dea0d89e_13.0.zip
+  name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
+  version: V14.0.1.0.TKSEUXM
 - android: '12.0'
   codename: cannon
   date: '2023-03-14'
@@ -214,6 +220,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLFCNXM/fw_diting_miui_DITING_V14.0.5.0.TLFCNXM_997a43704e_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V14.0.5.0.TLFCNXM
+- android: '13.0'
+  codename: diting
+  date: '2023-04-09'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLFCNXM/fw_diting_miui_DITING_V14.0.8.0.TLFCNXM_2c3f0b1c25_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.8.0.TLFCNXM
 - android: '13.0'
   codename: diting
   date: '2023-03-06'
@@ -1012,6 +1024,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLACNXM/fw_thor_miui_THOR_V14.0.5.0.TLACNXM_5c17bcc84b_13.0.zip
   name: Xiaomi 12S Ultra
   version: V14.0.5.0.TLACNXM
+- android: '13.0'
+  codename: thor
+  date: '2023-04-09'
+  download: https://bigota.d.miui.com/V14.0.12.0.TLACNXM/fw_thor_miui_THOR_V14.0.12.0.TLACNXM_23666a76e3_13.0.zip
+  name: Xiaomi 12S Ultra
+  version: V14.0.12.0.TLACNXM
 - android: '13.0'
   codename: thyme
   date: '2023-03-15'
