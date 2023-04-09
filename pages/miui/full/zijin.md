@@ -52,7 +52,8 @@ permalink: /archive/miui/zijin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-03-24</td><td><a href="/miui/zijin/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-04-07</td><td><a href="/miui/zijin/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-03-24</td><td><a href="/miui/zijin/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-03-10</td><td><a href="/miui/zijin/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-03-03</td><td><a href="/miui/zijin/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.21.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-02-24</td><td><a href="/miui/zijin/public beta/V14.0.23.2.21.DEV/">Download</a></td></tr>
@@ -77,12 +78,12 @@ permalink: /archive/miui/zijin/
 <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-09-09</td><td><a href="/miui/zijin/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>V13.0.12.0.SLPCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-08-27</td><td><a href="/miui/zijin/stable/V13.0.12.0.SLPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.12.0.SLPCNXM</td><td>12.0</td><td>6.9 GB</td><td>2022-08-16</td><td><a href="/miui/zijin/stable/V13.0.12.0.SLPCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLPCNXM</td><td>13.0</td><td>5.8 GB</td><td>2022-12-28</td><td><a href="/miui/zijin/stable/V14.0.2.0.TLPCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLPCNXM</td><td>13.0</td><td>7.3 GB</td><td>2022-12-27</td><td><a href="/miui/zijin/stable/V14.0.2.0.TLPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>V13.0.11.0.SLPCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-06-27</td><td><a href="/miui/zijin/stable/V13.0.11.0.SLPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.11.0.SLPCNXM</td><td>12.0</td><td>6.8 GB</td><td>2022-06-20</td><td><a href="/miui/zijin/stable/V13.0.11.0.SLPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SLPCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-05-20</td><td><a href="/miui/zijin/stable/V13.0.10.0.SLPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SLPCNXM</td><td>12.0</td><td>6.9 GB</td><td>2022-05-15</td><td><a href="/miui/zijin/stable/V13.0.10.0.SLPCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLPCNXM</td><td>13.0</td><td>5.8 GB</td><td>2022-12-28</td><td><a href="/miui/zijin/stable/V14.0.2.0.TLPCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLPCNXM</td><td>13.0</td><td>7.3 GB</td><td>2022-12-27</td><td><a href="/miui/zijin/stable/V14.0.2.0.TLPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.10.1.32.DEV</td><td>12.0</td><td>5.7 GB</td><td>2022-05-20</td><td><a href="/miui/zijin/public beta/V13.0.10.1.32.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SLPCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-04-27</td><td><a href="/miui/zijin/stable/V13.0.7.0.SLPCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 1S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SLPCNXM</td><td>12.0</td><td>6.9 GB</td><td>2022-04-21</td><td><a href="/miui/zijin/stable/V13.0.7.0.SLPCNXM/">Download</a></td></tr>

@@ -52,7 +52,8 @@ permalink: /archive/miui/rubens/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-24</td><td><a href="/miui/rubens/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-04-07</td><td><a href="/miui/rubens/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-24</td><td><a href="/miui/rubens/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-17</td><td><a href="/miui/rubens/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-10</td><td><a href="/miui/rubens/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-03</td><td><a href="/miui/rubens/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
@@ -79,9 +80,9 @@ permalink: /archive/miui/rubens/
 <tr><td>Redmi K50 China</td><td>Stable</td><td>Recovery</td><td>V13.0.23.0.SLNCNXM</td><td>12.0</td><td>5.2 GB</td><td>2022-09-10</td><td><a href="/miui/rubens/stable/V13.0.23.0.SLNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable</td><td>Fastboot</td><td>V13.0.23.0.SLNCNXM</td><td>12.0</td><td>7.1 GB</td><td>2022-09-04</td><td><a href="/miui/rubens/stable/V13.0.23.0.SLNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-09-09</td><td><a href="/miui/rubens/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.29.DEV</td><td>12.0</td><td>5.3 GB</td><td>2022-09-02</td><td><a href="/miui/rubens/public beta/V13.1.22.8.29.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLNCNXM</td><td>13.0</td><td>6.0 GB</td><td>2022-12-28</td><td><a href="/miui/rubens/stable/V14.0.4.0.TLNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLNCNXM</td><td>13.0</td><td>7.3 GB</td><td>2022-12-26</td><td><a href="/miui/rubens/stable/V14.0.4.0.TLNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.29.DEV</td><td>12.0</td><td>5.3 GB</td><td>2022-09-02</td><td><a href="/miui/rubens/public beta/V13.1.22.8.29.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.22.DEV</td><td>12.0</td><td>5.3 GB</td><td>2022-08-26</td><td><a href="/miui/rubens/public beta/V13.1.22.8.22.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.16.DEV</td><td>12.0</td><td>5.3 GB</td><td>2022-08-19</td><td><a href="/miui/rubens/public beta/V13.1.22.8.16.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.17.1.59.DEV</td><td>12.0</td><td>5.3 GB</td><td>2022-08-12</td><td><a href="/miui/rubens/public beta/V13.0.17.1.59.DEV/">Download</a></td></tr>
