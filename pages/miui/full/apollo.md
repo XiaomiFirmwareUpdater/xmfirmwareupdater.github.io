@@ -52,7 +52,8 @@ permalink: /archive/miui/apollo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10T / Mi 10T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJDMIXM</td><td>12.0</td><td>3.5 GB</td><td>2023-03-31</td><td><a href="/miui/apollo/stable beta/V14.0.1.0.SJDMIXM/">Download</a></td></tr>
+                <tr><td>Mi 10T / Mi 10T Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJDRUXM</td><td>12.0</td><td>3.4 GB</td><td>2023-04-06</td><td><a href="/miui/apollo/stable beta/V14.0.1.0.SJDRUXM/">Download</a></td></tr>
+<tr><td>Mi 10T / Mi 10T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJDMIXM</td><td>12.0</td><td>3.5 GB</td><td>2023-03-31</td><td><a href="/miui/apollo/stable beta/V14.0.1.0.SJDMIXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.SJDEUXM</td><td>12.0</td><td>3.5 GB</td><td>2023-03-22</td><td><a href="/miui/apollo/stable/V14.0.1.0.SJDEUXM/">Download</a></td></tr>
 <tr><td>Mi 10T / Mi 10T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.SJDEUXM</td><td>12.0</td><td>4.9 GB</td><td>2023-03-17</td><td><a href="/miui/apollo/stable/V14.0.1.0.SJDEUXM/">Download</a></td></tr>
 <tr><td>Redmi K30S Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.SJDCNXM</td><td>12.0</td><td>4.7 GB</td><td>2023-03-08</td><td><a href="/miui/apollo/stable/V14.0.5.0.SJDCNXM/">Download</a></td></tr>

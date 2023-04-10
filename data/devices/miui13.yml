@@ -2244,6 +2244,12 @@
   version: V13.0.9.0.SGMINXM
 - android: '12.0'
   codename: ice
+  date: '2023-04-10'
+  download: https://bigota.d.miui.com/V13.0.16.0.SGMMIXM/fw_ice_miui_ICEGlobal_V13.0.16.0.SGMMIXM_c64b377af5_12.0.zip
+  name: Redmi A1/POCO C50/A1+
+  version: V13.0.16.0.SGMMIXM
+- android: '12.0'
+  codename: ice
   date: '2023-01-10'
   download: https://bigota.d.miui.com/V13.0.8.0.SGMEUXM/fw_ice_miui_ICEEEAGlobal_V13.0.8.0.SGMEUXM_808bacd2db_12.0.zip
   name: Redmi A1/POCO C50/A1+
@@ -3112,6 +3118,12 @@
   download: https://bigota.d.miui.com/V13.0.1.0.SMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.1.0.SMPEUXM_eb220d7cfd_12.0.zip
   name: POCO X5 5G
   version: V13.0.1.0.SMPEUXM
+- android: '12.0'
+  codename: moonstone
+  date: '2023-04-10'
+  download: https://bigota.d.miui.com/V13.0.3.0.SMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_V13.0.3.0.SMPINXM_eca2b50868_12.0.zip
+  name: POCO X5 5G
+  version: V13.0.3.0.SMPINXM
 - android: '12.0'
   codename: munch
   date: '2023-01-31'

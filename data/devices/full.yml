@@ -26179,6 +26179,16 @@
     android: '12.0'
     miui: V13.0.9.0.SGMINXM
 - branch: stable
+  date: '2023-04-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-10.04.2023/fw_ice_miui_ICEGlobal_V13.0.16.0.SGMMIXM_c64b377af5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEGlobal_V13.0.16.0.SGMMIXM_c64b377af5_12.0.zip
+  filename: fw_ice_miui_ICEGlobal_V13.0.16.0.SGMMIXM_c64b377af5_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.16.0.SGMMIXM
+- branch: stable
   date: '2023-01-10'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-10.01.2023/fw_ice_miui_ICEEEAGlobal_V13.0.8.0.SGMEUXM_808bacd2db_12.0.zip
@@ -34969,6 +34979,16 @@
     android: '12.0'
     miui: V13.0.1.0.SMPEUXM
 - branch: stable
+  date: '2023-04-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-10.04.2023/fw_moonstone_miui_MOONSTONEINGlobal_V13.0.3.0.SMPINXM_eca2b50868_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/moonstone/fw_moonstone_miui_MOONSTONEINGlobal_V13.0.3.0.SMPINXM_eca2b50868_12.0.zip
+  filename: fw_moonstone_miui_MOONSTONEINGlobal_V13.0.3.0.SMPINXM_eca2b50868_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SMPINXM
+- branch: stable
   date: '2023-04-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-07.04.2023/fw_moonstone_miui_MOONSTONEEEAGlobal_V14.0.2.0.TMPEUXM_40f4ce6a6a_13.0.zip
@@ -35138,6 +35158,16 @@
   versions:
     android: '13.0'
     miui: V13.2.8.0.TLMCNXM
+- branch: stable
+  date: '2023-04-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-10.04.2023/fw_munch_miui_MUNCHEEAGlobal_V14.0.3.0.TLMEUXM_cc41176bf7_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCHEEAGlobal_V14.0.3.0.TLMEUXM_cc41176bf7_13.0.zip
+  filename: fw_munch_miui_MUNCHEEAGlobal_V14.0.3.0.TLMEUXM_cc41176bf7_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TLMEUXM
 - branch: stable
   date: '2023-01-10'
   downloads:
