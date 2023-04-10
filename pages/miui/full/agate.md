@@ -53,8 +53,10 @@ permalink: /archive/miui/agate/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi 11T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKWTWXM</td><td>13.0</td><td>3.7 GB</td><td>2023-03-28</td><td><a href="/miui/agate/stable beta/V14.0.2.0.TKWTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKWEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-03-27</td><td><a href="/miui/agate/stable beta/V14.0.2.0.TKWEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11T Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKWMIXM</td><td>13.0</td><td>3.8 GB</td><td>2023-03-27</td><td><a href="/miui/agate/stable beta/V14.0.4.0.TKWMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKWEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-03-27</td><td><a href="/miui/agate/stable/V14.0.2.0.TKWEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKWEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-03-08</td><td><a href="/miui/agate/stable/V14.0.2.0.TKWEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TKWMIXM</td><td>13.0</td><td>3.8 GB</td><td>2023-03-27</td><td><a href="/miui/agate/stable/V14.0.4.0.TKWMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TKWMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-03-08</td><td><a href="/miui/agate/stable/V14.0.4.0.TKWMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKWTRXM</td><td>13.0</td><td>3.8 GB</td><td>2023-03-02</td><td><a href="/miui/agate/stable beta/V14.0.1.0.TKWTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKWRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-02-22</td><td><a href="/miui/agate/stable/V14.0.1.0.TKWRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKWRUXM</td><td>13.0</td><td>6.0 GB</td><td>2023-02-17</td><td><a href="/miui/agate/stable/V14.0.1.0.TKWRUXM/">Download</a></td></tr>

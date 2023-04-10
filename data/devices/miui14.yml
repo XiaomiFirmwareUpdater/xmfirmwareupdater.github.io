@@ -142,6 +142,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKPMIXM/fw_chopin_miui_CHOPINGlobal_V14.0.1.0.TKPMIXM_a929f9e55c_13.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
   version: V14.0.1.0.TKPMIXM
+- android: '12.0'
+  codename: citrus
+  date: '2023-04-10'
+  download: https://bigota.d.miui.com/V14.0.2.0.SJFMIXM/fw_citrus_miui_CITRUSGlobal_V14.0.2.0.SJFMIXM_ed10060e54_12.0.zip
+  name: POCO M3
+  version: V14.0.2.0.SJFMIXM
 - android: '13.0'
   codename: cmi
   date: '2023-03-24'
@@ -898,6 +904,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V14.0.2.0.TKLMIXM_85c6d48a94_13.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
   version: V14.0.2.0.TKLMIXM
+- android: '13.0'
+  codename: rosemary
+  date: '2023-04-10'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.2.0.TKLINXM_e296bfaa3b_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.2.0.TKLINXM
 - android: '13.0'
   codename: rosemary
   date: '2023-04-03'
