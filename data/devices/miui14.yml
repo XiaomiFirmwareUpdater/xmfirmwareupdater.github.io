@@ -402,6 +402,12 @@
   version: V14.0.2.0.TLSMIXM
 - android: '12.0'
   codename: lime
+  date: '2023-04-10'
+  download: https://bigota.d.miui.com/V14.0.3.0.SJQMIXM/fw_lime_miui_LIMEGlobal_V14.0.3.0.SJQMIXM_e2059cb6c7_12.0.zip
+  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
+  version: V14.0.3.0.SJQMIXM
+- android: '12.0'
+  codename: lime
   date: '2023-03-07'
   download: https://bigota.d.miui.com/V14.0.2.0.SJQCNXM/fw_lime_miui_LIME_V14.0.2.0.SJQCNXM_e71d631a73_12.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
@@ -804,6 +810,12 @@
   version: V14.0.6.0.SMSCNXM
 - android: '12.0'
   codename: redwood
+  date: '2023-04-10'
+  download: https://bigota.d.miui.com/V14.0.9.0.SMSINXM/fw_redwood_miui_REDWOODINGlobal_V14.0.9.0.SMSINXM_ae42af2cd8_12.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.9.0.SMSINXM
+- android: '12.0'
+  codename: redwood
   date: '2023-01-09'
   download: https://bigota.d.miui.com/V14.0.3.0.SMSCNXM/fw_redwood_miui_REDWOOD_V14.0.3.0.SMSCNXM_2d81f55d33_12.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -922,6 +934,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SMOCNXM/fw_ruby_miui_RUBY_V14.0.3.0.SMOCNXM_9ba641ef47_12.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: V14.0.3.0.SMOCNXM
+- android: '12.0'
+  codename: ruby
+  date: '2023-04-10'
+  download: https://bigota.d.miui.com/V14.0.2.0.SMOINXM/fw_ruby_miui_RUBYINGlobal_V14.0.2.0.SMOINXM_f78cdd949b_12.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.2.0.SMOINXM
 - android: '13.0'
   codename: socrates
   date: '2023-03-14'
@@ -1000,6 +1018,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.8.0.TLIEUXM_941e46cea6_13.0.zip
   name: Xiaomi 12 Lite
   version: V14.0.8.0.TLIEUXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-04-10'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.9.0.TLIEUXM_f1d2aeb802_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.9.0.TLIEUXM
 - android: '13.0'
   codename: taoyao
   date: '2023-02-02'

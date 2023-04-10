@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 10 Apr 2023 14:35:24 +0900</pubDate>
+  <pubDate>Mon, 10 Apr 2023 20:55:26 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Lite (taoyao) - V14.0.9.0.TLIEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
+    <pubDate>Mon, 10 Apr 2023 20:55:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.2.0.SMOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ruby</link>
+    <pubDate>Mon, 10 Apr 2023 20:22:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.9.0.SMSINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
+    <pubDate>Mon, 10 Apr 2023 19:57:15 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 4G/Redmi 9T/Redmi 9 Power (lime) - V14.0.3.0.SJQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lime</link>
+    <pubDate>Mon, 10 Apr 2023 19:29:36 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40S/POCO F4 (munch) - V14.0.3.0.TLMEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
@@ -85,26 +105,6 @@
     <title>Mi 10 Ultra (cas) - V14.0.1.0.TJJCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
     <pubDate>Thu, 06 Apr 2023 13:30:48 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.5.0.SKCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
-    <pubDate>Wed, 05 Apr 2023 19:43:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 4G NFC (topaz) - V14.0.1.0.TMGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/topaz</link>
-    <pubDate>Tue, 04 Apr 2023 20:14:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 4G (tapas) - V14.0.2.0.TMTINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
-    <pubDate>Tue, 04 Apr 2023 19:47:12 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.2.0.TKLEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
-    <pubDate>Tue, 04 Apr 2023 02:17:51 +0900</pubDate>
   </item>
     </channel>
 </rss>

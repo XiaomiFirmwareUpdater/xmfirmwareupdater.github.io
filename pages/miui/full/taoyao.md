@@ -52,7 +52,9 @@ permalink: /archive/miui/taoyao/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TLIEUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-03-09</td><td><a href="/miui/taoyao/stable/V14.0.8.0.TLIEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TLIEUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-03-20</td><td><a href="/miui/taoyao/stable/V14.0.9.0.TLIEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TLIEUXM</td><td>13.0</td><td>7.0 GB</td><td>2023-03-15</td><td><a href="/miui/taoyao/stable/V14.0.9.0.TLIEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TLIEUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-03-09</td><td><a href="/miui/taoyao/stable/V14.0.8.0.TLIEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TLIEUXM</td><td>13.0</td><td>6.9 GB</td><td>2023-02-25</td><td><a href="/miui/taoyao/stable/V14.0.8.0.TLIEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TLIEUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-02-23</td><td><a href="/miui/taoyao/stable/V14.0.7.0.TLIEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TLIEUXM</td><td>13.0</td><td>6.9 GB</td><td>2023-02-20</td><td><a href="/miui/taoyao/stable/V14.0.7.0.TLIEUXM/">Download</a></td></tr>

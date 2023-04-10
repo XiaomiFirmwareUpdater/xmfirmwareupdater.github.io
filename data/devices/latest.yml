@@ -2199,15 +2199,15 @@
     android: '13.0'
     miui: V14.0.3.0.TLSINXM
 - branch: stable
-  date: '2023-03-29'
+  date: '2023-04-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-30.03.2023/fw_lime_miui_LIMEGlobal_V13.0.3.0.SJQMIXM_9be291e14a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lime/fw_lime_miui_LIMEGlobal_V13.0.3.0.SJQMIXM_9be291e14a_12.0.zip
-  filename: fw_lime_miui_LIMEGlobal_V13.0.3.0.SJQMIXM_9be291e14a_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-10.04.2023/fw_lime_miui_LIMEGlobal_V14.0.3.0.SJQMIXM_e2059cb6c7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lime/fw_lime_miui_LIMEGlobal_V14.0.3.0.SJQMIXM_e2059cb6c7_12.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V14.0.3.0.SJQMIXM_e2059cb6c7_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SJQMIXM
+    miui: V14.0.3.0.SJQMIXM
 - branch: stable
   date: '2023-03-07'
   downloads:
@@ -3529,15 +3529,15 @@
     android: '12.0'
     miui: V14.0.4.0.SMSEUXM
 - branch: stable
-  date: '2023-03-14'
+  date: '2023-04-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-14.03.2023/fw_redwood_miui_REDWOODINGlobal_V14.0.8.0.SMSINXM_ef83d1a6f2_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODINGlobal_V14.0.8.0.SMSINXM_ef83d1a6f2_12.0.zip
-  filename: fw_redwood_miui_REDWOODINGlobal_V14.0.8.0.SMSINXM_ef83d1a6f2_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-10.04.2023/fw_redwood_miui_REDWOODINGlobal_V14.0.9.0.SMSINXM_ae42af2cd8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODINGlobal_V14.0.9.0.SMSINXM_ae42af2cd8_12.0.zip
+  filename: fw_redwood_miui_REDWOODINGlobal_V14.0.9.0.SMSINXM_ae42af2cd8_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V14.0.8.0.SMSINXM
+    miui: V14.0.9.0.SMSINXM
 - branch: stable
   date: '2023-03-14'
   downloads:
@@ -3809,15 +3809,15 @@
     android: '12.0'
     miui: V14.0.4.0.SMOEUXM
 - branch: stable
-  date: '2023-03-14'
+  date: '2023-04-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-14.03.2023/fw_ruby_miui_RUBYINGlobal_V13.0.6.0.SMOINXM_6316050d0e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ruby/fw_ruby_miui_RUBYINGlobal_V13.0.6.0.SMOINXM_6316050d0e_12.0.zip
-  filename: fw_ruby_miui_RUBYINGlobal_V13.0.6.0.SMOINXM_6316050d0e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-10.04.2023/fw_ruby_miui_RUBYINGlobal_V14.0.2.0.SMOINXM_f78cdd949b_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYINGlobal_V14.0.2.0.SMOINXM_f78cdd949b_12.0.zip
+  filename: fw_ruby_miui_RUBYINGlobal_V14.0.2.0.SMOINXM_f78cdd949b_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SMOINXM
+    miui: V14.0.2.0.SMOINXM
 - branch: stable
   date: '2020-03-23'
   downloads:
@@ -4249,15 +4249,15 @@
     android: '13.0'
     miui: V14.0.3.0.TLIMIXM
 - branch: stable
-  date: '2023-03-14'
+  date: '2023-04-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-15.03.2023/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.8.0.TLIEUXM_941e46cea6_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.8.0.TLIEUXM_941e46cea6_13.0.zip
-  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.8.0.TLIEUXM_941e46cea6_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-10.04.2023/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.9.0.TLIEUXM_f1d2aeb802_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.9.0.TLIEUXM_f1d2aeb802_13.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.9.0.TLIEUXM_f1d2aeb802_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.8.0.TLIEUXM
+    miui: V14.0.9.0.TLIEUXM
 - branch: stable
   date: '2023-03-31'
   downloads:

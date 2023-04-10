@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-03-29'
+  date: '2023-04-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-30.03.2023/fw_lime_miui_LIMEGlobal_V13.0.3.0.SJQMIXM_9be291e14a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lime/fw_lime_miui_LIMEGlobal_V13.0.3.0.SJQMIXM_9be291e14a_12.0.zip
-  filename: fw_lime_miui_LIMEGlobal_V13.0.3.0.SJQMIXM_9be291e14a_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-10.04.2023/fw_lime_miui_LIMEGlobal_V14.0.3.0.SJQMIXM_e2059cb6c7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lime/fw_lime_miui_LIMEGlobal_V14.0.3.0.SJQMIXM_e2059cb6c7_12.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V14.0.3.0.SJQMIXM_e2059cb6c7_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.3.0.SJQMIXM
+    miui: V14.0.3.0.SJQMIXM
 - branch: stable
   date: '2023-03-07'
   downloads:
