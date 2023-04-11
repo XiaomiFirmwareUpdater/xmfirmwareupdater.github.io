@@ -380,31 +380,31 @@
   codename: light
   date: '2023-03-31'
   download: https://bigota.d.miui.com/V14.0.3.0.TLSINXM/fw_light_miui_LIGHTINGlobal_V14.0.3.0.TLSINXM_92351c3636_13.0.zip
-  name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.3.0.TLSINXM
 - android: '13.0'
   codename: light
   date: '2023-03-31'
   download: https://bigota.d.miui.com/V14.0.3.0.TLSCNXM/fw_light_miui_LIGHT_V14.0.3.0.TLSCNXM_12168e0615_13.0.zip
-  name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.3.0.TLSCNXM
 - android: '13.0'
   codename: light
   date: '2023-03-17'
   download: https://bigota.d.miui.com/V14.0.1.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.1.0.TLSEUXM_96472ee0dc_13.0.zip
-  name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.1.0.TLSEUXM
 - android: '13.0'
   codename: light
   date: '2023-02-08'
   download: https://bigota.d.miui.com/V14.0.1.0.TLSCNXM/fw_light_miui_LIGHT_V14.0.1.0.TLSCNXM_1a0a02a4b4_13.0.zip
-  name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.1.0.TLSCNXM
 - android: '13.0'
   codename: light
   date: '2023-03-05'
   download: https://bigota.d.miui.com/V14.0.2.0.TLSMIXM/fw_light_miui_LIGHTGlobal_V14.0.2.0.TLSMIXM_a0e7a40391_13.0.zip
-  name: Redmi Note 11E/11R/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.2.0.TLSMIXM
 - android: '12.0'
   codename: lime
