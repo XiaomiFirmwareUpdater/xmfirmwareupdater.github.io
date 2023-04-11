@@ -56,7 +56,7 @@ permalink: /miui/zizhan/
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.22.12.12.DEV</td><td>13.0</td><td>7.7 GB</td><td>2022-12-12</td><td><a href="/miui/zizhan/stable/V14.0.22.12.12.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-04-07</td><td><a href="/miui/zizhan/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi MIX Fold 2 China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLRCNXM</td><td>13.0</td><td>6.1 GB</td><td>2023-01-10</td><td><a href="/miui/zizhan/stable/V14.0.3.0.TLRCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLRCNXM</td><td>13.0</td><td>6.1 GB</td><td>2023-01-06</td><td><a href="/miui/zizhan/stable beta/V14.0.2.0.TLRCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi MIX Fold 2 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.9.0.TLRCNXM</td><td>13.0</td><td>6.1 GB</td><td>2023-04-07</td><td><a href="/miui/zizhan/stable beta/V14.0.9.0.TLRCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

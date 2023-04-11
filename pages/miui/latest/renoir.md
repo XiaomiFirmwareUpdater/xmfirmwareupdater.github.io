@@ -61,8 +61,8 @@ permalink: /miui/renoir/
 <tr><td>Mi 11 Lite 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.5 GB</td><td>2022-03-24</td><td><a href="/miui/renoir/weekly/22.3.23/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKIEUXM</td><td>13.0</td><td>6.4 GB</td><td>2023-01-29</td><td><a href="/miui/renoir/stable/V14.0.5.0.TKIEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKIEUXM</td><td>13.0</td><td>4.6 GB</td><td>2023-02-03</td><td><a href="/miui/renoir/stable/V14.0.5.0.TKIEUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKIMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-01-29</td><td><a href="/miui/renoir/stable/V14.0.3.0.TKIMIXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKIMIXM</td><td>13.0</td><td>4.6 GB</td><td>2023-02-07</td><td><a href="/miui/renoir/stable/V14.0.3.0.TKIMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TKIMIXM</td><td>13.0</td><td>6.6 GB</td><td>2023-03-23</td><td><a href="/miui/renoir/stable/V14.0.4.0.TKIMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TKIMIXM</td><td>13.0</td><td>4.7 GB</td><td>2023-04-03</td><td><a href="/miui/renoir/stable/V14.0.4.0.TKIMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKIJPXM</td><td>13.0</td><td>6.3 GB</td><td>2023-01-29</td><td><a href="/miui/renoir/stable/V14.0.1.0.TKIJPXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKIJPXM</td><td>13.0</td><td>4.5 GB</td><td>2023-02-17</td><td><a href="/miui/renoir/stable/V14.0.1.0.TKIJPXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKIRUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-01-29</td><td><a href="/miui/renoir/stable/V14.0.3.0.TKIRUXM/">Download</a></td></tr>
