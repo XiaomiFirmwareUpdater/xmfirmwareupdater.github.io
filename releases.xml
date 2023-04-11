@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 11 Apr 2023 13:54:36 +0900</pubDate>
+  <pubDate>Wed, 12 Apr 2023 07:32:20 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,12 @@
     <item>
     <title>Redmi Note 11R (lightcm) - V13.0.19.0.SLSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lightcm</link>
-    <pubDate>Tue, 11 Apr 2023 13:54:36 +0900</pubDate>
+    <pubDate>Wed, 12 Apr 2023 07:32:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9T (cannong) - V14.0.3.0.SJEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cannong</link>
+    <pubDate>Wed, 12 Apr 2023 07:28:31 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 11 NFC (spesn) - V13.0.8.0.SGKMIXM</title>
@@ -100,11 +105,6 @@
     <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.12.0.TMRCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
     <pubDate>Fri, 07 Apr 2023 20:02:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.6.0.TKHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Fri, 07 Apr 2023 13:45:42 +0900</pubDate>
   </item>
     </channel>
 </rss>
