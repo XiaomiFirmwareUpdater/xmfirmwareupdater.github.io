@@ -1,51 +1,7 @@
 - branch: stable
-  date: '2020-09-23'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-stable/fw-vendor_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-stable/fw-vendor_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip/download
-  filename: fw-vendor_whyred_miui_HMNote5Global_V11.0.5.0.PEIMIXM_45f26eac62_9.0.zip
-  region: Global
-  size: 430.9 MB
-  versions:
-    android: '9.0'
-    miui: V11.0.5.0.PEIMIXM
-- branch: stable
-  date: '2019-11-05'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred-stable/fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred-stable/fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip/download
-  filename: fw-vendor_whyred_miui_HMNote5_V10.3.5.0.PEICNXM_6990ca4692_9.0.zip
-  region: China
-  size: 328.6 MB
-  versions:
-    android: '9.0'
-    miui: V10.3.5.0.PEICNXM
-- branch: weekly
-  date: '2020-07-17'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_global-weekly/fw-vendor_whyred_miui_HMNote5Global_9.6.27_12689d10c2_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_global-weekly/fw-vendor_whyred_miui_HMNote5Global_9.6.27_12689d10c2_9.0.zip/download
-  filename: fw-vendor_whyred_miui_HMNote5Global_9.6.27_12689d10c2_9.0.zip
-  region: Global
-  size: 364.1 MB
-  versions:
-    android: '9.0'
-    miui: 9.6.27
-- branch: weekly
-  date: '2019-09-06'
-  downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred-weekly/fw-vendor_whyred_miui_HMNote5_9.9.3_d6316ce86a_9.0.zip
-    sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred-weekly/fw-vendor_whyred_miui_HMNote5_9.9.3_d6316ce86a_9.0.zip/download
-  filename: fw-vendor_whyred_miui_HMNote5_9.9.3_d6316ce86a_9.0.zip
-  region: China
-  size: 445.1 MB
-  versions:
-    android: '9.0'
-    miui: 9.9.3
-- branch: stable
   date: '2019-11-07'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/whyred_ru_global-stable/fw-vendor_whyred_miui_HMNote5RUGlobal_V11.0.1.0.PEIRUXM_d5db2891d8_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/whyred_ru_global-stable/fw-vendor_whyred_miui_HMNote5RUGlobal_V11.0.1.0.PEIRUXM_d5db2891d8_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/whyred_ru_global-stable/fw-vendor_whyred_miui_HMNote5RUGlobal_V11.0.1.0.PEIRUXM_d5db2891d8_9.0.zip/download
   filename: fw-vendor_whyred_miui_HMNote5RUGlobal_V11.0.1.0.PEIRUXM_d5db2891d8_9.0.zip
   region: Russia

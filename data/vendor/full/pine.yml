@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-10-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V10.2.4.0.PCMRUXM_4dd352431f_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V10.2.4.0.PCMRUXM_4dd352431f_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V10.2.4.0.PCMRUXM_4dd352431f_9.0.zip/download
   filename: fw-vendor_pine_miui_PINERUGlobal_V10.2.4.0.PCMRUXM_4dd352431f_9.0.zip
   region: Russia
@@ -12,7 +12,7 @@
 - branch: stable
   date: '2019-10-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.3.0.PCMRUXM_4e6825caa5_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.3.0.PCMRUXM_4e6825caa5_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.3.0.PCMRUXM_4e6825caa5_9.0.zip/download
   filename: fw-vendor_pine_miui_PINERUGlobal_V11.0.3.0.PCMRUXM_4e6825caa5_9.0.zip
   region: Russia
@@ -23,7 +23,7 @@
 - branch: stable
   date: '2019-12-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.4.0.PCMRUXM_d38e77621c_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.4.0.PCMRUXM_d38e77621c_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.4.0.PCMRUXM_d38e77621c_9.0.zip/download
   filename: fw-vendor_pine_miui_PINERUGlobal_V11.0.4.0.PCMRUXM_d38e77621c_9.0.zip
   region: Russia
@@ -34,7 +34,7 @@
 - branch: stable
   date: '2020-02-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.5.0.PCMRUXM_07aa46c769_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.5.0.PCMRUXM_07aa46c769_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.5.0.PCMRUXM_07aa46c769_9.0.zip/download
   filename: fw-vendor_pine_miui_PINERUGlobal_V11.0.5.0.PCMRUXM_07aa46c769_9.0.zip
   region: Russia
@@ -45,7 +45,7 @@
 - branch: stable
   date: '2020-05-11'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.6.0.PCMRUXM_0fdf5242bc_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.6.0.PCMRUXM_0fdf5242bc_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.6.0.PCMRUXM_0fdf5242bc_9.0.zip/download
   filename: fw-vendor_pine_miui_PINERUGlobal_V11.0.6.0.PCMRUXM_0fdf5242bc_9.0.zip
   region: Russia
@@ -56,7 +56,7 @@
 - branch: stable
   date: '2020-07-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.1.0.QCMRUXM_7f31992ad2_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.1.0.QCMRUXM_7f31992ad2_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.1.0.QCMRUXM_7f31992ad2_10.0.zip/download
   filename: fw-vendor_pine_miui_PINERUGlobal_V11.0.1.0.QCMRUXM_7f31992ad2_10.0.zip
   region: Russia
@@ -67,7 +67,7 @@
 - branch: stable
   date: '2020-08-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.2.0.QCMRUXM_1d1daac568_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.2.0.QCMRUXM_1d1daac568_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_ru_global-stable/fw-vendor_pine_miui_PINERUGlobal_V11.0.2.0.QCMRUXM_1d1daac568_10.0.zip/download
   filename: fw-vendor_pine_miui_PINERUGlobal_V11.0.2.0.QCMRUXM_1d1daac568_10.0.zip
   region: Russia
@@ -78,7 +78,7 @@
 - branch: stable
   date: '2019-10-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V10.2.10.0.PCMINXM_5df89bb6dd_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V10.2.10.0.PCMINXM_5df89bb6dd_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V10.2.10.0.PCMINXM_5df89bb6dd_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEINGlobal_V10.2.10.0.PCMINXM_5df89bb6dd_9.0.zip
   region: India
@@ -89,7 +89,7 @@
 - branch: stable
   date: '2020-02-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.2.0.PCMINXM_bc576fd578_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.2.0.PCMINXM_bc576fd578_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.2.0.PCMINXM_bc576fd578_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEINGlobal_V11.0.2.0.PCMINXM_bc576fd578_9.0.zip
   region: India
@@ -100,7 +100,7 @@
 - branch: stable
   date: '2020-03-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.4.0.PCMINXM_0ea04d4f45_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.4.0.PCMINXM_0ea04d4f45_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.4.0.PCMINXM_0ea04d4f45_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEINGlobal_V11.0.4.0.PCMINXM_0ea04d4f45_9.0.zip
   region: India
@@ -111,7 +111,7 @@
 - branch: stable
   date: '2020-05-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.5.0.PCMINXM_201721b994_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.5.0.PCMINXM_201721b994_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.5.0.PCMINXM_201721b994_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEINGlobal_V11.0.5.0.PCMINXM_201721b994_9.0.zip
   region: India
@@ -122,7 +122,7 @@
 - branch: stable
   date: '2020-06-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.1.0.QCMINXM_bd739880d3_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.1.0.QCMINXM_bd739880d3_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.1.0.QCMINXM_bd739880d3_10.0.zip/download
   filename: fw-vendor_pine_miui_PINEINGlobal_V11.0.1.0.QCMINXM_bd739880d3_10.0.zip
   region: India
@@ -133,7 +133,7 @@
 - branch: stable
   date: '2020-08-28'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.2.0.QCMINXM_d03fc38bef_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.2.0.QCMINXM_d03fc38bef_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_in_global-stable/fw-vendor_pine_miui_PINEINGlobal_V11.0.2.0.QCMINXM_d03fc38bef_10.0.zip/download
   filename: fw-vendor_pine_miui_PINEINGlobal_V11.0.2.0.QCMINXM_d03fc38bef_10.0.zip
   region: India
@@ -144,7 +144,7 @@
 - branch: stable
   date: '2019-10-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEGlobal_V10.2.5.0.PCMMIXM_7380681456_9.0.zip
   region: Global
@@ -155,7 +155,7 @@
 - branch: stable
   date: '2019-11-04'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.4.0.PCMMIXM_674ed79f0b_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.4.0.PCMMIXM_674ed79f0b_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.4.0.PCMMIXM_674ed79f0b_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEGlobal_V11.0.4.0.PCMMIXM_674ed79f0b_9.0.zip
   region: Global
@@ -166,7 +166,7 @@
 - branch: stable
   date: '2019-12-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.5.0.PCMMIXM_d87548dd5a_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.5.0.PCMMIXM_d87548dd5a_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.5.0.PCMMIXM_d87548dd5a_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEGlobal_V11.0.5.0.PCMMIXM_d87548dd5a_9.0.zip
   region: Global
@@ -177,7 +177,7 @@
 - branch: stable
   date: '2020-02-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.6.0.PCMMIXM_3dbb87d63c_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.6.0.PCMMIXM_3dbb87d63c_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.6.0.PCMMIXM_3dbb87d63c_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEGlobal_V11.0.6.0.PCMMIXM_3dbb87d63c_9.0.zip
   region: Global
@@ -188,7 +188,7 @@
 - branch: stable
   date: '2020-04-14'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.7.0.PCMMIXM_49c637f1c9_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.7.0.PCMMIXM_49c637f1c9_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.7.0.PCMMIXM_49c637f1c9_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEGlobal_V11.0.7.0.PCMMIXM_49c637f1c9_9.0.zip
   region: Global
@@ -199,7 +199,7 @@
 - branch: stable
   date: '2020-07-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.2.0.QCMMIXM_998decafa1_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.2.0.QCMMIXM_998decafa1_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.2.0.QCMMIXM_998decafa1_10.0.zip/download
   filename: fw-vendor_pine_miui_PINEGlobal_V11.0.2.0.QCMMIXM_998decafa1_10.0.zip
   region: Global
@@ -210,7 +210,7 @@
 - branch: stable
   date: '2020-07-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.3.0.QCMMIXM_49023d184c_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.3.0.QCMMIXM_49023d184c_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_global-stable/fw-vendor_pine_miui_PINEGlobal_V11.0.3.0.QCMMIXM_49023d184c_10.0.zip/download
   filename: fw-vendor_pine_miui_PINEGlobal_V11.0.3.0.QCMMIXM_49023d184c_10.0.zip
   region: Global
@@ -221,7 +221,7 @@
 - branch: stable
   date: '2019-10-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.2.0.PCMEUXM_1fdb054ccf_9.0.zip
   region: Europe
@@ -232,7 +232,7 @@
 - branch: stable
   date: '2019-10-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEEEAGlobal_V10.2.5.0.PCMEUXM_e25fa2a608_9.0.zip
   region: Europe
@@ -243,7 +243,7 @@
 - branch: stable
   date: '2019-10-31'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.6.0.PCMEUXM_bcc90ca1df_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.6.0.PCMEUXM_bcc90ca1df_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.6.0.PCMEUXM_bcc90ca1df_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.6.0.PCMEUXM_bcc90ca1df_9.0.zip
   region: Europe
@@ -254,7 +254,7 @@
 - branch: stable
   date: '2019-12-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.13.0.PCMEUXM_6d2ee04dd4_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.13.0.PCMEUXM_6d2ee04dd4_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.13.0.PCMEUXM_6d2ee04dd4_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.13.0.PCMEUXM_6d2ee04dd4_9.0.zip
   region: Europe
@@ -265,7 +265,7 @@
 - branch: stable
   date: '2020-02-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.14.0.PCMEUXM_1d2d60ed95_9.0.zip
   region: Europe
@@ -276,7 +276,7 @@
 - branch: stable
   date: '2020-04-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.18.0.PCMEUXM_8762b039f2_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.18.0.PCMEUXM_8762b039f2_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.18.0.PCMEUXM_8762b039f2_9.0.zip/download
   filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.18.0.PCMEUXM_8762b039f2_9.0.zip
   region: Europe
@@ -287,7 +287,7 @@
 - branch: stable
   date: '2020-06-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.1.0.QCMEUXM_a450eec9ca_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.1.0.QCMEUXM_a450eec9ca_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.1.0.QCMEUXM_a450eec9ca_10.0.zip/download
   filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.1.0.QCMEUXM_a450eec9ca_10.0.zip
   region: Europe
@@ -298,7 +298,7 @@
 - branch: stable
   date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.3.0.QCMEUXM_e76a5adf68_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.3.0.QCMEUXM_e76a5adf68_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.3.0.QCMEUXM_e76a5adf68_10.0.zip/download
   filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.3.0.QCMEUXM_e76a5adf68_10.0.zip
   region: Europe
@@ -309,7 +309,7 @@
 - branch: stable
   date: '2020-09-18'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.4.0.QCMEUXM_812603f988_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.4.0.QCMEUXM_812603f988_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine_eea_global-stable/fw-vendor_pine_miui_PINEEEAGlobal_V11.0.4.0.QCMEUXM_812603f988_10.0.zip/download
   filename: fw-vendor_pine_miui_PINEEEAGlobal_V11.0.4.0.QCMEUXM_812603f988_10.0.zip
   region: Europe
@@ -320,7 +320,7 @@
 - branch: stable
   date: '2019-10-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V10.2.14.0.PCMCNXM_fa762a99f7_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V10.2.14.0.PCMCNXM_fa762a99f7_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine-stable/fw-vendor_pine_miui_PINE_V10.2.14.0.PCMCNXM_fa762a99f7_9.0.zip/download
   filename: fw-vendor_pine_miui_PINE_V10.2.14.0.PCMCNXM_fa762a99f7_9.0.zip
   region: China
@@ -331,7 +331,7 @@
 - branch: stable
   date: '2019-11-04'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine-stable/fw-vendor_pine_miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip/download
   filename: fw-vendor_pine_miui_PINE_V11.0.1.0.PCMCNXM_94700e00ff_9.0.zip
   region: China
@@ -342,7 +342,7 @@
 - branch: stable
   date: '2019-12-04'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine-stable/fw-vendor_pine_miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip/download
   filename: fw-vendor_pine_miui_PINE_V11.0.2.0.PCMCNXM_fb68c600ed_9.0.zip
   region: China
@@ -353,7 +353,7 @@
 - branch: stable
   date: '2020-03-11'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.5.0.PCMCNXM_b3581f0e0c_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.5.0.PCMCNXM_b3581f0e0c_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine-stable/fw-vendor_pine_miui_PINE_V11.0.5.0.PCMCNXM_b3581f0e0c_9.0.zip/download
   filename: fw-vendor_pine_miui_PINE_V11.0.5.0.PCMCNXM_b3581f0e0c_9.0.zip
   region: China
@@ -364,7 +364,7 @@
 - branch: stable
   date: '2020-04-13'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.6.0.PCMCNXM_89ecccbe71_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.6.0.PCMCNXM_89ecccbe71_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine-stable/fw-vendor_pine_miui_PINE_V11.0.6.0.PCMCNXM_89ecccbe71_9.0.zip/download
   filename: fw-vendor_pine_miui_PINE_V11.0.6.0.PCMCNXM_89ecccbe71_9.0.zip
   region: China
@@ -375,7 +375,7 @@
 - branch: stable
   date: '2020-06-04'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.1.0.QCMCNXM_408e455a9c_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/pine-stable/fw-vendor_pine_miui_PINE_V11.0.1.0.QCMCNXM_408e455a9c_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/pine-stable/fw-vendor_pine_miui_PINE_V11.0.1.0.QCMCNXM_408e455a9c_10.0.zip/download
   filename: fw-vendor_pine_miui_PINE_V11.0.1.0.QCMCNXM_408e455a9c_10.0.zip
   region: China

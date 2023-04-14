@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-11-28'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.PCNRUXM_f773af47c6_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.PCNRUXM_f773af47c6_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.PCNRUXM_f773af47c6_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.PCNRUXM_f773af47c6_9.0.zip
   region: Russia
@@ -12,7 +12,7 @@
 - branch: stable
   date: '2019-12-26'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.2.0.PCNRUXM_1f25b2c67e_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.2.0.PCNRUXM_1f25b2c67e_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.2.0.PCNRUXM_1f25b2c67e_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.2.0.PCNRUXM_1f25b2c67e_9.0.zip
   region: Russia
@@ -23,7 +23,7 @@
 - branch: stable
   date: '2020-02-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.4.0.PCNRUXM_0ce96ab8ea_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.4.0.PCNRUXM_0ce96ab8ea_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.4.0.PCNRUXM_0ce96ab8ea_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.4.0.PCNRUXM_0ce96ab8ea_9.0.zip
   region: Russia
@@ -34,7 +34,7 @@
 - branch: stable
   date: '2020-03-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip
   region: Russia
@@ -45,7 +45,7 @@
 - branch: stable
   date: '2020-06-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.6.0.PCNRUXM_e2d5724c21_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.6.0.PCNRUXM_e2d5724c21_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.6.0.PCNRUXM_e2d5724c21_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.6.0.PCNRUXM_e2d5724c21_9.0.zip
   region: Russia
@@ -56,7 +56,7 @@
 - branch: stable
   date: '2020-08-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.QCNRUXM_94e102ac18_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.QCNRUXM_94e102ac18_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_ru_global-stable/fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.QCNRUXM_94e102ac18_10.0.zip/download
   filename: fw-vendor_olive_miui_OLIVERUGlobal_V11.0.1.0.QCNRUXM_94e102ac18_10.0.zip
   region: Russia
@@ -67,7 +67,7 @@
 - branch: stable
   date: '2019-10-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.1.0.PCNINXM_58cd7dd6c9_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.1.0.PCNINXM_58cd7dd6c9_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.1.0.PCNINXM_58cd7dd6c9_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V10.3.1.0.PCNINXM_58cd7dd6c9_9.0.zip
   region: India
@@ -78,7 +78,7 @@
 - branch: stable
   date: '2019-10-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V10.3.3.0.PCNINXM_06bcef5cfb_9.0.zip
   region: India
@@ -89,7 +89,7 @@
 - branch: stable
   date: '2019-11-08'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.PCNINXM_d414883e6a_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.PCNINXM_d414883e6a_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.PCNINXM_d414883e6a_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.PCNINXM_d414883e6a_9.0.zip
   region: India
@@ -100,7 +100,7 @@
 - branch: stable
   date: '2019-11-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.2.0.PCNINXM_07bb0694d7_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.2.0.PCNINXM_07bb0694d7_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.2.0.PCNINXM_07bb0694d7_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.2.0.PCNINXM_07bb0694d7_9.0.zip
   region: India
@@ -111,7 +111,7 @@
 - branch: stable
   date: '2020-01-13'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.4.0.PCNINXM_74cf92ae69_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.4.0.PCNINXM_74cf92ae69_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.4.0.PCNINXM_74cf92ae69_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.4.0.PCNINXM_74cf92ae69_9.0.zip
   region: India
@@ -122,7 +122,7 @@
 - branch: stable
   date: '2020-01-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.5.0.PCNINXM_c29bfe148e_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.5.0.PCNINXM_c29bfe148e_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.5.0.PCNINXM_c29bfe148e_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.5.0.PCNINXM_c29bfe148e_9.0.zip
   region: India
@@ -133,7 +133,7 @@
 - branch: stable
   date: '2020-02-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.6.0.PCNINXM_58ad54e741_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.6.0.PCNINXM_58ad54e741_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.6.0.PCNINXM_58ad54e741_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.6.0.PCNINXM_58ad54e741_9.0.zip
   region: India
@@ -144,7 +144,7 @@
 - branch: stable
   date: '2020-02-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.7.0.PCNINXM_3950d69d15_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.7.0.PCNINXM_3950d69d15_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.7.0.PCNINXM_3950d69d15_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.7.0.PCNINXM_3950d69d15_9.0.zip
   region: India
@@ -155,7 +155,7 @@
 - branch: stable
   date: '2020-03-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.8.0.PCNINXM_089d77e4b6_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.8.0.PCNINXM_089d77e4b6_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.8.0.PCNINXM_089d77e4b6_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.8.0.PCNINXM_089d77e4b6_9.0.zip
   region: India
@@ -166,7 +166,7 @@
 - branch: stable
   date: '2020-04-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.10.0.PCNINXM_30c0530d4e_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.10.0.PCNINXM_30c0530d4e_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.10.0.PCNINXM_30c0530d4e_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.10.0.PCNINXM_30c0530d4e_9.0.zip
   region: India
@@ -177,7 +177,7 @@
 - branch: stable
   date: '2020-05-20'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.11.0.PCNINXM_aa4516b793_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.11.0.PCNINXM_aa4516b793_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.11.0.PCNINXM_aa4516b793_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.11.0.PCNINXM_aa4516b793_9.0.zip
   region: India
@@ -188,7 +188,7 @@
 - branch: stable
   date: '2020-06-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.12.0.PCNINXM_d95fbe011d_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.12.0.PCNINXM_d95fbe011d_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.12.0.PCNINXM_d95fbe011d_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.12.0.PCNINXM_d95fbe011d_9.0.zip
   region: India
@@ -199,7 +199,7 @@
 - branch: stable
   date: '2020-08-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.QCNINXM_81da910914_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.QCNINXM_81da910914_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_in_global-stable/fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.QCNINXM_81da910914_10.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEINGlobal_V11.0.1.0.QCNINXM_81da910914_10.0.zip
   region: India
@@ -210,7 +210,7 @@
 - branch: stable
   date: '2019-12-16'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.2.0.PCNIDXM_b58b338434_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.2.0.PCNIDXM_b58b338434_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.2.0.PCNIDXM_b58b338434_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.2.0.PCNIDXM_b58b338434_9.0.zip
   region: Global
@@ -221,7 +221,7 @@
 - branch: stable
   date: '2019-12-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.3.0.PCNIDXM_082a3ae451_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.3.0.PCNIDXM_082a3ae451_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.3.0.PCNIDXM_082a3ae451_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.3.0.PCNIDXM_082a3ae451_9.0.zip
   region: Global
@@ -232,7 +232,7 @@
 - branch: stable
   date: '2020-02-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.4.0.PCNIDXM_51d47d7eb9_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.4.0.PCNIDXM_51d47d7eb9_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.4.0.PCNIDXM_51d47d7eb9_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.4.0.PCNIDXM_51d47d7eb9_9.0.zip
   region: Global
@@ -243,7 +243,7 @@
 - branch: stable
   date: '2020-03-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.5.0.PCNIDXM_a71f53ad0c_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.5.0.PCNIDXM_a71f53ad0c_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.5.0.PCNIDXM_a71f53ad0c_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.5.0.PCNIDXM_a71f53ad0c_9.0.zip
   region: Global
@@ -254,7 +254,7 @@
 - branch: stable
   date: '2020-06-12'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.7.0.PCNIDXM_33bde5c02c_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.7.0.PCNIDXM_33bde5c02c_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.7.0.PCNIDXM_33bde5c02c_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.7.0.PCNIDXM_33bde5c02c_9.0.zip
   region: Global
@@ -265,7 +265,7 @@
 - branch: stable
   date: '2020-09-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.1.0.QCNIDXM_7642124459_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.1.0.QCNIDXM_7642124459_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_id_global-stable/fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.1.0.QCNIDXM_7642124459_10.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEIDGlobal_V11.0.1.0.QCNIDXM_7642124459_10.0.zip
   region: Global
@@ -276,7 +276,7 @@
 - branch: stable
   date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable-beta/fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_global-stable-beta/fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable-beta/fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip
   region: Global
@@ -287,7 +287,7 @@
 - branch: stable
   date: '2019-12-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.1.0.PCNMIXM_bf4bb66af7_9.0.zip
   region: Global
@@ -298,7 +298,7 @@
 - branch: stable
   date: '2019-12-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.3.0.PCNMIXM_b3a973ea8f_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.3.0.PCNMIXM_b3a973ea8f_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.3.0.PCNMIXM_b3a973ea8f_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.3.0.PCNMIXM_b3a973ea8f_9.0.zip
   region: Global
@@ -309,7 +309,7 @@
 - branch: stable
   date: '2020-01-16'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.4.0.PCNMIXM_cd2b877092_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.4.0.PCNMIXM_cd2b877092_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.4.0.PCNMIXM_cd2b877092_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.4.0.PCNMIXM_cd2b877092_9.0.zip
   region: Global
@@ -320,7 +320,7 @@
 - branch: stable
   date: '2020-01-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.6.0.PCNMIXM_e905bad490_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.6.0.PCNMIXM_e905bad490_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.6.0.PCNMIXM_e905bad490_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.6.0.PCNMIXM_e905bad490_9.0.zip
   region: Global
@@ -331,7 +331,7 @@
 - branch: stable
   date: '2020-02-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.7.0.PCNMIXM_db1f5a40bb_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.7.0.PCNMIXM_db1f5a40bb_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.7.0.PCNMIXM_db1f5a40bb_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.7.0.PCNMIXM_db1f5a40bb_9.0.zip
   region: Global
@@ -342,7 +342,7 @@
 - branch: stable
   date: '2020-03-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.10.0.PCNMIXM_3daae20692_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.10.0.PCNMIXM_3daae20692_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.10.0.PCNMIXM_3daae20692_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.10.0.PCNMIXM_3daae20692_9.0.zip
   region: Global
@@ -353,7 +353,7 @@
 - branch: stable
   date: '2020-06-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.11.0.PCNMIXM_4a0ca7fcbd_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.11.0.PCNMIXM_4a0ca7fcbd_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.11.0.PCNMIXM_4a0ca7fcbd_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.11.0.PCNMIXM_4a0ca7fcbd_9.0.zip
   region: Global
@@ -364,7 +364,7 @@
 - branch: stable
   date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.2.0.QCNMIXM_1cfce9e7c8_10.0.zip
   region: Global
@@ -375,7 +375,7 @@
 - branch: stable
   date: '2020-10-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.3.0.QCNMIXM_8fb6dd469e_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.3.0.QCNMIXM_8fb6dd469e_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_global-stable/fw-vendor_olive_miui_OLIVEGlobal_V11.0.3.0.QCNMIXM_8fb6dd469e_10.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEGlobal_V11.0.3.0.QCNMIXM_8fb6dd469e_10.0.zip
   region: Global
@@ -386,7 +386,7 @@
 - branch: stable
   date: '2019-11-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.PCNEUXM_1a4ec8d8c6_9.0.zip
   region: Europe
@@ -397,7 +397,7 @@
 - branch: stable
   date: '2019-12-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.2.0.PCNEUXM_01161d58aa_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.2.0.PCNEUXM_01161d58aa_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.2.0.PCNEUXM_01161d58aa_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.2.0.PCNEUXM_01161d58aa_9.0.zip
   region: Europe
@@ -408,7 +408,7 @@
 - branch: stable
   date: '2020-02-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.4.0.PCNEUXM_81aaeb0b7b_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.4.0.PCNEUXM_81aaeb0b7b_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.4.0.PCNEUXM_81aaeb0b7b_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.4.0.PCNEUXM_81aaeb0b7b_9.0.zip
   region: Europe
@@ -419,7 +419,7 @@
 - branch: stable
   date: '2020-03-26'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip
   region: Europe
@@ -430,7 +430,7 @@
 - branch: stable
   date: '2020-06-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.7.0.PCNEUXM_305316f209_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.7.0.PCNEUXM_305316f209_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.7.0.PCNEUXM_305316f209_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.7.0.PCNEUXM_305316f209_9.0.zip
   region: Europe
@@ -441,7 +441,7 @@
 - branch: stable
   date: '2020-08-20'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.QCNEUXM_a69741ad10_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.QCNEUXM_a69741ad10_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.QCNEUXM_a69741ad10_10.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.1.0.QCNEUXM_a69741ad10_10.0.zip
   region: Europe
@@ -452,7 +452,7 @@
 - branch: stable
   date: '2020-09-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.2.0.QCNEUXM_12328bb425_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.2.0.QCNEUXM_12328bb425_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive_eea_global-stable/fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.2.0.QCNEUXM_12328bb425_10.0.zip/download
   filename: fw-vendor_olive_miui_OLIVEEEAGlobal_V11.0.2.0.QCNEUXM_12328bb425_10.0.zip
   region: Europe
@@ -463,7 +463,7 @@
 - branch: stable
   date: '2019-10-14'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.5.0.PCNCNXM_ad8b2dc76b_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.5.0.PCNCNXM_ad8b2dc76b_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.5.0.PCNCNXM_ad8b2dc76b_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVE_V10.3.5.0.PCNCNXM_ad8b2dc76b_9.0.zip
   region: China
@@ -474,7 +474,7 @@
 - branch: stable
   date: '2019-10-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.6.0.PCNCNXM_b206164110_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.6.0.PCNCNXM_b206164110_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V10.3.6.0.PCNCNXM_b206164110_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVE_V10.3.6.0.PCNCNXM_b206164110_9.0.zip
   region: China
@@ -485,7 +485,7 @@
 - branch: stable
   date: '2019-11-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.2.0.PCNCNXM_07fe0ba01c_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.2.0.PCNCNXM_07fe0ba01c_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.2.0.PCNCNXM_07fe0ba01c_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVE_V11.0.2.0.PCNCNXM_07fe0ba01c_9.0.zip
   region: China
@@ -496,7 +496,7 @@
 - branch: stable
   date: '2019-12-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.3.0.PCNCNXM_5070d510b2_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.3.0.PCNCNXM_5070d510b2_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.3.0.PCNCNXM_5070d510b2_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVE_V11.0.3.0.PCNCNXM_5070d510b2_9.0.zip
   region: China
@@ -507,7 +507,7 @@
 - branch: stable
   date: '2019-12-12'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.4.0.PCNCNXM_95d27448ca_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.4.0.PCNCNXM_95d27448ca_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.4.0.PCNCNXM_95d27448ca_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVE_V11.0.4.0.PCNCNXM_95d27448ca_9.0.zip
   region: China
@@ -518,7 +518,7 @@
 - branch: stable
   date: '2020-01-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.7.0.PCNCNXM_7247dbd752_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.7.0.PCNCNXM_7247dbd752_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.7.0.PCNCNXM_7247dbd752_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVE_V11.0.7.0.PCNCNXM_7247dbd752_9.0.zip
   region: China
@@ -529,7 +529,7 @@
 - branch: stable
   date: '2020-03-04'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.8.0.PCNCNXM_2ab6e7a99d_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.8.0.PCNCNXM_2ab6e7a99d_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.8.0.PCNCNXM_2ab6e7a99d_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVE_V11.0.8.0.PCNCNXM_2ab6e7a99d_9.0.zip
   region: China
@@ -540,7 +540,7 @@
 - branch: stable
   date: '2020-04-02'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.10.0.PCNCNXM_63d1000ad5_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.10.0.PCNCNXM_63d1000ad5_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.10.0.PCNCNXM_63d1000ad5_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVE_V11.0.10.0.PCNCNXM_63d1000ad5_9.0.zip
   region: China
@@ -551,7 +551,7 @@
 - branch: stable
   date: '2020-05-25'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.11.0.PCNCNXM_34af5a82a4_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.11.0.PCNCNXM_34af5a82a4_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/olive-stable/fw-vendor_olive_miui_OLIVE_V11.0.11.0.PCNCNXM_34af5a82a4_9.0.zip/download
   filename: fw-vendor_olive_miui_OLIVE_V11.0.11.0.PCNCNXM_34af5a82a4_9.0.zip
   region: China

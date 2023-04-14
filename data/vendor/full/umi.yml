@@ -1,7 +1,7 @@
 - branch: stable
   date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_ru_global-stable-beta/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_ru_global-stable-beta/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_ru_global-stable-beta/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
   region: Russia
@@ -12,7 +12,7 @@
 - branch: stable
   date: '2020-06-08'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip
   region: Russia
@@ -23,7 +23,7 @@
 - branch: stable
   date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_ru_global-stable/fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIRUGlobal_V12.0.1.0.QJBRUXM_214ab5f95f_10.0.zip
   region: Russia
@@ -34,7 +34,7 @@
 - branch: stable
   date: '2020-05-18'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip
   region: India
@@ -45,7 +45,7 @@
 - branch: stable
   date: '2020-06-12'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.5.0.QJBINXM_344622ddea_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.5.0.QJBINXM_344622ddea_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.5.0.QJBINXM_344622ddea_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIINGlobal_V11.0.5.0.QJBINXM_344622ddea_10.0.zip
   region: India
@@ -56,7 +56,7 @@
 - branch: stable
   date: '2020-06-29'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.7.0.QJBINXM_2f41decc2f_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.7.0.QJBINXM_2f41decc2f_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V11.0.7.0.QJBINXM_2f41decc2f_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIINGlobal_V11.0.7.0.QJBINXM_2f41decc2f_10.0.zip
   region: India
@@ -67,7 +67,7 @@
 - branch: stable
   date: '2020-08-24'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V12.0.2.0.QJBINXM_3cf1fc9031_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V12.0.2.0.QJBINXM_3cf1fc9031_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_in_global-stable/fw-vendor_umi_miui_UMIINGlobal_V12.0.2.0.QJBINXM_3cf1fc9031_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIINGlobal_V12.0.2.0.QJBINXM_3cf1fc9031_10.0.zip
   region: India
@@ -78,7 +78,7 @@
 - branch: stable
   date: '2020-06-08'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.4.0.QJBIDXM_df16f0e880_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.4.0.QJBIDXM_df16f0e880_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.4.0.QJBIDXM_df16f0e880_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIIDGlobal_V11.0.4.0.QJBIDXM_df16f0e880_10.0.zip
   region: Global
@@ -89,7 +89,7 @@
 - branch: stable
   date: '2020-07-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIIDGlobal_V11.0.5.0.QJBIDXM_1ab28d37e0_10.0.zip
   region: Global
@@ -100,7 +100,7 @@
 - branch: stable
   date: '2020-08-18'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_id_global-stable/fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIIDGlobal_V12.0.1.0.QJBIDXM_4352c3a7d0_10.0.zip
   region: Global
@@ -111,7 +111,7 @@
 - branch: stable
   date: '2020-05-11'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip
   region: Global
@@ -122,7 +122,7 @@
 - branch: stable
   date: '2020-06-12'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.5.0.QJBMIXM_105697632a_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.5.0.QJBMIXM_105697632a_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V11.0.5.0.QJBMIXM_105697632a_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIGlobal_V11.0.5.0.QJBMIXM_105697632a_10.0.zip
   region: Global
@@ -133,7 +133,7 @@
 - branch: stable
   date: '2020-07-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIGlobal_V12.0.1.0.QJBMIXM_127910e56e_10.0.zip
   region: Global
@@ -144,7 +144,7 @@
 - branch: stable
   date: '2020-10-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_44edb6fd7214022224e0a6ba8eb8a067362c0fe7.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_global-stable/fw-vendor_umi_44edb6fd7214022224e0a6ba8eb8a067362c0fe7.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_global-stable/fw-vendor_umi_44edb6fd7214022224e0a6ba8eb8a067362c0fe7.zip/download
   filename: fw-vendor_umi_44edb6fd7214022224e0a6ba8eb8a067362c0fe7.zip
   region: Global
@@ -155,7 +155,7 @@
 - branch: stable
   date: '2020-04-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.9.0.QJBEUXM_f40b8c154f_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.9.0.QJBEUXM_f40b8c154f_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.9.0.QJBEUXM_f40b8c154f_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIEEAGlobal_V11.0.9.0.QJBEUXM_f40b8c154f_10.0.zip
   region: Europe
@@ -166,7 +166,7 @@
 - branch: stable
   date: '2020-05-07'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.12.0.QJBEUXM_88a2514f92_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.12.0.QJBEUXM_88a2514f92_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.12.0.QJBEUXM_88a2514f92_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIEEAGlobal_V11.0.12.0.QJBEUXM_88a2514f92_10.0.zip
   region: Europe
@@ -177,7 +177,7 @@
 - branch: stable
   date: '2020-05-22'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.13.0.QJBEUXM_0e125eeae0_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.13.0.QJBEUXM_0e125eeae0_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.13.0.QJBEUXM_0e125eeae0_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIEEAGlobal_V11.0.13.0.QJBEUXM_0e125eeae0_10.0.zip
   region: Europe
@@ -188,7 +188,7 @@
 - branch: stable
   date: '2020-06-11'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIEEAGlobal_V11.0.14.0.QJBEUXM_ee538691d7_10.0.zip
   region: Europe
@@ -199,7 +199,7 @@
 - branch: stable
   date: '2020-07-28'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V12.0.1.0.QJBEUXM_e8362fdb86_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V12.0.1.0.QJBEUXM_e8362fdb86_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V12.0.1.0.QJBEUXM_e8362fdb86_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIEEAGlobal_V12.0.1.0.QJBEUXM_e8362fdb86_10.0.zip
   region: Europe
@@ -210,7 +210,7 @@
 - branch: stable
   date: '2020-09-04'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V12.0.2.0.QJBEUXM_a20927d2db_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V12.0.2.0.QJBEUXM_a20927d2db_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V12.0.2.0.QJBEUXM_a20927d2db_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIEEAGlobal_V12.0.2.0.QJBEUXM_a20927d2db_10.0.zip
   region: Europe
@@ -221,7 +221,7 @@
 - branch: stable
   date: '2020-09-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V12.0.3.0.QJBEUXM_57f0eea342_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V12.0.3.0.QJBEUXM_57f0eea342_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi_eea_global-stable/fw-vendor_umi_miui_UMIEEAGlobal_V12.0.3.0.QJBEUXM_57f0eea342_10.0.zip/download
   filename: fw-vendor_umi_miui_UMIEEAGlobal_V12.0.3.0.QJBEUXM_57f0eea342_10.0.zip
   region: Europe
@@ -232,7 +232,7 @@
 - branch: weekly
   date: '2020-07-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip/download
   filename: fw-vendor_umi_miui_UMI_20.7.9_80ff22de5e_11.0.zip
   region: China
@@ -243,7 +243,7 @@
 - branch: weekly
   date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip/download
   filename: fw-vendor_umi_miui_UMI_20.8.6_eb4bc02952_11.0.zip
   region: China
@@ -254,7 +254,7 @@
 - branch: weekly
   date: '2020-09-05'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.9.4_9e5930ea34_11.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-weekly/fw-vendor_umi_miui_UMI_20.9.4_9e5930ea34_11.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-weekly/fw-vendor_umi_miui_UMI_20.9.4_9e5930ea34_11.0.zip/download
   filename: fw-vendor_umi_miui_UMI_20.9.4_9e5930ea34_11.0.zip
   region: China
@@ -265,7 +265,7 @@
 - branch: stable
   date: '2020-08-06'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable-beta/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
   region: China
@@ -276,7 +276,7 @@
 - branch: stable
   date: '2020-02-13'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.5.0.QJBCNXM_cb37e58eaf_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.5.0.QJBCNXM_cb37e58eaf_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.5.0.QJBCNXM_cb37e58eaf_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V11.0.5.0.QJBCNXM_cb37e58eaf_10.0.zip
   region: China
@@ -287,7 +287,7 @@
 - branch: stable
   date: '2020-02-21'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.7.0.QJBCNXM_f24f102639_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.7.0.QJBCNXM_f24f102639_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.7.0.QJBCNXM_f24f102639_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V11.0.7.0.QJBCNXM_f24f102639_10.0.zip
   region: China
@@ -298,7 +298,7 @@
 - branch: stable
   date: '2020-02-23'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V11.0.9.0.QJBCNXM_27efd6a834_10.0.zip
   region: China
@@ -309,7 +309,7 @@
 - branch: stable
   date: '2020-03-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.15.0.QJBCNXM_6cdb7e473b_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.15.0.QJBCNXM_6cdb7e473b_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.15.0.QJBCNXM_6cdb7e473b_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V11.0.15.0.QJBCNXM_6cdb7e473b_10.0.zip
   region: China
@@ -320,7 +320,7 @@
 - branch: stable
   date: '2020-03-16'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.17.0.QJBCNXM_e09ff49f53_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.17.0.QJBCNXM_e09ff49f53_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.17.0.QJBCNXM_e09ff49f53_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V11.0.17.0.QJBCNXM_e09ff49f53_10.0.zip
   region: China
@@ -331,7 +331,7 @@
 - branch: stable
   date: '2020-03-30'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V11.0.20.0.QJBCNXM_32b6ac86d2_10.0.zip
   region: China
@@ -342,7 +342,7 @@
 - branch: stable
   date: '2020-04-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V11.0.24.0.QJBCNXM_1b47c44910_10.0.zip
   region: China
@@ -353,7 +353,7 @@
 - branch: stable
   date: '2020-05-27'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V11.0.25.0.QJBCNXM_5c5cd47170_10.0.zip
   region: China
@@ -364,7 +364,7 @@
 - branch: stable
   date: '2020-06-19'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.0.1.0.QJBCNXM_89345e68d7_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.0.1.0.QJBCNXM_89345e68d7_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V12.0.1.0.QJBCNXM_89345e68d7_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V12.0.1.0.QJBCNXM_89345e68d7_10.0.zip
   region: China
@@ -375,7 +375,7 @@
 - branch: stable
   date: '2020-07-10'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.0.4.0.QJBCNXM_9a876a1449_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.0.4.0.QJBCNXM_9a876a1449_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V12.0.4.0.QJBCNXM_9a876a1449_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V12.0.4.0.QJBCNXM_9a876a1449_10.0.zip
   region: China
@@ -386,7 +386,7 @@
 - branch: stable
   date: '2020-07-28'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V12.0.7.0.QJBCNXM_a86a0aee85_10.0.zip
   region: China
@@ -397,7 +397,7 @@
 - branch: stable
   date: '2020-08-17'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.0.8.0.QJBCNXM_b169aa4a87_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.0.8.0.QJBCNXM_b169aa4a87_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V12.0.8.0.QJBCNXM_b169aa4a87_10.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V12.0.8.0.QJBCNXM_b169aa4a87_10.0.zip
   region: China
@@ -408,7 +408,7 @@
 - branch: stable
   date: '2020-10-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.1.5.0.RJBCNXM_adc4c0be0e_11.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/umi-stable/fw-vendor_umi_miui_UMI_V12.1.5.0.RJBCNXM_adc4c0be0e_11.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/umi-stable/fw-vendor_umi_miui_UMI_V12.1.5.0.RJBCNXM_adc4c0be0e_11.0.zip/download
   filename: fw-vendor_umi_miui_UMI_V12.1.5.0.RJBCNXM_adc4c0be0e_11.0.zip
   region: China

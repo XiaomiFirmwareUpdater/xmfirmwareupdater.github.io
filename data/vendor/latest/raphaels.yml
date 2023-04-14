@@ -1,7 +1,7 @@
 - branch: stable
   date: '2019-11-01'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/raphaels-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/raphaels-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/raphaels-stable/fw-vendor_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip/download
   filename: fw-vendor_raphael_miui_RAPHAEL_V11.0.2.0.QFKCNXM_e5247b38b7_10.0.zip
   region: China

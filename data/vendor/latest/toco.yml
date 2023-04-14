@@ -1,7 +1,7 @@
 - branch: stable
   date: '2020-09-15'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_global-stable/fw-vendor_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip/download
   filename: fw-vendor_toco_miui_TOCOGlobal_V12.0.2.0.QFNMIXM_40c0e5edc1_10.0.zip
   region: Global
@@ -12,7 +12,7 @@
 - branch: stable
   date: '2020-09-14'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_eea_global-stable/fw-vendor_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip/download
   filename: fw-vendor_toco_miui_TOCOEEAGlobal_V12.0.1.0.QFNEUXM_742260ada1_10.0.zip
   region: Europe
@@ -23,7 +23,7 @@
 - branch: stable
   date: '2020-09-18'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/toco_ru_global-stable/fw-vendor_toco_miui_TOCORUGlobal_V12.0.1.0.QFNRUXM_95d56ec2cf_10.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/toco_ru_global-stable/fw-vendor_toco_miui_TOCORUGlobal_V12.0.1.0.QFNRUXM_95d56ec2cf_10.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/toco_ru_global-stable/fw-vendor_toco_miui_TOCORUGlobal_V12.0.1.0.QFNRUXM_95d56ec2cf_10.0.zip/download
   filename: fw-vendor_toco_miui_TOCORUGlobal_V12.0.1.0.QFNRUXM_95d56ec2cf_10.0.zip
   region: Russia

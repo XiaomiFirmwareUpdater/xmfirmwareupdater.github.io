@@ -3126,6 +3126,12 @@
   version: 21.5.20
 - android: '11.0'
   codename: crux
+  date: '2021-11-19'
+  download: https://bigota.d.miui.com/21.11.17/miui_CRUX_21.11.17_fbaa901931_11.0.zip
+  name: Mi 9 Pro 5G
+  version: 21.11.17
+- android: '11.0'
+  codename: crux
   date: '2021-08-19'
   download: https://bigota.d.miui.com/21.8.18/miui_CRUX_21.8.18_10421ce7b0_11.0.zip
   name: Mi 9 Pro 5G
@@ -3160,6 +3166,12 @@
   download: https://bigota.d.miui.com/21.5.12/miui_CRUX_21.5.12_f56ee6e06a_11.0.zip
   name: Mi 9 Pro 5G
   version: 21.5.12
+- android: '11.0'
+  codename: crux
+  date: '2021-11-12'
+  download: https://bigota.d.miui.com/21.11.10/miui_CRUX_21.11.10_998f701798_11.0.zip
+  name: Mi 9 Pro 5G
+  version: 21.11.10
 - android: '10.0'
   codename: crux
   date: '2020-11-12'
@@ -3208,6 +3220,12 @@
   download: https://bigota.d.miui.com/20.12.2/miui_CRUX_20.12.2_1bbcf63de4_10.0.zip
   name: Mi 9 Pro 5G
   version: 20.12.2
+- android: '11.0'
+  codename: crux
+  date: '2021-09-03'
+  download: https://bigota.d.miui.com/21.9.1/miui_CRUX_21.9.1_f6720ecd18_11.0.zip
+  name: Mi 9 Pro 5G
+  version: 21.9.1
 - android: '11.0'
   codename: crux
   date: '2021-06-03'

@@ -1,7 +1,7 @@
 - branch: stable
   date: '2020-09-03'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_global-stable/fw-vendor_willow_miui_WILLOWGlobal_V11.0.5.0.PCXMIXM_e511dfbf29_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/willow_global-stable/fw-vendor_willow_miui_WILLOWGlobal_V11.0.5.0.PCXMIXM_e511dfbf29_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_global-stable/fw-vendor_willow_miui_WILLOWGlobal_V11.0.5.0.PCXMIXM_e511dfbf29_9.0.zip/download
   filename: fw-vendor_willow_miui_WILLOWGlobal_V11.0.5.0.PCXMIXM_e511dfbf29_9.0.zip
   region: Global
@@ -12,7 +12,7 @@
 - branch: stable
   date: '2020-08-28'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.11.0.PCXEUXM_c26cf7d238_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.11.0.PCXEUXM_c26cf7d238_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_eea_global-stable/fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.11.0.PCXEUXM_c26cf7d238_9.0.zip/download
   filename: fw-vendor_willow_miui_WILLOWEEAGlobal_V11.0.11.0.PCXEUXM_c26cf7d238_9.0.zip
   region: Europe
@@ -23,7 +23,7 @@
 - branch: stable
   date: '2020-09-18'
   downloads:
-    github: https://github.com/TryHardDood/mi-vendor-updater/releases/download/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.5.0.PCXRUXM_5cd2d649e7_9.0.zip
+    github: https://github.com/benjaminforras/mi-vendor-updater/releases/download/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.5.0.PCXRUXM_5cd2d649e7_9.0.zip
     sf: https://sourceforge.net/projects/xiaomi-vendor-updater-project/files/willow_ru_global-stable/fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.5.0.PCXRUXM_5cd2d649e7_9.0.zip/download
   filename: fw-vendor_willow_miui_WILLOWRUGlobal_V11.0.5.0.PCXRUXM_5cd2d649e7_9.0.zip
   region: Russia
