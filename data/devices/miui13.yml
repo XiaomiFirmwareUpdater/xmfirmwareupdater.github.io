@@ -1698,12 +1698,6 @@
   version: V13.0.7.0.RKEMIXM
 - android: '12.0'
   codename: fleur
-  date: '2023-02-20'
-  download: https://bigota.d.miui.com/V13.0.4.0.SKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.4.0.SKEINXM_8ac73c29ea_12.0.zip
-  name: Redmi Note 11S 4G/POCO M4 Pro 4G
-  version: V13.0.4.0.SKEINXM
-- android: '12.0'
-  codename: fleur
   date: '2022-09-19'
   download: https://bigota.d.miui.com/V13.0.6.0.SKEMIXM/fw_fleur_miui_FLEURGlobal_V13.0.6.0.SKEMIXM_d32a407f53_12.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -1726,12 +1720,6 @@
   download: https://bigota.d.miui.com/V13.0.4.0.RKEMIXM/fw_fleur_miui_FLEURGlobal_V13.0.4.0.RKEMIXM_2b40dd0025_11.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V13.0.4.0.RKEMIXM
-- android: '12.0'
-  codename: fleur
-  date: '2022-09-13'
-  download: https://bigota.d.miui.com/V13.0.2.0.SKEINXM/fw_fleur_miui_FLEURINGlobal_V13.0.2.0.SKEINXM_9cfa475249_12.0.zip
-  name: Redmi Note 11S 4G/POCO M4 Pro 4G
-  version: V13.0.2.0.SKEINXM
 - android: '11.0'
   codename: fleur
   date: '2022-02-11'
