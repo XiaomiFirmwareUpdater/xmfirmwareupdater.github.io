@@ -349,15 +349,15 @@
     android: '13.0'
     miui: V14.0.3.0.TCUMIXM
 - branch: stable
-  date: '2023-01-17'
+  date: '2023-04-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-17.01.2023/fw_biloba_miui_BILOBAEEAGlobal_V13.0.7.0.SCUEUXM_4984da8bba_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/biloba/fw_biloba_miui_BILOBAEEAGlobal_V13.0.7.0.SCUEUXM_4984da8bba_12.0.zip
-  filename: fw_biloba_miui_BILOBAEEAGlobal_V13.0.7.0.SCUEUXM_4984da8bba_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-14.04.2023/fw_biloba_miui_BILOBAEEAGlobal_V14.0.3.0.TCUEUXM_1871c59e8d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/biloba/fw_biloba_miui_BILOBAEEAGlobal_V14.0.3.0.TCUEUXM_1871c59e8d_13.0.zip
+  filename: fw_biloba_miui_BILOBAEEAGlobal_V14.0.3.0.TCUEUXM_1871c59e8d_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.7.0.SCUEUXM
+    android: '13.0'
+    miui: V14.0.3.0.TCUEUXM
 - branch: stable
   date: '2023-02-21'
   downloads:
@@ -969,15 +969,15 @@
     android: '12.0'
     miui: V13.0.2.0.SJWINXM
 - branch: stable
-  date: '2023-03-03'
+  date: '2023-04-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-03.03.2023/fw_dagu_miui_DAGU_V14.0.4.0.TLZCNXM_e71b15f4c6_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/dagu/fw_dagu_miui_DAGU_V14.0.4.0.TLZCNXM_e71b15f4c6_13.0.zip
-  filename: fw_dagu_miui_DAGU_V14.0.4.0.TLZCNXM_e71b15f4c6_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dagu/releases/download/stable-14.04.2023/fw_dagu_miui_DAGU_V14.0.8.0.TLZCNXM_bd2974f03e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/dagu/fw_dagu_miui_DAGU_V14.0.8.0.TLZCNXM_bd2974f03e_13.0.zip
+  filename: fw_dagu_miui_DAGU_V14.0.8.0.TLZCNXM_bd2974f03e_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TLZCNXM
+    miui: V14.0.8.0.TLZCNXM
 - branch: stable
   date: '2021-07-13'
   downloads:

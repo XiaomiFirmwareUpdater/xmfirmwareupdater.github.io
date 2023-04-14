@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 14 Apr 2023 13:25:18 +0900</pubDate>
+  <pubDate>Fri, 14 Apr 2023 20:22:35 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,17 @@
     <item>
     <title>Redmi Note 11R (lightcm) - V13.0.19.0.SLSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lightcm</link>
-    <pubDate>Fri, 14 Apr 2023 13:25:18 +0900</pubDate>
+    <pubDate>Fri, 14 Apr 2023 20:22:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V14.0.8.0.TLZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
+    <pubDate>Fri, 14 Apr 2023 20:18:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (2021) (biloba) - V14.0.3.0.TCUEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/biloba</link>
+    <pubDate>Fri, 14 Apr 2023 19:47:43 +0900</pubDate>
   </item>
     <item>
     <title>Redmi Note 9T (cannong) - V14.0.3.0.SJEEUXM</title>
@@ -95,16 +105,6 @@
     <title>Redmi Note 12 4G NFC (topaz) - V14.0.2.0.TMGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/topaz</link>
     <pubDate>Fri, 07 Apr 2023 21:03:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12T (plato) - V14.0.5.0.TLQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
-    <pubDate>Fri, 07 Apr 2023 20:36:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.12.0.TMRCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
-    <pubDate>Fri, 07 Apr 2023 20:02:15 +0900</pubDate>
   </item>
     </channel>
 </rss>

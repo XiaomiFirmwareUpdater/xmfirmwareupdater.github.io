@@ -84,6 +84,12 @@
   version: V14.0.1.0.TKJINXM
 - android: '13.0'
   codename: biloba
+  date: '2023-04-14'
+  download: https://bigota.d.miui.com/V14.0.3.0.TCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V14.0.3.0.TCUEUXM_1871c59e8d_13.0.zip
+  name: Redmi Note 8 (2021)
+  version: V14.0.3.0.TCUEUXM
+- android: '13.0'
+  codename: biloba
   date: '2023-03-06'
   download: https://bigota.d.miui.com/V14.0.3.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
   name: Redmi Note 8 (2021)
@@ -202,6 +208,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SJWMIXM/fw_curtana_miui_CURTANAGlobal_V14.0.3.0.SJWMIXM_dae98d711c_12.0.zip
   name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
   version: V14.0.3.0.SJWMIXM
+- android: '13.0'
+  codename: dagu
+  date: '2023-04-14'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLZCNXM/fw_dagu_miui_DAGU_V14.0.8.0.TLZCNXM_bd2974f03e_13.0.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: V14.0.8.0.TLZCNXM
 - android: '13.0'
   codename: dagu
   date: '2023-03-03'
