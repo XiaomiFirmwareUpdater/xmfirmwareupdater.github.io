@@ -52,7 +52,7 @@ permalink: /miui/water/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A2 / A2+ / POCO C51 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.9.0.TGOMIXM</td><td>13.0</td><td>1.5 GB</td><td>2023-03-15</td><td><a href="/miui/water/stable beta/V14.0.9.0.TGOMIXM/">Download</a></td></tr>
+                <tr><td>Redmi A2 / A2+ / POCO C51 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.10.0.TGOMIXM</td><td>13.0</td><td>1.5 GB</td><td>2023-04-14</td><td><a href="/miui/water/stable beta/V14.0.10.0.TGOMIXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
