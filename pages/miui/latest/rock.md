@@ -73,6 +73,7 @@ permalink: /miui/rock/
 <tr><td>POCO M5 Taiwan</td><td>Stable Beta</td><td>Fastboot</td><td>V13.0.1.0.SLUTWXM</td><td>12.0</td><td>4.6 GB</td><td>2022-08-30</td><td><a href="/miui/rock/stable beta/V13.0.1.0.SLUTWXM/">Download</a></td></tr>
 <tr><td>POCO M5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLURUXM</td><td>13.0</td><td>3.7 GB</td><td>2023-03-31</td><td><a href="/miui/rock/stable beta/V14.0.1.0.TLURUXM/">Download</a></td></tr>
 <tr><td>POCO M5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLUTRXM</td><td>13.0</td><td>3.7 GB</td><td>2023-04-03</td><td><a href="/miui/rock/stable beta/V14.0.1.0.TLUTRXM/">Download</a></td></tr>
+<tr><td>POCO M5 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLUTWXM</td><td>13.0</td><td>3.5 GB</td><td>2023-04-12</td><td><a href="/miui/rock/stable beta/V14.0.1.0.TLUTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

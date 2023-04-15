@@ -52,8 +52,10 @@ permalink: /archive/miui/haydn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-04-07</td><td><a href="/miui/haydn/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
-<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TKKCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-03-27</td><td><a href="/miui/haydn/stable beta/V14.0.5.0.TKKCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.10.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-04-14</td><td><a href="/miui/haydn/public beta/V14.0.23.4.10.DEV/">Download</a></td></tr>
+<tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-04-07</td><td><a href="/miui/haydn/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
+<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKKCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-03-27</td><td><a href="/miui/haydn/stable/V14.0.5.0.TKKCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKKCNXM</td><td>13.0</td><td>6.7 GB</td><td>2023-03-13</td><td><a href="/miui/haydn/stable/V14.0.5.0.TKKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-03-24</td><td><a href="/miui/haydn/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-03-17</td><td><a href="/miui/haydn/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-03-10</td><td><a href="/miui/haydn/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
