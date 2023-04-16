@@ -36,6 +36,12 @@
   version: V14.0.5.0.TKHCNXM
 - android: '13.0'
   codename: alioth
+  date: '2023-04-16'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKHINXM/fw_alioth_miui_ALIOTHINGlobal_V14.0.3.0.TKHINXM_d2d6e90e6d_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: V14.0.3.0.TKHINXM
+- android: '13.0'
+  codename: alioth
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.2.0.TKHINXM/fw_alioth_miui_ALIOTHINGlobal_V14.0.2.0.TKHINXM_f9ee9089e7_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -166,6 +172,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TJACNXM/fw_cmi_miui_CMI_V14.0.2.0.TJACNXM_40bb8418f6_13.0.zip
   name: Mi 10 Pro
   version: V14.0.2.0.TJACNXM
+- android: '13.0'
+  codename: cmi
+  date: '2023-04-16'
+  download: https://bigota.d.miui.com/V14.0.1.0.TJAEUXM/fw_cmi_miui_CMIEEAGlobal_V14.0.1.0.TJAEUXM_d645b9e7a2_13.0.zip
+  name: Mi 10 Pro
+  version: V14.0.1.0.TJAEUXM
 - android: '13.0'
   codename: courbet
   date: '2023-03-16'
