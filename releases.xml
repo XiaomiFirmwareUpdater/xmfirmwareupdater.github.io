@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 17 Apr 2023 01:48:24 +0900</pubDate>
+  <pubDate>Mon, 17 Apr 2023 07:24:25 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Redmi Note 11R (lightcm) - V13.0.19.0.SLSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lightcm</link>
-    <pubDate>Mon, 17 Apr 2023 01:48:24 +0900</pubDate>
+    <pubDate>Mon, 17 Apr 2023 07:24:25 +0900</pubDate>
   </item>
     <item>
     <title>Mi 10 Pro (cmi) - V14.0.1.0.TJAEUXM</title>
