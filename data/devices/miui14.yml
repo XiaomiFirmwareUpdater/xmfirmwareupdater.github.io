@@ -120,6 +120,12 @@
   version: V14.0.2.0.SJECNXM
 - android: '12.0'
   codename: cannong
+  date: '2023-04-17'
+  download: https://bigota.d.miui.com/V14.0.3.0.SJEMIXM/fw_cannong_miui_CANNONGGlobal_V14.0.3.0.SJEMIXM_0a538b89ca_12.0.zip
+  name: Redmi Note 9T
+  version: V14.0.3.0.SJEMIXM
+- android: '12.0'
+  codename: cannong
   date: '2023-04-11'
   download: https://bigota.d.miui.com/V14.0.3.0.SJEEUXM/fw_cannong_miui_CANNONGEEAGlobal_V14.0.3.0.SJEEUXM_7e3945849e_12.0.zip
   name: Redmi Note 9T

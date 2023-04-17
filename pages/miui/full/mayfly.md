@@ -52,7 +52,8 @@ permalink: /archive/miui/mayfly/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-04-07</td><td><a href="/miui/mayfly/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TLTCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-04-11</td><td><a href="/miui/mayfly/stable beta/V14.0.8.0.TLTCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-04-07</td><td><a href="/miui/mayfly/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-24</td><td><a href="/miui/mayfly/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-17</td><td><a href="/miui/mayfly/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-10</td><td><a href="/miui/mayfly/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
@@ -82,10 +83,10 @@ permalink: /archive/miui/mayfly/
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-09-09</td><td><a href="/miui/mayfly/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.29.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-09-02</td><td><a href="/miui/mayfly/public beta/V13.1.22.8.29.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.16.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-08-19</td><td><a href="/miui/mayfly/public beta/V13.1.22.8.16.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>V13.0.18.0.SLTCNXM</td><td>12.0</td><td>5.5 GB</td><td>2022-08-19</td><td><a href="/miui/mayfly/stable/V13.0.18.0.SLTCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.18.0.SLTCNXM</td><td>12.0</td><td>7.3 GB</td><td>2022-08-16</td><td><a href="/miui/mayfly/stable/V13.0.18.0.SLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLTCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-01-12</td><td><a href="/miui/mayfly/stable/V14.0.5.0.TLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLTCNXM</td><td>13.0</td><td>7.6 GB</td><td>2023-01-09</td><td><a href="/miui/mayfly/stable/V14.0.5.0.TLTCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>V13.0.18.0.SLTCNXM</td><td>12.0</td><td>5.5 GB</td><td>2022-08-19</td><td><a href="/miui/mayfly/stable/V13.0.18.0.SLTCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.18.0.SLTCNXM</td><td>12.0</td><td>7.3 GB</td><td>2022-08-16</td><td><a href="/miui/mayfly/stable/V13.0.18.0.SLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>V13.0.17.0.SLTCNXM</td><td>12.0</td><td>5.5 GB</td><td>2022-08-09</td><td><a href="/miui/mayfly/stable/V13.0.17.0.SLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.17.0.SLTCNXM</td><td>12.0</td><td>7.4 GB</td><td>2022-08-05</td><td><a href="/miui/mayfly/stable/V13.0.17.0.SLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.16.0.SLTCNXM</td><td>12.0</td><td>5.5 GB</td><td>2022-08-04</td><td><a href="/miui/mayfly/stable beta/V13.0.16.0.SLTCNXM/">Download</a></td></tr>
