@@ -1404,6 +1404,12 @@
   version: V14.0.11.0.TLLCNXM
 - android: '13.0'
   codename: zizhan
+  date: '2023-04-18'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLRCNXM/fw_zizhan_miui_ZIZHAN_V14.0.9.0.TLRCNXM_5ed12fbdf5_13.0.zip
+  name: Xiaomi MIX Fold 2
+  version: V14.0.9.0.TLRCNXM
+- android: '13.0'
+  codename: zizhan
   date: '2023-02-07'
   download: https://bigota.d.miui.com/V14.0.2.0.TLRCNXM/fw_zizhan_miui_ZIZHAN_V14.0.2.0.TLRCNXM_db43261e3c_13.0.zip
   name: Xiaomi MIX Fold 2
