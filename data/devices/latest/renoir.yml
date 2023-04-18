@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-02-13'
+  date: '2023-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-13.02.2023/fw_renoir_miui_RENOIRGlobal_V14.0.3.0.TKIMIXM_bb4aca211e_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIRGlobal_V14.0.3.0.TKIMIXM_bb4aca211e_13.0.zip
-  filename: fw_renoir_miui_RENOIRGlobal_V14.0.3.0.TKIMIXM_bb4aca211e_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-18.04.2023/fw_renoir_miui_RENOIRGlobal_V14.0.4.0.TKIMIXM_7cde57b045_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIRGlobal_V14.0.4.0.TKIMIXM_7cde57b045_13.0.zip
+  filename: fw_renoir_miui_RENOIRGlobal_V14.0.4.0.TKIMIXM_7cde57b045_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TKIMIXM
+    miui: V14.0.4.0.TKIMIXM
 - branch: stable
   date: '2023-04-01'
   downloads:
@@ -29,12 +29,12 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2023-02-06'
+  date: '2023-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-06.02.2023/fw_renoir_miui_RENOIREEAGlobal_V14.0.5.0.TKIEUXM_fe45955323_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIREEAGlobal_V14.0.5.0.TKIEUXM_fe45955323_13.0.zip
-  filename: fw_renoir_miui_RENOIREEAGlobal_V14.0.5.0.TKIEUXM_fe45955323_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-18.04.2023/fw_renoir_miui_RENOIREEAGlobal_V14.0.6.0.TKIEUXM_9c05119ea3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIREEAGlobal_V14.0.6.0.TKIEUXM_9c05119ea3_13.0.zip
+  filename: fw_renoir_miui_RENOIREEAGlobal_V14.0.6.0.TKIEUXM_9c05119ea3_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKIEUXM
+    miui: V14.0.6.0.TKIEUXM

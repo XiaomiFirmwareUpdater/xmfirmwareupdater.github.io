@@ -19,6 +19,26 @@
     android: '12.0'
     miui: V13.0.14.0.SMQCNXM
 - branch: stable
+  date: '2023-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-18.04.2023/fw_sunstone_miui_SUNSTONEINGlobal_V13.0.11.0.SMQINXM_c5376a062f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_V13.0.11.0.SMQINXM_c5376a062f_12.0.zip
+  filename: fw_sunstone_miui_SUNSTONEINGlobal_V13.0.11.0.SMQINXM_c5376a062f_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.11.0.SMQINXM
+- branch: stable
+  date: '2023-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-18.04.2023/fw_sunstone_miui_SUNSTONE_V13.0.15.0.SMQCNXM_3c03194584_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sunstone/fw_sunstone_miui_SUNSTONE_V13.0.15.0.SMQCNXM_3c03194584_12.0.zip
+  filename: fw_sunstone_miui_SUNSTONE_V13.0.15.0.SMQCNXM_3c03194584_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.15.0.SMQCNXM
+- branch: stable
   date: '2022-12-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-16.12.2022/fw_sunstone_miui_SUNSTONE_V13.0.7.0.SMQCNXM_fc184ae49e_12.0.zip
