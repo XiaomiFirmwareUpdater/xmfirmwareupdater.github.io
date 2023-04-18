@@ -1236,6 +1236,12 @@
   version: V14.0.2.0.TJBCNXM
 - android: '13.0'
   codename: unicorn
+  date: '2023-04-18'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.8.0.TLECNXM_a5f58e9088_13.0.zip
+  name: Xiaomi 12S Pro
+  version: V14.0.8.0.TLECNXM
+- android: '13.0'
+  codename: unicorn
   date: '2023-03-15'
   download: https://bigota.d.miui.com/V14.0.7.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.7.0.TLECNXM_28340a028e_13.0.zip
   name: Xiaomi 12S Pro
