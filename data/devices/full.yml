@@ -26779,6 +26779,16 @@
     android: '13.0'
     miui: V14.0.3.0.TLJEUXM
 - branch: stable
+  date: '2023-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-18.04.2023/fw_ishtar_miui_ISHTAR_V14.0.7.0.TMACNXM_73f8314233_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTAR_V14.0.7.0.TMACNXM_73f8314233_13.0.zip
+  filename: fw_ishtar_miui_ISHTAR_V14.0.7.0.TMACNXM_73f8314233_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TMACNXM
+- branch: stable
   date: '2021-01-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jasmine/releases/download/stable-26.01.2021/fw_jasmine_miui_JASMINEGlobal_V11.0.20.0.QDIMIXM_fd34b0fcab_10.0.zip
@@ -33318,6 +33328,16 @@
   versions:
     android: '13.0'
     miui: V14.0.14.0.TMRCNXM
+- branch: stable
+  date: '2023-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-18.04.2023/fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.16.0.TMRCNXM
 - branch: stable
   date: '2023-04-07'
   downloads:
@@ -47989,6 +48009,16 @@
     android: '12.0'
     miui: V13.0.1.0.SLNCNXM
 - branch: stable
+  date: '2023-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-18.04.2023/fw_rubens_miui_RUBENS_V14.0.6.0.TLNCNXM_93dd11c7a1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rubens/fw_rubens_miui_RUBENS_V14.0.6.0.TLNCNXM_93dd11c7a1_13.0.zip
+  filename: fw_rubens_miui_RUBENS_V14.0.6.0.TLNCNXM_93dd11c7a1_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TLNCNXM
+- branch: stable
   date: '2022-10-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rubens/releases/download/stable-15.10.2022/fw_rubens_miui_RUBENS_V13.0.24.0.SLNCNXM_231a525b01_12.0.zip
@@ -57368,16 +57398,6 @@
   versions:
     android: '12.0'
     miui: V13.0.18.0.SLECNXM
-- branch: stable
-  date: '2023-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-18.04.2023/fw_unicorn_miui_UNICORN_V14.0.8.0.TLECNXM_a5f58e9088_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/unicorn/fw_unicorn_miui_UNICORN_V14.0.8.0.TLECNXM_a5f58e9088_13.0.zip
-  filename: fw_unicorn_miui_UNICORN_V14.0.8.0.TLECNXM_a5f58e9088_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.8.0.TLECNXM
 - branch: stable
   date: '2023-03-15'
   downloads:

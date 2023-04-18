@@ -424,6 +424,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLJEUXM/fw_ingres_miui_INGRESEEAGlobal_V14.0.3.0.TLJEUXM_057d2569f5_13.0.zip
   name: Redmi K50G/POCO F4 GT
   version: V14.0.3.0.TLJEUXM
+- android: '13.0'
+  codename: ishtar
+  date: '2023-04-18'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.7.0.TMACNXM_73f8314233_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.7.0.TMACNXM
 - android: '12.0'
   codename: joyeuse
   date: '2023-03-30'
@@ -556,6 +562,12 @@
   download: https://bigota.d.miui.com/V14.0.14.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.14.0.TMRCNXM_68c05d74a9_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: V14.0.14.0.TMRCNXM
+- android: '13.0'
+  codename: marble
+  date: '2023-04-18'
+  download: https://bigota.d.miui.com/V14.0.16.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.16.0.TMRCNXM
 - android: '13.0'
   codename: marble
   date: '2023-04-07'
@@ -1014,6 +1026,12 @@
   version: V14.0.2.0.TKLEUXM
 - android: '13.0'
   codename: rubens
+  date: '2023-04-18'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.6.0.TLNCNXM_93dd11c7a1_13.0.zip
+  name: Redmi K50
+  version: V14.0.6.0.TLNCNXM
+- android: '13.0'
+  codename: rubens
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.5.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.5.0.TLNCNXM_d3b227642e_13.0.zip
   name: Redmi K50
@@ -1216,12 +1234,6 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TJBCNXM/fw_umi_miui_UMI_V14.0.2.0.TJBCNXM_6d38dfc521_13.0.zip
   name: Mi 10
   version: V14.0.2.0.TJBCNXM
-- android: '13.0'
-  codename: unicorn
-  date: '2023-04-18'
-  download: https://bigota.d.miui.com/V14.0.8.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.8.0.TLECNXM_a5f58e9088_13.0.zip
-  name: Xiaomi 12S Pro
-  version: V14.0.8.0.TLECNXM
 - android: '13.0'
   codename: unicorn
   date: '2023-03-15'

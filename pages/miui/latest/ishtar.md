@@ -1,15 +1,15 @@
 ---
-title: Redmi Note 12 Turbo/POCO F5 (marble) MIUI Downloads
+title: Xiaomi 13 Ultra (ishtar) MIUI Downloads
 layout: download
-name: Redmi Note 12 Turbo/POCO F5
-codename: marble
-permalink: /miui/marble/
+name: Xiaomi 13 Ultra
+codename: ishtar
+permalink: /miui/ishtar/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/marble/">Redmi Note 12 Turbo/POCO F5</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/ishtar/">Xiaomi 13 Ultra</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/marble/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/marble/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/marble/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/marble/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/ishtar/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/ishtar/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/ishtar/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,8 @@ permalink: /miui/marble/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Fastboot</td><td>V14.0.12.0.TMRCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-04-03</td><td><a href="/miui/marble/stable/V14.0.12.0.TMRCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Turbo China</td><td>Stable Beta</td><td>Fastboot</td><td>V14.0.1.0.TMRCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-02-10</td><td><a href="/miui/marble/stable beta/V14.0.1.0.TMRCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>V14.0.14.0.TMRCNXM</td><td>13.0</td><td>6.1 GB</td><td>2023-04-13</td><td><a href="/miui/marble/stable/V14.0.14.0.TMRCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Turbo China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.16.0.TMRCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-04-17</td><td><a href="/miui/marble/stable beta/V14.0.16.0.TMRCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TMACNXM</td><td>13.0</td><td>358 Bytes</td><td>2023-04-15</td><td><a href="/miui/ishtar/stable/V14.0.7.0.TMACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TMACNXM</td><td>13.0</td><td>7.0 GB</td><td>2023-04-18</td><td><a href="/miui/ishtar/stable/V14.0.7.0.TMACNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
