@@ -3612,12 +3612,6 @@
   version: 21.9.8
 - android: '11.0'
   codename: gauguin
-  date: '2021-07-08'
-  download: https://bigota.d.miui.com/21.7.7/miui_GAUGUIN_21.7.7_a7bda45ce2_11.0.zip
-  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
-  version: 21.7.7
-- android: '11.0'
-  codename: gauguin
   date: '2021-08-05'
   download: https://bigota.d.miui.com/21.8.4/miui_GAUGUIN_21.8.4_f336f21402_11.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
