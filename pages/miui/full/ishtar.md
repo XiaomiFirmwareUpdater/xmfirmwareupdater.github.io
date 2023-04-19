@@ -52,7 +52,9 @@ permalink: /archive/miui/ishtar/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TMACNXM</td><td>13.0</td><td>7.0 GB</td><td>2023-04-18</td><td><a href="/miui/ishtar/stable/V14.0.7.0.TMACNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TMACNXM</td><td>13.0</td><td>7.0 GB</td><td>2023-04-19</td><td><a href="/miui/ishtar/stable/V14.0.8.0.TMACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TMACNXM</td><td>13.0</td><td>8.7 GB</td><td>2023-04-17</td><td><a href="/miui/ishtar/stable/V14.0.8.0.TMACNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TMACNXM</td><td>13.0</td><td>7.0 GB</td><td>2023-04-18</td><td><a href="/miui/ishtar/stable/V14.0.7.0.TMACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TMACNXM</td><td>13.0</td><td>358 Bytes</td><td>2023-04-15</td><td><a href="/miui/ishtar/stable/V14.0.7.0.TMACNXM/">Download</a></td></tr>
 
                 </tbody>

@@ -426,6 +426,12 @@
   version: V14.0.3.0.TLJEUXM
 - android: '13.0'
   codename: ishtar
+  date: '2023-04-19'
+  download: https://bigota.d.miui.com/V14.0.8.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.8.0.TMACNXM_4621838527_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.8.0.TMACNXM
+- android: '13.0'
+  codename: ishtar
   date: '2023-04-18'
   download: https://bigota.d.miui.com/V14.0.7.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.7.0.TMACNXM_73f8314233_13.0.zip
   name: Xiaomi 13 Ultra
@@ -520,6 +526,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKOMIXM/fw_lisa_miui_LISAGlobal_V14.0.2.0.TKOMIXM_f89d09aa1c_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.2.0.TKOMIXM
+- android: '13.0'
+  codename: liuqin
+  date: '2023-04-19'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMYCNXM/fw_liuqin_miui_LIUQIN_V14.0.2.0.TMYCNXM_accb5c154e_13.0.zip
+  name: Xiaomi Pad 6 Pro
+  version: V14.0.2.0.TMYCNXM
 - android: '12.0'
   codename: lmi
   date: '2023-03-27'
@@ -832,6 +844,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.2.0.TKTCNXM_4d70a38aaa_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: V14.0.2.0.TKTCNXM
+- android: '13.0'
+  codename: plato
+  date: '2023-04-19'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.7.0.TLQEUXM_ef1edbb9d4_13.0.zip
+  name: Xiaomi 12T
+  version: V14.0.7.0.TLQEUXM
 - android: '13.0'
   codename: plato
   date: '2023-04-18'
