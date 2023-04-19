@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 19 Apr 2023 21:58:23 +0900</pubDate>
+  <pubDate>Thu, 20 Apr 2023 02:43:44 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.6.0.SKUINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Thu, 20 Apr 2023 02:43:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 6 (pipa) - V14.0.3.0.TMZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pipa</link>
+    <pubDate>Thu, 20 Apr 2023 02:22:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11R (lightcm) - V13.0.20.0.SLSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lightcm</link>
+    <pubDate>Thu, 20 Apr 2023 01:50:15 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 NFC (spesn) - V13.0.6.0.SGKEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
@@ -90,21 +105,6 @@
     <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.9.0.TLFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
     <pubDate>Tue, 18 Apr 2023 19:49:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Pro (unicorn) - V14.0.8.0.TLECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/unicorn</link>
-    <pubDate>Tue, 18 Apr 2023 19:41:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 4G NFC (topaz) - V14.0.2.0.TMGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/topaz</link>
-    <pubDate>Tue, 18 Apr 2023 19:03:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro/Pro Max (sweetin) - V14.0.1.0.TKFINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweetin</link>
-    <pubDate>Tue, 18 Apr 2023 18:33:53 +0900</pubDate>
   </item>
     </channel>
 </rss>

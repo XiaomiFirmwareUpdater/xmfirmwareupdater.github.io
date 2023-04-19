@@ -30369,6 +30369,16 @@
     android: '12.0'
     miui: V13.0.7.0.SLSINXM
 - branch: stable
+  date: '2023-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lightcm/releases/download/stable-19.04.2023/fw_lightcm_miui_LIGHTCM_V13.0.20.0.SLSCNXM_a7ee87644c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lightcm/fw_lightcm_miui_LIGHTCM_V13.0.20.0.SLSCNXM_a7ee87644c_12.0.zip
+  filename: fw_lightcm_miui_LIGHTCM_V13.0.20.0.SLSCNXM_a7ee87644c_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.20.0.SLSCNXM
+- branch: stable
   date: '2023-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lightcm/releases/download/stable-18.04.2023/fw_lightcm_miui_LIGHTCM_V13.0.19.0.SLSCNXM_48ed1e7573_12.0.zip
@@ -41978,6 +41988,16 @@
   versions:
     android: '9.0'
     miui: V11.0.2.0.PCMINXM
+- branch: stable
+  date: '2023-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-19.04.2023/fw_pipa_miui_PIPA_V14.0.3.0.TMZCNXM_4ad0900374_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPA_V14.0.3.0.TMZCNXM_4ad0900374_13.0.zip
+  filename: fw_pipa_miui_PIPA_V14.0.3.0.TMZCNXM_4ad0900374_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TMZCNXM
 - branch: weekly
   date: '2021-11-26'
   downloads:
@@ -49948,6 +49968,16 @@
   versions:
     android: '11.0'
     miui: V12.5.4.0.RKUMIXM
+- branch: stable
+  date: '2023-04-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-19.04.2023/fw_selene_miui_SELENEINGlobal_V13.0.6.0.SKUINXM_024a1607e8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selene/fw_selene_miui_SELENEINGlobal_V13.0.6.0.SKUINXM_024a1607e8_12.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V13.0.6.0.SKUINXM_024a1607e8_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SKUINXM
 - branch: stable
   date: '2021-09-16'
   downloads:

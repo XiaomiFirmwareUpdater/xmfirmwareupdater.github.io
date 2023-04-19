@@ -791,6 +791,12 @@
   name: MIX 4
   version: V14.0.4.0.TKMCNXM
 - android: '13.0'
+  codename: pipa
+  date: '2023-04-19'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.3.0.TMZCNXM_4ad0900374_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.3.0.TMZCNXM
+- android: '13.0'
   codename: pissarro
   date: '2023-03-28'
   download: https://bigota.d.miui.com/V14.0.5.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.5.0.TKTCNXM_83e0c47619_13.0.zip

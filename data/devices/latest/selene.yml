@@ -19,12 +19,12 @@
     android: '12.0'
     miui: V13.0.10.0.SKUEUXM
 - branch: stable
-  date: '2023-01-08'
+  date: '2023-04-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-08.01.2023/fw_selene_miui_SELENEINGlobal_V13.0.5.0.SKUINXM_07006f7247_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selene/fw_selene_miui_SELENEINGlobal_V13.0.5.0.SKUINXM_07006f7247_12.0.zip
-  filename: fw_selene_miui_SELENEINGlobal_V13.0.5.0.SKUINXM_07006f7247_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-19.04.2023/fw_selene_miui_SELENEINGlobal_V13.0.6.0.SKUINXM_024a1607e8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selene/fw_selene_miui_SELENEINGlobal_V13.0.6.0.SKUINXM_024a1607e8_12.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V13.0.6.0.SKUINXM_024a1607e8_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SKUINXM
+    miui: V13.0.6.0.SKUINXM
