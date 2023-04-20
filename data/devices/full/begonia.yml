@@ -109,6 +109,16 @@
     android: '10.0'
     miui: 20.4.27
 - branch: weekly
+  date: '2021-03-27'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-27.03.2021/fw_begonia_miui_BEGONIA_21.3.24_c78e0a968c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.24/begonia/fw_begonia_miui_BEGONIA_21.3.24_c78e0a968c_11.0.zip
+  filename: fw_begonia_miui_BEGONIA_21.3.24_c78e0a968c_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.24
+- branch: weekly
   date: '2021-11-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-26.11.2021/fw_begonia_miui_BEGONIA_21.11.24_917b76a6b1_11.0.zip
@@ -1038,16 +1048,6 @@
   versions:
     android: '11.0'
     miui: V12.5.3.0.RGGMIXM
-- branch: stable
-  date: '2021-11-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-08.11.2021/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.4.0.RGGEUXM_e3824d960a_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/begonia/fw_begonia_miui_BEGONIAEEAGlobal_V12.5.4.0.RGGEUXM_e3824d960a_11.0.zip
-  filename: fw_begonia_miui_BEGONIAEEAGlobal_V12.5.4.0.RGGEUXM_e3824d960a_11.0.zip
-  region: Europe
-  versions:
-    android: '11.0'
-    miui: V12.5.4.0.RGGEUXM
 - branch: stable
   date: '2021-11-08'
   downloads:
