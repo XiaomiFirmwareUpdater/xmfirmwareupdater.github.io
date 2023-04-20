@@ -1876,12 +1876,6 @@
   download: https://bigota.d.miui.com/V13.0.13.0.RGEMIXM/fw_fog_miui_FOGGlobal_V13.0.13.0.RGEMIXM_2fb38d54c9_11.0.zip
   name: Redmi 10C
   version: V13.0.13.0.RGEMIXM
-- android: '12.0'
-  codename: fog
-  date: '2023-02-07'
-  download: https://bigota.d.miui.com/V13.0.3.0.SGEINXM/fw_fog_miui_FOGINGlobal_V13.0.3.0.SGEINXM_0c28f58cec_12.0.zip
-  name: Redmi 10C
-  version: V13.0.3.0.SGEINXM
 - android: '11.0'
   codename: fog
   date: '2022-07-02'
@@ -1894,12 +1888,6 @@
   download: https://bigota.d.miui.com/V13.0.7.0.RGEINXM/fw_fog_miui_FOGINGlobal_V13.0.7.0.RGEINXM_0d37d10520_11.0.zip
   name: Redmi 10C
   version: V13.0.7.0.RGEINXM
-- android: '12.0'
-  codename: fog
-  date: '2023-02-02'
-  download: https://bigota.d.miui.com/V13.0.5.0.SGEMIXM/fw_fog_miui_FOGGlobal_V13.0.5.0.SGEMIXM_b24fadf4ba_12.0.zip
-  name: Redmi 10C
-  version: V13.0.5.0.SGEMIXM
 - android: '11.0'
   codename: fog
   date: '2022-05-31'
@@ -2008,12 +1996,6 @@
   download: https://bigota.d.miui.com/V13.0.2.0.SJSEUXM/fw_gauguin_miui_GAUGUINEEAGlobal_V13.0.2.0.SJSEUXM_9b004dd045_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: V13.0.2.0.SJSEUXM
-- android: '12.0'
-  codename: gauguin
-  date: '2022-12-23'
-  download: https://bigota.d.miui.com/V13.0.15.0.SJSCNXM/fw_gauguin_miui_GAUGUIN_V13.0.15.0.SJSCNXM_c730c548cd_12.0.zip
-  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
-  version: V13.0.15.0.SJSCNXM
 - android: '12.0'
   codename: gauguin
   date: '2022-05-23'
@@ -3455,12 +3437,6 @@
   name: Redmi Note 11S 5G
   version: V13.0.6.0.RGLMIXM
 - android: '12.0'
-  codename: opal
-  date: '2023-01-06'
-  download: https://bigota.d.miui.com/V13.0.3.0.SGLMIXM/fw_opal_miui_OPALGlobal_V13.0.3.0.SGLMIXM_2e3d4e903a_12.0.zip
-  name: Redmi Note 11S 5G
-  version: V13.0.3.0.SGLMIXM
-- android: '12.0'
   codename: phoenix
   date: '2022-03-25'
   download: https://bigota.d.miui.com/22.3.23/fw_phoenix_miui_PHOENIXPRE_22.3.23_0242e16634_12.0.zip
@@ -3994,12 +3970,6 @@
   download: https://bigota.d.miui.com/V13.0.4.0.SLUINXM/fw_rock_miui_ROCKINGlobal_V13.0.4.0.SLUINXM_e01f621ff2_12.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: V13.0.4.0.SLUINXM
-- android: '12.0'
-  codename: rock
-  date: '2022-12-08'
-  download: https://bigota.d.miui.com/V13.0.9.0.SLUINXM/fw_rock_miui_ROCKINGlobal_V13.0.9.0.SLUINXM_56808f4ece_12.0.zip
-  name: POCO M5/Redmi 11 Prime 4G
-  version: V13.0.9.0.SLUINXM
 - android: '12.0'
   codename: rock
   date: '2022-11-08'
