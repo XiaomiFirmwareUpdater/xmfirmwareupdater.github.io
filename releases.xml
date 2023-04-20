@@ -92,11 +92,6 @@
     <pubDate>Wed, 19 Apr 2023 02:33:29 +0900</pubDate>
   </item>
     <item>
-    <title>Xiaomi 13 Ultra (ishtar) - V14.0.7.0.TMACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
-    <pubDate>Wed, 19 Apr 2023 02:02:10 +0900</pubDate>
-  </item>
-    <item>
     <title>Xiaomi MIX Fold 2 (zizhan) - V14.0.9.0.TLRCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zizhan</link>
     <pubDate>Tue, 18 Apr 2023 21:42:33 +0900</pubDate>
@@ -105,6 +100,11 @@
     <title>Xiaomi 12 Pro (zeus) - V14.0.2.0.TLBINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
     <pubDate>Tue, 18 Apr 2023 21:08:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi A2/A2+/POCO C51 (water) - V14.0.10.0.TGOMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/water</link>
+    <pubDate>Tue, 18 Apr 2023 20:36:23 +0900</pubDate>
   </item>
     </channel>
 </rss>
