@@ -22469,6 +22469,16 @@
     android: '11.0'
     miui: 21.9.8
 - branch: weekly
+  date: '2021-07-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/weekly-08.07.2021/fw_gauguin_miui_GAUGUIN_21.7.7_a7bda45ce2_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/gauguin/fw_gauguin_miui_GAUGUIN_21.7.7_a7bda45ce2_11.0.zip
+  filename: fw_gauguin_miui_GAUGUIN_21.7.7_a7bda45ce2_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.7
+- branch: weekly
   date: '2021-08-05'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/weekly-05.08.2021/fw_gauguin_miui_GAUGUIN_21.8.4_f336f21402_11.0.zip
@@ -22798,6 +22808,16 @@
   versions:
     android: '11.0'
     miui: V12.5.7.0.RJSCNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-20.02.2021/fw_gauguin_miui_GAUGUININGlobal_V12.0.6.0.QJSINXM_8e8b92e07a_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/gauguin/fw_gauguin_miui_GAUGUININGlobal_V12.0.6.0.QJSINXM_8e8b92e07a_10.0.zip
+  filename: fw_gauguin_miui_GAUGUININGlobal_V12.0.6.0.QJSINXM_8e8b92e07a_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.6.0.QJSINXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -31448,16 +31468,6 @@
   versions:
     android: '11.0'
     miui: V12.5.2.0.RKOINXM
-- branch: stable
-  date: '2023-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-18.04.2023/fw_lisa_miui_LISAGlobal_V14.0.3.0.TKOMIXM_cc00db9894_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISAGlobal_V14.0.3.0.TKOMIXM_cc00db9894_13.0.zip
-  filename: fw_lisa_miui_LISAGlobal_V14.0.3.0.TKOMIXM_cc00db9894_13.0.zip
-  region: Global
-  versions:
-    android: '13.0'
-    miui: V14.0.3.0.TKOMIXM
 - branch: stable
   date: '2022-02-18'
   downloads:
