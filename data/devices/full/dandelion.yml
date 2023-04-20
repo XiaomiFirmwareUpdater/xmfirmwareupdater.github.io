@@ -309,6 +309,26 @@
     android: '11.0'
     miui: V12.5.7.0.RCZMIXM
 - branch: stable
+  date: '2023-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-20.04.2023/fw_dandelion_miui_DANDELIONC3L2INGlobal_V12.5.13.0.RCZINXM_273b44438c_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONC3L2INGlobal_V12.5.13.0.RCZINXM_273b44438c_11.0.zip
+  filename: fw_dandelion_miui_DANDELIONC3L2INGlobal_V12.5.13.0.RCZINXM_273b44438c_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.13.0.RCZINXM
+- branch: stable
+  date: '2023-04-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-20.04.2023/fw_dandelion_miui_DANDELION_V12.5.21.0.RCDCNXM_14420d3780_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELION_V12.5.21.0.RCDCNXM_14420d3780_11.0.zip
+  filename: fw_dandelion_miui_DANDELION_V12.5.21.0.RCDCNXM_14420d3780_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.21.0.RCDCNXM
+- branch: stable
   date: '2023-03-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-20.03.2023/fw_dandelion_miui_DANDELIONC3L2EEAGlobal_V12.5.8.0.RCZEUXM_15e00ffe62_11.0.zip

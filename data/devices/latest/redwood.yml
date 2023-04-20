@@ -19,15 +19,15 @@
     android: '13.0'
     miui: V14.0.1.0.TMSCNXM
 - branch: stable
-  date: '2023-03-14'
+  date: '2023-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-14.03.2023/fw_redwood_miui_REDWOODEEAGlobal_V14.0.4.0.SMSEUXM_f39a0efffe_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODEEAGlobal_V14.0.4.0.SMSEUXM_f39a0efffe_12.0.zip
-  filename: fw_redwood_miui_REDWOODEEAGlobal_V14.0.4.0.SMSEUXM_f39a0efffe_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-20.04.2023/fw_redwood_miui_REDWOODEEAGlobal_V14.0.1.0.TMSEUXM_54ce695850_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODEEAGlobal_V14.0.1.0.TMSEUXM_54ce695850_13.0.zip
+  filename: fw_redwood_miui_REDWOODEEAGlobal_V14.0.1.0.TMSEUXM_54ce695850_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V14.0.4.0.SMSEUXM
+    android: '13.0'
+    miui: V14.0.1.0.TMSEUXM
 - branch: stable
   date: '2023-04-10'
   downloads:

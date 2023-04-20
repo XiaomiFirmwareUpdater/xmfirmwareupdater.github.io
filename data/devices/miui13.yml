@@ -3144,22 +3144,10 @@
   version: V13.0.4.0.SMPEUXM
 - android: '12.0'
   codename: moonstone
-  date: '2023-04-18'
-  download: https://bigota.d.miui.com/V13.0.7.0.SMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_V13.0.7.0.SMPMIXM_e4e1771d4c_12.0.zip
-  name: POCO X5 5G
-  version: V13.0.7.0.SMPMIXM
-- android: '12.0'
-  codename: moonstone
   date: '2023-03-15'
   download: https://bigota.d.miui.com/V13.0.1.0.SMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_V13.0.1.0.SMPINXM_7dc8df9f8b_12.0.zip
   name: POCO X5 5G
   version: V13.0.1.0.SMPINXM
-- android: '12.0'
-  codename: moonstone
-  date: '2023-03-14'
-  download: https://bigota.d.miui.com/V13.0.1.0.SMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_V13.0.1.0.SMPEUXM_eb220d7cfd_12.0.zip
-  name: POCO X5 5G
-  version: V13.0.1.0.SMPEUXM
 - android: '12.0'
   codename: moonstone
   date: '2023-04-10'
@@ -5386,12 +5374,6 @@
   download: https://bigota.d.miui.com/V13.0.14.0.RKCMIXM/fw_veux_miui_VEUXGlobal_V13.0.14.0.RKCMIXM_cb9ffa7184_11.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: V13.0.14.0.RKCMIXM
-- android: '12.0'
-  codename: veux
-  date: '2023-04-18'
-  download: https://bigota.d.miui.com/V13.0.6.0.SKCINXM/fw_veux_miui_VEUXINGlobal_V13.0.6.0.SKCINXM_beedff83a0_12.0.zip
-  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
-  version: V13.0.6.0.SKCINXM
 - android: '11.0'
   codename: veux
   date: '2022-02-18'

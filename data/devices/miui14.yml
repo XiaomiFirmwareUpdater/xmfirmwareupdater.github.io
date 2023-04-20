@@ -78,6 +78,12 @@
   version: V14.0.1.0.SJDMIXM
 - android: '13.0'
   codename: ares
+  date: '2023-04-20'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKJCNXM/fw_ares_miui_ARES_V14.0.3.0.TKJCNXM_4c4e40a144_13.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: V14.0.3.0.TKJCNXM
+- android: '13.0'
+  codename: ares
   date: '2023-02-11'
   download: https://bigota.d.miui.com/V14.0.2.0.TKJCNXM/fw_ares_miui_ARES_V14.0.2.0.TKJCNXM_36a3687cce_13.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
@@ -262,18 +268,6 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLFMIXM/fw_diting_miui_DITINGGlobal_V14.0.1.0.TLFMIXM_2ed1b1d4bf_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V14.0.1.0.TLFMIXM
-- android: '13.0'
-  codename: diting
-  date: '2023-04-18'
-  download: https://bigota.d.miui.com/V14.0.9.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.9.0.TLFEUXM_ff85105c15_13.0.zip
-  name: Redmi K50 Ultra/Xiaomi 12T Pro
-  version: V14.0.9.0.TLFEUXM
-- android: '13.0'
-  codename: diting
-  date: '2023-04-18'
-  download: https://bigota.d.miui.com/V14.0.2.0.TLFMIXM/fw_diting_miui_DITINGGlobal_V14.0.2.0.TLFMIXM_824e5a20f1_13.0.zip
-  name: Redmi K50 Ultra/Xiaomi 12T Pro
-  version: V14.0.2.0.TLFMIXM
 - android: '13.0'
   codename: diting
   date: '2023-01-16'
@@ -496,6 +490,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.6.0.TKOCNXM_65ea8f4e45_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.6.0.TKOCNXM
+- android: '13.0'
+  codename: lisa
+  date: '2023-04-18'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKOMIXM/fw_lisa_miui_LISAGlobal_V14.0.3.0.TKOMIXM_cc00db9894_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.3.0.TKOMIXM
 - android: '13.0'
   codename: lisa
   date: '2023-01-16'
@@ -904,6 +904,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SMSCNXM/fw_redwood_miui_REDWOOD_V14.0.2.0.SMSCNXM_5ca7d7fd66_12.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: V14.0.2.0.SMSCNXM
+- android: '13.0'
+  codename: redwood
+  date: '2023-04-20'
+  download: https://bigota.d.miui.com/V14.0.1.0.TMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_V14.0.1.0.TMSEUXM_54ce695850_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.1.0.TMSEUXM
 - android: '12.0'
   codename: redwood
   date: '2023-03-14'
@@ -1132,6 +1138,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.2.0.SMQMIXM_c4d02a0348_12.0.zip
   name: Redmi Note 12 5G
   version: V14.0.2.0.SMQMIXM
+- android: '12.0'
+  codename: sunstone
+  date: '2023-04-20'
+  download: https://bigota.d.miui.com/V14.0.5.0.SMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.5.0.SMQMIXM_7cebf3e108_12.0.zip
+  name: Redmi Note 12 5G
+  version: V14.0.5.0.SMQMIXM
 - android: '12.0'
   codename: sunstone
   date: '2023-03-14'
@@ -1426,6 +1438,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V14.0.5.0.TLBMIXM_3e6bbfed12_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.5.0.TLBMIXM
+- android: '13.0'
+  codename: zijin
+  date: '2023-04-20'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.4.0.TLPCNXM_ce2f396967_13.0.zip
+  name: Xiaomi Civi 1S
+  version: V14.0.4.0.TLPCNXM
 - android: '13.0'
   codename: zijin
   date: '2023-01-17'
