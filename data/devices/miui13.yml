@@ -6036,6 +6036,12 @@
   version: V13.2.6.0.TLPCNXM
 - android: '12.0'
   codename: ziyi
+  date: '2022-09-27'
+  download: https://bigota.d.miui.com/V13.0.1.0.SLLCNXM/fw_ziyi_miui_ZIYI_V13.0.1.0.SLLCNXM_e83163b66c_12.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V13.0.1.0.SLLCNXM
+- android: '12.0'
+  codename: ziyi
   date: '2022-11-21'
   download: https://bigota.d.miui.com/V13.0.9.0.SLLCNXM/fw_ziyi_miui_ZIYI_V13.0.9.0.SLLCNXM_87f2de5ec9_12.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
