@@ -52,7 +52,7 @@ permalink: /miui/pipa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMZCNXM</td><td>13.0</td><td>356 Bytes</td><td>2023-04-11</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMZCNXM</td><td>13.0</td><td>5.3 GB</td><td>2023-04-11</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMZCNXM</td><td>13.0</td><td>4.7 GB</td><td>2023-04-19</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZCNXM/">Download</a></td></tr>
 
                 </tbody>

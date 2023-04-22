@@ -52,7 +52,8 @@ permalink: /archive/miui/socrates/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>6.4 GB</td><td>2023-04-07</td><td><a href="/miui/socrates/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.17.DEV</td><td>13.0</td><td>6.4 GB</td><td>2023-04-21</td><td><a href="/miui/socrates/public beta/V14.0.23.4.17.DEV/">Download</a></td></tr>
+<tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>6.4 GB</td><td>2023-04-07</td><td><a href="/miui/socrates/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.23.0.TMKCNXM</td><td>13.0</td><td>6.5 GB</td><td>2023-03-31</td><td><a href="/miui/socrates/stable/V14.0.23.0.TMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.23.0.TMKCNXM</td><td>13.0</td><td>7.9 GB</td><td>2023-03-27</td><td><a href="/miui/socrates/stable/V14.0.23.0.TMKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>6.5 GB</td><td>2023-03-24</td><td><a href="/miui/socrates/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>

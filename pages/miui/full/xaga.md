@@ -52,7 +52,8 @@ permalink: /archive/miui/xaga/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.10.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-04-14</td><td><a href="/miui/xaga/public beta/V14.0.23.4.10.DEV/">Download</a></td></tr>
+                <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.17.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-04-21</td><td><a href="/miui/xaga/public beta/V14.0.23.4.17.DEV/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.10.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-04-14</td><td><a href="/miui/xaga/public beta/V14.0.23.4.10.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-04-07</td><td><a href="/miui/xaga/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-24</td><td><a href="/miui/xaga/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50i / Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLOINXM</td><td>13.0</td><td>4.9 GB</td><td>2023-03-22</td><td><a href="/miui/xaga/stable beta/V14.0.2.0.TLOINXM/">Download</a></td></tr>
