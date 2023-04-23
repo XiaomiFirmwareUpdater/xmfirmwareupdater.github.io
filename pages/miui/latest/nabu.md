@@ -73,10 +73,9 @@ permalink: /miui/nabu/
 <tr><td>Xiaomi Pad 5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.1.8.0.SKXRUXM</td><td>12.0</td><td>3.1 GB</td><td>2023-04-10</td><td><a href="/miui/nabu/stable beta/V13.1.8.0.SKXRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.1.2.0.SKXTRXM</td><td>12.0</td><td>3.9 GB</td><td>2022-11-11</td><td><a href="/miui/nabu/stable/V13.1.2.0.SKXTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Recovery</td><td>V13.1.2.0.SKXTRXM</td><td>12.0</td><td>3.2 GB</td><td>2022-11-18</td><td><a href="/miui/nabu/stable/V13.1.2.0.SKXTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.1.2.0.SKXTWXM</td><td>12.0</td><td>3.9 GB</td><td>2022-11-15</td><td><a href="/miui/nabu/stable/V13.1.2.0.SKXTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.1.2.0.SKXTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-12-21</td><td><a href="/miui/nabu/stable/V13.1.2.0.SKXTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKXTWXM</td><td>13.0</td><td>4.0 GB</td><td>2023-03-09</td><td><a href="/miui/nabu/stable/V14.0.1.0.TKXTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKXTWXM</td><td>13.0</td><td>3.3 GB</td><td>2023-03-28</td><td><a href="/miui/nabu/stable/V14.0.1.0.TKXTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKXTRXM</td><td>13.0</td><td>3.3 GB</td><td>2023-03-28</td><td><a href="/miui/nabu/stable beta/V14.0.1.0.TKXTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKXTWXM</td><td>13.0</td><td>3.3 GB</td><td>2023-03-28</td><td><a href="/miui/nabu/stable beta/V14.0.1.0.TKXTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
