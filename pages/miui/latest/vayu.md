@@ -54,7 +54,7 @@ permalink: /miui/vayu/
                 <tbody>
                 <tr><td>POCO X3 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TJUEUXM</td><td>13.0</td><td>5.5 GB</td><td>2023-02-07</td><td><a href="/miui/vayu/stable/V14.0.1.0.TJUEUXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TJUEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-16</td><td><a href="/miui/vayu/stable/V14.0.1.0.TJUEUXM/">Download</a></td></tr>
-<tr><td>POCO X3 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SJUEUXM</td><td>12.0</td><td>3.3 GB</td><td>2022-11-06</td><td><a href="/miui/vayu/stable beta/V13.0.4.0.SJUEUXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TJUEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-04-19</td><td><a href="/miui/vayu/stable beta/V14.0.2.0.TJUEUXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TJUMIXM</td><td>13.0</td><td>5.5 GB</td><td>2023-01-10</td><td><a href="/miui/vayu/stable/V14.0.1.0.TJUMIXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TJUMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-01-30</td><td><a href="/miui/vayu/stable/V14.0.1.0.TJUMIXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.9.0.SJUMIXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-10</td><td><a href="/miui/vayu/stable beta/V13.0.9.0.SJUMIXM/">Download</a></td></tr>
@@ -68,10 +68,10 @@ permalink: /miui/vayu/
 <tr><td>POCO X3 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TJURUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-03-09</td><td><a href="/miui/vayu/stable beta/V14.0.1.0.TJURUXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJUTRXM</td><td>12.0</td><td>4.8 GB</td><td>2022-03-15</td><td><a href="/miui/vayu/stable/V13.0.1.0.SJUTRXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJUTRXM</td><td>12.0</td><td>3.3 GB</td><td>2022-03-22</td><td><a href="/miui/vayu/stable/V13.0.1.0.SJUTRXM/">Download</a></td></tr>
-<tr><td>POCO X3 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJUTWXM</td><td>12.0</td><td>4.3 GB</td><td>2022-06-21</td><td><a href="/miui/vayu/stable/V13.0.2.0.SJUTWXM/">Download</a></td></tr>
-<tr><td>POCO X3 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJUTWXM</td><td>12.0</td><td>3.2 GB</td><td>2022-06-28</td><td><a href="/miui/vayu/stable/V13.0.2.0.SJUTWXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TJUINXM</td><td>13.0</td><td>3.8 GB</td><td>2023-02-22</td><td><a href="/miui/vayu/stable beta/V14.0.1.0.TJUINXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TJUTRXM</td><td>13.0</td><td>3.9 GB</td><td>2023-03-13</td><td><a href="/miui/vayu/stable beta/V14.0.1.0.TJUTRXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJUTWXM</td><td>12.0</td><td>4.3 GB</td><td>2022-06-21</td><td><a href="/miui/vayu/stable/V13.0.2.0.SJUTWXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJUTWXM</td><td>12.0</td><td>3.2 GB</td><td>2022-06-28</td><td><a href="/miui/vayu/stable/V13.0.2.0.SJUTWXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TJUTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-03-23</td><td><a href="/miui/vayu/stable beta/V14.0.2.0.TJUTWXM/">Download</a></td></tr>
 
                 </tbody>

@@ -54,9 +54,8 @@ permalink: /miui/cannong/
                 <tbody>
                 <tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.SJEEUXM</td><td>12.0</td><td>5.1 GB</td><td>2023-03-29</td><td><a href="/miui/cannong/stable/V14.0.3.0.SJEEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SJEEUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-04-11</td><td><a href="/miui/cannong/stable/V14.0.3.0.SJEEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SJEMIXM</td><td>12.0</td><td>5.4 GB</td><td>2022-11-16</td><td><a href="/miui/cannong/stable/V13.0.4.0.SJEMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SJEMIXM</td><td>12.0</td><td>3.2 GB</td><td>2022-12-05</td><td><a href="/miui/cannong/stable/V13.0.4.0.SJEMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.SJEMIXM</td><td>12.0</td><td>3.2 GB</td><td>2023-04-17</td><td><a href="/miui/cannong/stable beta/V14.0.3.0.SJEMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.SJEMIXM</td><td>12.0</td><td>5.2 GB</td><td>2023-03-29</td><td><a href="/miui/cannong/stable/V14.0.3.0.SJEMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SJEMIXM</td><td>12.0</td><td>3.2 GB</td><td>2023-04-17</td><td><a href="/miui/cannong/stable/V14.0.3.0.SJEMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJERUXM</td><td>12.0</td><td>4.8 GB</td><td>2022-08-22</td><td><a href="/miui/cannong/stable/V13.0.1.0.SJERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJERUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-09-05</td><td><a href="/miui/cannong/stable/V13.0.1.0.SJERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJETRXM</td><td>12.0</td><td>4.7 GB</td><td>2022-08-18</td><td><a href="/miui/cannong/stable/V13.0.1.0.SJETRXM/">Download</a></td></tr>
