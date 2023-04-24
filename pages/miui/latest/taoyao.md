@@ -61,9 +61,8 @@ permalink: /miui/taoyao/
 <tr><td>Xiaomi 12 Lite Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLIIDXM</td><td>13.0</td><td>4.8 GB</td><td>2023-04-17</td><td><a href="/miui/taoyao/stable/V14.0.4.0.TLIIDXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLIRUXM</td><td>13.0</td><td>6.6 GB</td><td>2023-03-30</td><td><a href="/miui/taoyao/stable/V14.0.4.0.TLIRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLIRUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-04-11</td><td><a href="/miui/taoyao/stable/V14.0.4.0.TLIRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SLITRXM</td><td>12.0</td><td>5.9 GB</td><td>2022-10-29</td><td><a href="/miui/taoyao/stable/V13.0.4.0.SLITRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SLITRXM</td><td>12.0</td><td>4.3 GB</td><td>2022-11-09</td><td><a href="/miui/taoyao/stable/V13.0.4.0.SLITRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLITRXM</td><td>13.0</td><td>4.7 GB</td><td>2023-02-22</td><td><a href="/miui/taoyao/stable beta/V14.0.3.0.TLITRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLITRXM</td><td>13.0</td><td>6.4 GB</td><td>2023-02-15</td><td><a href="/miui/taoyao/stable/V14.0.3.0.TLITRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLITRXM</td><td>13.0</td><td>4.7 GB</td><td>2023-02-22</td><td><a href="/miui/taoyao/stable/V14.0.3.0.TLITRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLITWXM</td><td>13.0</td><td>5.9 GB</td><td>2023-02-15</td><td><a href="/miui/taoyao/stable/V14.0.3.0.TLITWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLITWXM</td><td>13.0</td><td>4.6 GB</td><td>2023-02-22</td><td><a href="/miui/taoyao/stable/V14.0.3.0.TLITWXM/">Download</a></td></tr>
 
