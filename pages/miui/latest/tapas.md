@@ -58,6 +58,7 @@ permalink: /miui/tapas/
 <tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMTINXM</td><td>13.0</td><td>5.3 GB</td><td>2023-03-07</td><td><a href="/miui/tapas/stable/V14.0.2.0.TMTINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMTINXM</td><td>13.0</td><td>4.1 GB</td><td>2023-04-04</td><td><a href="/miui/tapas/stable/V14.0.2.0.TMTINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMTINXM</td><td>13.0</td><td>4.1 GB</td><td>2023-04-14</td><td><a href="/miui/tapas/stable beta/V14.0.4.0.TMTINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TMTTRXM</td><td>13.0</td><td>4.1 GB</td><td>2023-04-11</td><td><a href="/miui/tapas/stable beta/V14.0.2.0.TMTTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

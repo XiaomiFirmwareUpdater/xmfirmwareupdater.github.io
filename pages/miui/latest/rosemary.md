@@ -84,6 +84,7 @@ permalink: /miui/rosemary/
 <tr><td>Redmi Note 10S Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKLTRXM</td><td>13.0</td><td>3.5 GB</td><td>2023-04-11</td><td><a href="/miui/rosemary/stable/V14.0.1.0.TKLTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKLTWXM</td><td>12.0</td><td>5.1 GB</td><td>2023-01-15</td><td><a href="/miui/rosemary/stable/V13.0.4.0.SKLTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKLTWXM</td><td>12.0</td><td>3.2 GB</td><td>2023-01-20</td><td><a href="/miui/rosemary/stable/V13.0.4.0.SKLTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKLTWXM</td><td>13.0</td><td>3.4 GB</td><td>2023-04-21</td><td><a href="/miui/rosemary/stable beta/V14.0.1.0.TKLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
