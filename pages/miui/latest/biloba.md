@@ -59,6 +59,7 @@ permalink: /miui/biloba/
 <tr><td>Redmi Note 8 (2021) Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RCUMIXM</td><td>11.0</td><td>2.3 GB</td><td>2021-05-25</td><td><a href="/miui/biloba/stable beta/V12.5.1.0.RCUMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 (2021) Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SCURUXM</td><td>12.0</td><td>4.8 GB</td><td>2023-01-09</td><td><a href="/miui/biloba/stable/V13.0.5.0.SCURUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 8 (2021) Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SCURUXM</td><td>12.0</td><td>2.8 GB</td><td>2023-01-14</td><td><a href="/miui/biloba/stable/V13.0.5.0.SCURUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 8 (2021) Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TCURUXM</td><td>13.0</td><td>3.3 GB</td><td>2023-04-19</td><td><a href="/miui/biloba/stable beta/V14.0.4.0.TCURUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

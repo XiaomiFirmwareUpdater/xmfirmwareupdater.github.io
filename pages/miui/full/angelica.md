@@ -52,7 +52,8 @@ permalink: /archive/miui/angelica/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C31 India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RCRINRF</td><td>11.0</td><td>2.0 GB</td><td>2022-10-20</td><td><a href="/miui/angelicain/stable/V12.5.3.0.RCRINRF/">Download</a></td></tr>
+                <tr><td>Redmi 9C Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.23.0.QCRMIXM</td><td>10.0</td><td>4.2 GB</td><td>2023-03-23</td><td><a href="/miui/angelica/stable/V12.0.23.0.QCRMIXM/">Download</a></td></tr>
+<tr><td>POCO C31 India</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RCRINRF</td><td>11.0</td><td>2.0 GB</td><td>2022-10-20</td><td><a href="/miui/angelicain/stable/V12.5.3.0.RCRINRF/">Download</a></td></tr>
 <tr><td>POCO C31 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RCRINRF</td><td>11.0</td><td>2.8 GB</td><td>2022-10-10</td><td><a href="/miui/angelicain/stable/V12.5.3.0.RCRINRF/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Recovery</td><td>V12.0.16.0.QCSMIXM</td><td>10.0</td><td>1.8 GB</td><td>2022-10-10</td><td><a href="/miui/angelican/stable/V12.0.16.0.QCSMIXM/">Download</a></td></tr>
 <tr><td>Redmi 9C NFC Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.16.0.QCSMIXM</td><td>10.0</td><td>4.0 GB</td><td>2022-10-08</td><td><a href="/miui/angelican/stable/V12.0.16.0.QCSMIXM/">Download</a></td></tr>

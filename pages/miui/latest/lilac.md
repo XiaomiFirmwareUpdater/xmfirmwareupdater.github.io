@@ -54,6 +54,7 @@ permalink: /miui/lilac/
                 <tbody>
                 <tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKNJPXM</td><td>13.0</td><td>5.3 GB</td><td>2023-02-27</td><td><a href="/miui/lilac/stable/V14.0.5.0.TKNJPXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10T Japan</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKNJPXM</td><td>13.0</td><td>3.4 GB</td><td>2023-03-06</td><td><a href="/miui/lilac/stable/V14.0.5.0.TKNJPXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10T Japan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TKNJPXM</td><td>13.0</td><td>3.4 GB</td><td>2023-04-22</td><td><a href="/miui/lilac/stable beta/V14.0.7.0.TKNJPXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
