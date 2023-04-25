@@ -19,12 +19,12 @@
     android: '13.0'
     miui: V14.0.1.0.TKQEUXM
 - branch: stable
-  date: '2023-03-08'
+  date: '2023-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-08.03.2023/fw_courbet_miui_COURBETINGlobal_V13.0.10.0.SKQINXM_9b0a666f68_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/courbet/fw_courbet_miui_COURBETINGlobal_V13.0.10.0.SKQINXM_9b0a666f68_12.0.zip
-  filename: fw_courbet_miui_COURBETINGlobal_V13.0.10.0.SKQINXM_9b0a666f68_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_courbet/releases/download/stable-25.04.2023/fw_courbet_miui_COURBETINGlobal_V14.0.2.0.TKQINXM_90facf8162_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/courbet/fw_courbet_miui_COURBETINGlobal_V14.0.2.0.TKQINXM_90facf8162_13.0.zip
+  filename: fw_courbet_miui_COURBETINGlobal_V14.0.2.0.TKQINXM_90facf8162_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.10.0.SKQINXM
+    android: '13.0'
+    miui: V14.0.2.0.TKQINXM

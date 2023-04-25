@@ -1,11 +1,56 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 21 Apr 2023 01:14:40 +0900</pubDate>
+  <pubDate>Wed, 26 Apr 2023 01:15:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X5 5G (moonstone) - V14.0.2.0.TMPMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/moonstone</link>
+    <pubDate>Wed, 26 Apr 2023 01:15:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K30 Pro/POCO F2 Pro (lmi) - V14.0.4.0.SJKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lmi</link>
+    <pubDate>Wed, 26 Apr 2023 00:51:28 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.3.0.TLSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/light</link>
+    <pubDate>Wed, 26 Apr 2023 00:49:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9 Pro (joyeuse) - V14.0.4.0.SJZEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/joyeuse</link>
+    <pubDate>Wed, 26 Apr 2023 00:25:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 (fuxi) - V14.0.24.0.TMCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
+    <pubDate>Wed, 26 Apr 2023 00:24:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M4 Pro 5G (evergreen) - V13.0.4.0.SGBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/evergreen</link>
+    <pubDate>Tue, 25 Apr 2023 23:37:00 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 4G (courbet) - V14.0.2.0.TKQINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
+    <pubDate>Tue, 25 Apr 2023 23:20:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V14.0.4.0.SJWEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
+    <pubDate>Tue, 25 Apr 2023 23:19:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 9C (angelica) - V12.0.23.0.QCRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
+    <pubDate>Tue, 25 Apr 2023 23:18:01 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.6.0.SKCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
@@ -60,51 +105,6 @@
     <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.21.0.RCDCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
     <pubDate>Thu, 20 Apr 2023 19:54:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.3.0.TKJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
-    <pubDate>Thu, 20 Apr 2023 19:53:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.6.0.SKUINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Thu, 20 Apr 2023 02:43:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 6 (pipa) - V14.0.3.0.TMZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pipa</link>
-    <pubDate>Thu, 20 Apr 2023 02:22:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11R (lightcm) - V13.0.20.0.SLSCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lightcm</link>
-    <pubDate>Thu, 20 Apr 2023 01:50:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 NFC (spesn) - V13.0.6.0.SGKEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
-    <pubDate>Wed, 19 Apr 2023 21:58:23 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12T (plato) - V14.0.7.0.TLQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
-    <pubDate>Wed, 19 Apr 2023 21:38:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 6 Pro (liuqin) - V14.0.2.0.TMYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/liuqin</link>
-    <pubDate>Wed, 19 Apr 2023 20:59:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Ultra (ishtar) - V14.0.8.0.TMACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
-    <pubDate>Wed, 19 Apr 2023 20:30:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO C40 (frost) - V13.0.20.0.RGFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/frost</link>
-    <pubDate>Wed, 19 Apr 2023 19:45:09 +0900</pubDate>
   </item>
     </channel>
 </rss>

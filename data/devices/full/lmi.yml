@@ -779,6 +779,16 @@
     android: '10.0'
     miui: V11.0.16.0.QJKCNXM
 - branch: stable
+  date: '2023-04-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-25.04.2023/fw_lmi_miui_LMI_V14.0.4.0.SJKCNXM_7af1b0266e_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lmi/fw_lmi_miui_LMI_V14.0.4.0.SJKCNXM_7af1b0266e_12.0.zip
+  filename: fw_lmi_miui_LMI_V14.0.4.0.SJKCNXM_7af1b0266e_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V14.0.4.0.SJKCNXM
+- branch: stable
   date: '2020-07-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-24.07.2020/fw_lmi_miui_LMIGlobal_V12.0.1.0.QJKMIXM_e14d3cd304_10.0.zip
