@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-02-03'
+  date: '2023-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-03.02.2023/fw_yunluo_miui_YUNLUOGlobal_V13.1.7.0.SLYMIXM_0854c31f92_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/yunluo/fw_yunluo_miui_YUNLUOGlobal_V13.1.7.0.SLYMIXM_0854c31f92_12.0.zip
-  filename: fw_yunluo_miui_YUNLUOGlobal_V13.1.7.0.SLYMIXM_0854c31f92_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-25.04.2023/fw_yunluo_miui_YUNLUOGlobal_V14.0.1.0.TLYMIXM_720ba2c705_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yunluo/fw_yunluo_miui_YUNLUOGlobal_V14.0.1.0.TLYMIXM_720ba2c705_13.0.zip
+  filename: fw_yunluo_miui_YUNLUOGlobal_V14.0.1.0.TLYMIXM_720ba2c705_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.1.7.0.SLYMIXM
+    android: '13.0'
+    miui: V14.0.1.0.TLYMIXM
 - branch: stable
   date: '2023-03-15'
   downloads:

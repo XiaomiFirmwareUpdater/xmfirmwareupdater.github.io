@@ -678,6 +678,12 @@
   version: V14.0.2.0.TLMEUXM
 - android: '13.0'
   codename: munch
+  date: '2023-04-25'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLMINXM/fw_munch_miui_MUNCHINGlobal_V14.0.4.0.TLMINXM_9bae9b202d_13.0.zip
+  name: Redmi K40S/POCO F4
+  version: V14.0.4.0.TLMINXM
+- android: '13.0'
+  codename: munch
   date: '2023-03-23'
   download: https://bigota.d.miui.com/V14.0.2.0.TLMMIXM/fw_munch_miui_MUNCHGlobal_V14.0.2.0.TLMMIXM_e6ea0e8ca7_13.0.zip
   name: Redmi K40S/POCO F4
@@ -736,6 +742,12 @@
   download: https://bigota.d.miui.com/V14.0.22.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.22.0.TMBCNXM_7793384246_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.22.0.TMBCNXM
+- android: '13.0'
+  codename: nuwa
+  date: '2023-04-25'
+  download: https://bigota.d.miui.com/V14.0.24.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.24.0.TMBCNXM_399338bd4d_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.24.0.TMBCNXM
 - android: '13.0'
   codename: nuwa
   date: '2022-12-17'
@@ -1128,6 +1140,12 @@
   version: V14.0.6.0.TKACNXM
 - android: '12.0'
   codename: sunstone
+  date: '2023-04-25'
+  download: https://bigota.d.miui.com/V14.0.6.0.SMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.6.0.SMQEUXM_85ffd31644_12.0.zip
+  name: Redmi Note 12 5G
+  version: V14.0.6.0.SMQEUXM
+- android: '12.0'
+  codename: sunstone
   date: '2023-03-23'
   download: https://bigota.d.miui.com/V14.0.2.0.SMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.2.0.SMQMIXM_c4d02a0348_12.0.zip
   name: Redmi Note 12 5G
@@ -1144,6 +1162,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.SMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.4.0.SMQEUXM_28fd553f3c_12.0.zip
   name: Redmi Note 12 5G
   version: V14.0.4.0.SMQEUXM
+- android: '12.0'
+  codename: surya
+  date: '2023-04-25'
+  download: https://bigota.d.miui.com/V14.0.4.0.SJGEUXM/fw_surya_miui_SURYAEEAGlobal_V14.0.4.0.SJGEUXM_01956c8f69_12.0.zip
+  name: POCO X3 NFC
+  version: V14.0.4.0.SJGEUXM
 - android: '12.0'
   codename: surya
   date: '2023-03-14'
@@ -1192,6 +1216,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMTMIXM/fw_tapas_miui_TAPASGlobal_V14.0.4.0.TMTMIXM_d7fa750cad_13.0.zip
   name: Redmi Note 12 4G
   version: V14.0.4.0.TMTMIXM
+- android: '13.0'
+  codename: tapas
+  date: '2023-04-25'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMTMIXM/fw_tapas_miui_TAPASGlobal_V14.0.6.0.TMTMIXM_028282f682_13.0.zip
+  name: Redmi Note 12 4G
+  version: V14.0.6.0.TMTMIXM
 - android: '13.0'
   codename: tapas
   date: '2023-04-18'
@@ -1254,6 +1284,12 @@
   version: V14.0.1.0.TMGMIXM
 - android: '13.0'
   codename: umi
+  date: '2023-04-25'
+  download: https://bigota.d.miui.com/V14.0.1.0.TJBEUXM/fw_umi_miui_UMIEEAGlobal_V14.0.1.0.TJBEUXM_60c8bc7945_13.0.zip
+  name: Mi 10
+  version: V14.0.1.0.TJBEUXM
+- android: '13.0'
+  codename: umi
   date: '2023-03-24'
   download: https://bigota.d.miui.com/V14.0.2.0.TJBCNXM/fw_umi_miui_UMI_V14.0.2.0.TJBCNXM_6d38dfc521_13.0.zip
   name: Mi 10
@@ -1276,6 +1312,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.4.0.TLECNXM_5d047a1bdd_13.0.zip
   name: Xiaomi 12S Pro
   version: V14.0.4.0.TLECNXM
+- android: '13.0'
+  codename: vayu
+  date: '2023-04-25'
+  download: https://bigota.d.miui.com/V14.0.2.0.TJUEUXM/fw_vayu_miui_VAYUEEAGlobal_V14.0.2.0.TJUEUXM_f91bef7f04_13.0.zip
+  name: POCO X3 Pro
+  version: V14.0.2.0.TJUEUXM
 - android: '13.0'
   codename: vayu
   date: '2023-03-15'
@@ -1392,6 +1434,12 @@
   version: V14.0.1.0.TLOMIXM
 - android: '13.0'
   codename: yunluo
+  date: '2023-04-25'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLYMIXM/fw_yunluo_miui_YUNLUOGlobal_V14.0.1.0.TLYMIXM_720ba2c705_13.0.zip
+  name: Redmi Pad
+  version: V14.0.1.0.TLYMIXM
+- android: '13.0'
+  codename: yunluo
   date: '2023-03-15'
   download: https://bigota.d.miui.com/V14.0.5.0.TLYCNXM/fw_yunluo_miui_YUNLUO_V14.0.5.0.TLYCNXM_2ad3baf26b_13.0.zip
   name: Redmi Pad
@@ -1402,6 +1450,18 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TLYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_V14.0.2.0.TLYEUXM_e17b34c1ed_13.0.zip
   name: Redmi Pad
   version: V14.0.2.0.TLYEUXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-04-25'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V14.0.7.0.TLBMIXM_9068eca21a_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.7.0.TLBMIXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-04-25'
+  download: https://bigota.d.miui.com/V14.0.13.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.13.0.TLBCNXM_800e3c12d0_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.13.0.TLBCNXM
 - android: '13.0'
   codename: zeus
   date: '2023-04-18'

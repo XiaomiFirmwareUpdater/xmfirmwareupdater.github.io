@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2023-04-03'
+  date: '2023-04-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-03.04.2023/fw_nuwa_miui_NUWA_V14.0.23.0.TMBCNXM_7c977c5c30_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWA_V14.0.23.0.TMBCNXM_7c977c5c30_13.0.zip
-  filename: fw_nuwa_miui_NUWA_V14.0.23.0.TMBCNXM_7c977c5c30_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-25.04.2023/fw_nuwa_miui_NUWA_V14.0.24.0.TMBCNXM_399338bd4d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWA_V14.0.24.0.TMBCNXM_399338bd4d_13.0.zip
+  filename: fw_nuwa_miui_NUWA_V14.0.24.0.TMBCNXM_399338bd4d_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.23.0.TMBCNXM
+    miui: V14.0.24.0.TMBCNXM
