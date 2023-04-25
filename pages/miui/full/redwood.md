@@ -52,7 +52,8 @@ permalink: /archive/miui/redwood/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X5 Pro 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.SMSRUXM</td><td>12.0</td><td>4.5 GB</td><td>2023-04-23</td><td><a href="/miui/redwood/stable beta/V14.0.8.0.SMSRUXM/">Download</a></td></tr>
+                <tr><td>POCO X5 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.SMSRUXM</td><td>12.0</td><td>4.5 GB</td><td>2023-04-23</td><td><a href="/miui/redwood/stable/V14.0.8.0.SMSRUXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.SMSRUXM</td><td>12.0</td><td>6.5 GB</td><td>2023-04-18</td><td><a href="/miui/redwood/stable/V14.0.8.0.SMSRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TMSEUXM</td><td>13.0</td><td>4.7 GB</td><td>2023-04-20</td><td><a href="/miui/redwood/stable/V14.0.1.0.TMSEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TMSEUXM</td><td>13.0</td><td>6.9 GB</td><td>2023-04-06</td><td><a href="/miui/redwood/stable/V14.0.1.0.TMSEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SMSTWXM</td><td>12.0</td><td>4.5 GB</td><td>2023-04-12</td><td><a href="/miui/redwood/stable/V14.0.3.0.SMSTWXM/">Download</a></td></tr>
@@ -75,10 +76,10 @@ permalink: /archive/miui/redwood/
 <tr><td>POCO X5 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.SMSINXM</td><td>12.0</td><td>4.3 GB</td><td>2023-03-01</td><td><a href="/miui/redwood/stable beta/V14.0.8.0.SMSINXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.SMSRUXM</td><td>12.0</td><td>4.5 GB</td><td>2023-03-01</td><td><a href="/miui/redwood/stable/V14.0.5.0.SMSRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.SMSRUXM</td><td>12.0</td><td>6.3 GB</td><td>2023-02-27</td><td><a href="/miui/redwood/stable/V14.0.5.0.SMSRUXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SMSTWXM</td><td>12.0</td><td>4.5 GB</td><td>2023-02-23</td><td><a href="/miui/redwood/stable/V14.0.2.0.SMSTWXM/">Download</a></td></tr>
-<tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SMSTWXM</td><td>12.0</td><td>5.8 GB</td><td>2023-02-19</td><td><a href="/miui/redwood/stable/V14.0.2.0.SMSTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TMSCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-04-03</td><td><a href="/miui/redwood/stable/V14.0.1.0.TMSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TMSCNXM</td><td>13.0</td><td>6.9 GB</td><td>2023-03-26</td><td><a href="/miui/redwood/stable/V14.0.1.0.TMSCNXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SMSTWXM</td><td>12.0</td><td>4.5 GB</td><td>2023-02-23</td><td><a href="/miui/redwood/stable/V14.0.2.0.SMSTWXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SMSTWXM</td><td>12.0</td><td>5.8 GB</td><td>2023-02-19</td><td><a href="/miui/redwood/stable/V14.0.2.0.SMSTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.SMSRUXM</td><td>12.0</td><td>4.5 GB</td><td>2023-02-22</td><td><a href="/miui/redwood/stable beta/V14.0.4.0.SMSRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.SMSMIXM</td><td>12.0</td><td>4.5 GB</td><td>2023-02-22</td><td><a href="/miui/redwood/stable beta/V14.0.5.0.SMSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.SMSCNXM</td><td>12.0</td><td>5.5 GB</td><td>2023-02-17</td><td><a href="/miui/redwood/stable/V14.0.5.0.SMSCNXM/">Download</a></td></tr>
