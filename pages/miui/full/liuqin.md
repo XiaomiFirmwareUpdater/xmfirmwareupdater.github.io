@@ -52,7 +52,8 @@ permalink: /archive/miui/liuqin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMYCNXM</td><td>13.0</td><td>5.2 GB</td><td>2023-04-19</td><td><a href="/miui/liuqin/stable/V14.0.2.0.TMYCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TMYCNXM</td><td>13.0</td><td>5.2 GB</td><td>2023-04-25</td><td><a href="/miui/liuqin/stable beta/V14.0.3.0.TMYCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMYCNXM</td><td>13.0</td><td>5.2 GB</td><td>2023-04-19</td><td><a href="/miui/liuqin/stable/V14.0.2.0.TMYCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMYCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-04-11</td><td><a href="/miui/liuqin/stable/V14.0.2.0.TMYCNXM/">Download</a></td></tr>
 
                 </tbody>

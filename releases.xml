@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 26 Apr 2023 19:52:11 +0900</pubDate>
+  <pubDate>Thu, 27 Apr 2023 02:10:20 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Pad 6 Pro (liuqin) - V14.0.3.0.TMYCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/liuqin</link>
+    <pubDate>Thu, 27 Apr 2023 02:10:20 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.9.0.SKEMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
+    <pubDate>Thu, 27 Apr 2023 01:37:17 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Pad 6 (pipa) - V14.0.4.0.TMZCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pipa</link>
@@ -95,16 +105,6 @@
     <title>POCO M4 Pro 5G (evergreen) - V13.0.4.0.SGBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/evergreen</link>
     <pubDate>Tue, 25 Apr 2023 23:37:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Lite 4G (courbet) - V14.0.2.0.TKQINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/courbet</link>
-    <pubDate>Tue, 25 Apr 2023 23:20:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V14.0.4.0.SJWEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
-    <pubDate>Tue, 25 Apr 2023 23:19:11 +0900</pubDate>
   </item>
     </channel>
 </rss>

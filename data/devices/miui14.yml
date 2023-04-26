@@ -528,6 +528,12 @@
   version: V14.0.2.0.TKOMIXM
 - android: '13.0'
   codename: liuqin
+  date: '2023-04-26'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMYCNXM/fw_liuqin_miui_LIUQIN_V14.0.3.0.TMYCNXM_ce66b58a6e_13.0.zip
+  name: Xiaomi Pad 6 Pro
+  version: V14.0.3.0.TMYCNXM
+- android: '13.0'
+  codename: liuqin
   date: '2023-04-19'
   download: https://bigota.d.miui.com/V14.0.2.0.TMYCNXM/fw_liuqin_miui_LIUQIN_V14.0.2.0.TMYCNXM_accb5c154e_13.0.zip
   name: Xiaomi Pad 6 Pro
