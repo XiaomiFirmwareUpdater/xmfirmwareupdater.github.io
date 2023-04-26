@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 26 Apr 2023 13:46:18 +0900</pubDate>
+  <pubDate>Wed, 26 Apr 2023 19:52:11 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Pad 6 (pipa) - V14.0.4.0.TMZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pipa</link>
+    <pubDate>Wed, 26 Apr 2023 19:52:11 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Pad (yunluo) - V14.0.1.0.TLYINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V14.0.4.0.SJWEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
     <pubDate>Tue, 25 Apr 2023 23:19:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9C (angelica) - V12.0.23.0.QCRMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/angelica</link>
-    <pubDate>Tue, 25 Apr 2023 23:18:01 +0900</pubDate>
   </item>
     </channel>
 </rss>

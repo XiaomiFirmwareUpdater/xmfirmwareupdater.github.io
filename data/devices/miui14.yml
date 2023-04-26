@@ -120,6 +120,12 @@
   version: V14.0.2.0.SJECNXM
 - android: '12.0'
   codename: cannong
+  date: '2023-04-17'
+  download: https://bigota.d.miui.com/V14.0.3.0.SJEMIXM/fw_cannong_miui_CANNONGGlobal_V14.0.3.0.SJEMIXM_0a538b89ca_12.0.zip
+  name: Redmi Note 9T
+  version: V14.0.3.0.SJEMIXM
+- android: '12.0'
+  codename: cannong
   date: '2023-04-11'
   download: https://bigota.d.miui.com/V14.0.3.0.SJEEUXM/fw_cannong_miui_CANNONGEEAGlobal_V14.0.3.0.SJEEUXM_7e3945849e_12.0.zip
   name: Redmi Note 9T
@@ -790,6 +796,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKMCNXM/fw_odin_miui_ODIN_V14.0.4.0.TKMCNXM_93a33b9259_13.0.zip
   name: MIX 4
   version: V14.0.4.0.TKMCNXM
+- android: '13.0'
+  codename: pipa
+  date: '2023-04-26'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.4.0.TMZCNXM_cde299f766_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.4.0.TMZCNXM
 - android: '13.0'
   codename: pipa
   date: '2023-04-19'
