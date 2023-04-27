@@ -52,7 +52,8 @@ permalink: /archive/miui/sweet/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKFTRXM</td><td>13.0</td><td>4.0 GB</td><td>2023-04-11</td><td><a href="/miui/sweet/stable/V14.0.1.0.TKFTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKFMIXM</td><td>13.0</td><td>4.1 GB</td><td>2023-04-24</td><td><a href="/miui/sweet/stable beta/V14.0.2.0.TKFMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKFTRXM</td><td>13.0</td><td>4.0 GB</td><td>2023-04-11</td><td><a href="/miui/sweet/stable/V14.0.1.0.TKFTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKFTRXM</td><td>13.0</td><td>5.9 GB</td><td>2023-03-29</td><td><a href="/miui/sweet/stable/V14.0.1.0.TKFTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKFRUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-04-11</td><td><a href="/miui/sweet/stable/V14.0.1.0.TKFRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKFRUXM</td><td>13.0</td><td>5.9 GB</td><td>2023-03-29</td><td><a href="/miui/sweet/stable/V14.0.1.0.TKFRUXM/">Download</a></td></tr>
