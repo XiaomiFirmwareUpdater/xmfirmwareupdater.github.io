@@ -1,7 +1,7 @@
 ---
-title: Redmi Note 10 Pro (sweet) Firmware Downloads
+title: Redmi Note 10 Pro/Redmi Note 12 Pro 4G (sweet) Firmware Downloads
 layout: download
-name: Redmi Note 10 Pro
+name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
 codename: sweet
 permalink: /firmware/sweet/
 ---
@@ -9,7 +9,7 @@ permalink: /firmware/sweet/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/sweet/">Redmi Note 10 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/sweet/">Redmi Note 10 Pro/Redmi Note 12 Pro 4G</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

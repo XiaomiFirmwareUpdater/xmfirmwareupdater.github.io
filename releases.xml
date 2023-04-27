@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 27 Apr 2023 02:10:20 +0900</pubDate>
+  <pubDate>Thu, 27 Apr 2023 13:22:55 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.13.0.RCZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
+    <pubDate>Thu, 27 Apr 2023 13:22:55 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Pad 6 Pro (liuqin) - V14.0.3.0.TMYCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/liuqin</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 13 (fuxi) - V14.0.24.0.TMCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
     <pubDate>Wed, 26 Apr 2023 00:24:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M4 Pro 5G (evergreen) - V13.0.4.0.SGBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergreen</link>
-    <pubDate>Tue, 25 Apr 2023 23:37:00 +0900</pubDate>
   </item>
     </channel>
 </rss>

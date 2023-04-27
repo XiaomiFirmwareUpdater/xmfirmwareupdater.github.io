@@ -1190,7 +1190,7 @@
   codename: sweet
   date: '2023-03-15'
   download: https://bigota.d.miui.com/V14.0.1.0.TKFMIXM/fw_sweet_miui_SWEETGlobal_V14.0.1.0.TKFMIXM_dd214aa68d_13.0.zip
-  name: Redmi Note 10 Pro
+  name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
   version: V14.0.1.0.TKFMIXM
 - android: '13.0'
   codename: sweetin
