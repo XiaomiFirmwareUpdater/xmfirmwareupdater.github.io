@@ -426,6 +426,12 @@
   version: V14.0.3.0.TLJEUXM
 - android: '13.0'
   codename: ishtar
+  date: '2023-04-28'
+  download: https://bigota.d.miui.com/V14.0.10.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.10.0.TMACNXM_2ec0d6548d_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.10.0.TMACNXM
+- android: '13.0'
+  codename: ishtar
   date: '2023-04-19'
   download: https://bigota.d.miui.com/V14.0.8.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.8.0.TMACNXM_4621838527_13.0.zip
   name: Xiaomi 13 Ultra
@@ -1006,6 +1012,12 @@
   download: https://bigota.d.miui.com/V14.0.7.0.SMSMIXM/fw_redwood_miui_REDWOODGlobal_V14.0.7.0.SMSMIXM_1e1012ffb5_12.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: V14.0.7.0.SMSMIXM
+- android: '13.0'
+  codename: rembrandt
+  date: '2023-04-28'
+  download: https://bigota.d.miui.com/V14.0.1.0.TMMCNXM/fw_rembrandt_miui_REMBRANDT_V14.0.1.0.TMMCNXM_c31c7e55ea_13.0.zip
+  name: Redmi K60E
+  version: V14.0.1.0.TMMCNXM
 - android: '13.0'
   codename: renoir
   date: '2023-01-20'
