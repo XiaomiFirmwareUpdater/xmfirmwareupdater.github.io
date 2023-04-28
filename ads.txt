@@ -520,4 +520,10 @@ districtm.io, 101984, RESELLER, 3fd707be9c4527c3
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 e-planning.net,ec771b05828a67fa,RESELLER,c1ba615865ed87b2
 sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
+xapads.com, 139660, DIRECT
+google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
+pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
+contextweb.com, 562842, RESELLER, 89ff185a4c4e857c
+freewheel.tv, 1581157, RESELLER
+freewheel.tv, 1581210, RESELLER
 #VLI END
