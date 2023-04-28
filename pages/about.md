@@ -22,4 +22,4 @@ Also, do mind that this project requires a lot of efforts, sleepless nights and 
 
 If you appreciate these projects, please consider donating via [Paypal](http://paypal.me/yshalsager) or become one of our supports on [Patreon](https://www.patreon.com/XiaomiFirmwareUpdater).
 
-For issue reports and feature requests, report on [XDA Forums thread](https://forum.xda-developers.com/android/software-hacking/devices-xiaomi-firmware-updater-t3741446) or on our telegram [group](https://t.me/XiaomiGeeks).
+For issue reports and feature requests, report on [XDA Forums thread](https://forum.xda-developers.com/android/software-hacking/devices-xiaomi-firmware-updater-t3741446) or on our telegram [channel comments](https://t.me/XiaomiFirmwareUpdater).
