@@ -52,9 +52,9 @@ permalink: /miui/dandelion/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9A China</td><td>Stable</td><td>Fastboot</td><td>V12.5.18.0.RCDCNXM</td><td>11.0</td><td>3.9 GB</td><td>2022-09-01</td><td><a href="/miui/dandelion/stable/V12.5.18.0.RCDCNXM/">Download</a></td></tr>
-<tr><td>Redmi 9A China</td><td>Stable</td><td>Recovery</td><td>V12.5.18.0.RCDCNXM</td><td>11.0</td><td>2.0 GB</td><td>2022-09-06</td><td><a href="/miui/dandelion/stable/V12.5.18.0.RCDCNXM/">Download</a></td></tr>
-<tr><td>Redmi 9A China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.21.0.RCDCNXM</td><td>11.0</td><td>2.1 GB</td><td>2023-04-20</td><td><a href="/miui/dandelion/stable beta/V12.5.21.0.RCDCNXM/">Download</a></td></tr>
+                <tr><td>Redmi 9A China</td><td>Stable</td><td>Fastboot</td><td>V12.5.21.0.RCDCNXM</td><td>11.0</td><td>3.9 GB</td><td>2023-04-11</td><td><a href="/miui/dandelion/stable/V12.5.21.0.RCDCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9A China</td><td>Stable</td><td>Recovery</td><td>V12.5.21.0.RCDCNXM</td><td>11.0</td><td>2.1 GB</td><td>2023-04-20</td><td><a href="/miui/dandelion/stable/V12.5.21.0.RCDCNXM/">Download</a></td></tr>
+<tr><td>Redmi 9A China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.16.0.RCDCNXM</td><td>11.0</td><td>1.9 GB</td><td>2022-08-09</td><td><a href="/miui/dandelion/stable beta/V12.5.16.0.RCDCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10A China</td><td>Stable</td><td>Fastboot</td><td>V12.5.12.0.RCZCNXM</td><td>11.0</td><td>4.0 GB</td><td>2022-12-16</td><td><a href="/miui/dandelion/stable/V12.5.12.0.RCZCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10A China</td><td>Stable</td><td>Recovery</td><td>V12.5.12.0.RCZCNXM</td><td>11.0</td><td>2.1 GB</td><td>2022-12-23</td><td><a href="/miui/dandelion/stable/V12.5.12.0.RCZCNXM/">Download</a></td></tr>
 <tr><td>Redmi 10A China</td><td>Stable Beta</td><td>Fastboot</td><td>V12.5.4.0.RCZCNXM</td><td>11.0</td><td>3.9 GB</td><td>2022-03-15</td><td><a href="/miui/dandelion/stable beta/V12.5.4.0.RCZCNXM/">Download</a></td></tr>
