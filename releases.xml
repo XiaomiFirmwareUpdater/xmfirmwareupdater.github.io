@@ -1,11 +1,51 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 29 Apr 2023 12:42:51 +0900</pubDate>
+  <pubDate>Mon, 01 May 2023 17:04:44 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.4.0.SLLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
+    <pubDate>Mon, 01 May 2023 17:04:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.13.0.SLLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
+    <pubDate>Mon, 01 May 2023 16:34:29 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 Pro (nuwa) - V14.0.6.0.TMBINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
+    <pubDate>Mon, 01 May 2023 16:07:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 Pro (nuwa) - V14.0.9.0.TMBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
+    <pubDate>Mon, 01 May 2023 15:25:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 Pro (nuwa) - V14.0.22.0.TMBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
+    <pubDate>Mon, 01 May 2023 14:56:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.18.0.TMRCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
+    <pubDate>Mon, 01 May 2023 14:19:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 (fuxi) - V14.0.7.0.TMCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
+    <pubDate>Mon, 01 May 2023 13:36:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 (fuxi) - V14.0.22.0.TMCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
+    <pubDate>Mon, 01 May 2023 13:00:32 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 (spes) - V13.0.12.0.SGCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
@@ -65,46 +105,6 @@
     <title>Redmi Pad (yunluo) - V14.0.1.0.TLYINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
     <pubDate>Wed, 26 Apr 2023 13:46:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V14.0.7.0.TLBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Wed, 26 Apr 2023 04:56:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V14.0.13.0.TLBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Wed, 26 Apr 2023 04:25:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Pad (yunluo) - V14.0.1.0.TLYMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
-    <pubDate>Wed, 26 Apr 2023 03:44:02 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 Pro (vayu) - V14.0.2.0.TJUEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
-    <pubDate>Wed, 26 Apr 2023 03:21:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V14.0.1.0.TJBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Wed, 26 Apr 2023 03:20:11 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 4G (tapas) - V14.0.6.0.TMTMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
-    <pubDate>Wed, 26 Apr 2023 03:18:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 NFC (surya) - V14.0.4.0.SJGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/surya</link>
-    <pubDate>Wed, 26 Apr 2023 02:48:14 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.6.0.SMQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
-    <pubDate>Wed, 26 Apr 2023 02:47:00 +0900</pubDate>
   </item>
     </channel>
 </rss>

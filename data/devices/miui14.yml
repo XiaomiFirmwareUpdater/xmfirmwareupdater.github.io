@@ -348,6 +348,18 @@
   version: V14.0.21.0.TMCCNXM
 - android: '13.0'
   codename: fuxi
+  date: '2023-05-01'
+  download: https://bigota.d.miui.com/V14.0.22.0.TMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_V14.0.22.0.TMCEUXM_278c59e2f9_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.22.0.TMCEUXM
+- android: '13.0'
+  codename: fuxi
+  date: '2023-05-01'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMCMIXM/fw_fuxi_miui_FUXIGlobal_V14.0.7.0.TMCMIXM_71356743bf_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.7.0.TMCMIXM
+- android: '13.0'
+  codename: fuxi
   date: '2022-12-31'
   download: https://bigota.d.miui.com/V14.0.11.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.11.0.TMCCNXM_77665cadba_13.0.zip
   name: Xiaomi 13
@@ -468,12 +480,6 @@
   version: V14.0.3.0.TLSMIXM
 - android: '13.0'
   codename: light
-  date: '2023-03-17'
-  download: https://bigota.d.miui.com/V14.0.1.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.1.0.TLSEUXM_96472ee0dc_13.0.zip
-  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
-  version: V14.0.1.0.TLSEUXM
-- android: '13.0'
-  codename: light
   date: '2023-02-08'
   download: https://bigota.d.miui.com/V14.0.1.0.TLSCNXM/fw_light_miui_LIGHT_V14.0.1.0.TLSCNXM_1a0a02a4b4_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
@@ -592,6 +598,12 @@
   download: https://bigota.d.miui.com/V14.0.12.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.12.0.TMRCNXM_39c5137e9d_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: V14.0.12.0.TMRCNXM
+- android: '13.0'
+  codename: marble
+  date: '2023-05-01'
+  download: https://bigota.d.miui.com/V14.0.18.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.18.0.TMRCNXM_b17f48d8a1_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.18.0.TMRCNXM
 - android: '13.0'
   codename: matisse
   date: '2023-01-16'
@@ -796,6 +808,24 @@
   download: https://bigota.d.miui.com/V14.0.23.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.23.0.TMBCNXM_7c977c5c30_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.23.0.TMBCNXM
+- android: '13.0'
+  codename: nuwa
+  date: '2023-05-01'
+  download: https://bigota.d.miui.com/V14.0.22.0.TMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.22.0.TMBEUXM_c74cc43483_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.22.0.TMBEUXM
+- android: '13.0'
+  codename: nuwa
+  date: '2023-05-01'
+  download: https://bigota.d.miui.com/V14.0.9.0.TMBMIXM/fw_nuwa_miui_NUWAGlobal_V14.0.9.0.TMBMIXM_5a519b76bf_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.9.0.TMBMIXM
+- android: '13.0'
+  codename: nuwa
+  date: '2023-05-01'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMBINXM/fw_nuwa_miui_NUWAINGlobal_V14.0.6.0.TMBINXM_a32be332d1_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.6.0.TMBINXM
 - android: '13.0'
   codename: nuwa
   date: '2023-01-01'
@@ -1558,6 +1588,18 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TLLCNXM/fw_ziyi_miui_ZIYI_V14.0.11.0.TLLCNXM_057ca1bfd7_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.11.0.TLLCNXM
+- android: '12.0'
+  codename: ziyi
+  date: '2023-05-01'
+  download: https://bigota.d.miui.com/V14.0.13.0.SLLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.13.0.SLLEUXM_f2a893afa4_12.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.13.0.SLLEUXM
+- android: '12.0'
+  codename: ziyi
+  date: '2023-05-01'
+  download: https://bigota.d.miui.com/V14.0.4.0.SLLMIXM/fw_ziyi_miui_ZIYIGlobal_V14.0.4.0.SLLMIXM_d38033809d_12.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.4.0.SLLMIXM
 - android: '13.0'
   codename: zizhan
   date: '2023-04-18'
