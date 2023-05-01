@@ -480,6 +480,12 @@
   version: V14.0.3.0.TLSMIXM
 - android: '13.0'
   codename: light
+  date: '2023-03-17'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.1.0.TLSEUXM_96472ee0dc_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.1.0.TLSEUXM
+- android: '13.0'
+  codename: light
   date: '2023-02-08'
   download: https://bigota.d.miui.com/V14.0.1.0.TLSCNXM/fw_light_miui_LIGHT_V14.0.1.0.TLSCNXM_1a0a02a4b4_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
@@ -604,6 +610,12 @@
   download: https://bigota.d.miui.com/V14.0.18.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.18.0.TMRCNXM_b17f48d8a1_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: V14.0.18.0.TMRCNXM
+- android: '13.0'
+  codename: marble
+  date: '2023-05-01'
+  download: https://bigota.d.miui.com/V14.0.19.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.19.0.TMRCNXM_cdffc8d82e_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.19.0.TMRCNXM
 - android: '13.0'
   codename: matisse
   date: '2023-01-16'

@@ -1379,16 +1379,6 @@
     android: '10.0'
     miui: V12.0.10.0.QCRMIXM
 - branch: stable
-  date: '2022-08-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-25.08.2022/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.14.0.QCREUXM_801922339f_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.14.0.QCREUXM_801922339f_10.0.zip
-  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.14.0.QCREUXM_801922339f_10.0.zip
-  region: Europe
-  versions:
-    android: '10.0'
-    miui: V12.0.14.0.QCREUXM
-- branch: stable
   date: '2023-04-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-25.04.2023/fw_angelica_miui_ANGELICAGlobal_V12.0.23.0.QCRMIXM_1bcde6b5b7_10.0.zip
@@ -30289,6 +30279,16 @@
     android: '12.0'
     miui: V13.0.6.0.SLSCNXM
 - branch: stable
+  date: '2023-02-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-20.02.2023/fw_light_miui_LIGHTINGlobal_V13.0.8.0.SLSINXM_6fa46ff777_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/light/fw_light_miui_LIGHTINGlobal_V13.0.8.0.SLSINXM_6fa46ff777_12.0.zip
+  filename: fw_light_miui_LIGHTINGlobal_V13.0.8.0.SLSINXM_6fa46ff777_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SLSINXM
+- branch: stable
   date: '2022-09-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-19.09.2022/fw_light_miui_LIGHT_V13.0.10.0.SLSCNXM_e8e571f276_12.0.zip
@@ -30318,6 +30318,16 @@
   versions:
     android: '12.0'
     miui: V13.0.11.0.SLSMIXM
+- branch: stable
+  date: '2023-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-17.03.2023/fw_light_miui_LIGHTEEAGlobal_V14.0.1.0.TLSEUXM_96472ee0dc_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHTEEAGlobal_V14.0.1.0.TLSEUXM_96472ee0dc_13.0.zip
+  filename: fw_light_miui_LIGHTEEAGlobal_V14.0.1.0.TLSEUXM_96472ee0dc_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TLSEUXM
 - branch: stable
   date: '2022-12-14'
   downloads:
@@ -33458,6 +33468,16 @@
   versions:
     android: '13.0'
     miui: V14.0.18.0.TMRCNXM
+- branch: stable
+  date: '2023-05-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-01.05.2023/fw_marble_miui_MARBLE_V14.0.19.0.TMRCNXM_cdffc8d82e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.19.0.TMRCNXM_cdffc8d82e_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.19.0.TMRCNXM_cdffc8d82e_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.19.0.TMRCNXM
 - branch: stable
   date: '2019-05-21'
   downloads:
