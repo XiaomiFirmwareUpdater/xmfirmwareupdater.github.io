@@ -58,9 +58,8 @@ permalink: /miui/nuwa/
 <tr><td>Xiaomi 13 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.23.0.TMBCNXM</td><td>13.0</td><td>6.7 GB</td><td>2023-03-30</td><td><a href="/miui/nuwa/stable beta/V14.0.23.0.TMBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.22.0.TMBEUXM</td><td>13.0</td><td>7.4 GB</td><td>2023-04-14</td><td><a href="/miui/nuwa/stable/V14.0.22.0.TMBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.22.0.TMBEUXM</td><td>13.0</td><td>5.7 GB</td><td>2023-04-19</td><td><a href="/miui/nuwa/stable/V14.0.22.0.TMBEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TMBMIXM</td><td>13.0</td><td>7.4 GB</td><td>2023-02-21</td><td><a href="/miui/nuwa/stable/V14.0.7.0.TMBMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMBMIXM</td><td>13.0</td><td>5.6 GB</td><td>2023-02-27</td><td><a href="/miui/nuwa/stable/V14.0.6.0.TMBMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.9.0.TMBMIXM</td><td>13.0</td><td>5.6 GB</td><td>2023-04-27</td><td><a href="/miui/nuwa/stable beta/V14.0.9.0.TMBMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TMBMIXM</td><td>13.0</td><td>7.5 GB</td><td>2023-04-14</td><td><a href="/miui/nuwa/stable/V14.0.9.0.TMBMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TMBMIXM</td><td>13.0</td><td>5.6 GB</td><td>2023-04-27</td><td><a href="/miui/nuwa/stable/V14.0.9.0.TMBMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMBINXM</td><td>13.0</td><td>6.2 GB</td><td>2023-02-09</td><td><a href="/miui/nuwa/stable/V14.0.2.0.TMBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMBINXM</td><td>13.0</td><td>5.5 GB</td><td>2023-03-01</td><td><a href="/miui/nuwa/stable/V14.0.2.0.TMBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TMBINXM</td><td>13.0</td><td>5.6 GB</td><td>2023-04-25</td><td><a href="/miui/nuwa/stable beta/V14.0.6.0.TMBINXM/">Download</a></td></tr>
@@ -68,9 +67,8 @@ permalink: /miui/nuwa/
 <tr><td>Xiaomi 13 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMBRUXM</td><td>13.0</td><td>5.5 GB</td><td>2023-02-27</td><td><a href="/miui/nuwa/stable/V14.0.5.0.TMBRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMBTRXM</td><td>13.0</td><td>6.6 GB</td><td>2023-02-08</td><td><a href="/miui/nuwa/stable/V14.0.3.0.TMBTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMBTRXM</td><td>13.0</td><td>5.6 GB</td><td>2023-02-27</td><td><a href="/miui/nuwa/stable/V14.0.3.0.TMBTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMBTWXM</td><td>13.0</td><td>6.4 GB</td><td>2023-02-03</td><td><a href="/miui/nuwa/stable/V14.0.4.0.TMBTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMBTWXM</td><td>13.0</td><td>5.5 GB</td><td>2023-02-27</td><td><a href="/miui/nuwa/stable/V14.0.4.0.TMBTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TMBTWXM</td><td>13.0</td><td>5.5 GB</td><td>2023-04-27</td><td><a href="/miui/nuwa/stable beta/V14.0.6.0.TMBTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMBTWXM</td><td>13.0</td><td>6.5 GB</td><td>2023-04-14</td><td><a href="/miui/nuwa/stable/V14.0.6.0.TMBTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMBTWXM</td><td>13.0</td><td>5.5 GB</td><td>2023-04-27</td><td><a href="/miui/nuwa/stable/V14.0.6.0.TMBTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
