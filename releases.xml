@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 01 May 2023 18:56:10 +0900</pubDate>
+  <pubDate>Wed, 03 May 2023 00:52:16 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.24.0.TMNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mondrian</link>
+    <pubDate>Wed, 03 May 2023 00:52:16 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.19.0.TMRCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.9.0.SKEMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
     <pubDate>Thu, 27 Apr 2023 01:37:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 6 (pipa) - V14.0.4.0.TMZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pipa</link>
-    <pubDate>Wed, 26 Apr 2023 19:52:11 +0900</pubDate>
   </item>
     </channel>
 </rss>
