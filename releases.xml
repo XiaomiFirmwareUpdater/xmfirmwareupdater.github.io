@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 04 May 2023 13:57:24 +0900</pubDate>
+  <pubDate>Thu, 04 May 2023 20:26:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.7.0.SKUINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
+    <pubDate>Thu, 04 May 2023 20:26:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Pro (matisse) - V14.0.11.0.TLKCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/matisse</link>
+    <pubDate>Thu, 04 May 2023 20:08:02 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V14.0.8.0.TLCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Thu, 04 May 2023 19:28:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.6.0.TKPCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
+    <pubDate>Thu, 04 May 2023 18:52:10 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.3.0.TLLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
@@ -85,26 +105,6 @@
     <title>Redmi K60E (rembrandt) - V14.0.1.0.TMMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rembrandt</link>
     <pubDate>Sat, 29 Apr 2023 01:55:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Ultra (ishtar) - V14.0.10.0.TMACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
-    <pubDate>Sat, 29 Apr 2023 01:16:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 12C/POCO C55 (earth) - V13.0.7.0.SCVCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
-    <pubDate>Fri, 28 Apr 2023 01:40:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro/Redmi Note 12 Pro 4G (sweet) - V14.0.2.0.TKFMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Thu, 27 Apr 2023 19:42:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 (mojito) - V14.0.5.0.SKGEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Thu, 27 Apr 2023 19:41:28 +0900</pubDate>
   </item>
     </channel>
 </rss>

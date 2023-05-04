@@ -749,15 +749,15 @@
     android: '13.0'
     miui: V14.0.2.0.TKPMIXM
 - branch: stable
-  date: '2023-03-28'
+  date: '2023-05-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-28.03.2023/fw_chopin_miui_CHOPIN_V14.0.5.0.TKPCNXM_242d1a6ff5_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPIN_V14.0.5.0.TKPCNXM_242d1a6ff5_13.0.zip
-  filename: fw_chopin_miui_CHOPIN_V14.0.5.0.TKPCNXM_242d1a6ff5_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-04.05.2023/fw_chopin_miui_CHOPIN_V14.0.6.0.TKPCNXM_278b0400f6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPIN_V14.0.6.0.TKPCNXM_278b0400f6_13.0.zip
+  filename: fw_chopin_miui_CHOPIN_V14.0.6.0.TKPCNXM_278b0400f6_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKPCNXM
+    miui: V14.0.6.0.TKPCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -929,15 +929,15 @@
     android: '13.0'
     miui: V14.0.6.0.TLCCNXM
 - branch: stable
-  date: '2023-04-17'
+  date: '2023-05-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-17.04.2023/fw_cupid_miui_CUPIDEEAGlobal_V14.0.7.0.TLCEUXM_d735c5eabe_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPIDEEAGlobal_V14.0.7.0.TLCEUXM_d735c5eabe_13.0.zip
-  filename: fw_cupid_miui_CUPIDEEAGlobal_V14.0.7.0.TLCEUXM_d735c5eabe_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cupid/releases/download/stable-04.05.2023/fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cupid/fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
+  filename: fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TLCEUXM
+    miui: V14.0.8.0.TLCEUXM
 - branch: stable
   date: '2023-03-31'
   downloads:
@@ -2499,15 +2499,15 @@
     android: '6.0'
     miui: 9.3.28
 - branch: stable
-  date: '2023-03-06'
+  date: '2023-05-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-06.03.2023/fw_matisse_miui_MATISSE_V14.0.10.0.TLKCNXM_9052db3139_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/matisse/fw_matisse_miui_MATISSE_V14.0.10.0.TLKCNXM_9052db3139_13.0.zip
-  filename: fw_matisse_miui_MATISSE_V14.0.10.0.TLKCNXM_9052db3139_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_matisse/releases/download/stable-04.05.2023/fw_matisse_miui_MATISSE_V14.0.11.0.TLKCNXM_7f3d5e1dc5_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/matisse/fw_matisse_miui_MATISSE_V14.0.11.0.TLKCNXM_7f3d5e1dc5_13.0.zip
+  filename: fw_matisse_miui_MATISSE_V14.0.11.0.TLKCNXM_7f3d5e1dc5_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.10.0.TLKCNXM
+    miui: V14.0.11.0.TLKCNXM
 - branch: stable
   date: '2023-04-18'
   downloads:

@@ -160,6 +160,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKPMIXM/fw_chopin_miui_CHOPINGlobal_V14.0.1.0.TKPMIXM_a929f9e55c_13.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
   version: V14.0.1.0.TKPMIXM
+- android: '13.0'
+  codename: chopin
+  date: '2023-05-04'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKPCNXM/fw_chopin_miui_CHOPIN_V14.0.6.0.TKPCNXM_278b0400f6_13.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: V14.0.6.0.TKPCNXM
 - android: '12.0'
   codename: citrus
   date: '2023-04-10'
@@ -226,6 +232,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLCCNXM/fw_cupid_miui_CUPID_V14.0.4.0.TLCCNXM_ac05f40933_13.0.zip
   name: Xiaomi 12
   version: V14.0.4.0.TLCCNXM
+- android: '13.0'
+  codename: cupid
+  date: '2023-05-04'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.8.0.TLCEUXM
 - android: '13.0'
   codename: cupid
   date: '2023-05-04'
@@ -640,6 +652,12 @@
   download: https://bigota.d.miui.com/V14.0.10.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.10.0.TLKCNXM_9052db3139_13.0.zip
   name: Redmi K50 Pro
   version: V14.0.10.0.TLKCNXM
+- android: '13.0'
+  codename: matisse
+  date: '2023-05-04'
+  download: https://bigota.d.miui.com/V14.0.11.0.TLKCNXM/fw_matisse_miui_MATISSE_V14.0.11.0.TLKCNXM_7f3d5e1dc5_13.0.zip
+  name: Redmi K50 Pro
+  version: V14.0.11.0.TLKCNXM
 - android: '13.0'
   codename: mayfly
   date: '2023-02-27'
