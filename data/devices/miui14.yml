@@ -462,12 +462,6 @@
   version: V14.0.10.0.TMACNXM
 - android: '13.0'
   codename: ishtar
-  date: '2023-04-19'
-  download: https://bigota.d.miui.com/V14.0.8.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.8.0.TMACNXM_4621838527_13.0.zip
-  name: Xiaomi 13 Ultra
-  version: V14.0.8.0.TMACNXM
-- android: '13.0'
-  codename: ishtar
   date: '2023-05-03'
   download: https://bigota.d.miui.com/V14.0.11.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.11.0.TMACNXM_c17912ee24_13.0.zip
   name: Xiaomi 13 Ultra
@@ -580,12 +574,6 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TMYCNXM/fw_liuqin_miui_LIUQIN_V14.0.3.0.TMYCNXM_ce66b58a6e_13.0.zip
   name: Xiaomi Pad 6 Pro
   version: V14.0.3.0.TMYCNXM
-- android: '13.0'
-  codename: liuqin
-  date: '2023-04-19'
-  download: https://bigota.d.miui.com/V14.0.2.0.TMYCNXM/fw_liuqin_miui_LIUQIN_V14.0.2.0.TMYCNXM_accb5c154e_13.0.zip
-  name: Xiaomi Pad 6 Pro
-  version: V14.0.2.0.TMYCNXM
 - android: '12.0'
   codename: lmi
   date: '2023-03-27'
@@ -604,12 +592,6 @@
   download: https://bigota.d.miui.com/V14.0.1.0.SJKEUXM/fw_lmi_miui_LMIEEAGlobal_V14.0.1.0.SJKEUXM_c924d9a77b_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
   version: V14.0.1.0.SJKEUXM
-- android: '12.0'
-  codename: lmi
-  date: '2023-03-10'
-  download: https://bigota.d.miui.com/V14.0.3.0.SJKCNXM/fw_lmi_miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip
-  name: Redmi K30 Pro/POCO F2 Pro
-  version: V14.0.3.0.SJKCNXM
 - android: '13.0'
   codename: marble
   date: '2023-03-29'
@@ -622,18 +604,6 @@
   download: https://bigota.d.miui.com/V14.0.16.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: V14.0.16.0.TMRCNXM
-- android: '13.0'
-  codename: marble
-  date: '2023-04-07'
-  download: https://bigota.d.miui.com/V14.0.12.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.12.0.TMRCNXM_39c5137e9d_13.0.zip
-  name: Redmi Note 12 Turbo/POCO F5
-  version: V14.0.12.0.TMRCNXM
-- android: '13.0'
-  codename: marble
-  date: '2023-05-01'
-  download: https://bigota.d.miui.com/V14.0.18.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.18.0.TMRCNXM_b17f48d8a1_13.0.zip
-  name: Redmi Note 12 Turbo/POCO F5
-  version: V14.0.18.0.TMRCNXM
 - android: '13.0'
   codename: marble
   date: '2023-05-01'
@@ -694,12 +664,6 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SKGMIXM/fw_mojito_miui_MOJITOGlobal_V14.0.2.0.SKGMIXM_aa6b0021f8_12.0.zip
   name: Redmi Note 10
   version: V14.0.2.0.SKGMIXM
-- android: '12.0'
-  codename: mojito
-  date: '2023-03-14'
-  download: https://bigota.d.miui.com/V14.0.3.0.SKGEUXM/fw_mojito_miui_MOJITOEEAGlobal_V14.0.3.0.SKGEUXM_994a0569a4_12.0.zip
-  name: Redmi Note 10
-  version: V14.0.3.0.SKGEUXM
 - android: '13.0'
   codename: mona
   date: '2023-02-25'
@@ -772,12 +736,6 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TLMMIXM/fw_munch_miui_MUNCHGlobal_V14.0.2.0.TLMMIXM_e6ea0e8ca7_13.0.zip
   name: Redmi K40S/POCO F4
   version: V14.0.2.0.TLMMIXM
-- android: '13.0'
-  codename: munch
-  date: '2023-03-14'
-  download: https://bigota.d.miui.com/V14.0.2.0.TLMINXM/fw_munch_miui_MUNCHINGlobal_V14.0.2.0.TLMINXM_794e293bc5_13.0.zip
-  name: Redmi K40S/POCO F4
-  version: V14.0.2.0.TLMINXM
 - android: '13.0'
   codename: munch
   date: '2023-03-14'

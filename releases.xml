@@ -82,11 +82,6 @@
     <pubDate>Mon, 01 May 2023 14:56:50 +0900</pubDate>
   </item>
     <item>
-    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.18.0.TMRCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
-    <pubDate>Mon, 01 May 2023 14:19:06 +0900</pubDate>
-  </item>
-    <item>
     <title>Xiaomi 13 (fuxi) - V14.0.7.0.TMCMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
     <pubDate>Mon, 01 May 2023 13:36:59 +0900</pubDate>
@@ -105,6 +100,11 @@
     <title>Redmi K60E (rembrandt) - V14.0.1.0.TMMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rembrandt</link>
     <pubDate>Sat, 29 Apr 2023 01:55:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 Ultra (ishtar) - V14.0.10.0.TMACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
+    <pubDate>Sat, 29 Apr 2023 01:16:04 +0900</pubDate>
   </item>
     </channel>
 </rss>

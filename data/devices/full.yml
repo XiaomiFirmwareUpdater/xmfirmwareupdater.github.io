@@ -26899,16 +26899,6 @@
     android: '13.0'
     miui: V14.0.10.0.TMACNXM
 - branch: stable
-  date: '2023-04-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-19.04.2023/fw_ishtar_miui_ISHTAR_V14.0.8.0.TMACNXM_4621838527_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTAR_V14.0.8.0.TMACNXM_4621838527_13.0.zip
-  filename: fw_ishtar_miui_ISHTAR_V14.0.8.0.TMACNXM_4621838527_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.8.0.TMACNXM
-- branch: stable
   date: '2023-05-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-03.05.2023/fw_ishtar_miui_ISHTAR_V14.0.11.0.TMACNXM_c17912ee24_13.0.zip
@@ -32188,16 +32178,6 @@
   versions:
     android: '13.0'
     miui: V14.0.3.0.TMYCNXM
-- branch: stable
-  date: '2023-04-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_liuqin/releases/download/stable-19.04.2023/fw_liuqin_miui_LIUQIN_V14.0.2.0.TMYCNXM_accb5c154e_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/liuqin/fw_liuqin_miui_LIUQIN_V14.0.2.0.TMYCNXM_accb5c154e_13.0.zip
-  filename: fw_liuqin_miui_LIUQIN_V14.0.2.0.TMYCNXM_accb5c154e_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.2.0.TMYCNXM
 - branch: weekly
   date: '2020-12-31'
   downloads:
@@ -33279,16 +33259,6 @@
     android: '12.0'
     miui: V13.0.4.0.SJKCNXM
 - branch: stable
-  date: '2023-03-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-10.03.2023/fw_lmi_miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lmi/fw_lmi_miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip
-  filename: fw_lmi_miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V14.0.3.0.SJKCNXM
-- branch: stable
   date: '2020-10-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lmi/releases/download/stable-09.10.2020/fw_lmi_miui_LMIEEAGlobal_V12.0.3.0.QJKEUXM_a9ead2b623_10.0.zip
@@ -33498,26 +33468,6 @@
   versions:
     android: '13.0'
     miui: V14.0.16.0.TMRCNXM
-- branch: stable
-  date: '2023-04-07'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-07.04.2023/fw_marble_miui_MARBLE_V14.0.12.0.TMRCNXM_39c5137e9d_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.12.0.TMRCNXM_39c5137e9d_13.0.zip
-  filename: fw_marble_miui_MARBLE_V14.0.12.0.TMRCNXM_39c5137e9d_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.12.0.TMRCNXM
-- branch: stable
-  date: '2023-05-01'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-01.05.2023/fw_marble_miui_MARBLE_V14.0.18.0.TMRCNXM_b17f48d8a1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.18.0.TMRCNXM_b17f48d8a1_13.0.zip
-  filename: fw_marble_miui_MARBLE_V14.0.18.0.TMRCNXM_b17f48d8a1_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.18.0.TMRCNXM
 - branch: stable
   date: '2023-05-01'
   downloads:
@@ -34799,16 +34749,6 @@
     android: '12.0'
     miui: V13.0.7.0.SKGEUXM
 - branch: stable
-  date: '2023-03-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-14.03.2023/fw_mojito_miui_MOJITOEEAGlobal_V14.0.3.0.SKGEUXM_994a0569a4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOEEAGlobal_V14.0.3.0.SKGEUXM_994a0569a4_12.0.zip
-  filename: fw_mojito_miui_MOJITOEEAGlobal_V14.0.3.0.SKGEUXM_994a0569a4_12.0.zip
-  region: Europe
-  versions:
-    android: '12.0'
-    miui: V14.0.3.0.SKGEUXM
-- branch: stable
   date: '2021-09-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-13.09.2021/fw_mojito_miui_MOJITOINGlobal_V12.5.2.0.RKGINXM_904d36c608_11.0.zip
@@ -35558,16 +35498,6 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SLMINXM
-- branch: stable
-  date: '2023-03-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-14.03.2023/fw_munch_miui_MUNCHINGlobal_V14.0.2.0.TLMINXM_794e293bc5_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCHINGlobal_V14.0.2.0.TLMINXM_794e293bc5_13.0.zip
-  filename: fw_munch_miui_MUNCHINGlobal_V14.0.2.0.TLMINXM_794e293bc5_13.0.zip
-  region: India
-  versions:
-    android: '13.0'
-    miui: V14.0.2.0.TLMINXM
 - branch: stable
   date: '2023-03-14'
   downloads:
@@ -50379,6 +50309,16 @@
     android: '11.0'
     miui: V12.5.15.0.RKUMIXM
 - branch: stable
+  date: '2023-05-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-04.05.2023/fw_selene_miui_SELENEINGlobal_V13.0.7.0.SKUINXM_0f05eeb97a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selene/fw_selene_miui_SELENEINGlobal_V13.0.7.0.SKUINXM_0f05eeb97a_12.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V13.0.7.0.SKUINXM_0f05eeb97a_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SKUINXM
+- branch: stable
   date: '2021-10-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-03.10.2021/fw_selene_miui_SELENEGlobal_V12.5.7.0.RKUMIXM_06409bf85a_11.0.zip
@@ -58359,16 +58299,6 @@
     android: '12.0'
     miui: 22.3.23
 - branch: weekly
-  date: '2020-09-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-24.09.2020/fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/vangogh/fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
-  filename: fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.9.24
-- branch: weekly
   date: '2020-07-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-23.07.2020/fw_vangogh_miui_VANGOGH_20.7.23_38107522a8_10.0.zip
@@ -58469,16 +58399,6 @@
     android: '11.0'
     miui: 21.10.13
 - branch: weekly
-  date: '2020-07-16'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-16.07.2020/fw_vangogh_miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/vangogh/fw_vangogh_miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
-  filename: fw_vangogh_miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.7.16
-- branch: weekly
   date: '2020-10-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-15.10.2020/fw_vangogh_miui_VANGOGH_20.10.15_ef36bae207_11.0.zip
@@ -58488,16 +58408,6 @@
   versions:
     android: '11.0'
     miui: 20.10.15
-- branch: weekly
-  date: '2021-07-15'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-15.07.2021/fw_vangogh_miui_VANGOGH_21.7.14_bcc69d78e1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/vangogh/fw_vangogh_miui_VANGOGH_21.7.14_bcc69d78e1_11.0.zip
-  filename: fw_vangogh_miui_VANGOGH_21.7.14_bcc69d78e1_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.14
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -58689,16 +58599,6 @@
     android: '11.0'
     miui: V12.1.7.0.RJVCNXM
 - branch: stable
-  date: '2022-03-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-26.03.2022/fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vangogh/fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
-  filename: fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: V13.0.2.0.SJVCNXM
-- branch: stable
   date: '2020-06-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-24.06.2020/fw_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip
@@ -58798,16 +58698,6 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJVCNXM
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-10.01.2021/fw_vangogh_miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip
-  filename: fw_vangogh_miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.1.4.0.RJVCNXM
 - branch: stable
   date: '2021-11-05'
   downloads:
