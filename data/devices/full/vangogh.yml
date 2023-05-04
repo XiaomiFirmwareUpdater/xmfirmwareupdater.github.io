@@ -109,6 +109,16 @@
     android: '12.0'
     miui: 22.3.23
 - branch: weekly
+  date: '2020-09-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-24.09.2020/fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.24/vangogh/fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_20.9.24_254630da48_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 20.9.24
+- branch: weekly
   date: '2020-07-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-23.07.2020/fw_vangogh_miui_VANGOGH_20.7.23_38107522a8_10.0.zip
@@ -209,6 +219,16 @@
     android: '11.0'
     miui: 21.10.13
 - branch: weekly
+  date: '2020-07-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-16.07.2020/fw_vangogh_miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.16/vangogh/fw_vangogh_miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
+  filename: fw_vangogh_miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.7.16
+- branch: weekly
   date: '2020-10-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-15.10.2020/fw_vangogh_miui_VANGOGH_20.10.15_ef36bae207_11.0.zip
@@ -218,6 +238,16 @@
   versions:
     android: '11.0'
     miui: 20.10.15
+- branch: weekly
+  date: '2021-07-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-15.07.2021/fw_vangogh_miui_VANGOGH_21.7.14_bcc69d78e1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.14/vangogh/fw_vangogh_miui_VANGOGH_21.7.14_bcc69d78e1_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_21.7.14_bcc69d78e1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.7.14
 - branch: weekly
   date: '2021-04-18'
   downloads:
@@ -409,6 +439,16 @@
     android: '11.0'
     miui: V12.1.7.0.RJVCNXM
 - branch: stable
+  date: '2022-03-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-26.03.2022/fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/vangogh/fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
+  filename: fw_vangogh_miui_VANGOGH_V13.0.2.0.SJVCNXM_382f34ec17_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.2.0.SJVCNXM
+- branch: stable
   date: '2020-06-24'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-24.06.2020/fw_vangogh_miui_VANGOGH_V12.0.3.0.QJVCNXM_31d364887a_10.0.zip
@@ -508,6 +548,16 @@
   versions:
     android: '10.0'
     miui: V11.0.6.0.QJVCNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/stable-10.01.2021/fw_vangogh_miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vangogh/fw_vangogh_miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip
+  filename: fw_vangogh_miui_VANGOGH_V12.1.4.0.RJVCNXM_917cb6590d_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.1.4.0.RJVCNXM
 - branch: stable
   date: '2021-11-05'
   downloads:

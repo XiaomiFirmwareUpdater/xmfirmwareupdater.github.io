@@ -6922,6 +6922,12 @@
   download: https://bigota.d.miui.com/21.2.24/miui_VANGOGH_21.2.24_20ecfbad7e_11.0.zip
   name: Mi 10 Lite Zoom
   version: 21.2.24
+- android: '11.0'
+  codename: vangogh
+  date: '2020-09-24'
+  download: https://bigota.d.miui.com/20.9.24/miui_VANGOGH_20.9.24_254630da48_11.0.zip
+  name: Mi 10 Lite Zoom
+  version: 20.9.24
 - android: '10.0'
   codename: vangogh
   date: '2020-07-23'
@@ -6982,12 +6988,24 @@
   download: https://bigota.d.miui.com/21.10.13/miui_VANGOGH_21.10.13_bd6f763379_11.0.zip
   name: Mi 10 Lite Zoom
   version: 21.10.13
+- android: '10.0'
+  codename: vangogh
+  date: '2020-07-16'
+  download: https://bigota.d.miui.com/20.7.16/miui_VANGOGH_20.7.16_a283c90d82_10.0.zip
+  name: Mi 10 Lite Zoom
+  version: 20.7.16
 - android: '11.0'
   codename: vangogh
   date: '2020-10-15'
   download: https://bigota.d.miui.com/20.10.15/miui_VANGOGH_20.10.15_ef36bae207_11.0.zip
   name: Mi 10 Lite Zoom
   version: 20.10.15
+- android: '11.0'
+  codename: vangogh
+  date: '2021-07-15'
+  download: https://bigota.d.miui.com/21.7.14/miui_VANGOGH_21.7.14_bcc69d78e1_11.0.zip
+  name: Mi 10 Lite Zoom
+  version: 21.7.14
 - android: '11.0'
   codename: vangogh
   date: '2021-04-18'
