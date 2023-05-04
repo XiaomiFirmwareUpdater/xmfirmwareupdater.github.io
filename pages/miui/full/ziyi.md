@@ -52,7 +52,8 @@ permalink: /archive/miui/ziyi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.13.0.SLLEUXM</td><td>12.0</td><td>4.7 GB</td><td>2023-04-18</td><td><a href="/miui/ziyi/stable/V14.0.13.0.SLLEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLLEUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-04-26</td><td><a href="/miui/ziyi/stable beta/V14.0.3.0.TLLEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.13.0.SLLEUXM</td><td>12.0</td><td>4.7 GB</td><td>2023-04-18</td><td><a href="/miui/ziyi/stable/V14.0.13.0.SLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.13.0.SLLEUXM</td><td>12.0</td><td>7.0 GB</td><td>2023-04-13</td><td><a href="/miui/ziyi/stable/V14.0.13.0.SLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SLLTWXM</td><td>12.0</td><td>4.6 GB</td><td>2023-04-13</td><td><a href="/miui/ziyi/stable/V14.0.3.0.SLLTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.SLLTWXM</td><td>12.0</td><td>6.0 GB</td><td>2023-03-30</td><td><a href="/miui/ziyi/stable/V14.0.3.0.SLLTWXM/">Download</a></td></tr>
