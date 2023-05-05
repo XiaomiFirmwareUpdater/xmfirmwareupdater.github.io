@@ -262,6 +262,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.SJWEUXM/fw_curtana_miui_CURTANAEEAGlobal_V14.0.4.0.SJWEUXM_3fedd97c69_12.0.zip
   name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
   version: V14.0.4.0.SJWEUXM
+- android: '12.0'
+  codename: curtana
+  date: '2023-05-05'
+  download: https://bigota.d.miui.com/V14.0.3.0.SJWINXM/fw_curtana_miui_CURTANAINGlobal_V14.0.3.0.SJWINXM_9bf6b6a7ef_12.0.zip
+  name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
+  version: V14.0.3.0.SJWINXM
 - android: '13.0'
   codename: dagu
   date: '2023-04-14'
@@ -322,6 +328,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.8.0.TLFEUXM_09ab9b8783_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V14.0.8.0.TLFEUXM
+- android: '13.0'
+  codename: diting
+  date: '2023-05-05'
+  download: https://bigota.d.miui.com/V14.0.11.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.11.0.TLFEUXM_b0d5e52cd0_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.11.0.TLFEUXM
 - android: '13.0'
   codename: diting
   date: '2023-03-02'

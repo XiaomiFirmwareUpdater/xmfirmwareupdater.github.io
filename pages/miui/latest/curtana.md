@@ -60,7 +60,7 @@ permalink: /miui/curtana/
 <tr><td>Redmi Note 9S Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.6.0.RJWMIXM</td><td>11.0</td><td>2.7 GB</td><td>2022-05-25</td><td><a href="/miui/curtana/stable beta/V12.5.6.0.RJWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJWINXM</td><td>12.0</td><td>3.6 GB</td><td>2022-11-09</td><td><a href="/miui/curtana/stable/V13.0.2.0.SJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro India</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJWINXM</td><td>12.0</td><td>2.9 GB</td><td>2022-11-15</td><td><a href="/miui/curtana/stable/V13.0.2.0.SJWINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.RJWINXM</td><td>11.0</td><td>2.7 GB</td><td>2021-09-01</td><td><a href="/miui/curtana/stable beta/V12.5.1.0.RJWINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.SJWINXM</td><td>12.0</td><td>2.9 GB</td><td>2023-04-28</td><td><a href="/miui/curtana/stable beta/V14.0.3.0.SJWINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Lite India</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJWINRF</td><td>12.0</td><td>3.7 GB</td><td>2023-01-05</td><td><a href="/miui/curtana/stable/V13.0.3.0.SJWINRF/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Lite India</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJWINRF</td><td>12.0</td><td>3.0 GB</td><td>2023-01-12</td><td><a href="/miui/curtana/stable/V13.0.3.0.SJWINRF/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Lite India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJWINRF</td><td>12.0</td><td>3.0 GB</td><td>2023-04-24</td><td><a href="/miui/curtana/stable beta/V14.0.2.0.SJWINRF/">Download</a></td></tr>
@@ -69,7 +69,7 @@ permalink: /miui/curtana/
 <tr><td>Redmi Note 9S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJWRUXM</td><td>12.0</td><td>2.9 GB</td><td>2023-04-28</td><td><a href="/miui/curtana/stable beta/V14.0.1.0.SJWRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJWTRXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-15</td><td><a href="/miui/curtana/stable/V13.0.2.0.SJWTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJWTRXM</td><td>12.0</td><td>2.9 GB</td><td>2022-12-02</td><td><a href="/miui/curtana/stable/V13.0.2.0.SJWTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.RJWTRXM</td><td>11.0</td><td>2.5 GB</td><td>2021-06-24</td><td><a href="/miui/curtana/stable beta/V12.0.2.0.RJWTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJWTRXM</td><td>12.0</td><td>2.9 GB</td><td>2023-04-28</td><td><a href="/miui/curtana/stable beta/V14.0.1.0.SJWTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

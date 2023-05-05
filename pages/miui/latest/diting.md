@@ -59,6 +59,7 @@ permalink: /miui/diting/
 <tr><td>Redmi K50 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLFCNXM</td><td>13.0</td><td>5.9 GB</td><td>2022-12-20</td><td><a href="/miui/diting/stable beta/V14.0.2.0.TLFCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TLFEUXM</td><td>13.0</td><td>7.1 GB</td><td>2023-03-28</td><td><a href="/miui/diting/stable/V14.0.9.0.TLFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TLFEUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-03-31</td><td><a href="/miui/diting/stable/V14.0.9.0.TLFEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TLFEUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-04-14</td><td><a href="/miui/diting/stable beta/V14.0.11.0.TLFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLFMIXM</td><td>13.0</td><td>7.4 GB</td><td>2023-03-28</td><td><a href="/miui/diting/stable/V14.0.2.0.TLFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLFMIXM</td><td>13.0</td><td>5.0 GB</td><td>2023-04-14</td><td><a href="/miui/diting/stable/V14.0.2.0.TLFMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro Japan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLFJPXM</td><td>12.0</td><td>6.2 GB</td><td>2022-12-07</td><td><a href="/miui/diting/stable/V13.0.2.0.SLFJPXM/">Download</a></td></tr>
