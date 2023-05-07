@@ -546,6 +546,12 @@
   version: V14.0.3.0.SJQMIXM
 - android: '12.0'
   codename: lime
+  date: '2023-05-07'
+  download: https://bigota.d.miui.com/V14.0.2.0.SJQINXM/fw_lime_miui_LIMEINGlobal_V14.0.2.0.SJQINXM_f05605b8de_12.0.zip
+  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
+  version: V14.0.2.0.SJQINXM
+- android: '12.0'
+  codename: lime
   date: '2023-03-07'
   download: https://bigota.d.miui.com/V14.0.2.0.SJQCNXM/fw_lime_miui_LIME_V14.0.2.0.SJQCNXM_e71d631a73_12.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
