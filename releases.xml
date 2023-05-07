@@ -1,11 +1,36 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 07 May 2023 00:50:23 +0900</pubDate>
+  <pubDate>Sun, 07 May 2023 09:06:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.4.0.TMNEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mondrian</link>
+    <pubDate>Sun, 07 May 2023 09:06:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.1.0.TMRINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
+    <pubDate>Sun, 07 May 2023 08:35:57 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.1.0.TMRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
+    <pubDate>Sun, 07 May 2023 08:05:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.2.0.TMREUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
+    <pubDate>Sun, 07 May 2023 07:33:06 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 Ultra (ishtar) - V14.0.1.0.TMAEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
+    <pubDate>Sun, 07 May 2023 07:01:37 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.12.0.TLFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
@@ -80,31 +105,6 @@
     <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.19.0.TMRCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
     <pubDate>Mon, 01 May 2023 18:56:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.4.0.SLLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
-    <pubDate>Mon, 01 May 2023 17:04:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.13.0.SLLEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
-    <pubDate>Mon, 01 May 2023 16:34:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Pro (nuwa) - V14.0.6.0.TMBINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
-    <pubDate>Mon, 01 May 2023 16:07:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Pro (nuwa) - V14.0.9.0.TMBMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
-    <pubDate>Mon, 01 May 2023 15:25:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Pro (nuwa) - V14.0.22.0.TMBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
-    <pubDate>Mon, 01 May 2023 14:56:50 +0900</pubDate>
   </item>
     </channel>
 </rss>
