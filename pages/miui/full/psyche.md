@@ -52,8 +52,11 @@ permalink: /archive/miui/psyche/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12X China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.25.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-04-28</td><td><a href="/miui/psyche/public beta/V14.0.23.4.25.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12X EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLDEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-04-24</td><td><a href="/miui/psyche/stable beta/V14.0.2.0.TLDEUXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12X Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLDMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-05-05</td><td><a href="/miui/psyche/stable beta/V14.0.4.0.TLDMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLDRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-05-05</td><td><a href="/miui/psyche/stable beta/V14.0.3.0.TLDRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.25.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-04-28</td><td><a href="/miui/psyche/public beta/V14.0.23.4.25.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLDEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-04-24</td><td><a href="/miui/psyche/stable/V14.0.2.0.TLDEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLDEUXM</td><td>13.0</td><td>5.9 GB</td><td>2023-04-03</td><td><a href="/miui/psyche/stable/V14.0.2.0.TLDEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.17.DEV</td><td>13.0</td><td>4.1 GB</td><td>2023-04-21</td><td><a href="/miui/psyche/public beta/V14.0.23.4.17.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>4.1 GB</td><td>2023-04-07</td><td><a href="/miui/psyche/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12X China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TLDCNXM</td><td>13.0</td><td>4.0 GB</td><td>2023-03-31</td><td><a href="/miui/psyche/stable/V14.0.9.0.TLDCNXM/">Download</a></td></tr>

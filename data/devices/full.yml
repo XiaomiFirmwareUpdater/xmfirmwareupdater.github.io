@@ -23119,6 +23119,16 @@
     android: '12.0'
     miui: V13.0.7.0.SJSEUXM
 - branch: stable
+  date: '2023-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-08.05.2023/fw_gauguin_miui_GAUGUININGlobal_V14.0.2.0.SJSINXM_1db4f5a726_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gauguin/fw_gauguin_miui_GAUGUININGlobal_V14.0.2.0.SJSINXM_1db4f5a726_12.0.zip
+  filename: fw_gauguin_miui_GAUGUININGlobal_V14.0.2.0.SJSINXM_1db4f5a726_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V14.0.2.0.SJSINXM
+- branch: stable
   date: '2021-01-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-08.01.2021/fw_gauguin_miui_GAUGUINGlobal_V12.0.7.0.QJSMIXM_aeeb4fc609_10.0.zip
@@ -44648,6 +44658,16 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SLDMIXM
+- branch: stable
+  date: '2023-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-08.05.2023/fw_psyche_miui_PSYCHEGlobal_V14.0.4.0.TLDMIXM_5e986f1a3c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHEGlobal_V14.0.4.0.TLDMIXM_5e986f1a3c_13.0.zip
+  filename: fw_psyche_miui_PSYCHEGlobal_V14.0.4.0.TLDMIXM_5e986f1a3c_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TLDMIXM
 - branch: stable
   date: '2022-04-07'
   downloads:
