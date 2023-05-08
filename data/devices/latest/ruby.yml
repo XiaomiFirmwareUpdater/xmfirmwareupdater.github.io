@@ -19,15 +19,15 @@
     android: '12.0'
     miui: V14.0.3.0.SMOCNXM
 - branch: stable
-  date: '2023-03-23'
+  date: '2023-05-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-24.03.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.4.0.SMOEUXM_cb5f971b75_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYEEAGlobal_V14.0.4.0.SMOEUXM_cb5f971b75_12.0.zip
-  filename: fw_ruby_miui_RUBYEEAGlobal_V14.0.4.0.SMOEUXM_cb5f971b75_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-08.05.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.10.0.SMOEUXM_fa5882d233_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYEEAGlobal_V14.0.10.0.SMOEUXM_fa5882d233_12.0.zip
+  filename: fw_ruby_miui_RUBYEEAGlobal_V14.0.10.0.SMOEUXM_fa5882d233_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V14.0.4.0.SMOEUXM
+    miui: V14.0.10.0.SMOEUXM
 - branch: stable
   date: '2023-04-10'
   downloads:

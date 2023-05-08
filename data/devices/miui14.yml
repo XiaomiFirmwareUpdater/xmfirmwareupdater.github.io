@@ -1234,6 +1234,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SMOINXM/fw_ruby_miui_RUBYINGlobal_V14.0.2.0.SMOINXM_f78cdd949b_12.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: V14.0.2.0.SMOINXM
+- android: '12.0'
+  codename: ruby
+  date: '2023-05-08'
+  download: https://bigota.d.miui.com/V14.0.10.0.SMOEUXM/fw_ruby_miui_RUBYEEAGlobal_V14.0.10.0.SMOEUXM_fa5882d233_12.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.10.0.SMOEUXM
 - android: '13.0'
   codename: socrates
   date: '2023-03-14'
