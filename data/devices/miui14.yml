@@ -108,6 +108,12 @@
   version: V14.0.2.0.TKSCNXM
 - android: '13.0'
   codename: camellian
+  date: '2023-05-08'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKSMIXM/fw_camellian_miui_CAMELLIANGlobal_V14.0.3.0.TKSMIXM_4d9be1df29_13.0.zip
+  name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
+  version: V14.0.3.0.TKSMIXM
+- android: '13.0'
+  codename: camellian
   date: '2023-04-09'
   download: https://bigota.d.miui.com/V14.0.1.0.TKSEUXM/fw_camellian_miui_CAMELLIANEEAGlobal_V14.0.1.0.TKSEUXM_e8dea0d89e_13.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro

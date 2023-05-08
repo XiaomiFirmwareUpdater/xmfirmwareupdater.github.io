@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 09 May 2023 01:16:49 +0900</pubDate>
+  <pubDate>Tue, 09 May 2023 06:42:53 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V14.0.3.0.TKSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Tue, 09 May 2023 06:42:53 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/moonstone</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 (cupid) - V14.0.8.0.TLCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
     <pubDate>Thu, 04 May 2023 19:28:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.6.0.TKPCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
-    <pubDate>Thu, 04 May 2023 18:52:10 +0900</pubDate>
   </item>
     </channel>
 </rss>
