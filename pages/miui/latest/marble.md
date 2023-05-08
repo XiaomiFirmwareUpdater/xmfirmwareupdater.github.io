@@ -58,8 +58,8 @@ permalink: /miui/marble/
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.19.0.TMRCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-04-28</td><td><a href="/miui/marble/stable beta/V14.0.19.0.TMRCNXM/">Download</a></td></tr>
 <tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMREUXM</td><td>13.0</td><td>7.2 GB</td><td>2023-03-20</td><td><a href="/miui/marble/stable/V14.0.2.0.TMREUXM/">Download</a></td></tr>
 <tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMREUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-06</td><td><a href="/miui/marble/stable/V14.0.2.0.TMREUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TMRMIXM</td><td>13.0</td><td>7.6 GB</td><td>2023-03-20</td><td><a href="/miui/marble/stable/V14.0.1.0.TMRMIXM/">Download</a></td></tr>
-<tr><td>POCO F5 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TMRMIXM</td><td>13.0</td><td>5.0 GB</td><td>2023-05-06</td><td><a href="/miui/marble/stable/V14.0.1.0.TMRMIXM/">Download</a></td></tr>
+<tr><td>POCO F5 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMRMIXM</td><td>13.0</td><td>7.7 GB</td><td>2023-04-26</td><td><a href="/miui/marble/stable/V14.0.4.0.TMRMIXM/">Download</a></td></tr>
+<tr><td>POCO F5 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMRMIXM</td><td>13.0</td><td>5.2 GB</td><td>2023-05-08</td><td><a href="/miui/marble/stable/V14.0.4.0.TMRMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TMRIDXM</td><td>13.0</td><td>5.0 GB</td><td>2023-05-06</td><td><a href="/miui/marble/stable beta/V14.0.1.0.TMRIDXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TMRINXM</td><td>13.0</td><td>6.2 GB</td><td>2023-03-26</td><td><a href="/miui/marble/stable/V14.0.1.0.TMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TMRINXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-06</td><td><a href="/miui/marble/stable/V14.0.1.0.TMRINXM/">Download</a></td></tr>

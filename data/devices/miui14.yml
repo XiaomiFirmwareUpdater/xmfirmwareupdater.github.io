@@ -642,6 +642,12 @@
   version: V14.0.16.0.TMRCNXM
 - android: '13.0'
   codename: marble
+  date: '2023-05-08'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMRMIXM/fw_marble_miui_MARBLEGlobal_V14.0.4.0.TMRMIXM_77ed0ac710_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.4.0.TMRMIXM
+- android: '13.0'
+  codename: marble
   date: '2023-05-06'
   download: https://bigota.d.miui.com/V14.0.2.0.TMREUXM/fw_marble_miui_MARBLEEEAGlobal_V14.0.2.0.TMREUXM_2b6bb342a9_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -766,6 +772,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_V14.0.2.0.TMPINXM_209d9aee4a_13.0.zip
   name: POCO X5 5G
   version: V14.0.2.0.TMPINXM
+- android: '13.0'
+  codename: moonstone
+  date: '2023-05-08'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_V14.0.3.0.TMPMIXM_0920ca8fad_13.0.zip
+  name: POCO X5 5G
+  version: V14.0.3.0.TMPMIXM
 - android: '13.0'
   codename: moonstone
   date: '2023-04-07'

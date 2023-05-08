@@ -33529,6 +33529,16 @@
     android: '13.0'
     miui: V14.0.16.0.TMRCNXM
 - branch: stable
+  date: '2023-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-08.05.2023/fw_marble_miui_MARBLEGlobal_V14.0.4.0.TMRMIXM_77ed0ac710_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEGlobal_V14.0.4.0.TMRMIXM_77ed0ac710_13.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_V14.0.4.0.TMRMIXM_77ed0ac710_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMRMIXM
+- branch: stable
   date: '2023-05-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-07.05.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.2.0.TMREUXM_2b6bb342a9_13.0.zip
@@ -35448,6 +35458,16 @@
   versions:
     android: '12.0'
     miui: V13.0.3.0.SMPINXM
+- branch: stable
+  date: '2023-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_moonstone/releases/download/stable-08.05.2023/fw_moonstone_miui_MOONSTONEGlobal_V14.0.3.0.TMPMIXM_0920ca8fad_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/moonstone/fw_moonstone_miui_MOONSTONEGlobal_V14.0.3.0.TMPMIXM_0920ca8fad_13.0.zip
+  filename: fw_moonstone_miui_MOONSTONEGlobal_V14.0.3.0.TMPMIXM_0920ca8fad_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TMPMIXM
 - branch: stable
   date: '2023-04-07'
   downloads:

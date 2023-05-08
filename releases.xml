@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 08 May 2023 18:48:26 +0900</pubDate>
+  <pubDate>Tue, 09 May 2023 01:16:49 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>POCO X5 5G (moonstone) - V14.0.3.0.TMPMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/moonstone</link>
+    <pubDate>Tue, 09 May 2023 01:16:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.4.0.TMRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
+    <pubDate>Tue, 09 May 2023 00:58:31 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12X (psyche) - V14.0.4.0.TLDMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 10 Pro 5G/POCO X3 GT (chopin) - V14.0.6.0.TKPCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/chopin</link>
     <pubDate>Thu, 04 May 2023 18:52:10 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.3.0.TLLEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
-    <pubDate>Thu, 04 May 2023 13:57:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12X (psyche) - V14.0.2.0.TLDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
-    <pubDate>Thu, 04 May 2023 13:20:56 +0900</pubDate>
   </item>
     </channel>
 </rss>
