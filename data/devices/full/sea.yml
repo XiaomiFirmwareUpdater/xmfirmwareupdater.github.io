@@ -1,1 +1,20 @@
-[]
+- branch: stable
+  date: '2023-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-10.05.2023/fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sea/fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
+  filename: fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.THZEUXM
+- branch: stable
+  date: '2023-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-10.05.2023/fw_sea_miui_SEAGlobal_V14.0.2.0.THZMIXM_6a0662aae6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sea/fw_sea_miui_SEAGlobal_V14.0.2.0.THZMIXM_6a0662aae6_13.0.zip
+  filename: fw_sea_miui_SEAGlobal_V14.0.2.0.THZMIXM_6a0662aae6_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.THZMIXM

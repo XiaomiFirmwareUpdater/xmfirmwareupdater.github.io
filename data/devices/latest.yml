@@ -1769,25 +1769,25 @@
     android: '7.0'
     miui: 9.2.28
 - branch: stable
-  date: '2023-04-10'
+  date: '2023-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-10.04.2023/fw_ice_miui_ICEGlobal_V13.0.16.0.SGMMIXM_c64b377af5_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEGlobal_V13.0.16.0.SGMMIXM_c64b377af5_12.0.zip
-  filename: fw_ice_miui_ICEGlobal_V13.0.16.0.SGMMIXM_c64b377af5_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-10.05.2023/fw_ice_miui_ICEGlobal_V13.0.17.0.SGMMIXM_79c082f0cc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEGlobal_V13.0.17.0.SGMMIXM_79c082f0cc_12.0.zip
+  filename: fw_ice_miui_ICEGlobal_V13.0.17.0.SGMMIXM_79c082f0cc_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.16.0.SGMMIXM
+    miui: V13.0.17.0.SGMMIXM
 - branch: stable
-  date: '2023-03-16'
+  date: '2023-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-16.03.2023/fw_ice_miui_ICEEEAGlobal_V13.0.10.0.SGMEUXM_6c1c738cb8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.10.0.SGMEUXM_6c1c738cb8_12.0.zip
-  filename: fw_ice_miui_ICEEEAGlobal_V13.0.10.0.SGMEUXM_6c1c738cb8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-10.05.2023/fw_ice_miui_ICEEEAGlobal_V13.0.11.0.SGMEUXM_8c2f2f249d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEEEAGlobal_V13.0.11.0.SGMEUXM_8c2f2f249d_12.0.zip
+  filename: fw_ice_miui_ICEEEAGlobal_V13.0.11.0.SGMEUXM_8c2f2f249d_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.10.0.SGMEUXM
+    miui: V13.0.11.0.SGMEUXM
 - branch: stable
   date: '2023-03-13'
   downloads:
@@ -2699,15 +2699,15 @@
     android: '13.0'
     miui: V14.0.24.0.TMNCNXM
 - branch: stable
-  date: '2023-05-07'
+  date: '2023-05-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-07.05.2023/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.4.0.TMNEUXM_a88b38c468_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.4.0.TMNEUXM_a88b38c468_13.0.zip
-  filename: fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.4.0.TMNEUXM_a88b38c468_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-10.05.2023/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.6.0.TMNEUXM_21046329fa_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.6.0.TMNEUXM_21046329fa_13.0.zip
+  filename: fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.6.0.TMNEUXM_21046329fa_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMNEUXM
+    miui: V14.0.6.0.TMNEUXM
 - branch: stable
   date: '2022-11-17'
   downloads:
@@ -4109,6 +4109,26 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
+  date: '2023-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-10.05.2023/fw_sea_miui_SEAGlobal_V14.0.2.0.THZMIXM_6a0662aae6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sea/fw_sea_miui_SEAGlobal_V14.0.2.0.THZMIXM_6a0662aae6_13.0.zip
+  filename: fw_sea_miui_SEAGlobal_V14.0.2.0.THZMIXM_6a0662aae6_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.THZMIXM
+- branch: stable
+  date: '2023-05-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-10.05.2023/fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sea/fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
+  filename: fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.THZEUXM
+- branch: stable
   date: '2023-03-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-30.03.2023/fw_selene_miui_SELENEGlobal_V13.0.15.0.SKUMIXM_1b1afda792_12.0.zip
@@ -4779,15 +4799,15 @@
     android: '13.0'
     miui: V14.0.1.0.TJUINXM
 - branch: stable
-  date: '2021-07-01'
+  date: '2021-11-15'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vela/releases/download/stable-02.07.2021/fw_vela_miui_VELA_V12.5.3.0.RFECNXM_c327a7c047_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vela/fw_vela_miui_VELA_V12.5.3.0.RFECNXM_c327a7c047_11.0.zip
-  filename: fw_vela_miui_VELA_V12.5.3.0.RFECNXM_c327a7c047_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vela/releases/download/stable-15.11.2021/fw_vela_miui_VELA_V12.5.5.0.RFECNXM_494c77d7cf_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/vela/fw_vela_miui_VELA_V12.5.5.0.RFECNXM_494c77d7cf_11.0.zip
+  filename: fw_vela_miui_VELA_V12.5.5.0.RFECNXM_494c77d7cf_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: V12.5.3.0.RFECNXM
+    miui: V12.5.5.0.RFECNXM
 - branch: weekly
   date: '2021-11-26'
   downloads:

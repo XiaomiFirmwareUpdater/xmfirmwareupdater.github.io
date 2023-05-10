@@ -768,6 +768,12 @@
   version: V14.0.18.0.TMNCNXM
 - android: '13.0'
   codename: mondrian
+  date: '2023-05-10'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.6.0.TMNEUXM_21046329fa_13.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: V14.0.6.0.TMNEUXM
+- android: '13.0'
+  codename: mondrian
   date: '2023-05-07'
   download: https://bigota.d.miui.com/V14.0.4.0.TMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.4.0.TMNEUXM_a88b38c468_13.0.zip
   name: Redmi K60/POCO F5 Pro
@@ -1288,6 +1294,18 @@
   download: https://bigota.d.miui.com/V14.0.10.0.SMOEUXM/fw_ruby_miui_RUBYEEAGlobal_V14.0.10.0.SMOEUXM_fa5882d233_12.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: V14.0.10.0.SMOEUXM
+- android: '13.0'
+  codename: sea
+  date: '2023-05-10'
+  download: https://bigota.d.miui.com/V14.0.1.0.THZEUXM/fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
+  name: Redmi Note 12S
+  version: V14.0.1.0.THZEUXM
+- android: '13.0'
+  codename: sea
+  date: '2023-05-10'
+  download: https://bigota.d.miui.com/V14.0.2.0.THZMIXM/fw_sea_miui_SEAGlobal_V14.0.2.0.THZMIXM_6a0662aae6_13.0.zip
+  name: Redmi Note 12S
+  version: V14.0.2.0.THZMIXM
 - android: '13.0'
   codename: socrates
   date: '2023-03-14'

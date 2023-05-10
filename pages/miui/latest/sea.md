@@ -1,15 +1,15 @@
 ---
-title: Redmi K60/POCO F5 Pro (mondrian) MIUI Downloads
+title: Redmi Note 12S (sea) MIUI Downloads
 layout: download
-name: Redmi K60/POCO F5 Pro
-codename: mondrian
-permalink: /miui/mondrian/
+name: Redmi Note 12S
+codename: sea
+permalink: /miui/sea/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/mondrian/">Redmi K60/POCO F5 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/sea/">Redmi Note 12S</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/mondrian/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/mondrian/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/mondrian/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/mondrian/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/sea/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/sea/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/sea/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,13 +52,13 @@ permalink: /miui/mondrian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.22.0.TMNCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-03-10</td><td><a href="/miui/mondrian/stable/V14.0.22.0.TMNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 China</td><td>Stable</td><td>Recovery</td><td>V14.0.22.0.TMNCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-03-20</td><td><a href="/miui/mondrian/stable/V14.0.22.0.TMNCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.25.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-04-28</td><td><a href="/miui/mondrian/public beta/V14.0.23.4.25.DEV/">Download</a></td></tr>
-<tr><td>Redmi K60 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.24.0.TMNCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-04-28</td><td><a href="/miui/mondrian/stable beta/V14.0.24.0.TMNCNXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMNEUXM</td><td>13.0</td><td>7.1 GB</td><td>2023-04-18</td><td><a href="/miui/mondrian/stable/V14.0.6.0.TMNEUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMNEUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-10</td><td><a href="/miui/mondrian/stable/V14.0.6.0.TMNEUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMNEUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-04-14</td><td><a href="/miui/mondrian/stable beta/V14.0.4.0.TMNEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12S EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.THZEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-04-07</td><td><a href="/miui/sea/stable/V14.0.1.0.THZEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.THZEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable/V14.0.1.0.THZEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.THZMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-04-07</td><td><a href="/miui/sea/stable/V14.0.2.0.THZMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.THZMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable/V14.0.2.0.THZMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.THZMIXM</td><td>13.0</td><td>4.1 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable beta/V14.0.1.0.THZMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.THZRUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable beta/V14.0.1.0.THZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.THZTRXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable beta/V14.0.1.0.THZTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
