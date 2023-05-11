@@ -52,7 +52,8 @@ permalink: /archive/miui/psyche/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12X Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLDTWXM</td><td>13.0</td><td>3.7 GB</td><td>2023-05-06</td><td><a href="/miui/psyche/stable beta/V14.0.4.0.TLDTWXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLDTWXM</td><td>13.0</td><td>3.7 GB</td><td>2023-05-06</td><td><a href="/miui/psyche/stable/V14.0.4.0.TLDTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12X Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLDTWXM</td><td>13.0</td><td>5.1 GB</td><td>2023-04-24</td><td><a href="/miui/psyche/stable/V14.0.4.0.TLDTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLDMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-05-05</td><td><a href="/miui/psyche/stable/V14.0.4.0.TLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLDMIXM</td><td>13.0</td><td>6.2 GB</td><td>2023-04-10</td><td><a href="/miui/psyche/stable/V14.0.4.0.TLDMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12X Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLDRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-05-05</td><td><a href="/miui/psyche/stable/V14.0.3.0.TLDRUXM/">Download</a></td></tr>

@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 11 May 2023 02:12:47 +0900</pubDate>
+  <pubDate>Thu, 11 May 2023 19:29:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12 4G NFC (topaz) - V14.0.7.0.TMGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/topaz</link>
+    <pubDate>Thu, 11 May 2023 19:29:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V14.0.9.0.TKICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Thu, 11 May 2023 18:57:58 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 12S (sea) - V14.0.2.0.THZMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sea</link>
@@ -95,16 +105,6 @@
     <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.4.0.TMNEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mondrian</link>
     <pubDate>Sun, 07 May 2023 09:06:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.1.0.TMRINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
-    <pubDate>Sun, 07 May 2023 08:35:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.1.0.TMRMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
-    <pubDate>Sun, 07 May 2023 08:05:13 +0900</pubDate>
   </item>
     </channel>
 </rss>
