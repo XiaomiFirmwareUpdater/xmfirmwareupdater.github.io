@@ -64,9 +64,8 @@ permalink: /miui/surya/
 <tr><td>POCO X3 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJGINXM</td><td>12.0</td><td>3.5 GB</td><td>2022-08-18</td><td><a href="/miui/surya/stable/V13.0.1.0.SJGINXM/">Download</a></td></tr>
 <tr><td>POCO X3 India</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJGINXM</td><td>12.0</td><td>2.9 GB</td><td>2022-08-25</td><td><a href="/miui/surya/stable/V13.0.1.0.SJGINXM/">Download</a></td></tr>
 <tr><td>POCO X3 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJGINXM</td><td>11.0</td><td>2.5 GB</td><td>2021-06-15</td><td><a href="/miui/surya/stable beta/V12.0.1.0.RJGINXM/">Download</a></td></tr>
-<tr><td>POCO X3 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJGRUXM</td><td>12.0</td><td>4.5 GB</td><td>2022-08-24</td><td><a href="/miui/surya/stable/V13.0.1.0.SJGRUXM/">Download</a></td></tr>
-<tr><td>POCO X3 NFC Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJGRUXM</td><td>12.0</td><td>2.9 GB</td><td>2022-08-29</td><td><a href="/miui/surya/stable/V13.0.1.0.SJGRUXM/">Download</a></td></tr>
-<tr><td>POCO X3 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJGRUXM</td><td>12.0</td><td>2.9 GB</td><td>2023-04-28</td><td><a href="/miui/surya/stable beta/V14.0.1.0.SJGRUXM/">Download</a></td></tr>
+<tr><td>POCO X3 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.SJGRUXM</td><td>12.0</td><td>4.5 GB</td><td>2023-04-14</td><td><a href="/miui/surya/stable/V14.0.1.0.SJGRUXM/">Download</a></td></tr>
+<tr><td>POCO X3 NFC Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.SJGRUXM</td><td>12.0</td><td>2.9 GB</td><td>2023-04-28</td><td><a href="/miui/surya/stable/V14.0.1.0.SJGRUXM/">Download</a></td></tr>
 <tr><td>POCO X3 NFC Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJGTRXM</td><td>12.0</td><td>4.3 GB</td><td>2022-08-24</td><td><a href="/miui/surya/stable/V13.0.1.0.SJGTRXM/">Download</a></td></tr>
 <tr><td>POCO X3 NFC Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJGTRXM</td><td>12.0</td><td>2.9 GB</td><td>2022-08-29</td><td><a href="/miui/surya/stable/V13.0.1.0.SJGTRXM/">Download</a></td></tr>
 <tr><td>POCO X3 NFC Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJGTRXM</td><td>12.0</td><td>2.9 GB</td><td>2023-04-28</td><td><a href="/miui/surya/stable beta/V14.0.1.0.SJGTRXM/">Download</a></td></tr>

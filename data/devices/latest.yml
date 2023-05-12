@@ -789,15 +789,15 @@
     android: '11.0'
     miui: V12.5.8.0.RJFEUXM
 - branch: stable
-  date: '2023-01-16'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-16.01.2023/fw_citrus_miui_CITRUSINGlobal_V13.0.1.0.SJFINXM_bf08006a1e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/citrus/fw_citrus_miui_CITRUSINGlobal_V13.0.1.0.SJFINXM_bf08006a1e_12.0.zip
-  filename: fw_citrus_miui_CITRUSINGlobal_V13.0.1.0.SJFINXM_bf08006a1e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-12.05.2023/fw_citrus_miui_CITRUSINGlobal_V14.0.2.0.SJFINXM_e7db54b7cc_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/citrus/fw_citrus_miui_CITRUSINGlobal_V14.0.2.0.SJFINXM_e7db54b7cc_12.0.zip
+  filename: fw_citrus_miui_CITRUSINGlobal_V14.0.2.0.SJFINXM_e7db54b7cc_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.1.0.SJFINXM
+    miui: V14.0.2.0.SJFINXM
 - branch: stable
   date: '2019-07-15'
   downloads:
@@ -1329,15 +1329,15 @@
     android: '12.0'
     miui: V13.0.4.0.SGBEUXM
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-08.12.2022/fw_excalibur_miui_EXCALIBURINGlobal_V13.0.2.0.SJXINXM_5647f6f4a8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V13.0.2.0.SJXINXM_5647f6f4a8_12.0.zip
-  filename: fw_excalibur_miui_EXCALIBURINGlobal_V13.0.2.0.SJXINXM_5647f6f4a8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-12.05.2023/fw_excalibur_miui_EXCALIBURINGlobal_V14.0.2.0.SJXINXM_19c8eaf37a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V14.0.2.0.SJXINXM_19c8eaf37a_12.0.zip
+  filename: fw_excalibur_miui_EXCALIBURINGlobal_V14.0.2.0.SJXINXM_19c8eaf37a_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJXINXM
+    miui: V14.0.2.0.SJXINXM
 - branch: stable
   date: '2023-04-26'
   downloads:
@@ -1589,15 +1589,15 @@
     android: '11.0'
     miui: V12.5.2.0.RCOINXM
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-08.12.2022/fw_gram_miui_GRAMINGlobal_V13.0.2.0.SJPINXM_2ac29489d5_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/gram/fw_gram_miui_GRAMINGlobal_V13.0.2.0.SJPINXM_2ac29489d5_12.0.zip
-  filename: fw_gram_miui_GRAMINGlobal_V13.0.2.0.SJPINXM_2ac29489d5_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gram/releases/download/stable-12.05.2023/fw_gram_miui_GRAMINGlobal_V14.0.3.0.SJPINXM_00355ec662_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gram/fw_gram_miui_GRAMINGlobal_V14.0.3.0.SJPINXM_00355ec662_12.0.zip
+  filename: fw_gram_miui_GRAMINGlobal_V14.0.3.0.SJPINXM_00355ec662_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJPINXM
+    miui: V14.0.3.0.SJPINXM
 - branch: stable
   date: '2021-06-04'
   downloads:
@@ -2309,15 +2309,15 @@
     android: '13.0'
     miui: V14.0.3.0.TKOMIXM
 - branch: stable
-  date: '2023-02-27'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-27.02.2023/fw_lisa_miui_LISA_V14.0.6.0.TKOCNXM_65ea8f4e45_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISA_V14.0.6.0.TKOCNXM_65ea8f4e45_13.0.zip
-  filename: fw_lisa_miui_LISA_V14.0.6.0.TKOCNXM_65ea8f4e45_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-12.05.2023/fw_lisa_miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip
+  filename: fw_lisa_miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TKOCNXM
+    miui: V14.0.8.0.TKOCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -2799,15 +2799,15 @@
     android: '13.0'
     miui: V14.0.4.0.TLMINXM
 - branch: stable
-  date: '2023-03-17'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-17.03.2023/fw_nabu_miui_NABUGlobal_V14.0.3.0.TKXMIXM_45f6ebc192_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUGlobal_V14.0.3.0.TKXMIXM_45f6ebc192_13.0.zip
-  filename: fw_nabu_miui_NABUGlobal_V14.0.3.0.TKXMIXM_45f6ebc192_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-12.05.2023/fw_nabu_miui_NABUGlobal_V14.0.4.0.TKXMIXM_0172ee1049_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUGlobal_V14.0.4.0.TKXMIXM_0172ee1049_13.0.zip
+  filename: fw_nabu_miui_NABUGlobal_V14.0.4.0.TKXMIXM_0172ee1049_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TKXMIXM
+    miui: V14.0.4.0.TKXMIXM
 - branch: stable
   date: '2023-03-27'
   downloads:
@@ -2959,15 +2959,15 @@
     android: '13.0'
     miui: V14.0.22.0.TMBEUXM
 - branch: stable
-  date: '2023-05-01'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-01.05.2023/fw_nuwa_miui_NUWAINGlobal_V14.0.6.0.TMBINXM_a32be332d1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWAINGlobal_V14.0.6.0.TMBINXM_a32be332d1_13.0.zip
-  filename: fw_nuwa_miui_NUWAINGlobal_V14.0.6.0.TMBINXM_a32be332d1_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-12.05.2023/fw_nuwa_miui_NUWAINGlobal_V14.0.8.0.TMBINXM_4087ed25f7_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWAINGlobal_V14.0.8.0.TMBINXM_4087ed25f7_13.0.zip
+  filename: fw_nuwa_miui_NUWAINGlobal_V14.0.8.0.TMBINXM_4087ed25f7_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TMBINXM
+    miui: V14.0.8.0.TMBINXM
 - branch: stable
   date: '2023-04-06'
   downloads:
@@ -3789,15 +3789,15 @@
     android: '13.0'
     miui: V14.0.1.0.TLUEUXM
 - branch: stable
-  date: '2023-03-30'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-30.03.2023/fw_rock_miui_ROCKINGlobal_V13.0.11.0.SLUINXM_408e72298a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rock/fw_rock_miui_ROCKINGlobal_V13.0.11.0.SLUINXM_408e72298a_12.0.zip
-  filename: fw_rock_miui_ROCKINGlobal_V13.0.11.0.SLUINXM_408e72298a_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rock/releases/download/stable-12.05.2023/fw_rock_miui_ROCKINGlobal_V13.0.12.0.SLUINXM_900614398d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/rock/fw_rock_miui_ROCKINGlobal_V13.0.12.0.SLUINXM_900614398d_12.0.zip
+  filename: fw_rock_miui_ROCKINGlobal_V13.0.12.0.SLUINXM_900614398d_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.11.0.SLUINXM
+    miui: V13.0.12.0.SLUINXM
 - branch: stable
   date: '2019-08-19'
   downloads:
@@ -4309,15 +4309,15 @@
     android: '12.0'
     miui: V14.0.6.0.SMQMIXM
 - branch: stable
-  date: '2023-04-18'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-18.04.2023/fw_sunstone_miui_SUNSTONE_V13.0.15.0.SMQCNXM_3c03194584_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sunstone/fw_sunstone_miui_SUNSTONE_V13.0.15.0.SMQCNXM_3c03194584_12.0.zip
-  filename: fw_sunstone_miui_SUNSTONE_V13.0.15.0.SMQCNXM_3c03194584_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-12.05.2023/fw_sunstone_miui_SUNSTONE_V14.0.4.0.TMQCNXM_a070ee4d67_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONE_V14.0.4.0.TMQCNXM_a070ee4d67_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONE_V14.0.4.0.TMQCNXM_a070ee4d67_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.15.0.SMQCNXM
+    android: '13.0'
+    miui: V14.0.4.0.TMQCNXM
 - branch: stable
   date: '2023-05-11'
   downloads:
@@ -5289,15 +5289,15 @@
     android: '13.0'
     miui: V14.0.4.0.TLPCNXM
 - branch: stable
-  date: '2023-05-01'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-01.05.2023/fw_ziyi_miui_ZIYIGlobal_V14.0.4.0.SLLMIXM_d38033809d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ziyi/fw_ziyi_miui_ZIYIGlobal_V14.0.4.0.SLLMIXM_d38033809d_12.0.zip
-  filename: fw_ziyi_miui_ZIYIGlobal_V14.0.4.0.SLLMIXM_d38033809d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-12.05.2023/fw_ziyi_miui_ZIYIGlobal_V14.0.1.0.TLLMIXM_e6aa6b27b2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ziyi/fw_ziyi_miui_ZIYIGlobal_V14.0.1.0.TLLMIXM_e6aa6b27b2_13.0.zip
+  filename: fw_ziyi_miui_ZIYIGlobal_V14.0.1.0.TLLMIXM_e6aa6b27b2_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V14.0.4.0.SLLMIXM
+    android: '13.0'
+    miui: V14.0.1.0.TLLMIXM
 - branch: stable
   date: '2023-03-15'
   downloads:

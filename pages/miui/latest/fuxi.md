@@ -52,10 +52,10 @@ permalink: /miui/fuxi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.21.0.TMCCNXM</td><td>13.0</td><td>8.3 GB</td><td>2023-02-27</td><td><a href="/miui/fuxi/stable/V14.0.21.0.TMCCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.24.0.TMCCNXM</td><td>13.0</td><td>8.3 GB</td><td>2023-04-20</td><td><a href="/miui/fuxi/stable/V14.0.24.0.TMCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 China</td><td>Stable</td><td>Recovery</td><td>V14.0.24.0.TMCCNXM</td><td>13.0</td><td>6.7 GB</td><td>2023-04-23</td><td><a href="/miui/fuxi/stable/V14.0.24.0.TMCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.25.DEV</td><td>13.0</td><td>6.5 GB</td><td>2023-04-28</td><td><a href="/miui/fuxi/public beta/V14.0.23.4.25.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 13 China</td><td>Stable</td><td>Recovery</td><td>V14.0.23.0.TMCCNXM</td><td>13.0</td><td>6.6 GB</td><td>2023-04-19</td><td><a href="/miui/fuxi/stable/V14.0.23.0.TMCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.24.0.TMCCNXM</td><td>13.0</td><td>6.7 GB</td><td>2023-04-23</td><td><a href="/miui/fuxi/stable beta/V14.0.24.0.TMCCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TMCCNXM</td><td>13.0</td><td>6.7 GB</td><td>2022-12-31</td><td><a href="/miui/fuxi/stable beta/V14.0.11.0.TMCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.22.0.TMCEUXM</td><td>13.0</td><td>7.5 GB</td><td>2023-04-14</td><td><a href="/miui/fuxi/stable/V14.0.22.0.TMCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.22.0.TMCEUXM</td><td>13.0</td><td>5.8 GB</td><td>2023-04-19</td><td><a href="/miui/fuxi/stable/V14.0.22.0.TMCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TMCMIXM</td><td>13.0</td><td>7.5 GB</td><td>2023-04-14</td><td><a href="/miui/fuxi/stable/V14.0.7.0.TMCMIXM/">Download</a></td></tr>

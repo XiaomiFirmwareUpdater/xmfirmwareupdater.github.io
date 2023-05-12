@@ -1,10 +1,10 @@
 - branch: stable
-  date: '2022-12-08'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-08.12.2022/fw_excalibur_miui_EXCALIBURINGlobal_V13.0.2.0.SJXINXM_5647f6f4a8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V13.0.2.0.SJXINXM_5647f6f4a8_12.0.zip
-  filename: fw_excalibur_miui_EXCALIBURINGlobal_V13.0.2.0.SJXINXM_5647f6f4a8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_excalibur/releases/download/stable-12.05.2023/fw_excalibur_miui_EXCALIBURINGlobal_V14.0.2.0.SJXINXM_19c8eaf37a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/excalibur/fw_excalibur_miui_EXCALIBURINGlobal_V14.0.2.0.SJXINXM_19c8eaf37a_12.0.zip
+  filename: fw_excalibur_miui_EXCALIBURINGlobal_V14.0.2.0.SJXINXM_19c8eaf37a_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.2.0.SJXINXM
+    miui: V14.0.2.0.SJXINXM

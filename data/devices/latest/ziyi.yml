@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-05-01'
+  date: '2023-05-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-01.05.2023/fw_ziyi_miui_ZIYIGlobal_V14.0.4.0.SLLMIXM_d38033809d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ziyi/fw_ziyi_miui_ZIYIGlobal_V14.0.4.0.SLLMIXM_d38033809d_12.0.zip
-  filename: fw_ziyi_miui_ZIYIGlobal_V14.0.4.0.SLLMIXM_d38033809d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-12.05.2023/fw_ziyi_miui_ZIYIGlobal_V14.0.1.0.TLLMIXM_e6aa6b27b2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ziyi/fw_ziyi_miui_ZIYIGlobal_V14.0.1.0.TLLMIXM_e6aa6b27b2_13.0.zip
+  filename: fw_ziyi_miui_ZIYIGlobal_V14.0.1.0.TLLMIXM_e6aa6b27b2_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V14.0.4.0.SLLMIXM
+    android: '13.0'
+    miui: V14.0.1.0.TLLMIXM
 - branch: stable
   date: '2023-03-15'
   downloads:

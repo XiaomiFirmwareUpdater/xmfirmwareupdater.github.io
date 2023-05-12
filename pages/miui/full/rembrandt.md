@@ -52,7 +52,8 @@ permalink: /archive/miui/rembrandt/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60E China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TMMCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-04-25</td><td><a href="/miui/rembrandt/stable beta/V14.0.1.0.TMMCNXM/">Download</a></td></tr>
+                <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TMMCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-04-25</td><td><a href="/miui/rembrandt/stable/V14.0.1.0.TMMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TMMCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-04-14</td><td><a href="/miui/rembrandt/stable/V14.0.1.0.TMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SMMCNXM</td><td>12.0</td><td>5.6 GB</td><td>2023-02-22</td><td><a href="/miui/rembrandt/stable/V13.0.5.0.SMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SMMCNXM</td><td>12.0</td><td>7.1 GB</td><td>2023-02-16</td><td><a href="/miui/rembrandt/stable/V13.0.5.0.SMMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60E China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SMMCNXM</td><td>12.0</td><td>5.7 GB</td><td>2023-01-13</td><td><a href="/miui/rembrandt/stable/V13.0.4.0.SMMCNXM/">Download</a></td></tr>
