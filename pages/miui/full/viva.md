@@ -52,13 +52,15 @@ permalink: /archive/miui/viva/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TGDEUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-05-06</td><td><a href="/miui/viva/stable beta/V14.0.1.0.TGDEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SGDIDXM</td><td>12.0</td><td>3.1 GB</td><td>2023-05-11</td><td><a href="/miui/viva/stable beta/V13.0.7.0.SGDIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TGDEUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-05-06</td><td><a href="/miui/viva/stable beta/V14.0.1.0.TGDEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SGDTRXM</td><td>12.0</td><td>3.1 GB</td><td>2023-03-15</td><td><a href="/miui/viva/stable beta/V13.0.3.0.SGDTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SGDEUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-03-15</td><td><a href="/miui/viva/stable/V13.0.3.0.SGDEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SGDEUXM</td><td>12.0</td><td>5.9 GB</td><td>2023-03-02</td><td><a href="/miui/viva/stable/V13.0.3.0.SGDEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SGDMIXM</td><td>12.0</td><td>3.2 GB</td><td>2023-02-17</td><td><a href="/miui/viva/stable/V13.0.6.0.SGDMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SGDMIXM</td><td>12.0</td><td>6.1 GB</td><td>2023-02-06</td><td><a href="/miui/viva/stable/V13.0.6.0.SGDMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 4G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SGDIDXM</td><td>12.0</td><td>3.1 GB</td><td>2023-02-16</td><td><a href="/miui/viva/stable beta/V13.0.6.0.SGDIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SGDIDXM</td><td>12.0</td><td>3.1 GB</td><td>2023-02-16</td><td><a href="/miui/viva/stable/V13.0.6.0.SGDIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SGDIDXM</td><td>12.0</td><td>5.7 GB</td><td>2023-02-10</td><td><a href="/miui/viva/stable/V13.0.6.0.SGDIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SGDRUXM</td><td>12.0</td><td>3.1 GB</td><td>2023-02-16</td><td><a href="/miui/viva/stable/V13.0.2.0.SGDRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SGDRUXM</td><td>12.0</td><td>5.5 GB</td><td>2023-02-10</td><td><a href="/miui/viva/stable/V13.0.2.0.SGDRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SGDTRXM</td><td>12.0</td><td>3.1 GB</td><td>2022-12-20</td><td><a href="/miui/viva/stable beta/V13.0.2.0.SGDTRXM/">Download</a></td></tr>
