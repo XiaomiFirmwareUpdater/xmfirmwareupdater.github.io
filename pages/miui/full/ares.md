@@ -52,7 +52,8 @@ permalink: /archive/miui/ares/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.17.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-04-21</td><td><a href="/miui/ares/public beta/V14.0.23.4.17.DEV/">Download</a></td></tr>
+                <tr><td>POCO F3 GT India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKJINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-05-10</td><td><a href="/miui/ares/stable beta/V14.0.3.0.TKJINXM/">Download</a></td></tr>
+<tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.17.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-04-21</td><td><a href="/miui/ares/public beta/V14.0.23.4.17.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKJCNXM</td><td>13.0</td><td>4.3 GB</td><td>2023-04-17</td><td><a href="/miui/ares/stable/V14.0.3.0.TKJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKJCNXM</td><td>13.0</td><td>6.4 GB</td><td>2023-04-04</td><td><a href="/miui/ares/stable/V14.0.3.0.TKJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.10.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-04-14</td><td><a href="/miui/ares/public beta/V14.0.23.4.10.DEV/">Download</a></td></tr>
@@ -63,7 +64,8 @@ permalink: /archive/miui/ares/
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>4.1 GB</td><td>2023-03-03</td><td><a href="/miui/ares/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.21.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-02-24</td><td><a href="/miui/ares/public beta/V14.0.23.2.21.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.13.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-02-17</td><td><a href="/miui/ares/public beta/V14.0.23.2.13.DEV/">Download</a></td></tr>
-<tr><td>POCO F3 GT India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKJINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-16</td><td><a href="/miui/ares/stable beta/V14.0.1.0.TKJINXM/">Download</a></td></tr>
+<tr><td>POCO F3 GT India</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKJINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-16</td><td><a href="/miui/ares/stable/V14.0.1.0.TKJINXM/">Download</a></td></tr>
+<tr><td>POCO F3 GT India</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKJINXM</td><td>13.0</td><td>4.9 GB</td><td>2023-02-03</td><td><a href="/miui/ares/stable/V14.0.1.0.TKJINXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.6.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-02-10</td><td><a href="/miui/ares/public beta/V14.0.23.2.6.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.30.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-02-03</td><td><a href="/miui/ares/public beta/V14.0.23.1.30.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.9.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-01-13</td><td><a href="/miui/ares/public beta/V14.0.23.1.9.DEV/">Download</a></td></tr>
@@ -75,13 +77,13 @@ permalink: /archive/miui/ares/
 <tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.5 GB</td><td>2022-12-05</td><td><a href="/miui/ares/stable/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>POCO F3 GT India</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKJINXM</td><td>12.0</td><td>3.4 GB</td><td>2022-11-19</td><td><a href="/miui/ares/stable/V13.0.5.0.SKJINXM/">Download</a></td></tr>
 <tr><td>POCO F3 GT India</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKJINXM</td><td>12.0</td><td>4.3 GB</td><td>2022-11-11</td><td><a href="/miui/ares/stable/V13.0.5.0.SKJINXM/">Download</a></td></tr>
+<tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKJCNXM</td><td>13.0</td><td>4.3 GB</td><td>2023-02-08</td><td><a href="/miui/ares/stable/V14.0.2.0.TKJCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKJCNXM</td><td>13.0</td><td>6.5 GB</td><td>2023-01-31</td><td><a href="/miui/ares/stable/V14.0.2.0.TKJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-10-28</td><td><a href="/miui/ares/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SKJCNXM</td><td>12.0</td><td>4.6 GB</td><td>2022-10-26</td><td><a href="/miui/ares/stable/V13.0.9.0.SKJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SKJCNXM</td><td>12.0</td><td>6.0 GB</td><td>2022-10-17</td><td><a href="/miui/ares/stable/V13.0.9.0.SKJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-09-30</td><td><a href="/miui/ares/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.19.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-09-23</td><td><a href="/miui/ares/public beta/V13.1.22.9.19.DEV/">Download</a></td></tr>
-<tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKJCNXM</td><td>13.0</td><td>4.3 GB</td><td>2023-02-08</td><td><a href="/miui/ares/stable/V14.0.2.0.TKJCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40 Gaming China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKJCNXM</td><td>13.0</td><td>6.5 GB</td><td>2023-01-31</td><td><a href="/miui/ares/stable/V14.0.2.0.TKJCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.13.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-09-16</td><td><a href="/miui/ares/public beta/V13.1.22.9.13.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-09-09</td><td><a href="/miui/ares/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Gaming China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.29.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-09-02</td><td><a href="/miui/ares/public beta/V13.1.22.8.29.DEV/">Download</a></td></tr>

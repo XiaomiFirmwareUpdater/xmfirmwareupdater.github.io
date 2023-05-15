@@ -78,6 +78,12 @@
   version: V14.0.3.0.TKJCNXM
 - android: '13.0'
   codename: ares
+  date: '2023-05-15'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKJINXM/fw_ares_miui_ARESINGlobal_V14.0.3.0.TKJINXM_6f42b74c21_13.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: V14.0.3.0.TKJINXM
+- android: '13.0'
+  codename: ares
   date: '2023-02-11'
   download: https://bigota.d.miui.com/V14.0.2.0.TKJCNXM/fw_ares_miui_ARES_V14.0.2.0.TKJCNXM_36a3687cce_13.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
@@ -618,6 +624,12 @@
   version: V14.0.5.0.TKOCNXM
 - android: '13.0'
   codename: lisa
+  date: '2023-05-15'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKOINXM/fw_lisa_miui_LISAINGlobal_V14.0.5.0.TKOINXM_80e214deb0_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.5.0.TKOINXM
+- android: '13.0'
+  codename: lisa
   date: '2023-05-12'
   download: https://bigota.d.miui.com/V14.0.8.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -1132,6 +1144,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_V14.0.1.0.TMSEUXM_54ce695850_13.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: V14.0.1.0.TMSEUXM
+- android: '13.0'
+  codename: redwood
+  date: '2023-05-15'
+  download: https://bigota.d.miui.com/V14.0.1.0.TMSINXM/fw_redwood_miui_REDWOODINGlobal_V14.0.1.0.TMSINXM_78c7594286_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.1.0.TMSINXM
 - android: '12.0'
   codename: redwood
   date: '2023-03-14'
@@ -1320,6 +1338,12 @@
   version: V14.0.2.0.SMOMIXM
 - android: '12.0'
   codename: ruby
+  date: '2023-05-15'
+  download: https://bigota.d.miui.com/V14.0.4.0.SMOCNXM/fw_ruby_miui_RUBY_V14.0.4.0.SMOCNXM_c5b34104b1_12.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.4.0.SMOCNXM
+- android: '12.0'
+  codename: ruby
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.3.0.SMOCNXM/fw_ruby_miui_RUBY_V14.0.3.0.SMOCNXM_9ba641ef47_12.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -1378,6 +1402,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TKAEUXM/fw_star_miui_STAREEAGlobal_V14.0.3.0.TKAEUXM_39d6121a64_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V14.0.3.0.TKAEUXM
+- android: '13.0'
+  codename: star
+  date: '2023-05-15'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKAMIXM/fw_star_miui_STARGlobal_V14.0.2.0.TKAMIXM_3c9bb8ae88_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.2.0.TKAMIXM
 - android: '13.0'
   codename: star
   date: '2023-03-14'
@@ -1660,6 +1690,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKDINXM/fw_vili_miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip
   name: Xiaomi 11T Pro
   version: V14.0.1.0.TKDINXM
+- android: '13.0'
+  codename: vili
+  date: '2023-05-15'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKDMIXM/fw_vili_miui_VILIGlobal_V14.0.2.0.TKDMIXM_a419b72ee9_13.0.zip
+  name: Xiaomi 11T Pro
+  version: V14.0.2.0.TKDMIXM
 - android: '13.0'
   codename: vili
   date: '2023-03-15'
