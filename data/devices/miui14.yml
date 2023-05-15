@@ -204,6 +204,12 @@
   version: V14.0.1.0.TJAEUXM
 - android: '13.0'
   codename: cmi
+  date: '2023-05-15'
+  download: https://bigota.d.miui.com/V14.0.3.0.TJACNXM/fw_cmi_miui_CMI_V14.0.3.0.TJACNXM_03a653ca7b_13.0.zip
+  name: Mi 10 Pro
+  version: V14.0.3.0.TJACNXM
+- android: '13.0'
+  codename: cmi
   date: '2023-05-09'
   download: https://bigota.d.miui.com/V14.0.3.0.TJAMIXM/fw_cmi_miui_CMIGlobal_V14.0.3.0.TJAMIXM_911f5f8a5c_13.0.zip
   name: Mi 10 Pro
@@ -1606,6 +1612,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TJBCNXM/fw_umi_miui_UMI_V14.0.2.0.TJBCNXM_6d38dfc521_13.0.zip
   name: Mi 10
   version: V14.0.2.0.TJBCNXM
+- android: '13.0'
+  codename: umi
+  date: '2023-05-15'
+  download: https://bigota.d.miui.com/V14.0.3.0.TJBCNXM/fw_umi_miui_UMI_V14.0.3.0.TJBCNXM_cb59eddd11_13.0.zip
+  name: Mi 10
+  version: V14.0.3.0.TJBCNXM
 - android: '13.0'
   codename: umi
   date: '2023-05-09'
