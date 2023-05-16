@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 16 May 2023 18:47:36 +0900</pubDate>
+  <pubDate>Wed, 17 May 2023 00:56:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11R (lightcm) - V14.0.4.0.TLSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lightcm</link>
+    <pubDate>Wed, 17 May 2023 00:56:07 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12T (plato) - V14.0.8.0.TLQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
@@ -100,11 +105,6 @@
     <title>POCO M2 Pro (gram) - V14.0.3.0.SJPINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gram</link>
     <pubDate>Sat, 13 May 2023 00:29:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro Max (excalibur) - V14.0.2.0.SJXINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/excalibur</link>
-    <pubDate>Sat, 13 May 2023 00:28:18 +0900</pubDate>
   </item>
     </channel>
 </rss>
