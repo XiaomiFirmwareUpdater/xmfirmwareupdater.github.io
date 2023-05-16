@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 15 May 2023 18:28:02 +0900</pubDate>
+  <pubDate>Tue, 16 May 2023 12:58:44 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.6.0.SMOMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ruby</link>
+    <pubDate>Tue, 16 May 2023 12:58:44 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V14.0.5.0.TKXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Tue, 16 May 2023 12:38:49 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V14.0.3.0.TJBCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -95,16 +105,6 @@
     <title>POCO M3 (citrus) - V14.0.2.0.SJFINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
     <pubDate>Sat, 13 May 2023 00:27:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.6.0.SMQMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
-    <pubDate>Fri, 12 May 2023 01:09:01 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.7.0.SMQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
-    <pubDate>Fri, 12 May 2023 00:43:54 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -2829,15 +2829,15 @@
     android: '11.0'
     miui: 22.3.23
 - branch: stable
-  date: '2023-03-26'
+  date: '2023-05-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-26.03.2023/fw_nabu_miui_NABUEEAGlobal_V14.0.4.0.TKXEUXM_efe42c6261_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUEEAGlobal_V14.0.4.0.TKXEUXM_efe42c6261_13.0.zip
-  filename: fw_nabu_miui_NABUEEAGlobal_V14.0.4.0.TKXEUXM_efe42c6261_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-16.05.2023/fw_nabu_miui_NABUEEAGlobal_V14.0.5.0.TKXEUXM_81d00ede6e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUEEAGlobal_V14.0.5.0.TKXEUXM_81d00ede6e_13.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V14.0.5.0.TKXEUXM_81d00ede6e_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TKXEUXM
+    miui: V14.0.5.0.TKXEUXM
 - branch: stable
   date: '2023-03-31'
   downloads:
@@ -3919,15 +3919,15 @@
     android: '13.0'
     miui: V14.0.6.0.TLNCNXM
 - branch: stable
-  date: '2023-03-23'
+  date: '2023-05-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-24.03.2023/fw_ruby_miui_RUBYGlobal_V14.0.2.0.SMOMIXM_4bbfd34dc6_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYGlobal_V14.0.2.0.SMOMIXM_4bbfd34dc6_12.0.zip
-  filename: fw_ruby_miui_RUBYGlobal_V14.0.2.0.SMOMIXM_4bbfd34dc6_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-16.05.2023/fw_ruby_miui_RUBYGlobal_V14.0.6.0.SMOMIXM_8d6c74adfa_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYGlobal_V14.0.6.0.SMOMIXM_8d6c74adfa_12.0.zip
+  filename: fw_ruby_miui_RUBYGlobal_V14.0.6.0.SMOMIXM_8d6c74adfa_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V14.0.2.0.SMOMIXM
+    miui: V14.0.6.0.SMOMIXM
 - branch: stable
   date: '2023-05-15'
   downloads:
