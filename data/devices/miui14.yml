@@ -1098,6 +1098,12 @@
   version: V14.0.4.0.TLQMIXM
 - android: '13.0'
   codename: plato
+  date: '2023-05-16'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.8.0.TLQEUXM_3068ec4f5e_13.0.zip
+  name: Xiaomi 12T
+  version: V14.0.8.0.TLQEUXM
+- android: '13.0'
+  codename: plato
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.3.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.3.0.TLQEUXM_8cc1d822a7_13.0.zip
   name: Xiaomi 12T

@@ -43629,6 +43629,16 @@
     android: '13.0'
     miui: V14.0.4.0.TLQMIXM
 - branch: stable
+  date: '2023-05-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-16.05.2023/fw_plato_miui_PLATOEEAGlobal_V14.0.8.0.TLQEUXM_3068ec4f5e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/plato/fw_plato_miui_PLATOEEAGlobal_V14.0.8.0.TLQEUXM_3068ec4f5e_13.0.zip
+  filename: fw_plato_miui_PLATOEEAGlobal_V14.0.8.0.TLQEUXM_3068ec4f5e_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.8.0.TLQEUXM
+- branch: stable
   date: '2023-03-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-14.03.2023/fw_plato_miui_PLATOEEAGlobal_V14.0.3.0.TLQEUXM_8cc1d822a7_13.0.zip
@@ -62908,16 +62918,6 @@
   versions:
     android: '8.1'
     miui: 8.12.20
-- branch: weekly
-  date: '2018-12-14'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_wayne/releases/download/weekly-14.12.2018/fw_wayne_miui_MI6X_8.12.13_51ba02ea09_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.13/wayne/fw_wayne_miui_MI6X_8.12.13_51ba02ea09_8.1.zip
-  filename: fw_wayne_miui_MI6X_8.12.13_51ba02ea09_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.12.13
 - branch: stable
   date: '2018-12-04'
   downloads:
