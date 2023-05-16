@@ -1578,6 +1578,12 @@
   version: 21.11.3
 - android: '11.0'
   codename: camellia
+  date: '2021-08-05'
+  download: https://bigota.d.miui.com/21.8.4/miui_CAMELLIA_21.8.4_5b4189bfe1_11.0.zip
+  name: Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G
+  version: 21.8.4
+- android: '11.0'
+  codename: camellia
   date: '2021-09-03'
   download: https://bigota.d.miui.com/21.9.2/miui_CAMELLIA_21.9.2_6e98968e8e_11.0.zip
   name: Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G
