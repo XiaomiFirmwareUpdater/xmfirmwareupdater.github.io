@@ -336,6 +336,12 @@
   version: V14.0.1.0.TLFMIXM
 - android: '13.0'
   codename: diting
+  date: '2023-05-17'
+  download: https://bigota.d.miui.com/V14.0.9.1.TLFCNXM/fw_diting_miui_DITING_V14.0.9.1.TLFCNXM_47dad33248_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.9.1.TLFCNXM
+- android: '13.0'
+  codename: diting
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.5.0.TLFCNXM/fw_diting_miui_DITING_V14.0.5.0.TLFCNXM_997a43704e_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -526,6 +532,12 @@
   download: https://bigota.d.miui.com/V14.0.10.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.10.0.TMACNXM_2ec0d6548d_13.0.zip
   name: Xiaomi 13 Ultra
   version: V14.0.10.0.TMACNXM
+- android: '13.0'
+  codename: ishtar
+  date: '2023-05-17'
+  download: https://bigota.d.miui.com/V14.0.13.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.13.0.TMACNXM
 - android: '13.0'
   codename: ishtar
   date: '2023-05-06'
@@ -1654,6 +1666,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.8.0.TLECNXM_a5f58e9088_13.0.zip
   name: Xiaomi 12S Pro
   version: V14.0.8.0.TLECNXM
+- android: '13.0'
+  codename: unicorn
+  date: '2023-05-17'
+  download: https://bigota.d.miui.com/V14.0.8.2.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.8.2.TLECNXM_62a0cf79ff_13.0.zip
+  name: Xiaomi 12S Pro
+  version: V14.0.8.2.TLECNXM
 - android: '13.0'
   codename: unicorn
   date: '2023-03-15'

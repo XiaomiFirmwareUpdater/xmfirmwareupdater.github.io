@@ -57,9 +57,8 @@ permalink: /miui/citrus/
 <tr><td>POCO M3 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.QJFEUXM</td><td>10.0</td><td>2.5 GB</td><td>2020-11-27</td><td><a href="/miui/citrus/stable beta/V12.0.1.0.QJFEUXM/">Download</a></td></tr>
 <tr><td>POCO M3 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJFMIXM</td><td>12.0</td><td>5.2 GB</td><td>2023-03-30</td><td><a href="/miui/citrus/stable/V14.0.2.0.SJFMIXM/">Download</a></td></tr>
 <tr><td>POCO M3 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJFMIXM</td><td>12.0</td><td>3.3 GB</td><td>2023-04-07</td><td><a href="/miui/citrus/stable/V14.0.2.0.SJFMIXM/">Download</a></td></tr>
-<tr><td>POCO M3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJFIDXM</td><td>12.0</td><td>4.6 GB</td><td>2022-12-19</td><td><a href="/miui/citrus/stable/V13.0.1.0.SJFIDXM/">Download</a></td></tr>
-<tr><td>POCO M3 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJFIDXM</td><td>12.0</td><td>3.2 GB</td><td>2023-01-14</td><td><a href="/miui/citrus/stable/V13.0.1.0.SJFIDXM/">Download</a></td></tr>
-<tr><td>POCO M3 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJFIDXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-09</td><td><a href="/miui/citrus/stable beta/V14.0.2.0.SJFIDXM/">Download</a></td></tr>
+<tr><td>POCO M3 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJFIDXM</td><td>12.0</td><td>4.5 GB</td><td>2023-04-25</td><td><a href="/miui/citrus/stable/V14.0.2.0.SJFIDXM/">Download</a></td></tr>
+<tr><td>POCO M3 Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJFIDXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-09</td><td><a href="/miui/citrus/stable/V14.0.2.0.SJFIDXM/">Download</a></td></tr>
 <tr><td>POCO M3 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJFINXM</td><td>12.0</td><td>3.8 GB</td><td>2022-12-30</td><td><a href="/miui/citrus/stable/V13.0.1.0.SJFINXM/">Download</a></td></tr>
 <tr><td>POCO M3 India</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJFINXM</td><td>12.0</td><td>3.2 GB</td><td>2023-01-11</td><td><a href="/miui/citrus/stable/V13.0.1.0.SJFINXM/">Download</a></td></tr>
 <tr><td>POCO M3 India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJFINXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-09</td><td><a href="/miui/citrus/stable beta/V14.0.2.0.SJFINXM/">Download</a></td></tr>

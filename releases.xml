@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 17 May 2023 00:56:07 +0900</pubDate>
+  <pubDate>Thu, 18 May 2023 02:17:16 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12S Pro (unicorn) - V14.0.8.2.TLECNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/unicorn</link>
+    <pubDate>Thu, 18 May 2023 02:17:16 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 Ultra (ishtar) - V14.0.13.0.TMACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
+    <pubDate>Thu, 18 May 2023 01:38:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.9.1.TLFCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
+    <pubDate>Thu, 18 May 2023 01:01:49 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11R (lightcm) - V14.0.4.0.TLSCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lightcm</link>
@@ -90,21 +105,6 @@
     <title>Xiaomi 13 Pro (nuwa) - V14.0.8.0.TMBINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
     <pubDate>Sat, 13 May 2023 01:45:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 (nabu) - V14.0.4.0.TKXMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Sat, 13 May 2023 01:17:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.8.0.TKOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
-    <pubDate>Sat, 13 May 2023 00:56:38 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M2 Pro (gram) - V14.0.3.0.SJPINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gram</link>
-    <pubDate>Sat, 13 May 2023 00:29:38 +0900</pubDate>
   </item>
     </channel>
 </rss>
