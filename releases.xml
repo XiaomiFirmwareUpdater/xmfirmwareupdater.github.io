@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 19 May 2023 01:06:54 +0900</pubDate>
+  <pubDate>Fri, 19 May 2023 06:29:56 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.2.0.SJSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
+    <pubDate>Fri, 19 May 2023 06:29:56 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K40S/POCO F4 (munch) - V14.0.6.0.TLMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.5.0.SKEINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
     <pubDate>Sun, 14 May 2023 18:42:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.1.0.TLLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
-    <pubDate>Sat, 13 May 2023 02:33:25 +0900</pubDate>
   </item>
     </channel>
 </rss>
