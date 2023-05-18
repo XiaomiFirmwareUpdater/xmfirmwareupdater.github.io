@@ -906,6 +906,12 @@
   version: V14.0.2.0.TLMMIXM
 - android: '13.0'
   codename: munch
+  date: '2023-05-18'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLMCNXM/fw_munch_miui_MUNCH_V14.0.6.0.TLMCNXM_80538845fe_13.0.zip
+  name: Redmi K40S/POCO F4
+  version: V14.0.6.0.TLMCNXM
+- android: '13.0'
+  codename: munch
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.5.0.TLMCNXM/fw_munch_miui_MUNCH_V14.0.5.0.TLMCNXM_80e98ce64f_13.0.zip
   name: Redmi K40S/POCO F4
