@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 19 May 2023 06:29:56 +0900</pubDate>
+  <pubDate>Fri, 19 May 2023 19:15:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12 4G NFC (topaz) - V14.0.3.0.TMGMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/topaz</link>
+    <pubDate>Fri, 19 May 2023 19:15:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 4G (tapas) - V14.0.7.0.TMTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
+    <pubDate>Fri, 19 May 2023 18:47:08 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.2.0.SJSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
@@ -95,16 +105,6 @@
     <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.5.0.TKOINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
     <pubDate>Mon, 15 May 2023 13:12:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Gaming/POCO F3 GT (ares) - V14.0.3.0.TKJINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ares</link>
-    <pubDate>Mon, 15 May 2023 12:46:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V13.0.5.0.SKEINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
-    <pubDate>Sun, 14 May 2023 18:42:35 +0900</pubDate>
   </item>
     </channel>
 </rss>
