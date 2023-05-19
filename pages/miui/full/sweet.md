@@ -53,6 +53,7 @@ permalink: /archive/miui/sweet/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 12 Pro 4G Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.RHGMIXM</td><td>11.0</td><td>3.7 GB</td><td>2023-05-16</td><td><a href="/miui/sweet/stable beta/V13.0.3.0.RHGMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKFEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-16</td><td><a href="/miui/sweet/stable beta/V14.0.3.0.TKFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro 4G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.RHGEUXM</td><td>11.0</td><td>3.7 GB</td><td>2023-05-12</td><td><a href="/miui/sweet/stable/V13.0.4.0.RHGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro 4G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.RHGEUXM</td><td>11.0</td><td>6.1 GB</td><td>2023-04-26</td><td><a href="/miui/sweet/stable/V13.0.4.0.RHGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro 4G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.RHGMIXM</td><td>11.0</td><td>3.7 GB</td><td>2023-05-04</td><td><a href="/miui/sweet/stable/V13.0.2.0.RHGMIXM/">Download</a></td></tr>
