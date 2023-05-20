@@ -26,7 +26,6 @@ lijit.com, 305268-eb, DIRECT, fafdf38b16bf6b2b
 152media.info, 152M354, DIRECT
 152media.info, 152M353, DIRECT
 inmobi.com, 0c5a288c5bc842bbac20f6cd0ddb0098, DIRECT, 83e75a7ae333ca9d
-google.com, pub-6839973589095521, RESELLER, f08c47fec0942fa0
 google.com, pub-9035087792692775, DIRECT, f08c47fec0942fa0
 google.com, pub-9035087792692775, RESELLER, f08c47fec0942fa0
 webtvasia.com, 21766281334, DIRECT
@@ -443,6 +442,8 @@ google.com, pub-7273072144264916, DIRECT, f08c47fec0942fa0
 google.com, pub-3784779432172338, DIRECT, f08c47fec0942fa0
 google.com, pub-9550021008970935, DIRECT, f08c47fec0942fa0
 google.com, pub-8746322920248816, DIRECT, f08c47fec0942fa0
+google.com, pub-5777685267299481, DIRECT, f08c47fec0942fa0
+google.com, pub-1229216416158224, DIRECT, f08c47fec0942fa0
 google.com, pub-3275635049946283, DIRECT, f08c47fec0942fa0
 google.com, pub-6839535264630930, DIRECT, f08c47fec0942fa0
 google.com, pub-3082303125116831, DIRECT, f08c47fec0942fa0
@@ -520,10 +521,6 @@ districtm.io, 101984, RESELLER, 3fd707be9c4527c3
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 e-planning.net,ec771b05828a67fa,RESELLER,c1ba615865ed87b2
 sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
-xapads.com, 139660, DIRECT
-google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
-pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
-contextweb.com, 562842, RESELLER, 89ff185a4c4e857c
-freewheel.tv, 1581157, RESELLER
-freewheel.tv, 1581210, RESELLER
+OWNERDOMAIN=xiaomifirmwareupdater.com
+MANAGERDOMAIN=pubpower.io
 #VLI END
