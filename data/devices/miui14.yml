@@ -1338,6 +1338,12 @@
   version: V14.0.1.0.TLUEUXM
 - android: '13.0'
   codename: rock
+  date: '2023-05-21'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLUMIXM/fw_rock_miui_ROCKGlobal_V14.0.7.0.TLUMIXM_b16d8555c3_13.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: V14.0.7.0.TLUMIXM
+- android: '13.0'
+  codename: rock
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.6.0.TLUMIXM/fw_rock_miui_ROCKGlobal_V14.0.6.0.TLUMIXM_b64ad54537_13.0.zip
   name: POCO M5/Redmi 11 Prime 4G
