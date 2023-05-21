@@ -96,6 +96,12 @@
   version: V14.0.1.0.TKJINXM
 - android: '13.0'
   codename: biloba
+  date: '2023-05-21'
+  download: https://bigota.d.miui.com/V14.0.4.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
+  name: Redmi Note 8 (2021)
+  version: V14.0.4.0.TCUMIXM
+- android: '13.0'
+  codename: biloba
   date: '2023-04-14'
   download: https://bigota.d.miui.com/V14.0.3.0.TCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V14.0.3.0.TCUEUXM_1871c59e8d_13.0.zip
   name: Redmi Note 8 (2021)
@@ -586,6 +592,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLSMIXM/fw_light_miui_LIGHTGlobal_V14.0.3.0.TLSMIXM_25b09dc22e_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.3.0.TLSMIXM
+- android: '13.0'
+  codename: light
+  date: '2023-05-21'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLSINXM/fw_light_miui_LIGHTINGlobal_V14.0.4.0.TLSINXM_6f0f2c6476_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.4.0.TLSINXM
 - android: '13.0'
   codename: light
   date: '2023-03-17'

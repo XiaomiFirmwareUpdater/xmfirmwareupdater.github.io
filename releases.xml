@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 22 May 2023 00:49:38 +0900</pubDate>
+  <pubDate>Mon, 22 May 2023 06:54:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G (light) - V14.0.4.0.TLSINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/light</link>
+    <pubDate>Mon, 22 May 2023 06:54:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 8 (2021) (biloba) - V14.0.4.0.TCUMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/biloba</link>
+    <pubDate>Mon, 22 May 2023 06:37:43 +0900</pubDate>
+  </item>
     <item>
     <title>POCO M5/Redmi 11 Prime 4G (rock) - V14.0.7.0.TLUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/rock</link>
@@ -95,16 +105,6 @@
     <title>Mi 10 Pro (cmi) - V14.0.3.0.TJACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cmi</link>
     <pubDate>Mon, 15 May 2023 18:26:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V14.0.2.0.TKDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Mon, 15 May 2023 14:55:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.2.0.TKAMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Mon, 15 May 2023 14:30:33 +0900</pubDate>
   </item>
     </channel>
 </rss>
