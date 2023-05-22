@@ -2689,6 +2689,16 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
+  date: '2023-05-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-23.05.2023/fw_mondrian_miui_MONDRIANGlobal_V14.0.4.0.TMNMIXM_80961dabba_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIANGlobal_V14.0.4.0.TMNMIXM_80961dabba_13.0.zip
+  filename: fw_mondrian_miui_MONDRIANGlobal_V14.0.4.0.TMNMIXM_80961dabba_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMNMIXM
+- branch: stable
   date: '2023-05-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-02.05.2023/fw_mondrian_miui_MONDRIAN_V14.0.24.0.TMNCNXM_83451b42c4_13.0.zip
