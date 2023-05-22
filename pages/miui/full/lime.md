@@ -52,7 +52,8 @@ permalink: /archive/miui/lime/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 9T Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJQRUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-05-12</td><td><a href="/miui/lime/stable beta/V14.0.2.0.SJQRUXM/">Download</a></td></tr>
+                <tr><td>Redmi 9T EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.SJQEUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-05-17</td><td><a href="/miui/lime/stable beta/V14.0.3.0.SJQEUXM/">Download</a></td></tr>
+<tr><td>Redmi 9T Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJQRUXM</td><td>12.0</td><td>3.3 GB</td><td>2023-05-12</td><td><a href="/miui/lime/stable beta/V14.0.2.0.SJQRUXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJQTWXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-06</td><td><a href="/miui/lime/stable beta/V14.0.2.0.SJQTWXM/">Download</a></td></tr>
 <tr><td>Redmi 9T Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJQIDXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-06</td><td><a href="/miui/lime/stable beta/V14.0.2.0.SJQIDXM/">Download</a></td></tr>
 <tr><td>Redmi 9 Power India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJQINXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-04</td><td><a href="/miui/lime/stable beta/V14.0.2.0.SJQINXM/">Download</a></td></tr>

@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-03-17'
+  date: '2023-05-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-17.03.2023/fw_mojito_miui_MOJITOGlobal_V14.0.2.0.SKGMIXM_aa6b0021f8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOGlobal_V14.0.2.0.SKGMIXM_aa6b0021f8_12.0.zip
-  filename: fw_mojito_miui_MOJITOGlobal_V14.0.2.0.SKGMIXM_aa6b0021f8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-22.05.2023/fw_mojito_miui_MOJITOGlobal_V14.0.3.0.SKGMIXM_da45d2227a_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOGlobal_V14.0.3.0.SKGMIXM_da45d2227a_12.0.zip
+  filename: fw_mojito_miui_MOJITOGlobal_V14.0.3.0.SKGMIXM_da45d2227a_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V14.0.2.0.SKGMIXM
+    miui: V14.0.3.0.SKGMIXM
 - branch: stable
   date: '2023-04-27'
   downloads:
@@ -19,12 +19,12 @@
     android: '12.0'
     miui: V14.0.5.0.SKGEUXM
 - branch: stable
-  date: '2023-03-20'
+  date: '2023-05-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-20.03.2023/fw_mojito_miui_MOJITOINGlobal_V14.0.2.0.SKGINXM_70dc101f9d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOINGlobal_V14.0.2.0.SKGINXM_70dc101f9d_12.0.zip
-  filename: fw_mojito_miui_MOJITOINGlobal_V14.0.2.0.SKGINXM_70dc101f9d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mojito/releases/download/stable-22.05.2023/fw_mojito_miui_MOJITOINGlobal_V14.0.3.0.SKGINXM_29c9af6ff8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mojito/fw_mojito_miui_MOJITOINGlobal_V14.0.3.0.SKGINXM_29c9af6ff8_12.0.zip
+  filename: fw_mojito_miui_MOJITOINGlobal_V14.0.3.0.SKGINXM_29c9af6ff8_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V14.0.2.0.SKGINXM
+    miui: V14.0.3.0.SKGINXM
