@@ -52,7 +52,8 @@ permalink: /archive/miui/camellia/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10T 5G / POCO M3 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKSINXM</td><td>13.0</td><td>3.7 GB</td><td>2023-05-10</td><td><a href="/miui/camellia/stable beta/V14.0.2.0.TKSINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKSIDXM</td><td>13.0</td><td>3.8 GB</td><td>2023-05-18</td><td><a href="/miui/camellian/stable beta/V14.0.4.0.TKSIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10T 5G / POCO M3 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKSINXM</td><td>13.0</td><td>3.7 GB</td><td>2023-05-10</td><td><a href="/miui/camellia/stable beta/V14.0.2.0.TKSINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKSMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-05-05</td><td><a href="/miui/camellian/stable beta/V14.0.3.0.TKSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKSIDXM</td><td>13.0</td><td>3.8 GB</td><td>2023-04-24</td><td><a href="/miui/camellian/stable beta/V14.0.3.0.TKSIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKSEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-04-06</td><td><a href="/miui/camellian/stable/V14.0.1.0.TKSEUXM/">Download</a></td></tr>
@@ -70,13 +71,13 @@ permalink: /archive/miui/camellia/
 <tr><td>Redmi Note 10T / POCO M3 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKSRUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-02-02</td><td><a href="/miui/camellian/stable/V13.0.4.0.SKSRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10T / POCO M3 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SKSRUXM</td><td>12.0</td><td>5.5 GB</td><td>2023-01-03</td><td><a href="/miui/camellian/stable/V13.0.4.0.SKSRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10T 5G / POCO M3 Pro 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SKSINXM</td><td>12.0</td><td>3.1 GB</td><td>2023-01-17</td><td><a href="/miui/camellia/stable beta/V13.0.6.0.SKSINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G / Redmi Note 11SE China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKSCNXM</td><td>13.0</td><td>4.5 GB</td><td>2023-03-17</td><td><a href="/miui/camellia/stable/V14.0.2.0.TKSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G / Redmi Note 11SE China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKSCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-03-10</td><td><a href="/miui/camellia/stable/V14.0.2.0.TKSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SKSTRXM</td><td>12.0</td><td>3.2 GB</td><td>2023-01-13</td><td><a href="/miui/camellian/stable beta/V13.0.4.0.SKSTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKSIDXM</td><td>12.0</td><td>3.2 GB</td><td>2023-01-13</td><td><a href="/miui/camellian/stable/V13.0.5.0.SKSIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKSIDXM</td><td>12.0</td><td>5.5 GB</td><td>2022-12-29</td><td><a href="/miui/camellian/stable/V13.0.5.0.SKSIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Global</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKSMIXM</td><td>12.0</td><td>3.2 GB</td><td>2023-01-13</td><td><a href="/miui/camellian/stable/V13.0.5.0.SKSMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKSMIXM</td><td>12.0</td><td>6.0 GB</td><td>2022-12-28</td><td><a href="/miui/camellian/stable/V13.0.5.0.SKSMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 5G / Redmi Note 11SE China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKSCNXM</td><td>13.0</td><td>4.5 GB</td><td>2023-03-17</td><td><a href="/miui/camellia/stable/V14.0.2.0.TKSCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 10 5G / Redmi Note 11SE China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKSCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-03-10</td><td><a href="/miui/camellia/stable/V14.0.2.0.TKSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SKSEUXM</td><td>12.0</td><td>3.2 GB</td><td>2022-12-29</td><td><a href="/miui/camellian/stable/V13.0.7.0.SKSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SKSEUXM</td><td>12.0</td><td>6.0 GB</td><td>2022-12-22</td><td><a href="/miui/camellian/stable/V13.0.7.0.SKSEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G / Redmi Note 11SE China</td><td>Stable</td><td>Recovery</td><td>V13.0.9.0.SKSCNXM</td><td>12.0</td><td>4.0 GB</td><td>2022-12-05</td><td><a href="/miui/camellia/stable/V13.0.9.0.SKSCNXM/">Download</a></td></tr>

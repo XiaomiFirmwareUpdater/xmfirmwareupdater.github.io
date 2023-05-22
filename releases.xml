@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 22 May 2023 13:43:40 +0900</pubDate>
+  <pubDate>Mon, 22 May 2023 18:54:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 Pro 4G (viva) - V14.0.2.0.TGDMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
+    <pubDate>Mon, 22 May 2023 18:54:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 12C/POCO C55 (earth) - V13.0.3.0.SCVINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
+    <pubDate>Mon, 22 May 2023 18:36:43 +0900</pubDate>
+  </item>
     <item>
     <title>POCO X3 Pro (vayu) - V14.0.3.0.TJUMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
@@ -95,16 +105,6 @@
     <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.7.0.TKOEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
     <pubDate>Thu, 18 May 2023 18:45:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12S Pro (unicorn) - V14.0.8.2.TLECNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/unicorn</link>
-    <pubDate>Thu, 18 May 2023 02:17:16 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Ultra (ishtar) - V14.0.13.0.TMACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
-    <pubDate>Thu, 18 May 2023 01:38:59 +0900</pubDate>
   </item>
     </channel>
 </rss>

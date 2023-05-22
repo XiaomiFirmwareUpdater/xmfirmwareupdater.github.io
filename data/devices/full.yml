@@ -20539,6 +20539,16 @@
     android: '12.0'
     miui: V13.0.5.0.SCVMIXM
 - branch: stable
+  date: '2023-05-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.05.2023/fw_earth_miui_EARTHINGlobal_V13.0.3.0.SCVINXM_1bfad882c9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHINGlobal_V13.0.3.0.SCVINXM_1bfad882c9_12.0.zip
+  filename: fw_earth_miui_EARTHINGlobal_V13.0.3.0.SCVINXM_1bfad882c9_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SCVINXM
+- branch: stable
   date: '2023-02-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.02.2023/fw_earth_miui_EARTH_V13.0.5.0.SCVCNXM_7ff5e2ee27_12.0.zip
@@ -62708,6 +62718,16 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SGDMIXM
+- branch: stable
+  date: '2023-05-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-22.05.2023/fw_viva_miui_VIVAGlobal_V14.0.2.0.TGDMIXM_70e8af00f6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/viva/fw_viva_miui_VIVAGlobal_V14.0.2.0.TGDMIXM_70e8af00f6_13.0.zip
+  filename: fw_viva_miui_VIVAGlobal_V14.0.2.0.TGDMIXM_70e8af00f6_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TGDMIXM
 - branch: stable
   date: '2023-03-22'
   downloads:
