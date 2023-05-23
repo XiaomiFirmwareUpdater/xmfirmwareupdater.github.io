@@ -1789,15 +1789,15 @@
     android: '12.0'
     miui: V13.0.11.0.SGMEUXM
 - branch: stable
-  date: '2023-03-13'
+  date: '2023-05-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-13.03.2023/fw_ice_miui_ICEINGlobal_V13.0.9.0.SGMINXM_a97effad97_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEINGlobal_V13.0.9.0.SGMINXM_a97effad97_12.0.zip
-  filename: fw_ice_miui_ICEINGlobal_V13.0.9.0.SGMINXM_a97effad97_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-23.05.2023/fw_ice_miui_ICEINGlobal_V13.0.10.0.SGMINXM_46b61c36bf_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEINGlobal_V13.0.10.0.SGMINXM_46b61c36bf_12.0.zip
+  filename: fw_ice_miui_ICEINGlobal_V13.0.10.0.SGMINXM_46b61c36bf_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.9.0.SGMINXM
+    miui: V13.0.10.0.SGMINXM
 - branch: stable
   date: '2019-07-29'
   downloads:
@@ -4119,15 +4119,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2023-05-10'
+  date: '2023-05-23'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-10.05.2023/fw_sea_miui_SEAGlobal_V14.0.2.0.THZMIXM_6a0662aae6_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sea/fw_sea_miui_SEAGlobal_V14.0.2.0.THZMIXM_6a0662aae6_13.0.zip
-  filename: fw_sea_miui_SEAGlobal_V14.0.2.0.THZMIXM_6a0662aae6_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-23.05.2023/fw_sea_miui_SEAGlobal_V14.0.4.0.THZMIXM_6358f3d569_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sea/fw_sea_miui_SEAGlobal_V14.0.4.0.THZMIXM_6358f3d569_13.0.zip
+  filename: fw_sea_miui_SEAGlobal_V14.0.4.0.THZMIXM_6358f3d569_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.2.0.THZMIXM
+    miui: V14.0.4.0.THZMIXM
 - branch: stable
   date: '2023-05-10'
   downloads:

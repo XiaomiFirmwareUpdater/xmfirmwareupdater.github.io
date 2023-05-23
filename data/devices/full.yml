@@ -13948,16 +13948,6 @@
   versions:
     android: '8.1'
     miui: V10.1.1.0.ODJCNFI
-- branch: weekly
-  date: '2018-10-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/weekly-26.10.2018/fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/clover/fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip
-  filename: fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.10.25
 - branch: stable
   date: '2018-09-17'
   downloads:
@@ -26608,6 +26598,16 @@
   versions:
     android: '12.0'
     miui: V13.0.11.0.SGMMIXM
+- branch: stable
+  date: '2023-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ice/releases/download/stable-23.05.2023/fw_ice_miui_ICEINGlobal_V13.0.10.0.SGMINXM_46b61c36bf_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/ice/fw_ice_miui_ICEINGlobal_V13.0.10.0.SGMINXM_46b61c36bf_12.0.zip
+  filename: fw_ice_miui_ICEINGlobal_V13.0.10.0.SGMINXM_46b61c36bf_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.10.0.SGMINXM
 - branch: stable
   date: '2023-03-16'
   downloads:
@@ -50538,6 +50538,16 @@
   versions:
     android: '7.0'
     miui: 8.3.26
+- branch: stable
+  date: '2023-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-23.05.2023/fw_sea_miui_SEAGlobal_V14.0.4.0.THZMIXM_6358f3d569_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sea/fw_sea_miui_SEAGlobal_V14.0.4.0.THZMIXM_6358f3d569_13.0.zip
+  filename: fw_sea_miui_SEAGlobal_V14.0.4.0.THZMIXM_6358f3d569_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.THZMIXM
 - branch: stable
   date: '2023-05-10'
   downloads:
