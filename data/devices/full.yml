@@ -13948,6 +13948,16 @@
   versions:
     android: '8.1'
     miui: V10.1.1.0.ODJCNFI
+- branch: weekly
+  date: '2018-10-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_clover/releases/download/weekly-26.10.2018/fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.10.25/clover/fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip
+  filename: fw_clover_miui_MIPAD4_8.10.25_c87cfe25f8_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.10.25
 - branch: stable
   date: '2018-09-17'
   downloads:
