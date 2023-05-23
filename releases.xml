@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 23 May 2023 12:42:46 +0900</pubDate>
+  <pubDate>Tue, 23 May 2023 18:46:55 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.0.12.TGBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
+    <pubDate>Tue, 23 May 2023 18:46:55 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M3 (citrus) - V14.0.2.0.SJFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
+    <pubDate>Tue, 23 May 2023 18:25:24 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11S 5G (opal) - V14.0.2.0.TGLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/opal</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 12 4G (tapas) - V14.0.7.0.TMTMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
     <pubDate>Fri, 19 May 2023 18:47:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.2.0.SJSMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Fri, 19 May 2023 06:29:56 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40S/POCO F4 (munch) - V14.0.6.0.TLMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
-    <pubDate>Fri, 19 May 2023 01:06:54 +0900</pubDate>
   </item>
     </channel>
 </rss>

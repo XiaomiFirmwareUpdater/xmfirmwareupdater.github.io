@@ -13599,6 +13599,16 @@
     android: '11.0'
     miui: V12.5.5.0.RJFMIXM
 - branch: stable
+  date: '2023-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-23.05.2023/fw_citrus_miui_CITRUSEEAGlobal_V14.0.2.0.SJFEUXM_30b1d56aba_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/citrus/fw_citrus_miui_CITRUSEEAGlobal_V14.0.2.0.SJFEUXM_30b1d56aba_12.0.zip
+  filename: fw_citrus_miui_CITRUSEEAGlobal_V14.0.2.0.SJFEUXM_30b1d56aba_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V14.0.2.0.SJFEUXM
+- branch: stable
   date: '2021-04-23'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_citrus/releases/download/stable-23.04.2021/fw_citrus_miui_CITRUSINGlobal_V12.0.5.0.QJFINXM_defb8f7e08_10.0.zip
@@ -21518,6 +21528,16 @@
   versions:
     android: '12.0'
     miui: V13.0.6.0.SGBINXM
+- branch: stable
+  date: '2023-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-23.05.2023/fw_evergo_miui_EVERGO_V14.0.0.12.TGBCNXM_8ff1024913_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/evergo/fw_evergo_miui_EVERGO_V14.0.0.12.TGBCNXM_8ff1024913_13.0.zip
+  filename: fw_evergo_miui_EVERGO_V14.0.0.12.TGBCNXM_8ff1024913_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.0.12.TGBCNXM
 - branch: stable
   date: '2023-03-18'
   downloads:

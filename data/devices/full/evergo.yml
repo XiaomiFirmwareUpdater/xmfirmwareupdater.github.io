@@ -119,6 +119,16 @@
     android: '12.0'
     miui: V13.0.6.0.SGBINXM
 - branch: stable
+  date: '2023-05-23'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-23.05.2023/fw_evergo_miui_EVERGO_V14.0.0.12.TGBCNXM_8ff1024913_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/evergo/fw_evergo_miui_EVERGO_V14.0.0.12.TGBCNXM_8ff1024913_13.0.zip
+  filename: fw_evergo_miui_EVERGO_V14.0.0.12.TGBCNXM_8ff1024913_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.0.12.TGBCNXM
+- branch: stable
   date: '2023-03-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-18.03.2023/fw_evergo_miui_EVERGO_V12.5.13.0.RGBCNXM_020069c952_11.0.zip

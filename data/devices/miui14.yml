@@ -186,6 +186,12 @@
   version: V14.0.6.0.TKPCNXM
 - android: '12.0'
   codename: citrus
+  date: '2023-05-23'
+  download: https://bigota.d.miui.com/V14.0.2.0.SJFEUXM/fw_citrus_miui_CITRUSEEAGlobal_V14.0.2.0.SJFEUXM_30b1d56aba_12.0.zip
+  name: POCO M3
+  version: V14.0.2.0.SJFEUXM
+- android: '12.0'
+  codename: citrus
   date: '2023-05-12'
   download: https://bigota.d.miui.com/V14.0.2.0.SJFINXM/fw_citrus_miui_CITRUSINGlobal_V14.0.2.0.SJFINXM_e7db54b7cc_12.0.zip
   name: POCO M3
@@ -412,6 +418,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKZCNXM/fw_enuma_miui_ENUMA_V14.0.2.0.TKZCNXM_5d63060ce9_13.0.zip
   name: Xiaomi Pad 5 Pro 5G
   version: V14.0.2.0.TKZCNXM
+- android: '13.0'
+  codename: evergo
+  date: '2023-05-23'
+  download: https://bigota.d.miui.com/V14.0.0.12.TGBCNXM/fw_evergo_miui_EVERGO_V14.0.0.12.TGBCNXM_8ff1024913_13.0.zip
+  name: Redmi Note 11 5G/Redmi Note 11T 5G
+  version: V14.0.0.12.TGBCNXM
 - android: '12.0'
   codename: excalibur
   date: '2023-05-12'
