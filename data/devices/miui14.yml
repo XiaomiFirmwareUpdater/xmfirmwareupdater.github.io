@@ -1103,6 +1103,12 @@
   name: MIX 4
   version: V14.0.4.0.TKMCNXM
 - android: '13.0'
+  codename: opal
+  date: '2023-05-23'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGLEUXM/fw_opal_miui_OPALEEAGlobal_V14.0.2.0.TGLEUXM_824d082dcc_13.0.zip
+  name: Redmi Note 11S 5G
+  version: V14.0.2.0.TGLEUXM
+- android: '13.0'
   codename: pipa
   date: '2023-04-26'
   download: https://bigota.d.miui.com/V14.0.4.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.4.0.TMZCNXM_cde299f766_13.0.zip
