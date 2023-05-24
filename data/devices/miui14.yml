@@ -1523,6 +1523,12 @@
   name: Redmi Note 12S
   version: V14.0.2.0.THZMIXM
 - android: '13.0'
+  codename: selene
+  date: '2023-05-24'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKUCNXM/fw_selene_miui_SELENE_V14.0.2.0.TKUCNXM_f349844cfd_13.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V14.0.2.0.TKUCNXM
+- android: '13.0'
   codename: socrates
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.18.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.18.0.TMKCNXM_c30f543e79_13.0.zip
