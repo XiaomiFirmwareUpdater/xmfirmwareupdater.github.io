@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 24 May 2023 00:53:17 +0900</pubDate>
+  <pubDate>Wed, 24 May 2023 18:41:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.4.0.TKTEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
+    <pubDate>Wed, 24 May 2023 18:41:34 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 12S (sea) - V14.0.4.0.THZMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sea</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 12 4G NFC (topaz) - V14.0.8.0.TMGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/topaz</link>
     <pubDate>Sun, 21 May 2023 18:44:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 Pro/Redmi Note 12 Pro 4G (sweet) - V14.0.3.0.TKFEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sweet</link>
-    <pubDate>Sat, 20 May 2023 00:30:58 +0900</pubDate>
   </item>
     </channel>
 </rss>

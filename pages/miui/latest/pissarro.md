@@ -61,6 +61,7 @@ permalink: /miui/pissarro/
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Weekly</td><td>Recovery</td><td>22.10.26</td><td>12.0</td><td>4.8 GB</td><td>2022-10-27</td><td><a href="/miui/pissarro/weekly/22.10.26/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKTEUXM</td><td>13.0</td><td>6.3 GB</td><td>2023-03-12</td><td><a href="/miui/pissarro/stable/V14.0.3.0.TKTEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKTEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-03-21</td><td><a href="/miui/pissarro/stable/V14.0.3.0.TKTEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKTEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-05-21</td><td><a href="/miui/pissarro/stable beta/V14.0.4.0.TKTEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TKTMIXM</td><td>13.0</td><td>6.7 GB</td><td>2023-03-07</td><td><a href="/miui/pissarro/stable/V14.0.4.0.TKTMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TKTMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-03-16</td><td><a href="/miui/pissarro/stable/V14.0.4.0.TKTMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11i 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKTINFK</td><td>13.0</td><td>3.9 GB</td><td>2023-03-24</td><td><a href="/miui/pissarro/stable beta/V14.0.4.0.TKTINFK/">Download</a></td></tr>
@@ -71,12 +72,12 @@ permalink: /miui/pissarro/
 <tr><td>Redmi Note 11 Pro+ 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKTRUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-25</td><td><a href="/miui/pissarro/stable beta/V14.0.1.0.TKTRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKTTRXM</td><td>13.0</td><td>6.1 GB</td><td>2023-03-27</td><td><a href="/miui/pissarro/stable/V14.0.2.0.TKTTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKTTRXM</td><td>13.0</td><td>3.9 GB</td><td>2023-04-03</td><td><a href="/miui/pissarro/stable/V14.0.2.0.TKTTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKTINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-14</td><td><a href="/miui/pissarro/stable/V14.0.1.0.TKTINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro+ 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKTTRXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-24</td><td><a href="/miui/pissarro/stable beta/V14.0.1.0.TKTTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKTTWXM</td><td>12.0</td><td>5.3 GB</td><td>2022-09-23</td><td><a href="/miui/pissarro/stable/V13.0.2.0.SKTTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKTTWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-10-09</td><td><a href="/miui/pissarro/stable/V13.0.2.0.SKTTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Taiwan</td><td>Stable Beta</td><td>Fastboot</td><td>V14.0.3.0.TKTTWXM</td><td>13.0</td><td>5.5 GB</td><td>2023-03-06</td><td><a href="/miui/pissarro/stable beta/V14.0.3.0.TKTTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKTTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-03-11</td><td><a href="/miui/pissarro/stable beta/V14.0.3.0.TKTTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 11i / Hypercharge India</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKTINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-14</td><td><a href="/miui/pissarro/stable/V14.0.1.0.TKTINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro+ 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKTTRXM</td><td>13.0</td><td>3.9 GB</td><td>2023-02-24</td><td><a href="/miui/pissarro/stable beta/V14.0.1.0.TKTTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
