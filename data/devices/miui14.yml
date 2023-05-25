@@ -1896,6 +1896,12 @@
   version: V14.0.8.0.TKBCNXM
 - android: '13.0'
   codename: vili
+  date: '2023-05-25'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKDINXM/fw_vili_miui_VILIINGlobal_V14.0.3.0.TKDINXM_0b90dc1964_13.0.zip
+  name: Xiaomi 11T Pro
+  version: V14.0.3.0.TKDINXM
+- android: '13.0'
+  codename: vili
   date: '2023-03-21'
   download: https://bigota.d.miui.com/V14.0.1.0.TKDINXM/fw_vili_miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip
   name: Xiaomi 11T Pro
@@ -1936,6 +1942,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TGDEUXM/fw_viva_miui_VIVAEEAGlobal_V14.0.1.0.TGDEUXM_1fb18a2650_13.0.zip
   name: Redmi Note 11 Pro 4G
   version: V14.0.1.0.TGDEUXM
+- android: '13.0'
+  codename: water
+  date: '2023-05-25'
+  download: https://bigota.d.miui.com/V14.0.11.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.11.0.TGOMIXM_66556ac043_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.11.0.TGOMIXM
 - android: '13.0'
   codename: water
   date: '2023-03-23'
@@ -1984,6 +1996,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.1.0.TLOMIXM
+- android: '13.0'
+  codename: yuechu
+  date: '2023-05-25'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMICNXM/fw_yuechu_miui_YUECHU_V14.0.4.0.TMICNXM_957a8a2821_13.0.zip
+  name: Xiaomi Civi 3
+  version: V14.0.4.0.TMICNXM
 - android: '13.0'
   codename: yunluo
   date: '2023-04-26'

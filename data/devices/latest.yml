@@ -1369,15 +1369,15 @@
     android: '12.0'
     miui: V13.0.5.0.SKEINXM
 - branch: stable
-  date: '2023-04-10'
+  date: '2023-05-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-10.04.2023/fw_fog_miui_FOGGlobal_V13.0.6.0.SGEMIXM_2fb738a0f4_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGGlobal_V13.0.6.0.SGEMIXM_2fb738a0f4_12.0.zip
-  filename: fw_fog_miui_FOGGlobal_V13.0.6.0.SGEMIXM_2fb738a0f4_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-25.05.2023/fw_fog_miui_FOGGlobal_V13.0.8.0.SGEMIXM_6cb016ff3d_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGGlobal_V13.0.8.0.SGEMIXM_6cb016ff3d_12.0.zip
+  filename: fw_fog_miui_FOGGlobal_V13.0.8.0.SGEMIXM_6cb016ff3d_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SGEMIXM
+    miui: V13.0.8.0.SGEMIXM
 - branch: stable
   date: '2023-04-17'
   downloads:
@@ -4929,15 +4929,15 @@
     android: '13.0'
     miui: V14.0.8.0.TKDEUXM
 - branch: stable
-  date: '2023-03-21'
+  date: '2023-05-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-21.03.2023/fw_vili_miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip
-  filename: fw_vili_miui_VILIINGlobal_V14.0.1.0.TKDINXM_f3be20ea63_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-25.05.2023/fw_vili_miui_VILIINGlobal_V14.0.3.0.TKDINXM_0b90dc1964_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIINGlobal_V14.0.3.0.TKDINXM_0b90dc1964_13.0.zip
+  filename: fw_vili_miui_VILIINGlobal_V14.0.3.0.TKDINXM_0b90dc1964_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.1.0.TKDINXM
+    miui: V14.0.3.0.TKDINXM
 - branch: stable
   date: '2019-11-26'
   downloads:
@@ -5029,15 +5029,15 @@
     android: '13.0'
     miui: V14.0.1.0.TGDEUXM
 - branch: stable
-  date: '2023-04-18'
+  date: '2023-05-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-18.04.2023/fw_water_miui_WATERGlobal_V14.0.10.0.TGOMIXM_4c835c75b8_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.10.0.TGOMIXM_4c835c75b8_13.0.zip
-  filename: fw_water_miui_WATERGlobal_V14.0.10.0.TGOMIXM_4c835c75b8_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-25.05.2023/fw_water_miui_WATERGlobal_V14.0.11.0.TGOMIXM_66556ac043_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.11.0.TGOMIXM_66556ac043_13.0.zip
+  filename: fw_water_miui_WATERGlobal_V14.0.11.0.TGOMIXM_66556ac043_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.10.0.TGOMIXM
+    miui: V14.0.11.0.TGOMIXM
 - branch: stable
   date: '2023-05-05'
   downloads:
@@ -5208,6 +5208,16 @@
   versions:
     android: '8.1'
     miui: 9.2.28
+- branch: stable
+  date: '2023-05-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-25.05.2023/fw_yuechu_miui_YUECHU_V14.0.4.0.TMICNXM_957a8a2821_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yuechu/fw_yuechu_miui_YUECHU_V14.0.4.0.TMICNXM_957a8a2821_13.0.zip
+  filename: fw_yuechu_miui_YUECHU_V14.0.4.0.TMICNXM_957a8a2821_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMICNXM
 - branch: stable
   date: '2023-04-25'
   downloads:

@@ -1,15 +1,15 @@
 ---
-title: Redmi A2/A2+/POCO C51 (water) MIUI Downloads
+title: Xiaomi Civi 3 (yuechu) MIUI Downloads
 layout: download
-name: Redmi A2/A2+/POCO C51
-codename: water
-permalink: /miui/water/
+name: Xiaomi Civi 3
+codename: yuechu
+permalink: /miui/yuechu/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/water/">Redmi A2/A2+/POCO C51</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/yuechu/">Xiaomi Civi 3</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/water/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/water/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/water/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/water/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/yuechu/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/yuechu/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/yuechu/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,10 +52,8 @@ permalink: /miui/water/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A2 / A2+ / POCO C51 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.11.0.TGOMIXM</td><td>13.0</td><td>2.2 GB</td><td>2023-05-16</td><td><a href="/miui/water/stable/V14.0.11.0.TGOMIXM/">Download</a></td></tr>
-<tr><td>Redmi A2 / A2+ / POCO C51 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.11.0.TGOMIXM</td><td>13.0</td><td>1.5 GB</td><td>2023-05-25</td><td><a href="/miui/water/stable/V14.0.11.0.TGOMIXM/">Download</a></td></tr>
-<tr><td>Redmi A2 / A2+ / POCO C51 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.9.0.TGOMIXM</td><td>13.0</td><td>1.5 GB</td><td>2023-03-15</td><td><a href="/miui/water/stable beta/V14.0.9.0.TGOMIXM/">Download</a></td></tr>
-<tr><td>Redmi A2 / A2+ / POCO C51 India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TGOINXM</td><td>13.0</td><td>1.4 GB</td><td>2023-05-04</td><td><a href="/miui/water/stable beta/V14.0.4.0.TGOINXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMICNXM</td><td>13.0</td><td>7.8 GB</td><td>2023-05-18</td><td><a href="/miui/yuechu/stable/V14.0.4.0.TMICNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 3 China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMICNXM</td><td>13.0</td><td>6.2 GB</td><td>2023-05-25</td><td><a href="/miui/yuechu/stable/V14.0.4.0.TMICNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
