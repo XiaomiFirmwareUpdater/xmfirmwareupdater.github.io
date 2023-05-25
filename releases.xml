@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 26 May 2023 04:59:55 +0900</pubDate>
+  <pubDate>Fri, 26 May 2023 07:47:44 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 13 Ultra (ishtar) - V14.0.1.0.TMAMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
+    <pubDate>Fri, 26 May 2023 07:47:44 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Civi 3 (yuechu) - V14.0.4.0.TMICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/yuechu</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 10 (mojito) - V14.0.3.0.SKGINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
     <pubDate>Mon, 22 May 2023 13:19:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 (mojito) - V14.0.3.0.SKGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mojito</link>
-    <pubDate>Mon, 22 May 2023 13:04:21 +0900</pubDate>
   </item>
     </channel>
 </rss>
