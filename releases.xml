@@ -1,11 +1,41 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 26 May 2023 12:48:10 +0900</pubDate>
+  <pubDate>Fri, 26 May 2023 20:44:03 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.5.0.TKTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
+    <pubDate>Fri, 26 May 2023 20:44:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 6 Pro (liuqin) - V14.0.5.0.TMYCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/liuqin</link>
+    <pubDate>Fri, 26 May 2023 20:24:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.2.0.TGBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
+    <pubDate>Fri, 26 May 2023 19:54:50 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 12C/POCO C55 (earth) - V13.0.7.0.SCVMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
+    <pubDate>Fri, 26 May 2023 19:33:11 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 12C/POCO C55 (earth) - V13.0.8.0.SCVEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
+    <pubDate>Fri, 26 May 2023 19:15:47 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V14.0.4.0.TKSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
+    <pubDate>Fri, 26 May 2023 18:43:38 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.2.0.TKEEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
@@ -75,36 +105,6 @@
     <title>POCO M3 (citrus) - V14.0.2.0.SJFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
     <pubDate>Tue, 23 May 2023 18:25:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 5G (opal) - V14.0.2.0.TGLEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/opal</link>
-    <pubDate>Tue, 23 May 2023 12:42:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.4.0.TMNMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mondrian</link>
-    <pubDate>Tue, 23 May 2023 06:46:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro 4G (viva) - V14.0.2.0.TGDMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/viva</link>
-    <pubDate>Mon, 22 May 2023 18:54:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 12C/POCO C55 (earth) - V13.0.3.0.SCVINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
-    <pubDate>Mon, 22 May 2023 18:36:43 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO X3 Pro (vayu) - V14.0.3.0.TJUMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
-    <pubDate>Mon, 22 May 2023 13:43:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 6 (pipa) - V14.0.5.0.TMZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pipa</link>
-    <pubDate>Mon, 22 May 2023 13:42:12 +0900</pubDate>
   </item>
     </channel>
 </rss>

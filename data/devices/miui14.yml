@@ -126,6 +126,12 @@
   version: V14.0.2.0.TKSCNXM
 - android: '13.0'
   codename: camellian
+  date: '2023-05-26'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKSMIXM/fw_camellian_miui_CAMELLIANGlobal_V14.0.4.0.TKSMIXM_8003ebaaf1_13.0.zip
+  name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
+  version: V14.0.4.0.TKSMIXM
+- android: '13.0'
+  codename: camellian
   date: '2023-05-08'
   download: https://bigota.d.miui.com/V14.0.3.0.TKSMIXM/fw_camellian_miui_CAMELLIANGlobal_V14.0.3.0.TKSMIXM_4d9be1df29_13.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
@@ -424,6 +430,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKZCNXM/fw_enuma_miui_ENUMA_V14.0.2.0.TKZCNXM_5d63060ce9_13.0.zip
   name: Xiaomi Pad 5 Pro 5G
   version: V14.0.2.0.TKZCNXM
+- android: '13.0'
+  codename: evergo
+  date: '2023-05-26'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGBCNXM/fw_evergo_miui_EVERGO_V14.0.2.0.TGBCNXM_4c16a77b66_13.0.zip
+  name: Redmi Note 11 5G/Redmi Note 11T 5G
+  version: V14.0.2.0.TGBCNXM
 - android: '13.0'
   codename: evergo
   date: '2023-05-23'
@@ -748,6 +760,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKOMIXM/fw_lisa_miui_LISAGlobal_V14.0.2.0.TKOMIXM_f89d09aa1c_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.2.0.TKOMIXM
+- android: '13.0'
+  codename: liuqin
+  date: '2023-05-26'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMYCNXM/fw_liuqin_miui_LIUQIN_V14.0.5.0.TMYCNXM_e266871c8a_13.0.zip
+  name: Xiaomi Pad 6 Pro
+  version: V14.0.5.0.TMYCNXM
 - android: '13.0'
   codename: liuqin
   date: '2023-04-26'
@@ -1168,6 +1186,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.3.0.TKTEUXM_c2f97abcba_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: V14.0.3.0.TKTEUXM
+- android: '13.0'
+  codename: pissarro
+  date: '2023-05-26'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_V14.0.5.0.TKTMIXM_1874280b0e_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.5.0.TKTMIXM
 - android: '13.0'
   codename: pissarro
   date: '2023-05-24'
