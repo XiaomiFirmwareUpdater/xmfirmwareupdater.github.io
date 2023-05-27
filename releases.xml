@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 26 May 2023 20:44:03 +0900</pubDate>
+  <pubDate>Sat, 27 May 2023 19:23:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 10S/Redmi Note 11 SE/POCO M5S (rosemary) - V14.0.4.0.TKLMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/rosemary</link>
+    <pubDate>Sat, 27 May 2023 19:23:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.3.0.TKTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
+    <pubDate>Sat, 27 May 2023 19:06:03 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.5.0.TKTMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
@@ -95,16 +105,6 @@
     <title>Redmi A1/POCO C50/A1+ (ice) - V13.0.10.0.SGMINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ice</link>
     <pubDate>Wed, 24 May 2023 00:34:05 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.0.12.TGBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
-    <pubDate>Tue, 23 May 2023 18:46:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>POCO M3 (citrus) - V14.0.2.0.SJFEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/citrus</link>
-    <pubDate>Tue, 23 May 2023 18:25:24 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -1182,6 +1182,12 @@
   version: V14.0.5.0.TKTCNXM
 - android: '13.0'
   codename: pissarro
+  date: '2023-05-27'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_V14.0.3.0.TKTINXM_6c6810bd50_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.3.0.TKTINXM
+- android: '13.0'
+  codename: pissarro
   date: '2023-03-27'
   download: https://bigota.d.miui.com/V14.0.3.0.TKTEUXM/fw_pissarro_miui_PISSARROEEAGlobal_V14.0.3.0.TKTEUXM_c2f97abcba_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -1468,6 +1474,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TLUMIXM/fw_rock_miui_ROCKGlobal_V14.0.6.0.TLUMIXM_b64ad54537_13.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: V14.0.6.0.TLUMIXM
+- android: '13.0'
+  codename: rosemary
+  date: '2023-05-27'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V14.0.4.0.TKLMIXM_5d7c3295fa_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.4.0.TKLMIXM
 - android: '13.0'
   codename: rosemary
   date: '2023-03-17'
