@@ -588,6 +588,12 @@
   version: V14.0.3.0.TLJEUXM
 - android: '13.0'
   codename: ishtar
+  date: '2023-05-28'
+  download: https://bigota.d.miui.com/V14.0.15.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.15.0.TMACNXM_3078bcb06e_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.15.0.TMACNXM
+- android: '13.0'
+  codename: ishtar
   date: '2023-04-28'
   download: https://bigota.d.miui.com/V14.0.10.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.10.0.TMACNXM_2ec0d6548d_13.0.zip
   name: Xiaomi 13 Ultra
