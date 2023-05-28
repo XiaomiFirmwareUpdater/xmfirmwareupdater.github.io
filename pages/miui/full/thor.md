@@ -52,7 +52,8 @@ permalink: /archive/miui/thor/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.15.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-05-19</td><td><a href="/miui/thor/public beta/V14.0.23.5.15.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.22.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-05-26</td><td><a href="/miui/thor/public beta/V14.0.23.5.22.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.15.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-05-19</td><td><a href="/miui/thor/public beta/V14.0.23.5.15.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.8.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-05-12</td><td><a href="/miui/thor/public beta/V14.0.23.5.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.25.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-04-28</td><td><a href="/miui/thor/public beta/V14.0.23.4.25.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.17.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-04-21</td><td><a href="/miui/thor/public beta/V14.0.23.4.17.DEV/">Download</a></td></tr>
