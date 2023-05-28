@@ -336,6 +336,12 @@
   version: V14.0.8.0.TLZCNXM
 - android: '13.0'
   codename: daumier
+  date: '2023-05-28'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.8.0.TLGCNXM_a3aff9f955_13.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: V14.0.8.0.TLGCNXM
+- android: '13.0'
+  codename: daumier
   date: '2023-02-27'
   download: https://bigota.d.miui.com/V14.0.7.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.7.0.TLGCNXM_d53e0f5903_13.0.zip
   name: Xiaomi 12 Pro Dimensity

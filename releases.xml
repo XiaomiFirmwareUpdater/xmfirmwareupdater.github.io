@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 28 May 2023 19:07:01 +0900</pubDate>
+  <pubDate>Mon, 29 May 2023 00:56:29 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.8.0.TLGCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/daumier</link>
+    <pubDate>Mon, 29 May 2023 00:56:29 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 13 Ultra (ishtar) - V14.0.15.0.TMACNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.4.0.TKTEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
     <pubDate>Wed, 24 May 2023 18:41:34 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12S (sea) - V14.0.4.0.THZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sea</link>
-    <pubDate>Wed, 24 May 2023 00:53:17 +0900</pubDate>
   </item>
     </channel>
 </rss>
