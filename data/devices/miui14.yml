@@ -180,6 +180,12 @@
   version: V14.0.2.0.TKPMIXM
 - android: '13.0'
   codename: chopin
+  date: '2023-05-29'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKPMIXM/fw_chopin_miui_CHOPINGlobal_V14.0.3.0.TKPMIXM_08c2a7311a_13.0.zip
+  name: Redmi Note 10 Pro 5G/POCO X3 GT
+  version: V14.0.3.0.TKPMIXM
+- android: '13.0'
+  codename: chopin
   date: '2023-03-28'
   download: https://bigota.d.miui.com/V14.0.5.0.TKPCNXM/fw_chopin_miui_CHOPIN_V14.0.5.0.TKPCNXM_242d1a6ff5_13.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
@@ -1546,6 +1552,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.11.0.TMKCNXM_01ab8e04e6_13.0.zip
   name: Redmi K60 Pro
   version: V14.0.11.0.TMKCNXM
+- android: '13.0'
+  codename: star
+  date: '2023-05-29'
+  download: https://bigota.d.miui.com/V14.0.9.0.TKACNXM/fw_star_miui_STAR_V14.0.9.0.TKACNXM_88fb6d9f79_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.9.0.TKACNXM
 - android: '13.0'
   codename: star
   date: '2023-03-27'
