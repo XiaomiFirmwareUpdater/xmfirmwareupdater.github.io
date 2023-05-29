@@ -21,16 +21,6 @@
 - branch: stable
   date: '2023-04-20'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-20.04.2023/fw_diting_miui_DITINGEEAGlobal_V14.0.9.0.TLFEUXM_ff85105c15_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGEEAGlobal_V14.0.9.0.TLFEUXM_ff85105c15_13.0.zip
-  filename: fw_diting_miui_DITINGEEAGlobal_V14.0.9.0.TLFEUXM_ff85105c15_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: V14.0.9.0.TLFEUXM
-- branch: stable
-  date: '2023-04-20'
-  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-20.04.2023/fw_diting_miui_DITINGGlobal_V14.0.2.0.TLFMIXM_824e5a20f1_13.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGGlobal_V14.0.2.0.TLFMIXM_824e5a20f1_13.0.zip
   filename: fw_diting_miui_DITINGGlobal_V14.0.2.0.TLFMIXM_824e5a20f1_13.0.zip
@@ -119,16 +109,6 @@
     android: '12.0'
     miui: V13.0.7.0.SLFEUXM
 - branch: stable
-  date: '2023-04-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-09.04.2023/fw_diting_miui_DITING_V14.0.8.0.TLFCNXM_2c3f0b1c25_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITING_V14.0.8.0.TLFCNXM_2c3f0b1c25_13.0.zip
-  filename: fw_diting_miui_DITING_V14.0.8.0.TLFCNXM_2c3f0b1c25_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.8.0.TLFCNXM
-- branch: stable
   date: '2023-03-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-07.03.2023/fw_diting_miui_DITING_V14.0.7.0.TLFCNXM_c236aa2ab9_13.0.zip
@@ -158,16 +138,6 @@
   versions:
     android: '13.0'
     miui: V14.0.8.0.TLFEUXM
-- branch: stable
-  date: '2023-05-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-05.05.2023/fw_diting_miui_DITINGEEAGlobal_V14.0.11.0.TLFEUXM_b0d5e52cd0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGEEAGlobal_V14.0.11.0.TLFEUXM_b0d5e52cd0_13.0.zip
-  filename: fw_diting_miui_DITINGEEAGlobal_V14.0.11.0.TLFEUXM_b0d5e52cd0_13.0.zip
-  region: Europe
-  versions:
-    android: '13.0'
-    miui: V14.0.11.0.TLFEUXM
 - branch: stable
   date: '2023-02-03'
   downloads:

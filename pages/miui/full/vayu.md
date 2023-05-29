@@ -52,7 +52,8 @@ permalink: /archive/miui/vayu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X3 Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TJUMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-18</td><td><a href="/miui/vayu/stable beta/V14.0.3.0.TJUMIXM/">Download</a></td></tr>
+                <tr><td>POCO X3 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TJUMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-18</td><td><a href="/miui/vayu/stable/V14.0.3.0.TJUMIXM/">Download</a></td></tr>
+<tr><td>POCO X3 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TJUMIXM</td><td>13.0</td><td>5.6 GB</td><td>2023-05-08</td><td><a href="/miui/vayu/stable/V14.0.3.0.TJUMIXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TJUEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-04-19</td><td><a href="/miui/vayu/stable/V14.0.2.0.TJUEUXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TJUEUXM</td><td>13.0</td><td>5.4 GB</td><td>2023-03-21</td><td><a href="/miui/vayu/stable/V14.0.2.0.TJUEUXM/">Download</a></td></tr>
 <tr><td>POCO X3 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TJUTWXM</td><td>13.0</td><td>3.8 GB</td><td>2023-03-23</td><td><a href="/miui/vayu/stable beta/V14.0.2.0.TJUTWXM/">Download</a></td></tr>

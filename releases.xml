@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 29 May 2023 00:56:29 +0900</pubDate>
+  <pubDate>Mon, 29 May 2023 13:25:59 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 (umi) - V14.0.5.0.TJBMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Mon, 29 May 2023 13:25:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10 (umi) - V14.0.2.0.TJBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
+    <pubDate>Mon, 29 May 2023 13:21:03 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 12C/POCO C55 (earth) - V14.0.1.0.TCVCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
+    <pubDate>Mon, 29 May 2023 13:13:26 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V14.0.9.0.TLCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Mon, 29 May 2023 12:49:58 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.8.0.TLGCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/daumier</link>
@@ -85,26 +105,6 @@
     <title>Redmi 10C (fog) - V13.0.8.0.SGEMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
     <pubDate>Fri, 26 May 2023 02:03:28 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G (ruby) - V14.0.3.0.SMOINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ruby</link>
-    <pubDate>Thu, 25 May 2023 12:42:18 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K30S Ultra/Mi 10T/Mi 10T Pro (apollo) - V14.0.1.0.SJDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/apollo</link>
-    <pubDate>Thu, 25 May 2023 12:23:17 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.2.0.TKUCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Thu, 25 May 2023 00:47:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.4.0.TKTEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
-    <pubDate>Wed, 24 May 2023 18:41:34 +0900</pubDate>
   </item>
     </channel>
 </rss>

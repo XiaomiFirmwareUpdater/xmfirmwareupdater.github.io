@@ -8,13 +8,3 @@
   versions:
     android: '13.0'
     miui: V14.0.5.0.TMYCNXM
-- branch: stable
-  date: '2023-04-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_liuqin/releases/download/stable-26.04.2023/fw_liuqin_miui_LIUQIN_V14.0.3.0.TMYCNXM_ce66b58a6e_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/liuqin/fw_liuqin_miui_LIUQIN_V14.0.3.0.TMYCNXM_ce66b58a6e_13.0.zip
-  filename: fw_liuqin_miui_LIUQIN_V14.0.3.0.TMYCNXM_ce66b58a6e_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.3.0.TMYCNXM
