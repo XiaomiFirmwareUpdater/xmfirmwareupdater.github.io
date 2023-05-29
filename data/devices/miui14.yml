@@ -222,6 +222,18 @@
   version: V14.0.2.0.SJFMIXM
 - android: '13.0'
   codename: cmi
+  date: '2023-05-29'
+  download: https://bigota.d.miui.com/V14.0.3.0.TJAEUXM/fw_cmi_miui_CMIEEAGlobal_V14.0.3.0.TJAEUXM_d97dc491ac_13.0.zip
+  name: Mi 10 Pro
+  version: V14.0.3.0.TJAEUXM
+- android: '13.0'
+  codename: cmi
+  date: '2023-05-29'
+  download: https://bigota.d.miui.com/V14.0.5.0.TJAMIXM/fw_cmi_miui_CMIGlobal_V14.0.5.0.TJAMIXM_3a405e0f11_13.0.zip
+  name: Mi 10 Pro
+  version: V14.0.5.0.TJAMIXM
+- android: '13.0'
+  codename: cmi
   date: '2023-04-16'
   download: https://bigota.d.miui.com/V14.0.1.0.TJAEUXM/fw_cmi_miui_CMIEEAGlobal_V14.0.1.0.TJAEUXM_d645b9e7a2_13.0.zip
   name: Mi 10 Pro
@@ -1115,6 +1127,12 @@
   name: Redmi Note 11S 5G
   version: V14.0.2.0.TGLEUXM
 - android: '13.0'
+  codename: pearl
+  date: '2023-05-29'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLHCNXM/fw_pearl_miui_PEARL_V14.0.1.0.TLHCNXM_3ac6c95365_13.0.zip
+  name: Redmi Note 12T Pro
+  version: V14.0.1.0.TLHCNXM
+- android: '13.0'
   codename: pipa
   date: '2023-04-26'
   download: https://bigota.d.miui.com/V14.0.4.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.4.0.TMZCNXM_cde299f766_13.0.zip
@@ -1894,6 +1912,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TKBCNXM/fw_venus_miui_VENUS_V14.0.8.0.TKBCNXM_3db9892b71_13.0.zip
   name: Mi 11
   version: V14.0.8.0.TKBCNXM
+- android: '13.0'
+  codename: veux
+  date: '2023-05-29'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKCCNXM/fw_veux_miui_VEUX_V14.0.1.0.TKCCNXM_0ebe59b3b1_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V14.0.1.0.TKCCNXM
 - android: '13.0'
   codename: vili
   date: '2023-05-25'

@@ -1,15 +1,15 @@
 ---
-title: Xiaomi Pad 6 (pipa) MIUI Downloads
+title: Redmi Note 12T Pro (pearl) MIUI Downloads
 layout: download
-name: Xiaomi Pad 6
-codename: pipa
-permalink: /miui/pipa/
+name: Redmi Note 12T Pro
+codename: pearl
+permalink: /miui/pearl/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/pipa/">Xiaomi Pad 6</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/pearl/">Redmi Note 12T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -28,9 +28,9 @@ permalink: /miui/pipa/
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
     <p class="card-text">This page shows the latest downloads only.
      If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/pipa/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/pipa/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/pipa/" class="card-link">Vendor Downloads</a>
+    <a href="/archive/miui/pearl/" class="card-link">MIUI Archive</a>
+    <a href="/firmware/pearl/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/pearl/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,9 +52,9 @@ permalink: /miui/pipa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 China</td><td>Public Beta</td><td>Fastboot</td><td>23.5.6</td><td>14.0</td><td>4.9 GB</td><td>2023-05-06</td><td><a href="/miui/pipa/public beta/23.5.6/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMZCNXM</td><td>13.0</td><td>5.4 GB</td><td>2023-05-15</td><td><a href="/miui/pipa/stable/V14.0.5.0.TMZCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMZCNXM</td><td>13.0</td><td>4.7 GB</td><td>2023-05-20</td><td><a href="/miui/pipa/stable/V14.0.5.0.TMZCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLHCNXM</td><td>13.0</td><td>7.4 GB</td><td>2023-05-19</td><td><a href="/miui/pearl/stable/V14.0.2.0.TLHCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLHCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-05-29</td><td><a href="/miui/pearl/stable/V14.0.2.0.TLHCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12T Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLHCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-05-29</td><td><a href="/miui/pearl/stable beta/V14.0.1.0.TLHCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
