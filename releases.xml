@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 30 May 2023 01:56:30 +0900</pubDate>
+  <pubDate>Tue, 30 May 2023 18:53:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.12.0.TLLCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
+    <pubDate>Tue, 30 May 2023 18:53:07 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.1.0.TKCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
@@ -100,11 +105,6 @@
     <title>Redmi 12C/POCO C55 (earth) - V13.0.8.0.SCVEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
     <pubDate>Fri, 26 May 2023 19:15:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V14.0.4.0.TKSMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
-    <pubDate>Fri, 26 May 2023 18:43:38 +0900</pubDate>
   </item>
     </channel>
 </rss>
