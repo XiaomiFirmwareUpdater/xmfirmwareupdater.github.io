@@ -3219,15 +3219,15 @@
     android: '7.1'
     miui: 9.10.10
 - branch: stable
-  date: '2023-05-29'
+  date: '2023-05-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-29.05.2023/fw_pearl_miui_PEARL_V14.0.1.0.TLHCNXM_3ac6c95365_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pearl/fw_pearl_miui_PEARL_V14.0.1.0.TLHCNXM_3ac6c95365_13.0.zip
-  filename: fw_pearl_miui_PEARL_V14.0.1.0.TLHCNXM_3ac6c95365_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pearl/releases/download/stable-31.05.2023/fw_pearl_miui_PEARL_V14.0.3.0.TLHCNXM_2d7375d91e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pearl/fw_pearl_miui_PEARL_V14.0.3.0.TLHCNXM_2d7375d91e_13.0.zip
+  filename: fw_pearl_miui_PEARL_V14.0.3.0.TLHCNXM_2d7375d91e_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.1.0.TLHCNXM
+    miui: V14.0.3.0.TLHCNXM
 - branch: stable
   date: '2020-11-20'
   downloads:
@@ -5229,15 +5229,15 @@
     android: '8.1'
     miui: 9.2.28
 - branch: stable
-  date: '2023-05-25'
+  date: '2023-05-31'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-25.05.2023/fw_yuechu_miui_YUECHU_V14.0.4.0.TMICNXM_957a8a2821_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yuechu/fw_yuechu_miui_YUECHU_V14.0.4.0.TMICNXM_957a8a2821_13.0.zip
-  filename: fw_yuechu_miui_YUECHU_V14.0.4.0.TMICNXM_957a8a2821_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yuechu/releases/download/stable-31.05.2023/fw_yuechu_miui_YUECHU_V14.0.5.0.TMICNXM_6b3f863826_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yuechu/fw_yuechu_miui_YUECHU_V14.0.5.0.TMICNXM_6b3f863826_13.0.zip
+  filename: fw_yuechu_miui_YUECHU_V14.0.5.0.TMICNXM_6b3f863826_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMICNXM
+    miui: V14.0.5.0.TMICNXM
 - branch: stable
   date: '2023-04-25'
   downloads:
