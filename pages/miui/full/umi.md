@@ -52,7 +52,8 @@ permalink: /archive/miui/umi/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 10 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TJBMIXM</td><td>13.0</td><td>4.2 GB</td><td>2023-05-25</td><td><a href="/miui/umi/stable beta/V14.0.5.0.TJBMIXM/">Download</a></td></tr>
+                <tr><td>Mi 10 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TJBMIXM</td><td>13.0</td><td>4.2 GB</td><td>2023-05-25</td><td><a href="/miui/umi/stable/V14.0.5.0.TJBMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TJBMIXM</td><td>13.0</td><td>5.5 GB</td><td>2023-05-17</td><td><a href="/miui/umi/stable/V14.0.5.0.TJBMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TJBEUXM</td><td>13.0</td><td>4.2 GB</td><td>2023-05-25</td><td><a href="/miui/umi/stable beta/V14.0.2.0.TJBEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TJBTRXM</td><td>13.0</td><td>4.2 GB</td><td>2023-05-16</td><td><a href="/miui/umi/stable beta/V14.0.2.0.TJBTRXM/">Download</a></td></tr>
 <tr><td>Mi 10 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TJBCNXM</td><td>13.0</td><td>4.5 GB</td><td>2023-05-15</td><td><a href="/miui/umi/stable beta/V14.0.3.0.TJBCNXM/">Download</a></td></tr>
