@@ -1812,12 +1812,6 @@
   version: V14.0.3.0.TMGMIXM
 - android: '13.0'
   codename: topaz
-  date: '2023-04-18'
-  download: https://bigota.d.miui.com/V14.0.2.0.TMGMIXM/fw_topaz_miui_TOPAZGlobal_V14.0.2.0.TMGMIXM_69d8c8488e_13.0.zip
-  name: Redmi Note 12 4G NFC
-  version: V14.0.2.0.TMGMIXM
-- android: '13.0'
-  codename: topaz
   date: '2023-05-11'
   download: https://bigota.d.miui.com/V14.0.7.0.TMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_V14.0.7.0.TMGEUXM_7a3fcbf5d9_13.0.zip
   name: Redmi Note 12 4G NFC
