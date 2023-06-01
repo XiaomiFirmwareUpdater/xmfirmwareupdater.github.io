@@ -4149,15 +4149,15 @@
     android: '13.0'
     miui: V14.0.4.0.THZMIXM
 - branch: stable
-  date: '2023-05-10'
+  date: '2023-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-10.05.2023/fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sea/fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
-  filename: fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sea/releases/download/stable-01.06.2023/fw_sea_miui_SEAEEAGlobal_V14.0.2.0.THZEUXM_3208a2929a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sea/fw_sea_miui_SEAEEAGlobal_V14.0.2.0.THZEUXM_3208a2929a_13.0.zip
+  filename: fw_sea_miui_SEAEEAGlobal_V14.0.2.0.THZEUXM_3208a2929a_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.1.0.THZEUXM
+    miui: V14.0.2.0.THZEUXM
 - branch: stable
   date: '2023-03-30'
   downloads:
@@ -4459,15 +4459,15 @@
     android: '13.0'
     miui: V14.0.7.0.TMTMIXM
 - branch: stable
-  date: '2023-04-18'
+  date: '2023-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-18.04.2023/fw_tapas_miui_TAPASINGlobal_V14.0.4.0.TMTINXM_57face25e9_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/tapas/fw_tapas_miui_TAPASINGlobal_V14.0.4.0.TMTINXM_57face25e9_13.0.zip
-  filename: fw_tapas_miui_TAPASINGlobal_V14.0.4.0.TMTINXM_57face25e9_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-01.06.2023/fw_tapas_miui_TAPASINGlobal_V14.0.5.0.TMTINXM_6ba75c1422_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/tapas/fw_tapas_miui_TAPASINGlobal_V14.0.5.0.TMTINXM_6ba75c1422_13.0.zip
+  filename: fw_tapas_miui_TAPASINGlobal_V14.0.5.0.TMTINXM_6ba75c1422_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMTINXM
+    miui: V14.0.5.0.TMTINXM
 - branch: stable
   date: '2023-04-09'
   downloads:

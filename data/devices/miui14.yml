@@ -1565,6 +1565,12 @@
   name: Redmi Note 12S
   version: V14.0.2.0.THZMIXM
 - android: '13.0'
+  codename: sea
+  date: '2023-06-01'
+  download: https://bigota.d.miui.com/V14.0.2.0.THZEUXM/fw_sea_miui_SEAEEAGlobal_V14.0.2.0.THZEUXM_3208a2929a_13.0.zip
+  name: Redmi Note 12S
+  version: V14.0.2.0.THZEUXM
+- android: '13.0'
   codename: selene
   date: '2023-05-24'
   download: https://bigota.d.miui.com/V14.0.2.0.TKUCNXM/fw_selene_miui_SELENE_V14.0.2.0.TKUCNXM_f349844cfd_13.0.zip
@@ -1762,6 +1768,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMTINXM/fw_tapas_miui_TAPASINGlobal_V14.0.2.0.TMTINXM_e1be94e1a0_13.0.zip
   name: Redmi Note 12 4G
   version: V14.0.2.0.TMTINXM
+- android: '13.0'
+  codename: tapas
+  date: '2023-06-01'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMTINXM/fw_tapas_miui_TAPASINGlobal_V14.0.5.0.TMTINXM_6ba75c1422_13.0.zip
+  name: Redmi Note 12 4G
+  version: V14.0.5.0.TMTINXM
 - android: '13.0'
   codename: thor
   date: '2023-03-14'
