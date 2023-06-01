@@ -467,6 +467,12 @@
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V14.0.2.0.TKEEUXM
 - android: '13.0'
+  codename: fleur
+  date: '2023-06-01'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V14.0.3.0.TKEEUXM_607e8f303a_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V14.0.3.0.TKEEUXM
+- android: '13.0'
   codename: fuxi
   date: '2023-04-25'
   download: https://bigota.d.miui.com/V14.0.24.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.24.0.TMCCNXM_bad43a4e6f_13.0.zip
@@ -484,6 +490,12 @@
   download: https://bigota.d.miui.com/V14.0.21.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.21.0.TMCCNXM_a2d21eb89e_13.0.zip
   name: Xiaomi 13
   version: V14.0.21.0.TMCCNXM
+- android: '13.0'
+  codename: fuxi
+  date: '2023-06-01'
+  download: https://bigota.d.miui.com/V14.0.27.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.27.0.TMCCNXM_15d7021adf_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.27.0.TMCCNXM
 - android: '13.0'
   codename: fuxi
   date: '2023-05-01'

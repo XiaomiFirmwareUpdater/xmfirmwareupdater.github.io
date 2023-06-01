@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 01 Jun 2023 02:22:45 +0900</pubDate>
+  <pubDate>Thu, 01 Jun 2023 14:02:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V13.0.6.0.SKCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
+    <pubDate>Thu, 01 Jun 2023 14:02:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 (fuxi) - V14.0.27.0.TMCCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
+    <pubDate>Thu, 01 Jun 2023 13:42:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.3.0.TKEEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
+    <pubDate>Thu, 01 Jun 2023 12:54:15 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Civi 3 (yuechu) - V14.0.5.0.TMICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/yuechu</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.3.0.TKTINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
     <pubDate>Sat, 27 May 2023 19:06:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge (pissarro) - V14.0.5.0.TKTMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pissarro</link>
-    <pubDate>Fri, 26 May 2023 20:44:03 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 6 Pro (liuqin) - V14.0.5.0.TMYCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/liuqin</link>
-    <pubDate>Fri, 26 May 2023 20:24:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.2.0.TGBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
-    <pubDate>Fri, 26 May 2023 19:54:50 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -1349,15 +1349,15 @@
     android: '12.0'
     miui: V13.0.9.0.SKEMIXM
 - branch: stable
-  date: '2023-05-26'
+  date: '2023-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-26.05.2023/fw_fleur_miui_FLEUREEAGlobal_V14.0.2.0.TKEEUXM_4a037bf6d4_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fleur/fw_fleur_miui_FLEUREEAGlobal_V14.0.2.0.TKEEUXM_4a037bf6d4_13.0.zip
-  filename: fw_fleur_miui_FLEUREEAGlobal_V14.0.2.0.TKEEUXM_4a037bf6d4_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-01.06.2023/fw_fleur_miui_FLEUREEAGlobal_V14.0.3.0.TKEEUXM_607e8f303a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fleur/fw_fleur_miui_FLEUREEAGlobal_V14.0.3.0.TKEEUXM_607e8f303a_13.0.zip
+  filename: fw_fleur_miui_FLEUREEAGlobal_V14.0.3.0.TKEEUXM_607e8f303a_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.2.0.TKEEUXM
+    miui: V14.0.3.0.TKEEUXM
 - branch: stable
   date: '2023-05-14'
   downloads:
@@ -1429,15 +1429,15 @@
     android: '13.0'
     miui: V14.0.7.0.TMCMIXM
 - branch: stable
-  date: '2023-04-25'
+  date: '2023-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-25.04.2023/fw_fuxi_miui_FUXI_V14.0.24.0.TMCCNXM_bad43a4e6f_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.24.0.TMCCNXM_bad43a4e6f_13.0.zip
-  filename: fw_fuxi_miui_FUXI_V14.0.24.0.TMCCNXM_bad43a4e6f_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-01.06.2023/fw_fuxi_miui_FUXI_V14.0.27.0.TMCCNXM_15d7021adf_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.27.0.TMCCNXM_15d7021adf_13.0.zip
+  filename: fw_fuxi_miui_FUXI_V14.0.27.0.TMCCNXM_15d7021adf_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.24.0.TMCCNXM
+    miui: V14.0.27.0.TMCCNXM
 - branch: stable
   date: '2023-05-01'
   downloads:
@@ -4909,15 +4909,15 @@
     android: '13.0'
     miui: V14.0.1.0.TKCCNXM
 - branch: stable
-  date: '2023-04-05'
+  date: '2023-06-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-05.04.2023/fw_veux_miui_VEUXEEAGlobal_V13.0.5.0.SKCEUXM_10e4d8ddf8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXEEAGlobal_V13.0.5.0.SKCEUXM_10e4d8ddf8_12.0.zip
-  filename: fw_veux_miui_VEUXEEAGlobal_V13.0.5.0.SKCEUXM_10e4d8ddf8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-01.06.2023/fw_veux_miui_VEUXEEAGlobal_V13.0.6.0.SKCEUXM_bb374d0952_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXEEAGlobal_V13.0.6.0.SKCEUXM_bb374d0952_12.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_V13.0.6.0.SKCEUXM_bb374d0952_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V13.0.5.0.SKCEUXM
+    miui: V13.0.6.0.SKCEUXM
 - branch: stable
   date: '2023-04-20'
   downloads:
