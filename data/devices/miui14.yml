@@ -1812,6 +1812,12 @@
   version: V14.0.3.0.TMGMIXM
 - android: '13.0'
   codename: topaz
+  date: '2023-04-18'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMGMIXM/fw_topaz_miui_TOPAZGlobal_V14.0.2.0.TMGMIXM_69d8c8488e_13.0.zip
+  name: Redmi Note 12 4G NFC
+  version: V14.0.2.0.TMGMIXM
+- android: '13.0'
+  codename: topaz
   date: '2023-05-11'
   download: https://bigota.d.miui.com/V14.0.7.0.TMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_V14.0.7.0.TMGEUXM_7a3fcbf5d9_13.0.zip
   name: Redmi Note 12 4G NFC
@@ -1858,6 +1864,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TJBMIXM/fw_umi_miui_UMIGlobal_V14.0.3.0.TJBMIXM_b4a2f47398_13.0.zip
   name: Mi 10
   version: V14.0.3.0.TJBMIXM
+- android: '13.0'
+  codename: umi
+  date: '2023-06-01'
+  download: https://bigota.d.miui.com/V14.0.6.0.TJBINXM/fw_umi_miui_UMIINGlobal_V14.0.6.0.TJBINXM_5e5f644a80_13.0.zip
+  name: Mi 10
+  version: V14.0.6.0.TJBINXM
 - android: '13.0'
   codename: unicorn
   date: '2023-05-17'

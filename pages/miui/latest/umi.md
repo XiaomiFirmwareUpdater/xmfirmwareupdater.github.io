@@ -70,12 +70,12 @@ permalink: /miui/umi/
 <tr><td>Mi 10 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TJBIDXM</td><td>13.0</td><td>4.1 GB</td><td>2023-05-09</td><td><a href="/miui/umi/stable beta/V14.0.1.0.TJBIDXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SJBINXM</td><td>12.0</td><td>4.2 GB</td><td>2023-02-06</td><td><a href="/miui/umi/stable/V13.0.7.0.SJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 India</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SJBINXM</td><td>12.0</td><td>3.5 GB</td><td>2023-02-11</td><td><a href="/miui/umi/stable/V13.0.7.0.SJBINXM/">Download</a></td></tr>
-<tr><td>Mi 10 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.2.2.0.RJBINXM</td><td>11.0</td><td>3.0 GB</td><td>2020-12-04</td><td><a href="/miui/umi/stable beta/V12.2.2.0.RJBINXM/">Download</a></td></tr>
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJBRUXM</td><td>12.0</td><td>5.1 GB</td><td>2022-07-12</td><td><a href="/miui/umi/stable/V13.0.3.0.SJBRUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJBRUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-15</td><td><a href="/miui/umi/stable/V13.0.3.0.SJBRUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJBTRXM</td><td>12.0</td><td>4.9 GB</td><td>2022-07-12</td><td><a href="/miui/umi/stable/V13.0.3.0.SJBTRXM/">Download</a></td></tr>
 <tr><td>Mi 10 Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJBTRXM</td><td>12.0</td><td>3.5 GB</td><td>2022-07-18</td><td><a href="/miui/umi/stable/V13.0.3.0.SJBTRXM/">Download</a></td></tr>
 <tr><td>Mi 10 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TJBTRXM</td><td>13.0</td><td>4.2 GB</td><td>2023-05-16</td><td><a href="/miui/umi/stable beta/V14.0.2.0.TJBTRXM/">Download</a></td></tr>
+<tr><td>Mi 10 India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TJBINXM</td><td>13.0</td><td>4.1 GB</td><td>2023-05-29</td><td><a href="/miui/umi/stable beta/V14.0.6.0.TJBINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
