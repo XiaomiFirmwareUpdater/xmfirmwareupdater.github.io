@@ -52,7 +52,8 @@ permalink: /archive/miui/haydn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11i Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKKMIXM</td><td>13.0</td><td>4.7 GB</td><td>2023-05-16</td><td><a href="/miui/haydn/stable/V14.0.5.0.TKKMIXM/">Download</a></td></tr>
+                <tr><td>Mi 11X Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKKINXM</td><td>13.0</td><td>4.5 GB</td><td>2023-05-29</td><td><a href="/miui/haydn/stable beta/V14.0.3.0.TKKINXM/">Download</a></td></tr>
+<tr><td>Mi 11i Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKKMIXM</td><td>13.0</td><td>4.7 GB</td><td>2023-05-16</td><td><a href="/miui/haydn/stable/V14.0.5.0.TKKMIXM/">Download</a></td></tr>
 <tr><td>Mi 11i Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKKMIXM</td><td>13.0</td><td>6.6 GB</td><td>2023-04-20</td><td><a href="/miui/haydn/stable/V14.0.5.0.TKKMIXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.17.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-04-21</td><td><a href="/miui/haydn/public beta/V14.0.23.4.17.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.10.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-04-14</td><td><a href="/miui/haydn/public beta/V14.0.23.4.10.DEV/">Download</a></td></tr>
@@ -95,10 +96,10 @@ permalink: /archive/miui/haydn/
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>3.5 GB</td><td>2022-09-09</td><td><a href="/miui/haydn/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
 <tr><td>Mi 11i Global</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SKKMIXM</td><td>12.0</td><td>3.5 GB</td><td>2022-09-06</td><td><a href="/miui/haydn/stable/V13.0.3.0.SKKMIXM/">Download</a></td></tr>
 <tr><td>Mi 11i Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SKKMIXM</td><td>12.0</td><td>5.9 GB</td><td>2022-08-10</td><td><a href="/miui/haydn/stable/V13.0.3.0.SKKMIXM/">Download</a></td></tr>
-<tr><td>Mi 11i EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SKKEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-09-06</td><td><a href="/miui/haydn/stable/V13.0.8.0.SKKEUXM/">Download</a></td></tr>
-<tr><td>Mi 11i EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SKKEUXM</td><td>12.0</td><td>6.0 GB</td><td>2022-08-10</td><td><a href="/miui/haydn/stable/V13.0.8.0.SKKEUXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKKCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-01-10</td><td><a href="/miui/haydn/stable/V14.0.3.0.TKKCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKKCNXM</td><td>13.0</td><td>6.7 GB</td><td>2022-12-29</td><td><a href="/miui/haydn/stable/V14.0.3.0.TKKCNXM/">Download</a></td></tr>
+<tr><td>Mi 11i EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SKKEUXM</td><td>12.0</td><td>3.5 GB</td><td>2022-09-06</td><td><a href="/miui/haydn/stable/V13.0.8.0.SKKEUXM/">Download</a></td></tr>
+<tr><td>Mi 11i EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SKKEUXM</td><td>12.0</td><td>6.0 GB</td><td>2022-08-10</td><td><a href="/miui/haydn/stable/V13.0.8.0.SKKEUXM/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.29.DEV</td><td>12.0</td><td>3.6 GB</td><td>2022-09-02</td><td><a href="/miui/haydn/public beta/V13.1.22.8.29.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.22.DEV</td><td>12.0</td><td>3.6 GB</td><td>2022-08-26</td><td><a href="/miui/haydn/public beta/V13.1.22.8.22.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.17.DEV</td><td>12.0</td><td>3.6 GB</td><td>2022-08-19</td><td><a href="/miui/haydn/public beta/V13.1.22.8.17.DEV/">Download</a></td></tr>

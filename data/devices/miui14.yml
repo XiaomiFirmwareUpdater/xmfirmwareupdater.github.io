@@ -575,6 +575,12 @@
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: V14.0.3.0.TKKCNXM
 - android: '13.0'
+  codename: haydn
+  date: '2023-06-02'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKKINXM/fw_haydn_miui_HAYDNINGlobal_V14.0.3.0.TKKINXM_2d0cd388ab_13.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V14.0.3.0.TKKINXM
+- android: '13.0'
   codename: ingres
   date: '2023-01-25'
   download: https://bigota.d.miui.com/V14.0.1.0.TLJMIXM/fw_ingres_miui_INGRESGlobal_V14.0.1.0.TLJMIXM_3620095d7a_13.0.zip
