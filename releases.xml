@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 02 Jun 2023 06:24:12 +0900</pubDate>
+  <pubDate>Fri, 02 Jun 2023 14:18:00 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.3.0.TKKINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
+    <pubDate>Fri, 02 Jun 2023 14:18:00 +0900</pubDate>
+  </item>
     <item>
     <title>Mi 10 (umi) - V14.0.6.0.TJBINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 12 (cupid) - V14.0.9.0.TLCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
     <pubDate>Mon, 29 May 2023 12:49:58 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro Dimensity (daumier) - V14.0.8.0.TLGCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/daumier</link>
-    <pubDate>Mon, 29 May 2023 00:56:29 +0900</pubDate>
   </item>
     </channel>
 </rss>
