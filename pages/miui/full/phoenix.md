@@ -228,6 +228,7 @@ permalink: /archive/miui/phoenix/
 <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Recovery</td><td>V11.0.5.0.QGHCNXM</td><td>10.0</td><td>2.4 GB</td><td>2019-12-12</td><td><a href="/miui/phoenix/stable/V11.0.5.0.QGHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Stable</td><td>Fastboot</td><td>V11.0.5.0.QGHCNXM</td><td>10.0</td><td>3.4 GB</td><td>2019-12-06</td><td><a href="/miui/phoenix/stable/V11.0.5.0.QGHCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 4G China</td><td>Weekly</td><td>Recovery</td><td>20.4.27</td><td>10.0</td><td>2.7 GB</td><td>2020-04-27</td><td><a href="/miui/phoenix/weekly/20.4.27/">Download</a></td></tr>
+<tr><td>Redmi K30 4G China</td><td>Stable</td><td>Fastboot</td><td>V11.0.4.0.QGHCNXM</td><td>10.0</td><td>359 Bytes</td><td>2019-11-30</td><td><a href="/miui/phoenix/stable/V11.0.4.0.QGHCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

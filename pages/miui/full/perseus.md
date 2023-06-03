@@ -105,6 +105,7 @@ permalink: /archive/miui/perseus/
 <tr><td>Mi MIX 3 Global</td><td>Stable</td><td>Recovery</td><td>V11.0.3.0.QEEMIXM</td><td>10.0</td><td>2.2 GB</td><td>2020-03-06</td><td><a href="/miui/perseus/stable/V11.0.3.0.QEEMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 Global</td><td>Stable</td><td>Fastboot</td><td>V11.0.3.0.QEEMIXM</td><td>10.0</td><td>3.0 GB</td><td>2020-02-20</td><td><a href="/miui/perseus/stable/V11.0.3.0.QEEMIXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 Russia</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QEERUXM</td><td>10.0</td><td>2.2 GB</td><td>2020-03-06</td><td><a href="/miui/perseus/stable/V11.0.2.0.QEERUXM/">Download</a></td></tr>
+<tr><td>Mi MIX 3 Russia</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QEERUXM</td><td>10.0</td><td>3.0 GB</td><td>2020-02-23</td><td><a href="/miui/perseus/stable/V11.0.2.0.QEERUXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Weekly</td><td>Recovery</td><td>20.3.5</td><td>10.0</td><td>2.5 GB</td><td>2020-03-05</td><td><a href="/miui/perseus/weekly/20.3.5/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Stable</td><td>Recovery</td><td>V11.0.2.0.QEECNXM</td><td>10.0</td><td>2.4 GB</td><td>2020-03-05</td><td><a href="/miui/perseus/stable/V11.0.2.0.QEECNXM/">Download</a></td></tr>
 <tr><td>Mi MIX 3 China</td><td>Stable</td><td>Fastboot</td><td>V11.0.2.0.QEECNXM</td><td>10.0</td><td>3.4 GB</td><td>2020-02-27</td><td><a href="/miui/perseus/stable/V11.0.2.0.QEECNXM/">Download</a></td></tr>
