@@ -52,7 +52,8 @@ permalink: /miui/ishtar/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.15.0.TMACNXM</td><td>13.0</td><td>8.6 GB</td><td>2023-05-23</td><td><a href="/miui/ishtar/stable/V14.0.15.0.TMACNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.23.5.8.DEV</td><td>13.0</td><td>8.6 GB</td><td>2023-05-09</td><td><a href="/miui/ishtar/public beta/V14.0.23.5.8.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.15.0.TMACNXM</td><td>13.0</td><td>8.6 GB</td><td>2023-05-23</td><td><a href="/miui/ishtar/stable/V14.0.15.0.TMACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.15.0.TMACNXM</td><td>13.0</td><td>7.0 GB</td><td>2023-05-24</td><td><a href="/miui/ishtar/stable/V14.0.15.0.TMACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.29.DEV</td><td>13.0</td><td>6.9 GB</td><td>2023-06-02</td><td><a href="/miui/ishtar/public beta/V14.0.23.5.29.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.13.0.TMACNXM</td><td>13.0</td><td>7.0 GB</td><td>2023-05-17</td><td><a href="/miui/ishtar/stable beta/V14.0.13.0.TMACNXM/">Download</a></td></tr>

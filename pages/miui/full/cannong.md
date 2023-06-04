@@ -52,9 +52,9 @@ permalink: /archive/miui/cannong/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJETRXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable beta/V14.0.2.0.SJETRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9T Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJETRXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJETRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJETRXM</td><td>12.0</td><td>4.7 GB</td><td>2023-05-05</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJETRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJERUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable beta/V14.0.2.0.SJERUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJERUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJERUXM</td><td>12.0</td><td>4.8 GB</td><td>2023-05-05</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJETWXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJETWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJETWXM</td><td>12.0</td><td>4.5 GB</td><td>2023-05-05</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJETWXM/">Download</a></td></tr>

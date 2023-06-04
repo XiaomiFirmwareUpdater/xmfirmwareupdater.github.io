@@ -52,7 +52,8 @@ permalink: /miui/cannon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 9 5G China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJECNXM</td><td>12.0</td><td>5.5 GB</td><td>2023-03-02</td><td><a href="/miui/cannon/stable/V14.0.2.0.SJECNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.0.1.29.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-05-10</td><td><a href="/miui/cannon/public beta/V13.0.0.1.29.DEV/">Download</a></td></tr>
+<tr><td>Redmi Note 9 5G China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJECNXM</td><td>12.0</td><td>5.5 GB</td><td>2023-03-02</td><td><a href="/miui/cannon/stable/V14.0.2.0.SJECNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJECNXM</td><td>12.0</td><td>3.8 GB</td><td>2023-03-14</td><td><a href="/miui/cannon/stable/V14.0.2.0.SJECNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Weekly</td><td>Fastboot</td><td>20.12.25</td><td>11.0</td><td>3.8 GB</td><td>2020-12-25</td><td><a href="/miui/cannon/weekly/20.12.25/">Download</a></td></tr>
 <tr><td>Redmi Note 9 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-10-28</td><td><a href="/miui/cannon/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
@@ -63,11 +64,9 @@ permalink: /miui/cannon/
 <tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.SJEMIXM</td><td>12.0</td><td>5.2 GB</td><td>2023-03-29</td><td><a href="/miui/cannong/stable/V14.0.3.0.SJEMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SJEMIXM</td><td>12.0</td><td>3.2 GB</td><td>2023-04-17</td><td><a href="/miui/cannong/stable/V14.0.3.0.SJEMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJERUXM</td><td>12.0</td><td>4.8 GB</td><td>2023-05-05</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJERUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJERUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable beta/V14.0.2.0.SJERUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJERUXM</td><td>12.0</td><td>3.1 GB</td><td>2022-09-05</td><td><a href="/miui/cannong/stable/V13.0.1.0.SJERUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJERUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJERUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJETRXM</td><td>12.0</td><td>4.7 GB</td><td>2023-05-05</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJETRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.SJETRXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable beta/V14.0.2.0.SJETRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9T Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJETRXM</td><td>12.0</td><td>3.1 GB</td><td>2022-09-01</td><td><a href="/miui/cannong/stable/V13.0.1.0.SJETRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9T Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJETRXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJETRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SJETWXM</td><td>12.0</td><td>4.5 GB</td><td>2023-05-05</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJETWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9T Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SJETWXM</td><td>12.0</td><td>3.2 GB</td><td>2023-05-17</td><td><a href="/miui/cannong/stable/V14.0.2.0.SJETWXM/">Download</a></td></tr>
 

@@ -85,7 +85,7 @@ permalink: /archive/miui/cezanne/
 <tr><td>Redmi K30 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.35.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-05-27</td><td><a href="/miui/cezanne/public beta/V13.0.1.1.35.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.33.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-05-21</td><td><a href="/miui/cezanne/public beta/V13.0.1.1.33.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.0.1.27.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-04-22</td><td><a href="/miui/cezanne/public beta/V13.0.0.1.27.DEV/">Download</a></td></tr>
-<tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.0.1.27.DEV</td><td>12.0</td><td>5.0 GB</td><td>2022-04-19</td><td><a href="/miui/cezanne/stable/V13.0.0.1.27.DEV/">Download</a></td></tr>
+<tr><td>Redmi K30 Ultra China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.0.1.27.DEV</td><td>12.0</td><td>5.0 GB</td><td>2022-04-19</td><td><a href="/miui/cezanne/public beta/V13.0.0.1.27.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.5.11.0.RJNCNXM</td><td>11.0</td><td>3.5 GB</td><td>2022-03-10</td><td><a href="/miui/cezanne/stable/V12.5.11.0.RJNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V12.5.11.0.RJNCNXM</td><td>11.0</td><td>4.8 GB</td><td>2022-03-01</td><td><a href="/miui/cezanne/stable/V12.5.11.0.RJNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>22.3.2</td><td>11.0</td><td>4.1 GB</td><td>2022-03-03</td><td><a href="/miui/cezanne/weekly/22.3.2/">Download</a></td></tr>

@@ -52,16 +52,18 @@ permalink: /miui/sea/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12S EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.THZEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-04-07</td><td><a href="/miui/sea/stable/V14.0.1.0.THZEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12S EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.THZEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable/V14.0.1.0.THZEUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12S EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.THZEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-06-01</td><td><a href="/miui/sea/stable beta/V14.0.2.0.THZEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12S EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.THZEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-05-16</td><td><a href="/miui/sea/stable/V14.0.2.0.THZEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.THZEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-06-01</td><td><a href="/miui/sea/stable/V14.0.2.0.THZEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.THZMIXM</td><td>13.0</td><td>6.6 GB</td><td>2023-05-17</td><td><a href="/miui/sea/stable/V14.0.4.0.THZMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12S Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.THZMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-23</td><td><a href="/miui/sea/stable beta/V14.0.4.0.THZMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.THZMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable/V14.0.2.0.THZMIXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12S Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.THZRUXM</td><td>13.0</td><td>5.9 GB</td><td>2023-03-31</td><td><a href="/miui/sea/stable/V14.0.1.0.THZRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.THZRUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-06-01</td><td><a href="/miui/sea/stable beta/V14.0.2.0.THZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.THZMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-23</td><td><a href="/miui/sea/stable/V14.0.4.0.THZMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.THZMIXM</td><td>13.0</td><td>4.1 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable beta/V14.0.1.0.THZMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.THZRUXM</td><td>13.0</td><td>6.0 GB</td><td>2023-05-17</td><td><a href="/miui/sea/stable/V14.0.2.0.THZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.THZRUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-06-01</td><td><a href="/miui/sea/stable/V14.0.2.0.THZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.THZRUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable beta/V14.0.1.0.THZRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12S Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.THZTRXM</td><td>13.0</td><td>5.8 GB</td><td>2023-04-13</td><td><a href="/miui/sea/stable/V14.0.1.0.THZTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12S Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.THZTRXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable beta/V14.0.1.0.THZTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.THZTRXM</td><td>13.0</td><td>4.0 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable/V14.0.1.0.THZTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.THZTWXM</td><td>13.0</td><td>5.4 GB</td><td>2023-04-17</td><td><a href="/miui/sea/stable/V14.0.1.0.THZTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12S Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.THZTWXM</td><td>13.0</td><td>3.9 GB</td><td>2023-05-10</td><td><a href="/miui/sea/stable/V14.0.1.0.THZTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

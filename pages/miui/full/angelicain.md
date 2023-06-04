@@ -52,7 +52,7 @@ permalink: /archive/miui/angelicain/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO C31 India</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.4.0.RCRINRF</td><td>11.0</td><td>2.0 GB</td><td>2023-05-15</td><td><a href="/miui/angelicain/stable beta/V12.5.4.0.RCRINRF/">Download</a></td></tr>
+                <tr><td>POCO C31 India</td><td>Stable</td><td>Recovery</td><td>V12.5.4.0.RCRINRF</td><td>11.0</td><td>2.0 GB</td><td>2023-05-15</td><td><a href="/miui/angelicain/stable/V12.5.4.0.RCRINRF/">Download</a></td></tr>
 <tr><td>POCO C31 India</td><td>Stable</td><td>Fastboot</td><td>V12.5.4.0.RCRINRF</td><td>11.0</td><td>3.1 GB</td><td>2023-05-09</td><td><a href="/miui/angelicain/stable/V12.5.4.0.RCRINRF/">Download</a></td></tr>
 <tr><td>POCO C31 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.10.0.QCRINRF</td><td>10.0</td><td>2.8 GB</td><td>2023-03-10</td><td><a href="/miui/angelicain/stable/V12.0.10.0.QCRINRF/">Download</a></td></tr>
 <tr><td>POCO C31 India</td><td>Stable</td><td>Fastboot</td><td>V12.0.9.0.QCRINRF</td><td>10.0</td><td>2.6 GB</td><td>2022-12-18</td><td><a href="/miui/angelicain/stable/V12.0.9.0.QCRINRF/">Download</a></td></tr>
