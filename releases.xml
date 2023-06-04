@@ -1,15 +1,20 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 05 Jun 2023 04:00:03 +0900</pubDate>
+  <pubDate>Mon, 05 Jun 2023 06:34:32 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Xiaomi 12 (cupid) - V14.0.23.3.27.DEV</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Mon, 05 Jun 2023 06:34:32 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.23.4.10.DEV</title>
     <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Mon, 05 Jun 2023 04:00:03 +0900</pubDate>
+    <pubDate>Mon, 05 Jun 2023 05:21:30 +0900</pubDate>
   </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V14.0.13.0.TLBEUXM</title>
@@ -100,11 +105,6 @@
     <title>Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G (veux) - V14.0.1.0.TKCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/veux</link>
     <pubDate>Tue, 30 May 2023 01:56:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12T Pro (pearl) - V14.0.1.0.TLHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/pearl</link>
-    <pubDate>Tue, 30 May 2023 01:31:38 +0900</pubDate>
   </item>
     </channel>
 </rss>
