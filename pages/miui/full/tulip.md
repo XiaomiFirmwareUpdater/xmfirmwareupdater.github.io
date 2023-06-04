@@ -136,6 +136,7 @@ permalink: /archive/miui/tulip/
 <tr><td>Redmi Note 6 Pro Global</td><td>Weekly</td><td>Fastboot</td><td>8.11.23</td><td>8.1</td><td>2.6 GB</td><td>2018-11-26</td><td><a href="/miui/tulip/weekly/8.11.23/">Download</a></td></tr>
 <tr><td>Redmi Note 6 Pro Global</td><td>Stable</td><td>Recovery</td><td>V10.0.4.0.OEKMIFH</td><td>8.1</td><td>1.7 GB</td><td>2018-11-19</td><td><a href="/miui/tulip/stable/V10.0.4.0.OEKMIFH/">Download</a></td></tr>
 <tr><td>Redmi Note 6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.4.0.OEKMIFH</td><td>8.1</td><td>2.5 GB</td><td>2018-11-19</td><td><a href="/miui/tulip/stable/V10.0.4.0.OEKMIFH/">Download</a></td></tr>
+<tr><td>Redmi Note 6 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V9.6.9.0.OEKRUFD</td><td>8.1</td><td>1.7 GB</td><td>2018-11-15</td><td><a href="/miui/tulip/stable/V9.6.9.0.OEKRUFD/">Download</a></td></tr>
 <tr><td>Redmi Note 6 Pro Global</td><td>Stable</td><td>Recovery</td><td>V9.6.10.0.OEKMIFD</td><td>8.1</td><td>1.7 GB</td><td>2018-11-15</td><td><a href="/miui/tulip/stable/V9.6.10.0.OEKMIFD/">Download</a></td></tr>
 <tr><td>Redmi Note 6 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V9.6.10.0.OEKMIFD</td><td>8.1</td><td>2.7 GB</td><td>2018-11-15</td><td><a href="/miui/tulip/stable/V9.6.10.0.OEKMIFD/">Download</a></td></tr>
 <tr><td>Redmi Note 6 Pro Global</td><td>Stable</td><td>Recovery</td><td>V9.6.6.0.OEKMIFD</td><td>8.1</td><td>1.7 GB</td><td>2018-11-13</td><td><a href="/miui/tulip/stable/V9.6.6.0.OEKMIFD/">Download</a></td></tr>

@@ -100,6 +100,8 @@ permalink: /archive/miui/aries/
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>V8.1.2.0.LXACNDI</td><td>5.0</td><td>1.1 GB</td><td>2016-11-07</td><td><a href="/miui/aries/stable/V8.1.2.0.LXACNDI/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Recovery</td><td>V8.0.1.0.LXACNDG</td><td>5.0</td><td>737.9 MB</td><td>2016-08-23</td><td><a href="/miui/aries/stable/V8.0.1.0.LXACNDG/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>V8.0.1.0.LXACNDG</td><td>5.0</td><td>1.1 GB</td><td>2016-08-05</td><td><a href="/miui/aries/stable/V8.0.1.0.LXACNDG/">Download</a></td></tr>
+<tr><td>MI 2S China</td><td>Stable</td><td>Recovery</td><td>V6.6.1.0.LXACNCF</td><td>5.0</td><td>357.1 MB</td><td>2016-08-23</td><td><a href="/miui/aries/stable/V6.6.1.0.LXACNCF/">Download</a></td></tr>
+<tr><td>MI 2S China</td><td>Stable</td><td>Recovery</td><td>V6.7.3.0.LXACNCH</td><td>5.0</td><td>362.5 MB</td><td>2016-08-23</td><td><a href="/miui/aries/stable/V6.7.3.0.LXACNCH/">Download</a></td></tr>
 <tr><td>MI 2S Global</td><td>Stable</td><td>Recovery</td><td>V8.0.1.0.LXAMIDG</td><td>5.0</td><td>806.4 MB</td><td>2016-08-15</td><td><a href="/miui/aries/stable/V8.0.1.0.LXAMIDG/">Download</a></td></tr>
 <tr><td>MI 2S Global</td><td>Weekly</td><td>Recovery</td><td>6.7.14</td><td>5.0</td><td>683.9 MB</td><td>2016-07-14</td><td><a href="/miui/aries/weekly/6.7.14/">Download</a></td></tr>
 <tr><td>MI 2S Global</td><td>Weekly</td><td>Fastboot</td><td>6.7.14</td><td>5.0</td><td>915.9 MB</td><td>2016-06-29</td><td><a href="/miui/aries/weekly/6.7.14/">Download</a></td></tr>
@@ -111,8 +113,11 @@ permalink: /archive/miui/aries/
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>V7.2.5.0.LXACNDA</td><td>5.0</td><td>870.3 MB</td><td>2016-01-29</td><td><a href="/miui/aries/stable/V7.2.5.0.LXACNDA/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Recovery</td><td>V7.2.4.0.LXACNDA</td><td>5.0</td><td>564.2 MB</td><td>2016-03-07</td><td><a href="/miui/aries/stable/V7.2.4.0.LXACNDA/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>V7.2.4.0.LXACNDA</td><td>5.0</td><td>870.3 MB</td><td>2016-01-29</td><td><a href="/miui/aries/stable/V7.2.4.0.LXACNDA/">Download</a></td></tr>
+<tr><td>MI 2S China</td><td>Stable</td><td>Recovery</td><td>V7.2.2.0.LXACNDB</td><td>5.0</td><td>564.2 MB</td><td>2016-03-02</td><td><a href="/miui/aries/stable/V7.2.2.0.LXACNDB/">Download</a></td></tr>
+<tr><td>MI 2S China</td><td>Stable</td><td>Recovery</td><td>V7.2.1.0.LXACNDB</td><td>5.0</td><td>564.1 MB</td><td>2016-02-29</td><td><a href="/miui/aries/stable/V7.2.1.0.LXACNDB/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Recovery</td><td>V7.1.5.0.LXACNCK</td><td>5.0</td><td>415.3 MB</td><td>2016-01-27</td><td><a href="/miui/aries/stable/V7.1.5.0.LXACNCK/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>V7.1.5.0.LXACNCK</td><td>5.0</td><td>699.3 MB</td><td>2016-01-25</td><td><a href="/miui/aries/stable/V7.1.5.0.LXACNCK/">Download</a></td></tr>
+<tr><td>MI 2S China</td><td>Stable</td><td>Recovery</td><td>V7.1.3.0.LXACNCK</td><td>5.0</td><td>415.3 MB</td><td>2016-01-12</td><td><a href="/miui/aries/stable/V7.1.3.0.LXACNCK/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Recovery</td><td>V7.1.1.0.LXACNCK</td><td>5.0</td><td>415.3 MB</td><td>2015-12-24</td><td><a href="/miui/aries/stable/V7.1.1.0.LXACNCK/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>V7.1.1.0.LXACNCK</td><td>5.0</td><td>670.1 MB</td><td>2015-12-21</td><td><a href="/miui/aries/stable/V7.1.1.0.LXACNCK/">Download</a></td></tr>
 <tr><td>MI 2S Global</td><td>Stable</td><td>Recovery</td><td>V7.1.2.0.LXAMICK</td><td>5.0</td><td>583.0 MB</td><td>2015-12-24</td><td><a href="/miui/aries/stable/V7.1.2.0.LXAMICK/">Download</a></td></tr>
@@ -121,7 +126,9 @@ permalink: /archive/miui/aries/
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>V7.0.4.0.LXACNCI</td><td>5.0</td><td>629.2 MB</td><td>2015-10-16</td><td><a href="/miui/aries/stable/V7.0.4.0.LXACNCI/">Download</a></td></tr>
 <tr><td>MI 2S Global</td><td>Stable</td><td>Recovery</td><td>V6.6.1.0.LXAMICF</td><td>5.0</td><td>569.2 MB</td><td>2015-10-06</td><td><a href="/miui/aries/stable/V6.6.1.0.LXAMICF/">Download</a></td></tr>
 <tr><td>MI 2S Global</td><td>Stable</td><td>Fastboot</td><td>V6.6.1.0.LXAMICF</td><td>5.0</td><td>690.1 MB</td><td>2015-06-26</td><td><a href="/miui/aries/stable/V6.6.1.0.LXAMICF/">Download</a></td></tr>
+<tr><td>MI 2S Global</td><td>Stable</td><td>Recovery</td><td>V6.7.2.0.LXAMICH</td><td>5.0</td><td>582.4 MB</td><td>2015-10-03</td><td><a href="/miui/aries/stable/V6.7.2.0.LXAMICH/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>JLB54.0</td><td>4.1</td><td>520.8 MB</td><td>2015-04-27</td><td><a href="/miui/aries/stable/JLB54.0/">Download</a></td></tr>
+<tr><td>MI 2S China</td><td>Stable</td><td>Recovery</td><td>V6.5.0.1.LXACNCD</td><td>5.0</td><td>335.0 MB</td><td>2015-04-23</td><td><a href="/miui/aries/stable/V6.5.0.1.LXACNCD/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>JLB50.0</td><td>4.1</td><td>520.7 MB</td><td>2015-03-05</td><td><a href="/miui/aries/stable/JLB50.0/">Download</a></td></tr>
 <tr><td>MI 2S China</td><td>Stable</td><td>Fastboot</td><td>JLB52.0</td><td>4.1</td><td>520.8 MB</td><td>2015-02-08</td><td><a href="/miui/aries/stable/JLB52.0/">Download</a></td></tr>
 

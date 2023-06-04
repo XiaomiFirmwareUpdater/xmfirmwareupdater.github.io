@@ -52,7 +52,9 @@ permalink: /miui/selene/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10 / Redmi 10 2022 EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SKUEUXM</td><td>12.0</td><td>5.9 GB</td><td>2023-03-21</td><td><a href="/miui/selene/stable/V13.0.10.0.SKUEUXM/">Download</a></td></tr>
+                <tr><td>Redmi 10 / Redmi 10 2022 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKUCNXM</td><td>13.0</td><td>5.5 GB</td><td>2023-05-11</td><td><a href="/miui/selene/stable/V14.0.2.0.TKUCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 4G China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKUCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-05-16</td><td><a href="/miui/selenes/stable/V14.0.2.0.TKUCNXM/">Download</a></td></tr>
+<tr><td>Redmi 10 / Redmi 10 2022 EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SKUEUXM</td><td>12.0</td><td>5.9 GB</td><td>2023-03-21</td><td><a href="/miui/selene/stable/V13.0.10.0.SKUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SKUEUXM</td><td>12.0</td><td>3.0 GB</td><td>2023-03-24</td><td><a href="/miui/selene/stable/V13.0.10.0.SKUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SKUEUXM</td><td>12.0</td><td>3.0 GB</td><td>2023-02-22</td><td><a href="/miui/selene/stable beta/V13.0.7.0.SKUEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.15.0.SKUMIXM</td><td>12.0</td><td>6.1 GB</td><td>2023-03-20</td><td><a href="/miui/selene/stable/V13.0.15.0.SKUMIXM/">Download</a></td></tr>
@@ -61,9 +63,9 @@ permalink: /miui/selene/
 <tr><td>Redmi 10 / Redmi 10 2022 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SKUIDXM</td><td>12.0</td><td>5.4 GB</td><td>2023-03-21</td><td><a href="/miui/selene/stable/V13.0.10.0.SKUIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SKUIDXM</td><td>12.0</td><td>3.0 GB</td><td>2023-03-27</td><td><a href="/miui/selene/stable/V13.0.10.0.SKUIDXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.8.0.SKUIDXM</td><td>12.0</td><td>3.0 GB</td><td>2023-03-02</td><td><a href="/miui/selene/stable beta/V13.0.8.0.SKUIDXM/">Download</a></td></tr>
-<tr><td>Redmi 10 Prime / Redmi 10 2022 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKUINXM</td><td>12.0</td><td>4.3 GB</td><td>2022-12-28</td><td><a href="/miui/selene/stable/V13.0.5.0.SKUINXM/">Download</a></td></tr>
-<tr><td>Redmi 10 Prime / Redmi 10 2022 India</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKUINXM</td><td>12.0</td><td>2.9 GB</td><td>2023-01-05</td><td><a href="/miui/selene/stable/V13.0.5.0.SKUINXM/">Download</a></td></tr>
+<tr><td>Redmi 10 Prime / Redmi 10 2022 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SKUINXM</td><td>12.0</td><td>4.5 GB</td><td>2023-04-10</td><td><a href="/miui/selene/stable/V13.0.7.0.SKUINXM/">Download</a></td></tr>
 <tr><td>Redmi 10 Prime / Redmi 10 2022 India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.7.0.SKUINXM</td><td>12.0</td><td>2.9 GB</td><td>2023-04-23</td><td><a href="/miui/selene/stable beta/V13.0.7.0.SKUINXM/">Download</a></td></tr>
+<tr><td>Redmi 10 Prime / Redmi 10 2022 India</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKUINXM</td><td>12.0</td><td>2.9 GB</td><td>2023-01-05</td><td><a href="/miui/selene/stable/V13.0.5.0.SKUINXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SKURUXM</td><td>12.0</td><td>5.3 GB</td><td>2023-03-07</td><td><a href="/miui/selene/stable/V13.0.6.0.SKURUXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SKURUXM</td><td>12.0</td><td>3.0 GB</td><td>2023-03-20</td><td><a href="/miui/selene/stable/V13.0.6.0.SKURUXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SKURUXM</td><td>12.0</td><td>3.0 GB</td><td>2023-03-09</td><td><a href="/miui/selene/stable beta/V13.0.5.0.SKURUXM/">Download</a></td></tr>
@@ -73,7 +75,6 @@ permalink: /miui/selene/
 <tr><td>Redmi 10 / Redmi 10 2022 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SKUTWXM</td><td>12.0</td><td>4.7 GB</td><td>2023-02-21</td><td><a href="/miui/selene/stable/V13.0.5.0.SKUTWXM/">Download</a></td></tr>
 <tr><td>Redmi 10 / Redmi 10 2022 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SKUTWXM</td><td>12.0</td><td>2.9 GB</td><td>2023-02-28</td><td><a href="/miui/selene/stable/V13.0.5.0.SKUTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 4G China</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RKUCNXM</td><td>11.0</td><td>4.6 GB</td><td>2021-11-26</td><td><a href="/miui/selenes/stable/V12.5.2.0.RKUCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 4G China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKUCNXM</td><td>13.0</td><td>4.1 GB</td><td>2023-05-16</td><td><a href="/miui/selenes/stable/V14.0.2.0.TKUCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 4G China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.7.0.RKUCNXM</td><td>11.0</td><td>3.2 GB</td><td>2022-01-22</td><td><a href="/miui/selenes/stable beta/V12.5.7.0.RKUCNXM/">Download</a></td></tr>
 
                 </tbody>

@@ -263,6 +263,7 @@ permalink: /archive/miui/mido/
 <tr><td>Redmi Note 4 China</td><td>Stable</td><td>Recovery</td><td>V9.5.1.0.NCFCNFA</td><td>7.0</td><td>1.4 GB</td><td>2018-02-24</td><td><a href="/miui/mido/stable/V9.5.1.0.NCFCNFA/">Download</a></td></tr>
 <tr><td>Redmi Note 4 Global</td><td>Weekly</td><td>Fastboot</td><td>8.2.8</td><td>7.0</td><td>2.1 GB</td><td>2018-02-08</td><td><a href="/miui/mido/weekly/8.2.8/">Download</a></td></tr>
 <tr><td>Redmi Note 4 Global</td><td>Weekly</td><td>Recovery</td><td>8.2.8</td><td>7.0</td><td>1.5 GB</td><td>2018-02-07</td><td><a href="/miui/mido/weekly/8.2.8/">Download</a></td></tr>
+<tr><td>Redmi Note 4 Global</td><td>Stable</td><td>Recovery</td><td>V9.2.2.0.NCFMIEK</td><td>7.0</td><td>1.3 GB</td><td>2018-02-02</td><td><a href="/miui/mido/stable/V9.2.2.0.NCFMIEK/">Download</a></td></tr>
 <tr><td>Redmi Note 4 Global</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>7.0</td><td>2.1 GB</td><td>2018-02-01</td><td><a href="/miui/mido/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Redmi Note 4 Global</td><td>Weekly</td><td>Recovery</td><td>8.2.1</td><td>7.0</td><td>1.5 GB</td><td>2018-02-01</td><td><a href="/miui/mido/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Redmi Note 4 China</td><td>Weekly</td><td>Recovery</td><td>8.2.1</td><td>7.0</td><td>1.4 GB</td><td>2018-01-31</td><td><a href="/miui/mido/weekly/8.2.1/">Download</a></td></tr>

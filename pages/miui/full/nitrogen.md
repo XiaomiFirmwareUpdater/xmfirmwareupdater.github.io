@@ -300,6 +300,7 @@ permalink: /archive/miui/nitrogen/
 <tr><td>Mi Max 3 Global</td><td>Stable</td><td>Recovery</td><td>V9.6.8.0.OEDMIFD</td><td>8.1</td><td>1.7 GB</td><td>2018-10-19</td><td><a href="/miui/nitrogen/stable/V9.6.8.0.OEDMIFD/">Download</a></td></tr>
 <tr><td>Mi Max 3 China</td><td>Weekly</td><td>Recovery</td><td>8.10.18</td><td>8.1</td><td>2.0 GB</td><td>2018-10-19</td><td><a href="/miui/nitrogen/weekly/8.10.18/">Download</a></td></tr>
 <tr><td>Mi Max 3 China</td><td>Weekly</td><td>Fastboot</td><td>8.10.18</td><td>8.1</td><td>3.2 GB</td><td>2018-10-19</td><td><a href="/miui/nitrogen/weekly/8.10.18/">Download</a></td></tr>
+<tr><td>Mi Max 3 Russia</td><td>Stable</td><td>Recovery</td><td>V9.6.9.0.OEDRUFD</td><td>8.1</td><td>1.7 GB</td><td>2018-10-19</td><td><a href="/miui/nitrogen/stable/V9.6.9.0.OEDRUFD/">Download</a></td></tr>
 <tr><td>Mi Max 3 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.1.0.OEDMIFH</td><td>8.1</td><td>1.8 GB</td><td>2018-10-19</td><td><a href="/miui/nitrogen/stable/V10.0.1.0.OEDMIFH/">Download</a></td></tr>
 <tr><td>Mi Max 3 Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.1.0.OEDMIFH</td><td>8.1</td><td>2.5 GB</td><td>2018-10-19</td><td><a href="/miui/nitrogen/stable/V10.0.1.0.OEDMIFH/">Download</a></td></tr>
 <tr><td>Mi Max 3 Global</td><td>Stable</td><td>Recovery</td><td>V9.6.6.0.OEDMIFD</td><td>8.1</td><td>1.7 GB</td><td>2018-10-17</td><td><a href="/miui/nitrogen/stable/V9.6.6.0.OEDMIFD/">Download</a></td></tr>

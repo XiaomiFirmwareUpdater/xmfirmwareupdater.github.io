@@ -138,6 +138,7 @@ permalink: /archive/miui/ferrari/
 <tr><td>MI 4i Global</td><td>Stable</td><td>Fastboot</td><td>V6.5.3.0.LXIMICD</td><td>5.0</td><td>987.9 MB</td><td>2015-10-20</td><td><a href="/miui/ferrari/stable/V6.5.3.0.LXIMICD/">Download</a></td></tr>
 <tr><td>MI 4i Global</td><td>Stable</td><td>Recovery</td><td>V6.5.3.0.LXIMICD</td><td>5.0</td><td>844.6 MB</td><td>2015-10-20</td><td><a href="/miui/ferrari/stable/V6.5.3.0.LXIMICD/">Download</a></td></tr>
 <tr><td>MI 4i Global</td><td>Stable</td><td>Recovery</td><td>V6.6.8.0.LXIMICF</td><td>5.0</td><td>913.7 MB</td><td>2015-10-14</td><td><a href="/miui/ferrari/stable/V6.6.8.0.LXIMICF/">Download</a></td></tr>
+<tr><td>MI 4i Global</td><td>Stable</td><td>Recovery</td><td>V6.6.1.0.LXIMICF</td><td>5.0</td><td>900.9 MB</td><td>2015-10-10</td><td><a href="/miui/ferrari/stable/V6.6.1.0.LXIMICF/">Download</a></td></tr>
 <tr><td>MI 4i Global</td><td>Weekly</td><td>Recovery</td><td>5.6.25</td><td>5.0</td><td>901.6 MB</td><td>2015-10-07</td><td><a href="/miui/ferrari/weekly/5.6.25/">Download</a></td></tr>
 <tr><td>MI 4i Global</td><td>Weekly</td><td>Fastboot</td><td>5.6.25</td><td>5.0</td><td>1.0 GB</td><td>2015-05-21</td><td><a href="/miui/ferrari/weekly/5.6.25/">Download</a></td></tr>
 <tr><td>MI 4i Global</td><td>Stable</td><td>Recovery</td><td>V6.6.5.0.LXIMICF</td><td>5.0</td><td>900.9 MB</td><td>2015-09-25</td><td><a href="/miui/ferrari/stable/V6.6.5.0.LXIMICF/">Download</a></td></tr>

@@ -113,6 +113,7 @@ permalink: /archive/miui/gucci/
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V8.1.1.0.KHKCNDI</td><td>4.4</td><td>677.0 MB</td><td>2016-11-16</td><td><a href="/miui/gucci/stable/V8.1.1.0.KHKCNDI/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V8.0.1.0.KHKCNDG</td><td>4.4</td><td>667.3 MB</td><td>2016-08-23</td><td><a href="/miui/gucci/stable/V8.0.1.0.KHKCNDG/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.5.3.0.KHKCNCD</td><td>4.4</td><td>417.1 MB</td><td>2016-08-23</td><td><a href="/miui/gucci/stable/V6.5.3.0.KHKCNCD/">Download</a></td></tr>
+<tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.6.2.0.KHKCNCF</td><td>4.4</td><td>440.1 MB</td><td>2016-08-23</td><td><a href="/miui/gucci/stable/V6.6.2.0.KHKCNCF/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.5.4.0.KHKCNCD</td><td>4.4</td><td>417.1 MB</td><td>2016-08-23</td><td><a href="/miui/gucci/stable/V6.5.4.0.KHKCNCD/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.6.1.0.KHKCNCF</td><td>4.4</td><td>439.5 MB</td><td>2016-08-23</td><td><a href="/miui/gucci/stable/V6.6.1.0.KHKCNCF/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.6.3.0.KHKCNCF</td><td>4.4</td><td>440.1 MB</td><td>2016-08-23</td><td><a href="/miui/gucci/stable/V6.6.3.0.KHKCNCF/">Download</a></td></tr>
@@ -139,7 +140,9 @@ permalink: /archive/miui/gucci/
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V7.0.2.0.KHKCNCI</td><td>4.4</td><td>491.9 MB</td><td>2015-10-23</td><td><a href="/miui/gucci/stable/V7.0.2.0.KHKCNCI/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.5.1.0.KHKCNCD</td><td>4.4</td><td>368.3 MB</td><td>2015-05-16</td><td><a href="/miui/gucci/stable/V6.5.1.0.KHKCNCD/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.5.2.0.KHKCNCD</td><td>4.4</td><td>368.4 MB</td><td>2015-05-16</td><td><a href="/miui/gucci/stable/V6.5.2.0.KHKCNCD/">Download</a></td></tr>
+<tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.4.8.0.KHKCNCB</td><td>4.4</td><td>362.3 MB</td><td>2015-04-24</td><td><a href="/miui/gucci/stable/V6.4.8.0.KHKCNCB/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.4.7.0.KHKCNCB</td><td>4.4</td><td>362.3 MB</td><td>2015-04-11</td><td><a href="/miui/gucci/stable/V6.4.7.0.KHKCNCB/">Download</a></td></tr>
+<tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.4.5.0.KHKCNCB</td><td>4.4</td><td>362.3 MB</td><td>2015-03-31</td><td><a href="/miui/gucci/stable/V6.4.5.0.KHKCNCB/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.3.1.0.KHKCNBL</td><td>4.4</td><td>359.6 MB</td><td>2015-03-28</td><td><a href="/miui/gucci/stable/V6.3.1.0.KHKCNBL/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Fastboot</td><td>V6.3.11.0.KHKCNBL</td><td>4.4</td><td>624.4 MB</td><td>2015-03-27</td><td><a href="/miui/gucci/stable/V6.3.11.0.KHKCNBL/">Download</a></td></tr>
 <tr><td>Redmi Note 1S 4G China</td><td>Stable</td><td>Recovery</td><td>V6.3.11.0.KHKCNBL</td><td>4.4</td><td>349.7 MB</td><td>2015-03-27</td><td><a href="/miui/gucci/stable/V6.3.11.0.KHKCNBL/">Download</a></td></tr>

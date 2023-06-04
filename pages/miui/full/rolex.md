@@ -255,6 +255,7 @@ permalink: /archive/miui/rolex/
 <tr><td>Redmi 4A China</td><td>Weekly</td><td>Fastboot</td><td>8.1.11</td><td>6.0</td><td>2.0 GB</td><td>2018-01-11</td><td><a href="/miui/rolex/weekly/8.1.11/">Download</a></td></tr>
 <tr><td>Redmi 4A China</td><td>Weekly</td><td>Recovery</td><td>8.1.11</td><td>6.0</td><td>1.3 GB</td><td>2018-01-10</td><td><a href="/miui/rolex/weekly/8.1.11/">Download</a></td></tr>
 <tr><td>Redmi 4A Global</td><td>Weekly</td><td>Recovery</td><td>8.1.11</td><td>7.1</td><td>1.3 GB</td><td>2018-01-10</td><td><a href="/miui/rolex/weekly/8.1.11/">Download</a></td></tr>
+<tr><td>Redmi 4A China</td><td>Stable</td><td>Recovery</td><td>V9.2.2.0.MCCCNEK</td><td>6.0</td><td>1.3 GB</td><td>2018-01-09</td><td><a href="/miui/rolex/stable/V9.2.2.0.MCCCNEK/">Download</a></td></tr>
 <tr><td>Redmi 4A China</td><td>Weekly</td><td>Fastboot</td><td>8.1.4</td><td>6.0</td><td>2.0 GB</td><td>2018-01-04</td><td><a href="/miui/rolex/weekly/8.1.4/">Download</a></td></tr>
 <tr><td>Redmi 4A China</td><td>Weekly</td><td>Recovery</td><td>8.1.4</td><td>6.0</td><td>1.3 GB</td><td>2018-01-03</td><td><a href="/miui/rolex/weekly/8.1.4/">Download</a></td></tr>
 <tr><td>Redmi 4A Global</td><td>Weekly</td><td>Fastboot</td><td>7.12.28</td><td>7.1</td><td>1.8 GB</td><td>2017-12-28</td><td><a href="/miui/rolex/weekly/7.12.28/">Download</a></td></tr>

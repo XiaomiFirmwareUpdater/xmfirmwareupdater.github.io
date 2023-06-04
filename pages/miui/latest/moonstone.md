@@ -56,15 +56,18 @@ permalink: /miui/moonstone/
 <tr><td>POCO X5 5G  EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMPEUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-04-07</td><td><a href="/miui/moonstone/stable/V14.0.2.0.TMPEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMPMIXM</td><td>13.0</td><td>6.2 GB</td><td>2023-05-03</td><td><a href="/miui/moonstone/stable/V14.0.3.0.TMPMIXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMPMIXM</td><td>13.0</td><td>3.5 GB</td><td>2023-05-06</td><td><a href="/miui/moonstone/stable/V14.0.3.0.TMPMIXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G  India</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SMPINXM</td><td>12.0</td><td>4.6 GB</td><td>2023-03-21</td><td><a href="/miui/moonstone/stable/V13.0.3.0.SMPINXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G  India</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SMPINXM</td><td>12.0</td><td>3.5 GB</td><td>2023-04-10</td><td><a href="/miui/moonstone/stable/V13.0.3.0.SMPINXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SMPIDXM</td><td>12.0</td><td>5.5 GB</td><td>2023-03-29</td><td><a href="/miui/moonstone/stable/V13.0.4.0.SMPIDXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SMPIDXM</td><td>12.0</td><td>3.8 GB</td><td>2023-04-11</td><td><a href="/miui/moonstone/stable/V13.0.4.0.SMPIDXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMPINXM</td><td>13.0</td><td>4.7 GB</td><td>2023-04-15</td><td><a href="/miui/moonstone/stable/V14.0.2.0.TMPINXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TMPINXM</td><td>13.0</td><td>3.4 GB</td><td>2023-04-20</td><td><a href="/miui/moonstone/stable beta/V14.0.2.0.TMPINXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  India</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SMPINXM</td><td>12.0</td><td>3.5 GB</td><td>2023-04-10</td><td><a href="/miui/moonstone/stable/V13.0.3.0.SMPINXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SMPRUXM</td><td>12.0</td><td>5.4 GB</td><td>2023-03-22</td><td><a href="/miui/moonstone/stable/V13.0.4.0.SMPRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SMPRUXM</td><td>12.0</td><td>3.8 GB</td><td>2023-04-10</td><td><a href="/miui/moonstone/stable/V13.0.4.0.SMPRUXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMPTRXM</td><td>13.0</td><td>5.6 GB</td><td>2023-05-17</td><td><a href="/miui/moonstone/stable/V14.0.2.0.TMPTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TMPTRXM</td><td>13.0</td><td>3.5 GB</td><td>2023-05-31</td><td><a href="/miui/moonstone/stable beta/V14.0.2.0.TMPTRXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G  Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SMPTWXM</td><td>12.0</td><td>5.0 GB</td><td>2023-04-04</td><td><a href="/miui/moonstone/stable/V13.0.5.0.SMPTWXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G  Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SMPTWXM</td><td>12.0</td><td>3.7 GB</td><td>2023-04-18</td><td><a href="/miui/moonstone/stable/V13.0.5.0.SMPTWXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMPTWXM</td><td>13.0</td><td>5.1 GB</td><td>2023-05-10</td><td><a href="/miui/moonstone/stable/V14.0.2.0.TMPTWXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TMPTWXM</td><td>13.0</td><td>3.4 GB</td><td>2023-05-22</td><td><a href="/miui/moonstone/stable beta/V14.0.2.0.TMPTWXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SMPTWXM</td><td>12.0</td><td>3.7 GB</td><td>2023-04-18</td><td><a href="/miui/moonstone/stable/V13.0.5.0.SMPTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

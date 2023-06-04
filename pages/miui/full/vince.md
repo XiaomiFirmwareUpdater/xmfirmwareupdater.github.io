@@ -260,6 +260,7 @@ permalink: /archive/miui/vince/
 <tr><td>Redmi 5 Plus China</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>7.1</td><td>2.2 GB</td><td>2018-03-01</td><td><a href="/miui/vince/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Redmi 5 Plus China</td><td>Stable</td><td>Recovery</td><td>V9.2.4.0.NEGCNEK</td><td>7.1</td><td>1.4 GB</td><td>2018-02-09</td><td><a href="/miui/vince/stable/V9.2.4.0.NEGCNEK/">Download</a></td></tr>
 <tr><td>Redmi 5 Plus China</td><td>Stable</td><td>Fastboot</td><td>V9.2.4.0.NEGCNEK</td><td>7.1</td><td>2.2 GB</td><td>2018-02-09</td><td><a href="/miui/vince/stable/V9.2.4.0.NEGCNEK/">Download</a></td></tr>
+<tr><td>Redmi 5 Plus Russia</td><td>Stable</td><td>Fastboot</td><td>V9.2.10.0.NEGRUEK</td><td>7.1</td><td>2.1 GB</td><td>2018-02-07</td><td><a href="/miui/vince/stable/V9.2.10.0.NEGRUEK/">Download</a></td></tr>
 <tr><td>Redmi 5 Plus Russia</td><td>Stable</td><td>Recovery</td><td>V9.2.10.0.NEGRUEK</td><td>7.1</td><td>1.6 GB</td><td>2018-02-07</td><td><a href="/miui/vince/stable/V9.2.10.0.NEGRUEK/">Download</a></td></tr>
 <tr><td>Redmi 5 Plus China</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>7.1</td><td>2.3 GB</td><td>2018-02-01</td><td><a href="/miui/vince/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Redmi 5 Plus China</td><td>Weekly</td><td>Recovery</td><td>8.2.1</td><td>7.1</td><td>1.5 GB</td><td>2018-02-01</td><td><a href="/miui/vince/weekly/8.2.1/">Download</a></td></tr>

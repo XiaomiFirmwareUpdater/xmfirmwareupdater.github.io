@@ -69,6 +69,8 @@ permalink: /miui/ruby/
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.SMORUXM</td><td>12.0</td><td>6.2 GB</td><td>2023-02-27</td><td><a href="/miui/ruby/stable/V14.0.5.0.SMORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.SMORUXM</td><td>12.0</td><td>4.1 GB</td><td>2023-03-22</td><td><a href="/miui/ruby/stable/V14.0.5.0.SMORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.SMORUXM</td><td>12.0</td><td>4.1 GB</td><td>2023-03-22</td><td><a href="/miui/ruby/stable beta/V14.0.3.0.SMORUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro / Pro+ 5G Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SMOTRXM</td><td>12.0</td><td>6.3 GB</td><td>2023-03-29</td><td><a href="/miui/ruby/stable/V14.0.2.0.SMOTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro / Pro+ 5G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SMOTRXM</td><td>12.0</td><td>4.1 GB</td><td>2023-04-07</td><td><a href="/miui/ruby/stable/V14.0.2.0.SMOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SMOTWXM</td><td>12.0</td><td>5.7 GB</td><td>2023-02-16</td><td><a href="/miui/ruby/stable/V14.0.2.0.SMOTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SMOTWXM</td><td>12.0</td><td>4.1 GB</td><td>2023-03-22</td><td><a href="/miui/ruby/stable/V14.0.2.0.SMOTWXM/">Download</a></td></tr>
 

@@ -18159,6 +18159,16 @@
     android: '10.0'
     miui: V12.0.3.0.QCDMIXM
 - branch: stable
+  date: '2023-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-04.06.2023/fw_dandelion_miui_DANDELIONINGlobal_V12.0.26.0.QCDINXM_0179984aa5_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/dandelion/fw_dandelion_miui_DANDELIONINGlobal_V12.0.26.0.QCDINXM_0179984aa5_10.0.zip
+  filename: fw_dandelion_miui_DANDELIONINGlobal_V12.0.26.0.QCDINXM_0179984aa5_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.26.0.QCDINXM
+- branch: stable
   date: '2022-04-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_dandelion/releases/download/stable-04.04.2022/fw_dandelion_miui_DANDELION_V12.5.11.0.RCDCNXM_3b8ba97e5a_11.0.zip
@@ -23478,6 +23488,16 @@
   versions:
     android: '11.0'
     miui: V12.5.2.0.RJSMIXM
+- branch: stable
+  date: '2023-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-04.06.2023/fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.2.0.SJSEUXM_03e0a3d01f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.2.0.SJSEUXM_03e0a3d01f_12.0.zip
+  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.2.0.SJSEUXM_03e0a3d01f_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V14.0.2.0.SJSEUXM
 - branch: stable
   date: '2022-03-04'
   downloads:
@@ -54139,6 +54159,26 @@
     android: '12.0'
     miui: V13.0.5.0.SLIEUXM
 - branch: stable
+  date: '2023-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-04.06.2023/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.13.0.TLIEUXM_58f161c12f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.13.0.TLIEUXM_58f161c12f_13.0.zip
+  filename: fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.13.0.TLIEUXM_58f161c12f_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.13.0.TLIEUXM
+- branch: stable
+  date: '2023-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-04.06.2023/fw_taoyao_miui_TAOYAOGlobal_V14.0.4.0.TLIMIXM_1dfaef41a3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOGlobal_V14.0.4.0.TLIMIXM_1dfaef41a3_13.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_V14.0.4.0.TLIMIXM_1dfaef41a3_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TLIMIXM
+- branch: stable
   date: '2023-02-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-02.02.2023/fw_taoyao_miui_TAOYAOGlobal_V14.0.3.0.TLIMIXM_d27325e58f_13.0.zip
@@ -64799,6 +64839,16 @@
     android: '13.0'
     miui: V14.0.1.0.TLOMIXM
 - branch: stable
+  date: '2023-06-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-04.06.2023/fw_xaga_miui_XAGAGlobal_V14.0.4.0.TLOMIXM_f99671c58b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGAGlobal_V14.0.4.0.TLOMIXM_f99671c58b_13.0.zip
+  filename: fw_xaga_miui_XAGAGlobal_V14.0.4.0.TLOMIXM_f99671c58b_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TLOMIXM
+- branch: stable
   date: '2022-10-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-03.10.2022/fw_xaga_miui_XAGAGlobal_V13.0.5.0.SLOMIXM_add9754910_12.0.zip
@@ -65538,6 +65588,16 @@
   versions:
     android: '12.0'
     miui: V13.0.37.0.SLBCNXM
+- branch: stable
+  date: '2023-06-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-04.06.2023/fw_zeus_miui_ZEUSEEAGlobal_V14.0.13.0.TLBEUXM_c256fb10fb_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zeus/fw_zeus_miui_ZEUSEEAGlobal_V14.0.13.0.TLBEUXM_c256fb10fb_13.0.zip
+  filename: fw_zeus_miui_ZEUSEEAGlobal_V14.0.13.0.TLBEUXM_c256fb10fb_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.13.0.TLBEUXM
 - branch: stable
   date: '2022-09-02'
   downloads:

@@ -533,6 +533,12 @@
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: V14.0.2.0.SJSINXM
 - android: '12.0'
+  codename: gauguin
+  date: '2023-06-03'
+  download: https://bigota.d.miui.com/V14.0.2.0.SJSEUXM/fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.2.0.SJSEUXM_03e0a3d01f_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V14.0.2.0.SJSEUXM
+- android: '12.0'
   codename: gram
   date: '2023-05-12'
   download: https://bigota.d.miui.com/V14.0.3.0.SJPINXM/fw_gram_miui_GRAMINGlobal_V14.0.3.0.SJPINXM_00355ec662_12.0.zip
@@ -1740,6 +1746,18 @@
   version: V14.0.9.0.TLIEUXM
 - android: '13.0'
   codename: taoyao
+  date: '2023-06-03'
+  download: https://bigota.d.miui.com/V14.0.13.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.13.0.TLIEUXM_58f161c12f_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.13.0.TLIEUXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-06-03'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.4.0.TLIMIXM_1dfaef41a3_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.4.0.TLIMIXM
+- android: '13.0'
+  codename: taoyao
   date: '2023-02-02'
   download: https://bigota.d.miui.com/V14.0.3.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.3.0.TLIMIXM_d27325e58f_13.0.zip
   name: Xiaomi 12 Lite
@@ -2069,6 +2087,12 @@
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.1.0.TLOMIXM
 - android: '13.0'
+  codename: xaga
+  date: '2023-06-04'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.4.0.TLOMIXM_f99671c58b_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.4.0.TLOMIXM
+- android: '13.0'
   codename: yuechu
   date: '2023-05-31'
   download: https://bigota.d.miui.com/V14.0.5.0.TMICNXM/fw_yuechu_miui_YUECHU_V14.0.5.0.TMICNXM_6b3f863826_13.0.zip
@@ -2140,6 +2164,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLBINXM/fw_zeus_miui_ZEUSINGlobal_V14.0.1.0.TLBINXM_1ad467d767_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.1.0.TLBINXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-06-04'
+  download: https://bigota.d.miui.com/V14.0.13.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V14.0.13.0.TLBEUXM_c256fb10fb_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.13.0.TLBEUXM
 - android: '13.0'
   codename: zeus
   date: '2023-02-01'

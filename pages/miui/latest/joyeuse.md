@@ -59,15 +59,15 @@ permalink: /miui/joyeuse/
 <tr><td>Redmi Note 9 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SJZMIXM</td><td>12.0</td><td>2.9 GB</td><td>2023-03-27</td><td><a href="/miui/joyeuse/stable/V14.0.3.0.SJZMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.SJZIDXM</td><td>12.0</td><td>4.5 GB</td><td>2023-03-16</td><td><a href="/miui/joyeuse/stable/V14.0.1.0.SJZIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.SJZIDXM</td><td>12.0</td><td>2.9 GB</td><td>2023-03-31</td><td><a href="/miui/joyeuse/stable/V14.0.1.0.SJZIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJZRUXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-01</td><td><a href="/miui/joyeuse/stable/V13.0.1.0.SJZRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJZRUXM</td><td>12.0</td><td>2.9 GB</td><td>2022-11-22</td><td><a href="/miui/joyeuse/stable/V13.0.1.0.SJZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.SJZRUXM</td><td>12.0</td><td>4.5 GB</td><td>2023-04-14</td><td><a href="/miui/joyeuse/stable/V14.0.1.0.SJZRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJZRUXM</td><td>12.0</td><td>2.9 GB</td><td>2023-04-28</td><td><a href="/miui/joyeuse/stable beta/V14.0.1.0.SJZRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJZTRXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-01</td><td><a href="/miui/joyeuse/stable/V13.0.1.0.SJZTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJZTRXM</td><td>12.0</td><td>2.9 GB</td><td>2022-11-22</td><td><a href="/miui/joyeuse/stable/V13.0.1.0.SJZTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJZRUXM</td><td>12.0</td><td>2.9 GB</td><td>2022-11-22</td><td><a href="/miui/joyeuse/stable/V13.0.1.0.SJZRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.SJZTRXM</td><td>12.0</td><td>4.5 GB</td><td>2023-04-14</td><td><a href="/miui/joyeuse/stable/V14.0.1.0.SJZTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.SJZTRXM</td><td>12.0</td><td>2.9 GB</td><td>2023-04-28</td><td><a href="/miui/joyeuse/stable beta/V14.0.1.0.SJZTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJZTWXM</td><td>12.0</td><td>4.4 GB</td><td>2023-01-06</td><td><a href="/miui/joyeuse/stable/V13.0.2.0.SJZTWXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJZTWXM</td><td>12.0</td><td>2.8 GB</td><td>2023-01-28</td><td><a href="/miui/joyeuse/stable/V13.0.2.0.SJZTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJZTRXM</td><td>12.0</td><td>2.9 GB</td><td>2022-11-22</td><td><a href="/miui/joyeuse/stable/V13.0.1.0.SJZTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.SJZTWXM</td><td>12.0</td><td>4.4 GB</td><td>2023-03-07</td><td><a href="/miui/joyeuse/stable/V14.0.3.0.SJZTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.SJZTWXM</td><td>12.0</td><td>2.8 GB</td><td>2023-03-27</td><td><a href="/miui/joyeuse/stable beta/V14.0.3.0.SJZTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJZTWXM</td><td>12.0</td><td>2.8 GB</td><td>2023-01-28</td><td><a href="/miui/joyeuse/stable/V13.0.2.0.SJZTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

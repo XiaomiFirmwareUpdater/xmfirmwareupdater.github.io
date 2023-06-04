@@ -136,6 +136,7 @@ permalink: /archive/miui/latte/
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V7.1.2.0.LACCNCK</td><td>5.1</td><td>748.9 MB</td><td>2015-12-10</td><td><a href="/miui/latte/stable/V7.1.2.0.LACCNCK/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Fastboot</td><td>V7.1.2.0.LACCNCK</td><td>5.1</td><td>817.5 MB</td><td>2015-11-26</td><td><a href="/miui/latte/stable/V7.1.2.0.LACCNCK/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V7.1.1.0.LXLCNCK</td><td>5.1</td><td>749.9 MB</td><td>2015-12-04</td><td><a href="/miui/latte/stable/V7.1.1.0.LXLCNCK/">Download</a></td></tr>
+<tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V7.0.12.0.LXLCNCJ</td><td>5.1</td><td>733.7 MB</td><td>2015-12-02</td><td><a href="/miui/latte/stable/V7.0.12.0.LXLCNCJ/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V7.0.10.0.LXLCNCJ</td><td>5.1</td><td>731.4 MB</td><td>2015-11-24</td><td><a href="/miui/latte/stable/V7.0.10.0.LXLCNCJ/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Fastboot</td><td>V7.0.10.0.LXLCNCJ</td><td>5.1</td><td>797.8 MB</td><td>2015-11-04</td><td><a href="/miui/latte/stable/V7.0.10.0.LXLCNCJ/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V7.0.8.0.LXLCNCJ</td><td>5.1</td><td>729.2 MB</td><td>2015-11-04</td><td><a href="/miui/latte/stable/V7.0.8.0.LXLCNCJ/">Download</a></td></tr>

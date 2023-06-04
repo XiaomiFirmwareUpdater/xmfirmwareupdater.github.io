@@ -223,6 +223,7 @@ permalink: /archive/miui/dior/
 <tr><td>Redmi Note 4G Global</td><td>Stable</td><td>Fastboot</td><td>V6.5.4.0.KHIMICD</td><td>4.4</td><td>749.7 MB</td><td>2015-09-12</td><td><a href="/miui/dior/stable/V6.5.4.0.KHIMICD/">Download</a></td></tr>
 <tr><td>Redmi Note 4G Global</td><td>Stable</td><td>Recovery</td><td>V6.5.4.0.KHIMICD</td><td>4.4</td><td>623.2 MB</td><td>2015-09-12</td><td><a href="/miui/dior/stable/V6.5.4.0.KHIMICD/">Download</a></td></tr>
 <tr><td>Redmi Note 4G Global</td><td>Weekly</td><td>Recovery</td><td>5.8.22</td><td>4.4</td><td>724.1 MB</td><td>2015-09-11</td><td><a href="/miui/dior/weekly/5.8.22/">Download</a></td></tr>
+<tr><td>Redmi Note 4G China</td><td>Stable</td><td>Recovery</td><td>V6.5.0.1.KHICNCD</td><td>4.4</td><td>422.3 MB</td><td>2015-05-18</td><td><a href="/miui/dior/stable/V6.5.0.1.KHICNCD/">Download</a></td></tr>
 <tr><td>Redmi Note 4G China</td><td>Stable</td><td>Fastboot</td><td>V6.5.1.0.KHICNCD</td><td>4.4</td><td>877.7 MB</td><td>2015-05-15</td><td><a href="/miui/dior/stable/V6.5.1.0.KHICNCD/">Download</a></td></tr>
 <tr><td>Redmi Note 4G China</td><td>Stable</td><td>Recovery</td><td>V6.5.1.0.KHICNCD</td><td>4.4</td><td>422.3 MB</td><td>2015-05-15</td><td><a href="/miui/dior/stable/V6.5.1.0.KHICNCD/">Download</a></td></tr>
 <tr><td>Redmi Note 4G China</td><td>Weekly</td><td>Recovery</td><td>5.4.17</td><td>4.4</td><td>426.6 MB</td><td>2015-05-10</td><td><a href="/miui/dior/weekly/5.4.17/">Download</a></td></tr>

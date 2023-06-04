@@ -85,6 +85,7 @@ permalink: /archive/miui/leo/
 <tr><td>Mi Note Pro China</td><td>Weekly</td><td>Recovery</td><td>7.5.25</td><td>7.0</td><td>858.0 MB</td><td>2017-05-24</td><td><a href="/miui/leo/weekly/7.5.25/">Download</a></td></tr>
 <tr><td>Mi Note Pro China</td><td>Weekly</td><td>Fastboot</td><td>7.4.20</td><td>7.0</td><td>1.6 GB</td><td>2017-04-20</td><td><a href="/miui/leo/weekly/7.4.20/">Download</a></td></tr>
 <tr><td>Mi Note Pro China</td><td>Weekly</td><td>Recovery</td><td>7.4.20</td><td>7.0</td><td>865.0 MB</td><td>2017-04-20</td><td><a href="/miui/leo/weekly/7.4.20/">Download</a></td></tr>
+<tr><td>Mi Note Pro China</td><td>Stable</td><td>Recovery</td><td>V8.2.3.0.NXHCNEC</td><td>7.0</td><td>837.4 MB</td><td>2017-04-07</td><td><a href="/miui/leo/stable/V8.2.3.0.NXHCNEC/">Download</a></td></tr>
 <tr><td>Mi Note Pro China</td><td>Weekly</td><td>Fastboot</td><td>7.3.30</td><td>7.0</td><td>1.6 GB</td><td>2017-03-30</td><td><a href="/miui/leo/weekly/7.3.30/">Download</a></td></tr>
 <tr><td>Mi Note Pro China</td><td>Weekly</td><td>Recovery</td><td>7.3.30</td><td>7.0</td><td>839.5 MB</td><td>2017-03-29</td><td><a href="/miui/leo/weekly/7.3.30/">Download</a></td></tr>
 <tr><td>Mi Note Pro China</td><td>Weekly</td><td>Fastboot</td><td>7.3.16</td><td>7.0</td><td>1.6 GB</td><td>2017-03-16</td><td><a href="/miui/leo/weekly/7.3.16/">Download</a></td></tr>

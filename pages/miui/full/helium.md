@@ -168,6 +168,7 @@ permalink: /archive/miui/helium/
 <tr><td>Mi Max Prime Global</td><td>Weekly</td><td>Fastboot</td><td>8.8.2</td><td>7.0</td><td>1.8 GB</td><td>2018-08-03</td><td><a href="/miui/helium/weekly/8.8.2/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Recovery</td><td>V7.5.1.0.MBDCNDE</td><td>6.0</td><td>954.7 MB</td><td>2018-08-03</td><td><a href="/miui/helium/stable/V7.5.1.0.MBDCNDE/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Fastboot</td><td>V7.5.1.0.MBDCNDE</td><td>6.0</td><td>1.4 GB</td><td>2016-05-23</td><td><a href="/miui/helium/stable/V7.5.1.0.MBDCNDE/">Download</a></td></tr>
+<tr><td>Mi Max Prime China</td><td>Stable</td><td>Recovery</td><td>V7.5.2.0.MBDCNDE</td><td>6.0</td><td>942.7 MB</td><td>2018-08-03</td><td><a href="/miui/helium/stable/V7.5.2.0.MBDCNDE/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Recovery</td><td>V7.5.4.0.MBDCNDE</td><td>6.0</td><td>943.9 MB</td><td>2018-08-03</td><td><a href="/miui/helium/stable/V7.5.4.0.MBDCNDE/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Fastboot</td><td>V7.5.4.0.MBDCNDE</td><td>6.0</td><td>1.3 GB</td><td>2016-06-29</td><td><a href="/miui/helium/stable/V7.5.4.0.MBDCNDE/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Recovery</td><td>V7.5.6.0.MBDCNDE</td><td>6.0</td><td>942.4 MB</td><td>2018-08-03</td><td><a href="/miui/helium/stable/V7.5.6.0.MBDCNDE/">Download</a></td></tr>
@@ -203,12 +204,12 @@ permalink: /archive/miui/helium/
 <tr><td>Mi Max Prime China</td><td>Weekly</td><td>Fastboot</td><td>8.4.12</td><td>7.0</td><td>2.0 GB</td><td>2018-04-12</td><td><a href="/miui/helium/weekly/8.4.12/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.NBDCNFA</td><td>7.0</td><td>2.1 GB</td><td>2018-04-06</td><td><a href="/miui/helium/stable/V9.5.2.0.NBDCNFA/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.NBDCNFA</td><td>7.0</td><td>1.3 GB</td><td>2018-04-05</td><td><a href="/miui/helium/stable/V9.5.2.0.NBDCNFA/">Download</a></td></tr>
+<tr><td>Mi Max Prime Global</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.NBDMIFA</td><td>7.0</td><td>1.3 GB</td><td>2018-04-05</td><td><a href="/miui/helium/stable/V9.5.2.0.NBDMIFA/">Download</a></td></tr>
+<tr><td>Mi Max Prime Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.NBDMIFA</td><td>7.0</td><td>1.5 GB</td><td>2018-04-05</td><td><a href="/miui/helium/stable/V9.5.2.0.NBDMIFA/">Download</a></td></tr>
 <tr><td>Mi Max Prime Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.29</td><td>7.0</td><td>1.8 GB</td><td>2018-03-29</td><td><a href="/miui/helium/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Weekly</td><td>Fastboot</td><td>8.3.29</td><td>7.0</td><td>2.0 GB</td><td>2018-03-29</td><td><a href="/miui/helium/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Weekly</td><td>Recovery</td><td>8.3.29</td><td>7.0</td><td>1.4 GB</td><td>2018-03-28</td><td><a href="/miui/helium/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Mi Max Prime Global</td><td>Weekly</td><td>Recovery</td><td>8.3.29</td><td>7.0</td><td>1.5 GB</td><td>2018-03-28</td><td><a href="/miui/helium/weekly/8.3.29/">Download</a></td></tr>
-<tr><td>Mi Max Prime Global</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.NBDMIFA</td><td>7.0</td><td>1.3 GB</td><td>2018-04-05</td><td><a href="/miui/helium/stable/V9.5.2.0.NBDMIFA/">Download</a></td></tr>
-<tr><td>Mi Max Prime Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.NBDMIFA</td><td>7.0</td><td>1.5 GB</td><td>2018-04-05</td><td><a href="/miui/helium/stable/V9.5.2.0.NBDMIFA/">Download</a></td></tr>
 <tr><td>Mi Max Prime Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.22</td><td>7.0</td><td>1.8 GB</td><td>2018-03-22</td><td><a href="/miui/helium/weekly/8.3.22/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Weekly</td><td>Fastboot</td><td>8.3.22</td><td>7.0</td><td>2.0 GB</td><td>2018-03-22</td><td><a href="/miui/helium/weekly/8.3.22/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Weekly</td><td>Recovery</td><td>8.3.22</td><td>7.0</td><td>1.4 GB</td><td>2018-03-21</td><td><a href="/miui/helium/weekly/8.3.22/">Download</a></td></tr>
@@ -355,8 +356,10 @@ permalink: /archive/miui/helium/
 <tr><td>Mi Max Prime Global</td><td>Stable</td><td>Fastboot</td><td>V8.0.3.0.MBDMIDG</td><td>6.0</td><td>1.6 GB</td><td>2016-08-05</td><td><a href="/miui/helium/stable/V8.0.3.0.MBDMIDG/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Recovery</td><td>V8.0.2.0.MBDCNDG</td><td>6.0</td><td>1.1 GB</td><td>2016-08-29</td><td><a href="/miui/helium/stable/V8.0.2.0.MBDCNDG/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Fastboot</td><td>V8.0.2.0.MBDCNDG</td><td>6.0</td><td>1.5 GB</td><td>2016-08-05</td><td><a href="/miui/helium/stable/V8.0.2.0.MBDCNDG/">Download</a></td></tr>
+<tr><td>Mi Max Prime China</td><td>Stable</td><td>Recovery</td><td>V7.3.16.0.MBDCNDE</td><td>6.0</td><td>915.3 MB</td><td>2016-06-08</td><td><a href="/miui/helium/stable/V7.3.16.0.MBDCNDE/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Recovery</td><td>V7.3.15.0.MBDCNDE</td><td>6.0</td><td>916.0 MB</td><td>2016-06-01</td><td><a href="/miui/helium/stable/V7.3.15.0.MBDCNDE/">Download</a></td></tr>
 <tr><td>Mi Max Prime China</td><td>Stable</td><td>Fastboot</td><td>V7.3.15.0.MBDCNDE</td><td>6.0</td><td>1.3 GB</td><td>2016-04-19</td><td><a href="/miui/helium/stable/V7.3.15.0.MBDCNDE/">Download</a></td></tr>
+<tr><td>Mi Max Prime China</td><td>Stable</td><td>Recovery</td><td>V7.3.14.0.MBDCNDE</td><td>6.0</td><td>916.0 MB</td><td>2016-05-25</td><td><a href="/miui/helium/stable/V7.3.14.0.MBDCNDE/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

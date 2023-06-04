@@ -170,6 +170,7 @@ permalink: /archive/miui/hydrogen/
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Fastboot</td><td>8.8.2</td><td>7.0</td><td>1.8 GB</td><td>2018-08-03</td><td><a href="/miui/hydrogen/weekly/8.8.2/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Stable</td><td>Recovery</td><td>V7.5.1.0.MBCCNDE</td><td>6.0</td><td>960.3 MB</td><td>2018-08-03</td><td><a href="/miui/hydrogen/stable/V7.5.1.0.MBCCNDE/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Stable</td><td>Fastboot</td><td>V7.5.1.0.MBCCNDE</td><td>6.0</td><td>1.4 GB</td><td>2016-05-23</td><td><a href="/miui/hydrogen/stable/V7.5.1.0.MBCCNDE/">Download</a></td></tr>
+<tr><td>Mi Max China</td><td>Stable</td><td>Recovery</td><td>V7.5.2.0.MBCCNDE</td><td>6.0</td><td>948.4 MB</td><td>2018-08-03</td><td><a href="/miui/hydrogen/stable/V7.5.2.0.MBCCNDE/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Stable</td><td>Recovery</td><td>V7.5.3.0.MBCMIDE</td><td>6.0</td><td>1.3 GB</td><td>2018-08-03</td><td><a href="/miui/hydrogen/stable/V7.5.3.0.MBCMIDE/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Stable</td><td>Fastboot</td><td>V7.5.3.0.MBCMIDE</td><td>6.0</td><td>1.5 GB</td><td>2016-05-23</td><td><a href="/miui/hydrogen/stable/V7.5.3.0.MBCMIDE/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Stable</td><td>Recovery</td><td>V7.5.4.0.MBCCNDE</td><td>6.0</td><td>949.7 MB</td><td>2018-08-03</td><td><a href="/miui/hydrogen/stable/V7.5.4.0.MBCCNDE/">Download</a></td></tr>
@@ -253,16 +254,16 @@ permalink: /archive/miui/hydrogen/
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Fastboot</td><td>7.12.21</td><td>7.0</td><td>1.7 GB</td><td>2017-12-21</td><td><a href="/miui/hydrogen/weekly/7.12.21/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Recovery</td><td>7.12.21</td><td>7.0</td><td>1.5 GB</td><td>2017-12-21</td><td><a href="/miui/hydrogen/weekly/7.12.21/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Weekly</td><td>Recovery</td><td>7.12.21</td><td>7.0</td><td>1.3 GB</td><td>2017-12-20</td><td><a href="/miui/hydrogen/weekly/7.12.21/">Download</a></td></tr>
-<tr><td>Mi Max China</td><td>Stable</td><td>Fastboot</td><td>V9.2.1.0.NBCCNEK</td><td>7.0</td><td>2.0 GB</td><td>2017-12-20</td><td><a href="/miui/hydrogen/stable/V9.2.1.0.NBCCNEK/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Stable</td><td>Recovery</td><td>V9.2.1.0.NBCCNEK</td><td>7.0</td><td>1.3 GB</td><td>2017-12-20</td><td><a href="/miui/hydrogen/stable/V9.2.1.0.NBCCNEK/">Download</a></td></tr>
+<tr><td>Mi Max China</td><td>Stable</td><td>Fastboot</td><td>V9.2.1.0.NBCCNEK</td><td>7.0</td><td>2.0 GB</td><td>2017-12-20</td><td><a href="/miui/hydrogen/stable/V9.2.1.0.NBCCNEK/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Fastboot</td><td>7.12.14</td><td>7.0</td><td>1.7 GB</td><td>2017-12-14</td><td><a href="/miui/hydrogen/weekly/7.12.14/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Recovery</td><td>7.12.14</td><td>7.0</td><td>1.5 GB</td><td>2017-12-14</td><td><a href="/miui/hydrogen/weekly/7.12.14/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Fastboot</td><td>7.12.8</td><td>7.0</td><td>1.7 GB</td><td>2017-12-08</td><td><a href="/miui/hydrogen/weekly/7.12.8/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Recovery</td><td>7.12.8</td><td>7.0</td><td>1.5 GB</td><td>2017-12-08</td><td><a href="/miui/hydrogen/weekly/7.12.8/">Download</a></td></tr>
-<tr><td>Mi Max Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.1.0.NBCMIEK</td><td>7.0</td><td>1.7 GB</td><td>2017-12-19</td><td><a href="/miui/hydrogen/stable/V9.2.1.0.NBCMIEK/">Download</a></td></tr>
-<tr><td>Mi Max Global</td><td>Stable</td><td>Recovery</td><td>V9.2.1.0.NBCMIEK</td><td>7.0</td><td>1.5 GB</td><td>2017-12-19</td><td><a href="/miui/hydrogen/stable/V9.2.1.0.NBCMIEK/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Fastboot</td><td>7.12.1</td><td>7.0</td><td>1.7 GB</td><td>2017-12-01</td><td><a href="/miui/hydrogen/weekly/7.12.1/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Recovery</td><td>7.12.1</td><td>7.0</td><td>1.5 GB</td><td>2017-12-01</td><td><a href="/miui/hydrogen/weekly/7.12.1/">Download</a></td></tr>
+<tr><td>Mi Max Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.1.0.NBCMIEK</td><td>7.0</td><td>1.7 GB</td><td>2017-12-19</td><td><a href="/miui/hydrogen/stable/V9.2.1.0.NBCMIEK/">Download</a></td></tr>
+<tr><td>Mi Max Global</td><td>Stable</td><td>Recovery</td><td>V9.2.1.0.NBCMIEK</td><td>7.0</td><td>1.5 GB</td><td>2017-12-19</td><td><a href="/miui/hydrogen/stable/V9.2.1.0.NBCMIEK/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Weekly</td><td>Fastboot</td><td>7.11.30</td><td>7.0</td><td>2.1 GB</td><td>2017-11-30</td><td><a href="/miui/hydrogen/weekly/7.11.30/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Weekly</td><td>Recovery</td><td>7.11.30</td><td>7.0</td><td>1.3 GB</td><td>2017-11-29</td><td><a href="/miui/hydrogen/weekly/7.11.30/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Weekly</td><td>Fastboot</td><td>7.11.23</td><td>7.0</td><td>2.1 GB</td><td>2017-11-23</td><td><a href="/miui/hydrogen/weekly/7.11.23/">Download</a></td></tr>
@@ -300,9 +301,10 @@ permalink: /archive/miui/hydrogen/
 <tr><td>Mi Max China</td><td>Weekly</td><td>Recovery</td><td>7.9.8</td><td>7.0</td><td>1.3 GB</td><td>2017-09-07</td><td><a href="/miui/hydrogen/weekly/7.9.8/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Fastboot</td><td>7.8.24</td><td>7.0</td><td>1.7 GB</td><td>2017-08-24</td><td><a href="/miui/hydrogen/weekly/7.8.24/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Recovery</td><td>7.8.24</td><td>7.0</td><td>1.4 GB</td><td>2017-08-23</td><td><a href="/miui/hydrogen/weekly/7.8.24/">Download</a></td></tr>
+<tr><td>Mi Max China</td><td>Stable</td><td>Recovery</td><td>V8.5.2.0.NBCCNED</td><td>7.0</td><td>1.4 GB</td><td>2017-07-24</td><td><a href="/miui/hydrogen/stable/V8.5.2.0.NBCCNED/">Download</a></td></tr>
+<tr><td>Mi Max Global</td><td>Weekly</td><td>Recovery</td><td>7.8.31</td><td>7.0</td><td>1.4 GB</td><td>2017-08-31</td><td><a href="/miui/hydrogen/weekly/7.8.31/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Fastboot</td><td>7.7.20</td><td>7.0</td><td>1.7 GB</td><td>2017-07-20</td><td><a href="/miui/hydrogen/weekly/7.7.20/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Recovery</td><td>7.7.20</td><td>7.0</td><td>1.4 GB</td><td>2017-07-20</td><td><a href="/miui/hydrogen/weekly/7.7.20/">Download</a></td></tr>
-<tr><td>Mi Max Global</td><td>Weekly</td><td>Recovery</td><td>7.8.31</td><td>7.0</td><td>1.4 GB</td><td>2017-08-31</td><td><a href="/miui/hydrogen/weekly/7.8.31/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Fastboot</td><td>7.7.13</td><td>7.0</td><td>1.7 GB</td><td>2017-07-13</td><td><a href="/miui/hydrogen/weekly/7.7.13/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Recovery</td><td>7.7.13</td><td>7.0</td><td>1.4 GB</td><td>2017-07-13</td><td><a href="/miui/hydrogen/weekly/7.7.13/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Fastboot</td><td>7.7.6</td><td>7.0</td><td>1.7 GB</td><td>2017-07-06</td><td><a href="/miui/hydrogen/weekly/7.7.6/">Download</a></td></tr>
@@ -395,10 +397,13 @@ permalink: /archive/miui/hydrogen/
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Recovery</td><td>6.8.18</td><td>6.0</td><td>1.4 GB</td><td>2016-08-17</td><td><a href="/miui/hydrogen/weekly/6.8.18/">Download</a></td></tr>
 <tr><td>Mi Max Global</td><td>Weekly</td><td>Fastboot</td><td>6.8.18</td><td>6.0</td><td>1.6 GB</td><td>2016-08-05</td><td><a href="/miui/hydrogen/weekly/6.8.18/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Weekly</td><td>Recovery</td><td>6.6.16</td><td>6.0</td><td>1.1 GB</td><td>2016-06-15</td><td><a href="/miui/hydrogen/weekly/6.6.16/">Download</a></td></tr>
+<tr><td>Mi Max China</td><td>Stable</td><td>Recovery</td><td>V7.3.16.0.MBCCNDE</td><td>6.0</td><td>915.3 MB</td><td>2016-06-08</td><td><a href="/miui/hydrogen/stable/V7.3.16.0.MBCCNDE/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Stable</td><td>Recovery</td><td>V7.3.15.0.MBCCNDC</td><td>6.0</td><td>916.0 MB</td><td>2016-06-01</td><td><a href="/miui/hydrogen/stable/V7.3.15.0.MBCCNDC/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Stable</td><td>Fastboot</td><td>V7.3.15.0.MBCCNDC</td><td>6.0</td><td>1.3 GB</td><td>2016-04-19</td><td><a href="/miui/hydrogen/stable/V7.3.15.0.MBCCNDC/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Stable</td><td>Recovery</td><td>V7.3.14.0.MBCCNDC</td><td>6.0</td><td>916.0 MB</td><td>2016-05-25</td><td><a href="/miui/hydrogen/stable/V7.3.14.0.MBCCNDC/">Download</a></td></tr>
 <tr><td>Mi Max China</td><td>Stable</td><td>Fastboot</td><td>V7.3.14.0.MBCCNDC</td><td>6.0</td><td>1.3 GB</td><td>2016-04-19</td><td><a href="/miui/hydrogen/stable/V7.3.14.0.MBCCNDC/">Download</a></td></tr>
+<tr><td>Mi Max China</td><td>Stable</td><td>Recovery</td><td>V7.3.12.0.MBCCNDC</td><td>6.0</td><td>916.0 MB</td><td>2016-05-19</td><td><a href="/miui/hydrogen/stable/V7.3.12.0.MBCCNDC/">Download</a></td></tr>
+<tr><td>Mi Max China</td><td>Stable</td><td>Recovery</td><td>V7.3.11.0.MBCCNDC</td><td>6.0</td><td>915.1 MB</td><td>2016-05-13</td><td><a href="/miui/hydrogen/stable/V7.3.11.0.MBCCNDC/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

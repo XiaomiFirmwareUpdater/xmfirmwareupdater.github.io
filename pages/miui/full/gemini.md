@@ -152,6 +152,7 @@ permalink: /archive/miui/gemini/
 <tr><td>MI 5 Global</td><td>Weekly</td><td>Recovery</td><td>8.6.21</td><td>8.0</td><td>1.5 GB</td><td>2018-06-21</td><td><a href="/miui/gemini/weekly/8.6.21/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Fastboot</td><td>8.6.14</td><td>8.0</td><td>2.2 GB</td><td>2018-06-14</td><td><a href="/miui/gemini/weekly/8.6.14/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Recovery</td><td>8.6.14</td><td>8.0</td><td>1.7 GB</td><td>2018-06-14</td><td><a href="/miui/gemini/weekly/8.6.14/">Download</a></td></tr>
+<tr><td>MI 5 Global</td><td>Stable</td><td>Recovery</td><td>V9.5.3.0.NAAMIFA</td><td>7.0</td><td>1.4 GB</td><td>2018-06-01</td><td><a href="/miui/gemini/stable/V9.5.3.0.NAAMIFA/">Download</a></td></tr>
 <tr><td>MI 5 Global</td><td>Weekly</td><td>Recovery</td><td>8.5.24</td><td>8.0</td><td>1.4 GB</td><td>2018-05-25</td><td><a href="/miui/gemini/weekly/8.5.24/">Download</a></td></tr>
 <tr><td>MI 5 Global</td><td>Weekly</td><td>Fastboot</td><td>8.5.24</td><td>8.0</td><td>1.7 GB</td><td>2018-05-24</td><td><a href="/miui/gemini/weekly/8.5.24/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Fastboot</td><td>8.5.24</td><td>8.0</td><td>2.1 GB</td><td>2018-05-24</td><td><a href="/miui/gemini/weekly/8.5.24/">Download</a></td></tr>
@@ -165,10 +166,10 @@ permalink: /archive/miui/gemini/
 <tr><td>MI 5 Global</td><td>Weekly</td><td>Recovery</td><td>8.4.19</td><td>8.0</td><td>1.4 GB</td><td>2018-04-18</td><td><a href="/miui/gemini/weekly/8.4.19/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.NAACNFA</td><td>7.0</td><td>2.2 GB</td><td>2018-04-05</td><td><a href="/miui/gemini/stable/V9.5.2.0.NAACNFA/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.NAACNFA</td><td>7.0</td><td>1.4 GB</td><td>2018-04-05</td><td><a href="/miui/gemini/stable/V9.5.2.0.NAACNFA/">Download</a></td></tr>
-<tr><td>MI 5 Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.29</td><td>7.0</td><td>1.7 GB</td><td>2018-03-29</td><td><a href="/miui/gemini/weekly/8.3.29/">Download</a></td></tr>
-<tr><td>MI 5 Global</td><td>Weekly</td><td>Recovery</td><td>8.3.29</td><td>7.0</td><td>1.4 GB</td><td>2018-03-28</td><td><a href="/miui/gemini/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>MI 5 Global</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.NAAMIFA</td><td>7.0</td><td>1.4 GB</td><td>2018-04-05</td><td><a href="/miui/gemini/stable/V9.5.2.0.NAAMIFA/">Download</a></td></tr>
 <tr><td>MI 5 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.NAAMIFA</td><td>7.0</td><td>1.6 GB</td><td>2018-04-05</td><td><a href="/miui/gemini/stable/V9.5.2.0.NAAMIFA/">Download</a></td></tr>
+<tr><td>MI 5 Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.29</td><td>7.0</td><td>1.7 GB</td><td>2018-03-29</td><td><a href="/miui/gemini/weekly/8.3.29/">Download</a></td></tr>
+<tr><td>MI 5 Global</td><td>Weekly</td><td>Recovery</td><td>8.3.29</td><td>7.0</td><td>1.4 GB</td><td>2018-03-28</td><td><a href="/miui/gemini/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.26</td><td>7.0</td><td>2.2 GB</td><td>2018-03-26</td><td><a href="/miui/gemini/weekly/8.3.26/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Recovery</td><td>8.3.26</td><td>7.0</td><td>1.5 GB</td><td>2018-03-26</td><td><a href="/miui/gemini/weekly/8.3.26/">Download</a></td></tr>
 <tr><td>MI 5 Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.22</td><td>7.0</td><td>1.7 GB</td><td>2018-03-22</td><td><a href="/miui/gemini/weekly/8.3.22/">Download</a></td></tr>
@@ -255,11 +256,11 @@ permalink: /archive/miui/gemini/
 <tr><td>MI 5 China</td><td>Weekly</td><td>Fastboot</td><td>7.10.19</td><td>7.0</td><td>2.2 GB</td><td>2017-10-19</td><td><a href="/miui/gemini/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Recovery</td><td>7.10.19</td><td>7.0</td><td>1.4 GB</td><td>2017-10-18</td><td><a href="/miui/gemini/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>MI 5 Global</td><td>Weekly</td><td>Recovery</td><td>7.10.19</td><td>7.0</td><td>1.3 GB</td><td>2017-10-18</td><td><a href="/miui/gemini/weekly/7.10.19/">Download</a></td></tr>
+<tr><td>MI 5 Global</td><td>Stable</td><td>Fastboot</td><td>V9.1.1.0.NAAMIEI</td><td>7.0</td><td>1.5 GB</td><td>2017-11-04</td><td><a href="/miui/gemini/stable/V9.1.1.0.NAAMIEI/">Download</a></td></tr>
+<tr><td>MI 5 Global</td><td>Stable</td><td>Recovery</td><td>V9.1.1.0.NAAMIEI</td><td>7.0</td><td>1.3 GB</td><td>2017-11-03</td><td><a href="/miui/gemini/stable/V9.1.1.0.NAAMIEI/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Fastboot</td><td>7.10.12</td><td>7.0</td><td>2.2 GB</td><td>2017-10-12</td><td><a href="/miui/gemini/weekly/7.10.12/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Recovery</td><td>7.10.12</td><td>7.0</td><td>1.4 GB</td><td>2017-10-11</td><td><a href="/miui/gemini/weekly/7.10.12/">Download</a></td></tr>
 <tr><td>MI 5 Global</td><td>Weekly</td><td>Recovery</td><td>7.10.12</td><td>7.0</td><td>1.3 GB</td><td>2017-10-11</td><td><a href="/miui/gemini/weekly/7.10.12/">Download</a></td></tr>
-<tr><td>MI 5 Global</td><td>Stable</td><td>Fastboot</td><td>V9.1.1.0.NAAMIEI</td><td>7.0</td><td>1.5 GB</td><td>2017-11-04</td><td><a href="/miui/gemini/stable/V9.1.1.0.NAAMIEI/">Download</a></td></tr>
-<tr><td>MI 5 Global</td><td>Stable</td><td>Recovery</td><td>V9.1.1.0.NAAMIEI</td><td>7.0</td><td>1.3 GB</td><td>2017-11-03</td><td><a href="/miui/gemini/stable/V9.1.1.0.NAAMIEI/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Fastboot</td><td>7.9.28</td><td>7.0</td><td>2.2 GB</td><td>2017-09-28</td><td><a href="/miui/gemini/weekly/7.9.28/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Recovery</td><td>7.9.28</td><td>7.0</td><td>1.4 GB</td><td>2017-09-27</td><td><a href="/miui/gemini/weekly/7.9.28/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Fastboot</td><td>7.9.21</td><td>7.0</td><td>2.2 GB</td><td>2017-09-21</td><td><a href="/miui/gemini/weekly/7.9.21/">Download</a></td></tr>
@@ -398,6 +399,7 @@ permalink: /archive/miui/gemini/
 <tr><td>MI 5 Global</td><td>Stable</td><td>Recovery</td><td>V8.1.2.0.MAAMIDI</td><td>6.0</td><td>1.4 GB</td><td>2016-11-07</td><td><a href="/miui/gemini/stable/V8.1.2.0.MAAMIDI/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Recovery</td><td>6.11.3</td><td>6.0</td><td>1.2 GB</td><td>2016-11-02</td><td><a href="/miui/gemini/weekly/6.11.3/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Recovery</td><td>6.10.27</td><td>6.0</td><td>1.2 GB</td><td>2016-10-28</td><td><a href="/miui/gemini/weekly/6.10.27/">Download</a></td></tr>
+<tr><td>MI 5 China</td><td>Stable</td><td>Recovery</td><td>V8.1.1.0.MAACNDI</td><td>6.0</td><td>1.1 GB</td><td>2016-10-28</td><td><a href="/miui/gemini/stable/V8.1.1.0.MAACNDI/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Recovery</td><td>6.9.29</td><td>6.0</td><td>1.2 GB</td><td>2016-09-29</td><td><a href="/miui/gemini/weekly/6.9.29/">Download</a></td></tr>
 <tr><td>MI 5 China</td><td>Weekly</td><td>Fastboot</td><td>6.9.29</td><td>6.0</td><td>1.6 GB</td><td>2016-08-05</td><td><a href="/miui/gemini/weekly/6.9.29/">Download</a></td></tr>
 <tr><td>MI 5 Global</td><td>Stable</td><td>Recovery</td><td>V8.0.5.0.MAAMIDG</td><td>6.0</td><td>1.4 GB</td><td>2016-09-27</td><td><a href="/miui/gemini/stable/V8.0.5.0.MAAMIDG/">Download</a></td></tr>

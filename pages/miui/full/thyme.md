@@ -53,7 +53,9 @@ permalink: /archive/miui/thyme/
                 </thead>
                 <tbody>
                 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.17.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-04-21</td><td><a href="/miui/thyme/public beta/V14.0.23.4.17.DEV/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V14.0.23.4.10.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-04-14</td><td><a href="/miui/thyme/stable/V14.0.23.4.10.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-04-07</td><td><a href="/miui/thyme/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V14.0.23.3.27.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-03-31</td><td><a href="/miui/thyme/stable/V14.0.23.3.27.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-03-24</td><td><a href="/miui/thyme/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-03-17</td><td><a href="/miui/thyme/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-03-10</td><td><a href="/miui/thyme/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
@@ -74,18 +76,23 @@ permalink: /archive/miui/thyme/
 <tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V13.0.10.0.SGACNXM</td><td>12.0</td><td>4.6 GB</td><td>2022-11-11</td><td><a href="/miui/thyme/stable/V13.0.10.0.SGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.10.0.SGACNXM</td><td>12.0</td><td>6.1 GB</td><td>2022-11-02</td><td><a href="/miui/thyme/stable/V13.0.10.0.SGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-10-28</td><td><a href="/miui/thyme/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V13.1.22.10.17.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-10-21</td><td><a href="/miui/thyme/stable/V13.1.22.10.17.DEV/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V13.1.22.10.11.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-10-14</td><td><a href="/miui/thyme/stable/V13.1.22.10.11.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-09-30</td><td><a href="/miui/thyme/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.19.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-09-23</td><td><a href="/miui/thyme/public beta/V13.1.22.9.19.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.12.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-09-16</td><td><a href="/miui/thyme/public beta/V13.1.22.9.12.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-09-09</td><td><a href="/miui/thyme/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.29.DEV</td><td>12.0</td><td>4.7 GB</td><td>2022-09-02</td><td><a href="/miui/thyme/public beta/V13.1.22.8.29.DEV/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TGACNXM</td><td>13.0</td><td>4.1 GB</td><td>2023-02-01</td><td><a href="/miui/thyme/stable/V14.0.2.0.TGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TGACNXM</td><td>13.0</td><td>6.4 GB</td><td>2023-01-18</td><td><a href="/miui/thyme/stable/V14.0.2.0.TGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.8.0.SGACNXM</td><td>12.0</td><td>4.8 GB</td><td>2022-08-26</td><td><a href="/miui/thyme/stable beta/V13.0.8.0.SGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.22.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-08-26</td><td><a href="/miui/thyme/public beta/V13.1.22.8.22.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.16.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-08-19</td><td><a href="/miui/thyme/public beta/V13.1.22.8.16.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.59.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-08-12</td><td><a href="/miui/thyme/public beta/V13.0.6.1.59.DEV/">Download</a></td></tr>
-<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TGACNXM</td><td>13.0</td><td>4.1 GB</td><td>2023-02-01</td><td><a href="/miui/thyme/stable/V14.0.2.0.TGACNXM/">Download</a></td></tr>
-<tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TGACNXM</td><td>13.0</td><td>6.4 GB</td><td>2023-01-18</td><td><a href="/miui/thyme/stable/V14.0.2.0.TGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.1.56.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-08-05</td><td><a href="/miui/thyme/stable/V13.0.6.1.56.DEV/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.1.55.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-07-29</td><td><a href="/miui/thyme/stable/V13.0.6.1.55.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.51.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-07-22</td><td><a href="/miui/thyme/public beta/V13.0.6.1.51.DEV/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.1.47.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-07-15</td><td><a href="/miui/thyme/stable/V13.0.6.1.47.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.45.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-07-08</td><td><a href="/miui/thyme/public beta/V13.0.6.1.45.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.43.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-07-01</td><td><a href="/miui/thyme/public beta/V13.0.6.1.43.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.40.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-06-24</td><td><a href="/miui/thyme/public beta/V13.0.6.1.40.DEV/">Download</a></td></tr>
@@ -93,9 +100,13 @@ permalink: /archive/miui/thyme/
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.37.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-06-10</td><td><a href="/miui/thyme/public beta/V13.0.6.1.37.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.6.0.SGACNXM</td><td>12.0</td><td>4.7 GB</td><td>2022-05-27</td><td><a href="/miui/thyme/stable beta/V13.0.6.0.SGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SGACNXM</td><td>12.0</td><td>6.2 GB</td><td>2022-05-13</td><td><a href="/miui/thyme/stable/V13.0.6.0.SGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.1.35.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-05-27</td><td><a href="/miui/thyme/stable/V13.0.6.1.35.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.32.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-05-20</td><td><a href="/miui/thyme/public beta/V13.0.6.1.32.DEV/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.1.29.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-05-13</td><td><a href="/miui/thyme/stable/V13.0.6.1.29.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.6.1.28.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-04-29</td><td><a href="/miui/thyme/public beta/V13.0.6.1.28.DEV/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V13.0.6.1.27.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-04-23</td><td><a href="/miui/thyme/stable/V13.0.6.1.27.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.5.0.SGACNXM</td><td>12.0</td><td>4.7 GB</td><td>2022-04-21</td><td><a href="/miui/thyme/stable beta/V13.0.5.0.SGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SGACNXM</td><td>12.0</td><td>6.2 GB</td><td>2022-04-08</td><td><a href="/miui/thyme/stable/V13.0.5.0.SGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.5.1.26.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-04-17</td><td><a href="/miui/thyme/public beta/V13.0.5.1.26.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.23.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-04-08</td><td><a href="/miui/thyme/public beta/V13.0.4.1.23.DEV/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.4.1.22.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-04-01</td><td><a href="/miui/thyme/public beta/V13.0.4.1.22.DEV/">Download</a></td></tr>
@@ -154,8 +165,6 @@ permalink: /archive/miui/thyme/
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.7.8</td><td>11.0</td><td>4.1 GB</td><td>2021-07-08</td><td><a href="/miui/thyme/weekly/21.7.8/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.6.30</td><td>11.0</td><td>4.1 GB</td><td>2021-07-01</td><td><a href="/miui/thyme/weekly/21.6.30/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.6.23</td><td>11.0</td><td>4.0 GB</td><td>2021-06-24</td><td><a href="/miui/thyme/weekly/21.6.23/">Download</a></td></tr>
-<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RGACNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-06-23</td><td><a href="/miui/thyme/stable/V12.5.3.0.RGACNXM/">Download</a></td></tr>
-<tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RGACNXM</td><td>11.0</td><td>5.2 GB</td><td>2021-06-11</td><td><a href="/miui/thyme/stable/V12.5.3.0.RGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.6.17</td><td>11.0</td><td>4.0 GB</td><td>2021-06-18</td><td><a href="/miui/thyme/weekly/21.6.17/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.6.9</td><td>11.0</td><td>4.0 GB</td><td>2021-06-10</td><td><a href="/miui/thyme/weekly/21.6.9/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.6.2</td><td>11.0</td><td>4.0 GB</td><td>2021-06-03</td><td><a href="/miui/thyme/weekly/21.6.2/">Download</a></td></tr>
@@ -165,15 +174,17 @@ permalink: /archive/miui/thyme/
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>3.9 GB</td><td>2021-04-29</td><td><a href="/miui/thyme/weekly/21.4.28/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.11.0.RGACNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-04-23</td><td><a href="/miui/thyme/stable beta/V12.0.11.0.RGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.4.21</td><td>11.0</td><td>4.0 GB</td><td>2021-04-22</td><td><a href="/miui/thyme/weekly/21.4.21/">Download</a></td></tr>
-<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RGACNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-05-15</td><td><a href="/miui/thyme/stable/V12.5.1.0.RGACNXM/">Download</a></td></tr>
-<tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RGACNXM</td><td>11.0</td><td>5.1 GB</td><td>2021-05-07</td><td><a href="/miui/thyme/stable/V12.5.1.0.RGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.4.14</td><td>11.0</td><td>4.0 GB</td><td>2021-04-15</td><td><a href="/miui/thyme/weekly/21.4.14/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.4.8</td><td>11.0</td><td>4.0 GB</td><td>2021-04-08</td><td><a href="/miui/thyme/weekly/21.4.8/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Weekly</td><td>Recovery</td><td>21.3.31</td><td>11.0</td><td>4.0 GB</td><td>2021-04-01</td><td><a href="/miui/thyme/weekly/21.3.31/">Download</a></td></tr>
-<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V12.0.10.0.RGACNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-03-27</td><td><a href="/miui/thyme/stable/V12.0.10.0.RGACNXM/">Download</a></td></tr>
-<tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V12.0.10.0.RGACNXM</td><td>11.0</td><td>5.1 GB</td><td>2021-03-23</td><td><a href="/miui/thyme/stable/V12.0.10.0.RGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V12.0.7.0.RGACNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-03-11</td><td><a href="/miui/thyme/stable/V12.0.7.0.RGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V12.0.7.0.RGACNXM</td><td>11.0</td><td>5.0 GB</td><td>2021-03-05</td><td><a href="/miui/thyme/stable/V12.0.7.0.RGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V12.5.3.0.RGACNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-06-23</td><td><a href="/miui/thyme/stable/V12.5.3.0.RGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V12.5.3.0.RGACNXM</td><td>11.0</td><td>5.2 GB</td><td>2021-06-11</td><td><a href="/miui/thyme/stable/V12.5.3.0.RGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V12.0.10.0.RGACNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-03-27</td><td><a href="/miui/thyme/stable/V12.0.10.0.RGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V12.0.10.0.RGACNXM</td><td>11.0</td><td>5.1 GB</td><td>2021-03-23</td><td><a href="/miui/thyme/stable/V12.0.10.0.RGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RGACNXM</td><td>11.0</td><td>3.9 GB</td><td>2021-05-15</td><td><a href="/miui/thyme/stable/V12.5.1.0.RGACNXM/">Download</a></td></tr>
+<tr><td>Mi 10S China</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RGACNXM</td><td>11.0</td><td>5.1 GB</td><td>2021-05-07</td><td><a href="/miui/thyme/stable/V12.5.1.0.RGACNXM/">Download</a></td></tr>
 <tr><td>Mi 10S China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.8.0.RGACNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-03-14</td><td><a href="/miui/thyme/stable beta/V12.0.8.0.RGACNXM/">Download</a></td></tr>
 
                 </tbody>
