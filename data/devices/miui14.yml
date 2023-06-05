@@ -318,6 +318,12 @@
   version: V14.0.4.0.TLCCNXM
 - android: '13.0'
   codename: cupid
+  date: '2023-06-04'
+  download: https://bigota.d.miui.com/V14.0.23.3.27.DEV/fw_cupid_miui_CUPID_V14.0.23.3.27.DEV_2f9a18e088_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.23.3.27.DEV
+- android: '13.0'
+  codename: cupid
   date: '2023-05-04'
   download: https://bigota.d.miui.com/V14.0.8.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
   name: Xiaomi 12
@@ -443,11 +449,23 @@
   name: Xiaomi Pad 5 Pro Wi-Fi
   version: V14.0.3.0.TKYCNXM
 - android: '13.0'
+  codename: elish
+  date: '2023-06-04'
+  download: https://bigota.d.miui.com/V14.0.23.4.10.DEV/fw_elish_miui_ELISH_V14.0.23.4.10.DEV_6e83490a73_13.0.zip
+  name: Xiaomi Pad 5 Pro Wi-Fi
+  version: V14.0.23.4.10.DEV
+- android: '13.0'
   codename: enuma
   date: '2023-03-27'
   download: https://bigota.d.miui.com/V14.0.2.0.TKZCNXM/fw_enuma_miui_ENUMA_V14.0.2.0.TKZCNXM_5d63060ce9_13.0.zip
   name: Xiaomi Pad 5 Pro 5G
   version: V14.0.2.0.TKZCNXM
+- android: '13.0'
+  codename: enuma
+  date: '2023-06-04'
+  download: https://bigota.d.miui.com/V14.0.23.4.25.DEV/fw_enuma_miui_ENUMA_V14.0.23.4.25.DEV_0c01466683_13.0.zip
+  name: Xiaomi Pad 5 Pro 5G
+  version: V14.0.23.4.25.DEV
 - android: '13.0'
   codename: evergo
   date: '2023-05-26'
@@ -496,6 +514,12 @@
   download: https://bigota.d.miui.com/V14.0.21.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.21.0.TMCCNXM_a2d21eb89e_13.0.zip
   name: Xiaomi 13
   version: V14.0.21.0.TMCCNXM
+- android: '13.0'
+  codename: fuxi
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.29.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.29.0.TMCCNXM_a72354d5c7_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.29.0.TMCCNXM
 - android: '13.0'
   codename: fuxi
   date: '2023-06-01'
@@ -586,6 +610,18 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TKKCNXM/fw_haydn_miui_HAYDN_V14.0.3.0.TKKCNXM_1bd4117cae_13.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: V14.0.3.0.TKKCNXM
+- android: '13.0'
+  codename: haydn
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_V14.0.3.0.TKKEUXM_1c326eedcf_13.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V14.0.3.0.TKKEUXM
+- android: '13.0'
+  codename: haydn
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.23.3.27.DEV/fw_haydn_miui_HAYDN_V14.0.23.3.27.DEV_7db038edad_13.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V14.0.23.3.27.DEV
 - android: '13.0'
   codename: haydn
   date: '2023-06-02'
@@ -832,6 +868,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.SJKEUXM/fw_lmi_miui_LMIEEAGlobal_V14.0.1.0.SJKEUXM_c924d9a77b_12.0.zip
   name: Redmi K30 Pro/POCO F2 Pro
   version: V14.0.1.0.SJKEUXM
+- android: '12.0'
+  codename: lmi
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.5.0.SJKCNXM/fw_lmi_miui_LMI_V14.0.5.0.SJKCNXM_41456619f8_12.0.zip
+  name: Redmi K30 Pro/POCO F2 Pro
+  version: V14.0.5.0.SJKCNXM
 - android: '13.0'
   codename: marble
   date: '2023-03-29'
@@ -922,6 +964,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
   name: Xiaomi 12S
   version: V14.0.5.0.TLTCNXM
+- android: '13.0'
+  codename: mayfly
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.23.4.10.DEV/fw_mayfly_miui_MAYFLY_V14.0.23.4.10.DEV_c454a23170_13.0.zip
+  name: Xiaomi 12S
+  version: V14.0.23.4.10.DEV
 - android: '12.0'
   codename: mojito
   date: '2023-04-27'
@@ -946,6 +994,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKVCNXM/fw_mona_miui_MONA_V14.0.2.0.TKVCNXM_ad8252fa6b_13.0.zip
   name: Xiaomi Civi
   version: V14.0.2.0.TKVCNXM
+- android: '13.0'
+  codename: mona
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.23.4.10.DEV/fw_mona_miui_MONA_V14.0.23.4.10.DEV_4762dce9dd_13.0.zip
+  name: Xiaomi Civi
+  version: V14.0.23.4.10.DEV
 - android: '13.0'
   codename: mondrian
   date: '2023-05-22'
@@ -1072,6 +1126,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKXMIXM/fw_nabu_miui_NABUGlobal_V14.0.4.0.TKXMIXM_0172ee1049_13.0.zip
   name: Xiaomi Pad 5
   version: V14.0.4.0.TKXMIXM
+- android: '13.0'
+  codename: nabu
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.23.5.8.DEV/fw_nabu_miui_NABU_V14.0.23.5.8.DEV_bcdfe54e72_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.23.5.8.DEV
 - android: '13.0'
   codename: nuwa
   date: '2023-03-30'
