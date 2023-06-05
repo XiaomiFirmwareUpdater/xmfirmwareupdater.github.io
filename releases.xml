@@ -1,11 +1,51 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 05 Jun 2023 12:08:24 +0900</pubDate>
+  <pubDate>Mon, 05 Jun 2023 18:22:52 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.3.0.TMQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
+    <pubDate>Mon, 05 Jun 2023 18:22:52 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.2.0.TMQEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
+    <pubDate>Mon, 05 Jun 2023 17:23:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.2.0.TKAINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
+    <pubDate>Mon, 05 Jun 2023 16:53:08 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K60 Pro (socrates) - V14.0.23.4.10.DEV</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/socrates</link>
+    <pubDate>Mon, 05 Jun 2023 15:50:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.2.0.TMSCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
+    <pubDate>Mon, 05 Jun 2023 14:53:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12X (psyche) - V14.0.23.4.10.DEV</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/psyche</link>
+    <pubDate>Mon, 05 Jun 2023 13:59:53 +0900</pubDate>
+  </item>
+    <item>
+    <title>MIX 4 (odin) - V14.0.23.4.10.DEV</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
+    <pubDate>Mon, 05 Jun 2023 13:32:33 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 Pro (nuwa) - V14.0.26.0.TMBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
+    <pubDate>Mon, 05 Jun 2023 12:54:14 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Pad 5 (nabu) - V14.0.23.5.8.DEV</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
@@ -65,46 +105,6 @@
     <title>Xiaomi 12 Pro (zeus) - V14.0.13.0.TLBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
     <pubDate>Sun, 04 Jun 2023 10:25:55 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.4.0.TLOMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
-    <pubDate>Sun, 04 Jun 2023 09:26:22 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Lite (taoyao) - V14.0.4.0.TLIMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
-    <pubDate>Sun, 04 Jun 2023 08:27:09 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Lite (taoyao) - V14.0.13.0.TLIEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
-    <pubDate>Sun, 04 Jun 2023 07:41:27 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.2.0.SJSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
-    <pubDate>Sun, 04 Jun 2023 06:43:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.0.26.0.QCDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Sun, 04 Jun 2023 06:31:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12T (plato) - V14.0.10.0.TLQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
-    <pubDate>Sat, 03 Jun 2023 00:57:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.3.0.TKKINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Fri, 02 Jun 2023 14:18:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 (umi) - V14.0.6.0.TJBINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/umi</link>
-    <pubDate>Fri, 02 Jun 2023 06:24:12 +0900</pubDate>
   </item>
     </channel>
 </rss>

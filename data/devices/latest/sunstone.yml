@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-05-11'
+  date: '2023-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-11.05.2023/fw_sunstone_miui_SUNSTONEGlobal_V14.0.6.0.SMQMIXM_334cf81b68_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONEGlobal_V14.0.6.0.SMQMIXM_334cf81b68_12.0.zip
-  filename: fw_sunstone_miui_SUNSTONEGlobal_V14.0.6.0.SMQMIXM_334cf81b68_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-05.06.2023/fw_sunstone_miui_SUNSTONEGlobal_V14.0.3.0.TMQMIXM_91ab4cb188_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONEGlobal_V14.0.3.0.TMQMIXM_91ab4cb188_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONEGlobal_V14.0.3.0.TMQMIXM_91ab4cb188_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V14.0.6.0.SMQMIXM
+    android: '13.0'
+    miui: V14.0.3.0.TMQMIXM
 - branch: stable
   date: '2023-05-12'
   downloads:
@@ -19,15 +19,15 @@
     android: '13.0'
     miui: V14.0.4.0.TMQCNXM
 - branch: stable
-  date: '2023-05-11'
+  date: '2023-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-11.05.2023/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.7.0.SMQEUXM_c762988963_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.7.0.SMQEUXM_c762988963_12.0.zip
-  filename: fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.7.0.SMQEUXM_c762988963_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-05.06.2023/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.2.0.TMQEUXM_bc85ab2d4e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.2.0.TMQEUXM_bc85ab2d4e_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.2.0.TMQEUXM_bc85ab2d4e_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V14.0.7.0.SMQEUXM
+    android: '13.0'
+    miui: V14.0.2.0.TMQEUXM
 - branch: stable
   date: '2023-04-18'
   downloads:

@@ -1170,6 +1170,12 @@
   version: V14.0.8.0.TMBINXM
 - android: '13.0'
   codename: nuwa
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.26.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.26.0.TMBCNXM_a94b128ed9_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.26.0.TMBCNXM
+- android: '13.0'
+  codename: nuwa
   date: '2023-04-03'
   download: https://bigota.d.miui.com/V14.0.23.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.23.0.TMBCNXM_7c977c5c30_13.0.zip
   name: Xiaomi 13 Pro
@@ -1210,6 +1216,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKMCNXM/fw_odin_miui_ODIN_V14.0.4.0.TKMCNXM_93a33b9259_13.0.zip
   name: MIX 4
   version: V14.0.4.0.TKMCNXM
+- android: '13.0'
+  codename: odin
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.23.4.10.DEV/fw_odin_miui_ODIN_V14.0.23.4.10.DEV_2ed8d9e18a_13.0.zip
+  name: MIX 4
+  version: V14.0.23.4.10.DEV
 - android: '13.0'
   codename: opal
   date: '2023-05-23'
@@ -1374,6 +1386,12 @@
   version: V14.0.1.0.TLDEUXM
 - android: '13.0'
   codename: psyche
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.23.4.10.DEV/fw_psyche_miui_PSYCHE_V14.0.23.4.10.DEV_000e69f500_13.0.zip
+  name: Xiaomi 12X
+  version: V14.0.23.4.10.DEV
+- android: '13.0'
+  codename: psyche
   date: '2023-05-04'
   download: https://bigota.d.miui.com/V14.0.2.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.2.0.TLDEUXM_0a92436daf_13.0.zip
   name: Xiaomi 12X
@@ -1468,6 +1486,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.SMSINXM/fw_redwood_miui_REDWOODINGlobal_V14.0.6.0.SMSINXM_ed20d983c1_12.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: V14.0.6.0.SMSINXM
+- android: '13.0'
+  codename: redwood
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMSCNXM/fw_redwood_miui_REDWOOD_V14.0.2.0.TMSCNXM_f894bb1c92_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.2.0.TMSCNXM
 - android: '12.0'
   codename: redwood
   date: '2023-04-01'
@@ -1668,6 +1692,12 @@
   version: V14.0.18.0.TMKCNXM
 - android: '13.0'
   codename: socrates
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.23.4.10.DEV/fw_socrates_miui_SOCRATES_V14.0.23.4.10.DEV_4597dcdb27_13.0.zip
+  name: Redmi K60 Pro
+  version: V14.0.23.4.10.DEV
+- android: '13.0'
+  codename: socrates
   date: '2023-04-03'
   download: https://bigota.d.miui.com/V14.0.23.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.23.0.TMKCNXM_b423194d4e_13.0.zip
   name: Redmi K60 Pro
@@ -1714,6 +1744,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TKACNXM/fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V14.0.6.0.TKACNXM
+- android: '13.0'
+  codename: star
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKAINXM/fw_star_miui_STARINGlobal_V14.0.2.0.TKAINXM_260004a39c_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.2.0.TKAINXM
 - android: '12.0'
   codename: sunstone
   date: '2023-04-25'
@@ -1756,6 +1792,18 @@
   download: https://bigota.d.miui.com/V14.0.6.0.SMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.6.0.SMQMIXM_334cf81b68_12.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: V14.0.6.0.SMQMIXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.2.0.TMQEUXM_bc85ab2d4e_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.2.0.TMQEUXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.3.0.TMQMIXM_91ab4cb188_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.3.0.TMQMIXM
 - android: '12.0'
   codename: surya
   date: '2023-04-25'
