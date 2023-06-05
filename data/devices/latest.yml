@@ -1339,15 +1339,15 @@
     android: '12.0'
     miui: V14.0.2.0.SJXINXM
 - branch: stable
-  date: '2023-04-26'
+  date: '2023-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-26.04.2023/fw_fleur_miui_FLEURGlobal_V13.0.9.0.SKEMIXM_1a71513d7d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURGlobal_V13.0.9.0.SKEMIXM_1a71513d7d_12.0.zip
-  filename: fw_fleur_miui_FLEURGlobal_V13.0.9.0.SKEMIXM_1a71513d7d_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-05.06.2023/fw_fleur_miui_FLEURGlobal_V14.0.3.0.TKEMIXM_2ff7566a60_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fleur/fw_fleur_miui_FLEURGlobal_V14.0.3.0.TKEMIXM_2ff7566a60_13.0.zip
+  filename: fw_fleur_miui_FLEURGlobal_V14.0.3.0.TKEMIXM_2ff7566a60_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.9.0.SKEMIXM
+    android: '13.0'
+    miui: V14.0.3.0.TKEMIXM
 - branch: stable
   date: '2023-06-01'
   downloads:
@@ -1879,15 +1879,15 @@
     android: '13.0'
     miui: V14.0.15.0.TMACNXM
 - branch: stable
-  date: '2023-05-06'
+  date: '2023-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-07.05.2023/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.1.0.TMAEUXM_d95c367fbc_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.1.0.TMAEUXM_d95c367fbc_13.0.zip
-  filename: fw_ishtar_miui_ISHTAREEAGlobal_V14.0.1.0.TMAEUXM_d95c367fbc_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-05.06.2023/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.4.0.TMAEUXM_b73bb8ce45_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.4.0.TMAEUXM_b73bb8ce45_13.0.zip
+  filename: fw_ishtar_miui_ISHTAREEAGlobal_V14.0.4.0.TMAEUXM_b73bb8ce45_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.1.0.TMAEUXM
+    miui: V14.0.4.0.TMAEUXM
 - branch: stable
   date: '2021-07-15'
   downloads:
