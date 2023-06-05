@@ -1,15 +1,30 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 06 Jun 2023 00:34:07 +0900</pubDate>
+  <pubDate>Tue, 06 Jun 2023 02:27:39 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Redmi Note 11 Pro 4G (vida) - V14.0.1.0.TGDINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/vida</link>
+    <pubDate>Tue, 06 Jun 2023 02:27:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 10S (thyme) - V14.0.5.0.TGACNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
+    <pubDate>Tue, 06 Jun 2023 01:51:59 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.8.0.SMSEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
+    <pubDate>Tue, 06 Jun 2023 00:58:00 +0900</pubDate>
+  </item>
+    <item>
     <title>Xiaomi Pad 5 (nabu) - V14.0.3.0.TKXINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Tue, 06 Jun 2023 00:34:07 +0900</pubDate>
+    <pubDate>Tue, 06 Jun 2023 00:34:39 +0900</pubDate>
   </item>
     <item>
     <title>Xiaomi 13 Ultra (ishtar) - V14.0.4.0.TMAEUXM</title>
@@ -90,21 +105,6 @@
     <title>Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i (gauguin) - V14.0.2.0.SJSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/gauguin</link>
     <pubDate>Sun, 04 Jun 2023 06:43:29 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.0.26.0.QCDINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
-    <pubDate>Sun, 04 Jun 2023 06:31:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12T (plato) - V14.0.10.0.TLQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
-    <pubDate>Sat, 03 Jun 2023 00:57:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro (haydn) - V14.0.3.0.TKKINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/haydn</link>
-    <pubDate>Fri, 02 Jun 2023 14:18:00 +0900</pubDate>
   </item>
     </channel>
 </rss>

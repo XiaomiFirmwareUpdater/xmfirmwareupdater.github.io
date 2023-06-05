@@ -2859,15 +2859,15 @@
     android: '13.0'
     miui: V14.0.5.0.TKXEUXM
 - branch: stable
-  date: '2023-03-31'
+  date: '2023-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-31.03.2023/fw_nabu_miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
-  filename: fw_nabu_miui_NABUINGlobal_V14.0.1.0.TKXINXM_ae63ab6da1_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-05.06.2023/fw_nabu_miui_NABUINGlobal_V14.0.3.0.TKXINXM_d5156bf95c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUINGlobal_V14.0.3.0.TKXINXM_d5156bf95c_13.0.zip
+  filename: fw_nabu_miui_NABUINGlobal_V14.0.3.0.TKXINXM_d5156bf95c_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.1.0.TKXINXM
+    miui: V14.0.3.0.TKXINXM
 - branch: stable
   date: '2019-05-13'
   downloads:
@@ -3689,15 +3689,15 @@
     android: '13.0'
     miui: V14.0.2.0.TMSCNXM
 - branch: stable
-  date: '2023-04-20'
+  date: '2023-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-20.04.2023/fw_redwood_miui_REDWOODEEAGlobal_V14.0.1.0.TMSEUXM_54ce695850_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODEEAGlobal_V14.0.1.0.TMSEUXM_54ce695850_13.0.zip
-  filename: fw_redwood_miui_REDWOODEEAGlobal_V14.0.1.0.TMSEUXM_54ce695850_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-05.06.2023/fw_redwood_miui_REDWOODEEAGlobal_V14.0.8.0.SMSEUXM_8cd81b9ae5_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODEEAGlobal_V14.0.8.0.SMSEUXM_8cd81b9ae5_12.0.zip
+  filename: fw_redwood_miui_REDWOODEEAGlobal_V14.0.8.0.SMSEUXM_8cd81b9ae5_12.0.zip
   region: Europe
   versions:
-    android: '13.0'
-    miui: V14.0.1.0.TMSEUXM
+    android: '12.0'
+    miui: V14.0.8.0.SMSEUXM
 - branch: stable
   date: '2023-05-15'
   downloads:
@@ -4479,15 +4479,15 @@
     android: '13.0'
     miui: V14.0.12.0.TLACNXM
 - branch: stable
-  date: '2023-03-15'
+  date: '2023-06-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-15.03.2023/fw_thyme_miui_THYME_V14.0.4.0.TGACNXM_dd2bd8fc3b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thyme/fw_thyme_miui_THYME_V14.0.4.0.TGACNXM_dd2bd8fc3b_13.0.zip
-  filename: fw_thyme_miui_THYME_V14.0.4.0.TGACNXM_dd2bd8fc3b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-05.06.2023/fw_thyme_miui_THYME_V14.0.5.0.TGACNXM_bd6a7e7e60_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thyme/fw_thyme_miui_THYME_V14.0.5.0.TGACNXM_bd6a7e7e60_13.0.zip
+  filename: fw_thyme_miui_THYME_V14.0.5.0.TGACNXM_bd6a7e7e60_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TGACNXM
+    miui: V14.0.5.0.TGACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
