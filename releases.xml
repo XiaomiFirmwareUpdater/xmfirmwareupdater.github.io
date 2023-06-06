@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 06 Jun 2023 15:00:02 +0900</pubDate>
+  <pubDate>Tue, 06 Jun 2023 18:30:06 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
     <item>
     <title>Redmi Note 11 Pro 4G (vida) - V14.0.1.0.TGDINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vida</link>
-    <pubDate>Tue, 06 Jun 2023 15:00:02 +0900</pubDate>
+    <pubDate>Tue, 06 Jun 2023 18:30:06 +0900</pubDate>
   </item>
     <item>
     <title>Mi 11 (venus) - V14.0.3.0.TKBMIXM</title>
