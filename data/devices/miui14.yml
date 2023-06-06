@@ -1667,6 +1667,18 @@
   name: Redmi K60 Pro
   version: V14.0.11.0.TMKCNXM
 - android: '13.0'
+  codename: spes
+  date: '2023-06-06'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGCMIXM/fw_spes_miui_SPESGlobal_V14.0.2.0.TGCMIXM_f4e2e7b209_13.0.zip
+  name: Redmi Note 11
+  version: V14.0.2.0.TGCMIXM
+- android: '13.0'
+  codename: spesn
+  date: '2023-06-06'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_V14.0.2.0.TGKMIXM_b001882d2d_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.2.0.TGKMIXM
+- android: '13.0'
   codename: star
   date: '2023-05-29'
   download: https://bigota.d.miui.com/V14.0.9.0.TKACNXM/fw_star_miui_STAR_V14.0.9.0.TKACNXM_88fb6d9f79_13.0.zip
@@ -1702,6 +1714,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TKACNXM/fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V14.0.6.0.TKACNXM
+- android: '13.0'
+  codename: star
+  date: '2023-06-06'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKAEUXM/fw_star_miui_STAREEAGlobal_V14.0.4.0.TKAEUXM_f5a36babd0_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.4.0.TKAEUXM
 - android: '13.0'
   codename: star
   date: '2023-06-05'
@@ -2062,6 +2080,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TKBCNXM/fw_venus_miui_VENUS_V14.0.8.0.TKBCNXM_3db9892b71_13.0.zip
   name: Mi 11
   version: V14.0.8.0.TKBCNXM
+- android: '13.0'
+  codename: venus
+  date: '2023-06-06'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKBMIXM/fw_venus_miui_VENUSGlobal_V14.0.3.0.TKBMIXM_cd664fae30_13.0.zip
+  name: Mi 11
+  version: V14.0.3.0.TKBMIXM
 - android: '13.0'
   codename: veux
   date: '2023-05-29'
