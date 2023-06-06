@@ -70,10 +70,10 @@ permalink: /miui/earth/
 <tr><td>Redmi 12C / POCO C55 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.3.0.SCVRUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-04-04</td><td><a href="/miui/earth/stable beta/V13.0.3.0.SCVRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SCVTRXM</td><td>12.0</td><td>5.2 GB</td><td>2023-03-05</td><td><a href="/miui/earth/stable/V13.0.3.0.SCVTRXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SCVTRXM</td><td>12.0</td><td>3.2 GB</td><td>2023-03-15</td><td><a href="/miui/earth/stable/V13.0.3.0.SCVTRXM/">Download</a></td></tr>
-<tr><td>Redmi 12C / POCO C55 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SCVTRXM</td><td>12.0</td><td>3.2 GB</td><td>2023-03-15</td><td><a href="/miui/earth/stable beta/V13.0.1.0.SCVTRXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SCVTRXM</td><td>12.0</td><td>3.2 GB</td><td>2023-06-06</td><td><a href="/miui/earth/stable beta/V13.0.4.0.SCVTRXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SCVTWXM</td><td>12.0</td><td>4.8 GB</td><td>2023-03-10</td><td><a href="/miui/earth/stable/V13.0.2.0.SCVTWXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SCVTWXM</td><td>12.0</td><td>3.2 GB</td><td>2023-03-28</td><td><a href="/miui/earth/stable/V13.0.2.0.SCVTWXM/">Download</a></td></tr>
-<tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.1.0.SCVTWXM</td><td>12.0</td><td>3.2 GB</td><td>2023-03-28</td><td><a href="/miui/earth/stable beta/V13.0.1.0.SCVTWXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SCVTWXM</td><td>12.0</td><td>3.2 GB</td><td>2023-06-06</td><td><a href="/miui/earth/stable beta/V13.0.4.0.SCVTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
