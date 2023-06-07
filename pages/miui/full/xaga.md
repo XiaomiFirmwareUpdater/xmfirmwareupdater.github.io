@@ -53,7 +53,8 @@ permalink: /archive/miui/xaga/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.29.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-06-02</td><td><a href="/miui/xaga/public beta/V14.0.23.5.29.DEV/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLOEUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-05-31</td><td><a href="/miui/xaga/stable beta/V14.0.3.0.TLOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLOEUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-05-31</td><td><a href="/miui/xaga/stable/V14.0.3.0.TLOEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLOEUXM</td><td>13.0</td><td>7.3 GB</td><td>2023-05-05</td><td><a href="/miui/xaga/stable/V14.0.3.0.TLOEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.22.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-05-26</td><td><a href="/miui/xaga/public beta/V14.0.23.5.22.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.15.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-05-19</td><td><a href="/miui/xaga/public beta/V14.0.23.5.15.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.8.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-05-12</td><td><a href="/miui/xaga/public beta/V14.0.23.5.8.DEV/">Download</a></td></tr>

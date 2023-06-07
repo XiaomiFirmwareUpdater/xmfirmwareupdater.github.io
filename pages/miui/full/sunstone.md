@@ -52,7 +52,8 @@ permalink: /archive/miui/sunstone/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMQMIXM</td><td>13.0</td><td>3.4 GB</td><td>2023-05-31</td><td><a href="/miui/sunstone/stable/V14.0.3.0.TMQMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.SMQTWXM</td><td>12.0</td><td>3.7 GB</td><td>2023-06-07</td><td><a href="/miui/sunstone/stable beta/V14.0.3.0.SMQTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMQMIXM</td><td>13.0</td><td>3.4 GB</td><td>2023-05-31</td><td><a href="/miui/sunstone/stable/V14.0.3.0.TMQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMQMIXM</td><td>13.0</td><td>6.2 GB</td><td>2023-05-23</td><td><a href="/miui/sunstone/stable/V14.0.3.0.TMQMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMQEUXM</td><td>13.0</td><td>3.4 GB</td><td>2023-05-24</td><td><a href="/miui/sunstone/stable/V14.0.2.0.TMQEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMQEUXM</td><td>13.0</td><td>6.0 GB</td><td>2023-05-23</td><td><a href="/miui/sunstone/stable/V14.0.2.0.TMQEUXM/">Download</a></td></tr>
