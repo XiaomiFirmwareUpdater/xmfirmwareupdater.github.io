@@ -62199,6 +62199,16 @@
     android: '12.0'
     miui: V13.0.21.0.SKDEUXM
 - branch: stable
+  date: '2023-06-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-08.06.2023/fw_vili_miui_VILIEEAGlobal_V14.0.9.0.TKDEUXM_aec8ccd3ae_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIEEAGlobal_V14.0.9.0.TKDEUXM_aec8ccd3ae_13.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_V14.0.9.0.TKDEUXM_aec8ccd3ae_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.9.0.TKDEUXM
+- branch: stable
   date: '2022-05-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-07.05.2022/fw_vili_miui_VILIGlobal_V13.0.4.0.SKDMIXM_882c19e5f8_12.0.zip
