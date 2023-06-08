@@ -1,6 +1,6 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 08 Jun 2023 06:26:29 +0900</pubDate>
+  <pubDate>Thu, 08 Jun 2023 12:56:35 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,12 @@
     <item>
     <title>Redmi Note 11 Pro 4G (vida) - V14.0.1.0.TGDINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vida</link>
-    <pubDate>Thu, 08 Jun 2023 06:26:29 +0900</pubDate>
+    <pubDate>Thu, 08 Jun 2023 12:56:35 +0900</pubDate>
+  </item>
+    <item>
+    <title>POCO M4 Pro 5G (evergreen) - V14.0.2.0.TGBEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/evergreen</link>
+    <pubDate>Thu, 08 Jun 2023 12:52:51 +0900</pubDate>
   </item>
     <item>
     <title>Mi 11 (venus) - V14.0.3.0.TKBMIXM</title>
@@ -100,11 +105,6 @@
     <title>Xiaomi 13 (fuxi) - V14.0.29.0.TMCCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
     <pubDate>Mon, 05 Jun 2023 09:25:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V14.0.13.0.TLBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Sun, 04 Jun 2023 10:25:55 +0900</pubDate>
   </item>
     </channel>
 </rss>

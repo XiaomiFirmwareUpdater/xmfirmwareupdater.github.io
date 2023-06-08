@@ -454,6 +454,12 @@
   download: https://bigota.d.miui.com/V14.0.0.12.TGBCNXM/fw_evergo_miui_EVERGO_V14.0.0.12.TGBCNXM_8ff1024913_13.0.zip
   name: Redmi Note 11 5G/Redmi Note 11T 5G
   version: V14.0.0.12.TGBCNXM
+- android: '13.0'
+  codename: evergreen
+  date: '2023-06-08'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_V14.0.2.0.TGBEUXM_4e06cb3d68_13.0.zip
+  name: POCO M4 Pro 5G
+  version: V14.0.2.0.TGBEUXM
 - android: '12.0'
   codename: excalibur
   date: '2023-05-12'
