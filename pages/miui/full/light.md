@@ -52,7 +52,8 @@ permalink: /archive/miui/light/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 11 Prime 5G / POCO M4 5G India</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLSINXM</td><td>13.0</td><td>3.4 GB</td><td>2023-05-18</td><td><a href="/miui/light/stable/V14.0.4.0.TLSINXM/">Download</a></td></tr>
+                <tr><td>Redmi 10 5G / POCO M4 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLSIDXM</td><td>13.0</td><td>3.5 GB</td><td>2023-06-05</td><td><a href="/miui/light/stable beta/V14.0.2.0.TLSIDXM/">Download</a></td></tr>
+<tr><td>Redmi 11 Prime 5G / POCO M4 5G India</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLSINXM</td><td>13.0</td><td>3.4 GB</td><td>2023-05-18</td><td><a href="/miui/light/stable/V14.0.4.0.TLSINXM/">Download</a></td></tr>
 <tr><td>Redmi 11 Prime 5G / POCO M4 5G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLSINXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-12</td><td><a href="/miui/light/stable/V14.0.4.0.TLSINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11R China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLSCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-05-16</td><td><a href="/miui/lightcm/stable/V14.0.4.0.TLSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11R China</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLSCNXM</td><td>13.0</td><td>5.6 GB</td><td>2023-05-10</td><td><a href="/miui/lightcm/stable/V14.0.4.0.TLSCNXM/">Download</a></td></tr>
