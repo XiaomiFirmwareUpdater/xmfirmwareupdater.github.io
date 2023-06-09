@@ -1,15 +1,30 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 09 Jun 2023 12:54:36 +0900</pubDate>
+  <pubDate>Fri, 09 Jun 2023 20:35:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
     <item>
+    <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.4.0.TLLEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
+    <pubDate>Fri, 09 Jun 2023 20:35:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.3.0.TLOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
+    <pubDate>Fri, 09 Jun 2023 20:00:58 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi A2/A2+/POCO C51 (water) - V14.0.5.0.TGOINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/water</link>
+    <pubDate>Fri, 09 Jun 2023 19:00:10 +0900</pubDate>
+  </item>
+    <item>
     <title>Redmi Note 11 Pro 4G (vida) - V14.0.1.0.TGDINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vida</link>
-    <pubDate>Fri, 09 Jun 2023 12:54:36 +0900</pubDate>
+    <pubDate>Fri, 09 Jun 2023 18:48:33 +0900</pubDate>
   </item>
     <item>
     <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.7.0.TKHMIXM</title>
@@ -90,21 +105,6 @@
     <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.2.0.TMQEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
     <pubDate>Mon, 05 Jun 2023 17:23:07 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 Pro/Ultra/Mi 11 Ultra (star) - V14.0.2.0.TKAINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/star</link>
-    <pubDate>Mon, 05 Jun 2023 16:53:08 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.2.0.TMSCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
-    <pubDate>Mon, 05 Jun 2023 14:53:19 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Pro (nuwa) - V14.0.26.0.TMBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
-    <pubDate>Mon, 05 Jun 2023 12:54:14 +0900</pubDate>
   </item>
     </channel>
 </rss>

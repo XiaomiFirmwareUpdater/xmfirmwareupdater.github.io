@@ -2111,6 +2111,12 @@
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: V14.0.1.0.TKCCNXM
 - android: '13.0'
+  codename: vida
+  date: '2023-06-09'
+  download: https://bigota.d.miui.com/V14.0.1.0.TGDINXM/fw_vida_miui_VIDAINGlobal_V14.0.1.0.TGDINXM_dfe584a0d1_13.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V14.0.1.0.TGDINXM
+- android: '13.0'
   codename: vili
   date: '2023-05-25'
   download: https://bigota.d.miui.com/V14.0.3.0.TKDINXM/fw_vili_miui_VILIINGlobal_V14.0.3.0.TKDINXM_0b90dc1964_13.0.zip
@@ -2184,6 +2190,12 @@
   version: V14.0.10.0.TGOMIXM
 - android: '13.0'
   codename: water
+  date: '2023-06-09'
+  download: https://bigota.d.miui.com/V14.0.5.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.5.0.TGOINXM_7546d95734_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.5.0.TGOINXM
+- android: '13.0'
+  codename: water
   date: '2023-05-05'
   download: https://bigota.d.miui.com/V14.0.4.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.4.0.TGOINXM_3a291217b7_13.0.zip
   name: Redmi A2/A2+/POCO C51
@@ -2206,6 +2218,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.3.0.TLOCNXM_3a52786fc2_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.3.0.TLOCNXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-06-09'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLOEUXM/fw_xaga_miui_XAGAEEAGlobal_V14.0.3.0.TLOEUXM_d48cbe29a6_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.3.0.TLOEUXM
 - android: '13.0'
   codename: xaga
   date: '2023-01-09'
@@ -2338,6 +2356,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLLMIXM/fw_ziyi_miui_ZIYIGlobal_V14.0.1.0.TLLMIXM_e6aa6b27b2_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.1.0.TLLMIXM
+- android: '13.0'
+  codename: ziyi
+  date: '2023-06-09'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.4.0.TLLEUXM_c44b955c1c_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.4.0.TLLEUXM
 - android: '13.0'
   codename: ziyi
   date: '2023-05-04'
