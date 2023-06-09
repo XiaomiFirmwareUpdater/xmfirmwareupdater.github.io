@@ -48,6 +48,12 @@
   version: V14.0.7.0.TKHEUXM
 - android: '13.0'
   codename: alioth
+  date: '2023-06-09'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKHMIXM/fw_alioth_miui_ALIOTHGlobal_V14.0.7.0.TKHMIXM_30afed978c_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: V14.0.7.0.TKHMIXM
+- android: '13.0'
+  codename: alioth
   date: '2023-04-07'
   download: https://bigota.d.miui.com/V14.0.6.0.TKHCNXM/fw_alioth_miui_ALIOTH_V14.0.6.0.TKHCNXM_7b7bb4a7bc_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
