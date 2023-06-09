@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 09 Jun 2023 20:35:46 +0900</pubDate>
+  <pubDate>Sat, 10 Jun 2023 03:15:31 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.9.0.SMSMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
+    <pubDate>Sat, 10 Jun 2023 03:15:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 Pro (nuwa) - V14.0.27.0.TMBCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
+    <pubDate>Sat, 10 Jun 2023 02:23:35 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.4.0.TLLEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
@@ -95,16 +105,6 @@
     <title>POCO X3 Pro (vayu) - V14.0.2.0.TJUINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vayu</link>
     <pubDate>Mon, 05 Jun 2023 18:53:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.3.0.TMQMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
-    <pubDate>Mon, 05 Jun 2023 18:22:52 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 5G/Note 12R Pro (sunstone) - V14.0.2.0.TMQEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sunstone</link>
-    <pubDate>Mon, 05 Jun 2023 17:23:07 +0900</pubDate>
   </item>
     </channel>
 </rss>
