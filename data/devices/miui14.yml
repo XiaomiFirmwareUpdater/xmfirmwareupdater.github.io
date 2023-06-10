@@ -1217,6 +1217,12 @@
   name: Redmi Note 11S 5G
   version: V14.0.2.0.TGLEUXM
 - android: '13.0'
+  codename: opal
+  date: '2023-06-10'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGLMIXM/fw_opal_miui_OPALGlobal_V14.0.2.0.TGLMIXM_7a46a2e354_13.0.zip
+  name: Redmi Note 11S 5G
+  version: V14.0.2.0.TGLMIXM
+- android: '13.0'
   codename: pearl
   date: '2023-05-31'
   download: https://bigota.d.miui.com/V14.0.3.0.TLHCNXM/fw_pearl_miui_PEARL_V14.0.3.0.TLHCNXM_2d7375d91e_13.0.zip

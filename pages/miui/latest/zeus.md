@@ -55,7 +55,7 @@ permalink: /miui/zeus/
                 <tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.6 GB</td><td>2022-12-05</td><td><a href="/miui/zeus/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.13.0.TLBCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-04-14</td><td><a href="/miui/zeus/stable/V14.0.13.0.TLBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.13.0.TLBCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-04-20</td><td><a href="/miui/zeus/stable/V14.0.13.0.TLBCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.29.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-06-02</td><td><a href="/miui/zeus/public beta/V14.0.23.5.29.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.5.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-06-09</td><td><a href="/miui/zeus/public beta/V14.0.23.6.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TLBCNXM</td><td>13.0</td><td>5.8 GB</td><td>2022-12-31</td><td><a href="/miui/zeus/stable beta/V14.0.6.0.TLBCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.13.0.TLBEUXM</td><td>13.0</td><td>6.4 GB</td><td>2023-05-12</td><td><a href="/miui/zeus/stable/V14.0.13.0.TLBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.13.0.TLBEUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-22</td><td><a href="/miui/zeus/stable/V14.0.13.0.TLBEUXM/">Download</a></td></tr>
