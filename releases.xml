@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 10 Jun 2023 18:49:17 +0900</pubDate>
+  <pubDate>Sun, 11 Jun 2023 03:12:37 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Civi 3 (yuechu) - V14.0.6.0.TMICNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/yuechu</link>
+    <pubDate>Sun, 11 Jun 2023 03:12:37 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 4G (tapas) - V14.0.9.0.TMTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
+    <pubDate>Sun, 11 Jun 2023 01:48:45 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11S 5G (opal) - V14.0.2.0.TGLMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/opal</link>
@@ -95,16 +105,6 @@
     <title>Xiaomi Pad 5 (nabu) - V14.0.3.0.TKXINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
     <pubDate>Tue, 06 Jun 2023 00:34:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Ultra (ishtar) - V14.0.4.0.TMAEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
-    <pubDate>Mon, 05 Jun 2023 23:49:15 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 4G/POCO M4 Pro 4G (fleur) - V14.0.3.0.TKEMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fleur</link>
-    <pubDate>Mon, 05 Jun 2023 22:41:35 +0900</pubDate>
   </item>
     </channel>
 </rss>
