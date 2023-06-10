@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 11 Jun 2023 03:12:37 +0900</pubDate>
+  <pubDate>Sun, 11 Jun 2023 07:23:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12 4G NFC (topaz) - V14.0.9.0.TMGEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/topaz</link>
+    <pubDate>Sun, 11 Jun 2023 07:23:04 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Civi 3 (yuechu) - V14.0.6.0.TMICNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/yuechu</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.8.0.SMSEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
     <pubDate>Tue, 06 Jun 2023 00:58:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 (nabu) - V14.0.3.0.TKXINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
-    <pubDate>Tue, 06 Jun 2023 00:34:39 +0900</pubDate>
   </item>
     </channel>
 </rss>
