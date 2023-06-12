@@ -474,6 +474,12 @@
   version: V14.0.0.12.TGBCNXM
 - android: '13.0'
   codename: evergreen
+  date: '2023-06-12'
+  download: https://bigota.d.miui.com/V14.0.1.0.TGBMIXM/fw_evergreen_miui_EVERGREENGlobal_V14.0.1.0.TGBMIXM_9e8d36c753_13.0.zip
+  name: POCO M4 Pro 5G
+  version: V14.0.1.0.TGBMIXM
+- android: '13.0'
+  codename: evergreen
   date: '2023-06-08'
   download: https://bigota.d.miui.com/V14.0.2.0.TGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_V14.0.2.0.TGBEUXM_4e06cb3d68_13.0.zip
   name: POCO M4 Pro 5G
@@ -1277,6 +1283,12 @@
   name: Xiaomi Pad 6
   version: V14.0.3.0.TMZCNXM
 - android: '13.0'
+  codename: pipa
+  date: '2023-06-12'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMZINXM/fw_pipa_miui_PIPAINGlobal_V14.0.2.0.TMZINXM_f2259366e8_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.2.0.TMZINXM
+- android: '13.0'
   codename: pissarro
   date: '2023-03-28'
   download: https://bigota.d.miui.com/V14.0.5.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.5.0.TKTCNXM_83e0c47619_13.0.zip
@@ -1600,6 +1612,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V14.0.2.0.TKLMIXM_85c6d48a94_13.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
   version: V14.0.2.0.TKLMIXM
+- android: '13.0'
+  codename: rosemary
+  date: '2023-06-12'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.3.0.TKLINXM_4f917c4a2d_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.3.0.TKLINXM
 - android: '13.0'
   codename: rosemary
   date: '2023-04-10'

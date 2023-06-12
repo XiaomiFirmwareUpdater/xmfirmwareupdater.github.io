@@ -89,6 +89,16 @@
     android: '12.0'
     miui: V13.0.3.0.SGBEUXM
 - branch: stable
+  date: '2023-06-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-12.06.2023/fw_evergreen_miui_EVERGREENGlobal_V14.0.1.0.TGBMIXM_9e8d36c753_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/evergreen/fw_evergreen_miui_EVERGREENGlobal_V14.0.1.0.TGBMIXM_9e8d36c753_13.0.zip
+  filename: fw_evergreen_miui_EVERGREENGlobal_V14.0.1.0.TGBMIXM_9e8d36c753_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TGBMIXM
+- branch: stable
   date: '2023-06-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-08.06.2023/fw_evergreen_miui_EVERGREENEEAGlobal_V14.0.2.0.TGBEUXM_4e06cb3d68_13.0.zip

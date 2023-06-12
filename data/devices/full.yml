@@ -5209,16 +5209,6 @@
     android: '10.0'
     miui: 20.1.21
 - branch: weekly
-  date: '2019-12-06'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-06.12.2019/fw_begonia_miui_BEGONIA_9.12.5_dda9c5a8f7_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.12.5/begonia/fw_begonia_miui_BEGONIA_9.12.5_dda9c5a8f7_10.0.zip
-  filename: fw_begonia_miui_BEGONIA_9.12.5_dda9c5a8f7_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 9.12.5
-- branch: weekly
   date: '2020-11-06'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/weekly-06.11.2020/fw_begonia_miui_BEGONIA_20.11.5_8fe400df12_10.0.zip
@@ -5738,6 +5728,16 @@
   versions:
     android: '11.0'
     miui: V12.5.3.0.RGGMIXM
+- branch: stable
+  date: '2019-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_begonia/releases/download/stable-08.10.2019/fw_begonia_miui_BEGONIAGlobal_V10.4.1.0.PGGMIXM_99e3e60541_9.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/begonia/fw_begonia_miui_BEGONIAGlobal_V10.4.1.0.PGGMIXM_99e3e60541_9.0.zip
+  filename: fw_begonia_miui_BEGONIAGlobal_V10.4.1.0.PGGMIXM_99e3e60541_9.0.zip
+  region: Global
+  versions:
+    android: '9.0'
+    miui: V10.4.1.0.PGGMIXM
 - branch: stable
   date: '2021-11-08'
   downloads:
@@ -21889,6 +21889,16 @@
     android: '12.0'
     miui: V13.0.3.0.SGBEUXM
 - branch: stable
+  date: '2023-06-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-12.06.2023/fw_evergreen_miui_EVERGREENGlobal_V14.0.1.0.TGBMIXM_9e8d36c753_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/evergreen/fw_evergreen_miui_EVERGREENGlobal_V14.0.1.0.TGBMIXM_9e8d36c753_13.0.zip
+  filename: fw_evergreen_miui_EVERGREENGlobal_V14.0.1.0.TGBMIXM_9e8d36c753_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TGBMIXM
+- branch: stable
   date: '2023-06-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergreen/releases/download/stable-08.06.2023/fw_evergreen_miui_EVERGREENEEAGlobal_V14.0.2.0.TGBEUXM_4e06cb3d68_13.0.zip
@@ -22468,6 +22478,16 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SGEINXM
+- branch: stable
+  date: '2023-06-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fog/releases/download/stable-12.06.2023/fw_fog_miui_FOGINGlobal_V13.0.5.0.SGEINXM_935499248f_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fog/fw_fog_miui_FOGINGlobal_V13.0.5.0.SGEINXM_935499248f_12.0.zip
+  filename: fw_fog_miui_FOGINGlobal_V13.0.5.0.SGEINXM_935499248f_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.5.0.SGEINXM
 - branch: stable
   date: '2023-04-10'
   downloads:
@@ -42898,6 +42918,16 @@
   versions:
     android: '13.0'
     miui: V14.0.3.0.TMZCNXM
+- branch: stable
+  date: '2023-06-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-12.06.2023/fw_pipa_miui_PIPAINGlobal_V14.0.2.0.TMZINXM_f2259366e8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAINGlobal_V14.0.2.0.TMZINXM_f2259366e8_13.0.zip
+  filename: fw_pipa_miui_PIPAINGlobal_V14.0.2.0.TMZINXM_f2259366e8_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TMZINXM
 - branch: weekly
   date: '2021-11-26'
   downloads:
@@ -48678,6 +48708,16 @@
   versions:
     android: '11.0'
     miui: V12.5.5.0.RKLINXM
+- branch: stable
+  date: '2023-06-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_rosemary/releases/download/stable-12.06.2023/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.3.0.TKLINXM_4f917c4a2d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/rosemary/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.3.0.TKLINXM_4f917c4a2d_13.0.zip
+  filename: fw_rosemary_miui_ROSEMARYINGlobal_V14.0.3.0.TKLINXM_4f917c4a2d_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TKLINXM
 - branch: stable
   date: '2022-12-11'
   downloads:
