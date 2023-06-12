@@ -443,11 +443,23 @@
   name: Xiaomi Pad 5 Pro Wi-Fi
   version: V14.0.3.0.TKYCNXM
 - android: '13.0'
+  codename: elish
+  date: '2023-06-12'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKYCNXM/fw_elish_miui_ELISH_V14.0.4.0.TKYCNXM_19b725e343_13.0.zip
+  name: Xiaomi Pad 5 Pro Wi-Fi
+  version: V14.0.4.0.TKYCNXM
+- android: '13.0'
   codename: enuma
   date: '2023-03-27'
   download: https://bigota.d.miui.com/V14.0.2.0.TKZCNXM/fw_enuma_miui_ENUMA_V14.0.2.0.TKZCNXM_5d63060ce9_13.0.zip
   name: Xiaomi Pad 5 Pro 5G
   version: V14.0.2.0.TKZCNXM
+- android: '13.0'
+  codename: enuma
+  date: '2023-06-12'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKZCNXM/fw_enuma_miui_ENUMA_V14.0.3.0.TKZCNXM_1b4962b20d_13.0.zip
+  name: Xiaomi Pad 5 Pro 5G
+  version: V14.0.3.0.TKZCNXM
 - android: '13.0'
   codename: evergo
   date: '2023-05-26'
@@ -1108,6 +1120,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TKXEUXM/fw_nabu_miui_NABUEEAGlobal_V14.0.5.0.TKXEUXM_81d00ede6e_13.0.zip
   name: Xiaomi Pad 5
   version: V14.0.5.0.TKXEUXM
+- android: '13.0'
+  codename: nabu
+  date: '2023-06-12'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKXCNXM/fw_nabu_miui_NABU_V14.0.6.0.TKXCNXM_9cf4ab9cae_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.6.0.TKXCNXM
 - android: '13.0'
   codename: nabu
   date: '2023-05-12'

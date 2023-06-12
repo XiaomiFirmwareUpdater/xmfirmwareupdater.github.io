@@ -53,6 +53,7 @@ permalink: /archive/miui/nabu/
                 </thead>
                 <tbody>
                 <tr><td>Xiaomi Pad 5 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.5.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-06-09</td><td><a href="/miui/nabu/public beta/V14.0.23.6.5.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TKXCNXM</td><td>13.0</td><td>4.3 GB</td><td>2023-06-07</td><td><a href="/miui/nabu/stable beta/V14.0.6.0.TKXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.31.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-06-02</td><td><a href="/miui/nabu/public beta/V14.0.23.5.31.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKXINXM</td><td>13.0</td><td>3.3 GB</td><td>2023-06-02</td><td><a href="/miui/nabu/stable/V14.0.3.0.TKXINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKXINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-05-23</td><td><a href="/miui/nabu/stable/V14.0.3.0.TKXINXM/">Download</a></td></tr>
@@ -81,14 +82,14 @@ permalink: /archive/miui/nabu/
 <tr><td>Xiaomi Pad 5 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-03-24</td><td><a href="/miui/nabu/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TKXEUXM</td><td>13.0</td><td>3.4 GB</td><td>2023-03-23</td><td><a href="/miui/nabu/stable/V14.0.4.0.TKXEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TKXEUXM</td><td>13.0</td><td>4.1 GB</td><td>2023-03-05</td><td><a href="/miui/nabu/stable/V14.0.4.0.TKXEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKXCNXM</td><td>13.0</td><td>4.3 GB</td><td>2023-03-20</td><td><a href="/miui/nabu/stable/V14.0.5.0.TKXCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKXCNXM</td><td>13.0</td><td>5.2 GB</td><td>2023-03-10</td><td><a href="/miui/nabu/stable/V14.0.5.0.TKXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKXTWXM</td><td>13.0</td><td>3.3 GB</td><td>2023-03-28</td><td><a href="/miui/nabu/stable/V14.0.1.0.TKXTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKXTWXM</td><td>13.0</td><td>4.0 GB</td><td>2023-03-09</td><td><a href="/miui/nabu/stable/V14.0.1.0.TKXTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKXTRXM</td><td>13.0</td><td>3.3 GB</td><td>2023-03-28</td><td><a href="/miui/nabu/stable/V14.0.1.0.TKXTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKXTRXM</td><td>13.0</td><td>4.1 GB</td><td>2023-03-10</td><td><a href="/miui/nabu/stable/V14.0.1.0.TKXTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKXINXM</td><td>13.0</td><td>3.3 GB</td><td>2023-03-26</td><td><a href="/miui/nabu/stable/V14.0.1.0.TKXINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 India</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKXINXM</td><td>13.0</td><td>4.0 GB</td><td>2023-03-06</td><td><a href="/miui/nabu/stable/V14.0.1.0.TKXINXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKXCNXM</td><td>13.0</td><td>4.3 GB</td><td>2023-03-20</td><td><a href="/miui/nabu/stable/V14.0.5.0.TKXCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKXCNXM</td><td>13.0</td><td>5.2 GB</td><td>2023-03-10</td><td><a href="/miui/nabu/stable/V14.0.5.0.TKXCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-03-17</td><td><a href="/miui/nabu/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKXMIXM</td><td>13.0</td><td>3.4 GB</td><td>2023-03-14</td><td><a href="/miui/nabu/stable/V14.0.3.0.TKXMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKXMIXM</td><td>13.0</td><td>4.1 GB</td><td>2023-03-06</td><td><a href="/miui/nabu/stable/V14.0.3.0.TKXMIXM/">Download</a></td></tr>

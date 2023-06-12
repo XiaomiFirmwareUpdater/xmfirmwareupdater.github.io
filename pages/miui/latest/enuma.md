@@ -57,6 +57,7 @@ permalink: /miui/enuma/
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKZCNXM</td><td>13.0</td><td>4.5 GB</td><td>2023-03-24</td><td><a href="/miui/enuma/stable/V14.0.2.0.TKZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Weekly</td><td>Fastboot</td><td>22.3.9</td><td>11.0</td><td>4.6 GB</td><td>2022-03-09</td><td><a href="/miui/enuma/weekly/22.3.9/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.5.DEV</td><td>13.0</td><td>4.5 GB</td><td>2023-06-09</td><td><a href="/miui/enuma/public beta/V14.0.23.6.5.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKZCNXM</td><td>13.0</td><td>4.5 GB</td><td>2023-06-06</td><td><a href="/miui/enuma/stable beta/V14.0.3.0.TKZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Weekly</td><td>Recovery</td><td>21.12.29</td><td>11.0</td><td>3.7 GB</td><td>2021-12-29</td><td><a href="/miui/enuma/weekly/21.12.29/">Download</a></td></tr>
 
                 </tbody>

@@ -20779,6 +20779,16 @@
     android: '11.0'
     miui: V12.5.8.0.RKYCNXM
 - branch: stable
+  date: '2023-06-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_elish/releases/download/stable-12.06.2023/fw_elish_miui_ELISH_V14.0.4.0.TKYCNXM_19b725e343_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/elish/fw_elish_miui_ELISH_V14.0.4.0.TKYCNXM_19b725e343_13.0.zip
+  filename: fw_elish_miui_ELISH_V14.0.4.0.TKYCNXM_19b725e343_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKYCNXM
+- branch: stable
   date: '2022-04-07'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_elish/releases/download/stable-07.04.2022/fw_elish_miui_ELISH_V13.0.8.0.RKYCNXM_b7e5788df9_11.0.zip
@@ -20868,6 +20878,16 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RKZCNXM
+- branch: stable
+  date: '2023-06-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_enuma/releases/download/stable-12.06.2023/fw_enuma_miui_ENUMA_V14.0.3.0.TKZCNXM_1b4962b20d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/enuma/fw_enuma_miui_ENUMA_V14.0.3.0.TKZCNXM_1b4962b20d_13.0.zip
+  filename: fw_enuma_miui_ENUMA_V14.0.3.0.TKZCNXM_1b4962b20d_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TKZCNXM
 - branch: stable
   date: '2022-04-07'
   downloads:
@@ -36438,6 +36458,16 @@
   versions:
     android: '11.0'
     miui: V13.0.4.0.RKXMIXM
+- branch: stable
+  date: '2023-06-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-12.06.2023/fw_nabu_miui_NABU_V14.0.6.0.TKXCNXM_9cf4ab9cae_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABU_V14.0.6.0.TKXCNXM_9cf4ab9cae_13.0.zip
+  filename: fw_nabu_miui_NABU_V14.0.6.0.TKXCNXM_9cf4ab9cae_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKXCNXM
 - branch: stable
   date: '2023-05-12'
   downloads:

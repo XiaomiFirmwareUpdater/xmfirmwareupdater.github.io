@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 11 Jun 2023 07:23:04 +0900</pubDate>
+  <pubDate>Mon, 12 Jun 2023 14:27:12 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi Pad 5 (nabu) - V14.0.6.0.TKXCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/nabu</link>
+    <pubDate>Mon, 12 Jun 2023 14:27:12 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro 5G (enuma) - V14.0.3.0.TKZCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/enuma</link>
+    <pubDate>Mon, 12 Jun 2023 13:56:27 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi Pad 5 Pro Wi-Fi (elish) - V14.0.4.0.TKYCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/elish</link>
+    <pubDate>Mon, 12 Jun 2023 13:00:42 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 12 4G NFC (topaz) - V14.0.9.0.TMGEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/topaz</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 11 NFC (spesn) - V14.0.2.0.TGKMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spesn</link>
     <pubDate>Tue, 06 Jun 2023 13:03:13 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 (spes) - V14.0.2.0.TGCMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
-    <pubDate>Tue, 06 Jun 2023 12:44:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10S (thyme) - V14.0.5.0.TGACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/thyme</link>
-    <pubDate>Tue, 06 Jun 2023 01:51:59 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.8.0.SMSEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
-    <pubDate>Tue, 06 Jun 2023 00:58:00 +0900</pubDate>
   </item>
     </channel>
 </rss>
