@@ -528,6 +528,12 @@
   version: V14.0.21.0.TMCCNXM
 - android: '13.0'
   codename: fuxi
+  date: '2023-06-05'
+  download: https://bigota.d.miui.com/V14.0.29.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.29.0.TMCCNXM_a72354d5c7_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.29.0.TMCCNXM
+- android: '13.0'
+  codename: fuxi
   date: '2023-06-01'
   download: https://bigota.d.miui.com/V14.0.27.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.27.0.TMCCNXM_15d7021adf_13.0.zip
   name: Xiaomi 13
@@ -1102,6 +1108,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TLMCNXM/fw_munch_miui_MUNCH_V14.0.6.0.TLMCNXM_80538845fe_13.0.zip
   name: Redmi K40S/POCO F4
   version: V14.0.6.0.TLMCNXM
+- android: '13.0'
+  codename: munch
+  date: '2023-06-13'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLMMIXM/fw_munch_miui_MUNCHGlobal_V14.0.3.0.TLMMIXM_e91a582c89_13.0.zip
+  name: Redmi K40S/POCO F4
+  version: V14.0.3.0.TLMMIXM
 - android: '13.0'
   codename: munch
   date: '2023-04-10'
