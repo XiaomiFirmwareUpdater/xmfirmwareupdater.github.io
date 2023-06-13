@@ -491,6 +491,18 @@
   name: Redmi Note 9 Pro Max
   version: V14.0.2.0.SJXINXM
 - android: '13.0'
+  codename: fire
+  date: '2023-06-13'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMXEUXM/fw_fire_miui_FIREEEAGlobal_V14.0.2.0.TMXEUXM_68323aa05e_13.0.zip
+  name: Redmi 12
+  version: V14.0.2.0.TMXEUXM
+- android: '13.0'
+  codename: fire
+  date: '2023-06-13'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMXMIXM/fw_fire_miui_FIREGlobal_V14.0.4.0.TMXMIXM_c958e38c0c_13.0.zip
+  name: Redmi 12
+  version: V14.0.4.0.TMXMIXM
+- android: '13.0'
   codename: fleur
   date: '2023-05-26'
   download: https://bigota.d.miui.com/V14.0.2.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V14.0.2.0.TKEEUXM_4a037bf6d4_13.0.zip
