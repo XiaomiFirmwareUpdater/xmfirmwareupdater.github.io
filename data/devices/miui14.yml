@@ -528,12 +528,6 @@
   version: V14.0.21.0.TMCCNXM
 - android: '13.0'
   codename: fuxi
-  date: '2023-06-05'
-  download: https://bigota.d.miui.com/V14.0.29.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.29.0.TMCCNXM_a72354d5c7_13.0.zip
-  name: Xiaomi 13
-  version: V14.0.29.0.TMCCNXM
-- android: '13.0'
-  codename: fuxi
   date: '2023-06-01'
   download: https://bigota.d.miui.com/V14.0.27.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.27.0.TMCCNXM_15d7021adf_13.0.zip
   name: Xiaomi 13
@@ -700,6 +694,12 @@
   download: https://bigota.d.miui.com/V14.0.13.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
   name: Xiaomi 13 Ultra
   version: V14.0.13.0.TMACNXM
+- android: '13.0'
+  codename: ishtar
+  date: '2023-06-13'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMAMIXM/fw_ishtar_miui_ISHTARGlobal_V14.0.2.0.TMAMIXM_d1eb1df7a2_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.2.0.TMAMIXM
 - android: '13.0'
   codename: ishtar
   date: '2023-05-06'
