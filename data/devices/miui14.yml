@@ -36,6 +36,12 @@
   version: V14.0.3.0.TKHINXM
 - android: '13.0'
   codename: alioth
+  date: '2023-06-14'
+  download: https://bigota.d.miui.com/V14.0.9.0.TKHEUXM/fw_alioth_miui_ALIOTHEEAGlobal_V14.0.9.0.TKHEUXM_9e74ef6f25_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: V14.0.9.0.TKHEUXM
+- android: '13.0'
+  codename: alioth
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.2.0.TKHINXM/fw_alioth_miui_ALIOTHINGlobal_V14.0.2.0.TKHINXM_f9ee9089e7_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -166,6 +172,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SJEEUXM/fw_cannong_miui_CANNONGEEAGlobal_V14.0.3.0.SJEEUXM_7e3945849e_12.0.zip
   name: Redmi Note 9T
   version: V14.0.3.0.SJEEUXM
+- android: '13.0'
+  codename: cas
+  date: '2023-06-14'
+  download: https://bigota.d.miui.com/V14.0.2.0.TJJCNXM/fw_cas_miui_CAS_V14.0.2.0.TJJCNXM_8064d8e1fb_13.0.zip
+  name: Mi 10 Ultra
+  version: V14.0.2.0.TJJCNXM
 - android: '13.0'
   codename: cas
   date: '2023-04-06'

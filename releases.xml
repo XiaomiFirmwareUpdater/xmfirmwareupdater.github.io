@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Wed, 14 Jun 2023 01:43:44 +0900</pubDate>
+  <pubDate>Wed, 14 Jun 2023 19:07:07 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 10 Ultra (cas) - V14.0.2.0.TJJCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
+    <pubDate>Wed, 14 Jun 2023 19:07:07 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.9.0.TKHEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Wed, 14 Jun 2023 19:04:11 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 12 (fire) - V14.0.4.0.TMXMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fire</link>
@@ -95,16 +105,6 @@
     <title>Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) - V14.0.9.0.SMSMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/redwood</link>
     <pubDate>Sat, 10 Jun 2023 03:15:31 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Pro (nuwa) - V14.0.27.0.TMBCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/nuwa</link>
-    <pubDate>Sat, 10 Jun 2023 02:23:35 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite (ziyi) - V14.0.4.0.TLLEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ziyi</link>
-    <pubDate>Fri, 09 Jun 2023 20:35:46 +0900</pubDate>
   </item>
     </channel>
 </rss>
