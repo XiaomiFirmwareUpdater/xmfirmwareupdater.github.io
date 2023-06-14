@@ -840,6 +840,12 @@
   version: V13.0.5.0.SJNCNXM
 - android: '12.0'
   codename: cezanne
+  date: '2022-07-06'
+  download: https://bigota.d.miui.com/V13.0.2.0.SJNCNXM/fw_cezanne_miui_CEZANNE_V13.0.2.0.SJNCNXM_3842b0be60_12.0.zip
+  name: Redmi K30 Ultra
+  version: V13.0.2.0.SJNCNXM
+- android: '12.0'
+  codename: cezanne
   date: '2022-08-03'
   download: https://bigota.d.miui.com/V13.0.3.0.SJNCNXM/fw_cezanne_miui_CEZANNE_V13.0.3.0.SJNCNXM_4645d9915a_12.0.zip
   name: Redmi K30 Ultra
