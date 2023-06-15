@@ -366,6 +366,12 @@
   version: V14.0.3.0.SJWINXM
 - android: '13.0'
   codename: dagu
+  date: '2023-06-15'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLZCNXM/fw_dagu_miui_DAGU_V14.0.9.0.TLZCNXM_9c3087856d_13.0.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: V14.0.9.0.TLZCNXM
+- android: '13.0'
+  codename: dagu
   date: '2023-04-14'
   download: https://bigota.d.miui.com/V14.0.8.0.TLZCNXM/fw_dagu_miui_DAGU_V14.0.8.0.TLZCNXM_bd2974f03e_13.0.zip
   name: Xiaomi Pad 5 Pro 12.4
