@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 16 Jun 2023 01:33:45 +0900</pubDate>
+  <pubDate>Fri, 16 Jun 2023 19:11:44 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.7.0.TKHCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
+    <pubDate>Fri, 16 Jun 2023 19:11:44 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V14.0.9.0.TLZCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 12 4G (tapas) - V14.0.9.0.TMTMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
     <pubDate>Sun, 11 Jun 2023 01:48:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11S 5G (opal) - V14.0.2.0.TGLMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/opal</link>
-    <pubDate>Sat, 10 Jun 2023 18:49:17 +0900</pubDate>
   </item>
     </channel>
 </rss>
