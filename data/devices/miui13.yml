@@ -1992,10 +1992,22 @@
   version: V13.0.9.0.RGFMIXM
 - android: '12.0'
   codename: gauguin
+  date: '2022-03-25'
+  download: https://bigota.d.miui.com/22.3.23/fw_gauguin_miui_GAUGUINPRE_22.3.23_06ad59180f_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: 22.3.23
+- android: '12.0'
+  codename: gauguin
   date: '2022-01-21'
   download: https://bigota.d.miui.com/22.1.19/fw_gauguin_miui_GAUGUINPRE_22.1.19_9878eac7e2_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: 22.1.19
+- android: '12.0'
+  codename: gauguin
+  date: '2022-02-18'
+  download: https://bigota.d.miui.com/22.2.17/fw_gauguin_miui_GAUGUINPRE_22.2.17_8c67ac2e00_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: 22.2.17
 - android: '12.0'
   codename: gauguin
   date: '2022-02-13'
