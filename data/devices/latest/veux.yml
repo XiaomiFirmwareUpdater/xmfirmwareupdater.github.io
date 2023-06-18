@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-04-02'
+  date: '2023-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-02.04.2023/fw_veux_miui_VEUXGlobal_V13.0.7.0.SKCMIXM_88b46dd73c_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXGlobal_V13.0.7.0.SKCMIXM_88b46dd73c_12.0.zip
-  filename: fw_veux_miui_VEUXGlobal_V13.0.7.0.SKCMIXM_88b46dd73c_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-18.06.2023/fw_veux_miui_VEUXGlobal_V13.0.9.0.SKCMIXM_63063359ea_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXGlobal_V13.0.9.0.SKCMIXM_63063359ea_12.0.zip
+  filename: fw_veux_miui_VEUXGlobal_V13.0.9.0.SKCMIXM_63063359ea_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V13.0.7.0.SKCMIXM
+    miui: V13.0.9.0.SKCMIXM
 - branch: stable
   date: '2023-05-29'
   downloads:
@@ -29,12 +29,12 @@
     android: '12.0'
     miui: V13.0.6.0.SKCEUXM
 - branch: stable
-  date: '2023-04-20'
+  date: '2023-06-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-20.04.2023/fw_veux_miui_VEUXINGlobal_V13.0.6.0.SKCINXM_beedff83a0_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXINGlobal_V13.0.6.0.SKCINXM_beedff83a0_12.0.zip
-  filename: fw_veux_miui_VEUXINGlobal_V13.0.6.0.SKCINXM_beedff83a0_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-18.06.2023/fw_veux_miui_VEUXINGlobal_V13.0.7.0.SKCINXM_7414b73a52_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/veux/fw_veux_miui_VEUXINGlobal_V13.0.7.0.SKCINXM_7414b73a52_12.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_V13.0.7.0.SKCINXM_7414b73a52_12.0.zip
   region: India
   versions:
     android: '12.0'
-    miui: V13.0.6.0.SKCINXM
+    miui: V13.0.7.0.SKCINXM

@@ -52,7 +52,8 @@ permalink: /archive/miui/mona/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.5.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-06-09</td><td><a href="/miui/mona/public beta/V14.0.23.6.5.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi Civi China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKVCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-06-14</td><td><a href="/miui/mona/stable beta/V14.0.4.0.TKVCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.5.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-06-09</td><td><a href="/miui/mona/public beta/V14.0.23.6.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.29.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-06-02</td><td><a href="/miui/mona/public beta/V14.0.23.5.29.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.22.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-05-26</td><td><a href="/miui/mona/public beta/V14.0.23.5.22.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.15.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-05-19</td><td><a href="/miui/mona/public beta/V14.0.23.5.15.DEV/">Download</a></td></tr>
@@ -75,9 +76,9 @@ permalink: /archive/miui/mona/
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.8.DEV</td><td>13.0</td><td>5.8 GB</td><td>2022-12-16</td><td><a href="/miui/mona/public beta/V14.0.22.12.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>5.8 GB</td><td>2022-12-11</td><td><a href="/miui/mona/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.2 GB</td><td>2022-12-05</td><td><a href="/miui/mona/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-10-28</td><td><a href="/miui/mona/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKVCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-02-04</td><td><a href="/miui/mona/stable/V14.0.1.0.TKVCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKVCNXM</td><td>13.0</td><td>7.1 GB</td><td>2023-01-29</td><td><a href="/miui/mona/stable/V14.0.1.0.TKVCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>5.4 GB</td><td>2022-10-28</td><td><a href="/miui/mona/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>5.3 GB</td><td>2022-09-30</td><td><a href="/miui/mona/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.19.DEV</td><td>12.0</td><td>5.3 GB</td><td>2022-09-23</td><td><a href="/miui/mona/public beta/V13.1.22.9.19.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>5.3 GB</td><td>2022-09-09</td><td><a href="/miui/mona/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
@@ -106,10 +107,10 @@ permalink: /archive/miui/mona/
 <tr><td>Xiaomi Civi China</td><td>Weekly</td><td>Recovery</td><td>22.2.9</td><td>12.0</td><td>5.1 GB</td><td>2022-02-10</td><td><a href="/miui/mona/weekly/22.2.9/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.0.1.5.DEV</td><td>12.0</td><td>5.1 GB</td><td>2022-01-21</td><td><a href="/miui/mona/public beta/V13.0.0.1.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Public Beta</td><td>Fastboot</td><td>V13.0.0.1.5.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-01-21</td><td><a href="/miui/mona/public beta/V13.0.0.1.5.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Civi China</td><td>Weekly</td><td>Recovery</td><td>22.1.19</td><td>12.0</td><td>5.1 GB</td><td>2022-01-20</td><td><a href="/miui/mona/weekly/22.1.19/">Download</a></td></tr>
-<tr><td>Xiaomi Civi China</td><td>Weekly</td><td>Fastboot</td><td>22.1.19</td><td>12.0</td><td>6.8 GB</td><td>2022-01-19</td><td><a href="/miui/mona/weekly/22.1.19/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKVCNXM</td><td>12.0</td><td>5.0 GB</td><td>2022-02-11</td><td><a href="/miui/mona/stable/V13.0.2.0.SKVCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SKVCNXM</td><td>12.0</td><td>6.7 GB</td><td>2022-01-23</td><td><a href="/miui/mona/stable/V13.0.2.0.SKVCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi China</td><td>Weekly</td><td>Recovery</td><td>22.1.19</td><td>12.0</td><td>5.1 GB</td><td>2022-01-20</td><td><a href="/miui/mona/weekly/22.1.19/">Download</a></td></tr>
+<tr><td>Xiaomi Civi China</td><td>Weekly</td><td>Fastboot</td><td>22.1.19</td><td>12.0</td><td>6.8 GB</td><td>2022-01-19</td><td><a href="/miui/mona/weekly/22.1.19/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Weekly</td><td>Recovery</td><td>22.1.13</td><td>12.0</td><td>5.1 GB</td><td>2022-01-13</td><td><a href="/miui/mona/weekly/22.1.13/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Weekly</td><td>Recovery</td><td>22.1.5</td><td>12.0</td><td>5.0 GB</td><td>2022-01-06</td><td><a href="/miui/mona/weekly/22.1.5/">Download</a></td></tr>
 <tr><td>Xiaomi Civi China</td><td>Weekly</td><td>Recovery</td><td>21.12.29</td><td>12.0</td><td>5.0 GB</td><td>2021-12-30</td><td><a href="/miui/mona/weekly/21.12.29/">Download</a></td></tr>

@@ -1055,6 +1055,12 @@
   name: Xiaomi Civi
   version: V14.0.2.0.TKVCNXM
 - android: '13.0'
+  codename: mona
+  date: '2023-06-18'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKVCNXM/fw_mona_miui_MONA_V14.0.4.0.TKVCNXM_40da7725be_13.0.zip
+  name: Xiaomi Civi
+  version: V14.0.4.0.TKVCNXM
+- android: '13.0'
   codename: mondrian
   date: '2023-05-22'
   download: https://bigota.d.miui.com/V14.0.4.0.TMNMIXM/fw_mondrian_miui_MONDRIANGlobal_V14.0.4.0.TMNMIXM_80961dabba_13.0.zip
