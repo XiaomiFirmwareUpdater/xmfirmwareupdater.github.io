@@ -73,8 +73,8 @@ permalink: /miui/venus/
 <tr><td>Mi 11 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TKBTRXM</td><td>13.0</td><td>4.7 GB</td><td>2023-03-16</td><td><a href="/miui/venus/stable beta/V14.0.1.0.TKBTRXM/">Download</a></td></tr>
 <tr><td>Mi 11 Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SKBTRXM</td><td>12.0</td><td>3.5 GB</td><td>2022-06-28</td><td><a href="/miui/venus/stable/V13.0.2.0.SKBTRXM/">Download</a></td></tr>
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKBTWXM</td><td>13.0</td><td>5.8 GB</td><td>2023-03-16</td><td><a href="/miui/venus/stable/V14.0.2.0.TKBTWXM/">Download</a></td></tr>
-<tr><td>Mi 11 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TKBTWXM</td><td>13.0</td><td>4.6 GB</td><td>2023-04-14</td><td><a href="/miui/venus/stable beta/V14.0.2.0.TKBTWXM/">Download</a></td></tr>
 <tr><td>Mi 11 Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SKBTWXM</td><td>12.0</td><td>3.5 GB</td><td>2022-10-24</td><td><a href="/miui/venus/stable/V13.0.4.0.SKBTWXM/">Download</a></td></tr>
+<tr><td>Mi 11 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKBTWXM</td><td>13.0</td><td>4.6 GB</td><td>2023-06-15</td><td><a href="/miui/venus/stable beta/V14.0.3.0.TKBTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

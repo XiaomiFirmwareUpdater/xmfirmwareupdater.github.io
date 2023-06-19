@@ -414,6 +414,12 @@
   version: V14.0.1.0.TLFMIXM
 - android: '13.0'
   codename: diting
+  date: '2023-06-19'
+  download: https://bigota.d.miui.com/V14.0.13.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.13.0.TLFEUXM_7b8d99956d_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.13.0.TLFEUXM
+- android: '13.0'
+  codename: diting
   date: '2023-05-17'
   download: https://bigota.d.miui.com/V14.0.9.1.TLFCNXM/fw_diting_miui_DITING_V14.0.9.1.TLFCNXM_47dad33248_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -1720,6 +1726,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SMOMIXM/fw_ruby_miui_RUBYGlobal_V14.0.2.0.SMOMIXM_4bbfd34dc6_12.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: V14.0.2.0.SMOMIXM
+- android: '13.0'
+  codename: ruby
+  date: '2023-06-19'
+  download: https://bigota.d.miui.com/V14.0.1.0.TMOCNXM/fw_ruby_miui_RUBY_V14.0.1.0.TMOCNXM_87b81ad49d_13.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.1.0.TMOCNXM
 - android: '12.0'
   codename: ruby
   date: '2023-05-16'

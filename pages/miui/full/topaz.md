@@ -52,7 +52,8 @@ permalink: /archive/miui/topaz/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.9.0.TMGEUXM</td><td>13.0</td><td>4.3 GB</td><td>2023-06-09</td><td><a href="/miui/topaz/stable beta/V14.0.9.0.TMGEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMGRUXM</td><td>13.0</td><td>4.1 GB</td><td>2023-06-19</td><td><a href="/miui/topaz/stable beta/V14.0.4.0.TMGRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.9.0.TMGEUXM</td><td>13.0</td><td>4.3 GB</td><td>2023-06-09</td><td><a href="/miui/topaz/stable beta/V14.0.9.0.TMGEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMGRUXM</td><td>13.0</td><td>4.2 GB</td><td>2023-05-29</td><td><a href="/miui/topaz/stable/V14.0.3.0.TMGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMGRUXM</td><td>13.0</td><td>6.1 GB</td><td>2023-05-10</td><td><a href="/miui/topaz/stable/V14.0.3.0.TMGRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G NFC EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TMGEUXM</td><td>13.0</td><td>4.3 GB</td><td>2023-05-15</td><td><a href="/miui/topaz/stable/V14.0.8.0.TMGEUXM/">Download</a></td></tr>
