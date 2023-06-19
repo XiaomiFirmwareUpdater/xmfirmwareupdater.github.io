@@ -71,6 +71,7 @@ permalink: /miui/rosemary/
 <tr><td>POCO M5S Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SFFIDXM</td><td>12.0</td><td>3.3 GB</td><td>2023-02-05</td><td><a href="/miui/rosemary/stable/V13.0.3.0.SFFIDXM/">Download</a></td></tr>
 <tr><td>POCO M5S Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.7.0.SFFRUXM</td><td>12.0</td><td>6.0 GB</td><td>2023-03-22</td><td><a href="/miui/rosemary/stable/V13.0.7.0.SFFRUXM/">Download</a></td></tr>
 <tr><td>POCO M5S Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.7.0.SFFRUXM</td><td>12.0</td><td>3.4 GB</td><td>2023-04-11</td><td><a href="/miui/rosemary/stable/V13.0.7.0.SFFRUXM/">Download</a></td></tr>
+<tr><td>POCO M5S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TFFRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-06-15</td><td><a href="/miui/rosemary/stable beta/V14.0.1.0.TFFRUXM/">Download</a></td></tr>
 <tr><td>POCO M5S Turkey</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SFFTRXM</td><td>12.0</td><td>5.7 GB</td><td>2022-12-29</td><td><a href="/miui/rosemary/stable/V13.0.4.0.SFFTRXM/">Download</a></td></tr>
 <tr><td>POCO M5S Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SFFTRXM</td><td>12.0</td><td>3.4 GB</td><td>2023-01-18</td><td><a href="/miui/rosemary/stable/V13.0.4.0.SFFTRXM/">Download</a></td></tr>
 <tr><td>POCO M5S Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SFFTWXM</td><td>12.0</td><td>5.4 GB</td><td>2023-03-22</td><td><a href="/miui/rosemary/stable/V13.0.6.0.SFFTWXM/">Download</a></td></tr>
