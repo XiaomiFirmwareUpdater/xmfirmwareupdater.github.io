@@ -7180,6 +7180,12 @@
   download: https://bigota.d.miui.com/21.4.8/miui_VELA_21.4.8_e9b28ee351_11.0.zip
   name: Mi CC 9 Meitu Edition
   version: 21.4.8
+- android: '10.0'
+  codename: vela
+  date: '2020-12-03'
+  download: https://bigota.d.miui.com/20.12.2/miui_VELA_20.12.2_29cbd88315_10.0.zip
+  name: Mi CC 9 Meitu Edition
+  version: 20.12.2
 - android: '12.0'
   codename: venus
   date: '2021-10-29'
