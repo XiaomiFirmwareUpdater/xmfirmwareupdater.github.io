@@ -551,6 +551,12 @@
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
   version: V14.0.3.0.TKEEUXM
 - android: '13.0'
+  codename: fog
+  date: '2023-06-20'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGEMIXM/fw_fog_miui_FOGGlobal_V14.0.2.0.TGEMIXM_d9fc7d070f_13.0.zip
+  name: Redmi 10C
+  version: V14.0.2.0.TGEMIXM
+- android: '13.0'
   codename: fuxi
   date: '2023-04-25'
   download: https://bigota.d.miui.com/V14.0.24.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.24.0.TMCCNXM_bad43a4e6f_13.0.zip
