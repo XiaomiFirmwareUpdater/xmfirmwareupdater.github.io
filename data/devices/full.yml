@@ -26409,6 +26409,16 @@
     android: '11.0'
     miui: V12.5.2.0.RKKINXM
 - branch: stable
+  date: '2023-06-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-22.06.2023/fw_haydn_miui_HAYDN_V14.0.6.0.TKKCNXM_cb94321b27_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDN_V14.0.6.0.TKKCNXM_cb94321b27_13.0.zip
+  filename: fw_haydn_miui_HAYDN_V14.0.6.0.TKKCNXM_cb94321b27_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKKCNXM
+- branch: stable
   date: '2023-05-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-22.05.2023/fw_haydn_miui_HAYDNGlobal_V14.0.5.0.TKKMIXM_c49481499a_13.0.zip
@@ -55658,6 +55668,16 @@
   versions:
     android: '11.0'
     miui: V12.5.2.0.RFNMIXM
+- branch: stable
+  date: '2023-06-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-22.06.2023/fw_topaz_miui_TOPAZGlobal_V14.0.4.0.TMGMIXM_5ed0d3f62c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/topaz/fw_topaz_miui_TOPAZGlobal_V14.0.4.0.TMGMIXM_5ed0d3f62c_13.0.zip
+  filename: fw_topaz_miui_TOPAZGlobal_V14.0.4.0.TMGMIXM_5ed0d3f62c_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMGMIXM
 - branch: stable
   date: '2023-05-21'
   downloads:

@@ -648,6 +648,12 @@
   version: V14.0.5.0.TKKCNXM
 - android: '13.0'
   codename: haydn
+  date: '2023-06-21'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKKCNXM/fw_haydn_miui_HAYDN_V14.0.6.0.TKKCNXM_cb94321b27_13.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V14.0.6.0.TKKCNXM
+- android: '13.0'
+  codename: haydn
   date: '2023-05-22'
   download: https://bigota.d.miui.com/V14.0.5.0.TKKMIXM/fw_haydn_miui_HAYDNGlobal_V14.0.5.0.TKKMIXM_c49481499a_13.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
@@ -2086,6 +2092,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TGACNXM/fw_thyme_miui_THYME_V14.0.5.0.TGACNXM_bd6a7e7e60_13.0.zip
   name: Mi 10S
   version: V14.0.5.0.TGACNXM
+- android: '13.0'
+  codename: topaz
+  date: '2023-06-21'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMGMIXM/fw_topaz_miui_TOPAZGlobal_V14.0.4.0.TMGMIXM_5ed0d3f62c_13.0.zip
+  name: Redmi Note 12 4G NFC
+  version: V14.0.4.0.TMGMIXM
 - android: '13.0'
   codename: topaz
   date: '2023-05-21'
