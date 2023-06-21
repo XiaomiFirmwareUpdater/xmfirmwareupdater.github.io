@@ -3911,6 +3911,16 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-31.10.2020/fw_atom_miui_ATOM_20.10.30_fd0c0a6a9b_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.10.30/atom/fw_atom_miui_ATOM_20.10.30_fd0c0a6a9b_10.0.zip
+  filename: fw_atom_miui_ATOM_20.10.30_fd0c0a6a9b_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.10.30
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-30.07.2020/fw_atom_miui_ATOM_20.7.30_0bcc1347b5_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/atom/fw_atom_miui_ATOM_20.7.30_0bcc1347b5_10.0.zip
   filename: fw_atom_miui_ATOM_20.7.30_0bcc1347b5_10.0.zip
@@ -3968,6 +3978,16 @@
   versions:
     android: '11.0'
     miui: 21.1.28
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-28.08.2020/fw_atom_miui_ATOM_20.8.27_61c095f47c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.27/atom/fw_atom_miui_ATOM_20.8.27_61c095f47c_10.0.zip
+  filename: fw_atom_miui_ATOM_20.8.27_61c095f47c_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.8.27
 - branch: weekly
   date: '2021-05-27'
   downloads:
@@ -4131,6 +4151,16 @@
 - branch: weekly
   date: '2021-04-18'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-18.03.2021/fw_atom_miui_ATOM_21.3.18_e6585ed0d8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.3.18/atom/fw_atom_miui_ATOM_21.3.18_e6585ed0d8_11.0.zip
+  filename: fw_atom_miui_ATOM_21.3.18_e6585ed0d8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.3.18
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-17.09.2020/fw_atom_miui_ATOM_20.9.17_b225e94387_10.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.9.17/atom/fw_atom_miui_ATOM_20.9.17_b225e94387_10.0.zip
   filename: fw_atom_miui_ATOM_20.9.17_b225e94387_10.0.zip
@@ -4188,6 +4218,16 @@
   versions:
     android: '11.0'
     miui: 21.5.12
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/weekly-13.08.2020/fw_atom_miui_ATOM_20.8.13_709f20ad6d_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.8.13/atom/fw_atom_miui_ATOM_20.8.13_709f20ad6d_10.0.zip
+  filename: fw_atom_miui_ATOM_20.8.13_709f20ad6d_10.0.zip
+  region: China
+  versions:
+    android: '10.0'
+    miui: 20.8.13
 - branch: weekly
   date: '2021-11-12'
   downloads:
@@ -4568,6 +4608,16 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SJHCNXM
+- branch: stable
+  date: '2023-02-16'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_atom/releases/download/stable-16.02.2023/fw_atom_miui_ATOM_V13.0.6.0.SJHCNXM_662576ee26_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/atom/fw_atom_miui_ATOM_V13.0.6.0.SJHCNXM_662576ee26_12.0.zip
+  filename: fw_atom_miui_ATOM_V13.0.6.0.SJHCNXM_662576ee26_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.6.0.SJHCNXM
 - branch: stable
   date: '2021-07-13'
   downloads:
