@@ -149,6 +149,16 @@
     android: '11.0'
     miui: V13.0.10.0.RKCEUXM
 - branch: stable
+  date: '2023-06-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-21.06.2023/fw_veux_miui_VEUXEEAGlobal_V14.0.1.0.TKCEUXM_404df87ca1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/veux/fw_veux_miui_VEUXEEAGlobal_V14.0.1.0.TKCEUXM_404df87ca1_13.0.zip
+  filename: fw_veux_miui_VEUXEEAGlobal_V14.0.1.0.TKCEUXM_404df87ca1_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TKCEUXM
+- branch: stable
   date: '2023-04-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-20.04.2023/fw_veux_miui_VEUXINGlobal_V13.0.6.0.SKCINXM_beedff83a0_12.0.zip

@@ -2226,6 +2226,18 @@
   version: V14.0.3.0.TKBEUXM
 - android: '13.0'
   codename: venus
+  date: '2023-06-21'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKBEUXM/fw_venus_miui_VENUSEEAGlobal_V14.0.4.0.TKBEUXM_733aff4f19_13.0.zip
+  name: Mi 11
+  version: V14.0.4.0.TKBEUXM
+- android: '13.0'
+  codename: venus
+  date: '2023-06-21'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKBMIXM/fw_venus_miui_VENUSGlobal_V14.0.4.0.TKBMIXM_6040ecb479_13.0.zip
+  name: Mi 11
+  version: V14.0.4.0.TKBMIXM
+- android: '13.0'
+  codename: venus
   date: '2023-04-20'
   download: https://bigota.d.miui.com/V14.0.9.0.TKBCNXM/fw_venus_miui_VENUS_V14.0.9.0.TKBCNXM_d887f6222b_13.0.zip
   name: Mi 11
@@ -2260,6 +2272,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKCCNXM/fw_veux_miui_VEUX_V14.0.1.0.TKCCNXM_0ebe59b3b1_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: V14.0.1.0.TKCCNXM
+- android: '13.0'
+  codename: veux
+  date: '2023-06-21'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_V14.0.1.0.TKCEUXM_404df87ca1_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V14.0.1.0.TKCEUXM
 - android: '13.0'
   codename: vida
   date: '2023-06-09'

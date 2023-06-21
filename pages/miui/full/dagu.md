@@ -52,7 +52,8 @@ permalink: /archive/miui/dagu/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.9.0.TLZCNXM</td><td>13.0</td><td>4.3 GB</td><td>2023-06-12</td><td><a href="/miui/dagu/stable beta/V14.0.9.0.TLZCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.8.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-06-16</td><td><a href="/miui/dagu/public beta/V14.0.23.6.8.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.9.0.TLZCNXM</td><td>13.0</td><td>4.3 GB</td><td>2023-06-12</td><td><a href="/miui/dagu/stable beta/V14.0.9.0.TLZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.5.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-06-09</td><td><a href="/miui/dagu/public beta/V14.0.23.6.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.29.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-06-02</td><td><a href="/miui/dagu/public beta/V14.0.23.5.29.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 12.4 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.22.DEV</td><td>13.0</td><td>4.3 GB</td><td>2023-05-26</td><td><a href="/miui/dagu/public beta/V14.0.23.5.22.DEV/">Download</a></td></tr>
