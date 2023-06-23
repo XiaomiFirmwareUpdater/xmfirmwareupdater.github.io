@@ -72,6 +72,7 @@ permalink: /miui/cupid/
 <tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLCTRXM</td><td>13.0</td><td>4.7 GB</td><td>2023-03-10</td><td><a href="/miui/cupid/stable/V14.0.1.0.TLCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLCTWXM</td><td>13.0</td><td>5.6 GB</td><td>2023-02-18</td><td><a href="/miui/cupid/stable/V14.0.1.0.TLCTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLCTWXM</td><td>13.0</td><td>4.6 GB</td><td>2023-02-26</td><td><a href="/miui/cupid/stable/V14.0.1.0.TLCTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLCTWXM</td><td>13.0</td><td>4.7 GB</td><td>2023-06-19</td><td><a href="/miui/cupid/stable beta/V14.0.2.0.TLCTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
