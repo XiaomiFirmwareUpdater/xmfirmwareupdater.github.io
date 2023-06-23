@@ -966,6 +966,12 @@
   version: V14.0.2.0.TMRCNXM
 - android: '13.0'
   codename: marble
+  date: '2023-06-23'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMRINXM/fw_marble_miui_MARBLEINGlobal_V14.0.4.0.TMRINXM_f28e3f3c33_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.4.0.TMRINXM
+- android: '13.0'
+  codename: marble
   date: '2023-04-18'
   download: https://bigota.d.miui.com/V14.0.16.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
@@ -1342,6 +1348,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLHCNXM/fw_pearl_miui_PEARL_V14.0.1.0.TLHCNXM_3ac6c95365_13.0.zip
   name: Redmi Note 12T Pro
   version: V14.0.1.0.TLHCNXM
+- android: '13.0'
+  codename: pearl
+  date: '2023-06-23'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLHCNXM/fw_pearl_miui_PEARL_V14.0.5.0.TLHCNXM_021a5858f9_13.0.zip
+  name: Redmi Note 12T Pro
+  version: V14.0.5.0.TLHCNXM
 - android: '13.0'
   codename: pipa
   date: '2023-04-26'
