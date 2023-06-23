@@ -61,6 +61,7 @@ permalink: /miui/opal/
 <tr><td>Redmi Note 11S 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TGLRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-06-06</td><td><a href="/miui/opal/stable beta/V14.0.1.0.TGLRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SGLTWXM</td><td>12.0</td><td>4.9 GB</td><td>2022-09-07</td><td><a href="/miui/opal/stable/V13.0.1.0.SGLTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11S 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SGLTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-09-15</td><td><a href="/miui/opal/stable/V13.0.1.0.SGLTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11S 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TGLTWXM</td><td>13.0</td><td>3.7 GB</td><td>2023-06-19</td><td><a href="/miui/opal/stable beta/V14.0.1.0.TGLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
