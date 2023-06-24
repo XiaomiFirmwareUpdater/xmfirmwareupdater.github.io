@@ -68,6 +68,7 @@ permalink: /miui/viva/
 <tr><td>Redmi Note 11 Pro 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TGDTRXM</td><td>13.0</td><td>3.5 GB</td><td>2023-06-08</td><td><a href="/miui/viva/stable beta/V14.0.1.0.TGDTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SGDTWXM</td><td>12.0</td><td>5.0 GB</td><td>2022-12-08</td><td><a href="/miui/viva/stable/V13.0.2.0.SGDTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro 4G Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SGDTWXM</td><td>12.0</td><td>3.1 GB</td><td>2022-12-14</td><td><a href="/miui/viva/stable/V13.0.2.0.SGDTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TGDTWXM</td><td>13.0</td><td>3.4 GB</td><td>2023-06-20</td><td><a href="/miui/viva/stable beta/V14.0.2.0.TGDTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
