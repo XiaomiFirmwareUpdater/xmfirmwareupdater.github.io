@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-05-08'
+  date: '2023-06-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-08.05.2023/fw_marble_miui_MARBLEGlobal_V14.0.4.0.TMRMIXM_77ed0ac710_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEGlobal_V14.0.4.0.TMRMIXM_77ed0ac710_13.0.zip
-  filename: fw_marble_miui_MARBLEGlobal_V14.0.4.0.TMRMIXM_77ed0ac710_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-25.06.2023/fw_marble_miui_MARBLEGlobal_V14.0.5.0.TMRMIXM_7c12a4a6ea_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEGlobal_V14.0.5.0.TMRMIXM_7c12a4a6ea_13.0.zip
+  filename: fw_marble_miui_MARBLEGlobal_V14.0.5.0.TMRMIXM_7c12a4a6ea_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMRMIXM
+    miui: V14.0.5.0.TMRMIXM
 - branch: stable
   date: '2023-06-08'
   downloads:
@@ -19,15 +19,15 @@
     android: '13.0'
     miui: V14.0.20.0.TMRCNXM
 - branch: stable
-  date: '2023-05-09'
+  date: '2023-06-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-09.05.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.6.0.TMREUXM_a36d076463_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEEEAGlobal_V14.0.6.0.TMREUXM_a36d076463_13.0.zip
-  filename: fw_marble_miui_MARBLEEEAGlobal_V14.0.6.0.TMREUXM_a36d076463_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-25.06.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.7.0.TMREUXM_6b217a90d3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEEEAGlobal_V14.0.7.0.TMREUXM_6b217a90d3_13.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_V14.0.7.0.TMREUXM_6b217a90d3_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TMREUXM
+    miui: V14.0.7.0.TMREUXM
 - branch: stable
   date: '2023-06-23'
   downloads:

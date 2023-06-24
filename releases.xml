@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 24 Jun 2023 02:07:08 +0900</pubDate>
+  <pubDate>Sun, 25 Jun 2023 07:43:13 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K40S/POCO F4 (munch) - V14.0.5.0.TLMINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
+    <pubDate>Sun, 25 Jun 2023 07:43:13 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.5.0.TMRMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
+    <pubDate>Sun, 25 Jun 2023 07:16:39 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.7.0.TMREUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
+    <pubDate>Sun, 25 Jun 2023 06:39:33 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 12T Pro (pearl) - V14.0.5.0.TLHCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/pearl</link>
@@ -90,21 +105,6 @@
     <title>Xiaomi Civi (mona) - V14.0.4.0.TKVCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/mona</link>
     <pubDate>Sun, 18 Jun 2023 12:57:24 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40/POCO F3/Mi 11X (alioth) - V14.0.7.0.TKHCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/alioth</link>
-    <pubDate>Fri, 16 Jun 2023 19:11:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi Pad 5 Pro 12.4 (dagu) - V14.0.9.0.TLZCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/dagu</link>
-    <pubDate>Fri, 16 Jun 2023 01:33:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 10 Ultra (cas) - V14.0.2.0.TJJCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/cas</link>
-    <pubDate>Wed, 14 Jun 2023 19:07:07 +0900</pubDate>
   </item>
     </channel>
 </rss>
