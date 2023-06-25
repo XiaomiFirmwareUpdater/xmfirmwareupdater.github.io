@@ -1,11 +1,31 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 25 Jun 2023 15:43:45 +0900</pubDate>
+  <pubDate>Sun, 25 Jun 2023 23:38:04 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Lite (taoyao) - V14.0.14.0.TLIEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
+    <pubDate>Sun, 25 Jun 2023 23:38:04 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12T (plato) - V14.0.5.0.TLQMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
+    <pubDate>Sun, 25 Jun 2023 21:52:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 13 (fuxi) - V14.0.24.0.TMCEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
+    <pubDate>Sun, 25 Jun 2023 21:27:49 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 12 (fire) - V14.0.4.0.TMXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fire</link>
+    <pubDate>Sun, 25 Jun 2023 19:52:21 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Pad (yunluo) - V14.0.2.0.TLYMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
@@ -85,26 +105,6 @@
     <title>Mi 11 (venus) - V14.0.4.0.TKBMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
     <pubDate>Wed, 21 Jun 2023 20:54:00 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 (venus) - V14.0.4.0.TKBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
-    <pubDate>Wed, 21 Jun 2023 19:26:37 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10C (fog) - V14.0.2.0.TGEMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fog</link>
-    <pubDate>Tue, 20 Jun 2023 19:03:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V13.0.16.0.SKUMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
-    <pubDate>Tue, 20 Jun 2023 02:21:57 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 Ultra (ishtar) - V14.0.16.0.TMACNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/ishtar</link>
-    <pubDate>Tue, 20 Jun 2023 02:06:45 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -19,12 +19,12 @@
     android: '13.0'
     miui: V14.0.29.0.TMCCNXM
 - branch: stable
-  date: '2023-05-01'
+  date: '2023-06-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-01.05.2023/fw_fuxi_miui_FUXIEEAGlobal_V14.0.22.0.TMCEUXM_278c59e2f9_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXIEEAGlobal_V14.0.22.0.TMCEUXM_278c59e2f9_13.0.zip
-  filename: fw_fuxi_miui_FUXIEEAGlobal_V14.0.22.0.TMCEUXM_278c59e2f9_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-25.06.2023/fw_fuxi_miui_FUXIEEAGlobal_V14.0.24.0.TMCEUXM_b42d0e6c2d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXIEEAGlobal_V14.0.24.0.TMCEUXM_b42d0e6c2d_13.0.zip
+  filename: fw_fuxi_miui_FUXIEEAGlobal_V14.0.24.0.TMCEUXM_b42d0e6c2d_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.22.0.TMCEUXM
+    miui: V14.0.24.0.TMCEUXM
