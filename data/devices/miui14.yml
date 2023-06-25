@@ -150,6 +150,12 @@
   version: V14.0.4.0.TKSMIXM
 - android: '13.0'
   codename: camellian
+  date: '2023-06-25'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKSMIXM/fw_camellian_miui_CAMELLIANGlobal_V14.0.5.0.TKSMIXM_65527e11f3_13.0.zip
+  name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
+  version: V14.0.5.0.TKSMIXM
+- android: '13.0'
+  codename: camellian
   date: '2023-05-08'
   download: https://bigota.d.miui.com/V14.0.3.0.TKSMIXM/fw_camellian_miui_CAMELLIANGlobal_V14.0.3.0.TKSMIXM_4d9be1df29_13.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
@@ -1812,6 +1818,12 @@
   version: V14.0.10.0.SMOEUXM
 - android: '13.0'
   codename: sea
+  date: '2023-06-25'
+  download: https://bigota.d.miui.com/V14.0.6.0.THZMIXM/fw_sea_miui_SEAGlobal_V14.0.6.0.THZMIXM_046b63823c_13.0.zip
+  name: Redmi Note 12S
+  version: V14.0.6.0.THZMIXM
+- android: '13.0'
+  codename: sea
   date: '2023-05-23'
   download: https://bigota.d.miui.com/V14.0.4.0.THZMIXM/fw_sea_miui_SEAGlobal_V14.0.4.0.THZMIXM_6358f3d569_13.0.zip
   name: Redmi Note 12S
@@ -2268,6 +2280,12 @@
   version: V14.0.3.0.TKBEUXM
 - android: '13.0'
   codename: venus
+  date: '2023-06-25'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKBEUXM/fw_venus_miui_VENUSEEAGlobal_V14.0.5.0.TKBEUXM_2a9bbc6f5b_13.0.zip
+  name: Mi 11
+  version: V14.0.5.0.TKBEUXM
+- android: '13.0'
+  codename: venus
   date: '2023-06-21'
   download: https://bigota.d.miui.com/V14.0.4.0.TKBEUXM/fw_venus_miui_VENUSEEAGlobal_V14.0.4.0.TKBEUXM_733aff4f19_13.0.zip
   name: Mi 11
@@ -2476,6 +2494,18 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLYINXM/fw_yunluo_miui_YUNLUOINGlobal_V14.0.1.0.TLYINXM_c01e7cc1c2_13.0.zip
   name: Redmi Pad
   version: V14.0.1.0.TLYINXM
+- android: '13.0'
+  codename: yunluo
+  date: '2023-06-25'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLYEUXM/fw_yunluo_miui_YUNLUOEEAGlobal_V14.0.3.0.TLYEUXM_0c1b518d87_13.0.zip
+  name: Redmi Pad
+  version: V14.0.3.0.TLYEUXM
+- android: '13.0'
+  codename: yunluo
+  date: '2023-06-25'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLYMIXM/fw_yunluo_miui_YUNLUOGlobal_V14.0.2.0.TLYMIXM_166157b077_13.0.zip
+  name: Redmi Pad
+  version: V14.0.2.0.TLYMIXM
 - android: '13.0'
   codename: yunluo
   date: '2023-04-25'
