@@ -1948,6 +1948,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKAINXM/fw_star_miui_STARINGlobal_V14.0.2.0.TKAINXM_260004a39c_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V14.0.2.0.TKAINXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-06-25'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMQINXM/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.2.0.TMQINXM_2a22a38aaf_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.2.0.TMQINXM
 - android: '12.0'
   codename: sunstone
   date: '2023-04-25'
@@ -2452,6 +2458,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.4.0.TGOINXM_3a291217b7_13.0.zip
   name: Redmi A2/A2+/POCO C51
   version: V14.0.4.0.TGOINXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-06-25'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLOINXM/fw_xaga_miui_XAGAINGlobal_V14.0.3.0.TLOINXM_14885bc6ad_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.3.0.TLOINXM
 - android: '13.0'
   codename: xaga
   date: '2023-03-24'

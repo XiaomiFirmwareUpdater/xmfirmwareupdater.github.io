@@ -4389,15 +4389,15 @@
     android: '13.0'
     miui: V14.0.2.0.TMQEUXM
 - branch: stable
-  date: '2023-04-18'
+  date: '2023-06-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-18.04.2023/fw_sunstone_miui_SUNSTONEINGlobal_V13.0.11.0.SMQINXM_c5376a062f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_V13.0.11.0.SMQINXM_c5376a062f_12.0.zip
-  filename: fw_sunstone_miui_SUNSTONEINGlobal_V13.0.11.0.SMQINXM_c5376a062f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-25.06.2023/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.2.0.TMQINXM_2a22a38aaf_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.2.0.TMQINXM_2a22a38aaf_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONEINGlobal_V14.0.2.0.TMQINXM_2a22a38aaf_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.11.0.SMQINXM
+    android: '13.0'
+    miui: V14.0.2.0.TMQINXM
 - branch: stable
   date: '2023-03-14'
   downloads:
@@ -5219,15 +5219,15 @@
     android: '13.0'
     miui: V14.0.3.0.TLOEUXM
 - branch: stable
-  date: '2023-03-24'
+  date: '2023-06-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-24.03.2023/fw_xaga_miui_XAGAINGlobal_V14.0.2.0.TLOINXM_6a469f9ae6_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGAINGlobal_V14.0.2.0.TLOINXM_6a469f9ae6_13.0.zip
-  filename: fw_xaga_miui_XAGAINGlobal_V14.0.2.0.TLOINXM_6a469f9ae6_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-25.06.2023/fw_xaga_miui_XAGAINGlobal_V14.0.3.0.TLOINXM_14885bc6ad_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGAINGlobal_V14.0.3.0.TLOINXM_14885bc6ad_13.0.zip
+  filename: fw_xaga_miui_XAGAINGlobal_V14.0.3.0.TLOINXM_14885bc6ad_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.2.0.TLOINXM
+    miui: V14.0.3.0.TLOINXM
 - branch: stable
   date: '2020-09-30'
   downloads:
