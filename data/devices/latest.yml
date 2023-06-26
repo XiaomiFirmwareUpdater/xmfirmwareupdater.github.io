@@ -609,15 +609,15 @@
     android: '9.0'
     miui: 9.6.27
 - branch: weekly
-  date: '2021-11-26'
+  date: '2021-06-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/weekly-26.11.2021/fw_cepheus_miui_CEPHEUS_21.11.24_d1e07cc091_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.11.24/cepheus/fw_cepheus_miui_CEPHEUS_21.11.24_d1e07cc091_11.0.zip
-  filename: fw_cepheus_miui_CEPHEUS_21.11.24_d1e07cc091_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cepheus/releases/download/weekly-10.06.2021/fw_cepheus_miui_CEPHEUS_21.6.9_f95e07bc76_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.9/cepheus/fw_cepheus_miui_CEPHEUS_21.6.9_f95e07bc76_11.0.zip
+  filename: fw_cepheus_miui_CEPHEUS_21.6.9_f95e07bc76_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 21.11.24
+    miui: 21.6.9
 - branch: stable
   date: '2021-11-29'
   downloads:
@@ -4979,15 +4979,15 @@
     android: '13.0'
     miui: V14.0.2.0.TKDMIXM
 - branch: stable
-  date: '2023-06-08'
+  date: '2023-06-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-08.06.2023/fw_vili_miui_VILIEEAGlobal_V14.0.9.0.TKDEUXM_aec8ccd3ae_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIEEAGlobal_V14.0.9.0.TKDEUXM_aec8ccd3ae_13.0.zip
-  filename: fw_vili_miui_VILIEEAGlobal_V14.0.9.0.TKDEUXM_aec8ccd3ae_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-26.06.2023/fw_vili_miui_VILIEEAGlobal_V14.0.10.0.TKDEUXM_c28a88196e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIEEAGlobal_V14.0.10.0.TKDEUXM_c28a88196e_13.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_V14.0.10.0.TKDEUXM_c28a88196e_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TKDEUXM
+    miui: V14.0.10.0.TKDEUXM
 - branch: stable
   date: '2023-05-25'
   downloads:
