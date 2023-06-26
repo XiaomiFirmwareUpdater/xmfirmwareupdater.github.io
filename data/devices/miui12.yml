@@ -2188,6 +2188,12 @@
   download: https://bigota.d.miui.com/20.4.27/miui_CEPHEUS_20.4.27_2b15191b0e_10.0.zip
   name: Mi 9
   version: 20.4.27
+- android: '11.0'
+  codename: cepheus
+  date: '2021-11-26'
+  download: https://bigota.d.miui.com/21.11.24/miui_CEPHEUS_21.11.24_d1e07cc091_11.0.zip
+  name: Mi 9
+  version: 21.11.24
 - android: '10.0'
   codename: cepheus
   date: '2020-09-24'
