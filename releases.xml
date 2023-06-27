@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Tue, 27 Jun 2023 01:12:04 +0900</pubDate>
+  <pubDate>Tue, 27 Jun 2023 19:04:30 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.1.0.TGBINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
+    <pubDate>Tue, 27 Jun 2023 19:04:30 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 11T Pro (vili) - V14.0.10.0.TKDEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
@@ -100,11 +105,6 @@
     <title>Redmi 9A/Redmi 10A/10A Sport/9AT/9i/9A Sport (dandelion) - V12.5.11.0.RCZMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/dandelion</link>
     <pubDate>Thu, 22 Jun 2023 18:24:40 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 4G NFC (topaz) - V14.0.4.0.TMGMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/topaz</link>
-    <pubDate>Thu, 22 Jun 2023 07:19:30 +0900</pubDate>
   </item>
     </channel>
 </rss>

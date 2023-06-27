@@ -56,9 +56,8 @@ permalink: /miui/marble/
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>V14.0.20.0.TMRCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-06-06</td><td><a href="/miui/marble/stable/V14.0.20.0.TMRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable Beta</td><td>Fastboot</td><td>V14.0.1.0.TMRCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-02-10</td><td><a href="/miui/marble/stable beta/V14.0.1.0.TMRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TMRCNXM</td><td>13.0</td><td>6.1 GB</td><td>2023-03-29</td><td><a href="/miui/marble/stable beta/V14.0.2.0.TMRCNXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMREUXM</td><td>13.0</td><td>7.3 GB</td><td>2023-04-26</td><td><a href="/miui/marble/stable/V14.0.6.0.TMREUXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMREUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-05-09</td><td><a href="/miui/marble/stable/V14.0.6.0.TMREUXM/">Download</a></td></tr>
-<tr><td>POCO F5 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TMREUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-06-21</td><td><a href="/miui/marble/stable beta/V14.0.7.0.TMREUXM/">Download</a></td></tr>
+<tr><td>POCO F5 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TMREUXM</td><td>13.0</td><td>7.4 GB</td><td>2023-06-12</td><td><a href="/miui/marble/stable/V14.0.7.0.TMREUXM/">Download</a></td></tr>
+<tr><td>POCO F5 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TMREUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-06-21</td><td><a href="/miui/marble/stable/V14.0.7.0.TMREUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMRMIXM</td><td>13.0</td><td>7.8 GB</td><td>2023-06-12</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMRMIXM</td><td>13.0</td><td>5.0 GB</td><td>2023-06-21</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMRIDXM</td><td>13.0</td><td>7.0 GB</td><td>2023-04-26</td><td><a href="/miui/marble/stable/V14.0.3.0.TMRIDXM/">Download</a></td></tr>
