@@ -162,12 +162,6 @@
   version: V14.0.5.0.TKSMIXM
 - android: '13.0'
   codename: camellian
-  date: '2023-05-08'
-  download: https://bigota.d.miui.com/V14.0.3.0.TKSMIXM/fw_camellian_miui_CAMELLIANGlobal_V14.0.3.0.TKSMIXM_4d9be1df29_13.0.zip
-  name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
-  version: V14.0.3.0.TKSMIXM
-- android: '13.0'
-  codename: camellian
   date: '2023-04-09'
   download: https://bigota.d.miui.com/V14.0.1.0.TKSEUXM/fw_camellian_miui_CAMELLIANEEAGlobal_V14.0.1.0.TKSEUXM_e8dea0d89e_13.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
@@ -370,6 +364,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SJWMIXM/fw_curtana_miui_CURTANAGlobal_V14.0.3.0.SJWMIXM_dae98d711c_12.0.zip
   name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
   version: V14.0.3.0.SJWMIXM
+- android: '12.0'
+  codename: curtana
+  date: '2023-06-28'
+  download: https://bigota.d.miui.com/V14.0.4.0.SJWMIXM/fw_curtana_miui_CURTANAGlobal_V14.0.4.0.SJWMIXM_e2b5a2bc43_12.0.zip
+  name: Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite
+  version: V14.0.4.0.SJWMIXM
 - android: '12.0'
   codename: curtana
   date: '2023-04-25'
