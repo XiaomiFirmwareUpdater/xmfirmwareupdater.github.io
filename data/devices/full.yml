@@ -8189,6 +8189,16 @@
     android: '11.0'
     miui: V12.5.1.0.RKSEUXM
 - branch: stable
+  date: '2023-05-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-09.05.2023/fw_camellian_miui_CAMELLIANGlobal_V14.0.3.0.TKSMIXM_4d9be1df29_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/camellian/fw_camellian_miui_CAMELLIANGlobal_V14.0.3.0.TKSMIXM_4d9be1df29_13.0.zip
+  filename: fw_camellian_miui_CAMELLIANGlobal_V14.0.3.0.TKSMIXM_4d9be1df29_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TKSMIXM
+- branch: stable
   date: '2023-04-09'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellian/releases/download/stable-09.04.2023/fw_camellian_miui_CAMELLIANEEAGlobal_V14.0.1.0.TKSEUXM_e8dea0d89e_13.0.zip
@@ -20678,6 +20688,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TCVCNXM
+- branch: stable
+  date: '2023-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-28.06.2023/fw_earth_miui_EARTHEEAGlobal_V14.0.3.0.TCVEUXM_d1c1828972_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHEEAGlobal_V14.0.3.0.TCVEUXM_d1c1828972_13.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_V14.0.3.0.TCVEUXM_d1c1828972_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TCVEUXM
 - branch: stable
   date: '2023-04-27'
   downloads:
@@ -38018,6 +38038,16 @@
   versions:
     android: '13.0'
     miui: V14.0.22.0.TMBCNXM
+- branch: stable
+  date: '2023-06-28'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-28.06.2023/fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
+  filename: fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.24.0.TMBEUXM
 - branch: stable
   date: '2023-04-25'
   downloads:
