@@ -1459,6 +1459,16 @@
     android: '10.0'
     miui: V12.0.22.0.QCRMIXM
 - branch: stable
+  date: '2022-01-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-24.01.2022/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.11.0.QCREUXM_0c5d54a69c_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.11.0.QCREUXM_0c5d54a69c_10.0.zip
+  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.0.11.0.QCREUXM_0c5d54a69c_10.0.zip
+  region: Europe
+  versions:
+    android: '10.0'
+    miui: V12.0.11.0.QCREUXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-21.09.2020/fw_angelica_miui_ANGELICAEEAGlobal_V12.0.4.0.QCREUXM_5a491c241c_10.0.zip
@@ -1658,6 +1668,16 @@
   versions:
     android: '10.0'
     miui: V12.0.4.0.QCRMIXM
+- branch: stable
+  date: '2022-08-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_angelica/releases/download/stable-01.08.2022/fw_angelica_miui_ANGELICAEEAGlobal_V12.5.2.0.RCREUXM_40f586f5b9_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/angelica/fw_angelica_miui_ANGELICAEEAGlobal_V12.5.2.0.RCREUXM_40f586f5b9_11.0.zip
+  filename: fw_angelica_miui_ANGELICAEEAGlobal_V12.5.2.0.RCREUXM_40f586f5b9_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RCREUXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -18368,16 +18388,6 @@
   versions:
     android: '13.0'
     miui: V14.0.8.0.TLGCNXM
-- branch: stable
-  date: '2023-02-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_daumier/releases/download/stable-28.02.2023/fw_daumier_miui_DAUMIER_V14.0.7.0.TLGCNXM_d53e0f5903_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/daumier/fw_daumier_miui_DAUMIER_V14.0.7.0.TLGCNXM_d53e0f5903_13.0.zip
-  filename: fw_daumier_miui_DAUMIER_V14.0.7.0.TLGCNXM_d53e0f5903_13.0.zip
-  region: China
-  versions:
-    android: '13.0'
-    miui: V14.0.7.0.TLGCNXM
 - branch: stable
   date: '2022-10-24'
   downloads:
@@ -65428,6 +65438,16 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SLOCNXM
+- branch: stable
+  date: '2023-06-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-29.06.2023/fw_xaga_miui_XAGA_V14.0.5.0.TLOCNXM_cc8ef566d0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGA_V14.0.5.0.TLOCNXM_cc8ef566d0_13.0.zip
+  filename: fw_xaga_miui_XAGA_V14.0.5.0.TLOCNXM_cc8ef566d0_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TLOCNXM
 - branch: stable
   date: '2022-05-29'
   downloads:

@@ -408,12 +408,6 @@
   version: V14.0.8.0.TLGCNXM
 - android: '13.0'
   codename: daumier
-  date: '2023-02-27'
-  download: https://bigota.d.miui.com/V14.0.7.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.7.0.TLGCNXM_d53e0f5903_13.0.zip
-  name: Xiaomi 12 Pro Dimensity
-  version: V14.0.7.0.TLGCNXM
-- android: '13.0'
-  codename: daumier
   date: '2023-02-14'
   download: https://bigota.d.miui.com/V14.0.3.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.3.0.TLGCNXM_9b5595d1b1_13.0.zip
   name: Xiaomi 12 Pro Dimensity
@@ -2494,6 +2488,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.4.0.TGOINXM_3a291217b7_13.0.zip
   name: Redmi A2/A2+/POCO C51
   version: V14.0.4.0.TGOINXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-06-29'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.5.0.TLOCNXM_cc8ef566d0_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.5.0.TLOCNXM
 - android: '13.0'
   codename: xaga
   date: '2023-06-25'

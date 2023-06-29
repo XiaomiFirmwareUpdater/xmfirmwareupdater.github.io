@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 29 Jun 2023 01:26:45 +0900</pubDate>
+  <pubDate>Thu, 29 Jun 2023 13:05:49 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i (xaga) - V14.0.5.0.TLOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/xaga</link>
+    <pubDate>Thu, 29 Jun 2023 13:05:49 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 12C/POCO C55 (earth) - V14.0.3.0.TCVEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
@@ -100,11 +105,6 @@
     <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.5.0.TMRMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
     <pubDate>Sun, 25 Jun 2023 07:16:39 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12 Turbo/POCO F5 (marble) - V14.0.7.0.TMREUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/marble</link>
-    <pubDate>Sun, 25 Jun 2023 06:39:33 +0900</pubDate>
   </item>
     </channel>
 </rss>
