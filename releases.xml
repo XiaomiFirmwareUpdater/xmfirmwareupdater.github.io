@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 29 Jun 2023 18:54:40 +0900</pubDate>
+  <pubDate>Fri, 30 Jun 2023 01:52:46 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K40S/POCO F4 (munch) - V14.0.4.0.TLMEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
+    <pubDate>Fri, 30 Jun 2023 01:52:46 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.25.0.TMNCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/mondrian</link>
+    <pubDate>Fri, 30 Jun 2023 01:22:31 +0900</pubDate>
+  </item>
+    <item>
+    <title>Xiaomi 12 (cupid) - V14.0.4.0.TLCMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/cupid</link>
+    <pubDate>Fri, 30 Jun 2023 00:50:43 +0900</pubDate>
+  </item>
     <item>
     <title>MIX 4 (odin) - V14.0.6.0.TKMCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/odin</link>
@@ -90,21 +105,6 @@
     <title>Mi 11 (venus) - V14.0.5.0.TKBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/venus</link>
     <pubDate>Sun, 25 Jun 2023 14:37:54 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 12S (sea) - V14.0.6.0.THZMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/sea</link>
-    <pubDate>Sun, 25 Jun 2023 13:26:36 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro (camellian) - V14.0.5.0.TKSMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/camellian</link>
-    <pubDate>Sun, 25 Jun 2023 12:44:45 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40S/POCO F4 (munch) - V14.0.5.0.TLMINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
-    <pubDate>Sun, 25 Jun 2023 07:43:13 +0900</pubDate>
   </item>
     </channel>
 </rss>

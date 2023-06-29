@@ -330,6 +330,12 @@
   version: V14.0.2.0.TLCMIXM
 - android: '13.0'
   codename: cupid
+  date: '2023-06-29'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLCMIXM/fw_cupid_miui_CUPIDGlobal_V14.0.4.0.TLCMIXM_70524c32d4_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.4.0.TLCMIXM
+- android: '13.0'
+  codename: cupid
   date: '2023-05-29'
   download: https://bigota.d.miui.com/V14.0.9.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.9.0.TLCEUXM_181c05bd75_13.0.zip
   name: Xiaomi 12
@@ -1146,6 +1152,12 @@
   version: V14.0.4.0.TKVCNXM
 - android: '13.0'
   codename: mondrian
+  date: '2023-06-29'
+  download: https://bigota.d.miui.com/V14.0.25.0.TMNCNXM/fw_mondrian_miui_MONDRIAN_V14.0.25.0.TMNCNXM_c769e354eb_13.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: V14.0.25.0.TMNCNXM
+- android: '13.0'
+  codename: mondrian
   date: '2023-05-22'
   download: https://bigota.d.miui.com/V14.0.4.0.TMNMIXM/fw_mondrian_miui_MONDRIANGlobal_V14.0.4.0.TMNMIXM_80961dabba_13.0.zip
   name: Redmi K60/POCO F5 Pro
@@ -1210,6 +1222,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLMMIXM/fw_munch_miui_MUNCHGlobal_V14.0.1.0.TLMMIXM_929f683c42_13.0.zip
   name: Redmi K40S/POCO F4
   version: V14.0.1.0.TLMMIXM
+- android: '13.0'
+  codename: munch
+  date: '2023-06-29'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLMEUXM/fw_munch_miui_MUNCHEEAGlobal_V14.0.4.0.TLMEUXM_88db96ff37_13.0.zip
+  name: Redmi K40S/POCO F4
+  version: V14.0.4.0.TLMEUXM
 - android: '13.0'
   codename: munch
   date: '2023-01-28'
