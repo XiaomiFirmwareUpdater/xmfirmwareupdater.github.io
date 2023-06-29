@@ -52,7 +52,8 @@ permalink: /archive/miui/pearl/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12T Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TLHCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-06-19</td><td><a href="/miui/pearl/stable beta/V14.0.5.0.TLHCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLHCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-06-19</td><td><a href="/miui/pearl/stable/V14.0.5.0.TLHCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLHCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-06-13</td><td><a href="/miui/pearl/stable/V14.0.5.0.TLHCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLHCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-05-31</td><td><a href="/miui/pearl/stable/V14.0.3.0.TLHCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12T Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLHCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-05-26</td><td><a href="/miui/pearl/stable/V14.0.3.0.TLHCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12T Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLHCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-05-29</td><td><a href="/miui/pearl/stable beta/V14.0.1.0.TLHCNXM/">Download</a></td></tr>

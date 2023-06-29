@@ -408,6 +408,12 @@
   version: V14.0.8.0.TLGCNXM
 - android: '13.0'
   codename: daumier
+  date: '2023-02-27'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.7.0.TLGCNXM_d53e0f5903_13.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: V14.0.7.0.TLGCNXM
+- android: '13.0'
+  codename: daumier
   date: '2023-02-14'
   download: https://bigota.d.miui.com/V14.0.3.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.3.0.TLGCNXM_9b5595d1b1_13.0.zip
   name: Xiaomi 12 Pro Dimensity
@@ -1366,6 +1372,12 @@
   download: https://bigota.d.miui.com/V14.0.10.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.10.0.TMBCNXM_a92bd7643e_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.10.0.TMBCNXM
+- android: '13.0'
+  codename: odin
+  date: '2023-06-29'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKMCNXM/fw_odin_miui_ODIN_V14.0.6.0.TKMCNXM_444a9dea66_13.0.zip
+  name: MIX 4
+  version: V14.0.6.0.TKMCNXM
 - android: '13.0'
   codename: odin
   date: '2023-03-14'
