@@ -3558,18 +3558,6 @@
   version: V13.0.6.0.SGHCNXM
 - android: '12.0'
   codename: picasso
-  date: '2022-03-25'
-  download: https://bigota.d.miui.com/22.3.23/fw_picasso_miui_PICASSO48MPRE_22.3.23_4f7dbd89f9_12.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 22.3.23
-- android: '12.0'
-  codename: picasso
-  date: '2022-03-25'
-  download: https://bigota.d.miui.com/22.3.23/fw_picasso_miui_PICASSOPRE_22.3.23_4ac4252cf7_12.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 22.3.23
-- android: '12.0'
-  codename: picasso
   date: '2022-02-18'
   download: https://bigota.d.miui.com/22.2.17/fw_picasso_miui_PICASSO48MPRE_22.2.17_24203f1a5c_12.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
@@ -3594,16 +3582,16 @@
   version: 22.2.9
 - android: '12.0'
   codename: picasso
-  date: '2022-04-27'
-  download: https://bigota.d.miui.com/V13.0.1.0.SGICNXM/fw_picasso_miui_PICASSO_V13.0.1.0.SGICNXM_d7217d8b20_12.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: V13.0.1.0.SGICNXM
-- android: '12.0'
-  codename: picasso
   date: '2022-10-19'
   download: https://bigota.d.miui.com/V13.0.4.0.SGICMXM/fw_picasso_miui_PICASSO48M_V13.0.4.0.SGICMXM_df3b9b40cb_12.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
   version: V13.0.4.0.SGICMXM
+- android: '12.0'
+  codename: picasso
+  date: '2022-05-05'
+  download: https://bigota.d.miui.com/V13.0.1.0.SGICMXM/fw_picasso_miui_PICASSO48M_V13.0.1.0.SGICMXM_b232a140ef_12.0.zip
+  name: Redmi K30 5G/Redmi K30i 5G
+  version: V13.0.1.0.SGICMXM
 - android: '12.0'
   codename: picasso
   date: '2022-05-05'

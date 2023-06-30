@@ -1722,6 +1722,12 @@
   version: V14.0.7.0.SMSMIXM
 - android: '13.0'
   codename: rembrandt
+  date: '2023-06-30'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMMCNXM/fw_rembrandt_miui_REMBRANDT_V14.0.2.0.TMMCNXM_43af29d3f5_13.0.zip
+  name: Redmi K60E
+  version: V14.0.2.0.TMMCNXM
+- android: '13.0'
+  codename: rembrandt
   date: '2023-04-28'
   download: https://bigota.d.miui.com/V14.0.1.0.TMMCNXM/fw_rembrandt_miui_REMBRANDT_V14.0.1.0.TMMCNXM_c31c7e55ea_13.0.zip
   name: Redmi K60E
@@ -1918,6 +1924,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.THZEUXM/fw_sea_miui_SEAEEAGlobal_V14.0.2.0.THZEUXM_3208a2929a_13.0.zip
   name: Redmi Note 12S
   version: V14.0.2.0.THZEUXM
+- android: '13.0'
+  codename: selene
+  date: '2023-06-30'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKUEUXM/fw_selene_miui_SELENEEEAGlobal_V14.0.3.0.TKUEUXM_213f012064_13.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V14.0.3.0.TKUEUXM
 - android: '13.0'
   codename: selene
   date: '2023-05-24'
