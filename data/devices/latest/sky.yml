@@ -1,0 +1,10 @@
+- branch: stable
+  date: '2023-07-01'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-01.07.2023/fw_sky_miui_SKY_V14.0.2.0.TMWCNXM_599b7cf0d6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKY_V14.0.2.0.TMWCNXM_599b7cf0d6_13.0.zip
+  filename: fw_sky_miui_SKY_V14.0.2.0.TMWCNXM_599b7cf0d6_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TMWCNXM

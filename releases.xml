@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 30 Jun 2023 13:23:41 +0900</pubDate>
+  <pubDate>Sat, 01 Jul 2023 19:11:02 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.2.0.TMWCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/sky</link>
+    <pubDate>Sat, 01 Jul 2023 19:11:02 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.3.0.TKUEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
@@ -100,11 +105,6 @@
     <title>Redmi 12 (fire) - V14.0.4.0.TMXEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fire</link>
     <pubDate>Sun, 25 Jun 2023 19:52:21 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Pad (yunluo) - V14.0.2.0.TLYMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
-    <pubDate>Sun, 25 Jun 2023 15:43:45 +0900</pubDate>
   </item>
     </channel>
 </rss>
