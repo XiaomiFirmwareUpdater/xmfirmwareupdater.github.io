@@ -594,6 +594,12 @@
   version: V14.0.3.0.TKEMIXM
 - android: '13.0'
   codename: fleur
+  date: '2023-07-02'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKEINXM/fw_fleur_miui_FLEURINGlobal_V14.0.3.0.TKEINXM_f30e9024ac_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V14.0.3.0.TKEINXM
+- android: '13.0'
+  codename: fleur
   date: '2023-06-01'
   download: https://bigota.d.miui.com/V14.0.3.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V14.0.3.0.TKEEUXM_607e8f303a_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -1726,6 +1732,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMSCNXM/fw_redwood_miui_REDWOOD_V14.0.2.0.TMSCNXM_f894bb1c92_13.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: V14.0.2.0.TMSCNXM
+- android: '13.0'
+  codename: redwood
+  date: '2023-07-02'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_V14.0.2.0.TMSEUXM_d2b0ac8e1e_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.2.0.TMSEUXM
 - android: '12.0'
   codename: redwood
   date: '2023-04-01'

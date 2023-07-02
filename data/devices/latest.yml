@@ -1379,15 +1379,15 @@
     android: '13.0'
     miui: V14.0.3.0.TKEEUXM
 - branch: stable
-  date: '2023-05-14'
+  date: '2023-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-14.05.2023/fw_fleur_miui_FLEURINGlobal_V13.0.5.0.SKEINXM_8d00f6ee55_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/fleur/fw_fleur_miui_FLEURINGlobal_V13.0.5.0.SKEINXM_8d00f6ee55_12.0.zip
-  filename: fw_fleur_miui_FLEURINGlobal_V13.0.5.0.SKEINXM_8d00f6ee55_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-02.07.2023/fw_fleur_miui_FLEURINGlobal_V14.0.3.0.TKEINXM_f30e9024ac_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fleur/fw_fleur_miui_FLEURINGlobal_V14.0.3.0.TKEINXM_f30e9024ac_13.0.zip
+  filename: fw_fleur_miui_FLEURINGlobal_V14.0.3.0.TKEINXM_f30e9024ac_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.5.0.SKEINXM
+    android: '13.0'
+    miui: V14.0.3.0.TKEINXM
 - branch: stable
   date: '2023-06-20'
   downloads:
@@ -3719,15 +3719,15 @@
     android: '13.0'
     miui: V14.0.2.0.TMSCNXM
 - branch: stable
-  date: '2023-06-05'
+  date: '2023-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-05.06.2023/fw_redwood_miui_REDWOODEEAGlobal_V14.0.8.0.SMSEUXM_8cd81b9ae5_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODEEAGlobal_V14.0.8.0.SMSEUXM_8cd81b9ae5_12.0.zip
-  filename: fw_redwood_miui_REDWOODEEAGlobal_V14.0.8.0.SMSEUXM_8cd81b9ae5_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-02.07.2023/fw_redwood_miui_REDWOODEEAGlobal_V14.0.2.0.TMSEUXM_d2b0ac8e1e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODEEAGlobal_V14.0.2.0.TMSEUXM_d2b0ac8e1e_13.0.zip
+  filename: fw_redwood_miui_REDWOODEEAGlobal_V14.0.2.0.TMSEUXM_d2b0ac8e1e_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V14.0.8.0.SMSEUXM
+    android: '13.0'
+    miui: V14.0.2.0.TMSEUXM
 - branch: stable
   date: '2023-05-15'
   downloads:
