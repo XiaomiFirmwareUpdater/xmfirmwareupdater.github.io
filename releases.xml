@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sat, 01 Jul 2023 19:11:02 +0900</pubDate>
+  <pubDate>Sun, 02 Jul 2023 13:04:08 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.14.0.TLFEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
+    <pubDate>Sun, 02 Jul 2023 13:04:08 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G (sky) - V14.0.2.0.TMWCNXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/sky</link>
@@ -100,11 +105,6 @@
     <title>Xiaomi 13 (fuxi) - V14.0.24.0.TMCEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
     <pubDate>Sun, 25 Jun 2023 21:27:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi 12 (fire) - V14.0.4.0.TMXEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fire</link>
-    <pubDate>Sun, 25 Jun 2023 19:52:21 +0900</pubDate>
   </item>
     </channel>
 </rss>
