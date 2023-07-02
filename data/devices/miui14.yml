@@ -983,6 +983,12 @@
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.2.0.TKOMIXM
 - android: '13.0'
+  codename: lisa
+  date: '2023-07-02'
+  download: https://bigota.d.miui.com/V14.0.10.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.10.0.TKOCNXM_275ca12a8e_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.10.0.TKOCNXM
+- android: '13.0'
   codename: liuqin
   date: '2023-05-26'
   download: https://bigota.d.miui.com/V14.0.5.0.TMYCNXM/fw_liuqin_miui_LIUQIN_V14.0.5.0.TMYCNXM_e266871c8a_13.0.zip
@@ -2158,6 +2164,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.4.0.TLIMIXM_1dfaef41a3_13.0.zip
   name: Xiaomi 12 Lite
   version: V14.0.4.0.TLIMIXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-07-02'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.5.0.TLIMIXM_8cf6a8a621_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.5.0.TLIMIXM
 - android: '13.0'
   codename: taoyao
   date: '2023-02-02'

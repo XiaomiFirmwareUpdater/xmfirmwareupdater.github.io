@@ -139,6 +139,16 @@
     android: '13.0'
     miui: V14.0.4.0.TLIMIXM
 - branch: stable
+  date: '2023-07-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-02.07.2023/fw_taoyao_miui_TAOYAOGlobal_V14.0.5.0.TLIMIXM_8cf6a8a621_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOGlobal_V14.0.5.0.TLIMIXM_8cf6a8a621_13.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_V14.0.5.0.TLIMIXM_8cf6a8a621_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TLIMIXM
+- branch: stable
   date: '2023-02-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-02.02.2023/fw_taoyao_miui_TAOYAOGlobal_V14.0.3.0.TLIMIXM_d27325e58f_13.0.zip

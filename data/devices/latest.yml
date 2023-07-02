@@ -2339,15 +2339,15 @@
     android: '13.0'
     miui: V14.0.3.0.TKOMIXM
 - branch: stable
-  date: '2023-05-12'
+  date: '2023-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-12.05.2023/fw_lisa_miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip
-  filename: fw_lisa_miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-02.07.2023/fw_lisa_miui_LISA_V14.0.10.0.TKOCNXM_275ca12a8e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISA_V14.0.10.0.TKOCNXM_275ca12a8e_13.0.zip
+  filename: fw_lisa_miui_LISA_V14.0.10.0.TKOCNXM_275ca12a8e_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.8.0.TKOCNXM
+    miui: V14.0.10.0.TKOCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -4469,15 +4469,15 @@
     android: '13.0'
     miui: V14.0.1.0.TKFINXM
 - branch: stable
-  date: '2023-06-03'
+  date: '2023-07-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-04.06.2023/fw_taoyao_miui_TAOYAOGlobal_V14.0.4.0.TLIMIXM_1dfaef41a3_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOGlobal_V14.0.4.0.TLIMIXM_1dfaef41a3_13.0.zip
-  filename: fw_taoyao_miui_TAOYAOGlobal_V14.0.4.0.TLIMIXM_1dfaef41a3_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_taoyao/releases/download/stable-02.07.2023/fw_taoyao_miui_TAOYAOGlobal_V14.0.5.0.TLIMIXM_8cf6a8a621_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/taoyao/fw_taoyao_miui_TAOYAOGlobal_V14.0.5.0.TLIMIXM_8cf6a8a621_13.0.zip
+  filename: fw_taoyao_miui_TAOYAOGlobal_V14.0.5.0.TLIMIXM_8cf6a8a621_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TLIMIXM
+    miui: V14.0.5.0.TLIMIXM
 - branch: stable
   date: '2023-06-25'
   downloads:

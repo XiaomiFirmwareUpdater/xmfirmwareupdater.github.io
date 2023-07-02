@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 02 Jul 2023 13:04:08 +0900</pubDate>
+  <pubDate>Sun, 02 Jul 2023 19:49:42 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Xiaomi 12 Lite (taoyao) - V14.0.5.0.TLIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
+    <pubDate>Sun, 02 Jul 2023 19:49:42 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.10.0.TKOCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Sun, 02 Jul 2023 19:24:47 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.14.0.TLFEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
@@ -95,16 +105,6 @@
     <title>Xiaomi 12 Lite (taoyao) - V14.0.14.0.TLIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
     <pubDate>Sun, 25 Jun 2023 23:38:04 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12T (plato) - V14.0.5.0.TLQMIXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/plato</link>
-    <pubDate>Sun, 25 Jun 2023 21:52:49 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 13 (fuxi) - V14.0.24.0.TMCEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/fuxi</link>
-    <pubDate>Sun, 25 Jun 2023 21:27:49 +0900</pubDate>
   </item>
     </channel>
 </rss>
