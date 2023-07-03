@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Mon, 03 Jul 2023 18:57:52 +0900</pubDate>
+  <pubDate>Tue, 04 Jul 2023 01:16:25 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi A2/A2+/POCO C51 (water) - V14.0.12.0.TGOMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/water</link>
+    <pubDate>Tue, 04 Jul 2023 01:16:25 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V14.0.5.0.TKIMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Tue, 04 Jul 2023 01:08:30 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 Lite 5G (renoir) - V14.0.7.0.TKIEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
+    <pubDate>Tue, 04 Jul 2023 00:44:25 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Pro (zeus) - V14.0.14.0.TLBEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
@@ -90,21 +105,6 @@
     <title>Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 10 Lite (curtana) - V14.0.4.0.SJWMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/curtana</link>
     <pubDate>Wed, 28 Jun 2023 18:35:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T (agate) - V14.0.4.0.TKWEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/agate</link>
-    <pubDate>Wed, 28 Jun 2023 01:22:33 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi Note 11 5G/Redmi Note 11T 5G (evergo) - V14.0.1.0.TGBINXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/evergo</link>
-    <pubDate>Tue, 27 Jun 2023 19:04:30 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 11T Pro (vili) - V14.0.10.0.TKDEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/vili</link>
-    <pubDate>Tue, 27 Jun 2023 01:12:04 +0900</pubDate>
   </item>
     </channel>
 </rss>

@@ -48379,6 +48379,26 @@
     android: '12.0'
     miui: V13.0.3.0.SKIMIXM
 - branch: stable
+  date: '2023-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-03.07.2023/fw_renoir_miui_RENOIREEAGlobal_V14.0.7.0.TKIEUXM_ba2e0c319d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIREEAGlobal_V14.0.7.0.TKIEUXM_ba2e0c319d_13.0.zip
+  filename: fw_renoir_miui_RENOIREEAGlobal_V14.0.7.0.TKIEUXM_ba2e0c319d_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKIEUXM
+- branch: stable
+  date: '2023-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-03.07.2023/fw_renoir_miui_RENOIRGlobal_V14.0.5.0.TKIMIXM_e034bfd0ea_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIRGlobal_V14.0.5.0.TKIMIXM_e034bfd0ea_13.0.zip
+  filename: fw_renoir_miui_RENOIRGlobal_V14.0.5.0.TKIMIXM_e034bfd0ea_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKIMIXM
+- branch: stable
   date: '2021-07-02'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-02.07.2021/fw_renoir_miui_RENOIR_V12.5.3.0.RKICNXM_53350fda17_11.0.zip
@@ -64108,6 +64128,16 @@
   versions:
     android: '13.0'
     miui: V14.0.4.0.TGOINXM
+- branch: stable
+  date: '2023-07-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-03.07.2023/fw_water_miui_WATERGlobal_V14.0.12.0.TGOMIXM_c067735199_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.12.0.TGOMIXM_c067735199_13.0.zip
+  filename: fw_water_miui_WATERGlobal_V14.0.12.0.TGOMIXM_c067735199_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.12.0.TGOMIXM
 - branch: weekly
   date: '2019-04-26'
   downloads:

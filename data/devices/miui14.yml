@@ -1799,6 +1799,18 @@
   name: Mi 11 Lite 5G
   version: V14.0.5.0.TKIEUXM
 - android: '13.0'
+  codename: renoir
+  date: '2023-07-03'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKIEUXM/fw_renoir_miui_RENOIREEAGlobal_V14.0.7.0.TKIEUXM_ba2e0c319d_13.0.zip
+  name: Mi 11 Lite 5G
+  version: V14.0.7.0.TKIEUXM
+- android: '13.0'
+  codename: renoir
+  date: '2023-07-03'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKIMIXM/fw_renoir_miui_RENOIRGlobal_V14.0.5.0.TKIMIXM_e034bfd0ea_13.0.zip
+  name: Mi 11 Lite 5G
+  version: V14.0.5.0.TKIMIXM
+- android: '13.0'
   codename: rock
   date: '2023-03-24'
   download: https://bigota.d.miui.com/V14.0.1.0.TLUEUXM/fw_rock_miui_ROCKEEAGlobal_V14.0.1.0.TLUEUXM_8d81d0013c_13.0.zip
@@ -2566,6 +2578,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.4.0.TGOINXM_3a291217b7_13.0.zip
   name: Redmi A2/A2+/POCO C51
   version: V14.0.4.0.TGOINXM
+- android: '13.0'
+  codename: water
+  date: '2023-07-03'
+  download: https://bigota.d.miui.com/V14.0.12.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.12.0.TGOMIXM_c067735199_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.12.0.TGOMIXM
 - android: '13.0'
   codename: xaga
   date: '2023-06-29'
