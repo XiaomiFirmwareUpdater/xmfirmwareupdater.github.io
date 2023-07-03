@@ -58,6 +58,7 @@ permalink: /miui/fire/
 <tr><td>Redmi 12 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMXMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-06-13</td><td><a href="/miui/fire/stable/V14.0.4.0.TMXMIXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMXRUXM</td><td>13.0</td><td>5.9 GB</td><td>2023-05-12</td><td><a href="/miui/fire/stable/V14.0.3.0.TMXRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMXRUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-06-13</td><td><a href="/miui/fire/stable/V14.0.3.0.TMXRUXM/">Download</a></td></tr>
+<tr><td>Redmi 12 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TMXRUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-07-03</td><td><a href="/miui/fire/stable beta/V14.0.5.0.TMXRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -2718,6 +2718,12 @@
   version: V14.0.13.0.TLBEUXM
 - android: '13.0'
   codename: zeus
+  date: '2023-07-03'
+  download: https://bigota.d.miui.com/V14.0.14.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V14.0.14.0.TLBEUXM_a43bf1ae45_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.14.0.TLBEUXM
+- android: '13.0'
+  codename: zeus
   date: '2023-02-01'
   download: https://bigota.d.miui.com/V14.0.5.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V14.0.5.0.TLBMIXM_3e6bbfed12_13.0.zip
   name: Xiaomi 12 Pro
