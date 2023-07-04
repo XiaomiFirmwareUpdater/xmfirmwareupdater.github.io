@@ -52,7 +52,8 @@ permalink: /archive/miui/cetus/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi MIX Fold China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.8.DEV</td><td>13.0</td><td>5.4 GB</td><td>2023-06-16</td><td><a href="/miui/cetus/public beta/V14.0.23.6.8.DEV/">Download</a></td></tr>
+                <tr><td>Mi MIX Fold China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.26.DEV</td><td>13.0</td><td>5.5 GB</td><td>2023-06-30</td><td><a href="/miui/cetus/public beta/V14.0.23.6.26.DEV/">Download</a></td></tr>
+<tr><td>Mi MIX Fold China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.8.DEV</td><td>13.0</td><td>5.4 GB</td><td>2023-06-16</td><td><a href="/miui/cetus/public beta/V14.0.23.6.8.DEV/">Download</a></td></tr>
 <tr><td>Mi MIX Fold China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.5.DEV</td><td>13.0</td><td>5.5 GB</td><td>2023-06-09</td><td><a href="/miui/cetus/public beta/V14.0.23.6.5.DEV/">Download</a></td></tr>
 <tr><td>Mi MIX Fold China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.29.DEV</td><td>13.0</td><td>5.5 GB</td><td>2023-06-02</td><td><a href="/miui/cetus/public beta/V14.0.23.5.29.DEV/">Download</a></td></tr>
 <tr><td>Mi MIX Fold China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.22.DEV</td><td>13.0</td><td>5.5 GB</td><td>2023-05-26</td><td><a href="/miui/cetus/public beta/V14.0.23.5.22.DEV/">Download</a></td></tr>

@@ -52,7 +52,8 @@ permalink: /archive/miui/cupid/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLCMIXM</td><td>13.0</td><td>4.8 GB</td><td>2023-06-27</td><td><a href="/miui/cupid/stable beta/V14.0.4.0.TLCMIXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.26.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-06-30</td><td><a href="/miui/cupid/public beta/V14.0.23.6.26.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLCMIXM</td><td>13.0</td><td>4.8 GB</td><td>2023-06-27</td><td><a href="/miui/cupid/stable beta/V14.0.4.0.TLCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLCRUXM</td><td>13.0</td><td>4.7 GB</td><td>2023-06-26</td><td><a href="/miui/cupid/stable/V14.0.2.0.TLCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLCRUXM</td><td>13.0</td><td>6.1 GB</td><td>2023-05-18</td><td><a href="/miui/cupid/stable/V14.0.2.0.TLCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLCTRXM</td><td>13.0</td><td>4.7 GB</td><td>2023-06-26</td><td><a href="/miui/cupid/stable/V14.0.2.0.TLCTRXM/">Download</a></td></tr>

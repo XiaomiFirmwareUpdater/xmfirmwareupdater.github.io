@@ -816,12 +816,6 @@
   version: V14.0.16.0.TMACNXM
 - android: '13.0'
   codename: ishtar
-  date: '2023-05-17'
-  download: https://bigota.d.miui.com/V14.0.13.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
-  name: Xiaomi 13 Ultra
-  version: V14.0.13.0.TMACNXM
-- android: '13.0'
-  codename: ishtar
   date: '2023-06-13'
   download: https://bigota.d.miui.com/V14.0.2.0.TMAMIXM/fw_ishtar_miui_ISHTARGlobal_V14.0.2.0.TMAMIXM_d1eb1df7a2_13.0.zip
   name: Xiaomi 13 Ultra
@@ -1552,12 +1546,6 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_V14.0.2.0.TKTMIXM_ab7958a8e2_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
   version: V14.0.2.0.TKTMIXM
-- android: '13.0'
-  codename: pissarro
-  date: '2023-01-05'
-  download: https://bigota.d.miui.com/V14.0.2.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.2.0.TKTCNXM_4d70a38aaa_13.0.zip
-  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
-  version: V14.0.2.0.TKTCNXM
 - android: '13.0'
   codename: plato
   date: '2023-06-25'
