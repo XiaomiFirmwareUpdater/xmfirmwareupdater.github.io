@@ -3379,6 +3379,16 @@
     android: '10.0'
     miui: V12.5.1.0.QCMINXM
 - branch: stable
+  date: '2023-07-04'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-04.07.2023/fw_pipa_miui_PIPAGlobal_V14.0.2.0.TMZMIXM_f9f5af86c8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAGlobal_V14.0.2.0.TMZMIXM_f9f5af86c8_13.0.zip
+  filename: fw_pipa_miui_PIPAGlobal_V14.0.2.0.TMZMIXM_f9f5af86c8_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TMZMIXM
+- branch: stable
   date: '2023-05-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-22.05.2023/fw_pipa_miui_PIPA_V14.0.5.0.TMZCNXM_bc4f78ac79_13.0.zip
@@ -4509,15 +4519,15 @@
     android: '13.0'
     miui: V14.0.5.0.TMTINXM
 - branch: stable
-  date: '2023-04-09'
+  date: '2023-07-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-09.04.2023/fw_thor_miui_THOR_V14.0.12.0.TLACNXM_23666a76e3_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.12.0.TLACNXM_23666a76e3_13.0.zip
-  filename: fw_thor_miui_THOR_V14.0.12.0.TLACNXM_23666a76e3_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-04.07.2023/fw_thor_miui_THOR_V14.0.13.0.TLACNXM_baa8e01f50_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.13.0.TLACNXM_baa8e01f50_13.0.zip
+  filename: fw_thor_miui_THOR_V14.0.13.0.TLACNXM_baa8e01f50_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.12.0.TLACNXM
+    miui: V14.0.13.0.TLACNXM
 - branch: stable
   date: '2023-06-05'
   downloads:

@@ -1487,6 +1487,12 @@
   name: Xiaomi Pad 6
   version: V14.0.2.0.TMZINXM
 - android: '13.0'
+  codename: pipa
+  date: '2023-07-04'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMZMIXM/fw_pipa_miui_PIPAGlobal_V14.0.2.0.TMZMIXM_f9f5af86c8_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.2.0.TMZMIXM
+- android: '13.0'
   codename: pissarro
   date: '2023-03-28'
   download: https://bigota.d.miui.com/V14.0.5.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.5.0.TKTCNXM_83e0c47619_13.0.zip
@@ -2266,6 +2272,12 @@
   download: https://bigota.d.miui.com/V14.0.12.0.TLACNXM/fw_thor_miui_THOR_V14.0.12.0.TLACNXM_23666a76e3_13.0.zip
   name: Xiaomi 12S Ultra
   version: V14.0.12.0.TLACNXM
+- android: '13.0'
+  codename: thor
+  date: '2023-07-04'
+  download: https://bigota.d.miui.com/V14.0.13.0.TLACNXM/fw_thor_miui_THOR_V14.0.13.0.TLACNXM_baa8e01f50_13.0.zip
+  name: Xiaomi 12S Ultra
+  version: V14.0.13.0.TLACNXM
 - android: '13.0'
   codename: thyme
   date: '2023-03-15'
