@@ -27619,6 +27619,16 @@
     android: '13.0'
     miui: V14.0.16.0.TMACNXM
 - branch: stable
+  date: '2023-05-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-17.05.2023/fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
+  filename: fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.13.0.TMACNXM
+- branch: stable
   date: '2023-06-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-13.06.2023/fw_ishtar_miui_ISHTARGlobal_V14.0.2.0.TMAMIXM_d1eb1df7a2_13.0.zip
@@ -27688,16 +27698,6 @@
   versions:
     android: '9.0'
     miui: 9.11.28
-- branch: weekly
-  date: '2019-06-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jason/releases/download/weekly-28.06.2019/fw_jason_miui_MINote3Global_9.6.27_0d6b7c33c4_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/9.6.27/jason/fw_jason_miui_MINote3Global_9.6.27_0d6b7c33c4_9.0.zip
-  filename: fw_jason_miui_MINote3Global_9.6.27_0d6b7c33c4_9.0.zip
-  region: Global
-  versions:
-    android: '9.0'
-    miui: 9.6.27
 - branch: weekly
   date: '2020-05-28'
   downloads:
@@ -28038,26 +28038,6 @@
   versions:
     android: '8.1'
     miui: 8.12.27
-- branch: weekly
-  date: '2018-12-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jason/releases/download/weekly-21.12.2018/fw_jason_miui_MINote3_8.12.20_8449bc7132_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/jason/fw_jason_miui_MINote3_8.12.20_8449bc7132_8.1.zip
-  filename: fw_jason_miui_MINote3_8.12.20_8449bc7132_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.12.20
-- branch: weekly
-  date: '2018-12-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jason/releases/download/weekly-21.12.2018/fw_jason_miui_MINote3Global_8.12.20_a4cd176b7b_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/jason/fw_jason_miui_MINote3Global_8.12.20_a4cd176b7b_8.1.zip
-  filename: fw_jason_miui_MINote3Global_8.12.20_a4cd176b7b_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: 8.12.20
 - branch: stable
   date: '2018-12-17'
   downloads:
@@ -28428,16 +28408,6 @@
   versions:
     android: '7.1'
     miui: 8.4.19
-- branch: weekly
-  date: '2018-04-19'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_jason/releases/download/untagged-340b78fbe287b8147cd6/fw_jason_miui_MINote3_8.4.12_52373bf109_7.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.4.12/jason/fw_jason_miui_MINote3_8.4.12_52373bf109_7.1.zip
-  filename: fw_jason_miui_MINote3_8.4.12_52373bf109_7.1.zip
-  region: China
-  versions:
-    android: '7.1'
-    miui: 8.4.12
 - branch: stable
   date: '2022-09-30'
   downloads:
@@ -43519,6 +43489,16 @@
     android: '13.0'
     miui: V14.0.4.0.TKTMIXM
 - branch: stable
+  date: '2021-11-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-20.11.2021/fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.10.0.RKTCNXM_b85aab631f_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.10.0.RKTCNXM
+- branch: stable
   date: '2022-01-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-19.01.2022/fw_pissarro_miui_PISSARROINGlobal_V12.5.2.0.RKTINXM_0eb36b1b52_11.0.zip
@@ -43729,6 +43709,16 @@
     android: '12.0'
     miui: V13.0.2.0.SKTEUXM
 - branch: stable
+  date: '2023-01-05'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-06.01.2023/fw_pissarro_miui_PISSARRO_V14.0.2.0.TKTCNXM_4d70a38aaa_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.2.0.TKTCNXM_4d70a38aaa_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V14.0.2.0.TKTCNXM_4d70a38aaa_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TKTCNXM
+- branch: stable
   date: '2022-11-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-04.11.2022/fw_pissarro_miui_PISSARROINGlobal_V13.0.5.0.SKTINXM_e47f935dee_12.0.zip
@@ -43738,6 +43728,16 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SKTINXM
+- branch: stable
+  date: '2021-11-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-03.11.2021/fw_pissarro_miui_PISSARRO_V12.5.6.0.RKTCNXM_bd2b41e328_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/pissarro/fw_pissarro_miui_PISSARRO_V12.5.6.0.RKTCNXM_bd2b41e328_11.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V12.5.6.0.RKTCNXM_bd2b41e328_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.6.0.RKTCNXM
 - branch: stable
   date: '2022-02-03'
   downloads:

@@ -52,7 +52,8 @@ permalink: /archive/miui/unicorn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.8.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-06-16</td><td><a href="/miui/unicorn/public beta/V14.0.23.6.8.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.26.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-06-30</td><td><a href="/miui/unicorn/public beta/V14.0.23.6.26.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.8.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-06-16</td><td><a href="/miui/unicorn/public beta/V14.0.23.6.8.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.5.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-06-09</td><td><a href="/miui/unicorn/public beta/V14.0.23.6.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.29.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-06-02</td><td><a href="/miui/unicorn/public beta/V14.0.23.5.29.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.5.22.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-05-26</td><td><a href="/miui/unicorn/public beta/V14.0.23.5.22.DEV/">Download</a></td></tr>
@@ -83,10 +84,10 @@ permalink: /archive/miui/unicorn/
 <tr><td>Xiaomi 12S Pro China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLECNXM</td><td>13.0</td><td>6.0 GB</td><td>2022-12-28</td><td><a href="/miui/unicorn/stable beta/V14.0.3.0.TLECNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.19.DEV</td><td>13.0</td><td>6.1 GB</td><td>2022-12-23</td><td><a href="/miui/unicorn/public beta/V14.0.22.12.19.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.8.DEV</td><td>13.0</td><td>6.1 GB</td><td>2022-12-16</td><td><a href="/miui/unicorn/public beta/V14.0.22.12.8.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-11</td><td><a href="/miui/unicorn/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.7 GB</td><td>2022-12-05</td><td><a href="/miui/unicorn/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLECNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-01-10</td><td><a href="/miui/unicorn/stable/V14.0.4.0.TLECNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLECNXM</td><td>13.0</td><td>7.7 GB</td><td>2023-01-09</td><td><a href="/miui/unicorn/stable/V14.0.4.0.TLECNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-11</td><td><a href="/miui/unicorn/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.7 GB</td><td>2022-12-05</td><td><a href="/miui/unicorn/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLECNXM</td><td>13.0</td><td>6.0 GB</td><td>2022-12-11</td><td><a href="/miui/unicorn/stable/V14.0.2.0.TLECNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLECNXM</td><td>13.0</td><td>7.7 GB</td><td>2022-12-07</td><td><a href="/miui/unicorn/stable/V14.0.2.0.TLECNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>5.8 GB</td><td>2022-10-28</td><td><a href="/miui/unicorn/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
