@@ -474,6 +474,12 @@
   version: V14.0.8.0.TLFEUXM
 - android: '13.0'
   codename: diting
+  date: '2023-07-05'
+  download: https://bigota.d.miui.com/V14.0.10.0.TLFCNXM/fw_diting_miui_DITING_V14.0.10.0.TLFCNXM_a553f076ff_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.10.0.TLFCNXM
+- android: '13.0'
+  codename: diting
   date: '2023-07-02'
   download: https://bigota.d.miui.com/V14.0.14.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.14.0.TLFEUXM_c7040d6424_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -2482,6 +2488,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TKBMIXM/fw_venus_miui_VENUSGlobal_V14.0.3.0.TKBMIXM_cd664fae30_13.0.zip
   name: Mi 11
   version: V14.0.3.0.TKBMIXM
+- android: '13.0'
+  codename: venus
+  date: '2023-07-05'
+  download: https://bigota.d.miui.com/V14.0.10.0.TKBCNXM/fw_venus_miui_VENUS_V14.0.10.0.TKBCNXM_f79724e4ac_13.0.zip
+  name: Mi 11
+  version: V14.0.10.0.TKBCNXM
 - android: '13.0'
   codename: veux
   date: '2023-05-29'
