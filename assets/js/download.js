@@ -81,6 +81,9 @@ $(document).ready(async function () {
     else if (device.includes('JPGlobal')) {
         region = 'Japan';
     }
+    else if (device.includes('KRGlobal')) {
+        region = 'South Korea';
+    }
     else if (device.includes('Global')) {
         region = 'Global';
     }
