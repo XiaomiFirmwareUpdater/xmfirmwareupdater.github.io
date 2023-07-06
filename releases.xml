@@ -1,11 +1,26 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Thu, 06 Jul 2023 18:47:05 +0900</pubDate>
+  <pubDate>Fri, 07 Jul 2023 02:39:05 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.4.0.TKOMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Fri, 07 Jul 2023 02:39:05 +0900</pubDate>
+  </item>
+    <item>
+    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.8.0.TKOEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
+    <pubDate>Fri, 07 Jul 2023 01:53:19 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi 12 (fire) - V14.0.6.0.TMXEUXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/fire</link>
+    <pubDate>Fri, 07 Jul 2023 00:36:01 +0900</pubDate>
+  </item>
     <item>
     <title>Xiaomi 12 Lite (taoyao) - V14.0.16.0.TLIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
@@ -90,21 +105,6 @@
     <title>Redmi 10/Redmi 10 2022/Redmi 10 Prime (selene) - V14.0.3.0.TKUEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/selene</link>
     <pubDate>Fri, 30 Jun 2023 13:23:41 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K60E (rembrandt) - V14.0.2.0.TMMCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/rembrandt</link>
-    <pubDate>Fri, 30 Jun 2023 13:06:44 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K40S/POCO F4 (munch) - V14.0.4.0.TLMEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/munch</link>
-    <pubDate>Fri, 30 Jun 2023 01:52:46 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K60/POCO F5 Pro (mondrian) - V14.0.25.0.TMNCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/mondrian</link>
-    <pubDate>Fri, 30 Jun 2023 01:22:31 +0900</pubDate>
   </item>
     </channel>
 </rss>
