@@ -1024,6 +1024,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TMYCNXM/fw_liuqin_miui_LIUQIN_V14.0.5.0.TMYCNXM_e266871c8a_13.0.zip
   name: Xiaomi Pad 6 Pro
   version: V14.0.5.0.TMYCNXM
+- android: '13.0'
+  codename: liuqin
+  date: '2023-07-07'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMYCNXM/fw_liuqin_miui_LIUQIN_V14.0.6.0.TMYCNXM_1115cab432_13.0.zip
+  name: Xiaomi Pad 6 Pro
+  version: V14.0.6.0.TMYCNXM
 - android: '12.0'
   codename: lmi
   date: '2023-03-27'
@@ -2026,6 +2032,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.11.0.TMKCNXM_01ab8e04e6_13.0.zip
   name: Redmi K60 Pro
   version: V14.0.11.0.TMKCNXM
+- android: '13.0'
+  codename: spes
+  date: '2023-07-07'
+  download: https://bigota.d.miui.com/V14.0.1.0.TGCINXM/fw_spes_miui_SPESINGlobal_V14.0.1.0.TGCINXM_79ae0c9b16_13.0.zip
+  name: Redmi Note 11
+  version: V14.0.1.0.TGCINXM
 - android: '13.0'
   codename: spes
   date: '2023-06-06'
