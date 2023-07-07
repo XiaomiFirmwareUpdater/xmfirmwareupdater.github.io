@@ -1,11 +1,21 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Fri, 07 Jul 2023 20:07:52 +0900</pubDate>
+  <pubDate>Sat, 08 Jul 2023 01:52:45 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Pad (yunluo) - V14.0.7.0.TLYCNXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/yunluo</link>
+    <pubDate>Sat, 08 Jul 2023 01:52:45 +0900</pubDate>
+  </item>
+    <item>
+    <title>Redmi Note 12 4G (tapas) - V14.0.6.0.TMTINXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
+    <pubDate>Sat, 08 Jul 2023 01:23:15 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi Note 11 (spes) - V14.0.1.0.TGCINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/spes</link>
@@ -95,16 +105,6 @@
     <title>Xiaomi 12 Lite (taoyao) - V14.0.5.0.TLIMIXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/taoyao</link>
     <pubDate>Sun, 02 Jul 2023 19:49:42 +0900</pubDate>
-  </item>
-    <item>
-    <title>Mi 11 LE/Xiaomi 11 Lite 5G NE (lisa) - V14.0.10.0.TKOCNXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/lisa</link>
-    <pubDate>Sun, 02 Jul 2023 19:24:47 +0900</pubDate>
-  </item>
-    <item>
-    <title>Redmi K50 Ultra/Xiaomi 12T Pro (diting) - V14.0.14.0.TLFEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/diting</link>
-    <pubDate>Sun, 02 Jul 2023 13:04:08 +0900</pubDate>
   </item>
     </channel>
 </rss>
