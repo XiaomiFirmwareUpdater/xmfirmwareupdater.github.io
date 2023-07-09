@@ -1,11 +1,16 @@
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-  <pubDate>Sun, 09 Jul 2023 06:39:19 +0900</pubDate>
+  <pubDate>Sun, 09 Jul 2023 12:53:34 +0900</pubDate>
   <description>Xiaomi Firmware Updater latest releases</description>
   <link>https://xiaomifirmwareupdater.com</link>
   <ns0:link href="https://xiaomifirmwareupdater.com/releases.xml" rel="self" type="application/rss+xml" />
   <title>Xiaomi Firmware Updater Releases</title>
   <language>en-us</language>
+    <item>
+    <title>Redmi Note 12 4G (tapas) - V14.0.11.0.TMTMIXM</title>
+    <link>https://xiaomifirmwareupdater.com/firmware/tapas</link>
+    <pubDate>Sun, 09 Jul 2023 12:53:34 +0900</pubDate>
+  </item>
     <item>
     <title>Redmi 12C/POCO C55 (earth) - V14.0.2.0.TCVINXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/earth</link>
@@ -100,11 +105,6 @@
     <title>Mi 11 Lite 5G (renoir) - V14.0.7.0.TKIEUXM</title>
     <link>https://xiaomifirmwareupdater.com/firmware/renoir</link>
     <pubDate>Tue, 04 Jul 2023 00:44:25 +0900</pubDate>
-  </item>
-    <item>
-    <title>Xiaomi 12 Pro (zeus) - V14.0.14.0.TLBEUXM</title>
-    <link>https://xiaomifirmwareupdater.com/firmware/zeus</link>
-    <pubDate>Mon, 03 Jul 2023 18:57:52 +0900</pubDate>
   </item>
     </channel>
 </rss>
