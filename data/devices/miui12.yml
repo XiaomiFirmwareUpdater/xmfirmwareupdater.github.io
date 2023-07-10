@@ -2214,12 +2214,6 @@
   version: 20.8.20
 - android: '10.0'
   codename: cepheus
-  date: '2020-05-21'
-  download: https://bigota.d.miui.com/20.5.21/miui_CEPHEUS_20.5.21_107a233ed5_10.0.zip
-  name: Mi 9
-  version: 20.5.21
-- android: '10.0'
-  codename: cepheus
   date: '2020-09-17'
   download: https://bigota.d.miui.com/20.9.17/miui_CEPHEUS_20.9.17_d76c964063_10.0.zip
   name: Mi 9
@@ -2254,12 +2248,6 @@
   download: https://bigota.d.miui.com/20.11.11/miui_CEPHEUS_20.11.11_3ead644f2c_10.0.zip
   name: Mi 9
   version: 20.11.11
-- android: '10.0'
-  codename: cepheus
-  date: '2020-12-10'
-  download: https://bigota.d.miui.com/20.12.9/miui_CEPHEUS_20.12.9_720b503bcf_10.0.zip
-  name: Mi 9
-  version: 20.12.9
 - android: '11.0'
   codename: cepheus
   date: '2021-06-10'
@@ -2296,12 +2284,6 @@
   download: https://bigota.d.miui.com/20.9.3/miui_CEPHEUS_20.9.3_ccff440e89_10.0.zip
   name: Mi 9
   version: 20.9.3
-- android: '11.0'
-  codename: cepheus
-  date: '2021-06-03'
-  download: https://bigota.d.miui.com/21.6.2/miui_CEPHEUS_21.6.2_afcaed16f8_11.0.zip
-  name: Mi 9
-  version: 21.6.2
 - android: '10.0'
   codename: cepheus
   date: '2020-07-02'
