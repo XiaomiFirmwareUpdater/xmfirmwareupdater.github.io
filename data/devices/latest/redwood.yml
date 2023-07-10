@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-06-09'
+  date: '2023-07-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-09.06.2023/fw_redwood_miui_REDWOODGlobal_V14.0.9.0.SMSMIXM_d99744f109_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODGlobal_V14.0.9.0.SMSMIXM_d99744f109_12.0.zip
-  filename: fw_redwood_miui_REDWOODGlobal_V14.0.9.0.SMSMIXM_d99744f109_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-10.07.2023/fw_redwood_miui_REDWOODGlobal_V14.0.2.0.TMSMIXM_a4e031f81c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODGlobal_V14.0.2.0.TMSMIXM_a4e031f81c_13.0.zip
+  filename: fw_redwood_miui_REDWOODGlobal_V14.0.2.0.TMSMIXM_a4e031f81c_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V14.0.9.0.SMSMIXM
+    android: '13.0'
+    miui: V14.0.2.0.TMSMIXM
 - branch: stable
   date: '2023-06-05'
   downloads:
