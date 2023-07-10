@@ -1499,15 +1499,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2023-06-03'
+  date: '2023-07-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-04.06.2023/fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.2.0.SJSEUXM_03e0a3d01f_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.2.0.SJSEUXM_03e0a3d01f_12.0.zip
-  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.2.0.SJSEUXM_03e0a3d01f_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gauguin/releases/download/stable-10.07.2023/fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.4.0.SJSEUXM_5211288d42_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gauguin/fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.4.0.SJSEUXM_5211288d42_12.0.zip
+  filename: fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.4.0.SJSEUXM_5211288d42_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V14.0.2.0.SJSEUXM
+    miui: V14.0.4.0.SJSEUXM
 - branch: stable
   date: '2023-05-08'
   downloads:
@@ -3398,6 +3398,16 @@
   versions:
     android: '13.0'
     miui: V14.0.5.0.TMZCNXM
+- branch: stable
+  date: '2023-07-10'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-10.07.2023/fw_pipa_miui_PIPAEEAGlobal_V14.0.3.0.TMZEUXM_04fa01e855_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAEEAGlobal_V14.0.3.0.TMZEUXM_04fa01e855_13.0.zip
+  filename: fw_pipa_miui_PIPAEEAGlobal_V14.0.3.0.TMZEUXM_04fa01e855_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TMZEUXM
 - branch: stable
   date: '2023-06-12'
   downloads:

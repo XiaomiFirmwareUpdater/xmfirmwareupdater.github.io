@@ -696,6 +696,12 @@
   version: V14.0.2.0.SJSMIXM
 - android: '12.0'
   codename: gauguin
+  date: '2023-07-10'
+  download: https://bigota.d.miui.com/V14.0.4.0.SJSEUXM/fw_gauguin_miui_GAUGUINEEAGlobal_V14.0.4.0.SJSEUXM_5211288d42_12.0.zip
+  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
+  version: V14.0.4.0.SJSEUXM
+- android: '12.0'
+  codename: gauguin
   date: '2023-05-08'
   download: https://bigota.d.miui.com/V14.0.2.0.SJSINXM/fw_gauguin_miui_GAUGUININGlobal_V14.0.2.0.SJSINXM_1db4f5a726_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
@@ -1522,6 +1528,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMZINXM/fw_pipa_miui_PIPAINGlobal_V14.0.2.0.TMZINXM_f2259366e8_13.0.zip
   name: Xiaomi Pad 6
   version: V14.0.2.0.TMZINXM
+- android: '13.0'
+  codename: pipa
+  date: '2023-07-10'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMZEUXM/fw_pipa_miui_PIPAEEAGlobal_V14.0.3.0.TMZEUXM_04fa01e855_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.3.0.TMZEUXM
 - android: '13.0'
   codename: pipa
   date: '2023-07-04'
