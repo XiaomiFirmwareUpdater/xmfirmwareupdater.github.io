@@ -360,6 +360,12 @@
   version: V14.0.4.0.TLCCNXM
 - android: '13.0'
   codename: cupid
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.11.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.11.0.TLCEUXM_ce1ea583ce_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.11.0.TLCEUXM
+- android: '13.0'
+  codename: cupid
   date: '2023-05-04'
   download: https://bigota.d.miui.com/V14.0.8.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
   name: Xiaomi 12
@@ -598,6 +604,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMXMIXM/fw_fire_miui_FIREGlobal_V14.0.4.0.TMXMIXM_c958e38c0c_13.0.zip
   name: Redmi 12
   version: V14.0.4.0.TMXMIXM
+- android: '13.0'
+  codename: fire
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMXMIXM/fw_fire_miui_FIREGlobal_V14.0.7.0.TMXMIXM_be6194c763_13.0.zip
+  name: Redmi 12
+  version: V14.0.7.0.TMXMIXM
 - android: '13.0'
   codename: fire
   date: '2023-07-06'
@@ -1546,6 +1558,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMZINXM/fw_pipa_miui_PIPAINGlobal_V14.0.2.0.TMZINXM_f2259366e8_13.0.zip
   name: Xiaomi Pad 6
   version: V14.0.2.0.TMZINXM
+- android: '13.0'
+  codename: pipa
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMZMIXM/fw_pipa_miui_PIPAGlobal_V14.0.3.0.TMZMIXM_9bc4c73e99_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.3.0.TMZMIXM
 - android: '13.0'
   codename: pipa
   date: '2023-07-10'
