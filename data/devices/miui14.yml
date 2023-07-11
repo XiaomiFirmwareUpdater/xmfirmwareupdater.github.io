@@ -162,6 +162,12 @@
   version: V14.0.5.0.TKSMIXM
 - android: '13.0'
   codename: camellian
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKSEUXM/fw_camellian_miui_CAMELLIANEEAGlobal_V14.0.3.0.TKSEUXM_3029e0954c_13.0.zip
+  name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
+  version: V14.0.3.0.TKSEUXM
+- android: '13.0'
+  codename: camellian
   date: '2023-05-08'
   download: https://bigota.d.miui.com/V14.0.3.0.TKSMIXM/fw_camellian_miui_CAMELLIANGlobal_V14.0.3.0.TKSMIXM_4d9be1df29_13.0.zip
   name: Redmi Note 10 5G/Redmi Note 10T/POCO M3 Pro
@@ -912,6 +918,12 @@
   version: V14.0.1.0.TLSEUXM
 - android: '13.0'
   codename: light
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.3.0.TLSEUXM_3159a1b74d_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.3.0.TLSEUXM
+- android: '13.0'
+  codename: light
   date: '2023-02-08'
   download: https://bigota.d.miui.com/V14.0.1.0.TLSCNXM/fw_light_miui_LIGHT_V14.0.1.0.TLSCNXM_1a0a02a4b4_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
@@ -1180,6 +1192,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.5.0.TLTCNXM_c9b9d9dadb_13.0.zip
   name: Xiaomi 12S
   version: V14.0.5.0.TLTCNXM
+- android: '13.0'
+  codename: mayfly
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.9.0.TLTCNXM_2587764434_13.0.zip
+  name: Xiaomi 12S
+  version: V14.0.9.0.TLTCNXM
 - android: '12.0'
   codename: mojito
   date: '2023-04-27'
