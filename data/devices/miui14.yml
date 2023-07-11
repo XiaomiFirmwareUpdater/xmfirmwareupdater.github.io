@@ -1764,6 +1764,18 @@
   version: V14.0.6.0.SMSCNXM
 - android: '13.0'
   codename: redwood
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMSMIXM/fw_redwood_miui_REDWOODGlobal_V14.0.2.0.TMSMIXM_a4e031f81c_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.2.0.TMSMIXM
+- android: '13.0'
+  codename: redwood
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMSCNXM/fw_redwood_miui_REDWOOD_V14.0.3.0.TMSCNXM_deacb33990_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.3.0.TMSCNXM
+- android: '13.0'
+  codename: redwood
   date: '2023-07-10'
   download: https://bigota.d.miui.com/V14.0.2.0.TMSMIXM/fw_redwood_miui_REDWOODGlobal_V14.0.2.0.TMSMIXM_a4e031f81c_13.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -2070,6 +2082,12 @@
   version: V14.0.3.0.TKUEUXM
 - android: '13.0'
   codename: selene
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKUMIXM/fw_selene_miui_SELENEGlobal_V14.0.2.0.TKUMIXM_7d2872cc5e_13.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V14.0.2.0.TKUMIXM
+- android: '13.0'
+  codename: selene
   date: '2023-05-24'
   download: https://bigota.d.miui.com/V14.0.2.0.TKUCNXM/fw_selene_miui_SELENE_V14.0.2.0.TKUCNXM_f349844cfd_13.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
@@ -2110,6 +2128,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TGCMIXM/fw_spes_miui_SPESGlobal_V14.0.2.0.TGCMIXM_f4e2e7b209_13.0.zip
   name: Redmi Note 11
   version: V14.0.2.0.TGCMIXM
+- android: '13.0'
+  codename: spesn
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.1.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V14.0.1.0.TGKEUXM_83be9365d1_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.1.0.TGKEUXM
 - android: '13.0'
   codename: spesn
   date: '2023-06-06'
@@ -2200,6 +2224,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMQCNXM/fw_sunstone_miui_SUNSTONE_V14.0.4.0.TMQCNXM_a070ee4d67_13.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: V14.0.4.0.TMQCNXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.3.0.TMQEUXM_6c9d709926_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.3.0.TMQEUXM
 - android: '12.0'
   codename: sunstone
   date: '2023-05-11'
@@ -2514,6 +2544,12 @@
   version: V14.0.7.0.TLECNXM
 - android: '13.0'
   codename: unicorn
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.9.0.TLECNXM_72bb2a8bae_13.0.zip
+  name: Xiaomi 12S Pro
+  version: V14.0.9.0.TLECNXM
+- android: '13.0'
+  codename: unicorn
   date: '2023-01-10'
   download: https://bigota.d.miui.com/V14.0.4.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.4.0.TLECNXM_5d047a1bdd_13.0.zip
   name: Xiaomi 12S Pro
@@ -2626,6 +2662,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_V14.0.1.0.TKCEUXM_404df87ca1_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: V14.0.1.0.TKCEUXM
+- android: '13.0'
+  codename: veux
+  date: '2023-07-11'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKCMIXM/fw_veux_miui_VEUXGlobal_V14.0.2.0.TKCMIXM_71fabc3a52_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V14.0.2.0.TKCMIXM
 - android: '13.0'
   codename: vida
   date: '2023-06-09'
