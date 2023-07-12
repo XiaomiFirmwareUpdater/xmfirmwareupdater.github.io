@@ -1122,6 +1122,12 @@
   version: V14.0.16.0.TMRCNXM
 - android: '13.0'
   codename: marble
+  date: '2023-07-12'
+  download: https://bigota.d.miui.com/V14.0.21.0.TMRCNXM/fw_marble_miui_MARBLE_V14.0.21.0.TMRCNXM_8aa9899d82_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.21.0.TMRCNXM
+- android: '13.0'
+  codename: marble
   date: '2023-05-09'
   download: https://bigota.d.miui.com/V14.0.6.0.TMREUXM/fw_marble_miui_MARBLEEEAGlobal_V14.0.6.0.TMREUXM_a36d076463_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
