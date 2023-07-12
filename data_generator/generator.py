@@ -542,7 +542,7 @@ def main():
     load_miui_devices()
     generate_miui_md()
     load_vendor_devices()
-    generate_rss()
+#    generate_rss()
 
 
 if __name__ == '__main__':
