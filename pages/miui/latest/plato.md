@@ -63,8 +63,7 @@ permalink: /miui/plato/
 <tr><td>Xiaomi 12T Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLQRUXM</td><td>13.0</td><td>7.1 GB</td><td>2023-05-11</td><td><a href="/miui/plato/stable/V14.0.3.0.TLQRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLQRUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-05-30</td><td><a href="/miui/plato/stable/V14.0.3.0.TLQRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLQTRXM</td><td>13.0</td><td>7.0 GB</td><td>2023-04-17</td><td><a href="/miui/plato/stable/V14.0.2.0.TLQTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLQTRXM</td><td>13.0</td><td>5.0 GB</td><td>2023-04-25</td><td><a href="/miui/plato/stable beta/V14.0.2.0.TLQTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12T Turkey</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SLQTRXM</td><td>12.0</td><td>4.5 GB</td><td>2023-02-09</td><td><a href="/miui/plato/stable/V13.0.6.0.SLQTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12T Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLQTRXM</td><td>13.0</td><td>5.0 GB</td><td>2023-04-25</td><td><a href="/miui/plato/stable/V14.0.2.0.TLQTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLQTWXM</td><td>13.0</td><td>6.5 GB</td><td>2023-05-11</td><td><a href="/miui/plato/stable/V14.0.4.0.TLQTWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLQTWXM</td><td>13.0</td><td>5.0 GB</td><td>2023-05-28</td><td><a href="/miui/plato/stable/V14.0.4.0.TLQTWXM/">Download</a></td></tr>
 

@@ -57,18 +57,14 @@ permalink: /miui/ziyi/
 <tr><td>Xiaomi Civi 2 China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.13.0.SLLCNXM</td><td>12.0</td><td>5.6 GB</td><td>2023-01-10</td><td><a href="/miui/ziyi/stable beta/V13.0.13.0.SLLCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLLEUXM</td><td>13.0</td><td>7.3 GB</td><td>2023-05-05</td><td><a href="/miui/ziyi/stable/V14.0.4.0.TLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLLEUXM</td><td>13.0</td><td>5.0 GB</td><td>2023-05-15</td><td><a href="/miui/ziyi/stable/V14.0.4.0.TLLEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.10.0.SLLEUXM</td><td>12.0</td><td>4.7 GB</td><td>2023-02-28</td><td><a href="/miui/ziyi/stable beta/V14.0.10.0.SLLEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLLMIXM</td><td>13.0</td><td>7.5 GB</td><td>2023-04-21</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLLMIXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-08</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLLRUXM</td><td>13.0</td><td>7.0 GB</td><td>2023-05-04</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLLRUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-22</td><td><a href="/miui/ziyi/stable beta/V14.0.1.0.TLLRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SLLRUXM</td><td>12.0</td><td>4.6 GB</td><td>2023-04-13</td><td><a href="/miui/ziyi/stable/V14.0.3.0.SLLRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLLRUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-22</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLLTRXM</td><td>13.0</td><td>6.8 GB</td><td>2023-05-04</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLLTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-26</td><td><a href="/miui/ziyi/stable beta/V14.0.1.0.TLLTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SLLTRXM</td><td>12.0</td><td>4.6 GB</td><td>2023-04-13</td><td><a href="/miui/ziyi/stable/V14.0.3.0.SLLTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLLTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-26</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLLTWXM</td><td>13.0</td><td>6.4 GB</td><td>2023-05-04</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TLLTWXM</td><td>13.0</td><td>4.8 GB</td><td>2023-05-23</td><td><a href="/miui/ziyi/stable beta/V14.0.1.0.TLLTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.SLLTWXM</td><td>12.0</td><td>4.6 GB</td><td>2023-04-13</td><td><a href="/miui/ziyi/stable/V14.0.3.0.SLLTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLLTWXM</td><td>13.0</td><td>4.8 GB</td><td>2023-05-23</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

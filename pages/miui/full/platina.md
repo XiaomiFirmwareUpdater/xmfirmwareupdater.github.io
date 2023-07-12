@@ -52,7 +52,7 @@ permalink: /archive/miui/platina/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 Lite China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.QDTCNXM</td><td>10.0</td><td>2.2 GB</td><td>2021-06-25</td><td><a href="/miui/platina/stable beta/V12.5.1.0.QDTCNXM/">Download</a></td></tr>
+                <tr><td>Mi 8 Lite China</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.QDTCNXM</td><td>10.0</td><td>2.2 GB</td><td>2021-06-25</td><td><a href="/miui/platina/stable/V12.5.1.0.QDTCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.QDTCNXM</td><td>10.0</td><td>2.9 GB</td><td>2021-06-18</td><td><a href="/miui/platina/stable/V12.5.1.0.QDTCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QDTCNXM</td><td>10.0</td><td>2.3 GB</td><td>2021-03-19</td><td><a href="/miui/platina/stable/V12.0.2.0.QDTCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 Lite China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QDTCNXM</td><td>10.0</td><td>2.9 GB</td><td>2021-03-12</td><td><a href="/miui/platina/stable/V12.0.2.0.QDTCNXM/">Download</a></td></tr>

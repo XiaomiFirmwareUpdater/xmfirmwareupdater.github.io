@@ -64,7 +64,6 @@ permalink: /miui/picasso/
 <tr><td>Redmi K30i 5G China</td><td>Weekly</td><td>Recovery</td><td>22.3.23</td><td>12.0</td><td>4.7 GB</td><td>2022-03-24</td><td><a href="/miui/picasso/weekly/22.3.23/">Download</a></td></tr>
 <tr><td>Redmi K30i 5G China</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SGICMXM</td><td>12.0</td><td>5.6 GB</td><td>2022-10-08</td><td><a href="/miui/picasso/stable/V13.0.4.0.SGICMXM/">Download</a></td></tr>
 <tr><td>Redmi K30i 5G China</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SGICMXM</td><td>12.0</td><td>4.6 GB</td><td>2022-10-19</td><td><a href="/miui/picasso/stable/V13.0.4.0.SGICMXM/">Download</a></td></tr>
-<tr><td>Redmi K30i 5G China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SGICMXM</td><td>12.0</td><td>4.6 GB</td><td>2022-05-31</td><td><a href="/miui/picasso/stable beta/V13.0.2.0.SGICMXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

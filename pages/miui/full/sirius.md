@@ -52,7 +52,7 @@ permalink: /archive/miui/sirius/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 8 SE China</td><td>Stable Beta</td><td>Recovery</td><td>V12.5.1.0.QEBCNXM</td><td>10.0</td><td>2.1 GB</td><td>2021-07-12</td><td><a href="/miui/sirius/stable beta/V12.5.1.0.QEBCNXM/">Download</a></td></tr>
+                <tr><td>Mi 8 SE China</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.QEBCNXM</td><td>10.0</td><td>2.1 GB</td><td>2021-07-12</td><td><a href="/miui/sirius/stable/V12.5.1.0.QEBCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.QEBCNXM</td><td>10.0</td><td>2.9 GB</td><td>2021-06-25</td><td><a href="/miui/sirius/stable/V12.5.1.0.QEBCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.QEBCNXM</td><td>10.0</td><td>2.0 GB</td><td>2020-09-23</td><td><a href="/miui/sirius/stable/V12.0.2.0.QEBCNXM/">Download</a></td></tr>
 <tr><td>Mi 8 SE China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.QEBCNXM</td><td>10.0</td><td>2.6 GB</td><td>2020-09-08</td><td><a href="/miui/sirius/stable/V12.0.2.0.QEBCNXM/">Download</a></td></tr>

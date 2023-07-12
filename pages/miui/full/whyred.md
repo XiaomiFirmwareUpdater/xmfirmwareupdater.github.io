@@ -52,7 +52,7 @@ permalink: /archive/miui/whyred/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 5 China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.3.0.PEICNXM</td><td>9.0</td><td>2.0 GB</td><td>2021-06-15</td><td><a href="/miui/whyred/stable beta/V12.0.3.0.PEICNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 5 China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.PEICNXM</td><td>9.0</td><td>2.0 GB</td><td>2021-06-15</td><td><a href="/miui/whyred/stable/V12.0.3.0.PEICNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 5 China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.PEICNXM</td><td>9.0</td><td>2.6 GB</td><td>2021-05-09</td><td><a href="/miui/whyred/stable/V12.0.3.0.PEICNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.PEIMIXM</td><td>9.0</td><td>2.0 GB</td><td>2021-01-04</td><td><a href="/miui/whyred/stable/V12.0.2.0.PEIMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 5 / Note 5 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.PEIMIXM</td><td>9.0</td><td>2.5 GB</td><td>2020-12-24</td><td><a href="/miui/whyred/stable/V12.0.2.0.PEIMIXM/">Download</a></td></tr>

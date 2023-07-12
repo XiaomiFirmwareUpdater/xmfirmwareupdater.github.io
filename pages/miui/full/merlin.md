@@ -135,7 +135,7 @@ permalink: /archive/miui/merlin/
 <tr><td>Redmi Note 9 Russia</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RJORUXM</td><td>11.0</td><td>4.0 GB</td><td>2021-06-09</td><td><a href="/miui/merlin/stable/V12.0.1.0.RJORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Turkey</td><td>Stable</td><td>Recovery</td><td>V12.5.1.0.RJOTRXM</td><td>11.0</td><td>2.4 GB</td><td>2021-08-08</td><td><a href="/miui/merlin/stable/V12.5.1.0.RJOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Turkey</td><td>Stable</td><td>Fastboot</td><td>V12.5.1.0.RJOTRXM</td><td>11.0</td><td>3.8 GB</td><td>2021-08-04</td><td><a href="/miui/merlin/stable/V12.5.1.0.RJOTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 9 Global</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.RJOMIXM</td><td>11.0</td><td>2.1 GB</td><td>2021-05-27</td><td><a href="/miui/merlin/stable beta/V12.0.1.0.RJOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 9 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.1.0.RJOMIXM</td><td>11.0</td><td>2.1 GB</td><td>2021-05-27</td><td><a href="/miui/merlin/stable/V12.0.1.0.RJOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.1.0.RJOMIXM</td><td>11.0</td><td>4.6 GB</td><td>2021-05-20</td><td><a href="/miui/merlin/stable/V12.0.1.0.RJOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Global</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.QJOMIXM</td><td>10.0</td><td>2.1 GB</td><td>2021-05-24</td><td><a href="/miui/merlin/stable/V12.0.8.0.QJOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9 Global</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.QJOMIXM</td><td>10.0</td><td>4.5 GB</td><td>2021-05-17</td><td><a href="/miui/merlin/stable/V12.0.8.0.QJOMIXM/">Download</a></td></tr>

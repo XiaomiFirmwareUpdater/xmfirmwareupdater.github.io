@@ -68,7 +68,7 @@ permalink: /archive/miui/monet/
 <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJIEUXM</td><td>12.0</td><td>6.2 GB</td><td>2022-04-13</td><td><a href="/miui/monet/stable/V13.0.2.0.SJIEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJITWXM</td><td>12.0</td><td>3.4 GB</td><td>2022-04-13</td><td><a href="/miui/monet/stable/V13.0.1.0.SJITWXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJITWXM</td><td>12.0</td><td>5.5 GB</td><td>2022-04-06</td><td><a href="/miui/monet/stable/V13.0.1.0.SJITWXM/">Download</a></td></tr>
-<tr><td>Mi 10 Lite Global</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJIMIXM</td><td>12.0</td><td>3.4 GB</td><td>2022-03-30</td><td><a href="/miui/monet/stable beta/V13.0.2.0.SJIMIXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite Global</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SJIMIXM</td><td>12.0</td><td>3.4 GB</td><td>2022-03-30</td><td><a href="/miui/monet/stable/V13.0.2.0.SJIMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SJIMIXM</td><td>12.0</td><td>6.1 GB</td><td>2022-03-21</td><td><a href="/miui/monet/stable/V13.0.2.0.SJIMIXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Recovery</td><td>V12.5.7.0.RJIEUXM</td><td>11.0</td><td>3.2 GB</td><td>2022-02-10</td><td><a href="/miui/monet/stable/V12.5.7.0.RJIEUXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite EEA</td><td>Stable</td><td>Fastboot</td><td>V12.5.7.0.RJIEUXM</td><td>11.0</td><td>5.9 GB</td><td>2022-01-19</td><td><a href="/miui/monet/stable/V12.5.7.0.RJIEUXM/">Download</a></td></tr>

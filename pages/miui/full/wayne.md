@@ -52,7 +52,7 @@ permalink: /archive/miui/wayne/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 6X China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.2.0.PDCCNXM</td><td>9.0</td><td>2.0 GB</td><td>2021-04-07</td><td><a href="/miui/wayne/stable beta/V12.0.2.0.PDCCNXM/">Download</a></td></tr>
+                <tr><td>Mi 6X China</td><td>Stable</td><td>Recovery</td><td>V12.0.2.0.PDCCNXM</td><td>9.0</td><td>2.0 GB</td><td>2021-04-07</td><td><a href="/miui/wayne/stable/V12.0.2.0.PDCCNXM/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Stable</td><td>Fastboot</td><td>V12.0.2.0.PDCCNXM</td><td>9.0</td><td>2.7 GB</td><td>2021-01-21</td><td><a href="/miui/wayne/stable/V12.0.2.0.PDCCNXM/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Stable Beta</td><td>Recovery</td><td>V12.0.1.0.PDCCNXM</td><td>9.0</td><td>2.0 GB</td><td>2021-01-14</td><td><a href="/miui/wayne/stable beta/V12.0.1.0.PDCCNXM/">Download</a></td></tr>
 <tr><td>Mi 6X China</td><td>Weekly</td><td>Recovery</td><td>20.6.18</td><td>9.0</td><td>2.0 GB</td><td>2020-06-18</td><td><a href="/miui/wayne/weekly/20.6.18/">Download</a></td></tr>
