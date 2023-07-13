@@ -1014,6 +1014,12 @@
   version: V14.0.5.0.TKOINXM
 - android: '13.0'
   codename: lisa
+  date: '2023-07-13'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKOINXM/fw_lisa_miui_LISAINGlobal_V14.0.6.0.TKOINXM_29ba105e38_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.6.0.TKOINXM
+- android: '13.0'
+  codename: lisa
   date: '2023-05-12'
   download: https://bigota.d.miui.com/V14.0.8.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
