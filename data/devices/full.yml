@@ -909,6 +909,16 @@
     android: '11.0'
     miui: V12.5.4.0.RKHMIXM
 - branch: stable
+  date: '2023-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-14.07.2023/fw_alioth_miui_ALIOTHINGlobal_V14.0.4.0.TKHINXM_6fa817662c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/alioth/fw_alioth_miui_ALIOTHINGlobal_V14.0.4.0.TKHINXM_6fa817662c_13.0.zip
+  filename: fw_alioth_miui_ALIOTHINGlobal_V14.0.4.0.TKHINXM_6fa817662c_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TKHINXM
+- branch: stable
   date: '2023-06-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/stable-14.06.2023/fw_alioth_miui_ALIOTHEEAGlobal_V14.0.9.0.TKHEUXM_9e74ef6f25_13.0.zip
@@ -27739,6 +27749,16 @@
     android: '13.0'
     miui: V14.0.16.0.TMACNXM
 - branch: stable
+  date: '2023-05-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-17.05.2023/fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
+  filename: fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.13.0.TMACNXM
+- branch: stable
   date: '2023-06-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-13.06.2023/fw_ishtar_miui_ISHTARGlobal_V14.0.2.0.TMAMIXM_d1eb1df7a2_13.0.zip
@@ -43458,6 +43478,26 @@
   versions:
     android: '13.0'
     miui: V14.0.3.0.TMZCNXM
+- branch: stable
+  date: '2023-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-14.07.2023/fw_pipa_miui_PIPAGlobal_V14.0.4.0.TMZMIXM_722f610863_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAGlobal_V14.0.4.0.TMZMIXM_722f610863_13.0.zip
+  filename: fw_pipa_miui_PIPAGlobal_V14.0.4.0.TMZMIXM_722f610863_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMZMIXM
+- branch: stable
+  date: '2023-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-14.07.2023/fw_pipa_miui_PIPAINGlobal_V14.0.3.0.TMZINXM_2eef31b9be_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAINGlobal_V14.0.3.0.TMZINXM_2eef31b9be_13.0.zip
+  filename: fw_pipa_miui_PIPAINGlobal_V14.0.3.0.TMZINXM_2eef31b9be_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TMZINXM
 - branch: stable
   date: '2023-06-12'
   downloads:
@@ -64388,6 +64428,26 @@
   versions:
     android: '11.0'
     miui: V13.0.10.0.RGDEUXM
+- branch: stable
+  date: '2023-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-14.07.2023/fw_viva_miui_VIVAEEAGlobal_V14.0.2.0.TGDEUXM_a0c7460e03_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/viva/fw_viva_miui_VIVAEEAGlobal_V14.0.2.0.TGDEUXM_a0c7460e03_13.0.zip
+  filename: fw_viva_miui_VIVAEEAGlobal_V14.0.2.0.TGDEUXM_a0c7460e03_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TGDEUXM
+- branch: stable
+  date: '2023-07-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-14.07.2023/fw_viva_miui_VIVAGlobal_V14.0.3.0.TGDMIXM_2004f3083d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/viva/fw_viva_miui_VIVAGlobal_V14.0.3.0.TGDMIXM_2004f3083d_13.0.zip
+  filename: fw_viva_miui_VIVAGlobal_V14.0.3.0.TGDMIXM_2004f3083d_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TGDMIXM
 - branch: stable
   date: '2022-09-12'
   downloads:
