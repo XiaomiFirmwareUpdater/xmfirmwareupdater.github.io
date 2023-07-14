@@ -624,6 +624,12 @@
   version: V14.0.2.0.TKEEUXM
 - android: '13.0'
   codename: fleur
+  date: '2023-07-14'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V14.0.4.0.TKEEUXM_2e7d43bae3_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V14.0.4.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
   date: '2023-06-05'
   download: https://bigota.d.miui.com/V14.0.3.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_V14.0.3.0.TKEMIXM_2ff7566a60_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -862,12 +868,6 @@
   download: https://bigota.d.miui.com/V14.0.16.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.16.0.TMACNXM_8409e2712d_13.0.zip
   name: Xiaomi 13 Ultra
   version: V14.0.16.0.TMACNXM
-- android: '13.0'
-  codename: ishtar
-  date: '2023-05-17'
-  download: https://bigota.d.miui.com/V14.0.13.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.13.0.TMACNXM_0c4d6a81ab_13.0.zip
-  name: Xiaomi 13 Ultra
-  version: V14.0.13.0.TMACNXM
 - android: '13.0'
   codename: ishtar
   date: '2023-06-13'
