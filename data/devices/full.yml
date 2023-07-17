@@ -20529,6 +20529,16 @@
     android: '13.0'
     miui: V14.0.13.0.TLFEUXM
 - branch: stable
+  date: '2023-07-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-17.07.2023/fw_diting_miui_DITINGGlobal_V14.0.3.0.TLFMIXM_e7ab587406_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITINGGlobal_V14.0.3.0.TLFMIXM_e7ab587406_13.0.zip
+  filename: fw_diting_miui_DITINGGlobal_V14.0.3.0.TLFMIXM_e7ab587406_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TLFMIXM
+- branch: stable
   date: '2023-01-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-17.01.2023/fw_diting_miui_DITING_V14.0.5.0.TLFCNXM_997a43704e_13.0.zip
@@ -47509,6 +47519,16 @@
     android: '13.0'
     miui: V14.0.1.0.TMSEUXM
 - branch: stable
+  date: '2023-07-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-17.07.2023/fw_redwood_miui_REDWOODINGlobal_V14.0.2.0.TMSINXM_12227977ee_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOODINGlobal_V14.0.2.0.TMSINXM_12227977ee_13.0.zip
+  filename: fw_redwood_miui_REDWOODINGlobal_V14.0.2.0.TMSINXM_12227977ee_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TMSINXM
+- branch: stable
   date: '2023-05-15'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-15.05.2023/fw_redwood_miui_REDWOODINGlobal_V14.0.1.0.TMSINXM_78c7594286_13.0.zip
@@ -66518,6 +66538,16 @@
   versions:
     android: '13.0'
     miui: V13.0.4.0.TLBMIXM
+- branch: stable
+  date: '2023-07-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-17.07.2023/fw_zeus_miui_ZEUSINGlobal_V14.0.3.0.TLBINXM_a27b835a26_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zeus/fw_zeus_miui_ZEUSINGlobal_V14.0.3.0.TLBINXM_a27b835a26_13.0.zip
+  filename: fw_zeus_miui_ZEUSINGlobal_V14.0.3.0.TLBINXM_a27b835a26_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TLBINXM
 - branch: stable
   date: '2022-03-17'
   downloads:

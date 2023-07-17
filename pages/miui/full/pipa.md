@@ -52,8 +52,10 @@ permalink: /archive/miui/pipa/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMZMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-07-14</td><td><a href="/miui/pipa/stable beta/V14.0.4.0.TMZMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TMZINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-07-14</td><td><a href="/miui/pipa/stable beta/V14.0.3.0.TMZINXM/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMZMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-07-14</td><td><a href="/miui/pipa/stable/V14.0.4.0.TMZMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMZMIXM</td><td>13.0</td><td>4.5 GB</td><td>2023-07-09</td><td><a href="/miui/pipa/stable/V14.0.4.0.TMZMIXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 India</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMZINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-07-14</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZINXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 India</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMZINXM</td><td>13.0</td><td>4.3 GB</td><td>2023-07-09</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMZMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-07-11</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMZMIXM</td><td>13.0</td><td>4.5 GB</td><td>2023-06-30</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMZTWXM</td><td>13.0</td><td>4.0 GB</td><td>2023-07-11</td><td><a href="/miui/pipa/stable/V14.0.2.0.TMZTWXM/">Download</a></td></tr>

@@ -414,6 +414,12 @@
   version: V14.0.13.0.TLFEUXM
 - android: '13.0'
   codename: diting
+  date: '2023-07-17'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLFMIXM/fw_diting_miui_DITINGGlobal_V14.0.3.0.TLFMIXM_e7ab587406_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.3.0.TLFMIXM
+- android: '13.0'
+  codename: diting
   date: '2023-01-16'
   download: https://bigota.d.miui.com/V14.0.5.0.TLFCNXM/fw_diting_miui_DITING_V14.0.5.0.TLFCNXM_997a43704e_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -1614,6 +1620,12 @@
   version: V14.0.1.0.TMSEUXM
 - android: '13.0'
   codename: redwood
+  date: '2023-07-17'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMSINXM/fw_redwood_miui_REDWOODINGlobal_V14.0.2.0.TMSINXM_12227977ee_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.2.0.TMSINXM
+- android: '13.0'
+  codename: redwood
   date: '2023-05-15'
   download: https://bigota.d.miui.com/V14.0.1.0.TMSINXM/fw_redwood_miui_REDWOODINGlobal_V14.0.1.0.TMSINXM_78c7594286_13.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -2740,6 +2752,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TLBINXM/fw_zeus_miui_ZEUSINGlobal_V14.0.2.0.TLBINXM_0c869f4e17_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.2.0.TLBINXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-07-17'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLBINXM/fw_zeus_miui_ZEUSINGlobal_V14.0.3.0.TLBINXM_a27b835a26_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.3.0.TLBINXM
 - android: '13.0'
   codename: zeus
   date: '2023-01-16'
