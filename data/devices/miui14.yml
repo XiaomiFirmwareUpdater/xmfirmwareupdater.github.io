@@ -587,6 +587,12 @@
   name: Redmi 10C
   version: V14.0.2.0.TGEMIXM
 - android: '13.0'
+  codename: fog
+  date: '2023-07-17'
+  download: https://bigota.d.miui.com/V14.0.1.0.TGEINXM/fw_fog_miui_FOGINGlobal_V14.0.1.0.TGEINXM_fbff31a42a_13.0.zip
+  name: Redmi 10C
+  version: V14.0.1.0.TGEINXM
+- android: '13.0'
   codename: fuxi
   date: '2023-06-25'
   download: https://bigota.d.miui.com/V14.0.24.0.TMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_V14.0.24.0.TMCEUXM_b42d0e6c2d_13.0.zip
@@ -1216,6 +1222,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_V14.0.2.0.TMPINXM_209d9aee4a_13.0.zip
   name: POCO X5 5G
   version: V14.0.2.0.TMPINXM
+- android: '13.0'
+  codename: moonstone
+  date: '2023-07-17'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_V14.0.4.0.TMPMIXM_b496aa7124_13.0.zip
+  name: POCO X5 5G
+  version: V14.0.4.0.TMPMIXM
 - android: '13.0'
   codename: moonstone
   date: '2023-05-08'
@@ -1912,6 +1924,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.THZMIXM/fw_sea_miui_SEAGlobal_V14.0.6.0.THZMIXM_046b63823c_13.0.zip
   name: Redmi Note 12S
   version: V14.0.6.0.THZMIXM
+- android: '13.0'
+  codename: sea
+  date: '2023-07-17'
+  download: https://bigota.d.miui.com/V14.0.7.0.THZMIXM/fw_sea_miui_SEAGlobal_V14.0.7.0.THZMIXM_d83e127ca2_13.0.zip
+  name: Redmi Note 12S
+  version: V14.0.7.0.THZMIXM
 - android: '13.0'
   codename: sea
   date: '2023-05-10'
