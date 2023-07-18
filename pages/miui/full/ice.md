@@ -52,7 +52,9 @@ permalink: /archive/miui/ice/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi A1 / A1+ / POCO C50 India</td><td>Stable</td><td>Recovery</td><td>V13.0.11.0.SGMINXM</td><td>12.0</td><td>1.5 GB</td><td>2023-07-13</td><td><a href="/miui/ice/stable/V13.0.11.0.SGMINXM/">Download</a></td></tr>
+                <tr><td>Redmi A1 / POCO C50 EEA</td><td>Stable</td><td>Recovery</td><td>V13.0.13.0.SGMEUXM</td><td>12.0</td><td>1.6 GB</td><td>2023-07-18</td><td><a href="/miui/ice/stable/V13.0.13.0.SGMEUXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / POCO C50 EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.13.0.SGMEUXM</td><td>12.0</td><td>2.2 GB</td><td>2023-07-10</td><td><a href="/miui/ice/stable/V13.0.13.0.SGMEUXM/">Download</a></td></tr>
+<tr><td>Redmi A1 / A1+ / POCO C50 India</td><td>Stable</td><td>Recovery</td><td>V13.0.11.0.SGMINXM</td><td>12.0</td><td>1.5 GB</td><td>2023-07-13</td><td><a href="/miui/ice/stable/V13.0.11.0.SGMINXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / A1+ / POCO C50 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.11.0.SGMINXM</td><td>12.0</td><td>2.0 GB</td><td>2023-07-05</td><td><a href="/miui/ice/stable/V13.0.11.0.SGMINXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.18.0.SGMMIXM</td><td>12.0</td><td>1.6 GB</td><td>2023-07-13</td><td><a href="/miui/ice/stable/V13.0.18.0.SGMMIXM/">Download</a></td></tr>
 <tr><td>Redmi A1 / POCO C50 Global</td><td>Stable</td><td>Fastboot</td><td>V13.0.18.0.SGMMIXM</td><td>12.0</td><td>2.2 GB</td><td>2023-07-05</td><td><a href="/miui/ice/stable/V13.0.18.0.SGMMIXM/">Download</a></td></tr>

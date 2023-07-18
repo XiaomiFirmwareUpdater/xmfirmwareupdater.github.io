@@ -6628,12 +6628,6 @@
   download: https://bigota.d.miui.com/21.8.18/miui_UMI_21.8.18_52675f7003_11.0.zip
   name: Mi 10
   version: 21.8.18
-- android: '11.0'
-  codename: umi
-  date: '2021-06-18'
-  download: https://bigota.d.miui.com/21.6.17/miui_UMI_21.6.17_a896e339a9_11.0.zip
-  name: Mi 10
-  version: 21.6.17
 - android: '10.0'
   codename: umi
   date: '2020-06-18'
@@ -6768,12 +6762,6 @@
   version: 20.11.5
 - android: '11.0'
   codename: umi
-  date: '2020-08-06'
-  download: https://bigota.d.miui.com/20.8.6/miui_UMI_20.8.6_eb4bc02952_11.0.zip
-  name: Mi 10
-  version: 20.8.6
-- android: '11.0'
-  codename: umi
   date: '2021-04-18'
   download: https://bigota.d.miui.com/21.3.3/miui_UMI_21.3.3_545bd45e28_11.0.zip
   name: Mi 10
@@ -6790,12 +6778,6 @@
   download: https://bigota.d.miui.com/20.9.4/miui_UMI_20.9.4_9e5930ea34_11.0.zip
   name: Mi 10
   version: 20.9.4
-- android: '11.0'
-  codename: umi
-  date: '2021-08-05'
-  download: https://bigota.d.miui.com/21.8.4/miui_UMI_21.8.4_646f3cc9fe_11.0.zip
-  name: Mi 10
-  version: 21.8.4
 - android: '11.0'
   codename: umi
   date: '2021-04-18'
