@@ -52,7 +52,8 @@ permalink: /archive/miui/unicorn/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.3.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-07-07</td><td><a href="/miui/unicorn/public beta/V14.0.23.7.3.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.10.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-07-14</td><td><a href="/miui/unicorn/public beta/V14.0.23.7.10.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.3.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-07-07</td><td><a href="/miui/unicorn/public beta/V14.0.23.7.3.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TLECNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-07-07</td><td><a href="/miui/unicorn/stable/V14.0.9.0.TLECNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TLECNXM</td><td>13.0</td><td>7.6 GB</td><td>2023-06-09</td><td><a href="/miui/unicorn/stable/V14.0.9.0.TLECNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.26.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-06-30</td><td><a href="/miui/unicorn/public beta/V14.0.23.6.26.DEV/">Download</a></td></tr>
