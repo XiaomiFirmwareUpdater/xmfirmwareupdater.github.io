@@ -19,22 +19,22 @@
     android: '13.0'
     miui: V14.0.2.0.TMOCNXM
 - branch: stable
-  date: '2023-05-08'
+  date: '2023-07-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-08.05.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.10.0.SMOEUXM_fa5882d233_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYEEAGlobal_V14.0.10.0.SMOEUXM_fa5882d233_12.0.zip
-  filename: fw_ruby_miui_RUBYEEAGlobal_V14.0.10.0.SMOEUXM_fa5882d233_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-20.07.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.3.0.TMOEUXM_6f7ea627cb_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYEEAGlobal_V14.0.3.0.TMOEUXM_6f7ea627cb_13.0.zip
+  filename: fw_ruby_miui_RUBYEEAGlobal_V14.0.3.0.TMOEUXM_6f7ea627cb_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V14.0.10.0.SMOEUXM
+    android: '13.0'
+    miui: V14.0.3.0.TMOEUXM
 - branch: stable
-  date: '2023-05-25'
+  date: '2023-07-19'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-25.05.2023/fw_ruby_miui_RUBYINGlobal_V14.0.3.0.SMOINXM_b17501a8db_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYINGlobal_V14.0.3.0.SMOINXM_b17501a8db_12.0.zip
-  filename: fw_ruby_miui_RUBYINGlobal_V14.0.3.0.SMOINXM_b17501a8db_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-20.07.2023/fw_ruby_miui_RUBYINGlobal_V14.0.3.0.TMOINXM_5ecf1706df_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYINGlobal_V14.0.3.0.TMOINXM_5ecf1706df_13.0.zip
+  filename: fw_ruby_miui_RUBYINGlobal_V14.0.3.0.TMOINXM_5ecf1706df_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V14.0.3.0.SMOINXM
+    android: '13.0'
+    miui: V14.0.3.0.TMOINXM
