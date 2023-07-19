@@ -12389,6 +12389,16 @@
     android: '10.0'
     miui: V12.0.18.0.QJNCNXM
 - branch: stable
+  date: '2023-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-19.07.2023/fw_cezanne_miui_CEZANNE_V14.0.5.0.SJNCNXM_7ff0af0ef7_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cezanne/fw_cezanne_miui_CEZANNE_V14.0.5.0.SJNCNXM_7ff0af0ef7_12.0.zip
+  filename: fw_cezanne_miui_CEZANNE_V14.0.5.0.SJNCNXM_7ff0af0ef7_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V14.0.5.0.SJNCNXM
+- branch: stable
   date: '2021-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cezanne/releases/download/stable-18.02.2021/fw_cezanne_miui_CEZANNE_V12.0.20.0.QJNCNXM_81f340ae21_10.0.zip
@@ -34399,6 +34409,16 @@
     android: '13.0'
     miui: V14.0.4.0.TMRINXM
 - branch: stable
+  date: '2023-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-19.07.2023/fw_marble_miui_MARBLE_V14.0.21.1.TMRCNXM_4edd461d96_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLE_V14.0.21.1.TMRCNXM_4edd461d96_13.0.zip
+  filename: fw_marble_miui_MARBLE_V14.0.21.1.TMRCNXM_4edd461d96_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.21.1.TMRCNXM
+- branch: stable
   date: '2023-04-18'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-18.04.2023/fw_marble_miui_MARBLE_V14.0.16.0.TMRCNXM_af816f3572_13.0.zip
@@ -54528,6 +54548,16 @@
   versions:
     android: '12.0'
     miui: V13.0.13.0.SKFEUXM
+- branch: stable
+  date: '2023-07-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweet/releases/download/stable-19.07.2023/fw_sweet_miui_SWEETEEAGlobal_V14.0.5.0.TKFEUXM_0c4ebca0e8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweet/fw_sweet_miui_SWEETEEAGlobal_V14.0.5.0.TKFEUXM_0c4ebca0e8_13.0.zip
+  filename: fw_sweet_miui_SWEETEEAGlobal_V14.0.5.0.TKFEUXM_0c4ebca0e8_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKFEUXM
 - branch: stable
   date: '2023-05-19'
   downloads:

@@ -196,6 +196,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.SJNCNXM/fw_cezanne_miui_CEZANNE_V14.0.1.0.SJNCNXM_cbba55822d_12.0.zip
   name: Redmi K30 Ultra
   version: V14.0.1.0.SJNCNXM
+- android: '12.0'
+  codename: cezanne
+  date: '2023-07-19'
+  download: https://bigota.d.miui.com/V14.0.5.0.SJNCNXM/fw_cezanne_miui_CEZANNE_V14.0.5.0.SJNCNXM_7ff0af0ef7_12.0.zip
+  name: Redmi K30 Ultra
+  version: V14.0.5.0.SJNCNXM
 - android: '13.0'
   codename: chopin
   date: '2023-05-29'
@@ -1066,6 +1072,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMRINXM/fw_marble_miui_MARBLEINGlobal_V14.0.4.0.TMRINXM_f28e3f3c33_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: V14.0.4.0.TMRINXM
+- android: '13.0'
+  codename: marble
+  date: '2023-07-19'
+  download: https://bigota.d.miui.com/V14.0.21.1.TMRCNXM/fw_marble_miui_MARBLE_V14.0.21.1.TMRCNXM_4edd461d96_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.21.1.TMRCNXM
 - android: '13.0'
   codename: marble
   date: '2023-04-18'
@@ -2182,6 +2194,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKFMIXM/fw_sweet_miui_SWEETGlobal_V14.0.2.0.TKFMIXM_897d928055_13.0.zip
   name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
   version: V14.0.2.0.TKFMIXM
+- android: '13.0'
+  codename: sweet
+  date: '2023-07-19'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKFEUXM/fw_sweet_miui_SWEETEEAGlobal_V14.0.5.0.TKFEUXM_0c4ebca0e8_13.0.zip
+  name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
+  version: V14.0.5.0.TKFEUXM
 - android: '13.0'
   codename: sweet
   date: '2023-05-19'
