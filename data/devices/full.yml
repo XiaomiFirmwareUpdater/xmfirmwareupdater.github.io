@@ -36719,6 +36719,16 @@
     android: '12.0'
     miui: V13.1.3.0.SKXINXM
 - branch: stable
+  date: '2023-07-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-20.07.2023/fw_nabu_miui_NABUGlobal_V14.0.5.0.TKXMIXM_f69ecfca1a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUGlobal_V14.0.5.0.TKXMIXM_f69ecfca1a_13.0.zip
+  filename: fw_nabu_miui_NABUGlobal_V14.0.5.0.TKXMIXM_f69ecfca1a_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKXMIXM
+- branch: stable
   date: '2022-04-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-20.04.2022/fw_nabu_miui_NABUEEAGlobal_V13.0.4.0.RKXEUXM_7773cd515f_11.0.zip
@@ -48188,6 +48198,16 @@
   versions:
     android: '11.0'
     miui: V12.0.7.0.RKICNXM
+- branch: stable
+  date: '2023-07-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-20.07.2023/fw_renoir_miui_RENOIR_V14.0.10.0.TKICNXM_49b2859258_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIR_V14.0.10.0.TKICNXM_49b2859258_13.0.zip
+  filename: fw_renoir_miui_RENOIR_V14.0.10.0.TKICNXM_49b2859258_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.10.0.TKICNXM
 - branch: stable
   date: '2022-04-20'
   downloads:
@@ -66908,6 +66928,16 @@
   versions:
     android: '12.0'
     miui: V13.0.11.0.SLPCNXM
+- branch: stable
+  date: '2023-07-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zijin/releases/download/stable-20.07.2023/fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zijin/fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
+  filename: fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TLPCNXM
 - branch: stable
   date: '2023-04-20'
   downloads:

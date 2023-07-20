@@ -1320,6 +1320,12 @@
   version: V14.0.3.0.TLMCNXM
 - android: '13.0'
   codename: nabu
+  date: '2023-07-20'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKXMIXM/fw_nabu_miui_NABUGlobal_V14.0.5.0.TKXMIXM_f69ecfca1a_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.5.0.TKXMIXM
+- android: '13.0'
+  codename: nabu
   date: '2023-05-16'
   download: https://bigota.d.miui.com/V14.0.5.0.TKXEUXM/fw_nabu_miui_NABUEEAGlobal_V14.0.5.0.TKXEUXM_81d00ede6e_13.0.zip
   name: Xiaomi Pad 5
@@ -1786,6 +1792,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TMMCNXM/fw_rembrandt_miui_REMBRANDT_V14.0.1.0.TMMCNXM_c31c7e55ea_13.0.zip
   name: Redmi K60E
   version: V14.0.1.0.TMMCNXM
+- android: '13.0'
+  codename: renoir
+  date: '2023-07-20'
+  download: https://bigota.d.miui.com/V14.0.10.0.TKICNXM/fw_renoir_miui_RENOIR_V14.0.10.0.TKICNXM_49b2859258_13.0.zip
+  name: Mi 11 Lite 5G
+  version: V14.0.10.0.TKICNXM
 - android: '13.0'
   codename: renoir
   date: '2023-01-20'
@@ -2866,6 +2878,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V14.0.5.0.TLBMIXM_3e6bbfed12_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.5.0.TLBMIXM
+- android: '13.0'
+  codename: zijin
+  date: '2023-07-20'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLPCNXM/fw_zijin_miui_ZIJIN_V14.0.5.0.TLPCNXM_6473eea062_13.0.zip
+  name: Xiaomi Civi 1S
+  version: V14.0.5.0.TLPCNXM
 - android: '13.0'
   codename: zijin
   date: '2023-04-20'
