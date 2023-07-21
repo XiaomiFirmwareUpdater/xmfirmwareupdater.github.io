@@ -1487,6 +1487,12 @@
   name: Redmi Note 12T Pro
   version: V14.0.5.0.TLHCNXM
 - android: '13.0'
+  codename: pearl
+  date: '2023-07-21'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLHCNXM/fw_pearl_miui_PEARL_V14.0.6.0.TLHCNXM_82e08d35ea_13.0.zip
+  name: Redmi Note 12T Pro
+  version: V14.0.6.0.TLHCNXM
+- android: '13.0'
   codename: pipa
   date: '2023-04-26'
   download: https://bigota.d.miui.com/V14.0.4.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.4.0.TMZCNXM_cde299f766_13.0.zip
@@ -2296,6 +2302,12 @@
   download: https://bigota.d.miui.com/V14.0.14.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.14.0.TLIEUXM_de898d7207_13.0.zip
   name: Xiaomi 12 Lite
   version: V14.0.14.0.TLIEUXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-07-21'
+  download: https://bigota.d.miui.com/V14.0.17.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.17.0.TLIEUXM_009c4812c3_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.17.0.TLIEUXM
 - android: '13.0'
   codename: taoyao
   date: '2023-03-14'
