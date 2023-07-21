@@ -27649,16 +27649,6 @@
     android: '13.0'
     miui: V14.0.10.0.TMACNXM
 - branch: stable
-  date: '2023-05-25'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-26.05.2023/fw_ishtar_miui_ISHTARGlobal_V14.0.1.0.TMAMIXM_ffe251741c_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTARGlobal_V14.0.1.0.TMAMIXM_ffe251741c_13.0.zip
-  filename: fw_ishtar_miui_ISHTARGlobal_V14.0.1.0.TMAMIXM_ffe251741c_13.0.zip
-  region: Global
-  versions:
-    android: '13.0'
-    miui: V14.0.1.0.TMAMIXM
-- branch: stable
   date: '2023-06-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-19.06.2023/fw_ishtar_miui_ISHTAR_V14.0.16.0.TMACNXM_8409e2712d_13.0.zip
@@ -36129,6 +36119,16 @@
     android: '13.0'
     miui: V14.0.22.0.TMNCNXM
 - branch: stable
+  date: '2023-07-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-21.07.2023/fw_mondrian_miui_MONDRIAN_V14.0.26.0.TMNCNXM_4917818288_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIAN_V14.0.26.0.TMNCNXM_4917818288_13.0.zip
+  filename: fw_mondrian_miui_MONDRIAN_V14.0.26.0.TMNCNXM_4917818288_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.26.0.TMNCNXM
+- branch: stable
   date: '2023-01-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-17.01.2023/fw_mondrian_miui_MONDRIAN_V14.0.18.0.TMNCNXM_083f307903_13.0.zip
@@ -36738,6 +36738,16 @@
   versions:
     android: '12.0'
     miui: V13.1.5.0.SKXCNXM
+- branch: stable
+  date: '2023-07-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-21.07.2023/fw_nabu_miui_NABUEEAGlobal_V14.0.6.0.TKXEUXM_b5f4368b2c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUEEAGlobal_V14.0.6.0.TKXEUXM_b5f4368b2c_13.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V14.0.6.0.TKXEUXM_b5f4368b2c_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKXEUXM
 - branch: stable
   date: '2022-10-20'
   downloads:
