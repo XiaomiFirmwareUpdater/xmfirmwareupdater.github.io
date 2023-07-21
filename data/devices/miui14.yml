@@ -600,6 +600,12 @@
   version: V14.0.3.0.TKEINXM
 - android: '13.0'
   codename: fog
+  date: '2023-07-21'
+  download: https://bigota.d.miui.com/V14.0.3.0.TGEMIXM/fw_fog_miui_FOGGlobal_V14.0.3.0.TGEMIXM_f8ab7d38c5_13.0.zip
+  name: Redmi 10C
+  version: V14.0.3.0.TGEMIXM
+- android: '13.0'
+  codename: fog
   date: '2023-06-20'
   download: https://bigota.d.miui.com/V14.0.2.0.TGEMIXM/fw_fog_miui_FOGGlobal_V14.0.2.0.TGEMIXM_d9fc7d070f_13.0.zip
   name: Redmi 10C
@@ -922,6 +928,18 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SJQEUXM/fw_lime_miui_LIMEEEAGlobal_V14.0.3.0.SJQEUXM_e92886abdd_12.0.zip
   name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
   version: V14.0.3.0.SJQEUXM
+- android: '12.0'
+  codename: lime
+  date: '2023-07-21'
+  download: https://bigota.d.miui.com/V14.0.5.0.SJQEUXM/fw_lime_miui_LIMEEEAGlobal_V14.0.5.0.SJQEUXM_2f7311e884_12.0.zip
+  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
+  version: V14.0.5.0.SJQEUXM
+- android: '12.0'
+  codename: lime
+  date: '2023-07-21'
+  download: https://bigota.d.miui.com/V14.0.5.0.SJQMIXM/fw_lime_miui_LIMEGlobal_V14.0.5.0.SJQMIXM_057bc83463_12.0.zip
+  name: Redmi Note 9 4G/Redmi 9T/Redmi 9 Power
+  version: V14.0.5.0.SJQMIXM
 - android: '12.0'
   codename: lime
   date: '2023-04-10'
@@ -1858,6 +1876,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TLUEUXM/fw_rock_miui_ROCKEEAGlobal_V14.0.1.0.TLUEUXM_8d81d0013c_13.0.zip
   name: POCO M5/Redmi 11 Prime 4G
   version: V14.0.1.0.TLUEUXM
+- android: '13.0'
+  codename: rock
+  date: '2023-07-21'
+  download: https://bigota.d.miui.com/V14.0.2.0.TLUINXM/fw_rock_miui_ROCKINGlobal_V14.0.2.0.TLUINXM_2a03c56898_13.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: V14.0.2.0.TLUINXM
 - android: '13.0'
   codename: rock
   date: '2023-05-21'
@@ -2902,6 +2926,12 @@
   download: https://bigota.d.miui.com/V14.0.12.0.TLLCNXM/fw_ziyi_miui_ZIYI_V14.0.12.0.TLLCNXM_cb3f94575d_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.12.0.TLLCNXM
+- android: '13.0'
+  codename: ziyi
+  date: '2023-07-21'
+  download: https://bigota.d.miui.com/V14.0.3.0.TLLMIXM/fw_ziyi_miui_ZIYIGlobal_V14.0.3.0.TLLMIXM_e6bb63c2aa_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.3.0.TLLMIXM
 - android: '13.0'
   codename: ziyi
   date: '2023-05-12'
