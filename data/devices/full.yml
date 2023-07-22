@@ -20749,6 +20749,16 @@
     android: '12.0'
     miui: V13.0.5.0.SCVMIXM
 - branch: stable
+  date: '2023-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.07.2023/fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
+  filename: fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TCVMIXM
+- branch: stable
   date: '2023-05-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.05.2023/fw_earth_miui_EARTHINGlobal_V13.0.3.0.SCVINXM_1bfad882c9_12.0.zip
@@ -62649,6 +62659,16 @@
     android: '11.0'
     miui: V13.0.6.0.RKCCNXM
 - branch: stable
+  date: '2023-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-22.07.2023/fw_veux_miui_VEUXINGlobal_V14.0.3.0.TKCINXM_c913fd3018_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/veux/fw_veux_miui_VEUXINGlobal_V14.0.3.0.TKCINXM_c913fd3018_13.0.zip
+  filename: fw_veux_miui_VEUXINGlobal_V14.0.3.0.TKCINXM_c913fd3018_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TKCINXM
+- branch: stable
   date: '2022-06-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_veux/releases/download/stable-22.06.2022/fw_veux_miui_VEUX_V13.0.7.0.RKCCNXM_060a64dc48_11.0.zip
@@ -65998,6 +66018,16 @@
   versions:
     android: '13.0'
     miui: V14.0.2.0.TLOINXM
+- branch: stable
+  date: '2023-07-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-22.07.2023/fw_xaga_miui_XAGAGlobal_V14.0.5.0.TLOMIXM_6b421fe451_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGAGlobal_V14.0.5.0.TLOMIXM_6b421fe451_13.0.zip
+  filename: fw_xaga_miui_XAGAGlobal_V14.0.5.0.TLOMIXM_6b421fe451_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TLOMIXM
 - branch: stable
   date: '2022-10-21'
   downloads:

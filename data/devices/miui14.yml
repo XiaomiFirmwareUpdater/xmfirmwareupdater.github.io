@@ -492,6 +492,12 @@
   version: V14.0.3.0.TCVEUXM
 - android: '13.0'
   codename: earth
+  date: '2023-07-22'
+  download: https://bigota.d.miui.com/V14.0.4.0.TCVMIXM/fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
+  name: Redmi 12C/POCO C55
+  version: V14.0.4.0.TCVMIXM
+- android: '13.0'
+  codename: earth
   date: '2023-07-08'
   download: https://bigota.d.miui.com/V14.0.2.0.TCVINXM/fw_earth_miui_EARTHINGlobal_V14.0.2.0.TCVINXM_44134a2261_13.0.zip
   name: Redmi 12C/POCO C55
@@ -2634,6 +2640,12 @@
   version: V14.0.1.0.TKCCNXM
 - android: '13.0'
   codename: veux
+  date: '2023-07-22'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKCINXM/fw_veux_miui_VEUXINGlobal_V14.0.3.0.TKCINXM_c913fd3018_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V14.0.3.0.TKCINXM
+- android: '13.0'
+  codename: veux
   date: '2023-06-21'
   download: https://bigota.d.miui.com/V14.0.1.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_V14.0.1.0.TKCEUXM_404df87ca1_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
@@ -2776,6 +2788,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TLOINXM/fw_xaga_miui_XAGAINGlobal_V14.0.2.0.TLOINXM_6a469f9ae6_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.2.0.TLOINXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-07-22'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.5.0.TLOMIXM_6b421fe451_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.5.0.TLOMIXM
 - android: '13.0'
   codename: xaga
   date: '2023-03-15'

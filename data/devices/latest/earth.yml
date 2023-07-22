@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-05-26'
+  date: '2023-07-22'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-26.05.2023/fw_earth_miui_EARTHGlobal_V13.0.7.0.SCVMIXM_df45be6a45_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHGlobal_V13.0.7.0.SCVMIXM_df45be6a45_12.0.zip
-  filename: fw_earth_miui_EARTHGlobal_V13.0.7.0.SCVMIXM_df45be6a45_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-22.07.2023/fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
+  filename: fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
   region: Global
   versions:
-    android: '12.0'
-    miui: V13.0.7.0.SCVMIXM
+    android: '13.0'
+    miui: V14.0.4.0.TCVMIXM
 - branch: stable
   date: '2023-05-29'
   downloads:
