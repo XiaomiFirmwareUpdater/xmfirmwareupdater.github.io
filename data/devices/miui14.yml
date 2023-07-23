@@ -900,6 +900,12 @@
   version: V14.0.3.0.TLSMIXM
 - android: '13.0'
   codename: light
+  date: '2023-07-23'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLSMIXM/fw_light_miui_LIGHTGlobal_V14.0.4.0.TLSMIXM_c8b1d47ee5_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.4.0.TLSMIXM
+- android: '13.0'
+  codename: light
   date: '2023-05-21'
   download: https://bigota.d.miui.com/V14.0.4.0.TLSINXM/fw_light_miui_LIGHTINGlobal_V14.0.4.0.TLSINXM_6f0f2c6476_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
