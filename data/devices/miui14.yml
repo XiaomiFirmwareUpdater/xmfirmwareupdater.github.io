@@ -606,6 +606,12 @@
   version: V14.0.3.0.TKEINXM
 - android: '13.0'
   codename: fog
+  date: '2023-07-23'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGEEUXM/fw_fog_miui_FOGEEAGlobal_V14.0.2.0.TGEEUXM_af0cd84fa4_13.0.zip
+  name: Redmi 10C
+  version: V14.0.2.0.TGEEUXM
+- android: '13.0'
+  codename: fog
   date: '2023-07-21'
   download: https://bigota.d.miui.com/V14.0.3.0.TGEMIXM/fw_fog_miui_FOGGlobal_V14.0.3.0.TGEMIXM_f8ab7d38c5_13.0.zip
   name: Redmi 10C
@@ -2452,6 +2458,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TGACNXM/fw_thyme_miui_THYME_V14.0.5.0.TGACNXM_bd6a7e7e60_13.0.zip
   name: Mi 10S
   version: V14.0.5.0.TGACNXM
+- android: '13.0'
+  codename: topaz
+  date: '2023-07-23'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMGMIXM/fw_topaz_miui_TOPAZGlobal_V14.0.5.0.TMGMIXM_fe6ea14cd3_13.0.zip
+  name: Redmi Note 12 4G NFC
+  version: V14.0.5.0.TMGMIXM
 - android: '13.0'
   codename: topaz
   date: '2023-06-21'
