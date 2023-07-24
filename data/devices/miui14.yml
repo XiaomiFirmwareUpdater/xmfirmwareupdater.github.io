@@ -2004,6 +2004,12 @@
   version: V14.0.2.0.TKLEUXM
 - android: '13.0'
   codename: rubens
+  date: '2023-07-24'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.7.0.TLNCNXM_c0ff116acf_13.0.zip
+  name: Redmi K50
+  version: V14.0.7.0.TLNCNXM
+- android: '13.0'
+  codename: rubens
   date: '2023-04-18'
   download: https://bigota.d.miui.com/V14.0.6.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.6.0.TLNCNXM_93dd11c7a1_13.0.zip
   name: Redmi K50
@@ -2098,6 +2104,12 @@
   download: https://bigota.d.miui.com/V14.0.10.0.SMOEUXM/fw_ruby_miui_RUBYEEAGlobal_V14.0.10.0.SMOEUXM_fa5882d233_12.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: V14.0.10.0.SMOEUXM
+- android: '13.0'
+  codename: sea
+  date: '2023-07-24'
+  download: https://bigota.d.miui.com/V14.0.3.0.THZEUXM/fw_sea_miui_SEAEEAGlobal_V14.0.3.0.THZEUXM_446d9944ef_13.0.zip
+  name: Redmi Note 12S
+  version: V14.0.3.0.THZEUXM
 - android: '13.0'
   codename: sea
   date: '2023-06-25'
