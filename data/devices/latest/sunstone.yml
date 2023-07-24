@@ -9,15 +9,15 @@
     android: '13.0'
     miui: V14.0.4.0.TMQMIXM
 - branch: stable
-  date: '2023-07-17'
+  date: '2023-07-24'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-17.07.2023/fw_sunstone_miui_SUNSTONE_V14.0.6.0.TMQCNXM_8596ca11c3_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONE_V14.0.6.0.TMQCNXM_8596ca11c3_13.0.zip
-  filename: fw_sunstone_miui_SUNSTONE_V14.0.6.0.TMQCNXM_8596ca11c3_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-24.07.2023/fw_sunstone_miui_SUNSTONE_V14.0.7.0.TMQCNXM_b63bb7456c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONE_V14.0.7.0.TMQCNXM_b63bb7456c_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONE_V14.0.7.0.TMQCNXM_b63bb7456c_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TMQCNXM
+    miui: V14.0.7.0.TMQCNXM
 - branch: stable
   date: '2023-07-11'
   downloads:

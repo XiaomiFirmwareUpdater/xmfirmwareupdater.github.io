@@ -90,6 +90,12 @@
   version: V14.0.1.0.SJDMIXM
 - android: '13.0'
   codename: ares
+  date: '2023-07-24'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKJCNXM/fw_ares_miui_ARES_V14.0.4.0.TKJCNXM_511d5498e5_13.0.zip
+  name: Redmi K40 Gaming/POCO F3 GT
+  version: V14.0.4.0.TKJCNXM
+- android: '13.0'
+  codename: ares
   date: '2023-04-20'
   download: https://bigota.d.miui.com/V14.0.3.0.TKJCNXM/fw_ares_miui_ARES_V14.0.3.0.TKJCNXM_4c4e40a144_13.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
@@ -736,6 +742,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TKKCNXM/fw_haydn_miui_HAYDN_V14.0.5.0.TKKCNXM_f3d9ef8d03_13.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
   version: V14.0.5.0.TKKCNXM
+- android: '13.0'
+  codename: haydn
+  date: '2023-07-24'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKKMIXM/fw_haydn_miui_HAYDNGlobal_V14.0.6.0.TKKMIXM_a0c81091da_13.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V14.0.6.0.TKKMIXM
 - android: '13.0'
   codename: haydn
   date: '2023-06-21'
@@ -2206,6 +2218,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.SMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.6.0.SMQEUXM_85ffd31644_12.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: V14.0.6.0.SMQEUXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-07-24'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMQCNXM/fw_sunstone_miui_SUNSTONE_V14.0.7.0.TMQCNXM_b63bb7456c_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.7.0.TMQCNXM
 - android: '12.0'
   codename: sunstone
   date: '2023-03-23'
