@@ -174,6 +174,12 @@
   version: V14.0.1.0.TKSEUXM
 - android: '12.0'
   codename: cannon
+  date: '2023-07-24'
+  download: https://bigota.d.miui.com/V14.0.5.0.SJECNXM/fw_cannon_miui_CANNON_V14.0.5.0.SJECNXM_3de84bdf81_12.0.zip
+  name: Redmi Note 9 5G
+  version: V14.0.5.0.SJECNXM
+- android: '12.0'
+  codename: cannon
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.2.0.SJECNXM/fw_cannon_miui_CANNON_V14.0.2.0.SJECNXM_37e6139886_12.0.zip
   name: Redmi Note 9 5G
@@ -2484,6 +2490,12 @@
   version: V14.0.5.0.TGACNXM
 - android: '13.0'
   codename: topaz
+  date: '2023-07-24'
+  download: https://bigota.d.miui.com/V14.0.10.0.TMGEUXM/fw_topaz_miui_TOPAZEEAGlobal_V14.0.10.0.TMGEUXM_7673a8c890_13.0.zip
+  name: Redmi Note 12 4G NFC
+  version: V14.0.10.0.TMGEUXM
+- android: '13.0'
+  codename: topaz
   date: '2023-07-23'
   download: https://bigota.d.miui.com/V14.0.5.0.TMGMIXM/fw_topaz_miui_TOPAZGlobal_V14.0.5.0.TMGMIXM_fe6ea14cd3_13.0.zip
   name: Redmi Note 12 4G NFC
@@ -3004,6 +3016,12 @@
   download: https://bigota.d.miui.com/V14.0.12.0.TLLCNXM/fw_ziyi_miui_ZIYI_V14.0.12.0.TLLCNXM_cb3f94575d_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.12.0.TLLCNXM
+- android: '13.0'
+  codename: ziyi
+  date: '2023-07-24'
+  download: https://bigota.d.miui.com/V14.0.5.0.TLLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.5.0.TLLEUXM_fc0ff3a66b_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.5.0.TLLEUXM
 - android: '13.0'
   codename: ziyi
   date: '2023-07-21'
