@@ -3486,12 +3486,6 @@
   version: 21.12.1
 - android: '11.0'
   codename: gauguin
-  date: '2021-10-29'
-  download: https://bigota.d.miui.com/21.10.28/miui_GAUGUIN_21.10.28_5f099ef15e_11.0.zip
-  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
-  version: 21.10.28
-- android: '11.0'
-  codename: gauguin
   date: '2021-07-29'
   download: https://bigota.d.miui.com/21.7.28/miui_GAUGUIN_21.7.28_e807dee516_11.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
@@ -3508,12 +3502,6 @@
   download: https://bigota.d.miui.com/21.1.28/miui_GAUGUIN_21.1.28_917b166068_11.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: 21.1.28
-- android: '11.0'
-  codename: gauguin
-  date: '2021-08-26'
-  download: https://bigota.d.miui.com/21.8.25/miui_GAUGUIN_21.8.25_221ddd6737_11.0.zip
-  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
-  version: 21.8.25
 - android: '11.0'
   codename: gauguin
   date: '2021-05-27'
@@ -3582,12 +3570,6 @@
   version: 21.5.12
 - android: '11.0'
   codename: gauguin
-  date: '2021-11-12'
-  download: https://bigota.d.miui.com/21.11.10/miui_GAUGUIN_21.11.10_3269786b57_11.0.zip
-  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
-  version: 21.11.10
-- android: '11.0'
-  codename: gauguin
   date: '2021-04-18'
   download: https://bigota.d.miui.com/21.3.10/miui_GAUGUIN_21.3.10_adc3c37392_11.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
@@ -3598,12 +3580,6 @@
   download: https://bigota.d.miui.com/21.12.8/miui_GAUGUIN_21.12.8_780f821dad_11.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: 21.12.8
-- android: '11.0'
-  codename: gauguin
-  date: '2021-06-10'
-  download: https://bigota.d.miui.com/21.6.9/miui_GAUGUIN_21.6.9_3257b11170_11.0.zip
-  name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
-  version: 21.6.9
 - android: '11.0'
   codename: gauguin
   date: '2021-09-09'
