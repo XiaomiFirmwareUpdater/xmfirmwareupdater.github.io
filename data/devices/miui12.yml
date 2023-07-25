@@ -2086,12 +2086,6 @@
   download: https://bigota.d.miui.com/21.8.4/miui_CAS_21.8.4_8240129ccd_11.0.zip
   name: Mi 10 Ultra
   version: 21.8.4
-- android: '11.0'
-  codename: cas
-  date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.3.3/miui_CAS_21.3.3_5d2128784b_11.0.zip
-  name: Mi 10 Ultra
-  version: 21.3.3
 - android: '12.0'
   codename: cas
   date: '2021-12-04'
@@ -2128,12 +2122,6 @@
   download: https://bigota.d.miui.com/21.6.2/miui_CAS_21.6.2_493ef4d612_11.0.zip
   name: Mi 10 Ultra
   version: 21.6.2
-- android: '11.0'
-  codename: cas
-  date: '2021-10-02'
-  download: https://bigota.d.miui.com/21.9.28/miui_CAS_21.9.28_b198e07d33_11.0.zip
-  name: Mi 10 Ultra
-  version: 21.9.28
 - android: '11.0'
   codename: cas
   date: '2021-07-02'
