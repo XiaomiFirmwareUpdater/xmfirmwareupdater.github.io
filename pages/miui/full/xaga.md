@@ -52,7 +52,8 @@ permalink: /archive/miui/xaga/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TLOMIXM</td><td>13.0</td><td>5.0 GB</td><td>2023-07-19</td><td><a href="/miui/xaga/stable beta/V14.0.5.0.TLOMIXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLOMIXM</td><td>13.0</td><td>5.0 GB</td><td>2023-07-19</td><td><a href="/miui/xaga/stable/V14.0.5.0.TLOMIXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLOMIXM</td><td>13.0</td><td>7.7 GB</td><td>2023-07-10</td><td><a href="/miui/xaga/stable/V14.0.5.0.TLOMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.10.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-07-14</td><td><a href="/miui/xaga/public beta/V14.0.23.7.10.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.3.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-07-07</td><td><a href="/miui/xaga/public beta/V14.0.23.7.3.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.26.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-06-30</td><td><a href="/miui/xaga/public beta/V14.0.23.6.26.DEV/">Download</a></td></tr>
@@ -82,9 +83,9 @@ permalink: /archive/miui/xaga/
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.4.2.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-04-07</td><td><a href="/miui/xaga/public beta/V14.0.23.4.2.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.27.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-31</td><td><a href="/miui/xaga/public beta/V14.0.23.3.27.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-24</td><td><a href="/miui/xaga/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
-<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-17</td><td><a href="/miui/xaga/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50i / Pro India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLOINXM</td><td>13.0</td><td>6.3 GB</td><td>2023-03-16</td><td><a href="/miui/xaga/stable/V14.0.2.0.TLOINXM/">Download</a></td></tr>
 <tr><td>Redmi K50i / Pro India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLOINXM</td><td>13.0</td><td>4.9 GB</td><td>2023-03-22</td><td><a href="/miui/xaga/stable/V14.0.2.0.TLOINXM/">Download</a></td></tr>
+<tr><td>Redmi K50i / Pro India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLOINXM</td><td>13.0</td><td>6.3 GB</td><td>2023-03-16</td><td><a href="/miui/xaga/stable/V14.0.2.0.TLOINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-17</td><td><a href="/miui/xaga/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLORUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-03-15</td><td><a href="/miui/xaga/stable/V14.0.1.0.TLORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLORUXM</td><td>13.0</td><td>6.8 GB</td><td>2023-02-24</td><td><a href="/miui/xaga/stable/V14.0.1.0.TLORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-10</td><td><a href="/miui/xaga/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
