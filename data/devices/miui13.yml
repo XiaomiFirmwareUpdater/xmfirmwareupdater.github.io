@@ -820,6 +820,12 @@
   download: https://bigota.d.miui.com/V13.0.6.0.SJJCNXM/fw_cas_miui_CAS_V13.0.6.0.SJJCNXM_4039d0163b_12.0.zip
   name: Mi 10 Ultra
   version: V13.0.6.0.SJJCNXM
+- android: '12.0'
+  codename: cas
+  date: '2022-04-06'
+  download: https://bigota.d.miui.com/V13.0.3.0.SJJCNXM/fw_cas_miui_CAS_V13.0.3.0.SJJCNXM_6403d3baa1_12.0.zip
+  name: Mi 10 Ultra
+  version: V13.0.3.0.SJJCNXM
 - android: '11.0'
   codename: cezanne
   date: '2022-03-04'
