@@ -2238,6 +2238,12 @@
   version: V14.0.9.0.TKACNXM
 - android: '13.0'
   codename: star
+  date: '2023-07-27'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKAMIXM/fw_star_miui_STARGlobal_V14.0.4.0.TKAMIXM_6538dcc3b8_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.4.0.TKAMIXM
+- android: '13.0'
+  codename: star
   date: '2023-03-27'
   download: https://bigota.d.miui.com/V14.0.1.0.TKAINXM/fw_star_miui_STARINGlobal_V14.0.1.0.TKAINXM_823ac4c79b_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
