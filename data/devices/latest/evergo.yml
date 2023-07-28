@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-05-26'
+  date: '2023-07-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-26.05.2023/fw_evergo_miui_EVERGO_V14.0.2.0.TGBCNXM_4c16a77b66_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/evergo/fw_evergo_miui_EVERGO_V14.0.2.0.TGBCNXM_4c16a77b66_13.0.zip
-  filename: fw_evergo_miui_EVERGO_V14.0.2.0.TGBCNXM_4c16a77b66_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-28.07.2023/fw_evergo_miui_EVERGO_V13.0.12.0.SGBCNXM_816aa8d1c8_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergo/fw_evergo_miui_EVERGO_V13.0.12.0.SGBCNXM_816aa8d1c8_12.0.zip
+  filename: fw_evergo_miui_EVERGO_V13.0.12.0.SGBCNXM_816aa8d1c8_12.0.zip
   region: China
   versions:
-    android: '13.0'
-    miui: V14.0.2.0.TGBCNXM
+    android: '12.0'
+    miui: V13.0.12.0.SGBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

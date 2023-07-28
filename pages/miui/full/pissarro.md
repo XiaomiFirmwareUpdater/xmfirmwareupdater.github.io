@@ -52,7 +52,8 @@ permalink: /archive/miui/pissarro/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11i 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TKTINFK</td><td>13.0</td><td>3.9 GB</td><td>2023-07-19</td><td><a href="/miui/pissarro/stable beta/V14.0.6.0.TKTINFK/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.17.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-07-21</td><td><a href="/miui/pissarro/public beta/V14.0.23.7.17.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 11i 5G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TKTINFK</td><td>13.0</td><td>3.9 GB</td><td>2023-07-19</td><td><a href="/miui/pissarro/stable beta/V14.0.6.0.TKTINFK/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro / Pro+ China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.3.DEV</td><td>13.0</td><td>4.2 GB</td><td>2023-07-07</td><td><a href="/miui/pissarro/public beta/V14.0.23.7.3.DEV/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKTEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-07-05</td><td><a href="/miui/pissarro/stable/V14.0.5.0.TKTEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 Pro+ 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKTEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-06-25</td><td><a href="/miui/pissarro/stable/V14.0.5.0.TKTEUXM/">Download</a></td></tr>
