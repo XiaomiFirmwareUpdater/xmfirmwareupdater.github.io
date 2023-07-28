@@ -13189,16 +13189,6 @@
     android: '12.0'
     miui: 21.11.24
 - branch: weekly
-  date: '2021-08-26'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-26.08.2021/fw_chopin_miui_CHOPIN_21.8.25_b72d41524e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.8.25/chopin/fw_chopin_miui_CHOPIN_21.8.25_b72d41524e_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.8.25_b72d41524e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.8.25
-- branch: weekly
   date: '2022-03-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-25.03.2022/fw_chopin_miui_CHOPINPRE_22.3.23_cf453f3483_12.0.zip
@@ -13348,26 +13338,6 @@
   versions:
     android: '11.0'
     miui: 21.9.8
-- branch: weekly
-  date: '2021-07-08'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-08.07.2021/fw_chopin_miui_CHOPIN_21.7.7_af3e96ff20_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.7.7/chopin/fw_chopin_miui_CHOPIN_21.7.7_af3e96ff20_11.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.7.7_af3e96ff20_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.7.7
-- branch: weekly
-  date: '2021-12-04'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/weekly-04.12.2021/fw_chopin_miui_CHOPIN_21.12.1_e8aaa4231d_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.12.1/chopin/fw_chopin_miui_CHOPIN_21.12.1_e8aaa4231d_12.0.zip
-  filename: fw_chopin_miui_CHOPIN_21.12.1_e8aaa4231d_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 21.12.1
 - branch: weekly
   date: '2022-03-04'
   downloads:
@@ -64478,6 +64448,16 @@
   versions:
     android: '12.0'
     miui: V13.0.5.0.SGDMIXM
+- branch: stable
+  date: '2023-05-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-22.05.2023/fw_viva_miui_VIVAGlobal_V14.0.2.0.TGDMIXM_70e8af00f6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/viva/fw_viva_miui_VIVAGlobal_V14.0.2.0.TGDMIXM_70e8af00f6_13.0.zip
+  filename: fw_viva_miui_VIVAGlobal_V14.0.2.0.TGDMIXM_70e8af00f6_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.2.0.TGDMIXM
 - branch: stable
   date: '2023-03-22'
   downloads:
