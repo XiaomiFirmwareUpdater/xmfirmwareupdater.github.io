@@ -2370,6 +2370,12 @@
   version: V14.0.3.0.TMQMIXM
 - android: '12.0'
   codename: surya
+  date: '2023-07-28'
+  download: https://bigota.d.miui.com/V14.0.2.0.SJGMIXM/fw_surya_miui_SURYAGlobal_V14.0.2.0.SJGMIXM_9aaad01ef3_12.0.zip
+  name: POCO X3 NFC
+  version: V14.0.2.0.SJGMIXM
+- android: '12.0'
+  codename: surya
   date: '2023-04-25'
   download: https://bigota.d.miui.com/V14.0.4.0.SJGEUXM/fw_surya_miui_SURYAEEAGlobal_V14.0.4.0.SJGEUXM_01956c8f69_12.0.zip
   name: POCO X3 NFC
@@ -3010,6 +3016,12 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TLYCNXM/fw_yunluo_miui_YUNLUO_V14.0.7.0.TLYCNXM_f4252959ff_13.0.zip
   name: Redmi Pad
   version: V14.0.7.0.TLYCNXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-07-28'
+  download: https://bigota.d.miui.com/V14.0.15.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V14.0.15.0.TLBEUXM_1d0561625b_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.15.0.TLBEUXM
 - android: '13.0'
   codename: zeus
   date: '2023-04-25'
