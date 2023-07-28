@@ -2555,6 +2555,12 @@
   name: Xiaomi 12S Ultra
   version: V14.0.5.0.TLACNXM
 - android: '13.0'
+  codename: thor
+  date: '2023-07-04'
+  download: https://bigota.d.miui.com/V14.0.13.0.TLACNXM/fw_thor_miui_THOR_V14.0.13.0.TLACNXM_baa8e01f50_13.0.zip
+  name: Xiaomi 12S Ultra
+  version: V14.0.13.0.TLACNXM
+- android: '13.0'
   codename: thyme
   date: '2023-06-05'
   download: https://bigota.d.miui.com/V14.0.5.0.TGACNXM/fw_thyme_miui_THYME_V14.0.5.0.TGACNXM_bd6a7e7e60_13.0.zip
@@ -2806,18 +2812,6 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKDMIXM/fw_vili_miui_VILIGlobal_V14.0.2.0.TKDMIXM_a419b72ee9_13.0.zip
   name: Xiaomi 11T Pro
   version: V14.0.2.0.TKDMIXM
-- android: '13.0'
-  codename: vili
-  date: '2023-03-15'
-  download: https://bigota.d.miui.com/V14.0.5.0.TKDEUXM/fw_vili_miui_VILIEEAGlobal_V14.0.5.0.TKDEUXM_eb90448a78_13.0.zip
-  name: Xiaomi 11T Pro
-  version: V14.0.5.0.TKDEUXM
-- android: '13.0'
-  codename: vili
-  date: '2023-03-15'
-  download: https://bigota.d.miui.com/V14.0.1.0.TKDMIXM/fw_vili_miui_VILIGlobal_V14.0.1.0.TKDMIXM_81b331177e_13.0.zip
-  name: Xiaomi 11T Pro
-  version: V14.0.1.0.TKDMIXM
 - android: '13.0'
   codename: vili
   date: '2023-07-13'
