@@ -1452,6 +1452,12 @@
   version: V14.0.3.0.TKXINXM
 - android: '13.0'
   codename: nuwa
+  date: '2023-07-31'
+  download: https://bigota.d.miui.com/V14.0.9.0.TMBINXM/fw_nuwa_miui_NUWAINGlobal_V14.0.9.0.TMBINXM_8c379e9527_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.9.0.TMBINXM
+- android: '13.0'
+  codename: nuwa
   date: '2023-03-30'
   download: https://bigota.d.miui.com/V14.0.22.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.22.0.TMBCNXM_7793384246_13.0.zip
   name: Xiaomi 13 Pro
@@ -2494,6 +2500,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.3.0.TLIMIXM_d27325e58f_13.0.zip
   name: Xiaomi 12 Lite
   version: V14.0.3.0.TLIMIXM
+- android: '13.0'
+  codename: tapas
+  date: '2023-07-31'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMTINXM/fw_tapas_miui_TAPASINGlobal_V14.0.7.0.TMTINXM_18af0a7aef_13.0.zip
+  name: Redmi Note 12 4G
+  version: V14.0.7.0.TMTINXM
 - android: '13.0'
   codename: tapas
   date: '2023-03-31'

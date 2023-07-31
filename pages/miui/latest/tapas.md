@@ -56,9 +56,9 @@ permalink: /miui/tapas/
 <tr><td>Redmi Note 12 4G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.12.0.TMTMIXM</td><td>13.0</td><td>4.2 GB</td><td>2023-07-14</td><td><a href="/miui/tapas/stable/V14.0.12.0.TMTMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMTINXM</td><td>13.0</td><td>5.7 GB</td><td>2023-06-27</td><td><a href="/miui/tapas/stable/V14.0.6.0.TMTINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMTINXM</td><td>13.0</td><td>4.1 GB</td><td>2023-07-04</td><td><a href="/miui/tapas/stable/V14.0.6.0.TMTINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMTTRXM</td><td>13.0</td><td>6.0 GB</td><td>2023-06-19</td><td><a href="/miui/tapas/stable/V14.0.4.0.TMTTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMTTRXM</td><td>13.0</td><td>4.1 GB</td><td>2023-06-28</td><td><a href="/miui/tapas/stable/V14.0.4.0.TMTTRXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 4G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TMTTRXM</td><td>13.0</td><td>4.1 GB</td><td>2023-07-25</td><td><a href="/miui/tapas/stable beta/V14.0.5.0.TMTTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TMTINXM</td><td>13.0</td><td>4.1 GB</td><td>2023-07-27</td><td><a href="/miui/tapas/stable beta/V14.0.7.0.TMTINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMTTRXM</td><td>13.0</td><td>6.1 GB</td><td>2023-07-17</td><td><a href="/miui/tapas/stable/V14.0.5.0.TMTTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMTTRXM</td><td>13.0</td><td>4.1 GB</td><td>2023-07-25</td><td><a href="/miui/tapas/stable/V14.0.5.0.TMTTRXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
