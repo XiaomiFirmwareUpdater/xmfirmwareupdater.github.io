@@ -22849,6 +22849,16 @@
     android: '11.0'
     miui: V13.0.12.0.RGFMIXM
 - branch: stable
+  date: '2023-07-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-31.07.2023/fw_frost_miui_FROSTEEAGlobal_V13.0.9.0.RGFEUXM_fcf0fe6324_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/frost/fw_frost_miui_FROSTEEAGlobal_V13.0.9.0.RGFEUXM_fcf0fe6324_11.0.zip
+  filename: fw_frost_miui_FROSTEEAGlobal_V13.0.9.0.RGFEUXM_fcf0fe6324_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V13.0.9.0.RGFEUXM
+- branch: stable
   date: '2023-02-26'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_frost/releases/download/stable-27.02.2023/fw_frost_miui_FROSTGlobal_V13.0.17.0.RGFMIXM_002d23d939_11.0.zip
@@ -25118,6 +25128,16 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RCOINXM
+- branch: stable
+  date: '2022-09-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ginkgo/releases/download/stable-15.09.2022/fw_ginkgo_miui_GINKGOINGlobal_V12.5.2.0.RCOINXM_b8c1a9e6d5_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/ginkgo/fw_ginkgo_miui_GINKGOINGlobal_V12.5.2.0.RCOINXM_b8c1a9e6d5_11.0.zip
+  filename: fw_ginkgo_miui_GINKGOINGlobal_V12.5.2.0.RCOINXM_b8c1a9e6d5_11.0.zip
+  region: India
+  versions:
+    android: '11.0'
+    miui: V12.5.2.0.RCOINXM
 - branch: stable
   date: '2021-12-13'
   downloads:
@@ -48359,6 +48379,16 @@
     android: '11.0'
     miui: 21.6.30
 - branch: stable
+  date: '2023-07-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-31.07.2023/fw_renoir_miui_RENOIRGlobal_V14.0.6.0.TKIMIXM_ab98578b3a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/renoir/fw_renoir_miui_RENOIRGlobal_V14.0.6.0.TKIMIXM_ab98578b3a_13.0.zip
+  filename: fw_renoir_miui_RENOIRGlobal_V14.0.6.0.TKIMIXM_ab98578b3a_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKIMIXM
+- branch: stable
   date: '2021-04-30'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_renoir/releases/download/stable-30.04.2021/fw_renoir_miui_RENOIRGlobal_V12.0.2.0.RKIMIXM_18d2ad9cd4_11.0.zip
@@ -49988,6 +50018,16 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SMOCNXM
+- branch: stable
+  date: '2023-07-31'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-31.07.2023/fw_ruby_miui_RUBYGlobal_V14.0.1.0.TMOMIXM_82c8f3ec9b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYGlobal_V14.0.1.0.TMOMIXM_82c8f3ec9b_13.0.zip
+  filename: fw_ruby_miui_RUBYGlobal_V14.0.1.0.TMOMIXM_82c8f3ec9b_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TMOMIXM
 - branch: stable
   date: '2023-05-25'
   downloads:

@@ -1926,6 +1926,12 @@
   version: V14.0.1.0.TMMCNXM
 - android: '13.0'
   codename: renoir
+  date: '2023-07-31'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKIMIXM/fw_renoir_miui_RENOIRGlobal_V14.0.6.0.TKIMIXM_ab98578b3a_13.0.zip
+  name: Mi 11 Lite 5G
+  version: V14.0.6.0.TKIMIXM
+- android: '13.0'
+  codename: renoir
   date: '2023-07-26'
   download: https://bigota.d.miui.com/V14.0.8.0.TKIEUXM/fw_renoir_miui_RENOIREEAGlobal_V14.0.8.0.TKIEUXM_c39c64055a_13.0.zip
   name: Mi 11 Lite 5G
@@ -2068,6 +2074,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLNCNXM/fw_rubens_miui_RUBENS_V14.0.4.0.TLNCNXM_834ec7e175_13.0.zip
   name: Redmi K50
   version: V14.0.4.0.TLNCNXM
+- android: '13.0'
+  codename: ruby
+  date: '2023-07-31'
+  download: https://bigota.d.miui.com/V14.0.1.0.TMOMIXM/fw_ruby_miui_RUBYGlobal_V14.0.1.0.TMOMIXM_82c8f3ec9b_13.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.1.0.TMOMIXM
 - android: '12.0'
   codename: ruby
   date: '2023-05-25'
