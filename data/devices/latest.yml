@@ -4229,15 +4229,15 @@
     android: '13.0'
     miui: V14.0.3.0.TKUEUXM
 - branch: stable
-  date: '2023-05-04'
+  date: '2023-08-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-04.05.2023/fw_selene_miui_SELENEINGlobal_V13.0.7.0.SKUINXM_0f05eeb97a_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/selene/fw_selene_miui_SELENEINGlobal_V13.0.7.0.SKUINXM_0f05eeb97a_12.0.zip
-  filename: fw_selene_miui_SELENEINGlobal_V13.0.7.0.SKUINXM_0f05eeb97a_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-01.08.2023/fw_selene_miui_SELENEINGlobal_V14.0.6.0.TKUINXM_3cbda0ea78_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEINGlobal_V14.0.6.0.TKUINXM_3cbda0ea78_13.0.zip
+  filename: fw_selene_miui_SELENEINGlobal_V14.0.6.0.TKUINXM_3cbda0ea78_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.7.0.SKUINXM
+    android: '13.0'
+    miui: V14.0.6.0.TKUINXM
 - branch: stable
   date: '2023-05-24'
   downloads:
@@ -5149,15 +5149,15 @@
     android: '13.0'
     miui: V14.0.9.0.TGOEUXM
 - branch: stable
-  date: '2023-06-09'
+  date: '2023-08-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-09.06.2023/fw_water_miui_WATERINGlobal_V14.0.5.0.TGOINXM_7546d95734_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.5.0.TGOINXM_7546d95734_13.0.zip
-  filename: fw_water_miui_WATERINGlobal_V14.0.5.0.TGOINXM_7546d95734_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-01.08.2023/fw_water_miui_WATERINGlobal_V14.0.7.0.TGOINXM_c51b668493_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERINGlobal_V14.0.7.0.TGOINXM_c51b668493_13.0.zip
+  filename: fw_water_miui_WATERINGlobal_V14.0.7.0.TGOINXM_c51b668493_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TGOINXM
+    miui: V14.0.7.0.TGOINXM
 - branch: stable
   date: '2021-04-08'
   downloads:
