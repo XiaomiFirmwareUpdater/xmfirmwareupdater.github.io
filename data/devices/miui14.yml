@@ -425,6 +425,12 @@
   name: Xiaomi Pad 5 Pro 12.4
   version: V14.0.9.0.TLZCNXM
 - android: '13.0'
+  codename: dagu
+  date: '2023-08-03'
+  download: https://bigota.d.miui.com/V14.0.11.0.TLZCNXM/fw_dagu_miui_DAGU_V14.0.11.0.TLZCNXM_4a23a11fd2_13.0.zip
+  name: Xiaomi Pad 5 Pro 12.4
+  version: V14.0.11.0.TLZCNXM
+- android: '13.0'
   codename: daumier
   date: '2023-05-28'
   download: https://bigota.d.miui.com/V14.0.8.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.8.0.TLGCNXM_a3aff9f955_13.0.zip
@@ -1776,12 +1782,6 @@
   version: V14.0.1.0.TLDEUXM
 - android: '13.0'
   codename: psyche
-  date: '2023-05-04'
-  download: https://bigota.d.miui.com/V14.0.2.0.TLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.2.0.TLDEUXM_0a92436daf_13.0.zip
-  name: Xiaomi 12X
-  version: V14.0.2.0.TLDEUXM
-- android: '13.0'
-  codename: psyche
   date: '2023-04-03'
   download: https://bigota.d.miui.com/V14.0.9.0.TLDCNXM/fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
   name: Xiaomi 12X
@@ -2500,12 +2500,6 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.8.0.TLIEUXM_941e46cea6_13.0.zip
   name: Xiaomi 12 Lite
   version: V14.0.8.0.TLIEUXM
-- android: '13.0'
-  codename: taoyao
-  date: '2023-04-10'
-  download: https://bigota.d.miui.com/V14.0.9.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.9.0.TLIEUXM_f1d2aeb802_13.0.zip
-  name: Xiaomi 12 Lite
-  version: V14.0.9.0.TLIEUXM
 - android: '13.0'
   codename: taoyao
   date: '2023-07-06'
