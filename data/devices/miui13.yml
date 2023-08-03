@@ -3870,6 +3870,12 @@
   version: V13.0.2.0.SLDEUXM
 - android: '12.0'
   codename: psyche
+  date: '2022-12-08'
+  download: https://bigota.d.miui.com/V13.0.8.0.SLDEUXM/fw_psyche_miui_PSYCHEEEAGlobal_V13.0.8.0.SLDEUXM_88815585cf_12.0.zip
+  name: Xiaomi 12X
+  version: V13.0.8.0.SLDEUXM
+- android: '12.0'
+  codename: psyche
   date: '2022-11-08'
   download: https://bigota.d.miui.com/V13.0.5.0.SLDMIXM/fw_psyche_miui_PSYCHEGlobal_V13.0.5.0.SLDMIXM_792a965bb3_12.0.zip
   name: Xiaomi 12X
