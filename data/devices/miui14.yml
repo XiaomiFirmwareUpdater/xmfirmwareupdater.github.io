@@ -1012,6 +1012,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLSCNXM/fw_lightcm_miui_LIGHTCM_V14.0.4.0.TLSCNXM_38112ac52e_13.0.zip
   name: Redmi Note 11R
   version: V14.0.4.0.TLSCNXM
+- android: '13.0'
+  codename: lightcm
+  date: '2023-08-04'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLSCNXM/fw_lightcm_miui_LIGHTCM_V14.0.6.0.TLSCNXM_bd93639a59_13.0.zip
+  name: Redmi Note 11R
+  version: V14.0.6.0.TLSCNXM
 - android: '12.0'
   codename: lime
   date: '2023-05-22'
