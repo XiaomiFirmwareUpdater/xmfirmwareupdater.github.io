@@ -53,7 +53,6 @@ permalink: /archive/miui/marble/
                 </thead>
                 <tbody>
                 <tr><td>Redmi Note 12 Turbo China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.23.0.TMRCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-07-31</td><td><a href="/miui/marble/stable beta/V14.0.23.0.TMRCNXM/">Download</a></td></tr>
-<tr><td>Redmi Note 12 Turbo China</td><td>Stable Beta</td><td>Fastboot</td><td>V14.0.23.0.TMRCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-07-31</td><td><a href="/miui/marble/stable beta/V14.0.23.0.TMRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>V14.0.22.0.TMRCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-07-18</td><td><a href="/miui/marble/stable/V14.0.22.0.TMRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>V14.0.21.1.TMRCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-07-12</td><td><a href="/miui/marble/stable/V14.0.21.1.TMRCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Turbo China</td><td>Stable</td><td>Recovery</td><td>V14.0.21.0.TMRCNXM</td><td>13.0</td><td>6.0 GB</td><td>2023-07-11</td><td><a href="/miui/marble/stable/V14.0.21.0.TMRCNXM/">Download</a></td></tr>
