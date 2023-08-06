@@ -65,8 +65,10 @@ permalink: /miui/mondrian/
 <tr><td>POCO F5 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMNRUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-05-10</td><td><a href="/miui/mondrian/stable/V14.0.3.0.TMNRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMNTRXM</td><td>13.0</td><td>6.7 GB</td><td>2023-04-26</td><td><a href="/miui/mondrian/stable/V14.0.3.0.TMNTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMNTRXM</td><td>13.0</td><td>4.8 GB</td><td>2023-05-10</td><td><a href="/miui/mondrian/stable/V14.0.3.0.TMNTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMNTRXM</td><td>13.0</td><td>4.8 GB</td><td>2023-08-02</td><td><a href="/miui/mondrian/stable beta/V14.0.4.0.TMNTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMNTWXM</td><td>13.0</td><td>6.2 GB</td><td>2023-04-21</td><td><a href="/miui/mondrian/stable/V14.0.3.0.TMNTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMNTWXM</td><td>13.0</td><td>4.8 GB</td><td>2023-05-10</td><td><a href="/miui/mondrian/stable/V14.0.3.0.TMNTWXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMNTWXM</td><td>13.0</td><td>4.8 GB</td><td>2023-08-02</td><td><a href="/miui/mondrian/stable beta/V14.0.4.0.TMNTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -52,7 +52,9 @@ permalink: /archive/miui/mondrian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K60 China</td><td>Stable</td><td>Recovery</td><td>V14.0.26.0.TMNCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-07-18</td><td><a href="/miui/mondrian/stable/V14.0.26.0.TMNCNXM/">Download</a></td></tr>
+                <tr><td>POCO F5 Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMNTRXM</td><td>13.0</td><td>4.8 GB</td><td>2023-08-02</td><td><a href="/miui/mondrian/stable beta/V14.0.4.0.TMNTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMNTWXM</td><td>13.0</td><td>4.8 GB</td><td>2023-08-02</td><td><a href="/miui/mondrian/stable beta/V14.0.4.0.TMNTWXM/">Download</a></td></tr>
+<tr><td>Redmi K60 China</td><td>Stable</td><td>Recovery</td><td>V14.0.26.0.TMNCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-07-18</td><td><a href="/miui/mondrian/stable/V14.0.26.0.TMNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.26.0.TMNCNXM</td><td>13.0</td><td>7.4 GB</td><td>2023-07-11</td><td><a href="/miui/mondrian/stable/V14.0.26.0.TMNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.10.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-07-14</td><td><a href="/miui/mondrian/public beta/V14.0.23.7.10.DEV/">Download</a></td></tr>
 <tr><td>Redmi K60 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.3.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-07-07</td><td><a href="/miui/mondrian/public beta/V14.0.23.7.3.DEV/">Download</a></td></tr>
