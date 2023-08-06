@@ -9,15 +9,15 @@
     android: '13.0'
     miui: V14.0.3.0.TLLMIXM
 - branch: stable
-  date: '2023-08-05'
+  date: '2023-08-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-05.08.2023/fw_ziyi_miui_ZIYI_V14.0.13.0.TLLCNXM_89987661b7_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ziyi/fw_ziyi_miui_ZIYI_V14.0.13.0.TLLCNXM_89987661b7_13.0.zip
-  filename: fw_ziyi_miui_ZIYI_V14.0.13.0.TLLCNXM_89987661b7_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ziyi/releases/download/stable-06.08.2023/fw_ziyi_miui_ZIYI_V14.0.14.0.TLLCNXM_9e271d8259_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ziyi/fw_ziyi_miui_ZIYI_V14.0.14.0.TLLCNXM_9e271d8259_13.0.zip
+  filename: fw_ziyi_miui_ZIYI_V14.0.14.0.TLLCNXM_9e271d8259_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.13.0.TLLCNXM
+    miui: V14.0.14.0.TLLCNXM
 - branch: stable
   date: '2023-07-24'
   downloads:
