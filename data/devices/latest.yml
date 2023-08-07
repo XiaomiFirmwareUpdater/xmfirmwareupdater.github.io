@@ -3619,15 +3619,15 @@
     android: '12.0'
     miui: 22.3.24
 - branch: stable
-  date: '2023-05-04'
+  date: '2023-08-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-04.05.2023/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.2.0.TLDEUXM_0a92436daf_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.2.0.TLDEUXM_0a92436daf_13.0.zip
-  filename: fw_psyche_miui_PSYCHEEEAGlobal_V14.0.2.0.TLDEUXM_0a92436daf_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-07.08.2023/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.3.0.TLDEUXM_d7e574e727_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHEEEAGlobal_V14.0.3.0.TLDEUXM_d7e574e727_13.0.zip
+  filename: fw_psyche_miui_PSYCHEEEAGlobal_V14.0.3.0.TLDEUXM_d7e574e727_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.2.0.TLDEUXM
+    miui: V14.0.3.0.TLDEUXM
 - branch: stable
   date: '2021-07-23'
   downloads:
@@ -5359,15 +5359,15 @@
     android: '13.0'
     miui: V14.0.3.0.TLYEUXM
 - branch: stable
-  date: '2023-04-26'
+  date: '2023-08-07'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-26.04.2023/fw_yunluo_miui_YUNLUOINGlobal_V14.0.1.0.TLYINXM_c01e7cc1c2_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yunluo/fw_yunluo_miui_YUNLUOINGlobal_V14.0.1.0.TLYINXM_c01e7cc1c2_13.0.zip
-  filename: fw_yunluo_miui_YUNLUOINGlobal_V14.0.1.0.TLYINXM_c01e7cc1c2_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_yunluo/releases/download/stable-07.08.2023/fw_yunluo_miui_YUNLUOINGlobal_V14.0.2.0.TLYINXM_0927c7df84_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/yunluo/fw_yunluo_miui_YUNLUOINGlobal_V14.0.2.0.TLYINXM_0927c7df84_13.0.zip
+  filename: fw_yunluo_miui_YUNLUOINGlobal_V14.0.2.0.TLYINXM_0927c7df84_13.0.zip
   region: India
   versions:
     android: '13.0'
-    miui: V14.0.1.0.TLYINXM
+    miui: V14.0.2.0.TLYINXM
 - branch: stable
   date: '2023-04-25'
   downloads:
