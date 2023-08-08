@@ -2719,15 +2719,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2023-05-22'
+  date: '2023-08-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-23.05.2023/fw_mondrian_miui_MONDRIANGlobal_V14.0.4.0.TMNMIXM_80961dabba_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIANGlobal_V14.0.4.0.TMNMIXM_80961dabba_13.0.zip
-  filename: fw_mondrian_miui_MONDRIANGlobal_V14.0.4.0.TMNMIXM_80961dabba_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-08.08.2023/fw_mondrian_miui_MONDRIANGlobal_V14.0.5.0.TMNMIXM_d270bb06b0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIANGlobal_V14.0.5.0.TMNMIXM_d270bb06b0_13.0.zip
+  filename: fw_mondrian_miui_MONDRIANGlobal_V14.0.5.0.TMNMIXM_d270bb06b0_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMNMIXM
+    miui: V14.0.5.0.TMNMIXM
 - branch: stable
   date: '2023-07-21'
   downloads:
@@ -2739,15 +2739,15 @@
     android: '13.0'
     miui: V14.0.26.0.TMNCNXM
 - branch: stable
-  date: '2023-05-10'
+  date: '2023-08-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-10.05.2023/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.6.0.TMNEUXM_21046329fa_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.6.0.TMNEUXM_21046329fa_13.0.zip
-  filename: fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.6.0.TMNEUXM_21046329fa_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mondrian/releases/download/stable-08.08.2023/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.7.0.TMNEUXM_aa1e89787c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mondrian/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.7.0.TMNEUXM_aa1e89787c_13.0.zip
+  filename: fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.7.0.TMNEUXM_aa1e89787c_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TMNEUXM
+    miui: V14.0.7.0.TMNEUXM
 - branch: stable
   date: '2022-11-17'
   downloads:
@@ -4309,15 +4309,15 @@
     android: '13.0'
     miui: V14.0.23.0.TMKCNXM
 - branch: stable
-  date: '2023-06-06'
+  date: '2023-08-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-06.06.2023/fw_spes_miui_SPESGlobal_V14.0.2.0.TGCMIXM_f4e2e7b209_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/spes/fw_spes_miui_SPESGlobal_V14.0.2.0.TGCMIXM_f4e2e7b209_13.0.zip
-  filename: fw_spes_miui_SPESGlobal_V14.0.2.0.TGCMIXM_f4e2e7b209_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spes/releases/download/stable-08.08.2023/fw_spes_miui_SPESGlobal_V14.0.3.0.TGCMIXM_308da77f3c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/spes/fw_spes_miui_SPESGlobal_V14.0.3.0.TGCMIXM_308da77f3c_13.0.zip
+  filename: fw_spes_miui_SPESGlobal_V14.0.3.0.TGCMIXM_308da77f3c_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.2.0.TGCMIXM
+    miui: V14.0.3.0.TGCMIXM
 - branch: stable
   date: '2023-07-07'
   downloads:
@@ -4329,15 +4329,15 @@
     android: '13.0'
     miui: V14.0.1.0.TGCINXM
 - branch: stable
-  date: '2023-06-06'
+  date: '2023-08-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-06.06.2023/fw_spesn_miui_SPESNGlobal_V14.0.2.0.TGKMIXM_b001882d2d_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/spesn/fw_spesn_miui_SPESNGlobal_V14.0.2.0.TGKMIXM_b001882d2d_13.0.zip
-  filename: fw_spesn_miui_SPESNGlobal_V14.0.2.0.TGKMIXM_b001882d2d_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_spesn/releases/download/stable-08.08.2023/fw_spesn_miui_SPESNGlobal_V14.0.3.0.TGKMIXM_85b6e390cb_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/spesn/fw_spesn_miui_SPESNGlobal_V14.0.3.0.TGKMIXM_85b6e390cb_13.0.zip
+  filename: fw_spesn_miui_SPESNGlobal_V14.0.3.0.TGKMIXM_85b6e390cb_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.2.0.TGKMIXM
+    miui: V14.0.3.0.TGKMIXM
 - branch: stable
   date: '2023-07-11'
   downloads:

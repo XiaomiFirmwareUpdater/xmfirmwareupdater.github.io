@@ -1386,6 +1386,18 @@
   version: V14.0.6.0.TMNEUXM
 - android: '13.0'
   codename: mondrian
+  date: '2023-08-08'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.7.0.TMNEUXM_aa1e89787c_13.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: V14.0.7.0.TMNEUXM
+- android: '13.0'
+  codename: mondrian
+  date: '2023-08-08'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMNMIXM/fw_mondrian_miui_MONDRIANGlobal_V14.0.5.0.TMNMIXM_d270bb06b0_13.0.zip
+  name: Redmi K60/POCO F5 Pro
+  version: V14.0.5.0.TMNMIXM
+- android: '13.0'
+  codename: mondrian
   date: '2023-05-07'
   download: https://bigota.d.miui.com/V14.0.4.0.TMNEUXM/fw_mondrian_miui_MONDRIANEEAGlobal_V14.0.4.0.TMNEUXM_a88b38c468_13.0.zip
   name: Redmi K60/POCO F5 Pro
@@ -2316,6 +2328,12 @@
   version: V14.0.11.0.TMKCNXM
 - android: '13.0'
   codename: spes
+  date: '2023-08-08'
+  download: https://bigota.d.miui.com/V14.0.3.0.TGCMIXM/fw_spes_miui_SPESGlobal_V14.0.3.0.TGCMIXM_308da77f3c_13.0.zip
+  name: Redmi Note 11
+  version: V14.0.3.0.TGCMIXM
+- android: '13.0'
+  codename: spes
   date: '2023-07-07'
   download: https://bigota.d.miui.com/V14.0.1.0.TGCINXM/fw_spes_miui_SPESINGlobal_V14.0.1.0.TGCINXM_79ae0c9b16_13.0.zip
   name: Redmi Note 11
@@ -2332,6 +2350,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V14.0.1.0.TGKEUXM_83be9365d1_13.0.zip
   name: Redmi Note 11 NFC
   version: V14.0.1.0.TGKEUXM
+- android: '13.0'
+  codename: spesn
+  date: '2023-08-08'
+  download: https://bigota.d.miui.com/V14.0.3.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_V14.0.3.0.TGKMIXM_85b6e390cb_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.3.0.TGKMIXM
 - android: '13.0'
   codename: spesn
   date: '2023-06-06'
