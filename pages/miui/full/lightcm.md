@@ -52,7 +52,8 @@ permalink: /archive/miui/lightcm/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11R China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TLSCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-07-31</td><td><a href="/miui/lightcm/stable beta/V14.0.6.0.TLSCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11R China</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TLSCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-07-31</td><td><a href="/miui/lightcm/stable/V14.0.6.0.TLSCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11R China</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TLSCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-07-19</td><td><a href="/miui/lightcm/stable/V14.0.6.0.TLSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11R China</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLSCNXM</td><td>13.0</td><td>4.2 GB</td><td>2023-05-16</td><td><a href="/miui/lightcm/stable/V14.0.4.0.TLSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11R China</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLSCNXM</td><td>13.0</td><td>5.6 GB</td><td>2023-05-10</td><td><a href="/miui/lightcm/stable/V14.0.4.0.TLSCNXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11R China</td><td>Stable</td><td>Recovery</td><td>V13.0.20.0.SLSCNXM</td><td>12.0</td><td>3.9 GB</td><td>2023-04-19</td><td><a href="/miui/lightcm/stable/V13.0.20.0.SLSCNXM/">Download</a></td></tr>
