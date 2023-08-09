@@ -63,14 +63,12 @@ permalink: /miui/renoir/
 <tr><td>Mi 11 Lite 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TKIEUXM</td><td>13.0</td><td>4.6 GB</td><td>2023-07-21</td><td><a href="/miui/renoir/stable/V14.0.8.0.TKIEUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TKIMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-07-21</td><td><a href="/miui/renoir/stable/V14.0.6.0.TKIMIXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TKIMIXM</td><td>13.0</td><td>4.7 GB</td><td>2023-07-28</td><td><a href="/miui/renoir/stable/V14.0.6.0.TKIMIXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TKIJPXM</td><td>13.0</td><td>6.2 GB</td><td>2023-03-31</td><td><a href="/miui/renoir/stable/V14.0.2.0.TKIJPXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TKIJPXM</td><td>13.0</td><td>4.6 GB</td><td>2023-04-12</td><td><a href="/miui/renoir/stable/V14.0.2.0.TKIJPXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Japan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKIJPXM</td><td>13.0</td><td>4.5 GB</td><td>2023-08-04</td><td><a href="/miui/renoir/stable beta/V14.0.3.0.TKIJPXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKIJPXM</td><td>13.0</td><td>6.1 GB</td><td>2023-07-27</td><td><a href="/miui/renoir/stable/V14.0.3.0.TKIJPXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Japan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKIJPXM</td><td>13.0</td><td>4.5 GB</td><td>2023-08-04</td><td><a href="/miui/renoir/stable/V14.0.3.0.TKIJPXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKIRUXM</td><td>13.0</td><td>6.1 GB</td><td>2023-07-21</td><td><a href="/miui/renoir/stable/V14.0.5.0.TKIRUXM/">Download</a></td></tr>
 <tr><td>Mi 11 Lite 5G Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKIRUXM</td><td>13.0</td><td>4.6 GB</td><td>2023-07-28</td><td><a href="/miui/renoir/stable/V14.0.5.0.TKIRUXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TKITWXM</td><td>13.0</td><td>5.7 GB</td><td>2023-05-03</td><td><a href="/miui/renoir/stable/V14.0.4.0.TKITWXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TKITWXM</td><td>13.0</td><td>4.5 GB</td><td>2023-05-11</td><td><a href="/miui/renoir/stable/V14.0.4.0.TKITWXM/">Download</a></td></tr>
-<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TKITWXM</td><td>13.0</td><td>4.5 GB</td><td>2023-08-04</td><td><a href="/miui/renoir/stable beta/V14.0.5.0.TKITWXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKITWXM</td><td>13.0</td><td>5.6 GB</td><td>2023-07-27</td><td><a href="/miui/renoir/stable/V14.0.5.0.TKITWXM/">Download</a></td></tr>
+<tr><td>Mi 11 Lite 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKITWXM</td><td>13.0</td><td>4.5 GB</td><td>2023-08-04</td><td><a href="/miui/renoir/stable/V14.0.5.0.TKITWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
