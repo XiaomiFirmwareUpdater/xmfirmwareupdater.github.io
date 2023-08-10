@@ -1434,6 +1434,12 @@
   version: V14.0.4.0.TMPMIXM
 - android: '13.0'
   codename: moonstone
+  date: '2023-08-10'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMPINXM/fw_moonstone_miui_MOONSTONEINGlobal_V14.0.3.0.TMPINXM_d2f36e75c2_13.0.zip
+  name: POCO X5 5G
+  version: V14.0.3.0.TMPINXM
+- android: '13.0'
+  codename: moonstone
   date: '2023-05-08'
   download: https://bigota.d.miui.com/V14.0.3.0.TMPMIXM/fw_moonstone_miui_MOONSTONEGlobal_V14.0.3.0.TMPMIXM_0920ca8fad_13.0.zip
   name: POCO X5 5G
