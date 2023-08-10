@@ -2279,15 +2279,15 @@
     android: '13.0'
     miui: V14.0.6.0.TLSCNXM
 - branch: stable
-  date: '2023-07-21'
+  date: '2023-08-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-21.07.2023/fw_lime_miui_LIMEGlobal_V14.0.5.0.SJQMIXM_057bc83463_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lime/fw_lime_miui_LIMEGlobal_V14.0.5.0.SJQMIXM_057bc83463_12.0.zip
-  filename: fw_lime_miui_LIMEGlobal_V14.0.5.0.SJQMIXM_057bc83463_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lime/releases/download/stable-10.08.2023/fw_lime_miui_LIMEGlobal_V13.0.6.0.SJQMIXM_dccad322e9_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/lime/fw_lime_miui_LIMEGlobal_V13.0.6.0.SJQMIXM_dccad322e9_12.0.zip
+  filename: fw_lime_miui_LIMEGlobal_V13.0.6.0.SJQMIXM_dccad322e9_12.0.zip
   region: Global
   versions:
     android: '12.0'
-    miui: V14.0.5.0.SJQMIXM
+    miui: V13.0.6.0.SJQMIXM
 - branch: stable
   date: '2023-03-07'
   downloads:
@@ -5379,15 +5379,15 @@
     android: '13.0'
     miui: V14.0.7.0.TLBMIXM
 - branch: stable
-  date: '2023-04-25'
+  date: '2023-08-10'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-25.04.2023/fw_zeus_miui_ZEUS_V14.0.13.0.TLBCNXM_800e3c12d0_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zeus/fw_zeus_miui_ZEUS_V14.0.13.0.TLBCNXM_800e3c12d0_13.0.zip
-  filename: fw_zeus_miui_ZEUS_V14.0.13.0.TLBCNXM_800e3c12d0_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zeus/releases/download/stable-10.08.2023/fw_zeus_miui_ZEUS_V14.0.14.0.TLBCNXM_e07208b49d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zeus/fw_zeus_miui_ZEUS_V14.0.14.0.TLBCNXM_e07208b49d_13.0.zip
+  filename: fw_zeus_miui_ZEUS_V14.0.14.0.TLBCNXM_e07208b49d_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.13.0.TLBCNXM
+    miui: V14.0.14.0.TLBCNXM
 - branch: stable
   date: '2023-07-28'
   downloads:
