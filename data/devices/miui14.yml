@@ -594,6 +594,12 @@
   version: V14.0.1.0.TGBMIXM
 - android: '13.0'
   codename: evergreen
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.3.0.TGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_V14.0.3.0.TGBEUXM_a72a9cc4ca_13.0.zip
+  name: POCO M4 Pro 5G
+  version: V14.0.3.0.TGBEUXM
+- android: '13.0'
+  codename: evergreen
   date: '2023-06-08'
   download: https://bigota.d.miui.com/V14.0.2.0.TGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_V14.0.2.0.TGBEUXM_4e06cb3d68_13.0.zip
   name: POCO M4 Pro 5G
@@ -724,6 +730,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.4.0.TMCCNXM_f4decbbbee_13.0.zip
   name: Xiaomi 13
   version: V14.0.4.0.TMCCNXM
+- android: '13.0'
+  codename: fuxi
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.27.0.TMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_V14.0.27.0.TMCEUXM_3c918f3bc6_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.27.0.TMCEUXM
 - android: '13.0'
   codename: fuxi
   date: '2023-03-09'
@@ -940,6 +952,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMAMIXM/fw_ishtar_miui_ISHTARGlobal_V14.0.2.0.TMAMIXM_d1eb1df7a2_13.0.zip
   name: Xiaomi 13 Ultra
   version: V14.0.2.0.TMAMIXM
+- android: '13.0'
+  codename: ishtar
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.17.0.TMACNXM/fw_ishtar_miui_ISHTAR_V14.0.17.0.TMACNXM_16baf7ce2c_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.17.0.TMACNXM
 - android: '13.0'
   codename: ishtar
   date: '2023-05-06'
@@ -1524,6 +1542,12 @@
   version: V14.0.4.0.TKXMIXM
 - android: '13.0'
   codename: nabu
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKXINXM/fw_nabu_miui_NABUINGlobal_V14.0.4.0.TKXINXM_9acaaebb54_13.0.zip
+  name: Xiaomi Pad 5
+  version: V14.0.4.0.TKXINXM
+- android: '13.0'
+  codename: nabu
   date: '2023-06-05'
   download: https://bigota.d.miui.com/V14.0.3.0.TKXINXM/fw_nabu_miui_NABUINGlobal_V14.0.3.0.TKXINXM_d5156bf95c_13.0.zip
   name: Xiaomi Pad 5
@@ -1636,6 +1660,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TGLEUXM/fw_opal_miui_OPALEEAGlobal_V14.0.2.0.TGLEUXM_824d082dcc_13.0.zip
   name: Redmi Note 11S 5G
   version: V14.0.2.0.TGLEUXM
+- android: '13.0'
+  codename: opal
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.3.0.TGLMIXM/fw_opal_miui_OPALGlobal_V14.0.3.0.TGLMIXM_7faec8561d_13.0.zip
+  name: Redmi Note 11S 5G
+  version: V14.0.3.0.TGLMIXM
 - android: '13.0'
   codename: opal
   date: '2023-06-10'
@@ -2298,6 +2328,12 @@
   version: V14.0.3.0.TKUEUXM
 - android: '13.0'
   codename: selene
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKUMIXM/fw_selene_miui_SELENEGlobal_V14.0.4.0.TKUMIXM_3c1ec73c4f_13.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V14.0.4.0.TKUMIXM
+- android: '13.0'
+  codename: selene
   date: '2023-07-11'
   download: https://bigota.d.miui.com/V14.0.2.0.TKUMIXM/fw_selene_miui_SELENEGlobal_V14.0.2.0.TKUMIXM_7d2872cc5e_13.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
@@ -2428,6 +2464,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TKACNXM/fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V14.0.6.0.TKACNXM
+- android: '13.0'
+  codename: star
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.3.0.TKAINXM/fw_star_miui_STARINGlobal_V14.0.3.0.TKAINXM_b838d2b85f_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.3.0.TKAINXM
 - android: '13.0'
   codename: star
   date: '2023-06-06'
@@ -2910,6 +2952,12 @@
   version: V14.0.8.0.TKBCNXM
 - android: '13.0'
   codename: venus
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKBMIXM/fw_venus_miui_VENUSGlobal_V14.0.6.0.TKBMIXM_c7d0ae76da_13.0.zip
+  name: Mi 11
+  version: V14.0.6.0.TKBMIXM
+- android: '13.0'
+  codename: venus
   date: '2023-06-06'
   download: https://bigota.d.miui.com/V14.0.3.0.TKBMIXM/fw_venus_miui_VENUSGlobal_V14.0.3.0.TKBMIXM_cd664fae30_13.0.zip
   name: Mi 11
@@ -2950,6 +2998,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKCMIXM/fw_veux_miui_VEUXGlobal_V14.0.2.0.TKCMIXM_71fabc3a52_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
   version: V14.0.2.0.TKCMIXM
+- android: '13.0'
+  codename: vida
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGDINXM/fw_vida_miui_VIDAINGlobal_V14.0.2.0.TGDINXM_fac7d676ef_13.0.zip
+  name: Redmi Note 11 Pro 4G
+  version: V14.0.2.0.TGDINXM
 - android: '13.0'
   codename: vida
   date: '2023-06-09'
@@ -2998,6 +3052,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TKDMIXM/fw_vili_miui_VILIGlobal_V14.0.3.0.TKDMIXM_e7abe78e55_13.0.zip
   name: Xiaomi 11T Pro
   version: V14.0.3.0.TKDMIXM
+- android: '13.0'
+  codename: vili
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKDINXM/fw_vili_miui_VILIINGlobal_V14.0.4.0.TKDINXM_1f3be070c3_13.0.zip
+  name: Xiaomi 11T Pro
+  version: V14.0.4.0.TKDINXM
 - android: '13.0'
   codename: vili
   date: '2023-08-09'
@@ -3126,6 +3186,12 @@
   version: V14.0.3.0.TLOCNXM
 - android: '13.0'
   codename: xaga
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLOEUXM/fw_xaga_miui_XAGAEEAGlobal_V14.0.4.0.TLOEUXM_547ad562e7_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.4.0.TLOEUXM
+- android: '13.0'
+  codename: xaga
   date: '2023-06-09'
   download: https://bigota.d.miui.com/V14.0.3.0.TLOEUXM/fw_xaga_miui_XAGAEEAGlobal_V14.0.3.0.TLOEUXM_d48cbe29a6_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
@@ -3250,6 +3316,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V14.0.8.0.TLBEUXM_80c9d5c6cf_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.8.0.TLBEUXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-08-11'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLBMIXM/fw_zeus_miui_ZEUSGlobal_V14.0.8.0.TLBMIXM_fe533574a9_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.8.0.TLBMIXM
 - android: '13.0'
   codename: zeus
   date: '2023-02-11'

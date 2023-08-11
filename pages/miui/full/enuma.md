@@ -52,7 +52,8 @@ permalink: /archive/miui/enuma/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.17.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-07-21</td><td><a href="/miui/enuma/public beta/V14.0.23.7.17.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.31.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-08-04</td><td><a href="/miui/enuma/public beta/V14.0.23.7.31.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.17.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-07-21</td><td><a href="/miui/enuma/public beta/V14.0.23.7.17.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.10.DEV</td><td>13.0</td><td>4.4 GB</td><td>2023-07-14</td><td><a href="/miui/enuma/public beta/V14.0.23.7.10.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.3.DEV</td><td>13.0</td><td>4.5 GB</td><td>2023-07-07</td><td><a href="/miui/enuma/public beta/V14.0.23.7.3.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.6.26.DEV</td><td>13.0</td><td>4.5 GB</td><td>2023-06-30</td><td><a href="/miui/enuma/public beta/V14.0.23.6.26.DEV/">Download</a></td></tr>
@@ -86,9 +87,9 @@ permalink: /archive/miui/enuma/
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.26.DEV</td><td>13.0</td><td>5.3 GB</td><td>2022-12-26</td><td><a href="/miui/enuma/public beta/V14.0.22.12.26.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.11.21.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-11-25</td><td><a href="/miui/enuma/public beta/V13.1.22.11.21.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.11.15.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-11-18</td><td><a href="/miui/enuma/public beta/V13.1.22.11.15.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.11.7.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-11-11</td><td><a href="/miui/enuma/public beta/V13.1.22.11.7.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TKZCNXM</td><td>13.0</td><td>4.5 GB</td><td>2023-03-12</td><td><a href="/miui/enuma/stable/V14.0.1.0.TKZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TKZCNXM</td><td>13.0</td><td>5.3 GB</td><td>2023-02-24</td><td><a href="/miui/enuma/stable/V14.0.1.0.TKZCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.11.7.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-11-11</td><td><a href="/miui/enuma/public beta/V13.1.22.11.7.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.31.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-11-04</td><td><a href="/miui/enuma/public beta/V13.1.22.10.31.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.24.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-10-28</td><td><a href="/miui/enuma/public beta/V13.1.22.10.24.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 5 Pro 5G China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.20.DEV</td><td>12.0</td><td>4.3 GB</td><td>2022-10-21</td><td><a href="/miui/enuma/public beta/V13.1.22.10.20.DEV/">Download</a></td></tr>

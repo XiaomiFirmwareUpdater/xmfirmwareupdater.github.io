@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-06-21'
+  date: '2023-08-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-21.06.2023/fw_venus_miui_VENUSGlobal_V14.0.4.0.TKBMIXM_6040ecb479_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/venus/fw_venus_miui_VENUSGlobal_V14.0.4.0.TKBMIXM_6040ecb479_13.0.zip
-  filename: fw_venus_miui_VENUSGlobal_V14.0.4.0.TKBMIXM_6040ecb479_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_venus/releases/download/stable-11.08.2023/fw_venus_miui_VENUSGlobal_V14.0.6.0.TKBMIXM_c7d0ae76da_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/venus/fw_venus_miui_VENUSGlobal_V14.0.6.0.TKBMIXM_c7d0ae76da_13.0.zip
+  filename: fw_venus_miui_VENUSGlobal_V14.0.6.0.TKBMIXM_c7d0ae76da_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TKBMIXM
+    miui: V14.0.6.0.TKBMIXM
 - branch: stable
   date: '2023-07-05'
   downloads:
