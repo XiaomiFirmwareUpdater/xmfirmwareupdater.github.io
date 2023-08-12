@@ -55,7 +55,7 @@ permalink: /miui/cupid/
                 <tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.5 GB</td><td>2022-12-05</td><td><a href="/miui/cupid/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TLCCNXM</td><td>13.0</td><td>7.2 GB</td><td>2023-07-10</td><td><a href="/miui/cupid/stable/V14.0.7.0.TLCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TLCCNXM</td><td>13.0</td><td>5.7 GB</td><td>2023-07-20</td><td><a href="/miui/cupid/stable/V14.0.7.0.TLCCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.7.31.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-08-04</td><td><a href="/miui/cupid/public beta/V14.0.23.7.31.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.7.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-08-11</td><td><a href="/miui/cupid/public beta/V14.0.23.8.7.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLCCNXM</td><td>13.0</td><td>5.7 GB</td><td>2022-12-12</td><td><a href="/miui/cupid/stable beta/V14.0.2.0.TLCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.11.0.TLCEUXM</td><td>13.0</td><td>6.3 GB</td><td>2023-06-17</td><td><a href="/miui/cupid/stable/V14.0.11.0.TLCEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.11.0.TLCEUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-06-21</td><td><a href="/miui/cupid/stable/V14.0.11.0.TLCEUXM/">Download</a></td></tr>

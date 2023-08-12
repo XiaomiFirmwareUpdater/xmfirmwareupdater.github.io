@@ -1590,6 +1590,12 @@
   version: V14.0.4.0.TMBCNXM
 - android: '13.0'
   codename: nuwa
+  date: '2023-08-12'
+  download: https://bigota.d.miui.com/V14.0.27.0.TMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.27.0.TMBEUXM_c963e513cb_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.27.0.TMBEUXM
+- android: '13.0'
+  codename: nuwa
   date: '2023-05-12'
   download: https://bigota.d.miui.com/V14.0.8.0.TMBINXM/fw_nuwa_miui_NUWAINGlobal_V14.0.8.0.TMBINXM_4087ed25f7_13.0.zip
   name: Xiaomi 13 Pro
@@ -2376,6 +2382,12 @@
   version: V14.0.18.0.TMKCNXM
 - android: '13.0'
   codename: socrates
+  date: '2023-08-12'
+  download: https://bigota.d.miui.com/V14.0.24.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.24.0.TMKCNXM_fca9ce14b6_13.0.zip
+  name: Redmi K60 Pro
+  version: V14.0.24.0.TMKCNXM
+- android: '13.0'
+  codename: socrates
   date: '2023-04-03'
   download: https://bigota.d.miui.com/V14.0.23.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.23.0.TMKCNXM_b423194d4e_13.0.zip
   name: Redmi K60 Pro
@@ -2524,6 +2536,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.SMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.4.0.SMQEUXM_28fd553f3c_12.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: V14.0.4.0.SMQEUXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-08-12'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.5.0.TMQMIXM_3536c9f974_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.5.0.TMQMIXM
 - android: '13.0'
   codename: sunstone
   date: '2023-05-12'

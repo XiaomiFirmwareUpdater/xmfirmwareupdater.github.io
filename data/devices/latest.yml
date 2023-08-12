@@ -2989,15 +2989,15 @@
     android: '13.0'
     miui: V14.0.27.0.TMBCNXM
 - branch: stable
-  date: '2023-06-28'
+  date: '2023-08-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-28.06.2023/fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
-  filename: fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-12.08.2023/fw_nuwa_miui_NUWAEEAGlobal_V14.0.27.0.TMBEUXM_c963e513cb_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWAEEAGlobal_V14.0.27.0.TMBEUXM_c963e513cb_13.0.zip
+  filename: fw_nuwa_miui_NUWAEEAGlobal_V14.0.27.0.TMBEUXM_c963e513cb_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.24.0.TMBEUXM
+    miui: V14.0.27.0.TMBEUXM
 - branch: stable
   date: '2023-08-08'
   downloads:
@@ -4299,15 +4299,15 @@
     android: '13.0'
     miui: V14.0.2.0.TMWINXM
 - branch: stable
-  date: '2023-04-03'
+  date: '2023-08-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-03.04.2023/fw_socrates_miui_SOCRATES_V14.0.23.0.TMKCNXM_b423194d4e_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/socrates/fw_socrates_miui_SOCRATES_V14.0.23.0.TMKCNXM_b423194d4e_13.0.zip
-  filename: fw_socrates_miui_SOCRATES_V14.0.23.0.TMKCNXM_b423194d4e_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_socrates/releases/download/stable-12.08.2023/fw_socrates_miui_SOCRATES_V14.0.24.0.TMKCNXM_fca9ce14b6_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/socrates/fw_socrates_miui_SOCRATES_V14.0.24.0.TMKCNXM_fca9ce14b6_13.0.zip
+  filename: fw_socrates_miui_SOCRATES_V14.0.24.0.TMKCNXM_fca9ce14b6_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.23.0.TMKCNXM
+    miui: V14.0.24.0.TMKCNXM
 - branch: stable
   date: '2023-08-08'
   downloads:
@@ -4399,15 +4399,15 @@
     android: '13.0'
     miui: V14.0.3.0.TKAINXM
 - branch: stable
-  date: '2023-07-08'
+  date: '2023-08-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-08.07.2023/fw_sunstone_miui_SUNSTONEGlobal_V14.0.4.0.TMQMIXM_dd8266c06b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONEGlobal_V14.0.4.0.TMQMIXM_dd8266c06b_13.0.zip
-  filename: fw_sunstone_miui_SUNSTONEGlobal_V14.0.4.0.TMQMIXM_dd8266c06b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sunstone/releases/download/stable-12.08.2023/fw_sunstone_miui_SUNSTONEGlobal_V14.0.5.0.TMQMIXM_3536c9f974_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sunstone/fw_sunstone_miui_SUNSTONEGlobal_V14.0.5.0.TMQMIXM_3536c9f974_13.0.zip
+  filename: fw_sunstone_miui_SUNSTONEGlobal_V14.0.5.0.TMQMIXM_3536c9f974_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMQMIXM
+    miui: V14.0.5.0.TMQMIXM
 - branch: stable
   date: '2023-07-24'
   downloads:
