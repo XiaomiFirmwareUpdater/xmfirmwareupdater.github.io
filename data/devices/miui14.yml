@@ -858,6 +858,12 @@
   version: V14.0.3.0.TKKMIXM
 - android: '13.0'
   codename: haydn
+  date: '2023-08-14'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_V14.0.4.0.TKKEUXM_01066fb531_13.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V14.0.4.0.TKKEUXM
+- android: '13.0'
+  codename: haydn
   date: '2023-03-13'
   download: https://bigota.d.miui.com/V14.0.2.0.TKKINXM/fw_haydn_miui_HAYDNINGlobal_V14.0.2.0.TKKINXM_be98e9b2c3_13.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro

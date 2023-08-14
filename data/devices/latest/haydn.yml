@@ -29,15 +29,15 @@
     android: '12.0'
     miui: 22.3.23
 - branch: stable
-  date: '2023-06-05'
+  date: '2023-08-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-05.06.2023/fw_haydn_miui_HAYDNEEAGlobal_V14.0.3.0.TKKEUXM_1c326eedcf_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDNEEAGlobal_V14.0.3.0.TKKEUXM_1c326eedcf_13.0.zip
-  filename: fw_haydn_miui_HAYDNEEAGlobal_V14.0.3.0.TKKEUXM_1c326eedcf_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_haydn/releases/download/stable-14.08.2023/fw_haydn_miui_HAYDNEEAGlobal_V14.0.4.0.TKKEUXM_01066fb531_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/haydn/fw_haydn_miui_HAYDNEEAGlobal_V14.0.4.0.TKKEUXM_01066fb531_13.0.zip
+  filename: fw_haydn_miui_HAYDNEEAGlobal_V14.0.4.0.TKKEUXM_01066fb531_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TKKEUXM
+    miui: V14.0.4.0.TKKEUXM
 - branch: stable
   date: '2023-06-02'
   downloads:
