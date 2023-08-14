@@ -988,6 +988,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.SJZEUXM/fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.4.0.SJZEUXM_c7b18271cb_12.0.zip
   name: Redmi Note 9 Pro
   version: V14.0.4.0.SJZEUXM
+- android: '12.0'
+  codename: joyeuse
+  date: '2023-08-14'
+  download: https://bigota.d.miui.com/V14.0.5.0.SJZEUXM/fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.5.0.SJZEUXM_456fa02cef_12.0.zip
+  name: Redmi Note 9 Pro
+  version: V14.0.5.0.SJZEUXM
 - android: '13.0'
   codename: light
   date: '2023-03-31'
@@ -3454,3 +3460,9 @@
   download: https://bigota.d.miui.com/V14.0.9.0.TLRCNXM/fw_zizhan_miui_ZIZHAN_V14.0.9.0.TLRCNXM_5ed12fbdf5_13.0.zip
   name: Xiaomi MIX Fold 2
   version: V14.0.9.0.TLRCNXM
+- android: '13.0'
+  codename: zizhan
+  date: '2023-08-14'
+  download: https://bigota.d.miui.com/V14.0.12.0.TLRCNXM/fw_zizhan_miui_ZIZHAN_V14.0.12.0.TLRCNXM_f98d8eb3c3_13.0.zip
+  name: Xiaomi MIX Fold 2
+  version: V14.0.12.0.TLRCNXM

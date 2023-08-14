@@ -28949,6 +28949,16 @@
     android: '12.0'
     miui: V13.0.5.0.SJZEUXM
 - branch: stable
+  date: '2023-08-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-14.08.2023/fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.5.0.SJZEUXM_456fa02cef_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.5.0.SJZEUXM_456fa02cef_12.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.5.0.SJZEUXM_456fa02cef_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V14.0.5.0.SJZEUXM
+- branch: stable
   date: '2020-11-13'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-13.11.2020/fw_joyeuse_miui_JOYEUSEEEAGlobal_V12.0.1.0.QJZEUXM_dc8e184acb_10.0.zip
@@ -68008,6 +68018,16 @@
   versions:
     android: '13.0'
     miui: V14.0.9.0.TLRCNXM
+- branch: stable
+  date: '2023-08-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-14.08.2023/fw_zizhan_miui_ZIZHAN_V14.0.12.0.TLRCNXM_f98d8eb3c3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zizhan/fw_zizhan_miui_ZIZHAN_V14.0.12.0.TLRCNXM_f98d8eb3c3_13.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_V14.0.12.0.TLRCNXM_f98d8eb3c3_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.12.0.TLRCNXM
 - branch: stable
   date: '2022-08-12'
   downloads:

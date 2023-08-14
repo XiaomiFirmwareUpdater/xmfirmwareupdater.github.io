@@ -53,7 +53,8 @@ permalink: /archive/miui/mondrian/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K60 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.7.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-08-11</td><td><a href="/miui/mondrian/public beta/V14.0.23.8.7.DEV/">Download</a></td></tr>
-<tr><td>POCO F5 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMNRUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-08-07</td><td><a href="/miui/mondrian/stable beta/V14.0.4.0.TMNRUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMNRUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-08-07</td><td><a href="/miui/mondrian/stable/V14.0.4.0.TMNRUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMNRUXM</td><td>13.0</td><td>7.4 GB</td><td>2023-08-01</td><td><a href="/miui/mondrian/stable/V14.0.4.0.TMNRUXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMNMIXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-04</td><td><a href="/miui/mondrian/stable/V14.0.5.0.TMNMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMNMIXM</td><td>13.0</td><td>7.8 GB</td><td>2023-07-18</td><td><a href="/miui/mondrian/stable/V14.0.5.0.TMNMIXM/">Download</a></td></tr>
 <tr><td>POCO F5 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TMNEUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-08-04</td><td><a href="/miui/mondrian/stable/V14.0.7.0.TMNEUXM/">Download</a></td></tr>

@@ -1969,15 +1969,15 @@
     android: '12.0'
     miui: V14.0.3.0.SJZMIXM
 - branch: stable
-  date: '2023-04-25'
+  date: '2023-08-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-25.04.2023/fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.4.0.SJZEUXM_c7b18271cb_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.4.0.SJZEUXM_c7b18271cb_12.0.zip
-  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.4.0.SJZEUXM_c7b18271cb_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_joyeuse/releases/download/stable-14.08.2023/fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.5.0.SJZEUXM_456fa02cef_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/joyeuse/fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.5.0.SJZEUXM_456fa02cef_12.0.zip
+  filename: fw_joyeuse_miui_JOYEUSEEEAGlobal_V14.0.5.0.SJZEUXM_456fa02cef_12.0.zip
   region: Europe
   versions:
     android: '12.0'
-    miui: V14.0.4.0.SJZEUXM
+    miui: V14.0.5.0.SJZEUXM
 - branch: stable
   date: '2019-01-24'
   downloads:
@@ -5449,12 +5449,12 @@
     android: '13.0'
     miui: V14.0.5.0.TLLEUXM
 - branch: stable
-  date: '2023-04-18'
+  date: '2023-08-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-18.04.2023/fw_zizhan_miui_ZIZHAN_V14.0.9.0.TLRCNXM_5ed12fbdf5_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zizhan/fw_zizhan_miui_ZIZHAN_V14.0.9.0.TLRCNXM_5ed12fbdf5_13.0.zip
-  filename: fw_zizhan_miui_ZIZHAN_V14.0.9.0.TLRCNXM_5ed12fbdf5_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zizhan/releases/download/stable-14.08.2023/fw_zizhan_miui_ZIZHAN_V14.0.12.0.TLRCNXM_f98d8eb3c3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zizhan/fw_zizhan_miui_ZIZHAN_V14.0.12.0.TLRCNXM_f98d8eb3c3_13.0.zip
+  filename: fw_zizhan_miui_ZIZHAN_V14.0.12.0.TLRCNXM_f98d8eb3c3_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TLRCNXM
+    miui: V14.0.12.0.TLRCNXM
