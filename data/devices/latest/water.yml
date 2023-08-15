@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-08-02'
+  date: '2023-07-03'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-02.08.2023/fw_water_miui_WATERGlobal_V14.0.14.0.TGOMIXM_b8943b4681_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.14.0.TGOMIXM_b8943b4681_13.0.zip
-  filename: fw_water_miui_WATERGlobal_V14.0.14.0.TGOMIXM_b8943b4681_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_water/releases/download/stable-03.07.2023/fw_water_miui_WATERGlobal_V14.0.12.0.TGOMIXM_c067735199_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/water/fw_water_miui_WATERGlobal_V14.0.12.0.TGOMIXM_c067735199_13.0.zip
+  filename: fw_water_miui_WATERGlobal_V14.0.12.0.TGOMIXM_c067735199_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.14.0.TGOMIXM
+    miui: V14.0.12.0.TGOMIXM
 - branch: stable
   date: '2023-07-27'
   downloads:
