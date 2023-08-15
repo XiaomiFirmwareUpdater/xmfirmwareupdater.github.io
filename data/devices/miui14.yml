@@ -143,6 +143,12 @@
   name: Redmi K40 Gaming/POCO F3 GT
   version: V14.0.1.0.TKJINXM
 - android: '13.0'
+  codename: babylon
+  date: '2023-08-15'
+  download: https://bigota.d.miui.com/V14.1.2.0.TMVCNXM/fw_babylon_miui_BABYLON_V14.1.2.0.TMVCNXM_54c247799c_13.0.zip
+  name: MIX Fold 3
+  version: V14.1.2.0.TMVCNXM
+- android: '13.0'
   codename: biloba
   date: '2023-05-21'
   download: https://bigota.d.miui.com/V14.0.4.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
@@ -730,6 +736,12 @@
   download: https://bigota.d.miui.com/V14.0.30.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.30.0.TMCCNXM_a93872e3c3_13.0.zip
   name: Xiaomi 13
   version: V14.0.30.0.TMCCNXM
+- android: '13.0'
+  codename: fuxi
+  date: '2023-08-15'
+  download: https://bigota.d.miui.com/V14.0.31.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.31.0.TMCCNXM_1110d3341a_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.31.0.TMCCNXM
 - android: '13.0'
   codename: fuxi
   date: '2022-12-14'
@@ -1608,6 +1620,12 @@
   version: V14.0.12.0.TMBCNXM
 - android: '13.0'
   codename: nuwa
+  date: '2023-08-15'
+  download: https://bigota.d.miui.com/V14.0.28.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.28.0.TMBCNXM_dfaed9c04f_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.28.0.TMBCNXM
+- android: '13.0'
+  codename: nuwa
   date: '2022-12-14'
   download: https://bigota.d.miui.com/V14.0.4.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.4.0.TMBCNXM_c5625d2228_13.0.zip
   name: Xiaomi 13 Pro
@@ -2356,6 +2374,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TKUEUXM/fw_selene_miui_SELENEEEAGlobal_V14.0.3.0.TKUEUXM_213f012064_13.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
   version: V14.0.3.0.TKUEUXM
+- android: '13.0'
+  codename: selene
+  date: '2023-08-15'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKUEUXM/fw_selene_miui_SELENEEEAGlobal_V14.0.4.0.TKUEUXM_daee26bf72_13.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V14.0.4.0.TKUEUXM
 - android: '13.0'
   codename: selene
   date: '2023-08-11'
@@ -3162,6 +3186,12 @@
   version: V14.0.10.0.TGOMIXM
 - android: '13.0'
   codename: water
+  date: '2023-06-09'
+  download: https://bigota.d.miui.com/V14.0.5.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.5.0.TGOINXM_7546d95734_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.5.0.TGOINXM
+- android: '13.0'
+  codename: water
   date: '2023-05-05'
   download: https://bigota.d.miui.com/V14.0.4.0.TGOINXM/fw_water_miui_WATERINGlobal_V14.0.4.0.TGOINXM_3a291217b7_13.0.zip
   name: Redmi A2/A2+/POCO C51
@@ -3172,6 +3202,12 @@
   download: https://bigota.d.miui.com/V14.0.12.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.12.0.TGOMIXM_c067735199_13.0.zip
   name: Redmi A2/A2+/POCO C51
   version: V14.0.12.0.TGOMIXM
+- android: '13.0'
+  codename: water
+  date: '2023-08-02'
+  download: https://bigota.d.miui.com/V14.0.14.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.14.0.TGOMIXM_b8943b4681_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.14.0.TGOMIXM
 - android: '13.0'
   codename: water
   date: '2023-08-01'
