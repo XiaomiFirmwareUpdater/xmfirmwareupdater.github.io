@@ -311,6 +311,12 @@
   name: Mi 10 Pro
   version: V14.0.3.0.TJACNXM
 - android: '13.0'
+  codename: corot
+  date: '2023-08-15'
+  download: https://bigota.d.miui.com/V14.0.8.0.TMLCNXM/fw_corot_miui_COROT_V14.0.8.0.TMLCNXM_9d20ec48db_13.0.zip
+  name: Redmi K60 Ultra
+  version: V14.0.8.0.TMLCNXM
+- android: '13.0'
   codename: courbet
   date: '2023-04-27'
   download: https://bigota.d.miui.com/V14.0.2.0.TKQEUXM/fw_courbet_miui_COURBETEEAGlobal_V14.0.2.0.TKQEUXM_03a1aa08ad_13.0.zip
