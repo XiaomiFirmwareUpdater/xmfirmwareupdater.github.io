@@ -52,9 +52,9 @@ permalink: /miui/vida/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Pro 4G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TGDINXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-18</td><td><a href="/miui/vida/stable/V14.0.1.0.TGDINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 4G India</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TGDINXM</td><td>13.0</td><td>3.5 GB</td><td>2023-05-29</td><td><a href="/miui/vida/stable/V14.0.1.0.TGDINXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 Pro 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TGDINXM</td><td>13.0</td><td>3.5 GB</td><td>2023-08-08</td><td><a href="/miui/vida/stable beta/V14.0.2.0.TGDINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 Pro 4G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TGDINXM</td><td>13.0</td><td>4.8 GB</td><td>2023-07-31</td><td><a href="/miui/vida/stable/V14.0.2.0.TGDINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TGDINXM</td><td>13.0</td><td>3.5 GB</td><td>2023-08-08</td><td><a href="/miui/vida/stable/V14.0.2.0.TGDINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Pro 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.4.0.SGDINXM</td><td>12.0</td><td>3.1 GB</td><td>2022-10-25</td><td><a href="/miui/vida/stable beta/V13.0.4.0.SGDINXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -52,7 +52,8 @@ permalink: /archive/miui/fog/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi 10C India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TGEINXM</td><td>13.0</td><td>3.3 GB</td><td>2023-08-03</td><td><a href="/miui/fog/stable beta/V14.0.2.0.TGEINXM/">Download</a></td></tr>
+                <tr><td>Redmi 10C India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TGEINXM</td><td>13.0</td><td>3.3 GB</td><td>2023-08-03</td><td><a href="/miui/fog/stable/V14.0.2.0.TGEINXM/">Download</a></td></tr>
+<tr><td>Redmi 10C India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TGEINXM</td><td>13.0</td><td>4.8 GB</td><td>2023-07-28</td><td><a href="/miui/fog/stable/V14.0.2.0.TGEINXM/">Download</a></td></tr>
 <tr><td>Redmi 10C EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TGEEUXM</td><td>13.0</td><td>3.4 GB</td><td>2023-08-02</td><td><a href="/miui/fog/stable/V14.0.3.0.TGEEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10C EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TGEEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-07-14</td><td><a href="/miui/fog/stable/V14.0.3.0.TGEEUXM/">Download</a></td></tr>
 <tr><td>Redmi 10C Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TGERUXM</td><td>13.0</td><td>3.3 GB</td><td>2023-07-26</td><td><a href="/miui/fog/stable beta/V14.0.1.0.TGERUXM/">Download</a></td></tr>
