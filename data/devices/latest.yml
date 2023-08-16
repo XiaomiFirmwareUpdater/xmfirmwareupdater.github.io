@@ -269,15 +269,15 @@
     android: '11.0'
     miui: 22.3.2
 - branch: stable
-  date: '2023-08-15'
+  date: '2023-08-16'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-15.08.2023/fw_babylon_miui_BABYLON_V14.1.2.0.TMVCNXM_54c247799c_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/babylon/fw_babylon_miui_BABYLON_V14.1.2.0.TMVCNXM_54c247799c_13.0.zip
-  filename: fw_babylon_miui_BABYLON_V14.1.2.0.TMVCNXM_54c247799c_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-16.08.2023/fw_babylon_miui_BABYLON_V14.1.5.0.TMVCNXM_97f388a88a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/babylon/fw_babylon_miui_BABYLON_V14.1.5.0.TMVCNXM_97f388a88a_13.0.zip
+  filename: fw_babylon_miui_BABYLON_V14.1.5.0.TMVCNXM_97f388a88a_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.1.2.0.TMVCNXM
+    miui: V14.1.5.0.TMVCNXM
 - branch: stable
   date: '2022-06-19'
   downloads:
