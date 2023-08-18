@@ -1206,12 +1206,6 @@
   version: 20.8.27
 - android: '11.0'
   codename: bomb
-  date: '2021-05-27'
-  download: https://bigota.d.miui.com/21.5.27/miui_BOMB_21.5.27_0c55e89537_11.0.zip
-  name: Redmi 10X Pro
-  version: 21.5.27
-- android: '11.0'
-  codename: bomb
   date: '2021-04-18'
   download: https://bigota.d.miui.com/21.3.24/miui_BOMB_21.3.24_0f5c6d3206_11.0.zip
   name: Redmi 10X Pro
