@@ -59,10 +59,12 @@ permalink: /miui/ishtar/
 <tr><td>Xiaomi 13 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.13.0.TMACNXM</td><td>13.0</td><td>7.0 GB</td><td>2023-05-17</td><td><a href="/miui/ishtar/stable beta/V14.0.13.0.TMACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMAEUXM</td><td>13.0</td><td>7.7 GB</td><td>2023-05-30</td><td><a href="/miui/ishtar/stable/V14.0.4.0.TMAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMAEUXM</td><td>13.0</td><td>6.0 GB</td><td>2023-06-05</td><td><a href="/miui/ishtar/stable/V14.0.4.0.TMAEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TMAEUXM</td><td>13.0</td><td>6.0 GB</td><td>2023-08-16</td><td><a href="/miui/ishtar/stable beta/V14.0.5.0.TMAEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMAMIXM</td><td>13.0</td><td>8.0 GB</td><td>2023-06-02</td><td><a href="/miui/ishtar/stable/V14.0.2.0.TMAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMAMIXM</td><td>13.0</td><td>6.0 GB</td><td>2023-06-13</td><td><a href="/miui/ishtar/stable/V14.0.2.0.TMAMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMARUXM</td><td>13.0</td><td>7.6 GB</td><td>2023-05-30</td><td><a href="/miui/ishtar/stable/V14.0.3.0.TMARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMARUXM</td><td>13.0</td><td>5.9 GB</td><td>2023-06-14</td><td><a href="/miui/ishtar/stable/V14.0.3.0.TMARUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMARUXM</td><td>13.0</td><td>5.9 GB</td><td>2023-08-16</td><td><a href="/miui/ishtar/stable beta/V14.0.4.0.TMARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMATWXM</td><td>13.0</td><td>6.9 GB</td><td>2023-06-02</td><td><a href="/miui/ishtar/stable/V14.0.3.0.TMATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMATWXM</td><td>13.0</td><td>5.9 GB</td><td>2023-06-13</td><td><a href="/miui/ishtar/stable/V14.0.3.0.TMATWXM/">Download</a></td></tr>
 

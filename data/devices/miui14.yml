@@ -882,6 +882,12 @@
   version: V14.0.3.0.TKKMIXM
 - android: '13.0'
   codename: haydn
+  date: '2023-08-19'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKKINXM/fw_haydn_miui_HAYDNINGlobal_V14.0.4.0.TKKINXM_1773872c98_13.0.zip
+  name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
+  version: V14.0.4.0.TKKINXM
+- android: '13.0'
+  codename: haydn
   date: '2023-08-14'
   download: https://bigota.d.miui.com/V14.0.4.0.TKKEUXM/fw_haydn_miui_HAYDNEEAGlobal_V14.0.4.0.TKKEUXM_01066fb531_13.0.zip
   name: Redmi K40 Pro/Pro+/Mi 11i/Mi 11X Pro
@@ -970,6 +976,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TMAMIXM/fw_ishtar_miui_ISHTARGlobal_V14.0.1.0.TMAMIXM_ffe251741c_13.0.zip
   name: Xiaomi 13 Ultra
   version: V14.0.1.0.TMAMIXM
+- android: '13.0'
+  codename: ishtar
+  date: '2023-08-19'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.5.0.TMAEUXM_10a294b68d_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.5.0.TMAEUXM
 - android: '13.0'
   codename: ishtar
   date: '2023-06-19'
@@ -1066,6 +1078,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLSINXM/fw_light_miui_LIGHTINGlobal_V14.0.4.0.TLSINXM_6f0f2c6476_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.4.0.TLSINXM
+- android: '13.0'
+  codename: light
+  date: '2023-08-19'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLSINXM/fw_light_miui_LIGHTINGlobal_V14.0.6.0.TLSINXM_4e864b4437_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.6.0.TLSINXM
 - android: '13.0'
   codename: light
   date: '2023-03-17'
@@ -2422,6 +2440,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMWCNXM/fw_sky_miui_SKY_V14.0.4.0.TMWCNXM_06c01745ca_13.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
   version: V14.0.4.0.TMWCNXM
+- android: '13.0'
+  codename: sky
+  date: '2023-08-19'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMWCNXM/fw_sky_miui_SKY_V14.0.5.0.TMWCNXM_4aafb28b8d_13.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: V14.0.5.0.TMWCNXM
 - android: '13.0'
   codename: sky
   date: '2023-08-01'
