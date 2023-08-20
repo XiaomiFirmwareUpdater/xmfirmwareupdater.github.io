@@ -67,6 +67,7 @@ permalink: /miui/ishtar/
 <tr><td>Xiaomi 13 Ultra Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMARUXM</td><td>13.0</td><td>5.9 GB</td><td>2023-08-16</td><td><a href="/miui/ishtar/stable beta/V14.0.4.0.TMARUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMATWXM</td><td>13.0</td><td>6.9 GB</td><td>2023-06-02</td><td><a href="/miui/ishtar/stable/V14.0.3.0.TMATWXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMATWXM</td><td>13.0</td><td>5.9 GB</td><td>2023-06-13</td><td><a href="/miui/ishtar/stable/V14.0.3.0.TMATWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Ultra Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMATWXM</td><td>13.0</td><td>5.9 GB</td><td>2023-08-17</td><td><a href="/miui/ishtar/stable beta/V14.0.4.0.TMATWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
