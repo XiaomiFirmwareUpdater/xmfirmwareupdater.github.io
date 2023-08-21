@@ -2538,6 +2538,12 @@
   version: V14.0.1.0.TKAINXM
 - android: '13.0'
   codename: star
+  date: '2023-08-21'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKAEUXM/fw_star_miui_STAREEAGlobal_V14.0.5.0.TKAEUXM_1cf7a35dbf_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.5.0.TKAEUXM
+- android: '13.0'
+  codename: star
   date: '2023-03-21'
   download: https://bigota.d.miui.com/V14.0.3.0.TKAEUXM/fw_star_miui_STAREEAGlobal_V14.0.3.0.TKAEUXM_39d6121a64_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
@@ -2680,6 +2686,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.SJGEUXM/fw_surya_miui_SURYAEEAGlobal_V14.0.4.0.SJGEUXM_01956c8f69_12.0.zip
   name: POCO X3 NFC
   version: V14.0.4.0.SJGEUXM
+- android: '12.0'
+  codename: surya
+  date: '2023-08-21'
+  download: https://bigota.d.miui.com/V14.0.5.0.SJGEUXM/fw_surya_miui_SURYAEEAGlobal_V14.0.5.0.SJGEUXM_b6b33a8d86_12.0.zip
+  name: POCO X3 NFC
+  version: V14.0.5.0.SJGEUXM
 - android: '12.0'
   codename: surya
   date: '2023-03-14'
@@ -3016,6 +3028,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TKBEUXM/fw_venus_miui_VENUSEEAGlobal_V14.0.5.0.TKBEUXM_2a9bbc6f5b_13.0.zip
   name: Mi 11
   version: V14.0.5.0.TKBEUXM
+- android: '13.0'
+  codename: venus
+  date: '2023-08-21'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKBEUXM/fw_venus_miui_VENUSEEAGlobal_V14.0.6.0.TKBEUXM_1920b2992d_13.0.zip
+  name: Mi 11
+  version: V14.0.6.0.TKBEUXM
 - android: '13.0'
   codename: venus
   date: '2023-06-21'
