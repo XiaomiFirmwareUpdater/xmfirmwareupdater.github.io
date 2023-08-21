@@ -749,15 +749,15 @@
     android: '9.0'
     miui: 20.6.18
 - branch: stable
-  date: '2023-05-29'
+  date: '2023-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-29.05.2023/fw_chopin_miui_CHOPINGlobal_V14.0.3.0.TKPMIXM_08c2a7311a_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPINGlobal_V14.0.3.0.TKPMIXM_08c2a7311a_13.0.zip
-  filename: fw_chopin_miui_CHOPINGlobal_V14.0.3.0.TKPMIXM_08c2a7311a_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_chopin/releases/download/stable-21.08.2023/fw_chopin_miui_CHOPINGlobal_V14.0.4.0.TKPMIXM_581f0a8312_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/chopin/fw_chopin_miui_CHOPINGlobal_V14.0.4.0.TKPMIXM_581f0a8312_13.0.zip
+  filename: fw_chopin_miui_CHOPINGlobal_V14.0.4.0.TKPMIXM_581f0a8312_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TKPMIXM
+    miui: V14.0.4.0.TKPMIXM
 - branch: stable
   date: '2023-08-14'
   downloads:
@@ -2539,15 +2539,15 @@
     android: '13.0'
     miui: V14.0.23.0.TMRCNXM
 - branch: stable
-  date: '2023-06-24'
+  date: '2023-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-25.06.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.7.0.TMREUXM_6b217a90d3_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEEEAGlobal_V14.0.7.0.TMREUXM_6b217a90d3_13.0.zip
-  filename: fw_marble_miui_MARBLEEEAGlobal_V14.0.7.0.TMREUXM_6b217a90d3_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_marble/releases/download/stable-21.08.2023/fw_marble_miui_MARBLEEEAGlobal_V14.0.8.0.TMREUXM_f31f7dd9c2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/marble/fw_marble_miui_MARBLEEEAGlobal_V14.0.8.0.TMREUXM_f31f7dd9c2_13.0.zip
+  filename: fw_marble_miui_MARBLEEEAGlobal_V14.0.8.0.TMREUXM_f31f7dd9c2_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.7.0.TMREUXM
+    miui: V14.0.8.0.TMREUXM
 - branch: stable
   date: '2023-06-23'
   downloads:
@@ -3449,15 +3449,15 @@
     android: '13.0'
     miui: V14.0.5.0.TKTMIXM
 - branch: stable
-  date: '2023-03-28'
+  date: '2023-08-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-28.03.2023/fw_pissarro_miui_PISSARRO_V14.0.5.0.TKTCNXM_83e0c47619_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.5.0.TKTCNXM_83e0c47619_13.0.zip
-  filename: fw_pissarro_miui_PISSARRO_V14.0.5.0.TKTCNXM_83e0c47619_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pissarro/releases/download/stable-21.08.2023/fw_pissarro_miui_PISSARRO_V14.0.6.0.TKTCNXM_f2c3da7a64_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pissarro/fw_pissarro_miui_PISSARRO_V14.0.6.0.TKTCNXM_f2c3da7a64_13.0.zip
+  filename: fw_pissarro_miui_PISSARRO_V14.0.6.0.TKTCNXM_f2c3da7a64_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TKTCNXM
+    miui: V14.0.6.0.TKTCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
