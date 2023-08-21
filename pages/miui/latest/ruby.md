@@ -77,6 +77,7 @@ permalink: /miui/ruby/
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TMOTRXM</td><td>13.0</td><td>4.4 GB</td><td>2023-08-11</td><td><a href="/miui/ruby/stable beta/V14.0.1.0.TMOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.SMOTWXM</td><td>12.0</td><td>5.7 GB</td><td>2023-02-16</td><td><a href="/miui/ruby/stable/V14.0.2.0.SMOTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 Pro / Pro+ 5G Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.SMOTWXM</td><td>12.0</td><td>4.1 GB</td><td>2023-03-22</td><td><a href="/miui/ruby/stable/V14.0.2.0.SMOTWXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 Pro / Pro+ 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TMOTWXM</td><td>13.0</td><td>4.3 GB</td><td>2023-08-18</td><td><a href="/miui/ruby/stable beta/V14.0.1.0.TMOTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
