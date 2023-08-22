@@ -317,12 +317,6 @@
   name: Mi 10 Pro
   version: V14.0.5.0.TJAMIXM
 - android: '13.0'
-  codename: cmi
-  date: '2023-05-15'
-  download: https://bigota.d.miui.com/V14.0.3.0.TJACNXM/fw_cmi_miui_CMI_V14.0.3.0.TJACNXM_03a653ca7b_13.0.zip
-  name: Mi 10 Pro
-  version: V14.0.3.0.TJACNXM
-- android: '13.0'
   codename: corot
   date: '2023-08-15'
   download: https://bigota.d.miui.com/V14.0.8.0.TMLCNXM/fw_corot_miui_COROT_V14.0.8.0.TMLCNXM_9d20ec48db_13.0.zip
@@ -3448,12 +3442,6 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TLYMIXM/fw_yunluo_miui_YUNLUOGlobal_V14.0.2.0.TLYMIXM_166157b077_13.0.zip
   name: Redmi Pad
   version: V14.0.2.0.TLYMIXM
-- android: '13.0'
-  codename: yunluo
-  date: '2023-03-15'
-  download: https://bigota.d.miui.com/V14.0.5.0.TLYCNXM/fw_yunluo_miui_YUNLUO_V14.0.5.0.TLYCNXM_2ad3baf26b_13.0.zip
-  name: Redmi Pad
-  version: V14.0.5.0.TLYCNXM
 - android: '13.0'
   codename: yunluo
   date: '2023-08-07'
