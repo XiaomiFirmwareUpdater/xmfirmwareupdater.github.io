@@ -109,6 +109,7 @@ permalink: /archive/miui/aqua/
 <tr><td>MI 4S China</td><td>Stable</td><td>Fastboot</td><td>V8.5.2.0.NAJCNED</td><td>7.0</td><td>1.3 GB</td><td>2017-07-27</td><td><a href="/miui/aqua/stable/V8.5.2.0.NAJCNED/">Download</a></td></tr>
 <tr><td>MI 4S China</td><td>Stable</td><td>Recovery</td><td>V8.5.2.0.NAJCNED</td><td>7.0</td><td>897.4 MB</td><td>2017-07-27</td><td><a href="/miui/aqua/stable/V8.5.2.0.NAJCNED/">Download</a></td></tr>
 <tr><td>MI 4S China</td><td>Stable</td><td>Recovery</td><td>V8.2.1.0.LAJCNDL</td><td>5.1</td><td>1.1 GB</td><td>2017-01-16</td><td><a href="/miui/aqua/stable/V8.2.1.0.LAJCNDL/">Download</a></td></tr>
+<tr><td>MI 4S China</td><td>Weekly</td><td>Recovery</td><td>6.12.22</td><td>5.1</td><td>889.2 MB</td><td>2016-12-21</td><td><a href="/miui/aqua/weekly/6.12.22/">Download</a></td></tr>
 <tr><td>MI 4S China</td><td>Stable</td><td>Recovery</td><td>V8.1.4.0.LAJCNDI</td><td>5.1</td><td>1.0 GB</td><td>2016-12-13</td><td><a href="/miui/aqua/stable/V8.1.4.0.LAJCNDI/">Download</a></td></tr>
 <tr><td>MI 4S China</td><td>Stable</td><td>Recovery</td><td>V8.1.3.0.LAJCNDI</td><td>5.1</td><td>1.0 GB</td><td>2016-11-20</td><td><a href="/miui/aqua/stable/V8.1.3.0.LAJCNDI/">Download</a></td></tr>
 <tr><td>MI 4S China</td><td>Stable</td><td>Recovery</td><td>V8.1.2.0.LAJCNDI</td><td>5.1</td><td>1.0 GB</td><td>2016-11-09</td><td><a href="/miui/aqua/stable/V8.1.2.0.LAJCNDI/">Download</a></td></tr>

@@ -269,11 +269,11 @@ permalink: /archive/miui/ugglite/
 <tr><td>Redmi Note 5A (2GB) Global</td><td>Weekly</td><td>Recovery</td><td>8.4.12</td><td>7.1</td><td>1.3 GB</td><td>2018-04-12</td><td><a href="/miui/ugglite/weekly/8.4.12/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) Global</td><td>Weekly</td><td>Fastboot</td><td>8.4.12</td><td>7.1</td><td>1.9 GB</td><td>2018-04-12</td><td><a href="/miui/ugglite/weekly/8.4.12/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Weekly</td><td>Fastboot</td><td>8.4.12</td><td>7.1</td><td>2.2 GB</td><td>2018-04-12</td><td><a href="/miui/ugglite/weekly/8.4.12/">Download</a></td></tr>
-<tr><td>Redmi Note 5A (2GB) China</td><td>Weekly</td><td>Fastboot</td><td>8.3.29</td><td>7.1</td><td>2.2 GB</td><td>2018-03-29</td><td><a href="/miui/ugglite/weekly/8.3.29/">Download</a></td></tr>
-<tr><td>Redmi Note 5A (2GB) China</td><td>Weekly</td><td>Recovery</td><td>8.3.29</td><td>7.1</td><td>1.5 GB</td><td>2018-03-28</td><td><a href="/miui/ugglite/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) Global</td><td>Stable</td><td>Recovery</td><td>V9.5.5.0.NDFMIFA</td><td>7.1</td><td>1.3 GB</td><td>2018-05-02</td><td><a href="/miui/ugglite/stable/V9.5.5.0.NDFMIFA/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Stable</td><td>Recovery</td><td>V9.5.5.0.NDFCNFA</td><td>7.1</td><td>1.4 GB</td><td>2018-04-11</td><td><a href="/miui/ugglite/stable/V9.5.5.0.NDFCNFA/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Stable</td><td>Fastboot</td><td>V9.5.5.0.NDFCNFA</td><td>7.1</td><td>2.1 GB</td><td>2018-04-11</td><td><a href="/miui/ugglite/stable/V9.5.5.0.NDFCNFA/">Download</a></td></tr>
+<tr><td>Redmi Note 5A (2GB) China</td><td>Weekly</td><td>Fastboot</td><td>8.3.29</td><td>7.1</td><td>2.2 GB</td><td>2018-03-29</td><td><a href="/miui/ugglite/weekly/8.3.29/">Download</a></td></tr>
+<tr><td>Redmi Note 5A (2GB) China</td><td>Weekly</td><td>Recovery</td><td>8.3.29</td><td>7.1</td><td>1.5 GB</td><td>2018-03-28</td><td><a href="/miui/ugglite/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.NDFCNFA</td><td>7.1</td><td>2.1 GB</td><td>2018-03-23</td><td><a href="/miui/ugglite/stable/V9.5.2.0.NDFCNFA/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) China</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.NDFCNFA</td><td>7.1</td><td>1.4 GB</td><td>2018-03-22</td><td><a href="/miui/ugglite/stable/V9.5.2.0.NDFCNFA/">Download</a></td></tr>
 <tr><td>Redmi Note 5A (2GB) Global</td><td>Weekly</td><td>Recovery</td><td>8.3.22</td><td>7.1</td><td>1.3 GB</td><td>2018-03-22</td><td><a href="/miui/ugglite/weekly/8.3.22/">Download</a></td></tr>

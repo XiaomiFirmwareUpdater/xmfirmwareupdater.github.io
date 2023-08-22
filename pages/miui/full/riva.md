@@ -290,8 +290,6 @@ permalink: /archive/miui/riva/
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Fastboot</td><td>8.4.12</td><td>7.1</td><td>2.2 GB</td><td>2018-04-12</td><td><a href="/miui/riva/weekly/8.4.12/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Stable</td><td>Fastboot</td><td>V9.5.3.0.NCKCNFA</td><td>7.1</td><td>2.1 GB</td><td>2018-04-06</td><td><a href="/miui/riva/stable/V9.5.3.0.NCKCNFA/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Stable</td><td>Recovery</td><td>V9.5.3.0.NCKCNFA</td><td>7.1</td><td>1.4 GB</td><td>2018-04-05</td><td><a href="/miui/riva/stable/V9.5.3.0.NCKCNFA/">Download</a></td></tr>
-<tr><td>Redmi 5A Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.6.0.NCKMIFA</td><td>7.1</td><td>1.9 GB</td><td>2018-04-05</td><td><a href="/miui/riva/stable/V9.5.6.0.NCKMIFA/">Download</a></td></tr>
-<tr><td>Redmi 5A Global</td><td>Stable</td><td>Recovery</td><td>V9.5.6.0.NCKMIFA</td><td>7.1</td><td>1.3 GB</td><td>2018-04-05</td><td><a href="/miui/riva/stable/V9.5.6.0.NCKMIFA/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Recovery</td><td>8.3.29</td><td>7.1</td><td>1.5 GB</td><td>2018-03-29</td><td><a href="/miui/riva/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Fastboot</td><td>8.3.29</td><td>7.1</td><td>2.1 GB</td><td>2018-03-29</td><td><a href="/miui/riva/weekly/8.3.29/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Fastboot</td><td>8.3.22</td><td>7.1</td><td>2.2 GB</td><td>2018-03-22</td><td><a href="/miui/riva/weekly/8.3.22/">Download</a></td></tr>
@@ -303,8 +301,8 @@ permalink: /archive/miui/riva/
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Recovery</td><td>8.3.8</td><td>7.1</td><td>1.5 GB</td><td>2018-03-07</td><td><a href="/miui/riva/weekly/8.3.8/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>7.1</td><td>2.1 GB</td><td>2018-03-01</td><td><a href="/miui/riva/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>7.1</td><td>1.5 GB</td><td>2018-02-28</td><td><a href="/miui/riva/weekly/8.3.1/">Download</a></td></tr>
-<tr><td>Redmi 5A China</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.NCKCNFA</td><td>7.1</td><td>2.2 GB</td><td>2018-02-13</td><td><a href="/miui/riva/stable/V9.5.2.0.NCKCNFA/">Download</a></td></tr>
-<tr><td>Redmi 5A China</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.NCKCNFA</td><td>7.1</td><td>1.4 GB</td><td>2018-02-13</td><td><a href="/miui/riva/stable/V9.5.2.0.NCKCNFA/">Download</a></td></tr>
+<tr><td>Redmi 5A Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.6.0.NCKMIFA</td><td>7.1</td><td>1.9 GB</td><td>2018-04-05</td><td><a href="/miui/riva/stable/V9.5.6.0.NCKMIFA/">Download</a></td></tr>
+<tr><td>Redmi 5A Global</td><td>Stable</td><td>Recovery</td><td>V9.5.6.0.NCKMIFA</td><td>7.1</td><td>1.3 GB</td><td>2018-04-05</td><td><a href="/miui/riva/stable/V9.5.6.0.NCKMIFA/">Download</a></td></tr>
 <tr><td>Redmi 5A Global</td><td>Stable</td><td>Recovery</td><td>V9.2.4.0.NCKMIEK</td><td>7.1</td><td>1.3 GB</td><td>2018-02-07</td><td><a href="/miui/riva/stable/V9.2.4.0.NCKMIEK/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>7.1</td><td>2.2 GB</td><td>2018-02-01</td><td><a href="/miui/riva/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Recovery</td><td>8.2.1</td><td>7.1</td><td>1.4 GB</td><td>2018-01-31</td><td><a href="/miui/riva/weekly/8.2.1/">Download</a></td></tr>
@@ -313,6 +311,8 @@ permalink: /archive/miui/riva/
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Recovery</td><td>8.1.25</td><td>7.1</td><td>1.4 GB</td><td>2018-01-24</td><td><a href="/miui/riva/weekly/8.1.25/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Stable</td><td>Fastboot</td><td>V9.2.4.0.NCKCNEK</td><td>7.1</td><td>2.1 GB</td><td>2018-01-19</td><td><a href="/miui/riva/stable/V9.2.4.0.NCKCNEK/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Stable</td><td>Recovery</td><td>V9.2.4.0.NCKCNEK</td><td>7.1</td><td>1.4 GB</td><td>2018-01-19</td><td><a href="/miui/riva/stable/V9.2.4.0.NCKCNEK/">Download</a></td></tr>
+<tr><td>Redmi 5A China</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.NCKCNFA</td><td>7.1</td><td>2.2 GB</td><td>2018-02-13</td><td><a href="/miui/riva/stable/V9.5.2.0.NCKCNFA/">Download</a></td></tr>
+<tr><td>Redmi 5A China</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.NCKCNFA</td><td>7.1</td><td>1.4 GB</td><td>2018-02-13</td><td><a href="/miui/riva/stable/V9.5.2.0.NCKCNFA/">Download</a></td></tr>
 <tr><td>Redmi 5A China</td><td>Weekly</td><td>Recovery</td><td>8.1.18</td><td>7.1</td><td>1.4 GB</td><td>2018-01-17</td><td><a href="/miui/riva/weekly/8.1.18/">Download</a></td></tr>
 <tr><td>Redmi 5A Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.2.0.NCKMIEK</td><td>7.1</td><td>1.8 GB</td><td>2018-01-15</td><td><a href="/miui/riva/stable/V9.2.2.0.NCKMIEK/">Download</a></td></tr>
 <tr><td>Redmi 5A Global</td><td>Stable</td><td>Recovery</td><td>V9.2.2.0.NCKMIEK</td><td>7.1</td><td>1.3 GB</td><td>2018-01-15</td><td><a href="/miui/riva/stable/V9.2.2.0.NCKMIEK/">Download</a></td></tr>

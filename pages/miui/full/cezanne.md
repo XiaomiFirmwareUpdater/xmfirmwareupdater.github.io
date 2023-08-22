@@ -79,7 +79,6 @@ permalink: /archive/miui/cezanne/
 <tr><td>Redmi K30 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.45.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-07-08</td><td><a href="/miui/cezanne/public beta/V13.0.1.1.45.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V13.0.2.0.SJNCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-07-04</td><td><a href="/miui/cezanne/stable beta/V13.0.2.0.SJNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.43.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-07-01</td><td><a href="/miui/cezanne/public beta/V13.0.1.1.43.DEV/">Download</a></td></tr>
-<tr><td>Redmi K30 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.40.DEV</td><td>12.0</td><td>4.6 GB</td><td>2022-06-24</td><td><a href="/miui/cezanne/public beta/V13.0.1.1.40.DEV/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SJNCNXM</td><td>12.0</td><td>3.8 GB</td><td>2022-06-17</td><td><a href="/miui/cezanne/stable/V13.0.1.0.SJNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SJNCNXM</td><td>12.0</td><td>5.8 GB</td><td>2022-06-12</td><td><a href="/miui/cezanne/stable/V13.0.1.0.SJNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.39.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-06-17</td><td><a href="/miui/cezanne/public beta/V13.0.1.1.39.DEV/">Download</a></td></tr>
@@ -181,6 +180,7 @@ permalink: /archive/miui/cezanne/
 <tr><td>Redmi K30 Ultra China</td><td>Weekly</td><td>Recovery</td><td>20.8.27</td><td>10.0</td><td>3.1 GB</td><td>2020-08-28</td><td><a href="/miui/cezanne/weekly/20.8.27/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Recovery</td><td>V12.0.8.0.QJNCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-08-12</td><td><a href="/miui/cezanne/stable/V12.0.8.0.QJNCNXM/">Download</a></td></tr>
 <tr><td>Redmi K30 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V12.0.8.0.QJNCNXM</td><td>10.0</td><td>4.2 GB</td><td>2020-08-08</td><td><a href="/miui/cezanne/stable/V12.0.8.0.QJNCNXM/">Download</a></td></tr>
+<tr><td>Redmi K30 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.1.1.40.DEV</td><td>12.0</td><td>4.6 GB</td><td>None</td><td><a href="/miui/cezanne/public beta/V13.0.1.1.40.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

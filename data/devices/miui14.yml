@@ -326,7 +326,7 @@
   codename: corot
   date: '2023-08-15'
   download: https://bigota.d.miui.com/V14.0.8.0.TMLCNXM/fw_corot_miui_COROT_V14.0.8.0.TMLCNXM_9d20ec48db_13.0.zip
-  name: Redmi K60 Ultra
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: V14.0.8.0.TMLCNXM
 - android: '13.0'
   codename: courbet
@@ -478,6 +478,12 @@
   download: https://bigota.d.miui.com/V14.0.7.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.7.0.TLGCNXM_d53e0f5903_13.0.zip
   name: Xiaomi 12 Pro Dimensity
   version: V14.0.7.0.TLGCNXM
+- android: '13.0'
+  codename: daumier
+  date: '2023-08-22'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLGCNXM/fw_daumier_miui_DAUMIER_V14.0.9.0.TLGCNXM_0052e3f6cc_13.0.zip
+  name: Xiaomi 12 Pro Dimensity
+  version: V14.0.9.0.TLGCNXM
 - android: '13.0'
   codename: daumier
   date: '2023-02-14'
@@ -984,6 +990,12 @@
   version: V14.0.1.0.TMAMIXM
 - android: '13.0'
   codename: ishtar
+  date: '2023-08-22'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMAMIXM/fw_ishtar_miui_ISHTARGlobal_V14.0.3.0.TMAMIXM_3c0ba60c9e_13.0.zip
+  name: Xiaomi 13 Ultra
+  version: V14.0.3.0.TMAMIXM
+- android: '13.0'
+  codename: ishtar
   date: '2023-08-19'
   download: https://bigota.d.miui.com/V14.0.5.0.TMAEUXM/fw_ishtar_miui_ISHTAREEAGlobal_V14.0.5.0.TMAEUXM_10a294b68d_13.0.zip
   name: Xiaomi 13 Ultra
@@ -1300,6 +1312,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMRINXM/fw_marble_miui_MARBLEINGlobal_V14.0.4.0.TMRINXM_f28e3f3c33_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: V14.0.4.0.TMRINXM
+- android: '13.0'
+  codename: marble
+  date: '2023-08-22'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMRINXM/fw_marble_miui_MARBLEINGlobal_V14.0.5.0.TMRINXM_496883a5c6_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.5.0.TMRINXM
 - android: '13.0'
   codename: marble
   date: '2023-08-21'
@@ -1860,6 +1878,12 @@
   version: V14.0.4.0.TKTEUXM
 - android: '13.0'
   codename: pissarro
+  date: '2023-08-22'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKTINXM/fw_pissarro_miui_PISSARROINGlobal_V14.0.4.0.TKTINXM_279de1457e_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.4.0.TKTINXM
+- android: '13.0'
+  codename: pissarro
   date: '2023-08-21'
   download: https://bigota.d.miui.com/V14.0.6.0.TKTCNXM/fw_pissarro_miui_PISSARRO_V14.0.6.0.TKTCNXM_f2c3da7a64_13.0.zip
   name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
@@ -2220,6 +2244,12 @@
   version: V14.0.1.0.TLUEUXM
 - android: '13.0'
   codename: rock
+  date: '2023-08-22'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLUMIXM/fw_rock_miui_ROCKGlobal_V14.0.8.0.TLUMIXM_9b89fd9841_13.0.zip
+  name: POCO M5/Redmi 11 Prime 4G
+  version: V14.0.8.0.TLUMIXM
+- android: '13.0'
+  codename: rock
   date: '2023-07-21'
   download: https://bigota.d.miui.com/V14.0.2.0.TLUINXM/fw_rock_miui_ROCKINGlobal_V14.0.2.0.TLUINXM_2a03c56898_13.0.zip
   name: POCO M5/Redmi 11 Prime 4G
@@ -2326,6 +2356,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SMOMIXM/fw_ruby_miui_RUBYGlobal_V14.0.2.0.SMOMIXM_4bbfd34dc6_12.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
   version: V14.0.2.0.SMOMIXM
+- android: '13.0'
+  codename: ruby
+  date: '2023-08-22'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMOEUXM/fw_ruby_miui_RUBYEEAGlobal_V14.0.4.0.TMOEUXM_4f912b117e_13.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.4.0.TMOEUXM
 - android: '13.0'
   codename: ruby
   date: '2023-07-19'
@@ -2626,6 +2662,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.2.0.SMQMIXM_c4d02a0348_12.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: V14.0.2.0.SMQMIXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-08-22'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMQINXM/fw_sunstone_miui_SUNSTONEINGlobal_V14.0.3.0.TMQINXM_9c8c12b1a7_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.3.0.TMQINXM
 - android: '12.0'
   codename: sunstone
   date: '2023-04-20'
@@ -3250,6 +3292,12 @@
   download: https://bigota.d.miui.com/V14.0.9.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.9.0.TGOMIXM_95d4da1bee_13.0.zip
   name: Redmi A2/A2+/POCO C51
   version: V14.0.9.0.TGOMIXM
+- android: '13.0'
+  codename: water
+  date: '2023-08-22'
+  download: https://bigota.d.miui.com/V14.0.15.0.TGOMIXM/fw_water_miui_WATERGlobal_V14.0.15.0.TGOMIXM_3895b1029e_13.0.zip
+  name: Redmi A2/A2+/POCO C51
+  version: V14.0.15.0.TGOMIXM
 - android: '13.0'
   codename: water
   date: '2023-04-18'

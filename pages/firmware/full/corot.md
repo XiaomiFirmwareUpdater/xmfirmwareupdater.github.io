@@ -1,7 +1,7 @@
 ---
-title: Redmi K60 Ultra (corot) Firmware Downloads
+title: Redmi K60 Ultra/Xiaomi 13T Pro (corot) Firmware Downloads
 layout: download
-name: Redmi K60 Ultra
+name: Redmi K60 Ultra/Xiaomi 13T Pro
 codename: corot
 permalink: /archive/firmware/corot/
 ---
@@ -9,7 +9,7 @@ permalink: /archive/firmware/corot/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/firmware/">Firmware</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/corot/">Redmi K60 Ultra</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/firmware/corot/">Redmi K60 Ultra/Xiaomi 13T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">

@@ -208,8 +208,6 @@ permalink: /archive/miui/nikel/
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>6.0</td><td>1.3 GB</td><td>2018-03-01</td><td><a href="/miui/nikel/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>6.0</td><td>1.7 GB</td><td>2018-03-01</td><td><a href="/miui/nikel/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>6.0</td><td>1.4 GB</td><td>2018-02-28</td><td><a href="/miui/nikel/weekly/8.3.1/">Download</a></td></tr>
-<tr><td>Redmi Note 4 MTK China</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.MBFCNFA</td><td>6.0</td><td>1.3 GB</td><td>2018-02-13</td><td><a href="/miui/nikel/stable/V9.5.2.0.MBFCNFA/">Download</a></td></tr>
-<tr><td>Redmi Note 4 MTK China</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.MBFCNFA</td><td>6.0</td><td>2.0 GB</td><td>2018-02-13</td><td><a href="/miui/nikel/stable/V9.5.2.0.MBFCNFA/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Fastboot</td><td>8.2.8</td><td>6.0</td><td>1.7 GB</td><td>2018-02-08</td><td><a href="/miui/nikel/weekly/8.2.8/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Recovery</td><td>8.2.8</td><td>6.0</td><td>1.4 GB</td><td>2018-02-07</td><td><a href="/miui/nikel/weekly/8.2.8/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Recovery</td><td>8.2.2</td><td>6.0</td><td>1.3 GB</td><td>2018-02-02</td><td><a href="/miui/nikel/weekly/8.2.2/">Download</a></td></tr>
@@ -222,6 +220,8 @@ permalink: /archive/miui/nikel/
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Recovery</td><td>8.1.25</td><td>6.0</td><td>1.4 GB</td><td>2018-01-24</td><td><a href="/miui/nikel/weekly/8.1.25/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.1.0.MBFMIFA</td><td>6.0</td><td>1.7 GB</td><td>2018-03-08</td><td><a href="/miui/nikel/stable/V9.5.1.0.MBFMIFA/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Stable</td><td>Recovery</td><td>V9.5.1.0.MBFMIFA</td><td>6.0</td><td>1.4 GB</td><td>2018-03-07</td><td><a href="/miui/nikel/stable/V9.5.1.0.MBFMIFA/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK China</td><td>Stable</td><td>Recovery</td><td>V9.5.2.0.MBFCNFA</td><td>6.0</td><td>1.3 GB</td><td>2018-02-13</td><td><a href="/miui/nikel/stable/V9.5.2.0.MBFCNFA/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK China</td><td>Stable</td><td>Fastboot</td><td>V9.5.2.0.MBFCNFA</td><td>6.0</td><td>2.0 GB</td><td>2018-02-13</td><td><a href="/miui/nikel/stable/V9.5.2.0.MBFCNFA/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Fastboot</td><td>8.1.18</td><td>6.0</td><td>1.7 GB</td><td>2018-01-18</td><td><a href="/miui/nikel/weekly/8.1.18/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Fastboot</td><td>8.1.18</td><td>6.0</td><td>2.1 GB</td><td>2018-01-18</td><td><a href="/miui/nikel/weekly/8.1.18/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Recovery</td><td>8.1.18</td><td>6.0</td><td>1.3 GB</td><td>2018-01-17</td><td><a href="/miui/nikel/weekly/8.1.18/">Download</a></td></tr>
@@ -242,9 +242,9 @@ permalink: /archive/miui/nikel/
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Recovery</td><td>7.12.8</td><td>6.0</td><td>1.3 GB</td><td>2017-12-08</td><td><a href="/miui/nikel/weekly/7.12.8/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Fastboot</td><td>7.12.8</td><td>6.0</td><td>1.6 GB</td><td>2017-12-08</td><td><a href="/miui/nikel/weekly/7.12.8/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Recovery</td><td>7.12.8</td><td>6.0</td><td>1.3 GB</td><td>2017-12-08</td><td><a href="/miui/nikel/weekly/7.12.8/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK Global</td><td>Stable</td><td>Recovery</td><td>V9.2.2.0.MBFMIEK</td><td>6.0</td><td>1.4 GB</td><td>2017-12-20</td><td><a href="/miui/nikel/stable/V9.2.2.0.MBFMIEK/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Fastboot</td><td>7.11.30</td><td>6.0</td><td>2.1 GB</td><td>2017-11-30</td><td><a href="/miui/nikel/weekly/7.11.30/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Recovery</td><td>7.11.30</td><td>6.0</td><td>1.3 GB</td><td>2017-11-29</td><td><a href="/miui/nikel/weekly/7.11.30/">Download</a></td></tr>
-<tr><td>Redmi Note 4 MTK Global</td><td>Stable</td><td>Recovery</td><td>V9.2.2.0.MBFMIEK</td><td>6.0</td><td>1.4 GB</td><td>2017-12-20</td><td><a href="/miui/nikel/stable/V9.2.2.0.MBFMIEK/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Fastboot</td><td>7.11.23</td><td>6.0</td><td>1.6 GB</td><td>2017-11-23</td><td><a href="/miui/nikel/weekly/7.11.23/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Fastboot</td><td>7.11.23</td><td>6.0</td><td>2.1 GB</td><td>2017-11-23</td><td><a href="/miui/nikel/weekly/7.11.23/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Recovery</td><td>7.11.23</td><td>6.0</td><td>1.3 GB</td><td>2017-11-22</td><td><a href="/miui/nikel/weekly/7.11.23/">Download</a></td></tr>
@@ -312,6 +312,7 @@ permalink: /archive/miui/nikel/
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Recovery</td><td>7.3.16</td><td>6.0</td><td>1.5 GB</td><td>2017-03-16</td><td><a href="/miui/nikel/weekly/7.3.16/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Fastboot</td><td>7.3.16</td><td>6.0</td><td>1.8 GB</td><td>2017-03-16</td><td><a href="/miui/nikel/weekly/7.3.16/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Fastboot</td><td>7.3.16</td><td>6.0</td><td>2.0 GB</td><td>2017-03-16</td><td><a href="/miui/nikel/weekly/7.3.16/">Download</a></td></tr>
+<tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Recovery</td><td>7.3.16</td><td>6.0</td><td>1.4 GB</td><td>2017-03-16</td><td><a href="/miui/nikel/weekly/7.3.16/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK China</td><td>Stable</td><td>Recovery</td><td>V8.1.14.0.MBFCNDI</td><td>6.0</td><td>1.1 GB</td><td>2017-03-13</td><td><a href="/miui/nikel/stable/V8.1.14.0.MBFCNDI/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK China</td><td>Weekly</td><td>Fastboot</td><td>7.3.9</td><td>6.0</td><td>2.0 GB</td><td>2017-03-09</td><td><a href="/miui/nikel/weekly/7.3.9/">Download</a></td></tr>
 <tr><td>Redmi Note 4 MTK Global</td><td>Weekly</td><td>Recovery</td><td>7.3.9</td><td>6.0</td><td>1.5 GB</td><td>2017-03-09</td><td><a href="/miui/nikel/weekly/7.3.9/">Download</a></td></tr>

@@ -302,10 +302,10 @@ permalink: /archive/miui/rosy/
 <tr><td>Redmi 5 China</td><td>Weekly</td><td>Recovery</td><td>8.3.8</td><td>7.1</td><td>1.4 GB</td><td>2018-03-07</td><td><a href="/miui/rosy/weekly/8.3.8/">Download</a></td></tr>
 <tr><td>Redmi 5 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>7.1</td><td>2.1 GB</td><td>2018-03-01</td><td><a href="/miui/rosy/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Redmi 5 China</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>7.1</td><td>1.4 GB</td><td>2018-02-28</td><td><a href="/miui/rosy/weekly/8.3.1/">Download</a></td></tr>
-<tr><td>Redmi 5 China</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.NDACNEK</td><td>7.1</td><td>1.4 GB</td><td>2018-02-10</td><td><a href="/miui/rosy/stable/V9.2.3.0.NDACNEK/">Download</a></td></tr>
-<tr><td>Redmi 5 China</td><td>Stable</td><td>Fastboot</td><td>V9.2.3.0.NDACNEK</td><td>7.1</td><td>2.1 GB</td><td>2018-02-10</td><td><a href="/miui/rosy/stable/V9.2.3.0.NDACNEK/">Download</a></td></tr>
 <tr><td>Redmi 5 China</td><td>Stable</td><td>Recovery</td><td>V9.5.1.0.NDACNFA</td><td>7.1</td><td>1.4 GB</td><td>2018-02-28</td><td><a href="/miui/rosy/stable/V9.5.1.0.NDACNFA/">Download</a></td></tr>
 <tr><td>Redmi 5 China</td><td>Stable</td><td>Fastboot</td><td>V9.5.1.0.NDACNFA</td><td>7.1</td><td>2.1 GB</td><td>2018-02-28</td><td><a href="/miui/rosy/stable/V9.5.1.0.NDACNFA/">Download</a></td></tr>
+<tr><td>Redmi 5 China</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.NDACNEK</td><td>7.1</td><td>1.4 GB</td><td>2018-02-10</td><td><a href="/miui/rosy/stable/V9.2.3.0.NDACNEK/">Download</a></td></tr>
+<tr><td>Redmi 5 China</td><td>Stable</td><td>Fastboot</td><td>V9.2.3.0.NDACNEK</td><td>7.1</td><td>2.1 GB</td><td>2018-02-10</td><td><a href="/miui/rosy/stable/V9.2.3.0.NDACNEK/">Download</a></td></tr>
 <tr><td>Redmi 5 Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.7.0.NDAMIEK</td><td>7.1</td><td>2.1 GB</td><td>2018-02-08</td><td><a href="/miui/rosy/stable/V9.2.7.0.NDAMIEK/">Download</a></td></tr>
 <tr><td>Redmi 5 Global</td><td>Stable</td><td>Recovery</td><td>V9.2.7.0.NDAMIEK</td><td>7.1</td><td>1.5 GB</td><td>2018-02-07</td><td><a href="/miui/rosy/stable/V9.2.7.0.NDAMIEK/">Download</a></td></tr>
 <tr><td>Redmi 5 China</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>7.1</td><td>2.2 GB</td><td>2018-02-01</td><td><a href="/miui/rosy/weekly/8.2.1/">Download</a></td></tr>

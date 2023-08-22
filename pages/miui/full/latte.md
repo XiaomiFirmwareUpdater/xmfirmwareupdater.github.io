@@ -128,9 +128,10 @@ permalink: /archive/miui/latte/
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V7.1.7.0.LACCNCL</td><td>5.1</td><td>745.8 MB</td><td>2016-01-25</td><td><a href="/miui/latte/stable/V7.1.7.0.LACCNCL/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Fastboot</td><td>V7.1.7.0.LACCNCL</td><td>5.1</td><td>814.4 MB</td><td>2016-01-07</td><td><a href="/miui/latte/stable/V7.1.7.0.LACCNCL/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V7.1.6.0.LACCNCL</td><td>5.1</td><td>745.8 MB</td><td>2016-01-18</td><td><a href="/miui/latte/stable/V7.1.6.0.LACCNCL/">Download</a></td></tr>
+<tr><td>MiPad 2 China</td><td>Weekly</td><td>Recovery</td><td>5.12.31</td><td>5.1</td><td>749.7 MB</td><td>2015-12-30</td><td><a href="/miui/latte/weekly/5.12.31/">Download</a></td></tr>
+<tr><td>MiPad 2 China</td><td>Weekly</td><td>Fastboot</td><td>5.12.31</td><td>5.1</td><td>835.9 MB</td><td>2015-12-21</td><td><a href="/miui/latte/weekly/5.12.31/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V7.1.5.0.LACCNCL</td><td>5.1</td><td>745.8 MB</td><td>2015-12-24</td><td><a href="/miui/latte/stable/V7.1.5.0.LACCNCL/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Fastboot</td><td>V7.1.5.0.LACCNCL</td><td>5.1</td><td>814.4 MB</td><td>2015-12-21</td><td><a href="/miui/latte/stable/V7.1.5.0.LACCNCL/">Download</a></td></tr>
-<tr><td>MiPad 2 China</td><td>Weekly</td><td>Fastboot</td><td>5.12.31</td><td>5.1</td><td>835.9 MB</td><td>2015-12-21</td><td><a href="/miui/latte/weekly/5.12.31/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V7.1.3.0.LACCNCK</td><td>5.1</td><td>749.0 MB</td><td>2015-12-18</td><td><a href="/miui/latte/stable/V7.1.3.0.LACCNCK/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Fastboot</td><td>V7.1.3.0.LACCNCK</td><td>5.1</td><td>817.6 MB</td><td>2015-12-09</td><td><a href="/miui/latte/stable/V7.1.3.0.LACCNCK/">Download</a></td></tr>
 <tr><td>MiPad 2 China</td><td>Stable</td><td>Recovery</td><td>V7.1.2.0.LACCNCK</td><td>5.1</td><td>748.9 MB</td><td>2015-12-10</td><td><a href="/miui/latte/stable/V7.1.2.0.LACCNCK/">Download</a></td></tr>

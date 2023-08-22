@@ -296,9 +296,9 @@ permalink: /archive/miui/land/
 <tr><td>Redmi 3S China</td><td>Weekly</td><td>Fastboot</td><td>7.10.19</td><td>6.0</td><td>1.9 GB</td><td>2017-10-19</td><td><a href="/miui/land/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>Redmi 3S China</td><td>Weekly</td><td>Recovery</td><td>7.10.19</td><td>6.0</td><td>1.2 GB</td><td>2017-10-18</td><td><a href="/miui/land/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>Redmi 3S Global</td><td>Weekly</td><td>Recovery</td><td>7.10.19</td><td>6.0</td><td>1.5 GB</td><td>2017-10-18</td><td><a href="/miui/land/weekly/7.10.19/">Download</a></td></tr>
+<tr><td>Redmi 3S China</td><td>Weekly</td><td>Recovery</td><td>7.10.26</td><td>6.0</td><td>1.2 GB</td><td>2017-10-25</td><td><a href="/miui/land/weekly/7.10.26/">Download</a></td></tr>
 <tr><td>Redmi 3S China</td><td>Weekly</td><td>Recovery</td><td>7.10.12</td><td>6.0</td><td>1.2 GB</td><td>2017-10-11</td><td><a href="/miui/land/weekly/7.10.12/">Download</a></td></tr>
 <tr><td>Redmi 3S Global</td><td>Weekly</td><td>Recovery</td><td>7.10.12</td><td>6.0</td><td>1.5 GB</td><td>2017-10-11</td><td><a href="/miui/land/weekly/7.10.12/">Download</a></td></tr>
-<tr><td>Redmi 3S China</td><td>Weekly</td><td>Recovery</td><td>7.10.26</td><td>6.0</td><td>1.2 GB</td><td>2017-10-25</td><td><a href="/miui/land/weekly/7.10.26/">Download</a></td></tr>
 <tr><td>Redmi 3S China</td><td>Stable</td><td>Recovery</td><td>V8.5.1.0.MALCNED</td><td>6.0</td><td>1.2 GB</td><td>2017-09-21</td><td><a href="/miui/land/stable/V8.5.1.0.MALCNED/">Download</a></td></tr>
 <tr><td>Redmi 3S Global</td><td>Weekly</td><td>Recovery</td><td>7.9.22</td><td>6.0</td><td>1.4 GB</td><td>2017-09-21</td><td><a href="/miui/land/weekly/7.9.22/">Download</a></td></tr>
 <tr><td>Redmi 3S China</td><td>Weekly</td><td>Recovery</td><td>7.9.21</td><td>6.0</td><td>1.2 GB</td><td>2017-09-20</td><td><a href="/miui/land/weekly/7.9.21/">Download</a></td></tr>
@@ -318,9 +318,9 @@ permalink: /archive/miui/land/
 <tr><td>Redmi 3S Global</td><td>Weekly</td><td>Recovery</td><td>7.7.6</td><td>6.0</td><td>1.5 GB</td><td>2017-07-05</td><td><a href="/miui/land/weekly/7.7.6/">Download</a></td></tr>
 <tr><td>Redmi 3S Global</td><td>Weekly</td><td>Fastboot</td><td>7.6.29</td><td>6.0</td><td>1.8 GB</td><td>2017-06-29</td><td><a href="/miui/land/weekly/7.6.29/">Download</a></td></tr>
 <tr><td>Redmi 3S Global</td><td>Weekly</td><td>Recovery</td><td>7.6.29</td><td>6.0</td><td>1.5 GB</td><td>2017-06-29</td><td><a href="/miui/land/weekly/7.6.29/">Download</a></td></tr>
+<tr><td>Redmi 3S Global</td><td>Stable</td><td>Recovery</td><td>V8.5.3.0.MALMIED</td><td>6.0</td><td>1.6 GB</td><td>2017-06-24</td><td><a href="/miui/land/stable/V8.5.3.0.MALMIED/">Download</a></td></tr>
 <tr><td>Redmi 3S Global</td><td>Weekly</td><td>Fastboot</td><td>7.6.15</td><td>6.0</td><td>1.8 GB</td><td>2017-06-15</td><td><a href="/miui/land/weekly/7.6.15/">Download</a></td></tr>
 <tr><td>Redmi 3S Global</td><td>Weekly</td><td>Recovery</td><td>7.6.15</td><td>6.0</td><td>1.5 GB</td><td>2017-06-15</td><td><a href="/miui/land/weekly/7.6.15/">Download</a></td></tr>
-<tr><td>Redmi 3S Global</td><td>Stable</td><td>Recovery</td><td>V8.5.3.0.MALMIED</td><td>6.0</td><td>1.6 GB</td><td>2017-06-24</td><td><a href="/miui/land/stable/V8.5.3.0.MALMIED/">Download</a></td></tr>
 <tr><td>Redmi 3S China</td><td>Weekly</td><td>Recovery</td><td>7.6.8</td><td>6.0</td><td>1.3 GB</td><td>2017-06-09</td><td><a href="/miui/land/weekly/7.6.8/">Download</a></td></tr>
 <tr><td>Redmi 3S China</td><td>Weekly</td><td>Fastboot</td><td>7.6.8</td><td>6.0</td><td>1.9 GB</td><td>2017-06-08</td><td><a href="/miui/land/weekly/7.6.8/">Download</a></td></tr>
 <tr><td>Redmi 3S Global</td><td>Weekly</td><td>Fastboot</td><td>7.6.7</td><td>6.0</td><td>1.8 GB</td><td>2017-06-07</td><td><a href="/miui/land/weekly/7.6.7/">Download</a></td></tr>

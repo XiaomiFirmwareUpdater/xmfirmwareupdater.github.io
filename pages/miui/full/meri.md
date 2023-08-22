@@ -247,14 +247,14 @@ permalink: /archive/miui/meri/
 <tr><td>Mi 5C China</td><td>Weekly</td><td>Recovery</td><td>7.6.10</td><td>7.1</td><td>1.2 GB</td><td>2017-06-10</td><td><a href="/miui/meri/weekly/7.6.10/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Weekly</td><td>Fastboot</td><td>7.5.25</td><td>7.1</td><td>1.7 GB</td><td>2017-05-25</td><td><a href="/miui/meri/weekly/7.5.25/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Weekly</td><td>Recovery</td><td>7.5.25</td><td>7.1</td><td>1.2 GB</td><td>2017-05-24</td><td><a href="/miui/meri/weekly/7.5.25/">Download</a></td></tr>
+<tr><td>Mi 5C China</td><td>Stable</td><td>Recovery</td><td>V8.5.3.0.NCJCNED</td><td>7.1</td><td>1.2 GB</td><td>2017-06-17</td><td><a href="/miui/meri/stable/V8.5.3.0.NCJCNED/">Download</a></td></tr>
+<tr><td>Mi 5C China</td><td>Stable</td><td>Fastboot</td><td>V8.5.3.0.NCJCNED</td><td>7.1</td><td>1.7 GB</td><td>2017-06-15</td><td><a href="/miui/meri/stable/V8.5.3.0.NCJCNED/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Weekly</td><td>Fastboot</td><td>7.5.19</td><td>7.1</td><td>1.7 GB</td><td>2017-05-19</td><td><a href="/miui/meri/weekly/7.5.19/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Weekly</td><td>Recovery</td><td>7.5.19</td><td>7.1</td><td>1.2 GB</td><td>2017-05-19</td><td><a href="/miui/meri/weekly/7.5.19/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Stable</td><td>Fastboot</td><td>V8.1.19.0.MCJCNDI</td><td>6.0</td><td>1.4 GB</td><td>2017-05-19</td><td><a href="/miui/meri/stable/V8.1.19.0.MCJCNDI/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Stable</td><td>Recovery</td><td>V8.1.19.0.MCJCNDI</td><td>6.0</td><td>916.5 MB</td><td>2017-05-19</td><td><a href="/miui/meri/stable/V8.1.19.0.MCJCNDI/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Weekly</td><td>Fastboot</td><td>7.5.11</td><td>7.1</td><td>1.7 GB</td><td>2017-05-11</td><td><a href="/miui/meri/weekly/7.5.11/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Weekly</td><td>Recovery</td><td>7.5.11</td><td>7.1</td><td>1.2 GB</td><td>2017-05-11</td><td><a href="/miui/meri/weekly/7.5.11/">Download</a></td></tr>
-<tr><td>Mi 5C China</td><td>Stable</td><td>Recovery</td><td>V8.5.3.0.NCJCNED</td><td>7.1</td><td>1.2 GB</td><td>2017-06-17</td><td><a href="/miui/meri/stable/V8.5.3.0.NCJCNED/">Download</a></td></tr>
-<tr><td>Mi 5C China</td><td>Stable</td><td>Fastboot</td><td>V8.5.3.0.NCJCNED</td><td>7.1</td><td>1.7 GB</td><td>2017-06-15</td><td><a href="/miui/meri/stable/V8.5.3.0.NCJCNED/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Weekly</td><td>Fastboot</td><td>7.5.4</td><td>7.1</td><td>1.7 GB</td><td>2017-05-04</td><td><a href="/miui/meri/weekly/7.5.4/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Weekly</td><td>Recovery</td><td>7.5.4</td><td>7.1</td><td>1.2 GB</td><td>2017-05-04</td><td><a href="/miui/meri/weekly/7.5.4/">Download</a></td></tr>
 <tr><td>Mi 5C China</td><td>Weekly</td><td>Fastboot</td><td>7.4.27</td><td>7.1</td><td>1.4 GB</td><td>2017-04-26</td><td><a href="/miui/meri/weekly/7.4.27/">Download</a></td></tr>

@@ -1,7 +1,7 @@
 ---
-title: Redmi K60 Ultra (corot) MIUI Downloads
+title: Redmi K60 Ultra/Xiaomi 13T Pro (corot) MIUI Downloads
 layout: download
-name: Redmi K60 Ultra
+name: Redmi K60 Ultra/Xiaomi 13T Pro
 codename: corot
 permalink: /miui/corot/
 ---
@@ -9,7 +9,7 @@ permalink: /miui/corot/
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/corot/">Redmi K60 Ultra</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/corot/">Redmi K60 Ultra/Xiaomi 13T Pro</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -53,7 +53,7 @@ permalink: /miui/corot/
                 </thead>
                 <tbody>
                 <tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TMLCNXM</td><td>13.0</td><td>7.9 GB</td><td>2023-08-10</td><td><a href="/miui/corot/stable/V14.0.8.0.TMLCNXM/">Download</a></td></tr>
-<tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TMLCNXM</td><td>13.0</td><td>6.3 GB</td><td>2023-08-15</td><td><a href="/miui/corot/stable/V14.0.8.0.TMLCNXM/">Download</a></td></tr>
+<tr><td>Redmi K60 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMLCNXM</td><td>13.0</td><td>6.3 GB</td><td>2023-08-15</td><td><a href="/miui/corot/stable/V14.0.5.0.TMLCNXM/">Download</a></td></tr>
 <tr><td>Redmi K60 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TMLCNXM</td><td>13.0</td><td>6.3 GB</td><td>2023-08-15</td><td><a href="/miui/corot/stable beta/V14.0.6.0.TMLCNXM/">Download</a></td></tr>
 
                 </tbody>

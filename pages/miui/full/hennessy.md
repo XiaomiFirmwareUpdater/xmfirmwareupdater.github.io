@@ -81,9 +81,9 @@ permalink: /archive/miui/hennessy/
 <tr><td>Redmi Note 3 (MTK) China</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.LHNCNEK</td><td>5.0</td><td>967.1 MB</td><td>2018-01-21</td><td><a href="/miui/hennessy/stable/V9.2.3.0.LHNCNEK/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>8.1.18</td><td>5.0</td><td>990.4 MB</td><td>2018-01-17</td><td><a href="/miui/hennessy/weekly/8.1.18/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>8.1.11</td><td>5.0</td><td>979.0 MB</td><td>2018-01-10</td><td><a href="/miui/hennessy/weekly/8.1.11/">Download</a></td></tr>
-<tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>8.1.4</td><td>5.0</td><td>981.8 MB</td><td>2018-01-03</td><td><a href="/miui/hennessy/weekly/8.1.4/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Stable</td><td>Fastboot</td><td>V9.5.1.0.LHNCNFA</td><td>5.0</td><td>3.1 GB</td><td>2018-03-06</td><td><a href="/miui/hennessy/stable/V9.5.1.0.LHNCNFA/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Stable</td><td>Recovery</td><td>V9.5.1.0.LHNCNFA</td><td>5.0</td><td>991.9 MB</td><td>2018-03-06</td><td><a href="/miui/hennessy/stable/V9.5.1.0.LHNCNFA/">Download</a></td></tr>
+<tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>8.1.4</td><td>5.0</td><td>981.8 MB</td><td>2018-01-03</td><td><a href="/miui/hennessy/weekly/8.1.4/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.12.28</td><td>5.0</td><td>981.2 MB</td><td>2017-12-27</td><td><a href="/miui/hennessy/weekly/7.12.28/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.12.21</td><td>5.0</td><td>980.9 MB</td><td>2017-12-21</td><td><a href="/miui/hennessy/weekly/7.12.21/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.12.14</td><td>5.0</td><td>981.2 MB</td><td>2017-12-13</td><td><a href="/miui/hennessy/weekly/7.12.14/">Download</a></td></tr>
@@ -95,9 +95,9 @@ permalink: /archive/miui/hennessy/
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.11.16</td><td>5.0</td><td>965.2 MB</td><td>2017-11-15</td><td><a href="/miui/hennessy/weekly/7.11.16/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.11.9</td><td>5.0</td><td>964.5 MB</td><td>2017-11-08</td><td><a href="/miui/hennessy/weekly/7.11.9/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.11.2</td><td>5.0</td><td>964.3 MB</td><td>2017-11-01</td><td><a href="/miui/hennessy/weekly/7.11.2/">Download</a></td></tr>
-<tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.10.26</td><td>5.0</td><td>967.1 MB</td><td>2017-10-25</td><td><a href="/miui/hennessy/weekly/7.10.26/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Fastboot</td><td>7.10.19</td><td>5.0</td><td>3.1 GB</td><td>2017-10-19</td><td><a href="/miui/hennessy/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.10.19</td><td>5.0</td><td>974.6 MB</td><td>2017-10-18</td><td><a href="/miui/hennessy/weekly/7.10.19/">Download</a></td></tr>
+<tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.10.26</td><td>5.0</td><td>967.1 MB</td><td>2017-10-25</td><td><a href="/miui/hennessy/weekly/7.10.26/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.10.12</td><td>5.0</td><td>979.1 MB</td><td>2017-10-11</td><td><a href="/miui/hennessy/weekly/7.10.12/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.9.21</td><td>5.0</td><td>975.3 MB</td><td>2017-09-20</td><td><a href="/miui/hennessy/weekly/7.9.21/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.9.14</td><td>5.0</td><td>958.7 MB</td><td>2017-09-13</td><td><a href="/miui/hennessy/weekly/7.9.14/">Download</a></td></tr>
@@ -112,9 +112,9 @@ permalink: /archive/miui/hennessy/
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.4.20</td><td>5.0</td><td>1.2 GB</td><td>2017-04-19</td><td><a href="/miui/hennessy/weekly/7.4.20/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.4.13</td><td>5.0</td><td>1.2 GB</td><td>2017-04-12</td><td><a href="/miui/hennessy/weekly/7.4.13/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.4.6</td><td>5.0</td><td>1.2 GB</td><td>2017-04-05</td><td><a href="/miui/hennessy/weekly/7.4.6/">Download</a></td></tr>
-<tr><td>Redmi Note 3 (MTK) China</td><td>Stable</td><td>Recovery</td><td>V8.2.1.0.LHNCNDL</td><td>5.0</td><td>1.1 GB</td><td>2017-03-22</td><td><a href="/miui/hennessy/stable/V8.2.1.0.LHNCNDL/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Stable</td><td>Fastboot</td><td>V8.5.2.0.LHNCNED</td><td>5.0</td><td>3.2 GB</td><td>2017-07-06</td><td><a href="/miui/hennessy/stable/V8.5.2.0.LHNCNED/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Stable</td><td>Recovery</td><td>V8.5.2.0.LHNCNED</td><td>5.0</td><td>1.2 GB</td><td>2017-07-06</td><td><a href="/miui/hennessy/stable/V8.5.2.0.LHNCNED/">Download</a></td></tr>
+<tr><td>Redmi Note 3 (MTK) China</td><td>Stable</td><td>Recovery</td><td>V8.2.1.0.LHNCNDL</td><td>5.0</td><td>1.1 GB</td><td>2017-03-22</td><td><a href="/miui/hennessy/stable/V8.2.1.0.LHNCNDL/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.3.16</td><td>5.0</td><td>1.2 GB</td><td>2017-03-16</td><td><a href="/miui/hennessy/weekly/7.3.16/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.3.9</td><td>5.0</td><td>1.2 GB</td><td>2017-03-08</td><td><a href="/miui/hennessy/weekly/7.3.9/">Download</a></td></tr>
 <tr><td>Redmi Note 3 (MTK) China</td><td>Weekly</td><td>Recovery</td><td>7.3.6</td><td>5.0</td><td>1.2 GB</td><td>2017-03-05</td><td><a href="/miui/hennessy/weekly/7.3.6/">Download</a></td></tr>

@@ -63,7 +63,6 @@ permalink: /archive/miui/vangogh/
 <tr><td>Mi 10 Lite Zoom China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.40.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-06-24</td><td><a href="/miui/vangogh/public beta/V13.0.3.1.40.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.39.DEV</td><td>12.0</td><td>4.5 GB</td><td>2022-06-17</td><td><a href="/miui/vangogh/public beta/V13.0.3.1.39.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.37.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-06-10</td><td><a href="/miui/vangogh/public beta/V13.0.3.1.37.DEV/">Download</a></td></tr>
-<tr><td>Mi 10 Lite Zoom China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.35.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-05-27</td><td><a href="/miui/vangogh/public beta/V13.0.3.1.35.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.32.DEV</td><td>12.0</td><td>4.4 GB</td><td>2022-05-20</td><td><a href="/miui/vangogh/public beta/V13.0.3.1.32.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Recovery</td><td>V13.0.3.0.SJVCNXM</td><td>12.0</td><td>4.4 GB</td><td>2022-05-19</td><td><a href="/miui/vangogh/stable/V13.0.3.0.SJVCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SJVCNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-05-13</td><td><a href="/miui/vangogh/stable/V13.0.3.0.SJVCNXM/">Download</a></td></tr>
@@ -121,9 +120,9 @@ permalink: /archive/miui/vangogh/
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.5.26</td><td>11.0</td><td>4.1 GB</td><td>2021-05-27</td><td><a href="/miui/vangogh/weekly/21.5.26/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.5.20</td><td>11.0</td><td>4.0 GB</td><td>2021-05-20</td><td><a href="/miui/vangogh/weekly/21.5.20/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.5.12</td><td>11.0</td><td>4.0 GB</td><td>2021-05-13</td><td><a href="/miui/vangogh/weekly/21.5.12/">Download</a></td></tr>
-<tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>4.0 GB</td><td>2021-04-29</td><td><a href="/miui/vangogh/weekly/21.4.28/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Recovery</td><td>V12.5.2.0.RJVCNXM</td><td>11.0</td><td>3.8 GB</td><td>2021-05-17</td><td><a href="/miui/vangogh/stable/V12.5.2.0.RJVCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Fastboot</td><td>V12.5.2.0.RJVCNXM</td><td>11.0</td><td>4.9 GB</td><td>2021-05-11</td><td><a href="/miui/vangogh/stable/V12.5.2.0.RJVCNXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.4.28</td><td>11.0</td><td>4.0 GB</td><td>2021-04-29</td><td><a href="/miui/vangogh/weekly/21.4.28/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Recovery</td><td>V12.1.7.0.RJVCNXM</td><td>11.0</td><td>3.5 GB</td><td>2021-04-27</td><td><a href="/miui/vangogh/stable/V12.1.7.0.RJVCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Fastboot</td><td>V12.1.7.0.RJVCNXM</td><td>11.0</td><td>4.7 GB</td><td>2021-04-22</td><td><a href="/miui/vangogh/stable/V12.1.7.0.RJVCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Weekly</td><td>Recovery</td><td>21.4.21</td><td>11.0</td><td>4.0 GB</td><td>2021-04-22</td><td><a href="/miui/vangogh/weekly/21.4.21/">Download</a></td></tr>
@@ -182,6 +181,7 @@ permalink: /archive/miui/vangogh/
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Fastboot</td><td>V11.0.9.0.QJVCNXM</td><td>10.0</td><td>4.0 GB</td><td>2020-05-19</td><td><a href="/miui/vangogh/stable/V11.0.9.0.QJVCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Recovery</td><td>V11.0.6.0.QJVCNXM</td><td>10.0</td><td>3.0 GB</td><td>2020-05-11</td><td><a href="/miui/vangogh/stable/V11.0.6.0.QJVCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Fastboot</td><td>V11.0.6.0.QJVCNXM</td><td>10.0</td><td>4.0 GB</td><td>2020-05-07</td><td><a href="/miui/vangogh/stable/V11.0.6.0.QJVCNXM/">Download</a></td></tr>
+<tr><td>Mi 10 Lite Zoom China</td><td>Public Beta</td><td>Recovery</td><td>V13.0.3.1.35.DEV</td><td>12.0</td><td>4.4 GB</td><td>None</td><td><a href="/miui/vangogh/public beta/V13.0.3.1.35.DEV/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Recovery</td><td>V12.0.3.0.QJVCNXM</td><td>10.0</td><td>3.3 GB</td><td>2020-06-22</td><td><a href="/miui/vangogh/stable/V12.0.3.0.QJVCNXM/">Download</a></td></tr>
 <tr><td>Mi 10 Lite Zoom China</td><td>Stable</td><td>Fastboot</td><td>V12.0.3.0.QJVCNXM</td><td>10.0</td><td>4.3 GB</td><td>2020-06-20</td><td><a href="/miui/vangogh/stable/V12.0.3.0.QJVCNXM/">Download</a></td></tr>
 
