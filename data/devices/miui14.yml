@@ -492,6 +492,12 @@
   version: V14.0.3.0.TLGCNXM
 - android: '13.0'
   codename: diting
+  date: '2023-08-23'
+  download: https://bigota.d.miui.com/V14.0.16.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.16.0.TLFEUXM_03c8b81371_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.16.0.TLFEUXM
+- android: '13.0'
+  codename: diting
   date: '2023-04-20'
   download: https://bigota.d.miui.com/V14.0.2.0.TLFMIXM/fw_diting_miui_DITINGGlobal_V14.0.2.0.TLFMIXM_824e5a20f1_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -1818,6 +1824,12 @@
   version: V14.0.6.0.TMZCNXM
 - android: '13.0'
   codename: pipa
+  date: '2023-08-23'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMZMIXM/fw_pipa_miui_PIPAGlobal_V14.0.5.0.TMZMIXM_bc637080c4_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.5.0.TMZMIXM
+- android: '13.0'
+  codename: pipa
   date: '2023-05-22'
   download: https://bigota.d.miui.com/V14.0.5.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.5.0.TMZCNXM_bc4f78ac79_13.0.zip
   name: Xiaomi Pad 6
@@ -1942,6 +1954,12 @@
   download: https://bigota.d.miui.com/V14.0.12.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.12.0.TLQEUXM_795a3a4420_13.0.zip
   name: Xiaomi 12T
   version: V14.0.12.0.TLQEUXM
+- android: '13.0'
+  codename: plato
+  date: '2023-08-23'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLQMIXM/fw_plato_miui_PLATOGlobal_V14.0.6.0.TLQMIXM_1452c0816c_13.0.zip
+  name: Xiaomi 12T
+  version: V14.0.6.0.TLQMIXM
 - android: '13.0'
   codename: plato
   date: '2023-04-19'
@@ -2536,6 +2554,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMKCNXM/fw_socrates_miui_SOCRATES_V14.0.11.0.TMKCNXM_01ab8e04e6_13.0.zip
   name: Redmi K60 Pro
   version: V14.0.11.0.TMKCNXM
+- android: '13.0'
+  codename: spes
+  date: '2023-08-23'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGCINXM/fw_spes_miui_SPESINGlobal_V14.0.2.0.TGCINXM_0ab3ac3fee_13.0.zip
+  name: Redmi Note 11
+  version: V14.0.2.0.TGCINXM
 - android: '13.0'
   codename: spes
   date: '2023-08-08'
