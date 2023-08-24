@@ -66,12 +66,10 @@ permalink: /miui/marble/
 <tr><td>POCO F5 India</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMRINXM</td><td>13.0</td><td>6.1 GB</td><td>2023-06-12</td><td><a href="/miui/marble/stable/V14.0.4.0.TMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMRINXM</td><td>13.0</td><td>4.9 GB</td><td>2023-06-20</td><td><a href="/miui/marble/stable/V14.0.4.0.TMRINXM/">Download</a></td></tr>
 <tr><td>POCO F5 India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TMRINXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-18</td><td><a href="/miui/marble/stable beta/V14.0.5.0.TMRINXM/">Download</a></td></tr>
-<tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMRRUXM</td><td>13.0</td><td>7.5 GB</td><td>2023-06-18</td><td><a href="/miui/marble/stable/V14.0.4.0.TMRRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMRRUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-06-28</td><td><a href="/miui/marble/stable/V14.0.4.0.TMRRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TMRRUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-17</td><td><a href="/miui/marble/stable beta/V14.0.5.0.TMRRUXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMRTRXM</td><td>13.0</td><td>7.0 GB</td><td>2023-06-25</td><td><a href="/miui/marble/stable/V14.0.4.0.TMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMRTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-07-04</td><td><a href="/miui/marble/stable/V14.0.4.0.TMRTRXM/">Download</a></td></tr>
-<tr><td>POCO F5 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TMRTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-22</td><td><a href="/miui/marble/stable beta/V14.0.5.0.TMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMRRUXM</td><td>13.0</td><td>7.5 GB</td><td>2023-08-07</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRRUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMRRUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-17</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRRUXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMRTRXM</td><td>13.0</td><td>6.9 GB</td><td>2023-08-14</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRTRXM/">Download</a></td></tr>
+<tr><td>POCO F5 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMRTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-22</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRTRXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMRTWXM</td><td>13.0</td><td>6.6 GB</td><td>2023-08-07</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRTWXM/">Download</a></td></tr>
 <tr><td>POCO F5 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMRTWXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-17</td><td><a href="/miui/marble/stable/V14.0.5.0.TMRTWXM/">Download</a></td></tr>
 
