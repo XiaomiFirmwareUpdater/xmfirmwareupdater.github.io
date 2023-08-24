@@ -53669,6 +53669,16 @@
     android: '8.1'
     miui: 8.6.18
 - branch: stable
+  date: '2023-08-24'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-25.08.2023/fw_sky_miui_SKYINGlobal_V14.0.4.0.TMWINXM_64a9e18c28_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYINGlobal_V14.0.4.0.TMWINXM_64a9e18c28_13.0.zip
+  filename: fw_sky_miui_SKYINGlobal_V14.0.4.0.TMWINXM_64a9e18c28_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMWINXM
+- branch: stable
   date: '2023-07-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-25.07.2023/fw_sky_miui_SKY_V14.0.4.0.TMWCNXM_06c01745ca_13.0.zip
@@ -61568,16 +61578,6 @@
   versions:
     android: '11.0'
     miui: 20.9.8
-- branch: weekly
-  date: '2021-09-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vangogh/releases/download/weekly-09.09.2021/fw_vangogh_miui_VANGOGH_21.9.8_3d95b26999_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.9.8/vangogh/fw_vangogh_miui_VANGOGH_21.9.8_3d95b26999_11.0.zip
-  filename: fw_vangogh_miui_VANGOGH_21.9.8_3d95b26999_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.9.8
 - branch: weekly
   date: '2021-07-08'
   downloads:

@@ -7032,12 +7032,6 @@
   version: 20.9.8
 - android: '11.0'
   codename: vangogh
-  date: '2021-09-09'
-  download: https://bigota.d.miui.com/21.9.8/miui_VANGOGH_21.9.8_3d95b26999_11.0.zip
-  name: Mi 10 Lite Zoom
-  version: 21.9.8
-- android: '11.0'
-  codename: vangogh
   date: '2021-07-08'
   download: https://bigota.d.miui.com/21.7.7/miui_VANGOGH_21.7.7_8951aad473_11.0.zip
   name: Mi 10 Lite Zoom
