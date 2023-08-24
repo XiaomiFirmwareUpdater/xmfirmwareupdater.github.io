@@ -760,6 +760,12 @@
   download: https://bigota.d.miui.com/V14.0.24.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.24.0.TMCCNXM_bad43a4e6f_13.0.zip
   name: Xiaomi 13
   version: V14.0.24.0.TMCCNXM
+- android: '14.0'
+  codename: fuxi
+  date: '2023-08-24'
+  download: https://bigota.d.miui.com/V14.0.0.4.UMCCNXM/fw_fuxi_miui_FUXI_V14.0.0.4.UMCCNXM_7703311c92_14.0.zip
+  name: Xiaomi 13
+  version: V14.0.0.4.UMCCNXM
 - android: '13.0'
   codename: fuxi
   date: '2023-07-18'
@@ -1672,6 +1678,12 @@
   download: https://bigota.d.miui.com/V14.0.24.0.TMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.24.0.TMBEUXM
+- android: '14.0'
+  codename: nuwa
+  date: '2023-08-24'
+  download: https://bigota.d.miui.com/V14.0.0.4.UMBCNXM/fw_nuwa_miui_NUWA_V14.0.0.4.UMBCNXM_32bf040098_14.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.0.4.UMBCNXM
 - android: '13.0'
   codename: nuwa
   date: '2022-12-17'
