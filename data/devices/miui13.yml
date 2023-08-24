@@ -3631,12 +3631,6 @@
 - android: '12.0'
   codename: picasso
   date: '2022-02-13'
-  download: https://bigota.d.miui.com/22.2.9/fw_picasso_miui_PICASSOPRE_22.2.9_6da3db3ef7_12.0.zip
-  name: Redmi K30 5G/Redmi K30i 5G
-  version: 22.2.9
-- android: '12.0'
-  codename: picasso
-  date: '2022-02-13'
   download: https://bigota.d.miui.com/22.2.9/fw_picasso_miui_PICASSO48MPRE_22.2.9_848d655b39_12.0.zip
   name: Redmi K30 5G/Redmi K30i 5G
   version: 22.2.9

@@ -1678,6 +1678,12 @@
   download: https://bigota.d.miui.com/V14.0.24.0.TMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.24.0.TMBEUXM_1d57b3de91_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.24.0.TMBEUXM
+- android: '13.0'
+  codename: nuwa
+  date: '2023-08-24'
+  download: https://bigota.d.miui.com/V14.0.12.0.TMBMIXM/fw_nuwa_miui_NUWAGlobal_V14.0.12.0.TMBMIXM_1a19a77d05_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.12.0.TMBMIXM
 - android: '14.0'
   codename: nuwa
   date: '2023-08-24'
@@ -1828,6 +1834,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.4.0.TMZCNXM_cde299f766_13.0.zip
   name: Xiaomi Pad 6
   version: V14.0.4.0.TMZCNXM
+- android: '13.0'
+  codename: pipa
+  date: '2023-08-24'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.7.0.TMZCNXM_4cb8adc626_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.7.0.TMZCNXM
 - android: '13.0'
   codename: pipa
   date: '2023-07-24'
@@ -2302,6 +2314,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V14.0.4.0.TKLMIXM_5d7c3295fa_13.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
   version: V14.0.4.0.TKLMIXM
+- android: '13.0'
+  codename: rosemary
+  date: '2023-08-24'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKLEUXM/fw_rosemary_miui_ROSEMARYEEAGlobal_V14.0.5.0.TKLEUXM_3024b043dc_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.5.0.TKLEUXM
 - android: '13.0'
   codename: rosemary
   date: '2023-03-17'
