@@ -2359,6 +2359,16 @@
     android: '11.0'
     miui: 21.5.12
 - branch: weekly
+  date: '2022-02-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/weekly-13.02.2022/fw_apollo_miui_APOLLOPRE_22.2.9_b78146d313_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/apollo/fw_apollo_miui_APOLLOPRE_22.2.9_b78146d313_12.0.zip
+  filename: fw_apollo_miui_APOLLOPRE_22.2.9_b78146d313_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: 22.2.9
+- branch: weekly
   date: '2020-11-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/weekly-12.11.2020/fw_apollo_miui_APOLLO_20.11.11_bca86e08db_10.0.zip
@@ -2428,6 +2438,16 @@
   versions:
     android: '11.0'
     miui: 21.9.8
+- branch: weekly
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/weekly-08.04.2021/fw_apollo_miui_APOLLO_21.4.8_0e4504aae8_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.8/apollo/fw_apollo_miui_APOLLO_21.4.8_0e4504aae8_11.0.zip
+  filename: fw_apollo_miui_APOLLO_21.4.8_0e4504aae8_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.4.8
 - branch: weekly
   date: '2021-01-08'
   downloads:
@@ -2518,6 +2538,16 @@
   versions:
     android: '11.0'
     miui: 21.9.1
+- branch: weekly
+  date: '2021-06-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/weekly-03.06.2021/fw_apollo_miui_APOLLO_21.6.2_c56f6da96b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/apollo/fw_apollo_miui_APOLLO_21.6.2_c56f6da96b_11.0.zip
+  filename: fw_apollo_miui_APOLLO_21.6.2_c56f6da96b_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: 21.6.2
 - branch: weekly
   date: '2021-10-02'
   downloads:
@@ -2779,6 +2809,16 @@
     android: '12.0'
     miui: V13.0.6.0.SJDINXM
 - branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-21.01.2021/fw_apollo_miui_APOLLOINGlobal_V12.0.5.0.QJDINXM_30ddfdf664_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOINGlobal_V12.0.5.0.QJDINXM_30ddfdf664_10.0.zip
+  filename: fw_apollo_miui_APOLLOINGlobal_V12.0.5.0.QJDINXM_30ddfdf664_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.5.0.QJDINXM
+- branch: stable
   date: '2020-10-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-20.10.2020/fw_apollo_miui_APOLLOINGlobal_V12.0.2.0.QJDINXM_d3c698e6d6_10.0.zip
@@ -2848,6 +2888,16 @@
   versions:
     android: '11.0'
     miui: V12.5.12.0.RJDEUXM
+- branch: stable
+  date: '2020-11-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-17.11.2020/fw_apollo_miui_APOLLOINGlobal_V12.0.3.0.QJDINXM_8925a89c08_10.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOINGlobal_V12.0.3.0.QJDINXM_8925a89c08_10.0.zip
+  filename: fw_apollo_miui_APOLLOINGlobal_V12.0.3.0.QJDINXM_8925a89c08_10.0.zip
+  region: India
+  versions:
+    android: '10.0'
+    miui: V12.0.3.0.QJDINXM
 - branch: stable
   date: '2022-09-17'
   downloads:
@@ -3078,56 +3128,6 @@
   versions:
     android: '12.0'
     miui: V13.0.12.0.SJDEUXM
-- branch: stable
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-12.01.2021/fw_apollo_miui_APOLLO_V12.0.10.0.QJDCNXM_7b1e9f67ab_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLO_V12.0.10.0.QJDCNXM_7b1e9f67ab_10.0.zip
-  filename: fw_apollo_miui_APOLLO_V12.0.10.0.QJDCNXM_7b1e9f67ab_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.10.0.QJDCNXM
-- branch: stable
-  date: '2020-12-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-11.12.2020/fw_apollo_miui_APOLLOGlobal_V12.0.8.0.QJDMIXM_c8052ebd0d_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOGlobal_V12.0.8.0.QJDMIXM_c8052ebd0d_10.0.zip
-  filename: fw_apollo_miui_APOLLOGlobal_V12.0.8.0.QJDMIXM_c8052ebd0d_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V12.0.8.0.QJDMIXM
-- branch: stable
-  date: '2021-10-11'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-11.10.2021/fw_apollo_miui_APOLLOINGlobal_V12.5.3.0.RJDINXM_322250c88e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOINGlobal_V12.5.3.0.RJDINXM_322250c88e_11.0.zip
-  filename: fw_apollo_miui_APOLLOINGlobal_V12.5.3.0.RJDINXM_322250c88e_11.0.zip
-  region: India
-  versions:
-    android: '11.0'
-    miui: V12.5.3.0.RJDINXM
-- branch: stable
-  date: '2022-01-10'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-10.01.2022/fw_apollo_miui_APOLLOGlobal_V12.5.8.0.RJDMIXM_71bf9d9b35_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLOGlobal_V12.5.8.0.RJDMIXM_71bf9d9b35_11.0.zip
-  filename: fw_apollo_miui_APOLLOGlobal_V12.5.8.0.RJDMIXM_71bf9d9b35_11.0.zip
-  region: Global
-  versions:
-    android: '11.0'
-    miui: V12.5.8.0.RJDMIXM
-- branch: stable
-  date: '2021-09-09'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_apollo/releases/download/stable-09.09.2021/fw_apollo_miui_APOLLO_V12.5.5.0.RJDCNXM_5232ee8e33_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/apollo/fw_apollo_miui_APOLLO_V12.5.5.0.RJDCNXM_5232ee8e33_11.0.zip
-  filename: fw_apollo_miui_APOLLO_V12.5.5.0.RJDCNXM_5232ee8e33_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.5.5.0.RJDCNXM
 - branch: stable
   date: '2021-04-18'
   downloads:

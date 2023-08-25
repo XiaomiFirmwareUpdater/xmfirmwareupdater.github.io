@@ -228,6 +228,12 @@
   version: 22.2.16
 - android: '12.0'
   codename: apollo
+  date: '2022-02-13'
+  download: https://bigota.d.miui.com/22.2.9/fw_apollo_miui_APOLLOPRE_22.2.9_b78146d313_12.0.zip
+  name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
+  version: 22.2.9
+- android: '12.0'
+  codename: apollo
   date: '2022-03-04'
   download: https://bigota.d.miui.com/22.3.3/fw_apollo_miui_APOLLOPRE_22.3.3_d72a1bdb6f_12.0.zip
   name: Redmi K30S Ultra/Mi 10T/Mi 10T Pro
