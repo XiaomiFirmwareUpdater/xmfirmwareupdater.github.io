@@ -135,12 +135,12 @@ permalink: /archive/miui/libra/
 <tr><td>Mi 4c China</td><td>Weekly</td><td>Recovery</td><td>7.11.9</td><td>7.0</td><td>1.1 GB</td><td>2017-11-08</td><td><a href="/miui/libra/weekly/7.11.9/">Download</a></td></tr>
 <tr><td>Mi 4c China</td><td>Weekly</td><td>Fastboot</td><td>7.11.2</td><td>7.0</td><td>1.4 GB</td><td>2017-11-02</td><td><a href="/miui/libra/weekly/7.11.2/">Download</a></td></tr>
 <tr><td>Mi 4c China</td><td>Weekly</td><td>Recovery</td><td>7.11.2</td><td>7.0</td><td>1.1 GB</td><td>2017-11-02</td><td><a href="/miui/libra/weekly/7.11.2/">Download</a></td></tr>
-<tr><td>Mi 4c China</td><td>Stable</td><td>Fastboot</td><td>V9.1.2.0.NXKCNEI</td><td>7.0</td><td>1.3 GB</td><td>2017-11-02</td><td><a href="/miui/libra/stable/V9.1.2.0.NXKCNEI/">Download</a></td></tr>
-<tr><td>Mi 4c China</td><td>Stable</td><td>Recovery</td><td>V9.1.2.0.NXKCNEI</td><td>7.0</td><td>907.1 MB</td><td>2017-11-02</td><td><a href="/miui/libra/stable/V9.1.2.0.NXKCNEI/">Download</a></td></tr>
 <tr><td>Mi 4c China</td><td>Weekly</td><td>Fastboot</td><td>7.10.26</td><td>7.0</td><td>1.4 GB</td><td>2017-10-26</td><td><a href="/miui/libra/weekly/7.10.26/">Download</a></td></tr>
 <tr><td>Mi 4c China</td><td>Weekly</td><td>Recovery</td><td>7.10.26</td><td>7.0</td><td>1.1 GB</td><td>2017-10-25</td><td><a href="/miui/libra/weekly/7.10.26/">Download</a></td></tr>
 <tr><td>Mi 4c China</td><td>Weekly</td><td>Fastboot</td><td>7.10.19</td><td>7.0</td><td>1.4 GB</td><td>2017-10-19</td><td><a href="/miui/libra/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>Mi 4c China</td><td>Weekly</td><td>Recovery</td><td>7.10.19</td><td>7.0</td><td>1.1 GB</td><td>2017-10-18</td><td><a href="/miui/libra/weekly/7.10.19/">Download</a></td></tr>
+<tr><td>Mi 4c China</td><td>Stable</td><td>Fastboot</td><td>V9.1.2.0.NXKCNEI</td><td>7.0</td><td>1.3 GB</td><td>2017-11-02</td><td><a href="/miui/libra/stable/V9.1.2.0.NXKCNEI/">Download</a></td></tr>
+<tr><td>Mi 4c China</td><td>Stable</td><td>Recovery</td><td>V9.1.2.0.NXKCNEI</td><td>7.0</td><td>907.1 MB</td><td>2017-11-02</td><td><a href="/miui/libra/stable/V9.1.2.0.NXKCNEI/">Download</a></td></tr>
 <tr><td>Mi 4c China</td><td>Weekly</td><td>Recovery</td><td>7.10.12</td><td>7.0</td><td>1.1 GB</td><td>2017-10-11</td><td><a href="/miui/libra/weekly/7.10.12/">Download</a></td></tr>
 <tr><td>Mi 4c China</td><td>Weekly</td><td>Recovery</td><td>7.9.28</td><td>7.0</td><td>1.1 GB</td><td>2017-09-27</td><td><a href="/miui/libra/weekly/7.9.28/">Download</a></td></tr>
 <tr><td>Mi 4c China</td><td>Weekly</td><td>Recovery</td><td>7.9.21</td><td>7.0</td><td>1.1 GB</td><td>2017-09-20</td><td><a href="/miui/libra/weekly/7.9.21/">Download</a></td></tr>

@@ -163,10 +163,10 @@ permalink: /archive/miui/beryllium/
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Recovery</td><td>8.11.20</td><td>9.0</td><td>1.8 GB</td><td>2018-11-20</td><td><a href="/miui/beryllium/weekly/8.11.20/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Fastboot</td><td>8.11.15</td><td>9.0</td><td>2.6 GB</td><td>2018-11-16</td><td><a href="/miui/beryllium/weekly/8.11.15/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Recovery</td><td>8.11.15</td><td>9.0</td><td>1.8 GB</td><td>2018-11-16</td><td><a href="/miui/beryllium/weekly/8.11.15/">Download</a></td></tr>
-<tr><td>POCO F1 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.4.0.OEJMIFH</td><td>8.1</td><td>1.7 GB</td><td>2018-11-06</td><td><a href="/miui/beryllium/stable/V10.0.4.0.OEJMIFH/">Download</a></td></tr>
-<tr><td>POCO F1 Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.4.0.OEJMIFH</td><td>8.1</td><td>2.5 GB</td><td>2018-11-06</td><td><a href="/miui/beryllium/stable/V10.0.4.0.OEJMIFH/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Recovery</td><td>8.11.2</td><td>9.0</td><td>1.7 GB</td><td>2018-11-02</td><td><a href="/miui/beryllium/weekly/8.11.2/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Fastboot</td><td>8.11.2</td><td>9.0</td><td>2.5 GB</td><td>2018-11-02</td><td><a href="/miui/beryllium/weekly/8.11.2/">Download</a></td></tr>
+<tr><td>POCO F1 Global</td><td>Stable</td><td>Recovery</td><td>V10.0.4.0.OEJMIFH</td><td>8.1</td><td>1.7 GB</td><td>2018-11-06</td><td><a href="/miui/beryllium/stable/V10.0.4.0.OEJMIFH/">Download</a></td></tr>
+<tr><td>POCO F1 Global</td><td>Stable</td><td>Fastboot</td><td>V10.0.4.0.OEJMIFH</td><td>8.1</td><td>2.5 GB</td><td>2018-11-06</td><td><a href="/miui/beryllium/stable/V10.0.4.0.OEJMIFH/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Recovery</td><td>8.11.1</td><td>9.0</td><td>1.7 GB</td><td>2018-11-01</td><td><a href="/miui/beryllium/weekly/8.11.1/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Recovery</td><td>8.10.25</td><td>8.1</td><td>1.7 GB</td><td>2018-10-26</td><td><a href="/miui/beryllium/weekly/8.10.25/">Download</a></td></tr>
 <tr><td>POCO F1 Global</td><td>Weekly</td><td>Fastboot</td><td>8.10.25</td><td>8.1</td><td>2.5 GB</td><td>2018-10-26</td><td><a href="/miui/beryllium/weekly/8.10.25/">Download</a></td></tr>

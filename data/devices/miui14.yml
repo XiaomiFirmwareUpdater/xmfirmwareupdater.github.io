@@ -1854,6 +1854,18 @@
   version: V14.0.6.0.TLHCNXM
 - android: '13.0'
   codename: pipa
+  date: '2023-08-28'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMZEUXM/fw_pipa_miui_PIPAEEAGlobal_V14.0.4.0.TMZEUXM_4337465828_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.4.0.TMZEUXM
+- android: '13.0'
+  codename: pipa
+  date: '2023-08-28'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMZINXM/fw_pipa_miui_PIPAINGlobal_V14.0.4.0.TMZINXM_786d1bdcb0_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.4.0.TMZINXM
+- android: '13.0'
+  codename: pipa
   date: '2023-04-26'
   download: https://bigota.d.miui.com/V14.0.4.0.TMZCNXM/fw_pipa_miui_PIPA_V14.0.4.0.TMZCNXM_cde299f766_13.0.zip
   name: Xiaomi Pad 6
@@ -1906,6 +1918,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TMZEUXM/fw_pipa_miui_PIPAEEAGlobal_V14.0.3.0.TMZEUXM_04fa01e855_13.0.zip
   name: Xiaomi Pad 6
   version: V14.0.3.0.TMZEUXM
+- android: '13.0'
+  codename: pissarro
+  date: '2023-08-28'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKTMIXM/fw_pissarro_miui_PISSARROGlobal_V14.0.6.0.TKTMIXM_ba40b9e726_13.0.zip
+  name: Redmi Note 11 Pro/Pro+/Redmi Note 11 Pro+ 5G/Xiaomi 11i 5G/Hypercharge
+  version: V14.0.6.0.TKTMIXM
 - android: '13.0'
   codename: pissarro
   date: '2023-03-28'
@@ -3676,6 +3694,12 @@
   download: https://bigota.d.miui.com/V14.0.12.0.TLLCNXM/fw_ziyi_miui_ZIYI_V14.0.12.0.TLLCNXM_cb3f94575d_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.12.0.TLLCNXM
+- android: '13.0'
+  codename: ziyi
+  date: '2023-08-28'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.6.0.TLLEUXM_026bdb98f9_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.6.0.TLLEUXM
 - android: '13.0'
   codename: ziyi
   date: '2023-07-24'

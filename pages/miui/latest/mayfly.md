@@ -55,7 +55,7 @@ permalink: /miui/mayfly/
                 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>7.6 GB</td><td>2022-12-05</td><td><a href="/miui/mayfly/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TLTCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-06-13</td><td><a href="/miui/mayfly/stable/V14.0.9.0.TLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TLTCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-07-07</td><td><a href="/miui/mayfly/stable/V14.0.9.0.TLTCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.7.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-08-11</td><td><a href="/miui/mayfly/public beta/V14.0.23.8.7.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.21.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-08-25</td><td><a href="/miui/mayfly/public beta/V14.0.23.8.21.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLTCNXM</td><td>13.0</td><td>5.9 GB</td><td>2022-12-28</td><td><a href="/miui/mayfly/stable beta/V14.0.4.0.TLTCNXM/">Download</a></td></tr>
 
                 </tbody>

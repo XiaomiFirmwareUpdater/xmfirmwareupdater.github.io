@@ -52,7 +52,9 @@ permalink: /miui/babylon/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>V14.1.5.0.TMVCNXM</td><td>13.0</td><td>8.5 GB</td><td>2023-08-11</td><td><a href="/miui/babylon/stable/V14.1.5.0.TMVCNXM/">Download</a></td></tr>
+                <tr><td>MIX Fold 3 China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.23.8.21.DEV</td><td>13.0</td><td>8.6 GB</td><td>2023-08-21</td><td><a href="/miui/babylon/public beta/V14.0.23.8.21.DEV/">Download</a></td></tr>
+<tr><td>MIX Fold 3 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.21.DEV</td><td>13.0</td><td>6.9 GB</td><td>2023-08-25</td><td><a href="/miui/babylon/public beta/V14.0.23.8.21.DEV/">Download</a></td></tr>
+<tr><td>MIX Fold 3 China</td><td>Stable</td><td>Fastboot</td><td>V14.1.5.0.TMVCNXM</td><td>13.0</td><td>8.5 GB</td><td>2023-08-11</td><td><a href="/miui/babylon/stable/V14.1.5.0.TMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable</td><td>Recovery</td><td>V14.1.5.0.TMVCNXM</td><td>13.0</td><td>6.9 GB</td><td>2023-08-16</td><td><a href="/miui/babylon/stable/V14.1.5.0.TMVCNXM/">Download</a></td></tr>
 <tr><td>MIX Fold 3 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.1.1.0.TMVCNXM</td><td>13.0</td><td>6.9 GB</td><td>2023-08-15</td><td><a href="/miui/babylon/stable beta/V14.1.1.0.TMVCNXM/">Download</a></td></tr>
 
