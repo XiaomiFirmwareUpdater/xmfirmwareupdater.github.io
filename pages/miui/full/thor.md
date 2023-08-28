@@ -76,6 +76,7 @@ permalink: /archive/miui/thor/
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.27.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-31</td><td><a href="/miui/thor/public beta/V14.0.23.3.27.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-24</td><td><a href="/miui/thor/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-03-17</td><td><a href="/miui/thor/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-03-10</td><td><a href="/miui/thor/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.28.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-03-03</td><td><a href="/miui/thor/public beta/V14.0.23.2.28.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.21.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-02-24</td><td><a href="/miui/thor/public beta/V14.0.23.2.21.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.10.0.TLACNXM</td><td>13.0</td><td>6.1 GB</td><td>2023-02-23</td><td><a href="/miui/thor/stable/V14.0.10.0.TLACNXM/">Download</a></td></tr>
@@ -126,7 +127,6 @@ permalink: /archive/miui/thor/
 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.3.0.SLACNXM</td><td>12.0</td><td>7.6 GB</td><td>2022-07-04</td><td><a href="/miui/thor/stable/V13.0.3.0.SLACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Recovery</td><td>V13.0.1.0.SLACNXM</td><td>12.0</td><td>5.6 GB</td><td>2022-07-05</td><td><a href="/miui/thor/stable/V13.0.1.0.SLACNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S Ultra China</td><td>Stable</td><td>Fastboot</td><td>V13.0.1.0.SLACNXM</td><td>12.0</td><td>7.5 GB</td><td>2022-06-25</td><td><a href="/miui/thor/stable/V13.0.1.0.SLACNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12S Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>6.1 GB</td><td>None</td><td><a href="/miui/thor/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

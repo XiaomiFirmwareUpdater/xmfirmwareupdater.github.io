@@ -960,6 +960,12 @@
   version: V14.0.3.0.TKKINXM
 - android: '13.0'
   codename: ingres
+  date: '2023-08-28'
+  download: https://bigota.d.miui.com/V14.0.10.0.TLJCNXM/fw_ingres_miui_INGRES_V14.0.10.0.TLJCNXM_3237bf64bd_13.0.zip
+  name: Redmi K50G/POCO F4 GT
+  version: V14.0.10.0.TLJCNXM
+- android: '13.0'
+  codename: ingres
   date: '2023-01-25'
   download: https://bigota.d.miui.com/V14.0.1.0.TLJMIXM/fw_ingres_miui_INGRESGlobal_V14.0.1.0.TLJMIXM_3620095d7a_13.0.zip
   name: Redmi K50G/POCO F4 GT
@@ -2746,6 +2752,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKAINXM/fw_star_miui_STARINGlobal_V14.0.2.0.TKAINXM_260004a39c_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V14.0.2.0.TKAINXM
+- android: '13.0'
+  codename: sunstone
+  date: '2023-08-28'
+  download: https://bigota.d.miui.com/V14.0.8.0.TMQCNXM/fw_sunstone_miui_SUNSTONE_V14.0.8.0.TMQCNXM_cded3c4e85_13.0.zip
+  name: Redmi Note 12 5G/Note 12R Pro
+  version: V14.0.8.0.TMQCNXM
 - android: '13.0'
   codename: sunstone
   date: '2023-06-25'

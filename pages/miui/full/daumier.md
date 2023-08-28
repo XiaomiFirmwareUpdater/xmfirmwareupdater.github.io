@@ -76,6 +76,7 @@ permalink: /archive/miui/daumier/
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.20.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-03-24</td><td><a href="/miui/daumier/public beta/V14.0.23.3.20.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.13.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-03-17</td><td><a href="/miui/daumier/public beta/V14.0.23.3.13.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.3.7.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-03-10</td><td><a href="/miui/daumier/public beta/V14.0.23.3.7.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-03-03</td><td><a href="/miui/daumier/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.21.DEV</td><td>13.0</td><td>6.1 GB</td><td>2023-02-24</td><td><a href="/miui/daumier/public beta/V14.0.23.2.21.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TLGCNXM</td><td>13.0</td><td>6.1 GB</td><td>2023-02-24</td><td><a href="/miui/daumier/stable/V14.0.7.0.TLGCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TLGCNXM</td><td>13.0</td><td>7.8 GB</td><td>2023-02-16</td><td><a href="/miui/daumier/stable/V14.0.7.0.TLGCNXM/">Download</a></td></tr>
@@ -114,7 +115,6 @@ permalink: /archive/miui/daumier/
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable</td><td>Fastboot</td><td>V13.0.8.0.SLGCNXM</td><td>12.0</td><td>7.5 GB</td><td>2022-07-09</td><td><a href="/miui/daumier/stable/V13.0.8.0.SLGCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable</td><td>Recovery</td><td>V13.0.2.0.SLGCNXM</td><td>12.0</td><td>5.4 GB</td><td>2022-07-07</td><td><a href="/miui/daumier/stable/V13.0.2.0.SLGCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12 Pro Dimensity China</td><td>Stable</td><td>Fastboot</td><td>V13.0.2.0.SLGCNXM</td><td>12.0</td><td>7.4 GB</td><td>2022-06-29</td><td><a href="/miui/daumier/stable/V13.0.2.0.SLGCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi 12 Pro Dimensity China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>6.1 GB</td><td>None</td><td><a href="/miui/daumier/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

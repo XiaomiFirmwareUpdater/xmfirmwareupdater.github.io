@@ -181,14 +181,14 @@ permalink: /archive/miui/cancro/
 <tr><td>MI 3 Global</td><td>Weekly</td><td>Recovery</td><td>7.11.16</td><td>6.0</td><td>781.4 MB</td><td>2017-11-15</td><td><a href="/miui/cancro/weekly/7.11.16/">Download</a></td></tr>
 <tr><td>MI 3 / Mi 4 China</td><td>Weekly</td><td>Fastboot</td><td>7.11.9</td><td>6.0</td><td>1.2 GB</td><td>2017-11-09</td><td><a href="/miui/cancro/weekly/7.11.9/">Download</a></td></tr>
 <tr><td>MI 3 / Mi 4 China</td><td>Weekly</td><td>Recovery</td><td>7.11.9</td><td>6.0</td><td>757.4 MB</td><td>2017-11-08</td><td><a href="/miui/cancro/weekly/7.11.9/">Download</a></td></tr>
+<tr><td>MI 3 / Mi 4 China</td><td>Stable</td><td>Fastboot</td><td>V9.2.2.0.MXDCNEK</td><td>6.0</td><td>1.1 GB</td><td>2017-12-12</td><td><a href="/miui/cancro/stable/V9.2.2.0.MXDCNEK/">Download</a></td></tr>
+<tr><td>MI 3 / Mi 4 China</td><td>Stable</td><td>Recovery</td><td>V9.2.2.0.MXDCNEK</td><td>6.0</td><td>653.2 MB</td><td>2017-12-12</td><td><a href="/miui/cancro/stable/V9.2.2.0.MXDCNEK/">Download</a></td></tr>
 <tr><td>MI 3 / Mi 4 Global</td><td>Weekly</td><td>Fastboot</td><td>7.10.19</td><td>6.0</td><td>1.1 GB</td><td>2017-10-19</td><td><a href="/miui/cancro/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>MI 3 Global</td><td>Weekly</td><td>Fastboot</td><td>7.10.19</td><td>6.0</td><td>1.1 GB</td><td>2017-10-19</td><td><a href="/miui/cancro/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>MI 3 / Mi 4 China</td><td>Weekly</td><td>Fastboot</td><td>7.10.19</td><td>6.0</td><td>1.2 GB</td><td>2017-10-19</td><td><a href="/miui/cancro/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>MI 3 / Mi 4 China</td><td>Weekly</td><td>Recovery</td><td>7.10.19</td><td>6.0</td><td>756.5 MB</td><td>2017-10-18</td><td><a href="/miui/cancro/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>MI 3 / Mi 4 Global</td><td>Weekly</td><td>Recovery</td><td>7.10.19</td><td>6.0</td><td>790.0 MB</td><td>2017-10-18</td><td><a href="/miui/cancro/weekly/7.10.19/">Download</a></td></tr>
 <tr><td>MI 3 Global</td><td>Weekly</td><td>Recovery</td><td>7.10.19</td><td>6.0</td><td>790.0 MB</td><td>2017-10-18</td><td><a href="/miui/cancro/weekly/7.10.19/">Download</a></td></tr>
-<tr><td>MI 3 / Mi 4 China</td><td>Stable</td><td>Fastboot</td><td>V9.2.2.0.MXDCNEK</td><td>6.0</td><td>1.1 GB</td><td>2017-12-12</td><td><a href="/miui/cancro/stable/V9.2.2.0.MXDCNEK/">Download</a></td></tr>
-<tr><td>MI 3 / Mi 4 China</td><td>Stable</td><td>Recovery</td><td>V9.2.2.0.MXDCNEK</td><td>6.0</td><td>653.2 MB</td><td>2017-12-12</td><td><a href="/miui/cancro/stable/V9.2.2.0.MXDCNEK/">Download</a></td></tr>
 <tr><td>MI 3 / Mi 4 China</td><td>Weekly</td><td>Recovery</td><td>7.10.12</td><td>6.0</td><td>751.8 MB</td><td>2017-10-11</td><td><a href="/miui/cancro/weekly/7.10.12/">Download</a></td></tr>
 <tr><td>MI 3 / Mi 4 Global</td><td>Weekly</td><td>Recovery</td><td>7.10.12</td><td>6.0</td><td>778.3 MB</td><td>2017-10-11</td><td><a href="/miui/cancro/weekly/7.10.12/">Download</a></td></tr>
 <tr><td>MI 3 Global</td><td>Weekly</td><td>Recovery</td><td>7.10.12</td><td>6.0</td><td>778.3 MB</td><td>2017-10-11</td><td><a href="/miui/cancro/weekly/7.10.12/">Download</a></td></tr>

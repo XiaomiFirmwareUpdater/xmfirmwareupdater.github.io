@@ -331,8 +331,6 @@ permalink: /archive/miui/sagit/
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Fastboot</td><td>8.4.12</td><td>8.0</td><td>2.5 GB</td><td>2018-04-12</td><td><a href="/miui/sagit/weekly/8.4.12/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Stable</td><td>Fastboot</td><td>V9.5.8.0.OCACNFA</td><td>8.0</td><td>2.4 GB</td><td>2018-05-09</td><td><a href="/miui/sagit/stable/V9.5.8.0.OCACNFA/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Stable</td><td>Recovery</td><td>V9.5.8.0.OCACNFA</td><td>8.0</td><td>1.4 GB</td><td>2018-05-08</td><td><a href="/miui/sagit/stable/V9.5.8.0.OCACNFA/">Download</a></td></tr>
-<tr><td>Mi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.6.0.OCAMIFA</td><td>8.0</td><td>2.1 GB</td><td>2018-04-10</td><td><a href="/miui/sagit/stable/V9.5.6.0.OCAMIFA/">Download</a></td></tr>
-<tr><td>Mi 6 Global</td><td>Stable</td><td>Recovery</td><td>V9.5.6.0.OCAMIFA</td><td>8.0</td><td>1.6 GB</td><td>2018-04-09</td><td><a href="/miui/sagit/stable/V9.5.6.0.OCAMIFA/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Stable</td><td>Recovery</td><td>V9.5.7.0.OCACNFA</td><td>8.0</td><td>1.4 GB</td><td>2018-04-10</td><td><a href="/miui/sagit/stable/V9.5.7.0.OCACNFA/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Stable</td><td>Fastboot</td><td>V9.5.7.0.OCACNFA</td><td>8.0</td><td>2.4 GB</td><td>2018-04-10</td><td><a href="/miui/sagit/stable/V9.5.7.0.OCACNFA/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Recovery</td><td>8.4.9</td><td>8.0</td><td>1.5 GB</td><td>2018-04-09</td><td><a href="/miui/sagit/weekly/8.4.9/">Download</a></td></tr>
@@ -355,6 +353,8 @@ permalink: /archive/miui/sagit/
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Recovery</td><td>8.3.8</td><td>8.0</td><td>1.6 GB</td><td>2018-03-07</td><td><a href="/miui/sagit/weekly/8.3.8/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Stable</td><td>Recovery</td><td>V9.5.3.0.OCACNFA</td><td>8.0</td><td>1.4 GB</td><td>2018-03-07</td><td><a href="/miui/sagit/stable/V9.5.3.0.OCACNFA/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Stable</td><td>Fastboot</td><td>V9.5.3.0.OCACNFA</td><td>8.0</td><td>2.4 GB</td><td>2018-03-07</td><td><a href="/miui/sagit/stable/V9.5.3.0.OCACNFA/">Download</a></td></tr>
+<tr><td>Mi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V9.5.6.0.OCAMIFA</td><td>8.0</td><td>2.1 GB</td><td>2018-04-10</td><td><a href="/miui/sagit/stable/V9.5.6.0.OCAMIFA/">Download</a></td></tr>
+<tr><td>Mi 6 Global</td><td>Stable</td><td>Recovery</td><td>V9.5.6.0.OCAMIFA</td><td>8.0</td><td>1.6 GB</td><td>2018-04-09</td><td><a href="/miui/sagit/stable/V9.5.6.0.OCAMIFA/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Recovery</td><td>8.3.1</td><td>8.0</td><td>1.6 GB</td><td>2018-03-01</td><td><a href="/miui/sagit/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>8.0</td><td>2.1 GB</td><td>2018-03-01</td><td><a href="/miui/sagit/weekly/8.3.1/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Fastboot</td><td>8.3.1</td><td>8.0</td><td>2.4 GB</td><td>2018-03-01</td><td><a href="/miui/sagit/weekly/8.3.1/">Download</a></td></tr>
@@ -363,13 +363,13 @@ permalink: /archive/miui/sagit/
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Recovery</td><td>8.2.24</td><td>8.0</td><td>1.6 GB</td><td>2018-02-23</td><td><a href="/miui/sagit/weekly/8.2.24/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Recovery</td><td>8.2.8</td><td>8.0</td><td>1.6 GB</td><td>2018-02-08</td><td><a href="/miui/sagit/weekly/8.2.8/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Fastboot</td><td>8.2.8</td><td>8.0</td><td>2.1 GB</td><td>2018-02-08</td><td><a href="/miui/sagit/weekly/8.2.8/">Download</a></td></tr>
-<tr><td>Mi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.3.0.OCAMIEK</td><td>8.0</td><td>2.0 GB</td><td>2018-02-06</td><td><a href="/miui/sagit/stable/V9.2.3.0.OCAMIEK/">Download</a></td></tr>
-<tr><td>Mi 6 Global</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.OCAMIEK</td><td>8.0</td><td>1.5 GB</td><td>2018-02-06</td><td><a href="/miui/sagit/stable/V9.2.3.0.OCAMIEK/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.OCACNEK</td><td>8.0</td><td>1.4 GB</td><td>2018-02-02</td><td><a href="/miui/sagit/stable/V9.2.3.0.OCACNEK/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Recovery</td><td>8.2.1</td><td>8.0</td><td>1.4 GB</td><td>2018-02-01</td><td><a href="/miui/sagit/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>8.0</td><td>2.1 GB</td><td>2018-02-01</td><td><a href="/miui/sagit/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Fastboot</td><td>8.2.1</td><td>8.0</td><td>2.4 GB</td><td>2018-02-01</td><td><a href="/miui/sagit/weekly/8.2.1/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Recovery</td><td>8.2.1</td><td>8.0</td><td>1.6 GB</td><td>2018-01-31</td><td><a href="/miui/sagit/weekly/8.2.1/">Download</a></td></tr>
+<tr><td>Mi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.3.0.OCAMIEK</td><td>8.0</td><td>2.0 GB</td><td>2018-02-06</td><td><a href="/miui/sagit/stable/V9.2.3.0.OCAMIEK/">Download</a></td></tr>
+<tr><td>Mi 6 Global</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.OCAMIEK</td><td>8.0</td><td>1.5 GB</td><td>2018-02-06</td><td><a href="/miui/sagit/stable/V9.2.3.0.OCAMIEK/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Recovery</td><td>8.1.25</td><td>8.0</td><td>1.4 GB</td><td>2018-01-25</td><td><a href="/miui/sagit/weekly/8.1.25/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Fastboot</td><td>8.1.25</td><td>8.0</td><td>2.1 GB</td><td>2018-01-25</td><td><a href="/miui/sagit/weekly/8.1.25/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Fastboot</td><td>8.1.25</td><td>8.0</td><td>2.4 GB</td><td>2018-01-25</td><td><a href="/miui/sagit/weekly/8.1.25/">Download</a></td></tr>
@@ -383,8 +383,6 @@ permalink: /archive/miui/sagit/
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Recovery</td><td>8.1.11</td><td>8.0</td><td>1.6 GB</td><td>2018-01-11</td><td><a href="/miui/sagit/weekly/8.1.11/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Stable</td><td>Fastboot</td><td>V9.2.2.0.NCAMIEK</td><td>7.1</td><td>2.1 GB</td><td>2017-12-27</td><td><a href="/miui/sagit/stable/V9.2.2.0.NCAMIEK/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Stable</td><td>Recovery</td><td>V9.2.2.0.NCAMIEK</td><td>7.1</td><td>1.6 GB</td><td>2017-12-27</td><td><a href="/miui/sagit/stable/V9.2.2.0.NCAMIEK/">Download</a></td></tr>
-<tr><td>Mi 6 China</td><td>Stable</td><td>Fastboot</td><td>V9.2.3.0.NCACNEK</td><td>7.1</td><td>2.5 GB</td><td>2017-12-27</td><td><a href="/miui/sagit/stable/V9.2.3.0.NCACNEK/">Download</a></td></tr>
-<tr><td>Mi 6 China</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.NCACNEK</td><td>7.1</td><td>1.5 GB</td><td>2017-12-27</td><td><a href="/miui/sagit/stable/V9.2.3.0.NCACNEK/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Fastboot</td><td>7.12.21</td><td>7.1</td><td>2.1 GB</td><td>2017-12-21</td><td><a href="/miui/sagit/weekly/7.12.21/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Recovery</td><td>7.12.21</td><td>7.1</td><td>1.7 GB</td><td>2017-12-20</td><td><a href="/miui/sagit/weekly/7.12.21/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Fastboot</td><td>7.12.14</td><td>7.1</td><td>2.1 GB</td><td>2017-12-14</td><td><a href="/miui/sagit/weekly/7.12.14/">Download</a></td></tr>
@@ -395,6 +393,8 @@ permalink: /archive/miui/sagit/
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Recovery</td><td>7.12.7</td><td>7.1</td><td>1.5 GB</td><td>2017-12-06</td><td><a href="/miui/sagit/weekly/7.12.7/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Fastboot</td><td>7.12.1</td><td>7.1</td><td>2.1 GB</td><td>2017-12-01</td><td><a href="/miui/sagit/weekly/7.12.1/">Download</a></td></tr>
 <tr><td>Mi 6 Global</td><td>Weekly</td><td>Recovery</td><td>7.12.1</td><td>7.1</td><td>1.6 GB</td><td>2017-11-30</td><td><a href="/miui/sagit/weekly/7.12.1/">Download</a></td></tr>
+<tr><td>Mi 6 China</td><td>Stable</td><td>Fastboot</td><td>V9.2.3.0.NCACNEK</td><td>7.1</td><td>2.5 GB</td><td>2017-12-27</td><td><a href="/miui/sagit/stable/V9.2.3.0.NCACNEK/">Download</a></td></tr>
+<tr><td>Mi 6 China</td><td>Stable</td><td>Recovery</td><td>V9.2.3.0.NCACNEK</td><td>7.1</td><td>1.5 GB</td><td>2017-12-27</td><td><a href="/miui/sagit/stable/V9.2.3.0.NCACNEK/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Fastboot</td><td>7.11.30</td><td>7.1</td><td>2.5 GB</td><td>2017-11-30</td><td><a href="/miui/sagit/weekly/7.11.30/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Recovery</td><td>7.11.30</td><td>7.1</td><td>1.5 GB</td><td>2017-11-29</td><td><a href="/miui/sagit/weekly/7.11.30/">Download</a></td></tr>
 <tr><td>Mi 6 China</td><td>Weekly</td><td>Fastboot</td><td>7.11.23</td><td>7.1</td><td>2.5 GB</td><td>2017-11-23</td><td><a href="/miui/sagit/weekly/7.11.23/">Download</a></td></tr>
