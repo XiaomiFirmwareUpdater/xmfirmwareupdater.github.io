@@ -869,15 +869,15 @@
     android: '13.0'
     miui: V14.0.3.0.TJAEUXM
 - branch: stable
-  date: '2023-08-15'
+  date: '2023-08-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-15.08.2023/fw_corot_miui_COROT_V14.0.8.0.TMLCNXM_9d20ec48db_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/corot/fw_corot_miui_COROT_V14.0.8.0.TMLCNXM_9d20ec48db_13.0.zip
-  filename: fw_corot_miui_COROT_V14.0.8.0.TMLCNXM_9d20ec48db_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_corot/releases/download/stable-28.08.2023/fw_corot_miui_COROT_V14.0.9.0.TMLCNXM_0eb05cc850_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/corot/fw_corot_miui_COROT_V14.0.9.0.TMLCNXM_0eb05cc850_13.0.zip
+  filename: fw_corot_miui_COROT_V14.0.9.0.TMLCNXM_0eb05cc850_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.8.0.TMLCNXM
+    miui: V14.0.9.0.TMLCNXM
 - branch: stable
   date: '2023-05-22'
   downloads:
@@ -1299,15 +1299,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2023-07-28'
+  date: '2023-08-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-28.07.2023/fw_evergo_miui_EVERGO_V13.0.12.0.SGBCNXM_816aa8d1c8_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/evergo/fw_evergo_miui_EVERGO_V13.0.12.0.SGBCNXM_816aa8d1c8_12.0.zip
-  filename: fw_evergo_miui_EVERGO_V13.0.12.0.SGBCNXM_816aa8d1c8_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_evergo/releases/download/stable-28.08.2023/fw_evergo_miui_EVERGO_V14.0.3.0.TGBCNXM_24b0464c9f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/evergo/fw_evergo_miui_EVERGO_V14.0.3.0.TGBCNXM_24b0464c9f_13.0.zip
+  filename: fw_evergo_miui_EVERGO_V14.0.3.0.TGBCNXM_24b0464c9f_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.12.0.SGBCNXM
+    android: '13.0'
+    miui: V14.0.3.0.TGBCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -3619,15 +3619,15 @@
     android: '13.0'
     miui: V14.0.4.0.TLDMIXM
 - branch: stable
-  date: '2023-04-03'
+  date: '2023-08-28'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-03.04.2023/fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
-  filename: fw_psyche_miui_PSYCHE_V14.0.9.0.TLDCNXM_ba6a2dc313_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_psyche/releases/download/stable-28.08.2023/fw_psyche_miui_PSYCHE_V14.0.10.0.TLDCNXM_4cdce54044_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/psyche/fw_psyche_miui_PSYCHE_V14.0.10.0.TLDCNXM_4cdce54044_13.0.zip
+  filename: fw_psyche_miui_PSYCHE_V14.0.10.0.TLDCNXM_4cdce54044_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TLDCNXM
+    miui: V14.0.10.0.TLDCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
