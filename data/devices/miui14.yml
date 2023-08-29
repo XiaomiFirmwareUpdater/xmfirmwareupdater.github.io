@@ -768,6 +768,12 @@
   version: V14.0.3.0.TGEEUXM
 - android: '13.0'
   codename: fuxi
+  date: '2023-08-29'
+  download: https://bigota.d.miui.com/V14.0.9.0.TMCMIXM/fw_fuxi_miui_FUXIGlobal_V14.0.9.0.TMCMIXM_e156b47e92_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.9.0.TMCMIXM
+- android: '13.0'
+  codename: fuxi
   date: '2023-06-25'
   download: https://bigota.d.miui.com/V14.0.24.0.TMCEUXM/fw_fuxi_miui_FUXIEEAGlobal_V14.0.24.0.TMCEUXM_b42d0e6c2d_13.0.zip
   name: Xiaomi 13
@@ -2914,6 +2920,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKFINXM/fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
   name: Redmi Note 10 Pro/Pro Max
   version: V14.0.1.0.TKFINXM
+- android: '13.0'
+  codename: taoyao
+  date: '2023-08-29'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.6.0.TLIMIXM_7ec8a720a4_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.6.0.TLIMIXM
 - android: '13.0'
   codename: taoyao
   date: '2023-01-28'

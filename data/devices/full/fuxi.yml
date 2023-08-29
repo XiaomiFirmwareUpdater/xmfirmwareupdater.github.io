@@ -1,4 +1,14 @@
 - branch: stable
+  date: '2023-08-29'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-29.08.2023/fw_fuxi_miui_FUXIGlobal_V14.0.9.0.TMCMIXM_e156b47e92_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXIGlobal_V14.0.9.0.TMCMIXM_e156b47e92_13.0.zip
+  filename: fw_fuxi_miui_FUXIGlobal_V14.0.9.0.TMCMIXM_e156b47e92_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.9.0.TMCMIXM
+- branch: stable
   date: '2023-06-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-25.06.2023/fw_fuxi_miui_FUXIEEAGlobal_V14.0.24.0.TMCEUXM_b42d0e6c2d_13.0.zip
