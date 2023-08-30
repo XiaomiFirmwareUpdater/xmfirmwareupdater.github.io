@@ -126,12 +126,6 @@
   version: V14.0.3.0.TKJCNXM
 - android: '13.0'
   codename: ares
-  date: '2023-05-15'
-  download: https://bigota.d.miui.com/V14.0.3.0.TKJINXM/fw_ares_miui_ARESINGlobal_V14.0.3.0.TKJINXM_6f42b74c21_13.0.zip
-  name: Redmi K40 Gaming/POCO F3 GT
-  version: V14.0.3.0.TKJINXM
-- android: '13.0'
-  codename: ares
   date: '2023-02-11'
   download: https://bigota.d.miui.com/V14.0.2.0.TKJCNXM/fw_ares_miui_ARES_V14.0.2.0.TKJCNXM_36a3687cce_13.0.zip
   name: Redmi K40 Gaming/POCO F3 GT
