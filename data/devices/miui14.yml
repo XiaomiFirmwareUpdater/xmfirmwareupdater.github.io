@@ -3551,6 +3551,12 @@
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.4.0.TLOMIXM
 - android: '13.0'
+  codename: xun
+  date: '2023-08-31'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMUMIXM/fw_xun_miui_XUNGlobal_V14.0.2.0.TMUMIXM_fe965b6abb_13.0.zip
+  name: Redmi Pad SE
+  version: V14.0.2.0.TMUMIXM
+- android: '13.0'
   codename: yudi
   date: '2023-08-29'
   download: https://bigota.d.miui.com/V14.0.4.0.TMHCNXM/fw_yudi_miui_YUDI_V14.0.4.0.TMHCNXM_fc95e1b9b3_13.0.zip
