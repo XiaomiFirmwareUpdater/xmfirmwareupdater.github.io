@@ -6428,16 +6428,6 @@
   versions:
     android: '8.1'
     miui: V9.6.25.0.OEJMIFD
-- branch: stable
-  date: '2018-10-12'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_beryllium/releases/download/stable-12.10.2018/fw_beryllium_miui_POCOF1Global_V9.6.24.0.OEJMIFD_4771f982f0_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V9/beryllium/fw_beryllium_miui_POCOF1Global_V9.6.24.0.OEJMIFD_4771f982f0_8.1.zip
-  filename: fw_beryllium_miui_POCOF1Global_V9.6.24.0.OEJMIFD_4771f982f0_8.1.zip
-  region: Global
-  versions:
-    android: '8.1'
-    miui: V9.6.24.0.OEJMIFD
 - branch: weekly
   date: '2018-10-11'
   downloads:
