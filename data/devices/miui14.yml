@@ -276,12 +276,6 @@
   version: V14.0.7.0.TKPCNXM
 - android: '13.0'
   codename: chopin
-  date: '2023-02-13'
-  download: https://bigota.d.miui.com/V14.0.1.0.TKPMIXM/fw_chopin_miui_CHOPINGlobal_V14.0.1.0.TKPMIXM_a929f9e55c_13.0.zip
-  name: Redmi Note 10 Pro 5G/POCO X3 GT
-  version: V14.0.1.0.TKPMIXM
-- android: '13.0'
-  codename: chopin
   date: '2023-05-04'
   download: https://bigota.d.miui.com/V14.0.6.0.TKPCNXM/fw_chopin_miui_CHOPIN_V14.0.6.0.TKPCNXM_278b0400f6_13.0.zip
   name: Redmi Note 10 Pro 5G/POCO X3 GT
@@ -1576,6 +1570,12 @@
   download: https://bigota.d.miui.com/V14.0.21.0.TMNCNXM/fw_mondrian_miui_MONDRIAN_V14.0.21.0.TMNCNXM_daa2975e16_13.0.zip
   name: Redmi K60/POCO F5 Pro
   version: V14.0.21.0.TMNCNXM
+- android: '13.0'
+  codename: moonstone
+  date: '2023-08-31'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMPEUXM/fw_moonstone_miui_MOONSTONEEEAGlobal_V14.0.3.0.TMPEUXM_24a0a7d054_13.0.zip
+  name: POCO X5 5G
+  version: V14.0.3.0.TMPEUXM
 - android: '13.0'
   codename: moonstone
   date: '2023-08-24'
