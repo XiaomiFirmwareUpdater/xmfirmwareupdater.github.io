@@ -605,6 +605,12 @@
   name: Redmi 12C/POCO C55
   version: V14.0.2.0.TCVINXM
 - android: '13.0'
+  codename: earth
+  date: '2023-09-01'
+  download: https://bigota.d.miui.com/V14.0.2.0.TCVCNXM/fw_earth_miui_EARTH_V14.0.2.0.TCVCNXM_a172f552a0_13.0.zip
+  name: Redmi 12C/POCO C55
+  version: V14.0.2.0.TCVCNXM
+- android: '13.0'
   codename: elish
   date: '2023-06-12'
   download: https://bigota.d.miui.com/V14.0.4.0.TKYCNXM/fw_elish_miui_ELISH_V14.0.4.0.TKYCNXM_19b725e343_13.0.zip
