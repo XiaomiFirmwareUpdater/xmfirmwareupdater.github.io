@@ -1469,15 +1469,15 @@
     android: '13.0'
     miui: V14.0.9.0.TMCMIXM
 - branch: stable
-  date: '2023-08-24'
+  date: '2023-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-24.08.2023/fw_fuxi_miui_FUXI_V14.0.0.4.UMCCNXM_7703311c92_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.0.4.UMCCNXM_7703311c92_14.0.zip
-  filename: fw_fuxi_miui_FUXI_V14.0.0.4.UMCCNXM_7703311c92_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-01.09.2023/fw_fuxi_miui_FUXI_V14.0.0.11.UMCCNXM_1fc98fd237_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.0.11.UMCCNXM_1fc98fd237_14.0.zip
+  filename: fw_fuxi_miui_FUXI_V14.0.0.11.UMCCNXM_1fc98fd237_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: V14.0.0.4.UMCCNXM
+    miui: V14.0.0.11.UMCCNXM
 - branch: stable
   date: '2023-08-11'
   downloads:
@@ -2359,15 +2359,15 @@
     android: '13.0'
     miui: V14.0.4.0.TKOMIXM
 - branch: stable
-  date: '2023-07-02'
+  date: '2023-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-02.07.2023/fw_lisa_miui_LISA_V14.0.10.0.TKOCNXM_275ca12a8e_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISA_V14.0.10.0.TKOCNXM_275ca12a8e_13.0.zip
-  filename: fw_lisa_miui_LISA_V14.0.10.0.TKOCNXM_275ca12a8e_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_lisa/releases/download/stable-01.09.2023/fw_lisa_miui_LISA_V14.0.12.0.TKOCNXM_b0140aed3b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/lisa/fw_lisa_miui_LISA_V14.0.12.0.TKOCNXM_b0140aed3b_13.0.zip
+  filename: fw_lisa_miui_LISA_V14.0.12.0.TKOCNXM_b0140aed3b_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.10.0.TKOCNXM
+    miui: V14.0.12.0.TKOCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -2999,15 +2999,15 @@
     android: '13.0'
     miui: V14.0.12.0.TMBMIXM
 - branch: stable
-  date: '2023-08-24'
+  date: '2023-09-01'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-24.08.2023/fw_nuwa_miui_NUWA_V14.0.0.4.UMBCNXM_32bf040098_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWA_V14.0.0.4.UMBCNXM_32bf040098_14.0.zip
-  filename: fw_nuwa_miui_NUWA_V14.0.0.4.UMBCNXM_32bf040098_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-01.09.2023/fw_nuwa_miui_NUWA_V14.0.0.11.UMBCNXM_f3d6b2d080_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWA_V14.0.0.11.UMBCNXM_f3d6b2d080_14.0.zip
+  filename: fw_nuwa_miui_NUWA_V14.0.0.11.UMBCNXM_f3d6b2d080_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: V14.0.0.4.UMBCNXM
+    miui: V14.0.0.11.UMBCNXM
 - branch: stable
   date: '2023-08-12'
   downloads:

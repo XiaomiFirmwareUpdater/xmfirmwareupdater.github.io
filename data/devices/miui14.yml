@@ -832,6 +832,12 @@
   download: https://bigota.d.miui.com/V14.0.29.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.29.0.TMCCNXM_a72354d5c7_13.0.zip
   name: Xiaomi 13
   version: V14.0.29.0.TMCCNXM
+- android: '14.0'
+  codename: fuxi
+  date: '2023-09-01'
+  download: https://bigota.d.miui.com/V14.0.0.11.UMCCNXM/fw_fuxi_miui_FUXI_V14.0.0.11.UMCCNXM_1fc98fd237_14.0.zip
+  name: Xiaomi 13
+  version: V14.0.0.11.UMCCNXM
 - android: '13.0'
   codename: fuxi
   date: '2023-06-01'
@@ -1306,6 +1312,12 @@
   download: https://bigota.d.miui.com/V14.0.10.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.10.0.TKOCNXM_275ca12a8e_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.10.0.TKOCNXM
+- android: '13.0'
+  codename: lisa
+  date: '2023-09-01'
+  download: https://bigota.d.miui.com/V14.0.12.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.12.0.TKOCNXM_b0140aed3b_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.12.0.TKOCNXM
 - android: '13.0'
   codename: liuqin
   date: '2023-07-07'
@@ -1792,6 +1804,12 @@
   download: https://bigota.d.miui.com/V14.0.23.0.TMBCNXM/fw_nuwa_miui_NUWA_V14.0.23.0.TMBCNXM_7c977c5c30_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.23.0.TMBCNXM
+- android: '14.0'
+  codename: nuwa
+  date: '2023-09-01'
+  download: https://bigota.d.miui.com/V14.0.0.11.UMBCNXM/fw_nuwa_miui_NUWA_V14.0.0.11.UMBCNXM_f3d6b2d080_14.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.0.11.UMBCNXM
 - android: '13.0'
   codename: nuwa
   date: '2023-05-01'
