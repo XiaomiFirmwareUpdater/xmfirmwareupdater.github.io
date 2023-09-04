@@ -55,9 +55,8 @@ permalink: /miui/pipa/
                 <tr><td>Xiaomi Pad 6 China</td><td>Public Beta</td><td>Fastboot</td><td>23.5.6</td><td>14.0</td><td>4.9 GB</td><td>2023-05-06</td><td><a href="/miui/pipa/public beta/23.5.6/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TMZCNXM</td><td>13.0</td><td>5.4 GB</td><td>2023-08-15</td><td><a href="/miui/pipa/stable/V14.0.7.0.TMZCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 China</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TMZCNXM</td><td>13.0</td><td>4.7 GB</td><td>2023-08-21</td><td><a href="/miui/pipa/stable/V14.0.7.0.TMZCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMZEUXM</td><td>13.0</td><td>4.5 GB</td><td>2023-06-30</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMZEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-07-10</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZEUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMZEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-08-28</td><td><a href="/miui/pipa/stable beta/V14.0.4.0.TMZEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMZEUXM</td><td>13.0</td><td>4.4 GB</td><td>2023-08-21</td><td><a href="/miui/pipa/stable/V14.0.4.0.TMZEUXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMZEUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-08-28</td><td><a href="/miui/pipa/stable/V14.0.4.0.TMZEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TMZMIXM</td><td>13.0</td><td>4.5 GB</td><td>2023-08-15</td><td><a href="/miui/pipa/stable/V14.0.5.0.TMZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMZMIXM</td><td>13.0</td><td>4.0 GB</td><td>2023-08-23</td><td><a href="/miui/pipa/stable/V14.0.5.0.TMZMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMZIDXM</td><td>13.0</td><td>4.5 GB</td><td>2023-08-08</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZIDXM/">Download</a></td></tr>
@@ -66,12 +65,10 @@ permalink: /miui/pipa/
 <tr><td>Xiaomi Pad 6 India</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMZINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-08-28</td><td><a href="/miui/pipa/stable/V14.0.4.0.TMZINXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMZRUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-08-04</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi Pad 6 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMZRUXM</td><td>13.0</td><td>4.0 GB</td><td>2023-08-11</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMZTRXM</td><td>13.0</td><td>4.5 GB</td><td>2023-07-17</td><td><a href="/miui/pipa/stable/V14.0.2.0.TMZTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMZTRXM</td><td>13.0</td><td>4.0 GB</td><td>2023-07-24</td><td><a href="/miui/pipa/stable/V14.0.2.0.TMZTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TMZTRXM</td><td>13.0</td><td>4.0 GB</td><td>2023-09-01</td><td><a href="/miui/pipa/stable beta/V14.0.3.0.TMZTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMZTWXM</td><td>13.0</td><td>4.4 GB</td><td>2023-06-30</td><td><a href="/miui/pipa/stable/V14.0.2.0.TMZTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMZTWXM</td><td>13.0</td><td>4.0 GB</td><td>2023-07-11</td><td><a href="/miui/pipa/stable/V14.0.2.0.TMZTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TMZTWXM</td><td>13.0</td><td>4.0 GB</td><td>2023-09-01</td><td><a href="/miui/pipa/stable beta/V14.0.3.0.TMZTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMZTRXM</td><td>13.0</td><td>4.5 GB</td><td>2023-08-24</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMZTRXM</td><td>13.0</td><td>4.0 GB</td><td>2023-09-01</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZTRXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMZTWXM</td><td>13.0</td><td>4.4 GB</td><td>2023-08-24</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Pad 6 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMZTWXM</td><td>13.0</td><td>4.0 GB</td><td>2023-09-01</td><td><a href="/miui/pipa/stable/V14.0.3.0.TMZTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
