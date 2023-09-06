@@ -1825,6 +1825,12 @@
 - android: '13.0'
   codename: nuwa
   date: '2023-09-06'
+  download: https://bigota.d.miui.com/V14.0.28.0.TMBEUXM/fw_nuwa_miui_NUWAEEAGlobal_V14.0.28.0.TMBEUXM_d6bc3716b8_13.0.zip
+  name: Xiaomi 13 Pro
+  version: V14.0.28.0.TMBEUXM
+- android: '13.0'
+  codename: nuwa
+  date: '2023-09-06'
   download: https://bigota.d.miui.com/V14.0.11.0.TMBINXM/fw_nuwa_miui_NUWAINGlobal_V14.0.11.0.TMBINXM_0434ae5c79_13.0.zip
   name: Xiaomi 13 Pro
   version: V14.0.11.0.TMBINXM
@@ -2926,18 +2932,6 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.4.0.TMQEUXM_304f5be0b6_13.0.zip
   name: Redmi Note 12 5G/Note 12R Pro
   version: V14.0.4.0.TMQEUXM
-- android: '13.0'
-  codename: sunstone
-  date: '2023-06-05'
-  download: https://bigota.d.miui.com/V14.0.2.0.TMQEUXM/fw_sunstone_miui_SUNSTONEEEAGlobal_V14.0.2.0.TMQEUXM_bc85ab2d4e_13.0.zip
-  name: Redmi Note 12 5G/Note 12R Pro
-  version: V14.0.2.0.TMQEUXM
-- android: '13.0'
-  codename: sunstone
-  date: '2023-06-05'
-  download: https://bigota.d.miui.com/V14.0.3.0.TMQMIXM/fw_sunstone_miui_SUNSTONEGlobal_V14.0.3.0.TMQMIXM_91ab4cb188_13.0.zip
-  name: Redmi Note 12 5G/Note 12R Pro
-  version: V14.0.3.0.TMQMIXM
 - android: '12.0'
   codename: surya
   date: '2023-07-28'

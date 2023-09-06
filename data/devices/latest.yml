@@ -3009,15 +3009,15 @@
     android: '14.0'
     miui: V14.0.0.11.UMBCNXM
 - branch: stable
-  date: '2023-08-12'
+  date: '2023-09-06'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-12.08.2023/fw_nuwa_miui_NUWAEEAGlobal_V14.0.27.0.TMBEUXM_c963e513cb_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWAEEAGlobal_V14.0.27.0.TMBEUXM_c963e513cb_13.0.zip
-  filename: fw_nuwa_miui_NUWAEEAGlobal_V14.0.27.0.TMBEUXM_c963e513cb_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-06.09.2023/fw_nuwa_miui_NUWAEEAGlobal_V14.0.28.0.TMBEUXM_d6bc3716b8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWAEEAGlobal_V14.0.28.0.TMBEUXM_d6bc3716b8_13.0.zip
+  filename: fw_nuwa_miui_NUWAEEAGlobal_V14.0.28.0.TMBEUXM_d6bc3716b8_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.27.0.TMBEUXM
+    miui: V14.0.28.0.TMBEUXM
 - branch: stable
   date: '2023-09-06'
   downloads:
