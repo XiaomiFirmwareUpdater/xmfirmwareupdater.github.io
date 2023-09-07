@@ -56,6 +56,7 @@ permalink: /miui/evergreen/
 <tr><td>POCO M4 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TGBEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-08-09</td><td><a href="/miui/evergreen/stable/V14.0.3.0.TGBEUXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TGBMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-05-30</td><td><a href="/miui/evergreen/stable/V14.0.1.0.TGBMIXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TGBMIXM</td><td>13.0</td><td>3.8 GB</td><td>2023-06-09</td><td><a href="/miui/evergreen/stable/V14.0.1.0.TGBMIXM/">Download</a></td></tr>
+<tr><td>POCO M4 Pro 5G Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TGBMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-09-07</td><td><a href="/miui/evergreen/stable beta/V14.0.2.0.TGBMIXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.5.0.SGBRUXM</td><td>12.0</td><td>5.7 GB</td><td>2023-03-08</td><td><a href="/miui/evergreen/stable/V13.0.5.0.SGBRUXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.5.0.SGBRUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-03-17</td><td><a href="/miui/evergreen/stable/V13.0.5.0.SGBRUXM/">Download</a></td></tr>
 <tr><td>POCO M4 Pro 5G Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TGBRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-06-13</td><td><a href="/miui/evergreen/stable beta/V14.0.1.0.TGBRUXM/">Download</a></td></tr>

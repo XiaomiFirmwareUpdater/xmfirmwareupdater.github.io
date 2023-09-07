@@ -676,6 +676,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TGBEUXM/fw_evergreen_miui_EVERGREENEEAGlobal_V14.0.2.0.TGBEUXM_4e06cb3d68_13.0.zip
   name: POCO M4 Pro 5G
   version: V14.0.2.0.TGBEUXM
+- android: '13.0'
+  codename: evergreen
+  date: '2023-09-07'
+  download: https://bigota.d.miui.com/V14.0.2.0.TGBMIXM/fw_evergreen_miui_EVERGREENGlobal_V14.0.2.0.TGBMIXM_3eba7bc99e_13.0.zip
+  name: POCO M4 Pro 5G
+  version: V14.0.2.0.TGBMIXM
 - android: '12.0'
   codename: excalibur
   date: '2023-05-12'
@@ -1306,6 +1312,18 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TKOCNXM/fw_lisa_miui_LISA_V14.0.8.0.TKOCNXM_dfe39b006e_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
   version: V14.0.8.0.TKOCNXM
+- android: '13.0'
+  codename: lisa
+  date: '2023-09-07'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKOMIXM/fw_lisa_miui_LISAGlobal_V14.0.6.0.TKOMIXM_607b56f4ff_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.6.0.TKOMIXM
+- android: '13.0'
+  codename: lisa
+  date: '2023-09-07'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKOINXM/fw_lisa_miui_LISAINGlobal_V14.0.7.0.TKOINXM_06c1bf4880_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.7.0.TKOINXM
 - android: '13.0'
   codename: lisa
   date: '2023-03-07'
@@ -2286,6 +2304,18 @@
   version: V14.0.3.0.SMSCNXM
 - android: '13.0'
   codename: redwood
+  date: '2023-09-07'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMSEUXM/fw_redwood_miui_REDWOODEEAGlobal_V14.0.3.0.TMSEUXM_0542139e5a_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.3.0.TMSEUXM
+- android: '13.0'
+  codename: redwood
+  date: '2023-09-07'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMSINXM/fw_redwood_miui_REDWOODINGlobal_V14.0.3.0.TMSINXM_8e6dd01ce3_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.3.0.TMSINXM
+- android: '13.0'
+  codename: redwood
   date: '2023-05-06'
   download: https://bigota.d.miui.com/V14.0.1.0.TMSMIXM/fw_redwood_miui_REDWOODGlobal_V14.0.1.0.TMSMIXM_77bc6fad91_13.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
@@ -3130,6 +3160,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMTMIXM/fw_tapas_miui_TAPASGlobal_V14.0.11.0.TMTMIXM_5277319038_13.0.zip
   name: Redmi Note 12 4G
   version: V14.0.11.0.TMTMIXM
+- android: '13.0'
+  codename: tapas
+  date: '2023-09-07'
+  download: https://bigota.d.miui.com/V14.0.8.0.TMTINXM/fw_tapas_miui_TAPASINGlobal_V14.0.8.0.TMTINXM_2c7777899e_13.0.zip
+  name: Redmi Note 12 4G
+  version: V14.0.8.0.TMTINXM
 - android: '13.0'
   codename: tapas
   date: '2023-07-07'
