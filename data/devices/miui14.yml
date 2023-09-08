@@ -161,6 +161,12 @@
   name: MIX Fold 3
   version: V14.1.2.0.TMVCNXM
 - android: '13.0'
+  codename: babylon
+  date: '2023-09-08'
+  download: https://bigota.d.miui.com/V14.1.8.0.TMVCNXM/fw_babylon_miui_BABYLON_V14.1.8.0.TMVCNXM_d9de1cb045_13.0.zip
+  name: MIX Fold 3
+  version: V14.1.8.0.TMVCNXM
+- android: '13.0'
   codename: biloba
   date: '2023-05-21'
   download: https://bigota.d.miui.com/V14.0.4.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
@@ -340,6 +346,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TMLCNXM/fw_corot_miui_COROT_V14.0.8.0.TMLCNXM_9d20ec48db_13.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: V14.0.8.0.TMLCNXM
+- android: '13.0'
+  codename: corot
+  date: '2023-09-08'
+  download: https://bigota.d.miui.com/V14.0.10.0.TMLCNXM/fw_corot_miui_COROT_V14.0.10.0.TMLCNXM_ce6dbb9e4d_13.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: V14.0.10.0.TMLCNXM
 - android: '13.0'
   codename: courbet
   date: '2023-04-27'
@@ -1936,6 +1948,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TGLMIXM/fw_opal_miui_OPALGlobal_V14.0.2.0.TGLMIXM_7a46a2e354_13.0.zip
   name: Redmi Note 11S 5G
   version: V14.0.2.0.TGLMIXM
+- android: '13.0'
+  codename: opal
+  date: '2023-09-08'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGLEUXM/fw_opal_miui_OPALEEAGlobal_V14.0.4.0.TGLEUXM_5296c179f4_13.0.zip
+  name: Redmi Note 11S 5G
+  version: V14.0.4.0.TGLEUXM
 - android: '13.0'
   codename: pearl
   date: '2023-05-31'
