@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-07-23'
+  date: '2023-09-08'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-23.07.2023/fw_light_miui_LIGHTGlobal_V14.0.4.0.TLSMIXM_c8b1d47ee5_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHTGlobal_V14.0.4.0.TLSMIXM_c8b1d47ee5_13.0.zip
-  filename: fw_light_miui_LIGHTGlobal_V14.0.4.0.TLSMIXM_c8b1d47ee5_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-09.09.2023/fw_light_miui_LIGHTGlobal_V14.0.5.0.TLSMIXM_9a500fbf84_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHTGlobal_V14.0.5.0.TLSMIXM_9a500fbf84_13.0.zip
+  filename: fw_light_miui_LIGHTGlobal_V14.0.5.0.TLSMIXM_9a500fbf84_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TLSMIXM
+    miui: V14.0.5.0.TLSMIXM
 - branch: stable
   date: '2023-07-30'
   downloads:
