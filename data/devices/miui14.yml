@@ -420,6 +420,12 @@
   version: V14.0.11.0.TLCEUXM
 - android: '13.0'
   codename: cupid
+  date: '2023-09-08'
+  download: https://bigota.d.miui.com/V14.0.12.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.12.0.TLCEUXM_af4b66028e_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.12.0.TLCEUXM
+- android: '13.0'
+  codename: cupid
   date: '2023-05-04'
   download: https://bigota.d.miui.com/V14.0.8.0.TLCEUXM/fw_cupid_miui_CUPIDEEAGlobal_V14.0.8.0.TLCEUXM_05e61edf0a_13.0.zip
   name: Xiaomi 12
@@ -3826,6 +3832,12 @@
   download: https://bigota.d.miui.com/V14.0.14.0.TLBCNXM/fw_zeus_miui_ZEUS_V14.0.14.0.TLBCNXM_e07208b49d_13.0.zip
   name: Xiaomi 12 Pro
   version: V14.0.14.0.TLBCNXM
+- android: '13.0'
+  codename: zeus
+  date: '2023-09-08'
+  download: https://bigota.d.miui.com/V14.0.16.0.TLBEUXM/fw_zeus_miui_ZEUSEEAGlobal_V14.0.16.0.TLBEUXM_c6082a5a4e_13.0.zip
+  name: Xiaomi 12 Pro
+  version: V14.0.16.0.TLBEUXM
 - android: '13.0'
   codename: zeus
   date: '2023-06-04'
