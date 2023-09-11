@@ -2058,6 +2058,18 @@
   version: V14.0.3.0.TMZINXM
 - android: '13.0'
   codename: pipa
+  date: '2023-09-11'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMZEUXM/fw_pipa_miui_PIPAEEAGlobal_V14.0.7.0.TMZEUXM_69894218db_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.7.0.TMZEUXM
+- android: '13.0'
+  codename: pipa
+  date: '2023-09-11'
+  download: https://bigota.d.miui.com/V14.0.8.0.TMZMIXM/fw_pipa_miui_PIPAGlobal_V14.0.8.0.TMZMIXM_f64fab3888_13.0.zip
+  name: Xiaomi Pad 6
+  version: V14.0.8.0.TMZMIXM
+- android: '13.0'
+  codename: pipa
   date: '2023-07-10'
   download: https://bigota.d.miui.com/V14.0.3.0.TMZEUXM/fw_pipa_miui_PIPAEEAGlobal_V14.0.3.0.TMZEUXM_04fa01e855_13.0.zip
   name: Xiaomi Pad 6
@@ -2736,6 +2748,12 @@
   version: V14.0.4.0.TKUEUXM
 - android: '13.0'
   codename: selene
+  date: '2023-09-11'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKUEUXM/fw_selene_miui_SELENEEEAGlobal_V14.0.6.0.TKUEUXM_594f27c62b_13.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V14.0.6.0.TKUEUXM
+- android: '13.0'
+  codename: selene
   date: '2023-08-11'
   download: https://bigota.d.miui.com/V14.0.4.0.TKUMIXM/fw_selene_miui_SELENEGlobal_V14.0.4.0.TKUMIXM_3c1ec73c4f_13.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
@@ -2902,6 +2920,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TKACNXM/fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V14.0.6.0.TKACNXM
+- android: '13.0'
+  codename: star
+  date: '2023-09-11'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKAMIXM/fw_star_miui_STARGlobal_V14.0.5.0.TKAMIXM_a83e12e28c_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.5.0.TKAMIXM
 - android: '13.0'
   codename: star
   date: '2023-08-11'

@@ -52,7 +52,8 @@ permalink: /archive/miui/star/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Mi 11 Ultra Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKAIDXM</td><td>13.0</td><td>4.7 GB</td><td>2023-09-06</td><td><a href="/miui/star/stable beta/V14.0.3.0.TKAIDXM/">Download</a></td></tr>
+                <tr><td>Mi 11 Ultra Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TKAMIXM</td><td>13.0</td><td>4.8 GB</td><td>2023-09-11</td><td><a href="/miui/star/stable beta/V14.0.5.0.TKAMIXM/">Download</a></td></tr>
+<tr><td>Mi 11 Ultra Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKAIDXM</td><td>13.0</td><td>4.7 GB</td><td>2023-09-06</td><td><a href="/miui/star/stable beta/V14.0.3.0.TKAIDXM/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.28.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-09-01</td><td><a href="/miui/star/public beta/V14.0.23.8.28.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Pro / Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.21.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-08-25</td><td><a href="/miui/star/public beta/V14.0.23.8.21.DEV/">Download</a></td></tr>
 <tr><td>Mi 11 Ultra EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKAEUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-08-17</td><td><a href="/miui/star/stable/V14.0.5.0.TKAEUXM/">Download</a></td></tr>

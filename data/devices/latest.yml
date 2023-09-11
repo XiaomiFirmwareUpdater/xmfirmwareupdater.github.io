@@ -3399,15 +3399,15 @@
     android: '10.0'
     miui: V12.5.1.0.QCMINXM
 - branch: stable
-  date: '2023-08-23'
+  date: '2023-09-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-23.08.2023/fw_pipa_miui_PIPAGlobal_V14.0.5.0.TMZMIXM_bc637080c4_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAGlobal_V14.0.5.0.TMZMIXM_bc637080c4_13.0.zip
-  filename: fw_pipa_miui_PIPAGlobal_V14.0.5.0.TMZMIXM_bc637080c4_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-11.09.2023/fw_pipa_miui_PIPAGlobal_V14.0.8.0.TMZMIXM_f64fab3888_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAGlobal_V14.0.8.0.TMZMIXM_f64fab3888_13.0.zip
+  filename: fw_pipa_miui_PIPAGlobal_V14.0.8.0.TMZMIXM_f64fab3888_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TMZMIXM
+    miui: V14.0.8.0.TMZMIXM
 - branch: stable
   date: '2023-08-24'
   downloads:
@@ -3419,15 +3419,15 @@
     android: '13.0'
     miui: V14.0.7.0.TMZCNXM
 - branch: stable
-  date: '2023-08-28'
+  date: '2023-09-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-28.08.2023/fw_pipa_miui_PIPAEEAGlobal_V14.0.4.0.TMZEUXM_4337465828_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAEEAGlobal_V14.0.4.0.TMZEUXM_4337465828_13.0.zip
-  filename: fw_pipa_miui_PIPAEEAGlobal_V14.0.4.0.TMZEUXM_4337465828_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_pipa/releases/download/stable-11.09.2023/fw_pipa_miui_PIPAEEAGlobal_V14.0.7.0.TMZEUXM_69894218db_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/pipa/fw_pipa_miui_PIPAEEAGlobal_V14.0.7.0.TMZEUXM_69894218db_13.0.zip
+  filename: fw_pipa_miui_PIPAEEAGlobal_V14.0.7.0.TMZEUXM_69894218db_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMZEUXM
+    miui: V14.0.7.0.TMZEUXM
 - branch: stable
   date: '2023-08-28'
   downloads:
@@ -4239,15 +4239,15 @@
     android: '13.0'
     miui: V14.0.4.0.TKUMIXM
 - branch: stable
-  date: '2023-08-15'
+  date: '2023-09-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-15.08.2023/fw_selene_miui_SELENEEEAGlobal_V14.0.4.0.TKUEUXM_daee26bf72_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEEEAGlobal_V14.0.4.0.TKUEUXM_daee26bf72_13.0.zip
-  filename: fw_selene_miui_SELENEEEAGlobal_V14.0.4.0.TKUEUXM_daee26bf72_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-11.09.2023/fw_selene_miui_SELENEEEAGlobal_V14.0.6.0.TKUEUXM_594f27c62b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEEEAGlobal_V14.0.6.0.TKUEUXM_594f27c62b_13.0.zip
+  filename: fw_selene_miui_SELENEEEAGlobal_V14.0.6.0.TKUEUXM_594f27c62b_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TKUEUXM
+    miui: V14.0.6.0.TKUEUXM
 - branch: stable
   date: '2023-08-01'
   downloads:
@@ -4369,15 +4369,15 @@
     android: '13.0'
     miui: V14.0.1.0.TGKEUXM
 - branch: stable
-  date: '2023-07-27'
+  date: '2023-09-11'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-27.07.2023/fw_star_miui_STARGlobal_V14.0.4.0.TKAMIXM_6538dcc3b8_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/star/fw_star_miui_STARGlobal_V14.0.4.0.TKAMIXM_6538dcc3b8_13.0.zip
-  filename: fw_star_miui_STARGlobal_V14.0.4.0.TKAMIXM_6538dcc3b8_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-11.09.2023/fw_star_miui_STARGlobal_V14.0.5.0.TKAMIXM_a83e12e28c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/star/fw_star_miui_STARGlobal_V14.0.5.0.TKAMIXM_a83e12e28c_13.0.zip
+  filename: fw_star_miui_STARGlobal_V14.0.5.0.TKAMIXM_a83e12e28c_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TKAMIXM
+    miui: V14.0.5.0.TKAMIXM
 - branch: stable
   date: '2023-05-29'
   downloads:
