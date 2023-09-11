@@ -1344,6 +1344,12 @@
   version: V14.0.8.0.TKOCNXM
 - android: '13.0'
   codename: lisa
+  date: '2023-09-11'
+  download: https://bigota.d.miui.com/V14.0.9.0.TKOEUXM/fw_lisa_miui_LISAEEAGlobal_V14.0.9.0.TKOEUXM_29facc1e86_13.0.zip
+  name: Mi 11 LE/Xiaomi 11 Lite 5G NE
+  version: V14.0.9.0.TKOEUXM
+- android: '13.0'
+  codename: lisa
   date: '2023-09-07'
   download: https://bigota.d.miui.com/V14.0.6.0.TKOMIXM/fw_lisa_miui_LISAGlobal_V14.0.6.0.TKOMIXM_607b56f4ff_13.0.zip
   name: Mi 11 LE/Xiaomi 11 Lite 5G NE
@@ -2416,6 +2422,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TMMCNXM/fw_rembrandt_miui_REMBRANDT_V14.0.1.0.TMMCNXM_c31c7e55ea_13.0.zip
   name: Redmi K60E
   version: V14.0.1.0.TMMCNXM
+- android: '13.0'
+  codename: rembrandt
+  date: '2023-09-11'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMMCNXM/fw_rembrandt_miui_REMBRANDT_V14.0.4.0.TMMCNXM_7b6cdb8c0b_13.0.zip
+  name: Redmi K60E
+  version: V14.0.4.0.TMMCNXM
 - android: '13.0'
   codename: renoir
   date: '2023-07-31'
