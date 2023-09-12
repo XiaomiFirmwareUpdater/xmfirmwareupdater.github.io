@@ -221,6 +221,16 @@
 - branch: stable
   date: '2023-09-12'
   downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-12.09.2023/fw_nabu_miui_NABUEEAGlobal_V14.0.7.0.TKXEUXM_f4fc8dc339_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUEEAGlobal_V14.0.7.0.TKXEUXM_f4fc8dc339_13.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V14.0.7.0.TKXEUXM_f4fc8dc339_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TKXEUXM
+- branch: stable
+  date: '2023-09-12'
+  downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-12.09.2023/fw_nabu_miui_NABUGlobal_V14.0.6.0.TKXMIXM_c14b409e05_13.0.zip
     osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUGlobal_V14.0.6.0.TKXMIXM_c14b409e05_13.0.zip
   filename: fw_nabu_miui_NABUGlobal_V14.0.6.0.TKXMIXM_c14b409e05_13.0.zip

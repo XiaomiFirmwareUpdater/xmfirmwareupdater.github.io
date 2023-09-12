@@ -8,6 +8,16 @@
   versions:
     android: '6.0'
     miui: V10.2.2.0.MBECNXM
+- branch: stable
+  date: '2019-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_markw/releases/download/stable-20.05.2019/fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/markw/fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip
+  filename: fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip
+  region: Global
+  versions:
+    android: '6.0'
+    miui: V10.2.2.0.MBEMIXM
 - branch: weekly
   date: '2019-03-29'
   downloads:

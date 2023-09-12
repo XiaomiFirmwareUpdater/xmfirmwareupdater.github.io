@@ -52,7 +52,8 @@ permalink: /archive/miui/vili/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 11T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKDTRXM</td><td>13.0</td><td>4.7 GB</td><td>2023-08-29</td><td><a href="/miui/vili/stable beta/V14.0.4.0.TKDTRXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 11T Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKDTWXM</td><td>13.0</td><td>4.6 GB</td><td>2023-09-12</td><td><a href="/miui/vili/stable beta/V14.0.3.0.TKDTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi 11T Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TKDTRXM</td><td>13.0</td><td>4.7 GB</td><td>2023-08-29</td><td><a href="/miui/vili/stable beta/V14.0.4.0.TKDTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro India</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TKDINXM</td><td>13.0</td><td>4.7 GB</td><td>2023-08-09</td><td><a href="/miui/vili/stable/V14.0.4.0.TKDINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro India</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TKDINXM</td><td>13.0</td><td>5.6 GB</td><td>2023-08-03</td><td><a href="/miui/vili/stable/V14.0.4.0.TKDINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 11T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.11.0.TKDEUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-07-24</td><td><a href="/miui/vili/stable/V14.0.11.0.TKDEUXM/">Download</a></td></tr>

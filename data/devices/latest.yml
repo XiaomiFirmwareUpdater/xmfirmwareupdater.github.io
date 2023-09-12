@@ -2559,6 +2559,16 @@
     android: '13.0'
     miui: V14.0.5.0.TMRINXM
 - branch: stable
+  date: '2019-05-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_markw/releases/download/stable-20.05.2019/fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/markw/fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip
+  filename: fw_markw_miui_HM4ProGlobal_V10.2.2.0.MBEMIXM_b43768684c_6.0.zip
+  region: Global
+  versions:
+    android: '6.0'
+    miui: V10.2.2.0.MBEMIXM
+- branch: stable
   date: '2019-05-21'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_markw/releases/download/stable-21.05.2019/fw_markw_miui_HM4Pro_V10.2.2.0.MBECNXM_988d0d76c0_6.0.zip
@@ -2879,15 +2889,15 @@
     android: '11.0'
     miui: 22.3.23
 - branch: stable
-  date: '2023-07-21'
+  date: '2023-09-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-21.07.2023/fw_nabu_miui_NABUEEAGlobal_V14.0.6.0.TKXEUXM_b5f4368b2c_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUEEAGlobal_V14.0.6.0.TKXEUXM_b5f4368b2c_13.0.zip
-  filename: fw_nabu_miui_NABUEEAGlobal_V14.0.6.0.TKXEUXM_b5f4368b2c_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-12.09.2023/fw_nabu_miui_NABUEEAGlobal_V14.0.7.0.TKXEUXM_f4fc8dc339_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUEEAGlobal_V14.0.7.0.TKXEUXM_f4fc8dc339_13.0.zip
+  filename: fw_nabu_miui_NABUEEAGlobal_V14.0.7.0.TKXEUXM_f4fc8dc339_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TKXEUXM
+    miui: V14.0.7.0.TKXEUXM
 - branch: stable
   date: '2023-08-11'
   downloads:
@@ -4288,6 +4298,16 @@
   versions:
     android: '10.0'
     miui: 20.9.4
+- branch: stable
+  date: '2023-09-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-12.09.2023/fw_sky_miui_SKYGlobal_V14.0.1.0.TMWMIXM_a679c9761c_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYGlobal_V14.0.1.0.TMWMIXM_a679c9761c_13.0.zip
+  filename: fw_sky_miui_SKYGlobal_V14.0.1.0.TMWMIXM_a679c9761c_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TMWMIXM
 - branch: stable
   date: '2023-08-19'
   downloads:
