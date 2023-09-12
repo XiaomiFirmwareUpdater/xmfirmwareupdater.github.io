@@ -2829,15 +2829,15 @@
     android: '13.0'
     miui: V14.0.4.0.TLMMIXM
 - branch: stable
-  date: '2023-05-18'
+  date: '2023-09-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-18.05.2023/fw_munch_miui_MUNCH_V14.0.6.0.TLMCNXM_80538845fe_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCH_V14.0.6.0.TLMCNXM_80538845fe_13.0.zip
-  filename: fw_munch_miui_MUNCH_V14.0.6.0.TLMCNXM_80538845fe_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_munch/releases/download/stable-12.09.2023/fw_munch_miui_MUNCH_V14.0.7.0.TLMCNXM_fd6013af4d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/munch/fw_munch_miui_MUNCH_V14.0.7.0.TLMCNXM_fd6013af4d_13.0.zip
+  filename: fw_munch_miui_MUNCH_V14.0.7.0.TLMCNXM_fd6013af4d_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TLMCNXM
+    miui: V14.0.7.0.TLMCNXM
 - branch: stable
   date: '2023-06-29'
   downloads:
@@ -4569,15 +4569,15 @@
     android: '13.0'
     miui: V14.0.13.0.TLACNXM
 - branch: stable
-  date: '2023-06-05'
+  date: '2023-09-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-05.06.2023/fw_thyme_miui_THYME_V14.0.5.0.TGACNXM_bd6a7e7e60_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thyme/fw_thyme_miui_THYME_V14.0.5.0.TGACNXM_bd6a7e7e60_13.0.zip
-  filename: fw_thyme_miui_THYME_V14.0.5.0.TGACNXM_bd6a7e7e60_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thyme/releases/download/stable-12.09.2023/fw_thyme_miui_THYME_V14.0.6.0.TGACNXM_a3c1d41b17_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thyme/fw_thyme_miui_THYME_V14.0.6.0.TGACNXM_a3c1d41b17_13.0.zip
+  filename: fw_thyme_miui_THYME_V14.0.6.0.TGACNXM_a3c1d41b17_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TGACNXM
+    miui: V14.0.6.0.TGACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

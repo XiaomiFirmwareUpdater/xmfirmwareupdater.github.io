@@ -1758,6 +1758,12 @@
   version: V14.0.3.0.TLMMIXM
 - android: '13.0'
   codename: munch
+  date: '2023-09-12'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLMCNXM/fw_munch_miui_MUNCH_V14.0.7.0.TLMCNXM_fd6013af4d_13.0.zip
+  name: Redmi K40S/POCO F4
+  version: V14.0.7.0.TLMCNXM
+- android: '13.0'
+  codename: munch
   date: '2023-09-11'
   download: https://bigota.d.miui.com/V14.0.4.0.TLMMIXM/fw_munch_miui_MUNCHGlobal_V14.0.4.0.TLMMIXM_d6c833c659_13.0.zip
   name: Redmi K40S/POCO F4
@@ -3280,6 +3286,12 @@
   download: https://bigota.d.miui.com/V14.0.13.0.TLACNXM/fw_thor_miui_THOR_V14.0.13.0.TLACNXM_baa8e01f50_13.0.zip
   name: Xiaomi 12S Ultra
   version: V14.0.13.0.TLACNXM
+- android: '13.0'
+  codename: thyme
+  date: '2023-09-12'
+  download: https://bigota.d.miui.com/V14.0.6.0.TGACNXM/fw_thyme_miui_THYME_V14.0.6.0.TGACNXM_a3c1d41b17_13.0.zip
+  name: Mi 10S
+  version: V14.0.6.0.TGACNXM
 - android: '13.0'
   codename: thyme
   date: '2023-06-05'
