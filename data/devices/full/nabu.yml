@@ -219,6 +219,16 @@
     android: '11.0'
     miui: V12.5.11.0.RKXMIXM
 - branch: stable
+  date: '2023-09-12'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-12.09.2023/fw_nabu_miui_NABUGlobal_V14.0.6.0.TKXMIXM_c14b409e05_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nabu/fw_nabu_miui_NABUGlobal_V14.0.6.0.TKXMIXM_c14b409e05_13.0.zip
+  filename: fw_nabu_miui_NABUGlobal_V14.0.6.0.TKXMIXM_c14b409e05_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TKXMIXM
+- branch: stable
   date: '2022-07-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nabu/releases/download/stable-12.07.2022/fw_nabu_miui_NABUGlobal_V13.0.4.0.RKXMIXM_76e6da4173_11.0.zip
