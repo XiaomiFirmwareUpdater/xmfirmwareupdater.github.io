@@ -52,7 +52,8 @@ permalink: /archive/miui/camellian/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKSTWXM</td><td>13.0</td><td>3.7 GB</td><td>2023-07-07</td><td><a href="/miui/camellian/stable beta/V14.0.3.0.TKSTWXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 5G Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.TKSIDXM</td><td>13.0</td><td>3.8 GB</td><td>2023-09-12</td><td><a href="/miui/camellian/stable beta/V14.0.6.0.TKSIDXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10 5G Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKSTWXM</td><td>13.0</td><td>3.7 GB</td><td>2023-07-07</td><td><a href="/miui/camellian/stable beta/V14.0.3.0.TKSTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10T / POCO M3 Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TKSRUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-07-07</td><td><a href="/miui/camellian/stable/V14.0.5.0.TKSRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10T / POCO M3 Pro Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TKSRUXM</td><td>13.0</td><td>5.7 GB</td><td>2023-06-28</td><td><a href="/miui/camellian/stable/V14.0.5.0.TKSRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKSEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-07-07</td><td><a href="/miui/camellian/stable/V14.0.3.0.TKSEUXM/">Download</a></td></tr>

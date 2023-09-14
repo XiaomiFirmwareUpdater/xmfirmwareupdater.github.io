@@ -726,6 +726,12 @@
   version: V14.0.4.0.TMXEUXM
 - android: '13.0'
   codename: fire
+  date: '2023-09-14'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMXINXM/fw_fire_miui_FIREINGlobal_V14.0.4.0.TMXINXM_c34c646995_13.0.zip
+  name: Redmi 12
+  version: V14.0.4.0.TMXINXM
+- android: '13.0'
+  codename: fire
   date: '2023-06-13'
   download: https://bigota.d.miui.com/V14.0.2.0.TMXEUXM/fw_fire_miui_FIREEEAGlobal_V14.0.2.0.TMXEUXM_68323aa05e_13.0.zip
   name: Redmi 12
