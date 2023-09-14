@@ -19,15 +19,15 @@
     android: '13.0'
     miui: V14.0.2.0.TCVCNXM
 - branch: stable
-  date: '2023-09-04'
+  date: '2023-09-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-04.09.2023/fw_earth_miui_EARTHEEAGlobal_V13.0.9.0.SCVEUXM_6dbbe8a75e_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/earth/fw_earth_miui_EARTHEEAGlobal_V13.0.9.0.SCVEUXM_6dbbe8a75e_12.0.zip
-  filename: fw_earth_miui_EARTHEEAGlobal_V13.0.9.0.SCVEUXM_6dbbe8a75e_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_earth/releases/download/stable-14.09.2023/fw_earth_miui_EARTHEEAGlobal_V14.0.4.0.TCVEUXM_13a5ae398b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/earth/fw_earth_miui_EARTHEEAGlobal_V14.0.4.0.TCVEUXM_13a5ae398b_13.0.zip
+  filename: fw_earth_miui_EARTHEEAGlobal_V14.0.4.0.TCVEUXM_13a5ae398b_13.0.zip
   region: Europe
   versions:
-    android: '12.0'
-    miui: V13.0.9.0.SCVEUXM
+    android: '13.0'
+    miui: V14.0.4.0.TCVEUXM
 - branch: stable
   date: '2023-08-20'
   downloads:
