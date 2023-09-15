@@ -52,7 +52,8 @@ permalink: /archive/miui/diting/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.28.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-09-01</td><td><a href="/miui/diting/public beta/V14.0.23.8.28.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.4.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-09-08</td><td><a href="/miui/diting/public beta/V14.0.23.9.4.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.28.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-09-01</td><td><a href="/miui/diting/public beta/V14.0.23.8.28.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.21.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-08-25</td><td><a href="/miui/diting/public beta/V14.0.23.8.21.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.16.0.TLFEUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-16</td><td><a href="/miui/diting/stable/V14.0.16.0.TLFEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.16.0.TLFEUXM</td><td>13.0</td><td>6.6 GB</td><td>2023-08-12</td><td><a href="/miui/diting/stable/V14.0.16.0.TLFEUXM/">Download</a></td></tr>

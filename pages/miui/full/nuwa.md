@@ -54,7 +54,11 @@ permalink: /archive/miui/nuwa/
                 <tbody>
                 <tr><td>Xiaomi 13 Pro Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TMBRUXM</td><td>13.0</td><td>5.6 GB</td><td>2023-09-12</td><td><a href="/miui/nuwa/stable beta/V14.0.11.0.TMBRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TMBTWXM</td><td>13.0</td><td>5.5 GB</td><td>2023-09-12</td><td><a href="/miui/nuwa/stable beta/V14.0.11.0.TMBTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Pro India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TMBINXM</td><td>13.0</td><td>5.5 GB</td><td>2023-09-06</td><td><a href="/miui/nuwa/stable beta/V14.0.11.0.TMBINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.4.DEV</td><td>13.0</td><td>6.4 GB</td><td>2023-09-08</td><td><a href="/miui/nuwa/public beta/V14.0.23.9.4.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.6.DEV</td><td>14.0</td><td>6.6 GB</td><td>2023-09-08</td><td><a href="/miui/nuwa/public beta/V14.0.23.9.6.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.1.3.UMBCNXM</td><td>14.0</td><td>6.6 GB</td><td>2023-09-08</td><td><a href="/miui/nuwa/stable/V14.0.1.3.UMBCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Recovery</td><td>V14.0.11.0.TMBINXM</td><td>13.0</td><td>5.5 GB</td><td>2023-09-06</td><td><a href="/miui/nuwa/stable/V14.0.11.0.TMBINXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Pro India</td><td>Stable</td><td>Fastboot</td><td>V14.0.11.0.TMBINXM</td><td>13.0</td><td>6.2 GB</td><td>2023-08-22</td><td><a href="/miui/nuwa/stable/V14.0.11.0.TMBINXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.28.DEV</td><td>13.0</td><td>6.4 GB</td><td>2023-09-01</td><td><a href="/miui/nuwa/public beta/V14.0.23.8.28.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.28.0.TMBEUXM</td><td>13.0</td><td>5.6 GB</td><td>2023-08-31</td><td><a href="/miui/nuwa/stable/V14.0.28.0.TMBEUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.28.0.TMBEUXM</td><td>13.0</td><td>7.5 GB</td><td>2023-08-22</td><td><a href="/miui/nuwa/stable/V14.0.28.0.TMBEUXM/">Download</a></td></tr>

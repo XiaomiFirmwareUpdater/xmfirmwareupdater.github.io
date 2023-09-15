@@ -54,6 +54,7 @@ permalink: /archive/miui/munch/
                 <tbody>
                 <tr><td>POCO F4 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLMMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-09-11</td><td><a href="/miui/munch/stable beta/V14.0.4.0.TLMMIXM/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.7.0.TLMCNXM</td><td>13.0</td><td>4.1 GB</td><td>2023-09-08</td><td><a href="/miui/munch/stable beta/V14.0.7.0.TLMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.4.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-09-08</td><td><a href="/miui/munch/public beta/V14.0.23.9.4.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.28.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-09-01</td><td><a href="/miui/munch/public beta/V14.0.23.8.28.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.21.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-08-25</td><td><a href="/miui/munch/public beta/V14.0.23.8.21.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.7.DEV</td><td>13.0</td><td>4.0 GB</td><td>2023-08-11</td><td><a href="/miui/munch/public beta/V14.0.23.8.7.DEV/">Download</a></td></tr>
@@ -130,12 +131,12 @@ permalink: /archive/miui/munch/
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.26.DEV</td><td>13.0</td><td>4.1 GB</td><td>2022-12-30</td><td><a href="/miui/munch/public beta/V14.0.22.12.26.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.19.DEV</td><td>13.0</td><td>4.0 GB</td><td>2022-12-23</td><td><a href="/miui/munch/public beta/V14.0.22.12.19.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.8.DEV</td><td>13.0</td><td>4.0 GB</td><td>2022-12-16</td><td><a href="/miui/munch/public beta/V14.0.22.12.8.DEV/">Download</a></td></tr>
+<tr><td>Redmi K40S China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLMCNXM</td><td>13.0</td><td>4.0 GB</td><td>2023-01-09</td><td><a href="/miui/munch/stable/V14.0.3.0.TLMCNXM/">Download</a></td></tr>
+<tr><td>Redmi K40S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLMCNXM</td><td>13.0</td><td>6.4 GB</td><td>2023-01-02</td><td><a href="/miui/munch/stable/V14.0.3.0.TLMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Stable</td><td>Recovery</td><td>V13.2.8.0.TLMCNXM</td><td>13.0</td><td>4.7 GB</td><td>2022-12-06</td><td><a href="/miui/munch/stable/V13.2.8.0.TLMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Stable</td><td>Fastboot</td><td>V13.2.8.0.TLMCNXM</td><td>13.0</td><td>6.2 GB</td><td>2022-11-27</td><td><a href="/miui/munch/stable/V13.2.8.0.TLMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Fastboot</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>5.4 GB</td><td>2022-12-05</td><td><a href="/miui/munch/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.5.DEV</td><td>13.0</td><td>3.9 GB</td><td>2022-12-11</td><td><a href="/miui/munch/public beta/V14.0.22.12.5.DEV/">Download</a></td></tr>
-<tr><td>Redmi K40S China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLMCNXM</td><td>13.0</td><td>4.0 GB</td><td>2023-01-09</td><td><a href="/miui/munch/stable/V14.0.3.0.TLMCNXM/">Download</a></td></tr>
-<tr><td>Redmi K40S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLMCNXM</td><td>13.0</td><td>6.4 GB</td><td>2023-01-02</td><td><a href="/miui/munch/stable/V14.0.3.0.TLMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Stable</td><td>Recovery</td><td>V13.2.5.0.TLMCNXM</td><td>13.0</td><td>4.7 GB</td><td>2022-11-21</td><td><a href="/miui/munch/stable/V13.2.5.0.TLMCNXM/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.25.DEV</td><td>13.0</td><td>4.8 GB</td><td>2022-10-28</td><td><a href="/miui/munch/public beta/V13.1.22.10.25.DEV/">Download</a></td></tr>
 <tr><td>Redmi K40S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.10.19.DEV</td><td>13.0</td><td>4.8 GB</td><td>2022-10-21</td><td><a href="/miui/munch/public beta/V13.1.22.10.19.DEV/">Download</a></td></tr>

@@ -52,7 +52,8 @@ permalink: /archive/miui/tapas/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 12 4G India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.8.0.TMTINXM</td><td>13.0</td><td>4.1 GB</td><td>2023-09-07</td><td><a href="/miui/tapas/stable beta/V14.0.8.0.TMTINXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Recovery</td><td>V14.0.8.0.TMTINXM</td><td>13.0</td><td>4.1 GB</td><td>2023-09-07</td><td><a href="/miui/tapas/stable/V14.0.8.0.TMTINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.8.0.TMTINXM</td><td>13.0</td><td>5.6 GB</td><td>2023-08-30</td><td><a href="/miui/tapas/stable/V14.0.8.0.TMTINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Recovery</td><td>V14.0.7.0.TMTINXM</td><td>13.0</td><td>4.1 GB</td><td>2023-07-27</td><td><a href="/miui/tapas/stable/V14.0.7.0.TMTINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G India</td><td>Stable</td><td>Fastboot</td><td>V14.0.7.0.TMTINXM</td><td>13.0</td><td>5.6 GB</td><td>2023-07-19</td><td><a href="/miui/tapas/stable/V14.0.7.0.TMTINXM/">Download</a></td></tr>
 <tr><td>Redmi Note 12 4G Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TMTTRXM</td><td>13.0</td><td>4.1 GB</td><td>2023-07-25</td><td><a href="/miui/tapas/stable/V14.0.5.0.TMTTRXM/">Download</a></td></tr>
