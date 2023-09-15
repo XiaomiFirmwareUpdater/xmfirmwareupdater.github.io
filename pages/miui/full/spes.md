@@ -52,7 +52,8 @@ permalink: /archive/miui/spes/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 11 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TGCTRXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-08</td><td><a href="/miui/spes/stable beta/V14.0.3.0.TGCTRXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 11 NFC EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TGKEUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-15</td><td><a href="/miui/spesn/stable beta/V14.0.2.0.TGKEUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TGCTRXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-08</td><td><a href="/miui/spes/stable beta/V14.0.3.0.TGCTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TGKRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-08</td><td><a href="/miui/spesn/stable beta/V14.0.4.0.TGKRUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TGKIDXM</td><td>13.0</td><td>3.4 GB</td><td>2023-08-22</td><td><a href="/miui/spesn/stable beta/V14.0.2.0.TGKIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TGCINXM</td><td>13.0</td><td>3.5 GB</td><td>2023-08-15</td><td><a href="/miui/spes/stable/V14.0.2.0.TGCINXM/">Download</a></td></tr>
