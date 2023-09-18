@@ -3264,6 +3264,12 @@
   version: V14.0.17.0.TLIEUXM
 - android: '13.0'
   codename: taoyao
+  date: '2023-09-18'
+  download: https://bigota.d.miui.com/V14.0.20.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.20.0.TLIEUXM_ab20fd9bf1_13.0.zip
+  name: Xiaomi 12 Lite
+  version: V14.0.20.0.TLIEUXM
+- android: '13.0'
+  codename: taoyao
   date: '2023-03-14'
   download: https://bigota.d.miui.com/V14.0.8.0.TLIEUXM/fw_taoyao_miui_TAOYAOEEAGlobal_V14.0.8.0.TLIEUXM_941e46cea6_13.0.zip
   name: Xiaomi 12 Lite
@@ -3718,6 +3724,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKDMIXM/fw_vili_miui_VILIGlobal_V14.0.1.0.TKDMIXM_81b331177e_13.0.zip
   name: Xiaomi 11T Pro
   version: V14.0.1.0.TKDMIXM
+- android: '13.0'
+  codename: vili
+  date: '2023-09-13'
+  download: https://bigota.d.miui.com/V14.0.12.0.TKDEUXM/fw_vili_miui_VILIEEAGlobal_V14.0.12.0.TKDEUXM_21eb2aa4b1_13.0.zip
+  name: Xiaomi 11T Pro
+  version: V14.0.12.0.TKDEUXM
 - android: '13.0'
   codename: vili
   date: '2023-07-13'

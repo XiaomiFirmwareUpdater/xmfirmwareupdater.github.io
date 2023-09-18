@@ -64,9 +64,8 @@ permalink: /miui/ziyi/
 <tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLLTRXM</td><td>13.0</td><td>6.8 GB</td><td>2023-05-04</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Lite Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLLTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-05-26</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Lite Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLLTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-08-16</td><td><a href="/miui/ziyi/stable beta/V14.0.2.0.TLLTRXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLLTWXM</td><td>13.0</td><td>6.4 GB</td><td>2023-05-04</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLLTWXM</td><td>13.0</td><td>4.8 GB</td><td>2023-05-23</td><td><a href="/miui/ziyi/stable/V14.0.1.0.TLLTWXM/">Download</a></td></tr>
-<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLLTWXM</td><td>13.0</td><td>4.8 GB</td><td>2023-07-27</td><td><a href="/miui/ziyi/stable beta/V14.0.2.0.TLLTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TLLTWXM</td><td>13.0</td><td>6.3 GB</td><td>2023-07-19</td><td><a href="/miui/ziyi/stable/V14.0.2.0.TLLTWXM/">Download</a></td></tr>
+<tr><td>Xiaomi Civi 2 / 13 Lite Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLLTWXM</td><td>13.0</td><td>4.8 GB</td><td>2023-07-27</td><td><a href="/miui/ziyi/stable/V14.0.2.0.TLLTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

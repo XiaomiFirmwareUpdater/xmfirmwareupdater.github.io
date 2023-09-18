@@ -61,14 +61,13 @@ permalink: /miui/moonstone/
 <tr><td>POCO X5 5G  Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TMPIDXM</td><td>13.0</td><td>3.5 GB</td><td>2023-08-08</td><td><a href="/miui/moonstone/stable beta/V14.0.5.0.TMPIDXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  India</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMPINXM</td><td>13.0</td><td>5.0 GB</td><td>2023-07-27</td><td><a href="/miui/moonstone/stable/V14.0.3.0.TMPINXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  India</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMPINXM</td><td>13.0</td><td>3.4 GB</td><td>2023-08-07</td><td><a href="/miui/moonstone/stable/V14.0.3.0.TMPINXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G  Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SMPRUXM</td><td>12.0</td><td>5.4 GB</td><td>2023-03-22</td><td><a href="/miui/moonstone/stable/V13.0.4.0.SMPRUXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G  Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SMPRUXM</td><td>12.0</td><td>3.8 GB</td><td>2023-04-10</td><td><a href="/miui/moonstone/stable/V13.0.4.0.SMPRUXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G  Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMPRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-08-18</td><td><a href="/miui/moonstone/stable beta/V14.0.4.0.TMPRUXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TMPRUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-08-14</td><td><a href="/miui/moonstone/stable/V14.0.4.0.TMPRUXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TMPRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-08-18</td><td><a href="/miui/moonstone/stable/V14.0.4.0.TMPRUXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TMPRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-06-05</td><td><a href="/miui/moonstone/stable beta/V14.0.3.0.TMPRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMPTRXM</td><td>13.0</td><td>5.6 GB</td><td>2023-05-17</td><td><a href="/miui/moonstone/stable/V14.0.2.0.TMPTRXM/">Download</a></td></tr>
 <tr><td>POCO X5 5G  Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMPTRXM</td><td>13.0</td><td>3.5 GB</td><td>2023-05-31</td><td><a href="/miui/moonstone/stable/V14.0.2.0.TMPTRXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G  Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMPTWXM</td><td>13.0</td><td>5.1 GB</td><td>2023-05-10</td><td><a href="/miui/moonstone/stable/V14.0.2.0.TMPTWXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G  Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMPTWXM</td><td>13.0</td><td>3.4 GB</td><td>2023-05-22</td><td><a href="/miui/moonstone/stable/V14.0.2.0.TMPTWXM/">Download</a></td></tr>
-<tr><td>POCO X5 5G  Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TMPTWXM</td><td>13.0</td><td>3.5 GB</td><td>2023-08-31</td><td><a href="/miui/moonstone/stable beta/V14.0.3.0.TMPTWXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMPTWXM</td><td>13.0</td><td>5.3 GB</td><td>2023-08-23</td><td><a href="/miui/moonstone/stable/V14.0.3.0.TMPTWXM/">Download</a></td></tr>
+<tr><td>POCO X5 5G  Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMPTWXM</td><td>13.0</td><td>3.5 GB</td><td>2023-08-31</td><td><a href="/miui/moonstone/stable/V14.0.3.0.TMPTWXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>

@@ -54,7 +54,8 @@ permalink: /archive/miui/earth/
                 <tbody>
                 <tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TCVIDXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-18</td><td><a href="/miui/earth/stable beta/V14.0.3.0.TCVIDXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TCVEUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-11</td><td><a href="/miui/earth/stable beta/V14.0.4.0.TCVEUXM/">Download</a></td></tr>
-<tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TCVTWXM</td><td>13.0</td><td>3.4 GB</td><td>2023-09-07</td><td><a href="/miui/earth/stable beta/V14.0.2.0.TCVTWXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TCVTWXM</td><td>13.0</td><td>3.4 GB</td><td>2023-09-07</td><td><a href="/miui/earth/stable/V14.0.2.0.TCVTWXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TCVTWXM</td><td>13.0</td><td>5.4 GB</td><td>2023-08-29</td><td><a href="/miui/earth/stable/V14.0.2.0.TCVTWXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SCVRUXM</td><td>12.0</td><td>3.2 GB</td><td>2023-08-29</td><td><a href="/miui/earth/stable/V13.0.6.0.SCVRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SCVRUXM</td><td>12.0</td><td>5.5 GB</td><td>2023-08-11</td><td><a href="/miui/earth/stable/V13.0.6.0.SCVRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Global</td><td>Stable</td><td>Recovery</td><td>V13.0.8.0.SCVMIXM</td><td>12.0</td><td>3.3 GB</td><td>2023-08-28</td><td><a href="/miui/earth/stable/V13.0.8.0.SCVMIXM/">Download</a></td></tr>
@@ -65,7 +66,8 @@ permalink: /archive/miui/earth/
 <tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SCVEUXM</td><td>12.0</td><td>5.9 GB</td><td>2023-08-11</td><td><a href="/miui/earth/stable/V13.0.9.0.SCVEUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 India</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SCVINXM</td><td>12.0</td><td>3.1 GB</td><td>2023-08-11</td><td><a href="/miui/earth/stable/V13.0.4.0.SCVINXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 India</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SCVINXM</td><td>12.0</td><td>4.7 GB</td><td>2023-08-02</td><td><a href="/miui/earth/stable/V13.0.4.0.SCVINXM/">Download</a></td></tr>
-<tr><td>Redmi 12C / POCO C55 Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TCVTRXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-31</td><td><a href="/miui/earth/stable beta/V14.0.1.0.TCVTRXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TCVTRXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-31</td><td><a href="/miui/earth/stable/V14.0.1.0.TCVTRXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TCVTRXM</td><td>13.0</td><td>5.7 GB</td><td>2023-07-13</td><td><a href="/miui/earth/stable/V14.0.1.0.TCVTRXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TCVRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-31</td><td><a href="/miui/earth/stable/V14.0.1.0.TCVRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TCVRUXM</td><td>13.0</td><td>6.0 GB</td><td>2023-07-13</td><td><a href="/miui/earth/stable/V14.0.1.0.TCVRUXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Taiwan</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.1.0.TCVTWXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-25</td><td><a href="/miui/earth/stable beta/V14.0.1.0.TCVTWXM/">Download</a></td></tr>
@@ -73,7 +75,8 @@ permalink: /archive/miui/earth/
 <tr><td>Redmi 12C China</td><td>Stable</td><td>Fastboot</td><td>V13.0.9.0.SCVCNXM</td><td>12.0</td><td>4.6 GB</td><td>2023-07-17</td><td><a href="/miui/earth/stable/V13.0.9.0.SCVCNXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TCVMIXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-19</td><td><a href="/miui/earth/stable/V14.0.4.0.TCVMIXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TCVMIXM</td><td>13.0</td><td>6.8 GB</td><td>2023-07-13</td><td><a href="/miui/earth/stable/V14.0.4.0.TCVMIXM/">Download</a></td></tr>
-<tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TCVIDXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-10</td><td><a href="/miui/earth/stable beta/V14.0.2.0.TCVIDXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TCVIDXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-10</td><td><a href="/miui/earth/stable/V14.0.2.0.TCVIDXM/">Download</a></td></tr>
+<tr><td>Redmi 12C / POCO C55 Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TCVIDXM</td><td>13.0</td><td>6.0 GB</td><td>2023-06-19</td><td><a href="/miui/earth/stable/V14.0.2.0.TCVIDXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TCVINXM</td><td>13.0</td><td>3.3 GB</td><td>2023-07-04</td><td><a href="/miui/earth/stable/V14.0.2.0.TCVINXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 India</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TCVINXM</td><td>13.0</td><td>5.2 GB</td><td>2023-06-19</td><td><a href="/miui/earth/stable/V14.0.2.0.TCVINXM/">Download</a></td></tr>
 <tr><td>Redmi 12C / POCO C55 EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TCVEUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-06-28</td><td><a href="/miui/earth/stable/V14.0.3.0.TCVEUXM/">Download</a></td></tr>

@@ -67,9 +67,9 @@ permalink: /miui/spes/
 <tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable</td><td>Fastboot</td><td>V13.0.6.0.SGKIDXM</td><td>12.0</td><td>5.4 GB</td><td>2023-04-24</td><td><a href="/miui/spesn/stable/V13.0.6.0.SGKIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable</td><td>Recovery</td><td>V13.0.6.0.SGKIDXM</td><td>12.0</td><td>3.1 GB</td><td>2023-05-11</td><td><a href="/miui/spesn/stable/V13.0.6.0.SGKIDXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11 NFC Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TGKIDXM</td><td>13.0</td><td>3.4 GB</td><td>2023-08-22</td><td><a href="/miui/spesn/stable beta/V14.0.2.0.TGKIDXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V13.0.4.0.SGKRUXM</td><td>12.0</td><td>5.4 GB</td><td>2023-04-14</td><td><a href="/miui/spesn/stable/V13.0.4.0.SGKRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Recovery</td><td>V13.0.4.0.SGKRUXM</td><td>12.0</td><td>3.1 GB</td><td>2023-04-23</td><td><a href="/miui/spesn/stable/V13.0.4.0.SGKRUXM/">Download</a></td></tr>
-<tr><td>Redmi Note 11 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TGKRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-08</td><td><a href="/miui/spesn/stable beta/V14.0.4.0.TGKRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TGKRUXM</td><td>13.0</td><td>5.8 GB</td><td>2023-09-04</td><td><a href="/miui/spesn/stable/V14.0.4.0.TGKRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TGKRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-08</td><td><a href="/miui/spesn/stable/V14.0.4.0.TGKRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11 NFC Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TGKRUXM</td><td>13.0</td><td>3.5 GB</td><td>2023-07-05</td><td><a href="/miui/spesn/stable beta/V14.0.3.0.TGKRUXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
