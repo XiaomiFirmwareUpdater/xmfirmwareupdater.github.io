@@ -207,7 +207,7 @@ meitu.com, 698, RESELLER
 rhebus.works, 7597018658, RESELLER
 xandr.com, 7847, RESELLER, f5ab79cb980f11d1
 xapads.com, 106073, RESELLER
-eliteappgrade, 514554, RESELLER
+eliteappgrade.com, 514554, RESELLER
 loopme.com, 9724, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, b82743ba2ddf4bcaab3d1d4f91b1330e, RESELLER, 524ecb396915caaf
 smartadserver.com, 4074, RESELLER
@@ -437,7 +437,16 @@ pubmatic.com, 157940, RESELLER, 5d62403b186f2ace
 onetag.com, 2bb78272a859ca6, RESELLER
 video.unrulymedia.com, 2276989117, RESELLER
 rhythmone.com, 2276989117, RESELLER, a670c89d4a324e47
-disqus.com, 4715692, RESELLER
+zetaglobal.net, 7293207, DIRECT
+amxrtb.com, 105199574, DIRECT
+bizzclick.com, 286, RESELLER, 7e936b1feafdaa61
+rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
+minutemedia.com, 01gcrv9grwe9, RESELLER
+pubmatic.com, 162418, RESELLER, 5d62403b186f2ace
+sharethrough.com, UvcAx8IL, DIRECT, d53b998a7bd4ecd2
+sonobi.com, 296bf9795d, DIRECT, d1a215d9eb5aee9e
+streamkey.tv, 18715, DIRECT, f5ab793he40f11d1
+appnexus.com, 14246, RESELLER, f5ab79cb980f11d1
 sovrn.com, 278426, DIRECT, fafdf38b16bf6b2b
 lijit.com, 278426, DIRECT, fafdf38b16bf6b2b
 sharethrough.com, cc26d15a, RESELLER, d53b998a7bd4ecd2
