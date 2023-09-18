@@ -469,15 +469,15 @@
     android: '12.0'
     miui: V14.0.5.0.SJECNXM
 - branch: weekly
-  date: '2022-03-04'
+  date: '2022-02-25'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-04.03.2022/fw_cannon_miui_CANNON_22.3.2_beaed4374b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.2/cannon/fw_cannon_miui_CANNON_22.3.2_beaed4374b_11.0.zip
-  filename: fw_cannon_miui_CANNON_22.3.2_beaed4374b_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-25.02.2022/fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/cannon/fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
+  filename: fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 22.3.2
+    miui: 22.2.23
 - branch: stable
   date: '2023-04-17'
   downloads:
@@ -4539,15 +4539,15 @@
     android: '13.0'
     miui: V14.0.5.0.TKFEUXM
 - branch: stable
-  date: '2023-04-18'
+  date: '2023-03-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-18.04.2023/fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweetin/fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
-  filename: fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-15.03.2023/fw_sweetin_miui_SWEETININGlobal_V13.0.10.0.SKFINXM_8af57eaace_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweetin/fw_sweetin_miui_SWEETININGlobal_V13.0.10.0.SKFINXM_8af57eaace_12.0.zip
+  filename: fw_sweetin_miui_SWEETININGlobal_V13.0.10.0.SKFINXM_8af57eaace_12.0.zip
   region: India
   versions:
-    android: '13.0'
-    miui: V14.0.1.0.TKFINXM
+    android: '12.0'
+    miui: V13.0.10.0.SKFINXM
 - branch: stable
   date: '2023-08-29'
   downloads:
@@ -4659,15 +4659,15 @@
     android: '12.0'
     miui: V13.0.6.0.SFNEUXM
 - branch: stable
-  date: '2023-07-23'
+  date: '2023-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-23.07.2023/fw_topaz_miui_TOPAZGlobal_V14.0.5.0.TMGMIXM_fe6ea14cd3_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/topaz/fw_topaz_miui_TOPAZGlobal_V14.0.5.0.TMGMIXM_fe6ea14cd3_13.0.zip
-  filename: fw_topaz_miui_TOPAZGlobal_V14.0.5.0.TMGMIXM_fe6ea14cd3_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_topaz/releases/download/stable-18.09.2023/fw_topaz_miui_TOPAZGlobal_V14.0.7.0.TMGMIXM_4e148ecf3f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/topaz/fw_topaz_miui_TOPAZGlobal_V14.0.7.0.TMGMIXM_4e148ecf3f_13.0.zip
+  filename: fw_topaz_miui_TOPAZGlobal_V14.0.7.0.TMGMIXM_4e148ecf3f_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TMGMIXM
+    miui: V14.0.7.0.TMGMIXM
 - branch: stable
   date: '2023-09-14'
   downloads:

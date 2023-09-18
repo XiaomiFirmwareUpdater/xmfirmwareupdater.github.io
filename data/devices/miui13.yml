@@ -678,12 +678,6 @@
   version: 22.1.19
 - android: '11.0'
   codename: cannon
-  date: '2022-02-18'
-  download: https://bigota.d.miui.com/22.2.17/fw_cannon_miui_CANNON_22.2.17_14387ded78_11.0.zip
-  name: Redmi Note 9 5G
-  version: 22.2.17
-- android: '11.0'
-  codename: cannon
   date: '2022-01-14'
   download: https://bigota.d.miui.com/22.1.13/fw_cannon_miui_CANNON_22.1.13_8a9d85a0b0_11.0.zip
   name: Redmi Note 9 5G
@@ -700,12 +694,6 @@
   download: https://bigota.d.miui.com/22.1.5/fw_cannon_miui_CANNON_22.1.5_f176dcd474_11.0.zip
   name: Redmi Note 9 5G
   version: 22.1.5
-- android: '11.0'
-  codename: cannon
-  date: '2022-03-04'
-  download: https://bigota.d.miui.com/22.3.2/fw_cannon_miui_CANNON_22.3.2_beaed4374b_11.0.zip
-  name: Redmi Note 9 5G
-  version: 22.3.2
 - android: '12.0'
   codename: cannon
   date: '2022-12-17'

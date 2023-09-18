@@ -3227,12 +3227,6 @@
   name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
   version: V14.0.1.0.TKFMIXM
 - android: '13.0'
-  codename: sweetin
-  date: '2023-04-18'
-  download: https://bigota.d.miui.com/V14.0.1.0.TKFINXM/fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
-  name: Redmi Note 10 Pro/Pro Max
-  version: V14.0.1.0.TKFINXM
-- android: '13.0'
   codename: taoyao
   date: '2023-08-29'
   download: https://bigota.d.miui.com/V14.0.6.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.6.0.TLIMIXM_7ec8a720a4_13.0.zip
@@ -3430,6 +3424,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TMGMIXM/fw_topaz_miui_TOPAZGlobal_V14.0.3.0.TMGMIXM_50d540e4de_13.0.zip
   name: Redmi Note 12 4G NFC
   version: V14.0.3.0.TMGMIXM
+- android: '13.0'
+  codename: topaz
+  date: '2023-09-18'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMGMIXM/fw_topaz_miui_TOPAZGlobal_V14.0.7.0.TMGMIXM_4e148ecf3f_13.0.zip
+  name: Redmi Note 12 4G NFC
+  version: V14.0.7.0.TMGMIXM
 - android: '13.0'
   codename: topaz
   date: '2023-04-18'
