@@ -3227,6 +3227,12 @@
   name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
   version: V14.0.1.0.TKFMIXM
 - android: '13.0'
+  codename: sweetin
+  date: '2023-04-18'
+  download: https://bigota.d.miui.com/V14.0.1.0.TKFINXM/fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
+  name: Redmi Note 10 Pro/Pro Max
+  version: V14.0.1.0.TKFINXM
+- android: '13.0'
   codename: taoyao
   date: '2023-08-29'
   download: https://bigota.d.miui.com/V14.0.6.0.TLIMIXM/fw_taoyao_miui_TAOYAOGlobal_V14.0.6.0.TLIMIXM_7ec8a720a4_13.0.zip
@@ -3316,6 +3322,12 @@
   download: https://bigota.d.miui.com/V14.0.6.0.TMTMIXM/fw_tapas_miui_TAPASGlobal_V14.0.6.0.TMTMIXM_028282f682_13.0.zip
   name: Redmi Note 12 4G
   version: V14.0.6.0.TMTMIXM
+- android: '13.0'
+  codename: tapas
+  date: '2023-09-18'
+  download: https://bigota.d.miui.com/V14.0.14.0.TMTMIXM/fw_tapas_miui_TAPASGlobal_V14.0.14.0.TMTMIXM_5f71e96ec0_13.0.zip
+  name: Redmi Note 12 4G
+  version: V14.0.14.0.TMTMIXM
 - android: '13.0'
   codename: tapas
   date: '2023-07-18'
@@ -3706,12 +3718,6 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKDMIXM/fw_vili_miui_VILIGlobal_V14.0.1.0.TKDMIXM_81b331177e_13.0.zip
   name: Xiaomi 11T Pro
   version: V14.0.1.0.TKDMIXM
-- android: '13.0'
-  codename: vili
-  date: '2023-09-13'
-  download: https://bigota.d.miui.com/V14.0.12.0.TKDEUXM/fw_vili_miui_VILIEEAGlobal_V14.0.12.0.TKDEUXM_21eb2aa4b1_13.0.zip
-  name: Xiaomi 11T Pro
-  version: V14.0.12.0.TKDEUXM
 - android: '13.0'
   codename: vili
   date: '2023-07-13'

@@ -469,15 +469,15 @@
     android: '12.0'
     miui: V14.0.5.0.SJECNXM
 - branch: weekly
-  date: '2022-02-25'
+  date: '2022-03-04'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-25.02.2022/fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.23/cannon/fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
-  filename: fw_cannon_miui_CANNON_22.2.23_dad511376d_11.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cannon/releases/download/weekly-04.03.2022/fw_cannon_miui_CANNON_22.3.2_beaed4374b_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.3.2/cannon/fw_cannon_miui_CANNON_22.3.2_beaed4374b_11.0.zip
+  filename: fw_cannon_miui_CANNON_22.3.2_beaed4374b_11.0.zip
   region: China
   versions:
     android: '11.0'
-    miui: 22.2.23
+    miui: 22.3.2
 - branch: stable
   date: '2023-04-17'
   downloads:
@@ -4539,15 +4539,15 @@
     android: '13.0'
     miui: V14.0.5.0.TKFEUXM
 - branch: stable
-  date: '2023-03-14'
+  date: '2023-04-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-15.03.2023/fw_sweetin_miui_SWEETININGlobal_V13.0.10.0.SKFINXM_8af57eaace_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/sweetin/fw_sweetin_miui_SWEETININGlobal_V13.0.10.0.SKFINXM_8af57eaace_12.0.zip
-  filename: fw_sweetin_miui_SWEETININGlobal_V13.0.10.0.SKFINXM_8af57eaace_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sweetin/releases/download/stable-18.04.2023/fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sweetin/fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
+  filename: fw_sweetin_miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip
   region: India
   versions:
-    android: '12.0'
-    miui: V13.0.10.0.SKFINXM
+    android: '13.0'
+    miui: V14.0.1.0.TKFINXM
 - branch: stable
   date: '2023-08-29'
   downloads:
@@ -4569,15 +4569,15 @@
     android: '13.0'
     miui: V14.0.19.0.TLIEUXM
 - branch: stable
-  date: '2023-07-18'
+  date: '2023-09-18'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-18.07.2023/fw_tapas_miui_TAPASGlobal_V14.0.12.0.TMTMIXM_7e3f673289_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/tapas/fw_tapas_miui_TAPASGlobal_V14.0.12.0.TMTMIXM_7e3f673289_13.0.zip
-  filename: fw_tapas_miui_TAPASGlobal_V14.0.12.0.TMTMIXM_7e3f673289_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_tapas/releases/download/stable-18.09.2023/fw_tapas_miui_TAPASGlobal_V14.0.14.0.TMTMIXM_5f71e96ec0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/tapas/fw_tapas_miui_TAPASGlobal_V14.0.14.0.TMTMIXM_5f71e96ec0_13.0.zip
+  filename: fw_tapas_miui_TAPASGlobal_V14.0.14.0.TMTMIXM_5f71e96ec0_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.12.0.TMTMIXM
+    miui: V14.0.14.0.TMTMIXM
 - branch: stable
   date: '2023-09-07'
   downloads:
@@ -5069,15 +5069,15 @@
     android: '13.0'
     miui: V14.0.3.0.TKDMIXM
 - branch: stable
-  date: '2023-09-13'
+  date: '2023-08-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-13.09.2023/fw_vili_miui_VILIEEAGlobal_V14.0.12.0.TKDEUXM_21eb2aa4b1_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIEEAGlobal_V14.0.12.0.TKDEUXM_21eb2aa4b1_13.0.zip
-  filename: fw_vili_miui_VILIEEAGlobal_V14.0.12.0.TKDEUXM_21eb2aa4b1_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_vili/releases/download/stable-09.08.2023/fw_vili_miui_VILIEEAGlobal_V14.0.11.0.TKDEUXM_fe1609f8a7_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/vili/fw_vili_miui_VILIEEAGlobal_V14.0.11.0.TKDEUXM_fe1609f8a7_13.0.zip
+  filename: fw_vili_miui_VILIEEAGlobal_V14.0.11.0.TKDEUXM_fe1609f8a7_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.12.0.TKDEUXM
+    miui: V14.0.11.0.TKDEUXM
 - branch: stable
   date: '2023-08-11'
   downloads:
