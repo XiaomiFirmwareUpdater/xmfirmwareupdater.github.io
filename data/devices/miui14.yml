@@ -42,6 +42,12 @@
   version: V14.0.4.0.TKHMIXM
 - android: '13.0'
   codename: alioth
+  date: '2023-09-19'
+  download: https://bigota.d.miui.com/V14.0.8.0.TKHMIXM/fw_alioth_miui_ALIOTHGlobal_V14.0.8.0.TKHMIXM_4baed81b95_13.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: V14.0.8.0.TKHMIXM
+- android: '13.0'
+  codename: alioth
   date: '2023-06-16'
   download: https://bigota.d.miui.com/V14.0.7.0.TKHCNXM/fw_alioth_miui_ALIOTH_V14.0.7.0.TKHCNXM_013ff06f04_13.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -628,6 +634,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TCVMIXM/fw_earth_miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip
   name: Redmi 12C/POCO C55
   version: V14.0.4.0.TCVMIXM
+- android: '13.0'
+  codename: earth
+  date: '2023-09-19'
+  download: https://bigota.d.miui.com/V14.0.3.0.TCVINXM/fw_earth_miui_EARTHINGlobal_V14.0.3.0.TCVINXM_65206f3e94_13.0.zip
+  name: Redmi 12C/POCO C55
+  version: V14.0.3.0.TCVINXM
 - android: '13.0'
   codename: earth
   date: '2023-09-14'
@@ -1528,6 +1540,18 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TMREUXM/fw_marble_miui_MARBLEEEAGlobal_V14.0.8.0.TMREUXM_f31f7dd9c2_13.0.zip
   name: Redmi Note 12 Turbo/POCO F5
   version: V14.0.8.0.TMREUXM
+- android: '13.0'
+  codename: marble
+  date: '2023-09-19'
+  download: https://bigota.d.miui.com/V14.0.9.0.TMREUXM/fw_marble_miui_MARBLEEEAGlobal_V14.0.9.0.TMREUXM_5b40c23287_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.9.0.TMREUXM
+- android: '13.0'
+  codename: marble
+  date: '2023-09-19'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMRMIXM/fw_marble_miui_MARBLEGlobal_V14.0.7.0.TMRMIXM_5bc2ea5402_13.0.zip
+  name: Redmi Note 12 Turbo/POCO F5
+  version: V14.0.7.0.TMRMIXM
 - android: '13.0'
   codename: marble
   date: '2023-07-19'
@@ -3934,6 +3958,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMUMIXM/fw_xun_miui_XUNGlobal_V14.0.2.0.TMUMIXM_fe965b6abb_13.0.zip
   name: Redmi Pad SE
   version: V14.0.2.0.TMUMIXM
+- android: '13.0'
+  codename: xun
+  date: '2023-09-19'
+  download: https://bigota.d.miui.com/V14.0.3.0.TMUMIXM/fw_xun_miui_XUNGlobal_V14.0.3.0.TMUMIXM_c989403107_13.0.zip
+  name: Redmi Pad SE
+  version: V14.0.3.0.TMUMIXM
 - android: '13.0'
   codename: yudi
   date: '2023-08-29'
