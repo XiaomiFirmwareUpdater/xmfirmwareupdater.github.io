@@ -30,6 +30,12 @@
   version: 21.8.25
 - android: '11.0'
   codename: alioth
+  date: '2021-06-24'
+  download: https://bigota.d.miui.com/21.6.23/miui_ALIOTH_21.6.23_8809d179c1_11.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: 21.6.23
+- android: '11.0'
+  codename: alioth
   date: '2021-07-22'
   download: https://bigota.d.miui.com/21.7.21/miui_ALIOTH_21.7.21_e60f93d2a7_11.0.zip
   name: Redmi K40/POCO F3/Mi 11X
@@ -136,6 +142,12 @@
   download: https://bigota.d.miui.com/21.9.1/miui_ALIOTH_21.9.1_7148721538_11.0.zip
   name: Redmi K40/POCO F3/Mi 11X
   version: 21.9.1
+- android: '11.0'
+  codename: alioth
+  date: '2021-06-03'
+  download: https://bigota.d.miui.com/21.6.2/miui_ALIOTH_21.6.2_6d346564dd_11.0.zip
+  name: Redmi K40/POCO F3/Mi 11X
+  version: 21.6.2
 - android: '11.0'
   codename: alioth
   date: '2021-07-02'
