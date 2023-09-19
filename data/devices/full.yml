@@ -25929,16 +25929,6 @@
     android: '11.0'
     miui: 21.1.28
 - branch: weekly
-  date: '2021-05-27'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/weekly-27.05.2021/fw_grus_miui_GRUS_21.5.27_f4759a606e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.5.27/grus/fw_grus_miui_GRUS_21.5.27_f4759a606e_11.0.zip
-  filename: fw_grus_miui_GRUS_21.5.27_f4759a606e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.5.27
-- branch: weekly
   date: '2021-03-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/weekly-27.03.2021/fw_grus_miui_GRUS_21.3.24_65d34e41f6_11.0.zip
@@ -26309,16 +26299,6 @@
     android: '11.0'
     miui: V12.5.1.0.RFBEUXM
 - branch: stable
-  date: '2020-06-28'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/stable-28.06.2020/fw_grus_miui_GRUSGlobal_V11.0.4.0.QFBMIXM_fae587a098_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUSGlobal_V11.0.4.0.QFBMIXM_fae587a098_10.0.zip
-  filename: fw_grus_miui_GRUSGlobal_V11.0.4.0.QFBMIXM_fae587a098_10.0.zip
-  region: Global
-  versions:
-    android: '10.0'
-    miui: V11.0.4.0.QFBMIXM
-- branch: stable
   date: '2019-09-27'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/stable-27.09.2019/fw_grus_miui_GRUSEEAGlobal_V10.3.9.0.PFBEUXM_f1b6a0764f_9.0.zip
@@ -26368,16 +26348,6 @@
   versions:
     android: '9.0'
     miui: V10.2.9.0.PFBEUXM
-- branch: stable
-  date: '2019-04-23'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/stable-23.04.2019/fw_grus_miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V10/grus/fw_grus_miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip
-  filename: fw_grus_miui_GRUS_V10.2.11.0.PFBCNXM_a2557d7524_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V10.2.11.0.PFBCNXM
 - branch: stable
   date: '2021-11-22'
   downloads:
@@ -26458,16 +26428,6 @@
   versions:
     android: '9.0'
     miui: V10.3.3.0.PFBCNXM
-- branch: stable
-  date: '2019-10-17'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/stable-17.10.2019/fw_grus_miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V11/grus/fw_grus_miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip
-  filename: fw_grus_miui_GRUS_V11.0.3.0.PFBCNXM_798b0ceef1_9.0.zip
-  region: China
-  versions:
-    android: '9.0'
-    miui: V11.0.3.0.PFBCNXM
 - branch: stable
   date: '2020-12-15'
   downloads:
@@ -26608,16 +26568,6 @@
   versions:
     android: '11.0'
     miui: V12.5.1.0.RFBMIXM
-- branch: stable
-  date: '2020-12-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_grus/releases/download/stable-03.12.2020/fw_grus_miui_GRUS_V12.0.3.0.QFBCNXM_262c628432_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/grus/fw_grus_miui_GRUS_V12.0.3.0.QFBCNXM_262c628432_10.0.zip
-  filename: fw_grus_miui_GRUS_V12.0.3.0.QFBCNXM_262c628432_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: V12.0.3.0.QFBCNXM
 - branch: stable
   date: '2019-03-12'
   downloads:
@@ -28308,6 +28258,16 @@
   versions:
     android: '13.0'
     miui: V14.0.3.0.TMAMIXM
+- branch: stable
+  date: '2023-09-19'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ishtar/releases/download/stable-19.09.2023/fw_ishtar_miui_ISHTAR_V14.0.19.0.TMACNXM_29c78fc8e3_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ishtar/fw_ishtar_miui_ISHTAR_V14.0.19.0.TMACNXM_29c78fc8e3_13.0.zip
+  filename: fw_ishtar_miui_ISHTAR_V14.0.19.0.TMACNXM_29c78fc8e3_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.19.0.TMACNXM
 - branch: stable
   date: '2023-08-19'
   downloads:
