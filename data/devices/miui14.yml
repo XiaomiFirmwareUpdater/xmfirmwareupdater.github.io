@@ -3684,6 +3684,12 @@
   version: V14.0.1.0.TKCEUXM
 - android: '13.0'
   codename: veux
+  date: '2023-09-19'
+  download: https://bigota.d.miui.com/V14.0.2.0.TKCEUXM/fw_veux_miui_VEUXEEAGlobal_V14.0.2.0.TKCEUXM_1996821304_13.0.zip
+  name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G
+  version: V14.0.2.0.TKCEUXM
+- android: '13.0'
+  codename: veux
   date: '2023-08-11'
   download: https://bigota.d.miui.com/V14.0.3.0.TKCCNXM/fw_veux_miui_VEUX_V14.0.3.0.TKCCNXM_f1d603a106_13.0.zip
   name: Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G

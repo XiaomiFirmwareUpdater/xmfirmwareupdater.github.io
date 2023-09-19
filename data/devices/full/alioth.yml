@@ -79,16 +79,6 @@
     android: '12.0'
     miui: 22.2.23
 - branch: weekly
-  date: '2021-06-24'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/weekly-24.06.2021/fw_alioth_miui_ALIOTH_21.6.23_8809d179c1_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.23/alioth/fw_alioth_miui_ALIOTH_21.6.23_8809d179c1_11.0.zip
-  filename: fw_alioth_miui_ALIOTH_21.6.23_8809d179c1_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.23
-- branch: weekly
   date: '2021-07-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/weekly-22.07.2021/fw_alioth_miui_ALIOTH_21.7.21_e60f93d2a7_11.0.zip
@@ -209,16 +199,6 @@
     android: '11.0'
     miui: 21.5.12
 - branch: weekly
-  date: '2022-02-13'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/weekly-14.02.2022/fw_alioth_miui_ALIOTHPRE_22.2.9_f2a8b83941_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/22.2.9/alioth/fw_alioth_miui_ALIOTHPRE_22.2.9_f2a8b83941_12.0.zip
-  filename: fw_alioth_miui_ALIOTHPRE_22.2.9_f2a8b83941_12.0.zip
-  region: China
-  versions:
-    android: '12.0'
-    miui: 22.2.9
-- branch: weekly
   date: '2021-08-12'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/weekly-12.08.2021/fw_alioth_miui_ALIOTH_21.8.11_5fb6d6cbf0_11.0.zip
@@ -308,16 +288,6 @@
   versions:
     android: '11.0'
     miui: 21.9.1
-- branch: weekly
-  date: '2021-06-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_alioth/releases/download/weekly-03.06.2021/fw_alioth_miui_ALIOTH_21.6.2_6d346564dd_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.6.2/alioth/fw_alioth_miui_ALIOTH_21.6.2_6d346564dd_11.0.zip
-  filename: fw_alioth_miui_ALIOTH_21.6.2_6d346564dd_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.6.2
 - branch: weekly
   date: '2021-07-02'
   downloads:
