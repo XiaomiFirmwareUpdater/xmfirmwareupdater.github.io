@@ -55,7 +55,7 @@ permalink: /miui/fuxi/
                 <tr><td>Xiaomi 13 China</td><td>Public Beta</td><td>Fastboot</td><td>23.5.6</td><td>14.0</td><td>7.8 GB</td><td>2023-05-06</td><td><a href="/miui/fuxi/public beta/23.5.6/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Global</td><td>Public Beta</td><td>Fastboot</td><td>23.5.6</td><td>14.0</td><td>7.1 GB</td><td>2023-05-06</td><td><a href="/miui/fuxi/public beta/23.5.6/">Download</a></td></tr>
 <tr><td>Xiaomi 13 China</td><td>Stable</td><td>Fastboot</td><td>V14.0.23.8.14.DEV</td><td>13.0</td><td>8.1 GB</td><td>2023-08-14</td><td><a href="/miui/fuxi/stable/V14.0.23.8.14.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 13 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.5.DEV</td><td>13.0</td><td>6.4 GB</td><td>2023-09-08</td><td><a href="/miui/fuxi/public beta/V14.0.23.9.5.DEV/">Download</a></td></tr>
+<tr><td>Xiaomi 13 China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.11.DEV</td><td>13.0</td><td>6.4 GB</td><td>2023-09-15</td><td><a href="/miui/fuxi/public beta/V14.0.23.9.11.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 13 China</td><td>Stable</td><td>Recovery</td><td>V14.0.1.3.UMCCNXM</td><td>14.0</td><td>6.5 GB</td><td>2023-09-08</td><td><a href="/miui/fuxi/stable/V14.0.1.3.UMCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TMCCNXM</td><td>13.0</td><td>6.7 GB</td><td>2022-12-31</td><td><a href="/miui/fuxi/stable beta/V14.0.11.0.TMCCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.27.0.TMCEUXM</td><td>13.0</td><td>7.5 GB</td><td>2023-07-31</td><td><a href="/miui/fuxi/stable/V14.0.27.0.TMCEUXM/">Download</a></td></tr>
@@ -63,9 +63,8 @@ permalink: /miui/fuxi/
 <tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TMCMIXM</td><td>13.0</td><td>7.6 GB</td><td>2023-08-03</td><td><a href="/miui/fuxi/stable/V14.0.9.0.TMCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Global</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TMCMIXM</td><td>13.0</td><td>5.6 GB</td><td>2023-08-24</td><td><a href="/miui/fuxi/stable/V14.0.9.0.TMCMIXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TMCMIXM</td><td>13.0</td><td>5.5 GB</td><td>2023-02-27</td><td><a href="/miui/fuxi/stable beta/V14.0.3.0.TMCMIXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMCRUXM</td><td>13.0</td><td>7.0 GB</td><td>2023-05-08</td><td><a href="/miui/fuxi/stable/V14.0.6.0.TMCRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMCRUXM</td><td>13.0</td><td>5.5 GB</td><td>2023-05-22</td><td><a href="/miui/fuxi/stable/V14.0.6.0.TMCRUXM/">Download</a></td></tr>
-<tr><td>Xiaomi 13 Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.11.0.TMCRUXM</td><td>13.0</td><td>5.6 GB</td><td>2023-09-14</td><td><a href="/miui/fuxi/stable beta/V14.0.11.0.TMCRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.11.0.TMCRUXM</td><td>13.0</td><td>7.1 GB</td><td>2023-08-31</td><td><a href="/miui/fuxi/stable/V14.0.11.0.TMCRUXM/">Download</a></td></tr>
+<tr><td>Xiaomi 13 Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.11.0.TMCRUXM</td><td>13.0</td><td>5.6 GB</td><td>2023-09-14</td><td><a href="/miui/fuxi/stable/V14.0.11.0.TMCRUXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMCTRXM</td><td>13.0</td><td>6.6 GB</td><td>2023-02-08</td><td><a href="/miui/fuxi/stable/V14.0.3.0.TMCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMCTRXM</td><td>13.0</td><td>5.5 GB</td><td>2023-02-27</td><td><a href="/miui/fuxi/stable/V14.0.3.0.TMCTRXM/">Download</a></td></tr>
 <tr><td>Xiaomi 13 Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.10.0.TMCTWXM</td><td>13.0</td><td>6.5 GB</td><td>2023-08-11</td><td><a href="/miui/fuxi/stable/V14.0.10.0.TMCTWXM/">Download</a></td></tr>

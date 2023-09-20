@@ -51269,6 +51269,36 @@
     android: '13.0'
     miui: V14.0.4.0.TMOEUXM
 - branch: stable
+  date: '2023-09-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-20.09.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.11.0.SMOEUXM_5fb25bd350_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYEEAGlobal_V14.0.11.0.SMOEUXM_5fb25bd350_12.0.zip
+  filename: fw_ruby_miui_RUBYEEAGlobal_V14.0.11.0.SMOEUXM_5fb25bd350_12.0.zip
+  region: Europe
+  versions:
+    android: '12.0'
+    miui: V14.0.11.0.SMOEUXM
+- branch: stable
+  date: '2023-09-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-20.09.2023/fw_ruby_miui_RUBYGlobal_V14.0.8.0.SMOMIXM_6c78538e69_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYGlobal_V14.0.8.0.SMOMIXM_6c78538e69_12.0.zip
+  filename: fw_ruby_miui_RUBYGlobal_V14.0.8.0.SMOMIXM_6c78538e69_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V14.0.8.0.SMOMIXM
+- branch: stable
+  date: '2023-09-20'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-20.09.2023/fw_ruby_miui_RUBY_V14.0.9.0.SMOCNXM_e0e4cb8094_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBY_V14.0.9.0.SMOCNXM_e0e4cb8094_12.0.zip
+  filename: fw_ruby_miui_RUBY_V14.0.9.0.SMOCNXM_e0e4cb8094_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V14.0.9.0.SMOCNXM
+- branch: stable
   date: '2023-07-19'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-20.07.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.3.0.TMOEUXM_6f7ea627cb_13.0.zip
@@ -67278,6 +67308,16 @@
   versions:
     android: '8.1'
     miui: V10.2.1.0.OEICNFK
+- branch: weekly
+  date: '2018-12-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_whyred/releases/download/weekly-21.12.2018/fw_whyred_miui_HMNote5_8.12.20_aa5610312c_8.1.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/whyred/fw_whyred_miui_HMNote5_8.12.20_aa5610312c_8.1.zip
+  filename: fw_whyred_miui_HMNote5_8.12.20_aa5610312c_8.1.zip
+  region: China
+  versions:
+    android: '8.1'
+    miui: 8.12.20
 - branch: weekly
   date: '2018-12-14'
   downloads:
