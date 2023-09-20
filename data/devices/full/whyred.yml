@@ -399,16 +399,6 @@
     android: '8.1'
     miui: V10.2.1.0.OEICNFK
 - branch: weekly
-  date: '2018-12-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_whyred/releases/download/weekly-21.12.2018/fw_whyred_miui_HMNote5_8.12.20_aa5610312c_8.1.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/8.12.20/whyred/fw_whyred_miui_HMNote5_8.12.20_aa5610312c_8.1.zip
-  filename: fw_whyred_miui_HMNote5_8.12.20_aa5610312c_8.1.zip
-  region: China
-  versions:
-    android: '8.1'
-    miui: 8.12.20
-- branch: weekly
   date: '2018-12-14'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_whyred/releases/download/weekly-14.12.2018/fw_whyred_miui_HMNote5_8.12.13_76f7e63f71_8.1.zip
