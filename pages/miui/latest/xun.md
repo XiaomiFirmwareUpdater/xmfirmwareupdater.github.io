@@ -52,7 +52,9 @@ permalink: /miui/xun/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad SE EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMUEUXM</td><td>13.0</td><td>367 Bytes</td><td>2023-08-11</td><td><a href="/miui/xun/stable/V14.0.2.0.TMUEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad SE China</td><td>Stable</td><td>Fastboot</td><td>V14.0.6.0.TMUCNXM</td><td>13.0</td><td>5.1 GB</td><td>2023-09-11</td><td><a href="/miui/xun/stable/V14.0.6.0.TMUCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE China</td><td>Stable</td><td>Recovery</td><td>V14.0.6.0.TMUCNXM</td><td>13.0</td><td>4.0 GB</td><td>2023-09-21</td><td><a href="/miui/xun/stable/V14.0.6.0.TMUCNXM/">Download</a></td></tr>
+<tr><td>Redmi Pad SE EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMUEUXM</td><td>13.0</td><td>367 Bytes</td><td>2023-08-11</td><td><a href="/miui/xun/stable/V14.0.2.0.TMUEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMUEUXM</td><td>13.0</td><td>3.9 GB</td><td>None</td><td><a href="/miui/xun/stable/V14.0.2.0.TMUEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TMUMIXM</td><td>13.0</td><td>4.4 GB</td><td>2023-08-17</td><td><a href="/miui/xun/stable/V14.0.2.0.TMUMIXM/">Download</a></td></tr>
 <tr><td>Redmi Pad SE Global</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TMUMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-08-31</td><td><a href="/miui/xun/stable/V14.0.2.0.TMUMIXM/">Download</a></td></tr>

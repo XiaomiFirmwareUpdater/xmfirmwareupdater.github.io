@@ -3942,12 +3942,6 @@
   version: V14.0.3.0.TLOCNXM
 - android: '13.0'
   codename: xaga
-  date: '2023-09-13'
-  download: https://bigota.d.miui.com/V14.0.4.0.TLOINXM/fw_xaga_miui_XAGAINGlobal_V14.0.4.0.TLOINXM_421814eb1e_13.0.zip
-  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
-  version: V14.0.4.0.TLOINXM
-- android: '13.0'
-  codename: xaga
   date: '2023-08-11'
   download: https://bigota.d.miui.com/V14.0.4.0.TLOEUXM/fw_xaga_miui_XAGAEEAGlobal_V14.0.4.0.TLOEUXM_547ad562e7_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
@@ -3966,12 +3960,6 @@
   version: V14.0.2.0.TLOCNXM
 - android: '13.0'
   codename: xaga
-  date: '2023-02-07'
-  download: https://bigota.d.miui.com/V14.0.1.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
-  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
-  version: V14.0.1.0.TLOMIXM
-- android: '13.0'
-  codename: xaga
   date: '2023-06-04'
   download: https://bigota.d.miui.com/V14.0.4.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.4.0.TLOMIXM_f99671c58b_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
@@ -3982,6 +3970,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TMUMIXM/fw_xun_miui_XUNGlobal_V14.0.2.0.TMUMIXM_fe965b6abb_13.0.zip
   name: Redmi Pad SE
   version: V14.0.2.0.TMUMIXM
+- android: '13.0'
+  codename: xun
+  date: '2023-09-21'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMUCNXM/fw_xun_miui_XUN_V14.0.6.0.TMUCNXM_f59b433557_13.0.zip
+  name: Redmi Pad SE
+  version: V14.0.6.0.TMUCNXM
 - android: '13.0'
   codename: xun
   date: '2023-09-19'
