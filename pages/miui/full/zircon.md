@@ -1,15 +1,15 @@
 ---
-title: Xiaomi Pad 6 Pro (liuqin) MIUI Downloads
+title: Redmi Note 13 Pro+ (zircon) MIUI Downloads
 layout: download
-name: Xiaomi Pad 6 Pro
-codename: liuqin
-permalink: /miui/liuqin/
+name: Redmi Note 13 Pro+
+codename: zircon
+permalink: /archive/miui/zircon/
 ---
 <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/">Home</a></li>
         <li class="breadcrumb-item"><a href="/miui/">MIUI</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/liuqin/">Xiaomi Pad 6 Pro</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><a href="/miui/zircon/">Redmi Note 13 Pro+</a></li>
     </ol>
 </nav>
 <div class="alert alert-primary alert-dismissible fade show" role="alert">
@@ -20,17 +20,17 @@ permalink: /miui/liuqin/
     </button>
 </div>
 
-### Latest MIUI Official ROMs
+### MIUI Official ROMs Archive
 *Note*: All files listed here are official untouched MIUI ROMs. It's not owned, modified or modded by Xiaomi Firmware Updater.
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Note</h5>
     <h6 class="card-subtitle mb-2 text-muted">You might be looking for something else!</h6>
-    <p class="card-text">This page shows the latest downloads only.
-     If you're looking for older releases or other downloads check:</p>
-    <a href="/archive/miui/liuqin/" class="card-link">MIUI Archive</a>
-    <a href="/firmware/liuqin/" class="card-link">Firmware Downloads</a>
-    <a href="/vendor/liuqin/" class="card-link">Vendor Downloads</a>
+    <p class="card-text">This page shows all available downloads.
+     If you're looking for the latest releases check or other downloads check:</p>
+    <a href="/miui/zircon/" class="card-link">Latest MIUI</a>
+    <a href="/firmware/zircon/" class="card-link">Firmware Downloads</a>
+    <a href="/vendor/zircon/" class="card-link">Vendor Downloads</a>
   </div>
 </div>
 {%include ads.html%}
@@ -52,8 +52,8 @@ permalink: /miui/liuqin/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi Pad 6 Pro China</td><td>Stable</td><td>Fastboot</td><td>V14.0.9.0.TMYCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-09-07</td><td><a href="/miui/liuqin/stable/V14.0.9.0.TMYCNXM/">Download</a></td></tr>
-<tr><td>Xiaomi Pad 6 Pro China</td><td>Stable</td><td>Recovery</td><td>V14.0.9.0.TMYCNXM</td><td>13.0</td><td>5.0 GB</td><td>2023-09-14</td><td><a href="/miui/liuqin/stable/V14.0.9.0.TMYCNXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 13 Pro+ China</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TNOCNXM</td><td>13.0</td><td>358 Bytes</td><td>2023-09-15</td><td><a href="/miui/zircon/stable/V14.0.3.0.TNOCNXM/">Download</a></td></tr>
+<tr><td>Redmi Note 13 Pro+ China</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TNOCNXM</td><td>13.0</td><td>6.2 GB</td><td>None</td><td><a href="/miui/zircon/stable/V14.0.3.0.TNOCNXM/">Download</a></td></tr>
 
                 </tbody>
                 <script>loadMiuiDownloads()</script>
