@@ -156,6 +156,12 @@
   version: V14.0.4.0.TKJINXM
 - android: '13.0'
   codename: babylon
+  date: '2023-09-21'
+  download: https://bigota.d.miui.com/V14.1.9.0.TMVCNXM/fw_babylon_miui_BABYLON_V14.1.9.0.TMVCNXM_2275df6b37_13.0.zip
+  name: MIX Fold 3
+  version: V14.1.9.0.TMVCNXM
+- android: '13.0'
+  codename: babylon
   date: '2023-08-16'
   download: https://bigota.d.miui.com/V14.1.5.0.TMVCNXM/fw_babylon_miui_BABYLON_V14.1.5.0.TMVCNXM_97f388a88a_13.0.zip
   name: MIX Fold 3
@@ -190,6 +196,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
   name: Redmi Note 8 (2021)
   version: V14.0.3.0.TCUMIXM
+- android: '13.0'
+  codename: camellia
+  date: '2023-09-21'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKSINXM/fw_camellia_miui_CAMELLIAINGlobal_V14.0.5.0.TKSINXM_da28691dc8_13.0.zip
+  name: Redmi Note 10 5G/Redmi Note 11SE/Redmi Note 10T 5G/POCO M3 Pro 5G
+  version: V14.0.5.0.TKSINXM
 - android: '13.0'
   codename: camellia
   date: '2023-03-20'
@@ -964,6 +976,12 @@
   download: https://bigota.d.miui.com/V14.0.11.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.11.0.TMCCNXM_77665cadba_13.0.zip
   name: Xiaomi 13
   version: V14.0.11.0.TMCCNXM
+- android: '13.0'
+  codename: garnet
+  date: '2023-09-22'
+  download: https://bigota.d.miui.com/V14.0.1.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.1.0.TNRCNXM_bbb2dfd7bd_13.0.zip
+  name: Redmi Note 13 Pro
+  version: V14.0.1.0.TNRCNXM
 - android: '12.0'
   codename: gauguin
   date: '2023-03-24'
@@ -994,6 +1012,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SJSINXM/fw_gauguin_miui_GAUGUININGlobal_V14.0.2.0.SJSINXM_1db4f5a726_12.0.zip
   name: Redmi Note 9 Pro 5G/Mi 10T Lite/Mi 10i
   version: V14.0.2.0.SJSINXM
+- android: '13.0'
+  codename: gold
+  date: '2023-09-22'
+  download: https://bigota.d.miui.com/V14.0.1.0.TNQCNXM/fw_gold_miui_GOLD_V14.0.1.0.TNQCNXM_0a344a58dc_13.0.zip
+  name: Redmi Note 13 5G/13R Pro
+  version: V14.0.1.0.TNQCNXM
 - android: '12.0'
   codename: gram
   date: '2023-07-24'
@@ -2766,6 +2790,12 @@
   version: V14.0.2.0.SMOMIXM
 - android: '13.0'
   codename: ruby
+  date: '2023-09-22'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMOEUXM/fw_ruby_miui_RUBYEEAGlobal_V14.0.6.0.TMOEUXM_3e0d2680a7_13.0.zip
+  name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
+  version: V14.0.6.0.TMOEUXM
+- android: '13.0'
+  codename: ruby
   date: '2023-08-22'
   download: https://bigota.d.miui.com/V14.0.4.0.TMOEUXM/fw_ruby_miui_RUBYEEAGlobal_V14.0.4.0.TMOEUXM_4f912b117e_13.0.zip
   name: Redmi Note 12 Pro/Pro+/Discovery 5G/Pro+ 5G
@@ -3942,6 +3972,12 @@
   version: V14.0.3.0.TLOCNXM
 - android: '13.0'
   codename: xaga
+  date: '2023-09-13'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLOINXM/fw_xaga_miui_XAGAINGlobal_V14.0.4.0.TLOINXM_421814eb1e_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.4.0.TLOINXM
+- android: '13.0'
+  codename: xaga
   date: '2023-08-11'
   download: https://bigota.d.miui.com/V14.0.4.0.TLOEUXM/fw_xaga_miui_XAGAEEAGlobal_V14.0.4.0.TLOEUXM_547ad562e7_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
@@ -3958,6 +3994,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.2.0.TLOCNXM_c79ba02c33_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.2.0.TLOCNXM
+- android: '13.0'
+  codename: xaga
+  date: '2023-02-07'
+  download: https://bigota.d.miui.com/V14.0.1.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
+  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
+  version: V14.0.1.0.TLOMIXM
 - android: '13.0'
   codename: xaga
   date: '2023-06-04'

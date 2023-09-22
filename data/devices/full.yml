@@ -4769,6 +4769,16 @@
     android: '10.0'
     miui: V11.0.4.0.QJHCNXM
 - branch: stable
+  date: '2023-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-22.09.2023/fw_babylon_miui_BABYLON_V14.1.9.0.TMVCNXM_2275df6b37_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/babylon/fw_babylon_miui_BABYLON_V14.1.9.0.TMVCNXM_2275df6b37_13.0.zip
+  filename: fw_babylon_miui_BABYLON_V14.1.9.0.TMVCNXM_2275df6b37_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.1.9.0.TMVCNXM
+- branch: stable
   date: '2023-08-16'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_babylon/releases/download/stable-16.08.2023/fw_babylon_miui_BABYLON_V14.1.5.0.TMVCNXM_97f388a88a_13.0.zip
@@ -7998,6 +8008,16 @@
   versions:
     android: '12.0'
     miui: V13.0.4.0.SKSCNXM
+- branch: stable
+  date: '2023-09-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_camellia/releases/download/stable-22.09.2023/fw_camellia_miui_CAMELLIAINGlobal_V14.0.5.0.TKSINXM_da28691dc8_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/camellia/fw_camellia_miui_CAMELLIAINGlobal_V14.0.5.0.TKSINXM_da28691dc8_13.0.zip
+  filename: fw_camellia_miui_CAMELLIAINGlobal_V14.0.5.0.TKSINXM_da28691dc8_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.5.0.TKSINXM
 - branch: stable
   date: '2022-03-21'
   downloads:
@@ -23488,6 +23508,16 @@
   versions:
     android: '13.0'
     miui: V14.0.11.0.TMCCNXM
+- branch: stable
+  date: '2023-09-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_garnet/releases/download/stable-22.09.2023/fw_garnet_miui_GARNET_V14.0.1.0.TNRCNXM_bbb2dfd7bd_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/garnet/fw_garnet_miui_GARNET_V14.0.1.0.TNRCNXM_bbb2dfd7bd_13.0.zip
+  filename: fw_garnet_miui_GARNET_V14.0.1.0.TNRCNXM_bbb2dfd7bd_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TNRCNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -25788,6 +25818,16 @@
   versions:
     android: '11.0'
     miui: V12.0.3.0.RCOCNXM
+- branch: stable
+  date: '2023-09-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_gold/releases/download/stable-22.09.2023/fw_gold_miui_GOLD_V14.0.1.0.TNQCNXM_0a344a58dc_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/gold/fw_gold_miui_GOLD_V14.0.1.0.TNQCNXM_0a344a58dc_13.0.zip
+  filename: fw_gold_miui_GOLD_V14.0.1.0.TNQCNXM_0a344a58dc_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TNQCNXM
 - branch: stable
   date: '2020-09-29'
   downloads:
@@ -51259,6 +51299,16 @@
     android: '12.0'
     miui: V13.0.9.0.SMOCNXM
 - branch: stable
+  date: '2023-09-22'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-22.09.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.6.0.TMOEUXM_3e0d2680a7_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/ruby/fw_ruby_miui_RUBYEEAGlobal_V14.0.6.0.TMOEUXM_3e0d2680a7_13.0.zip
+  filename: fw_ruby_miui_RUBYEEAGlobal_V14.0.6.0.TMOEUXM_3e0d2680a7_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.6.0.TMOEUXM
+- branch: stable
   date: '2023-08-22'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_ruby/releases/download/stable-22.08.2023/fw_ruby_miui_RUBYEEAGlobal_V14.0.4.0.TMOEUXM_4f912b117e_13.0.zip
@@ -67979,6 +68029,16 @@
     android: '12.0'
     miui: V13.0.10.0.SLOCNXM
 - branch: stable
+  date: '2022-12-26'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-26.12.2022/fw_xaga_miui_XAGAINGlobal_V13.0.8.0.SLOINXM_e04be60aa1_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/xaga/fw_xaga_miui_XAGAINGlobal_V13.0.8.0.SLOINXM_e04be60aa1_12.0.zip
+  filename: fw_xaga_miui_XAGAINGlobal_V13.0.8.0.SLOINXM_e04be60aa1_12.0.zip
+  region: India
+  versions:
+    android: '12.0'
+    miui: V13.0.8.0.SLOINXM
+- branch: stable
   date: '2022-07-25'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-25.07.2022/fw_xaga_miui_XAGA_V13.0.11.0.SLOCNXM_da7d1e2cfb_12.0.zip
@@ -68089,6 +68149,16 @@
     android: '13.0'
     miui: V14.0.3.0.TLOCNXM
 - branch: stable
+  date: '2023-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-13.09.2023/fw_xaga_miui_XAGAINGlobal_V14.0.4.0.TLOINXM_421814eb1e_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGAINGlobal_V14.0.4.0.TLOINXM_421814eb1e_13.0.zip
+  filename: fw_xaga_miui_XAGAINGlobal_V14.0.4.0.TLOINXM_421814eb1e_13.0.zip
+  region: India
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TLOINXM
+- branch: stable
   date: '2023-08-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-11.08.2023/fw_xaga_miui_XAGAEEAGlobal_V14.0.4.0.TLOEUXM_547ad562e7_13.0.zip
@@ -68158,6 +68228,16 @@
   versions:
     android: '13.0'
     miui: V13.2.3.0.TLOCNXM
+- branch: stable
+  date: '2023-02-07'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_xaga/releases/download/stable-07.02.2023/fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/xaga/fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
+  filename: fw_xaga_miui_XAGAGlobal_V14.0.1.0.TLOMIXM_caa4d0d388_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.1.0.TLOMIXM
 - branch: stable
   date: '2023-06-04'
   downloads:
