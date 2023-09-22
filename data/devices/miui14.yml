@@ -898,6 +898,12 @@
   download: https://bigota.d.miui.com/V14.0.0.4.UMCCNXM/fw_fuxi_miui_FUXI_V14.0.0.4.UMCCNXM_7703311c92_14.0.zip
   name: Xiaomi 13
   version: V14.0.0.4.UMCCNXM
+- android: '14.0'
+  codename: fuxi
+  date: '2023-09-22'
+  download: https://bigota.d.miui.com/V14.0.1.14.UMCCNXM/fw_fuxi_miui_FUXI_V14.0.1.14.UMCCNXM_e8949cfca7_14.0.zip
+  name: Xiaomi 13
+  version: V14.0.1.14.UMCCNXM
 - android: '13.0'
   codename: fuxi
   date: '2023-07-18'
@@ -4030,6 +4036,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TMHCNXM/fw_yudi_miui_YUDI_V14.0.4.0.TMHCNXM_fc95e1b9b3_13.0.zip
   name: Xiaomi Pad 6 Max 14
   version: V14.0.4.0.TMHCNXM
+- android: '13.0'
+  codename: yudi
+  date: '2023-09-22'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMHCNXM/fw_yudi_miui_YUDI_V14.0.6.0.TMHCNXM_e089ca23f1_13.0.zip
+  name: Xiaomi Pad 6 Max 14
+  version: V14.0.6.0.TMHCNXM
 - android: '13.0'
   codename: yudi
   date: '2023-08-14'
