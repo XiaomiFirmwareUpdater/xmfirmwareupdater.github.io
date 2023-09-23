@@ -1728,6 +1728,12 @@
   version: V14.0.2.0.TKVCNXM
 - android: '13.0'
   codename: mona
+  date: '2023-09-23'
+  download: https://bigota.d.miui.com/V14.0.6.0.TKVCNXM/fw_mona_miui_MONA_V14.0.6.0.TKVCNXM_2182d8b5d0_13.0.zip
+  name: Xiaomi Civi
+  version: V14.0.6.0.TKVCNXM
+- android: '13.0'
+  codename: mona
   date: '2023-06-18'
   download: https://bigota.d.miui.com/V14.0.4.0.TKVCNXM/fw_mona_miui_MONA_V14.0.4.0.TKVCNXM_40da7725be_13.0.zip
   name: Xiaomi Civi
