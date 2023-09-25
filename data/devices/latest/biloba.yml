@@ -1,13 +1,13 @@
 - branch: stable
-  date: '2023-03-06'
+  date: '2023-05-21'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-07.03.2023/fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/biloba/fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
-  filename: fw_biloba_miui_BILOBAGlobal_V14.0.3.0.TCUMIXM_a18fae7bdf_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-22.05.2023/fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/biloba/fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.3.0.TCUMIXM
+    miui: V14.0.4.0.TCUMIXM
 - branch: stable
   date: '2023-04-14'
   downloads:

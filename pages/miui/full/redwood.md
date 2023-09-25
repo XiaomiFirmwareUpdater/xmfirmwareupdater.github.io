@@ -52,7 +52,8 @@ permalink: /archive/miui/redwood/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>POCO X5 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMSRUXM</td><td>13.0</td><td>4.6 GB</td><td>2023-09-13</td><td><a href="/miui/redwood/stable/V14.0.3.0.TMSRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 12 Pro Speed China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TMSCNXM</td><td>13.0</td><td>5.5 GB</td><td>2023-09-20</td><td><a href="/miui/redwood/stable beta/V14.0.4.0.TMSCNXM/">Download</a></td></tr>
+<tr><td>POCO X5 Pro 5G Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMSRUXM</td><td>13.0</td><td>4.6 GB</td><td>2023-09-13</td><td><a href="/miui/redwood/stable/V14.0.3.0.TMSRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMSRUXM</td><td>13.0</td><td>6.7 GB</td><td>2023-09-07</td><td><a href="/miui/redwood/stable/V14.0.3.0.TMSRUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TMSEUXM</td><td>13.0</td><td>4.7 GB</td><td>2023-09-07</td><td><a href="/miui/redwood/stable/V14.0.3.0.TMSEUXM/">Download</a></td></tr>
 <tr><td>POCO X5 Pro 5G EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TMSEUXM</td><td>13.0</td><td>7.0 GB</td><td>2023-09-01</td><td><a href="/miui/redwood/stable/V14.0.3.0.TMSEUXM/">Download</a></td></tr>

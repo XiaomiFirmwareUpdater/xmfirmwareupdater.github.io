@@ -6599,6 +6599,16 @@
     android: '11.0'
     miui: V12.5.5.0.RCUMIXM
 - branch: stable
+  date: '2023-05-21'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-22.05.2023/fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/biloba/fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
+  region: Global
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TCUMIXM
+- branch: stable
   date: '2021-12-20'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-20.12.2021/fw_biloba_miui_BILOBAEEAGlobal_V12.5.7.0.RCUEUXM_ee2aae60a1_11.0.zip
@@ -6618,6 +6628,16 @@
   versions:
     android: '11.0'
     miui: V12.5.8.0.RCUMIXM
+- branch: stable
+  date: '2021-06-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-17.06.2021/fw_biloba_miui_BILOBAGlobal_V12.5.4.0.RCUMIXM_52f6574211_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/biloba/fw_biloba_miui_BILOBAGlobal_V12.5.4.0.RCUMIXM_52f6574211_11.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V12.5.4.0.RCUMIXM_52f6574211_11.0.zip
+  region: Global
+  versions:
+    android: '11.0'
+    miui: V12.5.4.0.RCUMIXM
 - branch: stable
   date: '2022-04-17'
   downloads:
@@ -6728,6 +6748,16 @@
   versions:
     android: '12.0'
     miui: V13.0.2.0.SCUMIXM
+- branch: stable
+  date: '2022-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_biloba/releases/download/stable-08.10.2022/fw_biloba_miui_BILOBAGlobal_V13.0.7.0.SCUMIXM_1603bdf3d0_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/biloba/fw_biloba_miui_BILOBAGlobal_V13.0.7.0.SCUMIXM_1603bdf3d0_12.0.zip
+  filename: fw_biloba_miui_BILOBAGlobal_V13.0.7.0.SCUMIXM_1603bdf3d0_12.0.zip
+  region: Global
+  versions:
+    android: '12.0'
+    miui: V13.0.7.0.SCUMIXM
 - branch: stable
   date: '2022-08-08'
   downloads:
@@ -48978,6 +49008,16 @@
   versions:
     android: '12.0'
     miui: V14.0.2.0.SMSCNXM
+- branch: stable
+  date: '2023-09-25'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_redwood/releases/download/stable-25.09.2023/fw_redwood_miui_REDWOOD_V14.0.4.0.TMSCNXM_ba49814069_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/redwood/fw_redwood_miui_REDWOOD_V14.0.4.0.TMSCNXM_ba49814069_13.0.zip
+  filename: fw_redwood_miui_REDWOOD_V14.0.4.0.TMSCNXM_ba49814069_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TMSCNXM
 - branch: stable
   date: '2023-04-20'
   downloads:

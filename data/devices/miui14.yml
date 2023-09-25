@@ -180,6 +180,12 @@
   version: V14.1.8.0.TMVCNXM
 - android: '13.0'
   codename: biloba
+  date: '2023-05-21'
+  download: https://bigota.d.miui.com/V14.0.4.0.TCUMIXM/fw_biloba_miui_BILOBAGlobal_V14.0.4.0.TCUMIXM_bf1ba493fe_13.0.zip
+  name: Redmi Note 8 (2021)
+  version: V14.0.4.0.TCUMIXM
+- android: '13.0'
+  codename: biloba
   date: '2023-04-14'
   download: https://bigota.d.miui.com/V14.0.3.0.TCUEUXM/fw_biloba_miui_BILOBAEEAGlobal_V14.0.3.0.TCUEUXM_1871c59e8d_13.0.zip
   name: Redmi Note 8 (2021)
@@ -2434,6 +2440,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.SMSCNXM/fw_redwood_miui_REDWOOD_V14.0.2.0.SMSCNXM_5ca7d7fd66_12.0.zip
   name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
   version: V14.0.2.0.SMSCNXM
+- android: '13.0'
+  codename: redwood
+  date: '2023-09-25'
+  download: https://bigota.d.miui.com/V14.0.4.0.TMSCNXM/fw_redwood_miui_REDWOOD_V14.0.4.0.TMSCNXM_ba49814069_13.0.zip
+  name: Redmi Note 12 Pro Speed/POCO X5 Pro 5G
+  version: V14.0.4.0.TMSCNXM
 - android: '13.0'
   codename: redwood
   date: '2023-04-20'
