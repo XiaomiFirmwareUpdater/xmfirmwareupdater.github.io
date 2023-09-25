@@ -52,7 +52,8 @@ permalink: /archive/miui/curtana/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10 Lite India</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.SJWINRF</td><td>12.0</td><td>3.0 GB</td><td>2023-06-30</td><td><a href="/miui/curtana/stable/V14.0.5.0.SJWINRF/">Download</a></td></tr>
+                <tr><td>Redmi Note 10 Lite India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.6.0.SJWINRF</td><td>12.0</td><td>3.0 GB</td><td>2023-09-25</td><td><a href="/miui/curtana/stable beta/V14.0.6.0.SJWINRF/">Download</a></td></tr>
+<tr><td>Redmi Note 10 Lite India</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.SJWINRF</td><td>12.0</td><td>3.0 GB</td><td>2023-06-30</td><td><a href="/miui/curtana/stable/V14.0.5.0.SJWINRF/">Download</a></td></tr>
 <tr><td>Redmi Note 10 Lite India</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.SJWINRF</td><td>12.0</td><td>3.7 GB</td><td>2023-06-19</td><td><a href="/miui/curtana/stable/V14.0.5.0.SJWINRF/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.SJWMIXM</td><td>12.0</td><td>2.9 GB</td><td>2023-06-12</td><td><a href="/miui/curtana/stable/V14.0.4.0.SJWMIXM/">Download</a></td></tr>
 <tr><td>Redmi Note 9S Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.SJWMIXM</td><td>12.0</td><td>4.9 GB</td><td>2023-05-16</td><td><a href="/miui/curtana/stable/V14.0.4.0.SJWMIXM/">Download</a></td></tr>
