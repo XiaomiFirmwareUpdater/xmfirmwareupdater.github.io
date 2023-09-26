@@ -2988,6 +2988,18 @@
   version: V14.0.2.0.TKUCNXM
 - android: '13.0'
   codename: sky
+  date: '2023-09-26'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMWEUXM/fw_sky_miui_SKYEEAGlobal_V14.0.5.0.TMWEUXM_44341fa4e9_13.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: V14.0.5.0.TMWEUXM
+- android: '13.0'
+  codename: sky
+  date: '2023-09-26'
+  download: https://bigota.d.miui.com/V14.0.2.0.TMWMIXM/fw_sky_miui_SKYGlobal_V14.0.2.0.TMWMIXM_1bd51887d2_13.0.zip
+  name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G
+  version: V14.0.2.0.TMWMIXM
+- android: '13.0'
+  codename: sky
   date: '2023-08-24'
   download: https://bigota.d.miui.com/V14.0.4.0.TMWINXM/fw_sky_miui_SKYINGlobal_V14.0.4.0.TMWINXM_64a9e18c28_13.0.zip
   name: Redmi Note 12R/Redmi 12 5G/POCO M6 Pro 5G

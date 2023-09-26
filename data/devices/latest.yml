@@ -4339,15 +4339,15 @@
     android: '10.0'
     miui: 20.9.4
 - branch: stable
-  date: '2023-09-12'
+  date: '2023-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-12.09.2023/fw_sky_miui_SKYGlobal_V14.0.1.0.TMWMIXM_a679c9761c_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYGlobal_V14.0.1.0.TMWMIXM_a679c9761c_13.0.zip
-  filename: fw_sky_miui_SKYGlobal_V14.0.1.0.TMWMIXM_a679c9761c_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-26.09.2023/fw_sky_miui_SKYGlobal_V14.0.2.0.TMWMIXM_1bd51887d2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYGlobal_V14.0.2.0.TMWMIXM_1bd51887d2_13.0.zip
+  filename: fw_sky_miui_SKYGlobal_V14.0.2.0.TMWMIXM_1bd51887d2_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.1.0.TMWMIXM
+    miui: V14.0.2.0.TMWMIXM
 - branch: stable
   date: '2023-08-19'
   downloads:
@@ -4359,15 +4359,15 @@
     android: '13.0'
     miui: V14.0.5.0.TMWCNXM
 - branch: stable
-  date: '2023-09-15'
+  date: '2023-09-26'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-15.09.2023/fw_sky_miui_SKYEEAGlobal_V14.0.4.0.TMWEUXM_8516b13c03_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYEEAGlobal_V14.0.4.0.TMWEUXM_8516b13c03_13.0.zip
-  filename: fw_sky_miui_SKYEEAGlobal_V14.0.4.0.TMWEUXM_8516b13c03_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_sky/releases/download/stable-26.09.2023/fw_sky_miui_SKYEEAGlobal_V14.0.5.0.TMWEUXM_44341fa4e9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/sky/fw_sky_miui_SKYEEAGlobal_V14.0.5.0.TMWEUXM_44341fa4e9_13.0.zip
+  filename: fw_sky_miui_SKYEEAGlobal_V14.0.5.0.TMWEUXM_44341fa4e9_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TMWEUXM
+    miui: V14.0.5.0.TMWEUXM
 - branch: stable
   date: '2023-08-24'
   downloads:

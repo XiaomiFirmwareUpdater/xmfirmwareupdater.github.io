@@ -68,6 +68,7 @@ permalink: /miui/xaga/
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLORUXM</td><td>13.0</td><td>4.9 GB</td><td>2023-09-08</td><td><a href="/miui/xaga/stable/V14.0.3.0.TLORUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLOTRXM</td><td>13.0</td><td>6.9 GB</td><td>2023-06-06</td><td><a href="/miui/xaga/stable/V14.0.3.0.TLOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLOTRXM</td><td>13.0</td><td>4.9 GB</td><td>2023-06-19</td><td><a href="/miui/xaga/stable/V14.0.3.0.TLOTRXM/">Download</a></td></tr>
+<tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLOTRXM</td><td>13.0</td><td>5.0 GB</td><td>2023-09-26</td><td><a href="/miui/xaga/stable beta/V14.0.4.0.TLOTRXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLOTWXM</td><td>13.0</td><td>6.4 GB</td><td>2023-06-06</td><td><a href="/miui/xaga/stable/V14.0.3.0.TLOTWXM/">Download</a></td></tr>
 <tr><td>Redmi Note 11T Pro / POCO X4 GT / Pro Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLOTWXM</td><td>13.0</td><td>4.8 GB</td><td>2023-06-19</td><td><a href="/miui/xaga/stable/V14.0.3.0.TLOTWXM/">Download</a></td></tr>
 
