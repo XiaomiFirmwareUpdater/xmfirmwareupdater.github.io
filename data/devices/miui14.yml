@@ -432,6 +432,12 @@
   version: V14.0.9.0.TLCEUXM
 - android: '13.0'
   codename: cupid
+  date: '2023-09-26'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLCMIXM/fw_cupid_miui_CUPIDGlobal_V14.0.6.0.TLCMIXM_ccc6457523_13.0.zip
+  name: Xiaomi 12
+  version: V14.0.6.0.TLCMIXM
+- android: '13.0'
+  codename: cupid
   date: '2023-07-24'
   download: https://bigota.d.miui.com/V14.0.7.0.TLCCNXM/fw_cupid_miui_CUPID_V14.0.7.0.TLCCNXM_db2a5528ee_13.0.zip
   name: Xiaomi 12
