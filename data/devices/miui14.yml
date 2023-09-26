@@ -360,6 +360,18 @@
   version: V14.0.9.0.TMLCNXM
 - android: '13.0'
   codename: corot
+  date: '2023-09-26'
+  download: https://bigota.d.miui.com/V14.0.11.0.TMLEUXM/fw_corot_miui_COROTEEAGlobal_V14.0.11.0.TMLEUXM_9908b54d89_13.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: V14.0.11.0.TMLEUXM
+- android: '13.0'
+  codename: corot
+  date: '2023-09-26'
+  download: https://bigota.d.miui.com/V14.0.6.0.TMLMIXM/fw_corot_miui_COROTGlobal_V14.0.6.0.TMLMIXM_a1b38beda4_13.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: V14.0.6.0.TMLMIXM
+- android: '13.0'
+  codename: corot
   date: '2023-09-15'
   download: https://bigota.d.miui.com/V14.0.11.0.TMLCNXM/fw_corot_miui_COROT_V14.0.11.0.TMLCNXM_5f7955c8fc_13.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
@@ -3996,12 +4008,6 @@
   version: V14.0.3.0.TLOINXM
 - android: '13.0'
   codename: xaga
-  date: '2023-03-24'
-  download: https://bigota.d.miui.com/V14.0.2.0.TLOINXM/fw_xaga_miui_XAGAINGlobal_V14.0.2.0.TLOINXM_6a469f9ae6_13.0.zip
-  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
-  version: V14.0.2.0.TLOINXM
-- android: '13.0'
-  codename: xaga
   date: '2023-07-22'
   download: https://bigota.d.miui.com/V14.0.5.0.TLOMIXM/fw_xaga_miui_XAGAGlobal_V14.0.5.0.TLOMIXM_6b421fe451_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
@@ -4036,12 +4042,6 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLOEUXM/fw_xaga_miui_XAGAEEAGlobal_V14.0.3.0.TLOEUXM_d48cbe29a6_13.0.zip
   name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
   version: V14.0.3.0.TLOEUXM
-- android: '13.0'
-  codename: xaga
-  date: '2023-01-09'
-  download: https://bigota.d.miui.com/V14.0.2.0.TLOCNXM/fw_xaga_miui_XAGA_V14.0.2.0.TLOCNXM_c79ba02c33_13.0.zip
-  name: Redmi Note 11T Pro/Pro+/POCO X4 GT/Redmi K50i
-  version: V14.0.2.0.TLOCNXM
 - android: '13.0'
   codename: xaga
   date: '2023-02-07'
