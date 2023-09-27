@@ -52,7 +52,9 @@ permalink: /archive/miui/diting/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.11.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-09-15</td><td><a href="/miui/diting/public beta/V14.0.23.9.11.DEV/">Download</a></td></tr>
+                <tr><td>Xiaomi 12T Pro Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLFMIXM</td><td>13.0</td><td>4.9 GB</td><td>2023-09-27</td><td><a href="/miui/diting/stable beta/V14.0.4.0.TLFMIXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-09-22</td><td><a href="/miui/diting/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.11.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-09-15</td><td><a href="/miui/diting/public beta/V14.0.23.9.11.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.4.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-09-08</td><td><a href="/miui/diting/public beta/V14.0.23.9.4.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.28.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-09-01</td><td><a href="/miui/diting/public beta/V14.0.23.8.28.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.8.21.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-08-25</td><td><a href="/miui/diting/public beta/V14.0.23.8.21.DEV/">Download</a></td></tr>
@@ -137,9 +139,9 @@ permalink: /archive/miui/diting/
 <tr><td>Xiaomi 12T Pro EEA</td><td>Stable</td><td>Fastboot</td><td>V13.0.13.0.SLFEUXM</td><td>12.0</td><td>6.6 GB</td><td>2023-01-04</td><td><a href="/miui/diting/stable/V13.0.13.0.SLFEUXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.9.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-01-13</td><td><a href="/miui/diting/public beta/V14.0.23.1.9.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.3.DEV</td><td>13.0</td><td>6.0 GB</td><td>2023-01-06</td><td><a href="/miui/diting/public beta/V14.0.23.1.3.DEV/">Download</a></td></tr>
-<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.26.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-30</td><td><a href="/miui/diting/public beta/V14.0.22.12.26.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLFCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-01-12</td><td><a href="/miui/diting/stable/V14.0.5.0.TLFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLFCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-01-09</td><td><a href="/miui/diting/stable/V14.0.5.0.TLFCNXM/">Download</a></td></tr>
+<tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.26.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-30</td><td><a href="/miui/diting/public beta/V14.0.22.12.26.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.19.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-23</td><td><a href="/miui/diting/public beta/V14.0.22.12.19.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLFCNXM</td><td>13.0</td><td>5.9 GB</td><td>2022-12-20</td><td><a href="/miui/diting/stable beta/V14.0.2.0.TLFCNXM/">Download</a></td></tr>
 <tr><td>Redmi K50 Ultra China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.22.12.8.DEV</td><td>13.0</td><td>6.0 GB</td><td>2022-12-16</td><td><a href="/miui/diting/public beta/V14.0.22.12.8.DEV/">Download</a></td></tr>

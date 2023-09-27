@@ -52,7 +52,8 @@ permalink: /archive/miui/ingres/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.11.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-09-15</td><td><a href="/miui/ingres/public beta/V14.0.23.9.11.DEV/">Download</a></td></tr>
+                <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-09-22</td><td><a href="/miui/ingres/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>
+<tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.11.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-09-15</td><td><a href="/miui/ingres/public beta/V14.0.23.9.11.DEV/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.4.DEV</td><td>13.0</td><td>5.6 GB</td><td>2023-09-08</td><td><a href="/miui/ingres/public beta/V14.0.23.9.4.DEV/">Download</a></td></tr>
 <tr><td>POCO F4 GT Global</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLJMIXM</td><td>13.0</td><td>4.8 GB</td><td>2023-09-06</td><td><a href="/miui/ingres/stable/V14.0.4.0.TLJMIXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLJMIXM</td><td>13.0</td><td>6.5 GB</td><td>2023-08-29</td><td><a href="/miui/ingres/stable/V14.0.4.0.TLJMIXM/">Download</a></td></tr>
@@ -97,20 +98,20 @@ permalink: /archive/miui/ingres/
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLJEUXM</td><td>13.0</td><td>4.8 GB</td><td>2023-03-09</td><td><a href="/miui/ingres/stable/V14.0.5.0.TLJEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLJEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-02-28</td><td><a href="/miui/ingres/stable/V14.0.5.0.TLJEUXM/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.27.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-03-03</td><td><a href="/miui/ingres/public beta/V14.0.23.2.27.DEV/">Download</a></td></tr>
-<tr><td>POCO F4 GT Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLJIDXM</td><td>13.0</td><td>4.7 GB</td><td>2023-02-28</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJIDXM/">Download</a></td></tr>
-<tr><td>POCO F4 GT Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLJIDXM</td><td>13.0</td><td>6.3 GB</td><td>2023-02-21</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJIDXM/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.21.DEV</td><td>13.0</td><td>5.8 GB</td><td>2023-02-24</td><td><a href="/miui/ingres/public beta/V14.0.23.2.21.DEV/">Download</a></td></tr>
+<tr><td>POCO F4 GT Indonesia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLJIDXM</td><td>13.0</td><td>6.3 GB</td><td>2023-02-21</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJIDXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT Indonesia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLJIDXM</td><td>13.0</td><td>4.7 GB</td><td>2023-02-28</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJIDXM/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.13.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-02-17</td><td><a href="/miui/ingres/public beta/V14.0.23.2.13.DEV/">Download</a></td></tr>
 <tr><td>POCO F4 GT Turkey</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLJTRXM</td><td>13.0</td><td>6.0 GB</td><td>2023-02-14</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJTRXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Turkey</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLJTRXM</td><td>13.0</td><td>4.7 GB</td><td>2023-02-22</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJTRXM/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.2.6.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-02-10</td><td><a href="/miui/ingres/public beta/V14.0.23.2.6.DEV/">Download</a></td></tr>
 <tr><td>POCO F4 GT Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLJRUXM</td><td>13.0</td><td>4.7 GB</td><td>2023-02-08</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJRUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLJRUXM</td><td>13.0</td><td>6.1 GB</td><td>2023-01-26</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJRUXM/">Download</a></td></tr>
-<tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLJTWXM</td><td>13.0</td><td>4.6 GB</td><td>2023-02-08</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJTWXM/">Download</a></td></tr>
-<tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLJTWXM</td><td>13.0</td><td>5.5 GB</td><td>2023-01-25</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJTWXM/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.30.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-02-03</td><td><a href="/miui/ingres/public beta/V14.0.23.1.30.DEV/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLJEUXM</td><td>13.0</td><td>4.7 GB</td><td>2023-01-30</td><td><a href="/miui/ingres/stable/V14.0.3.0.TLJEUXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLJEUXM</td><td>13.0</td><td>6.2 GB</td><td>2023-01-11</td><td><a href="/miui/ingres/stable/V14.0.3.0.TLJEUXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLJTWXM</td><td>13.0</td><td>4.6 GB</td><td>2023-02-08</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJTWXM/">Download</a></td></tr>
+<tr><td>POCO F4 GT Taiwan</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLJTWXM</td><td>13.0</td><td>5.5 GB</td><td>2023-01-25</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJTWXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Global</td><td>Stable</td><td>Recovery</td><td>V14.0.1.0.TLJMIXM</td><td>13.0</td><td>4.7 GB</td><td>2023-01-19</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJMIXM/">Download</a></td></tr>
 <tr><td>POCO F4 GT Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.1.0.TLJMIXM</td><td>13.0</td><td>6.6 GB</td><td>2023-01-11</td><td><a href="/miui/ingres/stable/V14.0.1.0.TLJMIXM/">Download</a></td></tr>
 <tr><td>Redmi K50G China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.1.9.DEV</td><td>13.0</td><td>5.9 GB</td><td>2023-01-13</td><td><a href="/miui/ingres/public beta/V14.0.23.1.9.DEV/">Download</a></td></tr>
