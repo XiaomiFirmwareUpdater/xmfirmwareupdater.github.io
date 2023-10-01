@@ -353,6 +353,12 @@
   name: Mi 10 Pro
   version: V14.0.3.0.TJACNXM
 - android: '13.0'
+  codename: cmi
+  date: '2023-05-15'
+  download: https://bigota.d.miui.com/V14.0.3.0.TJACNXM/fw_cmi_miui_CMI_V14.0.3.0.TJACNXM_03a653ca7b_13.0.zip
+  name: Mi 10 Pro
+  version: V14.0.3.0.TJACNXM
+- android: '13.0'
   codename: corot
   date: '2023-08-28'
   download: https://bigota.d.miui.com/V14.0.9.0.TMLCNXM/fw_corot_miui_COROT_V14.0.9.0.TMLCNXM_0eb05cc850_13.0.zip

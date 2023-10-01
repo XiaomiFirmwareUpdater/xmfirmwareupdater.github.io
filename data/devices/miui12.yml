@@ -2880,12 +2880,6 @@
   version: 21.3.17
 - android: '11.0'
   codename: cmi
-  date: '2020-09-17'
-  download: https://bigota.d.miui.com/20.9.17/miui_CMI_20.9.17_9b272cf842_11.0.zip
-  name: Mi 10 Pro
-  version: 20.9.17
-- android: '11.0'
-  codename: cmi
   date: '2021-09-16'
   download: https://bigota.d.miui.com/21.9.15/miui_CMI_21.9.15_07cc012822_11.0.zip
   name: Mi 10 Pro
@@ -3013,18 +3007,6 @@
 - android: '11.0'
   codename: cmi
   date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.3.3/miui_CMI_21.3.3_1478eb7bb9_11.0.zip
-  name: Mi 10 Pro
-  version: 21.3.3
-- android: '12.0'
-  codename: cmi
-  date: '2021-12-04'
-  download: https://bigota.d.miui.com/21.11.30/miui_CMI_21.11.30_a2cf8e7cfd_12.0.zip
-  name: Mi 10 Pro
-  version: 21.11.30
-- android: '11.0'
-  codename: cmi
-  date: '2021-04-18'
   download: https://bigota.d.miui.com/21.2.3/miui_CMI_21.2.3_8d1149a447_11.0.zip
   name: Mi 10 Pro
   version: 21.2.3
@@ -3054,12 +3036,6 @@
   version: 21.9.28
 - android: '11.0'
   codename: cmi
-  date: '2021-07-02'
-  download: https://bigota.d.miui.com/21.6.30/miui_CMI_21.6.30_5ef740b58e_11.0.zip
-  name: Mi 10 Pro
-  version: 21.6.30
-- android: '11.0'
-  codename: cmi
   date: '2020-07-02'
   download: https://bigota.d.miui.com/20.7.2/miui_CMI_20.7.2_2fda531b0b_11.0.zip
   name: Mi 10 Pro
@@ -3070,12 +3046,6 @@
   download: https://bigota.d.miui.com/20.4.30/miui_CMI_20.4.30_fa276fb9d5_10.0.zip
   name: Mi 10 Pro
   version: 20.4.30
-- android: '11.0'
-  codename: cmi
-  date: '2021-04-18'
-  download: https://bigota.d.miui.com/21.3.31/miui_CMI_21.3.31_455871a402_11.0.zip
-  name: Mi 10 Pro
-  version: 21.3.31
 - android: '11.0'
   codename: crux
   date: '2021-07-29'
