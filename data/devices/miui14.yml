@@ -155,6 +155,18 @@
   name: Redmi K40 Gaming/POCO F3 GT
   version: V14.0.4.0.TKJINXM
 - android: '13.0'
+  codename: aristotle
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.7.0.TMFEUXM/fw_aristotle_miui_ARISTOTLEEEAGlobal_V14.0.7.0.TMFEUXM_e564ede01d_13.0.zip
+  name: Xiaomi 13T
+  version: V14.0.7.0.TMFEUXM
+- android: '13.0'
+  codename: aristotle
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.5.0.TMFMIXM/fw_aristotle_miui_ARISTOTLEGlobal_V14.0.5.0.TMFMIXM_21bab9eb7e_13.0.zip
+  name: Xiaomi 13T
+  version: V14.0.5.0.TMFMIXM
+- android: '13.0'
   codename: babylon
   date: '2023-09-21'
   download: https://bigota.d.miui.com/V14.1.9.0.TMVCNXM/fw_babylon_miui_BABYLON_V14.1.9.0.TMVCNXM_2275df6b37_13.0.zip
@@ -388,6 +400,12 @@
   download: https://bigota.d.miui.com/V14.0.10.0.TMLCNXM/fw_corot_miui_COROT_V14.0.10.0.TMLCNXM_ce6dbb9e4d_13.0.zip
   name: Redmi K60 Ultra/Xiaomi 13T Pro
   version: V14.0.10.0.TMLCNXM
+- android: '13.0'
+  codename: corot
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.8.0.TMLMIXM/fw_corot_miui_COROTGlobal_V14.0.8.0.TMLMIXM_784e7f5333_13.0.zip
+  name: Redmi K60 Ultra/Xiaomi 13T Pro
+  version: V14.0.8.0.TMLMIXM
 - android: '13.0'
   codename: courbet
   date: '2023-04-27'
@@ -630,6 +648,12 @@
   version: V14.0.10.0.TLFCNXM
 - android: '13.0'
   codename: diting
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLFMIXM/fw_diting_miui_DITINGGlobal_V14.0.4.0.TLFMIXM_3069fae3e1_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.4.0.TLFMIXM
+- android: '13.0'
+  codename: diting
   date: '2023-07-02'
   download: https://bigota.d.miui.com/V14.0.14.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.14.0.TLFEUXM_c7040d6424_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
@@ -815,6 +839,12 @@
   name: Redmi 12
   version: V14.0.6.0.TMXEUXM
 - android: '13.0'
+  codename: fire
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.9.0.TMXEUXM/fw_fire_miui_FIREEEAGlobal_V14.0.9.0.TMXEUXM_07a0da8eb0_13.0.zip
+  name: Redmi 12
+  version: V14.0.9.0.TMXEUXM
+- android: '13.0'
   codename: fleur
   date: '2023-07-30'
   download: https://bigota.d.miui.com/V14.0.4.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_V14.0.4.0.TKEMIXM_aa22b26729_13.0.zip
@@ -892,6 +922,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TGEEUXM/fw_fog_miui_FOGEEAGlobal_V14.0.3.0.TGEEUXM_13a7664658_13.0.zip
   name: Redmi 10C
   version: V14.0.3.0.TGEEUXM
+- android: '13.0'
+  codename: fog
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.3.0.TGEINXM/fw_fog_miui_FOGINGlobal_V14.0.3.0.TGEINXM_4d02de6ea4_13.0.zip
+  name: Redmi 10C
+  version: V14.0.3.0.TGEINXM
 - android: '13.0'
   codename: fuxi
   date: '2023-08-29'
@@ -1012,6 +1048,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.1.0.TNRCNXM_bbb2dfd7bd_13.0.zip
   name: Redmi Note 13 Pro
   version: V14.0.1.0.TNRCNXM
+- android: '13.0'
+  codename: garnet
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.10.0.TNRCNXM/fw_garnet_miui_GARNET_V14.0.10.0.TNRCNXM_b82fe82ee5_13.0.zip
+  name: Redmi Note 13 Pro
+  version: V14.0.10.0.TNRCNXM
 - android: '12.0'
   codename: gauguin
   date: '2023-03-24'
