@@ -9,15 +9,15 @@
     android: '13.0'
     miui: V14.0.5.0.TKAMIXM
 - branch: stable
-  date: '2023-05-29'
+  date: '2023-10-02'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-29.05.2023/fw_star_miui_STAR_V14.0.9.0.TKACNXM_88fb6d9f79_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/star/fw_star_miui_STAR_V14.0.9.0.TKACNXM_88fb6d9f79_13.0.zip
-  filename: fw_star_miui_STAR_V14.0.9.0.TKACNXM_88fb6d9f79_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-03.10.2023/fw_star_miui_STAR_V14.0.11.0.TKACNXM_cdad1fda37_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/star/fw_star_miui_STAR_V14.0.11.0.TKACNXM_cdad1fda37_13.0.zip
+  filename: fw_star_miui_STAR_V14.0.11.0.TKACNXM_cdad1fda37_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.9.0.TKACNXM
+    miui: V14.0.11.0.TKACNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:

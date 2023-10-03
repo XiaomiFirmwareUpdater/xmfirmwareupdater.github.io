@@ -1409,6 +1409,12 @@
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.2.0.TLSMIXM
 - android: '13.0'
+  codename: light
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.7.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.7.0.TLSEUXM_360751bb8d_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.7.0.TLSEUXM
+- android: '13.0'
   codename: lightcm
   date: '2023-05-16'
   download: https://bigota.d.miui.com/V14.0.4.0.TLSCNXM/fw_lightcm_miui_LIGHTCM_V14.0.4.0.TLSCNXM_38112ac52e_13.0.zip
@@ -1768,6 +1774,12 @@
   download: https://bigota.d.miui.com/V14.0.9.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.9.0.TLTCNXM_2587764434_13.0.zip
   name: Xiaomi 12S
   version: V14.0.9.0.TLTCNXM
+- android: '13.0'
+  codename: mayfly
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.10.0.TLTCNXM/fw_mayfly_miui_MAYFLY_V14.0.10.0.TLTCNXM_d6b46c9130_13.0.zip
+  name: Xiaomi 12S
+  version: V14.0.10.0.TLTCNXM
 - android: '12.0'
   codename: mojito
   date: '2023-04-27'
@@ -2446,6 +2458,12 @@
   download: https://bigota.d.miui.com/V14.0.13.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.13.0.TLQEUXM_d3fdd900f4_13.0.zip
   name: Xiaomi 12T
   version: V14.0.13.0.TLQEUXM
+- android: '13.0'
+  codename: plato
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.15.0.TLQEUXM/fw_plato_miui_PLATOEEAGlobal_V14.0.15.0.TLQEUXM_a391e28c21_13.0.zip
+  name: Xiaomi 12T
+  version: V14.0.15.0.TLQEUXM
 - android: '13.0'
   codename: plato
   date: '2023-06-02'
@@ -3238,6 +3256,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TKAINXM/fw_star_miui_STARINGlobal_V14.0.2.0.TKAINXM_260004a39c_13.0.zip
   name: Mi 11 Pro/Ultra/Mi 11 Ultra
   version: V14.0.2.0.TKAINXM
+- android: '13.0'
+  codename: star
+  date: '2023-10-02'
+  download: https://bigota.d.miui.com/V14.0.11.0.TKACNXM/fw_star_miui_STAR_V14.0.11.0.TKACNXM_cdad1fda37_13.0.zip
+  name: Mi 11 Pro/Ultra/Mi 11 Ultra
+  version: V14.0.11.0.TKACNXM
 - android: '13.0'
   codename: sunstone
   date: '2023-08-28'

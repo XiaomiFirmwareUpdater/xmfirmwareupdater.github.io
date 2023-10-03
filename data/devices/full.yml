@@ -32219,6 +32219,16 @@
     android: '12.0'
     miui: V13.0.8.0.SLSEUXM
 - branch: stable
+  date: '2023-10-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-03.10.2023/fw_light_miui_LIGHTEEAGlobal_V14.0.7.0.TLSEUXM_360751bb8d_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHTEEAGlobal_V14.0.7.0.TLSEUXM_360751bb8d_13.0.zip
+  filename: fw_light_miui_LIGHTEEAGlobal_V14.0.7.0.TLSEUXM_360751bb8d_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.7.0.TLSEUXM
+- branch: stable
   date: '2023-01-01'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-01.01.2023/fw_light_miui_LIGHTINGlobal_V13.0.7.0.SLSINXM_d29d71c388_12.0.zip
@@ -35948,6 +35958,16 @@
   versions:
     android: '12.0'
     miui: V13.0.6.0.SLTCNXM
+- branch: stable
+  date: '2023-10-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_mayfly/releases/download/stable-03.10.2023/fw_mayfly_miui_MAYFLY_V14.0.10.0.TLTCNXM_d6b46c9130_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/mayfly/fw_mayfly_miui_MAYFLY_V14.0.10.0.TLTCNXM_d6b46c9130_13.0.zip
+  filename: fw_mayfly_miui_MAYFLY_V14.0.10.0.TLTCNXM_d6b46c9130_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.10.0.TLTCNXM
 - branch: stable
   date: '2021-04-18'
   downloads:
@@ -46139,6 +46159,16 @@
     android: '13.0'
     miui: V14.0.13.0.TLQEUXM
 - branch: stable
+  date: '2023-10-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-03.10.2023/fw_plato_miui_PLATOEEAGlobal_V14.0.15.0.TLQEUXM_a391e28c21_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/plato/fw_plato_miui_PLATOEEAGlobal_V14.0.15.0.TLQEUXM_a391e28c21_13.0.zip
+  filename: fw_plato_miui_PLATOEEAGlobal_V14.0.15.0.TLQEUXM_a391e28c21_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.15.0.TLQEUXM
+- branch: stable
   date: '2023-02-03'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_plato/releases/download/stable-03.02.2023/fw_plato_miui_PLATOEEAGlobal_V13.0.12.0.SLQEUXM_a498e2675a_12.0.zip
@@ -55898,6 +55928,16 @@
   versions:
     android: '11.0'
     miui: V12.5.17.0.RKACNXM
+- branch: stable
+  date: '2023-10-02'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_star/releases/download/stable-03.10.2023/fw_star_miui_STAR_V14.0.11.0.TKACNXM_cdad1fda37_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/star/fw_star_miui_STAR_V14.0.11.0.TKACNXM_cdad1fda37_13.0.zip
+  filename: fw_star_miui_STAR_V14.0.11.0.TKACNXM_cdad1fda37_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.11.0.TKACNXM
 - branch: stable
   date: '2022-11-02'
   downloads:
