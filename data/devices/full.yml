@@ -57478,6 +57478,16 @@
   versions:
     android: '13.0'
     miui: V14.0.13.0.TLACNXM
+- branch: stable
+  date: '2023-10-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_thor/releases/download/stable-03.10.2023/fw_thor_miui_THOR_V14.0.14.0.TLACNXM_675baff4c1_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/thor/fw_thor_miui_THOR_V14.0.14.0.TLACNXM_675baff4c1_13.0.zip
+  filename: fw_thor_miui_THOR_V14.0.14.0.TLACNXM_675baff4c1_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.14.0.TLACNXM
 - branch: weekly
   date: '2021-10-29'
   downloads:
@@ -61918,6 +61928,16 @@
   versions:
     android: '12.0'
     miui: V13.0.7.0.SLECNXM
+- branch: stable
+  date: '2023-10-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_unicorn/releases/download/stable-03.10.2023/fw_unicorn_miui_UNICORN_V14.0.10.0.TLECNXM_7de59603f2_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/unicorn/fw_unicorn_miui_UNICORN_V14.0.10.0.TLECNXM_7de59603f2_13.0.zip
+  filename: fw_unicorn_miui_UNICORN_V14.0.10.0.TLECNXM_7de59603f2_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.10.0.TLECNXM
 - branch: weekly
   date: '2020-03-26'
   downloads:
@@ -69518,6 +69538,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TNOCNXM
+- branch: stable
+  date: '2023-10-03'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_zircon/releases/download/stable-03.10.2023/fw_zircon_miui_ZIRCON_V14.0.4.0.TNOCNXM_c3eaaec36a_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/zircon/fw_zircon_miui_ZIRCON_V14.0.4.0.TNOCNXM_c3eaaec36a_13.0.zip
+  filename: fw_zircon_miui_ZIRCON_V14.0.4.0.TNOCNXM_c3eaaec36a_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.4.0.TNOCNXM
 - branch: stable
   date: '2023-05-30'
   downloads:

@@ -3605,6 +3605,12 @@
   name: Xiaomi 12S Ultra
   version: V14.0.13.0.TLACNXM
 - android: '13.0'
+  codename: thor
+  date: '2023-10-03'
+  download: https://bigota.d.miui.com/V14.0.14.0.TLACNXM/fw_thor_miui_THOR_V14.0.14.0.TLACNXM_675baff4c1_13.0.zip
+  name: Xiaomi 12S Ultra
+  version: V14.0.14.0.TLACNXM
+- android: '13.0'
   codename: thyme
   date: '2023-09-12'
   download: https://bigota.d.miui.com/V14.0.6.0.TGACNXM/fw_thyme_miui_THYME_V14.0.6.0.TGACNXM_a3c1d41b17_13.0.zip
@@ -3730,6 +3736,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.4.0.TLECNXM_5d047a1bdd_13.0.zip
   name: Xiaomi 12S Pro
   version: V14.0.4.0.TLECNXM
+- android: '13.0'
+  codename: unicorn
+  date: '2023-10-03'
+  download: https://bigota.d.miui.com/V14.0.10.0.TLECNXM/fw_unicorn_miui_UNICORN_V14.0.10.0.TLECNXM_7de59603f2_13.0.zip
+  name: Xiaomi 12S Pro
+  version: V14.0.10.0.TLECNXM
 - android: '13.0'
   codename: vayu
   date: '2023-04-25'
@@ -4360,6 +4372,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.1.0.TNOCNXM_ef7c4991b6_13.0.zip
   name: Redmi Note 13 Pro+
   version: V14.0.1.0.TNOCNXM
+- android: '13.0'
+  codename: zircon
+  date: '2023-10-03'
+  download: https://bigota.d.miui.com/V14.0.4.0.TNOCNXM/fw_zircon_miui_ZIRCON_V14.0.4.0.TNOCNXM_c3eaaec36a_13.0.zip
+  name: Redmi Note 13 Pro+
+  version: V14.0.4.0.TNOCNXM
 - android: '13.0'
   codename: ziyi
   date: '2023-05-30'
