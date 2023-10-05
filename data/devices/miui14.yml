@@ -274,12 +274,6 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SJEEUXM/fw_cannong_miui_CANNONGEEAGlobal_V14.0.3.0.SJEEUXM_7e3945849e_12.0.zip
   name: Redmi Note 9T
   version: V14.0.3.0.SJEEUXM
-- android: '13.0'
-  codename: cas
-  date: '2023-06-14'
-  download: https://bigota.d.miui.com/V14.0.2.0.TJJCNXM/fw_cas_miui_CAS_V14.0.2.0.TJJCNXM_8064d8e1fb_13.0.zip
-  name: Mi 10 Ultra
-  version: V14.0.2.0.TJJCNXM
 - android: '12.0'
   codename: cezanne
   date: '2023-03-21'
