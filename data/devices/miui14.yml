@@ -274,6 +274,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.SJEEUXM/fw_cannong_miui_CANNONGEEAGlobal_V14.0.3.0.SJEEUXM_7e3945849e_12.0.zip
   name: Redmi Note 9T
   version: V14.0.3.0.SJEEUXM
+- android: '13.0'
+  codename: cas
+  date: '2023-06-14'
+  download: https://bigota.d.miui.com/V14.0.2.0.TJJCNXM/fw_cas_miui_CAS_V14.0.2.0.TJJCNXM_8064d8e1fb_13.0.zip
+  name: Mi 10 Ultra
+  version: V14.0.2.0.TJJCNXM
 - android: '12.0'
   codename: cezanne
   date: '2023-03-21'
@@ -634,6 +640,12 @@
   download: https://bigota.d.miui.com/V14.0.8.0.TLFEUXM/fw_diting_miui_DITINGEEAGlobal_V14.0.8.0.TLFEUXM_09ab9b8783_13.0.zip
   name: Redmi K50 Ultra/Xiaomi 12T Pro
   version: V14.0.8.0.TLFEUXM
+- android: '13.0'
+  codename: diting
+  date: '2023-10-05'
+  download: https://bigota.d.miui.com/V14.0.11.0.TLFCNXM/fw_diting_miui_DITING_V14.0.11.0.TLFCNXM_ce82686a6f_13.0.zip
+  name: Redmi K50 Ultra/Xiaomi 12T Pro
+  version: V14.0.11.0.TLFCNXM
 - android: '13.0'
   codename: diting
   date: '2023-07-05'

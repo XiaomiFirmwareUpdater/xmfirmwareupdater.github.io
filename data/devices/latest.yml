@@ -589,15 +589,15 @@
     android: '8.0'
     miui: 9.10.10
 - branch: stable
-  date: '2022-12-11'
+  date: '2023-06-14'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-12.12.2022/fw_cas_miui_CAS_V13.0.6.0.SJJCNXM_4039d0163b_12.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cas/fw_cas_miui_CAS_V13.0.6.0.SJJCNXM_4039d0163b_12.0.zip
-  filename: fw_cas_miui_CAS_V13.0.6.0.SJJCNXM_4039d0163b_12.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cas/releases/download/stable-14.06.2023/fw_cas_miui_CAS_V14.0.2.0.TJJCNXM_8064d8e1fb_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cas/fw_cas_miui_CAS_V14.0.2.0.TJJCNXM_8064d8e1fb_13.0.zip
+  filename: fw_cas_miui_CAS_V14.0.2.0.TJJCNXM_8064d8e1fb_13.0.zip
   region: China
   versions:
-    android: '12.0'
-    miui: V13.0.6.0.SJJCNXM
+    android: '13.0'
+    miui: V14.0.2.0.TJJCNXM
 - branch: weekly
   date: '2022-03-25'
   downloads:
@@ -1209,15 +1209,15 @@
     android: '13.0'
     miui: V14.0.4.0.TLFMIXM
 - branch: stable
-  date: '2023-07-05'
+  date: '2023-10-05'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-05.07.2023/fw_diting_miui_DITING_V14.0.10.0.TLFCNXM_a553f076ff_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITING_V14.0.10.0.TLFCNXM_a553f076ff_13.0.zip
-  filename: fw_diting_miui_DITING_V14.0.10.0.TLFCNXM_a553f076ff_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_diting/releases/download/stable-05.10.2023/fw_diting_miui_DITING_V14.0.11.0.TLFCNXM_ce82686a6f_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/diting/fw_diting_miui_DITING_V14.0.11.0.TLFCNXM_ce82686a6f_13.0.zip
+  filename: fw_diting_miui_DITING_V14.0.11.0.TLFCNXM_ce82686a6f_13.0.zip
   region: China
   versions:
     android: '13.0'
-    miui: V14.0.10.0.TLFCNXM
+    miui: V14.0.11.0.TLFCNXM
 - branch: stable
   date: '2023-08-23'
   downloads:
