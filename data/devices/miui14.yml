@@ -1991,6 +1991,12 @@
   name: Redmi K40S/POCO F4
   version: V14.0.3.0.TLMCNXM
 - android: '13.0'
+  codename: munch
+  date: '2023-10-07'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLMINXM/fw_munch_miui_MUNCHINGlobal_V14.0.6.0.TLMINXM_1d718e09d4_13.0.zip
+  name: Redmi K40S/POCO F4
+  version: V14.0.6.0.TLMINXM
+- android: '13.0'
   codename: nabu
   date: '2023-07-21'
   download: https://bigota.d.miui.com/V14.0.6.0.TKXEUXM/fw_nabu_miui_NABUEEAGlobal_V14.0.6.0.TKXEUXM_b5f4368b2c_13.0.zip
