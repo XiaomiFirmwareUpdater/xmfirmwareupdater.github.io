@@ -52,8 +52,10 @@ permalink: /archive/miui/yunluo/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Pad Global</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TLYMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-09-20</td><td><a href="/miui/yunluo/stable beta/V14.0.3.0.TLYMIXM/">Download</a></td></tr>
-<tr><td>Redmi Pad EEA</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.4.0.TLYEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-09-20</td><td><a href="/miui/yunluo/stable beta/V14.0.4.0.TLYEUXM/">Download</a></td></tr>
+                <tr><td>Redmi Pad Global</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TLYMIXM</td><td>13.0</td><td>3.9 GB</td><td>2023-09-20</td><td><a href="/miui/yunluo/stable/V14.0.3.0.TLYMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad Global</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TLYMIXM</td><td>13.0</td><td>4.5 GB</td><td>2023-09-14</td><td><a href="/miui/yunluo/stable/V14.0.3.0.TLYMIXM/">Download</a></td></tr>
+<tr><td>Redmi Pad EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.4.0.TLYEUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-09-20</td><td><a href="/miui/yunluo/stable/V14.0.4.0.TLYEUXM/">Download</a></td></tr>
+<tr><td>Redmi Pad EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.4.0.TLYEUXM</td><td>13.0</td><td>4.5 GB</td><td>2023-09-14</td><td><a href="/miui/yunluo/stable/V14.0.4.0.TLYEUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Turkey</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLYTRXM</td><td>13.0</td><td>3.9 GB</td><td>2023-08-09</td><td><a href="/miui/yunluo/stable beta/V14.0.2.0.TLYTRXM/">Download</a></td></tr>
 <tr><td>Redmi Pad Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.2.0.TLYRUXM</td><td>13.0</td><td>3.9 GB</td><td>2023-08-09</td><td><a href="/miui/yunluo/stable beta/V14.0.2.0.TLYRUXM/">Download</a></td></tr>
 <tr><td>Redmi Pad India</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TLYINXM</td><td>13.0</td><td>3.9 GB</td><td>2023-08-01</td><td><a href="/miui/yunluo/stable/V14.0.2.0.TLYINXM/">Download</a></td></tr>
