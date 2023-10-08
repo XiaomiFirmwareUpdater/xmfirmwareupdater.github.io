@@ -11889,16 +11889,6 @@
     android: '11.0'
     miui: 21.6.2
 - branch: stable
-  date: '2021-08-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-18.08.2021/fw_cetus_miui_CETUS_V12.0.21.0.RJTCNXM_88269eae6e_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cetus/fw_cetus_miui_CETUS_V12.0.21.0.RJTCNXM_88269eae6e_11.0.zip
-  filename: fw_cetus_miui_CETUS_V12.0.21.0.RJTCNXM_88269eae6e_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: V12.0.21.0.RJTCNXM
-- branch: stable
   date: '2021-12-17'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cetus/releases/download/stable-17.12.2021/fw_cetus_miui_CETUS_V12.5.4.0.RJTCNXM_c09aa6b771_11.0.zip
@@ -66638,6 +66628,16 @@
   versions:
     android: '13.0'
     miui: V14.0.1.0.TGDEUXM
+- branch: stable
+  date: '2023-10-08'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_viva/releases/download/stable-08.10.2023/fw_viva_miui_VIVAEEAGlobal_V14.0.3.0.TGDEUXM_4ac479b3e9_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/viva/fw_viva_miui_VIVAEEAGlobal_V14.0.3.0.TGDEUXM_4ac479b3e9_13.0.zip
+  filename: fw_viva_miui_VIVAEEAGlobal_V14.0.3.0.TGDEUXM_4ac479b3e9_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TGDEUXM
 - branch: stable
   date: '2022-03-08'
   downloads:
