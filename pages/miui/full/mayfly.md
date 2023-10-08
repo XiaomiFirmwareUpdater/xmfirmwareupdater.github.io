@@ -52,7 +52,8 @@ permalink: /archive/miui/mayfly/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Xiaomi 12S China</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.10.0.TLTCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-09-25</td><td><a href="/miui/mayfly/stable beta/V14.0.10.0.TLTCNXM/">Download</a></td></tr>
+                <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>V14.0.10.0.TLTCNXM</td><td>13.0</td><td>5.8 GB</td><td>2023-09-25</td><td><a href="/miui/mayfly/stable/V14.0.10.0.TLTCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.10.0.TLTCNXM</td><td>13.0</td><td>7.3 GB</td><td>2023-08-25</td><td><a href="/miui/mayfly/stable/V14.0.10.0.TLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.18.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-09-22</td><td><a href="/miui/mayfly/public beta/V14.0.23.9.18.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.11.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-09-15</td><td><a href="/miui/mayfly/public beta/V14.0.23.9.11.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V14.0.23.9.4.DEV</td><td>13.0</td><td>5.7 GB</td><td>2023-09-08</td><td><a href="/miui/mayfly/public beta/V14.0.23.9.4.DEV/">Download</a></td></tr>
@@ -107,9 +108,9 @@ permalink: /archive/miui/mayfly/
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.28.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-09-30</td><td><a href="/miui/mayfly/public beta/V13.1.22.9.28.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.19.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-09-23</td><td><a href="/miui/mayfly/public beta/V13.1.22.9.19.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.12.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-09-16</td><td><a href="/miui/mayfly/public beta/V13.1.22.9.12.DEV/">Download</a></td></tr>
-<tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-09-09</td><td><a href="/miui/mayfly/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Recovery</td><td>V14.0.5.0.TLTCNXM</td><td>13.0</td><td>5.9 GB</td><td>2023-01-12</td><td><a href="/miui/mayfly/stable/V14.0.5.0.TLTCNXM/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Stable</td><td>Fastboot</td><td>V14.0.5.0.TLTCNXM</td><td>13.0</td><td>7.6 GB</td><td>2023-01-09</td><td><a href="/miui/mayfly/stable/V14.0.5.0.TLTCNXM/">Download</a></td></tr>
+<tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.9.5.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-09-09</td><td><a href="/miui/mayfly/public beta/V13.1.22.9.5.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.29.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-09-02</td><td><a href="/miui/mayfly/public beta/V13.1.22.8.29.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.22.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-08-26</td><td><a href="/miui/mayfly/public beta/V13.1.22.8.22.DEV/">Download</a></td></tr>
 <tr><td>Xiaomi 12S China</td><td>Public Beta</td><td>Recovery</td><td>V13.1.22.8.16.DEV</td><td>12.0</td><td>5.6 GB</td><td>2022-08-19</td><td><a href="/miui/mayfly/public beta/V13.1.22.8.16.DEV/">Download</a></td></tr>
