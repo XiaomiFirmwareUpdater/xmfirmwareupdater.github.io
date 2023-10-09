@@ -1529,15 +1529,15 @@
     android: '13.0'
     miui: V14.0.9.0.TMCMIXM
 - branch: stable
-  date: '2023-09-22'
+  date: '2023-10-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-22.09.2023/fw_fuxi_miui_FUXI_V14.0.1.14.UMCCNXM_e8949cfca7_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.1.14.UMCCNXM_e8949cfca7_14.0.zip
-  filename: fw_fuxi_miui_FUXI_V14.0.1.14.UMCCNXM_e8949cfca7_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fuxi/releases/download/stable-09.10.2023/fw_fuxi_miui_FUXI_V14.0.1.15.UMCCNXM_eb0d00b618_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fuxi/fw_fuxi_miui_FUXI_V14.0.1.15.UMCCNXM_eb0d00b618_14.0.zip
+  filename: fw_fuxi_miui_FUXI_V14.0.1.15.UMCCNXM_eb0d00b618_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: V14.0.1.14.UMCCNXM
+    miui: V14.0.1.15.UMCCNXM
 - branch: stable
   date: '2023-08-11'
   downloads:
@@ -3079,15 +3079,15 @@
     android: '13.0'
     miui: V14.0.12.0.TMBMIXM
 - branch: stable
-  date: '2023-09-15'
+  date: '2023-10-09'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-15.09.2023/fw_nuwa_miui_NUWA_V14.0.1.3.UMBCNXM_71e9a4495d_14.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWA_V14.0.1.3.UMBCNXM_71e9a4495d_14.0.zip
-  filename: fw_nuwa_miui_NUWA_V14.0.1.3.UMBCNXM_71e9a4495d_14.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_nuwa/releases/download/stable-09.10.2023/fw_nuwa_miui_NUWA_V14.0.1.14.UMBCNXM_37edee3f63_14.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/nuwa/fw_nuwa_miui_NUWA_V14.0.1.14.UMBCNXM_37edee3f63_14.0.zip
+  filename: fw_nuwa_miui_NUWA_V14.0.1.14.UMBCNXM_37edee3f63_14.0.zip
   region: China
   versions:
     android: '14.0'
-    miui: V14.0.1.3.UMBCNXM
+    miui: V14.0.1.14.UMBCNXM
 - branch: stable
   date: '2023-09-06'
   downloads:
