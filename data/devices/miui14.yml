@@ -4440,6 +4440,12 @@
   version: V14.0.1.0.TLLMIXM
 - android: '13.0'
   codename: ziyi
+  date: '2023-10-09'
+  download: https://bigota.d.miui.com/V14.0.4.0.TLLMIXM/fw_ziyi_miui_ZIYIGlobal_V14.0.4.0.TLLMIXM_6c793351ac_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.4.0.TLLMIXM
+- android: '13.0'
+  codename: ziyi
   date: '2023-06-09'
   download: https://bigota.d.miui.com/V14.0.4.0.TLLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.4.0.TLLEUXM_c44b955c1c_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
