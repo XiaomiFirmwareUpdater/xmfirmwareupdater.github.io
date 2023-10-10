@@ -19,16 +19,6 @@
     android: '11.0'
     miui: 21.10.28
 - branch: weekly
-  date: '2020-07-30'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-30.07.2020/fw_cmi_miui_CMI_20.7.30_eacb8ffcde_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.7.30/cmi/fw_cmi_miui_CMI_20.7.30_eacb8ffcde_11.0.zip
-  filename: fw_cmi_miui_CMI_20.7.30_eacb8ffcde_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 20.7.30
-- branch: weekly
   date: '2020-10-29'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-29.10.2020/fw_cmi_miui_CMI_20.10.29_783abbd026_11.0.zip
@@ -218,16 +208,6 @@
   versions:
     android: '11.0'
     miui: 21.4.21
-- branch: weekly
-  date: '2021-10-21'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-21.10.2021/fw_cmi_miui_CMI_21.10.20_656ab9c921_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.10.20/cmi/fw_cmi_miui_CMI_21.10.20_656ab9c921_11.0.zip
-  filename: fw_cmi_miui_CMI_21.10.20_656ab9c921_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.10.20
 - branch: weekly
   date: '2020-08-21'
   downloads:
@@ -499,16 +479,6 @@
     android: '10.0'
     miui: 20.5.7
 - branch: weekly
-  date: '2021-04-18'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-08.04.2021/fw_cmi_miui_CMI_21.4.8_69f299a14b_11.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/21.4.8/cmi/fw_cmi_miui_CMI_21.4.8_69f299a14b_11.0.zip
-  filename: fw_cmi_miui_CMI_21.4.8_69f299a14b_11.0.zip
-  region: China
-  versions:
-    android: '11.0'
-    miui: 21.4.8
-- branch: weekly
   date: '2021-01-08'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-08.01.2021/fw_cmi_miui_CMI_21.1.6_9d95e801aa_11.0.zip
@@ -579,16 +549,6 @@
     android: '11.0'
     miui: 21.3.3
 - branch: weekly
-  date: '2020-03-05'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-05.03.2020/fw_cmi_miui_CMI_20.3.5_ce04b4f9ba_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.5/cmi/fw_cmi_miui_CMI_20.3.5_ce04b4f9ba_10.0.zip
-  filename: fw_cmi_miui_CMI_20.3.5_ce04b4f9ba_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.5
-- branch: weekly
   date: '2021-12-04'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-04.12.2021/fw_cmi_miui_CMI_21.11.30_a2cf8e7cfd_12.0.zip
@@ -648,16 +608,6 @@
   versions:
     android: '11.0'
     miui: 21.6.2
-- branch: weekly
-  date: '2020-04-03'
-  downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/weekly-03.04.2020/fw_cmi_miui_CMI_20.3.28_0614aede0e_10.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Developer/20.3.28/cmi/fw_cmi_miui_CMI_20.3.28_0614aede0e_10.0.zip
-  filename: fw_cmi_miui_CMI_20.3.28_0614aede0e_10.0.zip
-  region: China
-  versions:
-    android: '10.0'
-    miui: 20.3.28
 - branch: weekly
   date: '2021-10-02'
   downloads:
@@ -1028,6 +978,56 @@
   versions:
     android: '11.0'
     miui: V12.5.2.0.RJAMIXM
+- branch: stable
+  date: '2022-03-17'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-17.03.2022/fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
+  filename: fw_cmi_miui_CMI_V13.0.3.0.SJACNXM_ff3957663c_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.3.0.SJACNXM
+- branch: stable
+  date: '2021-04-18'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-16.04.2021/fw_cmi_miui_CMIEEAGlobal_V12.2.6.0.RJAEUXM_e9c3b2f6b1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMIEEAGlobal_V12.2.6.0.RJAEUXM_e9c3b2f6b1_11.0.zip
+  filename: fw_cmi_miui_CMIEEAGlobal_V12.2.6.0.RJAEUXM_e9c3b2f6b1_11.0.zip
+  region: Europe
+  versions:
+    android: '11.0'
+    miui: V12.2.6.0.RJAEUXM
+- branch: stable
+  date: '2023-05-15'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-15.05.2023/fw_cmi_miui_CMI_V14.0.3.0.TJACNXM_03a653ca7b_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/cmi/fw_cmi_miui_CMI_V14.0.3.0.TJACNXM_03a653ca7b_13.0.zip
+  filename: fw_cmi_miui_CMI_V14.0.3.0.TJACNXM_03a653ca7b_13.0.zip
+  region: China
+  versions:
+    android: '13.0'
+    miui: V14.0.3.0.TJACNXM
+- branch: stable
+  date: '2022-01-14'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-14.01.2022/fw_cmi_miui_CMI_V13.0.0.1.1.DEV_2acdca7ba6_12.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V13/cmi/fw_cmi_miui_CMI_V13.0.0.1.1.DEV_2acdca7ba6_12.0.zip
+  filename: fw_cmi_miui_CMI_V13.0.0.1.1.DEV_2acdca7ba6_12.0.zip
+  region: China
+  versions:
+    android: '12.0'
+    miui: V13.0.0.1.1.DEV
+- branch: stable
+  date: '2021-09-13'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_cmi/releases/download/stable-13.09.2021/fw_cmi_miui_CMI_V12.5.8.0.RJACNXM_cc82030bb1_11.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V12/cmi/fw_cmi_miui_CMI_V12.5.8.0.RJACNXM_cc82030bb1_11.0.zip
+  filename: fw_cmi_miui_CMI_V12.5.8.0.RJACNXM_cc82030bb1_11.0.zip
+  region: China
+  versions:
+    android: '11.0'
+    miui: V12.5.8.0.RJACNXM
 - branch: stable
   date: '2022-03-17'
   downloads:
