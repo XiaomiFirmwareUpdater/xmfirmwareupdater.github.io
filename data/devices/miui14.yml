@@ -882,6 +882,12 @@
   version: V14.0.4.0.TKEEUXM
 - android: '13.0'
   codename: fleur
+  date: '2023-10-10'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_V14.0.5.0.TKEMIXM_6e13241437_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V14.0.5.0.TKEMIXM
+- android: '13.0'
+  codename: fleur
   date: '2023-06-05'
   download: https://bigota.d.miui.com/V14.0.3.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_V14.0.3.0.TKEMIXM_2ff7566a60_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -976,6 +982,12 @@
   download: https://bigota.d.miui.com/V14.0.1.14.UMCCNXM/fw_fuxi_miui_FUXI_V14.0.1.14.UMCCNXM_e8949cfca7_14.0.zip
   name: Xiaomi 13
   version: V14.0.1.14.UMCCNXM
+- android: '13.0'
+  codename: fuxi
+  date: '2023-07-18'
+  download: https://bigota.d.miui.com/V14.0.30.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.30.0.TMCCNXM_a93872e3c3_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.30.0.TMCCNXM
 - android: '14.0'
   codename: fuxi
   date: '2023-09-15'
@@ -1030,6 +1042,12 @@
   download: https://bigota.d.miui.com/V14.0.0.11.UMCCNXM/fw_fuxi_miui_FUXI_V14.0.0.11.UMCCNXM_1fc98fd237_14.0.zip
   name: Xiaomi 13
   version: V14.0.0.11.UMCCNXM
+- android: '13.0'
+  codename: fuxi
+  date: '2023-06-01'
+  download: https://bigota.d.miui.com/V14.0.27.0.TMCCNXM/fw_fuxi_miui_FUXI_V14.0.27.0.TMCCNXM_15d7021adf_13.0.zip
+  name: Xiaomi 13
+  version: V14.0.27.0.TMCCNXM
 - android: '13.0'
   codename: fuxi
   date: '2023-05-01'
@@ -3024,6 +3042,12 @@
   version: V14.0.7.0.THZMIXM
 - android: '13.0'
   codename: sea
+  date: '2023-10-10'
+  download: https://bigota.d.miui.com/V14.0.8.0.THZMIXM/fw_sea_miui_SEAGlobal_V14.0.8.0.THZMIXM_2031d769dd_13.0.zip
+  name: Redmi Note 12S
+  version: V14.0.8.0.THZMIXM
+- android: '13.0'
+  codename: sea
   date: '2023-05-10'
   download: https://bigota.d.miui.com/V14.0.1.0.THZEUXM/fw_sea_miui_SEAEEAGlobal_V14.0.1.0.THZEUXM_7186c5c857_13.0.zip
   name: Redmi Note 12S
@@ -3166,6 +3190,12 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TGCINXM/fw_spes_miui_SPESINGlobal_V14.0.2.0.TGCINXM_0ab3ac3fee_13.0.zip
   name: Redmi Note 11
   version: V14.0.2.0.TGCINXM
+- android: '13.0'
+  codename: spes
+  date: '2023-10-10'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGCMIXM/fw_spes_miui_SPESGlobal_V14.0.4.0.TGCMIXM_69f8748327_13.0.zip
+  name: Redmi Note 11
+  version: V14.0.4.0.TGCMIXM
 - android: '13.0'
   codename: spes
   date: '2023-08-08'
