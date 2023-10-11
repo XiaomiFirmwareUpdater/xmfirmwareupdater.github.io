@@ -59,6 +59,16 @@
     android: '13.0'
     miui: V14.0.4.0.TMXMIXM
 - branch: stable
+  date: '2023-10-11'
+  downloads:
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-11.10.2023/fw_fire_miui_FIREEEAGlobal_V14.0.10.0.TMXEUXM_66fb54af59_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fire/fw_fire_miui_FIREEEAGlobal_V14.0.10.0.TMXEUXM_66fb54af59_13.0.zip
+  filename: fw_fire_miui_FIREEEAGlobal_V14.0.10.0.TMXEUXM_66fb54af59_13.0.zip
+  region: Europe
+  versions:
+    android: '13.0'
+    miui: V14.0.10.0.TMXEUXM
+- branch: stable
   date: '2023-07-11'
   downloads:
     github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fire/releases/download/stable-11.07.2023/fw_fire_miui_FIREGlobal_V14.0.7.0.TMXMIXM_be6194c763_13.0.zip
