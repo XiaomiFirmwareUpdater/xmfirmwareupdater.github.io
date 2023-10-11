@@ -52,7 +52,9 @@ permalink: /archive/miui/rosemary/
                     </tr>
                 </thead>
                 <tbody>
-                <tr><td>Redmi Note 10S Russia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKLRUXM</td><td>13.0</td><td>3.7 GB</td><td>2023-09-22</td><td><a href="/miui/rosemary/stable beta/V14.0.3.0.TKLRUXM/">Download</a></td></tr>
+                <tr><td>Redmi Note 10S / Redmi Note 11 SE India</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.5.0.TKLINXM</td><td>13.0</td><td>3.5 GB</td><td>2023-10-11</td><td><a href="/miui/rosemary/stable beta/V14.0.5.0.TKLINXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Russia</td><td>Stable</td><td>Recovery</td><td>V14.0.3.0.TKLRUXM</td><td>13.0</td><td>3.7 GB</td><td>2023-09-22</td><td><a href="/miui/rosemary/stable/V14.0.3.0.TKLRUXM/">Download</a></td></tr>
+<tr><td>Redmi Note 10S Russia</td><td>Stable</td><td>Fastboot</td><td>V14.0.3.0.TKLRUXM</td><td>13.0</td><td>6.1 GB</td><td>2023-08-23</td><td><a href="/miui/rosemary/stable/V14.0.3.0.TKLRUXM/">Download</a></td></tr>
 <tr><td>POCO M5S EEA</td><td>Stable</td><td>Recovery</td><td>V14.0.2.0.TFFEUXM</td><td>13.0</td><td>3.8 GB</td><td>2023-09-15</td><td><a href="/miui/rosemary/stable/V14.0.2.0.TFFEUXM/">Download</a></td></tr>
 <tr><td>POCO M5S EEA</td><td>Stable</td><td>Fastboot</td><td>V14.0.2.0.TFFEUXM</td><td>13.0</td><td>6.7 GB</td><td>2023-08-30</td><td><a href="/miui/rosemary/stable/V14.0.2.0.TFFEUXM/">Download</a></td></tr>
 <tr><td>Redmi Note 10S Indonesia</td><td>Stable Beta</td><td>Recovery</td><td>V14.0.3.0.TKLIDXM</td><td>13.0</td><td>3.5 GB</td><td>2023-09-13</td><td><a href="/miui/rosemary/stable beta/V14.0.3.0.TKLIDXM/">Download</a></td></tr>

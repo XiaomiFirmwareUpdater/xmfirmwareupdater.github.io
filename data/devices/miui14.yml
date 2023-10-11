@@ -1422,6 +1422,12 @@
   version: V14.0.5.0.TLSEUXM
 - android: '13.0'
   codename: light
+  date: '2023-10-11'
+  download: https://bigota.d.miui.com/V14.0.8.0.TLSINXM/fw_light_miui_LIGHTINGlobal_V14.0.8.0.TLSINXM_5bedacf7dd_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.8.0.TLSINXM
+- android: '13.0'
+  codename: light
   date: '2023-07-11'
   download: https://bigota.d.miui.com/V14.0.3.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.3.0.TLSEUXM_3159a1b74d_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
@@ -2874,6 +2880,12 @@
   version: V14.0.3.0.TKLINXM
 - android: '13.0'
   codename: rosemary
+  date: '2023-10-11'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.5.0.TKLINXM_88508ddbcd_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.5.0.TKLINXM
+- android: '13.0'
+  codename: rosemary
   date: '2023-04-10'
   download: https://bigota.d.miui.com/V14.0.2.0.TKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.2.0.TKLINXM_e296bfaa3b_13.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
@@ -3250,84 +3262,6 @@
   download: https://bigota.d.miui.com/V14.0.2.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_V14.0.2.0.TGKMIXM_b001882d2d_13.0.zip
   name: Redmi Note 11 NFC
   version: V14.0.2.0.TGKMIXM
-- android: '13.0'
-  codename: star
-  date: '2023-05-29'
-  download: https://bigota.d.miui.com/V14.0.9.0.TKACNXM/fw_star_miui_STAR_V14.0.9.0.TKACNXM_88fb6d9f79_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.9.0.TKACNXM
-- android: '13.0'
-  codename: star
-  date: '2023-07-27'
-  download: https://bigota.d.miui.com/V14.0.4.0.TKAMIXM/fw_star_miui_STARGlobal_V14.0.4.0.TKAMIXM_6538dcc3b8_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.4.0.TKAMIXM
-- android: '13.0'
-  codename: star
-  date: '2023-03-27'
-  download: https://bigota.d.miui.com/V14.0.1.0.TKAINXM/fw_star_miui_STARINGlobal_V14.0.1.0.TKAINXM_823ac4c79b_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.1.0.TKAINXM
-- android: '13.0'
-  codename: star
-  date: '2023-08-21'
-  download: https://bigota.d.miui.com/V14.0.5.0.TKAEUXM/fw_star_miui_STAREEAGlobal_V14.0.5.0.TKAEUXM_1cf7a35dbf_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.5.0.TKAEUXM
-- android: '13.0'
-  codename: star
-  date: '2023-03-21'
-  download: https://bigota.d.miui.com/V14.0.3.0.TKAEUXM/fw_star_miui_STAREEAGlobal_V14.0.3.0.TKAEUXM_39d6121a64_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.3.0.TKAEUXM
-- android: '13.0'
-  codename: star
-  date: '2023-05-15'
-  download: https://bigota.d.miui.com/V14.0.2.0.TKAMIXM/fw_star_miui_STARGlobal_V14.0.2.0.TKAMIXM_3c9bb8ae88_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.2.0.TKAMIXM
-- android: '13.0'
-  codename: star
-  date: '2023-03-14'
-  download: https://bigota.d.miui.com/V14.0.1.0.TKAMIXM/fw_star_miui_STARGlobal_V14.0.1.0.TKAMIXM_f8a19b0595_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.1.0.TKAMIXM
-- android: '13.0'
-  codename: star
-  date: '2023-01-15'
-  download: https://bigota.d.miui.com/V14.0.6.0.TKACNXM/fw_star_miui_STAR_V14.0.6.0.TKACNXM_24d0070551_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.6.0.TKACNXM
-- android: '13.0'
-  codename: star
-  date: '2023-09-11'
-  download: https://bigota.d.miui.com/V14.0.5.0.TKAMIXM/fw_star_miui_STARGlobal_V14.0.5.0.TKAMIXM_a83e12e28c_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.5.0.TKAMIXM
-- android: '13.0'
-  codename: star
-  date: '2023-08-11'
-  download: https://bigota.d.miui.com/V14.0.3.0.TKAINXM/fw_star_miui_STARINGlobal_V14.0.3.0.TKAINXM_b838d2b85f_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.3.0.TKAINXM
-- android: '13.0'
-  codename: star
-  date: '2023-06-06'
-  download: https://bigota.d.miui.com/V14.0.4.0.TKAEUXM/fw_star_miui_STAREEAGlobal_V14.0.4.0.TKAEUXM_f5a36babd0_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.4.0.TKAEUXM
-- android: '13.0'
-  codename: star
-  date: '2023-06-05'
-  download: https://bigota.d.miui.com/V14.0.2.0.TKAINXM/fw_star_miui_STARINGlobal_V14.0.2.0.TKAINXM_260004a39c_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.2.0.TKAINXM
-- android: '13.0'
-  codename: star
-  date: '2023-10-02'
-  download: https://bigota.d.miui.com/V14.0.11.0.TKACNXM/fw_star_miui_STAR_V14.0.11.0.TKACNXM_cdad1fda37_13.0.zip
-  name: Mi 11 Pro/Ultra/Mi 11 Ultra
-  version: V14.0.11.0.TKACNXM
 - android: '13.0'
   codename: sunstone
   date: '2023-08-28'
