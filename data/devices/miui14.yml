@@ -732,10 +732,22 @@
   version: V14.0.2.0.TCVCNXM
 - android: '13.0'
   codename: elish
+  date: '2023-10-12'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKYCNXM/fw_elish_miui_ELISH_V14.0.5.0.TKYCNXM_ca2d1e6acd_13.0.zip
+  name: Xiaomi Pad 5 Pro Wi-Fi
+  version: V14.0.5.0.TKYCNXM
+- android: '13.0'
+  codename: elish
   date: '2023-06-12'
   download: https://bigota.d.miui.com/V14.0.4.0.TKYCNXM/fw_elish_miui_ELISH_V14.0.4.0.TKYCNXM_19b725e343_13.0.zip
   name: Xiaomi Pad 5 Pro Wi-Fi
   version: V14.0.4.0.TKYCNXM
+- android: '13.0'
+  codename: enuma
+  date: '2023-10-12'
+  download: https://bigota.d.miui.com/V14.0.4.0.TKZCNXM/fw_enuma_miui_ENUMA_V14.0.4.0.TKZCNXM_aa80acda54_13.0.zip
+  name: Xiaomi Pad 5 Pro 5G
+  version: V14.0.4.0.TKZCNXM
 - android: '13.0'
   codename: enuma
   date: '2023-06-12'
@@ -4492,6 +4504,12 @@
   download: https://bigota.d.miui.com/V14.0.3.0.TLLMIXM/fw_ziyi_miui_ZIYIGlobal_V14.0.3.0.TLLMIXM_e6bb63c2aa_13.0.zip
   name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
   version: V14.0.3.0.TLLMIXM
+- android: '13.0'
+  codename: ziyi
+  date: '2023-10-12'
+  download: https://bigota.d.miui.com/V14.0.9.0.TLLEUXM/fw_ziyi_miui_ZIYIEEAGlobal_V14.0.9.0.TLLEUXM_23f4ac86c6_13.0.zip
+  name: Xiaomi Civi 2/13 Lite/Xiaomi 13 Lite
+  version: V14.0.9.0.TLLEUXM
 - android: '13.0'
   codename: ziyi
   date: '2023-05-12'
