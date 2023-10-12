@@ -900,6 +900,12 @@
   version: V14.0.4.0.TKEEUXM
 - android: '13.0'
   codename: fleur
+  date: '2023-10-12'
+  download: https://bigota.d.miui.com/V14.0.5.0.TKEEUXM/fw_fleur_miui_FLEUREEAGlobal_V14.0.5.0.TKEEUXM_25b24748bc_13.0.zip
+  name: Redmi Note 11S 4G/POCO M4 Pro 4G
+  version: V14.0.5.0.TKEEUXM
+- android: '13.0'
+  codename: fleur
   date: '2023-10-10'
   download: https://bigota.d.miui.com/V14.0.5.0.TKEMIXM/fw_fleur_miui_FLEURGlobal_V14.0.5.0.TKEMIXM_6e13241437_13.0.zip
   name: Redmi Note 11S 4G/POCO M4 Pro 4G
@@ -1438,6 +1444,12 @@
   download: https://bigota.d.miui.com/V14.0.5.0.TLSEUXM/fw_light_miui_LIGHTEEAGlobal_V14.0.5.0.TLSEUXM_61ced77f7c_13.0.zip
   name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
   version: V14.0.5.0.TLSEUXM
+- android: '13.0'
+  codename: light
+  date: '2023-10-12'
+  download: https://bigota.d.miui.com/V14.0.6.0.TLSMIXM/fw_light_miui_LIGHTGlobal_V14.0.6.0.TLSMIXM_961f284da0_13.0.zip
+  name: Redmi Note 11E/Redmi 10 5G/POCO M4 5G/Redmi 11 Prime 5G
+  version: V14.0.6.0.TLSMIXM
 - android: '13.0'
   codename: light
   date: '2023-10-11'
@@ -3118,6 +3130,12 @@
   download: https://bigota.d.miui.com/V14.0.4.0.TKUEUXM/fw_selene_miui_SELENEEEAGlobal_V14.0.4.0.TKUEUXM_daee26bf72_13.0.zip
   name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
   version: V14.0.4.0.TKUEUXM
+- android: '13.0'
+  codename: selene
+  date: '2023-10-12'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKUEUXM/fw_selene_miui_SELENEEEAGlobal_V14.0.7.0.TKUEUXM_7bf7af9cc0_13.0.zip
+  name: Redmi 10/Redmi 10 2022/Redmi 10 Prime
+  version: V14.0.7.0.TKUEUXM
 - android: '13.0'
   codename: selene
   date: '2023-09-11'

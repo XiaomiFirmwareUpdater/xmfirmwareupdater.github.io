@@ -1449,15 +1449,15 @@
     android: '13.0'
     miui: V14.0.5.0.TKEMIXM
 - branch: stable
-  date: '2023-07-14'
+  date: '2023-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-14.07.2023/fw_fleur_miui_FLEUREEAGlobal_V14.0.4.0.TKEEUXM_2e7d43bae3_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fleur/fw_fleur_miui_FLEUREEAGlobal_V14.0.4.0.TKEEUXM_2e7d43bae3_13.0.zip
-  filename: fw_fleur_miui_FLEUREEAGlobal_V14.0.4.0.TKEEUXM_2e7d43bae3_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_fleur/releases/download/stable-12.10.2023/fw_fleur_miui_FLEUREEAGlobal_V14.0.5.0.TKEEUXM_25b24748bc_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/fleur/fw_fleur_miui_FLEUREEAGlobal_V14.0.5.0.TKEEUXM_25b24748bc_13.0.zip
+  filename: fw_fleur_miui_FLEUREEAGlobal_V14.0.5.0.TKEEUXM_25b24748bc_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.4.0.TKEEUXM
+    miui: V14.0.5.0.TKEEUXM
 - branch: stable
   date: '2023-09-04'
   downloads:
@@ -2329,15 +2329,15 @@
     android: '7.0'
     miui: 8.9.13
 - branch: stable
-  date: '2023-09-08'
+  date: '2023-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-09.09.2023/fw_light_miui_LIGHTGlobal_V14.0.5.0.TLSMIXM_9a500fbf84_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHTGlobal_V14.0.5.0.TLSMIXM_9a500fbf84_13.0.zip
-  filename: fw_light_miui_LIGHTGlobal_V14.0.5.0.TLSMIXM_9a500fbf84_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_light/releases/download/stable-12.10.2023/fw_light_miui_LIGHTGlobal_V14.0.6.0.TLSMIXM_961f284da0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/light/fw_light_miui_LIGHTGlobal_V14.0.6.0.TLSMIXM_961f284da0_13.0.zip
+  filename: fw_light_miui_LIGHTGlobal_V14.0.6.0.TLSMIXM_961f284da0_13.0.zip
   region: Global
   versions:
     android: '13.0'
-    miui: V14.0.5.0.TLSMIXM
+    miui: V14.0.6.0.TLSMIXM
 - branch: stable
   date: '2023-07-30'
   downloads:
@@ -4319,15 +4319,15 @@
     android: '13.0'
     miui: V14.0.4.0.TKUMIXM
 - branch: stable
-  date: '2023-09-11'
+  date: '2023-10-12'
   downloads:
-    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-11.09.2023/fw_selene_miui_SELENEEEAGlobal_V14.0.6.0.TKUEUXM_594f27c62b_13.0.zip
-    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEEEAGlobal_V14.0.6.0.TKUEUXM_594f27c62b_13.0.zip
-  filename: fw_selene_miui_SELENEEEAGlobal_V14.0.6.0.TKUEUXM_594f27c62b_13.0.zip
+    github: https://github.com/XiaomiFirmwareUpdaterReleases/firmware_xiaomi_selene/releases/download/stable-12.10.2023/fw_selene_miui_SELENEEEAGlobal_V14.0.7.0.TKUEUXM_7bf7af9cc0_13.0.zip
+    osdn: https://osdn.net/projects/xiaomifirmwareupdater/storage/Stable/V14/selene/fw_selene_miui_SELENEEEAGlobal_V14.0.7.0.TKUEUXM_7bf7af9cc0_13.0.zip
+  filename: fw_selene_miui_SELENEEEAGlobal_V14.0.7.0.TKUEUXM_7bf7af9cc0_13.0.zip
   region: Europe
   versions:
     android: '13.0'
-    miui: V14.0.6.0.TKUEUXM
+    miui: V14.0.7.0.TKUEUXM
 - branch: stable
   date: '2023-08-01'
   downloads:
