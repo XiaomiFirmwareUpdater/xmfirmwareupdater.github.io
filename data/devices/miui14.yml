@@ -960,6 +960,12 @@
   version: V14.0.4.0.TGEEUXM
 - android: '13.0'
   codename: fog
+  date: '2023-10-13'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGEMIXM/fw_fog_miui_FOGGlobal_V14.0.4.0.TGEMIXM_22f0ea8409_13.0.zip
+  name: Redmi 10C
+  version: V14.0.4.0.TGEMIXM
+- android: '13.0'
+  codename: fog
   date: '2023-08-07'
   download: https://bigota.d.miui.com/V14.0.2.0.TGEINXM/fw_fog_miui_FOGINGlobal_V14.0.2.0.TGEINXM_b6853be066_13.0.zip
   name: Redmi 10C
@@ -2904,6 +2910,12 @@
   version: V14.0.2.0.TKLMIXM
 - android: '13.0'
   codename: rosemary
+  date: '2023-10-13'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKLMIXM/fw_rosemary_miui_ROSEMARYGlobal_V14.0.7.0.TKLMIXM_fbe684c2dc_13.0.zip
+  name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
+  version: V14.0.7.0.TKLMIXM
+- android: '13.0'
+  codename: rosemary
   date: '2023-06-12'
   download: https://bigota.d.miui.com/V14.0.3.0.TKLINXM/fw_rosemary_miui_ROSEMARYINGlobal_V14.0.3.0.TKLINXM_4f917c4a2d_13.0.zip
   name: Redmi Note 10S/Redmi Note 11 SE/POCO M5S
@@ -3288,6 +3300,12 @@
   version: V14.0.2.0.TGKEUXM
 - android: '13.0'
   codename: spesn
+  date: '2023-10-13'
+  download: https://bigota.d.miui.com/V14.0.4.0.TGKMIXM/fw_spesn_miui_SPESNGlobal_V14.0.4.0.TGKMIXM_7ce43cc0dc_13.0.zip
+  name: Redmi Note 11 NFC
+  version: V14.0.4.0.TGKMIXM
+- android: '13.0'
+  codename: spesn
   date: '2023-07-11'
   download: https://bigota.d.miui.com/V14.0.1.0.TGKEUXM/fw_spesn_miui_SPESNEEAGlobal_V14.0.1.0.TGKEUXM_83be9365d1_13.0.zip
   name: Redmi Note 11 NFC
@@ -3544,6 +3562,12 @@
   download: https://bigota.d.miui.com/V14.0.1.0.TKFMIXM/fw_sweet_miui_SWEETGlobal_V14.0.1.0.TKFMIXM_dd214aa68d_13.0.zip
   name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
   version: V14.0.1.0.TKFMIXM
+- android: '13.0'
+  codename: sweet
+  date: '2023-10-13'
+  download: https://bigota.d.miui.com/V14.0.7.0.TKFMIXM/fw_sweet_miui_SWEETGlobal_V14.0.7.0.TKFMIXM_2ccc8e32b7_13.0.zip
+  name: Redmi Note 10 Pro/Redmi Note 12 Pro 4G
+  version: V14.0.7.0.TKFMIXM
 - android: '13.0'
   codename: sweetin
   date: '2023-04-18'
